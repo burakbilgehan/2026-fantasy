@@ -9,27 +9,30 @@ Status: 🔴 blocked, 🟡 todo, 🟩 doing, ✅ done. Keep this file current at
 | T-008 | USER: submit Yahoo Fantasy API access application. | ✅ done | Submitted 2026-10-03. Waiting for Yahoo. Check with `make yahoo-check`. Top risk for the draft. API returns 403 until Yahoo approves. Approval time unknown. Draft text: `docs/yahoo-api-access-application.md`. |
 | T-009 | Plan B for live draft data: local Chrome extension (unpacked, no Web Store). | 🟩 doing | Yahoo review takes 1 to 2 weeks (Yahoo reply, 2026-10-03), so the API may not be ready by 2026-10-18. The extension reads the draft room in the user's own logged-in tab and posts to `localhost:8000`. Read-only: no clicks, nothing sent to Yahoo. Extension v0.2 (`extension/`, draftclient pages only, Yahoo Fantasy calls only, DOM snapshot every 5 min) and `POST /api/capture` (raw JSON lines in `data/raw/draft_capture/`). Done when T-009b and T-009c are done. |
 | T-009a | Capture one Yahoo mock auction draft. Find the data source (WebSocket, XHR or DOM). | ✅ done | Mock 2600009, 2026-10-03. Source = draft room WebSocket (push, browser to backend 26 ms median). Reconnect sends all past picks (`P|`) and budgets (`$|`). Bid history only while the extension runs. Draft client also loads `fantasy/v3/players` (707 players, Yahoo projections, auction value, avg cost). Message format: `docs/modules/draft.md`. Capture: `data/raw/draft_capture/2600009/20261003.jsonl`. |
-| T-009b | Backend parser + draft state model from WebSocket events (picks, bids, budgets, nomination order). Unit tests with the 2026-10-03 capture as fixture. | ✅ done | 2026-10-03. `app/draft/parser.py`, `app/draft/state.py`, tests `tests/test_draft.py`. Handles reconnect (`P\|` replay, `b\|` + `D\|` snapshot). Capture now split per draft: `data/raw/draft_capture/{league_id}/`. `make draft-ingest` writes `drafts`, `draft_teams`, `draft_picks`. Bids are kept in memory only, not in the DB (open question below). |
-| T-009c | Second mock draft, end to end. Also: decode `A\|`, `5\|`, `H\|` messages by comparing with the screen; check the service worker never sleeps through events; then drop DOM snapshots. | 🔴 blocked | Blocked: the user has no time for a second mock now. Done from the 2026-10-03 data (inferred, see `modules/draft.md`): `A` presence, `J`/`L` join/leave, `5`/`6` autopick on/off, `C` countdown, `H` header (field 4 unknown). Still unknown: `w`, `Q`, `scout`. |
+| T-009b | Backend parser + draft state model from WebSocket events (picks, bids, budgets, nomination order). Unit tests with the 2026-10-03 capture as fixture. | ✅ done | 2026-10-03. `app/draft/parser.py`, `app/draft/state.py`, tests `tests/test_draft.py`. Handles reconnect (`P\|` replay, `b\|` + `D\|` snapshot). Capture now split per draft: `data/raw/draft_capture/{league_id}/`. `make draft-ingest` writes `drafts`, `draft_teams`, `draft_picks`. Bids are kept in memory only, not in the DB (user decision, 2026-10-03: no bid table). |
+| T-009c | Second mock draft, end to end. Also: decode `A\|`, `5\|`, `H\|` messages by comparing with the screen; check the service worker never sleeps through events; then drop DOM snapshots. | 🟡 todo | Waits for the user's next mock draft. Done from the 2026-10-03 data (inferred, see `modules/draft.md`): `A` presence, `J`/`L` join/leave, `5`/`6` autopick on/off, `C` countdown, `H` header (field 4 unknown). Still unknown: `w`, `Q`, `scout`. |
 | T-009d | Check if `/nba/23772/draftresults` (public page, no login) updates live during a draft. | 🟡 todo | Low value now. Optional. |
 | T-002 | Git repo: local git + private GitHub repo. | ✅ done | https://github.com/burakbilgehan/2026-fantasy |
 | T-003 | Scaffold backend (FastAPI, SQLite) and frontend (Vite React TS). `make dev` starts both. | ✅ done | `make dev`, `make test`, `make sync`. Ctrl-C stops both (verified). |
 | T-016 | DB migrations with Alembic. | ✅ done | 2026-10-03. `backend/migrations/`, runs on backend start, `make db-upgrade`. How to add a table: `ARCHITECTURE.md`. |
 | T-004 | Yahoo OAuth flow and read client. Fetch league 23772 settings, teams, roster size. | 🟩 doing | OAuth + refresh verified live. API client written, blocked by 403 (T-008). Settings and teams come from public pages (verified, shown in UI). API JSON parsers are not verified. Re-auth: `make yahoo-auth`. Check: `make yahoo-check`. |
-| T-005 | Fetch league renew chain. Fetch last season's draftresults. Verify `cost` field. | 🟡 todo | Update `DATA_SOURCES.md`. |
-| T-006 | Check projection sources (Yahoo projected stats, Hashtag Basketball, own model). Decide one. | 🟡 todo | |
-| T-007 | NBA players, last seasons' stats, 2026-27 schedule. Map NBA ids to Yahoo player keys. | 🟡 todo | |
+| T-005 | Last season's auction prices: fetch the league renew chain and last season's draft results (player, team, price). Verify the `cost` field. | 🟡 todo | Engineering. Use public league pages; if they fail, use Claude in Chrome on the league history pages. Update `DATA_SOURCES.md`. |
+| T-006 | Source adapter layer for player data (projections, stats, values). First adapter: Yahoo player data loaded by the draft client (`fantasy/v3/players`). | 🟡 todo | Engineering. Claude decides the design. Later adapters (Hashtag Basketball, Basketball Monster) plug in the same way; document the steps to add one in `ARCHITECTURE.md`. The user picks the source in the UI. |
+| T-007 | Player identity table plus separate stat tables (projections, actual season stats, past seasons). Map NBA ids to Yahoo player ids. 2026-27 NBA schedule. | 🟡 todo | Engineering. New sources add rows, not columns. Computed values (from valuation models) go in their own table. Do together with T-006. |
 
-## Open questions for the user
-- Store bid history in the DB (`draft_bids`) for manager tendencies (M4)? `VISION.md` says completed picks only. Today bids stay in memory.
+## Product research
+| ID | Task | Status | Notes |
+|----|------|--------|-------|
+| T-017 | Player valuation research: how to value a player in this league. Survey existing models and expert methods, test on our data, choose the models the tool offers. | 🟡 todo | Product, big. Own sessions, no parallel work. See `VISION.md`, Player valuation. |
+| T-018 | Live draft board refinement: decide what the board, the nominated player panel and market tracking show. | 🟡 todo | Product. See `VISION.md`, Live draft board. |
 
 ## P1 (target 2026-10-14)
 | ID | Task | Status | Notes |
 |----|------|--------|-------|
-| T-010 | Valuation engine (z-scores, punt toggles, dollar values). Unit tests. | 🟡 todo | See `modules/draft.md`. |
+| T-010 | Valuation engine: code for the models chosen in T-017. Unit tests. | 🟡 todo | Waits for T-017. |
 | T-011 | Player value table widget. | 🟡 todo | |
 | T-012 | Draft data ingest: API poller (3 to 5 s) when approved, else extension feed (T-009). No manual entry mode (user decision, 2026-10-03). | 🟡 todo | |
-| T-013 | Inflation and price ranges. | 🟡 todo | |
+| T-013 | Price ranges and market tracking during the draft. | 🟡 todo | Product. Needs a refinement session (`VISION.md`, Live draft board). |
 | T-014 | Team profiles and punt hints. | 🟡 todo | |
 | T-015 | Manager auction tendencies from last season. | 🟡 todo | Optional for P1. |
 

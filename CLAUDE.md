@@ -27,6 +27,12 @@ One local backend, one database, one frontend. Features are widgets on that fron
 - `~/projects/fantasy-basketball`: older Next.js attempt (Jan 2026). Has a Yahoo client (`lib/yahoo/`) and specs.
 - `~/projects/trade-finder`: older JS trade combination finder.
 
+## Work types (user rule, 2026-10-03)
+- Engineering work: scaffolding, DB schema, data pipelines, source adapters, stack choices. Take the initiative. Decide and build. The user gives only small directions.
+- Product work: what a good draft is, what a good player is, valuation models, price signals, what a widget shows and recommends. Formulas that turn data into "buy / do not buy" signals are product work too, even if they look like engineering.
+- Product work is never built from passing remarks. The user's examples are examples, not the scope. When a product topic starts: research (web, data, experts), bring your own ideas and objections, brainstorm with the user. Claude researches, the user decides.
+- Product topics stay open in `docs/VISION.md` ("Open product topics") until a refinement session closes them.
+
 ## Communication rules (mandatory)
 - Write all chat replies in Turkish, in the style of ASD-STE100 (Simplified Technical English) rules:
   - One idea in one sentence.
@@ -36,10 +42,11 @@ One local backend, one database, one frontend. Features are widgets on that fron
   - Use numbered steps for procedures. Put one action in one step.
 - No em dash. No emojis. No praise.
 - Keep replies short. The user cannot read long output.
+- When you mention a task id (T-006) or module id, add a one-sentence summary of it. Do not make the user open the docs.
 
 ## Control rules (mandatory)
 - Do not act on your own initiative outside the agreed task.
-- Before large or multi-file work: show a short plan. Wait for approval.
+- Before large or multi-file work: show a short plan. Product work: wait for approval. Engineering work: state the plan and proceed.
 - Do not invent facts. Mark every claim as one of: "verified" (I checked it), "inferred", "assumed".
 - Do not guess API behavior or data. Check the source. Give the link.
 - If information is missing, ask. Put all questions in one message.
