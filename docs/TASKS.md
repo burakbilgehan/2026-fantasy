@@ -6,7 +6,7 @@ Status: `todo`, `doing`, `done`, `blocked`. Keep this file current at the end of
 | ID | Task | Status | Notes |
 |----|------|--------|-------|
 | T-001 | Create Yahoo developer app (read scope) with Claude in Chrome. User logs in, Claude fills the form. Save client id/secret in `.env`. | todo | Needs Claude in Chrome in the session (`claude --chrome` or `/chrome`). |
-| T-002 | Decide: git repo for this folder (local git + private GitHub repo with gh). | todo | Ask the user. |
+| T-002 | Git repo: local git + private GitHub repo. | done | https://github.com/burakbilgehan/2026-fantasy |
 | T-003 | Scaffold backend (FastAPI, SQLite) and frontend (Vite React TS). `make dev` starts both. | todo | Show plan first. |
 | T-004 | Yahoo OAuth flow and read client. Fetch league 23772 settings, teams, roster size. | todo | Check `~/projects/fantasy-basketball/lib/yahoo/` first. |
 | T-005 | Fetch league renew chain. Fetch last season's draftresults. Verify `cost` field. | todo | Update `DATA_SOURCES.md`. |
