@@ -40,7 +40,27 @@
 ## Draft data source
 - No manual entry mode (user decision, 2026-10-03).
 - Primary until Yahoo approves the API: local Chrome extension in the user's draft tab (T-009). It reads the draft room WebSocket (verified on mock 2600009, 2026-10-03).
-- WebSocket messages (meaning inferred from the mock, consistent with all data seen): `D|pick|team|sec` nomination turn, `n|team|player|bid|sec` nomination, `b|team|player|bid|sec` bid, `0|pick|player|team|slot|price` sale, `$|team=money...` budgets, `P|pick=player,team,price|...` all past picks (sent on every connect, so a page reload recovers full state, verified).
+- WebSocket messages. Parser: `backend/app/draft/parser.py`. Evidence: mock 2600009 (2026-10-03). "Inferred" = consistent with all data seen, not confirmed against the screen.
+
+| Message | Meaning | Status | Evidence |
+|---|---|---|---|
+| `D\|pick\|team\|sec` | Team is on the clock to nominate pick `pick` | inferred | Team order matches `I`; seconds = 30 (nomination timer) |
+| `n\|team\|player\|bid\|sec` | Nomination with opening bid | inferred | Follows `D` of the same team; seconds = 20 (bid timer) |
+| `b\|team\|player\|bid\|sec` | New high bid | inferred | Every `0` price equals the last `b`/`n` amount (test) |
+| `0\|pick\|player\|team\|slot\|price` | Sale. `slot` = roster slot (C, PG, Util ...) | inferred | Budgets from sales match the server `$` (test) |
+| `$\|team=money\|...` | Money left per team | verified | Matches computed budgets at reconnect (test) |
+| `P\|pick=player,team,price\|...` | All picks so far, sent on connect | verified | Page reload recovered full state; adds pick 14 sold while the socket was down |
+| `I\|team\|...` | Nomination order | inferred | `D` teams follow this order |
+| `A\|team=0/1\|...` | Who is in the room, sent on connect | inferred | Teams 6, 8, 11 = 0 and nominate in 1.0 s (bots) |
+| `J\|team`, `L\|team` | Team joined / left the room | inferred | Pairs with `A`; 5 (the user) joins on connect |
+| `5\|team` | Team is now on autopick | inferred | After `5`, team's next nomination lands at exactly 30.0 s, then all later ones at 1.0 s |
+| `6\|team` | Autopick off | inferred | Team 2: `5`, `6`, then a human-speed nomination (13.5 s) |
+| `C\|sec` | Countdown broadcast | inferred | Sent every 6 s, and on each bid with the new timer |
+| `H\|A\|30\|20\|0\|x` | Room header: A = auction, 30 = nomination s, 20 = bid s, x = draft started (0 then 1) | partly unknown | Field 4 (`0`) unknown |
+| `w\|7200\|30`, `Q`, `scout\|pick\|json` | Unknown. `scout` has Yahoo player values for open players | unknown | Ignored by the state model |
+
+- Reconnect snapshot: after a new socket, the server sends the current high bid as `b` (no `n`), then `D` with the remaining seconds, then `P` and `$`. The state model handles this (nominating team = team in that `D`, inferred).
+- Capture files: one folder per draft, `data/raw/draft_capture/{league_id}/`. League id comes from the draft room URL `/draftclient/nba/{league}/{my_team}`.
 - The draft client also loads `pub-api.fantasysports.yahoo.com/fantasy/v3/{players,teams,settings,draftstatus}/nba/{league}`. `players` has 707 players with Yahoo projected stats, last season stats, auction value, average cost (verified).
 
 ## Open questions

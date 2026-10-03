@@ -42,7 +42,17 @@ docs/
 - `projections` (per source, per season)
 - `leagues` (one row per season; Yahoo league key; renew chain)
 - `teams`, `managers` (manager is stable across seasons; team is per season)
-- `draft_picks` (season, pick no, team, player, cost)
+- `drafts`, `draft_teams`, `draft_picks` (built, 2026-10-03): one row per draft seen by the extension (mock or league), its teams, and its picks (pick no, team, Yahoo player id, price, roster slot, nominating team). Past seasons' picks (T-005) go into the same tables later.
+
+## DB migrations
+- Alembic, in `backend/migrations/`. `init_db()` runs `upgrade head` on backend start. `make db-upgrade` does the same by hand.
+- New table or column: change `app/models`, then `cd backend && uv run alembic revision --autogenerate -m "..."`. Read the generated file before commit.
+- A DB made by the old `create_all` (no recorded revision) is stamped automatically on start.
+
+## Draft capture pipeline
+1. Extension posts events to `POST /api/capture`. Stored in `data/raw/draft_capture/{league_id}/{YYYYMMDD}.jsonl` (raw files are the source of truth).
+2. `app/draft/parser.py` turns WebSocket lines into typed events. `app/draft/state.py` replays them into a draft state (pure, tested).
+3. `make draft-ingest` writes the replayed picks into the draft tables. Idempotent.
 - `transactions` (add, drop, trade; per season)
 - `nba_schedule` (game date, home, away)
 

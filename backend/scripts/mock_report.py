@@ -1,34 +1,23 @@
-"""Ad-hoc reference (2026-10-03): team rosters + per-game team averages + simulated H2H ranking from a draft capture file. To be replaced by T-009b."""
-import json, sys
-import os
-F = os.environ.get('CAPTURE', os.path.join(os.path.dirname(__file__), '../../data/raw/draft_capture/20261003.jsonl'))
-rows = [json.loads(l) for l in open(F)]
-players = teams = None; cats = {}
-picks = {}; budgets_msg = None
-for e in rows:
-    d = e['data']; k = e['kind']
-    if k == 'fetch':
-        u = d.get('url', '')
-        if '/v3/players/' in u and len(d['body']) > 200000:
-            players = {str(p['id']): p for p in json.loads(d['body'])['service']['player_list']}
-        elif '/v3/teams/' in u:
-            teams = {t['id']: t['teamname'] for t in json.loads(d['body'])['service']['team_list']}
-        elif '/v3/settings/' in u:
-            for c in json.loads(d['body'])['service']['settings']['stat_categories']:
-                cats[str(c['stat_id'])] = c['display_name']
-    elif k == 'ws_message':
-        b = d['body']
-        if b.startswith('P|'):
-            for item in b.split('|')[1:]:
-                n, v = item.split('='); pid, tid, price = v.split(',')
-                picks[int(n)] = (pid, int(tid), int(price))
-        elif b.startswith('0|'):
-            _, n, pid, tid, slot, price = b.split('|')
-            picks[int(n)] = (pid, int(tid), int(price))
-        elif b.startswith('$|'):
-            budgets_msg = (e['received_at'][11:19], b)
+"""Ad-hoc reference (2026-10-03): team rosters + per-game team averages + simulated H2H ranking from a draft capture.
+
+Usage: uv run python scripts/mock_report.py [league_id] [-v]   (default league: 2600009)
+"""
+import os, sys
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
+from app.draft import capture
+from app.draft.parser import parse_capture_line
+from app.draft.state import replay
+
+args = [a for a in sys.argv[1:] if not a.startswith('-')]
+rows = list(capture.iter_rows(args[0] if args else '2600009'))
+state = replay(te for te in map(parse_capture_line, rows) if te)
+players = {str(p['id']): p for p in capture.v3_payload(rows, 'players')['player_list']}
+teams = {t['id']: t['teamname'] for t in capture.v3_payload(rows, 'teams')['team_list']}
+cats = {str(c['stat_id']): c['display_name'] for c in capture.v3_payload(rows, 'settings')['settings']['stat_categories']}
+picks = {n: (p.player_id, p.team_id, p.price) for n, p in state.picks.items()}
 if '-v' in sys.argv:
-    print('stat ids:', cats); print('last $ msg:', budgets_msg)
+    print('stat ids:', cats); print('server budgets:', state.server_budgets); print('warnings:', state.warnings)
 
 def name(pid): p = players[pid]; return f"{p['fname']} {p['lname']}"
 
@@ -41,7 +30,7 @@ for n in sorted(picks):
 for tid in sorted(by_team, key=lambda t: teams[t].lower()):
     lst = by_team[tid]; spent = sum(p for _, p in lst)
     s = ", ".join(f"{name(pid)} (${pr})" for pid, pr in lst) or "-"
-    print(f"| {teams[tid]} | {s} | ${spent} | ${200 - spent} |")
+    print(f"| {teams[tid]} | {s} | ${spent} | ${state.budget - spent} |")
 
 # Table 2: per-game projections, team mean of players
 COUNT = ['10', '12', '15', '16', '17', '18', '19']  # 3PTM PTS REB AST ST BLK TO

@@ -1,4 +1,4 @@
-.PHONY: dev backend frontend install test sync yahoo-auth yahoo-check
+.PHONY: dev backend frontend install test sync yahoo-auth yahoo-check draft-ingest db-upgrade
 
 # Start backend (:8000) and frontend (:5173). Ctrl-C stops both.
 dev:
@@ -28,3 +28,11 @@ yahoo-auth:
 
 yahoo-check:
 	cd backend && uv run python -m app.sources.yahoo.cli check
+
+# Replay extension captures into the draft tables (all folders, or LEAGUE=2600009).
+draft-ingest:
+	cd backend && uv run python -m app.jobs.ingest_draft $(LEAGUE)
+
+# Apply DB migrations (also runs on backend start).
+db-upgrade:
+	cd backend && uv run alembic upgrade head

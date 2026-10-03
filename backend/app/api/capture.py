@@ -1,7 +1,8 @@
-"""Raw capture sink for the Chrome extension (discovery phase).
+"""Capture sink for the Chrome extension.
 
 The extension sends what the Yahoo draft room receives (network payloads and
-DOM snapshots). We store everything as JSON lines and decide the parser later.
+DOM snapshots). Events are stored as JSON lines, one folder per draft
+(see app.draft.capture). Parsing happens later, on replay.
 """
 
 import json
@@ -9,34 +10,31 @@ from datetime import UTC, datetime
 
 from fastapi import APIRouter, Request
 
-from app.config import RAW_DIR
+from app.draft import capture as store
 
 router = APIRouter(prefix="/api/capture")
-CAPTURE_DIR = RAW_DIR / "draft_capture"
-
-
-def _file():
-    CAPTURE_DIR.mkdir(parents=True, exist_ok=True)
-    return CAPTURE_DIR / f"{datetime.now(UTC):%Y%m%d}.jsonl"
 
 
 @router.post("")
 async def capture(request: Request) -> dict:
     event = await request.json()
-    event["received_at"] = datetime.now(UTC).isoformat()
-    with _file().open("a", encoding="utf-8") as f:
+    now = datetime.now(UTC)
+    event["received_at"] = now.isoformat()
+    with store.file_for(event, store.CAPTURE_DIR, now).open("a", encoding="utf-8") as f:
         f.write(json.dumps(event, ensure_ascii=False) + "\n")
     return {"ok": True}
 
 
 @router.get("/stats")
 def stats() -> dict:
-    path = _file()
-    if not path.exists():
-        return {"file": str(path), "events": 0, "kinds": {}}
-    kinds: dict[str, int] = {}
-    lines = path.read_text(encoding="utf-8").splitlines()
-    for line in lines:
-        kind = json.loads(line).get("kind", "?")
-        kinds[kind] = kinds.get(kind, 0) + 1
-    return {"file": str(path), "events": len(lines), "kinds": kinds}
+    """Today's capture files: event count and kinds per folder."""
+    day = f"{datetime.now(UTC):%Y%m%d}.jsonl"
+    out = {}
+    for path in sorted(store.CAPTURE_DIR.glob(f"*/{day}")):
+        kinds: dict[str, int] = {}
+        lines = path.read_text(encoding="utf-8").splitlines()
+        for line in lines:
+            kind = json.loads(line).get("kind", "?")
+            kinds[kind] = kinds.get(kind, 0) + 1
+        out[path.parent.name] = {"file": str(path), "events": len(lines), "kinds": kinds}
+    return out
