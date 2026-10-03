@@ -3,8 +3,15 @@
 ## User workflow on draft day
 1. The user opens two tabs: the Yahoo draft room and our Draft page.
 2. The user does all nominations and bids on Yahoo.
-3. Our page polls Yahoo every 3 to 5 s and updates.
+3. Our page gets draft events from the extension (or the API poller when approved) and updates.
 4. When a player is nominated on Yahoo, the user finds him in our table and reads the price range.
+
+## Display rule: per-game first (user decision, 2026-10-03)
+- Default stat view = per-game values computed from projected season totals (total / projected GP). Example: 300 3PTM in 80 games is shown as 3.75.
+- Always show projected GP next to per-game values. Durability matters: equal totals over 60 vs 80 games mean different players.
+- Season totals stay available (column toggle or tooltip). Both are needed, but per-game is the main reading view.
+- Team views: mean per-game value of the team's drafted players for counting stats. FG% and FT%: total makes / total attempts (volume-weighted).
+- Team ranking default: simulated H2H, 9 categories, each team vs every other team. Teams with no players are listed, not skipped.
 
 ## Valuation (M1)
 1. Get per-game projections for all players. Multiply by projected games.
@@ -30,9 +37,11 @@
 - From last season's auction: how much each manager spent on the top 10, top 30, and $1 players.
 - Shown as a small note per team on the board.
 
-## Fallback: manual entry mode
-- The user (or I) type pick + team + price. Same calculations run.
-- Used when the API does not show the draft (mock drafts) or when the API fails.
+## Draft data source
+- No manual entry mode (user decision, 2026-10-03).
+- Primary until Yahoo approves the API: local Chrome extension in the user's draft tab (T-009). It reads the draft room WebSocket (verified on mock 2600009, 2026-10-03).
+- WebSocket messages (meaning inferred from the mock, consistent with all data seen): `D|pick|team|sec` nomination turn, `n|team|player|bid|sec` nomination, `b|team|player|bid|sec` bid, `0|pick|player|team|slot|price` sale, `$|team=money...` budgets, `P|pick=player,team,price|...` all past picks (sent on every connect, so a page reload recovers full state, verified).
+- The draft client also loads `pub-api.fantasysports.yahoo.com/fantasy/v3/{players,teams,settings,draftstatus}/nba/{league}`. `players` has 707 players with Yahoo projected stats, last season stats, auction value, average cost (verified).
 
 ## Open questions
 - Roster size and positions: read from Yahoo settings in P0.

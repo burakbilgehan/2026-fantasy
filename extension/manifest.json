@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "2026-fantasy draft reader",
+  "version": "0.2.0",
+  "description": "Read-only. Copies what the Yahoo draft room receives to the local backend. Never clicks or sends anything to Yahoo.",
+  "host_permissions": [
+    "https://basketball.fantasysports.yahoo.com/*",
+    "http://localhost:8000/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://basketball.fantasysports.yahoo.com/draftclient/*"
+      ],
+      "js": [
+        "hook.js"
+      ],
+      "run_at": "document_start",
+      "world": "MAIN",
+      "all_frames": true
+    },
+    {
+      "matches": [
+        "https://basketball.fantasysports.yahoo.com/draftclient/*"
+      ],
+      "js": [
+        "relay.js"
+      ],
+      "run_at": "document_start",
+      "all_frames": true
+    }
+  ]
+}

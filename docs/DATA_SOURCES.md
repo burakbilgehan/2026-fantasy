@@ -4,6 +4,8 @@ Status words: `verified` (checked by a test or a source), `inferred` (likely, no
 
 | Source | Use | Status | Notes |
 |--------|-----|--------|-------|
+| Yahoo Fantasy API access (all endpoints) | Every Yahoo API call | verified BLOCKED (2026-10-03) | Since 2026-07 Yahoo needs a separate approval. Our app GYvitLgi gets OAuth tokens (verified) and token refresh works without `redirect_uri` (verified), but every API call returns 403 "This application is not authorized to perform this action." Apply: https://sports.yahoo.com/developer/access/ . Context: https://github.com/uberfastman/yfpy/issues/84 . Draft of our application: `docs/yahoo-api-access-application.md`. |
+| Yahoo public league pages (`basketball.fantasysports.yahoo.com/nba/23772/...`) | Fallback while API is blocked | verified (2026-10-03) | League is "publicly viewable". `/`, `/settings`, `/draftresults` return 200 without login. Settings and 12 teams parsed (`backend/app/sources/yahoo/web.py`). Logged-out pages show US Eastern time. Unknown: does `/draftresults` update live during an auction? Check Yahoo terms on automated page access. |
 | Yahoo Fantasy API `league/{key}/draftresults` | Live draft picks | verified (docs) | No push, no websocket. Poll. During a draft it returns picks made so far. Sources: https://github.com/alienking-sol/live-draft-board , https://yahoo-fantasy-api.readthedocs.io/en/latest/yahoo_fantasy_api.html |
 | Yahoo draftresults `cost` field | Auction price per pick | inferred | Must test on last season's league. |
 | Yahoo league renew chain (`renew` / `renewed` in settings) | Full league history | inferred | Needed for M4. Must test. |

@@ -18,3 +18,4 @@ dist/
 
 # os
 .DS_Store
+.pytest_cache/
