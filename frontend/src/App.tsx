@@ -5,8 +5,8 @@ export default function App() {
     <main>
       <h1>2026 Fantasy</h1>
       <div className="grid">
-        {widgets.map(({ id, title, component: Widget }) => (
-          <section key={id} className="widget">
+        {widgets.map(({ id, title, component: Widget, wide }) => (
+          <section key={id} className={wide ? 'widget wide' : 'widget'}>
             <h2>{title}</h2>
             <Widget />
           </section>

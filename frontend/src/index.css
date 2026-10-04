@@ -16,3 +16,15 @@ tr.mine { font-weight: 600; }
 .live { color: #2a2; }
 .stale { color: #c33; }
 .picks { max-height: 240px; overflow-y: auto; }
+.widget.wide { grid-column: 1 / -1; }
+.controls { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; margin-bottom: 8px; }
+.hint { color: #888; font-size: 0.85rem; margin: 4px 0 8px; }
+.table-wrap { max-height: 70vh; overflow: auto; }
+table.values { font-size: 0.85rem; font-variant-numeric: tabular-nums; }
+table.values th { position: sticky; top: 0; background: Canvas; cursor: pointer; white-space: nowrap; }
+table.values th.sorted { text-decoration: underline; }
+table.values td { white-space: nowrap; }
+table.values tbody tr:hover { background: #8882; }
+td.pos { color: #2a2; }
+td.neg { color: #c33; }
+.injury { color: #c33; font-size: 0.75rem; }

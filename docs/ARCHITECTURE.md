@@ -112,6 +112,7 @@ How to add a source (example: Hashtag Basketball):
 
 ## Valuation (T-017, T-010)
 - `app/analytics/valuation/`: pure functions. `run(rows, model, Settings)` gives per player category z, total, rank and dollars. Model registry with the dropdown descriptions: `models.py`. G-score weights from game logs: `gscore.py`. Dollars (plain, SAVOR): `dollars.py`.
+- API: `GET /api/valuation/options`, `GET /api/valuation` (`app/api/valuation.py`). Computed per request; no DB table. Widget: `frontend/src/widgets/player-values/`.
 - Backtest: `make valuation-backtest` (`app/jobs/valuation_backtest.py`, helpers `app/analytics/h2h_backtest.py`). Writes `docs/modules/valuation-backtest.md`.
 
 ## Widget model
