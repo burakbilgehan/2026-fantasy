@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import date, datetime
 
 from sqlalchemy import JSON, ForeignKey, String, UniqueConstraint
 from sqlalchemy.orm import Mapped, mapped_column
@@ -75,3 +75,105 @@ class DraftPick(Base):
     roster_slot: Mapped[str | None]
     nominating_team_id: Mapped[int | None]
     sold_at: Mapped[datetime | None]  # None when known only from the reconnect replay
+
+
+class Player(Base):
+    """One row per real player. Identity only; source ids are in player_external_ids."""
+
+    __tablename__ = "players"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    first_name: Mapped[str]
+    last_name: Mapped[str]
+    name_key: Mapped[str] = mapped_column(index=True)  # sources.players.base.name_key
+    team: Mapped[str | None]  # canonical abbreviation, None = free agent
+    position: Mapped[str | None]
+    identity_source: Mapped[str]  # source that last set name, team, position
+    updated_at: Mapped[datetime]
+
+
+class PlayerExternalId(Base):
+    """A player's id in one source. A new source adds rows here, never a column."""
+
+    __tablename__ = "player_external_ids"
+    __table_args__ = (UniqueConstraint("source", "external_id"),)
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    player_pk: Mapped[int] = mapped_column(ForeignKey("players.id", ondelete="CASCADE"), index=True)
+    source: Mapped[str]
+    external_id: Mapped[str]
+
+
+class _StatColumns:
+    """Season totals. Per-game = total / gp, computed when read."""
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    player_pk: Mapped[int] = mapped_column(ForeignKey("players.id", ondelete="CASCADE"), index=True)
+    source: Mapped[str]
+    season: Mapped[str]  # "2026-27"
+    gp: Mapped[float]
+    fgm: Mapped[float]
+    fga: Mapped[float]
+    ftm: Mapped[float]
+    fta: Mapped[float]
+    tpm: Mapped[float]
+    pts: Mapped[float]
+    reb: Mapped[float]
+    ast: Mapped[float]
+    stl: Mapped[float]
+    blk: Mapped[float]
+    tov: Mapped[float]
+    fetched_at: Mapped[datetime]
+
+
+class PlayerProjection(_StatColumns, Base):
+    __tablename__ = "player_projections"
+    __table_args__ = (UniqueConstraint("player_pk", "source", "season"),)
+
+
+class PlayerSeasonStats(_StatColumns, Base):
+    """Actual season totals: past seasons and the current one, one row per season."""
+
+    __tablename__ = "player_season_stats"
+    __table_args__ = (UniqueConstraint("player_pk", "source", "season"),)
+
+
+class PlayerMarketValue(Base):
+    """Values a source publishes (Yahoo auction value, average cost, ADP).
+
+    Values computed by our own models do not go here; they get their own table (T-010).
+    """
+
+    __tablename__ = "player_market_values"
+    __table_args__ = (UniqueConstraint("player_pk", "source", "season"),)
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    player_pk: Mapped[int] = mapped_column(ForeignKey("players.id", ondelete="CASCADE"), index=True)
+    source: Mapped[str]
+    season: Mapped[str]
+    auction_value: Mapped[float | None]
+    average_cost: Mapped[float | None]
+    average_pick: Mapped[float | None]
+    percent_drafted: Mapped[float | None]
+    rank: Mapped[int | None]
+    positions: Mapped[list[str] | None] = mapped_column(JSON)  # eligible positions in this source
+    injury: Mapped[str | None]
+    injury_note: Mapped[str | None]
+    extra: Mapped[dict] = mapped_column(JSON)
+    fetched_at: Mapped[datetime]
+
+
+class NbaGame(Base):
+    __tablename__ = "nba_schedule"
+    __table_args__ = (UniqueConstraint("source", "source_game_id"),)
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    source: Mapped[str]  # "espn"
+    source_game_id: Mapped[str]
+    season: Mapped[str]
+    start_utc: Mapped[datetime]
+    game_date_et: Mapped[date] = mapped_column(index=True)
+    home: Mapped[str]
+    away: Mapped[str]
+    neutral_site: Mapped[bool]
+    fetched_at: Mapped[datetime]

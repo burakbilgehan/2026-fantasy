@@ -1,4 +1,4 @@
-.PHONY: dev backend frontend install test sync yahoo-auth yahoo-check draft-ingest db-upgrade
+.PHONY: dev backend frontend install test sync yahoo-auth yahoo-check draft-ingest db-upgrade players-sync schedule-sync
 
 # Start backend (:8000) and frontend (:5173). Ctrl-C stops both.
 dev:
@@ -36,3 +36,11 @@ draft-ingest:
 # Apply DB migrations (also runs on backend start).
 db-upgrade:
 	cd backend && uv run alembic upgrade head
+
+# Fetch player sources into the DB (all, or SOURCE=yahoo). On demand only.
+players-sync:
+	cd backend && uv run python -m app.jobs.sync_players $(SOURCE)
+
+# Fetch the NBA regular season schedule (ESPN). Re-run in December (NBA Cup games).
+schedule-sync:
+	cd backend && uv run python -m app.jobs.sync_schedule
