@@ -1,4 +1,4 @@
-.PHONY: dev backend frontend install test sync yahoo-auth yahoo-check draft-ingest db-upgrade players-sync schedule-sync past-draft-sync
+.PHONY: dev backend frontend install test sync yahoo-auth yahoo-check draft-ingest db-upgrade players-sync schedule-sync past-draft-sync past-stats-sync
 
 # Start backend (:8000) and frontend (:5173). Ctrl-C stops both.
 dev:
@@ -48,3 +48,7 @@ schedule-sync:
 # Fetch last season's auction results from the public league pages (prices per pick).
 past-draft-sync:
 	cd backend && uv run python -m app.jobs.sync_past_draft
+
+# Fetch past season totals from stats.nba.com (default: last 3 seasons, or SEASONS="2024-25 2025-26").
+past-stats-sync:
+	cd backend && uv run python -m app.jobs.sync_past_stats $(SEASONS)

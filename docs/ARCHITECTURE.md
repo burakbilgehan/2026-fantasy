@@ -67,6 +67,7 @@ docs/
 - `app/jobs/sync_players.py` links each `SourcePlayer` to a `players` row and replaces the source's rows for the season. `make players-sync` (all) or `make players-sync SOURCE=yahoo`. API: `GET /api/players/sources`, `GET /api/players?source=yahoo`, `POST /api/players/sync`.
 - Identity matching, in order: known source id; manual link in `id_links.json`; unique name; same name and same team. Else a new row. A wrong merge is worse than a duplicate. The job prints ambiguous names: add a link for each real duplicate.
 - Registry order = priority. The first source that lists a player owns name, team and position. Now: `nba` (NBA.com roster) then `yahoo`.
+- Past seasons: `make past-stats-sync` (`app/jobs/sync_past_stats.py`, stats.nba.com totals, default the 3 seasons before `CURRENT_SEASON`). Rows in `player_season_stats` with source `nba`. Links to existing players only (same Resolver); never creates a player or changes identity. Run after `make players-sync`.
 - Season label: `CURRENT_SEASON` env var, default `2026-27` (`app/seasons.py`).
 
 How to add a source (example: Hashtag Basketball):
