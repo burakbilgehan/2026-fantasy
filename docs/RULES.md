@@ -6,7 +6,8 @@ Status words: `verified` (checked on Yahoo or with the user), `inferred`, `assum
 ## League (Yahoo NBA, league 23772, "Deh Deh")
 Source: public settings page https://basketball.fantasysports.yahoo.com/nba/23772/settings , synced 2026-10-03 (verified), and the user (2026-10-03).
 - 12 teams. Head-to-head, categories. Not a cash league.
-- League renewed every season (about 7 seasons). 2025-26 was auction. Older seasons were snake.
+- League renewed every season (about 7 seasons). 2025-26 was auction (verified: league 38073 settings, "Live Salary Cap Draft", $200, bid time 10 s). Older seasons were snake.
+- Team ids and team names in 2025-26 (league 38073) are the same as in 2026-27 (verified 2026-10-04). Same manager per team id: inferred.
 - Managers are experienced. Trades are very frequent. Trade tools have high value.
 
 ### Categories (9-cat)

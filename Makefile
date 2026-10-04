@@ -1,4 +1,4 @@
-.PHONY: dev backend frontend install test sync yahoo-auth yahoo-check draft-ingest db-upgrade players-sync schedule-sync
+.PHONY: dev backend frontend install test sync yahoo-auth yahoo-check draft-ingest db-upgrade players-sync schedule-sync past-draft-sync
 
 # Start backend (:8000) and frontend (:5173). Ctrl-C stops both.
 dev:
@@ -44,3 +44,7 @@ players-sync:
 # Fetch the NBA regular season schedule (ESPN). Re-run in December (NBA Cup games).
 schedule-sync:
 	cd backend && uv run python -m app.jobs.sync_schedule
+
+# Fetch last season's auction results from the public league pages (prices per pick).
+past-draft-sync:
+	cd backend && uv run python -m app.jobs.sync_past_draft

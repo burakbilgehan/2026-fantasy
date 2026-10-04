@@ -36,16 +36,18 @@ class Team(Base):
 
 
 class Draft(Base):
-    """One auction draft seen by the extension (mock or the real league draft)."""
+    """One auction draft: seen by the extension (mock or our league), or a past league season
+    read from the public draftresults page."""
 
     __tablename__ = "drafts"
 
     id: Mapped[int] = mapped_column(primary_key=True)
     yahoo_league_id: Mapped[str] = mapped_column(String, unique=True)
-    kind: Mapped[str]  # "league" when yahoo_league_id is our league, else "mock"
+    kind: Mapped[str]  # "league" (our league), "mock", or "past_league" (earlier season)
+    season: Mapped[str | None]  # "2025-26"; league ids are per season
     my_team_id: Mapped[int | None]  # from the draft room URL
     budget: Mapped[int]
-    source: Mapped[str]  # "extension"
+    source: Mapped[str]  # "extension" or "yahoo_web"
     capture_dir: Mapped[str]
     first_event_at: Mapped[datetime | None]
     last_event_at: Mapped[datetime | None]

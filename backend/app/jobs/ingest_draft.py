@@ -16,6 +16,7 @@ from app.draft import capture
 from app.draft.parser import parse_capture_line
 from app.draft.state import DraftState, replay
 from app.models import Draft, DraftPick, DraftTeam
+from app.seasons import CURRENT_SEASON
 
 
 def build(league_id: str, base: Path = capture.CAPTURE_DIR) -> tuple[DraftState, list[dict], dict]:
@@ -37,6 +38,7 @@ def ingest(db: Session, league_id: str, base: Path = capture.CAPTURE_DIR) -> tup
         draft = Draft(yahoo_league_id=league_id)
         db.add(draft)
     draft.kind = "league" if league_id == get_settings().yahoo_league_id else "mock"
+    draft.season = CURRENT_SEASON
     draft.my_team_id = my_team
     draft.budget = state.budget
     draft.source = "extension"

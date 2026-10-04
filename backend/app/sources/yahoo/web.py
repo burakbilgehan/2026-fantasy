@@ -13,19 +13,27 @@ from bs4 import BeautifulSoup
 
 from app.config import RAW_DIR
 
-BASE_URL = "https://basketball.fantasysports.yahoo.com/nba"
+HOST = "https://basketball.fantasysports.yahoo.com"
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) 2026-fantasy personal read-only"
+CACHE_DIR = RAW_DIR / "yahoo_web"
 
 
-def fetch(league_id: str, page: str = "", http: httpx.Client | None = None) -> str:
+def league_url(league_id: str, year: int | None = None) -> str:
+    """Past seasons live under a year prefix: /2025/nba/38073/ (verified 2026-10-04)."""
+    return f"{HOST}/nba/{league_id}" if year is None else f"{HOST}/{year}/nba/{league_id}"
+
+
+def fetch(
+    league_id: str, page: str = "", http: httpx.Client | None = None, year: int | None = None
+) -> str:
     http = http or httpx.Client(timeout=20, follow_redirects=True)
-    resp = http.get(f"{BASE_URL}/{league_id}/{page}", headers={"User-Agent": USER_AGENT})
+    resp = http.get(f"{league_url(league_id, year)}/{page}", headers={"User-Agent": USER_AGENT})
     resp.raise_for_status()
     html = resp.content.decode("utf-8")
-    cache_dir = RAW_DIR / "yahoo_web"
-    cache_dir.mkdir(parents=True, exist_ok=True)
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
     name = page.strip("/").replace("/", "_") or "league"
-    (cache_dir / f"{league_id}_{name}_{int(time.time())}.html").write_text(html, encoding="utf-8")
+    prefix = league_id if year is None else f"{year}_{league_id}"
+    (CACHE_DIR / f"{prefix}_{name}_{int(time.time())}.html").write_text(html, encoding="utf-8")
     return html
 
 
@@ -76,3 +84,38 @@ def parse_teams(html: str, league_id: str) -> list[dict]:
         if m and name and int(m.group(1)) not in teams:
             teams[int(m.group(1))] = name
     return [{"team_id": k, "name": v} for k, v in sorted(teams.items())]
+
+
+def parse_previous_league(html: str) -> tuple[int, str] | None:
+    """(year, league_id) of last season, from the "Last year's champion" links on the league page.
+
+    Public pages give only one step back: the 2025 page has no link to 2024 (verified 2026-10-04).
+    """
+    m = re.search(r"/(20\d\d)/nba/(\d+)/\d+", html)
+    return (int(m.group(1)), m.group(2)) if m else None
+
+
+def parse_draft_results(html: str) -> list[dict]:
+    """Rows of the draftresults "picks" tab: pick_no, yahoo_player_id, price, team_name.
+
+    The "(DEN - C)" text after the name is the player's team and positions at fetch time,
+    not on draft day, so it is not returned.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    table = next(
+        (t for t in soup.find_all("table") if t.find("td", class_="cost") and t.find("td", class_="team-name")),
+        None,
+    )
+    if table is None:
+        raise ValueError("draft results table not found")
+    picks = []
+    for tr in table.tbody.find_all("tr"):
+        player = tr.find("td", class_="player").a
+        picks.append({
+            "pick_no": int(_clean(tr.find("td", class_="first").get_text()).rstrip(".")),
+            "yahoo_player_id": re.search(r"/players/(\d+)", player["href"]).group(1),
+            "player_name": _clean(player.get_text()),
+            "price": int(_clean(tr.find("td", class_="cost").get_text()).lstrip("$")),
+            "team_name": _clean(tr.find("td", class_="team-name")["title"]),
+        })
+    return picks
