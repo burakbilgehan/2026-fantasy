@@ -11,7 +11,7 @@ Status: 🔴 blocked, 🟡 todo, 🟩 doing, ✅ done. Keep this file current at
 | T-009a | Capture one Yahoo mock auction draft. Find the data source (WebSocket, XHR or DOM). | ✅ done | Mock 2600009, 2026-10-03. Source = draft room WebSocket (push, browser to backend 26 ms median). Reconnect sends all past picks (`P|`) and budgets (`$|`). Bid history only while the extension runs. Draft client also loads `fantasy/v3/players` (707 players, Yahoo projections, auction value, avg cost). Message format: `docs/modules/draft.md`. Capture: `data/raw/draft_capture/2600009/20261003.jsonl`. |
 | T-009b | Backend parser + draft state model from WebSocket events (picks, bids, budgets, nomination order). Unit tests with the 2026-10-03 capture as fixture. | ✅ done | 2026-10-03. `app/draft/parser.py`, `app/draft/state.py`, tests `tests/test_draft.py`. Handles reconnect (`P\|` replay, `b\|` + `D\|` snapshot). Capture now split per draft: `data/raw/draft_capture/{league_id}/`. `make draft-ingest` writes `drafts`, `draft_teams`, `draft_picks`. Bids are kept in memory only, not in the DB (user decision, 2026-10-03: no bid table). |
 | T-009c | Second mock draft, end to end. Also: decode `A\|`, `5\|`, `H\|` messages by comparing with the screen; check the service worker never sleeps through events; then drop DOM snapshots. | ✅ done | 2026-10-04. Mock 2600536 (41 picks, 0 warnings), fixture `tests/fixtures/draft_capture_mock_2600536.jsonl.gz`. Verified with the user's screen: `5` autopick on, `6` autopick off; autopick also bids. `X` = own-team timeout notice (inferred). No gap over 8 s in 20 min (service worker stayed awake); a full 1 to 2 hour run is checked in T-020. Extension v0.3: DOM snapshots removed. Still unknown, no state effect: `w`, `Q`, `scout`, `H` field 4. |
-| T-009d | Check if `/nba/23772/draftresults` (public page, no login) updates live during a draft. | 🟡 todo | Low value now. Optional. |
+| T-009d | Check if `/nba/23772/draftresults` (public page, no login) updates live during a draft. | ✅ closed | 2026-10-04, not done: the extension feed (T-009, T-012) covers live draft data (user decision). |
 | T-002 | Git repo: local git + private GitHub repo. | ✅ done | https://github.com/burakbilgehan/2026-fantasy |
 | T-003 | Scaffold backend (FastAPI, SQLite) and frontend (Vite React TS). `make dev` starts both. | ✅ done | `make dev`, `make test`, `make sync`. Ctrl-C stops both (verified). |
 | T-016 | DB migrations with Alembic. | ✅ done | 2026-10-03. `backend/migrations/`, runs on backend start, `make db-upgrade`. How to add a table: `ARCHITECTURE.md`. |
@@ -34,10 +34,14 @@ Status: 🔴 blocked, 🟡 todo, 🟩 doing, ✅ done. Keep this file current at
 | T-011 | Player value table widget. | 🟡 todo | |
 | T-012 | Draft data ingest: API poller (3 to 5 s) when approved, else extension feed (T-009). No manual entry mode (user decision, 2026-10-03). | ✅ done | 2026-10-04. Extension feed is live: `POST /api/capture` applies each event to an in-memory draft state (`app/draft/live.py`); after a backend restart the state is rebuilt from the capture files. Each sale rewrites the draft's DB rows in the background. `GET /api/draft/live`, `GET /api/draft/live/{league_id}`. Widget "Live draft feed" (raw facts, 3 s poll, red when no event for 15 s). Money left is computed from picks: the server `$\|` comes only on connect and is stale after the next sale (verified on mock 2600536). Tested by replaying mock 2600009 through the endpoint. Not done: API poller (403, T-008). Live Yahoo draft not tested yet (T-020). |
 | T-013 | Price ranges and market tracking during the draft. | 🟡 todo | Product. Needs a refinement session (`VISION.md`, Live draft board). |
-| T-014 | Team profiles and punt hints. | 🟡 todo | |
-| T-015 | Manager auction tendencies from last season. | 🟡 todo | Optional for P1. |
+| T-014 | Team profiles and punt hints. | 🟡 todo | Product. Needs a refinement session. Depends on T-010. |
 
 ## P2 (target 2026-10-17)
 | ID | Task | Status | Notes |
 |----|------|--------|-------|
-| T-020 | Check if Yahoo mock drafts are visible in the API. Rehearsal with the user. | 🟡 todo | |
+| T-020 | Check if Yahoo mock drafts are visible in the API. Rehearsal with the user. | 🟡 todo | Draft-day checklist: on the morning of the draft, re-run `make players-sync` (fresh Yahoo projections and values). |
+
+## P3 (target 2026-10-31)
+| ID | Task | Status | Notes |
+|----|------|--------|-------|
+| T-015 | Manager auction tendencies from last season. | 🟡 todo | Product. Moved from P1 (user, 2026-10-04): low value for this draft. |
