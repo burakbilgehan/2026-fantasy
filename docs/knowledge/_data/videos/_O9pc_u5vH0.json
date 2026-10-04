@@ -1,0 +1,767 @@
+{
+ "video": {
+  "id": "_O9pc_u5vH0",
+  "title": "Detroit Pistons Fantasy Basketball Preview [26/27 NBA Season]",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-10-03",
+  "duration": "33:09",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T16:15:57+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.388876,
+  "duration_ms": 107251
+ },
+ "summary": "Josh Lloyd previews the Detroit Pistons for the 2026/27 fantasy season, after Jalen Duren's contract holdout ended. He expects last season's starting five to return: Cade Cunningham, Duncan Robinson, Ausar Thompson, John Collins and Jalen Duren. He says Cade is not a lock at pick 5 and is better taken around 6 to 9. Duren is a fair third to fourth round pick, and an ESPN rank of 23 is too high. Ausar Thompson is his top target on the team despite points and threes damage. Duren is his biggest fade, Daniss Jenkins is his late swing, and Paul Reed is his stash. Collins is fine around rounds 9 to 10 in category leagues. Robinson and Isaiah Joe are only three-point streamers. The schedule is decent and there are no injury concerns.",
+ "rules": [
+  {
+   "text": "The speaker never uses straight 9-category rankings to value players. He thinks they are inaccurate and often quoted in bad faith.",
+   "ts": "7:01",
+   "quote": "I will never ever in a million years refer to a straight nine cat ranking of a player",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 430
+  },
+  {
+   "text": "If you trust one set of 9-category rankings, you have to trust all of it. You cannot pick and choose which parts are right.",
+   "ts": "7:32",
+   "quote": "if you believe one set of NAT rankings, you must believe all of them because otherwise a ranking system doesn't work",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 463
+  },
+  {
+   "text": "First round picks among the big names are generally safe. The exact order does not cause huge swings.",
+   "ts": "8:06",
+   "quote": "We love the first round. We love the big names. We love the best players.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 499
+  },
+  {
+   "text": "Steals are very variable from game to game and season to season. Players whose value depends on steals carry extra risk.",
+   "ts": "14:14",
+   "quote": "we know that on a game byame and season by season basis, these are incredibly variable stats",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 863
+  },
+  {
+   "text": "Drafting a defense-only, poor-shooting player early can leave your team far behind in points and threes. That build is not for everyone.",
+   "ts": "15:21",
+   "quote": "you are going to put yourself in a significant points and threes hole. So, it is not for everybody.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 939
+  },
+  {
+   "text": "Do not overvalue threes in the draft. Three-point specialists are easy to find on waivers.",
+   "ts": "20:14",
+   "quote": "It's also one of those reasons why don't overindex on threes because you can find them everywhere on the waiver.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1214
+  },
+  {
+   "text": "A Yahoo ADP based on very few drafts can be inflated and misleading.",
+   "ts": "19:10",
+   "quote": "that's one of those ones where he was drafted in three leagues and it pushes it up.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1150
+  },
+  {
+   "text": "Minutes tiers: starters play about 29 to 35 minutes and bench players 17 to 20. A '.5 starter' plays about 24 to 25.",
+   "ts": "3:49",
+   "quote": "we we go starter minutes is 30 29 to 35 regularly. bench players 17 to 20.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 245
+  },
+  {
+   "text": "Coaches may mislead about player minutes. Be skeptical of coach statements, especially from coaches with a track record of doing it.",
+   "ts": "5:59",
+   "quote": "prerogative to mislead as a coach. Good for him. But just know that I'm not believing him.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 359
+  },
+  {
+   "text": "Stash candidates are most useful in draft-only, best ball, weekly, games-cap, deep-bench and low-transaction leagues.",
+   "ts": "29:48",
+   "quote": "Draft onlyies, best balls, weeklies, games caps, deep benches, low low transaction leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1808
+  },
+  {
+   "text": "The speaker recommends ending the fantasy season on March 28. Yahoo's default end date is April 4.",
+   "ts": "30:54",
+   "quote": "if you end your leagues on March the 28th, which is my recommended end date, it's not bad.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1877
+  },
+  {
+   "text": "Back-to-back counts only range from 13 to 16 across teams, so differences in back-to-backs are not a big deal.",
+   "ts": "31:32",
+   "quote": "It's only two more than the lowest amount though. The range is 13 to 16. Not that many.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1902
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Cade Cunningham",
+   "said_as": "Kade",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He is not a lock at pick 5. The speaker would not take him there but is fine taking him at 6 or later.",
+   "ts": "9:50",
+   "quote": "Take him at five. I wouldn't take him at five.",
+   "value_hint": "not at pick 5; fine at 6 or 7",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 590
+  },
+  {
+   "player": "Cade Cunningham",
+   "said_as": "Kade",
+   "team": "DET",
+   "horizon": "current",
+   "text": "The speaker has him around 10th in his category rankings, with Kawhi Leonard ahead of him. He sees an argument for Jayson Tatum at 6 over Cade.",
+   "ts": "9:18",
+   "quote": "Durant rankings for this season, I think he's at like 10, but that includes Kawawaii ahead of him.",
+   "value_hint": "around 10th in the speaker's rankings",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 558
+  },
+  {
+   "player": "Cade Cunningham",
+   "said_as": "Kade",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He could finish ahead of Shai Gilgeous-Alexander in points leagues but behind Tatum and Anthony Edwards in categories, around 8 or 9.",
+   "ts": "9:50",
+   "quote": "if he finished ahead of Shay in points but below Tatum and Ant in categories, don't be shocked.",
+   "value_hint": "could finish 8th or 9th in categories",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 606
+  },
+  {
+   "player": "Cade Cunningham",
+   "said_as": "Kade",
+   "team": "DET",
+   "horizon": "current",
+   "text": "Last season he averaged 24 points, 5 rebounds and 10 assists in 34 minutes on 46% from the field. His free throw percentage went down.",
+   "ts": "8:06",
+   "quote": "He averaged 10 assists, five rebounds, 24 points, 34 minutes.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 514
+  },
+  {
+   "player": "Cade Cunningham",
+   "said_as": "Kade",
+   "team": "DET",
+   "horizon": "durable",
+   "text": "He had a lung issue at the end of last season and has some spotty injury history.",
+   "ts": "8:46",
+   "quote": "Had the issue at the end of the year with his lung",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 526
+  },
+  {
+   "player": "Jalen Duren",
+   "said_as": "Jaylen Duran",
+   "team": "DET",
+   "horizon": "current",
+   "text": "His conditioning is a concern after the holdout, because he was not training hard without a contract.",
+   "ts": "2:43",
+   "quote": "without a contract, he wasn't working out hard.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 163
+  },
+  {
+   "player": "Jalen Duren",
+   "said_as": "Duran",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He is a fair third to fourth round player. The speaker drafted him at 42. ESPN's rank of 23 is too high.",
+   "ts": "10:22",
+   "quote": "Duran, I think, is a fine third to fourth round player.",
+   "value_hint": "rounds 3 to 4; drafted at 42; ESPN 23 too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 640
+  },
+  {
+   "player": "Jalen Duren",
+   "said_as": "Jaylen Dur",
+   "team": "DET",
+   "horizon": "current",
+   "text": "If his minutes go above 28 and his usage rises, he could reach the third round.",
+   "ts": "11:29",
+   "quote": "you think he takes on a bit of a usage spike, which is entirely possible, maybe he gets into that third round range.",
+   "value_hint": "third round upside",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 689
+  },
+  {
+   "player": "Jalen Duren",
+   "said_as": "Duran",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He is the speaker's biggest fade on the team. No chance in the 20s, doubtful in the 30s, and never in round 2.",
+   "ts": "29:15",
+   "quote": "My biggest fade is probably Duran, especially at that ESPN rank. In the 20s, no chance.",
+   "value_hint": "fade in rounds 2 to 3",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1761
+  },
+  {
+   "player": "Ausar Thompson",
+   "said_as": "Assad Thompson",
+   "team": "DET",
+   "horizon": "current",
+   "text": "The coach says he will play more than 26 minutes. The speaker does not trust that, because J.B. Bickerstaff has misled about Thompson's minutes before. He still projects more minutes.",
+   "ts": "4:52",
+   "quote": "documented liar about Thompson's playing time. Every time we have the question about Thompson and his playing time",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 304
+  },
+  {
+   "player": "Ausar Thompson",
+   "said_as": "Assar Thompson",
+   "team": "DET",
+   "horizon": "durable",
+   "text": "His value comes from defensive stats, mainly steals. He is a very poor free throw and three-point shooter. His two-point shooting is okay.",
+   "ts": "14:46",
+   "quote": "Now, he is a putrid shooter from the free throw line and from three. His twos are okay.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 886
+  },
+  {
+   "player": "Ausar Thompson",
+   "said_as": "Assar",
+   "team": "DET",
+   "horizon": "current",
+   "text": "His ADP is 86 on Yahoo and 80 on Fantrax. The speaker sees him as a steal and would take him in the 60s or 50s in category leagues, accepting the points and threes hole.",
+   "ts": "15:21",
+   "quote": "I'd be okay to go into the 60s or 50s with him except for this one point.",
+   "value_hint": "steal; draft in the 50s to 60s in categories",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 929
+  },
+  {
+   "player": "Ausar Thompson",
+   "said_as": "Assar",
+   "team": "DET",
+   "horizon": "current",
+   "text": "In points leagues, his value is around 70 to 80. The speaker thinks he is currently underpriced.",
+   "ts": "15:52",
+   "quote": "In a points league, it's more in the 80 70 80 range, but I think that he is currently being a little underpriced.",
+   "value_hint": "70 to 80 in points leagues; underpriced",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 952
+  },
+  {
+   "player": "Ausar Thompson",
+   "said_as": "Assar",
+   "team": "DET",
+   "horizon": "current",
+   "text": "The speaker hopes for 6 rebounds, 4.5 assists, 2 steals and a block on 54% shooting, with no threes and low scoring.",
+   "ts": "15:52",
+   "quote": "my hope would be that we get six rebounds, four and a half assists, two steals, and a block on 54% shooting",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 968
+  },
+  {
+   "player": "Ausar Thompson",
+   "said_as": "Assad Thompson",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He is the speaker's top target on the Pistons in certain situations.",
+   "ts": "29:15",
+   "quote": "But I'm still targeting Assad Thompson in certain situations.",
+   "value_hint": "best target on the team",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1755
+  },
+  {
+   "player": "John Collins",
+   "said_as": "John Collins",
+   "team": "DET",
+   "horizon": "durable",
+   "text": "He shoots a good percentage on low volume, is not a three-point threat, does not pass, and his defensive stats have dropped.",
+   "ts": "16:58",
+   "quote": "He's a guy that shoots a good percentage but doesn't take enough of them and he's not a threat from out there.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1029
+  },
+  {
+   "player": "John Collins",
+   "said_as": "John",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He becomes a category-league value if he plays 31 minutes.",
+   "ts": "17:33",
+   "quote": "all it takes for John to be a bit of a value for category leagues is he just plays 31 minutes.",
+   "value_hint": "Yahoo 116; ESPN 99 a bit high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1064
+  },
+  {
+   "player": "John Collins",
+   "said_as": "John Collins",
+   "team": "DET",
+   "horizon": "current",
+   "text": "Fine in rounds 9 to 10 in category leagues and a round or two later in points leagues. The speaker drafted him around round 10.",
+   "ts": "18:37",
+   "quote": "of taking him in that round 10 range, round nine range, pushing a round or two later for points leagues.",
+   "value_hint": "rounds 9 to 10 in categories",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1117
+  },
+  {
+   "player": "John Collins",
+   "said_as": "John Collins",
+   "team": "DET",
+   "horizon": "current",
+   "text": "The speaker thinks he is a worse fit for the Pistons than Tobias Harris and is not a 20 and 10 player anymore.",
+   "ts": "17:33",
+   "quote": "I'm very sure that John Collins is a worse player for the Pistons than Tobias Harris was or",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1078
+  },
+  {
+   "player": "Duncan Robinson",
+   "said_as": "Duncan Robinson",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He is likely safe as a starter but may be a '.5 starter' playing about 24 to 25 minutes.",
+   "ts": "3:49",
+   "quote": "So, I do think Robinson is safe as a starter, but is he a traditional starter or is he a 0.5 starter?",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 229
+  },
+  {
+   "player": "Duncan Robinson",
+   "said_as": "Dunc",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He is only worth drafting in 20-team leagues. A Fantrax ADP of 239 feels right, and Yahoo 109 and ESPN 169 are too high.",
+   "ts": "19:10",
+   "quote": "He was outside the top 230 in both or sorry, top 220 in both formats last season. Fantra's got him at 239.",
+   "value_hint": "around 239; 20-team leagues only",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1160
+  },
+  {
+   "player": "Duncan Robinson",
+   "said_as": "Dunc",
+   "team": "DET",
+   "horizon": "durable",
+   "text": "His defense and passing have improved a lot, but his usage is low and he contributes little besides threes.",
+   "ts": "19:10",
+   "quote": "has improved his defense and his passing a lot.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1167
+  },
+  {
+   "player": "Duncan Robinson",
+   "said_as": "Duncan Robinson",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He is a streaming option for threes, not a draft target.",
+   "ts": "20:14",
+   "quote": "He will be one of those names that I bring up every time we talk streaming.",
+   "value_hint": "streamer",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1214
+  },
+  {
+   "player": "Paul Reed",
+   "said_as": "Paul Reed",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He was the third-string center last season but is now the backup center. With Isaiah Stewart gone, he is a must-draft player around 120 in 14-team leagues.",
+   "ts": "24:45",
+   "quote": "And that means that in any 14 team league, Paul Reed is a mustdraft player in the 120 range.",
+   "value_hint": "around 120; Yahoo ADP 113; ESPN 241 way too low",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1510
+  },
+  {
+   "player": "Paul Reed",
+   "said_as": "Reed",
+   "team": "DET",
+   "horizon": "current",
+   "text": "Duren's signing limits his upside. If Duren plays 28 minutes, Reed plays about 20.",
+   "ts": "24:45",
+   "quote": "But if Duran plays 28, Reed plays 20.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1499
+  },
+  {
+   "player": "Paul Reed",
+   "said_as": "Paul Reed",
+   "team": "DET",
+   "horizon": "durable",
+   "text": "He is an excellent per-minute producer.",
+   "ts": "25:17",
+   "quote": "but he remains an excellent permanent producer. And we're closer than we were last season",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1524
+  },
+  {
+   "player": "Paul Reed",
+   "said_as": "Reed",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He is the team's stash option and could push top 40 if he plays 28 minutes. The speaker now prefers him around round 13 instead of rounds 10 to 11.",
+   "ts": "30:19",
+   "quote": "Probably moving towards maybe if he's there in 13 just because the Duran situation has now cleared up.",
+   "value_hint": "round 13; was rounds 10 to 11",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1846
+  },
+  {
+   "player": "Isaiah Joe",
+   "said_as": "Isaiah Joe",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He is projected as the sixth man but is outside the top 250 for fantasy.",
+   "ts": "25:17",
+   "quote": "he's just not a good fantasy player outside the top 250 for categories and points.",
+   "value_hint": "around 250",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1544
+  },
+  {
+   "player": "Isaiah Joe",
+   "said_as": "Joe",
+   "team": "DET",
+   "horizon": "durable",
+   "text": "He is an elite three-point shooter with low usage and nothing else. He is a three-point streamer.",
+   "ts": "26:26",
+   "quote": "Joe probably contributes in a similar way, but just an excellent three-point streamer.",
+   "value_hint": "streamer",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1602
+  },
+  {
+   "player": "Daniss Jenkins",
+   "said_as": "Danish Jenkins",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He has the best category upside on the bench. When Cade was out over the final 16 games, he played 31 minutes. He is draftable in 16-team leagues.",
+   "ts": "26:58",
+   "quote": "Over the final 16 games of last season when Cade was out, he played 31 minutes.",
+   "value_hint": "16-team draftable",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1625
+  },
+  {
+   "player": "Daniss Jenkins",
+   "said_as": "Danish Jenkins",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He is the speaker's late-round swing in case he gets a 26-minute role. His path depends on Bickerstaff changing things or a Cunningham injury.",
+   "ts": "29:48",
+   "quote": "Danish Jenkins is an interesting one there just just in case he gets a 26-inute.5 starter role.",
+   "value_hint": "late swing",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1792
+  },
+  {
+   "player": "Taurean Prince",
+   "said_as": "Torian Prince",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He may be the 10th man in the rotation. Kevin Huerter could take that spot instead.",
+   "ts": "23:40",
+   "quote": "I do think Torian Prince might be the 10th guy, but it could be Kevin Herder.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1423
+  },
+  {
+   "player": "Javonte Green",
+   "said_as": "Javante Green",
+   "team": "DET",
+   "horizon": "current",
+   "text": "The speaker thinks he is better than Prince but probably won't play. Pick him up if he ever starts.",
+   "ts": "28:41",
+   "quote": "but Javante Green's one of those guys that if he starts, we you pick him up in fantasy",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1729
+  },
+  {
+   "player": "Ugonna Onyenso",
+   "said_as": "Ugana Onenso",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He has an insane block rate but is a third-string center on a two-way contract.",
+   "ts": "28:10",
+   "quote": "Ugana Onenso on a 2-way insane block rate player, but that's a third string two-way center.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1713
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "DET",
+   "horizon": "current",
+   "text": "Projected starting five is the same as last season: Cunningham, Robinson, Thompson, Collins and Duren.",
+   "ts": "5:59",
+   "quote": "Kade Cunningham, Duncan Robinson, Assad Thompson, Johnny the Baptist Collins, and Jaylen Durren. I fully expect that is the starting five.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 374
+  },
+  {
+   "team": "DET",
+   "horizon": "current",
+   "text": "Isaiah Stewart is gone, so there is less frontcourt depth behind Duren.",
+   "ts": "3:13",
+   "quote": "They also don't have Isaiah Stewart to back you up anymore.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 208
+  },
+  {
+   "team": "DET",
+   "horizon": "current",
+   "text": "The team lost creation with Tobias Harris and may need another ball handler like Daniss Jenkins.",
+   "ts": "3:49",
+   "quote": "If you're going to lose creation abilities in the first unit with Tobias Harris, then maybe you want another ball handler like Danish Jenkins.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 229
+  },
+  {
+   "team": "DET",
+   "horizon": "current",
+   "text": "With Duren back, the team will still have some spacing issues.",
+   "ts": "5:27",
+   "quote": "with Duran back we're still going to have some of those spacing issues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 335
+  },
+  {
+   "team": "DET",
+   "horizon": "current",
+   "text": "Bench rotation: Isaiah Joe as sixth man, then Ron Holland, Paul Reed and Daniss Jenkins. Prince or Huerter gets the last spot.",
+   "ts": "23:40",
+   "quote": "obviously is a ridiculously good shooter. I think we're going to go with Ronnie Holland, Paul Reed, Danish Jenkins",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1420
+  },
+  {
+   "team": "DET",
+   "horizon": "durable",
+   "text": "The speaker says coach J.B. Bickerstaff has repeatedly misled about Ausar Thompson's minutes and health.",
+   "ts": "4:52",
+   "quote": "documented liar about Thompson's playing time. Every time we have the question about Thompson and his playing time",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 304
+  },
+  {
+   "team": "DET",
+   "horizon": "current",
+   "text": "Playoff schedule is 4-3-4 for leagues ending March 28 and 3-4-4 for leagues ending April 4. The team has 15 back-to-backs, with no rest risks expected.",
+   "ts": "31:32",
+   "quote": "That's a 344. Again, not bad. And if you want to talk back to backs, which I'm going to, they have 15.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1892
+  },
+  {
+   "team": "DET",
+   "horizon": "current",
+   "text": "There are no notable injuries on the team.",
+   "ts": "30:54",
+   "quote": "let's have a look at the injury updates for this team. And thankfully, there's nothing that's really happening.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1862
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Cade Cunningham finished 13th in 9-category head-to-head last season.",
+   "ts": "7:32",
+   "quote": "So in saying that, Cade was 13th in Durant last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 479
+  },
+  {
+   "text": "Cade Cunningham averaged 24 points, 5 rebounds and 10 assists in 34 minutes, shooting 46% from the field.",
+   "ts": "8:06",
+   "quote": "He averaged 10 assists, five rebounds, 24 points, 34 minutes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 514
+  },
+  {
+   "text": "Cade Cunningham finished 7th in points leagues last season.",
+   "ts": "8:46",
+   "quote": "He was seventh in points league, so that's okay.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 534
+  },
+  {
+   "text": "Jalen Duren finished 40th in categories and 38th in points leagues last season.",
+   "ts": "10:22",
+   "quote": "40th last season, 38th in points leagues. ESPN's gone a little hard ranking at 23",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 622
+  },
+  {
+   "text": "Jalen Duren played 28 minutes per game and averaged 19 points and 10 rebounds last season.",
+   "ts": "10:55",
+   "quote": "play more than the 28 minutes he played last season where he averaged 19 and 10 and",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 680
+  },
+  {
+   "text": "Ausar Thompson finished outside the top 100 in both categories and points leagues last season.",
+   "ts": "14:14",
+   "quote": "he finished outside the top 100 for categories and for points leagues that was disappointing.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 854
+  },
+  {
+   "text": "Over the second half of last season, Ausar Thompson averaged 2.5 steals and a block in under 26 minutes with 15% usage.",
+   "ts": "14:46",
+   "quote": "season, two and a half steals and a block per game in under 26 minutes with 15 usage.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 886
+  },
+  {
+   "text": "Ausar Thompson averaged 9.9 points per game last season.",
+   "ts": "16:24",
+   "quote": "He averaged nine points a game last season. 9.9.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 984
+  },
+  {
+   "text": "John Collins finished 117th in categories and 154th in points leagues last season, playing 27 minutes and averaging 13 points and 5 rebounds.",
+   "ts": "16:58",
+   "quote": "He was 117th in categories and 154th in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1018
+  },
+  {
+   "text": "Duncan Robinson's free throw percentage dropped from 89% to 76%, and he shot 43% from three over the final 25 games.",
+   "ts": "19:43",
+   "quote": "he somehow went from 89% from the line to 76.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1183
+  },
+  {
+   "text": "Duncan Robinson finished outside the top 220 in both formats last season.",
+   "ts": "19:10",
+   "quote": "He was outside the top 230 in both or sorry, top 220 in both formats last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1160
+  },
+  {
+   "text": "Paul Reed finished 204th last season.",
+   "ts": "24:11",
+   "quote": "He was 204th last season, but he was the third string center.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1451
+  },
+  {
+   "text": "Isaiah Joe made 2.5 threes per game at 42% last season, and about 44% over the final 40 games.",
+   "ts": "25:54",
+   "quote": "Joe hits threes. He hit two and a half a game. He hit them at 42%.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1572
+  },
+  {
+   "text": "Over the final 16 games last season, Daniss Jenkins averaged 15 points, 4 rebounds, 7 assists and a steal in 31 minutes, shooting 92% FT and 40% from three.",
+   "ts": "26:58",
+   "quote": "Over the final 16 games of last season when Cade was out, he played 31 minutes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1625
+  },
+  {
+   "text": "The Pistons have 15 back-to-backs, and the league-wide range is 13 to 16.",
+   "ts": "31:32",
+   "quote": "It's only two more than the lowest amount though. The range is 13 to 16.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1902
+  }
+ ]
+}

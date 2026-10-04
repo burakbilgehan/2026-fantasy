@@ -1,0 +1,688 @@
+{
+ "video": {
+  "id": "aLP080hxizA",
+  "title": "Amen Thompson’s ROLE DRAMATICALLY Shifts | Should Fantasy Managers WORRY?",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-10-01",
+  "duration": "39:14",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T16:15:14+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.27999999999999997,
+  "duration_ms": 63846
+ },
+ "summary": "Josh Lloyd previews the Houston Rockets for fantasy. Ime Udoka's coaching is the main theme: he cares about defense, gives huge minutes, and may cut players he sees as poor defenders, which could hit Reed Sheppard and Alperen Sengun. Kevin Durant is his best target in category leagues, but he warns that Durant is ranked too high for points leagues. Amen Thompson is a mid-to-late second-round pick only if you expect his blocks and field goal percentage to improve while his assists drop. Sengun and Jabari Smith Jr. are fairly priced. Fred VanVleet is a late flyer coming off a torn ACL. Reed Sheppard is his biggest fade at his ESPN rank but a fine upside pick around round 10. He finishes with a recommended March 28 end date, the Rockets' weak 3-3-4 playoff schedule, and a mailbag answer explaining why percentage categories get less reliable in low-volume weeks.",
+ "rules": [
+  {
+   "text": "Category and points league values can differ a lot for the same player. Check that the rankings and ADPs you use match your scoring system.",
+   "ts": "6:08",
+   "quote": "be very careful of what advice you're getting, what your valuation is, and how you're viewing rankings and ADPs",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 368
+  },
+  {
+   "text": "A coach who plays heavy minutes or benches players for poor defense has a big effect on projections and on whether a player is a value or a bust.",
+   "ts": "3:17",
+   "quote": "that has big impacts on how we project all these guys out and whether they're values or busts",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 199
+  },
+  {
+   "text": "Taking Giannis in round one does not mean you have to punt free throws or target other bad free throw shooters.",
+   "ts": "14:16",
+   "quote": "You don't need to grab bad free throw guys to go along with Giannis. you don't.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 856
+  },
+  {
+   "text": "Traditional nine-category season-total rankings can mislead. For head-to-head leagues, he says some players' real value is far from what those totals show.",
+   "ts": "14:47",
+   "quote": "he is a guy that gets hurt by a traditional terrible nineat ranking",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 896
+  },
+  {
+   "text": "Late upside picks should have a realistic path to a role. Counting on an injury to someone else is not enough.",
+   "ts": "23:10",
+   "quote": "There's no realistic other way for Tari E to get like 30 minutes a night",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1390
+  },
+  {
+   "text": "Use the 240-minute game: each game has only 240 minutes to share, so ask whether a player can realistically get enough of them.",
+   "ts": "26:34",
+   "quote": "every game there are 240 minutes available to be played. And how does he play enough?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1594
+  },
+  {
+   "text": "Upside picks depend on price. The same player can be a fade early and a fine swing late.",
+   "ts": "28:46",
+   "quote": "Do I universally love Reed Shepard? No, I don't. It's all context dependent.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1729
+  },
+  {
+   "text": "Stashing only works in formats with real bench spots, such as weekly lock, roto, games-cap or deep-bench leagues. In a standard 10-starter, 3-bench daily league with weekly move limits, bench spots are really active roster spots and stashing is not possible.",
+   "ts": "30:00",
+   "quote": "stashing is not a possibility.",
+   "verified": false,
+   "match_ratio": 0.0,
+   "seconds": 1800
+  },
+  {
+   "text": "His recommended fantasy season end date is March 28, given the lottery reforms.",
+   "ts": "32:44",
+   "quote": "I recommend at this point given the lottery reforms I am going to March 28th",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1964
+  },
+  {
+   "text": "Use the fantasy playoff schedule as a tiebreaker between two similar players.",
+   "ts": "32:44",
+   "quote": "If you're debating between Amen Thompson and Austin Reeves and the Lakers have a better schedule, take Austin Reeves.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1978
+  },
+  {
+   "text": "Back-to-back counts only range from 13 to 16 across the league, so they should not be a big factor in draft decisions.",
+   "ts": "33:23",
+   "quote": "It's one every six weeks. It's It's nothing. It shouldn't be a gigantic factor in your",
+   "verified": true,
+   "match_ratio": 0.75,
+   "seconds": 2032
+  },
+  {
+   "text": "Percentage categories are not safe in low-volume weeks. With fewer attempts, each miss moves the percentage more, so results swing more. Free throw percentage varies most year to year, and field goal percentage varies most from game to game and week to week.",
+   "ts": "35:35",
+   "quote": "the fewer games you play, the smaller your denominator is in terms of field goal attempts and free throw attempts",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2135
+  },
+  {
+   "text": "High-volume counting stats like points, rebounds and assists are the most stable from game to game, so players whose strengths are in those categories are more reliable in head-to-head leagues.",
+   "ts": "37:17",
+   "quote": "your stable stats year on year, game by game are the high volumes. It's the points, rebounds, assists.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2229
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Kevin Durant",
+   "said_as": "KD",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Durant played 36 minutes a game last season. Lloyd expects about 36 again, maybe 35. If it falls to 33, his value changes materially.",
+   "ts": "4:59",
+   "quote": "He played 36 last season. I think he can play I think he probably plays 36 again.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 299
+  },
+  {
+   "player": "Kevin Durant",
+   "said_as": "Kevin Durant",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Durant is great value in category leagues but too early in points leagues. Lloyd is happy taking him at the end of round one in category leagues.",
+   "ts": "6:08",
+   "quote": "His Fantre ADP sits at 17. I think that's fantastic value in a category league",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 387
+  },
+  {
+   "player": "Kevin Durant",
+   "said_as": "Kevin Durant",
+   "team": "HOU",
+   "horizon": "durable",
+   "text": "Durant is an efficient scorer with low steals. He shoots well from the field and from the line. The main worry is whether his body holds up.",
+   "ts": "7:13",
+   "quote": "He's always a low steels guy. That's not changing. But he shot 52% from the field three consecutive seasons.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 440
+  },
+  {
+   "player": "Kevin Durant",
+   "said_as": "Kevin Durant",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Durant is Lloyd's best target on the team in category leagues at his ESPN rank, but not in points leagues in the middle of round two.",
+   "ts": "27:42",
+   "quote": "I say that Kevin Durant is my best target, but it depends. If I'm in a points league",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1680
+  },
+  {
+   "player": "Kevin Durant",
+   "said_as": "Kevin Durant",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Durant hurt his ankle in the playoffs, but he is fine now.",
+   "ts": "31:40",
+   "quote": "There's no problem with Durant now. He He's fine.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1924
+  },
+  {
+   "player": "Amen Thompson",
+   "said_as": "a man",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Thompson finished 25th last season after being drafted around 20th. Lloyd says that was fine, not a disappointment. His blocks were cut in half after his offensive role changed.",
+   "ts": "7:43",
+   "quote": "if you finish 25th and you get taken at 20 it's actually fine it's all right",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 471
+  },
+  {
+   "player": "Amen Thompson",
+   "said_as": "Amen Thompson",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "With less time at point guard, his assists may drop by about one per game. Lloyd hopes his blocks come back to about 0.9 and his field goal percentage rises to 55 or 56%.",
+   "ts": "8:48",
+   "quote": "I think he can push up at least to like 55 56 overall.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 552
+  },
+  {
+   "player": "Amen Thompson",
+   "said_as": "Amen Thompson",
+   "team": "HOU",
+   "horizon": "durable",
+   "text": "Thompson is an elite athlete who does not hit threes.",
+   "ts": "8:48",
+   "quote": "He's an unbelievable athlete and he can clearly do it and defensively and even offensively the value is there.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 528
+  },
+  {
+   "player": "Amen Thompson",
+   "said_as": "him",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Thompson is worth a mid-to-late second-round pick in category leagues and a mid third in points leagues, if you believe his blocks and field goal percentage will improve. Otherwise treat him as a third-round pick, around 28 to 30. His ESPN rank of 13 is slightly aggressive.",
+   "ts": "9:54",
+   "quote": "If you think that all of them come down or the blocks stay stable, then you go with him in the 28 to 30 range.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 613
+  },
+  {
+   "player": "Alperen Sengun",
+   "said_as": "Shenun",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Udoka has blamed Sengun's defense for years. With more guard depth, his 33 minutes could drop to about 31 or 32.",
+   "ts": "4:23",
+   "quote": "Shenun, you're playing 31 minutes now, and Adams and Smith and Een and Durant will take up front court minutes",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 275
+  },
+  {
+   "player": "Alperen Sengun",
+   "said_as": "Shenun",
+   "team": "HOU",
+   "horizon": "durable",
+   "text": "Sengun has an unusual stat line, with steals and blocks plus over six assists. His defense is a concern.",
+   "ts": "12:34",
+   "quote": "how many guys are getting 1.2 steals and 1.1 blocks? Oh, yeah. with over six assists.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 771
+  },
+  {
+   "player": "Alperen Sengun",
+   "said_as": "Shenu",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "His assists were boosted with VanVleet out. With VanVleet back, they likely fall to 5 to 5.5. Last season was already his best shot-blocking year, so there is no blocks upside to make up for it.",
+   "ts": "13:11",
+   "quote": "Shenu probably drops back to five and a half assists, maybe five assists",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 802
+  },
+  {
+   "player": "Alperen Sengun",
+   "said_as": "Shenun",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "His ADPs are reasonable. Lloyd has him at 24 to 30 in category leagues and a little higher in points leagues.",
+   "ts": "13:44",
+   "quote": "the ADPs at 19 and 24 and 20 across Yahoo, ESPN, and Fantrax, it's all reasonable.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 824
+  },
+  {
+   "player": "Alperen Sengun",
+   "said_as": "Shenun",
+   "team": "HOU",
+   "horizon": "durable",
+   "text": "Sengun is a poor free throw shooter.",
+   "ts": "13:44",
+   "quote": "His free throws are pretty bad.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 832
+  },
+  {
+   "player": "Jabari Smith Jr.",
+   "said_as": "Jabari",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Smith finished 96th in both formats. Drafting him in that range is reasonable, and ESPN's 122 is a better price. Lloyd calls him boring.",
+   "ts": "15:20",
+   "quote": "He was 96th in both formats last season. I think drafting him in that that range is is reasonable.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 938
+  },
+  {
+   "player": "Jabari Smith Jr.",
+   "said_as": "Smith",
+   "team": "HOU",
+   "horizon": "durable",
+   "text": "Smith is a stretch shooter with poor steals and poor field goal percentage. He does not pass or get to the rim.",
+   "ts": "15:55",
+   "quote": "His steel numbers are horrible.",
+   "verified": false,
+   "match_ratio": 0.0,
+   "seconds": 955
+  },
+  {
+   "player": "Jabari Smith Jr.",
+   "said_as": "Jabari",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "His minutes are stable and higher than Sengun's. Lloyd sees no reason to expect more blocks, more steals or higher usage.",
+   "ts": "16:30",
+   "quote": "his minutes are pretty stable. He plays a lot, more than Shenun, by the way.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 990
+  },
+  {
+   "player": "Fred VanVleet",
+   "said_as": "Fred Vanble",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "VanVleet missed all of last season with a torn ACL and made troubling media day comments about his knee. Lloyd projects about 32 minutes, starting near 30 and rising to about 34. He expects VanVleet to miss some back-to-backs early.",
+   "ts": "17:07",
+   "quote": "I got him at about 32 over the course of the season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1050
+  },
+  {
+   "player": "Fred VanVleet",
+   "said_as": "Vanble",
+   "team": "HOU",
+   "horizon": "durable",
+   "text": "VanVleet is a horrible shooter from the field, especially on twos, but his three-point shooting is good.",
+   "ts": "17:40",
+   "quote": "It's just horrible shooting. 38% the last time we saw him.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1060
+  },
+  {
+   "player": "Fred VanVleet",
+   "said_as": "Van Vleet",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "His ESPN rank of 74 is nonsense. Lloyd has him at 120 to 135 in category leagues and 115 to 130 in points leagues, as a late point guard flyer. With many other ball handlers on the team, he is not banking on high assists.",
+   "ts": "18:16",
+   "quote": "I look at him more in the 120 to 135 range and 115 to 130 for points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1121
+  },
+  {
+   "player": "Marcus Smart",
+   "said_as": "Marcus Smart",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Smart may lead the bench in minutes because Udoka coached him in Boston and values defense. He was ranked outside the top 200 last season. He could become a streamer or stash when VanVleet sits.",
+   "ts": "21:09",
+   "quote": "I went with Marcus Smart there because not sure if you're aware of this, but he has a ponch for defense",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1276
+  },
+  {
+   "player": "Marcus Smart",
+   "said_as": "Marcus Smart",
+   "team": "HOU",
+   "horizon": "durable",
+   "text": "Smart is an assists and steals specialist who will not score much.",
+   "ts": "22:10",
+   "quote": "He's not going to score very much. He's going to be an assists and steals type specialist",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1330
+  },
+  {
+   "player": "Tari Eason",
+   "said_as": "Een",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Eason finished outside the top 150. He is fine as a last-round pick but has no realistic path to 30 minutes unless Durant or Smith gets hurt. He projects for about 25 minutes.",
+   "ts": "22:40",
+   "quote": "Een finished outside the top 150 last last season. He's only 25. He's signed that extension.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1360
+  },
+  {
+   "player": "Tari Eason",
+   "said_as": "E",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Eason's three-point shooting collapsed late last season. His blocks were cut in half and his steals were way down. He is still a strong rebounder.",
+   "ts": "24:14",
+   "quote": "field goals in the toilet, three-pointers terrible and roll uncertain.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1430
+  },
+  {
+   "player": "Tari Eason",
+   "said_as": "Een",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Eason is Lloyd's stash option in formats that allow stashing. If he gets 32 minutes with Durant or Smith out, he would be about a top-70 player.",
+   "ts": "29:23",
+   "quote": "if one or both of them are out and he does get 32 minutes, then it's a top 70-ish player",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1763
+  },
+  {
+   "player": "Steven Adams",
+   "said_as": "Steve Adams",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Adams is the backup center and only a rebound streamer for certain matchups.",
+   "ts": "24:14",
+   "quote": "Steve Adams. Um, just a rebound streamer in in certain games and certain matchups.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1462
+  },
+  {
+   "player": "Steven Adams",
+   "said_as": "Adams",
+   "team": "HOU",
+   "horizon": "durable",
+   "text": "Adams has persistent knee problems. He is healthy now, but Lloyd expects him to sit back-to-backs, definitely to start the year.",
+   "ts": "31:09",
+   "quote": "I'd be pretty surprised if Adams plays back to backs all season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1894
+  },
+  {
+   "player": "Reed Sheppard",
+   "said_as": "Reed Shepard",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Sheppard may struggle to match last season's minutes because Udoka blamed him for defensive mistakes and the team added two point guards.",
+   "ts": "3:17",
+   "quote": "It's incredibly hard for Reed Shepard this season to even play as much as he did last season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 205
+  },
+  {
+   "player": "Reed Sheppard",
+   "said_as": "Reeper",
+   "team": "HOU",
+   "horizon": "durable",
+   "text": "Sheppard has a great fantasy profile: steals, blocks, high threes and good free throw shooting on low volume. He is small and struggles defensively.",
+   "ts": "24:50",
+   "quote": "Steals and blocks with high threes, good free throws, although he never takes any of them.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1510
+  },
+  {
+   "player": "Reed Sheppard",
+   "said_as": "Reed",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Sheppard was 93rd in head-to-head and 127th in points leagues, but season-total nine-category rankings put him 29th. Lloyd calls that misleading.",
+   "ts": "24:14",
+   "quote": "Reed last season was 93rd in Durant head-to-head.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1474
+  },
+  {
+   "player": "Reed Sheppard",
+   "said_as": "Reed Shepard",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Lloyd projects about 26 minutes and doubts Sheppard breaks the top 100. His ESPN rank of 58 is bonkers and he is Lloyd's biggest fade there. He is fine as a round-10 upside swing pick around 110 to 120.",
+   "ts": "28:15",
+   "quote": "my biggest fade is Reed Shepard on ESPN cuz he's sitting at 58. That's ridiculous.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1688
+  },
+  {
+   "player": "Bogdan Bogdanovic",
+   "said_as": "Bogdan Bogdanovic",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Bogdanovic probably gets the last rotation spot.",
+   "ts": "26:34",
+   "quote": "I think the last rotation spot probably goes to Bogdan Bogdanovic.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1612
+  },
+  {
+   "player": "Bruce Thornton",
+   "said_as": "Bruce Thornton",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Thornton is a second-round rookie who Lloyd thinks might become a player, but he is undersized.",
+   "ts": "27:08",
+   "quote": "second round pick Bruce Thornton who I think might become a player.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1636
+  },
+  {
+   "player": "Clint Capela",
+   "said_as": "Capella",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Capela is the backup center when Adams sits. He has some use in deeper leagues.",
+   "ts": "31:40",
+   "quote": "deeper leagues, you'll get a little bit of use out of Wash Capella.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1900
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Coach Ime Udoka cares only about defense. His offense is basic, he holds grudges against some players, and he plays starters very heavy minutes.",
+   "ts": "2:13",
+   "quote": "Defense is all that he cares about. His offense is rudimentary at best.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 146
+  },
+  {
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Lloyd's projected starters are VanVleet, Thompson, Durant, Smith and Sengun.",
+   "ts": "5:36",
+   "quote": "It's Fred Vanble Vleet Amen Thompson, Kevin Durant, Jabari Smith Jr. and the delicate dancer Alparen Shenun.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 328
+  },
+  {
+   "team": "HOU",
+   "horizon": "current",
+   "text": "More guard depth may push Durant and Eason into forward roles, which concentrates the frontcourt minutes.",
+   "ts": "4:23",
+   "quote": "These big guys are going to concentrate up.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 266
+  },
+  {
+   "team": "HOU",
+   "horizon": "current",
+   "text": "The roster is thin after the top 10 or 11 players.",
+   "ts": "26:34",
+   "quote": "this roster after that top 10 or 11 guys is trash.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1621
+  },
+  {
+   "team": "HOU",
+   "horizon": "current",
+   "text": "With a March 28 end date, the Rockets have a weak 3-3-4 fantasy playoff schedule, 10 games over three weeks. Under Yahoo's default they have 3-4-4, which is fine.",
+   "ts": "32:44",
+   "quote": "the Rockets have a 334. Not an ideal schedule.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1970
+  },
+  {
+   "team": "HOU",
+   "horizon": "current",
+   "text": "The Rockets have only 14 back-to-backs.",
+   "ts": "33:23",
+   "quote": "they've only got 14 back to backs.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2011
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Durant played 78 games at 36 minutes per game and finished 10th in category leagues and 22nd in Yahoo points.",
+   "ts": "5:36",
+   "quote": "78 games, 36 minutes, which totals out to over 2,800 minutes. He was 10th in category leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 350
+  },
+  {
+   "text": "Durant averaged 26 points, 5 rebounds, 5 assists and 0.9 blocks. He shot 52% from the field for three straight seasons and about 85 to 86% on six free throw attempts per game.",
+   "ts": "7:13",
+   "quote": "He averaged 26, five and five with.9 blocks.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 433
+  },
+  {
+   "text": "Thompson's blocks fell from 1.3 to 0.6 per game.",
+   "ts": "8:13",
+   "quote": "He went from 1.3 to 6, but his steals were fine.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 493
+  },
+  {
+   "text": "Thompson shot 59% from the field over the last 30 games.",
+   "ts": "8:48",
+   "quote": "his field goals over the last 30 games was 59% as a point guard.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 544
+  },
+  {
+   "text": "Sengun averaged 1.2 steals, 1.1 blocks and 6.2 assists in 33 minutes. He finished 21st in category leagues and 16th in points leagues.",
+   "ts": "12:34",
+   "quote": "He was 21st in categories last season, 16th in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 782
+  },
+  {
+   "text": "Sengun's assists rose from 4.9 and 5.0 in the two previous seasons to 6.2.",
+   "ts": "13:11",
+   "quote": "He went from 4.9 and five the two previous years up to 6.2.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 791
+  },
+  {
+   "text": "Smith averaged 16 points, 7 rebounds and 1 block, shooting 36% from three on six attempts. His steals went from 0.4 to 0.7.",
+   "ts": "15:55",
+   "quote": "36% on six attempts per game.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 962
+  },
+  {
+   "text": "VanVleet shot 38% from the field in his last season. He averaged 8 assists in 2023-24 and 5.6 the next season.",
+   "ts": "17:40",
+   "quote": "he had eight assists per game in 23 24 van and then went back to 5.6 the year after",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1084
+  },
+  {
+   "text": "Eason shot 36% from three for the season, under 30% over his last 40 games, and played only 60 games.",
+   "ts": "23:10",
+   "quote": "he ended up with shooting 36% from three for the season, but he was at under 30 over the last 40 games.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1410
+  },
+  {
+   "text": "In 21 starts, Sheppard played 30 minutes a game with 15 points, 4 rebounds, 5 assists, 2 steals and 1 block.",
+   "ts": "26:03",
+   "quote": "In the 21 games that he started, he played 30 minutes a night, 15, four and five, two steals, one block.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1563
+  },
+  {
+   "text": "Sheppard finished 127th in points leagues.",
+   "ts": "24:50",
+   "quote": "127th in points leagues. Big difference.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1506
+  }
+ ]
+}
