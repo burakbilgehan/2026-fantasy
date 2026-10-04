@@ -3,8 +3,8 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 74 | 22.0 | 43.9 (8.4) | 80.0 (2.4) | 1.1 | 10.3 | 2.9 | 2.0 | 0.7 | 0.1 | 1.3 |
 | 2026-27 proj, Yahoo | 70 | - | 48.3 (6.1) | 79.3 (2.0) | 1.0 | 8.5 | 2.4 | 1.2 | 0.3 | 0.1 | 0.7 |
+| 2025-26 | 74 | 22.0 | 43.9 (8.4) | 80.0 (2.4) | 1.1 | 10.3 | 2.9 | 2.0 | 0.7 | 0.1 | 1.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,8 +29,8 @@
 **Current**
 - Washington has a crowded group of young wings and guards, and Riley is one of them. (fact, 2026-09-07; [07-23](https://youtu.be/UTE0dNIv8nY?t=901), [07-23](https://youtu.be/LUTYUdXBG1M?t=192), [07-23](https://youtu.be/LUTYUdXBG1M?t=248), [09-07](https://youtu.be/gJUBAJaHzlU?t=1586))
 - Washington added Anthony Davis, Trae Young and AJ Dybantsa. Notes say this cuts into the roles of the team's young players. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
-- Riley is not in the projected starting five of Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
 - The fifth starter spot is unclear, and many wings are competing for it. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1586))
+- Riley is not in the projected starting five of Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
 - Ben expects a 10 or 11 man rotation, with 12 or 13 players who could justify minutes. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2098))
 - Washington is trying to compete and push for the play-in. It is no longer rebuilding. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
 - He averaged 22.5 points in two Summer League games and shot well. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=192))

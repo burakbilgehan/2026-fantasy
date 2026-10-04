@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 2 | 7.5 | 50.0 (2.0) | - (0.0) | 0.0 | 2.0 | 0.5 | 1.5 | 0.0 | 0.0 | 0.5 |
-| 2024-25 | 70 | 19.9 | 51.6 (8.8) | 87.2 (2.1) | 1.6 | 12.5 | 2.5 | 3.4 | 1.1 | 0.0 | 1.3 |
-| 2025-26 | 15 | 22.7 | 47.4 (14.3) | 87.5 (3.7) | 2.8 | 19.7 | 2.8 | 5.7 | 1.1 | 0.3 | 1.8 |
-| 2026-27 proj, Yahoo | 67 | - | 49.4 (12.1) | 87.4 (3.1) | 2.6 | 17.2 | 3.5 | 6.2 | 1.3 | 0.1 | 2.0 |
 | 2026-27 proj, ESPN | 64 | 25.8 | 48.9 (14.3) | 87.4 (3.6) | 2.7 | 19.8 | 3.2 | 5.6 | 1.3 | 0.2 | 1.9 |
+| 2026-27 proj, Yahoo | 67 | - | 49.4 (12.1) | 87.4 (3.1) | 2.6 | 17.2 | 3.5 | 6.2 | 1.3 | 0.1 | 2.0 |
+| 2025-26 | 15 | 22.7 | 47.4 (14.3) | 87.5 (3.7) | 2.8 | 19.7 | 2.8 | 5.7 | 1.1 | 0.3 | 1.8 |
+| 2024-25 | 70 | 19.9 | 51.6 (8.8) | 87.2 (2.1) | 1.6 | 12.5 | 2.5 | 3.4 | 1.1 | 0.0 | 1.3 |
+| 2023-24 | 2 | 7.5 | 50.0 (2.0) | - (0.0) | 0.0 | 2.0 | 0.5 | 1.5 | 0.0 | 0.0 | 0.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,21 +30,21 @@
 </details>
 
 **Current**
-- Memphis traded Ja Morant to Portland. This opened the starting point guard job in Memphis. (fact, 2026-07-17; [06-29](https://youtu.be/bHA-JoW3reE?t=872), [06-30](https://youtu.be/4GDfg2n2l8o?t=478), [06-30](https://youtu.be/4GDfg2n2l8o?t=460), [07-17](https://youtu.be/NYTH7uQsPCM?t=1672))
-- The Memphis guard group is crowded. Javon Small, Scotty Pippen Jr., Campazzo and Cam Spencer also compete for guard minutes. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=557))
 - Most experts expect him to start at point guard, and Josh says he will easily win the job. One note says it is not even clear he will play starter minutes. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1457), [09-10](https://youtu.be/W-R1dzem32s?t=1738), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1667), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483), [07-17](https://youtu.be/NYTH7uQsPCM?t=1737), [06-30](https://youtu.be/4GDfg2n2l8o?t=478), [06-29](https://youtu.be/bHA-JoW3reE?t=872), [09-22](https://youtu.be/QbdrhJd7LiA?t=1708))
 - His Yahoo ADP keeps falling because drafters seem to think Scotty Pippen Jr. will start. The expert sees no reason for that. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1457))
-- Joe projects about 27 to 28 minutes a game. Coach Iisalo runs an 11-man rotation with short stints and keeps minutes down, so only Cameron Boozer and Cedric Coward are expected to top 30 minutes. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1667), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
 - His 2025-26 line came on a usage rate of about 30 to 33 and about 70% true shooting. He played about two games a week with heavy rest, on a Memphis team that tanked late in the season. (fact, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1708), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1633), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1808), [09-09](https://youtu.be/7BllEsdNLoM?t=2008), [08-17](https://youtu.be/LcZcvk8s1xQ?t=890))
 - Experts do not expect last season's usage or per game line to repeat. His numbers should be scaled back. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1708), [09-10](https://youtu.be/W-R1dzem32s?t=1738), [09-09](https://youtu.be/7BllEsdNLoM?t=2008), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1808), [07-17](https://youtu.be/NYTH7uQsPCM?t=1737), [06-29](https://youtu.be/bHA-JoW3reE?t=872))
-- Experts disagree on his efficiency. Joe thinks it could rise as his usage drops. Others say it is unproven over 30 minutes and that his 70% potential assist conversion (52% in Cleveland) is unlikely to last. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1808), [06-29](https://youtu.be/bHA-JoW3reE?t=872), [07-17](https://youtu.be/NYTH7uQsPCM?t=1737))
 - ESPN's rank of 72 is too high and removes all of his upside. (verdict, 2026-09-22; [09-19](https://youtu.be/uarqbNA2dFk?t=2395), [09-22](https://youtu.be/QbdrhJd7LiA?t=1708))
 - He is a tier 7 point guard in both formats. Josh calls him a solid enough fantasy piece. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2008), [08-17](https://youtu.be/LcZcvk8s1xQ?t=2081))
+- Joe projects about 27 to 28 minutes a game. Coach Iisalo runs an 11-man rotation with short stints and keeps minutes down, so only Cameron Boozer and Cedric Coward are expected to top 30 minutes. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1667), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- Experts disagree on his efficiency. Joe thinks it could rise as his usage drops. Others say it is unproven over 30 minutes and that his 70% potential assist conversion (52% in Cleveland) is unlikely to last. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1808), [06-29](https://youtu.be/bHA-JoW3reE?t=872), [07-17](https://youtu.be/NYTH7uQsPCM?t=1737))
+- Memphis traded Ja Morant to Portland. This opened the starting point guard job in Memphis. (fact, 2026-07-17; [06-29](https://youtu.be/bHA-JoW3reE?t=872), [06-30](https://youtu.be/4GDfg2n2l8o?t=478), [06-30](https://youtu.be/4GDfg2n2l8o?t=460), [07-17](https://youtu.be/NYTH7uQsPCM?t=1672))
+- The Memphis guard group is crowded. Javon Small, Scotty Pippen Jr., Campazzo and Cam Spencer also compete for guard minutes. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=557))
 
 **Durable**
-- He is an efficient scorer with an underrated handle and elite feel for angles, despite below-average athleticism. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1728))
-- He is a better category-league player than points-league player. (verdict, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=1682))
 - Injuries ruined two of his last three seasons. (fact, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=2451), stats)
+- He is a better category-league player than points-league player. (verdict, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=1682))
+- He is an efficient scorer with an underrated handle and elite feel for angles, despite below-average athleticism. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1728))
 
 **Tags**
 - Current: `minutes competition` (Scotty Pippen Jr., Javon Small, Campazzo and Cam Spencer in a crowded guard group. Some drafters think Pippen Jr. will start.), `role up` (Expected starting point guard after the Morant trade, with about 27 to 28 minutes projected. His usage is expected to drop from last season.), `injury last season` (Played only 15 games in 2025-26), `bust candidate` (At ESPN rank 72), `sites disagree on price` (Yahoo rank 114 and 2 USD, ESPN rank 72 and 5 USD)

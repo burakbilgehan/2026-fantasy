@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 77 | 33.6 | 45.4 (12.7) | 83.1 (1.6) | 2.4 | 15.2 | 5.5 | 1.7 | 1.0 | 0.8 | 0.8 |
-| 2024-25 | 76 | 34.3 | 44.4 (10.8) | 83.3 (0.9) | 2.0 | 12.4 | 6.7 | 1.4 | 0.8 | 0.9 | 0.8 |
-| 2025-26 | 23 | 34.6 | 42.0 (13.0) | 77.6 (2.1) | 1.3 | 14.0 | 5.7 | 1.7 | 1.0 | 1.6 | 1.2 |
-| 2026-27 proj, Yahoo | 70 | - | 44.0 (12.0) | 80.8 (1.4) | 2.0 | 13.7 | 6.2 | 1.6 | 0.9 | 1.0 | 0.9 |
 | 2026-27 proj, ESPN | 71 | 34.1 | 44.4 (12.0) | 81.8 (1.4) | 2.0 | 13.8 | 6.0 | 1.6 | 0.9 | 1.0 | 0.9 |
+| 2026-27 proj, Yahoo | 70 | - | 44.0 (12.0) | 80.8 (1.4) | 2.0 | 13.7 | 6.2 | 1.6 | 0.9 | 1.0 | 0.9 |
+| 2025-26 | 23 | 34.6 | 42.0 (13.0) | 77.6 (2.1) | 1.3 | 14.0 | 5.7 | 1.7 | 1.0 | 1.6 | 1.2 |
+| 2024-25 | 76 | 34.3 | 44.4 (10.8) | 83.3 (0.9) | 2.0 | 12.4 | 6.7 | 1.4 | 0.8 | 0.9 | 0.8 |
+| 2023-24 | 77 | 33.6 | 45.4 (12.7) | 83.1 (1.6) | 2.4 | 15.2 | 5.5 | 1.7 | 1.0 | 0.8 | 0.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,24 +30,24 @@
 </details>
 
 **Current**
-- He is a projected starter at forward next to De'Andre Hunter, with Acuff, LaVine and Sabonis in the starting group. Nobody is pushing that group for a starting spot. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691), [07-01](https://youtu.be/W3THnI7wWdA?t=1324))
-- Westbrook, Schroder and DeRozan have left the Kings. That frees shots and usage on the team. (fact, 2026-09-17; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1326), [07-20](https://youtu.be/-KS_AZjZnw4?t=1254), [09-17](https://youtu.be/DubdKKhMWHo?t=908))
 - Experts expect more usage and big minutes for him because the Kings cleared out usage. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=275), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2056))
-- He projects as about the third option on offense and will carry a heavy defensive load. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1955))
 - He is going too late in drafts. Josh is happy to take him in round 10 and expects about a top 100 season. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=275), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2056), [09-10](https://youtu.be/dlo7L8Ru91A?t=1672))
 - His ESPN rank of 83 is too high. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=275))
 - Experts doubt that his high block rate from last season will hold. They also doubt that his shooting returns. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=275), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2056), [09-10](https://youtu.be/dlo7L8Ru91A?t=1672))
+- Westbrook, Schroder and DeRozan have left the Kings. That frees shots and usage on the team. (fact, 2026-09-17; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1326), [07-20](https://youtu.be/-KS_AZjZnw4?t=1254), [09-17](https://youtu.be/DubdKKhMWHo?t=908))
 - If he reaches about 20 percent usage and shoots better, he can easily beat his draft spot. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1672))
+- He is a projected starter at forward next to De'Andre Hunter, with Acuff, LaVine and Sabonis in the starting group. Nobody is pushing that group for a starting spot. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691), [07-01](https://youtu.be/W3THnI7wWdA?t=1324))
+- He projects as about the third option on offense and will carry a heavy defensive load. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1955))
 - He is 26 and in the first year of a 5-year, 140 million USD contract. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1894))
 - Ham says this is the season he has to prove himself. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1894))
 - His passes turned into assists at a low 46 percent rate last season because Kings teammates could not shoot. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1806), [07-17](https://youtu.be/NYTH7uQsPCM?t=1820))
 
 **Durable**
+- He is a better category league player than points league player. (verdict, 2026-09-01; [08-24](https://youtu.be/g31YlwRe0XQ?t=2062), [09-01](https://youtu.be/80kfLVnFQ_s?t=1611))
 - A finger injury early and an ankle injury late cost him most of the 2025-26 season. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1725))
 - In a small sample last season he blocked a lot of shots and defended well. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1751))
 - Ham says he has made big strides as a defender and rebounder. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1815))
 - The shooting from his rookie season has not come back. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1751))
-- He is a better category league player than points league player. (verdict, 2026-09-01; [08-24](https://youtu.be/g31YlwRe0XQ?t=2062), [09-01](https://youtu.be/80kfLVnFQ_s?t=1611))
 
 **Tags**
 - Current: `role up` (Westbrook, Schroder and DeRozan gone; more usage and big minutes expected), `injury last season` (finger and ankle injuries, 23 games in 2025-26), `sleeper` (going around pick 120 on Yahoo; experts say too late and expect about top 100), `sites disagree on price` (Yahoo rank 116, ESPN rank 83; Josh calls ESPN too high)

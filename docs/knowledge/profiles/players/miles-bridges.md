@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 69 | 37.5 | 46.2 (17.5) | 82.5 (3.1) | 2.3 | 21.0 | 7.3 | 3.3 | 0.9 | 0.5 | 2.0 |
-| 2024-25 | 64 | 31.7 | 43.1 (17.0) | 87.0 (4.0) | 2.2 | 20.3 | 7.5 | 3.9 | 0.7 | 0.7 | 2.1 |
-| 2025-26 | 77 | 31.0 | 46.0 (13.5) | 82.2 (3.3) | 1.9 | 17.1 | 5.8 | 3.2 | 0.6 | 0.4 | 1.4 |
-| 2026-27 proj, Yahoo | 71 | - | 44.4 (13.9) | 84.1 (3.5) | 2.0 | 17.3 | 6.8 | 3.4 | 0.7 | 0.5 | 1.7 |
 | 2026-27 proj, ESPN | 71 | 33.1 | 45.2 (15.7) | 83.8 (3.4) | 2.1 | 19.1 | 6.7 | 3.4 | 0.7 | 0.5 | 1.8 |
+| 2026-27 proj, Yahoo | 71 | - | 44.4 (13.9) | 84.1 (3.5) | 2.0 | 17.3 | 6.8 | 3.4 | 0.7 | 0.5 | 1.7 |
+| 2025-26 | 77 | 31.0 | 46.0 (13.5) | 82.2 (3.3) | 1.9 | 17.1 | 5.8 | 3.2 | 0.6 | 0.4 | 1.4 |
+| 2024-25 | 64 | 31.7 | 43.1 (17.0) | 87.0 (4.0) | 2.2 | 20.3 | 7.5 | 3.9 | 0.7 | 0.7 | 2.1 |
+| 2023-24 | 69 | 37.5 | 46.2 (17.5) | 82.5 (3.1) | 2.3 | 21.0 | 7.3 | 3.3 | 0.9 | 0.5 | 2.0 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -31,16 +31,16 @@
 
 **Current**
 - Charlotte traded him to Phoenix for Grayson Allen and Royce O'Neale. (fact, 2026-09-22; [07-01](https://youtu.be/W3THnI7wWdA?t=305), [09-22](https://youtu.be/QbdrhJd7LiA?t=1801), [07-13](https://youtu.be/Rqb5GdrSweY?t=1937))
+- Phoenix has a crowded usage group. Booker, Jalen Green, Dillon Brooks and Collin Gillespie will all want touches. (fact, 2026-09-22; [09-19](https://youtu.be/uarqbNA2dFk?t=989), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200), [09-22](https://youtu.be/QbdrhJd7LiA?t=1801))
+- Experts say his draft position is too high. ESPN rank 77 is too high, rank 98 is 20 to 30 spots too high, and pick 89 in a mock draft was way too early. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1801), [09-19](https://youtu.be/uarqbNA2dFk?t=1004), [09-15](https://youtu.be/KPdD91Oo8-U?t=1562))
+- Experts expect him to lose value in Phoenix because he will not be the lone offensive option. (verdict, 2026-09-19; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2184), [09-19](https://youtu.be/uarqbNA2dFk?t=1004))
 - He is the projected starting power forward in Phoenix, next to Devin Booker, Jalen Green and Dillon Brooks. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1558), [08-23](https://youtu.be/hm5-fiCa5S4?t=509), [07-01](https://youtu.be/W3THnI7wWdA?t=305))
 - The Suns hope his ball handling, rim pressure and catch-and-shoot threes take pressure off Booker. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1558))
-- Phoenix has a crowded usage group. Booker, Jalen Green, Dillon Brooks and Collin Gillespie will all want touches. (fact, 2026-09-22; [09-19](https://youtu.be/uarqbNA2dFk?t=989), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200), [09-22](https://youtu.be/QbdrhJd7LiA?t=1801))
-- Experts expect him to lose value in Phoenix because he will not be the lone offensive option. (verdict, 2026-09-19; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2184), [09-19](https://youtu.be/uarqbNA2dFk?t=1004))
-- Experts say his draft position is too high. ESPN rank 77 is too high, rank 98 is 20 to 30 spots too high, and pick 89 in a mock draft was way too early. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1801), [09-19](https://youtu.be/uarqbNA2dFk?t=1004), [09-15](https://youtu.be/KPdD91Oo8-U?t=1562))
 
 **Durable**
-- His production has mostly come when LaMelo Ball and Brandon Miller were injured and his usage went up. His minutes shrank late last season when he was asked to scale back. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1700))
-- He only puts up strong numbers when he is the lone offensive option. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2184))
 - His athleticism has declined a lot over the last three years, and his finishing at the rim has dropped as he got older. (fact, 2026-09-19; [08-23](https://youtu.be/hm5-fiCa5S4?t=492), [07-21](https://youtu.be/EB1Z_6n56-o?t=375), [09-19](https://youtu.be/uarqbNA2dFk?t=1004))
+- He only puts up strong numbers when he is the lone offensive option. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2184))
+- His production has mostly come when LaMelo Ball and Brandon Miller were injured and his usage went up. His minutes shrank late last season when he was asked to scale back. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1700))
 - He shot 33% from three last season. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=492))
 - Experts see his three-point shot as unreliable. It was only good in one outlier season. (verdict, 2026-08-23; [07-21](https://youtu.be/EB1Z_6n56-o?t=375), [08-23](https://youtu.be/hm5-fiCa5S4?t=1671))
 - One expert says he does not generate steals or blocks and passes poorly. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1671))

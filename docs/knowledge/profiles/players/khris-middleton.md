@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 55 | 27.1 | 49.3 (11.7) | 83.3 (2.2) | 1.7 | 15.1 | 4.7 | 5.3 | 0.9 | 0.3 | 2.3 |
-| 2024-25 | 37 | 22.9 | 47.5 (9.1) | 85.7 (2.3) | 1.3 | 11.9 | 3.7 | 4.1 | 0.9 | 0.2 | 1.5 |
-| 2025-26 | 63 | 22.8 | 42.0 (8.6) | 87.5 (2.2) | 1.1 | 10.2 | 3.7 | 2.8 | 0.7 | 0.1 | 1.7 |
-| 2026-27 proj, Yahoo | 53 | - | 45.9 (7.5) | 86.3 (1.8) | 1.0 | 9.5 | 3.1 | 1.0 | 0.6 | 0.2 | 0.9 |
 | 2026-27 proj, ESPN | 53 | 20.3 | 45.9 (8.1) | 86.3 (1.8) | 1.1 | 10.1 | 3.4 | 3.2 | 0.7 | 0.2 | 1.6 |
+| 2026-27 proj, Yahoo | 53 | - | 45.9 (7.5) | 86.3 (1.8) | 1.0 | 9.5 | 3.1 | 1.0 | 0.6 | 0.2 | 0.9 |
+| 2025-26 | 63 | 22.8 | 42.0 (8.6) | 87.5 (2.2) | 1.1 | 10.2 | 3.7 | 2.8 | 0.7 | 0.1 | 1.7 |
+| 2024-25 | 37 | 22.9 | 47.5 (9.1) | 85.7 (2.3) | 1.3 | 11.9 | 3.7 | 4.1 | 0.9 | 0.2 | 1.5 |
+| 2023-24 | 55 | 27.1 | 49.3 (11.7) | 83.3 (2.2) | 1.7 | 15.1 | 4.7 | 5.3 | 0.9 | 0.3 | 2.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,9 +30,9 @@
 </details>
 
 **Current**
+- Washington has a crowded group of wings and guards. The fifth starter spot is open, with many wings competing for it. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1586), [07-23](https://youtu.be/LUTYUdXBG1M?t=248), [07-23](https://youtu.be/UTE0dNIv8nY?t=2098))
 - He re-signed with Washington on a cheap three-year deal. Part of the reason is the mentoring he gives young players. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=313))
 - He is not in the projected starting five. The projected starters are Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
-- Washington has a crowded group of wings and guards. The fifth starter spot is open, with many wings competing for it. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1586), [07-23](https://youtu.be/LUTYUdXBG1M?t=248), [07-23](https://youtu.be/UTE0dNIv8nY?t=2098))
 - It is unclear how much he will play. One expert expects a 10 or 11 man rotation, with 12 or 13 players who could justify minutes. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=313), [07-23](https://youtu.be/UTE0dNIv8nY?t=2098))
 - Washington is trying to compete this season. The late-season rest and minutes cuts of past years should not come back. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185))
 

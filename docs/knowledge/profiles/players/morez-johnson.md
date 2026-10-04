@@ -3,8 +3,8 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, Yahoo | 75 | - | 58.9 (5.5) | 74.2 (2.2) | 0.3 | 8.4 | 5.0 | 1.1 | 0.9 | 1.1 | 1.1 |
 | 2026-27 proj, ESPN | 71 | 24.7 | 49.4 (8.1) | 75.5 (3.1) | 0.3 | 10.6 | 5.6 | 1.6 | 0.8 | 0.9 | 1.1 |
+| 2026-27 proj, Yahoo | 75 | - | 58.9 (5.5) | 74.2 (2.2) | 0.3 | 8.4 | 5.0 | 1.1 | 0.9 | 1.1 | 1.1 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -27,7 +27,6 @@
 </details>
 
 **Current**
-- Johnson is a rookie. Dallas drafted him with a top 10 pick. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=461), [06-26](https://youtu.be/CLsUc0Sevos?t=1386))
 - Johnson is hurt now. Yahoo lists him as questionable with a lower leg injury. Lively is also hurt. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1240), stats)
 - Because Johnson and Lively are hurt, Daniel Gafford is the likely opening night center. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1240))
 - The Dallas frontcourt is crowded. Lively, Gafford, Powell, P.J. Washington and Aldama all compete for big man minutes. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=234), [08-26](https://youtu.be/sTtFUy7IoJI?t=1733), [09-03](https://youtu.be/OBwWCxG9SqM?t=1578))
@@ -35,12 +34,13 @@
 - Josh makes Johnson his late swing pick over P.J. Washington in standard formats. His upside is 30 minutes a night with about 12 points, 9 rebounds, 1.5 blocks and 1 steal. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1770))
 - Experts see him as a reasonable late flyer. One ranks him around 150 on 25 minutes a night. Josh says his low Fantrax ADP of 209 may mean there is value. (verdict, 2026-09-29; [09-03](https://youtu.be/OBwWCxG9SqM?t=1578), [09-29](https://youtu.be/XSPJL_mlFXo?t=1005))
 - Dallas has a 4-4-4 schedule in the fantasy playoffs, probably the best in the league. It also has a league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
+- Johnson is a rookie. Dallas drafted him with a top 10 pick. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=461), [06-26](https://youtu.be/CLsUc0Sevos?t=1386))
 
 **Durable**
 - Johnson is an undersized, hard-working energy big at 6'9. His motor is his main strength. He fits better as a four than a five. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1028), [07-27](https://youtu.be/0AptxcRW0RE?t=611), [07-27](https://youtu.be/0AptxcRW0RE?t=636), [06-23](https://youtu.be/-rgXhs5BHiw?t=568), [09-03](https://youtu.be/OBwWCxG9SqM?t=1578))
 - He had strong defensive stats at Michigan and in Summer League. He had one of the best lateral quickness measurements at the combine. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1028), [07-27](https://youtu.be/0AptxcRW0RE?t=636), [08-02](https://youtu.be/TOn-D1SV7a8?t=1081), [09-03](https://youtu.be/OBwWCxG9SqM?t=1578))
-- He rebounds, finishes well and scores on mismatches in the post. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=611), [06-23](https://youtu.be/-rgXhs5BHiw?t=568))
 - His shooting is a question. He shot some threes in college and Summer League, but experts do not see him as a real stretch big. It is also unclear whether he can create his own usage. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1028), [07-27](https://youtu.be/0AptxcRW0RE?t=611), [06-23](https://youtu.be/-rgXhs5BHiw?t=568), [08-02](https://youtu.be/TOn-D1SV7a8?t=1081))
+- He rebounds, finishes well and scores on mismatches in the post. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=611), [06-23](https://youtu.be/-rgXhs5BHiw?t=568))
 
 **Tags**
 - Current: `rookie` (top 10 pick in 2026), `injured now` (lower leg, Yahoo Q; Gafford likely opening night center), `questionable` (Yahoo Q (Lower Leg)), `minutes competition` (Lively, Gafford, Powell, Washington, Aldama), `flyer` (late swing pick; upside 30 minutes with 1.5 blocks), `sleeper` (Josh says Fantrax ADP 209 is far too low), `good playoff schedule` (Dallas 4-4-4 in playoff weeks)

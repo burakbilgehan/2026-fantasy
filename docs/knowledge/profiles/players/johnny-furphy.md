@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 50 | 7.7 | 38.0 (1.8) | 81.8 (0.4) | 0.3 | 2.1 | 1.4 | 0.4 | 0.4 | 0.2 | 0.2 |
-| 2025-26 | 35 | 18.3 | 47.0 (4.3) | 48.6 (1.0) | 0.7 | 5.1 | 4.4 | 1.2 | 0.6 | 0.2 | 0.8 |
-| 2026-27 proj, Yahoo | 41 | - | 29.4 (3.3) | 75.0 (0.8) | 0.3 | 2.8 | 3.1 | 1.8 | 1.0 | 0.0 | 0.6 |
 | 2026-27 proj, ESPN | 61 | 16.1 | 46.1 (3.8) | 50.9 (0.9) | 0.6 | 4.5 | 3.8 | 1.0 | 0.5 | 0.2 | 0.7 |
+| 2026-27 proj, Yahoo | 41 | - | 29.4 (3.3) | 75.0 (0.8) | 0.3 | 2.8 | 3.1 | 1.8 | 1.0 | 0.0 | 0.6 |
+| 2025-26 | 35 | 18.3 | 47.0 (4.3) | 48.6 (1.0) | 0.7 | 5.1 | 4.4 | 1.2 | 0.6 | 0.2 | 0.8 |
+| 2024-25 | 50 | 7.7 | 38.0 (1.8) | 81.8 (0.4) | 0.3 | 2.1 | 1.4 | 0.4 | 0.4 | 0.2 | 0.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -33,10 +33,10 @@
 - He is expected to miss most of the season. He might return around the halfway point. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1970), [07-05](https://youtu.be/4kKINkZhWls?t=1637))
 
 **Durable**
+- He scores very little. His projected points are far below the top 250 pool. (fact, 2026-10-04; stats)
 - He is a very good rebounder. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1970))
 - His shooting has not come around. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1970))
 - He can play some center next to Siakam. That lineup worked last season. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1257))
-- He scores very little. His projected points are far below the top 250 pool. (fact, 2026-10-04; stats)
 
 **Tags**
 - Current: `injured now` (Torn ACL. Yahoo status O (Knee). Might be back around midseason.)

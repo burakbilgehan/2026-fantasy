@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 74 | 19.9 | 40.8 (5.4) | 81.5 (1.2) | 1.4 | 6.8 | 2.8 | 1.4 | 0.6 | 0.6 | 0.8 |
-| 2024-25 | 82 | 23.6 | 41.5 (8.1) | 90.4 (1.1) | 2.2 | 9.9 | 3.9 | 1.4 | 0.7 | 0.4 | 0.9 |
-| 2025-26 | 82 | 27.6 | 43.7 (8.4) | 84.4 (1.6) | 2.4 | 11.1 | 5.8 | 1.5 | 0.8 | 0.5 | 0.8 |
-| 2026-27 proj, Yahoo | 78 | - | 42.6 (8.1) | 86.0 (1.4) | 2.2 | 10.3 | 4.4 | 1.5 | 0.8 | 0.5 | 0.9 |
 | 2026-27 proj, ESPN | 82 | 26.7 | 43.3 (8.2) | 85.5 (1.6) | 2.3 | 10.8 | 5.4 | 1.5 | 0.7 | 0.5 | 0.8 |
+| 2026-27 proj, Yahoo | 78 | - | 42.6 (8.1) | 86.0 (1.4) | 2.2 | 10.3 | 4.4 | 1.5 | 0.8 | 0.5 | 0.9 |
+| 2025-26 | 82 | 27.6 | 43.7 (8.4) | 84.4 (1.6) | 2.4 | 11.1 | 5.8 | 1.5 | 0.8 | 0.5 | 0.8 |
+| 2024-25 | 82 | 23.6 | 41.5 (8.1) | 90.4 (1.1) | 2.2 | 9.9 | 3.9 | 1.4 | 0.7 | 0.4 | 0.9 |
+| 2023-24 | 74 | 19.9 | 40.8 (5.4) | 81.5 (1.2) | 1.4 | 6.8 | 2.8 | 1.4 | 0.6 | 0.6 | 0.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,13 +30,13 @@
 </details>
 
 **Current**
-- He signed a 3-year, 45 million contract with the Spurs. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1142))
+- Experts say it is unclear where his minutes will come from with Dylan Harper and Tobias Harris on the roster. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=2316), [07-02](https://youtu.be/P6TNP-g0wzY?t=2357))
 - He is not in the projected Spurs starting five of Fox, Castle, Vassell, Harris and Wembanyama. Tobias Harris takes the forward spot that Harrison Barnes held. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=524), [08-24](https://youtu.be/g31YlwRe0XQ?t=1055))
 - The Spurs roster is very deep at guard and forward. Dylan Harper needs minutes, and Champagnie competes with Harris, Vassell, Harper and Barnes for wing and forward minutes. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1306), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312), [07-05](https://youtu.be/4kKINkZhWls?t=3529), [07-01](https://youtu.be/W3THnI7wWdA?t=1142))
-- Experts say it is unclear where his minutes will come from with Dylan Harper and Tobias Harris on the roster. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=2316), [07-02](https://youtu.be/P6TNP-g0wzY?t=2357))
-- He is not a must-draft. He needs a couple of injuries ahead of him to become one. People may reach for him anyway. (verdict, 2026-07-02; [07-01](https://youtu.be/W3THnI7wWdA?t=1142), [07-02](https://youtu.be/P6TNP-g0wzY?t=2357))
-- His rim finishing is not expected to stay this high, which puts his FG% at risk. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1069))
 - The Spurs are expected to make consolidation trades from their forward depth in the relatively near future, but not right now. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
+- His rim finishing is not expected to stay this high, which puts his FG% at risk. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1069))
+- He is not a must-draft. He needs a couple of injuries ahead of him to become one. People may reach for him anyway. (verdict, 2026-07-02; [07-01](https://youtu.be/W3THnI7wWdA?t=1142), [07-02](https://youtu.be/P6TNP-g0wzY?t=2357))
+- He signed a 3-year, 45 million contract with the Spurs. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1142))
 
 **Durable**
 - He is an undersized power forward. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=349))

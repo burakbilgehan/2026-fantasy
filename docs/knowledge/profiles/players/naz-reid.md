@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 81 | 24.2 | 47.7 (10.5) | 73.6 (1.8) | 2.1 | 13.5 | 5.2 | 1.3 | 0.8 | 0.9 | 1.4 |
-| 2024-25 | 80 | 27.6 | 46.2 (11.5) | 77.6 (1.8) | 2.2 | 14.2 | 6.0 | 2.3 | 0.7 | 0.9 | 1.4 |
-| 2025-26 | 77 | 26.1 | 45.6 (11.3) | 73.2 (1.6) | 2.1 | 13.6 | 6.2 | 2.2 | 1.0 | 1.0 | 1.6 |
-| 2026-27 proj, Yahoo | 76 | - | 46.0 (12.6) | 74.8 (1.9) | 2.4 | 15.4 | 6.6 | 2.3 | 0.9 | 1.1 | 1.6 |
 | 2026-27 proj, ESPN | 76 | 30.3 | 45.8 (13.1) | 74.3 (1.9) | 2.5 | 15.9 | 7.1 | 2.5 | 1.1 | 1.1 | 1.8 |
+| 2026-27 proj, Yahoo | 76 | - | 46.0 (12.6) | 74.8 (1.9) | 2.4 | 15.4 | 6.6 | 2.3 | 0.9 | 1.1 | 1.6 |
+| 2025-26 | 77 | 26.1 | 45.6 (11.3) | 73.2 (1.6) | 2.1 | 13.6 | 6.2 | 2.2 | 1.0 | 1.0 | 1.6 |
+| 2024-25 | 80 | 27.6 | 46.2 (11.5) | 77.6 (1.8) | 2.2 | 14.2 | 6.0 | 2.3 | 0.7 | 0.9 | 1.4 |
+| 2023-24 | 81 | 24.2 | 47.7 (10.5) | 73.6 (1.8) | 2.1 | 13.5 | 5.2 | 1.3 | 0.8 | 0.9 | 1.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -33,18 +33,18 @@
 - Charlotte acquired him in the LaMelo Ball trade. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=952), [07-21](https://youtu.be/EB1Z_6n56-o?t=386), [07-01](https://youtu.be/W3THnI7wWdA?t=269), [06-28](https://youtu.be/RsjGTgJiKyI?t=354), [06-25](https://youtu.be/ya2VYRJ1BN0?t=867))
 - He is projected to start at power forward, in place of the traded Miles Bridges. The projected starters are White, Knueppel, Miller, Reid and Diabaté. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=952), [09-27](https://youtu.be/CRLSsoGhb2w?t=416), [09-14](https://youtu.be/t4n9MAP2_14?t=1443), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1917), [07-21](https://youtu.be/EB1Z_6n56-o?t=386), [07-13](https://youtu.be/Rqb5GdrSweY?t=1921), [07-01](https://youtu.be/W3THnI7wWdA?t=269), [06-28](https://youtu.be/RsjGTgJiKyI?t=354))
 - Charlotte's center plan is unclear. Diabaté, Kalkbrenner, Kai Jones and a first-round rookie are all in the center mix. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=315), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1939))
-- Because the center group is crowded, he will likely play more power forward than center. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1917), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1939))
 - He is expected to play the most minutes of his career, about 31 to 33 per game. With Ball and Bridges gone, he should also get more usage. One projection has his usage rising from 22 to about 24. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=952), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1917), [07-13](https://youtu.be/Rqb5GdrSweY?t=1921), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2722), [06-25](https://youtu.be/ya2VYRJ1BN0?t=1056), [07-13](https://youtu.be/Rqb5GdrSweY?t=1924))
 - The newest call puts him as a strong mid-round target in the 55 to 75 range, and earlier than that in category leagues. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=952))
-- The experts disagree on his upside. Some expect a top 50 finish and give him a better chance of reaching the top 50 than of falling outside the top 100. One source says he could be a fringe All-Star. Others call him solid but with no upside beyond his tier, and say he is not as good as the hype. Do not pay for a top 30 per game rank. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2722), [07-13](https://youtu.be/Rqb5GdrSweY?t=1921), [06-25](https://youtu.be/ya2VYRJ1BN0?t=1056), [07-21](https://youtu.be/EB1Z_6n56-o?t=1654), [09-14](https://youtu.be/t4n9MAP2_14?t=1443), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1926))
 - Charlotte plays 4, 3 and 4 games in our playoff weeks 19 to 21. The team has only 13 back-to-backs, which is the league minimum. It also has a two-game week in the matchup that starts March 1. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781), [08-16](https://youtu.be/gf_6GveiAls?t=1343))
+- The experts disagree on his upside. Some expect a top 50 finish and give him a better chance of reaching the top 50 than of falling outside the top 100. One source says he could be a fringe All-Star. Others call him solid but with no upside beyond his tier, and say he is not as good as the hype. Do not pay for a top 30 per game rank. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2722), [07-13](https://youtu.be/Rqb5GdrSweY?t=1921), [06-25](https://youtu.be/ya2VYRJ1BN0?t=1056), [07-21](https://youtu.be/EB1Z_6n56-o?t=1654), [09-14](https://youtu.be/t4n9MAP2_14?t=1443), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1926))
+- Because the center group is crowded, he will likely play more power forward than center. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1917), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1939))
 
 **Durable**
-- He is a floor-spacing big who can play power forward or center. For his position, threes are his best category, and he also adds solid blocks. (verdict, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=386), [06-25](https://youtu.be/ya2VYRJ1BN0?t=846), stats)
 - He is a bad defender. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=931), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1926), [09-14](https://youtu.be/t4n9MAP2_14?t=1443))
 - His shooting is up and down and he can be an inefficient scorer. He does not give the FG% boost that fantasy managers expect from a big. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=931), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1926), [09-14](https://youtu.be/t4n9MAP2_14?t=1443), [09-15](https://youtu.be/KPdD91Oo8-U?t=1473), stats)
 - He is not a strong fantasy center because his rebounds are not big for the position. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=1473))
 - He has not yet shown that he can handle a big usage load. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1926))
+- He is a floor-spacing big who can play power forward or center. For his position, threes are his best category, and he also adds solid blocks. (verdict, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=386), [06-25](https://youtu.be/ya2VYRJ1BN0?t=846), stats)
 
 **Tags**
 - Current: `new team` (Traded to CHA in the LaMelo Ball deal), `role up` (Starting PF, about 31 to 33 minutes, more usage after Ball and Bridges left), `breakout` (Some experts project top 50 after he finished 98th; others see no upside beyond his tier), `sleeper` (Yahoo average cost 4.2 USD and ESPN 7.6 USD, against values of 17 and 20 USD), `few back-to-backs` (CHA has 13 back-to-backs, the league minimum)

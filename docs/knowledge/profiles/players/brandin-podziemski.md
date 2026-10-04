@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 74 | 26.6 | 45.4 (8.1) | 63.3 (1.1) | 1.2 | 9.2 | 5.8 | 3.7 | 0.8 | 0.2 | 1.2 |
-| 2024-25 | 64 | 26.9 | 44.5 (9.8) | 75.8 (1.5) | 1.8 | 11.7 | 5.1 | 3.4 | 1.1 | 0.2 | 1.2 |
-| 2025-26 | 82 | 28.5 | 45.5 (10.6) | 79.7 (2.9) | 1.9 | 13.8 | 5.1 | 3.7 | 1.1 | 0.2 | 1.6 |
-| 2026-27 proj, Yahoo | 75 | - | 44.9 (10.2) | 77.7 (2.3) | 1.9 | 12.9 | 5.5 | 3.8 | 1.1 | 0.2 | 1.5 |
 | 2026-27 proj, ESPN | 79 | 30.9 | 45.4 (11.4) | 79.0 (2.9) | 2.0 | 14.7 | 5.6 | 4.0 | 1.2 | 0.2 | 1.7 |
+| 2026-27 proj, Yahoo | 75 | - | 44.9 (10.2) | 77.7 (2.3) | 1.9 | 12.9 | 5.5 | 3.8 | 1.1 | 0.2 | 1.5 |
+| 2025-26 | 82 | 28.5 | 45.5 (10.6) | 79.7 (2.9) | 1.9 | 13.8 | 5.1 | 3.7 | 1.1 | 0.2 | 1.6 |
+| 2024-25 | 64 | 26.9 | 44.5 (9.8) | 75.8 (1.5) | 1.8 | 11.7 | 5.1 | 3.4 | 1.1 | 0.2 | 1.2 |
+| 2023-24 | 74 | 26.6 | 45.4 (8.1) | 63.3 (1.1) | 1.2 | 9.2 | 5.8 | 3.7 | 0.8 | 0.2 | 1.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -31,19 +31,19 @@
 
 **Current**
 - Experts expect him to start for Golden State and to play over 30 minutes per game. Steve Kerr likes him. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=519), [09-30](https://youtu.be/MUbNYdjpUDM?t=678), [08-22](https://youtu.be/LXZLrL90crE?t=1779), [08-22](https://youtu.be/LXZLrL90crE?t=362), [08-22](https://youtu.be/LXZLrL90crE?t=270), [09-10](https://youtu.be/W-R1dzem32s?t=1825), [09-09](https://youtu.be/7BllEsdNLoM?t=2266), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487))
-- Jimmy Butler is out for at least half the season. Moses Moody is out at the start of the season. (fact, 2026-09-22; [07-17](https://youtu.be/NYTH7uQsPCM?t=1876), [09-22](https://youtu.be/QbdrhJd7LiA?t=1777), [09-19](https://youtu.be/uarqbNA2dFk?t=2415), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487))
-- With Butler out, he could handle the ball more and have a strong early run of assists. Butler's return will change the rotation again. (verdict, 2026-07-17, until Butler returns; [07-17](https://youtu.be/NYTH7uQsPCM?t=1875), [07-14](https://youtu.be/xHRF06_E9HE?t=1520))
 - Golden State has no shot creator besides Steph Curry, and its depth is very thin. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=551), [09-16](https://youtu.be/2A2JbUN-kc0?t=2222), [09-09](https://youtu.be/7BllEsdNLoM?t=2274), [09-10](https://youtu.be/W-R1dzem32s?t=1810), [08-22](https://youtu.be/LXZLrL90crE?t=953))
-- His role is secure on a thin team. He projects around 20% usage, with gains expected in threes, rebounds, steals, assists and points. (verdict, 2026-09-10; [08-24](https://youtu.be/g31YlwRe0XQ?t=2000), [09-10](https://youtu.be/W-R1dzem32s?t=1825))
-- He finished 136th last season but ranked 61st after the All-Star break, when he played about 32 minutes a game. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=475), [07-14](https://youtu.be/xHRF06_E9HE?t=1586))
 - A top 100 season is likely. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=519), [09-30](https://youtu.be/MUbNYdjpUDM?t=475), [09-22](https://youtu.be/QbdrhJd7LiA?t=1777))
 - His ESPN rank of 66 is far too high. His Yahoo rank around 116 to 120 is good value, more so in category leagues. He is fine around pick 100 and is the best Warriors target. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=519), [09-30](https://youtu.be/MUbNYdjpUDM?t=515), [09-30](https://youtu.be/MUbNYdjpUDM?t=1520), [09-19](https://youtu.be/uarqbNA2dFk?t=2415), [09-22](https://youtu.be/QbdrhJd7LiA?t=1777), [09-09](https://youtu.be/7BllEsdNLoM?t=2266))
-- One expert expects him to start the season well and then fade along with the rest of the Warriors. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
+- He finished 136th last season but ranked 61st after the All-Star break, when he played about 32 minutes a game. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=475), [07-14](https://youtu.be/xHRF06_E9HE?t=1586))
 - The Warriors schedule is good for fantasy playoffs that end March 28. It includes 15 back-to-backs. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [08-16](https://youtu.be/gf_6GveiAls?t=991))
+- Jimmy Butler is out for at least half the season. Moses Moody is out at the start of the season. (fact, 2026-09-22; [07-17](https://youtu.be/NYTH7uQsPCM?t=1876), [09-22](https://youtu.be/QbdrhJd7LiA?t=1777), [09-19](https://youtu.be/uarqbNA2dFk?t=2415), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487))
+- His role is secure on a thin team. He projects around 20% usage, with gains expected in threes, rebounds, steals, assists and points. (verdict, 2026-09-10; [08-24](https://youtu.be/g31YlwRe0XQ?t=2000), [09-10](https://youtu.be/W-R1dzem32s?t=1825))
+- One expert expects him to start the season well and then fade along with the rest of the Warriors. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
+- With Butler out, he could handle the ball more and have a strong early run of assists. Butler's return will change the rotation again. (verdict, 2026-07-17, until Butler returns; [07-17](https://youtu.be/NYTH7uQsPCM?t=1875), [07-14](https://youtu.be/xHRF06_E9HE?t=1520))
 
 **Durable**
-- He has tended to start seasons slowly and has struggled in the playoffs. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=370))
 - His category profile is balanced, with no weak category except low blocks. (fact, 2026-10-04; stats)
+- He has tended to start seasons slowly and has struggled in the playoffs. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=370))
 
 **Tags**
 - Current: `role up` (Projected starter at 30+ minutes with Butler and Moody out), `breakout` (136th last season, likely top 100 this season), `sleeper` (Good value at Yahoo rank 116 to 120), `expert target` (Best Warriors target), `bust candidate` (At ESPN rank 66 only), `sites disagree on price` (Yahoo rank 117 and 1 USD, ESPN rank 66 and 7 USD), `good playoff schedule` (Good for a March 28 end, but 15 back-to-backs)

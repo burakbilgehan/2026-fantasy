@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 69 | 16.8 | 46.6 (3.6) | 61.2 (1.2) | 0.5 | 4.6 | 2.0 | 1.3 | 0.5 | 0.3 | 0.8 |
-| 2024-25 | 78 | 24.1 | 42.3 (7.9) | 76.1 (2.5) | 0.8 | 9.4 | 2.9 | 3.1 | 1.1 | 0.6 | 1.8 |
-| 2025-26 | 64 | 29.9 | 44.7 (12.1) | 73.2 (3.6) | 1.6 | 15.0 | 3.8 | 3.7 | 1.4 | 0.7 | 2.1 |
-| 2026-27 proj, Yahoo | 70 | - | 46.3 (11.1) | 75.9 (3.6) | 1.5 | 14.5 | 3.7 | 3.5 | 1.3 | 0.7 | 2.0 |
 | 2026-27 proj, ESPN | 69 | 28.9 | 44.4 (11.2) | 73.2 (3.4) | 1.4 | 13.8 | 3.7 | 3.5 | 1.4 | 0.7 | 2.0 |
+| 2026-27 proj, Yahoo | 70 | - | 46.3 (11.1) | 75.9 (3.6) | 1.5 | 14.5 | 3.7 | 3.5 | 1.3 | 0.7 | 2.0 |
+| 2025-26 | 64 | 29.9 | 44.7 (12.1) | 73.2 (3.6) | 1.6 | 15.0 | 3.8 | 3.7 | 1.4 | 0.7 | 2.1 |
+| 2024-25 | 78 | 24.1 | 42.3 (7.9) | 76.1 (2.5) | 0.8 | 9.4 | 2.9 | 3.1 | 1.1 | 0.6 | 1.8 |
+| 2023-24 | 69 | 16.8 | 46.6 (3.6) | 61.2 (1.2) | 0.5 | 4.6 | 2.0 | 1.3 | 0.5 | 0.3 | 0.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,19 +30,19 @@
 </details>
 
 **Current**
-- He is not in Orlando's projected starting five. He projects as the sixth man and the main creator for the bench units. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=990), [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
-- He is third in FanDuel's Sixth Man of the Year odds. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=990))
-- After December last season he settled in as a 12 to 13 point per night player, below his 15 point season average. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=887))
 - Yahoo lists him as questionable with an ankle injury. (fact, 2026-10-04; stats)
 - Experts call him overrated and say round 9 is way too early. His projections look fine, and he is a reasonable late pick, mainly in deeper leagues. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2465), [09-24](https://youtu.be/_vbAP5y182A?t=1764), [09-10](https://youtu.be/dlo7L8Ru91A?t=1888))
 - If Suggs goes down, he would start and be worth rostering. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2465))
+- He is not in Orlando's projected starting five. He projects as the sixth man and the main creator for the bench units. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=990), [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
+- He is third in FanDuel's Sixth Man of the Year odds. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=990))
+- After December last season he settled in as a 12 to 13 point per night player, below his 15 point season average. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=887))
 - He is due a new contract. Orlando is 2.5 million USD under the second apron. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2032), [08-01](https://youtu.be/FEcNjVRlj-U?t=1259))
 - Phil expects his new deal to be at least 23 million USD per year, and Orlando will likely have to choose between keeping Suggs and keeping Black. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2032), [08-01](https://youtu.be/FEcNjVRlj-U?t=1259))
 
 **Durable**
+- Steals are his only clearly above-average category. His other categories sit near or slightly below the pool average, with no strong outlier. (fact, 2026-10-04; stats)
 - His usage is above 20%, but he passes little for that usage, with about 3.5 to 3.7 assists per game. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=653))
 - He is a good on-ball defender but gets eaten up on screens and is not at Suggs's level defensively. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=962))
-- Steals are his only clearly above-average category. His other categories sit near or slightly below the pool average, with no strong outlier. (fact, 2026-10-04; stats)
 
 **Tags**
 - Current: `handcuff` (Would start and be worth rostering if Jalen Suggs goes down), `trade risk` (Due a new contract. Orlando is near the second apron and likely has to choose between Suggs and Black), `questionable` (Yahoo status Q (ankle)), `injured now` (Ankle, Yahoo status Q), `waiver watch` (Yahoo rank 146 and ESPN rank 125, near the edge of our 144-player draft. Worth watching if Suggs gets hurt)

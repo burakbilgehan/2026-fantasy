@@ -3,9 +3,9 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 7 | 3.3 | 30.0 (1.4) | 0.0 (0.3) | 0.1 | 1.0 | 0.3 | 0.4 | 0.0 | 0.0 | 0.1 |
-| 2025-26 | 72 | 20.2 | 40.8 (7.9) | 83.2 (2.2) | 1.0 | 9.3 | 2.3 | 3.9 | 0.9 | 0.2 | 1.6 |
 | 2026-27 proj, Yahoo | 70 | - | 43.2 (7.6) | 82.7 (2.1) | 0.9 | 9.3 | 2.2 | 3.9 | 0.8 | 0.5 | 0.7 |
+| 2025-26 | 72 | 20.2 | 40.8 (7.9) | 83.2 (2.2) | 1.0 | 9.3 | 2.3 | 3.9 | 0.9 | 0.2 | 1.6 |
+| 2024-25 | 7 | 3.3 | 30.0 (1.4) | 0.0 (0.3) | 0.1 | 1.0 | 0.3 | 0.4 | 0.0 | 0.0 | 0.1 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -32,10 +32,10 @@
 - Cade Cunningham was out for the final 16 games last season. In those games Jenkins played 31 minutes. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1625))
 - He has the best category upside on the Detroit bench. The expert calls him draftable in 16-team leagues. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1625))
 - He is a late-round swing in case he gets a 26-minute role. That needs Bickerstaff to change the rotation or Cunningham to get hurt. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1792))
-- One expert sees him as a flyer only if he starts in Detroit and does not expect him to start. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=2045))
 - Detroit lost creation with Tobias Harris and has few creators besides Cunningham. The team may need Jenkins as another ball handler. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=229), [07-07](https://youtu.be/ME-r173X5b0?t=1114))
-- Last season Detroit used a deep 12 to 13 player rotation that limited everyone's minutes. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1386))
 - Detroit plays 4, 3 and 4 games in our playoff weeks 19 to 21 and has 15 back-to-backs. No rest risks are expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
+- One expert sees him as a flyer only if he starts in Detroit and does not expect him to start. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=2045))
+- Last season Detroit used a deep 12 to 13 player rotation that limited everyone's minutes. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1386))
 
 **Durable**
 - none

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 82 | 21.1 | 57.3 (7.1) | 77.0 (1.2) | 1.2 | 10.3 | 3.9 | 1.6 | 0.6 | 0.5 | 0.8 |
-| 2024-25 | 79 | 19.6 | 52.9 (7.6) | 78.1 (1.4) | 1.4 | 10.5 | 4.0 | 1.6 | 0.6 | 0.4 | 0.9 |
-| 2025-26 | 24 | 17.7 | 50.3 (8.3) | 91.3 (1.9) | 1.5 | 11.6 | 4.4 | 2.3 | 0.5 | 0.0 | 1.2 |
-| 2026-27 proj, Yahoo | 69 | - | 53.3 (7.2) | 81.6 (1.4) | 1.3 | 10.2 | 3.9 | 1.7 | 0.5 | 0.3 | 0.9 |
 | 2026-27 proj, ESPN | 63 | 20.0 | 54.1 (7.5) | 79.5 (1.4) | 1.3 | 10.6 | 4.0 | 1.7 | 0.6 | 0.4 | 0.9 |
+| 2026-27 proj, Yahoo | 69 | - | 53.3 (7.2) | 81.6 (1.4) | 1.3 | 10.2 | 3.9 | 1.7 | 0.5 | 0.3 | 0.9 |
+| 2025-26 | 24 | 17.7 | 50.3 (8.3) | 91.3 (1.9) | 1.5 | 11.6 | 4.4 | 2.3 | 0.5 | 0.0 | 1.2 |
+| 2024-25 | 79 | 19.6 | 52.9 (7.6) | 78.1 (1.4) | 1.4 | 10.5 | 4.0 | 1.6 | 0.6 | 0.4 | 0.9 |
+| 2023-24 | 82 | 21.1 | 57.3 (7.1) | 77.0 (1.2) | 1.2 | 10.3 | 3.9 | 1.6 | 0.6 | 0.5 | 0.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -31,9 +31,9 @@
 
 **Current**
 - He is projected as Indiana's seventh man. He comes off the bench behind sixth man Kelly Oubre Jr. and gets the next most bench minutes. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1410), [10-01](https://youtu.be/EGdhmUgPAWY?t=1308))
-- Indiana's backup center minutes are open, and he could be used as a small-ball backup center. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1240), [08-10](https://youtu.be/sfCe7fS9daM?t=1287))
 - If Pascal Siakam gets hurt, he would probably start. In that role he could produce about 16 points and 8 rebounds with good percentages, so he is a name to watch. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1451))
 - With our March 28 end, Indiana plays 3, 4 and 3 games in the fantasy playoff weeks, which is not ideal. The team has 15 back-to-backs. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034))
+- Indiana's backup center minutes are open, and he could be used as a small-ball backup center. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1240), [08-10](https://youtu.be/sfCe7fS9daM?t=1287))
 
 **Durable**
 - He rebounds and shoots threes well for his role. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1446))

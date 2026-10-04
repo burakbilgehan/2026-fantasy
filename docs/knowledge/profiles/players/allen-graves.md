@@ -26,20 +26,20 @@
 </details>
 
 **Current**
-- He is a rookie. Toronto drafted him 19th overall in the 2026 draft. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=374), [06-28](https://youtu.be/RsjGTgJiKyI?t=424))
+- Yahoo lists him as questionable with a groin injury. (fact, 2026-10-04; stats)
 - In Summer League he averaged about 17 points, 7 rebounds and 3 assists, with over 2 steals and a block, on 51% shooting. He filled every category. (fact, 2026-08-20; [07-23](https://youtu.be/LUTYUdXBG1M?t=374), [08-02](https://youtu.be/TOn-D1SV7a8?t=1237), [08-20](https://youtu.be/s28HvC2grAk?t=354))
 - Toronto is not deep. After a solid top seven, the next group is Shead, Graves, Anderson, Elijah Martin and Trayce Jackson-Davis. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=2004))
 - Experts expect him in the rotation from day one as the eighth or ninth man, possibly as the backup four. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=354), [08-02](https://youtu.be/TOn-D1SV7a8?t=1237), [07-23](https://youtu.be/LUTYUdXBG1M?t=374))
-- Yahoo lists him as questionable with a groin injury. (fact, 2026-10-04; stats)
 - He moved up from 11 to 9 in one dynasty rookie ranking. Another ranking has him 11th in both formats and says he fits category leagues better. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1237), [06-28](https://youtu.be/RsjGTgJiKyI?t=424))
+- He is a rookie. Toronto drafted him 19th overall in the 2026 draft. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=374), [06-28](https://youtu.be/RsjGTgJiKyI?t=424))
 
 **Durable**
 - His fantasy profile is steals, rebounds and three-point shooting. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=371))
 - Experts rate his fantasy game above other players in his tier. Josh says only Cameron Boozer's fantasy skills are better in this rookie class. He ranks first on one translated-stats list. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1237), [06-28](https://youtu.be/RsjGTgJiKyI?t=888), [06-23](https://youtu.be/-rgXhs5BHiw?t=959))
 - Several experts see him as a lottery-level prospect who is better than his draft slot. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=374), [06-23](https://youtu.be/-rgXhs5BHiw?t=282), [06-22](https://youtu.be/HxQjagSTTAM?t=383))
-- He could become an impactful defender in the mold of Robert Covington or OG Anunoby. (verdict, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1427))
 - He did not start in college. He came off the bench at Santa Clara. (fact, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=424), [06-22](https://youtu.be/HxQjagSTTAM?t=383))
 - The main risks are whether he can hold up in the NBA and whether his shot works. (verdict, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=888))
+- He could become an impactful defender in the mold of Robert Covington or OG Anunoby. (verdict, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1427))
 
 **Tags**
 - Current: `rookie` (Pick 19 in 2026, Toronto), `questionable` (Yahoo Q (groin)), `injured now` (Groin, Yahoo status Q), `waiver watch` (Projected eighth or ninth man. Yahoo value 0 USD, rank 249. Watch his minutes and steals early.)

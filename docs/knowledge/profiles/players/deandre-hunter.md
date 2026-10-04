@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 57 | 29.5 | 45.9 (11.6) | 84.7 (3.4) | 2.1 | 15.6 | 3.9 | 1.5 | 0.7 | 0.3 | 1.5 |
-| 2024-25 | 64 | 27.2 | 47.0 (11.9) | 84.6 (4.0) | 2.5 | 17.0 | 4.0 | 1.4 | 0.8 | 0.2 | 1.3 |
-| 2025-26 | 45 | 26.2 | 41.5 (11.1) | 86.7 (3.2) | 1.7 | 13.7 | 4.1 | 2.0 | 0.7 | 0.1 | 1.7 |
-| 2026-27 proj, Yahoo | 65 | - | 43.4 (9.2) | 85.7 (2.5) | 1.9 | 11.9 | 3.7 | 1.5 | 0.7 | 0.2 | 1.4 |
 | 2026-27 proj, ESPN | 65 | 27.6 | 45.0 (11.6) | 85.1 (3.5) | 2.1 | 15.5 | 4.0 | 1.7 | 0.7 | 0.2 | 1.5 |
+| 2026-27 proj, Yahoo | 65 | - | 43.4 (9.2) | 85.7 (2.5) | 1.9 | 11.9 | 3.7 | 1.5 | 0.7 | 0.2 | 1.4 |
+| 2025-26 | 45 | 26.2 | 41.5 (11.1) | 86.7 (3.2) | 1.7 | 13.7 | 4.1 | 2.0 | 0.7 | 0.1 | 1.7 |
+| 2024-25 | 64 | 27.2 | 47.0 (11.9) | 84.6 (4.0) | 2.5 | 17.0 | 4.0 | 1.4 | 0.8 | 0.2 | 1.3 |
+| 2023-24 | 57 | 29.5 | 45.9 (11.6) | 84.7 (3.4) | 2.1 | 15.6 | 3.9 | 1.5 | 0.7 | 0.3 | 1.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,12 +30,12 @@
 </details>
 
 **Current**
+- One expert says he is not a good fantasy player but could play 30 to 33 minutes. That expert took him with a last-round pick for the minutes upside. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=2782))
 - He is in the projected Kings starting lineup at forward, next to Acuff, LaVine, Murray and Sabonis. Nobody is pushing that group for a starting spot. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1939), [07-31](https://youtu.be/oEywzBZfAvY?t=691), [07-01](https://youtu.be/W3THnI7wWdA?t=1324))
 - The Kings preview hosts say Keegan Murray should not be behind him in the offensive pecking order. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1939))
-- One expert says he is not a good fantasy player but could play 30 to 33 minutes. That expert took him with a last-round pick for the minutes upside. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=2782))
+- The Kings are rebuilding but want to win games to stay out of the relegation zone. Coach Doug Christie is under pressure and may lean on veterans. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=2025), [07-31](https://youtu.be/oEywzBZfAvY?t=2438))
 - His three-point percentage fell from 41 to 31. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=683))
 - He is interesting in Sacramento only if he plays about 30 minutes and shoots around 40% from three. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=683))
-- The Kings are rebuilding but want to win games to stay out of the relegation zone. Coach Doug Christie is under pressure and may lean on veterans. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=2025), [07-31](https://youtu.be/oEywzBZfAvY?t=2438))
 
 **Durable**
 - His fantasy value depends on his minutes and on efficient three-point shooting. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=683), [09-15](https://youtu.be/KPdD91Oo8-U?t=2782))

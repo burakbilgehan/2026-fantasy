@@ -115,6 +115,11 @@ How to add a source (example: Hashtag Basketball):
 - API: `GET /api/valuation/options`, `GET /api/valuation` (`app/api/valuation.py`). Computed per request; no DB table. Widget: `frontend/src/widgets/player-values/`.
 - Backtest: `make valuation-backtest` (`app/jobs/valuation_backtest.py`, helpers `app/analytics/h2h_backtest.py`). Writes `docs/modules/valuation-backtest.md`.
 
+## Player drawer (T-028)
+- Frontend: `frontend/src/components/PlayerDrawer.tsx` (player id + optional valuation query), `Markdown.tsx` (`marked`, sanitized by `dompurify`).
+- API: `app/api/drawer.py` (`/api/players/{id}/card`, `/api/teams/{team}/depth`, `/api/knowledge/articles/{slug}`) and `GET /api/valuation/player/{id}`.
+- `app/knowledge/index.py`: profile slug to player id (from the profile JSON), player to articles, and link rewrite (`#player/<id>`). Reads the files on every call.
+
 ## Widget model
 - A widget = a React component + a registry entry (id, title, default size).
 - The dashboard is a grid. The user can choose and place widgets. Layout is saved in local storage.

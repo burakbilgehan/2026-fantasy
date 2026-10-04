@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 9 | 35.3 | 47.1 (18.9) | 81.2 (7.1) | 1.6 | 25.1 | 5.6 | 8.1 | 0.8 | 0.6 | 3.0 |
-| 2024-25 | 50 | 30.3 | 45.4 (17.8) | 82.4 (6.4) | 1.8 | 23.2 | 4.1 | 7.3 | 1.2 | 0.2 | 3.7 |
-| 2025-26 | 20 | 28.4 | 41.0 (16.1) | 89.7 (5.8) | 1.0 | 19.4 | 3.2 | 8.1 | 1.0 | 0.3 | 3.5 |
-| 2026-27 proj, Yahoo | 58 | - | 43.7 (13.0) | 84.7 (5.2) | 1.2 | 16.9 | 3.2 | 5.7 | 1.1 | 0.3 | 3.5 |
 | 2026-27 proj, ESPN | 65 | 28.6 | 44.3 (16.4) | 84.4 (6.0) | 1.4 | 21.0 | 3.8 | 7.2 | 1.0 | 0.3 | 3.4 |
+| 2026-27 proj, Yahoo | 58 | - | 43.7 (13.0) | 84.7 (5.2) | 1.2 | 16.9 | 3.2 | 5.7 | 1.1 | 0.3 | 3.5 |
+| 2025-26 | 20 | 28.4 | 41.0 (16.1) | 89.7 (5.8) | 1.0 | 19.4 | 3.2 | 8.1 | 1.0 | 0.3 | 3.5 |
+| 2024-25 | 50 | 30.3 | 45.4 (17.8) | 82.4 (6.4) | 1.8 | 23.2 | 4.1 | 7.3 | 1.2 | 0.2 | 3.7 |
+| 2023-24 | 9 | 35.3 | 47.1 (18.9) | 81.2 (7.1) | 1.6 | 25.1 | 5.6 | 8.1 | 0.8 | 0.6 | 3.0 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,23 +30,23 @@
 </details>
 
 **Current**
-- Portland traded for him this offseason. He joins a crowded backcourt with Damian Lillard, Jrue Holiday, Deni Avdija and Scoot Henderson. (fact, 2026-09-14; [07-13](https://youtu.be/Rqb5GdrSweY?t=1837), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [07-07](https://youtu.be/ME-r173X5b0?t=1091), [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), [09-10](https://youtu.be/dlo7L8Ru91A?t=767))
-- He is projected to start next to Lillard. Portland plans to stagger the two but still close games with both. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=416), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [08-11](https://youtu.be/YJk7ZFKFqnI?t=825), [06-29](https://youtu.be/bHA-JoW3reE?t=419))
-- His usage should fall by almost 5 points from the 33% he had in Memphis. His assists are unlikely to hold at 8 per game while he shares the ball with Lillard, Holiday, Avdija and Scoot. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=2262), [07-07](https://youtu.be/ME-r173X5b0?t=1091))
-- Portland's poor finishers (Camara, Clingan, Avdija) hurt how many of the guards' passes turn into assists. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
 - Experts call his fit in Portland weird. They say he mutes the strengths of Lillard and Avdija. (verdict, 2026-09-21; [08-11](https://youtu.be/YJk7ZFKFqnI?t=416), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1325), [09-21](https://youtu.be/egRrai3Ax38?t=778))
-- Minutes and usage across the Portland rotation are expected to swing from game to game. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
 - Do not draft him at his ESPN ADP of 50. He should still play enough minutes to beat his Yahoo rank of 103. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2270), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1325))
+- Portland traded for him this offseason. He joins a crowded backcourt with Damian Lillard, Jrue Holiday, Deni Avdija and Scoot Henderson. (fact, 2026-09-14; [07-13](https://youtu.be/Rqb5GdrSweY?t=1837), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [07-07](https://youtu.be/ME-r173X5b0?t=1091), [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), [09-10](https://youtu.be/dlo7L8Ru91A?t=767))
 - Tier 8 point guard on his median outcome. He has unlikely upside to average 24 points and 9 assists or to play 65 games. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2225))
+- His usage should fall by almost 5 points from the 33% he had in Memphis. His assists are unlikely to hold at 8 per game while he shares the ball with Lillard, Holiday, Avdija and Scoot. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=2262), [07-07](https://youtu.be/ME-r173X5b0?t=1091))
 - Portland has three back-to-backs in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
+- He is projected to start next to Lillard. Portland plans to stagger the two but still close games with both. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=416), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [08-11](https://youtu.be/YJk7ZFKFqnI?t=825), [06-29](https://youtu.be/bHA-JoW3reE?t=419))
+- Minutes and usage across the Portland rotation are expected to swing from game to game. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
+- Portland's poor finishers (Camara, Clingan, Avdija) hurt how many of the guards' passes turn into assists. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
 
 **Durable**
-- He is a high usage guard with strong assists. Even in limited games he piles up assists. (fact, 2026-07-13; [06-29](https://youtu.be/bHA-JoW3reE?t=571), [07-13](https://youtu.be/Rqb5GdrSweY?t=1833))
-- He is a poor shooter from the field and from three, and he does not move off the ball. His free throw shooting is now a strength. (fact, 2026-08-11; [06-29](https://youtu.be/bHA-JoW3reE?t=571), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1015), stats)
 - Turnovers are his worst category and a clear weakness against the whole league. (fact, 2026-10-04; stats)
 - He is not a good category player and his fantasy game is not robust. He is worth more in points leagues. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=778), [06-29](https://youtu.be/bHA-JoW3reE?t=571))
 - He can't stay healthy and has durability concerns. (verdict, 2026-08-26; [06-29](https://youtu.be/bHA-JoW3reE?t=151), [08-26](https://youtu.be/sTtFUy7IoJI?t=2276))
+- He is a poor shooter from the field and from three, and he does not move off the ball. His free throw shooting is now a strength. (fact, 2026-08-11; [06-29](https://youtu.be/bHA-JoW3reE?t=571), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1015), stats)
 - His athleticism has declined. He is described as terrible on defense. (verdict, 2026-08-11; [06-29](https://youtu.be/bHA-JoW3reE?t=151), [08-11](https://youtu.be/YJk7ZFKFqnI?t=710))
+- He is a high usage guard with strong assists. Even in limited games he piles up assists. (fact, 2026-07-13; [06-29](https://youtu.be/bHA-JoW3reE?t=571), [07-13](https://youtu.be/Rqb5GdrSweY?t=1833))
 - He has off-court problems and was suspended by his own team. (fact, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=151))
 
 **Tags**

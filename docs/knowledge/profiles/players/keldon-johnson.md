@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 69 | 29.6 | 45.4 (12.5) | 79.2 (3.2) | 1.8 | 15.7 | 5.5 | 2.8 | 0.7 | 0.3 | 1.4 |
-| 2024-25 | 77 | 23.8 | 48.2 (10.0) | 77.3 (2.5) | 1.1 | 12.7 | 4.8 | 1.6 | 0.6 | 0.3 | 1.0 |
-| 2025-26 | 82 | 23.3 | 51.9 (9.7) | 79.4 (2.4) | 1.2 | 13.2 | 5.4 | 1.4 | 0.6 | 0.1 | 0.9 |
-| 2026-27 proj, Yahoo | 78 | - | 49.5 (10.1) | 79.0 (2.5) | 1.3 | 13.2 | 5.1 | 1.6 | 0.6 | 0.2 | 1.0 |
 | 2026-27 proj, ESPN | 77 | 25.1 | 48.8 (10.5) | 79.0 (2.6) | 1.3 | 13.6 | 5.2 | 1.8 | 0.6 | 0.2 | 1.1 |
+| 2026-27 proj, Yahoo | 78 | - | 49.5 (10.1) | 79.0 (2.5) | 1.3 | 13.2 | 5.1 | 1.6 | 0.6 | 0.2 | 1.0 |
+| 2025-26 | 82 | 23.3 | 51.9 (9.7) | 79.4 (2.4) | 1.2 | 13.2 | 5.4 | 1.4 | 0.6 | 0.1 | 0.9 |
+| 2024-25 | 77 | 23.8 | 48.2 (10.0) | 77.3 (2.5) | 1.1 | 12.7 | 4.8 | 1.6 | 0.6 | 0.3 | 1.0 |
+| 2023-24 | 69 | 29.6 | 45.4 (12.5) | 79.2 (3.2) | 1.8 | 15.7 | 5.5 | 2.8 | 0.7 | 0.3 | 1.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,12 +30,12 @@
 </details>
 
 **Current**
+- Both Yahoo and ESPN value him at 0 USD and rank him outside the top 144, so he is not a draft pick in our league. (verdict, 2026-10-04; stats)
 - He comes off the bench. The projected Spurs starters are Fox, Castle, Vassell, Harris and Wembanyama. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=524))
-- The Spurs signed Tobias Harris. The forward and wing group also includes Champagnie and Harrison Barnes. (fact, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=3529), [07-05](https://youtu.be/4kKINkZhWls?t=3523))
 - He is likely about the eighth man in the rotation, still ahead of Harrison Barnes. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1334))
 - This is a contract year for him. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1404))
 - The Spurs roster is very deep at forward. The team is expected to consolidate through trades in the relatively near future, but not right now. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
-- Both Yahoo and ESPN value him at 0 USD and rank him outside the top 144, so he is not a draft pick in our league. (verdict, 2026-10-04; stats)
+- The Spurs signed Tobias Harris. The forward and wing group also includes Champagnie and Harrison Barnes. (fact, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=3529), [07-05](https://youtu.be/4kKINkZhWls?t=3523))
 
 **Durable**
 - He won the Sixth Man of the Year award. (fact, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=3523))

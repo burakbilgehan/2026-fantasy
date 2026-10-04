@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 55 | 25.5 | 61.1 (6.6) | 79.3 (2.1) | 0.4 | 10.2 | 6.8 | 1.3 | 0.5 | 1.1 | 0.8 |
-| 2024-25 | 74 | 27.8 | 56.7 (9.2) | 75.9 (2.9) | 0.6 | 13.4 | 8.9 | 2.3 | 0.9 | 0.9 | 1.2 |
-| 2025-26 | 74 | 31.1 | 48.0 (11.6) | 75.7 (2.7) | 1.9 | 15.2 | 7.6 | 3.1 | 1.1 | 1.1 | 1.7 |
-| 2026-27 proj, Yahoo | 70 | - | 48.1 (11.8) | 76.2 (3.0) | 2.0 | 15.6 | 8.1 | 2.9 | 1.1 | 1.3 | 1.6 |
 | 2026-27 proj, ESPN | 72 | 30.6 | 49.0 (11.3) | 75.7 (2.8) | 1.8 | 15.0 | 7.8 | 3.0 | 1.1 | 1.0 | 1.6 |
+| 2026-27 proj, Yahoo | 70 | - | 48.1 (11.8) | 76.2 (3.0) | 2.0 | 15.6 | 8.1 | 2.9 | 1.1 | 1.3 | 1.6 |
+| 2025-26 | 74 | 31.1 | 48.0 (11.6) | 75.7 (2.7) | 1.9 | 15.2 | 7.6 | 3.1 | 1.1 | 1.1 | 1.7 |
+| 2024-25 | 74 | 27.8 | 56.7 (9.2) | 75.9 (2.9) | 0.6 | 13.4 | 8.9 | 2.3 | 0.9 | 0.9 | 1.2 |
+| 2023-24 | 55 | 25.5 | 61.1 (6.6) | 79.3 (2.1) | 0.4 | 10.2 | 6.8 | 1.3 | 0.5 | 1.1 | 0.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,21 +30,21 @@
 </details>
 
 **Current**
+- Experts call him fair value around picks 50 to 60s, mostly as a positional pick at center. Round 3 or 4 is too high, and nine-cat rankings make him look better than he is in category leagues. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=987), [09-25](https://youtu.be/4gw4W4RTolY?t=891), [09-24](https://youtu.be/_vbAP5y182A?t=1082), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2709))
 - He is the clear starting center for Atlanta. No established backup threatens his job. (fact, 2026-09-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1478), [09-14](https://youtu.be/t4n9MAP2_14?t=1414), [09-25](https://youtu.be/4gw4W4RTolY?t=938), [09-25](https://youtu.be/4gw4W4RTolY?t=328))
 - Atlanta's center depth is thin: Veesaar is out for the season and Gueye is injured. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1693))
 - Atlanta is very cautious with his minutes. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=938))
 - Quin Snyder wants him spaced away from the rim when he plays with Daniels and Johnson. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=905))
 - Lloyd does not expect his FG% or his block rate to recover under Snyder. Another expert also doubts a FG% bounce back because Trae Young is still gone. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=912), [07-16](https://youtu.be/-y6p5PYLf00?t=1591))
-- Experts call him fair value around picks 50 to 60s, mostly as a positional pick at center. Round 3 or 4 is too high, and nine-cat rankings make him look better than he is in category leagues. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=987), [09-25](https://youtu.be/4gw4W4RTolY?t=891), [09-24](https://youtu.be/_vbAP5y182A?t=1082), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2709))
 - Atlanta plays 4, 4 and 3 games in our playoff weeks 19 to 21. The team has 14 back-to-backs and resting players is not a concern. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739))
 
 **Durable**
+- For a center, his threes and steals stand out. He has no weak category. (fact, 2026-10-04; stats, [08-30](https://youtu.be/Alwse2uXzD4?t=1560))
+- He is not a huge rebounder but is a usable second center. His broad line suits category leagues more than points leagues. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=950), [08-30](https://youtu.be/Alwse2uXzD4?t=1560))
 - He is a stretch center who makes threes on real volume. He also handles the ball better than most centers and has good hands and feel. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1540), [08-25](https://youtu.be/H9q2FT3LhNw?t=1738))
 - Playing on the perimeter gives him more threes and assists but fewer finishes at the rim and fewer offensive rebounds. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1606))
 - On defense he trades blocks for steals. He defends on the perimeter and cuts down on fouls. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1768), [08-25](https://youtu.be/H9q2FT3LhNw?t=1761))
 - Expect the same profile going forward, maybe with a few more blocks. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1768))
-- For a center, his threes and steals stand out. He has no weak category. (fact, 2026-10-04; stats, [08-30](https://youtu.be/Alwse2uXzD4?t=1560))
-- He is not a huge rebounder but is a usable second center. His broad line suits category leagues more than points leagues. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=950), [08-30](https://youtu.be/Alwse2uXzD4?t=1560))
 
 **Tags**
 - Current: none

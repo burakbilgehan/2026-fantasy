@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 81 | 15.7 | 47.4 (5.1) | 75.4 (1.5) | 0.4 | 6.4 | 2.7 | 1.0 | 0.6 | 0.2 | 0.9 |
-| 2025-26 | 78 | 19.8 | 43.2 (7.0) | 80.5 (1.9) | 0.6 | 8.2 | 4.0 | 1.2 | 1.2 | 0.3 | 1.2 |
-| 2026-27 proj, Yahoo | 79 | - | 46.6 (6.8) | 68.2 (1.9) | 0.7 | 8.4 | 3.8 | 1.1 | 1.0 | 0.8 | 0.5 |
 | 2026-27 proj, ESPN | 79 | 18.5 | 44.1 (6.4) | 79.6 (1.8) | 0.6 | 7.6 | 3.6 | 1.2 | 1.0 | 0.3 | 1.1 |
+| 2026-27 proj, Yahoo | 79 | - | 46.6 (6.8) | 68.2 (1.9) | 0.7 | 8.4 | 3.8 | 1.1 | 1.0 | 0.8 | 0.5 |
+| 2025-26 | 78 | 19.8 | 43.2 (7.0) | 80.5 (1.9) | 0.6 | 8.2 | 4.0 | 1.2 | 1.2 | 0.3 | 1.2 |
+| 2024-25 | 81 | 15.7 | 47.4 (5.1) | 75.4 (1.5) | 0.4 | 6.4 | 2.7 | 1.0 | 0.6 | 0.2 | 0.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,11 +29,11 @@
 </details>
 
 **Current**
+- He is not a draft target in our 144-player auction. Watch him on waivers instead. (verdict, 2026-10-04; stats)
 - He is projected as a bench player. Isaiah Joe is the sixth man, and Holland comes next with Paul Reed and Daniss Jenkins. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1420))
 - Detroit no longer has Isaiah Stewart or Tobias Harris, so its frontcourt is thinner. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=208), [10-03](https://youtu.be/_O9pc_u5vH0?t=229), [07-17](https://youtu.be/NYTH7uQsPCM?t=2039))
 - He is expected to play more minutes alongside Ausar Thompson this season. Last season their minutes were staggered. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1341))
 - Detroit's power forward depth is very weak unless Holland and Ausar Thompson play the four, so that is a possible route to more minutes for him. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1019))
-- He is not a draft target in our 144-player auction. Watch him on waivers instead. (verdict, 2026-10-04; stats)
 
 **Durable**
 - none

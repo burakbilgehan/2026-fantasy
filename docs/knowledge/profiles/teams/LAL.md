@@ -11,22 +11,22 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Kevon Looney, PF Jarred Vanderbilt, PF Jake LaRavia, PG Collin Sexton, SF Ziaire Williams, SG Cameron Carr
 
 **Current**
-- More than half the roster turned over. LeBron James left for the Sixers. Luka Doncic and Austin Reaves are the remaining core. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=306))
-- With LeBron James gone and Rui Hachimura apparently gone too, about 64 starting minutes are open at forward. This opens up big usage for the players who remain. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=872), [06-30](https://youtu.be/4GDfg2n2l8o?t=1388))
-- Walker Kessler is the starting center. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2316), [07-13](https://youtu.be/Rqb5GdrSweY?t=778), stats)
-- The backup centers are weak, so the team depends on Kessler, especially on defense. If he is out, they would have to rely on Kevon Looney or Sandro Mamukelashvili. (verdict, 2026-08-04; [07-13](https://youtu.be/Rqb5GdrSweY?t=778), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1701))
-- Kevon Looney is the listed backup center, so Mamukelashvili should get the backup center minutes behind Kessler. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2316))
-- The core is Doncic, Reaves, Mamukelashvili and Kessler. Quentin Grimes and Jake LaRavia are likely in the rotation. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=644))
+- The schedule is about average. The playoff weeks have 10 games with 2 back-to-back pairs, and week 21 has only 3 games. (verdict, 2026-10-04; stats)
 - Two starting spots are open, mainly between Grimes, LaRavia and Mamukelashvili. Ziaire Williams might also start. (fact, 2026-09-30; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669), [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
-- Whoever of that group comes off the bench will probably still play about 27 minutes. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669))
+- Walker Kessler is the starting center. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2316), [07-13](https://youtu.be/Rqb5GdrSweY?t=778), stats)
+- Kevon Looney is the listed backup center, so Mamukelashvili should get the backup center minutes behind Kessler. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2316))
 - The rotation choices under coach J.J. Redick are unclear. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2316))
+- Luka Doncic's health makes the Lakers more vulnerable than the top five West teams. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=103))
+- More than half the roster turned over. LeBron James left for the Sixers. Luka Doncic and Austin Reaves are the remaining core. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=306))
+- The backup centers are weak, so the team depends on Kessler, especially on defense. If he is out, they would have to rely on Kevon Looney or Sandro Mamukelashvili. (verdict, 2026-08-04; [07-13](https://youtu.be/Rqb5GdrSweY?t=778), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1701))
+- Whoever of that group comes off the bench will probably still play about 27 minutes. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669))
 - The front office wanted a younger, more athletic roster with more players who can dribble, pass and shoot. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=143))
 - The team is aiming for a top five offense and a middle of the pack defense. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1333))
 - Andy predicts 50 wins and a top six finish in the West. He thinks the lack of continuity probably keeps them out of the conference finals. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1925))
 - The Lakers project as a playoff team (win total 46.5, rank 11 of 30), so tanking or late-season shutdowns are unlikely. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1925), stats)
-- Luka Doncic's health makes the Lakers more vulnerable than the top five West teams. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=103))
+- The core is Doncic, Reaves, Mamukelashvili and Kessler. Quentin Grimes and Jake LaRavia are likely in the rotation. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=644))
 - Lloyd thinks the roster lacks defenders around Doncic and Reaves. He does not expect it to go well. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=2090))
-- The schedule is about average. The playoff weeks have 10 games with 2 back-to-back pairs, and week 21 has only 3 games. (verdict, 2026-10-04; stats)
+- With LeBron James gone and Rui Hachimura apparently gone too, about 64 starting minutes are open at forward. This opens up big usage for the players who remain. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=872), [06-30](https://youtu.be/4GDfg2n2l8o?t=1388))
 
 **Durable**
 - none

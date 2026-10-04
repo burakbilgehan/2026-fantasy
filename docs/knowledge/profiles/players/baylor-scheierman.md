@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 31 | 12.4 | 35.5 (3.5) | 75.0 (0.4) | 0.8 | 3.6 | 2.1 | 1.1 | 0.5 | 0.1 | 0.4 |
-| 2025-26 | 77 | 18.6 | 45.3 (4.3) | 90.3 (0.4) | 1.3 | 5.5 | 3.5 | 1.5 | 0.5 | 0.1 | 0.6 |
-| 2026-27 proj, Yahoo | 70 | - | 43.2 (5.5) | 86.5 (0.5) | 1.6 | 6.8 | 4.2 | 1.8 | 0.8 | 0.2 | 0.8 |
 | 2026-27 proj, ESPN | 72 | 25.1 | 44.7 (5.9) | 90.7 (0.6) | 1.7 | 7.5 | 4.7 | 2.0 | 0.8 | 0.1 | 0.8 |
+| 2026-27 proj, Yahoo | 70 | - | 43.2 (5.5) | 86.5 (0.5) | 1.6 | 6.8 | 4.2 | 1.8 | 0.8 | 0.2 | 0.8 |
+| 2025-26 | 77 | 18.6 | 45.3 (4.3) | 90.3 (0.4) | 1.3 | 5.5 | 3.5 | 1.5 | 0.5 | 0.1 | 0.6 |
+| 2024-25 | 31 | 12.4 | 35.5 (3.5) | 75.0 (0.4) | 0.8 | 3.6 | 2.1 | 1.1 | 0.5 | 0.1 | 0.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,10 +30,10 @@
 
 **Current**
 - He is expected to start for Boston ahead of Payton Pritchard. The newest projected starting five is Derrick White, Scheierman, Jayson Tatum, Paul George and Neemias Queta. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1502), [09-25](https://youtu.be/Bi1cEM03k9Y?t=464), [09-25](https://youtu.be/Bi1cEM03k9Y?t=848))
+- Experts see him as a late flier or swing pick for deeper leagues and a name to watch in his third year. One expert has him barely inside the top 300. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1502), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1684), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1712))
 - The starting call is not firm. One expert is only about 45% sure he starts and expects only about 20 to 22 minutes a night. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=464))
 - Boston is very deep, with at least 12 rotation-level players, so minutes are spread thin. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133))
 - In his last 8 games as a starter last season he played 23 minutes a night and averaged 10 points, 2.5 threes, 3 rebounds and 2.5 assists. He shot 47% from the field and did not miss a free throw. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1712))
-- Experts see him as a late flier or swing pick for deeper leagues and a name to watch in his third year. One expert has him barely inside the top 300. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1502), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1684), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1712))
 - He could reach double-digit scoring if he gets more catch-and-shoot looks. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=357))
 
 **Durable**

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 79 | 22.1 | 44.6 (7.1) | 89.5 (0.2) | 2.5 | 9.0 | 3.5 | 1.0 | 0.5 | 0.3 | 0.4 |
-| 2024-25 | 71 | 21.7 | 45.1 (6.7) | 100.0 (0.2) | 2.3 | 8.5 | 3.2 | 0.9 | 0.6 | 0.2 | 0.3 |
-| 2025-26 | 78 | 24.8 | 41.9 (7.7) | 85.0 (0.3) | 2.5 | 9.2 | 3.8 | 1.5 | 0.5 | 0.3 | 0.4 |
-| 2026-27 proj, Yahoo | 76 | - | 43.4 (7.4) | 88.2 (0.2) | 2.5 | 9.2 | 3.7 | 1.4 | 0.6 | 0.4 | 0.5 |
 | 2026-27 proj, ESPN | 77 | 25.3 | 42.6 (7.9) | 87.0 (0.3) | 2.6 | 9.6 | 3.9 | 1.4 | 0.5 | 0.3 | 0.4 |
+| 2026-27 proj, Yahoo | 76 | - | 43.4 (7.4) | 88.2 (0.2) | 2.5 | 9.2 | 3.7 | 1.4 | 0.6 | 0.4 | 0.5 |
+| 2025-26 | 78 | 24.8 | 41.9 (7.7) | 85.0 (0.3) | 2.5 | 9.2 | 3.8 | 1.5 | 0.5 | 0.3 | 0.4 |
+| 2024-25 | 71 | 21.7 | 45.1 (6.7) | 100.0 (0.2) | 2.3 | 8.5 | 3.2 | 0.9 | 0.6 | 0.2 | 0.3 |
+| 2023-24 | 79 | 22.1 | 44.6 (7.1) | 89.5 (0.2) | 2.5 | 9.0 | 3.5 | 1.0 | 0.5 | 0.3 | 0.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -36,10 +36,10 @@
 - His Yahoo ADP of 102 is far too high. He is a deep-league option only. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1288))
 
 **Durable**
+- Threes and low turnovers are his only categories clearly above the pool. Steals, assists, points and FG% are below it, and he takes so few free throws that his FT% barely matters. (fact, 2026-10-04; stats)
+- He is a deep-league rotation player who hits a lot of threes and offers little else. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1317))
 - He is a veteran catch-and-shoot player who shoots about 40% from three and does not try to do too much. (fact, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=542))
 - His three-point shooting is streaky. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=542))
-- He is a deep-league rotation player who hits a lot of threes and offers little else. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1317))
-- Threes and low turnovers are his only categories clearly above the pool. Steals, assists, points and FG% are below it, and he takes so few free throws that his FT% barely matters. (fact, 2026-10-04; stats)
 
 **Tags**
 - Current: `minutes competition` (Competes with Baylor Scheierman for the starting wing spot next to Derrick White on a deep roster), `bust candidate` (Yahoo ADP 102 called ridiculous)

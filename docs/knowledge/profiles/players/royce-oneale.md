@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 79 | 24.7 | 39.7 (6.8) | 68.6 (0.4) | 2.0 | 7.7 | 4.8 | 2.8 | 0.7 | 0.6 | 0.9 |
-| 2024-25 | 75 | 24.6 | 42.3 (7.6) | 73.1 (0.3) | 2.4 | 9.1 | 4.7 | 2.2 | 0.9 | 0.4 | 0.9 |
-| 2025-26 | 78 | 28.4 | 42.1 (8.0) | 71.1 (0.5) | 2.7 | 9.8 | 4.8 | 2.7 | 1.1 | 0.4 | 1.3 |
-| 2026-27 proj, Yahoo | 76 | - | 41.7 (6.9) | 70.0 (0.4) | 2.2 | 8.3 | 4.8 | 2.3 | 0.9 | 0.4 | 1.0 |
 | 2026-27 proj, ESPN | 76 | 24.5 | 41.9 (7.0) | 73.3 (0.4) | 2.3 | 8.5 | 4.2 | 2.3 | 0.9 | 0.4 | 1.1 |
+| 2026-27 proj, Yahoo | 76 | - | 41.7 (6.9) | 70.0 (0.4) | 2.2 | 8.3 | 4.8 | 2.3 | 0.9 | 0.4 | 1.0 |
+| 2025-26 | 78 | 28.4 | 42.1 (8.0) | 71.1 (0.5) | 2.7 | 9.8 | 4.8 | 2.7 | 1.1 | 0.4 | 1.3 |
+| 2024-25 | 75 | 24.6 | 42.3 (7.6) | 73.1 (0.3) | 2.4 | 9.1 | 4.7 | 2.2 | 0.9 | 0.4 | 0.9 |
+| 2023-24 | 79 | 24.7 | 39.7 (6.8) | 68.6 (0.4) | 2.0 | 7.7 | 4.8 | 2.8 | 0.7 | 0.6 | 0.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,14 +30,14 @@
 </details>
 
 **Current**
-- Charlotte got him from Phoenix in the Miles Bridges trade, together with Grayson Allen. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=318), [06-28](https://youtu.be/RsjGTgJiKyI?t=328))
 - He is a bench player in Charlotte, in a small role. The projected bench is Allen, Schröder, Steinbach, O'Neale and Grant Williams. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1375), [09-27](https://youtu.be/CRLSsoGhb2w?t=416), [07-01](https://youtu.be/W3THnI7wWdA?t=318))
 - He may pick up more power forward minutes, but the expert says he is not worth drafting. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1375))
+- Charlotte got him from Phoenix in the Miles Bridges trade, together with Grayson Allen. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=318), [06-28](https://youtu.be/RsjGTgJiKyI?t=328))
 
 **Durable**
-- He hits corner threes reliably. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=425))
 - His best categories are threes and low turnovers. His weakest are points and FG%. None of them is a league outlier. (verdict, 2026-10-04; stats)
 - He has shown signs of decline, and teams around the league saw him as a negative asset. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=484))
+- He hits corner threes reliably. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=425))
 
 **Tags**
 - Current: `new team` (Traded from Phoenix to Charlotte in the Miles Bridges deal), `role down` (Small bench role in Charlotte. Projected at about 24.5 minutes, down from 28.4 last season), `waiver watch` (Not worth drafting. Worth watching if he gets more power forward minutes)

@@ -26,18 +26,18 @@
 </details>
 
 **Current**
-- He is a rookie. Dallas took him in the first round, in the 20s. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=1491))
+- Yahoo projects a small role and ranks him 615th, so he is not a draft pick in a 144-player league. He is a waiver watch for nights when Kyrie sits. (verdict, 2026-10-04; stats, [09-29](https://youtu.be/XSPJL_mlFXo?t=1538))
 - Josh projects him as the backup point guard. He sees him as worth watching when Kyrie Irving sits, with a possible line of 10 points and 5 assists in 27 minutes. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1538), [07-27](https://youtu.be/0AptxcRW0RE?t=1491), [08-02](https://youtu.be/TOn-D1SV7a8?t=594))
-- In Summer League he averaged almost 8 to 9 assists. He shot under 30% and struggled to create his own shot. (fact, 2026-07-27; [07-21](https://youtu.be/RyzcCGChYgs?t=2342), [07-27](https://youtu.be/0AptxcRW0RE?t=1491), [07-27](https://youtu.be/0AptxcRW0RE?t=323))
 - Dallas is short on true ball handlers. The only real guards are Kyrie Irving, de Larrea and Marcus Sasser. Kyrie is 36 and coming off injury. (fact, 2026-09-29; [07-27](https://youtu.be/0AptxcRW0RE?t=413), [09-29](https://youtu.be/XSPJL_mlFXo?t=134), [07-21](https://youtu.be/RyzcCGChYgs?t=2295))
 - Dallas plays 4 games in each of our fantasy playoff weeks (4-4-4). It also has a league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
-- Yahoo projects a small role and ranks him 615th, so he is not a draft pick in a 144-player league. He is a waiver watch for nights when Kyrie sits. (verdict, 2026-10-04; stats, [09-29](https://youtu.be/XSPJL_mlFXo?t=1538))
+- He is a rookie. Dallas took him in the first round, in the 20s. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=1491))
+- In Summer League he averaged almost 8 to 9 assists. He shot under 30% and struggled to create his own shot. (fact, 2026-07-27; [07-21](https://youtu.be/RyzcCGChYgs?t=2342), [07-27](https://youtu.be/0AptxcRW0RE?t=1491), [07-27](https://youtu.be/0AptxcRW0RE?t=323))
 
 **Durable**
 - He is a 6'7 point guard who dribbles and passes well. He was probably the best passer at Summer League. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1503), [08-02](https://youtu.be/TOn-D1SV7a8?t=594), [06-22](https://youtu.be/HxQjagSTTAM?t=891))
 - He shot well in Europe. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1503), [06-22](https://youtu.be/HxQjagSTTAM?t=891))
-- Some experts still worry about his shooting. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=594))
 - Experts expect defensive problems. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1503), [06-22](https://youtu.be/HxQjagSTTAM?t=891))
+- Some experts still worry about his shooting. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=594))
 
 **Tags**
 - Current: `rookie` (first round pick, 20 years old), `waiver watch` (watch his minutes and assists when Kyrie Irving sits), `handcuff` (backup point guard behind Kyrie Irving), `good playoff schedule` (Dallas plays 4-4-4 in weeks 19 to 21)

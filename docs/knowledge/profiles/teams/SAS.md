@@ -11,23 +11,23 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Luke Kornet, PF Harrison Barnes, PF Carter Bryant, PG Dylan Harper, SF Julian Champagnie
 
 **Current**
-- Projected starters are De'Aaron Fox, Stephon Castle, Devin Vassell, Tobias Harris and Victor Wembanyama. (fact, 2026-09-09; [08-27](https://youtu.be/ZAyie8lKyYc?t=524), stats, [09-09](https://youtu.be/7BllEsdNLoM?t=1991))
-- Fox will still start, even though the team's future is Dylan Harper and Castle. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1991))
-- The Spurs are not expected to bench Fox or Castle, which limits Harper's minutes. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1249))
+- The Spurs have the fewest back-to-backs in the league, so their players have less rest risk. (fact, 2026-10-04; stats)
+- The fantasy playoff schedule is average. Week 19 has only 3 games. (fact, 2026-10-04; stats)
 - Point guard depth is weak. The Spurs may start Harper, Castle and Fox together. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1311))
 - The guard group is crowded. Castle, Harper and Fox cannot all get bigger roles, and more Harper minutes limit Castle's minutes. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1601), [09-09](https://youtu.be/7BllEsdNLoM?t=1991), [08-24](https://youtu.be/g31YlwRe0XQ?t=1055))
-- Castle's assist chances depend on Fox's health and on how many minutes Harper gets. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1060))
-- The team staggers its three guards so that at least two are always on the court. More three-guard lineups are expected this season. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=666))
 - The roster is very deep at forward and wing, with a lot of depth around Tobias Harris. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1601), [08-27](https://youtu.be/ZAyie8lKyYc?t=1306), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312))
-- Tobias Harris, signed this summer, takes Harrison Barnes's starting role. (fact, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=1055), [07-05](https://youtu.be/4kKINkZhWls?t=3529), stats)
-- Keldon Johnson drops to ninth man, behind a wing group that includes Julian Champagnie and Barnes. (verdict, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=3529))
+- Projected starters are De'Aaron Fox, Stephon Castle, Devin Vassell, Tobias Harris and Victor Wembanyama. (fact, 2026-09-09; [08-27](https://youtu.be/ZAyie8lKyYc?t=524), stats, [09-09](https://youtu.be/7BllEsdNLoM?t=1991))
+- Fox will still start, even though the team's future is Dylan Harper and Castle. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1991))
+- Castle's assist chances depend on Fox's health and on how many minutes Harper gets. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1060))
+- The Spurs are not expected to bench Fox or Castle, which limits Harper's minutes. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1249))
+- The team staggers its three guards so that at least two are always on the court. More three-guard lineups are expected this season. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=666))
 - Coach Mitch Johnson will have a hard job balancing minutes in such a deep rotation. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1491))
 - The team drafted three centers and replaced its older backup centers with younger ones. It lost no one who played rotation minutes. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=267))
 - The Spurs still want to win now. They have cap flexibility and made only small roster changes. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=152))
 - Trades to consolidate the depth are expected fairly soon, but not right away. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
 - The Spurs are a top contender. One expert predicts 63 wins, and they could take the top seed in the West. Tanking risk is very low. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2403), [07-26](https://youtu.be/75Sk_4fkgIM?t=370), stats)
-- The Spurs have the fewest back-to-backs in the league, so their players have less rest risk. (fact, 2026-10-04; stats)
-- The fantasy playoff schedule is average. Week 19 has only 3 games. (fact, 2026-10-04; stats)
+- Tobias Harris, signed this summer, takes Harrison Barnes's starting role. (fact, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=1055), [07-05](https://youtu.be/4kKINkZhWls?t=3529), stats)
+- Keldon Johnson drops to ninth man, behind a wing group that includes Julian Champagnie and Barnes. (verdict, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=3529))
 
 **Durable**
 - The offense relies on guards driving downhill to the rim. When defenses shut that off, the offense struggles. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2249))

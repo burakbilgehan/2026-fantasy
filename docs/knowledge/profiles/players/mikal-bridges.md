@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 82 | 34.8 | 43.6 (15.8) | 81.4 (3.9) | 2.7 | 19.6 | 4.5 | 3.6 | 1.0 | 0.4 | 2.0 |
-| 2024-25 | 82 | 37.1 | 50.0 (14.4) | 81.4 (1.4) | 2.0 | 17.6 | 3.2 | 3.7 | 0.9 | 0.5 | 1.6 |
-| 2025-26 | 82 | 32.9 | 49.0 (11.7) | 82.7 (1.2) | 1.9 | 14.4 | 3.8 | 3.7 | 1.3 | 0.8 | 1.0 |
-| 2026-27 proj, Yahoo | 82 | - | 48.0 (12.3) | 82.4 (1.3) | 2.0 | 14.9 | 3.5 | 3.5 | 1.1 | 0.6 | 1.3 |
 | 2026-27 proj, ESPN | 82 | 33.6 | 48.8 (12.4) | 81.7 (1.4) | 2.0 | 15.2 | 3.7 | 3.7 | 1.2 | 0.7 | 1.2 |
+| 2026-27 proj, Yahoo | 82 | - | 48.0 (12.3) | 82.4 (1.3) | 2.0 | 14.9 | 3.5 | 3.5 | 1.1 | 0.6 | 1.3 |
+| 2025-26 | 82 | 32.9 | 49.0 (11.7) | 82.7 (1.2) | 1.9 | 14.4 | 3.8 | 3.7 | 1.3 | 0.8 | 1.0 |
+| 2024-25 | 82 | 37.1 | 50.0 (14.4) | 81.4 (1.4) | 2.0 | 17.6 | 3.2 | 3.7 | 0.9 | 0.5 | 1.6 |
+| 2023-24 | 82 | 34.8 | 43.6 (15.8) | 81.4 (3.9) | 2.7 | 19.6 | 4.5 | 3.6 | 1.0 | 0.4 | 2.0 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,18 +30,18 @@
 </details>
 
 **Current**
-- He is a projected starter for the Knicks, next to Brunson, Hart, Anunoby and Towns. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=317))
-- His role shrank over the last two to three months of last season. He played under 30 minutes, took about one free throw per game and had a usage rate around 16 percent. Per game, he ranked around 130th, which is droppable. (fact, 2026-09-19; [08-13](https://youtu.be/okN3fbHJtlA?t=862), [09-19](https://youtu.be/uarqbNA2dFk?t=924), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2166), [09-10](https://youtu.be/dlo7L8Ru91A?t=1483))
-- Gavin expects the same small role this season but also his best season as a Knick. Mike Brown may cut his role if he struggles. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=862))
-- The experts call him overdrafted at an ADP of about 72 to 77 and say ESPN's rank of 26 is far too high. Taking him around pick 70 for his durability alone is not worth it. One expert sees his real value in the 90s. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=924), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2166), [09-10](https://youtu.be/dlo7L8Ru91A?t=1483), [08-19](https://youtu.be/J1Eg3uaAICU?t=1355), [08-30](https://youtu.be/Alwse2uXzD4?t=2068))
 - After the title run, the Knicks are expected to be careful early in the season. Starters should get fewer minutes and more rest on back-to-backs over the first 30 or so games. (verdict, 2026-09-22, until first 30 or so games; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [09-10](https://youtu.be/dlo7L8Ru91A?t=1127), [09-22](https://youtu.be/QbdrhJd7LiA?t=914))
+- His role shrank over the last two to three months of last season. He played under 30 minutes, took about one free throw per game and had a usage rate around 16 percent. Per game, he ranked around 130th, which is droppable. (fact, 2026-09-19; [08-13](https://youtu.be/okN3fbHJtlA?t=862), [09-19](https://youtu.be/uarqbNA2dFk?t=924), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2166), [09-10](https://youtu.be/dlo7L8Ru91A?t=1483))
+- The experts call him overdrafted at an ADP of about 72 to 77 and say ESPN's rank of 26 is far too high. Taking him around pick 70 for his durability alone is not worth it. One expert sees his real value in the 90s. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=924), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2166), [09-10](https://youtu.be/dlo7L8Ru91A?t=1483), [08-19](https://youtu.be/J1Eg3uaAICU?t=1355), [08-30](https://youtu.be/Alwse2uXzD4?t=2068))
+- He is a projected starter for the Knicks, next to Brunson, Hart, Anunoby and Towns. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=317))
+- Gavin expects the same small role this season but also his best season as a Knick. Mike Brown may cut his role if he struggles. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=862))
 
 **Durable**
-- He is very durable and rarely misses games. He played all 82 games in each of the last three seasons. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=991), [08-09](https://youtu.be/8d--aL_xxwE?t=1811), stats)
-- He can be projected to play more games than the usual player. Josh warns that he will still get hurt at some point. (verdict, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1811))
-- He is an elite defender off the ball. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=991))
 - His category profile is low volume and good percentages, with some steals. None of his categories is a league outlier, strong or weak. (fact, 2026-10-04; [08-30](https://youtu.be/Alwse2uXzD4?t=2068), stats)
 - His nine-cat totals flatter him, mostly because he plays every game. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2166), [09-10](https://youtu.be/dlo7L8Ru91A?t=1483))
+- He is very durable and rarely misses games. He played all 82 games in each of the last three seasons. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=991), [08-09](https://youtu.be/8d--aL_xxwE?t=1811), stats)
+- He is an elite defender off the ball. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=991))
+- He can be projected to play more games than the usual player. Josh warns that he will still get hurt at some point. (verdict, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1811))
 
 **Tags**
 - Current: `bust candidate` (overdrafted at ADP 72 to 77; ESPN rank 26 far too high), `sites disagree on price` (Yahoo value 12 USD, rank 81; ESPN value 28 USD, rank 26), `back-to-back risk` (Knicks plan more rest on back-to-backs early after the title run; until first 30 or so games)

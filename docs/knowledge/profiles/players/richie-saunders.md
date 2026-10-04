@@ -8,12 +8,12 @@ No NBA stats and no projections in our data.
 | 2026-27 | 0 | - | 659 | - | - | - | not drafted |
 
 **Current**
+- Memphis has a crowded guard group with Ty Jerome, Javon Small, Scotty Pippen Jr., Campazzo and Cam Spencer. Coach Tuomas Iisalo uses an 11-man rotation and keeps minutes down. (fact, 2026-08-17; [07-16](https://youtu.be/-y6p5PYLf00?t=557), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- Even after he returns, the crowded guard group and short rotation stints make real fantasy minutes unlikely this season. He is not a draft target in our league. (verdict, 2026-08-17; [08-02](https://youtu.be/TOn-D1SV7a8?t=209), [07-16](https://youtu.be/-y6p5PYLf00?t=557), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159), stats)
 - He has a torn ACL and is out. Yahoo lists him as out with a knee injury. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=209), [06-26](https://youtu.be/CLsUc0Sevos?t=1134), stats)
 - He is expected to miss big chunks of the season and should return near the end of his rookie season. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=209), [06-26](https://youtu.be/CLsUc0Sevos?t=1134))
 - He is a rookie in his first NBA season. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=209), [06-26](https://youtu.be/CLsUc0Sevos?t=1134))
 - In dynasty rookie rankings he dropped to 36th because he is an older player who will miss his first year. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=209))
-- Memphis has a crowded guard group with Ty Jerome, Javon Small, Scotty Pippen Jr., Campazzo and Cam Spencer. Coach Tuomas Iisalo uses an 11-man rotation and keeps minutes down. (fact, 2026-08-17; [07-16](https://youtu.be/-y6p5PYLf00?t=557), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
-- Even after he returns, the crowded guard group and short rotation stints make real fantasy minutes unlikely this season. He is not a draft target in our league. (verdict, 2026-08-17; [08-02](https://youtu.be/TOn-D1SV7a8?t=209), [07-16](https://youtu.be/-y6p5PYLf00?t=557), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159), stats)
 
 **Durable**
 - He is an older prospect from BYU and a shooter. (fact, 2026-08-02; [06-26](https://youtu.be/CLsUc0Sevos?t=1134), [06-22](https://youtu.be/HxQjagSTTAM?t=1087), [08-02](https://youtu.be/TOn-D1SV7a8?t=209))

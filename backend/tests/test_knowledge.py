@@ -96,3 +96,58 @@ def test_punt_fit_only_for_two_weakest_and_positive_rest():
     giannis = _prof(league={"FG%": 4.7, "PTS": 2.9, "REB": 2.5, "FT%": -6.4, "3PM": -1.2, "TO": -2.5},
                     pos={"FT%": -5.9, "TO": -2.9, "3PM": -1.0}, groups=("F", "C"))
     assert giannis.pos_weaknesses() == ["FT%", "TO"]
+
+
+def test_drawer_article_index_and_links(tmp_path):
+    from app.knowledge.index import article_index, for_drawer
+
+    (tmp_path / "README.md").write_text("# Index\n[A](../profiles/players/aa-bb.md)\n")
+    (tmp_path / "x.md").write_text(
+        "<!-- gen -->\n# Title X\nOne ([A](../profiles/players/aa-bb.md)), two ([A](../profiles/players/aa-bb.md)),"
+        " unknown ([U](../profiles/players/zz.md)), [C](../profiles/players/cc.md)\n")
+    (tmp_path / "y.md").write_text("# Title Y\n[A](../profiles/players/aa-bb.md)\n")
+    idx = article_index({"aa-bb": 1, "cc": 2}, tmp_path)
+    assert idx[1] == [{"slug": "x", "title": "Title X", "mentions": 2}, {"slug": "y", "title": "Title Y", "mentions": 1}]
+    assert idx[2] == [{"slug": "x", "title": "Title X", "mentions": 1}]
+    assert set(idx) == {1, 2}  # README skipped, unknown slug skipped
+
+    md = for_drawer((tmp_path / "x.md").read_text(), {"aa-bb": 1})
+    assert not md.startswith("<!--") and "# Title X" not in md
+    assert "[A](#player/1)" in md and "[U](#)" in md
+
+
+def test_drawer_off_categories():
+    from app.api.valuation import off_categories
+
+    z = {"fg_pct": 1, "ft_pct": -2, "tpm": 0, "pts": 0, "reb": 0, "ast": 0, "stl": 0, "blk": 0, "tov": -3}
+    assert off_categories("zscore", z, frozenset()) == []
+    assert off_categories("punt", z, frozenset({"ft_pct"})) == ["ft_pct"]
+    assert off_categories("minus1", z, frozenset()) == ["tov"]
+    assert off_categories("durant", z, frozenset()) == ["ft_pct", "tov"]
+
+
+def test_render_newest_first():
+    from app.knowledge.render import newest_first
+
+    items = [{"date": "2026-07-31", "t": "a"}, {"date": "2026-09-29", "t": "b"}, {"date": "2026-09-29", "t": "c"}]
+    assert [i["t"] for i in newest_first(items)] == ["b", "c", "a"]
+
+
+def test_usage_season_and_advanced_parse():
+    import pytest
+
+    from app.api.valuation import usage_season
+    from app.sources.players import nba_advanced
+
+    assert usage_season("actual", "2024-25") == "2024-25"
+    assert usage_season("projection", "2026-27") == "2025-26"
+    headers = ["PLAYER_ID", "PLAYER_NAME", "GP", "USG_PCT", "TS_PCT", "MIN"]
+    payload = {"parameters": {"Season": "2025-26", "MeasureType": "Advanced"},
+               "resultSets": [{"headers": headers, "rowSet": [[i, f"P{i}", 50, 0.2, 0.6, 30.0] for i in range(400)]}]}
+    rows = nba_advanced.parse({"2025-26": payload})
+    assert rows[0] == {"nba_id": "0", "name": "P0", "season": "2025-26", "gp": 50.0, "usg_pct": 0.2, "ts_pct": 0.6,
+                       "extra": {**{k.lower(): None for k in nba_advanced.KEEP}, "min": 30.0, "usg_pct": 0.2,
+                                 "ts_pct": 0.6}}
+    payload["parameters"]["MeasureType"] = "Base"
+    with pytest.raises(ValueError):
+        nba_advanced.parse({"2025-26": payload})

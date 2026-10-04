@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 79 | 37.9 | 48.0 (17.2) | 85.3 (7.7) | 0.9 | 24.0 | 4.3 | 5.3 | 1.1 | 0.6 | 1.7 |
-| 2024-25 | 77 | 35.9 | 47.7 (17.0) | 85.7 (5.7) | 1.1 | 22.2 | 3.9 | 4.4 | 0.8 | 0.4 | 1.4 |
-| 2025-26 | 77 | 31.3 | 49.7 (13.1) | 86.8 (5.6) | 0.6 | 18.4 | 2.9 | 4.1 | 1.0 | 0.3 | 1.2 |
-| 2026-27 proj, Yahoo | 74 | - | 48.6 (10.4) | 86.0 (4.2) | 0.6 | 14.3 | 2.4 | 3.1 | 0.7 | 0.3 | 0.9 |
 | 2026-27 proj, ESPN | 77 | 28.9 | 48.4 (12.9) | 86.0 (5.1) | 0.7 | 17.6 | 3.0 | 3.8 | 0.8 | 0.3 | 1.2 |
+| 2026-27 proj, Yahoo | 74 | - | 48.6 (10.4) | 86.0 (4.2) | 0.6 | 14.3 | 2.4 | 3.1 | 0.7 | 0.3 | 0.9 |
+| 2025-26 | 77 | 31.3 | 49.7 (13.1) | 86.8 (5.6) | 0.6 | 18.4 | 2.9 | 4.1 | 1.0 | 0.3 | 1.2 |
+| 2024-25 | 77 | 35.9 | 47.7 (17.0) | 85.7 (5.7) | 1.1 | 22.2 | 3.9 | 4.4 | 0.8 | 0.4 | 1.4 |
+| 2023-24 | 79 | 37.9 | 48.0 (17.2) | 85.3 (7.7) | 0.9 | 24.0 | 4.3 | 5.3 | 1.1 | 0.6 | 1.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -38,9 +38,9 @@
 - Denver plays 43 games through March 28 and has only 14 back-to-backs, one of the lowest counts in the league. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678))
 
 **Durable**
-- He is a great scorer. Teams must adjust for him on both ends because of his spacing and defensive limitations. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=205))
 - Good FT% on solid volume is his best category, and he keeps turnovers low for a scorer. (verdict, 2026-10-04; [09-10](https://youtu.be/dlo7L8Ru91A?t=1912), stats)
 - He makes very few threes and grabs few rebounds for a forward. (fact, 2026-10-04; stats)
+- He is a great scorer. Teams must adjust for him on both ends because of his spacing and defensive limitations. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=205))
 - He is 37 years old. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2648))
 
 **Tags**

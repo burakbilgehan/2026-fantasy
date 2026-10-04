@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 68 | 36.0 | 49.2 (19.2) | 88.6 (6.7) | 2.2 | 27.1 | 4.5 | 6.9 | 0.9 | 0.4 | 2.6 |
-| 2024-25 | 75 | 37.3 | 46.1 (18.9) | 89.4 (6.4) | 2.4 | 25.6 | 4.1 | 7.1 | 0.9 | 0.2 | 2.9 |
-| 2025-26 | 64 | 33.6 | 45.6 (18.7) | 87.3 (8.1) | 1.9 | 26.1 | 3.9 | 6.0 | 0.8 | 0.3 | 3.1 |
-| 2026-27 proj, Yahoo | 68 | - | 47.2 (18.8) | 88.2 (8.1) | 2.1 | 27.0 | 4.1 | 6.5 | 0.8 | 0.3 | 3.0 |
 | 2026-27 proj, ESPN | 72 | 35.8 | 46.8 (19.1) | 88.4 (7.2) | 2.2 | 26.5 | 4.2 | 6.7 | 0.9 | 0.3 | 2.9 |
+| 2026-27 proj, Yahoo | 68 | - | 47.2 (18.8) | 88.2 (8.1) | 2.1 | 27.0 | 4.1 | 6.5 | 0.8 | 0.3 | 3.0 |
+| 2025-26 | 64 | 33.6 | 45.6 (18.7) | 87.3 (8.1) | 1.9 | 26.1 | 3.9 | 6.0 | 0.8 | 0.3 | 3.1 |
+| 2024-25 | 75 | 37.3 | 46.1 (18.9) | 89.4 (6.4) | 2.4 | 25.6 | 4.1 | 7.1 | 0.9 | 0.2 | 2.9 |
+| 2023-24 | 68 | 36.0 | 49.2 (19.2) | 88.6 (6.7) | 2.2 | 27.1 | 4.5 | 6.9 | 0.9 | 0.4 | 2.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -32,17 +32,17 @@
 **Current**
 - The newest expert calls say he is overpriced. One expert values him around round four, below his Yahoo rank of 24 and ADP of 31. Another sees no reason for him to jump to an ESPN rank near 18 to 20. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1336), [09-19](https://youtu.be/uarqbNA2dFk?t=387))
 - Experts do not fully buy a bounce back from his down 2025-26 season. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1336), [09-09](https://youtu.be/7BllEsdNLoM?t=1516))
-- Last season defenses sent extra defenders at him and dared Dillon Brooks to beat them. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1567))
-- Phoenix says Jalen Green is the point guard. The Suns want to lower Booker's ballhandling load and make spacing easier for him. (fact, 2026-09-10; [08-23](https://youtu.be/hm5-fiCa5S4?t=900), [09-10](https://youtu.be/W-R1dzem32s?t=1138))
 - The experts disagree on his role. Josh expects him to stay the de facto point guard with about 32% usage and good assists. Another expert expects Jalen Green and Miles Bridges to take touches from him in a crowded usage group. (verdict, 2026-09-19; [09-10](https://youtu.be/W-R1dzem32s?t=1136), [09-10](https://youtu.be/W-R1dzem32s?t=1138), [09-19](https://youtu.be/uarqbNA2dFk?t=387), [09-19](https://youtu.be/uarqbNA2dFk?t=989))
+- Phoenix says Jalen Green is the point guard. The Suns want to lower Booker's ballhandling load and make spacing easier for him. (fact, 2026-09-10; [08-23](https://youtu.be/hm5-fiCa5S4?t=900), [09-10](https://youtu.be/W-R1dzem32s?t=1138))
+- Last season defenses sent extra defenders at him and dared Dillon Brooks to beat them. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1567))
 
 **Durable**
-- Excellent free throw shooter on high volume. FT% is a clear league outlier and lifts a team's FT%. (fact, 2026-09-10; stats, [09-10](https://youtu.be/W-R1dzem32s?t=1161), [08-09](https://youtu.be/8d--aL_xxwE?t=1295))
-- Josh says his FT% could randomly drop to about 81% in a given season. (verdict, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1295))
 - Points are a league outlier, and he adds strong assists for a guard. (fact, 2026-10-04; stats)
 - He commits many turnovers, a clear weakness even for a guard. (fact, 2026-10-04; stats)
+- Excellent free throw shooter on high volume. FT% is a clear league outlier and lifts a team's FT%. (fact, 2026-09-10; stats, [09-10](https://youtu.be/W-R1dzem32s?t=1161), [08-09](https://youtu.be/8d--aL_xxwE?t=1295))
 - An expert calls his FG% weak and says he gives too few threes, steals and blocks. The projections put his FG% near average for a guard. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1161), stats)
 - Ben calls him an average defender who is not a net negative. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=2021))
+- Josh says his FT% could randomly drop to about 81% in a given season. (verdict, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1295))
 
 **Tags**
 - Current: `bust candidate` (Valued around round 4, below Yahoo rank 24 and ADP 31; ESPN rank 18 called too high), `sites disagree on price` (Yahoo value 32 USD and rank 23 vs ESPN value 16 USD and rank 40)

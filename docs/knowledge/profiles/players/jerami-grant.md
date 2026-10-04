@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 54 | 33.9 | 45.1 (15.7) | 81.7 (5.8) | 2.1 | 21.0 | 3.5 | 2.8 | 0.8 | 0.6 | 2.1 |
-| 2024-25 | 47 | 32.4 | 37.3 (12.2) | 84.9 (3.5) | 2.3 | 14.4 | 3.5 | 2.1 | 0.9 | 1.0 | 1.4 |
-| 2025-26 | 57 | 29.8 | 45.3 (12.8) | 81.4 (5.6) | 2.4 | 18.6 | 3.5 | 2.1 | 0.7 | 0.6 | 2.1 |
-| 2026-27 proj, Yahoo | 59 | - | 42.5 (12.2) | 82.0 (4.8) | 2.4 | 16.7 | 3.3 | 2.2 | 0.8 | 0.7 | 1.8 |
 | 2026-27 proj, ESPN | 68 | 29.4 | 44.4 (12.5) | 81.6 (5.2) | 2.3 | 17.6 | 3.4 | 2.1 | 0.7 | 0.7 | 1.9 |
+| 2026-27 proj, Yahoo | 59 | - | 42.5 (12.2) | 82.0 (4.8) | 2.4 | 16.7 | 3.3 | 2.2 | 0.8 | 0.7 | 1.8 |
+| 2025-26 | 57 | 29.8 | 45.3 (12.8) | 81.4 (5.6) | 2.4 | 18.6 | 3.5 | 2.1 | 0.7 | 0.6 | 2.1 |
+| 2024-25 | 47 | 32.4 | 37.3 (12.2) | 84.9 (3.5) | 2.3 | 14.4 | 3.5 | 2.1 | 0.9 | 1.0 | 1.4 |
+| 2023-24 | 54 | 33.9 | 45.1 (15.7) | 81.7 (5.8) | 2.1 | 21.0 | 3.5 | 2.8 | 0.8 | 0.6 | 2.1 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -44,9 +44,9 @@
 - He is a scorer first. He adds threes and points but gives little in rebounds and steals for a forward. (verdict, 2026-10-04; [06-29](https://youtu.be/bHA-JoW3reE?t=776), stats)
 - His FG% is weak for a forward on real volume, so he hurts team FG%. (fact, 2026-10-04; [06-29](https://youtu.be/bHA-JoW3reE?t=776), stats)
 - He is a good free throw shooter. (fact, 2026-10-04; [06-29](https://youtu.be/bHA-JoW3reE?t=776), stats)
+- He has been much more available than Ja Morant. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=316))
 - His rim finishing has usually been in the mid-to-high 50s percent. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=950))
 - He has missed games in March and April in past seasons. (fact, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=799))
-- He has been much more available than Ja Morant. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=316))
 
 **Tags**
 - Current: `minutes competition` (unclear if he starts in a crowded Memphis forward group, with an 11-man rotation), `trade risk` (possible Memphis trade chip at the deadline)

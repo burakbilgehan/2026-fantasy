@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 65 | 26.8 | 51.1 (6.4) | 86.7 (0.5) | 1.7 | 8.6 | 6.4 | 2.6 | 0.6 | 1.0 | 0.7 |
-| 2024-25 | 60 | 27.7 | 42.3 (7.7) | 89.5 (0.6) | 1.9 | 9.0 | 6.2 | 2.1 | 0.6 | 0.8 | 0.8 |
-| 2025-26 | 45 | 21.6 | 42.6 (7.2) | 84.6 (0.6) | 1.6 | 8.3 | 4.9 | 2.6 | 0.7 | 1.1 | 0.9 |
-| 2026-27 proj, Yahoo | 53 | - | 43.8 (4.9) | 85.7 (0.4) | 1.2 | 5.8 | 3.8 | 1.6 | 0.4 | 0.7 | 0.6 |
 | 2026-27 proj, ESPN | 56 | 25.4 | 45.2 (7.1) | 85.3 (0.6) | 1.8 | 8.7 | 5.8 | 2.4 | 0.6 | 1.0 | 0.8 |
+| 2026-27 proj, Yahoo | 53 | - | 43.8 (4.9) | 85.7 (0.4) | 1.2 | 5.8 | 3.8 | 1.6 | 0.4 | 0.7 | 0.6 |
+| 2025-26 | 45 | 21.6 | 42.6 (7.2) | 84.6 (0.6) | 1.6 | 8.3 | 4.9 | 2.6 | 0.7 | 1.1 | 0.9 |
+| 2024-25 | 60 | 27.7 | 42.3 (7.7) | 89.5 (0.6) | 1.9 | 9.0 | 6.2 | 2.1 | 0.6 | 0.8 | 0.8 |
+| 2023-24 | 65 | 26.8 | 51.1 (6.4) | 86.7 (0.5) | 1.7 | 8.6 | 6.4 | 2.6 | 0.6 | 1.0 | 0.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,14 +30,14 @@
 </details>
 
 **Current**
-- Re-signed with Golden State for 2 years and 14 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=918))
 - Projected to start at center while Kristaps Porzingis is out. (fact, 2026-09-30, until Porzingis returns; [09-30](https://youtu.be/MUbNYdjpUDM?t=1610), [09-30](https://youtu.be/MUbNYdjpUDM?t=678))
 - Porzingis, when healthy, and Draymond Green playing center both compete with him for frontcourt minutes. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=678), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487), [06-30](https://youtu.be/4GDfg2n2l8o?t=1427))
 - Golden State has 15 back-to-backs, tied for second most, and he is expected to sit them. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=991), [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [09-30](https://youtu.be/MUbNYdjpUDM?t=1610))
-- Expected to play about 60 games. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=937))
 - Golden State is reportedly treating this season as a gap year and is worried about lottery odds. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140))
 - The team may rest veterans, and experts expect Warriors players to fade as the season goes on. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
 - Golden State's schedule is good for fantasy playoffs ending March 28. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
+- Expected to play about 60 games. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=937))
+- Re-signed with Golden State for 2 years and 14 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=918))
 - Not worth a pick in most fantasy leagues. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=918))
 
 **Durable**

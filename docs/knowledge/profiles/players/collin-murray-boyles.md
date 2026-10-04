@@ -3,9 +3,9 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 57 | 21.8 | 57.9 (6.0) | 65.7 (1.9) | 0.3 | 8.5 | 5.0 | 1.9 | 0.9 | 0.9 | 1.0 |
-| 2026-27 proj, Yahoo | 70 | - | 58.0 (7.4) | 65.8 (2.3) | 0.4 | 10.4 | 6.1 | 2.3 | 1.1 | 1.1 | 1.4 |
 | 2026-27 proj, ESPN | 66 | 22.9 | 57.9 (6.3) | 65.9 (2.0) | 0.3 | 8.9 | 5.2 | 1.9 | 1.0 | 1.0 | 1.1 |
+| 2026-27 proj, Yahoo | 70 | - | 58.0 (7.4) | 65.8 (2.3) | 0.4 | 10.4 | 6.1 | 2.3 | 1.1 | 1.1 | 1.4 |
+| 2025-26 | 57 | 21.8 | 57.9 (6.0) | 65.7 (1.9) | 0.3 | 8.5 | 5.0 | 1.9 | 0.9 | 0.9 | 1.0 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,14 +30,14 @@
 **Current**
 - Jakob Poeltl is projected to start at center. Murray-Boyles is expected to come off the bench but close games for the Raptors. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=378), [09-30](https://youtu.be/BjXP9JODDSg?t=1408), [09-14](https://youtu.be/t4n9MAP2_14?t=1924), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2045), [09-04](https://youtu.be/gerS7ibpaJo?t=1401), [08-26](https://youtu.be/sTtFUy7IoJI?t=980), [08-20](https://youtu.be/s28HvC2grAk?t=441), [08-20](https://youtu.be/s28HvC2grAk?t=496), [08-20](https://youtu.be/s28HvC2grAk?t=1066))
 - Experts expect 25 or more minutes a game, at least three more than last season. One preview expects close to 30 minutes as a super sub. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=378), [09-14](https://youtu.be/t4n9MAP2_14?t=1924), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2045), [09-04](https://youtu.be/gerS7ibpaJo?t=1401), [08-20](https://youtu.be/s28HvC2grAk?t=441), [08-20](https://youtu.be/s28HvC2grAk?t=969))
-- Sandro Mamukelashvili is no longer competing for his minutes, and his thumb injury from last season is behind him. (fact, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1401))
-- Toronto is not deep after its top seven, and Poeltl is the only seven-footer on the roster. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=2004), [08-20](https://youtu.be/s28HvC2grAk?t=839))
-- His usage is projected to rise from about 15% to about 18%. He is expected to have the ball more and score more. One expert predicts a top three Sixth Man of the Year finish. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=980), [08-20](https://youtu.be/s28HvC2grAk?t=1130))
-- He could average about 12 points, 7 rebounds and 1.5 blocks. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1413))
 - Experts see him as roughly a top 100 player as a baseline, with a range of top 100 to 120. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=378), [09-01](https://youtu.be/80kfLVnFQ_s?t=1449), [09-04](https://youtu.be/gerS7ibpaJo?t=1413), [08-26](https://youtu.be/sTtFUy7IoJI?t=1044))
 - If he plays 30 minutes a game, he could be a top 70 player. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=378))
 - His draft cost is around ADP 115 to the 120s. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=378), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2045))
 - He is a good late flyer. He has enough standalone value for rounds 10 to 11 even if you already have Poeltl, and one expert would draft him ahead of Poeltl. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1924), [08-11](https://youtu.be/OdDkXFhoKsc?t=1942), [09-04](https://youtu.be/gerS7ibpaJo?t=1401), [09-01](https://youtu.be/80kfLVnFQ_s?t=1449))
+- Sandro Mamukelashvili is no longer competing for his minutes, and his thumb injury from last season is behind him. (fact, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1401))
+- He could average about 12 points, 7 rebounds and 1.5 blocks. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1413))
+- His usage is projected to rise from about 15% to about 18%. He is expected to have the ball more and score more. One expert predicts a top three Sixth Man of the Year finish. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=980), [08-20](https://youtu.be/s28HvC2grAk?t=1130))
+- Toronto is not deep after its top seven, and Poeltl is the only seven-footer on the roster. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=2004), [08-20](https://youtu.be/s28HvC2grAk?t=839))
 - The Raptors have 15 back-to-backs, three of them in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
 
 **Durable**

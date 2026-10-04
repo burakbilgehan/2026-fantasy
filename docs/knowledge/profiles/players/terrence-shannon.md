@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 32 | 10.6 | 48.2 (3.6) | 81.0 (0.7) | 0.3 | 4.3 | 1.5 | 1.0 | 0.2 | 0.2 | 0.5 |
-| 2025-26 | 43 | 12.4 | 45.0 (4.0) | 80.0 (1.6) | 0.7 | 5.6 | 1.1 | 0.9 | 0.3 | 0.0 | 0.6 |
-| 2026-27 proj, Yahoo | 69 | - | 45.0 (8.6) | 80.8 (2.5) | 1.4 | 11.2 | 2.8 | 2.0 | 0.7 | 0.2 | 1.1 |
 | 2026-27 proj, ESPN | 69 | 20.7 | 45.3 (6.6) | 80.4 (2.6) | 1.2 | 9.2 | 2.0 | 1.5 | 0.5 | 0.1 | 0.9 |
+| 2026-27 proj, Yahoo | 69 | - | 45.0 (8.6) | 80.8 (2.5) | 1.4 | 11.2 | 2.8 | 2.0 | 0.7 | 0.2 | 1.1 |
+| 2025-26 | 43 | 12.4 | 45.0 (4.0) | 80.0 (1.6) | 0.7 | 5.6 | 1.1 | 0.9 | 0.3 | 0.0 | 0.6 |
+| 2024-25 | 32 | 10.6 | 48.2 (3.6) | 81.0 (0.7) | 0.3 | 4.3 | 1.5 | 1.0 | 0.2 | 0.2 | 0.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,14 +29,14 @@
 </details>
 
 **Current**
-- He could be a bench microwave scorer for Minnesota and is an outside option for the open starting spot. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=539))
-- Four Minnesota starters are set: LaMelo Ball, Anthony Edwards, Jaden McDaniels and Rudy Gobert. The fifth starting spot is open. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=603))
+- He is ranked well outside the 144 players drafted in our league. He is not a draft target, but he is worth watching on waivers if he wins a role. (verdict, 2026-10-04; stats, [08-19](https://youtu.be/2mxpEpGU3H8?t=539))
+- Minnesota plays only two games in the week starting March 15, which is week 20 of our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
 - Jonathan Kuminga is expected to take a starting spot, and Josh Green might start too. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=576))
 - Minnesota may need to trade Josh Green to afford the Kuminga signing. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1577))
+- He could be a bench microwave scorer for Minnesota and is an outside option for the open starting spot. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=539))
+- Four Minnesota starters are set: LaMelo Ball, Anthony Edwards, Jaden McDaniels and Rudy Gobert. The fifth starting spot is open. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=603))
 - Minnesota's bench is thin and has little scoring punch. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=845))
 - Donte DiVincenzo will miss most of the season and Mike Conley is gone, so there are fewer guards ahead of him. (fact, 2026-08-19; [06-22](https://youtu.be/HxQjagSTTAM?t=883), [06-23](https://youtu.be/9tb1ARBEmQU?t=263), [08-19](https://youtu.be/2mxpEpGU3H8?t=236))
-- Minnesota plays only two games in the week starting March 15, which is week 20 of our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
-- He is ranked well outside the 144 players drafted in our league. He is not a draft target, but he is worth watching on waivers if he wins a role. (verdict, 2026-10-04; stats, [08-19](https://youtu.be/2mxpEpGU3H8?t=539))
 
 **Durable**
 - none

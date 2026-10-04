@@ -11,19 +11,19 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Nikola Vucevic, PF Tristan da Silva, PG Anthony Black, SF Noah Penda, SG Jevon Carter
 
 **Current**
+- Orlando has 11 games in the fantasy playoff weeks, 4th most in the league. Weeks 20 and 21 have 4 games each. Week 21 has no back-to-back. (fact, 2026-10-04; stats)
+- Orlando has 14 back-to-backs, about the league average, so rest risk is normal. (verdict, 2026-10-04; stats)
+- Wendell Carter Jr. is the starting center. Nikola Vucevic is his backup. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1307), [07-05](https://youtu.be/4kKINkZhWls?t=3135), stats)
+- Goga Bitadze will still get some minutes at center, so the center minutes are split three ways. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1307))
 - Sean Sweeney is the new head coach. He replaces Jamahl Mosley. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
 - Player roles may change under the new coach. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
 - The projected starters are Jalen Suggs, Desmond Bane, Franz Wagner, Paolo Banchero and Wendell Carter Jr. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557), stats)
 - This starting group was very good when it played together. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
-- Wendell Carter Jr. is the starting center. Nikola Vucevic is his backup. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1307), [07-05](https://youtu.be/4kKINkZhWls?t=3135), stats)
-- Goga Bitadze will still get some minutes at center, so the center minutes are split three ways. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1307))
 - Vucevic came back on a minimum deal to add bench scoring. The bench was one of the weakest scoring units in the league. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=433), [07-05](https://youtu.be/4kKINkZhWls?t=3135))
-- Orlando re-signed Jonathan Isaac. (fact, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=3135))
 - Orlando is 2.5 million USD under the second apron. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1259))
 - Because of the apron, Orlando will likely have to choose between keeping Jalen Suggs and keeping Anthony Black. That makes a trade of one of them possible. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1259))
 - The expert predicts 47 or 48 wins and the 6th seed, which avoids the play-in. The betting win total of 43.5 is in the middle of the league. Tanking or resting players late in the season looks unlikely. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2156), stats)
-- Orlando has 11 games in the fantasy playoff weeks, 4th most in the league. Weeks 20 and 21 have 4 games each. Week 21 has no back-to-back. (fact, 2026-10-04; stats)
-- Orlando has 14 back-to-backs, about the league average, so rest risk is normal. (verdict, 2026-10-04; stats)
+- Orlando re-signed Jonathan Isaac. (fact, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=3135))
 
 **Durable**
 - none

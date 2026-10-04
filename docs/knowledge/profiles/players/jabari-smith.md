@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 76 | 31.9 | 45.4 (11.0) | 81.1 (2.4) | 1.8 | 13.7 | 8.1 | 1.6 | 0.7 | 0.8 | 1.2 |
-| 2024-25 | 57 | 30.1 | 43.8 (9.9) | 82.5 (2.2) | 1.7 | 12.2 | 7.0 | 1.1 | 0.4 | 0.7 | 1.1 |
-| 2025-26 | 77 | 35.1 | 44.9 (12.7) | 77.5 (2.7) | 2.3 | 15.8 | 6.9 | 1.9 | 0.7 | 0.9 | 1.4 |
-| 2026-27 proj, Yahoo | 73 | - | 44.7 (12.7) | 79.1 (2.8) | 2.2 | 15.7 | 7.3 | 1.7 | 0.7 | 0.9 | 1.4 |
 | 2026-27 proj, ESPN | 73 | 32.1 | 44.8 (11.3) | 78.7 (2.5) | 2.0 | 14.1 | 6.8 | 1.6 | 0.6 | 0.8 | 1.2 |
+| 2026-27 proj, Yahoo | 73 | - | 44.7 (12.7) | 79.1 (2.8) | 2.2 | 15.7 | 7.3 | 1.7 | 0.7 | 0.9 | 1.4 |
+| 2025-26 | 77 | 35.1 | 44.9 (12.7) | 77.5 (2.7) | 2.3 | 15.8 | 6.9 | 1.9 | 0.7 | 0.9 | 1.4 |
+| 2024-25 | 57 | 30.1 | 43.8 (9.9) | 82.5 (2.2) | 1.7 | 12.2 | 7.0 | 1.1 | 0.4 | 0.7 | 1.1 |
+| 2023-24 | 76 | 31.9 | 45.4 (11.0) | 81.1 (2.4) | 1.8 | 13.7 | 8.1 | 1.6 | 0.7 | 0.8 | 1.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,23 +30,23 @@
 </details>
 
 **Current**
+- Drafting him around rank 96 is reasonable, but a pick around ESPN's 122 is a better price. Josh believes he can deliver as a late pick. (verdict, 2026-10-02; [10-01](https://youtu.be/aLP080hxizA?t=938), [10-02](https://youtu.be/ZYllcj4o6_A?t=1787))
 - He is a locked-in starter for Houston. Tari Eason has not passed him on the depth chart, and Lloyd's projected starting five is VanVleet, Thompson, Durant, Smith and Sengun. (fact, 2026-10-01; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=398), [10-01](https://youtu.be/aLP080hxizA?t=328), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357))
 - His minutes are stable and higher than Sengun's. Coach Ime Udoka plays his starters very heavy minutes. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=990), [10-01](https://youtu.be/aLP080hxizA?t=146), [09-09](https://youtu.be/7BllEsdNLoM?t=2451))
-- With Steven Adams back, he plays more power forward than center. (fact, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
-- He is not a high-usage player. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=464))
 - Lloyd sees no reason to expect more blocks, more steals or higher usage this season. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=990))
-- Drafting him around rank 96 is reasonable, but a pick around ESPN's 122 is a better price. Josh believes he can deliver as a late pick. (verdict, 2026-10-02; [10-01](https://youtu.be/aLP080hxizA?t=938), [10-02](https://youtu.be/ZYllcj4o6_A?t=1787))
 - With a March 28 end date, Houston has a weak 3-3-4 fantasy playoff schedule, 10 games over weeks 19 to 21. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
 - Houston has only 14 back-to-backs this season. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011))
+- He is not a high-usage player. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=464))
+- With Steven Adams back, he plays more power forward than center. (fact, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
 
 **Durable**
+- His FG% is weak for a forward or center, while he makes many threes for his position. (fact, 2026-10-04; stats, [08-12](https://youtu.be/yoCTTlJ_tPQ?t=464))
+- Josh and Lloyd both call him a boring fantasy pick. (verdict, 2026-10-01; [08-11](https://youtu.be/OdDkXFhoKsc?t=1902), [10-01](https://youtu.be/aLP080hxizA?t=938))
 - He is a 3-and-D role player who is around average in many areas. Smaller, quick guards can beat him on the perimeter. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=497))
 - He will never be a star. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=497))
 - His interior defense, rim deterrence and weak-side shot blocking have grown a lot. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=537))
 - He shot only about 35% on open and wide-open threes, below league average. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=591))
 - He needs to become a more reliable shooter. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=591))
-- His FG% is weak for a forward or center, while he makes many threes for his position. (fact, 2026-10-04; stats, [08-12](https://youtu.be/yoCTTlJ_tPQ?t=464))
-- Josh and Lloyd both call him a boring fantasy pick. (verdict, 2026-10-01; [08-11](https://youtu.be/OdDkXFhoKsc?t=1902), [10-01](https://youtu.be/aLP080hxizA?t=938))
 
 **Tags**
 - Current: `bad playoff schedule` (3-3-4, 10 games in weeks 19 to 21 with a March 28 end), `few back-to-backs` (Houston has only 14 back-to-backs)

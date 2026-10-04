@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 55 | 32.4 | 57.0 (13.6) | 82.3 (1.4) | 0.0 | 16.7 | 11.1 | 1.6 | 1.0 | 0.8 | 1.8 |
-| 2024-25 | 40 | 30.2 | 56.6 (11.7) | 66.7 (1.5) | 0.1 | 14.4 | 10.2 | 1.6 | 0.8 | 1.0 | 1.7 |
-| 2025-26 | 72 | 27.3 | 67.1 (8.3) | 64.5 (2.0) | 0.0 | 12.5 | 8.0 | 0.8 | 0.6 | 1.0 | 1.2 |
-| 2026-27 proj, Yahoo | 66 | - | 62.1 (6.8) | 67.8 (1.4) | 0.0 | 9.4 | 6.9 | 0.9 | 0.5 | 0.7 | 1.1 |
 | 2026-27 proj, ESPN | 64 | 23.8 | 60.9 (8.6) | 68.9 (1.4) | 0.0 | 11.5 | 7.6 | 1.0 | 0.6 | 0.7 | 1.2 |
+| 2026-27 proj, Yahoo | 66 | - | 62.1 (6.8) | 67.8 (1.4) | 0.0 | 9.4 | 6.9 | 0.9 | 0.5 | 0.7 | 1.1 |
+| 2025-26 | 72 | 27.3 | 67.1 (8.3) | 64.5 (2.0) | 0.0 | 12.5 | 8.0 | 0.8 | 0.6 | 1.0 | 1.2 |
+| 2024-25 | 40 | 30.2 | 56.6 (11.7) | 66.7 (1.5) | 0.1 | 14.4 | 10.2 | 1.6 | 0.8 | 1.0 | 1.7 |
+| 2023-24 | 55 | 32.4 | 57.0 (13.6) | 82.3 (1.4) | 0.0 | 16.7 | 11.1 | 1.6 | 1.0 | 0.8 | 1.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -34,8 +34,8 @@
 - Washington lacks depth at center behind Sarr and Davis. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=248))
 - Davis's health is a question. Because of it, Ayton could get 30-minute roles at times. (verdict, 2026-07-23; [07-16](https://youtu.be/-y6p5PYLf00?t=1631), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802), [07-16](https://youtu.be/-y6p5PYLf00?t=1626))
 - The expert says he is no longer the player he was in Phoenix. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=267))
-- His FG% jump last season may have come partly from playing with Luka. He now plays with Trae Young. The expert says not to automatically expect a big FG% drop. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1631))
 - Washington is trying to compete this season. The expert says fantasy managers should no longer face the late-season resting and minutes cuts of past years. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185))
+- His FG% jump last season may have come partly from playing with Luka. He now plays with Trae Young. The expert says not to automatically expect a big FG% drop. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1631))
 
 **Durable**
 - He makes almost no threes. (fact, 2026-10-04; stats)

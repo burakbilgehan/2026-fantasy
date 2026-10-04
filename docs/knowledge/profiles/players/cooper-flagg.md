@@ -3,9 +3,9 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 70 | 33.6 | 46.8 (17.1) | 82.7 (4.9) | 1.0 | 21.0 | 6.7 | 4.5 | 1.2 | 0.9 | 2.3 |
-| 2026-27 proj, Yahoo | 75 | - | 47.4 (18.1) | 84.0 (5.4) | 1.3 | 23.0 | 7.7 | 5.0 | 1.3 | 1.0 | 2.6 |
 | 2026-27 proj, ESPN | 72 | 35.5 | 46.8 (18.0) | 82.9 (5.2) | 1.1 | 22.3 | 7.0 | 4.8 | 1.3 | 1.0 | 2.4 |
+| 2026-27 proj, Yahoo | 75 | - | 47.4 (18.1) | 84.0 (5.4) | 1.3 | 23.0 | 7.7 | 5.0 | 1.3 | 1.0 | 2.6 |
+| 2025-26 | 70 | 33.6 | 46.8 (17.1) | 82.7 (4.9) | 1.0 | 21.0 | 6.7 | 4.5 | 1.2 | 0.9 | 2.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -32,23 +32,23 @@
 - A role at the four next to Dallas's other power forwards would be a worse fantasy situation for him than a ball-handling role. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=170))
 - Dallas has very few ball handlers. Besides Kyrie Irving, almost every player is a power forward. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=134), [07-27](https://youtu.be/0AptxcRW0RE?t=413))
 - Flagg is the first priority on offense, ahead of Kyrie Irving. Kyrie's return may cut his assists and usage a little, but should take shots mostly from other players. (verdict, 2026-09-29; [09-16](https://youtu.be/2A2JbUN-kc0?t=480), [09-16](https://youtu.be/2A2JbUN-kc0?t=488), [09-10](https://youtu.be/dlo7L8Ru91A?t=345), [09-10](https://youtu.be/dlo7L8Ru91A?t=353), [09-21](https://youtu.be/egRrai3Ax38?t=1081), [07-14](https://youtu.be/xHRF06_E9HE?t=417), [09-29](https://youtu.be/XSPJL_mlFXo?t=561))
-- Dallas has too many power forwards, so he will not get many chances for big block numbers. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=371), [09-10](https://youtu.be/dlo7L8Ru91A?t=353))
 - Experts expect him to start the season near the level he ended last season at. They expect his scoring and efficiency to rise, his assists to go over 5, and possibly more steals or blocks. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=561), [09-04](https://youtu.be/gerS7ibpaJo?t=803), [07-14](https://youtu.be/xHRF06_E9HE?t=365))
-- The main worry is whether his shooting improves. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=345))
-- Dusty May says he will push Flagg to take more threes. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=1073))
 - Experts value him as a late first round pick, around picks 9 to 12 in 9-cat. Several call him a bargain at his ADP and a likely top 10 or top 12 player. One expert would take him as high as pick 9. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=455), [09-29](https://youtu.be/XSPJL_mlFXo?t=561), [09-24](https://youtu.be/_vbAP5y182A?t=406), [09-23](https://youtu.be/C4vlgpJ62NI?t=2239), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2165), [09-16](https://youtu.be/2A2JbUN-kc0?t=480), [09-14](https://youtu.be/LM0cRCGoAUQ?t=417), [09-10](https://youtu.be/W-R1dzem32s?t=380), [09-04](https://youtu.be/gerS7ibpaJo?t=764), [09-10](https://youtu.be/dlo7L8Ru91A?t=345), [09-21](https://youtu.be/egRrai3Ax38?t=1081), [08-19](https://youtu.be/J1Eg3uaAICU?t=650))
-- An average auction price of 60 USD is way too high for him. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=793))
 - Dallas plays 4 games in each of the fantasy playoff weeks, the best playoff schedule in the league. It also has a league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
+- Dallas has too many power forwards, so he will not get many chances for big block numbers. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=371), [09-10](https://youtu.be/dlo7L8Ru91A?t=353))
+- The main worry is whether his shooting improves. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=345))
+- An average auction price of 60 USD is way too high for him. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=793))
 - Dallas plays only two games in the week starting March 1, the week before our fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1373), [08-16](https://youtu.be/gf_6GveiAls?t=1343))
+- Dusty May says he will push Flagg to take more threes. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=1073))
 
 **Durable**
-- Won Rookie of the Year. Finished 36th in category leagues as a rookie and 14th over the final two months, when Dallas gave him heavy usage (31% after the deadline). (fact, 2026-09-16; [09-03](https://youtu.be/OBwWCxG9SqM?t=899), [07-27](https://youtu.be/0AptxcRW0RE?t=1010), [07-14](https://youtu.be/xHRF06_E9HE?t=346), [09-16](https://youtu.be/2A2JbUN-kc0?t=480))
-- A 6'11 forward who handles the ball, scores and distributes on high usage, and protects the rim from the weak side on defense. He did less rim protecting as a rookie than expected. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=160), [06-25](https://youtu.be/lOshTzDA4SA?t=1805), [07-27](https://youtu.be/0AptxcRW0RE?t=664), [07-14](https://youtu.be/xHRF06_E9HE?t=441))
-- Experts call him a budding superstar. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=441))
-- Playing more on the perimeter would likely hurt his rebounds and blocks. Playing at the four would not hurt his assists. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=160))
-- Three-point shooting is a weakness. He shot about 27 to 29% from three as a rookie. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=1073), [07-14](https://youtu.be/xHRF06_E9HE?t=346))
 - Broad category profile with no league outlier. He is above his position in points, rebounds, assists, steals and blocks. Turnovers are his one weak category. (fact, 2026-10-04; stats)
+- A 6'11 forward who handles the ball, scores and distributes on high usage, and protects the rim from the weak side on defense. He did less rim protecting as a rookie than expected. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=160), [06-25](https://youtu.be/lOshTzDA4SA?t=1805), [07-27](https://youtu.be/0AptxcRW0RE?t=664), [07-14](https://youtu.be/xHRF06_E9HE?t=441))
+- Playing more on the perimeter would likely hurt his rebounds and blocks. Playing at the four would not hurt his assists. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=160))
 - He is worth more in points leagues than in category leagues. (verdict, 2026-09-29; [09-14](https://youtu.be/LM0cRCGoAUQ?t=417), [09-29](https://youtu.be/XSPJL_mlFXo?t=455))
+- Won Rookie of the Year. Finished 36th in category leagues as a rookie and 14th over the final two months, when Dallas gave him heavy usage (31% after the deadline). (fact, 2026-09-16; [09-03](https://youtu.be/OBwWCxG9SqM?t=899), [07-27](https://youtu.be/0AptxcRW0RE?t=1010), [07-14](https://youtu.be/xHRF06_E9HE?t=346), [09-16](https://youtu.be/2A2JbUN-kc0?t=480))
+- Three-point shooting is a weakness. He shot about 27 to 29% from three as a rookie. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=1073), [07-14](https://youtu.be/xHRF06_E9HE?t=346))
+- Experts call him a budding superstar. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=441))
 
 **Tags**
 - Current: `breakout` (Second-year jump expected in scoring, efficiency and assists), `expert target` (Called a bargain at ADP and a likely top 10 to 12 player, mostly against his ESPN price), `sites disagree on price` (Yahoo average cost 50.6 USD and ADP 10, ESPN 41.5 USD and ADP 17), `good playoff schedule` (Dallas plays 4-4-4 in the playoff weeks)

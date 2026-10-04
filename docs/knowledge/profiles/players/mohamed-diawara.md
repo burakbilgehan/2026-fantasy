@@ -3,8 +3,8 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 69 | 9.2 | 42.3 (3.1) | 75.0 (0.3) | 0.7 | 3.6 | 1.4 | 0.8 | 0.2 | 0.1 | 0.4 |
 | 2026-27 proj, ESPN | 69 | 9.2 | 42.1 (3.1) | 76.2 (0.3) | 0.7 | 3.5 | 1.4 | 0.8 | 0.2 | 0.1 | 0.4 |
+| 2025-26 | 69 | 9.2 | 42.3 (3.1) | 75.0 (0.3) | 0.7 | 3.6 | 1.4 | 0.8 | 0.2 | 0.1 | 0.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -27,15 +27,15 @@
 </details>
 
 **Current**
-- He signed a 4-year, 10 million dollar contract with the Knicks. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=796))
+- He is not a draft target in a 12-team league. Both sites value him at 0 USD. (verdict, 2026-10-04; stats)
 - He has no starting role. The projected Knicks starters are Brunson, Bridges, Hart, Anunoby and Towns. (fact, 2026-08-13; [07-01](https://youtu.be/W3THnI7wWdA?t=796), [08-13](https://youtu.be/okN3fbHJtlA?t=317))
 - He had a very poor Summer League: 2 points per game, 7% from the field and no made two-pointers. (fact, 2026-08-13; [07-23](https://youtu.be/LUTYUdXBG1M?t=881), [08-13](https://youtu.be/okN3fbHJtlA?t=1352))
 - He is a wing to watch this season who may need to step up for the Knicks. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=1352))
-- He is not a draft target in a 12-team league. Both sites value him at 0 USD. (verdict, 2026-10-04; stats)
+- He signed a 4-year, 10 million dollar contract with the Knicks. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=796))
 
 **Durable**
-- The expert sees him as a future starting-caliber wing and still likes him long term. He must be rostered in very deep dynasty leagues. (verdict, 2026-07-23; [07-01](https://youtu.be/W3THnI7wWdA?t=796), [07-23](https://youtu.be/LUTYUdXBG1M?t=881))
 - In his small role he gives very little in points, rebounds and steals, far below the top 250 pool. (fact, 2026-10-04; stats)
+- The expert sees him as a future starting-caliber wing and still likes him long term. He must be rostered in very deep dynasty leagues. (verdict, 2026-07-23; [07-01](https://youtu.be/W3THnI7wWdA?t=796), [07-23](https://youtu.be/LUTYUdXBG1M?t=881))
 
 **Tags**
 - Current: `waiver watch` (Bench wing with no starting role. Watch his minutes early in the season.)

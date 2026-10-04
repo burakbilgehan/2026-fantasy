@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 23 | 8.4 | 50.9 (2.4) | 94.1 (0.7) | 0.4 | 3.6 | 2.1 | 0.6 | 0.2 | 0.1 | 0.3 |
-| 2024-25 | 56 | 13.6 | 45.8 (3.2) | 69.0 (0.8) | 0.6 | 4.1 | 3.1 | 1.4 | 0.4 | 0.2 | 0.8 |
-| 2025-26 | 68 | 20.6 | 50.0 (6.8) | 72.5 (1.8) | 1.1 | 9.2 | 3.9 | 2.3 | 0.9 | 0.3 | 1.5 |
-| 2026-27 proj, Yahoo | 68 | - | 48.4 (5.5) | 70.1 (1.4) | 1.0 | 7.3 | 3.7 | 2.1 | 0.8 | 0.2 | 1.0 |
 | 2026-27 proj, ESPN | 66 | 23.9 | 46.5 (5.7) | 72.8 (1.4) | 1.1 | 7.4 | 5.4 | 2.4 | 0.8 | 0.3 | 1.3 |
+| 2026-27 proj, Yahoo | 68 | - | 48.4 (5.5) | 70.1 (1.4) | 1.0 | 7.3 | 3.7 | 2.1 | 0.8 | 0.2 | 1.0 |
+| 2025-26 | 68 | 20.6 | 50.0 (6.8) | 72.5 (1.8) | 1.1 | 9.2 | 3.9 | 2.3 | 0.9 | 0.3 | 1.5 |
+| 2024-25 | 56 | 13.6 | 45.8 (3.2) | 69.0 (0.8) | 0.6 | 4.1 | 3.1 | 1.4 | 0.4 | 0.2 | 0.8 |
+| 2023-24 | 23 | 8.4 | 50.9 (2.4) | 94.1 (0.7) | 0.4 | 3.6 | 2.1 | 0.6 | 0.2 | 0.1 | 0.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,20 +30,20 @@
 </details>
 
 **Current**
-- He is projected to come off the bench. The projected Golden State starters are Curry, Podziemski, Lendeborg, Green and Horford. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=278), [09-30](https://youtu.be/MUbNYdjpUDM?t=678))
 - He might still start. Golden State may treat this as a gap year and rest veterans, and those rest days should give him enough minutes. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1073), [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140))
-- He competes with Yaxel Lendeborg for the same starting role. The more Draymond Green plays center, the more minutes open up for both. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=678), [09-10](https://youtu.be/dlo7L8Ru91A?t=1791), [08-24](https://youtu.be/g31YlwRe0XQ?t=2430))
-- Golden State's depth is very poor. They struggle to field a 10-man rotation, so minutes should go up across the rotation. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
-- Steve Kerr often names a starting lineup and changes it a few games later. Expect a lot of mixing among the wings. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=301), [09-30](https://youtu.be/MUbNYdjpUDM?t=237))
-- Jimmy Butler is out for at least half the season. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1876))
-- Butler's return will shake up the wing rotation again. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1520), [07-14](https://youtu.be/xHRF06_E9HE?t=1562))
-- After last season's trade deadline he ranked 72nd. He played 31 minutes a game and averaged 15 points, 6 rebounds, 4 assists and 1.5 steals. (fact, 2026-09-10; [07-14](https://youtu.be/xHRF06_E9HE?t=1405), [09-10](https://youtu.be/dlo7L8Ru91A?t=1791))
-- Some of his shooting last season was fluky. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1791))
-- He is worth a late flyer pick in rounds 11 to 13. With Porzingis out, his usage could go above 20, and he could be top 70 after the trade deadline. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1306), [09-10](https://youtu.be/dlo7L8Ru91A?t=1791), [08-24](https://youtu.be/g31YlwRe0XQ?t=2430))
-- The experts suggest drafting him together with Lendeborg as a hedge and keeping whichever one wins the role. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1791), [08-24](https://youtu.be/g31YlwRe0XQ?t=2430))
 - Josh still prefers Podziemski and Lendeborg to Santos. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1073))
+- He is projected to come off the bench. The projected Golden State starters are Curry, Podziemski, Lendeborg, Green and Horford. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=278), [09-30](https://youtu.be/MUbNYdjpUDM?t=678))
+- He competes with Yaxel Lendeborg for the same starting role. The more Draymond Green plays center, the more minutes open up for both. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=678), [09-10](https://youtu.be/dlo7L8Ru91A?t=1791), [08-24](https://youtu.be/g31YlwRe0XQ?t=2430))
+- Steve Kerr often names a starting lineup and changes it a few games later. Expect a lot of mixing among the wings. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=301), [09-30](https://youtu.be/MUbNYdjpUDM?t=237))
+- He is worth a late flyer pick in rounds 11 to 13. With Porzingis out, his usage could go above 20, and he could be top 70 after the trade deadline. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1306), [09-10](https://youtu.be/dlo7L8Ru91A?t=1791), [08-24](https://youtu.be/g31YlwRe0XQ?t=2430))
 - Golden State has 15 back-to-backs, tied for second most in the league. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [08-16](https://youtu.be/gf_6GveiAls?t=991))
 - Golden State's schedule is good for fantasy playoffs that end on March 28. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
+- After last season's trade deadline he ranked 72nd. He played 31 minutes a game and averaged 15 points, 6 rebounds, 4 assists and 1.5 steals. (fact, 2026-09-10; [07-14](https://youtu.be/xHRF06_E9HE?t=1405), [09-10](https://youtu.be/dlo7L8Ru91A?t=1791))
+- Some of his shooting last season was fluky. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1791))
+- The experts suggest drafting him together with Lendeborg as a hedge and keeping whichever one wins the role. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1791), [08-24](https://youtu.be/g31YlwRe0XQ?t=2430))
+- Golden State's depth is very poor. They struggle to field a 10-man rotation, so minutes should go up across the rotation. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
+- Jimmy Butler is out for at least half the season. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1876))
+- Butler's return will shake up the wing rotation again. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1520), [07-14](https://youtu.be/xHRF06_E9HE?t=1562))
 
 **Durable**
 - He can create his own shot, which almost nobody else on Golden State besides Curry can do. He also has size. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1289), [09-10](https://youtu.be/W-R1dzem32s?t=1810))

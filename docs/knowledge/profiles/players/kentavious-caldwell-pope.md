@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 76 | 31.6 | 46.0 (7.7) | 89.4 (1.5) | 1.6 | 10.1 | 2.4 | 2.4 | 1.3 | 0.6 | 1.0 |
-| 2024-25 | 77 | 29.6 | 43.9 (7.1) | 86.3 (1.2) | 1.5 | 8.7 | 2.2 | 1.8 | 1.3 | 0.4 | 0.8 |
-| 2025-26 | 51 | 21.3 | 41.0 (7.2) | 91.2 (1.6) | 1.1 | 8.4 | 2.5 | 2.7 | 0.8 | 0.2 | 1.2 |
-| 2026-27 proj, Yahoo | 64 | - | 46.3 (5.8) | 86.1 (1.1) | 1.0 | 7.3 | 1.9 | 1.5 | 0.7 | 0.2 | 0.9 |
 | 2026-27 proj, ESPN | 68 | 23.6 | 43.8 (6.2) | 89.0 (1.2) | 1.2 | 7.7 | 2.0 | 1.9 | 1.0 | 0.3 | 0.8 |
+| 2026-27 proj, Yahoo | 64 | - | 46.3 (5.8) | 86.1 (1.1) | 1.0 | 7.3 | 1.9 | 1.5 | 0.7 | 0.2 | 0.9 |
+| 2025-26 | 51 | 21.3 | 41.0 (7.2) | 91.2 (1.6) | 1.1 | 8.4 | 2.5 | 2.7 | 0.8 | 0.2 | 1.2 |
+| 2024-25 | 77 | 29.6 | 43.9 (7.1) | 86.3 (1.2) | 1.5 | 8.7 | 2.2 | 1.8 | 1.3 | 0.4 | 0.8 |
+| 2023-24 | 76 | 31.6 | 46.0 (7.7) | 89.4 (1.5) | 1.6 | 10.1 | 2.4 | 2.4 | 1.3 | 0.6 | 1.0 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,11 +30,11 @@
 </details>
 
 **Current**
+- Philadelphia has 13 back-to-backs, and three of them fall in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148))
 - He joined Philadelphia this offseason. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=141))
 - He is not in the projected Philadelphia starting five. He said himself that the young guy should start over him. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=534), [08-06](https://youtu.be/gTsfR5PxAMY?t=412))
 - Experts are not sure he has anything left. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=534))
 - Nick Nurse plays his starters very heavy minutes and the Philadelphia guard rotation is crowded. That leaves little room for a bench guard. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=556), [08-02](https://youtu.be/TOn-D1SV7a8?t=1033))
-- Philadelphia has 13 back-to-backs, and three of them fall in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148))
 
 **Durable**
 - none

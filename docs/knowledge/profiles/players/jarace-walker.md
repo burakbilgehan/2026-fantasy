@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 33 | 10.3 | 40.9 (3.3) | 88.9 (0.3) | 0.7 | 3.6 | 1.9 | 1.2 | 0.5 | 0.3 | 0.5 |
-| 2024-25 | 75 | 15.9 | 47.2 (4.8) | 66.7 (0.9) | 1.0 | 6.1 | 3.1 | 1.5 | 0.7 | 0.3 | 1.0 |
-| 2025-26 | 76 | 25.7 | 41.9 (9.6) | 74.9 (2.4) | 1.8 | 11.6 | 5.1 | 2.5 | 0.8 | 0.3 | 1.8 |
-| 2026-27 proj, Yahoo | 70 | - | 42.5 (8.2) | 80.5 (2.2) | 1.6 | 10.3 | 4.4 | 2.0 | 0.9 | 0.4 | 1.5 |
 | 2026-27 proj, ESPN | 63 | 18.6 | 43.6 (6.3) | 72.7 (1.4) | 1.2 | 7.7 | 3.6 | 1.8 | 0.7 | 0.3 | 1.2 |
+| 2026-27 proj, Yahoo | 70 | - | 42.5 (8.2) | 80.5 (2.2) | 1.6 | 10.3 | 4.4 | 2.0 | 0.9 | 0.4 | 1.5 |
+| 2025-26 | 76 | 25.7 | 41.9 (9.6) | 74.9 (2.4) | 1.8 | 11.6 | 5.1 | 2.5 | 0.8 | 0.3 | 1.8 |
+| 2024-25 | 75 | 15.9 | 47.2 (4.8) | 66.7 (0.9) | 1.0 | 6.1 | 3.1 | 1.5 | 0.7 | 0.3 | 1.0 |
+| 2023-24 | 33 | 10.3 | 40.9 (3.3) | 88.9 (0.3) | 0.7 | 3.6 | 1.9 | 1.2 | 0.5 | 0.3 | 0.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -31,8 +31,8 @@
 
 **Current**
 - He is projected as a bench player. He is listed last in the Pacers bench rotation, behind Oubre, Toppin, Huff and McConnell. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1308))
-- He started last season badly but finished it strongly, ranking 96th after the trade deadline. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=344), [07-14](https://youtu.be/xHRF06_E9HE?t=1660))
 - The experts do not expect him to repeat his late-season run. Last season's numbers came on a bad team. One expert has no fantasy interest in him and says to avoid him. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1765), [07-14](https://youtu.be/xHRF06_E9HE?t=1660))
+- He started last season badly but finished it strongly, ranking 96th after the trade deadline. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=344), [07-14](https://youtu.be/xHRF06_E9HE?t=1660))
 
 **Durable**
 - He has significant efficiency issues. Experts call both his FG% and his FT% poor. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1678), [08-10](https://youtu.be/sfCe7fS9daM?t=398))

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 82 | 29.4 | 53.0 (11.6) | 79.3 (3.4) | 1.6 | 16.5 | 7.9 | 2.4 | 0.6 | 2.3 | 1.6 |
-| 2024-25 | 32 | 27.4 | 49.0 (10.7) | 75.4 (4.2) | 1.4 | 15.0 | 8.0 | 2.0 | 0.7 | 2.2 | 1.8 |
-| 2025-26 | 69 | 28.9 | 55.7 (11.3) | 79.2 (4.1) | 1.3 | 17.1 | 8.9 | 1.7 | 0.6 | 1.9 | 1.6 |
-| 2026-27 proj, Yahoo | 69 | - | 53.8 (11.7) | 78.4 (4.1) | 1.4 | 17.2 | 9.6 | 2.0 | 0.7 | 2.1 | 1.7 |
 | 2026-27 proj, ESPN | 65 | 28.9 | 53.6 (11.3) | 78.5 (3.8) | 1.4 | 16.5 | 8.4 | 2.0 | 0.6 | 2.1 | 1.6 |
+| 2026-27 proj, Yahoo | 69 | - | 53.8 (11.7) | 78.4 (4.1) | 1.4 | 17.2 | 9.6 | 2.0 | 0.7 | 2.1 | 1.7 |
+| 2025-26 | 69 | 28.9 | 55.7 (11.3) | 79.2 (4.1) | 1.3 | 17.1 | 8.9 | 1.7 | 0.6 | 1.9 | 1.6 |
+| 2024-25 | 32 | 27.4 | 49.0 (10.7) | 75.4 (4.2) | 1.4 | 15.0 | 8.0 | 2.0 | 0.7 | 2.2 | 1.8 |
+| 2023-24 | 82 | 29.4 | 53.0 (11.6) | 79.3 (3.4) | 1.6 | 16.5 | 7.9 | 2.4 | 0.6 | 2.3 | 1.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,18 +30,18 @@
 </details>
 
 **Current**
+- Experts expect him to keep improving. He is not yet in his prime, the coach trusts him to improve over the summer, and one expert says people are overreacting to his playoff games. (verdict, 2026-09-21; [07-26](https://youtu.be/75Sk_4fkgIM?t=1667), [07-26](https://youtu.be/75Sk_4fkgIM?t=1641), [09-21](https://youtu.be/egRrai3Ax38?t=1403))
 - Experts say his Yahoo price is too high for category leagues. Yahoo ranks him 27th with an ADP of about 21 to 23, and taking him in round two is called close to league losing. (verdict, 2026-09-19; [09-14](https://youtu.be/t4n9MAP2_14?t=877), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1109), [09-19](https://youtu.be/uarqbNA2dFk?t=463))
 - ESPN's rank of 51 is called a fair price for him. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=463))
-- In a 14-team 9-cat mock draft, the expert said even pick 98 felt early for him. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=1715))
 - He finished about 47th per game last season. (fact, 2026-09-19; [08-19](https://youtu.be/J1Eg3uaAICU?t=697), [09-19](https://youtu.be/uarqbNA2dFk?t=463))
-- He had a poor playoff series against San Antonio. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1667))
-- Experts expect him to keep improving. He is not yet in his prime, the coach trusts him to improve over the summer, and one expert says people are overreacting to his playoff games. (verdict, 2026-09-21; [07-26](https://youtu.be/75Sk_4fkgIM?t=1667), [07-26](https://youtu.be/75Sk_4fkgIM?t=1641), [09-21](https://youtu.be/egRrai3Ax38?t=1403))
-- One expert feels good about him keeping his block numbers this season. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=1904))
 - OKC's center rotation is Hartenstein, Holmgren and Jaylin Williams, and Hartenstein's role looks secure. (fact, 2026-09-17; [07-21](https://youtu.be/RyzcCGChYgs?t=1024), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1274))
+- In a 14-team 9-cat mock draft, the expert said even pick 98 felt early for him. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=1715))
+- He had a poor playoff series against San Antonio. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1667))
+- One expert feels good about him keeping his block numbers this season. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=1904))
 
 **Durable**
-- Experts call him the second-best rim protector in the NBA, with great positioning. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=885), [07-26](https://youtu.be/75Sk_4fkgIM?t=1445))
 - Blocks are his standout category, far above the top 250 pool. (fact, 2026-10-04; stats)
+- Experts call him the second-best rim protector in the NBA, with great positioning. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=885), [07-26](https://youtu.be/75Sk_4fkgIM?t=1445))
 - He can shoot a bit from outside and is a decent scorer. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=885))
 - He broke his hip during one season. His two-point percentage was 55% that season and about 65% in his other seasons. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1321))
 - The 55% on twos in the hip injury season is probably an outlier. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1321))

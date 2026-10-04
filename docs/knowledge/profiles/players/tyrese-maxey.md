@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 70 | 37.5 | 45.0 (20.3) | 86.8 (5.4) | 3.0 | 25.9 | 3.7 | 6.2 | 1.0 | 0.5 | 1.7 |
-| 2024-25 | 52 | 37.8 | 43.7 (21.0) | 87.9 (5.6) | 3.1 | 26.3 | 3.3 | 6.1 | 1.8 | 0.4 | 2.4 |
-| 2025-26 | 70 | 38.0 | 46.2 (21.4) | 89.2 (6.0) | 3.1 | 28.3 | 4.1 | 6.6 | 1.9 | 0.8 | 2.4 |
-| 2026-27 proj, Yahoo | 69 | - | 46.7 (19.4) | 88.5 (5.6) | 3.1 | 26.1 | 3.6 | 5.8 | 1.6 | 0.6 | 2.2 |
 | 2026-27 proj, ESPN | 71 | 34.2 | 45.6 (19.1) | 88.6 (5.2) | 2.8 | 24.8 | 3.5 | 5.8 | 1.6 | 0.6 | 2.1 |
+| 2026-27 proj, Yahoo | 69 | - | 46.7 (19.4) | 88.5 (5.6) | 3.1 | 26.1 | 3.6 | 5.8 | 1.6 | 0.6 | 2.2 |
+| 2025-26 | 70 | 38.0 | 46.2 (21.4) | 89.2 (6.0) | 3.1 | 28.3 | 4.1 | 6.6 | 1.9 | 0.8 | 2.4 |
+| 2024-25 | 52 | 37.8 | 43.7 (21.0) | 87.9 (5.6) | 3.1 | 26.3 | 3.3 | 6.1 | 1.8 | 0.4 | 2.4 |
+| 2023-24 | 70 | 37.5 | 45.0 (20.3) | 86.8 (5.4) | 3.0 | 25.9 | 3.7 | 6.2 | 1.0 | 0.5 | 1.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,23 +30,23 @@
 </details>
 
 **Current**
-- Philadelphia added Jaylen Brown and LeBron James, and Joel Embiid is healthier. The projected starting five is Maxey, VJ Edgecombe, Brown, LeBron and Embiid. (fact, 2026-09-09; [08-06](https://youtu.be/gTsfR5PxAMY?t=412), [08-06](https://youtu.be/gTsfR5PxAMY?t=141), [09-09](https://youtu.be/7BllEsdNLoM?t=907))
-- Experts expect his usage to drop from about 30 last season to about 27 or lower, because Brown, LeBron and Embiid will share the ball. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=223), [09-09](https://youtu.be/7BllEsdNLoM?t=934), [08-26](https://youtu.be/sTtFUy7IoJI?t=1906), [08-19](https://youtu.be/J1Eg3uaAICU?t=376), [07-02](https://youtu.be/P6TNP-g0wzY?t=650), [07-13](https://youtu.be/Rqb5GdrSweY?t=873), [08-26](https://youtu.be/sTtFUy7IoJI?t=1944), [08-09](https://youtu.be/8d--aL_xxwE?t=552), [09-09](https://youtu.be/7BllEsdNLoM?t=907), [09-15](https://youtu.be/KPdD91Oo8-U?t=405))
-- He is not expected to stay a top five scorer next to Jaylen Brown. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=346), [07-07](https://youtu.be/ME-r173X5b0?t=353))
-- Embiid and new guard Anfernee Simons are expected to cut his minutes, possibly to about 36.5 a game. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=723), [09-16](https://youtu.be/2A2JbUN-kc0?t=760))
-- He is expected to move back toward a shooting guard role, with LeBron handling more of the playmaking. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1070))
-- Embiid is expected to miss games and LeBron to sit games, which can give some usage back. Experts still rate him below his market price even with those absences. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1654), [09-07](https://youtu.be/E-KmhvyZ2CU?t=423))
 - His draft position is sliding in mock drafts. Earlier he often went 6th or 7th. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=319))
 - Experts agree he is overvalued at a rank of 6. None would take him inside the top 10. They see fair value around picks 12 to 14. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=319), [09-24](https://youtu.be/_vbAP5y182A?t=425), [09-23](https://youtu.be/C4vlgpJ62NI?t=1952), [09-22](https://youtu.be/QbdrhJd7LiA?t=178), [09-19](https://youtu.be/uarqbNA2dFk?t=223), [09-16](https://youtu.be/2A2JbUN-kc0?t=723), [09-15](https://youtu.be/KPdD91Oo8-U?t=405), [09-09](https://youtu.be/7BllEsdNLoM?t=934), [08-19](https://youtu.be/J1Eg3uaAICU?t=376), [09-01](https://youtu.be/80kfLVnFQ_s?t=421), [08-11](https://youtu.be/OdDkXFhoKsc?t=428))
+- Experts expect his usage to drop from about 30 last season to about 27 or lower, because Brown, LeBron and Embiid will share the ball. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=223), [09-09](https://youtu.be/7BllEsdNLoM?t=934), [08-26](https://youtu.be/sTtFUy7IoJI?t=1906), [08-19](https://youtu.be/J1Eg3uaAICU?t=376), [07-02](https://youtu.be/P6TNP-g0wzY?t=650), [07-13](https://youtu.be/Rqb5GdrSweY?t=873), [08-26](https://youtu.be/sTtFUy7IoJI?t=1944), [08-09](https://youtu.be/8d--aL_xxwE?t=552), [09-09](https://youtu.be/7BllEsdNLoM?t=907), [09-15](https://youtu.be/KPdD91Oo8-U?t=405))
+- Embiid is expected to miss games and LeBron to sit games, which can give some usage back. Experts still rate him below his market price even with those absences. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1654), [09-07](https://youtu.be/E-KmhvyZ2CU?t=423))
+- Embiid and new guard Anfernee Simons are expected to cut his minutes, possibly to about 36.5 a game. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=723), [09-16](https://youtu.be/2A2JbUN-kc0?t=760))
+- Philadelphia added Jaylen Brown and LeBron James, and Joel Embiid is healthier. The projected starting five is Maxey, VJ Edgecombe, Brown, LeBron and Embiid. (fact, 2026-09-09; [08-06](https://youtu.be/gTsfR5PxAMY?t=412), [08-06](https://youtu.be/gTsfR5PxAMY?t=141), [09-09](https://youtu.be/7BllEsdNLoM?t=907))
 - The Sixers have 13 back-to-backs, and three of them fall in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148))
+- He is expected to move back toward a shooting guard role, with LeBron handling more of the playmaking. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1070))
+- He is not expected to stay a top five scorer next to Jaylen Brown. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=346), [07-07](https://youtu.be/ME-r173X5b0?t=353))
 
 **Durable**
 - Steals are his biggest category edge. His FT% on good volume, points, threes and assists are also strong for a guard. (fact, 2026-10-04; stats)
 - His weakest categories are FG%, rebounds and blocks. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1952))
-- He is a very good shooter. He is the only clearly above-average shooter for his position in the Sixers starting group. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=771))
-- He has made big improvements on defense. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=978))
 - He has missed more games over the last few years than people think. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=233))
 - Coach Nick Nurse gives his starters and guards very heavy minutes. (fact, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1956), [08-06](https://youtu.be/gTsfR5PxAMY?t=556))
+- He is a very good shooter. He is the only clearly above-average shooter for his position in the Sixers starting group. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=771))
+- He has made big improvements on defense. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=978))
 
 **Tags**
 - Current: `role down` (Usage expected to fall from about 30 to 27 or lower with Brown, LeBron and Embiid. Minutes may fall to about 36.5.), `bust candidate` (Ranked 6th on Yahoo and ESPN. Experts see value around picks 12 to 14.), `bad playoff schedule` (Three Sixers back-to-backs in the fantasy playoffs)

@@ -3,9 +3,9 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 62 | 25.8 | 47.1 (10.5) | 84.3 (2.7) | 1.5 | 13.6 | 5.9 | 2.8 | 0.6 | 0.4 | 1.7 |
-| 2026-27 proj, Yahoo | 70 | - | 47.8 (14.2) | 83.2 (3.7) | 2.0 | 18.7 | 7.1 | 3.9 | 0.9 | 0.6 | 2.4 |
 | 2026-27 proj, ESPN | 69 | 28.5 | 48.1 (11.5) | 86.5 (3.0) | 1.7 | 15.4 | 6.5 | 3.0 | 0.7 | 0.5 | 1.9 |
+| 2026-27 proj, Yahoo | 70 | - | 47.8 (14.2) | 83.2 (3.7) | 2.0 | 18.7 | 7.1 | 3.9 | 0.9 | 0.6 | 2.4 |
+| 2025-26 | 62 | 25.8 | 47.1 (10.5) | 84.3 (2.7) | 1.5 | 13.6 | 5.9 | 2.8 | 0.6 | 0.4 | 1.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,19 +30,19 @@
 **Current**
 - Experts expect him to start for Memphis. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2081), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483))
 - Experts expect a second-year jump in usage and minutes. Projections range from about 29 minutes to over 30 minutes a night. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2081), [09-10](https://youtu.be/dlo7L8Ru91A?t=1561), [09-10](https://youtu.be/W-R1dzem32s?t=1607), [09-04](https://youtu.be/gerS7ibpaJo?t=1355), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1069))
+- Experts rank him around 100 to 110 (tier seven at shooting guard, tier six at small forward). His ESPN rank and ADP sit lower, around 118 to 128. (verdict, 2026-10-02; [09-10](https://youtu.be/W-R1dzem32s?t=1607), [09-10](https://youtu.be/dlo7L8Ru91A?t=1561), [09-04](https://youtu.be/gerS7ibpaJo?t=1355), [08-11](https://youtu.be/OdDkXFhoKsc?t=1902), [10-02](https://youtu.be/ZYllcj4o6_A?t=2081), [09-21](https://youtu.be/egRrai3Ax38?t=1977))
 - He is picked as one of the bigger breakout players this season. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1977))
-- Ja Morant is gone, so Memphis has a usage opening and a clear lack of guards. (fact, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=460), [06-29](https://youtu.be/bHA-JoW3reE?t=1175))
+- One expert thinks he may add some steals this season. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1561))
 - Coach Tuomas Iisalo runs an 11-man rotation with short stints and keeps minutes down. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
 - Joe expects only Cameron Boozer and Coward to top 30 minutes on this deep roster. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
-- Experts rank him around 100 to 110 (tier seven at shooting guard, tier six at small forward). His ESPN rank and ADP sit lower, around 118 to 128. (verdict, 2026-10-02; [09-10](https://youtu.be/W-R1dzem32s?t=1607), [09-10](https://youtu.be/dlo7L8Ru91A?t=1561), [09-04](https://youtu.be/gerS7ibpaJo?t=1355), [08-11](https://youtu.be/OdDkXFhoKsc?t=1902), [10-02](https://youtu.be/ZYllcj4o6_A?t=2081), [09-21](https://youtu.be/egRrai3Ax38?t=1977))
 - Josh likes him as a late-round flier and regrets passing on him in a mock draft. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=2081), [08-11](https://youtu.be/OdDkXFhoKsc?t=1902))
-- One expert thinks he may add some steals this season. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1561))
+- Ja Morant is gone, so Memphis has a usage opening and a clear lack of guards. (fact, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=460), [06-29](https://youtu.be/bHA-JoW3reE?t=1175))
 
 **Durable**
 - He is a rebounding wing who adds clearly more rebounds than most guards and forwards. (fact, 2026-10-04; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1403), stats)
-- He is a third-option scorer who knocks down open shots. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1403))
 - He is seen as a strong defender, but steals and blocks are not his strength. (fact, 2026-10-02; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1403), [09-04](https://youtu.be/gerS7ibpaJo?t=1317), [09-10](https://youtu.be/W-R1dzem32s?t=1607), [10-02](https://youtu.be/ZYllcj4o6_A?t=2081))
 - He has a good archetype but is old for a second-year player. He has not yet shown he can raise his usage or volume. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1317))
+- He is a third-option scorer who knocks down open shots. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1403))
 
 **Tags**
 - Current: `role up` (Expected usage jump and about 29 to 30+ minutes after Morant left), `breakout` (Second-year jump expected), `sleeper` (Experts rank him around 100 to 110, ESPN rank 124 and ADP 128), `flyer` (Late-round flier per Josh), `sites disagree on price` (Yahoo rank 84 and value 10 USD, ESPN rank 124 and value 1 USD)

@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 64 | 22.2 | 55.4 (7.2) | 68.7 (1.0) | 0.5 | 9.3 | 7.4 | 0.9 | 0.6 | 1.1 | 0.9 |
-| 2025-26 | 77 | 22.2 | 53.0 (8.4) | 74.0 (1.2) | 1.2 | 11.1 | 9.0 | 0.7 | 0.8 | 1.1 | 0.8 |
-| 2026-27 proj, Yahoo | 72 | - | 52.8 (10.0) | 72.3 (1.4) | 1.3 | 12.9 | 8.8 | 1.0 | 0.8 | 1.3 | 1.0 |
 | 2026-27 proj, ESPN | 72 | 24.3 | 53.3 (9.1) | 73.4 (1.3) | 1.2 | 11.9 | 9.6 | 0.8 | 0.8 | 1.2 | 0.9 |
+| 2026-27 proj, Yahoo | 72 | - | 52.8 (10.0) | 72.3 (1.4) | 1.3 | 12.9 | 8.8 | 1.0 | 0.8 | 1.3 | 1.0 |
+| 2025-26 | 77 | 22.2 | 53.0 (8.4) | 74.0 (1.2) | 1.2 | 11.1 | 9.0 | 0.7 | 0.8 | 1.1 | 0.8 |
+| 2024-25 | 64 | 22.2 | 55.4 (7.2) | 68.7 (1.0) | 0.5 | 9.3 | 7.4 | 0.9 | 0.6 | 1.1 | 0.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,19 +29,19 @@
 </details>
 
 **Current**
-- He moved from Miami to Milwaukee in the Giannis Antetokounmpo trade. (fact, 2026-08-14; [06-23](https://youtu.be/nnWX_ObljOE?t=374), [07-13](https://youtu.be/Rqb5GdrSweY?t=1913), [08-14](https://youtu.be/owlM6b8oUd0?t=676))
-- His role under new coach Taylor Jenkins is not set. He may start at power forward next to Myles Turner or back up Turner. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1462), [09-14](https://youtu.be/t4n9MAP2_14?t=2436), [07-13](https://youtu.be/Rqb5GdrSweY?t=1913), [08-14](https://youtu.be/owlM6b8oUd0?t=676))
-- Power forward is Milwaukee's weakest position, and the team will likely start a center there. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=511), [08-14](https://youtu.be/owlM6b8oUd0?t=536))
-- Expected to play more than last season's 22 minutes a night. The newest projection is 26 to 30 minutes. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1462), [09-07](https://youtu.be/gJUBAJaHzlU?t=1480))
 - Experts see him as a top 60 to 80 player and say his draft price is too low. (verdict, 2026-09-21; [09-07](https://youtu.be/gJUBAJaHzlU?t=1480), [09-21](https://youtu.be/egRrai3Ax38?t=1836))
+- His role under new coach Taylor Jenkins is not set. He may start at power forward next to Myles Turner or back up Turner. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1462), [09-14](https://youtu.be/t4n9MAP2_14?t=2436), [07-13](https://youtu.be/Rqb5GdrSweY?t=1913), [08-14](https://youtu.be/owlM6b8oUd0?t=676))
+- Expected to play more than last season's 22 minutes a night. The newest projection is 26 to 30 minutes. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1462), [09-07](https://youtu.be/gJUBAJaHzlU?t=1480))
 - If Jenkins names him a starter and he plays about 30 minutes a night, he can be a top 40 player. Until then one expert has him in tier seven of the centers. (verdict, 2026-09-14; [09-07](https://youtu.be/gJUBAJaHzlU?t=1526), [09-14](https://youtu.be/t4n9MAP2_14?t=1462))
+- He moved from Miami to Milwaukee in the Giannis Antetokounmpo trade. (fact, 2026-08-14; [06-23](https://youtu.be/nnWX_ObljOE?t=374), [07-13](https://youtu.be/Rqb5GdrSweY?t=1913), [08-14](https://youtu.be/owlM6b8oUd0?t=676))
+- Power forward is Milwaukee's weakest position, and the team will likely start a center there. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=511), [08-14](https://youtu.be/owlM6b8oUd0?t=536))
 
 **Durable**
-- Rebounds and blocks are his best categories, and he adds some threes for a big. His assists are among the lowest in the top 200. (fact, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=1199), stats)
 - Strong per-minute fantasy numbers but many lapses on offense and defense. He is poor defensively. (verdict, 2026-09-14; [08-14](https://youtu.be/owlM6b8oUd0?t=827), [07-20](https://youtu.be/-KS_AZjZnw4?t=592), [09-14](https://youtu.be/t4n9MAP2_14?t=2452))
 - He was benched in Miami for poor shot selection and team play. His minutes there were limited by his play, not by the coach. (fact, 2026-09-14; [07-20](https://youtu.be/-KS_AZjZnw4?t=592), [09-14](https://youtu.be/t4n9MAP2_14?t=2452))
 - His 9-cat rank flatters his real worth. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2452))
 - His potential is very high, and he fits best at center. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=827))
+- Rebounds and blocks are his best categories, and he adds some threes for a big. His assists are among the lowest in the top 200. (fact, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=1199), stats)
 
 **Tags**
 - Current: `new team` (Miami to Milwaukee in the Giannis trade), `role up` (projected 26 to 30 minutes after 22 last season), `breakout` (year three; top 40 upside at 30 minutes), `minutes competition` (starter at PF next to Myles Turner or Turner's backup, not decided by Taylor Jenkins), `expert target` (experts see top 60 to 80 value), `sleeper` (underpriced at ADP 75)

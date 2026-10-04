@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 74 | 21.9 | 50.1 (6.3) | 61.6 (1.5) | 0.4 | 7.6 | 6.6 | 1.3 | 0.6 | 0.9 | 1.1 |
-| 2024-25 | 57 | 20.5 | 50.2 (5.7) | 59.4 (1.2) | 0.2 | 6.6 | 5.6 | 1.0 | 0.8 | 0.7 | 0.8 |
-| 2025-26 | 73 | 24.0 | 52.8 (8.2) | 55.4 (1.9) | 0.4 | 10.1 | 6.7 | 1.4 | 0.9 | 0.7 | 0.9 |
-| 2026-27 proj, Yahoo | 69 | - | 51.5 (7.2) | 61.4 (1.7) | 0.3 | 8.8 | 6.4 | 1.1 | 1.0 | 0.7 | 0.9 |
 | 2026-27 proj, ESPN | 71 | 24.3 | 52.5 (8.1) | 56.3 (1.9) | 0.4 | 9.9 | 6.8 | 1.4 | 0.9 | 0.7 | 0.9 |
+| 2026-27 proj, Yahoo | 69 | - | 51.5 (7.2) | 61.4 (1.7) | 0.3 | 8.8 | 6.4 | 1.1 | 1.0 | 0.7 | 0.9 |
+| 2025-26 | 73 | 24.0 | 52.8 (8.2) | 55.4 (1.9) | 0.4 | 10.1 | 6.7 | 1.4 | 0.9 | 0.7 | 0.9 |
+| 2024-25 | 57 | 20.5 | 50.2 (5.7) | 59.4 (1.2) | 0.2 | 6.6 | 5.6 | 1.0 | 0.8 | 0.7 | 0.8 |
+| 2023-24 | 74 | 21.9 | 50.1 (6.3) | 61.6 (1.5) | 0.4 | 7.6 | 6.6 | 1.3 | 0.6 | 0.9 | 1.1 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,10 +30,10 @@
 </details>
 
 **Current**
-- He re-signed with Sacramento for 2 years and 11.5 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
-- He started late last season only because Keegan Murray and DeAndre Hunter were hurt. His 73rd rank after the deadline came while Murray, Hunter and Domantas Sabonis were out. (fact, 2026-07-14; [07-01](https://youtu.be/W3THnI7wWdA?t=1338), [07-14](https://youtu.be/xHRF06_E9HE?t=1622))
 - The Kings' projected starters are Acuff, LaVine, Hunter, Murray and Sabonis, so he is not in the starting group. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691), [07-01](https://youtu.be/W3THnI7wWdA?t=1324))
+- He started late last season only because Keegan Murray and DeAndre Hunter were hurt. His 73rd rank after the deadline came while Murray, Hunter and Domantas Sabonis were out. (fact, 2026-07-14; [07-01](https://youtu.be/W3THnI7wWdA?t=1338), [07-14](https://youtu.be/xHRF06_E9HE?t=1622))
 - He is expected to be a reserve big. The experts say his late-season run was not real and he should not be drafted because of it. (verdict, 2026-07-14; [07-01](https://youtu.be/W3THnI7wWdA?t=1338), [07-14](https://youtu.be/xHRF06_E9HE?t=1622))
+- He re-signed with Sacramento for 2 years and 11.5 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
 
 **Durable**
 - He makes almost no threes, about 0.3 per game. (fact, 2026-10-04; stats)

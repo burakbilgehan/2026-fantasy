@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 79 | 34.6 | 58.3 (17.9) | 81.7 (5.5) | 1.1 | 26.4 | 12.4 | 9.0 | 1.4 | 0.9 | 3.0 |
-| 2024-25 | 70 | 36.8 | 57.6 (19.5) | 80.0 (6.4) | 2.0 | 29.6 | 12.8 | 10.2 | 1.8 | 0.6 | 3.3 |
-| 2025-26 | 65 | 34.8 | 56.9 (17.4) | 83.1 (7.4) | 1.7 | 27.7 | 12.9 | 10.7 | 1.4 | 0.8 | 3.7 |
-| 2026-27 proj, Yahoo | 71 | - | 57.4 (18.1) | 82.0 (6.6) | 1.7 | 27.9 | 13.1 | 10.1 | 1.5 | 0.8 | 3.4 |
 | 2026-27 proj, ESPN | 72 | 35.6 | 57.5 (18.4) | 81.7 (6.6) | 1.7 | 28.2 | 12.7 | 10.1 | 1.6 | 0.8 | 3.4 |
+| 2026-27 proj, Yahoo | 71 | - | 57.4 (18.1) | 82.0 (6.6) | 1.7 | 27.9 | 13.1 | 10.1 | 1.5 | 0.8 | 3.4 |
+| 2025-26 | 65 | 34.8 | 56.9 (17.4) | 83.1 (7.4) | 1.7 | 27.7 | 12.9 | 10.7 | 1.4 | 0.8 | 3.7 |
+| 2024-25 | 70 | 36.8 | 57.6 (19.5) | 80.0 (6.4) | 2.0 | 29.6 | 12.8 | 10.2 | 1.8 | 0.6 | 3.3 |
+| 2023-24 | 79 | 34.6 | 58.3 (17.9) | 81.7 (5.5) | 1.1 | 26.4 | 12.4 | 9.0 | 1.4 | 0.9 | 3.0 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -31,28 +31,28 @@
 
 **Current**
 - Experts rank him the number one pick in head-to-head categories leagues and would take him first overall, ahead of Wembanyama. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=321), [09-14](https://youtu.be/t4n9MAP2_14?t=228), [09-16](https://youtu.be/2A2JbUN-kc0?t=238), [08-11](https://youtu.be/OdDkXFhoKsc?t=267))
-- He has the tightest range of outcomes in round one. Best case is 1st and worst case is 3rd. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=279))
 - In an auction, take him if the room lets him sit near 55 USD. That frees about 20 USD for other players. (verdict, 2026-09-29; [09-29](https://youtu.be/XnIWJyBB0EM?t=1960), [09-29](https://youtu.be/XnIWJyBB0EM?t=2414))
-- He is projected for over 30 percent usage. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=238))
 - Expect about 35 minutes per game again. More regression is not a big worry. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=396))
-- He had the fewest potential assists among the league's assist leaders last season. (fact, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=1152))
-- His assists could drop to about 10.1 per game if his teammates' shooting evens out. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=1152))
+- Denver plays 43 games through March 28, one below the maximum. It has only 14 back-to-backs, one of the lowest counts in the league. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678))
+- He has no injury now, and Denver is fairly healthy going into the season. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1658), stats)
+- He has the tightest range of outcomes in round one. Best case is 1st and worst case is 3rd. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=279))
+- He is projected for over 30 percent usage. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=238))
+- He plays four games in the week starting March 15, which is fantasy playoff week 20. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1473))
 - He can become a free agent after this season. (fact, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1152))
 - He is expected to stay in Denver all season and re-sign, although he has not been happy for two years. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1152))
-- Denver plays 43 games through March 28, one below the maximum. It has only 14 back-to-backs, one of the lowest counts in the league. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678))
-- He plays four games in the week starting March 15, which is fantasy playoff week 20. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1473))
 - Denver is not expected to rest him on purpose. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1377))
-- He has no injury now, and Denver is fairly healthy going into the season. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1658), stats)
+- He had the fewest potential assists among the league's assist leaders last season. (fact, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=1152))
+- His assists could drop to about 10.1 per game if his teammates' shooting evens out. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=1152))
 
 **Durable**
-- He has been the best fantasy player of the last five or six years and has finished number one in both category and points leagues. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=321))
 - He is a league outlier in FG%, points, rebounds and assists. His high FG% comes on big volume, so it lifts a team's FG% clearly. (fact, 2026-10-04; stats)
-- Most of his extra value comes from giving both rebounds and assists, two categories that rarely come together. (verdict, 2026-07-15; [07-15](https://youtu.be/0geFVzSqOnA?t=1368))
 - Turnovers are his one clearly weak category. He commits a lot of them, even for a center. (fact, 2026-10-04; stats)
-- Threes, blocks and free throws are his relative weak spots, but none of them is a real weakness. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1540))
+- He has been the best fantasy player of the last five or six years and has finished number one in both category and points leagues. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=321))
 - He had a hamstring injury two seasons ago and a somewhat fluky knee injury last season, which cost him a lot of games. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=345), [09-14](https://youtu.be/t4n9MAP2_14?t=197), [08-09](https://youtu.be/8d--aL_xxwE?t=1817))
 - At 31 he is getting slightly less durable, but experts are not worried about his health. (verdict, 2026-09-29; [09-14](https://youtu.be/t4n9MAP2_14?t=197), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=345))
+- Threes, blocks and free throws are his relative weak spots, but none of them is a real weakness. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1540))
 - He gets more tired on defense in the middle of the season than he admits. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1371))
+- Most of his extra value comes from giving both rebounds and assists, two categories that rarely come together. (verdict, 2026-07-15; [07-15](https://youtu.be/0geFVzSqOnA?t=1368))
 
 **Tags**
 - Current: `few back-to-backs` (Denver has 14 back-to-backs, one of the lowest counts), `injury last season` (Knee injury)

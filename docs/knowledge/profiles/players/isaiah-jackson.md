@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 60 | 12.8 | 66.5 (3.9) | 71.6 (1.7) | 0.0 | 6.4 | 4.0 | 0.8 | 0.6 | 1.0 | 0.7 |
-| 2024-25 | 5 | 16.8 | 60.9 (4.6) | 50.0 (2.8) | 0.0 | 7.0 | 5.6 | 1.0 | 0.6 | 1.6 | 1.0 |
-| 2025-26 | 55 | 16.5 | 63.7 (4.3) | 64.8 (1.9) | 0.0 | 6.7 | 5.3 | 0.9 | 0.7 | 0.9 | 1.1 |
-| 2026-27 proj, Yahoo | 55 | - | 61.5 (4.7) | 66.7 (2.1) | 0.0 | 7.3 | 5.6 | 1.0 | 0.7 | 1.0 | 1.0 |
 | 2026-27 proj, ESPN | 67 | 18.4 | 63.7 (4.8) | 65.3 (2.2) | 0.0 | 7.6 | 5.9 | 1.1 | 0.7 | 1.0 | 1.2 |
+| 2026-27 proj, Yahoo | 55 | - | 61.5 (4.7) | 66.7 (2.1) | 0.0 | 7.3 | 5.6 | 1.0 | 0.7 | 1.0 | 1.0 |
+| 2025-26 | 55 | 16.5 | 63.7 (4.3) | 64.8 (1.9) | 0.0 | 6.7 | 5.3 | 0.9 | 0.7 | 0.9 | 1.1 |
+| 2024-25 | 5 | 16.8 | 60.9 (4.6) | 50.0 (2.8) | 0.0 | 7.0 | 5.6 | 1.0 | 0.6 | 1.6 | 1.0 |
+| 2023-24 | 60 | 12.8 | 66.5 (3.9) | 71.6 (1.7) | 0.0 | 6.4 | 4.0 | 0.8 | 0.6 | 1.0 | 0.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -35,8 +35,8 @@
 - The starting job is not secure. He likely starts only until Konan Niederhauser returns, and his value will likely fade later in the year. Coach Ty Lue often changes his rotation choices. (verdict, 2026-10-04, until Yanic Konan Niederhauser returns; [10-04](https://youtu.be/tnzmsYUA4yQ?t=821), [10-02](https://youtu.be/ZYllcj4o6_A?t=1204), [10-01](https://youtu.be/EGdhmUgPAWY?t=867), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
 - He should be drafted late in every 12-team league as a late-round swing pick or flier. One expert prefers him over Nesmith as a late flier. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=786), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1844), [10-01](https://youtu.be/EGdhmUgPAWY?t=867))
 - His upside is a starter at about 25 minutes with a big FG% boost, blocks and solid rebounds. He could be top 150 early in the season. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=786), [10-02](https://youtu.be/ZYllcj4o6_A?t=1204))
-- He played surprisingly well at the end of last season before getting hurt. Yahoo lists no injury now. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1935))
 - The Clippers have a good fantasy playoff schedule: 4, 3 and 4 games in weeks 19 to 21. They have 13 back-to-backs, one of the lowest totals in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
+- He played surprisingly well at the end of last season before getting hurt. Yahoo lists no injury now. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1935))
 
 **Durable**
 - He is highly foul-prone, so foul trouble can limit his minutes. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=750), [10-02](https://youtu.be/ZYllcj4o6_A?t=1204))

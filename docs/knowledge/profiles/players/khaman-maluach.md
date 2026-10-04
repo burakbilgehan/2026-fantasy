@@ -3,9 +3,9 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 46 | 8.9 | 53.3 (2.3) | 71.0 (0.7) | 0.1 | 3.0 | 2.9 | 0.1 | 0.1 | 0.7 | 0.5 |
-| 2026-27 proj, Yahoo | 68 | - | 56.7 (7.3) | 74.1 (2.2) | 0.5 | 10.4 | 9.3 | 0.9 | 0.5 | 2.1 | 1.3 |
 | 2026-27 proj, ESPN | 65 | 23.0 | 53.1 (5.9) | 70.3 (1.7) | 0.3 | 7.8 | 7.5 | 0.3 | 0.3 | 1.9 | 1.4 |
+| 2026-27 proj, Yahoo | 68 | - | 56.7 (7.3) | 74.1 (2.2) | 0.5 | 10.4 | 9.3 | 0.9 | 0.5 | 2.1 | 1.3 |
+| 2025-26 | 46 | 8.9 | 53.3 (2.3) | 71.0 (0.7) | 0.1 | 3.0 | 2.9 | 0.1 | 0.1 | 0.7 | 0.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -28,18 +28,18 @@
 </details>
 
 **Current**
-- Mark Williams is out long term with a torn labrum, expected to miss 5 to 6 months. This opens the starting center spot in Phoenix. (fact, 2026-09-14, until Mark Williams returns; [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200))
-- The Suns starting center job is not officially settled. Oso Ighodaro is his competition for the starting spot and the minutes. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1747), [09-30](https://youtu.be/BjXP9JODDSg?t=1747), [09-14](https://youtu.be/t4n9MAP2_14?t=2190))
 - Experts expect Maluach to start over Ighodaro. He seems almost locked in as the starter, and Phoenix wants its top 10 pick in that spot. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1102), [09-30](https://youtu.be/BjXP9JODDSg?t=1747), [09-30](https://youtu.be/BjXP9JODDSg?t=1747), [09-14](https://youtu.be/t4n9MAP2_14?t=2190))
+- Draft him as a flyer around round 10, not later. Do not take him inside the top 100. He has top 75 upside. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1102), [09-14](https://youtu.be/t4n9MAP2_14?t=2287))
+- The Suns starting center job is not officially settled. Oso Ighodaro is his competition for the starting spot and the minutes. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1747), [09-30](https://youtu.be/BjXP9JODDSg?t=1747), [09-14](https://youtu.be/t4n9MAP2_14?t=2190))
+- Mark Williams is out long term with a torn labrum, expected to miss 5 to 6 months. This opens the starting center spot in Phoenix. (fact, 2026-09-14, until Mark Williams returns; [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200))
 - He is projected for about 24 to 25 minutes per game. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2287), [08-26](https://youtu.be/sTtFUy7IoJI?t=411))
 - He averaged 18 points, 13 rebounds, 2 blocks and 2 threes in summer league and was a top 10 fantasy player there. (fact, 2026-08-26; [07-21](https://youtu.be/RyzcCGChYgs?t=918), [08-26](https://youtu.be/sTtFUy7IoJI?t=395), [07-17](https://youtu.be/NYTH7uQsPCM?t=695))
-- Draft him as a flyer around round 10, not later. Do not take him inside the top 100. He has top 75 upside. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1102), [09-14](https://youtu.be/t4n9MAP2_14?t=2287))
 
 **Durable**
-- He is a big man who adds rebounding, shot blocking and FG%, and he can shoot some threes. He should be an okay free throw shooter. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2298))
-- He is a strong rim protector. He turned 31.5% of his rim contests into blocks. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=695))
 - Blocks are his standout category, far above the player pool. Rebounds and FG% also help. (fact, 2026-10-04; stats)
 - He gives almost nothing in steals and assists, even for a center. (fact, 2026-10-04; stats)
+- He is a big man who adds rebounding, shot blocking and FG%, and he can shoot some threes. He should be an okay free throw shooter. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2298))
+- He is a strong rim protector. He turned 31.5% of his rim contests into blocks. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=695))
 
 **Tags**
 - Current: `role up` (projected 24 to 25 minutes as likely starter while Mark Williams is out), `breakout` (top 75 upside as a starter), `minutes competition` (Oso Ighodaro for the starting center job), `flyer` (round 9 to 10 flyer, not inside top 100), `sleeper`, `sites disagree on price` (Yahoo rank 118, ESPN rank 202)

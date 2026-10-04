@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 67 | 27.9 | 47.8 (8.7) | 82.4 (2.1) | 0.8 | 10.8 | 4.2 | 2.9 | 0.9 | 0.3 | 1.3 |
-| 2024-25 | 41 | 22.4 | 42.1 (7.5) | 81.5 (1.6) | 0.7 | 8.3 | 4.0 | 2.0 | 0.8 | 0.2 | 1.0 |
-| 2025-26 | 82 | 24.3 | 47.5 (6.4) | 76.2 (1.5) | 0.7 | 7.9 | 3.9 | 2.1 | 1.0 | 0.2 | 1.1 |
 | 2026-27 proj, Yahoo | 60 | - | 42.7 (5.7) | 81.2 (1.3) | 0.6 | 6.5 | 3.2 | 2.0 | 0.8 | 0.2 | 2.2 |
+| 2025-26 | 82 | 24.3 | 47.5 (6.4) | 76.2 (1.5) | 0.7 | 7.9 | 3.9 | 2.1 | 1.0 | 0.2 | 1.1 |
+| 2024-25 | 41 | 22.4 | 42.1 (7.5) | 81.5 (1.6) | 0.7 | 8.3 | 4.0 | 2.0 | 0.8 | 0.2 | 1.0 |
+| 2023-24 | 67 | 27.9 | 47.8 (8.7) | 82.4 (2.1) | 0.8 | 10.8 | 4.2 | 2.9 | 0.9 | 0.3 | 1.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,9 +29,9 @@
 </details>
 
 **Current**
+- The Knicks are expected to trim their starters' minutes and rest more on back-to-backs over the first 30 or so games, after their long championship run. (verdict, 2026-09-22, until first 30 or so games; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [09-22](https://youtu.be/QbdrhJd7LiA?t=914))
 - Bruce Brown is not among the Knicks' projected starters. The projected starting five is Brunson, Bridges, Hart, Anunoby and Towns. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=317))
 - Under coach Mike Brown, the Knicks play their bench more than the previous coach did. (fact, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=990))
-- The Knicks are expected to trim their starters' minutes and rest more on back-to-backs over the first 30 or so games, after their long championship run. (verdict, 2026-09-22, until first 30 or so games; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [09-22](https://youtu.be/QbdrhJd7LiA?t=914))
 
 **Durable**
 - none

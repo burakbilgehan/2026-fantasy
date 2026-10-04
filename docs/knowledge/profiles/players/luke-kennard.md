@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 39 | 25.6 | 44.8 (8.1) | 88.9 (1.2) | 2.7 | 11.0 | 2.9 | 3.5 | 0.5 | 0.1 | 1.4 |
-| 2024-25 | 65 | 22.6 | 47.8 (6.6) | 89.5 (0.9) | 1.7 | 8.9 | 2.8 | 3.3 | 0.8 | 0.1 | 1.1 |
-| 2025-26 | 78 | 21.6 | 53.3 (5.7) | 91.3 (0.9) | 1.5 | 8.4 | 2.3 | 2.2 | 0.7 | 0.1 | 0.8 |
-| 2026-27 proj, Yahoo | 67 | - | 53.4 (5.3) | 67.3 (0.8) | 1.4 | 7.6 | 2.2 | 1.7 | 0.7 | 0.1 | 0.9 |
 | 2026-27 proj, ESPN | 74 | 21.8 | 52.2 (5.9) | 91.0 (0.9) | 1.6 | 8.5 | 2.4 | 2.4 | 0.7 | 0.1 | 0.8 |
+| 2026-27 proj, Yahoo | 67 | - | 53.4 (5.3) | 67.3 (0.8) | 1.4 | 7.6 | 2.2 | 1.7 | 0.7 | 0.1 | 0.9 |
+| 2025-26 | 78 | 21.6 | 53.3 (5.7) | 91.3 (0.9) | 1.5 | 8.4 | 2.3 | 2.2 | 0.7 | 0.1 | 0.8 |
+| 2024-25 | 65 | 22.6 | 47.8 (6.6) | 89.5 (0.9) | 1.7 | 8.9 | 2.8 | 3.3 | 0.8 | 0.1 | 1.1 |
+| 2023-24 | 39 | 25.6 | 44.8 (8.1) | 88.9 (1.2) | 2.7 | 11.0 | 2.9 | 3.5 | 0.5 | 0.1 | 1.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,11 +30,11 @@
 </details>
 
 **Current**
-- Kennard signed with Phoenix this offseason. (fact, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1362))
 - Phoenix has a crowded group of guards and wings. Booker, Jalen Green, Dillon Brooks, Collin Gillespie and Miles Bridges will all want touches. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=989), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200))
-- One expert thinks too many guards are ahead of him for him to make an impact. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1362))
 - Ben (Locked On Suns) expects him to come off the bench and take about eight threes a game, making about 40 to 41%. That is a lower percentage than before, on more volume. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=435))
 - Ben worries that the projected Phoenix starting lineup has no reliable three-point shooter. That could open a shooting role for a bench specialist. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=619))
+- Kennard signed with Phoenix this offseason. (fact, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1362))
+- One expert thinks too many guards are ahead of him for him to make an impact. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1362))
 
 **Durable**
 - Kennard is a pure three-point shooter. He does not get to the rim and is not a mid-range shooter. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=456))

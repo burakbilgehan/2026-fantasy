@@ -3,9 +3,9 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 69 | 21.4 | 75.3 (4.2) | 71.6 (1.7) | 0.0 | 7.6 | 5.5 | 0.8 | 0.5 | 1.5 | 0.9 |
-| 2026-27 proj, Yahoo | 69 | - | 75.0 (3.7) | 72.0 (1.4) | 0.0 | 6.5 | 4.7 | 0.7 | 0.4 | 1.3 | 0.8 |
 | 2026-27 proj, ESPN | 69 | 23.2 | 75.4 (4.6) | 71.8 (1.8) | 0.0 | 8.2 | 5.9 | 0.8 | 0.5 | 1.6 | 1.0 |
+| 2026-27 proj, Yahoo | 69 | - | 75.0 (3.7) | 72.0 (1.4) | 0.0 | 6.5 | 4.7 | 0.7 | 0.4 | 1.3 | 0.8 |
+| 2025-26 | 69 | 21.4 | 75.3 (4.2) | 71.6 (1.7) | 0.0 | 7.6 | 5.5 | 0.8 | 0.5 | 1.5 | 0.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -32,11 +32,11 @@
 - Experts expect him to be last in Charlotte's center rotation and to sit out of the rotation on many nights. Do not count on him. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2230), [07-21](https://youtu.be/EB1Z_6n56-o?t=1188), [07-23](https://youtu.be/LUTYUdXBG1M?t=1897))
 
 **Durable**
+- He gives little in points, assists and steals. His steals are weak even for a center. (fact, 2026-10-04; stats)
 - He blocks shots well. One expert calls him the best rim protector among Charlotte's bigs. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=333), [07-21](https://youtu.be/EB1Z_6n56-o?t=663))
+- His game is limited to rebounds and blocks. He looked slow and scores little. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=333), [07-23](https://youtu.be/LUTYUdXBG1M?t=1897))
 - He does not shoot threes. Charlotte did not let him shoot from the perimeter, and he still took no threes in Summer League. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1112), [07-21](https://youtu.be/EB1Z_6n56-o?t=663), [07-23](https://youtu.be/LUTYUdXBG1M?t=1897), stats)
 - He is a very efficient finisher. His projected FG% of about 75% is a league outlier, but it comes on only about 4 shots per game. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=663), stats)
-- His game is limited to rebounds and blocks. He looked slow and scores little. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=333), [07-23](https://youtu.be/LUTYUdXBG1M?t=1897))
-- He gives little in points, assists and steals. His steals are weak even for a center. (fact, 2026-10-04; stats)
 
 **Tags**
 - Current: `minutes competition` (Diabaté, Kai Jones, Steinbach and rookie Nnaji at center), `role down` (Expected last in the center rotation and out of it on many nights)

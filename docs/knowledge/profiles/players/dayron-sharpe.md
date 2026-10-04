@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 61 | 15.1 | 57.1 (4.8) | 61.0 (2.0) | 0.1 | 6.8 | 6.4 | 1.4 | 0.4 | 0.7 | 1.1 |
-| 2024-25 | 50 | 18.1 | 52.1 (6.3) | 75.7 (1.5) | 0.2 | 7.9 | 6.6 | 1.8 | 0.8 | 0.8 | 1.3 |
-| 2025-26 | 62 | 18.7 | 60.1 (5.7) | 67.8 (2.5) | 0.1 | 8.7 | 6.7 | 2.3 | 1.1 | 0.4 | 1.7 |
-| 2026-27 proj, Yahoo | 66 | - | 55.3 (8.6) | 66.2 (3.1) | 0.2 | 11.8 | 9.9 | 3.1 | 1.6 | 0.5 | 2.1 |
 | 2026-27 proj, ESPN | 69 | 22.0 | 53.5 (7.5) | 69.7 (2.1) | 0.2 | 9.7 | 8.4 | 2.2 | 0.9 | 1.0 | 1.6 |
+| 2026-27 proj, Yahoo | 66 | - | 55.3 (8.6) | 66.2 (3.1) | 0.2 | 11.8 | 9.9 | 3.1 | 1.6 | 0.5 | 2.1 |
+| 2025-26 | 62 | 18.7 | 60.1 (5.7) | 67.8 (2.5) | 0.1 | 8.7 | 6.7 | 2.3 | 1.1 | 0.4 | 1.7 |
+| 2024-25 | 50 | 18.1 | 52.1 (6.3) | 75.7 (1.5) | 0.2 | 7.9 | 6.6 | 1.8 | 0.8 | 0.8 | 1.3 |
+| 2023-24 | 61 | 15.1 | 57.1 (4.8) | 61.0 (2.0) | 0.1 | 6.8 | 6.4 | 1.4 | 0.4 | 0.7 | 1.1 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -32,23 +32,23 @@
 **Current**
 - He is expected to start at center for Brooklyn after the Nic Claxton trade. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=234), [08-21](https://youtu.be/uRsfijpBPok?t=594), [09-14](https://youtu.be/t4n9MAP2_14?t=2120), [09-01](https://youtu.be/skKXe2CRl8Q?t=1001), [06-30](https://youtu.be/4GDfg2n2l8o?t=734), [09-26](https://youtu.be/3UGI05PDvrE?t=313), [08-21](https://youtu.be/uRsfijpBPok?t=488))
 - Brooklyn signed Mo Wagner. Sharpe shares the center minutes with Wagner and Danny Wolf, and three of the projected bench players are big men. (fact, 2026-09-26; [07-02](https://youtu.be/P6TNP-g0wzY?t=1894), [07-02](https://youtu.be/P6TNP-g0wzY?t=1914), [08-21](https://youtu.be/uRsfijpBPok?t=594), [09-26](https://youtu.be/3UGI05PDvrE?t=1156))
-- The experts expect a messy center split that lowers his upside. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1894), [07-02](https://youtu.be/P6TNP-g0wzY?t=1914))
-- The team's goal is for him to work up to the mid or high 20s in minutes while staying efficient. In past Claxton absences he sometimes played very few minutes. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=1289))
 - Josh projects about 24 minutes a game and says 30 minutes is almost certainly not happening. Another expert hopes for 28 minutes but doubts it. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=234), [09-26](https://youtu.be/3UGI05PDvrE?t=876), [09-14](https://youtu.be/t4n9MAP2_14?t=2120))
 - His value depends on minutes: about rank 80 to 100 at 24 minutes, top 100 at 26 minutes, top 50 to 60 at 27 minutes. If he loses minutes, a pick at his Yahoo rank becomes a bad one. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=876), [06-30](https://youtu.be/4GDfg2n2l8o?t=734))
 - Josh calls him underpriced on ESPN and a top 100 player. His Yahoo rank is about right for category leagues. He is Josh's best target in category leagues. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=818), [09-26](https://youtu.be/3UGI05PDvrE?t=1406))
-- Plain nine-cat rankings will make him look like a top 20 player, which he will not be. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=734))
-- If he does not start early in the season, that is a rotation change to react to right away. (verdict, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=1001), [09-01](https://youtu.be/skKXe2CRl8Q?t=1001))
-- He is on a short two-year deal. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=1289))
 - Brooklyn does not own its pick, so it has no reason to tank but also little reason to win. The second half of the season is uncertain, and frontcourt minutes could shift to young players such as Noah Clowney and Josh Minott. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1642), [08-21](https://youtu.be/uRsfijpBPok?t=276))
 - Brooklyn plays 3-4-3 games in our playoff weeks (10 games) with only one playoff back-to-back. The team has 16 back-to-backs this season, tied for the most in the league. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
+- If he does not start early in the season, that is a rotation change to react to right away. (verdict, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=1001), [09-01](https://youtu.be/skKXe2CRl8Q?t=1001))
+- The team's goal is for him to work up to the mid or high 20s in minutes while staying efficient. In past Claxton absences he sometimes played very few minutes. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=1289))
+- He is on a short two-year deal. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=1289))
+- The experts expect a messy center split that lowers his upside. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1894), [07-02](https://youtu.be/P6TNP-g0wzY?t=1914))
+- Plain nine-cat rankings will make him look like a top 20 player, which he will not be. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=734))
 
 **Durable**
+- He makes almost no threes. (fact, 2026-10-04; stats)
 - He is one of the best offensive rebounders in the league by the numbers. (fact, 2026-09-26; [08-21](https://youtu.be/uRsfijpBPok?t=532), [09-26](https://youtu.be/3UGI05PDvrE?t=850))
-- He is a per-minute monster who has rarely had the chance to start. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=701))
 - He is no longer a shot blocker. His blocks are poor for a center, while his passing and steals have gone up. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=850), [06-30](https://youtu.be/4GDfg2n2l8o?t=701), stats)
 - He has improved as a finisher, has become a versatile defender and has shown flashes of playmaking. He is a strong FG% player. (verdict, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=532), [06-30](https://youtu.be/4GDfg2n2l8o?t=701))
-- He makes almost no threes. (fact, 2026-10-04; stats)
+- He is a per-minute monster who has rarely had the chance to start. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=701))
 
 **Tags**
 - Current: `role up` (Expected starting center after the Claxton trade, up from about 19 minutes as a backup), `minutes competition` (Center split with Mo Wagner and Danny Wolf), `expert target` (Josh's best category-league target; top 100 vs ESPN rank 136), `sleeper` (Underpriced on ESPN (rank 136, ADP near 140)), `sites disagree on price` (Yahoo 6 USD, rank 91; ESPN 0 USD, rank 136), `bad playoff schedule` (Only 10 games (3-4-3) in weeks 19 to 21, though just one back-to-back)

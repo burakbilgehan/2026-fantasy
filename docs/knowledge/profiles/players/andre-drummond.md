@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 79 | 17.1 | 55.6 (6.1) | 59.2 (2.8) | 0.0 | 8.4 | 9.0 | 0.5 | 0.9 | 0.6 | 1.0 |
-| 2024-25 | 40 | 18.7 | 50.0 (5.8) | 62.2 (2.2) | 0.1 | 7.3 | 7.8 | 0.8 | 1.0 | 0.5 | 1.4 |
-| 2025-26 | 63 | 19.6 | 47.2 (5.3) | 63.1 (1.3) | 0.5 | 6.4 | 8.4 | 1.3 | 0.6 | 0.8 | 1.0 |
-| 2026-27 proj, Yahoo | 67 | - | 45.6 (4.9) | 62.7 (1.2) | 0.4 | 5.6 | 8.0 | 1.1 | 0.8 | 0.6 | 1.0 |
 | 2026-27 proj, ESPN | 60 | 19.4 | 48.2 (5.5) | 62.2 (1.5) | 0.4 | 6.7 | 8.4 | 1.2 | 0.7 | 0.7 | 1.0 |
+| 2026-27 proj, Yahoo | 67 | - | 45.6 (4.9) | 62.7 (1.2) | 0.4 | 5.6 | 8.0 | 1.1 | 0.8 | 0.6 | 1.0 |
+| 2025-26 | 63 | 19.6 | 47.2 (5.3) | 63.1 (1.3) | 0.5 | 6.4 | 8.4 | 1.3 | 0.6 | 0.8 | 1.0 |
+| 2024-25 | 40 | 18.7 | 50.0 (5.8) | 62.2 (2.2) | 0.1 | 7.3 | 7.8 | 0.8 | 1.0 | 0.5 | 1.4 |
+| 2023-24 | 79 | 17.1 | 55.6 (6.1) | 59.2 (2.8) | 0.0 | 8.4 | 9.0 | 0.5 | 0.9 | 0.6 | 1.0 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,12 +30,12 @@
 </details>
 
 **Current**
+- The Knicks are expected to be cautious over the first 30 or so games, with starters' minutes trimmed and more rest on back-to-backs. (verdict, 2026-09-22, until first 30 or so games; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [09-22](https://youtu.be/QbdrhJd7LiA?t=914))
+- The Knicks brought in James Wiseman, Drew Eubanks and other camp signings for the big man depth behind him. One or two of them are expected to make the roster. (fact, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=387))
 - The Knicks brought in Drummond to replace Mitchell Robinson as their backup center. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=154), [08-13](https://youtu.be/okN3fbHJtlA?t=217))
 - He is expected to play roughly the backup center minutes Robinson played, behind starter Towns. Little double-big lineup use is expected. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=217), [08-13](https://youtu.be/okN3fbHJtlA?t=317))
 - He has no back-to-back restrictions. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=217))
 - He can play around 29 minutes if Towns misses time. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=217))
-- The Knicks brought in James Wiseman, Drew Eubanks and other camp signings for the big man depth behind him. One or two of them are expected to make the roster. (fact, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=387))
-- The Knicks are expected to be cautious over the first 30 or so games, with starters' minutes trimmed and more rest on back-to-backs. (verdict, 2026-09-22, until first 30 or so games; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [09-22](https://youtu.be/QbdrhJd7LiA?t=914))
 
 **Durable**
 - He is still an elite offensive rebounder, a good defensive playmaker and a good screener. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=1180))

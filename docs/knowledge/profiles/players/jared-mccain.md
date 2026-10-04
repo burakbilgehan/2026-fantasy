@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 23 | 25.8 | 46.0 (11.9) | 87.5 (2.4) | 2.2 | 15.3 | 2.4 | 2.6 | 0.7 | 0.0 | 1.6 |
-| 2025-26 | 67 | 17.4 | 42.5 (7.2) | 86.4 (0.9) | 1.5 | 8.3 | 2.0 | 1.3 | 0.5 | 0.1 | 0.8 |
-| 2026-27 proj, Yahoo | 67 | - | 44.3 (10.2) | 79.8 (1.5) | 2.0 | 12.2 | 2.7 | 2.0 | 0.7 | 0.1 | 1.3 |
 | 2026-27 proj, ESPN | 69 | 24.7 | 42.8 (10.3) | 86.7 (1.3) | 2.1 | 12.1 | 2.9 | 2.0 | 0.7 | 0.1 | 1.2 |
+| 2026-27 proj, Yahoo | 67 | - | 44.3 (10.2) | 79.8 (1.5) | 2.0 | 12.2 | 2.7 | 2.0 | 0.7 | 0.1 | 1.3 |
+| 2025-26 | 67 | 17.4 | 42.5 (7.2) | 86.4 (0.9) | 1.5 | 8.3 | 2.0 | 1.3 | 0.5 | 0.1 | 0.8 |
+| 2024-25 | 23 | 25.8 | 46.0 (11.9) | 87.5 (2.4) | 2.2 | 15.3 | 2.4 | 2.6 | 0.7 | 0.0 | 1.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,15 +29,15 @@
 </details>
 
 **Current**
+- The Thunder will have to give more minutes to McCain and Ajay Mitchell. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=202))
 - Experts expect McCain to come off the bench behind Cason Wallace and Ajay Mitchell. Wallace is almost certain to start. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=2011), [07-26](https://youtu.be/75Sk_4fkgIM?t=1722), [08-30](https://youtu.be/Alwse2uXzD4?t=1728))
+- He is overrated for fantasy at an ADP around 100. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=2011))
 - ESPN starting lineup graphics show McCain in the OKC starting lineup. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1722))
 - Josh sees no chance that McCain starts. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1722))
 - OKC traded away Lu Dort, Isaiah Joe and Aaron Wiggins. That frees up usage on the team. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=267), [07-20](https://youtu.be/-KS_AZjZnw4?t=1705))
-- The Thunder will have to give more minutes to McCain and Ajay Mitchell. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=202))
 - He has his first fully healthy offseason and a stable role in OKC. Before that he had an uncomfortable stint in Philadelphia and was traded midseason. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1796))
 - OKC values him more than outsiders do. The team believes he can get to the rim on the ball. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1767))
 - He got to the rim last season but did not finish well there. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1767))
-- He is overrated for fantasy at an ADP around 100. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=2011))
 
 **Durable**
 - He is a scorer only. He gives little in rebounds, assists, steals or blocks. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=2011), stats)

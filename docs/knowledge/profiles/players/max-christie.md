@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 67 | 14.1 | 42.7 (3.6) | 78.3 (0.7) | 0.6 | 4.2 | 2.1 | 0.9 | 0.3 | 0.3 | 0.5 |
-| 2024-25 | 78 | 27.2 | 42.7 (7.6) | 85.5 (1.9) | 1.5 | 9.6 | 3.3 | 1.9 | 0.8 | 0.4 | 1.1 |
-| 2025-26 | 77 | 29.1 | 44.1 (9.4) | 89.9 (1.8) | 2.3 | 12.3 | 3.2 | 2.0 | 0.6 | 0.4 | 1.2 |
-| 2026-27 proj, Yahoo | 73 | - | 43.6 (9.7) | 87.5 (2.0) | 2.3 | 12.5 | 3.6 | 2.6 | 0.6 | 0.3 | 3.0 |
 | 2026-27 proj, ESPN | 77 | 28.2 | 43.9 (8.9) | 88.5 (1.8) | 2.1 | 11.5 | 3.2 | 1.9 | 0.6 | 0.4 | 1.2 |
+| 2026-27 proj, Yahoo | 73 | - | 43.6 (9.7) | 87.5 (2.0) | 2.3 | 12.5 | 3.6 | 2.6 | 0.6 | 0.3 | 3.0 |
+| 2025-26 | 77 | 29.1 | 44.1 (9.4) | 89.9 (1.8) | 2.3 | 12.3 | 3.2 | 2.0 | 0.6 | 0.4 | 1.2 |
+| 2024-25 | 78 | 27.2 | 42.7 (7.6) | 85.5 (1.9) | 1.5 | 9.6 | 3.3 | 1.9 | 0.8 | 0.4 | 1.1 |
+| 2023-24 | 67 | 14.1 | 42.7 (3.6) | 78.3 (0.7) | 0.6 | 4.2 | 2.1 | 0.9 | 0.3 | 0.3 | 0.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -32,9 +32,9 @@
 **Current**
 - He is almost certain to start. Josh's projected Dallas starting five is Kyrie Irving, Max Christie, Cooper Flagg, P.J. Washington and Morez Johnson Jr. (verdict, 2026-09-29; [07-27](https://youtu.be/0AptxcRW0RE?t=1707), [09-29](https://youtu.be/XSPJL_mlFXo?t=358))
 - Dusty May, the new Dallas head coach, has said Christie will have a breakout year. (fact, 2026-09-29; [07-27](https://youtu.be/0AptxcRW0RE?t=1576), [09-29](https://youtu.be/XSPJL_mlFXo?t=234))
-- Experts see no real upside for him this season, especially with Kyrie Irving back. Cooper Flagg is the first priority on offense and Kyrie is second, and Kyrie's shots come mostly from players other than Flagg. (verdict, 2026-09-16; [08-24](https://youtu.be/g31YlwRe0XQ?t=2506), [09-16](https://youtu.be/2A2JbUN-kc0?t=488), [09-10](https://youtu.be/dlo7L8Ru91A?t=353))
 - Josh is not interested in Christie outside 18 or 20 team leagues. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1147))
 - Dallas has a 4-4-4 schedule in the fantasy playoffs, probably the best in the league, but also a league-high 16 back-to-backs. Dallas has a two-game week in the matchup starting March 1. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953), [08-16](https://youtu.be/gf_6GveiAls?t=1343))
+- Experts see no real upside for him this season, especially with Kyrie Irving back. Cooper Flagg is the first priority on offense and Kyrie is second, and Kyrie's shots come mostly from players other than Flagg. (verdict, 2026-09-16; [08-24](https://youtu.be/g31YlwRe0XQ?t=2506), [09-16](https://youtu.be/2A2JbUN-kc0?t=488), [09-10](https://youtu.be/dlo7L8Ru91A?t=353))
 
 **Durable**
 - He shot 40% from three and about 90% on free throws. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1118), [07-27](https://youtu.be/0AptxcRW0RE?t=1539))

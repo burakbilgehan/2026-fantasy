@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 60 | 21.2 | 42.5 (7.4) | 86.3 (0.8) | 1.5 | 8.5 | 2.2 | 1.1 | 0.6 | 0.0 | 0.8 |
-| 2024-25 | 54 | 29.5 | 41.0 (12.0) | 85.8 (2.9) | 2.1 | 14.4 | 3.6 | 1.8 | 0.9 | 0.2 | 1.5 |
-| 2025-26 | 76 | 14.0 | 41.9 (5.1) | 87.5 (1.2) | 0.7 | 6.0 | 1.9 | 0.7 | 0.6 | 0.1 | 0.6 |
-| 2026-27 proj, Yahoo | 69 | - | 40.6 (8.1) | 86.1 (1.7) | 1.4 | 9.4 | 2.6 | 1.3 | 0.7 | 0.2 | 1.7 |
 | 2026-27 proj, ESPN | 72 | 25.8 | 41.7 (9.5) | 87.4 (2.1) | 1.5 | 11.2 | 3.4 | 1.3 | 1.0 | 0.2 | 1.1 |
+| 2026-27 proj, Yahoo | 69 | - | 40.6 (8.1) | 86.1 (1.7) | 1.4 | 9.4 | 2.6 | 1.3 | 0.7 | 0.2 | 1.7 |
+| 2025-26 | 76 | 14.0 | 41.9 (5.1) | 87.5 (1.2) | 0.7 | 6.0 | 1.9 | 0.7 | 0.6 | 0.1 | 0.6 |
+| 2024-25 | 54 | 29.5 | 41.0 (12.0) | 85.8 (2.9) | 2.1 | 14.4 | 3.6 | 1.8 | 0.9 | 0.2 | 1.5 |
+| 2023-24 | 60 | 21.2 | 42.5 (7.4) | 86.3 (0.8) | 1.5 | 8.5 | 2.2 | 1.1 | 0.6 | 0.0 | 0.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,15 +30,15 @@
 </details>
 
 **Current**
-- He was traded from Toronto to the Clippers in the summer of 2026. (fact, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=813))
-- He is expected to come off the Clippers bench. (fact, 2026-07-01; [06-30](https://youtu.be/JMSLg6yz-M0?t=813), [07-01](https://youtu.be/W3THnI7wWdA?t=1452), [06-30](https://youtu.be/JMSLg6yz-M0?t=794))
 - He has no clear path to minutes with the Clippers. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1795))
 - Do not draft him. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1795), [06-30](https://youtu.be/JMSLg6yz-M0?t=813))
 - The Clippers may treat this as a trial season with long rotations and many players tested, and Ty Lue changes rotations often, so his minutes are hard to predict. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
+- He is expected to come off the Clippers bench. (fact, 2026-07-01; [06-30](https://youtu.be/JMSLg6yz-M0?t=813), [07-01](https://youtu.be/W3THnI7wWdA?t=1452), [06-30](https://youtu.be/JMSLg6yz-M0?t=794))
+- He was traded from Toronto to the Clippers in the summer of 2026. (fact, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=813))
 
 **Durable**
-- His game is not fantasy friendly. (verdict, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=813))
 - He has a shooter's reputation, but his FG% sits around 41 to 42% and his projected 3PM is only about league average, so the shooting does not show up as a category strength. (fact, 2026-10-04; stats, [10-04](https://youtu.be/tnzmsYUA4yQ?t=1795))
+- His game is not fantasy friendly. (verdict, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=813))
 
 **Tags**
 - Current: `new team` (Traded from Toronto to the Clippers), `minutes competition` (Bench role on the Clippers with no clear path to minutes)

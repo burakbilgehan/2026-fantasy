@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 17 | 3.2 | 65.0 (1.2) | 50.0 (0.1) | 0.1 | 1.7 | 1.2 | 0.5 | 0.1 | 0.1 | 0.1 |
-| 2024-25 | 13 | 2.5 | 40.0 (1.2) | 100.0 (0.6) | 0.0 | 1.5 | 0.8 | 0.0 | 0.2 | 0.1 | 0.2 |
-| 2025-26 | 46 | 15.7 | 55.3 (5.7) | 73.6 (1.2) | 0.7 | 7.8 | 3.9 | 0.9 | 0.4 | 0.3 | 0.8 |
-| 2026-27 proj, Yahoo | 30 | - | 45.3 (4.9) | 83.9 (1.0) | 0.6 | 6.0 | 3.4 | 0.6 | 0.3 | 0.3 | 0.4 |
 | 2026-27 proj, ESPN | 62 | 13.6 | 55.2 (5.0) | 74.2 (1.0) | 0.6 | 6.9 | 3.4 | 0.8 | 0.3 | 0.3 | 0.7 |
+| 2026-27 proj, Yahoo | 30 | - | 45.3 (4.9) | 83.9 (1.0) | 0.6 | 6.0 | 3.4 | 0.6 | 0.3 | 0.3 | 0.4 |
+| 2025-26 | 46 | 15.7 | 55.3 (5.7) | 73.6 (1.2) | 0.7 | 7.8 | 3.9 | 0.9 | 0.4 | 0.3 | 0.8 |
+| 2024-25 | 13 | 2.5 | 40.0 (1.2) | 100.0 (0.6) | 0.0 | 1.5 | 0.8 | 0.0 | 0.2 | 0.1 | 0.2 |
+| 2023-24 | 17 | 3.2 | 65.0 (1.2) | 50.0 (0.1) | 0.1 | 1.7 | 1.2 | 0.5 | 0.1 | 0.1 | 0.1 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -31,13 +31,13 @@
 
 **Current**
 - He is a deep bench player. The 10th spot in the rotation is open between him, Patrick Williams and Zach Collins. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1383))
-- With Caleb Wilson, Matas Buzelis and Nick Claxton ahead of him, he does not have a clear path to a real role. (verdict, 2026-06-23; [06-23](https://youtu.be/9tb1ARBEmQU?t=911))
 - If Buzelis or Wilson got hurt, he would likely start and play about 25 minutes. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1892), [08-18](https://youtu.be/FxaSnyk9g90?t=1565))
 - He is a stash option only in formats that make stashing easy. He is 22 and played well late last season. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1892), [06-23](https://youtu.be/9tb1ARBEmQU?t=911))
+- With Caleb Wilson, Matas Buzelis and Nick Claxton ahead of him, he does not have a clear path to a real role. (verdict, 2026-06-23; [06-23](https://youtu.be/9tb1ARBEmQU?t=911))
 
 **Durable**
-- He is an active two-way player who crashes the glass and can play the 3, 4 and 5. (fact, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1539))
 - Steals are a clear weakness, well below the league pool. (fact, 2026-10-04; stats)
+- He is an active two-way player who crashes the glass and can play the 3, 4 and 5. (fact, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1539))
 
 **Tags**
 - Current: `minutes competition` (Competes with Patrick Williams and Zach Collins for the 10th rotation spot), `handcuff` (Would likely start and play about 25 minutes if Buzelis or Caleb Wilson got hurt), `waiver watch` (Ranked well outside the 144 drafted players; add only if Buzelis or Wilson gets hurt)

@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 74 | 19.0 | 43.0 (6.4) | 48.7 (0.5) | 1.1 | 6.9 | 3.6 | 0.8 | 0.6 | 0.5 | 0.5 |
-| 2025-26 | 70 | 19.4 | 45.3 (5.2) | 48.9 (0.7) | 0.8 | 5.8 | 4.2 | 1.5 | 0.9 | 0.4 | 0.8 |
-| 2026-27 proj, Yahoo | 72 | - | 43.9 (5.8) | 51.1 (0.6) | 1.0 | 6.4 | 4.1 | 1.3 | 0.9 | 0.5 | 0.7 |
 | 2026-27 proj, ESPN | 71 | 22.6 | 45.0 (6.3) | 49.1 (0.8) | 1.0 | 7.0 | 4.8 | 1.6 | 1.0 | 0.5 | 0.9 |
+| 2026-27 proj, Yahoo | 72 | - | 43.9 (5.8) | 51.1 (0.6) | 1.0 | 6.4 | 4.1 | 1.3 | 0.9 | 0.5 | 0.7 |
+| 2025-26 | 70 | 19.4 | 45.3 (5.2) | 48.9 (0.7) | 0.8 | 5.8 | 4.2 | 1.5 | 0.9 | 0.4 | 0.8 |
+| 2024-25 | 74 | 19.0 | 43.0 (6.4) | 48.7 (0.5) | 1.1 | 6.9 | 3.6 | 0.8 | 0.6 | 0.5 | 0.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,9 +29,9 @@
 </details>
 
 **Current**
-- He is not in the projected Phoenix starting lineup of Devin Booker, Jalen Green, Dillon Brooks, Miles Bridges and Mark Williams. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=509))
-- The Phoenix perimeter usage is crowded: Booker, Jalen Green, Dillon Brooks, Collin Gillespie and Miles Bridges will all want touches. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=989))
 - Both sites rank him outside the 144 players our league drafts, so he is not a draft target for us. (verdict, 2026-10-04; stats)
+- The Phoenix perimeter usage is crowded: Booker, Jalen Green, Dillon Brooks, Collin Gillespie and Miles Bridges will all want touches. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=989))
+- He is not in the projected Phoenix starting lineup of Devin Booker, Jalen Green, Dillon Brooks, Miles Bridges and Mark Williams. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=509))
 
 **Durable**
 - He is a low-usage role player. He takes few shots and commits few turnovers, and his weak free throw shooting comes on so few attempts that it barely moves a team's FT%. (fact, 2026-10-04; stats)

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 51 | 20.1 | 37.2 (6.4) | 75.6 (0.9) | 1.6 | 7.0 | 2.0 | 1.3 | 0.7 | 0.1 | 0.5 |
-| 2024-25 | 75 | 26.9 | 46.7 (11.0) | 75.7 (2.9) | 2.2 | 14.6 | 4.3 | 3.0 | 1.0 | 0.3 | 1.9 |
-| 2025-26 | 75 | 29.5 | 45.0 (10.1) | 84.0 (3.2) | 1.7 | 13.4 | 3.6 | 3.3 | 0.9 | 0.4 | 1.8 |
-| 2026-27 proj, Yahoo | 71 | - | 44.2 (11.9) | 80.6 (3.3) | 2.4 | 15.6 | 3.9 | 3.2 | 1.0 | 0.4 | 2.0 |
 | 2026-27 proj, ESPN | 73 | 30.8 | 45.5 (11.3) | 80.3 (3.2) | 2.1 | 14.9 | 4.2 | 3.4 | 1.0 | 0.4 | 1.9 |
+| 2026-27 proj, Yahoo | 71 | - | 44.2 (11.9) | 80.6 (3.3) | 2.4 | 15.6 | 3.9 | 3.2 | 1.0 | 0.4 | 2.0 |
+| 2025-26 | 75 | 29.5 | 45.0 (10.1) | 84.0 (3.2) | 1.7 | 13.4 | 3.6 | 3.3 | 0.9 | 0.4 | 1.8 |
+| 2024-25 | 75 | 26.9 | 46.7 (11.0) | 75.7 (2.9) | 2.2 | 14.6 | 4.3 | 3.0 | 1.0 | 0.3 | 1.9 |
+| 2023-24 | 51 | 20.1 | 37.2 (6.4) | 75.6 (0.9) | 1.6 | 7.0 | 2.0 | 1.3 | 0.7 | 0.1 | 0.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,13 +30,13 @@
 </details>
 
 **Current**
+- Experts expect him to start and play about 30 minutes. One expert says the starting role is not confirmed yet. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1969), [09-30](https://youtu.be/BjXP9JODDSg?t=2070), [08-04](https://youtu.be/_WjOjp6Qu8E?t=528), [09-24](https://youtu.be/_vbAP5y182A?t=2370))
+- If a top Lakers player gets hurt, he becomes the number two option with top 80 upside. That makes him some insurance on Luka Doncic, whose health is a known risk. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1969), [09-30](https://youtu.be/BjXP9JODDSg?t=2070), [08-05](https://youtu.be/CI4k8ofUXXk?t=103))
+- Ziaire Williams might also start for the Lakers, which could cut into the open starting spots. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
+- He is a last-round flyer as a likely starter. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
 - The Lakers have two open starting spots. Grimes, LaRavia and Mamukelashvili are the main candidates. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669))
 - Whoever comes off the Lakers bench in that group is expected to still play about 27 minutes. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669))
 - LeBron James left the Lakers for the Sixers and Rui Hachimura appears to be gone. This frees up usage for the players who remain. (fact, 2026-08-04; [07-01](https://youtu.be/W3THnI7wWdA?t=872), [08-04](https://youtu.be/_WjOjp6Qu8E?t=306))
-- Experts expect him to start and play about 30 minutes. One expert says the starting role is not confirmed yet. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1969), [09-30](https://youtu.be/BjXP9JODDSg?t=2070), [08-04](https://youtu.be/_WjOjp6Qu8E?t=528), [09-24](https://youtu.be/_vbAP5y182A?t=2370))
-- Ziaire Williams might also start for the Lakers, which could cut into the open starting spots. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
-- If a top Lakers player gets hurt, he becomes the number two option with top 80 upside. That makes him some insurance on Luka Doncic, whose health is a known risk. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1969), [09-30](https://youtu.be/BjXP9JODDSg?t=2070), [08-05](https://youtu.be/CI4k8ofUXXk?t=103))
-- He is a last-round flyer as a likely starter. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
 
 **Durable**
 - He is a point of attack defender who can also score and handle the ball. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=528))

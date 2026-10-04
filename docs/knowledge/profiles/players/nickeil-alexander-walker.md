@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 82 | 23.5 | 43.9 (6.6) | 80.0 (0.8) | 1.6 | 8.0 | 2.0 | 2.5 | 0.8 | 0.5 | 0.9 |
-| 2024-25 | 82 | 25.3 | 43.8 (7.5) | 78.0 (1.4) | 1.7 | 9.4 | 3.2 | 2.7 | 0.6 | 0.4 | 1.2 |
-| 2025-26 | 78 | 33.4 | 45.9 (15.3) | 90.2 (3.9) | 3.2 | 20.8 | 3.4 | 3.7 | 1.3 | 0.5 | 2.1 |
-| 2026-27 proj, Yahoo | 80 | - | 45.5 (14.4) | 85.8 (3.5) | 3.0 | 19.1 | 3.5 | 3.5 | 1.1 | 0.6 | 1.8 |
 | 2026-27 proj, ESPN | 79 | 32.3 | 45.7 (14.2) | 89.5 (3.5) | 3.0 | 19.2 | 3.4 | 3.5 | 1.2 | 0.5 | 1.9 |
+| 2026-27 proj, Yahoo | 80 | - | 45.5 (14.4) | 85.8 (3.5) | 3.0 | 19.1 | 3.5 | 3.5 | 1.1 | 0.6 | 1.8 |
+| 2025-26 | 78 | 33.4 | 45.9 (15.3) | 90.2 (3.9) | 3.2 | 20.8 | 3.4 | 3.7 | 1.3 | 0.5 | 2.1 |
+| 2024-25 | 82 | 25.3 | 43.8 (7.5) | 78.0 (1.4) | 1.7 | 9.4 | 3.2 | 2.7 | 0.6 | 0.4 | 1.2 |
+| 2023-24 | 82 | 23.5 | 43.9 (6.6) | 80.0 (0.8) | 1.6 | 8.0 | 2.0 | 2.5 | 0.8 | 0.5 | 0.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -31,25 +31,25 @@
 
 **Current**
 - Experts project him as Atlanta's starting shooting guard. The projected starters are McCollum, Alexander-Walker, Daniels, Johnson and Okongwu, each at 30 or more minutes. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=328), [08-25](https://youtu.be/H9q2FT3LhNw?t=428), [08-25](https://youtu.be/H9q2FT3LhNw?t=507), [06-30](https://youtu.be/4GDfg2n2l8o?t=526))
-- He won Most Improved Player. Moving him to the bench would be a hard sell. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=507))
-- Trae Young is no longer with Atlanta. Kingston Flemings is not expected to start over him. (fact, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=305), [07-14](https://youtu.be/xHRF06_E9HE?t=230))
-- The conditions behind his rise are still in place. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=305))
-- Atlanta has no true point guard. McCollum, Alexander-Walker, Johnson and Daniels share the ball handling. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=364))
-- With CJ McCollum around for most of the season, his usage and ball handling should change. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=601))
 - Lu Dort is the main threat to his minutes. Drafters may fear this, but experts still list Dort on the bench. (verdict, 2026-09-25; [09-21](https://youtu.be/egRrai3Ax38?t=1752), [09-21](https://youtu.be/egRrai3Ax38?t=1750), [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
 - His hot shooting after the All-Star break will not stick (about 70% true shooting, around 95% FT, 45 to 48% from three). An easy late schedule helped Atlanta's run. A fair baseline is his pre All-Star line of about 20 points on 58% true shooting. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=996), [08-25](https://youtu.be/H9q2FT3LhNw?t=632), [08-25](https://youtu.be/H9q2FT3LhNw?t=116), [07-14](https://youtu.be/xHRF06_E9HE?t=211), [07-16](https://youtu.be/-y6p5PYLf00?t=1900), [09-10](https://youtu.be/W-R1dzem32s?t=1011), [09-09](https://youtu.be/7BllEsdNLoM?t=1469), [09-21](https://youtu.be/egRrai3Ax38?t=1752))
-- His role, minutes and time on the ball are repeatable, even with less efficient shooting. The rest of his line is not outrageous. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1011), [09-09](https://youtu.be/7BllEsdNLoM?t=1469), [07-14](https://youtu.be/xHRF06_E9HE?t=211))
 - In category leagues, experts rank him in the top 50, and Lloyd puts him probably inside the top 40. He usually goes in the 50s or later, so he is slightly undervalued. Round four is fair, and round five is good value. His ESPN ADP is indefensibly low. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=982), [09-25](https://youtu.be/4gw4W4RTolY?t=1040), [09-24](https://youtu.be/_vbAP5y182A?t=1016), [07-14](https://youtu.be/xHRF06_E9HE?t=333), [09-17](https://youtu.be/ahNxsoU8Hx4?t=850), [09-10](https://youtu.be/W-R1dzem32s?t=1011), [09-09](https://youtu.be/7BllEsdNLoM?t=1469), [09-29](https://youtu.be/XnIWJyBB0EM?t=1988))
-- He is not a first-round player. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=270))
-- He converted 36.7% of his deflections into steals, up from 29%. He also got more deflections in his bigger offensive role. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1450))
-- There may be room for more steals. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1450))
 - Atlanta plays 4, 4 and 3 games in our playoff weeks 19 to 21. They have 14 back-to-backs. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739))
 - Resting players is not a concern in Atlanta. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739))
+- His role, minutes and time on the ball are repeatable, even with less efficient shooting. The rest of his line is not outrageous. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1011), [09-09](https://youtu.be/7BllEsdNLoM?t=1469), [07-14](https://youtu.be/xHRF06_E9HE?t=211))
+- He won Most Improved Player. Moving him to the bench would be a hard sell. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=507))
+- Atlanta has no true point guard. McCollum, Alexander-Walker, Johnson and Daniels share the ball handling. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=364))
+- With CJ McCollum around for most of the season, his usage and ball handling should change. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=601))
+- He converted 36.7% of his deflections into steals, up from 29%. He also got more deflections in his bigger offensive role. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1450))
+- There may be room for more steals. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1450))
+- Trae Young is no longer with Atlanta. Kingston Flemings is not expected to start over him. (fact, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=305), [07-14](https://youtu.be/xHRF06_E9HE?t=230))
+- The conditions behind his rise are still in place. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=305))
+- He is not a first-round player. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=270))
 
 **Durable**
+- His best categories are threes, FT% and points. FG% and rebounds are slightly below the pool. No category is a league outlier, either strong or weak. (fact, 2026-10-04; stats)
 - He is one of the better catch-and-shoot three-point shooters in the NBA and has been for three seasons. About 40% from three on high volume is a reasonable expectation. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=677))
 - His track record at the line is about 77 to 78%. His jump to about 90% is partly random, and about 81% would still be fine. (verdict, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1301), [07-16](https://youtu.be/-y6p5PYLf00?t=1900))
-- His best categories are threes, FT% and points. FG% and rebounds are slightly below the pool. No category is a league outlier, either strong or weak. (fact, 2026-10-04; stats)
 
 **Tags**
 - Current: `sleeper` (ADP in the 50s on Yahoo and far later on ESPN; experts see top 40 to 50 value), `expert target` (Lloyd's top Hawks target, top 40 to 50 in cats), `sites disagree on price` (Yahoo rank 56 and value 18 USD; ESPN rank 31 and value 24 USD; ESPN ADP much later than Yahoo)

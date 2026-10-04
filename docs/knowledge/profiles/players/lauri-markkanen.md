@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 55 | 33.1 | 48.0 (16.2) | 89.9 (5.0) | 3.2 | 23.2 | 8.2 | 2.0 | 0.9 | 0.5 | 1.4 |
-| 2024-25 | 47 | 31.4 | 42.3 (14.9) | 87.6 (3.9) | 2.9 | 19.0 | 5.9 | 1.5 | 0.7 | 0.4 | 1.4 |
-| 2025-26 | 42 | 34.4 | 47.7 (19.2) | 89.6 (6.4) | 2.7 | 26.7 | 6.9 | 2.1 | 1.0 | 0.5 | 1.5 |
-| 2026-27 proj, Yahoo | 68 | - | 46.3 (17.3) | 89.1 (5.4) | 2.9 | 23.7 | 8.0 | 1.9 | 0.9 | 0.5 | 1.5 |
 | 2026-27 proj, ESPN | 69 | 34.0 | 46.4 (17.3) | 89.1 (5.3) | 3.0 | 23.8 | 7.2 | 1.9 | 0.9 | 0.5 | 1.5 |
+| 2026-27 proj, Yahoo | 68 | - | 46.3 (17.3) | 89.1 (5.4) | 2.9 | 23.7 | 8.0 | 1.9 | 0.9 | 0.5 | 1.5 |
+| 2025-26 | 42 | 34.4 | 47.7 (19.2) | 89.6 (6.4) | 2.7 | 26.7 | 6.9 | 2.1 | 1.0 | 0.5 | 1.5 |
+| 2024-25 | 47 | 31.4 | 42.3 (14.9) | 87.6 (3.9) | 2.9 | 19.0 | 5.9 | 1.5 | 0.7 | 0.4 | 1.4 |
+| 2023-24 | 55 | 33.1 | 48.0 (16.2) | 89.9 (5.0) | 3.2 | 23.2 | 8.2 | 2.0 | 0.9 | 0.5 | 1.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,19 +30,19 @@
 </details>
 
 **Current**
-- He is a projected starter in a Jazz lineup of Keyonte George, Darryn Peterson, Markkanen, Jaren Jackson Jr. and Jusuf Nurkic. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=349))
-- He is healthy going into the season. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1203))
-- Experts expect him to produce less than last season. He must share usage with a full season of Jaren Jackson Jr. and rookie Darryn Peterson on a balanced offense. One projection is 34 minutes and 25 usage. (verdict, 2026-09-16; [09-10](https://youtu.be/dlo7L8Ru91A?t=978), [08-19](https://youtu.be/J1Eg3uaAICU?t=1707), [08-05](https://youtu.be/CI4k8ofUXXk?t=975), [09-16](https://youtu.be/2A2JbUN-kc0?t=2281), [06-25](https://youtu.be/lOshTzDA4SA?t=541))
-- The Jazz plan to compete this season and are not tanking. (fact, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2500), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1176), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677))
-- Experts say the fear that Utah will sit him or shut him down is misplaced. (verdict, 2026-09-24; [09-21](https://youtu.be/egRrai3Ax38?t=1562), [09-21](https://youtu.be/egRrai3Ax38?t=859), [09-10](https://youtu.be/dlo7L8Ru91A?t=973), [09-10](https://youtu.be/dlo7L8Ru91A?t=978), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [09-24](https://youtu.be/_vbAP5y182A?t=723))
-- Experts call him underrated. They expect him to beat his Yahoo ADP of 44, and they call his ESPN ADP (77 to 89) a steal. One expert ranks him 25th in 9-cat. (verdict, 2026-09-21; [09-17](https://youtu.be/ahNxsoU8Hx4?t=421), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1223), [09-21](https://youtu.be/egRrai3Ax38?t=1562), [09-16](https://youtu.be/2A2JbUN-kc0?t=2281))
-- In 9-cat mock drafts the experts were happy to take him in round 3, around pick 32. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=723), [08-11](https://youtu.be/OdDkXFhoKsc?t=763))
 - His Yahoo projected price of 26 USD is well above his Yahoo average price of 16 USD, so he looks like good value at market price. (verdict, 2026-09-29; [09-29](https://youtu.be/XnIWJyBB0EM?t=2116))
+- Experts say the fear that Utah will sit him or shut him down is misplaced. (verdict, 2026-09-24; [09-21](https://youtu.be/egRrai3Ax38?t=1562), [09-21](https://youtu.be/egRrai3Ax38?t=859), [09-10](https://youtu.be/dlo7L8Ru91A?t=973), [09-10](https://youtu.be/dlo7L8Ru91A?t=978), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [09-24](https://youtu.be/_vbAP5y182A?t=723))
+- In 9-cat mock drafts the experts were happy to take him in round 3, around pick 32. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=723), [08-11](https://youtu.be/OdDkXFhoKsc?t=763))
+- Experts call him underrated. They expect him to beat his Yahoo ADP of 44, and they call his ESPN ADP (77 to 89) a steal. One expert ranks him 25th in 9-cat. (verdict, 2026-09-21; [09-17](https://youtu.be/ahNxsoU8Hx4?t=421), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1223), [09-21](https://youtu.be/egRrai3Ax38?t=1562), [09-16](https://youtu.be/2A2JbUN-kc0?t=2281))
+- He is healthy going into the season. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1203))
+- The Jazz plan to compete this season and are not tanking. (fact, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2500), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1176), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677))
+- Experts expect him to produce less than last season. He must share usage with a full season of Jaren Jackson Jr. and rookie Darryn Peterson on a balanced offense. One projection is 34 minutes and 25 usage. (verdict, 2026-09-16; [09-10](https://youtu.be/dlo7L8Ru91A?t=978), [08-19](https://youtu.be/J1Eg3uaAICU?t=1707), [08-05](https://youtu.be/CI4k8ofUXXk?t=975), [09-16](https://youtu.be/2A2JbUN-kc0?t=2281), [06-25](https://youtu.be/lOshTzDA4SA?t=541))
+- He is a projected starter in a Jazz lineup of Keyonte George, Darryn Peterson, Markkanen, Jaren Jackson Jr. and Jusuf Nurkic. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=349))
 
 **Durable**
 - Elite free throw shooter on high volume (about 89% on 5 or more attempts per game). He lifts a team's FT% clearly. (fact, 2026-10-04; stats)
-- He has missed many games in recent seasons. The absences were a mix of real injuries and tank-driven holdouts. (fact, 2026-09-14; [08-05](https://youtu.be/CI4k8ofUXXk?t=1673), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1231), stats)
 - Experts see real injury risk, and one says he cannot stay healthy. Others call past concerns mostly exaggerated. (verdict, 2026-09-16; [08-24](https://youtu.be/g31YlwRe0XQ?t=1071), [08-19](https://youtu.be/J1Eg3uaAICU?t=1707), [09-16](https://youtu.be/2A2JbUN-kc0?t=2281))
+- He has missed many games in recent seasons. The absences were a mix of real injuries and tank-driven holdouts. (fact, 2026-09-14; [08-05](https://youtu.be/CI4k8ofUXXk?t=1673), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1231), stats)
 - His best position is power forward. He has played out of position at small forward for the last couple of years. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=1094))
 - He plays several short stints per game. He comes out early and goes back in. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=393))
 

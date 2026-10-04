@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 36 | 16.6 | 49.5 (5.1) | 82.9 (1.0) | 0.6 | 6.5 | 1.9 | 1.8 | 0.7 | 0.1 | 0.8 |
-| 2025-26 | 57 | 25.8 | 48.5 (10.4) | 87.0 (2.8) | 1.1 | 13.6 | 3.3 | 3.6 | 1.2 | 0.3 | 1.4 |
-| 2026-27 proj, Yahoo | 65 | - | 48.7 (10.5) | 86.4 (2.7) | 1.1 | 13.7 | 3.5 | 3.9 | 1.3 | 0.3 | 1.5 |
 | 2026-27 proj, ESPN | 55 | 23.5 | 48.4 (9.3) | 86.2 (2.5) | 1.0 | 12.2 | 3.0 | 3.3 | 1.1 | 0.3 | 1.3 |
+| 2026-27 proj, Yahoo | 65 | - | 48.7 (10.5) | 86.4 (2.7) | 1.1 | 13.7 | 3.5 | 3.9 | 1.3 | 0.3 | 1.5 |
+| 2025-26 | 57 | 25.8 | 48.5 (10.4) | 87.0 (2.8) | 1.1 | 13.6 | 3.3 | 3.6 | 1.2 | 0.3 | 1.4 |
+| 2024-25 | 36 | 16.6 | 49.5 (5.1) | 82.9 (1.0) | 0.6 | 6.5 | 1.9 | 1.8 | 0.7 | 0.1 | 0.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -32,12 +32,12 @@
 - OKC traded away Lu Dort, Isaiah Joe and Wiggins to cut salary and replaced them with rookies and unproven young players. (fact, 2026-10-02; [07-26](https://youtu.be/75Sk_4fkgIM?t=267), [07-26](https://youtu.be/75Sk_4fkgIM?t=818), [08-30](https://youtu.be/Alwse2uXzD4?t=1728), [09-07](https://youtu.be/gJUBAJaHzlU?t=1758), [10-02](https://youtu.be/ZYllcj4o6_A?t=816))
 - Those departures should give Mitchell more minutes and some spot starts. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=816), [09-30](https://youtu.be/BjXP9JODDSg?t=202), [07-20](https://youtu.be/-KS_AZjZnw4?t=1705), [07-01](https://youtu.be/W3THnI7wWdA?t=998))
 - Most experts do not expect him to start over Cason Wallace. They see him as the Thunder's sixth man. One expert says he might still start. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=816), [09-07](https://youtu.be/gJUBAJaHzlU?t=1764), [08-30](https://youtu.be/Alwse2uXzD4?t=1728), [09-09](https://youtu.be/7BllEsdNLoM?t=2218))
-- One expert does not expect him to play 30 minutes a night. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1773))
-- Experts say his fantasy numbers last season were inflated by injuries to teammates. He needed several players out to produce. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1764), [08-24](https://youtu.be/g31YlwRe0XQ?t=2117))
 - His value would soar if Shai Gilgeous-Alexander gets hurt. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=816))
+- Experts call his value a bit overblown. He is a safe pick with little ceiling and a late flyer at most. Taking him in round 9 was too early. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=816), [09-24](https://youtu.be/_vbAP5y182A?t=1788), [09-07](https://youtu.be/gJUBAJaHzlU?t=1865), [09-09](https://youtu.be/7BllEsdNLoM?t=2218))
+- Experts say his fantasy numbers last season were inflated by injuries to teammates. He needed several players out to produce. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1764), [08-24](https://youtu.be/g31YlwRe0XQ?t=2117))
+- One expert does not expect him to play 30 minutes a night. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1773))
 - Last season he shot 42% from three in 16 starts and 32% in 41 games off the bench, under 35% overall. His efficiency and usage both dropped as the season went on. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1970), [07-26](https://youtu.be/75Sk_4fkgIM?t=1993))
 - Ryland expects him to share the floor more with SGA and Jalen Williams this season, which should make him more efficient. He sees those three together as OKC's best lineup. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1896), [07-26](https://youtu.be/75Sk_4fkgIM?t=903))
-- Experts call his value a bit overblown. He is a safe pick with little ceiling and a late flyer at most. Taking him in round 9 was too early. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=816), [09-24](https://youtu.be/_vbAP5y182A?t=1788), [09-07](https://youtu.be/gJUBAJaHzlU?t=1865), [09-09](https://youtu.be/7BllEsdNLoM?t=2218))
 - He is extension eligible next summer. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=930))
 
 **Durable**

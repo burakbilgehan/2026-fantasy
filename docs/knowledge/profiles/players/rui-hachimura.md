@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 68 | 26.8 | 53.7 (9.9) | 73.9 (2.0) | 1.4 | 13.6 | 4.3 | 1.2 | 0.6 | 0.4 | 0.7 |
-| 2024-25 | 59 | 31.6 | 50.9 (9.8) | 77.0 (1.9) | 1.7 | 13.1 | 5.0 | 1.4 | 0.8 | 0.4 | 0.8 |
-| 2025-26 | 68 | 28.3 | 51.4 (8.8) | 69.4 (1.1) | 1.7 | 11.5 | 3.3 | 0.8 | 0.6 | 0.3 | 0.6 |
-| 2026-27 proj, Yahoo | 65 | - | 51.6 (8.6) | 73.0 (1.4) | 1.6 | 11.4 | 3.7 | 1.0 | 0.6 | 0.3 | 0.6 |
 | 2026-27 proj, ESPN | 71 | 27.7 | 51.7 (8.9) | 72.7 (1.4) | 1.6 | 11.8 | 3.7 | 1.0 | 0.6 | 0.3 | 0.6 |
+| 2026-27 proj, Yahoo | 65 | - | 51.6 (8.6) | 73.0 (1.4) | 1.6 | 11.4 | 3.7 | 1.0 | 0.6 | 0.3 | 0.6 |
+| 2025-26 | 68 | 28.3 | 51.4 (8.8) | 69.4 (1.1) | 1.7 | 11.5 | 3.3 | 0.8 | 0.6 | 0.3 | 0.6 |
+| 2024-25 | 59 | 31.6 | 50.9 (9.8) | 77.0 (1.9) | 1.7 | 13.1 | 5.0 | 1.4 | 0.8 | 0.4 | 0.8 |
+| 2023-24 | 68 | 26.8 | 53.7 (9.9) | 73.9 (2.0) | 1.4 | 13.6 | 4.3 | 1.2 | 0.6 | 0.4 | 0.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -45,8 +45,8 @@
 - He shoots a good field goal percentage, around 51% to 54% in recent seasons. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=914), stats)
 - He gives very little in assists, steals and blocks. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=900), [09-10](https://youtu.be/dlo7L8Ru91A?t=1995), stats)
 - He rarely gets to the free throw line and is not a good free throw shooter. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=900), stats)
-- He is a consistent shooter with a pull-up midrange game. He is not a good defender and not much of a creator. (verdict, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=499))
 - Experts do not see him as a good fantasy player. Like Harrison Barnes, he shoots threes on low usage and does little else. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1866), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2401), [07-05](https://youtu.be/4kKINkZhWls?t=1794), [08-22](https://youtu.be/KLogvUwv_d8?t=267))
+- He is a consistent shooter with a pull-up midrange game. He is not a good defender and not much of a creator. (verdict, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=499))
 
 **Tags**
 - Current: `new team` (Joined the Clippers, replacing John Collins as starting PF), `role up` (Projected starter with more usage while Ingram is out; until Ingram returns), `flyer` (Upside pick around 164 for points and threes), `sites disagree on price` (Yahoo rank 121, ESPN rank 197), `good playoff schedule` (4-3-4 games in weeks 19 to 21), `few back-to-backs` (13 back-to-backs, one of the lowest totals)

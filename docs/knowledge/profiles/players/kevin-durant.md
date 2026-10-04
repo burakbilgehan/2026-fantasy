@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 75 | 37.2 | 52.3 (19.1) | 85.6 (5.6) | 2.2 | 27.1 | 6.6 | 5.0 | 0.9 | 1.2 | 3.3 |
-| 2024-25 | 62 | 36.6 | 52.7 (18.1) | 83.9 (5.8) | 2.6 | 26.6 | 6.0 | 4.2 | 0.8 | 1.2 | 3.1 |
-| 2025-26 | 78 | 36.4 | 52.0 (17.6) | 87.4 (6.0) | 2.4 | 26.0 | 5.5 | 4.8 | 0.8 | 0.9 | 3.2 |
-| 2026-27 proj, Yahoo | 70 | - | 52.4 (16.8) | 86.0 (5.4) | 2.2 | 24.5 | 5.2 | 4.3 | 0.8 | 1.0 | 2.9 |
 | 2026-27 proj, ESPN | 72 | 34.6 | 52.3 (17.2) | 85.9 (5.5) | 2.3 | 25.0 | 5.6 | 4.4 | 0.8 | 1.0 | 3.0 |
+| 2026-27 proj, Yahoo | 70 | - | 52.4 (16.8) | 86.0 (5.4) | 2.2 | 24.5 | 5.2 | 4.3 | 0.8 | 1.0 | 2.9 |
+| 2025-26 | 78 | 36.4 | 52.0 (17.6) | 87.4 (6.0) | 2.4 | 26.0 | 5.5 | 4.8 | 0.8 | 0.9 | 3.2 |
+| 2024-25 | 62 | 36.6 | 52.7 (18.1) | 83.9 (5.8) | 2.6 | 26.6 | 6.0 | 4.2 | 0.8 | 1.2 | 3.1 |
+| 2023-24 | 75 | 37.2 | 52.3 (19.1) | 85.6 (5.6) | 2.2 | 27.1 | 6.6 | 5.0 | 0.9 | 1.2 | 3.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,16 +30,16 @@
 </details>
 
 **Current**
-- Reports from Rockets media day say Durant will play fewer minutes this season. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=357), [09-30](https://youtu.be/BjXP9JODDSg?t=357))
 - The experts disagree on his minutes. Lloyd expects about 36 minutes a game again, maybe 35, because coach Ime Udoka plays his starters heavy minutes. Others expect the team to manage his workload more and not chase seeding in the regular season. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=299), [10-01](https://youtu.be/aLP080hxizA?t=146), [09-14](https://youtu.be/LM0cRCGoAUQ?t=451), [09-10](https://youtu.be/dlo7L8Ru91A?t=265), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1802), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780))
 - If his minutes fall to about 33 a game, his value changes materially. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=299))
 - He hurt his ankle in the playoffs and is fine now. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1924))
 - In category leagues the experts see him as a first-round player and a value at his market price. Lloyd is happy to take him at the end of round one. In mocks he was preferred over Maxey, Jalen Johnson, Steph Curry and Scottie Barnes. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=387), [09-30](https://youtu.be/BjXP9JODDSg?t=357), [09-24](https://youtu.be/_vbAP5y182A?t=428), [09-23](https://youtu.be/C4vlgpJ62NI?t=2109), [09-17](https://youtu.be/ahNxsoU8Hx4?t=372), [09-15](https://youtu.be/KPdD91Oo8-U?t=448), [09-07](https://youtu.be/E-KmhvyZ2CU?t=434), [09-10](https://youtu.be/dlo7L8Ru91A?t=265), [09-10](https://youtu.be/W-R1dzem32s?t=384), [09-14](https://youtu.be/LM0cRCGoAUQ?t=451), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=151))
 - At his ESPN rank of 28 he is a clear bargain. Lloyd calls him his best Rockets target in category leagues at that price. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1680), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2120))
-- He has the narrowest range of outcomes among round-two players: best case 6th, worst case 24th, not counting injury. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=446))
 - He will play almost no shooting guard. He is realistically a forward, and more Rockets guard depth pushes him further into forward minutes. (verdict, 2026-10-01; [09-10](https://youtu.be/W-R1dzem32s?t=384), [10-01](https://youtu.be/aLP080hxizA?t=266))
 - With the March 28 end date, the Rockets have a weak 3-3-4 fantasy playoff schedule, 10 games over weeks 19 to 21. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
 - The Rockets have only 14 back-to-backs this season. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011))
+- Reports from Rockets media day say Durant will play fewer minutes this season. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=357), [09-30](https://youtu.be/BjXP9JODDSg?t=357))
+- He has the narrowest range of outcomes among round-two players: best case 6th, worst case 24th, not counting injury. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=446))
 
 **Durable**
 - Durant is an efficient scorer. He shoots well from the field and the line on high volume, and he also helps in points and blocks for a forward. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=440), stats)

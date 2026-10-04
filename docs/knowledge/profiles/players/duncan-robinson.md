@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 68 | 28.0 | 45.0 (9.9) | 88.9 (1.3) | 2.8 | 12.9 | 2.5 | 2.8 | 0.7 | 0.2 | 1.4 |
-| 2024-25 | 74 | 24.1 | 43.7 (9.0) | 88.7 (0.7) | 2.6 | 11.0 | 2.3 | 2.4 | 0.5 | 0.1 | 1.2 |
-| 2025-26 | 77 | 27.4 | 45.6 (9.1) | 75.5 (1.4) | 2.9 | 12.2 | 2.7 | 2.1 | 0.6 | 0.3 | 0.7 |
-| 2026-27 proj, Yahoo | 70 | - | 42.7 (8.2) | 80.8 (1.0) | 2.5 | 10.3 | 2.2 | 2.8 | 0.5 | 0.3 | 1.4 |
 | 2026-27 proj, ESPN | 76 | 26.2 | 45.3 (8.8) | 76.8 (1.3) | 2.7 | 11.7 | 2.5 | 2.1 | 0.6 | 0.2 | 0.8 |
+| 2026-27 proj, Yahoo | 70 | - | 42.7 (8.2) | 80.8 (1.0) | 2.5 | 10.3 | 2.2 | 2.8 | 0.5 | 0.3 | 1.4 |
+| 2025-26 | 77 | 27.4 | 45.6 (9.1) | 75.5 (1.4) | 2.9 | 12.2 | 2.7 | 2.1 | 0.6 | 0.3 | 0.7 |
+| 2024-25 | 74 | 24.1 | 43.7 (9.0) | 88.7 (0.7) | 2.6 | 11.0 | 2.3 | 2.4 | 0.5 | 0.1 | 1.2 |
+| 2023-24 | 68 | 28.0 | 45.0 (9.9) | 88.9 (1.3) | 2.8 | 12.9 | 2.5 | 2.8 | 0.7 | 0.2 | 1.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -37,8 +37,8 @@
 
 **Durable**
 - He is an elite three-point shooter. Threes are his only clearly strong category. (fact, 2026-10-04; [08-12](https://youtu.be/p9XE5jFqhvs?t=684), stats)
-- His usage is low, and he adds little besides threes. His defense and passing have improved a lot. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1167))
 - He takes very few free throws, so his FT% barely moves a team ratio. His FT% fell sharply last season on that low volume. (fact, 2026-10-04; [08-12](https://youtu.be/p9XE5jFqhvs?t=684), stats)
+- His usage is low, and he adds little besides threes. His defense and passing have improved a lot. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1167))
 
 **Tags**
 - Current: `waiver watch` (Streaming option for threes, not a draft target.)

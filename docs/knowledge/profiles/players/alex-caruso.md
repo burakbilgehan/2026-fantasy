@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 71 | 28.7 | 46.8 (7.6) | 76.0 (1.4) | 1.9 | 10.1 | 3.8 | 3.5 | 1.7 | 1.0 | 1.4 |
-| 2024-25 | 54 | 19.3 | 44.6 (5.8) | 82.4 (0.9) | 1.1 | 7.1 | 2.9 | 2.5 | 1.6 | 0.6 | 0.7 |
-| 2025-26 | 56 | 18.2 | 42.3 (5.4) | 80.4 (0.9) | 0.9 | 6.2 | 2.8 | 2.0 | 1.3 | 0.3 | 0.9 |
-| 2026-27 proj, Yahoo | 58 | - | 44.1 (5.8) | 80.7 (1.0) | 1.2 | 7.1 | 3.0 | 2.4 | 1.4 | 0.5 | 0.9 |
 | 2026-27 proj, ESPN | 69 | 24.3 | 43.1 (7.1) | 79.5 (1.2) | 1.3 | 8.4 | 3.6 | 2.7 | 1.7 | 0.5 | 1.1 |
+| 2026-27 proj, Yahoo | 58 | - | 44.1 (5.8) | 80.7 (1.0) | 1.2 | 7.1 | 3.0 | 2.4 | 1.4 | 0.5 | 0.9 |
+| 2025-26 | 56 | 18.2 | 42.3 (5.4) | 80.4 (0.9) | 0.9 | 6.2 | 2.8 | 2.0 | 1.3 | 0.3 | 0.9 |
+| 2024-25 | 54 | 19.3 | 44.6 (5.8) | 82.4 (0.9) | 1.1 | 7.1 | 2.9 | 2.5 | 1.6 | 0.6 | 0.7 |
+| 2023-24 | 71 | 28.7 | 46.8 (7.6) | 76.0 (1.4) | 1.9 | 10.1 | 3.8 | 3.5 | 1.7 | 1.0 | 1.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,13 +30,13 @@
 </details>
 
 **Current**
-- OKC traded Lu Dort, Aaron Wiggins and Isaiah Joe to save salary. Apart from Jalen Williams and Caruso, the team has no true wings left who can guard bigger forwards. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=267), [07-26](https://youtu.be/75Sk_4fkgIM?t=818), [07-26](https://youtu.be/75Sk_4fkgIM?t=390))
 - Guard minutes are expected to go to Shai Gilgeous-Alexander, Ajay Mitchell, Cason Wallace and Topic. Cason Wallace is almost certain to start. (verdict, 2026-08-30; [07-21](https://youtu.be/RyzcCGChYgs?t=1024), [08-30](https://youtu.be/Alwse2uXzD4?t=1728))
+- OKC traded Lu Dort, Aaron Wiggins and Isaiah Joe to save salary. Apart from Jalen Williams and Caruso, the team has no true wings left who can guard bigger forwards. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=267), [07-26](https://youtu.be/75Sk_4fkgIM?t=818), [07-26](https://youtu.be/75Sk_4fkgIM?t=390))
 
 **Durable**
-- He can defend bigger forwards. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=407))
 - Steals are his best category and clearly above the top 250 pool. He also keeps turnovers low. (fact, 2026-10-04; stats)
 - Points are his weakest category for his position. (fact, 2026-10-04; stats)
+- He can defend bigger forwards. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=407))
 
 **Tags**
 - Current: `sites disagree on price` (Yahoo rank 196, ESPN rank 137; ESPN projects 69 games and more minutes than Yahoo's 58 games)

@@ -27,17 +27,17 @@
 
 **Current**
 - He is a rookie center for OKC. He sits behind Isaiah Hartenstein, Chet Holmgren and Jaylin Williams in the center rotation. (fact, 2026-09-17; [08-02](https://youtu.be/TOn-D1SV7a8?t=1186), [07-21](https://youtu.be/RyzcCGChYgs?t=1056), [07-21](https://youtu.be/RyzcCGChYgs?t=1024), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1274))
-- Experts expect him to barely play this season because the OKC frontcourt is crowded. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1186), [07-21](https://youtu.be/RyzcCGChYgs?t=1056), [06-28](https://youtu.be/RsjGTgJiKyI?t=443), [06-28](https://youtu.be/RsjGTgJiKyI?t=446))
 - Hartenstein's role looks secure. Jaylin Williams barely played last season unless the centers were out. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1274))
+- Experts expect him to barely play this season because the OKC frontcourt is crowded. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1186), [07-21](https://youtu.be/RyzcCGChYgs?t=1056), [06-28](https://youtu.be/RsjGTgJiKyI?t=443), [06-28](https://youtu.be/RsjGTgJiKyI?t=446))
 - He struggled in Summer League. He shot 35.7% from the line but averaged 3.2 assists, 7 rebounds and 1.8 blocks. (fact, 2026-08-02; [07-21](https://youtu.be/RyzcCGChYgs?t=1056), [07-26](https://youtu.be/75Sk_4fkgIM?t=1331), [08-02](https://youtu.be/TOn-D1SV7a8?t=1186))
 - One expert dropped him to 10th in a dynasty rookie ranking after Summer League. His appeal is long term, not this season. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1186), [06-28](https://youtu.be/RsjGTgJiKyI?t=443))
 
 **Durable**
-- He is a huge center whose shot blocking is real. Experts also credit him with a strong field goal percentage. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1186), [06-28](https://youtu.be/RsjGTgJiKyI?t=949), [07-21](https://youtu.be/RyzcCGChYgs?t=1056))
-- He is a strong passer for a big man. One expert compares his assists to Alperen Sengun's. (verdict, 2026-07-26; [06-28](https://youtu.be/RsjGTgJiKyI?t=949), [07-21](https://youtu.be/RyzcCGChYgs?t=1056), [07-26](https://youtu.be/75Sk_4fkgIM?t=1331))
-- His free throw shooting is very bad. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1186), [07-21](https://youtu.be/RyzcCGChYgs?t=1056))
-- He plays drop coverage only and does not project as a switchable big. He looks slow and lacks a go-to offensive move. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1331), [07-21](https://youtu.be/RyzcCGChYgs?t=1056))
 - He makes almost no threes and gets few steals. (fact, 2026-10-04; stats)
+- He is a huge center whose shot blocking is real. Experts also credit him with a strong field goal percentage. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1186), [06-28](https://youtu.be/RsjGTgJiKyI?t=949), [07-21](https://youtu.be/RyzcCGChYgs?t=1056))
+- His free throw shooting is very bad. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1186), [07-21](https://youtu.be/RyzcCGChYgs?t=1056))
+- He is a strong passer for a big man. One expert compares his assists to Alperen Sengun's. (verdict, 2026-07-26; [06-28](https://youtu.be/RsjGTgJiKyI?t=949), [07-21](https://youtu.be/RyzcCGChYgs?t=1056), [07-26](https://youtu.be/75Sk_4fkgIM?t=1331))
+- He plays drop coverage only and does not project as a switchable big. He looks slow and lacks a go-to offensive move. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1331), [07-21](https://youtu.be/RyzcCGChYgs?t=1056))
 
 **Tags**
 - Current: `rookie` (2026 draft pick, already 21), `minutes competition` (Behind Hartenstein, Holmgren and Jaylin Williams at center)

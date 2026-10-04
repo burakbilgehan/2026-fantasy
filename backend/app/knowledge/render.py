@@ -66,6 +66,11 @@ def resolved_tags(doc: dict, reg: Registry, gate=None) -> dict[str, list[dict]]:
     return out
 
 
+def newest_first(items: list[dict]) -> list[dict]:
+    """Statements by date, newest on top. Same date keeps the LLM's order."""
+    return sorted(items, key=lambda i: i.get("date") or "", reverse=True)
+
+
 def escape_dollar(text: str) -> str:
     """Markdown viewers read "$38 ... $12" as LaTeX math; escape the dollar sign."""
     return text.replace("\\$", "$").replace("$", "\\$")
@@ -82,12 +87,12 @@ def profile_md(doc: dict, numbers: stats.PlayerNumbers, reg: Registry, notes: di
     p = doc["player"]
     h = "#" * level
     out = [f"{h} {p['name']} ({p['team'] or 'FA'}, {p['position'] or '?'})", "",
-           stats.stat_table(numbers), "", stats.price_table(numbers), ""]
+           stats.stat_table(numbers, newest_first=True), "", stats.price_table(numbers), ""]
     if category_block:
         out += ["<details><summary>Category profile (code)</summary>\n", category_block, "\n</details>\n"]
     for section in ("current", "durable"):
         out.append(f"**{section.capitalize()}**")
-        out += [_statement(i, notes) for i in doc.get(section, [])] or ["- none"]
+        out += [_statement(i, notes) for i in newest_first(doc.get(section, []))] or ["- none"]
         out.append("")
     tags = resolved_tags(doc, reg, gate)
     out.append("**Tags**")
@@ -116,7 +121,7 @@ def team_md(doc: dict, numbers_block: str, reg: Registry, notes: dict[str, Note]
     out = [f"# {doc['team']}", "", numbers_block, ""]
     for section in ("current", "durable"):
         out.append(f"**{section.capitalize()}**")
-        out += [_statement(i, notes) for i in doc.get(section, [])] or ["- none"]
+        out += [_statement(i, notes) for i in newest_first(doc.get(section, []))] or ["- none"]
         out.append("")
     tags = resolved_tags(doc, reg, gate=lambda rule, sources: (False, "player tag"))
     out.append("**Tags**")

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 62 | 33.5 | 44.9 (18.8) | 86.9 (4.4) | 1.9 | 22.7 | 4.3 | 7.5 | 0.9 | 0.4 | 3.4 |
-| 2024-25 | 70 | 35.0 | 46.9 (20.8) | 84.6 (5.3) | 2.1 | 26.1 | 6.1 | 9.1 | 1.0 | 0.8 | 4.4 |
-| 2025-26 | 64 | 33.9 | 46.1 (18.6) | 81.2 (6.0) | 2.0 | 23.9 | 5.5 | 9.9 | 1.4 | 0.8 | 3.7 |
-| 2026-27 proj, Yahoo | 69 | - | 46.1 (19.6) | 83.1 (5.7) | 2.1 | 24.9 | 6.1 | 9.5 | 1.2 | 0.8 | 4.0 |
 | 2026-27 proj, ESPN | 69 | 34.8 | 46.1 (19.3) | 81.8 (5.9) | 2.0 | 24.6 | 5.6 | 9.8 | 1.4 | 0.8 | 3.8 |
+| 2026-27 proj, Yahoo | 69 | - | 46.1 (19.6) | 83.1 (5.7) | 2.1 | 24.9 | 6.1 | 9.5 | 1.2 | 0.8 | 4.0 |
+| 2025-26 | 64 | 33.9 | 46.1 (18.6) | 81.2 (6.0) | 2.0 | 23.9 | 5.5 | 9.9 | 1.4 | 0.8 | 3.7 |
+| 2024-25 | 70 | 35.0 | 46.9 (20.8) | 84.6 (5.3) | 2.1 | 26.1 | 6.1 | 9.1 | 1.0 | 0.8 | 4.4 |
+| 2023-24 | 62 | 33.5 | 44.9 (18.8) | 86.9 (4.4) | 1.9 | 22.7 | 4.3 | 7.5 | 0.9 | 0.4 | 3.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -34,21 +34,21 @@
 - In category leagues he projects to finish around 8th to 10th, behind Jayson Tatum and Anthony Edwards. One expert has Kawhi Leonard ahead of him too. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=558), [10-03](https://youtu.be/_O9pc_u5vH0?t=606))
 - He ranks higher in points leagues than in categories. He could finish ahead of Shai Gilgeous-Alexander in points formats. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=606), [09-16](https://youtu.be/2A2JbUN-kc0?t=426), [08-24](https://youtu.be/g31YlwRe0XQ?t=371))
 - His free throw percentage dropped last season. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=514))
-- Experts rank him below consensus in 9-cat because his FG% and FT% are iffy. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=1876))
 - He had a 31 usage rate in 34 minutes per game. Detroit lost creation with Tobias Harris gone and has very few creators besides him. (fact, 2026-10-03; [09-16](https://youtu.be/2A2JbUN-kc0?t=1876), [09-09](https://youtu.be/7BllEsdNLoM?t=520), [10-03](https://youtu.be/_O9pc_u5vH0?t=229), [07-07](https://youtu.be/ME-r173X5b0?t=1114))
+- Detroit plays 4-3-4 games in our playoff weeks 19 to 21. The team has 15 back-to-backs, and no rest is expected for its players. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
+- He has no injury now, and Detroit has no notable injuries. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1862), stats)
+- His auction value is about 50 USD. Nominated early, he can go for around 35 USD. (verdict, 2026-09-29; [09-29](https://youtu.be/XnIWJyBB0EM?t=1190))
+- Experts rank him below consensus in 9-cat because his FG% and FT% are iffy. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=1876))
 - His usage may go up after the roster changes. A bigger offensive load could hurt his efficiency. (verdict, 2026-09-16; [09-09](https://youtu.be/7BllEsdNLoM?t=520), [09-16](https://youtu.be/2A2JbUN-kc0?t=1876))
 - Detroit wants him to take more catch-and-shoot threes, with Ausar Thompson running some of the offense. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1602))
 - He led the group in potential assists (24.7 per 100), so his assists could go over 10 per game, unless Daniss Jenkins takes a bigger role. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=1125), [07-07](https://youtu.be/ME-r173X5b0?t=1114))
-- His auction value is about 50 USD. Nominated early, he can go for around 35 USD. (verdict, 2026-09-29; [09-29](https://youtu.be/XnIWJyBB0EM?t=1190))
-- Detroit plays 4-3-4 games in our playoff weeks 19 to 21. The team has 15 back-to-backs, and no rest is expected for its players. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
-- He has no injury now, and Detroit has no notable injuries. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1862), stats)
 
 **Durable**
 - Assists are his elite category, far above the top 250 pool. (fact, 2026-10-04; stats)
 - He commits many turnovers, a league outlier that hurts the TO category. (fact, 2026-10-04; stats)
+- He has a spotty injury history. It includes lower body problems in recent years and a punctured lung at the end of last season. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=526), [09-16](https://youtu.be/2A2JbUN-kc0?t=426), [09-09](https://youtu.be/7BllEsdNLoM?t=554))
 - He carries a heavy creation load. That hurts his finishing and his two-point percentage, so FG% is a weak spot. (verdict, 2026-09-23; [08-12](https://youtu.be/p9XE5jFqhvs?t=981), [09-23](https://youtu.be/C4vlgpJ62NI?t=1913))
 - His free throws are fine but not a strong asset. Experts want to see him back over 85%. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1913), [09-16](https://youtu.be/2A2JbUN-kc0?t=426))
-- He has a spotty injury history. It includes lower body problems in recent years and a punctured lung at the end of last season. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=526), [09-16](https://youtu.be/2A2JbUN-kc0?t=426), [09-09](https://youtu.be/7BllEsdNLoM?t=554))
 - One expert is not particularly worried about his injury history. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=554))
 
 **Tags**

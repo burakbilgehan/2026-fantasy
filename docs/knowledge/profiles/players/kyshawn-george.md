@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 68 | 26.5 | 37.2 (8.0) | 75.3 (1.4) | 1.7 | 8.7 | 4.2 | 2.5 | 1.0 | 0.7 | 1.4 |
-| 2025-26 | 48 | 28.9 | 43.8 (12.0) | 80.2 (2.7) | 2.1 | 14.8 | 5.1 | 4.5 | 1.0 | 0.9 | 2.6 |
-| 2026-27 proj, Yahoo | 68 | - | 43.3 (10.1) | 78.2 (2.3) | 1.9 | 12.5 | 5.1 | 3.9 | 1.1 | 0.9 | 2.2 |
 | 2026-27 proj, ESPN | 66 | 29.4 | 42.8 (11.6) | 79.4 (2.5) | 2.1 | 14.0 | 5.1 | 4.2 | 1.0 | 0.9 | 2.4 |
+| 2026-27 proj, Yahoo | 68 | - | 43.3 (10.1) | 78.2 (2.3) | 1.9 | 12.5 | 5.1 | 3.9 | 1.1 | 0.9 | 2.2 |
+| 2025-26 | 48 | 28.9 | 43.8 (12.0) | 80.2 (2.7) | 2.1 | 14.8 | 5.1 | 4.5 | 1.0 | 0.9 | 2.6 |
+| 2024-25 | 68 | 26.5 | 37.2 (8.0) | 75.3 (1.4) | 1.7 | 8.7 | 4.2 | 2.5 | 1.0 | 0.7 | 1.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,21 +29,21 @@
 </details>
 
 **Current**
-- Washington added Trae Young, Anthony Davis and AJ Dybantsa, all of whom missed last season. (fact, 2026-09-10; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [09-17](https://youtu.be/DubdKKhMWHo?t=1436), [09-10](https://youtu.be/dlo7L8Ru91A?t=1962), [09-10](https://youtu.be/W-R1dzem32s?t=1891))
 - Experts expect him to start, but it is not guaranteed. If he starts, he is likely the fifth offensive option. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2823), [09-10](https://youtu.be/dlo7L8Ru91A?t=1962), [07-23](https://youtu.be/UTE0dNIv8nY?t=408), [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
-- Washington has a deep group of wings and guards, and the fifth starter spot is open. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1586), [07-23](https://youtu.be/UTE0dNIv8nY?t=2098), [07-23](https://youtu.be/LUTYUdXBG1M?t=248))
 - Last season he played like a top 50 player for about two months while handling the ball more. His role then shrank and his production fell off badly. (fact, 2026-10-02; [09-10](https://youtu.be/W-R1dzem32s?t=1891), [06-25](https://youtu.be/lOshTzDA4SA?t=1498), [07-23](https://youtu.be/UTE0dNIv8nY?t=408), [10-02](https://youtu.be/ZYllcj4o6_A?t=2823))
 - Experts do not expect him to repeat last season's jump, because Young, Davis and Dybantsa will take usage from him. One expert called his efficiency last season horrific. (verdict, 2026-10-02; [09-10](https://youtu.be/dlo7L8Ru91A?t=1962), [09-10](https://youtu.be/W-R1dzem32s?t=1891), [09-07](https://youtu.be/gJUBAJaHzlU?t=1554), [09-04](https://youtu.be/gerS7ibpaJo?t=691), [10-02](https://youtu.be/ZYllcj4o6_A?t=2823))
-- One expert puts him in tier 8 of small forwards. Another calls his ADP of 112 marginally high. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1962), [09-07](https://youtu.be/gJUBAJaHzlU?t=1554))
-- Ben thinks the organization likes him most of its young wings and guards, and sees him as the best all-around player in that group. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=930))
 - A trade of Anthony Davis would help his role. One expert is about 80% sure the Wizards keep Davis. (verdict, 2026-09-14; [06-30](https://youtu.be/4GDfg2n2l8o?t=1524), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1083))
+- Washington added Trae Young, Anthony Davis and AJ Dybantsa, all of whom missed last season. (fact, 2026-09-10; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [09-17](https://youtu.be/DubdKKhMWHo?t=1436), [09-10](https://youtu.be/dlo7L8Ru91A?t=1962), [09-10](https://youtu.be/W-R1dzem32s?t=1891))
+- One expert puts him in tier 8 of small forwards. Another calls his ADP of 112 marginally high. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1962), [09-07](https://youtu.be/gJUBAJaHzlU?t=1554))
+- Washington has a deep group of wings and guards, and the fifth starter spot is open. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1586), [07-23](https://youtu.be/UTE0dNIv8nY?t=2098), [07-23](https://youtu.be/LUTYUdXBG1M?t=248))
+- Ben thinks the organization likes him most of its young wings and guards, and sees him as the best all-around player in that group. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=930))
 - Washington is trying to compete for the play-in, so the late-season rest and minutes cuts of past years should not happen. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802))
 
 **Durable**
+- An arm injury ended his 2025-26 season early. (fact, 2026-09-10; [07-23](https://youtu.be/UTE0dNIv8nY?t=408), [09-10](https://youtu.be/W-R1dzem32s?t=1891), [06-25](https://youtu.be/lOshTzDA4SA?t=1498))
+- His blocks are good for a wing. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1554), stats)
 - He is a two-way wing who can guard shooting guard through power forward. He can struggle against quicker guards. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=443))
 - He shoots well from outside, especially on catch-and-shoot chances. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=443))
-- His blocks are good for a wing. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1554), stats)
-- An arm injury ended his 2025-26 season early. (fact, 2026-09-10; [07-23](https://youtu.be/UTE0dNIv8nY?t=408), [09-10](https://youtu.be/W-R1dzem32s?t=1891), [06-25](https://youtu.be/lOshTzDA4SA?t=1498))
 
 **Tags**
 - Current: `role down` (Trae Young, Anthony Davis and AJ Dybantsa take usage; likely fifth offensive option), `minutes competition` (Crowded wing group; starting spot not guaranteed), `injury last season` (Arm injury ended his season early; 48 games), `bust candidate` (ADP 112 called marginally high)

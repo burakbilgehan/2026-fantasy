@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 38 | 26.9 | 38.6 (9.5) | 83.5 (2.1) | 2.0 | 11.1 | 3.7 | 3.0 | 1.6 | 0.4 | 1.0 |
-| 2024-25 | 6 | 20.2 | 40.7 (9.0) | 62.5 (1.3) | 2.2 | 10.3 | 3.3 | 2.8 | 1.2 | 0.3 | 1.7 |
-| 2025-26 | 49 | 23.0 | 40.7 (10.8) | 82.6 (2.5) | 1.5 | 12.3 | 3.2 | 2.6 | 1.6 | 0.4 | 1.9 |
-| 2026-27 proj, Yahoo | 60 | - | 41.8 (11.1) | 82.4 (2.5) | 1.9 | 13.1 | 3.5 | 2.8 | 1.6 | 0.4 | 1.8 |
 | 2026-27 proj, ESPN | 65 | 23.1 | 40.5 (10.7) | 82.7 (2.4) | 1.5 | 12.2 | 3.2 | 2.6 | 1.6 | 0.4 | 1.8 |
+| 2026-27 proj, Yahoo | 60 | - | 41.8 (11.1) | 82.4 (2.5) | 1.9 | 13.1 | 3.5 | 2.8 | 1.6 | 0.4 | 1.8 |
+| 2025-26 | 49 | 23.0 | 40.7 (10.8) | 82.6 (2.5) | 1.5 | 12.3 | 3.2 | 2.6 | 1.6 | 0.4 | 1.9 |
+| 2024-25 | 6 | 20.2 | 40.7 (9.0) | 62.5 (1.3) | 2.2 | 10.3 | 3.3 | 2.8 | 1.2 | 0.3 | 1.7 |
+| 2023-24 | 38 | 26.9 | 38.6 (9.5) | 83.5 (2.1) | 2.0 | 11.1 | 3.7 | 3.0 | 1.6 | 0.4 | 1.0 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -31,21 +31,21 @@
 
 **Current**
 - He is projected to come off the bench. The projected starting guards are Curry and Podziemski. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=270), [08-22](https://youtu.be/LXZLrL90crE?t=1787), [09-30](https://youtu.be/MUbNYdjpUDM?t=678))
-- The starting guard spot next to Curry is unclear among Podziemski, Melton and Santos. He has an outside shot to start. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1810), [09-09](https://youtu.be/7BllEsdNLoM?t=2550))
 - Steve Kerr often names a starting lineup and changes it a few games later, with a lot of mixing among the wings. His role could shift early in the season. (verdict, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=301), [09-30](https://youtu.be/MUbNYdjpUDM?t=237))
-- Golden State's depth is very poor and they struggle to field a 10-man rotation, so minutes should go up across the rotation. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
 - His knee recovery after the ACL injury is still a concern. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=716))
 - If he starts and plays about 28 minutes, he is worth a pickup in every 12-team league and can beat last season's rank of 179. He is not worth it in 10-team leagues. One expert puts him in tier 9 of the point guard rankings. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=716), [09-30](https://youtu.be/MUbNYdjpUDM?t=1224), [09-09](https://youtu.be/7BllEsdNLoM?t=2550))
-- One expert expects him to do a bit more than last season. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1787))
 - The Warriors may treat this as a gap year. They are worried about lottery odds and may rest veterans, and experts expect Warriors players to fade as the season goes on. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
 - Golden State's schedule is good for fantasy playoffs that end March 28. The team also has 15 back-to-backs, tied for second most. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [08-16](https://youtu.be/gf_6GveiAls?t=991))
+- The starting guard spot next to Curry is unclear among Podziemski, Melton and Santos. He has an outside shot to start. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1810), [09-09](https://youtu.be/7BllEsdNLoM?t=2550))
+- Golden State's depth is very poor and they struggle to field a 10-man rotation, so minutes should go up across the rotation. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
+- One expert expects him to do a bit more than last season. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1787))
 
 **Durable**
-- He is a steals specialist. His steals are far above the top 250 pool. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1203), stats)
-- He is a good defender but not a primary creator. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=336))
-- He is a career 36 to 39% three-point shooter. He shot badly last season after coming back from injury. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1203), [08-22](https://youtu.be/LXZLrL90crE?t=336))
 - His FG% is low for a guard on about 11 shots per game. (fact, 2026-10-04; stats)
+- He is a steals specialist. His steals are far above the top 250 pool. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1203), stats)
+- He is a career 36 to 39% three-point shooter. He shot badly last season after coming back from injury. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1203), [08-22](https://youtu.be/LXZLrL90crE?t=336))
 - He has had an ACL injury. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=716))
+- He is a good defender but not a primary creator. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=336))
 
 **Tags**
 - Current: `minutes competition` (Starting guard spot unclear among Podziemski, Melton and Santos), `waiver watch` (Pickup in 12-team leagues if he starts and plays about 28 minutes), `good playoff schedule` (Good schedule for playoffs ending March 28), `shutdown risk` (Possible gap year; team may rest veterans for lottery odds)

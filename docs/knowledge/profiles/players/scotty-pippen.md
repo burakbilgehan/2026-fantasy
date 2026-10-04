@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 21 | 25.0 | 49.3 (9.7) | 74.5 (2.6) | 1.4 | 12.9 | 3.2 | 4.7 | 1.7 | 0.5 | 2.7 |
-| 2024-25 | 79 | 21.3 | 48.0 (7.5) | 71.3 (2.2) | 1.1 | 9.9 | 3.3 | 4.4 | 1.3 | 0.4 | 1.7 |
-| 2025-26 | 10 | 21.2 | 44.8 (9.6) | 78.3 (2.3) | 1.0 | 11.4 | 2.2 | 4.7 | 1.9 | 0.4 | 2.7 |
-| 2026-27 proj, Yahoo | 65 | - | 48.1 (9.4) | 74.1 (2.6) | 1.3 | 12.3 | 3.2 | 4.6 | 1.8 | 0.5 | 2.5 |
 | 2026-27 proj, ESPN | 63 | 24.3 | 46.6 (9.5) | 74.1 (2.5) | 1.2 | 12.0 | 3.2 | 5.1 | 1.8 | 0.4 | 2.4 |
+| 2026-27 proj, Yahoo | 65 | - | 48.1 (9.4) | 74.1 (2.6) | 1.3 | 12.3 | 3.2 | 4.6 | 1.8 | 0.5 | 2.5 |
+| 2025-26 | 10 | 21.2 | 44.8 (9.6) | 78.3 (2.3) | 1.0 | 11.4 | 2.2 | 4.7 | 1.9 | 0.4 | 2.7 |
+| 2024-25 | 79 | 21.3 | 48.0 (7.5) | 71.3 (2.2) | 1.1 | 9.9 | 3.3 | 4.4 | 1.3 | 0.4 | 1.7 |
+| 2023-24 | 21 | 25.0 | 49.3 (9.7) | 74.5 (2.6) | 1.4 | 12.9 | 3.2 | 4.7 | 1.7 | 0.5 | 2.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -32,8 +32,8 @@
 **Current**
 - He missed most of last season with a significant injury. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=490))
 - He will compete for point guard minutes behind Ty Jerome, who is expected to start at point guard. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=490), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483), [07-17](https://youtu.be/NYTH7uQsPCM?t=1672))
-- The Memphis guard group is crowded: Javon Small, Ty Jerome, Pippen, Campazzo and Cam Spencer. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=557))
 - Coach Tuomas Iisalo runs an 11-man rotation with short stints and keeps minutes down, which limits a backup guard's minutes. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- The Memphis guard group is crowded: Javon Small, Ty Jerome, Pippen, Campazzo and Cam Spencer. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=557))
 
 **Durable**
 - Steals are his standout category. He projects for about 1.8 steals per game, far above the top 250 pool. (fact, 2026-10-04; stats)

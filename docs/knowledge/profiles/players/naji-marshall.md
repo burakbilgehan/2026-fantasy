@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 66 | 19.1 | 46.3 (5.6) | 79.1 (1.3) | 0.9 | 7.1 | 3.6 | 1.9 | 0.7 | 0.2 | 1.0 |
-| 2024-25 | 69 | 27.8 | 50.8 (10.3) | 81.2 (2.3) | 0.9 | 13.2 | 4.8 | 3.0 | 1.0 | 0.2 | 1.6 |
-| 2025-26 | 74 | 29.5 | 51.0 (11.1) | 76.0 (4.1) | 0.8 | 15.2 | 4.7 | 3.3 | 1.1 | 0.1 | 1.6 |
-| 2026-27 proj, Yahoo | 71 | - | 50.6 (8.9) | 77.8 (2.7) | 0.8 | 11.9 | 4.1 | 2.6 | 0.9 | 0.1 | 1.4 |
 | 2026-27 proj, ESPN | 70 | 24.2 | 50.2 (8.6) | 77.5 (2.6) | 0.8 | 11.4 | 4.1 | 2.6 | 0.9 | 0.1 | 1.3 |
+| 2026-27 proj, Yahoo | 71 | - | 50.6 (8.9) | 77.8 (2.7) | 0.8 | 11.9 | 4.1 | 2.6 | 0.9 | 0.1 | 1.4 |
+| 2025-26 | 74 | 29.5 | 51.0 (11.1) | 76.0 (4.1) | 0.8 | 15.2 | 4.7 | 3.3 | 1.1 | 0.1 | 1.6 |
+| 2024-25 | 69 | 27.8 | 50.8 (10.3) | 81.2 (2.3) | 0.9 | 13.2 | 4.8 | 3.0 | 1.0 | 0.2 | 1.6 |
+| 2023-24 | 66 | 19.1 | 46.3 (5.6) | 79.1 (1.3) | 0.9 | 7.1 | 3.6 | 1.9 | 0.7 | 0.2 | 1.0 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -32,8 +32,8 @@
 **Current**
 - Dallas added three new point guards, so Josh expects the point guard role Marshall had last season to disappear. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1236))
 - Josh projects Marshall as the sixth man and sees him as a streaming option with hot streaks, not a steady roster player. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1236))
-- The Dallas roster is crowded with forwards and wings who expect minutes, and Marshall is one of them. (fact, 2026-07-27; [06-26](https://youtu.be/CLsUc0Sevos?t=1386), [07-27](https://youtu.be/0AptxcRW0RE?t=338), [07-21](https://youtu.be/RyzcCGChYgs?t=2295), [07-13](https://youtu.be/Rqb5GdrSweY?t=592))
 - Dallas has a 4-4-4 schedule in the fantasy playoff weeks, probably the best in the league, but also a league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
+- The Dallas roster is crowded with forwards and wings who expect minutes, and Marshall is one of them. (fact, 2026-07-27; [06-26](https://youtu.be/CLsUc0Sevos?t=1386), [07-27](https://youtu.be/0AptxcRW0RE?t=338), [07-21](https://youtu.be/RyzcCGChYgs?t=2295), [07-13](https://youtu.be/Rqb5GdrSweY?t=592))
 
 **Durable**
 - Josh calls Marshall a non-shooting forward and a terrible shooter. He does not think Marshall will ever be a reliable shooter. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1187))

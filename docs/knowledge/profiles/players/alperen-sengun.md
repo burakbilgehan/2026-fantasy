@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 63 | 32.5 | 53.7 (15.6) | 69.3 (5.6) | 0.5 | 21.1 | 9.3 | 5.0 | 1.2 | 0.7 | 2.6 |
-| 2024-25 | 76 | 31.6 | 49.6 (15.0) | 69.2 (5.6) | 0.3 | 19.1 | 10.3 | 4.9 | 1.1 | 0.8 | 2.6 |
-| 2025-26 | 72 | 33.3 | 51.9 (15.6) | 69.1 (5.2) | 0.6 | 20.4 | 8.9 | 6.2 | 1.2 | 1.1 | 3.2 |
-| 2026-27 proj, Yahoo | 72 | - | 51.4 (16.1) | 69.0 (5.7) | 0.5 | 20.9 | 9.1 | 6.2 | 1.2 | 1.0 | 3.0 |
 | 2026-27 proj, ESPN | 72 | 32.7 | 51.4 (15.4) | 69.2 (5.4) | 0.5 | 20.0 | 9.4 | 5.7 | 1.2 | 1.0 | 2.9 |
+| 2026-27 proj, Yahoo | 72 | - | 51.4 (16.1) | 69.0 (5.7) | 0.5 | 20.9 | 9.1 | 6.2 | 1.2 | 1.0 | 3.0 |
+| 2025-26 | 72 | 33.3 | 51.9 (15.6) | 69.1 (5.2) | 0.6 | 20.4 | 8.9 | 6.2 | 1.2 | 1.1 | 3.2 |
+| 2024-25 | 76 | 31.6 | 49.6 (15.0) | 69.2 (5.6) | 0.3 | 19.1 | 10.3 | 4.9 | 1.1 | 0.8 | 2.6 |
+| 2023-24 | 63 | 32.5 | 53.7 (15.6) | 69.3 (5.6) | 0.5 | 21.1 | 9.3 | 5.0 | 1.2 | 0.7 | 2.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -33,21 +33,21 @@
 - He is a projected starter at center, next to VanVleet, Thompson, Durant and Smith. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=328), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357))
 - Coach Udoka has blamed his defense for years and limits his minutes. Other bigs sometimes play over him. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=275), [09-16](https://youtu.be/2A2JbUN-kc0?t=2251), [09-16](https://youtu.be/2A2JbUN-kc0?t=2262), [09-07](https://youtu.be/E-KmhvyZ2CU?t=657), [09-07](https://youtu.be/E-KmhvyZ2CU?t=667))
 - With more guard depth, his minutes could drop from 33 to about 31 or 32. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=275))
-- Fred VanVleet is back, and the Rockets added Marcus Smart and Bogdan Bogdanovic. The guard rotation is crowded. (fact, 2026-09-15; [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [08-19](https://youtu.be/J1Eg3uaAICU?t=1169))
 - His assists were boosted while VanVleet was out. With VanVleet back, they likely fall to 5 to 5.5 per game. Last season was already his best shot-blocking year, so blocks will not make up for it. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=802))
 - Lloyd ranks him 24 to 30 in category leagues and calls his ADPs reasonable. Experts agree he is worth more in points leagues than in category leagues. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=824), [09-16](https://youtu.be/2A2JbUN-kc0?t=2251), [09-14](https://youtu.be/LM0cRCGoAUQ?t=643), [08-19](https://youtu.be/J1Eg3uaAICU?t=811))
 - With a March 28 end, the Rockets play a weak 3-3-4 schedule in the fantasy playoffs, 10 games over three weeks. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
 - The Rockets have only 14 back-to-backs this season. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011))
+- Fred VanVleet is back, and the Rockets added Marcus Smart and Bogdan Bogdanovic. The guard rotation is crowded. (fact, 2026-09-15; [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [08-19](https://youtu.be/J1Eg3uaAICU?t=1169))
 
 **Durable**
-- He is a two-time All-Star who can post about 20 points, 10 rebounds and 5 assists. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1582))
-- He has an unusual line for a big: over six assists plus steals and blocks. Assists are his best category against other forwards and centers. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=771), [09-23](https://youtu.be/C4vlgpJ62NI?t=1505), stats)
-- He gives good FG% and decent steals. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1505), stats)
-- He is a poor free throw shooter, and on his volume FT% clearly hurts a fantasy team. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=832), [09-23](https://youtu.be/C4vlgpJ62NI?t=1505), [09-16](https://youtu.be/2A2JbUN-kc0?t=2251), stats)
-- He makes very few threes, and his three-point shot will probably never come around. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1505), [09-16](https://youtu.be/2A2JbUN-kc0?t=2251), stats)
 - He commits many turnovers, a clear weakness against the league and his position. (fact, 2026-10-04; stats)
-- He is not a big shot blocker. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=2251))
+- He has an unusual line for a big: over six assists plus steals and blocks. Assists are his best category against other forwards and centers. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=771), [09-23](https://youtu.be/C4vlgpJ62NI?t=1505), stats)
+- He is a poor free throw shooter, and on his volume FT% clearly hurts a fantasy team. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=832), [09-23](https://youtu.be/C4vlgpJ62NI?t=1505), [09-16](https://youtu.be/2A2JbUN-kc0?t=2251), stats)
 - His defense is a concern. His other weaknesses are finishing at the rim, overall efficiency, too many low-percentage mid-range shots and complaining to officials. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=771), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1600))
+- He gives good FG% and decent steals. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1505), stats)
+- He makes very few threes, and his three-point shot will probably never come around. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1505), [09-16](https://youtu.be/2A2JbUN-kc0?t=2251), stats)
+- He is not a big shot blocker. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=2251))
+- He is a two-time All-Star who can post about 20 points, 10 rebounds and 5 assists. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1582))
 - Last season he missed time with back tightness and then an ankle injury. He wore down in midseason after playing EuroBasket. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1469))
 
 **Tags**

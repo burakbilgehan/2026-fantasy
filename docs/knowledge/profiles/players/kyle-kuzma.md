@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 70 | 32.6 | 46.3 (18.8) | 77.5 (3.4) | 2.2 | 22.2 | 6.6 | 4.2 | 0.5 | 0.7 | 2.7 |
-| 2024-25 | 65 | 29.8 | 43.6 (13.0) | 63.4 (3.1) | 1.5 | 14.8 | 5.7 | 2.3 | 0.6 | 0.3 | 2.2 |
-| 2025-26 | 69 | 26.2 | 49.2 (10.0) | 72.6 (2.7) | 1.2 | 13.0 | 4.5 | 2.7 | 0.7 | 0.4 | 1.7 |
-| 2026-27 proj, Yahoo | 71 | - | 45.2 (12.1) | 78.4 (2.9) | 1.5 | 14.8 | 5.1 | 2.5 | 1.1 | 0.3 | 1.2 |
 | 2026-27 proj, ESPN | 68 | 25.7 | 48.0 (10.3) | 71.2 (2.7) | 1.2 | 13.0 | 4.6 | 2.6 | 0.6 | 0.4 | 1.8 |
+| 2026-27 proj, Yahoo | 71 | - | 45.2 (12.1) | 78.4 (2.9) | 1.5 | 14.8 | 5.1 | 2.5 | 1.1 | 0.3 | 1.2 |
+| 2025-26 | 69 | 26.2 | 49.2 (10.0) | 72.6 (2.7) | 1.2 | 13.0 | 4.5 | 2.7 | 0.7 | 0.4 | 1.7 |
+| 2024-25 | 65 | 29.8 | 43.6 (13.0) | 63.4 (3.1) | 1.5 | 14.8 | 5.7 | 2.3 | 0.6 | 0.3 | 2.2 |
+| 2023-24 | 70 | 32.6 | 46.3 (18.8) | 77.5 (3.4) | 2.2 | 22.2 | 6.6 | 4.2 | 0.5 | 0.7 | 2.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,15 +30,15 @@
 </details>
 
 **Current**
-- Milwaukee lost two frontcourt players, Giannis Antetokounmpo (traded to Miami) and Bobby Portis. (fact, 2026-06-30; [06-23](https://youtu.be/nnWX_ObljOE?t=346), [06-30](https://youtu.be/4GDfg2n2l8o?t=330))
-- The frontcourt departures should give him more minutes. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=346))
+- Ranked around 194 on Yahoo and 223 on ESPN with no auction value, he is outside the 144 players drafted in our league. (verdict, 2026-10-04; stats)
 - Power forward is Milwaukee's weakest position, and he is one of the weak options there. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=553), [08-14](https://youtu.be/owlM6b8oUd0?t=511))
 - He could start at the four, but the expert's projected starters are Rollins, Herro, Jaquez, Ware and Turner, and the team will likely start a center at power forward. His starting role is not settled. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=553), [08-14](https://youtu.be/owlM6b8oUd0?t=511), [08-14](https://youtu.be/owlM6b8oUd0?t=536))
-- Ranked around 194 on Yahoo and 223 on ESPN with no auction value, he is outside the 144 players drafted in our league. (verdict, 2026-10-04; stats)
+- Milwaukee lost two frontcourt players, Giannis Antetokounmpo (traded to Miami) and Bobby Portis. (fact, 2026-06-30; [06-23](https://youtu.be/nnWX_ObljOE?t=346), [06-30](https://youtu.be/4GDfg2n2l8o?t=330))
+- The frontcourt departures should give him more minutes. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=346))
 
 **Durable**
-- He was hyped early in his career but became a mediocre role player. (verdict, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=2159))
 - His category profile has no strong category. Blocks are his weakest category, but they are not a real outlier. (fact, 2026-10-04; stats)
+- He was hyped early in his career but became a mediocre role player. (verdict, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=2159))
 
 **Tags**
 - Current: `role up` (Giannis and Portis left, which should open frontcourt minutes), `minutes competition` (Could start at power forward, but Milwaukee will likely start a center there (Ware and Turner)), `waiver watch` (Undrafted range in a 12-team league; pick him up if he wins the starting power forward job)

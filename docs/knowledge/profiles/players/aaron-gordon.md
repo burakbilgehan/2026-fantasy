@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 73 | 31.5 | 55.6 (9.8) | 65.8 (3.7) | 0.5 | 13.9 | 6.5 | 3.5 | 0.8 | 0.6 | 1.4 |
-| 2024-25 | 51 | 28.4 | 53.1 (9.7) | 81.0 (3.5) | 1.5 | 14.7 | 4.8 | 3.2 | 0.5 | 0.3 | 1.4 |
-| 2025-26 | 36 | 27.9 | 49.7 (11.1) | 76.7 (4.5) | 1.7 | 16.2 | 5.8 | 2.7 | 0.6 | 0.3 | 1.1 |
-| 2026-27 proj, Yahoo | 65 | - | 51.6 (10.8) | 75.3 (4.0) | 1.6 | 15.7 | 5.7 | 3.1 | 0.6 | 0.4 | 1.3 |
 | 2026-27 proj, ESPN | 66 | 29.3 | 51.9 (10.5) | 78.0 (4.0) | 1.5 | 15.5 | 5.5 | 3.1 | 0.5 | 0.3 | 1.3 |
+| 2026-27 proj, Yahoo | 65 | - | 51.6 (10.8) | 75.3 (4.0) | 1.6 | 15.7 | 5.7 | 3.1 | 0.6 | 0.4 | 1.3 |
+| 2025-26 | 36 | 27.9 | 49.7 (11.1) | 76.7 (4.5) | 1.7 | 16.2 | 5.8 | 2.7 | 0.6 | 0.3 | 1.1 |
+| 2024-25 | 51 | 28.4 | 53.1 (9.7) | 81.0 (3.5) | 1.5 | 14.7 | 4.8 | 3.2 | 0.5 | 0.3 | 1.4 |
+| 2023-24 | 73 | 31.5 | 55.6 (9.8) | 65.8 (3.7) | 0.5 | 13.9 | 6.5 | 3.5 | 0.8 | 0.6 | 1.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -36,14 +36,14 @@
 - Gordon finished 146th in categories last season. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=769))
 - Experts disagree on his price. One sees a stable, low-upside pick around round 11. Others rank him tier nine and only worth a look in 14-team leagues, or would avoid him at his Yahoo draft spot of about 112 to 119 because there is no upside there. (verdict, 2026-09-29; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2230), [09-14](https://youtu.be/t4n9MAP2_14?t=2243), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=769))
 - He should be streamable during the season but carries injury risk. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=799))
+- Denver plays 43 games through March 28 and has only 14 back-to-backs, one of the lowest counts in the league. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678))
 - Because he is so often unavailable, he is seen as a possible trade candidate. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=898))
 - His steals are more likely to fall than rise. He converted 77% of deflections into steals, against a 49% average. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1167))
-- Denver plays 43 games through March 28 and has only 14 back-to-backs, one of the lowest counts in the league. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678))
 
 **Durable**
+- Steals and blocks are his weak categories for a forward or center. The rest of his line is close to average, with a slight plus in FG%. (fact, 2026-10-04; stats)
 - He has recurring lower-body soft tissue injuries, including repeated hamstring and calf injuries, two years in a row. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=741), [07-31](https://youtu.be/keNupMSHp1Y?t=1216), [09-24](https://youtu.be/_vbAP5y182A?t=2280), [09-15](https://youtu.be/KPdD91Oo8-U?t=2332))
 - He is a low-upside player. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2280))
-- Steals and blocks are his weak categories for a forward or center. The rest of his line is close to average, with a slight plus in FG%. (fact, 2026-10-04; stats)
 
 **Tags**
 - Current: `injury last season` (36 games played in 2025-26), `few back-to-backs` (Denver has 14 back-to-backs), `bust candidate` (at a Yahoo draft spot around 112 to 119), `trade risk` (seen as a possible trade candidate because of his availability)

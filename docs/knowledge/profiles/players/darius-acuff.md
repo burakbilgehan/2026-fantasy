@@ -3,8 +3,8 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, Yahoo | 76 | - | 40.9 (14.5) | 79.4 (4.0) | 2.1 | 17.1 | 3.6 | 4.5 | 0.8 | 0.4 | 2.1 |
 | 2026-27 proj, ESPN | 73 | 30.6 | 44.4 (13.6) | 84.3 (4.7) | 0.9 | 16.9 | 3.3 | 5.9 | 1.1 | 0.3 | 2.9 |
+| 2026-27 proj, Yahoo | 76 | - | 40.9 (14.5) | 79.4 (4.0) | 2.1 | 17.1 | 3.6 | 4.5 | 0.8 | 0.4 | 2.1 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -27,22 +27,22 @@
 </details>
 
 **Current**
+- Sacramento may still trade Sabonis, and LaVine could be traded or bought out. (fact, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=392), [09-09](https://youtu.be/7BllEsdNLoM?t=2174), [09-10](https://youtu.be/W-R1dzem32s?t=1760), [07-31](https://youtu.be/oEywzBZfAvY?t=2547))
+- In category leagues he is a late pick at best, around pick 120. One projection has him outside the top 200 in categories. He is the fifth rookie in the pecking order, with an ADP around 110, and he will likely be overdrafted in redraft. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=1991), [09-03](https://youtu.be/OBwWCxG9SqM?t=1425), [07-21](https://youtu.be/RyzcCGChYgs?t=517), [06-25](https://youtu.be/lOshTzDA4SA?t=1001))
+- Zach LaVine, Domantas Sabonis and Malik Monk will cut into his usage. His upside depends on whether LaVine or Sabonis is traded. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1425), [07-21](https://youtu.be/RyzcCGChYgs?t=517), [06-25](https://youtu.be/lOshTzDA4SA?t=1001))
+- As a rookie he should take and miss a lot of shots. He probably scores over 15 points a game, but his field goal percentage should be under 40%. (verdict, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1273), [06-25](https://youtu.be/lOshTzDA4SA?t=1001))
+- Sacramento will give rookies minutes. The coach is under pressure, may lean on veterans to win games, and the team wants to stay out of the relegation zone. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1271), [07-31](https://youtu.be/oEywzBZfAvY?t=2025), [07-31](https://youtu.be/oEywzBZfAvY?t=2438))
 - Rookie. Sacramento drafted him with the number 7 pick. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=246))
 - He is the projected starting point guard, next to LaVine, Hunter, Murray and Sabonis. Nobody is pushing that group for a starting spot, and there is no third point guard on the roster. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=246), [07-31](https://youtu.be/oEywzBZfAvY?t=691), [07-31](https://youtu.be/oEywzBZfAvY?t=1661), [07-01](https://youtu.be/W3THnI7wWdA?t=1324), [06-25](https://youtu.be/lOshTzDA4SA?t=1001), [06-28](https://youtu.be/RsjGTgJiKyI?t=581))
 - In Summer League he had 39% usage, 19 points and 4.5 assists per game. He shot 35% from the field, 27% from three and under 70% from the line. He took 29 shots in his first California Classic game. (fact, 2026-07-31; [07-21](https://youtu.be/RyzcCGChYgs?t=517), [07-31](https://youtu.be/oEywzBZfAvY?t=305))
 - He should have the ball in his hands and real usage, and he could be the 1A or primary scorer as a rookie. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=370), [07-20](https://youtu.be/-KS_AZjZnw4?t=1282))
-- Zach LaVine, Domantas Sabonis and Malik Monk will cut into his usage. His upside depends on whether LaVine or Sabonis is traded. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1425), [07-21](https://youtu.be/RyzcCGChYgs?t=517), [06-25](https://youtu.be/lOshTzDA4SA?t=1001))
-- Sacramento may still trade Sabonis, and LaVine could be traded or bought out. (fact, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=392), [09-09](https://youtu.be/7BllEsdNLoM?t=2174), [09-10](https://youtu.be/W-R1dzem32s?t=1760), [07-31](https://youtu.be/oEywzBZfAvY?t=2547))
-- As a rookie he should take and miss a lot of shots. He probably scores over 15 points a game, but his field goal percentage should be under 40%. (verdict, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1273), [06-25](https://youtu.be/lOshTzDA4SA?t=1001))
-- Sacramento will give rookies minutes. The coach is under pressure, may lean on veterans to win games, and the team wants to stay out of the relegation zone. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1271), [07-31](https://youtu.be/oEywzBZfAvY?t=2025), [07-31](https://youtu.be/oEywzBZfAvY?t=2438))
-- In category leagues he is a late pick at best, around pick 120. One projection has him outside the top 200 in categories. He is the fifth rookie in the pecking order, with an ADP around 110, and he will likely be overdrafted in redraft. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=1991), [09-03](https://youtu.be/OBwWCxG9SqM?t=1425), [07-21](https://youtu.be/RyzcCGChYgs?t=517), [06-25](https://youtu.be/lOshTzDA4SA?t=1001))
 
 **Durable**
-- He is a high-usage, ball-dominant guard and should post good assist numbers. (verdict, 2026-08-02; [06-25](https://youtu.be/lOshTzDA4SA?t=926), [06-28](https://youtu.be/RsjGTgJiKyI?t=975), [08-02](https://youtu.be/TOn-D1SV7a8?t=1298))
 - Experts expect poor shooting efficiency. They point to his shot selection and doubts about his finishing at the rim. Among the rookies, he is the most likely to hurt a team's FG%. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=1991), [09-03](https://youtu.be/OBwWCxG9SqM?t=1437), [08-02](https://youtu.be/TOn-D1SV7a8?t=1298), [06-28](https://youtu.be/RsjGTgJiKyI?t=975))
+- He is worth more in points leagues than in category leagues. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1425), [08-30](https://youtu.be/Alwse2uXzD4?t=1273))
+- He is a high-usage, ball-dominant guard and should post good assist numbers. (verdict, 2026-08-02; [06-25](https://youtu.be/lOshTzDA4SA?t=926), [06-28](https://youtu.be/RsjGTgJiKyI?t=975), [08-02](https://youtu.be/TOn-D1SV7a8?t=1298))
 - He is a poor defender, possibly one of the worst in the NBA. One expert expects few steals and poor rebounding. (verdict, 2026-08-02; [06-25](https://youtu.be/lOshTzDA4SA?t=926), [07-31](https://youtu.be/oEywzBZfAvY?t=1605), [08-02](https://youtu.be/TOn-D1SV7a8?t=1298), [06-28](https://youtu.be/RsjGTgJiKyI?t=975))
 - One expert expects big three-point volume. The site projections split widely on his threes, with Yahoo at 2.1 per game and ESPN at 0.9. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=926), stats)
-- He is worth more in points leagues than in category leagues. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1425), [08-30](https://youtu.be/Alwse2uXzD4?t=1273))
 
 **Tags**
 - Current: `rookie` (Number 7 pick in the 2026 draft), `bust candidate` (Likely overdrafted at an ADP around 110. One projection has him outside the top 200 in categories.), `flyer` (Late pick around 120 to 130. Upside if LaVine or Sabonis is traded.)

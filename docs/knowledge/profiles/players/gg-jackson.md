@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 48 | 25.7 | 42.8 (11.7) | 75.2 (3.2) | 2.1 | 14.6 | 4.1 | 1.2 | 0.6 | 0.5 | 1.4 |
-| 2024-25 | 29 | 15.8 | 37.2 (6.9) | 72.5 (1.4) | 1.1 | 7.2 | 3.2 | 1.0 | 0.4 | 0.2 | 1.1 |
-| 2025-26 | 55 | 21.4 | 49.6 (9.3) | 74.2 (2.7) | 1.2 | 12.5 | 4.3 | 1.5 | 0.6 | 0.8 | 1.5 |
-| 2026-27 proj, Yahoo | 67 | - | 44.8 (8.7) | 70.6 (2.4) | 1.2 | 10.7 | 3.8 | 0.9 | 0.8 | 0.6 | 2.1 |
 | 2026-27 proj, ESPN | 69 | 23.0 | 48.4 (10.1) | 74.0 (2.9) | 1.3 | 13.2 | 4.5 | 1.5 | 0.6 | 0.8 | 1.6 |
+| 2026-27 proj, Yahoo | 67 | - | 44.8 (8.7) | 70.6 (2.4) | 1.2 | 10.7 | 3.8 | 0.9 | 0.8 | 0.6 | 2.1 |
+| 2025-26 | 55 | 21.4 | 49.6 (9.3) | 74.2 (2.7) | 1.2 | 12.5 | 4.3 | 1.5 | 0.6 | 0.8 | 1.5 |
+| 2024-25 | 29 | 15.8 | 37.2 (6.9) | 72.5 (1.4) | 1.1 | 7.2 | 3.2 | 1.0 | 0.4 | 0.2 | 1.1 |
+| 2023-24 | 48 | 25.7 | 42.8 (11.7) | 75.2 (3.2) | 2.1 | 14.6 | 4.1 | 1.2 | 0.6 | 0.5 | 1.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,12 +30,12 @@
 </details>
 
 **Current**
+- Jackson is not a draft target in a 144-player league. He is worth watching on waivers if he wins small forward minutes. (verdict, 2026-10-04; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1457), stats)
 - Jackson is eligible for a contract extension but has not been extended. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1457))
 - Joe thinks Jackson will see some opportunity, possibly at small forward. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1457))
-- The Memphis forward group is crowded, with Prosper, Hendricks, Edey, Stewart and Cameron Boozer. Boozer will start. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1680), [06-29](https://youtu.be/bHA-JoW3reE?t=953))
 - Joe's projected starting five does not include Jackson: Ty Jerome, Cedric Coward, Jerami Grant, Cameron Boozer and Zach Edey. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=483))
 - Coach Tuomas Iisalo runs an 11-man rotation with short stints and keeps minutes down. Joe expects only Boozer and Coward to top 30 minutes, which caps Jackson's minutes. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
-- Jackson is not a draft target in a 144-player league. He is worth watching on waivers if he wins small forward minutes. (verdict, 2026-10-04; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1457), stats)
+- The Memphis forward group is crowded, with Prosper, Hendricks, Edey, Stewart and Cameron Boozer. Boozer will start. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1680), [06-29](https://youtu.be/bHA-JoW3reE?t=953))
 
 **Durable**
 - No category stands out. His projected line is slightly below the top 250 pool in most categories, and his rebounds and assists are low for a forward or center. (verdict, 2026-10-04; stats)

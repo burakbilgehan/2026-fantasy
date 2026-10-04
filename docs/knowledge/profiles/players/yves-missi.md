@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 73 | 26.8 | 54.7 (6.7) | 62.3 (2.8) | 0.0 | 9.1 | 8.2 | 1.4 | 0.5 | 1.3 | 1.1 |
-| 2025-26 | 66 | 19.6 | 54.4 (4.5) | 55.9 (1.5) | 0.0 | 5.7 | 5.8 | 1.3 | 0.3 | 1.5 | 0.8 |
-| 2026-27 proj, Yahoo | 69 | - | 61.6 (5.6) | 69.4 (2.1) | 0.0 | 8.3 | 7.0 | 1.5 | 0.4 | 1.8 | 0.9 |
 | 2026-27 proj, ESPN | 67 | 25.1 | 54.5 (5.8) | 57.4 (2.1) | 0.0 | 7.5 | 7.5 | 1.6 | 0.4 | 1.8 | 1.0 |
+| 2026-27 proj, Yahoo | 69 | - | 61.6 (5.6) | 69.4 (2.1) | 0.0 | 8.3 | 7.0 | 1.5 | 0.4 | 1.8 | 0.9 |
+| 2025-26 | 66 | 19.6 | 54.4 (4.5) | 55.9 (1.5) | 0.0 | 5.7 | 5.8 | 1.3 | 0.3 | 1.5 | 0.8 |
+| 2024-25 | 73 | 26.8 | 54.7 (6.7) | 62.3 (2.8) | 0.0 | 9.1 | 8.2 | 1.4 | 0.5 | 1.3 | 1.1 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,17 +30,17 @@
 
 **Current**
 - Reports say he is likely to start at center for New Orleans over Derik Queen. The other likely starters are Zion Williamson, Trey Murphy and Dejounte Murray. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1324), [09-30](https://youtu.be/BjXP9JODDSg?t=1097), [09-24](https://youtu.be/_vbAP5y182A?t=1144), [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [09-30](https://youtu.be/BjXP9JODDSg?t=1097), [09-24](https://youtu.be/_vbAP5y182A?t=1141))
-- New Orleans has a crowded frontcourt with Zion Williamson and Derik Queen. Experts think Queen and Zion do not fit together, which helps Missi's case to start. (fact, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1141), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1047), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1818), [09-04](https://youtu.be/gerS7ibpaJo?t=1168))
 - Experts expect a bigger role for him under new coach Jamahl Mosley. (verdict, 2026-10-02; [08-03](https://youtu.be/5QU-jta-lWM?t=1467), [10-02](https://youtu.be/ZYllcj4o6_A?t=1324))
 - Josh sees him as a worthwhile late flier around pick 120. As a starter he offers two-block upside, high FG% and double-digit rebounds, and he is available everywhere. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1324))
+- New Orleans has a crowded frontcourt with Zion Williamson and Derik Queen. Experts think Queen and Zion do not fit together, which helps Missi's case to start. (fact, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1141), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1047), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1818), [09-04](https://youtu.be/gerS7ibpaJo?t=1168))
 - Mosley's defense switches less than the old scheme. Jake thinks that could help his weak defensive rebounding. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1482), [08-03](https://youtu.be/5QU-jta-lWM?t=1459))
 
 **Durable**
-- He is a strong rim protector. He contests shots at the rim at a high rate, and he turned 39% of his rim contests into blocks last season. (fact, 2026-10-02; [08-03](https://youtu.be/5QU-jta-lWM?t=1450), [07-17](https://youtu.be/NYTH7uQsPCM?t=623), [10-02](https://youtu.be/ZYllcj4o6_A?t=1324))
 - Blocks are his standout category. They are far above the top 250 pool. (fact, 2026-10-04; stats)
-- He is a poor defensive rebounder for a center, around the bottom 10% at his position. (fact, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1482))
 - He makes no threes and gets very few steals. Both are weak even for a center. (fact, 2026-10-04; stats)
 - His FT% is low, but he takes only about 2 free throws a game, so the damage is limited. (fact, 2026-10-04; stats)
+- He is a strong rim protector. He contests shots at the rim at a high rate, and he turned 39% of his rim contests into blocks last season. (fact, 2026-10-02; [08-03](https://youtu.be/5QU-jta-lWM?t=1450), [07-17](https://youtu.be/NYTH7uQsPCM?t=623), [10-02](https://youtu.be/ZYllcj4o6_A?t=1324))
+- He is a poor defensive rebounder for a center, around the bottom 10% at his position. (fact, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1482))
 
 **Tags**
 - Current: `role up` (likely starting center under new coach Jamahl Mosley), `minutes competition` (Derik Queen and Zion Williamson in the frontcourt; start not confirmed), `flyer` (late flier around pick 120 with two-block upside), `sleeper` (available everywhere; Josh likes him as a starter)

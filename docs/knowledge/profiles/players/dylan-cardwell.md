@@ -3,8 +3,8 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 44 | 20.7 | 58.7 (4.1) | 51.0 (1.2) | 0.0 | 5.4 | 7.5 | 1.4 | 0.7 | 1.5 | 0.9 |
 | 2026-27 proj, Yahoo | 72 | - | 57.9 (3.6) | 51.4 (1.0) | 0.0 | 4.7 | 6.7 | 1.2 | 0.6 | 1.3 | 0.8 |
+| 2025-26 | 44 | 20.7 | 58.7 (4.1) | 51.0 (1.2) | 0.0 | 5.4 | 7.5 | 1.4 | 0.7 | 1.5 | 0.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -27,16 +27,16 @@
 </details>
 
 **Current**
-- He is expected to be an energy player off the bench for about 18 minutes, behind Maxime Raynaud. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=576))
-- Domantas Sabonis is the projected starting center for the Kings. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691))
-- A Sabonis trade is still possible. (fact, 2026-09-21; [07-31](https://youtu.be/oEywzBZfAvY?t=2547), [09-21](https://youtu.be/egRrai3Ax38?t=392))
 - With Yahoo value of 0 USD and a Yahoo rank of 197, he is not a draft target in a 144 player league. He is a waiver option only. (verdict, 2026-10-04; stats)
+- A Sabonis trade is still possible. (fact, 2026-09-21; [07-31](https://youtu.be/oEywzBZfAvY?t=2547), [09-21](https://youtu.be/egRrai3Ax38?t=392))
+- Domantas Sabonis is the projected starting center for the Kings. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691))
+- He is expected to be an energy player off the bench for about 18 minutes, behind Maxime Raynaud. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=576))
 
 **Durable**
-- He is a defensive-minded energy big. His value comes from rebounds and blocks. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1354), [07-21](https://youtu.be/RyzcCGChYgs?t=576))
 - He makes no threes and scores very little. (fact, 2026-10-04; stats)
-- He is a poor free throw shooter. He shot 40% from the line in Summer League. He takes about one free throw per game, so the damage to team FT% is limited. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=576), stats)
 - He shoots a high FG% on low volume and commits few turnovers. (fact, 2026-10-04; stats)
+- He is a defensive-minded energy big. His value comes from rebounds and blocks. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1354), [07-21](https://youtu.be/RyzcCGChYgs?t=576))
+- He is a poor free throw shooter. He shot 40% from the line in Summer League. He takes about one free throw per game, so the damage to team FT% is limited. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=576), stats)
 
 **Tags**
 - Current: `minutes competition` (Behind Maxime Raynaud and Domantas Sabonis at center), `waiver watch` (Yahoo value 0 USD, rank 197; blocks and rebounds streamer if his minutes grow)

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 71 | 31.4 | 54.0 (14.0) | 81.4 (3.1) | 1.5 | 19.1 | 4.0 | 4.5 | 1.1 | 0.6 | 1.7 |
-| 2024-25 | 69 | 32.4 | 48.4 (16.9) | 78.9 (4.3) | 1.8 | 21.6 | 5.3 | 5.1 | 1.6 | 0.7 | 2.2 |
-| 2025-26 | 33 | 28.4 | 48.4 (13.5) | 83.7 (3.9) | 0.7 | 17.1 | 4.6 | 5.5 | 1.2 | 0.3 | 1.9 |
-| 2026-27 proj, Yahoo | 69 | - | 49.5 (15.7) | 81.0 (4.0) | 1.4 | 20.2 | 5.0 | 5.3 | 1.4 | 0.6 | 2.1 |
 | 2026-27 proj, ESPN | 70 | 32.8 | 50.4 (15.8) | 81.1 (4.0) | 1.5 | 20.6 | 4.9 | 5.3 | 1.4 | 0.6 | 2.0 |
+| 2026-27 proj, Yahoo | 69 | - | 49.5 (15.7) | 81.0 (4.0) | 1.4 | 20.2 | 5.0 | 5.3 | 1.4 | 0.6 | 2.1 |
+| 2025-26 | 33 | 28.4 | 48.4 (13.5) | 83.7 (3.9) | 0.7 | 17.1 | 4.6 | 5.5 | 1.2 | 0.3 | 1.9 |
+| 2024-25 | 69 | 32.4 | 48.4 (16.9) | 78.9 (4.3) | 1.8 | 21.6 | 5.3 | 5.1 | 1.6 | 0.7 | 2.2 |
+| 2023-24 | 71 | 31.4 | 54.0 (14.0) | 81.4 (3.1) | 1.5 | 19.1 | 4.0 | 4.5 | 1.1 | 0.6 | 1.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,22 +30,22 @@
 </details>
 
 **Current**
+- Experts think the market has faded him too far. They value him as a pick 35 to 45 player (rounds 3 to 4) and are happy to draft him there. Pick 24 is too early. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=644), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1363), [09-10](https://youtu.be/dlo7L8Ru91A?t=1073), [08-11](https://youtu.be/OdDkXFhoKsc?t=1048), [07-20](https://youtu.be/-KS_AZjZnw4?t=1749))
+- After last season's hamstring injuries, public drafts take him around pick 45. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1363), [09-10](https://youtu.be/dlo7L8Ru91A?t=1073), [08-11](https://youtu.be/OdDkXFhoKsc?t=1048))
 - His wrist is healthy again and he is expected to be fine coming into the season. (fact, 2026-08-24; [07-26](https://youtu.be/75Sk_4fkgIM?t=2299), [08-24](https://youtu.be/g31YlwRe0XQ?t=862))
 - It is too early to call him injury prone, but he has to prove he can stay healthy this season. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=127))
-- Last season's injuries are not expected to repeat, so he should bounce back. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1672))
-- After last season's hamstring injuries, public drafts take him around pick 45. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1363), [09-10](https://youtu.be/dlo7L8Ru91A?t=1073), [08-11](https://youtu.be/OdDkXFhoKsc?t=1048))
-- Experts think the market has faded him too far. They value him as a pick 35 to 45 player (rounds 3 to 4) and are happy to draft him there. Pick 24 is too early. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=644), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1363), [09-10](https://youtu.be/dlo7L8Ru91A?t=1073), [08-11](https://youtu.be/OdDkXFhoKsc?t=1048), [07-20](https://youtu.be/-KS_AZjZnw4?t=1749))
-- About four more minutes per game plus better shooting and defensive stats would make him a top 50 player. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1749))
 - OKC traded Lu Dort, Isaiah Joe and Aaron Wiggins. He and Alex Caruso are the only wings left who can guard bigger forwards. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=267), [07-26](https://youtu.be/75Sk_4fkgIM?t=390), [07-20](https://youtu.be/-KS_AZjZnw4?t=1705))
 - Those departures open up usage. OKC may lean more on offense with him, SGA and Ajay Mitchell together. (verdict, 2026-07-26; [07-20](https://youtu.be/-KS_AZjZnw4?t=1705), [07-26](https://youtu.be/75Sk_4fkgIM?t=903))
 - OKC may push him to take more threes, even if his efficiency drops. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2299), [07-26](https://youtu.be/75Sk_4fkgIM?t=2333))
+- Last season's injuries are not expected to repeat, so he should bounce back. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1672))
+- About four more minutes per game plus better shooting and defensive stats would make him a top 50 player. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1749))
 
 **Durable**
+- Assists and steals are his strongest categories. His assists are well above other forwards. (fact, 2026-10-04; stats)
 - Last season he had wrist surgery and then hurt his hamstring several times. Many of his games came at about 20 minutes, and only about 20 were full-speed games. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=627), [07-26](https://youtu.be/75Sk_4fkgIM?t=164))
 - He is an elite defender who can guard positions one through five, at an All-Defense level. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=401))
 - On a healthy team he plays the three. His higher block, rebound and FG% rates came when he played center. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1657))
 - He takes very few threes, which has been a concern for a long time. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1734))
-- Assists and steals are his strongest categories. His assists are well above other forwards. (fact, 2026-10-04; stats)
 
 **Tags**
 - Current: `injury last season` (Wrist surgery, then repeated hamstring injuries. Many games at reduced minutes.), `bounce-back` (Injuries not expected to repeat), `expert target` (Valued at pick 35 to 45. Public ADP is about 45.), `role up` (Dort, Joe and Wiggins left, which opens up usage)

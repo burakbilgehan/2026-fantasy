@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 63 | 32.7 | 41.6 (11.1) | 83.7 (3.2) | 1.8 | 13.7 | 6.5 | 1.5 | 0.8 | 0.2 | 0.9 |
-| 2025-26 | 72 | 31.2 | 45.1 (13.4) | 84.1 (4.1) | 2.1 | 17.7 | 5.6 | 2.5 | 0.9 | 0.1 | 0.9 |
-| 2026-27 proj, Yahoo | 70 | - | 44.1 (11.9) | 84.1 (3.8) | 2.0 | 15.6 | 5.6 | 2.2 | 0.9 | 0.1 | 0.9 |
 | 2026-27 proj, ESPN | 71 | 27.1 | 44.8 (11.3) | 84.2 (3.4) | 1.8 | 14.7 | 4.9 | 2.1 | 0.8 | 0.1 | 0.8 |
+| 2026-27 proj, Yahoo | 70 | - | 44.1 (11.9) | 84.1 (3.8) | 2.0 | 15.6 | 5.6 | 2.2 | 0.9 | 0.1 | 0.9 |
+| 2025-26 | 72 | 31.2 | 45.1 (13.4) | 84.1 (4.1) | 2.1 | 17.7 | 5.6 | 2.5 | 0.9 | 0.1 | 0.9 |
+| 2023-24 | 63 | 32.7 | 41.6 (11.1) | 83.7 (3.2) | 1.8 | 13.7 | 6.5 | 1.5 | 0.8 | 0.2 | 0.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,9 +29,9 @@
 </details>
 
 **Current**
-- New Orleans has a crowded rotation of about eight players who could all start, Bey among them. Bennedict Mathurin was also added to the bench. This creates a minutes crunch. (fact, 2026-09-04; [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1477))
 - The latest projected starting five does not include Bey. It is Zion Williamson, Trey Murphy, Dejounte Murray, likely Yves Missi, and either Jeremiah Fears or Herb Jones. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
 - The expert thinks he may only be the seventh or eighth man on the Pelicans. He calls taking him at pick 119 a bad pick. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1811))
+- New Orleans has a crowded rotation of about eight players who could all start, Bey among them. Bennedict Mathurin was also added to the bench. This creates a minutes crunch. (fact, 2026-09-04; [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1477))
 
 **Durable**
 - He blocks almost no shots for a forward, so a punt BLK team loses little with him. (fact, 2026-10-04; stats)

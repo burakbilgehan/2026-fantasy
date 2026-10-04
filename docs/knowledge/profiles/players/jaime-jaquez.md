@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 75 | 28.1 | 48.9 (9.3) | 81.1 (2.3) | 0.9 | 11.9 | 3.8 | 2.6 | 1.0 | 0.3 | 1.5 |
-| 2024-25 | 66 | 20.8 | 46.1 (7.0) | 75.4 (2.2) | 0.6 | 8.6 | 4.4 | 2.5 | 0.9 | 0.2 | 1.5 |
-| 2025-26 | 75 | 28.3 | 50.7 (12.2) | 76.9 (2.9) | 0.8 | 15.4 | 5.0 | 4.7 | 0.7 | 0.3 | 2.0 |
-| 2026-27 proj, Yahoo | 71 | - | 54.2 (11.1) | 80.4 (2.8) | 1.0 | 15.3 | 5.0 | 4.5 | 0.9 | 0.2 | 1.0 |
 | 2026-27 proj, ESPN | 74 | 27.3 | 50.2 (11.4) | 76.8 (2.8) | 0.8 | 14.4 | 4.9 | 4.3 | 0.7 | 0.3 | 1.9 |
+| 2026-27 proj, Yahoo | 71 | - | 54.2 (11.1) | 80.4 (2.8) | 1.0 | 15.3 | 5.0 | 4.5 | 0.9 | 0.2 | 1.0 |
+| 2025-26 | 75 | 28.3 | 50.7 (12.2) | 76.9 (2.9) | 0.8 | 15.4 | 5.0 | 4.7 | 0.7 | 0.3 | 2.0 |
+| 2024-25 | 66 | 20.8 | 46.1 (7.0) | 75.4 (2.2) | 0.6 | 8.6 | 4.4 | 2.5 | 0.9 | 0.2 | 1.5 |
+| 2023-24 | 75 | 28.1 | 48.9 (9.3) | 81.1 (2.3) | 0.9 | 11.9 | 3.8 | 2.6 | 1.0 | 0.3 | 1.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,16 +30,16 @@
 </details>
 
 **Current**
-- He moved from Miami to Milwaukee in the Giannis Antetokounmpo trade. (fact, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=304), [06-23](https://youtu.be/nnWX_ObljOE?t=243))
 - Milwaukee's power forward group is very thin. He is listed as a projected starter next to Rollins, Herro, Ware and Turner. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1463), [08-14](https://youtu.be/owlM6b8oUd0?t=511), [08-14](https://youtu.be/owlM6b8oUd0?t=536))
 - He is expected to start at forward and play some minutes at the 3 and the 4. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1463), [06-23](https://youtu.be/nnWX_ObljOE?t=304))
 - He is seen as the former Miami player most likely to be traded before the season, possibly to Denver. A trade could change his role. (verdict, 2026-08-14, until start of the season; [08-14](https://youtu.be/owlM6b8oUd0?t=1463))
-- Much of his production last season came while two or three Miami players were out, Herro among them. Herro is now his teammate in Milwaukee. (fact, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=324), [09-09](https://youtu.be/7BllEsdNLoM?t=1772))
 - Milwaukee's rotation is crowded and the experts cannot work out how the minutes will be split. (fact, 2026-08-14; [06-23](https://youtu.be/nnWX_ObljOE?t=243), [08-11](https://youtu.be/OdDkXFhoKsc?t=1811), [08-14](https://youtu.be/owlM6b8oUd0?t=115))
+- He moved from Miami to Milwaukee in the Giannis Antetokounmpo trade. (fact, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=304), [06-23](https://youtu.be/nnWX_ObljOE?t=243))
+- Much of his production last season came while two or three Miami players were out, Herro among them. Herro is now his teammate in Milwaukee. (fact, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=324), [09-09](https://youtu.be/7BllEsdNLoM?t=1772))
 
 **Durable**
-- One expert rates him as a low-end player, at best a sixth man, with bad shooting. In his view he needs opportunity and usage to produce. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=316))
 - He makes few threes for a wing. Threes are his weakest category for his position. (fact, 2026-10-04; stats)
+- One expert rates him as a low-end player, at best a sixth man, with bad shooting. In his view he needs opportunity and usage to produce. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=316))
 
 **Tags**
 - Current: `new team` (Traded from Miami to Milwaukee in the Giannis deal), `trade risk` (Seen as the former Miami player most likely to be moved before the season, possibly to Denver; until start of the season), `minutes competition` (Crowded Milwaukee rotation, but the thin power forward group helps his path to a starting job)

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 50 | 11.0 | 36.9 (4.4) | 71.0 (0.6) | 0.8 | 4.5 | 1.2 | 0.9 | 0.3 | 0.1 | 0.5 |
-| 2024-25 | 65 | 21.3 | 43.2 (7.5) | 82.2 (1.4) | 1.4 | 9.0 | 2.2 | 1.3 | 0.6 | 0.2 | 0.9 |
-| 2025-26 | 57 | 15.1 | 46.7 (5.6) | 81.4 (1.2) | 1.0 | 7.2 | 2.0 | 1.1 | 0.4 | 0.1 | 0.6 |
-| 2026-27 proj, Yahoo | 59 | - | 44.4 (6.3) | 81.9 (1.2) | 1.3 | 7.9 | 2.0 | 1.0 | 0.5 | 0.2 | 0.5 |
 | 2026-27 proj, ESPN | 66 | 16.0 | 45.8 (5.9) | 81.0 (1.2) | 1.1 | 7.5 | 2.0 | 1.1 | 0.5 | 0.1 | 0.7 |
+| 2026-27 proj, Yahoo | 59 | - | 44.4 (6.3) | 81.9 (1.2) | 1.3 | 7.9 | 2.0 | 1.0 | 0.5 | 0.2 | 0.5 |
+| 2025-26 | 57 | 15.1 | 46.7 (5.6) | 81.4 (1.2) | 1.0 | 7.2 | 2.0 | 1.1 | 0.4 | 0.1 | 0.6 |
+| 2024-25 | 65 | 21.3 | 43.2 (7.5) | 82.2 (1.4) | 1.4 | 9.0 | 2.2 | 1.3 | 0.6 | 0.2 | 0.9 |
+| 2023-24 | 50 | 11.0 | 36.9 (4.4) | 71.0 (0.6) | 0.8 | 4.5 | 1.2 | 0.9 | 0.3 | 0.1 | 0.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -33,15 +33,15 @@
 - He is projected as Denver's 10th man, coming off the bench. The projected starters are Murray, Braun, Cam Johnson, Gordon and Jokic. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1418), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307))
 - He finished 427th in fantasy value last season. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1418))
 - His age-24 season is the time for him to show something. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1418))
+- Denver's roster is unsettled. Braun and Cam Johnson are possible trade pieces, and Moore expects at least two of last year's starters to be gone by the deadline. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=226), [07-31](https://youtu.be/keNupMSHp1Y?t=903))
 - Moore expects him to start the season at about 15 minutes a night. The team's goal is to get him to 20. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1510))
 - He will not start at shooting guard or small forward on a healthy roster. He could start only if Braun is traded or Murray is out. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1689))
-- Denver's roster is unsettled. Braun and Cam Johnson are possible trade pieces, and Moore expects at least two of last year's starters to be gone by the deadline. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=226), [07-31](https://youtu.be/keNupMSHp1Y?t=903))
 - Losing Tim Hardaway Jr. leaves Denver short on spacing, and the team needs shooters who will fire away off Jokic's gravity. (fact, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=409))
 - Moore sees him as a positive bench player but does not predict a breakout because his opportunity is uncertain. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1602))
 
 **Durable**
-- Experts disagree on his shooting. One calls him an elite shooter. Another calls his shooting spotty. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1450), [07-31](https://youtu.be/keNupMSHp1Y?t=362))
 - He adds little beyond shooting: few rebounds, assists, steals and blocks, and few free throw attempts. (verdict, 2026-10-04; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1450), stats)
+- Experts disagree on his shooting. One calls him an elite shooter. Another calls his shooting spotty. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1450), [07-31](https://youtu.be/keNupMSHp1Y?t=362))
 - His three-point attempt rate has dropped each season while his two-point rate has risen. (fact, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1625))
 - He is becoming more than a three-point shooter. He has a phenomenal floater game and can hit corner threes and spot-up shots. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1537), [07-31](https://youtu.be/keNupMSHp1Y?t=1625))
 - His defense needs a big jump. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=362))

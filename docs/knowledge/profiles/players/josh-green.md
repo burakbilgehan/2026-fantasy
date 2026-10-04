@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 57 | 26.4 | 47.9 (6.6) | 68.4 (1.0) | 1.3 | 8.2 | 3.2 | 2.3 | 0.8 | 0.2 | 1.1 |
-| 2024-25 | 68 | 27.8 | 42.8 (6.2) | 68.1 (1.1) | 1.4 | 7.4 | 2.5 | 1.6 | 1.1 | 0.2 | 1.0 |
-| 2025-26 | 58 | 15.6 | 45.9 (3.1) | 89.3 (0.5) | 1.0 | 4.3 | 1.8 | 0.8 | 0.6 | 0.1 | 0.6 |
-| 2026-27 proj, Yahoo | 61 | - | 46.8 (3.4) | 63.6 (0.5) | 0.8 | 4.3 | 1.6 | 0.6 | 0.6 | 0.3 | 0.4 |
 | 2026-27 proj, ESPN | 59 | 18.3 | 45.1 (3.8) | 82.9 (0.6) | 1.1 | 5.0 | 2.0 | 1.0 | 0.7 | 0.1 | 0.7 |
+| 2026-27 proj, Yahoo | 61 | - | 46.8 (3.4) | 63.6 (0.5) | 0.8 | 4.3 | 1.6 | 0.6 | 0.6 | 0.3 | 0.4 |
+| 2025-26 | 58 | 15.6 | 45.9 (3.1) | 89.3 (0.5) | 1.0 | 4.3 | 1.8 | 0.8 | 0.6 | 0.1 | 0.6 |
+| 2024-25 | 68 | 27.8 | 42.8 (6.2) | 68.1 (1.1) | 1.4 | 7.4 | 2.5 | 1.6 | 1.1 | 0.2 | 1.0 |
+| 2023-24 | 57 | 26.4 | 47.9 (6.6) | 68.4 (1.0) | 1.3 | 8.2 | 3.2 | 2.3 | 0.8 | 0.2 | 1.1 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,14 +30,14 @@
 </details>
 
 **Current**
-- He changed teams this offseason in a trade. His current team is Utah. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=264), [06-25](https://youtu.be/ya2VYRJ1BN0?t=296))
-- Utah's projected starting lineup is Keyonte George, Darryn Peterson, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic. Green is not in it. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=349))
 - Utah has a crowded rotation with George, Peterson, Sensabaugh, Bailey, Markkanen and Jackson, and the team plans to win this season. That leaves little room for a reserve wing. (verdict, 2026-08-26; [07-16](https://youtu.be/-y6p5PYLf00?t=1689), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [08-05](https://youtu.be/CI4k8ofUXXk?t=141))
+- Utah's projected starting lineup is Keyonte George, Darryn Peterson, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic. Green is not in it. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=349))
+- He changed teams this offseason in a trade. His current team is Utah. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=264), [06-25](https://youtu.be/ya2VYRJ1BN0?t=296))
 
 **Durable**
+- His points are a league outlier on the weak side. He is a low-usage player who adds little in any counting category. (fact, 2026-10-04; stats)
 - He is a connective wing who adds size. He is not a scorer or creator. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=638), [06-25](https://youtu.be/ya2VYRJ1BN0?t=296))
 - Experts rate him as not a good player. (verdict, 2026-06-25; [06-25](https://youtu.be/ya2VYRJ1BN0?t=296))
-- His points are a league outlier on the weak side. He is a low-usage player who adds little in any counting category. (fact, 2026-10-04; stats)
 
 **Tags**
 - Current: `new team` (Traded in the offseason. Now with Utah.), `role down` (Not in Utah's projected starting five, and the rotation is crowded)

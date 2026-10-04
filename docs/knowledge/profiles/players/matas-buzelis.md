@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 80 | 18.9 | 45.4 (6.9) | 81.5 (1.4) | 1.2 | 8.6 | 3.5 | 1.0 | 0.4 | 0.9 | 0.9 |
-| 2025-26 | 77 | 29.2 | 46.3 (12.5) | 78.6 (3.1) | 2.2 | 16.3 | 5.8 | 2.1 | 0.7 | 1.5 | 2.1 |
-| 2026-27 proj, Yahoo | 76 | - | 47.1 (14.0) | 79.1 (3.8) | 2.3 | 18.6 | 6.3 | 2.4 | 0.9 | 1.6 | 2.2 |
 | 2026-27 proj, ESPN | 74 | 30.5 | 46.2 (12.9) | 79.0 (3.1) | 2.3 | 16.7 | 6.0 | 2.1 | 0.7 | 1.6 | 2.1 |
+| 2026-27 proj, Yahoo | 76 | - | 47.1 (14.0) | 79.1 (3.8) | 2.3 | 18.6 | 6.3 | 2.4 | 0.9 | 1.6 | 2.2 |
+| 2025-26 | 77 | 29.2 | 46.3 (12.5) | 78.6 (3.1) | 2.2 | 16.3 | 5.8 | 2.1 | 0.7 | 1.5 | 2.1 |
+| 2024-25 | 80 | 18.9 | 45.4 (6.9) | 81.5 (1.4) | 1.2 | 8.6 | 3.5 | 1.0 | 0.4 | 0.9 | 0.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -31,19 +31,19 @@
 **Current**
 - Billy Donovan is gone. Tiago Splitter is the new Bulls coach. Nikola Vucevic and Coby White have left, and Norman Powell, Caleb Wilson and Nick Claxton have arrived. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=172), [09-28](https://youtu.be/3Qm5wLjhvTw?t=199), [09-07](https://youtu.be/gJUBAJaHzlU?t=1156), [09-07](https://youtu.be/gJUBAJaHzlU?t=1152), [08-18](https://youtu.be/FxaSnyk9g90?t=387), [06-23](https://youtu.be/9tb1ARBEmQU?t=841))
 - He is projected to start at small forward, with Caleb Wilson at the four and Claxton at center. On a roster built around big men, that means playing out of position. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=281), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1812), [06-23](https://youtu.be/9tb1ARBEmQU?t=841), [07-14](https://youtu.be/xHRF06_E9HE?t=1211))
-- Under Donovan last season he was on a short leash and played about 26 minutes early in the season. After the trade deadline he played about 31 minutes with 25% usage and ranked 50th, averaging 19 points, 7 rebounds, 3 threes, almost 2 blocks and a steal. (fact, 2026-09-21; [08-18](https://youtu.be/FxaSnyk9g90?t=325), [09-21](https://youtu.be/egRrai3Ax38?t=1334), [07-14](https://youtu.be/xHRF06_E9HE?t=1143), [07-14](https://youtu.be/xHRF06_E9HE?t=1171), [09-28](https://youtu.be/3Qm5wLjhvTw?t=167))
 - Splitter is expected to give him more ball handling and point forward duties, so his assists should rise. It is still unclear how much Splitter will empower him. (verdict, 2026-09-28; [08-18](https://youtu.be/FxaSnyk9g90?t=396), [08-26](https://youtu.be/sTtFUy7IoJI?t=1218), [09-28](https://youtu.be/3Qm5wLjhvTw?t=167), [09-28](https://youtu.be/3Qm5wLjhvTw?t=172))
 - Experts expect about 32 minutes and more shots. They see his usage above last season's 22 but probably below his late-season 25. He could be second on the team in usage, ahead of Josh Giddey and Caleb Wilson. Norman Powell may lead the team in usage unless he is traded. (verdict, 2026-09-28; [09-21](https://youtu.be/egRrai3Ax38?t=596), [09-21](https://youtu.be/egRrai3Ax38?t=1334), [09-21](https://youtu.be/egRrai3Ax38?t=588), [08-18](https://youtu.be/FxaSnyk9g90?t=444), [08-18](https://youtu.be/FxaSnyk9g90?t=470), [08-26](https://youtu.be/sTtFUy7IoJI?t=1218), [09-28](https://youtu.be/3Qm5wLjhvTw?t=222), [09-10](https://youtu.be/W-R1dzem32s?t=1509), [09-03](https://youtu.be/OBwWCxG9SqM?t=1146))
 - Experts expect a big third-year breakout and see him as a top 50 player. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=167), [09-28](https://youtu.be/3Qm5wLjhvTw?t=222), [09-28](https://youtu.be/3Qm5wLjhvTw?t=552), [09-21](https://youtu.be/egRrai3Ax38?t=596), [09-17](https://youtu.be/ahNxsoU8Hx4?t=663), [09-07](https://youtu.be/gJUBAJaHzlU?t=1128), [09-07](https://youtu.be/gJUBAJaHzlU?t=1156), [09-04](https://youtu.be/gerS7ibpaJo?t=625), [09-01](https://youtu.be/80kfLVnFQ_s?t=1078), [08-26](https://youtu.be/sTtFUy7IoJI?t=1211), [08-19](https://youtu.be/J1Eg3uaAICU?t=1439), [07-14](https://youtu.be/xHRF06_E9HE?t=1226), [08-18](https://youtu.be/FxaSnyk9g90?t=1773), [09-10](https://youtu.be/dlo7L8Ru91A?t=875))
 - He is the best target on the Bulls. Do not take him around pick 40. Around pick 60 is good value and around 80 would be a steal. His Yahoo rank around 80 is far too low. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=552), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1845), [08-26](https://youtu.be/sTtFUy7IoJI?t=1211), [08-26](https://youtu.be/sTtFUy7IoJI?t=1247), [09-17](https://youtu.be/ahNxsoU8Hx4?t=663), [08-11](https://youtu.be/OdDkXFhoKsc?t=1229))
-- His auction price should be about 20 USD, not 4 USD. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1128))
 - Experts expect his blocks to drop as he plays more small forward next to Caleb Wilson, even with more minutes. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=515), [09-07](https://youtu.be/gJUBAJaHzlU?t=1156), [08-26](https://youtu.be/sTtFUy7IoJI?t=1218), [07-14](https://youtu.be/xHRF06_E9HE?t=1211))
 - The Bulls play 3-3-4 games (10 total) in our fantasy playoff weeks. They have 15 back-to-backs and an average overall schedule. Their first 20 games are a hard stretch. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2024), [09-28](https://youtu.be/3Qm5wLjhvTw?t=2041), [08-18](https://youtu.be/FxaSnyk9g90?t=1732))
+- Under Donovan last season he was on a short leash and played about 26 minutes early in the season. After the trade deadline he played about 31 minutes with 25% usage and ranked 50th, averaging 19 points, 7 rebounds, 3 threes, almost 2 blocks and a steal. (fact, 2026-09-21; [08-18](https://youtu.be/FxaSnyk9g90?t=325), [09-21](https://youtu.be/egRrai3Ax38?t=1334), [07-14](https://youtu.be/xHRF06_E9HE?t=1143), [07-14](https://youtu.be/xHRF06_E9HE?t=1171), [09-28](https://youtu.be/3Qm5wLjhvTw?t=167))
+- His auction price should be about 20 USD, not 4 USD. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1128))
 
 **Durable**
 - He combines blocks and threes. His projected 1.6 blocks per game is a real outlier for a forward. (fact, 2026-10-04; [08-18](https://youtu.be/FxaSnyk9g90?t=325), stats)
-- He makes threes on volume but at a low percentage: 35% last season and 32% after the deadline. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=515), [07-14](https://youtu.be/xHRF06_E9HE?t=1171))
 - No category is a clear weakness, so he fits any build. (verdict, 2026-10-04; stats)
+- He makes threes on volume but at a low percentage: 35% last season and 32% after the deadline. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=515), [07-14](https://youtu.be/xHRF06_E9HE?t=1171))
 
 **Tags**
 - Current: `breakout` (third-year step expected under new coach Splitter), `role up` (about 32 minutes, more usage and point forward duties), `expert target` (seen as top 50; good value around pick 60), `sleeper` (Yahoo rank around 80; expert price about 20 USD vs a 4 USD market)

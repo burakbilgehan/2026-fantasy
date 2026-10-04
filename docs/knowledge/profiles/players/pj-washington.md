@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 73 | 30.4 | 43.6 (11.1) | 68.3 (2.0) | 1.8 | 12.9 | 5.6 | 1.9 | 1.0 | 0.8 | 1.3 |
-| 2024-25 | 57 | 32.2 | 45.3 (11.7) | 72.2 (3.5) | 1.6 | 14.7 | 7.8 | 2.3 | 1.1 | 1.1 | 2.1 |
-| 2025-26 | 56 | 30.9 | 45.0 (11.8) | 68.7 (3.2) | 1.4 | 14.2 | 7.0 | 1.8 | 1.0 | 1.1 | 1.7 |
-| 2026-27 proj, Yahoo | 62 | - | 44.8 (11.2) | 70.1 (3.0) | 1.5 | 13.6 | 6.8 | 1.9 | 1.0 | 1.0 | 1.7 |
 | 2026-27 proj, ESPN | 64 | 29.0 | 44.8 (10.9) | 69.3 (3.0) | 1.3 | 13.2 | 6.6 | 1.7 | 0.9 | 1.0 | 1.6 |
+| 2026-27 proj, Yahoo | 62 | - | 44.8 (11.2) | 70.1 (3.0) | 1.5 | 13.6 | 6.8 | 1.9 | 1.0 | 1.0 | 1.7 |
+| 2025-26 | 56 | 30.9 | 45.0 (11.8) | 68.7 (3.2) | 1.4 | 14.2 | 7.0 | 1.8 | 1.0 | 1.1 | 1.7 |
+| 2024-25 | 57 | 32.2 | 45.3 (11.7) | 72.2 (3.5) | 1.6 | 14.7 | 7.8 | 2.3 | 1.1 | 1.1 | 2.1 |
+| 2023-24 | 73 | 30.4 | 43.6 (11.1) | 68.3 (2.0) | 1.8 | 12.9 | 5.6 | 1.9 | 1.0 | 0.8 | 1.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,11 +30,11 @@
 </details>
 
 **Current**
+- Lively, Dharma and Morez Johnson Jr. are hurt. That leaves Gafford as the likely opening night center. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1240))
 - Josh ranks Washington 125 to 150 in category leagues. He sees no path to a top 80 finish because Dallas has so many forwards. In a 12 team league he would only take him in round 14 or later. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=890))
 - Josh projects Washington to start, with Kyrie Irving, Max Christie, Cooper Flagg and Morez Johnson Jr. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=358))
 - Dallas has a crowded frontcourt. Almost every player besides Kyrie Irving is a power forward, and Washington competes for minutes with Lively, Gafford, Johnson Jr., Aldama and Naji Marshall. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=134), [09-29](https://youtu.be/XSPJL_mlFXo?t=234), [07-27](https://youtu.be/0AptxcRW0RE?t=338), [07-21](https://youtu.be/RyzcCGChYgs?t=2295), [07-13](https://youtu.be/Rqb5GdrSweY?t=592), [06-26](https://youtu.be/CLsUc0Sevos?t=1386), [06-25](https://youtu.be/lOshTzDA4SA?t=1834), [08-26](https://youtu.be/sTtFUy7IoJI?t=1733))
 - Dusty May is the new head coach. Nobody knows yet how he will split the minutes among the centers and forwards like Washington. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=234))
-- Lively, Dharma and Morez Johnson Jr. are hurt. That leaves Gafford as the likely opening night center. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1240))
 - Dallas plays 4 games in each of our three playoff weeks, which is probably the best playoff schedule in the league. It also has a league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
 
 **Durable**

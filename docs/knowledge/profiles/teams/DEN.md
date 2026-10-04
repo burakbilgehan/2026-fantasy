@@ -11,22 +11,22 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Zeke Nnaji, PF Spencer Jones, PF Cam Whitmore, PG Tyus Jones, SF DeMar DeRozan, SG Julian Strawther
 
 **Current**
+- The fantasy playoff schedule is strong. Denver plays 11 games in weeks 19 to 21, which ranks 4 of 30. There is one back-to-back in week 20 and one in week 21. (fact, 2026-10-04; stats)
+- Denver is a strong team, with a win total of 49.5 (rank 6). The risk of tanking or late-season shutdowns is low. (verdict, 2026-10-04; stats)
 - Peyton Watson has left Denver. DeMar DeRozan has joined the team. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=170))
 - David Adelman sets the rotation. How the new pieces fit together is the main open question. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=170))
 - The projected starters are Jamal Murray, Christian Braun, Cam Johnson, Aaron Gordon and Nikola Jokic. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307), stats)
 - The projected bench is DeMar DeRozan, Spencer Jones, Marvin Bagley, Tyus Jones and Julian Strawther. DeRozan comes off the bench. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307))
 - The depth behind Aaron Gordon at power forward is very weak. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=792))
 - The team is mostly healthy going into the season. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1658))
-- Losing Tim Hardaway Jr. leaves Denver short on spacing. They need shooters who will take the open shots that Jokic's gravity creates. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=409))
 - The schedule is good. Denver plays 43 games through March 28, one below the most of any team. It has 14 back-to-backs, which ranks 12 of 30 (1 = fewest). (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678), stats)
+- Do not take Zeke Nnaji early just because he plays next to Jokic. Jamal Murray is a fine pick in that range. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1269))
 - Denver has one of only three five-game weeks this season. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1304))
-- The fantasy playoff schedule is strong. Denver plays 11 games in weeks 19 to 21, which ranks 4 of 30. There is one back-to-back in week 20 and one in week 21. (fact, 2026-10-04; stats)
-- Denver is a strong team, with a win total of 49.5 (rank 6). The risk of tanking or late-season shutdowns is low. (verdict, 2026-10-04; stats)
+- The roster is unsettled. Cam Johnson or Christian Braun could be traded. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=226))
+- Losing Tim Hardaway Jr. leaves Denver short on spacing. They need shooters who will take the open shots that Jokic's gravity creates. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=409))
 - Moore predicts 50 wins and a weaker team than last season. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1746))
 - Moore doubts the team will rest Gordon, Murray and Jokic on purpose. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1377))
-- The roster is unsettled. Cam Johnson or Christian Braun could be traded. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=226))
 - Moore doubts ownership will pay the luxury tax. He expects at least two of last year's starters, Cam Johnson among them, to be gone by the trade deadline. (verdict, 2026-07-31, until trade deadline; [07-31](https://youtu.be/keNupMSHp1Y?t=903))
-- Do not take Zeke Nnaji early just because he plays next to Jokic. Jamal Murray is a fine pick in that range. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1269))
 
 **Durable**
 - Backup centers in Denver do not produce. Bigs who look fine on other teams tend to fall apart once they arrive. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1392), [07-31](https://youtu.be/keNupMSHp1Y?t=235))

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 71 | 34.0 | 52.1 (14.3) | 75.5 (5.5) | 0.2 | 19.3 | 10.4 | 3.9 | 1.1 | 0.9 | 2.3 |
-| 2024-25 | 78 | 34.3 | 48.5 (14.3) | 76.5 (4.2) | 1.0 | 18.1 | 9.6 | 4.3 | 1.3 | 0.7 | 2.1 |
-| 2025-26 | 73 | 32.4 | 44.2 (15.7) | 77.8 (5.8) | 1.7 | 20.1 | 10.0 | 3.2 | 1.2 | 0.7 | 1.6 |
-| 2026-27 proj, Yahoo | 74 | - | 44.9 (15.9) | 77.0 (5.2) | 2.0 | 20.3 | 8.6 | 3.7 | 1.2 | 0.7 | 1.9 |
 | 2026-27 proj, ESPN | 73 | 32.4 | 44.2 (15.7) | 77.8 (5.8) | 1.8 | 20.2 | 10.0 | 3.2 | 1.2 | 0.7 | 1.6 |
+| 2026-27 proj, Yahoo | 74 | - | 44.9 (15.9) | 77.0 (5.2) | 2.0 | 20.3 | 8.6 | 3.7 | 1.2 | 0.7 | 1.9 |
+| 2025-26 | 73 | 32.4 | 44.2 (15.7) | 77.8 (5.8) | 1.7 | 20.1 | 10.0 | 3.2 | 1.2 | 0.7 | 1.6 |
+| 2024-25 | 78 | 34.3 | 48.5 (14.3) | 76.5 (4.2) | 1.0 | 18.1 | 9.6 | 4.3 | 1.3 | 0.7 | 2.1 |
+| 2023-24 | 71 | 34.0 | 52.1 (14.3) | 75.5 (5.5) | 0.2 | 19.3 | 10.4 | 3.9 | 1.1 | 0.9 | 2.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -31,9 +31,9 @@
 
 **Current**
 - Miami traded for Giannis Antetokounmpo, so Giannis is now Bam Adebayo's teammate. (fact, 2026-09-19; [06-23](https://youtu.be/nnWX_ObljOE?t=975), [09-19](https://youtu.be/uarqbNA2dFk?t=1935))
+- His fair value is a rank in the 30s. He goes around pick 34 to 36, at the end of round three, and the experts call that fair. ESPN's rank of 15 is too high, and he has never played at that level. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1935), [09-14](https://youtu.be/LM0cRCGoAUQ?t=807), [09-14](https://youtu.be/t4n9MAP2_14?t=747))
 - Giannis should cost him a small amount of value. He may lose some rebounds and take more threes, but the experts do not expect a big drop. (verdict, 2026-09-14; [06-23](https://youtu.be/nnWX_ObljOE?t=975), [09-14](https://youtu.be/t4n9MAP2_14?t=747), [09-14](https://youtu.be/LM0cRCGoAUQ?t=807))
 - Miami's projected starting lineup has him in the frontcourt with Giannis. Bobby Portis is his backup. (fact, 2026-09-14; [06-23](https://youtu.be/nnWX_ObljOE?t=870), [09-14](https://youtu.be/LM0cRCGoAUQ?t=813))
-- His fair value is a rank in the 30s. He goes around pick 34 to 36, at the end of round three, and the experts call that fair. ESPN's rank of 15 is too high, and he has never played at that level. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1935), [09-14](https://youtu.be/LM0cRCGoAUQ?t=807), [09-14](https://youtu.be/t4n9MAP2_14?t=747))
 - Miami has the fewest back-to-backs of any team (13) and none in the fantasy playoffs. It has only 10 games in the playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153))
 
 **Durable**

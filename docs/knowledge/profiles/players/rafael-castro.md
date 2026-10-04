@@ -8,15 +8,15 @@ No NBA stats and no projections in our data.
 | 2026-27 | 0 | - | 658 | - | - | - | not drafted |
 
 **Current**
-- Castro is a rookie from the 2026 draft class. He went undrafted. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=861))
 - Houston's projected starters are VanVleet, Thompson, Durant, Smith and Sengun. Steven Adams is back and sits in a crowded bench group. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=328), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357), [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
 - Coach Ime Udoka plays his starters very heavy minutes. The roster is thin after the top 10 or 11 players. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=146), [10-01](https://youtu.be/aLP080hxizA?t=1621), [09-09](https://youtu.be/7BllEsdNLoM?t=2451))
+- Castro is a rookie from the 2026 draft class. He went undrafted. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=861))
 - Experts treat him as a late dynasty rookie flier: Tier 9 in one ranking, around pick 50 in another. Neither ranking is a redraft call. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=861), [06-23](https://youtu.be/-rgXhs5BHiw?t=1081))
 
 **Durable**
+- His steal numbers are expected to translate well to the NBA. One expert compares him to Paul Reed. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=861), [06-23](https://youtu.be/-rgXhs5BHiw?t=1081))
 - He is a 6'11 big man, 23 years old at the 2026 draft. (fact, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1081))
 - Before the NBA he had a very high block rate, a very high steal rate and a high free throw rate. He did not take threes. (fact, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1081), [06-22](https://youtu.be/HxQjagSTTAM?t=1290))
-- His steal numbers are expected to translate well to the NBA. One expert compares him to Paul Reed. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=861), [06-23](https://youtu.be/-rgXhs5BHiw?t=1081))
 
 **Tags**
 - Current: `rookie` (2026 draft class, undrafted)

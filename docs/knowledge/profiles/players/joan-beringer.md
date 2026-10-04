@@ -3,8 +3,8 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 40 | 7.9 | 66.3 (2.5) | 70.3 (0.9) | 0.0 | 3.9 | 2.3 | 0.3 | 0.2 | 0.7 | 0.3 |
 | 2026-27 proj, Yahoo | 69 | - | 68.6 (3.7) | 72.0 (1.9) | 0.0 | 6.4 | 4.4 | 0.7 | 0.7 | 1.0 | 0.7 |
+| 2025-26 | 40 | 7.9 | 66.3 (2.5) | 70.3 (0.9) | 0.0 | 3.9 | 2.3 | 0.3 | 0.2 | 0.7 | 0.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -27,18 +27,18 @@
 </details>
 
 **Current**
+- Minnesota has a two-game week in the matchup starting March 15, which falls inside our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928))
 - Minnesota no longer has Naz Reid or Julius Randle. Beringer is Rudy Gobert's main backup center, and the team has no other backup center behind Gobert. (fact, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1637), [08-26](https://youtu.be/sTtFUy7IoJI?t=475), [07-21](https://youtu.be/RyzcCGChYgs?t=1212), [06-30](https://youtu.be/4GDfg2n2l8o?t=1259), [06-25](https://youtu.be/ya2VYRJ1BN0?t=254), [09-04](https://youtu.be/gerS7ibpaJo?t=1634), [07-21](https://youtu.be/RyzcCGChYgs?t=1214))
 - He is projected for about 18 minutes a night, roughly 10 to 11 more than last season. The projection was lowered after Jonathan Kuminga signed. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1637), [08-26](https://youtu.be/sTtFUy7IoJI?t=475))
 - He can probably average about 1.1 blocks in reserve minutes. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1637))
 - He has no real path to starting. While Gobert is healthy he is a low-end blocks and FG% player and a stash only. He would start and become a must-roster if Gobert misses games. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1637), [08-26](https://youtu.be/sTtFUy7IoJI?t=528), [07-21](https://youtu.be/RyzcCGChYgs?t=1212), [06-25](https://youtu.be/ya2VYRJ1BN0?t=254))
 - He is not expected to play power forward next to Gobert early in the season. That could change later in the year. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=971), [06-25](https://youtu.be/ya2VYRJ1BN0?t=254))
-- Minnesota has a two-game week in the matchup starting March 15, which falls inside our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928))
 
 **Durable**
+- His category value comes from FG%, blocks and low turnovers. He adds little in points, assists and threes. (fact, 2026-10-04; stats)
 - He is a great shot blocker and a strong, instinctive offensive rebounder. His defensive rebounding technique is behind. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=915))
 - He shoots free throws around 70% and does not stretch the floor. He makes no threes. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=915), stats)
 - Foul trouble is a concern for him. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=915))
-- His category value comes from FG%, blocks and low turnovers. He adds little in points, assists and threes. (fact, 2026-10-04; stats)
 - In 28 minutes he could put up 12 points and 10 rebounds with 2.4 blocks on 60% shooting. Lloyd expects at least one top 50 season in his career. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1293))
 
 **Tags**

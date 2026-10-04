@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 74 | 26.4 | 52.9 (11.6) | 74.6 (4.0) | 0.7 | 16.1 | 4.8 | 2.2 | 0.7 | 0.5 | 1.6 |
-| 2024-25 | 47 | 24.3 | 45.4 (12.1) | 66.8 (5.0) | 1.0 | 15.3 | 4.6 | 2.2 | 0.8 | 0.4 | 1.5 |
-| 2025-26 | 36 | 23.1 | 46.3 (9.4) | 72.4 (3.4) | 1.0 | 12.2 | 5.6 | 2.3 | 0.6 | 0.3 | 1.9 |
-| 2026-27 proj, Yahoo | 68 | - | 47.8 (9.0) | 66.7 (3.4) | 0.8 | 11.6 | 4.2 | 1.9 | 0.6 | 0.4 | 1.7 |
 | 2026-27 proj, ESPN | 67 | 27.3 | 46.8 (11.7) | 71.2 (4.3) | 1.1 | 15.1 | 6.2 | 2.6 | 0.8 | 0.4 | 2.1 |
+| 2026-27 proj, Yahoo | 68 | - | 47.8 (9.0) | 66.7 (3.4) | 0.8 | 11.6 | 4.2 | 1.9 | 0.6 | 0.4 | 1.7 |
+| 2025-26 | 36 | 23.1 | 46.3 (9.4) | 72.4 (3.4) | 1.0 | 12.2 | 5.6 | 2.3 | 0.6 | 0.3 | 1.9 |
+| 2024-25 | 47 | 24.3 | 45.4 (12.1) | 66.8 (5.0) | 1.0 | 15.3 | 4.6 | 2.2 | 0.8 | 0.4 | 1.5 |
+| 2023-24 | 74 | 26.4 | 52.9 (11.6) | 74.6 (4.0) | 0.7 | 16.1 | 4.8 | 2.2 | 0.7 | 0.5 | 1.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -32,15 +32,15 @@
 **Current**
 - He signed with Minnesota and is reported to be starting for the Wolves. (fact, 2026-10-02; [08-26](https://youtu.be/sTtFUy7IoJI?t=576), [08-26](https://youtu.be/sTtFUy7IoJI?t=576), [10-02](https://youtu.be/ZYllcj4o6_A?t=2306))
 - He was reportedly promised a starting spot, but that spot may not last all season. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2306))
-- He should get more minutes and chances in Minnesota, about 28 to 29 minutes a night. (verdict, 2026-08-30; [08-26](https://youtu.be/sTtFUy7IoJI?t=623), [08-30](https://youtu.be/Alwse2uXzD4?t=1874))
-- His usage should drop next to Anthony Edwards, LaMelo Ball and Jaden McDaniels, but stay above 20. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=623))
 - Experts call him overvalued at a price near rank 50. He is not a round 4 player, and his drop in efficiency should stick because he will not play close enough to the basket to get his FG% and blocks back. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=633), [09-19](https://youtu.be/uarqbNA2dFk?t=1537))
 - Minnesota has a two-game week in the matchup that starts March 15, which falls inside our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
+- He should get more minutes and chances in Minnesota, about 28 to 29 minutes a night. (verdict, 2026-08-30; [08-26](https://youtu.be/sTtFUy7IoJI?t=623), [08-30](https://youtu.be/Alwse2uXzD4?t=1874))
+- His usage should drop next to Anthony Edwards, LaMelo Ball and Jaden McDaniels, but stay above 20. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=623))
 
 **Durable**
+- FT% is his clear weak category. He also sometimes struggles with three-point percentage. (fact, 2026-10-04; stats, [09-10](https://youtu.be/dlo7L8Ru91A?t=2030), [08-30](https://youtu.be/Alwse2uXzD4?t=1893), [08-26](https://youtu.be/sTtFUy7IoJI?t=615))
 - He is a scorer and does little else. He is worth more in points leagues than in category leagues. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=2030), [08-30](https://youtu.be/Alwse2uXzD4?t=1893), [08-26](https://youtu.be/sTtFUy7IoJI?t=676))
 - He is poor in steals, blocks and assists and is not a strong rebounder. (fact, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=2030), [08-30](https://youtu.be/Alwse2uXzD4?t=1893), [08-26](https://youtu.be/sTtFUy7IoJI?t=615))
-- FT% is his clear weak category. He also sometimes struggles with three-point percentage. (fact, 2026-10-04; stats, [09-10](https://youtu.be/dlo7L8Ru91A?t=2030), [08-30](https://youtu.be/Alwse2uXzD4?t=1893), [08-26](https://youtu.be/sTtFUy7IoJI?t=615))
 - One expert does not like him as a player and thinks he is lazy on defense. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=563))
 
 **Tags**

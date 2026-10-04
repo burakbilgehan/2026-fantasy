@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 68 | 24.9 | 49.8 (7.7) | 80.4 (0.8) | 0.9 | 9.2 | 2.1 | 4.1 | 0.9 | 0.1 | 1.5 |
-| 2024-25 | 65 | 29.0 | 45.8 (8.3) | 79.4 (2.1) | 0.8 | 10.0 | 3.3 | 5.0 | 1.2 | 0.2 | 1.7 |
-| 2025-26 | 57 | 31.3 | 44.2 (13.2) | 82.5 (4.1) | 1.9 | 16.9 | 2.8 | 7.7 | 0.9 | 0.1 | 2.4 |
-| 2026-27 proj, Yahoo | 66 | - | 45.5 (10.5) | 81.5 (2.8) | 1.3 | 13.1 | 2.9 | 6.1 | 1.0 | 0.1 | 2.0 |
 | 2026-27 proj, ESPN | 71 | 30.7 | 46.3 (10.2) | 81.2 (2.4) | 1.2 | 12.6 | 3.0 | 5.9 | 1.1 | 0.1 | 2.0 |
+| 2026-27 proj, Yahoo | 66 | - | 45.5 (10.5) | 81.5 (2.8) | 1.3 | 13.1 | 2.9 | 6.1 | 1.0 | 0.1 | 2.0 |
+| 2025-26 | 57 | 31.3 | 44.2 (13.2) | 82.5 (4.1) | 1.9 | 16.9 | 2.8 | 7.7 | 0.9 | 0.1 | 2.4 |
+| 2024-25 | 65 | 29.0 | 45.8 (8.3) | 79.4 (2.1) | 0.8 | 10.0 | 3.3 | 5.0 | 1.2 | 0.2 | 1.7 |
+| 2023-24 | 68 | 24.9 | 49.8 (7.7) | 80.4 (0.8) | 0.9 | 9.2 | 2.1 | 4.1 | 0.9 | 0.1 | 1.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -31,12 +31,12 @@
 
 **Current**
 - Tyrese Haliburton is back. Indiana's projected starting five has Nembhard in the backcourt next to Haliburton. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=238), [08-10](https://youtu.be/sfCe7fS9daM?t=443))
-- From January 1 to the end of last season he was top five in assists per game. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=650))
 - With Haliburton back, the experts expect a lower-usage role and fewer assists. They see little upside or blow-up potential unless Haliburton is out. (verdict, 2026-10-01; [08-10](https://youtu.be/sfCe7fS9daM?t=604), [09-09](https://youtu.be/7BllEsdNLoM?t=2254), [10-01](https://youtu.be/EGdhmUgPAWY?t=1089), [09-30](https://youtu.be/BjXP9JODDSg?t=1808), [09-24](https://youtu.be/_vbAP5y182A?t=2144))
-- Josh found him slightly underwhelming as the lead point guard. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=604))
 - He is the expert's biggest fade on the Pacers at Yahoo's rank of 108. ESPN's rank of 149 is called reasonable. Tier 8 among point guards. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1854), [10-01](https://youtu.be/EGdhmUgPAWY?t=1089), [09-09](https://youtu.be/7BllEsdNLoM?t=2254))
 - Do not draft him in standard formats. Take him only in the late rounds or in deeper leagues. The experts prefer an upside flier over him at around pick 112. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1089), [10-01](https://youtu.be/EGdhmUgPAWY?t=1180), [09-30](https://youtu.be/BjXP9JODDSg?t=1808), [09-24](https://youtu.be/_vbAP5y182A?t=2144))
 - With a March 28 season end, Indiana plays 3, 4 and 3 games in our playoff weeks 19 to 21, which is not ideal. The team has 15 back-to-backs. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034))
+- From January 1 to the end of last season he was top five in assists per game. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=650))
+- Josh found him slightly underwhelming as the lead point guard. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=604))
 
 **Durable**
 - He is a low-usage player with weak defensive stats and shooting percentages that go up and down. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1048))

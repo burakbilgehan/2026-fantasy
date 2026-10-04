@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 44 | 15.6 | 56.3 (4.2) | 60.9 (0.5) | 0.5 | 5.5 | 2.6 | 1.1 | 0.9 | 0.4 | 0.6 |
-| 2024-25 | 62 | 14.9 | 57.4 (4.8) | 71.1 (0.6) | 0.5 | 6.5 | 3.0 | 1.3 | 0.8 | 0.3 | 0.6 |
-| 2025-26 | 73 | 15.6 | 58.3 (5.7) | 65.0 (0.5) | 0.5 | 7.5 | 3.6 | 1.7 | 0.9 | 0.3 | 0.8 |
 | 2026-27 proj, Yahoo | 60 | - | 58.1 (4.9) | 65.6 (0.5) | 0.5 | 6.6 | 3.1 | 1.4 | 0.9 | 0.3 | 0.8 |
+| 2025-26 | 73 | 15.6 | 58.3 (5.7) | 65.0 (0.5) | 0.5 | 7.5 | 3.6 | 1.7 | 0.9 | 0.3 | 0.8 |
+| 2024-25 | 62 | 14.9 | 57.4 (4.8) | 71.1 (0.6) | 0.5 | 6.5 | 3.0 | 1.3 | 0.8 | 0.3 | 0.6 |
+| 2023-24 | 44 | 15.6 | 56.3 (4.2) | 60.9 (0.5) | 0.5 | 5.5 | 2.6 | 1.1 | 0.9 | 0.4 | 0.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,14 +29,14 @@
 </details>
 
 **Current**
-- Golden State's depth is very poor. The team struggles to field a 10-man rotation. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
-- Thin depth should push minutes up across the Golden State rotation. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
 - Golden State has 15 back-to-backs this season. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=991), [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
 - Golden State's schedule is good for fantasy playoffs ending March 28. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
+- Golden State's depth is very poor. The team struggles to field a 10-man rotation. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
+- Thin depth should push minutes up across the Golden State rotation. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
 
 **Durable**
-- He scores by slipping screens and cutting to the basket off Steph Curry's gravity. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=798))
 - Steve Kerr runs unpredictable rotations and often changes a set starting lineup a few games later, with lots of mixing among the wings. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=237), [08-22](https://youtu.be/LXZLrL90crE?t=301))
+- He scores by slipping screens and cutting to the basket off Steph Curry's gravity. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=798))
 
 **Tags**
 - Current: `good playoff schedule` (Team schedule good for playoffs ending March 28, but 15 back-to-backs)

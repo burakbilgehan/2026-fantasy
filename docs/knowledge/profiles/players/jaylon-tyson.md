@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 47 | 9.6 | 43.0 (3.2) | 79.2 (0.5) | 0.4 | 3.6 | 2.0 | 0.9 | 0.3 | 0.1 | 0.6 |
-| 2025-26 | 66 | 27.0 | 49.3 (10.2) | 73.8 (1.6) | 2.0 | 13.2 | 5.1 | 2.2 | 0.8 | 0.4 | 1.5 |
-| 2026-27 proj, Yahoo | 69 | - | 47.1 (8.6) | 73.4 (1.4) | 1.5 | 10.6 | 4.5 | 0.9 | 0.8 | 0.3 | 0.8 |
 | 2026-27 proj, ESPN | 62 | 26.7 | 48.9 (10.0) | 74.7 (1.6) | 2.0 | 12.9 | 5.1 | 2.2 | 0.8 | 0.4 | 1.5 |
+| 2026-27 proj, Yahoo | 69 | - | 47.1 (8.6) | 73.4 (1.4) | 1.5 | 10.6 | 4.5 | 0.9 | 0.8 | 0.3 | 0.8 |
+| 2025-26 | 66 | 27.0 | 49.3 (10.2) | 73.8 (1.6) | 2.0 | 13.2 | 5.1 | 2.2 | 0.8 | 0.4 | 1.5 |
+| 2024-25 | 47 | 9.6 | 43.0 (3.2) | 79.2 (0.5) | 0.4 | 3.6 | 2.0 | 0.9 | 0.3 | 0.1 | 0.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -35,9 +35,9 @@
 - Last season he shot about 45% from three, up from 35% the year before. Over his final 16 games that dropped to 37%. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1670), [07-16](https://youtu.be/-y6p5PYLf00?t=497), [08-24](https://youtu.be/rnq3118kfhY?t=467))
 - Experts do not expect the 45% three-point shooting to repeat. Danny thinks he can still shoot above 40%. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1670), [07-16](https://youtu.be/-y6p5PYLf00?t=497), [08-24](https://youtu.be/rnq3118kfhY?t=467))
 - In a bench role he projects around rank 150 to 170. He is a late-round swing pick and matters more in 14-team and deeper leagues. A 20-game absence by a player ahead of him would push him well above that range. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1629), [09-29](https://youtu.be/NmdNvAz08oE?t=1670), [09-29](https://youtu.be/NmdNvAz08oE?t=1699))
+- With a March 28 end, Cleveland plays 4, 3 and then 2 games in our playoff weeks, so finals week has only two games. Cleveland also has the most back-to-backs in the league. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [09-29](https://youtu.be/NmdNvAz08oE?t=1907), [08-16](https://youtu.be/gf_6GveiAls?t=930), [08-16](https://youtu.be/gf_6GveiAls?t=1536))
 - Experts disagree on his upside. One calls him a possible flyer if his role grows. Josh is not convinced his minutes turn into fantasy value, because much of his value came from hot three-point shooting. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=2049), [09-07](https://youtu.be/gJUBAJaHzlU?t=2038))
 - Danny says his next step is to average 15 to 16 points on good efficiency as a secondary creator. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1565))
-- With a March 28 end, Cleveland plays 4, 3 and then 2 games in our playoff weeks, so finals week has only two games. Cleveland also has the most back-to-backs in the league. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [09-29](https://youtu.be/NmdNvAz08oE?t=1907), [08-16](https://youtu.be/gf_6GveiAls?t=930), [08-16](https://youtu.be/gf_6GveiAls?t=1536))
 
 **Durable**
 - His production was strong when teammates were out and faded when they returned. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1621), [07-16](https://youtu.be/-y6p5PYLf00?t=497))

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 28 | 11.9 | 64.4 (3.7) | 71.4 (1.0) | 0.0 | 5.5 | 4.4 | 0.7 | 0.5 | 0.8 | 0.5 |
-| 2024-25 | 62 | 13.9 | 65.0 (3.3) | 75.4 (1.0) | 0.0 | 5.0 | 3.8 | 0.7 | 0.3 | 0.7 | 0.6 |
-| 2025-26 | 76 | 25.4 | 65.3 (6.6) | 70.3 (2.3) | 0.0 | 10.2 | 8.4 | 1.7 | 0.8 | 1.3 | 1.0 |
-| 2026-27 proj, Yahoo | 65 | - | 65.1 (6.4) | 71.4 (2.2) | 0.0 | 9.9 | 8.0 | 1.6 | 0.7 | 1.3 | 1.0 |
 | 2026-27 proj, ESPN | 72 | 23.6 | 65.4 (6.1) | 70.9 (2.1) | 0.0 | 9.5 | 7.7 | 1.5 | 0.7 | 1.2 | 0.9 |
+| 2026-27 proj, Yahoo | 65 | - | 65.1 (6.4) | 71.4 (2.2) | 0.0 | 9.9 | 8.0 | 1.6 | 0.7 | 1.3 | 1.0 |
+| 2025-26 | 76 | 25.4 | 65.3 (6.6) | 70.3 (2.3) | 0.0 | 10.2 | 8.4 | 1.7 | 0.8 | 1.3 | 1.0 |
+| 2024-25 | 62 | 13.9 | 65.0 (3.3) | 75.4 (1.0) | 0.0 | 5.0 | 3.8 | 0.7 | 0.3 | 0.7 | 0.6 |
+| 2023-24 | 28 | 11.9 | 64.4 (3.7) | 71.4 (1.0) | 0.0 | 5.5 | 4.4 | 0.7 | 0.5 | 0.8 | 0.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,15 +30,15 @@
 </details>
 
 **Current**
+- Boston has 16 back-to-backs, the most in the league. The expert says this mainly affects Paul George and Mitchell Robinson. (fact, 2026-09-26; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1837), [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=901))
 - Queta and Mitchell Robinson are competing for the starting center job in Boston. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=394), [09-14](https://youtu.be/t4n9MAP2_14?t=2060), [07-30](https://youtu.be/TiiaNZCJNs8?t=1806))
 - The newest call has Queta starting and closing a lot of games, with his minutes going up to 26 to 27 per game. Another expert says it is unclear whether he starts, but that Robinson cannot play starter minutes. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=394), [09-14](https://youtu.be/t4n9MAP2_14?t=2060))
-- His upside is capped. About 24 to 25 minutes is enough for tier eight among centers, but his 30-minute upside is probably gone now that Robinson is in Boston. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2060), [07-02](https://youtu.be/P6TNP-g0wzY?t=1945))
-- Lloyd would draft Queta over Robinson. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1945))
 - The expert values him as a pick in the 90 to 110 range. Take him closer to 90 if you need a center, and let him slide toward 110 if you do not. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1039))
+- Boston plays 4, 3 and 4 games in our fantasy playoff weeks 19 to 21. That is one game short of the maximum. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1816))
+- His upside is capped. About 24 to 25 minutes is enough for tier eight among centers, but his 30-minute upside is probably gone now that Robinson is in Boston. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2060), [07-02](https://youtu.be/P6TNP-g0wzY?t=1945))
 - He signed an extension at about 14 to 15 million USD per year. It covers this season and four more. (fact, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=1941))
 - Karalis thinks Queta would accept a bench role. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=1941))
-- Boston plays 4, 3 and 4 games in our fantasy playoff weeks 19 to 21. That is one game short of the maximum. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1816))
-- Boston has 16 back-to-backs, the most in the league. The expert says this mainly affects Paul George and Mitchell Robinson. (fact, 2026-09-26; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1837), [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=901))
+- Lloyd would draft Queta over Robinson. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1945))
 
 **Durable**
 - He does not shoot threes and is not a shooter. He does not need threes to have value. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1055), [07-30](https://youtu.be/TiiaNZCJNs8?t=1249), stats)

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 50 | 21.0 | 58.6 (8.2) | 76.2 (2.5) | 0.2 | 11.7 | 6.2 | 1.1 | 0.4 | 0.7 | 1.2 |
-| 2024-25 | 31 | 8.6 | 51.9 (3.4) | 65.7 (1.1) | 0.1 | 4.4 | 2.7 | 0.4 | 0.3 | 0.3 | 0.4 |
-| 2025-26 | 60 | 20.0 | 61.8 (6.8) | 66.0 (2.4) | 0.4 | 10.4 | 6.1 | 1.4 | 0.5 | 0.7 | 1.0 |
-| 2026-27 proj, Yahoo | 49 | - | 55.2 (5.5) | 75.8 (1.9) | 0.2 | 7.7 | 4.7 | 1.0 | 0.4 | 0.3 | 0.4 |
 | 2026-27 proj, ESPN | 61 | 19.1 | 61.0 (6.6) | 66.4 (2.3) | 0.4 | 10.0 | 5.8 | 1.3 | 0.4 | 0.7 | 1.0 |
+| 2026-27 proj, Yahoo | 49 | - | 55.2 (5.5) | 75.8 (1.9) | 0.2 | 7.7 | 4.7 | 1.0 | 0.4 | 0.3 | 0.4 |
+| 2025-26 | 60 | 20.0 | 61.8 (6.8) | 66.0 (2.4) | 0.4 | 10.4 | 6.1 | 1.4 | 0.5 | 0.7 | 1.0 |
+| 2024-25 | 31 | 8.6 | 51.9 (3.4) | 65.7 (1.1) | 0.1 | 4.4 | 2.7 | 0.4 | 0.3 | 0.3 | 0.4 |
+| 2023-24 | 50 | 21.0 | 58.6 (8.2) | 76.2 (2.5) | 0.2 | 11.7 | 6.2 | 1.1 | 0.4 | 0.7 | 1.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -36,8 +36,8 @@
 - Denver has 43 games through March 28 and only 14 back-to-backs, one of the lowest counts in the league. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678))
 
 **Durable**
-- His fantasy profile is points, rebounds and FG%, with very low assists, bad free throws and subpar blocks for a big man. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1350), stats)
 - Steals are a clear weak spot, at about 0.4 per game, and he makes almost no threes. (fact, 2026-10-04; stats)
+- His fantasy profile is points, rebounds and FG%, with very low assists, bad free throws and subpar blocks for a big man. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1350), stats)
 - Backup centers in Denver historically do not produce, even ones who looked fine elsewhere. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1392), [07-31](https://youtu.be/keNupMSHp1Y?t=235))
 
 **Tags**

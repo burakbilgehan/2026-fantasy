@@ -3,9 +3,9 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 82 | 25.7 | 43.4 (12.3) | 78.9 (3.0) | 1.2 | 14.3 | 3.7 | 3.4 | 1.2 | 0.4 | 2.2 |
-| 2026-27 proj, Yahoo | 75 | - | 43.1 (12.7) | 80.0 (3.3) | 1.4 | 15.0 | 4.1 | 3.8 | 1.3 | 0.4 | 2.4 |
 | 2026-27 proj, ESPN | 77 | 26.4 | 43.4 (12.6) | 78.7 (3.1) | 1.3 | 14.6 | 3.8 | 3.5 | 1.2 | 0.4 | 2.2 |
+| 2026-27 proj, Yahoo | 75 | - | 43.1 (12.7) | 80.0 (3.3) | 1.4 | 15.0 | 4.1 | 3.8 | 1.3 | 0.4 | 2.4 |
+| 2025-26 | 82 | 25.7 | 43.4 (12.3) | 78.9 (3.0) | 1.2 | 14.3 | 3.7 | 3.4 | 1.2 | 0.4 | 2.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -31,12 +31,12 @@
 - Dejounte Murray, Trey Murphy, Zion Williamson and likely Yves Missi start for the Pelicans. The last starting spot is between Fears and Herb Jones. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [10-02](https://youtu.be/ZYllcj4o6_A?t=426))
 - A Pelicans beat reporter thinks Fears will start over Herb Jones. Reporting also says Joe Dumars wants him in the lineup. (fact, 2026-10-02; [09-24](https://youtu.be/_vbAP5y182A?t=1141), [10-02](https://youtu.be/ZYllcj4o6_A?t=426))
 - Dejounte Murray is the starting point guard, so Fears does not have the lead guard role. (fact, 2026-10-02; [08-03](https://youtu.be/5QU-jta-lWM?t=1149), [09-21](https://youtu.be/egRrai3Ax38?t=545), [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
-- Experts expect a full season of Murray to limit Fears. (verdict, 2026-08-03; [07-14](https://youtu.be/xHRF06_E9HE?t=1679), [08-03](https://youtu.be/5QU-jta-lWM?t=1149))
-- The Pelicans have a crowded rotation: Murray, Murphy, Herb Jones, Zion, Derik Queen and Missi, with Bennedict Mathurin added to the bench. This creates a minutes crunch. (fact, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1477), [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1489))
 - Josh gives Fears at least a 50/50 chance to start over Herb Jones and is moving him up his rankings. He would draft Fears only if he starts. Value is outside the top 115 everywhere. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=426), [09-24](https://youtu.be/_vbAP5y182A?t=1141))
-- Fears is a handcuff to Dejounte Murray. If Murray is hurt or traded, Fears could give top 70 numbers. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1498), [08-24](https://youtu.be/g31YlwRe0XQ?t=2086), [08-11](https://youtu.be/OdDkXFhoKsc?t=2739))
 - Experts treat him as a late upside flyer for assists. In mocks he went around pick 104 and in round 11. He would be worth more with 30+ minutes. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1537), [08-24](https://youtu.be/g31YlwRe0XQ?t=2086), [09-01](https://youtu.be/80kfLVnFQ_s?t=1960), [08-11](https://youtu.be/OdDkXFhoKsc?t=2739), [09-04](https://youtu.be/gerS7ibpaJo?t=1489))
 - One expert ranks him tier 8 among point guards and calls him badly underdrafted if he lasts to round 13. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2154))
+- The Pelicans have a crowded rotation: Murray, Murphy, Herb Jones, Zion, Derik Queen and Missi, with Bennedict Mathurin added to the bench. This creates a minutes crunch. (fact, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1477), [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1489))
+- Fears is a handcuff to Dejounte Murray. If Murray is hurt or traded, Fears could give top 70 numbers. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1498), [08-24](https://youtu.be/g31YlwRe0XQ?t=2086), [08-11](https://youtu.be/OdDkXFhoKsc?t=2739))
+- Experts expect a full season of Murray to limit Fears. (verdict, 2026-08-03; [07-14](https://youtu.be/xHRF06_E9HE?t=1679), [08-03](https://youtu.be/5QU-jta-lWM?t=1149))
 
 **Durable**
 - He is a dynamic, downhill lead guard. He keeps attacking the rim even when he is not scoring there, and he contributes across categories. (verdict, 2026-10-02; [08-03](https://youtu.be/5QU-jta-lWM?t=484), [10-02](https://youtu.be/ZYllcj4o6_A?t=458))

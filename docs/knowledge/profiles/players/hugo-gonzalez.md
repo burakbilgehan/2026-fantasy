@@ -3,9 +3,9 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 74 | 14.6 | 47.6 (3.3) | 50.0 (0.4) | 0.6 | 3.9 | 3.3 | 0.5 | 0.6 | 0.3 | 0.5 |
-| 2026-27 proj, Yahoo | 74 | - | 46.4 (4.9) | 65.7 (0.5) | 0.8 | 5.6 | 4.4 | 0.9 | 0.6 | 0.4 | 0.7 |
 | 2026-27 proj, ESPN | 74 | 21.7 | 47.7 (4.9) | 51.4 (0.5) | 0.8 | 5.8 | 4.9 | 0.8 | 0.8 | 0.4 | 0.8 |
+| 2026-27 proj, Yahoo | 74 | - | 46.4 (4.9) | 65.7 (0.5) | 0.8 | 5.6 | 4.4 | 0.9 | 0.6 | 0.4 | 0.7 |
+| 2025-26 | 74 | 14.6 | 47.6 (3.3) | 50.0 (0.4) | 0.6 | 3.9 | 3.3 | 0.5 | 0.6 | 0.3 | 0.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -28,11 +28,11 @@
 </details>
 
 **Current**
+- He could get a solid role if Payton Pritchard comes off the bench. Two Boston previews project Pritchard as a bench player. (verdict, 2026-09-25; [07-23](https://youtu.be/LUTYUdXBG1M?t=2194), [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [07-30](https://youtu.be/TiiaNZCJNs8?t=472))
+- Boston has at least 12 rotation-level players. The newest preview's 10-man rotation does not include him, so he has to compete for minutes. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133))
+- He could have a double-digit scoring season if Derrick White bounces back. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=1719))
 - He averaged 16 points, 8 rebounds, 6 assists and 2 threes in Summer League, but shot 26% from three. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2194))
 - He is not expected to start for Boston. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2194))
-- He could get a solid role if Payton Pritchard comes off the bench. Two Boston previews project Pritchard as a bench player. (verdict, 2026-09-25; [07-23](https://youtu.be/LUTYUdXBG1M?t=2194), [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [07-30](https://youtu.be/TiiaNZCJNs8?t=472))
-- He could have a double-digit scoring season if Derrick White bounces back. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=1719))
-- Boston has at least 12 rotation-level players. The newest preview's 10-man rotation does not include him, so he has to compete for minutes. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133))
 
 **Durable**
 - none

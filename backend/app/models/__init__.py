@@ -141,6 +141,27 @@ class PlayerSeasonStats(_StatColumns, Base):
     __table_args__ = (UniqueConstraint("player_pk", "source", "season"),)
 
 
+class PlayerAdvancedStats(Base):
+    """Advanced season stats (usage rate and others) per player, past seasons. Regular season only.
+
+    Linked by the NBA person id only. Fractions as the source gives them (usg_pct 0.289 = 28.9%).
+    The other advanced columns of the source go into `extra`.
+    """
+
+    __tablename__ = "player_advanced_stats"
+    __table_args__ = (UniqueConstraint("player_pk", "source", "season"),)
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    player_pk: Mapped[int] = mapped_column(ForeignKey("players.id", ondelete="CASCADE"), index=True)
+    source: Mapped[str]  # "nba"
+    season: Mapped[str]
+    gp: Mapped[float]
+    usg_pct: Mapped[float | None]
+    ts_pct: Mapped[float | None]
+    extra: Mapped[dict] = mapped_column(JSON)
+    fetched_at: Mapped[datetime]
+
+
 class PlayerGameLog(Base):
     """One row per player per game played. DNP games have no row.
 

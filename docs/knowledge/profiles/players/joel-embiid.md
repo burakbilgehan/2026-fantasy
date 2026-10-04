@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 39 | 33.6 | 52.9 (21.8) | 88.3 (11.6) | 1.4 | 34.7 | 11.0 | 5.6 | 1.2 | 1.7 | 3.8 |
-| 2024-25 | 19 | 30.2 | 44.4 (16.6) | 88.2 (8.9) | 1.2 | 23.8 | 8.2 | 4.5 | 0.7 | 0.9 | 3.3 |
-| 2025-26 | 38 | 31.5 | 48.9 (18.3) | 85.4 (8.8) | 1.4 | 26.9 | 7.7 | 3.9 | 0.6 | 1.2 | 2.9 |
-| 2026-27 proj, Yahoo | 49 | - | 49.0 (16.6) | 86.6 (8.1) | 1.3 | 24.6 | 7.5 | 3.9 | 0.6 | 1.2 | 2.6 |
 | 2026-27 proj, ESPN | 54 | 31.6 | 48.9 (18.5) | 86.1 (9.2) | 1.4 | 27.4 | 8.2 | 4.2 | 0.7 | 1.2 | 3.0 |
+| 2026-27 proj, Yahoo | 49 | - | 49.0 (16.6) | 86.6 (8.1) | 1.3 | 24.6 | 7.5 | 3.9 | 0.6 | 1.2 | 2.6 |
+| 2025-26 | 38 | 31.5 | 48.9 (18.3) | 85.4 (8.8) | 1.4 | 26.9 | 7.7 | 3.9 | 0.6 | 1.2 | 2.9 |
+| 2024-25 | 19 | 30.2 | 44.4 (16.6) | 88.2 (8.9) | 1.2 | 23.8 | 8.2 | 4.5 | 0.7 | 0.9 | 3.3 |
+| 2023-24 | 39 | 33.6 | 52.9 (21.8) | 88.3 (11.6) | 1.4 | 34.7 | 11.0 | 5.6 | 1.2 | 1.7 | 3.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,27 +30,27 @@
 </details>
 
 **Current**
-- He starts the season healthy after his first healthy offseason in years. He reportedly added 15 pounds of muscle. (fact, 2026-09-14; [08-06](https://youtu.be/gTsfR5PxAMY?t=1319), [09-14](https://youtu.be/t4n9MAP2_14?t=1131), [08-11](https://youtu.be/OdDkXFhoKsc?t=1254))
-- Because he starts healthy, one expert projects him at about 33 minutes per game. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1131))
-- Mark expects him to play about 40 to 50 games. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=490))
-- Philadelphia added LeBron James and Jaylen Brown. He now shares usage with them and Tyrese Maxey. (fact, 2026-09-16; [08-06](https://youtu.be/gTsfR5PxAMY?t=141), [08-26](https://youtu.be/sTtFUy7IoJI?t=1944), [08-09](https://youtu.be/8d--aL_xxwE?t=552), [09-16](https://youtu.be/2A2JbUN-kc0?t=760))
-- Experts expect the crowded lineup to lower his usage. Mark projects about 20 to 25 points and about 10 rebounds per game. He sees him as an emergency scorer who gets to the line and rebounds while others carry most of the scoring. (verdict, 2026-08-26; [07-13](https://youtu.be/Rqb5GdrSweY?t=873), [08-26](https://youtu.be/sTtFUy7IoJI?t=1944), [08-06](https://youtu.be/gTsfR5PxAMY?t=1459), [08-06](https://youtu.be/gTsfR5PxAMY?t=1385))
-- He was 11th per game last season. One expert expects more from him this season. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=2446))
 - The experts agree he should not be drafted inside the top 50 because of injury risk. Around picks 56 to 64 he is a fair chance to take, mainly if you have not taken risks earlier. In a points format, pick 53 was called too early. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1020), [09-16](https://youtu.be/2A2JbUN-kc0?t=2446), [09-15](https://youtu.be/KPdD91Oo8-U?t=1216), [09-14](https://youtu.be/t4n9MAP2_14?t=1131), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1010), [08-11](https://youtu.be/OdDkXFhoKsc?t=1254), [09-01](https://youtu.be/80kfLVnFQ_s?t=984), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2410))
 - One expert calls his ESPN rank of 88 'absolute thievery' and expects him to finish in the 60s. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2410))
+- Philadelphia added LeBron James and Jaylen Brown. He now shares usage with them and Tyrese Maxey. (fact, 2026-09-16; [08-06](https://youtu.be/gTsfR5PxAMY?t=141), [08-26](https://youtu.be/sTtFUy7IoJI?t=1944), [08-09](https://youtu.be/8d--aL_xxwE?t=552), [09-16](https://youtu.be/2A2JbUN-kc0?t=760))
+- He was 11th per game last season. One expert expects more from him this season. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=2446))
 - He is a high-risk flyer. One expert gives him about a 10% chance of paying off, with a big payoff if he does. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=1216))
+- He starts the season healthy after his first healthy offseason in years. He reportedly added 15 pounds of muscle. (fact, 2026-09-14; [08-06](https://youtu.be/gTsfR5PxAMY?t=1319), [09-14](https://youtu.be/t4n9MAP2_14?t=1131), [08-11](https://youtu.be/OdDkXFhoKsc?t=1254))
+- Because he starts healthy, one expert projects him at about 33 minutes per game. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1131))
+- Experts expect the crowded lineup to lower his usage. Mark projects about 20 to 25 points and about 10 rebounds per game. He sees him as an emergency scorer who gets to the line and rebounds while others carry most of the scoring. (verdict, 2026-08-26; [07-13](https://youtu.be/Rqb5GdrSweY?t=873), [08-26](https://youtu.be/sTtFUy7IoJI?t=1944), [08-06](https://youtu.be/gTsfR5PxAMY?t=1459), [08-06](https://youtu.be/gTsfR5PxAMY?t=1385))
 - The Sixers have 13 back-to-backs this season. Three of them fall in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148), [08-16](https://youtu.be/gf_6GveiAls?t=1148))
 - Since he is not expected to play back-to-backs, the three playoff back-to-backs should cost him games when it matters most. Factor that into his price. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=833), [08-16](https://youtu.be/gf_6GveiAls?t=1148))
+- Mark expects him to play about 40 to 50 games. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=490))
 - Mark expects growing pains in October and November and load management for Philadelphia's stars. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1819))
 
 **Durable**
-- He has a history of repeated knee problems and surgeries. He is often listed as questionable and misses many games. (fact, 2026-09-21; [08-09](https://youtu.be/8d--aL_xxwE?t=914), [09-21](https://youtu.be/egRrai3Ax38?t=236))
-- Experts have low hopes for his long-term health. Josh is very reluctant to draft him. (verdict, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=914), [08-06](https://youtu.be/gTsfR5PxAMY?t=1334))
-- He does not play back-to-backs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=833), [08-06](https://youtu.be/gTsfR5PxAMY?t=1334))
-- Because he misses so many games, he is worth a bit less in head-to-head than in roto. (verdict, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=230))
 - He is a rare center who lifts FT% clearly: a high percentage on a high number of free throw attempts. (fact, 2026-10-04; stats)
 - Points are a real strength. He scores far above the pool, especially for a center. (fact, 2026-10-04; stats)
 - Turnovers are his weak category. He commits many for the pool and for a center. (fact, 2026-10-04; stats)
+- He has a history of repeated knee problems and surgeries. He is often listed as questionable and misses many games. (fact, 2026-09-21; [08-09](https://youtu.be/8d--aL_xxwE?t=914), [09-21](https://youtu.be/egRrai3Ax38?t=236))
+- Because he misses so many games, he is worth a bit less in head-to-head than in roto. (verdict, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=230))
+- He does not play back-to-backs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=833), [08-06](https://youtu.be/gTsfR5PxAMY?t=1334))
+- Experts have low hopes for his long-term health. Josh is very reluctant to draft him. (verdict, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=914), [08-06](https://youtu.be/gTsfR5PxAMY?t=1334))
 
 **Tags**
 - Current: `back-to-back risk` (not expected to play back-to-backs; PHI has 13), `bad playoff schedule` (three PHI back-to-backs in the fantasy playoffs), `injury last season` (missed big stretches in 2025-26), `role down` (usage shared with LeBron James, Jaylen Brown and Maxey), `flyer` (high-risk, high-payoff pick after the top 50), `sleeper` (ESPN rank 88 called 'absolute thievery'; expected to finish in the 60s), `sites disagree on price` (Yahoo value 19 USD, rank 53; ESPN value 3 USD, rank 88)

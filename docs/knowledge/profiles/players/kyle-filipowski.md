@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 72 | 21.1 | 50.2 (7.2) | 65.0 (2.0) | 1.1 | 9.6 | 6.1 | 1.9 | 0.7 | 0.3 | 1.4 |
-| 2025-26 | 77 | 23.4 | 49.2 (8.5) | 75.0 (2.8) | 1.0 | 11.4 | 7.2 | 2.6 | 0.9 | 0.5 | 1.6 |
-| 2026-27 proj, Yahoo | 75 | - | 49.5 (7.7) | 71.9 (2.4) | 1.0 | 10.3 | 6.5 | 2.3 | 0.8 | 0.4 | 1.5 |
 | 2026-27 proj, ESPN | 73 | 22.0 | 49.3 (8.0) | 73.8 (2.5) | 0.9 | 10.7 | 6.7 | 2.4 | 0.9 | 0.5 | 1.5 |
+| 2026-27 proj, Yahoo | 75 | - | 49.5 (7.7) | 71.9 (2.4) | 1.0 | 10.3 | 6.5 | 2.3 | 0.8 | 0.4 | 1.5 |
+| 2025-26 | 77 | 23.4 | 49.2 (8.5) | 75.0 (2.8) | 1.0 | 11.4 | 7.2 | 2.6 | 0.9 | 0.5 | 1.6 |
+| 2024-25 | 72 | 21.1 | 50.2 (7.2) | 65.0 (2.0) | 1.1 | 9.6 | 6.1 | 1.9 | 0.7 | 0.3 | 1.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,10 +29,10 @@
 </details>
 
 **Current**
-- Utah is trying to win this season and has a crowded frontcourt with Jaren Jackson Jr., Lauri Markkanen, Jusuf Nurkic, Jaxson Hayes and Ace Bailey. Walker Kessler is gone. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1798), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [07-14](https://youtu.be/xHRF06_E9HE?t=872), [08-05](https://youtu.be/CI4k8ofUXXk?t=196))
 - Experts expect Nurkic to start at center. They see no path for Filipowski to start. (verdict, 2026-10-02; [08-05](https://youtu.be/CI4k8ofUXXk?t=512), [10-02](https://youtu.be/ZYllcj4o6_A?t=204), [09-21](https://youtu.be/egRrai3Ax38?t=859), [07-13](https://youtu.be/Rqb5GdrSweY?t=847), [07-02](https://youtu.be/P6TNP-g0wzY?t=945))
-- His late-season jump came during Utah's tank. He ranked 162nd before the trade deadline and 39th after it. (fact, 2026-08-05; [07-14](https://youtu.be/xHRF06_E9HE?t=808), [08-05](https://youtu.be/CI4k8ofUXXk?t=570))
+- Utah is trying to win this season and has a crowded frontcourt with Jaren Jackson Jr., Lauri Markkanen, Jusuf Nurkic, Jaxson Hayes and Ace Bailey. Walker Kessler is gone. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1798), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [07-14](https://youtu.be/xHRF06_E9HE?t=872), [08-05](https://youtu.be/CI4k8ofUXXk?t=196))
 - His role should shrink on a team trying to win, and the coach should keep him on a shorter leash. He will not get the 28 minutes a game he played late last season. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1798), [08-05](https://youtu.be/CI4k8ofUXXk?t=570), [07-14](https://youtu.be/xHRF06_E9HE?t=919))
+- His late-season jump came during Utah's tank. He ranked 162nd before the trade deadline and 39th after it. (fact, 2026-08-05; [07-14](https://youtu.be/xHRF06_E9HE?t=808), [08-05](https://youtu.be/CI4k8ofUXXk?t=570))
 - Experts say sell. One expert says last season's numbers feel fake and that he is worth a flier around pick 140 at most. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=570), [07-14](https://youtu.be/xHRF06_E9HE?t=919))
 
 **Durable**

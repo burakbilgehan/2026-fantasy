@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 79 | 26.9 | 40.2 (12.4) | 85.2 (2.1) | 2.7 | 14.4 | 3.2 | 1.8 | 0.5 | 0.1 | 0.9 |
-| 2024-25 | 77 | 27.9 | 40.6 (8.8) | 85.5 (1.9) | 2.2 | 11.0 | 2.4 | 1.6 | 0.5 | 0.1 | 0.6 |
-| 2025-26 | 80 | 26.6 | 44.7 (9.7) | 81.1 (2.5) | 2.8 | 13.5 | 2.6 | 1.4 | 0.5 | 0.1 | 0.5 |
-| 2026-27 proj, Yahoo | 75 | - | 42.5 (9.1) | 84.0 (2.1) | 2.4 | 11.9 | 2.4 | 1.4 | 0.5 | 0.1 | 0.7 |
 | 2026-27 proj, ESPN | 80 | 26.9 | 43.9 (9.8) | 81.8 (2.4) | 2.7 | 13.3 | 2.6 | 1.4 | 0.5 | 0.1 | 0.6 |
+| 2026-27 proj, Yahoo | 75 | - | 42.5 (9.1) | 84.0 (2.1) | 2.4 | 11.9 | 2.4 | 1.4 | 0.5 | 0.1 | 0.7 |
+| 2025-26 | 80 | 26.6 | 44.7 (9.7) | 81.1 (2.5) | 2.8 | 13.5 | 2.6 | 1.4 | 0.5 | 0.1 | 0.5 |
+| 2024-25 | 77 | 27.9 | 40.6 (8.8) | 85.5 (1.9) | 2.2 | 11.0 | 2.4 | 1.6 | 0.5 | 0.1 | 0.6 |
+| 2023-24 | 79 | 26.9 | 40.2 (12.4) | 85.2 (2.1) | 2.7 | 14.4 | 3.2 | 1.8 | 0.5 | 0.1 | 0.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,17 +30,17 @@
 </details>
 
 **Current**
-- He signed with Miami as the replacement for Norman Powell. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1499))
-- He could be Miami's fifth starter. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1499))
 - Miami has many guards and wings for the same minutes. Klay Thompson signed there, and one expert expects Ryan Rollins to start next to Tyler Herro, ahead of Kevin Porter Jr., Brandon Boston and Gary Trent Jr. (fact, 2026-09-21; [09-07](https://youtu.be/gJUBAJaHzlU?t=1931), [09-21](https://youtu.be/egRrai3Ax38?t=1767))
 - Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs, but only 10 games in the playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153))
 - Miami lacks ball handlers, so the team has few playmakers to set up a shooter who relies on passes. (fact, 2026-07-23; [07-17](https://youtu.be/NYTH7uQsPCM?t=1757), [06-23](https://youtu.be/nnWX_ObljOE?t=780), [07-23](https://youtu.be/LUTYUdXBG1M?t=1264))
+- He signed with Miami as the replacement for Norman Powell. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1499))
+- He could be Miami's fifth starter. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1499))
 
 **Durable**
-- He is a volume three-point shooter who shoots right away off passes. (fact, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=400))
-- His defense is bad, but he gives good effort. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=400))
 - His fantasy value comes from threes and few turnovers. He gives little in steals, rebounds, blocks and assists, and his FG% is below average. (fact, 2026-10-04; stats)
 - He has missed very few games in recent seasons. (fact, 2026-10-04; stats)
+- He is a volume three-point shooter who shoots right away off passes. (fact, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=400))
+- His defense is bad, but he gives good effort. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=400))
 
 **Tags**
 - Current: `new team` (Signed with Miami as the Norman Powell replacement), `minutes competition` (Rollins, Herro, Porter Jr., Trent Jr., Boston and Klay Thompson in the Miami backcourt and wing group), `few back-to-backs` (Miami has 13, the fewest, and none in the fantasy playoffs), `sites disagree on price` (ESPN rank 156, Yahoo rank 254; both value him at 0 USD)

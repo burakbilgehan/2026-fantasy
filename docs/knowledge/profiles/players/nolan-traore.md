@@ -3,9 +3,9 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 56 | 22.2 | 38.0 (8.6) | 78.7 (1.7) | 1.1 | 8.9 | 1.8 | 3.8 | 0.8 | 0.4 | 2.3 |
-| 2026-27 proj, Yahoo | 65 | - | 39.9 (8.4) | 77.8 (1.8) | 1.1 | 9.2 | 1.7 | 3.8 | 0.8 | 0.4 | 2.0 |
 | 2026-27 proj, ESPN | 71 | 25.0 | 38.0 (9.6) | 78.5 (1.9) | 1.2 | 10.0 | 2.0 | 4.3 | 0.9 | 0.5 | 2.6 |
+| 2026-27 proj, Yahoo | 65 | - | 39.9 (8.4) | 77.8 (1.8) | 1.1 | 9.2 | 1.7 | 3.8 | 0.8 | 0.4 | 2.0 |
+| 2025-26 | 56 | 22.2 | 38.0 (8.6) | 78.7 (1.7) | 1.1 | 8.9 | 1.8 | 3.8 | 0.8 | 0.4 | 2.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -28,8 +28,8 @@
 </details>
 
 **Current**
-- Brooklyn drafted a point guard with the 6th pick and added Julius Randle in a trade. (fact, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1385), [06-23](https://youtu.be/9tb1ARBEmQU?t=690))
 - Experts project him as a bench rotation player, not a starter. The projected starting guards are Mikel Brown Jr. and Egor Demin. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=287), [09-26](https://youtu.be/3UGI05PDvrE?t=313), [09-26](https://youtu.be/3UGI05PDvrE?t=1156), [08-21](https://youtu.be/uRsfijpBPok?t=488))
+- Brooklyn drafted a point guard with the 6th pick and added Julius Randle in a trade. (fact, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1385), [06-23](https://youtu.be/9tb1ARBEmQU?t=690))
 - He is expected to handle the ball less because Randle will handle it a lot. He will have to fight for bench ball-handling minutes. (verdict, 2026-06-25; [06-23](https://youtu.be/9tb1ARBEmQU?t=690), [06-25](https://youtu.be/lOshTzDA4SA?t=1385), [06-25](https://youtu.be/lOshTzDA4SA?t=1160))
 - Experts call him a draft loser with no real shot at fantasy value this season. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1385))
 

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 79 | 30.5 | 48.5 (9.6) | 82.1 (1.7) | 1.9 | 12.5 | 5.2 | 1.6 | 0.5 | 2.4 | 1.0 |
-| 2024-25 | 80 | 31.8 | 50.9 (9.7) | 82.6 (1.7) | 1.7 | 13.0 | 5.0 | 1.8 | 0.6 | 1.9 | 1.1 |
-| 2025-26 | 75 | 21.8 | 42.8 (7.2) | 75.7 (1.0) | 1.5 | 8.5 | 3.6 | 1.3 | 0.6 | 1.2 | 0.8 |
-| 2026-27 proj, Yahoo | 72 | - | 46.0 (6.7) | 79.7 (1.0) | 1.4 | 8.3 | 3.1 | 1.1 | 0.4 | 1.1 | 0.7 |
 | 2026-27 proj, ESPN | 72 | 26.2 | 47.5 (8.3) | 80.2 (1.4) | 1.6 | 10.6 | 4.3 | 1.5 | 0.6 | 1.7 | 0.9 |
+| 2026-27 proj, Yahoo | 72 | - | 46.0 (6.7) | 79.7 (1.0) | 1.4 | 8.3 | 3.1 | 1.1 | 0.4 | 1.1 | 0.7 |
+| 2025-26 | 75 | 21.8 | 42.8 (7.2) | 75.7 (1.0) | 1.5 | 8.5 | 3.6 | 1.3 | 0.6 | 1.2 | 0.8 |
+| 2024-25 | 80 | 31.8 | 50.9 (9.7) | 82.6 (1.7) | 1.7 | 13.0 | 5.0 | 1.8 | 0.6 | 1.9 | 1.1 |
+| 2023-24 | 79 | 30.5 | 48.5 (9.6) | 82.1 (1.7) | 1.9 | 12.5 | 5.2 | 1.6 | 0.5 | 2.4 | 1.0 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -35,14 +35,14 @@
 - He projects as the Clippers' backup center in a mentoring role. (verdict, 2026-10-04, until Konan Niederhauser returns; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1336), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268))
 - Konan Niederhauser is injured and out. He is the other center competing for minutes. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018), [06-30](https://youtu.be/4GDfg2n2l8o?t=1059))
 - Do not draft him inside the top 200. His ESPN rank of 112 and ADP of 109 are too high. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1298))
-- He looks washed. At 30 minutes a night he would be a late-round player. If his minutes drop to about 22, he has no fantasy value. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=1069))
 - The Clippers lean toward a trial season with long rotations and many players tested. Coach Ty Lue often changes his rotations, which makes minutes for a backup center unstable. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
 - The Clippers' fantasy playoff schedule is good: 4, 3 and 4 games in weeks 19 to 21. They have one of the lowest back-to-back totals in the league with 13. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
+- He looks washed. At 30 minutes a night he would be a late-round player. If his minutes drop to about 22, he has no fantasy value. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=1069))
 
 **Durable**
-- He still contests shots at the rim but is weak defending the pick and roll. (verdict, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=739))
 - He is a stretch center. Blocks are his best category, and he adds threes and few turnovers. Steals and rebounds are weak for a center. (fact, 2026-10-04; stats)
 - He has a record of very few missed games. (fact, 2026-10-04; stats)
+- He still contests shots at the rim but is weak defending the pick and roll. (verdict, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=739))
 
 **Tags**
 - Current: `minutes competition` (Isaiah Jackson starts over him in preseason. Konan Niederhauser is out injured for now.), `bust candidate` (ESPN rank 112 and ADP 109. Expert says avoid inside the top 200.), `good playoff schedule` (Clippers play 4, 3 and 4 games in weeks 19 to 21), `few back-to-backs` (Clippers have 13 back-to-backs)

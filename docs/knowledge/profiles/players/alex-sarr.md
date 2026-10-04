@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 67 | 27.1 | 39.4 (12.4) | 67.9 (2.5) | 1.6 | 13.0 | 6.5 | 2.4 | 0.7 | 1.5 | 1.7 |
-| 2025-26 | 48 | 27.2 | 48.2 (13.7) | 69.2 (3.0) | 1.0 | 16.3 | 7.4 | 2.7 | 0.8 | 2.0 | 1.7 |
-| 2026-27 proj, Yahoo | 69 | - | 48.5 (13.5) | 70.9 (3.3) | 1.4 | 16.8 | 7.2 | 2.7 | 1.0 | 1.8 | 1.8 |
 | 2026-27 proj, ESPN | 66 | 28.6 | 46.6 (14.1) | 68.8 (3.1) | 1.2 | 16.5 | 7.6 | 2.8 | 0.8 | 2.0 | 1.8 |
+| 2026-27 proj, Yahoo | 69 | - | 48.5 (13.5) | 70.9 (3.3) | 1.4 | 16.8 | 7.2 | 2.7 | 1.0 | 1.8 | 1.8 |
+| 2025-26 | 48 | 27.2 | 48.2 (13.7) | 69.2 (3.0) | 1.0 | 16.3 | 7.4 | 2.7 | 0.8 | 2.0 | 1.7 |
+| 2024-25 | 67 | 27.1 | 39.4 (12.4) | 67.9 (2.5) | 1.6 | 13.0 | 6.5 | 2.4 | 0.7 | 1.5 | 1.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,20 +29,20 @@
 </details>
 
 **Current**
+- In a late September 10-team mock draft he went 83rd, the latest the speaker had seen him go. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1379))
 - He is recovering from a fractured foot and is only a partial participant in training camp. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=80), [07-23](https://youtu.be/UTE0dNIv8nY?t=1731), stats)
 - He is likely ready for opening night. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=80))
-- Washington added Trae Young, Anthony Davis and rookie AJ Dybantsa. All three are projected to start next to Sarr. (fact, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1436), [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [07-23](https://youtu.be/UTE0dNIv8nY?t=379), [08-19](https://youtu.be/J1Eg3uaAICU?t=1121))
-- Davis is expected to play center on offense. Sarr moves to power forward, plays further from the basket and switches on the perimeter. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1436), [08-19](https://youtu.be/J1Eg3uaAICU?t=1133), [09-14](https://youtu.be/t4n9MAP2_14?t=2085))
 - He should play more minutes, but his usage should fall. He becomes the fourth or fifth offensive option behind Young, Davis and Dybantsa, so a third-year breakout is not expected. (verdict, 2026-09-19; [08-26](https://youtu.be/sTtFUy7IoJI?t=2076), [08-19](https://youtu.be/J1Eg3uaAICU?t=1133), [09-07](https://youtu.be/gJUBAJaHzlU?t=1188), [09-17](https://youtu.be/DubdKKhMWHo?t=1428), [09-19](https://youtu.be/uarqbNA2dFk?t=896))
 - Next to Davis he is expected to get fewer blocks and rebounds, take more threes and shoot a lower FG%. One projection is 13 points, 7 rebounds and 1.9 blocks. (verdict, 2026-09-19; [09-17](https://youtu.be/DubdKKhMWHo?t=1428), [09-14](https://youtu.be/t4n9MAP2_14?t=2085), [08-26](https://youtu.be/sTtFUy7IoJI?t=2084), [09-07](https://youtu.be/gJUBAJaHzlU?t=1188), [09-19](https://youtu.be/uarqbNA2dFk?t=896), [07-23](https://youtu.be/UTE0dNIv8nY?t=837))
 - The experts call him overpriced at an ADP and rank of about 56 to 68 and avoid him. One expert puts his best case at 62nd and his worst case at 134th. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=896), [09-07](https://youtu.be/gJUBAJaHzlU?t=1188), [09-07](https://youtu.be/gJUBAJaHzlU?t=1239), [09-17](https://youtu.be/DubdKKhMWHo?t=1428), [09-14](https://youtu.be/t4n9MAP2_14?t=2085), [08-19](https://youtu.be/J1Eg3uaAICU?t=1133))
-- In a late September 10-team mock draft he went 83rd, the latest the speaker had seen him go. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1379))
+- Washington added Trae Young, Anthony Davis and rookie AJ Dybantsa. All three are projected to start next to Sarr. (fact, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1436), [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [07-23](https://youtu.be/UTE0dNIv8nY?t=379), [08-19](https://youtu.be/J1Eg3uaAICU?t=1121))
+- Davis is expected to play center on offense. Sarr moves to power forward, plays further from the basket and switches on the perimeter. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1436), [08-19](https://youtu.be/J1Eg3uaAICU?t=1133), [09-14](https://youtu.be/t4n9MAP2_14?t=2085))
 - If Davis is traded, Sarr starts at center and gets his inside role back. One expert is about 80% sure Washington keeps Davis. (verdict, 2026-09-14, until Anthony Davis trade; [06-30](https://youtu.be/4GDfg2n2l8o?t=1518), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1083))
 - Washington is trying to compete for the play-in, so the late-season rest and minutes cuts of past years should not happen. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802))
 
 **Durable**
-- He is an elite rim protector. He led the league in shots contested at the rim by a wide margin and piles up blocks. (fact, 2026-08-19; [08-19](https://youtu.be/J1Eg3uaAICU?t=1121), [07-23](https://youtu.be/UTE0dNIv8nY?t=796), [07-07](https://youtu.be/ME-r173X5b0?t=1836))
 - Blocks are his one standout category. The rest of his category line is close to the league average. (verdict, 2026-10-04; stats)
+- He is an elite rim protector. He led the league in shots contested at the rim by a wide margin and piles up blocks. (fact, 2026-08-19; [08-19](https://youtu.be/J1Eg3uaAICU?t=1121), [07-23](https://youtu.be/UTE0dNIv8nY?t=796), [07-07](https://youtu.be/ME-r173X5b0?t=1836))
 - His FG% is much better when he plays near the rim than when he shoots threes. It rose from 39 to 48 when he cut down on threes and took more shots at the rim. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=837), [07-16](https://youtu.be/-y6p5PYLf00?t=1665), stats)
 
 **Tags**

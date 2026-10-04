@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 76 | 27.3 | 51.0 (8.2) | 64.0 (3.4) | 0.3 | 10.9 | 11.0 | 4.0 | 1.1 | 1.1 | 2.3 |
-| 2024-25 | 51 | 20.8 | 47.7 (6.9) | 66.4 (2.5) | 0.6 | 8.9 | 7.8 | 2.3 | 0.8 | 0.7 | 1.9 |
-| 2025-26 | 41 | 26.4 | 50.3 (8.7) | 54.9 (2.8) | 0.6 | 10.9 | 10.4 | 4.8 | 1.3 | 0.5 | 2.5 |
-| 2026-27 proj, Yahoo | 55 | - | 50.2 (8.6) | 60.9 (3.1) | 0.6 | 11.1 | 10.4 | 4.0 | 1.1 | 0.8 | 2.4 |
 | 2026-27 proj, ESPN | 64 | 23.1 | 50.1 (7.3) | 61.8 (2.7) | 0.5 | 9.4 | 9.1 | 3.4 | 1.0 | 0.7 | 2.0 |
+| 2026-27 proj, Yahoo | 55 | - | 50.2 (8.6) | 60.9 (3.1) | 0.6 | 11.1 | 10.4 | 4.0 | 1.1 | 0.8 | 2.4 |
+| 2025-26 | 41 | 26.4 | 50.3 (8.7) | 54.9 (2.8) | 0.6 | 10.9 | 10.4 | 4.8 | 1.3 | 0.5 | 2.5 |
+| 2024-25 | 51 | 20.8 | 47.7 (6.9) | 66.4 (2.5) | 0.6 | 8.9 | 7.8 | 2.3 | 0.8 | 0.7 | 1.9 |
+| 2023-24 | 76 | 27.3 | 51.0 (8.2) | 64.0 (3.4) | 0.3 | 10.9 | 11.0 | 4.0 | 1.1 | 1.1 | 2.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,21 +30,21 @@
 </details>
 
 **Current**
-- Nurkic re-signed with Utah for 2 years and 22 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1146))
 - Walker Kessler has left Utah, so the starting center job is open. (fact, 2026-10-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=963), [07-13](https://youtu.be/Rqb5GdrSweY?t=841), [07-05](https://youtu.be/4kKINkZhWls?t=3919), [10-02](https://youtu.be/ZYllcj4o6_A?t=204), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1176), [07-14](https://youtu.be/xHRF06_E9HE?t=872))
 - Experts expect Nurkic to be Utah's starting center, with Darryn Peterson, Keyonte George, Lauri Markkanen and Jaren Jackson Jr. Ace Bailey is the main alternative. They see Kyle Filipowski, Jaxson Hayes or Jackson Jr. at center as unlikely. One expert says he is not 100% sure. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=217), [10-02](https://youtu.be/ZYllcj4o6_A?t=204), [09-21](https://youtu.be/egRrai3Ax38?t=862), [09-21](https://youtu.be/egRrai3Ax38?t=859), [09-19](https://youtu.be/uarqbNA2dFk?t=1203), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1214), [09-15](https://youtu.be/KPdD91Oo8-U?t=1780), [08-05](https://youtu.be/CI4k8ofUXXk?t=473), [08-05](https://youtu.be/CI4k8ofUXXk?t=349), [07-14](https://youtu.be/xHRF06_E9HE?t=779), [07-13](https://youtu.be/Rqb5GdrSweY?t=847), [07-05](https://youtu.be/4kKINkZhWls?t=3923), [07-02](https://youtu.be/P6TNP-g0wzY?t=945))
-- Utah added more centers, Jaxson Hayes and Mo Bamba, and has a crowded frontcourt. (fact, 2026-08-26; [08-05](https://youtu.be/CI4k8ofUXXk?t=196), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803))
-- He played very well as a starter after Kessler's injury last season. He ranked about 68th overall and was a top-70 player in his starts. (fact, 2026-09-17; [08-05](https://youtu.be/CI4k8ofUXXk?t=473), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1214), [09-15](https://youtu.be/KPdD91Oo8-U?t=1780), [09-14](https://youtu.be/t4n9MAP2_14?t=1992))
 - If he starts, he should return at least top 80 numbers. One expert projects him at 27 minutes and would take him over John Collins or Nic Claxton. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=217), [09-14](https://youtu.be/t4n9MAP2_14?t=1992))
 - Experts say he goes too late, around picks 115 to 125, as if he were a backup. They call him a strong value or a free pick who should beat his ADP comfortably. One expert still calls him a risky round 10 pick. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=217), [09-30](https://youtu.be/BjXP9JODDSg?t=1951), [09-24](https://youtu.be/_vbAP5y182A?t=1916), [09-21](https://youtu.be/egRrai3Ax38?t=862), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1214), [09-15](https://youtu.be/KPdD91Oo8-U?t=1780), [09-14](https://youtu.be/t4n9MAP2_14?t=1992))
+- He played very well as a starter after Kessler's injury last season. He ranked about 68th overall and was a top-70 player in his starts. (fact, 2026-09-17; [08-05](https://youtu.be/CI4k8ofUXXk?t=473), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1214), [09-15](https://youtu.be/KPdD91Oo8-U?t=1780), [09-14](https://youtu.be/t4n9MAP2_14?t=1992))
 - Jaren Jackson Jr. and Kyle Lowry are not passers, so experts think Nurkic's passing will matter more in Utah's lineup. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1214), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226))
 - Utah is trying to win this season. Experts say fears of tanking or late-season shutdowns are misplaced. (verdict, 2026-09-17; [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [09-10](https://youtu.be/dlo7L8Ru91A?t=973), [08-05](https://youtu.be/CI4k8ofUXXk?t=141))
+- Utah added more centers, Jaxson Hayes and Mo Bamba, and has a crowded frontcourt. (fact, 2026-08-26; [08-05](https://youtu.be/CI4k8ofUXXk?t=196), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803))
+- Nurkic re-signed with Utah for 2 years and 22 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1146))
 
 **Durable**
-- He rebounds well and passes well for a center. Rebounds are his best category. (fact, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=955), stats)
-- He is not a high-usage player. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=191))
 - FT% is his clear weakness. He shoots about 61% from the line, and that hurts a team's FT%. (fact, 2026-10-04; stats, [07-02](https://youtu.be/P6TNP-g0wzY?t=955))
+- He is not a high-usage player. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=191))
 - He has a history of knee, leg and other lower-body injuries. Experts do not see him as a reliable or healthy player. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=467), [07-14](https://youtu.be/xHRF06_E9HE?t=781), [07-02](https://youtu.be/P6TNP-g0wzY?t=955))
+- He rebounds well and passes well for a center. Rebounds are his best category. (fact, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=955), stats)
 
 **Tags**
 - Current: `role up` (expected starting center after Kessler left), `minutes competition` (Ace Bailey for the fifth starter spot; Jaxson Hayes and Mo Bamba added), `sleeper` (goes around picks 115 to 125; experts see top 80 upside), `expert target` (Josh drafted him in round 10 of a mock; called a free pick), `flyer` (starting center upside at pick 120), `sites disagree on price` (Yahoo rank 105, ESPN rank 168)

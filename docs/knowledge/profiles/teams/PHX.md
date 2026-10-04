@@ -11,23 +11,23 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Oso Ighodaro, PF Rasheer Fleming, PG Collin Gillespie, SF Ryan Dunn, SG Luke Kennard
 
 **Current**
-- Mark Williams is out long term with a torn labrum. The expected absence is 5 to 6 months. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200))
+- Phoenix has the fewest back-to-backs in the league (13). That lowers the rest risk for Booker and the other starters. (verdict, 2026-10-04; stats)
+- Phoenix has the best fantasy playoff schedule in the league. It plays 12 games in weeks 19 to 21 (4 each week), with only 2 back-to-back pairs. (verdict, 2026-10-04; stats)
 - The starting center job is open. The depth chart still lists Williams as the starter. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1747), stats)
 - Khaman Maluach is likely to start at center over Oso Ighodaro. Phoenix wants its top 10 pick to take the job. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1747), [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [07-17](https://youtu.be/NYTH7uQsPCM?t=694))
+- Usage is crowded. Booker, Green, Brooks, Gillespie and Bridges will all want touches, which caps the shots for each one. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=989))
+- Mark Williams is out long term with a torn labrum. The expected absence is 5 to 6 months. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200))
 - Expect Ighodaro and Maluach to split the center minutes. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [08-23](https://youtu.be/hm5-fiCa5S4?t=1288))
-- A Suns beat writer thinks a young player could join the starting lineup by November. The captions do not make the player's name clear. (verdict, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=2623))
-- The expected starters away from center are Devin Booker, Jalen Green, Dillon Brooks and Miles Bridges. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=509), stats)
 - Phoenix says Jalen Green is the point guard. (fact, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1138))
 - Booker is expected to run the offense, whatever the team calls Green. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1138))
 - Collin Gillespie is unlikely to start. He is listed on the second unit. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1138), stats)
-- Usage is crowded. Booker, Green, Brooks, Gillespie and Bridges will all want touches, which caps the shots for each one. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=989))
-- Phoenix traded for Miles Bridges. It also re-signed Gillespie and Jordan Goodwin. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=744))
+- A Suns beat writer thinks a young player could join the starting lineup by November. The captions do not make the player's name clear. (verdict, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=2623))
+- The expected starters away from center are Devin Booker, Jalen Green, Dillon Brooks and Miles Bridges. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=509), stats)
 - The starting lineup has no reliable three-point shooter. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=619))
 - The team believes that having more ball handlers will create open threes. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=619))
 - Expect a step back this season. The beat writer puts the win total near 41, with a range of about 35 to 50. The market line is 38.5, which ranks 19th. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1885), stats)
 - Expect the defense to rank around 13th or 14th, down from a top 10 finish. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=2043))
-- Phoenix has the fewest back-to-backs in the league (13). That lowers the rest risk for Booker and the other starters. (verdict, 2026-10-04; stats)
-- Phoenix has the best fantasy playoff schedule in the league. It plays 12 games in weeks 19 to 21 (4 each week), with only 2 back-to-back pairs. (verdict, 2026-10-04; stats)
+- Phoenix traded for Miles Bridges. It also re-signed Gillespie and Jordan Goodwin. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=744))
 
 **Durable**
 - Owner Matt Ishbia runs the organization and handles contracts. The front office would rather re-sign its own players on cheap deals than shop in free agency. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=970))

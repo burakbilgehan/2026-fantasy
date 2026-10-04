@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 65 | 22.9 | 39.7 (4.9) | 75.9 (0.4) | 1.2 | 5.4 | 2.1 | 1.4 | 1.7 | 0.8 | 0.6 |
-| 2024-25 | 15 | 20.7 | 47.7 (5.9) | 46.7 (1.0) | 1.4 | 7.5 | 3.5 | 1.9 | 2.2 | 0.6 | 0.9 |
-| 2025-26 | 30 | 16.0 | 43.3 (4.5) | 84.0 (0.8) | 1.2 | 5.8 | 2.0 | 0.9 | 2.0 | 0.5 | 0.9 |
-| 2026-27 proj, Yahoo | 50 | - | 43.0 (4.8) | 75.0 (0.7) | 1.3 | 6.0 | 2.3 | 1.2 | 1.9 | 0.6 | 0.8 |
 | 2026-27 proj, ESPN | 59 | 19.1 | 42.4 (4.8) | 78.0 (0.7) | 1.3 | 5.9 | 2.2 | 1.2 | 1.9 | 0.6 | 0.8 |
+| 2026-27 proj, Yahoo | 50 | - | 43.0 (4.8) | 75.0 (0.7) | 1.3 | 6.0 | 2.3 | 1.2 | 1.9 | 0.6 | 0.8 |
+| 2025-26 | 30 | 16.0 | 43.3 (4.5) | 84.0 (0.8) | 1.2 | 5.8 | 2.0 | 0.9 | 2.0 | 0.5 | 0.9 |
+| 2024-25 | 15 | 20.7 | 47.7 (5.9) | 46.7 (1.0) | 1.4 | 7.5 | 3.5 | 1.9 | 2.2 | 0.6 | 0.9 |
+| 2023-24 | 65 | 22.9 | 39.7 (4.9) | 75.9 (0.4) | 1.2 | 5.4 | 2.1 | 1.4 | 1.7 | 0.8 | 0.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -33,12 +33,12 @@
 - The Lakers' two open starting spots are mainly contested by Grimes, LaRavia and Mamukelashvili, and Ziaire Williams might also start. Thybulle is not named in that group. (fact, 2026-09-30; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669), [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
 
 **Durable**
-- He has very high deflection and steal rates. His steal rate is higher than Dyson Daniels'. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2020), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1348), [07-07](https://youtu.be/ME-r173X5b0?t=1589))
 - Steals are his one real outlier category, far above the top 250 pool. (fact, 2026-10-04; stats)
-- Experts call him an elite steals and blocks wing who would lead the league in steals if he played 30 minutes. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2020), [07-07](https://youtu.be/ME-r173X5b0?t=1589))
-- He does not bring shooting upside. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1348))
 - He gives very little in points and rebounds, even for a wing. (fact, 2026-10-04; stats)
+- He has very high deflection and steal rates. His steal rate is higher than Dyson Daniels'. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2020), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1348), [07-07](https://youtu.be/ME-r173X5b0?t=1589))
+- Experts call him an elite steals and blocks wing who would lead the league in steals if he played 30 minutes. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2020), [07-07](https://youtu.be/ME-r173X5b0?t=1589))
 - He has a history of knee and ankle injury concerns. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2020))
+- He does not bring shooting upside. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1348))
 
 **Tags**
 - Current: `minutes competition` (Grimes, LaRavia, Mamukelashvili and Ziaire Williams are the names for the open Lakers starting spots)

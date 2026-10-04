@@ -11,17 +11,17 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Andre Drummond, PF Mohamed Diawara, PG Miles McBride, PG Jose Alvarado, SF Jordan Clarkson, SG Landry Shamet
 
 **Current**
-- The Knicks are the reigning champions. They beat the Spurs in the Finals. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [08-27](https://youtu.be/ZAyie8lKyYc?t=334))
-- The Knicks are expected to be careful with their main players' minutes this season, including Towns and Anunoby, after last season's long workload. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=914), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [08-13](https://youtu.be/okN3fbHJtlA?t=752))
-- Over about the first 30 games, the team is expected to trim starters' minutes and rest players more often on back-to-backs. (verdict, 2026-08-13, until about the first 30 games; [08-13](https://youtu.be/okN3fbHJtlA?t=752))
-- There is a small risk of a Finals hangover after two extra months of play. That could mean a minute or two less per game and a slightly higher injury risk. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1127), [09-09](https://youtu.be/7BllEsdNLoM?t=1565))
 - The Knicks have only 13 back-to-backs, the fewest in the league. That limits how many games the planned back-to-back rest can cost their starters. (fact, 2026-10-04; stats)
+- The Knicks are expected to be careful with their main players' minutes this season, including Towns and Anunoby, after last season's long workload. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=914), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [08-13](https://youtu.be/okN3fbHJtlA?t=752))
+- The Knicks brought James Wiseman, Drew Eubanks and others to camp. One or two of them are expected to make the roster. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=387))
+- The Knicks are the reigning champions. They beat the Spurs in the Finals. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [08-27](https://youtu.be/ZAyie8lKyYc?t=334))
+- There is a small risk of a Finals hangover after two extra months of play. That could mean a minute or two less per game and a slightly higher injury risk. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1127), [09-09](https://youtu.be/7BllEsdNLoM?t=1565))
+- Over about the first 30 games, the team is expected to trim starters' minutes and rest players more often on back-to-backs. (verdict, 2026-08-13, until about the first 30 games; [08-13](https://youtu.be/okN3fbHJtlA?t=752))
 - The Knicks are a top contender. Projections range from about 50 to 54 wins, and 53 to 54 wins may be enough to win the East. Tanking or late-season shutdowns are unlikely. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [07-30](https://youtu.be/TiiaNZCJNs8?t=2112), stats)
 - The projected starters are Brunson, Bridges, Hart, Anunoby and Towns. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=317), stats)
 - Little use of lineups with two bigs is expected, so Towns plays most of his minutes at center. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=317))
 - Andre Drummond has replaced Mitchell Robinson as the backup center. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=154), stats)
 - The roster is tight. In August the team had 13 players, no clear third big and about 3 million USD of room. Ownership does not want to go over the second apron. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=154))
-- The Knicks brought James Wiseman, Drew Eubanks and others to camp. One or two of them are expected to make the roster. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=387))
 
 **Durable**
 - Under Mike Brown, the Knicks play their bench and do not overwork the starters. (fact, 2026-07-07; [06-22](https://youtu.be/HxQjagSTTAM?t=990), [07-07](https://youtu.be/ME-r173X5b0?t=867))

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 69 | 22.2 | 48.4 (8.9) | 75.3 (2.3) | 0.8 | 11.2 | 5.4 | 2.8 | 0.5 | 0.8 | 1.9 |
-| 2024-25 | 64 | 15.3 | 50.7 (4.7) | 88.5 (1.2) | 0.5 | 6.4 | 4.5 | 1.7 | 0.5 | 0.5 | 0.9 |
-| 2025-26 | 10 | 18.4 | 57.8 (6.4) | 70.0 (2.0) | 0.9 | 9.7 | 5.6 | 1.5 | 0.2 | 0.4 | 1.0 |
-| 2026-27 proj, Yahoo | 55 | - | 43.0 (6.2) | 77.2 (1.7) | 0.7 | 7.3 | 4.9 | 2.0 | 0.5 | 0.5 | 1.2 |
 | 2026-27 proj, ESPN | 56 | 14.7 | 52.9 (5.0) | 78.2 (1.4) | 0.6 | 7.0 | 4.2 | 1.5 | 0.3 | 0.4 | 0.9 |
+| 2026-27 proj, Yahoo | 55 | - | 43.0 (6.2) | 77.2 (1.7) | 0.7 | 7.3 | 4.9 | 2.0 | 0.5 | 0.5 | 1.2 |
+| 2025-26 | 10 | 18.4 | 57.8 (6.4) | 70.0 (2.0) | 0.9 | 9.7 | 5.6 | 1.5 | 0.2 | 0.4 | 1.0 |
+| 2024-25 | 64 | 15.3 | 50.7 (4.7) | 88.5 (1.2) | 0.5 | 6.4 | 4.5 | 1.7 | 0.5 | 0.5 | 0.9 |
+| 2023-24 | 69 | 22.2 | 48.4 (8.9) | 75.3 (2.3) | 0.8 | 11.2 | 5.4 | 2.8 | 0.5 | 0.8 | 1.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,16 +30,16 @@
 </details>
 
 **Current**
+- Yahoo lists him as questionable with a toe injury. (fact, 2026-10-04; stats)
 - He is the third-string center in Chicago, behind Nick Claxton and Jalen Smith. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1987), [09-28](https://youtu.be/3Qm5wLjhvTw?t=281))
 - He competes with Patrick Williams and Leonard Miller for the 10th rotation spot. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1383))
 - Chicago re-signed him at a high salary. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1987), [08-18](https://youtu.be/FxaSnyk9g90?t=1547))
 - The expert thinks he was re-signed mainly as a trade piece. This fits a front office that signs veterans in the hope of trading them. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1987), [09-28](https://youtu.be/3Qm5wLjhvTw?t=746))
 - A toe injury kept him out of most of last season. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1987))
-- Yahoo lists him as questionable with a toe injury. (fact, 2026-10-04; stats)
 
 **Durable**
-- He gets hurt often. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1547))
 - He gets very few steals, a clear weak spot even against the whole top 250 pool. (fact, 2026-10-04; stats)
+- He gets hurt often. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1547))
 
 **Tags**
 - Current: `injury last season` (Toe injury), `injured now` (Yahoo status Q (toe)), `questionable` (Toe), `minutes competition` (Third-string center. Competes with Patrick Williams and Leonard Miller for the 10th man spot.)

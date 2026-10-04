@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 71 | 27.1 | 45.3 (11.0) | 75.1 (2.7) | 1.3 | 13.2 | 4.5 | 1.7 | 0.6 | 0.6 | 1.2 |
-| 2024-25 | 60 | 30.7 | 44.8 (14.0) | 76.3 (4.3) | 2.2 | 18.0 | 4.5 | 2.6 | 1.0 | 0.8 | 1.6 |
-| 2025-26 | 68 | 30.4 | 47.5 (12.1) | 78.4 (2.4) | 2.0 | 15.4 | 4.8 | 2.7 | 1.1 | 1.0 | 1.5 |
-| 2026-27 proj, Yahoo | 68 | - | 45.9 (12.0) | 77.0 (3.1) | 2.0 | 15.5 | 4.9 | 2.6 | 1.0 | 0.9 | 1.6 |
 | 2026-27 proj, ESPN | 67 | 30.4 | 47.1 (12.3) | 78.2 (2.6) | 2.0 | 15.7 | 4.8 | 2.7 | 1.1 | 1.0 | 1.5 |
+| 2026-27 proj, Yahoo | 68 | - | 45.9 (12.0) | 77.0 (3.1) | 2.0 | 15.5 | 4.9 | 2.6 | 1.0 | 0.9 | 1.6 |
+| 2025-26 | 68 | 30.4 | 47.5 (12.1) | 78.4 (2.4) | 2.0 | 15.4 | 4.8 | 2.7 | 1.1 | 1.0 | 1.5 |
+| 2024-25 | 60 | 30.7 | 44.8 (14.0) | 76.3 (4.3) | 2.2 | 18.0 | 4.5 | 2.6 | 1.0 | 0.8 | 1.6 |
+| 2023-24 | 71 | 27.1 | 45.3 (11.0) | 75.1 (2.7) | 1.3 | 13.2 | 4.5 | 1.7 | 0.6 | 0.6 | 1.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,13 +30,13 @@
 </details>
 
 **Current**
+- He is a safe, solid pick with little upside and little downside. Experts put him in tier 7 at guard and small forward, rank him above Tobias Harris and Aaron Gordon at power forward, and call him fine around pick 109. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1747), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2412), [09-10](https://youtu.be/dlo7L8Ru91A?t=1846), [09-10](https://youtu.be/W-R1dzem32s?t=1852))
+- Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs, but only 10 games in the fantasy playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153))
 - He signed a 2-year, 64 million USD extension with Miami plus a player option, on top of 30 million USD this season. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1067))
 - He is expected to start for Miami on the wing. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1067), [06-23](https://youtu.be/nnWX_ObljOE?t=870))
 - Miami traded for Giannis Antetokounmpo. Miami lacks ball handlers, so Giannis will handle the ball a lot. (fact, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=780), [06-23](https://youtu.be/nnWX_ObljOE?t=870))
 - His usage was already under 20 before the Giannis trade. (fact, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=881))
 - His usage will probably take a decent hit next to Giannis, a small hit to his value. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=881))
-- He is a safe, solid pick with little upside and little downside. Experts put him in tier 7 at guard and small forward, rank him above Tobias Harris and Aaron Gordon at power forward, and call him fine around pick 109. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1747), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2412), [09-10](https://youtu.be/dlo7L8Ru91A?t=1846), [09-10](https://youtu.be/W-R1dzem32s?t=1852))
-- Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs, but only 10 games in the fantasy playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153))
 
 **Durable**
 - He has no clearly weak category. His line is a broad mix of threes, points, steals and blocks, and none of his categories is a big outlier. (fact, 2026-10-04; stats)

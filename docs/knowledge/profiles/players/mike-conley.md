@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 76 | 28.8 | 45.7 (8.5) | 91.1 (1.5) | 2.4 | 11.4 | 2.9 | 5.9 | 1.2 | 0.2 | 1.3 |
-| 2024-25 | 71 | 24.7 | 40.0 (6.6) | 90.0 (1.3) | 1.8 | 8.2 | 2.6 | 4.5 | 1.1 | 0.2 | 1.1 |
-| 2025-26 | 54 | 18.4 | 33.5 (4.0) | 90.0 (0.9) | 1.0 | 4.5 | 1.7 | 2.9 | 0.6 | 0.3 | 0.6 |
-| 2026-27 proj, Yahoo | 51 | - | 34.7 (3.3) | 85.3 (0.7) | 0.8 | 3.7 | 1.3 | 2.2 | 0.4 | 0.1 | 0.6 |
 | 2026-27 proj, ESPN | 55 | 17.6 | 36.7 (4.1) | 90.0 (0.9) | 1.1 | 4.9 | 1.7 | 3.0 | 0.7 | 0.2 | 0.7 |
+| 2026-27 proj, Yahoo | 51 | - | 34.7 (3.3) | 85.3 (0.7) | 0.8 | 3.7 | 1.3 | 2.2 | 0.4 | 0.1 | 0.6 |
+| 2025-26 | 54 | 18.4 | 33.5 (4.0) | 90.0 (0.9) | 1.0 | 4.5 | 1.7 | 2.9 | 0.6 | 0.3 | 0.6 |
+| 2024-25 | 71 | 24.7 | 40.0 (6.6) | 90.0 (1.3) | 1.8 | 8.2 | 2.6 | 4.5 | 1.1 | 0.2 | 1.1 |
+| 2023-24 | 76 | 28.8 | 45.7 (8.5) | 91.1 (1.5) | 2.4 | 11.4 | 2.9 | 5.9 | 1.2 | 0.2 | 1.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,9 +30,9 @@
 </details>
 
 **Current**
-- He signed with Boston on a minimum contract as veteran point guard help. (fact, 2026-07-30; [07-02](https://youtu.be/P6TNP-g0wzY?t=1775), [07-30](https://youtu.be/TiiaNZCJNs8?t=519))
 - He comes off the bench behind Derrick White and Payton Pritchard. Boston is very deep, with at least 12 rotation-level players, so in a 10-man rotation someone misses out most nights. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133), [07-02](https://youtu.be/P6TNP-g0wzY?t=1775))
 - The newest preview has him as the 10th man in the rotation. He can play the backup point guard role, which may cut into Pritchard's work as a bench ball handler. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=265))
+- He signed with Boston on a minimum contract as veteran point guard help. (fact, 2026-07-30; [07-02](https://youtu.be/P6TNP-g0wzY?t=1775), [07-30](https://youtu.be/TiiaNZCJNs8?t=519))
 - Experts do not expect much fantasy production from him this season. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=519))
 
 **Durable**

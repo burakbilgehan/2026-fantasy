@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 50 | 34.1 | 48.9 (11.5) | 75.3 (1.8) | 2.0 | 14.7 | 4.2 | 2.1 | 1.4 | 0.7 | 1.6 |
-| 2024-25 | 74 | 36.6 | 47.6 (13.9) | 81.0 (3.1) | 2.3 | 18.0 | 4.8 | 2.2 | 1.5 | 0.9 | 1.4 |
-| 2025-26 | 67 | 33.2 | 48.4 (12.0) | 82.8 (3.3) | 2.3 | 16.7 | 5.2 | 2.2 | 1.6 | 0.7 | 1.8 |
-| 2026-27 proj, Yahoo | 67 | - | 48.0 (12.3) | 81.3 (2.9) | 2.3 | 16.4 | 5.0 | 2.1 | 1.4 | 0.7 | 1.6 |
 | 2026-27 proj, ESPN | 68 | 33.8 | 48.2 (12.3) | 82.6 (3.3) | 2.3 | 16.9 | 5.2 | 2.2 | 1.5 | 0.7 | 1.8 |
+| 2026-27 proj, Yahoo | 67 | - | 48.0 (12.3) | 81.3 (2.9) | 2.3 | 16.4 | 5.0 | 2.1 | 1.4 | 0.7 | 1.6 |
+| 2025-26 | 67 | 33.2 | 48.4 (12.0) | 82.8 (3.3) | 2.3 | 16.7 | 5.2 | 2.2 | 1.6 | 0.7 | 1.8 |
+| 2024-25 | 74 | 36.6 | 47.6 (13.9) | 81.0 (3.1) | 2.3 | 18.0 | 4.8 | 2.2 | 1.5 | 0.9 | 1.4 |
+| 2023-24 | 50 | 34.1 | 48.9 (11.5) | 75.3 (1.8) | 2.0 | 14.7 | 4.2 | 2.1 | 1.4 | 0.7 | 1.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,20 +30,20 @@
 </details>
 
 **Current**
-- He is a projected starter for the Knicks next to Brunson, Bridges, Hart and Towns. He is the third option, with usage just under 20 percent in about 33 minutes per game. (fact, 2026-09-17; [08-13](https://youtu.be/okN3fbHJtlA?t=317), [08-13](https://youtu.be/okN3fbHJtlA?t=1455), [09-17](https://youtu.be/DubdKKhMWHo?t=1127))
-- Expect more big scoring nights when Brunson or Towns rest. He stays the third option and is not projected to average 25 points. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=1455))
-- The Knicks won the championship by beating the Spurs in the Finals. He was their next best player for chunks of those games. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1983), [08-27](https://youtu.be/ZAyie8lKyYc?t=334))
 - Experts expect the Knicks to be careful with his minutes after the long title run. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=916), [09-22](https://youtu.be/QbdrhJd7LiA?t=914), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1527), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [09-10](https://youtu.be/W-R1dzem32s?t=1710))
-- The Knicks are expected to trim starters' minutes and give more rest on back-to-backs. (verdict, 2026-08-13, until about the first 30 games; [08-13](https://youtu.be/okN3fbHJtlA?t=752))
-- There is some worry about a championship hangover: a minute or two less per game and slightly higher injury risk. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1111), [09-10](https://youtu.be/dlo7L8Ru91A?t=1127), [09-09](https://youtu.be/7BllEsdNLoM?t=1565))
 - Experts see his ADP of about 58 to 65 as fair, or slightly low for category leagues. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=916), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1527), [09-10](https://youtu.be/dlo7L8Ru91A?t=1111), [09-17](https://youtu.be/DubdKKhMWHo?t=1127))
+- He is a projected starter for the Knicks next to Brunson, Bridges, Hart and Towns. He is the third option, with usage just under 20 percent in about 33 minutes per game. (fact, 2026-09-17; [08-13](https://youtu.be/okN3fbHJtlA?t=317), [08-13](https://youtu.be/okN3fbHJtlA?t=1455), [09-17](https://youtu.be/DubdKKhMWHo?t=1127))
 - He has the widest outcome range in round five: best case 22nd, worst case 89th, mostly because his steals vary. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1127))
+- There is some worry about a championship hangover: a minute or two less per game and slightly higher injury risk. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1111), [09-10](https://youtu.be/dlo7L8Ru91A?t=1127), [09-09](https://youtu.be/7BllEsdNLoM?t=1565))
+- The Knicks won the championship by beating the Spurs in the Finals. He was their next best player for chunks of those games. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1983), [08-27](https://youtu.be/ZAyie8lKyYc?t=334))
+- Expect more big scoring nights when Brunson or Towns rest. He stays the third option and is not projected to average 25 points. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=1455))
+- The Knicks are expected to trim starters' minutes and give more rest on back-to-backs. (verdict, 2026-08-13, until about the first 30 games; [08-13](https://youtu.be/okN3fbHJtlA?t=752))
 
 **Durable**
-- He is worth much more in category leagues than in points leagues. (verdict, 2026-09-22; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1521), [09-22](https://youtu.be/QbdrhJd7LiA?t=916))
-- He is an elite defender. He can be streaky, with hot stretches followed by weeks of inconsistency. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=1522))
-- He has had knee and ankle problems over his career, but he has stayed healthy for two seasons with the Knicks. (fact, 2026-09-14; [08-13](https://youtu.be/okN3fbHJtlA?t=1522), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1521))
 - Steals are his best category, and he adds threes at a forward spot. No category is a weakness. (fact, 2026-10-04; stats)
+- He is worth much more in category leagues than in points leagues. (verdict, 2026-09-22; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1521), [09-22](https://youtu.be/QbdrhJd7LiA?t=916))
+- He has had knee and ankle problems over his career, but he has stayed healthy for two seasons with the Knicks. (fact, 2026-09-14; [08-13](https://youtu.be/okN3fbHJtlA?t=1522), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1521))
+- He is an elite defender. He can be streaky, with hot stretches followed by weeks of inconsistency. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=1522))
 
 **Tags**
 - Current: `back-to-back risk` (Knicks plan more rest on back-to-backs early in the season; until about the first 30 games), `slow start` (Knicks plan to trim starters' minutes after the title run; until about the first 30 games), `sites disagree on price` (Yahoo value 14 USD, ESPN value 6 USD)

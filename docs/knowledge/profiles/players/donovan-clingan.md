@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 67 | 19.8 | 53.9 (5.0) | 59.6 (1.6) | 0.2 | 6.5 | 7.9 | 1.1 | 0.5 | 1.6 | 1.1 |
-| 2025-26 | 77 | 27.2 | 52.0 (8.9) | 68.0 (2.6) | 1.1 | 12.1 | 11.6 | 2.1 | 0.6 | 1.7 | 1.2 |
-| 2026-27 proj, Yahoo | 73 | - | 53.9 (9.4) | 65.9 (2.8) | 1.0 | 12.9 | 12.5 | 2.2 | 0.7 | 1.9 | 1.5 |
 | 2026-27 proj, ESPN | 73 | 26.2 | 52.2 (8.4) | 67.2 (2.5) | 1.0 | 11.4 | 11.1 | 2.0 | 0.6 | 1.7 | 1.2 |
+| 2026-27 proj, Yahoo | 73 | - | 53.9 (9.4) | 65.9 (2.8) | 1.0 | 12.9 | 12.5 | 2.2 | 0.7 | 1.9 | 1.5 |
+| 2025-26 | 77 | 27.2 | 52.0 (8.9) | 68.0 (2.6) | 1.1 | 12.1 | 11.6 | 2.1 | 0.6 | 1.7 | 1.2 |
+| 2024-25 | 67 | 19.8 | 53.9 (5.0) | 59.6 (1.6) | 0.2 | 6.5 | 7.9 | 1.1 | 0.5 | 1.6 | 1.1 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,13 +29,13 @@
 </details>
 
 **Current**
-- He is projected to start at center and play about 28 minutes per game in a role similar to last season. No minutes cut is expected, but a Blazers beat writer does not see him going over 28 minutes. One projection puts his usage at 17%. (verdict, 2026-09-14; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1396), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [08-11](https://youtu.be/OdDkXFhoKsc?t=912), [08-11](https://youtu.be/OdDkXFhoKsc?t=912), [09-14](https://youtu.be/t4n9MAP2_14?t=1279))
-- Portland added several centers this offseason. He played poorly in last season's playoffs, and Robert Williams outplayed him. (fact, 2026-09-14; [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1254), [09-14](https://youtu.be/t4n9MAP2_14?t=1279))
-- Portland's roster is crowded with high-usage guards, and minutes and usage are expected to swing from game to game. Experts do not expect a big leap from him. (verdict, 2026-09-22; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2014), [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [09-22](https://youtu.be/QbdrhJd7LiA?t=457))
 - Experts agree his Yahoo rank and ADP around 38 to 41 are far too high. They would not draft him in round three, and some would not take him anywhere from round two to round five. They see no upside at that price. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=908), [09-22](https://youtu.be/QbdrhJd7LiA?t=457), [09-19](https://youtu.be/uarqbNA2dFk?t=682), [09-14](https://youtu.be/t4n9MAP2_14?t=1279), [09-07](https://youtu.be/gJUBAJaHzlU?t=948), [09-07](https://youtu.be/E-KmhvyZ2CU?t=762), [09-04](https://youtu.be/gerS7ibpaJo?t=717), [08-19](https://youtu.be/J1Eg3uaAICU?t=1355), [08-11](https://youtu.be/OdDkXFhoKsc?t=912))
+- He rises to 14th in punt FT% rankings. Experts say that is still not a reason to reach for him in round three. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=2365))
+- Portland's roster is crowded with high-usage guards, and minutes and usage are expected to swing from game to game. Experts do not expect a big leap from him. (verdict, 2026-09-22; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2014), [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [09-22](https://youtu.be/QbdrhJd7LiA?t=457))
 - Experts project him at about rank 70 to 95. One expert puts his auction value at about 5 USD. (verdict, 2026-09-21; [09-07](https://youtu.be/gJUBAJaHzlU?t=948), [09-21](https://youtu.be/egRrai3Ax38?t=1724))
 - At an ESPN ADP of 100 to 109, experts call him good value, even those who usually think he is overrated. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1724), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2868))
-- He rises to 14th in punt FT% rankings. Experts say that is still not a reason to reach for him in round three. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=2365))
+- He is projected to start at center and play about 28 minutes per game in a role similar to last season. No minutes cut is expected, but a Blazers beat writer does not see him going over 28 minutes. One projection puts his usage at 17%. (verdict, 2026-09-14; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1396), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [08-11](https://youtu.be/OdDkXFhoKsc?t=912), [08-11](https://youtu.be/OdDkXFhoKsc?t=912), [09-14](https://youtu.be/t4n9MAP2_14?t=1279))
+- Portland added several centers this offseason. He played poorly in last season's playoffs, and Robert Williams outplayed him. (fact, 2026-09-14; [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1254), [09-14](https://youtu.be/t4n9MAP2_14?t=1279))
 - The Blazers have three back-to-backs in the fantasy playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
 
 **Durable**

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 81 | 33.4 | 43.4 (8.4) | 79.1 (1.4) | 1.0 | 9.4 | 8.3 | 4.1 | 0.9 | 0.3 | 1.5 |
-| 2024-25 | 77 | 37.6 | 52.5 (10.0) | 77.6 (2.7) | 1.1 | 13.6 | 9.6 | 5.9 | 1.5 | 0.4 | 2.1 |
-| 2025-26 | 66 | 30.2 | 50.8 (9.0) | 72.0 (1.9) | 1.5 | 12.0 | 7.4 | 4.8 | 1.1 | 0.3 | 1.9 |
-| 2026-27 proj, Yahoo | 72 | - | 49.8 (8.9) | 75.9 (2.0) | 1.5 | 11.9 | 7.9 | 4.3 | 1.2 | 0.3 | 1.8 |
 | 2026-27 proj, ESPN | 68 | 31.5 | 51.1 (9.1) | 73.5 (2.0) | 1.4 | 12.2 | 7.7 | 5.0 | 1.2 | 0.3 | 2.0 |
+| 2026-27 proj, Yahoo | 72 | - | 49.8 (8.9) | 75.9 (2.0) | 1.5 | 11.9 | 7.9 | 4.3 | 1.2 | 0.3 | 1.8 |
+| 2025-26 | 66 | 30.2 | 50.8 (9.0) | 72.0 (1.9) | 1.5 | 12.0 | 7.4 | 4.8 | 1.1 | 0.3 | 1.9 |
+| 2024-25 | 77 | 37.6 | 52.5 (10.0) | 77.6 (2.7) | 1.1 | 13.6 | 9.6 | 5.9 | 1.5 | 0.4 | 2.1 |
+| 2023-24 | 81 | 33.4 | 43.4 (8.4) | 79.1 (1.4) | 1.0 | 9.4 | 8.3 | 4.1 | 0.9 | 0.3 | 1.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,19 +30,19 @@
 </details>
 
 **Current**
+- The Knicks are expected to be careful with workloads after their long title run. That means trimmed starter minutes and more rest on back-to-backs. (verdict, 2026-09-22, until first 30 or so games of the season; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [09-22](https://youtu.be/QbdrhJd7LiA?t=914))
+- Experts call him too expensive at an ESPN ADP of 61 to 74 and see no upside there. Around pick 90 he may have some value. (verdict, 2026-09-22; [09-19](https://youtu.be/uarqbNA2dFk?t=2477), [09-22](https://youtu.be/QbdrhJd7LiA?t=1808), [09-01](https://youtu.be/80kfLVnFQ_s?t=1357), [09-10](https://youtu.be/W-R1dzem32s?t=1715))
+- Experts expect his minutes to stay around 30 per game. They see no return to a 36 or 37 minute role. (verdict, 2026-09-19; [08-13](https://youtu.be/okN3fbHJtlA?t=452), [09-10](https://youtu.be/dlo7L8Ru91A?t=1748), [09-10](https://youtu.be/W-R1dzem32s?t=1715), [09-19](https://youtu.be/uarqbNA2dFk?t=2477))
+- He is named the Knicks starter most at risk of decline because of wear and tear, and he showed signs of decline last season. (verdict, 2026-09-19; [08-13](https://youtu.be/okN3fbHJtlA?t=452), [09-19](https://youtu.be/uarqbNA2dFk?t=2477))
+- Experts see a possible championship hangover for the Knicks: a minute or two less per game and a small rise in injury risk. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1127), [09-09](https://youtu.be/7BllEsdNLoM?t=1565))
+- Ranked in tier seven of small forwards. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1748))
 - He is a projected Knicks starter with Brunson, Bridges, Anunoby and Towns. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=317))
 - He played through hand injuries last season. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=452))
-- Experts expect his minutes to stay around 30 per game. They see no return to a 36 or 37 minute role. (verdict, 2026-09-19; [08-13](https://youtu.be/okN3fbHJtlA?t=452), [09-10](https://youtu.be/dlo7L8Ru91A?t=1748), [09-10](https://youtu.be/W-R1dzem32s?t=1715), [09-19](https://youtu.be/uarqbNA2dFk?t=2477))
-- The Knicks are expected to be careful with workloads after their long title run. That means trimmed starter minutes and more rest on back-to-backs. (verdict, 2026-09-22, until first 30 or so games of the season; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [09-22](https://youtu.be/QbdrhJd7LiA?t=914))
-- Experts see a possible championship hangover for the Knicks: a minute or two less per game and a small rise in injury risk. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1127), [09-09](https://youtu.be/7BllEsdNLoM?t=1565))
-- He is named the Knicks starter most at risk of decline because of wear and tear, and he showed signs of decline last season. (verdict, 2026-09-19; [08-13](https://youtu.be/okN3fbHJtlA?t=452), [09-19](https://youtu.be/uarqbNA2dFk?t=2477))
-- Experts call him too expensive at an ESPN ADP of 61 to 74 and see no upside there. Around pick 90 he may have some value. (verdict, 2026-09-22; [09-19](https://youtu.be/uarqbNA2dFk?t=2477), [09-22](https://youtu.be/QbdrhJd7LiA?t=1808), [09-01](https://youtu.be/80kfLVnFQ_s?t=1357), [09-10](https://youtu.be/W-R1dzem32s?t=1715))
-- Ranked in tier seven of small forwards. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1748))
 - His block rate fell last season and could move back up. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=891))
 
 **Durable**
-- He is historically a 31 to 33 percent three-point shooter. His game relies on motor and athleticism. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=437))
 - He is a fantasy stat stuffer. Rebounds are his best category for a wing, and he adds assists and steals while giving little in blocks. (verdict, 2026-10-04; [07-01](https://youtu.be/W3THnI7wWdA?t=1038), stats)
+- He is historically a 31 to 33 percent three-point shooter. His game relies on motor and athleticism. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=437))
 
 **Tags**
 - Current: `back-to-back risk` (Knicks plan more rest on back-to-backs and trimmed starter minutes early; until first 30 or so games of the season), `bust candidate` (Too expensive at ESPN ADP 61 to 74)

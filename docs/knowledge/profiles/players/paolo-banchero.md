@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 80 | 35.0 | 45.5 (17.6) | 72.5 (7.0) | 1.5 | 22.6 | 6.9 | 5.4 | 0.9 | 0.6 | 3.1 |
-| 2024-25 | 46 | 34.4 | 45.2 (19.8) | 72.7 (8.4) | 1.9 | 25.9 | 7.5 | 4.8 | 0.8 | 0.6 | 3.0 |
-| 2025-26 | 72 | 34.7 | 45.9 (16.0) | 77.5 (8.2) | 1.2 | 22.2 | 8.4 | 5.2 | 0.7 | 0.6 | 3.1 |
-| 2026-27 proj, Yahoo | 70 | - | 45.6 (18.0) | 75.3 (8.3) | 1.5 | 24.2 | 8.2 | 5.4 | 0.8 | 0.6 | 3.2 |
 | 2026-27 proj, ESPN | 69 | 35.2 | 45.6 (17.5) | 75.2 (8.0) | 1.4 | 23.4 | 7.9 | 5.2 | 0.8 | 0.6 | 3.1 |
+| 2026-27 proj, Yahoo | 70 | - | 45.6 (18.0) | 75.3 (8.3) | 1.5 | 24.2 | 8.2 | 5.4 | 0.8 | 0.6 | 3.2 |
+| 2025-26 | 72 | 34.7 | 45.9 (16.0) | 77.5 (8.2) | 1.2 | 22.2 | 8.4 | 5.2 | 0.7 | 0.6 | 3.1 |
+| 2024-25 | 46 | 34.4 | 45.2 (19.8) | 72.7 (8.4) | 1.9 | 25.9 | 7.5 | 4.8 | 0.8 | 0.6 | 3.0 |
+| 2023-24 | 80 | 35.0 | 45.5 (17.6) | 72.5 (7.0) | 1.5 | 22.6 | 6.9 | 5.4 | 0.9 | 0.6 | 3.1 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -40,13 +40,13 @@
 - He should be good for about 70 games this season. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=715))
 
 **Durable**
-- He played through a groin strain and still appeared in 72 games last season. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=715))
-- He gets too much hate. He does not kill the percentages, his blocks are about average and his steals are bad. His volume of points, rebounds and assists is strong. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=897))
 - He turns the ball over about 3 times per game, one of the worst marks in the top 250 pool. (fact, 2026-10-04; stats)
 - He gives guard-like assists for a forward, about 5 per game. (fact, 2026-10-04; stats)
 - His free throw percentage, about 75% on 8 attempts per game, is weak for a forward. (fact, 2026-10-04; stats)
-- One expert says he has improved his free throw shooting to a pretty good level. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1526))
 - He is worth clearly more in points leagues than in categories, most of all in Yahoo points. Rankings from points formats overrate him for 9-cat. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=815), [09-01](https://youtu.be/80kfLVnFQ_s?t=788), [08-30](https://youtu.be/Alwse2uXzD4?t=1070), [08-19](https://youtu.be/J1Eg3uaAICU?t=138))
+- He gets too much hate. He does not kill the percentages, his blocks are about average and his steals are bad. His volume of points, rebounds and assists is strong. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=897))
+- He played through a groin strain and still appeared in 72 games last season. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=715))
+- One expert says he has improved his free throw shooting to a pretty good level. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1526))
 
 **Tags**
 - Current: `sites disagree on price` (Yahoo value 19 USD and rank 52; ESPN value 5 USD and rank 75)

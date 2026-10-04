@@ -3,8 +3,8 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, Yahoo | 74 | - | 43.7 (7.8) | 84.3 (2.1) | 0.8 | 9.5 | 3.0 | 3.8 | 0.9 | 0.4 | 1.3 |
 | 2026-27 proj, ESPN | 71 | 24.8 | 43.3 (9.7) | 79.7 (2.7) | 0.4 | 10.9 | 2.8 | 3.7 | 1.2 | 0.5 | 2.1 |
+| 2026-27 proj, Yahoo | 74 | - | 43.7 (7.8) | 84.3 (2.1) | 0.8 | 9.5 | 3.0 | 3.8 | 0.9 | 0.4 | 1.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -27,14 +27,14 @@
 </details>
 
 **Current**
-- He is a rookie. Atlanta took him in the first round, and he is 19. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=265))
 - He is the backup point guard behind CJ McCollum and Nickeil Alexander-Walker. He comes off the bench in an expected 10-man rotation. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1546), [08-02](https://youtu.be/TOn-D1SV7a8?t=1355), [07-23](https://youtu.be/LUTYUdXBG1M?t=2341), [08-25](https://youtu.be/H9q2FT3LhNw?t=265), [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
-- CJ McCollum signed an extension, which delays Flemings becoming a starter. (fact, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=553))
-- He is almost certainly not a starter this season. (verdict, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=1034))
 - Lloyd expects him to struggle with usage and efficiency as a rookie, but to be a good source of assists and steals. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1546))
 - He would likely start if McCollum got hurt, but the path is not clean. Several Atlanta starters handle the ball, and Lu Dort or Andrew Wiggins could take the minutes instead, so he is not an automatic handcuff. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1540), [09-25](https://youtu.be/4gw4W4RTolY?t=1580))
 - ESPN's rank of 215 is far too high for this season. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1540))
+- He is a rookie. Atlanta took him in the first round, and he is 19. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=265))
 - In Summer League he scored 9 points but ran the offense, with 7 assists, a 4.1 to 1 assist-to-turnover ratio, 1.5 steals and 1.3 blocks. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2341))
+- CJ McCollum signed an extension, which delays Flemings becoming a starter. (fact, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=553))
+- He is almost certainly not a starter this season. (verdict, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=1034))
 
 **Durable**
 - His fantasy strengths are his assist-to-turnover ratio and his steal rate. For that reason he ranks ahead of Mikel Brown Jr. for fantasy, as the number 5 dynasty rookie in category leagues. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1355), [06-28](https://youtu.be/RsjGTgJiKyI?t=1034))

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 24 | 9.5 | 46.4 (2.9) | 66.7 (0.5) | 0.6 | 3.6 | 0.9 | 1.1 | 0.5 | 0.0 | 0.6 |
-| 2024-25 | 33 | 13.9 | 43.0 (4.8) | 86.4 (0.7) | 1.2 | 5.9 | 2.4 | 2.4 | 0.6 | 0.2 | 0.5 |
-| 2025-26 | 80 | 28.5 | 41.8 (10.5) | 87.4 (1.1) | 2.9 | 12.7 | 4.1 | 4.6 | 1.2 | 0.2 | 1.6 |
-| 2026-27 proj, Yahoo | 70 | - | 42.0 (9.8) | 86.7 (1.1) | 2.7 | 11.9 | 3.9 | 4.4 | 1.2 | 0.2 | 1.4 |
 | 2026-27 proj, ESPN | 73 | 26.8 | 41.9 (9.9) | 87.7 (1.0) | 2.7 | 11.9 | 3.9 | 4.4 | 1.2 | 0.2 | 1.4 |
+| 2026-27 proj, Yahoo | 70 | - | 42.0 (9.8) | 86.7 (1.1) | 2.7 | 11.9 | 3.9 | 4.4 | 1.2 | 0.2 | 1.4 |
+| 2025-26 | 80 | 28.5 | 41.8 (10.5) | 87.4 (1.1) | 2.9 | 12.7 | 4.1 | 4.6 | 1.2 | 0.2 | 1.6 |
+| 2024-25 | 33 | 13.9 | 43.0 (4.8) | 86.4 (0.7) | 1.2 | 5.9 | 2.4 | 2.4 | 0.6 | 0.2 | 0.5 |
+| 2023-24 | 24 | 9.5 | 46.4 (2.9) | 66.7 (0.5) | 0.6 | 3.6 | 0.9 | 1.1 | 0.5 | 0.0 | 0.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -31,10 +31,10 @@
 
 **Current**
 - He comes off the bench for Phoenix, behind Jalen Green, Devin Booker, Dillon Brooks and Miles Bridges in a crowded guard and wing group. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2512), [09-19](https://youtu.be/uarqbNA2dFk?t=2724), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2180), [07-20](https://youtu.be/-KS_AZjZnw4?t=323), [09-10](https://youtu.be/W-R1dzem32s?t=1138), [09-19](https://youtu.be/uarqbNA2dFk?t=989))
-- Most of his 2025-26 production came from starts while other Phoenix guards were injured. His minutes fell to about 23 a game once Green, Brooks and Booker were all back. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2724), [07-20](https://youtu.be/-KS_AZjZnw4?t=323), [08-23](https://youtu.be/hm5-fiCa5S4?t=2201))
-- He re-signed with Phoenix on a 4 year, 40 million USD contract. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=987))
 - He only pays off if a guard ahead of him gets hurt. If Green, Booker or Brooks misses time, he would start and play about 30 minutes, which would lift him about three tiers. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2512), [09-24](https://youtu.be/_vbAP5y182A?t=2338), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2180), [09-10](https://youtu.be/W-R1dzem32s?t=2012))
+- Most of his 2025-26 production came from starts while other Phoenix guards were injured. His minutes fell to about 23 a game once Green, Brooks and Booker were all back. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2724), [07-20](https://youtu.be/-KS_AZjZnw4?t=323), [08-23](https://youtu.be/hm5-fiCa5S4?t=2201))
 - As a bench player the experts value him around rank 150. They say his ESPN rank of 100 is too high. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2724), [08-23](https://youtu.be/hm5-fiCa5S4?t=2201), [09-10](https://youtu.be/W-R1dzem32s?t=2012))
+- He re-signed with Phoenix on a 4 year, 40 million USD contract. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=987))
 - Ben from Locked On Suns thinks he should start over Jalen Green, but expects the team to start Green. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=611))
 
 **Durable**

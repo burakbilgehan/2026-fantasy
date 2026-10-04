@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 56 | 11.0 | 42.3 (3.5) | 89.5 (0.3) | 1.2 | 4.5 | 1.1 | 0.5 | 0.2 | 0.1 | 0.2 |
-| 2024-25 | 73 | 22.8 | 42.9 (5.8) | 81.5 (0.4) | 2.1 | 7.4 | 2.4 | 1.5 | 0.5 | 0.1 | 0.5 |
-| 2025-26 | 78 | 29.1 | 42.4 (7.9) | 85.5 (0.8) | 3.0 | 10.4 | 2.7 | 1.9 | 0.5 | 0.1 | 1.0 |
-| 2026-27 proj, Yahoo | 70 | - | 43.0 (6.6) | 78.6 (0.6) | 2.4 | 8.6 | 2.4 | 1.7 | 0.5 | 0.3 | 2.1 |
 | 2026-27 proj, ESPN | 76 | 25.4 | 42.6 (6.9) | 84.9 (0.7) | 2.6 | 9.0 | 2.4 | 1.7 | 0.5 | 0.1 | 0.8 |
+| 2026-27 proj, Yahoo | 70 | - | 43.0 (6.6) | 78.6 (0.6) | 2.4 | 8.6 | 2.4 | 1.7 | 0.5 | 0.3 | 2.1 |
+| 2025-26 | 78 | 29.1 | 42.4 (7.9) | 85.5 (0.8) | 3.0 | 10.4 | 2.7 | 1.9 | 0.5 | 0.1 | 1.0 |
+| 2024-25 | 73 | 22.8 | 42.9 (5.8) | 81.5 (0.4) | 2.1 | 7.4 | 2.4 | 1.5 | 0.5 | 0.1 | 0.5 |
+| 2023-24 | 56 | 11.0 | 42.3 (3.5) | 89.5 (0.3) | 1.2 | 4.5 | 1.1 | 0.5 | 0.2 | 0.1 | 0.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,9 +30,9 @@
 </details>
 
 **Current**
+- Milwaukee's backcourt is crowded. Rollins, Herro, Porter, Jakucionis, Burries, Trent and Green all compete for guard minutes, and the roster is heavy on small shooting guards. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418), [08-14](https://youtu.be/owlM6b8oUd0?t=115))
 - He is on a deal of about 10 million USD with four more years left. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=360))
 - He does not fit Milwaukee's new direction, so he is a trade candidate. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=360))
-- Milwaukee's backcourt is crowded. Rollins, Herro, Porter, Jakucionis, Burries, Trent and Green all compete for guard minutes, and the roster is heavy on small shooting guards. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418), [08-14](https://youtu.be/owlM6b8oUd0?t=115))
 - He is not in the projected starting five of Rollins, Herro, Jaquez, Ware and Turner. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=536))
 
 **Durable**

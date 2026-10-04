@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 23 | 16.1 | 53.8 (4.0) | 70.0 (1.3) | 0.5 | 5.8 | 3.5 | 0.8 | 0.3 | 0.7 | 0.7 |
-| 2024-25 | 46 | 22.7 | 35.8 (8.1) | 83.8 (1.7) | 1.9 | 9.1 | 3.9 | 0.9 | 0.5 | 0.5 | 1.0 |
-| 2025-26 | 66 | 27.0 | 39.6 (9.6) | 80.4 (3.4) | 2.0 | 12.3 | 4.1 | 1.6 | 0.8 | 0.7 | 1.5 |
-| 2026-27 proj, Yahoo | 60 | - | 40.1 (7.5) | 81.0 (2.8) | 1.6 | 9.9 | 4.1 | 1.4 | 0.8 | 0.6 | 0.9 |
 | 2026-27 proj, ESPN | 69 | 19.6 | 39.5 (6.9) | 80.1 (2.4) | 1.4 | 8.8 | 3.1 | 1.1 | 0.5 | 0.5 | 1.1 |
+| 2026-27 proj, Yahoo | 60 | - | 40.1 (7.5) | 81.0 (2.8) | 1.6 | 9.9 | 4.1 | 1.4 | 0.8 | 0.6 | 0.9 |
+| 2025-26 | 66 | 27.0 | 39.6 (9.6) | 80.4 (3.4) | 2.0 | 12.3 | 4.1 | 1.6 | 0.8 | 0.7 | 1.5 |
+| 2024-25 | 46 | 22.7 | 35.8 (8.1) | 83.8 (1.7) | 1.9 | 9.1 | 3.9 | 0.9 | 0.5 | 0.5 | 1.0 |
+| 2023-24 | 23 | 16.1 | 53.8 (4.0) | 70.0 (1.3) | 0.5 | 5.8 | 3.5 | 0.8 | 0.3 | 0.7 | 0.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -31,11 +31,11 @@
 
 **Current**
 - He is projected to come off the bench in Brooklyn's second unit. (fact, 2026-09-26; [08-21](https://youtu.be/uRsfijpBPok?t=1546), [09-26](https://youtu.be/3UGI05PDvrE?t=1156))
-- The frontcourt is crowded. He competes with Julius Randle, Josh Minott and Danny Wolf for minutes at the four. (fact, 2026-08-21; [06-23](https://youtu.be/9tb1ARBEmQU?t=614), [08-21](https://youtu.be/uRsfijpBPok?t=1546))
-- He did not get a contract extension, so this is a pivotal season for him. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=1546))
 - Experts call him not a draft target. They say the Randle trade ended his fantasy value. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1232), [06-23](https://youtu.be/9tb1ARBEmQU?t=614))
 - Brooklyn does not own its pick, so it has no reason to tank. Experts think the team may give more minutes to young players like Clowney in the second half of the season, but March minutes are uncertain. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1642))
 - Brooklyn plays 3, 4 and 3 games in our playoff weeks, 10 in total, with one playoff back-to-back. The team has 16 back-to-backs this season, tied with Boston for the most in the league. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
+- The frontcourt is crowded. He competes with Julius Randle, Josh Minott and Danny Wolf for minutes at the four. (fact, 2026-08-21; [06-23](https://youtu.be/9tb1ARBEmQU?t=614), [08-21](https://youtu.be/uRsfijpBPok?t=1546))
+- He did not get a contract extension, so this is a pivotal season for him. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=1546))
 
 **Durable**
 - His shot is unreliable. He has not been an efficient three-point shooter so far, despite hot stretches. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1232), [08-21](https://youtu.be/uRsfijpBPok?t=1570), stats)

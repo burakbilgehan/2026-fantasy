@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 70 | 32.0 | 41.8 (10.4) | 79.4 (1.4) | 2.4 | 12.2 | 4.8 | 4.0 | 0.9 | 0.4 | 1.6 |
-| 2024-25 | 50 | 25.5 | 44.2 (7.5) | 82.4 (0.7) | 2.3 | 9.4 | 4.3 | 3.2 | 0.5 | 0.2 | 1.1 |
-| 2025-26 | 12 | 24.0 | 44.3 (8.8) | 77.8 (0.8) | 2.8 | 11.2 | 5.4 | 2.0 | 0.2 | 0.0 | 0.8 |
-| 2026-27 proj, Yahoo | 63 | - | 43.9 (8.9) | 80.7 (0.9) | 2.6 | 11.1 | 4.8 | 2.9 | 0.6 | 0.3 | 1.1 |
 | 2026-27 proj, ESPN | 67 | 25.9 | 42.3 (8.3) | 79.1 (1.0) | 2.0 | 9.9 | 4.0 | 3.2 | 0.7 | 0.3 | 1.2 |
+| 2026-27 proj, Yahoo | 63 | - | 43.9 (8.9) | 80.7 (0.9) | 2.6 | 11.1 | 4.8 | 2.9 | 0.6 | 0.3 | 1.1 |
+| 2025-26 | 12 | 24.0 | 44.3 (8.8) | 77.8 (0.8) | 2.8 | 11.2 | 5.4 | 2.0 | 0.2 | 0.0 | 0.8 |
+| 2024-25 | 50 | 25.5 | 44.2 (7.5) | 82.4 (0.7) | 2.3 | 9.4 | 4.3 | 3.2 | 0.5 | 0.2 | 1.1 |
+| 2023-24 | 70 | 32.0 | 41.8 (10.4) | 79.4 (1.4) | 2.4 | 12.2 | 4.8 | 4.0 | 0.9 | 0.4 | 1.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,9 +30,7 @@
 </details>
 
 **Current**
-- The Clippers got Strus in a trade, the Watson deal. (fact, 2026-09-03; [08-24](https://youtu.be/rnq3118kfhY?t=412), [09-03](https://youtu.be/OBwWCxG9SqM?t=1756), [08-24](https://youtu.be/g31YlwRe0XQ?t=2470))
 - He is in the projected Clippers starting five with Garland, Derrick Jones Jr., Hachimura and Isaiah Jackson. The speaker is not confident about this lineup. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=360), [09-03](https://youtu.be/OBwWCxG9SqM?t=1756))
-- He is over 30 and on an expiring contract. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=412))
 - A Jones fracture limited him to about 12 games last season, and he finished outside the top 250 in category leagues. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=570), [08-24](https://youtu.be/rnq3118kfhY?t=412))
 - Ingram is out, and so are Beal, Jordan Miller and Konan Niederhauser. The Clippers are probably the most injury-hit team in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018))
 - With Ingram out, his usage and minutes should go up. The speaker projects his minutes back near 32, which would put him around the top 120. (verdict, 2026-10-04, until Ingram returns; [10-04](https://youtu.be/tnzmsYUA4yQ?t=601), [10-04](https://youtu.be/tnzmsYUA4yQ?t=634))
@@ -40,6 +38,8 @@
 - Watch whether his assists get back to about 4 a game. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=634))
 - The speaker leans toward a Clippers trial season with long rotations and many players tested. Coach Ty Lue also changes rotations often, so the minutes projection is not safe. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
 - The Clippers have a good fantasy playoff schedule, 4-3-4 games in weeks 19 to 21 with a March 28 end. They have 13 back-to-backs, one of the lowest totals in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
+- The Clippers got Strus in a trade, the Watson deal. (fact, 2026-09-03; [08-24](https://youtu.be/rnq3118kfhY?t=412), [09-03](https://youtu.be/OBwWCxG9SqM?t=1756), [08-24](https://youtu.be/g31YlwRe0XQ?t=2470))
+- He is over 30 and on an expiring contract. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=412))
 
 **Durable**
 - He takes a lot of difficult threes. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=616))

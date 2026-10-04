@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 46 | 31.0 | 48.7 (8.3) | 75.3 (1.8) | 1.5 | 10.9 | 6.6 | 1.6 | 0.4 | 0.8 | 1.4 |
-| 2024-25 | 72 | 19.9 | 55.9 (4.4) | 75.9 (1.2) | 0.2 | 6.0 | 5.5 | 1.7 | 0.4 | 1.4 | 0.9 |
-| 2025-26 | 58 | 22.7 | 55.0 (6.9) | 75.6 (2.3) | 0.7 | 10.0 | 5.0 | 1.1 | 0.3 | 1.6 | 1.2 |
-| 2026-27 proj, Yahoo | 68 | - | 53.9 (8.0) | 75.6 (2.8) | 0.9 | 11.6 | 6.5 | 1.6 | 0.4 | 1.5 | 1.3 |
 | 2026-27 proj, ESPN | 69 | 24.7 | 54.7 (7.2) | 75.5 (2.3) | 0.7 | 10.3 | 5.7 | 1.4 | 0.3 | 1.7 | 1.2 |
+| 2026-27 proj, Yahoo | 68 | - | 53.9 (8.0) | 75.6 (2.8) | 0.9 | 11.6 | 6.5 | 1.6 | 0.4 | 1.5 | 1.3 |
+| 2025-26 | 58 | 22.7 | 55.0 (6.9) | 75.6 (2.3) | 0.7 | 10.0 | 5.0 | 1.1 | 0.3 | 1.6 | 1.2 |
+| 2024-25 | 72 | 19.9 | 55.9 (4.4) | 75.9 (1.2) | 0.2 | 6.0 | 5.5 | 1.7 | 0.4 | 1.4 | 0.9 |
+| 2023-24 | 46 | 31.0 | 48.7 (8.3) | 75.3 (1.8) | 1.5 | 10.9 | 6.6 | 1.6 | 0.4 | 0.8 | 1.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,17 +30,17 @@
 </details>
 
 **Current**
-- Stewart was traded to Memphis, where he is the backup center behind Zach Edey. (fact, 2026-08-17; [07-01](https://youtu.be/W3THnI7wWdA?t=249), [06-30](https://youtu.be/4GDfg2n2l8o?t=853), [08-12](https://youtu.be/p9XE5jFqhvs?t=416), [08-17](https://youtu.be/LcZcvk8s1xQ?t=403))
-- He wants a bigger role and more three-point attempts. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=416))
 - Zach Edey had a broken foot in June. In mid-September an expert said he might be out for longer. (fact, 2026-09-15; [06-23](https://youtu.be/-rgXhs5BHiw?t=1008), [09-15](https://youtu.be/KPdD91Oo8-U?t=2730))
 - Experts say Stewart can start or make spot starts while Edey is out. That makes him a good late pick if Edey's absence runs long. (verdict, 2026-09-15, until Zach Edey returns; [09-15](https://youtu.be/KPdD91Oo8-U?t=2730), [08-17](https://youtu.be/LcZcvk8s1xQ?t=403), [07-01](https://youtu.be/W3THnI7wWdA?t=249), [06-30](https://youtu.be/4GDfg2n2l8o?t=853))
-- The Memphis frontcourt is crowded with Prosper, Hendricks, Edey and Stewart, and Cameron Boozer will start. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1680))
+- Stewart was traded to Memphis, where he is the backup center behind Zach Edey. (fact, 2026-08-17; [07-01](https://youtu.be/W3THnI7wWdA?t=249), [06-30](https://youtu.be/4GDfg2n2l8o?t=853), [08-12](https://youtu.be/p9XE5jFqhvs?t=416), [08-17](https://youtu.be/LcZcvk8s1xQ?t=403))
 - Coach Tuomas Iisalo runs an 11-man rotation with short stints and keeps minutes down. Only Boozer and Coward are expected to top 30 minutes, which caps a backup center's minutes. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- He wants a bigger role and more three-point attempts. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=416))
+- The Memphis frontcourt is crowded with Prosper, Hendricks, Edey and Stewart, and Cameron Boozer will start. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1680))
 
 **Durable**
-- He has not finished a season healthy in the last three or four years. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=375))
 - Blocks are his standout category. He projects to about 1.6 per game, which is far above the top 250 pool. (fact, 2026-10-04; stats)
 - Steals are a clear weakness, at about 0.3 per game. That is low even for a big man. (fact, 2026-10-04; stats)
+- He has not finished a season healthy in the last three or four years. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=375))
 
 **Tags**
 - Current: `new team` (traded from Detroit to Memphis), `handcuff` (backup center to Zach Edey, who had a broken foot; until Zach Edey returns), `minutes competition` (crowded frontcourt with Edey, Boozer, Prosper and Hendricks in an 11-man rotation), `flyer` (late pick whose upside depends on how long Edey is out; until Zach Edey returns)

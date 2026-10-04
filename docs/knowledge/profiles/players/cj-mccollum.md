@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 66 | 32.7 | 45.9 (16.0) | 82.7 (2.1) | 3.6 | 20.0 | 4.3 | 4.6 | 0.9 | 0.6 | 1.7 |
-| 2024-25 | 56 | 32.8 | 44.4 (17.9) | 71.7 (3.1) | 3.1 | 21.1 | 3.8 | 4.1 | 0.8 | 0.4 | 1.9 |
-| 2025-26 | 76 | 29.8 | 45.5 (15.2) | 77.2 (3.1) | 2.5 | 18.7 | 3.3 | 3.9 | 0.8 | 0.5 | 1.8 |
-| 2026-27 proj, Yahoo | 73 | - | 45.3 (14.1) | 76.4 (2.8) | 2.5 | 17.5 | 3.2 | 3.7 | 0.8 | 0.4 | 1.6 |
 | 2026-27 proj, ESPN | 73 | 30.2 | 45.4 (15.5) | 77.0 (3.1) | 2.6 | 19.1 | 3.4 | 3.9 | 0.8 | 0.5 | 1.8 |
+| 2026-27 proj, Yahoo | 73 | - | 45.3 (14.1) | 76.4 (2.8) | 2.5 | 17.5 | 3.2 | 3.7 | 0.8 | 0.4 | 1.6 |
+| 2025-26 | 76 | 29.8 | 45.5 (15.2) | 77.2 (3.1) | 2.5 | 18.7 | 3.3 | 3.9 | 0.8 | 0.5 | 1.8 |
+| 2024-25 | 56 | 32.8 | 44.4 (17.9) | 71.7 (3.1) | 3.1 | 21.1 | 3.8 | 4.1 | 0.8 | 0.4 | 1.9 |
+| 2023-24 | 66 | 32.7 | 45.9 (16.0) | 82.7 (2.1) | 3.6 | 20.0 | 4.3 | 4.6 | 0.9 | 0.6 | 1.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,19 +30,19 @@
 </details>
 
 **Current**
-- He re-signed with the Hawks on a 1-year, 21 million USD deal. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=757), [06-28](https://youtu.be/RsjGTgJiKyI?t=553))
+- Experts call him undervalued at an ADP of about 110 to 117. Lloyd expects him to be better as a locked-in starter on a team pushing for the playoffs and targets him around picks 80 to 90. In a mock draft he was taken around pick 97 so he would not get sniped. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1568), [09-25](https://youtu.be/4gw4W4RTolY?t=1170), [09-09](https://youtu.be/7BllEsdNLoM?t=2085), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2012), [09-10](https://youtu.be/W-R1dzem32s?t=1778), [08-11](https://youtu.be/OdDkXFhoKsc?t=2354))
 - He is a projected starter for Atlanta next to Nickeil Alexander-Walker, Dyson Daniels, Jalen Johnson and Onyeka Okongwu. Each starter is expected to play 30-plus minutes. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=328), [08-25](https://youtu.be/H9q2FT3LhNw?t=355), [08-25](https://youtu.be/H9q2FT3LhNw?t=428), [07-01](https://youtu.be/W3THnI7wWdA?t=757))
 - Atlanta has no true point guard. Ball handling is shared, and McCollum has handled the ball more than anyone else on the team since he arrived. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=300), [08-25](https://youtu.be/H9q2FT3LhNw?t=355), [08-25](https://youtu.be/H9q2FT3LhNw?t=364), [09-09](https://youtu.be/7BllEsdNLoM?t=2085))
+- Atlanta plays 4-4-3 games in our playoff weeks 19 to 21 and has 14 back-to-backs. Resting players is not a concern for the team. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739), [07-14](https://youtu.be/xHRF06_E9HE?t=230))
 - He ranked 63rd after the trade deadline last season and played much better after joining Atlanta. (fact, 2026-09-21; [07-14](https://youtu.be/xHRF06_E9HE?t=1607), [08-11](https://youtu.be/OdDkXFhoKsc?t=2354), [09-21](https://youtu.be/egRrai3Ax38?t=880))
 - Lu Dort is the main threat to his starting spot. Some expect Dort to start ahead of him, and that keeps his price down. The newest view is that Dort will not start over McCollum. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1750), [09-21](https://youtu.be/egRrai3Ax38?t=880), [08-25](https://youtu.be/H9q2FT3LhNw?t=478), [08-25](https://youtu.be/H9q2FT3LhNw?t=428))
-- Experts call him undervalued at an ADP of about 110 to 117. Lloyd expects him to be better as a locked-in starter on a team pushing for the playoffs and targets him around picks 80 to 90. In a mock draft he was taken around pick 97 so he would not get sniped. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1568), [09-25](https://youtu.be/4gw4W4RTolY?t=1170), [09-09](https://youtu.be/7BllEsdNLoM?t=2085), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2012), [09-10](https://youtu.be/W-R1dzem32s?t=1778), [08-11](https://youtu.be/OdDkXFhoKsc?t=2354))
 - He fits as a last starter or bench guard who adds points, threes and assists. (verdict, 2026-09-17; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1569), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2012))
 - One expert said he would not draft him as high as his 63rd post-deadline finish because of his age. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1607))
-- Atlanta plays 4-4-3 games in our playoff weeks 19 to 21 and has 14 back-to-backs. Resting players is not a concern for the team. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739), [07-14](https://youtu.be/xHRF06_E9HE?t=230))
+- He re-signed with the Hawks on a 1-year, 21 million USD deal. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=757), [06-28](https://youtu.be/RsjGTgJiKyI?t=553))
 
 **Durable**
-- He is a score-first guard, not a pure point guard. His fantasy value comes mainly from points and threes. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=355), stats)
 - He is an inconsistent free throw shooter and gives few defensive stats. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1976))
+- He is a score-first guard, not a pure point guard. His fantasy value comes mainly from points and threes. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=355), stats)
 
 **Tags**
 - Current: `sleeper` (ADP around 110 to 117 while experts call that price too low), `expert target` (Lloyd targets him at picks 80 to 90; mock pick around 97), `minutes competition` (Lu Dort is the main threat to his starting spot; newest view is that McCollum starts)

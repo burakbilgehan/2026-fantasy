@@ -3,8 +3,8 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, Yahoo | 75 | - | 46.2 (9.6) | 79.8 (2.2) | 1.5 | 12.1 | 3.4 | 3.6 | 0.8 | 0.2 | 1.7 |
 | 2026-27 proj, ESPN | 70 | 28.1 | 45.7 (11.1) | 84.3 (3.1) | 0.6 | 13.3 | 3.1 | 4.3 | 1.0 | 0.2 | 2.3 |
+| 2026-27 proj, Yahoo | 75 | - | 46.2 (9.6) | 79.8 (2.2) | 1.5 | 12.1 | 3.4 | 3.6 | 0.8 | 0.2 | 1.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,18 +29,18 @@
 **Current**
 - He is a rookie, the number 5 overall pick in the 2026 draft. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1424), [08-22](https://youtu.be/KLogvUwv_d8?t=775))
 - He is projected as the backup point guard behind Darius Garland and is not expected to start. He plays the same position as Garland. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1424), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268), [08-22](https://youtu.be/KLogvUwv_d8?t=775), [07-21](https://youtu.be/RyzcCGChYgs?t=1922))
-- The guard rotation is crowded with Garland, Beal, Dunn, Sanders and Strus. He is expected to play around 25 minutes and is probably not a 30-minute player. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1730), [07-21](https://youtu.be/RyzcCGChYgs?t=1922))
 - The Clippers may treat this as a trial season with long rotations, and coach Ty Lue often changes his rotation choices. This makes his minutes hard to predict. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
 - Experts say he should not be drafted in standard formats. He is more likely to finish outside the top 250 than inside the top 100, and his Yahoo ADP of 117 is too high. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1424), [09-03](https://youtu.be/OBwWCxG9SqM?t=1730))
 - He is only a stash option around pick 170 in 16-team leagues. His value is higher in dynasty formats. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1459))
 - The Clippers have a good fantasy playoff schedule (4-3-4 games in weeks 19 to 21 for a March 28 end) and one of the lowest back-to-back totals in the league with 13. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
+- The guard rotation is crowded with Garland, Beal, Dunn, Sanders and Strus. He is expected to play around 25 minutes and is probably not a 30-minute player. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1730), [07-21](https://youtu.be/RyzcCGChYgs?t=1922))
 
 **Durable**
-- He is a skilled, high-IQ guard who can pull up off screens and catch and shoot. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1514), [06-22](https://youtu.be/HxQjagSTTAM?t=277))
 - His lack of athleticism is a concern. He did not dunk once at Illinois. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1444), [08-22](https://youtu.be/KLogvUwv_d8?t=1514), [06-22](https://youtu.be/HxQjagSTTAM?t=277))
 - He is expected to shoot very poorly and have efficiency problems. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1444))
-- His play is inconsistent. He looked terrible at times but had some high-level scoring games. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1326), [07-21](https://youtu.be/RyzcCGChYgs?t=1922))
+- He is a skilled, high-IQ guard who can pull up off screens and catch and shoot. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1514), [06-22](https://youtu.be/HxQjagSTTAM?t=277))
 - He played better defense than expected at Summer League. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1514))
+- His play is inconsistent. He looked terrible at times but had some high-level scoring games. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1326), [07-21](https://youtu.be/RyzcCGChYgs?t=1922))
 
 **Tags**
 - Current: `rookie` (No. 5 overall pick in 2026), `minutes competition` (Backup PG behind Garland; Beal, Dunn, Sanders and Strus also in the guard rotation), `waiver watch` (Not draftable in standard formats; watch his minutes and efficiency), `bust candidate` (Yahoo ADP 117 is too high), `good playoff schedule` (LAC 4-3-4 in weeks 19 to 21), `few back-to-backs` (LAC has 13 back-to-backs)

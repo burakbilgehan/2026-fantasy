@@ -8,16 +8,16 @@ No NBA stats and no projections in our data.
 | 2026-27 | 0 | - | 602 | - | - | - | not drafted |
 
 **Current**
-- Indiana took him with the 38th pick, through a draft-night trade with the Bulls. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=981))
-- His contract is not settled yet. He will stay with the team on either a minimum deal or a two-way contract. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=194))
 - He is behind T.J. McConnell at backup guard. He is not in the projected bench rotation of Oubre, Toppin, Huff, McConnell and Jarace Walker. (fact, 2026-10-01; [06-26](https://youtu.be/CLsUc0Sevos?t=981), [10-01](https://youtu.be/EGdhmUgPAWY?t=1308))
+- His contract is not settled yet. He will stay with the team on either a minimum deal or a two-way contract. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=194))
 - In Summer League he averaged 7 assists but only 6 points in 27 minutes. He had low usage and shot poorly. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1359))
+- Indiana took him with the 38th pick, through a draft-night trade with the Bulls. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=981))
 - In dynasty rookie rankings for the 2026 draft class he is rank 43, tier 7. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=981))
 
 **Durable**
 - He is one of the best passers in his draft class. (verdict, 2026-07-23; [06-26](https://youtu.be/CLsUc0Sevos?t=981), [07-23](https://youtu.be/LUTYUdXBG1M?t=1359))
-- He is undersized for an NBA guard. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=981))
 - Scoring is his weak point. He plays on low usage and his shooting is poor. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1359))
+- He is undersized for an NBA guard. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=981))
 
 **Tags**
 - Current: `rookie` (2026 second-round pick (38th), acquired by Indiana from Chicago)

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 75 | 34.1 | 53.5 (19.8) | 87.4 (8.7) | 1.3 | 30.1 | 5.5 | 6.2 | 2.0 | 0.9 | 2.2 |
-| 2024-25 | 76 | 34.2 | 51.9 (21.8) | 89.8 (8.8) | 2.1 | 32.7 | 5.0 | 6.4 | 1.7 | 1.0 | 2.4 |
-| 2025-26 | 68 | 33.2 | 55.3 (19.4) | 87.9 (9.0) | 1.7 | 31.1 | 4.3 | 6.6 | 1.4 | 0.8 | 2.2 |
-| 2026-27 proj, Yahoo | 73 | - | 53.7 (20.0) | 88.5 (8.7) | 1.7 | 30.9 | 4.6 | 6.3 | 1.6 | 0.9 | 2.2 |
 | 2026-27 proj, ESPN | 76 | 33.8 | 53.6 (20.3) | 88.3 (8.8) | 1.7 | 31.2 | 4.9 | 6.4 | 1.7 | 0.9 | 2.3 |
+| 2026-27 proj, Yahoo | 73 | - | 53.7 (20.0) | 88.5 (8.7) | 1.7 | 30.9 | 4.6 | 6.3 | 1.6 | 0.9 | 2.2 |
+| 2025-26 | 68 | 33.2 | 55.3 (19.4) | 87.9 (9.0) | 1.7 | 31.1 | 4.3 | 6.6 | 1.4 | 0.8 | 2.2 |
+| 2024-25 | 76 | 34.2 | 51.9 (21.8) | 89.8 (8.8) | 2.1 | 32.7 | 5.0 | 6.4 | 1.7 | 1.0 | 2.4 |
+| 2023-24 | 75 | 34.1 | 53.5 (19.8) | 87.4 (8.7) | 1.3 | 30.1 | 5.5 | 6.2 | 2.0 | 0.9 | 2.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -33,18 +33,18 @@
 - There are reports that he will do more off-ball work this season. He already did some of it for Team Canada. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=195))
 - The off-ball role could mean fewer assists, fewer shots or more threes, or it could change nothing. It is worth watching early in the season. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=195))
 - OKC traded Lu Dort, Isaiah Joe and Aaron Wiggins without taking salary back. More guard minutes go to Ajay Mitchell, Cason Wallace and Jared McCain, which may be why he is doing more off-ball work. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=202), [07-26](https://youtu.be/75Sk_4fkgIM?t=818), [08-30](https://youtu.be/Alwse2uXzD4?t=1728), [07-21](https://youtu.be/RyzcCGChYgs?t=1024))
-- Experts expect OKC to push its core players to shoot more threes this season. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2333))
-- He is projected at about 33 minutes and 33 percent usage. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=384))
-- He is a tier 1 guard and a top 4 pick in 9-cat. His efficiency edge over Luka Doncic makes him worth considering ahead of Luka in category leagues. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=387), [08-19](https://youtu.be/J1Eg3uaAICU?t=328), [09-09](https://youtu.be/7BllEsdNLoM?t=384))
 - He went third in a 9-cat expert mock draft. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=195))
+- He is a tier 1 guard and a top 4 pick in 9-cat. His efficiency edge over Luka Doncic makes him worth considering ahead of Luka in category leagues. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=387), [08-19](https://youtu.be/J1Eg3uaAICU?t=328), [09-09](https://youtu.be/7BllEsdNLoM?t=384))
+- He is projected at about 33 minutes and 33 percent usage. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=384))
+- Experts expect OKC to push its core players to shoot more threes this season. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2333))
 
 **Durable**
-- He has won back-to-back MVP awards. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1574))
-- He has improved every year, including a big playmaking leap last season. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1574))
-- He takes few threes. He is elite at contested mid-range jumpers, and these count as efficient shots for him. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2263))
 - Points, FG%, FT% and steals are league outliers. His FG% and FT% come on high volume, so he lifts both team ratios clearly. (fact, 2026-10-04; stats, [07-07](https://youtu.be/ME-r173X5b0?t=2228))
 - His weakest categories are rebounds, blocks and threes, but none of them is a real weakness for a guard. (verdict, 2026-10-04; [09-23](https://youtu.be/C4vlgpJ62NI?t=1778), stats)
 - He has stayed healthy over the last couple of seasons. Injury worries about him are older. (fact, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=211))
+- He has won back-to-back MVP awards. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1574))
+- He has improved every year, including a big playmaking leap last season. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1574))
+- He takes few threes. He is elite at contested mid-range jumpers, and these count as efficient shots for him. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2263))
 
 **Tags**
 - Current: none

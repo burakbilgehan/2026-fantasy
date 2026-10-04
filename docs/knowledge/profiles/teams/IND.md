@@ -17,18 +17,18 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Jay Huff is the backup center. Micah Potter is gone. (fact, 2026-10-01; [09-14](https://youtu.be/t4n9MAP2_14?t=1534), [07-20](https://youtu.be/-KS_AZjZnw4?t=1526), [10-01](https://youtu.be/EGdhmUgPAWY?t=1308))
 - How Carlisle splits center minutes between Zubac and Huff is a big open question. There may be more experimenting at backup center than in past years. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=170), [08-10](https://youtu.be/sfCe7fS9daM?t=1287))
 - Center depth behind Huff is weak: Larry Nance Jr. or Kobe Brown. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1884))
+- Fantasy playoff schedule for our March 28 end is 3-4-3 games, with one back-to-back in each of weeks 20 and 21. That is not ideal. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034), stats)
+- Indiana has 15 back-to-backs, a middle-of-the-league count. With Carlisle's habit of resting players on back-to-backs, expect some missed games from the starters. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034), [09-16](https://youtu.be/2A2JbUN-kc0?t=870), stats)
 - Lloyd expects Carlisle to manage Haliburton's minutes early in the season. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=2289))
 - This lineup loses a lot of shooting but should be better on defense. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=532))
 - Being close to the first apron limited the team's offseason spending. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=320))
 - Indiana is expected to be a good team. Tony projects 47 to 48 wins. Josh projects 46 wins and a top-six seed in the East. Low risk of tanking. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1611), [08-10](https://youtu.be/sfCe7fS9daM?t=1748), [07-30](https://youtu.be/TiiaNZCJNs8?t=2050), [07-20](https://youtu.be/-KS_AZjZnw4?t=1526), stats)
 - The window with this core may only be one or two years. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1508))
-- Fantasy playoff schedule for our March 28 end is 3-4-3 games, with one back-to-back in each of weeks 20 and 21. That is not ideal. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034), stats)
-- Indiana has 15 back-to-backs, a middle-of-the-league count. With Carlisle's habit of resting players on back-to-backs, expect some missed games from the starters. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034), [09-16](https://youtu.be/2A2JbUN-kc0?t=870), stats)
 
 **Durable**
 - Coach Rick Carlisle keeps regular-season minutes low, even for healthy players. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=122), [09-22](https://youtu.be/QbdrhJd7LiA?t=264), [09-16](https://youtu.be/2A2JbUN-kc0?t=870), [08-10](https://youtu.be/sfCe7fS9daM?t=1146))
-- Carlisle rests players on back-to-backs. (fact, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=870))
 - Carlisle limits his starting center's minutes and runs backup centers through the rotation, as he did with Myles Turner. Center minutes changed constantly last season. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=170), [09-14](https://youtu.be/t4n9MAP2_14?t=1534), [08-10](https://youtu.be/sfCe7fS9daM?t=1146))
+- Carlisle rests players on back-to-backs. (fact, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=870))
 
 **Tags**
 - Current: `bad playoff schedule` (3-4-3 games in weeks 19 to 21 (10 total, rank 17 of 30), with back-to-backs in weeks 20 and 21.), `minutes limit` (Carlisle keeps minutes low for healthy players, mostly starting centers (Zubac). Haliburton expected to be managed early.), `winning team` (Projected 46 to 48 wins and a top-six East seed. Win total 44.5.)

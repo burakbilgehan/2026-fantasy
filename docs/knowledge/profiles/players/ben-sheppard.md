@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 57 | 14.3 | 39.3 (4.0) | 88.5 (0.5) | 0.9 | 4.4 | 1.6 | 0.9 | 0.6 | 0.0 | 0.3 |
-| 2024-25 | 63 | 19.5 | 41.8 (4.6) | 88.9 (0.4) | 1.1 | 5.3 | 2.8 | 1.3 | 0.6 | 0.2 | 0.3 |
-| 2025-26 | 65 | 21.4 | 43.4 (6.0) | 76.5 (0.8) | 1.3 | 7.1 | 3.0 | 1.8 | 0.6 | 0.1 | 0.6 |
-| 2026-27 proj, Yahoo | 63 | - | 40.3 (5.2) | 79.5 (0.6) | 1.0 | 5.7 | 2.7 | 1.5 | 0.5 | 0.2 | 0.7 |
 | 2026-27 proj, ESPN | 62 | 18.7 | 41.8 (4.9) | 83.9 (0.5) | 1.1 | 5.6 | 2.5 | 1.4 | 0.6 | 0.1 | 0.4 |
+| 2026-27 proj, Yahoo | 63 | - | 40.3 (5.2) | 79.5 (0.6) | 1.0 | 5.7 | 2.7 | 1.5 | 0.5 | 0.2 | 0.7 |
+| 2025-26 | 65 | 21.4 | 43.4 (6.0) | 76.5 (0.8) | 1.3 | 7.1 | 3.0 | 1.8 | 0.6 | 0.1 | 0.6 |
+| 2024-25 | 63 | 19.5 | 41.8 (4.6) | 88.9 (0.4) | 1.1 | 5.3 | 2.8 | 1.3 | 0.6 | 0.2 | 0.3 |
+| 2023-24 | 57 | 14.3 | 39.3 (4.0) | 88.5 (0.5) | 0.9 | 4.4 | 1.6 | 0.9 | 0.6 | 0.0 | 0.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -31,12 +31,12 @@
 
 **Current**
 - He is not in the projected starting five or the named bench rotation (Oubre, Toppin, Huff, McConnell, Jarace Walker). (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=238), [10-01](https://youtu.be/EGdhmUgPAWY?t=1308))
-- The team trusts him. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=344))
 - The newest preview expects him to be bad for fantasy this season. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1771))
+- The team trusts him. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=344))
 
 **Durable**
-- His fantasy ceiling is limited. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=344))
 - He is a low-usage role player who adds little in counting stats. His only plus is few turnovers, and that comes from low volume. (verdict, 2026-10-04; stats)
+- His fantasy ceiling is limited. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=344))
 
 **Tags**
 - Current: none

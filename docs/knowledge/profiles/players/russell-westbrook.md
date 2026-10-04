@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 68 | 22.4 | 45.4 (9.8) | 68.8 (2.4) | 0.6 | 11.1 | 5.0 | 4.5 | 1.1 | 0.3 | 2.1 |
-| 2024-25 | 75 | 27.9 | 44.9 (11.1) | 66.1 (3.1) | 1.3 | 13.3 | 4.9 | 6.1 | 1.4 | 0.5 | 3.2 |
-| 2025-26 | 64 | 29.0 | 42.7 (13.1) | 69.4 (2.9) | 2.0 | 15.2 | 5.4 | 6.7 | 1.3 | 0.2 | 3.3 |
 | 2026-27 proj, Yahoo | 65 | - | 46.9 (7.6) | 74.2 (1.8) | 1.0 | 9.5 | 3.3 | 3.8 | 0.9 | 0.4 | 1.0 |
+| 2025-26 | 64 | 29.0 | 42.7 (13.1) | 69.4 (2.9) | 2.0 | 15.2 | 5.4 | 6.7 | 1.3 | 0.2 | 3.3 |
+| 2024-25 | 75 | 27.9 | 44.9 (11.1) | 66.1 (3.1) | 1.3 | 13.3 | 4.9 | 6.1 | 1.4 | 0.5 | 3.2 |
+| 2023-24 | 68 | 22.4 | 45.4 (9.8) | 68.8 (2.4) | 0.6 | 11.1 | 5.0 | 4.5 | 1.1 | 0.3 | 2.1 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,8 +30,8 @@
 
 **Current**
 - He is unsigned. He is not on the Sacramento roster, and the team shows no interest in bringing him back. (fact, 2026-07-31; [07-13](https://youtu.be/Rqb5GdrSweY?t=1958), [07-31](https://youtu.be/oEywzBZfAvY?t=500), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1326), [09-16](https://youtu.be/2A2JbUN-kc0?t=636))
-- The expert does not expect him to have a fantasy impact this season. (verdict, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=1958))
 - His role and value depend on whether he signs with a team and where. (verdict, 2026-07-31; [07-13](https://youtu.be/Rqb5GdrSweY?t=1958), [07-31](https://youtu.be/oEywzBZfAvY?t=500))
+- The expert does not expect him to have a fantasy impact this season. (verdict, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=1958))
 
 **Durable**
 - Experts see him as a weak shooter. Kings passers had a low assist conversion rate with him on the floor because he could not make shots. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1820))

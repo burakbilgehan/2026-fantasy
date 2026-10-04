@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 61 | 17.1 | 59.2 (6.5) | 69.2 (1.7) | 1.0 | 9.9 | 5.5 | 1.0 | 0.3 | 0.6 | 0.7 |
-| 2024-25 | 64 | 15.1 | 46.6 (6.4) | 80.9 (1.4) | 1.1 | 8.2 | 5.6 | 1.0 | 0.3 | 0.7 | 0.6 |
-| 2025-26 | 53 | 20.6 | 48.3 (7.6) | 74.2 (1.8) | 1.5 | 10.2 | 6.7 | 1.2 | 0.5 | 0.8 | 1.0 |
-| 2026-27 proj, Yahoo | 58 | - | 47.2 (7.3) | 78.6 (1.7) | 1.3 | 9.5 | 6.4 | 1.3 | 0.6 | 0.8 | 1.3 |
 | 2026-27 proj, ESPN | 66 | 19.5 | 48.5 (7.3) | 75.0 (1.7) | 1.4 | 9.8 | 6.4 | 1.2 | 0.4 | 0.8 | 0.9 |
+| 2026-27 proj, Yahoo | 58 | - | 47.2 (7.3) | 78.6 (1.7) | 1.3 | 9.5 | 6.4 | 1.3 | 0.6 | 0.8 | 1.3 |
+| 2025-26 | 53 | 20.6 | 48.3 (7.6) | 74.2 (1.8) | 1.5 | 10.2 | 6.7 | 1.2 | 0.5 | 0.8 | 1.0 |
+| 2024-25 | 64 | 15.1 | 46.6 (6.4) | 80.9 (1.4) | 1.1 | 8.2 | 5.6 | 1.0 | 0.3 | 0.7 | 0.6 |
+| 2023-24 | 61 | 17.1 | 59.2 (6.5) | 69.2 (1.7) | 1.0 | 9.9 | 5.5 | 1.0 | 0.3 | 0.6 | 0.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -34,10 +34,10 @@
 - Claxton is about 90% sure to start over him. The expert does not expect Smith to start. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=281), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1617))
 - The projected bench order is Tre Jones, then Isaac Okoro, then Jalen Smith, then Buddy Hield. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1383))
 - If he starts, he becomes a must-roster player because of his shooting and blocks. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1617))
-- Chicago has enough centers to cover a Claxton absence. Smith is one of the players who would get those minutes. (fact, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=155), [06-23](https://youtu.be/9tb1ARBEmQU?t=829))
-- His strong March and April numbers from last season should not be trusted for this season. (verdict, 2026-06-23; [06-23](https://youtu.be/9tb1ARBEmQU?t=914))
 - He is a late swing pick. He is an easy draft in 16-team leagues and a debatable one in 14-team leagues. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1647))
+- Chicago has enough centers to cover a Claxton absence. Smith is one of the players who would get those minutes. (fact, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=155), [06-23](https://youtu.be/9tb1ARBEmQU?t=829))
 - If Leonard Miller works out, Smith could become expendable and might be traded. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1554))
+- His strong March and April numbers from last season should not be trusted for this season. (verdict, 2026-06-23; [06-23](https://youtu.be/9tb1ARBEmQU?t=914))
 
 **Durable**
 - His fantasy appeal comes from his shooting and his blocks. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1617))

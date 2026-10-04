@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 46 | 9.8 | 47.1 (3.4) | 73.5 (0.7) | 0.4 | 4.1 | 3.2 | 1.1 | 0.2 | 0.3 | 0.4 |
-| 2024-25 | 61 | 11.2 | 50.2 (4.6) | 74.1 (1.0) | 1.0 | 6.3 | 3.1 | 0.8 | 0.4 | 0.3 | 0.4 |
-| 2025-26 | 80 | 21.9 | 52.3 (7.9) | 74.7 (2.0) | 1.4 | 11.2 | 4.9 | 1.9 | 0.8 | 0.5 | 0.8 |
 | 2026-27 proj, Yahoo | 74 | - | 47.9 (9.1) | 74.4 (2.2) | 1.9 | 12.2 | 5.9 | 2.2 | 0.8 | 0.4 | 1.4 |
+| 2025-26 | 80 | 21.9 | 52.3 (7.9) | 74.7 (2.0) | 1.4 | 11.2 | 4.9 | 1.9 | 0.8 | 0.5 | 0.8 |
+| 2024-25 | 61 | 11.2 | 50.2 (4.6) | 74.1 (1.0) | 1.0 | 6.3 | 3.1 | 0.8 | 0.4 | 0.3 | 0.4 |
+| 2023-24 | 46 | 9.8 | 47.1 (3.4) | 73.5 (0.7) | 0.4 | 4.1 | 3.2 | 1.1 | 0.2 | 0.3 | 0.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,13 +29,13 @@
 </details>
 
 **Current**
-- He left the Raptors and joined the Lakers this offseason. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=413))
-- Walker Kessler is the Lakers' starting center. Mamukelashvili projects as the backup center, with some minutes at the four next to Kessler. Kevon Looney is the other backup center option. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2336), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2316), [08-04](https://youtu.be/_WjOjp6Qu8E?t=520))
 - The Lakers have two open starting spots, mainly between Grimes, LaRavia and Mamukelashvili. Ziaire Williams might also start. J.J. Redick's rotation choices are unclear. (fact, 2026-09-30; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669), [09-30](https://youtu.be/BjXP9JODDSg?t=2070), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2316))
-- Whoever of the starting candidates comes off the bench should still play about 27 minutes. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669))
+- Walker Kessler is the Lakers' starting center. Mamukelashvili projects as the backup center, with some minutes at the four next to Kessler. Kevon Looney is the other backup center option. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2336), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2316), [08-04](https://youtu.be/_WjOjp6Qu8E?t=520))
 - His minutes should go up this season. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2336), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2316))
-- If Kessler is out, the Lakers would have to rely on Looney or Mamukelashvili at center. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1701))
 - He is worth a late-round flyer, more so if he starts. One expert loves taking him in tier nine. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2340), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2336))
+- He left the Raptors and joined the Lakers this offseason. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=413))
+- Whoever of the starting candidates comes off the bench should still play about 27 minutes. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669))
+- If Kessler is out, the Lakers would have to rely on Looney or Mamukelashvili at center. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1701))
 
 **Durable**
 - He is a good shooter. His value comes from volume and efficient three-point shooting, and his offensive underlying numbers are strong. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2337), [07-02](https://youtu.be/P6TNP-g0wzY?t=1995), [08-20](https://youtu.be/s28HvC2grAk?t=413))

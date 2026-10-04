@@ -26,18 +26,18 @@
 </details>
 
 **Current**
-- He is a rookie from the 2026 draft class. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=382), [06-22](https://youtu.be/HxQjagSTTAM?t=786))
-- If he earns a role, he could make about 2.5 threes in 20 minutes and add little else. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1384))
-- His dynasty rookie rank stayed at 31 after Summer League. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=382))
-- In Summer League, 10 of his 14 shots were threes, and he shot 21%. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1384))
 - Minnesota's bench is thin, with little scoring punch and no ball handlers. (fact, 2026-10-02; [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [10-02](https://youtu.be/ZYllcj4o6_A?t=2323))
 - Minnesota has a two-game week in the matchup starting March 15, which falls inside our fantasy playoffs. Experts call it the worst playoff schedule. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
+- He is a rookie from the 2026 draft class. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=382), [06-22](https://youtu.be/HxQjagSTTAM?t=786))
+- His dynasty rookie rank stayed at 31 after Summer League. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=382))
+- If he earns a role, he could make about 2.5 threes in 20 minutes and add little else. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1384))
+- In Summer League, 10 of his 14 shots were threes, and he shot 21%. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1384))
 
 **Durable**
 - He is a pure volume three-point shooter. He takes a huge share of his shots from three. (fact, 2026-08-02; [07-21](https://youtu.be/RyzcCGChYgs?t=1384), [08-02](https://youtu.be/TOn-D1SV7a8?t=382), [06-22](https://youtu.be/HxQjagSTTAM?t=786))
+- Besides threes, he adds little in other categories. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1384))
 - Before the draft he made his threes at a high rate. (fact, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=786))
 - He is an older prospect. (fact, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=786))
-- Besides threes, he adds little in other categories. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1384))
 
 **Tags**
 - Current: `rookie` (2026 draft class, dynasty rookie rank 31), `bad playoff schedule` (Minnesota two-game week starting March 15), `waiver watch` (only if he earns about 20 minutes as a bench shooter)

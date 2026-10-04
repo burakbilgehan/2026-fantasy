@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 70 | 33.9 | 48.7 (13.6) | 87.8 (3.0) | 1.3 | 17.2 | 6.5 | 3.1 | 1.0 | 0.7 | 1.3 |
-| 2024-25 | 73 | 31.6 | 47.7 (11.0) | 86.1 (2.3) | 1.2 | 13.7 | 5.9 | 2.2 | 1.0 | 0.8 | 1.2 |
-| 2025-26 | 63 | 27.8 | 46.9 (10.5) | 86.6 (2.5) | 1.3 | 13.3 | 5.1 | 2.5 | 0.9 | 0.4 | 1.0 |
-| 2026-27 proj, Yahoo | 71 | - | 47.2 (9.0) | 86.9 (2.2) | 1.1 | 11.4 | 4.5 | 2.1 | 0.8 | 0.5 | 1.0 |
 | 2026-27 proj, ESPN | 71 | 30.5 | 47.7 (11.5) | 86.5 (2.6) | 1.3 | 14.5 | 5.7 | 2.6 | 1.0 | 0.6 | 1.1 |
+| 2026-27 proj, Yahoo | 71 | - | 47.2 (9.0) | 86.9 (2.2) | 1.1 | 11.4 | 4.5 | 2.1 | 0.8 | 0.5 | 1.0 |
+| 2025-26 | 63 | 27.8 | 46.9 (10.5) | 86.6 (2.5) | 1.3 | 13.3 | 5.1 | 2.5 | 0.9 | 0.4 | 1.0 |
+| 2024-25 | 73 | 31.6 | 47.7 (11.0) | 86.1 (2.3) | 1.2 | 13.7 | 5.9 | 2.2 | 1.0 | 0.8 | 1.2 |
+| 2023-24 | 70 | 33.9 | 48.7 (13.6) | 87.8 (3.0) | 1.3 | 17.2 | 6.5 | 3.1 | 1.0 | 0.7 | 1.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,14 +30,14 @@
 </details>
 
 **Current**
-- Harris signed with the San Antonio Spurs. He takes Harrison Barnes's place in the rotation. (fact, 2026-09-19; [07-02](https://youtu.be/P6TNP-g0wzY?t=2336), [08-24](https://youtu.be/g31YlwRe0XQ?t=2577), [09-19](https://youtu.be/uarqbNA2dFk?t=2513), [07-05](https://youtu.be/4kKINkZhWls?t=3529))
-- He is projected to start at power forward next to Fox, Castle, Vassell and Wembanyama. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=524), [08-27](https://youtu.be/ZAyie8lKyYc?t=524))
-- The Spurs are very deep at forward and on the wing, so his minutes have real competition. A consolidation trade is expected in the relatively near future, but not right now. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1601), [08-27](https://youtu.be/ZAyie8lKyYc?t=1306), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312))
-- His rim finishing fell from 68 to 58 percent last season. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1207))
-- His rim finishing might bounce back in the Spurs offense. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1207))
 - Experts see him as a late pick with limited upside who should return value around picks 140 to 165. One expert would rather wait until round 14, and another says he is not worth a round 10 pick. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2269), [09-15](https://youtu.be/KPdD91Oo8-U?t=2376), [08-24](https://youtu.be/g31YlwRe0XQ?t=2577))
 - He is not an upside flyer. Draft him late only if you need a steady 16 point, 5 rebound forward. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=2590))
+- Harris signed with the San Antonio Spurs. He takes Harrison Barnes's place in the rotation. (fact, 2026-09-19; [07-02](https://youtu.be/P6TNP-g0wzY?t=2336), [08-24](https://youtu.be/g31YlwRe0XQ?t=2577), [09-19](https://youtu.be/uarqbNA2dFk?t=2513), [07-05](https://youtu.be/4kKINkZhWls?t=3529))
+- The Spurs are very deep at forward and on the wing, so his minutes have real competition. A consolidation trade is expected in the relatively near future, but not right now. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1601), [08-27](https://youtu.be/ZAyie8lKyYc?t=1306), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312))
 - His ESPN rank of 94 is too high because the Spurs are deep. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2513))
+- He is projected to start at power forward next to Fox, Castle, Vassell and Wembanyama. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=524), [08-27](https://youtu.be/ZAyie8lKyYc?t=524))
+- His rim finishing fell from 68 to 58 percent last season. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1207))
+- His rim finishing might bounce back in the Spurs offense. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1207))
 
 **Durable**
 - He is a very good defensive rebounder for a power forward. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=321))

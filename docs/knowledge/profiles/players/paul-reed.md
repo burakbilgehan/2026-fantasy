@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 82 | 19.4 | 54.0 (5.9) | 71.8 (1.0) | 0.3 | 7.3 | 6.0 | 1.3 | 0.8 | 1.0 | 0.8 |
-| 2024-25 | 45 | 9.8 | 50.7 (3.2) | 76.2 (0.9) | 0.2 | 4.1 | 2.7 | 1.0 | 0.9 | 0.6 | 0.6 |
-| 2025-26 | 65 | 13.8 | 61.7 (5.2) | 66.4 (1.7) | 0.2 | 7.8 | 4.5 | 1.2 | 0.9 | 0.9 | 0.9 |
-| 2026-27 proj, Yahoo | 66 | - | 56.8 (6.2) | 70.8 (2.0) | 0.3 | 8.7 | 5.6 | 1.6 | 1.1 | 1.1 | 1.1 |
 | 2026-27 proj, ESPN | 63 | 13.8 | 60.4 (5.1) | 67.3 (1.6) | 0.2 | 7.4 | 4.4 | 1.2 | 0.9 | 0.9 | 0.9 |
+| 2026-27 proj, Yahoo | 66 | - | 56.8 (6.2) | 70.8 (2.0) | 0.3 | 8.7 | 5.6 | 1.6 | 1.1 | 1.1 | 1.1 |
+| 2025-26 | 65 | 13.8 | 61.7 (5.2) | 66.4 (1.7) | 0.2 | 7.8 | 4.5 | 1.2 | 0.9 | 0.9 | 0.9 |
+| 2024-25 | 45 | 9.8 | 50.7 (3.2) | 76.2 (0.9) | 0.2 | 4.1 | 2.7 | 1.0 | 0.9 | 0.6 | 0.6 |
+| 2023-24 | 82 | 19.4 | 54.0 (5.9) | 71.8 (1.0) | 0.3 | 7.3 | 6.0 | 1.3 | 0.8 | 1.0 | 0.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -36,14 +36,14 @@
 - Duren's return limits his upside. If Duren plays about 28 minutes, Reed should play about 20. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1499), [10-02](https://youtu.be/ZYllcj4o6_A?t=1708), [08-11](https://youtu.be/OdDkXFhoKsc?t=2414))
 - If Duren misses time and Reed plays about 28 minutes, he could be a top 40 to 50 player. That makes him Detroit's stash option. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1846), [08-11](https://youtu.be/OdDkXFhoKsc?t=1567))
 - The newest preview still calls him a must-draft player in 14-team leagues, but now prefers him around round 13 instead of rounds 10 to 11. It calls his ESPN rank of 241 far too low. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1510), [10-03](https://youtu.be/_O9pc_u5vH0?t=1846), [09-24](https://youtu.be/_vbAP5y182A?t=2090), [09-30](https://youtu.be/BjXP9JODDSg?t=829))
-- Experts rate his play last season as excellent in both the regular season and the playoffs. They say he clearly outplayed Duren and Stewart, and the Pistons see him as better than Stewart. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=432), [06-30](https://youtu.be/4GDfg2n2l8o?t=895))
 - For a season ending March 28, Detroit plays 4, 3 and 4 games in the fantasy playoff weeks. The team has 15 back-to-backs, and no rest risk is expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
+- Experts rate his play last season as excellent in both the regular season and the playoffs. They say he clearly outplayed Duren and Stewart, and the Pistons see him as better than Stewart. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=432), [06-30](https://youtu.be/4GDfg2n2l8o?t=895))
 
 **Durable**
-- He is an excellent per-minute producer. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1524), [08-11](https://youtu.be/OdDkXFhoKsc?t=1556), [06-30](https://youtu.be/4GDfg2n2l8o?t=895))
-- He cannot carry the load of a 30-minute starter. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=895))
-- He has always posted high block rates per possession. 29% of his rim contests become blocks. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=713))
 - His value comes from efficient FG%, blocks, steals and few turnovers. He makes almost no threes and adds little in points and assists. (fact, 2026-10-04; stats)
+- He is an excellent per-minute producer. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1524), [08-11](https://youtu.be/OdDkXFhoKsc?t=1556), [06-30](https://youtu.be/4GDfg2n2l8o?t=895))
+- He has always posted high block rates per possession. 29% of his rim contests become blocks. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=713))
+- He cannot carry the load of a 30-minute starter. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=895))
 
 **Tags**
 - Current: `handcuff` (Backup to Jalen Duren. Could be a top 40 to 50 player if Duren misses time), `flyer` (Late-round stash behind Duren), `role up` (Moves from third-string center to backup, about 20 minutes), `sites disagree on price` (Yahoo rank 165, ESPN rank 241. The expert calls ESPN far too low)

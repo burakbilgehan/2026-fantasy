@@ -3,9 +3,9 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 25 | 10.0 | 41.5 (3.3) | 100.0 (0.8) | 0.8 | 4.2 | 1.2 | 1.4 | 0.4 | 0.0 | 0.2 |
-| 2025-26 | 72 | 23.8 | 47.3 (7.7) | 94.0 (1.9) | 2.0 | 11.1 | 2.5 | 5.6 | 0.7 | 0.2 | 1.3 |
 | 2026-27 proj, Yahoo | 67 | - | 45.2 (7.5) | 91.7 (1.8) | 1.8 | 10.2 | 2.5 | 5.2 | 0.7 | 0.1 | 1.3 |
+| 2025-26 | 72 | 23.8 | 47.3 (7.7) | 94.0 (1.9) | 2.0 | 11.1 | 2.5 | 5.6 | 0.7 | 0.2 | 1.3 |
+| 2024-25 | 25 | 10.0 | 41.5 (3.3) | 100.0 (0.8) | 0.8 | 4.2 | 1.2 | 1.4 | 0.4 | 0.0 | 0.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -28,15 +28,15 @@
 </details>
 
 **Current**
+- He is not a draft target in a 144-player league. At most he is a 1 USD late pick. He is more of a waiver watch if he wins steady backup guard minutes. (verdict, 2026-10-04; stats, [07-16](https://youtu.be/-y6p5PYLf00?t=564))
 - Memphis has a crowded guard group: Javon Small, Ty Jerome, Scotty Pippen Jr., Facundo Campazzo and Spencer. Ty Jerome is expected to start at point guard, and Joe's projected starting five does not include Spencer. (fact, 2026-08-17; [07-16](https://youtu.be/-y6p5PYLf00?t=564), [07-16](https://youtu.be/-y6p5PYLf00?t=557), [07-17](https://youtu.be/NYTH7uQsPCM?t=1672), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483))
 - Coach Tuomas Iisalo runs an 11-man rotation with short stints and keeps minutes down. Joe expects only Cameron Boozer and Cedric Coward to top 30 minutes. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
 - Last season he shot under 36% from three and 64% at the rim. Both were down from his rookie season (45% and 73%). (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=564))
 - His minutes are uncertain. Last season he gained from absences in Memphis, and the guard group is now crowded. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=564))
-- He is not a draft target in a 144-player league. At most he is a 1 USD late pick. He is more of a waiver watch if he wins steady backup guard minutes. (verdict, 2026-10-04; stats, [07-16](https://youtu.be/-y6p5PYLf00?t=564))
 
 **Durable**
-- Joe calls him one of the most efficient mid-range and three-point shooters among NBA wings. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1147))
 - His category profile leans on FT% and assists, with few turnovers for his role. He is weak in rebounds, steals and blocks, but none of these is a league outlier. (fact, 2026-10-04; stats)
+- Joe calls him one of the most efficient mid-range and three-point shooters among NBA wings. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1147))
 
 **Tags**
 - Current: `minutes competition` (Crowded Memphis guard group: Javon Small, Ty Jerome, Scotty Pippen Jr., Campazzo; Jerome expected to start at PG), `waiver watch` (Ranked outside the 144 drafted players on Yahoo; watch for steady backup guard minutes), `sites disagree on price` (Yahoo rank 233, ESPN rank 143)

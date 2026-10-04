@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 76 | 29.1 | 50.1 (9.5) | 81.0 (1.4) | 1.6 | 12.2 | 2.8 | 3.2 | 0.9 | 0.5 | 1.4 |
-| 2024-25 | 46 | 30.3 | 49.2 (9.8) | 78.5 (1.7) | 1.3 | 12.3 | 3.5 | 4.5 | 0.9 | 0.4 | 1.5 |
-| 2025-26 | 69 | 27.3 | 51.7 (10.8) | 87.6 (2.1) | 1.8 | 14.8 | 3.4 | 3.6 | 0.8 | 0.3 | 1.4 |
-| 2026-27 proj, Yahoo | 71 | - | 49.1 (11.8) | 85.4 (2.0) | 1.7 | 15.1 | 3.6 | 3.7 | 1.0 | 0.4 | 1.5 |
 | 2026-27 proj, ESPN | 72 | 29.4 | 51.4 (11.3) | 86.8 (2.1) | 1.8 | 15.3 | 3.6 | 3.9 | 0.9 | 0.3 | 1.5 |
+| 2026-27 proj, Yahoo | 71 | - | 49.1 (11.8) | 85.4 (2.0) | 1.7 | 15.1 | 3.6 | 3.7 | 1.0 | 0.4 | 1.5 |
+| 2025-26 | 69 | 27.3 | 51.7 (10.8) | 87.6 (2.1) | 1.8 | 14.8 | 3.4 | 3.6 | 0.8 | 0.3 | 1.4 |
+| 2024-25 | 46 | 30.3 | 49.2 (9.8) | 78.5 (1.7) | 1.3 | 12.3 | 3.5 | 4.5 | 0.9 | 0.4 | 1.5 |
+| 2023-24 | 76 | 29.1 | 50.1 (9.5) | 81.0 (1.4) | 1.6 | 12.2 | 2.8 | 3.2 | 0.9 | 0.5 | 1.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,14 +30,14 @@
 </details>
 
 **Current**
-- Expected to come off the bench as a scorer and play 29 to 30 minutes. He may still play more minutes than Josh Green and close games. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=653))
+- Minnesota plays only two games in the week starting March 15, which is week 20 of our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
+- Ranked tier 8 among point guards. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2118))
 - Minnesota has four set starters: LaMelo Ball, Anthony Edwards, Jaden McDaniels and Rudy Gobert. Jonathan Kuminga is expected to start. (fact, 2026-08-26; [08-19](https://youtu.be/2mxpEpGU3H8?t=603), [08-26](https://youtu.be/sTtFUy7IoJI?t=576))
+- Expected to come off the bench as a scorer and play 29 to 30 minutes. He may still play more minutes than Josh Green and close games. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=653))
 - Minnesota's bench is thin and has little scoring punch. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=845))
-- Donte DiVincenzo is expected to miss most of the season, so Minnesota is short on guards. (fact, 2026-06-23; [06-22](https://youtu.be/HxQjagSTTAM?t=883), [06-23](https://youtu.be/9tb1ARBEmQU?t=263))
 - His usage should drop because he shares the ball with LaMelo Ball and Anthony Edwards. He is the third offensive option at best, so his upside is capped. Experts say not to pay for the hype. (verdict, 2026-07-17; [06-25](https://youtu.be/ya2VYRJ1BN0?t=470), [07-17](https://youtu.be/NYTH7uQsPCM?t=1246), [07-16](https://youtu.be/-y6p5PYLf00?t=383))
 - His 2025-26 shooting gains (3P% from 33 to 44, FT% from 78 to 88) and his 71% deflection-to-steal conversion are likely to come down. (verdict, 2026-07-17; [07-16](https://youtu.be/-y6p5PYLf00?t=383), [07-16](https://youtu.be/-y6p5PYLf00?t=1838), [07-17](https://youtu.be/NYTH7uQsPCM?t=1246))
-- Ranked tier 8 among point guards. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2118))
-- Minnesota plays only two games in the week starting March 15, which is week 20 of our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
+- Donte DiVincenzo is expected to miss most of the season, so Minnesota is short on guards. (fact, 2026-06-23; [06-22](https://youtu.be/HxQjagSTTAM?t=883), [06-23](https://youtu.be/9tb1ARBEmQU?t=263))
 
 **Durable**
 - His category line is balanced. He has no strong outlier and no weak category. (fact, 2026-10-04; stats)

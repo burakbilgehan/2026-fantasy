@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 55 | 25.5 | 52.5 (7.7) | 69.4 (2.4) | 1.2 | 11.0 | 6.9 | 1.7 | 0.6 | 0.5 | 1.2 |
-| 2024-25 | 68 | 25.9 | 46.0 (7.2) | 73.7 (2.6) | 0.5 | 9.1 | 7.2 | 2.0 | 0.8 | 0.6 | 1.1 |
-| 2025-26 | 78 | 29.4 | 51.2 (8.2) | 79.2 (3.2) | 0.9 | 11.8 | 7.4 | 2.0 | 0.8 | 0.6 | 1.3 |
-| 2026-27 proj, Yahoo | 68 | - | 50.4 (7.9) | 75.4 (2.9) | 0.9 | 11.0 | 7.4 | 2.0 | 0.8 | 0.6 | 1.2 |
 | 2026-27 proj, ESPN | 72 | 25.4 | 50.0 (7.2) | 75.9 (2.6) | 0.8 | 10.0 | 6.7 | 1.8 | 0.7 | 0.5 | 1.1 |
+| 2026-27 proj, Yahoo | 68 | - | 50.4 (7.9) | 75.4 (2.9) | 0.9 | 11.0 | 7.4 | 2.0 | 0.8 | 0.6 | 1.2 |
+| 2025-26 | 78 | 29.4 | 51.2 (8.2) | 79.2 (3.2) | 0.9 | 11.8 | 7.4 | 2.0 | 0.8 | 0.6 | 1.3 |
+| 2024-25 | 68 | 25.9 | 46.0 (7.2) | 73.7 (2.6) | 0.5 | 9.1 | 7.2 | 2.0 | 0.8 | 0.6 | 1.1 |
+| 2023-24 | 55 | 25.5 | 52.5 (7.7) | 69.4 (2.4) | 1.2 | 11.0 | 6.9 | 1.7 | 0.6 | 0.5 | 1.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -35,8 +35,8 @@
 - Orlando has a new head coach, Sean Sweeney, who replaces Jamahl Mosley. Player roles may change. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
 
 **Durable**
-- His value comes from defense that does not show up on the stat sheet. The expert says he does not help fantasy teams and needs to become a more reliable shooter. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=489))
 - He has no strong category and no weak one. Rebounds are his best category, but they are not a league outlier. (fact, 2026-10-04; stats)
+- His value comes from defense that does not show up on the stat sheet. The expert says he does not help fantasy teams and needs to become a more reliable shooter. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=489))
 
 **Tags**
 - Current: `role down` (Vucevic takes about 21 to 22 minutes as the backup center, so Carter is expected to stay under 30 minutes), `sites disagree on price` (Yahoo rank 123 and value 5 USD; ESPN rank 172 and value 0 USD)

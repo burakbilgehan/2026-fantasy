@@ -3,9 +3,9 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 69 | 20.4 | 38.4 (6.7) | 90.1 (1.8) | 1.1 | 7.8 | 2.0 | 4.0 | 0.6 | 0.3 | 1.7 |
-| 2026-27 proj, Yahoo | 69 | - | 41.1 (7.0) | 87.3 (1.8) | 1.3 | 8.6 | 2.1 | 1.4 | 0.7 | 0.3 | 1.3 |
 | 2026-27 proj, ESPN | 71 | 25.1 | 38.5 (8.2) | 90.4 (2.2) | 1.3 | 9.6 | 2.5 | 5.0 | 0.8 | 0.3 | 2.1 |
+| 2026-27 proj, Yahoo | 69 | - | 41.1 (7.0) | 87.3 (1.8) | 1.3 | 8.6 | 2.1 | 1.4 | 0.7 | 0.3 | 1.3 |
+| 2025-26 | 69 | 20.4 | 38.4 (6.7) | 90.1 (1.8) | 1.1 | 7.8 | 2.0 | 4.0 | 0.6 | 0.3 | 1.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -28,10 +28,10 @@
 </details>
 
 **Current**
-- Memphis has a crowded guard group: Javon Small, Ty Jerome, Scotty Pippen Jr., Campazzo and Cam Spencer all compete for guard minutes. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=557))
 - Ty Jerome is expected to start at point guard. Joe's projected starting five (Jerome, Coward, Grant, Boozer, Edey) does not include Clayton. (fact, 2026-08-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1672), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483))
 - Coach Tuomas Iisalo runs an 11-man rotation with short stints and keeps minutes down. Joe expects only Cameron Boozer and Cedric Coward to top 30 minutes. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
 - Memphis has too many players on guaranteed contracts and usually waives players later, so more trades or cuts are expected. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=147), [06-29](https://youtu.be/bHA-JoW3reE?t=953))
+- Memphis has a crowded guard group: Javon Small, Ty Jerome, Scotty Pippen Jr., Campazzo and Cam Spencer all compete for guard minutes. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=557))
 
 **Durable**
 - none

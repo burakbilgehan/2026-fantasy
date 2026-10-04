@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 63 | 27.3 | 43.5 (6.9) | 70.2 (2.1) | 1.0 | 8.4 | 4.1 | 1.7 | 0.9 | 0.8 | 1.4 |
-| 2024-25 | 59 | 33.0 | 42.1 (10.6) | 74.6 (3.1) | 1.1 | 12.3 | 5.0 | 3.4 | 1.3 | 0.7 | 2.1 |
-| 2025-26 | 56 | 26.2 | 42.5 (9.7) | 74.6 (3.2) | 1.2 | 11.7 | 4.3 | 2.6 | 1.3 | 1.0 | 1.4 |
-| 2026-27 proj, Yahoo | 58 | - | 42.6 (8.9) | 73.9 (2.8) | 1.1 | 10.7 | 4.2 | 2.5 | 1.2 | 0.9 | 1.6 |
 | 2026-27 proj, ESPN | 68 | 24.0 | 42.6 (8.5) | 74.5 (2.7) | 1.0 | 10.2 | 3.9 | 2.3 | 1.2 | 0.8 | 1.4 |
+| 2026-27 proj, Yahoo | 58 | - | 42.6 (8.9) | 73.9 (2.8) | 1.1 | 10.7 | 4.2 | 2.5 | 1.2 | 0.9 | 1.6 |
+| 2025-26 | 56 | 26.2 | 42.5 (9.7) | 74.6 (3.2) | 1.2 | 11.7 | 4.3 | 2.6 | 1.3 | 1.0 | 1.4 |
+| 2024-25 | 59 | 33.0 | 42.1 (10.6) | 74.6 (3.1) | 1.1 | 12.3 | 5.0 | 3.4 | 1.3 | 0.7 | 2.1 |
+| 2023-24 | 63 | 27.3 | 43.5 (6.9) | 70.2 (2.1) | 1.0 | 8.4 | 4.1 | 1.7 | 0.9 | 0.8 | 1.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,20 +30,20 @@
 </details>
 
 **Current**
-- Anthony Davis and Alex Sarr limit his minutes and his rim contests. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=749), [07-17](https://youtu.be/NYTH7uQsPCM?t=752))
-- He is likely to get fewer minutes and fewer rim contests, and his block rate could regress toward average. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=749))
-- He is not in the projected Washington starting lineup of Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
 - The fifth starter spot is unclear, with many wings competing. The roster is deep, with a 10 or 11 man rotation expected. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1586), [07-23](https://youtu.be/UTE0dNIv8nY?t=2098))
+- He is not in the projected Washington starting lineup of Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
 - His defense could make him a candidate to start at shooting guard. In past seasons the team always put him back in the lineup after injuries. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=520))
 - Josh thinks he has stalled offensively. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1037))
 - Washington is trying to compete this season, so the late-season resting and minutes cuts of past years should not return. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185))
+- Anthony Davis and Alex Sarr limit his minutes and his rim contests. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=749), [07-17](https://youtu.be/NYTH7uQsPCM?t=752))
+- He is likely to get fewer minutes and fewer rim contests, and his block rate could regress toward average. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=749))
 
 **Durable**
 - He is a good shot-blocking wing with some flashes as a passer. His blocks are clearly above average for his position. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1037), stats)
-- He converted 26.2% of his rim contests into blocks. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=749))
 - He shoots poorly. His three-point percentage was 29% by the end of last season, down from 34% as a rookie. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1037), [07-23](https://youtu.be/UTE0dNIv8nY?t=1084))
 - Shooting is what holds him back. Ben partly blames injuries for the drop. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1084))
 - He has been injury-prone. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1037))
+- He converted 26.2% of his rim contests into blocks. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=749))
 
 **Tags**
 - Current: `role down` (Anthony Davis and Alex Sarr cut his minutes and rim contests), `minutes competition` (Many wings compete for the open fifth starter spot in a deep rotation)

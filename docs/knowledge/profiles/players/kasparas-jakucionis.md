@@ -3,9 +3,9 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 53 | 17.9 | 42.9 (4.5) | 87.9 (1.2) | 1.2 | 6.2 | 2.6 | 2.6 | 0.6 | 0.1 | 0.9 |
-| 2026-27 proj, Yahoo | 75 | - | 42.0 (6.0) | 84.2 (1.5) | 1.4 | 7.7 | 3.2 | 3.4 | 0.7 | 0.2 | 1.2 |
 | 2026-27 proj, ESPN | 68 | 22.6 | 42.8 (5.7) | 88.1 (1.6) | 1.6 | 7.9 | 3.3 | 3.3 | 0.8 | 0.2 | 1.2 |
+| 2026-27 proj, Yahoo | 75 | - | 42.0 (6.0) | 84.2 (1.5) | 1.4 | 7.7 | 3.2 | 3.4 | 0.7 | 0.2 | 1.2 |
+| 2025-26 | 53 | 17.9 | 42.9 (4.5) | 87.9 (1.2) | 1.2 | 6.2 | 2.6 | 2.6 | 0.6 | 0.1 | 0.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -28,9 +28,9 @@
 </details>
 
 **Current**
+- Milwaukee's backcourt is crowded. Rollins, Herro, Porter, Burries, Trent and Green all compete with him for guard minutes. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [06-23](https://youtu.be/nnWX_ObljOE?t=243), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609))
 - He came to Milwaukee in the Giannis Antetokounmpo trade and is seen as the piece that sealed that deal. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=693))
 - Milwaukee could use him as a trade chip. Experts value him like a first-round pick. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=693))
-- Milwaukee's backcourt is crowded. Rollins, Herro, Porter, Burries, Trent and Green all compete with him for guard minutes. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [06-23](https://youtu.be/nnWX_ObljOE?t=243), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609))
 - He is not in Milwaukee's projected starting five. The projected starters are Rollins, Herro, Jaquez, Ware and Turner. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=536))
 - He put up good assist and steal numbers in Summer League. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1163))
 - He has no clear role in Milwaukee, and the expert is still skeptical about his fantasy value this season. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1163))

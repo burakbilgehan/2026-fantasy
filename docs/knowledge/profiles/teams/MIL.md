@@ -11,22 +11,22 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Jericho Sims, PF Kyle Kuzma, PG Kevin Porter Jr., SF Nate Ament, SG Brayden Burries
 
 **Current**
-- Giannis Antetokounmpo is gone. Milwaukee lost his 33% usage and Bobby Portis's shots. (fact, 2026-07-20; [06-30](https://youtu.be/4GDfg2n2l8o?t=330), [07-20](https://youtu.be/-KS_AZjZnw4?t=635))
+- The guard rotation is crowded. It includes Herro, Rollins, Kevin Porter Jr., Kasparas Jakucionis, Brayden Burries, Gary Trent Jr., AJ Green and Yuta Watanabe. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609), [06-23](https://youtu.be/nnWX_ObljOE?t=243))
 - Taylor Jenkins is the new head coach. He replaces Doc Rivers. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2436), [07-20](https://youtu.be/-KS_AZjZnw4?t=635), [06-23](https://youtu.be/nnWX_ObljOE?t=179), [08-14](https://youtu.be/owlM6b8oUd0?t=2132))
+- It is unclear whether Jenkins will give Ware a fantasy-friendly role or focus on winning. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2436))
+- Herro's role is set. Rollins and Herro are expected to lead the lineup. Porter's role is in question. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [08-24](https://youtu.be/g31YlwRe0XQ?t=1389))
+- The rotation and the minutes split are hard to predict. (verdict, 2026-08-24; [08-11](https://youtu.be/OdDkXFhoKsc?t=1811), [08-24](https://youtu.be/g31YlwRe0XQ?t=1389), [06-23](https://youtu.be/nnWX_ObljOE?t=243))
 - Projected starters are Ryan Rollins, Tyler Herro, Jaime Jaquez Jr., Kel'el Ware and Myles Turner. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=536), stats)
 - Power forward is the weakest position on the roster and arguably the weakest group in the league. The team will likely start a center at the four. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=511))
-- Turner and Ware can play together. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=704))
-- It is unclear whether Jenkins will give Ware a fantasy-friendly role or focus on winning. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2436))
-- The guard rotation is crowded. It includes Herro, Rollins, Kevin Porter Jr., Kasparas Jakucionis, Brayden Burries, Gary Trent Jr., AJ Green and Yuta Watanabe. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609), [06-23](https://youtu.be/nnWX_ObljOE?t=243))
-- Herro's role is set. Rollins and Herro are expected to lead the lineup. Porter's role is in question. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [08-24](https://youtu.be/g31YlwRe0XQ?t=1389))
-- Herro, Rollins and Porter will compete for shot creation. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=330))
-- The rotation and the minutes split are hard to predict. (verdict, 2026-08-24; [08-11](https://youtu.be/OdDkXFhoKsc?t=1811), [08-24](https://youtu.be/g31YlwRe0XQ?t=1389), [06-23](https://youtu.be/nnWX_ObljOE?t=243))
-- The guards ahead of Burries limit his immediate impact. (verdict, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=493))
 - The roster has 17 players, so at least two must go. It is heavy on small shooting guards and short on wings. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=115))
-- More trades are possible. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=330), [06-23](https://youtu.be/nnWX_ObljOE?t=94))
 - Milwaukee is expected to be bad. The win total is 26.5, and Justin expects about 33 wins. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=2216), [08-10](https://youtu.be/sfCe7fS9daM?t=1690), [07-23](https://youtu.be/LUTYUdXBG1M?t=919), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609), stats)
 - Milwaukee does not control its own draft pick and does not see this season as a long-term rebuild. It has no reason to tank. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=2216), [08-10](https://youtu.be/sfCe7fS9daM?t=1690), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609))
 - With no pick to protect, the risk of tanking late in the season is lower than for a typical bad team. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=2216), [08-10](https://youtu.be/sfCe7fS9daM?t=1690), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609))
+- Giannis Antetokounmpo is gone. Milwaukee lost his 33% usage and Bobby Portis's shots. (fact, 2026-07-20; [06-30](https://youtu.be/4GDfg2n2l8o?t=330), [07-20](https://youtu.be/-KS_AZjZnw4?t=635))
+- Turner and Ware can play together. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=704))
+- Herro, Rollins and Porter will compete for shot creation. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=330))
+- More trades are possible. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=330), [06-23](https://youtu.be/nnWX_ObljOE?t=94))
+- The guards ahead of Burries limit his immediate impact. (verdict, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=493))
 
 **Durable**
 - Jenkins is expected to push offensive rebounding, a pressure defense that forces turnovers and a faster transition game. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=2132))

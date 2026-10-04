@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 80 | 33.2 | 53.6 (15.9) | 73.2 (5.0) | 1.1 | 21.7 | 7.1 | 4.3 | 0.8 | 0.3 | 1.8 |
-| 2024-25 | 78 | 32.7 | 51.9 (15.2) | 73.4 (3.9) | 1.6 | 20.2 | 6.9 | 3.4 | 0.9 | 0.5 | 1.4 |
-| 2025-26 | 62 | 33.2 | 48.4 (18.6) | 69.3 (6.1) | 1.7 | 24.0 | 6.6 | 3.8 | 1.1 | 0.4 | 2.2 |
-| 2026-27 proj, Yahoo | 70 | - | 50.5 (16.6) | 71.2 (4.8) | 1.5 | 21.7 | 6.7 | 3.7 | 1.0 | 0.4 | 1.8 |
 | 2026-27 proj, ESPN | 74 | 34.8 | 51.4 (17.1) | 72.1 (5.1) | 1.6 | 22.8 | 7.3 | 4.0 | 1.0 | 0.5 | 1.8 |
+| 2026-27 proj, Yahoo | 70 | - | 50.5 (16.6) | 71.2 (4.8) | 1.5 | 21.7 | 6.7 | 3.7 | 1.0 | 0.4 | 1.8 |
+| 2025-26 | 62 | 33.2 | 48.4 (18.6) | 69.3 (6.1) | 1.7 | 24.0 | 6.6 | 3.8 | 1.1 | 0.4 | 2.2 |
+| 2024-25 | 78 | 32.7 | 51.9 (15.2) | 73.4 (3.9) | 1.6 | 20.2 | 6.9 | 3.4 | 0.9 | 0.5 | 1.4 |
+| 2023-24 | 80 | 33.2 | 53.6 (15.9) | 73.2 (5.0) | 1.1 | 21.7 | 7.1 | 4.3 | 0.8 | 0.3 | 1.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -35,16 +35,16 @@
 - The newest note expects him to lose some usage with Haliburton back, with his usage rate falling back under 30. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=548), [10-01](https://youtu.be/EGdhmUgPAWY?t=635))
 - In category leagues, take him somewhere in the 50 to 60 range. Pick 45 is too early. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=534), [09-30](https://youtu.be/BjXP9JODDSg?t=793), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1703))
 - ESPN's rank of 24 is far too high. Never take him that early in a category league. Last season he had a bigger role without Haliburton and still finished only 41st. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=567), [09-19](https://youtu.be/uarqbNA2dFk?t=2170), [09-22](https://youtu.be/QbdrhJd7LiA?t=1522))
-- At 32, his age is a question. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1325))
 - With a season ending March 28, Indiana plays 3, 4 and 3 games in the fantasy playoff weeks. The expert calls that not ideal. The team has 15 back-to-backs. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034))
+- At 32, his age is a question. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1325))
 
 **Durable**
+- Points are his best category. His FG% on good volume and his rebounds also help. (fact, 2026-10-04; stats)
 - He is a much better points league player than a category league player. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=523))
+- He is poor in the defensive stats and is not a great free throw shooter. His FT% is weak for his position, and his blocks are low for a forward or center. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1154), stats)
+- The last time he played alongside Haliburton, his assists were way down. (fact, 2026-08-11; [08-11](https://youtu.be/OdDkXFhoKsc?t=1200))
 - His production is extremely consistent from game to game, at about 22 points, 6 rebounds and 4 assists. He has one of the tightest game-to-game ranges in the NBA. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1350), [08-10](https://youtu.be/sfCe7fS9daM?t=1435))
 - He plays through minor problems and plays a lot when he is able to. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1358))
-- The last time he played alongside Haliburton, his assists were way down. (fact, 2026-08-11; [08-11](https://youtu.be/OdDkXFhoKsc?t=1200))
-- Points are his best category. His FG% on good volume and his rebounds also help. (fact, 2026-10-04; stats)
-- He is poor in the defensive stats and is not a great free throw shooter. His FT% is weak for his position, and his blocks are low for a forward or center. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1154), stats)
 
 **Tags**
 - Current: `role down` (Lower assists and usage expected with Haliburton back), `bust candidate` (At ESPN rank 24 and ESPN price), `sites disagree on price` (Yahoo rank 58 and 17 USD, ESPN rank 24 and 32 USD), `bad playoff schedule` (3-4-3 games in weeks 19 to 21)

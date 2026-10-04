@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 76 | 34.1 | 66.1 (8.1) | 63.8 (5.1) | 0.0 | 14.0 | 12.9 | 1.3 | 0.7 | 2.1 | 1.6 |
-| 2024-25 | 72 | 33.2 | 66.9 (7.1) | 67.4 (3.8) | 0.0 | 12.0 | 10.9 | 1.8 | 0.8 | 1.4 | 1.2 |
-| 2025-26 | 76 | 31.3 | 68.2 (6.5) | 52.6 (4.0) | 0.0 | 10.9 | 11.5 | 1.7 | 0.8 | 1.6 | 1.4 |
-| 2026-27 proj, Yahoo | 73 | - | 67.4 (6.5) | 59.6 (3.9) | 0.0 | 11.1 | 10.8 | 1.5 | 0.7 | 1.6 | 1.3 |
 | 2026-27 proj, ESPN | 72 | 32.5 | 67.3 (7.0) | 59.9 (4.2) | 0.0 | 11.9 | 11.7 | 1.6 | 0.7 | 1.7 | 1.4 |
+| 2026-27 proj, Yahoo | 73 | - | 67.4 (6.5) | 59.6 (3.9) | 0.0 | 11.1 | 10.8 | 1.5 | 0.7 | 1.6 | 1.3 |
+| 2025-26 | 76 | 31.3 | 68.2 (6.5) | 52.6 (4.0) | 0.0 | 10.9 | 11.5 | 1.7 | 0.8 | 1.6 | 1.4 |
+| 2024-25 | 72 | 33.2 | 66.9 (7.1) | 67.4 (3.8) | 0.0 | 12.0 | 10.9 | 1.8 | 0.8 | 1.4 | 1.2 |
+| 2023-24 | 76 | 34.1 | 66.1 (8.1) | 63.8 (5.1) | 0.0 | 14.0 | 12.9 | 1.3 | 0.7 | 2.1 | 1.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,22 +30,22 @@
 </details>
 
 **Current**
+- Minnesota has a two-game week in the matchup that starts March 15. That is week 20, in the middle of our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
 - Experts disagree on his price at an ADP around 70. One calls 70 to 72 too high because he is past 30 and may lose blocks, FG% and usage. Another calls ADP in the 70s undervalued compared with Clingan and Kessler. That expert expects double-digit rebounds, two blocks and 60%+ FG, with only small age-related drops in minutes and games. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=868), [09-14](https://youtu.be/t4n9MAP2_14?t=1915))
-- His range is tight for a round six pick. ADP is 71.3, with a best case of 59th and a worst case of 116th. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1375))
-- LaMelo Ball is now his teammate in Minnesota. Ball and Gobert are set as starters with Edwards and McDaniels. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=236), [08-19](https://youtu.be/2mxpEpGU3H8?t=603))
 - Lobs from LaMelo Ball are a plus, and his usage could go up slightly. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=868), [08-19](https://youtu.be/2mxpEpGU3H8?t=563))
-- He will have to cover on defense for Kuminga and LaMelo Ball, who are poor defenders. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=647))
+- His range is tight for a round six pick. ADP is 71.3, with a best case of 59th and a worst case of 116th. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1375))
 - Joan Beringer is the only backup center behind him. Naz Reid and Julius Randle are gone. (fact, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1634), [07-21](https://youtu.be/RyzcCGChYgs?t=1214))
+- He will have to cover on defense for Kuminga and LaMelo Ball, who are poor defenders. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=647))
+- LaMelo Ball is now his teammate in Minnesota. Ball and Gobert are set as starters with Edwards and McDaniels. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=236), [08-19](https://youtu.be/2mxpEpGU3H8?t=603))
 - He is 34 and eligible for a contract extension. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1653))
 - He could be traded if Minnesota's season goes badly. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1653))
-- Minnesota has a two-game week in the matchup that starts March 15. That is week 20, in the middle of our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
 
 **Durable**
 - He makes big contributions in rebounds, blocks and FG% on solid volume. (fact, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1274), [07-07](https://youtu.be/ME-r173X5b0?t=2770), stats)
-- He is a very poor free throw shooter. He shot 52.6% from the line last season, which was the second-worst FT impact in the league. (fact, 2026-08-09; [07-07](https://youtu.be/ME-r173X5b0?t=2770), [08-09](https://youtu.be/8d--aL_xxwE?t=1269), [07-16](https://youtu.be/-y6p5PYLf00?t=2123), stats)
-- His poor FT% barely matters to managers who punt FT%. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=2123))
 - He does not shoot from outside and makes no threes. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1496), stats)
 - Ben calls him a walking top 10 defense, a great screener and offensive rebounder, and durable. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1496))
+- He is a very poor free throw shooter. He shot 52.6% from the line last season, which was the second-worst FT impact in the league. (fact, 2026-08-09; [07-07](https://youtu.be/ME-r173X5b0?t=2770), [08-09](https://youtu.be/8d--aL_xxwE?t=1269), [07-16](https://youtu.be/-y6p5PYLf00?t=2123), stats)
+- His poor FT% barely matters to managers who punt FT%. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=2123))
 
 **Tags**
 - Current: `trade risk` (Extension eligible, could be moved if the season goes badly), `bad playoff schedule` (Two-game week starting March 15 (week 20)), `sites disagree on price` (Yahoo rank 82, ESPN rank 55)

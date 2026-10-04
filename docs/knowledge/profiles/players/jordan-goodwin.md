@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 57 | 18.6 | 36.9 (6.7) | 74.6 (1.0) | 0.7 | 6.5 | 4.4 | 2.7 | 0.8 | 0.3 | 1.0 |
-| 2024-25 | 29 | 18.7 | 43.8 (5.0) | 81.8 (0.4) | 0.9 | 5.6 | 3.9 | 1.4 | 1.0 | 0.4 | 0.9 |
-| 2025-26 | 70 | 22.5 | 41.3 (7.9) | 69.6 (0.8) | 1.6 | 8.7 | 4.9 | 2.2 | 1.5 | 0.2 | 1.0 |
 | 2026-27 proj, Yahoo | 65 | - | 40.9 (7.2) | 74.0 (0.8) | 1.3 | 7.7 | 4.6 | 2.1 | 1.3 | 0.2 | 1.0 |
+| 2025-26 | 70 | 22.5 | 41.3 (7.9) | 69.6 (0.8) | 1.6 | 8.7 | 4.9 | 2.2 | 1.5 | 0.2 | 1.0 |
+| 2024-25 | 29 | 18.7 | 43.8 (5.0) | 81.8 (0.4) | 0.9 | 5.6 | 3.9 | 1.4 | 1.0 | 0.4 | 0.9 |
+| 2023-24 | 57 | 18.6 | 36.9 (6.7) | 74.6 (1.0) | 0.7 | 6.5 | 4.4 | 2.7 | 0.8 | 0.3 | 1.0 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,11 +29,11 @@
 </details>
 
 **Current**
+- The Phoenix backcourt is crowded. Devin Booker, Jalen Green, Dillon Brooks and Collin Gillespie will all want touches. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=989), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200))
+- Tier 9 point guard. He is a 16-team league player who is only possibly worth considering in 12-team leagues. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2503))
 - Goodwin re-signed with Phoenix for 3 years and 19 million USD. (fact, 2026-08-23; [07-01](https://youtu.be/W3THnI7wWdA?t=731), [08-23](https://youtu.be/hm5-fiCa5S4?t=987))
 - Both experts call the contract a steal or undervalued. (verdict, 2026-08-23; [07-01](https://youtu.be/W3THnI7wWdA?t=731), [08-23](https://youtu.be/hm5-fiCa5S4?t=987))
 - He is probably in the Phoenix rotation as the fourth or fifth guard. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=731))
-- The Phoenix backcourt is crowded. Devin Booker, Jalen Green, Dillon Brooks and Collin Gillespie will all want touches. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=989), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200))
-- Tier 9 point guard. He is a 16-team league player who is only possibly worth considering in 12-team leagues. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2503))
 
 **Durable**
 - His category value comes mainly from steals and few turnovers. He scores little and his FG% is below average. (fact, 2026-10-04; stats)

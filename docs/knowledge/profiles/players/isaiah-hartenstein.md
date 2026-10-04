@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 75 | 25.3 | 64.4 (4.9) | 70.7 (2.1) | 0.0 | 7.8 | 8.3 | 2.5 | 1.2 | 1.1 | 1.2 |
-| 2024-25 | 57 | 27.9 | 58.1 (8.4) | 67.5 (2.1) | 0.0 | 11.2 | 10.7 | 3.8 | 0.8 | 1.1 | 1.7 |
-| 2025-26 | 47 | 24.3 | 62.2 (6.3) | 61.0 (2.2) | 0.0 | 9.2 | 9.4 | 3.5 | 1.0 | 0.8 | 1.7 |
-| 2026-27 proj, Yahoo | 63 | - | 60.7 (6.4) | 65.6 (2.0) | 0.0 | 9.1 | 9.2 | 3.2 | 0.9 | 0.9 | 1.5 |
 | 2026-27 proj, ESPN | 64 | 25.0 | 61.4 (6.6) | 62.4 (2.2) | 0.0 | 9.5 | 9.6 | 3.5 | 1.0 | 0.8 | 1.7 |
+| 2026-27 proj, Yahoo | 63 | - | 60.7 (6.4) | 65.6 (2.0) | 0.0 | 9.1 | 9.2 | 3.2 | 0.9 | 0.9 | 1.5 |
+| 2025-26 | 47 | 24.3 | 62.2 (6.3) | 61.0 (2.2) | 0.0 | 9.2 | 9.4 | 3.5 | 1.0 | 0.8 | 1.7 |
+| 2024-25 | 57 | 27.9 | 58.1 (8.4) | 67.5 (2.1) | 0.0 | 11.2 | 10.7 | 3.8 | 0.8 | 1.1 | 1.7 |
+| 2023-24 | 75 | 25.3 | 64.4 (4.9) | 70.7 (2.1) | 0.0 | 7.8 | 8.3 | 2.5 | 1.2 | 1.1 | 1.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,13 +30,13 @@
 </details>
 
 **Current**
-- He re-signed with the Thunder on a 3-year, 75 million USD contract. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=969))
+- Experts say he goes too late in drafts. They think he should go inside the top 100, but on ESPN he sits outside the top 130. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2392), [09-17](https://youtu.be/DubdKKhMWHo?t=1707), [09-14](https://youtu.be/t4n9MAP2_14?t=1311), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1761))
+- In mock drafts, experts took him around round 8 for his defensive stats. In a 12-team mock, he went around pick 116. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1330), [09-24](https://youtu.be/_vbAP5y182A?t=1568), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1761))
 - Experts expect him to be the full-time starting center, and they see his role as secure. (verdict, 2026-09-17; [07-01](https://youtu.be/W3THnI7wWdA?t=969), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1246), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1274))
 - The other OKC bigs are Chet Holmgren, Al Horford, Jaylin Williams and Thomas Sorber. Jaylin Williams barely played unless the centers were out. (fact, 2026-09-17; [07-21](https://youtu.be/RyzcCGChYgs?t=1024), [06-28](https://youtu.be/RsjGTgJiKyI?t=446), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1274))
 - He was banged up a lot last season. He was playing very well early in the season before he got hurt. (fact, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1246), [09-17](https://youtu.be/DubdKKhMWHo?t=1707))
-- Experts say he goes too late in drafts. They think he should go inside the top 100, but on ESPN he sits outside the top 130. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2392), [09-17](https://youtu.be/DubdKKhMWHo?t=1707), [09-14](https://youtu.be/t4n9MAP2_14?t=1311), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1761))
 - If he stays healthy and plays 28 to 29 minutes, he is a top 60 player. One expert gives a best case of 40th and a worst case of 93rd. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1246), [09-14](https://youtu.be/t4n9MAP2_14?t=1311), [09-17](https://youtu.be/DubdKKhMWHo?t=1707))
-- In mock drafts, experts took him around round 8 for his defensive stats. In a 12-team mock, he went around pick 116. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1330), [09-24](https://youtu.be/_vbAP5y182A?t=1568), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1761))
+- He re-signed with the Thunder on a 3-year, 75 million USD contract. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=969))
 
 **Durable**
 - He is a center who gets assists at a rate that is unusual for his position. (fact, 2026-10-04; [09-14](https://youtu.be/t4n9MAP2_14?t=1319), stats)

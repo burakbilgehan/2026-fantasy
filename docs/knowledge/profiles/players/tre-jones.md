@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 77 | 27.7 | 50.5 (7.8) | 85.6 (1.5) | 0.8 | 10.0 | 3.8 | 6.2 | 1.0 | 0.1 | 1.5 |
-| 2024-25 | 46 | 19.7 | 53.8 (5.2) | 82.1 (1.5) | 0.4 | 7.2 | 2.5 | 4.2 | 0.8 | 0.2 | 0.8 |
-| 2025-26 | 65 | 27.0 | 55.3 (9.5) | 84.1 (3.5) | 0.6 | 14.1 | 3.1 | 5.4 | 1.2 | 0.2 | 1.4 |
-| 2026-27 proj, Yahoo | 61 | - | 54.1 (8.0) | 84.5 (2.5) | 0.6 | 11.4 | 3.1 | 5.2 | 1.0 | 0.2 | 1.3 |
 | 2026-27 proj, ESPN | 68 | 22.3 | 54.9 (7.6) | 83.7 (2.7) | 0.5 | 11.1 | 2.6 | 4.5 | 1.0 | 0.1 | 1.1 |
+| 2026-27 proj, Yahoo | 61 | - | 54.1 (8.0) | 84.5 (2.5) | 0.6 | 11.4 | 3.1 | 5.2 | 1.0 | 0.2 | 1.3 |
+| 2025-26 | 65 | 27.0 | 55.3 (9.5) | 84.1 (3.5) | 0.6 | 14.1 | 3.1 | 5.4 | 1.2 | 0.2 | 1.4 |
+| 2024-25 | 46 | 19.7 | 53.8 (5.2) | 82.1 (1.5) | 0.4 | 7.2 | 2.5 | 4.2 | 0.8 | 0.2 | 0.8 |
+| 2023-24 | 77 | 27.7 | 50.5 (7.8) | 85.6 (1.5) | 0.8 | 10.0 | 3.8 | 6.2 | 1.0 | 0.1 | 1.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -40,8 +40,8 @@
 - The Bulls play 10 games in our fantasy playoff weeks (3-3-4) and have 15 back-to-backs, one below the maximum. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2024), [09-28](https://youtu.be/3Qm5wLjhvTw?t=2041))
 
 **Durable**
-- He is a poor three-point shooter and adds few rebounds. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1471), stats)
 - His threes and blocks are weak even for a guard. His value comes from assists, FG% and low turnovers. (fact, 2026-10-04; stats)
+- He is a poor three-point shooter and adds few rebounds. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1471), stats)
 - Hayes calls him a really good facilitator. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1339))
 
 **Tags**

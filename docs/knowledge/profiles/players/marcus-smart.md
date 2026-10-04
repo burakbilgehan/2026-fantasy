@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 20 | 30.1 | 43.0 (11.8) | 76.8 (2.8) | 2.1 | 14.4 | 2.6 | 4.3 | 2.0 | 0.2 | 3.1 |
-| 2024-25 | 34 | 20.0 | 39.3 (7.6) | 76.1 (2.1) | 1.4 | 9.0 | 2.1 | 3.2 | 1.1 | 0.3 | 1.6 |
-| 2025-26 | 62 | 28.5 | 39.5 (7.7) | 82.2 (2.1) | 1.6 | 9.3 | 2.8 | 3.0 | 1.4 | 0.4 | 1.5 |
-| 2026-27 proj, Yahoo | 68 | - | 39.0 (6.5) | 86.4 (1.7) | 1.2 | 7.8 | 2.1 | 2.7 | 0.6 | 0.2 | 1.1 |
 | 2026-27 proj, ESPN | 62 | 24.4 | 40.1 (7.6) | 79.8 (2.0) | 1.5 | 9.2 | 2.4 | 3.0 | 1.3 | 0.3 | 1.6 |
+| 2026-27 proj, Yahoo | 68 | - | 39.0 (6.5) | 86.4 (1.7) | 1.2 | 7.8 | 2.1 | 2.7 | 0.6 | 0.2 | 1.1 |
+| 2025-26 | 62 | 28.5 | 39.5 (7.7) | 82.2 (2.1) | 1.6 | 9.3 | 2.8 | 3.0 | 1.4 | 0.4 | 1.5 |
+| 2024-25 | 34 | 20.0 | 39.3 (7.6) | 76.1 (2.1) | 1.4 | 9.0 | 2.1 | 3.2 | 1.1 | 0.3 | 1.6 |
+| 2023-24 | 20 | 30.1 | 43.0 (11.8) | 76.8 (2.8) | 2.1 | 14.4 | 2.6 | 4.3 | 2.0 | 0.2 | 3.1 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,20 +30,20 @@
 </details>
 
 **Current**
-- Smart joined Houston this offseason. The Rockets guard rotation is crowded with Fred VanVleet back, Amen Thompson, Reed Sheppard and Bogdan Bogdanovic. (fact, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [09-10](https://youtu.be/W-R1dzem32s?t=1955), [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
+- He is not a draft target in a 144-player auction. Both sites rank him outside the top 200 with a value of 0 USD. (verdict, 2026-10-04; stats)
 - He is not in the projected starting five of VanVleet, Thompson, Durant, Smith and Sengun. He comes off the bench. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=328), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357), [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
 - He may lead the Rockets bench in minutes. Coach Ime Udoka coached him in Boston and values defense. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1276))
-- Smart and Amen Thompson could take most of the point guard minutes over Reed Sheppard under Udoka. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1968))
 - He could become a streamer or stash when VanVleet sits. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1276))
 - With our March 28 end date, the Rockets play a weak 3-3-4 schedule in the fantasy playoffs, 10 games over three weeks. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
 - The Rockets have only 14 back-to-backs this season. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011))
-- He is not a draft target in a 144-player auction. Both sites rank him outside the top 200 with a value of 0 USD. (verdict, 2026-10-04; stats)
+- Smart and Amen Thompson could take most of the point guard minutes over Reed Sheppard under Udoka. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1968))
+- Smart joined Houston this offseason. The Rockets guard rotation is crowded with Fred VanVleet back, Amen Thompson, Reed Sheppard and Bogdan Bogdanovic. (fact, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [09-10](https://youtu.be/W-R1dzem32s?t=1955), [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
 
 **Durable**
+- His shooting is questionable. He is willing to shoot, but his FG% sits around 39 to 40 percent. (verdict, 2026-10-04; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=324), stats)
+- The expert calls him an assists and steals player who will not score much. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1330))
 - He is not a traditional point guard, but he can bring the ball up and run the offense. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=254))
 - He takes good care of the ball and is still a really good defender. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=254))
-- The expert calls him an assists and steals player who will not score much. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1330))
-- His shooting is questionable. He is willing to shoot, but his FG% sits around 39 to 40 percent. (verdict, 2026-10-04; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=324), stats)
 - He gets hurt often and has missed many games in recent seasons. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1463), stats)
 
 **Tags**

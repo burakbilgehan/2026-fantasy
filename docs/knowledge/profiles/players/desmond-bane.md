@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 42 | 34.4 | 46.4 (18.5) | 87.0 (3.8) | 3.3 | 23.7 | 4.4 | 5.5 | 1.0 | 0.5 | 2.7 |
-| 2024-25 | 69 | 31.9 | 48.4 (14.8) | 89.4 (2.9) | 2.4 | 19.2 | 6.1 | 5.3 | 1.2 | 0.4 | 2.4 |
-| 2025-26 | 82 | 33.6 | 48.4 (14.7) | 90.8 (4.2) | 2.0 | 20.1 | 4.1 | 4.1 | 1.0 | 0.5 | 2.0 |
-| 2026-27 proj, Yahoo | 70 | - | 48.2 (15.1) | 90.3 (4.0) | 2.3 | 20.4 | 4.3 | 4.1 | 1.1 | 0.4 | 2.2 |
 | 2026-27 proj, ESPN | 72 | 33.7 | 48.0 (15.5) | 89.8 (3.8) | 2.4 | 20.7 | 4.8 | 4.8 | 1.1 | 0.5 | 2.3 |
+| 2026-27 proj, Yahoo | 70 | - | 48.2 (15.1) | 90.3 (4.0) | 2.3 | 20.4 | 4.3 | 4.1 | 1.1 | 0.4 | 2.2 |
+| 2025-26 | 82 | 33.6 | 48.4 (14.7) | 90.8 (4.2) | 2.0 | 20.1 | 4.1 | 4.1 | 1.0 | 0.5 | 2.0 |
+| 2024-25 | 69 | 31.9 | 48.4 (14.8) | 89.4 (2.9) | 2.4 | 19.2 | 6.1 | 5.3 | 1.2 | 0.4 | 2.4 |
+| 2023-24 | 42 | 34.4 | 46.4 (18.5) | 87.0 (3.8) | 3.3 | 23.7 | 4.4 | 5.5 | 1.0 | 0.5 | 2.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,12 +30,12 @@
 </details>
 
 **Current**
-- Bane is a projected Orlando starter, next to Suggs, Franz Wagner, Banchero and Carter. That five-man group played very well when it was together. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
-- Orlando has a new head coach, Sean Sweeney, so player roles may change. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
 - Much of his production in the last two seasons came while Franz Wagner, Paolo Banchero and Jalen Suggs missed long stretches. Wagner had a major injury last season. (fact, 2026-09-22; [08-19](https://youtu.be/J1Eg3uaAICU?t=1699), [09-19](https://youtu.be/uarqbNA2dFk?t=2138), [09-10](https://youtu.be/dlo7L8Ru91A?t=1145), [09-10](https://youtu.be/W-R1dzem32s?t=1108), [09-22](https://youtu.be/QbdrhJd7LiA?t=660), [09-22](https://youtu.be/QbdrhJd7LiA?t=1657))
+- Experts say his current ranks (around 46 on Yahoo, 40 to 41 on ESPN) are too high. They rate him tier five and say not to take him inside the top 50. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=660), [09-22](https://youtu.be/QbdrhJd7LiA?t=1657), [09-19](https://youtu.be/uarqbNA2dFk?t=2138), [09-10](https://youtu.be/dlo7L8Ru91A?t=1145), [09-10](https://youtu.be/W-R1dzem32s?t=1108))
 - He started last season badly, then shot 41% from three after December 1 and played well down the stretch. His three point attempt rate has come down. (fact, 2026-09-19; [08-01](https://youtu.be/FEcNjVRlj-U?t=1429), [09-19](https://youtu.be/uarqbNA2dFk?t=2138), [09-10](https://youtu.be/W-R1dzem32s?t=1108))
 - On a healthy Orlando team, experts expect him to be a third option with under 22% usage and about 32 minutes, and to fall well short of last season's rank. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1108), [09-10](https://youtu.be/dlo7L8Ru91A?t=1145), [08-19](https://youtu.be/J1Eg3uaAICU?t=1699))
-- Experts say his current ranks (around 46 on Yahoo, 40 to 41 on ESPN) are too high. They rate him tier five and say not to take him inside the top 50. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=660), [09-22](https://youtu.be/QbdrhJd7LiA?t=1657), [09-19](https://youtu.be/uarqbNA2dFk?t=2138), [09-10](https://youtu.be/dlo7L8Ru91A?t=1145), [09-10](https://youtu.be/W-R1dzem32s?t=1108))
+- Bane is a projected Orlando starter, next to Suggs, Franz Wagner, Banchero and Carter. That five-man group played very well when it was together. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
+- Orlando has a new head coach, Sean Sweeney, so player roles may change. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
 
 **Durable**
 - His FT% is his best category: about 90% on about 4 attempts. He adds a broad plus in points, threes and assists. Turnovers are his softest category, but none of his categories is a real weakness. (fact, 2026-10-04; stats)

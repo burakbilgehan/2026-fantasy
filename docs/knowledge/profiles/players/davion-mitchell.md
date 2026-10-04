@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 72 | 15.3 | 45.2 (4.5) | 71.4 (0.6) | 0.8 | 5.3 | 1.3 | 1.9 | 0.2 | 0.0 | 0.6 |
-| 2024-25 | 74 | 27.4 | 46.8 (6.4) | 69.0 (1.1) | 1.1 | 7.9 | 2.3 | 4.9 | 1.0 | 0.2 | 1.7 |
-| 2025-26 | 70 | 28.6 | 49.0 (7.6) | 64.6 (0.9) | 1.3 | 9.3 | 2.7 | 6.5 | 1.0 | 0.2 | 1.5 |
-| 2026-27 proj, Yahoo | 72 | - | 46.3 (7.8) | 66.7 (1.1) | 1.3 | 9.3 | 2.6 | 7.1 | 1.2 | 0.4 | 1.6 |
 | 2026-27 proj, ESPN | 71 | 27.7 | 48.6 (7.3) | 65.6 (0.9) | 1.2 | 8.9 | 2.5 | 6.0 | 0.9 | 0.2 | 1.5 |
+| 2026-27 proj, Yahoo | 72 | - | 46.3 (7.8) | 66.7 (1.1) | 1.3 | 9.3 | 2.6 | 7.1 | 1.2 | 0.4 | 1.6 |
+| 2025-26 | 70 | 28.6 | 49.0 (7.6) | 64.6 (0.9) | 1.3 | 9.3 | 2.7 | 6.5 | 1.0 | 0.2 | 1.5 |
+| 2024-25 | 74 | 27.4 | 46.8 (6.4) | 69.0 (1.1) | 1.1 | 7.9 | 2.3 | 4.9 | 1.0 | 0.2 | 1.7 |
+| 2023-24 | 72 | 15.3 | 45.2 (4.5) | 71.4 (0.6) | 0.8 | 5.3 | 1.3 | 1.9 | 0.2 | 0.0 | 0.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,12 +30,12 @@
 </details>
 
 **Current**
-- He is Miami's starting point guard, and one expert calls his role locked in. (fact, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2561), [06-23](https://youtu.be/nnWX_ObljOE?t=888), [08-02](https://youtu.be/TOn-D1SV7a8?t=318))
-- Miami traded for Giannis Antetokounmpo and lost much of its depth and ball handling. Giannis is expected to handle the ball a lot. (fact, 2026-09-14; [06-23](https://youtu.be/nnWX_ObljOE?t=780), [09-14](https://youtu.be/LM0cRCGoAUQ?t=813), [07-17](https://youtu.be/NYTH7uQsPCM?t=1757))
-- His usage is already low and will probably drop further next to Giannis. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=888), [06-23](https://youtu.be/nnWX_ObljOE?t=780))
-- Ranked as a tier 9 point guard with an ADP of 114. The expert does not trust his shooting at higher volume. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2561))
 - Experts are lukewarm on him. One lists him among overhyped draft values to avoid, and another does not think he is a particularly strong player. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1290), [08-02](https://youtu.be/TOn-D1SV7a8?t=318))
+- Miami traded for Giannis Antetokounmpo and lost much of its depth and ball handling. Giannis is expected to handle the ball a lot. (fact, 2026-09-14; [06-23](https://youtu.be/nnWX_ObljOE?t=780), [09-14](https://youtu.be/LM0cRCGoAUQ?t=813), [07-17](https://youtu.be/NYTH7uQsPCM?t=1757))
+- He is Miami's starting point guard, and one expert calls his role locked in. (fact, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2561), [06-23](https://youtu.be/nnWX_ObljOE?t=888), [08-02](https://youtu.be/TOn-D1SV7a8?t=318))
+- Ranked as a tier 9 point guard with an ADP of 114. The expert does not trust his shooting at higher volume. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2561))
 - Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs, but only 10 games in the playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153))
+- His usage is already low and will probably drop further next to Giannis. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=888), [06-23](https://youtu.be/nnWX_ObljOE?t=780))
 
 **Durable**
 - He plays a very low usage role and is not a high scorer. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2161), [09-19](https://youtu.be/uarqbNA2dFk?t=1290), [08-30](https://youtu.be/Alwse2uXzD4?t=2056))

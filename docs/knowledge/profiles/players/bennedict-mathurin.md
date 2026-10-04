@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 59 | 26.1 | 44.6 (11.2) | 82.1 (3.8) | 1.4 | 14.5 | 4.0 | 2.0 | 0.6 | 0.2 | 1.6 |
-| 2024-25 | 72 | 29.9 | 45.8 (11.8) | 83.1 (4.6) | 1.4 | 16.1 | 5.3 | 1.9 | 0.7 | 0.3 | 1.9 |
-| 2025-26 | 54 | 30.0 | 43.0 (12.5) | 86.9 (6.2) | 1.4 | 17.6 | 5.4 | 2.4 | 0.8 | 0.2 | 2.2 |
-| 2026-27 proj, Yahoo | 65 | - | 44.3 (8.2) | 85.2 (3.5) | 0.9 | 11.2 | 3.5 | 1.4 | 0.5 | 0.2 | 1.3 |
 | 2026-27 proj, ESPN | 68 | 29.2 | 44.3 (12.1) | 85.0 (5.2) | 1.4 | 16.5 | 5.1 | 2.1 | 0.7 | 0.3 | 2.0 |
+| 2026-27 proj, Yahoo | 65 | - | 44.3 (8.2) | 85.2 (3.5) | 0.9 | 11.2 | 3.5 | 1.4 | 0.5 | 0.2 | 1.3 |
+| 2025-26 | 54 | 30.0 | 43.0 (12.5) | 86.9 (6.2) | 1.4 | 17.6 | 5.4 | 2.4 | 0.8 | 0.2 | 2.2 |
+| 2024-25 | 72 | 29.9 | 45.8 (11.8) | 83.1 (4.6) | 1.4 | 16.1 | 5.3 | 1.9 | 0.7 | 0.3 | 1.9 |
+| 2023-24 | 59 | 26.1 | 44.6 (11.2) | 82.1 (3.8) | 1.4 | 14.5 | 4.0 | 2.0 | 0.6 | 0.2 | 1.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,8 +30,8 @@
 </details>
 
 **Current**
-- He signed with the Pelicans as a restricted free agent this offseason. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1641))
 - He is not in the projected starting five. Zion Williamson, Trey Murphy, Dejounte Murray and likely Yves Missi start, and the last spot goes to Jeremiah Fears or Herb Jones. He was added to the bench of a crowded rotation. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [09-04](https://youtu.be/gerS7ibpaJo?t=1477), [07-17](https://youtu.be/NYTH7uQsPCM?t=636))
+- He signed with the Pelicans as a restricted free agent this offseason. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1641))
 - He is projected to play about eight fewer minutes per game in New Orleans. He could take shots from Fears, Murphy, Murray and Zion. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1641))
 
 **Durable**

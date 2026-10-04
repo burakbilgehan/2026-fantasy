@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 37 | 14.6 | 38.6 (6.8) | 78.3 (0.6) | 1.2 | 6.9 | 1.5 | 2.5 | 0.7 | 0.1 | 1.2 |
-| 2024-25 | 24 | 10.0 | 39.8 (4.9) | 88.5 (1.1) | 1.3 | 6.2 | 1.0 | 1.3 | 0.8 | 0.2 | 1.0 |
-| 2025-26 | 71 | 16.6 | 45.3 (6.6) | 78.0 (1.2) | 1.6 | 8.5 | 1.8 | 2.6 | 0.6 | 0.2 | 1.0 |
-| 2026-27 proj, Yahoo | 50 | - | 40.0 (6.4) | 88.9 (1.1) | 1.5 | 7.5 | 1.6 | 2.6 | 0.6 | 0.2 | 0.7 |
 | 2026-27 proj, ESPN | 62 | 16.2 | 44.9 (6.5) | 79.4 (1.1) | 1.6 | 8.3 | 1.7 | 2.6 | 0.6 | 0.2 | 1.0 |
+| 2026-27 proj, Yahoo | 50 | - | 40.0 (6.4) | 88.9 (1.1) | 1.5 | 7.5 | 1.6 | 2.6 | 0.6 | 0.2 | 0.7 |
+| 2025-26 | 71 | 16.6 | 45.3 (6.6) | 78.0 (1.2) | 1.6 | 8.5 | 1.8 | 2.6 | 0.6 | 0.2 | 1.0 |
+| 2024-25 | 24 | 10.0 | 39.8 (4.9) | 88.5 (1.1) | 1.3 | 6.2 | 1.0 | 1.3 | 0.8 | 0.2 | 1.0 |
+| 2023-24 | 37 | 14.6 | 38.6 (6.8) | 78.3 (0.6) | 1.2 | 6.9 | 1.5 | 2.5 | 0.7 | 0.1 | 1.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,13 +30,13 @@
 </details>
 
 **Current**
-- He re-signed with Minnesota on a minimum contract. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1421))
-- He adds guard depth and was solid enough when he had to start. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1421))
+- Minnesota has a two-game week in the matchup that starts March 15, which falls inside our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
 - He is a bench scoring option. Ball, Edwards, McDaniels and Gobert are set as starters, and Kuminga is expected to take the fifth spot, with Josh Green as another option. (fact, 2026-08-26; [08-19](https://youtu.be/2mxpEpGU3H8?t=524), [08-19](https://youtu.be/2mxpEpGU3H8?t=603), [08-26](https://youtu.be/sTtFUy7IoJI?t=576))
 - Ben calls him a roll of the dice. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=524))
 - Minnesota's guard depth is thin. DiVincenzo will miss most of the season, Conley is gone, and the bench has little scoring punch. (fact, 2026-08-19; [06-22](https://youtu.be/HxQjagSTTAM?t=883), [06-23](https://youtu.be/9tb1ARBEmQU?t=263), [08-19](https://youtu.be/2mxpEpGU3H8?t=236), [08-19](https://youtu.be/2mxpEpGU3H8?t=845))
-- Minnesota has a two-game week in the matchup that starts March 15, which falls inside our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
 - Ben rates Minnesota's fantasy playoff schedule the worst in the league. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1928))
+- He re-signed with Minnesota on a minimum contract. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1421))
+- He adds guard depth and was solid enough when he had to start. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1421))
 
 **Durable**
 - none

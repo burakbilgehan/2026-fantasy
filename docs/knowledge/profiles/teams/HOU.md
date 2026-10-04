@@ -12,20 +12,20 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 
 **Current**
 - The projected starters are Fred VanVleet, Amen Thompson, Kevin Durant, Jabari Smith Jr. and Alperen Sengun. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=328), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357), stats)
-- The guard rotation is crowded. Fred VanVleet is back, and the Rockets added Marcus Smart and Bogdan Bogdanovic. (fact, 2026-09-15; [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [09-10](https://youtu.be/W-R1dzem32s?t=1955), [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
-- With VanVleet back, Amen Thompson moves off point guard. (fact, 2026-09-16; [08-19](https://youtu.be/J1Eg3uaAICU?t=1169), [09-16](https://youtu.be/2A2JbUN-kc0?t=2262))
-- Reed Sheppard is pushed down the guard rotation. Under Udoka, Amen Thompson and Marcus Smart could take most of the point guard minutes ahead of him. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1968), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [09-10](https://youtu.be/W-R1dzem32s?t=1955))
-- Reports from Rockets media day say Kevin Durant will play fewer minutes. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=357))
-- Udoka tends to limit Alperen Sengun's minutes. Because of the coach's defensive focus, other bigs sometimes play over him. (fact, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=2262), [09-07](https://youtu.be/E-KmhvyZ2CU?t=667))
-- With Steven Adams back, Jabari Smith Jr. plays more power forward than center. (fact, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
 - More guard depth may push Durant and Tari Eason into forward roles. That would concentrate the frontcourt minutes. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=266))
 - The rotation is about 10 players deep, with Smart, Sheppard, Bogdanovic and Adams on the bench. The roster is thin after the top 10 or 11 players. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1621), [07-14](https://youtu.be/xHRF06_E9HE?t=1091), stats)
-- The Rockets are a strong team. One expert predicts 54 wins, and the win total of 47.5 ranks 9th of 30. Tanking is not a risk. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780), stats)
-- The team is expected to be conservative in the regular season and not chase seeding. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780))
 - With our March 28 end date, the Rockets play 3, 3 and 4 games in weeks 19 to 21. That is 10 games with 2 back-to-back pairs, ranked 17th of 30. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970), stats)
 - This fantasy playoff schedule is weak. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
 - The Rockets have only 14 back-to-backs, so their starters carry a little less rest risk. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011), stats)
+- Reports from Rockets media day say Kevin Durant will play fewer minutes. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=357))
 - Houston controls Brooklyn's draft pick. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=145))
+- Reed Sheppard is pushed down the guard rotation. Under Udoka, Amen Thompson and Marcus Smart could take most of the point guard minutes ahead of him. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1968), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [09-10](https://youtu.be/W-R1dzem32s?t=1955))
+- With VanVleet back, Amen Thompson moves off point guard. (fact, 2026-09-16; [08-19](https://youtu.be/J1Eg3uaAICU?t=1169), [09-16](https://youtu.be/2A2JbUN-kc0?t=2262))
+- Udoka tends to limit Alperen Sengun's minutes. Because of the coach's defensive focus, other bigs sometimes play over him. (fact, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=2262), [09-07](https://youtu.be/E-KmhvyZ2CU?t=667))
+- The guard rotation is crowded. Fred VanVleet is back, and the Rockets added Marcus Smart and Bogdan Bogdanovic. (fact, 2026-09-15; [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [09-10](https://youtu.be/W-R1dzem32s?t=1955), [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
+- The Rockets are a strong team. One expert predicts 54 wins, and the win total of 47.5 ranks 9th of 30. Tanking is not a risk. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780), stats)
+- The team is expected to be conservative in the regular season and not chase seeding. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780))
+- With Steven Adams back, Jabari Smith Jr. plays more power forward than center. (fact, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
 
 **Durable**
 - Ime Udoka is a defense-first coach. He gives little room for error to players who struggle on defense. (fact, 2026-10-01; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1152), [10-01](https://youtu.be/aLP080hxizA?t=146))

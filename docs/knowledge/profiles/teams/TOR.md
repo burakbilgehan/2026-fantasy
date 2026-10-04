@@ -11,8 +11,8 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Collin Murray-Boyles, PF Allen Graves, PG Jamal Shead, SF Kyle Anderson, SG Ja'Kobe Walter
 
 **Current**
+- Toronto plays 11 games in our fantasy playoff weeks 19 to 21, among the most in the league. That helps its regular starters. (fact, 2026-10-04; stats)
 - Toronto traded Brandon Ingram and added Kawhi Leonard. (fact, 2026-09-10; [06-30](https://youtu.be/JMSLg6yz-M0?t=566), [09-10](https://youtu.be/dlo7L8Ru91A?t=473))
-- Usage moves to Kawhi Leonard and away from RJ Barrett and Immanuel Quickley. (verdict, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=566))
 - With Kawhi Leonard in, a usage jump for Scottie Barnes is harder to get. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=473))
 - Projected starters are Immanuel Quickley, RJ Barrett, Kawhi Leonard, Scottie Barnes and Jakob Poeltl. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=496), stats)
 - The expected closing five is Quickley, Barrett, Leonard, Barnes and Collin Murray-Boyles. It is a small, switchable group, so Murray-Boyles closes games instead of Poeltl. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1066))
@@ -21,9 +21,9 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Sean predicts 52 wins, or 56 to 57 wins if Kawhi Leonard plays 75 games. The market win total is lower at 45.5. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1792), stats)
 - Toronto is possibly a top-four team in the East, so tanking or late-season shutdowns look unlikely. (verdict, 2026-08-20; [06-30](https://youtu.be/JMSLg6yz-M0?t=566), [08-20](https://youtu.be/s28HvC2grAk?t=1792))
 - The defense was top five to seven last season and is expected to hold or improve. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=883))
-- Toronto is fairly close to done with roster moves after the Kawhi Leonard trade. (verdict, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=566))
 - Toronto has 15 back-to-backs, a middle-of-the-pack number. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037), stats)
-- Toronto plays 11 games in our fantasy playoff weeks 19 to 21, among the most in the league. That helps its regular starters. (fact, 2026-10-04; stats)
+- Usage moves to Kawhi Leonard and away from RJ Barrett and Immanuel Quickley. (verdict, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=566))
+- Toronto is fairly close to done with roster moves after the Kawhi Leonard trade. (verdict, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=566))
 
 **Durable**
 - none

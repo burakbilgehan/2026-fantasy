@@ -3,8 +3,8 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, Yahoo | 74 | - | 40.9 (10.6) | 77.3 (3.6) | 1.7 | 13.2 | 3.7 | 4.3 | 0.8 | 0.2 | 1.6 |
 | 2026-27 proj, ESPN | 71 | 30.2 | 42.1 (13.5) | 80.1 (4.8) | 0.7 | 15.9 | 2.5 | 3.4 | 1.3 | 0.2 | 2.4 |
+| 2026-27 proj, Yahoo | 74 | - | 40.9 (10.6) | 77.3 (3.6) | 1.7 | 13.2 | 3.7 | 4.3 | 0.8 | 0.2 | 1.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -27,15 +27,15 @@
 </details>
 
 **Current**
+- Yahoo lists him as questionable with an ankle injury. (fact, 2026-10-04; stats)
 - He is a rookie. Brooklyn drafted him sixth overall. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=299), [08-21](https://youtu.be/uRsfijpBPok?t=345))
 - Experts expect him to be Brooklyn's starting point guard, with his minutes rising. Josh is about 80% sure he will start. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=299), [08-21](https://youtu.be/uRsfijpBPok?t=345), [09-03](https://youtu.be/OBwWCxG9SqM?t=1618), [08-02](https://youtu.be/TOn-D1SV7a8?t=1347), [06-28](https://youtu.be/RsjGTgJiKyI?t=1024), [09-26](https://youtu.be/3UGI05PDvrE?t=313))
-- Yahoo lists him as questionable with an ankle injury. (fact, 2026-10-04; stats)
 - Josh projects him at 150 to 180 in both formats. He sees him as a late-round flyer in rounds 10 to 13. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1026), [09-03](https://youtu.be/OBwWCxG9SqM?t=1618), [06-25](https://youtu.be/lOshTzDA4SA?t=1181))
 - Expect very high turnovers and poor efficiency early. He will probably be bad until around February. (verdict, 2026-09-26, until February; [09-26](https://youtu.be/3UGI05PDvrE?t=1069), [09-03](https://youtu.be/OBwWCxG9SqM?t=1618), [07-23](https://youtu.be/LUTYUdXBG1M?t=2030), [06-28](https://youtu.be/RsjGTgJiKyI?t=1024))
 - If you draft him and he starts, hold him until about Thanksgiving. (verdict, 2026-09-26, until Thanksgiving; [09-26](https://youtu.be/3UGI05PDvrE?t=1069))
-- He is probably Brooklyn's third usage option. He could average about 5 assists and over 1 steal in 29 to 30 minutes. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1181))
 - Brooklyn does not own its pick and is running a development season. In the second half it could hand more minutes to young players, including him. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [08-21](https://youtu.be/uRsfijpBPok?t=1014))
 - Brooklyn plays 3-4-3 games in our playoff weeks, 10 in total, with one back-to-back. The team has 16 back-to-backs this season, tied for the most in the league. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
+- He is probably Brooklyn's third usage option. He could average about 5 assists and over 1 steal in 29 to 30 minutes. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1181))
 
 **Durable**
 - He is a very talented point guard. He can dribble, pass and shoot, has unlimited range and dynamic athleticism, and has good length at 6'4 or 6'5. Experts like his passing vision, and the Nets see upside on defense. (verdict, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=409), [08-02](https://youtu.be/TOn-D1SV7a8?t=1347), [07-23](https://youtu.be/LUTYUdXBG1M?t=2030))

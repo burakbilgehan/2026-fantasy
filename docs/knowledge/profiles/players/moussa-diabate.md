@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 11 | 5.9 | 52.6 (1.7) | 64.3 (1.3) | 0.0 | 2.6 | 2.2 | 0.4 | 0.5 | 0.1 | 0.2 |
-| 2024-25 | 71 | 17.5 | 59.6 (3.9) | 59.5 (1.6) | 0.0 | 5.7 | 6.2 | 0.8 | 0.6 | 0.6 | 0.9 |
-| 2025-26 | 73 | 26.0 | 63.1 (5.0) | 65.9 (2.4) | 0.0 | 7.9 | 8.7 | 1.9 | 0.8 | 1.0 | 1.0 |
-| 2026-27 proj, Yahoo | 65 | - | 60.7 (4.6) | 65.2 (2.1) | 0.0 | 7.0 | 7.7 | 1.8 | 0.7 | 0.9 | 1.1 |
 | 2026-27 proj, ESPN | 70 | 24.6 | 62.5 (4.8) | 65.2 (2.3) | 0.0 | 7.5 | 8.3 | 1.7 | 0.7 | 0.9 | 1.0 |
+| 2026-27 proj, Yahoo | 65 | - | 60.7 (4.6) | 65.2 (2.1) | 0.0 | 7.0 | 7.7 | 1.8 | 0.7 | 0.9 | 1.1 |
+| 2025-26 | 73 | 26.0 | 63.1 (5.0) | 65.9 (2.4) | 0.0 | 7.9 | 8.7 | 1.9 | 0.8 | 1.0 | 1.0 |
+| 2024-25 | 71 | 17.5 | 59.6 (3.9) | 59.5 (1.6) | 0.0 | 5.7 | 6.2 | 0.8 | 0.6 | 0.6 | 0.9 |
+| 2023-24 | 11 | 5.9 | 52.6 (1.7) | 64.3 (1.3) | 0.0 | 2.6 | 2.2 | 0.4 | 0.5 | 0.1 | 0.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -31,18 +31,18 @@
 
 **Current**
 - He is expected to start at center for Charlotte on opening night. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1584), [09-27](https://youtu.be/CRLSsoGhb2w?t=1122), [07-21](https://youtu.be/EB1Z_6n56-o?t=840), [09-27](https://youtu.be/CRLSsoGhb2w?t=416))
+- He is a late flyer outside the top 100, around round 10 or 11. Josh would take him over Kalkbrenner about 90 times out of 100, even though he thinks Kalkbrenner would produce more at equal minutes. (verdict, 2026-10-02; [09-27](https://youtu.be/CRLSsoGhb2w?t=1122), [10-02](https://youtu.be/ZYllcj4o6_A?t=1584))
 - Charlotte's center plan is not settled. The rookie center taken 14th and Ryan Kalkbrenner compete with him for minutes, and the team may run a three-center rotation with Grant Williams as a small-ball five. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1122), [09-27](https://youtu.be/CRLSsoGhb2w?t=315), [09-14](https://youtu.be/t4n9MAP2_14?t=2216), [06-25](https://youtu.be/lOshTzDA4SA?t=1342), [06-28](https://youtu.be/RsjGTgJiKyI?t=328), [06-25](https://youtu.be/lOshTzDA4SA?t=1097))
 - Charlotte played better with him as the starter last season. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=315), [07-21](https://youtu.be/EB1Z_6n56-o?t=779))
 - Experts expect the extra center competition to cost him minutes and limit his upside. He is not seen as a long-term starting solution. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1122), [06-25](https://youtu.be/lOshTzDA4SA?t=1342), [09-14](https://youtu.be/t4n9MAP2_14?t=2216))
-- He is a late flyer outside the top 100, around round 10 or 11. Josh would take him over Kalkbrenner about 90 times out of 100, even though he thinks Kalkbrenner would produce more at equal minutes. (verdict, 2026-10-02; [09-27](https://youtu.be/CRLSsoGhb2w?t=1122), [10-02](https://youtu.be/ZYllcj4o6_A?t=1584))
-- One expert doubts that his shot blocking will hold up. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=708))
 - Charlotte plays 4-3-4 games in our playoff weeks 19 to 21 and has only 13 back-to-backs, the league minimum. It has a two-game week starting March 1. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781), [08-16](https://youtu.be/gf_6GveiAls?t=1343))
+- One expert doubts that his shot blocking will hold up. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=708))
 
 **Durable**
+- His category value comes from FG% and rebounds, with few turnovers. He makes no threes and is weak in points and FT%. (fact, 2026-10-04; stats, [09-14](https://youtu.be/t4n9MAP2_14?t=2216))
 - He is a hustle player and one of the best offensive rebounders in the league. (fact, 2026-09-27; [07-21](https://youtu.be/EB1Z_6n56-o?t=472), [09-27](https://youtu.be/CRLSsoGhb2w?t=353))
 - He is undersized and cannot really protect the rim, so his blocks are modest for a center. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=353), stats)
 - He is a good defender. He switches onto ball handlers, gets steals and is improving as a passer on short rolls. (verdict, 2026-09-27; [07-21](https://youtu.be/EB1Z_6n56-o?t=472), [09-27](https://youtu.be/CRLSsoGhb2w?t=353), [09-14](https://youtu.be/t4n9MAP2_14?t=2216))
-- His category value comes from FG% and rebounds, with few turnovers. He makes no threes and is weak in points and FT%. (fact, 2026-10-04; stats, [09-14](https://youtu.be/t4n9MAP2_14?t=2216))
 
 **Tags**
 - Current: `minutes competition` (Rookie center taken 14th and Ryan Kalkbrenner), `role down` (More center competition is expected to cut his minutes), `flyer` (Round 10-11 flyer outside the top 100), `few back-to-backs` (Charlotte has 13 back-to-backs, the league minimum)

@@ -3,9 +3,9 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 75 | 35.0 | 43.8 (13.7) | 81.8 (2.4) | 2.0 | 16.0 | 5.6 | 4.2 | 1.4 | 0.5 | 1.8 |
-| 2026-27 proj, Yahoo | 75 | - | 43.7 (13.5) | 81.6 (2.6) | 2.0 | 15.9 | 6.1 | 4.5 | 1.5 | 0.6 | 2.0 |
 | 2026-27 proj, ESPN | 72 | 33.3 | 43.8 (13.1) | 81.3 (2.3) | 1.9 | 15.2 | 5.4 | 4.0 | 1.4 | 0.5 | 1.7 |
+| 2026-27 proj, Yahoo | 75 | - | 43.7 (13.5) | 81.6 (2.6) | 2.0 | 15.9 | 6.1 | 4.5 | 1.5 | 0.6 | 2.0 |
+| 2025-26 | 75 | 35.0 | 43.8 (13.7) | 81.8 (2.4) | 2.0 | 16.0 | 5.6 | 4.2 | 1.4 | 0.5 | 1.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -28,20 +28,20 @@
 </details>
 
 **Current**
+- Experts call a draft spot in the 60s too high and prefer him around picks 80 to 105. At pick 104 in a 9-cat mock he was a value, and an ESPN ADP of 112 is too low. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1728), [09-22](https://youtu.be/QbdrhJd7LiA?t=897), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2860), [09-09](https://youtu.be/7BllEsdNLoM?t=1941), [09-04](https://youtu.be/gerS7ibpaJo?t=984))
+- Experts expect a usage squeeze to cut his role. His usage could fall to about 18 to 20 percent, and Lloyd is avoiding him for this reason. (verdict, 2026-09-22; [07-13](https://youtu.be/Rqb5GdrSweY?t=947), [07-13](https://youtu.be/Rqb5GdrSweY?t=873), [09-09](https://youtu.be/7BllEsdNLoM?t=1941), [07-02](https://youtu.be/P6TNP-g0wzY?t=636), [09-10](https://youtu.be/W-R1dzem32s?t=1617), [09-04](https://youtu.be/gerS7ibpaJo?t=984), [09-22](https://youtu.be/QbdrhJd7LiA?t=897))
+- Experts doubt he can match his top 70 finish from last season. One projects him around 110th. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=897), [09-04](https://youtu.be/gerS7ibpaJo?t=984), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2860), [09-09](https://youtu.be/7BllEsdNLoM?t=1941))
+- Embiid is expected to miss games and LeBron to sit games. Philadelphia's usage will swing with their health. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1654), [09-10](https://youtu.be/W-R1dzem32s?t=779), [08-06](https://youtu.be/gTsfR5PxAMY?t=1819))
+- Nick Nurse should still give him about 34 minutes, which keeps his steals useful. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1941))
+- Philadelphia added Jaylen Brown and LeBron James, and Joel Embiid is healthy. (fact, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=963), [08-06](https://youtu.be/gTsfR5PxAMY?t=141))
+- Philadelphia has 13 back-to-backs, and three of them fall in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148))
 - He is projected to start at guard next to Tyrese Maxey, Jaylen Brown, LeBron James and Joel Embiid. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=412), [08-06](https://youtu.be/gTsfR5PxAMY?t=474))
 - If the starting lineup does not fit, he is the starter most likely to move to the bench. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=474))
-- Philadelphia added Jaylen Brown and LeBron James, and Joel Embiid is healthy. (fact, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=963), [08-06](https://youtu.be/gTsfR5PxAMY?t=141))
-- Experts expect a usage squeeze to cut his role. His usage could fall to about 18 to 20 percent, and Lloyd is avoiding him for this reason. (verdict, 2026-09-22; [07-13](https://youtu.be/Rqb5GdrSweY?t=947), [07-13](https://youtu.be/Rqb5GdrSweY?t=873), [09-09](https://youtu.be/7BllEsdNLoM?t=1941), [07-02](https://youtu.be/P6TNP-g0wzY?t=636), [09-10](https://youtu.be/W-R1dzem32s?t=1617), [09-04](https://youtu.be/gerS7ibpaJo?t=984), [09-22](https://youtu.be/QbdrhJd7LiA?t=897))
-- Nick Nurse should still give him about 34 minutes, which keeps his steals useful. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1941))
-- Experts doubt he can match his top 70 finish from last season. One projects him around 110th. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=897), [09-04](https://youtu.be/gerS7ibpaJo?t=984), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2860), [09-09](https://youtu.be/7BllEsdNLoM?t=1941))
-- Experts call a draft spot in the 60s too high and prefer him around picks 80 to 105. At pick 104 in a 9-cat mock he was a value, and an ESPN ADP of 112 is too low. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1728), [09-22](https://youtu.be/QbdrhJd7LiA?t=897), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2860), [09-09](https://youtu.be/7BllEsdNLoM?t=1941), [09-04](https://youtu.be/gerS7ibpaJo?t=984))
-- Embiid is expected to miss games and LeBron to sit games. Philadelphia's usage will swing with their health. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1654), [09-10](https://youtu.be/W-R1dzem32s?t=779), [08-06](https://youtu.be/gTsfR5PxAMY?t=1819))
-- Philadelphia has 13 back-to-backs, and three of them fall in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148))
 
 **Durable**
-- His rookie season beat expectations. He was drafted around ADP 97, finished 62nd in category leagues and was top 50 late in the season. (fact, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=919))
 - Steals are his best category, and he rebounds well for a guard. (fact, 2026-10-04; stats, [09-09](https://youtu.be/7BllEsdNLoM?t=1941))
 - Nick Nurse gives his starters and guards very heavy minutes. (fact, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1956), [08-06](https://youtu.be/gTsfR5PxAMY?t=556))
+- His rookie season beat expectations. He was drafted around ADP 97, finished 62nd in category leagues and was top 50 late in the season. (fact, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=919))
 
 **Tags**
 - Current: `role down` (Usage squeezed by Jaylen Brown, LeBron James, a healthy Embiid and Maxey), `bust candidate` (At a Yahoo ADP of 63 to 66 and a 13 USD auction price), `sites disagree on price` (Yahoo average cost 9.2 USD vs ESPN 3.0 USD; ESPN ADP 112 vs Yahoo ADP 63), `bad playoff schedule` (Philadelphia has three back-to-backs in the fantasy playoffs)

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 69 | 13.0 | 41.7 (3.3) | 80.5 (0.6) | 0.8 | 4.0 | 3.4 | 1.6 | 0.4 | 0.4 | 0.5 |
-| 2024-25 | 47 | 16.7 | 43.9 (4.7) | 76.7 (0.6) | 1.3 | 5.9 | 5.6 | 2.6 | 0.5 | 0.6 | 0.7 |
-| 2025-26 | 65 | 19.7 | 42.3 (5.4) | 79.3 (1.4) | 1.5 | 7.2 | 5.5 | 2.4 | 0.5 | 0.6 | 1.0 |
-| 2026-27 proj, Yahoo | 60 | - | 41.9 (5.0) | 78.8 (1.1) | 1.4 | 6.5 | 5.3 | 1.2 | 0.9 | 0.2 | 0.6 |
 | 2026-27 proj, ESPN | 67 | 19.0 | 42.5 (5.2) | 79.3 (1.3) | 1.5 | 6.9 | 5.4 | 2.4 | 0.5 | 0.6 | 1.0 |
+| 2026-27 proj, Yahoo | 60 | - | 41.9 (5.0) | 78.8 (1.1) | 1.4 | 6.5 | 5.3 | 1.2 | 0.9 | 0.2 | 0.6 |
+| 2025-26 | 65 | 19.7 | 42.3 (5.4) | 79.3 (1.4) | 1.5 | 7.2 | 5.5 | 2.4 | 0.5 | 0.6 | 1.0 |
+| 2024-25 | 47 | 16.7 | 43.9 (4.7) | 76.7 (0.6) | 1.3 | 5.9 | 5.6 | 2.6 | 0.5 | 0.6 | 0.7 |
+| 2023-24 | 69 | 13.0 | 41.7 (3.3) | 80.5 (0.6) | 0.8 | 4.0 | 3.4 | 1.6 | 0.4 | 0.4 | 0.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,9 +30,9 @@
 </details>
 
 **Current**
+- He gets real minutes only when the centers ahead of him are out, so Hartenstein's role looks secure. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1274))
 - He is in a crowded OKC frontcourt with Chet Holmgren, Isaiah Hartenstein, Al Horford and Thomas Sorber. (fact, 2026-07-21; [06-28](https://youtu.be/RsjGTgJiKyI?t=446), [07-21](https://youtu.be/RyzcCGChYgs?t=1024))
 - He is the third center in the rotation, behind Hartenstein and Holmgren. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1024))
-- He gets real minutes only when the centers ahead of him are out, so Hartenstein's role looks secure. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1274))
 
 **Durable**
 - none

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 71 | 18.2 | 55.6 (8.4) | 79.0 (0.9) | 0.3 | 10.2 | 2.7 | 5.5 | 1.0 | 0.1 | 1.5 |
-| 2024-25 | 79 | 17.9 | 51.9 (7.9) | 74.0 (1.0) | 0.2 | 9.1 | 2.4 | 4.4 | 1.1 | 0.3 | 1.4 |
-| 2025-26 | 56 | 17.2 | 53.8 (8.0) | 86.2 (0.5) | 0.3 | 9.4 | 2.2 | 5.1 | 1.0 | 0.2 | 1.1 |
-| 2026-27 proj, Yahoo | 69 | - | 52.2 (7.4) | 79.6 (0.7) | 0.2 | 8.6 | 2.2 | 4.4 | 0.9 | 0.2 | 1.2 |
 | 2026-27 proj, ESPN | 70 | 17.8 | 53.6 (8.0) | 76.8 (0.8) | 0.2 | 9.4 | 2.5 | 4.9 | 1.0 | 0.2 | 1.4 |
+| 2026-27 proj, Yahoo | 69 | - | 52.2 (7.4) | 79.6 (0.7) | 0.2 | 8.6 | 2.2 | 4.4 | 0.9 | 0.2 | 1.2 |
+| 2025-26 | 56 | 17.2 | 53.8 (8.0) | 86.2 (0.5) | 0.3 | 9.4 | 2.2 | 5.1 | 1.0 | 0.2 | 1.1 |
+| 2024-25 | 79 | 17.9 | 51.9 (7.9) | 74.0 (1.0) | 0.2 | 9.1 | 2.4 | 4.4 | 1.1 | 0.3 | 1.4 |
+| 2023-24 | 71 | 18.2 | 55.6 (8.4) | 79.0 (0.9) | 0.3 | 10.2 | 2.7 | 5.5 | 1.0 | 0.1 | 1.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -33,9 +33,9 @@
 - He is Indiana's backup point guard. He is part of the bench rotation with Oubre, Toppin, Huff and Jarace Walker. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1619), [10-01](https://youtu.be/EGdhmUgPAWY?t=1308))
 - He should play about 17 to 19 minutes a night, whether or not Haliburton plays. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1619))
 - He is a streaming option for FG%, assists and steals, not a player to hold all season. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1613))
-- He is 35. The experts list his age as one of the questions on the Pacers roster. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1317))
 - With a season end of March 28, Indiana plays 3, 4 and 3 games in our playoff weeks 19 to 21. The team has 15 back-to-backs. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034))
 - That playoff schedule is not ideal for a season that ends March 28. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034))
+- He is 35. The experts list his age as one of the questions on the Pacers roster. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1317))
 
 **Durable**
 - He shoots a very high field goal percentage, built on a very high two-point percentage. He has no three-point shot. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1613), [08-10](https://youtu.be/sfCe7fS9daM?t=228))

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 22 | 21.8 | 46.6 (8.6) | 63.6 (1.5) | 0.8 | 9.8 | 7.0 | 1.2 | 1.4 | 0.9 | 0.9 |
-| 2024-25 | 57 | 24.9 | 48.7 (9.8) | 76.0 (1.8) | 1.1 | 12.0 | 6.4 | 1.5 | 1.7 | 0.9 | 1.1 |
-| 2025-26 | 60 | 25.9 | 41.6 (9.7) | 77.6 (1.1) | 1.6 | 10.4 | 6.3 | 1.5 | 1.2 | 0.5 | 1.4 |
-| 2026-27 proj, Yahoo | 60 | - | 44.6 (10.4) | 75.8 (1.5) | 1.4 | 11.9 | 6.8 | 1.6 | 1.5 | 0.7 | 1.4 |
 | 2026-27 proj, ESPN | 66 | 24.9 | 42.7 (9.4) | 77.2 (1.2) | 1.4 | 10.4 | 6.1 | 1.4 | 1.2 | 0.5 | 1.3 |
+| 2026-27 proj, Yahoo | 60 | - | 44.6 (10.4) | 75.8 (1.5) | 1.4 | 11.9 | 6.8 | 1.6 | 1.5 | 0.7 | 1.4 |
+| 2025-26 | 60 | 25.9 | 41.6 (9.7) | 77.6 (1.1) | 1.6 | 10.4 | 6.3 | 1.5 | 1.2 | 0.5 | 1.4 |
+| 2024-25 | 57 | 24.9 | 48.7 (9.8) | 76.0 (1.8) | 1.1 | 12.0 | 6.4 | 1.5 | 1.7 | 0.9 | 1.1 |
+| 2023-24 | 22 | 21.8 | 46.6 (8.6) | 63.6 (1.5) | 0.8 | 9.8 | 7.0 | 1.2 | 1.4 | 0.9 | 0.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -37,9 +37,9 @@
 - He is fine as a last-round pick. He is Lloyd's stash option where stashing is allowed. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1360), [10-01](https://youtu.be/aLP080hxizA?t=1763))
 - If he gets 32 minutes with Durant or Smith out, he would be about a top-70 player. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1763))
 - His three-point shooting collapsed late last season, and that dragged his FG% down. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1430), [07-16](https://youtu.be/-y6p5PYLf00?t=1753))
-- His FG% should improve. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1753))
 - With a March 28 end, the Rockets have a weak 3-3-4 fantasy playoff schedule: 10 games over weeks 19 to 21. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
 - The Rockets have only 14 back-to-backs this season. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011))
+- His FG% should improve. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1753))
 
 **Durable**
 - He is a strong rebounder for a forward and adds steals. (fact, 2026-10-04; [10-01](https://youtu.be/aLP080hxizA?t=1430), stats)

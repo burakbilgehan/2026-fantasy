@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 68 | 29.2 | 43.4 (13.1) | 85.3 (3.6) | 2.5 | 17.0 | 3.8 | 4.9 | 0.7 | 0.1 | 1.5 |
-| 2024-25 | 33 | 27.7 | 42.0 (13.3) | 86.7 (3.9) | 2.6 | 17.1 | 3.5 | 5.8 | 0.7 | 0.1 | 1.8 |
-| 2025-26 | 70 | 32.0 | 44.3 (12.9) | 82.1 (3.0) | 2.5 | 16.4 | 4.0 | 5.9 | 1.3 | 0.1 | 1.5 |
-| 2026-27 proj, Yahoo | 71 | - | 43.2 (12.1) | 84.1 (2.7) | 2.5 | 15.3 | 3.9 | 5.7 | 1.1 | 0.1 | 1.5 |
 | 2026-27 proj, ESPN | 65 | 31.4 | 43.8 (13.3) | 83.7 (3.3) | 2.6 | 17.0 | 4.0 | 5.8 | 1.1 | 0.1 | 1.5 |
+| 2026-27 proj, Yahoo | 71 | - | 43.2 (12.1) | 84.1 (2.7) | 2.5 | 15.3 | 3.9 | 5.7 | 1.1 | 0.1 | 1.5 |
+| 2025-26 | 70 | 32.0 | 44.3 (12.9) | 82.1 (3.0) | 2.5 | 16.4 | 4.0 | 5.9 | 1.3 | 0.1 | 1.5 |
+| 2024-25 | 33 | 27.7 | 42.0 (13.3) | 86.7 (3.9) | 2.6 | 17.1 | 3.5 | 5.8 | 0.7 | 0.1 | 1.8 |
+| 2023-24 | 68 | 29.2 | 43.4 (13.1) | 85.3 (3.6) | 2.5 | 17.0 | 3.8 | 4.9 | 0.7 | 0.1 | 1.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,22 +30,22 @@
 </details>
 
 **Current**
+- In a points league sleepers video, his ESPN ADP of 114 is called bench range in a standard ESPN league. He was 58th per game last season. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1949))
 - Toronto traded Brandon Ingram away and added Kawhi Leonard. (fact, 2026-09-10; [06-30](https://youtu.be/JMSLg6yz-M0?t=566), [09-10](https://youtu.be/dlo7L8Ru91A?t=473))
 - With Kawhi on the team, Quickley loses usage and should take fewer shots, but he should still have the ball a lot. Without Kawhi he would be a tier higher. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1835), [06-30](https://youtu.be/JMSLg6yz-M0?t=308), [06-30](https://youtu.be/JMSLg6yz-M0?t=566))
+- Tier 7 point guard in both formats: solid, with limited upside. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2098))
 - He is a projected starter and part of the expected closing five, next to Barrett, Kawhi and Barnes. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=496), [08-20](https://youtu.be/s28HvC2grAk?t=1066))
 - Sean expects the highest-volume three-point season of his career, mostly playing off the ball. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=600))
 - His pull-up and transition three-point shooting were poor last season. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=563))
 - That pull-up and transition shooting needs to return to his career averages. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=563))
 - When Kawhi misses time, he should run more on-ball pick and roll. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=600))
 - He stayed healthier last season than in previous years. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=521))
-- Tier 7 point guard in both formats: solid, with limited upside. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2098))
-- In a points league sleepers video, his ESPN ADP of 114 is called bench range in a standard ESPN league. He was 58th per game last season. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1949))
-- In an early mock draft, Josh regretted taking him with a rushed pick and said Kevin Porter Jr. was the right choice. (verdict, 2026-08-11; [08-11](https://youtu.be/OdDkXFhoKsc?t=1754))
 - The Raptors have 15 back-to-backs this season and three in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
+- In an early mock draft, Josh regretted taking him with a rushed pick and said Kevin Porter Jr. was the right choice. (verdict, 2026-08-11; [08-11](https://youtu.be/OdDkXFhoKsc?t=1754))
 
 **Durable**
-- He is not a classic point guard or a perfect on-ball creator. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=617))
 - He blocks almost no shots, even for a guard, so punt BLK builds lose little with him. (fact, 2026-10-04; stats)
+- He is not a classic point guard or a perfect on-ball creator. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=617))
 
 **Tags**
 - Current: `role down` (Usage moves to Kawhi Leonard; fewer shots, more off-ball play), `bad playoff schedule` (Raptors have three back-to-backs in the fantasy playoffs)

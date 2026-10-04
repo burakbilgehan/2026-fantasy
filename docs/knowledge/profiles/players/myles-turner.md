@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 77 | 27.0 | 52.4 (11.8) | 77.3 (4.1) | 1.5 | 17.1 | 6.9 | 1.3 | 0.5 | 1.9 | 1.4 |
-| 2024-25 | 72 | 30.2 | 48.1 (11.3) | 77.3 (3.3) | 2.2 | 15.6 | 6.5 | 1.5 | 0.8 | 2.0 | 1.7 |
-| 2025-26 | 71 | 26.9 | 44.0 (9.1) | 74.0 (2.5) | 2.1 | 11.9 | 5.3 | 1.5 | 0.7 | 1.6 | 1.2 |
-| 2026-27 proj, Yahoo | 68 | - | 46.8 (9.5) | 75.9 (2.4) | 1.9 | 12.7 | 5.7 | 1.4 | 0.6 | 1.7 | 1.3 |
 | 2026-27 proj, ESPN | 71 | 27.4 | 44.7 (9.4) | 74.6 (2.6) | 2.1 | 12.4 | 5.5 | 1.5 | 0.7 | 1.7 | 1.3 |
+| 2026-27 proj, Yahoo | 68 | - | 46.8 (9.5) | 75.9 (2.4) | 1.9 | 12.7 | 5.7 | 1.4 | 0.6 | 1.7 | 1.3 |
+| 2025-26 | 71 | 26.9 | 44.0 (9.1) | 74.0 (2.5) | 2.1 | 11.9 | 5.3 | 1.5 | 0.7 | 1.6 | 1.2 |
+| 2024-25 | 72 | 30.2 | 48.1 (11.3) | 77.3 (3.3) | 2.2 | 15.6 | 6.5 | 1.5 | 0.8 | 2.0 | 1.7 |
+| 2023-24 | 77 | 27.0 | 52.4 (11.8) | 77.3 (4.1) | 1.5 | 17.1 | 6.9 | 1.3 | 0.5 | 1.9 | 1.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,20 +30,20 @@
 </details>
 
 **Current**
+- Experts disagree on a bounce-back. One calls him a strong bounce-back candidate with top-60 upside and about 29 minutes per game. Another says he should not be written off. A third says that at 30 he may simply be washed. (verdict, 2026-10-02; [07-20](https://youtu.be/-KS_AZjZnw4?t=761), [07-20](https://youtu.be/-KS_AZjZnw4?t=776), [10-02](https://youtu.be/ZYllcj4o6_A?t=2280), [09-19](https://youtu.be/uarqbNA2dFk?t=1643))
+- Experts say he is not worth a top-100 pick. At ADP 97 he is overvalued, and pick 86 is too early. Taking him around pick 120 to 128 is fine. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2280), [09-30](https://youtu.be/BjXP9JODDSg?t=1426), [09-19](https://youtu.be/uarqbNA2dFk?t=1643), [07-20](https://youtu.be/-KS_AZjZnw4?t=761))
 - Milwaukee traded for Kel'el Ware, a center who can take some of Turner's minutes. (fact, 2026-09-19; [09-14](https://youtu.be/t4n9MAP2_14?t=2401), [09-19](https://youtu.be/uarqbNA2dFk?t=1643))
+- It is unclear how Jenkins will split the frontcourt minutes. One expert thinks Turner is still better than Ware. Another thinks Ware may limit his minutes. (verdict, 2026-09-19; [06-23](https://youtu.be/nnWX_ObljOE?t=268), [09-14](https://youtu.be/t4n9MAP2_14?t=2436), [09-19](https://youtu.be/uarqbNA2dFk?t=1643))
 - Doc Rivers is no longer the Milwaukee coach. Taylor Jenkins is the new coach. Experts blame Rivers for much of Turner's bad 2025-26 season. (fact, 2026-09-14; [06-23](https://youtu.be/nnWX_ObljOE?t=179), [09-14](https://youtu.be/t4n9MAP2_14?t=2436), [09-14](https://youtu.be/t4n9MAP2_14?t=2401), [07-20](https://youtu.be/-KS_AZjZnw4?t=622), [08-14](https://youtu.be/owlM6b8oUd0?t=1168))
 - He is expected to start next to Ware. Milwaukee is weak at power forward and will likely start a center at the four. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=747), [08-14](https://youtu.be/owlM6b8oUd0?t=511), [08-14](https://youtu.be/owlM6b8oUd0?t=536), [07-20](https://youtu.be/-KS_AZjZnw4?t=704))
-- It is unclear how Jenkins will split the frontcourt minutes. One expert thinks Turner is still better than Ware. Another thinks Ware may limit his minutes. (verdict, 2026-09-19; [06-23](https://youtu.be/nnWX_ObljOE?t=268), [09-14](https://youtu.be/t4n9MAP2_14?t=2436), [09-19](https://youtu.be/uarqbNA2dFk?t=1643))
-- Experts disagree on a bounce-back. One calls him a strong bounce-back candidate with top-60 upside and about 29 minutes per game. Another says he should not be written off. A third says that at 30 he may simply be washed. (verdict, 2026-10-02; [07-20](https://youtu.be/-KS_AZjZnw4?t=761), [07-20](https://youtu.be/-KS_AZjZnw4?t=776), [10-02](https://youtu.be/ZYllcj4o6_A?t=2280), [09-19](https://youtu.be/uarqbNA2dFk?t=1643))
 - A reasonable target line is 14 points, 6 rebounds, 2 threes and 2 blocks per game. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=776))
-- Experts say he is not worth a top-100 pick. At ADP 97 he is overvalued, and pick 86 is too early. Taking him around pick 120 to 128 is fine. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2280), [09-30](https://youtu.be/BjXP9JODDSg?t=1426), [09-19](https://youtu.be/uarqbNA2dFk?t=1643), [07-20](https://youtu.be/-KS_AZjZnw4?t=761))
 
 **Durable**
 - His blocks are a real outlier against the top 250 pool. (fact, 2026-10-04; stats)
 - He makes about 2 threes per game, which is high for a center. (fact, 2026-10-04; stats)
 - His FG% is low for a center. (fact, 2026-10-04; stats)
-- He needs good point guard play in the pick and roll. When he is parked in the corner, he is not used well. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1212))
 - He is worth less in points leagues than in category leagues. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1845))
+- He needs good point guard play in the pick and roll. When he is parked in the corner, he is not used well. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1212))
 
 **Tags**
 - Current: `bounce-back` (after a bad 2025-26 under Doc Rivers; experts disagree), `minutes competition` (Kel'el Ware), `bust candidate` (at a top-100 price (ADP 97))

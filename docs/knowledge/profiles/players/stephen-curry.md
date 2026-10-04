@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 74 | 32.7 | 45.0 (19.5) | 92.3 (4.4) | 4.8 | 26.4 | 4.5 | 5.1 | 0.7 | 0.4 | 2.8 |
-| 2024-25 | 70 | 32.1 | 44.8 (18.0) | 93.3 (4.3) | 4.4 | 24.5 | 4.4 | 6.0 | 1.1 | 0.4 | 2.9 |
-| 2025-26 | 43 | 31.0 | 46.8 (18.6) | 92.3 (5.1) | 4.4 | 26.6 | 3.6 | 4.7 | 1.1 | 0.4 | 2.8 |
-| 2026-27 proj, Yahoo | 67 | - | 45.3 (18.4) | 92.7 (4.7) | 4.7 | 25.7 | 4.1 | 5.0 | 1.0 | 0.4 | 2.7 |
 | 2026-27 proj, ESPN | 66 | 32.0 | 45.4 (18.7) | 92.4 (4.6) | 4.6 | 25.8 | 4.2 | 5.3 | 1.0 | 0.4 | 2.8 |
+| 2026-27 proj, Yahoo | 67 | - | 45.3 (18.4) | 92.7 (4.7) | 4.7 | 25.7 | 4.1 | 5.0 | 1.0 | 0.4 | 2.7 |
+| 2025-26 | 43 | 31.0 | 46.8 (18.6) | 92.3 (5.1) | 4.4 | 26.6 | 3.6 | 4.7 | 1.1 | 0.4 | 2.8 |
+| 2024-25 | 70 | 32.1 | 44.8 (18.0) | 93.3 (4.3) | 4.4 | 24.5 | 4.4 | 6.0 | 1.1 | 0.4 | 2.9 |
+| 2023-24 | 74 | 32.7 | 45.0 (19.5) | 92.3 (4.4) | 4.8 | 26.4 | 4.5 | 5.1 | 0.7 | 0.4 | 2.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,26 +30,26 @@
 </details>
 
 **Current**
-- Curry has said publicly that his knee issue is a new normal. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1662))
-- Several experts are worried about his knee. It is the main reason they rank him below his per-game level. (verdict, 2026-09-17; [09-15](https://youtu.be/KPdD91Oo8-U?t=459), [09-16](https://youtu.be/2A2JbUN-kc0?t=2206), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2151), [09-09](https://youtu.be/7BllEsdNLoM?t=836))
 - He is the only Warriors player who really gets usage and creates his own shot. Santos is at most a minor second creator. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=551), [09-16](https://youtu.be/2A2JbUN-kc0?t=2222), [09-09](https://youtu.be/7BllEsdNLoM?t=2274), [09-10](https://youtu.be/W-R1dzem32s?t=1810))
-- He is expected to carry a huge offensive load at age 38 because the roster lacks creators. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=678))
-- He is still one of the best players in the league at age 38. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1734))
 - The Warriors are reportedly treating this season as a gap year and are worried about their lottery odds. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=140), [09-30](https://youtu.be/MUbNYdjpUDM?t=166))
 - The Warriors may rest veterans and may be bad enough to cut his minutes. One expert expects Warriors players to fade as the season goes on. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=306), [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
 - He projects around 12th to 13th per game this season. His overall value range in category leagues is 20th to 30th, and taking him around pick 23 is fine. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=306), [09-30](https://youtu.be/MUbNYdjpUDM?t=330))
-- Experts see his market ranks as a bit low for category leagues: Yahoo rank 25 is slightly low and ESPN rank 33 is too low for a top-12 per-game player. (verdict, 2026-09-17; [09-09](https://youtu.be/7BllEsdNLoM?t=836), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2151))
 - The Warriors have 15 back-to-backs, tied for second most in the league. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=991), [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
 - The Warriors schedule is good for fantasy playoffs that end March 28. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
+- Several experts are worried about his knee. It is the main reason they rank him below his per-game level. (verdict, 2026-09-17; [09-15](https://youtu.be/KPdD91Oo8-U?t=459), [09-16](https://youtu.be/2A2JbUN-kc0?t=2206), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2151), [09-09](https://youtu.be/7BllEsdNLoM?t=836))
+- Experts see his market ranks as a bit low for category leagues: Yahoo rank 25 is slightly low and ESPN rank 33 is too low for a top-12 per-game player. (verdict, 2026-09-17; [09-09](https://youtu.be/7BllEsdNLoM?t=836), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2151))
+- Curry has said publicly that his knee issue is a new normal. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1662))
+- He is expected to carry a huge offensive load at age 38 because the roster lacks creators. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=678))
+- He is still one of the best players in the league at age 38. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1734))
 
 **Durable**
+- Turnovers are his weakest category, high for a guard. (fact, 2026-10-04; stats)
 - He is much more valuable in category leagues than in points leagues. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=299), [08-24](https://youtu.be/g31YlwRe0XQ?t=689))
 - He missed games late last season with runner's knee, a wear-and-tear issue. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1625))
 - Expect maintenance rest days because of the knee. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1625))
+- His value comes from threes, points and FT%. His assists and steals are not particularly strong for a guard. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1481), stats)
 - Injury is the main fantasy risk with Curry. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1772))
 - His three-point volume and free throw percentage are very consistent: 4.4 threes per game in each of the last two seasons and about 92 to 93 percent from the line. (fact, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=458), [07-07](https://youtu.be/ME-r173X5b0?t=2258), stats)
-- His value comes from threes, points and FT%. His assists and steals are not particularly strong for a guard. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1481), stats)
-- Turnovers are his weakest category, high for a guard. (fact, 2026-10-04; stats)
 
 **Tags**
 - Current: `injury last season` (Runner's knee late last season), `back-to-back risk` (Warriors have 15 back-to-backs and he is expected to take maintenance rest), `shutdown risk` (Warriors may treat the season as a gap year and rest veterans for lottery odds), `good playoff schedule` (Schedule good for playoffs ending March 28), `sleeper` (ESPN rank 33 seen as too low for a top-12 per-game player), `sites disagree on price` (Yahoo value 31 USD, rank 25; ESPN value 22 USD, rank 33)

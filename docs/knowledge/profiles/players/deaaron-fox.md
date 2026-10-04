@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 74 | 35.9 | 46.5 (20.9) | 73.8 (5.7) | 2.9 | 26.6 | 4.6 | 5.6 | 2.0 | 0.4 | 2.6 |
-| 2024-25 | 62 | 36.2 | 46.3 (18.8) | 82.7 (5.1) | 1.9 | 23.5 | 4.8 | 6.3 | 1.5 | 0.4 | 2.8 |
-| 2025-26 | 72 | 31.0 | 48.6 (14.5) | 76.0 (3.4) | 1.8 | 18.6 | 3.8 | 6.2 | 1.2 | 0.3 | 2.3 |
-| 2026-27 proj, Yahoo | 69 | - | 47.1 (14.6) | 77.7 (3.4) | 1.8 | 18.2 | 3.9 | 5.6 | 1.3 | 0.3 | 2.3 |
 | 2026-27 proj, ESPN | 71 | 31.3 | 47.2 (16.3) | 77.2 (4.2) | 2.0 | 20.6 | 4.0 | 5.6 | 1.4 | 0.3 | 2.3 |
+| 2026-27 proj, Yahoo | 69 | - | 47.1 (14.6) | 77.7 (3.4) | 1.8 | 18.2 | 3.9 | 5.6 | 1.3 | 0.3 | 2.3 |
+| 2025-26 | 72 | 31.0 | 48.6 (14.5) | 76.0 (3.4) | 1.8 | 18.6 | 3.8 | 6.2 | 1.2 | 0.3 | 2.3 |
+| 2024-25 | 62 | 36.2 | 46.3 (18.8) | 82.7 (5.1) | 1.9 | 23.5 | 4.8 | 6.3 | 1.5 | 0.4 | 2.8 |
+| 2023-24 | 74 | 35.9 | 46.5 (20.9) | 73.8 (5.7) | 2.9 | 26.6 | 4.6 | 5.6 | 2.0 | 0.4 | 2.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,18 +30,18 @@
 </details>
 
 **Current**
-- Fox is expected to start for the Spurs next to Stephon Castle, and the team still has a lot of faith in him. (fact, 2026-09-09; [08-27](https://youtu.be/ZAyie8lKyYc?t=648), [08-27](https://youtu.be/ZAyie8lKyYc?t=524), [09-09](https://youtu.be/7BllEsdNLoM?t=1994), [09-09](https://youtu.be/7BllEsdNLoM?t=1991), [09-04](https://youtu.be/gerS7ibpaJo?t=1249))
 - Point guard depth in San Antonio is thin. The Spurs may start Dylan Harper, Castle and Fox together, and they stagger their three guards so that at least two are always on the court. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1311), [08-27](https://youtu.be/ZAyie8lKyYc?t=666))
-- Castle initiates the offense. Fox often starts possessions off the ball and is used as a secondary weapon. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1096))
 - The guard rotation is crowded. Dylan Harper is expected to play more, and Castle, Harper and Fox cannot all get bigger roles. (fact, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1573), [08-24](https://youtu.be/g31YlwRe0XQ?t=1055), [09-09](https://youtu.be/7BllEsdNLoM?t=1991), [07-01](https://youtu.be/W3THnI7wWdA?t=1136), [09-19](https://youtu.be/uarqbNA2dFk?t=1601))
+- Experts disagree on his price. The two newest notes say his ESPN draft spot around 42 is too high and assumes a big bounce-back they doubt; Josh would not rule out a finish around 43 to 45 but will not take the risk there. Earlier September notes say drafters penalize him too much and the hate on him has gone too far. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1573), [09-19](https://youtu.be/uarqbNA2dFk?t=2338), [09-09](https://youtu.be/7BllEsdNLoM?t=1994), [09-01](https://youtu.be/80kfLVnFQ_s?t=1418))
+- Fox is expected to start for the Spurs next to Stephon Castle, and the team still has a lot of faith in him. (fact, 2026-09-09; [08-27](https://youtu.be/ZAyie8lKyYc?t=648), [08-27](https://youtu.be/ZAyie8lKyYc?t=524), [09-09](https://youtu.be/7BllEsdNLoM?t=1994), [09-09](https://youtu.be/7BllEsdNLoM?t=1991), [09-04](https://youtu.be/gerS7ibpaJo?t=1249))
+- Castle initiates the offense. Fox often starts possessions off the ball and is used as a secondary weapon. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1096))
 - He suffered a serious high ankle sprain in the playoff series against Minnesota. He came back in about 10 days from what is normally a four to six week injury, was clearly not himself and lost his downhill burst. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=574), [08-27](https://youtu.be/ZAyie8lKyYc?t=2074))
 - A healthy Fox is called the key ceiling raiser for the Spurs, whose offense relies on downhill guard penetration. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2074), [08-27](https://youtu.be/ZAyie8lKyYc?t=2249))
-- Experts disagree on his price. The two newest notes say his ESPN draft spot around 42 is too high and assumes a big bounce-back they doubt; Josh would not rule out a finish around 43 to 45 but will not take the risk there. Earlier September notes say drafters penalize him too much and the hate on him has gone too far. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1573), [09-19](https://youtu.be/uarqbNA2dFk?t=2338), [09-09](https://youtu.be/7BllEsdNLoM?t=1994), [09-01](https://youtu.be/80kfLVnFQ_s?t=1418))
 
 **Durable**
-- His game is built on downhill drives to the basket. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2074), [08-27](https://youtu.be/ZAyie8lKyYc?t=2249))
-- Injury history: hamstring problems during the 2025-26 season and a serious high ankle sprain in the 2026 playoffs. (fact, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1573), [08-27](https://youtu.be/ZAyie8lKyYc?t=574))
 - His category profile is balanced. No category is a league outlier or flagged weak. Assists, steals and points are his best categories, and turnovers are his weakest. (fact, 2026-10-04; stats)
+- Injury history: hamstring problems during the 2025-26 season and a serious high ankle sprain in the 2026 playoffs. (fact, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1573), [08-27](https://youtu.be/ZAyie8lKyYc?t=574))
+- His game is built on downhill drives to the basket. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2074), [08-27](https://youtu.be/ZAyie8lKyYc?t=2249))
 
 **Tags**
 - Current: `minutes competition` (Dylan Harper is expected to play more; Castle runs the offense), `bust candidate` (Called too high at his ESPN draft spot around 42), `sleeper` (Some experts say drafters penalize him too much), `sites disagree on price` (Yahoo rank 74 and average cost 6.2 USD; ESPN rank 52 and average cost 10.2 USD)

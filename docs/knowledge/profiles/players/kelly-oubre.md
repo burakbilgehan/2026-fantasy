@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 68 | 30.3 | 44.1 (12.9) | 75.0 (3.4) | 1.5 | 15.4 | 5.0 | 1.5 | 1.1 | 0.7 | 1.3 |
-| 2024-25 | 60 | 34.7 | 47.0 (12.3) | 75.1 (3.1) | 1.2 | 15.1 | 6.1 | 1.8 | 1.5 | 0.5 | 1.3 |
-| 2025-26 | 50 | 31.5 | 46.7 (10.9) | 76.6 (2.9) | 1.7 | 14.1 | 5.0 | 1.6 | 1.4 | 0.5 | 1.4 |
-| 2026-27 proj, Yahoo | 68 | - | 45.7 (9.3) | 75.7 (2.6) | 1.3 | 11.8 | 4.6 | 1.4 | 1.2 | 0.5 | 1.1 |
 | 2026-27 proj, ESPN | 67 | 26.3 | 45.9 (9.9) | 75.9 (2.6) | 1.2 | 12.2 | 4.4 | 1.3 | 1.1 | 0.5 | 1.1 |
+| 2026-27 proj, Yahoo | 68 | - | 45.7 (9.3) | 75.7 (2.6) | 1.3 | 11.8 | 4.6 | 1.4 | 1.2 | 0.5 | 1.1 |
+| 2025-26 | 50 | 31.5 | 46.7 (10.9) | 76.6 (2.9) | 1.7 | 14.1 | 5.0 | 1.6 | 1.4 | 0.5 | 1.4 |
+| 2024-25 | 60 | 34.7 | 47.0 (12.3) | 75.1 (3.1) | 1.2 | 15.1 | 6.1 | 1.8 | 1.5 | 0.5 | 1.3 |
+| 2023-24 | 68 | 30.3 | 44.1 (12.9) | 75.0 (3.4) | 1.5 | 15.4 | 5.0 | 1.5 | 1.1 | 0.7 | 1.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,18 +30,18 @@
 </details>
 
 **Current**
-- Signed with Indiana as wing depth. (fact, 2026-08-10; [07-02](https://youtu.be/P6TNP-g0wzY?t=2160), [08-10](https://youtu.be/sfCe7fS9daM?t=362))
 - Projected sixth man off the bench for about 27 minutes a night. It would be the first time in his career that he comes off the bench. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1336), [10-01](https://youtu.be/EGdhmUgPAWY?t=1308), [09-15](https://youtu.be/KPdD91Oo8-U?t=2846), [09-10](https://youtu.be/dlo7L8Ru91A?t=2070), [08-10](https://youtu.be/sfCe7fS9daM?t=362))
 - Aaron Nesmith is the projected starter at his spot. If Oubre started, it would be in place of Nesmith. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=238))
 - He is a 14 to 16 team league player. A Yahoo ADP of 114 is too high. ESPN ADP 182 and Fantrax ADP 230 are good value. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1354))
-- He converted only 32% of his deflections into steals, so he has room to get more steals. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1401))
 - Indiana plays 3, 4 and 3 games in our fantasy playoff weeks 19 to 21, which is not ideal. They have 15 back-to-backs. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034))
+- Signed with Indiana as wing depth. (fact, 2026-08-10; [07-02](https://youtu.be/P6TNP-g0wzY?t=2160), [08-10](https://youtu.be/sfCe7fS9daM?t=362))
+- He converted only 32% of his deflections into steals, so he has room to get more steals. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1401))
 
 **Durable**
-- A scorer who can create his own shot and defend wings. He adds steals and not much else. (fact, 2026-09-10; [08-10](https://youtu.be/sfCe7fS9daM?t=362), [09-10](https://youtu.be/dlo7L8Ru91A?t=2070))
 - Low assists, low three-point volume and usually poor free throw shooting. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1367))
-- A mediocre shooter. His career-high three-point percentage was about 36%. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=384))
 - He is a good steals player, but he needs 30 or more minutes to have fantasy value. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1367))
+- A scorer who can create his own shot and defend wings. He adds steals and not much else. (fact, 2026-09-10; [08-10](https://youtu.be/sfCe7fS9daM?t=362), [09-10](https://youtu.be/dlo7L8Ru91A?t=2070))
+- A mediocre shooter. His career-high three-point percentage was about 36%. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=384))
 - He tends to arrive as a bench player and then play heavy minutes after injuries to others. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=415))
 
 **Tags**

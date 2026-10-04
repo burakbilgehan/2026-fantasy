@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 68 | 26.4 | 64.9 (7.6) | 72.3 (2.4) | 0.0 | 11.7 | 9.2 | 1.4 | 0.3 | 1.2 | 1.2 |
-| 2024-25 | 80 | 32.8 | 62.8 (11.8) | 66.1 (3.0) | 0.0 | 16.8 | 12.6 | 2.7 | 0.7 | 1.1 | 1.6 |
-| 2025-26 | 48 | 30.2 | 59.8 (10.0) | 71.1 (3.0) | 0.0 | 14.1 | 10.6 | 2.2 | 0.4 | 0.8 | 1.8 |
-| 2026-27 proj, Yahoo | 72 | - | 61.8 (10.2) | 68.8 (2.8) | 0.0 | 14.5 | 11.0 | 2.2 | 0.5 | 1.0 | 1.6 |
 | 2026-27 proj, ESPN | 69 | 30.0 | 62.4 (9.9) | 69.4 (2.8) | 0.0 | 14.3 | 10.9 | 2.1 | 0.5 | 1.1 | 1.5 |
+| 2026-27 proj, Yahoo | 72 | - | 61.8 (10.2) | 68.8 (2.8) | 0.0 | 14.5 | 11.0 | 2.2 | 0.5 | 1.0 | 1.6 |
+| 2025-26 | 48 | 30.2 | 59.8 (10.0) | 71.1 (3.0) | 0.0 | 14.1 | 10.6 | 2.2 | 0.4 | 0.8 | 1.8 |
+| 2024-25 | 80 | 32.8 | 62.8 (11.8) | 66.1 (3.0) | 0.0 | 16.8 | 12.6 | 2.7 | 0.7 | 1.1 | 1.6 |
+| 2023-24 | 68 | 26.4 | 64.9 (7.6) | 72.3 (2.4) | 0.0 | 11.7 | 9.2 | 1.4 | 0.3 | 1.2 | 1.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -34,19 +34,19 @@
 - Jay Huff is the backup center. The depth behind Huff is weak. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1308), [10-01](https://youtu.be/EGdhmUgPAWY?t=1884), [09-14](https://youtu.be/t4n9MAP2_14?t=1530), [07-20](https://youtu.be/-KS_AZjZnw4?t=1526))
 - He is expected to play around 30 minutes. His minutes are a concern because Rick Carlisle has a history of limiting starting center minutes and Jay Huff is a decent backup. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=233), [10-01](https://youtu.be/EGdhmUgPAWY?t=170), [08-10](https://youtu.be/sfCe7fS9daM?t=1211), [09-14](https://youtu.be/t4n9MAP2_14?t=1530), [08-10](https://youtu.be/sfCe7fS9daM?t=1146))
 - He should be much better than last season running pick and roll with Tyrese Haliburton. His minutes and how much Haliburton makes things easier for him are the keys to his season. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=897), [09-21](https://youtu.be/egRrai3Ax38?t=1700), [09-14](https://youtu.be/t4n9MAP2_14?t=1530), [07-20](https://youtu.be/-KS_AZjZnw4?t=1538))
-- His fit is a question. He moves from a very slow Clippers system into an uptempo system that needs quicker decisions. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1373))
 - He missed time last season with a fractured rib and arrived in Indiana with an ankle injury, playing only six games for the Pacers. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1958), [07-20](https://youtu.be/-KS_AZjZnw4?t=1501))
 - The fractured rib from last season is no concern at all. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1958))
 - In category leagues the expert ranks him 60 to 75. Yahoo's rank of 57 is too aggressive, while his ESPN ADP around 95 is good value. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=842), [10-01](https://youtu.be/EGdhmUgPAWY?t=849))
 - He is the expert's best target on the Pacers, depending on the platform price. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1836))
 - Carlisle likes to keep minutes down and rest players on back-to-backs. Indiana has 15 back-to-backs. (fact, 2026-10-01; [09-16](https://youtu.be/2A2JbUN-kc0?t=870), [10-01](https://youtu.be/EGdhmUgPAWY?t=2034), [10-01](https://youtu.be/EGdhmUgPAWY?t=122))
 - Indiana plays 3, 4 and 3 games in our fantasy playoff weeks 19 to 21, which is not ideal. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034))
+- His fit is a question. He moves from a very slow Clippers system into an uptempo system that needs quicker decisions. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1373))
 
 **Durable**
+- His category profile is high FG% on real volume and big rebound numbers. Threes and steals are his weak categories. His FT% is below average but on low volume. (fact, 2026-10-04; stats)
 - His minutes have usually been stuck around 29 to 30. He played 33 minutes only once, and his production exploded that season. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=192), stats)
 - He is an elite rebounder, an elite screener and a strong post-up player. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1061), [08-10](https://youtu.be/sfCe7fS9daM?t=1114))
 - He almost never shoots threes. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=524), stats)
-- His category profile is high FG% on real volume and big rebound numbers. Threes and steals are his weak categories. His FT% is below average but on low volume. (fact, 2026-10-04; stats)
 - His 9-cat rank tends to overstate his real value. His 35th place 9-cat finish two seasons ago overstated him. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1598))
 
 **Tags**

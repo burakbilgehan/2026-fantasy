@@ -3,8 +3,8 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 13 | 16.3 | 43.6 (6.0) | 77.8 (0.7) | 0.5 | 6.2 | 1.8 | 1.5 | 0.3 | 0.2 | 0.5 |
 | 2024-25 | 8 | 21.0 | 35.6 (9.1) | 63.6 (1.4) | 1.0 | 8.4 | 2.5 | 2.2 | 0.1 | 0.5 | 1.0 |
+| 2023-24 | 13 | 16.3 | 43.6 (6.0) | 77.8 (0.7) | 0.5 | 6.2 | 1.8 | 1.5 | 0.3 | 0.2 | 0.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -12,9 +12,9 @@
 
 **Current**
 - Washington has a crowded group of wings and guards. The fifth starter spot is open, with many wings competing for it. (fact, 2026-09-07; [07-23](https://youtu.be/LUTYUdXBG1M?t=248), [09-07](https://youtu.be/gJUBAJaHzlU?t=1586))
+- Trae Young and Anthony Davis will take most of Washington's usage. That leaves little for the other players. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
 - He is not among Washington's projected starters: Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
 - Washington expects a 10 or 11 man rotation, with 12 or 13 players who could justify minutes. A bench guard may not get steady minutes. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2098))
-- Trae Young and Anthony Davis will take most of Washington's usage. That leaves little for the other players. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
 
 **Durable**
 - none

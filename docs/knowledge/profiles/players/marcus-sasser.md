@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 71 | 19.0 | 42.8 (7.2) | 87.9 (0.9) | 1.3 | 8.3 | 1.8 | 3.3 | 0.6 | 0.2 | 1.3 |
-| 2024-25 | 57 | 14.2 | 46.3 (5.2) | 84.3 (0.9) | 1.0 | 6.6 | 1.2 | 2.3 | 0.6 | 0.1 | 0.9 |
-| 2025-26 | 38 | 12.1 | 39.0 (4.7) | 83.3 (0.5) | 1.2 | 5.2 | 1.0 | 2.0 | 0.5 | 0.1 | 0.8 |
-| 2026-27 proj, Yahoo | 44 | - | 40.7 (3.8) | 80.0 (0.6) | 0.8 | 4.4 | 1.0 | 1.7 | 0.2 | 0.0 | 0.8 |
 | 2026-27 proj, ESPN | 60 | 13.1 | 41.0 (5.0) | 83.3 (0.6) | 1.1 | 5.7 | 1.1 | 2.2 | 0.6 | 0.1 | 0.9 |
+| 2026-27 proj, Yahoo | 44 | - | 40.7 (3.8) | 80.0 (0.6) | 0.8 | 4.4 | 1.0 | 1.7 | 0.2 | 0.0 | 0.8 |
+| 2025-26 | 38 | 12.1 | 39.0 (4.7) | 83.3 (0.5) | 1.2 | 5.2 | 1.0 | 2.0 | 0.5 | 0.1 | 0.8 |
+| 2024-25 | 57 | 14.2 | 46.3 (5.2) | 84.3 (0.9) | 1.0 | 6.6 | 1.2 | 2.3 | 0.6 | 0.1 | 0.9 |
+| 2023-24 | 71 | 19.0 | 42.8 (7.2) | 87.9 (0.9) | 1.3 | 8.3 | 1.8 | 3.3 | 0.6 | 0.2 | 1.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -31,15 +31,15 @@
 
 **Current**
 - Dallas is short on true ball handlers. Kyrie Irving, rookie Sergio de Larrea and Sasser are its only real guards, and most of the roster is forwards. (fact, 2026-09-29; [07-27](https://youtu.be/0AptxcRW0RE?t=413), [09-29](https://youtu.be/XSPJL_mlFXo?t=134), [07-21](https://youtu.be/RyzcCGChYgs?t=2295))
-- Nick expects Sasser to get a chance at a bigger role in Dallas. (verdict, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=330))
 - Josh does not have Sasser in his projected starting five. That five is Kyrie Irving, Max Christie, Cooper Flagg, P.J. Washington and Morez Johnson Jr. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=358))
 - Dusty May is the new Dallas head coach, so the rotation is not settled yet. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=234))
 - Dallas plays 4 games in each of our fantasy playoff weeks (4-4-4). It also has the league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
+- Nick expects Sasser to get a chance at a bigger role in Dallas. (verdict, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=330))
 
 **Durable**
+- In his small role he is far below the top 250 pool in points, rebounds and steals. (fact, 2026-10-04; stats)
 - Sasser is an undersized 6'1 guard who can go on hot shooting streaks. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1602), [07-27](https://youtu.be/0AptxcRW0RE?t=422))
 - Josh thinks Sasser is not a good player. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1602), [07-27](https://youtu.be/0AptxcRW0RE?t=422))
-- In his small role he is far below the top 250 pool in points, rebounds and steals. (fact, 2026-10-04; stats)
 
 **Tags**
 - Current: `role up` (Nick expects a chance at a bigger role because Dallas has few real guards), `minutes competition` (backup guard minutes behind Kyrie Irving, with rookie Sergio de Larrea also in the mix), `waiver watch` (not a draft pick at rank 395 Yahoo and 316 ESPN; watch whether thin guard depth gives him minutes), `good playoff schedule` (Dallas plays 4-4-4 in weeks 19 to 21)

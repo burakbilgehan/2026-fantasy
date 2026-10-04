@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 46 | 34.4 | 43.0 (18.2) | 91.6 (3.9) | 3.4 | 22.6 | 3.6 | 5.5 | 0.5 | 0.1 | 2.7 |
-| 2024-25 | 70 | 32.7 | 42.6 (16.1) | 90.2 (2.8) | 3.1 | 19.3 | 2.7 | 4.8 | 0.9 | 0.1 | 2.0 |
-| 2025-26 | 55 | 24.9 | 44.0 (11.8) | 89.6 (1.4) | 2.7 | 14.3 | 2.5 | 2.4 | 0.5 | 0.1 | 1.2 |
-| 2026-27 proj, Yahoo | 68 | - | 42.7 (11.3) | 90.2 (1.5) | 2.5 | 13.5 | 2.3 | 3.2 | 0.5 | 0.1 | 1.5 |
 | 2026-27 proj, ESPN | 66 | 25.1 | 43.4 (12.2) | 89.9 (1.8) | 2.5 | 14.7 | 2.3 | 3.0 | 0.5 | 0.1 | 1.4 |
+| 2026-27 proj, Yahoo | 68 | - | 42.7 (11.3) | 90.2 (1.5) | 2.5 | 13.5 | 2.3 | 3.2 | 0.5 | 0.1 | 1.5 |
+| 2025-26 | 55 | 24.9 | 44.0 (11.8) | 89.6 (1.4) | 2.7 | 14.3 | 2.5 | 2.4 | 0.5 | 0.1 | 1.2 |
+| 2024-25 | 70 | 32.7 | 42.6 (16.1) | 90.2 (2.8) | 3.1 | 19.3 | 2.7 | 4.8 | 0.9 | 0.1 | 2.0 |
+| 2023-24 | 46 | 34.4 | 43.0 (18.2) | 91.6 (3.9) | 3.4 | 22.6 | 3.6 | 5.5 | 0.5 | 0.1 | 2.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,14 +30,14 @@
 </details>
 
 **Current**
-- Simons joined Philadelphia this offseason. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=141), [08-06](https://youtu.be/gTsfR5PxAMY?t=169))
-- He is set to come off the bench as Philadelphia's sixth man. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=169), [07-16](https://youtu.be/-y6p5PYLf00?t=1058))
+- Experts expect Embiid to miss games and the stars, LeBron included, to be load managed. That could open extra minutes for bench players. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1654), [08-06](https://youtu.be/gTsfR5PxAMY?t=1819))
+- One expert expects new arrivals, Simons among them, to cut into Maxey's minutes. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=760))
 - The projected starters are Tyrese Maxey, VJ Edgecombe, Jaylen Brown, LeBron James and Joel Embiid, so usage on this team is crowded. (fact, 2026-09-09; [08-06](https://youtu.be/gTsfR5PxAMY?t=412), [08-26](https://youtu.be/sTtFUy7IoJI?t=1944), [09-09](https://youtu.be/7BllEsdNLoM?t=907), [08-09](https://youtu.be/8d--aL_xxwE?t=552))
 - Nick Nurse plays his starters very heavy minutes, and the guard rotation is crowded. That leaves limited minutes for bench guards. (fact, 2026-09-09; [08-06](https://youtu.be/gTsfR5PxAMY?t=556), [09-09](https://youtu.be/7BllEsdNLoM?t=1956), [08-02](https://youtu.be/TOn-D1SV7a8?t=1033))
-- His numbers should come down in a backup role, and his rim finishing is not expected to hold at last season's level. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1058))
-- One expert expects new arrivals, Simons among them, to cut into Maxey's minutes. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=760))
-- Experts expect Embiid to miss games and the stars, LeBron included, to be load managed. That could open extra minutes for bench players. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1654), [08-06](https://youtu.be/gTsfR5PxAMY?t=1819))
 - Philadelphia has 13 back-to-backs this season, and three of them fall in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148))
+- Simons joined Philadelphia this offseason. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=141), [08-06](https://youtu.be/gTsfR5PxAMY?t=169))
+- He is set to come off the bench as Philadelphia's sixth man. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=169), [07-16](https://youtu.be/-y6p5PYLf00?t=1058))
+- His numbers should come down in a backup role, and his rim finishing is not expected to hold at last season's level. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1058))
 
 **Durable**
 - Last season he finished 70 percent at the rim (88th percentile), up from 58 percent. Before that he was in the lower half of the league at the rim. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1058))

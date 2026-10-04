@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 78 | 30.1 | 41.3 (15.2) | 87.7 (2.8) | 2.4 | 17.4 | 2.7 | 4.4 | 1.1 | 0.3 | 2.4 |
-| 2024-25 | 68 | 29.5 | 43.2 (15.5) | 88.3 (4.0) | 3.5 | 20.5 | 3.0 | 4.5 | 1.3 | 0.4 | 3.0 |
-| 2025-26 | 39 | 24.0 | 37.2 (11.4) | 86.0 (2.9) | 2.5 | 13.4 | 2.0 | 3.1 | 0.6 | 0.4 | 1.8 |
-| 2026-27 proj, Yahoo | 58 | - | 41.1 (8.9) | 87.8 (2.1) | 1.8 | 10.9 | 1.6 | 2.5 | 0.6 | 0.2 | 1.5 |
 | 2026-27 proj, ESPN | 66 | 22.1 | 40.9 (11.1) | 87.3 (2.4) | 2.0 | 13.2 | 2.0 | 3.2 | 0.8 | 0.3 | 1.9 |
+| 2026-27 proj, Yahoo | 58 | - | 41.1 (8.9) | 87.8 (2.1) | 1.8 | 10.9 | 1.6 | 2.5 | 0.6 | 0.2 | 1.5 |
+| 2025-26 | 39 | 24.0 | 37.2 (11.4) | 86.0 (2.9) | 2.5 | 13.4 | 2.0 | 3.1 | 0.6 | 0.4 | 1.8 |
+| 2024-25 | 68 | 29.5 | 43.2 (15.5) | 88.3 (4.0) | 3.5 | 20.5 | 3.0 | 4.5 | 1.3 | 0.4 | 3.0 |
+| 2023-24 | 78 | 30.1 | 41.3 (15.2) | 87.7 (2.8) | 2.4 | 17.4 | 2.7 | 4.4 | 1.1 | 0.3 | 2.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,9 +30,9 @@
 </details>
 
 **Current**
-- Poole is probably out of the rotation in New Orleans. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1672))
 - The expected Pelicans starters are Zion Williamson, Trey Murphy, Dejounte Murray and likely Yves Missi. The last spot goes to Jeremiah Fears or Herb Jones. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [09-24](https://youtu.be/_vbAP5y182A?t=1141))
 - The Pelicans have a crowded rotation. About eight players could start: Fears, Murray, Jones, Murphy, Zion, Bey, Missi and Queen. Bennedict Mathurin was also added to the bench. (fact, 2026-09-04; [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1477))
+- Poole is probably out of the rotation in New Orleans. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1672))
 
 **Durable**
 - One expert says he often gets Poole wrong, so his value is hard to predict. (verdict, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=452))

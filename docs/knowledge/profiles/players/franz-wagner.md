@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 72 | 32.5 | 48.2 (15.2) | 85.0 (4.4) | 1.3 | 19.7 | 5.3 | 3.7 | 1.1 | 0.4 | 1.9 |
-| 2024-25 | 60 | 33.7 | 46.3 (19.4) | 87.1 (5.2) | 1.7 | 24.1 | 5.7 | 4.7 | 1.2 | 0.3 | 2.3 |
-| 2025-26 | 34 | 30.0 | 48.1 (14.9) | 82.3 (5.8) | 1.4 | 20.6 | 5.2 | 3.3 | 0.9 | 0.3 | 1.7 |
-| 2026-27 proj, Yahoo | 67 | - | 48.5 (17.5) | 84.8 (6.6) | 1.7 | 24.2 | 5.7 | 4.2 | 1.2 | 0.4 | 2.1 |
 | 2026-27 proj, ESPN | 66 | 34.0 | 47.4 (17.4) | 84.9 (5.3) | 1.6 | 22.5 | 5.7 | 4.2 | 1.2 | 0.4 | 2.1 |
+| 2026-27 proj, Yahoo | 67 | - | 48.5 (17.5) | 84.8 (6.6) | 1.7 | 24.2 | 5.7 | 4.2 | 1.2 | 0.4 | 2.1 |
+| 2025-26 | 34 | 30.0 | 48.1 (14.9) | 82.3 (5.8) | 1.4 | 20.6 | 5.2 | 3.3 | 0.9 | 0.3 | 1.7 |
+| 2024-25 | 60 | 33.7 | 46.3 (19.4) | 87.1 (5.2) | 1.7 | 24.1 | 5.7 | 4.7 | 1.2 | 0.3 | 2.3 |
+| 2023-24 | 72 | 32.5 | 48.2 (15.2) | 85.0 (4.4) | 1.3 | 19.7 | 5.3 | 3.7 | 1.1 | 0.4 | 1.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,16 +30,16 @@
 </details>
 
 **Current**
-- He is a projected starter in Orlando next to Suggs, Bane, Banchero and Carter. That group was very good when it played together. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
-- Orlando has a new head coach, Sean Sweeney, so player roles may change. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
+- Experts see picks 47 to 49 as a bit early for him. In a 9-cat mock he went in round 6. (verdict, 2026-09-24; [09-15](https://youtu.be/KPdD91Oo8-U?t=1004), [08-24](https://youtu.be/g31YlwRe0XQ?t=926), [09-24](https://youtu.be/_vbAP5y182A?t=1176))
 - He is falling in drafts because of his injury. Mock drafts take him around picks 54 to 60. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767), [08-11](https://youtu.be/OdDkXFhoKsc?t=1241))
 - His upside is about top 40, not top 30. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767))
-- Experts see picks 47 to 49 as a bit early for him. In a 9-cat mock he went in round 6. (verdict, 2026-09-24; [09-15](https://youtu.be/KPdD91Oo8-U?t=1004), [08-24](https://youtu.be/g31YlwRe0XQ?t=926), [09-24](https://youtu.be/_vbAP5y182A?t=1176))
+- He is a projected starter in Orlando next to Suggs, Bane, Banchero and Carter. That group was very good when it played together. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
+- Orlando has a new head coach, Sean Sweeney, so player roles may change. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
 
 **Durable**
+- Injuries badly hurt two of his seasons, and poor shooting seasons came before them. Last season a high ankle sprain from a contact injury cost him about 47 to 51 games and lowered his minutes. (fact, 2026-09-14; [09-10](https://youtu.be/dlo7L8Ru91A?t=1328), [08-01](https://youtu.be/FEcNjVRlj-U?t=1179), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767))
 - He has no single standout category but is good across the board. His best categories are points and FT%. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1328), stats)
 - He is probably better in category leagues than in points leagues. (verdict, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=926))
-- Injuries badly hurt two of his seasons, and poor shooting seasons came before them. Last season a high ankle sprain from a contact injury cost him about 47 to 51 games and lowered his minutes. (fact, 2026-09-14; [09-10](https://youtu.be/dlo7L8Ru91A?t=1328), [08-01](https://youtu.be/FEcNjVRlj-U?t=1179), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767))
 - Before those two seasons he was usually reliable and played through ankle rolls. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1179))
 - Phil sees the injuries of the last two years as random, not a chronic problem. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1179))
 

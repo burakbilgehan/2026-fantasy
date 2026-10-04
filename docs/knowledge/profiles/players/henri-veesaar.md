@@ -27,12 +27,12 @@
 
 **Current**
 - He tore his ACL and will miss the whole 2026-27 season. (fact, 2026-09-25, until end of the 2026-27 season; [09-25](https://youtu.be/4gw4W4RTolY?t=1673), [09-25](https://youtu.be/4gw4W4RTolY?t=1693), stats)
-- He is a rookie. The Hawks drafted him 52nd in the 2026 draft. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1099))
 - Experts think he went far too low in the draft and should have been a first-round pick. One calls him one of the two biggest risers versus his draft slot. (verdict, 2026-06-28; [06-26](https://youtu.be/CLsUc0Sevos?t=1099), [06-28](https://youtu.be/RsjGTgJiKyI?t=393))
+- He is a rookie. The Hawks drafted him 52nd in the 2026 draft. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1099))
 
 **Durable**
-- He is a 7'0 center. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1099))
 - He tore his ACL before his rookie season. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1673))
+- He is a 7'0 center. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1099))
 - Experts project him as a backup big man over his career. (verdict, 2026-06-26; [06-22](https://youtu.be/HxQjagSTTAM?t=845), [06-26](https://youtu.be/CLsUc0Sevos?t=1099))
 
 **Tags**

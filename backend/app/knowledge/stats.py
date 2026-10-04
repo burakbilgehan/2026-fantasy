@@ -102,13 +102,15 @@ def _pct(made: float, att: float) -> str:
     return "-" if not att else f"{100 * made / att:.1f}"
 
 
-def stat_table(n: PlayerNumbers) -> str:
+def stat_table(n: PlayerNumbers, newest_first: bool = False) -> str:
+    """Per game table. The LLM prompt keeps the old order (oldest first) so profile inputs do not
+    change; pages for the user pass newest_first (projections, then the last season)."""
     if not n.rows:
         return "No NBA stats and no projections in our data."
     head = ("| Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |\n"
             "|---|---|---|---|---|---|---|---|---|---|---|---|")
     lines = [head]
-    for r in n.rows:
+    for r in (reversed(n.rows) if newest_first else n.rows):
         t, g = r.totals, r.gp
         pg = {c: t[c] / g for c in _COLS}
         lines.append(

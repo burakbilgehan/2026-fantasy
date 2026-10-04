@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 80 | 17.7 | 60.1 (6.9) | 81.4 (2.5) | 0.5 | 10.8 | 4.3 | 1.2 | 0.5 | 0.3 | 1.2 |
-| 2024-25 | 30 | 18.8 | 56.2 (8.3) | 71.8 (3.7) | 0.9 | 12.9 | 4.9 | 1.4 | 0.8 | 0.4 | 1.6 |
-| 2025-26 | 36 | 11.9 | 42.6 (5.4) | 81.9 (2.0) | 0.6 | 6.9 | 3.2 | 0.8 | 0.4 | 0.1 | 0.5 |
-| 2026-27 proj, Yahoo | 64 | - | 47.5 (7.3) | 76.2 (3.2) | 0.8 | 10.1 | 4.9 | 1.3 | 0.6 | 0.4 | 0.7 |
 | 2026-27 proj, ESPN | 62 | 13.3 | 47.0 (5.9) | 79.7 (2.3) | 0.6 | 8.0 | 3.5 | 0.9 | 0.5 | 0.1 | 0.7 |
+| 2026-27 proj, Yahoo | 64 | - | 47.5 (7.3) | 76.2 (3.2) | 0.8 | 10.1 | 4.9 | 1.3 | 0.6 | 0.4 | 0.7 |
+| 2025-26 | 36 | 11.9 | 42.6 (5.4) | 81.9 (2.0) | 0.6 | 6.9 | 3.2 | 0.8 | 0.4 | 0.1 | 0.5 |
+| 2024-25 | 30 | 18.8 | 56.2 (8.3) | 71.8 (3.7) | 0.9 | 12.9 | 4.9 | 1.4 | 0.8 | 0.4 | 1.6 |
+| 2023-24 | 80 | 17.7 | 60.1 (6.9) | 81.4 (2.5) | 0.5 | 10.8 | 4.3 | 1.2 | 0.5 | 0.3 | 1.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,10 +30,10 @@
 </details>
 
 **Current**
-- He signed with Brooklyn on a mutual option deal as veteran depth. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=226), [07-02](https://youtu.be/P6TNP-g0wzY?t=1914))
 - He is projected as Brooklyn's backup center, behind starter Day'Ron Sharpe. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1156), [09-26](https://youtu.be/3UGI05PDvrE?t=313), [09-26](https://youtu.be/3UGI05PDvrE?t=1156))
-- Experts expect a messy split of center minutes with Sharpe and Danny Wolf. (verdict, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=226), [07-02](https://youtu.be/P6TNP-g0wzY?t=1914))
 - Brooklyn does not own its pick and may give second-half minutes to young players like Clowney and Minott. That puts a veteran backup's March minutes at risk. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1642))
+- He signed with Brooklyn on a mutual option deal as veteran depth. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=226), [07-02](https://youtu.be/P6TNP-g0wzY?t=1914))
+- Experts expect a messy split of center minutes with Sharpe and Danny Wolf. (verdict, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=226), [07-02](https://youtu.be/P6TNP-g0wzY?t=1914))
 - Not draftable. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1886))
 
 **Durable**

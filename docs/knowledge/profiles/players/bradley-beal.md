@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 53 | 33.4 | 51.3 (13.9) | 81.3 (2.5) | 1.9 | 18.2 | 4.4 | 5.0 | 1.0 | 0.5 | 2.5 |
-| 2024-25 | 53 | 32.0 | 49.7 (13.1) | 80.3 (2.6) | 1.9 | 17.0 | 3.3 | 3.7 | 1.1 | 0.5 | 1.9 |
-| 2025-26 | 6 | 20.2 | 37.5 (8.0) | 75.0 (1.3) | 1.2 | 8.2 | 0.8 | 1.7 | 0.5 | 0.0 | 1.5 |
-| 2026-27 proj, Yahoo | 50 | - | 49.6 (7.6) | 79.5 (1.5) | 1.1 | 9.8 | 2.0 | 2.3 | 0.6 | 0.3 | 1.2 |
 | 2026-27 proj, ESPN | 62 | 25.3 | 50.2 (10.4) | 80.6 (2.0) | 1.5 | 13.6 | 2.9 | 3.3 | 0.8 | 0.4 | 1.7 |
+| 2026-27 proj, Yahoo | 50 | - | 49.6 (7.6) | 79.5 (1.5) | 1.1 | 9.8 | 2.0 | 2.3 | 0.6 | 0.3 | 1.2 |
+| 2025-26 | 6 | 20.2 | 37.5 (8.0) | 75.0 (1.3) | 1.2 | 8.2 | 0.8 | 1.7 | 0.5 | 0.0 | 1.5 |
+| 2024-25 | 53 | 32.0 | 49.7 (13.1) | 80.3 (2.6) | 1.9 | 17.0 | 3.3 | 3.7 | 1.1 | 0.5 | 1.9 |
+| 2023-24 | 53 | 33.4 | 51.3 (13.9) | 81.3 (2.5) | 1.9 | 18.2 | 4.4 | 5.0 | 1.0 | 0.5 | 2.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,13 +30,13 @@
 </details>
 
 **Current**
-- Beal re-signed with the Clippers after hip surgery. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=558))
 - Beal will miss the start of the season with a hip fracture and knee soreness. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1113))
 - He is not in the projected starting lineup. He is projected as the seventh man off the bench, behind Kris Dunn. (fact, 2026-10-04; [08-22](https://youtu.be/KLogvUwv_d8?t=558), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268))
 - The expert thinks Beal is probably washed. He still sees some upside because the Clippers need shot creation. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1113))
 - The expert says not to draft Beal. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1148))
 - He could be a streaming option at times if he gets up to 30 minutes. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1951))
 - The Clippers have a good fantasy playoff schedule: 4, 3 and 4 games in weeks 19 to 21. They have only 13 back-to-backs, one of the lowest totals in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
+- Beal re-signed with the Clippers after hip surgery. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=558))
 
 **Durable**
 - Knee soreness has been a long-running problem for Beal. He has also had hip surgery for a hip fracture. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1951), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1113), [08-22](https://youtu.be/KLogvUwv_d8?t=558))

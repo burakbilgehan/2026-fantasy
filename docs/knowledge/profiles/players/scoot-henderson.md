@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 62 | 28.5 | 38.5 (12.9) | 81.9 (3.3) | 1.4 | 14.0 | 3.1 | 5.4 | 0.8 | 0.2 | 3.4 |
-| 2024-25 | 66 | 26.7 | 41.9 (10.4) | 76.7 (3.1) | 1.6 | 12.7 | 3.0 | 5.1 | 1.0 | 0.2 | 2.7 |
-| 2025-26 | 30 | 24.9 | 41.8 (11.4) | 84.0 (3.3) | 1.9 | 14.2 | 2.7 | 3.7 | 0.9 | 0.3 | 2.4 |
-| 2026-27 proj, Yahoo | 65 | - | 46.6 (10.2) | 82.4 (2.8) | 1.8 | 13.6 | 3.0 | 3.4 | 1.0 | 0.5 | 0.7 |
 | 2026-27 proj, ESPN | 66 | 27.0 | 41.5 (11.8) | 82.1 (3.4) | 1.8 | 14.4 | 2.9 | 4.5 | 1.0 | 0.3 | 2.7 |
+| 2026-27 proj, Yahoo | 65 | - | 46.6 (10.2) | 82.4 (2.8) | 1.8 | 13.6 | 3.0 | 3.4 | 1.0 | 0.5 | 0.7 |
+| 2025-26 | 30 | 24.9 | 41.8 (11.4) | 84.0 (3.3) | 1.9 | 14.2 | 2.7 | 3.7 | 0.9 | 0.3 | 2.4 |
+| 2024-25 | 66 | 26.7 | 41.9 (10.4) | 76.7 (3.1) | 1.6 | 12.7 | 3.0 | 5.1 | 1.0 | 0.2 | 2.7 |
+| 2023-24 | 62 | 28.5 | 38.5 (12.9) | 81.9 (3.3) | 1.4 | 14.0 | 3.1 | 5.4 | 0.8 | 0.2 | 3.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -31,14 +31,14 @@
 
 **Current**
 - Portland's backcourt is crowded. Lillard, Morant, Holiday and Avdija share the on-ball work, and Henderson is listed off the bench. (fact, 2026-09-14; [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [07-07](https://youtu.be/ME-r173X5b0?t=1091), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [09-10](https://youtu.be/W-R1dzem32s?t=1062), [09-14](https://youtu.be/LM0cRCGoAUQ?t=836))
+- He returns from a season with many missed games. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), stats)
+- Portland has three back-to-backs in the fantasy playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
 - He is expected to be a bench player at about 20 minutes, with few chances to play more. Minutes and usage across Portland's rotation are expected to swing from game to game. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1801), [06-29](https://youtu.be/bHA-JoW3reE?t=323), [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
-- Not draftable in standard leagues. (verdict, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=323))
-- Portland was rumored to be in a trade for Jaylen Brown, and that deal would likely send out Henderson or another guard. (fact, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=286), [06-29](https://youtu.be/bHA-JoW3reE?t=323))
 - The newer Blazers preview doubts that Portland makes a consolidation trade. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
 - Only 47.3% of his potential assists turn into assists. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1949))
 - His low assist conversion is likely tied to poor finishing by teammates such as Clingan and Camara. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1949), [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
-- Portland has three back-to-backs in the fantasy playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
-- He returns from a season with many missed games. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), stats)
+- Not draftable in standard leagues. (verdict, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=323))
+- Portland was rumored to be in a trade for Jaylen Brown, and that deal would likely send out Henderson or another guard. (fact, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=286), [06-29](https://youtu.be/bHA-JoW3reE?t=323))
 
 **Durable**
 - He is an on-ball point guard. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), [09-10](https://youtu.be/W-R1dzem32s?t=1062))

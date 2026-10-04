@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 82 | 30.0 | 40.1 (9.1) | 81.2 (1.0) | 1.7 | 9.8 | 4.2 | 4.4 | 0.7 | 0.3 | 1.7 |
-| 2025-26 | 82 | 27.7 | 42.4 (9.0) | 73.0 (1.4) | 2.1 | 10.7 | 3.4 | 4.6 | 0.6 | 0.2 | 2.3 |
-| 2026-27 proj, Yahoo | 80 | - | 42.6 (7.0) | 79.2 (1.3) | 1.6 | 8.6 | 2.9 | 3.3 | 0.6 | 0.2 | 1.5 |
 | 2026-27 proj, ESPN | 82 | 25.1 | 42.0 (8.1) | 74.5 (1.2) | 1.8 | 9.5 | 3.1 | 4.1 | 0.6 | 0.2 | 2.0 |
+| 2026-27 proj, Yahoo | 80 | - | 42.6 (7.0) | 79.2 (1.3) | 1.6 | 8.6 | 2.9 | 3.3 | 0.6 | 0.2 | 1.5 |
+| 2025-26 | 82 | 27.7 | 42.4 (9.0) | 73.0 (1.4) | 2.1 | 10.7 | 3.4 | 4.6 | 0.6 | 0.2 | 2.3 |
+| 2024-25 | 82 | 30.0 | 40.1 (9.1) | 81.2 (1.0) | 1.7 | 9.8 | 4.2 | 4.4 | 0.7 | 0.3 | 1.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,13 +29,13 @@
 </details>
 
 **Current**
-- Trae Young will start at point guard ahead of him. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=973))
-- He should not be handling point guard duties. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=973))
 - Washington added Trae Young, Anthony Davis and AJ Dybantsa. (fact, 2026-09-17; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [09-17](https://youtu.be/DubdKKhMWHo?t=1436))
 - The arrival of Young, Davis and Dybantsa cuts into the roles of Washington's young players. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192))
-- The projected Washington starters are Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr. Carrington is not among them. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
 - Washington has a crowded group of guards and wings, and many wings are competing for the fifth starter spot. (fact, 2026-09-07; [07-23](https://youtu.be/LUTYUdXBG1M?t=248), [09-07](https://youtu.be/gJUBAJaHzlU?t=1586))
+- The projected Washington starters are Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr. Carrington is not among them. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
 - Washington is expected to use a 10 or 11 man rotation, with 12 or 13 players who could justify minutes. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2098))
+- Trae Young will start at point guard ahead of him. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=973))
+- He should not be handling point guard duties. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=973))
 
 **Durable**
 - He ran point guard early in 2025-26, and it did not work out well. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1411))

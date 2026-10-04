@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 78 | 15.7 | 56.2 (4.8) | 78.9 (0.9) | 0.8 | 6.9 | 2.4 | 1.1 | 0.7 | 0.2 | 0.7 |
-| 2024-25 | 76 | 23.0 | 48.8 (9.6) | 83.1 (1.2) | 1.7 | 12.0 | 3.9 | 1.8 | 0.8 | 0.2 | 0.9 |
-| 2025-26 | 65 | 21.8 | 43.1 (8.2) | 73.6 (1.1) | 1.5 | 9.4 | 3.1 | 1.7 | 0.9 | 0.4 | 1.2 |
-| 2026-27 proj, Yahoo | 71 | - | 44.2 (8.9) | 77.3 (1.2) | 1.6 | 10.4 | 3.3 | 2.2 | 1.2 | 0.2 | 1.4 |
 | 2026-27 proj, ESPN | 72 | 20.3 | 48.7 (8.1) | 81.9 (1.0) | 1.4 | 10.1 | 3.3 | 1.5 | 0.7 | 0.2 | 0.9 |
+| 2026-27 proj, Yahoo | 71 | - | 44.2 (8.9) | 77.3 (1.2) | 1.6 | 10.4 | 3.3 | 2.2 | 1.2 | 0.2 | 1.4 |
+| 2025-26 | 65 | 21.8 | 43.1 (8.2) | 73.6 (1.1) | 1.5 | 9.4 | 3.1 | 1.7 | 0.9 | 0.4 | 1.2 |
+| 2024-25 | 76 | 23.0 | 48.8 (9.6) | 83.1 (1.2) | 1.7 | 12.0 | 3.9 | 1.8 | 0.8 | 0.2 | 0.9 |
+| 2023-24 | 78 | 15.7 | 56.2 (4.8) | 78.9 (0.9) | 0.8 | 6.9 | 2.4 | 1.1 | 0.7 | 0.2 | 0.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,12 +30,12 @@
 </details>
 
 **Current**
-- Oklahoma City traded him to Atlanta this offseason. (fact, 2026-07-26; [07-01](https://youtu.be/W3THnI7wWdA?t=212), [07-26](https://youtu.be/75Sk_4fkgIM?t=1268))
 - He is expected to come off the bench, likely as the seventh man in a 10-man rotation behind the five projected starters. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1430), [07-01](https://youtu.be/W3THnI7wWdA?t=212), [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
-- Lu Dort competes with him for the backup wing minutes. Wiggins is the cleaner fit as a backup 2/3 and the better shooter, and he could pass Dort in minutes by the end of the season. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1818), [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
 - Several Atlanta starters handle the ball, so Dort or Wiggins can step into the minutes of any starter who misses time. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1580))
 - Lloyd says a Yahoo rank of 187 is too high for him. He also thinks his good fantasy reputation from OKC was somewhat unfounded. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1430))
 - Atlanta plays 4, 4 and 3 games in our playoff weeks 19 to 21. The team has 14 back-to-backs and does not tend to rest players. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739))
+- Lu Dort competes with him for the backup wing minutes. Wiggins is the cleaner fit as a backup 2/3 and the better shooter, and he could pass Dort in minutes by the end of the season. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1818), [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
+- Oklahoma City traded him to Atlanta this offseason. (fact, 2026-07-26; [07-01](https://youtu.be/W3THnI7wWdA?t=212), [07-26](https://youtu.be/75Sk_4fkgIM?t=1268))
 
 **Durable**
 - His shot dropped off last season, but historically he has been a much better shooter. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1874))

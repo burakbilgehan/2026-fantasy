@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 56 | 13.6 | 51.5 (3.7) | 80.0 (1.2) | 0.2 | 4.9 | 3.1 | 1.2 | 0.4 | 0.6 | 0.6 |
-| 2024-25 | 42 | 11.9 | 53.3 (3.6) | 67.5 (1.0) | 0.3 | 4.8 | 3.3 | 0.9 | 0.3 | 0.2 | 0.5 |
-| 2025-26 | 68 | 22.2 | 51.5 (8.1) | 63.5 (1.9) | 1.1 | 10.6 | 5.7 | 1.7 | 0.5 | 0.5 | 0.9 |
 | 2026-27 proj, Yahoo | 57 | - | 51.5 (6.3) | 81.6 (1.5) | 0.8 | 8.5 | 4.7 | 1.1 | 0.3 | 0.2 | 0.8 |
+| 2025-26 | 68 | 22.2 | 51.5 (8.1) | 63.5 (1.9) | 1.1 | 10.6 | 5.7 | 1.7 | 0.5 | 0.5 | 0.9 |
+| 2024-25 | 42 | 11.9 | 53.3 (3.6) | 67.5 (1.0) | 0.3 | 4.8 | 3.3 | 0.9 | 0.3 | 0.2 | 0.5 |
+| 2023-24 | 56 | 13.6 | 51.5 (3.7) | 80.0 (1.2) | 0.2 | 4.9 | 3.1 | 1.2 | 0.4 | 0.6 | 0.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,15 +29,15 @@
 </details>
 
 **Current**
-- Landale re-signed with Atlanta on a 1-year, 14 million USD deal. (fact, 2026-08-25; [07-01](https://youtu.be/W3THnI7wWdA?t=1289), [08-25](https://youtu.be/H9q2FT3LhNw?t=1317))
 - He is the backup center behind Onyeka Okongwu and part of a 10-man bench rotation. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1880), [08-25](https://youtu.be/H9q2FT3LhNw?t=1317), [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
 - Atlanta's center depth is thin: Veesaar is out for the season and Gueye is injured. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1693))
 - If Okongwu got hurt, Landale would start and play 30-plus minutes. That makes him the best stash on the team, but only in deep stash formats. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1880))
+- Landale re-signed with Atlanta on a 1-year, 14 million USD deal. (fact, 2026-08-25; [07-01](https://youtu.be/W3THnI7wWdA?t=1289), [08-25](https://youtu.be/H9q2FT3LhNw?t=1317))
 - One expert calls him an okay backup center and questions the size of his contract. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1289))
 
 **Durable**
-- He is a center who can shoot, so Atlanta always has a shooting center on the floor. This fits Quin Snyder's five-out offense, which wants lots of threes. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1317), [08-25](https://youtu.be/H9q2FT3LhNw?t=697))
 - Steals are a clear weak spot. He is projected well below the league in steals. (fact, 2026-10-04; stats)
+- He is a center who can shoot, so Atlanta always has a shooting center on the floor. This fits Quin Snyder's five-out offense, which wants lots of threes. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1317), [08-25](https://youtu.be/H9q2FT3LhNw?t=697))
 
 **Tags**
 - Current: `handcuff` (Backup to Onyeka Okongwu. Would start and play 30-plus minutes if Okongwu is out.), `waiver watch` (Stash value only in deep leagues. In our league, add him if Okongwu misses time.)

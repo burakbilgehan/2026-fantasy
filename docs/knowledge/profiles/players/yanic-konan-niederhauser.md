@@ -3,8 +3,8 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 41 | 10.4 | 64.0 (2.4) | 75.8 (1.5) | 0.0 | 4.3 | 2.9 | 0.3 | 0.1 | 0.7 | 0.6 |
 | 2026-27 proj, Yahoo | 66 | - | 66.2 (3.1) | 74.8 (1.9) | 0.0 | 5.6 | 3.6 | 0.6 | 0.3 | 0.9 | 0.7 |
+| 2025-26 | 41 | 10.4 | 64.0 (2.4) | 75.8 (1.5) | 0.0 | 4.3 | 2.9 | 0.3 | 0.1 | 0.7 | 0.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -28,17 +28,17 @@
 
 **Current**
 - He is out with a broken foot and will not be ready for opening night. He is out of the boot. The expected return is between Thanksgiving and Christmas, and the team is expected to bring him back slowly. One beat writer says the return could slip to 2027. (fact, 2026-10-04, until return between Thanksgiving and Christmas; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1975), [08-22](https://youtu.be/KLogvUwv_d8?t=967), [06-30](https://youtu.be/4GDfg2n2l8o?t=1043))
-- Experts think he would have been the Clippers' starting center and worth drafting if he had started the season healthy. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=877), [09-04](https://youtu.be/gerS7ibpaJo?t=1692))
 - He outplayed Brook Lopez for big stretches of last season. Over his final seven games he averaged 7 points, 5 rebounds and 1.6 blocks in 17 minutes. (fact, 2026-10-04; [06-30](https://youtu.be/4GDfg2n2l8o?t=1043), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1893))
 - Isaiah Jackson is the projected starting center and started over Brook Lopez in preseason scrimmages. Lopez is projected as the backup center. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=360), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268), [10-01](https://youtu.be/EGdhmUgPAWY?t=867))
 - He is an IL stash. After his return he should take the starting center job by February and March at 24 or more minutes, which is enough to matter for fantasy. He could have a top 70 run late in the season. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1906), [10-02](https://youtu.be/ZYllcj4o6_A?t=1889), [08-22](https://youtu.be/KLogvUwv_d8?t=1105))
 - The Clippers have a good fantasy playoff schedule: 4, 3 and 4 games in weeks 19 to 21. They also have one of the lowest back-to-back totals in the league, with 13. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
 - The expert leans toward the Clippers using this season as a trial year with long rotations and many players tested. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335))
+- Experts think he would have been the Clippers' starting center and worth drafting if he had started the season healthy. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=877), [09-04](https://youtu.be/gerS7ibpaJo?t=1692))
 
 **Durable**
-- He is a long, athletic big man and a shot blocker. He has some ball handling and a natural-looking shot form. He has added about 20 pounds of muscle. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1105))
 - His fantasy profile looks like Donovan Clingan's, but with better free throws. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1893))
 - He makes no threes and gets very few steals. His projected per-game value comes from FG%, few turnovers and blocks. (fact, 2026-10-04; stats)
+- He is a long, athletic big man and a shot blocker. He has some ball handling and a natural-looking shot form. He has added about 20 pounds of muscle. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1105))
 - He broke his foot around March of last season. (fact, 2026-08-22; [06-30](https://youtu.be/4GDfg2n2l8o?t=1043), [08-22](https://youtu.be/KLogvUwv_d8?t=967))
 
 **Tags**

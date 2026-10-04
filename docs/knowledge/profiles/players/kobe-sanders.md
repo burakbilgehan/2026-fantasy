@@ -3,8 +3,8 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 68 | 19.9 | 46.6 (5.6) | 82.6 (1.0) | 1.2 | 7.3 | 2.2 | 1.6 | 0.7 | 0.1 | 1.2 |
 | 2026-27 proj, Yahoo | 68 | - | 44.2 (5.8) | 81.7 (1.0) | 1.1 | 7.1 | 2.3 | 3.0 | 0.8 | 0.2 | 1.2 |
+| 2025-26 | 68 | 19.9 | 46.6 (5.6) | 82.6 (1.0) | 1.2 | 7.3 | 2.2 | 1.6 | 0.7 | 0.1 | 1.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -27,15 +27,15 @@
 </details>
 
 **Current**
-- He re-signed with the Clippers. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1464))
 - The latest Clippers preview has him as the tenth man in the rotation, behind Kris Dunn, Bradley Beal, Brook Lopez and Keaton Wagler on the bench. He has no starting spot. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1547), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268), [07-01](https://youtu.be/W3THnI7wWdA?t=1464))
-- His minutes are uncertain because Bradley Beal re-signed. (verdict, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1334))
 - Yahoo lists him as questionable with a hip injury. (fact, 2026-10-04; stats)
-- He had 14 points, 5 rebounds and 4 assists in summer league and looked too good for that level. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1816))
 - To matter for fantasy he needs big minutes and a couple of high-usage players out of the way. The latest preview speaker is not interested in him. (verdict, 2026-10-04; [07-01](https://youtu.be/W3THnI7wWdA?t=1464), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1547))
 - The Clippers have many injuries, with Ingram, Beal, Jordan Miller and Konan Niederhauser all out. This could open minutes on the wing. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018))
 - The Clippers may treat this as a trial season with long rotations and many players tested, and coach Ty Lue often changes his rotation choices. That makes a tenth man's minutes hard to predict. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
 - The Clippers play 4-3-4 games in our playoff weeks and have one of the lowest back-to-back totals in the league with 13. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
+- His minutes are uncertain because Bradley Beal re-signed. (verdict, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1334))
+- He had 14 points, 5 rebounds and 4 assists in summer league and looked too good for that level. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1816))
+- He re-signed with the Clippers. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1464))
 
 **Durable**
 - When he started as a rookie, he gave almost nothing for fantasy. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1547))

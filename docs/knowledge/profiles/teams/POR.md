@@ -13,8 +13,10 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 **Current**
 - Portland has a crowded backcourt. Damian Lillard, Ja Morant, Jrue Holiday, Scoot Henderson and Deni Avdija all handle the ball and share the playmaking, and Shaedon Sharpe is also in the guard rotation. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), [09-10](https://youtu.be/dlo7L8Ru91A?t=767), [09-10](https://youtu.be/W-R1dzem32s?t=1062), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [07-07](https://youtu.be/ME-r173X5b0?t=1091), [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [06-29](https://youtu.be/bHA-JoW3reE?t=227), stats)
 - Morant, Lillard and Henderson are all back. They are on-ball point guards who played about 15 games combined last season. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=836))
-- Lillard, Morant, Henderson and Avdija cannot all keep last season's usage. The guard crowding adds risk to Lillard. (verdict, 2026-09-01; [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [09-01](https://youtu.be/80kfLVnFQ_s?t=806))
 - The new guards cut Avdija's on-ball role, usage and passing. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=767), [09-10](https://youtu.be/W-R1dzem32s?t=1062))
+- Lillard, Morant, Henderson and Avdija cannot all keep last season's usage. The guard crowding adds risk to Lillard. (verdict, 2026-09-01; [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [09-01](https://youtu.be/80kfLVnFQ_s?t=806))
+- In the fantasy playoffs Portland has 10 games (17th of 30) and a back-to-back in each of weeks 19, 20 and 21. That adds rest risk for injury-prone players like Lillard, Morant and Williams. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037), stats)
+- Portland has a five-game week starting February 8. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1310))
 - Projected starting five: Lillard, Morant, Toumani Camara, Avdija and Donovan Clingan. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [06-29](https://youtu.be/bHA-JoW3reE?t=419), stats)
 - Portland is expected to stagger Lillard and Morant but still close games with both on the floor. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=825))
 - Minutes and usage are expected to swing from game to game across the rotation. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
@@ -22,14 +24,12 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Portland added several centers. Clingan starts, with Robert Williams III behind him on the depth chart and Yang Hansen also at center. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [06-29](https://youtu.be/bHA-JoW3reE?t=1032), stats)
 - Clingan is not expected to play more than 28 minutes. (verdict, 2026-08-11; [08-11](https://youtu.be/OdDkXFhoKsc?t=912))
 - Portland wants bigs who stay out of the paint so that Avdija and Morant can drive downhill. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1321))
-- Camara, Clingan and Avdija are poor finishers, which lowers how many passes Portland's guards turn into assists. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
 - Transition defense is projected to be poor, and offensive rebounding got worse. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=825))
 - The projection is about 44 wins, in a 40 to 45 range, which makes Portland a likely playoff or play-in team. The win total of 43.5 ranks 15th of 30, so late-season tanking looks unlikely. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1656), stats)
-- Portland has been rumored in a trade for Jaylen Brown. Such a deal would likely send out Henderson or another guard. (fact, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=286))
 - A consolidation trade that clears the guard logjam is considered unlikely. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
+- Camara, Clingan and Avdija are poor finishers, which lowers how many passes Portland's guards turn into assists. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
+- Portland has been rumored in a trade for Jaylen Brown. Such a deal would likely send out Henderson or another guard. (fact, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=286))
 - The notes do not name a head coach. Portland still had none the day before the June draft, so coach habits are unknown. (fact, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1262))
-- In the fantasy playoffs Portland has 10 games (17th of 30) and a back-to-back in each of weeks 19, 20 and 21. That adds rest risk for injury-prone players like Lillard, Morant and Williams. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037), stats)
-- Portland has a five-game week starting February 8. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1310))
 
 **Durable**
 - none

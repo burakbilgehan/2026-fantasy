@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 78 | 18.5 | 45.8 (6.2) | 86.5 (0.7) | 1.9 | 8.2 | 2.3 | 1.3 | 0.6 | 0.3 | 0.6 |
-| 2024-25 | 74 | 21.7 | 44.0 (7.9) | 82.1 (0.8) | 2.6 | 10.2 | 2.6 | 1.6 | 0.6 | 0.1 | 0.5 |
-| 2025-26 | 71 | 21.2 | 45.5 (7.6) | 89.4 (1.7) | 2.5 | 11.1 | 2.5 | 1.3 | 0.7 | 0.2 | 0.6 |
-| 2026-27 proj, Yahoo | 73 | - | 44.9 (7.9) | 87.2 (1.3) | 2.6 | 10.8 | 2.5 | 1.5 | 0.7 | 0.2 | 0.6 |
 | 2026-27 proj, ESPN | 72 | 21.1 | 45.3 (7.6) | 88.9 (1.5) | 2.5 | 10.8 | 2.5 | 1.4 | 0.7 | 0.2 | 0.6 |
+| 2026-27 proj, Yahoo | 73 | - | 44.9 (7.9) | 87.2 (1.3) | 2.6 | 10.8 | 2.5 | 1.5 | 0.7 | 0.2 | 0.6 |
+| 2025-26 | 71 | 21.2 | 45.5 (7.6) | 89.4 (1.7) | 2.5 | 11.1 | 2.5 | 1.3 | 0.7 | 0.2 | 0.6 |
+| 2024-25 | 74 | 21.7 | 44.0 (7.9) | 82.1 (0.8) | 2.6 | 10.2 | 2.6 | 1.6 | 0.6 | 0.1 | 0.5 |
+| 2023-24 | 78 | 18.5 | 45.8 (6.2) | 86.5 (0.7) | 1.9 | 8.2 | 2.3 | 1.3 | 0.6 | 0.3 | 0.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,19 +30,19 @@
 </details>
 
 **Current**
-- Detroit acquired him from Oklahoma City in a trade this offseason. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=284))
 - He is projected as Detroit's sixth man and backup shooter, first off the bench. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1544), [10-03](https://youtu.be/_O9pc_u5vH0?t=1420), [07-01](https://youtu.be/W3THnI7wWdA?t=284))
 - Duncan Robinson is projected to start ahead of him. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=374))
-- He is the most likely challenger to Duncan Robinson for the starting spot. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=643))
-- Detroit used a deep 12 to 13 player rotation last season, and that limited everyone's minutes. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1386))
 - He ranks outside the top 250 for fantasy, with value around 250. He is a three-point streamer, not a draft pick. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1544), [10-03](https://youtu.be/_O9pc_u5vH0?t=1602))
 - Detroit plays 4-3-4 games in our playoff weeks and has 15 back-to-backs. No rest risks are expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
+- He is the most likely challenger to Duncan Robinson for the starting spot. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=643))
+- Detroit used a deep 12 to 13 player rotation last season, and that limited everyone's minutes. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1386))
+- Detroit acquired him from Oklahoma City in a trade this offseason. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=284))
 
 **Durable**
 - He is an elite three-point shooter with low usage who adds little else. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1602), [07-26](https://youtu.be/75Sk_4fkgIM?t=296))
-- He is a strong regular-season shooter who can get hot from three. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=296))
 - His defense kept him off the floor in OKC's last two playoff runs, and he fell out of their playoff rotation. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=643), [07-26](https://youtu.be/75Sk_4fkgIM?t=296))
 - He has some impact creating turnovers on defense. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=643))
+- He is a strong regular-season shooter who can get hot from three. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=296))
 
 **Tags**
 - Current: `new team` (Traded from OKC to DET), `minutes competition` (Competes with Duncan Robinson for the starting spot), `waiver watch` (Three-point streamer, ranked outside the top 250)

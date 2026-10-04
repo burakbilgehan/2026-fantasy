@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 32 | 18.2 | 39.0 (6.8) | 90.2 (1.3) | 1.1 | 7.5 | 3.2 | 1.7 | 0.4 | 0.2 | 1.5 |
-| 2024-25 | 71 | 20.2 | 45.9 (8.4) | 89.0 (1.0) | 2.2 | 10.9 | 3.0 | 1.5 | 0.6 | 0.1 | 1.5 |
-| 2025-26 | 75 | 23.5 | 46.0 (11.4) | 82.6 (2.7) | 2.2 | 14.9 | 3.1 | 1.9 | 0.7 | 0.2 | 1.7 |
-| 2026-27 proj, Yahoo | 70 | - | 44.3 (8.7) | 87.5 (1.8) | 1.8 | 11.1 | 2.8 | 1.3 | 0.5 | 0.3 | 0.8 |
 | 2026-27 proj, ESPN | 72 | 21.6 | 45.8 (10.3) | 83.1 (2.3) | 2.0 | 13.4 | 2.9 | 1.7 | 0.7 | 0.1 | 1.5 |
+| 2026-27 proj, Yahoo | 70 | - | 44.3 (8.7) | 87.5 (1.8) | 1.8 | 11.1 | 2.8 | 1.3 | 0.5 | 0.3 | 0.8 |
+| 2025-26 | 75 | 23.5 | 46.0 (11.4) | 82.6 (2.7) | 2.2 | 14.9 | 3.1 | 1.9 | 0.7 | 0.2 | 1.7 |
+| 2024-25 | 71 | 20.2 | 45.9 (8.4) | 89.0 (1.0) | 2.2 | 10.9 | 3.0 | 1.5 | 0.6 | 0.1 | 1.5 |
+| 2023-24 | 32 | 18.2 | 39.0 (6.8) | 90.2 (1.3) | 1.1 | 7.5 | 3.2 | 1.7 | 0.4 | 0.2 | 1.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,11 +30,11 @@
 </details>
 
 **Current**
+- He ranked 95th after last season's trade deadline, during Utah's tank stretch. (fact, 2026-09-17; [07-14](https://youtu.be/xHRF06_E9HE?t=1654), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226))
+- Utah is expected to play to win this season, so the late-season minutes he got last year will not be there. (verdict, 2026-09-17; [07-14](https://youtu.be/xHRF06_E9HE?t=872), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226))
 - Utah's projected starting lineup is Keyonte George, Darryn Peterson, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic. He is not in it. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=349))
 - The Utah wing and guard rotation is crowded with George, Peterson, Ace Bailey, Markkanen and Jackson Jr. next to him. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1689))
 - He will likely come off the bench this season. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1654))
-- He ranked 95th after last season's trade deadline, during Utah's tank stretch. (fact, 2026-09-17; [07-14](https://youtu.be/xHRF06_E9HE?t=1654), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226))
-- Utah is expected to play to win this season, so the late-season minutes he got last year will not be there. (verdict, 2026-09-17; [07-14](https://youtu.be/xHRF06_E9HE?t=872), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226))
 - His fantasy value is finished after Utah's draft. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1422))
 
 **Durable**

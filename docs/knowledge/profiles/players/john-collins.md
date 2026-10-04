@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 68 | 27.9 | 53.2 (11.0) | 79.5 (2.7) | 1.3 | 15.1 | 8.5 | 1.1 | 0.6 | 0.9 | 1.4 |
-| 2024-25 | 40 | 30.5 | 52.7 (13.3) | 84.8 (4.1) | 1.5 | 18.9 | 8.2 | 2.0 | 1.0 | 1.0 | 2.6 |
-| 2025-26 | 69 | 27.1 | 55.2 (9.6) | 76.6 (2.2) | 1.3 | 13.6 | 5.3 | 1.0 | 0.9 | 0.7 | 1.4 |
-| 2026-27 proj, Yahoo | 65 | - | 54.1 (11.0) | 80.0 (2.8) | 1.4 | 15.6 | 6.8 | 1.3 | 0.9 | 0.9 | 1.7 |
 | 2026-27 proj, ESPN | 68 | 30.6 | 53.9 (11.7) | 79.7 (2.9) | 1.4 | 16.4 | 7.7 | 1.3 | 0.8 | 0.9 | 1.7 |
+| 2026-27 proj, Yahoo | 65 | - | 54.1 (11.0) | 80.0 (2.8) | 1.4 | 15.6 | 6.8 | 1.3 | 0.9 | 0.9 | 1.7 |
+| 2025-26 | 69 | 27.1 | 55.2 (9.6) | 76.6 (2.2) | 1.3 | 13.6 | 5.3 | 1.0 | 0.9 | 0.7 | 1.4 |
+| 2024-25 | 40 | 30.5 | 52.7 (13.3) | 84.8 (4.1) | 1.5 | 18.9 | 8.2 | 2.0 | 1.0 | 1.0 | 2.6 |
+| 2023-24 | 68 | 27.9 | 53.2 (11.0) | 79.5 (2.7) | 1.3 | 15.1 | 8.5 | 1.1 | 0.6 | 0.9 | 1.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -32,21 +32,21 @@
 **Current**
 - He plays for Detroit after leaving the Clippers. He is the projected starting power forward in place of Tobias Harris, next to Cunningham, Robinson, Thompson and Duren. (fact, 2026-10-03; [08-22](https://youtu.be/KLogvUwv_d8?t=526), [07-05](https://youtu.be/4kKINkZhWls?t=1707), [08-12](https://youtu.be/p9XE5jFqhvs?t=134), [07-02](https://youtu.be/P6TNP-g0wzY?t=1574), [10-03](https://youtu.be/_O9pc_u5vH0?t=374))
 - Detroit has weak depth at power forward, and Isaiah Stewart is gone. (fact, 2026-10-03; [07-20](https://youtu.be/-KS_AZjZnw4?t=1019), [10-03](https://youtu.be/_O9pc_u5vH0?t=208))
-- Detroit used a deep 12 to 13 player rotation last season, which limited everyone's minutes. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1386))
-- He should play 30 to 31 minutes, as Tobias Harris did, up from 27 last season. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1032))
 - He becomes a category-league value if he plays 31 minutes. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1064))
 - He is fine in rounds 9 to 10 in category leagues. His ESPN rank of 99 is a bit high. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1064), [10-03](https://youtu.be/_O9pc_u5vH0?t=1117))
-- Experts agree that his upside is low. One expert calls him underrated at an ADP of 118, but another says that is too big a gap from Jarrett Allen's ADP in the 70s. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1614), [09-14](https://youtu.be/t4n9MAP2_14?t=1753), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1991), [09-15](https://youtu.be/KPdD91Oo8-U?t=1925))
 - He should beat last season's rank of about 120 thanks to more stability, usage and minutes. He will not reach his prime level, and he is not a 20 and 10 player anymore. (verdict, 2026-10-03; [07-13](https://youtu.be/Rqb5GdrSweY?t=2048), [10-03](https://youtu.be/_O9pc_u5vH0?t=1078))
-- His rebounding dip to five per game last season looks low for him. He is usually about an eight-rebound player. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1071))
 - Experts see him as a real-life downgrade from Tobias Harris and a worse fit for Detroit. They still expect him to play a lot. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1078), [07-20](https://youtu.be/-KS_AZjZnw4?t=980), [08-11](https://youtu.be/OdDkXFhoKsc?t=2117))
 - Detroit plays 4, 3 and 4 games in our playoff weeks 19 to 21. The team has 15 back-to-backs, with no rest risks expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
+- Experts agree that his upside is low. One expert calls him underrated at an ADP of 118, but another says that is too big a gap from Jarrett Allen's ADP in the 70s. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1614), [09-14](https://youtu.be/t4n9MAP2_14?t=1753), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1991), [09-15](https://youtu.be/KPdD91Oo8-U?t=1925))
+- Detroit used a deep 12 to 13 player rotation last season, which limited everyone's minutes. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1386))
+- He should play 30 to 31 minutes, as Tobias Harris did, up from 27 last season. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1032))
+- His rebounding dip to five per game last season looks low for him. He is usually about an eight-rebound player. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1071))
 
 **Durable**
+- He does not pass, so assists are his weakest category. (fact, 2026-10-04; [10-03](https://youtu.be/_O9pc_u5vH0?t=1029), stats)
 - He is an off-ball play finisher who does not create his own shot. He spaces the corners, cuts and plays a passive role. (fact, 2026-10-03; [08-12](https://youtu.be/p9XE5jFqhvs?t=170), [08-12](https://youtu.be/p9XE5jFqhvs?t=253), [07-20](https://youtu.be/-KS_AZjZnw4?t=1009), [08-27](https://youtu.be/ZAyie8lKyYc?t=508), [07-02](https://youtu.be/P6TNP-g0wzY?t=1574), [10-03](https://youtu.be/_O9pc_u5vH0?t=1029))
 - He gives a high FG% on modest volume and a good FT%. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1029), [07-20](https://youtu.be/-KS_AZjZnw4?t=1057), [07-02](https://youtu.be/P6TNP-g0wzY?t=1574), stats)
 - He hits a good percentage from three, but he takes few threes and his shooting is streaky. (fact, 2026-10-03; [08-12](https://youtu.be/p9XE5jFqhvs?t=170), [07-20](https://youtu.be/-KS_AZjZnw4?t=1009), [08-22](https://youtu.be/KLogvUwv_d8?t=483), [10-03](https://youtu.be/_O9pc_u5vH0?t=1029))
-- He does not pass, so assists are his weakest category. (fact, 2026-10-04; [10-03](https://youtu.be/_O9pc_u5vH0?t=1029), stats)
 - He is a weak defender, and his defensive stats have dropped. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1029), [08-22](https://youtu.be/KLogvUwv_d8?t=483))
 - Experts disagree on his rebounding. One calls him a modest rebounder at about five per game. Others say he has been a good offensive rebounder throughout his career. (verdict, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=483), [08-12](https://youtu.be/p9XE5jFqhvs?t=253), [07-20](https://youtu.be/-KS_AZjZnw4?t=1071))
 

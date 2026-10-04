@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 80 | 18.6 | 46.5 (5.6) | 67.0 (1.3) | 0.6 | 6.7 | 3.2 | 1.1 | 0.5 | 1.1 | 0.7 |
-| 2024-25 | 68 | 24.4 | 47.7 (6.3) | 69.3 (2.0) | 0.7 | 8.1 | 3.4 | 1.4 | 0.7 | 1.4 | 0.8 |
-| 2025-26 | 54 | 29.6 | 49.1 (10.8) | 73.0 (3.5) | 1.5 | 14.6 | 4.9 | 2.1 | 0.9 | 1.1 | 1.7 |
-| 2026-27 proj, Yahoo | 71 | - | 47.8 (9.5) | 71.9 (2.8) | 1.3 | 12.5 | 4.6 | 2.1 | 0.9 | 1.4 | 1.3 |
 | 2026-27 proj, ESPN | 71 | 30.7 | 48.7 (10.6) | 72.6 (3.4) | 1.4 | 14.2 | 5.0 | 2.1 | 0.9 | 1.3 | 1.6 |
+| 2026-27 proj, Yahoo | 71 | - | 47.8 (9.5) | 71.9 (2.8) | 1.3 | 12.5 | 4.6 | 2.1 | 0.9 | 1.4 | 1.3 |
+| 2025-26 | 54 | 29.6 | 49.1 (10.8) | 73.0 (3.5) | 1.5 | 14.6 | 4.9 | 2.1 | 0.9 | 1.1 | 1.7 |
+| 2024-25 | 68 | 24.4 | 47.7 (6.3) | 69.3 (2.0) | 0.7 | 8.1 | 3.4 | 1.4 | 0.7 | 1.4 | 0.8 |
+| 2023-24 | 80 | 18.6 | 46.5 (5.6) | 67.0 (1.3) | 0.6 | 6.7 | 3.2 | 1.1 | 0.5 | 1.1 | 0.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -35,18 +35,18 @@
 - Experts expect a locked-in starting role at 30 or more minutes. His minutes floor and stability should be better than in Denver. (verdict, 2026-09-29; [08-24](https://youtu.be/rnq3118kfhY?t=949), [09-10](https://youtu.be/dlo7L8Ru91A?t=1822), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2402), [09-29](https://youtu.be/NmdNvAz08oE?t=1130))
 - His usage was 21% last season and rose to 24% when Nikola Jokic, Christian Braun and Cam Johnson were off the court. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1060))
 - His usage is expected to fall to about 19 or 20% next to Mitchell, Harden and Mobley. (verdict, 2026-09-29; [08-24](https://youtu.be/rnq3118kfhY?t=949), [09-29](https://youtu.be/NmdNvAz08oE?t=1130), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2402), [09-10](https://youtu.be/dlo7L8Ru91A?t=1822))
-- He should block fewer shots with Mobley and Allen on the floor. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1822))
 - His upside depends mostly on injuries to others. He could take a high-usage role on nights when Mitchell or other starters sit. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1130), [08-24](https://youtu.be/rnq3118kfhY?t=919))
 - A significant hamstring injury cost him the end of last season. Yahoo lists him as P (hamstring) now, while the Cleveland preview reports no current injury concerns. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1045), [07-31](https://youtu.be/keNupMSHp1Y?t=126), [09-29](https://youtu.be/NmdNvAz08oE?t=1808))
 - His market rank of about 104 on ESPN and 108 on Yahoo is reasonable. He is the expert's best target on Cleveland, picked reluctantly, because of his price. At 23% usage he would beat his draft spot. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1045), [09-29](https://youtu.be/NmdNvAz08oE?t=1564))
 - Cleveland plays 4, 3 and then 2 games in our playoff weeks 19 to 21. That is 9 games, with a two-game finals week. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [08-16](https://youtu.be/gf_6GveiAls?t=1536))
 - Cleveland has the most back-to-backs in the league. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1907), [08-16](https://youtu.be/gf_6GveiAls?t=930))
+- He should block fewer shots with Mobley and Allen on the floor. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1822))
 
 **Durable**
 - He blocks a lot of shots for a forward. His steals are okay and he is not a great rebounder. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1099), stats)
 - He handled a bigger usage role well when Jokic and others were out. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=293))
-- His 3P% has risen every year, from just under 30% to 35% to 41%. His FT% has also climbed every year. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=885))
 - Experts disagree on his shooting. Some call him a very good spot-up and corner three-point shooter. Another is not convinced the three-point shooting is real. (verdict, 2026-09-29; [08-24](https://youtu.be/rnq3118kfhY?t=885), [07-31](https://youtu.be/keNupMSHp1Y?t=395), [09-29](https://youtu.be/NmdNvAz08oE?t=1099))
+- His 3P% has risen every year, from just under 30% to 35% to 41%. His FT% has also climbed every year. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=885))
 - He is rated a good defender. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=885))
 - He has only one really good season so far. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=126))
 

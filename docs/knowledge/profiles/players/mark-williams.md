@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 19 | 26.7 | 64.9 (7.9) | 71.9 (3.4) | 0.0 | 12.7 | 9.7 | 1.2 | 0.8 | 1.1 | 0.9 |
-| 2024-25 | 44 | 26.6 | 60.4 (10.2) | 80.4 (3.7) | 0.0 | 15.2 | 10.2 | 2.5 | 0.7 | 1.2 | 1.6 |
-| 2025-26 | 60 | 23.6 | 64.4 (7.3) | 77.1 (2.9) | 0.0 | 11.7 | 8.0 | 1.0 | 0.9 | 0.9 | 1.1 |
-| 2026-27 proj, Yahoo | 20 | - | 62.8 (8.2) | 78.1 (3.2) | 0.0 | 12.8 | 8.8 | 1.2 | 0.8 | 1.0 | 1.2 |
 | 2026-27 proj, ESPN | 24 | 24.9 | 62.8 (8.3) | 77.9 (3.2) | 0.0 | 12.9 | 8.9 | 1.5 | 0.8 | 1.0 | 1.2 |
+| 2026-27 proj, Yahoo | 20 | - | 62.8 (8.2) | 78.1 (3.2) | 0.0 | 12.8 | 8.8 | 1.2 | 0.8 | 1.0 | 1.2 |
+| 2025-26 | 60 | 23.6 | 64.4 (7.3) | 77.1 (2.9) | 0.0 | 11.7 | 8.0 | 1.0 | 0.9 | 0.9 | 1.1 |
+| 2024-25 | 44 | 26.6 | 60.4 (10.2) | 80.4 (3.7) | 0.0 | 15.2 | 10.2 | 2.5 | 0.7 | 1.2 | 1.6 |
+| 2023-24 | 19 | 26.7 | 64.9 (7.9) | 71.9 (3.4) | 0.0 | 12.7 | 9.7 | 1.2 | 0.8 | 1.1 | 0.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,18 +30,18 @@
 </details>
 
 **Current**
+- While he is out, experts expect Maluach and Ighodaro to split the center minutes. Maluach looks likely to start, and Phoenix wants its top 10 pick in that spot. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1747), [09-14](https://youtu.be/t4n9MAP2_14?t=2190))
 - He has a torn labrum in his shoulder. The expected recovery is about five to six months, which puts his return around mid to late March 2027. Yahoo lists him as out. (fact, 2026-09-14, until mid to late March 2027; [09-14](https://youtu.be/t4n9MAP2_14?t=2178), [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200), stats)
 - Do not draft him or stash him on IL. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2178))
 - He re-signed with Phoenix for 3 years and about 38 million USD, about 13 million USD a year. (fact, 2026-08-23; [07-01](https://youtu.be/W3THnI7wWdA?t=961), [08-23](https://youtu.be/hm5-fiCa5S4?t=1173))
 - One expert thinks the contract is mainly a way to trade him later, possibly at the deadline. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1173))
-- While he is out, experts expect Maluach and Ighodaro to split the center minutes. Maluach looks likely to start, and Phoenix wants its top 10 pick in that spot. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1747), [09-14](https://youtu.be/t4n9MAP2_14?t=2190))
 - One expert expects him to lose the starting job to Maluach and become a backup big playing 16 to 17 minutes a night. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1246))
 - Because he stays around the rim, he clogs the paint for Phoenix's downhill drivers Jalen Green and Miles Bridges. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=692))
 
 **Durable**
-- He is a low-usage big man. His value comes from a high FG%, good free throw shooting for a center and rebounds. He is not a big shot blocker, and he is worth more in categories leagues than in points leagues. (verdict, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1605), [07-15](https://youtu.be/0geFVzSqOnA?t=1216))
 - His FG% on his volume is a league outlier and clearly lifts a team's FG%. (fact, 2026-10-04; stats)
 - He makes no threes. (fact, 2026-10-04; stats)
+- He is a low-usage big man. His value comes from a high FG%, good free throw shooting for a center and rebounds. He is not a big shot blocker, and he is worth more in categories leagues than in points leagues. (verdict, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1605), [07-15](https://youtu.be/0geFVzSqOnA?t=1216))
 - He scores almost only around the rim. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=692))
 - He does not play enough games. Even with minutes limits, load management and skipped back-to-backs, he played only 60 games last season. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1194))
 

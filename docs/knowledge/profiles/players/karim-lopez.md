@@ -26,14 +26,14 @@
 </details>
 
 **Current**
-- He is a rookie. Memphis drafted him with the 21st pick in 2026. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1629))
 - Yahoo lists him as questionable with an undisclosed issue. (fact, 2026-10-04; stats)
-- The Memphis forward group is crowded with Prosper, Hendricks, Edey and Stewart. Cameron Boozer will start. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1680))
-- Coach Tuomas Iisalo runs an 11-man rotation. Joe expects only Cameron Boozer and Cedric Coward to top 30 minutes. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
-- Memphis has too many players, especially forwards, so more trades or cuts must happen. (verdict, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=953))
-- One expert says he probably cannot play alongside Cameron Boozer. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=2046))
-- His Summer League was very good but overrated. Josh thinks Cameron Carr should probably rank ahead of him among rookies. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=769))
 - With a Yahoo value of 0 USD and a projection of 6.7 points per game, he is not a draft target in a 12-team league. (verdict, 2026-10-04; stats)
+- Coach Tuomas Iisalo runs an 11-man rotation. Joe expects only Cameron Boozer and Cedric Coward to top 30 minutes. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- His Summer League was very good but overrated. Josh thinks Cameron Carr should probably rank ahead of him among rookies. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=769))
+- The Memphis forward group is crowded with Prosper, Hendricks, Edey and Stewart. Cameron Boozer will start. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1680))
+- Memphis has too many players, especially forwards, so more trades or cuts must happen. (verdict, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=953))
+- He is a rookie. Memphis drafted him with the 21st pick in 2026. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1629))
+- One expert says he probably cannot play alongside Cameron Boozer. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=2046))
 
 **Durable**
 - Memphis got him at pick 21, along with Isaiah Stewart, in a trade for pick 17. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1629))

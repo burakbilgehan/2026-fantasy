@@ -15,9 +15,9 @@ No NBA stats and no projections in our data.
 
 **Durable**
 - He is a big man with a very high block rate. He averaged 2 blocks a game in Summer League. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1713), [07-23](https://youtu.be/LUTYUdXBG1M?t=1459), [06-23](https://youtu.be/-rgXhs5BHiw?t=1033))
-- He started taking threes in his last season before the draft. (fact, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1033))
-- His translated fantasy stats rank among the top three in his draft class. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1459), [06-23](https://youtu.be/-rgXhs5BHiw?t=1033))
 - He could build fantasy value from blocks, rebounds and FG%, like Walker Kessler. One expert says his fantasy potential is through the roof. (verdict, 2026-08-02; [06-23](https://youtu.be/-rgXhs5BHiw?t=1033), [08-02](https://youtu.be/TOn-D1SV7a8?t=156))
+- His translated fantasy stats rank among the top three in his draft class. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1459), [06-23](https://youtu.be/-rgXhs5BHiw?t=1033))
+- He started taking threes in his last season before the draft. (fact, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1033))
 
 **Tags**
 - Current: `rookie` (2026 draft class), `waiver watch` (Third-string center with an elite block rate. Watch if Duren or Reed miss time.), `two-way contract` (Two-way deal with Detroit)

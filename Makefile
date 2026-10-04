@@ -1,4 +1,4 @@
-.PHONY: dev backend frontend install test sync yahoo-auth yahoo-check draft-ingest db-upgrade players-sync schedule-sync past-draft-sync past-stats-sync game-logs-sync game-logs-current roles-sync refresh expert-digest expert-render expert-prompt expert-run knowledge-run knowledge-articles valuation-backtest
+.PHONY: advanced-stats-sync dev backend frontend install test sync yahoo-auth yahoo-check draft-ingest db-upgrade players-sync schedule-sync past-draft-sync past-stats-sync game-logs-sync game-logs-current roles-sync refresh expert-digest expert-render expert-prompt expert-run knowledge-run knowledge-articles valuation-backtest pages
 
 # Start backend (:8000) and frontend (:5173). Ctrl-C stops both.
 dev:
@@ -104,3 +104,18 @@ knowledge-articles:
 # T-017 valuation backtest on 2025-26: every model, H2H against the real draft rosters. Writes docs/modules/valuation-backtest.md (about 70 s).
 valuation-backtest:
 	cd backend && uv run python -m app.jobs.valuation_backtest
+
+# Static copy for GitHub Pages: export the API as JSON, build the frontend in static mode, push to gh-pages.
+# The live draft feed does not work in the static copy; punt is computed in the browser. The site is public.
+PAGES_DIR ?= /tmp/2026-fantasy-pages
+pages:
+	rm -rf $(PAGES_DIR) && mkdir -p $(PAGES_DIR)
+	cd backend && uv run python -m app.jobs.export_static $(PAGES_DIR)
+	cd frontend && VITE_STATIC=1 VITE_SNAPSHOT=$$(date +%F) npx vite build --outDir $(PAGES_DIR)/site --emptyOutDir
+	mv $(PAGES_DIR)/api $(PAGES_DIR)/site/ && touch $(PAGES_DIR)/site/.nojekyll
+	cd $(PAGES_DIR)/site && git init -q -b gh-pages && git add -A && git commit -q -m "Static site snapshot" \
+		&& git push -f -q https://github.com/burakbilgehan/2026-fantasy.git gh-pages
+
+# Usage rate and other advanced season stats from stats.nba.com (3 seasons before CURRENT_SEASON).
+advanced-stats-sync:
+	cd backend && uv run python -m app.jobs.sync_advanced_stats

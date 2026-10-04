@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { api, type League } from '../../api/client'
+import { api, STATIC, type League } from '../../api/client'
 
 export function LeagueInfo() {
   const [league, setLeague] = useState<League | null>(null)
@@ -24,7 +24,7 @@ export function LeagueInfo() {
 
   return (
     <div>
-      <button onClick={sync} disabled={busy}>{busy ? 'Syncing...' : 'Sync from Yahoo'}</button>
+      {!STATIC && <button onClick={sync} disabled={busy}>{busy ? 'Syncing...' : 'Sync from Yahoo'}</button>}
       {error && <p className="error">{error}</p>}
       {league && (
         <>

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 58 | 31.7 | 49.5 (15.2) | 71.5 (5.0) | 1.6 | 20.2 | 5.4 | 3.3 | 0.5 | 0.4 | 2.2 |
-| 2024-25 | 58 | 32.2 | 46.8 (16.9) | 63.0 (5.4) | 1.8 | 21.1 | 6.3 | 5.4 | 0.8 | 0.3 | 2.9 |
-| 2025-26 | 57 | 30.2 | 49.1 (14.3) | 71.7 (4.9) | 1.7 | 19.3 | 5.3 | 3.3 | 0.7 | 0.3 | 1.7 |
-| 2026-27 proj, Yahoo | 64 | - | 47.2 (13.5) | 68.5 (4.2) | 1.8 | 17.3 | 5.5 | 3.0 | 0.7 | 0.3 | 1.8 |
 | 2026-27 proj, ESPN | 66 | 30.8 | 48.3 (15.1) | 68.8 (5.0) | 1.7 | 19.7 | 5.6 | 3.9 | 0.7 | 0.3 | 2.1 |
+| 2026-27 proj, Yahoo | 64 | - | 47.2 (13.5) | 68.5 (4.2) | 1.8 | 17.3 | 5.5 | 3.0 | 0.7 | 0.3 | 1.8 |
+| 2025-26 | 57 | 30.2 | 49.1 (14.3) | 71.7 (4.9) | 1.7 | 19.3 | 5.3 | 3.3 | 0.7 | 0.3 | 1.7 |
+| 2024-25 | 58 | 32.2 | 46.8 (16.9) | 63.0 (5.4) | 1.8 | 21.1 | 6.3 | 5.4 | 0.8 | 0.3 | 2.9 |
+| 2023-24 | 58 | 31.7 | 49.5 (15.2) | 71.5 (5.0) | 1.6 | 20.2 | 5.4 | 3.3 | 0.5 | 0.4 | 2.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,19 +30,19 @@
 </details>
 
 **Current**
+- He should still start and play 30 or more minutes. Kawhi Leonard's load management helps him, and he should step up in the games Kawhi misses. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2715), [08-20](https://youtu.be/s28HvC2grAk?t=1745))
+- Experts differ on his category price. One ranks him tier seven among small forwards and outside the top 130 in category leagues, and calls a Yahoo ADP of 107 too high. Josh is very okay drafting him. (verdict, 2026-10-02; [08-30](https://youtu.be/Alwse2uXzD4?t=1182), [09-10](https://youtu.be/dlo7L8Ru91A?t=1708), [10-02](https://youtu.be/ZYllcj4o6_A?t=2715))
 - Toronto traded Brandon Ingram and added Kawhi Leonard. (fact, 2026-09-10; [06-30](https://youtu.be/JMSLg6yz-M0?t=566), [09-10](https://youtu.be/dlo7L8Ru91A?t=473))
 - He is a projected starter next to Quickley, Leonard, Barnes and Poeltl. He is also in the expected closing five. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=496), [08-20](https://youtu.be/s28HvC2grAk?t=1066))
-- The Raptors have 15 back-to-backs this season and three in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
-- Experts see him as the biggest loser of the Kawhi trade. Usage moves to Kawhi, so Barrett will have the ball less. (verdict, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=311), [06-30](https://youtu.be/JMSLg6yz-M0?t=566))
-- He should still start and play 30 or more minutes. Kawhi Leonard's load management helps him, and he should step up in the games Kawhi misses. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2715), [08-20](https://youtu.be/s28HvC2grAk?t=1745))
 - Sean expects his finishing next to Kawhi and Scottie Barnes to reach impressive levels this season. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1669))
 - Because of his contract, he could become a trade candidate by the deadline if the season starts badly. (verdict, 2026-08-20, until 2027-03-04 trade deadline; [08-20](https://youtu.be/s28HvC2grAk?t=1680))
-- Experts differ on his category price. One ranks him tier seven among small forwards and outside the top 130 in category leagues, and calls a Yahoo ADP of 107 too high. Josh is very okay drafting him. (verdict, 2026-10-02; [08-30](https://youtu.be/Alwse2uXzD4?t=1182), [09-10](https://youtu.be/dlo7L8Ru91A?t=1708), [10-02](https://youtu.be/ZYllcj4o6_A?t=2715))
+- The Raptors have 15 back-to-backs this season and three in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
+- Experts see him as the biggest loser of the Kawhi trade. Usage moves to Kawhi, so Barrett will have the ball less. (verdict, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=311), [06-30](https://youtu.be/JMSLg6yz-M0?t=566))
 
 **Durable**
-- He is mainly a scorer. His defense is limited, his steals and blocks are low, and his efficiency is lower. (verdict, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1241), [08-20](https://youtu.be/s28HvC2grAk?t=1720), stats)
-- He is worth clearly more in points leagues than in category leagues. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1708), [08-30](https://youtu.be/Alwse2uXzD4?t=1182), [08-30](https://youtu.be/Alwse2uXzD4?t=1241))
 - His FT% is a clear weakness. He shoots below 70% on close to 5 attempts per game, which hurts a team's FT%. (fact, 2026-10-04; stats)
+- He is worth clearly more in points leagues than in category leagues. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1708), [08-30](https://youtu.be/Alwse2uXzD4?t=1182), [08-30](https://youtu.be/Alwse2uXzD4?t=1241))
+- He is mainly a scorer. His defense is limited, his steals and blocks are low, and his efficiency is lower. (verdict, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1241), [08-20](https://youtu.be/s28HvC2grAk?t=1720), stats)
 
 **Tags**
 - Current: `role down` (Less ball handling after Kawhi Leonard's arrival), `trade risk` (Contract situation makes him a deadline trade candidate if Toronto starts badly; until 2027-03-04 trade deadline)

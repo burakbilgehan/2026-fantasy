@@ -3,8 +3,8 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 74 | 26.6 | 57.1 (9.1) | 78.6 (2.3) | 0.3 | 12.5 | 7.5 | 1.4 | 0.5 | 0.5 | 1.3 |
 | 2026-27 proj, Yahoo | 74 | - | 57.1 (8.9) | 78.3 (2.2) | 0.3 | 12.2 | 7.2 | 1.3 | 0.5 | 0.5 | 1.2 |
+| 2025-26 | 74 | 26.6 | 57.1 (9.1) | 78.6 (2.3) | 0.3 | 12.5 | 7.5 | 1.4 | 0.5 | 0.5 | 1.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -28,15 +28,15 @@
 
 **Current**
 - He is the backup center behind Domantas Sabonis, who is still on the Kings. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=2113), [09-24](https://youtu.be/_vbAP5y182A?t=2232), [09-15](https://youtu.be/KPdD91Oo8-U?t=2282), [09-04](https://youtu.be/gerS7ibpaJo?t=1679), [08-11](https://youtu.be/OdDkXFhoKsc?t=2478), [07-14](https://youtu.be/xHRF06_E9HE?t=1346), [07-31](https://youtu.be/oEywzBZfAvY?t=691))
+- Not worth drafting in a 12-team league. At most a bench stash you can drop early. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=2113), [09-24](https://youtu.be/_vbAP5y182A?t=2232), [09-15](https://youtu.be/KPdD91Oo8-U?t=2282), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2236), [07-14](https://youtu.be/xHRF06_E9HE?t=1346))
+- His upside depends on Sabonis being traded or hurt. Josh does not expect a Sabonis trade. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2232), [09-15](https://youtu.be/KPdD91Oo8-U?t=2282), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2236), [09-04](https://youtu.be/gerS7ibpaJo?t=1679), [08-11](https://youtu.be/OdDkXFhoKsc?t=2478))
+- Paul Reed is a better per-minute producer than Raynaud. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2232), [08-11](https://youtu.be/OdDkXFhoKsc?t=2478))
+- The Kings may trade Sabonis or try to dump his contract. They want to stay out of the relegation zone, so Sabonis is expected to play when available and not be benched for Raynaud. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=392), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1936), [09-14](https://youtu.be/t4n9MAP2_14?t=976), [07-31](https://youtu.be/oEywzBZfAvY?t=2547))
 - Experts project him at about 19 to 20 minutes per game as the backup. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=2282), [08-11](https://youtu.be/OdDkXFhoKsc?t=2478))
 - His strong finish last season came from many Kings injuries. Experts think he is unlikely to get the same chance this season. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=976), [07-14](https://youtu.be/xHRF06_E9HE?t=1258))
-- His upside depends on Sabonis being traded or hurt. Josh does not expect a Sabonis trade. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2232), [09-15](https://youtu.be/KPdD91Oo8-U?t=2282), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2236), [09-04](https://youtu.be/gerS7ibpaJo?t=1679), [08-11](https://youtu.be/OdDkXFhoKsc?t=2478))
-- The Kings may trade Sabonis or try to dump his contract. They want to stay out of the relegation zone, so Sabonis is expected to play when available and not be benched for Raynaud. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=392), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1936), [09-14](https://youtu.be/t4n9MAP2_14?t=976), [07-31](https://youtu.be/oEywzBZfAvY?t=2547))
-- Paul Reed is a better per-minute producer than Raynaud. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2232), [08-11](https://youtu.be/OdDkXFhoKsc?t=2478))
-- Not worth drafting in a 12-team league. At most a bench stash you can drop early. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=2113), [09-24](https://youtu.be/_vbAP5y182A?t=2232), [09-15](https://youtu.be/KPdD91Oo8-U?t=2282), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2236), [07-14](https://youtu.be/xHRF06_E9HE?t=1346))
+- Ham thinks he could be better than Sabonis in two to three years. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1365))
 - In Summer League he took 39% of his shots from three and blocked no shots. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=602))
 - A rising three-point rate would lower his FG% but add points and threes. Worth watching. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=602))
-- Ham thinks he could be better than Sabonis in two to three years. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1365))
 
 **Durable**
 - He is an efficient shooter for a big. He has a high FG% and a good FT% for a center, and makes some threes at a good rate. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1297), stats)

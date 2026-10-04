@@ -3,9 +3,9 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 81 | 25.0 | 47.3 (9.2) | 79.5 (3.4) | 0.3 | 11.7 | 7.1 | 3.7 | 1.0 | 0.9 | 2.3 |
-| 2026-27 proj, Yahoo | 72 | - | 48.7 (11.0) | 79.4 (3.9) | 0.4 | 14.2 | 7.8 | 4.1 | 1.2 | 0.9 | 2.4 |
 | 2026-27 proj, ESPN | 76 | 26.4 | 47.4 (9.7) | 79.6 (3.6) | 0.3 | 12.3 | 7.4 | 3.9 | 1.1 | 1.0 | 2.5 |
+| 2026-27 proj, Yahoo | 72 | - | 48.7 (11.0) | 79.4 (3.9) | 0.4 | 14.2 | 7.8 | 4.1 | 1.2 | 0.9 | 2.4 |
+| 2025-26 | 81 | 25.0 | 47.3 (9.2) | 79.5 (3.4) | 0.3 | 11.7 | 7.1 | 3.7 | 1.0 | 0.9 | 2.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,18 +29,18 @@
 
 **Current**
 - Yves Missi is expected to start at center for New Orleans. Queen looks set to come off the bench. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1339), [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [09-30](https://youtu.be/BjXP9JODDSg?t=1358), [09-30](https://youtu.be/BjXP9JODDSg?t=1097), [09-24](https://youtu.be/_vbAP5y182A?t=1315), [09-24](https://youtu.be/_vbAP5y182A?t=1141))
-- The Pelicans have a crowded frontcourt and wing rotation: Zion Williamson, Trey Murphy, Herb Jones, Yves Missi, Jeremiah Fears and Dejounte Murray, with Bennedict Mathurin added to the bench. (fact, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1477), [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
 - Experts think Queen and Zion Williamson do not fit together. His minutes depend on how new coach Jamahl Mosley handles it, and he will likely share the second unit. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1339), [09-24](https://youtu.be/_vbAP5y182A?t=1315), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1033), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1047), [09-14](https://youtu.be/t4n9MAP2_14?t=2042), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1808), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1818))
 - Experts have moved him down because he is unlikely to start. If he comes off the bench, his current draft spot is a little early. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1339), [09-30](https://youtu.be/BjXP9JODDSg?t=1358), [09-24](https://youtu.be/_vbAP5y182A?t=1315))
 - He has top 50 upside if he becomes the starting center or Zion Williamson misses time. Josh expects the Pelicans to rest Zion often. (verdict, 2026-10-02; [09-04](https://youtu.be/gerS7ibpaJo?t=1184), [09-14](https://youtu.be/t4n9MAP2_14?t=2042), [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
 - He is an acceptable flyer at his price. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1808))
+- The Pelicans have a crowded frontcourt and wing rotation: Zion Williamson, Trey Murphy, Herb Jones, Yves Missi, Jeremiah Fears and Dejounte Murray, with Bennedict Mathurin added to the bench. (fact, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1477), [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
 
 **Durable**
-- He is a hub big who works from the elbows and the free throw line. He is not a three-point spacer. (fact, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=526))
+- He makes few threes and commits many turnovers for his position. (fact, 2026-10-04; stats)
+- He does not give the FG% boost you want from a center. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=1522), stats)
 - He is a poor defender and gives little rim protection. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1145), [08-03](https://youtu.be/5QU-jta-lWM?t=1037))
 - He is a poor shooter but fills the stat sheet, with good rebounds, assists, steals and blocks for a big. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1145), stats)
-- He does not give the FG% boost you want from a center. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=1522), stats)
-- He makes few threes and commits many turnovers for his position. (fact, 2026-10-04; stats)
+- He is a hub big who works from the elbows and the free throw line. He is not a three-point spacer. (fact, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=526))
 - He tends to start games slowly and produce most in fourth-quarter runs. (fact, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1037))
 
 **Tags**

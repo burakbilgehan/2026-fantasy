@@ -9,11 +9,11 @@ No NBA stats and no projections in our data.
 
 **Current**
 - He is a rookie. The Rockets took him in the second round after four years of college. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1636), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=825), [06-26](https://youtu.be/CLsUc0Sevos?t=1117))
-- In Summer League he averaged 16 points, 4 assists and over 2.5 steals, and shot 41% from three. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1948))
-- The Houston guard rotation is crowded. Fred VanVleet is back, and Marcus Smart and Bogdan Bogdanovic joined Amen Thompson and Reed Sheppard. (fact, 2026-09-15; [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
 - Coach Ime Udoka is defense-first, gives little room for error to weak defenders and plays his starters heavy minutes. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=146), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1152), [09-09](https://youtu.be/7BllEsdNLoM?t=2451))
 - Lloyd thinks he might become a player. Another expert says he could make some impact from opening night as guard depth, and Summer League made Josh more confident he will find a rotation role. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1636), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=825), [08-02](https://youtu.be/TOn-D1SV7a8?t=346))
 - With a March 28 end, the Rockets have a weak 3-3-4 fantasy playoff schedule, 10 games over the three weeks. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
+- The Houston guard rotation is crowded. Fred VanVleet is back, and Marcus Smart and Bogdan Bogdanovic joined Amen Thompson and Reed Sheppard. (fact, 2026-09-15; [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
+- In Summer League he averaged 16 points, 4 assists and over 2.5 steals, and shot 41% from three. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1948))
 
 **Durable**
 - He is an undersized guard. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1636))

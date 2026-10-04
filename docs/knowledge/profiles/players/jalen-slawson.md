@@ -3,9 +3,9 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 12 | 3.1 | 66.7 (0.5) | - (0.0) | 0.0 | 0.7 | 0.6 | 0.2 | 0.1 | 0.1 | 0.2 |
-| 2025-26 | 13 | 23.9 | 44.2 (5.9) | 70.6 (1.3) | 1.2 | 7.3 | 4.4 | 2.8 | 1.5 | 1.1 | 1.3 |
 | 2026-27 proj, Yahoo | 9 | - | 46.2 (1.4) | 66.7 (0.3) | 0.3 | 1.9 | 1.1 | 0.7 | 0.3 | 0.2 | 0.3 |
+| 2025-26 | 13 | 23.9 | 44.2 (5.9) | 70.6 (1.3) | 1.2 | 7.3 | 4.4 | 2.8 | 1.5 | 1.1 | 1.3 |
+| 2023-24 | 12 | 3.1 | 66.7 (0.5) | - (0.0) | 0.0 | 0.7 | 0.6 | 0.2 | 0.1 | 0.1 | 0.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,9 +30,9 @@
 **Current**
 - He is on a two-way contract with Indiana. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1783), [08-10](https://youtu.be/sfCe7fS9daM?t=268))
 - He is not in the projected Indiana rotation. The projected bench is Oubre as sixth man, then Toppin, Huff, McConnell and Jarace Walker. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1308))
-- He averaged about 18 points, 6 rebounds, 3 assists and 3 blocks in Summer League. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1308))
-- Experts think he is a real rotation wing who is too good for a two-way deal and could play 20 minutes a night. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=268), [07-23](https://youtu.be/LUTYUdXBG1M?t=1308))
 - One expert rates him above Jarace Walker and would not be shocked if he became better than Kelly Oubre Jr. this season. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1790), [10-01](https://youtu.be/EGdhmUgPAWY?t=1783))
+- Experts think he is a real rotation wing who is too good for a two-way deal and could play 20 minutes a night. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=268), [07-23](https://youtu.be/LUTYUdXBG1M?t=1308))
+- He averaged about 18 points, 6 rebounds, 3 assists and 3 blocks in Summer League. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1308))
 
 **Durable**
 - Experts call him one of the best perimeter defenders and shot blockers in a long time, possibly the best shot blocking guard or wing in the NBA. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1790), [07-23](https://youtu.be/LUTYUdXBG1M?t=1308))

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 75 | 30.1 | 50.6 (10.7) | 74.0 (3.6) | 1.2 | 14.7 | 7.2 | 3.8 | 0.8 | 0.5 | 2.1 |
-| 2024-25 | 72 | 30.0 | 47.6 (11.7) | 78.0 (5.2) | 1.7 | 16.9 | 7.2 | 3.9 | 1.0 | 0.5 | 2.7 |
-| 2025-26 | 66 | 33.3 | 46.2 (16.1) | 80.2 (9.2) | 1.9 | 24.2 | 6.9 | 6.7 | 0.8 | 0.6 | 3.8 |
-| 2026-27 proj, Yahoo | 72 | - | 47.3 (13.5) | 78.9 (7.9) | 1.7 | 20.7 | 6.9 | 5.5 | 0.9 | 0.6 | 3.0 |
 | 2026-27 proj, ESPN | 72 | 33.7 | 46.7 (15.5) | 79.7 (8.4) | 1.9 | 23.0 | 7.2 | 6.3 | 0.8 | 0.6 | 3.6 |
+| 2026-27 proj, Yahoo | 72 | - | 47.3 (13.5) | 78.9 (7.9) | 1.7 | 20.7 | 6.9 | 5.5 | 0.9 | 0.6 | 3.0 |
+| 2025-26 | 66 | 33.3 | 46.2 (16.1) | 80.2 (9.2) | 1.9 | 24.2 | 6.9 | 6.7 | 0.8 | 0.6 | 3.8 |
+| 2024-25 | 72 | 30.0 | 47.6 (11.7) | 78.0 (5.2) | 1.7 | 16.9 | 7.2 | 3.9 | 1.0 | 0.5 | 2.7 |
+| 2023-24 | 75 | 30.1 | 50.6 (10.7) | 74.0 (3.6) | 1.2 | 14.7 | 7.2 | 3.8 | 0.8 | 0.5 | 2.1 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,19 +30,19 @@
 </details>
 
 **Current**
-- Portland traded for Ja Morant, and on-ball guards Damian Lillard and Scoot Henderson return after playing about 15 games combined last season. (fact, 2026-09-14; [06-29](https://youtu.be/bHA-JoW3reE?t=227), [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [09-10](https://youtu.be/dlo7L8Ru91A?t=767), [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194))
-- Portland is short on forwards. Avdija and Camara are basically the only forwards, and the projected starting five is Lillard, Morant, Camara, Avdija and Clingan. (fact, 2026-08-11; [06-29](https://youtu.be/bHA-JoW3reE?t=227), [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477))
-- His minutes and starting role are safe. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=742))
-- He will lose his high-usage, on-ball role and become the third distributor in the starting group. Experts project about 24 to 26 percent usage, around 20 points per game, and fewer assists than his 7 last season. (verdict, 2026-09-14; [06-29](https://youtu.be/bHA-JoW3reE?t=360), [08-11](https://youtu.be/YJk7ZFKFqnI?t=990), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1119), [09-10](https://youtu.be/dlo7L8Ru91A?t=742), [09-10](https://youtu.be/W-R1dzem32s?t=1034), [09-14](https://youtu.be/LM0cRCGoAUQ?t=844), [08-11](https://youtu.be/OdDkXFhoKsc?t=968))
-- Minutes and usage across the Portland rotation are expected to swing from game to game. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
-- He hurt his back late last season. His three-point shooting was under 32 percent and dipped late, and he played badly after the injury. (fact, 2026-09-10; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1102), [09-10](https://youtu.be/W-R1dzem32s?t=1034))
-- His percentages are a concern, though lower usage might bring his three-point shooting back up. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=844), [09-10](https://youtu.be/W-R1dzem32s?t=1034), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1102))
 - Experts want a clear discount. Two call his ADP around 34 to 36 too early, while one calls ADP 35 reasonable. One expert is fully in at ESPN rank 60 and ADP 68. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=662), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2652), [09-14](https://youtu.be/LM0cRCGoAUQ?t=844), [09-10](https://youtu.be/W-R1dzem32s?t=1034), [06-29](https://youtu.be/bHA-JoW3reE?t=1016))
+- Portland traded for Ja Morant, and on-ball guards Damian Lillard and Scoot Henderson return after playing about 15 games combined last season. (fact, 2026-09-14; [06-29](https://youtu.be/bHA-JoW3reE?t=227), [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [09-10](https://youtu.be/dlo7L8Ru91A?t=767), [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194))
+- He will lose his high-usage, on-ball role and become the third distributor in the starting group. Experts project about 24 to 26 percent usage, around 20 points per game, and fewer assists than his 7 last season. (verdict, 2026-09-14; [06-29](https://youtu.be/bHA-JoW3reE?t=360), [08-11](https://youtu.be/YJk7ZFKFqnI?t=990), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1119), [09-10](https://youtu.be/dlo7L8Ru91A?t=742), [09-10](https://youtu.be/W-R1dzem32s?t=1034), [09-14](https://youtu.be/LM0cRCGoAUQ?t=844), [08-11](https://youtu.be/OdDkXFhoKsc?t=968))
+- His percentages are a concern, though lower usage might bring his three-point shooting back up. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=844), [09-10](https://youtu.be/W-R1dzem32s?t=1034), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1102))
+- His minutes and starting role are safe. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=742))
+- He hurt his back late last season. His three-point shooting was under 32 percent and dipped late, and he played badly after the injury. (fact, 2026-09-10; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1102), [09-10](https://youtu.be/W-R1dzem32s?t=1034))
 - Portland has three back-to-backs in the fantasy playoffs and a five-game week starting February 8. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037), [08-16](https://youtu.be/gf_6GveiAls?t=1310))
+- Portland is short on forwards. Avdija and Camara are basically the only forwards, and the projected starting five is Lillard, Morant, Camara, Avdija and Clingan. (fact, 2026-08-11; [06-29](https://youtu.be/bHA-JoW3reE?t=227), [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477))
+- Minutes and usage across the Portland rotation are expected to swing from game to game. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
 
 **Durable**
-- At his best he is a relentless downhill driver and passer. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1038))
 - Turnovers are his clear weak category. He projects for about 3.3 per game, far worse than the pool and his position. (fact, 2026-10-04; stats)
+- At his best he is a relentless downhill driver and passer. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1038))
 
 **Tags**
 - Current: `role down` (Lower usage and assists with Morant, Lillard and Scoot Henderson on the ball), `bust candidate` (Too early at ADP around 34 to 36; fair at ESPN rank 60), `sites disagree on price` (Yahoo value 22 USD vs ESPN value 7 USD), `bad playoff schedule` (Three back-to-backs in the fantasy playoffs)

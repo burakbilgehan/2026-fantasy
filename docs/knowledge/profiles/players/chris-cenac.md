@@ -26,9 +26,9 @@
 </details>
 
 **Current**
+- Boston is very deep, with at least 12 rotation-level players. He is not in the projected starting five or the projected bench rotation. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133))
 - He is a rookie from the 2026 NBA draft class. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=731), [06-22](https://youtu.be/HxQjagSTTAM?t=624))
 - He probably will not contribute in fantasy this season. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=731))
-- Boston is very deep, with at least 12 rotation-level players. He is not in the projected starting five or the projected bench rotation. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133))
 
 **Durable**
 - He is very athletic. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=731))

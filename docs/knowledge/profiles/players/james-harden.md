@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 72 | 34.3 | 42.8 (11.4) | 87.8 (4.8) | 2.6 | 16.6 | 5.1 | 8.5 | 1.1 | 0.8 | 2.6 |
-| 2024-25 | 79 | 35.3 | 41.0 (16.4) | 87.4 (7.3) | 3.0 | 22.8 | 5.8 | 8.7 | 1.5 | 0.7 | 4.3 |
-| 2025-26 | 70 | 34.9 | 43.4 (16.0) | 88.4 (7.5) | 3.1 | 23.6 | 4.8 | 8.0 | 1.1 | 0.4 | 3.5 |
-| 2026-27 proj, Yahoo | 71 | - | 42.3 (13.3) | 88.1 (5.7) | 2.6 | 18.9 | 4.7 | 7.5 | 1.1 | 0.5 | 3.3 |
 | 2026-27 proj, ESPN | 73 | 33.6 | 42.4 (14.3) | 88.0 (6.4) | 2.8 | 20.6 | 5.0 | 8.1 | 1.2 | 0.6 | 3.4 |
+| 2026-27 proj, Yahoo | 71 | - | 42.3 (13.3) | 88.1 (5.7) | 2.6 | 18.9 | 4.7 | 7.5 | 1.1 | 0.5 | 3.3 |
+| 2025-26 | 70 | 34.9 | 43.4 (16.0) | 88.4 (7.5) | 3.1 | 23.6 | 4.8 | 8.0 | 1.1 | 0.4 | 3.5 |
+| 2024-25 | 79 | 35.3 | 41.0 (16.4) | 87.4 (7.3) | 3.0 | 22.8 | 5.8 | 8.7 | 1.5 | 0.7 | 4.3 |
+| 2023-24 | 72 | 34.3 | 42.8 (11.4) | 87.8 (4.8) | 2.6 | 16.6 | 5.1 | 8.5 | 1.1 | 0.8 | 2.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,26 +30,26 @@
 </details>
 
 **Current**
+- Experts agree he is no longer a round two pick. The latest range in category leagues is picks 28 to 40, about the end of round three in 12 teams, and pick 35 is called about right. ESPN rank 23 to 25 is called too high, while Yahoo rank 30 is fine for category leagues. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=657), [09-29](https://youtu.be/NmdNvAz08oE?t=747), [09-29](https://youtu.be/NmdNvAz08oE?t=805), [09-29](https://youtu.be/NmdNvAz08oE?t=839), [09-22](https://youtu.be/QbdrhJd7LiA?t=390), [09-22](https://youtu.be/QbdrhJd7LiA?t=1359), [09-24](https://youtu.be/_vbAP5y182A?t=613), [09-19](https://youtu.be/uarqbNA2dFk?t=1977), [09-10](https://youtu.be/W-R1dzem32s?t=914), [09-09](https://youtu.be/7BllEsdNLoM?t=1228), [08-11](https://youtu.be/OdDkXFhoKsc?t=730))
 - Harden is back with Cleveland full time. He is in the projected starting lineup with Donovan Mitchell, Peyton Watson, Evan Mobley and Jarrett Allen. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=397), [08-24](https://youtu.be/rnq3118kfhY?t=510), [09-22](https://youtu.be/QbdrhJd7LiA?t=408))
 - His usage, shot attempts and free throw attempts dropped after he joined Cleveland. He plays more as a distributor next to Mitchell, Mobley and Watson. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=767), [08-24](https://youtu.be/rnq3118kfhY?t=533), [09-22](https://youtu.be/QbdrhJd7LiA?t=390), [09-22](https://youtu.be/QbdrhJd7LiA?t=408), [09-24](https://youtu.be/_vbAP5y182A?t=613), [09-10](https://youtu.be/W-R1dzem32s?t=914), [09-09](https://youtu.be/7BllEsdNLoM?t=1228), [09-19](https://youtu.be/uarqbNA2dFk?t=1977))
 - He averaged under 20 points a game with Cleveland. Over his last six games there he played about 33 minutes with usage of about 24 to 25, and his assists and FG% dropped. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=805), [09-22](https://youtu.be/QbdrhJd7LiA?t=1359), [09-19](https://youtu.be/uarqbNA2dFk?t=1977))
 - He finished 13th in category leagues last season, mostly from his time with the Clippers. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=747), [09-22](https://youtu.be/QbdrhJd7LiA?t=390))
 - Experts do not expect his lower usage to reverse. He probably will not repeat 35 minutes a night, and they doubt he can repeat last season. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=805), [09-29](https://youtu.be/NmdNvAz08oE?t=839), [09-09](https://youtu.be/7BllEsdNLoM?t=1228))
 - Cleveland's second unit has no clear point guard, so Harden and Mitchell may stagger their minutes. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=250))
-- Experts agree he is no longer a round two pick. The latest range in category leagues is picks 28 to 40, about the end of round three in 12 teams, and pick 35 is called about right. ESPN rank 23 to 25 is called too high, while Yahoo rank 30 is fine for category leagues. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=657), [09-29](https://youtu.be/NmdNvAz08oE?t=747), [09-29](https://youtu.be/NmdNvAz08oE?t=805), [09-29](https://youtu.be/NmdNvAz08oE?t=839), [09-22](https://youtu.be/QbdrhJd7LiA?t=390), [09-22](https://youtu.be/QbdrhJd7LiA?t=1359), [09-24](https://youtu.be/_vbAP5y182A?t=613), [09-19](https://youtu.be/uarqbNA2dFk?t=1977), [09-10](https://youtu.be/W-R1dzem32s?t=914), [09-09](https://youtu.be/7BllEsdNLoM?t=1228), [08-11](https://youtu.be/OdDkXFhoKsc?t=730))
 - Cleveland has the most back-to-backs in the league. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1907), [08-16](https://youtu.be/gf_6GveiAls?t=930))
 - With our March 28 end, Cleveland plays 4, 3 and then 2 games in the fantasy playoffs. The 2-game week is the final week, starting March 22. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [08-16](https://youtu.be/gf_6GveiAls?t=1536), [08-16](https://youtu.be/gf_6GveiAls?t=1555))
 - The 2-game finals week lowers his value. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1555))
 
 **Durable**
-- He is an elite assist source, and his assists are still valuable. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=785), [09-09](https://youtu.be/7BllEsdNLoM?t=1228), [09-10](https://youtu.be/W-R1dzem32s?t=914), stats)
 - His FT% is a league outlier on good volume, even though he gets to the line less than before. (fact, 2026-10-04; [09-29](https://youtu.be/NmdNvAz08oE?t=785), stats)
-- His FG% and two-point percentage are a problem. FG% is weak for a guard. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=785), [09-19](https://youtu.be/uarqbNA2dFk?t=1977), [09-10](https://youtu.be/W-R1dzem32s?t=914), stats)
 - He commits many turnovers, a league outlier. (fact, 2026-10-04; stats)
+- He is an elite assist source, and his assists are still valuable. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=785), [09-09](https://youtu.be/7BllEsdNLoM?t=1228), [09-10](https://youtu.be/W-R1dzem32s?t=914), stats)
+- His FG% and two-point percentage are a problem. FG% is weak for a guard. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=785), [09-19](https://youtu.be/uarqbNA2dFk?t=1977), [09-10](https://youtu.be/W-R1dzem32s?t=914), stats)
 - He no longer adds much in steals and blocks. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=785))
-- He is considered durable. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=533))
 - He is 37. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=747), [08-24](https://youtu.be/rnq3118kfhY?t=533))
 - Experts think he is starting the end-of-career drop-off and showed his age last season. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=390), [09-19](https://youtu.be/uarqbNA2dFk?t=1977))
+- He is considered durable. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=533))
 
 **Tags**
 - Current: `role down` (lower usage next to Mitchell, about 33 minutes instead of 35), `bust candidate` (at ESPN rank 23 to 25 or a round two price), `sites disagree on price` (ADP 35 on Yahoo, 25 on ESPN), `bad playoff schedule` (4, 3, 2 games; 2-game finals week starting March 22)

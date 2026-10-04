@@ -26,12 +26,12 @@
 </details>
 
 **Current**
-- Charlotte drafted him 18th overall in the 2026 NBA draft. This is his first NBA season. (fact, 2026-07-21; [06-26](https://youtu.be/CLsUc0Sevos?t=1696), [07-21](https://youtu.be/EB1Z_6n56-o?t=1465))
+- He is not a draft target in a 12-team league. His projected line has no category that helps a fantasy team. (verdict, 2026-10-04; stats)
 - He is not expected to start or to be part of the main rotation. Coby White starts at guard. The latest Charlotte preview lists White, Knueppel, Miller, Reid and Diabaté as starters, with Allen, Schröder, Steinbach, O'Neale and Grant Williams off the bench. (verdict, 2026-09-27; [06-26](https://youtu.be/CLsUc0Sevos?t=1696), [09-27](https://youtu.be/CRLSsoGhb2w?t=416))
+- He shot badly in Summer League but took a high volume of threes. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1931))
+- Charlotte drafted him 18th overall in the 2026 NBA draft. This is his first NBA season. (fact, 2026-07-21; [06-26](https://youtu.be/CLsUc0Sevos?t=1696), [07-21](https://youtu.be/EB1Z_6n56-o?t=1465))
 - Charlotte has no trusted backup point guard on the roster. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=1000))
 - He is not yet trusted as the backup point guard. Walker calls him a fun archetype rather than a functional one for now. (verdict, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=1465))
-- He shot badly in Summer League but took a high volume of threes. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1931))
-- He is not a draft target in a 12-team league. His projected line has no category that helps a fantasy team. (verdict, 2026-10-04; stats)
 
 **Durable**
 - Experts see passing and shooting as his two outlier skills. One calls him the best passer in the 2026 class and possibly the best shooter, and rates him above consensus. (verdict, 2026-07-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1372), [06-25](https://youtu.be/lOshTzDA4SA?t=1557), [06-22](https://youtu.be/HxQjagSTTAM?t=413), [07-23](https://youtu.be/LUTYUdXBG1M?t=1931))

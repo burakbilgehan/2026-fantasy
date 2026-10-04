@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 75 | 19.8 | 44.9 (8.7) | 76.9 (2.3) | 0.7 | 10.3 | 3.7 | 3.4 | 1.1 | 0.2 | 1.8 |
-| 2025-26 | 38 | 33.2 | 46.5 (13.5) | 87.8 (4.1) | 1.2 | 17.4 | 5.2 | 7.4 | 2.2 | 0.5 | 2.9 |
-| 2026-27 proj, Yahoo | 60 | - | 45.8 (11.2) | 83.2 (3.2) | 1.0 | 13.9 | 4.5 | 5.3 | 1.6 | 0.3 | 2.4 |
 | 2026-27 proj, ESPN | 66 | 26.8 | 46.1 (11.1) | 86.2 (3.3) | 1.0 | 14.1 | 4.3 | 5.7 | 1.7 | 0.4 | 2.4 |
+| 2026-27 proj, Yahoo | 60 | - | 45.8 (11.2) | 83.2 (3.2) | 1.0 | 13.9 | 4.5 | 5.3 | 1.6 | 0.3 | 2.4 |
+| 2025-26 | 38 | 33.2 | 46.5 (13.5) | 87.8 (4.1) | 1.2 | 17.4 | 5.2 | 7.4 | 2.2 | 0.5 | 2.9 |
+| 2024-25 | 75 | 19.8 | 44.9 (8.7) | 76.9 (2.3) | 0.7 | 10.3 | 3.7 | 3.4 | 1.1 | 0.2 | 1.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,21 +29,21 @@
 </details>
 
 **Current**
-- He picked up his 5 million USD player option and stays in Milwaukee. The experts read this as a sign that no other team wanted him. (fact, 2026-08-26; [08-14](https://youtu.be/owlM6b8oUd0?t=947), [08-26](https://youtu.be/sTtFUy7IoJI?t=1431), [07-13](https://youtu.be/Rqb5GdrSweY?t=1695))
-- He missed most of last season. (fact, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=362), stats)
-- Doc Rivers is no longer the Milwaukee coach. Porter played big minutes under Rivers as his preferred player. The new coach is Taylor Jenkins. (fact, 2026-09-14; [08-14](https://youtu.be/owlM6b8oUd0?t=947), [08-24](https://youtu.be/g31YlwRe0XQ?t=1504), [06-23](https://youtu.be/nnWX_ObljOE?t=179), [09-14](https://youtu.be/t4n9MAP2_14?t=2436))
 - The Milwaukee backcourt is crowded with Rollins, Herro, Jakucionis, Burries, Trent and Green. The projected starters are Rollins, Herro, Jaquez, Ware and Turner. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418), [08-14](https://youtu.be/owlM6b8oUd0?t=536))
 - The experts expect him to come off the bench, with minutes well below last season. Josh thinks Ryan Rollins starts over him, and he could play about 27 minutes as a reserve. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2192), [08-26](https://youtu.be/sTtFUy7IoJI?t=1431), [08-24](https://youtu.be/g31YlwRe0XQ?t=1504), [08-14](https://youtu.be/owlM6b8oUd0?t=2298), [08-11](https://youtu.be/OdDkXFhoKsc?t=992), [09-10](https://youtu.be/W-R1dzem32s?t=1922), [09-01](https://youtu.be/80kfLVnFQ_s?t=1525))
-- Justin thinks his best role is as a sixth man scorer leading the second unit. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1002))
 - He is worth a late pick, around 120 but not earlier. He is a flyer in case Milwaukee starts him, and Josh calls him a must-draft at that point. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2192), [08-26](https://youtu.be/sTtFUy7IoJI?t=1445), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2015), [09-09](https://youtu.be/7BllEsdNLoM?t=2294))
+- Doc Rivers is no longer the Milwaukee coach. Porter played big minutes under Rivers as his preferred player. The new coach is Taylor Jenkins. (fact, 2026-09-14; [08-14](https://youtu.be/owlM6b8oUd0?t=947), [08-24](https://youtu.be/g31YlwRe0XQ?t=1504), [06-23](https://youtu.be/nnWX_ObljOE?t=179), [09-14](https://youtu.be/t4n9MAP2_14?t=2436))
+- He picked up his 5 million USD player option and stays in Milwaukee. The experts read this as a sign that no other team wanted him. (fact, 2026-08-26; [08-14](https://youtu.be/owlM6b8oUd0?t=947), [08-26](https://youtu.be/sTtFUy7IoJI?t=1431), [07-13](https://youtu.be/Rqb5GdrSweY?t=1695))
+- Justin thinks his best role is as a sixth man scorer leading the second unit. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1002))
 - His 2.2 steals per game last season are the steals number most likely to drop a lot, because he was not a big steals player before. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=1651))
+- He missed most of last season. (fact, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=362), stats)
 
 **Durable**
 - Steals are his standout category, well above the top 250 pool. (fact, 2026-10-04; stats, [08-14](https://youtu.be/owlM6b8oUd0?t=1114), [08-11](https://youtu.be/OdDkXFhoKsc?t=1782))
 - He makes few threes for a guard. His three-point attempts disappeared in Milwaukee. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1055), [08-14](https://youtu.be/owlM6b8oUd0?t=1114), stats)
 - His scoring efficiency relies on tough mid-range shots, and Justin thinks that is unlikely to last. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1055))
-- His FT% is hard to predict. He has a 60% season in his career and also seasons near 77% and 88%. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1984), [08-14](https://youtu.be/owlM6b8oUd0?t=1114))
 - The experts do not rate him as a real-life player. One calls him inefficient and a ball hog, though the fantasy numbers are strong when he plays big minutes. (verdict, 2026-08-11; [07-05](https://youtu.be/4kKINkZhWls?t=2065), [08-11](https://youtu.be/OdDkXFhoKsc?t=1782))
+- His FT% is hard to predict. He has a 60% season in his career and also seasons near 77% and 88%. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1984), [08-14](https://youtu.be/owlM6b8oUd0?t=1114))
 
 **Tags**
 - Current: `minutes competition` (Rollins, Herro, Jakucionis, Burries, Trent and Green in the backcourt), `role down` (lost Doc Rivers; likely bench role under Taylor Jenkins), `injury last season` (played 38 games), `flyer` (late pick around 120 in case he starts)

@@ -3,9 +3,9 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 69 | 22.6 | 50.5 (9.5) | 75.6 (1.7) | 0.9 | 11.8 | 3.4 | 3.9 | 0.8 | 0.3 | 1.4 |
-| 2026-27 proj, Yahoo | 69 | - | 50.8 (13.4) | 75.8 (2.6) | 1.2 | 16.7 | 4.8 | 4.8 | 1.2 | 0.5 | 2.1 |
 | 2026-27 proj, ESPN | 72 | 29.3 | 50.5 (12.3) | 75.9 (2.2) | 1.1 | 15.2 | 4.4 | 5.0 | 1.0 | 0.5 | 1.9 |
+| 2026-27 proj, Yahoo | 69 | - | 50.8 (13.4) | 75.8 (2.6) | 1.2 | 16.7 | 4.8 | 4.8 | 1.2 | 0.5 | 2.1 |
+| 2025-26 | 69 | 22.6 | 50.5 (9.5) | 75.6 (1.7) | 0.9 | 11.8 | 3.4 | 3.9 | 0.8 | 0.3 | 1.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,16 +30,16 @@
 **Current**
 - Most experts expect him to come off the bench to start the season. He would have to earn a starting spot outright. Harper himself seemed confident he would start. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1300), [08-27](https://youtu.be/ZAyie8lKyYc?t=549))
 - The newest team note says the Spurs' point guard depth is bad, so they may start Harper, Castle and Fox together. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1311))
+- Experts agree he is drafted too early. His ADP around 78 to 84 is too high, he leaves zero value at that spot, and he is closer to a rank 100 player. One expert puts him in tier 8 of point guards and calls him a better player than Jeremiah Fears. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1397), [09-24](https://youtu.be/_vbAP5y182A?t=1541), [09-10](https://youtu.be/W-R1dzem32s?t=1687), [09-09](https://youtu.be/7BllEsdNLoM?t=2151), [09-04](https://youtu.be/gerS7ibpaJo?t=1230), [08-11](https://youtu.be/OdDkXFhoKsc?t=1448), [07-02](https://youtu.be/P6TNP-g0wzY?t=2350))
+- Drafters take him mainly for assists. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1397))
 - The Spurs backcourt is crowded with De'Aaron Fox and Stephon Castle. The team staggers its three guards so at least two are always on the court, and more three-guard lineups are expected. (fact, 2026-09-09; [08-27](https://youtu.be/ZAyie8lKyYc?t=666), [09-09](https://youtu.be/7BllEsdNLoM?t=1991), [08-24](https://youtu.be/g31YlwRe0XQ?t=1055), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312), [07-01](https://youtu.be/W3THnI7wWdA?t=1136))
 - Experts disagree on his minutes. One preview expects him to push toward 30 minutes even off the bench. Others think he will not reach 30 because the Spurs will not bench Fox or Castle. (verdict, 2026-09-04; [08-27](https://youtu.be/ZAyie8lKyYc?t=692), [08-11](https://youtu.be/OdDkXFhoKsc?t=1448), [09-04](https://youtu.be/gerS7ibpaJo?t=1230), [09-04](https://youtu.be/gerS7ibpaJo?t=1249), [07-02](https://youtu.be/P6TNP-g0wzY?t=2350))
-- Experts agree he is drafted too early. His ADP around 78 to 84 is too high, he leaves zero value at that spot, and he is closer to a rank 100 player. One expert puts him in tier 8 of point guards and calls him a better player than Jeremiah Fears. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1397), [09-24](https://youtu.be/_vbAP5y182A?t=1541), [09-10](https://youtu.be/W-R1dzem32s?t=1687), [09-09](https://youtu.be/7BllEsdNLoM?t=2151), [09-04](https://youtu.be/gerS7ibpaJo?t=1230), [08-11](https://youtu.be/OdDkXFhoKsc?t=1448), [07-02](https://youtu.be/P6TNP-g0wzY?t=2350))
 - Experts doubt his strong late-season shooting from last season will last. If it does hold, one host thinks he would be a top five player in the league. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1230), [08-27](https://youtu.be/ZAyie8lKyYc?t=773))
-- Drafters take him mainly for assists. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1397))
 
 **Durable**
+- His category profile has no weak category. His best areas are FG% for a guard and assists, but none of them is a league outlier. (fact, 2026-10-04; stats)
 - The Spurs see him as a future superstar and part of their long-term backcourt with Stephon Castle. (fact, 2026-09-09; [08-27](https://youtu.be/ZAyie8lKyYc?t=607), [09-09](https://youtu.be/7BllEsdNLoM?t=1991))
 - He is a much better defender than people think. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1884))
-- His category profile has no weak category. His best areas are FG% for a guard and assists, but none of them is a league outlier. (fact, 2026-10-04; stats)
 
 **Tags**
 - Current: `minutes competition` (Shares the backcourt with De'Aaron Fox and Stephon Castle; bench role expected to start the season), `role up` (Projected near 29 to 30 minutes after 22.6 last season), `bust candidate` (ADP around 78 to 84; experts see him closer to rank 100), `sites disagree on price` (Yahoo value 11 USD, rank 83; ESPN value 2 USD, rank 101)

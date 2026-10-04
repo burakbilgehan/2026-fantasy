@@ -26,18 +26,18 @@
 </details>
 
 **Current**
-- He is a rookie. The Hawks drafted him 23rd overall in the 2026 draft. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1444), [06-25](https://youtu.be/lOshTzDA4SA?t=2251))
-- He is a backup big man behind Onyeka Okongwu. Atlanta also has Jock Landale at center. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1444), [06-26](https://youtu.be/CLsUc0Sevos?t=1102), [06-25](https://youtu.be/lOshTzDA4SA?t=2227))
 - Lloyd expects a 10-man Hawks rotation that does not include him. The named bench is Dort, Wiggins, Landale, Flemings and probably Newell, with Kispert and Finney-Smith also in the mix. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
 - Atlanta's center depth is thin. Veesaar is out for the season and Gueye is injured. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1693))
+- He is a rookie. The Hawks drafted him 23rd overall in the 2026 draft. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1444), [06-25](https://youtu.be/lOshTzDA4SA?t=2251))
+- He is a backup big man behind Onyeka Okongwu. Atlanta also has Jock Landale at center. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1444), [06-26](https://youtu.be/CLsUc0Sevos?t=1102), [06-25](https://youtu.be/lOshTzDA4SA?t=2227))
 - In dynasty rookie rankings he is ranked 25th, in tier 5. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1444))
 
 **Durable**
-- He is an undersized, switchy, high-energy big man. (fact, 2026-06-26; [06-25](https://youtu.be/lOshTzDA4SA?t=2251), [06-26](https://youtu.be/CLsUc0Sevos?t=1444))
-- Experts doubt that his college production at St. John's will carry over. One sees big numbers from an upperclassman as a red flag and did not rate him as a first-round talent. (verdict, 2026-06-26; [06-25](https://youtu.be/lOshTzDA4SA?t=2251), [06-26](https://youtu.be/CLsUc0Sevos?t=1444))
+- His projections are far below the league in points, threes and steals. (fact, 2026-10-04; stats)
 - He barely shot threes in college. In Summer League, 52% of his shots were threes and he made 35% of them. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2310))
 - He could develop into a stretch big. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2310))
-- His projections are far below the league in points, threes and steals. (fact, 2026-10-04; stats)
+- He is an undersized, switchy, high-energy big man. (fact, 2026-06-26; [06-25](https://youtu.be/lOshTzDA4SA?t=2251), [06-26](https://youtu.be/CLsUc0Sevos?t=1444))
+- Experts doubt that his college production at St. John's will carry over. One sees big numbers from an upperclassman as a red flag and did not rate him as a first-round talent. (verdict, 2026-06-26; [06-25](https://youtu.be/lOshTzDA4SA?t=2251), [06-26](https://youtu.be/CLsUc0Sevos?t=1444))
 
 **Tags**
 - Current: `rookie` (23rd pick in 2026 by Atlanta), `minutes competition` (Backup big behind Okongwu and Landale and outside Lloyd's projected 10-man rotation)

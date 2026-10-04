@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 55 | 23.5 | 74.7 (5.4) | 50.6 (1.5) | 0.0 | 8.8 | 6.9 | 1.1 | 0.7 | 1.4 | 0.9 |
-| 2024-25 | 36 | 23.1 | 70.2 (5.3) | 63.0 (2.0) | 0.0 | 8.7 | 7.5 | 2.4 | 0.6 | 1.6 | 1.1 |
-| 2025-26 | 7 | 16.4 | 61.1 (2.6) | 80.0 (1.4) | 0.0 | 4.3 | 5.3 | 1.9 | 0.6 | 1.6 | 1.4 |
-| 2026-27 proj, Yahoo | 50 | - | 71.4 (5.2) | 60.9 (1.8) | 0.0 | 8.6 | 7.4 | 1.9 | 0.6 | 1.6 | 1.2 |
 | 2026-27 proj, ESPN | 65 | 23.6 | 72.9 (5.4) | 56.8 (1.7) | 0.0 | 8.8 | 7.2 | 1.6 | 0.6 | 1.5 | 1.0 |
+| 2026-27 proj, Yahoo | 50 | - | 71.4 (5.2) | 60.9 (1.8) | 0.0 | 8.6 | 7.4 | 1.9 | 0.6 | 1.6 | 1.2 |
+| 2025-26 | 7 | 16.4 | 61.1 (2.6) | 80.0 (1.4) | 0.0 | 4.3 | 5.3 | 1.9 | 0.6 | 1.6 | 1.4 |
+| 2024-25 | 36 | 23.1 | 70.2 (5.3) | 63.0 (2.0) | 0.0 | 8.7 | 7.5 | 2.4 | 0.6 | 1.6 | 1.1 |
+| 2023-24 | 55 | 23.5 | 74.7 (5.4) | 50.6 (1.5) | 0.0 | 8.8 | 6.9 | 1.1 | 0.7 | 1.4 | 0.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,19 +30,19 @@
 </details>
 
 **Current**
+- Daniel Gafford is the likely opening night center. Gafford and Morez Johnson Jr. are ahead of Lively in the rotation, and Josh's projected starting five has Johnson at center. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1240), [09-29](https://youtu.be/XSPJL_mlFXo?t=1717), [09-29](https://youtu.be/XSPJL_mlFXo?t=358))
 - He has a broken foot and will not be ready for the start of the season. Yahoo lists him as questionable (foot). (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1717), [09-25](https://youtu.be/4gw4W4RTolY?t=86), [07-27](https://youtu.be/0AptxcRW0RE?t=868), [07-07](https://youtu.be/ME-r173X5b0?t=382), [07-02](https://youtu.be/P6TNP-g0wzY?t=810), stats)
 - Josh expects him back around Thanksgiving, followed by a slow ramp-up. (verdict, 2026-09-29, until Thanksgiving; [09-29](https://youtu.be/XSPJL_mlFXo?t=1717))
-- Daniel Gafford is the likely opening night center. Gafford and Morez Johnson Jr. are ahead of Lively in the rotation, and Josh's projected starting five has Johnson at center. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1240), [09-29](https://youtu.be/XSPJL_mlFXo?t=1717), [09-29](https://youtu.be/XSPJL_mlFXo?t=358))
 - Dusty May is the new head coach. It is unknown how he will split center minutes between Lively, Gafford, Powell, Johnson and forwards like Washington and Aldama. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=234))
 - Josh finds him almost impossible to draft in 10, 12 or 14 team leagues and says to ignore his ADP of 107. His health and playing time are uncertain. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1856), [09-15](https://youtu.be/KPdD91Oo8-U?t=2705))
+- Dallas has a 4-4-4 schedule in our fantasy playoff weeks, probably the best in the league. It also has the league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
 - He becomes a draftable fantasy player only if he wins a starting job. (verdict, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=2228))
 - He is in the last year of his contract and becomes a restricted free agent next offseason. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=924))
-- Dallas has a 4-4-4 schedule in our fantasy playoff weeks, probably the best in the league. It also has the league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
 
 **Durable**
+- His category profile is a very high FG% and strong blocks, with no threes. His FT% is poor, but he takes few free throws. (fact, 2026-10-04; stats)
 - He has a long history of lower-body injuries. His games played have fallen every season since his rookie year, and injuries have derailed his career. (fact, 2026-09-29; [07-27](https://youtu.be/0AptxcRW0RE?t=853), [09-29](https://youtu.be/XSPJL_mlFXo?t=1694))
 - When healthy, he blocks shots at a high level, rebounds well and is a strong defender. He is a good roller and is very good in the short roll. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1694), [07-27](https://youtu.be/0AptxcRW0RE?t=953))
-- His category profile is a very high FG% and strong blocks, with no threes. His FT% is poor, but he takes few free throws. (fact, 2026-10-04; stats)
 
 **Tags**
 - Current: `injured now` (Broken foot, Yahoo status Q (Foot), return expected around Thanksgiving; until Thanksgiving), `injury last season` (Played only 7 games in 2025-26), `slow start` (Out until around Thanksgiving, then a slow ramp-up; until Thanksgiving), `minutes competition` (Daniel Gafford and Morez Johnson Jr. are ahead of him at center), `waiver watch` (Not draftable in 12 team leagues. Watch when he returns and whether he starts.), `good playoff schedule` (Dallas plays 4-4-4 in weeks 19 to 21)

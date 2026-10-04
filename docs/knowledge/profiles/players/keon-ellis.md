@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 57 | 17.1 | 46.1 (4.1) | 74.3 (0.6) | 1.2 | 5.4 | 2.2 | 1.5 | 0.9 | 0.5 | 0.6 |
-| 2024-25 | 80 | 24.4 | 48.9 (5.8) | 84.9 (1.1) | 1.7 | 8.3 | 2.6 | 1.5 | 1.5 | 0.8 | 0.9 |
-| 2025-26 | 72 | 20.5 | 44.0 (5.3) | 72.9 (1.0) | 1.3 | 6.7 | 1.9 | 1.0 | 1.2 | 0.6 | 0.6 |
-| 2026-27 proj, Yahoo | 72 | - | 44.8 (4.7) | 77.0 (0.8) | 1.2 | 6.0 | 1.9 | 1.1 | 1.1 | 0.6 | 0.6 |
 | 2026-27 proj, ESPN | 72 | 21.0 | 45.0 (5.4) | 75.0 (1.0) | 1.4 | 7.0 | 2.0 | 1.1 | 1.2 | 0.7 | 0.6 |
+| 2026-27 proj, Yahoo | 72 | - | 44.8 (4.7) | 77.0 (0.8) | 1.2 | 6.0 | 1.9 | 1.1 | 1.1 | 0.6 | 0.6 |
+| 2025-26 | 72 | 20.5 | 44.0 (5.3) | 72.9 (1.0) | 1.3 | 6.7 | 1.9 | 1.0 | 1.2 | 0.6 | 0.6 |
+| 2024-25 | 80 | 24.4 | 48.9 (5.8) | 84.9 (1.1) | 1.7 | 8.3 | 2.6 | 1.5 | 1.5 | 0.8 | 0.9 |
+| 2023-24 | 57 | 17.1 | 46.1 (4.1) | 74.3 (0.6) | 1.2 | 5.4 | 2.2 | 1.5 | 0.9 | 0.5 | 0.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,13 +30,13 @@
 </details>
 
 **Current**
-- He signed with Brooklyn for 2 years and 18 million as veteran depth. One note describes it as a mutual option deal. (fact, 2026-08-21; [07-02](https://youtu.be/P6TNP-g0wzY?t=1332), [08-21](https://youtu.be/uRsfijpBPok?t=217))
 - He is projected as Brooklyn's sixth man, the first name in a bench rotation with Noah Clowney, Mo Wagner, Danny Wolf and Nolan Traore. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1117), [09-26](https://youtu.be/3UGI05PDvrE?t=1156))
 - He needs about 27 minutes a game to matter in 12-team category leagues. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1117), [07-02](https://youtu.be/P6TNP-g0wzY?t=1332))
 - Treat him as a stash, not a must-roster player. Do not target him aggressively. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1117))
-- He can give capable minutes if Brooklyn asks him to start. (verdict, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=217))
 - Brooklyn does not own its pick and has young players with a case for minutes. Minutes may shift to Minott, Clowney, Brown and Demin in the second half, so his role around the fantasy playoffs is uncertain. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [08-21](https://youtu.be/uRsfijpBPok?t=276))
 - Brooklyn plays 3-4-3 games in our playoff weeks (season ending March 28) and has 16 back-to-backs, tied for the most in the league. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
+- He signed with Brooklyn for 2 years and 18 million as veteran depth. One note describes it as a mutual option deal. (fact, 2026-08-21; [07-02](https://youtu.be/P6TNP-g0wzY?t=1332), [08-21](https://youtu.be/uRsfijpBPok?t=217))
+- He can give capable minutes if Brooklyn asks him to start. (verdict, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=217))
 
 **Durable**
 - He is a low-usage wing. His fantasy value comes from steals and few turnovers. He adds little in points, rebounds and assists. (fact, 2026-10-04; stats)

@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 71 | 25.9 | 42.2 (7.8) | 68.2 (2.2) | 0.6 | 8.7 | 3.3 | 6.3 | 0.9 | 0.2 | 2.9 |
-| 2025-26 | 59 | 25.7 | 49.5 (8.7) | 72.2 (3.5) | 0.5 | 11.7 | 2.5 | 7.2 | 1.1 | 0.3 | 2.5 |
-| 2026-27 proj, Yahoo | 64 | - | 46.7 (6.1) | 75.4 (2.2) | 0.5 | 7.9 | 2.1 | 4.8 | 0.5 | 0.3 | 1.5 |
 | 2026-27 proj, ESPN | 67 | 22.7 | 48.3 (7.6) | 72.2 (2.9) | 0.4 | 9.9 | 2.4 | 6.2 | 1.0 | 0.3 | 2.3 |
+| 2026-27 proj, Yahoo | 64 | - | 46.7 (6.1) | 75.4 (2.2) | 0.5 | 7.9 | 2.1 | 4.8 | 0.5 | 0.3 | 1.5 |
+| 2025-26 | 59 | 25.7 | 49.5 (8.7) | 72.2 (3.5) | 0.5 | 11.7 | 2.5 | 7.2 | 1.1 | 0.3 | 2.5 |
+| 2024-25 | 71 | 25.9 | 42.2 (7.8) | 68.2 (2.2) | 0.6 | 8.7 | 3.3 | 6.3 | 0.9 | 0.2 | 2.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,11 +29,11 @@
 </details>
 
 **Current**
-- Utah's guard and wing rotation is crowded with Keyonte George, Darryn Peterson, Sensabaugh, Ace Bailey, Lauri Markkanen and Jaren Jackson Jr. That leaves little room for Collier. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1696), [07-16](https://youtu.be/-y6p5PYLf00?t=1689))
-- The projected Utah starting lineup is Keyonte George, Darryn Peterson, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic. Collier is not in it. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=349))
 - Utah is trying to win this season and is not tanking. (fact, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [07-14](https://youtu.be/xHRF06_E9HE?t=872))
-- His strong late-season ranking came only because Keyonte George was injured and others sat. Those late-season minutes will not be there this year, and he may play 20 minutes at most. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1604), [07-14](https://youtu.be/xHRF06_E9HE?t=872))
+- The projected Utah starting lineup is Keyonte George, Darryn Peterson, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic. Collier is not in it. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=349))
+- Utah's guard and wing rotation is crowded with Keyonte George, Darryn Peterson, Sensabaugh, Ace Bailey, Lauri Markkanen and Jaren Jackson Jr. That leaves little room for Collier. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1696), [07-16](https://youtu.be/-y6p5PYLf00?t=1689))
 - His fantasy value is finished after the Utah draft. He has no real opportunity on this roster. (verdict, 2026-07-16; [06-25](https://youtu.be/lOshTzDA4SA?t=1422), [07-16](https://youtu.be/-y6p5PYLf00?t=1696))
+- His strong late-season ranking came only because Keyonte George was injured and others sat. Those late-season minutes will not be there this year, and he may play 20 minutes at most. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1604), [07-14](https://youtu.be/xHRF06_E9HE?t=872))
 
 **Durable**
 - He scores efficiently inside the arc but cannot shoot from outside. He makes very few threes. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1696), stats)

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 62 | 32.7 | 50.4 (15.3) | 87.3 (4.7) | 2.2 | 21.8 | 8.3 | 3.0 | 0.7 | 0.7 | 2.9 |
-| 2024-25 | 72 | 35.0 | 52.6 (16.9) | 82.9 (5.7) | 2.0 | 24.4 | 12.8 | 3.1 | 1.0 | 0.7 | 2.7 |
-| 2025-26 | 75 | 30.9 | 50.1 (13.8) | 85.8 (5.5) | 1.5 | 20.1 | 11.9 | 3.0 | 0.9 | 0.5 | 2.5 |
-| 2026-27 proj, Yahoo | 73 | - | 50.9 (14.3) | 85.2 (5.4) | 1.7 | 20.8 | 11.4 | 3.5 | 0.9 | 0.6 | 2.5 |
 | 2026-27 proj, ESPN | 70 | 32.7 | 51.0 (15.2) | 85.2 (5.4) | 1.8 | 21.9 | 11.2 | 4.4 | 0.9 | 0.6 | 2.6 |
+| 2026-27 proj, Yahoo | 73 | - | 50.9 (14.3) | 85.2 (5.4) | 1.7 | 20.8 | 11.4 | 3.5 | 0.9 | 0.6 | 2.5 |
+| 2025-26 | 75 | 30.9 | 50.1 (13.8) | 85.8 (5.5) | 1.5 | 20.1 | 11.9 | 3.0 | 0.9 | 0.5 | 2.5 |
+| 2024-25 | 72 | 35.0 | 52.6 (16.9) | 82.9 (5.7) | 2.0 | 24.4 | 12.8 | 3.1 | 1.0 | 0.7 | 2.7 |
+| 2023-24 | 62 | 32.7 | 50.4 (15.3) | 87.3 (4.7) | 2.2 | 21.8 | 8.3 | 3.0 | 0.7 | 0.7 | 2.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,20 +30,20 @@
 </details>
 
 **Current**
-- Mitchell Robinson has left the Knicks. Andre Drummond replaces him, and the team still lacks a third big. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=154))
-- Projected starters are Brunson, Bridges, Hart, Anunoby and Towns. Little double-big lineup use is expected. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=317))
-- Without Mitchell Robinson next to him, his rebounds and FG% may improve. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=390), [09-14](https://youtu.be/LM0cRCGoAUQ?t=651), [07-07](https://youtu.be/ME-r173X5b0?t=867))
-- Mike Brown coaches the Knicks. He uses the bench more and gives Towns fewer minutes than the previous coach did. (fact, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=867), [06-22](https://youtu.be/HxQjagSTTAM?t=990))
-- The Knicks won the championship. Towns is 30 and comes off a long Finals run. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [08-27](https://youtu.be/ZAyie8lKyYc?t=334), [09-14](https://youtu.be/t4n9MAP2_14?t=390))
 - The Knicks are expected to be cautious with his minutes early, with trimmed starter minutes and more rest on back-to-backs. He is projected at only about 31 minutes. (verdict, 2026-09-22, until first 30 or so games; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [09-14](https://youtu.be/LM0cRCGoAUQ?t=651), [09-07](https://youtu.be/E-KmhvyZ2CU?t=518), [09-14](https://youtu.be/t4n9MAP2_14?t=390), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [09-10](https://youtu.be/dlo7L8Ru91A?t=1127), [09-09](https://youtu.be/7BllEsdNLoM?t=1565), [09-22](https://youtu.be/QbdrhJd7LiA?t=914))
 - He may take a step back from last season. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=690))
 - Experts rank him about 19th in 9-cat and say he goes too high at picks 15 to 17. He is not a first rounder. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=690), [09-14](https://youtu.be/t4n9MAP2_14?t=390), [09-14](https://youtu.be/LM0cRCGoAUQ?t=651))
+- Without Mitchell Robinson next to him, his rebounds and FG% may improve. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=390), [09-14](https://youtu.be/LM0cRCGoAUQ?t=651), [07-07](https://youtu.be/ME-r173X5b0?t=867))
+- The Knicks won the championship. Towns is 30 and comes off a long Finals run. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [08-27](https://youtu.be/ZAyie8lKyYc?t=334), [09-14](https://youtu.be/t4n9MAP2_14?t=390))
+- Mitchell Robinson has left the Knicks. Andre Drummond replaces him, and the team still lacks a third big. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=154))
+- Projected starters are Brunson, Bridges, Hart, Anunoby and Towns. Little double-big lineup use is expected. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=317))
+- Mike Brown coaches the Knicks. He uses the bench more and gives Towns fewer minutes than the previous coach did. (fact, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=867), [06-22](https://youtu.be/HxQjagSTTAM?t=990))
 
 **Durable**
-- He has a history of lower body problems, including knee issues. (fact, 2026-09-14; [08-13](https://youtu.be/okN3fbHJtlA?t=794), [09-14](https://youtu.be/LM0cRCGoAUQ?t=651), [09-07](https://youtu.be/E-KmhvyZ2CU?t=518))
-- He showed some signs of declining athleticism in the regular season but looked good in the playoffs. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=794))
 - Rebounds are his standout category, far above the league pool. (fact, 2026-10-04; stats)
 - Turnovers are his weak category, high for a forward or center. (fact, 2026-10-04; stats)
+- He has a history of lower body problems, including knee issues. (fact, 2026-09-14; [08-13](https://youtu.be/okN3fbHJtlA?t=794), [09-14](https://youtu.be/LM0cRCGoAUQ?t=651), [09-07](https://youtu.be/E-KmhvyZ2CU?t=518))
+- He showed some signs of declining athleticism in the regular season but looked good in the playoffs. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=794))
 
 **Tags**
 - Current: `slow start` (Knicks expected to trim starter minutes after the long Finals run; until first 30 or so games), `back-to-back risk` (More rest on back-to-backs expected early in the season; until first 30 or so games), `bust candidate` (Going too high at picks 15 to 17; experts say he is not a first rounder)

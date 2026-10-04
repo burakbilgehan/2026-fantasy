@@ -26,17 +26,17 @@
 </details>
 
 **Current**
-- He is a rookie. Philadelphia drafted him 22nd overall in the 2026 draft. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1740), [06-25](https://youtu.be/lOshTzDA4SA?t=1616))
-- He comes off the bench behind the starting guards Tyrese Maxey and VJ Edgecombe. (fact, 2026-08-06; [06-26](https://youtu.be/CLsUc0Sevos?t=1740), [06-25](https://youtu.be/lOshTzDA4SA?t=1616), [06-26](https://youtu.be/CLsUc0Sevos?t=1747), [08-06](https://youtu.be/gTsfR5PxAMY?t=412))
 - The 76ers also added Anfernee Simons and Kentavious Caldwell-Pope, and their guard rotation is crowded. (fact, 2026-09-16; [08-06](https://youtu.be/gTsfR5PxAMY?t=141), [08-02](https://youtu.be/TOn-D1SV7a8?t=1033), [09-16](https://youtu.be/2A2JbUN-kc0?t=760))
+- He comes off the bench behind the starting guards Tyrese Maxey and VJ Edgecombe. (fact, 2026-08-06; [06-26](https://youtu.be/CLsUc0Sevos?t=1740), [06-25](https://youtu.be/lOshTzDA4SA?t=1616), [06-26](https://youtu.be/CLsUc0Sevos?t=1747), [08-06](https://youtu.be/gTsfR5PxAMY?t=412))
 - Experts see almost no path to real minutes for him this season. The crowded guard rotation and Nick Nurse's heavy minutes for starters limit his rookie value. (verdict, 2026-08-06; [08-02](https://youtu.be/TOn-D1SV7a8?t=1033), [07-23](https://youtu.be/LUTYUdXBG1M?t=513), [08-02](https://youtu.be/TOn-D1SV7a8?t=1033), [08-06](https://youtu.be/gTsfR5PxAMY?t=556))
-- In Summer League he played with restraint on 28% usage. He averaged 6 assists and 1.5 steals but shot 26% from three and 63% from the line. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=513))
-- He could grow into a 27-minute player in two years, or a trade could put him in a starting role. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1740))
 - He is not a draft target in our 12-team league. (verdict, 2026-08-02; stats, [08-02](https://youtu.be/TOn-D1SV7a8?t=1033))
+- In Summer League he played with restraint on 28% usage. He averaged 6 assists and 1.5 steals but shot 26% from three and 63% from the line. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=513))
+- He is a rookie. Philadelphia drafted him 22nd overall in the 2026 draft. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1740), [06-25](https://youtu.be/lOshTzDA4SA?t=1616))
+- He could grow into a 27-minute player in two years, or a trade could put him in a starting role. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1740))
 
 **Durable**
-- Experts rated him a top 10 prospect in the 2026 draft class. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1740), [06-25](https://youtu.be/lOshTzDA4SA?t=1616))
 - Experts expect him to become a good shooter and a better player than Jared McCain. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=513), [06-25](https://youtu.be/lOshTzDA4SA?t=1616))
+- Experts rated him a top 10 prospect in the 2026 draft class. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1740), [06-25](https://youtu.be/lOshTzDA4SA?t=1616))
 
 **Tags**
 - Current: `rookie` (22nd pick in 2026 by Philadelphia), `minutes competition` (Backs up Maxey and Edgecombe in a crowded guard rotation that also has Simons and Caldwell-Pope)

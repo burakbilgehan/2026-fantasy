@@ -26,16 +26,16 @@
 </details>
 
 **Current**
-- He is a rookie. The Kings traded up to pick 29 in the 2026 draft to take him. (fact, 2026-06-26; [06-25](https://youtu.be/lOshTzDA4SA?t=2134), [06-26](https://youtu.be/CLsUc0Sevos?t=940))
-- He averaged 8 points on 16.5% usage in Summer League. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=797))
 - Lloyd thought he looked bad in Summer League and does not expect him to be a rotation player. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=457))
 - The projected Kings starters are Acuff, LaVine, Hunter, Murray and Sabonis, and nobody is pushing that group for a starting spot. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691))
+- He averaged 8 points on 16.5% usage in Summer League. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=797))
 - Experts ranked him below his draft slot among rookies. (verdict, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=1541), [06-26](https://youtu.be/CLsUc0Sevos?t=940))
+- He is a rookie. The Kings traded up to pick 29 in the 2026 draft to take him. (fact, 2026-06-26; [06-25](https://youtu.be/lOshTzDA4SA?t=2134), [06-26](https://youtu.be/CLsUc0Sevos?t=940))
 
 **Durable**
 - He is a low-usage shooter who does little else. His usage in college was about 17%. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=797), [06-26](https://youtu.be/CLsUc0Sevos?t=940), [06-25](https://youtu.be/lOshTzDA4SA?t=2134))
-- He is about 23 and a half years old, which is old for a rookie. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=940), [06-25](https://youtu.be/lOshTzDA4SA?t=2134))
 - Experts see poor fantasy translation and compare him to a much worse Duncan Robinson, with a possible Steve Novak outcome. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=797), [06-26](https://youtu.be/CLsUc0Sevos?t=940), [06-25](https://youtu.be/lOshTzDA4SA?t=2134))
+- He is about 23 and a half years old, which is old for a rookie. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=940), [06-25](https://youtu.be/lOshTzDA4SA?t=2134))
 
 **Tags**
 - Current: `rookie` (Pick 29 in 2026, Kings traded up for him)

@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 58 | 13.7 | 54.5 (2.9) | 46.2 (1.6) | 0.0 | 3.9 | 5.6 | 1.1 | 0.4 | 0.5 | 0.9 |
-| 2025-26 | 32 | 22.8 | 50.4 (4.3) | 58.0 (2.5) | 0.0 | 5.8 | 8.6 | 1.5 | 0.7 | 0.6 | 1.1 |
-| 2026-27 proj, Yahoo | 42 | - | 47.6 (3.5) | 70.2 (2.0) | 0.0 | 4.7 | 6.9 | 2.0 | 0.7 | 0.4 | 1.2 |
 | 2026-27 proj, ESPN | 63 | 12.0 | 52.3 (2.4) | 52.3 (1.4) | 0.0 | 3.2 | 4.7 | 0.9 | 0.3 | 0.4 | 0.7 |
+| 2026-27 proj, Yahoo | 42 | - | 47.6 (3.5) | 70.2 (2.0) | 0.0 | 4.7 | 6.9 | 2.0 | 0.7 | 0.4 | 1.2 |
+| 2025-26 | 32 | 22.8 | 50.4 (4.3) | 58.0 (2.5) | 0.0 | 5.8 | 8.6 | 1.5 | 0.7 | 0.6 | 1.1 |
+| 2024-25 | 58 | 13.7 | 54.5 (2.9) | 46.2 (1.6) | 0.0 | 3.9 | 5.6 | 1.1 | 0.4 | 0.5 | 0.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -33,14 +33,14 @@
 - Lloyd sees him only as a rebound streamer for certain matchups. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1462))
 - He is healthy now. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1894))
 - Lloyd expects him to sit back-to-backs, definitely at the start of the season. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1894))
-- Houston is expected to use double-big lineups with Adams and Sengun at times. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1015))
 - The Rockets have only 14 back-to-backs, so he should lose fewer games to rest. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011))
 - With our March 28 end, Houston plays 3-3-4 in the fantasy playoff weeks, 10 games over three weeks. That is a weak schedule. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
+- Houston is expected to use double-big lineups with Adams and Sengun at times. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1015))
 
 **Durable**
-- He is arguably the greatest offensive rebounder in NBA history. Teams often need two or three players to keep him off the glass. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=962))
-- He has persistent knee problems. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1894))
 - He makes no threes and scores very few points. (fact, 2026-10-04; stats)
+- He has persistent knee problems. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1894))
+- He is arguably the greatest offensive rebounder in NBA history. Teams often need two or three players to keep him off the glass. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=962))
 
 **Tags**
 - Current: `back-to-back risk` (expected to sit back-to-backs, definitely early in the season), `injury last season` (missed a huge chunk of 2025-26), `waiver watch` (rebound streamer for certain matchups), `few back-to-backs` (Rockets have 14 back-to-backs), `bad playoff schedule` (3-3-4, 10 games in weeks 19 to 21)

@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { STATIC } from './api/client'
 import { widgets } from './layout/registry'
 
 type Theme = 'auto' | 'light' | 'dark'
@@ -42,6 +43,7 @@ export default function App() {
         <div className="brand">
           <span className="wordmark">Deh Deh</span>
           <span className="season">2026-27 war room</span>
+          {STATIC && <span className="season">Static copy, data of {import.meta.env.VITE_SNAPSHOT}</span>}
         </div>
         <ThemeSwitch />
       </header>

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 9 | 9.2 | 40.0 (1.7) | 50.0 (0.2) | 0.2 | 1.7 | 2.2 | 0.6 | 0.6 | 0.1 | 0.3 |
-| 2024-25 | 52 | 7.7 | 36.1 (1.6) | 58.3 (0.2) | 0.3 | 1.6 | 1.3 | 0.4 | 0.2 | 0.2 | 0.3 |
-| 2025-26 | 68 | 17.9 | 50.9 (3.9) | 77.2 (0.8) | 0.7 | 5.4 | 4.0 | 0.8 | 0.7 | 0.5 | 0.5 |
-| 2026-27 proj, Yahoo | 70 | - | 47.7 (3.1) | 72.1 (0.6) | 0.6 | 4.0 | 3.0 | 0.7 | 0.4 | 0.7 | 0.8 |
 | 2026-27 proj, ESPN | 71 | 21.5 | 50.3 (4.7) | 76.1 (1.0) | 0.9 | 6.4 | 4.8 | 1.0 | 0.9 | 0.6 | 0.6 |
+| 2026-27 proj, Yahoo | 70 | - | 47.7 (3.1) | 72.1 (0.6) | 0.6 | 4.0 | 3.0 | 0.7 | 0.4 | 0.7 | 0.8 |
+| 2025-26 | 68 | 17.9 | 50.9 (3.9) | 77.2 (0.8) | 0.7 | 5.4 | 4.0 | 0.8 | 0.7 | 0.5 | 0.5 |
+| 2024-25 | 52 | 7.7 | 36.1 (1.6) | 58.3 (0.2) | 0.3 | 1.6 | 1.3 | 0.4 | 0.2 | 0.2 | 0.3 |
+| 2023-24 | 9 | 9.2 | 40.0 (1.7) | 50.0 (0.2) | 0.2 | 1.7 | 2.2 | 0.6 | 0.6 | 0.1 | 0.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,14 +30,14 @@
 </details>
 
 **Current**
-- One expert says Walsh comes into this season with a more defined role. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=361))
 - A newer team preview projects Walsh as a bench player behind starters White, Scheierman, Tatum, George and Queta, with Pritchard, Hauser, Robinson and Conley also in the bench rotation. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=848))
 - Boston has at least 12 rotation-level players. In a 10-man rotation, Walsh or another player is expected to miss out most nights. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133))
 - Boston plays 4, 3 and 4 games in our fantasy playoff weeks, one game short of the maximum. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1816))
+- One expert says Walsh comes into this season with a more defined role. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=361))
 
 **Durable**
-- Walsh has limited offense. Boston gets value from him in other ways. (verdict, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=875))
 - His scoring is very low, a clear weakness against the top 250 pool. (fact, 2026-10-04; stats)
+- Walsh has limited offense. Boston gets value from him in other ways. (verdict, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=875))
 
 **Tags**
 - Current: `minutes competition` (Deep Boston bench; may fall out of a 10-man rotation most nights)

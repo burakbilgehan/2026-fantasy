@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 69 | 32.8 | 48.0 (10.0) | 83.3 (1.0) | 2.0 | 12.5 | 5.4 | 4.8 | 0.9 | 0.8 | 1.8 |
-| 2024-25 | 62 | 30.7 | 44.3 (9.2) | 90.9 (1.2) | 1.7 | 11.1 | 4.3 | 3.9 | 1.1 | 0.4 | 1.2 |
-| 2025-26 | 53 | 29.4 | 45.1 (13.4) | 83.8 (2.0) | 2.6 | 16.3 | 4.6 | 6.1 | 1.0 | 0.1 | 2.8 |
-| 2026-27 proj, Yahoo | 65 | - | 45.5 (9.8) | 86.2 (1.3) | 1.9 | 12.0 | 4.0 | 4.4 | 1.0 | 0.2 | 1.8 |
 | 2026-27 proj, ESPN | 68 | 29.1 | 45.9 (10.3) | 86.4 (1.3) | 2.0 | 12.6 | 4.5 | 4.7 | 0.9 | 0.4 | 1.8 |
+| 2026-27 proj, Yahoo | 65 | - | 45.5 (9.8) | 86.2 (1.3) | 1.9 | 12.0 | 4.0 | 4.4 | 1.0 | 0.2 | 1.8 |
+| 2025-26 | 53 | 29.4 | 45.1 (13.4) | 83.8 (2.0) | 2.6 | 16.3 | 4.6 | 6.1 | 1.0 | 0.1 | 2.8 |
+| 2024-25 | 62 | 30.7 | 44.3 (9.2) | 90.9 (1.2) | 1.7 | 11.1 | 4.3 | 3.9 | 1.1 | 0.4 | 1.2 |
+| 2023-24 | 69 | 32.8 | 48.0 (10.0) | 83.3 (1.0) | 2.0 | 12.5 | 5.4 | 4.8 | 0.9 | 0.8 | 1.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,14 +30,14 @@
 </details>
 
 **Current**
+- Experts are not high on him this season. He is solid but has little upside in this Portland setup, even with Sharpe out. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2326), [09-15](https://youtu.be/KPdD91Oo8-U?t=2336), [09-10](https://youtu.be/W-R1dzem32s?t=1902), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1784), [06-29](https://youtu.be/bHA-JoW3reE?t=1013))
 - Portland has a crowded guard group: Damian Lillard, Ja Morant, Scoot Henderson and Deni Avdija all handle the ball next to Holiday. (fact, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1062), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [07-07](https://youtu.be/ME-r173X5b0?t=1091), [08-11](https://youtu.be/YJk7ZFKFqnI?t=204))
 - He is expected to play almost only small forward, next to two other guards. (verdict, 2026-08-26; [08-11](https://youtu.be/YJk7ZFKFqnI?t=241), [08-26](https://youtu.be/sTtFUy7IoJI?t=2162))
-- He is expected to come off the bench except when Morant or Lillard are out. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1998))
 - His usage of 24 last season should drop back to a Boston-style role as a low-usage corner spacer. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=2162), [08-11](https://youtu.be/YJk7ZFKFqnI?t=341))
 - Shaedon Sharpe is injured, which frees some backup minutes in Portland. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=2162))
-- Experts are not high on him this season. He is solid but has little upside in this Portland setup, even with Sharpe out. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2326), [09-15](https://youtu.be/KPdD91Oo8-U?t=2336), [09-10](https://youtu.be/W-R1dzem32s?t=1902), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1784), [06-29](https://youtu.be/bHA-JoW3reE?t=1013))
-- Minutes and usage across the Portland rotation are expected to swing from game to game. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
 - Portland has three back-to-backs in the fantasy playoffs and a five-game week starting February 8. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037), [08-16](https://youtu.be/gf_6GveiAls?t=1310))
+- He is expected to come off the bench except when Morant or Lillard are out. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1998))
+- Minutes and usage across the Portland rotation are expected to swing from game to game. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
 
 **Durable**
 - He can play well in a low-usage role, as he did at 15 to 16 usage in Boston. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=2188))

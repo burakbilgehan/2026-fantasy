@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 32 | 33.1 | 40.6 (13.6) | 82.4 (3.7) | 1.9 | 15.9 | 5.0 | 2.9 | 0.9 | 0.4 | 2.2 |
-| 2024-25 | 72 | 31.2 | 45.2 (15.3) | 78.5 (3.4) | 2.0 | 18.5 | 4.5 | 2.8 | 0.9 | 0.2 | 2.1 |
-| 2025-26 | 50 | 29.4 | 45.2 (17.4) | 78.7 (3.9) | 2.1 | 20.8 | 4.3 | 2.6 | 1.4 | 0.1 | 2.9 |
-| 2026-27 proj, Yahoo | 30 | - | 45.0 (14.3) | 78.6 (3.3) | 1.8 | 17.3 | 3.8 | 2.3 | 1.0 | 0.1 | 2.2 |
 | 2026-27 proj, ESPN | 27 | 25.4 | 45.0 (14.0) | 79.1 (3.2) | 1.7 | 16.8 | 3.7 | 2.3 | 1.0 | 0.1 | 2.2 |
+| 2026-27 proj, Yahoo | 30 | - | 45.0 (14.3) | 78.6 (3.3) | 1.8 | 17.3 | 3.8 | 2.3 | 1.0 | 0.1 | 2.2 |
+| 2025-26 | 50 | 29.4 | 45.2 (17.4) | 78.7 (3.9) | 2.1 | 20.8 | 4.3 | 2.6 | 1.4 | 0.1 | 2.9 |
+| 2024-25 | 72 | 31.2 | 45.2 (15.3) | 78.5 (3.4) | 2.0 | 18.5 | 4.5 | 2.8 | 0.9 | 0.2 | 2.1 |
+| 2023-24 | 32 | 33.1 | 40.6 (13.6) | 82.4 (3.7) | 1.9 | 15.9 | 5.0 | 2.9 | 0.9 | 0.4 | 2.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -32,8 +32,8 @@
 **Current**
 - He has a meniscus (knee) injury and is expected to miss basically the whole 2026-27 season. Yahoo lists him as out with a knee injury. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=2137), stats)
 - Portland's backcourt is crowded: Damian Lillard, Ja Morant, Jrue Holiday, Scoot Henderson and Deni Avdija all handle the ball. Sharpe is listed off the bench. (fact, 2026-08-26; [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [06-29](https://youtu.be/bHA-JoW3reE?t=227), [07-07](https://youtu.be/ME-r173X5b0?t=1091))
-- Josh says there is almost no chance he starts. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=495))
 - Do not draft him in our league. He is out for basically the whole season, and his value has cratered in the crowded Portland backcourt. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=2137), [06-29](https://youtu.be/bHA-JoW3reE?t=1011))
+- Josh says there is almost no chance he starts. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=495))
 - He scored his points last season in a high-volume bench role. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1709))
 - It is unclear whether last season's scoring was empty and whether he can keep that shot volume. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1709))
 - His rise in steals came from a 71% deflection-to-steal conversion, which the speaker calls luck. Expect fewer steals. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1307))

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 78 | 26.6 | 48.7 (13.3) | 85.9 (4.7) | 1.6 | 18.7 | 2.6 | 4.9 | 0.8 | 0.2 | 2.1 |
-| 2024-25 | 63 | 28.0 | 48.0 (13.8) | 86.5 (4.0) | 1.7 | 18.4 | 2.7 | 4.2 | 0.7 | 0.1 | 2.5 |
-| 2025-26 | 68 | 23.7 | 48.5 (10.9) | 85.5 (3.8) | 1.6 | 15.4 | 2.3 | 3.3 | 1.1 | 0.1 | 2.1 |
-| 2026-27 proj, Yahoo | 68 | - | 48.2 (12.5) | 85.7 (4.3) | 1.9 | 17.6 | 2.8 | 4.0 | 1.1 | 0.2 | 2.5 |
 | 2026-27 proj, ESPN | 70 | 25.8 | 48.5 (12.5) | 86.1 (4.1) | 1.7 | 17.3 | 2.5 | 4.1 | 0.9 | 0.2 | 2.2 |
+| 2026-27 proj, Yahoo | 68 | - | 48.2 (12.5) | 85.7 (4.3) | 1.9 | 17.6 | 2.8 | 4.0 | 1.1 | 0.2 | 2.5 |
+| 2025-26 | 68 | 23.7 | 48.5 (10.9) | 85.5 (3.8) | 1.6 | 15.4 | 2.3 | 3.3 | 1.1 | 0.1 | 2.1 |
+| 2024-25 | 63 | 28.0 | 48.0 (13.8) | 86.5 (4.0) | 1.7 | 18.4 | 2.7 | 4.2 | 0.7 | 0.1 | 2.5 |
+| 2023-24 | 78 | 26.6 | 48.7 (13.3) | 85.9 (4.7) | 1.6 | 18.7 | 2.6 | 4.9 | 0.8 | 0.2 | 2.1 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -35,8 +35,8 @@
 - The Lakers have two open starting spots, mainly contested by Grimes, LaRavia and Mamukelashvili. Sexton is not named among the main candidates. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669))
 
 **Durable**
-- He is an undersized guard and not a good passer. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=2108))
 - Experts call him a poor defender. (verdict, 2026-08-04; [07-02](https://youtu.be/P6TNP-g0wzY?t=2108), [08-04](https://youtu.be/_WjOjp6Qu8E?t=2042))
+- He is an undersized guard and not a good passer. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=2108))
 
 **Tags**
 - Current: `minutes competition` (Not expected to start. Grimes is among the guards and wings in the race for the two open Lakers starting spots.)

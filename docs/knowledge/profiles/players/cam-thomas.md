@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 66 | 31.4 | 44.2 (18.0) | 85.6 (5.1) | 2.2 | 22.5 | 3.2 | 2.9 | 0.7 | 0.2 | 1.9 |
-| 2024-25 | 25 | 31.3 | 43.8 (18.2) | 88.1 (6.0) | 2.7 | 24.0 | 3.4 | 3.8 | 0.6 | 0.1 | 2.5 |
-| 2025-26 | 42 | 21.0 | 41.0 (11.0) | 81.1 (4.0) | 1.2 | 13.5 | 1.7 | 2.6 | 0.2 | 0.1 | 1.8 |
 | 2026-27 proj, Yahoo | 25 | - | 47.2 (7.1) | 72.9 (2.4) | 0.9 | 9.3 | 1.2 | 0.8 | 0.4 | 0.4 | 0.9 |
+| 2025-26 | 42 | 21.0 | 41.0 (11.0) | 81.1 (4.0) | 1.2 | 13.5 | 1.7 | 2.6 | 0.2 | 0.1 | 1.8 |
+| 2024-25 | 25 | 31.3 | 43.8 (18.2) | 88.1 (6.0) | 2.7 | 24.0 | 3.4 | 3.8 | 0.6 | 0.1 | 2.5 |
+| 2023-24 | 66 | 31.4 | 44.2 (18.0) | 85.6 (5.1) | 2.2 | 22.5 | 3.2 | 2.9 | 0.7 | 0.2 | 1.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -34,8 +34,8 @@
 - Experts expect Milwaukee to be a bad team. The team does not own its pick, so it has no reason to tank. (verdict, 2026-08-14; [08-10](https://youtu.be/sfCe7fS9daM?t=1690), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609), [08-14](https://youtu.be/owlM6b8oUd0?t=2216))
 
 **Durable**
-- An expert uses him as an example of a player whose fantasy value is inflated by narrative and hype. (verdict, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=430))
 - His projected rebounds and steals are far below the top 250 pool. (fact, 2026-10-04; stats)
+- An expert uses him as an example of a player whose fantasy value is inflated by narrative and hype. (verdict, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=430))
 
 **Tags**
 - Current: `minutes competition` (Crowded Milwaukee backcourt: Rollins, Herro, Porter Jr., Jakucionis, Burries, Trent, Green), `bust candidate` (Named by an expert as an example of value inflated by narrative)

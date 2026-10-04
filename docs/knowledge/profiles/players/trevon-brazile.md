@@ -8,14 +8,14 @@ No NBA stats and no projections in our data.
 | 2026-27 | 0 | - | 664 | - | - | - | not drafted |
 
 **Current**
-- He is a rookie. The Nuggets picked him 35th in the 2026 draft. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1018))
 - Yahoo lists him as questionable with an undisclosed issue. (fact, 2026-10-04; stats)
-- In summer league he averaged 18 points, 8 rebounds, 1.3 blocks and 3 threes on 47% shooting. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=2161))
-- His summer league shooting is unlikely to stick. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=2161))
 - Peyton Watson has left Denver, and the depth behind Aaron Gordon at power forward is very thin. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=170), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=792))
 - He is not in the projected rotation. Spencer Jones and Marvin Bagley are on the projected bench, and Alpha Diallo, Bryce Hopkins and Zeke Nnaji are also part of the forward depth behind Gordon. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307), [07-31](https://youtu.be/keNupMSHp1Y?t=1260))
 - With Watson gone, he could slide in as a backup behind Aaron Gordon. (verdict, 2026-09-29; [07-21](https://youtu.be/RyzcCGChYgs?t=2161), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=170))
 - Experts see him as a dynasty or keeper stash, not a redraft pick. His dynasty rookie rank went up from 39 to 35. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1603), [08-02](https://youtu.be/TOn-D1SV7a8?t=235))
+- In summer league he averaged 18 points, 8 rebounds, 1.3 blocks and 3 threes on 47% shooting. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=2161))
+- His summer league shooting is unlikely to stick. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=2161))
+- He is a rookie. The Nuggets picked him 35th in the 2026 draft. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1018))
 
 **Durable**
 - He is a hyper-athletic defender and a hustle player whose stats come from blocks, steals and rebounds. His rebounding profile is very good. (verdict, 2026-09-29; [06-26](https://youtu.be/CLsUc0Sevos?t=1018), [08-02](https://youtu.be/TOn-D1SV7a8?t=235), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1603))

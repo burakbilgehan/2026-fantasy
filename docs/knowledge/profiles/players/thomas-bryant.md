@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 38 | 11.7 | 57.7 (3.9) | 87.2 (1.2) | 0.1 | 5.7 | 3.7 | 0.6 | 0.3 | 0.4 | 0.6 |
-| 2024-25 | 66 | 14.6 | 50.8 (4.9) | 85.9 (1.0) | 0.7 | 6.5 | 3.8 | 0.8 | 0.4 | 0.6 | 0.5 |
-| 2025-26 | 60 | 12.2 | 50.6 (4.5) | 80.3 (1.1) | 0.8 | 6.2 | 3.4 | 0.6 | 0.3 | 0.4 | 0.5 |
-| 2026-27 proj, Yahoo | 58 | - | 42.6 (4.6) | 87.1 (1.1) | 0.7 | 5.5 | 3.6 | 0.8 | 0.5 | 0.1 | 0.6 |
 | 2026-27 proj, ESPN | 68 | 12.6 | 50.7 (4.5) | 81.3 (1.1) | 0.7 | 6.2 | 3.5 | 0.6 | 0.3 | 0.5 | 0.5 |
+| 2026-27 proj, Yahoo | 58 | - | 42.6 (4.6) | 87.1 (1.1) | 0.7 | 5.5 | 3.6 | 0.8 | 0.5 | 0.1 | 0.6 |
+| 2025-26 | 60 | 12.2 | 50.6 (4.5) | 80.3 (1.1) | 0.8 | 6.2 | 3.4 | 0.6 | 0.3 | 0.4 | 0.5 |
+| 2024-25 | 66 | 14.6 | 50.8 (4.9) | 85.9 (1.0) | 0.7 | 6.5 | 3.8 | 0.8 | 0.4 | 0.6 | 0.5 |
+| 2023-24 | 38 | 11.7 | 57.7 (3.9) | 87.2 (1.2) | 0.1 | 5.7 | 3.7 | 0.6 | 0.3 | 0.4 | 0.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -31,14 +31,14 @@
 
 **Current**
 - Bryant is Cleveland's only backup big behind Evan Mobley and Jarrett Allen. Behind him on the depth chart are only Ernest Udeh Jr. and Khalifa Diop. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1500), [08-24](https://youtu.be/rnq3118kfhY?t=1342), [07-01](https://youtu.be/W3THnI7wWdA?t=1078), [09-29](https://youtu.be/NmdNvAz08oE?t=1534), [08-24](https://youtu.be/rnq3118kfhY?t=1222))
-- Cleveland lost Dean Wade, so the team no longer has a small-ball five option behind its two starting bigs. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1222), [08-24](https://youtu.be/rnq3118kfhY?t=329))
 - He is projected as the 10th man in the rotation. Center depth is so poor that he should play most nights. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1500), [09-29](https://youtu.be/NmdNvAz08oE?t=1774))
 - He is a stash in deep leagues only. If both Allen and Mobley were out, he could be a top 50 to 60 player. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1774))
 - With a March 28 end, Cleveland plays 4, 3 and then 2 games in the fantasy playoff weeks, so the finals week has only two games. Cleveland also has the most back-to-backs in the league. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [09-29](https://youtu.be/NmdNvAz08oE?t=1907), [08-16](https://youtu.be/gf_6GveiAls?t=930), [08-16](https://youtu.be/gf_6GveiAls?t=1536))
+- Cleveland lost Dean Wade, so the team no longer has a small-ball five option behind its two starting bigs. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1222), [08-24](https://youtu.be/rnq3118kfhY?t=329))
 
 **Durable**
-- Experts call him a bad player in real life. He is inconsistent, his shooting is bad and his defense is weak at times. He still puts up fantasy value when he gets minutes. (verdict, 2026-09-29; [08-24](https://youtu.be/rnq3118kfhY?t=1342), [07-01](https://youtu.be/W3THnI7wWdA?t=1078), [09-29](https://youtu.be/NmdNvAz08oE?t=1500), [09-29](https://youtu.be/NmdNvAz08oE?t=1774))
 - His steals are very low, even for his small role. (fact, 2026-10-04; stats)
+- Experts call him a bad player in real life. He is inconsistent, his shooting is bad and his defense is weak at times. He still puts up fantasy value when he gets minutes. (verdict, 2026-09-29; [08-24](https://youtu.be/rnq3118kfhY?t=1342), [07-01](https://youtu.be/W3THnI7wWdA?t=1078), [09-29](https://youtu.be/NmdNvAz08oE?t=1500), [09-29](https://youtu.be/NmdNvAz08oE?t=1774))
 
 **Tags**
 - Current: `handcuff` (Only backup big behind Allen and Mobley. Could be a top 50 to 60 player if both are out.), `waiver watch` (Pick up if Allen or Mobley misses time.), `bad playoff schedule` (4, 3 and 2 games in weeks 19 to 21. Two-game finals week.)

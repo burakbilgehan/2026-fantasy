@@ -3,9 +3,9 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 57 | 20.9 | 40.5 (7.7) | 77.1 (1.9) | 1.2 | 8.9 | 4.9 | 2.2 | 0.5 | 0.6 | 1.3 |
-| 2026-27 proj, Yahoo | 70 | - | 43.0 (6.2) | 75.0 (1.5) | 1.1 | 7.6 | 4.0 | 1.6 | 0.6 | 0.3 | 1.2 |
 | 2026-27 proj, ESPN | 71 | 24.1 | 40.5 (8.9) | 76.9 (2.2) | 1.4 | 10.3 | 5.7 | 2.6 | 0.6 | 0.6 | 1.5 |
+| 2026-27 proj, Yahoo | 70 | - | 43.0 (6.2) | 75.0 (1.5) | 1.1 | 7.6 | 4.0 | 1.6 | 0.6 | 0.3 | 1.2 |
+| 2025-26 | 57 | 20.9 | 40.5 (7.7) | 77.1 (1.9) | 1.2 | 8.9 | 4.9 | 2.2 | 0.5 | 0.6 | 1.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,11 +29,11 @@
 
 **Current**
 - Brooklyn's projected starters are Mikel Brown Jr., Egor Demin, Michael Porter Jr., Julius Randle and Day'Ron Sharpe. Wolf is projected in the bench rotation with Keon Ellis, Noah Clowney, Mo Wagner and Nolan Traore. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=313), [09-26](https://youtu.be/3UGI05PDvrE?t=1156), [08-21](https://youtu.be/uRsfijpBPok?t=488))
-- The Randle trade kills his value at power forward. (verdict, 2026-06-23; [06-23](https://youtu.be/9tb1ARBEmQU?t=612))
 - Brooklyn's center minutes will probably be a messy three-way split between Sharpe, Wagner and Wolf. One expert said he could end up as the starting center instead of Sharpe, but newer previews project Sharpe to start. (verdict, 2026-09-26; [07-02](https://youtu.be/P6TNP-g0wzY?t=1914), [06-30](https://youtu.be/4GDfg2n2l8o?t=726), [09-26](https://youtu.be/3UGI05PDvrE?t=313), [09-01](https://youtu.be/skKXe2CRl8Q?t=1001))
-- The expert sees no clear breakout for him this season. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2106))
 - Brooklyn does not own its pick and has little to play for. Second-half and March minutes are uncertain, and the team may hand minutes to young players such as Clowney and Minott. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1642))
 - Brooklyn plays 3-4-3 games in our playoff weeks with one playoff back-to-back. The team has 16 back-to-backs this season, tied for the most in the league. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
+- The expert sees no clear breakout for him this season. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2106))
+- The Randle trade kills his value at power forward. (verdict, 2026-06-23; [06-23](https://youtu.be/9tb1ARBEmQU?t=612))
 
 **Durable**
 - He can play center and can also handle the ball. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1175))

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 76 | 30.5 | 49.8 (7.7) | 86.7 (2.1) | 1.5 | 11.0 | 3.6 | 2.6 | 1.4 | 0.8 | 1.2 |
-| 2024-25 | 20 | 32.5 | 43.6 (8.6) | 82.5 (2.0) | 1.1 | 10.2 | 3.9 | 3.2 | 1.9 | 0.5 | 1.8 |
-| 2025-26 | 56 | 28.4 | 38.3 (8.5) | 80.6 (1.1) | 1.4 | 8.9 | 3.4 | 2.8 | 1.6 | 0.5 | 1.3 |
-| 2026-27 proj, Yahoo | 65 | - | 41.9 (8.3) | 83.5 (1.5) | 1.4 | 9.6 | 3.5 | 2.8 | 1.6 | 0.6 | 1.3 |
 | 2026-27 proj, ESPN | 63 | 27.1 | 39.5 (8.0) | 81.6 (1.2) | 1.3 | 8.6 | 3.2 | 2.6 | 1.5 | 0.5 | 1.2 |
+| 2026-27 proj, Yahoo | 65 | - | 41.9 (8.3) | 83.5 (1.5) | 1.4 | 9.6 | 3.5 | 2.8 | 1.6 | 0.6 | 1.3 |
+| 2025-26 | 56 | 28.4 | 38.3 (8.5) | 80.6 (1.1) | 1.4 | 8.9 | 3.4 | 2.8 | 1.6 | 0.5 | 1.3 |
+| 2024-25 | 20 | 32.5 | 43.6 (8.6) | 82.5 (2.0) | 1.1 | 10.2 | 3.9 | 3.2 | 1.9 | 0.5 | 1.8 |
+| 2023-24 | 76 | 30.5 | 49.8 (7.7) | 86.7 (2.1) | 1.5 | 11.0 | 3.6 | 2.6 | 1.4 | 0.8 | 1.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -35,9 +35,9 @@
 - The experts are lukewarm and do not agree on his draft value. One puts him in the right area for later-round steals but is not a big fan. Another doubts he is worth drafting in standard category leagues. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1906), [08-30](https://youtu.be/Alwse2uXzD4?t=1573))
 
 **Durable**
+- FG% is his weakest category. It is weak for his position. (fact, 2026-10-04; stats)
 - His fantasy value comes mainly from steals. He adds some blocks and the occasional three, but he rarely shoots and scores little. (fact, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1573), [08-24](https://youtu.be/g31YlwRe0XQ?t=2588), stats)
 - He is worth more in category leagues than in points leagues. (verdict, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1573), [08-24](https://youtu.be/g31YlwRe0XQ?t=2588))
-- FG% is his weakest category. It is weak for his position. (fact, 2026-10-04; stats)
 - He is not a true floor spacer, even though he once shot about 42% from three. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=513))
 
 **Tags**

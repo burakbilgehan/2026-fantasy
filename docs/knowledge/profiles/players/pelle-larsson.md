@@ -3,9 +3,9 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 55 | 14.2 | 43.8 (3.7) | 67.2 (1.1) | 0.6 | 4.6 | 1.7 | 1.2 | 0.6 | 0.1 | 0.4 |
-| 2025-26 | 70 | 26.5 | 49.6 (8.0) | 79.7 (3.3) | 0.9 | 11.4 | 3.5 | 3.4 | 0.7 | 0.2 | 1.4 |
 | 2026-27 proj, Yahoo | 70 | - | 49.1 (8.2) | 78.9 (3.3) | 1.0 | 11.6 | 3.5 | 3.3 | 0.8 | 0.3 | 1.4 |
+| 2025-26 | 70 | 26.5 | 49.6 (8.0) | 79.7 (3.3) | 0.9 | 11.4 | 3.5 | 3.4 | 0.7 | 0.2 | 1.4 |
+| 2024-25 | 55 | 14.2 | 43.8 (3.7) | 67.2 (1.1) | 0.6 | 4.6 | 1.7 | 1.2 | 0.6 | 0.1 | 0.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,18 +30,18 @@
 **Current**
 - Josh would start Larsson, and he may get the starting point guard job. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2144))
 - Draft him if he wins a starting job. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2144))
-- Davion Mitchell is Miami's current starting point guard. Josh does not think Mitchell is particularly strong. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=318))
 - Miami signed Klay Thompson and traded away Jaime Jaquez Jr. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1931))
 - The Klay Thompson signing lowers his minutes upside. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1967))
+- Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs, but only 10 games in the playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153))
+- Davion Mitchell is Miami's current starting point guard. Josh does not think Mitchell is particularly strong. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=318))
 - Miami traded for Giannis Antetokounmpo and lost a lot of depth and ball handlers in the process. (fact, 2026-07-23; [06-23](https://youtu.be/nnWX_ObljOE?t=780), [07-17](https://youtu.be/NYTH7uQsPCM?t=1757), [07-23](https://youtu.be/LUTYUdXBG1M?t=1264), [09-14](https://youtu.be/LM0cRCGoAUQ?t=813))
 - He should have a big role because Miami's bench is so thin. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1761), [06-23](https://youtu.be/nnWX_ObljOE?t=897))
 - His high assist conversion could fall to about 50% and make his line look worse. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1761))
-- Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs, but only 10 games in the playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153))
 
 **Durable**
+- His category profile is balanced. No category is a strong or weak outlier. (fact, 2026-10-04; stats)
 - He shoots well from the field, about 50% last season, which is above average for his position. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1902), stats)
 - He gets few steals, and his free throw percentage is not a strength. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1902), stats)
-- His category profile is balanced. No category is a strong or weak outlier. (fact, 2026-10-04; stats)
 
 **Tags**
 - Current: `role up` (Thin Miami bench after the Giannis trade means a big role is expected), `minutes competition` (Klay Thompson signing; Davion Mitchell holds the starting point guard job), `sleeper` (Yahoo rank 147 with 0 USD value; Josh would start him and draft him if he starts), `few back-to-backs` (Miami has the league's fewest back-to-backs (13)), `bad playoff schedule` (Only 10 Miami games in weeks 19 to 21, though no back-to-backs)

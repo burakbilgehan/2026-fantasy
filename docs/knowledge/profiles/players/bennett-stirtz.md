@@ -26,11 +26,11 @@
 </details>
 
 **Current**
+- OKC is expected to give more minutes to Ajay Mitchell and Jared McCain. That adds to the guard competition ahead of him. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=202))
+- Josh did not like the draft pick and still does not after Summer League. He dropped Stirtz from tier five to tier six in his dynasty rookie rankings. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=456))
 - Bennett Stirtz is a first-round rookie point guard for OKC. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1197))
 - He is not in the OKC rotation. The guard minutes go to SGA, Ajay Mitchell, Cason Wallace and Topic. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1045), [07-21](https://youtu.be/RyzcCGChYgs?t=1024))
-- OKC is expected to give more minutes to Ajay Mitchell and Jared McCain. That adds to the guard competition ahead of him. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=202))
 - His Summer League play was fine but not great. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1045))
-- Josh did not like the draft pick and still does not after Summer League. He dropped Stirtz from tier five to tier six in his dynasty rookie rankings. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=456))
 
 **Durable**
 - He projects as a very good three-point shooter off the ball. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1197))

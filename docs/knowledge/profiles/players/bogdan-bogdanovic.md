@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 79 | 30.4 | 42.8 (13.9) | 92.1 (2.1) | 3.0 | 16.9 | 3.4 | 3.1 | 1.2 | 0.3 | 1.4 |
-| 2024-25 | 54 | 24.9 | 42.7 (9.1) | 87.9 (1.2) | 1.9 | 10.8 | 2.9 | 2.7 | 0.8 | 0.2 | 1.4 |
-| 2025-26 | 23 | 19.7 | 38.8 (6.6) | 80.0 (1.1) | 1.4 | 7.4 | 2.6 | 2.2 | 0.4 | 0.1 | 1.2 |
-| 2026-27 proj, Yahoo | 66 | - | 47.8 (6.3) | 88.5 (0.9) | 1.5 | 8.4 | 1.9 | 1.5 | 0.5 | 0.1 | 0.4 |
 | 2026-27 proj, ESPN | 65 | 17.6 | 42.3 (7.3) | 88.9 (1.1) | 1.6 | 8.8 | 2.1 | 1.9 | 0.6 | 0.2 | 0.9 |
+| 2026-27 proj, Yahoo | 66 | - | 47.8 (6.3) | 88.5 (0.9) | 1.5 | 8.4 | 1.9 | 1.5 | 0.5 | 0.1 | 0.4 |
+| 2025-26 | 23 | 19.7 | 38.8 (6.6) | 80.0 (1.1) | 1.4 | 7.4 | 2.6 | 2.2 | 0.4 | 0.1 | 1.2 |
+| 2024-25 | 54 | 24.9 | 42.7 (9.1) | 87.9 (1.2) | 1.9 | 10.8 | 2.9 | 2.7 | 0.8 | 0.2 | 1.4 |
+| 2023-24 | 79 | 30.4 | 42.8 (13.9) | 92.1 (2.1) | 3.0 | 16.9 | 3.4 | 3.1 | 1.2 | 0.3 | 1.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,12 +30,12 @@
 </details>
 
 **Current**
-- He signed with Houston this offseason on a minimum contract. (fact, 2026-08-12; [07-02](https://youtu.be/P6TNP-g0wzY?t=1459), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=213))
 - He will probably get the last spot in the Rockets rotation. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1612))
-- Experts say he could be washed. One expert still sees him as an upgrade over Aaron Holiday. (verdict, 2026-08-12; [07-02](https://youtu.be/P6TNP-g0wzY?t=1459), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=213))
-- Houston's guard rotation is crowded. Fred VanVleet is back and Marcus Smart was added. Reed Sheppard is also there, and Bogdanović comes off the bench in a 10-man rotation. (fact, 2026-09-15; [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [07-14](https://youtu.be/xHRF06_E9HE?t=1091), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090))
 - The projected starters are VanVleet, Thompson, Durant, Smith and Sengun. Coach Ime Udoka plays his starters very heavy minutes, so little bench time is left for the last rotation player. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=146), [10-01](https://youtu.be/aLP080hxizA?t=328), [09-09](https://youtu.be/7BllEsdNLoM?t=2451))
 - With our March 28 end date, the Rockets play 3, 3 and 4 games in the fantasy playoff weeks. That is 10 games, a weak schedule. They have only 14 back-to-backs this season. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970), [10-01](https://youtu.be/aLP080hxizA?t=2011))
+- Houston's guard rotation is crowded. Fred VanVleet is back and Marcus Smart was added. Reed Sheppard is also there, and Bogdanović comes off the bench in a 10-man rotation. (fact, 2026-09-15; [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [07-14](https://youtu.be/xHRF06_E9HE?t=1091), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090))
+- He signed with Houston this offseason on a minimum contract. (fact, 2026-08-12; [07-02](https://youtu.be/P6TNP-g0wzY?t=1459), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=213))
+- Experts say he could be washed. One expert still sees him as an upgrade over Aaron Holiday. (verdict, 2026-08-12; [07-02](https://youtu.be/P6TNP-g0wzY?t=1459), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=213))
 
 **Durable**
 - none

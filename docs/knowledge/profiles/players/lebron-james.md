@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 71 | 35.3 | 54.0 (17.9) | 75.0 (5.7) | 2.1 | 25.7 | 7.3 | 8.3 | 1.3 | 0.5 | 3.5 |
-| 2024-25 | 70 | 35.0 | 51.3 (18.1) | 78.2 (4.7) | 2.1 | 24.4 | 7.8 | 8.2 | 1.0 | 0.6 | 3.7 |
-| 2025-26 | 60 | 33.1 | 51.5 (15.3) | 73.7 (5.3) | 1.3 | 20.9 | 6.1 | 7.2 | 1.2 | 0.6 | 3.0 |
-| 2026-27 proj, Yahoo | 66 | - | 51.6 (14.2) | 76.0 (4.3) | 1.4 | 19.3 | 5.8 | 6.5 | 1.0 | 0.5 | 2.8 |
 | 2026-27 proj, ESPN | 64 | 30.7 | 52.2 (15.2) | 75.4 (4.7) | 1.6 | 21.0 | 6.3 | 7.0 | 1.0 | 0.5 | 3.0 |
+| 2026-27 proj, Yahoo | 66 | - | 51.6 (14.2) | 76.0 (4.3) | 1.4 | 19.3 | 5.8 | 6.5 | 1.0 | 0.5 | 2.8 |
+| 2025-26 | 60 | 33.1 | 51.5 (15.3) | 73.7 (5.3) | 1.3 | 20.9 | 6.1 | 7.2 | 1.2 | 0.6 | 3.0 |
+| 2024-25 | 70 | 35.0 | 51.3 (18.1) | 78.2 (4.7) | 2.1 | 24.4 | 7.8 | 8.2 | 1.0 | 0.6 | 3.7 |
+| 2023-24 | 71 | 35.3 | 54.0 (17.9) | 75.0 (5.7) | 2.1 | 25.7 | 7.3 | 8.3 | 1.3 | 0.5 | 3.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,25 +30,25 @@
 </details>
 
 **Current**
+- Experts see him as fair or a bit expensive at an ADP in the 40s, and as good value from round 5 on. ESPN rank 73 is fine value. (verdict, 2026-09-24; [09-10](https://youtu.be/dlo7L8Ru91A?t=1220), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1630), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1037), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2483), [09-24](https://youtu.be/_vbAP5y182A?t=1116))
+- Taking him at an ESPN ADP of 16 is far too high. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1893))
+- He is expected to sit some games and have lower usage. The projection is about 65 games, and the team expects load management for its stars. (verdict, 2026-09-17; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1630), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1654), [08-06](https://youtu.be/gTsfR5PxAMY?t=504), [08-06](https://youtu.be/gTsfR5PxAMY?t=1819))
+- He should still be about a top 30 player per game. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2483))
+- Maxey, Embiid, Brown and LeBron will cut into each other's usage in Philadelphia. (verdict, 2026-09-14; [08-26](https://youtu.be/sTtFUy7IoJI?t=1944), [08-09](https://youtu.be/8d--aL_xxwE?t=552), [09-14](https://youtu.be/LM0cRCGoAUQ?t=986), [09-09](https://youtu.be/7BllEsdNLoM?t=907))
+- He turns 42 this season. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1630))
+- Philadelphia has 13 back-to-backs this season, and three of them fall in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148), [08-16](https://youtu.be/gf_6GveiAls?t=1136))
+- The low back-to-back total helps a little with his rest risk. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1136))
 - He left the Lakers and signed with Philadelphia. (fact, 2026-08-06; [07-01](https://youtu.be/W3THnI7wWdA?t=104), [08-06](https://youtu.be/gTsfR5PxAMY?t=141))
 - He is in Philadelphia's projected starting five with Maxey, Edgecombe, Jaylen Brown and Embiid. Nick Nurse calls him an offense creator, and reports say he will play point guard. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=412), [08-06](https://youtu.be/gTsfR5PxAMY?t=212))
 - Josh expects a small rise in his on-ball role, with maybe 8 assists a game, but no big change in how he plays. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1764))
-- Maxey, Embiid, Brown and LeBron will cut into each other's usage in Philadelphia. (verdict, 2026-09-14; [08-26](https://youtu.be/sTtFUy7IoJI?t=1944), [08-09](https://youtu.be/8d--aL_xxwE?t=552), [09-14](https://youtu.be/LM0cRCGoAUQ?t=986), [09-09](https://youtu.be/7BllEsdNLoM?t=907))
-- He turns 42 this season. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1630))
-- He is expected to sit some games and have lower usage. The projection is about 65 games, and the team expects load management for its stars. (verdict, 2026-09-17; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1630), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1654), [08-06](https://youtu.be/gTsfR5PxAMY?t=504), [08-06](https://youtu.be/gTsfR5PxAMY?t=1819))
 - He has always wanted big minutes, and Nick Nurse may let him play them. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=572))
-- Philadelphia has 13 back-to-backs this season, and three of them fall in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148), [08-16](https://youtu.be/gf_6GveiAls?t=1136))
-- The low back-to-back total helps a little with his rest risk. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1136))
 - He finished 34th in 9-cat last season on about 33 minutes a game. (fact, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=1162))
-- He should still be about a top 30 player per game. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2483))
-- Experts see him as fair or a bit expensive at an ADP in the 40s, and as good value from round 5 on. ESPN rank 73 is fine value. (verdict, 2026-09-24; [09-10](https://youtu.be/dlo7L8Ru91A?t=1220), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1630), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1037), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2483), [09-24](https://youtu.be/_vbAP5y182A?t=1116))
-- Taking him at an ESPN ADP of 16 is far too high. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1893))
 
 **Durable**
-- His numbers stay about the same each season. His scoring slowly drops, but he keeps the ball in his hands at a similar rate. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1537))
-- He had sciatica last season. (fact, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1220))
 - His assists are far above other forwards, at about 6.8 a game projected. (fact, 2026-10-04; stats)
 - Turnovers are his clear weak category, at about 2.9 a game. That is a league outlier. (fact, 2026-10-04; stats)
+- He had sciatica last season. (fact, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1220))
+- His numbers stay about the same each season. His scoring slowly drops, but he keeps the ball in his hands at a similar rate. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1537))
 
 **Tags**
 - Current: `new team` (Left the Lakers for Philadelphia), `few back-to-backs` (Philadelphia has 13 back-to-backs), `bad playoff schedule` (Three back-to-backs in the fantasy playoffs), `sites disagree on price` (Yahoo value 25 USD and rank 40; ESPN value 5 USD and rank 73)

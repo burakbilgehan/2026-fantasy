@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 73 | 32.6 | 46.1 (11.5) | 90.1 (2.1) | 2.7 | 15.2 | 4.2 | 5.2 | 1.0 | 1.2 | 1.5 |
-| 2024-25 | 76 | 33.8 | 44.2 (12.6) | 83.9 (2.1) | 3.5 | 16.4 | 4.5 | 4.8 | 0.9 | 1.1 | 1.7 |
-| 2025-26 | 77 | 34.1 | 39.4 (14.4) | 90.2 (2.6) | 2.7 | 16.5 | 4.4 | 5.4 | 1.1 | 1.3 | 1.7 |
-| 2026-27 proj, Yahoo | 73 | - | 42.3 (13.8) | 88.4 (2.4) | 2.9 | 16.7 | 4.4 | 5.2 | 1.0 | 1.2 | 1.7 |
 | 2026-27 proj, ESPN | 77 | 34.3 | 40.1 (14.2) | 89.5 (2.6) | 2.9 | 16.6 | 4.5 | 5.3 | 1.1 | 1.2 | 1.8 |
+| 2026-27 proj, Yahoo | 73 | - | 42.3 (13.8) | 88.4 (2.4) | 2.9 | 16.7 | 4.4 | 5.2 | 1.0 | 1.2 | 1.7 |
+| 2025-26 | 77 | 34.1 | 39.4 (14.4) | 90.2 (2.6) | 2.7 | 16.5 | 4.4 | 5.4 | 1.1 | 1.3 | 1.7 |
+| 2024-25 | 76 | 33.8 | 44.2 (12.6) | 83.9 (2.1) | 3.5 | 16.4 | 4.5 | 4.8 | 0.9 | 1.1 | 1.7 |
+| 2023-24 | 73 | 32.6 | 46.1 (11.5) | 90.1 (2.1) | 2.7 | 15.2 | 4.2 | 5.2 | 1.0 | 1.2 | 1.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,18 +30,18 @@
 </details>
 
 **Current**
+- Experts value him at about 40 to 50 in category leagues, a round 4 player. Mock draft picks around 31 and ADPs around 34 to 39 are too early. His ESPN rank in the top 20 makes no sense. He is more likely to fall short of those prices than to reach them. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=583), [09-25](https://youtu.be/Bi1cEM03k9Y?t=657), [09-22](https://youtu.be/QbdrhJd7LiA?t=560), [09-22](https://youtu.be/QbdrhJd7LiA?t=1548), [09-19](https://youtu.be/uarqbNA2dFk?t=1472), [09-09](https://youtu.be/7BllEsdNLoM?t=1713), [08-11](https://youtu.be/OdDkXFhoKsc?t=749))
+- Boston has 16 back-to-backs, tied for the most in the league. The experts say this mainly affects Paul George and Mitchell Robinson. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1837), [08-16](https://youtu.be/gf_6GveiAls?t=901))
 - Jaylen Brown is gone from Boston. Jayson Tatum and Paul George now play alongside White, and George is the clear number two option behind Tatum. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=643), [09-22](https://youtu.be/QbdrhJd7LiA?t=560), [08-30](https://youtu.be/Alwse2uXzD4?t=1671), [08-19](https://youtu.be/J1Eg3uaAICU?t=1755))
 - He is a projected starter at guard in both Boston lineup previews. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [07-30](https://youtu.be/TiiaNZCJNs8?t=472))
 - Experts expect his usage and time on the ball to drop now that he is the third option. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=643), [09-22](https://youtu.be/QbdrhJd7LiA?t=560), [09-22](https://youtu.be/QbdrhJd7LiA?t=1548), [09-09](https://youtu.be/7BllEsdNLoM?t=1713))
 - He finished 39th in category leagues last season. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=593))
 - Experts expect his shooting efficiency to improve, with more catch-and-shoot looks next to Tatum and George, who share the ball more than Brown did. Lower usage is expected to offset most of that gain. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=625), [07-30](https://youtu.be/TiiaNZCJNs8?t=1615), [07-07](https://youtu.be/ME-r173X5b0?t=2139), [09-19](https://youtu.be/uarqbNA2dFk?t=1472), [09-22](https://youtu.be/QbdrhJd7LiA?t=1548), [09-09](https://youtu.be/7BllEsdNLoM?t=1713), [07-16](https://youtu.be/-y6p5PYLf00?t=1544))
-- Experts value him at about 40 to 50 in category leagues, a round 4 player. Mock draft picks around 31 and ADPs around 34 to 39 are too early. His ESPN rank in the top 20 makes no sense. He is more likely to fall short of those prices than to reach them. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=583), [09-25](https://youtu.be/Bi1cEM03k9Y?t=657), [09-22](https://youtu.be/QbdrhJd7LiA?t=560), [09-22](https://youtu.be/QbdrhJd7LiA?t=1548), [09-19](https://youtu.be/uarqbNA2dFk?t=1472), [09-09](https://youtu.be/7BllEsdNLoM?t=1713), [08-11](https://youtu.be/OdDkXFhoKsc?t=749))
-- Boston has 16 back-to-backs, tied for the most in the league. The experts say this mainly affects Paul George and Mitchell Robinson. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1837), [08-16](https://youtu.be/gf_6GveiAls?t=901))
 - Boston plays 4-3-4 games in our playoff weeks 19 to 21, one game short of the maximum, with three back-to-backs in that window. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1816), [08-16](https://youtu.be/gf_6GveiAls?t=901))
 
 **Durable**
-- He gets blocks at a rate far above other guards, and the experts also count steals as a strength. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=625), stats)
 - FG% is his clear weak category. He takes real volume at a low percentage, so he drags a team's FG% down. (fact, 2026-10-04; stats)
+- He gets blocks at a rate far above other guards, and the experts also count steals as a strength. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=625), stats)
 - He is worth much more in category leagues than in points leagues. (verdict, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=880), [09-25](https://youtu.be/Bi1cEM03k9Y?t=593))
 
 **Tags**

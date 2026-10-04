@@ -11,27 +11,27 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Adem Bona, PF Dean Wade, PG Anfernee Simons, PG Caleb Love, SF Justin Edwards, SG Kentavious Caldwell-Pope
 
 **Current**
-- Projected starting five: Tyrese Maxey, VJ Edgecombe, Jaylen Brown, LeBron James and Joel Embiid. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=412), stats)
-- The roster turned over a lot. New players are Jaylen Brown, LeBron James, Dean Wade, Kentavious Caldwell-Pope, Ariel Hukporti and Anfernee Simons. Paul George, Kelly Oubre, Quentin Grimes and Andre Drummond are gone. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=141), stats)
-- Maxey, Embiid, LeBron and Brown will cut into each other's usage. There are not enough shots for all four. (verdict, 2026-09-14; [08-26](https://youtu.be/sTtFUy7IoJI?t=1944), [08-09](https://youtu.be/8d--aL_xxwE?t=552), [09-14](https://youtu.be/LM0cRCGoAUQ?t=986), [09-09](https://youtu.be/7BllEsdNLoM?t=907), [07-13](https://youtu.be/Rqb5GdrSweY?t=873))
-- Jaylen Brown and Tyrese Maxey cannot both stay top five scorers on the same team. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=353))
-- Embiid starts the season healthy. (fact, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=907), [09-04](https://youtu.be/gerS7ibpaJo?t=963))
 - Embiid is still expected to miss games, and LeBron is expected to sit games. The stars should get load management. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1654), [08-06](https://youtu.be/gTsfR5PxAMY?t=1819))
 - Jaylen Brown's usage will move with Embiid's and LeBron's health. He may get more minutes when they sit. (verdict, 2026-09-17; [09-10](https://youtu.be/W-R1dzem32s?t=779), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1654))
+- Embiid and LeBron are both rest risks, so the playoff back-to-backs may cost games from them even though total playoff volume is high. (verdict, 2026-09-17; [08-16](https://youtu.be/gf_6GveiAls?t=1148), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1654), [08-06](https://youtu.be/gTsfR5PxAMY?t=1819), stats)
 - New guards, Anfernee Simons among them, should cut Maxey's minutes. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=760))
+- Maxey, Embiid, LeBron and Brown will cut into each other's usage. There are not enough shots for all four. (verdict, 2026-09-14; [08-26](https://youtu.be/sTtFUy7IoJI?t=1944), [08-09](https://youtu.be/8d--aL_xxwE?t=552), [09-14](https://youtu.be/LM0cRCGoAUQ?t=986), [09-09](https://youtu.be/7BllEsdNLoM?t=907), [07-13](https://youtu.be/Rqb5GdrSweY?t=873))
+- Embiid starts the season healthy. (fact, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=907), [09-04](https://youtu.be/gerS7ibpaJo?t=963))
 - The new stars cut into VJ Edgecombe's role and usage. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=963), [07-13](https://youtu.be/Rqb5GdrSweY?t=873))
-- The guard rotation is crowded. Maxey and Edgecombe are ahead of rookie Labaron Philon, which limits his value. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1033), [06-26](https://youtu.be/CLsUc0Sevos?t=1747))
+- The team has 13 back-to-backs, the fewest in the league. That lowers the overall rest risk for its stars. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148), stats)
+- The fantasy playoffs have 11 games, rank 4 of 30. Week 19 has only 3 games, and weeks 20 and 21 each have a back-to-back. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148), stats)
+- Projected starting five: Tyrese Maxey, VJ Edgecombe, Jaylen Brown, LeBron James and Joel Embiid. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=412), stats)
+- The roster turned over a lot. New players are Jaylen Brown, LeBron James, Dean Wade, Kentavious Caldwell-Pope, Ariel Hukporti and Anfernee Simons. Paul George, Kelly Oubre, Quentin Grimes and Andre Drummond are gone. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=141), stats)
 - Without Andre Drummond, backup center and rebounding are the team's biggest weaknesses. Adem Bona is the backup center on the depth chart. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1851), stats)
 - The team should be one of the league's best, at about 51 to 52 wins. The win total is 50.5, rank 5 of 30. So the risk of tanking is low. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1819), stats)
 - Expect growing pains in October and November while the new stars fit together. (verdict, 2026-08-06, until November 2026; [08-06](https://youtu.be/gTsfR5PxAMY?t=1819))
-- The team has 13 back-to-backs, the fewest in the league. That lowers the overall rest risk for its stars. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148), stats)
-- The fantasy playoffs have 11 games, rank 4 of 30. Week 19 has only 3 games, and weeks 20 and 21 each have a back-to-back. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148), stats)
-- Embiid and LeBron are both rest risks, so the playoff back-to-backs may cost games from them even though total playoff volume is high. (verdict, 2026-09-17; [08-16](https://youtu.be/gf_6GveiAls?t=1148), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1654), [08-06](https://youtu.be/gTsfR5PxAMY?t=1819), stats)
+- The guard rotation is crowded. Maxey and Edgecombe are ahead of rookie Labaron Philon, which limits his value. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1033), [06-26](https://youtu.be/CLsUc0Sevos?t=1747))
+- Jaylen Brown and Tyrese Maxey cannot both stay top five scorers on the same team. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=353))
 
 **Durable**
 - Nick Nurse plays his starters very heavy minutes, and his guards especially. (fact, 2026-09-10; [08-06](https://youtu.be/gTsfR5PxAMY?t=556), [09-09](https://youtu.be/7BllEsdNLoM?t=1956), [09-10](https://youtu.be/W-R1dzem32s?t=779), [08-02](https://youtu.be/TOn-D1SV7a8?t=1033))
-- Heavy starter minutes leave little playing time for bench players and rookies. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1033))
 - Nurse mixes and staggers lineups when things do not fit. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=556))
+- Heavy starter minutes leave little playing time for bench players and rookies. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1033))
 
 **Tags**
 - Current: `usage competition` (Maxey, Embiid, LeBron and Brown share the ball. Edgecombe's role is squeezed too.), `few back-to-backs` (13 back-to-backs, fewest in the league.), `good playoff schedule` (11 games in weeks 19 to 21 (rank 4). Week 19 has only 3 games, and weeks 20 and 21 each have a back-to-back, which matters for rest-prone Embiid and LeBron.), `winning team` (Win total 50.5 (rank 5), projected about 51 to 52 wins.)

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 82 | 29.0 | 47.4 (8.9) | 80.1 (2.4) | 1.8 | 12.2 | 3.0 | 1.2 | 0.7 | 0.1 | 0.7 |
-| 2024-25 | 82 | 27.2 | 50.8 (8.3) | 80.9 (2.4) | 1.9 | 12.3 | 3.8 | 1.7 | 0.5 | 0.2 | 0.6 |
-| 2025-26 | 77 | 25.8 | 45.6 (7.5) | 82.9 (1.6) | 1.8 | 9.9 | 2.8 | 1.9 | 0.6 | 0.2 | 0.8 |
-| 2026-27 proj, Yahoo | 80 | - | 45.8 (5.7) | 80.9 (1.4) | 1.2 | 7.6 | 2.2 | 1.2 | 0.6 | 0.5 | 1.1 |
 | 2026-27 proj, ESPN | 80 | 20.5 | 48.0 (6.2) | 81.2 (1.6) | 1.4 | 8.7 | 2.4 | 1.2 | 0.5 | 0.1 | 0.5 |
+| 2026-27 proj, Yahoo | 80 | - | 45.8 (5.7) | 80.9 (1.4) | 1.2 | 7.6 | 2.2 | 1.2 | 0.6 | 0.5 | 1.1 |
+| 2025-26 | 77 | 25.8 | 45.6 (7.5) | 82.9 (1.6) | 1.8 | 9.9 | 2.8 | 1.9 | 0.6 | 0.2 | 0.8 |
+| 2024-25 | 82 | 27.2 | 50.8 (8.3) | 80.9 (2.4) | 1.9 | 12.3 | 3.8 | 1.7 | 0.5 | 0.2 | 0.6 |
+| 2023-24 | 82 | 29.0 | 47.4 (8.9) | 80.1 (2.4) | 1.8 | 12.2 | 3.0 | 1.2 | 0.7 | 0.1 | 0.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,14 +30,14 @@
 </details>
 
 **Current**
+- He is only a 1 USD player in a 14-team league. (verdict, 2026-09-29; [09-29](https://youtu.be/XnIWJyBB0EM?t=1855))
 - He re-signed with the Spurs on a one-year deal worth 8 million USD. (fact, 2026-08-27; [07-01](https://youtu.be/W3THnI7wWdA?t=1192), [08-27](https://youtu.be/ZAyie8lKyYc?t=1469))
 - The Spurs signed Tobias Harris, who takes the starting forward spot Barnes held. The projected starters are Fox, Castle, Vassell, Harris and Wembanyama, and the roster is very deep at forward. (fact, 2026-08-27; [08-24](https://youtu.be/g31YlwRe0XQ?t=1055), [08-27](https://youtu.be/ZAyie8lKyYc?t=524), [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
 - He is likely to be out of the rotation on many nights. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1469))
-- He is only a 1 USD player in a 14-team league. (verdict, 2026-09-29; [09-29](https://youtu.be/XnIWJyBB0EM?t=1855))
 
 **Durable**
-- He is reliable and plays almost every game. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1325), stats)
 - He is a low-usage player who mostly stands on the court and is rarely involved in the offense. (fact, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=346))
+- He is reliable and plays almost every game. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1325), stats)
 
 **Tags**
 - Current: `role down` (Tobias Harris takes his starting spot. Likely out of the rotation on many nights.), `minutes competition` (Very deep Spurs forward and wing group)

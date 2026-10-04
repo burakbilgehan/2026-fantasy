@@ -1,9 +1,8 @@
-import { useEffect, useMemo, useState, type CSSProperties } from 'react'
-import { api, type Valuation, type ValuationOptions, type ValuationQuery, type ValuedPlayer } from '../../api/client'
+import { useCallback, useEffect, useMemo, useState, type CSSProperties } from 'react'
+import { api, type TagCount, type Valuation, type ValuationOptions, type ValuationQuery, type ValuedPlayer } from '../../api/client'
+import { PlayerDrawer } from '../../components/PlayerDrawer'
+import { CAT_LABEL } from '../../lib/categories'
 
-const CAT_LABEL: Record<string, string> = {
-  fg_pct: 'FG%', ft_pct: 'FT%', tpm: '3PM', pts: 'PTS', reb: 'REB', ast: 'AST', stl: 'STL', blk: 'BLK', tov: 'TO',
-}
 // |z| at which a cell reaches full color. Bold text from this |z| on.
 const Z_FULL = 2.5
 const Z_STRONG = 1.5
@@ -35,7 +34,18 @@ type Column = {
 const money = (v: number) => `$${v.toFixed(0)}`
 const one = (v: number) => v.toFixed(1)
 
-function columns(cats: string[], view: 'stats' | 'z'): Column[] {
+type UsageScale = { mean: number; sd: number }
+
+/** Mean and spread of usage over the valued pool (players with a rank), for the usage tint. */
+function usageScale(players: ValuedPlayer[]): UsageScale | null {
+  const xs = players.filter((p) => p.rank != null && p.usg_pct != null).map((p) => p.usg_pct!)
+  if (xs.length < 2) return null
+  const mean = xs.reduce((a, b) => a + b, 0) / xs.length
+  const sd = Math.sqrt(xs.reduce((a, b) => a + (b - mean) ** 2, 0) / xs.length)
+  return sd > 0 ? { mean, sd } : null
+}
+
+function columns(cats: string[], view: 'stats' | 'z', usageSeason?: string, usage?: UsageScale | null): Column[] {
   const base: Column[] = [
     { key: 'rank', label: '#', group: 'Player', num: true, className: 'rank', value: (p) => p.rank },
     { key: 'name', label: 'Player', group: 'Player', className: 'name sticky', value: (p) => p.name },
@@ -56,6 +66,10 @@ function columns(cats: string[], view: 'stats' | 'z'): Column[] {
       value: (p) => p.stats.gp, fmt: (v) => v.toFixed(0) },
     { key: 'min', label: 'MIN', title: 'Minutes per game', group: 'Playing time', num: true,
       value: (p) => (p.stats.min != null && p.stats.gp ? p.stats.min / p.stats.gp : null), fmt: one },
+    { key: 'usg', label: 'USG%', title: `Usage rate, ${usageSeason ?? 'last season'} (NBA.com)`, group: 'Playing time',
+      num: true, value: (p) => (p.usg_pct == null ? null : p.usg_pct * 100), fmt: one,
+      // Higher usage = green: more shots and counting stats. Tint vs the valued pool.
+      heat: (p) => (p.usg_pct == null || !usage ? null : { z: (p.usg_pct - usage.mean) / usage.sd, full: Z_FULL }) },
   ]
   const catCols: Column[] = cats.map((c, i) => ({
     key: view === 'z' ? `z_${c}` : c,
@@ -72,23 +86,109 @@ function columns(cats: string[], view: 'stats' | 'z'): Column[] {
 
 const baseKey = (q: { kind: string; source: string; season: string }) => `${q.kind}|${q.source}|${q.season}`
 
-function Cell({ col, p }: { col: Column; p: ValuedPlayer }) {
+const cellText = (col: Column, p: ValuedPlayer) => {
   const v = col.value(p)
-  const text = v == null ? '-' : typeof v === 'number' && col.fmt ? col.fmt(v) : String(v)
+  return v == null ? '-' : typeof v === 'number' && col.fmt ? col.fmt(v) : String(v)
+}
+
+/** Tint of a heat cell: class names and the --a strength, or null for a plain cell. */
+function heatOf(col: Column, p: ValuedPlayer): { cls: string; style: CSSProperties } | null {
   const h = col.heat?.(p)
-  if (h && v != null) {
-    const a = Math.min(Math.abs(h.z) / h.full, 1)
-    const tone = h.z >= 0 ? 'good' : 'bad'
-    const strong = Math.abs(h.z) / h.full >= Z_STRONG / Z_FULL
-    const cls = ['heat', tone, strong && 'strong', col.className].filter(Boolean).join(' ')
-    return <td className={cls}><span style={{ '--a': a.toFixed(3) } as CSSProperties}>{text}</span></td>
+  if (!h || col.value(p) == null) return null
+  const a = Math.min(Math.abs(h.z) / h.full, 1)
+  const strong = Math.abs(h.z) / h.full >= Z_STRONG / Z_FULL
+  return { cls: ['heat', h.z >= 0 ? 'good' : 'bad', strong && 'strong'].filter(Boolean).join(' '),
+    style: { '--a': a.toFixed(3) } as CSSProperties }
+}
+
+function Cell({ col, p }: { col: Column; p: ValuedPlayer }) {
+  const text = cellText(col, p)
+  const h = heatOf(col, p)
+  if (h) {
+    return <td className={[h.cls, col.className].filter(Boolean).join(' ')}><span style={h.style}>{text}</span></td>
   }
   const cls = [col.num && 'num', col.className].filter(Boolean).join(' ') || undefined
   return (
     <td className={cls}>
-      {text}
+      {col.key === 'name' ? <button className="link" aria-haspopup="dialog">{text}</button> : text}
       {col.key === 'name' && p.injury && <span className="injury" title="Injury status (Yahoo)">{p.injury}</span>}
     </td>
+  )
+}
+
+// Narrow screens get a two-line list instead of the wide table: no side scroll.
+const NARROW = '(max-width: 720px)'
+
+function useNarrow(): boolean {
+  const [narrow, setNarrow] = useState(() => window.matchMedia(NARROW).matches)
+  useEffect(() => {
+    const m = window.matchMedia(NARROW)
+    const on = () => setNarrow(m.matches)
+    m.addEventListener('change', on)
+    return () => m.removeEventListener('change', on)
+  }, [])
+  return narrow
+}
+
+const TOP_KEYS = ['dollars', 'total', 'y_cost', 'e_cost'] as const
+const TOP_LABEL: Record<string, string> = { dollars: '$', total: 'Value', y_cost: 'Y avg', e_cost: 'E avg' }
+
+function MobileList({ rows, cols, cats, sort, onSort, onOpen }: {
+  rows: ValuedPlayer[]; cols: Column[]; cats: Column[]; sort: { key: string; desc: boolean }
+  onSort: (key: string) => void; onOpen: (id: number) => void
+}) {
+  const byKey = new Map(cols.map((c) => [c.key, c]))
+  const top = TOP_KEYS.map((k) => byKey.get(k)!)
+  const arrow = (k: string) => (sort.key === k ? (sort.desc ? ' ↓' : ' ↑') : '')
+  const head = (k: string, label: string) => (
+    <button className={sort.key === k ? 'sorted' : undefined} onClick={() => onSort(k)}>{label}{arrow(k)}</button>
+  )
+  const sub = (p: ValuedPlayer) => {
+    const min = byKey.get('min')!
+    return [p.team ?? 'FA', p.positions?.join(',') ?? '-', p.stats.gp != null ? `${p.stats.gp.toFixed(0)} gp` : null,
+      min.value(p) != null ? `${cellText(min, p)} min` : null].filter(Boolean).join(' · ')
+  }
+  const usgChip = (p: ValuedPlayer) => {
+    const usg = byKey.get('usg')!
+    if (usg.value(p) == null) return null
+    const h = heatOf(usg, p)
+    return <span className={['musg', h?.cls].filter(Boolean).join(' ')} title="Usage rate"><span style={h?.style}>
+      {cellText(usg, p)}% usg</span></span>
+  }
+  return (
+    <div className="mlist">
+      <div className="mrow mhead">
+        <div className="mtop">
+          {head('rank', '#')}{head('name', 'Player')}
+          {top.map((c) => <span key={c.key} className="mnum">{head(c.key, TOP_LABEL[c.key])}</span>)}
+        </div>
+        <div className="mcats">{cats.map((c) => <span key={c.key}>{head(c.key, c.label)}</span>)}</div>
+      </div>
+      {rows.map((p) => (
+        <div key={p.player_id} className="mrow" role="button" tabIndex={0} onClick={() => onOpen(p.player_id)}
+          onKeyDown={(e) => { if (e.key === 'Enter') onOpen(p.player_id) }}>
+          <div className="mtop">
+            <span className="mrank">{p.rank ?? '-'}</span>
+            <span className="mname">
+              <span className="mplayer">{p.name}{p.injury && <span className="injury">{p.injury}</span>}</span>
+              <small>{sub(p)} {usgChip(p)}</small>
+            </span>
+            {top.map((c) => {
+              const h = heatOf(c, p)
+              return <span key={c.key} className={['mnum', c.key === 'dollars' && 'mdollars', h?.cls].filter(Boolean).join(' ')}>
+                <span style={h?.style}>{cellText(c, p)}</span></span>
+            })}
+          </div>
+          <div className="mcats">
+            {cats.map((c) => {
+              const h = heatOf(c, p)
+              // ".574" instead of "0.574": percentages fit the narrow cell.
+              return <span key={c.key} className={h?.cls}><small className="mcat" aria-hidden="true">{c.label}</small><span style={h?.style}>{c.key.endsWith('pct') ? cellText(c, p).replace(/^0\./, '.') : cellText(c, p)}</span></span>
+            })}
+          </div>
+        </div>
+      ))}
+    </div>
   )
 }
 
@@ -100,6 +200,15 @@ export function PlayerValues() {
   const [view, setView] = useState<'stats' | 'z'>('stats')
   const [search, setSearch] = useState('')
   const [sort, setSort] = useState<{ key: string; desc: boolean }>({ key: 'rank', desc: false })
+  const [drawer, setDrawer] = useState<number | null>(null)
+  const [tags, setTags] = useState<TagCount[]>([])
+  const [tag, setTag] = useState('')
+  const [tagLoaded, setTagLoaded] = useState<{ tag: string; ids: Set<number> } | null>(null)
+  // Before the tag's players arrive the list is empty, not unfiltered.
+  const tagged = useMemo(() => (!tag ? null : tagLoaded?.tag === tag ? tagLoaded.ids : new Set<number>()),
+    [tag, tagLoaded])
+  const narrow = useNarrow()
+  const closeDrawer = useCallback(() => setDrawer(null), [])
 
   useEffect(() => {
     api.valuationOptions()
@@ -112,6 +221,17 @@ export function PlayerValues() {
       .catch((e: Error) => setError(e.message))
   }, [])
 
+  useEffect(() => { api.tags().then(setTags).catch(() => { /* tag filter stays empty */ }) }, [])
+
+  useEffect(() => {
+    if (!tag) return
+    let alive = true
+    api.tagPlayers(tag)
+      .then((ps) => { if (alive) setTagLoaded({ tag, ids: new Set(ps.map((x) => x.player_pk)) }) })
+      .catch((e: Error) => { if (alive) setError(e.message) })
+    return () => { alive = false }
+  }, [tag])
+
   useEffect(() => {
     if (!query) return
     let alive = true
@@ -122,7 +242,8 @@ export function PlayerValues() {
   }, [query])
 
   const cats = useMemo(() => options?.categories ?? [], [options])
-  const cols = useMemo(() => columns(cats, view), [cats, view])
+  const cols = useMemo(() => columns(cats, view, data?.settings.usage_season, data && usageScale(data.players)),
+    [cats, view, data])
   const groups = useMemo(() => {
     const out: { name: Group; span: number }[] = []
     for (const c of cols) {
@@ -137,7 +258,8 @@ export function PlayerValues() {
     if (!data) return []
     const col = cols.find((c) => c.key === sort.key) ?? cols[0]
     const needle = search.trim().toLowerCase()
-    const list = data.players.filter((p) => !needle || p.name.toLowerCase().includes(needle))
+    const list = data.players.filter((p) => (!needle || p.name.toLowerCase().includes(needle))
+      && (!tagged || tagged.has(p.player_id)))
     return [...list].sort((a, b) => {
       const x = col.value(a), y = col.value(b)
       if (x == null) return 1
@@ -145,7 +267,7 @@ export function PlayerValues() {
       const r = typeof x === 'string' ? x.localeCompare(String(y)) : x - (y as number)
       return sort.desc ? -r : r
     })
-  }, [data, cols, sort, search])
+  }, [data, cols, sort, search, tagged])
 
   if (!options || !query) return <p className={error ? 'error' : 'hint'}>{error ?? 'Loading values...'}</p>
 
@@ -190,6 +312,12 @@ export function PlayerValues() {
             {options.pools.map((p) => <option key={p ?? 0} value={p ?? 0}>{p ? `Top ${p}` : 'All players'}</option>)}
           </select>
         </label>
+        <label>Tag
+          <select value={tag} onChange={(e) => setTag(e.target.value)}>
+            <option value="">All players</option>
+            {tags.map((t) => <option key={t.tag} value={t.tag}>{t.tag} ({t.count})</option>)}
+          </select>
+        </label>
         <input className="search" type="search" placeholder="Find a player" aria-label="Find a player"
           value={search} onChange={(e) => setSearch(e.target.value)} />
       </div>
@@ -221,6 +349,10 @@ export function PlayerValues() {
         </span>
       </div>
       {error && <p className="error">{error}</p>}
+      {narrow ? (
+        <MobileList rows={rows} cols={cols} cats={cols.filter((c) => c.group === 'Categories')} sort={sort}
+          onSort={clickSort} onOpen={setDrawer} />
+      ) : (
       <div className="table-wrap">
         <table className="values">
           <thead>
@@ -242,13 +374,17 @@ export function PlayerValues() {
           </thead>
           <tbody>
             {rows.map((p) => (
-              <tr key={p.player_id}>
+              <tr key={p.player_id} className="clickable" onClick={() => setDrawer(p.player_id)}>
                 {cols.map((c) => <Cell key={c.key} col={c} p={p} />)}
               </tr>
             ))}
           </tbody>
         </table>
       </div>
+      )}
+      {drawer != null && (
+        <PlayerDrawer playerId={drawer} query={query} onClose={closeDrawer} onOpenPlayer={setDrawer} />
+      )}
     </div>
   )
 }

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 42 | 33.5 | 44.1 (17.5) | 85.6 (2.6) | 3.1 | 20.8 | 5.3 | 4.5 | 0.7 | 0.1 | 2.2 |
-| 2024-25 | 77 | 35.4 | 47.2 (17.9) | 87.8 (4.2) | 3.3 | 23.9 | 5.2 | 5.5 | 0.9 | 0.2 | 2.6 |
-| 2025-26 | 33 | 31.2 | 48.0 (15.6) | 91.7 (3.3) | 2.5 | 20.5 | 4.8 | 4.1 | 0.7 | 0.4 | 1.9 |
-| 2026-27 proj, Yahoo | 66 | - | 46.6 (17.2) | 88.6 (5.1) | 3.2 | 23.7 | 5.1 | 4.9 | 0.8 | 0.2 | 2.3 |
 | 2026-27 proj, ESPN | 67 | 34.0 | 47.6 (17.1) | 90.3 (3.7) | 2.9 | 22.5 | 5.1 | 4.7 | 0.8 | 0.3 | 2.2 |
+| 2026-27 proj, Yahoo | 66 | - | 46.6 (17.2) | 88.6 (5.1) | 3.2 | 23.7 | 5.1 | 4.9 | 0.8 | 0.2 | 2.3 |
+| 2025-26 | 33 | 31.2 | 48.0 (15.6) | 91.7 (3.3) | 2.5 | 20.5 | 4.8 | 4.1 | 0.7 | 0.4 | 1.9 |
+| 2024-25 | 77 | 35.4 | 47.2 (17.9) | 87.8 (4.2) | 3.3 | 23.9 | 5.2 | 5.5 | 0.9 | 0.2 | 2.6 |
+| 2023-24 | 42 | 33.5 | 44.1 (17.5) | 85.6 (2.6) | 3.1 | 20.8 | 5.3 | 4.5 | 0.7 | 0.1 | 2.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,19 +30,19 @@
 </details>
 
 **Current**
+- Milwaukee's backcourt is crowded. It includes Rollins, Porter, Jakucionis, Burries, Trent and Green. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418))
+- Experts rate him tier 6 at guard. They call an ADP of 58 to 60 fair and a round 6 pick very strong. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1232), [09-09](https://youtu.be/7BllEsdNLoM?t=1782), [09-10](https://youtu.be/W-R1dzem32s?t=1379))
+- His production in Milwaukee is seen as relatively safe. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1379))
 - Herro was traded from Miami to Milwaukee and will start there. Experts call him a lock to start, and his role is set. (fact, 2026-09-09; [06-23](https://youtu.be/nnWX_ObljOE?t=207), [08-14](https://youtu.be/owlM6b8oUd0?t=1570), [09-09](https://youtu.be/7BllEsdNLoM?t=1782), [09-09](https://youtu.be/7BllEsdNLoM?t=1772))
 - He should be Milwaukee's top offensive option and leading scorer and take on part of the creation role. He was Miami's top option too, so the trade changes little for his value. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1570), [06-23](https://youtu.be/nnWX_ObljOE?t=285), [06-23](https://youtu.be/nnWX_ObljOE?t=374), [06-30](https://youtu.be/4GDfg2n2l8o?t=336))
-- Milwaukee's backcourt is crowded. It includes Rollins, Porter, Jakucionis, Burries, Trent and Green. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418))
-- In that crowded guard group he will not play point guard. One expert sees this as a reason for some skepticism about his assists and usage. (verdict, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=1632))
 - He is on a 33 million USD expiring contract. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1542))
 - He is expected to stay in Milwaukee at least until the trade deadline. He could be moved there because Burries is the long-term shooting guard. (verdict, 2026-08-14, until trade deadline (2027-03-04); [08-14](https://youtu.be/owlM6b8oUd0?t=1542), [06-30](https://youtu.be/4GDfg2n2l8o?t=336))
-- His production in Milwaukee is seen as relatively safe. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1379))
-- Experts rate him tier 6 at guard. They call an ADP of 58 to 60 fair and a round 6 pick very strong. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1232), [09-09](https://youtu.be/7BllEsdNLoM?t=1782), [09-10](https://youtu.be/W-R1dzem32s?t=1379))
 - Experts expect Milwaukee to be bad. The team does not own its pick, though, so it has no reason to tank. (verdict, 2026-08-14; [07-13](https://youtu.be/Rqb5GdrSweY?t=1609), [08-10](https://youtu.be/sfCe7fS9daM?t=1690), [08-14](https://youtu.be/owlM6b8oUd0?t=2216))
+- In that crowded guard group he will not play point guard. One expert sees this as a reason for some skepticism about his assists and usage. (verdict, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=1632))
 
 **Durable**
-- He has a long injury history, and experts say it could recur. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1379), [07-13](https://youtu.be/Rqb5GdrSweY?t=1632))
 - He is a high-volume scorer. Most of his value comes from FT%, threes and points. He adds little in steals and blocks, and his turnovers are a small minus. (fact, 2026-10-04; stats)
+- He has a long injury history, and experts say it could recur. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1379), [07-13](https://youtu.be/Rqb5GdrSweY?t=1632))
 
 **Tags**
 - Current: `new team` (Traded from Miami to Milwaukee in the Giannis trade), `trade risk` (Expiring 33 million USD deal; Burries is the long-term shooting guard; until trade deadline (2027-03-04)), `injury last season` (Played 33 games in 2025-26), `sites disagree on price` (Yahoo value 16 USD vs ESPN value 7 USD)

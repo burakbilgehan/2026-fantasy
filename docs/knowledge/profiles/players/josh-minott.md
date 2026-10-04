@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 32 | 2.9 | 47.2 (1.1) | 85.7 (0.4) | 0.1 | 1.6 | 0.5 | 0.2 | 0.2 | 0.2 | 0.1 |
-| 2024-25 | 46 | 6.0 | 48.9 (2.0) | 89.5 (0.4) | 0.3 | 2.6 | 1.0 | 0.4 | 0.3 | 0.3 | 0.2 |
-| 2025-26 | 49 | 17.0 | 50.0 (5.1) | 78.7 (1.2) | 1.3 | 7.4 | 3.2 | 0.9 | 0.9 | 0.5 | 0.9 |
 | 2026-27 proj, Yahoo | 45 | - | 51.5 (3.8) | 78.0 (0.9) | 0.8 | 5.4 | 2.2 | 0.5 | 0.2 | 0.6 | 0.5 |
+| 2025-26 | 49 | 17.0 | 50.0 (5.1) | 78.7 (1.2) | 1.3 | 7.4 | 3.2 | 0.9 | 0.9 | 0.5 | 0.9 |
+| 2024-25 | 46 | 6.0 | 48.9 (2.0) | 89.5 (0.4) | 0.3 | 2.6 | 1.0 | 0.4 | 0.3 | 0.3 | 0.2 |
+| 2023-24 | 32 | 2.9 | 47.2 (1.1) | 85.7 (0.4) | 0.1 | 1.6 | 0.5 | 0.2 | 0.2 | 0.2 | 0.1 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -31,11 +31,11 @@
 **Current**
 - Josh Minott is not in the expert's projected 10-man Brooklyn rotation. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1205))
 - Brooklyn's frontcourt is crowded. Three of the projected bench players are big men, so minutes for its young forwards will be hard to find. (fact, 2026-09-26; [06-23](https://youtu.be/9tb1ARBEmQU?t=707), [09-26](https://youtu.be/3UGI05PDvrE?t=1156), [08-21](https://youtu.be/uRsfijpBPok?t=276))
-- Brooklyn recently signed him to an extension. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=1611))
 - In his last nine games of 2025-26 he played 23 minutes and averaged 14 points, 3 rebounds, 1.4 steals and 1 block. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1474))
 - He is a stash option in case Brooklyn gives its young players more minutes late in the season. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1474), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1642))
 - Houston owns Brooklyn's pick, so the Nets have no reason to tank. Their March minutes are uncertain, and Michael Porter Jr. could be traded, which could open minutes for young players. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1642))
 - Brooklyn plays 3, 4 and 3 games in our playoff weeks 19 to 21, with one back-to-back in that span. The team has 16 back-to-backs this season, tied for the most in the league. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
+- Brooklyn recently signed him to an extension. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=1611))
 
 **Durable**
 - He rates in the 91st percentile in DARKO and has always had a strong impact on the court. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=2012))

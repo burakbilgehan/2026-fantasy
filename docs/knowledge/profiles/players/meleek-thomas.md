@@ -26,18 +26,18 @@
 </details>
 
 **Current**
-- Meleek Thomas is a 20-year-old rookie. Cleveland took him 34th in the second round after trading back from pick 29. (fact, 2026-08-24; [06-26](https://youtu.be/CLsUc0Sevos?t=1471), [08-02](https://youtu.be/TOn-D1SV7a8?t=702), [06-28](https://youtu.be/RsjGTgJiKyI?t=1505), [08-24](https://youtu.be/rnq3118kfhY?t=1293))
 - He has no clear role right now. James Harden and Donovan Mitchell fill the backcourt. He is not in the projected starting lineup or the projected bench of Tyson, Merrill, Bryant, Tomlin and Porter. (fact, 2026-09-29; [08-02](https://youtu.be/TOn-D1SV7a8?t=702), [08-02](https://youtu.be/TOn-D1SV7a8?t=677), [09-29](https://youtu.be/NmdNvAz08oE?t=397), [09-29](https://youtu.be/NmdNvAz08oE?t=1376))
 - Experts are unsure how he fits in the rotation at first. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1504), [08-02](https://youtu.be/TOn-D1SV7a8?t=702))
+- Meleek Thomas is a 20-year-old rookie. Cleveland took him 34th in the second round after trading back from pick 29. (fact, 2026-08-24; [06-26](https://youtu.be/CLsUc0Sevos?t=1471), [08-02](https://youtu.be/TOn-D1SV7a8?t=702), [06-28](https://youtu.be/RsjGTgJiKyI?t=1505), [08-24](https://youtu.be/rnq3118kfhY?t=1293))
+- His body still needs physical development. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1293))
+- Several experts rate him well above his draft slot. One called him one of the biggest risers versus his slot, and one called the pick a swindle for Cleveland. (verdict, 2026-08-02; [06-23](https://youtu.be/-rgXhs5BHiw?t=353), [08-02](https://youtu.be/TOn-D1SV7a8?t=702), [06-26](https://youtu.be/CLsUc0Sevos?t=1471), [06-28](https://youtu.be/RsjGTgJiKyI?t=1505), [06-22](https://youtu.be/HxQjagSTTAM?t=597))
 - He was the top-ranked fantasy player of summer league. He averaged 26 points, 4 assists and 2 steals, shooting 50% from the field and 44% from three. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1499))
 - One expert expects him to be a 27-minute third guard within two years. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1499))
-- Several experts rate him well above his draft slot. One called him one of the biggest risers versus his slot, and one called the pick a swindle for Cleveland. (verdict, 2026-08-02; [06-23](https://youtu.be/-rgXhs5BHiw?t=353), [08-02](https://youtu.be/TOn-D1SV7a8?t=702), [06-26](https://youtu.be/CLsUc0Sevos?t=1471), [06-28](https://youtu.be/RsjGTgJiKyI?t=1505), [06-22](https://youtu.be/HxQjagSTTAM?t=597))
-- His body still needs physical development. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1293))
 
 **Durable**
+- Experts project him as a starting-caliber NBA player in the long term. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1504))
 - He is a guard from Arkansas with good size. In college he shot 42% on threes with good two-point and free-throw percentages. (fact, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=353))
 - Experts expect him to pass more and defend solidly in the NBA. They also say playing next to high-usage Darius Acuff held his college numbers down. (verdict, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=353))
-- Experts project him as a starting-caliber NBA player in the long term. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1504))
 
 **Tags**
 - Current: `rookie` (Second-round pick, 34th overall in 2026), `minutes competition` (Blocked by James Harden and Donovan Mitchell. He is not in the projected rotation)

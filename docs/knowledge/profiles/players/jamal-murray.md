@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 59 | 31.6 | 48.1 (16.7) | 85.3 (3.1) | 2.5 | 21.2 | 4.1 | 6.5 | 1.0 | 0.7 | 2.1 |
-| 2024-25 | 67 | 36.1 | 47.4 (16.7) | 88.6 (3.7) | 2.3 | 21.4 | 3.9 | 6.0 | 1.4 | 0.5 | 2.1 |
-| 2025-26 | 75 | 35.4 | 48.3 (18.1) | 88.7 (5.2) | 3.3 | 25.4 | 4.4 | 7.1 | 0.9 | 0.4 | 2.3 |
-| 2026-27 proj, Yahoo | 68 | - | 47.3 (18.1) | 88.3 (4.9) | 3.0 | 24.4 | 4.2 | 6.7 | 1.0 | 0.5 | 2.2 |
 | 2026-27 proj, ESPN | 69 | 35.0 | 47.9 (17.3) | 88.3 (4.2) | 2.8 | 23.1 | 4.1 | 6.6 | 1.1 | 0.5 | 2.2 |
+| 2026-27 proj, Yahoo | 68 | - | 47.3 (18.1) | 88.3 (4.9) | 3.0 | 24.4 | 4.2 | 6.7 | 1.0 | 0.5 | 2.2 |
+| 2025-26 | 75 | 35.4 | 48.3 (18.1) | 88.7 (5.2) | 3.3 | 25.4 | 4.4 | 7.1 | 0.9 | 0.4 | 2.3 |
+| 2024-25 | 67 | 36.1 | 47.4 (16.7) | 88.6 (3.7) | 2.3 | 21.4 | 3.9 | 6.0 | 1.4 | 0.5 | 2.1 |
+| 2023-24 | 59 | 31.6 | 48.1 (16.7) | 85.3 (3.1) | 2.5 | 21.2 | 4.1 | 6.5 | 1.0 | 0.7 | 2.1 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -32,19 +32,19 @@
 **Current**
 - He is Denver's projected starting point guard, next to Christian Braun, Cam Johnson, Aaron Gordon and Nikola Jokic. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307))
 - His usage rose under David Adelman. Many teammate absences also helped, because he was the only one who stayed healthy. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=600))
-- Experts expect his role of about 28 usage and 35 minutes to hold. One expert is more confident in his role than in any other tier 3 point guard. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=2055), [09-09](https://youtu.be/7BllEsdNLoM?t=1024))
 - His three-point percentage is expected to drop to around 40 to 41%. (verdict, 2026-09-29; [09-16](https://youtu.be/2A2JbUN-kc0?t=2055), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=470))
 - Experts call him a safe pick in the middle of round two and fine as early as the start of round two. He could finish top 12, but that is not certain. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=487), [09-09](https://youtu.be/7BllEsdNLoM?t=1024), [09-29](https://youtu.be/XnIWJyBB0EM?t=2174), [09-16](https://youtu.be/2A2JbUN-kc0?t=2055))
 - Experts say his ESPN ranking is far too low and call him a bargain there. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=487), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2334))
-- He is fine to pair with Jokic in round two and could finish ranked above Tyrese Maxey this season. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1973), [09-23](https://youtu.be/C4vlgpJ62NI?t=1269))
-- One expert thinks Denver could trade him by the deadline to shed salary, because they cannot build a top-15 defense while paying both Jokic and Murray over 30M USD. (verdict, 2026-07-31, until 2027-03-04; [07-31](https://youtu.be/keNupMSHp1Y?t=892))
 - Denver plays 43 games through March 28 and has only 14 back-to-backs, one of the lowest counts in the league. The team is mostly healthy going into the season. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1658))
+- He is fine to pair with Jokic in round two and could finish ranked above Tyrese Maxey this season. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1973), [09-23](https://youtu.be/C4vlgpJ62NI?t=1269))
+- Experts expect his role of about 28 usage and 35 minutes to hold. One expert is more confident in his role than in any other tier 3 point guard. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=2055), [09-09](https://youtu.be/7BllEsdNLoM?t=1024))
+- One expert thinks Denver could trade him by the deadline to shed salary, because they cannot build a top-15 defense while paying both Jokic and Murray over 30M USD. (verdict, 2026-07-31, until 2027-03-04; [07-31](https://youtu.be/keNupMSHp1Y?t=892))
 - One expert doubts Denver will rest him on purpose. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1377))
 
 **Durable**
 - He is a strong three-point shooter, at close to 40% or better over the last four seasons. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=470))
-- He has become more of a playmaker than a pure shooter. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=876))
 - His category profile is volume scoring, threes, good assists, high FT% on real volume and a good FG% for a guard. None of his categories is weak. (fact, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=576), stats)
+- He has become more of a playmaker than a pure shooter. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=876))
 
 **Tags**
 - Current: `trade risk` (possible salary dump by the deadline; until 2027-03-04), `few back-to-backs` (14 back-to-backs, one of the lowest counts in the league), `sites disagree on price` (Yahoo average cost 37.4 USD vs ESPN 24.2 USD), `expert target` (experts say his ESPN rank is far too low)

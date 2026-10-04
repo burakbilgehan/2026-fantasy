@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 64 | 24.5 | 44.3 (8.8) | 76.6 (0.7) | 1.9 | 10.2 | 3.5 | 2.6 | 0.7 | 0.4 | 0.8 |
-| 2024-25 | 69 | 24.3 | 42.5 (8.8) | 71.4 (0.7) | 1.9 | 9.9 | 3.0 | 2.3 | 1.0 | 0.3 | 1.0 |
-| 2025-26 | 69 | 22.5 | 45.1 (8.6) | 77.5 (1.0) | 1.4 | 10.0 | 3.5 | 2.6 | 0.9 | 0.5 | 1.0 |
-| 2026-27 proj, Yahoo | 68 | - | 44.2 (8.7) | 75.0 (0.9) | 1.7 | 10.1 | 3.3 | 2.5 | 0.9 | 0.4 | 1.0 |
 | 2026-27 proj, ESPN | 69 | 23.6 | 44.8 (8.9) | 76.8 (1.0) | 1.6 | 10.3 | 3.5 | 2.6 | 0.9 | 0.5 | 1.1 |
+| 2026-27 proj, Yahoo | 68 | - | 44.2 (8.7) | 75.0 (0.9) | 1.7 | 10.1 | 3.3 | 2.5 | 0.9 | 0.4 | 1.0 |
+| 2025-26 | 69 | 22.5 | 45.1 (8.6) | 77.5 (1.0) | 1.4 | 10.0 | 3.5 | 2.6 | 0.9 | 0.5 | 1.0 |
+| 2024-25 | 69 | 24.3 | 42.5 (8.8) | 71.4 (0.7) | 1.9 | 9.9 | 3.0 | 2.3 | 1.0 | 0.3 | 1.0 |
+| 2023-24 | 64 | 24.5 | 44.3 (8.8) | 76.6 (0.7) | 1.9 | 10.2 | 3.5 | 2.6 | 0.7 | 0.4 | 0.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,10 +30,10 @@
 </details>
 
 **Current**
-- Signed with Detroit for 3 years and 27 million USD in free agency. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1160))
-- The expert does not understand the signing. He sees Huerter as a possible shooter next to Isaiah Joe. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1160))
 - In Detroit's projected bench rotation, Isaiah Joe is the sixth man, followed by Ron Holland, Paul Reed and Daniss Jenkins. Huerter and Prince compete for the last rotation spot. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1420))
 - Detroit used a deep 12 to 13 player rotation last season, which limited everyone's minutes. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1386))
+- Signed with Detroit for 3 years and 27 million USD in free agency. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1160))
+- The expert does not understand the signing. He sees Huerter as a possible shooter next to Isaiah Joe. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1160))
 
 **Durable**
 - He has no standout category. His best categories are low turnovers and threes, but neither is a league outlier. Points and rebounds are below the top 250 pool. (fact, 2026-10-04; stats)

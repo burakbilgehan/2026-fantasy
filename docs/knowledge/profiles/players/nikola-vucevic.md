@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 76 | 34.4 | 48.4 (15.9) | 82.2 (1.7) | 1.2 | 18.0 | 10.5 | 3.3 | 0.7 | 0.8 | 1.6 |
-| 2024-25 | 73 | 31.2 | 53.0 (14.2) | 80.5 (2.0) | 1.8 | 18.5 | 10.1 | 3.5 | 0.8 | 0.7 | 1.6 |
-| 2025-26 | 64 | 28.4 | 49.3 (12.5) | 82.8 (1.5) | 1.6 | 15.1 | 8.4 | 3.3 | 0.6 | 0.6 | 1.3 |
-| 2026-27 proj, Yahoo | 69 | - | 50.4 (7.0) | 81.7 (0.9) | 0.8 | 8.6 | 4.8 | 1.7 | 0.4 | 0.3 | 0.8 |
 | 2026-27 proj, ESPN | 72 | 25.1 | 50.1 (11.4) | 81.2 (1.4) | 1.2 | 13.8 | 7.7 | 2.7 | 0.6 | 0.6 | 1.2 |
+| 2026-27 proj, Yahoo | 69 | - | 50.4 (7.0) | 81.7 (0.9) | 0.8 | 8.6 | 4.8 | 1.7 | 0.4 | 0.3 | 0.8 |
+| 2025-26 | 64 | 28.4 | 49.3 (12.5) | 82.8 (1.5) | 1.6 | 15.1 | 8.4 | 3.3 | 0.6 | 0.6 | 1.3 |
+| 2024-25 | 73 | 31.2 | 53.0 (14.2) | 80.5 (2.0) | 1.8 | 18.5 | 10.1 | 3.5 | 0.8 | 0.7 | 1.6 |
+| 2023-24 | 76 | 34.4 | 48.4 (15.9) | 82.2 (1.7) | 1.2 | 18.0 | 10.5 | 3.3 | 0.7 | 0.8 | 1.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,21 +30,21 @@
 </details>
 
 **Current**
-- He signed a minimum contract to go back to Orlando. (fact, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=418), [07-02](https://youtu.be/P6TNP-g0wzY?t=1807), [07-05](https://youtu.be/4kKINkZhWls?t=3135))
 - Wendell Carter Jr. is Orlando's starting center and Vucevic is his backup. Goga Bitadze will still get some minutes. (fact, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1886), [08-26](https://youtu.be/sTtFUy7IoJI?t=1307), [08-26](https://youtu.be/sTtFUy7IoJI?t=1307), [08-01](https://youtu.be/FEcNjVRlj-U?t=366), [08-24](https://youtu.be/g31YlwRe0XQ?t=2459))
-- Orlando added him to fix a bench unit that ranked 27th or 28th in scoring last season. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=433))
 - Expected to play about 20 to 22 minutes off the bench, down from 28. He is not expected to push for starter's minutes, and one expert says he could even be third string. (verdict, 2026-09-22; [08-26](https://youtu.be/sTtFUy7IoJI?t=1307), [08-01](https://youtu.be/FEcNjVRlj-U?t=366), [09-22](https://youtu.be/QbdrhJd7LiA?t=1886))
-- Can still score 12 to 14 points per game off the bench and is an upgrade on Mo Wagner. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=397))
 - Do not draft him at his ESPN ADP of 55 to 89 or as a starter in the top 80 to 90. He is a bad pick at that price. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1886), [09-19](https://youtu.be/uarqbNA2dFk?t=2610), [08-26](https://youtu.be/sTtFUy7IoJI?t=1344))
 - Experts disagree on whether to draft him at all. Some say he is still draftable around rank 103 and is good value at the end of a deep draft. Others say not to draft him in 10, 12 or 14 team leagues, and Lloyd calls him cooked. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2610), [09-15](https://youtu.be/KPdD91Oo8-U?t=2638), [07-13](https://youtu.be/Rqb5GdrSweY?t=1798), [07-02](https://youtu.be/P6TNP-g0wzY?t=1807))
 - He could be top 100 if Wendell Carter Jr. gets hurt. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=2638), [08-24](https://youtu.be/g31YlwRe0XQ?t=2459))
+- Orlando added him to fix a bench unit that ranked 27th or 28th in scoring last season. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=433))
+- Can still score 12 to 14 points per game off the bench and is an upgrade on Mo Wagner. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=397))
 - His assists last season were helped by luck: a 68% potential assist conversion rate. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1746))
+- He signed a minimum contract to go back to Orlando. (fact, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=418), [07-02](https://youtu.be/P6TNP-g0wzY?t=1807), [07-05](https://youtu.be/4kKINkZhWls?t=3135))
 
 **Durable**
+- Steals are his weakest category for a center. His FT% and low turnovers are good for a center. (fact, 2026-10-04; stats)
 - Pretty good passer for a big man. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1746))
 - He gets rebounds without blocks. He is the exception to the rule that rebounders also block shots. (verdict, 2026-07-15; [07-15](https://youtu.be/0geFVzSqOnA?t=750), stats)
 - Poor defender. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1807))
-- Steals are his weakest category for a center. His FT% and low turnovers are good for a center. (fact, 2026-10-04; stats)
 
 **Tags**
 - Current: `new team` (Back to Orlando on a minimum deal), `role down` (Backup center, about 20 to 22 minutes, down from 28), `minutes competition` (Behind Wendell Carter Jr.; Goga Bitadze also gets minutes), `handcuff` (Could be top 100 if Wendell Carter Jr. gets hurt), `bust candidate` (At ESPN ADP of 55 to 89), `sites disagree on price` (ADP 111 on Yahoo vs 49 on ESPN; rank 177 on Yahoo vs 103 on ESPN)

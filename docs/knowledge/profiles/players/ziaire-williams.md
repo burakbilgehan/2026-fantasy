@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 51 | 20.4 | 39.7 (7.4) | 82.7 (1.5) | 1.1 | 8.2 | 3.5 | 1.5 | 0.7 | 0.2 | 1.3 |
-| 2024-25 | 63 | 24.5 | 41.2 (8.3) | 82.1 (2.0) | 1.6 | 10.0 | 4.6 | 1.3 | 1.0 | 0.4 | 1.1 |
-| 2025-26 | 56 | 22.9 | 42.5 (7.7) | 85.0 (2.5) | 1.5 | 10.2 | 2.4 | 1.1 | 1.4 | 0.4 | 1.1 |
-| 2026-27 proj, Yahoo | 38 | - | 41.7 (3.7) | 84.2 (1.0) | 0.7 | 4.6 | 1.6 | 0.6 | 0.5 | 0.2 | 0.5 |
 | 2026-27 proj, ESPN | 65 | 23.0 | 42.0 (7.8) | 84.6 (2.4) | 1.5 | 10.1 | 2.8 | 1.1 | 1.3 | 0.4 | 1.1 |
+| 2026-27 proj, Yahoo | 38 | - | 41.7 (3.7) | 84.2 (1.0) | 0.7 | 4.6 | 1.6 | 0.6 | 0.5 | 0.2 | 0.5 |
+| 2025-26 | 56 | 22.9 | 42.5 (7.7) | 85.0 (2.5) | 1.5 | 10.2 | 2.4 | 1.1 | 1.4 | 0.4 | 1.1 |
+| 2024-25 | 63 | 24.5 | 41.2 (8.3) | 82.1 (2.0) | 1.6 | 10.0 | 4.6 | 1.3 | 1.0 | 0.4 | 1.1 |
+| 2023-24 | 51 | 20.4 | 39.7 (7.4) | 82.7 (1.5) | 1.1 | 8.2 | 3.5 | 1.5 | 0.7 | 0.2 | 1.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,10 +30,10 @@
 </details>
 
 **Current**
+- The newest note says he might start for the Lakers. Rotation choices under J.J. Redick are still unclear. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=2070), [09-30](https://youtu.be/BjXP9JODDSg?t=2070), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2316))
 - He left the Nets and plays for the Lakers this season. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=257))
 - The Nets preview says his offense did not develop enough to earn him a long-term rotation spot in Brooklyn. (verdict, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=257))
 - The Lakers have two open starting spots. Grimes, LaRavia and Mamukelashvili are the main names in the race, and the bench player is expected to still play about 27 minutes. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669))
-- The newest note says he might start for the Lakers. Rotation choices under J.J. Redick are still unclear. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=2070), [09-30](https://youtu.be/BjXP9JODDSg?t=2070), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2316))
 - LeBron James left for the Sixers and Rui Hachimura appears to be gone. That opens forward minutes and usage on the Lakers. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=306), [07-01](https://youtu.be/W3THnI7wWdA?t=872), [06-30](https://youtu.be/4GDfg2n2l8o?t=1388))
 - Josh says his shooting upside could help him do well next to Luka Doncic. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1356))
 

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 6 | 12.2 | 34.8 (3.8) | 83.3 (1.0) | 0.5 | 4.0 | 3.7 | 0.7 | 0.8 | 0.7 | 0.2 |
-| 2024-25 | 33 | 16.1 | 42.1 (5.2) | 76.2 (1.3) | 0.6 | 6.0 | 4.2 | 0.8 | 0.8 | 1.0 | 0.5 |
-| 2025-26 | 77 | 15.3 | 45.2 (3.8) | 64.5 (0.8) | 0.5 | 4.4 | 3.6 | 0.9 | 0.8 | 0.5 | 0.4 |
-| 2026-27 proj, Yahoo | 51 | - | 44.2 (4.2) | 72.9 (0.9) | 0.6 | 5.0 | 3.8 | 1.6 | 0.5 | 0.3 | 0.9 |
 | 2026-27 proj, ESPN | 70 | 15.4 | 45.1 (3.9) | 66.1 (0.8) | 0.5 | 4.6 | 3.6 | 0.9 | 0.8 | 0.5 | 0.4 |
+| 2026-27 proj, Yahoo | 51 | - | 44.2 (4.2) | 72.9 (0.9) | 0.6 | 5.0 | 3.8 | 1.6 | 0.5 | 0.3 | 0.9 |
+| 2025-26 | 77 | 15.3 | 45.2 (3.8) | 64.5 (0.8) | 0.5 | 4.4 | 3.6 | 0.9 | 0.8 | 0.5 | 0.4 |
+| 2024-25 | 33 | 16.1 | 42.1 (5.2) | 76.2 (1.3) | 0.6 | 6.0 | 4.2 | 0.8 | 0.8 | 1.0 | 0.5 |
+| 2023-24 | 6 | 12.2 | 34.8 (3.8) | 83.3 (1.0) | 0.5 | 4.0 | 3.7 | 0.7 | 0.8 | 0.7 | 0.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -37,9 +37,9 @@
 - If he plays small forward next to Caleb Wilson, he will likely contest fewer shots at the rim, which would cut his blocks. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=744))
 
 **Durable**
+- He scores very little. His projected points are a weak outlier against the top 250 pool. (fact, 2026-10-04; stats)
 - He is a solid defender, a good rebounder and a good steals generator. His shooting is up and down. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1644))
 - He turned 24.5% of his rim contests into blocks. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=744))
-- He scores very little. His projected points are a weak outlier against the top 250 pool. (fact, 2026-10-04; stats)
 
 **Tags**
 - Current: `injured now` (Broken foot, likely out at the start of the season), `questionable` (Yahoo status Q (Foot)), `trade risk` (Non-guaranteed contract on a roster that is two players over the limit), `cut candidate` (Only non-guaranteed contract on the Hawks, named as a possible cut)

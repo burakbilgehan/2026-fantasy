@@ -3,10 +3,10 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2024-25 | 61 | 17.1 | 60.4 (3.1) | 58.0 (0.8) | 0.0 | 4.2 | 3.6 | 1.2 | 0.5 | 0.5 | 0.6 |
-| 2025-26 | 82 | 22.1 | 65.3 (4.5) | 45.3 (1.4) | 0.0 | 6.5 | 5.1 | 2.3 | 0.9 | 0.7 | 1.2 |
-| 2026-27 proj, Yahoo | 74 | - | 64.9 (4.4) | 51.5 (1.3) | 0.0 | 6.3 | 5.0 | 2.1 | 0.8 | 0.1 | 1.3 |
 | 2026-27 proj, ESPN | 79 | 27.6 | 64.8 (5.5) | 46.3 (1.7) | 0.0 | 7.9 | 6.3 | 2.7 | 1.1 | 0.9 | 1.5 |
+| 2026-27 proj, Yahoo | 74 | - | 64.9 (4.4) | 51.5 (1.3) | 0.0 | 6.3 | 5.0 | 2.1 | 0.8 | 0.1 | 1.3 |
+| 2025-26 | 82 | 22.1 | 65.3 (4.5) | 45.3 (1.4) | 0.0 | 6.5 | 5.1 | 2.3 | 0.9 | 0.7 | 1.2 |
+| 2024-25 | 61 | 17.1 | 60.4 (3.1) | 58.0 (0.8) | 0.0 | 4.2 | 3.6 | 1.2 | 0.5 | 0.5 | 0.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -29,15 +29,15 @@
 </details>
 
 **Current**
-- Mark Williams is out long term with a torn labrum. One note gives 5 to 6 months. (fact, 2026-09-14, until 5 to 6 months from mid September 2026; [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200))
 - Experts expect him to share center minutes with Maluach, often as a small-ball five. Maluach looks more likely to start, and Phoenix wants its top 10 pick in the starting spot. (verdict, 2026-09-30; [08-23](https://youtu.be/hm5-fiCa5S4?t=1261), [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [09-30](https://youtu.be/BjXP9JODDSg?t=1747))
-- He put up big numbers at the end of last season while Williams had a foot issue. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1134))
+- Mark Williams is out long term with a torn labrum. One note gives 5 to 6 months. (fact, 2026-09-14, until 5 to 6 months from mid September 2026; [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200))
 - He would need about 35 minutes with no competition to matter in 12-team leagues. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2315))
+- He put up big numbers at the end of last season while Williams had a foot issue. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1134))
 
 **Durable**
+- He makes no threes and his FT% is very poor. Both are clear weak categories. (fact, 2026-10-04; stats)
 - He is not a good fantasy player because his usage is very low. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2315))
 - He has no shooting range beyond five feet. He is a smart passer, can put the ball on the floor and is a very underrated defender. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1261), [09-14](https://youtu.be/t4n9MAP2_14?t=2315))
-- He makes no threes and his FT% is very poor. Both are clear weak categories. (fact, 2026-10-04; stats)
 
 **Tags**
 - Current: `minutes competition` (Shares center minutes with Maluach, who looks more likely to start), `waiver watch` (Mark Williams is out long term. Worth watching if he wins the starting center job or gets heavy minutes)

@@ -26,10 +26,10 @@
 </details>
 
 **Current**
-- He is a rookie. The Lakers traded up one spot in the 2026 draft to select him. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1548))
+- The two open Lakers starting spots are mainly between Grimes, LaRavia and Mamukelashvili. Ziaire Williams might also start. (fact, 2026-09-30; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669), [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
 - In summer league he took almost 7 threes a game. He shot 42% FG, 29% on threes and 73% FT, and added little else. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1795))
 - Experts expect him to play 12 to 16 minutes and not to do much at first. He should not impact most leagues this season. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1795), [06-26](https://youtu.be/CLsUc0Sevos?t=1548))
-- The two open Lakers starting spots are mainly between Grimes, LaRavia and Mamukelashvili. Ziaire Williams might also start. (fact, 2026-09-30; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669), [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
+- He is a rookie. The Lakers traded up one spot in the 2026 draft to select him. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1548))
 - One expert likes how he fits next to Luka Doncic and Austin Reaves. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1548))
 
 **Durable**

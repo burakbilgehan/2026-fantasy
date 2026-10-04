@@ -224,3 +224,134 @@ td.heat.strong.bad span { color: color-mix(in oklab, var(--bad) 70%, var(--text)
   border-radius: 4px;
   padding: 0 4px;
 }
+
+/* Buttons that look like links (player names) */
+button.link {
+  border: 0; background: none; padding: 0; color: inherit; font: inherit; text-align: left; cursor: pointer;
+}
+button.link:hover { color: var(--accent); text-decoration: underline; }
+table.values tbody tr.clickable { cursor: pointer; }
+
+/* Player drawer (T-028) */
+.drawer-backdrop {
+  position: fixed; inset: 0; z-index: 50;
+  background: color-mix(in oklab, #000 35%, transparent);
+  display: flex; justify-content: flex-end;
+}
+.drawer {
+  width: min(760px, 100vw); height: 100%; overflow-y: auto;
+  background: var(--panel); border-left: 1px solid var(--line);
+  padding: 0 22px 40px; box-shadow: -12px 0 32px color-mix(in oklab, #000 18%, transparent);
+  outline: none;
+}
+.drawer-head {
+  position: sticky; top: 0; z-index: 2; background: var(--panel);
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  padding: 18px 0 8px; border-bottom: 1px solid var(--line);
+}
+.drawer-head h2 { margin: 0; font-family: var(--display); font-weight: 700; font-size: 1.5rem; letter-spacing: -0.02em; }
+.drawer-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; color: var(--muted); margin: 10px 0; }
+.drawer-meta .injury { margin-left: 0; font-size: 0.8rem; }
+.price-strip { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; margin-bottom: 6px; }
+.price {
+  background: var(--raised); border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px;
+  display: flex; flex-direction: column; min-width: 0;
+}
+.price:first-child { border-color: var(--accent); }
+.price-label { color: var(--muted); font-size: 0.78rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.price-value { font-family: var(--display); font-weight: 700; font-size: 1.3rem; font-variant-numeric: tabular-nums; }
+.drawer-section { border-top: 1px solid var(--line); margin-top: 14px; }
+.drawer-section > h3 { margin-top: 14px; }
+.muted { color: var(--muted); }
+
+.tag-row { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 6px; }
+.tag-group { color: var(--muted); font-size: 0.85rem; min-width: 64px; }
+.tag {
+  border: 1px solid var(--line); border-radius: 999px; padding: 1px 10px; font-size: 0.85rem;
+  background: var(--raised); cursor: default;
+}
+.tag.current { border-color: color-mix(in oklab, var(--accent) 50%, var(--line)); }
+
+table.mini { font-size: 0.86rem; }
+table.mini th, table.mini td { padding: 4px 10px 4px 0; }
+table.mini td.num, table.mini th.num { text-align: right; }
+table.mini tbody tr { border-bottom: 1px solid color-mix(in oklab, var(--line) 55%, transparent); }
+table.mini tr.selected td { color: var(--accent); font-weight: 600; }
+table.depth tr.slot-start { border-top: 1px solid var(--line); }
+
+.radar { margin: 0; max-width: 420px; }
+.radar svg { width: 100%; height: auto; overflow: visible; font-family: var(--ui); }
+.radar .ring { fill: none; stroke: var(--line); stroke-width: 1; }
+.radar .ring.avg { stroke: var(--muted); stroke-dasharray: 4 3; }
+.radar .spoke { stroke: var(--line); stroke-width: 1; }
+.radar .shape { fill: color-mix(in oklab, var(--accent) 22%, transparent); stroke: var(--accent); stroke-width: 2; stroke-linejoin: round; }
+.radar .dot.good { fill: var(--good); }
+.radar .dot.bad { fill: var(--bad); }
+.radar .dot.off { fill: var(--muted); }
+.radar .label { font-size: 12px; fill: var(--muted); }
+.radar .label.off { text-decoration: line-through; }
+.radar .val { font-weight: 700; fill: var(--muted); font-variant-numeric: tabular-nums; }
+.radar .val.good { fill: var(--good); }
+.radar .val.bad { fill: var(--bad); }
+.radar figcaption { margin-top: 4px; }
+
+details.article { border: 1px solid var(--line); border-radius: 8px; padding: 6px 10px; margin-bottom: 6px; background: var(--raised); }
+details.article > summary { cursor: pointer; font-weight: 500; }
+details.article > summary small { color: var(--muted); font-weight: 400; }
+
+/* Rendered knowledge pages */
+.md { font-size: 0.92rem; overflow-wrap: anywhere; }
+.md table { font-size: 0.82rem; margin: 8px 0 12px; display: block; overflow-x: auto; }
+.md th, .md td { padding: 3px 10px 3px 0; white-space: nowrap; border-bottom: 1px solid color-mix(in oklab, var(--line) 55%, transparent); }
+.md ul { padding-left: 1.2em; margin: 6px 0 10px; }
+.md li { margin-bottom: 4px; }
+.md a { color: var(--accent); }
+.md code { font-size: 0.85em; background: var(--raised); border: 1px solid var(--line); border-radius: 4px; padding: 0 4px; }
+.md details { margin: 6px 0 10px; }
+.md details > summary { cursor: pointer; color: var(--muted); }
+.md sub { color: var(--muted); }
+.md h2 { font-family: var(--display); font-size: 1.05rem; margin: 14px 0 6px; }
+
+@media (max-width: 600px) {
+  .drawer { padding: 0 16px 32px; }
+  .price-strip { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+/* Player list on narrow screens: two lines per player, no side scroll */
+.mlist { border: 1px solid var(--line); border-radius: 10px; background: var(--raised); font-variant-numeric: tabular-nums; }
+.mrow { padding: 6px 6px; border-bottom: 1px solid color-mix(in oklab, var(--line) 55%, transparent); cursor: pointer; }
+.mrow:not(.mhead):hover { background: var(--row-hover); }
+.mtop { display: grid; grid-template-columns: 1.4rem minmax(0, 1fr) 2.3rem 2.7rem 2.2rem 2.2rem; gap: 3px; align-items: center; }
+.mcats { display: grid; grid-template-columns: repeat(9, minmax(0, 1fr)); gap: 2px; margin-top: 4px; font-size: 0.74rem; }
+.mcats > span { text-align: center; }
+/* Category name above each value, so a row reads without the sticky header. */
+.mcats .mcat { display: block; font-size: 0.56rem; line-height: 1.1; color: var(--muted); letter-spacing: 0.02em; }
+.mcats > span > span, .mnum > span { display: block; border-radius: 5px; padding: 1px 0; }
+.mnum { text-align: right; font-size: 0.78rem; }
+.mnum > span { padding: 1px 3px; }
+.mdollars { font-weight: 700; font-size: 0.92rem; }
+.mrank { color: var(--muted); font-size: 0.8rem; }
+.mname { display: flex; flex-direction: column; min-width: 0; }
+.mplayer { font-weight: 500; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.mname small { color: var(--muted); font-size: 0.7rem; line-height: 1.25; }
+.mhead { position: sticky; top: 0; z-index: 2; background: var(--raised); cursor: default; border-bottom: 1px solid var(--line); }
+.mhead button { border: 0; background: none; padding: 0; color: var(--muted); font-size: 0.74rem; }
+.mhead button.sorted { color: var(--accent); }
+.mhead .mtop > button { text-align: left; }
+.mlist .heat.good > span { background: color-mix(in oklab, var(--good) calc(var(--a) * var(--heat-max)), transparent); }
+.mlist .heat.bad > span { background: color-mix(in oklab, var(--bad) calc(var(--a) * var(--heat-max)), transparent); }
+.mlist .heat.strong.good > span { color: color-mix(in oklab, var(--good) 70%, var(--text)); font-weight: 700; }
+.mlist .heat.strong.bad > span { color: color-mix(in oklab, var(--bad) 70%, var(--text)); font-weight: 700; }
+
+@media (max-width: 720px) {
+  .panel.wide { padding: 12px 10px; }
+  .controls { gap: 8px 10px; }
+  .controls label { flex: 1 1 45%; justify-content: space-between; }
+  .controls label select { min-width: 0; max-width: 70%; }
+  .controls .search { margin-left: 0; flex: 1 1 100%; min-width: 0; }
+  .md table { font-size: 0.72rem; }
+  .md th, .md td { padding: 2px 6px 2px 0; }
+  table.mini { font-size: 0.8rem; }
+}
+.musg { display: inline-block; }
+.musg > span { display: inline-block; border-radius: 4px; padding: 0 3px; }

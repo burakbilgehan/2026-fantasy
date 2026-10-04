@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 78 | 35.7 | 45.9 (18.8) | 79.4 (3.4) | 2.6 | 22.5 | 5.3 | 6.4 | 1.4 | 0.3 | 2.6 |
-| 2024-25 | 31 | 32.6 | 39.3 (15.9) | 82.3 (4.0) | 1.7 | 17.5 | 6.5 | 7.4 | 2.0 | 0.4 | 3.4 |
-| 2025-26 | 14 | 27.9 | 48.4 (13.0) | 86.7 (3.2) | 1.4 | 16.7 | 5.4 | 6.4 | 1.6 | 0.2 | 3.4 |
-| 2026-27 proj, Yahoo | 65 | - | 43.9 (14.5) | 82.0 (3.2) | 1.8 | 17.2 | 6.6 | 6.6 | 1.6 | 0.3 | 3.6 |
 | 2026-27 proj, ESPN | 68 | 32.4 | 44.7 (16.5) | 81.2 (3.3) | 2.1 | 19.5 | 5.4 | 6.4 | 1.5 | 0.3 | 2.8 |
+| 2026-27 proj, Yahoo | 65 | - | 43.9 (14.5) | 82.0 (3.2) | 1.8 | 17.2 | 6.6 | 6.6 | 1.6 | 0.3 | 3.6 |
+| 2025-26 | 14 | 27.9 | 48.4 (13.0) | 86.7 (3.2) | 1.4 | 16.7 | 5.4 | 6.4 | 1.6 | 0.2 | 3.4 |
+| 2024-25 | 31 | 32.6 | 39.3 (15.9) | 82.3 (4.0) | 1.7 | 17.5 | 6.5 | 7.4 | 2.0 | 0.4 | 3.4 |
+| 2023-24 | 78 | 35.7 | 45.9 (18.8) | 79.4 (3.4) | 2.6 | 22.5 | 5.3 | 6.4 | 1.4 | 0.3 | 2.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,18 +30,18 @@
 </details>
 
 **Current**
-- He came back from a torn Achilles last season and played on limited minutes. He still finished about 53rd per game. (fact, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=538), [09-17](https://youtu.be/ahNxsoU8Hx4?t=761), [08-19](https://youtu.be/J1Eg3uaAICU?t=1265))
 - He is expected to start at point guard for the Pelicans. He is still the team's best point guard, ahead of Jeremiah Fears. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [09-21](https://youtu.be/egRrai3Ax38?t=538), [09-21](https://youtu.be/egRrai3Ax38?t=545))
+- Experts see him as undervalued on every site. One sees him as a top 30 to 35 player. They like him in round 4 or even round 3 and prefer him to Derrick White. One expert called a pick at 47 in a mock draft a good one. His ESPN price is also seen as no concern. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=841), [09-29](https://youtu.be/XnIWJyBB0EM?t=1980), [09-21](https://youtu.be/egRrai3Ax38?t=538), [09-21](https://youtu.be/egRrai3Ax38?t=1861), [09-17](https://youtu.be/ahNxsoU8Hx4?t=761), [09-09](https://youtu.be/7BllEsdNLoM?t=1687), [08-19](https://youtu.be/J1Eg3uaAICU?t=1265), [08-11](https://youtu.be/OdDkXFhoKsc?t=882))
+- He came back from a torn Achilles last season and played on limited minutes. He still finished about 53rd per game. (fact, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=538), [09-17](https://youtu.be/ahNxsoU8Hx4?t=761), [08-19](https://youtu.be/J1Eg3uaAICU?t=1265))
 - Experts expect more minutes and better shooting this season. They say he should not start on a minutes restriction and that Jeremiah Fears will not keep him off the floor. One projection has him at about 33 minutes and 25 usage. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=538), [08-19](https://youtu.be/J1Eg3uaAICU?t=1265), [09-09](https://youtu.be/7BllEsdNLoM?t=1687))
 - One expert does not expect him to sit back-to-backs. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=761))
-- Experts see him as undervalued on every site. One sees him as a top 30 to 35 player. They like him in round 4 or even round 3 and prefer him to Derrick White. One expert called a pick at 47 in a mock draft a good one. His ESPN price is also seen as no concern. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=841), [09-29](https://youtu.be/XnIWJyBB0EM?t=1980), [09-21](https://youtu.be/egRrai3Ax38?t=538), [09-21](https://youtu.be/egRrai3Ax38?t=1861), [09-17](https://youtu.be/ahNxsoU8Hx4?t=761), [09-09](https://youtu.be/7BllEsdNLoM?t=1687), [08-19](https://youtu.be/J1Eg3uaAICU?t=1265), [08-11](https://youtu.be/OdDkXFhoKsc?t=882))
 - He turned 70% of his deflections into steals last season. If that rate regresses, more minutes may not bring more steals. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1363))
 
 **Durable**
-- He has a torn Achilles in his injury history. (fact, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=538), [09-17](https://youtu.be/ahNxsoU8Hx4?t=761), [08-19](https://youtu.be/J1Eg3uaAICU?t=1265))
 - Steals and assists are his best categories. One expert thinks he could be a two-steals player. (verdict, 2026-10-04; stats, [08-19](https://youtu.be/J1Eg3uaAICU?t=1261))
 - He rebounds well for a guard. (fact, 2026-10-04; stats)
 - Turnovers are his clear weak category. He turns the ball over far more than the player pool does. (fact, 2026-10-04; stats)
+- He has a torn Achilles in his injury history. (fact, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=538), [09-17](https://youtu.be/ahNxsoU8Hx4?t=761), [08-19](https://youtu.be/J1Eg3uaAICU?t=1265))
 - He is not a lights-out shooter. He can make threes but does not space the floor. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1304))
 
 **Tags**

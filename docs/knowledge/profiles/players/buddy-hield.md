@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 84 | 25.7 | 43.6 (10.1) | 88.1 (0.7) | 2.6 | 12.1 | 3.2 | 2.8 | 0.8 | 0.5 | 1.2 |
-| 2024-25 | 82 | 22.8 | 41.7 (9.6) | 82.8 (0.8) | 2.5 | 11.1 | 3.2 | 1.6 | 0.8 | 0.3 | 1.1 |
-| 2025-26 | 51 | 16.1 | 43.7 (6.4) | 81.1 (0.7) | 1.5 | 7.6 | 2.3 | 1.4 | 0.8 | 0.2 | 0.9 |
-| 2026-27 proj, Yahoo | 55 | - | 43.2 (4.3) | 85.0 (0.4) | 1.2 | 5.2 | 1.4 | 0.7 | 0.4 | 0.3 | 0.6 |
 | 2026-27 proj, ESPN | 62 | 18.2 | 43.1 (7.4) | 83.7 (0.7) | 1.8 | 8.7 | 2.5 | 1.5 | 0.8 | 0.2 | 1.0 |
+| 2026-27 proj, Yahoo | 55 | - | 43.2 (4.3) | 85.0 (0.4) | 1.2 | 5.2 | 1.4 | 0.7 | 0.4 | 0.3 | 0.6 |
+| 2025-26 | 51 | 16.1 | 43.7 (6.4) | 81.1 (0.7) | 1.5 | 7.6 | 2.3 | 1.4 | 0.8 | 0.2 | 0.9 |
+| 2024-25 | 82 | 22.8 | 41.7 (9.6) | 82.8 (0.8) | 2.5 | 11.1 | 3.2 | 1.6 | 0.8 | 0.3 | 1.1 |
+| 2023-24 | 84 | 25.7 | 43.6 (10.1) | 88.1 (0.7) | 2.6 | 12.1 | 3.2 | 2.8 | 0.8 | 0.5 | 1.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,16 +30,16 @@
 </details>
 
 **Current**
-- He was traded from Charlotte to Chicago. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=141))
 - He is a bench guard in Chicago. The bench order is Tre Jones as sixth man, then Isaac Okoro, Jalen Smith and Buddy Hield. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1383), [09-27](https://youtu.be/CRLSsoGhb2w?t=141), [09-27](https://youtu.be/CRLSsoGhb2w?t=159))
+- Do not draft him. Even if he starts, he is not an automatic add. He is only a three-point streamer. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1723), [09-27](https://youtu.be/CRLSsoGhb2w?t=141))
+- He was traded from Charlotte to Chicago. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=141))
 - His contract is guaranteed, mostly as matching salary. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=973))
 - A buyout is possible. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=973))
-- Do not draft him. Even if he starts, he is not an automatic add. He is only a three-point streamer. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1723), [09-27](https://youtu.be/CRLSsoGhb2w?t=141))
 
 **Durable**
+- He is no longer an elite three-point shooter, and he adds little in the other categories. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1723), [09-27](https://youtu.be/CRLSsoGhb2w?t=138))
 - He is 33. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=138))
 - His three-point attempt rate stays steady (67 and 65), but his three-point percentage fell from 39 to 37 to 35. (fact, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1420))
-- He is no longer an elite three-point shooter, and he adds little in the other categories. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1723), [09-27](https://youtu.be/CRLSsoGhb2w?t=138))
 
 **Tags**
 - Current: `new team` (Traded from Charlotte to Chicago)

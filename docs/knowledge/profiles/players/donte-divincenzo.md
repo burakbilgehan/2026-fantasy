@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 81 | 29.2 | 44.3 (12.4) | 75.4 (1.4) | 3.5 | 15.5 | 3.7 | 2.7 | 1.3 | 0.4 | 1.4 |
-| 2024-25 | 62 | 25.9 | 42.2 (9.6) | 77.8 (1.0) | 2.8 | 11.7 | 3.7 | 3.6 | 1.2 | 0.3 | 1.6 |
-| 2025-26 | 82 | 30.5 | 40.6 (10.2) | 74.3 (1.3) | 3.0 | 12.2 | 4.1 | 3.8 | 1.3 | 0.4 | 1.4 |
-| 2026-27 proj, Yahoo | 33 | - | 41.9 (8.1) | 75.0 (1.0) | 2.4 | 9.9 | 3.0 | 2.8 | 1.0 | 0.3 | 1.2 |
 | 2026-27 proj, ESPN | 4 | 24.1 | 42.4 (8.2) | 75.0 (1.0) | 2.5 | 10.2 | 3.2 | 3.0 | 1.0 | 0.2 | 1.2 |
+| 2026-27 proj, Yahoo | 33 | - | 41.9 (8.1) | 75.0 (1.0) | 2.4 | 9.9 | 3.0 | 2.8 | 1.0 | 0.3 | 1.2 |
+| 2025-26 | 82 | 30.5 | 40.6 (10.2) | 74.3 (1.3) | 3.0 | 12.2 | 4.1 | 3.8 | 1.3 | 0.4 | 1.4 |
+| 2024-25 | 62 | 25.9 | 42.2 (9.6) | 77.8 (1.0) | 2.8 | 11.7 | 3.7 | 3.6 | 1.2 | 0.3 | 1.6 |
+| 2023-24 | 81 | 29.2 | 44.3 (12.4) | 75.4 (1.4) | 3.5 | 15.5 | 3.7 | 2.7 | 1.3 | 0.4 | 1.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,14 +30,14 @@
 </details>
 
 **Current**
-- He is out with an Achilles injury until at least about March 2027, so he will miss most of the season. (fact, 2026-08-19, until about March 2027; [08-19](https://youtu.be/2mxpEpGU3H8?t=517), [06-23](https://youtu.be/9tb1ARBEmQU?t=753), [06-22](https://youtu.be/HxQjagSTTAM?t=883), stats)
-- He is not a draft target in our auction. A high ranking for him is a mistake because he will miss most of the season. (verdict, 2026-08-19; [06-23](https://youtu.be/9tb1ARBEmQU?t=753), [08-19](https://youtu.be/2mxpEpGU3H8?t=517))
 - If he returns around March, he could find minutes and usage. Minnesota lost Randle and Reid, the bench is thin, and the bench unit has no ball handlers. (verdict, 2026-10-02; [07-01](https://youtu.be/W3THnI7wWdA?t=864), [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [10-02](https://youtu.be/ZYllcj4o6_A?t=2323))
 - Minnesota has only two games in the week starting March 15. That is week 20 of our fantasy playoffs, the window where he could return. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
+- He is out with an Achilles injury until at least about March 2027, so he will miss most of the season. (fact, 2026-08-19, until about March 2027; [08-19](https://youtu.be/2mxpEpGU3H8?t=517), [06-23](https://youtu.be/9tb1ARBEmQU?t=753), [06-22](https://youtu.be/HxQjagSTTAM?t=883), stats)
+- He is not a draft target in our auction. A high ranking for him is a mistake because he will miss most of the season. (verdict, 2026-08-19; [06-23](https://youtu.be/9tb1ARBEmQU?t=753), [08-19](https://youtu.be/2mxpEpGU3H8?t=517))
 
 **Durable**
-- His fantasy value depends on minutes and decent usage. The expert sees him as a fairly consistent shooter. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=859))
 - Threes are his main category strength. FG%, points, rebounds and blocks project below the top 250 pool. (fact, 2026-10-04; stats)
+- His fantasy value depends on minutes and decent usage. The expert sees him as a fairly consistent shooter. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=859))
 
 **Tags**
 - Current: `injured now` (Achilles injury, Yahoo status O, out until at least about March; until about March 2027), `bad playoff schedule` (Minnesota has a two-game week starting March 15 (our week 20))

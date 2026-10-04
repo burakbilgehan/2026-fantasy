@@ -3,8 +3,8 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, Yahoo | 74 | - | 46.6 (8.5) | 80.8 (2.7) | 1.3 | 11.4 | 5.5 | 2.5 | 1.0 | 0.9 | 1.2 |
 | 2026-27 proj, ESPN | 71 | 24.6 | 47.0 (8.8) | 78.9 (2.6) | 0.3 | 10.6 | 5.1 | 2.2 | 1.0 | 0.8 | 1.5 |
+| 2026-27 proj, Yahoo | 74 | - | 46.6 (8.5) | 80.8 (2.7) | 1.3 | 11.4 | 5.5 | 2.5 | 1.0 | 0.9 | 1.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -28,25 +28,25 @@
 
 **Current**
 - He is a rookie, and he started the Warriors' preseason opener. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=562))
+- Golden State's depth is very poor, so minutes should go up across the rotation. Outside of Curry, no one on the roster creates his own shot. (fact, 2026-10-02; [08-22](https://youtu.be/LXZLrL90crE?t=953), [10-02](https://youtu.be/ZYllcj4o6_A?t=551))
+- Experts call him a round 10 to 11 flier. One would take him as high as pick 100 in category leagues. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=562), [09-30](https://youtu.be/MUbNYdjpUDM?t=803), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2276))
 - Experts project him as a starter, next to Curry, Podziemski, Green and a center (Horford in the newest note). He is second in minutes among the wings. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=678), [08-22](https://youtu.be/LXZLrL90crE?t=1779), [08-22](https://youtu.be/LXZLrL90crE?t=270))
 - His starting spot is not secure. Steve Kerr rarely starts rookies, has little patience for them and often changes his starting lineup a few games in. Melton and Santos also compete for wing minutes. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=237), [08-22](https://youtu.be/LXZLrL90crE?t=301), [08-22](https://youtu.be/LXZLrL90crE?t=415), [08-02](https://youtu.be/TOn-D1SV7a8?t=922))
 - The Porzingis news gives him more usage but not necessarily more minutes. His minutes go up only if Draymond Green plays more center. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=788), [09-30](https://youtu.be/MUbNYdjpUDM?t=678))
-- Jimmy Butler and Moses Moody are out early in the season. Butler is out for at least half the season. (fact, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1487), [07-17](https://youtu.be/NYTH7uQsPCM?t=1876))
-- His numbers are expected to drop when Moody and Butler return. One expert also expects Warriors players to fade as the season goes on. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2276), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
-- Golden State's depth is very poor, so minutes should go up across the rotation. Outside of Curry, no one on the roster creates his own shot. (fact, 2026-10-02; [08-22](https://youtu.be/LXZLrL90crE?t=953), [10-02](https://youtu.be/ZYllcj4o6_A?t=551))
-- Experts expect rookie struggles: problems on defense, and his shooting should cool off after a hot Summer League. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1779), [08-02](https://youtu.be/TOn-D1SV7a8?t=901))
 - His ADP is 116 on Yahoo, 134 on ESPN and 167 on Fantrax. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=803))
-- Experts call him a round 10 to 11 flier. One would take him as high as pick 100 in category leagues. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=562), [09-30](https://youtu.be/MUbNYdjpUDM?t=803), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2276))
 - The Warriors' schedule is good for fantasy playoffs that end March 28. They have 15 back-to-backs, tied for second most in the league. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [08-16](https://youtu.be/gf_6GveiAls?t=991))
+- His numbers are expected to drop when Moody and Butler return. One expert also expects Warriors players to fade as the season goes on. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2276), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
+- Jimmy Butler and Moses Moody are out early in the season. Butler is out for at least half the season. (fact, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1487), [07-17](https://youtu.be/NYTH7uQsPCM?t=1876))
+- Experts expect rookie struggles: problems on defense, and his shooting should cool off after a hot Summer League. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1779), [08-02](https://youtu.be/TOn-D1SV7a8?t=901))
 
 **Durable**
-- He is an older rookie. He is 24 at the start of his first NBA season. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=903), [08-02](https://youtu.be/TOn-D1SV7a8?t=901), [06-23](https://youtu.be/-rgXhs5BHiw?t=693))
+- Threes are his weakest category for a forward. The two sites disagree a lot here: Yahoo projects 1.3 threes per game, ESPN 0.3. (fact, 2026-10-04; stats)
 - He is a low-usage player who fits in around others. He is not a high-usage creator. (verdict, 2026-10-02; [09-30](https://youtu.be/MUbNYdjpUDM?t=538), [09-30](https://youtu.be/MUbNYdjpUDM?t=873), [10-02](https://youtu.be/ZYllcj4o6_A?t=562))
-- He is a versatile forward. He adds spacing, rebounding, passing and defense, and he can grab a rebound and push the ball himself. He has no clear position. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=903), [06-23](https://youtu.be/-rgXhs5BHiw?t=693))
 - His fantasy value comes from a spread of rebounds, assists, steals and blocks, not from one standout category. (verdict, 2026-10-02; [09-30](https://youtu.be/MUbNYdjpUDM?t=873), [10-02](https://youtu.be/ZYllcj4o6_A?t=562), stats)
 - His shooting is inconsistent, and his shot is iffy. (verdict, 2026-10-02; [09-30](https://youtu.be/MUbNYdjpUDM?t=538), [06-25](https://youtu.be/lOshTzDA4SA?t=1934), [10-02](https://youtu.be/ZYllcj4o6_A?t=562))
-- Threes are his weakest category for a forward. The two sites disagree a lot here: Yahoo projects 1.3 threes per game, ESPN 0.3. (fact, 2026-10-04; stats)
 - His free throw shooting is a question. One expert calls him a poor free throw shooter, but both site projections have him near 80%. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=873), stats)
+- He is an older rookie. He is 24 at the start of his first NBA season. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=903), [08-02](https://youtu.be/TOn-D1SV7a8?t=901), [06-23](https://youtu.be/-rgXhs5BHiw?t=693))
+- He is a versatile forward. He adds spacing, rebounding, passing and defense, and he can grab a rebound and push the ball himself. He has no clear position. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=903), [06-23](https://youtu.be/-rgXhs5BHiw?t=693))
 - Experts disagree on his defense. One calls him good defensively, and others point to defensive issues. His athletic limits are also a concern. (verdict, 2026-08-02; [06-25](https://youtu.be/lOshTzDA4SA?t=1934), [07-21](https://youtu.be/RyzcCGChYgs?t=2072), [08-02](https://youtu.be/TOn-D1SV7a8?t=901), [06-22](https://youtu.be/HxQjagSTTAM?t=692))
 
 **Tags**

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 77 | 31.7 | 63.4 (10.6) | 74.2 (4.1) | 0.0 | 16.5 | 10.5 | 2.7 | 0.7 | 1.1 | 1.6 |
-| 2024-25 | 82 | 28.0 | 70.6 (7.8) | 71.8 (3.4) | 0.0 | 13.5 | 9.7 | 1.9 | 0.9 | 0.9 | 1.2 |
-| 2025-26 | 56 | 27.2 | 63.8 (9.4) | 70.9 (4.7) | 0.0 | 15.4 | 8.5 | 1.8 | 1.0 | 0.8 | 1.3 |
-| 2026-27 proj, Yahoo | 68 | - | 66.1 (8.7) | 71.8 (3.9) | 0.0 | 14.3 | 9.1 | 2.0 | 0.9 | 0.9 | 1.3 |
 | 2026-27 proj, ESPN | 71 | 30.3 | 65.6 (9.7) | 72.5 (4.2) | 0.0 | 15.8 | 10.0 | 2.2 | 0.9 | 1.0 | 1.4 |
+| 2026-27 proj, Yahoo | 68 | - | 66.1 (8.7) | 71.8 (3.9) | 0.0 | 14.3 | 9.1 | 2.0 | 0.9 | 0.9 | 1.3 |
+| 2025-26 | 56 | 27.2 | 63.8 (9.4) | 70.9 (4.7) | 0.0 | 15.4 | 8.5 | 1.8 | 1.0 | 0.8 | 1.3 |
+| 2024-25 | 82 | 28.0 | 70.6 (7.8) | 71.8 (3.4) | 0.0 | 13.5 | 9.7 | 1.9 | 0.9 | 0.9 | 1.2 |
+| 2023-24 | 77 | 31.7 | 63.4 (10.6) | 74.2 (4.1) | 0.0 | 16.5 | 10.5 | 2.7 | 0.7 | 1.1 | 1.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,26 +30,26 @@
 </details>
 
 **Current**
+- Experts value him around rank 70 to 85. He is a boring pick with little upside and is a solid choice around pick 85, or around 70 if you need a center. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1414), [09-29](https://youtu.be/NmdNvAz08oE?t=957), [09-29](https://youtu.be/NmdNvAz08oE?t=1601), [09-14](https://youtu.be/t4n9MAP2_14?t=1671), [08-19](https://youtu.be/J1Eg3uaAICU?t=1729))
 - Allen is in the projected starting lineup at center with James Harden, Donovan Mitchell, Peyton Watson and Evan Mobley. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=397), [08-24](https://youtu.be/rnq3118kfhY?t=510))
 - Cleveland may play Mobley more at center and close games with him there after adding Peyton Watson. The coach has not shown whether he will do that or build around Allen and Harden pick-and-rolls. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=362), [09-29](https://youtu.be/NmdNvAz08oE?t=1021), [09-14](https://youtu.be/t4n9MAP2_14?t=1671), [09-14](https://youtu.be/t4n9MAP2_14?t=1684))
-- His minutes sometimes drop, and he sometimes sits in fourth quarters. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=611))
 - Experts do not expect him to reach 30 minutes a game this season. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1021))
 - Cleveland's big-man depth is very thin. Behind Mobley and Allen there is only Thomas Bryant, then Ernest Udeh Jr. and Khalifa Diop. Dean Wade is gone, so the team also lost its small-ball center option. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1534), [08-24](https://youtu.be/rnq3118kfhY?t=1222), [09-14](https://youtu.be/t4n9MAP2_14?t=1684), [09-14](https://youtu.be/t4n9MAP2_14?t=1671))
-- The weak backup center group and Wade's departure help protect his role. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1671))
 - Without Harden, Allen averaged 19 points and 11 rebounds per 36 minutes on 62% shooting. With Harden, he averaged 25 points and 13 rebounds per 36 minutes on 71% shooting, with a usage rate of 23. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=922))
 - Playing with Harden could lift his efficiency. If he shoots 66 to 67% on a usage rate of 21 to 22, he could score about 17 points and finish as a top 70 player. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=957), [09-29](https://youtu.be/NmdNvAz08oE?t=974))
 - Last season he finished around 69th to 79th, depending on format, and 79th per game. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=891), [08-19](https://youtu.be/J1Eg3uaAICU?t=1729))
-- Experts value him around rank 70 to 85. He is a boring pick with little upside and is a solid choice around pick 85, or around 70 if you need a center. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1414), [09-29](https://youtu.be/NmdNvAz08oE?t=957), [09-29](https://youtu.be/NmdNvAz08oE?t=1601), [09-14](https://youtu.be/t4n9MAP2_14?t=1671), [08-19](https://youtu.be/J1Eg3uaAICU?t=1729))
 - Experts would not draft him at his ESPN rank, which they put at 49 to 53. One calls him his biggest fade at that price. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=891), [09-29](https://youtu.be/NmdNvAz08oE?t=1601), [09-22](https://youtu.be/QbdrhJd7LiA?t=1699))
 - Cleveland has the most back-to-backs in the league. With a March 28 end, the team plays 4, 3 and then 2 games in the fantasy playoff weeks, so the finals week is a two-game week. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [09-29](https://youtu.be/NmdNvAz08oE?t=1907), [08-16](https://youtu.be/gf_6GveiAls?t=930), [08-16](https://youtu.be/gf_6GveiAls?t=1536))
-- One expert says the two-game week does not matter much for him. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1562))
 - He has no current injury concern. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1808))
+- The weak backup center group and Wade's departure help protect his role. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1671))
+- His minutes sometimes drop, and he sometimes sits in fourth quarters. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=611))
+- One expert says the two-game week does not matter much for him. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1562))
 
 **Durable**
-- Allen's main strengths are rebounds and field goal percentage. He no longer blocks many shots. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=974), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1413), stats)
 - He gives a large FG% boost on solid volume. (fact, 2026-10-04; stats)
-- He usually shoots around 64% from the field. His true level is probably between his last two seasons, 63.8% and 70.6%. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=974), [07-16](https://youtu.be/-y6p5PYLf00?t=1778))
 - He makes no threes. (fact, 2026-10-04; stats)
+- Allen's main strengths are rebounds and field goal percentage. He no longer blocks many shots. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=974), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1413), stats)
+- He usually shoots around 64% from the field. His true level is probably between his last two seasons, 63.8% and 70.6%. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=974), [07-16](https://youtu.be/-y6p5PYLf00?t=1778))
 - Experts call him a clear example of nine-cat fluff. Z-scores that include turnovers make him look better than his real head-to-head value. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=863))
 - He had a knee injury late last season. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=611))
 

@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 35 | 23.1 | 38.9 (8.7) | 82.6 (3.1) | 1.5 | 10.8 | 3.7 | 1.7 | 0.8 | 0.3 | 1.3 |
-| 2024-25 | 66 | 20.5 | 47.5 (5.1) | 67.8 (1.7) | 0.9 | 6.9 | 3.9 | 2.4 | 0.9 | 0.3 | 1.3 |
-| 2025-26 | 82 | 25.2 | 45.9 (6.4) | 76.3 (1.9) | 1.0 | 8.2 | 4.0 | 1.8 | 1.3 | 0.5 | 1.1 |
-| 2026-27 proj, Yahoo | 69 | - | 46.3 (7.3) | 78.3 (2.3) | 1.2 | 9.7 | 4.7 | 2.4 | 1.3 | 0.5 | 0.5 |
 | 2026-27 proj, ESPN | 77 | 29.2 | 45.7 (7.5) | 75.7 (2.2) | 1.1 | 9.6 | 4.7 | 2.2 | 1.4 | 0.5 | 1.3 |
+| 2026-27 proj, Yahoo | 69 | - | 46.3 (7.3) | 78.3 (2.3) | 1.2 | 9.7 | 4.7 | 2.4 | 1.3 | 0.5 | 0.5 |
+| 2025-26 | 82 | 25.2 | 45.9 (6.4) | 76.3 (1.9) | 1.0 | 8.2 | 4.0 | 1.8 | 1.3 | 0.5 | 1.1 |
+| 2024-25 | 66 | 20.5 | 47.5 (5.1) | 67.8 (1.7) | 0.9 | 6.9 | 3.9 | 2.4 | 0.9 | 0.3 | 1.3 |
+| 2023-24 | 35 | 23.1 | 38.9 (8.7) | 82.6 (3.1) | 1.5 | 10.8 | 3.7 | 1.7 | 0.8 | 0.3 | 1.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,13 +30,13 @@
 </details>
 
 **Current**
-- LeBron James left for the Sixers and Rui Hachimura appears to be gone too, which opens a lot of forward minutes on the Lakers. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=306), [07-01](https://youtu.be/W3THnI7wWdA?t=872), [06-30](https://youtu.be/4GDfg2n2l8o?t=1388))
 - He is one of the main candidates for the two open Lakers starting spots, along with Grimes and Mamukelashvili. Ziaire Williams might also start. (fact, 2026-09-30; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669), [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
+- He is a Tier 8 small forward and a deep league or streaming option. Ranking him is a hedge. If he does not start, the speaker will move off him. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=2036), [07-16](https://youtu.be/-y6p5PYLf00?t=655))
+- LeBron James left for the Sixers and Rui Hachimura appears to be gone too, which opens a lot of forward minutes on the Lakers. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=306), [07-01](https://youtu.be/W3THnI7wWdA?t=872), [06-30](https://youtu.be/4GDfg2n2l8o?t=1388))
 - Andy projects him as the starting power forward because he is the best option available. Andy expects only about 20 minutes a night, like A.C. Green. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=599))
 - The experts disagree on his minutes. One preview says whoever loses the starting battle still plays about 27 minutes. Other notes expect only 20-plus minutes. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669), [08-04](https://youtu.be/_WjOjp6Qu8E?t=599), [07-16](https://youtu.be/-y6p5PYLf00?t=655))
-- His 3P% dropped to 32 last season, from 42 the season before. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=655))
 - Josh says he played well last season, especially when many teammates were out. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=438))
-- He is a Tier 8 small forward and a deep league or streaming option. Ranking him is a hedge. If he does not start, the speaker will move off him. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=2036), [07-16](https://youtu.be/-y6p5PYLf00?t=655))
+- His 3P% dropped to 32 last season, from 42 the season before. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=655))
 
 **Durable**
 - He is a category-only player. Steals are his standout category. He adds little in points and threes. (verdict, 2026-10-04; [09-10](https://youtu.be/dlo7L8Ru91A?t=2036), stats)

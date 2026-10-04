@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 60 | 34.9 | 47.5 (15.7) | 78.1 (4.2) | 1.7 | 19.9 | 8.2 | 6.0 | 1.2 | 1.5 | 2.8 |
-| 2024-25 | 65 | 32.9 | 44.6 (16.4) | 75.5 (4.6) | 1.2 | 19.3 | 7.7 | 5.8 | 1.4 | 1.0 | 2.8 |
-| 2025-26 | 80 | 33.5 | 50.7 (14.0) | 81.5 (3.7) | 0.8 | 18.1 | 7.5 | 5.9 | 1.4 | 1.4 | 2.6 |
-| 2026-27 proj, Yahoo | 72 | - | 48.2 (15.3) | 79.0 (4.2) | 1.1 | 19.2 | 7.7 | 5.0 | 1.4 | 1.3 | 2.8 |
 | 2026-27 proj, ESPN | 72 | 33.8 | 48.4 (15.0) | 79.3 (4.1) | 1.0 | 18.8 | 7.7 | 6.0 | 1.4 | 1.3 | 2.7 |
+| 2026-27 proj, Yahoo | 72 | - | 48.2 (15.3) | 79.0 (4.2) | 1.1 | 19.2 | 7.7 | 5.0 | 1.4 | 1.3 | 2.8 |
+| 2025-26 | 80 | 33.5 | 50.7 (14.0) | 81.5 (3.7) | 0.8 | 18.1 | 7.5 | 5.9 | 1.4 | 1.4 | 2.6 |
+| 2024-25 | 65 | 32.9 | 44.6 (16.4) | 75.5 (4.6) | 1.2 | 19.3 | 7.7 | 5.8 | 1.4 | 1.0 | 2.8 |
+| 2023-24 | 60 | 34.9 | 47.5 (15.7) | 78.1 (4.2) | 1.7 | 19.9 | 8.2 | 6.0 | 1.2 | 1.5 | 2.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,18 +30,18 @@
 </details>
 
 **Current**
+- Experts value him around picks 12 to 17 in 9-cat, so a late first or early second round pick. ESPN's rank of 10 is too high. An ESPN ADP of 31 is too late. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=2197), [09-19](https://youtu.be/uarqbNA2dFk?t=1716), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2266), [09-16](https://youtu.be/2A2JbUN-kc0?t=2139), [09-14](https://youtu.be/t4n9MAP2_14?t=346), [09-14](https://youtu.be/LM0cRCGoAUQ?t=495), [08-19](https://youtu.be/J1Eg3uaAICU?t=660), [08-16](https://youtu.be/gf_6GveiAls?t=1509))
+- Experts doubt he takes a big step forward this season. Kawhi Leonard is better and uses more possessions, so a jump in usage is harder. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1716), [09-16](https://youtu.be/2A2JbUN-kc0?t=2139), [09-14](https://youtu.be/t4n9MAP2_14?t=346), [09-14](https://youtu.be/LM0cRCGoAUQ?t=495), [09-10](https://youtu.be/dlo7L8Ru91A?t=450), [09-10](https://youtu.be/dlo7L8Ru91A?t=473))
 - Toronto traded for Kawhi Leonard, who takes the place of Brandon Ingram. (fact, 2026-09-10; [06-30](https://youtu.be/JMSLg6yz-M0?t=566), [09-10](https://youtu.be/dlo7L8Ru91A?t=473), [09-10](https://youtu.be/dlo7L8Ru91A?t=450))
 - He is a projected starter next to Quickley, Barrett, Leonard and Poeltl. He is also in the expected closing five. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=496), [08-20](https://youtu.be/s28HvC2grAk?t=1066))
-- Experts doubt he takes a big step forward this season. Kawhi Leonard is better and uses more possessions, so a jump in usage is harder. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1716), [09-16](https://youtu.be/2A2JbUN-kc0?t=2139), [09-14](https://youtu.be/t4n9MAP2_14?t=346), [09-14](https://youtu.be/LM0cRCGoAUQ?t=495), [09-10](https://youtu.be/dlo7L8Ru91A?t=450), [09-10](https://youtu.be/dlo7L8Ru91A?t=473))
-- He should not lose touches with Kawhi on the team, because his value comes through facilitation. (verdict, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=304))
-- Experts value him around picks 12 to 17 in 9-cat, so a late first or early second round pick. ESPN's rank of 10 is too high. An ESPN ADP of 31 is too late. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=2197), [09-19](https://youtu.be/uarqbNA2dFk?t=1716), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2266), [09-16](https://youtu.be/2A2JbUN-kc0?t=2139), [09-14](https://youtu.be/t4n9MAP2_14?t=346), [09-14](https://youtu.be/LM0cRCGoAUQ?t=495), [08-19](https://youtu.be/J1Eg3uaAICU?t=660), [08-16](https://youtu.be/gf_6GveiAls?t=1509))
 - Toronto has 15 back-to-backs this season and three of them fall in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
+- He should not lose touches with Kawhi on the team, because his value comes through facilitation. (verdict, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=304))
 
 **Durable**
+- He helps in many categories. His assists and steals are far above other forwards and centers, and his blocks and rebounds are also above average. Turnovers are his weak category. (fact, 2026-10-04; stats)
 - He is one of the best help rim protectors in the league and anchors Toronto's defense. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=876))
 - His shooting is a question mark. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=632))
 - He does not need high usage to produce. Much of his value comes from facilitation. (verdict, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=304))
-- He helps in many categories. His assists and steals are far above other forwards and centers, and his blocks and rebounds are also above average. Turnovers are his weak category. (fact, 2026-10-04; stats)
 
 **Tags**
 - Current: `sites disagree on price` (ESPN value 55 USD and rank 10, Yahoo value 42 USD and rank 15), `bust candidate` (Too high at ESPN rank 10)

@@ -3,9 +3,9 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2025-26 | 75 | 25.1 | 41.8 (7.9) | 72.2 (1.3) | 1.0 | 8.6 | 3.8 | 2.4 | 0.9 | 0.3 | 1.5 |
-| 2026-27 proj, Yahoo | 75 | - | 43.8 (8.6) | 73.6 (1.4) | 1.1 | 9.7 | 4.1 | 2.5 | 0.9 | 0.4 | 1.6 |
 | 2026-27 proj, ESPN | 72 | 27.4 | 41.9 (8.7) | 72.3 (1.4) | 1.1 | 9.4 | 4.1 | 2.6 | 1.0 | 0.3 | 1.7 |
+| 2026-27 proj, Yahoo | 75 | - | 43.8 (8.6) | 73.6 (1.4) | 1.1 | 9.7 | 4.1 | 2.5 | 0.9 | 0.4 | 1.6 |
+| 2025-26 | 75 | 25.1 | 41.8 (7.9) | 72.2 (1.3) | 1.0 | 8.6 | 3.8 | 2.4 | 0.9 | 0.3 | 1.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -28,10 +28,10 @@
 </details>
 
 **Current**
-- He was inefficient last season. In summer league, at age 24.5, his play was average at best. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=766))
-- Lloyd worries that he will not make it in the NBA. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=766))
 - He is not in the Kings' projected starting five of Acuff, LaVine, Hunter, Murray and Sabonis. The notes say nobody is pushing that group for a starting spot. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691), [07-01](https://youtu.be/W3THnI7wWdA?t=1324))
 - The Kings are in a teardown and rebuild. Seven of their 13 rostered players are on rookie-scale or minimum deals. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=170))
+- He was inefficient last season. In summer league, at age 24.5, his play was average at best. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=766))
+- Lloyd worries that he will not make it in the NBA. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=766))
 
 **Durable**
 - He is a poor shooter. Experts say Kings passers got fewer assists because teammates like him could not shoot. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1820), stats)

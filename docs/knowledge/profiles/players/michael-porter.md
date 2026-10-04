@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 81 | 31.7 | 48.4 (13.3) | 83.6 (1.4) | 2.7 | 16.7 | 7.0 | 1.5 | 0.5 | 0.7 | 1.1 |
-| 2024-25 | 77 | 33.7 | 50.4 (13.6) | 76.8 (2.5) | 2.5 | 18.2 | 7.0 | 2.1 | 0.6 | 0.5 | 1.4 |
-| 2025-26 | 52 | 32.5 | 46.3 (18.4) | 85.9 (4.4) | 3.4 | 24.2 | 7.1 | 3.0 | 1.1 | 0.2 | 2.3 |
-| 2026-27 proj, Yahoo | 65 | - | 47.0 (16.5) | 82.7 (3.7) | 3.1 | 21.8 | 7.1 | 2.6 | 1.0 | 0.4 | 2.0 |
 | 2026-27 proj, ESPN | 69 | 33.5 | 46.9 (17.9) | 85.1 (4.0) | 3.3 | 23.5 | 7.2 | 2.9 | 1.0 | 0.3 | 2.2 |
+| 2026-27 proj, Yahoo | 65 | - | 47.0 (16.5) | 82.7 (3.7) | 3.1 | 21.8 | 7.1 | 2.6 | 1.0 | 0.4 | 2.0 |
+| 2025-26 | 52 | 32.5 | 46.3 (18.4) | 85.9 (4.4) | 3.4 | 24.2 | 7.1 | 3.0 | 1.1 | 0.2 | 2.3 |
+| 2024-25 | 77 | 33.7 | 50.4 (13.6) | 76.8 (2.5) | 2.5 | 18.2 | 7.0 | 2.1 | 0.6 | 0.5 | 1.4 |
+| 2023-24 | 81 | 31.7 | 48.4 (13.3) | 83.6 (1.4) | 2.7 | 16.7 | 7.0 | 1.5 | 0.5 | 0.7 | 1.1 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -33,7 +33,6 @@
 - Brooklyn is projected to start him at forward next to Mikel Brown Jr., Egor Demin, Julius Randle and Day'Ron Sharpe. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=313), [08-21](https://youtu.be/uRsfijpBPok?t=488), [06-25](https://youtu.be/lOshTzDA4SA?t=1160))
 - Julius Randle joined Brooklyn. He is a ball-dominant player at Porter's position, so Porter will play more at small forward. (fact, 2026-09-26; [06-23](https://youtu.be/9tb1ARBEmQU?t=622), [09-26](https://youtu.be/3UGI05PDvrE?t=376), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1648))
 - Experts expect his usage to drop from last season's 32% because Randle, Brown and Demin will handle the ball more. He may also lose three-point volume. He should still be good. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=376), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1648), [08-26](https://youtu.be/sTtFUy7IoJI?t=1898), [08-21](https://youtu.be/uRsfijpBPok?t=612), [06-23](https://youtu.be/9tb1ARBEmQU?t=622), [07-07](https://youtu.be/ME-r173X5b0?t=543), [08-11](https://youtu.be/OdDkXFhoKsc?t=1488))
-- Josh Minott and Noah Clowney may take some of his minutes. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1648))
 - He becomes an unrestricted free agent next summer and has no contract extension. (fact, 2026-09-26; [08-21](https://youtu.be/uRsfijpBPok?t=714), [09-26](https://youtu.be/3UGI05PDvrE?t=1630))
 - A trade during the season is very possible, especially if he and the Nets do not agree on an extension. Slater expects one, possibly within six months. A trade to a team where he gets less usage could drop him to around the 90th best player. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=376), [09-26](https://youtu.be/3UGI05PDvrE?t=1630), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [08-21](https://youtu.be/uRsfijpBPok?t=714), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1648), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1642), [09-10](https://youtu.be/dlo7L8Ru91A?t=1056))
 - He ended last season with a hamstring injury. Josh sees no major concern going into this season. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1553))
@@ -42,11 +41,12 @@
 - Brooklyn plays 3-4-3 games in our fantasy playoff weeks, with one playoff back-to-back. The Nets have 16 back-to-backs this season, tied for the most in the league. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
 - Josh ranks him 45 to 60 in category leagues. He likes him in the mid rounds and thinks the market has priced in his new situation well. Round 6 is good value. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=400), [09-26](https://youtu.be/3UGI05PDvrE?t=441), [09-24](https://youtu.be/_vbAP5y182A?t=1273), [08-11](https://youtu.be/OdDkXFhoKsc?t=1488))
 - His ESPN rank of 42 is too high because Randle's arrival makes a repeat of last season unlikely. His worst case without a trade is around 75th. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2122), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1164))
+- Josh Minott and Noah Clowney may take some of his minutes. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1648))
 
 **Durable**
+- Threes are his best category, with points next. Both are clearly above the top 250 pool and above other forwards. (fact, 2026-10-04; stats)
 - His fantasy value comes from points, many threes and good rebounds. Efficiency and usage drive it. He does not get to the rim much. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=426), stats)
 - Experts say he will never be a real source of assists, steals or blocks. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=426))
-- Threes are his best category, with points next. Both are clearly above the top 250 pool and above other forwards. (fact, 2026-10-04; stats)
 - He has a long injury history, including a hamstring injury late last season and other injury concerns earlier in his career. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=383), [08-21](https://youtu.be/uRsfijpBPok?t=612))
 
 **Tags**

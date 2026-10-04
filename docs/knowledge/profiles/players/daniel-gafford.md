@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 74 | 24.5 | 72.5 (6.5) | 67.4 (2.4) | 0.0 | 11.0 | 7.6 | 1.6 | 0.9 | 2.1 | 1.0 |
-| 2024-25 | 57 | 21.6 | 70.2 (7.1) | 68.9 (3.4) | 0.0 | 12.3 | 6.8 | 1.4 | 0.4 | 1.8 | 1.2 |
-| 2025-26 | 55 | 21.7 | 65.5 (5.7) | 68.3 (2.9) | 0.0 | 9.5 | 6.9 | 1.1 | 0.8 | 1.3 | 1.1 |
-| 2026-27 proj, Yahoo | 59 | - | 68.9 (5.4) | 68.3 (2.8) | 0.0 | 9.3 | 6.5 | 1.2 | 0.6 | 1.4 | 1.1 |
 | 2026-27 proj, ESPN | 68 | 22.5 | 69.2 (6.3) | 68.5 (2.9) | 0.0 | 10.7 | 7.1 | 1.3 | 0.7 | 1.7 | 1.1 |
+| 2026-27 proj, Yahoo | 59 | - | 68.9 (5.4) | 68.3 (2.8) | 0.0 | 9.3 | 6.5 | 1.2 | 0.6 | 1.4 | 1.1 |
+| 2025-26 | 55 | 21.7 | 65.5 (5.7) | 68.3 (2.9) | 0.0 | 9.5 | 6.9 | 1.1 | 0.8 | 1.3 | 1.1 |
+| 2024-25 | 57 | 21.6 | 70.2 (7.1) | 68.9 (3.4) | 0.0 | 12.3 | 6.8 | 1.4 | 0.4 | 1.8 | 1.2 |
+| 2023-24 | 74 | 24.5 | 72.5 (6.5) | 67.4 (2.4) | 0.0 | 11.0 | 7.6 | 1.6 | 0.9 | 2.1 | 1.0 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -34,16 +34,16 @@
 - If he starts, he could play at a top 100 level for a month or two. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1252))
 - Josh ranks him in the 130 to 160 range for the season. He sees Gafford as a late flyer while Lively is out, but not once Lively is healthy. (verdict, 2026-09-29, until Lively returns; [09-29](https://youtu.be/XSPJL_mlFXo?t=1479))
 - Josh calls him the stash option on Dallas. He and Morez Johnson Jr. are interchangeable as the late swing pick and the stash. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1786))
+- Dusty May is the new Dallas head coach. It is unknown how he will split center minutes between Lively, Gafford, Powell and Johnson. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=234))
+- Dallas has a 4-4-4 schedule in the fantasy playoff weeks, probably the best in the league. It also has the league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
 - Worth drafting if he starts at center. (verdict, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=2225))
 - Dallas has been shopping him. Three different front offices have tried to trade him. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=499), [07-27](https://youtu.be/0AptxcRW0RE?t=1891))
 - Experts expect Dallas to trade him. (verdict, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=499), [07-27](https://youtu.be/0AptxcRW0RE?t=2176), [07-02](https://youtu.be/P6TNP-g0wzY?t=824))
-- Dusty May is the new Dallas head coach. It is unknown how he will split center minutes between Lively, Gafford, Powell and Johnson. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=234))
-- Dallas has a 4-4-4 schedule in the fantasy playoff weeks, probably the best in the league. It also has the league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
 
 **Durable**
+- Very high FG% lifts a team's FG% clearly. He makes no threes. Blocks are a plus against the pool. (fact, 2026-10-04; stats)
 - He has recurring ankle problems. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1258), [07-27](https://youtu.be/0AptxcRW0RE?t=1861))
 - His rim finishing and rim protection are below the elite levels he once had. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1258), [07-27](https://youtu.be/0AptxcRW0RE?t=1861))
-- Very high FG% lifts a team's FG% clearly. He makes no threes. Blocks are a plus against the pool. (fact, 2026-10-04; stats)
 - Not a great points league play. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1542))
 
 **Tags**

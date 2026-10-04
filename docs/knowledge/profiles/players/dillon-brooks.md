@@ -3,11 +3,11 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2023-24 | 72 | 30.9 | 42.8 (10.7) | 84.4 (2.0) | 1.8 | 12.7 | 3.4 | 1.7 | 0.9 | 0.1 | 1.2 |
-| 2024-25 | 75 | 31.8 | 42.9 (11.9) | 81.8 (1.6) | 2.5 | 14.0 | 3.7 | 1.7 | 0.8 | 0.2 | 1.0 |
-| 2025-26 | 56 | 30.4 | 43.5 (17.1) | 84.2 (3.6) | 2.3 | 20.2 | 3.6 | 1.8 | 1.0 | 0.2 | 1.8 |
-| 2026-27 proj, Yahoo | 70 | - | 43.2 (13.5) | 83.2 (2.5) | 2.2 | 15.9 | 3.5 | 1.7 | 0.9 | 0.2 | 1.3 |
 | 2026-27 proj, ESPN | 69 | 30.7 | 43.4 (15.8) | 83.6 (3.1) | 2.3 | 18.6 | 3.6 | 1.7 | 1.0 | 0.2 | 1.6 |
+| 2026-27 proj, Yahoo | 70 | - | 43.2 (13.5) | 83.2 (2.5) | 2.2 | 15.9 | 3.5 | 1.7 | 0.9 | 0.2 | 1.3 |
+| 2025-26 | 56 | 30.4 | 43.5 (17.1) | 84.2 (3.6) | 2.3 | 20.2 | 3.6 | 1.8 | 1.0 | 0.2 | 1.8 |
+| 2024-25 | 75 | 31.8 | 42.9 (11.9) | 81.8 (1.6) | 2.5 | 14.0 | 3.7 | 1.7 | 0.8 | 0.2 | 1.0 |
+| 2023-24 | 72 | 30.9 | 42.8 (10.7) | 84.4 (2.0) | 1.8 | 12.7 | 3.4 | 1.7 | 0.9 | 0.1 | 1.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
@@ -30,11 +30,11 @@
 </details>
 
 **Current**
+- Phoenix has crowded usage. Booker, Jalen Green, Brooks, Collin Gillespie and Bridges will all want touches, so his shot volume is likely to fall from last season. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=989), stats)
+- In an ESPN points-league mock draft, the expert was not interested at all in him in round 12 and called it a shocking pick. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1777))
 - He is projected to start for Phoenix. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=308))
 - He was having a career year last season but collapsed late. He shot about 38% from the field over the final two months. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=308))
 - He will play less at the four now that Miles Bridges has arrived. (verdict, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=1951))
-- Phoenix has crowded usage. Booker, Jalen Green, Brooks, Collin Gillespie and Bridges will all want touches, so his shot volume is likely to fall from last season. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=989), stats)
-- In an ESPN points-league mock draft, the expert was not interested at all in him in round 12 and called it a shocking pick. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1777))
 
 **Durable**
 - He has a good defensive reputation. Josh calls him the only clearly above-average defender in the projected Phoenix starting group. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1987))

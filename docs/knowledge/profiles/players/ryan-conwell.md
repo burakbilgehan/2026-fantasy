@@ -8,14 +8,14 @@ No NBA stats and no projections in our data.
 | 2026-27 | 0 | - | 645 | - | - | - | not drafted |
 
 **Current**
-- Ryan Conwell is a rookie. The Heat drafted him 37th in the 2026 NBA draft. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1034))
+- An expert expects Ryan Rollins to start next to Tyler Herro at guard. Kevin Porter Jr., Brandon Boston and Gary Trent Jr. are also in the guard rotation, so Conwell's minutes are not secure. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1767))
+- Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs. It plays only 10 games in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153))
+- Experts think he could get rotation minutes early this season because Miami is thin at guard. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=325), [07-23](https://youtu.be/LUTYUdXBG1M?t=1251))
+- He moved up from 38 to 33 in one expert's dynasty rookie ranks after a strong Summer League. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=325))
 - He scored 17.5 points per game in Summer League before Miami sent him home early. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1251))
 - Miami lost guard depth and ball handlers in trades this offseason. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1251), [07-23](https://youtu.be/LUTYUdXBG1M?t=1264), [07-17](https://youtu.be/NYTH7uQsPCM?t=1757))
-- Experts think he could get rotation minutes early this season because Miami is thin at guard. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=325), [07-23](https://youtu.be/LUTYUdXBG1M?t=1251))
-- An expert expects Ryan Rollins to start next to Tyler Herro at guard. Kevin Porter Jr., Brandon Boston and Gary Trent Jr. are also in the guard rotation, so Conwell's minutes are not secure. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1767))
-- He moved up from 38 to 33 in one expert's dynasty rookie ranks after a strong Summer League. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=325))
-- Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs. It plays only 10 games in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153))
 - An expert advises caution with Miami players on the margins. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1264))
+- Ryan Conwell is a rookie. The Heat drafted him 37th in the 2026 NBA draft. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1034))
 
 **Durable**
 - His three-point volume is a question. An expert hopes he starts taking more threes. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1034))
