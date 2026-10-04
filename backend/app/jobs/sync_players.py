@@ -111,8 +111,9 @@ def write(db: Session, source: str, players: list[SourcePlayer], season: str,
     report = Report(source)
     resolver = Resolver(db, load_links() if links is None else links)
     actual_seasons = {line.season for sp in players for line in sp.actual}
+    projection_seasons = {season} | {line.season for sp in players for line in sp.past_projections}
     db.execute(delete(PlayerProjection).where(
-        PlayerProjection.source == source, PlayerProjection.season == season))
+        PlayerProjection.source == source, PlayerProjection.season.in_(projection_seasons)))
     db.execute(delete(PlayerMarketValue).where(
         PlayerMarketValue.source == source, PlayerMarketValue.season == season))
     db.execute(delete(PlayerSeasonStats).where(
@@ -136,6 +137,8 @@ def write(db: Session, source: str, players: list[SourcePlayer], season: str,
             resolver.add(player, source, sp.external_id)
         if sp.projection:
             db.add(_stat_row(PlayerProjection, player.id, source, sp.projection, now))
+        for line in sp.past_projections:
+            db.add(_stat_row(PlayerProjection, player.id, source, line, now))
         for line in sp.actual:
             db.add(_stat_row(PlayerSeasonStats, player.id, source, line, now))
         if m := sp.market:

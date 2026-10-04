@@ -16,7 +16,8 @@ class Base(DeclarativeBase):
 
 
 DATA_DIR.mkdir(exist_ok=True)
-engine = create_engine(get_settings().db_url)
+# SQLite: wait up to 30 s for a lock. The refresh thread and draft ingest write to one file.
+engine = create_engine(get_settings().db_url, connect_args={"timeout": 30})
 SessionLocal = sessionmaker(engine, expire_on_commit=False)
 
 

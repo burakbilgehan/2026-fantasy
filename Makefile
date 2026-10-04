@@ -1,4 +1,4 @@
-.PHONY: dev backend frontend install test sync yahoo-auth yahoo-check draft-ingest db-upgrade players-sync schedule-sync past-draft-sync past-stats-sync expert-digest expert-render expert-prompt expert-run
+.PHONY: dev backend frontend install test sync yahoo-auth yahoo-check draft-ingest db-upgrade players-sync schedule-sync past-draft-sync past-stats-sync game-logs-sync game-logs-current roles-sync refresh expert-digest expert-render expert-prompt expert-run
 
 # Start backend (:8000) and frontend (:5173). Ctrl-C stops both.
 dev:
@@ -52,6 +52,24 @@ past-draft-sync:
 # Fetch past season totals from stats.nba.com (default: last 3 seasons, or SEASONS="2024-25 2025-26").
 past-stats-sync:
 	cd backend && uv run python -m app.jobs.sync_past_stats $(SEASONS)
+
+# Fetch past season game logs from stats.nba.com (default: last 3 seasons, or SEASONS="2025-26"). Run after past-stats-sync.
+game-logs-sync:
+	cd backend && uv run python -m app.jobs.sync_game_logs $(SEASONS)
+
+# Current season game logs from stats.nba.com: preseason and regular season so far. Also run by `refresh`.
+game-logs-current:
+	cd backend && uv run python -m app.jobs.sync_game_logs --current
+
+# Role sources (T-026): DARKO and FantasyPros minutes, Hashtag depth charts, Vegas win totals.
+# All, or SOURCE=hashtag. Also run by `refresh`. Run after players-sync.
+roles-sync:
+	cd backend && uv run python -m app.jobs.sync_roles $(SOURCE)
+
+# Run the refresh jobs that are stale (the backend also does this on start and every hour).
+# ARGS=--force runs all jobs. Status: GET /api/sync/status. AUTO_REFRESH=0 in .env stops the loop.
+refresh:
+	cd backend && uv run python -m app.jobs.refresh $(ARGS)
 
 # Expert digest: playlist/channel/video URL -> notes in docs/knowledge/ (claude -p, subscription).
 # Optional: SINCE=<video id> (channel /videos tab: that video and newer), LIMIT=5 (new videos per run), ARGS=--force. Re-render markdown only: make expert-render

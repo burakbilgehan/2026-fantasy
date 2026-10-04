@@ -16,12 +16,14 @@ from app.config import RAW_DIR
 
 # Stat line fields. Totals for the season, never per-game.
 STAT_FIELDS = ("gp", "fgm", "fga", "ftm", "fta", "tpm", "pts", "reb", "ast", "stl", "blk", "tov")
+# Optional fields: a source sends them only if it has them.
+OPTIONAL_STAT_FIELDS = ("min",)  # total minutes
 
 
 @dataclass
 class StatLine:
     season: str
-    stats: dict[str, float]  # keys from STAT_FIELDS
+    stats: dict[str, float]  # keys from STAT_FIELDS, plus OPTIONAL_STAT_FIELDS if known
 
 
 @dataclass
@@ -47,7 +49,8 @@ class SourcePlayer:
     last_name: str
     team: str | None  # canonical abbreviation (app.sources.teams), None = free agent
     position: str | None = None
-    projection: StatLine | None = None
+    projection: StatLine | None = None  # season being drafted
+    past_projections: list[StatLine] = field(default_factory=list)  # preseason projections of past seasons
     actual: list[StatLine] = field(default_factory=list)
     market: MarketValue | None = None
 

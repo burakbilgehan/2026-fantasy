@@ -125,6 +125,7 @@ class _StatColumns:
     stl: Mapped[float]
     blk: Mapped[float]
     tov: Mapped[float]
+    min: Mapped[float | None]  # total minutes; None when the source has none
     fetched_at: Mapped[datetime]
 
 
@@ -138,6 +139,40 @@ class PlayerSeasonStats(_StatColumns, Base):
 
     __tablename__ = "player_season_stats"
     __table_args__ = (UniqueConstraint("player_pk", "source", "season"),)
+
+
+class PlayerGameLog(Base):
+    """One row per player per game played. DNP games have no row.
+
+    `season_type` keeps preseason games apart: season totals are regular season only.
+    """
+
+    __tablename__ = "player_game_logs"
+    __table_args__ = (UniqueConstraint("player_pk", "source", "game_id"),)
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    player_pk: Mapped[int] = mapped_column(ForeignKey("players.id", ondelete="CASCADE"), index=True)
+    source: Mapped[str]  # "nba"
+    season: Mapped[str]  # "2025-26"
+    season_type: Mapped[str] = mapped_column(server_default="regular")  # "regular" or "preseason"
+    game_id: Mapped[str]  # source game id
+    game_date: Mapped[date] = mapped_column(index=True)  # US Eastern date, as the source gives it
+    team: Mapped[str | None]  # canonical abbreviation at that game
+    opponent: Mapped[str | None]
+    home: Mapped[bool]
+    min: Mapped[float]
+    fgm: Mapped[float]
+    fga: Mapped[float]
+    ftm: Mapped[float]
+    fta: Mapped[float]
+    tpm: Mapped[float]
+    pts: Mapped[float]
+    reb: Mapped[float]
+    ast: Mapped[float]
+    stl: Mapped[float]
+    blk: Mapped[float]
+    tov: Mapped[float]
+    fetched_at: Mapped[datetime]
 
 
 class PlayerMarketValue(Base):
@@ -179,3 +214,75 @@ class NbaGame(Base):
     away: Mapped[str]
     neutral_site: Mapped[bool]
     fetched_at: Mapped[datetime]
+
+
+class PlayerMinutesProjection(Base):
+    """Projected minutes per game from sources that have no full stat line (T-026).
+
+    DARKO has no games played; FantasyPros has no shot attempts. ESPN minutes stay
+    in player_projections.min. Everything else the source gives goes into `extra`.
+    """
+
+    __tablename__ = "player_minutes_projections"
+    __table_args__ = (UniqueConstraint("player_pk", "source", "season"),)
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    player_pk: Mapped[int] = mapped_column(ForeignKey("players.id", ondelete="CASCADE"), index=True)
+    source: Mapped[str]  # "darko", "fantasypros"
+    season: Mapped[str]
+    team: Mapped[str | None]  # team the source gives, canonical abbreviation
+    mpg: Mapped[float]  # minutes per game played
+    gp: Mapped[float | None]  # projected games played; None when the source has none
+    extra: Mapped[dict] = mapped_column(JSON)
+    fetched_at: Mapped[datetime]
+
+
+class DepthChartEntry(Base):
+    """One player in one position slot of a team depth chart. A sync replaces the source's rows.
+
+    `depth` is the source's tier (1 = starter). Several players can share a tier;
+    `order` is the position in the source's list.
+    """
+
+    __tablename__ = "depth_charts"
+    __table_args__ = (UniqueConstraint("source", "season", "team", "slot", "order"),)
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    source: Mapped[str]  # "hashtag"
+    season: Mapped[str]
+    team: Mapped[str]  # canonical abbreviation
+    slot: Mapped[str]  # PG, SG, SF, PF, C
+    depth: Mapped[int]
+    order: Mapped[int]
+    player_pk: Mapped[int | None] = mapped_column(ForeignKey("players.id", ondelete="SET NULL"), index=True)
+    player_name: Mapped[str]  # as the source writes it
+    fetched_at: Mapped[datetime]
+
+
+class TeamWinTotal(Base):
+    """Season win total lines (over/under) per NBA team."""
+
+    __tablename__ = "team_win_totals"
+    __table_args__ = (UniqueConstraint("source", "season", "team"),)
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    source: Mapped[str]  # "sportsbettingdime"
+    season: Mapped[str]
+    team: Mapped[str]
+    wins: Mapped[float]
+    over_odds: Mapped[int | None]  # American odds, like -110
+    under_odds: Mapped[int | None]
+    fetched_at: Mapped[datetime]
+
+
+class SyncRun(Base):
+    """One run of a refresh job (app/jobs/refresh.py). Read by GET /api/sync/status."""
+
+    __tablename__ = "sync_runs"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    job: Mapped[str] = mapped_column(index=True)
+    started_at: Mapped[datetime]
+    finished_at: Mapped[datetime | None]
+    ok: Mapped[bool | None]  # None while running
+    message: Mapped[str | None]

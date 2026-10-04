@@ -41,7 +41,13 @@ docs/
   - `players`: identity only (name, normalized `name_key`, team, position). `team` comes from NBA.com when the player is on a roster. Players without an NBA.com id keep the team their source reports, which can be stale for free agents.
   - `player_external_ids`: (player, source, external id). Yahoo id, NBA person id, later others.
   - `player_projections`: season totals per (player, source, season). Columns: gp, fgm, fga, ftm, fta, tpm, pts, reb, ast, stl, blk, tov.
-  - `player_season_stats`: actual season totals, same columns. Past seasons are rows with another `season`.
+  - `player_season_stats`: actual season totals, same columns. Both tables also have `min` (total minutes, nullable: only sources that have it fill it). Past seasons are rows with another `season`.
+  - `player_game_logs`: one row per player per game played (source, season, game id, date, team, opponent, home, minutes, the 11 box score fields). Past seasons from stats.nba.com.
+  - `player_game_logs.season_type`: `regular` or `preseason` (migration 0007). Season totals are regular season only.
+  - `player_minutes_projections` (T-026): minutes per game from sources without a full stat line (DARKO: no GP; FantasyPros: no shot attempts). Other source fields in `extra`. ESPN minutes stay in `player_projections.min`.
+  - `depth_charts` (T-026): one row per player per team slot (source, team, slot, tier `depth`, list `order`, `player_pk` or null). A sync replaces the source's rows.
+  - `team_win_totals` (T-026): season win total line per NBA team.
+  - `sync_runs`: one row per refresh job run (see "Automatic refresh").
   - `player_market_values`: values a source publishes (Yahoo auction value, average cost, ADP, rank, eligible positions, injury).
   - Values computed by our models get their own table, added with T-010. They never go into the tables above.
   - Totals only. Per-game = total / gp, computed when read.
@@ -67,8 +73,9 @@ docs/
 - Code: `backend/app/sources/players/`. A source implements `PlayerSource` (`base.py`): `fetch()` downloads and saves the raw copy, `parse(raw, season)` returns `SourcePlayer` objects. Sources never touch the DB.
 - `app/jobs/sync_players.py` links each `SourcePlayer` to a `players` row and replaces the source's rows for the season. `make players-sync` (all) or `make players-sync SOURCE=yahoo`. API: `GET /api/players/sources`, `GET /api/players?source=yahoo`, `POST /api/players/sync`.
 - Identity matching, in order: known source id; manual link in `id_links.json`; unique name; same name and same team. Else a new row. A wrong merge is worse than a duplicate. The job prints ambiguous names: add a link for each real duplicate.
-- Registry order = priority. The first source that lists a player owns name, team and position. Now: `nba` (NBA.com roster) then `yahoo`.
+- Registry order = priority. The first source that lists a player owns name, team and position. Now: `nba` (NBA.com roster), `yahoo`, then `espn`.
 - Past seasons: `make past-stats-sync` (`app/jobs/sync_past_stats.py`, stats.nba.com totals, default the 3 seasons before `CURRENT_SEASON`). Rows in `player_season_stats` with source `nba`. Links to existing players only (same Resolver); never creates a player or changes identity. Run after `make players-sync`.
+- Game logs: `make game-logs-sync` (`app/jobs/sync_game_logs.py`, stats.nba.com `leaguegamelog`, same seasons and same linking rules). Rows in `player_game_logs`.
 - Season label: `CURRENT_SEASON` env var, default `2026-27` (`app/seasons.py`).
 
 How to add a source (example: Hashtag Basketball):
@@ -80,6 +87,18 @@ How to add a source (example: Hashtag Basketball):
 6. Add a small gzipped fixture in `backend/tests/fixtures/` and parse tests in `tests/test_players.py`.
 7. Run `make players-sync SOURCE=<key>`. Read the ambiguous list. Add links to `id_links.json` where needed.
 - No DB change is needed for a new source.
+
+## Role sources (T-026)
+- Code: `backend/app/sources/roles/` (`darko.py`, `fantasypros.py`, `hashtag.py`, `vegas.py`). Each has `fetch()` (saves the raw page in `data/raw/<key>/`) and a pure `parse()`. Job: `app/jobs/sync_roles.py`, `make roles-sync` (all) or `make roles-sync SOURCE=hashtag`.
+- Links to existing players only (same Resolver as `sync_players`), never creates a player. DARKO by NBA id, FantasyPros by its id (stored after the first name match), Hashtag by name every run (no id stored). A Hashtag name that does not match: add `{"a": "hashtag:<name as on the page>", "b": "nba:<id>"}` to `id_links.json`.
+- Run after `make players-sync`.
+
+## Automatic refresh
+- `app/jobs/refresh.py`. The backend runs stale jobs on start and then every hour (thread started in the FastAPI lifespan). A job is stale when its last success is older than its TTL. A failed job waits 1 hour before the next try. One failed job does not stop the others.
+- Jobs and TTL: `hashtag` 6 h, `darko` 12 h, `fantasypros` 12 h, `vegas` 24 h, `game_logs_current` 6 h (stats.nba.com, preseason and regular season of `CURRENT_SEASON`).
+- Not in the loop: `players-sync` (Yahoo feed is on demand only). Run it by hand, also on draft morning.
+- `GET /api/sync/status` (last run, last success, stale), `POST /api/sync/refresh?force=`. `make refresh` (`ARGS=--force` runs all). `AUTO_REFRESH=0` in `.env` stops the loop. Tests set it to 0 (`tests/conftest.py`).
+- Add a job: a function that returns a one-line summary, then one `Job(...)` line in `JOBS`.
 
 ## Expert digest (M8, first part, T-021)
 1. `make expert-run`: interactive runner for the user's terminal. Batches of 10 (`BATCH=`). Transcripts are fetched one by one; the LLM calls of a batch run in parallel (`PARALLEL=`, default = batch size). Progress bars, elapsed and remaining time, list price spent and projected. Ctrl-C once: no new videos, running calls finish; twice: kill all running calls. A subscription usage limit stops the run. Defaults: Locked On channel since video HxQjagSTTAM (`EXPERT_URL=`, `EXPERT_SINCE=`). Plain batch command: `make expert-digest URL=<playlist, channel /videos tab, or video>` (optional `SINCE=`, `LIMIT=`, `ARGS=--force`).
