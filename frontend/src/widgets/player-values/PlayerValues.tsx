@@ -28,6 +28,7 @@ type Column = {
   num?: boolean
   className?: string
   value: (p: ValuedPlayer) => number | string | null
+  sortValue?: (p: ValuedPlayer) => number | string | null // default: value
   fmt?: (v: number) => string
   heat?: (p: ValuedPlayer) => { z: number; full: number } | null // tint source; positive = good
 }
@@ -79,6 +80,10 @@ function columns(cats: string[], view: 'stats' | 'z', usageSeason?: string, usag
     num: true,
     className: i === 0 ? 'group-start' : undefined,
     value: view === 'z' ? (p) => p.z?.[c] ?? null : (p) => perGame(p, c),
+    // FG% and FT% sort by team impact (z of makes - pool rate x attempts), not the raw rate:
+    // 20 shots at 60% help a team more than 0.3 shots at 88%. The tint uses the same z.
+    sortValue: c.endsWith('pct') ? (p) => p.z?.[c] ?? null : undefined,
+    title: c.endsWith('pct') ? 'Shown: the rate. Color and sort: impact on the team rate (volume counts).' : undefined,
     fmt: view === 'z' ? (v) => v.toFixed(2) : c.endsWith('pct') ? (v) => v.toFixed(3) : one,
     heat: (p) => (p.z ? { z: p.z[c], full: Z_FULL } : null),
   }))
@@ -266,7 +271,8 @@ export function PlayerValues() {
     const list = data.players.filter((p) => (!needle || p.name.toLowerCase().includes(needle))
       && (!tagged || tagged.has(p.player_id)))
     return [...list].sort((a, b) => {
-      const x = col.value(a), y = col.value(b)
+      const key = col.sortValue ?? col.value
+      const x = key(a), y = key(b)
       if (x == null) return 1
       if (y == null) return -1
       const r = typeof x === 'string' ? x.localeCompare(String(y)) : x - (y as number)
