@@ -3,12 +3,10 @@
 Personal fantasy basketball "master" site for one Yahoo league. Used all season, not only for the draft.
 One local backend, one database, one frontend. Features are widgets on that frontend.
 
-## League facts (verified with the user, 2026-10-03)
-- Yahoo NBA. League URL: https://basketball.fantasysports.yahoo.com/nba/23772 (league id 23772).
-- 12 teams. Head-to-head. Classic 9 categories: FG%, FT%, 3PM, PTS, REB, AST, STL, BLK, TO.
-- Auction draft on 2026-10-18. Budget $200. No keepers.
-- League is renewed every season (about 7 seasons). Last season (2025-26) was auction. Older seasons were snake.
-- Managers are experienced. **Trades are very frequent in this league.** Trade tools have high value.
+## League rules
+- Full rules (9-cat, roster, positions, draft, waivers, playoffs): `docs/RULES.md`. Loaded below. Update it when a rule is verified or changes.
+
+@docs/RULES.md
 
 ## Hard boundaries
 - Yahoo API is read-only for us. The tool never makes a transaction (no add, drop, claim, trade, bid).
@@ -16,6 +14,7 @@ One local backend, one database, one frontend. Features are widgets on that fron
 - LLM work uses the local `claude -p` CLI with the user's subscription. Remove `ANTHROPIC_API_KEY` from the child env. Reference: `scripts/llm-bridge.mjs` in github.com/burakbilgehan/language-tutor.
 
 ## Documents (read the relevant one before work)
+- `docs/RULES.md`: league rules and general fantasy facts (always in context).
 - `docs/VISION.md`: full scope. All planned modules. Check here before adding a feature.
 - `docs/ROADMAP.md`: phases and dates.
 - `docs/TASKS.md`: open tasks. Update status when you finish a task.
