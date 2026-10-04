@@ -30,7 +30,8 @@ Source: public settings page https://basketball.fantasysports.yahoo.com/nba/2377
 - Budget $200 per team. No keepers. Draft pick trades not allowed.
 - Nomination time 30 s, bid time 20 s.
 - Players not drafted follow waiver rules after the draft.
-- Unknown: whether the draft fills all 16 slots or only the 12 non-IL slots (check in last season's draft results, T-005).
+- The draft fills only the non-IL slots (user, 2026-10-04). Now 12 per team (10 starters + 2 BN), so 144 players in the league draft. If the league changes BN count, this number changes: read it from the roster slots.
+- IL slots fill during the season: put an injured player on IL, then add a player to the open slot.
 
 ### Season and transactions
 - Scoring starts week 1.
