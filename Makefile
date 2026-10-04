@@ -1,4 +1,4 @@
-.PHONY: dev backend frontend install test sync yahoo-auth yahoo-check draft-ingest db-upgrade players-sync schedule-sync past-draft-sync past-stats-sync game-logs-sync game-logs-current roles-sync refresh expert-digest expert-render expert-prompt expert-run knowledge-run knowledge-articles
+.PHONY: dev backend frontend install test sync yahoo-auth yahoo-check draft-ingest db-upgrade players-sync schedule-sync past-draft-sync past-stats-sync game-logs-sync game-logs-current roles-sync refresh expert-digest expert-render expert-prompt expert-run knowledge-run knowledge-articles valuation-backtest
 
 # Start backend (:8000) and frontend (:5173). Ctrl-C stops both.
 dev:
@@ -101,3 +101,6 @@ knowledge-run:
 knowledge-articles:
 	@cd backend && uv sync -q && .venv/bin/python -m app.jobs.knowledge_articles $(if $(PARALLEL),--parallel $(PARALLEL)) $(ARGS)
 
+# T-017 valuation backtest on 2025-26: every model, H2H against the real draft rosters. Writes docs/modules/valuation-backtest.md (about 70 s).
+valuation-backtest:
+	cd backend && uv run python -m app.jobs.valuation_backtest

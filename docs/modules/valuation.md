@@ -28,7 +28,9 @@ Extra inputs, not bases: G-score needs week-to-week variance (`player_game_logs`
 - Stats views always show all 9 categories plus GP and minutes, also when a model ignores a category.
 
 ## Open
-- Reference pool for the category average and standard deviation. Not the top 156, not a minutes cut alone (user): low-minute players who play every game and handcuffs (example: Paul Reed) are part of the real pool. Make the pool a setting and compare candidates in the backtest (for example: top N by the model's own value with N = 144, 200, 250; all players with a projection).
+- Reference pool: decided 2026-10-04 (user): default top 200 by the model's own value. Stays a setting. Backtest: 144, 200, 250 and all are within noise.
+- Default model: decided 2026-10-04 (user): Minus-1. The value table and the draft board start with it. All models stay in the dropdown.
+- (Old note) Reference pool for the category average and standard deviation. Not the top 156, not a minutes cut alone (user): low-minute players who play every game and handcuffs (example: Paul Reed) are part of the real pool. Make the pool a setting and compare candidates in the backtest (for example: top N by the model's own value with N = 144, 200, 250; all players with a projection).
 - Exact formulas for balance score, fluff indicator and reliability score.
 - H-score: read the paper and the open source tool first (license not checked).
 
@@ -51,6 +53,8 @@ Dollar conversion:
 - **SAVOR**: same, but cheap players are worth less because they are replaced from waivers during the season, so stars get more. One parameter (spread, default 10 in the reference tool). Evidence in our league: 27 of 144 players went for 1 USD and 44 for 3 USD or less in 2025-26.
 
 ## Backtest plan (T-017, first run)
+Status: first run done 2026-10-04. Results: `valuation-backtest.md`. Code: `backend/app/analytics/valuation/` (models), `backend/app/analytics/h2h_backtest.py`, `backend/app/jobs/valuation_backtest.py`.
+
 Data is ready: ESPN 2025-26 preseason projection (381 players), real 2025-26 totals (578), game logs for 3 seasons (73836 rows), our league's 144 prices of 2025-26.
 1. Run every model on the 2025-26 preseason projection. Convert to dollars.
 2. Run every model on the real 2025-26 season. Compare: which preseason model was closest to the end-of-season truth of the same model.

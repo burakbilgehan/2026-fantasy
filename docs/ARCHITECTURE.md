@@ -110,6 +110,10 @@ How to add a source (example: Hashtag Basketball):
 6. `app/experts/render.py`: markdown in `docs/knowledge/` (videos, players, teams, methods, claims). Player and team pages have two sections: Durable and Current.
 7. Names are matched at render time (`app/experts/match.py`): user alias, exact name, learned nickname, then last name and first initial. The note's team decides between players with the same name. Learned nicknames are written to `docs/knowledge/aliases.json` (`learned_players`) and never go into the prompt. Fix a wrong match with a user alias (`players`), then `make expert-render` (no LLM call).
 
+## Valuation (T-017, T-010)
+- `app/analytics/valuation/`: pure functions. `run(rows, model, Settings)` gives per player category z, total, rank and dollars. Model registry with the dropdown descriptions: `models.py`. G-score weights from game logs: `gscore.py`. Dollars (plain, SAVOR): `dollars.py`.
+- Backtest: `make valuation-backtest` (`app/jobs/valuation_backtest.py`, helpers `app/analytics/h2h_backtest.py`). Writes `docs/modules/valuation-backtest.md`.
+
 ## Widget model
 - A widget = a React component + a registry entry (id, title, default size).
 - The dashboard is a grid. The user can choose and place widgets. Layout is saved in local storage.
