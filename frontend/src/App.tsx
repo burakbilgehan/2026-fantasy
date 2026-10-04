@@ -1,17 +1,58 @@
+import { useEffect, useState } from 'react'
 import { widgets } from './layout/registry'
+
+type Theme = 'auto' | 'light' | 'dark'
+
+function readTheme(): Theme {
+  try {
+    const t = localStorage.getItem('theme')
+    return t === 'light' || t === 'dark' ? t : 'auto'
+  } catch {
+    return 'auto'
+  }
+}
+
+function ThemeSwitch() {
+  const [theme, setTheme] = useState<Theme>(readTheme)
+  useEffect(() => {
+    const root = document.documentElement
+    if (theme === 'auto') delete root.dataset.theme
+    else root.dataset.theme = theme
+    try {
+      if (theme === 'auto') localStorage.removeItem('theme')
+      else localStorage.setItem('theme', theme)
+    } catch { /* private mode: theme lasts for this page only */ }
+  }, [theme])
+  return (
+    <div className="segmented" role="radiogroup" aria-label="Theme">
+      {(['auto', 'light', 'dark'] as const).map((t) => (
+        <button key={t} role="radio" aria-checked={theme === t} className={theme === t ? 'on' : undefined}
+          onClick={() => setTheme(t)}>
+          {t === 'auto' ? 'System' : t === 'light' ? 'Light' : 'Dark'}
+        </button>
+      ))}
+    </div>
+  )
+}
 
 export default function App() {
   return (
-    <main>
-      <h1>2026 Fantasy</h1>
-      <div className="grid">
+    <>
+      <header className="topbar">
+        <div className="brand">
+          <span className="wordmark">Deh Deh</span>
+          <span className="season">2026-27 war room</span>
+        </div>
+        <ThemeSwitch />
+      </header>
+      <main className="grid">
         {widgets.map(({ id, title, component: Widget, wide }) => (
-          <section key={id} className={wide ? 'widget wide' : 'widget'}>
-            <h2>{title}</h2>
+          <section key={id} className={wide ? 'panel wide' : 'panel'} aria-labelledby={`${id}-title`}>
+            <h2 id={`${id}-title`}>{title}</h2>
             <Widget />
           </section>
         ))}
-      </div>
-    </main>
+      </main>
+    </>
   )
 }
