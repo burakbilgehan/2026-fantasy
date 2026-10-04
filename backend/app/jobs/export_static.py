@@ -65,7 +65,7 @@ def main(out: Path) -> None:
             v = get("/api/valuation", kind=b["kind"], source=b["source"], season=b["season"], basis=basis,
                     model=model, dollars=dollars, pool=pool)
             if facts is None:
-                facts = [{k: p[k] for k in ("player_id", "name", "team", "positions", "injury", "stats", "usg_pct", "market")}
+                facts = [{k: p[k] for k in ("player_id", "nba_id", "name", "team", "positions", "injury", "stats", "usg_pct", "market")}
                          for p in v["players"]]
                 write(f"valuation/{base}/players", facts)
             rows = [[p["player_id"], _r(p["total"]), p["rank"], _r(p["dollars"], 2),

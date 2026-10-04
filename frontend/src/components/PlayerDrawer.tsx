@@ -4,6 +4,7 @@ import {
   type ValuationQuery,
 } from '../api/client'
 import { CAT_LABEL } from '../lib/categories'
+import { Headshot } from './Headshot'
 import { Markdown } from './Markdown'
 
 type Loaded<T> = { data: T | null; error: string | null }
@@ -273,7 +274,10 @@ export function PlayerDrawer({ playerId, query, onClose, onOpenPlayer }: Props) 
       <div ref={panel} className="drawer" role="dialog" aria-modal="true" aria-labelledby="drawer-title" tabIndex={-1}
         onClick={(e) => e.stopPropagation()}>
         <div className="drawer-head">
-          <h2 id="drawer-title">{card.data?.name ?? 'Player'}</h2>
+          <div className="drawer-title">
+            {card.data && <Headshot nbaId={card.data.nba_id} name={card.data.name} size="lg" />}
+            <h2 id="drawer-title">{card.data?.name ?? 'Player'}</h2>
+          </div>
           <button className="close" onClick={onClose} aria-label="Close">Close</button>
         </div>
         {card.data ? <Header card={card.data} selected={selected} /> : <Status error={card.error} what="the player" />}

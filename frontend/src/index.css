@@ -321,7 +321,7 @@ details.article > summary small { color: var(--muted); font-weight: 400; }
 .mlist { border: 1px solid var(--line); border-radius: 10px; background: var(--raised); font-variant-numeric: tabular-nums; }
 .mrow { padding: 6px 6px; border-bottom: 1px solid color-mix(in oklab, var(--line) 55%, transparent); cursor: pointer; }
 .mrow:not(.mhead):hover { background: var(--row-hover); }
-.mtop { display: grid; grid-template-columns: 1.4rem minmax(0, 1fr) 2.3rem 2.7rem 2.2rem 2.2rem; gap: 3px; align-items: center; }
+.mtop { display: grid; grid-template-columns: 1.4rem 2.1rem minmax(0, 1fr) 2.3rem 2.7rem 2.2rem 2.2rem; gap: 3px; align-items: center; }
 .mcats { display: grid; grid-template-columns: repeat(9, minmax(0, 1fr)); gap: 2px; margin-top: 4px; font-size: 0.74rem; }
 .mcats > span { text-align: center; }
 /* Category name above each value, so a row reads without the sticky header. */
@@ -355,3 +355,18 @@ details.article > summary small { color: var(--muted); font-weight: 400; }
 }
 .musg { display: inline-block; }
 .musg > span { display: inline-block; border-radius: 4px; padding: 0 3px; }
+
+/* Player photos */
+.headshot {
+  display: inline-flex; align-items: flex-end; justify-content: center; flex: none; overflow: hidden;
+  background: color-mix(in oklab, var(--line) 60%, var(--raised)); border-radius: 50%;
+}
+.headshot.sm { width: 28px; height: 28px; }
+.headshot.lg { width: 64px; height: 64px; }
+.headshot img { width: 135%; height: auto; display: block; }
+.headshot .initials { align-self: center; font-size: 0.7em; font-weight: 700; color: var(--muted); }
+.headshot.lg .initials { font-size: 1.2rem; }
+.name-cell { display: inline-flex; align-items: center; gap: 8px; vertical-align: middle; }
+table.values td.name { padding-top: 3px; padding-bottom: 3px; }
+.drawer-title { display: flex; align-items: center; gap: 12px; min-width: 0; }
+.drawer-title h2 { min-width: 0; }

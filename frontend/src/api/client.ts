@@ -97,6 +97,7 @@ export type ValuationQuery = {
 
 export type ValuedPlayer = {
   player_id: number
+  nba_id: string | null
   name: string
   team: string | null
   positions: string[] | null
@@ -117,6 +118,7 @@ export type Valuation = {
 
 export type PlayerCard = {
   player_id: number
+  nba_id: string | null
   name: string
   team: string | null
   positions: string[] | null

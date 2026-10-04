@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useMemo, useState, type CSSProperties } from 'react'
 import { api, type TagCount, type Valuation, type ValuationOptions, type ValuationQuery, type ValuedPlayer } from '../../api/client'
+import { Headshot } from '../../components/Headshot'
 import { PlayerDrawer } from '../../components/PlayerDrawer'
 import { CAT_LABEL } from '../../lib/categories'
 
@@ -110,7 +111,10 @@ function Cell({ col, p }: { col: Column; p: ValuedPlayer }) {
   const cls = [col.num && 'num', col.className].filter(Boolean).join(' ') || undefined
   return (
     <td className={cls}>
-      {col.key === 'name' ? <button className="link" aria-haspopup="dialog">{text}</button> : text}
+      {col.key === 'name'
+        ? <span className="name-cell"><Headshot nbaId={p.nba_id} name={p.name} />
+          <button className="link" aria-haspopup="dialog">{text}</button></span>
+        : text}
       {col.key === 'name' && p.injury && <span className="injury" title="Injury status (Yahoo)">{p.injury}</span>}
     </td>
   )
@@ -159,7 +163,7 @@ function MobileList({ rows, cols, cats, sort, onSort, onOpen }: {
     <div className="mlist">
       <div className="mrow mhead">
         <div className="mtop">
-          {head('rank', '#')}{head('name', 'Player')}
+          {head('rank', '#')}<span />{head('name', 'Player')}
           {top.map((c) => <span key={c.key} className="mnum">{head(c.key, TOP_LABEL[c.key])}</span>)}
         </div>
         <div className="mcats">{cats.map((c) => <span key={c.key}>{head(c.key, c.label)}</span>)}</div>
@@ -169,6 +173,7 @@ function MobileList({ rows, cols, cats, sort, onSort, onOpen }: {
           onKeyDown={(e) => { if (e.key === 'Enter') onOpen(p.player_id) }}>
           <div className="mtop">
             <span className="mrank">{p.rank ?? '-'}</span>
+            <Headshot nbaId={p.nba_id} name={p.name} />
             <span className="mname">
               <span className="mplayer">{p.name}{p.injury && <span className="injury">{p.injury}</span>}</span>
               <small>{sub(p)} {usgChip(p)}</small>

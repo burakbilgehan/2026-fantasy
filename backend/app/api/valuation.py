@@ -10,7 +10,7 @@ from sqlalchemy import func, select
 
 from app.analytics.valuation import BASES, CATEGORIES, MODELS, Settings, g_weights, run
 from app.db import SessionLocal
-from app.models import League, Player, PlayerAdvancedStats, PlayerGameLog, PlayerMarketValue, PlayerProjection, PlayerSeasonStats
+from app.models import League, Player, PlayerAdvancedStats, PlayerExternalId, PlayerGameLog, PlayerMarketValue, PlayerProjection, PlayerSeasonStats
 from app.seasons import CURRENT_SEASON, previous
 from app.sources.players.base import STAT_FIELDS
 
@@ -116,6 +116,13 @@ def usage_season(kind: str, season: str) -> str:
     return season if kind == "actual" else previous(season)
 
 
+def nba_ids(pks) -> dict[int, str]:
+    """NBA person id per player (headshot URL in the frontend)."""
+    with SessionLocal() as db:
+        return dict(db.execute(select(PlayerExternalId.player_pk, PlayerExternalId.external_id).where(
+            PlayerExternalId.source == "nba", PlayerExternalId.player_pk.in_(list(pks)))).all())
+
+
 def _usage(pks, season: str) -> dict[int, float]:
     with SessionLocal() as db:
         return dict(db.execute(select(PlayerAdvancedStats.player_pk, PlayerAdvancedStats.usg_pct).where(
@@ -160,6 +167,7 @@ def values(
     n_drafted, budget = _league_draft()
     usg_season = usage_season(kind, season)
     usage = _usage(base, usg_season)
+    nba = nba_ids(base)
 
     out = []
     for pk, r in base.items():
@@ -167,6 +175,7 @@ def values(
         y, e, yn = mk.get("yahoo"), mk.get("espn"), yahoo_now.get(pk)
         out.append({
             "player_id": pk,
+            "nba_id": nba.get(pk),
             "name": f"{p.first_name} {p.last_name}",
             "team": p.team,
             "positions": (yn.positions if yn else None) or ([p.position] if p.position else None),

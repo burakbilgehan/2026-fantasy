@@ -8,6 +8,7 @@ import re
 from fastapi import APIRouter, HTTPException
 from sqlalchemy import select
 
+from app.api.valuation import nba_ids
 from app.db import SessionLocal
 from app.knowledge import index, stats
 from app.models import DepthChartEntry, PlayerAdvancedStats, Player, PlayerMarketValue, PlayerMinutesProjection, PlayerProjection
@@ -45,6 +46,7 @@ def player_card(player_pk: int) -> dict:
         report = f"{stats.stat_table(numbers, newest_first=True)}\n\n{stats.price_table(numbers)}\n"
     return {
         "player_id": player_pk,
+        "nba_id": nba_ids([player_pk]).get(player_pk),
         "name": f"{p.first_name} {p.last_name}".strip(),
         "team": p.team,
         # Same rule as the value table: current Yahoo positions, else the identity source's position.
