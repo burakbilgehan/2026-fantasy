@@ -1,0 +1,146 @@
+{
+  "type": "object",
+  "properties": {
+    "summary": {
+      "type": "string"
+    },
+    "rules": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "text": {
+            "type": "string"
+          },
+          "ts": {
+            "type": "string",
+            "description": "Block timestamp where it is said, copied from the transcript, like 12:30"
+          },
+          "quote": {
+            "type": "string",
+            "description": "8 to 20 consecutive words copied exactly from the transcript"
+          }
+        },
+        "required": [
+          "text",
+          "ts",
+          "quote"
+        ]
+      }
+    },
+    "player_notes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "player": {
+            "type": "string"
+          },
+          "said_as": {
+            "type": "string"
+          },
+          "team": {
+            "type": "string"
+          },
+          "horizon": {
+            "type": "string",
+            "enum": [
+              "durable",
+              "current"
+            ]
+          },
+          "text": {
+            "type": "string"
+          },
+          "value_hint": {
+            "type": "string"
+          },
+          "ts": {
+            "type": "string",
+            "description": "Block timestamp where it is said, copied from the transcript, like 12:30"
+          },
+          "quote": {
+            "type": "string",
+            "description": "8 to 20 consecutive words copied exactly from the transcript"
+          }
+        },
+        "required": [
+          "player",
+          "said_as",
+          "team",
+          "horizon",
+          "text",
+          "ts",
+          "quote"
+        ]
+      }
+    },
+    "team_notes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "team": {
+            "type": "string"
+          },
+          "horizon": {
+            "type": "string",
+            "enum": [
+              "durable",
+              "current"
+            ]
+          },
+          "text": {
+            "type": "string"
+          },
+          "ts": {
+            "type": "string",
+            "description": "Block timestamp where it is said, copied from the transcript, like 12:30"
+          },
+          "quote": {
+            "type": "string",
+            "description": "8 to 20 consecutive words copied exactly from the transcript"
+          }
+        },
+        "required": [
+          "team",
+          "horizon",
+          "text",
+          "ts",
+          "quote"
+        ]
+      }
+    },
+    "claims_to_check": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "text": {
+            "type": "string"
+          },
+          "ts": {
+            "type": "string",
+            "description": "Block timestamp where it is said, copied from the transcript, like 12:30"
+          },
+          "quote": {
+            "type": "string",
+            "description": "8 to 20 consecutive words copied exactly from the transcript"
+          }
+        },
+        "required": [
+          "text",
+          "ts",
+          "quote"
+        ]
+      }
+    }
+  },
+  "required": [
+    "summary",
+    "rules",
+    "player_notes",
+    "team_notes",
+    "claims_to_check"
+  ]
+}

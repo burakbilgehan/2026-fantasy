@@ -1,0 +1,610 @@
+{
+ "video": {
+  "id": "E-KmhvyZ2CU",
+  "title": "Fantasy Basketball Mock Draft - It's Giannis Time [9 Cat 12 Teams Pick 5]",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-09-07",
+  "duration": "42:25",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T14:07:20+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.2561598,
+  "duration_ms": 57083
+ },
+ "summary": "Josh Lloyd runs a 12-team, 9-category mock draft from pick 5 and takes Giannis Antetokounmpo, saying his Yahoo ADP of 15 is far too low. He builds a punt free throw team. He explains that punting free throws does not mean drafting only bad free throw shooters, because free throws are linked to points, threes and assists. His team: Giannis, Jamal Murray, Alperen Sengun, Dejounte Murray, Matas Buzelis, Paul George, Rudy Gobert, Caleb Wilson, CJ McCollum, Isaiah Hartenstein, Jeremiah Fears, Tobias Harris, Collin Gillespie and Rui Hachimura. Along the way he gives quick takes on many picks. He calls Maxey at 8 and Kessler and Clingan too early, likes Reaves, Paul George and Hartenstein as values, and talks about late-round flyers, stashing, and why mock drafts matter less before preseason.",
+ "rules": [
+  {
+   "text": "In a punt free throw build, do not draft only bad free throw shooters. Free throws are linked to points, threes and assists, so doing that effectively punts four categories.",
+   "ts": "9:24",
+   "quote": "free throws are linked heavily to points, threes, and assists. And if you just draft guys with bad free throws",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 568
+  },
+  {
+   "text": "When punting a category you are not trying to be bad in it. You just stop caring about it and move resources to other categories.",
+   "ts": "13:07",
+   "quote": "when you're drafting a punt, whatever team, you're not I'm not trying to make it bad. I just don't care.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 791
+  },
+  {
+   "text": "Points and assists are very hard to find in good volume later in drafts, so secure them early.",
+   "ts": "13:07",
+   "quote": "points and assists are very hard, almost impossible to get in good volume later on",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 799
+  },
+  {
+   "text": "Do not let fantasy rankings drag you along. Target the individual categories and stats your team needs.",
+   "ts": "12:03",
+   "quote": "do not have the leash of fantasy rankings dragging you along like the nine cat sub that you are",
+   "verified": true,
+   "match_ratio": 0.95,
+   "seconds": 739
+  },
+  {
+   "text": "Heavy punting leads to low volume and more variance, which can cost you a playoff spot depending on the format.",
+   "ts": "22:58",
+   "quote": "it leads to variance issues with volume And depending on your playoff format and how many teams make it",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1394
+  },
+  {
+   "text": "Value wins leagues. Take players you think will consistently return more than the spot where you drafted them.",
+   "ts": "22:27",
+   "quote": "What wins a fantasy league is value. who is going to consistently in your opinion",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1366
+  },
+  {
+   "text": "Late-round flyers: take two upside players in a similar situation to improve the chance that at least one hits.",
+   "ts": "31:56",
+   "quote": "if you take both of those guys again, Yakel and Santos, I think your chance of hitting one",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1934
+  },
+  {
+   "text": "Late-round upside: a player drafted around 160 who might finish around 120 has upside. Drafting someone at 120 hoping he finishes at 120 has none.",
+   "ts": "40:17",
+   "quote": "I wouldn't take him at 120 hoping he finishes at 120. There's no upside in that",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2414
+  },
+  {
+   "text": "Stashing is risky in leagues with daily changes and short benches. Deep benches and games limits reward speculation.",
+   "ts": "37:09",
+   "quote": "stashing in a daily Changes league is fraught with danger.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2242
+  },
+  {
+   "text": "For long-term injured players like Jimmy Butler, use the IL slot if you have it, but cut them once you need the spot after the first two weeks.",
+   "ts": "37:09",
+   "quote": "But as soon as you need that spot outside of the first two weeks, move on.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2227
+  },
+  {
+   "text": "Mock drafts this early are of limited use, because media day and preseason news will make many results irrelevant.",
+   "ts": "17:50",
+   "quote": "we're going to see media day and preseason. And all this is going to become relatively irrelevant.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1091
+  },
+  {
+   "text": "Draft-room psychology: you can take one player and try to get another on the turn, but you may guess wrong about what other managers want.",
+   "ts": "14:12",
+   "quote": "I'm going to take Deonte and try and sneak Jaylen Brown. Now, that's a calculated risk.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 868
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Giannis Antetokounmpo",
+   "said_as": "Jiannis onto Kmpo",
+   "team": "",
+   "horizon": "current",
+   "text": "Taken at pick 5. The speaker thinks his Yahoo ADP of 15 is far too low and that he is clearly the pick there in head-to-head leagues.",
+   "ts": "5:45",
+   "quote": "Giannis has an ADP of 15 on Yahoo. He's ranked at nine. 15 is insaness.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 364
+  },
+  {
+   "player": "Giannis Antetokounmpo",
+   "said_as": "Janis",
+   "team": "",
+   "horizon": "durable",
+   "text": "Drafting him means building a punt free throw team.",
+   "ts": "9:24",
+   "quote": "when you are drafting a punt free throw team, which Janis is",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 561
+  },
+  {
+   "player": "Tyrese Maxey",
+   "said_as": "Tyus Maxi",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Pick 8 is too high for him, even with expected injuries to teammates.",
+   "ts": "6:49",
+   "quote": "I just think that's too high for Maxi.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 423
+  },
+  {
+   "player": "Kevin Durant",
+   "said_as": "Kevin Durant",
+   "team": "",
+   "horizon": "current",
+   "text": "Should be going in the late first round. The speaker would take him ahead of Scottie Barnes.",
+   "ts": "6:49",
+   "quote": "I think Kevin Durant should be going here.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 434
+  },
+  {
+   "player": "Kawhi Leonard",
+   "said_as": "Kawai",
+   "team": "",
+   "horizon": "current",
+   "text": "ADP is around 20. The speaker would not take him there.",
+   "ts": "7:20",
+   "quote": "Kawhai's got an ADP in the what's his ADP? 20. It's in the second round.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 444
+  },
+  {
+   "player": "Donovan Mitchell",
+   "said_as": "Don Mitchell",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Dropped off after Harden arrived. His assist rate and two-point percentage both fell. Whether he keeps his steals is a question.",
+   "ts": "7:52",
+   "quote": "Mitchell did suffer a big drop off when Harden arrived assist rate down and two point percentage fell",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 472
+  },
+  {
+   "player": "Tyrese Haliburton",
+   "said_as": "Hallebertton",
+   "team": "",
+   "horizon": "current",
+   "text": "Expected to miss games and play below his best early. Should be close to his best by February to April.",
+   "ts": "7:52",
+   "quote": "when things start ramping up February, March, April, he should be back close enough to his best",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 494
+  },
+  {
+   "player": "Austin Reaves",
+   "said_as": "Lawson Reeves",
+   "team": "",
+   "horizon": "current",
+   "text": "The speaker loves the pick and says he could be taken at 12 or 13.",
+   "ts": "8:22",
+   "quote": "I could make an argument that you could take Reeves at 12 or 13.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 511
+  },
+  {
+   "player": "Karl-Anthony Towns",
+   "said_as": "Townsy",
+   "team": "",
+   "horizon": "current",
+   "text": "Wary early on. He is coming off a Finals run, has a history of knee issues, and his minutes may be eased.",
+   "ts": "8:22",
+   "quote": "I don't love a guy coming off a finals run at that early stage with a bit of a history of knee injuries",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 518
+  },
+  {
+   "player": "Jamal Murray",
+   "said_as": "Jamal Murray",
+   "team": "",
+   "horizon": "durable",
+   "text": "Gives decent assists, very good volume scoring, a good field goal percentage for a guard, and threes.",
+   "ts": "9:24",
+   "quote": "Murray gets me decent assists, very good volume scoring, he's a pretty good field goal percentage guy as a guard",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 576
+  },
+  {
+   "player": "Walker Kessler",
+   "said_as": "Walker Kesler",
+   "team": "",
+   "horizon": "current",
+   "text": "Going in the top 30 is far too early for him.",
+   "ts": "9:55",
+   "quote": "I hate Walker Kesler in round in that early. That's in top 30. Crazy to me.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 611
+  },
+  {
+   "player": "Alperen Sengun",
+   "said_as": "Shenun",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Taken in round 3. There is some worry about his minutes upside because the coach focuses on defense and sometimes prefers other bigs.",
+   "ts": "10:28",
+   "quote": "I'm a little worried about some of the minutes upside for Shenun.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 657
+  },
+  {
+   "player": "Paul George",
+   "said_as": "Paul George",
+   "team": "",
+   "horizon": "current",
+   "text": "Seen as a top 30ish per-game player who can be drafted very late, despite injury risk. Taken at 68. His Fantrax ADP is 76, and the speaker thinks he can beat it by 3 to 4 rounds.",
+   "ts": "19:22",
+   "quote": "his ADP. I think he can beat this by three rounds, four maybe, which I like.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1162
+  },
+  {
+   "player": "Jalen Brunson",
+   "said_as": "Jaylen Brunson",
+   "team": "",
+   "horizon": "durable",
+   "text": "Gives good points, solid efficiency and good free throws, but hurts you in several other categories.",
+   "ts": "12:03",
+   "quote": "Getting good points, getting solid efficiency, good free throws. Yeah, he hurts you in a bunch of other areas",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 730
+  },
+  {
+   "player": "Donovan Clingan",
+   "said_as": "Klingan",
+   "team": "",
+   "horizon": "current",
+   "text": "Overhyped. The speaker has no interest at his third-round cost.",
+   "ts": "12:36",
+   "quote": "people are absolutely fluffing Klingan to an insane degree. I am not interested at all.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 762
+  },
+  {
+   "player": "Joel Embiid",
+   "said_as": "Joel Embiid",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "The speaker's rule is not to take him in the top 50. He went at 56.",
+   "ts": "16:46",
+   "quote": "Joel Embiid 56. My rule on him is pretty clear. Just don't do it in the top 50.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1010
+  },
+  {
+   "player": "LeBron James",
+   "said_as": "LeBron",
+   "team": "",
+   "horizon": "current",
+   "text": "Went at 58, which could be very good value.",
+   "ts": "17:17",
+   "quote": "LeBron goes next at 58. That could be very, very good. Like really good.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1037
+  },
+  {
+   "player": "Rudy Gobert",
+   "said_as": "Gobbit",
+   "team": "",
+   "horizon": "durable",
+   "text": "Gives big rebounds and a good field goal and block bump. Taken instead of spending a third-round pick on Clingan.",
+   "ts": "21:27",
+   "quote": "Big rebounds, good field goal bump, good block bump instead of spending a third round pick on Donovan Klingan.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1274
+  },
+  {
+   "player": "Jarrett Allen",
+   "said_as": "Jarrett Allen",
+   "team": "",
+   "horizon": "durable",
+   "text": "Apparently doesn't block shots anymore, but gives good rebounds and field goal percentage.",
+   "ts": "23:30",
+   "quote": "Doesn't block shots anymore apparently, but good rebound, good field goal guy.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1413
+  },
+  {
+   "player": "CJ McCollum",
+   "said_as": "CJ McCullum",
+   "team": "",
+   "horizon": "current",
+   "text": "Taken to boost points, threes and assists and fill a guard spot. The speaker has no worries about him being moved.",
+   "ts": "26:05",
+   "quote": "adding CJ fills my guard hole and gives me what I need there.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1569
+  },
+  {
+   "player": "Zach LaVine",
+   "said_as": "Lavine",
+   "team": "",
+   "horizon": "current",
+   "text": "Risky because it is unclear where he will end up. Went at 114.",
+   "ts": "28:48",
+   "quote": "Why is he risky? Cuz I just don't know where he's going to end up.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1728
+  },
+  {
+   "player": "Isaiah Hartenstein",
+   "said_as": "Hardenstein",
+   "team": "",
+   "horizon": "current",
+   "text": "Seen as value, going far too late. The speaker took him around pick 116.",
+   "ts": "29:21",
+   "quote": "It's way too late, I think, on Hardenstein.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1761
+  },
+  {
+   "player": "Brandin Podziemski",
+   "said_as": "Pajki",
+   "team": "GSW",
+   "horizon": "current",
+   "text": "Expected to start the season well, but the speaker thinks Warriors players will fade as the season goes on.",
+   "ts": "27:09",
+   "quote": "A lot of the Warriors guys, they will fade, I think, as the season goes on.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1651
+  },
+  {
+   "player": "Saddiq Bey",
+   "said_as": "Sadique Bay",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Pick 119 is a bad pick. He might only be the seventh or eighth man on the Pelicans.",
+   "ts": "29:52",
+   "quote": "A guy who might be the eighth, seventh man on the Pelicans. No thank you.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1811
+  },
+  {
+   "player": "Jrue Holiday",
+   "said_as": "Drew Holiday",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Little upside, even with Shaedon Sharpe out.",
+   "ts": "29:21",
+   "quote": "I know Shaden Sharp is out, but what's Drew going to give us? Is there any upside in Drew?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1784
+  },
+  {
+   "player": "Reed Sheppard",
+   "said_as": "Reed Shepard",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "His numbers are impressive, but the speaker doubts Houston will give him 30 minutes. He probably returns value at his draft spot.",
+   "ts": "32:26",
+   "quote": "if he had 30-minute upside, that's an absolute banger of a pick. I just don't think Houston's going to do it.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1970
+  },
+  {
+   "player": "Ben Simmons",
+   "said_as": "Ben Simmons",
+   "team": "",
+   "horizon": "current",
+   "text": "Will be a streamable player at times this season, around 5 points, 5 rebounds and 5 assists.",
+   "ts": "32:58",
+   "quote": "he will be a a very clear streamable player this season at times. He'll be a five five and five",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1986
+  },
+  {
+   "player": "Kevin Porter Jr.",
+   "said_as": "Kevin Porter",
+   "team": "",
+   "horizon": "current",
+   "text": "His role is unclear, but he is a clear no-brainer pick in the late rounds.",
+   "ts": "33:29",
+   "quote": "taking him there. Clear no-brainer. Clearly a no-brainer.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2015
+  },
+  {
+   "player": "Collin Gillespie",
+   "said_as": "Colin Gillespie",
+   "team": "",
+   "horizon": "current",
+   "text": "Likely to come off the bench, but one injury would raise his value. Taken late.",
+   "ts": "36:07",
+   "quote": "I think he's going to come off the bench, but one injury and we're elevated.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2180
+  },
+  {
+   "player": "Jimmy Butler",
+   "said_as": "Jim Butler",
+   "team": "",
+   "horizon": "current",
+   "text": "Likely out until January. Hold him only if you have a free injured slot.",
+   "ts": "37:09",
+   "quote": "He's not going to be back likely until January.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2221
+  },
+  {
+   "player": "Maxime Raynaud",
+   "said_as": "Maxim Reno",
+   "team": "SAC",
+   "horizon": "current",
+   "text": "Only a stash pick while waiting for a Sabonis trade. He is likely to have little value early.",
+   "ts": "37:09",
+   "quote": "you are drafting him to stash cuz I really don't think he's going to have any value early on.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2236
+  },
+  {
+   "player": "Julian Champagnie",
+   "said_as": "Julian Champany",
+   "team": "SAS",
+   "horizon": "current",
+   "text": "Unclear where his minutes come from with Dylan Harper and Tobias Harris there.",
+   "ts": "38:13",
+   "quote": "I'm not sure where the minutes are for Champi. If Dylan Harper is going to play more and Toby Harris is there",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2316
+  },
+  {
+   "player": "Rui Hachimura",
+   "said_as": "Hutchimmer",
+   "team": "",
+   "horizon": "current",
+   "text": "Not a good player, but he has a chance at the biggest role of his career. Seen as an upside pick at 164 for points and threes.",
+   "ts": "39:46",
+   "quote": "Hutchimmer's got a chance to have the biggest role he's ever had and taking him at pick number 164",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2401
+  },
+  {
+   "player": "Payton Pritchard",
+   "said_as": "Payton Pritchard",
+   "team": "",
+   "horizon": "current",
+   "text": "Pick 95 is not early. The speaker calls it a good pick.",
+   "ts": "25:03",
+   "quote": "Payton Pritchard goes at 95. Now people are going early on Pritchard. I don't think that's early.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1510
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "HOU",
+   "horizon": "current",
+   "text": "The coach's focus on defense means other bigs sometimes play over Sengun, which limits his minutes.",
+   "ts": "11:01",
+   "quote": "obsession with defense means that there are times when you go, I want Adams out there or I want E",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 667
+  },
+  {
+   "team": "GSW",
+   "horizon": "current",
+   "text": "The speaker expects Warriors players to fade as the season goes on.",
+   "ts": "27:09",
+   "quote": "A lot of the Warriors guys, they will fade, I think, as the season goes on.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1651
+  },
+  {
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Last season Embiid and George missed big stretches of time.",
+   "ts": "6:49",
+   "quote": "We saw last season it was Embiid and George being out for big periods of time.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 416
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Giannis Antetokounmpo played about 28 to 29 minutes per game last season.",
+   "ts": "5:45",
+   "quote": "He played like 28 minutes a game last season. 29 minutes a game.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 370
+  },
+  {
+   "text": "Giannis has a Yahoo ADP of 15 and a Yahoo rank of 9.",
+   "ts": "5:45",
+   "quote": "Giannis has an ADP of 15 on Yahoo. He's ranked at nine.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 364
+  },
+  {
+   "text": "Donovan Mitchell's assist rate and two-point percentage fell after Harden arrived.",
+   "ts": "7:52",
+   "quote": "Mitchell did suffer a big drop off when Harden arrived assist rate down and two point percentage fell",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 472
+  },
+  {
+   "text": "Paul George has a Fantrax ADP of 76.",
+   "ts": "16:15",
+   "quote": "His Fantre ADP is 76.",
+   "verified": false,
+   "match_ratio": 0.0,
+   "seconds": 975
+  },
+  {
+   "text": "Jarrett Allen no longer blocks many shots.",
+   "ts": "23:30",
+   "quote": "Doesn't block shots anymore apparently, but good rebound, good field goal guy.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1413
+  },
+  {
+   "text": "Maxime Raynaud was at most around a top 100 player even when starting last season.",
+   "ts": "37:43",
+   "quote": "even as a starter last season was like maybe maybe top 100",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2253
+  }
+ ]
+}

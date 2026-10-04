@@ -21,6 +21,7 @@ One local backend, one database, one frontend. Features are widgets on that fron
 - `docs/ARCHITECTURE.md`: stack, folders, data flow, widget model.
 - `docs/DATA_SOURCES.md`: every external source, with verification status.
 - `docs/modules/draft.md`: draft tool spec.
+- `prompts/`: every prompt and model setting sent to `claude -p`, one folder per job. Keep it current; code reads it from there.
 
 ## Related local projects (reference only, do not edit)
 - `~/projects/fantasy-basketball`: older Next.js attempt (Jan 2026). Has a Yahoo client (`lib/yahoo/`) and specs.

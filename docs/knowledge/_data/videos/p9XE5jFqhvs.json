@@ -1,0 +1,536 @@
+{
+ "video": {
+  "id": "p9XE5jFqhvs",
+  "title": "Detroit Pistons Season Preview: A Step Forward For Ausar Thompson?",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-08-12",
+  "duration": "34:29",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T13:49:51+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.2613318,
+  "duration_ms": 62065
+ },
+ "summary": "Josh Lloyd and Coop (Locked On Pistons) preview the Detroit Pistons after a 60-win, number one seed season that ended in the second round. The roster changed: John Collins replaces Tobias Harris, Isaiah Stewart was traded, and Isaiah Joe was added. Jalen Duren's restricted free agency is stuck in a standoff. Coop expects him back on a deal somewhere around 35 to 45 million. The main fantasy story is Ausar Thompson. The team plans to give him more minutes and more time on the ball, and they expect him to take about three threes a game with a rebuilt jump shot. Josh says modest gains in shooting, usage, assists and minutes would make Ausar a top 50 player. Coop projects 50 to 51 wins and a third or fourth seed in the East.",
+ "rules": [
+  {
+   "text": "Don't fully trust what a coach says about roles and minutes. This coach has said things about roles and minutes before that did not come true.",
+   "ts": "24:07",
+   "quote": "JB has said some things about players roles and minutes in the past which have um been lies",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1447
+  },
+  {
+   "text": "A very deep rotation of 12 to 13 players caps minutes for everyone, even starters. No Pistons player got much past 35 minutes.",
+   "ts": "23:00",
+   "quote": "they had a very deep rotation where they played 13 12 guys and it was I think that impacted it",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1386
+  },
+  {
+   "text": "Young, deep, defense-first teams tend to win more regular season games than their talent suggests.",
+   "ts": "30:21",
+   "quote": "You're young legs, you play defense every night and you're a deep team, you will win regular season games.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1829
+  },
+  {
+   "text": "Be skeptical when a non-shooter rebuilds his jumper. The speaker believes it fails more often than it works.",
+   "ts": "28:04",
+   "quote": "I'm sure it's a lot more bad didn't it work and then it is actually good outcomes",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1684
+  },
+  {
+   "text": "Small gains add up. A few points better from three, more usage, an extra assist and more minutes can move a player into the top 50.",
+   "ts": "33:08",
+   "quote": "Two percentage points of usage, an assist, four extra minutes. That's a top 50 player.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2006
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Ausar Thompson",
+   "said_as": "Assar",
+   "team": "DET",
+   "horizon": "current",
+   "text": "All sides agreed he must play a lot. He averaged 32 minutes over the last 12 playoff games, and Coop expects heavy minutes next season.",
+   "ts": "23:34",
+   "quote": "the rest of the time in the playoffs the next 12 games he played 32 minutes a game",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1423
+  },
+  {
+   "player": "Ausar Thompson",
+   "said_as": "Assad Thompson",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He played only 26 minutes a game last season. One reason was staggering his minutes with Ron Holland.",
+   "ts": "20:52",
+   "quote": "he played 26 minutes per game last season and we know that he had the blood clot issue",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1261
+  },
+  {
+   "player": "Ausar Thompson",
+   "said_as": "Assar",
+   "team": "DET",
+   "horizon": "current",
+   "text": "The front office wants to see him on the ball more. Some of Tobias Harris's old usage is meant to go to him.",
+   "ts": "17:06",
+   "quote": "but they want to see what Assar looks like on ball",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1047
+  },
+  {
+   "player": "Ausar Thompson",
+   "said_as": "Assar",
+   "team": "DET",
+   "horizon": "current",
+   "text": "His jump shot was rebuilt. The team expects about three three-point attempts a game and more midrange shots.",
+   "ts": "27:30",
+   "quote": "I think he's going to shoot three attempts from three this upcoming year",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1658
+  },
+  {
+   "player": "Ausar Thompson",
+   "said_as": "Assar Thompson",
+   "team": "DET",
+   "horizon": "current",
+   "text": "Josh says a bit better three-point shooting plus more usage, assists and minutes would make him a top 50 player. Drafters are not taking him that high.",
+   "ts": "33:08",
+   "quote": "Two percentage points of usage, an assist, four extra minutes. That's a top 50 player. We're not drafting him there",
+   "value_hint": "top 50 upside, drafted lower",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2006
+  },
+  {
+   "player": "Ausar Thompson",
+   "said_as": "Assad Thompson",
+   "team": "DET",
+   "horizon": "durable",
+   "text": "Elite defender with strong steal and block numbers for fantasy.",
+   "ts": "24:07",
+   "quote": "those delectible steel block numbers all the stuff that does especially if you're gonna have the usage",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1447
+  },
+  {
+   "player": "Ausar Thompson",
+   "said_as": "Assad Thompson",
+   "team": "DET",
+   "horizon": "durable",
+   "text": "His share of self-creation plays rose last season, but his efficiency on them was well below league average.",
+   "ts": "21:27",
+   "quote": "his efficiency on those dropped pretty significantly as well below league average in that area",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1287
+  },
+  {
+   "player": "Ausar Thompson",
+   "said_as": "Assar",
+   "team": "DET",
+   "horizon": "current",
+   "text": "Coop expects him to get a contract extension before the regular season starts.",
+   "ts": "14:18",
+   "quote": "they're going to extend Assar by the end of this offseason before the regular season starts",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 869
+  },
+  {
+   "player": "Jalen Duren",
+   "said_as": "Duran",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He is in a restricted free agency standoff, asking 45 million or more against Detroit's 35 to 38 million. Coop still expects him back with the team.",
+   "ts": "15:23",
+   "quote": "I think he's going to be back on the team because there's no other real out",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 932
+  },
+  {
+   "player": "Jalen Duren",
+   "said_as": "Duran",
+   "team": "DET",
+   "horizon": "durable",
+   "text": "Great in the pick and roll, on the offensive glass and finishing putbacks. He does not defend well or space the floor.",
+   "ts": "18:14",
+   "quote": "is incredible offensive rebound. He's incredible finisher on putbacks.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1103
+  },
+  {
+   "player": "Jalen Duren",
+   "said_as": "Duran",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He almost tripled his self-creation volume last season and was efficient on those plays.",
+   "ts": "18:14",
+   "quote": "this past year almost tripled his volume and self-creation uh play types",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1109
+  },
+  {
+   "player": "Jalen Duren",
+   "said_as": "Duran",
+   "team": "DET",
+   "horizon": "current",
+   "text": "His playoffs were very bad. Paul Reed outplayed him.",
+   "ts": "32:31",
+   "quote": "it be almost impossible for Duran to have a worse playoffs than what he had",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1971
+  },
+  {
+   "player": "Cade Cunningham",
+   "said_as": "Kate Cunningham",
+   "team": "DET",
+   "horizon": "durable",
+   "text": "He carries a heavy creation load, which hurts his finishing and two-point percentage.",
+   "ts": "15:56",
+   "quote": "Some of this leads to some of his subpar uh finishing numbers and",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 981
+  },
+  {
+   "player": "Cade Cunningham",
+   "said_as": "Kay",
+   "team": "DET",
+   "horizon": "current",
+   "text": "The team wants him to get more catch-and-shoot threes, with Ausar running some of the offense.",
+   "ts": "26:24",
+   "quote": "They want to see Kay get more catch and shoot threes to where he's not creating everything for himself.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1602
+  },
+  {
+   "player": "John Collins",
+   "said_as": "John Collins",
+   "team": "DET",
+   "horizon": "durable",
+   "text": "Shoots a good percentage from three but takes few threes. He does not create his own shot.",
+   "ts": "2:50",
+   "quote": "He might be a better shooter in percentages, but he doesn't take many of them.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 170
+  },
+  {
+   "player": "John Collins",
+   "said_as": "John Collins",
+   "team": "DET",
+   "horizon": "durable",
+   "text": "An off-ball play finisher. He spaces the corners, cuts and has been a good offensive rebounder throughout his career.",
+   "ts": "3:57",
+   "quote": "he'll space the floor in the corners. Um, he'll cut, he'll be a good offensive rebounder.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 253
+  },
+  {
+   "player": "John Collins",
+   "said_as": "John Collins",
+   "team": "DET",
+   "horizon": "current",
+   "text": "Projected starting power forward, replacing Tobias Harris.",
+   "ts": "2:14",
+   "quote": "replacing Tobias Harris at power ford with John Collins",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 134
+  },
+  {
+   "player": "Isaiah Stewart",
+   "said_as": "Stu",
+   "team": "MEM",
+   "horizon": "durable",
+   "text": "Has not finished a season healthy in the last three or four years.",
+   "ts": "6:07",
+   "quote": "he last three four years he hasn't been able to finish the season healthy",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 375
+  },
+  {
+   "player": "Isaiah Stewart",
+   "said_as": "Stu",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Traded to Memphis. He wants a bigger role and more three-point attempts.",
+   "ts": "6:39",
+   "quote": "He's wanted to shoot more threes the last two years.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 416
+  },
+  {
+   "player": "Paul Reed",
+   "said_as": "Paul Reed",
+   "team": "DET",
+   "horizon": "current",
+   "text": "The Pistons view him as better than Stewart. He was excellent in the regular season and the playoffs, and he badly outplayed Duren and Stewart.",
+   "ts": "7:12",
+   "quote": "I think the Pistons felt like Paul Reed was just better.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 432
+  },
+  {
+   "player": "Duncan Robinson",
+   "said_as": "Duncan",
+   "team": "DET",
+   "horizon": "current",
+   "text": "Expected to lock into the starting shooting guard spot.",
+   "ts": "8:55",
+   "quote": "I think Duncan's going to lock into the spot.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 562
+  },
+  {
+   "player": "Duncan Robinson",
+   "said_as": "Duncan Robinson",
+   "team": "DET",
+   "horizon": "durable",
+   "text": "Elite three-point shooter. His free throw percentage fell sharply last season on low volume.",
+   "ts": "11:08",
+   "quote": "why he went from a 90% free throw shooter to a 75% free throw shooter?",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 684
+  },
+  {
+   "player": "Duncan Robinson",
+   "said_as": "Duncan",
+   "team": "DET",
+   "horizon": "current",
+   "text": "Hurt his back in game four of the playoffs, which limited him for the rest of the postseason.",
+   "ts": "9:30",
+   "quote": "Duncan getting",
+   "value_hint": "",
+   "verified": false,
+   "match_ratio": 0.0,
+   "seconds": 570
+  },
+  {
+   "player": "Isaiah Joe",
+   "said_as": "Isaiah Joe",
+   "team": "DET",
+   "horizon": "durable",
+   "text": "Has some impact creating turnovers, but his defense kept him off the floor in OKC's last two playoff runs.",
+   "ts": "10:35",
+   "quote": "I know he has a footprint on some potential impact on creating turnovers",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 643
+  },
+  {
+   "player": "Isaiah Joe",
+   "said_as": "Isaiah Joe",
+   "team": "DET",
+   "horizon": "current",
+   "text": "The most likely challenger to Duncan Robinson for the starting spot.",
+   "ts": "10:35",
+   "quote": "I would think it's Isaiah Joe if they believe that he can offer a little bit more defensively",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 643
+  },
+  {
+   "player": "Ron Holland",
+   "said_as": "Ron Holland",
+   "team": "DET",
+   "horizon": "current",
+   "text": "His minutes were staggered with Ausar's last season. Expect them to play together more this season.",
+   "ts": "21:57",
+   "quote": "I think this year you're going to see a little bit more of them both playing together",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1341
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "DET",
+   "horizon": "current",
+   "text": "Projected starters: Cade Cunningham, Ausar Thompson, John Collins, Jalen Duren and Duncan Robinson.",
+   "ts": "8:22",
+   "quote": "your projected starting group is no surprise K Cunningham this Thompson John Collins Jaylen Duran",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 526
+  },
+  {
+   "team": "DET",
+   "horizon": "durable",
+   "text": "The team is built on defense. The front office only wants enough offense, not an offensive superstar.",
+   "ts": "19:49",
+   "quote": "I don't think we need to stop being, you know, core identity defense. I just believe we need to have enough offense.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1189
+  },
+  {
+   "team": "DET",
+   "horizon": "current",
+   "text": "Last season they used a deep 12 to 13 player rotation that limited everyone's minutes.",
+   "ts": "23:00",
+   "quote": "they had a very deep rotation where they played 13 12 guys",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1386
+  },
+  {
+   "team": "DET",
+   "horizon": "current",
+   "text": "Coop projects 50 to 51 wins and a third or fourth seed in the East.",
+   "ts": "29:16",
+   "quote": "I think the team's going to win between 50 51 games",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1765
+  },
+  {
+   "team": "DET",
+   "horizon": "current",
+   "text": "If the Ausar and Duren on-ball plan is failing by January, they may trade for a secondary playmaker at the deadline.",
+   "ts": "28:40",
+   "quote": "I think then you might see them make a move for like a secondary playmaker at the deadline",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1738
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Pistons were the number one regular season team in the East and won 60 games last season.",
+   "ts": "29:16",
+   "quote": "Like again, they won 60 games last season. They lost in the second round of the playoffs",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1749
+  },
+  {
+   "text": "Ausar Thompson averaged 26 minutes per game last season.",
+   "ts": "20:52",
+   "quote": "he played 26 minutes per game last season and we know that he had the blood clot issue",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1261
+  },
+  {
+   "text": "Ausar's creation play types rose from 12% to 18%, and his time on ball rose four percentage points.",
+   "ts": "21:27",
+   "quote": "um his creation play types went up from 12 to 18% even though his efficiency on those dropped",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1287
+  },
+  {
+   "text": "In the first 10 games Ausar averaged 14 points, 7 rebounds and 4 assists on 50% shooting, and the team went 8-2.",
+   "ts": "25:12",
+   "quote": "The team was 8-2. He was averaging 14, seven and four a game. He was shooting 50% from the field.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1534
+  },
+  {
+   "text": "Ausar averaged 32 minutes over the last 12 playoff games.",
+   "ts": "23:34",
+   "quote": "the rest of the time in the playoffs the next 12 games he played 32 minutes a game",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1423
+  },
+  {
+   "text": "Duncan Robinson's free throw percentage by season went 91, 89, 89, then 76.",
+   "ts": "11:08",
+   "quote": "this guy was 91 89 89 76",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 684
+  },
+  {
+   "text": "Duncan Robinson shot 44% from three over roughly the final 20 regular season games.",
+   "ts": "11:08",
+   "quote": "over the final like 20 games or whatever he was shooting at 44% from three",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 700
+  },
+  {
+   "text": "The Pistons' starting five was about plus 11.2 for the season.",
+   "ts": "8:55",
+   "quote": "I think over at David Baller they have him at plus like 11.2",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 562
+  },
+  {
+   "text": "Cade led the team in minutes without going much past 35 a game. Duren was around 30.",
+   "ts": "22:30",
+   "quote": "I think Cade was their lead minute getter, but I",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1372
+  },
+  {
+   "text": "The Pistons' win total over/under is 50.5.",
+   "ts": "29:16",
+   "quote": "I think their over under last time I checked was 50 and a half",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1765
+  }
+ ]
+}

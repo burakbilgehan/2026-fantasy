@@ -1,0 +1,354 @@
+{
+ "video": {
+  "id": "rnq3118kfhY",
+  "title": "Cleveland Cavaliers - I Think This Is Their BEST Chance [NBA]",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-08-24",
+  "duration": "33:47",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T13:51:13+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.1874518,
+  "duration_ms": 31563
+ },
+ "summary": "Josh Lloyd and Danny Cunningham of Locked On Cavs preview the 2026-27 Cleveland Cavaliers. Cleveland added Peyton Watson in a sign-and-trade, drafted Malik Thomas and signed Mario Hezonja. They lost Max Strus, Dennis Schroder, Kennedy Chandler... more precisely Keon Ellis and Dean Wade. The projected starters are Harden, Mitchell, Watson, Mobley and Allen. Josh thinks Watson's usage will drop but his minutes will be more stable. The bigger worry is front court depth behind Mobley and Allen, since Thomas Bryant is the only backup. Jaylen Tyson's year three and Evan Mobley's offensive growth are named as the swing factors. Danny predicts about 51 to 53 wins and says a hard travel stretch from December 23 to February 6 could wear on them.",
+ "rules": [
+  {
+   "text": "A player who moves to a deeper team can lose usage and still gain fantasy value, because his minutes and role become more stable.",
+   "ts": "15:19",
+   "quote": "I think his minutes stability rises quite",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 940
+  },
+  {
+   "text": "Hot shooting during a stretch when teammates are injured may not last once the rotation is healthy. Look for a bigger sample, around 45 to 50 games, before trusting it.",
+   "ts": "27:53",
+   "quote": "I'd like to see it happen for more than 45 50 games in terms of that shooting",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1682
+  },
+  {
+   "text": "A long run of travel with no consecutive home or road games can wear a team down. That stretch of the schedule is worth noting.",
+   "ts": "31:11",
+   "quote": "They're traveling basically every other day for a month and a half.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1871
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Peyton Watson",
+   "said_as": "Pton Watson",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Expected to be a locked-in starter at 30+ minutes. His usage likely falls from 21 last season to about 19 or 20, but his role should be more stable.",
+   "ts": "15:49",
+   "quote": "He's playing 30 plus without any question. Like in his usage from his numbers last season probably does go down.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 949
+  },
+  {
+   "player": "Peyton Watson",
+   "said_as": "Payton Watson",
+   "team": "CLE",
+   "horizon": "durable",
+   "text": "Good three-point shooter, especially from the corners. His 3P% has risen every year (just under 30%, then 35%, then 41%), and his FT% has climbed every year too. Rated a good defender.",
+   "ts": "14:45",
+   "quote": "he went from just under 30% in his second year to 35% in his third year, 41% in his fourth year",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 885
+  },
+  {
+   "player": "Peyton Watson",
+   "said_as": "Payton Watson",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Could take a high-usage role on nights when Donovan Mitchell or others sit, as he did in Denver.",
+   "ts": "15:19",
+   "quote": "he's able to elevate and be in a a more high usage role on nights when maybe everybody's not available",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 919
+  },
+  {
+   "player": "Jaylen Tyson",
+   "said_as": "Jaylen Tyson",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Expected to play a much bigger role in year three. The Max Strus trade partly cleared space for him. Danny doubts his roughly 45% three-point shooting will repeat but thinks above 40% is possible.",
+   "ts": "7:39",
+   "quote": "they're expecting him to be a much bigger part of this roster to be a much bigger part",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 467
+  },
+  {
+   "player": "Jaylen Tyson",
+   "said_as": "Jaylen Tyson",
+   "team": "CLE",
+   "horizon": "durable",
+   "text": "His production was great when teammates were out and faded when they returned. Last season he had a high passing turnover rate and low assist numbers. Josh wants a bigger sample before trusting him.",
+   "ts": "26:45",
+   "quote": "His passing turnover rate was really quite high. His assist numbers were pretty low.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1621
+  },
+  {
+   "player": "Jaylen Tyson",
+   "said_as": "Jaylen Tyson",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Danny says the next step is to average 15 to 16 points on good efficiency as a secondary creator.",
+   "ts": "26:13",
+   "quote": "can comfortably average 15 to 16 points a game on fairly",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1565
+  },
+  {
+   "player": "Evan Mobley",
+   "said_as": "Evan Mobley",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Had a down season after two calf strains, coming back early and playing on a minutes restriction. He looked better in the playoffs. Seen as a big year for him offensively.",
+   "ts": "17:33",
+   "quote": "how impactful those calf injuries were for Evan Mobley because he missed a couple of different stretches",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1053
+  },
+  {
+   "player": "Evan Mobley",
+   "said_as": "Evan Mobley",
+   "team": "CLE",
+   "horizon": "durable",
+   "text": "Elite defender with a high floor and a pretty good passer out of the pocket. The question is whether his offense can take the next step.",
+   "ts": "18:41",
+   "quote": "the offensive stuff, I think he's got the tools. The question is whether or not he can actually put it together",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1121
+  },
+  {
+   "player": "Donovan Mitchell",
+   "said_as": "Dom Mitchell",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "His assists and touches dropped after James Harden arrived, while his shooting efficiency rose sharply.",
+   "ts": "8:45",
+   "quote": "when Harden arrived his shooting went through the roof but like his touches, his assists all dropped down",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 539
+  },
+  {
+   "player": "James Harden",
+   "said_as": "Harden",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "His usage fell significantly when paired with Donovan Mitchell. Considered durable. Turning 37.",
+   "ts": "8:45",
+   "quote": "We saw Mitchell's assist numbers dip. We saw Harden's usage fall off pretty significantly.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 533
+  },
+  {
+   "player": "Jarrett Allen",
+   "said_as": "Jared Allen",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Thrived in February with Harden and with Mobley out. He had a knee injury late last season. Josh notes his minutes sometimes drop and he sits out fourth quarters.",
+   "ts": "9:48",
+   "quote": "you look at what Jared Allen was able to do in the month of February in particular",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 611
+  },
+  {
+   "player": "Max Strus",
+   "said_as": "Max Strus",
+   "team": "",
+   "horizon": "current",
+   "text": "Traded in the Watson deal. He played about 12 regular season games last year because of a Jones fracture. Over 30 and on an expiring contract.",
+   "ts": "6:38",
+   "quote": "I believe he played in 12 regular season games. didn't make his season debut until March because of that Jones fracture",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 412
+  },
+  {
+   "player": "Mario Hezonja",
+   "said_as": "Mario Honia",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "His contract is non-guaranteed until November 15 and could be cut. The Cavs reportedly expect him to be part of the rotation.",
+   "ts": "4:21",
+   "quote": "they expect Mario Honia to be part of the Cavs. They expect Mario Hona to be impactful for the Cavs",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 277
+  },
+  {
+   "player": "Thomas Bryant",
+   "said_as": "Thomas Bryant",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "The only backup big behind Mobley and Allen. Inconsistent, with bad shooting and weak defense at times.",
+   "ts": "22:19",
+   "quote": "Thomas Bryant again can have these games that look great and then he's just completely lost in other ones",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1342
+  },
+  {
+   "player": "Craig Porter Jr.",
+   "said_as": "Craig Porter Jr.",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Fourth year in the league. Danny calls it now or never for a rotation spot. He is a strong defender with iffy shooting and offense.",
+   "ts": "21:49",
+   "quote": "he's been in the league for four years and it's kind of now or never",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1309
+  },
+  {
+   "player": "Malik Thomas",
+   "said_as": "Malik Thomas",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Rookie draftee who is 20 years old with a high ceiling. His body needs work.",
+   "ts": "21:15",
+   "quote": "I don't know what he's going to be and he's 20 years old",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1293
+  },
+  {
+   "player": "Tyrese Proctor",
+   "said_as": "Tyrese Proctor",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Former second-round pick. Danny and the Cavs are high on him.",
+   "ts": "21:49",
+   "quote": "I'm high on Tyrese Proctor. The Cavs like Tyresese Proctor.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1300
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Projected starters: James Harden, Donovan Mitchell, Peyton Watson, Evan Mobley, Jarrett Allen.",
+   "ts": "8:12",
+   "quote": "Jim Harden, Donovan Mitchell, Pton Watson, Evan Mobley, Jared Allen, the most easiest group",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 510
+  },
+  {
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Lost Max Strus, Dennis Schroder, Keon Ellis and Dean Wade, all rotation players.",
+   "ts": "5:29",
+   "quote": "Max Strus, Schroeder, Keon Ellis, Dean Wade, all gone",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 329
+  },
+  {
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Front court depth is thin: only Thomas Bryant behind Mobley and Allen. Losing Dean Wade also removes the small-ball five option.",
+   "ts": "20:14",
+   "quote": "only having Thomas Bryant to rely upon beyond those guys",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1222
+  },
+  {
+   "team": "CLE",
+   "horizon": "current",
+   "text": "From December 23 to February 6 the schedule has no consecutive home or road games, so heavy travel could hurt them.",
+   "ts": "30:40",
+   "quote": "from December 23rd until February 6th, which is a long time, where they don't play back-to-back games in the same city",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1856
+  },
+  {
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Danny predicts about 51 to 53 wins. Coach Kenny Atkinson is under pressure.",
+   "ts": "30:07",
+   "quote": "I think 51, 52, 53, somewhere in that neighborhood",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1832
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Peyton Watson shot 41% on threes last season.",
+   "ts": "13:40",
+   "quote": "Shot 41% on threes last year. He's a really good shooter from the corners",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 836
+  },
+  {
+   "text": "Jaylen Tyson shot about 45% from three last season.",
+   "ts": "7:08",
+   "quote": "he's among the league leaders shooting almost 45% from",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 451
+  },
+  {
+   "text": "Max Strus played about 12 regular season games last season.",
+   "ts": "6:38",
+   "quote": "I believe he played in 12 regular season games.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 412
+  },
+  {
+   "text": "Peyton Watson had 21% usage for the season and about 27% during the Denver injury stretch.",
+   "ts": "15:49",
+   "quote": "He was at 21 usage for the season, 27 in those big moments",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 949
+  },
+  {
+   "text": "The Cavs won 52 games last season and 64 games two years ago.",
+   "ts": "29:00",
+   "quote": "the team two years ago that won 64 games was a championship contender",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1761
+  },
+  {
+   "text": "Evan Mobley's last game before his second calf injury was January 26.",
+   "ts": "18:05",
+   "quote": "26th of January was his last game before that second injury.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1085
+  }
+ ]
+}

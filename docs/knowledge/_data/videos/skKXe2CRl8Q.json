@@ -1,0 +1,442 @@
+{
+ "video": {
+  "id": "skKXe2CRl8Q",
+  "title": "How To Win Your Fantasy Basketball League",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-09-01",
+  "duration": "33:59",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T14:05:16+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.20485979999999998,
+  "duration_ms": 48195
+ },
+ "summary": "Josh Lloyd covers general strategy for winning a fantasy basketball league, from draft prep through the fantasy playoffs. The main points: know your scoring and transaction rules, and value players by minutes, role and opportunity before past production and hype. Use ADP to decide when to draft a player, and draft for flexibility and position coverage. Early in the season, be patient but react quickly to real role and minutes changes. Streaming slots are worth about a top-100 player, so 2-for-1 trades usually help, and every trade should start from a default \"no.\" His three winning rules are to draft opportunistically, react correctly, and maximize your assets. Overall, getting value matters more than punt builds or category pairings.",
+ "rules": [
+  {
+   "text": "Know your scoring system and format: categories or points, head-to-head or roto. If you don't know it, you have no chance.",
+   "ts": "2:04",
+   "quote": "If you don't know your scoring system, you're done. you just have no chance of winning",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 136
+  },
+  {
+   "text": "Know your transaction rules: daily or weekly lineups, weekly add limits, trade caps, games caps. They change how you value players. With unlimited moves the end of your roster should be churning all the time. With two pickups a week, use them all.",
+   "ts": "3:06",
+   "quote": "If you can do two pickups a week, you've got to max out those spots.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 205
+  },
+  {
+   "text": "Injury-prone stars can be taken a bit earlier in roto than in head-to-head. In head-to-head with limited streaming, avoid players who miss games often.",
+   "ts": "3:37",
+   "quote": "In a roto league, there's a little bit more value in the often guys like Embiid and Kawaii",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 230
+  },
+  {
+   "text": "Know your playoff format. If the top six make it, you can punt more heavily. If only the top four of 12 make it, punting four categories may keep you out.",
+   "ts": "4:41",
+   "quote": "If you're in top six, then you can lean a little heavier into punting because you're not",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 281
+  },
+  {
+   "text": "Information hierarchy for evaluating players: minutes, then role, then usage and opportunity, then production, with narrative and hype last.",
+   "ts": "5:41",
+   "quote": "What are the minutes the player is getting? That's one of your number one things you're looking at.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 336
+  },
+  {
+   "text": "Last season's production is overvalued. Production follows minutes, role and opportunity, and those can change.",
+   "ts": "6:47",
+   "quote": "Production's important, but it sort of goes, it gets dragged along by minutes, roll, and opportunity.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 407
+  },
+  {
+   "text": "Don't fall for narrative, hype or highlight-reel bias. Ask why something happened and whether it can happen again.",
+   "ts": "7:17",
+   "quote": "if you just get sucked into highlight real bias narrative and hype without looking at why did it happen",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 452
+  },
+  {
+   "text": "Rankings and projections tell you a player's quality. ADP is the market price and tells you when he will likely be available. If you rank a player 30th and his ADP is 70th, draft him in the 50s.",
+   "ts": "9:25",
+   "quote": "If you have a player 30th, his 8 AP is 70th. What I like to do in those",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 579
+  },
+  {
+   "text": "Draft for flexibility and categorical shape. Think about what your team needs and which categories are about to run out in the draft.",
+   "ts": "9:58",
+   "quote": "rebounds are about to run out. I better get someone with that now. Can I afford the free throw hit?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 626
+  },
+  {
+   "text": "Cover every position with at least two to three eligible players, even when punting. Otherwise you give up games during the week.",
+   "ts": "11:02",
+   "quote": "Make sure you can cover each position with two to three eligible players at least.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 662
+  },
+  {
+   "text": "Streaming lower-ranked players (170 to 190) for more games beats holding a 130th-ranked player who sits on your bench all season.",
+   "ts": "11:02",
+   "quote": "In most cases, you should be streaming. And having a player that's 130th versus streaming in seven games",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 680
+  },
+  {
+   "text": "Don't use late picks on players just because they have good week one schedules. Use the first two weeks to evaluate and be patient. Losing week one is fine.",
+   "ts": "13:45",
+   "quote": "I like to use the first two weeks to make sure I'm evaluating what's happening and being patient.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 825
+  },
+  {
+   "text": "Early in the season, watch for unexpected minutes, new starters, depth chart changes and players doing more. Coaches do weird things in weeks one and two.",
+   "ts": "14:46",
+   "quote": "Coaches do weird things in week one or two all the time. All the time they do weird things.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 899
+  },
+  {
+   "text": "React quickly to rotation changes, unexpected starters and bigger minutes, such as a 28-minute starting role. Don't react to bad shooting nights if role, minutes and usage haven't changed.",
+   "ts": "17:00",
+   "quote": "Jump on those immediately cuz we want sustainability. We want to go that's a roll. That's a 28 minute starting roll.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1020
+  },
+  {
+   "text": "Stats are volatile. No player matches his averages every game, so don't overreact to hot or cold stretches.",
+   "ts": "17:32",
+   "quote": "Stats are volatile. They're variable. They No one is going to get their averages every game.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1052
+  },
+  {
+   "text": "Rule for drafted rookies: if their role is okay or trending up, give them until Thanksgiving. If they aren't playing at all, cut them after two weeks.",
+   "ts": "19:04",
+   "quote": "I like to have the idea if I've drafted a rookie, I give them until Thanksgiving.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1157
+  },
+  {
+   "text": "The better your team is, the longer you can hold struggling or injured players.",
+   "ts": "19:34",
+   "quote": "the better my team is, the longer I can hold on to guys.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1181
+  },
+  {
+   "text": "A streaming spot is worth about as much as the 100th-ranked player. Holding long-term injured players costs you that production.",
+   "ts": "19:34",
+   "quote": "the value of streaming in a spot is basically equivalent to the hundth ranked player.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1198
+  },
+  {
+   "text": "Make trades for the long term. Buy low and sell high, and accept short-term pain for long-term gain.",
+   "ts": "22:55",
+   "quote": "generally want to make a trade for the long term. You're probably going to get some sort of a short-term",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1375
+  },
+  {
+   "text": "Trades that improve your schedule, such as extra games in the fantasy playoffs, are worth considering as the season goes on, but not at the draft.",
+   "ts": "23:28",
+   "quote": "Can I squeeze two extra games out in my fantasy playoffs finals week? I wouldn't care too much about that during a draft",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1408
+  },
+  {
+   "text": "Look to make 2-for-1 trades where you send out two players. The open roster spot turns into a streaming slot worth top-100 value, so it nearly always works out.",
+   "ts": "23:28",
+   "quote": "You're looking to make two for one deals. I send out two, I get back one because we never",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1421
+  },
+  {
+   "text": "Start from an internal default of no on every trade offer, then convince yourself whether it is worth doing.",
+   "ts": "24:39",
+   "quote": "I look at a trade, it comes in, I go, I'm not doing that. That's my that's my baseline.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1484
+  },
+  {
+   "text": "Be careful accepting 2-for-1 trades where you get two players back. They take away your streaming slot and your flexibility.",
+   "ts": "25:46",
+   "quote": "Be careful accepting two for ones because you reduce your flexibility. Your streaming slot disappears.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1540
+  },
+  {
+   "text": "It is okay to switch your team's category profile during the season through trades. Make sure a trade doesn't leave you short at a position.",
+   "ts": "25:46",
+   "quote": "Now, it's okay to switch your team profile during the course of a season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1563
+  },
+  {
+   "text": "The season has three phases. Discovery comes early, then optimizing, then maximizing near the end and in the playoffs, when you drop stashed or injured players and stream as much as you can.",
+   "ts": "28:03",
+   "quote": "You drop those players. You cut them. You stream your ass off.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1712
+  },
+  {
+   "text": "Draft opportunistically instead of locking into punt builds or category pairings. If a player is falling well below his value, take him and adjust your build later.",
+   "ts": "29:16",
+   "quote": "Draft opportunistically. Huh? I think this guy might be a top 40 player. I'm sitting here at 65.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1763
+  },
+  {
+   "text": "The number one way to win is to get value relative to where you drafted or picked up a player.",
+   "ts": "29:46",
+   "quote": "one way, the number one way to win fantasy. Get value. You draft someone at 100 and",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1791
+  },
+  {
+   "text": "React correctly. Don't drop proven players, and don't chase unsustainable hot streaks that will normalize.",
+   "ts": "30:47",
+   "quote": "You have to react correctly. Don't drop proven players. Don't take trips on treacherous roads.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1847
+  },
+  {
+   "text": "Maximize your assets: players, roster spots, weekly moves, IR slots, streaming slots, knowledge of the rules, and league mates you can take advantage of.",
+   "ts": "31:51",
+   "quote": "Your weekly waiver moves are your assets. Your injured reserve slots are your assets.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1935
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Joel Embiid",
+   "said_as": "Embiid",
+   "team": "PHI",
+   "horizon": "durable",
+   "text": "Given as an example of an often-injured player who is worth taking a bit earlier in roto than in head-to-head.",
+   "ts": "3:37",
+   "quote": "In a roto league, there's a little bit more value in the often guys like Embiid and Kawaii",
+   "value_hint": "slightly higher in roto",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 230
+  },
+  {
+   "player": "Kawhi Leonard",
+   "said_as": "Kawaii",
+   "team": "LAC",
+   "horizon": "durable",
+   "text": "Given as an example of an often-injured player who is worth taking a bit earlier in roto than in head-to-head.",
+   "ts": "3:37",
+   "quote": "In a roto league, there's a little bit more value in the often guys like Embiid and Kawaii",
+   "value_hint": "slightly higher in roto",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 230
+  },
+  {
+   "player": "Anthony Davis",
+   "said_as": "Anthony Davis",
+   "team": "",
+   "horizon": "durable",
+   "text": "Given as an example of an often-injured player who can be taken a bit earlier in roto than in head-to-head.",
+   "ts": "3:37",
+   "quote": "guys like Embiid and Kawaii, Anthony Davis. You can take them a little bit earlier.",
+   "value_hint": "slightly higher in roto",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 230
+  },
+  {
+   "player": "Harrison Barnes",
+   "said_as": "Harrison Barnes Barsy",
+   "team": "",
+   "horizon": "durable",
+   "text": "Given as an example of a low-usage player who just stands on the court, the opposite of a heavily involved player.",
+   "ts": "5:41",
+   "quote": "are they sitting there like old mate the pencil Harrison Barnes Barsy or are they heavily involved like Luca Donuch?",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 346
+  },
+  {
+   "player": "Luka Doncic",
+   "said_as": "Luca Donuch",
+   "team": "LAL",
+   "horizon": "durable",
+   "text": "Given as an example of a heavily involved, high-usage player.",
+   "ts": "5:41",
+   "quote": "are they heavily involved like Luca Donuch? That's a big difference",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 363
+  },
+  {
+   "player": "Matas Buzelis",
+   "said_as": "Matusalis",
+   "team": "CHI",
+   "horizon": "current",
+   "text": "A commenter called him a waiver wire player based on last season. The speaker argued against that, saying past production matters less than changing opportunity.",
+   "ts": "6:17",
+   "quote": "telling me Matusalis and Jiren Jackson are waverwire players. Look at what they did last season.",
+   "value_hint": "speaker disagrees he is a waiver player",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 395
+  },
+  {
+   "player": "Jaren Jackson Jr.",
+   "said_as": "Jiren Jackson",
+   "team": "",
+   "horizon": "current",
+   "text": "A commenter called him a waiver wire player based on last season. The speaker argued against that, saying past production matters less than changing opportunity.",
+   "ts": "6:17",
+   "quote": "telling me Matusalis and Jiren Jackson are waverwire players. Look at what they did last season.",
+   "value_hint": "speaker disagrees he is a waiver player",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 395
+  },
+  {
+   "player": "Cam Thomas",
+   "said_as": "Cam Thomas",
+   "team": "",
+   "horizon": "durable",
+   "text": "Given as an example of a player whose fantasy value gets inflated by narrative and hype.",
+   "ts": "7:17",
+   "quote": "How many fights have I had with people about Cam Thomas? Uh Dalton Connect for example.",
+   "value_hint": "hype-driven",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 430
+  },
+  {
+   "player": "Dalton Knecht",
+   "said_as": "Dalton Connect",
+   "team": "",
+   "horizon": "durable",
+   "text": "A preseason hype example. He hit eight threes in preseason and then was terrible.",
+   "ts": "7:17",
+   "quote": "You can't hit eight threes in preeason and not be good. Yeah, you can because he did and he was terrible.",
+   "value_hint": "hype-driven",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 444
+  },
+  {
+   "player": "Jordan Poole",
+   "said_as": "Jordan P",
+   "team": "",
+   "horizon": "durable",
+   "text": "The speaker admits he gets Poole wrong all the time.",
+   "ts": "7:17",
+   "quote": "I get plenty of things wrong. Jordan P all the time.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 452
+  },
+  {
+   "player": "Day'Ron Sharpe",
+   "said_as": "Don Sharp",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Expected to start in Brooklyn. If he doesn't, that is the kind of rotation change to react to right away.",
+   "ts": "16:24",
+   "quote": "Brooklyn for example we expect Don Sharp's going start. But what if he doesn't?",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1001
+  },
+  {
+   "player": "Nick Richards",
+   "said_as": "Nick Richards",
+   "team": "",
+   "horizon": "current",
+   "text": "Used as an example of an unappealing waiver wire center to be stuck with after a trade leaves you short at center.",
+   "ts": "26:20",
+   "quote": "you're looking at Nick Richards BDNR as the option. Don't know about that.",
+   "value_hint": "waiver level",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1580
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Day'Ron Sharpe is expected to start. Watch whether that actually happens early in the season.",
+   "ts": "16:24",
+   "quote": "Brooklyn for example we expect Don Sharp's going start. But what if he doesn't?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1001
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "LeBron James's career averages are about 27 points, 7 rebounds and 7 assists, but he has never had exactly that line in a game.",
+   "ts": "17:32",
+   "quote": "LeBron, what's the average? 277 and seven. But he's never had 277 and seven in a game",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1063
+  },
+  {
+   "text": "Dalton Knecht hit eight threes in a preseason game and then played poorly.",
+   "ts": "7:17",
+   "quote": "You can't hit eight threes in preeason and not be good. Yeah, you can because he did",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 444
+  }
+ ]
+}

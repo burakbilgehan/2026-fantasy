@@ -1,0 +1,676 @@
+{
+ "video": {
+  "id": "XSPJL_mlFXo",
+  "title": "Dallas Mavericks Fantasy Basketball Preview [26/27 NBA Season]",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-09-29",
+  "duration": "33:52",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T14:21:15+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.27989980000000003,
+  "duration_ms": 73671
+ },
+ "summary": "Josh Lloyd previews the Dallas Mavericks for fantasy under new coach Dusty May. The roster is full of power forwards and has few ball handlers, so the big questions are the center mix, who handles the ball and who can shoot. Cooper Flagg is called a bargain at his current ADP, and Josh is happy to take him around picks 9 to 11, or as high as 7 in points leagues. Kyrie Irving is the best target on the team. Josh thinks Kyrie is a top 15 player per game, is going too late outside the top 50, and could move into the top 25. Morez Johnson Jr. is the preferred late swing over P.J. Washington, and Daniel Gafford is a stash option. Dereck Lively II is very hard to draft because of his foot injury. Josh sees no strong fade on the team. Dallas has a 4-4-4 fantasy playoff schedule but the league-high 16 back-to-backs.",
+ "rules": [
+  {
+   "text": "Projections are about what can happen, not only about what a player did the year before.",
+   "ts": "7:24",
+   "quote": "looking at what happened the year before. We're looking at what can happen. And that's what projections is",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 444
+  },
+  {
+   "text": "Top rookies often start slow, with poor efficiency for the first two months, and then ramp up in the second half of the season.",
+   "ts": "8:26",
+   "quote": "first two months with bad efficiency problems and then he was going to ramp up and roll top",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 526
+  },
+  {
+   "text": "The same draft slot means different things in different league sizes. Take a low-upside player like Washington at 120 in a 14 or 16 team league, but not in a 10 team league. In 12 team leagues, prefer upside for the later picks.",
+   "ts": "14:42",
+   "quote": "If I'm in a 14-man league and I'm drafting at 120, that's like my eighth best player",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 894
+  },
+  {
+   "text": "Rankings and projections are interesting, but where you draft a player depends on context.",
+   "ts": "15:44",
+   "quote": "So rankings are cool. They're not, but they're sort of cool. They're interesting. Projections are interesting, but it's contextual.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 958
+  },
+  {
+   "text": "In a 12 team league, average means roughly the 75th ranked player. A player who is close to average in every category can end up around 100th.",
+   "ts": "22:56",
+   "quote": "And remember in a 12man league average means 75th. So his contributions like it that's why he was",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1376
+  },
+  {
+   "text": "Lineup choices trickle down. Playing small cuts center minutes and opens wing minutes. Playing big squeezes the forwards.",
+   "ts": "4:16",
+   "quote": "if they play small ball, it reduces what Lively and Gaffford and that does and that opens up minutes",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 259
+  },
+  {
+   "text": "An unproven player with upside is a better late swing than a proven player with a known, limited ceiling.",
+   "ts": "17:16",
+   "quote": "But the difference between say him and PJ is that we've seen PJ. We haven't seen Merez",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1043
+  },
+  {
+   "text": "A low-usage scorer who does nothing else only matters in very deep leagues when injuries free up usage.",
+   "ts": "19:20",
+   "quote": "because again he doesn't do anything else except score, nothing else.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1160
+  },
+  {
+   "text": "Under a new coach, preseason starting lineups are less reliable signals than they were under a coach whose habits you know.",
+   "ts": "30:12",
+   "quote": "We don't know how Dusty May is going to handle that and we're going to find out coming up",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1819
+  },
+  {
+   "text": "Josh recommends March 28 as the fantasy regular season end date. Look at fantasy playoff weeks and back-to-back counts when you judge a team's schedule.",
+   "ts": "31:46",
+   "quote": "lockdown fantasy basketball, sorry, JLFB, Josh Lloyd fantasy basketball bowls is March the 28th",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1906
+  },
+  {
+   "text": "Players coming back from injury may sit back-to-backs, so teams with many back-to-backs hurt those players more.",
+   "ts": "32:16",
+   "quote": "they have the league maximum 16 back to backs, which impacts Derek Lively",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1930
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Cooper Flagg",
+   "said_as": "Cooper Flag",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Jason Kidd used Flagg as the starting point guard last season. With Kyrie back and a new coach, his role may change. Playing him at the four next to other power forwards is a worse fantasy situation for him.",
+   "ts": "2:42",
+   "quote": "I think it's actually a worse situation for him playing a bunch of other power forwards next to him",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 170
+  },
+  {
+   "player": "Cooper Flagg",
+   "said_as": "Coopa Flag",
+   "team": "DAL",
+   "horizon": "durable",
+   "text": "Flagg is a 6'11 shot-blocking forward. Playing more on the perimeter would probably hurt his rebounds and blocks. Moving to the four would not hurt his assists.",
+   "ts": "2:42",
+   "quote": "that will hurt his rebound numbers. probably it will hurt his block numbers, but would moving him more",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 160
+  },
+  {
+   "player": "Cooper Flagg",
+   "said_as": "Flag",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Flagg's ADP is 10 on Yahoo and 17 on ESPN. Josh calls him an absolute bargain and is happy to take him up to pick 9, or as high as 7 in points leagues.",
+   "ts": "7:24",
+   "quote": "Flag is going at 10 in Yahoo. He's going at 17 on ESPN. Absolute bargain. Absolute bargain.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 455
+  },
+  {
+   "player": "Cooper Flagg",
+   "said_as": "Cooper flag",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Josh expects Flagg to start this season close to the level he ended last season at. This is his team, so taking him at the end of round one or start of round two is fine.",
+   "ts": "9:28",
+   "quote": "This is his team. He will come in at a level that's very similar to where he ended last",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 561
+  },
+  {
+   "player": "Kyrie Irving",
+   "said_as": "Kyrie",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Kyrie missed all of last season with a torn ACL. He is 18 months removed from the injury and fully healthy. Josh expects few restrictions, though he may sit back-to-backs for a while.",
+   "ts": "9:59",
+   "quote": "So we are 18 months removed from that. He is fully healthy. I don't know that there are",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 599
+  },
+  {
+   "player": "Kyrie Irving",
+   "said_as": "Kyrie",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Kyrie is going outside the top 50, but Josh sees him as a top 15 player per game. He may move his range from 34 to 45 up to the top 30 or top 25. Kyrie is the best target on the team.",
+   "ts": "11:02",
+   "quote": "He's going outside the top 50. I I think per game, this is a top 15 player.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 668
+  },
+  {
+   "player": "Kyrie Irving",
+   "said_as": "Kyrie",
+   "team": "DAL",
+   "horizon": "durable",
+   "text": "Kyrie is 34 and has had persistent injuries. He will not play 82 games.",
+   "ts": "10:31",
+   "quote": "outside of the fact that he's 34 and he's had some persistent injuries",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 647
+  },
+  {
+   "player": "P.J. Washington",
+   "said_as": "Paul Washington",
+   "team": "DAL",
+   "horizon": "durable",
+   "text": "Washington is very streaky, with crazy hot streaks and ice-cold slumps. Josh calls him sometimes good, sometimes bad.",
+   "ts": "14:11",
+   "quote": "The hot streaks are crazy hot. The cold streaks, it's ice.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 851
+  },
+  {
+   "player": "P.J. Washington",
+   "said_as": "PJ",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Josh ranks Washington around 110 to 130 in points leagues and 125 to 150 in categories. He sees no upside for a top 80 finish because Dallas has so many forwards. Josh would draft him in 14 or 16 team leagues, or in round 14 or later of a 12 team league, but never at 120 in a 10 team league.",
+   "ts": "14:42",
+   "quote": "I don't really think there's any upside for Paul to be a top 80 player.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 890
+  },
+  {
+   "player": "Morez Johnson Jr.",
+   "said_as": "MZ Johnson Jr.",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Josh projects Johnson to start at center over Daniel Gafford while Lively is out. He is not sure about this.",
+   "ts": "6:23",
+   "quote": "I think they will go with Johnson over um the big fella Dan Gaffford",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 395
+  },
+  {
+   "player": "Morez Johnson Jr.",
+   "said_as": "MZ",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Johnson's ADP is 116 on Yahoo, and he is ranked 159 on Yahoo and 166 on ESPN. His Fantrax ADP of 209 is far too low, so there may be value there.",
+   "ts": "16:45",
+   "quote": "ESPN and his Fantex ADP is 209. So this is the rare case where on Fantrax it is",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1005
+  },
+  {
+   "player": "Morez Johnson Jr.",
+   "said_as": "MZ",
+   "team": "DAL",
+   "horizon": "durable",
+   "text": "Johnson is an undersized, hard-working energy big with good defensive stats at Michigan. It is unclear whether he can shoot or create usage.",
+   "ts": "16:45",
+   "quote": "He's a bit of a dog, really hardworking uh energy vibes guy, but like is he ever going to have any",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1028
+  },
+  {
+   "player": "Morez Johnson Jr.",
+   "said_as": "MZ",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Johnson is Josh's late swing pick over Washington in standard formats. His upside is 30 minutes a night with 1.5 blocks, a steal, 12 points and 9 rebounds.",
+   "ts": "29:10",
+   "quote": "The late swing I think is MZ. I'd much rather take a swing on him in a standard format",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1770
+  },
+  {
+   "player": "Max Christie",
+   "said_as": "Cormarmac Christie",
+   "team": "DAL",
+   "horizon": "durable",
+   "text": "Christie is a pure scorer with great efficiency: 40% from three and about 90% on free throws. He has putrid assists, steals and blocks and takes under two free throws a game.",
+   "ts": "18:16",
+   "quote": "Putrid assists, putrid steals, putrid blocks, putrid free throw attempts, although they improved last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1118
+  },
+  {
+   "player": "Max Christie",
+   "said_as": "Cormarmac Christie",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Josh is not interested in Christie outside 18 or 20 team leagues. He has no Yahoo ADP and is ranked outside the top 200 everywhere except ESPN.",
+   "ts": "19:20",
+   "quote": "We should not we should not be interested in him really at all outside of like maybe 18 man leagues",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1147
+  },
+  {
+   "player": "Naji Marshall",
+   "said_as": "Naji Marshall",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Josh projects Marshall as the sixth man. His role as a point guard last season likely disappears with three new point guards on the roster. He projects as a streaming option with hot streaks.",
+   "ts": "20:52",
+   "quote": "I think Naji will be a interesting stream guy who will have hot streaks that will get us excited",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1236
+  },
+  {
+   "player": "Naji Marshall",
+   "said_as": "Naji Marshall",
+   "team": "DAL",
+   "horizon": "durable",
+   "text": "Marshall is a non-shooting forward and a terrible shooter. Josh does not think he will ever be a reliable shooter.",
+   "ts": "19:52",
+   "quote": "I don't think that he's ever going to be a reliable",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1187
+  },
+  {
+   "player": "Santi Aldama",
+   "said_as": "Santi Alarma",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Aldama came over from Memphis. Josh projects him as the seventh man. His top 105 finish last season came from 28 minutes a night on a tanking team, and Josh does not see that playing time repeating.",
+   "ts": "21:22",
+   "quote": "Darren Jackson was traded, Memphis was tanking, and he got to play 28 minutes a night.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1284
+  },
+  {
+   "player": "Santi Aldama",
+   "said_as": "Santi Alarma",
+   "team": "DAL",
+   "horizon": "durable",
+   "text": "Aldama is close to average in most categories with above-average rebounds. He is a weak free throw shooter for a shooter and only a mid three-point shooter.",
+   "ts": "21:52",
+   "quote": "he's weirdly a bad free throw guy. In fact, he has not been over 70% from the line",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1306
+  },
+  {
+   "player": "Santi Aldama",
+   "said_as": "Santi Alama",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Aldama's Yahoo ADP is 109, which Josh does not understand. Josh has him closer to 200.",
+   "ts": "22:24",
+   "quote": "He's got an ADP of 109 on Yahoo. I don't really get that.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1325
+  },
+  {
+   "player": "Santi Aldama",
+   "said_as": "Santi Al Dharma",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Aldama had knee surgery at the end of last season and is not fully cleared. He will only partly participate in camp.",
+   "ts": "31:15",
+   "quote": "not 100% right. I think he'll be okay, but they haven't given the indication that he's all cleared.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1875
+  },
+  {
+   "player": "Daniel Gafford",
+   "said_as": "Gaffford",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Gafford is no longer the efficient top 50 producer he was with Luka Doncic. Josh has him in the 130 to 160 range and sees him as a late flyer while Lively is out, but not once Lively is healthy.",
+   "ts": "24:29",
+   "quote": "I think the the days of him being a permanent beast are probably over. I've got him in the 130",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1479
+  },
+  {
+   "player": "Daniel Gafford",
+   "said_as": "Dan Gaffford",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Gafford is Josh's stash option on the team. He and Morez Johnson are interchangeable as the late swing and the stash.",
+   "ts": "29:41",
+   "quote": "And my stash option there is Dan Gaffford for your stashable leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1786
+  },
+  {
+   "player": "Sergio de Larrea",
+   "said_as": "Sergio Delorea",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Josh projects the rookie as the backup point guard. He is worth watching when Kyrie sits, and could average 10 points and 5 assists in 27 minutes.",
+   "ts": "25:29",
+   "quote": "Well, D could come in and average 10 points but five assists if he played 27 minutes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1538
+  },
+  {
+   "player": "Sergio de Larrea",
+   "said_as": "Sergio Delorea",
+   "team": "DAL",
+   "horizon": "durable",
+   "text": "De Larrea is a 6'7 rookie who can dribble and pass well and shot well in Europe. He will likely have defensive problems.",
+   "ts": "24:59",
+   "quote": "He can dribble, he can pass. the shooting he he shot really well over in Europe and he's tall.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1503
+  },
+  {
+   "player": "Zaccharie Risacher",
+   "said_as": "Zach Ricochet",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Josh projects Risacher as the 10th man in the rotation, maybe lower. His minutes kept dropping last season.",
+   "ts": "26:00",
+   "quote": "I think he's probably the 10th man in this rotation. He played only 22 minutes a night last season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1563
+  },
+  {
+   "player": "Zaccharie Risacher",
+   "said_as": "Zach Ricochet",
+   "team": "DAL",
+   "horizon": "durable",
+   "text": "Risacher is a low-usage forward who rarely passes and gets under four rebounds. He shoots threes well, but his free throws fell off.",
+   "ts": "26:00",
+   "quote": "His free throws fell off a cliff, and I think there's a confidence related element to that",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1574
+  },
+  {
+   "player": "Dereck Lively II",
+   "said_as": "Derek Lively",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Lively will not be ready to start the season because of his broken foot. Josh expects a return around Thanksgiving and a slow ramp-up, with Gafford and Johnson still ahead of him.",
+   "ts": "28:40",
+   "quote": "he's going to come back maybe Thanksgiving. He's going to ramp up and maybe like end of January",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1717
+  },
+  {
+   "player": "Dereck Lively II",
+   "said_as": "Derek Lively",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Josh finds Lively almost impossible to draft in 10, 12 or 14 team leagues. You can ignore his ADP of 107.",
+   "ts": "30:43",
+   "quote": "I find it almost impossible to draft him in 10, 12 or 14 man leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1856
+  },
+  {
+   "player": "Dereck Lively II",
+   "said_as": "Derek Lively",
+   "team": "DAL",
+   "horizon": "durable",
+   "text": "When healthy, Lively blocks shots at a high level and rebounds well. Injuries have derailed his career.",
+   "ts": "28:08",
+   "quote": "And he blocked shots at a really high level and his rebounds were pretty good.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1694
+  },
+  {
+   "player": "Marcus Sasser",
+   "said_as": "Marcus Sassa",
+   "team": "DAL",
+   "horizon": "durable",
+   "text": "Sasser is undersized and can go on hot shooting streaks. Josh thinks he is quite bad as a player.",
+   "ts": "26:31",
+   "quote": "Marcus Sassa, who again is undersized and can get on hot streak shooting. I just think he's quite bad",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1602
+  },
+  {
+   "player": "Caleb Martin",
+   "said_as": "Caleb Martin",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Josh thinks Martin is pretty washed. He says he is not injured, but Josh does not expect him to play.",
+   "ts": "26:31",
+   "quote": "There's Caleb Martin, who I think I think he's pretty washed.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1609
+  },
+  {
+   "player": "Tarik Biberovic",
+   "said_as": "TK Berovic",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Biberovic is an elite tall shooter coming from Europe, but it is unclear where he fits in a crowded forward group.",
+   "ts": "27:04",
+   "quote": "an absolutely elite tall shooter",
+   "verified": false,
+   "match_ratio": 0.0,
+   "seconds": 1624
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Dallas has very few ball handlers. Almost every player besides Kyrie is a power forward.",
+   "ts": "2:11",
+   "quote": "Because the team has very few players who can dribble. Every player seems to be a power forward outside of Kyrie.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 134
+  },
+  {
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Dusty May is the new head coach. It is unknown how he will handle the center mix of Lively, Gafford, Powell, Johnson, and forwards like Washington and Aldama.",
+   "ts": "3:45",
+   "quote": "So how is May going to handle this center mix?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 234
+  },
+  {
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Josh's projected starting five is Kyrie Irving, Max Christie, Cooper Flagg, P.J. Washington and Morez Johnson Jr.",
+   "ts": "5:51",
+   "quote": "Kyrie Irving, Max Christie, Koopa Flag, Paul Washington Jr. And then I am going with MZ Johnson Jr.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 358
+  },
+  {
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Josh sees no strong fade on Dallas. He thinks most draft positions are reasonable.",
+   "ts": "29:10",
+   "quote": "I don't really think there's a huge fade on this team. I think most of the draft positions are reasonable.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1755
+  },
+  {
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Dallas has probably the best fantasy playoff schedule, 4-4-4, but the league-high 16 back-to-backs.",
+   "ts": "31:46",
+   "quote": "Dallas have probably the best fantasy basketball playoff schedule. They play four games a week all the way through.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1910
+  },
+  {
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Josh says Dallas could be bad. The Western Conference is weak, though, so a playoff push is possible.",
+   "ts": "32:47",
+   "quote": "the Western Conference is not particularly strong as a conference this season. So maybe they can push for the play.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1952
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Cooper Flagg was the 38th ranked player in category leagues and 32nd in points leagues last season.",
+   "ts": "6:53",
+   "quote": "38th ranked player in category leagues last season, 32 in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 424
+  },
+  {
+   "text": "Over the last month Flagg ranked 6th, and over the last two months 12th, in 32 minutes a game with 1.2 steals and 1.2 blocks. He shot 44% from the field and 88% from the line.",
+   "ts": "8:57",
+   "quote": "He was like the sixth ranked player over the last month and the 12th",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 533
+  },
+  {
+   "text": "Flagg had a 31% usage rate and averaged 5 assists over that stretch.",
+   "ts": "8:57",
+   "quote": "Kyrie coming back will hurt that he had 31 usage. Probably the five assists might drop",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 546
+  },
+  {
+   "text": "Kyrie Irving tore his ACL around the start of March 2025.",
+   "ts": "9:59",
+   "quote": "We had a torn ACL which happened in what start of March in 25.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 594
+  },
+  {
+   "text": "P.J. Washington ranked 129th in categories and 102nd in points leagues last season.",
+   "ts": "14:11",
+   "quote": "Bro isund 129th in categories, 102nd in points leagues last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 854
+  },
+  {
+   "text": "Max Christie shot 40% from three and about 90% from the line, on under two attempts, with a true shooting percentage just over 60% and 17% usage.",
+   "ts": "18:49",
+   "quote": "40% from three, 90% from the line. Unbelievable true shooting of I can find it over 60% barely",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1132
+  },
+  {
+   "text": "Naji Marshall played about 30 minutes a night last season, averaging 15 points, 5 rebounds and 3 assists, with 21% usage and a career-best assist rate.",
+   "ts": "19:52",
+   "quote": "he played like 30 minutes a night last season. The average 15, five, and three.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1197
+  },
+  {
+   "text": "Santi Aldama ranked 104th in categories and 101st in points leagues last season. He averaged 14 points, 7 rebounds and 3 assists in 28 minutes.",
+   "ts": "21:22",
+   "quote": "Santi Alama was 104th and 101st in points leagues",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1275
+  },
+  {
+   "text": "Aldama has not shot over 70% from the line for three straight seasons. He shot 35, 35, 37 and 35% from three over the last four seasons.",
+   "ts": "21:52",
+   "quote": "he's shot 35 35 37 35% from three the last four seasons.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1316
+  },
+  {
+   "text": "Over his last 20 games Gafford played 23 minutes a night, averaging 12 points, 8 rebounds and 1 block on 68% from the field and 58% from the line.",
+   "ts": "24:29",
+   "quote": "he averaged 12 and eight that with one block on 68% and 58 from the line.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1457
+  },
+  {
+   "text": "Risacher played 22 minutes a night last season and shot 37% from three. He averaged 1.2 and 1.1 assists in his first two seasons.",
+   "ts": "26:00",
+   "quote": "He's averaged 1.2 and 1.1 assists his first two seasons.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1585
+  },
+  {
+   "text": "Dereck Lively II ranked 168th in categories. He played 7 games averaging 4 points and 5 rebounds, shot 80% from the line, and last played on November 21 for 18 minutes.",
+   "ts": "28:08",
+   "quote": "He played seven games last season and averaged four and five. Interestingly, he did shoot 80 from the line",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1688
+  },
+  {
+   "text": "Dallas has the league maximum 16 back-to-backs this season.",
+   "ts": "32:16",
+   "quote": "they have the league maximum 16 back to backs",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1930
+  }
+ ]
+}

@@ -1,0 +1,406 @@
+{
+ "video": {
+  "id": "KLogvUwv_d8",
+  "title": "LA Clippers 2026/27 Season Preview: No Kawhi, Bright Future?",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-08-22",
+  "duration": "35:46",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T13:51:18+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.2071438,
+  "duration_ms": 36908
+ },
+ "summary": "Josh Lloyd and Darian Vizer of Locked On Clippers preview the 2026/27 Clippers after a reset. They assume the Kawhi Leonard trade goes through, and Harden and Zubac are already gone. The projected starters are Darius Garland, Brandon Ingram, Rui Hachimura, Brook Lopez and Kris Dunn. Darian expects Dunn to start over the No. 5 pick Keaton Wagler because the team needs a plus defender. Yanic Konan Niederhauser is recovering from a broken foot and may not return until around Christmas or 2027. The Clippers don't control their own picks, so they will try to stay competitive instead of tanking. Darian predicts 42-40, while Josh puts the range at 25 to 45 wins, with health of Garland and Ingram as the key.",
+ "rules": [
+  {
+   "text": "A team that does not own its own draft picks has no reason to tank. It will try to stay competitive, which can limit development minutes for young players.",
+   "ts": "20:44",
+   "quote": "we don't have a traditional route in which we can rebuild. We're not going to have our own picks",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1252
+  },
+  {
+   "text": "Rookie guards with athleticism and strength deficiencies tend to look bad early. This gets worse if they are pushed into a defense-heavy role with low offensive priority.",
+   "ts": "13:40",
+   "quote": "issues, strength issues that are going to get they're going to make him look terrible early on",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 820
+  },
+  {
+   "text": "Some players lose production for a long time after even a minor injury, so injury-prone players can hurt you for longer than the injury itself.",
+   "ts": "28:53",
+   "quote": "If he gets a knock on his knee then he'll drop down to 60% production for the next two months",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1747
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Rui Hachimura",
+   "said_as": "Rory Hutchimura / Ruie Hachimura",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Joins the Clippers and replaces John Collins as the starting power forward.",
+   "ts": "3:53",
+   "quote": "And they bring in Rory Hutchimura. I'll just we'll focus a little bit here on on Ruy",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 260
+  },
+  {
+   "player": "Rui Hachimura",
+   "said_as": "Ruie",
+   "team": "LAC",
+   "horizon": "durable",
+   "text": "A good three-point shooter who doesn't take enough threes and doesn't do much else.",
+   "ts": "4:27",
+   "quote": "they're both good three-point shooters who don't take enough of them, but Ruie is someone who doesn't do a huge amount else",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 267
+  },
+  {
+   "player": "Rui Hachimura",
+   "said_as": "Rui Hachimura",
+   "team": "LAC",
+   "horizon": "durable",
+   "text": "A consistent shooter with a pull-up midrange game. Not a good defender and not much of a creator. Could score a bit more than Collins.",
+   "ts": "8:12",
+   "quote": "I think Ruy Hatchima might actually give us a little more in the scoring department",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 499
+  },
+  {
+   "player": "John Collins",
+   "said_as": "John Collins",
+   "team": "DET",
+   "horizon": "durable",
+   "text": "His three-point shooting was streaky. He is a weak defender and only a modest rebounder, at about five rebounds a game.",
+   "ts": "7:39",
+   "quote": "he could be a slightly better rebounder than Ruy Hatchimura, but John Collins",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 483
+  },
+  {
+   "player": "John Collins",
+   "said_as": "John Collins",
+   "team": "DET",
+   "horizon": "current",
+   "text": "Gone from the Clippers. Josh says he is in Detroit now.",
+   "ts": "8:46",
+   "quote": "it's not that interesting and that's I think Detroit is going to find that out this season",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 526
+  },
+  {
+   "player": "Brandon Ingram",
+   "said_as": "Brandon Ingram",
+   "team": "LAC",
+   "horizon": "durable",
+   "text": "One of the better midrange scorers in the league and an average defender at best. Puts up good numbers, but Josh finds him frustrating to watch. Could take more threes.",
+   "ts": "11:30",
+   "quote": "he definitely is one of the better mid-range players in the league as far as just being able to turn over",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 697
+  },
+  {
+   "player": "Brandon Ingram",
+   "said_as": "Brandon Ingram",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Projected starter and likely the Clippers' number one option.",
+   "ts": "11:30",
+   "quote": "obviously if he's your number one guy, which he kind of will be for this team, that's a little",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 714
+  },
+  {
+   "player": "Kris Dunn",
+   "said_as": "Chris Dunn",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Projected starter as the only plus defender in the lineup. Darian expects him to keep starting over Wagler.",
+   "ts": "13:04",
+   "quote": "we need Chris Dunn or Derek Jones Jr. starting because otherwise we're going to be a layup line",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 803
+  },
+  {
+   "player": "Keaton Wagler",
+   "said_as": "Katon Wagler / Katon Waggler",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "No. 5 overall pick. Darian does not expect him to start because the team needs defense. He plays the same position as Garland.",
+   "ts": "12:33",
+   "quote": "So the reason why I don't see Katon Waggler",
+   "value_hint": "No. 5 overall pick",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 775
+  },
+  {
+   "player": "Keaton Wagler",
+   "said_as": "Keen Wagler",
+   "team": "LAC",
+   "horizon": "durable",
+   "text": "A skilled, high-IQ guard who can pull up off screens and catch and shoot. Has athletic limitations: he didn't dunk once at Illinois. Played better defense than expected at Summer League.",
+   "ts": "25:12",
+   "quote": "He didn't dunk once at Illinois, not one time, and he's 6'5",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1514
+  },
+  {
+   "player": "Keaton Wagler",
+   "said_as": "Keen Wagler",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Darian hopes he averages double-figure points as a rookie.",
+   "ts": "25:46",
+   "quote": "I would hope he averages double figure points",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1560
+  },
+  {
+   "player": "Yanic Konan Niederhauser",
+   "said_as": "Yanick Conan Neahhauser / Yannik",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Broke his foot last season. Expected to be slow-played to around Christmas, and one beat writer says possibly 2027. He is out of the boot.",
+   "ts": "15:48",
+   "quote": "Yeah, the latter uh slow played through Christmas or so",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 967
+  },
+  {
+   "player": "Yanic Konan Niederhauser",
+   "said_as": "Yannik",
+   "team": "LAC",
+   "horizon": "durable",
+   "text": "Long, athletic big man and shot blocker with some ball handling and a natural-looking shot form. Gained about 20 pounds of muscle. Could take Lopez's starting spot later.",
+   "ts": "18:04",
+   "quote": "potentially Yannik could look so good that he ends up taking Brook Lopez's starting spot as the season goes on",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1105
+  },
+  {
+   "player": "Brook Lopez",
+   "said_as": "Brook Lopez",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Projected starting center. Still contests at the rim, but has weaknesses defending the pick and roll.",
+   "ts": "12:03",
+   "quote": "Brook Lopez really solid in terms of, you know, still at his age being vertical at the rim",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 739
+  },
+  {
+   "player": "Darius Garland",
+   "said_as": "Darius Garland",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "A toe injury limited him last season. He is expected to be ready for opening night. Darian says the Clippers need 70+ games from him.",
+   "ts": "26:46",
+   "quote": "Yeah, it sounds like Darius Garland's gonna be ready to go",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1628
+  },
+  {
+   "player": "Darius Garland",
+   "said_as": "Darius Garland",
+   "team": "LAC",
+   "horizon": "durable",
+   "text": "Electric offensive player and below-average defender. Has persistent knee and toe problems. Josh says his production drops for a long time after any injury.",
+   "ts": "28:53",
+   "quote": "when he gets injured or something happens he falls off more than you expect and then it takes him a long time",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1733
+  },
+  {
+   "player": "Kobe Sanders",
+   "said_as": "Kobe Sanders",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "His minutes are uncertain because Beal re-signed, even though he was a bright spot last season.",
+   "ts": "21:49",
+   "quote": "Kobe Sanders, though, because of this Beal thing is a little questionable as well",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1334
+  },
+  {
+   "player": "Jordan Miller",
+   "said_as": "Jordan Miller",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Darian expects him to play regular minutes.",
+   "ts": "21:49",
+   "quote": "I don't think Jordan Miller is getting enough minutes because I think he'll play",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1325
+  },
+  {
+   "player": "Bradley Beal",
+   "said_as": "Bradley Beiel",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Re-signed after hip surgery. Not in the projected starting lineup.",
+   "ts": "9:18",
+   "quote": "There is recently resigned um hip replacement legend Bradley Beiel who's not in that mix as well",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 558
+  },
+  {
+   "player": "Isaiah Jackson",
+   "said_as": "Isaiah Jackson",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Played surprisingly well at the end of last season before getting hurt.",
+   "ts": "32:15",
+   "quote": "He was really good. Isaiah Jackson, like surprisingly really good before he got hurt",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1935
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "LAC",
+   "horizon": "current",
+   "text": "In a reset. Harden, Zubac and (pending) Kawhi Leonard are gone, along with Collins, Bogdanovic and Batum. Ingram, Garland, Hachimura and Wagler are in.",
+   "ts": "1:43",
+   "quote": "They traded away James Harden. They traded away Zubats. They traded away Kawhi Leonard in the offseason",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 110
+  },
+  {
+   "team": "LAC",
+   "horizon": "current",
+   "text": "They don't control their own pick and the owner won't tank, so they will try to stay competitive while developing young players.",
+   "ts": "21:15",
+   "quote": "we need to stay competitive while trying to still integrate them",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1267
+  },
+  {
+   "team": "LAC",
+   "horizon": "current",
+   "text": "The projected lineup is weak defensively without Dunn. Darian predicts 42-40. Josh puts the range at 25 to 45 wins.",
+   "ts": "33:22",
+   "quote": "I think they their range is between 25 and 45 wins honestly for this season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2004
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Rui Hachimura shot over 40% from three in every full season with the Lakers.",
+   "ts": "5:01",
+   "quote": "who in every full season with the Lakers, shot over 40% from three",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 301
+  },
+  {
+   "text": "John Collins shot 55% from the field and 41% from three last season.",
+   "ts": "5:01",
+   "quote": "You know, 55% from the field, 41 from three",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 315
+  },
+  {
+   "text": "John Collins averaged five rebounds a game.",
+   "ts": "8:12",
+   "quote": "averaged five rebounds a game",
+   "verified": false,
+   "match_ratio": 0.0,
+   "seconds": 492
+  },
+  {
+   "text": "The Clippers started last season 6-21.",
+   "ts": "32:15",
+   "quote": "it turned out really poorly in the beginning of the season and we started 6 and 21",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1951
+  },
+  {
+   "text": "The Clippers won 42 games last season.",
+   "ts": "29:24",
+   "quote": "this team won 42 games last season. They do not have Kawhi Leonard",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1778
+  },
+  {
+   "text": "The Clippers have 15 straight winning seasons, the longest active streak in the NBA.",
+   "ts": "30:02",
+   "quote": "That would be our LA Clippers with 15 straight winning seasons",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1831
+  },
+  {
+   "text": "Darius Garland is about to turn 27.",
+   "ts": "21:15",
+   "quote": "Darius Garland is about to turn 27, so prime age",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1300
+  },
+  {
+   "text": "Jordan Miller is 26 and Kobe Sanders is 24.",
+   "ts": "22:19",
+   "quote": "Miller's already 26 and Sanders is already 24",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1349
+  }
+ ]
+}

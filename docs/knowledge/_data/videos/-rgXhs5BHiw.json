@@ -1,0 +1,447 @@
+{
+ "video": {
+  "id": "-rgXhs5BHiw",
+  "title": "NBA Draft Superlatives - My Guys, Best Passer, Best Shooter, Most OVERRATED!",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-06-23",
+  "duration": "27:33",
+  "auto_captions": true
+ },
+ "prompt_version": 2,
+ "extracted_at": "2026-10-04T10:47:16+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.2105928,
+  "duration_ms": 51117
+ },
+ "summary": "Josh Lloyd gives his superlatives for the 2026 NBA draft the day before it happens. His \"my guys\", the players he rates above consensus, are Allen Graves, Meleek Thomas and Christian Anderson. His \"not my guys\", the players he thinks are rated too high, are Nate Ament, Morez Johnson and Yaxel Lendeborg. He also ranks prospects by translated college stats, assuming 30 minutes a night. The top six are Graves, Cameron Boozer, Ugonna Onyenso, Rafael Castro, Caleb Wilson and Tarris Reed Jr. He stresses this list is not a fantasy draft ranking. His picks: best passer is Christian Anderson, best shooter is Anderson with Darryn Peterson close behind, best defenders are \"Ademora\" (name unclear in the captions) and Allen Graves, and safest long-term floor is AJ Dybantsa. He says a rookie's fantasy value depends on landing spot and draft slot, because usage is already taken on teams like Washington and Utah.",
+ "rules": [
+  {
+   "text": "Wait until after the draft to value rookies for fantasy. Landing spot matters, and teams with high-usage veterans leave less usage for rookies.",
+   "ts": "1:36",
+   "quote": "that's why when we talk about the fantasy value of rookies, we need to to wait until the draft",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 107
+  },
+  {
+   "text": "Consensus draft boards are often wrong. Every year, players picked in the teens, 20s and second round turn out better than their slot.",
+   "ts": "3:08",
+   "quote": "picked in the teens that should have been in the top five and in the 20s who should have been",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 188
+  },
+  {
+   "text": "Dynasty rookie value combines the player, age, stats, draft slot and landing spot.",
+   "ts": "15:02",
+   "quote": "The player, their age, their stats, their draft slot, their landing position. That's all part of it.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 911
+  },
+  {
+   "text": "Draft capital is one of the biggest indicators of NBA career length. High picks get chance after chance, while late picks get small contracts, so draft slot matters in dynasty rankings.",
+   "ts": "24:54",
+   "quote": "draft capital, which is one of the biggest indicators for length of NBA career, which is why when we talk dynasty rankings",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1505
+  },
+  {
+   "text": "Prospects who are much older, around 24 as rookies, have rarely become NBA success stories. Being older does not make a player immediately NBA ready.",
+   "ts": "10:51",
+   "quote": "the history of players at this age having any sort of NBA success is it's minuscule",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 659
+  },
+  {
+   "text": "Big men can build fantasy value from field goal percentage, blocks and rebounds even without a full offensive game.",
+   "ts": "17:05",
+   "quote": "So many of these guys are able to do that by translating field goal percentage, blocks, rebounds into fantasy value.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1047
+  },
+  {
+   "text": "Players with high steal and block rates translate well to fantasy. In deep dynasty rookie drafts, keep an eye on late picks or undrafted players with interesting stat translations.",
+   "ts": "18:06",
+   "quote": "When you're in dynasty rookie drafts and you're picking a pick 50 and Castro was undrafted or whatever",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1105
+  },
+  {
+   "text": "Defensive stats and rebounding give a rookie a fantasy baseline that can offset weak usage efficiency.",
+   "ts": "19:09",
+   "quote": "he's going to have the baseline of defensive stats and rebounding to add on to the other things",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1150
+  },
+  {
+   "text": "Treat college stats with caution when a player came from a strong team with a great coach, because his teammates may have boosted his numbers.",
+   "ts": "8:49",
+   "quote": "they were on this powerhouse team with an awesome coach, and they all sort of worked off each other",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 535
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Allen Graves",
+   "said_as": "Allen Graves",
+   "horizon": "durable",
+   "text": "The speaker rates Graves as a very high-level prospect and higher than consensus. He would take him earlier than his projected slot.",
+   "ts": "4:39",
+   "quote": "I think that Graves is a really high-level prospect in this draft. And I would take him earlier.",
+   "value_hint": "Projected around pick 25 or second round; speaker would take him in the lottery",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 282
+  },
+  {
+   "player": "Allen Graves",
+   "said_as": "Allen Graves",
+   "horizon": "current",
+   "text": "Graves is number one on the translated-stats list. He will likely start his career on the bench as the eighth man at best, maybe playing 15 minutes, so he is not the top redraft or dynasty rookie.",
+   "ts": "15:33",
+   "quote": "almost certainly where he goes, he's going to be playing a bench role. Playing as the eighth man at best",
+   "value_hint": "#1 in translated stats, not #1 in redraft or dynasty",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 959
+  },
+  {
+   "player": "Allen Graves",
+   "said_as": "Allen Graves",
+   "horizon": "durable",
+   "text": "The speaker says Graves could become a really impactful defender, in the mold of Robert Covington or OG Anunoby.",
+   "ts": "23:19",
+   "quote": "I think Allen Graves has a chance to be a really impactful defender.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1427
+  },
+  {
+   "player": "Meleek Thomas",
+   "said_as": "Malik Thomas",
+   "horizon": "durable",
+   "text": "Thomas is a guard from Arkansas whom the speaker rates above consensus. He likes his size and shooting (42% on threes, good twos, good free throw percentage). He thinks Thomas can pass more and defend solidly, and that his numbers were held down by playing next to high-usage Darius Acuff.",
+   "ts": "5:42",
+   "quote": "Like 42% on threes, good twos, good good uh free throw percentage. But again, like he's in the shadows.",
+   "value_hint": "Lottery in the speaker's mocks; could be top 10 in the class",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 353
+  },
+  {
+   "player": "Christian Anderson",
+   "said_as": "Hans Christian Andersen / Christian Anderson",
+   "horizon": "durable",
+   "text": "The speaker rates Anderson above consensus and says he has two outlier skills. He calls him the best passer in the class and possibly the best shooter.",
+   "ts": "22:49",
+   "quote": "So, I think that the best passer in this draft class is Christian Anderson.",
+   "value_hint": "Lottery in the speaker's mocks",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1372
+  },
+  {
+   "player": "Cameron Carr",
+   "said_as": "Cameron Car",
+   "horizon": "durable",
+   "text": "The speaker likes Carr for his outlier athleticism, defensive skills and shooting upside.",
+   "ts": "6:13",
+   "quote": "I could have had Cameron Car on this list as well, who another player that I really like",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 389
+  },
+  {
+   "player": "Nate Ament",
+   "said_as": "Nate Ament / Amen",
+   "horizon": "durable",
+   "text": "The speaker does not understand why Ament is ranked so high. His frame is interesting, but his numbers are horrific, and the speaker doubts his shooting and scoring. He might be an okay defender.",
+   "ts": "7:45",
+   "quote": "But, the numbers are horrific. I think he might be an okay defender, but I don't know about the shooting",
+   "value_hint": "Overrated; speaker says pick 5 or 6 of the second round, not the top 6",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 468
+  },
+  {
+   "player": "Morez Johnson",
+   "said_as": "MarJon Johnson",
+   "horizon": "durable",
+   "text": "Johnson is an undersized 6'9 center. His shooting is iffy and the speaker does not see him as a real stretch big, though his finishing numbers are strong. The speaker sees him as a backup center and thinks he is mocked too high.",
+   "ts": "9:19",
+   "quote": "To me, he profiles more as a backup a backup big man, a backup center.",
+   "value_hint": "Consensus around 12 to 13; speaker thinks that is too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 568
+  },
+  {
+   "player": "Yaxel Lendeborg",
+   "said_as": "Yaxel Lendeborg",
+   "horizon": "durable",
+   "text": "Lendeborg will be 24 in his first NBA season. His numbers are good, and he shot threes very well this season, but he has no clear position. The speaker would not take him in the top 10.",
+   "ts": "11:22",
+   "quote": "if you're taking that in the lottery if you're taking that in the top 10, I just it's it's not for me.",
+   "value_hint": "Overrated if taken in the top 10",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 693
+  },
+  {
+   "player": "Cameron Boozer",
+   "said_as": "Cam Boozer / Bouzer",
+   "horizon": "durable",
+   "text": "Boozer is number two on the translated-stats list. The speaker ranks him number one for dynasty because of his fantasy skill set.",
+   "ts": "16:05",
+   "quote": "look, Boozer to me is number one in dynasty. Like his fantasy skill set is through the roof.",
+   "value_hint": "#1 dynasty rookie",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 987
+  },
+  {
+   "player": "Cameron Boozer",
+   "said_as": "Cam Boozer",
+   "horizon": "current",
+   "text": "Boozer's redraft value depends on where he lands. Washington and Utah would limit his minutes. If Memphis takes him at pick 3, he would likely be a fourth-round fantasy pick, around Cooper Flagg's range.",
+   "ts": "16:35",
+   "quote": "if Cam Boozer is the pick at number three, he'll almost certainly be a fourth-round fantasy pick",
+   "value_hint": "Fourth round in redraft if he goes to Memphis",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1018
+  },
+  {
+   "player": "Ugonna Onyenso",
+   "said_as": "Yegor Onyenso / Nnaji so",
+   "horizon": "durable",
+   "text": "Onyenso is a big man with a very high block rate who started taking threes in his last season. He could build fantasy value from blocks, rebounds and field goal percentage, like Walker Kessler.",
+   "ts": "17:05",
+   "quote": "Big man with an absolutely through-the-roof block rate who started taking threes in his last season.",
+   "value_hint": "#3 in translated stats",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1033
+  },
+  {
+   "player": "Rafael Castro",
+   "said_as": "Rafael Castro",
+   "horizon": "durable",
+   "text": "Castro is a 23-year-old, 6'11 big man with a very high block rate, a very high steal rate and a high free throw rate. He does not take threes. The speaker compares him to Paul Reed and says he is worth watching late in dynasty rookie drafts.",
+   "ts": "17:35",
+   "quote": "Doesn't take threes, but he's a steals and blocks absolute gem.",
+   "value_hint": "#4 in translated stats; a dynasty flier around pick 50",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1081
+  },
+  {
+   "player": "Caleb Wilson",
+   "said_as": "Caleb Wilson",
+   "horizon": "durable",
+   "text": "Wilson's three-point shooting is a concern. He gives blocks, steals, assists, big rebounding numbers and high usage, and his defensive stats and rebounding give him a fantasy baseline.",
+   "ts": "18:37",
+   "quote": "Wilson, the three-point shuttle or lack thereof is a a concern, but blocks, steals, assists, a huge rebounds",
+   "value_hint": "#5 in translated stats",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1129
+  },
+  {
+   "player": "Caleb Wilson",
+   "said_as": "Caleb Wilson",
+   "horizon": "current",
+   "text": "Wilson will probably go to Chicago, where he would have a big opportunity for usage. The speaker expects his early efficiency to be rocky.",
+   "ts": "18:37",
+   "quote": "Caleb Wilson, who is probably ending up in Chicago.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1117
+  },
+  {
+   "player": "Tarris Reed Jr.",
+   "said_as": "Heels Reed Jr.",
+   "horizon": "durable",
+   "text": "Reed translates well because of big steal and block numbers, a good assist rate for his position and unusually high usage at Connecticut. He is an older prospect.",
+   "ts": "19:42",
+   "quote": "big steals big blocks. Good assist rate for his position as well and a weirdly high usage player at Connecticut.",
+   "value_hint": "#6 in translated stats",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1182
+  },
+  {
+   "player": "Darryn Peterson",
+   "said_as": "Darren Peterson / Peterson",
+   "horizon": "durable",
+   "text": "The speaker thinks Peterson will be an electric shooter and rates him near the top as a shooter. Peterson was a good passer in high school but had poor passing numbers at Kansas.",
+   "ts": "22:49",
+   "quote": "I think Darren Peterson's going to be an electric shooter in this class, too.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1385
+  },
+  {
+   "player": "AJ Dybantsa",
+   "said_as": "AJ Dybantsa / Dibauture",
+   "horizon": "durable",
+   "text": "The speaker says Dybantsa has the best long-term floor in the class, thanks to his usage, shot creation, handle and draft capital. He also has holes: bad defense, unclear passing, and concerning shooting and shot selection.",
+   "ts": "24:23",
+   "quote": "His defense is bad. Not sure about where he goes",
+   "value_hint": "Projected top-two pick; best long-term floor",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1489
+  },
+  {
+   "player": "Stephon Castle",
+   "said_as": "Steph Castle / Castle",
+   "horizon": "durable",
+   "text": "The speaker admits he had Castle too low in his draft class. Castle has been much better than he expected, though the speaker still does not see him as an All-NBA player.",
+   "ts": "24:23",
+   "quote": "I still don't think he's an all-NBA player, but he's been way better than I thought.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1472
+  },
+  {
+   "player": "Ja Morant",
+   "said_as": "Ja Morant",
+   "horizon": "current",
+   "text": "The speaker jokes that Morant is only around for about 20 games, which opens up usage for a rookie in Memphis.",
+   "ts": "2:06",
+   "quote": "Go to Memphis and there's 20 games of Ja Morant.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 128
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Trae Young re-signed with Washington, which the speaker sees as a possible overpay. Washington will push for the play-in. With Young and Anthony Davis there, little usage is left for rookies.",
+   "ts": "1:36",
+   "quote": "Because going to Washington means that you've got Trae Young there and you've got Anthony Davis there already.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 112
+  },
+  {
+   "team": "UTA",
+   "horizon": "current",
+   "text": "In Utah, Keyonte George, Lauri Markkanen and Jaren Jackson Jr. already take a lot of usage, so a rookie would have less.",
+   "ts": "1:36",
+   "quote": "Going to Utah, you got Keyonte George, you got Lauri Markkanen, you got Jaren Jackson.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 122
+  },
+  {
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Memphis offers rookie opportunity because Ja Morant plays limited games and Zach Edey has a broken foot.",
+   "ts": "16:35",
+   "quote": "You go to Memphis, Ja Morant's there for 5 minutes. You got Zaccharie Edey's broken foot.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1008
+  },
+  {
+   "team": "CHI",
+   "horizon": "current",
+   "text": "Chicago has few other usage players, so a rookie like Caleb Wilson would get a big opportunity.",
+   "ts": "18:37",
+   "quote": "high usage, big opportunity in Chicago.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1137
+  },
+  {
+   "team": "POR",
+   "horizon": "current",
+   "text": "Less than 24 hours before the draft, Portland still had no head coach.",
+   "ts": "20:44",
+   "quote": "the Portland Trail Blazers sitting here 24 hours less than less than 24 hours before the NBA draft without a head coach",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1262
+  },
+  {
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Brooklyn has been reported as targeting Nate Ament.",
+   "ts": "7:45",
+   "quote": "And when I see, \"Hey, Brooklyn's targeting him.\"",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 480
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Meleek Thomas shot 42% on threes in college.",
+   "ts": "5:42",
+   "quote": "Like 42% on threes, good twos, good good uh free throw percentage.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 353
+  },
+  {
+   "text": "AJ Mitchell was picked at 38 in the 2024 draft and is already about a top 10 player from that class.",
+   "ts": "4:08",
+   "quote": "I can find AJ Mitchell at 38, who's already shown to be probably a top 10 player from that draft.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 257
+  },
+  {
+   "text": "Kyle Filipowski went at pick 32 and Kyshawn George at pick 24 in 2024.",
+   "ts": "4:08",
+   "quote": "Keshawn George at 24, who should go way ahead of that. I can find Kok Filipowski at 32.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 250
+  },
+  {
+   "text": "Last season, the big man Ryan Kalkbrenner went at pick 34 and Hugo Gonzalez went to Boston at pick 28. Gonzalez is a guess from the garbled captions.",
+   "ts": "3:08",
+   "quote": "Ryan Cockburn, another big sealant, went at pick 34.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 198
+  },
+  {
+   "text": "Yaxel Lendeborg will be 24 in his first NBA season.",
+   "ts": "10:20",
+   "quote": "He's going to be 24 in his first NBA season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 622
+  },
+  {
+   "text": "Cooper Flagg's fantasy draft range is around the fourth round.",
+   "ts": "16:35",
+   "quote": "he'll almost certainly be a fourth-round fantasy pick",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1021
+  }
+ ]
+}

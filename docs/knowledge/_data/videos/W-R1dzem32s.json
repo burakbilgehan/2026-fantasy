@@ -1,0 +1,1060 @@
+{
+ "video": {
+  "id": "W-R1dzem32s",
+  "title": "Fantasy Basketball Shooting Guard Tier Rankings [NBA]",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-09-10",
+  "duration": "35:12",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T14:08:57+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.35177179999999997,
+  "duration_ms": 97288
+ },
+ "summary": "Josh Lloyd ranks shooting guard eligible players in tiers for fantasy drafts, using Fantrax position eligibility, and gives his projected usage and minutes for many of them. Luka Doncic is alone in tier one, and Josh calls him a clear number three pick. Cade Cunningham and Anthony Edwards make up tier two, and Josh prefers Cade. He warns against single season myopia. He thinks Donovan Mitchell is not a first rounder, while Austin Reaves could finish ahead of him. He sees Jaylen Brown, Dyson Daniels and Norman Powell as undervalued. He sees Deni Avdija, Kon Knueppel, Kawhi Leonard and Dylan Harper as going too high. Throughout the show he leans on usage and minutes projections, the 240 minute rotation exercise, and doubts about 9-cat formula rankings.",
+ "rules": [
+  {
+   "text": "Positional tiers are fluid. Cutoffs shift between positions, so a player changing tiers from one position list to another should not be overread.",
+   "ts": "2:05",
+   "quote": "That's why some of these positional tier things I think can be",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 152
+  },
+  {
+   "text": "Avoid single season myopia. Do not assume last season's result is what always happens. Look at a player's career range and at what changed around him.",
+   "ts": "7:14",
+   "quote": "single season myopia, where people just look back at what happened last season and that's it.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 441
+  },
+  {
+   "text": "Use past production as a base, then adjust for changed factors like new teammates and lost teammates.",
+   "ts": "9:19",
+   "quote": "I look at the production and and what did happen as a basis of what could happen, but factors need to be considered.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 575
+  },
+  {
+   "text": "Projected usage and minutes drive rankings. If you expect different usage or minutes, adjust the player's position yourself.",
+   "ts": "8:49",
+   "quote": "if you think that his usage will be higher or his minutes will be lower, then take that into consideration",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 531
+  },
+  {
+   "text": "Injuries are largely unpredictable. A player seen as injury prone can stay healthy, and a durable player can get hurt.",
+   "ts": "3:38",
+   "quote": "players can stay healthy or players can get hurt. There's not a lot you can do about it.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 219
+  },
+  {
+   "text": "Leaning too hard on 9-cat formula rankings ('nine cat fluffery') can mislead player evaluation in both directions.",
+   "ts": "12:59",
+   "quote": "rooted in nine cap fluffery and that can lead to problems I think in evaluating players.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 795
+  },
+  {
+   "text": "Defensive stat differences are small in weekly terms. Going from 0.7 to 1 steal is about one extra steal per week, which is easy to flip.",
+   "ts": "19:11",
+   "quote": "going from 7 steals to one steal is one extra steal per week. It's so inconsequential.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1169
+  },
+  {
+   "text": "Good efficiency on low volume does not matter much.",
+   "ts": "18:40",
+   "quote": "good efficiency guy on lower volume is not that important.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1120
+  },
+  {
+   "text": "Be wary of players whose value came from teammates being absent. When those teammates return, their production drops.",
+   "ts": "24:52",
+   "quote": "really making hay while BS while BS have been out and then when they come back he disappears.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1494
+  },
+  {
+   "text": "The 240 game: every team game has 240 minutes to split among about 10 players. Use it to test whether a team's minutes projections are realistic.",
+   "ts": "32:14",
+   "quote": "10-man rotation. Some play 11, maybe one team will play nine, but you've got to fit 240 minutes for 10 players.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1934
+  },
+  {
+   "text": "High usage rookies nearly always post bad percentages.",
+   "ts": "29:38",
+   "quote": "pretty bad percentages as nearly every high usage rookie does",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1784
+  },
+  {
+   "text": "Expect second year players to take a jump forward.",
+   "ts": "26:59",
+   "quote": "we talked about secondyear players and big jumps jumps that they take forward.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1602
+  },
+  {
+   "text": "If you took injury risk or flyer picks earlier, balance them later with safe, steady players.",
+   "ts": "30:42",
+   "quote": "If you've taken flyer picks earlier, injury risk picks earlier, Wiggo is just solid here.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1847
+  },
+  {
+   "text": "Players at the bottom tier are deep league (14 team) picks or streamers who move on and off rosters.",
+   "ts": "34:17",
+   "quote": "you're picking them in 14 teamers and they're going to be on and off rosters of streamers throughout the year.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2059
+  },
+  {
+   "text": "Some players are much better in points leagues than in category leagues, so tiers differ by format.",
+   "ts": "9:51",
+   "quote": "you can see some differences who's better in category leagues who's better in points leagues",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 624
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Luka Doncic",
+   "said_as": "Luca Donuch",
+   "team": "LAL",
+   "horizon": "current",
+   "text": "Alone in shooting guard tier one. Projected around 39% usage, the highest in the league, with 36 minutes. Josh calls him a clear number three pick and takes him over Shai at three, even in category leagues.",
+   "ts": "3:06",
+   "quote": "I've got him projected at 39 with 36 minutes. To me, he is a clear number three",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 204
+  },
+  {
+   "player": "Shai Gilgeous-Alexander",
+   "said_as": "Shay Gudes Alexander",
+   "team": "OKC",
+   "horizon": "durable",
+   "text": "Three years ago people avoided him because of injuries, but he has stayed healthy the last couple of years.",
+   "ts": "3:06",
+   "quote": "3 years ago, no one wanted to touch Sha Gulich Alexander with a 10-ft pole because of injuries.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 211
+  },
+  {
+   "player": "Cade Cunningham",
+   "said_as": "Kate Cunningham",
+   "team": "DET",
+   "horizon": "current",
+   "text": "Tier two. Josh would take Cade over Anthony Edwards nearly every time. His ADP is 9.",
+   "ts": "4:09",
+   "quote": "I would take Cade over Anthony Edwards nearly every time",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 271
+  },
+  {
+   "player": "Anthony Edwards",
+   "said_as": "Anthony Edwards",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Tier two. Josh would not take him at pick five, and is not sure about six or seven either. Projected 31% usage and 35 minutes. ADP 17, ranked 8.",
+   "ts": "4:39",
+   "quote": "if you're considering he would pick five, I think you're wrong. Six or even seven",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 289
+  },
+  {
+   "player": "Anthony Edwards",
+   "said_as": "Anthony Edwards",
+   "team": "MIN",
+   "horizon": "durable",
+   "text": "Had a reputation for never missing time, but he was hurt a lot last season.",
+   "ts": "5:10",
+   "quote": "never wants to be hurt, and never was hurt, he was hurt a lot.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 313
+  },
+  {
+   "player": "Cooper Flagg",
+   "said_as": "Cooper Flag",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Tier three. Going in the first round of many drafts. Josh is fine with that near the end of round one. He will play some point guard.",
+   "ts": "6:11",
+   "quote": "Cooper flag is going into the first round of a lot of drafts. I I'm okay with that towards the end.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 380
+  },
+  {
+   "player": "Kevin Durant",
+   "said_as": "Kevin Durant",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Tier three. Realistically a power forward who will play almost no shooting guard this season. Josh would be okay taking him in the first round.",
+   "ts": "6:11",
+   "quote": "Kevin Durant in the first round. He doesn't really go in the first round very much, but I'd actually be okay",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 384
+  },
+  {
+   "player": "Tyrese Haliburton",
+   "said_as": "Tyres Hallebertton",
+   "team": "IND",
+   "horizon": "current",
+   "text": "Tier three. Main worries are back to backs off, a ramp up period and low efficiency early in the season. Josh expects him to be fine by fantasy playoff time.",
+   "ts": "6:42",
+   "quote": "back to back's off and a ramp up period and low efficiency to begin the season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 400
+  },
+  {
+   "player": "Donovan Mitchell",
+   "said_as": "Donovan Mitchell",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Tier three, but Josh does not see him as a first rounder. Projected just under 30% usage and 33 minutes. A full season with James Harden and the arrival of Payton Watson point downward. Yahoo ADP 22, rank 11, Fantrax ADP 14.",
+   "ts": "7:14",
+   "quote": "there are still people who are very clear on him being a first round guy and I'm not one of them.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 428
+  },
+  {
+   "player": "Donovan Mitchell",
+   "said_as": "Do Mitchell",
+   "team": "CLE",
+   "horizon": "durable",
+   "text": "Has been a roughly 30 to 40 ranked player for most of his career. Two point percentage has always been his Achilles heel. Last season's value was helped by 95% free throw shooting in the second half.",
+   "ts": "7:45",
+   "quote": "incredibly high two-point percentage which has always been an Achilles heel of his.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 484
+  },
+  {
+   "player": "Austin Reaves",
+   "said_as": "Austin Reeves",
+   "team": "LAL",
+   "horizon": "current",
+   "text": "Josh thinks he could finish ahead of Mitchell and could plausibly be a first rounder. Projected 28% usage and 36 minutes. ADP around 23 to 24 is too low. He loses LeBron and gains Collin Sexton.",
+   "ts": "8:17",
+   "quote": "His ADP sits at about 24, 23, ranked at 24, end of the second round. To me, that's just way too low.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 507
+  },
+  {
+   "player": "Austin Reaves",
+   "said_as": "Austin Reeves",
+   "team": "LAL",
+   "horizon": "durable",
+   "text": "Profile: good assists, threes and scoring, excellent free throws and efficiency. Lacks defensive stats.",
+   "ts": "9:19",
+   "quote": "Great assists, big threes, good scoring,",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 553
+  },
+  {
+   "player": "Amen Thompson",
+   "said_as": "Amen Thompson",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Tier three. Could easily be top 20 or just outside it. He is only tier five in points leagues.",
+   "ts": "9:51",
+   "quote": "I think a man again could easily be top 20. He might be just outside that.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 599
+  },
+  {
+   "player": "Josh Giddey",
+   "said_as": "Josh Giddy",
+   "team": "CHI",
+   "horizon": "current",
+   "text": "Tier four. Josh is fine taking him at the end of round two. Some worry about his drop in efficiency last season. Probably the best points league player in this group. His usage will drop with no one out in Chicago.",
+   "ts": "14:31",
+   "quote": "if you want to take Josh Giddy at the end of the second round and ahead of everyone else in this tier, I'm all right with it.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 876
+  },
+  {
+   "player": "Jaylen Brown",
+   "said_as": "Jaylen Brown",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Tier four. He now plays for Nick Nurse, so minutes go up (projected 36). Projected 28% usage, which will swing with Embiid and LeBron's health. Josh is happy taking him in round four. Yahoo ADP 32, Fantrax 44.",
+   "ts": "13:30",
+   "quote": "if I'm sitting in round four, I'll I'll have no questions with taking Jaylen Brown.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 814
+  },
+  {
+   "player": "Jaylen Brown",
+   "said_as": "Jaylen Brown",
+   "team": "PHI",
+   "horizon": "durable",
+   "text": "Category profile: okay scoring, solid rebounds, assists, steals and threes. Percentages are not ideal but not damaging. He gets downgraded too much.",
+   "ts": "12:59",
+   "quote": "He's going to score okay rebounds, solid assists, solid steals, solid threes, percentages are not ideal",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 801
+  },
+  {
+   "player": "Dyson Daniels",
+   "said_as": "Dyson Daniels",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Tier four. Last season almost could not have gone worse for him. Josh expects him to improve if he keeps starting, and says Luke Kennard is not better. Available in the 60s.",
+   "ts": "14:31",
+   "quote": "Daniels is just going to improve from where he was and you can get him in the 60s.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 869
+  },
+  {
+   "player": "James Harden",
+   "said_as": "Jimmy Harden",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "His usage and scoring dropped a lot after he moved to Cleveland. He still gives good assists. Field goal and two point percentage are not ideal. Going mid round two is too early for Josh.",
+   "ts": "15:02",
+   "quote": "I've seen Jim go middle of second round which is way too early for me",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 914
+  },
+  {
+   "player": "Trey Murphy III",
+   "said_as": "Trey Murphy",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Tier four. His ADP of 36 is about right, but 9-cat rankings putting him 12th are absurd. Last season's usage came with Dejounte Murray, Herb Jones and others out. Josh rarely ends up with him.",
+   "ts": "15:33",
+   "quote": "The idea that Trey Murphy is the 12th ranked player, which again I think nine cap fluffing would tell you is is absurd",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 936
+  },
+  {
+   "player": "Nickeil Alexander-Walker",
+   "said_as": "Nil Alexander Walker",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Tier five. His second half shooting last season is not repeatable, but his role, minutes and time on the ball are. Probably still going a little low.",
+   "ts": "16:35",
+   "quote": "the role, the minutes, the time on ball, all that is, just the shooting isn't.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1011
+  },
+  {
+   "player": "Deni Avdija",
+   "said_as": "Denny Abdia",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Going too high at ADP 34 (Fantrax 38). Damian Lillard, Jrue Holiday and Scoot Henderson add on ball players back into the rotation, which hurts his on ball role. Some shooting concerns. He was bad after his back injury.",
+   "ts": "17:07",
+   "quote": "he's going too high for me. 34 ADP is too high.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1034
+  },
+  {
+   "player": "Desmond Bane",
+   "said_as": "Dez Bane",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Tier five. Projected under 22% usage and 32 minutes. His last two seasons were helped by teammate absences. On a healthy Orlando team he is a third option who does not do much, and his three point attempt rate came down.",
+   "ts": "18:08",
+   "quote": "On a healthy team with France and Parlo there, Bane will be a third fiddle who doesn't do much",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1108
+  },
+  {
+   "player": "Devin Booker",
+   "said_as": "Deon Booker",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Tier five. Projected 32% usage and the de facto point guard despite claims about Jalen Green, so good assists. Relatively secure in the tiers.",
+   "ts": "18:40",
+   "quote": "I've still got his usage projected at 32. And I still think he's Look, I know they claim Jaylen Green's the point guard.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1136
+  },
+  {
+   "player": "Devin Booker",
+   "said_as": "Booker",
+   "team": "PHX",
+   "horizon": "durable",
+   "text": "Weak field goal percentage, excellent free throws, not enough threes or defensive stats.",
+   "ts": "19:11",
+   "quote": "He doesn't hit enough threes, doesn't do enough defensively.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1161
+  },
+  {
+   "player": "Kawhi Leonard",
+   "said_as": "Kawhi Leonard",
+   "team": "TOR",
+   "horizon": "current",
+   "text": "Ranked 18th. Josh will not take him in round two or even round three because of degenerative knee problems and likely load management in Toronto.",
+   "ts": "20:14",
+   "quote": "Taking Quo in round two is crazy to me. I will not do it under any circumstance.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1224
+  },
+  {
+   "player": "Brandon Ingram",
+   "said_as": "Brandon Ingram",
+   "team": "",
+   "horizon": "current",
+   "text": "Ranked 77th. He played almost every game last season. Kawhi is much better per game, but Ingram carries less risk, and Josh has them in the same tier.",
+   "ts": "19:41",
+   "quote": "Kawhai ranked 18th. Ingram ranked 77th. I get it. Brand Ingram hasn't been healthy, but he was last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1195
+  },
+  {
+   "player": "Ryan Rollins",
+   "said_as": "Ryan Rollins",
+   "team": "MIL",
+   "horizon": "current",
+   "text": "Tier five, but Josh is unsure. Minutes with Herro, Kuzma and Porter make his value a concern.",
+   "ts": "20:44",
+   "quote": "Rollins I'm a little bit unsure of.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1243
+  },
+  {
+   "player": "Tyler Herro",
+   "said_as": "Hero",
+   "team": "MIL",
+   "horizon": "durable",
+   "text": "Tier six. His production in Milwaukee is relatively safe, but he has a long injury history that could recur.",
+   "ts": "22:51",
+   "quote": "he's also had a million injuries and that stuff can, you know, I guess can recur",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1379
+  },
+  {
+   "player": "Kon Knueppel",
+   "said_as": "Areola Coniple",
+   "team": "CHA",
+   "horizon": "current",
+   "text": "Rank and ADP of 37 are outrageous. Projected 32 minutes and 25% usage. Spending a third round pick on him is setting your draft on fire. Josh worries his efficiency drops when Coby White sets him up instead of LaMelo.",
+   "ts": "23:21",
+   "quote": "Kipple sitting at a rank of 37 with an ADP of 37. He was 101st in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1401
+  },
+  {
+   "player": "Kon Knueppel",
+   "said_as": "Canipple",
+   "team": "CHA",
+   "horizon": "durable",
+   "text": "Does little beyond points and threes. No steals or blocks, not a big rebounder.",
+   "ts": "23:51",
+   "quote": "steals and blocks are not there. He's not a big rebound guy",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1428
+  },
+  {
+   "player": "Norman Powell",
+   "said_as": "Norman Pal",
+   "team": "CHI",
+   "horizon": "current",
+   "text": "Rank 91 but in tier six. Nobody is out in Chicago, so he could be the top usage player all season unless traded. Josh is okay with him here.",
+   "ts": "24:52",
+   "quote": "No one's out in Chicago. Could he be the number one usage guy all season unless he's traded?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1501
+  },
+  {
+   "player": "Ausar Thompson",
+   "said_as": "Assar Thompson",
+   "team": "DET",
+   "horizon": "current",
+   "text": "Tier six. Josh expects him to play more minutes but still has concerns about his fit with Jalen Duren.",
+   "ts": "25:22",
+   "quote": "I think that Asar is going to play more minutes. My concerns with him and Duran fitting together are still there.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1531
+  },
+  {
+   "player": "Coby White",
+   "said_as": "Kobe",
+   "team": "CHA",
+   "horizon": "current",
+   "text": "Josh is really big on him and does not get why his ADP sits in the late 80s. He is one of the more inconsistent shooters in the league.",
+   "ts": "25:22",
+   "quote": "I'm really big on Kobe. I'm not really sure why the market isn't.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1545
+  },
+  {
+   "player": "Stephon Castle",
+   "said_as": "Steph Castle",
+   "team": "SAS",
+   "horizon": "current",
+   "text": "Tier six in categories, but higher in points leagues.",
+   "ts": "22:20",
+   "quote": "Steph Castle, much higher in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1364
+  },
+  {
+   "player": "Cedric Coward",
+   "said_as": "Cedric Coward",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Tier seven, rank 108. His fast start last season was unsustainable and the defensive stats never came. Josh expects a second year jump.",
+   "ts": "26:28",
+   "quote": "I'm expecting a bit of that from Cedric here.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1607
+  },
+  {
+   "player": "VJ Edgecombe",
+   "said_as": "VJ Edge",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Tier seven. Better than the rest of the tier last season, but now has to share with LeBron and Jaylen Brown.",
+   "ts": "26:59",
+   "quote": "He has to incorporate LeBron and Jaylen Brown on this team.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1617
+  },
+  {
+   "player": "Jalen Green",
+   "said_as": "Jaylen Green",
+   "team": "PHX",
+   "horizon": "durable",
+   "text": "Penalized by 9-cat formulas because of poor efficiency and no steals, but he can easily score 20 points a game with over two threes, and 20 point scorers are hard to find.",
+   "ts": "27:32",
+   "quote": "you just can't find 20 point scorers.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1652
+  },
+  {
+   "player": "Dylan Harper",
+   "said_as": "Dylan Harper",
+   "team": "SAS",
+   "horizon": "current",
+   "text": "Rank 79 is too high. He played 22 minutes last season and the players ahead of him have not moved, so he leaves zero value at that spot.",
+   "ts": "28:03",
+   "quote": "you got absolutely zero value in that spot.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1687
+  },
+  {
+   "player": "Josh Hart",
+   "said_as": "Josh the Hit Man Hart",
+   "team": "NYK",
+   "horizon": "current",
+   "text": "Going around 90, maybe some value. The Knicks will likely be careful with workloads, so there is no upside in him returning to 36 or 37 minute roles.",
+   "ts": "28:35",
+   "quote": "I just don't think there's any upside in Josh getting back to those 36 37 Tom Tibido type minute rolls.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1715
+  },
+  {
+   "player": "Ty Jerome",
+   "said_as": "Ty Jerome",
+   "team": "",
+   "horizon": "current",
+   "text": "Do not expect last season to continue, but Josh thinks he will still be the starter.",
+   "ts": "29:05",
+   "quote": "don't expect what Ty Jerome did last season um to continue",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1738
+  },
+  {
+   "player": "Zach LaVine",
+   "said_as": "Zack Lavine",
+   "team": "SAC",
+   "horizon": "current",
+   "text": "Still pretty good. He no longer competes with Schroder, Westbrook and DeRozan. He could be benched or traded given Sacramento's motivations.",
+   "ts": "29:05",
+   "quote": "He won't have to deal with Schroeder and Westbrook and De Rozan. Maybe they bench him, maybe they trade him",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1748
+  },
+  {
+   "player": "CJ McCollum",
+   "said_as": "CJ McCullum",
+   "team": "",
+   "horizon": "current",
+   "text": "Josh is pretty high on him this season.",
+   "ts": "29:38",
+   "quote": "McCullum who I'm pretty high on this season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1778
+  },
+  {
+   "player": "Darryn Peterson",
+   "said_as": "Darren Peterson",
+   "team": "",
+   "horizon": "current",
+   "text": "Rookie going too early. Expect bad percentages. His assists are uncertain.",
+   "ts": "29:38",
+   "quote": "Darren Peterson who's going too early and I think he's going to have some pretty bad percentages",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1780
+  },
+  {
+   "player": "Brandin Podziemski",
+   "said_as": "Brana Pajki",
+   "team": "GSW",
+   "horizon": "current",
+   "text": "Projected around 20% usage and 30 minutes. Golden State lacks shot creators. Josh expects improvement in threes, rebounds, steals, assists and scoring.",
+   "ts": "30:10",
+   "quote": "Pajki should hit threes, be good rebounders, some steals, some assists, some scoring. I'm expecting an improvement",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1825
+  },
+  {
+   "player": "Immanuel Quickley",
+   "said_as": "Emanuel Quickley",
+   "team": "TOR",
+   "horizon": "current",
+   "text": "He loses usage with Kawhi on the team. Otherwise he would be a tier higher.",
+   "ts": "30:10",
+   "quote": "My worry with Quickly is he just loses usage with Kawaii.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1835
+  },
+  {
+   "player": "Cason Wallace",
+   "said_as": "match Wallace",
+   "team": "OKC",
+   "horizon": "current",
+   "text": "Do not overindex on his steals value. The market's rank and ADP already handle this well.",
+   "ts": "30:42",
+   "quote": "Don't overindex on the steals value, but I think people are doing a pretty good job of that",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1842
+  },
+  {
+   "player": "Andrew Wiggins",
+   "said_as": "Andy Wiggins",
+   "team": "",
+   "horizon": "current",
+   "text": "A rock solid, safe pick in tier seven after riskier picks earlier.",
+   "ts": "30:42",
+   "quote": "This is just a a rockolid sort of spot for Andy Wiggins.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1852
+  },
+  {
+   "player": "Kyshawn George",
+   "said_as": "Keshan George",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Awesome for the first two months last season, then fell off and got injured. Now has to share with Trae Young and Anthony Davis, so it will be hard to repeat.",
+   "ts": "31:13",
+   "quote": "now he has to deal with the Bansa Young and Davis, which he didn't last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1891
+  },
+  {
+   "player": "Jrue Holiday",
+   "said_as": "Drew Holiday",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Josh is not a big Jrue Holiday guy this season because there are too many players around him.",
+   "ts": "31:43",
+   "quote": "I'm not a big Drew Holiday guy. Too many players.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1902
+  },
+  {
+   "player": "Herb Jones",
+   "said_as": "Herb Jones",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Not a big Herb Jones guy, but this is the right area for later round steals.",
+   "ts": "31:43",
+   "quote": "if you're looking for some later steals, probably the right area to look at it.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1906
+  },
+  {
+   "player": "Kevin Porter Jr.",
+   "said_as": "Kevin Porter Jr.",
+   "team": "MIL",
+   "horizon": "current",
+   "text": "Could easily be ranked higher, but Milwaukee's minutes distribution is unclear.",
+   "ts": "32:14",
+   "quote": "Kevin Porter Jr., who I could easily put higher.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1922
+  },
+  {
+   "player": "Reed Sheppard",
+   "said_as": "Reed Shepard",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Low because Josh does not think Udoka likes him, and Fred VanVleet and Marcus Smart are now in the lineup.",
+   "ts": "32:14",
+   "quote": "I got Reed Shepard here because I don't think Emodoka likes him.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1952
+  },
+  {
+   "player": "Jalen Suggs",
+   "said_as": "Jaylen Suggs",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "Would be much higher if not for constant injury concerns.",
+   "ts": "32:45",
+   "quote": "Jaylen Suggs would be way higher than this if we weren't concerned about him being injured all the time.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1961
+  },
+  {
+   "player": "Brandon Miller",
+   "said_as": "Brandon Miller",
+   "team": "CHA",
+   "horizon": "current",
+   "text": "Josh is a little worried about his shoulder. He thinks Miller had surgery and has been in braces all offseason.",
+   "ts": "32:45",
+   "quote": "I'm a little worried about Brandon Miller with his shoulder",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1986
+  },
+  {
+   "player": "Grayson Allen",
+   "said_as": "Grayson Allen",
+   "team": "CHA",
+   "horizon": "current",
+   "text": "Can play the two, three and four and handle the ball. Could get 27 minutes off the bench, but Josh would not draft him.",
+   "ts": "33:15",
+   "quote": "could he get 27 minutes off the bench and shoot just better than he did last season? Maybe. I wouldn't draft him",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1999
+  },
+  {
+   "player": "Collin Gillespie",
+   "said_as": "Cole Gillespie",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Tier nine. He would be three tiers higher if he were starting.",
+   "ts": "33:15",
+   "quote": "if Gillespie was starting, he'd be three tiers higher.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2012
+  },
+  {
+   "player": "Jaylon Tyson",
+   "said_as": "Jaylen Tyson",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "His minutes should stay high after the Cavs lost Schroder, Allen and Struus. Much of his value came from hot three point shooting. Josh is not convinced it turns into fantasy value.",
+   "ts": "33:46",
+   "quote": "So his minutes are going to have to stay pretty high. It's whether he can turn that into fantasy. I'm not convinced.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2049
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "CHI",
+   "horizon": "current",
+   "text": "No one is injured in Chicago. Giddey, Buzelis and Caleb Wilson will have lower usage, and Norman Powell may lead the team in usage unless traded.",
+   "ts": "24:52",
+   "quote": "But Giddy will have lower usage. Bzalis will have lower usage. Caleb Wilson will have lower usage.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1509
+  },
+  {
+   "team": "POR",
+   "horizon": "current",
+   "text": "Three on ball players (Lillard, Holiday, Henderson) return to the rotation, which squeezes Avdija's on ball role.",
+   "ts": "17:38",
+   "quote": "when you're adding three on ball players back into the rotation",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1062
+  },
+  {
+   "team": "SAC",
+   "horizon": "current",
+   "text": "Sacramento is in the relegation zone mindset. LaVine and Sabonis may keep them out of the bottom, and LaVine could be benched or traded.",
+   "ts": "29:05",
+   "quote": "Relegation zone and Darius Aoff and Nick Clifford aren't keeping you out of the relegation zone.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1760
+  },
+  {
+   "team": "GSW",
+   "horizon": "current",
+   "text": "Few shot creators beyond Steph and maybe Santos. The starting guard spot among Podziemski, Melton and Santos is unclear.",
+   "ts": "30:10",
+   "quote": "is there anybody who can create their own shot? Like not really. It's Steph and it's G Santos maybe.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1810
+  },
+  {
+   "team": "MIL",
+   "horizon": "current",
+   "text": "Guard minutes in Milwaukee are hard to fit using the 240 game. Herro, Kuzma, Porter Jr., Rollins and Huerter all compete.",
+   "ts": "32:14",
+   "quote": "So, do it with Milwaukee.",
+   "verified": false,
+   "match_ratio": 0.0,
+   "seconds": 1934
+  },
+  {
+   "team": "NYK",
+   "horizon": "current",
+   "text": "The Knicks are likely to be cautious about overworking players after last season's extended workload.",
+   "ts": "28:35",
+   "quote": "they're going to be pretty cautious about overworking them given their extended workload last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1710
+  },
+  {
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Cleveland lost Schroder, Allen and Struus, so Jaylon Tyson must play a lot.",
+   "ts": "33:46",
+   "quote": "they lost Schroeder and Alice from last season. He's and Strus is gone.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2044
+  },
+  {
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Nick Nurse plays his main players heavy minutes. Jaylen Brown's usage will swing with Embiid and LeBron's health.",
+   "ts": "12:59",
+   "quote": "some of that time will be when Embiid is there and LeBron is there, but if they're hurt, it'll go higher.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 779
+  },
+  {
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Fred VanVleet and Marcus Smart are in the lineup this season, which pushes Reed Sheppard down.",
+   "ts": "32:14",
+   "quote": "they get Vanble Vleet and Marcus Smart back or into the lineup",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1955
+  },
+  {
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Phoenix says Jalen Green is the point guard, but Josh thinks Booker runs the offense. Gillespie is unlikely to start.",
+   "ts": "18:40",
+   "quote": "I know they claim Jaylen Green's the point guard. Jay, he's not. He's just not.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1138
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Luka Doncic was ranked second last season. His ADP is 5.",
+   "ts": "3:06",
+   "quote": "Luca was ranked second in Durant last season. Actually, he was second in points exag fantasy points. His ADP is five.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 188
+  },
+  {
+   "text": "Anthony Edwards was 14th in category and points leagues last season, averaging 44 fantasy points.",
+   "ts": "4:39",
+   "quote": "He was 14th in category leagues and points leagues last season. He averaged 44 fantasy points.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 298
+  },
+  {
+   "text": "Donovan Mitchell was 8th in categories and 10th in fantasy points last season, averaging 45. His Yahoo ADP is 22.",
+   "ts": "6:42",
+   "quote": "Eighth in Durant, 10th fantasy points, averaging 45 fantasy points. He's ADP on Yahoo. Again, that doesn't make any sense. It's at 22.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 414
+  },
+  {
+   "text": "Mitchell was around the 40th ranked player in 2024-25 and shot about 95% on free throws in the second half of last season.",
+   "ts": "7:45",
+   "quote": "I think he was at 95% on his free throws in that second half of the season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 480
+  },
+  {
+   "text": "Austin Reaves was 21st last season in categories and 36th in points leagues.",
+   "ts": "8:17",
+   "quote": "He was 21st last season, 36th in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 504
+  },
+  {
+   "text": "Jaylen Brown was 13th in points leagues and 25th in category leagues last season. Yahoo ADP 32.",
+   "ts": "12:29",
+   "quote": "he was 13th in fantasy fantasy points leagues. He was 25th in category leagues using Durant.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 763
+  },
+  {
+   "text": "Dyson Daniels shot 18% from three with only two steals last season.",
+   "ts": "14:00",
+   "quote": "18% shooting from three and only two steals.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 844
+  },
+  {
+   "text": "Trey Murphy III was 22nd in categories last season, averaging 39 fantasy points (39th). Yahoo ADP 36.",
+   "ts": "15:02",
+   "quote": "Murphy was the 22nd ranked player in Durant last season he averaged 39 fantasy points which ranked him 39th",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 926
+  },
+  {
+   "text": "Desmond Bane was 65th in points leagues and 44th in categories last season.",
+   "ts": "18:08",
+   "quote": "He ranked 65th in fantasy points leagues last season, 44th in Durant.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1081
+  },
+  {
+   "text": "Devin Booker was 38th in categories and 32nd in points leagues last season.",
+   "ts": "18:40",
+   "quote": "And that's Deon Booker. He was 38th, 32nd in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1132
+  },
+  {
+   "text": "Kon Knueppel was 101st in points leagues and 66th in categories last season.",
+   "ts": "23:21",
+   "quote": "He was 101st in points leagues. He was 66th in Durant.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1408
+  },
+  {
+   "text": "Norman Powell finished 73rd last season and 86th in points leagues.",
+   "ts": "24:21",
+   "quote": "he finished 73rd last season 86th in points leagues",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1484
+  },
+  {
+   "text": "Dylan Harper played 22 minutes per game last season.",
+   "ts": "28:03",
+   "quote": "he played 22 last season and the BS in front of him have not moved",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1678
+  },
+  {
+   "text": "Josh Hart was 72nd in categories and 95th in points leagues.",
+   "ts": "28:03",
+   "quote": "72nd in Durant, 95th for points leagues. He's going around that 90 mark.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1695
+  },
+  {
+   "text": "Brandin Podziemski was 135th in categories and 121st in points leagues.",
+   "ts": "29:38",
+   "quote": "135th in Durant, 121st in points. I'm not going to tell you that's good.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1798
+  },
+  {
+   "text": "Jaylon Tyson shot about 48% from three.",
+   "ts": "33:46",
+   "quote": "A lot of his value was based on he shot like 48% from three.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2038
+  }
+ ]
+}

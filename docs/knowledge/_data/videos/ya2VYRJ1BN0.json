@@ -1,0 +1,382 @@
+{
+ "video": {
+  "id": "ya2VYRJ1BN0",
+  "title": "LaMelo Ball TRADED To Minnesota! Charlotte, What Are You Doing?!",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-06-25",
+  "duration": "26:56",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T11:00:38+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.186996,
+  "duration_ms": 38135
+ },
+ "summary": "Josh Lloyd reacts to Charlotte trading LaMelo Ball to Minnesota for Naz Reid, a 2033 unprotected first-round pick, three second-round picks and three pick swaps he calls meaningless. He thinks Ball will probably be a third-round fantasy pick again, with more minutes and more scoring and assists in Minnesota. He thinks the trade hurts Ayo Dosunmu's fantasy upside and gives Jaden McDaniels a small bump. Minnesota has big holes at power forward and center. In Charlotte, Naz Reid should start at center and could put up monster fantasy numbers. Brandon Miller and Kon Knueppel get usage bumps, while Coby White's usage drops. He calls Charlotte's return laughably bad and pushes back on the idea that Ball is not a winning player.",
+ "rules": [
+  {
+   "text": "When a high-usage star leaves, his usage gets spread among the players who remain. Expect bumps for the secondary options and a dip for a bench scorer who moves into a lower priority role.",
+   "ts": "18:49",
+   "quote": "So, you're losing Ball Diabate and you're replacing it with Reid and White. So, Miller and Knipel will get bumps.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1151
+  },
+  {
+   "text": "A third offensive option needs big minutes and very efficient shooting to matter in fantasy. That is not a likely high-upside outcome.",
+   "ts": "7:49",
+   "quote": "that guy that's going to need 33 minutes and need to have a true shooting of 61% to be relevant for fantasy",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 479
+  },
+  {
+   "text": "Don't be fooled by a player's per-game rank in nine-category leagues being inflated beyond his real value.",
+   "ts": "17:45",
+   "quote": "He'll also probably be someone who gets night cat fluff to be looking like a top 30 player. Don't fall for that.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1072
+  },
+  {
+   "text": "A team that needs to win will play its star more minutes than a cautious, rebuilding team did.",
+   "ts": "7:19",
+   "quote": "Minnesota is like we we've got to win, man. Like he's going to play big minutes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 437
+  },
+  {
+   "text": "Games a player missed during a tank may not reflect real injury problems.",
+   "ts": "9:53",
+   "quote": "Half of the games that LaMelo Ball missed in the last two seasons prior to this last one was not because he was injured, it was because they were tanking.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 612
+  },
+  {
+   "text": "Some players' usage spikes when a teammate is out. Losing a frontcourt usage player who shared lineups with them helps them.",
+   "ts": "8:20",
+   "quote": "McDaniels is one of those players who's usage spikes when somebody is out.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 504
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "LaMelo Ball",
+   "said_as": "LaMelo Ball",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Traded to Minnesota. Probably a third-round fantasy pick again, maybe a second-rounder.",
+   "value_hint": "third round, maybe second round",
+   "ts": "6:48",
+   "quote": "He'll be probably I I would guess a third-round pick again in fantasy. Maybe a second-round.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 412
+  },
+  {
+   "player": "LaMelo Ball",
+   "said_as": "LaMelo",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "He will be Minnesota's top assist man but not its top usage player. Still, nobody else on the roster is a high-usage player, so his usage could stay high.",
+   "value_hint": "",
+   "ts": "6:17",
+   "quote": "He was the number one assist guy, and he'll be the number one assist guy here as well.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 377
+  },
+  {
+   "player": "LaMelo Ball",
+   "said_as": "LaMelo Ball",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Expected to play more than 28 minutes a night in Minnesota, with his scoring and assists going up.",
+   "value_hint": "",
+   "ts": "6:48",
+   "quote": "I would imagine that he plays more than 28 minutes a night. Charlotte was very cautious with him",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 425
+  },
+  {
+   "player": "LaMelo Ball",
+   "said_as": "LaMelo Ball",
+   "team": "MIN",
+   "horizon": "durable",
+   "text": "An elite offensive player and underrated. His shooting percentage has not been great.",
+   "value_hint": "underrated",
+   "ts": "10:25",
+   "quote": "And his shooting percentage was not great. But he is an elite player. He's an elite offensive player.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 637
+  },
+  {
+   "player": "Naz Reid",
+   "said_as": "Naz Reid",
+   "team": "CHA",
+   "horizon": "current",
+   "text": "Will be Charlotte's starting center and should take a lot of shots with Ball's usage gone. Expected to put up monster fantasy numbers.",
+   "value_hint": "",
+   "ts": "14:04",
+   "quote": "Reid is going to put up monster fantasy numbers. He's going to be the starting center.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 867
+  },
+  {
+   "player": "Naz Reid",
+   "said_as": "Reid",
+   "team": "CHA",
+   "horizon": "current",
+   "text": "Projected for about four more minutes and usage rising from 22 to around 24. Likely a top-50 player.",
+   "value_hint": "top 50; don't buy a top-30 per-game rank",
+   "ts": "17:14",
+   "quote": "He'll probably play let's go conservatively four more minutes. The usage probably goes 22 to 24.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1056
+  },
+  {
+   "player": "Naz Reid",
+   "said_as": "Naz Reid",
+   "team": "CHA",
+   "horizon": "durable",
+   "text": "Overpaid. Can play the four or the five. A backup on a good team and a starter on a bad one.",
+   "value_hint": "",
+   "ts": "14:04",
+   "quote": "he's a backup on a good team and he's a starter on a not good team, I think.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 846
+  },
+  {
+   "player": "Ayo Dosunmu",
+   "said_as": "Dosunmu",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "The trade cuts off his fantasy upside. Even if he starts, he is the third offensive option.",
+   "value_hint": "avoid the hype",
+   "ts": "7:49",
+   "quote": "I know a lot of people are excited about drafting Dosunmu this season. I think this cuts all of the legs off that.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 470
+  },
+  {
+   "player": "Jaden McDaniels",
+   "said_as": "Jaden McDaniels",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Gets a small bump. Randle and Naz Reid are gone, and he may play the four full-time.",
+   "value_hint": "",
+   "ts": "8:51",
+   "quote": "he won't have to share lineups with Naz Reid. Jaden McDaniels won't. So, there'll be a bump",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 531
+  },
+  {
+   "player": "Joan Beringer",
+   "said_as": "Yoan Begarin",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Almost certainly a rotation player now. He will start if Gobert misses time. Cannot play alongside Gobert. Of interest in dynasty and deeper leagues.",
+   "value_hint": "dynasty/deep league interest",
+   "ts": "4:12",
+   "quote": "if you are in dynasty leagues, deeper leagues, he's going to have to play minutes and he will be a starter if Gobert misses time.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 254
+  },
+  {
+   "player": "Josh Green",
+   "said_as": "Josh Green",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Adds wing depth. Not good, but might start at the three.",
+   "value_hint": "",
+   "ts": "4:44",
+   "quote": "Like I said, Josh Green might start. He's not good, but maybe he starts.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 296
+  },
+  {
+   "player": "Anthony Edwards",
+   "said_as": "Anthony Edwards",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Ball's arrival should have little to no impact on him. The role players take the hit.",
+   "value_hint": "",
+   "ts": "7:19",
+   "quote": "What is there an impact on Anthony Edwards? I don't I don't think so. Maybe slightly",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 455
+  },
+  {
+   "player": "Coby White",
+   "said_as": "Coby White",
+   "team": "CHA",
+   "horizon": "current",
+   "text": "Re-signed for three years and $74 million and will start. His usage drops and his minutes go up a bit. Still a draftable player.",
+   "value_hint": "draftable",
+   "ts": "18:49",
+   "quote": "So, White will be a draftable player, but talk about usage priorities",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1126
+  },
+  {
+   "player": "Coby White",
+   "said_as": "White",
+   "team": "CHA",
+   "horizon": "durable",
+   "text": "As a starter in Chicago he was inconsistent and shaky, and his shooting was rough last season. He is not a pass-first setup guy like Ball.",
+   "value_hint": "",
+   "ts": "18:17",
+   "quote": "One season, pretty good, although very inconsistent and very shaky.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1115
+  },
+  {
+   "player": "Brandon Miller",
+   "said_as": "Brandon Miller",
+   "team": "CHA",
+   "horizon": "current",
+   "text": "Big usage bump expected, from 28 to about 29 or 30.",
+   "value_hint": "",
+   "ts": "20:21",
+   "quote": "Miller's 28 probably hits 29-30.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1230
+  },
+  {
+   "player": "Kon Knueppel",
+   "said_as": "Knipel",
+   "team": "CHA",
+   "horizon": "current",
+   "text": "Usage bump expected, from 22 to about 24 or 25.",
+   "value_hint": "",
+   "ts": "20:21",
+   "quote": "Knipel probably goes 24-25. Bridges, I would say, stays 22-21ish.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1233
+  },
+  {
+   "player": "Miles Bridges",
+   "said_as": "Miles Bridges",
+   "team": "CHA",
+   "horizon": "current",
+   "text": "Usage likely stays around 21 to 22. Charlotte badly needs to trade him.",
+   "value_hint": "",
+   "ts": "17:45",
+   "quote": "Miles Bridges, who they desperately need to move.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1087
+  },
+  {
+   "player": "Hannes Steinbach",
+   "said_as": "Hanas Steinback",
+   "team": "CHA",
+   "horizon": "current",
+   "text": "Will not start now that Charlotte has Naz Reid. He competes with Diabate and Kalkbrenner for the backup center role.",
+   "value_hint": "",
+   "ts": "14:04",
+   "quote": "Hanas Steinback being potentially a starter because he won't be. It's Naz Reid",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 854
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Minnesota has almost no depth at power forward or center after losing Randle and Naz Reid. The frontcourt is McDaniels, Beringer and Gobert, with Biyombo as the backup center.",
+   "ts": "5:15",
+   "quote": "There is no four or five depth at all.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 333
+  },
+  {
+   "team": "MIN",
+   "horizon": "current",
+   "text": "The guard and wing spots can be filled by Edwards, Ball, Dosunmu, Hyland, Conley, Shannon and Green. Ideally McDaniels moves back to the three and someone else is added to play the four.",
+   "ts": "8:51",
+   "quote": "I would imagine they would want McDaniels back at the three. Dosunmu plays 30 off the bench",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 542
+  },
+  {
+   "team": "CHA",
+   "horizon": "current",
+   "text": "The roster is basically set, with about 17 regular contracts. The starters are White, Miller, Knueppel, Bridges and Reid. Other big men will barely play.",
+   "ts": "21:22",
+   "quote": "So, someone else needs to go off that team. So, they're basically set and done.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1303
+  },
+  {
+   "team": "CHA",
+   "horizon": "current",
+   "text": "Charlotte has lost the passer who pushed its transition play. Its defense may be horrific.",
+   "ts": "22:25",
+   "quote": "the guy that pushed their transition play and set up their players, they don't have a passer like that.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1360
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "LaMelo Ball last season: 32% usage, 28 minutes, ranked 32nd in fantasy, averaged 20 points, 5 rebounds, 7 assists and 1.2 steals, shot 41% from the field and 37% from three.",
+   "ts": "6:17",
+   "quote": "he had 32 usage last season. He played 28 minutes. He was ranked 32nd LaMelo for fantasy.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 400
+  },
+  {
+   "text": "Naz Reid last season: 26 minutes, 22% usage, 13 points and 6 rebounds with a steal and a block, 36% from three. Ranked 98th per game and 112th in points leagues.",
+   "ts": "17:14",
+   "quote": "He only played 26 minutes a night with 22 usage, average 13 and 6 with the steal and a block.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1043
+  },
+  {
+   "text": "Charlotte usage rates last season: Miller 28, Knueppel 22, Bridges 22, Diabate 11, White 29.",
+   "ts": "20:21",
+   "quote": "Knipel had 22. Bridges had 22. Diabate had 11 and White was at 29.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1221
+  },
+  {
+   "text": "Coby White re-signed for 3 years and $74 million. Ayo Dosunmu signed for $112 million.",
+   "ts": "18:17",
+   "quote": "Coby White, who resigned for 3 years, $74 million. $74 million for Coby White, $112 million for Ayo Dosunmu",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1097
+  }
+ ]
+}

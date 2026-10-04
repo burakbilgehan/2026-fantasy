@@ -1,0 +1,594 @@
+{
+ "video": {
+  "id": "gerS7ibpaJo",
+  "title": "Second Year Fantasy Basketball Breakouts",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-09-04",
+  "duration": "29:00",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T14:06:36+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.2517918,
+  "duration_ms": 67498
+ },
+ "summary": "Josh Lloyd looks at how NBA players develop from their rookie year to their second year, using six seasons of data (2020-21 to 2025-26), and then goes through this season's sophomore class. Second-year players are much more fantasy relevant than rookies. About 60% of rookies improve and 41% climb at least 50 ranking spots. ADP is good at picking out the second-year players who get drafted early. Late-round sophomore flyers rarely work out: only 13% of those drafted in the 101 to 150 range finished top 100. He sees Cooper Flagg as a safe late first-round pick but thinks his $60 auction price is too high. He sees Kon Knueppel, VJ Edgecombe and Dylan Harper as overdrafted. His main breakout targets are Derik Queen and Collin Murray-Boyles, with Cedric Coward as a possible third. Jeremiah Fears, Egor Demin and Joan Beringer are late flyers, and Ace Bailey is overdrafted.",
+ "rules": [
+  {
+   "text": "Second-year players are much more fantasy relevant than rookies. Over six years, top 50 category players went from 3 as rookies to 8 in year two, top 100 from 11 to 31, and top 150 from 20 to 54.",
+   "ts": "2:09",
+   "quote": "We had three players as rookies be top 50 guys for category leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 144
+  },
+  {
+   "text": "Across all rookies, 60% improved in year two, and 41% improved by at least 50 ranking slots.",
+   "ts": "4:43",
+   "quote": "41% of all rookies improve by at least 50 ranking slots in year two.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 290
+  },
+  {
+   "text": "Rookie rank and sophomore rank have a correlation of about 0.61. Most players who are relevant in year two were already somewhat relevant in year one. Only 30 players in six years jumped from outside the top 150 to inside it.",
+   "ts": "5:16",
+   "quote": "Only 30 of those players over that six year period were not top 150 relevant as rookies",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 336
+  },
+  {
+   "text": "ADP is good with second-year players at the top end. All seven with a top 50 ADP finished top 100. Of those with an ADP of 51 to 100, 72% finished top 100.",
+   "ts": "6:16",
+   "quote": "Only 72% of those finish in the top 100 and 94% of those finish in the top 150.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 392
+  },
+  {
+   "text": "Second-year flyers with an ADP of 101 to 150 hit only 13% of the time for top 100 and 33% for top 150. Undrafted sophomores almost never become relevant.",
+   "ts": "6:47",
+   "quote": "So a 13% hit rate on secondyear flyers. 33% of them did end up as top 150 players.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 423
+  },
+  {
+   "text": "Late flyers usually do not work out. That is accepted as part of the cost of drafting in that area.",
+   "ts": "7:49",
+   "quote": "We know that when we're drafting them late that that's that's part of the cost of doing business",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 479
+  },
+  {
+   "text": "In auctions, people tend to overpay for top-end players and underpay for players in the middle range.",
+   "ts": "13:00",
+   "quote": "I think that in general people do overpric topend players and underpric the middle range like a lot.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 780
+  },
+  {
+   "text": "If a pick finishes a few spots below where you took it, that barely matters. A big miss, like 11th to 30th, does matter.",
+   "ts": "14:02",
+   "quote": "But a four or five spot difference, which is probably half a fantasy point or, you know, 0.1 steals, doesn't matter.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 844
+  },
+  {
+   "text": "Be wary of unsustainable shooting splits, such as very high percentages on twos and threes. They tend to regress.",
+   "ts": "21:50",
+   "quote": "Bro's hitting 75 on his twos. He's at 50 on his threes. That's just not going to happen, is it?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1304
+  },
+  {
+   "text": "Steals and free throw percentage are the two categories that vary most from year to year.",
+   "ts": "22:21",
+   "quote": "Free throw percentage in steals the two most variable year on year.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1346
+  },
+  {
+   "text": "Backup bigs who would become must-rosters if the starter misses games are worth drafting in games cap, limited transaction, roto and weekly lock formats. They are harder to justify in daily leagues where you use your bench all the time.",
+   "ts": "27:34",
+   "quote": "So in games cap formats, in limited transaction formats, in roto leagues, in weekly lock leagues, he has to be drafted",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1648
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Stephon Castle",
+   "said_as": "Steph Castle",
+   "team": "SAS",
+   "horizon": "current",
+   "text": "Castle was not a top second-year category performer last season. His category production was poor for most of the year but improved as the season went on. He is much better in points leagues.",
+   "ts": "9:52",
+   "quote": "Steph Castle is not there because his category league performance for the majority of the season was not good.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 609
+  },
+  {
+   "player": "Matas Buzelis",
+   "said_as": "Mat Bzalis",
+   "team": "CHI",
+   "horizon": "current",
+   "text": "The speaker likes Buzelis as a third-year player this season. Buzelis and Castle both finished top 90 last season.",
+   "ts": "10:23",
+   "quote": "one of the other guys that I really like as a second a third year player this season, Mat Bzalis",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 625
+  },
+  {
+   "player": "Zach Edey",
+   "said_as": "Zack Edy",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Edey was the best second-year player last season on a per-game basis. He improved 91 spots in categories and 81 in Yahoo points. His ADP was 115 because he started the season injured.",
+   "ts": "10:54",
+   "quote": "Zack Edy per game was the best of the bunch.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 654
+  },
+  {
+   "player": "Alex Sarr",
+   "said_as": "Alex Sar",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Sarr jumped 70 spots in categories and 60 in points leagues last season. He beat his ADP of 81 on a per-game basis.",
+   "ts": "10:54",
+   "quote": "Alex Sar jumped 70 spots in categories and 60 spots in points leagues. His ADP was 81.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 671
+  },
+  {
+   "player": "Kyshawn George",
+   "said_as": "Keshan George",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "George jumped 88 category spots and 102 points league spots into the top 85 last season. The speaker does not think he keeps that up this season.",
+   "ts": "11:24",
+   "quote": "to be positioned inside the top 85 which I don't think he continues this season to be honest.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 691
+  },
+  {
+   "player": "Donovan Clingan",
+   "said_as": "Don Clinton",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Clingan jumped 87 category spots last season. The speaker thinks people will overrate him off his 12 points, 12 rebounds and 1.6 blocks. He would not take him anywhere from the second to the fifth round.",
+   "ts": "11:57",
+   "quote": "I would not judge him as a second round, third round, fourth round, fifth round player",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 717
+  },
+  {
+   "player": "Cooper Flagg",
+   "said_as": "Cooper Flag",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Flagg's ADP is 11. The speaker is fine taking him in the back end of the first round and thinks he is relatively safe there. He calls getting him in the second round fantastic.",
+   "ts": "12:28",
+   "quote": "I think it's okay to look at him in in that back end first round range.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 764
+  },
+  {
+   "player": "Cooper Flagg",
+   "said_as": "flag",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Flagg's average auction price of $60 is way too high in the speaker's view.",
+   "ts": "13:00",
+   "quote": "that number for me on flag for for auction is is just way too high.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 793
+  },
+  {
+   "player": "Cooper Flagg",
+   "said_as": "flag",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "The speaker expects Flagg's scoring and efficiency to rise even with Kyrie Irving there. He would not be shocked if steals or blocks go up, and expects assists to go from 4.5 to over 5.",
+   "ts": "13:00",
+   "quote": "We expect things like his scoring to go up a little bit. Even though Kyrie is there",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 803
+  },
+  {
+   "player": "Kon Knueppel",
+   "said_as": "Areola Conciple",
+   "team": "CHA",
+   "horizon": "current",
+   "text": "Knueppel is overvalued at an ADP of 36. His shooting may not hold up without LaMelo Ball, and he gets no steals or blocks. The speaker would have him around 60 and thinks he may not beat last season's category rank.",
+   "ts": "14:36",
+   "quote": "His ADP is is way too high. It sits at 36.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 876
+  },
+  {
+   "player": "Kon Knueppel",
+   "said_as": "Kipple",
+   "team": "CHA",
+   "horizon": "durable",
+   "text": "Knueppel gets no steals or blocks. His assists and scoring may rise, but lower efficiency could offset that.",
+   "ts": "15:06",
+   "quote": "But third round doesn't get any steals or blocks. The assist probably jump up.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 910
+  },
+  {
+   "player": "VJ Edgecombe",
+   "said_as": "VJ Edge",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Edgecombe is at risk of not matching last season's ranks. With LeBron James, Jaylen Brown and a healthy Joel Embiid around him, the speaker doubts he can repeat his 16.6, 4 and 1.4 steals. The speaker thinks his ADP of 66 and $13 auction price are too high and would rather take him around 80 to 90.",
+   "ts": "16:06",
+   "quote": "If you're getting him in the 60s, I think it's too high. And that $13 auction price is too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 984
+  },
+  {
+   "player": "Derik Queen",
+   "said_as": "Queen",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "Queen is a poor defender and a poor shooter, but he puts up numbers: 12.7 and 4 with a steal and a block as a rookie.",
+   "ts": "18:45",
+   "quote": "He's a horrible defender. His shooting is bad, but he does put up numbers.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1145
+  },
+  {
+   "player": "Derik Queen",
+   "said_as": "Derek Queen",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Queen is a strong second-year target. The speaker projects him in the 70s with an easy top 50 upside if he starts or Zion Williamson is less healthy than last season.",
+   "ts": "19:15",
+   "quote": "I think the upside on him is very easily top 50 with just a number of things going his way.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1184
+  },
+  {
+   "player": "Dylan Harper",
+   "said_as": "Dylan Harper",
+   "team": "SAS",
+   "horizon": "current",
+   "text": "Harper's ADP of 78 looks too high. The speaker thinks he is closer to 100 because the backcourt that limited his minutes is still there, and his second-half shooting will not last.",
+   "ts": "20:17",
+   "quote": "I think he's more closer to 100 because the situation that kept his minutes down last season still exists.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1230
+  },
+  {
+   "player": "Cedric Coward",
+   "said_as": "Cedric Coward",
+   "team": "MEM",
+   "horizon": "durable",
+   "text": "Coward has a good archetype but is old. He was very poor at getting defensive stats and never showed he could raise his usage or volume.",
+   "ts": "21:50",
+   "quote": "he is old, he's got the good archetype to be a player, but he never really showed an ability",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1317
+  },
+  {
+   "player": "Cedric Coward",
+   "said_as": "the chicken",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "The speaker expects a big step forward from Coward with more usage and some more minutes. An ADP of 100 is about right.",
+   "ts": "22:21",
+   "quote": "His ADP is 100. I think that's probably about the right spot for the chicken.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1355
+  },
+  {
+   "player": "Collin Murray-Boyles",
+   "said_as": "Colin Murray Boils",
+   "team": "TOR",
+   "horizon": "current",
+   "text": "Murray-Boyles likely will not start over Jakob Poeltl. But with no Sandro Mamukelashvili and no thumb injury, the speaker expects him to close games and play 25 to 27 minutes. He would consider drafting him ahead of Poeltl.",
+   "ts": "23:25",
+   "quote": "I would consider drafting him ahead of purle but he might not be a starter I think He closes games",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1401
+  },
+  {
+   "player": "Collin Murray-Boyles",
+   "said_as": "Muri balls",
+   "team": "TOR",
+   "horizon": "current",
+   "text": "The speaker sees Murray-Boyles as a big-upside riser, along with Derik Queen. He could easily average 12 and 7 with 1.5 blocks and get close to the top 100.",
+   "ts": "23:25",
+   "quote": "Could easily be 12 and seven with 1.5 blocks.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1413
+  },
+  {
+   "player": "Jeremiah Fears",
+   "said_as": "Jeremiah Fear",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Fears has no clear 30-minute starting role behind Dejounte Murray, Trey Murphy, Herb Jones, Zion Williamson, Derik Queen and Yves Missi. His ADP of 118 is flyer territory.",
+   "ts": "24:26",
+   "quote": "there is no clear-cut 30 minute starting role for fears.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1489
+  },
+  {
+   "player": "Jeremiah Fears",
+   "said_as": "fears",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "The speaker loves Fears as a late flyer, especially if you draft Dejounte Murray early. If Murray is traded or hurt, Fears could give top 70 numbers.",
+   "ts": "24:58",
+   "quote": "I do love getting fears late as a flyer because if Murray gets traded or hurt",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1498
+  },
+  {
+   "player": "Egor Demin",
+   "said_as": "Jodman",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Demin ranked 230th in categories last season. The speaker thinks he will start and see more usage and better efficiency, but he competes for touches. He is a solid late flyer.",
+   "ts": "25:28",
+   "quote": "Now, I think he's going to start. I think he's going to see a pretty decent usage rise",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1528
+  },
+  {
+   "player": "Egor Demin",
+   "said_as": "Jaor",
+   "team": "BKN",
+   "horizon": "durable",
+   "text": "Demin shot under 40% from the field and barely took any twos last season.",
+   "ts": "25:28",
+   "quote": "Jaor hit like under 40% from the field. Could he be a 44% guy?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1549
+  },
+  {
+   "player": "Ace Bailey",
+   "said_as": "Aerys Bailey",
+   "team": "UTA",
+   "horizon": "current",
+   "text": "Bailey is badly overdrafted at a $3 auction price, while similar players go for $0. He is probably coming off the bench, and his numbers were inflated by end-of-season play. Treat him as nothing more than a last-round flyer.",
+   "ts": "26:31",
+   "quote": "one of the ones that's being incredibly overdrafted is Aerys Bailey of the Utah Jazz.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1581
+  },
+  {
+   "player": "Joan Beringer",
+   "said_as": "Yoan Ber",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "With Naz Reid and Julius Randle gone, Beringer becomes the main backup to Rudy Gobert at about 18 minutes a night. He would be a must-roster if Gobert misses games, and he can probably average 1.1 blocks in reserve minutes.",
+   "ts": "27:01",
+   "quote": "he goes to be the primary backup behind Rudy Gobert and he will get his 18 minutes a night.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1637
+  },
+  {
+   "player": "Maxime Raynaud",
+   "said_as": "Maxim Raino",
+   "team": "SAC",
+   "horizon": "current",
+   "text": "Raynaud was great last season, but drafting him means hoping Domantas Sabonis is gone, and he is not. The speaker says he cannot do much in limited minutes.",
+   "ts": "28:06",
+   "quote": "Maxim Raino was great last season, but you're drafting him hoping Sabonis is gone, which he isn't.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1679
+  },
+  {
+   "player": "Yanic Konan Niederhauser",
+   "said_as": "Yanick Conan Neahaus",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "The speaker would have considered Niederhauser draftable, but he is injured to start the season.",
+   "ts": "28:06",
+   "quote": "I would have considered Yanick Conan Neahaus a draftable guy, but he's injured to start the season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1692
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "NOP",
+   "horizon": "current",
+   "text": "The Pelicans have a new coach, Jamal Mosley, and the starting frontcourt is unclear between Derik Queen, Zion Williamson and Yves Missi.",
+   "ts": "19:15",
+   "quote": "Messi, it's a new coach. We just don't know what Jamal Mosley is going to do",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1168
+  },
+  {
+   "team": "NOP",
+   "horizon": "current",
+   "text": "The Pelicans have a crowded rotation: Dejounte Murray, Trey Murphy, Herb Jones, Zion Williamson, Derik Queen and Yves Missi, plus Bennedict Mathurin added to the bench.",
+   "ts": "24:26",
+   "quote": "They also for some reason brought in Benedict Matan to share the ball on the bench.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1477
+  },
+  {
+   "team": "SAS",
+   "horizon": "current",
+   "text": "The speaker does not think the Spurs will bench De'Aaron Fox or Stephon Castle, which limits Dylan Harper's minutes.",
+   "ts": "20:49",
+   "quote": "So, I don't think they're benching Fox. I don't think they're benching Castle.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1249
+  },
+  {
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Naz Reid and Julius Randle are gone, so Joan Beringer backs up Rudy Gobert. Jonathan Kuminga is also around.",
+   "ts": "27:01",
+   "quote": "now with no Naz Reed and no Julius Randle, he goes to be the primary backup behind Rudy Gobert",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1634
+  },
+  {
+   "team": "PHI",
+   "horizon": "current",
+   "text": "The speaker says the 76ers added LeBron James and Jaylen Brown and have a healthy Joel Embiid, which cuts into VJ Edgecombe's role.",
+   "ts": "16:06",
+   "quote": "with the addition of LeBron and Jaylen Brown and honestly a healthy Joel Embiid.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 963
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Cooper Flagg finished 36th in category leagues and 28th in points leagues last season. His ADP is 11 and his average auction price is $60.",
+   "ts": "12:28",
+   "quote": "He finished 36th last season flag. He was 28th in points leagues. His ADP is up to 11.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 755
+  },
+  {
+   "text": "Kon Knueppel's ADP is 36. He finished 66th in category leagues and 101st in points leagues last season.",
+   "ts": "14:36",
+   "quote": "It sits at 36. Last season he was 66th in category leagues and 101st in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 876
+  },
+  {
+   "text": "VJ Edgecombe finished 62nd in categories and 68th in points leagues last season. His ADP is 66. He averaged 16.6 points and 4 with 1.4 steals.",
+   "ts": "15:36",
+   "quote": "where he was 62nd and 68 in categories and points league respectively. his ADP sits at about the same mark",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 948
+  },
+  {
+   "text": "Derik Queen ranked 91st in categories and 112th in points leagues. He averaged 12.7 and 4 with a steal and a block, shooting 47% from the field and 80% from the line.",
+   "ts": "18:45",
+   "quote": "Queen was actually ranked 91st last season and 112th in points less",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1138
+  },
+  {
+   "text": "Dylan Harper's ADP is 78. He ranked 200th in categories and 163rd in points leagues, averaging 12.3 and 4 on 51% FG and 76% FT.",
+   "ts": "20:17",
+   "quote": "ADP of 78. He was 200th last season, 163rd in points less, averaging 123 and four, 51 and 76.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1219
+  },
+  {
+   "text": "Cedric Coward averaged 14, 6 and 3, finished 143rd, and has an ADP of 100.",
+   "ts": "21:50",
+   "quote": "Like 14, six, and three is pretty good, but he only finished 143rd.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1327
+  },
+  {
+   "text": "Collin Murray-Boyles played about 22 minutes a night and ranked 167th in categories and 192nd in points leagues. He shot 58% and averaged 9 and 5 with under a block.",
+   "ts": "22:53",
+   "quote": "Last season in like 22 minutes a night he was 167th",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1367
+  },
+  {
+   "text": "Jeremiah Fears' ADP is 118. He ranked 169th, averaging 14, 4 and 3 with 1.2 steals on 43% shooting.",
+   "ts": "24:26",
+   "quote": "His ADP sits at 118 and that is perfectly in Flyer territory. He was 169th last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1450
+  },
+  {
+   "text": "Egor Demin ranked 230th in categories and 217th in points leagues, averaging 10, 3 and 3.",
+   "ts": "25:28",
+   "quote": "230th in category leagues, 217th in points leagues. He average 10 three and three",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1520
+  },
+  {
+   "text": "Joan Beringer ranked 450th as a rookie.",
+   "ts": "27:01",
+   "quote": "Yoan Ber. He was 450, averaged 42 with.7 blocks",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1630
+  },
+  {
+   "text": "Last season's second-year players: Zach Edey's ADP was 115, Alex Sarr's ADP was 81, Kyshawn George's ADP was 103, and Donovan Clingan's ADP was 90.",
+   "ts": "10:54",
+   "quote": "His ADP actually went down, but that was largely because he entered the season injured. He was at 115.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 663
+  },
+  {
+   "text": "Donovan Clingan averaged 12 points and 12 rebounds with 1.6 blocks.",
+   "ts": "11:24",
+   "quote": "he's actually the 25th best player Josh when he average 12 and 12 with 1.6 blocks.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 710
+  },
+  {
+   "text": "Last season there were eight top 100 second-year players in category leagues.",
+   "ts": "10:23",
+   "quote": "last season we had one, two, three, four, eight top 100 players in category leagues as secondyear guys.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 644
+  }
+ ]
+}

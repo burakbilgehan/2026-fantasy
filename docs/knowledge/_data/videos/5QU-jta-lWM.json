@@ -1,0 +1,426 @@
+{
+ "video": {
+  "id": "5QU-jta-lWM",
+  "title": "New Orleans Pelicans Season Preview - A Team With No Direction",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-08-03",
+  "duration": "35:35",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T13:47:59+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.25817999999999997,
+  "duration_ms": 55459
+ },
+ "summary": "Josh Lloyd and Jake Madison preview the New Orleans Pelicans, who had a very quiet offseason. Jake argues the team is stuck between two timelines: a win-now core of Zion Williamson, Trey Murphy and Herb Jones, and a rebuild core of Jeremiah Fears and Derik Queen. They say Zion and Queen do not fit together, the roster lacks shooting and defensive rebounding, and Dejounte Murray blocks Fears from a lead guard role. Yves Missi is named as the player most likely to gain a bigger role, possibly as the starting center under new coach Jamahl Mosley's defense-first scheme. Jake sees this as a make or break year for Zion and predicts about 34 wins. A Trey Murphy trade is possible only if a team makes a huge offer.",
+ "rules": [
+  {
+   "text": "Rookies and second-year players usually do not help a team win. The leap tends to come in year three, so teams trying to win often bench their young players.",
+   "ts": "6:44",
+   "quote": "rookies don't help you win games. Secondyear players don't really help you win games. It's that third year",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 415
+  },
+  {
+   "text": "A player on a cheap contract is worth the most in trades early in the deal. His trade value drops as his next contract gets closer.",
+   "ts": "32:26",
+   "quote": "the closer you get to having to pay him his next deal, the value goes down.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1967
+  },
+  {
+   "text": "Defensive scheme can affect a big man's rebounding. A switch-everything scheme pulls centers out to the perimeter and lowers their defensive rebounding rate.",
+   "ts": "24:58",
+   "quote": "So, I do think scheme can maybe help him a little bit",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1523
+  },
+  {
+   "text": "Teams that keep competing late in the season can pile up wins in March and April against teams that are tanking.",
+   "ts": "30:08",
+   "quote": "they were able to rack up those wins in that period of the year when everyone else was trying to lose",
+   "verified": true,
+   "match_ratio": 0.95,
+   "seconds": 1823
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Zion Williamson",
+   "said_as": "Zion",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "Zion is not a good rebounder. He does not space the floor or play defense.",
+   "ts": "6:11",
+   "quote": "They don't play defense. Zion's not a good rebounder. Queen could be a good enough rebounder here.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 396
+  },
+  {
+   "player": "Zion Williamson",
+   "said_as": "Zion Williamson",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "He stayed healthy last season but had one of his worst years.",
+   "ts": "26:39",
+   "quote": "he was healthy last year, but he also probably had his like one of his worst years in the NBA",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1628
+  },
+  {
+   "player": "Zion Williamson",
+   "said_as": "point Zion",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Last season he was used off the ball more instead of as a point forward. The speaker thinks that is probably part of why he stayed healthy.",
+   "ts": "27:15",
+   "quote": "used him off ball more, not his, not the point Zion. And that's part probably part of the reason why he stayed healthy",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1635
+  },
+  {
+   "player": "Zion Williamson",
+   "said_as": "Zion Williamson",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Year eight is a make or break season for him. He is the player under the most pressure on the team.",
+   "ts": "26:39",
+   "quote": "it's going to be year eight for him. If it's not make or break, when is it going to be?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1619
+  },
+  {
+   "player": "Derik Queen",
+   "said_as": "Derek Queen",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Queen and Fears were moved to the bench last season while the team chased the play-in.",
+   "ts": "6:44",
+   "quote": "reason you saw Derek Queen and Jeremiah Fears moved to the bench last year",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 404
+  },
+  {
+   "player": "Derik Queen",
+   "said_as": "Queen",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "Queen had terrible first halves but put up big 12-minute runs in fourth quarters. He gives little rim protection or defense.",
+   "ts": "17:17",
+   "quote": "Queen puts up these numbers and he has these horrific first halves and he was putting up like ridiculous 12minute runs",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1037
+  },
+  {
+   "player": "Derik Queen",
+   "said_as": "Derek Queen",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "He is a hub big who works from the elbows and free throw line, not a three-point spacer.",
+   "ts": "8:28",
+   "quote": "Derek Queen is not a guy that's playing at the top of the three-point line as a big.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 526
+  },
+  {
+   "player": "Jeremiah Fears",
+   "said_as": "Jeremiah Fierce",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "Fears is a downhill lead guard who keeps attacking the rim even when he is not scoring there.",
+   "ts": "7:51",
+   "quote": "Zero fears is the mentality he plays with because he keeps getting to the rim.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 484
+  },
+  {
+   "player": "Jeremiah Fears",
+   "said_as": "Jeremiah Pierce",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "He is not a good enough three-point shooter to play off the ball as a two guard. He is also slightly undersized and not a good defender.",
+   "ts": "19:56",
+   "quote": "he's not a good enough three-point shooter where you can use him as a two guard like that",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1220
+  },
+  {
+   "player": "Jeremiah Fears",
+   "said_as": "Jeremiah fears",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Dejounte Murray will start over Fears, which limits his lead guard role.",
+   "ts": "18:53",
+   "quote": "Murray is certainly going to start over Jeremiah fears. If there's any decision it's going to be Deonte Murray.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1149
+  },
+  {
+   "player": "Dejounte Murray",
+   "said_as": "Deontay Murray",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "He is coming off an ACL injury and played only a handful of games last season, so he has little trade value.",
+   "ts": "20:28",
+   "quote": "he was coming off that injury, uh, the ACL, you know, he only played in a handful of games last year",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1236
+  },
+  {
+   "player": "Dejounte Murray",
+   "said_as": "Murray",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "Murray is not a lights-out shooter. He can make threes but does not space the floor.",
+   "ts": "21:35",
+   "quote": "is this actually the best fit given that he's not a shooter either?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1304
+  },
+  {
+   "player": "Dejounte Murray",
+   "said_as": "Desante Murray",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "The speakers call him an average to slightly above average player. A full season from him adds about one or two wins.",
+   "ts": "30:08",
+   "quote": "he's also not the type of guy that's giving you six plus wins a season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1837
+  },
+  {
+   "player": "Yves Missi",
+   "said_as": "Eve Mesi",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Missi is the player most likely to see a big role change under the new regime and could become the starting center. Jake would start him over Queen on opening night.",
+   "ts": "24:27",
+   "quote": "have like the biggest role change under this new regime and come in and potentially be the starting center",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1467
+  },
+  {
+   "player": "Yves Missi",
+   "said_as": "Mi",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "His shot blocking and rim protection improved a lot last season. He contested shots at the rim at a high rate.",
+   "ts": "23:56",
+   "quote": "his shot blocking was pretty good last year, truthfully.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1450
+  },
+  {
+   "player": "Yves Missi",
+   "said_as": "Eve Mei",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "He is a poor defensive rebounder for a center, around the bottom 10% at his position. Less switching under Mosley could help.",
+   "ts": "24:27",
+   "quote": "He's not a great defensive rebounder in terms of just raw percentages here.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1482
+  },
+  {
+   "player": "Trey Murphy III",
+   "said_as": "Trey Murphy",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "His trade value is at its peak because of his team-friendly contract. The Pelicans reportedly want about three first-round picks and a young player for him.",
+   "ts": "32:26",
+   "quote": "because Trey Murphy's value is probably the highest it'll ever be right now.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1946
+  },
+  {
+   "player": "Herb Jones",
+   "said_as": "Herb Jones",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "He shot about 42% from three two years ago but is not a true floor spacer.",
+   "ts": "8:28",
+   "quote": "we've seen Herb Jones two years ago shoot like 42% from three, but but that doesn't make you a court spacer",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 513
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "NOP",
+   "horizon": "current",
+   "text": "The team is stuck between a win-now timeline and a rebuild timeline and will not commit to either one.",
+   "ts": "2:18",
+   "quote": "They're kind of stuck between two timelines in my opinion.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 138
+  },
+  {
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Projected starters are Dejounte Murray, Herb Jones, Trey Murphy, Zion Williamson and probably Derik Queen. Center is a question mark.",
+   "ts": "5:09",
+   "quote": "Dejonte Murray, Herb Jones, Trey Murphy, Zion Williamson, and probably Derek Queen.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 318
+  },
+  {
+   "team": "NOP",
+   "horizon": "current",
+   "text": "The team lacks shooting. Trey Murphy is basically the only floor spacer.",
+   "ts": "7:51",
+   "quote": "where's where's the shooting in this lineup? Yeah, it's it's Trey Murphy and",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 499
+  },
+  {
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Defensive rebounding was a major problem. They gave up offensive rebounds on about a third of possessions and faded late in games.",
+   "ts": "9:00",
+   "quote": "they were given up an offensive rebound like 33% of the time.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 556
+  },
+  {
+   "team": "NOP",
+   "horizon": "current",
+   "text": "New coach Jamahl Mosley brings a defense-first identity and switches less than Willie Green did.",
+   "ts": "24:27",
+   "quote": "especially under new head coach Jamal Mosley, who's",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1459
+  },
+  {
+   "team": "NOP",
+   "horizon": "current",
+   "text": "The team will not go into the luxury tax. It is about $8.27 million under the line with 14 players and cannot use the full non-taxpayer mid-level exception.",
+   "ts": "12:25",
+   "quote": "They will not go into the luxury tax.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 753
+  },
+  {
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Jake predicts about 34 wins. That would be a big jump but still not a playoff team.",
+   "ts": "29:00",
+   "quote": "So I I'm at 34 like right around 34 wins for them here is what I think is a realistic number.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1765
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Zion Williamson and Derik Queen had a -2.3 net rating together last season.",
+   "ts": "14:33",
+   "quote": "they had a a net rating of -2.3 when they shared the court",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 898
+  },
+  {
+   "text": "Zion and Queen shared about 1,500 possessions last season.",
+   "ts": "18:23",
+   "quote": "We got a pretty good sample size of like 1,500 possessions of it last year.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1103
+  },
+  {
+   "text": "The Pelicans allowed an offensive rebound on about 33% of opponent misses.",
+   "ts": "9:00",
+   "quote": "they were given up an offensive rebound like 33% of the time.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 556
+  },
+  {
+   "text": "Yves Missi had a 17% defensive rebounding rate.",
+   "ts": "24:58",
+   "quote": "he had a 17% defensive rebounding rate for",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1523
+  },
+  {
+   "text": "Herb Jones shot about 42% from three two seasons ago.",
+   "ts": "8:28",
+   "quote": "we've seen Herb Jones two years ago shoot like 42% from three",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 513
+  },
+  {
+   "text": "Jeremiah Fears played all 82 games as a rookie. The speaker says he was scoring 40 points a game over the last three or four games, which may be a transcription error.",
+   "ts": "5:40",
+   "quote": "He played like all 82 games and was scoring 40 points a game for the final three or four games",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 349
+  },
+  {
+   "text": "Dejounte Murray played about 14 games last season.",
+   "ts": "20:28",
+   "quote": "He played like 14 games. How do you think he looked?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1242
+  },
+  {
+   "text": "The Pelicans won about 26 games last season. FanDuel set their win total at 29.5.",
+   "ts": "29:33",
+   "quote": "I've seen FanDuel set the number at 29 and a half.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1773
+  },
+  {
+   "text": "The Pelicans are $8.266 million below the luxury tax line with 14 players.",
+   "ts": "11:53",
+   "quote": "So, they have 14 players on the roster. They are 8.266 million from the luxury tax line",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 737
+  },
+  {
+   "text": "Zion is paid about $44 million and is due $46 million next season.",
+   "ts": "27:47",
+   "quote": "He's not worth $46 million next season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1682
+  }
+ ]
+}

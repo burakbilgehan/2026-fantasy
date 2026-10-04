@@ -1,0 +1,444 @@
+{
+ "video": {
+  "id": "JMSLg6yz-M0",
+  "title": "Kawhi Leonard Is BACK In Toronto! NBA Blockbuster Trade",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-06-30",
+  "duration": "20:16",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T11:06:14+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.17281980000000002,
+  "duration_ms": 43531
+ },
+ "summary": "Josh Lloyd breaks down a trade that sends Kawhi Leonard to the Toronto Raptors. The Clippers get Brandon Ingram, Gradey Dick, two first-round picks, a first-round pick swap and two second-round picks. For fantasy, he sees it as a clean one-for-one swap. Kawhi takes Ingram's high-usage role in Toronto, which costs RJ Barrett the most and Immanuel Quickley somewhat. Ingram slots into Kawhi's spot on the Clippers and should at least repeat last season's numbers. He would still not draft Kawhi in the top two rounds because of his degenerative knee, but moves him up to round three in roto and round four in head-to-head. He calls the trade a win for both teams, with the Clippers starting a constrained rebuild and Toronto becoming a possible top-four team in the East.",
+ "rules": [
+  {
+   "text": "In a one-for-one positional swap, the fantasy analysis is simple. The incoming player takes over the outgoing player's usage, and teammates' usage moves up or down from there.",
+   "ts": "5:14",
+   "quote": "It's basically a one-for-one, position for position. You're just tweaking up the usage that Ingram would have been getting",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 331
+  },
+  {
+   "text": "When a high-usage player arrives, the players who rely on usage to produce (like Barrett and Quickley) lose the most. Players who don't depend on usage (like Barnes) are less affected.",
+   "ts": "4:43",
+   "quote": "Scottie Barnes doesn't get by on usage. He doesn't thrive from usage. RJ Barrett does.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 283
+  },
+  {
+   "text": "A good season from a player with a degenerative injury does not remove the risk. Price in the chronic injury risk even after a healthy year.",
+   "ts": "6:16",
+   "quote": "irrespective of how it played out last season with Kawhi and his health, it doesn't mean that I trust his knee.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 380
+  },
+  {
+   "text": "Repeated surgeries and problems in the same spot make future missed time more likely. Draft those players lower than their per-game value.",
+   "ts": "8:50",
+   "quote": "all in the same spot over and over and over again, leads you more likely to have problems that it's going to make him miss time.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 547
+  },
+  {
+   "text": "A player who needs a lot of the ball can put up big numbers without being efficient. Don't judge players by raw counting stats alone.",
+   "ts": "7:18",
+   "quote": "you give someone enough of the ball and enough shots, they can put up numbers. But is it the best thing for the team",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 456
+  },
+  {
+   "text": "Don't invest fantasy picks in low-ceiling role players on bad, unsettled teams just because they might start.",
+   "ts": "16:03",
+   "quote": "we're not interested in investing in these guys. They shouldn't be, and I don't think we should be from a fantasy point of view",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 982
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Kawhi Leonard",
+   "said_as": "Kawhi",
+   "team": "TOR",
+   "horizon": "current",
+   "text": "Traded to Toronto. He takes Brandon Ingram's spot, and his numbers should stay similar apart from normal age decline.",
+   "ts": "5:46",
+   "quote": "I don't really think there's huge changes, to be honest. It's going to be pretty similar. Outside of the standard age curve decline.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 347
+  },
+  {
+   "player": "Kawhi Leonard",
+   "said_as": "Kawhi",
+   "team": "TOR",
+   "horizon": "durable",
+   "text": "High-usage player, over 30 percent usage last season. Averaged about 28 points, 6.5 rebounds, 2 steals and 3.5 assists. He was 15th in per-game value and top 10 in points leagues.",
+   "ts": "3:40",
+   "quote": "Kawhi is a high usage player. You can see 30 plus usage last season. He was 15 per game value.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 240
+  },
+  {
+   "player": "Kawhi Leonard",
+   "said_as": "Kawhi",
+   "team": "TOR",
+   "horizon": "durable",
+   "text": "One of the best free throw shooters in recent memory.",
+   "ts": "4:11",
+   "quote": "Kawhi is also one of the best free throw shooters we've seen in recent memory.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 268
+  },
+  {
+   "player": "Kawhi Leonard",
+   "said_as": "Kawhi",
+   "team": "TOR",
+   "horizon": "durable",
+   "text": "He has a degenerative knee problem with repeated surgeries (meniscus, ACL, quad tendinopathy) in the same spot. He also has ankle sprain risk. The speaker doesn't trust the knee.",
+   "ts": "6:16",
+   "quote": "I don't trust his degenerative knee problem. And then, you've got to factor in other issues, like, what if he sprains his ankle",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 395
+  },
+  {
+   "player": "Kawhi Leonard",
+   "said_as": "Kawhi",
+   "team": "TOR",
+   "horizon": "current",
+   "text": "He would not take Kawhi in the top two rounds. He moves him up one round from last season: round three for roto and round four for head-to-head, instead of last year's round four to five.",
+   "ts": "8:19",
+   "quote": "I might do round three for roto, round four for head-to-head instead of",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 528
+  },
+  {
+   "player": "Kawhi Leonard",
+   "said_as": "Kawhi",
+   "team": "TOR",
+   "horizon": "current",
+   "text": "Kawhi started playing back-to-backs. He will probably play some of them in Toronto, but not necessarily all.",
+   "ts": "6:47",
+   "quote": "he's going to play them I'm going to guess some of the time, but not necessarily all of the time.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 407
+  },
+  {
+   "player": "Brandon Ingram",
+   "said_as": "Ingram",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Traded to the Clippers. He takes Kawhi's spot and should at least replicate last season's numbers, maybe improve on them. His assists may not rise with Garland on the team.",
+   "ts": "14:00",
+   "quote": "I don't don't really think that there's any reason that Ingram can't at least replicate these numbers. Perhaps improve them.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 850
+  },
+  {
+   "player": "Brandon Ingram",
+   "said_as": "Ingram",
+   "team": "LAC",
+   "horizon": "durable",
+   "text": "Putrid defensive stats, and he will never provide them. He was efficient last season.",
+   "ts": "13:30",
+   "quote": "As per usual, putrid defensive numbers,",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 838
+  },
+  {
+   "player": "Brandon Ingram",
+   "said_as": "Ingram",
+   "team": "LAC",
+   "horizon": "durable",
+   "text": "Needs a lot of the ball, isn't particularly efficient and is useless playing off the ball. He has sometimes struggled with three-point volume and percentage.",
+   "ts": "4:11",
+   "quote": "Ingram is also not an absolutely elite three-point shooter. In fact, he struggles with volume and percentages at times from three.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 262
+  },
+  {
+   "player": "Brandon Ingram",
+   "said_as": "Ingram",
+   "team": "LAC",
+   "horizon": "durable",
+   "text": "Was not reliable for games before last season, though he played a lot last season.",
+   "ts": "8:19",
+   "quote": "Like he played a lot last season. And I guess people are going to now tell me how reliable he is after never playing games",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 502
+  },
+  {
+   "player": "RJ Barrett",
+   "said_as": "Barrett",
+   "team": "TOR",
+   "horizon": "current",
+   "text": "Biggest loser from the trade. He will have the ball less, on top of his existing concerns about efficiency and lack of defensive stats.",
+   "ts": "4:43",
+   "quote": "Barrett is probably the big hit guy here.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 311
+  },
+  {
+   "player": "Immanuel Quickley",
+   "said_as": "Quickley",
+   "team": "TOR",
+   "horizon": "current",
+   "text": "Will probably take fewer shots but still have the ball a lot.",
+   "ts": "4:43",
+   "quote": "Quickley will probably take fewer shots, but he'll still have the ball a lot.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 308
+  },
+  {
+   "player": "Scottie Barnes",
+   "said_as": "Scottie Barnes",
+   "team": "TOR",
+   "horizon": "current",
+   "text": "Should not lose touches because of his facilitation. He doesn't rely on usage to produce.",
+   "ts": "4:43",
+   "quote": "Barnes is not going to have the ball less, I don't think, because of his facilitation.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 304
+  },
+  {
+   "player": "Christian Koloko",
+   "said_as": "Koloko",
+   "team": "TOR",
+   "horizon": "current",
+   "text": "Toronto's center situation is unclear. Whether Koloko or Poeltl starts, Koloko will play 20+ minutes a night.",
+   "ts": "5:14",
+   "quote": "As a starter, but he's going to play 20 plus minutes every night.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 320
+  },
+  {
+   "player": "Gradey Dick",
+   "said_as": "Dick",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Going to the Clippers in a bench role. He was out of Toronto's rotation for much of last season. Not draftable. His game isn't fantasy friendly.",
+   "ts": "13:30",
+   "quote": "We're not We're not drafting Dick. He's not good. He does not have a particularly fantasy friendly game.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 813
+  },
+  {
+   "player": "Darius Garland",
+   "said_as": "Garland",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "The highest remaining usage player on the Clippers and should do more. Gets a big boost if he can stay healthy.",
+   "ts": "16:34",
+   "quote": "Garland, if he can stay healthy, Ingram, big boosts.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 995
+  },
+  {
+   "player": "Bennedict Mathurin",
+   "said_as": "Mathurin",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Restricted free agent and a high-usage guy. The speaker would not want the Clippers to overpay him. Wait and see.",
+   "ts": "13:00",
+   "quote": "Benedict Mathurin is a restricted free agent. I would not want to be overpaying him.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 780
+  },
+  {
+   "player": "Derrick Jones Jr.",
+   "said_as": "Derrick Jones",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "May become draftable given the Clippers' thin frontcourt, but the speaker is not interested in investing in him.",
+   "ts": "16:03",
+   "quote": "Derrick Jones maybe becomes draftable, or Brook Lopez maybe becomes draftable, but we're not interested in investing in these guys.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 980
+  },
+  {
+   "player": "Brook Lopez",
+   "said_as": "Brook Lopez",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Currently the Clippers' center along with the injured Yanic Konan Niederhauser. Maybe draftable, but not worth investing in.",
+   "ts": "12:30",
+   "quote": "Their center position at the moment is Brook Lopez and the injured Yennick Konan Niedahausen.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 758
+  },
+  {
+   "player": "Bradley Beal",
+   "said_as": "Bradley Beal",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Opted out of his player option. The speaker doesn't expect him back with the Clippers.",
+   "ts": "12:30",
+   "quote": "Bradley Beal has opted out of his player option. I don't think he'll be",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 777
+  },
+  {
+   "player": "LeBron James",
+   "said_as": "LeBron",
+   "team": "",
+   "horizon": "current",
+   "text": "Not returning to the Lakers. The speaker sees Golden State and Cleveland as the favorites and leans Cleveland, possibly on a low salary.",
+   "ts": "19:09",
+   "quote": "I would say that they are the two favorite spots is Golden State and Cleveland to me. And I actually lean Cleveland.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1156
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "TOR",
+   "horizon": "current",
+   "text": "Basically swaps Ingram for Kawhi. Usage moves to Kawhi and away from Barrett and Quickley. Now possibly a top-four team in the East and fairly close to done with moves.",
+   "ts": "9:21",
+   "quote": "But they they can be pretty easy a top four team now.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 566
+  },
+  {
+   "team": "TOR",
+   "horizon": "current",
+   "text": "Unclear whether Jakob Poeltl or Koloko starts at center.",
+   "ts": "5:14",
+   "quote": "I don't know what they'd do at center with a Jakob Poeltl starts or Koloko starts.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 314
+  },
+  {
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Rebuilding after losing Kawhi, Paul George and James Harden within 12 months. Big weaknesses at forward and center. Zubac is gone, and John Collins' return is unclear.",
+   "ts": "2:38",
+   "quote": "they still got some pretty big deficiencies in their forward slots. We don't know if Johnny Collins is back.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 170
+  },
+  {
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Likely starters: Garland, Wagler (name unclear in captions), Ingram, Jones and Lopez. Bench: Dunn, Jordan Miller, Isaiah Jackson, Skylar Mays and Gradey Dick. The rotation is unsettled.",
+   "ts": "13:00",
+   "quote": "Waggoner, Garland, Ingram, Jones, Lopez. Then you got Dunn, you got Jordan Miller, Isiah Jackson, Skylar Mays",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 794
+  },
+  {
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Projected around the 12th or 13th seed in the West. They can't tank because their pick can be swapped with the Thunder.",
+   "ts": "17:35",
+   "quote": "Ingram who does keep you somewhat respectable, cuz again, you can't bottom out cuz you don't have your pick.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1074
+  },
+  {
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Very good team. Would be even stronger if LeBron joins Harden, Mitchell, Mobley and Allen.",
+   "ts": "19:09",
+   "quote": "Which Harden, Mitchell, LeBron, Mobley, Allen. So, I didn't even when I was talking about good teams",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1162
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Kawhi Leonard had 30+ usage, was 15th in per-game value and top 10 in points leagues last season.",
+   "ts": "3:40",
+   "quote": "You can see 30 plus usage last season. He was 15 per game value. Top 10 in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 240
+  },
+  {
+   "text": "Kawhi averaged about 28 points, 6.5 rebounds, 2 steals and 3.5 assists last season.",
+   "ts": "3:40",
+   "quote": "He averaged what? 28 points with six and",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 248
+  },
+  {
+   "text": "Brandon Ingram played 34 minutes a night with 27 usage. He ranked 58th and averaged 22 points, 5 rebounds and 4 assists.",
+   "ts": "13:30",
+   "quote": "Ingram played 34 minutes a night with a 27 usage. He was the 58th ranked player. He averaged 22, 5, and 4.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 831
+  },
+  {
+   "text": "Ingram shot 38% from three, 48% from the field and 82% from the line last season.",
+   "ts": "14:00",
+   "quote": "38 from 3, 48 from the field, 82 from the line.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 840
+  },
+  {
+   "text": "Kawhi is 35 years old.",
+   "ts": "7:48",
+   "quote": "Years of age I know he's 35. Cool. He's still better than Brandon Ingram right now.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 493
+  },
+  {
+   "text": "Clippers received Ingram, Gradey Dick, two first-round picks, a first-round swap and two second-round picks.",
+   "ts": "11:57",
+   "quote": "They're getting two first-round picks, a first-round pick swap, and two second-round picks.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 720
+  },
+  {
+   "text": "The Knicks are the defending champions.",
+   "ts": "9:21",
+   "quote": "Obviously, the Knicks won the title, so they're the defending champs, but maybe.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 575
+  }
+ ]
+}

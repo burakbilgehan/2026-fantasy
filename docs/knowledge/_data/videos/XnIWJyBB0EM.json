@@ -1,0 +1,471 @@
+{
+ "video": {
+  "id": "XnIWJyBB0EM",
+  "title": "LEVEL UP: How Fantasy Basketball Auction Drafts TRANSFORM Your Draft Experience",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-09-29",
+  "duration": "41:13",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T14:20:05+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.2706718,
+  "duration_ms": 63109
+ },
+ "summary": "Josh Lloyd explains how auction (salary cap) drafts work and argues they are the fairest and most fun format, but also the one that most separates good managers from bad ones. He covers planning a spending range with a buffer and streaming spots, how league settings change prices, reading whether a room is hot or cold, nomination tactics, varying your bidding style, and price enforcement. He then compares stars and scrubs builds with balanced builds, using Yahoo average prices and Yahoo projected prices, and shows that Yahoo's average prices are far below projected prices for many mid-round players. His simulations show stars and scrubs only looks great if mid-round bargains actually fall to you, and it collapses if a star gets hurt. He favors balanced builds in leagues larger than 10 teams, but says to always take value when it appears, such as Jokic at $55.",
+ "rules": [
+  {
+   "text": "Auction drafts separate good managers from bad ones much more than snake drafts. It is easy to go off the rails.",
+   "ts": "2:38",
+   "quote": "It does separate good from bad a lot more than a snake draft.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 179
+  },
+  {
+   "text": "Auction prices change with any settings change: roster size, number of teams, categories, or the split of starters and bench. Mock draft prices do not carry over between drafts.",
+   "ts": "4:41",
+   "quote": "Any deviation from setting, you go to a 13-man roster to 14, the auction prices change.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 300
+  },
+  {
+   "text": "Do not budget for every roster spot. Keep at least one streaming spot. A streaming player is worth about a top 100 to 110 player.",
+   "ts": "6:44",
+   "quote": "Anyway, don't budget for 13 roster spots because we want a streamer.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 408
+  },
+  {
+   "text": "Plan with a buffer. For example, plan $185 for 11 core players and keep about $13 of wiggle room, plus $1 players for the last slots.",
+   "ts": "7:46",
+   "quote": "like $185 for 11 spots. Giving me $13 of wiggle room on some of these players.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 488
+  },
+  {
+   "text": "Have alternatives ready based on player shapes. Use decision trees: if you miss a target or save money on one, move that money to another slot.",
+   "ts": "9:18",
+   "quote": "It's about decision trees and lists. So, if I get an extra 10 bucks to play with now,",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 573
+  },
+  {
+   "text": "Keep some money for late in the draft. If you spend everything early, you cannot compete for late bargains.",
+   "ts": "9:48",
+   "quote": "It is important, I think, also to reserve some money for later in an auction draft.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 589
+  },
+  {
+   "text": "Do not just flip a punt toggle and pay the inflated punt value. Overpaying for a player because he fits your build is not value. The goal is to extract value.",
+   "ts": "14:59",
+   "quote": "Taking a guy that's probably a $10 player and spending 25 cuz he fits your build is not value.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 913
+  },
+  {
+   "text": "Read the room. Money spent above projections on some players has to come out of other players' prices, so in a hot room, other prices will dip.",
+   "ts": "16:34",
+   "quote": "If it's a hot room, where everyone's going well above budget, then you you understand that prices of other guys are going to have to dip.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1010
+  },
+  {
+   "text": "If top-end players go below expected prices, mid-round prices will rise because managers still have money to spend.",
+   "ts": "17:06",
+   "quote": "then the mid-rounds are going to push up because people are going to be sitting there with money",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1026
+  },
+  {
+   "text": "Yahoo average and projected prices are only guides. Plans will get disrupted during the draft.",
+   "ts": "17:06",
+   "quote": "On Yahoo, the average prices and the projected prices, they're just guides.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1036
+  },
+  {
+   "text": "Aim to get at least $250 of value from a $200 budget, and up to $300 in an easier league.",
+   "ts": "17:37",
+   "quote": "You want to get $250 at least of value from a $200 budget.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1079
+  },
+  {
+   "text": "Mix up your nominations. In nearly every draft, one of the first 10 or so players nominated goes well under value, and then the room pushes up later prices.",
+   "ts": "19:41",
+   "quote": "is that nearly every draft, one of the first 10 players or so will be very undervalued.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1181
+  },
+  {
+   "text": "Nominate players you do not want, so other teams spend money that could have gone toward your targets.",
+   "ts": "20:11",
+   "quote": "So generally, if you are nominating, throw someone out there that you don't want.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1230
+  },
+  {
+   "text": "In the endgame, a team with a few extra dollars can snipe your $1 nominations, so keep flexible lists with large groups of targets.",
+   "ts": "21:13",
+   "quote": "lists and and larger size groupings of guys that you want cuz there's always going to be somebody",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1273
+  },
+  {
+   "text": "Vary your bidding style (quick bids, draining the timer, pulling out) so opponents cannot predict you. Predictability is your downfall against sharp drafters.",
+   "ts": "23:17",
+   "quote": "you want to vary the style that you that you bid in cuz you don't want predictability.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1400
+  },
+  {
+   "text": "Use price enforcement to make opponents pay up for players they want. Be prepared to get stuck with the player, and know when to stop.",
+   "ts": "25:19",
+   "quote": "There's also that idea of your price enforcement, making them pay up.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1532
+  },
+  {
+   "text": "Stars and scrubs (two top 10 players for half to three quarters of your budget, then cheap players) gets less viable the deeper the league, meaning more teams or bigger rosters.",
+   "ts": "27:26",
+   "quote": "the deeper your league gets, by the way, the less viable this strategy becomes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1670
+  },
+  {
+   "text": "Hitting on $1 players who become $10 to $15 players has only about a 10% chance. In stars and scrubs, losing a star to injury ruins the team.",
+   "ts": "28:27",
+   "quote": "those $1 guys turning into $10 or $15 players, that's like a 10% chance.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1708
+  },
+  {
+   "text": "A balanced build avoids projected top 20 players and puts the 11 core players within roughly ranks 25 to 75. It has a lower ceiling but is much safer.",
+   "ts": "29:32",
+   "quote": "So, you probably want your 11 guys within the top 75.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1793
+  },
+  {
+   "text": "Losing your best player hurts less in a balanced build, because replacing the 30th best player from waivers is much easier than replacing Jokic.",
+   "ts": "30:02",
+   "quote": "Because losing the 30th best player in the league, who's your best player, replacing that through waiver wire streaming",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1809
+  },
+  {
+   "text": "In deeper formats like 14 teams, stars go for much more, and the $1 players get much worse.",
+   "ts": "30:34",
+   "quote": "you go to 14 teams, you'll see guys like Jokic go for 90 bucks.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1841
+  },
+  {
+   "text": "At least one manager will usually go balanced and bid up mid-round bargains, which weakens stars and scrubs.",
+   "ts": "39:25",
+   "quote": "is that at least one person is going to push him to 12 or to 13.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2365
+  },
+  {
+   "text": "League size guidance: in 8-team leagues go stars and scrubs, in 10-team leagues it can work, and in anything bigger go balanced.",
+   "ts": "39:56",
+   "quote": "Now, if you your league is eight-man, go stars and scrubs. If it's 10, you can go stars.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2404
+  },
+  {
+   "text": "Always adapt to value. If a star falls well below his price because the room is going balanced, take him.",
+   "ts": "39:56",
+   "quote": "if you're going to a draft and everyone's doing balance, and Jokic is sitting there at 55 bucks, take him.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2414
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Victor Wembanyama",
+   "said_as": "Wemby",
+   "team": "SAS",
+   "horizon": "current",
+   "text": "His auction price tag is about $70. Yahoo projects about $71. If he goes for $85, that extra $14 has to come out of other players' prices.",
+   "ts": "16:03",
+   "quote": "If Wemby goes for 85 in your draft, possible, that's $14 over that that projected price.",
+   "value_hint": "about $70 to $71",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 963
+  },
+  {
+   "player": "Victor Wembanyama",
+   "said_as": "Wemby",
+   "team": "SAS",
+   "horizon": "current",
+   "text": "His Yahoo average price was $71 and his Yahoo projected price is $61.",
+   "ts": "32:40",
+   "quote": "If you use Yahoo's projection dollars, Wemby and Jokic coming in a bit cheaper, 61 and 60.",
+   "value_hint": "$71 average, $61 projected",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1960
+  },
+  {
+   "player": "Nikola Jokic",
+   "said_as": "Jokic",
+   "team": "DEN",
+   "horizon": "current",
+   "text": "His Yahoo average price was $71 and his Yahoo projected price is $60.",
+   "ts": "32:40",
+   "quote": "If you use Yahoo's projection dollars, Wemby and Jokic coming in a bit cheaper, 61 and 60.",
+   "value_hint": "$71 average, $60 projected",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1960
+  },
+  {
+   "player": "Nikola Jokic",
+   "said_as": "Jokic",
+   "team": "DEN",
+   "horizon": "current",
+   "text": "In 14-team leagues he can go for $90.",
+   "ts": "30:34",
+   "quote": "you go to 14 teams, you'll see guys like Jokic go for 90 bucks.",
+   "value_hint": "$90 in 14-team leagues",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1841
+  },
+  {
+   "player": "Nikola Jokic",
+   "said_as": "Jokic",
+   "team": "DEN",
+   "horizon": "current",
+   "text": "If he is sitting at $55 because the room is going balanced, take him. That frees about $20 to spend elsewhere.",
+   "ts": "39:56",
+   "quote": "if you're going to a draft and everyone's doing balance, and Jokic is sitting there at 55 bucks, take him.",
+   "value_hint": "steal at $55",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2414
+  },
+  {
+   "player": "Cade Cunningham",
+   "said_as": "Cade Cunningham",
+   "team": "DET",
+   "horizon": "current",
+   "text": "Used as an extreme example of an early nomination going cheap, around $35 instead of $50.",
+   "ts": "19:41",
+   "quote": "But it might be Cade Cunningham who comes in and people just aren't keen on bidding on it",
+   "value_hint": "about $50 value",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1190
+  },
+  {
+   "player": "Dejounte Murray",
+   "said_as": "Dejounte",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "His Yahoo average price is $1, but his Yahoo projected price is $16.",
+   "ts": "32:40",
+   "quote": "Dejounte for some reason is going at one, but his projected price is 16.",
+   "value_hint": "$1 average, $16 projected",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1980
+  },
+  {
+   "player": "Paul George",
+   "said_as": "Paul George",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "His Yahoo average price is $2, but his Yahoo projected price is $13.",
+   "ts": "32:40",
+   "quote": "Paul George is going at two, his projected price is 13.",
+   "value_hint": "$2 average, $13 projected",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1985
+  },
+  {
+   "player": "Nickeil Alexander-Walker",
+   "said_as": "Alexander-Walker",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "His Yahoo average price is $5, but his Yahoo projected price is $18.",
+   "ts": "32:40",
+   "quote": "Alexander-Walker is going at five, his projected price is 18.",
+   "value_hint": "$5 average, $18 projected",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1988
+  },
+  {
+   "player": "Derrick White",
+   "said_as": "Derrick White",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "His Yahoo projected price is $24, far above his average price of about $7.",
+   "ts": "34:46",
+   "quote": "Cuz Derrick White's going projected at 24 and Dyson's at 17 and Alexander-Walker's at 18.",
+   "value_hint": "$7 average, $24 projected",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2110
+  },
+  {
+   "player": "Dyson Daniels",
+   "said_as": "Dyson",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "His Yahoo projected price is $17, far above his average price of about $5.",
+   "ts": "34:46",
+   "quote": "Cuz Derrick White's going projected at 24 and Dyson's at 17 and Alexander-Walker's at 18.",
+   "value_hint": "$5 average, $17 projected",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2110
+  },
+  {
+   "player": "Lauri Markkanen",
+   "said_as": "Markkanen",
+   "team": "UTA",
+   "horizon": "current",
+   "text": "His Yahoo projected price is $26, versus an average price of $16.",
+   "ts": "34:46",
+   "quote": "Yeah, Markkanen's at 26 instead of 16.",
+   "value_hint": "$16 average, $26 projected",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2116
+  },
+  {
+   "player": "Brandon Ingram",
+   "said_as": "Brandon Ingram",
+   "team": "TOR",
+   "horizon": "current",
+   "text": "He has a partially torn Achilles. The speaker is not drafting him. He is expected back at some point in November.",
+   "ts": "35:19",
+   "quote": "By the way, we're not drafting Brandon Ingram. Uh he'll be back at some point in November,",
+   "value_hint": "do not draft",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2143
+  },
+  {
+   "player": "Jamal Murray",
+   "said_as": "Jamal Murray",
+   "team": "DEN",
+   "horizon": "current",
+   "text": "He could maybe be a top 12 player, but maybe not. He was the most expensive player in the balanced build using average prices.",
+   "ts": "35:51",
+   "quote": "Maybe Jamal Murray's a top 12 guy, maybe. But maybe not.",
+   "value_hint": "possible top 12",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2174
+  },
+  {
+   "player": "Harrison Barnes",
+   "said_as": "Harrison Barnes",
+   "team": "SAS",
+   "horizon": "current",
+   "text": "Given as the kind of player you get for $1 in a 14-team league.",
+   "ts": "30:34",
+   "quote": "your $1 players in a 14-man league become Harrison Barnes.",
+   "value_hint": "$1 player in 14-team leagues",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1855
+  }
+ ],
+ "team_notes": [],
+ "claims_to_check": [
+  {
+   "text": "Yahoo projects Wembanyama at about $71.",
+   "ts": "16:03",
+   "quote": "we'll use someone like Wemby, for example, who's got a $70 price tag, Yahoo um projecting 71, I think it is.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 955
+  },
+  {
+   "text": "Yahoo projected dollars for Wembanyama and Jokic are $61 and $60.",
+   "ts": "32:40",
+   "quote": "If you use Yahoo's projection dollars, Wemby and Jokic coming in a bit cheaper, 61 and 60.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1960
+  },
+  {
+   "text": "Yahoo average auction price for Dejounte Murray is $1, and his projected price is $16.",
+   "ts": "32:40",
+   "quote": "Dejounte for some reason is going at one, but his projected price is 16.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1980
+  },
+  {
+   "text": "Buying the stars and scrubs average-price team at Yahoo projected prices would cost $275.",
+   "ts": "32:40",
+   "quote": "if I just have all those players and acquire them at their projected dollar price, it costs $275.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1971
+  },
+  {
+   "text": "Brandon Ingram has a partially torn Achilles and is expected back in November.",
+   "ts": "35:19",
+   "quote": "with the news of Brandon Ingram's partially torn Achilles. By the way, we're not drafting Brandon Ingram.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2142
+  },
+  {
+   "text": "Yahoo's default roster size is 13 players.",
+   "ts": "6:13",
+   "quote": "If my roster will use this Yahoo default of 13 men roster which again Yahoo, I beg you.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 385
+  },
+  {
+   "text": "Simulation: the stars and scrubs team wins 53.3% of the time at baseline and drops to 28% without Wembanyama. The balanced build wins 44.8%.",
+   "ts": "36:53",
+   "quote": "They win 53.3% of the time.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2213
+  }
+ ]
+}

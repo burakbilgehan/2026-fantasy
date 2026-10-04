@@ -1,0 +1,307 @@
+{
+ "video": {
+  "id": "okN3fbHJtlA",
+  "title": "New York Knicks 2026/27 NBA Season Preview: The Champs Are Looking To Repeat",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-08-13",
+  "duration": "35:34",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T13:49:16+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.1828478,
+  "duration_ms": 26991
+ },
+ "summary": "Josh Lloyd and Gavin Shaw (Locked On Knicks) preview the 2026/27 New York Knicks, who are coming off a championship. The main roster change is Andre Drummond replacing Mitchell Robinson. They call it a clear downgrade in quality, but Drummond can play back-to-backs, so the rotation should be more stable. Both expect the Knicks to be cautious early in the season to manage championship fatigue. Gavin expects starters to lose 2 to 3 minutes per game over roughly the first 30 games, with more rest on back-to-backs. They discuss Mikal Bridges' up-and-down role, Josh Hart as the starter most at risk of decline, and OG Anunoby as the player who could raise the team's ceiling. Gavin predicts 54 wins and Josh leans toward about 50.",
+ "rules": [
+  {
+   "text": "Defending champions face championship fatigue. Expect them to rest players and trim starters' minutes early in the season.",
+   "ts": "11:36",
+   "quote": "for the first 30 games of the year maybe all the starters down by like two minutes per game",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 703
+  },
+  {
+   "text": "A deep conference lowers the incentive to chase a top seed, so teams may rest players more.",
+   "ts": "12:39",
+   "quote": "it makes it so much less of a priority than it would be if the Knicks were out west",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 768
+  },
+  {
+   "text": "A backup big who can play back-to-backs, and whose minutes can be pushed when the starter is hurt, gives a more stable rotation than an injury-limited big.",
+   "ts": "4:17",
+   "quote": "if Kenya Towns does miss time and get hurt, then at least you know that on Drummond can push the minutes higher",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 268
+  },
+  {
+   "text": "A big jump in three-point percentage on the same volume should not be expected to continue.",
+   "ts": "7:00",
+   "quote": "hit 41% last season on the same volume which is just you know a number we don't expect to continue",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 445
+  },
+  {
+   "text": "Late-season games against tanking teams give easy wins. A stronger, deeper conference removes some of those wins and makes it riskier to rest players.",
+   "ts": "33:17",
+   "quote": "you're not going to have the easy March April wins against as many tanking teams",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1997
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Andre Drummond",
+   "team": "NYK",
+   "said_as": "Andre Drummond",
+   "horizon": "current",
+   "text": "Expected to play roughly the backup center minutes that Mitchell Robinson played. He has no back-to-back restrictions and can play around 29 minutes if Towns misses time.",
+   "ts": "3:45",
+   "quote": "I think Drummond will play roughly the minutes Mitchell Robinson plays",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 217
+  },
+  {
+   "player": "Andre Drummond",
+   "team": "NYK",
+   "said_as": "Andre Drummond",
+   "horizon": "durable",
+   "text": "Still an elite offensive rebounder, a good defensive playmaker and a good screener. He is older now and can no longer do some of the things he once did.",
+   "ts": "19:13",
+   "quote": "He's still an elite offensive rebounder, pretty darn good defensive playmaker still",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1180
+  },
+  {
+   "player": "Josh Hart",
+   "team": "NYK",
+   "said_as": "Josh Hart",
+   "horizon": "current",
+   "text": "Named the starter most at risk of decline because of past wear and tear. He played through hand injuries last season. His minutes dropped from 38 to 30 per game, and a similar load is expected this season.",
+   "ts": "7:32",
+   "quote": "he played eight fewer minutes per game last season than what he done down from 38 down to 30",
+   "value_hint": "regression risk",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 452
+  },
+  {
+   "player": "Josh Hart",
+   "team": "NYK",
+   "said_as": "Josh Hart",
+   "horizon": "durable",
+   "text": "Historically a 31 to 33 percent three-point shooter. His game relies on motor and athleticism.",
+   "ts": "7:00",
+   "quote": "weird with being like a 31 and 33% shooter from three then hit 41% last season",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 437
+  },
+  {
+   "player": "Mikal Bridges",
+   "team": "NYK",
+   "said_as": "Muel Bridges",
+   "horizon": "current",
+   "text": "Faded in the regular season. Over the last third of the year he played under 30 minutes, attempted about one free throw per game and had a usage rate around 16 percent. Gavin expects the same role this season but his best season as a Knick. Mike Brown may cut his role if he struggles.",
+   "ts": "14:22",
+   "quote": "he played under 30 minutes a night basically the entire last third of the season",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 862
+  },
+  {
+   "player": "Mikal Bridges",
+   "team": "NYK",
+   "said_as": "Muel Bridges",
+   "horizon": "durable",
+   "text": "Elite defender off the ball and very durable, rarely missing games.",
+   "ts": "16:27",
+   "quote": "he is still maybe not as good of an offball wing defender in the NBA, but if there's five better",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 991
+  },
+  {
+   "player": "OG Anunoby",
+   "team": "NYK",
+   "said_as": "OG",
+   "horizon": "current",
+   "text": "The player who could raise the team's ceiling the most. His usage was just under 20 percent in about 33 minutes per game. Expect more big scoring nights when Brunson or Towns rest, but he stays the third option and is not projected to average 25.",
+   "ts": "24:15",
+   "quote": "I don't really see a world where he comes out and averages 25 next year",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1455
+  },
+  {
+   "player": "OG Anunoby",
+   "team": "NYK",
+   "said_as": "OG",
+   "horizon": "durable",
+   "text": "Elite defender who can be streaky, with hot stretches followed by weeks of inconsistency. He has had knee and ankle problems over his career but has stayed healthy for two seasons with the Knicks.",
+   "ts": "25:17",
+   "quote": "He's shown a little inconsistency where he will have these torid red-hot stretches",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1522
+  },
+  {
+   "player": "Karl-Anthony Towns",
+   "team": "NYK",
+   "said_as": "Carl Anthony Towns",
+   "horizon": "durable",
+   "text": "Has had a number of lower body issues. Some regular-season signs of declining athleticism, but he looked good in the playoffs.",
+   "ts": "13:14",
+   "quote": "Towns has already had a bunch of lower body issues",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 794
+  },
+  {
+   "player": "Jalen Brunson",
+   "team": "NYK",
+   "said_as": "Jaylen Brunson",
+   "horizon": "current",
+   "text": "Had wrist surgery after the playoffs. He is expected to be ready for opening night.",
+   "ts": "34:27",
+   "quote": "He's going to be ready to start opening night.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2078
+  },
+  {
+   "player": "Miles McBride",
+   "team": "NYK",
+   "said_as": "Duce McBride",
+   "horizon": "current",
+   "text": "Possible trade candidate after not agreeing to an extension. Has dealt with abdominal issues.",
+   "ts": "19:13",
+   "quote": "So, you you almost wonder if that pushes him even more on the block.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1157
+  },
+  {
+   "player": "Mohamed Diawara",
+   "team": "NYK",
+   "said_as": "Mo Dawir",
+   "horizon": "current",
+   "text": "Had a surprisingly good rookie season but a poor Summer League. A wing to watch who may need to step up this season.",
+   "ts": "22:32",
+   "quote": "he's probably going to need to step up at some point during this season",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1352
+  },
+  {
+   "player": "Tyler Kolek",
+   "team": "NYK",
+   "said_as": "Tyler Colick",
+   "horizon": "current",
+   "text": "Part of a crowded bench guard group with Jordan Clarkson, Landry Shamet and Miles McBride.",
+   "ts": "14:52",
+   "quote": "They've got a lot of bench guards. Tyler Colick, Jordan Clarkson's back",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 878
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "NYK",
+   "horizon": "current",
+   "text": "Andre Drummond replaces Mitchell Robinson. The team still lacks a third big and has only 13 players and about 3 million dollars of room. Ownership does not want to go over the second apron.",
+   "ts": "2:41",
+   "quote": "as of today, they do not yet have their third big",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 154
+  },
+  {
+   "team": "NYK",
+   "horizon": "current",
+   "text": "Expected to be conservative over the first 30 or so games, with starters' minutes trimmed and more rest on back-to-backs. Gavin predicts 54 wins and Josh about 50.",
+   "ts": "12:08",
+   "quote": "go very, very conservative the first 30 or so games of",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 752
+  },
+  {
+   "team": "NYK",
+   "horizon": "current",
+   "text": "Projected starters are Brunson, Bridges, Hart, Anunoby and Towns. Little double-big lineup use is expected.",
+   "ts": "5:24",
+   "quote": "it's Brunson, it's Bridges, it's hard, it's OG, and and it's Towns",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 317
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Josh Hart's minutes dropped from 38 to 30 per game last season.",
+   "ts": "7:32",
+   "quote": "down from 38 down to 30",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 452
+  },
+  {
+   "text": "Josh Hart shot 41 percent from three last season after previously shooting 31 to 33 percent.",
+   "ts": "7:00",
+   "quote": "a 31 and 33% shooter from three then hit 41% last season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 437
+  },
+  {
+   "text": "Mikal Bridges had a usage rate around 16 percent and attempted about one free throw per game over the last two months of the season.",
+   "ts": "14:22",
+   "quote": "he attempted one free throw a game. His usage was down at 16%",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 853
+  },
+  {
+   "text": "The Knicks won 53 games last season.",
+   "ts": "32:46",
+   "quote": "They won only 53 games last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1980
+  },
+  {
+   "text": "OG Anunoby had a usage rate just under 20 percent while playing about 33 minutes per game.",
+   "ts": "23:42",
+   "quote": "He was under 20 usage barely last season, but he was, you know, barely there 33 minutes a night",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1429
+  }
+ ]
+}

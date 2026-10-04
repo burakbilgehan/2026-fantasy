@@ -1,0 +1,687 @@
+{
+ "video": {
+  "id": "H9q2FT3LhNw",
+  "title": "Are You Sleeping on the Atlanta Hawks? [BEST Hawks Outlook]",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-08-25",
+  "duration": "36:29",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T13:52:03+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.32585580000000003,
+  "duration_ms": 81451
+ },
+ "summary": "Josh Lloyd and Brad Rowland (Locked On Hawks) preview the 2026-27 Atlanta Hawks, the first full season after the Trae Young era. Brad thinks the roster is a bit better than at the end of last season. They added Lu Dort, Aaron Wiggins, Kingston Flemings, Devin Carter and Ryan Nembhard, and still have two roster spots too many to clear. The likely starters are CJ McCollum, Nickeil Alexander-Walker, Dyson Daniels, Jalen Johnson and Onyeka Okongwu. Alexander-Walker should regress toward his pre-All-Star level. Jalen Johnson probably wore down but should match last season's production. Okongwu is finally the clear starting center: a stretch big whose blocks and offensive rebounds dropped while his threes, assists and steals rose. Brad predicts 46 wins and a spot somewhere between fourth and eighth in the East.",
+ "rules": [
+  {
+   "text": "This season the East is stronger and fewer bottom teams are tanking, so a team can get better and still win fewer games. Do not read fewer wins as a worse team.",
+   "ts": "2:42",
+   "quote": "you can be a better team and win fewer games and that's okay as long as we're just understanding",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 179
+  },
+  {
+   "text": "When a player has an extreme hot stretch, such as a post All-Star run, use the earlier part of his season as the baseline and expect the shooting to come down.",
+   "ts": "10:01",
+   "quote": "So there's going to be a bit of usage and ball handling changes plus that insane shooting is going to come down.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 601
+  },
+  {
+   "text": "To judge a player's production and minutes, look at who was around him, who was out, and how he gets used when the team is healthy. Big games that came while a teammate was out may not carry over.",
+   "ts": "23:04",
+   "quote": "who was around, who wasn't around, and how were they used and how do they get used when the team looks whole?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1400
+  },
+  {
+   "text": "Players who go for more blocks commit more fouls. As players age and their minutes go up, their block and foul rates tend to drop. Starters playing big minutes cannot risk foul trouble.",
+   "ts": "28:35",
+   "quote": "when you go for more blocks, you commit more fouls. And when you're every player, like as they get older, block rate down",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1705
+  },
+  {
+   "text": "A center who takes more threes plays farther from the rim. His offensive rebounds and rim finishing tend to drop, while assists and three-point attempts go up.",
+   "ts": "26:54",
+   "quote": "when you're out there taking more threes, you're in a different position. So you're working not exactly under the rim.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1614
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Nickeil Alexander-Walker",
+   "said_as": "Alexander Walker",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Expect regression after his extreme post All-Star shooting run. Brad uses his pre All-Star numbers (about 20 points, 58% true shooting) as the baseline, which is still very good.",
+   "ts": "10:32",
+   "quote": "Alexander Walker is like my baseline level, which is still really good. You know, 20 points a game",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 632
+  },
+  {
+   "player": "Nickeil Alexander-Walker",
+   "said_as": "Alexander Walker",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "With CJ McCollum around for most of the season, his usage and ball handling should change.",
+   "ts": "10:01",
+   "quote": "So there's going to be a bit of usage and ball handling changes plus that insane shooting is going to come down.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 601
+  },
+  {
+   "player": "Nickeil Alexander-Walker",
+   "said_as": "Alexander Walker",
+   "team": "ATL",
+   "horizon": "durable",
+   "text": "One of the better catch-and-shoot three-point shooters in the NBA for three seasons. About 40% from three on high volume is reasonable.",
+   "ts": "11:02",
+   "quote": "Like is he going to shoot 46% from three? No. But 40 would be reasonable.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 677
+  },
+  {
+   "player": "Nickeil Alexander-Walker",
+   "said_as": "Alexander Walker",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Likely starter. It would be a hard sell to move him to the bench after winning Most Improved Player.",
+   "ts": "8:20",
+   "quote": "it's a tough sell to go ahead and ask him to come off the bench after he was the most improved player",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 507
+  },
+  {
+   "player": "CJ McCollum",
+   "said_as": "CJ McCullum",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Took over much of the primary ball handling after arriving. He is a score-first guard, not a pure point guard. Projected starter.",
+   "ts": "5:29",
+   "quote": "Like you said, he's not a pure point guard. They know that. I think he knows that.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 355
+  },
+  {
+   "player": "CJ McCollum",
+   "said_as": "CJ",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "If anyone loses a starting spot to Lu Dort, McCollum is the most likely one.",
+   "ts": "7:45",
+   "quote": "would it shock me to no end if they started Lou Dort in place of CJ perhaps? No.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 478
+  },
+  {
+   "player": "Dyson Daniels",
+   "said_as": "Dyson",
+   "team": "ATL",
+   "horizon": "durable",
+   "text": "Cannot shoot. He was around 18% from three for the season and hit 30% over the last month.",
+   "ts": "8:57",
+   "quote": "Dyson cannot shoot. Like he did he did hit 30% over the last month of the season",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 529
+  },
+  {
+   "player": "Dyson Daniels",
+   "said_as": "Dyson Daniels",
+   "team": "ATL",
+   "horizon": "durable",
+   "text": "Grew up as a point guard and handles the ball. He averaged about six assists last season.",
+   "ts": "6:04",
+   "quote": "Like Dyson Daniels, six assists a game last season handles the ball some.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 371
+  },
+  {
+   "player": "Dyson Daniels",
+   "said_as": "Dyson",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Locked-in starter.",
+   "ts": "8:20",
+   "quote": "Dyson, I think, is an absolutely ingrained staple. Um, Alexander Walker, it's a tough sell",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 500
+  },
+  {
+   "player": "Dyson Daniels",
+   "said_as": "Daniels",
+   "team": "ATL",
+   "horizon": "durable",
+   "text": "All-Defense player. He adapted to playing almost a big man role on offense at times last season.",
+   "ts": "21:57",
+   "quote": "he managed to play like almost a big man role at times last season and I would say adapted",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1338
+  },
+  {
+   "player": "Jalen Johnson",
+   "said_as": "Jaylen Johnson",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Atlanta's best player. He probably wore down last season after a big jump in minutes, and his shooting dropped in the second half and the playoffs. Brad is not worried and expects the same production as last season.",
+   "ts": "20:20",
+   "quote": "I think I'm not worried about him and his production should be right where it was last season.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1227
+  },
+  {
+   "player": "Jalen Johnson",
+   "said_as": "Jaylen Johnson",
+   "team": "ATL",
+   "horizon": "durable",
+   "text": "Injury history: he was injured in every season before last.",
+   "ts": "18:16",
+   "quote": "he has never played this many games because he's been injured every other season.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1104
+  },
+  {
+   "player": "Jalen Johnson",
+   "said_as": "Jaylen Johnson",
+   "team": "ATL",
+   "horizon": "durable",
+   "text": "Strong playmaker for a forward, about eight assists per game last season. His three-point shooting is iffy.",
+   "ts": "6:04",
+   "quote": "Jaylen Johnson averaged eight assists a game last season. Like Dyson Daniels, six assists a game",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 364
+  },
+  {
+   "player": "Onyeka Okongwu",
+   "said_as": "Aongu",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Going into year seven, he is finally the clear starting center.",
+   "ts": "24:38",
+   "quote": "going into year seven, he's finally the starter. Like, clearly the starter.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1478
+  },
+  {
+   "player": "Onyeka Okongwu",
+   "said_as": "Aongu",
+   "team": "ATL",
+   "horizon": "durable",
+   "text": "Stretch center: one of the best shooting seasons by a center, 38% from three on real volume. The volume is real even if the percentage dips.",
+   "ts": "25:47",
+   "quote": "I don't know if he's going to shoot 38% like he did last year, but the volume is real.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1540
+  },
+  {
+   "player": "Onyeka Okongwu",
+   "said_as": "Aongu",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Sneaky key player. If his inside finishing returns to past levels, he could score 18 to 19 points per game instead of 15, with efficiency that helps in fantasy.",
+   "ts": "26:21",
+   "quote": "put up closer to 18, 19 points a game versus the 15 from last year",
+   "value_hint": "sneaky",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1581
+  },
+  {
+   "player": "Onyeka Okongwu",
+   "said_as": "Aongu",
+   "team": "ATL",
+   "horizon": "durable",
+   "text": "Rim finishing and offensive rebound rate dropped as he moved to the perimeter. His assist rate and three-point rate went up.",
+   "ts": "26:21",
+   "quote": "his offensive rebound rate had been 12 13% and then it was six last season.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1606
+  },
+  {
+   "player": "Onyeka Okongwu",
+   "said_as": "Aongu",
+   "team": "ATL",
+   "horizon": "durable",
+   "text": "Block rate is down and steal rate is up. He sacrificed blocks to cut fouls and defend on the perimeter. Expect the same profile going forward, maybe a few more blocks.",
+   "ts": "29:06",
+   "quote": "I do expect it to probably be the same moving forward. Maybe he blocks a few more shots",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1768
+  },
+  {
+   "player": "Onyeka Okongwu",
+   "said_as": "Aongu",
+   "team": "ATL",
+   "horizon": "durable",
+   "text": "Has always had very good hands and good feel. He handles the ball better than most centers.",
+   "ts": "28:35",
+   "quote": "The hands have always played up. He's always had really good hands. I think he has good feel.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1738
+  },
+  {
+   "player": "Luguentz Dort",
+   "said_as": "Lud Dort",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Expected to play more minutes than Aaron Wiggins, partly on reputation. He will likely come off the bench and be staggered with Daniels.",
+   "ts": "30:18",
+   "quote": "I think it's Dort and maybe that's reputational. Um I think Wiggins actually is a cleaner fit",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1818
+  },
+  {
+   "player": "Luguentz Dort",
+   "said_as": "Dort",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Could lose minutes or be traded again if Daniels makes him expendable.",
+   "ts": "30:54",
+   "quote": "I could see them either flipping him again in a trade or maybe him just playing less",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1862
+  },
+  {
+   "player": "Luguentz Dort",
+   "said_as": "Dort",
+   "team": "ATL",
+   "horizon": "durable",
+   "text": "Inconsistent shooter: 39 to 40% from three in the two seasons before last, then 34% last year. He is not afraid to shoot.",
+   "ts": "22:33",
+   "quote": "he had two seasons before last year where he shot 39 40% from three.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1353
+  },
+  {
+   "player": "Aaron Wiggins",
+   "said_as": "Wiggins",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Cleaner fit as a backup 2/3 and the better shooter. There is a chance he passes Dort in minutes by the end of the season.",
+   "ts": "30:18",
+   "quote": "I think Wiggins actually is a cleaner fit which is interesting.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1818
+  },
+  {
+   "player": "Aaron Wiggins",
+   "said_as": "Wiggins",
+   "team": "ATL",
+   "horizon": "durable",
+   "text": "Struggled with his shot last season but has historically been a much better shooter.",
+   "ts": "30:54",
+   "quote": "even though he struggled last season with his shot like historically he's been a a much better shooter",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1874
+  },
+  {
+   "player": "Kingston Flemings",
+   "said_as": "Kingston Flemings",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "First-round rookie, age 19. Likely backup point guard and probably an upgrade over last season's backups.",
+   "ts": "4:21",
+   "quote": "I think it's very reasonable Kingston Flemings is better than what they got from the likes of Katon Wallace",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 265
+  },
+  {
+   "player": "Devin Carter",
+   "said_as": "Carter",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Brad's best guess for one of the two roster cuts.",
+   "ts": "16:05",
+   "quote": "probably my best guess is Carter and either Nemhard or like or a small trade somewhere.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 992
+  },
+  {
+   "player": "Ryan Nembhard",
+   "said_as": "Nemhard",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Cheap and acquired on purpose, but still a candidate to be cut or moved in a small trade.",
+   "ts": "16:05",
+   "quote": "the lowest cost would just be moving on from probably Nemhard and Carter.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 973
+  },
+  {
+   "player": "Buddy Hield",
+   "said_as": "Buddy Healed",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Contract was guaranteed, mostly as matching salary. A buyout is possible.",
+   "ts": "16:05",
+   "quote": "They could buy out Buddy Healed and probably save a couple million dollars on that.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 973
+  },
+  {
+   "player": "Mouhamed Gueye",
+   "said_as": "Mo Gay",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "The only non-guaranteed contract, and he is currently hurt. Could be traded or cut.",
+   "ts": "15:29",
+   "quote": "Mo Gay is the only non-G guaranteed contract and he's currently hurt.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 929
+  },
+  {
+   "player": "Jonathan Kuminga",
+   "said_as": "Kaminga",
+   "team": "",
+   "horizon": "current",
+   "text": "His big games in Atlanta came when Jalen Johnson was out. The two were mostly staggered. He is unsigned.",
+   "ts": "23:04",
+   "quote": "we saw Kaminga have some big games, but it was in games where you Johnson was out",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1384
+  },
+  {
+   "player": "Jock Landale",
+   "said_as": "Lando",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Re-signed as backup center. He can shoot, so Atlanta always has a shooting center on the floor.",
+   "ts": "21:57",
+   "quote": "having a shooting center on the floor all the time, which they do have, and either a Kong or Lando could shoot",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1317
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Projected starters: CJ McCollum, Nickeil Alexander-Walker, Dyson Daniels, Jalen Johnson, Onyeka Okongwu. The main alternative is Lu Dort starting in place of McCollum.",
+   "ts": "7:08",
+   "quote": "McCullum to kill Alexander Walker Dyson Daniels Jaylen Johnson and Aongu and there'll be people who be like",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 428
+  },
+  {
+   "team": "ATL",
+   "horizon": "current",
+   "text": "The strong late-season run last year was helped by an easy schedule.",
+   "ts": "1:42",
+   "quote": "They played really well late in the season. Um that was certainly aided by the schedule.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 116
+  },
+  {
+   "team": "ATL",
+   "horizon": "current",
+   "text": "No true point guard. Ball handling is shared among McCollum, Alexander-Walker, Johnson and Daniels.",
+   "ts": "6:04",
+   "quote": "they do it by committee. I mean, Jaylen Johnson averaged eight assists a game last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 364
+  },
+  {
+   "team": "ATL",
+   "horizon": "durable",
+   "text": "Quin Snyder runs an egalitarian, high-movement offense that wants lots of threes and five-out spacing.",
+   "ts": "11:32",
+   "quote": "It's a very egalitarian system. like lots of movement, not not a whole lot of ball stopping",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 697
+  },
+  {
+   "team": "ATL",
+   "horizon": "current",
+   "text": "The roster is two players over the limit. Cuts or a small trade are likely before opening day. Candidates are Carter, Nembhard, Hield, Gueye and Kispert.",
+   "ts": "13:54",
+   "quote": "They they have too many and they have to cut two people and they just keep trading for guys.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 834
+  },
+  {
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Dort and Daniels will play together some but will mostly be staggered for spacing.",
+   "ts": "23:04",
+   "quote": "knowing what Quinn Quincy has done before that it will be minimized to some",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1376
+  },
+  {
+   "team": "ATL",
+   "horizon": "durable",
+   "text": "Without a rim anchor, the defense uses more switching and blitzing, which puts the center in different spots.",
+   "ts": "29:06",
+   "quote": "they're doing more switching, they're doing more blitzing, like it's a little bit less traditional",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1761
+  },
+  {
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Win prediction is 46, the same as last season. Projected somewhere between fourth and eighth in the East.",
+   "ts": "31:25",
+   "quote": "they're a better team and they're going to win 46 games which is the same amount as last year.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1902
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Alexander-Walker shot about 48% from three and 95% from the line after the All-Star break.",
+   "ts": "9:28",
+   "quote": "he shot like 48% from three and 95 from the free throw line and he's hitting like 60% of his twos",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 576
+  },
+  {
+   "text": "Alexander-Walker had about 70% true shooting after the All-Star break.",
+   "ts": "10:01",
+   "quote": "I think he had 70% true shooting in that sample.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 624
+  },
+  {
+   "text": "Alexander-Walker averaged about 20 points with 58% true shooting before the All-Star break.",
+   "ts": "10:32",
+   "quote": "You know, 20 points a game, 58% true shooting.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 632
+  },
+  {
+   "text": "Dyson Daniels shot about 18% from three last season.",
+   "ts": "8:57",
+   "quote": "was at like 18% I think from three over the course of the year.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 537
+  },
+  {
+   "text": "Jalen Johnson averaged eight assists and Dyson Daniels six assists last season.",
+   "ts": "6:04",
+   "quote": "Jaylen Johnson averaged eight assists a game last season. Like Dyson Daniels, six assists a game last season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 364
+  },
+  {
+   "text": "Okongwu shot 38% from three on about six attempts per 36 minutes and made 144 threes.",
+   "ts": "24:38",
+   "quote": "He shot 38% from three on real volume, about six or 36 minutes attempts. He made 144 threes last season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1491
+  },
+  {
+   "text": "Okongwu shot 60%+ on twos every prior season but 56% last year.",
+   "ts": "25:47",
+   "quote": "after shooting 60 plus% from two in every season of his career, it was down to 56% last year.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1547
+  },
+  {
+   "text": "Okongwu averaged about 15 points last season.",
+   "ts": "26:21",
+   "quote": "put up closer to 18, 19 points a game versus the 15 from last year",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1581
+  },
+  {
+   "text": "Okongwu shot over 70% at the rim in his first four seasons, 69% in 2024-25, and under 65% last season. His offensive rebound rate fell from 12 to 13% to 6%.",
+   "ts": "26:21",
+   "quote": "his offensive rebound rate had been 12 13% and then it was six last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1606
+  },
+  {
+   "text": "Okongwu's block rate was about 5% in his first three years and under 4% in the last two seasons.",
+   "ts": "26:54",
+   "quote": "his block rate first three years 5%. And it's been under four almost three the last two",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1642
+  },
+  {
+   "text": "Dort shot 39 to 40% from three in the two seasons before last and 34% last season.",
+   "ts": "22:33",
+   "quote": "he had two seasons before last year where he shot 39 40% from three.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1353
+  },
+  {
+   "text": "The Hawks' starting five was the fifth most used lineup in the NBA last season (Cleaning the Glass).",
+   "ts": "7:45",
+   "quote": "this fiveman lineup was the fifth most used lineup in the entire NBA last season by cleaning the glass.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 469
+  },
+  {
+   "text": "The Hawks ranked eighth in defense last season.",
+   "ts": "25:14",
+   "quote": "they were eighth in the league in defense last year with him him playing center most of the season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1531
+  },
+  {
+   "text": "Jalen Johnson played about 700 more regular season minutes than in any previous season.",
+   "ts": "18:46",
+   "quote": "he played I think 700 more minutes than he's ever played in a season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1131
+  },
+  {
+   "text": "Kuminga played about 8% of the Hawks' minutes last season.",
+   "ts": "3:46",
+   "quote": "I think he played 8% of the team's minutes last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 244
+  },
+  {
+   "text": "Alexander-Walker won Most Improved Player and averaged 20 points per game.",
+   "ts": "8:20",
+   "quote": "he was the most improved player in the NBA last season and averaged 20 points a game.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 507
+  },
+  {
+   "text": "The Hawks won 46 games last season.",
+   "ts": "31:25",
+   "quote": "they're going to win 46 games which is the same amount as last year.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1902
+  }
+ ]
+}

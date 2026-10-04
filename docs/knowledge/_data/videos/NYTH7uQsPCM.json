@@ -1,0 +1,784 @@
+{
+ "video": {
+  "id": "NYTH7uQsPCM",
+  "title": "Can Analytics Solve Fantasy Basketball?",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-07-17",
+  "duration": "36:55",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T11:19:31+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.3060838,
+  "duration_ms": 81223
+ },
+ "summary": "Josh Lloyd looks at how basic and advanced NBA analytics can help fantasy players, using data from DARKO and Databallers. He explains that analytics describe what happened and only suggest what may happen, so player values should be thought of as ranges rather than fixed ranks. He checks how closely shots defended track blocks, deflections track steals, and potential assists and on-ball time track assists. He then names players whose conversion rates were unusually high (likely to regress) or unusually low (likely to bounce back). Examples include Jalen Green, Aaron Gordon, Shaedon Sharpe, Ty Jerome and Dejounte Murray on the high side, and Zach LaVine, Keegan Murray, Christian Braun and Scoot Henderson on the low side. He finds that DARKO DPM has only a moderate link to fantasy rank, and that on-ball time has no link to offensive impact.",
+ "rules": [
+  {
+   "text": "Analytics describe what happened. Some models project what may happen, not what will happen. Talk about what a player did, not what he is.",
+   "ts": "2:39",
+   "quote": "what we should be saying is that player got you a lot of assists, or that player did kill your percentages",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 179
+  },
+  {
+   "text": "Player values are ranges, not fixed ranks. A strict best player available approach in a draft is flawed.",
+   "ts": "4:16",
+   "quote": "So a best player available idea in a draft is a pretty flawed argument.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 275
+  },
+  {
+   "text": "When drafting, ask whether you are paying for a 95th percentile outcome or a 50th percentile one. A player whose floor can't get much worse is a big value.",
+   "ts": "4:49",
+   "quote": "Am I drafting at 95th percentile outcome? Am I drafting at 50th percent, where it could go up or down?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 294
+  },
+  {
+   "text": "Shots defended, especially at the rim, correlate with blocks. League average conversion of rim contests into blocks is 13.5%. Expect very high conversion rates to regress.",
+   "ts": "8:59",
+   "quote": "how many shots do you contest at the rim that turn into blocks? League average is 13.5.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 539
+  },
+  {
+   "text": "Elite shot blockers can lose blocks because opponents stop shooting at them. You can't block shots that are never taken.",
+   "ts": "9:31",
+   "quote": "You can't block a shot if they don't shoot it.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 607
+  },
+  {
+   "text": "A player's blocks can take a double hit: fewer rim contests (from a role or position change) plus regression in his conversion rate.",
+   "ts": "12:39",
+   "quote": "there are a couple of things that could have a double negative impact on someone's block numbers.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 766
+  },
+  {
+   "text": "Compare each player's conversion rates to his own career trends. Expect very high numbers to come down and very low numbers to go up.",
+   "ts": "13:09",
+   "quote": "so any high-level number maybe expect regression. Any low number maybe it jumps up.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 814
+  },
+  {
+   "text": "Players with very low block conversion could move a couple of points toward average, which adds about 0.2 to 0.3 blocks per game.",
+   "ts": "15:15",
+   "quote": "Get closer to average. Meaning that you get an extra 0.2 to 0.3 blocks per game from these players.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 922
+  },
+  {
+   "text": "Deflections correlate strongly with steals (0.86), but only 49% of deflections become steals, and luck decides who recovers the ball. Very high conversion rates are likely to regress.",
+   "ts": "18:22",
+   "quote": "only 49% of all deflections turn into steals. Less than a 50% conversion.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1118
+  },
+  {
+   "text": "Steals are one of the most volatile categories from year to year. Don't rely on a player's steals from the previous season.",
+   "ts": "19:56",
+   "quote": "steals is one of the most volatile categories year on year in fantasy. So, when you're relying upon",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1209
+  },
+  {
+   "text": "Potential assists correlate with assists at 0.78, and 58% of potential assists became assists last season. On-ball time correlates very strongly with potential assists (0.9) and assists (0.88).",
+   "ts": "25:39",
+   "quote": "0.9 of on-ball percentage to potential assists and 0.88 for on-ball percentage to assists.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1552
+  },
+  {
+   "text": "When two ball-dominant players share the court, both lose on-ball time, so both should lose assists. More minutes can make up for it.",
+   "ts": "26:41",
+   "quote": "Because if they have it in their hands less, then almost certainly, not always, but",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1627
+  },
+  {
+   "text": "Assist conversion depends on how well teammates finish. When two teammates both convert poorly, the cause is more likely the team than luck. Look for context behind the number.",
+   "ts": "32:21",
+   "quote": "suggests that it's teammate and structural versus all being luck-based. And that's what I mean about analytics",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1941
+  },
+  {
+   "text": "DARKO DPM is a next-game predictive tool. It does not project end-of-season impact, which is why rookies start low.",
+   "ts": "6:54",
+   "quote": "It is at this point a next game predictive tool.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 414
+  },
+  {
+   "text": "DARKO has only a moderate link to fantasy rank (0.42). It is a per-possession stat, so high-impact players also need minutes to matter in fantasy.",
+   "ts": "33:22",
+   "quote": "you need to play minutes in fantasy cuz Darko is a per possession stat.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2028
+  },
+  {
+   "text": "On-ball time has no link to offensive impact (0.1) or to fantasy rank. It matters for assists, but it doesn't show who is a good player.",
+   "ts": "34:57",
+   "quote": "Plenty of bad players have the ball in their hands a lot. Plenty of good players do not.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2097
+  },
+  {
+   "text": "Plan to build each player's baseline conversion rates (expected blocks, steals and assists) to spot players who are underperforming because of luck.",
+   "ts": "35:59",
+   "quote": "through luck under performing what we expect. What is their X assists? What is their X blocks?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2159
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Victor Wembanyama",
+   "said_as": "Victor Wembanyama",
+   "team": "SAS",
+   "horizon": "durable",
+   "text": "Best defender in the league. 50% of his rim contests turn into blocks.",
+   "ts": "8:59",
+   "quote": "The best defender in the league is Victor Wembanyama. His percentage on that is 50.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 549
+  },
+  {
+   "player": "Victor Wembanyama",
+   "said_as": "Wembanyama",
+   "team": "SAS",
+   "horizon": "current",
+   "text": "Had a career low in blocks because opponents avoid shooting near him, so he defends fewer shots at the rim.",
+   "ts": "9:31",
+   "quote": "He had a career low in blocks this season despite 50% of the shots being blocked that he contested.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 574
+  },
+  {
+   "player": "Zach Edey",
+   "said_as": "Zach Edey",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Also converted 50% of rim contests into blocks, but he barely played, so the sample is small.",
+   "ts": "8:59",
+   "quote": "Same as Zach Edey, actually. About They're both at 50. Now, Edey barely played, so small sample size.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 560
+  },
+  {
+   "player": "Yves Missi",
+   "said_as": "New Year's Eve Missi",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Converted 39% of rim contests into blocks. The speaker doesn't love his fit with Zion and expects regression plus a minutes crunch.",
+   "ts": "10:01",
+   "quote": "New Year's Eve Missi, 39% of the shots he converted turned into blocks. Now, Missi is someone who I don't love",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 623
+  },
+  {
+   "player": "Khaman Maluach",
+   "said_as": "Moukoko",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Converted 31.5% of rim contests into blocks and is having a great Summer League. Could win a bigger role over Mark Williams and Moussa Diabate and would be a really good fantasy player.",
+   "ts": "11:35",
+   "quote": "could Moukoko watch get himself into a larger role? He would be a really good fantasy player",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 695
+  },
+  {
+   "player": "Moussa Diabate",
+   "said_as": "Moussa Diabate",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "The speaker is less confident in Diabate keeping up his shot blocking than in Maluach.",
+   "ts": "11:35",
+   "quote": "I feel more confident that he does it than what Moussa Diabate does.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 708
+  },
+  {
+   "player": "Paul Reed",
+   "said_as": "Paul Reed",
+   "team": "DET",
+   "horizon": "durable",
+   "text": "Has always posted high blocks per possession. 29% of his rim contests become blocks.",
+   "ts": "11:35",
+   "quote": "Paul Reed has always been a high blocks per minute per possession player.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 713
+  },
+  {
+   "player": "Paul Reed",
+   "said_as": "Paul Reed",
+   "team": "DET",
+   "horizon": "current",
+   "text": "With Isaiah Stewart traded, Reed is now Detroit's primary backup big.",
+   "ts": "33:53",
+   "quote": "the Pistons shipped off Isaiah Stewart so Reed is now the primary backup.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2039
+  },
+  {
+   "player": "Bilal Coulibaly",
+   "said_as": "Bilal",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Converted 26.2% of rim contests into blocks. Likely to get fewer minutes and fewer rim contests with Anthony Davis and Alex Sarr around, and could regress toward average.",
+   "ts": "12:06",
+   "quote": "Bilal just because he's probably not playing as many minutes given the nature of that team.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 749
+  },
+  {
+   "player": "Mouhamed Gueye",
+   "said_as": "Mouhamed Gueye",
+   "team": "",
+   "horizon": "current",
+   "text": "Converted 24.5% of rim contests into blocks. Likely to contest fewer shots at the rim while playing the three next to Caleb Wilson.",
+   "ts": "12:06",
+   "quote": "Gueye cuz he's playing at the three with Caleb Wilson at the four.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 744
+  },
+  {
+   "player": "Domantas Sabonis",
+   "said_as": "Domantas Sabonis",
+   "team": "SAC",
+   "horizon": "durable",
+   "text": "Very poor shot blocker. Only 2.6% of his contests became blocks, about half his rate the year before.",
+   "ts": "13:42",
+   "quote": "Domantas Sabonis is horrible. 2.6% of the shots he contests were blocked.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 831
+  },
+  {
+   "player": "Julius Randle",
+   "said_as": "Julius Randle",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "His 4.9% block conversion was well below his 9% career rate. It might change in Brooklyn without Gobert next to him.",
+   "ts": "14:13",
+   "quote": "But Randle is a 9% career shot blocker per contest. He was at 5.8 the year before.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 874
+  },
+  {
+   "player": "Bobby Portis",
+   "said_as": "Bobby Portis",
+   "team": "",
+   "horizon": "durable",
+   "text": "Low block conversion at 4.8%, against a league average of 13.",
+   "ts": "14:13",
+   "quote": "Same with Bobby Portis and Julius Randle, 4.8 and 4.9, league average 13, remember.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 869
+  },
+  {
+   "player": "Josh Hart",
+   "said_as": "Josh Hart",
+   "team": "",
+   "horizon": "current",
+   "text": "Block conversion of 5.1%, down from about 7% the year before. Could move back up.",
+   "ts": "14:45",
+   "quote": "Josh Hart, 5.1. That's not a good number, but he's also been at like seven the year before.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 891
+  },
+  {
+   "player": "Dejounte Murray",
+   "said_as": "Dejounte Murray",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "Poor at turning contests into blocks for a good guard defender. 5.3% last season against a career rate of 8 to 9%, so a small bump is possible.",
+   "ts": "14:45",
+   "quote": "Dejounte Murray, for a good guard defender, he's a horrible guy in terms of being able to convert it into blocks.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 898
+  },
+  {
+   "player": "Dejounte Murray",
+   "said_as": "Dejounte",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Converted 70% of deflections into steals, which likely fueled his 1.6 steals in 28 minutes. More minutes may not raise his steals if his conversion regresses.",
+   "ts": "22:33",
+   "quote": "what if he converts 45%? Then it might literally stay at 1.6 steals despite playing eight more minutes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1363
+  },
+  {
+   "player": "Jalen Green",
+   "said_as": "Jalen Green",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "80% of his deflections became steals. His steal jump to 1.2 in 28 minutes was luck and shouldn't be expected to last.",
+   "ts": "18:53",
+   "quote": "Nobody sits here and says Jalen Green's a good defender or a good steals guy, but 80% of his deflections",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1135
+  },
+  {
+   "player": "Aaron Gordon",
+   "said_as": "Aaron Gordon",
+   "team": "DEN",
+   "horizon": "current",
+   "text": "Converted 77% of deflections into steals against a 49% average. His steals are more likely to fall than rise.",
+   "ts": "19:24",
+   "quote": "Aaron Gordon also sat at 77% when league average is 49.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1167
+  },
+  {
+   "player": "Dyson Daniels",
+   "said_as": "Dyson Daniels",
+   "team": "",
+   "horizon": "current",
+   "text": "His steals fell from three to two per game, which the speaker gives as an example of the category's volatility.",
+   "ts": "19:56",
+   "quote": "Dyson Daniels going from three to two. That's a monster difference.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1222
+  },
+  {
+   "player": "Ayo Dosunmu",
+   "said_as": "Ayo Dosunmu",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Likely a 30-plus-minute starter in Minnesota, but his usage probably drops. Risk of regression in his shooting and in his 71% deflection-to-steal conversion.",
+   "ts": "20:29",
+   "quote": "he's going to be a starter, he's probably going to play 30 plus minutes on this Wolves team, usage probably drops.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1246
+  },
+  {
+   "player": "Shaedon Sharpe",
+   "said_as": "Shaedon Sharpe",
+   "team": "POR",
+   "horizon": "current",
+   "text": "His jump to 1.5 steals came from a 71% deflection-to-steal conversion. The speaker calls it luck.",
+   "ts": "21:30",
+   "quote": "So, is it now that he's focused on defense or did he just get really lucky? I'd say really lucky.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1307
+  },
+  {
+   "player": "Shaedon Sharpe",
+   "said_as": "Shaedon Sharpe",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Only 47.2% potential assist conversion. Likely because of teammates who finish poorly rather than pure luck.",
+   "ts": "31:20",
+   "quote": "Both of those guys converting at 47.2 to Shaedon and 47.3 to Scoot.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1892
+  },
+  {
+   "player": "Christian Braun",
+   "said_as": "Christian Braun",
+   "team": "DEN",
+   "horizon": "current",
+   "text": "Only 31% of his deflections became steals, so his defensive stats may improve.",
+   "ts": "23:03",
+   "quote": "maybe some of the defensive stats are in line to improve because only 31% of the deflections",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1384
+  },
+  {
+   "player": "Kelly Oubre",
+   "said_as": "Kelly Oubre",
+   "team": "",
+   "horizon": "current",
+   "text": "Relies on steals but converted only 32% of deflections, so he has room to get more.",
+   "ts": "23:03",
+   "quote": "Kelly Oubre also a guy that gets by on steals. Only 32% deflections turn into steals.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1401
+  },
+  {
+   "player": "Jakob Poeltl",
+   "said_as": "Jakob Poeltl",
+   "team": "TOR",
+   "horizon": "current",
+   "text": "Converted 35% of deflections into steals despite being a good defender. Likely to improve.",
+   "ts": "23:35",
+   "quote": "Poeltl really good defender. Why are their deflections not turning into steals? Can that improve? The answer is probably yes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1419
+  },
+  {
+   "player": "Khem Birch",
+   "said_as": "Khem Birch",
+   "team": "TOR",
+   "horizon": "current",
+   "text": "A Toronto center who converted 33% of deflections into steals. Likely to improve.",
+   "ts": "23:03",
+   "quote": "What about the two Toronto centers? Khem Birch and Jakob Poeltl 33 and 35%.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1409
+  },
+  {
+   "player": "Nickeil Alexander-Walker",
+   "said_as": "Nickeil Alexander-Walker",
+   "team": "",
+   "horizon": "current",
+   "text": "Converted 36.7% of deflections into steals, up from 29%. He got more deflections in his breakout offensive season, so there may be room for more steals.",
+   "ts": "24:05",
+   "quote": "He deflected more balls per 100 possessions in his breakout offensive season than he did in his role player season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1450
+  },
+  {
+   "player": "LaMelo Ball",
+   "said_as": "LaMelo Ball",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Joining Minnesota should cut his on-ball time and his assists. More minutes could keep his assists steady.",
+   "ts": "26:41",
+   "quote": "that can be offset in LaMelo's case especially by more minutes. He could play four more minutes per game",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1599
+  },
+  {
+   "player": "Anthony Edwards",
+   "said_as": "Anthony Edwards",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "With LaMelo Ball arriving, Edwards should be on ball less, which means fewer potential assists and assists.",
+   "ts": "26:10",
+   "quote": "both Anthony Edwards and LaMelo Ball we assume that their time on ball will have to drop",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1581
+  },
+  {
+   "player": "Ty Jerome",
+   "said_as": "Ty Jerome",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Expected to start at point guard with Morant gone, but he won't match last season's usage. His 70% potential assist conversion (52% in Cleveland) is unlikely to last.",
+   "ts": "28:45",
+   "quote": "So like do we really believe Ty Jerome is converting at that level? No is your answer.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1737
+  },
+  {
+   "player": "Nikola Vucevic",
+   "said_as": "Nikola Vucevic",
+   "team": "",
+   "horizon": "current",
+   "text": "Pretty good passer for a big man, but got a bit lucky with 68% potential assist conversion.",
+   "ts": "28:45",
+   "quote": "Nikola Vucevic is a pretty good pass for a big man, but he got a bit lucky.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1746
+  },
+  {
+   "player": "Pelle Larsson",
+   "said_as": "Palo Larson",
+   "team": "MIA",
+   "horizon": "current",
+   "text": "Should have a big role after the Heat lost depth. His high assist conversion could fall to about 50% and make him look worse.",
+   "ts": "29:17",
+   "quote": "So Larson's going to have a big role. But what if he goes and converts only 50% of his potential assists",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1761
+  },
+  {
+   "player": "Zach LaVine",
+   "said_as": "Zach Levine",
+   "team": "SAC",
+   "horizon": "current",
+   "text": "Converted only 46.7% of potential assists playing with poor shooters. With Westbrook and DeRozan gone and better luck, his assists could rise a lot.",
+   "ts": "30:50",
+   "quote": "with no Westbrook there, with no DeRozan there, and with maybe just improved luck of shots going in, we see a sizable increase",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1857
+  },
+  {
+   "player": "Keegan Murray",
+   "said_as": "Keegan Murray",
+   "team": "SAC",
+   "horizon": "current",
+   "text": "Low 46% potential assist conversion from passing to Kings teammates who can't really shoot.",
+   "ts": "29:48",
+   "quote": "when Keegan Murray and Zach Levine both sit at 46 and 46.7% conversion",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1806
+  },
+  {
+   "player": "Brandin Podziemski",
+   "said_as": "Brandin Podziemski",
+   "team": "GSW",
+   "horizon": "current",
+   "text": "Only 47% potential assist conversion. Could handle the ball more with Jimmy Butler out for at least half the season, which could mean a strong early run of assists.",
+   "ts": "30:50",
+   "quote": "He might handle the ball even more with Jimmy Butler out for at least half the season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1875
+  },
+  {
+   "player": "Scoot Henderson",
+   "said_as": "Scoot Henderson",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Only 47.3% potential assist conversion, likely tied to poor finishing by teammates such as Donovan Clingan and Toumani Camara.",
+   "ts": "32:21",
+   "quote": "It tells us that 47.3% of Scoot Henderson's potential assists turn into assists. It doesn't tell us why, though.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1949
+  },
+  {
+   "player": "Josh Minott",
+   "said_as": "Josh Minott",
+   "team": "",
+   "horizon": "durable",
+   "text": "91st percentile in DARKO and has always been impactful on the court, but he needs minutes to matter in fantasy.",
+   "ts": "33:22",
+   "quote": "Josh Minott for example, who's sitting in the 91st percentile in Darko.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2012
+  },
+  {
+   "player": "T.J. McConnell",
+   "said_as": "T.J. McConnell",
+   "team": "",
+   "horizon": "durable",
+   "text": "Led the league in on-ball percentage at about 48%.",
+   "ts": "7:25",
+   "quote": "The league leader in that last season, I believe was T.J. McConnell at about 48%",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 459
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Crowded rotation of about eight players who could all start: Fears, Murray, Jones, Murphy, Zion, Bey, Missi and Queen. This creates a minutes crunch.",
+   "ts": "10:33",
+   "quote": "Fears, Murray, Jones, Murphy, Zion. That's That's five names already. Bey, Missi, Queen.",
+   "verified": true,
+   "match_ratio": 0.92,
+   "seconds": 636
+  },
+  {
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Centers include Mark Williams and Moussa Diabate, and the rookie (Maluach) could earn a larger role.",
+   "ts": "11:04",
+   "quote": "Mark Williams and Moussa Diabate, the",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 694
+  },
+  {
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Anthony Davis and Alex Sarr limit Coulibaly's minutes and rim contests.",
+   "ts": "12:06",
+   "quote": "Plus, Anthony Davis and Alex Sarr exist.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 752
+  },
+  {
+   "team": "MIN",
+   "horizon": "current",
+   "text": "LaMelo Ball joins Minnesota, so Ball and Edwards should both have less on-ball time.",
+   "ts": "25:39",
+   "quote": "So, I'll use the Minnesota example. LaMelo Ball joins.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1559
+  },
+  {
+   "team": "SAC",
+   "horizon": "current",
+   "text": "Kings passers had low assist conversion because teammates like Westbrook and Clifford couldn't shoot. Westbrook and DeRozan are now gone.",
+   "ts": "29:48",
+   "quote": "Is there an element of luck in this? Sure. Is there an element of Kings in this? Also true.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1820
+  },
+  {
+   "team": "MIA",
+   "horizon": "current",
+   "text": "The Heat lost a lot of depth and ball handlers.",
+   "ts": "29:17",
+   "quote": "the Heat lost a lot of depth. No Harkless, no Hero ball handlers.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1757
+  },
+  {
+   "team": "GSW",
+   "horizon": "current",
+   "text": "Jimmy Butler is out for at least half the season.",
+   "ts": "31:20",
+   "quote": "with Jimmy Butler out for at least half the season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1876
+  },
+  {
+   "team": "POR",
+   "horizon": "current",
+   "text": "Poor finishing teammates (Camara, Clingan, Avdija) hurt the assist conversion of Portland's guards.",
+   "ts": "31:20",
+   "quote": "Toumani Camara, who had a really bad shooting season. Don Klingan, who is a well below average rim finishing",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1900
+  },
+  {
+   "team": "DET",
+   "horizon": "current",
+   "text": "Detroit traded Isaiah Stewart, which makes Paul Reed the primary backup big.",
+   "ts": "33:53",
+   "quote": "the Pistons shipped off Isaiah Stewart so Reed is now the primary backup.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2039
+  },
+  {
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Morant is gone, and Ty Jerome is expected to start at point guard.",
+   "ts": "28:15",
+   "quote": "Morant is gone, so people are assuming that Jerome is going to be the starting point guard.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1672
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "T.J. McConnell led the league in on-ball percentage last season at about 48%.",
+   "ts": "7:25",
+   "quote": "The league leader in that last season, I believe was T.J. McConnell at about 48%",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 459
+  },
+  {
+   "text": "Victor Wembanyama had a career low in blocks this season.",
+   "ts": "9:31",
+   "quote": "He had a career low in blocks this season despite 50% of the shots being blocked that he contested.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 574
+  },
+  {
+   "text": "Jalen Green's steals rose from 0.9 per game in 33 minutes to 1.2 in 28 minutes.",
+   "ts": "18:53",
+   "quote": "His steals went from 0.9 per game in 33 minutes up to 1.2 in only 28 minutes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1147
+  },
+  {
+   "text": "Dyson Daniels' steals fell from about three per game to two.",
+   "ts": "19:56",
+   "quote": "Dyson Daniels going from three to two. That's a monster difference.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1222
+  },
+  {
+   "text": "Ayo Dosunmu's free throw and three-point percentages both rose about 10 points last season.",
+   "ts": "20:29",
+   "quote": "Free throws and three-point percentage, I think both up 10 percentage points.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1236
+  },
+  {
+   "text": "Shaedon Sharpe averaged 0.9 steals in 2023-24 and 2024-25, then 1.5 steals in about 30 minutes in 2025-26.",
+   "ts": "21:30",
+   "quote": "Sharpe 24-25 season 31 minutes 0.9 steals. Sharpe 25-26 season 30 minutes but 1.5 steals.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1296
+  },
+  {
+   "text": "Dejounte Murray averaged 1.4 steals in about 36 minutes in 2023-24 and 1.6 steals in 28 minutes last season. He has led the league in steals at least once.",
+   "ts": "22:01",
+   "quote": "Like the 23-24 season, he averaged 1.4 steals in 37 minutes. 36 minutes. Last season, he had more steals",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1332
+  },
+  {
+   "text": "Zach LaVine's assists dropped after he moved from Chicago to Sacramento.",
+   "ts": "30:20",
+   "quote": "when Levine went from from to from Chicago to Sacramento, his assist numbers dropped",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1828
+  }
+ ]
+}

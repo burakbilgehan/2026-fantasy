@@ -1,0 +1,337 @@
+{
+ "video": {
+  "id": "9tb1ARBEmQU",
+  "title": "Randle Dumped To Brooklyn! Claxton To Chicago! NBA Trade Madness Starts",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-06-23",
+  "duration": "18:28",
+  "auto_captions": true
+ },
+ "prompt_version": 2,
+ "extracted_at": "2026-10-04T10:48:00+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.1474288,
+  "duration_ms": 35209
+ },
+ "summary": "Josh Lloyd reacts to a three-team trade before the draft. Julius Randle goes to Brooklyn, Nic Claxton goes to Chicago, and Minnesota gets an early second-round pick plus Mouhamed Gueye. For Minnesota, the deal is a salary dump that didn't cost them extra assets. With Randle and Donte DiVincenzo both gone, Jaden McDaniels and Anthony Edwards should pick up more of the ball handling and usage. In Brooklyn, Randle should take on a big usage role and become a strong fantasy player, which cuts into Michael Porter Jr.'s usage and hurts the fringe forwards and young ball handlers. In Chicago, Claxton's outlook gets a little better, but backups like Jalen Smith and Leonard Miller lose any path to a bigger role.",
+ "rules": [
+  {
+   "text": "Offensive load is different from usage because it also counts assists and potential assists. When a team loses ball handlers, the remaining players get more load.",
+   "ts": "4:43",
+   "quote": "offensive load includes assists and potential assists. So it means more and with no DiVincenzo",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 295
+  },
+  {
+   "text": "Do not make redraft decisions or draft calls this early in the offseason. Early site rankings are unreliable.",
+   "ts": "12:26",
+   "quote": "making any redraft decisions and draft calls now is asinine. It's ridiculous. It's stupid.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 760
+  },
+  {
+   "text": "Stats that backups put up in March and April are often not real. Don't trust them once the team adds players ahead of them.",
+   "ts": "15:01",
+   "quote": "A lot of March and April is completely fake.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 923
+  },
+  {
+   "text": "Adding a good player to a team that lacks talent cuts the usage of the players who had been carrying the load.",
+   "ts": "10:22",
+   "quote": "So, Porter saw his usage go through the roof. It doesn't mean Porter's not going to be good still.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 633
+  },
+  {
+   "text": "Leagues that stay open in the offseason, like Fantrax and ESPN, let you make dynasty and keeper moves.",
+   "ts": "12:26",
+   "quote": "at least it's open so you can restart your dynasties or keepers if you've got them",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 767
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Julius Randle",
+   "said_as": "Randle",
+   "horizon": "current",
+   "text": "Traded to Brooklyn. He could be the best player on the team. His usage and assists should go up, but his defensive stats probably won't. He should have important fantasy value, especially in points leagues.",
+   "ts": "10:53",
+   "quote": "his usage should go up. His assists should go up. Defensive stats, probably not.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 654
+  },
+  {
+   "player": "Julius Randle",
+   "said_as": "Randle",
+   "horizon": "durable",
+   "text": "Expected to still have shaky percentages.",
+   "ts": "10:53",
+   "quote": "He will still have some iffy percentages, but his usage should go up.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 653
+  },
+  {
+   "player": "Julius Randle",
+   "said_as": "Randle",
+   "horizon": "current",
+   "text": "Speaker doesn't think tanking risk is a problem for Randle in Brooklyn this season.",
+   "ts": "10:53",
+   "quote": "Now, do we worry about the tanking risk? I don't think that's going to be a problem",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 663
+  },
+  {
+   "player": "Michael Porter Jr.",
+   "said_as": "Porter",
+   "horizon": "current",
+   "text": "Randle hurts his value. Porter's usage went through the roof because the Nets lacked good players. Now another ball-dominant player plays the same position, and Porter will have to play more at the three.",
+   "ts": "10:22",
+   "quote": "It also does have a pretty significant impact on Michael Porter Jr. Why? Well, it's a player that's good.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 622
+  },
+  {
+   "player": "Jaden McDaniels",
+   "said_as": "Jaden McDaniels",
+   "horizon": "current",
+   "text": "His usage should go up with Randle and DiVincenzo gone from Minnesota.",
+   "ts": "4:43",
+   "quote": "So Jaden McDaniels, usage bump coming.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 304
+  },
+  {
+   "player": "Anthony Edwards",
+   "said_as": "Edwards",
+   "horizon": "current",
+   "text": "Probably no usage bump, but he should get more ball handling and creation load with Randle and DiVincenzo gone.",
+   "ts": "4:43",
+   "quote": "And Edwards probably not a usage bump,",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 309
+  },
+  {
+   "player": "Donte DiVincenzo",
+   "said_as": "Donte DiVincenzo",
+   "horizon": "current",
+   "text": "Out for next season. Speaker calls ESPN's early ranking of him at 77 insane.",
+   "ts": "12:26",
+   "quote": "Donte DiVincenzo sits at number 77. The guy that's out for the season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 753
+  },
+  {
+   "player": "Danny Wolf",
+   "said_as": "Danny Wolf",
+   "horizon": "current",
+   "text": "Speaker doesn't think Wolf is a good player. The Randle trade clearly kills his value at power forward.",
+   "ts": "9:52",
+   "quote": "This clearly kills value of Wolf at power forward,",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 612
+  },
+  {
+   "player": "Noah Clowney",
+   "said_as": "Noah Vonleh",
+   "horizon": "current",
+   "text": "His value is over because of the Randle trade. He has to battle Randle, Minott and Wolf at the four.",
+   "ts": "9:52",
+   "quote": "but it also kills Noah Vonleh. That's over.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 614
+  },
+  {
+   "player": "Egor Demin",
+   "said_as": "Yago de Sierra",
+   "horizon": "current",
+   "text": "Will handle the ball less with Randle in Brooklyn.",
+   "ts": "11:24",
+   "quote": "even like the point guards who would handle the ball, Yago de Sierra, man. Nolan Traore.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 686
+  },
+  {
+   "player": "Nolan Traore",
+   "said_as": "Nolan Traore",
+   "horizon": "current",
+   "text": "Will handle the ball less with Randle in Brooklyn.",
+   "ts": "11:24",
+   "quote": "Nolan Traore. Ben Uzoh to a lesser extent cuz he's worse.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 690
+  },
+  {
+   "player": "Josh Minott",
+   "said_as": "Josh Minott",
+   "horizon": "current",
+   "text": "His chances of coming back and getting a role are hurt because the Nets frontcourt is now more crowded.",
+   "ts": "11:24",
+   "quote": "potential handicap there on Josh Minott whether he was going to come back and get a role",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 707
+  },
+  {
+   "player": "Aday Mara",
+   "said_as": "Adam Mara",
+   "horizon": "current",
+   "text": "If Brooklyn takes him at pick six and he starts at an open center spot, that would be an instant fantasy boost.",
+   "ts": "11:55",
+   "quote": "Cuz if Mara gets that and then starts, that would be an instant fantasy boon.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 724
+  },
+  {
+   "player": "Nic Claxton",
+   "said_as": "Claxton",
+   "horizon": "durable",
+   "text": "His play has fallen off badly over the last two to three seasons, and he couldn't block shots anymore. Speaker isn't sure whether he is washed.",
+   "ts": "14:00",
+   "quote": "Now Claxton's play has deteriorated a huge degree over the last two to three seasons.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 850
+  },
+  {
+   "player": "Nic Claxton",
+   "said_as": "Claxton",
+   "horizon": "current",
+   "text": "Speaker has a bit more faith in him in Chicago. The move improves his outlook slightly.",
+   "ts": "15:31",
+   "quote": "So, I think this improves Claxton Claxton's outlook slightly.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 934
+  },
+  {
+   "player": "Leonard Miller",
+   "said_as": "Leonard Miller",
+   "horizon": "current",
+   "text": "Looked good at the end of last season. With Caleb Wilson, Buzelis and Claxton ahead of him, he doesn't have a clear path to a role.",
+   "ts": "15:01",
+   "quote": "The pathway for Miller is not super clear.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 911
+  },
+  {
+   "player": "Jalen Smith",
+   "said_as": "Smith",
+   "horizon": "current",
+   "text": "Goes back to being a backup center behind Claxton. His March and April numbers shouldn't be trusted.",
+   "ts": "15:01",
+   "quote": "And Smith, of course, just goes back to being a backup now.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 914
+  },
+  {
+   "player": "Matas Buzelis",
+   "said_as": "matters Bjelica",
+   "horizon": "current",
+   "text": "Claxton's arrival likely pushes him down to the three, with Caleb Wilson at the four.",
+   "ts": "14:00",
+   "quote": "It's going to push a lot of matters Bjelica down to the three with likely Caleb Wilson at the four.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 841
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Trading Randle was a salary dump that didn't cost them assets. They gave up pick 28 for pick 33 and gained cap flexibility. They still need guard help because DiVincenzo is out next season.",
+   "ts": "4:10",
+   "quote": "They need to do something guard-wise cuz of course there's no Donte DiVincenzo next season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 263
+  },
+  {
+   "team": "MIN",
+   "horizon": "current",
+   "text": "They lost two ball handlers and replaced them with nobody, so the roster is far from set.",
+   "ts": "5:44",
+   "quote": "Minnesota's roster is very far from set. You're losing two ball handlers and replacing them with zero.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 345
+  },
+  {
+   "team": "BKN",
+   "horizon": "current",
+   "text": "The Nets will still be bad and will likely keep making moves. Their center spot is wide open.",
+   "ts": "9:52",
+   "quote": "I think Brooklyn's still going to be active in making moves. They're still",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 620
+  },
+  {
+   "team": "CHI",
+   "horizon": "current",
+   "text": "Speaker calls getting Claxton shrewd work, since the Bulls had no real center beyond Zach Collins or Jalen Smith. The Bulls project to be bad.",
+   "ts": "13:28",
+   "quote": "it's shrewd work from the Bulls. They're going to be bad, but they didn't really have a center.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 829
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Claxton's play, especially his shot blocking, has fallen off sharply over the last two to three seasons.",
+   "ts": "14:00",
+   "quote": "Now Claxton's play has deteriorated a huge degree over the last two to three seasons.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 850
+  },
+  {
+   "text": "Michael Porter Jr.'s usage went way up with the Nets.",
+   "ts": "10:22",
+   "quote": "So, Porter saw his usage go through the roof.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 633
+  },
+  {
+   "text": "Leonard Miller and Jalen Smith put up good numbers in March and April.",
+   "ts": "15:01",
+   "quote": "Miller and like like Smith who put up good numbers in March and April.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 919
+  },
+  {
+   "text": "ESPN's early rankings have Donte DiVincenzo at number 77.",
+   "ts": "12:26",
+   "quote": "Donte DiVincenzo sits at number 77. The guy that's out for the season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 753
+  }
+ ]
+}

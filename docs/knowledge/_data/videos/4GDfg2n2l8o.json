@@ -1,0 +1,561 @@
+{
+ "video": {
+  "id": "4GDfg2n2l8o",
+  "title": "These NBA Roles Will Decide Fantasy Basketball Drafts",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-06-30",
+  "duration": "26:50",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T11:05:21+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.2284398,
+  "duration_ms": 61043
+ },
+ "summary": "Josh Lloyd, recording the day before NBA free agency opened, goes through the roster situations that could change fantasy value during the player movement period. He covers three open lead creation roles: Charlotte after the LaMelo Ball and Miles Bridges trades, Milwaukee after losing Giannis, and Memphis after losing Ja Morant. He then looks at center situations in Brooklyn, Detroit, the Clippers, Golden State and Boston, and forward situations in Minnesota, the Lakers and Golden State, plus a possible knock-on effect in Washington. His main point is that we think we know the answers in most of these spots, but the teams are still in flux. One trade can change everything, so don't overreact to single moves.",
+ "rules": [
+  {
+   "text": "Two signs of a year three or year four star leap are a higher free throw rate and a higher assist rate, even for players who are not point guards.",
+   "ts": "4:18",
+   "quote": "increase in assist rate even if you're not a point guard.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 258
+  },
+  {
+   "text": "Early in free agency, don't overreact to single moves. More trades can change the picture quickly.",
+   "ts": "25:42",
+   "quote": "And it's why like overreactions to individual moves, yeah, can often lead you astray.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1549
+  },
+  {
+   "text": "Per-minute big men pile up numbers, but they only have fantasy value if they get enough minutes. Watch for spots where a lack of depth forces those minutes on them.",
+   "ts": "18:25",
+   "quote": "just not good enough to get enough minutes usually. But what if they're in a position",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1105
+  },
+  {
+   "text": "A late-round big is only worth drafting if he can reach about 30 minutes. If his minutes get split down to around 22, he is useless.",
+   "ts": "17:55",
+   "quote": "if he's got 30 minute only upside that can push to 22 because they want to split",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1075
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Brandon Miller",
+   "team": "CHA",
+   "said_as": "Brandon Miller",
+   "horizon": "current",
+   "text": "Miller is a candidate to take on more of the creation role after LaMelo Ball left. The question is whether he can become a 30-plus usage player with about five assists and six or seven free throw attempts per game.",
+   "ts": "4:18",
+   "quote": "So, can Miller become a 30 plus usage guy with five assists attempting six, seven free throws per game?",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 259
+  },
+  {
+   "player": "Coby White",
+   "team": "CHA",
+   "said_as": "Kobe White",
+   "horizon": "current",
+   "text": "White re-signed and is expected to start at point guard, but he will not take over all of LaMelo Ball's role.",
+   "ts": "4:18",
+   "quote": "Will Kobe White because Kobe White's not taking all of LaMelo's role?",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 267
+  },
+  {
+   "player": "Kon Knueppel",
+   "team": "CHA",
+   "said_as": "Areola conquer nipple",
+   "horizon": "current",
+   "text": "Knueppel is one of the candidates to pick up creation duties in Charlotte. The speaker thinks the Hornets trust the White, Miller and Knueppel combination.",
+   "ts": "4:18",
+   "quote": "they don't trust the White Miller Canipple combination? Now, I I think they actually do trust",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 281
+  },
+  {
+   "player": "Ryan Rollins",
+   "team": "MIL",
+   "said_as": "Ryan Rollins",
+   "horizon": "current",
+   "text": "Rollins was excellent last season and was a top 50 fantasy player with Giannis out for most of it. His outlook is uncertain because of Tyler Herro, Kevin Porter Jr. and possible trades. He is on a cheap contract and could bring back one or two first-round picks in a trade.",
+   "ts": "6:23",
+   "quote": "He's an excellent player. He was a top 50 fantasy guy without Jiannis there most of the season",
+   "value_hint": "top 50 last season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 398
+  },
+  {
+   "player": "Tyler Herro",
+   "team": "MIL",
+   "said_as": "Tyler Hiro",
+   "horizon": "current",
+   "text": "Herro is now in Milwaukee and should take on some of the creation role, but he could be traded again.",
+   "ts": "5:18",
+   "quote": "So Tyler Herro will take on some of this creation role. But does he even stay on the team?",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 336
+  },
+  {
+   "player": "Kevin Porter Jr.",
+   "team": "MIL",
+   "said_as": "Kevin Porter Jr.",
+   "horizon": "current",
+   "text": "Porter is back in Milwaukee after missing most of last season. If Rollins and Herro were moved, the role could be all his.",
+   "ts": "5:50",
+   "quote": "move off of hero and Rollins and then it's all Porter.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 362
+  },
+  {
+   "player": "Ty Jerome",
+   "team": "MEM",
+   "said_as": "Milk Jerome",
+   "horizon": "current",
+   "text": "With Ja Morant gone, Jerome is probably Memphis's starting point guard and seems to lead for that job, but nothing is guaranteed.",
+   "ts": "7:58",
+   "quote": "It seems like he's got to be the leader in that position, but it's also not like remotely close",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 478
+  },
+  {
+   "player": "Cameron Boozer",
+   "team": "MEM",
+   "said_as": "Boozer / Kambooza",
+   "horizon": "current",
+   "text": "Boozer probably takes on the first or second playmaking role in Memphis and should see his assist rate go up.",
+   "ts": "7:25",
+   "quote": "Does Boozer just take on the number one or number two playmaking role? Probably also probably",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 452
+  },
+  {
+   "player": "Day'Ron Sharpe",
+   "team": "BKN",
+   "said_as": "Don Sharp",
+   "horizon": "durable",
+   "text": "Sharpe is a per-minute monster who has rarely had the chance to start. He was a big field goal percentage player, his blocks were poor, and he averaged about 9 points, 7 rebounds and 2 assists in 19 minutes.",
+   "ts": "11:40",
+   "quote": "Perm minute monster. If only he could start.\" Yet, we've never really had the opportunity to see him starting.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 701
+  },
+  {
+   "player": "Day'Ron Sharpe",
+   "team": "BKN",
+   "said_as": "Don Sharp",
+   "horizon": "current",
+   "text": "Sharpe is the assumed starting center now that Nic Claxton is gone. At 26 minutes a night he would be a top 100 player. Nine-cat rankings will inflate him to look like a top 20 player, which he won't be.",
+   "ts": "12:10",
+   "quote": "But if we just give him 26 a night, he's going to be a top 100 player.",
+   "value_hint": "top 100 with 26 minutes; overrated in 9-cat rankings",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 734
+  },
+  {
+   "player": "Danny Wolf",
+   "team": "BKN",
+   "said_as": "Danny Wolf / woof",
+   "horizon": "durable",
+   "text": "Wolf is a poor efficiency player across the board. He could end up as Brooklyn's starting center instead of Sharpe.",
+   "ts": "11:40",
+   "quote": "Danny Wolf, although he's a pretty poor efficiency guy right across the board.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 726
+  },
+  {
+   "player": "Paul Reed",
+   "team": "DET",
+   "said_as": "Paul Reed",
+   "horizon": "durable",
+   "text": "Reed is a per-minute beast who can't carry a 30-minute starter's load. He was excellent in the playoffs.",
+   "ts": "14:46",
+   "quote": "But he can't carry a 30-minute load as a starter. He was excellent in the playoffs.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 895
+  },
+  {
+   "player": "Paul Reed",
+   "team": "DET",
+   "said_as": "Paul Reed",
+   "horizon": "current",
+   "text": "Reed is currently Detroit's only center. As the clear starter he would be draftable, but Detroit is very unlikely to enter the season with him as its starting or only center.",
+   "ts": "14:46",
+   "quote": "if he was the unquestioned starter, Paul Reed would very clearly be a fantasy draftable guy",
+   "value_hint": "draftable only if starter",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 899
+  },
+  {
+   "player": "Jalen Duren",
+   "team": "DET",
+   "said_as": "Jaylen Duran",
+   "horizon": "current",
+   "text": "Duren had a very good regular season, a horrendous playoffs, and is unsigned. Rumors include the Lakers and a sign-and-trade with the Kings for Domantas Sabonis. The speaker would rather have Duren than Sabonis.",
+   "ts": "15:49",
+   "quote": "I'd rather have Duran than Sabonis personally.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 964
+  },
+  {
+   "player": "Domantas Sabonis",
+   "team": "SAC",
+   "said_as": "Damont Sabonis",
+   "horizon": "current",
+   "text": "Sabonis would start in Detroit if the rumored Duren sign-and-trade happens. If he leaves Sacramento, usage and ball handling would shift toward Keegan Murray and others.",
+   "ts": "15:18",
+   "quote": "Sabonis would move into Detroit. He'd be the starter. Reed would just go back to being the backup.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 941
+  },
+  {
+   "player": "Isaiah Stewart",
+   "team": "MEM",
+   "said_as": "Isaiah Stewart",
+   "horizon": "current",
+   "text": "Stewart is now in Memphis as a backup center and possible starter if Zach Edey is not healthy.",
+   "ts": "14:16",
+   "quote": "he's in Memphis now to be their perhaps starter if Edy's not healthy and backup center.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 853
+  },
+  {
+   "player": "Brook Lopez",
+   "team": "LAC",
+   "said_as": "Brook Lopez",
+   "horizon": "current",
+   "text": "Lopez is pretty washed and dropped off badly last season. At 30 minutes he is a late-round draftable player. If his minutes get split down to 22, he is useless.",
+   "ts": "17:23",
+   "quote": "30 minutes of Brook Lopez probably is okay as a late round fantasy draftable guy,",
+   "value_hint": "late round if 30 minutes",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1069
+  },
+  {
+   "player": "Yanic Konan Niederhauser",
+   "team": "LAC",
+   "said_as": "Yanick Conan",
+   "horizon": "current",
+   "text": "Konan Niederhauser outplayed Lopez in big chunks of last season but broke his foot around March. He is probably unlikely to be ready for opening night and would be eased back slowly.",
+   "ts": "17:23",
+   "quote": "So, it's probably unlikely that Conan Neita is available for opening night.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1043
+  },
+  {
+   "player": "Isaiah Jackson",
+   "team": "LAC",
+   "said_as": "Isaiah Jackson",
+   "horizon": "durable",
+   "text": "Jackson is a per-minute beast who has struggled in nearly every opportunity he has gotten. He could be worth a look if the Clippers' center depth is just him and Lopez.",
+   "ts": "18:25",
+   "quote": "Might be worth looking at.",
+   "value_hint": "",
+   "verified": false,
+   "match_ratio": 0.0,
+   "seconds": 1105
+  },
+  {
+   "player": "Neemias Queta",
+   "team": "BOS",
+   "said_as": "Nomesh Kada / Kater",
+   "horizon": "current",
+   "text": "Queta was really good last season. If Boston doesn't bring in a better center and he plays about 29 minutes, he is a draftable player.",
+   "ts": "19:56",
+   "quote": "if you don't bring anyone else in and Kater's a 29 player, then yeah, we he's a draftable guy.",
+   "value_hint": "draftable at 29 minutes",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1199
+  },
+  {
+   "player": "Jaden McDaniels",
+   "team": "MIN",
+   "said_as": "Jaden McDaniels",
+   "horizon": "current",
+   "text": "McDaniels probably moves up to starting power forward. Minnesota has almost no frontcourt depth behind him.",
+   "ts": "20:27",
+   "quote": "Jaden McDaniels just shifts up now. He's the starting power for in all of these discussions,",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1231
+  },
+  {
+   "player": "Ayo Dosunmu",
+   "team": "MIN",
+   "said_as": "Iodumu / Dumu",
+   "horizon": "current",
+   "text": "Dosunmu probably starts, which would push Anthony Edwards to the three for good. If Minnesota brings in another forward, Dosunmu goes back to being a 30-minute bench player.",
+   "ts": "21:30",
+   "quote": "they start Iodumu in a role pushing Anthony Edwards permanently to the three, there's no depth.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1299
+  },
+  {
+   "player": "Joan Beringer",
+   "team": "MIN",
+   "said_as": "Yoan Ber",
+   "horizon": "current",
+   "text": "Beringer is Minnesota's backup center. The speaker thinks he will be a decent enough player, but he now has to play every night.",
+   "ts": "20:59",
+   "quote": "The backup is Yoan Ber who I think is going to be a decent enough player",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1259
+  },
+  {
+   "player": "Gui Santos",
+   "team": "GSW",
+   "said_as": "Geese Santos Alhala / Santos",
+   "horizon": "current",
+   "text": "Santos started for Golden State last season. There is almost no chance he starts if the rumored LeBron James and Anthony Davis moves happen.",
+   "ts": "24:09",
+   "quote": "There's almost no shot that Santos is going to be a starter if these things go on.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1470
+  },
+  {
+   "player": "Kyshawn George",
+   "team": "WAS",
+   "said_as": "Keshan George",
+   "horizon": "current",
+   "text": "If Anthony Davis leaves Washington, Alex Sarr starts at center and George gets a starting role again, which helps him.",
+   "ts": "25:11",
+   "quote": "Keshan George gets a starting role again next to AJ Debansa which helps Dansa, it helps George.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1524
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "CHA",
+   "horizon": "current",
+   "text": "Charlotte lost LaMelo Ball, a 30-plus usage player, and also traded Miles Bridges. Who takes over the lead creation role is an open question.",
+   "ts": "2:43",
+   "quote": "LaMelo Ball is a 30 plus usage player that is gone. We think we have the answers to the test",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 178
+  },
+  {
+   "team": "MIL",
+   "horizon": "current",
+   "text": "Milwaukee lost Giannis's 33% usage and Bobby Portis's shots. Herro, Rollins and Porter will compete for creation, and more trades are possible.",
+   "ts": "5:18",
+   "quote": "they lost 30 plus 33% usage from Yanni. They lost Bobby Poris's shot chucking ways.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 330
+  },
+  {
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Memphis now has a big opening with Ja Morant gone, a clear lack of guards, and few tradable assets.",
+   "ts": "7:25",
+   "quote": "But Memphis now has a distinct lack of guards. Did do they make other moves?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 460
+  },
+  {
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Atlanta's starters are relatively set: Nickeil Alexander-Walker, CJ McCollum, Jalen Johnson and Onyeka Okongwu. Jonathan Kuminga and Buddy Hield are probably gone.",
+   "ts": "8:29",
+   "quote": "But the team and their starters are set. It's Alexander Walker. It's CJ. It's Jaylen.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 526
+  },
+  {
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Brooklyn's center depth is thin: Sharpe, Wolf and Noah Clowney, plus small-ball minutes from Julius Randle and Josh Minott. The team could also be used as a dumping ground for other players.",
+   "ts": "13:15",
+   "quote": "I would doubt that the Nets go into the year only having Don Sharp and Danny Wolf",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 795
+  },
+  {
+   "team": "DET",
+   "horizon": "current",
+   "text": "Detroit's center spot is a huge unknown. Duren is unsigned, Stewart is gone, and Paul Reed is the only center left.",
+   "ts": "16:21",
+   "quote": "Duran is unsigned Stewart is gone Paul Reed is the only center and they almost certainly not going",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 989
+  },
+  {
+   "team": "LAC",
+   "horizon": "current",
+   "text": "The Clippers traded Ivica Zubac. Their center options are an aging Lopez, an injured Konan Niederhauser and Isaiah Jackson. A Kawhi Leonard trade could bring back a center.",
+   "ts": "17:23",
+   "quote": "Are they trading away Kawhi Leonard? And if they do, does that mean that a center comes back",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1059
+  },
+  {
+   "team": "GSW",
+   "horizon": "current",
+   "text": "Golden State has Horford and Porzingis at center and is rumored to be chasing LeBron James and Anthony Davis. That would crowd the frontcourt, and how they would run it is unclear.",
+   "ts": "23:38",
+   "quote": "How do you run a team with LeBron, AD, Draymond, Horford, Pzingis?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1427
+  },
+  {
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Boston could trade Jaylen Brown and might bring in a better center than Queta, which would change the whole team. The speaker says Vucevic was terrible last season.",
+   "ts": "19:26",
+   "quote": "what about with Boston? Are they trading Jaylen Brown? Is Donovan Klingan coming back?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1171
+  },
+  {
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Minnesota has almost no frontcourt depth. Their listed backup power forward, Kyle Anderson, is a free agent.",
+   "ts": "20:59",
+   "quote": "It's Kyle Anderson who's literally not on the team. He's a free agent.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1272
+  },
+  {
+   "team": "LAL",
+   "horizon": "current",
+   "text": "LeBron James and Rui Hachimura are both free agents. If neither returns, about 64 starting minutes are open at forward.",
+   "ts": "22:35",
+   "quote": "not back you're talking 64 minutes in the starting group and who's filling it.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1388
+  },
+  {
+   "team": "WAS",
+   "horizon": "current",
+   "text": "If Anthony Davis is traded, Alex Sarr starts at center. Butler is expected to miss most of the season.",
+   "ts": "25:11",
+   "quote": "things open up in Washington. So, Alex Sar is your starting center",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1518
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Brandon Miller had a 28% usage rate last season and averaged 3.5 assists in 30 minutes per game.",
+   "ts": "3:46",
+   "quote": "Miller already had a 28% usage last season and he averaged three and a half assists in his 30 minutes",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 224
+  },
+  {
+   "text": "Ryan Rollins had a 25% usage rate last season and averaged 5.5 assists and 1.5 steals while shooting 40% from three.",
+   "ts": "6:23",
+   "quote": "Rollins had a 25 usage last season. He averaged five and a half assists with one and a half steals",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 393
+  },
+  {
+   "text": "Ryan Rollins was a top 50 fantasy player last season.",
+   "ts": "6:23",
+   "quote": "He was a top 50 fantasy guy without Jiannis there most of the season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 400
+  },
+  {
+   "text": "Day'Ron Sharpe had a 21% usage rate, played 19 minutes a game, and was a top 150 player averaging about 9 points and 7 rebounds.",
+   "ts": "11:40",
+   "quote": "21 usage player, 19 minutes a game. He was a top 150 player in fantasy last season, averaging 9",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 707
+  },
+  {
+   "text": "Paul Reed was ranked about 200th in 14 minutes per game, with a steal and a block on about 62% shooting.",
+   "ts": "14:46",
+   "quote": "200th ranked player in 14 minutes, 85 and one with a steal and a block on 60",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 888
+  },
+  {
+   "text": "Day'Ron Sharpe re-signed with Brooklyn for two years and $20 million, with a team option.",
+   "ts": "13:15",
+   "quote": "declined his team option and brought him back two years 20 million with another team option.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 807
+  },
+  {
+   "text": "Kristaps Porzingis re-signed with Golden State for two years and $40 million.",
+   "ts": "18:56",
+   "quote": "Chris Porzingis is back for a $40 million two-year deal in Golden State.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1141
+  }
+ ]
+}

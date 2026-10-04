@@ -1,0 +1,689 @@
+{
+ "video": {
+  "id": "gJUBAJaHzlU",
+  "title": "Is Year 3 The Prime Breakout Time In The NBA? [Breakout Fantasy Basketball Players]",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-09-07",
+  "duration": "34:55",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T14:07:27+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.3359758,
+  "duration_ms": 91669
+ },
+ "summary": "Josh Lloyd looks at third-year players as fantasy breakout candidates. Data from 2022-23 through 2025-26 shows big jumps from year two to year three in top 50 finishes. Lately, though, more of the big breakouts happen in year two, and late-round flyers on third-year players have rarely paid off. He reviews last season's third-year class (Wembanyama, the Thompson twins, Keyonte George, Brandon Miller), then turns to the current third-year class, which he calls a weak draft class that is often priced wrong. He thinks Donovan Clingan, Alex Sarr and Stephon Castle (in category leagues) are overdrafted. He is skeptical of Kyshawn George, Reed Sheppard, Ajay Mitchell and Jared McCain. He likes Matas Buzelis, Zach Edey (if healthy) and Kel'el Ware as undervalued.",
+ "rules": [
+  {
+   "text": "In recent years the big breakouts have moved more to year two. Players who did not take a step in year two are the ones who tend to break out in year three.",
+   "ts": "2:04",
+   "quote": "over the last couple of years, we're getting more of the big improvements in year two",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 139
+  },
+  {
+   "text": "Big jumps in year four are unlikely for players who have shown nothing in their first three years.",
+   "ts": "2:35",
+   "quote": "a lot of those guys they haven't shown anything in the first three years. It is unlikely",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 157
+  },
+  {
+   "text": "Category-league breakouts are driven by efficiency at volume, a higher free throw attempt rate and a higher assist rate. Points leagues reflect these less.",
+   "ts": "5:44",
+   "quote": "can you get me 20% extra in terms of free throw attempts? And can you get me 25% extra on assist rate?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 360
+  },
+  {
+   "text": "Third-year players drafted inside the top 50 have not busted badly. Third-year players drafted between 101 and 150 made the top 100 only 13% of the time.",
+   "ts": "7:17",
+   "quote": "Only 13% of those guys drafted late as third round players made it into the top 100.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 442
+  },
+  {
+   "text": "Third-year players with no ADP almost never become top 100 players.",
+   "ts": "7:17",
+   "quote": "There's 157 of those guys. Less than 1% of them became top",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 464
+  },
+  {
+   "text": "For late-round flyers, look at opportunity and situation, and lean toward second-year players over third-year players.",
+   "ts": "7:48",
+   "quote": "lean more secondy year players because a flyer on a thirdyear guy towards the end of the draft",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 481
+  },
+  {
+   "text": "Beware of nine-cat fluffing. Straight nine-cat total rankings overrate players who are strong in only a few categories.",
+   "ts": "14:32",
+   "quote": "it's when you look at a straight nine capat ranking that tells you Jiannis is ranked 50th",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 896
+  },
+  {
+   "text": "ADP is an average, not a median. A player can often go earlier than his ADP number suggests.",
+   "ts": "15:34",
+   "quote": "Remember an ADP of 39 and a half means that he is going earlier than that pro",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 934
+  },
+  {
+   "text": "Taking a two-category player early leaves holes in your team that you then have to fix.",
+   "ts": "15:34",
+   "quote": "So it puts me in so many holes, giggity, that I have to get myself out",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 960
+  },
+  {
+   "text": "Yahoo auction price data currently differs a lot from snake-draft ADP data, so treat the two separately.",
+   "ts": "16:36",
+   "quote": "The data that Yahoo is giving at the moment is very different from snake draft ADAP data",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 998
+  },
+  {
+   "text": "Check the context behind stats. Numbers can be inflated when teammates are injured.",
+   "ts": "29:02",
+   "quote": "It was inflated by the fact that at the start of the year the Bronco was out",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1742
+  },
+  {
+   "text": "Some Yahoo ADPs are distorted by dynasty leagues where a player is drafted in only a small share of leagues. Ignore those.",
+   "ts": "32:41",
+   "quote": "Sometimes they're a little bit distorted by someone that gets drafted in like 2% of leagues",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1981
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Victor Wembanyama",
+   "team": "SAS",
+   "said_as": "Victor Webyama",
+   "horizon": "current",
+   "text": "He was drafted at two or three and finished around there. He expects the same this season.",
+   "ts": "10:53",
+   "quote": "he was drafted at two or three. He finished around that same area. It's going to be the same this season.",
+   "value_hint": "pick 2 to 3",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 663
+  },
+  {
+   "player": "Amen Thompson",
+   "team": "HOU",
+   "said_as": "Amen Thompson / a men",
+   "horizon": "current",
+   "text": "Taking him at 15 or 16 was a little early. He finished 26th, which was not a disaster.",
+   "ts": "11:26",
+   "quote": "which is was probably a little early, right? It was probably a little early but that's not a disaster pick",
+   "value_hint": "pick 15-16 a little early",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 699
+  },
+  {
+   "player": "Amen Thompson",
+   "team": "HOU",
+   "said_as": "a men",
+   "horizon": "current",
+   "text": "With Fred VanVleet back he may pass less, which could hurt his assists. His steals and blocks dropped while he played point guard and may come back up.",
+   "ts": "11:58",
+   "quote": "playing point guard, steals dropped, blocks dropped. Do they go back up?",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 721
+  },
+  {
+   "player": "Keyonte George",
+   "team": "UTA",
+   "said_as": "Keonte George",
+   "horizon": "current",
+   "text": "He was a huge payoff as a late flyer last season. The speaker worries about him a bit heading into year four.",
+   "ts": "12:28",
+   "quote": "Now I worry about him a little bit heading into year four, but he was the guy.",
+   "value_hint": "ADP 103 last season, finished 29th",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 748
+  },
+  {
+   "player": "Brandon Miller",
+   "team": "CHA",
+   "said_as": "Brandon Miller",
+   "horizon": "current",
+   "text": "He dipped slightly in year three. The speaker expects some improvement this season but says it is not guaranteed.",
+   "ts": "12:59",
+   "quote": "Now, again, we think he's going to improve a little bit more again this season, but it's not a guarantee.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 785
+  },
+  {
+   "player": "Ausar Thompson",
+   "team": "DET",
+   "said_as": "Asar Thompson",
+   "horizon": "current",
+   "text": "His minutes held him back. If he gets to 30 minutes he will be incredibly good.",
+   "ts": "13:31",
+   "quote": "Now if he gets to 30 minutes this season, he'll be incredibly good.",
+   "value_hint": "ADP 82 last season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 822
+  },
+  {
+   "player": "Donovan Clingan",
+   "team": "POR",
+   "said_as": "Don Klingan",
+   "horizon": "durable",
+   "text": "He is a two-category player (rebounds and blocks). His FG% and FT% are bad, his steals are very poor, and his assists and scoring are low.",
+   "ts": "15:04",
+   "quote": "Free throws bad. Steals putrid. Assists low. Scoring low. Two category player.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 922
+  },
+  {
+   "player": "Donovan Clingan",
+   "team": "POR",
+   "said_as": "Klingan",
+   "horizon": "current",
+   "text": "He is overdrafted at an ADP around 39. The speaker projects him at 75 to 95 and would not take him in round three.",
+   "ts": "15:34",
+   "quote": "I've got him projected in the 75 to 95 range. If you want to take him in the 60s, go for it.",
+   "value_hint": "ADP 39.5, projected 75-95, auction about $5",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 948
+  },
+  {
+   "player": "Stephon Castle",
+   "team": "SAS",
+   "said_as": "Stefan Castle",
+   "horizon": "durable",
+   "text": "His free throws are poor and his defensive stats are weak for a good defender. His assists are elite. His value depends on whether his three-point shooting holds.",
+   "ts": "17:10",
+   "quote": "Do you think that that 39 41% three-point shooting sticks or is he go back to a 33% guy?",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1036
+  },
+  {
+   "player": "Stephon Castle",
+   "team": "SAS",
+   "said_as": "Castle",
+   "horizon": "current",
+   "text": "If De'Aaron Fox is healthy and Dylan Harper plays more, Castle's assist chances may drop. He is decent value at ADP 56 in points leagues but the speaker avoids him in category leagues.",
+   "ts": "17:40",
+   "quote": "his ADP sits at 56, which is actually pretty good value in a points league",
+   "value_hint": "ADP 56, auction about $3, fade in categories",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1083
+  },
+  {
+   "player": "Matas Buzelis",
+   "team": "CHI",
+   "said_as": "Bizalis / much",
+   "horizon": "current",
+   "text": "The speaker projects him in the 40 to 60 range, probably top 50. He says his auction price should be about $20, not $4.",
+   "ts": "18:41",
+   "quote": "I've got him projected in the 40 to 60 range. Probably a top 50 player, but look at that.",
+   "value_hint": "ADP 58, projected 40-60, auction $4 should be $20",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1128
+  },
+  {
+   "player": "Matas Buzelis",
+   "team": "CHI",
+   "said_as": "Bizalis",
+   "horizon": "current",
+   "text": "With no Coby White, no Nikola Vucevic and no Billy Donovan, he expects big steps forward. He does not think the blocks will hold.",
+   "ts": "19:12",
+   "quote": "So, I'm expecting some big steps forward for Bizalis.",
+   "value_hint": "should be first player off the board from this class",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1156
+  },
+  {
+   "player": "Alex Sarr",
+   "team": "WAS",
+   "said_as": "Alexar / Sar",
+   "horizon": "current",
+   "text": "Regression is coming because Anthony Davis, Trae Young and AJ Dybantsa join the team. He will get fewer rim contests and block chances, and it is hard to see his usage going up.",
+   "ts": "19:43",
+   "quote": "To me, regression is coming. Why? Anthony Davis and Tray Young play on this team.",
+   "value_hint": "ADP 60, auction $19, avoid",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1188
+  },
+  {
+   "player": "Alex Sarr",
+   "team": "WAS",
+   "said_as": "Sar",
+   "horizon": "current",
+   "text": "The speaker calls him a waste of a pick at 60 and will not touch him.",
+   "ts": "20:14",
+   "quote": "This is a waste of a pick at 60. I I will not",
+   "value_hint": "waste at 60",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1239
+  },
+  {
+   "player": "Zach Edey",
+   "team": "MEM",
+   "said_as": "Zach Edi / Edy",
+   "horizon": "durable",
+   "text": "He has had multiple ankle and foot surgeries, so health is the big concern.",
+   "ts": "20:44",
+   "quote": "Multiple ankle and foot surgeries. He averaged 12 and 11",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1271
+  },
+  {
+   "player": "Zach Edey",
+   "team": "MEM",
+   "said_as": "Edy",
+   "horizon": "durable",
+   "text": "Compared with Clingan, he has elite FG% and very good FT%, scores more, blocks more and rebounds about the same.",
+   "ts": "21:16",
+   "quote": "he has absolutely elite field goal percentage and extraordinarily good free throw percentage while scoring more points",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1278
+  },
+  {
+   "player": "Zach Edey",
+   "team": "MEM",
+   "said_as": "Edy",
+   "horizon": "current",
+   "text": "If he played 30 minutes he would be the best fantasy player in this class. The speaker would take him as a flyer in rounds 6 to 8 because of health risk.",
+   "ts": "21:46",
+   "quote": "maybe even six seven those sort of rounds but it's all health related. It's all health related.",
+   "value_hint": "ADP 70, auction $1, flyer rounds 6-8",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1306
+  },
+  {
+   "player": "Kel'el Ware",
+   "team": "MIA",
+   "said_as": "Superman Callware / Calloware / wear",
+   "horizon": "current",
+   "text": "He is underpriced at ADP 75. The speaker sees him in the 60 to 80 range and is confident he will play more than 22 minutes a night.",
+   "ts": "24:22",
+   "quote": "I feel pretty confident that Superman is going to play more than 22 minutes a night.",
+   "value_hint": "ADP 75, projected 60-80, auction $1",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1480
+  },
+  {
+   "player": "Kel'el Ware",
+   "team": "MIA",
+   "said_as": "wear",
+   "horizon": "current",
+   "text": "If he plays 30 minutes a night, the speaker sees him as a top 40 player.",
+   "ts": "25:23",
+   "quote": "That's a top 40 player even without fluffing the night.",
+   "value_hint": "top 40 upside",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1526
+  },
+  {
+   "player": "Kyshawn George",
+   "team": "WAS",
+   "said_as": "Keshan George",
+   "horizon": "current",
+   "text": "His blocks are good for his position, but with Trae Young, Anthony Davis and AJ Dybantsa added, he is unlikely to repeat last season. ADP 112 is marginally high.",
+   "ts": "25:54",
+   "quote": "But now Trey Young, Anthony Davis, AJ Devansa, all exist. His ADP is at 112",
+   "value_hint": "ADP 112, marginally high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1554
+  },
+  {
+   "player": "Reed Sheppard",
+   "team": "HOU",
+   "said_as": "Reed Shepard / Repher",
+   "horizon": "current",
+   "text": "With VanVleet back and Marcus Smart and Bogdan Bogdanovic added, the speaker thinks Sheppard probably goes backwards. He says Udoka does not like him.",
+   "ts": "27:29",
+   "quote": "I think he probably goes backwards because it was clear that Ioka does not like him.",
+   "value_hint": "ADP 116",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1671
+  },
+  {
+   "player": "Reed Sheppard",
+   "team": "HOU",
+   "said_as": "Reed",
+   "horizon": "current",
+   "text": "As a 30-minute starter he could be a clear top 50 player, but the speaker does not see that role.",
+   "ts": "27:59",
+   "quote": "And I actually think that Reed can be a clear top 50 player if he was to be a 30-minute night starter.",
+   "value_hint": "top 50 upside if he starts",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1679
+  },
+  {
+   "player": "Ajay Mitchell",
+   "team": "OKC",
+   "said_as": "AJ Mitchell",
+   "horizon": "current",
+   "text": "His numbers last season were inflated by injuries to teammates. The speaker does not think he will start over Cason Wallace.",
+   "ts": "29:02",
+   "quote": "But I don't think that Mitchell's going to start. There is still Kase Wallace",
+   "value_hint": "ADP 118",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1764
+  },
+  {
+   "player": "Ajay Mitchell",
+   "team": "OKC",
+   "said_as": "AJ Mitchell",
+   "horizon": "durable",
+   "text": "He has no clear standout fantasy skill, though his 49% FG and 87% FT shooting is very good.",
+   "ts": "30:05",
+   "quote": "I'll ask you a question. What does AJ Mitchell do well?",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1810
+  },
+  {
+   "player": "Ajay Mitchell",
+   "team": "OKC",
+   "said_as": "AJ Mitchell",
+   "horizon": "current",
+   "text": "Liking him is trendy, but late flyers like him rarely work out.",
+   "ts": "30:37",
+   "quote": "So, it's very trendy to love AJ Mitchell",
+   "value_hint": "late flyer at most",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1865
+  },
+  {
+   "player": "Pelle Larsson",
+   "team": "MIA",
+   "said_as": "Palen / Pella Larson",
+   "horizon": "durable",
+   "text": "He gets almost no steals and his free throws are low, but his overall shooting was good at 50%.",
+   "ts": "31:38",
+   "quote": "Part of the difference there is he just doesn't get any steals and his free throws are way lower",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1902
+  },
+  {
+   "player": "Pelle Larsson",
+   "team": "MIA",
+   "said_as": "Pella",
+   "horizon": "current",
+   "text": "The speaker liked him as a late-round pick, but Klay Thompson's signing lowers his minutes upside.",
+   "ts": "32:41",
+   "quote": "but the minutes upside is not quite as high anymore.",
+   "value_hint": "no ADP, late-round pick",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1967
+  },
+  {
+   "player": "Jared McCain",
+   "team": "OKC",
+   "said_as": "Jared McCain",
+   "horizon": "current",
+   "text": "He is overrated for fantasy. He only scores and will still be behind Wallace and Mitchell.",
+   "ts": "33:13",
+   "quote": "He scores and that's it. Doesn't do anything else and he's still going to be behind Wallace and Mitchell",
+   "value_hint": "ADP 100, overrated",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2011
+  },
+  {
+   "player": "Jaylon Tyson",
+   "team": "CLE",
+   "said_as": "Jaylen Tyson",
+   "horizon": "current",
+   "text": "He is a possible flyer if his role grows in Cleveland.",
+   "ts": "33:43",
+   "quote": "Maybe Jaylen Tyson if you think that his role expands in Cleveland",
+   "value_hint": "flyer",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2038
+  },
+  {
+   "player": "Daniss Jenkins",
+   "team": "DET",
+   "said_as": "Dennis Jenkins",
+   "horizon": "current",
+   "text": "He is a flyer only if he starts in Detroit, which the speaker does not expect.",
+   "ts": "33:43",
+   "quote": "Dennis Jenkins if you think he's going to start in Detroit, which I don't think he will.",
+   "value_hint": "flyer",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2045
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "WAS",
+   "horizon": "current",
+   "text": "The Wizards added Anthony Davis, Trae Young and AJ Dybantsa, all of whom missed last season. This cuts into the roles of the young players.",
+   "ts": "19:43",
+   "quote": "Anthony Davis and Tray Young play on this team. So does AJ Dansa.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1192
+  },
+  {
+   "team": "WAS",
+   "horizon": "current",
+   "text": "The fifth starter spot is unclear, with many wings competing.",
+   "ts": "26:26",
+   "quote": "fifth starter or is it Will Riley or is it Bob Carrington? Lol.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1586
+  },
+  {
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Fred VanVleet returns, and the Rockets added Marcus Smart and Bogdan Bogdanovic. The guard rotation is crowded.",
+   "ts": "27:29",
+   "quote": "not only does Fred Vanble return, but they added Marcus Smart. They added Bogdan Bogdanovic.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1659
+  },
+  {
+   "team": "CHI",
+   "horizon": "current",
+   "text": "Coby White, Nikola Vucevic and Billy Donovan are gone, which opens up the young players' roles.",
+   "ts": "19:12",
+   "quote": "And there's no Billy Donovan playing him 28 minutes a night.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1152
+  },
+  {
+   "team": "OKC",
+   "horizon": "current",
+   "text": "OKC lost Lu Dort, Andrew Wiggins (as said by the speaker) and Joe, but the rotation stays deep.",
+   "ts": "29:02",
+   "quote": "Now they did lose Dort obviously they lost Wiggins and Joe is gone.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1758
+  },
+  {
+   "team": "MIA",
+   "horizon": "current",
+   "text": "Miami traded away Jaime Jaquez Jr. and signed Klay Thompson.",
+   "ts": "32:09",
+   "quote": "especially after losing well not losing sending away Hero Hakez Yakuchon where he's going to have to do more",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1931
+  },
+  {
+   "team": "SAS",
+   "horizon": "current",
+   "text": "De'Aaron Fox's health and Dylan Harper's minutes affect Castle's assist chances.",
+   "ts": "17:40",
+   "quote": "Darren Fox isn't battling a hamstring injury all season, again, does he maintain seven and a half assists.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1060
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "From 2022-23 to 2025-26, three first-year, eight second-year and 16 third-year players finished top 50 in H2H category leagues.",
+   "ts": "3:07",
+   "quote": "three players in head-to-head leagues finish in the top 50. three players only. After their second year",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 201
+  },
+  {
+   "text": "Wembanyama's category rank went from 4th in year two to 6th in year three.",
+   "ts": "10:53",
+   "quote": "I think he went from fourth in year two to sixth",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 659
+  },
+  {
+   "text": "Amen Thompson had an ADP of 23 and finished 26th in categories and 35th in points.",
+   "ts": "10:53",
+   "quote": "His ADP was 23. And I know people are going to say that he was pretty disappointing.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 676
+  },
+  {
+   "text": "Keyonte George had an ADP of 103 and finished 29th in categories and 39th in points.",
+   "ts": "11:58",
+   "quote": "He ended up as the 29th ranked player in category leagues and 39th in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 741
+  },
+  {
+   "text": "Ausar Thompson had an ADP of 82 and finished 93rd in categories and 111th in points.",
+   "ts": "13:31",
+   "quote": "but he finished 93rd overall in in category and 111th in points league.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 813
+  },
+  {
+   "text": "Clingan ranked 83rd in categories last season and averaged 12 points and 12 rebounds.",
+   "ts": "14:32",
+   "quote": "Klingan was 83rd last season, 64th in point six.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 880
+  },
+  {
+   "text": "Castle was 51st in points leagues and 86th in category leagues last season.",
+   "ts": "16:36",
+   "quote": "Castle was 51st in points leagues last season, 86th in category leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1010
+  },
+  {
+   "text": "Sarr led the league in contests at the rim by a wide margin last season.",
+   "ts": "20:14",
+   "quote": "Sar led the league in contests at the rim by an absolute country mile last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1221
+  },
+  {
+   "text": "Edey was 61st per game in categories and 80th in points leagues last season.",
+   "ts": "20:44",
+   "quote": "61st in per game, 80th in points leagues last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1248
+  },
+  {
+   "text": "Ware averaged 11 points, 9 rebounds, a block and a three, shooting 53% FG and 75% FT in 22 minutes.",
+   "ts": "23:51",
+   "quote": "He averaged 11 and N with a block, a three, shot 53 and 75 from the field",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1446
+  },
+  {
+   "text": "Sheppard ranked 28th in straight nine-cat totals, averaging 13.3 points, 3 assists and 1.5 steals.",
+   "ts": "26:56",
+   "quote": "Repher was 28th averaging 133 and three with one and a half steals.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1631
+  },
+  {
+   "text": "Ajay Mitchell averaged 13 points and 4 assists in 26 minutes and was 128th in categories and points.",
+   "ts": "29:34",
+   "quote": "last season 13 and four but they're fine.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1776
+  },
+  {
+   "text": "Pelle Larsson was 239th in year two, averaging 11.3 points and 3 assists on 50% shooting.",
+   "ts": "31:38",
+   "quote": "He was 239th in year two, averaging 113 and three",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1898
+  }
+ ]
+}

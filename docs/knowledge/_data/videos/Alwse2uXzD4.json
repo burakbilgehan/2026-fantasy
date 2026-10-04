@@ -1,0 +1,591 @@
+{
+ "video": {
+  "id": "Alwse2uXzD4",
+  "title": "The Big Differences Between Category & Points Leagues [Fantasy Basketball]",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-08-30",
+  "duration": "37:21",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T14:05:33+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.26029579999999997,
+  "duration_ms": 65171
+ },
+ "summary": "Josh Lloyd explains how points leagues and category leagues value players differently. He argues that site rankings and ADP don't mean much unless you know which format they reflect. In points leagues, scoring volume, usage and minutes drive value, and defensive stats count for much less. He compares Yahoo, ESPN and Sleeper default points scoring: ESPN penalizes missed shots and gives more for defense and threes, while Sleeper's bonuses make no sense to him. He then lists players who are better in points leagues (Paolo Banchero, RJ Barrett, Stephon Castle, Nic Claxton, Jalen Brunson, Zion Williamson) and players who are better in category leagues (Steph Curry, Herbert Jones, Mark Williams, Jaren Jackson Jr., Paul George, Cason Wallace). He also covers who is better on Yahoo points scoring and who is better on ESPN points scoring. His main point is that whether a player is a sleeper or a bust depends on your league format.",
+ "rules": [
+  {
+   "text": "Rankings without a format attached are useless. Value differs across head-to-head categories, roto, Yahoo points, ESPN points and Sleeper.",
+   "ts": "1:05",
+   "quote": "Oh, he's ranked here. Is he? But like in what format? head-to-head categories, Yahoo points, rotisserie, ESPN points",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 78
+  },
+  {
+   "text": "The Yahoo X rank (expert rank) does not clearly reflect points value or category value. It often floats somewhere in between.",
+   "ts": "2:08",
+   "quote": "list that says X rank X, that stands for expert. Wow, these guys are experts.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 128
+  },
+  {
+   "text": "Don't follow a prescribed pick list. Every draft decision depends on who is still available, so build understanding instead.",
+   "ts": "3:14",
+   "quote": "Because if the second guy that I told you to take, what if there's four other players",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 207
+  },
+  {
+   "text": "No scoring format captures true universal value.",
+   "ts": "4:15",
+   "quote": "You You don't because there's no such thing as true universal value.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 277
+  },
+  {
+   "text": "In a standard 150-player league, the average player gives about 18 fantasy points from scoring, 5.2 from assists, 3 from steals and about 2 from blocks. Scoring dominates points leagues.",
+   "ts": "5:19",
+   "quote": "So an average player in scoring gets you 18 fantasy points through their scoring. An average player in assists get you five.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 339
+  },
+  {
+   "text": "Usage, minutes and scoring drive points leagues, so volume is key. Defense is downplayed.",
+   "ts": "6:59",
+   "quote": "Usage, minutes, and scoring drive points leagues. Again, this is I don't I don't I don't think",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 427
+  },
+  {
+   "text": "Yahoo default points scoring has no penalty for missed shots. ESPN gives -1 per field goal and free throw attempt, gives 4 points per steal or block instead of 3, and adds a bonus for threes. A made three is worth 5 points on ESPN.",
+   "ts": "9:05",
+   "quote": "Every shot that you attempt is a negative one. Every free throw you attempt is a negative one.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 545
+  },
+  {
+   "text": "In points leagues, you just need the player who scores the most fantasy points. It doesn't matter how he gets them, so don't chase specific skills like assists.",
+   "ts": "10:36",
+   "quote": "It literally does not matter how they get their points.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 657
+  },
+  {
+   "text": "Fantasy points built mostly on defensive stats are less reliable than points built on scoring. Scoring repeats more consistently game to game.",
+   "ts": "11:11",
+   "quote": "is worse than a player that gets 20 fantasy points based 60% on their scoring because scoring is more repeatable",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 678
+  },
+  {
+   "text": "The speaker dislikes Sleeper's default scoring. It includes binary double-double and triple-double bonuses, a 40-point bonus and penalties for technicals and flagrants, which are unprojectable.",
+   "ts": "12:16",
+   "quote": "I don't like having categories that or even scoring things that are binary like double doubles and triple doubles",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 741
+  },
+  {
+   "text": "ADP often mixes owners drafting for points with owners drafting for categories. In category leagues, players whose ADP leans toward their points value can be targets.",
+   "ts": "18:32",
+   "quote": "I guess half the people are drafting like it's a points league and half are drafting like it's a category league.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1112
+  },
+  {
+   "text": "Players whose main contribution is scoring, with weak defensive stats and lower efficiency, are better in points leagues than category leagues.",
+   "ts": "20:41",
+   "quote": "If you score as your main thing and have troubles with low defensive stats and",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1235
+  },
+  {
+   "text": "Default rule: rookie guards and wings are better in points leagues.",
+   "ts": "20:41",
+   "quote": "if it's guards and they're rookies or wings, an easy default rule is better in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1247
+  },
+  {
+   "text": "Inefficient, defense-light scorers are worth relatively more in Yahoo points leagues than in ESPN points leagues, because ESPN penalizes misses and values defense more.",
+   "ts": "30:29",
+   "quote": "given ESPN has penalties for miss shots and values defensive stats more",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1846
+  },
+  {
+   "text": "Labels like overrated, sleeper or bust mean nothing unless you know which format they come from.",
+   "ts": "35:20",
+   "quote": "Don't listen to overrated sleeper bust without understanding where that idea is coming from.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2154
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Stephen Curry",
+   "said_as": "Steph Curry",
+   "team": "GSW",
+   "horizon": "current",
+   "text": "Ranked 10th per game in his head-to-head category ranking but only 35th in Yahoo points. Worth a late-first-round pick in categories, top 15 at worst.",
+   "ts": "16:58",
+   "value_hint": "10th cats, 35th Yahoo points; Yahoo ADP 23, rank 25",
+   "quote": "So I could argue that Steph is a first round player on the turn at least very worst top 15.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1030
+  },
+  {
+   "player": "Stephen Curry",
+   "said_as": "Steph",
+   "team": "GSW",
+   "horizon": "current",
+   "text": "Loves him at pick 30 in category leagues. In points leagues, given the age and injury risk, he would not take him there.",
+   "ts": "35:54",
+   "value_hint": "good value at pick 30 in cats",
+   "quote": "Steph at pick 30. I love that. in a category league in a points league given the risk of agent injury",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2172
+  },
+  {
+   "player": "Paolo Banchero",
+   "said_as": "Paulo Banchera / Parlo",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Ranked 26th for points leagues and 55th for category leagues. Better than Steph Curry in points leagues even though ADP doesn't show it.",
+   "ts": "17:30",
+   "value_hint": "26th points, 55th cats; Yahoo ADP 35, ESPN ADP 36",
+   "quote": "in points leagues, Parlo is better than Steph, but the ADP doesn't suggest that.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1070
+  },
+  {
+   "player": "Paolo Banchero",
+   "said_as": "Parlor",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "At pick 50 he is a huge sleeper in Yahoo points, a moderate sleeper in ESPN points and not a sleeper in categories.",
+   "ts": "35:54",
+   "value_hint": "pick 50 is a big sleeper in Yahoo points",
+   "quote": "Cuz Parlor getting drafted at 50 is a gigantic sleeper in a Yahoo points league.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2160
+  },
+  {
+   "player": "RJ Barrett",
+   "said_as": "Rowan Barrett Jr. / RJ Barrett",
+   "team": "TOR",
+   "horizon": "current",
+   "text": "Top 90 in points leagues but outside the top 130 in category leagues. His Yahoo ADP of 107 is too high for categories.",
+   "ts": "19:35",
+   "value_hint": "top 90 points, outside 130 cats; Yahoo ADP 107, rank 123, ESPN ADP inside 100",
+   "quote": "he's Yahoo ADP is 107. It's in a category league. I don't that that's not fun.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1182
+  },
+  {
+   "player": "RJ Barrett",
+   "said_as": "RJ Barrett",
+   "team": "TOR",
+   "horizon": "durable",
+   "text": "Mainly a scorer with low defensive stats and lower efficiency. Better in points leagues.",
+   "ts": "20:41",
+   "value_hint": "",
+   "quote": "lower efficiency, you're going to be better in points leagues than category leagues. And that's RJ Barrett.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1241
+  },
+  {
+   "player": "Darius Acuff Jr.",
+   "said_as": "Darius Akuff Jr.",
+   "team": "",
+   "horizon": "current",
+   "text": "Rookie guard expected to take and miss a lot of shots. Probably scores over 15 a game but shoots under 40% from the field. Better in points leagues.",
+   "ts": "21:13",
+   "value_hint": "",
+   "quote": "he's probably going to score, let's say, over 15 a game and shoot under 40 from the field.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1273
+  },
+  {
+   "player": "Stephon Castle",
+   "said_as": "Steph Castle",
+   "team": "SAS",
+   "horizon": "current",
+   "text": "Top 50 in fantasy points but 85th in categories. At ESPN ADP 75 he is good value in points and about right in categories. He doesn't want him at his Yahoo ADP of 56 in categories.",
+   "ts": "21:50",
+   "value_hint": "top 50 points, 85th cats; Yahoo rank 70, ADP 56, ESPN 75",
+   "quote": "For category league, I've got him ranked at 85th. That's a big difference.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1310
+  },
+  {
+   "player": "Stephon Castle",
+   "said_as": "Steph Castle",
+   "team": "SAS",
+   "horizon": "durable",
+   "text": "Weak free throw shooting, weak field goal percentage and bad turnovers. A good defender who gets almost no defensive stats. He scores and gets some assists.",
+   "ts": "22:22",
+   "value_hint": "",
+   "quote": "I don't trust his free throws. I don't trust his field goals. If you're worried about turnovers, they're bad.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1321
+  },
+  {
+   "player": "Nic Claxton",
+   "said_as": "Nick Claxton",
+   "team": "BKN",
+   "horizon": "durable",
+   "text": "His blocks have dropped and he is a horrendous free throw shooter. Slightly better in points leagues.",
+   "ts": "22:54",
+   "value_hint": "",
+   "quote": "His blocks have dropped. He's a horrendous free throw shooter. He is to me slightly better in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1381
+  },
+  {
+   "player": "Jalen Brunson",
+   "said_as": "Jaylen Brunson",
+   "team": "NYK",
+   "horizon": "current",
+   "text": "A fourth-round player in category leagues but a second-round player in points leagues.",
+   "ts": "22:54",
+   "value_hint": "round 4 cats, round 2 points",
+   "quote": "Yeah, he is in a category league though, but in a points league, he's absolutely not. He's a round two",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1392
+  },
+  {
+   "player": "Zion Williamson",
+   "said_as": "Zion",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "Scores a lot with good field goal percentage, but rebounds are not great, he gets almost no steals or blocks, and his free throws can be rough. Much better in points leagues.",
+   "ts": "23:25",
+   "value_hint": "",
+   "quote": "He's usually got pretty good field goals, but rebounds not that good. Steals, blocks, absent, free throws can be rough.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1405
+  },
+  {
+   "player": "Onyeka Okongwu",
+   "said_as": "Jedi Ojenobi",
+   "team": "",
+   "horizon": "durable",
+   "text": "Name uncertain in the captions. Scores okay, is efficient, hits threes and gets steals and blocks. Leans toward category leagues.",
+   "ts": "25:35",
+   "value_hint": "",
+   "quote": "What about the Jedi Ojenobi? He can score",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1560
+  },
+  {
+   "player": "Herbert Jones",
+   "said_as": "Herbert Jones / Jonesy",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "Gets lots of steals, some blocks and the occasional three, but rarely shoots. Better in category leagues. The speaker doubts he is worth drafting in standard category leagues.",
+   "ts": "26:06",
+   "value_hint": "not worth drafting in standard cats",
+   "quote": "Herbert Jones, who honestly I don't think it's going to be worth drafting in standard category leagues",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1573
+  },
+  {
+   "player": "Mark Williams",
+   "said_as": "Mark Williams",
+   "team": "",
+   "horizon": "durable",
+   "text": "Low-usage big man who gets his value from high field goal percentage, good free throws and rebounds. Not a big shot blocker. Better in categories.",
+   "ts": "26:39",
+   "value_hint": "",
+   "quote": "He doesn't block tons of shots, but he's a big rebound guy, but he's low usage.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1605
+  },
+  {
+   "player": "Jaren Jackson Jr.",
+   "said_as": "Jiren Jackson",
+   "team": "",
+   "horizon": "current",
+   "text": "Ranked 36th in categories and outside the top 50 in Yahoo points. His ADP leans toward points value, so he is a target in category leagues about two rounds later.",
+   "ts": "27:10",
+   "value_hint": "36th cats; Yahoo rank 50, ADP 53, ESPN ADP 73",
+   "quote": "if you're drafting against a bunch of people who just look at ADP, this is a target for you.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1660
+  },
+  {
+   "player": "Paul George",
+   "said_as": "Paul George",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "A huge target this season as the clear number two option in Boston. Injuries are a concern. He could be a top 30 to 40 per-game player if you get him in the 80s.",
+   "ts": "27:40",
+   "value_hint": "top 30-40 per game, target in the 80s",
+   "quote": "Clear number two option in Boston. Injuries are a concern. Yeah, but I'm talking top 40, top 30 guy per game",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1676
+  },
+  {
+   "player": "Paul George",
+   "said_as": "Paul George",
+   "team": "BOS",
+   "horizon": "durable",
+   "text": "Contributes okay scoring, threes, rebounds, assists and steals, and is an excellent free throw shooter. Better in categories.",
+   "ts": "28:13",
+   "value_hint": "",
+   "quote": "assists, gets steals. Excellent free throw guy. He's not going to blow you away by being a 26 point",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1693
+  },
+  {
+   "player": "Cason Wallace",
+   "said_as": "Kase Wallace",
+   "team": "OKC",
+   "horizon": "current",
+   "text": "Almost certainly starts after the Thunder's departures. Barely top 150 in points leagues. His ADP of 114 matches his category value.",
+   "ts": "28:48",
+   "value_hint": "barely top 150 points; Yahoo rank 154, ADP 114 (fair for cats)",
+   "quote": "Wallace is almost certainly going to start, but I got him barely inside the top 150 for a points league.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1733
+  },
+  {
+   "player": "AJ Dybantsa",
+   "said_as": "AJ Debanser / AJ Dancer",
+   "team": "",
+   "horizon": "current",
+   "text": "Rookie who is better in Yahoo points than ESPN points because of ESPN's miss penalties and higher value on defense.",
+   "ts": "30:29",
+   "value_hint": "",
+   "quote": "Dance's value in a category or sorry, in a Yahoo points league is going to be higher than what it is",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1854
+  },
+  {
+   "player": "Jonathan Kuminga",
+   "said_as": "Jonathan Kaminga",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Will get more minutes and opportunities in Minnesota. Ranked 116 in Yahoo points, which matches his ADP. Better in Yahoo points than ESPN points.",
+   "ts": "31:00",
+   "value_hint": "116 Yahoo points, ADP 116, Yahoo rank 207, ESPN 138",
+   "quote": "But he's going to get more minutes and more opportunities in Minnesota.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1874
+  },
+  {
+   "player": "Jonathan Kuminga",
+   "said_as": "Jonathan Kaminga",
+   "team": "MIN",
+   "horizon": "durable",
+   "text": "A scorer who doesn't get defensive stats and sometimes struggles with free throws and three-point percentage.",
+   "ts": "31:33",
+   "value_hint": "",
+   "quote": "He struggles with his free throws and his three-point percentage sometimes, but but he scores.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1893
+  },
+  {
+   "player": "Darryn Peterson",
+   "said_as": "Darren Peterson",
+   "team": "",
+   "horizon": "current",
+   "text": "Rookie expected to have efficiency problems. Those get penalized more in ESPN points than Yahoo points.",
+   "ts": "31:33",
+   "value_hint": "",
+   "quote": "rookie Darren Peterson, who's also, I think, going to have efficiency problems, which gets penalized more",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1919
+  },
+  {
+   "player": "Tyrese Haliburton",
+   "said_as": "Torres Hallebertton / Tyres Hallebertton",
+   "team": "IND",
+   "horizon": "current",
+   "text": "Could be a first-round category player despite doubts about his injury recovery and early games off. Projected 29th in Yahoo points, 11th in ESPN points and about 15th to 16th in categories.",
+   "ts": "32:40",
+   "value_hint": "29th Yahoo pts, 11th ESPN pts, ~15-16 cats; Yahoo ADP 32, ESPN ADP 75",
+   "quote": "I have him, based on my projections, ranked 29th in Yahoo. Based on ESPN scoring, I've got him ranked 11th.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1960
+  },
+  {
+   "player": "Davion Mitchell",
+   "said_as": "Davon Mitchell",
+   "team": "MIA",
+   "horizon": "durable",
+   "text": "Not a high scorer, but his efficiency has improved and he adds good assists and okay steals. Better in ESPN points than Yahoo points.",
+   "ts": "34:16",
+   "value_hint": "",
+   "quote": "Yes. With good assists, which are valued pretty well on ESPN, and some okay steals.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2056
+  },
+  {
+   "player": "Mikal Bridges",
+   "said_as": "Mikuel Bridges",
+   "team": "NYK",
+   "horizon": "durable",
+   "text": "Low volume, high percentage, some steals. Much better in ESPN points than Yahoo points. Better in categories but still overrated.",
+   "ts": "34:16",
+   "value_hint": "overrated",
+   "quote": "Mikuel Bridges is much better in ESPN leagues on Yahoo. He does not score in volume at all.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2068
+  },
+  {
+   "player": "Reed Sheppard",
+   "said_as": "Reed Shepard",
+   "team": "HOU",
+   "horizon": "durable",
+   "text": "Gets random steals and blocks, good threes and solid assists. Strong in categories and ranked higher in ESPN points than Yahoo points.",
+   "ts": "34:48",
+   "value_hint": "",
+   "quote": "he's got these random steel and block numbers and good threes and solid assists, but Yahoo that just doesn't",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2101
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "OKC",
+   "horizon": "current",
+   "text": "The Thunder lost Dort, Joe and Wiggins, according to the speaker. Cason Wallace is almost certainly going to start.",
+   "ts": "28:48",
+   "quote": "Even though look, the Thunder lost Dort, they lost Joe, they lost Wiggins. Wallace is almost certainly going to start",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1728
+  },
+  {
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Paul George is the clear number two option in Boston.",
+   "ts": "27:40",
+   "quote": "Paul George is a classic one of these as well, who's going to be a huge target of mine",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1671
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "In a standard 150-player league, the average player scores about 18 points, 3.5 assists and 1 steal per game, and about 0.7 blocks (captioned as 7.7).",
+   "ts": "5:19",
+   "quote": "the average player in that league averages about 18 real life points per game",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 313
+  },
+  {
+   "text": "Steph Curry has a Yahoo ADP of 23 and a Yahoo rank of 25. Paolo Banchero has a Yahoo ADP of 35 and a Yahoo rank of 54.",
+   "ts": "16:28",
+   "quote": "Steph has a Yahoo ADP of ADP of 23. Parlor has a Yahoo ADP of 35.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 999
+  },
+  {
+   "text": "RJ Barrett has a Yahoo ADP of 107, a Yahoo rank of 123 and an ESPN ADP inside the top 100.",
+   "ts": "19:35",
+   "quote": "But his Yahoo rank sits at 123, which is much closer to his category league value.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1189
+  },
+  {
+   "text": "Stephon Castle has a Yahoo rank of 70, a Yahoo ADP of 56 and an ESPN ADP of about 75.",
+   "ts": "22:22",
+   "quote": "You look if that ADP is 56 for Castle and his rank is 70.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1354
+  },
+  {
+   "text": "Jaren Jackson Jr. has a Yahoo rank of 50, a Yahoo ADP of 53 and an ESPN ADP of 73.",
+   "ts": "27:10",
+   "quote": "53 is his ADP and his ADP on ESPN is 73.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1642
+  },
+  {
+   "text": "Cason Wallace has a Yahoo rank of 154 and an ADP of 114.",
+   "ts": "28:48",
+   "quote": "Yahoo also agrees with me there somehow, 154, but people are drafting him in a different spot at 114.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1738
+  },
+  {
+   "text": "Jonathan Kuminga has an ADP of 116, a Yahoo rank of 207 and an ESPN rank or ADP of 138.",
+   "ts": "31:33",
+   "quote": "his ADP is 116, but for some reason his Yahoo ranks 207 than ESPN is down at 138",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1905
+  },
+  {
+   "text": "Tyrese Haliburton has a Yahoo ADP of 32 and an ESPN ADP of 75.",
+   "ts": "33:10",
+   "quote": "his Yahoo ADP is 32, which is right in line with his points league value. But then on ESPN's ADP is 75",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1990
+  },
+  {
+   "text": "Nic Claxton's blocks have dropped.",
+   "ts": "22:54",
+   "quote": "His blocks have dropped. He's a horrendous free throw shooter.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1381
+  }
+ ]
+}

@@ -1,0 +1,735 @@
+{
+ "video": {
+  "id": "C4vlgpJ62NI",
+  "title": "Fantasy Basketball Punting: Not as Complicated as You Think",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-09-23",
+  "duration": "44:20",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T14:16:57+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.2826638,
+  "duration_ms": 64521
+ },
+ "summary": "Josh Lloyd explains punting in 9-category leagues. He defines it as ignoring a category to concentrate your resources, not as trying to be bad in that category. He covers how categories correlate, why punt-specific rankings can mislead, and why you should still draft guards early when you punt a guard stat. He calls first and second round \"pairing\" nonsense: what matters is value and a sensible 7 or 8 man core. He goes through Yahoo's top 12 ranked players, lists each one's weakest categories, and names possible round two partners. He closes with a mailbag answer: there are no rigid stat targets by round, and late picks should be upside flyers.",
+ "rules": [
+  {
+   "text": "Punting does not apply in points leagues. It is only for category leagues.",
+   "ts": "1:09",
+   "quote": "Punting is not a thing in points leagues. I've had many people over the years ask me that.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 69
+  },
+  {
+   "text": "Punting means ignoring one or more categories and acting as if they do not exist.",
+   "ts": "2:09",
+   "quote": "Punting is ignoring a category/categories. That's all. It's just ignoring a",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 152
+  },
+  {
+   "text": "Fantasy value is finite. Spreading it over fewer categories raises your strength in each one, so punting simplifies decisions.",
+   "ts": "3:43",
+   "quote": "You have a finite amount of value that's sitting around in a fantasy league. So if you can pump it",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 240
+  },
+  {
+   "text": "Punting is not trying to be bad. You target the other categories and accept whatever happens in the punted one. You can still win it sometimes.",
+   "ts": "6:17",
+   "quote": "You're not trying to make the category bad. You can punt a category, turnovers, for example, and you can win them.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 389
+  },
+  {
+   "text": "Do not fill your team with bad free throw players after taking Giannis. Your targets are still every player.",
+   "ts": "8:22",
+   "quote": "You do not need to accumulate all bad free throw centers with Giannis. If you get a player with good free throws, that's okay.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 524
+  },
+  {
+   "text": "Head-to-head playoffs need only 5 category wins, so even balanced teams end up punting something in the playoffs.",
+   "ts": "7:19",
+   "quote": "in the head-to-head playoffs? You've got to win five. So, how do you win five? Well, by not paying as much attention",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 454
+  },
+  {
+   "text": "Punting is not the only way to win. You win fantasy with big value picks and smart waiver moves.",
+   "ts": "7:49",
+   "quote": "the way to win fantasy is big value picks and smart wave wire moves.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 489
+  },
+  {
+   "text": "Lloyd ignores turnovers in every head-to-head league.",
+   "ts": "8:54",
+   "quote": "This is how I approach every head league. I don't even care that turnovers exist.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 549
+  },
+  {
+   "text": "Watch category correlations. High assists go with high turnovers. Low turnovers go with low points and assists. High blocks go with high rebounds and FG%.",
+   "ts": "9:25",
+   "quote": "a player that gets high assists will get high turnovers. A player that has low turnovers will have low points and low assists.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 588
+  },
+  {
+   "text": "If you chase low-block players when punting blocks, your rebounds and FG% will suffer too.",
+   "ts": "9:55",
+   "quote": "that almost assuredly means your rebounds are going to be below par and you're going to struggle in field goal percentage.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 620
+  },
+  {
+   "text": "When you punt assists, check your threes, steals and FT%, because low-assist players often struggle there. Punting assists also brings turnovers down automatically.",
+   "ts": "10:28",
+   "quote": "am I getting enough threes? Are my steals okay? What's my free throw percentage looking like?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 630
+  },
+  {
+   "text": "Punt rankings lie, because they remove only your weak category and not everyone else's. Lloyd's DURANT ranking tries to correct for this.",
+   "ts": "11:29",
+   "quote": "What if you take the other person's worst category out, where do they go? And that's what Durant",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 709
+  },
+  {
+   "text": "Do not avoid the punted category's player types. If you punt a guard stat (for example FT% with Giannis), draft guards in two of the next three rounds. Otherwise you slide into a 4 or 5 category punt.",
+   "ts": "12:30",
+   "quote": "If you're punting assists and guard stats, free throw percentage, for example, with Giannis, draft guards in round two and three",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 756
+  },
+  {
+   "text": "You can change your punt at any time: mid draft, mid season or mid week.",
+   "ts": "13:02",
+   "quote": "you can change your punt mid draft, mid-season, midweek, whenever.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 799
+  },
+  {
+   "text": "First and second round pairing is nonsense. Any sensible first round pick plus a second round value can win. You only go wrong by reaching for a lesser player.",
+   "ts": "17:42",
+   "quote": "second round player in round two. Guess what? You're on the way. You're going to win.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1062
+  },
+  {
+   "text": "What matters is your 7 or 8 man core, not the two-player pair.",
+   "ts": "19:16",
+   "quote": "What is important is what is your seven or eightman core. That is what is important",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1156
+  },
+  {
+   "text": "Treat best player available as a group of roughly equal options and take one of them. There is no single true best option.",
+   "ts": "18:45",
+   "quote": "There might be six different guys to pick from and generally if you're okay in that area, take one",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1128
+  },
+  {
+   "text": "FG% and FT% vary a lot game to game, so punting one of them works well in head-to-head.",
+   "ts": "24:28",
+   "quote": "So, the idea of punting a variable category is pretty useful in a head-to-head format.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1472
+  },
+  {
+   "text": "Threes are easy to find on the waiver wire.",
+   "ts": "25:00",
+   "quote": "So now you're in a threes hole but we also know we can get threes off the wire.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1512
+  },
+  {
+   "text": "Points, assists and FT% are the scarcest categories later in drafts. If you don't get them early, you can just punt them.",
+   "ts": "30:14",
+   "quote": "Points become the hardest. They are the most scarce. assists, free throw percentage, they're the most scarce categories.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1822
+  },
+  {
+   "text": "Assists, rebounds and points are the most stable categories year to year and game to game.",
+   "ts": "37:00",
+   "quote": "that's useful in fantasy because they are the most stable categories year on year and game by game",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2220
+  },
+  {
+   "text": "Stay flexible in drafts. If someone takes your target, take the next player rather than locking into a planned pair.",
+   "ts": "31:17",
+   "quote": "I just grab the next guy and we'll be fine. We'll figure it out. Be malleable. Be flexible.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1885
+  },
+  {
+   "text": "Do not push up players who gain value in punt rankings, such as bad FT% players, just to secure them.",
+   "ts": "39:36",
+   "quote": "doesn't mean you need to push him up because I got to secure all the bad free throw guys. You don't.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2379
+  },
+  {
+   "text": "Your first four picks and then your first eight picks need to make sense together.",
+   "ts": "39:04",
+   "quote": "is your first four picks and then your first eight picks. They have to make sense.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2344
+  },
+  {
+   "text": "First round players all have high turnovers, because turnovers are a third of the usage formula.",
+   "ts": "35:57",
+   "quote": "The first round of players all have bad turnovers. Giannis might have more than somebody, but it's not that big of a deal.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2141
+  },
+  {
+   "text": "Use at least three of your last four picks on upside flyers who could beat their draft spot by 40 to 50 places.",
+   "ts": "41:41",
+   "quote": "What I want to do in the last four rounds in at least three of them is take upside flyers.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2511
+  },
+  {
+   "text": "Don't set rigid stat or position targets by round. Plans break once picks start, especially in auctions. Fill positions, and get the early-scarce stats only if you want them.",
+   "ts": "42:12",
+   "quote": "no matter what draft you're in, go doubly for auction. As soon as something happens in a draft, your plan's gone.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2541
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Victor Wembanyama",
+   "said_as": "Victor Webbyama / Wimby",
+   "team": "SAS",
+   "horizon": "durable",
+   "text": "His weakest categories are assists, threes and steals. He contributes in points, rebounds, assists, threes, both percentages and blocks.",
+   "ts": "22:22",
+   "quote": "His worst three categories, which is again very relative, are assists, threes, and steals.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1339
+  },
+  {
+   "player": "Victor Wembanyama",
+   "said_as": "Wembi",
+   "team": "SAS",
+   "horizon": "durable",
+   "text": "He does not win blocks by himself. You need at least one other shot blocker.",
+   "ts": "23:25",
+   "quote": "So Wimby does not win you blocks on his own. He's a great start",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1416
+  },
+  {
+   "player": "Victor Wembanyama",
+   "said_as": "Victor Webbyama",
+   "team": "SAS",
+   "horizon": "current",
+   "text": "Yahoo ranks him number 1. Possible round two partners: LaMelo Ball, Stephen Curry, Alperen Sengun, Anthony Davis.",
+   "ts": "22:22",
+   "value_hint": "Yahoo rank 1",
+   "quote": "At number one, they've got Victor Webbyama.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1335
+  },
+  {
+   "player": "LaMelo Ball",
+   "said_as": "lamelo ball",
+   "team": "",
+   "horizon": "durable",
+   "text": "He helps with assists and threes but can drag down FG%.",
+   "ts": "23:56",
+   "quote": "adding Ball to wimby might drop your field goal percentage down",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1458
+  },
+  {
+   "player": "LaMelo Ball",
+   "said_as": "LaMelo Ball",
+   "team": "",
+   "horizon": "durable",
+   "text": "Injury concerns may put some drafters off him.",
+   "ts": "31:48",
+   "quote": "You may not want LaMelo Ball because you're worried about injuries.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1933
+  },
+  {
+   "player": "Stephen Curry",
+   "said_as": "Steph Curry",
+   "team": "GSW",
+   "horizon": "durable",
+   "text": "He gives good points and threes. His assists and steals are not particularly good.",
+   "ts": "24:28",
+   "value_hint": "Yahoo rank 26",
+   "quote": "He gets you some nice points. He gets some nice threes. His assists and his steals aren't particularly good.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1481
+  },
+  {
+   "player": "Alperen Sengun",
+   "said_as": "Alpren Shenun",
+   "team": "HOU",
+   "horizon": "durable",
+   "text": "He gives a strong assist boost and good FG%. Decent steals, horrible threes, poor free throws.",
+   "ts": "25:00",
+   "value_hint": "Yahoo rank 25, ADP higher",
+   "quote": "He gives you a really good assist boost and good field goals. You see he's not a bad steals guy but his threes are horrible.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1505
+  },
+  {
+   "player": "Anthony Davis",
+   "said_as": "AD",
+   "team": "",
+   "horizon": "current",
+   "text": "Fine at the round two/three turn. Pairing him with Wembanyama makes blocks and rebounds strong, but you then need guard stats.",
+   "ts": "25:00",
+   "value_hint": "fine at round 2-3 turn, ranked much later",
+   "quote": "And then there's AD who I think is fine at the round two three turn.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1516
+  },
+  {
+   "player": "Nikola Jokic",
+   "said_as": "Nicolic",
+   "team": "DEN",
+   "horizon": "durable",
+   "text": "His relative weaknesses are threes, blocks and free throws. He has no significant weakness. His free throws are okay but not super strong.",
+   "ts": "25:31",
+   "value_hint": "Yahoo rank 2",
+   "quote": "His worst categories, again it's all relative. Threes, blocks, and free throws.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1540
+  },
+  {
+   "player": "Luka Doncic",
+   "said_as": "Luca Donuch",
+   "team": "LAL",
+   "horizon": "durable",
+   "text": "Weakest in blocks and both percentages.",
+   "ts": "28:09",
+   "value_hint": "Yahoo rank 3",
+   "quote": "Donic is weakest in blocks and both of his percentages.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1709
+  },
+  {
+   "player": "Austin Reaves",
+   "said_as": "Austin Reeves",
+   "team": "LAL",
+   "horizon": "current",
+   "text": "Worth a round two pick on his own merits. He also works as a first round replacement if Doncic goes down, and he boosts free throws.",
+   "ts": "28:41",
+   "quote": "adding Austin Reeves because Reeves in his own right is worth this pick. But if Luca goes down",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1721
+  },
+  {
+   "player": "Austin Reaves",
+   "said_as": "Austin Reeves",
+   "team": "LAL",
+   "horizon": "current",
+   "text": "Lloyd is very high on him this season. He thinks Reaves could finish ranked above Tyrese Maxey.",
+   "ts": "37:30",
+   "value_hint": "Yahoo rank 20",
+   "quote": "I'm actually pretty high on Austin Reeves as you can tell by this this season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2276
+  },
+  {
+   "player": "Shai Gilgeous-Alexander",
+   "said_as": "Shay Gildas Alexander",
+   "team": "OKC",
+   "horizon": "durable",
+   "text": "His weakest categories are rebounds, blocks and threes.",
+   "ts": "29:43",
+   "value_hint": "Yahoo rank 4",
+   "quote": "His weakest categories are rebounds. It's blocks and it's threes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1778
+  },
+  {
+   "player": "Cade Cunningham",
+   "said_as": "Kate Cunningham",
+   "team": "DET",
+   "horizon": "durable",
+   "text": "His weaknesses are FG%, rebounds and blocks. His free throws are fine but not super strong.",
+   "ts": "31:48",
+   "value_hint": "Yahoo rank 5",
+   "quote": "What are his weaknesses? Field goals, rebounds, blocks, and his free throws aren't super strong.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1913
+  },
+  {
+   "player": "Tyrese Maxey",
+   "said_as": "Tyres Maxi",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Yahoo ranks him 6th. Lloyd would not take him at 6 or even inside the top 10. His weakest categories are FG%, rebounds and blocks.",
+   "ts": "32:18",
+   "value_hint": "Yahoo rank 6, overvalued; not top 10 for Lloyd",
+   "quote": "I would never take Tyres Maxi at pick six. I don't even think that I'd take him inside the top 10",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1952
+  },
+  {
+   "player": "Jamal Murray",
+   "said_as": "Jamal Murray",
+   "team": "DEN",
+   "horizon": "current",
+   "text": "Fine to pair with Jokic in round two. Could finish ranked above Tyrese Maxey this season.",
+   "ts": "32:49",
+   "quote": "there's a distinct possibility that Reeves and Murray end up ranked higher than Tyrese this season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1973
+  },
+  {
+   "player": "Anthony Edwards",
+   "said_as": "Anthony Edwards",
+   "team": "MIN",
+   "horizon": "durable",
+   "text": "His weaker categories are blocks and threes, though his threes are actually okay.",
+   "ts": "33:50",
+   "value_hint": "Yahoo rank 7",
+   "quote": "That is Anthony Edwards actually there who's blocks threes at time. His threes are actually okay.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2039
+  },
+  {
+   "player": "Jayson Tatum",
+   "said_as": "Jace Tatum",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Yahoo ranks him 8th. Lloyd would be okay taking him at pick 6.",
+   "ts": "34:23",
+   "value_hint": "Yahoo rank 8, fine at pick 6",
+   "quote": "I'd be okay with taking him at pick six, but that's okay. We're here at eight",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2083
+  },
+  {
+   "player": "Jayson Tatum",
+   "said_as": "Jace Tatum",
+   "team": "BOS",
+   "horizon": "durable",
+   "text": "Weaknesses are blocks, steals and FG%.",
+   "ts": "34:23",
+   "quote": "his weaknesses sit as blocks, steals, field goal percentage.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2085
+  },
+  {
+   "player": "Kevin Durant",
+   "said_as": "Kevin Durant / KD",
+   "team": "",
+   "horizon": "current",
+   "text": "Lloyd thinks Durant belongs on the first round turn, but Yahoo ranks him 15th with an ADP of 17, so he is a value.",
+   "ts": "34:55",
+   "value_hint": "Yahoo rank 15, ADP 17; value",
+   "quote": "I believe Kevin Durant should be on the turn of the first round, but the rankings don't support that.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2109
+  },
+  {
+   "player": "Giannis Antetokounmpo",
+   "said_as": "Yani Dumpo",
+   "team": "",
+   "horizon": "durable",
+   "text": "Terrible free throw percentage, and his threes are also bad. Threes are easy to recover.",
+   "ts": "35:26",
+   "value_hint": "Yahoo rank 9",
+   "quote": "we know has that huge weakness in free throw percentage. His threes are also pretty bad.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2122
+  },
+  {
+   "player": "Scottie Barnes",
+   "said_as": "Scott Barnes",
+   "team": "TOR",
+   "horizon": "current",
+   "text": "An option in round two with Giannis. Yahoo ranks him 14th.",
+   "ts": "36:28",
+   "value_hint": "Yahoo rank 14",
+   "quote": "Scott Barnes is available here. And that's okay. We can take Barnesy in this spot",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2197
+  },
+  {
+   "player": "Jalen Johnson",
+   "said_as": "Jaylen Johnson",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Probably ranked a little high at 10. His defensive stats dropped last season.",
+   "ts": "36:28",
+   "value_hint": "Yahoo rank 10, a bit high",
+   "quote": "Jaylen Johnson, who I think is probably a little bit high at number 10. His defensive stats dropped last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2206
+  },
+  {
+   "player": "Jalen Johnson",
+   "said_as": "Jaylen Johnson",
+   "team": "ATL",
+   "horizon": "durable",
+   "text": "High assists, rebounds and points. His percentages can be iffy.",
+   "ts": "37:00",
+   "quote": "His game is very good in terms of that really high assists and",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2216
+  },
+  {
+   "player": "Cooper Flagg",
+   "said_as": "Cooper Flag",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Yahoo ranks him 13th. He might fall into the second round.",
+   "ts": "37:00",
+   "value_hint": "Yahoo rank 13",
+   "quote": "Cooper Flag, who's got a ranking of 13. He actually might fall.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2239
+  },
+  {
+   "player": "Donovan Mitchell",
+   "said_as": "Donnie Mitchell",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Lloyd is not keen on him in the first round because of the Harden impact.",
+   "ts": "37:30",
+   "value_hint": "Yahoo rank 11, avoid in round 1",
+   "quote": "I'm also not a big Don Mitchell guy in the first round because the harden impact",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2257
+  },
+  {
+   "player": "Donovan Mitchell",
+   "said_as": "Donnie Mitchell",
+   "team": "CLE",
+   "horizon": "durable",
+   "text": "His blocks, FG% and rebounds are not super strong.",
+   "ts": "37:30",
+   "quote": "his blocks, his field goals, his rebounds are not super strong.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2263
+  },
+  {
+   "player": "Tyrese Haliburton",
+   "said_as": "Torres Hallebertton",
+   "team": "IND",
+   "horizon": "current",
+   "text": "Lloyd will not take him at 12. He worries about early season minutes restrictions, missed games and Rick Carlisle keeping him down. He expects Haliburton to ramp up later.",
+   "ts": "38:02",
+   "value_hint": "Yahoo rank 12, prefer later",
+   "quote": "I'm a little worried about early season minutes restrictions and some missed games and Carlo just keeping it somewhat down.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2289
+  },
+  {
+   "player": "Tyrese Haliburton",
+   "said_as": "Tyres Hallebertton",
+   "team": "IND",
+   "horizon": "durable",
+   "text": "He is an assist source rather than a points source, so draft him early if you want assists.",
+   "ts": "40:38",
+   "quote": "if I'm really focusing on points, it's hard to do Tyres Hallebertton early. But if I really want assist",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2459
+  },
+  {
+   "player": "Donovan Clingan",
+   "said_as": "Donovan Klingan",
+   "team": "POR",
+   "horizon": "current",
+   "text": "He rises to 14th in punt-FT rankings, but that is not a reason to reach for him in round three.",
+   "ts": "39:04",
+   "quote": "Well, if I actually punt free throws, Donovan Klingan becomes 14th. So, let's take him in round three.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2365
+  },
+  {
+   "player": "Josh Giddey",
+   "said_as": "Josh Giddy",
+   "team": "CHI",
+   "horizon": "current",
+   "text": "A round two option after Cade Cunningham, based on ranks and ADP.",
+   "ts": "31:48",
+   "quote": "someone like Josh Giddy comes into play here as well",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1926
+  },
+  {
+   "player": "Amen Thompson",
+   "said_as": "Amen Thompson",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Named repeatedly as a good round two value with several first round picks.",
+   "ts": "28:09",
+   "quote": "Amen Thompson or Austin Reeves. All guys who were available at that spot who I think are pretty good values",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1689
+  },
+  {
+   "player": "Tobias Harris",
+   "said_as": "Tobias Harris",
+   "team": "",
+   "horizon": "current",
+   "text": "Not an upside flyer. He is only a late pick if you need a 16 point, 5 rebound player.",
+   "ts": "43:14",
+   "quote": "I can't with Tobias Harris, but maybe I really desperately needed a 16 point scorer with five rebounds",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2590
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "DEN",
+   "horizon": "current",
+   "text": "Don't take Zeke Nnaji in round two just because he is Jokic's teammate. Jamal Murray is fine there.",
+   "ts": "20:50",
+   "quote": "You're not taking Zeke Naji in round two to pair with Jokic because they play on the same team",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1269
+  },
+  {
+   "team": "IND",
+   "horizon": "current",
+   "text": "Lloyd expects Rick Carlisle to manage Haliburton's minutes early in the season.",
+   "ts": "38:02",
+   "quote": "early season minutes restrictions and some missed games and Carlo just keeping it somewhat down.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2289
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Wembanyama averages three or more blocks.",
+   "ts": "22:53",
+   "quote": "you don't want to waste three block plus three plus blocks from Victoryama.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1388
+  },
+  {
+   "text": "Jalen Johnson's defensive stats dropped last season.",
+   "ts": "36:28",
+   "quote": "His defensive stats dropped last season. His percentages can be a little bit iffy.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2210
+  },
+  {
+   "text": "Yahoo ranks Sengun 25th, while his ADP is higher.",
+   "ts": "25:00",
+   "quote": "Alpren Shenun who's ranked at 25. His ADP is higher but he's ranked at 25.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1502
+  },
+  {
+   "text": "Yahoo ranks Curry 26th.",
+   "ts": "24:28",
+   "quote": "Steph Curry could be an option for you. He's ranked at 26.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1479
+  },
+  {
+   "text": "Yahoo ranks Durant 15th, and his ADP is 17.",
+   "ts": "34:55",
+   "quote": "shall we look at Kevin Durant who's ranked at 15 with an ADP of 17",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2097
+  },
+  {
+   "text": "Yahoo ranks Durant 15th, Flagg 13th, Reaves 20th and Barnes 14th.",
+   "ts": "38:33",
+   "quote": "KD who's ranked 15th. Cooper Flag who's ranked 13th. Austin Reeves who's ranked 20th or Scotty Barnes who's ranked 14th.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2313
+  },
+  {
+   "text": "Clingan ranks 14th in punt-FT rankings.",
+   "ts": "39:04",
+   "quote": "if I actually punt free throws, Donovan Klingan becomes 14th.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2365
+  }
+ ]
+}

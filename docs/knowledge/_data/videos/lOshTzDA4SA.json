@@ -1,0 +1,626 @@
+{
+ "video": {
+  "id": "lOshTzDA4SA",
+  "title": "2026 NBA Draft Recap: 7 Rookies To Draft + Winners & Losers",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-06-25",
+  "duration": "39:02",
+  "auto_captions": true
+ },
+ "prompt_version": 2,
+ "extracted_at": "2026-10-04T10:50:39+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.2963008,
+  "duration_ms": 72747
+ },
+ "summary": "Josh Lloyd recaps the first round of the 2026 NBA draft from a fantasy redraft angle. No projections have been done yet because trades and free agency are still to come. He names seven rookies worth drafting: Cameron Boozer (clear first rookie off the board), AJ Dybantsa and Darryn Peterson (both around top 80 picks), then Caleb Wilson, Darius Acuff Jr., Hannes Steinbach and Mikel Brown Jr. as late-round flyers. He says rookies usually start badly and then improve, calls the rookie wall a myth, and warns that ESPN-style rankings put too many rookies too high. He lists veterans who lose value because of the draft: Moussa Diabaté, Nolan Traoré, Keyonte George, Kyshawn George and Santi Aldama. He liked the drafts of Charlotte, Philadelphia, the Lakers and Brooklyn, and criticized Dallas plus several picks by Milwaukee, Golden State, Memphis, Sacramento and Atlanta.",
+ "rules": [
+  {
+   "text": "Projections must balance across a whole roster. A player's value depends on teammates, usage and minutes, so a team change can move usage a lot (example: Michael Porter Jr. in Brooklyn vs Denver).",
+   "ts": "2:05",
+   "quote": "Player moves from one team to another, there's fewer players there. Michael Porter goes to the Nets, usage way up.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 140
+  },
+  {
+   "text": "Don't overrate rookies in redraft. At best a class gives one top 50 player and three top 100 players.",
+   "ts": "5:12",
+   "quote": "At best you'll get one top 50 guy and three top 100 players. At best. So just always be aware of that.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 315
+  },
+  {
+   "text": "Top rookies are usually bad early and then improve. If you draft one early, accept the slow start and don't drop him.",
+   "ts": "4:10",
+   "quote": "So if you're drafting him early, you're going to have to just cop it early.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 262
+  },
+  {
+   "text": "The rookie wall is a myth. Roughly 90% of rookies get better as the season goes on.",
+   "ts": "6:43",
+   "quote": "Rookie wall is a myth. Go back and look at nearly every rookie. 90% of them get better.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 425
+  },
+  {
+   "text": "Don't count on late-season shutdowns by tanking teams giving rookies big minutes in March. That may not happen much anymore.",
+   "ts": "6:43",
+   "quote": "\"Well, in March, they'll sit guys down, and this guy will cook.\" I I don't know if that's going to happen that much.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 414
+  },
+  {
+   "text": "Uncertain rookies belong in the flyer zone, around picks 120 to 130 in a 12-team league, which is the end of the active roster or start of the bench.",
+   "ts": "14:23",
+   "quote": "We're talking about a 12-man league, you're picking around 120. So, the start of your bench,",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 867
+  },
+  {
+   "text": "For rookie flyers, use Summer League and preseason. If a player is named a starter, push him higher. If nothing happens in the first two weeks, drop him and maybe pick him up later.",
+   "ts": "19:37",
+   "quote": "you draft him and then you'd see what happens the first two weeks and",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1204
+  },
+  {
+   "text": "A big man with blocks, threes, rebounds and good field goal percentage is a fantasy cheat code.",
+   "ts": "18:02",
+   "quote": "Cuz he will have the the the cheat code. Blocks, threes, rebounds, um field goal percentage for a big man.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1089
+  },
+  {
+   "text": "Losing even two to three minutes a game limits a player's upside and lowers his draft value.",
+   "ts": "22:14",
+   "quote": "lose two to three minutes off what he does, and it drops him down. And then your upside becomes limited.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1357
+  },
+  {
+   "text": "College players who dominate while four or five years older than their competition are a red flag. NBA role players are usually college stars.",
+   "ts": "33:10",
+   "quote": "I'm with these players who start dominating when they're five, four years older than their competition in college always is a red flag",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1980
+  },
+  {
+   "text": "Hot starts built on unsustainable numbers, like extreme rim finishing, tend to fade.",
+   "ts": "23:48",
+   "quote": "When he was like a 95% rim finisher, was a top 40 guy, and ended up outside the top 150.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1449
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Cameron Boozer",
+   "said_as": "Cameron Boozer",
+   "horizon": "current",
+   "text": "Expected to be the first rookie drafted in fantasy and the top rookie at season end. He will start for Memphis and be the second usage option behind Ja Morant.",
+   "ts": "2:35",
+   "quote": "I would find it incredibly unlikely that Cameron Boozer is not the first rookie off the board in fantasy drafts,",
+   "value_hint": "first rookie off the board",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 179
+  },
+  {
+   "player": "Cameron Boozer",
+   "said_as": "Boozer",
+   "horizon": "durable",
+   "text": "Had a 30 usage at Duke with high assist numbers. He will have some block issues and will struggle with efficiency early.",
+   "ts": "3:40",
+   "quote": "He had a 30 usage at Duke last season. High assist numbers",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 245
+  },
+  {
+   "player": "Cameron Boozer",
+   "said_as": "Boozer",
+   "horizon": "current",
+   "text": "Will struggle early like Cooper Flagg did but could become a top 25 to 30 player. The speaker calls it a perfect fantasy fit.",
+   "ts": "4:41",
+   "quote": "Then he was like a top 30, top 25 player for 2 months. And I think Boozer can probably be that.",
+   "value_hint": "top 25-30 upside",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 283
+  },
+  {
+   "player": "AJ Dybantsa",
+   "said_as": "AJ Dybantsa",
+   "horizon": "current",
+   "text": "Will start for Washington as a high usage scorer, but Trae Young and Anthony Davis will get preferred touches. Should not be the first rookie off the board.",
+   "ts": "5:12",
+   "quote": "the reason why I don't think he should be the number one guy off the board is that he has to play alongside Trae Young, Anthony Davis.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 339
+  },
+  {
+   "player": "AJ Dybantsa",
+   "said_as": "the Banger",
+   "horizon": "durable",
+   "text": "Weak fantasy profile so far. Rebounds are okay, three-point volume is poor, assists are pretty good, steals are poor, blocks are horrific, and shooting is fine. He is a volume scorer.",
+   "ts": "6:13",
+   "quote": "The three-point volume is not good. The assist numbers are pretty good. The steal numbers are not great at all.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 386
+  },
+  {
+   "player": "AJ Dybantsa",
+   "said_as": "To Banchero's",
+   "horizon": "current",
+   "text": "Likely drafted around picks 80 to 90, but the speaker expects his own projection to land outside the top 100. Not sure he is even the third pick in dynasty drafts.",
+   "ts": "7:44",
+   "quote": "should be like a top 80 pick, top 90 pick, I'm guessing. I do think that when I end up doing projections for him, he will not come out in the top 100.",
+   "value_hint": "top 80-90 pick, projects outside top 100",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 477
+  },
+  {
+   "player": "Darryn Peterson",
+   "said_as": "Daron Peterson",
+   "horizon": "durable",
+   "text": "Had a 30 usage at Kansas, with strong blocks and steals for his position, huge three-point volume and great scoring. Missed games and played lower minutes in college.",
+   "ts": "8:14",
+   "quote": "30 usage at Kansas. A lot of missed games, issues and lower minutes. I'm not really worried about that.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 505
+  },
+  {
+   "player": "Darryn Peterson",
+   "said_as": "Peterson",
+   "horizon": "current",
+   "text": "Should start in Utah but has to share usage with Lauri Markkanen, Keyonte George and Jaren Jackson Jr. There are efficiency concerns and he probably won't get six assists right away. Likely a top 80 pick.",
+   "ts": "9:16",
+   "quote": "I I think he probably will be um a top 80 pick.",
+   "value_hint": "top 80 pick",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 569
+  },
+  {
+   "player": "Caleb Wilson",
+   "said_as": "Caleb Wilson",
+   "horizon": "durable",
+   "text": "Strong blocks, steals and rebounds. Horrendous shooting, with few threes made. Good finisher and athlete.",
+   "ts": "13:53",
+   "quote": "really strong block numbers, really strong steal numbers, really strong rebound numbers. Horrendous shooting stuff.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 837
+  },
+  {
+   "player": "Caleb Wilson",
+   "said_as": "Wilson",
+   "horizon": "current",
+   "text": "Probably a Bulls starter soon, but low usage behind Josh Giddey and Matas Buzelis, and he may lose minutes playing alongside Nic Claxton. A flyer around pick 120.",
+   "ts": "14:23",
+   "quote": "you're picking around 120. So, the start of your bench, the last player on your active roster",
+   "value_hint": "around pick 120",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 868
+  },
+  {
+   "player": "Darius Acuff Jr.",
+   "said_as": "Darius Acey Huff Jr.",
+   "horizon": "durable",
+   "text": "Very high usage, big assist numbers, big three-point volume and percentage. Possibly the worst defender in the NBA. Expect few steals and poor rebounding.",
+   "ts": "15:25",
+   "quote": "he might be the worst defender in the NBA right now.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 926
+  },
+  {
+   "player": "Darius Acuff Jr.",
+   "said_as": "A Cuff",
+   "horizon": "current",
+   "text": "Likely the Kings' starting point guard, but his shooting should be horrific early and he shares the ball with Zach LaVine and Domantas Sabonis. A flyer around picks 120 to 130.",
+   "ts": "16:27",
+   "quote": "Again in that same Caleb Wilson sort of a range, I think, where you're talking about picking guys in the flyer zone.",
+   "value_hint": "pick 120-130",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1001
+  },
+  {
+   "player": "Hannes Steinbach",
+   "said_as": "Hannes Steinbach",
+   "horizon": "durable",
+   "text": "Strong rebounder with good usage, good FG% and FT%, three-point shooting ability and some blocks.",
+   "ts": "16:58",
+   "quote": "An incredibly strong rebounder with really good usage, good field goal percentage, good free throw percentage, three-point shooting ability",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1041
+  },
+  {
+   "player": "Hannes Steinbach",
+   "said_as": "Steinback",
+   "horizon": "current",
+   "text": "Not guaranteed to start at center in Charlotte and probably won't play close to 30 minutes. Worth a pick in the 140 to 150 range if he looks good in Summer League. Move him up if he starts in preseason.",
+   "ts": "17:28",
+   "quote": "I would take him with my final two picks, right? In that 140-150 range.",
+   "value_hint": "pick 140-150",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1076
+  },
+  {
+   "player": "Mikel Brown Jr.",
+   "said_as": "Mikal Bridges Jr.",
+   "horizon": "durable",
+   "text": "High usage guard at Louisville. Shoots a lot of threes, good assists, good steal rate, excellent free throws. Back injury not seen as a concern. Will be horrific at percentages.",
+   "ts": "18:35",
+   "quote": "He hit shoots a lot of threes, gets a lot of assists, good good steal rate, excellent free throws,",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1139
+  },
+  {
+   "player": "Mikel Brown Jr.",
+   "said_as": "Brown",
+   "horizon": "current",
+   "text": "Probably Brooklyn's third usage option. Could get 5 assists and over 1 steal in about 29 to 30 minutes. A late flyer.",
+   "ts": "19:37",
+   "quote": "Brown could get five easily. Get one and a bit steal, play 30 minutes, 29 minutes.",
+   "value_hint": "late-round flyer",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1181
+  },
+  {
+   "player": "Moussa Diabaté",
+   "said_as": "Moussa Diabaté",
+   "horizon": "current",
+   "text": "Draft loser. Played well late last season, but now faces more competition at center in Charlotte. Losing minutes limits his upside.",
+   "ts": "22:14",
+   "quote": "Moussa Diabaté. He started to play really well at the end of last season, but not now",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1342
+  },
+  {
+   "player": "Nolan Traoré",
+   "said_as": "Nolan Traoré",
+   "horizon": "current",
+   "text": "Draft loser. Brooklyn drafted a point guard at pick 6, so Traoré will fight for bench ball-handling minutes. No real shot at fantasy value.",
+   "ts": "22:46",
+   "quote": "I just don't think he's got any shot of having value.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1385
+  },
+  {
+   "player": "Keyonte George",
+   "said_as": "Keyonte George",
+   "horizon": "current",
+   "text": "Was a top 50 player last season but loses value with full seasons of Markkanen and Jaren Jackson Jr. plus Peterson. He loses usage and about one assist per game.",
+   "ts": "23:17",
+   "quote": "So, almost undoubtedly, to me, Keyonte George loses value.",
+   "value_hint": "loses value from top 50",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1419
+  },
+  {
+   "player": "Isaiah Collier",
+   "said_as": "Isaiah Collier",
+   "horizon": "current",
+   "text": "Value is finished after the Utah draft.",
+   "ts": "23:17",
+   "quote": "I could say Isaiah Collier and Brice Sensabaugh, like their value absolutely cooked, done, finished.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1422
+  },
+  {
+   "player": "Brice Sensabaugh",
+   "said_as": "Brice Sensabaugh",
+   "horizon": "current",
+   "text": "Value is finished after the Utah draft.",
+   "ts": "23:17",
+   "quote": "I could say Isaiah Collier and Brice Sensabaugh, like their value absolutely cooked, done, finished.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1422
+  },
+  {
+   "player": "Kyshawn George",
+   "said_as": "Keyon George",
+   "horizon": "current",
+   "text": "Draft loser. Started last season as a top 50 player, faded, then got hurt. There is now no starting spot for him in Washington unless something changes, such as a Davis trade.",
+   "ts": "24:49",
+   "quote": "There's just no way that Keyonte George is going to be able to do what he did to begin last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1498
+  },
+  {
+   "player": "Santi Aldama",
+   "said_as": "Santi Aldama",
+   "horizon": "current",
+   "text": "Gigantic loser. He could have started at power forward and been top 100, but Boozer and Karim Lopez take that path away.",
+   "ts": "25:20",
+   "quote": "So, Aldama's shot at top 100 is not going to be there, injuries notwithstanding. So, he is a gigantic loser.",
+   "value_hint": "no longer top 100",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1528
+  },
+  {
+   "player": "Christian Andersen",
+   "said_as": "Christian Andersen",
+   "horizon": "durable",
+   "text": "Could be the best shooter or passer in the class but is undersized. Will back up LaMelo Ball.",
+   "ts": "25:52",
+   "quote": "Backup guard behind LaMelo. Could be the best shooter and or passer in this draft class.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1557
+  },
+  {
+   "player": "Labaron Philon",
+   "said_as": "LeBarton Filer",
+   "horizon": "current",
+   "text": "The speaker had him as a top 10 prospect and Philadelphia got him at 22. He will come off the bench behind Tyrese Maxey and VJ Edgecombe and may be better than Jared McCain.",
+   "ts": "26:54",
+   "quote": "I think there is a significant chance that Phi Lon is a better player than McCain.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1616
+  },
+  {
+   "player": "Joshua Jefferson",
+   "said_as": "Joshua Jefferson",
+   "horizon": "current",
+   "text": "Nets pick 28. A ball-handling, high-IQ forward with low athleticism. Backs up Julius Randle and Michael Porter Jr. and could replace Randle as a playmaking four.",
+   "ts": "28:27",
+   "quote": "He's a ball-handling IQ, low athleticism, iffy shot-making guy. But as a backup to Randle and Porter",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1715
+  },
+  {
+   "player": "Nate Ament",
+   "said_as": "Nate Amen",
+   "horizon": "current",
+   "text": "The speaker disliked the Bucks taking him at 13. He would not have picked him in the top 20 and thinks he might actually be bad.",
+   "ts": "31:07",
+   "quote": "I didn't think that he should have been picked probably in the top 20. I think he just might actually be bad.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1884
+  },
+  {
+   "player": "Yaxel Lendeborg",
+   "said_as": "Yaxel Lendeborg",
+   "horizon": "durable",
+   "text": "He is 24 and was a 20 usage player on a strong college team. Good defensively, inconsistent shooting. Seen as a possible Draymond Green replacement in Golden State, but the speaker is betting against him.",
+   "ts": "32:09",
+   "quote": "Lendeborg is 24. It's incredibly old. His production was good, but he was a 20 usage guy",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1934
+  },
+  {
+   "player": "Karim Lopez",
+   "said_as": "Karlo Lopez",
+   "horizon": "durable",
+   "text": "Okay value at pick 21, but the speaker doesn't know what he does well. He can't really shoot, defend or pass, and probably can't play alongside Boozer.",
+   "ts": "33:41",
+   "quote": "Can he shoot? Not really. Can he defend? Not really. Can he pass? Not really.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2046
+  },
+  {
+   "player": "Alex Karaban",
+   "said_as": "Alex Karaban",
+   "horizon": "durable",
+   "text": "A 17% usage college role player who is already 23. A good shooter with a possible Steve Novak outcome. The Kings traded into pick 29 to take him.",
+   "ts": "35:13",
+   "quote": "take a 17% usage player in Karaban who is 23 already and maybe become Steve Novak.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2134
+  },
+  {
+   "player": "Zuby Ejiofor",
+   "said_as": "Zubi Ejiofor",
+   "horizon": "durable",
+   "text": "Hawks pick 23. An undersized, switchy, energy big man who put up big numbers as an upperclassman, which the speaker sees as a red flag. Not a first-round player in his view.",
+   "ts": "37:19",
+   "quote": "Ejiofor, guy putting up big numbers as an upperclassman at St. John's. Lot of red flags there.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2251
+  },
+  {
+   "player": "Cooper Flagg",
+   "said_as": "Cooper flag",
+   "horizon": "durable",
+   "text": "The speaker sees him as a four: a weak-side rim protector on defense and a high-usage scorer and distributor on offense.",
+   "ts": "30:04",
+   "quote": "He's a weak side help defending rim protector who on offense is a high usage scorer and distributor. That's a four.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1805
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Outside Ja Morant, there is little usage competition, so Boozer becomes the second usage option.",
+   "ts": "3:40",
+   "quote": "Boozer is going to come in and be the second usage player on this team.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 243
+  },
+  {
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Trae Young and Anthony Davis will get preferred offensive touches over Dybantsa. Drafting Dybantsa is a big hit for Alex Sarr.",
+   "ts": "5:42",
+   "quote": "don't tell me that Davis and Young aren't going to get preferential offensive treatment.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 355
+  },
+  {
+   "team": "UTA",
+   "horizon": "current",
+   "text": "Crowded usage with Markkanen, Keyonte George, Jaren Jackson Jr. and Peterson. All of them will lose some touches.",
+   "ts": "8:45",
+   "quote": "Lauri Markkanen's a high usage player. Keyonte George is a high usage player. Jaren Jackson's a decent usage player.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 541
+  },
+  {
+   "team": "CHI",
+   "horizon": "current",
+   "text": "Bulls will be pretty bad. A lineup of Claxton, Wilson and Giddey will have terrible spacing.",
+   "ts": "13:22",
+   "quote": "The Bulls are going to be pretty bad. And their spacing is they're going to start Claxton and Wilson together",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 815
+  },
+  {
+   "team": "SAC",
+   "horizon": "current",
+   "text": "Kings will be terrible again. They are reportedly stretching and waiving DeMar DeRozan, and Zach LaVine has one year left on his contract. RIP for Malik Monk.",
+   "ts": "15:25",
+   "quote": "The Kings are once again going to be terrible. Confident of that. They're allegedly stretching and waving DeMar DeRozan, cool.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 929
+  },
+  {
+   "team": "CHA",
+   "horizon": "current",
+   "text": "Charlotte will probably still run a three-center rotation and also uses Grant Williams as a small-ball five. Steinbach likely won't get near 30 minutes.",
+   "ts": "18:02",
+   "quote": "They'll still run three-center rotations. And that's not even mentioning the fact that Grant Williams is there",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1097
+  },
+  {
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Early starting lineup guess: Brown, Demin, Porter, Randle, Day'Ron Sharpe. Randle will handle the ball a lot.",
+   "ts": "19:06",
+   "quote": "That'll be my guess at this early point for the Nets is it's Brown, Diop man, Porter, Randle at the moment, Day'Ron Sharpe",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1160
+  },
+  {
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Crowded and odd frontcourt with Daniel Gafford, Dereck Lively and P.J. Washington. The new pick has no clear fit. The front office does not prioritize shooting.",
+   "ts": "30:35",
+   "quote": "Their front court is weird. There's PJ Johnson there. PJ Johnson Peter Washington there's Daniel Gafford there's Derek Lively.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1834
+  },
+  {
+   "team": "ATL",
+   "horizon": "current",
+   "text": "The Hawks' issue at center was not having 48 minutes of Onyeka Okongwu, so they added a similar small, switchy big man. Jock Landale is still there.",
+   "ts": "36:48",
+   "quote": "The Hawks' problem at center was they didn't have 48 minutes of Onyeka Okongwu.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2227
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Cooper Flagg was a top 25 to top 30 fantasy player for two months of his rookie season.",
+   "ts": "4:41",
+   "quote": "Then he was like a top 30, top 25 player for 2 months.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 283
+  },
+  {
+   "text": "Last season, ESPN fantasy had about five rookies inside its top 80.",
+   "ts": "5:12",
+   "quote": "They had like about five rookies inside the top 80. It just it literally never happens that way.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 311
+  },
+  {
+   "text": "Keyonte George was a top 50 fantasy player last season.",
+   "ts": "23:17",
+   "quote": "He was awesome last season. He was like a top 50 player easily.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1394
+  },
+  {
+   "text": "Kyshawn George was a top 50 player at the start of last season.",
+   "ts": "23:48",
+   "quote": "At the start of last season, he was like a top 50 player, and Washington,",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1440
+  },
+  {
+   "text": "Two years ago, Bilal Coulibaly started as a top 40 player but finished outside the top 150.",
+   "ts": "23:48",
+   "quote": "When he was like a 95% rim finisher, was a top 40 guy, and ended up outside the top 150.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1449
+  },
+  {
+   "text": "Austin Reaves re-signed with the Lakers on the day of recording.",
+   "ts": "27:26",
+   "quote": "Luka and Austin Reaves who resigned today, Austin Reaves.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1655
+  },
+  {
+   "text": "Yaxel Lendeborg is 24 and older than Jonathan Kuminga.",
+   "ts": "32:39",
+   "quote": "Yaxel's older than Jonathan Kuminga is.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1976
+  }
+ ]
+}

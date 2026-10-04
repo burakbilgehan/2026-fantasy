@@ -1,0 +1,808 @@
+{
+ "video": {
+  "id": "Rqb5GdrSweY",
+  "title": "The Top 9 Fantasy Basketball Players On New Teams For 2026/27",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-07-13",
+  "duration": "35:14",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T11:13:17+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.3158838,
+  "duration_ms": 84984
+ },
+ "summary": "Josh Lloyd looks at the best fantasy players who changed teams in 2026 NBA free agency. He counts nine players from the top 56 of last season who moved, plus about 11 more from the top 120. He expects a chaotic season because of all the movement, players returning from injury, and the new lottery rules (the 3-2-1 system and a relegation zone). Teams with no reason to tank, like Brooklyn and Milwaukee, are the ones to watch. His main calls: Kawhi Leonard is fine as a pick in the 40s but not in rounds one or two, and Giannis Antetokounmpo could climb back toward top five in Miami. He thinks Walker Kessler could be a top 20 player with the Lakers, Jaylen Brown will lose value in Philadelphia, and LaMelo Ball should play more minutes in Minnesota. He sees good spots for Julius Randle in Brooklyn and Paul George in Boston. Tyler Herro is in a crowded Bucks backcourt, and most of the lower-ranked movers have little draft value. Naz Reid and Kel'el Ware are the exceptions, as likely top 50 picks.",
+ "rules": [
+  {
+   "text": "When a good player moves to a new team, his production usually dips. There are also ripple effects on his new teammates and on the team he left.",
+   "ts": "4:43",
+   "quote": "generally a good player moving to a new team, there is some sort of a dip in production",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 286
+  },
+  {
+   "text": "The 2027 draft looks weak. Combined with the lottery changes, he expects less extreme tanking than usual.",
+   "ts": "4:12",
+   "quote": "I don't think we're going to have as much egregiousness with tanking",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 275
+  },
+  {
+   "text": "Teams that don't own their draft pick have no reason to tank or push for wins. Watch them for players being rested late in the season. Brooklyn and Milwaukee are the main examples.",
+   "ts": "10:22",
+   "quote": "if I'm worried about any teams, it is Brooklyn and Milwaukee,",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1333
+  },
+  {
+   "text": "With top-protected picks under the new lottery odds, finishing in the bottom three can give a team a worse chance at a top two pick than finishing 4th to 10th. So teams like Dallas may push harder to win.",
+   "ts": "9:51",
+   "quote": "Dallas probably has to push a little bit more, I would guess, to increase their odds of keeping a top two pick",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 592
+  },
+  {
+   "text": "In leagues with a games cap, move injury-prone players up the board because missed games matter less.",
+   "ts": "6:45",
+   "quote": "Games Cap leagues, you move him up around. Last season, he was 50s, 40s for Games Cap.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 419
+  },
+  {
+   "text": "Category leagues and points leagues value players differently. A high-usage scorer with few other strengths can be top 10 in points leagues but only a third rounder in category leagues.",
+   "ts": "15:03",
+   "quote": "top six MVP is a third round fantasy guy for category leagues. Even in points like in points less he was 10th",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 926
+  },
+  {
+   "text": "Look at the context behind missed games. Games a player sat out because his team was tanking should not count as proof that he is injury-prone.",
+   "ts": "17:08",
+   "quote": "I would say that over the two previous seasons out of the games that he missed 50 of them conservatively",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1033
+  },
+  {
+   "text": "Don't judge a player from surface-level narratives. Look at his actual percentages and category output.",
+   "ts": "20:18",
+   "quote": "often people just cut the top just the tip, just the top 1% off in terms of what they're looking at",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1215
+  },
+  {
+   "text": "A player's own usage matters less than his share of usage next to other high-usage teammates. When a dominant player joins a team, the usage of everyone around him drops.",
+   "ts": "15:33",
+   "quote": "Brown is not likely going to be a 36 usage guy in Philadelphia which means that that comes down maybe to 30 to 28",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 936
+  },
+  {
+   "text": "With so much movement and so many unknowns this year, every round of the draft will be volatile. Draft carefully.",
+   "ts": "8:49",
+   "quote": "every round in fantasy this season I think is just going to be crazy because there is so much movement",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 546
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Kawhi Leonard",
+   "said_as": "Kawi Leard",
+   "team": "TOR",
+   "horizon": "current",
+   "text": "He has probably been traded to the Raptors, but the deal won't be official until the penalties from an investigation are settled. He was the fifth-ranked player last season.",
+   "ts": "5:43",
+   "quote": "Kawi Leard probably has been traded to the Raptors, but now they're saying that it won't be official",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 363
+  },
+  {
+   "player": "Kawhi Leonard",
+   "said_as": "Lender",
+   "team": "TOR",
+   "horizon": "durable",
+   "text": "The speaker doesn't trust his knees to hold up and would not draft him in round one or two.",
+   "ts": "6:45",
+   "quote": "Do I care to draft him in round one or round two? Absolutely not. because I still don't believe in the knees",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 405
+  },
+  {
+   "player": "Kawhi Leonard",
+   "said_as": "Lender",
+   "team": "TOR",
+   "horizon": "current",
+   "text": "He is a pick in the 40s in standard leagues and in the 30s to 40s in games-cap leagues. Probably top 10 per game but not top five.",
+   "ts": "6:45",
+   "quote": "he's a player in the 40s that I would pick. Games Cap leagues, you move him up around.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 417
+  },
+  {
+   "player": "Giannis Antetokounmpo",
+   "said_as": "Yaniant Dumpo",
+   "team": "MIA",
+   "horizon": "current",
+   "text": "He was 10th in category leagues and 5th in points leagues while playing only 29 minutes. In Miami he should play at least 32 minutes. The roster has few other creators, so he could keep high usage.",
+   "ts": "7:15",
+   "quote": "he was the 10th ranked player in category leagues he was actually fifth in points leagues while playing only 29 minutes",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 455
+  },
+  {
+   "player": "Giannis Antetokounmpo",
+   "said_as": "Giannis",
+   "team": "MIA",
+   "horizon": "current",
+   "text": "The speaker expects him to move from 10th back to around 5th, though injuries are a concern.",
+   "ts": "8:18",
+   "quote": "Giannis probably goes from 10 back to five and injury concerns of both these guys",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 507
+  },
+  {
+   "player": "Walker Kessler",
+   "said_as": "Wera Kesler",
+   "team": "LAL",
+   "horizon": "current",
+   "text": "He is the new Lakers center. He ranked 23rd in five games last season on 31 minutes and 16 usage. His backups are weak, so he will play a lot. The speaker thinks he could be a top 20 player this season.",
+   "ts": "13:26",
+   "quote": "I actually think that this season maybe he could be. I think he maybe could be.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 806
+  },
+  {
+   "player": "Walker Kessler",
+   "said_as": "Kesler",
+   "team": "LAL",
+   "horizon": "durable",
+   "text": "He has good blocks and excellent field goal percentage, but his free throws are a concern. Expect his three-point percentage to drop, which lowers his field goal percentage and scoring.",
+   "ts": "12:26",
+   "quote": "Good block numbers, excellent field goals. The free throws are concern.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 757
+  },
+  {
+   "player": "Kevon Looney",
+   "said_as": "Kavon Looney",
+   "team": "LAL",
+   "horizon": "current",
+   "text": "He is a weak backup center for the Lakers and not a pick-and-roll threat.",
+   "ts": "12:56",
+   "quote": "Kavon Looney is not one of the best backup centers on the market. Nor is he a pick and roll threat",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 775
+  },
+  {
+   "player": "Yusuf Nurkic",
+   "said_as": "Ysef Nerk",
+   "team": "UTA",
+   "horizon": "current",
+   "text": "He will probably fill Kessler's center minutes in Utah.",
+   "ts": "13:59",
+   "quote": "It leaves a huge gap in Utah which probably is filled by Ysef Nerk",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 841
+  },
+  {
+   "player": "Jaylen Brown",
+   "said_as": "Jaylen Brown",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "He had 36% usage last season and ranked 25th in category leagues and 10th in points leagues. In Philadelphia his usage likely falls to 28 to 30, which makes him a third or fourth round type of player.",
+   "ts": "15:33",
+   "quote": "Brown is not likely going to be a 36 usage guy in Philadelphia which means that that comes down maybe to 30 to 28",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 936
+  },
+  {
+   "player": "Jaylen Brown",
+   "said_as": "Brown",
+   "team": "PHI",
+   "horizon": "durable",
+   "text": "His value is scoring and rebounds. He is not a good passer, three-point shooter, free throw shooter, or steals and blocks contributor.",
+   "ts": "15:33",
+   "quote": "Is he a good passer? No. Good rebounder? Not really. Good three-point shooter? No. Good free throw shooter?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 952
+  },
+  {
+   "player": "VJ Edgecombe",
+   "said_as": "VJ Edge",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "His usage could fall below 20% with Brown arriving.",
+   "ts": "15:33",
+   "quote": "Does Edge come be become a below 20% guy?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 947
+  },
+  {
+   "player": "LaMelo Ball",
+   "said_as": "LaMelo B",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "He moves to Minnesota, which will be competitive, so he won't be sat out for tanking. His minutes should go up from 28, but his usage will likely go down. He was 32nd last season and could be a top 25 to top 30 player with regular minutes.",
+   "ts": "17:41",
+   "quote": "The usage almost certainly goes down, but he was 32nd last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1071
+  },
+  {
+   "player": "LaMelo Ball",
+   "said_as": "LaMelo Ball",
+   "team": "MIN",
+   "horizon": "durable",
+   "text": "The speaker thinks fears about his ankles are overblown. Many of the games he missed came from his team tanking.",
+   "ts": "17:41",
+   "quote": "I was never as worried about LaMelo Ball's ankles as others were",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1058
+  },
+  {
+   "player": "LeBron James",
+   "said_as": "LeBron",
+   "team": "",
+   "horizon": "current",
+   "text": "He is unsigned, and the speaker guesses Cleveland. Last season he ranked 34th (23rd in points leagues) on 33 minutes. At 41 he will pace himself, so at best he is a third round player.",
+   "ts": "19:16",
+   "quote": "He will preserve himself through the season, through to the playoffs, and he probably is at best a third roundish",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1162
+  },
+  {
+   "player": "Julius Randle",
+   "said_as": "Julius Randall",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "He left Minnesota. He was 48th in category leagues and 42nd in points leagues, with 27 usage in 33 minutes. Sharing the ball with Michael Porter Jr. is better than playing second fiddle to Anthony Edwards, so his usage and assists could go up. The speaker calls it a positive spot.",
+   "ts": "20:18",
+   "quote": "I'd prefer to be playing alongside Michael Porter Jr. having the ball in his hands more.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1228
+  },
+  {
+   "player": "Julius Randle",
+   "said_as": "Randle",
+   "team": "BKN",
+   "horizon": "durable",
+   "text": "His reputation for hurting percentages is not accurate. He shoots around 80% from the line and 48% from the field. His steals are average, his blocks are bad, and he turns the ball over a lot.",
+   "ts": "21:19",
+   "quote": "like an 80% free throw is good. It's above average. He does not kill your percentages.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1296
+  },
+  {
+   "player": "Julius Randle",
+   "said_as": "Randall",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Brooklyn doesn't control its pick, so it has no reason to tank. Still, he could miss time late in the season so young players can develop.",
+   "ts": "21:49",
+   "quote": "Danny Wolf and Noah Clowny are the guys that would benefit from Randall missing time down the stretch",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1318
+  },
+  {
+   "player": "Paul George",
+   "said_as": "Paul George",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "He was 54th per game and 65th in points leagues with 23 usage behind Tyrese Maxey and Joel Embiid. In Boston he is the clear number two behind Jayson Tatum, so his usage should go up. The speaker will not avoid him.",
+   "ts": "23:22",
+   "quote": "I'm not going to be avoiding Paul George. Like despite being like a bad year, he's 54th per game.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1420
+  },
+  {
+   "player": "Paul George",
+   "said_as": "George",
+   "team": "BOS",
+   "horizon": "durable",
+   "text": "His field goal percentage is weak, but he makes threes in volume and gets good steals. He has had knee problems for years.",
+   "ts": "23:22",
+   "quote": "The field goal percentage is not great, but he hits his threes at a big volume.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1393
+  },
+  {
+   "player": "Tyler Herro",
+   "said_as": "Tyler Hero",
+   "team": "MIL",
+   "horizon": "current",
+   "text": "He finished 56th (66th in points leagues) through injuries. In a crowded Milwaukee guard group he won't play point guard, which is a reason to be somewhat skeptical.",
+   "ts": "27:00",
+   "quote": "I guess that's a reason to be somewhat skeptical about Hero. He's going to start he's going to play a lot of minutes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1632
+  },
+  {
+   "player": "Gary Trent Jr.",
+   "said_as": "Gary Trent",
+   "team": "MIL",
+   "horizon": "current",
+   "text": "The speaker calls his four-year, $64 million contract horrific. Milwaukee is all guards, and it's unclear where he fits.",
+   "ts": "24:56",
+   "quote": "The guard situation, by the way, the Gary Trent contract horrific.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1484
+  },
+  {
+   "player": "Kevin Porter Jr.",
+   "said_as": "Kevin Porter",
+   "team": "MIL",
+   "horizon": "current",
+   "text": "He picked up a $5 million player option. He and Ryan Rollins did well last season with Giannis out, but the new guards could cut into their roles.",
+   "ts": "28:00",
+   "quote": "Porter and Rollins thrived last season with Jiannis out and other guys out but now you bring in",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1695
+  },
+  {
+   "player": "Ryan Rollins",
+   "said_as": "Rollins",
+   "team": "MIL",
+   "horizon": "current",
+   "text": "He may be the guy Milwaukee values at point guard, but the incoming guards cloud his role.",
+   "ts": "27:30",
+   "quote": "they just they don't value him and they think Rollins is the guy, which is possible.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1669
+  },
+  {
+   "player": "Brandon Ingram",
+   "said_as": "Brandon Ingram",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "He was 58th last season and is assumed to be headed to the Clippers. The Clippers will be bad and have no reason to win, and he is not a picture of health.",
+   "ts": "29:33",
+   "quote": "They're going to be terrible. And Ingram is not a picture of health himself.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1782
+  },
+  {
+   "player": "Nikola Vucevic",
+   "said_as": "Nicolovic. [music] VC",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "He was 64th last season but will be Orlando's backup center. Don't draft him in 10, 12, or even 14-team leagues.",
+   "ts": "30:04",
+   "quote": "we will not be drafting him at all in any 10, 12, or maybe even 14 team leagues",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1798
+  },
+  {
+   "player": "Ja Morant",
+   "said_as": "Demetrius Morant",
+   "team": "POR",
+   "horizon": "current",
+   "text": "He was 69th last season and moves to a crowded Portland backcourt. Don't take him in the top 50, and maybe not even the top 80.",
+   "ts": "30:36",
+   "quote": "we're not touching John Moran inside the top 50. Obviously, maybe even not the top 80",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1837
+  },
+  {
+   "player": "Ja Morant",
+   "said_as": "Morant",
+   "team": "POR",
+   "horizon": "durable",
+   "text": "Even in limited games, he piled up assists.",
+   "ts": "30:36",
+   "quote": "But even in his limited game time, he had a lot of assists.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1833
+  },
+  {
+   "player": "Norman Powell",
+   "said_as": "Norman Power",
+   "team": "CHI",
+   "horizon": "current",
+   "text": "He was 73rd. In Chicago, the other scorers are low-usage players, so he could have a big impact.",
+   "ts": "30:36",
+   "quote": "it is possible here that Norman Pal is able to have a pretty big impact",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1864
+  },
+  {
+   "player": "Norman Powell",
+   "said_as": "Norman Power",
+   "team": "CHI",
+   "horizon": "durable",
+   "text": "He only contributes scoring. He puts up big numbers when he has the ball to himself and fades when he shares it with a good player.",
+   "ts": "31:06",
+   "quote": "but he doesn't do anything apart from score. We know this.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1869
+  },
+  {
+   "player": "DeMar DeRozan",
+   "said_as": "Demand Rosen",
+   "team": "",
+   "horizon": "current",
+   "text": "He was 84th last season, and his next team is unknown. The speaker is confident he will not be a top 100 player.",
+   "ts": "31:06",
+   "quote": "I feel very, very good that he will not be a top 100 player",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1875
+  },
+  {
+   "player": "Kel'el Ware",
+   "said_as": "Superman Cal Wear",
+   "team": "",
+   "horizon": "current",
+   "text": "He was 97th per game and may start next to Miles Turner or back him up. The speaker says he is not better than Turner yet, but people will reach for him and he will go in the top 50.",
+   "ts": "31:36",
+   "quote": "there will be people who reach for him in round two. I know this. He'll almost certainly go in the top 50",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1913
+  },
+  {
+   "player": "Naz Reid",
+   "said_as": "Big Nars Reed",
+   "team": "CHA",
+   "horizon": "current",
+   "text": "He was 98th. He will be Charlotte's starting four at about 33 minutes, with plenty of usage available. The speaker expects him to be a top 50 player.",
+   "ts": "31:36",
+   "quote": "He'll be the starting four in Charlotte. He'll probably play 33 minutes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1921
+  },
+  {
+   "player": "Miles Bridges",
+   "said_as": "Miles Bridges",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "He was 99th. He moves to Phoenix and should produce at about the same level, giving them a true forward.",
+   "ts": "32:08",
+   "quote": "Miles Bridges goes to Phoenix. He gives him an actual forward size player.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1937
+  },
+  {
+   "player": "Dillon Brooks",
+   "said_as": "Dylan Brooks",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "He will play less at the four now that Bridges has arrived.",
+   "ts": "32:08",
+   "quote": "Dylan Brooks won't play as much at the four",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1951
+  },
+  {
+   "player": "Russell Westbrook",
+   "said_as": "Russell Westbrook",
+   "team": "",
+   "horizon": "current",
+   "text": "He was about 100th per game and is unsigned. The speaker doesn't expect him to have an impact.",
+   "ts": "32:40",
+   "quote": "Russell Westbrook, who I don't think he's actually going to be an impact.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1958
+  },
+  {
+   "player": "Grayson Allen",
+   "said_as": "Grayson Allen",
+   "team": "CHA",
+   "horizon": "current",
+   "text": "He was 103rd, helped by Sacramento having no forwards. He will be a bench player in Charlotte and not a fantasy factor.",
+   "ts": "32:40",
+   "quote": "So Allen's a bench player. He won't be a factor",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1985
+  },
+  {
+   "player": "Santi Aldama",
+   "said_as": "Santi Al Dama",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "He was 117th and moves to Dallas, which is crowded at the four. He needs to start and play 28 minutes to matter, so he has almost no draft value.",
+   "ts": "33:11",
+   "quote": "He needs to be starting and playing 28 minutes to really have an impact.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2019
+  },
+  {
+   "player": "John Collins",
+   "said_as": "John Collins",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He was about 120th. Detroit gives him more stability and possibly more usage and minutes, so he should beat that rank but won't reach his prime level.",
+   "ts": "33:43",
+   "quote": "So, he should be better than that, but not as good as what he was in his absolute prime.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2048
+  },
+  {
+   "player": "Donovan Mitchell",
+   "said_as": "Donovan Mitchell",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "He was 8th last season. If LeBron joins Cleveland, he may fall out of the top 10.",
+   "ts": "8:49",
+   "quote": "Donovan Mitchell who was the what eighth ranked player he might be joined by LeBron.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 535
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "MIL",
+   "horizon": "current",
+   "text": "Milwaukee doesn't own its pick, so it has no reason to win or tank. The speaker expects the Bucks to be bad, and their roster is overloaded with guards.",
+   "ts": "26:30",
+   "quote": "Anyway, the bucks are going to be bad.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1609
+  },
+  {
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Brooklyn's pick goes to Houston, so the Nets have no reason to tank or to win. They are a team to worry about late in the season.",
+   "ts": "10:22",
+   "quote": "They're just going to lose their pick. Brooklyn to Houston and Milwaukee to either the Hawks or the Pelicans.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 622
+  },
+  {
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Their pick owed to Charlotte is top-two protected. Under the new odds, Dallas may push to win rather than tank. The team is crowded with forwards who are ideally fours.",
+   "ts": "9:51",
+   "quote": "Dallas probably has to push a little bit more, I would guess, to increase their odds of keeping a top two pick",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 592
+  },
+  {
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Because of pick swaps, the Clippers expect to lose their pick, so they have no reason to push and can focus on development. The speaker expects them to be terrible, with a rookie point guard and 39-year-old Brook Lopez at center.",
+   "ts": "29:33",
+   "quote": "So there's no incentive for them to push to make sure they're out of relegation zone.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1764
+  },
+  {
+   "team": "LAL",
+   "horizon": "current",
+   "text": "Walker Kessler replaces Deandre Ayton and Jaxson Hayes. The backup centers are weak, so the Lakers depend on Kessler.",
+   "ts": "12:56",
+   "quote": "If they lose or mate Kesler at any point, they're rooted.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 778
+  },
+  {
+   "team": "UTA",
+   "horizon": "current",
+   "text": "Kessler's exit leaves a hole at center, probably filled by Yusuf Nurkic. The speaker doubts they go full-time with Jaren Jackson Jr. or start Kyle Filipowski.",
+   "ts": "13:59",
+   "quote": "I don't think they go full-time Jiren Jackson but I don't know. And I don't think they start Kyle Filipowski.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 847
+  },
+  {
+   "team": "POR",
+   "horizon": "current",
+   "text": "Portland is crowded at guard: Damian Lillard, Ja Morant, Jrue Holiday, Deni Avdija, with Scoot Henderson and Shaedon Sharpe off the bench.",
+   "ts": "30:04",
+   "quote": "So we're having Lilard de Morant start with Drew Holiday Denny Abdia and then scoot and sharp off the bench.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1825
+  },
+  {
+   "team": "CHA",
+   "horizon": "current",
+   "text": "With LaMelo Ball and Miles Bridges gone, there is a lot of usage open in Charlotte. Naz Reid will start at the four.",
+   "ts": "31:36",
+   "quote": "there's a lot of usage with no LaMelo Ball or Miles Bridges there.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1924
+  },
+  {
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Minnesota should be competitive, so it won't be resting players for tanking. Randle is gone, and LaMelo Ball changes the team's ecosystem.",
+   "ts": "17:08",
+   "quote": "And Minnesota is going to be competitive. So, he's not and this the tanking is not a thing.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1051
+  },
+  {
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Jaylen Brown's arrival will lower the usage of Maxey, Embiid, and Edgecombe.",
+   "ts": "14:31",
+   "quote": "Not only is Jaylen Brown moving over there, but that has an impact on other guys like the dominatrix VJ Edge",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 873
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Kawhi Leonard was the fifth-ranked player last season.",
+   "ts": "6:14",
+   "quote": "Lender was the fifth ranked player last season and",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 399
+  },
+  {
+   "text": "Giannis Antetokounmpo was 10th in category leagues and 5th in points leagues while playing 29 minutes per game, with about 38% usage.",
+   "ts": "7:15",
+   "quote": "he was the 10th ranked player in category leagues he was actually fifth in points leagues while playing only 29 minutes",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 455
+  },
+  {
+   "text": "Luka Doncic was 2nd, Tyrese Maxey 4th, and Donovan Mitchell 8th last season.",
+   "ts": "8:18",
+   "quote": "Luca Donic, who was the second ranked player last season, has a completely different lineup around him",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 519
+  },
+  {
+   "text": "Walker Kessler played 5 games last season and was 23rd in category leagues and 41st in points leagues, on 31 minutes and 16% usage.",
+   "ts": "11:55",
+   "quote": "He played five games. We know this. The numbers were good. He was the 23rd ranked player.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 739
+  },
+  {
+   "text": "Kessler averaged about 14 points, 11 rebounds, and 3 assists, and his three-point attempt rate rose from 7% to 20%.",
+   "ts": "12:26",
+   "quote": "14 and 11, three assists is a big number for him.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 754
+  },
+  {
+   "text": "Jaylen Brown had 36% usage on 34 minutes and was 25th in category leagues and 10th in points leagues.",
+   "ts": "14:31",
+   "quote": "Brown, who had a 36% usage last season. He played 34 minutes a night. He was the 25th ranked player",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 885
+  },
+  {
+   "text": "LaMelo Ball played 28 minutes per game and ranked 32nd last season.",
+   "ts": "16:38",
+   "quote": "He only played 28 minutes a game last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1012
+  },
+  {
+   "text": "LeBron James played 33 minutes per game, ranked 34th (23rd in points leagues), and averaged 21 points.",
+   "ts": "18:45",
+   "quote": "ended up playing 33 minutes a night and was the 34th ranked player, 23 in points leagues",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1135
+  },
+  {
+   "text": "Julius Randle was 48th in category leagues and 42nd in points leagues, with 27% usage in 33 minutes, averaging about 21 points, 7 rebounds, and 5 assists on 48% FG, 80% FT, and 32% 3P.",
+   "ts": "19:47",
+   "quote": "He had a 27 usage in 33 minutes averaging 217 and five. He shot 48 and 80 with 32 from three.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1195
+  },
+  {
+   "text": "Paul George was suspended 25 games and ranked 54th per game and 65th in points leagues, averaging about 17 points, 5 rebounds, 4 assists, and 1.7 steals on 31 minutes and 23% usage.",
+   "ts": "22:52",
+   "quote": "he was 54th. He averaged 17 what? Five and four with 1.7 steals.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1387
+  },
+  {
+   "text": "Tyler Herro ranked 56th (66th in points leagues) on 31 minutes and 25% usage.",
+   "ts": "24:25",
+   "quote": "He ended up 56th. 66th in points leagues, 31 minutes night, 25 usage.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1471
+  },
+  {
+   "text": "Gary Trent Jr. signed a four-year, $64 million fully guaranteed contract with Milwaukee.",
+   "ts": "24:56",
+   "quote": "You don't sign for four years, $64 million fully guaranteed because you think he's that good.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1507
+  },
+  {
+   "text": "Last season's per-game ranks: Ingram 58th, Vucevic 64th, Morant 69th, Powell 73rd, DeRozan 84th.",
+   "ts": "30:36",
+   "quote": "Norman Power 73rd. Now we know what Norman Power story is.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1843
+  },
+  {
+   "text": "Last season's per-game ranks: Ware 97th, Reid 98th, Bridges 99th, Westbrook 100th, Allen 103rd, Aldama 117th, Collins about 120th.",
+   "ts": "32:08",
+   "quote": "Miles Bridges was 99th. Look at this run. 97, 98, 99, 100.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1932
+  },
+  {
+   "text": "Kevin Porter Jr. picked up a $5 million player option.",
+   "ts": "27:30",
+   "quote": "he got five picked up a $5 million player option.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1660
+  }
+ ]
+}

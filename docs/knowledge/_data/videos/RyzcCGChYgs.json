@@ -1,0 +1,557 @@
+{
+ "video": {
+  "id": "RyzcCGChYgs",
+  "title": "Summer League Fact Or Fiction: Recapping The Western Conference",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-07-21",
+  "duration": "40:48",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T11:19:25+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.2660398,
+  "duration_ms": 58991
+ },
+ "summary": "Josh Lloyd reviews Western Conference summer league performances team by team, in reverse alphabetical order, and asks which ones matter for fantasy. He says assists, rebounds, blocks, three-point attempt rate and scoring carry over to the NBA, while shooting percentages and steals do not. He also says role, usage and teammates matter more than raw numbers. Cameron Boozer looked like a top 50 player already. Joan Beringer is a deep-league stash as Minnesota's backup center. Darryn Peterson, Darius Acuff Jr. and Yaxel Lendeborg looked less impressive than the hype. Khaman Maluach, Sergio de Larrea and Trevon Brazile were standouts who will need opportunity to matter.",
+ "rules": [
+  {
+   "text": "The summer league stats that carry over for rookies are assists, rebounds, blocks, three-point attempt rate and scoring. Shooting percentages and steals have little correlation.",
+   "ts": "1:06",
+   "quote": "the things we look at are assists, rebounds, blocks, three-point attempt rate, scoring, percentages, steals don't really matter",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 72
+  },
+  {
+   "text": "Judge summer league numbers by context: the player's role, his usage and who else is on the roster. A player on a thin team gets inflated volume.",
+   "ts": "1:06",
+   "quote": "What role was a player playing? How did the team want them to perform? And one of the key ones, who else was on their team?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 86
+  },
+  {
+   "text": "Compare summer league usage with the usage the player will get on the real NBA roster.",
+   "ts": "2:08",
+   "quote": "All of those things are a part of it versus just looking at raw numbers.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 130
+  },
+  {
+   "text": "Watch out for highlight reel bias. Early big games can create hype that the overall production does not support.",
+   "ts": "4:11",
+   "quote": "I think that the early hype did not match the overall production.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 274
+  },
+  {
+   "text": "Experienced or older players should dominate summer league. Mid numbers from a player with NBA experience are a warning sign.",
+   "ts": "21:54",
+   "quote": "the fact that you put up those mid numbers as a bloke with starting NBA experience is is worrying",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1326
+  },
+  {
+   "text": "In deeper, weekly, roto or games-cap leagues, draft and stash a backup center whose starter could get hurt. He can also be streamed for blocks.",
+   "ts": "20:18",
+   "quote": "If you have a league with a slightly deeper bench, a weekly league, a roto league, a games cap league",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1229
+  },
+  {
+   "text": "Rookies usually start slow and improve toward the end of the season.",
+   "ts": "25:31",
+   "quote": "like all rookies, it'll be slow to start and he'll come good towards the end.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1547
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Darryn Peterson",
+   "said_as": "Darren Peterson",
+   "team": "UTA",
+   "horizon": "current",
+   "text": "He averaged 20 points and 5 assists, but also 5 turnovers. He shot under 40% from the field and 78% from the line on 38% usage. He will not get that usage alongside Markkanen, Jackson and George. The early hype did not match his production.",
+   "ts": "3:40",
+   "quote": "He shot 38, sorry, had 38% usage, which is a gigantic number.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 224
+  },
+  {
+   "player": "Darryn Peterson",
+   "said_as": "Darren Peterson",
+   "team": "UTA",
+   "horizon": "current",
+   "text": "He should still be a top 100 redraft pick. He is probably number two in rookie dynasty rankings.",
+   "ts": "4:11",
+   "quote": "he's still going to be a top 100 fantasy draft pick this season",
+   "value_hint": "top 100 redraft; #2 rookie dynasty",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 263
+  },
+  {
+   "player": "Cody Williams",
+   "said_as": "Cody Williams",
+   "team": "UTA",
+   "horizon": "current",
+   "text": "He scored 12 points in 29 minutes and attempted under one free throw a game. His defensive numbers were good, but he probably will not get rotation minutes.",
+   "ts": "4:41",
+   "quote": "is he even going to get any minutes as part of the rotation? I would say probably not.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 290
+  },
+  {
+   "player": "Ace Bailey",
+   "said_as": "Ace Bailey",
+   "team": "UTA",
+   "horizon": "current",
+   "text": "He played only 14 minutes a game, so there is little to judge. He is likely a bench player close to 30 minutes, and there is a usage gap.",
+   "ts": "5:12",
+   "quote": "I think he will be a bench player. He probably still gets closeish to 30 minutes",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 321
+  },
+  {
+   "player": "Carter Bryant",
+   "said_as": "Carter Bryant",
+   "team": "SAS",
+   "horizon": "current",
+   "text": "He blocked 2 shots a game in two games. His role is unclear behind Keldon Johnson, Tobias Harris and Harrison Barnes.",
+   "ts": "6:13",
+   "quote": "I love the fact that we got two blocks a game out of him. He only played two games.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 384
+  },
+  {
+   "player": "Darius Acuff Jr.",
+   "said_as": "Darius Akoff Jr.",
+   "team": "SAC",
+   "horizon": "current",
+   "text": "He had 39% usage and 19 points with 4.5 assists. He shot under 70% FT, 35% FG and 27% from three. His usage will be cut by LaVine, Monk and Sabonis. He will likely be overdrafted in redraft.",
+   "ts": "8:18",
+   "quote": "He'll be drafted and almost certainly overdrafted in reddraft leagues",
+   "value_hint": "overdrafted",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 517
+  },
+  {
+   "player": "Emanuel Sharp",
+   "said_as": "Emanuel Sharp",
+   "team": "SAC",
+   "horizon": "current",
+   "text": "He beat expectations: 2.6 steals, 94% FT and 14 points in 26 minutes.",
+   "ts": "8:49",
+   "quote": "2.6 steals, 94 from the line is encouraging despite the other shooting numbers being bad.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 530
+  },
+  {
+   "player": "Dylan Cardwell",
+   "said_as": "Dylan Cardwell",
+   "team": "SAC",
+   "horizon": "durable",
+   "text": "He is a rebounds and blocks big who shot terribly from the line, 40%. He is likely an 18-minute energy player behind Raynaud.",
+   "ts": "9:20",
+   "quote": "free throw shooting 40% from the line he just cannot hit them",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 576
+  },
+  {
+   "player": "Maxime Raynaud",
+   "said_as": "Maxime Reno",
+   "team": "SAC",
+   "horizon": "current",
+   "text": "He took 39% of his shots from three and blocked no shots. His three-point rate is rising, which would lower his FG% but add points and threes. Keep an eye on it.",
+   "ts": "9:50",
+   "quote": "he took a lot of threes. 39% of his shots were from three.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 602
+  },
+  {
+   "player": "Nique Clifford",
+   "said_as": "Nick Clifford",
+   "team": "SAC",
+   "horizon": "current",
+   "text": "He was inefficient last season and very mid in summer league at age 24.5. Lloyd worries he will not make it.",
+   "ts": "12:27",
+   "quote": "I'm a little worried that Nick is not going to make it.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 766
+  },
+  {
+   "player": "Alex Karaban",
+   "said_as": "Alex Caraban",
+   "team": "SAC",
+   "horizon": "durable",
+   "text": "He averaged 8 points on 16.5% usage. He is a shooter who does nothing else, like a much worse Duncan Robinson.",
+   "ts": "12:58",
+   "quote": "He's like a way way worse Duncan Robinson.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 797
+  },
+  {
+   "player": "Yang Hansen",
+   "said_as": "Young Han Sen",
+   "team": "POR",
+   "horizon": "current",
+   "text": "He averaged 12 and 8 with 3.8 assists. He does not look ready and sits behind Clingan and Robert Williams, so he will not play without injuries.",
+   "ts": "14:02",
+   "quote": "He's really never going to play unless multiple injuries happen.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 844
+  },
+  {
+   "player": "Khaman Maluach",
+   "said_as": "Kaman Malwatch",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "He averaged 18 and 13 with 2 blocks and 2 threes and was a top 10 fantasy player in summer league. He is blocked by Mark Williams and Oso Ighodaro. At 21 minutes he could be a top 170 guy, and he would get a big role if Williams gets hurt.",
+   "ts": "15:05",
+   "quote": "if he plays 21 minutes a night, he he might like be a top 170 guy",
+   "value_hint": "top 170 at 21 mpg; not a last redraft pick yet",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 918
+  },
+  {
+   "player": "Koby Brea",
+   "said_as": "Kobe Bryer",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "His role is three-point shooter, but he shot 29% from three. It has been all negative so far for this second-year player.",
+   "ts": "16:07",
+   "quote": "Not enough to rescue more than 29% shooting from three.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 978
+  },
+  {
+   "player": "Bennett Stirtz",
+   "said_as": "Bennett Sts",
+   "team": "OKC",
+   "horizon": "current",
+   "text": "He had 14 points and 3 assists in 28 minutes on 30% from three. Fine but not great. He is still not in the rotation over SGA, Mitchell, Wallace and Topic.",
+   "ts": "17:10",
+   "quote": "I thought he was fine without being great.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1045
+  },
+  {
+   "player": "Aday Mara",
+   "said_as": "Adimara",
+   "team": "OKC",
+   "horizon": "durable",
+   "text": "He shot 35.7% from the line, but he is a strong passer: 3.2 assists, 7 rebounds and 1.8 blocks. He looked slow and will barely play behind Hartenstein, Chet and Jaylin Williams. He is already 21.",
+   "ts": "17:41",
+   "quote": "The 35.7% from the line is horrifying. And he was not a good free throw guy in college",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1056
+  },
+  {
+   "player": "Joan Beringer",
+   "said_as": "Yoan Ber",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "He went 17-11 with 4 blocks in one game. He is the backup center behind Gobert. Stash him in deeper leagues. If Gobert gets hurt he will be picked up everywhere.",
+   "ts": "20:18",
+   "quote": "deeper leagues, you need to draft this guy because he is their backup center.",
+   "value_hint": "draft earlier than expected in deep leagues",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1212
+  },
+  {
+   "player": "Joan Beringer",
+   "said_as": "Being",
+   "team": "MIN",
+   "horizon": "durable",
+   "text": "In 28 minutes he could put up 12 and 10 with 2.4 blocks on 60% shooting. Lloyd expects at least one top 50 season in his career.",
+   "ts": "21:21",
+   "quote": "I think he's going to be have at least one top 50 fantasy season in his career.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1293
+  },
+  {
+   "player": "Zyon Pullin",
+   "said_as": "Zion Puland",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "He was too good for summer league: 17 points, 8 assists and 7 FTA at age 25. Encouraging.",
+   "ts": "21:54",
+   "quote": "17 points, eight assists, seven free throw attempts per game. he was too good for this level.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1310
+  },
+  {
+   "player": "Isaiah Evans",
+   "said_as": "Isaiah Evans",
+   "team": "MIN",
+   "horizon": "durable",
+   "text": "He is a pure volume shooter: 10 three-point attempts out of 14 shots, but 21% shooting. If he gets a role he could hit 2.5 threes in 20 minutes and do nothing else.",
+   "ts": "22:56",
+   "quote": "He attempted 10 threes a game. 10 threes a game out of his 14 shots.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1384
+  },
+  {
+   "player": "Cameron Boozer",
+   "said_as": "Camboozer",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "He averaged 17-7-4 with a steal and a three on 51% FG, 82% FT and 40% 3P. Lloyd expects a top 50 finish this season. He would not take him in round 3, maybe round 4. He is the number one dynasty rookie.",
+   "ts": "25:31",
+   "quote": "I feel confident that he will finish the season as a top 50 player this season.",
+   "value_hint": "top 50; not round 3, maybe round 4; #1 dynasty rookie",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1543
+  },
+  {
+   "player": "Cedric Coward",
+   "said_as": "Cedric Coward",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "He had 1.3 blocks and 16 points, but shot 40% FG and 31% 3P. He will have a sizable role and be draftable. Lloyd is unsure about his peripheral stats.",
+   "ts": "27:02",
+   "quote": "I think he's going to have a pretty sizable role this season and that's going to make him useful",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1641
+  },
+  {
+   "player": "Cameron Carr",
+   "said_as": "Cameron Carr",
+   "team": "LAL",
+   "horizon": "current",
+   "text": "He took almost 7 threes a game, but shot 42% FG, 29% 3P and 73% FT with little else. He will play 12 to 16 minutes and will not impact most leagues.",
+   "ts": "29:39",
+   "quote": "He's not going to impact most leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1795
+  },
+  {
+   "player": "Kobe Sanders",
+   "said_as": "Kobe Sanders",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "He had 14, 5 and 4 and was a bit too good for summer league. He would be part of the rotation.",
+   "ts": "30:09",
+   "quote": "Kobe Sanders was probably just a little bit too good for summer league.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1816
+  },
+  {
+   "player": "Keaton Wagler",
+   "said_as": "Katon Waggler",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "He scored 16 points on 39% FG with 6 three-point attempts, low assists and no defensive stats. He is probably not an opening night starter or a 30-minute player. He is only a late pick and will be rocky.",
+   "ts": "31:41",
+   "quote": "while we can draft him as a late late pick, I think it's going to be incredibly rocky.",
+   "value_hint": "late late pick",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1922
+  },
+  {
+   "player": "Cam Christie",
+   "said_as": "Cam Christie",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "In his third year he shot 22%. Lloyd calls it a big red flag.",
+   "ts": "32:11",
+   "quote": "You got to shoot better than 22%.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1934
+  },
+  {
+   "player": "Bruce Thornton",
+   "said_as": "Brucey Thornton",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "He averaged 16 points, 2.5+ steals and 4 assists, and shot 41% from three. He has no path to rotation minutes.",
+   "ts": "32:11",
+   "quote": "Brucey Thornton looked really good. 16 points a game in 31 minutes",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1948
+  },
+  {
+   "player": "Yaxel Lendeborg",
+   "said_as": "Yakel Linderborg",
+   "team": "GSW",
+   "horizon": "current",
+   "text": "He went 13-6-4 with good assists, but under 70% FT and 48% FG. His numbers were boosted by unsustainable 48% three-point shooting. He is almost 24. He likely will not start, he had defensive issues, and he will be overvalued.",
+   "ts": "34:15",
+   "quote": "I worry a lot defensively and I think he's going to be somewhat overvalued.",
+   "value_hint": "overvalued",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2072
+  },
+  {
+   "player": "Trevon Brazile",
+   "said_as": "Trayvon Brazil",
+   "team": "DEN",
+   "horizon": "current",
+   "text": "He averaged 18 and 8 with 1.3 blocks and 3 threes on 47%, but the shooting is unlikely to stick. He could slide in behind Aaron Gordon if Peyton Watson does not return.",
+   "ts": "35:51",
+   "quote": "if Watson does not return, Brazil would just sort of slide into that role",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2161
+  },
+  {
+   "player": "KJ Simpson",
+   "said_as": "KJ Simpson",
+   "team": "DEN",
+   "horizon": "current",
+   "text": "He averaged 6.5 assists. He is the third-string point guard behind Murray and Tyus Jones and is still on a two-way.",
+   "ts": "36:22",
+   "quote": "KJ Simpson averaged six and a half assists with a steal as a third string point guard",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2194
+  },
+  {
+   "player": "Sergio de Larrea",
+   "said_as": "Sergio Dea",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "He averaged almost 9 assists, which is rare in summer league, but shot under 30%. Dallas guard depth is thin, but relying on a 20-year-old rookie is not a great idea.",
+   "ts": "38:56",
+   "quote": "getting nine assists per game is just not a normal thing in summer league.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2342
+  },
+  {
+   "player": "Tyler Smith",
+   "said_as": "Tyler Smith",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "He has never been good so far and looks like a bust, though he is only 20.",
+   "ts": "39:27",
+   "quote": "Tyler Smith, someone I hoped could be good, has never been good so far",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2369
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "OKC",
+   "horizon": "current",
+   "text": "OKC lost Wiggins, Joe and Dort. Guard minutes still go to SGA, Mitchell, Wallace and Topic. The center rotation is Hartenstein, Chet and Jaylin Williams.",
+   "ts": "17:10",
+   "quote": "The Thunder have lost Wiggins, Joe and Dort. That doesn't mean Sturtz is going to be in the rotation",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1024
+  },
+  {
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Minnesota has no other backup center behind Gobert besides Beringer.",
+   "ts": "20:18",
+   "quote": "he is their backup center. There is nobody else.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1214
+  },
+  {
+   "team": "MEM",
+   "horizon": "current",
+   "text": "The Memphis forward rotation is crowded with Prosper, Hendricks, Edey and Stewart. Boozer will start.",
+   "ts": "28:05",
+   "quote": "this team is actually crowded. Boozer is going to start.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1680
+  },
+  {
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Dallas guard depth is horrific. Kyrie is 36 and coming off injury, and Christie and Flagg are not point guards. Dallas also has many forwards, so frontcourt minutes are crowded.",
+   "ts": "38:26",
+   "quote": "the Maverick's guard depth is horrific. Kyrie Irving is there, but Bro is 36.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2295
+  },
+  {
+   "team": "LAC",
+   "horizon": "current",
+   "text": "The Clippers rotation is up in the air with Garland, Mathurin possibly returning and Kris Dunn.",
+   "ts": "30:39",
+   "quote": "Their team is still very much up in the air.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1839
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Maxime Raynaud took only 11% of his shots from three last season and made 0.3 threes per game.",
+   "ts": "9:50",
+   "quote": "He only attempted 11% of his shots from three last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 619
+  },
+  {
+   "text": "Raynaud took 25% of his shots from three in the last week of the season.",
+   "ts": "10:22",
+   "quote": "The last week he was at 25% of his shots from three",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 626
+  },
+  {
+   "text": "Darius Acuff Jr. shot 44% from three in college.",
+   "ts": "7:47",
+   "quote": "He was a 44% three-point shooter in college, but had never been that prior.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 488
+  },
+  {
+   "text": "Kobe Sanders started about 20 games last season.",
+   "ts": "30:09",
+   "quote": "he started what 20 games last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1830
+  }
+ ]
+}

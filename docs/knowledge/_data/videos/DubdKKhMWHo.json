@@ -1,0 +1,506 @@
+{
+ "video": {
+  "id": "DubdKKhMWHo",
+  "title": "NBA Fantasy Basketball Rankings Best & Worst Case Scenarios for Every Round [2026/27]",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-09-17",
+  "duration": "36:50",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T14:12:40+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.2376598,
+  "duration_ms": 55742
+ },
+ "summary": "Josh Lloyd goes through the first 10 rounds of Fantrax ADP. For each round he names the player with the tightest range of outcomes and the player with the widest. The ranges come from his projections and historical variance in each category, using the middle 60% of outcomes (20th to 80th percentile). Injuries and minutes are not included. Jokic, Durant, Kawhi, Sabonis, Kyrie, Gobert, Hartenstein, Sharpe and Darryn Peterson come out as the narrow-range options. Haliburton, Trae Young, Brunson, Knueppel, Anunoby, Sarr, Pritchard, Norman Powell, Dybantsa and Reed Sheppard have the widest ranges. He strongly advises avoiding Alex Sarr, Payton Pritchard and AJ Dybantsa at their ADPs. His closing point is that small changes, like one extra steal a week, can move a player's rank a lot, so you should draft knowing a player's range and decide when you want safety and when you want upside.",
+ "rules": [
+  {
+   "text": "Fantasy leagues are small samples. Do not treat a player's average as something that will repeat exactly.",
+   "ts": "0:34",
+   "quote": "we deal with small sample sizes in most fantasy leagues, roto excluded.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 58
+  },
+  {
+   "text": "Putting too much of your team into high-variance categories leaves you open to strange losses.",
+   "ts": "1:06",
+   "quote": "putting all your eggs into a high variance basket leads you susceptible to weird losses.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 88
+  },
+  {
+   "text": "Pick between upside and safety based on your roster. If you have already taken several risky swings, lean toward players with a narrower range.",
+   "ts": "2:43",
+   "quote": "I've done a lot of cracks, so therefore maybe I want to get a guy where the range is narrower",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 186
+  },
+  {
+   "text": "Steals are a highly variable category. Even elite steals players can drop to 0.7 or 0.8 per game in a season.",
+   "ts": "13:06",
+   "quote": "We know that steals are a highly variant category and he's terrible at them.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 794
+  },
+  {
+   "text": "Further down the board, ranks are packed tightly. A small drop in one stat can cost a player 10 or more spots.",
+   "ts": "13:37",
+   "quote": "instead of 6.7 assists you average 6.4 four and you fell 12 spots. Everything is incredibly tight",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 851
+  },
+  {
+   "text": "In later rounds (9 and 10), the downside of most players is just being useless. Take upside flyers on players who could reach the top 50.",
+   "ts": "23:02",
+   "quote": "can anyone be top 50 here? Have a look",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1410
+  },
+  {
+   "text": "Base fantasy value on each player's current situation, not on how much you like them as a player.",
+   "ts": "25:06",
+   "quote": "everything in how I look at at fantasy is about what's the current situation.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1528
+  },
+  {
+   "text": "Whether you choose an upside pick or a safe pick depends on what the rest of your team looks like.",
+   "ts": "29:15",
+   "quote": "that is depending on what sort of player you want, what's your team looking like?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1782
+  },
+  {
+   "text": "Tiny changes move ranks a lot. One extra steal a week (about 0.3 per game) can be worth around 15 spots, and one extra made basket per game around 10 spots.",
+   "ts": "34:26",
+   "quote": "your steals go up by.3 and your fantasy rank improves by 15 spots.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2076
+  },
+  {
+   "text": "Nothing in a projection is guaranteed. Understand which categories are more variable and decide when you are drafting for safety and when for a big upside hit.",
+   "ts": "35:59",
+   "quote": "Work out when you're drafting for safety and when you're drafting for that big dinger.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2169
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Nikola Jokic",
+   "said_as": "Yokic",
+   "team": "DEN",
+   "horizon": "current",
+   "text": "He has the tightest range in round one. ADP is 1.5. Best case is 1st and worst case is 3rd.",
+   "ts": "4:17",
+   "quote": "Yokic's ADP is 1.5. So, he goes at pick one or two. The best outcome",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 279
+  },
+  {
+   "player": "Victor Wembanyama",
+   "said_as": "Victor Wmanyama",
+   "team": "SAS",
+   "horizon": "current",
+   "text": "Best case is 1st and downside is around 5th. A safe pick at the top.",
+   "ts": "4:48",
+   "quote": "I've got WebM's downside risk at number five. I got four players",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 313
+  },
+  {
+   "player": "Tyrese Haliburton",
+   "said_as": "Tus Hallebertton",
+   "team": "IND",
+   "horizon": "current",
+   "text": "He has the widest range in round one. ADP is 11.5, best case 8th and worst case 55th. Rust from the Achilles injury could lower his usage and efficiency. Projected around 18 points, 3.5 rebounds, almost 10 assists and 1.3 steals.",
+   "ts": "5:48",
+   "quote": "He's got AP of 11.5. To me he is the widest range of outcomes in that first round",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 350
+  },
+  {
+   "player": "Kevin Durant",
+   "said_as": "Kevin Durant",
+   "team": "",
+   "horizon": "current",
+   "text": "He has the narrowest range in round two. ADP is 17. The speaker ranks him as a first-round player. Best case 6th, worst case 24th, not counting injury.",
+   "ts": "7:22",
+   "quote": "Kevin Durant feels to me is the most stable the narrowest range of outcomes. He's got an ADP of 17.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 446
+  },
+  {
+   "player": "Trae Young",
+   "said_as": "Trey Young",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "The speaker is lower on him than consensus and ranked him around 26th or 27th. ADP is 23. Best case 13th, worst case 78th. His usage may drop next to Davis, Dybantsa, Kyshawn George and Sarr. Projected around 22 points, 10 assists and 1.1 steals.",
+   "ts": "8:24",
+   "quote": "Best case for him, I can see finishing at number 13. Best case for Trey Young at 13.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 504
+  },
+  {
+   "player": "Kawhi Leonard",
+   "said_as": "Kawhi Leonard",
+   "team": "LAC",
+   "horizon": "durable",
+   "text": "He has a degenerative knee condition and multiple meniscus and ACL injuries in the same knee. The speaker would not take him inside the top 40 in a head-to-head league.",
+   "ts": "12:05",
+   "quote": "I wouldn't take Kawhi Leonard in a head-to-head league inside the top 40 picks because of the degenerative knee",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 734
+  },
+  {
+   "player": "Kawhi Leonard",
+   "said_as": "Kawaii",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "His per-game range is tight. ADP is 29, best case 4th and worst case 21st.",
+   "ts": "12:36",
+   "quote": "His ADP on fan tracks is 29. I think best case he can",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 751
+  },
+  {
+   "player": "Jalen Brunson",
+   "said_as": "Jaylen Brunson",
+   "team": "NYK",
+   "horizon": "durable",
+   "text": "He scores on high usage with very good free throws and good field goal percentage. He barely rebounds, his steals and blocks are very poor, and his assists are average.",
+   "ts": "13:37",
+   "quote": "he never rebounds. Steals and blocks are putrid, and the assists are sort of mid.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 820
+  },
+  {
+   "player": "Jalen Brunson",
+   "said_as": "Jaylen Brunson",
+   "team": "NYK",
+   "horizon": "current",
+   "text": "His ADP of 32 is too high for a category league. Best case 22nd, worst case 91st. The speaker does not like him in this range.",
+   "ts": "13:06",
+   "quote": "His ADP is 32. That feels a bit high to",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 783
+  },
+  {
+   "player": "Domantas Sabonis",
+   "said_as": "Dantis Sabonis",
+   "team": "SAC",
+   "horizon": "current",
+   "text": "The speaker is positive on him this year. ADP is 38.4, best case 13th and worst case 55th. Most of the ball-dominant teammates are gone, so his assists could return to 6 and his minutes to 33. The main risk is a trade.",
+   "ts": "15:08",
+   "quote": "Why can't he go back to six assists? Why can't he go back and play 33 minutes?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 915
+  },
+  {
+   "player": "Kon Knueppel",
+   "said_as": "Kadipple",
+   "team": "CHA",
+   "horizon": "current",
+   "text": "He is going too high. Fantrax ADP is 45, best case 25th and worst case 110th. The speaker does not project him in the top 60. Without LaMelo Ball's passing, his efficiency probably will not hold.",
+   "ts": "16:11",
+   "quote": "Fantrax is a little more sane on his AD at 45. Best case I do have him at 25. Worst case it's 110.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 974
+  },
+  {
+   "player": "Kyrie Irving",
+   "said_as": "Kyrie Irving",
+   "team": "DAL",
+   "horizon": "durable",
+   "text": "He has a long history of knee injuries and is older.",
+   "ts": "18:16",
+   "quote": "My problem is that he's got such a long history of injuries and some knee problems too",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1103
+  },
+  {
+   "player": "Kyrie Irving",
+   "said_as": "Kyrie Irving",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "He is coming off an ACL tear, so expect minutes limits and rest on back-to-backs. He might also be traded. ADP is 51.6. Best case 6th and worst case 31st per game. The speaker is reconsidering and thinks he could go around the start of round three.",
+   "ts": "17:12",
+   "quote": "that is Kyrie Irving. His ADP is 51.6. To me, he is a I would not draft inside the top 40",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1054
+  },
+  {
+   "player": "OG Anunoby",
+   "said_as": "Jedi Genobi",
+   "team": "NYK",
+   "horizon": "current",
+   "text": "He has the widest range in round five. ADP is 58, best case 22nd and worst case 89th, mostly because steals vary. His usage was around 19% last season. Projected 17 points, 5 rebounds, 2 assists, 1.3 steals and 0.7 blocks. The speaker still feels confident in him.",
+   "ts": "18:47",
+   "quote": "His ADP is 58. Best case, 22nd. What if he does step it up and just becomes a a higher usage",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1127
+  },
+  {
+   "player": "Rudy Gobert",
+   "said_as": "Rudy Gobbert",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "He has a tight range in round six. ADP is 71.3, best case 59th and worst case 116th.",
+   "ts": "22:32",
+   "quote": "his ADP 71.3. My best case outcome for him is 59th. That's not that high.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1375
+  },
+  {
+   "player": "Alex Sarr",
+   "said_as": "Alex Sar",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "One of the speaker's strongest avoids. ADP is 64.2, best case 62nd and worst case 134th. With Trae Young, AJ Dybantsa and Anthony Davis added, he falls to the fourth or fifth offensive option. Playing next to Davis means fewer blocks and rebounds, more threes and a lower FG%. Projected 13 points, 7 rebounds and 1.9 blocks.",
+   "ts": "24:03",
+   "quote": "I'm only projecting him at 13 points, seven rebounds, 1.9 blocks very simply because you are adding in Trey Young",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1428
+  },
+  {
+   "player": "Ausar Thompson",
+   "said_as": "Asard Thompson",
+   "team": "DET",
+   "horizon": "current",
+   "text": "He has a tighter range in round seven. ADP is 81.6 and best case is 28th, probably from a big steals season. The downside includes his free throws staying dreadful.",
+   "ts": "25:36",
+   "quote": "Asard Thompson, he's got an ADP of 81.6, but best case comes out at 28.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1543
+  },
+  {
+   "player": "Payton Pritchard",
+   "said_as": "Pton Pritchard",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "The speaker goes against the breakout consensus. ADP is 80 and worst case is 171st. He came off the bench for the final 25 games once Tatum returned, and Tatum and Paul George are replacing Jaylen Brown. The speaker would not be surprised if he sits outside the top 110 to 120.",
+   "ts": "26:40",
+   "quote": "My worst case scenario is Pton Pritchard. Now I am going against consensus with a lot of people",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1596
+  },
+  {
+   "player": "Isaiah Hartenstein",
+   "said_as": "Hartenstein",
+   "team": "OKC",
+   "horizon": "current",
+   "text": "He keeps going too late. ADP is 98, best case 40th and worst case 93rd. He was playing very well early last season before getting hurt.",
+   "ts": "28:13",
+   "quote": "Hartenstein just continues to be drafted like way too late in drafts.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1707
+  },
+  {
+   "player": "Norman Powell",
+   "said_as": "Norm Pal",
+   "team": "",
+   "horizon": "durable",
+   "text": "He only contributes scoring, so an off shooting year hurts his value badly.",
+   "ts": "28:45",
+   "quote": "Doesn't do anything apart from score. And if he has an off shooting season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1737
+  },
+  {
+   "player": "Norman Powell",
+   "said_as": "Norm Pal",
+   "team": "",
+   "horizon": "current",
+   "text": "ADP is 91.9, best case 40th and worst case 136th. The speaker would be fine taking him in the 70s or 80s and likes him in round eight.",
+   "ts": "29:15",
+   "quote": "Pal's best case like Hardenstein is 40, but his worst case is 136.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1761
+  },
+  {
+   "player": "Shaedon Sharpe",
+   "said_as": "Dron Sharp",
+   "team": "",
+   "horizon": "current",
+   "text": "Rightly drafted in round nine. ADP is 101, best case 58th and worst case 122nd. The speaker does not see Danny Wolf or Mo Wagner as big obstacles. His blocks were low last season but could come back up. The speaker likes him as a flyer.",
+   "ts": "29:47",
+   "quote": "He's got an ADP of 101. To me, the worst case outcome here on Sharp is 122.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1810
+  },
+  {
+   "player": "AJ Dybantsa",
+   "said_as": "AJ Debant",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "He is a rookie on a team with other high-usage players, so the speaker does not expect his fantasy value to come together in year one. ADP is 101. His best case does not reach the top 100 and his worst case is outside the top 200. Drafting him in the 70s is nonsense. The speaker prefers Coby White.",
+   "ts": "31:19",
+   "quote": "His best case scenario doesn't even hit number 100.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1879
+  },
+  {
+   "player": "Darryn Peterson",
+   "said_as": "Darren Peterson",
+   "team": "UTA",
+   "horizon": "current",
+   "text": "He has the tightest range in round 10. ADP is 113, best case 76th and worst case about 148th. The speaker would take him over AJ Dybantsa in any format.",
+   "ts": "31:51",
+   "quote": "tightest range player in my projections for round 10 at an ADP of 113 is Utah's Darren Peterson.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1916
+  },
+  {
+   "player": "Reed Sheppard",
+   "said_as": "Reed Shepard",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "He has one of the widest ranges in round 10. ADP is 118, best case 61st and worst case outside the top 150. The speaker sees almost no path to 25 minutes a night or a starting role without big injuries. Be careful where you take the flyer.",
+   "ts": "32:22",
+   "quote": "Reed Shepard, who has an ADP of 118. But my best case for him is 61.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1949
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "NYK",
+   "horizon": "current",
+   "text": "The Knicks brought in James Wiseman, Drew Eubanks and other camp signings. The speaker expects one or two of them to make the roster.",
+   "ts": "6:18",
+   "quote": "the Knicks bringing in James Wiseman, Drew Eubanks, I think one of those two make the roster.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 387
+  },
+  {
+   "team": "SAC",
+   "horizon": "current",
+   "text": "Most of the Kings players who took assists away from Sabonis are gone, including DeRozan, Westbrook and Schroder. LaVine and Huerter remain.",
+   "ts": "15:08",
+   "quote": "Lavine is there. D Rozan's gone. Westbrook's gone. Shredder's gone.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 908
+  },
+  {
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Washington added Trae Young, AJ Dybantsa and Anthony Davis. Davis plays center on offense, and Sarr will play more power forward and switch on the perimeter.",
+   "ts": "24:03",
+   "quote": "Trey Young, AJ Dancer, and Anthony Davis. None of those players existed on this team last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1436
+  },
+  {
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Jaylen Brown is gone. Jayson Tatum and Paul George are effectively replacing him, so the speaker sees no extra opportunity for Pritchard.",
+   "ts": "27:11",
+   "quote": "ignores the fact that Tatum and Paul George replaced Jaylen Brown. So not one player, but two.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1644
+  },
+  {
+   "team": "HOU",
+   "horizon": "current",
+   "text": "Amen Thompson and Marcus Smart could take most of the point guard minutes over Reed Sheppard under Udoka.",
+   "ts": "32:22",
+   "quote": "it's just Benle Thompson and Smart getting all the point guard minutes?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1968
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "OG Anunoby's usage rate was only about 19% last season.",
+   "ts": "18:47",
+   "quote": "He's only like 19 usage last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1135
+  },
+  {
+   "text": "Payton Pritchard came off the bench for the final 25 games of last season after Tatum returned.",
+   "ts": "26:40",
+   "quote": "was a bench player for the final 25 games of the season once Jaden Jason Tatum returned.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1631
+  },
+  {
+   "text": "Jalen Brunson averaged about 6.5 assists.",
+   "ts": "13:06",
+   "quote": "What if his assists go from six and a half to eight again?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 808
+  },
+  {
+   "text": "OG Anunoby shot about 38% from three.",
+   "ts": "19:18",
+   "quote": "What if he has a season where instead of shooting 38 from three, he has an off.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1179
+  },
+  {
+   "text": "Norman Powell shot around 40% from three.",
+   "ts": "28:45",
+   "quote": "What if he shoots 36 from three instead of 40?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1743
+  },
+  {
+   "text": "Shaedon Sharpe's block numbers were low last season.",
+   "ts": "30:17",
+   "quote": "the low blocks last season was a bit annoying. I think that could come back up",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1830
+  }
+ ]
+}

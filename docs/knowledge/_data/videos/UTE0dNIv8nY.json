@@ -1,0 +1,568 @@
+{
+ "video": {
+  "id": "UTE0dNIv8nY",
+  "title": "Washington Wizards 2026/27 Season Preview: What You Need To Know!",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-07-23",
+  "duration": "38:21",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T11:19:50+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.26651179999999997,
+  "duration_ms": 59264
+ },
+ "summary": "Josh Lloyd and Ben Strobe of Locked On Wizards preview the Washington Wizards for 2026/27. They say the rebuild is over: Washington added Trae Young and Anthony Davis last season, drafted AJ Dybantsa first overall, traded Jaden Hardy for Deandre Ayton and brought back Khris Middleton. Ben's projected starting five is Young, Kyshawn George, Dybantsa, Davis and Alex Sarr. He calls George the organization's favorite young wing, says Young will still run the offense, and is very high on Sarr, who is coming back from a fractured foot. Defense is the big question, with Steve Clifford joining the coaching staff. Ben predicts about 40 wins and a play-in spot. For fantasy, the main takeaway is that the Wizards should no longer rest players or cut their minutes like a tanking team, so their players are easier to trust.",
+ "rules": [
+  {
+   "text": "Players on a team that is trying to win are easier to trust in fantasy than players on a tanking team. Tanking teams pull players after three quarters and sit them for much of March.",
+   "ts": "36:14",
+   "quote": "we don't have that, oh my god, are they going to get you pulled after three quarters",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2196
+  },
+  {
+   "text": "Be careful with late-season (March) stats from rebuilding teams. They are hard to trust.",
+   "ts": "17:40",
+   "quote": "it's March basketball, so it's a little bit hard to buy stock in a lot of the things",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1092
+  },
+  {
+   "text": "Rookies on deep teams may get limited minutes early in the season (around 28 instead of 34 a night). Do not expect big scoring nights right away.",
+   "ts": "34:11",
+   "quote": "maybe he doesn't play 34 minutes maybe he's plays 28 minutes a night early on",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2052
+  },
+  {
+   "text": "Summer league is for trial and error. Poor shooting there, like a 1-for-11 night from three, should not be overweighted.",
+   "ts": "33:08",
+   "quote": "The three-point shot was not good, one for 11, but that's kind of what the summer league was for",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1988
+  },
+  {
+   "text": "Seven-footers who have had foot injuries are a risk, because foot injuries can change the path of a big man's career.",
+   "ts": "28:32",
+   "quote": "we know sevenfooters that have had foot injuries. uh it can can kind of change",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1738
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "AJ Dybantsa",
+   "said_as": "AJ Debons",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Number one overall pick. Looked pretty good in summer league. The team is building around him as its centerpiece.",
+   "ts": "2:09",
+   "quote": "pretty good in the summer league. We'll have to see how his career pans out",
+   "value_hint": "No. 1 overall pick",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 129
+  },
+  {
+   "player": "AJ Dybantsa",
+   "said_as": "AJ Debanser",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Projected to start at small forward. He may also play shooting guard or power forward depending on the lineup.",
+   "ts": "6:17",
+   "quote": "AJ Debanser at the three, Anthony Davis, Alex Sar up in the front court",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 382
+  },
+  {
+   "player": "AJ Dybantsa",
+   "said_as": "AJ Debansa",
+   "team": "WAS",
+   "horizon": "durable",
+   "text": "In summer league he got steals and blocks on defense, went 1 for 11 from three, shot 89% at the rim and got to the free throw line a lot.",
+   "ts": "33:08",
+   "quote": "pretty good actually as a defender generating stocks and bringing some of the defensive playmaking",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1983
+  },
+  {
+   "player": "AJ Dybantsa",
+   "said_as": "AJ Debons",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "His usage was very high in summer league but will be lower as a rookie next to Trae Young and Anthony Davis.",
+   "ts": "20:47",
+   "quote": "AJ Debons was putting up insane high usage numbers and it's obviously not going to be as high",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1270
+  },
+  {
+   "player": "AJ Dybantsa",
+   "said_as": "AJ",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "The team may bring him along slowly. He could play around 28 minutes a night early on instead of 34 or more.",
+   "ts": "34:11",
+   "quote": "maybe he doesn't play 34 minutes maybe he's plays 28 minutes a night early on",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2052
+  },
+  {
+   "player": "Deandre Ayton",
+   "said_as": "Aton",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Acquired from the Lakers for Jaden Hardy and second-round picks to be the backup big man behind Alex Sarr and Anthony Davis. He started 72 games on a 53-win team last year but is no longer the player he was in Phoenix.",
+   "ts": "4:11",
+   "quote": "bring in Aton who started 72 games on a 53 win team last year",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 267
+  },
+  {
+   "player": "Khris Middleton",
+   "said_as": "Chris Middleton",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Re-signed on a cheap three-year deal, partly for the mentoring he gives young players. It is unclear how much he will play.",
+   "ts": "5:13",
+   "quote": "much he's going to play, but another thing where it was pretty low cost and cheap",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 313
+  },
+  {
+   "player": "Kyshawn George",
+   "said_as": "Keshan George",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Projected starter at shooting guard. He broke out early last season with more ball handling, but that role shrank and an arm injury ended his season early.",
+   "ts": "6:48",
+   "quote": "dwindle as the season went on and then he had the uh the arm issue that ended his season",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 408
+  },
+  {
+   "player": "Kyshawn George",
+   "said_as": "George",
+   "team": "WAS",
+   "horizon": "durable",
+   "text": "Two-way wing who can guard shooting guard through power forward but can struggle against quicker guards. Shot well from outside, especially on catch-and-shoot chances.",
+   "ts": "7:19",
+   "quote": "I think George can guard really anywhere two through four, but some of these quicker guards",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 443
+  },
+  {
+   "player": "Kyshawn George",
+   "said_as": "Keshan George",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Ben thinks he is the organization's favorite among the young wings and guards. He sees George as the best all-around player in that group.",
+   "ts": "15:32",
+   "quote": "I think it has to be Keshan George. I",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 930
+  },
+  {
+   "player": "Bilal Coulibaly",
+   "said_as": "Bilah",
+   "team": "WAS",
+   "horizon": "durable",
+   "text": "Good shot-blocking wing with some flashes as a passer. Shoots poorly and has been injury-prone. Josh thinks he has stalled offensively.",
+   "ts": "17:09",
+   "quote": "another poor shooting season, another injury-prone season, like good shot blocking wing/guard, sure, a little bit of passing flash",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1037
+  },
+  {
+   "player": "Bilal Coulibaly",
+   "said_as": "Bilal Kulabali",
+   "team": "WAS",
+   "horizon": "durable",
+   "text": "His three-point shooting fell from 34% as a rookie to 29% by the end of last season. Ben partly blames injuries. Shooting is what holds him back.",
+   "ts": "17:40",
+   "quote": "I think it was 34% in his rookie season. Was down to 29% by the end of last year",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1084
+  },
+  {
+   "player": "Bilal Coulibaly",
+   "said_as": "Bal Kulibali",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Could have been a starting shooting guard candidate because of his defense. In past seasons the team always put him back in the lineup after injuries.",
+   "ts": "8:21",
+   "quote": "Bal Kulibali could have been a good candidate for the starting two guard just because of the defense",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 520
+  },
+  {
+   "player": "Tre Johnson",
+   "said_as": "Trey Johnson",
+   "team": "WAS",
+   "horizon": "durable",
+   "text": "Probably the best shooter on the team.",
+   "ts": "8:21",
+   "quote": "And then Trey Johnson as well who's probably the best shooter on the team",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 526
+  },
+  {
+   "player": "Will Riley",
+   "said_as": "Will Riley",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Played heavy minutes at the end of last season. He is part of a crowded group of young wings and guards.",
+   "ts": "15:01",
+   "quote": "season, Will Riley was playing a million minutes. And there's also Bub Carrington",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 901
+  },
+  {
+   "player": "Trae Young",
+   "said_as": "Trey Young",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Will be the offensive engine and handle the ball the most, despite a report about him playing off the ball. In his 5 games with Washington, his usage went down and his assist rate went up.",
+   "ts": "20:47",
+   "quote": "his usage percentage was down and his assist percentage was up",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1252
+  },
+  {
+   "player": "Trae Young",
+   "said_as": "Trey Young",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "His usage will not reach the 37 to 38% he had at one point in his career.",
+   "ts": "21:18",
+   "quote": "I just don't think it's going to be 37 or 38% that it was at one point",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1290
+  },
+  {
+   "player": "Trae Young",
+   "said_as": "Trey Young",
+   "team": "WAS",
+   "horizon": "durable",
+   "text": "Very negative on defense. Called a top five passer in the league.",
+   "ts": "4:42",
+   "quote": "despite having Trey Young on the floor who's a very negative asset defensively",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 299
+  },
+  {
+   "player": "Anthony Davis",
+   "said_as": "Anthony Davis",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Expected to stay in Washington at least for now, despite trade rumors involving Golden State. The team could reconsider around the trade deadline.",
+   "ts": "10:55",
+   "quote": "is Anthony Davis here to stay? He is for now",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 669
+  },
+  {
+   "player": "Anthony Davis",
+   "said_as": "Davis",
+   "team": "WAS",
+   "horizon": "durable",
+   "text": "Injury-prone. In Dallas he never played five games in a row before getting hurt. He is 33 but can still be productive when on the floor.",
+   "ts": "11:57",
+   "quote": "he failed to even play five games in a row before he found himself on the shelf",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 731
+  },
+  {
+   "player": "Anthony Davis",
+   "said_as": "Davis",
+   "team": "WAS",
+   "horizon": "durable",
+   "text": "His outside shooting and perimeter game decline every year. He now rarely shoots anything except at the rim.",
+   "ts": "14:30",
+   "quote": "not going to bother. We're not going to take these shots out there",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 870
+  },
+  {
+   "player": "Alex Sarr",
+   "said_as": "Alex Sar",
+   "team": "WAS",
+   "horizon": "durable",
+   "text": "Faced a huge number of shots at the rim as the lone rim protector and led the league in shots contested at the rim by a wide margin. He piles up blocks.",
+   "ts": "13:00",
+   "quote": "I think he led the league in shots contested at the rim per >> Oh, and it was by a substantial margin",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 796
+  },
+  {
+   "player": "Alex Sarr",
+   "said_as": "Sar",
+   "team": "WAS",
+   "horizon": "durable",
+   "text": "Cut down on threes last season and played closer to the rim with better efficiency in year two. Playing next to Davis may push him back to shooting from outside.",
+   "ts": "13:30",
+   "quote": "he cut a lot of the three-point shots out of his shot diet",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 837
+  },
+  {
+   "player": "Alex Sarr",
+   "said_as": "Sar",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Recovering from a fractured foot. Hopefully it does not carry too far into the regular season.",
+   "ts": "28:32",
+   "quote": "now he's got the fractured foot that he's recovering from right now",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1731
+  },
+  {
+   "player": "Alex Sarr",
+   "said_as": "Sar",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Ben is very bullish. He expects Sarr to benefit from playing with Trae Young and sees possible all-star upside. Both hosts feel he is underrated and overlooked.",
+   "ts": "29:03",
+   "quote": "I think he could be an all-star level player",
+   "value_hint": "underrated",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1750
+  },
+  {
+   "player": "Bub Carrington",
+   "said_as": "Bob Carrington",
+   "team": "WAS",
+   "horizon": "durable",
+   "text": "Ran point guard early last season, and it did not work out well.",
+   "ts": "23:23",
+   "quote": "you had Bob Carrington getting some of the run didn't work out too great",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1411
+  },
+  {
+   "player": "Justin Champagnie",
+   "said_as": "Justin Champeni",
+   "team": "WAS",
+   "horizon": "durable",
+   "text": "Wing who adds value on defense and by crashing the offensive glass.",
+   "ts": "35:13",
+   "quote": "wing players that bring them value defensively crashing the offensive glass like Justin Champeni",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2113
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "WAS",
+   "horizon": "current",
+   "text": "The rebuild is over and the team is trying to compete. Fantasy managers should no longer face the late-season resting and minutes cuts of past years.",
+   "ts": "36:14",
+   "quote": "maybe there's going to be more intrigue to add some Wizards to your fantasy rosters because they're actually going",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2185
+  },
+  {
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Projected starters: Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis, Alex Sarr.",
+   "ts": "6:17",
+   "quote": "So you've got Trey Young at point guard. I don't think there's any worry with that",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 379
+  },
+  {
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Deep, flexible roster of long wings. Ben expects a 10 or 11 man rotation, with 12 or 13 players who could justify minutes.",
+   "ts": "34:42",
+   "quote": "They probably have 12 or 13 guys you could justify playing some minutes. I think they will go 10",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2098
+  },
+  {
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Defense is the main question after being the worst in the league last year. Steve Clifford joined the coaching staff to help.",
+   "ts": "26:28",
+   "quote": "They did add Steve Clifford to their coaching staff who's been known to build some pretty quick turnarounds",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1594
+  },
+  {
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Ben predicts around 40 wins, hovering near .500 and in the play-in mix. Health, especially Davis's, is a key factor.",
+   "ts": "29:34",
+   "quote": "I think they get to right around 40",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1802
+  },
+  {
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Head coach Brian Keefe is under the most pressure to win games this season.",
+   "ts": "26:28",
+   "quote": "I think Brian Keith is under the most pressure to directly win games this year",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1605
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "The Wizards won only about 50 games combined over the last three seasons.",
+   "ts": "1:38",
+   "quote": "seeing them only win 50 games over the last three seasons",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 108
+  },
+  {
+   "text": "The Wizards won about 17 games last season.",
+   "ts": "29:34",
+   "quote": "we're talking what, 17 wins last season, I think it was",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1779
+  },
+  {
+   "text": "Deandre Ayton started 72 games on a 53-win team last year.",
+   "ts": "4:11",
+   "quote": "bring in Aton who started 72 games on a 53 win team last year",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 267
+  },
+  {
+   "text": "Bilal Coulibaly shot 34% from three as a rookie and 29% by the end of last season.",
+   "ts": "17:40",
+   "quote": "I think it was 34% in his rookie season. Was down to 29% by the end of last year",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1084
+  },
+  {
+   "text": "Alex Sarr led the league in shots contested at the rim by a wide margin.",
+   "ts": "13:00",
+   "quote": "I think he led the league in shots contested at the rim per >> Oh, and it was by a substantial margin",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 796
+  },
+  {
+   "text": "In 5 games with Washington, Trae Young's usage went down and his assist rate went up.",
+   "ts": "20:47",
+   "quote": "his usage percentage was down and his assist percentage was up",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1252
+  },
+  {
+   "text": "Trae Young's usage was once 37 to 38%.",
+   "ts": "21:18",
+   "quote": "I just don't think it's going to be 37 or 38% that it was at one point",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1290
+  },
+  {
+   "text": "Anthony Davis never played five games in a row in Dallas before getting injured.",
+   "ts": "11:57",
+   "quote": "he failed to even play five games in a row before he found himself on the shelf",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 731
+  },
+  {
+   "text": "The Wizards had the worst defense in the league last season. Phoenix was a top 10 defense with Steve Clifford as an adviser.",
+   "ts": "26:28",
+   "quote": "They just happen to be the worst last year",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1590
+  },
+  {
+   "text": "Teams that finish top 15 in defensive rating usually make the postseason.",
+   "ts": "26:28",
+   "quote": "if you're top 15 in defensive rating, you probably end up in the postseason",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1586
+  },
+  {
+   "text": "In summer league, AJ Dybantsa went 1 for 11 from three and shot 89% at the rim.",
+   "ts": "33:08",
+   "quote": "The three-point shot was not good, one for 11, but that's kind of what the summer league was for",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1988
+  }
+ ]
+}

@@ -1,0 +1,390 @@
+{
+ "video": {
+  "id": "FEcNjVRlj-U",
+  "title": "Orlando Magic 2026/27 NBA Season Preview",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-08-01",
+  "duration": "37:55",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T13:47:56+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.23105199999999998,
+  "duration_ms": 52599
+ },
+ "summary": "Josh Lloyd and Philip Rossman-Reich (Locked On Magic) preview Orlando's 2026/27 season. The Magic won 45 games last year despite a lot of random injuries. The roster is mostly unchanged: Nikola Vucevic replaces Mo Wagner as backup center, and Sean Sweeney replaces Jamahl Mosley as coach. The projected starting five is Jalen Suggs, Desmond Bane, Franz Wagner, Paolo Banchero and Wendell Carter Jr. Anthony Black is expected to be the sixth man and main bench creator. Phil worries more about Suggs's injury risk than Franz Wagner's because Suggs's injuries come from his all-out style of play, and he sees Suggs as a likely trade candidate because Black will need a big contract. Phil predicts 47 or 48 wins and the 6th seed.",
+ "rules": [
+  {
+   "text": "Injuries that come from a player's style of play are more likely to happen again than random contact injuries. Expect more missed games from players who play all out.",
+   "ts": "17:46",
+   "quote": "I I think it's Jaylen Suggs. Um just the way that Jaylen plays, he doesn't know how to turn it off.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1066
+  },
+  {
+   "text": "A backup center can get extra minutes on nights when the starter is in foul trouble, injured or not scoring.",
+   "ts": "8:17",
+   "quote": "there'll definitely be nights where where Vu plays more because Carter's in foul trouble or Carter's hurt",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 513
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Nikola Vucevic",
+   "said_as": "Nicole Vuvich",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Expected to be the backup center and play 15 to 20 minutes a game. Phil does not see him pushing for starter's minutes.",
+   "ts": "5:59",
+   "quote": "I suspect Nicole Vuvich will be the backup center and he'll get 15 to 20 minutes a game.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 366
+  },
+  {
+   "player": "Nikola Vucevic",
+   "said_as": "Nicole Vuvich",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Can still score 12 to 14 points per game off the bench. Phil sees him as an upgrade on Mo Wagner.",
+   "ts": "6:37",
+   "quote": "coming off the bench, you can get 12 14 points per game out of him.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 397
+  },
+  {
+   "player": "Wendell Carter Jr.",
+   "said_as": "Wendell Carter",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Played only about 24 to 26 minutes a game. Expected to stay under 30 minutes, with Vucevic taking the rest.",
+   "ts": "8:48",
+   "quote": "Carter is not a 35minute night guy as you said. He's going to play below 30 minutes most likely",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 537
+  },
+  {
+   "player": "Wendell Carter Jr.",
+   "said_as": "Wendo Carter",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "His value is defense that does not show up on the stat sheet. He does not help fantasy teams and needs to be a more reliable shooter.",
+   "ts": "7:44",
+   "quote": "Stuff that doesn't show up on a statute. He's not helping anybody's fantasy team out.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 489
+  },
+  {
+   "player": "Wendell Carter Jr.",
+   "said_as": "Wendo Carter",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Has played at least 72 games in each of the last two seasons.",
+   "ts": "11:32",
+   "quote": "the first time Wendo Carter played at least 72 games in his career. He's done that two years in a row now.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 700
+  },
+  {
+   "player": "Anthony Black",
+   "said_as": "Anthony Black",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Expected to be the sixth man and the main creator for the bench units. He is third in FanDuel's Sixth Man of the Year odds.",
+   "ts": "16:02",
+   "quote": "it'll be a lot of the same role just he's going to be your sixth man.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 990
+  },
+  {
+   "player": "Anthony Black",
+   "said_as": "Anthony Black",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "Usage is now above 20% but he does not pass much. Averaged only about 3.5 to 3.7 assists last year.",
+   "ts": "10:30",
+   "quote": "Anthony Black also averaged only what 3.7 assists, three and a half assists per game last year.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 653
+  },
+  {
+   "player": "Anthony Black",
+   "said_as": "Anthony Black",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Made a big leap last year to 15 points per game, with more 20-point games than his previous two seasons combined. After December he settled in as a 12 to 13 point per night player.",
+   "ts": "14:55",
+   "quote": "last year is obviously like a huge step for Anthony Black 15 points per game",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 887
+  },
+  {
+   "player": "Anthony Black",
+   "said_as": "Anthony Black",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "Good on-ball defender, but he gets eaten up on screens and is not at Suggs's level defensively.",
+   "ts": "16:02",
+   "quote": "I think he's a really good onball defender, but he'll get eaten up on screens",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 962
+  },
+  {
+   "player": "Anthony Black",
+   "said_as": "Anthony Black",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Due a new contract. Phil would be shocked if he gets less than $23 million per year.",
+   "ts": "33:37",
+   "quote": "If he gets less than $23 million per year on his contract, I will be shocked.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2032
+  },
+  {
+   "player": "Jalen Suggs",
+   "said_as": "Jaylen Suggs",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "Injury prone because of his all-out style of play. He played 57 games last year, the second most of his career. Plan for him to miss about 20 games.",
+   "ts": "20:02",
+   "quote": "that's the normal for Jaylen Suggs. You just kind of have to plan for him to miss 20 games.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1202
+  },
+  {
+   "player": "Jalen Suggs",
+   "said_as": "Jaylen Suggs",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Averaged a career-high five to six assists last year, without a healthy summer. A healthy offseason could unlock another level.",
+   "ts": "11:01",
+   "quote": "Jaylen Suggs averaged a careerhigh like five and a half, you know, five assists per game.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 661
+  },
+  {
+   "player": "Jalen Suggs",
+   "said_as": "Jaylen Suggs",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Shot badly in the playoffs: under 30% from the field and low 20s from three. Phil thinks he is the likely trade sacrifice to keep Black.",
+   "ts": "21:07",
+   "quote": "all the signs are pointing to Jaylen Suggs is probably going to be the sacrifice.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1273
+  },
+  {
+   "player": "Jalen Suggs",
+   "said_as": "Jayen Suggs",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "His three-point shooting is streaky. When it is on, he shoots about six threes a game.",
+   "ts": "34:07",
+   "quote": "his three-point shot is when it's when it's on, the Magic are near unbeatable",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2060
+  },
+  {
+   "player": "Desmond Bane",
+   "said_as": "Desmond Bane",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Played all 82 games last year, the most of his career. He started badly but shot 41% from three after December 1.",
+   "ts": "23:49",
+   "quote": "He shot 41% from three after uh after December 1st.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1429
+  },
+  {
+   "player": "Franz Wagner",
+   "said_as": "Fran Vagger",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "Missed about 47 to 51 games last year with a high ankle sprain from a contact injury. Phil sees his last two years of injuries as random. Before that he was usually reliable and played through ankle rolls.",
+   "ts": "19:25",
+   "quote": "I look at Fron's injuries as these kind of random injuries.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1179
+  },
+  {
+   "player": "Paolo Banchero",
+   "said_as": "Paulo",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "Played 72 games last year despite a groin strain. Probably good for about 70 games.",
+   "ts": "11:32",
+   "quote": "Paulo played 72 games last year even with the strain groin early in the season. He's probably good for 70 games.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 715
+  },
+  {
+   "player": "Paolo Banchero",
+   "said_as": "Parlor",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "Josh says he has improved his free throw shooting to a pretty good level.",
+   "ts": "25:26",
+   "quote": "he's actually improved his free throws to be pretty good now.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1526
+  },
+  {
+   "player": "Paolo Banchero",
+   "said_as": "pal",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Last season he took fewer shots, fewer mid-rangers and lower usage. His share of assisted makes and his assist rate were career highs. Rim finishing is only around the 50th percentile.",
+   "ts": "30:56",
+   "quote": "His he played at at a careerhigh of his shots made that were assisted.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1856
+  },
+  {
+   "player": "Paolo Banchero",
+   "said_as": "Paulo",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "His scoring numbers last year were about the same as in his 2024 All-Star year.",
+   "ts": "27:32",
+   "quote": "the scoring numbers were virtually the same as the all-star year in 2024.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1680
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "ORL",
+   "horizon": "current",
+   "text": "New head coach Sean Sweeney replaces Jamahl Mosley, so player roles may change.",
+   "ts": "5:59",
+   "quote": "they fired they fired Jamal Mosley. They hired Sean Sweeney.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 359
+  },
+  {
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Projected starters: Suggs, Bane, Franz Wagner, Banchero, Carter. The same group was very good when it played together.",
+   "ts": "9:25",
+   "quote": "Jaylen Suggs, Desmond Bane, France Vagnner, Paula, Wendall Carter Jr.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 557
+  },
+  {
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Bench scoring was 27th or 28th last year. Vucevic was added to fix that.",
+   "ts": "7:13",
+   "quote": "Last year, they were 27th or 28th in the league in bench scoring.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 433
+  },
+  {
+   "team": "ORL",
+   "horizon": "current",
+   "text": "$2.5 million under the second apron. They will likely have to choose between keeping Suggs and keeping Black.",
+   "ts": "20:33",
+   "quote": "This Magic team is $2.5 million under the second apron.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1259
+  },
+  {
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Phil predicts 47 or 48 wins and the 6th seed, avoiding the play-in.",
+   "ts": "35:52",
+   "quote": "I have them I have them at like 47 wins 47 or 48 wins right now.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2156
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Orlando won 45 games last season.",
+   "ts": "3:13",
+   "quote": "for as bad as things seemed like it was last year, they won 45 games.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 216
+  },
+  {
+   "text": "Franz Wagner missed 47 to 51 games last season.",
+   "ts": "2:07",
+   "quote": "Fran Vagger, you know, missed 47 to 51 games in the middle of the season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 148
+  },
+  {
+   "text": "The starting lineup was +11 points per 100 possessions, ninth best among lineups with at least 150 minutes.",
+   "ts": "10:00",
+   "quote": "They were plus 11 points per 100 possessions.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 608
+  },
+  {
+   "text": "Suggs played 57 games and Bane played all 82 games.",
+   "ts": "11:32",
+   "quote": "He played 57 games last year. He's the second most in his career.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 692
+  },
+  {
+   "text": "Bane shot 41% from three after December 1.",
+   "ts": "23:49",
+   "quote": "He shot 41% from three after uh after December 1st.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1429
+  },
+  {
+   "text": "Orlando finished 18th in offensive rating.",
+   "ts": "28:41",
+   "quote": "they finished 18th in offensive rating, not bottom 10.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1747
+  },
+  {
+   "text": "Anthony Black averaged 15 points and about 3.7 assists per game.",
+   "ts": "14:55",
+   "quote": "last year is obviously like a huge step for Anthony Black 15 points per game",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 887
+  }
+ ]
+}

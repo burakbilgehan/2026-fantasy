@@ -1,0 +1,330 @@
+{
+ "video": {
+  "id": "4kKINkZhWls",
+  "title": "Explaining My Stupid NBA Nicknames",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-07-05",
+  "duration": "1:07:40",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T11:10:14+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.3043998,
+  "duration_ms": 40047
+ },
+ "summary": "Josh Lloyd goes team by team and explains where his player nicknames come from. Nearly all of it is wordplay, pop culture or Australian references, so there is very little fantasy analysis. The useful parts are a few side comments. Players who only hit threes and do little else are poor fantasy assets. He has stayed skeptical of preseason hype and of overreactions to a rookie's first week. He also mentions some roster moves: Keldon Johnson drops to ninth man in San Antonio after the Tobias Harris signing, John Collins becomes Detroit's starting power forward, and Jusuf Nurkic could start in Utah now that Walker Kessler is gone.",
+ "rules": [
+  {
+   "text": "A shooting guard who only shoots threes and does not rebound or assist is a bad fantasy profile unless he is elite at it.",
+   "ts": "1:04:22",
+   "quote": "that stereotypical shooting guard profile, which is horrible for fantasy and honestly has limited appeal",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 3864
+  },
+  {
+   "text": "Be skeptical of preseason hype and of 'maybe he gets the minutes' stories. Opportunity and shooting spikes often do not happen.",
+   "ts": "23:56",
+   "quote": "Oh, look at Eason in the preseason.\" I'm like, \"No, like he's not going to get these opportunities.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1437
+  },
+  {
+   "text": "Do not overreact to the first week or summer league of a player's NBA career.",
+   "ts": "35:48",
+   "quote": "Like just insane reactions to the first week of someone's NBA career.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2148
+  },
+  {
+   "text": "When a player who is not a real starter is putting up starter numbers, sell him then, because those numbers will not get better.",
+   "ts": "58:37",
+   "quote": "I was like you got to trade him now. Like he is never going to put up better numbers",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 3517
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Zaccharie Risacher",
+   "said_as": "Zaccharie Risacher",
+   "team": "ATL",
+   "horizon": "durable",
+   "text": "His game is similar to Harrison Barnes. He hits threes, scores at a mediocre level and does nothing else.",
+   "ts": "3:07",
+   "quote": "He He hits threes with mediocre scoring and doesn't do anything else.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 203
+  },
+  {
+   "player": "Rui Hachimura",
+   "said_as": "Rui Hachimura",
+   "team": "LAL",
+   "horizon": "durable",
+   "text": "Very similar to Harrison Barnes. He shoots threes on low usage and does nothing else.",
+   "ts": "29:35",
+   "quote": "He shoots threes with low usage and doesn't do anything else. So, he is the Japanese pencil.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1794
+  },
+  {
+   "player": "Nikola Vucevic",
+   "said_as": "Vooch",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Signed a minimum contract to go back to Orlando as a backup.",
+   "ts": "6:44",
+   "quote": "he just signed a minimum contract today by the way to go back to the Orlando Magic to be a backup",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 418
+  },
+  {
+   "player": "Tari Eason",
+   "said_as": "Tari Eason",
+   "team": "HOU",
+   "horizon": "durable",
+   "text": "The speaker has always been lower on Eason than most people. He never believed Eason would develop into a starter or get a starting role, and says that has been basically correct.",
+   "ts": "23:56",
+   "quote": "I never believed he was going to develop into a starting or or ever get a starting role.",
+   "value_hint": "lower than consensus",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1458
+  },
+  {
+   "player": "John Collins",
+   "said_as": "John uh Johnny Collins",
+   "team": "DET",
+   "horizon": "current",
+   "text": "Joined Detroit as the new starting power forward.",
+   "ts": "28:03",
+   "quote": "Johnny Collins, new Pistons starting power forward, which I would have already talked about on the free agency show",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1707
+  },
+  {
+   "player": "Johnny Furphy",
+   "said_as": "Johnny Furphy",
+   "team": "IND",
+   "horizon": "current",
+   "text": "The speaker says we unfortunately will not see him play much this season.",
+   "ts": "27:02",
+   "quote": "why unfortunately, we're not going to see this man play much this season.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1637
+  },
+  {
+   "player": "Ryan Rollins",
+   "said_as": "Ryan Rollins",
+   "team": "MIL",
+   "horizon": "durable",
+   "text": "Known for his steals. The speaker says he averaged about 1.5 steals per game last season.",
+   "ts": "35:16",
+   "quote": "talk about his proficiency at stealing. The ball on the court he averaged what? 1. 1.5 steals",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2116
+  },
+  {
+   "player": "Kyle Kuzma",
+   "said_as": "Kyle Kuzma",
+   "team": "MIL",
+   "horizon": "durable",
+   "text": "Was hyped early in his career but turned into a mediocre role player.",
+   "ts": "35:48",
+   "quote": "And obviously this is what he turned into, a mediocre role player.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2159
+  },
+  {
+   "player": "Kevin Porter Jr.",
+   "said_as": "Kevin Porter",
+   "team": "MIL",
+   "horizon": "durable",
+   "text": "The speaker is not a fan of him as a player. He calls him inefficient and a ball hog, though he has improved in some areas.",
+   "ts": "34:15",
+   "quote": "Like I really don't like this how this guy plays inefficiently, ball hogs",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2065
+  },
+  {
+   "player": "Keldon Johnson",
+   "said_as": "Keldon Johnson",
+   "team": "SAS",
+   "horizon": "current",
+   "text": "Won Sixth Man of the Year but will be the ninth man in San Antonio after the Tobias Harris signing, with Champagnie and Barnes also there. The speaker says he is not a starter on a real team.",
+   "ts": "58:37",
+   "quote": "now he's going to be the ninth man on this Spurs team, even though he just won sixth man",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 3523
+  },
+  {
+   "player": "Keldon Johnson",
+   "said_as": "Keldon Johnson",
+   "team": "SAS",
+   "horizon": "durable",
+   "text": "Not starting caliber. The speaker says his numbers as a starter years ago were his ceiling. He plays very similarly to Saddiq Bey.",
+   "ts": "58:37",
+   "quote": "he is absolutely not a starting caliber player on a real team.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 3522
+  },
+  {
+   "player": "Tyler Kolek",
+   "said_as": "Tyler Kolek",
+   "team": "NYK",
+   "horizon": "durable",
+   "text": "An okay backup point guard. The speaker does not expect him to have a long career.",
+   "ts": "44:35",
+   "quote": "I think he's an okay backup, but I don't think he's going to",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2704
+  },
+  {
+   "player": "Jusuf Nurkic",
+   "said_as": "Jusuf Nurkić",
+   "team": "UTA",
+   "horizon": "current",
+   "text": "With Walker Kessler gone, Nurkic may start at center for Utah. The speaker doubts Jaren Jackson Jr. will start at center.",
+   "ts": "1:05:23",
+   "quote": "given that Walker Kessler's gone and Nurkić maybe",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 3919
+  },
+  {
+   "player": "Ja'Kobe Walter",
+   "said_as": "Jacobi Walter",
+   "team": "TOR",
+   "horizon": "durable",
+   "text": "A copy of Gary Trent Jr.: a shooting guard who shoots threes and does little rebounding or assisting. He has developed into more of a defender.",
+   "ts": "1:03:51",
+   "quote": "Shooting guards who shoot threes and don't rebound assist or do much else. Now, Walter has developed into more",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 3841
+  },
+  {
+   "player": "Jonathan Isaac",
+   "said_as": "Jonathan Isaac",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "Has a long history of not playing. The speaker cannot believe Orlando re-signed him.",
+   "ts": "52:22",
+   "quote": "Voldemort, Jonathan Isaac, because he just never played. I can't I cannot believe they resigned him.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 3133
+  },
+  {
+   "player": "Justin Champagnie",
+   "said_as": "Justin",
+   "team": "WAS",
+   "horizon": "durable",
+   "text": "The speaker calls him a pretty good player, though probably not quite as good as his brother Julian.",
+   "ts": "1:05:53",
+   "quote": "Again, I think Justin's a pretty good player. Probably not quite as good as Julian though.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 3970
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "SAS",
+   "horizon": "current",
+   "text": "The Spurs signed Tobias Harris. Keldon Johnson drops to ninth man behind a wing group that includes Champagnie and Barnes.",
+   "ts": "58:37",
+   "quote": "because they just signed Tobias Harris and Champagne is there and Barnes is there.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 3529
+  },
+  {
+   "team": "UTA",
+   "horizon": "current",
+   "text": "Walker Kessler is gone. Nurkic may start at center. The speaker doubts Jaren Jackson Jr. starts at center.",
+   "ts": "1:05:23",
+   "quote": "I don't think Jaren's going to start at center, but I don't know. Who knows what they're doing.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 3923
+  },
+  {
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Orlando re-signed Jonathan Isaac and brought back Vucevic on a minimum deal as a backup.",
+   "ts": "52:22",
+   "quote": "I can't I cannot believe they resigned him. Anyway, he just would never play.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 3135
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Ryan Rollins averaged about 1.5 steals per game last season.",
+   "ts": "35:16",
+   "quote": "The ball on the court he averaged what? 1. 1.5 steals per game last season?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2119
+  },
+  {
+   "text": "Keldon Johnson won Sixth Man of the Year.",
+   "ts": "58:37",
+   "quote": "even though he just won sixth man of the year because they just signed Tobias Harris",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 3528
+  },
+  {
+   "text": "Nikola Vucevic signed a minimum contract with Orlando.",
+   "ts": "6:44",
+   "quote": "he just signed a minimum contract today by the way to go back to the Orlando Magic",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 418
+  },
+  {
+   "text": "Bones Hyland played 5 minutes in his final game with Denver before he was traded.",
+   "ts": "39:26",
+   "quote": "Then he played 5 minutes, and he was traded. That was it, that was his final game",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2387
+  }
+ ]
+}

@@ -1,0 +1,510 @@
+{
+ "video": {
+  "id": "TiiaNZCJNs8",
+  "title": "Boston Celtics 2026/27 Season Outlook - No Jaylen Brown, Still A Contender?",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-07-30",
+  "duration": "40:08",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T11:21:51+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.2411358,
+  "duration_ms": 51901
+ },
+ "summary": "Josh Lloyd talks with John Karalis of Locked On Celtics about the Boston Celtics after the Jaylen Brown for Paul George trade. They think the roster is better than at the start of last regular season because Jayson Tatum is back, but Karalis predicts 48 wins because the East is stronger and late-season tanking will drop off. Karalis's projected starters are Derrick White, Sam Hauser, Tatum, George and Mitchell Robinson, with Payton Pritchard as sixth man. Both reject the idea of a Brunson-style breakout for Pritchard and expect his role to shrink a little. Karalis has no worries about Tatum's health, expects Derrick White's shooting to bounce back, and sees the center minutes split roughly evenly between Robinson and Neemias Queta.",
+ "rules": [
+  {
+   "text": "Before expecting a breakout, check the usage picture. When more high-usage stars are on the roster, there are fewer chances for role players, not more.",
+   "ts": "12:19",
+   "quote": "the whole usage calculation is actually more crowded because you've got Tatum and George versus Brown",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 783
+  },
+  {
+   "text": "Age matters for breakout talk. A player who has been in the league a long time and is turning 29 is probably who he is, not someone due for a breakout.",
+   "ts": "13:52",
+   "quote": "He's going to be 29. He kind of is who he is.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 837
+  },
+  {
+   "text": "A player's best breakout chance is the season with the most opening. When stars return, expect some step back rather than growth.",
+   "ts": "16:31",
+   "quote": "That That was last season. I would expect somewhat of a ramp backwards.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1030
+  },
+  {
+   "text": "After major lower-body surgery, soreness on the other side from compensating is common. It does not by itself make a player injury-prone.",
+   "ts": "24:56",
+   "quote": "people can question whether that injury is now is injury-prone. Like that's just a really common impact",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1524
+  },
+  {
+   "text": "Late-season games in March and April are skewed by teams tanking. Fewer tanking teams this season means good teams win fewer games and bad teams win more.",
+   "ts": "36:52",
+   "quote": "whatever happens in March and April is basically fake. You know, 80% of the games",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2214
+  },
+  {
+   "text": "Starting a poor free throw shooter can protect him from hack-a-player tactics, because there are no team fouls early in the game.",
+   "ts": "29:35",
+   "quote": "there are no team fouls at the beginning of a game and you can't play the hack-a-Mitch",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1790
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Paul George",
+   "said_as": "Paul George",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Joined Boston in the Jaylen Brown trade. Both speakers call him a downgrade from Brown.",
+   "ts": "4:37",
+   "quote": "It is a it is a downgrade from Jaylen Brown. I don't",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 305
+  },
+  {
+   "player": "Paul George",
+   "said_as": "Paul George",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Expected to miss games. He won't play back-to-backs, and Karalis suggests he could miss maybe half the season.",
+   "ts": "36:20",
+   "quote": "Paul George isn't going to play back-to-backs. Mitchell Robinson is not going to not going to play back-to-backs.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2180
+  },
+  {
+   "player": "Paul George",
+   "said_as": "Paul George",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Probably won't be in Boston long. This may be his only season there.",
+   "ts": "37:23",
+   "quote": "Paul George is here now but probably won't be here for long. This might be his only season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2262
+  },
+  {
+   "player": "Mitchell Robinson",
+   "said_as": "Mitchell Robinson",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Karalis projects him to start, partly so teams cannot use hack-a-Mitch early. He admits this is a hopeful pick and that Queta will probably start. He expects the two centers to split time at about mid-20 minutes each.",
+   "ts": "29:35",
+   "quote": "I do think that it's going to be basically 20 mid-20 minutes for one guy, mid-20 minutes",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1798
+  },
+  {
+   "player": "Mitchell Robinson",
+   "said_as": "Robinson",
+   "team": "BOS",
+   "horizon": "durable",
+   "text": "Very poor free throw shooter with no shooting range. His health is always a question, with ankle problems and missed games.",
+   "ts": "17:01",
+   "quote": "Forget about shooting threes, like Robinson can't even hit a free throw.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1054
+  },
+  {
+   "player": "Mitchell Robinson",
+   "said_as": "Mitchell Robinson",
+   "team": "BOS",
+   "horizon": "durable",
+   "text": "Gives vertical spacing as a pick-and-roll lob threat and a dunker-spot big.",
+   "ts": "18:05",
+   "quote": "Mitchell Robinson puts a lot of it's vertical pressure, right? It's it's that vertical spacing.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1103
+  },
+  {
+   "player": "Neemias Queta",
+   "said_as": "Cato",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Karalis thinks Queta will probably still start and close games, with minutes split roughly evenly with Robinson.",
+   "ts": "30:06",
+   "quote": "They'll probably close with Noel and if I'm being honest, I do think that Noel will probably start",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1806
+  },
+  {
+   "player": "Neemias Queta",
+   "said_as": "Cato",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Just signed an extension at about $14 to 15 million, under contract for this season and four more. Karalis thinks he would accept a bench role.",
+   "ts": "32:10",
+   "quote": "He's under contract for this season and four more.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1941
+  },
+  {
+   "player": "Neemias Queta",
+   "said_as": "Queta",
+   "team": "BOS",
+   "horizon": "durable",
+   "text": "Has been working on a mid-range jumper and has a floater. He hit a three last season. He is a 70%-plus free throw shooter, but shooting is not something to rely on.",
+   "ts": "20:45",
+   "quote": "He's a pretty good free-throw shooter. He's like a plus 70% uh free-throw shooter",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1249
+  },
+  {
+   "player": "Neemias Queta",
+   "said_as": "Cato",
+   "team": "BOS",
+   "horizon": "durable",
+   "text": "Has good chemistry with Payton Pritchard. He also does well making kick-out passes on the short roll.",
+   "ts": "30:37",
+   "quote": "Cato's chemistry with Payton Pritchard was one of the underlying storylines of last season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1866
+  },
+  {
+   "player": "Payton Pritchard",
+   "said_as": "Pritchard",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Projected to come off the bench as sixth man and main backup ball handler, not to start.",
+   "ts": "8:45",
+   "quote": "Pritchard is sixth man of the year, and he's amazing in a sixth man role.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 527
+  },
+  {
+   "player": "Payton Pritchard",
+   "said_as": "Payton Pritchard",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Both speakers reject the Brunson-breakout talk. He turns 29, has basically peaked, and should score around 17 to 18 points a game, with a likely step back from last season.",
+   "ts": "15:28",
+   "quote": "I don't I don't think he's ever going to average 20 a game. I think 17, 18",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 937
+  },
+  {
+   "player": "Payton Pritchard",
+   "said_as": "Payton Pritchard",
+   "team": "BOS",
+   "horizon": "durable",
+   "text": "Streaky bucket-getter who can drop 40 on a hot night but will also have cold nights. He was elite on two-pointers in the paint outside the restricted area.",
+   "ts": "14:56",
+   "quote": "good he was in the paint non-restricted area as a two-point shooter putting up numbers that were like Nikola Jokic",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 897
+  },
+  {
+   "player": "Sam Hauser",
+   "said_as": "Sam Hauser",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Karalis projects him as the starter next to Derrick White, in a catch-and-shoot role.",
+   "ts": "8:45",
+   "quote": "I went with Hauser because he's a little bit more established.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 534
+  },
+  {
+   "player": "Sam Hauser",
+   "said_as": "Hauser",
+   "team": "BOS",
+   "horizon": "durable",
+   "text": "Shoots about 40% from three but is streaky. Veteran catch-and-shoot player who won't try to do too much.",
+   "ts": "8:45",
+   "quote": "40% shooter. He's a little a little extra streaky even for a four-point for a three-point shooter.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 542
+  },
+  {
+   "player": "Derrick White",
+   "said_as": "Derrick White",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "His shooting percentages were terrible last season as his usage rose. Karalis expects a bounce-back with more catch-and-shoot looks next to Tatum and George.",
+   "ts": "26:59",
+   "quote": "His his shooting percentages were horrible.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1615
+  },
+  {
+   "player": "Derrick White",
+   "said_as": "Derrick White",
+   "team": "BOS",
+   "horizon": "durable",
+   "text": "One of the best defensive guards in the league. Impact stats rate him as a top 20 player. He is a confidence shooter and has historically played better next to Tatum.",
+   "ts": "28:01",
+   "quote": "He's definitely a confidence shooter.",
+   "verified": false,
+   "match_ratio": 0.0,
+   "seconds": 1681
+  },
+  {
+   "player": "Jayson Tatum",
+   "said_as": "Jason Tatum",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Karalis has zero worries about his health. Knee inflammation from compensating for the Achilles kept him out of Game 7, but it is not chronic and needed no surgery. He is expected to arrive fully healthy.",
+   "ts": "22:18",
+   "quote": "It's nothing that required any sort of surgery or anything. It's nothing that seems to be any kind of chronic.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1363
+  },
+  {
+   "player": "Jayson Tatum",
+   "said_as": "Jayson Tatum",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Came back early from his Achilles injury last season but did not look fully like himself. He said he played at about 80 to 85%.",
+   "ts": "22:49",
+   "quote": "he was playing at about 80 or 85%. His injured leg was smaller, visibly smaller",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1369
+  },
+  {
+   "player": "Luka Garza",
+   "said_as": "Luka Garza",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Expected to be the third-string center, used in five-out matchups.",
+   "ts": "19:09",
+   "quote": "Luka Garza is still going to be your third-string center",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1156
+  },
+  {
+   "player": "Mike Conley",
+   "said_as": "Mike Conley",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Signed as veteran point guard help. Karalis won't count on him for much.",
+   "ts": "8:15",
+   "quote": "I'm not I'm not going to put too much on Mike Conley.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 519
+  },
+  {
+   "player": "Baylor Scheierman",
+   "said_as": "Baylor Sharman",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Took a big step forward last season. He is a candidate for a secondary bench ball-handling role, and could reach double-digit scoring with more catch-and-shoot looks.",
+   "ts": "5:39",
+   "quote": "Baylor Sharman what took a big step forward. Jordan Walsh took at least decent step forward.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 357
+  },
+  {
+   "player": "Hugo González",
+   "said_as": "Ugo",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Named, along with Scheierman and Jordan Walsh, as players who could have double-digit seasons if Derrick White bounces back.",
+   "ts": "28:34",
+   "quote": "if Sharman and Ugo or in and Jordan Walsh, if two of those guys can have you know, double-digit seasons",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1719
+  },
+  {
+   "player": "Jordan Walsh",
+   "said_as": "Jordan Walsh",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Took a decent step forward last season and comes into this season with a more defined role.",
+   "ts": "5:39",
+   "quote": "Jordan Walsh took at least decent step forward.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 361
+  },
+  {
+   "player": "Giannis Antetokounmpo",
+   "said_as": "Giannis",
+   "team": "MIA",
+   "horizon": "current",
+   "text": "Now with Miami.",
+   "ts": "34:13",
+   "quote": "Miami has made made moves. Miami's got Giannis now.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2064
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Karalis predicts 48 wins. He thinks the team is better than at the start of last season, but the East is tougher and there will be fewer tanking teams.",
+   "ts": "36:20",
+   "quote": "I think I think 48 wins is going to be what 53 wins was last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2194
+  },
+  {
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Projected starters: Derrick White, Sam Hauser, Jayson Tatum, Paul George and Mitchell Robinson. Pritchard comes off the bench.",
+   "ts": "7:44",
+   "quote": "you've gone with Sam Hauser and Mitchell Robinson in the two spots.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 472
+  },
+  {
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Three-point volume should stay high, but with less five-out. The plan is four shooters around a big in the dunker spot. Tatum will play only some small-ball center.",
+   "ts": "19:09",
+   "quote": "So, the Celtics three-point shooting is not going to change.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1149
+  },
+  {
+   "team": "BOS",
+   "horizon": "current",
+   "text": "The supporting cast has clearer roles than last season, which should make it easier to fit in George and Robinson.",
+   "ts": "5:39",
+   "quote": "just a little bit more certainty of of who some of these guys are.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 342
+  },
+  {
+   "team": "NYK",
+   "horizon": "current",
+   "text": "Karalis projects about 54 wins and expects the East to be won with around 53 to 54 wins.",
+   "ts": "35:16",
+   "quote": "let's give New York their due and say they're a 54-win team.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2112
+  },
+  {
+   "team": "DET",
+   "horizon": "current",
+   "text": "Karalis does not expect a 60-win team in the East this year.",
+   "ts": "34:44",
+   "quote": "I don't think the Pistons are going to win like I don't think there's a 60-win team in the East",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2093
+  },
+  {
+   "team": "IND",
+   "horizon": "current",
+   "text": "Expected to be good this year, along with Washington and Chicago trying to be good. Philadelphia is improving.",
+   "ts": "34:13",
+   "quote": "Indiana is going to be good I think this year right? I think Washington is trying to be good.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2050
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Payton Pritchard averaged about 17 points per game last season.",
+   "ts": "15:28",
+   "quote": "What did he average last year? 19? 17? 17 points a game.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 932
+  },
+  {
+   "text": "Pritchard had a 21% usage rate in 32 minutes a game as a starter last season.",
+   "ts": "16:31",
+   "quote": "he had a 21 usage in 32 minutes as a starter.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1002
+  },
+  {
+   "text": "Pritchard started about the first 60 games last season.",
+   "ts": "7:44",
+   "quote": "last season Payton Pritchard started the first 60 games or so",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 478
+  },
+  {
+   "text": "Neemias Queta shoots over 70% from the free throw line.",
+   "ts": "20:45",
+   "quote": "He's like a plus 70% uh free-throw shooter",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1251
+  },
+  {
+   "text": "Sam Hauser is about a 40% three-point shooter.",
+   "ts": "8:45",
+   "quote": "the reputation as a shooter, you know, 40% shooter.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 540
+  },
+  {
+   "text": "Boston won 53 games last regular season.",
+   "ts": "36:20",
+   "quote": "48 wins is going to be what 53 wins was last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2194
+  },
+  {
+   "text": "Jalen Brunson is 18 months older than Payton Pritchard.",
+   "ts": "16:31",
+   "quote": "Brunson's 18 months older than Payton Pritchard.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1011
+  },
+  {
+   "text": "Derrick White's shooting percentages were very poor last season.",
+   "ts": "26:59",
+   "quote": "His his shooting percentages were horrible.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1615
+  }
+ ]
+}

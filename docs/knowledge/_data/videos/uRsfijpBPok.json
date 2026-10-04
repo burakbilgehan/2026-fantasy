@@ -1,0 +1,418 @@
+{
+ "video": {
+  "id": "uRsfijpBPok",
+  "title": "Brooklyn Nets 2026/27 NBA Season Preview",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-08-21",
+  "duration": "33:26",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T13:51:22+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.21196779999999998,
+  "duration_ms": 41083
+ },
+ "summary": "Josh Lloyd and Eric Slater (Locked On Nets) preview the 2026/27 Brooklyn Nets. The Nets added Julius Randle, drafted Mikel Brown Jr. sixth overall, signed Moritz Wagner and Keon Ellis for veteran depth, and lost Nic Claxton and Ziaire Williams. The Nets do not control their own pick this season, so under the new lottery reform they gain nothing from tanking and plan to try to win while developing and evaluating their young players. Day'Ron Sharpe is expected to start at center, but his minutes split with Wagner is uncertain. Michael Porter Jr. is not seen as a long-term piece and could be traded within six months if he does not sign an extension. Slater sees Randle as the player who raises the team's ceiling and predicts about 28 wins, above the 24.5 over/under.",
+ "rules": [
+  {
+   "text": "Lottery reform should make the league more competitive overall. Fewer teams will tank and there will be fewer cheap wins against tanking teams.",
+   "ts": "2:44",
+   "quote": "less teams tanking. There's going to be less of those kind of cheap wins up for grabs.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 164
+  },
+  {
+   "text": "Teams that do not control their own pick (Nets, Bucks, Clippers, Pelicans, Mavericks) have no reason to tank and no downside either. They may rest players, be extra careful with injuries, or give developmental minutes late in the season.",
+   "ts": "30:36",
+   "quote": "no downside to them, you know, sitting guys down or being extra cautious with an injury or being extra bold",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1851
+  },
+  {
+   "text": "Rookie point guards nearly all struggle in their first NBA season, so expectations for them should be tempered.",
+   "ts": "5:53",
+   "quote": "Understanding rookie point guards, it's one of the hardest things to do in the NBA and they nearly all struggle.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 361
+  },
+  {
+   "text": "Win totals this season will be on a different curve than last season because more teams will be trying to win under the lottery reform.",
+   "ts": "28:58",
+   "quote": "these win totals are kind of going to be on a different curve than what they were last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1738
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Mikel Brown Jr.",
+   "said_as": "Muel Brown",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Drafted sixth overall. Slater had him as the fifth best player on the board. He is expected to move ahead of most of last season's young guards in the rotation and is the projected starting point guard.",
+   "ts": "5:23",
+   "quote": "one guy who they they did draft there at pick number six, Muel Brown, who I had as the fifth best",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 345
+  },
+  {
+   "player": "Mikel Brown Jr.",
+   "said_as": "Muel Brown",
+   "team": "BKN",
+   "horizon": "durable",
+   "text": "Turnovers were high at Louisville (over three per game). Poor shot selection hurt his efficiency from the field and from three.",
+   "ts": "6:25",
+   "quote": "the turnovers were a little high averaged over three turnovers per game at Louisville. shot selection at times left",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 392
+  },
+  {
+   "player": "Mikel Brown Jr.",
+   "said_as": "Muel Brown",
+   "team": "BKN",
+   "horizon": "durable",
+   "text": "Very talented point guard. He can dribble, pass and shoot, has unlimited range and dynamic athleticism, and is 6'4 or 6'5 with good length. The Nets see upside on defense.",
+   "ts": "6:25",
+   "quote": "a guy with legitimate dribble, pass, shoot ability, dynamic athleticism, great size at the point guard position.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 409
+  },
+  {
+   "player": "Egor Demin",
+   "said_as": "Jagger Yman",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Projected starter in the backcourt next to Brown. The Nets do not see him as a full-time on-ball point guard. He will play both on and off the ball.",
+   "ts": "18:04",
+   "quote": "I would agree that they don't view him as a full-time you know on ball guy or a traditional point guard",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1088
+  },
+  {
+   "player": "Egor Demin",
+   "said_as": "Jagger Yman",
+   "team": "BKN",
+   "horizon": "durable",
+   "text": "Had big passing numbers in college. As a rookie he mostly took threes and hit them fairly well, but he rarely got to the basket. In summer league he looked stronger, drove more and hit mid-range shots.",
+   "ts": "17:26",
+   "quote": "league he looks more jacked and he's driving he's hitting mid-ranges what is this guy",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1046
+  },
+  {
+   "player": "Egor Demin",
+   "said_as": "Jgo Dyman",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Seen as an integral piece. The Nets expect a leap as an on-ball creator and interior scorer in his sophomore year, and that could unlock more pick and roll playmaking.",
+   "ts": "19:12",
+   "quote": "they are expecting to see a leap from him as an onball creator, as an interior scorer.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1159
+  },
+  {
+   "player": "Day'Ron Sharpe",
+   "said_as": "Dron Sharp",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Expected to be the starting center. Over the last two seasons he outplayed Nic Claxton. How far his minutes get extended, and his split with Moritz Wagner, are the open questions.",
+   "ts": "9:40",
+   "quote": "I think he's going to be the starting center, but the minute split between him and Vagner is going to be",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 594
+  },
+  {
+   "player": "Day'Ron Sharpe",
+   "said_as": "Dron Sharp",
+   "team": "BKN",
+   "horizon": "durable",
+   "text": "One of the best offensive rebounders in the league by the numbers. He improved as a finisher, has become a versatile defender and has shown flashes of playmaking.",
+   "ts": "8:32",
+   "quote": "his offensive rebounding, you know, by the numbers, one of the best offensive rebounders in the league",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 532
+  },
+  {
+   "player": "Day'Ron Sharpe",
+   "said_as": "Don Sharp",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "The goal is for him to work up to mid or high 20s in minutes while staying efficient. In past Claxton absences he sometimes played very few minutes. He is on a short two-year deal.",
+   "ts": "21:21",
+   "quote": "if he can get up to the mid 20s, high 20s in minutes and he can maintain his efficiency",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1289
+  },
+  {
+   "player": "Michael Porter Jr.",
+   "said_as": "Michael Porter Jr.",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "His usage rose a lot and he was very good last season. His usage is expected to drop with Brown, Demin and Randle taking more of the ball.",
+   "ts": "10:12",
+   "quote": "I think we could all assume that the usage is going to take a hit not only with Mikuel Brown",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 612
+  },
+  {
+   "player": "Michael Porter Jr.",
+   "said_as": "Michael Porter Jr.",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "The Nets do not seem to see him as a long-term piece. He is an unrestricted free agent next summer and has no extension. Slater's gut says a trade is coming, possibly within six months.",
+   "ts": "11:54",
+   "quote": "My gut has been that it's trending towards a trade. That doesn't mean it's going to happen before the season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 714
+  },
+  {
+   "player": "Michael Porter Jr.",
+   "said_as": "Michael Porter Jr.",
+   "team": "BKN",
+   "horizon": "durable",
+   "text": "Had a hamstring injury late last season and has had injury concerns earlier in his career.",
+   "ts": "10:12",
+   "quote": "Obviously, we had the hamstring towards the end of the season and those injuries",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 612
+  },
+  {
+   "player": "Julius Randle",
+   "said_as": "Julius Randall",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Seen as the player who raises the team's ceiling. He is the Nets' most accomplished on-ball creator, and the team will go as far as he takes them.",
+   "ts": "23:29",
+   "quote": "they're going to go as far this season as Julius Randall takes them. That's why they brought him in.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1417
+  },
+  {
+   "player": "Moritz Wagner",
+   "said_as": "Mo Vagner",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Signed on a mutual option deal as veteran depth. He is a capable center and will split center minutes with Sharpe.",
+   "ts": "3:46",
+   "quote": "Moagna is a capable center and those sort of players just gives you that little bit of again extra depth",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 226
+  },
+  {
+   "player": "Keon Ellis",
+   "said_as": "Kon Ellis",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Signed on a mutual option deal as veteran depth. He can give capable minutes if asked to start.",
+   "ts": "3:14",
+   "quote": "having Keon Ellis there that if you need to start him he will give you capable minutes",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 217
+  },
+  {
+   "player": "Noah Clowney",
+   "said_as": "Noah Clowny",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Should get second unit minutes but faces a frontcourt logjam. This is a pivotal season for him and he was not extended.",
+   "ts": "25:39",
+   "quote": "for Noah Clowny, this is going to be a very pivotal season. like the Nets could have extended him",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1546
+  },
+  {
+   "player": "Noah Clowney",
+   "said_as": "Noah Clowny",
+   "team": "BKN",
+   "horizon": "durable",
+   "text": "Has been inconsistent and has battled injuries. Not an efficient three-point shooter so far despite hot stretches. Needs to improve his rebounding and rim protection.",
+   "ts": "26:10",
+   "quote": "he hasn't really been an efficient three-point shooter up to this point in his career.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1570
+  },
+  {
+   "player": "Josh Minott",
+   "said_as": "Josh may not",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Was excellent after the deadline trade from the Celtics. He was recently extended and should get a good amount of second unit opportunities, with a longer leash than Clowney.",
+   "ts": "26:43",
+   "quote": "he's a guy who is going to command a good amount of opportunities, I would think, this season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1611
+  },
+  {
+   "player": "Ziaire Williams",
+   "said_as": "Zire Williams",
+   "team": "",
+   "horizon": "current",
+   "text": "Left the Nets. His offensive development did not improve enough to earn a long-term rotation spot.",
+   "ts": "4:17",
+   "quote": "his offensive development probably, you know, didn't really make the strides that were necessary for him to lock up",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 257
+  },
+  {
+   "player": "Ben Saraf",
+   "said_as": "Ben Saraf",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Because of the added depth, he may be the 12th to 14th man on some nights.",
+   "ts": "5:23",
+   "quote": "Ben Saraf and Drake Pal as your first round picks from last season will be, you know, the 13th guy",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 331
+  },
+  {
+   "player": "Drake Powell",
+   "said_as": "Drake Pal",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Because of the added depth, he may be the 12th to 14th man on some nights.",
+   "ts": "5:23",
+   "quote": "Ben Saraf and Drake Pal as your first round picks from last season will be, you know, the 13th guy",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 331
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "BKN",
+   "horizon": "current",
+   "text": "The Nets do not control their pick this season. They will try to win while also running a development and evaluation season.",
+   "ts": "16:54",
+   "quote": "be more competitive, create more of a winning environment, player development, and player evaluation.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1014
+  },
+  {
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Projected starting lineup: Mikel Brown Jr., Egor Demin, Michael Porter Jr., Julius Randle and Day'Ron Sharpe.",
+   "ts": "8:00",
+   "quote": "So you've gone with Muel Brown and Jagger Yman in the back court, Michael Porter and Julius Randle at the forward",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 488
+  },
+  {
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Many young players have a case for minutes, especially in the second unit and in the frontcourt. Minutes will be hard to find for all of them.",
+   "ts": "4:17",
+   "quote": "it's going to be a real struggle to find minutes for a lot of these guys.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 276
+  },
+  {
+   "team": "BKN",
+   "horizon": "durable",
+   "text": "Coach Jordi Fernandez wants multiple ball handlers and connective playmakers rather than one traditional point guard.",
+   "ts": "18:40",
+   "quote": "having multiple ball handlers, having multiple guys who can attack off the dribble, who can create for others",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1120
+  },
+  {
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Slater predicts about 28 wins, with a range of roughly 22 to 30. Having only rookies and second-year players at point guard could limit the ceiling.",
+   "ts": "28:58",
+   "quote": "I'll go in a little bit on the higher end. I'll say 28 wins.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1754
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Julius Randle averaged about 21 points, 8 rebounds and 5 assists on 48% shooting last season.",
+   "ts": "22:59",
+   "quote": "he averaged I think 218 and five last season on 48% shooting",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1393
+  },
+  {
+   "text": "The Nets won 20 games last season.",
+   "ts": "28:20",
+   "quote": "So now I've got to ask you Brooklyn Nets team who won 20 games last season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1708
+  },
+  {
+   "text": "Mikel Brown Jr. averaged over three turnovers per game at Louisville.",
+   "ts": "6:25",
+   "quote": "the turnovers were a little high averaged over three turnovers per game at Louisville.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 392
+  },
+  {
+   "text": "The Nets have nine tradable first round picks (most in the NBA) and 18 second round picks.",
+   "ts": "16:20",
+   "quote": "They have, you know, nine tradable first round picks, most in the NBA. They have 18 second round picks.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 989
+  },
+  {
+   "text": "Day'Ron Sharpe signed a two-year, $20 million contract.",
+   "ts": "21:21",
+   "quote": "they sign him to a two-year uh $20 million contract.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1305
+  },
+  {
+   "text": "The Knicks won 17 games the season before Randle signed, then 21, then 41 as the fourth seed in the East.",
+   "ts": "23:29",
+   "quote": "The season before he signed, they were a 17- win team. The next season, they win 21 games.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1438
+  },
+  {
+   "text": "The Nets' win total over/under is around 24.5.",
+   "ts": "28:20",
+   "quote": "I think their overunder is around 24.5.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1725
+  }
+ ]
+}

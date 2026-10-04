@@ -1,0 +1,567 @@
+{
+ "video": {
+  "id": "LcZcvk8s1xQ",
+  "title": "Memphis Grizzlies 2026/276 NBA Season Preview",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-08-17",
+  "duration": "35:38",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T13:49:49+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.2636758,
+  "duration_ms": 59856
+ },
+ "summary": "Josh Lloyd and Joe Mullinax of Locked On Grizzlies preview the 2026-27 Memphis Grizzlies after the team traded Ja Morant and Jaren Jackson Jr. and drafted Cameron Boozer third overall. They expect Cameron Boozer (about 32 minutes) and Cedric Coward (over 30) to be the only players above 30 minutes a night in Tuomas Iisalo's deep, short-stint rotation. Zach Edey should be ready for opening night but will likely be limited to about 25 to 28 minutes and around 65 games. Ty Jerome is the projected starting point guard at about 27 to 28 minutes, with lower usage than last season. Jerami Grant could bounce back as a scorer and is also a possible trade chip. Jaylen Wells is seen as a bench player. Joe predicts low to mid 30s wins. Josh likes Boozer in drafts, sees Edey and Coward as late-round fliers, and calls Jerome a solid piece.",
+ "rules": [
+  {
+   "text": "Strong numbers posted in limited minutes with lots of rest (no back to backs, playing every second game) should be scaled back when projecting the next season.",
+   "ts": "30:06",
+   "quote": "So, we can look at all those numbers and they're great, but we have to like scale a lot",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1835
+  },
+  {
+   "text": "Follow the money: players nearing a contract extension have a reason to reach the 65-game threshold, which supports their availability.",
+   "ts": "16:25",
+   "quote": "Follow the money, man. He He's going to want to be as involved in those conversations",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1000
+  },
+  {
+   "text": "Very deep rotations with short stints spread minutes thin, which hurts fantasy value even if it helps the real team.",
+   "ts": "19:42",
+   "quote": "There's legitimate depth that Memphis has and while it may not be great for fantasy basketball fans",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1208
+  },
+  {
+   "text": "Once a team decides to tank, injured players may be shut down for the rest of the season even if they could have returned.",
+   "ts": "14:50",
+   "quote": "once the decision was made to pivot and clearly tank, right? Like they they'll never admit to it",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 890
+  },
+  {
+   "text": "Very large players with repeated foot and ankle problems are a risky mix for availability.",
+   "ts": "12:39",
+   "quote": "And we know that he is gigantic and gigantic and foot problems",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 785
+  },
+  {
+   "text": "Young players on rebuilding teams are fairly safe from random rest days, but injuries can still change things.",
+   "ts": "34:33",
+   "quote": "I think most of their players are young enough that they're going to be relatively safe from",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2097
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Jerami Grant",
+   "said_as": "Jeremy Grant",
+   "team": "MEM",
+   "horizon": "durable",
+   "text": "Joe says Jerami Grant has been much more available than Ja Morant.",
+   "ts": "4:51",
+   "quote": "Jeremy Grant has been a much more available player and I still think he averaged over 18 points",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 316
+  },
+  {
+   "player": "Jerami Grant",
+   "said_as": "Jeremy Grant",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Joe expects Grant to be the go-to scorer when the young core gets stuck. He thinks a bounce back is possible, possibly as a top 100 fantasy player.",
+   "ts": "5:56",
+   "quote": "top 100 player, whatever you want it to be, a resurgence is possible for Jeremy Grant in Memphis",
+   "value_hint": "possible top 100",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 372
+  },
+  {
+   "player": "Jerami Grant",
+   "said_as": "Jeremy Grant",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Joe projects Grant as the starting small forward. Grant is also a possible trade chip at the deadline or on draft night.",
+   "ts": "21:52",
+   "quote": "I think you're on to something in terms of him being a flippable asset. I think he makes $34 million",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1317
+  },
+  {
+   "player": "Jerami Grant",
+   "said_as": "Jeremy Grant",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Joe says Grant will be motivated to prove his value because he wants another big NBA contract.",
+   "ts": "32:24",
+   "quote": "So, he has all the incentives in the world to prove that he is valuable",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1966
+  },
+  {
+   "player": "Cameron Boozer",
+   "said_as": "Camboozer",
+   "team": "MEM",
+   "horizon": "durable",
+   "text": "Joe says Boozer does a lot of things well but has limits as a rim protector. He sees Boozer more as a small forward than a center, with point forward potential.",
+   "ts": "6:33",
+   "quote": "Cameron Boozer who excels in so many different ways, but he has limitations in terms of rim protection",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 384
+  },
+  {
+   "player": "Cameron Boozer",
+   "said_as": "Cam Boozer",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Joe projects Boozer at about 32 minutes a night, one of only two Grizzlies above 30 minutes.",
+   "ts": "17:30",
+   "quote": "I think Cam Boozer's around 32, but that's it. Uh I think it's just Boozer and it's just Coward",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1077
+  },
+  {
+   "player": "Cameron Boozer",
+   "said_as": "Cameron Boozer",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Joe says Boozer will get every opportunity to win Rookie of the Year because of how the roster is built.",
+   "ts": "31:19",
+   "quote": "he's going to be given every opportunity to be the rookie of the year because of the way",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1886
+  },
+  {
+   "player": "Cameron Boozer",
+   "said_as": "Boozer",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Josh is very comfortable drafting Boozer.",
+   "ts": "34:33",
+   "quote": "I'm very comfortable with Boozer in drafts. I like taking flies on Edy and Coward towards end of drafts.",
+   "value_hint": "comfortable draft target",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2081
+  },
+  {
+   "player": "Zach Edey",
+   "said_as": "Zach Edi",
+   "team": "MEM",
+   "horizon": "durable",
+   "text": "Edey has had three significant ankle or foot problems in his first two seasons.",
+   "ts": "12:39",
+   "quote": "And this is what three significant ankle/ foot issues over his first two seasons.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 794
+  },
+  {
+   "player": "Zach Edey",
+   "said_as": "Zack Edy",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Joe expects Edey to be healthy for opening night but with limits on his minutes. He expects about 65 games because Edey is thinking about his contract extension.",
+   "ts": "13:49",
+   "quote": "I think that he's going to be healthy for opening night. I do think there's going to be limitations",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 837
+  },
+  {
+   "player": "Zach Edey",
+   "said_as": "Zack Edy",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Joe projects 25 to 28 minutes a night, not 34 to 36. He says this is about managing Edey's large frame, not his conditioning, which is good. Isaiah Stewart and Quinten Post will soak up the extra center minutes.",
+   "ts": "15:21",
+   "quote": "25 to 28 minutes a night, I think is a very realistic expectation. Not because he can't do it.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 939
+  },
+  {
+   "player": "Zach Edey",
+   "said_as": "Ed",
+   "team": "MEM",
+   "horizon": "durable",
+   "text": "Joe says Edey was one of the most efficient and dominant players in the NBA when on the court, in a small sample.",
+   "ts": "16:25",
+   "quote": "He was one of the most efficient players in the entire NBA last season. Again, very small sample size",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 985
+  },
+  {
+   "player": "Zach Edey",
+   "said_as": "Edy",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Josh likes taking Edey as a late-round flier.",
+   "ts": "34:33",
+   "quote": "I like taking flies on Edy and Coward towards end of drafts.",
+   "value_hint": "late-round flier",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2081
+  },
+  {
+   "player": "Cedric Coward",
+   "said_as": "Cedric Howard",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Joe expects Coward to play over 30 minutes a night.",
+   "ts": "17:30",
+   "quote": "I think Cedric Howard plays over 30 minutes a night on this team",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1069
+  },
+  {
+   "player": "Cedric Coward",
+   "said_as": "Cedric Coward",
+   "team": "MEM",
+   "horizon": "durable",
+   "text": "Joe sees Coward as a strong defender and a rebounding shooting guard. He is a third-option scorer who knocks down open shots.",
+   "ts": "22:58",
+   "quote": "I think that he holds tremendous value on that end of the court in particular and as a rebounding two guard",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1403
+  },
+  {
+   "player": "Cedric Coward",
+   "said_as": "Coward",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Josh likes taking Coward as a late-round flier.",
+   "ts": "34:33",
+   "quote": "I like taking flies on Edy and Coward towards end of drafts.",
+   "value_hint": "late-round flier",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2081
+  },
+  {
+   "player": "Ty Jerome",
+   "said_as": "Tai Jerome",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Last season Jerome had a usage rate around 33 in limited minutes and ranked eighth in offensive EPM. He shot very well.",
+   "ts": "26:45",
+   "quote": "He usage of like 33. He was the eighth highest ranked player in offensive EPM. He shot the lights out.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1633
+  },
+  {
+   "player": "Ty Jerome",
+   "said_as": "Ty Jerome",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Josh says Jerome will easily win the starting point guard job. Joe projects about 27 to 28 minutes a game.",
+   "ts": "27:56",
+   "quote": "I think he gets about 27 or 28 minutes a game.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1667
+  },
+  {
+   "player": "Ty Jerome",
+   "said_as": "Ty Jerome",
+   "team": "MEM",
+   "horizon": "durable",
+   "text": "Joe calls Jerome an efficient scorer with an underrated handle and elite feel for angles, despite below-average athleticism.",
+   "ts": "28:33",
+   "quote": "He was an extremely efficient offensive player. He's very underrated in terms of his handle.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1728
+  },
+  {
+   "player": "Ty Jerome",
+   "said_as": "Tai Jerome",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Joe expects Jerome's usage to drop but his efficiency could rise. Josh says last season's numbers came with heavy rest and should be scaled back.",
+   "ts": "30:06",
+   "quote": "he is going to have the opportunity to be even more efficient perhaps in lower usage",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1808
+  },
+  {
+   "player": "Ty Jerome",
+   "said_as": "Jerome",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Josh calls Jerome a solid enough fantasy piece.",
+   "ts": "34:33",
+   "quote": "I think Jerome is a solid enough piece and I think Joe highlighted a lot of those things",
+   "value_hint": "solid enough piece",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2081
+  },
+  {
+   "player": "Jaylen Wells",
+   "said_as": "Jaylen Wells",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Joe sees Wells as a reserve, possibly the first player off the bench, playing 20 to 25 minutes.",
+   "ts": "9:23",
+   "quote": "I do think that that is a guy that you treat as a sixth man. He gets 20 to 25 minutes",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 578
+  },
+  {
+   "player": "Jaylen Wells",
+   "said_as": "Jaylen Wells",
+   "team": "MEM",
+   "horizon": "durable",
+   "text": "Joe says Wells lacks athleticism and scores inconsistently but is a sturdy defender.",
+   "ts": "9:23",
+   "quote": "Jaylen Wells has capacity to score, but it's inconsistent. He is a very sturdy defender",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 578
+  },
+  {
+   "player": "Scotty Pippen Jr.",
+   "said_as": "Scotty Pippen",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Pippen was significantly injured last season. He will compete for point guard minutes behind Ty Jerome.",
+   "ts": "8:10",
+   "quote": "I do like what Scotty Pippen um brings. But we'll say both those guys were obviously significantly injured",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 490
+  },
+  {
+   "player": "Cam Spencer",
+   "said_as": "Cam Spencer",
+   "team": "MEM",
+   "horizon": "durable",
+   "text": "Joe calls Spencer one of the most efficient mid-range and three-point shooting wings in the NBA.",
+   "ts": "19:07",
+   "quote": "Cam Spencer who's one of the most efficient mid-range and three-point shooting wings in the NBA",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1147
+  },
+  {
+   "player": "GG Jackson",
+   "said_as": "GI Jackson",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Jackson is eligible for an extension but has not been extended. Joe thinks he will see some opportunity, possibly at small forward.",
+   "ts": "24:01",
+   "quote": "it could be GI Jackson, you know, the 21-year-old three-year veteran in the NBA. I think GG's going",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1457
+  },
+  {
+   "player": "Isaiah Stewart",
+   "said_as": "Stewart",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Stewart is a backup center who can make spot starts if Zach Edey misses time.",
+   "ts": "6:33",
+   "quote": "two legitimate bigs in Stewart and Post. Stewart can spot start. Post can certainly play in the rotation",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 403
+  },
+  {
+   "player": "Quinten Post",
+   "said_as": "Post",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Post can play extended rotation minutes as a backup center alongside Cameron Boozer.",
+   "ts": "6:33",
+   "quote": "Post can certainly play in the rotation for extended periods of time.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 403
+  },
+  {
+   "player": "Javon Small",
+   "said_as": "Javon Small",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Small is back on a two-way contract. He looked like a real rotation point guard, but Josh expects him not to play most nights.",
+   "ts": "20:16",
+   "quote": "Javon Small is back on a two-way and he was starting and looking like a legitimate NBA rotation point guard",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1232
+  },
+  {
+   "player": "Olivier-Maxence Prosper",
+   "said_as": "Olivia Max's Prosper",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Prosper started late last season but could be as low as 14th in the rotation this season.",
+   "ts": "20:16",
+   "quote": "in prosper like he might be their 14th man of the rotation",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1232
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "MEM",
+   "horizon": "durable",
+   "text": "Memphis usually overloads its roster with guaranteed contracts for flexibility, then waives players later.",
+   "ts": "2:10",
+   "quote": "they will whittle down the roster, the usual suspects, the non-g guaranteed contracts, the expiring deals",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 147
+  },
+  {
+   "team": "MEM",
+   "horizon": "durable",
+   "text": "Coach Tuomas Iisalo plays at a very high pace, uses short five-minute stints, and keeps minutes down.",
+   "ts": "16:56",
+   "quote": "You play 5 minutes, you come out and you go hard in that time and we play extremely high pace",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1033
+  },
+  {
+   "team": "MEM",
+   "horizon": "current",
+   "text": "The roster is very deep and Iisalo runs an 11-man rotation. Joe expects only Cameron Boozer and Cedric Coward to top 30 minutes.",
+   "ts": "19:07",
+   "quote": "if you want to be annoyed because Tumas Iselo is running this 11man rotation with these short bursts",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1159
+  },
+  {
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Memphis clearly tanked late last season, which is why Zach Edey was shut down.",
+   "ts": "14:50",
+   "quote": "once the decision was made to pivot and clearly tank, right? Like they they'll never admit to it",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 890
+  },
+  {
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Joe predicts low to mid 30s wins, around the 10th seed. He says Memphis is not trying to tank because of the new tanking rules.",
+   "ts": "30:44",
+   "quote": "I have them in the low 30s, low to mid30s. I think that's realistic.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1864
+  },
+  {
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Memphis has three first-round picks in the 2027 draft, which gives it room to make trades, including moving Jerami Grant.",
+   "ts": "24:32",
+   "quote": "the Grizzlies have three first round picks. Yeah. In the 2027 NBA draft.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1472
+  },
+  {
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Joe's projected starting five is Ty Jerome, Cedric Coward, Jerami Grant, Cameron Boozer and Zach Edey.",
+   "ts": "7:39",
+   "quote": "In your group there, you've got Tai Jerome, Cedric Coward, Jeremy Grant, Camboozer, and Zack Ed.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 483
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Jerami Grant averaged over 18 points per game last season.",
+   "ts": "4:51",
+   "quote": "I still think he averaged over 18 points a game this past season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 316
+  },
+  {
+   "text": "Zach Edey played only 11 games last season.",
+   "ts": "12:39",
+   "quote": "He came in, he dominated for the 11 games that he played",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 777
+  },
+  {
+   "text": "Ty Jerome had a usage rate around 33 and ranked eighth in offensive EPM last season.",
+   "ts": "26:45",
+   "quote": "He usage of like 33. He was the eighth highest ranked player in offensive EPM.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1633
+  },
+  {
+   "text": "Jaylen Wells started nearly every game of his first two seasons.",
+   "ts": "8:10",
+   "quote": "Because he started nearly every game of his first two seasons.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 512
+  },
+  {
+   "text": "Jerami Grant makes $34 million this season, with a $36 million player option next season.",
+   "ts": "21:52",
+   "quote": "I think he makes $34 million this year, 36 on a player option next year",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1317
+  },
+  {
+   "text": "Cameron Boozer was the number 3 pick and will be the youngest player in the NBA.",
+   "ts": "3:10",
+   "quote": "Of course, they draft Kamboozer at number",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 217
+  },
+  {
+   "text": "Jerami Grant is the only player on the roster over age 30 other than Taj Gibson.",
+   "ts": "20:47",
+   "quote": "he is the only player outside of Taj Gibson who is over the age of 30",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1255
+  }
+ ]
+}

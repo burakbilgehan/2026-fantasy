@@ -1,0 +1,390 @@
+{
+ "video": {
+  "id": "HxQjagSTTAM",
+  "title": "2026 NBA Draft MOCK DRAFT | All 60 Draft Picks!",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-06-22",
+  "duration": "23:12",
+  "auto_captions": true
+ },
+ "prompt_version": 2,
+ "extracted_at": "2026-10-04T10:46:16+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.196196,
+  "duration_ms": 45405
+ },
+ "summary": "Josh Lloyd gives his final 2026 NBA mock draft, covering all 60 picks. He says these are the picks he would make himself, not predictions based on inside information. His top three are Cameron Boozer, Darryn Peterson and AJ Dybantsa. He calls Boozer the clear number one dynasty player in the class. His favourite prospects are Christian Anderson, Allen Graves and Meleek Thomas. He warns that every draft has busts in the top 10 and future stars outside the lottery. He also notes a Giannis trade could happen at any time and change the draft.",
+ "rules": [
+  {
+   "text": "Draft position is unreliable. Every year a player outside the lottery becomes a top 10 player in his class, and a top 10 pick disappoints.",
+   "ts": "1:39",
+   "quote": "There is going to be a player outside the lottery who is a top 10 player in this draft.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 106
+  },
+  {
+   "text": "Players picked in the 20s, such as OG Anunoby, Pascal Siakam and Desmond Bane, have become excellent players. Do not write off a prospect because of a late projection or bench numbers in college.",
+   "ts": "5:44",
+   "quote": "I love that for OG Anunoby going in the 20s. I love that for Pascal Siakam going in the 20s.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 369
+  },
+  {
+   "text": "In dynasty, statistical translations rate high field goal percentage, high block rate big men very highly. These players often go 5 to 10 spots earlier in dynasty drafts than their NBA draft slot.",
+   "ts": "19:15",
+   "quote": "you will most certainly will see him go in dynasty leagues five to 10 slots higher.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1178
+  },
+  {
+   "text": "Age and context matter when judging college stats. Older prospects, and players on dominant teams with other strong frontcourt players, may not carry their numbers over to the NBA.",
+   "ts": "11:24",
+   "quote": "Yaxel's numbers are great. Like don't get me wrong. steals, good blocks, good threes",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 690
+  },
+  {
+   "text": "Draft picks should not be made only for the current roster fit. Some planning for the future is needed.",
+   "ts": "10:54",
+   "quote": "can't make it all exclusively for what's going on right now. There's got to be a little bit of forward planning.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 654
+  },
+  {
+   "text": "Offseason trades often happen around draft time, so rankings and outlooks can change quickly.",
+   "ts": "5:44",
+   "quote": "So, just be aware that I might be recording this right now, and then an hour later another story might come out.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 348
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Cameron Boozer",
+   "said_as": "Cameron Boozer",
+   "horizon": "current",
+   "text": "His number one pick and very clearly the number one dynasty rookie in this class. He expects Boozer will probably not go first in the real draft.",
+   "ts": "2:40",
+   "quote": "Very clearly the number one dynasty player to me in this class is Cameron Boozer.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 172
+  },
+  {
+   "player": "Darryn Peterson",
+   "said_as": "Darren Peterson",
+   "horizon": "current",
+   "text": "Mocked second to Utah. He now puts Peterson in the same tier as Boozer. He calls the Utah fit very strong and thinks Peterson can get more assists than he did at Kansas.",
+   "ts": "3:11",
+   "quote": "I think the fit with Utah I is really really strong clearly. And I think he could do a lot more assist wise",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 209
+  },
+  {
+   "player": "AJ Dybantsa",
+   "said_as": "Abanca",
+   "horizon": "durable",
+   "text": "Dropped slightly to tier 1.5 and mocked third to Memphis. He has concerns about the defense, shot selection and shooting percentages, but he loves the size. He does not think Dybantsa will be a bust.",
+   "ts": "3:11",
+   "quote": "Some of the shot selection and shooting percentages I'm a little concerned about, but I do love Abanca's size.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 205
+  },
+  {
+   "player": "Keaton Wagler",
+   "said_as": "Keaton Wogglier",
+   "horizon": "durable",
+   "text": "Mocked sixth to the Nets, ahead of Kingston Flemings. He expects good assists and solid scoring, and he is very confident in the shooting. Athleticism is a concern.",
+   "ts": "4:12",
+   "quote": "There is some like the assists I think are going to be good. The scoring should be solid. The shooting I'm very",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 277
+  },
+  {
+   "player": "Kingston Flemings",
+   "said_as": "Kingston Fleming's",
+   "horizon": "current",
+   "text": "Mocked seventh to Sacramento. He says Flemings' wingspan is not great.",
+   "ts": "4:42",
+   "quote": "That means I do have Fleming's now going at seven to the Sacramento Kings.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 297
+  },
+  {
+   "player": "Allen Graves",
+   "said_as": "Alan Graves",
+   "horizon": "current",
+   "text": "One of his favourite prospects. He moved Graves up to the same tier as the top 10 group and mocked him 11th to Golden State, even though Graves did not start in college.",
+   "ts": "6:16",
+   "quote": "I just I really believe that Graves is just going to have success.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 383
+  },
+  {
+   "player": "Brayden Burries",
+   "said_as": "Brandon Burries",
+   "horizon": "current",
+   "text": "Moved down to 12th, going to the Thunder. He is unsure what Burries' standout skill is and questions his upside.",
+   "ts": "6:47",
+   "quote": "There's solidness there, but is there strong upsideness to it? I'm I'm not sure.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 408
+  },
+  {
+   "player": "Christian Anderson",
+   "said_as": "Christian Anderson",
+   "horizon": "durable",
+   "text": "Mocked 13th to Miami and one of his favourite prospects. He praises Anderson's passing and shooting. Concerns are his size and defense.",
+   "ts": "6:47",
+   "quote": "Christian Anderson does. Incredibly good passing. I'm taking him at 13 to the Heat. Really really strong shooting.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 413
+  },
+  {
+   "player": "Cameron Carr",
+   "said_as": "Cameron Carr",
+   "horizon": "current",
+   "text": "Mocked 14th. He says Carr could end up better than several players picked ahead of him.",
+   "ts": "7:19",
+   "quote": "I've got Carr going at 14.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 460
+  },
+  {
+   "player": "Meleek Thomas",
+   "said_as": "Malik Thomas",
+   "horizon": "current",
+   "text": "Mocked 16th to Memphis and one of his favourite prospects. He thinks Thomas could pass Burries.",
+   "ts": "9:22",
+   "quote": "I could see Thomas and Barry being quite similar and Thomas jumping past him at some point.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 597
+  },
+  {
+   "player": "Chris Cenac Jr.",
+   "said_as": "Chris Sarr Jr.",
+   "horizon": "durable",
+   "text": "Mocked 18th to Charlotte. His block rate was embarrassingly low for his size and athleticism, but the speaker thinks it may improve in the NBA.",
+   "ts": "10:24",
+   "quote": "Embarrassingly low block rate for a bloke as big and athletic as he is",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 624
+  },
+  {
+   "player": "Dailyn Swain",
+   "said_as": "Dalen Swain",
+   "horizon": "durable",
+   "text": "Mocked 19th to Toronto. He has a high turnover rate, plus wing size and upside as a shooter, passer and creator.",
+   "ts": "10:24",
+   "quote": "The high turnover rate is a little concerning, but wing, good size, shooting upside, passing upside, creation upside.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 632
+  },
+  {
+   "player": "Yaxel Lendeborg",
+   "said_as": "Yaxel Lendeborg",
+   "horizon": "durable",
+   "text": "Mocked 20th to San Antonio. His stats are strong in steals, blocks, threes, free throws, scoring and assists. Age (24), athletic limits and a stacked Michigan team are reasons for caution.",
+   "ts": "11:24",
+   "quote": "steals, good blocks, good threes, good free throws, good scoring, good good assists, all that stuff.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 692
+  },
+  {
+   "player": "Nate Ament",
+   "said_as": "Nate Hinton",
+   "horizon": "durable",
+   "text": "Mocked 22nd to Philadelphia. He calls the shooting and efficiency numbers horrific and wants more blocks. He scored in high volume and rebounded well.",
+   "ts": "12:28",
+   "quote": "He scored in high volume, the rebounds are good, but I I need more block numbers. I need more efficiency.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 750
+  },
+  {
+   "player": "Isaiah Evans",
+   "said_as": "Isaiah Livers",
+   "horizon": "durable",
+   "text": "Mocked 24th to the Knicks. He is an older prospect who took a huge number of threes and made them at a high rate.",
+   "ts": "12:28",
+   "quote": "He took a million threes, just a million, and they went in at really high rate.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 786
+  },
+  {
+   "player": "Jayden Quaintance",
+   "said_as": "Jaylen Quaintance",
+   "horizon": "durable",
+   "text": "Mocked 25th to the Lakers. He is very young and a strong shot blocker who runs the rim. He has injury concerns, and his free throw shooting is terrifying.",
+   "ts": "13:30",
+   "quote": "but incredibly young really good shot blocker. The free throw thing is really terrifying.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 810
+  },
+  {
+   "player": "Henri Veesaar",
+   "said_as": "Henri Veesaar",
+   "horizon": "durable",
+   "text": "Mocked 26th to Denver. He projects as a career backup big man.",
+   "ts": "14:02",
+   "quote": "Probably just profiles as a career backup big man.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 845
+  },
+  {
+   "player": "Sergio de Larrea",
+   "said_as": "Sergio De Larrea",
+   "horizon": "durable",
+   "text": "Mocked 28th. He is a big point guard with good shooting numbers and impressive measurements. There are defensive concerns.",
+   "ts": "14:35",
+   "quote": "Big big point guard from Valencia. Love his shooting numbers.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 891
+  },
+  {
+   "player": "Youssoupha Fall Ndiaye",
+   "said_as": "Youssoupha Fall Ndiaye",
+   "horizon": "durable",
+   "text": "Mocked 38th to the Bulls. He is a monster shot blocker. His high block rate and high field goal percentage put him near the top five in statistical dynasty translations. Expect him to go 5 to 10 spots above his draft slot in dynasty leagues.",
+   "ts": "19:15",
+   "quote": "When we do straight to statistical translations for dynasty, this boy comes out like top five because of the high block numbers.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1163
+  },
+  {
+   "player": "Richie Saunders",
+   "said_as": "Richie Saunders",
+   "horizon": "durable",
+   "text": "Mocked 34th to the Kings. He is an older shooter who is sliding to the second round because of an ACL injury.",
+   "ts": "18:11",
+   "quote": "But that's why he's sliding in the second round because of the ACL.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1087
+  },
+  {
+   "player": "Rafael Castro",
+   "said_as": "Rafael Castro",
+   "horizon": "durable",
+   "text": "Mocked 53rd. He is a big man with an incredible steal rate.",
+   "ts": "21:21",
+   "quote": "53, Rafael Castro, really like a big man but incredible steal rate.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1290
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Donte DiVincenzo will miss most of next season, and Mike Conley is close to retiring, so Minnesota needs a guard.",
+   "ts": "14:35",
+   "quote": "they are not going to have Donte DiVincenzo most of next season. Mike Conley's on the verge of retiring",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 883
+  },
+  {
+   "team": "MIL",
+   "horizon": "current",
+   "text": "There is no Giannis trade yet, but one could happen at any time and could give the Bucks more picks.",
+   "ts": "5:13",
+   "quote": "We don't have any movement on any sort of Giannis deal. But, that can happen realistically at any point.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 331
+  },
+  {
+   "team": "OKC",
+   "horizon": "current",
+   "text": "The Thunder are unsure about Isaiah Hartenstein's future and about how Sarr will develop.",
+   "ts": "9:54",
+   "quote": "they don't really know what's going to happen with Hartenstein. They don't really know how Sarr is going to look.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 611
+  },
+  {
+   "team": "BOS",
+   "horizon": "durable",
+   "text": "Boston gets a lot out of players with limited offense, such as Jordan Walsh.",
+   "ts": "14:35",
+   "quote": "Boston does a lot with these sort of limited offensive guys like a Jordan Walsh for example.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 875
+  },
+  {
+   "team": "LAL",
+   "horizon": "current",
+   "text": "The Lakers need a rim running, shot blocking defender next to Luka Doncic and Austin Reaves.",
+   "ts": "13:30",
+   "quote": "putting a rim running shot blocking defender alongside Luka most likely Austin Reaves",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 816
+  },
+  {
+   "team": "NYK",
+   "horizon": "current",
+   "text": "Under Mike Brown, the Knicks fixed the previous coach's habit of not playing the bench and overworking the starters.",
+   "ts": "16:10",
+   "quote": "maybe their previous coach deciding to not play any of their depth pieces and absolutely burn out their starters",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 990
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Yaxel Lendeborg is 24 years old.",
+   "ts": "11:24",
+   "quote": "Really not much of a question, but he's not. He's 24. He has some athletic limitations.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 670
+  },
+  {
+   "text": "Nate Ament (said as Nate Hinton) is 6'10\". He finished about 50% at the rim and shot about 43% on two-pointers.",
+   "ts": "12:28",
+   "quote": "He's 6'10\" finishing at the rim at 50% with a 2-point",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 744
+  },
+  {
+   "text": "Jayden Quaintance played only four games last season.",
+   "ts": "13:30",
+   "quote": "Jaylen Quaintance injury concerns only played four games",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 805
+  }
+ ]
+}

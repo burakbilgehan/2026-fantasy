@@ -1,0 +1,1057 @@
+{
+ "video": {
+  "id": "QbdrhJd7LiA",
+  "title": "The Points League Bust You Can’t Ignore",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-09-22",
+  "duration": "35:45",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T14:15:27+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.3693678,
+  "duration_ms": 100438
+ },
+ "summary": "Josh Lloyd goes through points league busts on Yahoo and ESPN. These are players he thinks are ranked or drafted too high for points formats, as of September 21. A bust does not mean you never draft the player. It means the market is valuing him wrongly. He keeps comparing each player's current rank and ADP with where he finished in points leagues last season, and he says roles and teammates have changed. Big Yahoo busts include Tyrese Maxey, Kevin Durant, Tyrese Haliburton, Chet Holmgren and Kon Knueppel. On ESPN he flags Jalen Johnson, Jalen Brunson, Trae Young, Pascal Siakam and Nikola Vucevic. In the mailbag he says the draft and the waiver wire matter about equally, playoff schedules matter least at draft time, and the whole game is about getting value.",
+ "rules": [
+  {
+   "text": "Calling a player a bust does not mean you should never draft him. It means the market is valuing him wrongly at his current price.",
+   "ts": "1:02",
+   "quote": "What does a bust mean? Does it mean you don't draft them? No, that's not what it means.",
+   "verified": true,
+   "match_ratio": 0.94,
+   "seconds": 73
+  },
+  {
+   "text": "Yahoo rankings are format agnostic, so they do not fit any one format, and ADP tends to follow them. Do not trust them for points leagues.",
+   "ts": "2:05",
+   "quote": "Yahoo's rankings are format agnostic. They throw an X rank out there. What does it mean?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 154
+  },
+  {
+   "text": "Format matters. A player who is good value in category leagues can be a bust in points leagues.",
+   "ts": "3:38",
+   "quote": "in a points league. And this is where again format is important in a points league.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 222
+  },
+  {
+   "text": "Players whose Yahoo ranks are boosted by 9-category value are hard to value correctly for points leagues.",
+   "ts": "7:49",
+   "quote": "these are the guys again that get real nine cap fluffed which creates issues with trying to assign their value for points leagues",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 475
+  },
+  {
+   "text": "Not every drafter knows why a player is ranked where he is, so many people get fooled by bad ranks.",
+   "ts": "15:41",
+   "quote": "not everyone knows why players are in certain positions. So they can get fooled.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 955
+  },
+  {
+   "text": "In points leagues, minutes drive usage, usage drives scoring and scoring drives fantasy points. A player who only scores needs big volume to pay off.",
+   "ts": "16:12",
+   "quote": "minutes begets usage, usage begets scoring, scoring begets fantasy points.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 987
+  },
+  {
+   "text": "Play the prediction game. Project a realistic stat line for a player and ask whether it would really justify his draft spot.",
+   "ts": "17:14",
+   "quote": "play the prediction game. What do you think a reasonable predicted stat line is",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1057
+  },
+  {
+   "text": "Avoid single-season myopia. Look at more than one past season, for example when comparing games played.",
+   "ts": "19:16",
+   "quote": "I want you to really be cautious of single season myopia.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1165
+  },
+  {
+   "text": "Last season's finish is not the final word, but it shows how much a player has to improve to justify his rank.",
+   "ts": "22:22",
+   "quote": "it's a good indication to see how much someone needs to maybe improve to hit this number.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1350
+  },
+  {
+   "text": "ESPN default points scoring penalizes missed shots, so inefficient shooters lose value there.",
+   "ts": "20:48",
+   "quote": "ESPN default scoring penalizes missed shots.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1241
+  },
+  {
+   "text": "ESPN gives separate points league ranks, but its ADP mixes formats together and does not mean much.",
+   "ts": "21:51",
+   "quote": "ESPN splits them up. They go, \"Here's your points league ranks.\" Now, they're ADPs.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1322
+  },
+  {
+   "text": "Playoff schedules are the least important factor at draft time. Use them only as a tiebreaker between equal players. Do not take a worse player for a better playoff schedule.",
+   "ts": "32:47",
+   "quote": "Hey, should I take a worse player who's got a better playoff schedule?\" No, you shouldn't.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1983
+  },
+  {
+   "text": "Later in the season, playoff schedules matter through smart streaming and avoiding two-game weeks.",
+   "ts": "32:47",
+   "quote": "it becomes more important about maxing out through smart streaming, avoiding a twoame week if it's close",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1993
+  },
+  {
+   "text": "Hitting on value picks in the draft is probably the biggest factor in winning a league.",
+   "ts": "33:50",
+   "quote": "Drafting and nailing the value picks is probably the number one thing that contributes to winning.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2026
+  },
+  {
+   "text": "The waiver wire matters as much as the draft. Grab hot players who stay hot, and stream to get a games-played edge in head-to-head.",
+   "ts": "34:20",
+   "quote": "using it to max out your games in certain spots and taking that games played advantage in a head-to-head format.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2068
+  },
+  {
+   "text": "Overall, the name of the game is value: from the draft, streaming, hot waiver pickups and short-term injury replacements.",
+   "ts": "34:20",
+   "quote": "the name of the game is value. get value through streaming, hot wave wide pickups, short-term injury replacements",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2077
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Tyrese Maxey",
+   "said_as": "Tyrus Maxi",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Ranked 6th on Yahoo with an ADP of 10. Josh says he should not be a first-round player because he will compete with more teammates for touches this season.",
+   "ts": "2:37",
+   "quote": "I don't think that Tyrus Maxi should be considered a first round player for the um uh upcoming season",
+   "value_hint": "Yahoo rank 6, ADP 10, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 178
+  },
+  {
+   "player": "Tyrese Maxey",
+   "said_as": "Tyrus Maxi",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Josh would not be shocked if he finishes outside the top 20 in points leagues. He calls rank 6 nonsense and ADP 10 a bit too high.",
+   "ts": "3:07",
+   "quote": "I wouldn't be shocked in a points league if he's not a top 20 player.",
+   "value_hint": "may not be top 20",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 195
+  },
+  {
+   "player": "Kevin Durant",
+   "said_as": "Kevin Durant",
+   "team": "",
+   "horizon": "current",
+   "text": "He may be value in category leagues, but he is a bust in Yahoo points leagues at rank 15 and ADP 17. He was 22nd last season while playing huge minutes.",
+   "ts": "3:38",
+   "quote": "Last season playing a million minutes, one year younger, Durant was 22nd. So why would I go up to 15?",
+   "value_hint": "Yahoo rank 15, ADP 17, bust",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 228
+  },
+  {
+   "player": "Tyrese Haliburton",
+   "said_as": "Tyres Hallebertton",
+   "team": "IND",
+   "horizon": "current",
+   "text": "Coming back from a torn Achilles. Josh expects him to miss some time and to have limited minutes early, since Rick Carlisle likes to cut minutes.",
+   "ts": "4:11",
+   "quote": "I would imagine early in the season he'll have some limited minutes and Richard Carl loves dropping players minutes down.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 260
+  },
+  {
+   "player": "Tyrese Haliburton",
+   "said_as": "Tyrese Haliburton",
+   "team": "IND",
+   "horizon": "durable",
+   "text": "Josh says he is just not that good for points leagues. He is more likely a third-round player than a first-rounder, 24th at a stretch but not 12th.",
+   "ts": "4:11",
+   "quote": "he's just not that good for for fantasy points leagues. He's he's not a first round player.",
+   "value_hint": "third-round value, not 12th",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 266
+  },
+  {
+   "player": "Austin Reaves",
+   "said_as": "Austin Reeves",
+   "team": "LAL",
+   "horizon": "current",
+   "text": "Josh likes him in category leagues, but in points leagues he is too high at Yahoo rank 20 and ADP 22. He was 37th last season and fits around pick 30.",
+   "ts": "4:42",
+   "quote": "I think he's more of a guy you want around pick 30, not around pick 20.",
+   "value_hint": "Yahoo rank 20, ADP 22; worth about pick 30",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 312
+  },
+  {
+   "player": "Donovan Mitchell",
+   "said_as": "Donovan Mitchell",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Ranked 11th on Yahoo with an ADP of 16. Josh has him around 25 to 30 in points leagues and projects about 41 fantasy points per game because James Harden is there full time.",
+   "ts": "5:14",
+   "quote": "I've got Mitchell around that 30 mark, 25 mark in points.",
+   "value_hint": "Yahoo rank 11, ADP 16; Josh ranks him 25 to 30",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 341
+  },
+  {
+   "player": "Donovan Mitchell",
+   "said_as": "Donovan Mitchell",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "For two thirds of last season he played without Harden, with Darius Garland missing or limited, and with Max Strus out. Peyton Watson will also get touches.",
+   "ts": "5:44",
+   "quote": "Payton Watson's going to get some touches. Harden is there fulltime now.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 364
+  },
+  {
+   "player": "Donovan Mitchell",
+   "said_as": "Donnie Mitchell",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Ranked 10th on ESPN, the same as his finish last season. Josh doubts that carries over, and Mitchell does not have a long history at that level.",
+   "ts": "21:19",
+   "quote": "He doesn't have a particularly long history of producing at that particular level.",
+   "value_hint": "ESPN rank 10, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1293
+  },
+  {
+   "player": "James Harden",
+   "said_as": "Jimmy Harden",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Josh thinks Harden is starting the end-of-career drop-off. He was 19th last season, mostly from his time with the Clippers, and his usage dropped in Cleveland. Yahoo rank 30 is fine for category leagues but not for points leagues.",
+   "ts": "6:14",
+   "quote": "I think Harden is sort of starting to suffer that end of season, end of career drop off.",
+   "value_hint": "Yahoo rank 30, too high in points",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 390
+  },
+  {
+   "player": "James Harden",
+   "said_as": "Jimmy Harden",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Ranked 23rd on ESPN. Josh calls that a stretch. Harden finished 19th in 35 minutes a game, but he averaged under 20 points with Cleveland.",
+   "ts": "22:22",
+   "quote": "I believe he averaged under 20 points a game playing for Cleveland. So, I think that's a bit of a stretch",
+   "value_hint": "ESPN rank 23, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1359
+  },
+  {
+   "player": "Chet Holmgren",
+   "said_as": "Chad Hongren",
+   "team": "OKC",
+   "horizon": "current",
+   "text": "Yahoo rank moved from 19 to 27, still way off for points leagues. He was 46th last season in 29 minutes a game. Drafting him in round two of a points league is a league loser.",
+   "ts": "7:17",
+   "quote": "Drafting Ched in round two of a points league. It's a It's a league loser",
+   "value_hint": "Yahoo rank 27; round two is a league loser",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 452
+  },
+  {
+   "player": "Donovan Clingan",
+   "said_as": "Don Klingan",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Ranked 39th on Yahoo, which Josh calls a nonsense category league rank anyway. He was 54th per game in points leagues, so the rank assumes about a round and a half of improvement that Josh does not expect.",
+   "ts": "7:17",
+   "quote": "Don Klingan, who's ranked at 39, which is a nonsense category league rank anyway.",
+   "value_hint": "Yahoo rank 39, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 457
+  },
+  {
+   "player": "Trey Murphy III",
+   "said_as": "Ken Murphy the third",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Ranked 35th on Yahoo. He did a lot of his damage last season without Dejounte Murray and still finished 43rd. Now Murray will have the ball in his hands.",
+   "ts": "7:49",
+   "quote": "Trey Murphy did a lot of his damage last season without Dejante Murray around.",
+   "value_hint": "Yahoo rank 35, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 486
+  },
+  {
+   "player": "Walker Kessler",
+   "said_as": "Walker Kesler",
+   "team": "UTA",
+   "horizon": "current",
+   "text": "Ranked 37th on Yahoo with an ADP of 35. He was 41st in only five games last season, and Josh expects his steals and threes to come down.",
+   "ts": "8:52",
+   "quote": "we probably don't expect the steals and the threes to stay as high as they were",
+   "value_hint": "Yahoo rank 37, ADP 35, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 538
+  },
+  {
+   "player": "Derrick White",
+   "said_as": "Derek White",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Ranked 41st on Yahoo. He was 50th last season as the second option next to Jaylen Brown. Now Jayson Tatum and Paul George are alongside him, so Josh does not expect much improvement.",
+   "ts": "9:22",
+   "quote": "now he's got Jason Tatum and Paul George alongside him. So why would I expect him to improve significantly?",
+   "value_hint": "Yahoo rank 41, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 560
+  },
+  {
+   "player": "Derrick White",
+   "said_as": "Derek White",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Ranked 35th on ESPN. Josh expects better shooting, but lower usage, less time on the ball and age to offset it.",
+   "ts": "25:28",
+   "quote": "Usage down, time on ball down, and he's older like we all are.",
+   "value_hint": "ESPN rank 35, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1548
+  },
+  {
+   "player": "Kon Knueppel",
+   "said_as": "Areola Coniple",
+   "team": "CHA",
+   "horizon": "current",
+   "text": "Yahoo rank 45, ADP 39. LaMelo Ball and Miles Bridges are gone, but Royce O'Neale, Naz Reid, Coby White and Grayson Allen are there. He was 89th last season. Josh calls him one of the biggest Yahoo points busts.",
+   "ts": "9:54",
+   "quote": "that is a gigantic one of the biggest largest busts that exists in Yahoo points.",
+   "value_hint": "Yahoo rank 45, ADP 39, huge bust",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 603
+  },
+  {
+   "player": "Kon Knueppel",
+   "said_as": "Coniple",
+   "team": "CHA",
+   "horizon": "durable",
+   "text": "Josh says his game is not particularly friendly to points leagues.",
+   "ts": "27:03",
+   "quote": "It's just a big jump for a guy whose game is not particularly fantasy points friendly.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1644
+  },
+  {
+   "player": "Kon Knueppel",
+   "said_as": "Areola, Coniple",
+   "team": "CHA",
+   "horizon": "current",
+   "text": "Ranked 38th on ESPN. He was 82nd last season in 32 minutes a game. Josh thinks people overestimate the effect of LaMelo Ball leaving, and Knueppel could shoot worse this season.",
+   "ts": "27:03",
+   "quote": "I think we are overestimating the impact of having no LaMelo ball. He was 82nd last season.",
+   "value_hint": "ESPN rank 38, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1627
+  },
+  {
+   "player": "Jonathan Kuminga",
+   "said_as": "a Kongu",
+   "team": "",
+   "horizon": "current",
+   "text": "Josh has backed him for years but is now off him at Yahoo rank 50. He was 62nd last season in 31 minutes a night.",
+   "ts": "10:26",
+   "quote": "He was 62nd last season in 31 minutes a night. What what are we expecting him to do",
+   "value_hint": "Yahoo rank 50, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 633
+  },
+  {
+   "player": "Desmond Bane",
+   "said_as": "Desi Bane",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Ranked 46th on Yahoo. He was 64th last season even with Franz Wagner barely playing. Josh says do not take him inside the top 50.",
+   "ts": "10:58",
+   "quote": "do not take Desma Bane inside the top 50 would be pretty silly to me.",
+   "value_hint": "Yahoo rank 46; not top 50",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 660
+  },
+  {
+   "player": "Desmond Bane",
+   "said_as": "Desi Bane",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Ranked 40th on ESPN. Franz Wagner's major injury last season still did not get him inside the top 50.",
+   "ts": "27:35",
+   "quote": "based on a significant injury to France Vagnner, and that didn't put Desmond Bane inside the top 50.",
+   "value_hint": "ESPN rank 40, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1657
+  },
+  {
+   "player": "VJ Edgecombe",
+   "said_as": "VJ Edge",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "ADP 63 on Yahoo. He was 70th last season. Josh says it is almost impossible to match or improve on that with Joel Embiid playing more, LeBron James and Jaylen Brown.",
+   "ts": "14:36",
+   "quote": "Almost impossible for V to be able to do the same thing or improve on where he was at.",
+   "value_hint": "Yahoo ADP 63, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 897
+  },
+  {
+   "player": "OG Anunoby",
+   "said_as": "OG",
+   "team": "NYK",
+   "horizon": "current",
+   "text": "Maybe slightly undervalued in category leagues, but Yahoo rank 71 and ADP 65 are too high for points leagues. He was 85th last season, and Josh expects the Knicks to be cautious with him.",
+   "ts": "15:08",
+   "quote": "He was 85th last season, not really that close to these spots.",
+   "value_hint": "Yahoo rank 71, ADP 65",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 916
+  },
+  {
+   "player": "Shaedon Sharpe",
+   "said_as": "Don Sharp",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Gets a starting job, but rank 87 is too aggressive. He was 181st last season in 19 minutes. If he plays 24 minutes, he might be about the 110th best player.",
+   "ts": "15:08",
+   "quote": "What if he plays 24? Then maybe he's like the 110th best player. 87 is way too aggressive.",
+   "value_hint": "Yahoo rank 87, too high; about 110",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 941
+  },
+  {
+   "player": "Darryn Peterson",
+   "said_as": "Darren DP double stuff Peterson",
+   "team": "UTA",
+   "horizon": "current",
+   "text": "Rookie with a Yahoo ADP of 98. He is better in points leagues than in category leagues, but he relies on volume scoring. He may not start, and Keyonte George and Lauri Markkanen are there.",
+   "ts": "16:43",
+   "quote": "It's going to rely upon volume scoring, and I'm not really sure.",
+   "value_hint": "Yahoo ADP 98, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1006
+  },
+  {
+   "player": "Mikal Bridges",
+   "said_as": "Muel Bridges",
+   "team": "NYK",
+   "horizon": "current",
+   "text": "Rank 78 on Yahoo. He was 103rd last season with under 30 fantasy points per game. His durability does not justify the pick.",
+   "ts": "16:43",
+   "quote": "Muel Bridges fantasy points sat last season? I'll tell you, it's 103rd.",
+   "value_hint": "Yahoo rank 78, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1023
+  },
+  {
+   "player": "Mikal Bridges",
+   "said_as": "Mal Bridges",
+   "team": "NYK",
+   "horizon": "current",
+   "text": "Ranked 44th on ESPN. He was 77th last season. Josh calls the pick a waste.",
+   "ts": "27:35",
+   "quote": "he was 77th. I know he plays every game so far. 44 is a waste of a pick.",
+   "value_hint": "ESPN rank 44, waste of a pick",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1679
+  },
+  {
+   "player": "AJ Dybantsa",
+   "said_as": "AJ Debuna",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Yahoo rank 95, ADP 77, which Josh calls incredibly aggressive. He is better in points leagues, but with Trae Young, Anthony Davis, Alex Sarr and Kyshawn George, a line of 16 points and 5 rebounds may not be top 100.",
+   "ts": "17:14",
+   "quote": "AJ Debuna, he's ranked at 95. His ADP is 77, which is incredibly aggressive.",
+   "value_hint": "Yahoo ADP 77, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1036
+  },
+  {
+   "player": "AJ Dybantsa",
+   "said_as": "AJ Debuner",
+   "team": "WAS",
+   "horizon": "durable",
+   "text": "Has not historically been a good free throw or three-point shooter. Josh expects efficiency problems in ESPN scoring.",
+   "ts": "30:44",
+   "quote": "He hasn't historically been a good free throw guy or three-point shooter.",
+   "value_hint": "ESPN rank 79, almost impossible",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1860
+  },
+  {
+   "player": "Jalen Johnson",
+   "said_as": "Jaylen Johnson",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Ranked 6th on ESPN, which is too high. He was 9th per game last season. Josh has him around 10 to 12.",
+   "ts": "19:16",
+   "quote": "six is still a big step forward. I've got him at about 12",
+   "value_hint": "ESPN rank 6; Josh has him about 10 to 12",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1156
+  },
+  {
+   "player": "Jalen Brunson",
+   "said_as": "Jaylen Bronson",
+   "team": "NYK",
+   "horizon": "current",
+   "text": "Ranked 13th on ESPN but was 23rd last season. Josh says that is not right.",
+   "ts": "19:47",
+   "quote": "13th. He was 23rd last season. 23rd. Yeah.",
+   "value_hint": "ESPN rank 13, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1208
+  },
+  {
+   "player": "Trae Young",
+   "said_as": "Rafford Young",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Ranked 14th on ESPN, which Josh calls diabolical. He played about 15 games last season at 26 minutes and ranked 67th. Josh would be surprised if he finishes top 20.",
+   "ts": "20:48",
+   "quote": "I would be pretty surprised if Trey ended up as a top 20 player.",
+   "value_hint": "ESPN rank 14, not top 20",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1246
+  },
+  {
+   "player": "Devin Booker",
+   "said_as": "Deon Booker",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Ranked 18th on ESPN but was 38th last season. Josh sees no reason to expect a jump to around 18 to 20.",
+   "ts": "21:51",
+   "quote": "Booker, by the way, last season 38th. What are we actually expecting here",
+   "value_hint": "ESPN rank 18, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1336
+  },
+  {
+   "player": "Pascal Siakam",
+   "said_as": "Pascal Siakum",
+   "team": "IND",
+   "horizon": "current",
+   "text": "ESPN rank 25, ADP 26. Without Haliburton last season he played more minutes, with more usage and assists, and still finished 41st. Josh says reaching 25 is impossible.",
+   "ts": "25:28",
+   "quote": "he played more minutes and he was 41st with more assists, more time on ball, higher assist rate, higher usage.",
+   "value_hint": "ESPN rank 25; impossible",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1522
+  },
+  {
+   "player": "De'Aaron Fox",
+   "said_as": "Darren Fox",
+   "team": "SAS",
+   "horizon": "current",
+   "text": "He was 48th on ESPN last season while dealing with hamstring problems, and Dylan Harper should play more. Josh would not rule out a finish around 43 to 45 but will not take the risk at that spot.",
+   "ts": "26:00",
+   "quote": "Darren Fox was 48th per game in ESPN fantasy points last season and he did have to battle hamstring problems",
+   "value_hint": "too much risk at his ESPN rank",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1573
+  },
+  {
+   "player": "Jarrett Allen",
+   "said_as": "Jared Allen",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Ranked 53rd on ESPN. Josh calls it a strong no.",
+   "ts": "28:07",
+   "quote": "Jared Allen, he's ranked at 53. It's going to be a strong strong no.",
+   "value_hint": "ESPN rank 53, strong no",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1699
+  },
+  {
+   "player": "Ty Jerome",
+   "said_as": "Ty Jerome",
+   "team": "",
+   "horizon": "current",
+   "text": "He was 50th per game last season on about 30% usage and about 70% true shooting, which Josh does not expect to repeat. It is not even clear he will play starter minutes.",
+   "ts": "28:07",
+   "quote": "He's not going to do what he did last season. I'm going to guess.",
+   "value_hint": "too high on ESPN",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1708
+  },
+  {
+   "player": "Caleb Wilson",
+   "said_as": "Caleb Wilson",
+   "team": "",
+   "horizon": "current",
+   "text": "Rookie who was a low-usage player in college. Josh thinks a top 100 season would be a good result, so ESPN rank 66 takes away all the upside.",
+   "ts": "28:40",
+   "quote": "a top 100 season from him would be, I think, a pretty good result. Not drafting at 66",
+   "value_hint": "ESPN 66, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1749
+  },
+  {
+   "player": "Brandin Podziemski",
+   "said_as": "Brandon Pajki",
+   "team": "GSW",
+   "horizon": "current",
+   "text": "Ranked 74th on ESPN. Josh thinks year four could be a big season with no Jimmy Butler and no Moses Moody to start the season. But he was not top 120 last season in 28 minutes and may not start.",
+   "ts": "29:12",
+   "quote": "He wasn't a top 120 player last season in 28 minutes a night. Getting to 74 is a big step",
+   "value_hint": "ESPN rank 74, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1777
+  },
+  {
+   "player": "Miles Bridges",
+   "said_as": "Miles Bridges",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Joins Phoenix and is ranked 77th on ESPN after finishing 97th last season. Dillon Brooks, Devin Booker, Jalen Green and Collin Gillespie are also there.",
+   "ts": "29:43",
+   "quote": "77 is expecting a lot from a player who's not that good.",
+   "value_hint": "ESPN rank 77, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1801
+  },
+  {
+   "player": "Josh Hart",
+   "said_as": "Josh Hart",
+   "team": "NYK",
+   "horizon": "current",
+   "text": "He was 90th on ESPN last season but has an ADP of 74. Josh sees no upside in taking him there.",
+   "ts": "29:43",
+   "quote": "He was 90th last season. His ADP is 74.",
+   "value_hint": "ESPN ADP 74, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1808
+  },
+  {
+   "player": "DeMar DeRozan",
+   "said_as": "Demand De Rozan",
+   "team": "SAC",
+   "horizon": "current",
+   "text": "Ranked 86th on ESPN. Josh expects him to come off the bench, though he might start over Keegan Murray. He was 86th last season as a starter in 31 minutes.",
+   "ts": "30:13",
+   "quote": "I fully expect Demar to be a bench player this season.",
+   "value_hint": "ESPN rank 86, too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1831
+  },
+  {
+   "player": "Nikola Vucevic",
+   "said_as": "Nicola Vuch",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Backup center in Orlando behind Wendell Carter, possibly third string. His ADP is 89, down from 50, and his rank is 101. He was 75th last season in 28 minutes on Chicago.",
+   "ts": "31:14",
+   "quote": "He's a backup in Orlando. And I don't think this is true, but it is possible that he is a third string center.",
+   "value_hint": "ESPN ADP 89, rank 101, bad pick",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1886
+  },
+  {
+   "player": "Nickeil Alexander-Walker",
+   "said_as": "Nquil Alexander Walker",
+   "team": "",
+   "horizon": "current",
+   "text": "Josh uses him as an example of winning value. He could be taken around pick 120 or picked up off waivers and turn into a top 40 player.",
+   "ts": "33:50",
+   "quote": "Getting the guy at 120 Nquil Alexander Walker or off the waiver who's a top 40 player",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2030
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "IND",
+   "horizon": "durable",
+   "text": "Coach Rick Carlisle likes to cut players' minutes.",
+   "ts": "4:11",
+   "quote": "Richard Carl loves dropping players minutes down.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 264
+  },
+  {
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Harden is there full time now, so there are more players needing the ball. Harden's usage dropped in Cleveland.",
+   "ts": "6:46",
+   "quote": "His usage dropped in Cleveland because again, there's just too many other guys that needed the ball.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 408
+  },
+  {
+   "team": "CHA",
+   "horizon": "current",
+   "text": "LaMelo Ball and Miles Bridges are gone. Royce O'Neale and Naz Reid came in, and Coby White is there for a full season, along with Grayson Allen.",
+   "ts": "9:22",
+   "quote": "Lelo Bull is gone. That is true. Miles Bridges is gone. Also true. Royce O'Neal comes in.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 582
+  },
+  {
+   "team": "NYK",
+   "horizon": "current",
+   "text": "Josh expects the Knicks to be cautious with most of their players.",
+   "ts": "15:08",
+   "quote": "like most of the Knicks I think they're going to be very cautious about what they do.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 914
+  },
+  {
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Minnesota has a two-game week during the fantasy playoffs, which affects players like Anthony Edwards.",
+   "ts": "33:18",
+   "quote": "Anthony Edwards and Minnesota because they've got a twoame week in there.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2006
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Kevin Durant was 22nd in Yahoo points leagues last season.",
+   "ts": "3:38",
+   "quote": "Last season playing a million minutes, one year younger, Durant was 22nd.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 228
+  },
+  {
+   "text": "Austin Reaves was 37th in points last season.",
+   "ts": "4:42",
+   "quote": "Is Austin Reeves who was 37th last season going to be worth it at number 20?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 304
+  },
+  {
+   "text": "Donovan Mitchell was 12th last season, averaging 44 fantasy points.",
+   "ts": "5:14",
+   "quote": "he was 12th last season, averaging 44 fantasy points.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 329
+  },
+  {
+   "text": "James Harden was 19th last season.",
+   "ts": "6:14",
+   "quote": "He was 19th last season, but 19th last season with",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 401
+  },
+  {
+   "text": "Chet Holmgren played 29 minutes a game and finished 46th.",
+   "ts": "7:17",
+   "quote": "Last season, Chad played 29 minutes a game. Maybe he plays more, maybe he doesn't. He was 46th.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 440
+  },
+  {
+   "text": "Donovan Clingan was 54th per game in points leagues last season.",
+   "ts": "7:17",
+   "quote": "he was 54th per game in points leagues last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 462
+  },
+  {
+   "text": "Trey Murphy III was 43rd last season.",
+   "ts": "7:49",
+   "quote": "And all of that meant that he was 43rd.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 496
+  },
+  {
+   "text": "Walker Kessler was 41st in about five games last season.",
+   "ts": "8:52",
+   "quote": "even in those five games, which he did a lot of things well above average, he was 41st.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 532
+  },
+  {
+   "text": "Derrick White was 50th in Yahoo points last season.",
+   "ts": "9:22",
+   "quote": "Last season when it was him as the number two guy next to Jaylen Brown, he was 50th.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 553
+  },
+  {
+   "text": "Kon Knueppel was 89th in Yahoo points last season.",
+   "ts": "9:54",
+   "quote": "Conan Nipple's just not that good in a points league. He was 89th last",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 591
+  },
+  {
+   "text": "Jonathan Kuminga was 62nd in 31 minutes a night.",
+   "ts": "10:26",
+   "quote": "He was 62nd last season in 31 minutes a night.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 633
+  },
+  {
+   "text": "Desmond Bane was 64th last season.",
+   "ts": "10:26",
+   "quote": "Bane was the 64th ranked player and he's ranked 46th.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 652
+  },
+  {
+   "text": "VJ Edgecombe was 70th last season.",
+   "ts": "14:36",
+   "quote": "Now, he was very good last season at number 70.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 882
+  },
+  {
+   "text": "OG Anunoby was 85th last season.",
+   "ts": "15:08",
+   "quote": "He was 85th last season, not really that close to these spots.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 916
+  },
+  {
+   "text": "Shaedon Sharpe played 19 minutes a game and was 181st.",
+   "ts": "15:08",
+   "quote": "He only played 19 minutes a game last season, but that was good for 181st.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 932
+  },
+  {
+   "text": "Mikal Bridges was 103rd in Yahoo points with under 30 fantasy points per game.",
+   "ts": "16:43",
+   "quote": "I'll tell you, it's 103rd. He averaged under 30 fantasy points per game.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1025
+  },
+  {
+   "text": "Jalen Johnson was 9th per game in ESPN points rankings last season.",
+   "ts": "18:46",
+   "quote": "he was ninth per game on ESPN points league rankings",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1138
+  },
+  {
+   "text": "Jalen Brunson was 23rd on ESPN last season.",
+   "ts": "19:47",
+   "quote": "13th. He was 23rd last season. 23rd.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1208
+  },
+  {
+   "text": "Trae Young played about 15 games at 26 minutes and finished 67th.",
+   "ts": "20:17",
+   "quote": "he played what 15 games last season and only 26 minutes a night. That was good for 67",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1233
+  },
+  {
+   "text": "Devin Booker was 38th on ESPN last season.",
+   "ts": "21:51",
+   "quote": "Booker, by the way, last season 38th.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1336
+  },
+  {
+   "text": "Harden was 19th in 35 minutes a game, averaging about 24 points and 8 assists, but under 20 points a game with Cleveland.",
+   "ts": "22:22",
+   "quote": "Harden was 19th, but that was in 35 minutes a game, averaging 24-8. I believe he averaged under 20 points",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1354
+  },
+  {
+   "text": "Pascal Siakam played more minutes last season than in the Finals season and was 41st.",
+   "ts": "25:28",
+   "quote": "he played more minutes and he was 41st with more assists, more time on",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1522
+  },
+  {
+   "text": "De'Aaron Fox was 48th per game in ESPN points last season.",
+   "ts": "26:00",
+   "quote": "Darren Fox was 48th per game in ESPN fantasy points last season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1573
+  },
+  {
+   "text": "Kon Knueppel was 82nd on ESPN in 32 minutes a game, averaging about 18.5 and 3.",
+   "ts": "27:03",
+   "quote": "He was 82nd last season. He played 32 minutes a game. He averaged 185 and three already.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1631
+  },
+  {
+   "text": "Mikal Bridges was 77th per game in ESPN points.",
+   "ts": "27:35",
+   "quote": "It's better than Yahoo because the system rewards him a little bit, but he was 77th.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1676
+  },
+  {
+   "text": "Ty Jerome was 50th per game, with about 30% usage and 70% true shooting.",
+   "ts": "28:07",
+   "quote": "He was 50th per game. That's cool, right? But that level of production with 30 usage and 70 true",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1712
+  },
+  {
+   "text": "Brandin Podziemski was not top 120 last season in 28 minutes.",
+   "ts": "29:12",
+   "quote": "He wasn't a top 120 player last season in 28 minutes a night.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1777
+  },
+  {
+   "text": "Miles Bridges was 97th on ESPN last season.",
+   "ts": "29:43",
+   "quote": "do you know where he was ranked last season? 97th.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1791
+  },
+  {
+   "text": "Josh Hart was 90th on ESPN last season.",
+   "ts": "29:43",
+   "quote": "He was 90th last season. His ADP is 74.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1808
+  },
+  {
+   "text": "DeMar DeRozan was 86th as a starter in 31 minutes in Sacramento.",
+   "ts": "30:13",
+   "quote": "as a starter in Sacramento playing 31 minutes a night, he was 86th.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1837
+  },
+  {
+   "text": "Nikola Vucevic was 75th in 28 minutes a night for Chicago.",
+   "ts": "31:14",
+   "quote": "Even last season in 28 Minutes Night, he was 75th on a Chicago team",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1895
+  }
+ ]
+}

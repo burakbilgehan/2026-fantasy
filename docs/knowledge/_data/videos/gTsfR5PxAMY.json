@@ -1,0 +1,511 @@
+{
+ "video": {
+  "id": "gTsfR5PxAMY",
+  "title": "Philadelphia 76ers Season Preview | The NBA's Best Team? Or Overrated?",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-08-06",
+  "duration": "35:11",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T13:47:59+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.26524400000000004,
+  "duration_ms": 55470
+ },
+ "summary": "Josh Lloyd and Mark Fazetta (Locked On Sixers) preview a heavily changed Philadelphia 76ers roster that adds LeBron James and Jaylen Brown to Tyrese Maxey and Joel Embiid. They agree Jaylen Brown faces the hardest fit and the biggest drop in scoring, while LeBron is described as an \"offense creator\". Josh doubts LeBron's role will change much from past seasons. Embiid enters the season healthy, but Mark expects only about 40 to 45 games from him and LeBron around 65. Nick Nurse is expected to play his starters heavy minutes, and backup center and rebounding are named as the roster's weak spots. Mark projects about 51 to 52 wins, with some early growing pains.",
+ "rules": [
+  {
+   "text": "Teams with a lot of roster turnover tend to be rocky in year one. It is easier if the main core stays, and adding stars to existing stars has historically been choppy at first.",
+   "ts": "2:49",
+   "quote": "how often with teams that have a lot of turnover, it can be a little bit rocky in year one",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 178
+  },
+  {
+   "text": "When stars on a crowded team miss games, the other players get more scoring chances in those games.",
+   "ts": "8:24",
+   "quote": "So guys will be able to eat in those games that you don't see those guys out there",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 504
+  },
+  {
+   "text": "With new anti-tanking measures, season win totals may run lower, so a team could win about five fewer games and still be equally good.",
+   "ts": "30:13",
+   "quote": "You could easily have five fewer wins and be an equally good team.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1813
+  },
+  {
+   "text": "Position labels like point guard are semantics. Look at actual on-ball usage and assist rate instead of the title.",
+   "ts": "26:25",
+   "quote": "It's not going to be LeBron running it up there 50% of the time running every single play",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1585
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Jaylen Brown",
+   "said_as": "Jaylen Brown",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Expected to have a harder time fitting in at first than LeBron James.",
+   "ts": "3:24",
+   "quote": "will have a harder time fitting in initially? I think it's going to be Jaylen Brown",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 204
+  },
+  {
+   "player": "Jaylen Brown",
+   "said_as": "he",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Had a career-high usage rate last season with Boston, about six or seven percentage points above his previous best.",
+   "ts": "5:01",
+   "quote": "he had that sky-high career best usage by like six or seven percentage points last season",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 323
+  },
+  {
+   "player": "Jaylen Brown",
+   "said_as": "Jaylen Brown",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Josh says he might be the fourth best offensive player in the starting group. It is unclear whether he can play off the ball or do spot-up work.",
+   "ts": "5:37",
+   "quote": "Can he work off ball? Can he do spot up work that he doesn't really do?",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 351
+  },
+  {
+   "player": "Jaylen Brown",
+   "said_as": "Jaylen Brown",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Expected to have the largest drop in scoring per game among the Sixers stars.",
+   "ts": "16:57",
+   "quote": "Who's going to drop the most? It's probably going to be Jaylen Brown.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1025
+  },
+  {
+   "player": "Jaylen Brown",
+   "said_as": "Jaylen Brown",
+   "team": "PHI",
+   "horizon": "durable",
+   "text": "Josh thinks his defense is a little overrated. Mark still calls him a more than solid defender.",
+   "ts": "12:36",
+   "quote": "Jaylen Brown's defense, I think, is a little bit overrated.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 763
+  },
+  {
+   "player": "LeBron James",
+   "said_as": "LeBron James",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Nick Nurse calls him an offense creator. His job will be setting up everyone else, and it is reported he will play point guard.",
+   "ts": "3:24",
+   "quote": "referred to him as an offense creator, not an offense doer",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 212
+  },
+  {
+   "player": "LeBron James",
+   "said_as": "LeBron James",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Expected to play about 65 games.",
+   "ts": "8:24",
+   "quote": "LeBron James will probably be around that 65 game kind of marker for the 76ers",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 504
+  },
+  {
+   "player": "LeBron James",
+   "said_as": "LeBron",
+   "team": "PHI",
+   "horizon": "durable",
+   "text": "Josh says his numbers are about the same every season. His scoring drops, but he will keep the ball in his hands at a similar rate as before.",
+   "ts": "25:20",
+   "quote": "that's why his numbers are the same every single season and his scoring drops down",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1537
+  },
+  {
+   "player": "LeBron James",
+   "said_as": "LeBron",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Josh expects a modest rise from 23% on-ball last season, with maybe 8 assists a game instead of about 6.9. He does not expect a big change in how LeBron plays.",
+   "ts": "29:04",
+   "quote": "maybe he gets eight a game instead of 6.9 or whatever",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1764
+  },
+  {
+   "player": "LeBron James",
+   "said_as": "LeBron",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "He has always wanted to keep playing big minutes, and Nurse may let him.",
+   "ts": "9:25",
+   "quote": "he's always been like, I'm just going to keep playing big minutes",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 572
+  },
+  {
+   "player": "Tyrese Maxey",
+   "said_as": "Maxi",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Expected to play about 38 minutes a night under Nick Nurse.",
+   "ts": "9:25",
+   "quote": "Maxi is going to play 38 minutes a night",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 565
+  },
+  {
+   "player": "Tyrese Maxey",
+   "said_as": "Maxi",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Was forced to play point guard last season. Expected to move back toward a shooting guard role with LeBron handling playmaking.",
+   "ts": "17:34",
+   "quote": "I think he's going to be happy to go back to more of a shooting guard type of role.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1070
+  },
+  {
+   "player": "Tyrese Maxey",
+   "said_as": "Taurus Max",
+   "team": "PHI",
+   "horizon": "durable",
+   "text": "Described as a very good shooter, and the only clearly above-average shooter for his position in the starting group.",
+   "ts": "12:36",
+   "quote": "because Taurus Max is a very good shooter and like I'm not really sure if anyone else",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 771
+  },
+  {
+   "player": "Tyrese Maxey",
+   "said_as": "Maxi",
+   "team": "PHI",
+   "horizon": "durable",
+   "text": "Has made big improvements on defense.",
+   "ts": "15:51",
+   "quote": "Look, Maxi has made huge strides in his defensive abilities.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 978
+  },
+  {
+   "player": "Joel Embiid",
+   "said_as": "Embiid",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Expected to play about 45 games, 50 at most. Later Mark says about 40 games.",
+   "ts": "7:54",
+   "quote": "I think you're going to be lucky to get 45 out of Embiid.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 490
+  },
+  {
+   "player": "Joel Embiid",
+   "said_as": "Joel Embiid",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Entering the season healthy after his first healthy offseason in years. Reportedly added 15 pounds of muscle.",
+   "ts": "21:59",
+   "quote": "He is still healthy. He's put on 15 pounds of muscle from what I understand.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1319
+  },
+  {
+   "player": "Joel Embiid",
+   "said_as": "Joel Embiid",
+   "team": "PHI",
+   "horizon": "durable",
+   "text": "Cannot play back-to-backs. Mark has low hopes for his long-term health.",
+   "ts": "21:59",
+   "quote": "we always were worried about him playing backtobacks in Philadelphia. Can't play backtobacks.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1334
+  },
+  {
+   "player": "Joel Embiid",
+   "said_as": "Joel",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Projected around 20 to 25 points and about 10 rebounds per game, with occasional big scoring games.",
+   "ts": "24:11",
+   "quote": "you're looking at a guy to score around, you know, 20 to 25 points",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1459
+  },
+  {
+   "player": "Joel Embiid",
+   "said_as": "Joel",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Seen as an emergency scorer who gets to the free throw line and rebounds, while the others carry most of the scoring.",
+   "ts": "23:05",
+   "quote": "get to the foul line, get some rebounds, we'll take care of the scoring",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1385
+  },
+  {
+   "player": "VJ Edgecombe",
+   "said_as": "PJ Edge",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Expected to start. If the lineup does not fit, he is the most likely starter to move to the bench.",
+   "ts": "7:54",
+   "quote": "you would be looking most likely at BJ being the guy coming off the bench",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 474
+  },
+  {
+   "player": "Kentavious Caldwell-Pope",
+   "said_as": "KCP",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Unclear if he has anything left. He said himself that the young guy should start over him.",
+   "ts": "8:54",
+   "quote": "you got to let the young guy cook kind of thing. I'm I'm getting up there",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 534
+  },
+  {
+   "player": "Anthony Simons",
+   "said_as": "Simons",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "New arrival who will be the sixth man.",
+   "ts": "2:49",
+   "quote": "you're adding in two new starters plus a sixman in Wade and or six man in Simons",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 169
+  },
+  {
+   "player": "Dean Wade",
+   "said_as": "Dean Wade",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Low-usage defensive big who could end up as the backup center.",
+   "ts": "30:43",
+   "quote": "are we talking about Dean Wade being the backup center essentially for this squad?",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1868
+  },
+  {
+   "player": "Adem Bona",
+   "said_as": "Dembona",
+   "team": "PHI",
+   "horizon": "durable",
+   "text": "Very high foul rate per 36 minutes, and his rebounding is not strong.",
+   "ts": "30:43",
+   "quote": "a Dembona huge foul rate per 36 and the rebounds aren't really there either",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1861
+  },
+  {
+   "player": "Ariel Hukporti",
+   "said_as": "Ariel Hookport",
+   "team": "PHI",
+   "horizon": "durable",
+   "text": "Backup center option with a very high foul rate per 36 minutes.",
+   "ts": "30:43",
+   "quote": "Ariel Hookport, okay, you can have hopes for huge foul rate per 36.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1861
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Projected starting five: Tyrese Maxey, VJ Edgecombe, Jaylen Brown, LeBron James, Joel Embiid.",
+   "ts": "6:44",
+   "quote": "Mark Maxi, VJ Edge, Jaylen Brown, LeBron, and Joel Embiid.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 412
+  },
+  {
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Big roster turnover. Added Jaylen Brown, LeBron James, Dean Wade, Kentavious Caldwell-Pope, Ariel Hukporti and Anthony Simons. Lost Paul George, Kelly Oubre, Quentin Grimes and Andre Drummond.",
+   "ts": "2:17",
+   "quote": "Jaylen Brown comes in, LeBron comes in, Dean Wade, Control Pope, Ariel Huck, Porty, Anthony Simons",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 141
+  },
+  {
+   "team": "PHI",
+   "horizon": "durable",
+   "text": "Nick Nurse tends to play his starters very heavy minutes. He also mixes and staggers lineups when things do not fit.",
+   "ts": "8:54",
+   "quote": "his history of just playing everyone a million minutes",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 556
+  },
+  {
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Backup center and rebounding are the biggest weaknesses without Andre Drummond.",
+   "ts": "30:43",
+   "quote": "the biggest problem the Sixers probably have as you talk about an all a complete team is their backup center",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1851
+  },
+  {
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Mark projects about 51 to 52 wins. He expects growing pains in October and November and load management for the stars.",
+   "ts": "30:13",
+   "quote": "I'm at right around that 51 52 win mark with with the Sixers.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1819
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Tyrese Maxey and Jaylen Brown were both top five scorers in the NBA last season.",
+   "ts": "3:55",
+   "quote": "guys like Jaylen Brown and Tyrese Maxi, two top five scorers in the NBA last year",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 256
+  },
+  {
+   "text": "LeBron James averaged about 20 points per game last season.",
+   "ts": "16:57",
+   "quote": "LeBron only averaged 20 last season and he he's ramped that down",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1017
+  },
+  {
+   "text": "LeBron James was on-ball 23% of the time last season and 43% in 2019-20. TJ McConnell led the NBA at 49% last season.",
+   "ts": "29:04",
+   "quote": "I believe TJ McConnell led the NBA at 49% last season. Last season, LeBron was down to 23% on ball.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1755
+  },
+  {
+   "text": "LeBron James averaged about 6.9 assists last season.",
+   "ts": "29:04",
+   "quote": "maybe he gets eight a game instead of 6.9 or whatever",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1764
+  },
+  {
+   "text": "Kevin Durant played about 36 to 37 minutes per game last season.",
+   "ts": "9:25",
+   "quote": "Kevin Durant played 37 minutes a game last season, I think, or 36",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 580
+  },
+  {
+   "text": "Joel Embiid played 32 minutes per game last season.",
+   "ts": "20:53",
+   "quote": "he ended up still playing 32 minutes a game last season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1253
+  },
+  {
+   "text": "The Sixers won 45 games last season.",
+   "ts": "31:51",
+   "quote": "you're talking about 45 wins last year with a banged up roster",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1911
+  },
+  {
+   "text": "The Sixers were one of the best offensive rebounding teams in the NBA last season.",
+   "ts": "31:19",
+   "quote": "Sixers were actually one of the best rebounding teams in the NBA last year in terms of excuse me offensive rebounds",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1880
+  },
+  {
+   "text": "Jaylen Brown's usage rate last season was a career high by six to seven percentage points.",
+   "ts": "5:01",
+   "quote": "he had that sky-high career best usage by like six or seven percentage points last season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 323
+  }
+ ]
+}

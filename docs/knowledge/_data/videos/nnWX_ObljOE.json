@@ -1,0 +1,563 @@
+{
+ "video": {
+  "id": "nnWX_ObljOE",
+  "title": "Giannis Antetokounmpo TRADED To Miami Heat In NBA Blockbuster! Game Over For The League?",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-06-23",
+  "duration": "20:03",
+  "auto_captions": true
+ },
+ "prompt_version": 2,
+ "extracted_at": "2026-10-04T10:49:17+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.23973279999999997,
+  "duration_ms": 67447
+ },
+ "summary": "Josh Lloyd reacts to Giannis Antetokounmpo being traded to Miami. Bobby Portis goes to Miami with him. Milwaukee gets Tyler Herro, Jaime Jaquez Jr., Kel'el Ware, Kasparas Jakucionis, three first-round picks (including pick 13), a pick swap and a second-round pick. He thinks Milwaukee's return is not disastrous, but their rotation is now very crowded. Herro's value should stay similar, Ware's probably goes up, and more moves or a rebuild may follow. In Miami, he expects Giannis's minutes and assist rate to rise because the team lacks ball handlers, so his fantasy value probably goes up. Bam Adebayo, Andrew Wiggins and especially Norman Powell should take usage hits, and Miami's depth is now poor.",
+ "rules": [
+  {
+   "text": "Losing a star does not open up value for everyone on the team when it also gets several players and lottery picks back. Count the usage that leaves and the usage that comes in.",
+   "ts": "6:45",
+   "quote": "This is not you lose Giannis so everything is cleared out for everybody because you've just gained a bunch of players back",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 413
+  },
+  {
+   "text": "To judge a trade's fantasy impact, add up the usage each team loses and gains.",
+   "ts": "6:14",
+   "quote": "we're losing Giannis and Porter's usage but we're gaining decent usage back anyway.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 382
+  },
+  {
+   "text": "Be wary of a player whose production came mainly when two or three teammates were out. That production may not carry over.",
+   "ts": "5:12",
+   "quote": "We saw a lot of what he did last season was when two to three guys were out in Miami",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 324
+  },
+  {
+   "text": "Players who change teams, even stars, often take a hit in their first year while they adjust.",
+   "ts": "17:06",
+   "quote": "The players changing teams often get a hit in that first year as they try and figure out",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1029
+  },
+  {
+   "text": "The adjustment-period hit can be offset if the player gets more minutes on the new team.",
+   "ts": "16:34",
+   "quote": "players, even high-level players, moving to new teams, there is an adjustment period.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1007
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Giannis Antetokounmpo",
+   "said_as": "Giannis Antetokounmpo",
+   "horizon": "current",
+   "text": "Traded from Milwaukee to Miami.",
+   "ts": "1:04",
+   "quote": "Has been traded to Miami. Not Boston. Apparently, they didn't want to give up Al Horford.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 64
+  },
+  {
+   "player": "Giannis Antetokounmpo",
+   "said_as": "Giannis",
+   "horizon": "durable",
+   "text": "His steals and blocks have been declining steadily. The speaker is not sure they will come back.",
+   "ts": "12:26",
+   "quote": "The steals and the blocks have consistently been declining. I'm not sure they're ever going to come back.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 755
+  },
+  {
+   "player": "Giannis Antetokounmpo",
+   "said_as": "Giannis",
+   "horizon": "durable",
+   "text": "Bad on threes, excellent FG%, high-volume but bad FT shooting.",
+   "ts": "12:26",
+   "quote": "Three-pointers are bad, we know this, but his field goals are excellent, his free throws are high volume, but also bad.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 759
+  },
+  {
+   "player": "Giannis Antetokounmpo",
+   "said_as": "Yanni",
+   "horizon": "current",
+   "text": "Expected to play 32 to 33 minutes in Miami, up from 29, unless he gets hurt again.",
+   "ts": "13:29",
+   "quote": "Unless he's injured again, he's playing more than 29 minutes. He's playing 32 33.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 833
+  },
+  {
+   "player": "Giannis Antetokounmpo",
+   "said_as": "Yanni",
+   "horizon": "current",
+   "text": "His assist rate should rise because no one else on Miami handles the ball.",
+   "ts": "14:00",
+   "quote": "Now he's playing it with nobody who handles the ball. I expect it to rise.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 845
+  },
+  {
+   "player": "Giannis Antetokounmpo",
+   "said_as": "Giannis",
+   "horizon": "current",
+   "text": "His fantasy value is safe and probably rises after the trade, though the injury risk is still there.",
+   "ts": "16:04",
+   "quote": "I think Giannis's fantasy value is pretty safe. In fact, probably rises, to be honest.",
+   "value_hint": "value probably rises",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 964
+  },
+  {
+   "player": "Giannis Antetokounmpo",
+   "said_as": "Yanni",
+   "horizon": "current",
+   "text": "His extra minutes may offset the usual first-year adjustment hit after changing teams.",
+   "ts": "16:34",
+   "quote": "That might be offset with Yanni because he might play four extra minutes.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1014
+  },
+  {
+   "player": "Tyler Herro",
+   "said_as": "Herro",
+   "horizon": "current",
+   "text": "Traded to Milwaukee, where he will start.",
+   "ts": "3:09",
+   "quote": "So, Herro's going to start, obviously. I would think they would put Rollins and Herro together",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 207
+  },
+  {
+   "player": "Tyler Herro",
+   "said_as": "Hero",
+   "horizon": "current",
+   "text": "Was Miami's top offensive option and should be Milwaukee's too, so the move does not change much for him.",
+   "ts": "4:40",
+   "quote": "Hero was the number one offensive guy in Miami. He'll be the number one offensive guy in Milwaukee",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 285
+  },
+  {
+   "player": "Tyler Herro",
+   "said_as": "Herro",
+   "horizon": "current",
+   "text": "His value stays about the same after the trade.",
+   "ts": "6:14",
+   "quote": "Overall at this point I'd say Herro's value stays similar.",
+   "value_hint": "value stays similar",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 374
+  },
+  {
+   "player": "Kel'el Ware",
+   "said_as": "Ware",
+   "horizon": "current",
+   "text": "Probably plays a steady 25 minutes a night in Milwaukee, even with Myles Turner and Kyle Kuzma there.",
+   "ts": "4:10",
+   "quote": "does Ware play a consistent 25 minutes a night? I would say probably yes.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 260
+  },
+  {
+   "player": "Kel'el Ware",
+   "said_as": "Where",
+   "horizon": "current",
+   "text": "His value probably increases with the trade.",
+   "ts": "6:14",
+   "quote": "Overall at this point I'd say Herro's value stays similar. Where's probably increases.",
+   "value_hint": "value probably increases",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 374
+  },
+  {
+   "player": "Kel'el Ware",
+   "said_as": "Ware",
+   "horizon": "durable",
+   "text": "A better prospect than Kasparas Jakucionis and much younger than Jaylen Brown.",
+   "ts": "7:45",
+   "quote": "Cuz Brown's obviously a lot older than Caleb Ware is. And Ware is a better prospect than Yacub Jones are.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 486
+  },
+  {
+   "player": "Myles Turner",
+   "said_as": "Myles Turner",
+   "horizon": "current",
+   "text": "Still with Milwaukee. Doc Rivers often benched him for Jericho Sims. The speaker thinks he is still better than Ware.",
+   "ts": "4:10",
+   "quote": "Doc Rivers benching him consistently for Jericho Sims. Think Turner is still a better player than Ware.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 268
+  },
+  {
+   "player": "Jaime Jaquez Jr.",
+   "said_as": "Herkes",
+   "horizon": "durable",
+   "text": "The speaker does not like him as a player. He sees him as a low-end guy, at best a sixth man, with bad shooting, who needs opportunity and usage.",
+   "ts": "5:12",
+   "quote": "I think he's a low-end guy who's a at best a sixth who doesn't need the ball in his hands and his shooting is bad",
+   "value_hint": "low-end",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 316
+  },
+  {
+   "player": "Jaime Jaquez Jr.",
+   "said_as": "Herkes",
+   "horizon": "current",
+   "text": "Much of his production last season came when two or three Miami players were out, including Herro.",
+   "ts": "5:12",
+   "quote": "We saw a lot of what he did last season was when two to three guys were out in Miami, including Tyler Hero.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 324
+  },
+  {
+   "player": "Jaime Jaquez Jr.",
+   "said_as": "Herkes",
+   "horizon": "current",
+   "text": "May or may not start in Milwaukee. Could play some 3/4.",
+   "ts": "4:40",
+   "quote": "If we're assuming that it's Ware and Turner in the front court and Kuzma is in that mix, too. Herkes may or may not start.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 304
+  },
+  {
+   "player": "Kyle Kuzma",
+   "said_as": "Kuzma",
+   "horizon": "current",
+   "text": "Milwaukee losing two frontcourt players (Giannis and Portis) should probably give him more minutes.",
+   "ts": "5:43",
+   "quote": "losing two front court guys obviously helps with where it's going to probably give more minutes to Kuzma.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 346
+  },
+  {
+   "player": "Ryan Rollins",
+   "said_as": "Rollins",
+   "horizon": "current",
+   "text": "Rollins is on a very good contract. The speaker thinks Milwaukee should trade him and cash in.",
+   "ts": "6:14",
+   "quote": "Rollins is on such a good contract. Milwaukee should realistically just look to um trade him away.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 395
+  },
+  {
+   "player": "Kevin Porter Jr.",
+   "said_as": "Kevin Porter Jr.",
+   "horizon": "current",
+   "text": "Expected to decline his player option and become a free agent.",
+   "ts": "2:36",
+   "quote": "we expect that Kevin Porter Jr.'s going to decline his player option and be a free agent.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 159
+  },
+  {
+   "player": "Kevin Porter Jr.",
+   "said_as": "Kevin Porter",
+   "horizon": "current",
+   "text": "The trade probably makes his return to Milwaukee less likely.",
+   "ts": "4:40",
+   "quote": "Also, I think this probably does lessen the chance of Kevin Porter is back.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 290
+  },
+  {
+   "player": "Bobby Portis",
+   "said_as": "Porter",
+   "horizon": "current",
+   "text": "Goes to Miami in the trade. Slides in as the backup behind Bam Adebayo and Giannis. The speaker said \"Porter\" here but means Portis.",
+   "ts": "13:29",
+   "quote": "Porter's coming across in this trade like there's no spot for him. He slides in as the backup behind Bam",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 818
+  },
+  {
+   "player": "Norman Powell",
+   "said_as": "Powell",
+   "horizon": "durable",
+   "text": "Without big usage, he is useless for fantasy, even with around 40% three-point shooting.",
+   "ts": "16:04",
+   "quote": "And we know that if he doesn't have big usage with like 40% three-point shooting, he's useless.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 989
+  },
+  {
+   "player": "Norman Powell",
+   "said_as": "Powell",
+   "horizon": "current",
+   "text": "His usage of about 27, which led Miami last season, should drop a lot with Giannis arriving.",
+   "ts": "16:04",
+   "quote": "Powell, I would imagine that his what 27 usage comes down quite a bit. He led the team in usage last season",
+   "value_hint": "value drops",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 981
+  },
+  {
+   "player": "Norman Powell",
+   "said_as": "Norman Powell",
+   "horizon": "durable",
+   "text": "Not a point guard and cannot dribble well.",
+   "ts": "12:57",
+   "quote": "Norman Powell can't dribble he's not a point guard. Bam will do some of it.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 796
+  },
+  {
+   "player": "Bam Adebayo",
+   "said_as": "Bam",
+   "horizon": "current",
+   "text": "Takes a small value hit with Giannis arriving.",
+   "ts": "16:04",
+   "quote": "Bam probably a small hit. Um Wiggins probably a small hit.",
+   "value_hint": "small hit",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 975
+  },
+  {
+   "player": "Andrew Wiggins",
+   "said_as": "Wiggins",
+   "horizon": "current",
+   "text": "His usage was already under 20 and will probably take a decent hit.",
+   "ts": "14:30",
+   "quote": "Wiggins was already under 20 usage. He probably takes a decent hit as well.",
+   "value_hint": "small hit",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 881
+  },
+  {
+   "player": "Davion Mitchell",
+   "said_as": "Mitchell",
+   "horizon": "current",
+   "text": "A good assist player whose usage, already low, will probably drop further. Projected Miami starter.",
+   "ts": "14:30",
+   "quote": "He was already a good assist guy, but usage probably even lower.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 888
+  },
+  {
+   "player": "Pelle Larsson",
+   "said_as": "Pau Larson",
+   "horizon": "current",
+   "text": "Will have to do a lot because Miami's bench is so thin.",
+   "ts": "14:30",
+   "quote": "But your bench is so thin. Pau Larson will have to do a ton",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 897
+  },
+  {
+   "player": "Nikola Jovic",
+   "said_as": "Jovic",
+   "horizon": "current",
+   "text": "Bobby Portis now stands in his way for minutes.",
+   "ts": "15:01",
+   "quote": "there's Jovic who now has Porter's in his way. They don't have a draft pick now.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 901
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "MIL",
+   "horizon": "current",
+   "text": "Because they took a package without Jaylen Brown, Milwaukee is more likely to make more moves, maybe get worse and rebuild.",
+   "ts": "1:34",
+   "quote": "other maneuvers here, and perhaps getting themselves worse. Maybe rebuilding.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 94
+  },
+  {
+   "team": "MIL",
+   "horizon": "current",
+   "text": "Very crowded rotation: Rollins, Turner, Kuzma, Jaquez, Herro, Ware, Jakucionis, maybe Porter, plus picks 10 and 13.",
+   "ts": "3:39",
+   "quote": "It's just a lot of names. Plus, pick 10 and pick 13.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 243
+  },
+  {
+   "team": "MIL",
+   "horizon": "current",
+   "text": "Given where the picks are, the speaker guesses their two lottery picks will be wings or guards.",
+   "ts": "5:43",
+   "quote": "given the position of where those picks are I'm going to guess they're wings or guards.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 361
+  },
+  {
+   "team": "MIL",
+   "horizon": "current",
+   "text": "Doc Rivers is no longer the coach.",
+   "ts": "2:36",
+   "quote": "At least Glenn Rivers isn't there. We don't have to worry about that.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 179
+  },
+  {
+   "team": "MIA",
+   "horizon": "current",
+   "text": "Miami lacks point guards and ball handlers after the trade, so Giannis will handle the ball a lot.",
+   "ts": "12:57",
+   "quote": "He's going to handle the ball a lot because who the hell else do they have? Davion Mitchell?",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 780
+  },
+  {
+   "team": "MIA",
+   "horizon": "current",
+   "text": "Projected starting lineup: Bam Adebayo, Andrew Wiggins, Norman Powell, Giannis Antetokounmpo, Davion Mitchell.",
+   "ts": "14:30",
+   "quote": "lineup's going to be Bam, Wiggins, Powell, Yanni's, and Mitchell, I would say.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 870
+  },
+  {
+   "team": "MIA",
+   "horizon": "current",
+   "text": "Depth is poor. Main nine is the starters plus Larsson, Fontecchio, Jovic and Portis. The team has no draft pick.",
+   "ts": "15:01",
+   "quote": "You have that starting group plus Larson and Fontecchio and Jovic as your main eight, I'm guessing.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 918
+  },
+  {
+   "team": "MIA",
+   "horizon": "current",
+   "text": "Defense improves a lot and the bad Herro-Powell defensive pairing is split up. But depth and future assets are gone, so a Giannis injury would end their season.",
+   "ts": "15:33",
+   "quote": "quite poor, honestly. Defensively, Mitchell good. Giannis good, Bam good, Wiggins solid.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 933
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Giannis averaged about 27 points, 10 rebounds and 5 assists last season.",
+   "ts": "12:26",
+   "quote": "but he still averaged what? 27, 10, and 5?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 750
+  },
+  {
+   "text": "Giannis ranked 10th in 9-cat and 5th in fantasy points, with 37% usage in 29 minutes per game.",
+   "ts": "12:26",
+   "quote": "He was 10th in Durant five, fifth in fantasy points. 37 usage in 29 minutes a game.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 764
+  },
+  {
+   "text": "Last season usage rates: Bam Adebayo 25, Tyler Herro 25, Giannis about 35.",
+   "ts": "14:00",
+   "quote": "Bam had a 25 usage last season. You lost 25 usage of Hero. You gained 35 of Yanni's.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 850
+  },
+  {
+   "text": "Last season usage rates: Jaime Jaquez Jr. 22, Kel'el Ware 18.",
+   "ts": "14:00",
+   "quote": "You also lost 22 of Harkless. You lost 18 of where?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 859
+  },
+  {
+   "text": "Norman Powell had about 27% usage and led Miami in usage last season.",
+   "ts": "16:04",
+   "quote": "Powell, I would imagine that his what 27 usage comes down quite a bit. He led the team in usage last season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 981
+  },
+  {
+   "text": "Andrew Wiggins had under 20% usage last season.",
+   "ts": "14:30",
+   "quote": "Wiggins was already under 20 usage. He probably takes a decent hit as well.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 881
+  }
+ ]
+}

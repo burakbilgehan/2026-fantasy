@@ -1,0 +1,488 @@
+{
+ "video": {
+  "id": "OBwWCxG9SqM",
+  "title": "Assessing The Fantasy Basketball Production Of NBA Rookies",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-09-03",
+  "duration": "31:18",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T14:05:55+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.2156718,
+  "duration_ms": 53615
+ },
+ "summary": "Josh Lloyd looks at how NBA rookies have done in fantasy since the 2020-21 season, then ranks the 2026 rookie class. Over six seasons only four rookies finished top 50 per game in category leagues and 16 finished top 100. About twice as many become relevant over the final two months of the season. Yahoo ADP puts far too many rookies in the top 150, so people take too many late-round rookie flyers. He sees Cameron Boozer as clearly the best fantasy rookie and Caleb Wilson as second. He thinks Darryn Peterson and especially AJ Dybantsa are drafted too high. He calls Darius Acuff Jr., Mikel Brown Jr., Jax Lenderborg and Johnson Jr. fine late flyers, and advises against Keaton Wagler. He also notes the Clippers' penalty and expects the Kawhi Leonard to Toronto trade to go through.",
+ "rules": [
+  {
+   "text": "Be cautious about investing in rookies in fantasy drafts.",
+   "ts": "4:09",
+   "quote": "when we're talking about rookies in fantasy, we have to be very cautious about how we invest in them",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 264
+  },
+  {
+   "text": "The number of relevant rookies goes up in the second half of the season and fantasy playoffs. The causes are tanking, injuries and rookies improving.",
+   "ts": "6:44",
+   "quote": "the last half of the season in your fantasy playoffs, the number of relevant rookies increases,",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 429
+  },
+  {
+   "text": "The rookie wall and the sophomore slump are lazy narratives. He says most rookies and second-year players get better, so do not treat these as general rules.",
+   "ts": "7:46",
+   "quote": "season goes on. Oh, sophomore slump. Yeah, except again 90% of second year players get better.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 473
+  },
+  {
+   "text": "With less tanking expected this season, the late-season jump in rookie relevance may be smaller than usual.",
+   "ts": "10:56",
+   "quote": "we get double the amount of rookies becoming relevant, I I don't think it's going to be as extreme",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 656
+  },
+  {
+   "text": "ADP overrates rookies mostly in the late flyer range. Drafters take far too many rookies near the end of drafts, when most classes give only about three or four relevant players.",
+   "ts": "13:34",
+   "quote": "we take too many rookies towards the end of a draft when in reality where there's probably going to be",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 837
+  },
+  {
+   "text": "Rookies, especially rookie guards, usually shoot badly for the first two to three months and then improve.",
+   "ts": "19:47",
+   "quote": "He will have bad shooting numbers for two to three months, but it will trend up and get better.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1198
+  },
+  {
+   "text": "Judge a rookie by situation, minutes, usage and non-scoring stats, not by draft position.",
+   "ts": "21:51",
+   "quote": "look at the situation on the team. Where is he going to slide in usage-wise, minutes wise?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1315
+  },
+  {
+   "text": "Projections have to assume trade candidates stay all season. This can understate the rookies behind them.",
+   "ts": "23:26",
+   "quote": "you sort of do have to project it out assuming that Sabonis and Lavine are going to be there all season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1397
+  },
+  {
+   "text": "If a drafted rookie starts with real usage but hurts your efficiency, hold him until about Thanksgiving before giving up.",
+   "ts": "24:29",
+   "quote": "if you draft rookies, especially rookie guards, give them until Thanksgiving. If they're starting and they got a usage role",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1448
+  },
+  {
+   "text": "Do not hold several inefficient rookie flyers at once while waiting for them to improve. Pick which ones to keep and drop the rest quickly.",
+   "ts": "27:39",
+   "quote": "you can't hold all of them through to Thanksgiving or else you'll be, you know, six weeks in",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1681
+  },
+  {
+   "text": "Late-round rookie picks are for chasing upside, but be quick to move on when they do not pan out.",
+   "ts": "29:46",
+   "quote": "those late picks they don't work out to use them by all means. We're hunting upside. But be quick to move on.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1807
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Kawhi Leonard",
+   "said_as": "Kawhai",
+   "team": "TOR",
+   "horizon": "current",
+   "text": "He faces no punishment from the league ruling. His trade to the Raptors is expected to go through.",
+   "ts": "2:06",
+   "quote": "The trade will happen. Kawhai will go to the Raptors. Brandon Ingrama A de Dick will head to the Clippers",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 142
+  },
+  {
+   "player": "Brandon Ingram",
+   "said_as": "Brandon Ingrama",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Expected to go to the Clippers in the Kawhi Leonard trade.",
+   "ts": "2:06",
+   "quote": "Kawhai will go to the Raptors. Brandon Ingrama A de Dick will head to the Clippers",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 144
+  },
+  {
+   "player": "Cooper Flagg",
+   "said_as": "Cooper Flag",
+   "team": "DAL",
+   "horizon": "durable",
+   "text": "Best rookie last season. Finished 36th in category leagues and 32nd in points leagues, and 14th in both over the final two months. He beat his ADP of 42.",
+   "ts": "15:08",
+   "quote": "He was 36th in category leagues and 32nd in points leagues, but he was 14th in both formats",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 899
+  },
+  {
+   "player": "VJ Edgecombe",
+   "said_as": "BJ Edge",
+   "team": "PHI",
+   "horizon": "durable",
+   "text": "Better than expected as a rookie. Had an ADP of 97 and finished 62nd in category leagues and 70th in points leagues. He was top 50 late in the season.",
+   "ts": "15:08",
+   "quote": "BJ Edge had an ADP of 97. He was way better than I expected. He had a finished 62nd",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 919
+  },
+  {
+   "player": "Kon Knueppel",
+   "said_as": "Areola Coniple",
+   "team": "CHA",
+   "horizon": "durable",
+   "text": "Had an ADP of 111 and finished 66th in category leagues. He got worse over the final two months (91st), so he did hit a rookie wall somewhat.",
+   "ts": "15:40",
+   "quote": "He finished 66th in category leagues and 89th in points leagues. And he was 91st overall over the final two months.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 949
+  },
+  {
+   "player": "Maxime Raynaud",
+   "said_as": "Maxim Raino",
+   "team": "SAC",
+   "horizon": "current",
+   "text": "Undrafted, but 70th over the final two months because of many Kings injuries. He is unlikely to get the same chance this season unless the Kings trade players and commit to him at center.",
+   "ts": "16:11",
+   "quote": "over the final two months of the year, Reo was 70th. He didn't have an ADP.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 976
+  },
+  {
+   "player": "Ace Bailey",
+   "said_as": "Ace Bailey",
+   "team": "UTA",
+   "horizon": "current",
+   "text": "Became relevant late last season only because the Jazz sat their veterans.",
+   "ts": "10:25",
+   "quote": "If the Jazz had have kept playing Larry and Keonte and Jiren, he never would have jumped up",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 642
+  },
+  {
+   "player": "Cameron Boozer",
+   "said_as": "Cameron Boozer",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "The jewel of the class, with a chance at a Cooper Flagg type impact. ADP 63. The speaker ranks him 65th in categories and 69th in points. Taking him in the 50s is fine. He expects at least a top 30 finish to the season.",
+   "ts": "17:12",
+   "quote": "His ADP is 63. I've got him ranked 65 and 69 for categories and points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1034
+  },
+  {
+   "player": "Cameron Boozer",
+   "said_as": "Boo",
+   "team": "MEM",
+   "horizon": "durable",
+   "text": "Does nearly everything: rebounds, points, assists, steals, solid free throws, good FG% and threes. Likely lacks blocks. Could lead the team in assists, but he is not a 30 usage player.",
+   "ts": "17:43",
+   "quote": "Boozer is going to probably lack in blocks, but don't be surprised if he averages.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1059
+  },
+  {
+   "player": "Cameron Boozer",
+   "said_as": "Boozer",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Projected for 30 minutes, but could play 33 and be an easy top 50 player. Clear number one rookie for this season and in dynasty.",
+   "ts": "18:13",
+   "quote": "realistically he could play 33 and be easy top 50. So to me, he is clearly the number one rookie",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1096
+  },
+  {
+   "player": "Caleb Wilson",
+   "said_as": "Caleb Wilson",
+   "team": "CHI",
+   "horizon": "current",
+   "text": "Second-best rookie and should be the second rookie drafted. ADP 81 fits. The speaker ranks him in the 80s for categories and the 90s for points. Expected to play about 30 minutes with 20 usage.",
+   "ts": "18:13",
+   "quote": "Wilson's got an ADP of 81, which honestly sort of fits where I've got him.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1111
+  },
+  {
+   "player": "Caleb Wilson",
+   "said_as": "Kelly Wilson",
+   "team": "CHI",
+   "horizon": "durable",
+   "text": "Not a high usage player in college. Good for steals, blocks and rebounds. Assists probably not. Percentages are uncertain.",
+   "ts": "19:16",
+   "quote": "Steals and blocks sure percentages we will see. Rebounds very good. Assists probably not.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1157
+  },
+  {
+   "player": "Darryn Peterson",
+   "said_as": "Daz Peterson",
+   "team": "",
+   "horizon": "current",
+   "text": "ADP of 92 is too high. The speaker ranks him outside the top 110 in both formats and would take him around round 10.",
+   "ts": "19:47",
+   "quote": "I've got him outside the top 110 for both categories and points leagues. If you want to get him at 92",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1204
+  },
+  {
+   "player": "Darryn Peterson",
+   "said_as": "Daz Peterson",
+   "team": "",
+   "horizon": "durable",
+   "text": "Expected turnover concerns, low assists and bad early shooting, though he should improve as the season goes on.",
+   "ts": "19:47",
+   "quote": "I think he's going to have concerns with turnovers. I think he's going to have concern with low assist numbers.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1188
+  },
+  {
+   "player": "AJ Dybantsa",
+   "said_as": "AJ Debanser",
+   "team": "WAS",
+   "horizon": "durable",
+   "text": "Worst category league shape of the big four rookies. He scores and gets to the line. Poor shooter, bad threes, no steals or blocks, not a strong rebounder or passer. Better in points leagues.",
+   "ts": "20:49",
+   "quote": "So his category league shape is not good. His points league value should be better.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1250
+  },
+  {
+   "player": "AJ Dybantsa",
+   "said_as": "debants",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Projected 180th in category leagues and 150th in points, against a Yahoo ADP of 77. The speaker would not touch him in the top 100. Trae Young and Anthony Davis will take usage.",
+   "ts": "20:49",
+   "quote": "his Yahoo ADP is 77. That is one of those ones where I'm like, um, no way.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1258
+  },
+  {
+   "player": "Darius Acuff Jr.",
+   "said_as": "Darius Akoff Jr.",
+   "team": "SAC",
+   "horizon": "current",
+   "text": "Fifth rookie in the pecking order, with an ADP around 110. Not top 200 in categories in the speaker's projection, but much better in points. A 10th or 11th rounder is reasonable, especially in points leagues. His upside depends on Zach LaVine and Domantas Sabonis trades.",
+   "ts": "23:26",
+   "quote": "Taking Darius Akoff with your 10th rounder, 11th rounder, especially in points leagues is totally reasonable.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1425
+  },
+  {
+   "player": "Darius Acuff Jr.",
+   "said_as": "Darius Akoff",
+   "team": "SAC",
+   "horizon": "durable",
+   "text": "Most likely of the rookies to hurt you with horrendous shooting.",
+   "ts": "23:57",
+   "quote": "holy crap, rookies are killing me with their horrendous shooting, it's going to be him.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1437
+  },
+  {
+   "player": "Jax Lenderborg",
+   "said_as": "Jax Lenderborg",
+   "team": "GSW",
+   "horizon": "current",
+   "text": "Decent early role with Jimmy Butler and Moses Moody out. Role shrinks when they return. Low usage. Better in category leagues than points leagues. ADP 115 is fine as a late pick, but if he struggles the first four weeks it will not get better.",
+   "ts": "25:32",
+   "quote": "his ADP is 115 reason totally fine but I also think that if you see him struggling the first four weeks",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1533
+  },
+  {
+   "player": "Johnson Jr.",
+   "said_as": "MZ Johnson Jr.",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "ADP 120. The speaker ranks him around 150 in both formats on 25 minutes. Strong defense in summer league. Undersized, more a four than a five, in a crowded frontcourt. Reasonable late flyer.",
+   "ts": "26:04",
+   "quote": "he's got an ADP of 120. I got him ranked around 150 for both formats with 25 minutes a game",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1578
+  },
+  {
+   "player": "Mikel Brown Jr.",
+   "said_as": "Muel Brown Jr.",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "ADP 121. Likely the starting point guard in Brooklyn, with minutes ramping up. Expect horrific turnovers and bad efficiency early. Fine as a late flyer.",
+   "ts": "26:36",
+   "quote": "At 121 in ADP is Muel Brown Jr. I'm pretty sure Mickey is going to start in Brooklyn",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1618
+  },
+  {
+   "player": "Keaton Wagler",
+   "said_as": "Katon Wagler",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "ADP 124, but he should not be drafted in standard formats. The speaker ranks him outside the top 250 in categories and the top 200 in points. Around 25 minutes, with crowded guard competition from Garland, Beal, Dunn, Sanders and Strus.",
+   "ts": "28:44",
+   "quote": "I've got him ranked outside the top 250 for categories and top 200 for points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1730
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Lost five first round picks in the NBA ruling. Steve Ballmer was fined $30 million and suspended.",
+   "ts": "1:03",
+   "quote": "The Clippers will lose five first round picks, including a first round pick from the Pacers",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 66
+  },
+  {
+   "team": "MEM",
+   "horizon": "current",
+   "text": "The Grizzlies will not be good, and Cameron Boozer will start and do more as the season goes on.",
+   "ts": "18:13",
+   "quote": "he's in a spot where he's going to start. The team's not going to be good.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1089
+  },
+  {
+   "team": "CHI",
+   "horizon": "current",
+   "text": "Josh Giddey, Noa Essengue and Matas Buzelis are expected to have more usage than Caleb Wilson.",
+   "ts": "18:44",
+   "quote": "Josh Giddy Norman Pal and Matis Bzalis I think are going to have more usage on this Bulls team",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1146
+  },
+  {
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Trae Young and Anthony Davis will take a lot of usage, which limits AJ Dybantsa.",
+   "ts": "20:49",
+   "quote": "Washington has Trey Young. Washington has Anthony Davis. They're going to get a lot of usage.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1271
+  },
+  {
+   "team": "GSW",
+   "horizon": "current",
+   "text": "Jimmy Butler and Moses Moody are out early. Curry, Porzingis when healthy and Green will start, and the speaker thinks Podziemski starts too.",
+   "ts": "24:29",
+   "quote": "no Jim Butler no Moses Moody he's going to be in line to have a pretty decent role",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1487
+  },
+  {
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Jordan Miller is out. The Clippers traded for Max Strus, who will probably start. Darius Garland starts at point guard.",
+   "ts": "29:15",
+   "quote": "by the way, they just traded for Max Strus who's probably going to start.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1756
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Last season, one rookie finished top 50 and five finished top 100 per game in category leagues.",
+   "ts": "5:09",
+   "quote": "in 2025 2026 we had one top 50 category league player. We had four top 100 players",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 320
+  },
+  {
+   "text": "Cade Cunningham finished 43rd as a rookie in 2021-22.",
+   "ts": "6:11",
+   "quote": "21 was Kate Cunningham who finished 43rd",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 392
+  },
+  {
+   "text": "Over six seasons, 33 rookies finished top 150, while Yahoo ADP had 84 rookies in that range.",
+   "ts": "13:34",
+   "quote": "Yahoo ADP over that time has had 84 rookies listed in that area.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 814
+  },
+  {
+   "text": "Cooper Flagg finished 36th in category leagues and 32nd in points leagues with an ADP of 42.",
+   "ts": "15:08",
+   "quote": "He was 36th in category leagues and 32nd in points leagues, but he was 14th in both formats",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 899
+  },
+  {
+   "text": "Maxime Raynaud finished 159th in category leagues and 70th over the final two months.",
+   "ts": "16:11",
+   "quote": "159th in Durant and 147th in points leagues, but over the final two months of the year, Reo was 70th.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 971
+  },
+  {
+   "text": "Jax Lenderborg averaged 15 points and shot 50% from three in summer league.",
+   "ts": "25:01",
+   "quote": "he only averaged 15 points a game and shot 50% from three to get the numbers",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1523
+  }
+ ]
+}

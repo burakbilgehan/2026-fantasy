@@ -1,0 +1,425 @@
+{
+ "video": {
+  "id": "0geFVzSqOnA",
+  "title": "Fantasy Basketball Statistical Correlations & Why Turnovers Suck",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-07-15",
+  "duration": "40:12",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T11:18:51+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.2518638,
+  "duration_ms": 58342
+ },
+ "summary": "Josh Lloyd ran Pearson correlations between the 9 categories, using last season's top 200 players in per-game value. In points leagues, fantasy points line up most closely with usage (0.826) and then minutes, so usage matters more there than in category leagues. In category leagues, points and assists are the most strongly linked pair, then threes and FT%. Together these explain why the guard build (points, threes, assists, FT%) works. The big man build (rebounds, blocks, FG%) only links three categories, so it is harder to pull off. Steals, blocks and rebounds are the most independent categories. Turnovers are the most tied to other categories and help almost nothing, since the turnovers track points and assists so closely. His conclusion: in head-to-head leagues that are not games-capped, ignore turnovers except as a tiebreaker between near-identical players. Roto and games-capped leagues are exceptions.",
+ "rules": [
+  {
+   "text": "In points leagues, minutes and usage are the simplest way to predict fantasy points. Choosing between two players on those two factors gets you about 80% of the way to the right answer.",
+   "ts": "6:14",
+   "quote": "minutes and which player will have more usage, and you're 80% of the way there",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 374
+  },
+  {
+   "text": "Usage matters more in points leagues than in category leagues, though it helps in both.",
+   "ts": "7:47",
+   "quote": "usage becomes more important in points leagues than it is in category leagues",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 470
+  },
+  {
+   "text": "Points and assists come together. If you target high-points players, you usually get assists too, and the reverse is also true.",
+   "ts": "8:48",
+   "quote": "if you go for higher points players, you will usually bring assists along with it",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 531
+  },
+  {
+   "text": "The guard build (points, threes, assists, steals, FT%) is common because its categories reinforce each other.",
+   "ts": "8:48",
+   "quote": "Points, threes, assists, steals, and free throws is the general guard build.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 552
+  },
+  {
+   "text": "The big man build is harder to execute because only rebounds, blocks and FG% move together.",
+   "ts": "13:27",
+   "quote": "part of the reason why the the big man build is harder to execute is that that's only three categories",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 819
+  },
+  {
+   "text": "Steals are the swing category. They do not tie strongly into either the guard build or the big man build.",
+   "ts": "13:58",
+   "quote": "we always talk about steals as being the swing number",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 839
+  },
+  {
+   "text": "A big man build does not naturally bring steals or low turnovers with it. Blocks and turnovers are not correlated.",
+   "ts": "14:29",
+   "quote": "Steals aren't getting brought along. And low turnovers aren't necessarily getting brought along either.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 878
+  },
+  {
+   "text": "Threes and FG% pull against each other, so adding threes to a big man build is hard.",
+   "ts": "17:04",
+   "quote": "more threes means lower field goal percentage. Higher field goal percentage means lower threes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1031
+  },
+  {
+   "text": "Winning head-to-head categories takes margin. Being barely above average in categories that are negatively correlated leaves you exposed to schedule and injury swings.",
+   "ts": "18:08",
+   "quote": "part of having success in head-to-head categories is having margin, then you're cooked",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1104
+  },
+  {
+   "text": "A small positive z-score in a category (like 0.7) wins only about 55% of the time. A large one (like 2.5) wins about 85%. Build big buffers.",
+   "ts": "19:11",
+   "quote": "If you get a Z score of 2.5 in your assists, you're going to win 85% of the time",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1154
+  },
+  {
+   "text": "Being strong in both FG% and FT% is very hard. Barely winning both is fragile, and putting resources into it leaves you short elsewhere.",
+   "ts": "20:42",
+   "quote": "one less game from your free throw volume at anchor means that now you've lost the category",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1264
+  },
+  {
+   "text": "Players who combine categories that are not normally correlated (like rebounds and assists) carry extra value.",
+   "ts": "22:45",
+   "quote": "So, players who do the low correlation things are pretty useful.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1382
+  },
+  {
+   "text": "A low-volume build of threes, steals, blocks, FG% and FT% is very hard to pull off, because those categories do not drag each other along.",
+   "ts": "24:17",
+   "quote": "So, going for like a low volume build a threes steals, blocks, field goals, free throws really tough to pull off",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1466
+  },
+  {
+   "text": "Steals are one of the most abundant categories on the waiver wire, and they create oddities in standard 9-cat rankings.",
+   "ts": "25:48",
+   "quote": "steals are one of the most abundant categories off the waiver wire",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1557
+  },
+  {
+   "text": "Maximizing FG% or working hard to keep turnovers low hurts the rest of a fantasy team.",
+   "ts": "29:25",
+   "quote": "turnovers low, is pretty detrimental to your overall fantasy team. That's what that means.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1765
+  },
+  {
+   "text": "In head-to-head leagues, the speaker ignores turnovers completely.",
+   "ts": "30:57",
+   "quote": "Cuz you know when I am talking head-to-head leagues, I am telling you I do not care about turnovers.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1857
+  },
+  {
+   "text": "Exception: turnovers matter to a degree in roto leagues.",
+   "ts": "30:57",
+   "quote": "You are playing in a roto league, turnovers are one of the categories. It is important.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1870
+  },
+  {
+   "text": "Games-capped leagues are a little different, but the correlations still apply.",
+   "ts": "33:01",
+   "quote": "if I'm playing a games cup league, a little bit different. It's a little bit different.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2003
+  },
+  {
+   "text": "Turnovers are the only negative counting stat in default fantasy formats. Streaming to max games played naturally raises turnovers, so chasing low turnovers fights the head-to-head game.",
+   "ts": "35:05",
+   "quote": "That's why we stream. Streaming is anti-turnovers. We want more games played than our opponent",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2119
+  },
+  {
+   "text": "Injuries and schedule disadvantages automatically lower your turnovers, so you often win turnovers anyway in weeks when you are short on games.",
+   "ts": "36:40",
+   "quote": "If one of your guys gets injured, he accumulates zero turnovers.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2208
+  },
+  {
+   "text": "Using turnovers as a tiebreaker between two otherwise identical players is fine.",
+   "ts": "37:12",
+   "quote": "I got no problem if you want to use turnovers between two identical players",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2232
+  },
+  {
+   "text": "The speaker's Durant ranking system for head-to-head leagues leaves out turnovers.",
+   "ts": "37:44",
+   "quote": "I'm not including turnovers in it cuz if you want to win a head-to-head league",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2271
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Nikola Vucevic",
+   "said_as": "Vucevic",
+   "team": "",
+   "horizon": "durable",
+   "text": "Named as the exception to the rule that rebounders also block shots. He gets rebounds without blocks.",
+   "ts": "12:25",
+   "quote": "Most players, except for Vucevic, who get rebounds block you shots.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 750
+  },
+  {
+   "player": "Mark Williams",
+   "said_as": "Mark Williams",
+   "team": "",
+   "horizon": "durable",
+   "text": "Cited as a rare player who gave both good FG% and good FT% last season.",
+   "ts": "20:11",
+   "quote": "I think Mark Williams is one of those guys last season.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1216
+  },
+  {
+   "player": "Jalen Duren",
+   "said_as": "Jalen Duren",
+   "team": "",
+   "horizon": "durable",
+   "text": "The speaker was unsure, but said Duren may also have been a good FG% and FT% player last season.",
+   "ts": "20:11",
+   "quote": "Jalen Duren, the passport legend, may have been, I can't remember.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1219
+  },
+  {
+   "player": "Nikola Jokic",
+   "said_as": "Nikola Jokic",
+   "team": "",
+   "horizon": "durable",
+   "text": "Extra value comes from giving both rebounds and assists, which are rarely correlated.",
+   "ts": "22:45",
+   "quote": "Part of what makes Nikola Jokic such a super strong fantasy player and LaMelo Ball",
+   "value_hint": "super strong fantasy player",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1368
+  },
+  {
+   "player": "LaMelo Ball",
+   "said_as": "LaMelo Ball",
+   "team": "",
+   "horizon": "durable",
+   "text": "Gives assists and points and also brings rebounds, which other assist guards usually do not.",
+   "ts": "22:45",
+   "quote": "I'll use LaMelo to get assists and points and you get rebounds brought along with it",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1387
+  },
+  {
+   "player": "Luka Doncic",
+   "said_as": "Luka Dončić",
+   "team": "",
+   "horizon": "durable",
+   "text": "Gives both rebounds and assists, a rare combination that adds to his value.",
+   "ts": "22:45",
+   "quote": "Nikola Jokic such a super strong fantasy player and LaMelo Ball and Luka Dončić is they give you rebounds",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1368
+  }
+ ],
+ "team_notes": [],
+ "claims_to_check": [
+  {
+   "text": "Among last season's top 200, fantasy points per game (Yahoo default scoring) and usage correlate at R = 0.826, the strongest correlation found.",
+   "ts": "5:43",
+   "quote": "is between fantasy points per game and usage. That's the strongest correlation with an R of 0.826.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 343
+  },
+  {
+   "text": "Durant rank and minutes played correlate at 0.758.",
+   "ts": "6:45",
+   "quote": "0.758. So, pretty high. The higher your minutes played, the higher your Durant ranking.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 405
+  },
+  {
+   "text": "Durant rank and usage correlate at a stated 0.075. This is likely a slip for 0.75, since he calls it still pretty high.",
+   "ts": "6:45",
+   "quote": "The fourth most high highest correlated was between Durant and usage at 0.075.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 431
+  },
+  {
+   "text": "Points and assists have the highest positive correlation between categories at 0.613.",
+   "ts": "7:47",
+   "quote": "Points and assists is the highest positive correlation at .613.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 487
+  },
+  {
+   "text": "Rebounds and blocks correlate at 0.546.",
+   "ts": "11:55",
+   "quote": "rebounds and blocks are up there. Third highest positive correlation at .546.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 736
+  },
+  {
+   "text": "Points and threes correlate at 0.53. Points and FT% correlate at 0.445.",
+   "ts": "12:56",
+   "quote": ".53 for points and threes, .445 for points and free throws.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 801
+  },
+  {
+   "text": "Assists and turnovers correlate at 0.814, and points and turnovers at 0.778. These are the two strongest links between categories. He calls them negative because turnovers count against you.",
+   "ts": "14:59",
+   "quote": "assists and turnovers. Negative 0.814. And points and turnovers? Negative 778.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 924
+  },
+  {
+   "text": "Threes and FG% correlate at -0.655.",
+   "ts": "16:34",
+   "quote": "It is hard to build a very high three-pointer team with very good field goal percentage. That is a negative .655.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1006
+  },
+  {
+   "text": "FG% and FT% correlate at -0.512.",
+   "ts": "19:41",
+   "quote": "field goal percentage and free throw percentage negatively correlated. -.512",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1202
+  },
+  {
+   "text": "Points and blocks correlate at -0.001.",
+   "ts": "21:44",
+   "quote": "Points and blocks -0.001 meaning if you get more points",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1309
+  },
+  {
+   "text": "Rebounds and assists correlate at 0.056.",
+   "ts": "22:45",
+   "quote": "Cuz that's one of the worst correlated categories, 0.056.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1376
+  },
+  {
+   "text": "Rebounds and steals correlate at -0.092.",
+   "ts": "23:16",
+   "quote": "Rebounds and steals negative 0.092. Could go either way.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1416
+  },
+  {
+   "text": "Points and FG% correlate at -0.155. Steals and blocks correlate at -0.158.",
+   "ts": "23:47",
+   "quote": "Steals and blocks is a negative but it's negative 0.158.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1451
+  },
+  {
+   "text": "Steals have the highest independent score (73.4). Mean absolute correlation is 0.244 for steals and 0.243 for blocks.",
+   "ts": "25:48",
+   "quote": "They have the highest independent score, which is a 73.4 here.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1561
+  },
+  {
+   "text": "The highest correlation involving steals is with assists, at 0.435.",
+   "ts": "26:18",
+   "quote": "The highest contribution for steals is 0.435, which is between assists and steals.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1599
+  },
+  {
+   "text": "Turnovers have a support score of 0.025, a friction score of 0.351 and a helpful share of 7%. Points have a helpful share of 69%.",
+   "ts": "28:55",
+   "quote": "turnovers have a support score of 0.025 and a friction of 0.351 leading to a helpful share of 7%",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1742
+  },
+  {
+   "text": "Turnovers' only helpful correlation is 0.196 with FG%.",
+   "ts": "31:28",
+   "quote": "the only sort of positive correlation turnovers have is a .196 with field goal percentage.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1890
+  },
+  {
+   "text": "Mark Williams had both good FG% and good FT% last season.",
+   "ts": "20:11",
+   "quote": "I think Mark Williams is one of those guys last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1216
+  }
+ ]
+}

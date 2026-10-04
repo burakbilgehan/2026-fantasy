@@ -81,6 +81,15 @@ How to add a source (example: Hashtag Basketball):
 7. Run `make players-sync SOURCE=<key>`. Read the ambiguous list. Add links to `id_links.json` where needed.
 - No DB change is needed for a new source.
 
+## Expert digest (M8, first part, T-021)
+1. `make expert-run`: interactive runner for the user's terminal. Batches of 10 (`BATCH=`). Transcripts are fetched one by one; the LLM calls of a batch run in parallel (`PARALLEL=`, default = batch size). Progress bars, elapsed and remaining time, list price spent and projected. Ctrl-C once: no new videos, running calls finish; twice: kill all running calls. A subscription usage limit stops the run. Defaults: Locked On channel since video HxQjagSTTAM (`EXPERT_URL=`, `EXPERT_SINCE=`). Plain batch command: `make expert-digest URL=<playlist, channel /videos tab, or video>` (optional `SINCE=`, `LIMIT=`, `ARGS=--force`).
+2. `app/sources/experts/youtube.py`: video ids (yt-dlp), metadata, transcript. Cache: `data/raw/experts/youtube/{id}.json`. When YouTube blocks caption requests, transcripts come from the user's Chrome through `app/jobs/transcript_receiver.py` into the same cache; then run `make expert-run CACHED_ONLY=1`.
+3. `app/experts/extract.py`: one `claude -p` call per video, JSON schema output. Prompts, schema, model and effort: `prompts/expert_digest/` (see its README). `make expert-prompt VIDEO=<id>` prints the exact call. Every note has a timestamp and a verbatim quote.
+4. `app/experts/transcript.py`: quote check against the transcript (fuzzy, min 6 words). A note whose quote is not found is `verified: false` and only shows in its video page.
+5. Source of truth (in git): `docs/knowledge/_data/videos/{id}.json`. Done videos are skipped unless `PROMPT_VERSION` changes or `--force`.
+6. `app/experts/render.py`: markdown in `docs/knowledge/` (videos, players, teams, methods, claims). Player and team pages have two sections: Durable and Current.
+7. Names are matched at render time (`app/experts/match.py`): user alias, exact name, learned nickname, then last name and first initial. The note's team decides between players with the same name. Learned nicknames are written to `docs/knowledge/aliases.json` (`learned_players`) and never go into the prompt. Fix a wrong match with a user alias (`players`), then `make expert-render` (no LLM call).
+
 ## Widget model
 - A widget = a React component + a registry entry (id, title, default size).
 - The dashboard is a grid. The user can choose and place widgets. Layout is saved in local storage.

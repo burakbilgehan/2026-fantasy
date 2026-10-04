@@ -1,0 +1,9 @@
+{
+  "prompt_version": 3,
+  "compatible_versions": [
+    2,
+    3
+  ],
+  "model": "opus",
+  "effort": "medium"
+}

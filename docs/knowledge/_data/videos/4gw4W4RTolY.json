@@ -1,0 +1,714 @@
+{
+ "video": {
+  "id": "4gw4W4RTolY",
+  "title": "The Atlanta Hawks Starter I’m Targeting Every Draft",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-09-25",
+  "duration": "40:19",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-04T14:18:31+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.3682038,
+  "duration_ms": 98965
+ },
+ "summary": "Josh Lloyd previews the Atlanta Hawks for the 2026-27 fantasy season. His projected starting five is CJ McCollum, Nickeil Alexander-Walker, Dyson Daniels, Jalen Johnson and Onyeka Okongwu, all with 30-plus minutes and all draftable inside the top 100. His view is that Jalen Johnson is overdrafted in category leagues, because his numbers dropped when he played next to McCollum. He also thinks nine-cat rankings inflate Okongwu. His favorite targets are Alexander-Walker and Daniels, and he says McCollum is easy value around pick 80 to 90. He covers the bench rotation, the injuries to Mouhamed Gueye and Henri Veesaar, and a good playoff schedule. He names Jock Landale as the best stash on the team for deep or stash formats.",
+ "rules": [
+  {
+   "text": "Avoid heavy mock drafting early in September. Injury news, preseason and media day change a lot of draft opinions.",
+   "ts": "1:34",
+   "quote": "And it's why I don't like to go really heavy mock drafting early in September",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 97
+  },
+  {
+   "text": "Drafting several players from the same NBA team is fine, probably up to three. It is more acceptable if the team has no two-game weeks in the fantasy playoffs. Five is too many.",
+   "ts": "5:43",
+   "quote": "I have no problem with drafting multiple players from the same team. Probably up to three",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 364
+  },
+  {
+   "text": "Nine-cat rankings can inflate some players. If you use a nine-cat ranking to value a player, you have to accept every result that ranking produces. If you don't believe those results, don't rely on the numbers.",
+   "ts": "13:55",
+   "quote": "if you want to quote a nine cat ranking in your evaluation of a player then you have to stand on business",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 838
+  },
+  {
+   "text": "Taking a player a few spots too early costs little. If you draft someone at 10 and he finishes 17th, it is not the end of the world.",
+   "ts": "9:49",
+   "quote": "If you take Jayen at 10, he finishes 17th, oh well,",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 614
+  },
+  {
+   "text": "A player can be fine to draft at a given spot in points leagues but too early in category leagues. Value each format separately.",
+   "ts": "9:18",
+   "quote": "He's going at like 8 n 10, that sort of range, which for points leagues, totally okay.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 567
+  },
+  {
+   "text": "Extreme hot shooting stretches, like elite true shooting over two months, usually do not stick. Expect them to regress.",
+   "ts": "16:29",
+   "quote": "There is a lot that happened with him last season though, second half of the year in particular that will not stick.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 991
+  },
+  {
+   "text": "Don't value players on a single season. Elite skills like steals can bounce back after a down year (elastic band theory).",
+   "ts": "18:04",
+   "quote": "If we're going to talk elastic band theory on the on the steels, he's that good at it.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1108
+  },
+  {
+   "text": "A backup point guard is not automatically a handcuff when the team has several ball handlers. Wings can absorb the role instead.",
+   "ts": "26:16",
+   "quote": "So, it's not the traditional backup point guard sort of scenario that we often sort of like in a fantasy situation.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1593
+  },
+  {
+   "text": "The best stash is a clear one-for-one backup who would start and play 30-plus minutes if the starter got hurt.",
+   "ts": "31:30",
+   "quote": "Now, he is not a fantastic permanent producer, but that is a clear one for one.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1892
+  },
+  {
+   "text": "Only stash players in stash-friendly formats like roto, weekly, deep bench or games-cap leagues. Don't do it in standard daily leagues with small benches.",
+   "ts": "32:01",
+   "quote": "you're in a regular league that has daily changes with 10 starters and three bench or four bench, don't do it.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1921
+  },
+  {
+   "text": "His recommended fantasy season end date is March 28. He thinks leagues can go one week later because of the lottery reforms.",
+   "ts": "28:53",
+   "quote": "but I'm going to go with March 28th because I do think that we can push an extra week given the lottery reforms.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1733
+  },
+  {
+   "text": "Now that Yahoo has removed IL+, convert the old IL+ spots into regular IL spots rather than bench spots. If you had five injury spots before, keep five.",
+   "ts": "34:36",
+   "quote": "If you had five total injury spots before, have five now.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2085
+  },
+  {
+   "text": "Turning IL spots into bench spots hurts teams with many injuries. It makes good teams better and bad teams worse, which causes earlier disengagement.",
+   "ts": "34:04",
+   "quote": "You don't want the good teams getting better and the bad teams getting worse because then you have disengagement",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2044
+  },
+  {
+   "text": "Yahoo is a bad platform for dynasty leagues.",
+   "ts": "25:15",
+   "quote": "If you are in a dynasty league on Yahoo, number one, you should not be because they are bad for that format",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1520
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Jalen Johnson",
+   "said_as": "Jaylen Johnson",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "For two-thirds of last season, Johnson played without Trae Young or CJ McCollum.",
+   "ts": "3:06",
+   "quote": "twothirds of the season, Jaylen Johnson operated without Trey Young or CJ McCullum.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 196
+  },
+  {
+   "player": "Jalen Johnson",
+   "said_as": "Jaylen Johnson",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "When McCollum was there, Johnson's assists fell by about one per game. His time on ball, defensive stats and two-point efficiency also dropped, and he was not a top 30 player.",
+   "ts": "3:40",
+   "quote": "His assists dropped by about an assist per game. His time on ball dropped.",
+   "value_hint": "not top 30 with McCollum",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 220
+  },
+  {
+   "player": "Jalen Johnson",
+   "said_as": "Jaylen Johnson",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Sharing creation duties with McCollum could cut Johnson's assists, usage, steals and shooting a bit. That makes first-round value hard to keep.",
+   "ts": "4:10",
+   "quote": "But instead of eight assists per game, what if he's seven? What if 26 usage is 25?",
+   "value_hint": "hard to maintain first round value",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 266
+  },
+  {
+   "player": "Jalen Johnson",
+   "said_as": "Jaylen Johnson",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "He is going in round one in category leagues. Lloyd would not take him there, but would take him in the middle of round two. He is fine around picks 8 to 10 in points leagues.",
+   "ts": "9:18",
+   "quote": "Categories, I wouldn't take Jaylen Johnson in round one, and he's going in",
+   "value_hint": "ADP around 8-10; worth mid round two in cats; biggest fade on team",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 585
+  },
+  {
+   "player": "Jalen Johnson",
+   "said_as": "Jaylen Johnson",
+   "team": "ATL",
+   "horizon": "durable",
+   "text": "His past injuries were fluky, like random wrist and shoulder injuries. Lloyd is not concerned about him injury-wise.",
+   "ts": "7:45",
+   "quote": "Not really concerned about him injury-wise, but if he gets hurt, their power forward depth is bad",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 476
+  },
+  {
+   "player": "Onyeka Okongwu",
+   "said_as": "Akongu / Aongu / Anka Aongu",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Okongwu is inflated by nine-cat rankings. Taking him in round four would be a disappointment, and he borders on being overvalued in category leagues.",
+   "ts": "14:27",
+   "quote": "I think if you're taking him in round four, it's a disappointment.",
+   "value_hint": "ranked 44 ESPN, Fantrax ADP 47; overvalued in cats",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 891
+  },
+  {
+   "player": "Onyeka Okongwu",
+   "said_as": "Akongu",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "His field goal percentage fell because he played away from the rim. His block rate disappeared because of a different defensive scheme. Lloyd expects neither to change under Quin Snyder.",
+   "ts": "14:58",
+   "quote": "His block rate also disappeared because of a different defensive scheme. And I don't think that is changing.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 912
+  },
+  {
+   "player": "Onyeka Okongwu",
+   "said_as": "Ako",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "He was the starting center all season, but the team is very cautious with his minutes.",
+   "ts": "15:28",
+   "quote": "And they're also very cautious with his minutes for whatever reason.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 938
+  },
+  {
+   "player": "Nickeil Alexander-Walker",
+   "said_as": "Nquil Alexander Walker",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Lloyd is big on him this season. He stepped into a huge role when Trae Young went down early last season and established himself as a legitimately very good player.",
+   "ts": "15:59",
+   "quote": "But Trey Young was gone immediately and Alexander Walker stepped into that role, played huge minutes and",
+   "value_hint": "best target on the team",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 982
+  },
+  {
+   "player": "Nickeil Alexander-Walker",
+   "said_as": "Alexander Walker",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "His second-half shooting run (about 70% true shooting, around 95% from the line and 48% from three) will not stick.",
+   "ts": "16:29",
+   "quote": "He was rolling true shooting. I'm going to guess this number about 70% for a guard",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 996
+  },
+  {
+   "player": "Nickeil Alexander-Walker",
+   "said_as": "Alexander Walker",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Lloyd sees him inside the top 50, probably inside the top 40, in category leagues. He is usually available in the 50s and Lloyd likes him there. His points league value matches his ADP.",
+   "ts": "17:01",
+   "quote": "But for category leagues, you're sitting in the 50s in a draft. He's there nearly every time and I like it.",
+   "value_hint": "ADP 52-60; top 40-50 value in cats; round four",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1040
+  },
+  {
+   "player": "Dyson Daniels",
+   "said_as": "Dyson Daniels",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "His steals fell by 33% to about two per game and he shot 18% from three. He did shoot over 30% over the last six weeks of the season.",
+   "ts": "17:32",
+   "quote": "He saw his steals numbers drop by 33%. I also didn't expect him to shoot 18% from three.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1058
+  },
+  {
+   "player": "Dyson Daniels",
+   "said_as": "Dyson",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "He is being drafted around 60, but Lloyd says he should go significantly higher, top 50 in both categories and points.",
+   "ts": "18:04",
+   "quote": "he's being drafted at 60. He should be significantly higher. Top 50 for both categories and points.",
+   "value_hint": "ADP 60; should be top 50; round five",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1097
+  },
+  {
+   "player": "Dyson Daniels",
+   "said_as": "Dyson",
+   "team": "ATL",
+   "horizon": "durable",
+   "text": "He is an elite steals player with excellent defensive metrics. His steals should bounce back toward three per game.",
+   "ts": "18:35",
+   "quote": "his defensive metrics are so good. They should go up from two back to three.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1115
+  },
+  {
+   "player": "CJ McCollum",
+   "said_as": "CJ McCullum",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "He finished around 100 last season and is drafted there. Lloyd expects him to be better as a locked-in starter on a team pushing for the playoffs. He likes McCollum around picks 80 to 90.",
+   "ts": "19:06",
+   "quote": "I like him in that 90 range, 80 range.",
+   "value_hint": "ADP around or outside 100; target at 80-90; round eight",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1170
+  },
+  {
+   "player": "CJ McCollum",
+   "said_as": "CJ",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "After joining Atlanta, McCollum was on the ball more than anyone else on the team.",
+   "ts": "4:41",
+   "quote": "CJ was on ball at a higher percentage than anybody on this team.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 300
+  },
+  {
+   "player": "Luguentz Dort",
+   "said_as": "Lou Dort / Lud Dort",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Dort will probably get the most bench minutes as the sixth man. Starting him over Daniels would be a bad decision, because Dort is a worse defender and a worse overall offensive player.",
+   "ts": "6:45",
+   "quote": "But could Lou Dort replace Dyson Daniels? It would be a bad decision. Dort's not as good of a defender.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 415
+  },
+  {
+   "player": "Luguentz Dort",
+   "said_as": "Dort",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "He was not a top 280 player last season. He is only worth considering in leagues with 16 teams or more. Lloyd mentions him as a late swing pick but doesn't believe in it.",
+   "ts": "24:14",
+   "quote": "He wasn't even a top 280 player last season.",
+   "value_hint": "deep leagues only; late swing",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1467
+  },
+  {
+   "player": "Aaron Wiggins",
+   "said_as": "Aaron Wiggins",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Wiggins is likely the seventh man. He finished outside the top 250 last season. Lloyd says Yahoo's rank of 187 is too high and his good OKC reputation was somewhat unfounded.",
+   "ts": "23:43",
+   "quote": "I think that that's a little bit too high for a guy again is probably the seventh man",
+   "value_hint": "Yahoo rank 187 too high; Fantrax ADP 240",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1430
+  },
+  {
+   "player": "Jock Landale",
+   "said_as": "Doc Landelle / Jack Lindale / Lando",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Landale is the backup center. He would start and play 30-plus minutes if Okongwu got hurt, which makes him the best stash on the team in stash formats only.",
+   "ts": "30:59",
+   "quote": "it's probably Jack Lindale because if Aongu gets hurt, Lando is going to start.",
+   "value_hint": "stash option, deep leagues only",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1880
+  },
+  {
+   "player": "Kingston Flemings",
+   "said_as": "Kingston Flemings",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "The rookie is clearly the backup point guard. Lloyd expects him to struggle with usage and efficiency but to be a good assists and steals option.",
+   "ts": "25:46",
+   "quote": "going to struggle with usage. He's going to struggle with efficiency. I think he's going to be a pretty good assist and steals option",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1546
+  },
+  {
+   "player": "Kingston Flemings",
+   "said_as": "Kingston Flemings",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "ESPN's rank of 215 is way too high for this season. He should go higher than his Fantrax ADP of 240 in dynasty. He would likely start if McCollum got hurt, but the path is not clean.",
+   "ts": "25:15",
+   "quote": "And ESPN's got him ranked 215 for this season, which is way too high for me.",
+   "value_hint": "ESPN 215 too high; Fantrax ADP 240; Yahoo rank 634",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1540
+  },
+  {
+   "player": "Asa Newell",
+   "said_as": "Ace New",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Newell is probably the 10th man in the rotation and the backup power forward while Gueye is out.",
+   "ts": "22:10",
+   "quote": "the 10th man of the rotation is probably going to have to be Ace New.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1337
+  },
+  {
+   "player": "Mouhamed Gueye",
+   "said_as": "Muhammad way / Gay",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Gueye broke his foot and will likely miss the start of the season. He would have been in the rotation.",
+   "ts": "27:17",
+   "quote": "I believe he will miss the start of the season which is frustrating cuz he would",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1637
+  },
+  {
+   "player": "Mouhamed Gueye",
+   "said_as": "Gay",
+   "team": "ATL",
+   "horizon": "durable",
+   "text": "He is a solid defender, a good rebounder and a good steals generator. His shooting is up and down.",
+   "ts": "27:17",
+   "quote": "Gay has shown um quite a bit of form in terms of being a solid defender, good rebounder",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1644
+  },
+  {
+   "player": "Henri Veesaar",
+   "said_as": "Henry Vasar",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "The rookie tore his ACL and will miss the whole season.",
+   "ts": "27:48",
+   "quote": "They also lost a couple of days ago Henry Vasar to a torn ACL and that is rookie season over.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1673
+  },
+  {
+   "player": "Dorian Finney-Smith",
+   "said_as": "Dorian Finny Smith",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "The team just traded for him and he could get the 10th rotation spot. Lloyd fears he may be a little washed.",
+   "ts": "22:41",
+   "quote": "But I also fear that maybe maybe Dorian is just just a little bit washed.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1363
+  },
+  {
+   "player": "Corey Kispert",
+   "said_as": "Cory Kispet",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Of the remaining guards and wings, Kispert is the only one with any shot at the rotation.",
+   "ts": "29:25",
+   "quote": "The only one there I think that's got any shot of being in the rotation is Kispet",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1786
+  },
+  {
+   "player": "Alex Sarr",
+   "said_as": "Alex Sar",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Sarr is likely ready for opening night but is only a partial participant in camp.",
+   "ts": "1:04",
+   "quote": "Alex Sar will likely be ready for the for opening night, but partial participant in camp.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 80
+  },
+  {
+   "player": "Dereck Lively II",
+   "said_as": "Derek Lively",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Lively will not be ready for the start of the season.",
+   "ts": "1:04",
+   "quote": "We got the news about the Mavericks and Derek Lively that he won't be ready for the start of the season.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 86
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Atlanta has stability in the front office, with the head coach and in the roster.",
+   "ts": "2:36",
+   "quote": "a team with stability in the um uh front office, stability with the head coach,",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 148
+  },
+  {
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Projected starters: McCollum, Alexander-Walker, Daniels, Johnson and Okongwu. Each should play 30-plus minutes.",
+   "ts": "5:12",
+   "quote": "CJ McCullum, Nquille Alexander Walker, Dyson Daniels, Jaylen Johnson, and Anka Aongu.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 328
+  },
+  {
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Lloyd expects a 10-man rotation. The bench is Dort, Wiggins, Landale, Flemings, and probably Newell, with Kispert and Finney-Smith also in the mix.",
+   "ts": "21:10",
+   "quote": "I think they'll run a 10-man rotation for most of the season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1289
+  },
+  {
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Power forward depth is bad to start the season. A Jalen Johnson injury would turn everything upside down.",
+   "ts": "7:45",
+   "quote": "if he gets hurt, their power forward depth is bad, at least to begin the season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 478
+  },
+  {
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Several starters handle the ball, so any of them can be replaced by Dort or Wiggins. Flemings is not an automatic handcuff.",
+   "ts": "25:46",
+   "quote": "None of them are point guards, but all of them are point guards in this offense.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1580
+  },
+  {
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Center depth took a hit with Veesaar out for the season and Gueye injured.",
+   "ts": "27:48",
+   "quote": "So Vasar is done. So this center depth takes a hit.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1693
+  },
+  {
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Playoff schedule is 4-4-3 if the season ends March 28 and 4-3-4 if it ends April 4. They have 14 back-to-backs, and resting players is not a concern.",
+   "ts": "28:53",
+   "quote": "If the season ends March 28th, the Hawks play 443. Pretty good. One away from max.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1739
+  },
+  {
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Quin Snyder wants Okongwu spaced away from the rim when he plays alongside Daniels and Johnson.",
+   "ts": "14:58",
+   "quote": "when you're playing with Daniels and with Jaylen Johnson, I think that's just what Quinn Snder wants to do.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 905
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Jalen Johnson had about 26 to 27 percent usage and averaged almost 8 assists per game last season.",
+   "ts": "2:36",
+   "quote": "Jaylen Johnson had like a 26 usage or 27 usage last season. He averaged almost eight assists per game.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 176
+  },
+  {
+   "text": "Jalen Johnson finished 15th in category leagues last season and was outside the top 30 over the final two months.",
+   "ts": "9:18",
+   "quote": "He was 15th in categories last season and he was like outside the top 30 final two months.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 560
+  },
+  {
+   "text": "Jalen Johnson finished 8th in points leagues last season.",
+   "ts": "9:18",
+   "quote": "He was eighth in points last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 575
+  },
+  {
+   "text": "Okongwu finished 60th in head-to-head category leagues and 62nd in points leagues last season.",
+   "ts": "14:27",
+   "quote": "Akongu was 60th in head-to-head leagues last season to me, 62nd in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 875
+  },
+  {
+   "text": "In nine-cat rankings last season, Giannis was 60th, Lauri Markkanen 8th and Trey Murphy 11th.",
+   "ts": "13:55",
+   "quote": "you believe Giannis is the 60th best player. You have to tell me you believe that Larry Markin was eighth.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 848
+  },
+  {
+   "text": "Alexander-Walker had about 70% true shooting over the last two months, with roughly 95% from the line and 48% from three.",
+   "ts": "16:29",
+   "quote": "about 70% for a guard over the last two months which included like 95 from the line and 48 from three.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1000
+  },
+  {
+   "text": "Alexander-Walker was 35th in per-game category value and about 12th in nine-cat.",
+   "ts": "16:29",
+   "quote": "He was 35th in per game numbers categories. He's also a nine cat fluffer. I believe he was like 12th",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1009
+  },
+  {
+   "text": "Dyson Daniels' steals fell 33% to about two per game, and he shot 18% from three.",
+   "ts": "17:32",
+   "quote": "He saw his steals numbers drop by 33%. I also didn't expect him to shoot 18% from three.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1058
+  },
+  {
+   "text": "Dyson Daniels finished 59th in category leagues and 57th in points leagues last season.",
+   "ts": "18:04",
+   "quote": "So now Dyson was 59th last season, 57th in points leagues, and wouldn't you know it",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1093
+  },
+  {
+   "text": "CJ McCollum finished around 100th in both categories and points last season.",
+   "ts": "18:35",
+   "quote": "He was around the 100 mark for categories and points last season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1141
+  },
+  {
+   "text": "Aaron Wiggins finished outside the top 250 last season.",
+   "ts": "23:12",
+   "quote": "He ended up outside the top 250 in fantasy leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1406
+  },
+  {
+   "text": "Luguentz Dort was not a top 280 player last season.",
+   "ts": "24:14",
+   "quote": "He wasn't even a top 280 player last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1467
+  },
+  {
+   "text": "Trae Young went down three games into last season.",
+   "ts": "15:59",
+   "quote": "To be fair to me, I didn't expect Trey Young was going down three games in.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 969
+  }
+ ]
+}
