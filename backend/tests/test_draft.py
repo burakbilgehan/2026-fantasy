@@ -12,7 +12,7 @@ from sqlalchemy.orm import Session
 from app.db import init_db
 from app.draft import capture
 from app.draft.parser import (
-    AutopickOn, Bid, Budgets, Nomination, OnTheClock, PastPicks, Presence, Sale, Unknown,
+    AutopickOff, AutopickOn, Bid, Budgets, Nomination, OnTheClock, PastPicks, Presence, Sale, Unknown,
     parse_capture_line, parse_ws,
 )
 from app.draft.state import replay
@@ -20,13 +20,19 @@ from app.jobs.ingest_draft import ingest
 from app.models import Draft, DraftPick, DraftTeam
 
 FIXTURE = Path(__file__).parent / "fixtures" / "draft_capture_mock_2600009.jsonl.gz"
+# Second mock (2026-10-04). The user is team 8 and went on autopick, then turned it off.
+FIXTURE_2 = Path(__file__).parent / "fixtures" / "draft_capture_mock_2600536.jsonl.gz"
 LEAGUE = "2600009"
+
+
+def _rows(path):
+    with gzip.open(path, "rt", encoding="utf-8") as f:
+        return [json.loads(line) for line in f]
 
 
 @pytest.fixture(scope="module")
 def rows():
-    with gzip.open(FIXTURE, "rt", encoding="utf-8") as f:
-        return [json.loads(line) for line in f]
+    return _rows(FIXTURE)
 
 
 @pytest.fixture(scope="module")
@@ -77,9 +83,10 @@ def test_replay_fixture_budgets_match_server(rows, state):
     assert {t: partial.money_left(t) for t in partial.server_budgets} == partial.server_budgets
 
 
-def test_sale_price_equals_last_bid(rows):
+@pytest.mark.parametrize("path", [FIXTURE, FIXTURE_2], ids=["2600009", "2600536"])
+def test_sale_price_equals_last_bid(path):
     last = {}
-    for te in (te for te in map(parse_capture_line, rows) if te):
+    for te in (te for te in map(parse_capture_line, _rows(path)) if te):
         e = te.event
         if isinstance(e, (Nomination, Bid)):
             last[e.player_id] = (e.team_id, e.amount)
@@ -151,3 +158,17 @@ def test_init_db_stamps_create_all_db_at_head(tmp_path):
     init_db(engine)
     with engine.connect() as conn:
         assert conn.execute(text("SELECT version_num FROM alembic_version")).scalar() == head
+
+
+def test_replay_second_mock_autopick_on_off():
+    events = [te for te in map(parse_capture_line, _rows(FIXTURE_2)) if te]
+    state = replay(events)
+    assert state.warnings == []
+    assert sorted(state.picks) == list(range(1, 42))
+    # Team 8 (the user): `5|8` at the 01:30 timeout, `6|8` at 01:37:19 when the user turned autopick off.
+    first_off = next(i for i, te in enumerate(events) if te.event == AutopickOff(8))
+    assert 8 in replay(events[:first_off]).autopick
+    assert 8 not in replay(events[: first_off + 1]).autopick
+    assert {1, 5} <= state.autopick
+    # `X|29` came only before the user's own timeouts (2 of 2), never before other teams' (`5|5`, `5|1`).
+    assert state.unknown.get("X") == 2

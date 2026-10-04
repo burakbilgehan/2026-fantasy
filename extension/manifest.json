@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "2026-fantasy draft reader",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Read-only. Copies what the Yahoo draft room receives to the local backend. Never clicks or sends anything to Yahoo.",
   "host_permissions": [
     "https://basketball.fantasysports.yahoo.com/*",

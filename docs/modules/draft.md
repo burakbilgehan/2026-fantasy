@@ -53,10 +53,11 @@
 | `I\|team\|...` | Nomination order | inferred | `D` teams follow this order |
 | `A\|team=0/1\|...` | Who is in the room, sent on connect | inferred | Teams 6, 8, 11 = 0 and nominate in 1.0 s (bots) |
 | `J\|team`, `L\|team` | Team joined / left the room | inferred | Pairs with `A`; 5 (the user) joins on connect |
-| `5\|team` | Team is now on autopick | inferred | After `5`, team's next nomination lands at exactly 30.0 s, then all later ones at 1.0 s |
-| `6\|team` | Autopick off | inferred | Team 2: `5`, `6`, then a human-speed nomination (13.5 s) |
+| `5\|team` | Team is now on autopick | verified | Mock 2600536 (2026-10-04): `5\|8` arrived when the user (team 8) got the autopick warning after a nomination timeout. Also: after `5`, the team's next nomination lands at exactly 30.0 s, then all later ones at 1.0 s |
+| `6\|team` | Autopick off | verified | Mock 2600536 (2026-10-04): `6\|8` at 01:37:19 UTC when the user turned autopick off. While on autopick, team 8 also nominated in 1 s and placed bids (`b\|8` at 01:35:37, 01:36:21), so autopick bids too |
 | `C\|sec` | Countdown broadcast | inferred | Sent every 6 s, and on each bid with the new timer |
 | `H\|A\|30\|20\|0\|x` | Room header: A = auction, 30 = nomination s, 20 = bid s, x = draft started (0 then 1) | partly unknown | Field 4 (`0`) unknown |
+| `X\|29` | Private notice to this client: its own team timed out and goes on autopick. `29` unknown | inferred | Mock 2600536: 2 of 2 times right before `5\|8` for the user's own team (team 8), at a timeout. Never before other teams' timeouts (`5\|5`, `5\|1`). The user saw an autopick warning the first time |
 | `w\|7200\|30`, `Q`, `scout\|pick\|json` | Unknown. `scout` has Yahoo player values for open players | unknown | Ignored by the state model |
 
 - Reconnect snapshot: after a new socket, the server sends the current high bid as `b` (no `n`), then `D` with the remaining seconds, then `P` and `$`. The state model handles this (nominating team = team in that `D`, inferred).
