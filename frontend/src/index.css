@@ -290,6 +290,7 @@ table.depth tr.slot-start { border-top: 1px solid var(--line); }
 .radar .dot.off { fill: var(--muted); }
 .radar .label { font-size: 12px; fill: var(--muted); }
 .radar .label.off { text-decoration: line-through; }
+.radar .raw { fill: var(--text); font-variant-numeric: tabular-nums; }
 .radar .val { font-weight: 700; fill: var(--muted); font-variant-numeric: tabular-nums; }
 .radar .val.good { fill: var(--good); }
 .radar .val.bad { fill: var(--bad); }

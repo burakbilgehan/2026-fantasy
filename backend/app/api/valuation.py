@@ -224,4 +224,6 @@ def player_models(
                     "z": v["z"] if v else None, "total": v["total"] if v else None,
                     "rank": v["rank"] if v else None, "dollars": v["dollars"] if v else None,
                     "off": off_categories(key, v["z"], punts) if v else []})
-    return {"in_base": True, "models": out}
+    # Season totals of the base row; the drawer shows per game values next to the z (per game = total / gp).
+    stats = {f: getattr(base[player_pk], f) for f in STAT_FIELDS}
+    return {"in_base": True, "stats": stats, "models": out}

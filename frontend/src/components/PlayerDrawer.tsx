@@ -130,7 +130,18 @@ const RINGS = [-1.5, 0, 1.5, 3]
 // at the bottom. PTS between FT% and FG%; TO between BLK and AST (ball handlers).
 const RADAR_ORDER = ['tpm', 'ft_pct', 'pts', 'fg_pct', 'reb', 'blk', 'tov', 'ast', 'stl']
 
-function CategoryRadar({ m }: { m: ModelValue }) {
+// Per game value of a category from season totals (percentages: makes / attempts), as label text.
+function perGameText(stats: Record<string, number | null> | undefined, c: string): string | null {
+  if (!stats) return null
+  const v = (k: string) => stats[k] ?? 0
+  if (c === 'fg_pct' || c === 'ft_pct') {
+    const [m, a] = c === 'fg_pct' ? ['fgm', 'fga'] : ['ftm', 'fta']
+    return v(a) ? `${(100 * v(m) / v(a)).toFixed(1)}%` : null
+  }
+  return v('gp') ? (v(c) / v('gp')).toFixed(1) : null
+}
+
+function CategoryRadar({ m, stats }: { m: ModelValue; stats?: Record<string, number | null> }) {
   if (!m.z) return <p className="hint">Not valued in this base.</p>
   const z = m.z
   const cats = RADAR_ORDER
@@ -144,7 +155,7 @@ function CategoryRadar({ m }: { m: ModelValue }) {
   const shape = cats.map((c, i) => at(i, rOf(z[c])).join(',')).join(' ')
   return (
     <figure className="radar">
-      <svg viewBox="0 0 300 300" role="img"
+      <svg viewBox="-10 -10 320 320" role="img"
         aria-label={`Category z: ${cats.map((c) => `${CAT_LABEL[c]} ${z[c].toFixed(2)}`).join(', ')}`}>
         {RINGS.map((v) => <polygon key={v} points={ring(v)} className={v === 0 ? 'ring avg' : 'ring'} />)}
         {cats.map((_, i) => {
@@ -158,12 +169,14 @@ function CategoryRadar({ m }: { m: ModelValue }) {
           return <circle key={c} cx={x} cy={y} r={3.5} className={off ? 'dot off' : z[c] >= 0 ? 'dot good' : 'dot bad'} />
         })}
         {cats.map((c, i) => {
-          const [x, y] = at(i, R + 24)
+          const [x, y] = at(i, R + 30)
           const off = m.off.includes(c)
+          const raw = perGameText(stats, c)
           return (
             <text key={c} x={x} y={y} textAnchor="middle" className={off ? 'label off' : 'label'}>
-              <tspan x={x} dy="-0.2em">{CAT_LABEL[c]}</tspan>
-              <tspan x={x} dy="1.15em" className={off ? 'val' : z[c] >= 0 ? 'val good' : 'val bad'}>
+              <tspan x={x} dy={raw ? '-0.75em' : '-0.2em'}>{CAT_LABEL[c]}</tspan>
+              {raw && <tspan x={x} dy="1.1em" className="raw">{raw}</tspan>}
+              <tspan x={x} dy="1.1em" className={off ? 'val' : z[c] >= 0 ? 'val good' : 'val bad'}>
                 {z[c] >= 0 ? '+' : ''}{z[c].toFixed(1)}{off ? ' off' : ''}
               </tspan>
             </text>
@@ -171,7 +184,8 @@ function CategoryRadar({ m }: { m: ModelValue }) {
         })}
       </svg>
       <figcaption className="hint">
-        Outer edge = z +{Z_RADAR}, center = z -{Z_RADAR}. Dashed ring = pool average (z 0).
+        Under each category: per game value, then z. Outer edge = z +{Z_RADAR}, center = z -{Z_RADAR}.
+        Dashed ring = pool average (z 0).
         {m.off.length > 0 && ' Gray = not counted by this model.'}
       </figcaption>
     </figure>
@@ -294,7 +308,7 @@ export function PlayerDrawer({ playerId, query, onClose, onOpenPlayer }: Props) 
         </Section>
 
         <Section title="Category profile" note={selected ? `z per category, ${selected.label}` : undefined}>
-          {selected ? <CategoryRadar m={selected} />
+          {selected ? <CategoryRadar m={selected} stats={models.data?.stats} />
             : models.data ? <p className="hint">Not in the selected base.</p>
               : <Status error={models.error} what="category values" />}
         </Section>

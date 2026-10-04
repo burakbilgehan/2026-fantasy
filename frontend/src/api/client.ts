@@ -155,7 +155,11 @@ export type ModelValue = {
   off: string[]
 }
 
-export type PlayerModels = { in_base: boolean; models: ModelValue[] }
+export type PlayerModels = {
+  in_base: boolean
+  stats?: Record<string, number | null> // season totals of the base row
+  models: ModelValue[]
+}
 
 export type DepthPlayer = {
   player_id: number | null
@@ -249,7 +253,9 @@ function offCategories(model: string, z: Record<string, number>, cats: string[],
 }
 
 async function staticPlayerModels(id: number, q: ValuationQuery): Promise<PlayerModels> {
-  const opts = await request<ValuationOptions>('/api/valuation/options')
+  const [opts, facts] = await Promise.all([request<ValuationOptions>('/api/valuation/options'),
+    request<StaticFacts>(staticPaths(q, q.model).facts)])
+  const stats = facts.find((f) => f.player_id === id)?.stats
   const all = await Promise.all(opts.models.map((m) => staticValues(q, m.key)))
   const models: ModelValue[] = []
   let inBase = false
@@ -261,7 +267,7 @@ async function staticPlayerModels(id: number, q: ValuationQuery): Promise<Player
     models.push({ key: m.key, label: m.label, z, total: r?.[1] ?? null, rank: r?.[2] ?? null,
       dollars: r?.[3] ?? null, off: z ? offCategories(m.key, z, v.categories, q.punt) : [] })
   })
-  return { in_base: inBase, models: inBase ? models : [] }
+  return { in_base: inBase, stats, models: inBase ? models : [] }
 }
 
 export const api = {
