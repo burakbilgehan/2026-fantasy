@@ -179,11 +179,13 @@ export type Article = { slug: string; title: string; markdown: string }
 
 // Static build (GitHub Pages): the API is a set of JSON files made by `app/jobs/export_static.py`.
 export const STATIC = import.meta.env.VITE_STATIC === '1'
+const BUILD = import.meta.env.VITE_BUILD ?? ''
 
 async function request<T>(path: string, init?: RequestInit): Promise<T> {
   if (STATIC) {
     if (init?.method && init.method !== 'GET') throw new Error('Not available in the static copy.')
-    const res = await fetch(`${import.meta.env.BASE_URL}${path.slice(1).split('?')[0]}.json`)
+    // ?v=<build> so a phone never mixes a new page with JSON files cached from an older deploy.
+    const res = await fetch(`${import.meta.env.BASE_URL}${path.slice(1).split('?')[0]}.json?v=${BUILD}`)
     if (!res.ok) throw new Error(res.status === 404 ? 'Not in the static copy.' : `${res.status}`)
     return res.json() as Promise<T>
   }

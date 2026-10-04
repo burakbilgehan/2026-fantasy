@@ -111,7 +111,7 @@ PAGES_DIR ?= /tmp/2026-fantasy-pages
 pages:
 	rm -rf $(PAGES_DIR) && mkdir -p $(PAGES_DIR)
 	cd backend && uv run python -m app.jobs.export_static $(PAGES_DIR)
-	cd frontend && VITE_STATIC=1 VITE_SNAPSHOT=$$(date +%F) npx vite build --outDir $(PAGES_DIR)/site --emptyOutDir
+	cd frontend && VITE_STATIC=1 VITE_SNAPSHOT=$$(date +%F) VITE_BUILD=$$(date +%s) npx vite build --outDir $(PAGES_DIR)/site --emptyOutDir
 	mv $(PAGES_DIR)/api $(PAGES_DIR)/site/ && touch $(PAGES_DIR)/site/.nojekyll
 	cd $(PAGES_DIR)/site && git init -q -b gh-pages && git add -A && git commit -q -m "Static site snapshot" \
 		&& git push -f -q https://github.com/burakbilgehan/2026-fantasy.git gh-pages
