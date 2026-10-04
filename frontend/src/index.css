@@ -373,7 +373,10 @@ table.values td.name { padding-top: 3px; padding-bottom: 3px; }
 .drawer-title h2 { min-width: 0; }
 
 /* Zebra rows: every second player a slightly different tone, so a row is easy to follow. */
-:root { --stripe: color-mix(in oklab, var(--text) 4%, var(--raised)); }
+:root { --stripe: color-mix(in oklab, var(--text) 8%, var(--raised)); --divider: color-mix(in oklab, var(--text) 22%, var(--raised)); }
+/* A clear line between two players. */
+table.values tbody tr { border-bottom: 1px solid var(--divider); }
+.mlist .mrow:not(.mhead) { border-bottom: 1.5px solid var(--divider); }
 table.values tbody tr:nth-child(even) { background: var(--stripe); }
 table.values tbody tr:nth-child(even) .sticky { background: var(--stripe); }
 .mlist .mrow:not(.mhead):nth-child(odd) { background: var(--stripe); }
