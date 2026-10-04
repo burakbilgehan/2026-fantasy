@@ -1,0 +1,135 @@
+{
+ "player": {
+  "name": "Andrew Wiggins",
+  "slug": "andrew-wiggins",
+  "pk": 598,
+  "team": "MIA",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "22bc3dd0e7da",
+ "note_count": 6,
+ "built_at": "2026-10-04T17:22:57+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.10389019999999999,
+  "duration_ms": 22750
+ },
+ "current": [
+  {
+   "text": "He signed a 2-year, 64 million USD extension with Miami plus a player option, on top of 30 million USD this season.",
+   "kind": "fact",
+   "date": "2026-07-01",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p32"
+   ]
+  },
+  {
+   "text": "He is expected to start for Miami on the wing.",
+   "kind": "fact",
+   "date": "2026-07-01",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p32",
+    "nnWX_ObljOE:t5"
+   ]
+  },
+  {
+   "text": "Miami traded for Giannis Antetokounmpo. Miami lacks ball handlers, so Giannis will handle the ball a lot.",
+   "kind": "fact",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:t4",
+    "nnWX_ObljOE:t5"
+   ]
+  },
+  {
+   "text": "His usage was already under 20 before the Giannis trade.",
+   "kind": "fact",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p26"
+   ]
+  },
+  {
+   "text": "His usage will probably take a decent hit next to Giannis, a small hit to his value.",
+   "kind": "verdict",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p26"
+   ]
+  },
+  {
+   "text": "He is a safe, solid pick with little upside and little downside. Experts put him in tier 7 at guard and small forward, rank him above Tobias Harris and Aaron Gordon at power forward, and call him fine around pick 109.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p53",
+    "LM0cRCGoAUQ:p61",
+    "dlo7L8Ru91A:p40",
+    "W-R1dzem32s:p46"
+   ]
+  },
+  {
+   "text": "Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs, but only 10 games in the fantasy playoff weeks.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He has no clearly weak category. His line is a broad mix of threes, points, steals and blocks, and none of his categories is a big outlier.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "no category flagged weak; blocks are good for a wing",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "usage expected to drop next to Giannis Antetokounmpo",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p26"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "Miami has the fewest back-to-backs (13), none in the fantasy playoffs",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo and ESPN rank him in the high 80s to mid 90s, with values of 5 USD and 3 USD and average costs near 1 USD. That makes him a cheap, safe late fill-in for our 144-player draft, and his 4 USD price in our league last season fits that range. He has no weak category, so he slots into any punt build. Early in the season, check how much his usage and shot volume drop next to Giannis, and whether his FG% stays near last season's 47.5%.",
+ "rejected": []
+}

@@ -1,0 +1,267 @@
+{
+ "team": "POR",
+ "prompt_version": 1,
+ "prompt_sha": "07b4ed7fd28e",
+ "input_sha": "6b8affe23553",
+ "note_count": 22,
+ "built_at": "2026-10-04T20:03:41+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.2666758,
+  "duration_ms": 73921
+ },
+ "current": [
+  {
+   "text": "Portland has a crowded backcourt. Damian Lillard, Ja Morant, Jrue Holiday, Scoot Henderson and Deni Avdija all handle the ball and share the playmaking, and Shaedon Sharpe is also in the guard rotation.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:t1",
+    "dlo7L8Ru91A:t1",
+    "W-R1dzem32s:t1",
+    "Rqb5GdrSweY:t6",
+    "ME-r173X5b0:t3",
+    "YJk7ZFKFqnI:t0",
+    "bHA-JoW3reE:t0",
+    "stats"
+   ]
+  },
+  {
+   "text": "Morant, Lillard and Henderson are all back. They are on-ball point guards who played about 15 games combined last season.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:t1"
+   ]
+  },
+  {
+   "text": "Lillard, Morant, Henderson and Avdija cannot all keep last season's usage. The guard crowding adds risk to Lillard.",
+   "kind": "verdict",
+   "date": "2026-09-01",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:t9",
+    "80kfLVnFQ_s:t0"
+   ]
+  },
+  {
+   "text": "The new guards cut Avdija's on-ball role, usage and passing.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "dlo7L8Ru91A:t1",
+    "W-R1dzem32s:t1"
+   ]
+  },
+  {
+   "text": "Projected starting five: Lillard, Morant, Toumani Camara, Avdija and Donovan Clingan.",
+   "kind": "fact",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t1",
+    "bHA-JoW3reE:t2",
+    "stats"
+   ]
+  },
+  {
+   "text": "Portland is expected to stagger Lillard and Morant but still close games with both on the floor.",
+   "kind": "verdict",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t2"
+   ]
+  },
+  {
+   "text": "Minutes and usage are expected to swing from game to game across the rotation.",
+   "kind": "verdict",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t5"
+   ]
+  },
+  {
+   "text": "Forward depth is very thin. Avdija and Camara are the only real forwards, and Jeremy Sochan is the backup power forward on the depth chart. Jerami Grant, Matisse Thybulle, Kris Murray, Caleb Love and Blake Wesley are gone.",
+   "kind": "fact",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t0",
+    "bHA-JoW3reE:t0",
+    "stats"
+   ]
+  },
+  {
+   "text": "Portland added several centers. Clingan starts, with Robert Williams III behind him on the depth chart and Yang Hansen also at center.",
+   "kind": "fact",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t0",
+    "bHA-JoW3reE:t3",
+    "stats"
+   ]
+  },
+  {
+   "text": "Clingan is not expected to play more than 28 minutes.",
+   "kind": "verdict",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "OdDkXFhoKsc:t3"
+   ]
+  },
+  {
+   "text": "Portland wants bigs who stay out of the paint so that Avdija and Morant can drive downhill.",
+   "kind": "verdict",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t3"
+   ]
+  },
+  {
+   "text": "Camara, Clingan and Avdija are poor finishers, which lowers how many passes Portland's guards turn into assists.",
+   "kind": "verdict",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:t7"
+   ]
+  },
+  {
+   "text": "Transition defense is projected to be poor, and offensive rebounding got worse.",
+   "kind": "verdict",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t2"
+   ]
+  },
+  {
+   "text": "The projection is about 44 wins, in a 40 to 45 range, which makes Portland a likely playoff or play-in team. The win total of 43.5 ranks 15th of 30, so late-season tanking looks unlikely.",
+   "kind": "verdict",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t4",
+    "stats"
+   ]
+  },
+  {
+   "text": "Portland has been rumored in a trade for Jaylen Brown. Such a deal would likely send out Henderson or another guard.",
+   "kind": "fact",
+   "date": "2026-06-29",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:t1"
+   ]
+  },
+  {
+   "text": "A consolidation trade that clears the guard logjam is considered unlikely.",
+   "kind": "verdict",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t5"
+   ]
+  },
+  {
+   "text": "The notes do not name a head coach. Portland still had none the day before the June draft, so coach habits are unknown.",
+   "kind": "fact",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
+    "-rgXhs5BHiw:t4"
+   ]
+  },
+  {
+   "text": "In the fantasy playoffs Portland has 10 games (17th of 30) and a back-to-back in each of weeks 19, 20 and 21. That adds rest risk for injury-prone players like Lillard, Morant and Williams.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t6",
+    "stats"
+   ]
+  },
+  {
+   "text": "Portland has a five-game week starting February 8.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t10"
+   ]
+  }
+ ],
+ "durable": [],
+ "tags": [
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "10 games in weeks 19 to 21 (17th of 30), with a back-to-back in each of the three weeks.",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t6",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "crowded backcourt",
+   "channel": "current",
+   "detail": "Lillard, Morant, Holiday, Henderson, Avdija and Sharpe share the ball and the guard minutes.",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:t9",
+    "Rqb5GdrSweY:t6",
+    "ME-r173X5b0:t3",
+    "LM0cRCGoAUQ:t1",
+    "W-R1dzem32s:t1"
+   ],
+   "new_meaning": "The team has more ball-handling guards than its minutes and usage can support, so their roles shrink."
+  },
+  {
+   "name": "thin frontcourt",
+   "channel": "current",
+   "detail": "Avdija and Camara are the only real forwards. Sochan is the backup power forward.",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t0",
+    "bHA-JoW3reE:t0",
+    "stats"
+   ],
+   "new_meaning": "The team has very little depth at forward or center."
+  },
+  {
+   "name": "unstable rotation",
+   "channel": "current",
+   "detail": "Minutes and usage are expected to swing from game to game.",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t5"
+   ],
+   "new_meaning": "Minutes and usage are expected to change a lot from game to game, so weekly output is hard to predict."
+  },
+  {
+   "name": "playoff contender",
+   "channel": "current",
+   "detail": "Projected about 44 wins (40 to 45). Win total 43.5 ranks 15th of 30.",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t4",
+    "stats"
+   ],
+   "new_meaning": "Expected to compete for a playoff or play-in spot, so late-season tanking is unlikely."
+  }
+ ],
+ "note": "Portland is too crowded at guard for everyone to keep last season's usage. That lowers the value of Avdija, Lillard, Morant, Henderson and Holiday, and it makes cheap prices on those guards safer than expensive ones. Clingan should play no more than about 28 minutes, and with forwards this thin, Camara's role stays steady. Early on, watch who closes games, how the minutes swing, and any guard trade (such as the rumored Jaylen Brown deal), since the playoff schedule is weak with a back-to-back in each week.",
+ "rejected": []
+}

@@ -1,0 +1,221 @@
+{
+ "player": {
+  "name": "Dejounte Murray",
+  "slug": "dejounte-murray",
+  "pk": 399,
+  "team": "NOP",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "30af96a09bab",
+ "note_count": 15,
+ "built_at": "2026-10-04T17:29:19+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.15359420000000001,
+  "duration_ms": 40640
+ },
+ "current": [
+  {
+   "text": "He came back from a torn Achilles last season and played on limited minutes. He still finished about 53rd per game.",
+   "kind": "fact",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p7",
+    "ahNxsoU8Hx4:p17",
+    "J1Eg3uaAICU:p37"
+   ]
+  },
+  {
+   "text": "He is expected to start at point guard for the Pelicans. He is still the team's best point guard, ahead of Jeremiah Fears.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t1",
+    "egRrai3Ax38:p7",
+    "egRrai3Ax38:t1"
+   ]
+  },
+  {
+   "text": "Experts expect more minutes and better shooting this season. They say he should not start on a minutes restriction and that Jeremiah Fears will not keep him off the floor. One projection has him at about 33 minutes and 25 usage.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p7",
+    "J1Eg3uaAICU:p37",
+    "7BllEsdNLoM:p27"
+   ]
+  },
+  {
+   "text": "One expert does not expect him to sit back-to-backs.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p17"
+   ]
+  },
+  {
+   "text": "Experts see him as undervalued on every site. One sees him as a top 30 to 35 player. They like him in round 4 or even round 3 and prefer him to Derrick White. One expert called a pick at 47 in a mock draft a good one. His ESPN price is also seen as no concern.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p19",
+    "XnIWJyBB0EM:p6",
+    "egRrai3Ax38:p7",
+    "egRrai3Ax38:p8",
+    "ahNxsoU8Hx4:p17",
+    "7BllEsdNLoM:p27",
+    "J1Eg3uaAICU:p37",
+    "OdDkXFhoKsc:p25"
+   ]
+  },
+  {
+   "text": "He turned 70% of his deflections into steals last season. If that rate regresses, more minutes may not bring more steals.",
+   "kind": "verdict",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p15"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He has a torn Achilles in his injury history.",
+   "kind": "fact",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p7",
+    "ahNxsoU8Hx4:p17",
+    "J1Eg3uaAICU:p37"
+   ]
+  },
+  {
+   "text": "Steals and assists are his best categories. One expert thinks he could be a two-steals player.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats",
+    "J1Eg3uaAICU:p38"
+   ]
+  },
+  {
+   "text": "He rebounds well for a guard.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Turnovers are his clear weak category. He turns the ball over far more than the player pool does.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He is not a lights-out shooter. He can make threes but does not space the floor.",
+   "kind": "verdict",
+   "date": "2026-08-03",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:p11"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "high TO",
+   "channel": "durable",
+   "detail": "about 3.2 turnovers per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "came back from a torn Achilles on limited minutes",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p7",
+    "J1Eg3uaAICU:p37"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "no minutes restriction expected, about 33 minutes projected",
+   "until": "",
+   "sources": [
+    "J1Eg3uaAICU:p37",
+    "7BllEsdNLoM:p27",
+    "egRrai3Ax38:p7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "Yahoo average cost about 2 USD, experts see top 30 to 35 upside",
+   "until": "",
+   "sources": [
+    "XnIWJyBB0EM:p6",
+    "ahNxsoU8Hx4:p17",
+    "egRrai3Ax38:p7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "liked in rounds 3 to 4, ahead of ADP around 67",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p27",
+    "J1Eg3uaAICU:p37",
+    "BjXP9JODDSg:p19"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 18 USD vs ESPN value 8 USD; ESPN ADP about 105 vs Yahoo about 67",
+   "until": "",
+   "sources": [
+    "stats",
+    "egRrai3Ax38:p8"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "His prices sit far below the expert view: Yahoo value 18 USD with a Yahoo average cost of only 2.2 USD, ESPN value 8 USD and ESPN cost 7.0 USD. Experts rank him as high as top 30 to 35. He looks like one of the best auction bargains for us, and paying in the high teens still leaves profit if he plays 33 minutes. He is a strong fit for punt TO builds, which ignore his roughly 3.2 turnovers, and he adds steals, assists and guard rebounds. Early in the season, check his minutes, his FG% recovery and whether Jeremiah Fears takes any guard minutes. The finals-week schedule worry is about Yahoo's April 4 end and does not apply to our March 28 season.",
+ "rejected": []
+}

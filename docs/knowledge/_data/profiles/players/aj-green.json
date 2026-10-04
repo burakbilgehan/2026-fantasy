@@ -1,0 +1,111 @@
+{
+ "player": {
+  "name": "AJ Green",
+  "slug": "aj-green",
+  "pk": 206,
+  "team": "MIL",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "2f241ce80c8c",
+ "note_count": 1,
+ "built_at": "2026-10-04T17:21:41+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1486048,
+  "duration_ms": 28957
+ },
+ "current": [
+  {
+   "text": "He is on a deal of about 10 million USD with four more years left.",
+   "kind": "fact",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p18"
+   ]
+  },
+  {
+   "text": "He does not fit Milwaukee's new direction, so he is a trade candidate.",
+   "kind": "verdict",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p18"
+   ]
+  },
+  {
+   "text": "Milwaukee's backcourt is crowded. Rollins, Herro, Porter, Jakucionis, Burries, Trent and Green all compete for guard minutes, and the roster is heavy on small shooting guards.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t4",
+    "7BllEsdNLoM:t0",
+    "sTtFUy7IoJI:t8",
+    "owlM6b8oUd0:t0"
+   ]
+  },
+  {
+   "text": "He is not in the projected starting five of Rollins, Herro, Jaquez, Ware and Turner.",
+   "kind": "verdict",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:t2"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a valuable shooter. Threes are his only clearly positive category, and he adds little in points, rebounds, assists, steals or blocks.",
+   "kind": "verdict",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p18",
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "trade risk",
+   "channel": "current",
+   "detail": "Does not fit Milwaukee's new direction and is named as a trade candidate.",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p18"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Crowded guard group: Rollins, Herro, Porter, Jakucionis, Burries and Trent.",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t4",
+    "7BllEsdNLoM:t0",
+    "sTtFUy7IoJI:t8",
+    "owlM6b8oUd0:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "ESPN projects 25.4 minutes after 29.1 last season. More guards were added in front of him.",
+   "until": "",
+   "sources": [
+    "stats",
+    "ZYllcj4o6_A:t4"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo ranks him 262 and ESPN ranks him 236, and both price him at 0 USD. That puts him outside the 144 players drafted in our league, so do not draft him. His one useful category is threes (2.5 projected per game), so he only fits as a waiver pickup for a team chasing 3PM, and he gives little elsewhere. Early in the season, check his minutes in Taylor Jenkins' crowded guard rotation and whether Milwaukee trades him.",
+ "rejected": []
+}

@@ -1,0 +1,151 @@
+{
+ "player": {
+  "name": "Nate Ament",
+  "slug": "nate-ament",
+  "pk": 16,
+  "team": "MIL",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "ae7596f4e701",
+ "note_count": 7,
+ "built_at": "2026-10-04T17:44:20+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.19366879999999997,
+  "duration_ms": 48352
+ },
+ "current": [
+  {
+   "text": "He is a rookie. The Bucks drafted him 13th overall in 2026.",
+   "kind": "fact",
+   "date": "2026-06-28",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p29",
+    "RsjGTgJiKyI:p24",
+    "lOshTzDA4SA:p26"
+   ]
+  },
+  {
+   "text": "He had a bad summer league: about 10 points and 5 rebounds per game, only 0.4 blocks, and he missed his free throws.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p18"
+   ]
+  },
+  {
+   "text": "He had a back injury over the summer.",
+   "kind": "fact",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p14"
+   ]
+  },
+  {
+   "text": "He is not among the projected Bucks starters. The projected starters are Rollins, Herro, Jaquez, Ware and Turner.",
+   "kind": "fact",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:t2"
+   ]
+  },
+  {
+   "text": "His path to NBA minutes looks weak right now.",
+   "kind": "verdict",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p14"
+   ]
+  },
+  {
+   "text": "Experts rank him below his draft slot. Several think he was not worth the 13th pick and that he might just be a bad player.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p26",
+    "CLsUc0Sevos:p29",
+    "LUTYUdXBG1M:p18",
+    "RsjGTgJiKyI:p24",
+    "-rgXhs5BHiw:p6"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Experts say his shooting and efficiency numbers are horrific and doubt his shooting and scoring.",
+   "kind": "verdict",
+   "date": "2026-06-26",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p29",
+    "-rgXhs5BHiw:p6",
+    "HxQjagSTTAM:p13"
+   ]
+  },
+  {
+   "text": "Before the NBA he scored in high volume and rebounded well.",
+   "kind": "fact",
+   "date": "2026-06-22",
+   "until": "",
+   "sources": [
+    "HxQjagSTTAM:p13"
+   ]
+  },
+  {
+   "text": "He has size, an interesting frame and scoring upside.",
+   "kind": "verdict",
+   "date": "2026-06-26",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p29",
+    "-rgXhs5BHiw:p6"
+   ]
+  },
+  {
+   "text": "He might be an okay defender, but experts want more blocks from him than he has shown.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "-rgXhs5BHiw:p6",
+    "HxQjagSTTAM:p13",
+    "LUTYUdXBG1M:p18"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "rookie",
+   "channel": "current",
+   "detail": "13th overall pick by the Bucks in 2026",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p29",
+    "RsjGTgJiKyI:p24"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Not in the projected starting five; experts see a weak path to minutes",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p14",
+    "owlM6b8oUd0:t2"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites price him at 0 USD and rank him 689 (Yahoo) and 294 (ESPN). That is far outside the 144 players our league drafts, so do not draft him. His projected line is weak: 8 points on 42.6% FG and no category with a real edge (blocks are only about average). Early in the season, check whether Taylor Jenkins gives him minutes at power forward, which a team note calls Milwaukee's weakest position. If he gets those minutes, keep an eye on him as a waiver option.",
+ "rejected": []
+}

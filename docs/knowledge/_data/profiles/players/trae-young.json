@@ -1,0 +1,332 @@
+{
+ "player": {
+  "name": "Trae Young",
+  "slug": "trae-young",
+  "pk": 617,
+  "team": "WAS",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "a0d27a34c56c",
+ "note_count": 25,
+ "built_at": "2026-10-04T17:50:10+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1849902,
+  "duration_ms": 54331
+ },
+ "current": [
+  {
+   "text": "He re-signed with Washington on a 4-year, 213 million deal.",
+   "kind": "fact",
+   "date": "2026-07-01",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p16"
+   ]
+  },
+  {
+   "text": "He is in Washington's projected starting five with Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t1"
+   ]
+  },
+  {
+   "text": "He will be Washington's starting point guard and offensive engine, ahead of Carrington, and will handle the ball the most. His role is secure.",
+   "kind": "verdict",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p22",
+    "UTE0dNIv8nY:p15",
+    "7BllEsdNLoM:p19"
+   ]
+  },
+  {
+   "text": "Last season's numbers came in about 25 minutes a game and do not guide this season. Experts project 33 to 35 minutes, about 29% usage and likely double-digit assists.",
+   "kind": "verdict",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p19",
+    "ME-r173X5b0:p19",
+    "-KS_AZjZnw4:p23"
+   ]
+  },
+  {
+   "text": "His usage will not return to the 37 to 38% of his peak. Davis, Dybantsa, Kyshawn George and Sarr may take some of it.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:p16",
+    "DubdKKhMWHo:p4"
+   ]
+  },
+  {
+   "text": "In his few games with Washington his usage went down and his assist rate went up.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:p15"
+   ]
+  },
+  {
+   "text": "His efficiency last season was the best of his career (69% at the rim, 55.7% on twos, 62 true shooting). Experts doubt it holds. If it did at 35 minutes, he would be about a top-15 player.",
+   "kind": "verdict",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p14"
+   ]
+  },
+  {
+   "text": "With more minutes his rebounds should rise to about three a game.",
+   "kind": "verdict",
+   "date": "2026-07-07",
+   "until": "",
+   "sources": [
+    "ME-r173X5b0:p19"
+   ]
+  },
+  {
+   "text": "Experts are not worried about his health. Last season was a single injury year and should not cause overreaction.",
+   "kind": "verdict",
+   "date": "2026-08-24",
+   "until": "",
+   "sources": [
+    "g31YlwRe0XQ:p12",
+    "J1Eg3uaAICU:p22"
+   ]
+  },
+  {
+   "text": "Washington is done rebuilding and is trying to make the playoffs, so the late-season rest and minutes cuts of past years should not happen.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t0"
+   ]
+  },
+  {
+   "text": "Experts disagree on his price. Josh sees value at pick 26 and was surprised he lasted past round 2, but would be surprised if he finished top 20. Other experts call mid or late round 2 too early, rank him about 26th or 27th and prefer him in round 3 or later. In the newest mock he went slightly early in round 3. One range given: best case 13th, worst case 78th.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p10",
+    "_vbAP5y182A:p12",
+    "QbdrhJd7LiA:p33",
+    "uarqbNA2dFk:p2",
+    "DubdKKhMWHo:p4",
+    "KPdD91Oo8-U:p5"
+   ]
+  },
+  {
+   "text": "He is most useful for a team that badly needs assists.",
+   "kind": "verdict",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p2"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "One of the best passers in the NBA, called a top-five passer. Assists are his best category by far.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p21",
+    "UTE0dNIv8nY:p17",
+    "stats"
+   ]
+  },
+  {
+   "text": "A multiple-time All-Star with a long record of about 20 points and 10 assists a game.",
+   "kind": "fact",
+   "date": "2026-07-20",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p21"
+   ]
+  },
+  {
+   "text": "A strong free throw shooter on high volume who lifts a team's FT%.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "His FG% is low on high volume and hurts a team's FG%. He is closer to a 35% three-point shooter than a 38% one.",
+   "kind": "fact",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p24",
+    "7BllEsdNLoM:p20",
+    "stats"
+   ]
+  },
+  {
+   "text": "He commits many turnovers, among the most in the player pool.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "His rebounds and blocks are low, and his steals are only modest.",
+   "kind": "fact",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p20",
+    "stats"
+   ]
+  },
+  {
+   "text": "One of the worst defenders in the NBA.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p21",
+    "UTE0dNIv8nY:p17"
+   ]
+  },
+  {
+   "text": "He is not injury prone. Last season is his only year with real missed time, and much of that was overstated.",
+   "kind": "verdict",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p18"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "AST specialist",
+   "channel": "durable",
+   "detail": "top-five passer, about 10 to 11 assists projected",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p21",
+    "UTE0dNIv8nY:p17",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "FT% anchor",
+   "channel": "durable",
+   "detail": "about 86% on 7 attempts",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "FG% liability",
+   "channel": "durable",
+   "detail": "about 42% on 17 attempts",
+   "until": "",
+   "sources": [
+    "stats",
+    "7BllEsdNLoM:p20"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "high TO",
+   "channel": "durable",
+   "detail": "about 4.2 per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt FG fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bounce-back",
+   "channel": "current",
+   "detail": "injury year at about 25 minutes; 33 to 35 minutes projected",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p23",
+    "-KS_AZjZnw4:p27",
+    "7BllEsdNLoM:p19"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "about 15 games played",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p33",
+    "-y6p5PYLf00:p14"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "minutes from about 25 to a projected 33 to 35",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p19",
+    "ME-r173X5b0:p19"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 38 USD and rank 18, ESPN value 12 USD and rank 47",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo values him at 38 USD and ESPN at only 12 USD, but both sites' average cost is about 33 USD, and he cost 44 USD in our auction last season. The expert consensus of round 3 or later puts his fair price below 44 USD. He fits punt FG% and punt TO builds best, because he brings elite assists and FT% and costs you only in FG% and turnovers. Early in the season, check that he plays 33 or more minutes and how much usage he keeps next to Davis and Dybantsa.",
+ "rejected": []
+}

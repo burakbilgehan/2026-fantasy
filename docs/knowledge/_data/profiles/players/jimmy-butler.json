@@ -1,0 +1,255 @@
+{
+ "player": {
+  "name": "Jimmy Butler III",
+  "slug": "jimmy-butler",
+  "pk": 78,
+  "team": "GSW",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "4405c9b5f01f",
+ "note_count": 10,
+ "built_at": "2026-10-04T17:36:17+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.15399020000000002,
+  "duration_ms": 43069
+ },
+ "current": [
+  {
+   "text": "He is recovering from a torn ACL and will not be ready to start the season. Yahoo lists him as out with a knee injury.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p23",
+    "KPdD91Oo8-U:p31",
+    "E-KmhvyZ2CU:p29",
+    "LXZLrL90crE:p13",
+    "xHRF06_E9HE:p34",
+    "NYTH7uQsPCM:t6",
+    "OBwWCxG9SqM:t4",
+    "stats"
+   ]
+  },
+  {
+   "text": "Experts expect him back in January. Christmas is the earliest return, and one expert also says it could be February.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p23",
+    "KPdD91Oo8-U:p31",
+    "E-KmhvyZ2CU:p29",
+    "LXZLrL90crE:p14",
+    "OdDkXFhoKsc:p61"
+   ]
+  },
+  {
+   "text": "Experts expect limited minutes after his return, and they expect him to sit out back-to-backs.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p23",
+    "LXZLrL90crE:p14",
+    "gf_6GveiAls:p12"
+   ]
+  },
+  {
+   "text": "Golden State has 15 back-to-backs, tied for second most in the league.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t4",
+    "MUbNYdjpUDM:t4"
+   ]
+  },
+  {
+   "text": "The Warriors schedule is good for fantasy playoffs that end March 28.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t4"
+   ]
+  },
+  {
+   "text": "Golden State is reportedly treating this season as a gap year.",
+   "kind": "fact",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:t0"
+   ]
+  },
+  {
+   "text": "The team is worried about lottery odds and may rest veterans, so this could be a throwaway season.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t0"
+   ]
+  },
+  {
+   "text": "Draft him only after round 12, as a stash in an injury slot. Drop him once you need that slot.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p24",
+    "E-KmhvyZ2CU:p29",
+    "OdDkXFhoKsc:p61",
+    "KPdD91Oo8-U:p31"
+   ]
+  },
+  {
+   "text": "His return will cut into the value of the other Warriors wings.",
+   "kind": "verdict",
+   "date": "2026-07-14",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:p34",
+    "xHRF06_E9HE:t8"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is 37 years old.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p23"
+   ]
+  },
+  {
+   "text": "His game relies on IQ, cutting, physicality and drawing free throws, not on explosiveness.",
+   "kind": "verdict",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:p15"
+   ]
+  },
+  {
+   "text": "He makes few threes for a forward.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "injured now",
+   "channel": "current",
+   "detail": "Torn ACL recovery. Yahoo status O (Knee).",
+   "until": "January",
+   "sources": [
+    "MUbNYdjpUDM:p23",
+    "E-KmhvyZ2CU:p29",
+    "LXZLrL90crE:p13",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "Torn ACL. Played 38 games in 2025-26.",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p23",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "slow start",
+   "channel": "current",
+   "detail": "Out until about January, then limited minutes.",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p23",
+    "LXZLrL90crE:p14"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "back-to-back risk",
+   "channel": "current",
+   "detail": "Expected to sit all back-to-backs after his return. GSW has 15.",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p23",
+    "LXZLrL90crE:p14",
+    "gf_6GveiAls:p12",
+    "gf_6GveiAls:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "shutdown risk",
+   "channel": "current",
+   "detail": "Gap year talk. The team may rest veterans to protect its lottery odds.",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t0",
+    "LXZLrL90crE:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "Good for playoffs ending March 28.",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Valued after round 12. Watch him near his return in January.",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p24",
+    "E-KmhvyZ2CU:p29",
+    "OdDkXFhoKsc:p61"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "age decline watch",
+   "channel": "durable",
+   "detail": "Age 37, coming off a torn ACL.",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p23"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt 3PM fit",
+   "channel": "durable",
+   "detail": "About 0.7 threes per game.",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites give him 0 USD of value (Yahoo rank 154, ESPN rank 214), and the experts say not before round 12. In our 12-round draft, that puts him outside the draft pool, far below the 22 USD our league paid last season. If you have a spare IL slot, a 1 USD stash could make sense, since his ESPN projection still holds up per game (FT% on 7.4 attempts, 1.4 steals, 5.1 assists, and he fits punt 3PM). Otherwise, watch his rehab news in December and January, his minutes limit and how often he sits back-to-backs, then pick him up from waivers when he is close to returning.",
+ "rejected": []
+}

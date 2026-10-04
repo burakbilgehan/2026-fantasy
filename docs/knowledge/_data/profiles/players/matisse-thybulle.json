@@ -1,0 +1,149 @@
+{
+ "player": {
+  "name": "Matisse Thybulle",
+  "slug": "matisse-thybulle",
+  "pk": 552,
+  "team": "LAL",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "a131bb31b351",
+ "note_count": 4,
+ "built_at": "2026-10-04T17:42:00+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1099782,
+  "duration_ms": 25409
+ },
+ "current": [
+  {
+   "text": "The Lakers' two open starting spots are mainly contested by Grimes, LaRavia and Mamukelashvili, and Ziaire Williams might also start. Thybulle is not named in that group.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "_WjOjp6Qu8E:t1",
+    "BjXP9JODDSg:t8"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He has very high deflection and steal rates. His steal rate is higher than Dyson Daniels'.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p29",
+    "_WjOjp6Qu8E:p23",
+    "ME-r173X5b0:p28"
+   ]
+  },
+  {
+   "text": "Steals are his one real outlier category, far above the top 250 pool.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Experts call him an elite steals and blocks wing who would lead the league in steals if he played 30 minutes.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p29",
+    "ME-r173X5b0:p28"
+   ]
+  },
+  {
+   "text": "He does not bring shooting upside.",
+   "kind": "verdict",
+   "date": "2026-08-04",
+   "until": "",
+   "sources": [
+    "_WjOjp6Qu8E:p23"
+   ]
+  },
+  {
+   "text": "He gives very little in points and rebounds, even for a wing.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He has a history of knee and ankle injury concerns.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p29"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "STL specialist",
+   "channel": "durable",
+   "detail": "about 1.9 steals per game in under 20 minutes; elite deflection and steal rates",
+   "until": "",
+   "sources": [
+    "stats",
+    "ZYllcj4o6_A:p29",
+    "ME-r173X5b0:p28",
+    "_WjOjp6Qu8E:p23"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt PTS fit",
+   "channel": "durable",
+   "detail": "about 6 points per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt REB fit",
+   "channel": "durable",
+   "detail": "about 2 rebounds per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "knee and ankle concerns",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p29"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Grimes, LaRavia, Mamukelashvili and Ziaire Williams are the names for the open Lakers starting spots",
+   "until": "",
+   "sources": [
+    "_WjOjp6Qu8E:t1",
+    "BjXP9JODDSg:t8"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites price him at 0 USD (Yahoo rank 343, ESPN rank 219), and nobody drafted him in our league last season. So he is outside our 144-player draft pool. He is a one-category steals specialist who fits punt PTS and punt REB builds. Early in the season, check whether his minutes rise above the 16 per game he played last season and whether he stays healthy; if both happen, he is a waiver pickup for steals. One note calls him probably a top 50 player at Yahoo rank 83, but his real Yahoo rank is 343, so that note is likely about another player and is left out.",
+ "rejected": []
+}

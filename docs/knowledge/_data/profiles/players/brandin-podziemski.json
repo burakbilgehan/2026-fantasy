@@ -1,0 +1,251 @@
+{
+ "player": {
+  "name": "Brandin Podziemski",
+  "slug": "brandin-podziemski",
+  "pk": 446,
+  "team": "GSW",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "df4972aff85c",
+ "note_count": 15,
+ "built_at": "2026-10-04T17:25:15+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1802782,
+  "duration_ms": 53893
+ },
+ "current": [
+  {
+   "text": "Experts expect him to start for Golden State and to play over 30 minutes per game. Steve Kerr likes him.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p6",
+    "MUbNYdjpUDM:t3",
+    "LXZLrL90crE:p4",
+    "LXZLrL90crE:p5",
+    "LXZLrL90crE:t1",
+    "W-R1dzem32s:p43",
+    "7BllEsdNLoM:p47",
+    "OBwWCxG9SqM:t4"
+   ]
+  },
+  {
+   "text": "Jimmy Butler is out for at least half the season. Moses Moody is out at the start of the season.",
+   "kind": "fact",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:t6",
+    "QbdrhJd7LiA:p40",
+    "uarqbNA2dFk:p45",
+    "OBwWCxG9SqM:t4"
+   ]
+  },
+  {
+   "text": "With Butler out, he could handle the ball more and have a strong early run of assists. Butler's return will change the rotation again.",
+   "kind": "verdict",
+   "date": "2026-07-17",
+   "until": "Butler returns",
+   "sources": [
+    "NYTH7uQsPCM:p34",
+    "xHRF06_E9HE:t8"
+   ]
+  },
+  {
+   "text": "Golden State has no shot creator besides Steph Curry, and its depth is very thin.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t2",
+    "2A2JbUN-kc0:t3",
+    "7BllEsdNLoM:t6",
+    "W-R1dzem32s:t3",
+    "LXZLrL90crE:t4"
+   ]
+  },
+  {
+   "text": "His role is secure on a thin team. He projects around 20% usage, with gains expected in threes, rebounds, steals, assists and points.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "g31YlwRe0XQ:p39",
+    "W-R1dzem32s:p43"
+   ]
+  },
+  {
+   "text": "He finished 136th last season but ranked 61st after the All-Star break, when he played about 32 minutes a game.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p4",
+    "xHRF06_E9HE:p36"
+   ]
+  },
+  {
+   "text": "A top 100 season is likely.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p6",
+    "MUbNYdjpUDM:p4",
+    "QbdrhJd7LiA:p40"
+   ]
+  },
+  {
+   "text": "His ESPN rank of 66 is far too high. His Yahoo rank around 116 to 120 is good value, more so in category leagues. He is fine around pick 100 and is the best Warriors target.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p6",
+    "MUbNYdjpUDM:p5",
+    "MUbNYdjpUDM:p6",
+    "uarqbNA2dFk:p45",
+    "QbdrhJd7LiA:p40",
+    "7BllEsdNLoM:p47"
+   ]
+  },
+  {
+   "text": "One expert expects him to start the season well and then fade along with the rest of the Warriors.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "E-KmhvyZ2CU:p22",
+    "E-KmhvyZ2CU:t1"
+   ]
+  },
+  {
+   "text": "The Warriors schedule is good for fantasy playoffs that end March 28. It includes 15 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t4",
+    "gf_6GveiAls:t4"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He has tended to start seasons slowly and has struggled in the playoffs.",
+   "kind": "fact",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:p6"
+   ]
+  },
+  {
+   "text": "His category profile is balanced, with no weak category except low blocks.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "Projected starter at 30+ minutes with Butler and Moody out",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:p4",
+    "LXZLrL90crE:p5",
+    "ZYllcj4o6_A:p6",
+    "W-R1dzem32s:p43"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "breakout",
+   "channel": "current",
+   "detail": "136th last season, likely top 100 this season",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p6",
+    "MUbNYdjpUDM:p4",
+    "QbdrhJd7LiA:p40"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "Good value at Yahoo rank 116 to 120",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p5",
+    "7BllEsdNLoM:p47"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "Best Warriors target",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p6",
+    "ZYllcj4o6_A:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "At ESPN rank 66 only",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p6",
+    "MUbNYdjpUDM:p5",
+    "uarqbNA2dFk:p45"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 117 and 1 USD, ESPN rank 66 and 7 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "Good for a March 28 end, but 15 back-to-backs",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo values him at 1 USD and ranks him 117th, so in our 144-player auction he is a late pick costing 1 to 3 USD, not a 7 USD ESPN-style buy. He has no weak category and is strong on rebounds for a guard (z +1.2 vs guards), so he fits any build as an end-of-draft starter. In the early weeks, check that he starts and plays 30+ minutes, and that his assists go up while Butler is out.",
+ "rejected": []
+}

@@ -1,0 +1,169 @@
+{
+ "player": {
+  "name": "Cason Wallace",
+  "slug": "cason-wallace",
+  "pk": 582,
+  "team": "OKC",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "d4f8a9285b7b",
+ "note_count": 9,
+ "built_at": "2026-10-04T17:26:24+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1435382,
+  "duration_ms": 39031
+ },
+ "current": [
+  {
+   "text": "OKC traded away Lu Dort, Isaiah Joe and Aaron Wiggins to cut salary and replaced them with rookies and unproven young players.",
+   "kind": "fact",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:t0",
+    "75Sk_4fkgIM:t1",
+    "Alwse2uXzD4:t0",
+    "gJUBAJaHzlU:t4",
+    "-KS_AZjZnw4:t7"
+   ]
+  },
+  {
+   "text": "Experts expect him to start in Lu Dort's old spot.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p39",
+    "7BllEsdNLoM:p54",
+    "Alwse2uXzD4:p18",
+    "75Sk_4fkgIM:p11",
+    "Alwse2uXzD4:t0"
+   ]
+  },
+  {
+   "text": "As a starter he should play a 3-and-D role, with possible upside as a secondary playmaker off the catch.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p12",
+    "ZYllcj4o6_A:p39"
+   ]
+  },
+  {
+   "text": "Last season he played lead guard and lead scorer when SGA, Jalen Williams and Ajay Mitchell were out, and OKC chose him over Mitchell for the extra ball-handling role.",
+   "kind": "fact",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p13",
+    "75Sk_4fkgIM:p14"
+   ]
+  },
+  {
+   "text": "Ryland expects him to get more on-ball chances in bench minutes as the season goes on.",
+   "kind": "verdict",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p13"
+   ]
+  },
+  {
+   "text": "Ajay Mitchell and Jared McCain are also expected to get more minutes in the OKC guard rotation.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:t0",
+    "RyzcCGChYgs:t0"
+   ]
+  },
+  {
+   "text": "He is in the final year of his rookie deal, heading toward restricted free agency. He has said he wants a bigger role.",
+   "kind": "fact",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p15"
+   ]
+  },
+  {
+   "text": "He has to be drafted, but not too high. Experts say his market rank and ADP already price him fairly for category leagues.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p39",
+    "W-R1dzem32s:p45",
+    "Alwse2uXzD4:p18"
+   ]
+  },
+  {
+   "text": "Do not let his steals inflate his value.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p45",
+    "7BllEsdNLoM:p54"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Steals are his standout category and are far above the top 250 pool. His other categories are modest, with low points and rebounds.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats",
+    "ZYllcj4o6_A:p39",
+    "7BllEsdNLoM:p54"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "STL specialist",
+   "channel": "durable",
+   "detail": "about 1.9 steals per game projected",
+   "until": "",
+   "sources": [
+    "stats",
+    "ZYllcj4o6_A:p39",
+    "7BllEsdNLoM:p54"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "projected starter in Lu Dort's old spot after OKC's departures",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p11",
+    "Alwse2uXzD4:p18",
+    "ZYllcj4o6_A:p39",
+    "-KS_AZjZnw4:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "contract year",
+   "channel": "current",
+   "detail": "final year of rookie deal, restricted free agency next, wants a bigger role",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p15"
+   ],
+   "new_meaning": "In the last year of his contract, so a new deal and a bigger role are at stake this season."
+  }
+ ],
+ "note": "He is an end-of-auction steals buy: Yahoo ranks him 128 with an average cost of 1.0 USD, ESPN ranks him 109 at 2 USD value, and he went for 1 USD in our league last season. In a 144-player draft he is worth 1 to 2 USD for builds that chase steals and low turnovers, but he adds little in points, rebounds or assists. Early in the season, check that he really starts, that his minutes rise above last season's 26.6, and whether his FG% gets back above the 43.2% of last season.",
+ "rejected": []
+}

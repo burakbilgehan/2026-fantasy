@@ -1,0 +1,107 @@
+{
+ "player": {
+  "name": "Wendell Carter Jr.",
+  "slug": "wendell-carter",
+  "pk": 91,
+  "team": "ORL",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "2326ae3513dc",
+ "note_count": 4,
+ "built_at": "2026-10-04T17:51:17+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.138685,
+  "duration_ms": 28775
+ },
+ "current": [
+  {
+   "text": "Carter is Orlando's starting center. Vucevic is his backup, and Goga Bitadze will still get some minutes.",
+   "kind": "fact",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:t11",
+    "FEcNjVRlj-U:t1"
+   ]
+  },
+  {
+   "text": "Experts expect him to stay under 30 minutes a game. Vucevic should take about 21 to 22 minutes, so Carter probably cannot play 32 minutes a night.",
+   "kind": "verdict",
+   "date": "2026-08-01",
+   "until": "",
+   "sources": [
+    "FEcNjVRlj-U:p2",
+    "P6TNP-g0wzY:p28"
+   ]
+  },
+  {
+   "text": "Orlando has a new head coach, Sean Sweeney, who replaces Jamahl Mosley. Player roles may change.",
+   "kind": "fact",
+   "date": "2026-08-01",
+   "until": "",
+   "sources": [
+    "FEcNjVRlj-U:t0"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "His value comes from defense that does not show up on the stat sheet. The expert says he does not help fantasy teams and needs to become a more reliable shooter.",
+   "kind": "verdict",
+   "date": "2026-08-01",
+   "until": "",
+   "sources": [
+    "FEcNjVRlj-U:p3"
+   ]
+  },
+  {
+   "text": "He has no strong category and no weak one. Rebounds are his best category, but they are not a league outlier.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Vucevic takes about 21 to 22 minutes as the backup center, so Carter is expected to stay under 30 minutes",
+   "until": "",
+   "sources": [
+    "FEcNjVRlj-U:p2",
+    "P6TNP-g0wzY:p28",
+    "sTtFUy7IoJI:t11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "No category is flagged weak, but none is strong either",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 123 and value 5 USD; ESPN rank 172 and value 0 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Carter is a fringe pick. Yahoo ranks him 123 but his average cost there is 1.3 USD. ESPN ranks him 172 at 0 USD, which is outside the 144 players we draft. His projected line has no category outlier and his best is rebounds (+0.8 z), so he fits any build only as a 1 USD last center or as a waiver pickup. Early in the season, check how Sweeney splits the center minutes between him and Vucevic. If Carter stays near 25 minutes, he is easy to drop.",
+ "rejected": []
+}

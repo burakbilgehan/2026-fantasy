@@ -1,0 +1,98 @@
+{
+ "player": {
+  "name": "Chris Cenac Jr.",
+  "slug": "chris-cenac",
+  "pk": 95,
+  "team": "BOS",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "e712ed4af7ff",
+ "note_count": 3,
+ "built_at": "2026-10-04T17:26:14+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.0887742,
+  "duration_ms": 13587
+ },
+ "current": [
+  {
+   "text": "He is a rookie from the 2026 NBA draft class.",
+   "kind": "fact",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p12",
+    "HxQjagSTTAM:p10"
+   ]
+  },
+  {
+   "text": "He probably will not contribute in fantasy this season.",
+   "kind": "verdict",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p12"
+   ]
+  },
+  {
+   "text": "Boston is very deep, with at least 12 rotation-level players. He is not in the projected starting five or the projected bench rotation.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t1",
+    "Bi1cEM03k9Y:t2"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is very athletic.",
+   "kind": "fact",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p12"
+   ]
+  },
+  {
+   "text": "He rarely blocked shots in college, with a low block rate for his size and athleticism. He averaged 2.8 blocks per game in Summer League.",
+   "kind": "fact",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p12",
+    "LUTYUdXBG1M:p45",
+    "HxQjagSTTAM:p10"
+   ]
+  },
+  {
+   "text": "His shot blocking may improve in the NBA, and he has some offensive upside.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p45",
+    "HxQjagSTTAM:p10"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "rookie",
+   "channel": "current",
+   "detail": "2026 draft class",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p12",
+    "HxQjagSTTAM:p10"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Do not draft him. His Yahoo value is 0 USD and his Yahoo rank is 661, far outside the 144 players our league drafts. His Yahoo projection is only 5.8 points, 4.0 rebounds and 0.3 blocks in 60 games, and Boston's deep rotation leaves him no clear minutes. Check him only if injuries open frontcourt minutes in Boston and his Summer League shot blocking carries over to NBA games.",
+ "rejected": []
+}

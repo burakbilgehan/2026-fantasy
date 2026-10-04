@@ -1,0 +1,128 @@
+{
+ "player": {
+  "name": "Ziaire Williams",
+  "slug": "ziaire-williams",
+  "pk": 610,
+  "team": "LAL",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "c26acf8578ba",
+ "note_count": 3,
+ "built_at": "2026-10-04T19:59:03+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1626162,
+  "duration_ms": 32010
+ },
+ "current": [
+  {
+   "text": "He left the Nets and plays for the Lakers this season.",
+   "kind": "fact",
+   "date": "2026-08-21",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:p18"
+   ]
+  },
+  {
+   "text": "The Nets preview says his offense did not develop enough to earn him a long-term rotation spot in Brooklyn.",
+   "kind": "verdict",
+   "date": "2026-08-21",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:p18"
+   ]
+  },
+  {
+   "text": "The Lakers have two open starting spots. Grimes, LaRavia and Mamukelashvili are the main names in the race, and the bench player is expected to still play about 27 minutes.",
+   "kind": "fact",
+   "date": "2026-08-04",
+   "until": "",
+   "sources": [
+    "_WjOjp6Qu8E:t1"
+   ]
+  },
+  {
+   "text": "The newest note says he might start for the Lakers. Rotation choices under J.J. Redick are still unclear.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p56",
+    "BjXP9JODDSg:t8",
+    "LM0cRCGoAUQ:t11"
+   ]
+  },
+  {
+   "text": "LeBron James left for the Sixers and Rui Hachimura appears to be gone. That opens forward minutes and usage on the Lakers.",
+   "kind": "fact",
+   "date": "2026-08-04",
+   "until": "",
+   "sources": [
+    "_WjOjp6Qu8E:t0",
+    "W3THnI7wWdA:t0",
+    "4GDfg2n2l8o:t10"
+   ]
+  },
+  {
+   "text": "Josh says his shooting upside could help him do well next to Luka Doncic.",
+   "kind": "verdict",
+   "date": "2026-08-04",
+   "until": "",
+   "sources": [
+    "_WjOjp6Qu8E:p22"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a disruptive defender with high deflection and steal rates.",
+   "kind": "fact",
+   "date": "2026-08-04",
+   "until": "",
+   "sources": [
+    "_WjOjp6Qu8E:p22"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "Nets to Lakers",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:p18"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Open Lakers starting spots with Grimes, LaRavia and Mamukelashvili",
+   "until": "",
+   "sources": [
+    "_WjOjp6Qu8E:t1",
+    "BjXP9JODDSg:p56",
+    "LM0cRCGoAUQ:t11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "0 USD on both sites, outside the drafted pool, but might start for the Lakers",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p56",
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both Yahoo and ESPN value him at 0 USD, at rank 271 on Yahoo and 222 on ESPN, so he should go undrafted in our 144-player auction. Even with ESPN's full-role projection of 65 games, 1.3 steals and low turnovers, he is below the pool in points, rebounds and assists, so his only use is as a steals and low-turnover streamer. In the first weeks, check whether he wins a starting spot and gets more than his 22.9 minutes from last season before you spend FAB on him.",
+ "rejected": []
+}

@@ -1,0 +1,108 @@
+{
+ "player": {
+  "name": "Brice Sensabaugh",
+  "slug": "brice-sensabaugh",
+  "pk": 503,
+  "team": "UTA",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "59cc4ce8f053",
+ "note_count": 2,
+ "built_at": "2026-10-04T17:25:10+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1587734,
+  "duration_ms": 34508
+ },
+ "current": [
+  {
+   "text": "Utah's projected starting lineup is Keyonte George, Darryn Peterson, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic. He is not in it.",
+   "kind": "fact",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:t0"
+   ]
+  },
+  {
+   "text": "The Utah wing and guard rotation is crowded with George, Peterson, Ace Bailey, Markkanen and Jackson Jr. next to him.",
+   "kind": "fact",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:t4"
+   ]
+  },
+  {
+   "text": "He will likely come off the bench this season.",
+   "kind": "verdict",
+   "date": "2026-07-14",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:p41"
+   ]
+  },
+  {
+   "text": "He ranked 95th after last season's trade deadline, during Utah's tank stretch.",
+   "kind": "fact",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:p41",
+    "ahNxsoU8Hx4:t2"
+   ]
+  },
+  {
+   "text": "Utah is expected to play to win this season, so the late-season minutes he got last year will not be there.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:t4",
+    "J1Eg3uaAICU:t3",
+    "sTtFUy7IoJI:t6",
+    "ahNxsoU8Hx4:t2"
+   ]
+  },
+  {
+   "text": "His fantasy value is finished after Utah's draft.",
+   "kind": "verdict",
+   "date": "2026-06-25",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p20"
+   ]
+  }
+ ],
+ "durable": [],
+ "tags": [
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "likely bench role behind George, Peterson and Markkanen; no tank minutes late in the season",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:p41",
+    "lOshTzDA4SA:p20",
+    "xHRF06_E9HE:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "crowded rotation with George, Peterson, Bailey, Markkanen and Jackson Jr.",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:t4",
+    "CI4k8ofUXXk:t0"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites price him at 0 USD (Yahoo rank 236, ESPN rank 226). That is far outside the 144 players drafted in our league, so do not draft him. His 14.9 points in 23.5 minutes last season came with Utah tanking, and the experts expect a bench role on a team that plays to win. Early in the season, check his bench minutes and any injury to George, Peterson or Markkanen that could give him a bigger role.",
+ "rejected": []
+}

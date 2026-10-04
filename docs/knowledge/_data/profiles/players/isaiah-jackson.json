@@ -1,0 +1,239 @@
+{
+ "player": {
+  "name": "Isaiah Jackson",
+  "slug": "isaiah-jackson",
+  "pk": 262,
+  "team": "LAC",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "0be223729e9f",
+ "note_count": 8,
+ "built_at": "2026-10-04T17:33:09+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1554142,
+  "duration_ms": 38990
+ },
+ "current": [
+  {
+   "text": "Jackson is set to start at center for the Clippers over Brook Lopez. He started over Lopez in preseason scrimmages and told reporters he is starting.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p9",
+    "tnzmsYUA4yQ:t3",
+    "ZYllcj4o6_A:p15",
+    "EGdhmUgPAWY:p50",
+    "EGdhmUgPAWY:t6"
+   ]
+  },
+  {
+   "text": "Brook Lopez is projected as the backup center. Yanic Konan Niederhauser is out injured.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t4",
+    "tnzmsYUA4yQ:t5"
+   ]
+  },
+  {
+   "text": "The starting job is not secure. He likely starts only until Konan Niederhauser returns, and his value will likely fade later in the year. Coach Ty Lue often changes his rotation choices.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "Yanic Konan Niederhauser returns",
+   "sources": [
+    "tnzmsYUA4yQ:p12",
+    "ZYllcj4o6_A:p15",
+    "EGdhmUgPAWY:p50",
+    "tnzmsYUA4yQ:t2"
+   ]
+  },
+  {
+   "text": "He should be drafted late in every 12-team league as a late-round swing pick or flier. One expert prefers him over Nesmith as a late flier.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p11",
+    "tnzmsYUA4yQ:p13",
+    "EGdhmUgPAWY:p50"
+   ]
+  },
+  {
+   "text": "His upside is a starter at about 25 minutes with a big FG% boost, blocks and solid rebounds. He could be top 150 early in the season.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p11",
+    "ZYllcj4o6_A:p15"
+   ]
+  },
+  {
+   "text": "He played surprisingly well at the end of last season before getting hurt. Yahoo lists no injury now.",
+   "kind": "fact",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "KLogvUwv_d8:p19"
+   ]
+  },
+  {
+   "text": "The Clippers have a good fantasy playoff schedule: 4, 3 and 4 games in weeks 19 to 21. They have 13 back-to-backs, one of the lowest totals in the league.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t6"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is highly foul-prone, so foul trouble can limit his minutes.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p10",
+    "ZYllcj4o6_A:p15"
+   ]
+  },
+  {
+   "text": "He is two years removed from a torn Achilles.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p10"
+   ]
+  },
+  {
+   "text": "He never became a three-point shooter and makes no threes.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p10",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is not a very good player.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p10"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "0.0 threes per game every season",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p10",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "Projected starting center after a bench role at 16.5 minutes",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p9",
+    "tnzmsYUA4yQ:p11",
+    "tnzmsYUA4yQ:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Brook Lopez now, Yanic Konan Niederhauser when he returns",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p12",
+    "tnzmsYUA4yQ:t4",
+    "ZYllcj4o6_A:p15",
+    "EGdhmUgPAWY:p50"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "Late-round swing pick",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p13",
+    "EGdhmUgPAWY:p50"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "Yahoo rank 326, but expert says draft late in every 12-team league",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "early-season value",
+   "channel": "current",
+   "detail": "Could be top 150 early; value likely fades when Konan Niederhauser returns",
+   "until": "Yanic Konan Niederhauser returns",
+   "sources": [
+    "ZYllcj4o6_A:p15",
+    "tnzmsYUA4yQ:p12"
+   ],
+   "new_meaning": "Expected to produce most early in the season, with value likely to fade later."
+  },
+  {
+   "name": "foul prone",
+   "channel": "durable",
+   "detail": "Highly foul-prone; foul trouble can cap minutes",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p10",
+    "ZYllcj4o6_A:p15"
+   ],
+   "new_meaning": "Commits many fouls, which limits his minutes."
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "4-3-4 games in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13 back-to-backs",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t6"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both Yahoo (rank 326) and ESPN (rank 233) value him at 0 USD, and he went for 1 USD in our league last season, so he is a 1 USD last-round pick. He fits builds that want FG% and blocks from a cheap center: about 62.6% on low volume and about 1 block per game, with no threes. Early in the season, check whether he keeps the starting job over Lopez, whether he gets close to 25 minutes despite fouls, and when Konan Niederhauser returns, because that is when his value is expected to fade.",
+ "rejected": []
+}

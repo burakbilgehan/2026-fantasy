@@ -1,0 +1,138 @@
+{
+ "player": {
+  "name": "Desmond Bane",
+  "slug": "desmond-bane",
+  "pk": 30,
+  "team": "ORL",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "81aca3e01a7b",
+ "note_count": 7,
+ "built_at": "2026-10-04T17:30:03+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.16654239999999998,
+  "duration_ms": 37429
+ },
+ "current": [
+  {
+   "text": "Bane is a projected Orlando starter, next to Suggs, Franz Wagner, Banchero and Carter. That five-man group played very well when it was together.",
+   "kind": "fact",
+   "date": "2026-08-01",
+   "until": "",
+   "sources": [
+    "FEcNjVRlj-U:t1"
+   ]
+  },
+  {
+   "text": "Orlando has a new head coach, Sean Sweeney, so player roles may change.",
+   "kind": "fact",
+   "date": "2026-08-01",
+   "until": "",
+   "sources": [
+    "FEcNjVRlj-U:t0"
+   ]
+  },
+  {
+   "text": "Much of his production in the last two seasons came while Franz Wagner, Paolo Banchero and Jalen Suggs missed long stretches. Wagner had a major injury last season.",
+   "kind": "fact",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "J1Eg3uaAICU:p48",
+    "uarqbNA2dFk:p39",
+    "dlo7L8Ru91A:p21",
+    "W-R1dzem32s:p21",
+    "QbdrhJd7LiA:p21",
+    "QbdrhJd7LiA:p22"
+   ]
+  },
+  {
+   "text": "He started last season badly, then shot 41% from three after December 1 and played well down the stretch. His three point attempt rate has come down.",
+   "kind": "fact",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "FEcNjVRlj-U:p14",
+    "uarqbNA2dFk:p39",
+    "W-R1dzem32s:p21"
+   ]
+  },
+  {
+   "text": "On a healthy Orlando team, experts expect him to be a third option with under 22% usage and about 32 minutes, and to fall well short of last season's rank.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p21",
+    "dlo7L8Ru91A:p21",
+    "J1Eg3uaAICU:p48"
+   ]
+  },
+  {
+   "text": "Experts say his current ranks (around 46 on Yahoo, 40 to 41 on ESPN) are too high. They rate him tier five and say not to take him inside the top 50.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p21",
+    "QbdrhJd7LiA:p22",
+    "uarqbNA2dFk:p39",
+    "dlo7L8Ru91A:p21",
+    "W-R1dzem32s:p21"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "His FT% is his best category: about 90% on about 4 attempts. He adds a broad plus in points, threes and assists. Turnovers are his softest category, but none of his categories is a real weakness.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Third option behind Banchero and Franz Wagner when they are healthy. Projected under 22% usage and about 32 minutes.",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p21",
+    "dlo7L8Ru91A:p21",
+    "J1Eg3uaAICU:p48"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "Experts call his Yahoo rank of about 46 and ESPN rank of 40 to 41 too high. They say not to take him inside the top 50.",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p21",
+    "QbdrhJd7LiA:p22",
+    "uarqbNA2dFk:p39"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "No category is flagged weak. FT% is his best category.",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Experts agree Bane's recent value came while Wagner, Banchero and Suggs were out. With them healthy, they see him as a tier-five third option, so the Yahoo value of 23 USD and the 22 USD our league paid last season look too high. His average costs of 9.8 USD on Yahoo and 11.7 USD on ESPN are a fairer range. He has no weak category and a strong FT%, so he fits any build as a mid-priced filler. Early in the season, check his usage and minutes next to a healthy Wagner and Banchero under new coach Sweeney, and whether his three point attempts recover.",
+ "rejected": []
+}

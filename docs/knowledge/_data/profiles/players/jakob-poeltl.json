@@ -1,0 +1,270 @@
+{
+ "player": {
+  "name": "Jakob Poeltl",
+  "slug": "jakob-poeltl",
+  "pk": 447,
+  "team": "TOR",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "270fe9d7daea",
+ "note_count": 14,
+ "built_at": "2026-10-04T17:33:48+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1398222,
+  "duration_ms": 37463
+ },
+ "current": [
+  {
+   "text": "He is the projected starting center for Toronto and is the only seven-footer on the roster.",
+   "kind": "fact",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:t0",
+    "s28HvC2grAk:t3"
+   ]
+  },
+  {
+   "text": "Toronto's expected closing five does not include him. Murray-Boyles closes at center in a small, switchable group.",
+   "kind": "fact",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:t1"
+   ]
+  },
+  {
+   "text": "Last season he barely contested shots and blocked very little.",
+   "kind": "fact",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:p17"
+   ]
+  },
+  {
+   "text": "Experts blame his back injury for the bad season and the drop in blocks. They hope the blocks come back. One expert says he was effective in only about half of his games.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p37",
+    "s28HvC2grAk:p21",
+    "ZYllcj4o6_A:p44"
+   ]
+  },
+  {
+   "text": "Reports say he is in good shape this summer.",
+   "kind": "fact",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:p22"
+   ]
+  },
+  {
+   "text": "Experts lean optimistic. One is not worried about the back unless it flares up again in training camp.",
+   "kind": "verdict",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:p22",
+    "sTtFUy7IoJI:p23"
+   ]
+  },
+  {
+   "text": "Experts agree the market ranks him too low. He is a cheap late flyer worth taking outside the top 100. If he plays 28 minutes and his blocks return, he has top 70 upside.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p44",
+    "t4n9MAP2_14:p37",
+    "J1Eg3uaAICU:p46",
+    "OdDkXFhoKsc:p55"
+   ]
+  },
+  {
+   "text": "His 70% field goal shooting last season came on low volume and is not expected to last.",
+   "kind": "verdict",
+   "date": "2026-07-07",
+   "until": "",
+   "sources": [
+    "ME-r173X5b0:p37"
+   ]
+  },
+  {
+   "text": "He turned only 35% of his deflections into steals last season. His steals are likely to improve.",
+   "kind": "verdict",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p24"
+   ]
+  },
+  {
+   "text": "Toronto has 15 back-to-backs this season, three of them in the fantasy playoffs.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t5"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is an elite finisher.",
+   "kind": "verdict",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:p18"
+   ]
+  },
+  {
+   "text": "His FG% is a league outlier and lifts a team's FG%.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He makes no threes.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "His free throw shooting has improved steadily. He is no longer a hack target.",
+   "kind": "fact",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:p19"
+   ]
+  },
+  {
+   "text": "He has lost a step on defense and is not an elite rim protector.",
+   "kind": "verdict",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:p20"
+   ]
+  },
+  {
+   "text": "He had repeated back flare-ups last season.",
+   "kind": "fact",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p23",
+    "s28HvC2grAk:p16"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "FG% anchor",
+   "channel": "durable",
+   "detail": "About 66% projected FG% on moderate volume",
+   "sources": [
+    "stats",
+    "s28HvC2grAk:p18"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "",
+   "sources": [
+    "stats"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "punt 3PM fit",
+   "channel": "durable",
+   "detail": "",
+   "sources": [
+    "stats"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "Repeated back flare-ups last season. Played 46 to 57 games in each of the last three seasons",
+   "sources": [
+    "sTtFUy7IoJI:p23",
+    "s28HvC2grAk:p16",
+    "stats"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "Back injury flared up repeatedly",
+   "sources": [
+    "s28HvC2grAk:p16",
+    "s28HvC2grAk:p21"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "bounce-back",
+   "channel": "current",
+   "detail": "Experts hope his blocks return now that his back is healthy",
+   "sources": [
+    "t4n9MAP2_14:p37",
+    "ZYllcj4o6_A:p44",
+    "s28HvC2grAk:p22"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "Ranked about 120 on both sites. Experts see top 70 upside",
+   "sources": [
+    "ZYllcj4o6_A:p44",
+    "J1Eg3uaAICU:p46",
+    "t4n9MAP2_14:p37"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "Bench-flyer cost",
+   "sources": [
+    "J1Eg3uaAICU:p46",
+    "OdDkXFhoKsc:p55",
+    "ZYllcj4o6_A:p44"
+   ],
+   "until": "",
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites price him at 1 to 2 USD and rank him about 116 to 122. Our league paid 15 USD for him last season, so expect him to go late, probably near the 144-player cutoff. He fits punt 3PM builds as a cheap FG% anchor, and experts see top 70 upside if he plays about 28 minutes and his blocks recover from 0.7 per game. Early in the season, watch his minutes, any back flare-up and his blocks, because Murray-Boyles closes games at center.",
+ "rejected": []
+}

@@ -1,0 +1,134 @@
+{
+ "player": {
+  "name": "Luke Kennard",
+  "slug": "luke-kennard",
+  "pk": 308,
+  "team": "PHX",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "751c0ffbaac5",
+ "note_count": 3,
+ "built_at": "2026-10-04T17:41:23+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1053862,
+  "duration_ms": 24028
+ },
+ "current": [
+  {
+   "text": "Kennard signed with Phoenix this offseason.",
+   "kind": "fact",
+   "date": "2026-07-02",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:p18"
+   ]
+  },
+  {
+   "text": "Phoenix has a crowded group of guards and wings. Booker, Jalen Green, Dillon Brooks, Collin Gillespie and Miles Bridges will all want touches.",
+   "kind": "fact",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:t1",
+    "LM0cRCGoAUQ:t10"
+   ]
+  },
+  {
+   "text": "One expert thinks too many guards are ahead of him for him to make an impact.",
+   "kind": "verdict",
+   "date": "2026-07-02",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:p18"
+   ]
+  },
+  {
+   "text": "Ben (Locked On Suns) expects him to come off the bench and take about eight threes a game, making about 40 to 41%. That is a lower percentage than before, on more volume.",
+   "kind": "verdict",
+   "date": "2026-08-23",
+   "until": "",
+   "sources": [
+    "hm5-fiCa5S4:p25"
+   ]
+  },
+  {
+   "text": "Ben worries that the projected Phoenix starting lineup has no reliable three-point shooter. That could open a shooting role for a bench specialist.",
+   "kind": "verdict",
+   "date": "2026-08-23",
+   "until": "",
+   "sources": [
+    "hm5-fiCa5S4:t2"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Kennard is a pure three-point shooter. He does not get to the rim and is not a mid-range shooter.",
+   "kind": "fact",
+   "date": "2026-08-23",
+   "until": "",
+   "sources": [
+    "hm5-fiCa5S4:p26"
+   ]
+  },
+  {
+   "text": "He has historically taken too few threes for a shooter of his quality.",
+   "kind": "verdict",
+   "date": "2026-08-23",
+   "until": "",
+   "sources": [
+    "hm5-fiCa5S4:p26"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "Signed with Phoenix in July 2026",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:p18"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Booker, Jalen Green, Brooks, Gillespie and Bridges are ahead of him",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:p18",
+    "uarqbNA2dFk:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "needs playmaker",
+   "channel": "durable",
+   "detail": "Spot-up three-point shooter, no rim attacks or mid-range game",
+   "until": "",
+   "sources": [
+    "hm5-fiCa5S4:p26"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Ranked outside the top 144 on both sites. Watch for about eight three-point attempts a game off the bench.",
+   "until": "",
+   "sources": [
+    "hm5-fiCa5S4:p25",
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Kennard is not a draft target for us. Yahoo ranks him 259 and ESPN ranks him 220, both value him at 0 USD, and our league did not draft him last season. His last line was efficient: 53.3% FG on 5.7 attempts and only 0.8 turnovers a game. But he scored 8.4 points with 1.5 threes, so he only adds value if his three-point volume clearly rises. In the first weeks, check whether he really gets the eight or so three-point attempts off the bench that Ben projects. If he does, he becomes a streaming add for threes. Ignore Yahoo's 67.3% FT projection, because he shot 91.3% last season on very few attempts.",
+ "rejected": []
+}

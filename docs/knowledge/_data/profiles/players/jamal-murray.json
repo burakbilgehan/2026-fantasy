@@ -1,0 +1,207 @@
+{
+ "player": {
+  "name": "Jamal Murray",
+  "slug": "jamal-murray",
+  "pk": 400,
+  "team": "DEN",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "7d47acf57666",
+ "note_count": 14,
+ "built_at": "2026-10-04T17:34:42+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.13672220000000002,
+  "duration_ms": 33492
+ },
+ "current": [
+  {
+   "text": "He is Denver's projected starting point guard, next to Christian Braun, Cam Johnson, Aaron Gordon and Nikola Jokic.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:t1"
+   ]
+  },
+  {
+   "text": "His usage rose under David Adelman. Many teammate absences also helped, because he was the only one who stayed healthy.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p7"
+   ]
+  },
+  {
+   "text": "Experts expect his role of about 28 usage and 35 minutes to hold. One expert is more confident in his role than in any other tier 3 point guard.",
+   "kind": "verdict",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:p17",
+    "7BllEsdNLoM:p10"
+   ]
+  },
+  {
+   "text": "His three-point percentage is expected to drop to around 40 to 41%.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:p17",
+    "sf6Ga9k-r-Q:p5"
+   ]
+  },
+  {
+   "text": "Experts call him a safe pick in the middle of round two and fine as early as the start of round two. He could finish top 12, but that is not certain.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p6",
+    "7BllEsdNLoM:p10",
+    "XnIWJyBB0EM:p13",
+    "2A2JbUN-kc0:p17"
+   ]
+  },
+  {
+   "text": "Experts say his ESPN ranking is far too low and call him a bargain there.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p6",
+    "ahNxsoU8Hx4:p51"
+   ]
+  },
+  {
+   "text": "He is fine to pair with Jokic in round two and could finish ranked above Tyrese Maxey this season.",
+   "kind": "verdict",
+   "date": "2026-09-23",
+   "until": "",
+   "sources": [
+    "C4vlgpJ62NI:p15",
+    "C4vlgpJ62NI:t0"
+   ]
+  },
+  {
+   "text": "One expert thinks Denver could trade him by the deadline to shed salary, because they cannot build a top-15 defense while paying both Jokic and Murray over 30M USD.",
+   "kind": "verdict",
+   "date": "2026-07-31",
+   "until": "2027-03-04",
+   "sources": [
+    "keNupMSHp1Y:p21"
+   ]
+  },
+  {
+   "text": "Denver plays 43 games through March 28 and has only 14 back-to-backs, one of the lowest counts in the league. The team is mostly healthy going into the season.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:t4",
+    "sf6Ga9k-r-Q:t5"
+   ]
+  },
+  {
+   "text": "One expert doubts Denver will rest him on purpose.",
+   "kind": "verdict",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "keNupMSHp1Y:t6"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a strong three-point shooter, at close to 40% or better over the last four seasons.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p5"
+   ]
+  },
+  {
+   "text": "He has become more of a playmaker than a pure shooter.",
+   "kind": "verdict",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "keNupMSHp1Y:p20"
+   ]
+  },
+  {
+   "text": "His category profile is volume scoring, threes, good assists, high FT% on real volume and a good FG% for a guard. None of his categories is weak.",
+   "kind": "fact",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "E-KmhvyZ2CU:p9",
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "no weak category; strong in PTS, AST, 3PM, FT%",
+   "until": "",
+   "sources": [
+    "stats",
+    "E-KmhvyZ2CU:p9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trade risk",
+   "channel": "current",
+   "detail": "possible salary dump by the deadline",
+   "until": "2027-03-04",
+   "sources": [
+    "keNupMSHp1Y:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "14 back-to-backs, one of the lowest counts in the league",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo average cost 37.4 USD vs ESPN 24.2 USD",
+   "until": "",
+   "sources": [
+    "stats",
+    "sf6Ga9k-r-Q:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "experts say his ESPN rank is far too low",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p6",
+    "ahNxsoU8Hx4:p51"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He is priced as a top-20 player: Yahoo rank 17, value 40 USD and average cost 37.4 USD. ESPN's average cost of 24.2 USD is much lower, and our league paid 27 USD last season, so he could be a value buy anywhere under about 37 USD. He has no weak category, so he fits any build, and Denver's light back-to-back schedule helps. Early in the season, check that his usage stays near 28 with DeRozan added and teammates healthy, how close his three-point shooting is to 40%, and any salary-dump trade talk before the 2027-03-04 deadline.",
+ "rejected": []
+}

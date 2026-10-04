@@ -1,0 +1,198 @@
+{
+ "player": {
+  "name": "Neemias Queta",
+  "slug": "neemias-queta",
+  "pk": 467,
+  "team": "BOS",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "0910ad228c07",
+ "note_count": 11,
+ "built_at": "2026-10-04T17:44:10+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.13951019999999997,
+  "duration_ms": 31700
+ },
+ "current": [
+  {
+   "text": "Queta and Mitchell Robinson are competing for the starting center job in Boston.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p16",
+    "t4n9MAP2_14:p39",
+    "TiiaNZCJNs8:p6"
+   ]
+  },
+  {
+   "text": "The newest call has Queta starting and closing a lot of games, with his minutes going up to 26 to 27 per game. Another expert says it is unclear whether he starts, but that Robinson cannot play starter minutes.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p16",
+    "t4n9MAP2_14:p39"
+   ]
+  },
+  {
+   "text": "His upside is capped. About 24 to 25 minutes is enough for tier eight among centers, but his 30-minute upside is probably gone now that Robinson is in Boston.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p39",
+    "P6TNP-g0wzY:p33"
+   ]
+  },
+  {
+   "text": "Lloyd would draft Queta over Robinson.",
+   "kind": "verdict",
+   "date": "2026-07-02",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:p33"
+   ]
+  },
+  {
+   "text": "The expert values him as a pick in the 90 to 110 range. Take him closer to 90 if you need a center, and let him slide toward 110 if you do not.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p17"
+   ]
+  },
+  {
+   "text": "He signed an extension at about 14 to 15 million USD per year. It covers this season and four more.",
+   "kind": "fact",
+   "date": "2026-07-30",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:p7"
+   ]
+  },
+  {
+   "text": "Karalis thinks Queta would accept a bench role.",
+   "kind": "verdict",
+   "date": "2026-07-30",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:p7"
+   ]
+  },
+  {
+   "text": "Boston plays 4, 3 and 4 games in our fantasy playoff weeks 19 to 21. That is one game short of the maximum.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t4"
+   ]
+  },
+  {
+   "text": "Boston has 16 back-to-backs, the most in the league. The expert says this mainly affects Paul George and Mitchell Robinson.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t5",
+    "3UGI05PDvrE:t5",
+    "gf_6GveiAls:t0"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He does not shoot threes and is not a shooter. He does not need threes to have value.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p18",
+    "TiiaNZCJNs8:p8",
+    "stats"
+   ]
+  },
+  {
+   "text": "He has been working on a mid-range jumper and has a floater. He shoots a little over 70% from the line, but his shooting is not something to rely on.",
+   "kind": "fact",
+   "date": "2026-07-30",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:p8"
+   ]
+  },
+  {
+   "text": "He has good chemistry with Payton Pritchard and makes good kick-out passes on the short roll.",
+   "kind": "fact",
+   "date": "2026-07-30",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:p9"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "0.0 threes per game",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p18",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt 3PM fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Mitchell Robinson for the starting center job",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p16",
+    "t4n9MAP2_14:p39",
+    "TiiaNZCJNs8:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "Expert values him at picks 90 to 110. His ESPN ADP is 136.",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p17"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "Costs about 1 USD on Yahoo and ESPN",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p17",
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He ranks 113 on Yahoo and 117 on ESPN, and his average cost is about 1 USD, so he goes near the end of our 144-player draft. The expert puts him at picks 90 to 110. At 1 to 3 USD he is a cheap source of FG% (65% on about 6 attempts), rebounds and blocks with few turnovers, and he fits punt 3PM builds best. Early in the season, check whether he starts over Mitchell Robinson and gets the projected 26 to 27 minutes.",
+ "rejected": []
+}

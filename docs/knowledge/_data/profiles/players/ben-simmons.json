@@ -1,0 +1,85 @@
+{
+ "player": {
+  "name": "Ben Simmons",
+  "slug": "ben-simmons",
+  "pk": 515,
+  "team": "SAC",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "d0dffb7c71dc",
+ "note_count": 2,
+ "built_at": "2026-10-04T17:24:03+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.09844220000000001,
+  "duration_ms": 16860
+ },
+ "current": [
+  {
+   "text": "Josh does not think Simmons is worth even a late pick in drafts.",
+   "kind": "verdict",
+   "date": "2026-09-24",
+   "until": "",
+   "sources": [
+    "_vbAP5y182A:p61"
+   ]
+  },
+  {
+   "text": "He should be a streamable player at times this season, at around 5 points, 5 rebounds and 5 assists.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "E-KmhvyZ2CU:p26"
+   ]
+  },
+  {
+   "text": "He is not in the Kings' projected starting five of Acuff, LaVine, Hunter, Murray and Sabonis.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:t1"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He makes almost no threes and scores very little, so he hurts 3PM and PTS.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "0.0 threes per game in every recent season and projection",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "durable",
+   "detail": "streamable at times for rebounds and assists",
+   "until": "",
+   "sources": [
+    "E-KmhvyZ2CU:p26",
+    "_vbAP5y182A:p61"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites value him at 0 USD (Yahoo rank 232, ESPN rank 321), so he will not be among the 144 players drafted in our auction and should not be. At best he is a short-term stream. ESPN projects about 5 points, 5 rebounds and 5 assists in 21 minutes, but he gives nothing in 3PM or PTS and is not in the projected starting five. Early in the season, check whether the Kings give him real minutes before using a waiver move on him.",
+ "rejected": []
+}

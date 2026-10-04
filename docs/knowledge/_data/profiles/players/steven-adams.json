@@ -1,0 +1,189 @@
+{
+ "player": {
+  "name": "Steven Adams",
+  "slug": "steven-adams",
+  "pk": 3,
+  "team": "HOU",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "6dd910fe5303",
+ "note_count": 4,
+ "built_at": "2026-10-04T17:48:45+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1062982,
+  "duration_ms": 20547
+ },
+ "current": [
+  {
+   "text": "Adams is Houston's backup center and comes off the bench.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p25",
+    "xHRF06_E9HE:t5"
+   ]
+  },
+  {
+   "text": "Lloyd sees him only as a rebound streamer for certain matchups.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p25"
+   ]
+  },
+  {
+   "text": "He is healthy now.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p26"
+   ]
+  },
+  {
+   "text": "Lloyd expects him to sit back-to-backs, definitely at the start of the season.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p26"
+   ]
+  },
+  {
+   "text": "Houston is expected to use double-big lineups with Adams and Sengun at times.",
+   "kind": "verdict",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:p21"
+   ]
+  },
+  {
+   "text": "The Rockets have only 14 back-to-backs, so he should lose fewer games to rest.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t5"
+   ]
+  },
+  {
+   "text": "With our March 28 end, Houston plays 3-3-4 in the fantasy playoff weeks, 10 games over three weeks. That is a weak schedule.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t4"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is arguably the greatest offensive rebounder in NBA history. Teams often need two or three players to keep him off the glass.",
+   "kind": "verdict",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:p20"
+   ]
+  },
+  {
+   "text": "He has persistent knee problems.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p26"
+   ]
+  },
+  {
+   "text": "He makes no threes and scores very few points.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "0.0 threes per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "persistent knee problems",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p26"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "back-to-back risk",
+   "channel": "current",
+   "detail": "expected to sit back-to-backs, definitely early in the season",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p26"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "missed a huge chunk of 2025-26",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "rebound streamer for certain matchups",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p25"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "Rockets have 14 back-to-backs",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "3-3-4, 10 games in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t4"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Adams is not a draft target in our league. Yahoo ranks him 397 and ESPN 329, both value him at 0 USD, and he was not drafted last season. He belongs on waivers as a matchup rebound streamer, but he gives nothing in 3PM or PTS and his FT% is weak. Early in the season, check whether Udoka really plays Adams and Sengun together and how many games he sits on back-to-backs. The projections disagree on his games (42 on Yahoo, 63 on ESPN).",
+ "rejected": []
+}

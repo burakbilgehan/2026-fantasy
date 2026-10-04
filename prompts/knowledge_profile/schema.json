@@ -1,0 +1,136 @@
+{
+  "type": "object",
+  "properties": {
+    "current": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "text": {
+            "type": "string"
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "fact",
+              "verdict"
+            ]
+          },
+          "date": {
+            "type": "string",
+            "description": "YYYY-MM-DD of the newest cited note"
+          },
+          "until": {
+            "type": "string",
+            "description": "End date or event named by a note, or empty"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "text",
+          "kind",
+          "date",
+          "until",
+          "sources"
+        ]
+      }
+    },
+    "durable": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "text": {
+            "type": "string"
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "fact",
+              "verdict"
+            ]
+          },
+          "date": {
+            "type": "string",
+            "description": "YYYY-MM-DD of the newest cited note"
+          },
+          "until": {
+            "type": "string",
+            "description": "End date or event named by a note, or empty"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "text",
+          "kind",
+          "date",
+          "until",
+          "sources"
+        ]
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "channel": {
+            "type": "string",
+            "enum": [
+              "current",
+              "durable"
+            ]
+          },
+          "detail": {
+            "type": "string",
+            "description": "Specifics for this player, or empty"
+          },
+          "until": {
+            "type": "string",
+            "description": "End date or event named by a note, or empty"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "new_meaning": {
+            "type": "string",
+            "description": "Only for a name not in the tag list: its meaning in one sentence. Else empty"
+          }
+        },
+        "required": [
+          "name",
+          "channel",
+          "detail",
+          "until",
+          "sources",
+          "new_meaning"
+        ]
+      }
+    },
+    "note": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "current",
+    "durable",
+    "tags",
+    "note"
+  ]
+}

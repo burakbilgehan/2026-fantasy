@@ -1,0 +1,48 @@
+{
+  "type": "object",
+  "properties": {
+    "summary": {"type": "string", "description": "2 to 3 sentences: the main conclusion for our league"},
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "heading": {"type": "string"},
+          "paragraphs": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "text": {"type": "string"},
+                "sources": {"type": "array", "items": {"type": "string"}}
+              },
+              "required": ["text", "sources"]
+            }
+          }
+        },
+        "required": ["heading", "paragraphs"]
+      }
+    },
+    "players": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {"type": "string"},
+          "tier": {"type": "string"},
+          "line": {"type": "string"}
+        },
+        "required": ["slug", "tier", "line"]
+      }
+    },
+    "excluded": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {"slug": {"type": "string"}, "reason": {"type": "string"}},
+        "required": ["slug", "reason"]
+      }
+    }
+  },
+  "required": ["summary", "sections", "players", "excluded"]
+}

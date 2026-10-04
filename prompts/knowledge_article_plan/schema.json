@@ -1,0 +1,22 @@
+{
+  "type": "object",
+  "properties": {
+    "articles": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {"type": "string"},
+          "title": {"type": "string"},
+          "type": {"type": "string", "enum": ["compilation", "topic"]},
+          "brief": {"type": "string"},
+          "tags": {"type": "array", "items": {"type": "string"}, "description": "compilation: canonical tag names. topic: empty"},
+          "rule_ids": {"type": "array", "items": {"type": "string"}, "description": "Method note ids the article needs. A compilation can also cite a few."},
+          "proposed": {"type": "boolean", "description": "true = proposed by you, not in the required list"}
+        },
+        "required": ["slug", "title", "type", "brief", "tags", "rule_ids", "proposed"]
+      }
+    }
+  },
+  "required": ["articles"]
+}

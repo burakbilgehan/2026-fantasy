@@ -1,0 +1,310 @@
+{
+ "player": {
+  "name": "Alperen Sengun",
+  "slug": "alperen-sengun",
+  "pk": 502,
+  "team": "HOU",
+  "position": "F,C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "51f503696d1f",
+ "note_count": 17,
+ "built_at": "2026-10-04T17:22:53+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1631222,
+  "duration_ms": 41048
+ },
+ "current": [
+  {
+   "text": "He is a projected starter at center, next to VanVleet, Thompson, Durant and Smith.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t1",
+    "yoCTTlJ_tPQ:t0"
+   ]
+  },
+  {
+   "text": "Coach Udoka has blamed his defense for years and limits his minutes. Other bigs sometimes play over him.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p9",
+    "2A2JbUN-kc0:p18",
+    "2A2JbUN-kc0:t4",
+    "E-KmhvyZ2CU:p11",
+    "E-KmhvyZ2CU:t0"
+   ]
+  },
+  {
+   "text": "With more guard depth, his minutes could drop from 33 to about 31 or 32.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p9"
+   ]
+  },
+  {
+   "text": "Fred VanVleet is back, and the Rockets added Marcus Smart and Bogdan Bogdanovic. The guard rotation is crowded.",
+   "kind": "fact",
+   "date": "2026-09-15",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t2",
+    "KPdD91Oo8-U:t0",
+    "J1Eg3uaAICU:t2"
+   ]
+  },
+  {
+   "text": "His assists were boosted while VanVleet was out. With VanVleet back, they likely fall to 5 to 5.5 per game. Last season was already his best shot-blocking year, so blocks will not make up for it.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p11"
+   ]
+  },
+  {
+   "text": "Lloyd ranks him 24 to 30 in category leagues and calls his ADPs reasonable. Experts agree he is worth more in points leagues than in category leagues.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p12",
+    "2A2JbUN-kc0:p18",
+    "LM0cRCGoAUQ:p10",
+    "J1Eg3uaAICU:p25"
+   ]
+  },
+  {
+   "text": "With a March 28 end, the Rockets play a weak 3-3-4 schedule in the fantasy playoffs, 10 games over three weeks.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t4"
+   ]
+  },
+  {
+   "text": "The Rockets have only 14 back-to-backs this season.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t5"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a two-time All-Star who can post about 20 points, 10 rebounds and 5 assists.",
+   "kind": "fact",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:p17"
+   ]
+  },
+  {
+   "text": "He has an unusual line for a big: over six assists plus steals and blocks. Assists are his best category against other forwards and centers.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p10",
+    "C4vlgpJ62NI:p6",
+    "stats"
+   ]
+  },
+  {
+   "text": "He gives good FG% and decent steals.",
+   "kind": "verdict",
+   "date": "2026-09-23",
+   "until": "",
+   "sources": [
+    "C4vlgpJ62NI:p6",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is a poor free throw shooter, and on his volume FT% clearly hurts a fantasy team.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p13",
+    "C4vlgpJ62NI:p6",
+    "2A2JbUN-kc0:p18",
+    "stats"
+   ]
+  },
+  {
+   "text": "He makes very few threes, and his three-point shot will probably never come around.",
+   "kind": "verdict",
+   "date": "2026-09-23",
+   "until": "",
+   "sources": [
+    "C4vlgpJ62NI:p6",
+    "2A2JbUN-kc0:p18",
+    "stats"
+   ]
+  },
+  {
+   "text": "He commits many turnovers, a clear weakness against the league and his position.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He is not a big shot blocker.",
+   "kind": "verdict",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:p18"
+   ]
+  },
+  {
+   "text": "His defense is a concern. His other weaknesses are finishing at the rim, overall efficiency, too many low-percentage mid-range shots and complaining to officials.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p10",
+    "yoCTTlJ_tPQ:p18"
+   ]
+  },
+  {
+   "text": "Last season he missed time with back tightness and then an ankle injury. He wore down in midseason after playing EuroBasket.",
+   "kind": "fact",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:p16"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "AST from a big",
+   "channel": "durable",
+   "detail": "About 6 assists per game as a center",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p10",
+    "C4vlgpJ62NI:p6",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "FT% liability",
+   "channel": "durable",
+   "detail": "About 69% on 5.5 attempts per game",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p13",
+    "2A2JbUN-kc0:p18",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt FT fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "C4vlgpJ62NI:p6",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "high TO",
+   "channel": "durable",
+   "detail": "About 3 turnovers per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "About 0.5 threes per game",
+   "until": "",
+   "sources": [
+    "C4vlgpJ62NI:p6",
+    "2A2JbUN-kc0:p18",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "points league player",
+   "channel": "durable",
+   "detail": "Experts rank him higher in points leagues than in category leagues",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p10",
+    "J1Eg3uaAICU:p25",
+    "aLP080hxizA:p12"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Minutes may drop to 31 or 32, and assists to 5 to 5.5 with VanVleet back",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p9",
+    "aLP080hxizA:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "3-3-4, 10 games in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "14 back-to-backs",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t5"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo values him at 32 USD and ESPN at 26 USD, against 36 USD in our auction last season. Lloyd ranks him 24 to 30 in category leagues, so do not go past about 30 USD. He fits punt FT% and punt TO builds best, where his assists from the center spot, rebounds and good FG% count fully. Early in the season, check whether Udoka keeps his minutes near 33 or cuts them to 31 or 32, and whether his assists fall toward 5 with VanVleet back. His fantasy playoff schedule is weak, only 10 games.",
+ "rejected": []
+}

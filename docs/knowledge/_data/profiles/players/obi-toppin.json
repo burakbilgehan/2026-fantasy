@@ -1,0 +1,127 @@
+{
+ "player": {
+  "name": "Obi Toppin",
+  "slug": "obi-toppin",
+  "pk": 559,
+  "team": "IND",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "8859d0e510cd",
+ "note_count": 4,
+ "built_at": "2026-10-04T17:45:09+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1026022,
+  "duration_ms": 21243
+ },
+ "current": [
+  {
+   "text": "He is projected as Indiana's seventh man. He comes off the bench behind sixth man Kelly Oubre Jr. and gets the next most bench minutes.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p33",
+    "EGdhmUgPAWY:t3"
+   ]
+  },
+  {
+   "text": "Indiana's backup center minutes are open, and he could be used as a small-ball backup center.",
+   "kind": "verdict",
+   "date": "2026-08-10",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:p32",
+    "sfCe7fS9daM:t3"
+   ]
+  },
+  {
+   "text": "If Pascal Siakam gets hurt, he would probably start. In that role he could produce about 16 points and 8 rebounds with good percentages, so he is a name to watch.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p35"
+   ]
+  },
+  {
+   "text": "With our March 28 end, Indiana plays 3, 4 and 3 games in the fantasy playoff weeks, which is not ideal. The team has 15 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t5"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He rebounds and shoots threes well for his role.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p34"
+   ]
+  },
+  {
+   "text": "He gets almost no steals or blocks and rarely gets to the free throw line.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p34",
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "Would probably start if Pascal Siakam is out",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p35"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Watch Siakam's health and backup center minutes",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p35",
+    "sfCe7fS9daM:p32",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "3-4-3 games in weeks 19 to 21 with a March 28 end",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "Played 24 games in 2025-26",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both Yahoo and ESPN value him at 0 USD. He ranks 330 on Yahoo and 239 on ESPN, so he is not one of the 144 players drafted in our league. His projected 53.7% FG on about 7.4 attempts and 0.9 turnovers per game help a little. But about 10 points, 4 rebounds and weak steals and blocks in roughly 20 bench minutes do not give him standard-league value. Leave him on waivers and pick him up if Siakam misses time or he wins the small-ball backup center minutes early in the season.",
+ "rejected": []
+}

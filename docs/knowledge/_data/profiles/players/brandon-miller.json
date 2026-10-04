@@ -1,0 +1,306 @@
+{
+ "player": {
+  "name": "Brandon Miller",
+  "slug": "brandon-miller",
+  "pk": 381,
+  "team": "CHA",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "0e485ecd98cd",
+ "note_count": 20,
+ "built_at": "2026-10-04T17:25:17+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.19096619999999997,
+  "duration_ms": 52821
+ },
+ "current": [
+  {
+   "text": "Miller had shoulder surgery after last season. His training camp status was uncertain in late September.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p6",
+    "egRrai3Ax38:p35",
+    "W-R1dzem32s:p53"
+   ]
+  },
+  {
+   "text": "Several experts worry the shoulder could linger into training camp. Most still expect him to be fine, and one is about 95% confident he is healthy.",
+   "kind": "verdict",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p6",
+    "egRrai3Ax38:p35",
+    "KPdD91Oo8-U:p9",
+    "LM0cRCGoAUQ:p26",
+    "ahNxsoU8Hx4:p9",
+    "dlo7L8Ru91A:p16",
+    "W-R1dzem32s:p53",
+    "_vbAP5y182A:p18"
+   ]
+  },
+  {
+   "text": "Charlotte traded LaMelo Ball to Minnesota and Miles Bridges to Phoenix. The projected starters are White, Knueppel, Miller, Reid and Diabaté.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "RsjGTgJiKyI:t0",
+    "CRLSsoGhb2w:t3",
+    "QbdrhJd7LiA:t2"
+   ]
+  },
+  {
+   "text": "Without Ball, ball handling will be split between White, Knueppel and Miller rather than going to one main creator.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t1",
+    "EB1Z_6n56-o:t3",
+    "4GDfg2n2l8o:p0"
+   ]
+  },
+  {
+   "text": "Experts expect his usage to rise from about 28 to 29 or 30, with more assists and possibly lower efficiency. Whether he becomes a 30-plus usage player with about five assists and six or seven free throw attempts is still open.",
+   "kind": "verdict",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p4",
+    "ya2VYRJ1BN0:p14",
+    "4GDfg2n2l8o:p0"
+   ]
+  },
+  {
+   "text": "In the new Charlotte setup he could become a four-threes-a-game player.",
+   "kind": "verdict",
+   "date": "2026-07-07",
+   "until": "",
+   "sources": [
+    "ME-r173X5b0:p14"
+   ]
+  },
+  {
+   "text": "Some improvement is expected this season, but it is not guaranteed.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p4"
+   ]
+  },
+  {
+   "text": "Experts call him a clear third-round player who is fine in the 30s in category leagues if his shoulder is healthy. A draft spot around 46 to 50 is too late. One expert would still wait until 45 to 50 until his health is confirmed.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "his shoulder health is confirmed",
+   "sources": [
+    "BjXP9JODDSg:p17",
+    "CRLSsoGhb2w:p3",
+    "CRLSsoGhb2w:p6",
+    "_vbAP5y182A:p18",
+    "ahNxsoU8Hx4:p9",
+    "OdDkXFhoKsc:p33",
+    "dlo7L8Ru91A:p16"
+   ]
+  },
+  {
+   "text": "His ESPN ADP of 107 is called far too low. His Fantrax ADP is 43.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p10"
+   ]
+  },
+  {
+   "text": "Charlotte plays 4-3-4 games in our playoff weeks 19 to 21 and has only 13 back-to-backs, the league minimum.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t5"
+   ]
+  },
+  {
+   "text": "Charlotte's two-game week starting March 1 should not affect decisions about him.",
+   "kind": "verdict",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p24",
+    "gf_6GveiAls:t12"
+   ]
+  },
+  {
+   "text": "If Miller misses games at the start of the season, Grayson Allen would start.",
+   "kind": "verdict",
+   "date": "2026-09-15",
+   "until": "",
+   "sources": [
+    "KPdD91Oo8-U:t3"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a high-volume three-point shooter. Threes made are his clearest strength in the league.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He is not a strong FG% player. His FG% on high volume is a clear weakness.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p5",
+    "stats"
+   ]
+  },
+  {
+   "text": "His drives often stall and turn into mid-range shots. He finishes well at the rim but rarely gets there.",
+   "kind": "fact",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:p23"
+   ]
+  },
+  {
+   "text": "He is injured often.",
+   "kind": "fact",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:p23"
+   ]
+  },
+  {
+   "text": "He commits many turnovers for a forward.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "3PM specialist",
+   "channel": "durable",
+   "detail": "about 3.4 threes per game projected",
+   "until": "",
+   "sources": [
+    "stats",
+    "ME-r173X5b0:p14"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt FG fit",
+   "channel": "durable",
+   "detail": "about 43% FG on high volume",
+   "until": "",
+   "sources": [
+    "stats",
+    "CRLSsoGhb2w:p5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "about 2.7 TO per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "usage expected to rise to 29 or 30 after LaMelo Ball and Miles Bridges left",
+   "until": "",
+   "sources": [
+    "ya2VYRJ1BN0:p14",
+    "CRLSsoGhb2w:p4",
+    "4GDfg2n2l8o:p0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "seen as a third-rounder; ADP 46 to 50 called too late",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p17",
+    "ahNxsoU8Hx4:p9",
+    "OdDkXFhoKsc:p33",
+    "_vbAP5y182A:p18"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "on ESPN, where his ADP of 107 is called bonkers",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p10"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 25 USD and rank 39; ESPN value 9 USD and rank 54",
+   "until": "",
+   "sources": [
+    "stats",
+    "ahNxsoU8Hx4:p10"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "offseason surgery",
+   "channel": "current",
+   "detail": "shoulder surgery after last season; training camp status uncertain",
+   "until": "his shoulder health is confirmed",
+   "sources": [
+    "CRLSsoGhb2w:p6",
+    "egRrai3Ax38:p35",
+    "W-R1dzem32s:p53",
+    "KPdD91Oo8-U:p9",
+    "LM0cRCGoAUQ:p26"
+   ],
+   "new_meaning": "Had surgery in the offseason, and his readiness for the start of the season is not yet confirmed."
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "Charlotte has 13 back-to-backs, the league minimum",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t5"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Experts see Miller as a third-round player (a rank in the 30s) if his shoulder is healthy. That beats his Yahoo average cost of 19.2 USD and the 20 USD he went for in our league last season, and it is far above his ESPN value of 9 USD. He fits punt FG% and punt TO builds, where his threes, points and FT% count fully and his weak categories matter less. Check his shoulder status in training camp before the 2026-10-18 auction, then watch his usage and assists early in the season now that LaMelo Ball is gone.",
+ "rejected": []
+}

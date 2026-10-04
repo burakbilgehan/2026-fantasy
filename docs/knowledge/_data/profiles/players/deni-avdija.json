@@ -1,0 +1,214 @@
+{
+ "player": {
+  "name": "Deni Avdija",
+  "slug": "deni-avdija",
+  "pk": 22,
+  "team": "POR",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "8ed197a49ba0",
+ "note_count": 13,
+ "built_at": "2026-10-04T17:29:25+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.15238619999999997,
+  "duration_ms": 43407
+ },
+ "current": [
+  {
+   "text": "Portland traded for Ja Morant, and on-ball guards Damian Lillard and Scoot Henderson return after playing about 15 games combined last season.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:t0",
+    "YJk7ZFKFqnI:t0",
+    "dlo7L8Ru91A:t1",
+    "LM0cRCGoAUQ:t1",
+    "sTtFUy7IoJI:t9"
+   ]
+  },
+  {
+   "text": "Portland is short on forwards. Avdija and Camara are basically the only forwards, and the projected starting five is Lillard, Morant, Camara, Avdija and Clingan.",
+   "kind": "fact",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:t0",
+    "YJk7ZFKFqnI:t0",
+    "YJk7ZFKFqnI:t1"
+   ]
+  },
+  {
+   "text": "His minutes and starting role are safe.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "dlo7L8Ru91A:p9"
+   ]
+  },
+  {
+   "text": "He will lose his high-usage, on-ball role and become the third distributor in the starting group. Experts project about 24 to 26 percent usage, around 20 points per game, and fewer assists than his 7 last season.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:p6",
+    "YJk7ZFKFqnI:p8",
+    "YJk7ZFKFqnI:p9",
+    "dlo7L8Ru91A:p9",
+    "W-R1dzem32s:p20",
+    "LM0cRCGoAUQ:p13",
+    "OdDkXFhoKsc:p27"
+   ]
+  },
+  {
+   "text": "Minutes and usage across the Portland rotation are expected to swing from game to game.",
+   "kind": "verdict",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t5"
+   ]
+  },
+  {
+   "text": "He hurt his back late last season. His three-point shooting was under 32 percent and dipped late, and he played badly after the injury.",
+   "kind": "fact",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:p10",
+    "W-R1dzem32s:p20"
+   ]
+  },
+  {
+   "text": "His percentages are a concern, though lower usage might bring his three-point shooting back up.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p13",
+    "W-R1dzem32s:p20",
+    "YJk7ZFKFqnI:p10"
+   ]
+  },
+  {
+   "text": "Experts want a clear discount. Two call his ADP around 34 to 36 too early, while one calls ADP 35 reasonable. One expert is fully in at ESPN rank 60 and ADP 68.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p14",
+    "ahNxsoU8Hx4:p59",
+    "LM0cRCGoAUQ:p13",
+    "W-R1dzem32s:p20",
+    "bHA-JoW3reE:p7"
+   ]
+  },
+  {
+   "text": "Portland has three back-to-backs in the fantasy playoffs and a five-game week starting February 8.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t6",
+    "gf_6GveiAls:t10"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "At his best he is a relentless downhill driver and passer.",
+   "kind": "fact",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:p11"
+   ]
+  },
+  {
+   "text": "Turnovers are his clear weak category. He projects for about 3.3 per game, far worse than the pool and his position.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "high TO",
+   "channel": "durable",
+   "detail": "About 3.3 TO per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Lower usage and assists with Morant, Lillard and Scoot Henderson on the ball",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:p6",
+    "YJk7ZFKFqnI:p8",
+    "YJk7ZFKFqnI:p9",
+    "dlo7L8Ru91A:p9",
+    "LM0cRCGoAUQ:p13",
+    "W-R1dzem32s:p20"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "Too early at ADP around 34 to 36; fair at ESPN rank 60",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p14",
+    "W-R1dzem32s:p20",
+    "ahNxsoU8Hx4:p59"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 22 USD vs ESPN value 7 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "Three back-to-backs in the fantasy playoffs",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t6"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Portland added Morant, and Lillard and Scoot are back, so his 24.2 points and 6.7 assists from last season will not hold. Yahoo still values him at 22 USD, ESPN at only 7 USD, and he cost 17 USD in our league last season. Pay clearly less than last season's price. He fits punt TO builds best, since about 3.3 turnovers per game is his only weak category. Early in the season, check his usage and assists next to Lillard and Morant, and whether his three-point shot has recovered after the back injury.",
+ "rejected": []
+}

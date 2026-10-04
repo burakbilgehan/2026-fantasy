@@ -1,0 +1,292 @@
+{
+ "player": {
+  "name": "Julius Randle",
+  "slug": "julius-randle",
+  "pk": 470,
+  "team": "BKN",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "eaf40763c43b",
+ "note_count": 20,
+ "built_at": "2026-10-04T17:38:23+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1922022,
+  "duration_ms": 59096
+ },
+ "current": [
+  {
+   "text": "Randle plays for Brooklyn now. He came over from Minnesota in the Nic Claxton trade.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p8",
+    "sTtFUy7IoJI:p28",
+    "Rqb5GdrSweY:p15",
+    "9tb1ARBEmQU:p0"
+   ]
+  },
+  {
+   "text": "He is projected to start in the Brooklyn frontcourt. The other projected starters are Mikel Brown Jr., Egor Demin, Michael Porter Jr. and Day'Ron Sharpe.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t1",
+    "uRsfijpBPok:t1",
+    "lOshTzDA4SA:t6"
+   ]
+  },
+  {
+   "text": "He has several years left on his contract and is expected to stay in Brooklyn.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p14"
+   ]
+  },
+  {
+   "text": "He is the Nets' most accomplished on-ball creator and is expected to handle the ball a lot. Experts see him as the team's best player and call Brooklyn a positive spot for him.",
+   "kind": "verdict",
+   "date": "2026-08-21",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:p12",
+    "lOshTzDA4SA:t6",
+    "Rqb5GdrSweY:p15",
+    "9tb1ARBEmQU:p0"
+   ]
+  },
+  {
+   "text": "His usage should rise from about 27 to about 30, and his assists could go up as well.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p12",
+    "egRrai3Ax38:p16",
+    "sTtFUy7IoJI:p28",
+    "Rqb5GdrSweY:p15",
+    "9tb1ARBEmQU:p0"
+   ]
+  },
+  {
+   "text": "His minutes are expected to drop to about 32 a night. Blowouts and Brooklyn possibly giving minutes to Noah Clowney limit his upside.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p10",
+    "3UGI05PDvrE:p12",
+    "LM0cRCGoAUQ:p40",
+    "sTtFUy7IoJI:p28"
+   ]
+  },
+  {
+   "text": "Brooklyn's pick belongs to Houston, so the Nets have no reason to tank. They also have little reason to push for wins beyond player development.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t0",
+    "uRsfijpBPok:t0",
+    "Rqb5GdrSweY:t1",
+    "sfCe7fS9daM:t9"
+   ]
+  },
+  {
+   "text": "He may sit some games in March so young players like Clowney, Minott, Brown and Demin get more time. That makes his late-season minutes uncertain.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p10",
+    "3UGI05PDvrE:p14",
+    "3UGI05PDvrE:t3",
+    "Rqb5GdrSweY:p17",
+    "sTtFUy7IoJI:t4"
+   ]
+  },
+  {
+   "text": "Experts disagree on his blocks in Brooklyn. One says his low block rate next to Rudy Gobert might recover. Another expects his defensive stats to stay low.",
+   "kind": "verdict",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p11",
+    "9tb1ARBEmQU:p0"
+   ]
+  },
+  {
+   "text": "Josh projects him at 55 to 75 in category leagues, probably around 65 to 70. He calls the ESPN rank of 86 great value and a Yahoo ADP around 68 fine. In category leagues he says to take him a bit later than in points leagues.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p9",
+    "3UGI05PDvrE:p11",
+    "egRrai3Ax38:p16",
+    "LM0cRCGoAUQ:p40"
+   ]
+  },
+  {
+   "text": "Brooklyn plays 3, 4 and 3 games in our playoff weeks (10 in total), with one playoff back-to-back. The Nets have 16 back-to-backs this season, tied with Boston for the most in the league.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t4",
+    "gf_6GveiAls:t1"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He turns the ball over a lot. Turnovers are his weakest category by far.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:p16",
+    "stats"
+   ]
+  },
+  {
+   "text": "Most of his value comes from points, rebounds and assists. His assists are high for a forward.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He does not produce defensive stats. His steals are average and his blocks are poor.",
+   "kind": "verdict",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p29",
+    "Rqb5GdrSweY:p16"
+   ]
+  },
+  {
+   "text": "He does not hurt your percentages the way his reputation suggests, but his shooting percentages are volatile.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:p16",
+    "3UGI05PDvrE:p13",
+    "9tb1ARBEmQU:p1"
+   ]
+  },
+  {
+   "text": "He shot 32% from three in Minnesota, and defenses treated him as a non-shooter.",
+   "kind": "fact",
+   "date": "2026-08-19",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:p23"
+   ]
+  },
+  {
+   "text": "He is worth more in points leagues than in category leagues, though one expert thinks category leagues underrate him.",
+   "kind": "verdict",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p29",
+    "3UGI05PDvrE:p9"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "Traded from Minnesota to Brooklyn in the Nic Claxton trade",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p8",
+    "9tb1ARBEmQU:p0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "Usage expected to rise from about 27 to about 30, but minutes expected to drop to about 32",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p12",
+    "egRrai3Ax38:p16",
+    "sTtFUy7IoJI:p28"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "shutdown risk",
+   "channel": "current",
+   "detail": "May sit some games in March so Brooklyn's young players get time",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p10",
+    "3UGI05PDvrE:p14",
+    "Rqb5GdrSweY:p17"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "high TO",
+   "channel": "durable",
+   "detail": "About 3 turnovers per game projected",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:p16",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "AST from a big",
+   "channel": "durable",
+   "detail": "About 5 assists per game as a forward. Main on-ball creator in Brooklyn",
+   "until": "",
+   "sources": [
+    "stats",
+    "uRsfijpBPok:p12"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "points league player",
+   "channel": "durable",
+   "detail": "Ranked 42nd in points leagues and 48th in categories last season",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p29",
+    "3UGI05PDvrE:p8",
+    "3UGI05PDvrE:p9"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Randle went for 10 USD in our league last season. Yahoo values him at 14 USD and ESPN at 3 USD, while both sites have average costs near 8 to 9 USD. Josh ranks him around 65 to 70 in categories, which makes him a mid-priced starter in a 144-player league. His points, rebounds and forward assists fit punt TO builds best, since his turnovers are his one big weakness (3.0 projected). Early in the season, check that he gets about 32 minutes and about 30% usage, and expect him to sit some games in March.",
+ "rejected": []
+}

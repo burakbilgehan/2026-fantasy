@@ -1,0 +1,174 @@
+{
+ "team": "TOR",
+ "prompt_version": 1,
+ "prompt_sha": "07b4ed7fd28e",
+ "input_sha": "ddeccdf2b027",
+ "note_count": 10,
+ "built_at": "2026-10-04T20:01:48+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.182602,
+  "duration_ms": 46258
+ },
+ "current": [
+  {
+   "text": "Toronto traded Brandon Ingram and added Kawhi Leonard.",
+   "kind": "fact",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "JMSLg6yz-M0:t0",
+    "dlo7L8Ru91A:t5"
+   ]
+  },
+  {
+   "text": "Usage moves to Kawhi Leonard and away from RJ Barrett and Immanuel Quickley.",
+   "kind": "verdict",
+   "date": "2026-06-30",
+   "until": "",
+   "sources": [
+    "JMSLg6yz-M0:t0"
+   ]
+  },
+  {
+   "text": "With Kawhi Leonard in, a usage jump for Scottie Barnes is harder to get.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "dlo7L8Ru91A:t5"
+   ]
+  },
+  {
+   "text": "Projected starters are Immanuel Quickley, RJ Barrett, Kawhi Leonard, Scottie Barnes and Jakob Poeltl.",
+   "kind": "fact",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:t0",
+    "stats"
+   ]
+  },
+  {
+   "text": "The expected closing five is Quickley, Barrett, Leonard, Barnes and Collin Murray-Boyles. It is a small, switchable group, so Murray-Boyles closes games instead of Poeltl.",
+   "kind": "verdict",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:t1"
+   ]
+  },
+  {
+   "text": "Poeltl is the only seven-footer on the roster.",
+   "kind": "fact",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:t3"
+   ]
+  },
+  {
+   "text": "The team is not deep. After a solid top seven, the rest of the rotation is Jamal Shead, Allen Graves, Kyle Anderson, Elijah Martin and Trayce Jackson-Davis.",
+   "kind": "verdict",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:t2"
+   ]
+  },
+  {
+   "text": "Sean predicts 52 wins, or 56 to 57 wins if Kawhi Leonard plays 75 games. The market win total is lower at 45.5.",
+   "kind": "verdict",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:t4",
+    "stats"
+   ]
+  },
+  {
+   "text": "Toronto is possibly a top-four team in the East, so tanking or late-season shutdowns look unlikely.",
+   "kind": "verdict",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "JMSLg6yz-M0:t0",
+    "s28HvC2grAk:t4"
+   ]
+  },
+  {
+   "text": "The defense was top five to seven last season and is expected to hold or improve.",
+   "kind": "verdict",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:t5"
+   ]
+  },
+  {
+   "text": "Toronto is fairly close to done with roster moves after the Kawhi Leonard trade.",
+   "kind": "verdict",
+   "date": "2026-06-30",
+   "until": "",
+   "sources": [
+    "JMSLg6yz-M0:t0"
+   ]
+  },
+  {
+   "text": "Toronto has 15 back-to-backs, a middle-of-the-pack number.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t5",
+    "stats"
+   ]
+  },
+  {
+   "text": "Toronto plays 11 games in our fantasy playoff weeks 19 to 21, among the most in the league. That helps its regular starters.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "durable": [],
+ "tags": [
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "11 games in weeks 19 to 21 (rank 4 of 30), with 1 back-to-back each in weeks 20 and 21",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "thin rotation",
+   "channel": "current",
+   "detail": "Solid top seven, then Shead, Graves, Anderson, Martin and Jackson-Davis",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:t2"
+   ],
+   "new_meaning": "The team has few reliable players beyond its main rotation, so its starters and top reserves get heavy minutes."
+  },
+  {
+   "name": "contender",
+   "channel": "current",
+   "detail": "Sean predicts 52 wins and calls them possibly a top-four team in the East",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:t4",
+    "JMSLg6yz-M0:t0"
+   ],
+   "new_meaning": "The team expects to win many games, so tanking and late-season shutdowns of healthy players are unlikely."
+  }
+ ],
+ "note": "Kawhi Leonard takes over the usage that Brandon Ingram had, so expect lower roles for RJ Barrett and Immanuel Quickley, and a usage jump for Scottie Barnes looks less likely. Toronto plays 11 games in our fantasy playoff weeks, among the most in the league, and it looks like a contender with a thin bench, so its starters and Collin Murray-Boyles should get steady minutes late in the season. Early on, watch how minutes split between Jakob Poeltl and Murray-Boyles, since Murray-Boyles is expected to close games, and watch how many games Kawhi plays.",
+ "rejected": []
+}

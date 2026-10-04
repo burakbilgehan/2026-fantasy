@@ -1,0 +1,315 @@
+{
+ "player": {
+  "name": "Ja Morant",
+  "slug": "ja-morant",
+  "pk": 397,
+  "team": "POR",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "ef0c9099bc11",
+ "note_count": 19,
+ "built_at": "2026-10-04T17:33:35+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1695062,
+  "duration_ms": 45713
+ },
+ "current": [
+  {
+   "text": "Portland traded for him this offseason. He joins a crowded backcourt with Damian Lillard, Jrue Holiday, Deni Avdija and Scoot Henderson.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:p26",
+    "Rqb5GdrSweY:t6",
+    "ME-r173X5b0:t3",
+    "LM0cRCGoAUQ:t1",
+    "dlo7L8Ru91A:t1"
+   ]
+  },
+  {
+   "text": "He is projected to start next to Lillard. Portland plans to stagger the two but still close games with both.",
+   "kind": "fact",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:p5",
+    "YJk7ZFKFqnI:t1",
+    "YJk7ZFKFqnI:t2",
+    "bHA-JoW3reE:t2"
+   ]
+  },
+  {
+   "text": "His usage should fall by almost 5 points from the 33% he had in Memphis. His assists are unlikely to hold at 8 per game while he shares the ball with Lillard, Holiday, Avdija and Scoot.",
+   "kind": "verdict",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p54",
+    "ME-r173X5b0:p23"
+   ]
+  },
+  {
+   "text": "Portland's poor finishers (Camara, Clingan, Avdija) hurt how many of the guards' passes turn into assists.",
+   "kind": "verdict",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:t7"
+   ]
+  },
+  {
+   "text": "Experts call his fit in Portland weird. They say he mutes the strengths of Lillard and Avdija.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:p5",
+    "ahNxsoU8Hx4:p32",
+    "egRrai3Ax38:p17"
+   ]
+  },
+  {
+   "text": "Minutes and usage across the Portland rotation are expected to swing from game to game.",
+   "kind": "verdict",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t5"
+   ]
+  },
+  {
+   "text": "Do not draft him at his ESPN ADP of 50. He should still play enough minutes to beat his Yahoo rank of 103.",
+   "kind": "verdict",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p41",
+    "ahNxsoU8Hx4:p32"
+   ]
+  },
+  {
+   "text": "Tier 8 point guard on his median outcome. He has unlikely upside to average 24 points and 9 assists or to play 65 games.",
+   "kind": "verdict",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p45"
+   ]
+  },
+  {
+   "text": "Portland has three back-to-backs in the fantasy playoffs.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t6"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a high usage guard with strong assists. Even in limited games he piles up assists.",
+   "kind": "fact",
+   "date": "2026-07-13",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:p2",
+    "Rqb5GdrSweY:p27"
+   ]
+  },
+  {
+   "text": "He is a poor shooter from the field and from three, and he does not move off the ball. His free throw shooting is now a strength.",
+   "kind": "fact",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:p2",
+    "YJk7ZFKFqnI:p4",
+    "stats"
+   ]
+  },
+  {
+   "text": "Turnovers are his worst category and a clear weakness against the whole league.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He is not a good category player and his fantasy game is not robust. He is worth more in points leagues.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p17",
+    "bHA-JoW3reE:p2"
+   ]
+  },
+  {
+   "text": "He can't stay healthy and has durability concerns.",
+   "kind": "verdict",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:p1",
+    "sTtFUy7IoJI:p55"
+   ]
+  },
+  {
+   "text": "His athleticism has declined. He is described as terrible on defense.",
+   "kind": "verdict",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:p1",
+    "YJk7ZFKFqnI:p3"
+   ]
+  },
+  {
+   "text": "He has off-court problems and was suspended by his own team.",
+   "kind": "fact",
+   "date": "2026-06-29",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:p1"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "traded from Memphis to Portland",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:p26",
+    "bHA-JoW3reE:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "usage expected to drop almost 5 points from 33%; assists unlikely to stay at 8",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p54",
+    "ME-r173X5b0:p23"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "high TO",
+   "channel": "durable",
+   "detail": "about 3.4 TO per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "can't stay healthy; 9, 50 and 20 games in the last three seasons",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:p1",
+    "sTtFUy7IoJI:p55",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "20 games in 2025-26",
+   "until": "",
+   "sources": [
+    "stats",
+    "-rgXhs5BHiw:p19"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "points league player",
+   "channel": "durable",
+   "detail": "not a good category player; free real estate in points leagues",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p17"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "at ESPN ADP 50",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p41"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "tier 8 median with unlikely upside to 24 points and 9 assists",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p45"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 93 vs ESPN rank 133; ESPN ADP near 50",
+   "until": "",
+   "sources": [
+    "stats",
+    "uarqbNA2dFk:p41"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "Portland has three back-to-backs in the fantasy playoffs",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "off-court risk",
+   "channel": "durable",
+   "detail": "off-court problems; suspended by his own team",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:p1"
+   ],
+   "new_meaning": "Has off-court problems or past suspensions that can cost games or trust."
+  }
+ ],
+ "note": "He cost 17 USD in our league last season, but the sites now price him near 3 to 5 USD (Yahoo rank 93, ESPN rank 133). That makes him a cheap late flyer in a 144-player draft, but do not pay anything close to last year's price. The assists, points and good FT% help, but about 3.4 turnovers per game and a below-average FG% fit a punt TO build best. Early on, check his usage and assists next to Lillard: Yahoo projects only 5.7 assists on 13 shots, while ESPN projects 7.2 on 16. Also check whether he stays healthy.",
+ "rejected": []
+}

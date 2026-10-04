@@ -51,12 +51,23 @@ A living, LLM-written documentation on top of the raw expert notes: short profil
 - Change list (user, 2026-10-04): a separate "what changed" list is wanted if it is useful (example line: "Nesmith: new verdict, rank 110 to 130"). The profile itself keeps no history.
 - The LLM for the synthesis can run at the highest setting. All LLM work goes through `claude -p` (see `CLAUDE.md`), prompts in `prompts/`, one folder per job.
 
+## Built (2026-10-04)
+- Code: `backend/app/knowledge/` (`profile.py`, `stats.py`, `categories.py`, `tags.py`, `teams.py`, `articles.py`, `render.py`). Jobs: `make knowledge-run` (players; `ARGS=--teams` adds teams), `make knowledge-articles`.
+- Storage (decided): JSON per profile and article in `docs/knowledge/_data/` (source of truth, in git), markdown rendered to `docs/knowledge/profiles/` and `docs/knowledge/articles/`, tags also in the DB table `knowledge_tags` (rebuilt on every render; API `GET /api/knowledge/tags`, `/tags/{tag}`, `/players/{pk}/tags`).
+- Numbers are written by code: stat table, price table (with Yahoo and ESPN rank), category profile. The LLM gets them in the prompt and does not copy them.
+- Selection (user): Yahoo or ESPN top 250 plus 3 or more notes, 331 players. 13 have no notes and get a numbers-only profile.
+- Model (user): Opus, effort high.
+- Source check: every statement, tag and article paragraph must cite an id from its own input or `stats`.
+- Tag registry (user: merge synonyms, keep the list small): `docs/knowledge/_data/tags.json`. Profiles keep the raw name; the registry maps it at render time. Unknown names go to a classifier call (merge, new, drop). Glossary tag section is generated from the registry.
+- Category tag gate (user, 2026-10-04: "specialist" and "punt" only for real outliers): code computes z-scores per category against the top 250 pool and against the same position (`categories.py`). Specialist and anchor need z >= 2.0 against the pool; liability and high TO need z <= -1.5; a punt fit needs z <= -1.0 against the position, only for his two weakest categories, and only when he keeps value without them. Tags that fail are removed at render and listed under the profile.
+- Articles: a plan call (user's list plus proposals from patterns) and one call per article. Compilations use the gated tags from the DB.
+
 ## Open
-- Storage: generated markdown as in layer 1, DB tables for tags, or both. Tags need a queryable store for the filter and the draft panel.
-- How the LLM gets our numbers: a prepared stat block per player in the prompt (proposal).
-- Order of the first run: profiles for the players who can be drafted (about 250), then teams, then articles (proposal).
 - NBA news source for in-season updates. Not chosen.
-- Check of LLM output: layer 1 has a quote check. Layer 2 needs its own check that every statement points to a note or a number (proposal).
+- Incremental updates (merge and contradiction check), dirty thresholds, change list, drift guard: not built. v1 rebuilds a profile when its input notes or the prompt version change.
+- Raw transcript expansion around a note's timestamp: not used.
+- Thresholds of the category gate are tuned on a few players, not fitted.
+- T-017 values in compilations: when the engine exists.
 
 ## First steps for the session that takes T-022
 1. Read this file, `docs/GLOSSARY.md`, the demo, and `prompts/expert_digest/` plus `backend/app/experts/` for the layer 1 pattern.

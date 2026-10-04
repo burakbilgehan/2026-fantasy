@@ -1,0 +1,138 @@
+{
+ "player": {
+  "name": "Brayden Burries",
+  "slug": "brayden-burries",
+  "pk": 77,
+  "team": "MIL",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "b825b382c34c",
+ "note_count": 5,
+ "built_at": "2026-10-04T17:24:58+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1160462,
+  "duration_ms": 26479
+ },
+ "current": [
+  {
+   "text": "Milwaukee drafted him 10th overall. The team sees him as its long-term shooting guard.",
+   "kind": "fact",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p17"
+   ]
+  },
+  {
+   "text": "In summer league he averaged about 19 points, 4 rebounds, 3.5 assists, 1.8 threes and 1.6 steals.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p15"
+   ]
+  },
+  {
+   "text": "The Milwaukee backcourt is crowded. Rollins, Herro, Porter, Jakucionis, Trent and Green all compete with him for guard minutes.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t4",
+    "7BllEsdNLoM:t0",
+    "sTtFUy7IoJI:t8",
+    "RsjGTgJiKyI:t3"
+   ]
+  },
+  {
+   "text": "He is not among Milwaukee's projected starters. Those are Rollins, Herro, Jaquez, Ware and Turner.",
+   "kind": "fact",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:t2"
+   ]
+  },
+  {
+   "text": "Experts do not expect him to play 30 minutes right away. The guards ahead of him limit his immediate impact, and he may need until his third year to be useful for fantasy.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p15",
+    "RsjGTgJiKyI:p15"
+   ]
+  },
+  {
+   "text": "Ranked 10th among rookies for category leagues.",
+   "kind": "verdict",
+   "date": "2026-06-28",
+   "until": "",
+   "sources": [
+    "RsjGTgJiKyI:p15"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a shooting guard or combo guard. His profile is solid: he scores, makes threes at a good rate, adds okay rebounds and assists and shoots good percentages. His steals are below average.",
+   "kind": "verdict",
+   "date": "2026-06-28",
+   "until": "",
+   "sources": [
+    "RsjGTgJiKyI:p15",
+    "RsjGTgJiKyI:p16"
+   ]
+  },
+  {
+   "text": "Experts see a flat stat profile with no standout skill, which puts a limit on his fantasy upside.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p15",
+    "HxQjagSTTAM:p6"
+   ]
+  },
+  {
+   "text": "His best case is about 80% of Bradley Beal.",
+   "kind": "verdict",
+   "date": "2026-06-28",
+   "until": "",
+   "sources": [
+    "RsjGTgJiKyI:p16"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "rookie",
+   "channel": "current",
+   "detail": "10th overall pick in 2026",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p17"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Crowded guard group: Rollins, Herro, Porter, Jakucionis, Trent, Green",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t4",
+    "7BllEsdNLoM:t0",
+    "sTtFUy7IoJI:t8",
+    "RsjGTgJiKyI:t3"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites price him at 0 USD and rank him well outside the 144 players we draft (242 on Yahoo, 225 on ESPN), so do not draft him. The two projections see different roles: Yahoo has him at 1.3 threes and 2.4 assists, ESPN at 0.4 threes and 4.1 assists. No category stands out, so he does not suit any particular punt build. Early in the season, watch whether Milwaukee cuts or trades guards from its 17-man roster, because that is the only clear path to real minutes for him this year.",
+ "rejected": []
+}

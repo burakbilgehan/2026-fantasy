@@ -1,0 +1,142 @@
+{
+ "player": {
+  "name": "Baylor Scheierman",
+  "slug": "baylor-scheierman",
+  "pk": 498,
+  "team": "BOS",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "7b29656015e1",
+ "note_count": 6,
+ "built_at": "2026-10-04T17:24:02+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1197102,
+  "duration_ms": 27571
+ },
+ "current": [
+  {
+   "text": "He is expected to start for Boston ahead of Payton Pritchard. The newest projected starting five is Derrick White, Scheierman, Jayson Tatum, Paul George and Neemias Queta.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p20",
+    "Bi1cEM03k9Y:p29",
+    "Bi1cEM03k9Y:t1"
+   ]
+  },
+  {
+   "text": "The starting call is not firm. One expert is only about 45% sure he starts and expects only about 20 to 22 minutes a night.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p29"
+   ]
+  },
+  {
+   "text": "Boston is very deep, with at least 12 rotation-level players, so minutes are spread thin.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t2"
+   ]
+  },
+  {
+   "text": "In his last 8 games as a starter last season he played 23 minutes a night and averaged 10 points, 2.5 threes, 3 rebounds and 2.5 assists. He shot 47% from the field and did not miss a free throw.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p32"
+   ]
+  },
+  {
+   "text": "Experts see him as a late flier or swing pick for deeper leagues and a name to watch in his third year. One expert has him barely inside the top 300.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p20",
+    "Bi1cEM03k9Y:p31",
+    "Bi1cEM03k9Y:p32"
+   ]
+  },
+  {
+   "text": "He could reach double-digit scoring if he gets more catch-and-shoot looks.",
+   "kind": "verdict",
+   "date": "2026-07-30",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:p21"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He can shoot and pass, is not a terrible defender and has more size than Pritchard.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p30"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "Projected to start, at about 20 to 22 minutes",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p20",
+    "Bi1cEM03k9Y:p29",
+    "Bi1cEM03k9Y:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Starting spot not settled against Pritchard on a deep roster",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p29",
+    "Bi1cEM03k9Y:t2",
+    "ZYllcj4o6_A:p20"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "Late flier for deeper leagues",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p20",
+    "Bi1cEM03k9Y:p31"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Ranked outside our 144-player draft pool; watch his minutes as a starter",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p31",
+    "Bi1cEM03k9Y:p32",
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo ranks him 296 and ESPN 213, and both sites give him a value of 0 USD. In a league where only 144 players are drafted, he should go undrafted. His projected line has no real category strength, though he adds threes, a good FT% on low volume and few turnovers. Check early whether he keeps the starting job and plays 23 or more minutes, as he did in his late-season starter stretch (10 points, 2.5 threes). If he does, he is a cheap waiver add.",
+ "rejected": []
+}

@@ -1,0 +1,300 @@
+{
+ "player": {
+  "name": "Darryn Peterson",
+  "slug": "darryn-peterson",
+  "pk": 438,
+  "team": "UTA",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "b3e992a0b818",
+ "note_count": 22,
+ "built_at": "2026-10-04T17:28:38+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1878222,
+  "duration_ms": 56137
+ },
+ "current": [
+  {
+   "text": "Rookie. Utah drafted him with the number 2 pick.",
+   "kind": "fact",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:p0",
+    "HxQjagSTTAM:p1"
+   ]
+  },
+  {
+   "text": "The experts disagree on his role. The Jazz preview projects him as a starter next to Keyonte George, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic. A later note says he may not start.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:t0",
+    "CI4k8ofUXXk:p1",
+    "lOshTzDA4SA:p7",
+    "QbdrhJd7LiA:p26"
+   ]
+  },
+  {
+   "text": "He may play in short, staggered stints, the way Markkanen does.",
+   "kind": "verdict",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:p1"
+   ]
+  },
+  {
+   "text": "He has to share usage with Markkanen, George and Jackson. He will not get his Summer League usage of 38%, and all of them lose some touches.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:p0",
+    "lOshTzDA4SA:p7",
+    "lOshTzDA4SA:t2",
+    "-rgXhs5BHiw:t1",
+    "QbdrhJd7LiA:p26"
+   ]
+  },
+  {
+   "text": "Summer League was mixed, with explosive games and bad ones. He averaged 20 points, 5 assists and 5 turnovers. He shot under 40% from the field and 78% from the line.",
+   "kind": "fact",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:p0",
+    "TOn-D1SV7a8:p32"
+   ]
+  },
+  {
+   "text": "The experts expect bad percentages and many turnovers early in his rookie season. They expect him to improve as the season goes on.",
+   "kind": "verdict",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "OBwWCxG9SqM:p13",
+    "RsjGTgJiKyI:p6",
+    "W-R1dzem32s:p42",
+    "Alwse2uXzD4:p22",
+    "uarqbNA2dFk:p21"
+   ]
+  },
+  {
+   "text": "His assists are uncertain this season. One expert says he will not reach six assists right away. Another thinks he can get more than he did at Kansas.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p42",
+    "lOshTzDA4SA:p7",
+    "HxQjagSTTAM:p1"
+   ]
+  },
+  {
+   "text": "Price call: a late-round pick only. His ADP of 92 to 98 is too high. He is fine around pick 120 and a value at pick 134, but it is almost impossible for him to return value inside the top 100. One expert doubts he can combine enough efficiency with enough usage this season.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p46",
+    "_vbAP5y182A:p41",
+    "QbdrhJd7LiA:p26",
+    "uarqbNA2dFk:p21",
+    "OBwWCxG9SqM:p12",
+    "KPdD91Oo8-U:p32"
+   ]
+  },
+  {
+   "text": "One expert gives him the tightest range in round 10, with a best case of 76th and a worst case of about 148th. That expert would take him over AJ Dybantsa in any format.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "DubdKKhMWHo:p23"
+   ]
+  },
+  {
+   "text": "He is an upside rookie flyer at the end of drafts.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "80kfLVnFQ_s:p49",
+    "ZYllcj4o6_A:p46"
+   ]
+  },
+  {
+   "text": "The experts expect Utah to try to win this season. They call fears of tanking and late-season shutdowns misplaced.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "J1Eg3uaAICU:t3",
+    "ahNxsoU8Hx4:t2",
+    "dlo7L8Ru91A:t2",
+    "sTtFUy7IoJI:t6"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "At Kansas he had a usage rate of 30. He scored well, took a high volume of threes and had strong steals and blocks for a guard, with solid rebounds.",
+   "kind": "fact",
+   "date": "2026-06-28",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p6",
+    "RsjGTgJiKyI:p6"
+   ]
+  },
+  {
+   "text": "His assist numbers at Kansas were poor, even though he was a good passer in high school.",
+   "kind": "fact",
+   "date": "2026-06-28",
+   "until": "",
+   "sources": [
+    "-rgXhs5BHiw:p16",
+    "RsjGTgJiKyI:p6"
+   ]
+  },
+  {
+   "text": "One expert expects him to be an electric shooter and rates him near the top of the class as a shooter.",
+   "kind": "verdict",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
+    "-rgXhs5BHiw:p16"
+   ]
+  },
+  {
+   "text": "He is a volume scorer. Efficiency and turnovers are his main category concerns.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p26",
+    "uarqbNA2dFk:p21",
+    "OBwWCxG9SqM:p13",
+    "RsjGTgJiKyI:p6"
+   ]
+  },
+  {
+   "text": "He missed games and played lower minutes in college.",
+   "kind": "fact",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p6",
+    "uarqbNA2dFk:p21"
+   ]
+  },
+  {
+   "text": "If his game comes together, he has the upside of a top 15 fantasy player. He is the number 2 rookie in dynasty rankings.",
+   "kind": "verdict",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p32",
+    "RyzcCGChYgs:p1"
+   ]
+  },
+  {
+   "text": "He is worth more in points leagues than in category leagues.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p26"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "rookie",
+   "channel": "current",
+   "detail": "Number 2 pick in the 2026 draft",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:p0",
+    "HxQjagSTTAM:p1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Shares usage with Markkanen, George and Jaren Jackson Jr.; one note says he may not start",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p26",
+    "lOshTzDA4SA:p7",
+    "lOshTzDA4SA:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "slow start",
+   "channel": "current",
+   "detail": "Early shooting and turnover struggles expected, improving as the season goes on",
+   "until": "",
+   "sources": [
+    "OBwWCxG9SqM:p13",
+    "RsjGTgJiKyI:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "At his Yahoo ADP of 92 to 98, or in round 6",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p26",
+    "uarqbNA2dFk:p21",
+    "_vbAP5y182A:p41",
+    "OBwWCxG9SqM:p12"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "Upside rookie, fine as a late pick around 120",
+   "until": "",
+   "sources": [
+    "80kfLVnFQ_s:p49",
+    "ZYllcj4o6_A:p46",
+    "uarqbNA2dFk:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "points league player",
+   "channel": "durable",
+   "detail": "Volume scorer, better in points than in category leagues",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p26"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "No category flagged weak, but none is strong either",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "His Yahoo rank of 115 and ESPN rank of 123 put him near the end of our 144-player pool. The Yahoo value of 2 USD and ESPN value of 1 USD fit the experts' late-round call, so do not pay the Yahoo average cost of 8.2 USD. The projections expect weak FG% (45.2% on about 14.5 attempts) and 2.1 turnovers. The sites also split on his threes (1.8 vs 0.9 per game), so he is a cheap upside bench stash, not a category anchor. Early in the season, check whether he starts, how many minutes he gets next to Markkanen and George, and whether his FG%, turnovers and assists improve.",
+ "rejected": []
+}

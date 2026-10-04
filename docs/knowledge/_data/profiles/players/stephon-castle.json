@@ -1,0 +1,323 @@
+{
+ "player": {
+  "name": "Stephon Castle",
+  "slug": "stephon-castle",
+  "pk": 93,
+  "team": "SAS",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "7480df1f5787",
+ "note_count": 24,
+ "built_at": "2026-10-04T17:49:18+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1900942,
+  "duration_ms": 58847
+ },
+ "current": [
+  {
+   "text": "He is a projected starter for the Spurs with De'Aaron Fox, Devin Vassell, Tobias Harris and Victor Wembanyama.",
+   "kind": "fact",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:t2"
+   ]
+  },
+  {
+   "text": "The Spurs used him as the primary initiator of their offense.",
+   "kind": "fact",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p20"
+   ]
+  },
+  {
+   "text": "He is expected to lead the Spurs' three guards in minutes because he is versatile on both ends.",
+   "kind": "verdict",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p16"
+   ]
+  },
+  {
+   "text": "The Spurs stagger Fox, Castle and Dylan Harper so that at least two are always on the floor. They may start all three together.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:t3",
+    "BjXP9JODDSg:t2"
+   ]
+  },
+  {
+   "text": "The guard rotation is crowded. More minutes for Harper and a healthy Fox would limit Castle's assists and his upside. One expert does not expect the Spurs to bench Castle or Fox.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p32",
+    "7BllEsdNLoM:t4",
+    "gJUBAJaHzlU:p9",
+    "gJUBAJaHzlU:t6",
+    "g31YlwRe0XQ:p21",
+    "g31YlwRe0XQ:t0",
+    "uarqbNA2dFk:p13",
+    "uarqbNA2dFk:t3",
+    "gerS7ibpaJo:t2"
+   ]
+  },
+  {
+   "text": "He is projected to have about the same usage as last season.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p15"
+   ]
+  },
+  {
+   "text": "Late last season he shot 40% from three for two months. Earlier in the season his FG%, FT% and three-point shooting were very poor and he turned the ball over a lot. He made his free throws in the Finals.",
+   "kind": "fact",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p14",
+    "gerS7ibpaJo:p0",
+    "ZAyie8lKyYc:p21"
+   ]
+  },
+  {
+   "text": "It is unclear if his late-season shooting is real. His category value depends on whether his three-point shooting holds.",
+   "kind": "verdict",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p32",
+    "gJUBAJaHzlU:p8"
+   ]
+  },
+  {
+   "text": "Experts fade him in category leagues at his Yahoo ADP of about 56. They say he goes too early in 9-cat drafts, including in round 5. One expert puts his auction value at about 3 USD.",
+   "kind": "verdict",
+   "date": "2026-09-24",
+   "until": "",
+   "sources": [
+    "_vbAP5y182A:p30",
+    "uarqbNA2dFk:p13",
+    "Alwse2uXzD4:p7",
+    "gJUBAJaHzlU:p9",
+    "OdDkXFhoKsc:p41"
+   ]
+  },
+  {
+   "text": "For category leagues he is ranked in tier 6 among shooting guards and tier 7 among point guards. One expert calls him about right at his ESPN ADP of 75.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p33",
+    "7BllEsdNLoM:p32",
+    "Alwse2uXzD4:p7"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is worth much more in points leagues than in category leagues.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p14",
+    "gerS7ibpaJo:p0",
+    "Alwse2uXzD4:p7",
+    "W-R1dzem32s:p33"
+   ]
+  },
+  {
+   "text": "His assists are elite and far above the pool.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p8",
+    "stats"
+   ]
+  },
+  {
+   "text": "Creating and passing come more naturally to him, and more reliably, than shooting.",
+   "kind": "verdict",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p18"
+   ]
+  },
+  {
+   "text": "Turnovers are a real problem. His turnover rate is a league outlier.",
+   "kind": "verdict",
+   "date": "2026-08-30",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p19",
+    "Alwse2uXzD4:p8",
+    "stats"
+   ]
+  },
+  {
+   "text": "His free throw shooting is poor for a guard.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p8",
+    "Alwse2uXzD4:p8",
+    "stats"
+   ]
+  },
+  {
+   "text": "Experts call him a poor shooter in general.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p14",
+    "Alwse2uXzD4:p8"
+   ]
+  },
+  {
+   "text": "He is a versatile defender. He can guard positions one through three, sometimes fours and even small-ball fives.",
+   "kind": "fact",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p17"
+   ]
+  },
+  {
+   "text": "Experts say his good defense does not turn into many steals and blocks.",
+   "kind": "verdict",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p33",
+    "gJUBAJaHzlU:p8",
+    "Alwse2uXzD4:p8"
+   ]
+  },
+  {
+   "text": "He is much less comfortable scoring when he goes left. Defenses can force him left to slow him down.",
+   "kind": "verdict",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p22"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "AST specialist",
+   "channel": "durable",
+   "detail": "about 7.3 assists per game projected",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p8",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "high TO",
+   "channel": "durable",
+   "detail": "about 3.3 turnovers per game projected",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p19",
+    "Alwse2uXzD4:p8",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt FT fit",
+   "channel": "durable",
+   "detail": "about 74% FT, weak for a guard",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p8",
+    "Alwse2uXzD4:p8",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "Alwse2uXzD4:p8",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "points league player",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p14",
+    "gerS7ibpaJo:p0",
+    "Alwse2uXzD4:p7",
+    "W-R1dzem32s:p33"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Dylan Harper and De'Aaron Fox",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p32",
+    "gJUBAJaHzlU:p9",
+    "g31YlwRe0XQ:p21",
+    "uarqbNA2dFk:p13"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "in category leagues at his Yahoo ADP of about 56",
+   "until": "",
+   "sources": [
+    "_vbAP5y182A:p30",
+    "uarqbNA2dFk:p13",
+    "Alwse2uXzD4:p7",
+    "gJUBAJaHzlU:p9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 13 USD, ESPN value 3 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He went for 1 USD in our auction last year. This year Yahoo values him at 13 USD and ESPN at 3 USD, and the category experts fade him at his Yahoo ADP of about 56, so do not pay near Yahoo's number. His 7.3 projected assists help punt FT% and punt TO builds, but turnovers (z -2.2) and FT% cost those builds little, so his price should stay low. Early in the season, check whether his three-point shooting holds and how many minutes Dylan Harper gets.",
+ "rejected": []
+}

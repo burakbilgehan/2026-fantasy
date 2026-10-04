@@ -1,0 +1,77 @@
+{
+ "player": {
+  "name": "Jaylen Nowell",
+  "slug": "jaylen-nowell",
+  "pk": 744,
+  "team": "WAS",
+  "position": "SG"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "a87b97e0511e",
+ "note_count": 0,
+ "built_at": "2026-10-04T17:35:22+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.10626780000000001,
+  "duration_ms": 19726
+ },
+ "current": [
+  {
+   "text": "Washington has a crowded group of wings and guards. The fifth starter spot is open, with many wings competing for it.",
+   "kind": "fact",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:t0",
+    "gJUBAJaHzlU:t1"
+   ]
+  },
+  {
+   "text": "He is not among Washington's projected starters: Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t1"
+   ]
+  },
+  {
+   "text": "Washington expects a 10 or 11 man rotation, with 12 or 13 players who could justify minutes. A bench guard may not get steady minutes.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t2"
+   ]
+  },
+  {
+   "text": "Trae Young and Anthony Davis will take most of Washington's usage. That leaves little for the other players.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t0",
+    "-rgXhs5BHiw:t0"
+   ]
+  }
+ ],
+ "durable": [],
+ "tags": [
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Washington has a crowded group of wings and guards, and he is not a projected starter",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:t0",
+    "gJUBAJaHzlU:t1",
+    "UTE0dNIv8nY:t1"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "No expert talks about Nowell, and neither site gives him a 2026-27 projection. ESPN values him at 0 USD and ranks him 234th, Yahoo has no price, and he was not drafted in our league last season. That puts him well outside the 144 players we draft. His last two seasons were small samples (13 and 8 games) with weak shooting, and Washington's crowded group of wings and guards makes rotation minutes unlikely. Do not draft him. Only look at him on waivers if he gets a steady rotation role early in the season.",
+ "rejected": []
+}

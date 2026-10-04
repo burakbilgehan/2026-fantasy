@@ -1,0 +1,267 @@
+{
+ "player": {
+  "name": "Dyson Daniels",
+  "slug": "dyson-daniels",
+  "pk": 128,
+  "team": "ATL",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "643fdef0910f",
+ "note_count": 20,
+ "built_at": "2026-10-04T17:31:17+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1633542,
+  "duration_ms": 43258
+ },
+ "current": [
+  {
+   "text": "He is a projected starter for Atlanta next to McCollum, Alexander-Walker, Johnson and Okongwu. Each starter should play 30-plus minutes.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:p8",
+    "4gw4W4RTolY:t1",
+    "H9q2FT3LhNw:t0"
+   ]
+  },
+  {
+   "text": "Experts are confident he keeps his starting spot over Lu Dort.",
+   "kind": "verdict",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "J1Eg3uaAICU:p39",
+    "H9q2FT3LhNw:p8"
+   ]
+  },
+  {
+   "text": "Lu Dort is the main threat to his minutes. Dort and Daniels will play together some but will mostly be staggered for spacing.",
+   "kind": "fact",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p30",
+    "egRrai3Ax38:t5",
+    "H9q2FT3LhNw:t5"
+   ]
+  },
+  {
+   "text": "Atlanta has no true point guard. Ball handling is shared among McCollum, Alexander-Walker, Johnson and Daniels.",
+   "kind": "fact",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:t2"
+   ]
+  },
+  {
+   "text": "He shot about 18% from three last season but over 30% over the last six weeks. His steals fell to about two per game.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p11",
+    "H9q2FT3LhNw:p6",
+    "-y6p5PYLf00:p8",
+    "J1Eg3uaAICU:p39"
+   ]
+  },
+  {
+   "text": "Experts expect his three-point shooting to rebound, which would help his points, FG% and threes. One expert doubts he can be worse than 18% from three.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p8",
+    "J1Eg3uaAICU:p39",
+    "dlo7L8Ru91A:p12",
+    "W-R1dzem32s:p16"
+   ]
+  },
+  {
+   "text": "Experts expect his steals to tick back up. Lloyd says toward three per game, another expert says toward 2.3.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p13",
+    "ahNxsoU8Hx4:p23",
+    "J1Eg3uaAICU:p39",
+    "dlo7L8Ru91A:p12"
+   ]
+  },
+  {
+   "text": "He is drafted around pick 60. Experts see good value there. Lloyd says he should go top 50, around round five, and Josh likes him around pick 52.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p12",
+    "_vbAP5y182A:p28",
+    "ahNxsoU8Hx4:p23",
+    "KPdD91Oo8-U:p15",
+    "W-R1dzem32s:p16"
+   ]
+  },
+  {
+   "text": "His Yahoo projected price is 17 USD, far above his Yahoo average price of about 5 USD.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XnIWJyBB0EM:p10"
+   ]
+  },
+  {
+   "text": "Atlanta's playoff schedule is 4-4-3 games in weeks 19 to 21. The team has 14 back-to-backs, and resting players is not a concern.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t6"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is an elite steals player with excellent defensive metrics and All-Defense level defense.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p13",
+    "KPdD91Oo8-U:p14",
+    "dlo7L8Ru91A:p12",
+    "H9q2FT3LhNw:p9",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is a poor shooter and scorer. Take him when you need steals.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "dlo7L8Ru91A:p12",
+    "H9q2FT3LhNw:p6"
+   ]
+  },
+  {
+   "text": "He grew up as a point guard and handles the ball. He also plays almost a big man role on offense at times.",
+   "kind": "fact",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:p7",
+    "H9q2FT3LhNw:p9"
+   ]
+  },
+  {
+   "text": "His FT% and threes are weak for his position. His FG%, rebounds and assists are good for a wing.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He is a much better category league player than points league player.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p29"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "STL specialist",
+   "channel": "durable",
+   "detail": "About 2.2 projected steals per game, the clear outlier in his profile",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p13",
+    "KPdD91Oo8-U:p14",
+    "dlo7L8Ru91A:p12",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt FT fit",
+   "channel": "durable",
+   "detail": "About 62% FT on low volume",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt 3PM fit",
+   "channel": "durable",
+   "detail": "About 0.5 threes per game",
+   "until": "",
+   "sources": [
+    "stats",
+    "H9q2FT3LhNw:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bounce-back",
+   "channel": "current",
+   "detail": "Three-point shooting and steals expected to recover",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p8",
+    "4gw4W4RTolY:p13",
+    "ahNxsoU8Hx4:p23",
+    "J1Eg3uaAICU:p39"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "Lloyd targets him every draft and says top 50 against an ADP around 60",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p12",
+    "_vbAP5y182A:p28"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "Yahoo average cost about 4.4 USD against a Yahoo value of 17 USD",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p23",
+    "XnIWJyBB0EM:p10",
+    "KPdD91Oo8-U:p15"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 61 and average cost 4.4 USD, ESPN rank 38 and average cost 9.7 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Daniels is a steals anchor (projected 2.2 per game, z +3.9 against the pool) and a locked-in starter. He goes cheap on Yahoo (4.4 USD average cost) even though Yahoo values him at 17 USD, and our league paid 28 USD for him last season. That makes 10 to 18 USD a fair range for punt FT% and punt 3PM builds that also want his assists, rebounds and FG%. Early in the season, check whether his three-point shooting stays near the 30% he hit late last season and whether his steals climb above two per game. Also watch whether Lu Dort cuts into his minutes.",
+ "rejected": []
+}

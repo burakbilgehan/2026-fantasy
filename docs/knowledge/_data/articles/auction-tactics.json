@@ -1,0 +1,280 @@
+{
+ "slug": "auction-tactics",
+ "title": "Auction Tactics for Our 200 USD Live Draft",
+ "type": "topic",
+ "brief": "How do we run a 200 USD live auction for 12 players in a 12-team league: budget split, a streaming spot, nominations, bidding style, price enforcement and the 1 USD endgame? It must explain why a balanced build beats stars and scrubs at 12 teams, how to read a hot or cold room, and why mock prices and Yahoo prices are only guides.",
+ "tags": [],
+ "rule_ids": [
+  "XnIWJyBB0EM:r0",
+  "XnIWJyBB0EM:r1",
+  "XnIWJyBB0EM:r2",
+  "XnIWJyBB0EM:r3",
+  "XnIWJyBB0EM:r4",
+  "XnIWJyBB0EM:r5",
+  "XnIWJyBB0EM:r6",
+  "XnIWJyBB0EM:r7",
+  "XnIWJyBB0EM:r8",
+  "XnIWJyBB0EM:r9",
+  "XnIWJyBB0EM:r10",
+  "XnIWJyBB0EM:r11",
+  "XnIWJyBB0EM:r12",
+  "XnIWJyBB0EM:r13",
+  "XnIWJyBB0EM:r14",
+  "XnIWJyBB0EM:r15",
+  "XnIWJyBB0EM:r16",
+  "XnIWJyBB0EM:r17",
+  "XnIWJyBB0EM:r18",
+  "XnIWJyBB0EM:r19",
+  "XnIWJyBB0EM:r20",
+  "XnIWJyBB0EM:r21",
+  "XnIWJyBB0EM:r22",
+  "XnIWJyBB0EM:r23",
+  "gerS7ibpaJo:r6",
+  "3UGI05PDvrE:r8",
+  "3UGI05PDvrE:r9",
+  "3UGI05PDvrE:r10",
+  "CRLSsoGhb2w:r7",
+  "gJUBAJaHzlU:r9",
+  "KPdD91Oo8-U:r5",
+  "BjXP9JODDSg:r0",
+  "BjXP9JODDSg:r9",
+  "Bi1cEM03k9Y:r1",
+  "C4vlgpJ62NI:r26",
+  "skKXe2CRl8Q:r7",
+  "skKXe2CRl8Q:r8",
+  "3Qm5wLjhvTw:r2",
+  "3Qm5wLjhvTw:r4",
+  "_vbAP5y182A:r4",
+  "NYTH7uQsPCM:r1",
+  "NYTH7uQsPCM:r2",
+  "E-KmhvyZ2CU:r10",
+  "4gw4W4RTolY:r0",
+  "ahNxsoU8Hx4:r0",
+  "QbdrhJd7LiA:r13",
+  "skKXe2CRl8Q:r26",
+  "7BllEsdNLoM:r8",
+  "ZYllcj4o6_A:r5",
+  "_O9pc_u5vH0:r6"
+ ],
+ "proposed": false,
+ "prompt_sha": "12db90749aa2",
+ "built_at": "2026-10-04T20:16:12+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1969248,
+  "duration_ms": 82827
+ },
+ "player_slugs": [],
+ "summary": "In a 12-team league that drafts 144 players, a balanced build beats stars and scrubs. Plan about 185 USD for 11 core players ranked roughly 25 to 75, keep about 13 USD for flexibility, and leave one roster spot for streaming. Treat mock and Yahoo prices as rough guides only. Read the room as prices come in, vary how you nominate and bid, and keep a few dollars plus a long target list for the 1 USD endgame.",
+ "sections": [
+  {
+   "heading": "Why balanced beats stars and scrubs at 12 teams",
+   "paragraphs": [
+    {
+     "text": "The experts' league-size guide is simple. Go stars and scrubs in 8-team leagues. It can work at 10 teams. Anything bigger should go balanced. We have 12 teams, so we go balanced. Stars and scrubs means buying two top 10 players with half to three quarters of the budget, which is 100 to 150 USD for us, and filling the rest cheaply. That plan gets weaker as the league gets deeper. A 12-team league has about 120 starting-level players. We draft 144, so the cheap pool is thin.",
+     "sources": [
+      "XnIWJyBB0EM:r22",
+      "XnIWJyBB0EM:r16",
+      "3Qm5wLjhvTw:r4"
+     ]
+    },
+    {
+     "text": "The cheap end rarely saves you. A 1 USD player has only about a 10% chance of becoming a 10 to 15 USD player. In stars and scrubs, one star injury ruins the team. In a balanced build, losing your best player hurts less. Replacing the 30th best player from waivers is much easier than replacing Jokic.",
+     "sources": [
+      "XnIWJyBB0EM:r17",
+      "XnIWJyBB0EM:r19"
+     ]
+    },
+    {
+     "text": "The market also favors the middle. Managers tend to overpay for top-end players and underpay for the middle range. The balanced target is concrete. Avoid the projected top 20. Put your 11 core players within roughly ranks 25 to 75. The ceiling is lower, but the team is much safer. Usually at least one other manager also goes balanced and bids up mid-round bargains. That weakens stars and scrubs even more.",
+     "sources": [
+      "gerS7ibpaJo:r6",
+      "XnIWJyBB0EM:r18",
+      "XnIWJyBB0EM:r21"
+     ]
+    },
+    {
+     "text": "Balanced is a default, not a rule. If the room goes balanced and a star falls well below his price, take him. No player is a must-have. Do not chase anyone above his price.",
+     "sources": [
+      "XnIWJyBB0EM:r23",
+      "3Qm5wLjhvTw:r2"
+     ]
+    },
+    {
+     "text": "The experts weigh builds differently. The auction notes treat the choice between balanced and stars and scrubs as central at 12 teams. Other notes say value picks and active waiver streaming decide leagues, and that builds and pairings matter much less. Both sides agree on the goal: get players who finish well above their cost. Pick the build because it finds value, not for its own sake.",
+     "sources": [
+      "XnIWJyBB0EM:r22",
+      "ahNxsoU8Hx4:r0",
+      "QbdrhJd7LiA:r13",
+      "skKXe2CRl8Q:r26"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Budget split and the streaming spot",
+   "paragraphs": [
+    {
+     "text": "Do not plan a price for all 12 roster spots. Keep at least one spot for streaming. A streaming spot is worth about a top 100 to 110 player. Late 1 USD players in our draft sit around picks 120 to 144. Our lineups are daily and we get up to 6 adds a week, so check that your streaming spot can use those adds every week.",
+     "sources": [
+      "XnIWJyBB0EM:r2",
+      "3Qm5wLjhvTw:r4"
+     ]
+    },
+    {
+     "text": "Use the experts' buffer plan. Budget about 185 USD for 11 core players, an average of about 17 USD each. Keep about 13 USD of wiggle room. Fill the last slot, your streaming spot, for 1 USD. Aim for at least 250 USD of value from the 200 USD budget. Up to 300 USD is possible in an easier league. Our managers are experienced and trade often, so 250 USD is the realistic bar.",
+     "sources": [
+      "XnIWJyBB0EM:r3",
+      "XnIWJyBB0EM:r10"
+     ]
+    },
+    {
+     "text": "Build decision trees around player shapes, not names. For each slot, list two or three players with a similar stat profile. If you miss a target, or get him cheaper than planned, move that money to another slot. Do not set fixed stat or position targets by stage of the draft. Watch which categories are running out in the room. Keep a clear backup in your queue. Panic after a snipe leads to bad buys.",
+     "sources": [
+      "XnIWJyBB0EM:r4",
+      "C4vlgpJ62NI:r26",
+      "skKXe2CRl8Q:r8",
+      "BjXP9JODDSg:r9"
+     ]
+    },
+    {
+     "text": "Do not flip a punt toggle and pay the inflated punt price. Paying more because a player fits your build is not value. A player you dislike can still be a good buy if he is cheap enough. Before each bid, ask whether you are paying for his best-case outcome or his middle outcome. A player whose floor cannot drop much is worth a lot.",
+     "sources": [
+      "XnIWJyBB0EM:r6",
+      "7BllEsdNLoM:r8",
+      "ZYllcj4o6_A:r5",
+      "NYTH7uQsPCM:r2"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Mock and Yahoo prices are only guides",
+   "paragraphs": [
+    {
+     "text": "Auction prices shift with every setting: roster size, number of teams, categories, and the starter and bench split. Ours is 12 teams, 9 categories, 10 starters and 2 bench. Prices from other leagues tell us little. Before draft day, set a 200 USD budget and 12 teams in your tools so the values come out right.",
+     "sources": [
+      "XnIWJyBB0EM:r1",
+      "3UGI05PDvrE:r8",
+      "3UGI05PDvrE:r10"
+     ]
+    },
+    {
+     "text": "Yahoo average and projected prices are only guides. Yahoo auction prices currently differ a lot from snake ADP, so do not mix the two. A Yahoo ADP based on very few drafts can be inflated. Expect your plan to break during the draft.",
+     "sources": [
+      "XnIWJyBB0EM:r9",
+      "gJUBAJaHzlU:r9",
+      "_O9pc_u5vH0:r6"
+     ]
+    },
+    {
+     "text": "Keep two numbers for each player. Your projection measures his quality. The market price is what he will probably cost. In the snake example, a player you rank 30th with an ADP of 70th should be taken in the 50s, between the two numbers. Apply the same idea to bids. Player values are ranges, not fixed ranks.",
+     "sources": [
+      "skKXe2CRl8Q:r7",
+      "NYTH7uQsPCM:r1"
+     ]
+    },
+    {
+     "text": "The experts disagree on how useful mock auctions are. One says mocks can mislead more than they help. Another adds that mocks never carry over, because once one player goes well under price, the whole draft shifts. Others say mocks have some use if you practice different paths, but warn that repeating one pattern builds habits that cause panic. Mocks from early September matter least, because media day and preseason news changed many opinions. With our draft on 2026-10-18, use October mocks to practice adapting, not to set prices.",
+     "sources": [
+      "CRLSsoGhb2w:r7",
+      "3UGI05PDvrE:r9",
+      "BjXP9JODDSg:r0",
+      "Bi1cEM03k9Y:r1",
+      "E-KmhvyZ2CU:r10",
+      "4gw4W4RTolY:r0"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Reading a hot or cold room",
+   "paragraphs": [
+    {
+     "text": "The total money is fixed, so overspending in one place means underspending somewhere else. Every dollar paid above projection on some players comes out of other players' prices. In a hot room where early players go over value, later prices will dip. Stay patient and let your mid-range targets come to you.",
+     "sources": [
+      "XnIWJyBB0EM:r7"
+     ]
+    },
+    {
+     "text": "A cold room works the other way. If top players sell below expected prices, managers still have money, and mid-round prices will rise. That is when a falling star can be worth buying, even in a balanced plan.",
+     "sources": [
+      "XnIWJyBB0EM:r8",
+      "XnIWJyBB0EM:r23"
+     ]
+    },
+    {
+     "text": "Watch the first 10 or so nominations closely. In nearly every draft, one of them goes well under value. After that, the room tends to push later prices up and everyone's thinking changes. Track what each early player sold for against your price sheet. Then adjust your remaining bid limits up or down.",
+     "sources": [
+      "XnIWJyBB0EM:r11",
+      "3UGI05PDvrE:r9"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Nominations, bidding style and price enforcement",
+   "paragraphs": [
+    {
+     "text": "Mix up your nominations. Put up players you do not want, so other teams spend money that could have gone to your targets. Do not let a pattern form in your nominations either.",
+     "sources": [
+      "XnIWJyBB0EM:r11",
+      "XnIWJyBB0EM:r12"
+     ]
+    },
+    {
+     "text": "Vary your bidding style. Sometimes bid fast, sometimes run down the timer, and sometimes drop out. Against sharp drafters, being predictable will sink you. Our league has experienced managers who trade often, so assume someone is watching how you bid.",
+     "sources": [
+      "XnIWJyBB0EM:r14"
+     ]
+    },
+    {
+     "text": "Use price enforcement. Bid up players that opponents clearly want so they pay full price. Only push to a price at which you would be happy to own the player. You may get stuck with him. Know your stopping point before you bid.",
+     "sources": [
+      "XnIWJyBB0EM:r15",
+      "7BllEsdNLoM:r8"
+     ]
+    },
+    {
+     "text": "Auctions are fair on draft position, but they separate good managers from bad ones much more than snake drafts do. It is easy to go off the rails. Check your remaining budget and open slots after every buy.",
+     "sources": [
+      "KPdD91Oo8-U:r5",
+      "XnIWJyBB0EM:r0"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "The 1 USD endgame",
+   "paragraphs": [
+    {
+     "text": "Keep money for late in the draft. If you spend everything early, you cannot compete for late bargains. The 13 USD of wiggle room is for this stage. Do not spend it on a core player just because you are bidding in the moment.",
+     "sources": [
+      "XnIWJyBB0EM:r5",
+      "XnIWJyBB0EM:r3"
+     ]
+    },
+    {
+     "text": "A team with a few extra dollars can take your 1 USD nominations. Keep long, flexible lists of acceptable late targets, so a snipe costs you nothing. In deeper leagues the 1 USD players get much worse. With 144 players drafted and only about 120 starting-level players, our last picks will be thin.",
+     "sources": [
+      "XnIWJyBB0EM:r13",
+      "XnIWJyBB0EM:r20",
+      "3Qm5wLjhvTw:r4"
+     ]
+    },
+    {
+     "text": "Do not count on late flyers. A 1 USD player turns into a 10 to 15 USD player only about 10% of the time. Your streaming spot, used actively on waivers, is worth about a top 100 to 110 player. That is better than a typical last pick. Value buys plus active streaming is the main way to win.",
+     "sources": [
+      "XnIWJyBB0EM:r17",
+      "XnIWJyBB0EM:r2",
+      "ahNxsoU8Hx4:r0"
+     ]
+    }
+   ]
+  }
+ ],
+ "players": [],
+ "excluded": [],
+ "rejected": []
+}

@@ -1,0 +1,89 @@
+{
+ "player": {
+  "name": "Russell Westbrook",
+  "slug": "russell-westbrook",
+  "pk": 622,
+  "team": "SAC",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "b7dc4dca9d06",
+ "note_count": 2,
+ "built_at": "2026-10-04T17:47:22+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.0925262,
+  "duration_ms": 15780
+ },
+ "current": [
+  {
+   "text": "He is unsigned. He is not on the Sacramento roster, and the team shows no interest in bringing him back.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:p35",
+    "oEywzBZfAvY:p25",
+    "LM0cRCGoAUQ:t5",
+    "2A2JbUN-kc0:t0"
+   ]
+  },
+  {
+   "text": "The expert does not expect him to have a fantasy impact this season.",
+   "kind": "verdict",
+   "date": "2026-07-13",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:p35"
+   ]
+  },
+  {
+   "text": "His role and value depend on whether he signs with a team and where.",
+   "kind": "verdict",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:p35",
+    "oEywzBZfAvY:p25"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Experts see him as a weak shooter. Kings passers had a low assist conversion rate with him on the floor because he could not make shots.",
+   "kind": "verdict",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:t4"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "unsigned",
+   "channel": "current",
+   "detail": "Gone from Sacramento, no interest in a return",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:p35",
+    "oEywzBZfAvY:p25"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 264 and 0 USD, ESPN rank 109 and 2 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Do not draft him in our auction. He is unsigned, Yahoo values him at 0 USD (rank 264), and its projection of 9.5 points and 3.8 assists in a small role puts him well outside our 144 drafted players. ESPN's rank of 109 assumes a role he does not have yet. If he signs with a team before or during the season, check his minutes and usage on waivers, since he produced 15.2 points and 6.7 assists per game last season.",
+ "rejected": []
+}

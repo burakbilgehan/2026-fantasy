@@ -1,0 +1,296 @@
+{
+ "team": "LAC",
+ "prompt_version": 1,
+ "prompt_sha": "07b4ed7fd28e",
+ "input_sha": "4ab8bbc944a9",
+ "note_count": 28,
+ "built_at": "2026-10-04T20:03:51+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.29454199999999997,
+  "duration_ms": 77226
+ },
+ "current": [
+  {
+   "text": "The Clippers do not control their own draft pick this season. It goes to the Thunder, and they lost five first-round picks in an NBA ruling.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t0",
+    "sfCe7fS9daM:t11",
+    "xHRF06_E9HE:t2",
+    "Rqb5GdrSweY:t3",
+    "JMSLg6yz-M0:t4",
+    "KLogvUwv_d8:t1",
+    "OBwWCxG9SqM:t0"
+   ]
+  },
+  {
+   "text": "Owner Steve Ballmer was fined 30 million USD and suspended.",
+   "kind": "fact",
+   "date": "2026-09-03",
+   "until": "",
+   "sources": [
+    "OBwWCxG9SqM:t0"
+   ]
+  },
+  {
+   "text": "Tanking does not help the Clippers because they do not own their pick, and the owner will not tank. Their motivation this season is still unclear.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t0",
+    "KLogvUwv_d8:t1"
+   ]
+  },
+  {
+   "text": "The Clippers will probably try to stay somewhat competitive to attract free agents while they develop young players.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t1",
+    "KLogvUwv_d8:t1"
+   ]
+  },
+  {
+   "text": "This looks like a trial season with long rotations and many players tested, so minutes may be spread thin.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t1"
+   ]
+  },
+  {
+   "text": "The team is in a reset. Harden, Zubac, Kawhi Leonard, Collins, Bogdanovic and Batum are gone. Ingram, Garland, Hachimura, Wagler and Max Strus came in.",
+   "kind": "fact",
+   "date": "2026-09-03",
+   "until": "",
+   "sources": [
+    "KLogvUwv_d8:t0",
+    "JMSLg6yz-M0:t2",
+    "OBwWCxG9SqM:t5",
+    "g31YlwRe0XQ:t3",
+    "4GDfg2n2l8o:t6"
+   ]
+  },
+  {
+   "text": "The Clippers have one of the worst rosters in the league and are expected to struggle. Their win total is 30.5, 24th of 30.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t5",
+    "0AptxcRW0RE:t9",
+    "JMSLg6yz-M0:t4",
+    "stats"
+   ]
+  },
+  {
+   "text": "They are probably the most injury-hit team in the league. Brandon Ingram, Bradley Beal, Jordan Miller and Yanic Konan Niederhauser are all out.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t5",
+    "BjXP9JODDSg:t6",
+    "OBwWCxG9SqM:t5",
+    "4GDfg2n2l8o:t6"
+   ]
+  },
+  {
+   "text": "Projected starting five while Ingram is out: Darius Garland, Max Strus, Derrick Jones Jr., Rui Hachimura and Isaiah Jackson. The expert has low confidence in this projection.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t3",
+    "OBwWCxG9SqM:t5"
+   ]
+  },
+  {
+   "text": "Our depth chart still lists Brook Lopez, Brandon Ingram and Keaton Wagler as starters, so the starting five is not settled.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats",
+    "tnzmsYUA4yQ:t3",
+    "JMSLg6yz-M0:t3"
+   ]
+  },
+  {
+   "text": "Isaiah Jackson is starting over Brook Lopez in preseason scrimmages. This may not continue.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t6"
+   ]
+  },
+  {
+   "text": "Projected bench order: Kris Dunn sixth, Bradley Beal seventh, Brook Lopez as backup center, Keaton Wagler as backup point guard and Kobe Sanders tenth.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t4"
+   ]
+  },
+  {
+   "text": "Center is a weak spot. The options are 39-year-old Brook Lopez, the injured Yanic Konan Niederhauser and Isaiah Jackson.",
+   "kind": "fact",
+   "date": "2026-07-13",
+   "until": "",
+   "sources": [
+    "4GDfg2n2l8o:t6",
+    "Rqb5GdrSweY:t3",
+    "JMSLg6yz-M0:t2"
+   ]
+  },
+  {
+   "text": "Garland and Ingram will handle nearly all of the offense. The roster is not set up to give the offense to rookies.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:t0"
+   ]
+  },
+  {
+   "text": "The Clippers will play several low-usage players, which leaves room for Ingram's usage to rise.",
+   "kind": "verdict",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:t5"
+   ]
+  },
+  {
+   "text": "Rui Hachimura replacing John Collins is probably an offensive downgrade.",
+   "kind": "verdict",
+   "date": "2026-07-14",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:t3"
+   ]
+  },
+  {
+   "text": "The fantasy playoff schedule is good: 4, 3 and 4 games in weeks 19 to 21, which is 11 games and ranks 4th of 30.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t6",
+    "stats"
+   ]
+  },
+  {
+   "text": "They have 13 back-to-backs, the fewest in the league, so rest risk for their players is lower.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t6",
+    "stats"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Coach Ty Lue makes unusual rotation choices and then changes them.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t2"
+   ]
+  },
+  {
+   "text": "Ty Lue's rotation changes make Clippers role players hard to trust for fantasy.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t2"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "4-3-4 in weeks 19 to 21, 11 games, rank 4 of 30",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t6",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13 back-to-backs, fewest in the league",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t6",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "no tank incentive",
+   "channel": "current",
+   "detail": "Pick goes to the Thunder; owner will not tank",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t0",
+    "KLogvUwv_d8:t1",
+    "sfCe7fS9daM:t11"
+   ],
+   "new_meaning": "The team does not own its draft pick, so losing games brings it no draft benefit."
+  },
+  {
+   "name": "rebuilding team",
+   "channel": "current",
+   "detail": "Reset after losing Harden, Zubac and Kawhi Leonard; win total 30.5, rank 24 of 30",
+   "until": "",
+   "sources": [
+    "KLogvUwv_d8:t0",
+    "tnzmsYUA4yQ:t5",
+    "stats"
+   ],
+   "new_meaning": "The team is in a reset with low expected wins and a focus on developing players."
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Starting five and center job unclear; Jackson vs Lopez at center",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t3",
+    "EGdhmUgPAWY:t6",
+    "JMSLg6yz-M0:t3",
+    "RyzcCGChYgs:t4"
+   ],
+   "new_meaning": "The team's starters and rotation order are not settled, so player roles may change early in the season."
+  },
+  {
+   "name": "long rotation",
+   "channel": "current",
+   "detail": "Trial season with many players tested",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t1"
+   ],
+   "new_meaning": "The team is expected to spread minutes over many players, which lowers minutes for each one."
+  }
+ ],
+ "note": "Darius Garland is the main gainer because he and Ingram will handle nearly all of the offense. Ingram is an IL stash whose usage can rise when he returns, and Strus, Hachimura and Jones Jr. get cheap starter minutes while the roster is short. The good 4-3-4 playoff schedule and the league-low 13 back-to-backs help every Clippers player, but Ty Lue's changing rotations make role players risky. Early on, watch whether Isaiah Jackson or Brook Lopez wins the center job.",
+ "rejected": []
+}

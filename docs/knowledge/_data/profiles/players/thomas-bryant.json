@@ -1,0 +1,136 @@
+{
+ "player": {
+  "name": "Thomas Bryant",
+  "slug": "thomas-bryant",
+  "pk": 74,
+  "team": "CLE",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "ebf701981eb0",
+ "note_count": 4,
+ "built_at": "2026-10-04T17:49:15+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1592116,
+  "duration_ms": 31296
+ },
+ "current": [
+  {
+   "text": "Bryant is Cleveland's only backup big behind Evan Mobley and Jarrett Allen. Behind him on the depth chart are only Ernest Udeh Jr. and Khalifa Diop.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p43",
+    "rnq3118kfhY:p13",
+    "W3THnI7wWdA:p33",
+    "NmdNvAz08oE:t4",
+    "rnq3118kfhY:t2"
+   ]
+  },
+  {
+   "text": "Cleveland lost Dean Wade, so the team no longer has a small-ball five option behind its two starting bigs.",
+   "kind": "fact",
+   "date": "2026-08-24",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:t2",
+    "rnq3118kfhY:t1"
+   ]
+  },
+  {
+   "text": "He is projected as the 10th man in the rotation. Center depth is so poor that he should play most nights.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p43",
+    "NmdNvAz08oE:p44"
+   ]
+  },
+  {
+   "text": "He is a stash in deep leagues only. If both Allen and Mobley were out, he could be a top 50 to 60 player.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p44"
+   ]
+  },
+  {
+   "text": "With a March 28 end, Cleveland plays 4, 3 and then 2 games in the fantasy playoff weeks, so the finals week has only two games. Cleveland also has the most back-to-backs in the league.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t5",
+    "NmdNvAz08oE:t6",
+    "gf_6GveiAls:t2",
+    "gf_6GveiAls:t15"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Experts call him a bad player in real life. He is inconsistent, his shooting is bad and his defense is weak at times. He still puts up fantasy value when he gets minutes.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:p13",
+    "W3THnI7wWdA:p33",
+    "NmdNvAz08oE:p43",
+    "NmdNvAz08oE:p44"
+   ]
+  },
+  {
+   "text": "His steals are very low, even for his small role.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "Only backup big behind Allen and Mobley. Could be a top 50 to 60 player if both are out.",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p44",
+    "rnq3118kfhY:p13",
+    "NmdNvAz08oE:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Pick up if Allen or Mobley misses time.",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p44"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "4, 3 and 2 games in weeks 19 to 21. Two-game finals week.",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t5",
+    "gf_6GveiAls:t15"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites value him at 0 USD and rank him around 300, so he will not be drafted in our 144-player auction. In 12 teams he is a waiver handcuff for Allen and Mobley, and his value jumps only if one or both of them miss time. Check how many minutes he gets each night early in the season. Do not plan on him for the playoffs, because Cleveland plays only 2 games in the finals week.",
+ "rejected": []
+}

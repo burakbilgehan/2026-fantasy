@@ -1,0 +1,268 @@
+{
+ "player": {
+  "name": "Anthony Edwards",
+  "slug": "anthony-edwards",
+  "pk": 160,
+  "team": "MIN",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "f8d6b1c8ec19",
+ "note_count": 22,
+ "built_at": "2026-10-04T17:23:45+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1790262,
+  "duration_ms": 50037
+ },
+ "current": [
+  {
+   "text": "Minnesota traded Julius Randle and Naz Reid for LaMelo Ball. Ball, Edwards, Jaden McDaniels and Rudy Gobert are set as four of the five starters.",
+   "kind": "fact",
+   "date": "2026-08-19",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:t0",
+    "2mxpEpGU3H8:t1"
+   ]
+  },
+  {
+   "text": "Coach Chris Finch said the team did Edwards a disservice by playing him on the ball so much.",
+   "kind": "fact",
+   "date": "2026-08-19",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:p4"
+   ]
+  },
+  {
+   "text": "With Ball in the lineup, Edwards should play more off the ball. Experts expect more catch-and-shoot threes and fewer assists.",
+   "kind": "verdict",
+   "date": "2026-08-19",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:p4",
+    "NYTH7uQsPCM:p28",
+    "NYTH7uQsPCM:t3"
+   ]
+  },
+  {
+   "text": "Experts disagree on how Ball affects his scoring. One expects his points to fall to around 27 per game. Another expects better efficiency and possibly more defense now that Ball takes some of the offensive load.",
+   "kind": "verdict",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "ME-r173X5b0:p2",
+    "2A2JbUN-kc0:p14"
+   ]
+  },
+  {
+   "text": "Ball and Edwards should both be able to keep their three-point volume.",
+   "kind": "verdict",
+   "date": "2026-07-07",
+   "until": "",
+   "sources": [
+    "ME-r173X5b0:p3",
+    "ME-r173X5b0:t0"
+   ]
+  },
+  {
+   "text": "Experts rank him around 7th to 8th in 9-cat. They are fine taking him from pick 7 to pick 10, but not at pick 5, and most would not take him at 6 either.",
+   "kind": "verdict",
+   "date": "2026-09-24",
+   "until": "",
+   "sources": [
+    "_vbAP5y182A:p0",
+    "2A2JbUN-kc0:p14",
+    "W-R1dzem32s:p3",
+    "gf_6GveiAls:p27",
+    "J1Eg3uaAICU:p7"
+   ]
+  },
+  {
+   "text": "One expert says his Yahoo ADP of 17 is far too late for a tier 2 category player.",
+   "kind": "verdict",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p4"
+   ]
+  },
+  {
+   "text": "Minnesota plays only two games in the week starting March 15. That is week 20, in the middle of our fantasy playoffs.",
+   "kind": "fact",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p26",
+    "gf_6GveiAls:t14",
+    "2mxpEpGU3H8:t4",
+    "J1Eg3uaAICU:t0",
+    "QbdrhJd7LiA:t4"
+   ]
+  },
+  {
+   "text": "Because of the two-game playoff week, move him down slightly in close calls between similar players.",
+   "kind": "verdict",
+   "date": "2026-08-19",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p26",
+    "2mxpEpGU3H8:p8",
+    "J1Eg3uaAICU:p7"
+   ]
+  },
+  {
+   "text": "He missed enough games last season that he did not qualify for All-NBA.",
+   "kind": "fact",
+   "date": "2026-08-19",
+   "until": "",
+   "sources": [
+    "8d--aL_xxwE:p7",
+    "2mxpEpGU3H8:p7"
+   ]
+  },
+  {
+   "text": "Minnesota should be competitive, so late-season rest for tanking is unlikely.",
+   "kind": "verdict",
+   "date": "2026-07-13",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:t8"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He shoots threes at high volume at around 40%. Two years ago he was the best catch-and-shoot shooter in the NBA.",
+   "kind": "fact",
+   "date": "2026-08-19",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:p6"
+   ]
+  },
+  {
+   "text": "Points and threes are his big strengths. Both are far above the top 250 pool.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Turnovers are his clear weak category, even for a guard.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "His assist rate has fallen in each of the last three years. His turnovers have stayed about the same.",
+   "kind": "fact",
+   "date": "2026-08-19",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:p5"
+   ]
+  },
+  {
+   "text": "He had a reputation for never missing time, but he was hurt a lot last season.",
+   "kind": "fact",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p4",
+    "8d--aL_xxwE:p7"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "PTS specialist",
+   "channel": "durable",
+   "detail": "about 29 points per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "3PM specialist",
+   "channel": "durable",
+   "detail": "high volume at around 40%",
+   "until": "",
+   "sources": [
+    "stats",
+    "2mxpEpGU3H8:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "high TO",
+   "channel": "durable",
+   "detail": "about 3 turnovers per game",
+   "until": "",
+   "sources": [
+    "stats",
+    "2mxpEpGU3H8:p5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "two-game week starting March 15 (week 20)",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p26",
+    "gf_6GveiAls:t14",
+    "2mxpEpGU3H8:t4",
+    "QbdrhJd7LiA:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "played 61 games after years as an iron man",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p4",
+    "8d--aL_xxwE:p7",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "less on-ball time next to LaMelo Ball, so fewer assists and possibly fewer points",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p28",
+    "ME-r173X5b0:p2",
+    "2mxpEpGU3H8:p4"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He is a first-round scorer: he costs about 59 to 60 USD on both Yahoo and ESPN, and he went for 55 USD in our league last season. Experts rank him 7th to 8th, which makes Yahoo's value of 52 USD look like the more honest ceiling. Elite points and threes plus a turnover hit make him a natural fit for punt TO builds, but the two-game week 20 in our playoffs costs him a little against similar players. Early in the season, check how his assists and scoring change next to LaMelo Ball, and whether he is healthy after missing 21 games last season.",
+ "rejected": []
+}

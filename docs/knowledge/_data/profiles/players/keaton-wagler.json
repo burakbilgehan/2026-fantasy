@@ -1,0 +1,212 @@
+{
+ "player": {
+  "name": "Keaton Wagler",
+  "slug": "keaton-wagler",
+  "pk": 576,
+  "team": "LAC",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "c16933a311fa",
+ "note_count": 11,
+ "built_at": "2026-10-04T17:38:37+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.2099598,
+  "duration_ms": 44810
+ },
+ "current": [
+  {
+   "text": "He is a rookie, the number 5 overall pick in the 2026 draft.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p29",
+    "KLogvUwv_d8:p8"
+   ]
+  },
+  {
+   "text": "He is projected as the backup point guard behind Darius Garland and is not expected to start. He plays the same position as Garland.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p29",
+    "tnzmsYUA4yQ:t4",
+    "KLogvUwv_d8:p8",
+    "RyzcCGChYgs:p24"
+   ]
+  },
+  {
+   "text": "The guard rotation is crowded with Garland, Beal, Dunn, Sanders and Strus. He is expected to play around 25 minutes and is probably not a 30-minute player.",
+   "kind": "verdict",
+   "date": "2026-09-03",
+   "until": "",
+   "sources": [
+    "OBwWCxG9SqM:p21",
+    "RyzcCGChYgs:p24"
+   ]
+  },
+  {
+   "text": "The Clippers may treat this as a trial season with long rotations, and coach Ty Lue often changes his rotation choices. This makes his minutes hard to predict.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t1",
+    "tnzmsYUA4yQ:t2"
+   ]
+  },
+  {
+   "text": "Experts say he should not be drafted in standard formats. He is more likely to finish outside the top 250 than inside the top 100, and his Yahoo ADP of 117 is too high.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p29",
+    "OBwWCxG9SqM:p21"
+   ]
+  },
+  {
+   "text": "He is only a stash option around pick 170 in 16-team leagues. His value is higher in dynasty formats.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p31"
+   ]
+  },
+  {
+   "text": "The Clippers have a good fantasy playoff schedule (4-3-4 games in weeks 19 to 21 for a March 28 end) and one of the lowest back-to-back totals in the league with 13.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t6"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a skilled, high-IQ guard who can pull up off screens and catch and shoot.",
+   "kind": "fact",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "KLogvUwv_d8:p9",
+    "HxQjagSTTAM:p3"
+   ]
+  },
+  {
+   "text": "His lack of athleticism is a concern. He did not dunk once at Illinois.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p30",
+    "KLogvUwv_d8:p9",
+    "HxQjagSTTAM:p3"
+   ]
+  },
+  {
+   "text": "He is expected to shoot very poorly and have efficiency problems.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p30"
+   ]
+  },
+  {
+   "text": "His play is inconsistent. He looked terrible at times but had some high-level scoring games.",
+   "kind": "fact",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p27",
+    "RyzcCGChYgs:p24"
+   ]
+  },
+  {
+   "text": "He played better defense than expected at Summer League.",
+   "kind": "fact",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "KLogvUwv_d8:p9"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "rookie",
+   "channel": "current",
+   "detail": "No. 5 overall pick in 2026",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p29",
+    "KLogvUwv_d8:p8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Backup PG behind Garland; Beal, Dunn, Sanders and Strus also in the guard rotation",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p29",
+    "tnzmsYUA4yQ:t4",
+    "OBwWCxG9SqM:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Not draftable in standard formats; watch his minutes and efficiency",
+   "until": "",
+   "sources": [
+    "OBwWCxG9SqM:p21",
+    "tnzmsYUA4yQ:p29"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "Yahoo ADP 117 is too high",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p29",
+    "OBwWCxG9SqM:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "LAC 4-3-4 in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "LAC has 13 back-to-backs",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t6"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites value him at 0 USD and rank him around 208 to 210, well outside the 144 players drafted in our league, so do not spend on him in the auction. His projections help with no category (best z is +0.4 in AST), and experts expect poor efficiency in a backup role of about 25 minutes. Keep him on the waiver watch list early on. Check whether his minutes grow while Beal is out and whether his FG% holds above 45%.",
+ "rejected": []
+}

@@ -1,0 +1,164 @@
+{
+ "slug": "punt-blk-targets",
+ "title": "Punt BLK: Player Targets",
+ "type": "compilation",
+ "brief": "Which players fit a punt BLK build, and how do they keep us competitive in REB and FG%? It must warn that blocks travel with rebounds and FG%, so chasing only low-block players can sink those two categories too.",
+ "tags": [
+  "punt BLK fit"
+ ],
+ "rule_ids": [
+  "C4vlgpJ62NI:r8",
+  "C4vlgpJ62NI:r9",
+  "ME-r173X5b0:r13",
+  "ME-r173X5b0:r18",
+  "0geFVzSqOnA:r4"
+ ],
+ "proposed": false,
+ "prompt_sha": "12db90749aa2",
+ "built_at": "2026-10-04T20:14:33+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1042528,
+  "duration_ms": 38207
+ },
+ "player_slugs": [
+  "aaron-gordon",
+  "bobby-portis",
+  "immanuel-quickley",
+  "jalen-brunson",
+  "payton-pritchard",
+  "saddiq-bey",
+  "tre-jones"
+ ],
+ "summary": "Punting blocks fits our 9-cat league because blocks are volatile, so a punt team still steals some weeks by surprise. The catch is that blocks travel with rebounds and FG%. Chasing only low-block players can sink those two categories too, so every punt BLK target must be checked for rebounds and FG%, not just for a low block number.",
+ "sections": [
+  {
+   "heading": "Why blocks are a good category to punt",
+   "paragraphs": [
+    {
+     "text": "Blocks change a lot from one year to the next. That makes them hard to plan around and easy to give up.",
+     "sources": [
+      "ME-r173X5b0:r13"
+     ]
+    },
+    {
+     "text": "The notes rank blocks with steals, threes and FT% as high-variance categories. Those are the better ones to punt, because you still win some weeks by surprise. Points and assists are stable, high-volume categories and are bad to punt. In our 9-cat head-to-head league, that means a punt BLK team can still take the blocks category in a lucky week and should never give up on points or assists.",
+     "sources": [
+      "ME-r173X5b0:r18"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "The warning: blocks travel with rebounds and FG%",
+   "paragraphs": [
+    {
+     "text": "High blocks go with high rebounds and high FG%. The reverse also holds. If you chase low-block players when punting blocks, your rebounds and FG% will suffer too. A punt BLK plan can quietly become a punt of three categories, and that loses most weeks.",
+     "sources": [
+      "C4vlgpJ62NI:r8",
+      "C4vlgpJ62NI:r9"
+     ]
+    },
+    {
+     "text": "Rebounds, blocks and FG% are the one cluster that moves together. That is why the big man build is hard to run. A punt BLK team is the mirror image: it drifts away from the same cluster, so you have to pull rebounds and FG% back in on purpose.",
+     "sources": [
+      "0geFVzSqOnA:r4"
+     ]
+    },
+    {
+     "text": "The correlations also hit turnovers. High assists go with high turnovers, and low turnovers go with low points and assists. A punt BLK roster built on assist guards can lose TO as well. Favor guards whose profiles show low turnovers next to their assists.",
+     "sources": [
+      "C4vlgpJ62NI:r8"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "How to run it in our auction",
+   "paragraphs": [
+    {
+     "text": "Rule 1: do not pay for blocks. Any big whose price is built on blocks is someone else's player. Spend the 200 USD on guards and wings who give points, threes, FT% and assists, the stable categories you must not lose.",
+     "sources": [
+      "ME-r173X5b0:r18",
+      "C4vlgpJ62NI:r9"
+     ]
+    },
+    {
+     "text": "Rule 2: check two numbers on every target besides blocks. Look at projected FG% and projected rebounds. A low-block guard with a weak FG% makes the punt worse, because FG% is a team ratio and volume shooters move it most. Prefer low-block players whose FG% is at or above average.",
+     "sources": [
+      "C4vlgpJ62NI:r8",
+      "C4vlgpJ62NI:r9"
+     ]
+    },
+    {
+     "text": "Rule 3: you still need a C and three F slots filled every day. Use your late dollars, around 1 to 2 USD, on low-block forwards and centers who still rebound or shoot efficiently. That keeps REB and FG% alive without paying for blocks.",
+     "sources": [
+      "0geFVzSqOnA:r4",
+      "C4vlgpJ62NI:r9"
+     ]
+    },
+    {
+     "text": "Rule 4: after the draft, use FAB and the 6 weekly adds to stream rebounds and FG% when a matchup is close. Do not stream for blocks. Because blocks are volatile, check in the first weeks whether any of your low-block players suddenly block more shots. That is a bonus, not a reason to change the plan.",
+     "sources": [
+      "ME-r173X5b0:r13",
+      "C4vlgpJ62NI:r9"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Where the notes pull in different directions",
+   "paragraphs": [
+    {
+     "text": "One side says blocks are a smart punt. They are volatile, so you still win some weeks for free and give up little. The other side warns that the punt is not free. Blocks travel with rebounds and FG%, so a careless punt BLK draft also loses those two categories. Both are right. Punt blocks, but guard REB and FG% on every pick.",
+     "sources": [
+      "ME-r173X5b0:r18",
+      "ME-r173X5b0:r13",
+      "C4vlgpJ62NI:r8",
+      "C4vlgpJ62NI:r9"
+     ]
+    }
+   ]
+  }
+ ],
+ "players": [
+  {
+   "slug": "jalen-brunson",
+   "tier": "Core target at fair price",
+   "line": "The strongest punt BLK guard here for points, threes, FT% and assists, but let others pay above his round 4 value and check his minutes plan, wrist and back-to-back rest early."
+  },
+  {
+   "slug": "payton-pritchard",
+   "tier": "Value at price",
+   "line": "Gives threes, FT%, assists and low turnovers and rarely misses games, which suits punt BLK at a single-digit price, though nothing in his profile helps REB or FG%."
+  },
+  {
+   "slug": "immanuel-quickley",
+   "tier": "Late flyers",
+   "line": "Adds threes, assists and FT% for a punt BLK guard build, but his roughly 43.5% FG% compounds the FG% loss the punt already brings."
+  },
+  {
+   "slug": "aaron-gordon",
+   "tier": "Late flyers",
+   "line": "A 1 to 2 USD bench big with F and C eligibility and a slight FG% edge that helps keep FG% alive, but only if his health and Denver minutes hold up."
+  },
+  {
+   "slug": "bobby-portis",
+   "tier": "Late flyers",
+   "line": "A cheap bench big who adds rebounds, a few threes and few turnovers with few blocks, a good way to keep REB alive, though his FT% and minutes need checking early."
+  },
+  {
+   "slug": "tre-jones",
+   "tier": "Waiver watch",
+   "line": "His projected 54.5% FG% is rare for a low-block guard and helps FG%, plus assists with few turnovers, so add him if his minutes grow."
+  },
+  {
+   "slug": "saddiq-bey",
+   "tier": "Waiver watch",
+   "line": "Fits punt BLK with FT%, threes and very few turnovers, but his FG% hurts a little and his minutes may drop, so leave him on waivers."
+  }
+ ],
+ "excluded": [],
+ "rejected": []
+}

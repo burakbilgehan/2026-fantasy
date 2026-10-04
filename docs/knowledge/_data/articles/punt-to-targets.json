@@ -1,0 +1,437 @@
+{
+ "slug": "punt-to-targets",
+ "title": "Punt TO: Player Targets",
+ "type": "compilation",
+ "brief": "Which high-usage players gain value for us if we ignore turnovers, and how should they be tiered by price? It must explain why experts ignore TO in head-to-head leagues and that streaming for games raises turnovers anyway.",
+ "tags": [
+  "punt TO fit"
+ ],
+ "rule_ids": [
+  "ahNxsoU8Hx4:r2",
+  "C4vlgpJ62NI:r7",
+  "C4vlgpJ62NI:r8",
+  "C4vlgpJ62NI:r24",
+  "0geFVzSqOnA:r15",
+  "0geFVzSqOnA:r18",
+  "0geFVzSqOnA:r19",
+  "0geFVzSqOnA:r20",
+  "t4n9MAP2_14:r2"
+ ],
+ "proposed": false,
+ "prompt_sha": "12db90749aa2",
+ "built_at": "2026-10-04T20:14:48+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.28988800000000003,
+  "duration_ms": 78602
+ },
+ "player_slugs": [
+  "aj-dybantsa",
+  "alperen-sengun",
+  "anthony-edwards",
+  "austin-reaves",
+  "brandon-ingram",
+  "brandon-miller",
+  "cade-cunningham",
+  "cameron-boozer",
+  "cooper-flagg",
+  "darius-garland",
+  "dejounte-murray",
+  "deni-avdija",
+  "derik-queen",
+  "devin-booker",
+  "domantas-sabonis",
+  "donovan-mitchell",
+  "giannis-antetokounmpo",
+  "ja-morant",
+  "jalen-green",
+  "jalen-johnson",
+  "james-harden",
+  "jaren-jackson",
+  "jaylen-brown",
+  "jayson-tatum",
+  "joel-embiid",
+  "josh-giddey",
+  "julius-randle",
+  "karl-anthony-towns",
+  "kevin-durant",
+  "keyonte-george",
+  "lamelo-ball",
+  "lebron-james",
+  "luka-doncic",
+  "nikola-jokic",
+  "paolo-banchero",
+  "scottie-barnes",
+  "stephen-curry",
+  "stephon-castle",
+  "trae-young",
+  "victor-wembanyama",
+  "zach-edey"
+ ],
+ "summary": "Punting turnovers costs us little in 9-cat head-to-head. Every first-round star turns the ball over, and streaming for games adds turnovers anyway. Build around high-usage scorers and passers, pay market price only for true anchors, and get the most profit from mid-round guards and forwards whose site prices sit below the expert view.",
+ "sections": [
+  {
+   "heading": "Why experts ignore turnovers",
+   "paragraphs": [
+    {
+     "text": "Three expert sources ignore turnovers in head-to-head leagues. Lloyd ignores them in every head-to-head league, and another speaker ignores them completely. The reason is simple. Turnovers are a third of the usage formula, so every first-round player has high turnovers. If you draft high-usage, high-value players, you cannot avoid them.",
+     "sources": [
+      "C4vlgpJ62NI:r7",
+      "0geFVzSqOnA:r15",
+      "C4vlgpJ62NI:r24",
+      "ahNxsoU8Hx4:r2"
+     ]
+    },
+    {
+     "text": "For our auction this means one thing. If you plan to spend big on an anchor such as Jokić, Wembanyama or Dončić, you already carry a turnover cost. Accept it before 2026-10-18 and stop letting turnovers lower your bids on high-usage players. Each week you then aim to win at least five of the other eight categories.",
+     "sources": [
+      "ahNxsoU8Hx4:r2",
+      "C4vlgpJ62NI:r24",
+      "player:nikola-jokic",
+      "player:victor-wembanyama",
+      "player:luka-doncic"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Streaming raises turnovers anyway",
+   "paragraphs": [
+    {
+     "text": "Turnovers are the only negative counting stat in the format. Streaming to get the most games played raises turnovers by itself. Chasing low turnovers therefore fights the way head-to-head is won. In our league that means using daily lineups and the 6 weekly acquisitions to add games, without worrying about the turnovers the extra games bring.",
+     "sources": [
+      "0geFVzSqOnA:r18",
+      "t4n9MAP2_14:r2"
+     ]
+    },
+    {
+     "text": "The reverse also holds. Injuries and light schedules lower your turnovers automatically. So in weeks when you are short on games, you often win turnovers anyway. Do not plan for that category. Just take the win when it comes.",
+     "sources": [
+      "0geFVzSqOnA:r19"
+     ]
+    },
+    {
+     "text": "Check which rankings you use. One expert's head-to-head system pushes centers down. In head-to-head, low turnovers matter less because you want the most games played. He also says traditional box-score values overrate blocks, steals and some percentages. A list that rewards low turnovers will undervalue the high-usage players we want.",
+     "sources": [
+      "t4n9MAP2_14:r2"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What you give up and what you gain",
+   "paragraphs": [
+    {
+     "text": "Watch how categories move together. High assists go with high turnovers. Low turnovers go with low points and assists. Punting turnovers lets you buy assist-heavy guards and point forwards at full value. A team built to win turnovers ends up giving away points and assists too. High blocks go with high rebounds and FG%, so a big-man core can sit alongside a punt TO build.",
+     "sources": [
+      "C4vlgpJ62NI:r8"
+     ]
+    },
+    {
+     "text": "Turnovers still have one use. If two players are otherwise identical at the same price, pick the one with fewer turnovers.",
+     "sources": [
+      "0geFVzSqOnA:r20"
+     ]
+    },
+    {
+     "text": "The notes do not disagree on the main point, but they differ in degree. Lloyd and one speaker ignore turnovers completely in head-to-head. Another expert says only that low turnovers matter less, and the speaker who ignores them still uses them as a tiebreaker. Our rule: never pay extra for low turnovers, but use them to decide between equal options.",
+     "sources": [
+      "C4vlgpJ62NI:r7",
+      "0geFVzSqOnA:r15",
+      "0geFVzSqOnA:r20",
+      "t4n9MAP2_14:r2"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Price tiers for our auction",
+   "paragraphs": [
+    {
+     "text": "Every player on this list carries the punt TO fit tag. The fit is common, so it is not a reason to overbid. It adds value only at a sensible price. Core anchors are the first-round stars whose only weak category is turnovers. Pay the market for them, but stop at the caps in their notes. For Wembanyama, the extra cost above about 75 USD comes out of the rest of the roster. Do not chase Cunningham past the mid 50s.",
+     "sources": [
+      "player:victor-wembanyama",
+      "player:cade-cunningham",
+      "player:jayson-tatum",
+      "player:anthony-edwards",
+      "player:giannis-antetokounmpo"
+     ]
+    },
+    {
+     "text": "The middle tier is where the price is the key decision. The sites price Jalen Johnson as a first-rounder, but experts see him in the mid second round. Towns is going too high above about 40 USD. Last season our league paid points-league money for Booker, Harden and Banchero. Bid on these players only when the price matches the expert rank.",
+     "sources": [
+      "player:jalen-johnson",
+      "player:karl-anthony-towns",
+      "player:devin-booker",
+      "player:james-harden",
+      "player:paolo-banchero"
+     ]
+    },
+    {
+     "text": "The best profit is in guards and forwards whose site costs sit below the expert view. These include Dejounte Murray, Garland, Keyonte George, Brandon Miller, Jaren Jackson Jr., Boozer and Edey. Check Miller's shoulder in training camp before the 2026-10-18 auction, and check that Edey's ankle tag has cleared.",
+     "sources": [
+      "player:dejounte-murray",
+      "player:darius-garland",
+      "player:keyonte-george",
+      "player:brandon-miller",
+      "player:jaren-jackson",
+      "player:cameron-boozer",
+      "player:zach-edey"
+     ]
+    },
+    {
+     "text": "With 144 players drafted, the last roster spots go to flyers for a few USD. These are Morant, Queen, Jalen Green and Dybantsa for points and assists. Ingram is an Achilles stash for one of our 4 IL slots.",
+     "sources": [
+      "player:ja-morant",
+      "player:derik-queen",
+      "player:jalen-green",
+      "player:aj-dybantsa",
+      "player:brandon-ingram"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Playoff schedule and early checks",
+   "paragraphs": [
+    {
+     "text": "Our playoffs are weeks 19 to 21, ending 2027-03-28. Edwards has a two-game week 20. Mitchell and Harden have a two-game finals week. LaMelo Ball has a two-game playoff week. Durant and Sengun get only 10 playoff games, so think about trading them before the 2027-03-04 deadline. Flagg's 4-4-4 schedule and the Clippers' 4-3-4 add value. Philadelphia has three back-to-backs in our playoff weeks, so keep a backup ready behind Embiid and LeBron. The finals-week worry for Dejounte Murray applies only to an April 4 end, so it does not affect us.",
+     "sources": [
+      "player:anthony-edwards",
+      "player:donovan-mitchell",
+      "player:james-harden",
+      "player:lamelo-ball",
+      "player:kevin-durant",
+      "player:alperen-sengun",
+      "player:cooper-flagg",
+      "player:brandon-ingram",
+      "player:darius-garland",
+      "player:joel-embiid",
+      "player:lebron-james",
+      "player:dejounte-murray"
+     ]
+    },
+    {
+     "text": "Early in the season, check assists and usage on your punt TO core first, because those are the stats that come with the turnovers. Check whether Jokić's assists hold near 10, whether Dončić's move toward nine, whether Cunningham's climb past 10 and whether Giannis's rise in Miami. If the assists do not arrive, you are taking the turnovers without the payoff.",
+     "sources": [
+      "C4vlgpJ62NI:r8",
+      "player:nikola-jokic",
+      "player:luka-doncic",
+      "player:cade-cunningham",
+      "player:giannis-antetokounmpo"
+     ]
+    }
+   ]
+  }
+ ],
+ "players": [
+  {
+   "slug": "nikola-jokic",
+   "tier": "Core targets",
+   "line": "He fits any build, and his elite assists make his turnovers the easiest to absorb on a punt TO team."
+  },
+  {
+   "slug": "victor-wembanyama",
+   "tier": "Core targets",
+   "line": "Turnovers are his only weak category, so he is an ideal punt TO core, as long as the price does not drain the roster."
+  },
+  {
+   "slug": "luka-doncic",
+   "tier": "Core targets",
+   "line": "His only flagged weak category is turnovers, and he is an outlier in points, threes, assists and steals."
+  },
+  {
+   "slug": "anthony-edwards",
+   "tier": "Core targets",
+   "line": "His elite points and threes come with a turnover hit that punt TO ignores, but the two-game week 20 costs him a little."
+  },
+  {
+   "slug": "cade-cunningham",
+   "tier": "Core targets",
+   "line": "Turnovers are his only weak category, and his elite assists count fully when we ignore them, up to his price cap."
+  },
+  {
+   "slug": "giannis-antetokounmpo",
+   "tier": "Core targets",
+   "line": "He anchors a punt FT% build that also gives up turnovers, carried by FG%, points, rebounds and frontcourt assists."
+  },
+  {
+   "slug": "jayson-tatum",
+   "tier": "Core targets",
+   "line": "Turnovers are his main weakness next to elite threes and points, and experts call his market price fair or slightly cheap."
+  },
+  {
+   "slug": "cooper-flagg",
+   "tier": "Value at price",
+   "line": "He gives high-usage production on any build and has a 4-4-4 playoff schedule, but only at a late first-round price."
+  },
+  {
+   "slug": "scottie-barnes",
+   "tier": "Value at price",
+   "line": "His frontcourt assists, steals and blocks fit punt TO and Giannis punt FT% builds at the expert range."
+  },
+  {
+   "slug": "donovan-mitchell",
+   "tier": "Value at price",
+   "line": "His scoring, threes, steals and FT% fit punt TO, but experts rank him outside the first round and he has a two-game finals week."
+  },
+  {
+   "slug": "kevin-durant",
+   "tier": "Value at price",
+   "line": "Turnovers are his only clear weakness, but his minutes and 10-game playoff schedule make him a trade candidate before the deadline."
+  },
+  {
+   "slug": "trae-young",
+   "tier": "Value at price",
+   "line": "He brings elite assists and FT% and hurts only in FG% and turnovers, so he suits punt FG% plus punt TO below last year's price."
+  },
+  {
+   "slug": "josh-giddey",
+   "tier": "Value at price",
+   "line": "His elite assists and strong rebounds work best when his high turnovers do not count."
+  },
+  {
+   "slug": "austin-reaves",
+   "tier": "Value at price",
+   "line": "Experts expect a usage jump, and his FT%, points, assists and threes count fully when turnovers are ignored."
+  },
+  {
+   "slug": "alperen-sengun",
+   "tier": "Value at price",
+   "line": "His assists from the center spot, rebounds and FG% fit punt TO, but he has only 10 playoff games."
+  },
+  {
+   "slug": "lamelo-ball",
+   "tier": "Value at price",
+   "line": "His threes, assists, points and steals fit punt FG% and punt TO, held back by ankle risk and a two-game playoff week."
+  },
+  {
+   "slug": "stephen-curry",
+   "tier": "Value at price",
+   "line": "He is an elite per-game threes and FT% player whose turnovers do not matter here, but his games played do."
+  },
+  {
+   "slug": "domantas-sabonis",
+   "tier": "Value at price",
+   "line": "He gives FG%, rebounds and assists from the C spot to a punt TO build, but not at first-round money."
+  },
+  {
+   "slug": "jaylen-brown",
+   "tier": "Value at price",
+   "line": "His points, rebounds and assists carry him, and his turnovers make him a natural punt TO fit in a smaller role."
+  },
+  {
+   "slug": "deni-avdija",
+   "tier": "Value at price",
+   "line": "Turnovers are his only weak category, but new guards in Portland will cut last season's usage."
+  },
+  {
+   "slug": "james-harden",
+   "tier": "Value at price",
+   "line": "His elite assists and FT% fit punt FG% and punt TO builds, but only well below last year's price, and he has a two-game finals week."
+  },
+  {
+   "slug": "jalen-johnson",
+   "tier": "Avoid at price",
+   "line": "His elite rebounds and assists from a forward fit punt TO, but the sites price him as a first-rounder while experts see the mid second round."
+  },
+  {
+   "slug": "karl-anthony-towns",
+   "tier": "Avoid at price",
+   "line": "Turnovers are his only weak category, but experts warn he is going too high."
+  },
+  {
+   "slug": "devin-booker",
+   "tier": "Avoid at price",
+   "line": "His FT%, points and assists fit punt TO, but experts now rank him around round four, well below what our league paid."
+  },
+  {
+   "slug": "dejounte-murray",
+   "tier": "Best bargains",
+   "line": "Punt TO ignores his turnovers while his steals, assists and guard rebounds count, and his site costs sit far below the expert rank."
+  },
+  {
+   "slug": "darius-garland",
+   "tier": "Best bargains",
+   "line": "He chases assists, threes and FT% with high turnovers, and experts rank him well above his site price."
+  },
+  {
+   "slug": "keyonte-george",
+   "tier": "Best bargains",
+   "line": "Turnovers are his only flagged weakness, and he helps FT%, assists and points at a low market cost."
+  },
+  {
+   "slug": "brandon-miller",
+   "tier": "Best bargains",
+   "line": "If his shoulder is healthy, experts see third-round value from threes, points and FT%, well above his market cost."
+  },
+  {
+   "slug": "jaren-jackson",
+   "tier": "Best bargains",
+   "line": "He can carry blocks on a punt TO team, and experts rank him well above his low market cost."
+  },
+  {
+   "slug": "cameron-boozer",
+   "tier": "Best bargains",
+   "line": "Turnovers are his only weak category, and experts expect him to finish around the top 25 to 30."
+  },
+  {
+   "slug": "zach-edey",
+   "tier": "Best bargains",
+   "line": "He gives FG%, rebounds and blocks for big-man punt TO builds, with experts calling him top 60 at worst if the ankle holds."
+  },
+  {
+   "slug": "lebron-james",
+   "tier": "Best bargains",
+   "line": "He gives big assists from a forward slot with a good FG%, and experts see good value from round 5 on, but Philadelphia has playoff back-to-backs."
+  },
+  {
+   "slug": "julius-randle",
+   "tier": "Best bargains",
+   "line": "His points, rebounds and forward assists make him a mid-priced punt TO starter, and turnovers are his one big weakness."
+  },
+  {
+   "slug": "paolo-banchero",
+   "tier": "Best bargains",
+   "line": "His points, rebounds and forward assists fit punt TO and punt FT at his category price, not at last season's points-league price."
+  },
+  {
+   "slug": "joel-embiid",
+   "tier": "Late flyers",
+   "line": "He gives elite per-game FT% and points from a center, but limited games and playoff back-to-backs keep him a mid-round buy."
+  },
+  {
+   "slug": "brandon-ingram",
+   "tier": "Late flyers",
+   "line": "He is a cheap IL stash for punt TO teams while his Achilles heals, with a 4-3-4 playoff schedule."
+  },
+  {
+   "slug": "stephon-castle",
+   "tier": "Late flyers",
+   "line": "His assists help punt FT% and punt TO builds, but category experts fade him, so keep the price low."
+  },
+  {
+   "slug": "aj-dybantsa",
+   "tier": "Late flyers",
+   "line": "He is a few-USD points source for punt TO teams, since weak shooting and turnovers keep him outside the top 100 in categories."
+  },
+  {
+   "slug": "ja-morant",
+   "tier": "Late flyers",
+   "line": "His assists, points and FT% fit punt TO as a cheap flyer, but his usage next to Lillard is unclear."
+  },
+  {
+   "slug": "derik-queen",
+   "tier": "Late flyers",
+   "line": "His rebounds, assists, steals and blocks fit punt 3PM and punt TO as an end-of-draft flyer."
+  },
+  {
+   "slug": "jalen-green",
+   "tier": "Late flyers",
+   "line": "He is a cheap late source of points and threes for punt FG% and punt TO, but a poor fit for balanced teams."
+  }
+ ],
+ "excluded": [],
+ "rejected": []
+}

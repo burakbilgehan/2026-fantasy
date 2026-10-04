@@ -1,0 +1,146 @@
+{
+ "player": {
+  "name": "Zuby Ejiofor",
+  "slug": "zuby-ejiofor",
+  "pk": 162,
+  "team": "ATL",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "1312ddf81e74",
+ "note_count": 3,
+ "built_at": "2026-10-04T19:59:06+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1743836,
+  "duration_ms": 35045
+ },
+ "current": [
+  {
+   "text": "He is a rookie. The Hawks drafted him 23rd overall in the 2026 draft.",
+   "kind": "fact",
+   "date": "2026-06-26",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p21",
+    "lOshTzDA4SA:p30"
+   ]
+  },
+  {
+   "text": "He is a backup big man behind Onyeka Okongwu. Atlanta also has Jock Landale at center.",
+   "kind": "fact",
+   "date": "2026-06-26",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p21",
+    "CLsUc0Sevos:t2",
+    "lOshTzDA4SA:t8"
+   ]
+  },
+  {
+   "text": "Lloyd expects a 10-man Hawks rotation that does not include him. The named bench is Dort, Wiggins, Landale, Flemings and probably Newell, with Kispert and Finney-Smith also in the mix.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t2"
+   ]
+  },
+  {
+   "text": "Atlanta's center depth is thin. Veesaar is out for the season and Gueye is injured.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t5"
+   ]
+  },
+  {
+   "text": "In dynasty rookie rankings he is ranked 25th, in tier 5.",
+   "kind": "verdict",
+   "date": "2026-06-26",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p21"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is an undersized, switchy, high-energy big man.",
+   "kind": "fact",
+   "date": "2026-06-26",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p30",
+    "CLsUc0Sevos:p21"
+   ]
+  },
+  {
+   "text": "Experts doubt that his college production at St. John's will carry over. One sees big numbers from an upperclassman as a red flag and did not rate him as a first-round talent.",
+   "kind": "verdict",
+   "date": "2026-06-26",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p30",
+    "CLsUc0Sevos:p21"
+   ]
+  },
+  {
+   "text": "He barely shot threes in college. In Summer League, 52% of his shots were threes and he made 35% of them.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p46"
+   ]
+  },
+  {
+   "text": "He could develop into a stretch big.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p46"
+   ]
+  },
+  {
+   "text": "His projections are far below the league in points, threes and steals.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "rookie",
+   "channel": "current",
+   "detail": "23rd pick in 2026 by Atlanta",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p21",
+    "lOshTzDA4SA:p30"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Backup big behind Okongwu and Landale and outside Lloyd's projected 10-man rotation",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p21",
+    "4gw4W4RTolY:t2",
+    "lOshTzDA4SA:t8"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo values him at 0 USD and ranks him 700th, and ESPN does not price him. That puts him far outside the 144 players we draft, so do not spend an auction pick on him. The only path to value is Atlanta's thin center depth with Veesaar out and Gueye injured, so check early in the season whether he gets backup minutes behind Okongwu and whether his Summer League three-point shooting carries over to real games.",
+ "rejected": []
+}

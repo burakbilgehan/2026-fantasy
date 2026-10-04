@@ -1,0 +1,228 @@
+{
+ "player": {
+  "name": "Ryan Rollins",
+  "slug": "ryan-rollins",
+  "pk": 488,
+  "team": "MIL",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "96dd2c91c6aa",
+ "note_count": 12,
+ "built_at": "2026-10-04T17:48:23+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.2420526,
+  "duration_ms": 60262
+ },
+ "current": [
+  {
+   "text": "Milwaukee's backcourt is crowded. Tyler Herro, Kevin Porter Jr., Kasparas Jakucionis, Braden Burries, Gary Trent Jr. and Green all compete with Rollins for guard minutes.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t4",
+    "7BllEsdNLoM:t0",
+    "sTtFUy7IoJI:t8",
+    "nnWX_ObljOE:t1"
+   ]
+  },
+  {
+   "text": "Most experts expect Rollins to start next to Herro, ahead of Porter, Boston and Trent. They do not expect Burries to take the job from him.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p41",
+    "ahNxsoU8Hx4:p27",
+    "7BllEsdNLoM:p30",
+    "g31YlwRe0XQ:p27",
+    "owlM6b8oUd0:t2"
+   ]
+  },
+  {
+   "text": "The experts disagree on how safe his minutes are. One tier list calls his role fairly set. Josh is unsure and sees the minutes shared with Herro, Kuzma and Porter as a concern.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p30",
+    "W-R1dzem32s:p26"
+   ]
+  },
+  {
+   "text": "Giannis Antetokounmpo was traded to Miami, so his 33% usage is gone from Milwaukee. Herro, Rollins and Porter will compete for the shot creation.",
+   "kind": "fact",
+   "date": "2026-06-30",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p18",
+    "4GDfg2n2l8o:t1"
+   ]
+  },
+  {
+   "text": "Justin expects him to score about 20 points per game. He thinks Rollins could even lead the team in scoring under new coach Taylor Jenkins.",
+   "kind": "verdict",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p6"
+   ]
+  },
+  {
+   "text": "He finished last season as a top 50 fantasy player. Giannis was out for most of that season.",
+   "kind": "fact",
+   "date": "2026-06-30",
+   "until": "",
+   "sources": [
+    "4GDfg2n2l8o:p3"
+   ]
+  },
+  {
+   "text": "He is 24 years old and on a cheap value contract.",
+   "kind": "fact",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p5",
+    "4GDfg2n2l8o:p3",
+    "nnWX_ObljOE:p18"
+   ]
+  },
+  {
+   "text": "Some experts think Milwaukee could trade him to cash in on the contract, possibly for one or two first-round picks. The team does not see this season as a long-term rebuild.",
+   "kind": "verdict",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p18",
+    "4GDfg2n2l8o:p3",
+    "owlM6b8oUd0:t4"
+   ]
+  },
+  {
+   "text": "He is probably close to top 50 value but is going in the 70s, which makes him undervalued. He is a reasonable pick at his price.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p27",
+    "g31YlwRe0XQ:p27"
+   ]
+  },
+  {
+   "text": "Tier rankings put him in tier 6 among point guards and tier 5 among shooting guards.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p30",
+    "W-R1dzem32s:p26"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is best used as a combo guard but is good enough to play primary point guard. His floor is a low-end NBA starter.",
+   "kind": "verdict",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p7"
+   ]
+  },
+  {
+   "text": "He is a strong defender and a good passer, and he is known for his steals. Steals are his best category.",
+   "kind": "fact",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p5",
+    "4kKINkZhWls:p6",
+    "stats"
+   ]
+  },
+  {
+   "text": "He has a broad guard profile with no weak category. Threes, assists and steals are above the pool, and turnovers are the main cost.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "No category flagged weak. Turnovers are the soft spot.",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Herro, Porter, Jakucionis, Burries, Trent and Green in the backcourt. Porter is the main threat to his starting spot.",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t4",
+    "W-R1dzem32s:p26",
+    "7BllEsdNLoM:p30",
+    "4GDfg2n2l8o:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "Expert sees him near top 50 while he goes in the 70s. ESPN ranks him 105.",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p27",
+    "egRrai3Ax38:p41"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "Ranked near top 50 by the expert, against an ADP in the 70s on Yahoo and 120 on ESPN.",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p27",
+    "egRrai3Ax38:p41"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trade risk",
+   "channel": "current",
+   "detail": "Cheap contract. Experts think Milwaukee could trade him for picks.",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p18",
+    "4GDfg2n2l8o:p3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 17 USD and rank 62. ESPN value 2 USD and rank 105.",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "The sites disagree on his price. Yahoo values him at 17 USD (rank 62), but ESPN has him at only 2 USD (rank 105), and the experts see him near top 50 value. He went undrafted in our league last season, so he could be a cheap mid-round buy for any build. Last season he played 32.1 minutes with 2.5 threes, 5.6 assists and 1.5 steals. He fits any build that can take 2.5 to 2.7 turnovers. Early in the season, check that he starts over Kevin Porter Jr. and keeps about 30 minutes, and watch for trade news.",
+ "rejected": []
+}

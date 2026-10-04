@@ -1,0 +1,298 @@
+{
+ "player": {
+  "name": "Kristaps Porziņģis",
+  "slug": "kristaps-porzingis",
+  "pk": 453,
+  "team": "GSW",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "94601cfae7cb",
+ "note_count": 20,
+ "built_at": "2026-10-04T17:40:38+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.2115102,
+  "duration_ms": 65189
+ },
+ "current": [
+  {
+   "text": "He re-signed with Golden State on a 3-year deal worth 40 million USD with a player option. 20 million USD is guaranteed.",
+   "kind": "fact",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p38",
+    "LXZLrL90crE:p10"
+   ]
+  },
+  {
+   "text": "The Warriors plan to start him at center when he is healthy.",
+   "kind": "fact",
+   "date": "2026-09-03",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:p10",
+    "W3THnI7wWdA:p38",
+    "OBwWCxG9SqM:t4"
+   ]
+  },
+  {
+   "text": "He missed media day for an undisclosed health issue and will miss preseason. It is unknown if he will be available to start the season.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p14"
+   ]
+  },
+  {
+   "text": "The newest Warriors preview projects Horford, not Porzingis, as the starting center.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t3"
+   ]
+  },
+  {
+   "text": "Experts now put him outside the top 100. One would no longer draft him in the top 100 and calls him his biggest Warriors fade, taking him around 100 only in stash formats. Another says he could be top 70 for 40 games and is worth a look around pick 150.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p24",
+    "MUbNYdjpUDM:p15",
+    "MUbNYdjpUDM:p16",
+    "MUbNYdjpUDM:p17"
+   ]
+  },
+  {
+   "text": "His per game value is well above his draft spot. Experts see roughly top 40 to top 50 per game value, with top 30 upside if healthy.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p4",
+    "ahNxsoU8Hx4:p33",
+    "t4n9MAP2_14:p51",
+    "egRrai3Ax38:p42",
+    "KPdD91Oo8-U:p23",
+    "80kfLVnFQ_s:p36"
+   ]
+  },
+  {
+   "text": "The chance he stays healthy is very low. Even 50 games is uncertain.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p33",
+    "t4n9MAP2_14:p51"
+   ]
+  },
+  {
+   "text": "Drop him if he keeps missing games.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p42"
+   ]
+  },
+  {
+   "text": "The Warriors are reportedly treating this season as a gap year. They are worried about lottery odds and may rest veterans.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t0",
+    "LXZLrL90crE:t0"
+   ]
+  },
+  {
+   "text": "The Warriors have 15 back-to-backs this season, tied for second most.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t4",
+    "MUbNYdjpUDM:t4"
+   ]
+  },
+  {
+   "text": "The Warriors schedule is good for fantasy playoffs that end March 28.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t4"
+   ]
+  },
+  {
+   "text": "One note expects three back-to-backs in its recommended playoff window, which would cut him to about 8 games instead of 11. The same note says this is no reason to avoid him.",
+   "kind": "verdict",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p3",
+    "gf_6GveiAls:p4"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He has a long record of missed games. The causes include an ongoing mystery illness plus knee and ankle problems.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:p11",
+    "8d--aL_xxwE:p8",
+    "xHRF06_E9HE:p35",
+    "t4n9MAP2_14:p51"
+   ]
+  },
+  {
+   "text": "He is very good when he plays, and fantasy drafters tend to underrate him because of his availability.",
+   "kind": "verdict",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:p12"
+   ]
+  },
+  {
+   "text": "He is not expected to play back-to-backs.",
+   "kind": "verdict",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p2"
+   ]
+  },
+  {
+   "text": "For a center he adds threes and a strong FT%, along with good blocks. He does not hurt turnovers.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "ongoing mystery illness, plus knee and ankle problems",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:p11",
+    "8d--aL_xxwE:p8",
+    "xHRF06_E9HE:p35",
+    "t4n9MAP2_14:p51"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injured now",
+   "channel": "current",
+   "detail": "undisclosed health issue, missing preseason, opening night availability unknown",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p14",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo status Q (Undisclosed)",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "32 games in 2025-26, mostly due to illness",
+   "until": "",
+   "sources": [
+    "stats",
+    "LXZLrL90crE:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "back-to-back risk",
+   "channel": "current",
+   "detail": "Warriors have 15 back-to-backs, and he is not expected to play them",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p2",
+    "gf_6GveiAls:t4",
+    "MUbNYdjpUDM:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "load management",
+   "channel": "durable",
+   "detail": "not expected to play back-to-backs",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "shutdown risk",
+   "channel": "current",
+   "detail": "Warriors see this as a gap year, are watching lottery odds and may rest veterans",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t0",
+    "LXZLrL90crE:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "worth a look around pick 150, could be top 70 for 40 games",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p24"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 152, ESPN rank 80",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "no weak category flagged",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Our league paid 21 USD for him last season. This year Yahoo and ESPN both value him at 4 USD and he goes for about 1 USD. His Yahoo rank of 152 puts him at the edge of our 144-player draft, and the newest notes fade him because of his undisclosed health issue and the Warriors' gap-year talk. He fits any build as a center who adds threes, FT% and blocks, so he is a fine 1 to 3 USD late flyer that our 4 IL slots can hold. Early on, check when he returns, whether he takes the starting center job back from Horford and how often he sits back-to-backs.",
+ "rejected": []
+}

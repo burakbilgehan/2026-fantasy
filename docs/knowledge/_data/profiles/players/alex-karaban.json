@@ -1,0 +1,118 @@
+{
+ "player": {
+  "name": "Alex Karaban",
+  "slug": "alex-karaban",
+  "pk": 303,
+  "team": "SAC",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "7bd0375b67b4",
+ "note_count": 5,
+ "built_at": "2026-10-04T17:22:12+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1029142,
+  "duration_ms": 19088
+ },
+ "current": [
+  {
+   "text": "He is a rookie. The Kings traded up to pick 29 in the 2026 draft to take him.",
+   "kind": "fact",
+   "date": "2026-06-26",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p29",
+    "CLsUc0Sevos:p3"
+   ]
+  },
+  {
+   "text": "He averaged 8 points on 16.5% usage in Summer League.",
+   "kind": "fact",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:p10"
+   ]
+  },
+  {
+   "text": "Lloyd thought he looked bad in Summer League and does not expect him to be a rotation player.",
+   "kind": "verdict",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p24"
+   ]
+  },
+  {
+   "text": "The projected Kings starters are Acuff, LaVine, Hunter, Murray and Sabonis, and nobody is pushing that group for a starting spot.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:t1"
+   ]
+  },
+  {
+   "text": "Experts ranked him below his draft slot among rookies.",
+   "kind": "verdict",
+   "date": "2026-06-28",
+   "until": "",
+   "sources": [
+    "RsjGTgJiKyI:p29",
+    "CLsUc0Sevos:p3"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a low-usage shooter who does little else. His usage in college was about 17%.",
+   "kind": "fact",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:p10",
+    "CLsUc0Sevos:p3",
+    "lOshTzDA4SA:p29"
+   ]
+  },
+  {
+   "text": "He is about 23 and a half years old, which is old for a rookie.",
+   "kind": "fact",
+   "date": "2026-06-26",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p3",
+    "lOshTzDA4SA:p29"
+   ]
+  },
+  {
+   "text": "Experts see poor fantasy translation and compare him to a much worse Duncan Robinson, with a possible Steve Novak outcome.",
+   "kind": "verdict",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:p10",
+    "CLsUc0Sevos:p3",
+    "lOshTzDA4SA:p29"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "rookie",
+   "channel": "current",
+   "detail": "Pick 29 in 2026, Kings traded up for him",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p29",
+    "CLsUc0Sevos:p3"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo values him at 0 USD and ranks him 605th. That is far outside the 144 players drafted in our league, and ESPN does not list him. His projection (7.6 points, 41.7% FG, 1.4 threes) is below the pool in almost every category, and Lloyd does not expect him to be in the rotation, so do not draft him in any build. One thing to check early in the season: whether the Kings, a rebuilding team that will give rookies minutes, play him as a shooter. Even with minutes, his low usage limits him to a short-term threes pickup at most.",
+ "rejected": []
+}

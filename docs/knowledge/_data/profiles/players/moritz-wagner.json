@@ -1,0 +1,131 @@
+{
+ "player": {
+  "name": "Moritz Wagner",
+  "slug": "moritz-wagner",
+  "pk": 578,
+  "team": "BKN",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "29a10a5b0ea0",
+ "note_count": 3,
+ "built_at": "2026-10-04T17:43:29+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1487596,
+  "duration_ms": 28180
+ },
+ "current": [
+  {
+   "text": "He signed with Brooklyn on a mutual option deal as veteran depth.",
+   "kind": "fact",
+   "date": "2026-08-21",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:p13",
+    "P6TNP-g0wzY:t7"
+   ]
+  },
+  {
+   "text": "He is projected as Brooklyn's backup center, behind starter Day'Ron Sharpe.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p31",
+    "3UGI05PDvrE:t1",
+    "3UGI05PDvrE:t2"
+   ]
+  },
+  {
+   "text": "Experts expect a messy split of center minutes with Sharpe and Danny Wolf.",
+   "kind": "verdict",
+   "date": "2026-08-21",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:p13",
+    "P6TNP-g0wzY:t7"
+   ]
+  },
+  {
+   "text": "Brooklyn does not own its pick and may give second-half minutes to young players like Clowney and Minott. That puts a veteran backup's March minutes at risk.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t0",
+    "3UGI05PDvrE:t3",
+    "LM0cRCGoAUQ:t7"
+   ]
+  },
+  {
+   "text": "Not draftable.",
+   "kind": "verdict",
+   "date": "2026-07-02",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:p31"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is an efficient, high-usage backup big.",
+   "kind": "verdict",
+   "date": "2026-07-02",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:p31"
+   ]
+  },
+  {
+   "text": "He cannot handle a role of 20 or more minutes a night.",
+   "kind": "verdict",
+   "date": "2026-07-02",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:p31"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "Signed with Brooklyn on a mutual option deal",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:p13",
+    "P6TNP-g0wzY:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Splits center minutes with Day'Ron Sharpe and Danny Wolf",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:p13",
+    "P6TNP-g0wzY:t7",
+    "3UGI05PDvrE:p31"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "shutdown risk",
+   "channel": "current",
+   "detail": "Brooklyn may move March minutes to young players",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t0",
+    "3UGI05PDvrE:t3"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites price him at 0 USD (Yahoo rank 406, ESPN rank 303). That is far outside the 144 players our league drafts, so do not spend a pick on him. He only matters if he wins a bigger share of the Sharpe and Wolf center split. Early in the season, watch whether Sharpe actually starts and whether Wagner gets close to 20 minutes.",
+ "rejected": []
+}

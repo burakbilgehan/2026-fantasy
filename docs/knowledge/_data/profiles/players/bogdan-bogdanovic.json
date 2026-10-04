@@ -1,0 +1,142 @@
+{
+ "player": {
+  "name": "Bogdan Bogdanović",
+  "slug": "bogdan-bogdanovic",
+  "pk": 49,
+  "team": "HOU",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "37e828bf9cc5",
+ "note_count": 3,
+ "built_at": "2026-10-04T17:24:36+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.167759,
+  "duration_ms": 36140
+ },
+ "current": [
+  {
+   "text": "He signed with Houston this offseason on a minimum contract.",
+   "kind": "fact",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:p22",
+    "yoCTTlJ_tPQ:p8"
+   ]
+  },
+  {
+   "text": "He will probably get the last spot in the Rockets rotation.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p31"
+   ]
+  },
+  {
+   "text": "Experts say he could be washed. One expert still sees him as an upgrade over Aaron Holiday.",
+   "kind": "verdict",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:p22",
+    "yoCTTlJ_tPQ:p8"
+   ]
+  },
+  {
+   "text": "Houston's guard rotation is crowded. Fred VanVleet is back and Marcus Smart was added. Reed Sheppard is also there, and Bogdanović comes off the bench in a 10-man rotation.",
+   "kind": "fact",
+   "date": "2026-09-15",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t2",
+    "xHRF06_E9HE:t5",
+    "KPdD91Oo8-U:t0"
+   ]
+  },
+  {
+   "text": "The projected starters are VanVleet, Thompson, Durant, Smith and Sengun. Coach Ime Udoka plays his starters very heavy minutes, so little bench time is left for the last rotation player.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t0",
+    "aLP080hxizA:t1",
+    "7BllEsdNLoM:t9"
+   ]
+  },
+  {
+   "text": "With our March 28 end date, the Rockets play 3, 3 and 4 games in the fantasy playoff weeks. That is 10 games, a weak schedule. They have only 14 back-to-backs this season.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t4",
+    "aLP080hxizA:t5"
+   ]
+  }
+ ],
+ "durable": [],
+ "tags": [
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "signed with Houston on a minimum",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:p22",
+    "yoCTTlJ_tPQ:p8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "crowded guard rotation with VanVleet, Thompson, Smart and Sheppard; probably the last rotation spot",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p31",
+    "gJUBAJaHzlU:t2",
+    "xHRF06_E9HE:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "age decline watch",
+   "channel": "durable",
+   "detail": "experts say he could be washed",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:p22",
+    "yoCTTlJ_tPQ:p8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "Rockets play 3-3-4, 10 games in weeks 19 to 21 with a March 28 end",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "Rockets have 14 back-to-backs",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t5"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He is not a draft target in our league. Both sites value him at 0 USD, he ranks 408 on Yahoo and 277 on ESPN, and our auction drafts only 144 players. The projections give him about 8.6 points, 88.7% FT and few turnovers, but no category stands out and he is weak in rebounds, steals and blocks. Early in the season, check whether he keeps the last rotation spot. He matters only if injuries hit the Houston guards, and even then the 10-game playoff schedule limits him.",
+ "rejected": []
+}

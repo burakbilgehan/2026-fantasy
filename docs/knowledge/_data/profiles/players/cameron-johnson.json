@@ -1,0 +1,195 @@
+{
+ "player": {
+  "name": "Cameron Johnson",
+  "slug": "cameron-johnson",
+  "pk": 278,
+  "team": "DEN",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "c6179a3b8c48",
+ "note_count": 5,
+ "built_at": "2026-10-04T17:26:23+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.19066419999999998,
+  "duration_ms": 41850
+ },
+ "current": [
+  {
+   "text": "Peyton Watson has left Denver. Johnson is projected to start at forward next to Jamal Murray, Christian Braun, Aaron Gordon and Nikola Jokic.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:t0",
+    "sf6Ga9k-r-Q:t1",
+    "dlo7L8Ru91A:p37",
+    "ZYllcj4o6_A:p11"
+   ]
+  },
+  {
+   "text": "Watson's exit helps him. Experts expect he has to start.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p11",
+    "dlo7L8Ru91A:p37"
+   ]
+  },
+  {
+   "text": "Denver lost Tim Hardaway Jr. and is short on spacing. The team needs shooters who will shoot off Jokic's gravity, which suits his role.",
+   "kind": "verdict",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "keNupMSHp1Y:t1"
+   ]
+  },
+  {
+   "text": "He is a late swing pick. A top 120 season is possible. If his usage rises from 15 to 18 he could reach the top 100, and the best case is about top 90.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p11",
+    "sf6Ga9k-r-Q:p15"
+   ]
+  },
+  {
+   "text": "Outside his efficient shooting, he was bad last season. He played well after his late-season return.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p11",
+    "dlo7L8Ru91A:p37"
+   ]
+  },
+  {
+   "text": "Moore expects Denver to trade him so the team can get under the second apron. Moore thinks at least two of last year's starters, Johnson among them, will be gone by the trade deadline.",
+   "kind": "verdict",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "keNupMSHp1Y:p3",
+    "keNupMSHp1Y:t0",
+    "TOn-D1SV7a8:t0"
+   ]
+  },
+  {
+   "text": "Denver plays 43 games through March 28, one below the max. The team has only 14 back-to-backs, one of the lowest counts in the league.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:t4"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is an elite shooter who does little else. He adds threes, free throws at a good percentage and solid FG%, and he has few turnovers for his role.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p16",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is 30 and has a history of ankle and hip injuries.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p16"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "no weak category, helps with threes, FT% and low turnovers",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "ankle and hip injury history; 54 to 58 games in each of the last three seasons",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p16",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trade risk",
+   "channel": "current",
+   "detail": "Moore expects a trade so Denver can get under the second apron",
+   "until": "",
+   "sources": [
+    "keNupMSHp1Y:p3",
+    "keNupMSHp1Y:t0",
+    "TOn-D1SV7a8:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "projected starter now that Peyton Watson has left",
+   "until": "",
+   "sources": [
+    "dlo7L8Ru91A:p37",
+    "ZYllcj4o6_A:p11",
+    "sf6Ga9k-r-Q:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "late swing pick, best case about top 90",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p15",
+    "ZYllcj4o6_A:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "14 back-to-backs, one of the lowest counts",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "54 games, returned late in the season",
+   "until": "",
+   "sources": [
+    "dlo7L8Ru91A:p37",
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo ranks him 135 and ESPN 141, and both value him at 0 USD. That puts him on the edge of our 144-player draft, so he should cost 1 to 2 USD, below the 4 USD our league paid last season. He fits any build as a cheap source of threes and FT% with few turnovers, and the experts see a top 90 to 120 ceiling if his usage rises as a starter. Early in the season, check whether his usage goes up from about 15 and watch for trade news, since a deal could shrink his role.",
+ "rejected": []
+}

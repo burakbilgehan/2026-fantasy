@@ -1,0 +1,324 @@
+{
+ "player": {
+  "name": "Mitchell Robinson",
+  "slug": "mitchell-robinson",
+  "pk": 486,
+  "team": "BOS",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "a6d07ed1bf4a",
+ "note_count": 14,
+ "built_at": "2026-10-04T17:43:39+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.17286619999999997,
+  "duration_ms": 47150
+ },
+ "current": [
+  {
+   "text": "Experts expect Neemias Queta to start at center and Robinson to come off the bench.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t1",
+    "TiiaNZCJNs8:p3",
+    "ME-r173X5b0:p6",
+    "-y6p5PYLf00:p37"
+   ]
+  },
+  {
+   "text": "He is projected to play only 55 to 60 games at about 22 minutes.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p25"
+   ]
+  },
+  {
+   "text": "Boston has 16 back-to-backs, tied for the most in the league.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t5",
+    "Bi1cEM03k9Y:t5",
+    "gf_6GveiAls:t0"
+   ]
+  },
+  {
+   "text": "He is expected to sit every back-to-back, and the heavy Boston back-to-back schedule hits him harder than most players.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p26",
+    "Bi1cEM03k9Y:t5"
+   ]
+  },
+  {
+   "text": "Boston plays 4, 3 and 4 games in fantasy playoff weeks 19 to 21, one game short of the maximum, and has three back-to-backs in that window.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t4",
+    "gf_6GveiAls:t0"
+   ]
+  },
+  {
+   "text": "Do not spend a draft pick on him at his Yahoo ADP of 108. He is a category-league streamer, but check his back-to-backs before streaming him.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p24"
+   ]
+  },
+  {
+   "text": "He is a good stash in formats that allow it, because he might win the starting job or Queta might get hurt.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p25"
+   ]
+  },
+  {
+   "text": "One expert projects about 30% from the free throw line and about 6 points per game this season.",
+   "kind": "verdict",
+   "date": "2026-09-15",
+   "until": "",
+   "sources": [
+    "KPdD91Oo8-U:p34"
+   ]
+  },
+  {
+   "text": "He joined Boston this offseason.",
+   "kind": "fact",
+   "date": "2026-07-30",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:t0",
+    "TiiaNZCJNs8:t3"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "His value comes from FG%, rebounds and blocks. His blocks have dropped off.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p23",
+    "KPdD91Oo8-U:p34",
+    "P6TNP-g0wzY:p32",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is a very poor free throw shooter and one of the worst FT% impact players in the league.",
+   "kind": "fact",
+   "date": "2026-07-30",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:p4",
+    "ME-r173X5b0:p7",
+    "stats"
+   ]
+  },
+  {
+   "text": "He has no shooting range, makes no threes and scores very little.",
+   "kind": "fact",
+   "date": "2026-09-15",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:p4",
+    "KPdD91Oo8-U:p34",
+    "stats"
+   ]
+  },
+  {
+   "text": "He gives vertical spacing as a pick-and-roll lob threat and a dunker-spot big.",
+   "kind": "fact",
+   "date": "2026-07-30",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:p5"
+   ]
+  },
+  {
+   "text": "He has a history of ankle problems and missed games. His minutes are limited by his ankles and by foul trouble.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p22",
+    "TiiaNZCJNs8:p4",
+    "P6TNP-g0wzY:p32"
+   ]
+  },
+  {
+   "text": "He does not play back-to-backs.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p22"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "FT% liability",
+   "channel": "durable",
+   "detail": "about 42% FT projected, among the worst FT impact players",
+   "until": "",
+   "sources": [
+    "ME-r173X5b0:p7",
+    "TiiaNZCJNs8:p4",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "no shooting range",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:p4",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt FT fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats",
+    "ME-r173X5b0:p7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt PTS fit",
+   "channel": "durable",
+   "detail": "about 6 points per game",
+   "until": "",
+   "sources": [
+    "stats",
+    "KPdD91Oo8-U:p34"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "chronic ankle problems",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p22",
+    "TiiaNZCJNs8:p4",
+    "P6TNP-g0wzY:p32"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "load management",
+   "channel": "durable",
+   "detail": "does not play back-to-backs",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p22"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "back-to-back risk",
+   "channel": "current",
+   "detail": "expected to sit all of Boston's 16 back-to-backs",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p26",
+    "Bi1cEM03k9Y:t5",
+    "3UGI05PDvrE:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Neemias Queta expected to start at center",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t1",
+    "TiiaNZCJNs8:p3",
+    "ME-r173X5b0:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "backup to Neemias Queta",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p25"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "joined Boston this offseason",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:t0",
+    "TiiaNZCJNs8:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "category-league streamer, check back-to-backs",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p24"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "4-3-4 games but three back-to-backs in weeks 19 to 21, which he is expected to sit",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t4",
+    "gf_6GveiAls:t0",
+    "Bi1cEM03k9Y:p26"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 178 and 0 USD, ESPN rank 115 and 2 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Robinson is a fringe pick for us. Yahoo values him at 0 USD (rank 178) and ESPN at 2 USD (rank 115), our league did not draft him last season, and with Queta likely starting and every back-to-back expected off, he is closer to a stream or a stash than a draft target. He only fits punt FT% builds, where his projected 70.5% FG%, 9.7 rebounds and 1.3 blocks help and his 42.5% FT% costs nothing. Early in the season, check who starts at center in Boston, his minutes (ESPN projects 25.4) and whether he really sits every back-to-back, because Boston has three of them in our playoff weeks.",
+ "rejected": []
+}

@@ -1,0 +1,287 @@
+{
+ "player": {
+  "name": "Austin Reaves",
+  "slug": "austin-reaves",
+  "pk": 473,
+  "team": "LAL",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "0e83f9ec05ee",
+ "note_count": 24,
+ "built_at": "2026-10-04T17:23:49+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.17426619999999998,
+  "duration_ms": 49124
+ },
+ "current": [
+  {
+   "text": "LeBron James left the Lakers for the Sixers, and Rui Hachimura appears to be gone too. Reaves and Luka Doncic are the remaining core. The Lakers also added Collin Sexton.",
+   "kind": "fact",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "_WjOjp6Qu8E:t0",
+    "W3THnI7wWdA:t0",
+    "W3THnI7wWdA:p20",
+    "W-R1dzem32s:p10"
+   ]
+  },
+  {
+   "text": "He re-signed with the Lakers for 4 years and 185 million USD, which tripled his salary.",
+   "kind": "fact",
+   "date": "2026-08-04",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p20",
+    "_WjOjp6Qu8E:p10"
+   ]
+  },
+  {
+   "text": "With LeBron gone, his usage should rise from 27% to a projected 28%, with about 36 minutes. His assist rate should rise the most.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p20",
+    "ahNxsoU8Hx4:p34",
+    "W-R1dzem32s:p10"
+   ]
+  },
+  {
+   "text": "Experts see him as a round 2 pick with first round upside. Their calls range from a top 15 floor to a possible top 10 to 13 finish. Josh ranks him above Donovan Mitchell, and Lloyd thinks he could finish above Tyrese Maxey.",
+   "kind": "verdict",
+   "date": "2026-09-24",
+   "until": "",
+   "sources": [
+    "_vbAP5y182A:p6",
+    "C4vlgpJ62NI:p10",
+    "C4vlgpJ62NI:p11",
+    "ahNxsoU8Hx4:p34",
+    "2A2JbUN-kc0:p31",
+    "KPdD91Oo8-U:p4",
+    "dlo7L8Ru91A:p8",
+    "W-R1dzem32s:p10",
+    "7BllEsdNLoM:p11",
+    "E-KmhvyZ2CU:p7"
+   ]
+  },
+  {
+   "text": "Experts call his ESPN rank of about 50 far too low. He should crack the top 30 at least.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p35",
+    "egRrai3Ax38:p25"
+   ]
+  },
+  {
+   "text": "If Luka Doncic gets hurt, Reaves would run about 32% usage and could play like a first round player.",
+   "kind": "verdict",
+   "date": "2026-09-23",
+   "until": "",
+   "sources": [
+    "dlo7L8Ru91A:p8",
+    "C4vlgpJ62NI:p10",
+    "7BllEsdNLoM:p11",
+    "CI4k8ofUXXk:t8"
+   ]
+  },
+  {
+   "text": "Andy thinks he will face a lot of scrutiny after his new contract. If the team is not working, the Lakers could trade him even if he plays well.",
+   "kind": "verdict",
+   "date": "2026-08-04",
+   "until": "",
+   "sources": [
+    "_WjOjp6Qu8E:p10",
+    "_WjOjp6Qu8E:p12"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He takes many free throws at a great percentage. He adds points, assists and threes.",
+   "kind": "fact",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p11",
+    "7BllEsdNLoM:p12",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is weak in defensive stats and has many turnovers for his role.",
+   "kind": "fact",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p11",
+    "7BllEsdNLoM:p12",
+    "stats"
+   ]
+  },
+  {
+   "text": "Experts disagree on his field goal efficiency. One calls it excellent, another says it can be a problem. His projected FG% is about league average on high volume.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p11",
+    "7BllEsdNLoM:p12",
+    "stats"
+   ]
+  },
+  {
+   "text": "He plays like a second round player when he shares the floor with only one other star. He falls to a third option when he plays next to two.",
+   "kind": "verdict",
+   "date": "2026-07-01",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p21"
+   ]
+  },
+  {
+   "text": "He is a better category league player than points league player.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p24",
+    "QbdrhJd7LiA:p5"
+   ]
+  },
+  {
+   "text": "Andy sees him as very similar to Luka Doncic and thinks he brings little that Luka does not.",
+   "kind": "verdict",
+   "date": "2026-08-04",
+   "until": "",
+   "sources": [
+    "_WjOjp6Qu8E:p11"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "FT% anchor",
+   "channel": "durable",
+   "detail": "about 87% FT on about 7 attempts per game",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p11",
+    "7BllEsdNLoM:p12",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "high TO",
+   "channel": "durable",
+   "detail": "about 2.8 turnovers per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "durable",
+   "detail": "LeBron gone; usage and assist rate expected to rise",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p20",
+    "ahNxsoU8Hx4:p34",
+    "W-R1dzem32s:p10",
+    "2A2JbUN-kc0:p31"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "breakout",
+   "channel": "current",
+   "detail": "experts see top 10 to 15 upside after finishing about 32nd per game",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:p31",
+    "egRrai3Ax38:p25",
+    "KPdD91Oo8-U:p4",
+    "dlo7L8Ru91A:p8",
+    "7BllEsdNLoM:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "experts rank him top 10 to 15; market ranks 21 on Yahoo and 50 on ESPN",
+   "until": "",
+   "sources": [
+    "_vbAP5y182A:p6",
+    "C4vlgpJ62NI:p11",
+    "W-R1dzem32s:p10",
+    "ahNxsoU8Hx4:p35",
+    "KPdD91Oo8-U:p4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "ESPN rank 50 and ADP about 48 to 53",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p35",
+    "egRrai3Ax38:p25"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 33 USD, rank 21; ESPN value 11 USD, rank 50",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trade risk",
+   "channel": "current",
+   "detail": "could be moved if the new Lakers roster does not work",
+   "until": "",
+   "sources": [
+    "_WjOjp6Qu8E:p12"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "played 51 games in 2025-26",
+   "until": "",
+   "sources": [
+    "_WjOjp6Qu8E:p13",
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "The experts agree he should go in round 2 and could finish in the first round with LeBron gone. They put him in the top 10 to 15. Yahoo's 33 USD value fits that view better than ESPN's 11 USD. He went for 25 USD in our league last season, so expect bidding near the Yahoo price. Paying about 30 USD is fine if you believe the usage jump. He fits punt TO builds best: he gives strong FT%, points, assists and threes but costs you in turnovers and adds little on defense. Early in the season, check that his assists and usage are rising next to Luka. Also watch Luka's health, since a Luka injury would push Reaves toward first round value.",
+ "rejected": []
+}

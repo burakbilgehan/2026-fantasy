@@ -1,0 +1,215 @@
+{
+ "player": {
+  "name": "Tari Eason",
+  "slug": "tari-eason",
+  "pk": 156,
+  "team": "HOU",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "f9b05e31dd94",
+ "note_count": 5,
+ "built_at": "2026-10-04T17:48:56+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1242782,
+  "duration_ms": 26928
+ },
+ "current": [
+  {
+   "text": "Eason is a bench player. The projected starters are VanVleet, Thompson, Durant, Jabari Smith and Sengun, and his minutes are blocked by Durant and Smith.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p22",
+    "aLP080hxizA:t1",
+    "-y6p5PYLf00:p31",
+    "yoCTTlJ_tPQ:t0"
+   ]
+  },
+  {
+   "text": "He projects for about 25 minutes. He has no realistic path to 30 minutes unless Durant or Smith gets hurt.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p22"
+   ]
+  },
+  {
+   "text": "Coach Ime Udoka plays his starters very heavy minutes, which limits bench roles like Eason's.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t0",
+    "7BllEsdNLoM:t9"
+   ]
+  },
+  {
+   "text": "Reports from Rockets media day say Kevin Durant will play fewer minutes. More guard depth may also push Durant and Eason into forward roles, which concentrates the frontcourt minutes.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:t7",
+    "aLP080hxizA:t2"
+   ]
+  },
+  {
+   "text": "He is fine as a last-round pick. He is Lloyd's stash option where stashing is allowed.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p22",
+    "aLP080hxizA:p24"
+   ]
+  },
+  {
+   "text": "If he gets 32 minutes with Durant or Smith out, he would be about a top-70 player.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p24"
+   ]
+  },
+  {
+   "text": "His three-point shooting collapsed late last season, and that dragged his FG% down.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p23",
+    "-y6p5PYLf00:p31"
+   ]
+  },
+  {
+   "text": "His FG% should improve.",
+   "kind": "verdict",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p31"
+   ]
+  },
+  {
+   "text": "With a March 28 end, the Rockets have a weak 3-3-4 fantasy playoff schedule: 10 games over weeks 19 to 21.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t4"
+   ]
+  },
+  {
+   "text": "The Rockets have only 14 back-to-backs this season.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t5"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a strong rebounder for a forward and adds steals.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p23",
+    "stats"
+   ]
+  },
+  {
+   "text": "His assists are low for his position.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Lloyd has always been lower on Eason than most people. He never believed Eason would become a starter, and says that has been basically correct.",
+   "kind": "verdict",
+   "date": "2026-07-05",
+   "until": "",
+   "sources": [
+    "4kKINkZhWls:p3"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "punt AST fit",
+   "channel": "durable",
+   "detail": "about 1.5 assists per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "minutes blocked by Kevin Durant and Jabari Smith",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p22",
+    "-y6p5PYLf00:p31"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "about top 70 with 32 minutes if Durant or Smith is out",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p24"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "last-round pick or stash",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p22",
+    "aLP080hxizA:p24"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "HOU 3-3-4, 10 games in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "HOU has 14 back-to-backs",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t5"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo (rank 163) and ESPN (rank 176) both value him at 0 USD, and our league paid 2 USD last season. That puts him around the edge of the 144 drafted players, so he is a 1 USD last-pick flyer at most. Rebounds and steals are his strengths, and his low assists make him a fit for punt AST builds. Early in the season, check Durant's minutes, any injury to Durant or Smith (32 minutes would make him about a top-70 player), and whether his three-point shot and FG% recover. Houston's weak 10-game playoff schedule cuts into his late value.",
+ "rejected": []
+}

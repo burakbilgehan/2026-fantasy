@@ -1,0 +1,168 @@
+{
+ "player": {
+  "name": "Ryan Kalkbrenner",
+  "slug": "ryan-kalkbrenner",
+  "pk": 301,
+  "team": "CHA",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "27eb2da9df60",
+ "note_count": 5,
+ "built_at": "2026-10-04T17:47:40+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1282942,
+  "duration_ms": 29354
+ },
+ "current": [
+  {
+   "text": "Charlotte's center plan is not settled. Moussa Diabaté is the projected starting center, with Naz Reid at power forward. Kalkbrenner competes for center minutes with Diabaté, Kai Jones, Steinbach and first-round rookie James Nnaji.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t2",
+    "CRLSsoGhb2w:t3",
+    "LM0cRCGoAUQ:t9",
+    "RsjGTgJiKyI:t0"
+   ]
+  },
+  {
+   "text": "Experts expect him to be last in Charlotte's center rotation and to sit out of the rotation on many nights. Do not count on him.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p44",
+    "EB1Z_6n56-o:p21",
+    "LUTYUdXBG1M:p35"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He blocks shots well. One expert calls him the best rim protector among Charlotte's bigs.",
+   "kind": "verdict",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p16",
+    "EB1Z_6n56-o:p20"
+   ]
+  },
+  {
+   "text": "He does not shoot threes. Charlotte did not let him shoot from the perimeter, and he still took no threes in Summer League.",
+   "kind": "fact",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:t4",
+    "EB1Z_6n56-o:p20",
+    "LUTYUdXBG1M:p35",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is a very efficient finisher. His projected FG% of about 75% is a league outlier, but it comes on only about 4 shots per game.",
+   "kind": "fact",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:p20",
+    "stats"
+   ]
+  },
+  {
+   "text": "His game is limited to rebounds and blocks. He looked slow and scores little.",
+   "kind": "verdict",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p16",
+    "LUTYUdXBG1M:p35"
+   ]
+  },
+  {
+   "text": "He gives little in points, assists and steals. His steals are weak even for a center.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "FG% anchor",
+   "channel": "durable",
+   "detail": "About 75% FG, but on only about 4 FGA per game",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:p20",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "Team does not let him shoot from the perimeter",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:t4",
+    "LUTYUdXBG1M:p35",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt 3PM fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt STL fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Diabaté, Kai Jones, Steinbach and rookie Nnaji at center",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t2",
+    "LM0cRCGoAUQ:t9",
+    "RsjGTgJiKyI:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Expected last in the center rotation and out of it on many nights",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p44",
+    "EB1Z_6n56-o:p21"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both Yahoo and ESPN value him at 0 USD, at rank 229 and rank 163. He sits well outside our 144-player draft pool, so do not draft him. He only matters if he wins real minutes, for example if Diabaté loses the starting job or gets hurt. In that case he could be a short-term waiver pickup for FG% and blocks on a punt 3PM or punt STL team. Check Charlotte's center rotation in the first weeks.",
+ "rejected": []
+}

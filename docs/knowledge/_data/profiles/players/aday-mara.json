@@ -1,0 +1,168 @@
+{
+ "player": {
+  "name": "Aday Mara",
+  "slug": "aday-mara",
+  "pk": 349,
+  "team": "OKC",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "149357208b16",
+ "note_count": 6,
+ "built_at": "2026-10-04T17:21:55+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1843824,
+  "duration_ms": 42987
+ },
+ "current": [
+  {
+   "text": "He is a rookie center for OKC. He sits behind Isaiah Hartenstein, Chet Holmgren and Jaylin Williams in the center rotation.",
+   "kind": "fact",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p24",
+    "RyzcCGChYgs:p15",
+    "RyzcCGChYgs:t0",
+    "ahNxsoU8Hx4:t3"
+   ]
+  },
+  {
+   "text": "Experts expect him to barely play this season because the OKC frontcourt is crowded.",
+   "kind": "verdict",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p24",
+    "RyzcCGChYgs:p15",
+    "RsjGTgJiKyI:p18",
+    "RsjGTgJiKyI:t2"
+   ]
+  },
+  {
+   "text": "Hartenstein's role looks secure. Jaylin Williams barely played last season unless the centers were out.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:t3"
+   ]
+  },
+  {
+   "text": "He struggled in Summer League. He shot 35.7% from the line but averaged 3.2 assists, 7 rebounds and 1.8 blocks.",
+   "kind": "fact",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:p15",
+    "75Sk_4fkgIM:p34",
+    "TOn-D1SV7a8:p24"
+   ]
+  },
+  {
+   "text": "One expert dropped him to 10th in a dynasty rookie ranking after Summer League. His appeal is long term, not this season.",
+   "kind": "verdict",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p24",
+    "RsjGTgJiKyI:p18"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a huge center whose shot blocking is real. Experts also credit him with a strong field goal percentage.",
+   "kind": "verdict",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p24",
+    "RsjGTgJiKyI:p17",
+    "RyzcCGChYgs:p15"
+   ]
+  },
+  {
+   "text": "He is a strong passer for a big man. One expert compares his assists to Alperen Sengun's.",
+   "kind": "verdict",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "RsjGTgJiKyI:p17",
+    "RyzcCGChYgs:p15",
+    "75Sk_4fkgIM:p34"
+   ]
+  },
+  {
+   "text": "His free throw shooting is very bad.",
+   "kind": "verdict",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p24",
+    "RyzcCGChYgs:p15"
+   ]
+  },
+  {
+   "text": "He plays drop coverage only and does not project as a switchable big. He looks slow and lacks a go-to offensive move.",
+   "kind": "verdict",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p34",
+    "RyzcCGChYgs:p15"
+   ]
+  },
+  {
+   "text": "He makes almost no threes and gets few steals.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "rookie",
+   "channel": "current",
+   "detail": "2026 draft pick, already 21",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p24",
+    "RyzcCGChYgs:p15",
+    "75Sk_4fkgIM:p34"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Behind Hartenstein, Holmgren and Jaylin Williams at center",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p24",
+    "RyzcCGChYgs:p15",
+    "RyzcCGChYgs:t0",
+    "ahNxsoU8Hx4:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "0.1 threes per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Mara is not a draft target in our league. Yahoo values him at 0 USD and ranks him 250th, ESPN does not rank him, and only 144 players get drafted. His projection of 5.1 points, 4.8 rebounds and 1.1 blocks in a deep third-string center role is weak in points, threes and steals. Early in the season, check whether he gets real minutes when Hartenstein or Holmgren miss games. Leave him on waivers until he does.",
+ "rejected": []
+}

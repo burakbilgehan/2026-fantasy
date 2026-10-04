@@ -1,0 +1,179 @@
+{
+ "slug": "fantasy-playoff-weeks",
+ "title": "Fantasy Playoff Weeks 19 to 21 (Ending 2027-03-28)",
+ "type": "topic",
+ "brief": "How should the playoff schedule for weeks 19, 20 and 21, ending 2027-03-28, affect our draft and our season moves? It must explain that two-game playoff weeks are the factor that matters, that schedule is only a tiebreaker and mostly for early picks, and how to use trades and streaming to gain playoff games later.",
+ "tags": [],
+ "rule_ids": [
+  "tnzmsYUA4yQ:r9",
+  "_O9pc_u5vH0:r10",
+  "aLP080hxizA:r8",
+  "aLP080hxizA:r9",
+  "sf6Ga9k-r-Q:r4",
+  "XSPJL_mlFXo:r9",
+  "NmdNvAz08oE:r2",
+  "NmdNvAz08oE:r3",
+  "NmdNvAz08oE:r4",
+  "3Qm5wLjhvTw:r8",
+  "4gw4W4RTolY:r1",
+  "4gw4W4RTolY:r10",
+  "QbdrhJd7LiA:r11",
+  "QbdrhJd7LiA:r12",
+  "egRrai3Ax38:r11",
+  "J1Eg3uaAICU:r5",
+  "2mxpEpGU3H8:r0",
+  "2mxpEpGU3H8:r1",
+  "gf_6GveiAls:r0",
+  "gf_6GveiAls:r1",
+  "gf_6GveiAls:r2",
+  "gf_6GveiAls:r4",
+  "gf_6GveiAls:r5",
+  "gf_6GveiAls:r8",
+  "gf_6GveiAls:r10",
+  "gf_6GveiAls:r11",
+  "gf_6GveiAls:r12",
+  "gf_6GveiAls:r13",
+  "gf_6GveiAls:r16",
+  "gf_6GveiAls:r18",
+  "skKXe2CRl8Q:r19",
+  "skKXe2CRl8Q:r24",
+  "C4vlgpJ62NI:r5",
+  "xHRF06_E9HE:r1"
+ ],
+ "proposed": false,
+ "prompt_sha": "12db90749aa2",
+ "built_at": "2026-10-04T20:16:51+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.09796479999999999,
+  "duration_ms": 36540
+ },
+ "player_slugs": [],
+ "summary": "The only schedule factor that really matters for our playoff weeks 19 to 21 (ending 2027-03-28) is a two-game week, especially for our best players. At the 2026-10-18 auction, use the schedule only to choose between two similar players near the top of your board, and never pay more or take a worse player for it. Gain playoff games later through trades before the 2027-03-04 deadline and through heavy streaming within our 6 adds per week.",
+ "sections": [
+  {
+   "heading": "Use the March 28 schedule",
+   "paragraphs": [
+    {
+     "text": "Our season ends Sunday 2027-03-28, and weeks 19, 20 and 21 are the fantasy playoffs. This is the end date the experts recommend. Yahoo's default is April 4. When a site or note counts games, use the March 28 version and ignore the April 4 one. Check our settings and playoff dates before you look at any schedule.",
+     "sources": [
+      "gf_6GveiAls:r0",
+      "gf_6GveiAls:r5",
+      "_O9pc_u5vH0:r10",
+      "sf6Ga9k-r-Q:r4",
+      "3Qm5wLjhvTw:r8",
+      "tnzmsYUA4yQ:r9"
+     ]
+    },
+    {
+     "text": "The experts think late March games will be more competitive than before. Tanking rule changes and lottery reform should mean less resting at the end of the season. One expert used to suggest ending on March 21 and moved to March 28 for this reason. Another expects next season's playoffs to be less extreme than last season, when about eight or nine teams were tanking or resting players.",
+     "sources": [
+      "gf_6GveiAls:r4",
+      "egRrai3Ax38:r11",
+      "4gw4W4RTolY:r10",
+      "aLP080hxizA:r8",
+      "xHRF06_E9HE:r1"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Two-game weeks are what matters",
+   "paragraphs": [
+    {
+     "text": "A two-game week in the fantasy playoffs is the schedule factor that actually matters. In a head-to-head league like ours, a player with only two games that week gives you very little in the counting categories at the worst possible time. Leave aside teams with two-game playoff weeks, and the schedules are mostly comparable. They should not change player values much.",
+     "sources": [
+      "gf_6GveiAls:r10",
+      "gf_6GveiAls:r13",
+      "3Qm5wLjhvTw:r8"
+     ]
+    },
+    {
+     "text": "The danger is biggest for your best players. One expert does not want his top player to have a two-game week in the semifinals or the final. For us, that means weeks 20 and 21. If our playoff format gives the top two seeds a first-round bye, a team that earns one can absorb a two-game week in week 19.",
+     "sources": [
+      "NmdNvAz08oE:r2",
+      "gf_6GveiAls:r11"
+     ]
+    },
+    {
+     "text": "Back-to-backs inside weeks 19 to 21 matter more than a team's back-to-back total for the season. Do not agonize over 12 playoff games against 11. Too much can change before March. One known case: Minnesota has a two-game week in the middle of the fantasy playoffs whichever weeks a head-to-head league uses, so it is hard to avoid. Check where it falls in our March 28 schedule.",
+     "sources": [
+      "gf_6GveiAls:r8",
+      "XSPJL_mlFXo:r9",
+      "gf_6GveiAls:r18",
+      "2mxpEpGU3H8:r1"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "At the auction: a tiebreaker for top players",
+   "paragraphs": [
+    {
+     "text": "At draft time, the playoff schedule is the least important factor. Use it only to choose between two players you value about the same. Never take a worse player, or pay more for one, because of a better playoff schedule. It should not drive your draft plan. Player value is too uncertain. Players picked around 100 often finish around 30, and players picked around 20 can finish around 60.",
+     "sources": [
+      "QbdrhJd7LiA:r11",
+      "gf_6GveiAls:r1",
+      "gf_6GveiAls:r2",
+      "aLP080hxizA:r9",
+      "J1Eg3uaAICU:r5"
+     ]
+    },
+    {
+     "text": "Apply the tiebreaker mostly to the expensive part of your roster. One expert says schedule quirks only matter for your first three rounds. In our 12-team league, that is roughly the 36 most valued players, which for you means your top three buys. For mid-priced and cheap players, and for the late flyers that fill our 144 drafted spots, ignore the schedule and bid on talent and role.",
+     "sources": [
+      "gf_6GveiAls:r16",
+      "NmdNvAz08oE:r2",
+      "NmdNvAz08oE:r3"
+     ]
+    },
+    {
+     "text": "The experts differ on how hard to mark down a player with a two-game playoff week. One view says a two-game playoff week should drop a player down your board in head-to-head. It also says to move him down a little against similar players. The other view says it is only a tiebreaker and must not override a clear talent gap. The two views meet in practice. If a top player with a two-game week falls in price and nobody better is available, buy him. Do not reach for him early. For us, that means letting his price come down instead of chasing him at full value.",
+     "sources": [
+      "gf_6GveiAls:r13",
+      "2mxpEpGU3H8:r0",
+      "QbdrhJd7LiA:r11",
+      "J1Eg3uaAICU:r5",
+      "gf_6GveiAls:r12"
+     ]
+    },
+    {
+     "text": "Rostering several players from one NBA team is fine, probably up to three. It is more acceptable if that team has no two-game week in the fantasy playoffs. Five is too many. Do not build your roster around playoff game counts.",
+     "sources": [
+      "4gw4W4RTolY:r1",
+      "gf_6GveiAls:r2"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "During the season: trades and streaming",
+   "paragraphs": [
+    {
+     "text": "Trades that improve your schedule, such as adding playoff games, are worth considering as the season goes on. They are not worth making at the draft. Our trade deadline is 2027-03-04, before week 19 starts. Any schedule trade has to be done by then. Before that date, check your top players for two-game weeks in weeks 19 to 21. Then look for trades that swap a two-game-week player for a similar player with a full playoff schedule.",
+     "sources": [
+      "skKXe2CRl8Q:r19",
+      "QbdrhJd7LiA:r12"
+     ]
+    },
+    {
+     "text": "The season has three phases: discovery early, optimizing in the middle, and maximizing near the end and in the playoffs. In the maximizing phase, drop stashed or injured players and stream as much as you can. In our league, that means using all 6 acquisitions per week in weeks 19 to 21. Use daily FAB to add players with games on days your starters sit. Avoid adding players with two-game weeks.",
+     "sources": [
+      "skKXe2CRl8Q:r24",
+      "QbdrhJd7LiA:r12"
+     ]
+    },
+    {
+     "text": "Each playoff week, you need only 5 of the 9 categories to win. Even balanced teams end up punting something in the playoffs. Stream for the categories you can win that week. Do not chase all nine.",
+     "sources": [
+      "C4vlgpJ62NI:r5"
+     ]
+    }
+   ]
+  }
+ ],
+ "players": [],
+ "excluded": [],
+ "rejected": []
+}

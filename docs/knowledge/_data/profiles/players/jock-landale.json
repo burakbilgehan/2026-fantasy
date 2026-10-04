@@ -1,0 +1,115 @@
+{
+ "player": {
+  "name": "Jock Landale",
+  "slug": "jock-landale",
+  "pk": 324,
+  "team": "ATL",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "7b29e2f1d26d",
+ "note_count": 3,
+ "built_at": "2026-10-04T17:36:27+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1018902,
+  "duration_ms": 21081
+ },
+ "current": [
+  {
+   "text": "Landale re-signed with Atlanta on a 1-year, 14 million USD deal.",
+   "kind": "fact",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p43",
+    "H9q2FT3LhNw:p30"
+   ]
+  },
+  {
+   "text": "He is the backup center behind Onyeka Okongwu and part of a 10-man bench rotation.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p19",
+    "H9q2FT3LhNw:p30",
+    "4gw4W4RTolY:t2"
+   ]
+  },
+  {
+   "text": "Atlanta's center depth is thin: Veesaar is out for the season and Gueye is injured.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t5"
+   ]
+  },
+  {
+   "text": "If Okongwu got hurt, Landale would start and play 30-plus minutes. That makes him the best stash on the team, but only in deep stash formats.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p19"
+   ]
+  },
+  {
+   "text": "One expert calls him an okay backup center and questions the size of his contract.",
+   "kind": "verdict",
+   "date": "2026-07-01",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p43"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a center who can shoot, so Atlanta always has a shooting center on the floor. This fits Quin Snyder's five-out offense, which wants lots of threes.",
+   "kind": "fact",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:p30",
+    "H9q2FT3LhNw:t3"
+   ]
+  },
+  {
+   "text": "Steals are a clear weak spot. He is projected well below the league in steals.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "Backup to Onyeka Okongwu. Would start and play 30-plus minutes if Okongwu is out.",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p19"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Stash value only in deep leagues. In our league, add him if Okongwu misses time.",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p19"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Landale is Yahoo rank 282 with a 0 USD value and no ESPN price, so he is not one of the 144 players we draft. His 2025-26 line in 22.2 minutes (10.6 PTS, 5.7 REB, 0.5 STL, 0.5 BLK) shows little value in 9-cat when he comes off the bench, and his steals are a clear weak spot. Leave him on waivers and watch Okongwu's health early in the season, because an Okongwu injury would make Landale a 30-minute starter worth a FAB bid.",
+ "rejected": []
+}

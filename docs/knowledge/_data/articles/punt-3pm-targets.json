@@ -1,0 +1,454 @@
+{
+ "slug": "punt-3pm-targets",
+ "title": "Punt 3PTM: Player Targets",
+ "type": "compilation",
+ "brief": "Which players fit a punt 3PTM build in our league, grouped into tiers with what each adds in FG%, REB and BLK? It must note that threes are easy to find on waivers, so non-shooters lose less than rankings suggest.",
+ "tags": [
+  "punt 3PM fit",
+  "no 3PM"
+ ],
+ "rule_ids": [
+  "_O9pc_u5vH0:r5",
+  "C4vlgpJ62NI:r18",
+  "ME-r173X5b0:r6",
+  "ME-r173X5b0:r7",
+  "0geFVzSqOnA:r4",
+  "0geFVzSqOnA:r7",
+  "3Qm5wLjhvTw:r7"
+ ],
+ "proposed": false,
+ "prompt_sha": "12db90749aa2",
+ "built_at": "2026-10-04T20:14:42+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.299076,
+  "duration_ms": 72433
+ },
+ "player_slugs": [
+  "aday-mara",
+  "amen-thompson",
+  "ausar-thompson",
+  "ben-simmons",
+  "collin-murray-boyles",
+  "daniel-gafford",
+  "dayron-sharpe",
+  "deandre-ayton",
+  "demar-derozan",
+  "dereck-lively",
+  "derik-queen",
+  "dylan-cardwell",
+  "dyson-daniels",
+  "isaiah-hartenstein",
+  "isaiah-jackson",
+  "ivica-zubac",
+  "jaime-jaquez",
+  "jakob-poeltl",
+  "jalen-duren",
+  "jarrett-allen",
+  "jayden-quaintance",
+  "jimmy-butler",
+  "joan-beringer",
+  "jonas-valanciunas",
+  "kevin-porter",
+  "mark-williams",
+  "marvin-bagley",
+  "mitchell-robinson",
+  "moussa-diabate",
+  "neemias-queta",
+  "nic-claxton",
+  "oso-ighodaro",
+  "paul-reed",
+  "robert-williams",
+  "rudy-gobert",
+  "ryan-kalkbrenner",
+  "steven-adams",
+  "tj-mcconnell",
+  "tre-jones",
+  "yanic-konan-niederhauser",
+  "yaxel-lendeborg",
+  "yves-missi",
+  "zach-edey",
+  "zion-williamson"
+ ],
+ "summary": "Punting 3PTM costs less in our league than rankings suggest. Two threes a game is now only average, and threes are easy to stream off waivers. Build around non-shooters who add FG%, REB, BLK and steals, such as Amen Thompson, Jalen Duren, Dyson Daniels and Ausar Thompson, then fill the end of the auction with cheap centers at 1 to 3 USD.",
+ "sections": [
+  {
+   "heading": "Why non-shooters lose less here",
+   "paragraphs": [
+    {
+     "text": "Two experts say the same thing: threes are easy to find on waivers. Do not overpay for three-point specialists at the auction. A player who makes no threes gives up less real value than his ranking shows, because you can stream threes back if you need them.",
+     "sources": [
+      "_O9pc_u5vH0:r5",
+      "C4vlgpJ62NI:r18",
+      "ME-r173X5b0:r7"
+     ]
+    },
+    {
+     "text": "The bar for threes has also gone up. About two threes a game is now average in fantasy. A shooter who only hits two is nothing special. On 2026-10-18, do not pay extra for a player whose main selling point is two threes a game. Spend that money on FG%, REB, BLK and steals instead.",
+     "sources": [
+      "ME-r173X5b0:r6",
+      "3Qm5wLjhvTw:r7"
+     ]
+    },
+    {
+     "text": "What this means in our league: when you rank players for a punt 3PTM team, treat zero threes as a small cost, not a big one. If you decide not to fully punt, our daily FAB waivers and the cap of 6 adds per week give you room to stream a shooter in weeks where you are close in threes.",
+     "sources": [
+      "ME-r173X5b0:r7",
+      "C4vlgpJ62NI:r18"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "The limits of the build",
+   "paragraphs": [
+    {
+     "text": "There is a tension in the notes. One side says non-shooters are barely hurt, because threes are easy to stream. The other side warns that a big-man build is harder to run than it looks. Only REB, BLK and FG% move together, and threes and FG% pull against each other, so adding threes back to a big-man core is hard. Both points hold. Punting threes is cheap, but stacking only centers leaves you weak in AST, ST and FT%. Mix in guards and wings who add steals and assists without threes.",
+     "sources": [
+      "ME-r173X5b0:r7",
+      "0geFVzSqOnA:r4",
+      "0geFVzSqOnA:r7"
+     ]
+    },
+    {
+     "text": "Check FT% on every target. Gobert, Claxton, Ausar Thompson and Mitchell Robinson shoot poorly from the line. They suit a team that punts both 3PTM and FT%. Hartenstein, Zubac and Murray-Boyles take so few free throws that the damage is small.",
+     "sources": [
+      "player:rudy-gobert",
+      "player:nic-claxton",
+      "player:ausar-thompson",
+      "player:mitchell-robinson",
+      "player:isaiah-hartenstein",
+      "player:ivica-zubac",
+      "player:collin-murray-boyles"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Core targets",
+   "paragraphs": [
+    {
+     "text": "Amen Thompson is the best guard fit. He makes about 0.3 threes a game but gives a 54% FG from a guard slot, 7.7 rebounds, 1.6 steals and blocks. His profile says a price near the Yahoo range of about 25 to 35 USD is safer than the ESPN price. In the first weeks, check that his blocks return near 0.9 and his FG% reaches 55%.",
+     "sources": [
+      "player:amen-thompson"
+     ]
+    },
+    {
+     "text": "Jalen Duren is the FG% and rebounds anchor, with about 19 to 20 points and no threes. His profile says bid up to about 20 USD and let others go higher. Dyson Daniels is a steals anchor (projected 2.2 a game) who also adds rebounds, assists and FG%, with a fair range of 10 to 18 USD. Ausar Thompson adds elite steals plus good FG%, rebounds and blocks, and the experts call him a steal who should go clearly higher than his market price.",
+     "sources": [
+      "player:jalen-duren",
+      "player:dyson-daniels",
+      "player:ausar-thompson"
+     ]
+    },
+    {
+     "text": "For a second center, Jarrett Allen and Ivica Zubac are both FG% and rebounds anchors. For Allen, stop around 10 to 13 USD. For Zubac, his Yahoo average cost of about 8 USD is the fair price. Indiana's 3-4-3 playoff schedule is a minus for Zubac.",
+     "sources": [
+      "player:jarrett-allen",
+      "player:ivica-zubac"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Mid-price bigs with a catch",
+   "paragraphs": [
+    {
+     "text": "Rudy Gobert gives about 11 rebounds, 1.6 blocks and 67% FG. His 52.6% FT makes him a strong buy only if you also punt FT%. His fair range is 5 to 10 USD. Minnesota has a two-game week in playoff week 20.",
+     "sources": [
+      "player:rudy-gobert"
+     ]
+    },
+    {
+     "text": "Zach Edey is a strong FG%, REB and BLK piece for a team that can also punt TO. The experts call him top 60 at worst. A price in the high single digits to low teens is reasonable if you accept the ankle risk. Zion Williamson brings strong FG% and 22 to 23 points with no threes. Aim for about 12 USD or less, and watch how often he rests on back-to-backs.",
+     "sources": [
+      "player:zach-edey",
+      "player:zion-williamson"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "End-of-auction flyers at 1 to 3 USD",
+   "paragraphs": [
+    {
+     "text": "The last rounds are full of cheap centers who add FG% and blocks with no threes: Claxton, Queta, Gafford, Poeltl, Missi, Diabaté and Isaiah Jackson. Their profiles price most of them at 1 to 3 USD. Each one depends on winning the starting job or the minutes, so check his role in the first weeks and drop him fast if it does not hold.",
+     "sources": [
+      "player:nic-claxton",
+      "player:neemias-queta",
+      "player:daniel-gafford",
+      "player:jakob-poeltl",
+      "player:yves-missi",
+      "player:moussa-diabate",
+      "player:isaiah-jackson"
+     ]
+    },
+    {
+     "text": "For more than FG% and blocks, target Hartenstein (rebounds, assists, steals, 61% FG), Sharpe (rebounds, steals, FG%) and Murray-Boyles (58% FG, blocks, steals, few turnovers). The experts see top 100 value in all three, with more upside if their minutes rise.",
+     "sources": [
+      "player:isaiah-hartenstein",
+      "player:dayron-sharpe",
+      "player:collin-murray-boyles"
+     ]
+    },
+    {
+     "text": "Some cheap non-shooters at guard and wing cover the categories big men miss: Porter for steals and assists, Tre Jones for assists and a guard's FG%, Jaquez for FG%, assists and rebounds, and Lendeborg and Queen for rebounds, assists, steals and blocks. DeRozan fits a punt 3PTM team for points, FT% and low turnovers, but not for FG%, REB or BLK. The sites disagree on Jaquez: Yahoo projects 54.2% FG and ESPN 50.2%.",
+     "sources": [
+      "player:kevin-porter",
+      "player:tre-jones",
+      "player:jaime-jaquez",
+      "player:yaxel-lendeborg",
+      "player:derik-queen",
+      "player:demar-derozan"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Waiver watch list",
+   "paragraphs": [
+    {
+     "text": "These players should not be bought on 2026-10-18. Track them for FAB claims instead. Paul Reed becomes a must-add if Duren misses time. Ayton is a quick add if Anthony Davis gets hurt. Beringer handcuffs Gobert. Kalkbrenner matters only if Diabaté loses the job.",
+     "sources": [
+      "player:paul-reed",
+      "player:deandre-ayton",
+      "player:joan-beringer",
+      "player:ryan-kalkbrenner"
+     ]
+    },
+    {
+     "text": "Some players are later-season adds aimed at our playoffs (weeks 19 to 21, ending 2027-03-28). Lively is out until around Thanksgiving, and Dallas has a 4-4-4 playoff schedule. Konan Niederhäuser is a free pickup to hold in an IL slot, with a good 4-3-4 playoff schedule. Mark Williams may return in mid to late March. Butler is at most a 1 USD IL stash if you have a spare slot.",
+     "sources": [
+      "player:dereck-lively",
+      "player:yanic-konan-niederhauser",
+      "player:mark-williams",
+      "player:jimmy-butler"
+     ]
+    }
+   ]
+  }
+ ],
+ "players": [
+  {
+   "slug": "amen-thompson",
+   "tier": "Core targets",
+   "line": "The best guard fit for punting threes: about 0.3 threes a game, plus 54% FG, 7.7 rebounds, steals and blocks from a guard slot."
+  },
+  {
+   "slug": "jalen-duren",
+   "tier": "Core targets",
+   "line": "A FG% and rebounds anchor with real scoring and no threes, so he loses nothing in this build."
+  },
+  {
+   "slug": "dyson-daniels",
+   "tier": "Core targets",
+   "line": "A steals anchor who also adds rebounds, assists and FG% while making only about 0.5 threes a game."
+  },
+  {
+   "slug": "ausar-thompson",
+   "tier": "Core targets",
+   "line": "Elite steals plus good FG%, rebounds and blocks with almost no threes, best if you also punt FT%."
+  },
+  {
+   "slug": "jarrett-allen",
+   "tier": "Core targets",
+   "line": "A steady FG% and rebounds center who could push his FG% back toward 66% next to Harden."
+  },
+  {
+   "slug": "ivica-zubac",
+   "tier": "Core targets",
+   "line": "A FG% and rebounds anchor whose weak FT% hurts only a little because of low volume."
+  },
+  {
+   "slug": "rudy-gobert",
+   "tier": "Value at price",
+   "line": "About 11 rebounds, 1.6 blocks and 67% FG, but his FT% means he fits only teams that punt FT% too."
+  },
+  {
+   "slug": "zach-edey",
+   "tier": "Value at price",
+   "line": "A strong FG%, REB and BLK source for big-man builds that can punt TO, with ankle risk."
+  },
+  {
+   "slug": "zion-williamson",
+   "tier": "Value at price",
+   "line": "Strong FG% and 22 to 23 points with no threes, as long as you pay below his inflated ADP."
+  },
+  {
+   "slug": "isaiah-hartenstein",
+   "tier": "Late flyers",
+   "line": "Zero threes, but rebounds, assists, steals and 61% FG, and his FT% costs little on about 2 attempts a game."
+  },
+  {
+   "slug": "dayron-sharpe",
+   "tier": "Late flyers",
+   "line": "Rebounds, steals and FG% with almost no threes, worth more if his minutes reach the mid 20s."
+  },
+  {
+   "slug": "collin-murray-boyles",
+   "tier": "Late flyers",
+   "line": "Adds 58% FG on low volume, blocks and steals with few turnovers, and has top 70 upside at 30 minutes."
+  },
+  {
+   "slug": "nic-claxton",
+   "tier": "Late flyers",
+   "line": "Projected 59% FG and blocks with no threes, best next to a punt FT% core."
+  },
+  {
+   "slug": "neemias-queta",
+   "tier": "Late flyers",
+   "line": "Cheap FG% (65% on about 6 attempts), rebounds and blocks with few turnovers if he starts in Boston."
+  },
+  {
+   "slug": "daniel-gafford",
+   "tier": "Late flyers",
+   "line": "FG% and blocks with no threes, and he can start early while Lively is hurt."
+  },
+  {
+   "slug": "jakob-poeltl",
+   "tier": "Late flyers",
+   "line": "A cheap FG% anchor with top 70 upside if his blocks recover and he plays about 28 minutes."
+  },
+  {
+   "slug": "yves-missi",
+   "tier": "Late flyers",
+   "line": "A blocks source who adds FG% on low volume with few turnovers, if he keeps the starting job."
+  },
+  {
+   "slug": "moussa-diabate",
+   "tier": "Late flyers",
+   "line": "Helps FG% (61.6%) and rebounds (8.0 projected) at almost no cost, but adds little in points."
+  },
+  {
+   "slug": "isaiah-jackson",
+   "tier": "Late flyers",
+   "line": "About 62.6% FG on low volume and about 1 block a game from a cheap starting center, until Konan Niederhäuser returns."
+  },
+  {
+   "slug": "derik-queen",
+   "tier": "Late flyers",
+   "line": "Rebounds, assists, steals and blocks fit the build, but his FG% gives no boost for a big."
+  },
+  {
+   "slug": "kevin-porter",
+   "tier": "Late flyers",
+   "line": "A guard who adds steals and assists with about 1 three a game, easy to drop if his role shrinks."
+  },
+  {
+   "slug": "tre-jones",
+   "tier": "Late flyers",
+   "line": "Assists, a guard's FG% (54.5% projected) and few turnovers, more likely a waiver add than a pick."
+  },
+  {
+   "slug": "jaime-jaquez",
+   "tier": "Late flyers",
+   "line": "FG%, assists and rebounds from a wing, though the sites disagree on how efficient he will be."
+  },
+  {
+   "slug": "yaxel-lendeborg",
+   "tier": "Late flyers",
+   "line": "A forward who adds rebounds, assists, steals and blocks, with threes as his weakest category."
+  },
+  {
+   "slug": "demar-derozan",
+   "tier": "Late flyers",
+   "line": "Fits for points, FT% and low turnovers but adds nothing in FG%, REB or BLK."
+  },
+  {
+   "slug": "paul-reed",
+   "tier": "Waiver watch",
+   "line": "FG%, blocks and steals off the bench, and a must-add with top 50 upside if Duren misses time."
+  },
+  {
+   "slug": "deandre-ayton",
+   "tier": "Waiver watch",
+   "line": "Strong FG% on low volume and 7 to 8 rebounds, a quick add if Anthony Davis gets hurt."
+  },
+  {
+   "slug": "mitchell-robinson",
+   "tier": "Waiver watch",
+   "line": "Projected 70.5% FG, 9.7 rebounds and 1.3 blocks, but only for punt FT% teams and he sits back-to-backs."
+  },
+  {
+   "slug": "dereck-lively",
+   "tier": "Waiver watch",
+   "line": "Strong FG% and blocks with no threes once he is back from a broken foot and wins the job."
+  },
+  {
+   "slug": "yanic-konan-niederhauser",
+   "tier": "Waiver watch",
+   "line": "A free IL stash for blocks, FG% and turnovers, with his upside landing in good 4-3-4 playoff weeks."
+  },
+  {
+   "slug": "joan-beringer",
+   "tier": "Waiver watch",
+   "line": "The Gobert handcuff: about 1 block and 68.6% FG on low volume in roughly 18 minutes."
+  },
+  {
+   "slug": "ryan-kalkbrenner",
+   "tier": "Waiver watch",
+   "line": "A short-term FG% and blocks pickup only if Diabaté loses the starting job or gets hurt."
+  },
+  {
+   "slug": "robert-williams",
+   "tier": "Waiver watch",
+   "line": "Blocks and FG% on waivers, but rest on back-to-backs hurts him in our playoff weeks."
+  },
+  {
+   "slug": "mark-williams",
+   "tier": "Waiver watch",
+   "line": "A possible late-March FG% and rebounds pickup if he returns with real minutes."
+  },
+  {
+   "slug": "jimmy-butler",
+   "tier": "Waiver watch",
+   "line": "A 1 USD IL stash at most, adding FT%, steals and assists rather than FG%, REB or BLK."
+  },
+  {
+   "slug": "oso-ighodaro",
+   "tier": "Waiver watch",
+   "line": "Offers only FG% and some steals and assists, a cheap FAB add if his minutes near 27."
+  },
+  {
+   "slug": "marvin-bagley",
+   "tier": "Waiver watch",
+   "line": "A Jokic-injury add for points, rebounds and about 58% FG, with no threes or steals."
+  },
+  {
+   "slug": "tj-mcconnell",
+   "tier": "Waiver watch",
+   "line": "A FG%, assists and steals streamer on low volume, weak in Indiana's 3-4-3 playoff weeks."
+  },
+  {
+   "slug": "dylan-cardwell",
+   "tier": "Waiver watch",
+   "line": "Blocks, rebounds and FG% in about 18 minutes, worth a claim only if his role grows."
+  },
+  {
+   "slug": "ben-simmons",
+   "tier": "Waiver watch",
+   "line": "A short-term stream for rebounds and assists at best, since he is not in the projected starting five."
+  },
+  {
+   "slug": "steven-adams",
+   "tier": "Waiver watch",
+   "line": "A matchup rebound streamer whose weak FT% and lack of points limit him."
+  }
+ ],
+ "excluded": [
+  {
+   "slug": "jonas-valanciunas",
+   "reason": "His minutes fell to 13.4 a game and the experts say Denver's backup centers rarely produce, so he does not fit even as a waiver target."
+  },
+  {
+   "slug": "aday-mara",
+   "reason": "A deep third-string center with a weak projection. He is irrelevant unless Hartenstein or Holmgren miss games."
+  },
+  {
+   "slug": "jayden-quaintance",
+   "reason": "He is out after another knee surgery and would back up Wembanyama even when healthy, so his ceiling is too low this season."
+  }
+ ],
+ "rejected": []
+}

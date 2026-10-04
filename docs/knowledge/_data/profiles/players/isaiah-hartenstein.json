@@ -1,0 +1,214 @@
+{
+ "player": {
+  "name": "Isaiah Hartenstein",
+  "slug": "isaiah-hartenstein",
+  "pk": 226,
+  "team": "OKC",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "58145aeb3f71",
+ "note_count": 9,
+ "built_at": "2026-10-04T17:32:58+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1336022,
+  "duration_ms": 32969
+ },
+ "current": [
+  {
+   "text": "He re-signed with the Thunder on a 3-year, 75 million USD contract.",
+   "kind": "fact",
+   "date": "2026-07-01",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p27"
+   ]
+  },
+  {
+   "text": "Experts expect him to be the full-time starting center, and they see his role as secure.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p27",
+    "ahNxsoU8Hx4:p30",
+    "ahNxsoU8Hx4:t3"
+   ]
+  },
+  {
+   "text": "The other OKC bigs are Chet Holmgren, Al Horford, Jaylin Williams and Thomas Sorber. Jaylin Williams barely played unless the centers were out.",
+   "kind": "fact",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:t0",
+    "RsjGTgJiKyI:t2",
+    "ahNxsoU8Hx4:t3"
+   ]
+  },
+  {
+   "text": "He was banged up a lot last season. He was playing very well early in the season before he got hurt.",
+   "kind": "fact",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p30",
+    "DubdKKhMWHo:p18"
+   ]
+  },
+  {
+   "text": "Experts say he goes too late in drafts. They think he should go inside the top 100, but on ESPN he sits outside the top 130.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p38",
+    "DubdKKhMWHo:p18",
+    "t4n9MAP2_14:p23",
+    "E-KmhvyZ2CU:p21"
+   ]
+  },
+  {
+   "text": "If he stays healthy and plays 28 to 29 minutes, he is a top 60 player. One expert gives a best case of 40th and a worst case of 93rd.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p30",
+    "t4n9MAP2_14:p23",
+    "DubdKKhMWHo:p18"
+   ]
+  },
+  {
+   "text": "In mock drafts, experts took him around round 8 for his defensive stats. In a 12-team mock, he went around pick 116.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p39",
+    "_vbAP5y182A:p44",
+    "E-KmhvyZ2CU:p21"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a center who gets assists at a rate that is unusual for his position.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p22",
+    "stats"
+   ]
+  },
+  {
+   "text": "He gives rebounds, steals, blocks and a high FG% on top of his assists.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p22",
+    "stats"
+   ]
+  },
+  {
+   "text": "He no longer shoots threes.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p22",
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "AST from a big",
+   "channel": "durable",
+   "detail": "About 3.4 assists per game as a center",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p22",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "0.0 threes per game",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p22",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt 3PM fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "Banged up a lot, 47 games played",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p30",
+    "DubdKKhMWHo:p18",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "Market rank about 100 to 135, experts see top 100 value and top 60 upside",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p38",
+    "ahNxsoU8Hx4:p30",
+    "DubdKKhMWHo:p18",
+    "t4n9MAP2_14:p23",
+    "E-KmhvyZ2CU:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "Drafted around round 8 in expert mocks",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p39",
+    "_vbAP5y182A:p44",
+    "E-KmhvyZ2CU:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 103, ESPN rank 135",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p38",
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "The market has him near the cutoff of our 144-player draft: Yahoo rank 103 (average cost 1.2 USD) and ESPN rank 135 (0.5 USD). Experts see top 100 value and top 60 upside at 28 or more minutes, so he is a cheap end-game target. Our league paid 11 USD for him last season, so a few USD is a better price. He fits punt 3PM builds and gives rebounds, assists, steals and a 61% FG%. His 64% FT% comes on only about 2 attempts per game, so the damage there is small. Early in the season, check that he is healthy and playing close to 28 minutes, up from 24.3 last season.",
+ "rejected": []
+}

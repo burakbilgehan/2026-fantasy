@@ -1,0 +1,149 @@
+{
+ "player": {
+  "name": "Will Riley",
+  "slug": "will-riley",
+  "pk": 483,
+  "team": "WAS",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "3f07424b2ce4",
+ "note_count": 2,
+ "built_at": "2026-10-04T17:51:28+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.15540220000000002,
+  "duration_ms": 33466
+ },
+ "current": [
+  {
+   "text": "Washington has a crowded group of young wings and guards, and Riley is one of them.",
+   "kind": "fact",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:p14",
+    "LUTYUdXBG1M:p2",
+    "LUTYUdXBG1M:t0",
+    "gJUBAJaHzlU:t1"
+   ]
+  },
+  {
+   "text": "Washington added Anthony Davis, Trae Young and AJ Dybantsa. Notes say this cuts into the roles of the team's young players.",
+   "kind": "fact",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t0",
+    "-rgXhs5BHiw:t0"
+   ]
+  },
+  {
+   "text": "Riley is not in the projected starting five of Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t1"
+   ]
+  },
+  {
+   "text": "The fifth starter spot is unclear, and many wings are competing for it.",
+   "kind": "fact",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t1"
+   ]
+  },
+  {
+   "text": "Ben expects a 10 or 11 man rotation, with 12 or 13 players who could justify minutes.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t2"
+   ]
+  },
+  {
+   "text": "Washington is trying to compete and push for the play-in. It is no longer rebuilding.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t0",
+    "-rgXhs5BHiw:t0"
+   ]
+  },
+  {
+   "text": "He averaged 22.5 points in two Summer League games and shot well.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p2"
+   ]
+  },
+  {
+   "text": "The expert does not expect his late-season fantasy value to return, because Washington has too many wings and guards.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p2"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Steals are a clear weakness. His projected steals are far below the top 250 pool.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Crowded young wing and guard group in Washington. The fifth starter spot is open.",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:p14",
+    "LUTYUdXBG1M:p2",
+    "gJUBAJaHzlU:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Davis, Young and Dybantsa were added. The expert does not expect his late-season role to return.",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p2",
+    "gJUBAJaHzlU:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Outside the drafted pool. Watch him if he wins rotation minutes in the open wing battle.",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t1",
+    "LUTYUdXBG1M:p2",
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo ranks him 221 with a value of 0 USD, and our league drafts only 144 players, so he is not a draft target. Yahoo projects 6.1 FGA, down from 8.4 last season, and his line is thin everywhere except a low TO count. Steals are a real hole. Early in the season, check whether he wins rotation minutes or the open fifth starter spot in Washington's crowded wing group before you spend FAB on him.",
+ "rejected": []
+}

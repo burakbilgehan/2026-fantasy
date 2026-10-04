@@ -1,0 +1,86 @@
+{
+ "player": {
+  "name": "Ronald Holland II",
+  "slug": "ronald-holland",
+  "pk": 241,
+  "team": "DET",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "cf9490faebf8",
+ "note_count": 1,
+ "built_at": "2026-10-04T17:47:10+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1420828,
+  "duration_ms": 30677
+ },
+ "current": [
+  {
+   "text": "He is projected as a bench player. Isaiah Joe is the sixth man, and Holland comes next with Paul Reed and Daniss Jenkins.",
+   "kind": "fact",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:t4"
+   ]
+  },
+  {
+   "text": "Detroit no longer has Isaiah Stewart or Tobias Harris, so its frontcourt is thinner.",
+   "kind": "fact",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:t1",
+    "_O9pc_u5vH0:t2",
+    "NYTH7uQsPCM:t8"
+   ]
+  },
+  {
+   "text": "He is expected to play more minutes alongside Ausar Thompson this season. Last season their minutes were staggered.",
+   "kind": "verdict",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:p25"
+   ]
+  },
+  {
+   "text": "Detroit's power forward depth is very weak unless Holland and Ausar Thompson play the four, so that is a possible route to more minutes for him.",
+   "kind": "verdict",
+   "date": "2026-07-20",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:t3"
+   ]
+  },
+  {
+   "text": "He is not a draft target in our 144-player auction. Watch him on waivers instead.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "durable": [],
+ "tags": [
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Bench forward ranked outside the top 144. Watch for more minutes at power forward next to Ausar Thompson.",
+   "until": "",
+   "sources": [
+    "stats",
+    "p9XE5jFqhvs:p25",
+    "-KS_AZjZnw4:t3"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites value him at 0 USD, at rank 269 on Yahoo and 244 on ESPN. Nobody drafted him in our league last season, so he should not be drafted in a 144-player auction. His projected line has no strong category. His only plus is low turnovers (TO z +1.1), and he posted 1.2 steals in 19.8 minutes last season. Early in the season, check whether his minutes rise toward 25 a night as a power forward next to Ausar Thompson. If they do, he is a cheap FAB pickup for steals.",
+ "rejected": []
+}

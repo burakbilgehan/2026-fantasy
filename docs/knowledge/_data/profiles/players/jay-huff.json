@@ -1,0 +1,170 @@
+{
+ "player": {
+  "name": "Jay Huff",
+  "slug": "jay-huff",
+  "pk": 249,
+  "team": "IND",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "0caf65840170",
+ "note_count": 6,
+ "built_at": "2026-10-04T17:35:11+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1176262,
+  "duration_ms": 27091
+ },
+ "current": [
+  {
+   "text": "He is Indiana's backup center behind Ivica Zubac and comes off the bench.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p36",
+    "EGdhmUgPAWY:t3",
+    "t4n9MAP2_14:t2",
+    "-KS_AZjZnw4:t6"
+   ]
+  },
+  {
+   "text": "The center depth behind him is weak (Larry Nance Jr. or Kobe Brown).",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t4"
+   ]
+  },
+  {
+   "text": "Coach Rick Carlisle keeps center minutes low and runs backups through the rotation. How he splits minutes between Zubac and Huff is an open question.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t1",
+    "sfCe7fS9daM:t2",
+    "sfCe7fS9daM:t3",
+    "t4n9MAP2_14:t2"
+   ]
+  },
+  {
+   "text": "Expected to play about 10 minutes behind Zubac. He could take all the backup center minutes if he plays well.",
+   "kind": "verdict",
+   "date": "2026-08-10",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:p31"
+   ]
+  },
+  {
+   "text": "Not draftable in standard leagues and not a sleeper. His Yahoo ADP of 102 is too high.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p38"
+   ]
+  },
+  {
+   "text": "The stash on this team. If Zubac misses time, Huff would have to start.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p39"
+   ]
+  },
+  {
+   "text": "His 1.9 blocks per game from last season are not expected to hold.",
+   "kind": "verdict",
+   "date": "2026-07-07",
+   "until": "",
+   "sources": [
+    "ME-r173X5b0:p33"
+   ]
+  },
+  {
+   "text": "Indiana plays 3, 4 and 3 games in our fantasy playoff weeks, which the expert calls not ideal. The team has 15 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t5"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "A one category blocks player. Blocks are his only clearly strong category.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p37",
+    "stats"
+   ]
+  },
+  {
+   "text": "Weak in points, rebounds, assists and steals. Steals are a league-level weakness, and his rebounding is low for a center.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p37",
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "Would start if Ivica Zubac misses time; depth behind him is weak",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p39",
+    "EGdhmUgPAWY:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Not draftable in standard leagues; add if Zubac is out or his minutes grow",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p38",
+    "EGdhmUgPAWY:p39",
+    "sfCe7fS9daM:p31"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "Yahoo ADP 102 is too high",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p38",
+    "ME-r173X5b0:p33"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "IND plays 3-4-3 games in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t5"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Huff is a backup center who adds blocks and little else. His 2026-27 projection is 1.4 blocks and 3.0 rebounds per game, and he is weak in steals. Yahoo values him at 0 USD (rank 189) and he went for 1 USD in our league last season, so he should not be drafted in a 144-player auction. Watch early how Carlisle splits minutes between Zubac and Huff, and pick him up if Zubac misses time, since he would then start.",
+ "rejected": []
+}

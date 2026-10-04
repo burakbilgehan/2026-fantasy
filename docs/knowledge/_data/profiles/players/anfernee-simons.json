@@ -1,0 +1,151 @@
+{
+ "player": {
+  "name": "Anfernee Simons",
+  "slug": "anfernee-simons",
+  "pk": 516,
+  "team": "PHI",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "518e2a2f7130",
+ "note_count": 2,
+ "built_at": "2026-10-04T17:23:27+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.19298320000000002,
+  "duration_ms": 45561
+ },
+ "current": [
+  {
+   "text": "Simons joined Philadelphia this offseason.",
+   "kind": "fact",
+   "date": "2026-08-06",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t1",
+    "gTsfR5PxAMY:p21"
+   ]
+  },
+  {
+   "text": "He is set to come off the bench as Philadelphia's sixth man.",
+   "kind": "fact",
+   "date": "2026-08-06",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:p21",
+    "-y6p5PYLf00:p15"
+   ]
+  },
+  {
+   "text": "The projected starters are Tyrese Maxey, VJ Edgecombe, Jaylen Brown, LeBron James and Joel Embiid, so usage on this team is crowded.",
+   "kind": "fact",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t0",
+    "sTtFUy7IoJI:t10",
+    "7BllEsdNLoM:t3",
+    "8d--aL_xxwE:t0"
+   ]
+  },
+  {
+   "text": "Nick Nurse plays his starters very heavy minutes, and the guard rotation is crowded. That leaves limited minutes for bench guards.",
+   "kind": "fact",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t2",
+    "7BllEsdNLoM:t2",
+    "TOn-D1SV7a8:t3"
+   ]
+  },
+  {
+   "text": "His numbers should come down in a backup role, and his rim finishing is not expected to hold at last season's level.",
+   "kind": "verdict",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p15"
+   ]
+  },
+  {
+   "text": "One expert expects new arrivals, Simons among them, to cut into Maxey's minutes.",
+   "kind": "verdict",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:t1"
+   ]
+  },
+  {
+   "text": "Experts expect Embiid to miss games and the stars, LeBron included, to be load managed. That could open extra minutes for bench players.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:t5",
+    "gTsfR5PxAMY:t4"
+   ]
+  },
+  {
+   "text": "Philadelphia has 13 back-to-backs this season, and three of them fall in the fantasy playoffs.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t8"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Last season he finished 70 percent at the rim (88th percentile), up from 58 percent. Before that he was in the lower half of the league at the rim.",
+   "kind": "fact",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p15"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "Joined Philadelphia this offseason",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t1",
+    "gTsfR5PxAMY:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Sixth man behind Maxey, Edgecombe, Brown, LeBron and Embiid; numbers expected to come down",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:p21",
+    "-y6p5PYLf00:p15"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Crowded Philadelphia guard rotation, and Nurse plays his starters heavy minutes",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:t3",
+    "gTsfR5PxAMY:t2",
+    "7BllEsdNLoM:t2"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo ranks him 199 and ESPN ranks him 221. Both sites give him 0 USD of value, so he sits well outside the 144 players drafted in our league. He went for 7 USD in our auction last season, and he should not cost that this time. His projected line is about 2.5 threes and 90 percent free throws on low volume, with weak FG%, rebounds, steals and blocks. Early in the season, check whether missed games from Embiid or rest days for LeBron push his minutes clearly above 25. If they do, he becomes a waiver pickup for threes.",
+ "rejected": []
+}

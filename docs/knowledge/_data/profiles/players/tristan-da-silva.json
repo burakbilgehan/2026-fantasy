@@ -1,0 +1,55 @@
+{
+ "player": {
+  "name": "Tristan da Silva",
+  "slug": "tristan-da-silva",
+  "pk": 125,
+  "team": "ORL",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "32437f4741cf",
+ "note_count": 0,
+ "built_at": "2026-10-04T17:49:55+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.0678782,
+  "duration_ms": 12831
+ },
+ "current": [
+  {
+   "text": "Orlando's projected starting five is Suggs, Bane, Franz Wagner, Banchero and Carter, so da Silva projects as a bench forward.",
+   "kind": "fact",
+   "date": "2026-08-01",
+   "until": "",
+   "sources": [
+    "FEcNjVRlj-U:t1"
+   ]
+  },
+  {
+   "text": "Sean Sweeney is Orlando's new head coach, replacing Jamahl Mosley, so bench roles may change.",
+   "kind": "fact",
+   "date": "2026-08-01",
+   "until": "",
+   "sources": [
+    "FEcNjVRlj-U:t0"
+   ]
+  }
+ ],
+ "durable": [],
+ "tags": [
+  {
+   "name": "plays every game",
+   "channel": "durable",
+   "detail": "74 and 77 games in his first two seasons",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites rank him outside the top 225 (Yahoo 237, ESPN 229) and value him at 0 USD. He was not drafted in our league last season, so he is not a pick in a 144-player auction. His projected line is below average in most categories with no clear strength. The Yahoo 75% FT projection does not fit his 87 to 88% record, so his FT% should be fine. Watch him on waivers only if Sweeney gives him more than his usual 22 to 25 minutes or an Orlando starter gets hurt.",
+ "rejected": []
+}

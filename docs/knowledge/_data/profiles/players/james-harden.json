@@ -1,0 +1,350 @@
+{
+ "player": {
+  "name": "James Harden",
+  "slug": "james-harden",
+  "pk": 219,
+  "team": "CLE",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "edef5f9c3072",
+ "note_count": 19,
+ "built_at": "2026-10-04T17:35:09+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1852142,
+  "duration_ms": 51345
+ },
+ "current": [
+  {
+   "text": "Harden is back with Cleveland full time. He is in the projected starting lineup with Donovan Mitchell, Peyton Watson, Evan Mobley and Jarrett Allen.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t0",
+    "rnq3118kfhY:t0",
+    "QbdrhJd7LiA:t1"
+   ]
+  },
+  {
+   "text": "His usage, shot attempts and free throw attempts dropped after he joined Cleveland. He plays more as a distributor next to Mitchell, Mobley and Watson.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p9",
+    "rnq3118kfhY:p9",
+    "QbdrhJd7LiA:p9",
+    "QbdrhJd7LiA:t1",
+    "_vbAP5y182A:p11",
+    "W-R1dzem32s:p17",
+    "7BllEsdNLoM:p16",
+    "uarqbNA2dFk:p37"
+   ]
+  },
+  {
+   "text": "He averaged under 20 points a game with Cleveland. Over his last six games there he played about 33 minutes with usage of about 24 to 25, and his assists and FG% dropped.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p11",
+    "QbdrhJd7LiA:p10",
+    "uarqbNA2dFk:p37"
+   ]
+  },
+  {
+   "text": "He finished 13th in category leagues last season, mostly from his time with the Clippers.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p8",
+    "QbdrhJd7LiA:p9"
+   ]
+  },
+  {
+   "text": "Experts do not expect his lower usage to reverse. He probably will not repeat 35 minutes a night, and they doubt he can repeat last season.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p11",
+    "NmdNvAz08oE:p12",
+    "7BllEsdNLoM:p16"
+   ]
+  },
+  {
+   "text": "Cleveland's second unit has no clear point guard, so Harden and Mitchell may stagger their minutes.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t1"
+   ]
+  },
+  {
+   "text": "Experts agree he is no longer a round two pick. The latest range in category leagues is picks 28 to 40, about the end of round three in 12 teams, and pick 35 is called about right. ESPN rank 23 to 25 is called too high, while Yahoo rank 30 is fine for category leagues.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p13",
+    "NmdNvAz08oE:p8",
+    "NmdNvAz08oE:p11",
+    "NmdNvAz08oE:p12",
+    "QbdrhJd7LiA:p9",
+    "QbdrhJd7LiA:p10",
+    "_vbAP5y182A:p11",
+    "uarqbNA2dFk:p37",
+    "W-R1dzem32s:p17",
+    "7BllEsdNLoM:p16",
+    "OdDkXFhoKsc:p20"
+   ]
+  },
+  {
+   "text": "Cleveland has the most back-to-backs in the league.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t6",
+    "gf_6GveiAls:t2"
+   ]
+  },
+  {
+   "text": "With our March 28 end, Cleveland plays 4, 3 and then 2 games in the fantasy playoffs. The 2-game week is the final week, starting March 22.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t5",
+    "gf_6GveiAls:t15",
+    "gf_6GveiAls:p33"
+   ]
+  },
+  {
+   "text": "The 2-game finals week lowers his value.",
+   "kind": "verdict",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p33"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is an elite assist source, and his assists are still valuable.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p10",
+    "7BllEsdNLoM:p16",
+    "W-R1dzem32s:p17",
+    "stats"
+   ]
+  },
+  {
+   "text": "His FT% is a league outlier on good volume, even though he gets to the line less than before.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p10",
+    "stats"
+   ]
+  },
+  {
+   "text": "His FG% and two-point percentage are a problem. FG% is weak for a guard.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p10",
+    "uarqbNA2dFk:p37",
+    "W-R1dzem32s:p17",
+    "stats"
+   ]
+  },
+  {
+   "text": "He commits many turnovers, a league outlier.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He no longer adds much in steals and blocks.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p10"
+   ]
+  },
+  {
+   "text": "He is considered durable.",
+   "kind": "verdict",
+   "date": "2026-08-24",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:p9"
+   ]
+  },
+  {
+   "text": "He is 37.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p8",
+    "rnq3118kfhY:p9"
+   ]
+  },
+  {
+   "text": "Experts think he is starting the end-of-career drop-off and showed his age last season.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p9",
+    "uarqbNA2dFk:p37"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "AST specialist",
+   "channel": "durable",
+   "detail": "elite assist source",
+   "until": "",
+   "sources": [
+    "stats",
+    "7BllEsdNLoM:p16",
+    "NmdNvAz08oE:p10"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "FT% anchor",
+   "channel": "durable",
+   "detail": "about 88% FT",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "high TO",
+   "channel": "durable",
+   "detail": "about 3.3 TO projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt FG fit",
+   "channel": "durable",
+   "detail": "about 42% FG",
+   "until": "",
+   "sources": [
+    "stats",
+    "uarqbNA2dFk:p37",
+    "W-R1dzem32s:p17"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "age decline watch",
+   "channel": "durable",
+   "detail": "37, experts see end-of-career drop-off",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p8",
+    "QbdrhJd7LiA:p9",
+    "uarqbNA2dFk:p37",
+    "rnq3118kfhY:p9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "plays every game",
+   "channel": "durable",
+   "detail": "considered durable",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:p9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "lower usage next to Mitchell, about 33 minutes instead of 35",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p9",
+    "NmdNvAz08oE:p11",
+    "7BllEsdNLoM:p16"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "at ESPN rank 23 to 25 or a round two price",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p37",
+    "QbdrhJd7LiA:p10",
+    "NmdNvAz08oE:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "ADP 35 on Yahoo, 25 on ESPN",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p8",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "4, 3, 2 games; 2-game finals week starting March 22",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t5",
+    "gf_6GveiAls:t15",
+    "gf_6GveiAls:p33"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Our league paid 42 USD for him last season. Now Yahoo values him at 29 USD, and average costs are 19.4 USD on Yahoo and 27.8 USD on ESPN. Experts put him at picks 28 to 40 and say not round two, so anything near last season's price is an overpay, and about 20 to 29 USD is the right range. He fits punt FG% and punt TO builds that want elite assists and FT%. Early in the season, check whether he stays near 33 minutes, how much he staggers with Mitchell, and whether his usage climbs. Also keep in mind the 2-game finals week.",
+ "rejected": []
+}

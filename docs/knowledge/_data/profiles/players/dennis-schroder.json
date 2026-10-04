@@ -1,0 +1,118 @@
+{
+ "player": {
+  "name": "Dennis Schröder",
+  "slug": "dennis-schroder",
+  "pk": 500,
+  "team": "CHA",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "86f515cd4308",
+ "note_count": 2,
+ "built_at": "2026-10-04T17:29:27+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1596922,
+  "duration_ms": 31410
+ },
+ "current": [
+  {
+   "text": "Charlotte projects him as a bench guard. The projected starters are White, Knueppel, Miller, Reid and Diabaté. Allen, Schröder, Steinbach, O'Neale and Grant Williams make up the bench.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t3",
+    "egRrai3Ax38:t3"
+   ]
+  },
+  {
+   "text": "He will not take Coby White's starting spot unless White is injured. One expert is sure Charlotte will not start him.",
+   "kind": "verdict",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p21",
+    "sTtFUy7IoJI:p4"
+   ]
+  },
+  {
+   "text": "Grayson Allen is first in line to start when a Charlotte wing misses games. He starts while Knueppel is out.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "Knueppel returns",
+   "sources": [
+    "CRLSsoGhb2w:t3",
+    "KPdD91Oo8-U:t3"
+   ]
+  },
+  {
+   "text": "Do not take him inside the top 200. His Yahoo ADP of 128 is too high.",
+   "kind": "verdict",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p21"
+   ]
+  },
+  {
+   "text": "Charlotte plays 4-3-4 games in our playoff weeks (March 28 end). It has only 13 back-to-backs, the league minimum.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t5"
+   ]
+  }
+ ],
+ "durable": [],
+ "tags": [
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Behind Coby White at guard. Grayson Allen is first in line for spot starts.",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p21",
+    "CRLSsoGhb2w:t3",
+    "egRrai3Ax38:t3",
+    "sTtFUy7IoJI:p4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "Needs a Coby White injury to start",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "Yahoo ADP 128 is too high. Do not take him inside the top 200.",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13 back-to-backs, the league minimum",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t5"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both Yahoo (rank 171) and ESPN (rank 210) give him a value of 0 USD, and our league paid 1 USD for him last season. He sits outside the 144 players we draft, so leave him undrafted. As a bench guard behind Coby White, his projected line (about 1.1 threes and 3.7 assists) has no strong category. Watch him on waivers only if White gets hurt early in the season.",
+ "rejected": []
+}

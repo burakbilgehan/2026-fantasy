@@ -1,0 +1,175 @@
+{
+ "player": {
+  "name": "Jared McCain",
+  "slug": "jared-mccain",
+  "pk": 365,
+  "team": "OKC",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "ed956265f516",
+ "note_count": 5,
+ "built_at": "2026-10-04T17:35:01+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1180502,
+  "duration_ms": 28831
+ },
+ "current": [
+  {
+   "text": "Experts expect McCain to come off the bench behind Cason Wallace and Ajay Mitchell. Wallace is almost certain to start.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p27",
+    "75Sk_4fkgIM:p25",
+    "Alwse2uXzD4:t0"
+   ]
+  },
+  {
+   "text": "ESPN starting lineup graphics show McCain in the OKC starting lineup.",
+   "kind": "fact",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p25"
+   ]
+  },
+  {
+   "text": "Josh sees no chance that McCain starts.",
+   "kind": "verdict",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p25"
+   ]
+  },
+  {
+   "text": "OKC traded away Lu Dort, Isaiah Joe and Aaron Wiggins. That frees up usage on the team.",
+   "kind": "fact",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:t0",
+    "-KS_AZjZnw4:t7"
+   ]
+  },
+  {
+   "text": "The Thunder will have to give more minutes to McCain and Ajay Mitchell.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:t0"
+   ]
+  },
+  {
+   "text": "He has his first fully healthy offseason and a stable role in OKC. Before that he had an uncomfortable stint in Philadelphia and was traded midseason.",
+   "kind": "fact",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p27"
+   ]
+  },
+  {
+   "text": "OKC values him more than outsiders do. The team believes he can get to the rim on the ball.",
+   "kind": "verdict",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p26"
+   ]
+  },
+  {
+   "text": "He got to the rim last season but did not finish well there.",
+   "kind": "fact",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p26"
+   ]
+  },
+  {
+   "text": "He is overrated for fantasy at an ADP around 100.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p27"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a scorer only. He gives little in rebounds, assists, steals or blocks.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p27",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is inconsistent. He has bright games, but in others he disappears, for example with zero points in 10 minutes.",
+   "kind": "verdict",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p28"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Bench guard behind Cason Wallace and Ajay Mitchell",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p27",
+    "75Sk_4fkgIM:p25",
+    "Alwse2uXzD4:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "OKC must give him more minutes after trading Dort, Joe and Wiggins",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:t0",
+    "-KS_AZjZnw4:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "Called overrated at an ADP around 100",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p27"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Ranked outside the 144 drafted players, but his minutes may rise",
+   "until": "",
+   "sources": [
+    "stats",
+    "BjXP9JODDSg:t0"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo ranks him 192 and ESPN 231, both at 0 USD, so he should go undrafted in our 144-player auction. Do not spend on him. The experts call him overrated, a scorer only, and a bench guard behind Wallace and Mitchell. Watch his early minutes on waivers. Projections have him at about 24.7 minutes, 12 points and 2.1 threes, up from 17.4 minutes last season. If OKC really gives him the minutes left by Dort, Joe and Wiggins, he could be a short-term threes and points pickup, but his FG% (projected 43.5%) and defensive stats stay weak.",
+ "rejected": []
+}

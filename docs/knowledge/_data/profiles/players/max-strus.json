@@ -1,0 +1,238 @@
+{
+ "player": {
+  "name": "Max Strus",
+  "slug": "max-strus",
+  "pk": 538,
+  "team": "LAC",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "2d65c5b1617f",
+ "note_count": 5,
+ "built_at": "2026-10-04T17:42:43+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.22411379999999997,
+  "duration_ms": 52472
+ },
+ "current": [
+  {
+   "text": "The Clippers got Strus in a trade, the Watson deal.",
+   "kind": "fact",
+   "date": "2026-09-03",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:p11",
+    "OBwWCxG9SqM:t5",
+    "g31YlwRe0XQ:t3"
+   ]
+  },
+  {
+   "text": "He is in the projected Clippers starting five with Garland, Derrick Jones Jr., Hachimura and Isaiah Jackson. The speaker is not confident about this lineup.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t3",
+    "OBwWCxG9SqM:t5"
+   ]
+  },
+  {
+   "text": "He is over 30 and on an expiring contract.",
+   "kind": "fact",
+   "date": "2026-08-24",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:p11"
+   ]
+  },
+  {
+   "text": "A Jones fracture limited him to about 12 games last season, and he finished outside the top 250 in category leagues.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p5",
+    "rnq3118kfhY:p11"
+   ]
+  },
+  {
+   "text": "Ingram is out, and so are Beal, Jordan Miller and Konan Niederhauser. The Clippers are probably the most injury-hit team in the league.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t5"
+   ]
+  },
+  {
+   "text": "With Ingram out, his usage and minutes should go up. The speaker projects his minutes back near 32, which would put him around the top 120.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "Ingram returns",
+   "sources": [
+    "tnzmsYUA4yQ:p6",
+    "tnzmsYUA4yQ:p8"
+   ]
+  },
+  {
+   "text": "He has no Yahoo ADP and is worth a late-round flyer.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p6",
+    "tnzmsYUA4yQ:p8"
+   ]
+  },
+  {
+   "text": "Watch whether his assists get back to about 4 a game.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p8"
+   ]
+  },
+  {
+   "text": "The speaker leans toward a Clippers trial season with long rotations and many players tested. Coach Ty Lue also changes rotations often, so the minutes projection is not safe.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t1",
+    "tnzmsYUA4yQ:t2"
+   ]
+  },
+  {
+   "text": "The Clippers have a good fantasy playoff schedule, 4-3-4 games in weeks 19 to 21 with a March 28 end. They have 13 back-to-backs, one of the lowest totals in the league.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t6"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He takes a lot of difficult threes.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p7"
+   ]
+  },
+  {
+   "text": "He has a reputation as an elite shooter but is not really one. His threes go in at an ordinary rate.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p7"
+   ]
+  },
+  {
+   "text": "He had a Jones fracture that cost him most of the 2025-26 season.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p5",
+    "rnq3118kfhY:p11"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "Traded to the Clippers in the Watson deal",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:p11",
+    "OBwWCxG9SqM:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "Jones fracture, about 12 games played",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p5",
+    "rnq3118kfhY:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "Projected starter; more usage and minutes near 32 while Ingram is out",
+   "until": "Ingram returns",
+   "sources": [
+    "tnzmsYUA4yQ:p6",
+    "tnzmsYUA4yQ:p8",
+    "tnzmsYUA4yQ:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "Late-round flyer with around top 120 upside",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p6",
+    "tnzmsYUA4yQ:p8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "No Yahoo ADP; around top 120 if his minutes return near 32",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "Clippers play 4-3-4 in weeks 19 to 21 (March 28 end)",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "Clippers have 13 back-to-backs",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "No weak category flagged, but no strong one either",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites value him at 0 USD and rank him around 205 to 210, well outside the 144 players we draft. He is a 1 USD last-round flyer or a waiver pickup, not a target. The upside case is a return to his 2023-24 role (32 minutes, 4.0 AST, 2.4 3PM), but that line came with 41.8% FG on 10.4 attempts, so he helps in threes and turnovers and costs a little in FG%, steals and blocks. In the first two weeks, check whether he really starts, plays near 32 minutes and gets back to about 4 assists while Ingram is out.",
+ "rejected": []
+}

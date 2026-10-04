@@ -1,0 +1,55 @@
+{
+ "player": {
+  "name": "Lonzo Ball",
+  "slug": "lonzo-ball",
+  "pk": 643,
+  "team": "CLE",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "1817c94e61bf",
+ "note_count": 0,
+ "built_at": "2026-10-04T17:41:01+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.0834262,
+  "duration_ms": 14334
+ },
+ "current": [
+  {
+   "text": "Ball is not named in the projected Cleveland starting lineup (Harden, Mitchell, Watson, Mobley, Allen) or in the projected bench (Tyson, Merrill, Bryant, Tomlin, Porter).",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t0",
+    "NmdNvAz08oE:t3"
+   ]
+  },
+  {
+   "text": "The Cleveland second unit has no clear point guard.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t1"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Points are his weakest category by far. He adds almost no scoring.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [],
+ "note": "Ball is not a draft target in our 144-player auction. Yahoo ranks him 349 and ESPN 231, and both sites value him at 0 USD. No expert covers him, and the Yahoo projection has him at 20 games with almost no points. His only possible way in is the Cleveland second unit, which has no clear point guard. Check early in the season whether he gets real minutes there before thinking about him as a waiver add.",
+ "rejected": []
+}

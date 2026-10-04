@@ -1,0 +1,227 @@
+{
+ "player": {
+  "name": "Mikel Brown Jr.",
+  "slug": "mikel-brown",
+  "pk": 70,
+  "team": "BKN",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "0239ec93f545",
+ "note_count": 12,
+ "built_at": "2026-10-04T17:43:07+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1543222,
+  "duration_ms": 41115
+ },
+ "current": [
+  {
+   "text": "He is a rookie. Brooklyn drafted him sixth overall.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p26",
+    "uRsfijpBPok:p0"
+   ]
+  },
+  {
+   "text": "Experts expect him to be Brooklyn's starting point guard, with his minutes rising. Josh is about 80% sure he will start.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p26",
+    "uRsfijpBPok:p0",
+    "OBwWCxG9SqM:p20",
+    "TOn-D1SV7a8:p28",
+    "RsjGTgJiKyI:p11",
+    "3UGI05PDvrE:t1"
+   ]
+  },
+  {
+   "text": "Yahoo lists him as questionable with an ankle injury.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Josh projects him at 150 to 180 in both formats. He sees him as a late-round flyer in rounds 10 to 13.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p27",
+    "OBwWCxG9SqM:p20",
+    "lOshTzDA4SA:p15"
+   ]
+  },
+  {
+   "text": "Expect very high turnovers and poor efficiency early. He will probably be bad until around February.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "February",
+   "sources": [
+    "3UGI05PDvrE:p28",
+    "OBwWCxG9SqM:p20",
+    "LUTYUdXBG1M:p38",
+    "RsjGTgJiKyI:p11"
+   ]
+  },
+  {
+   "text": "If you draft him and he starts, hold him until about Thanksgiving.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "Thanksgiving",
+   "sources": [
+    "3UGI05PDvrE:p28"
+   ]
+  },
+  {
+   "text": "He is probably Brooklyn's third usage option. He could average about 5 assists and over 1 steal in 29 to 30 minutes.",
+   "kind": "verdict",
+   "date": "2026-06-25",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p15"
+   ]
+  },
+  {
+   "text": "Brooklyn does not own its pick and is running a development season. In the second half it could hand more minutes to young players, including him.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t3",
+    "uRsfijpBPok:t0"
+   ]
+  },
+  {
+   "text": "Brooklyn plays 3-4-3 games in our playoff weeks, 10 in total, with one back-to-back. The team has 16 back-to-backs this season, tied for the most in the league.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t4",
+    "gf_6GveiAls:t1"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a very talented point guard. He can dribble, pass and shoot, has unlimited range and dynamic athleticism, and has good length at 6'4 or 6'5. Experts like his passing vision, and the Nets see upside on defense.",
+   "kind": "verdict",
+   "date": "2026-08-21",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:p2",
+    "TOn-D1SV7a8:p28",
+    "LUTYUdXBG1M:p38"
+   ]
+  },
+  {
+   "text": "At Louisville he was a high usage guard. He shot many threes and had good assists, a good steal rate and excellent free throws. He also had over three turnovers per game.",
+   "kind": "fact",
+   "date": "2026-08-21",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p14",
+    "uRsfijpBPok:p1"
+   ]
+  },
+  {
+   "text": "Poor shot selection hurts his efficiency from the field and from three.",
+   "kind": "verdict",
+   "date": "2026-08-21",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:p1",
+    "lOshTzDA4SA:p14"
+   ]
+  },
+  {
+   "text": "Experts do not see his pre-draft back injury as a concern.",
+   "kind": "verdict",
+   "date": "2026-06-25",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p14"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "rookie",
+   "channel": "current",
+   "detail": "Sixth overall pick in 2026",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p26",
+    "uRsfijpBPok:p0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "Late-round flyer, rounds 10 to 13",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p27",
+    "OBwWCxG9SqM:p20",
+    "lOshTzDA4SA:p15"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "slow start",
+   "channel": "current",
+   "detail": "Expected to be bad until around February, with high turnovers and poor efficiency",
+   "until": "February",
+   "sources": [
+    "3UGI05PDvrE:p28",
+    "OBwWCxG9SqM:p20"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q (Ankle)",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injured now",
+   "channel": "current",
+   "detail": "Ankle, Yahoo status Q",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "Only 10 games in weeks 19 to 21 (3-4-3), one back-to-back",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t4",
+    "gf_6GveiAls:t1"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites price him at 0 USD (Yahoo rank 180, ESPN 198). Josh projects him at 150 to 180, so he is a 1 USD end-of-auction flyer for a bench spot, not a starter. Projections show a weak FG% (41.6% on volume) and many turnovers, so he hurts FG% and TO teams early. Check the ankle, whether he starts at point guard, and his turnover rate. Hold him until about Thanksgiving if he starts, since experts expect him to improve after February.",
+ "rejected": []
+}

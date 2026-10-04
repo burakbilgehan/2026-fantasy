@@ -1,0 +1,224 @@
+{
+ "player": {
+  "name": "Ajay Mitchell",
+  "slug": "ajay-mitchell",
+  "pk": 388,
+  "team": "OKC",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "a6afe7413306",
+ "note_count": 15,
+ "built_at": "2026-10-04T17:22:34+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.2224738,
+  "duration_ms": 53168
+ },
+ "current": [
+  {
+   "text": "OKC traded away Lu Dort, Isaiah Joe and Wiggins to cut salary and replaced them with rookies and unproven young players.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:t0",
+    "75Sk_4fkgIM:t1",
+    "Alwse2uXzD4:t0",
+    "gJUBAJaHzlU:t4",
+    "ZYllcj4o6_A:p10"
+   ]
+  },
+  {
+   "text": "Those departures should give Mitchell more minutes and some spot starts.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p10",
+    "BjXP9JODDSg:t0",
+    "-KS_AZjZnw4:t7",
+    "W3THnI7wWdA:t4"
+   ]
+  },
+  {
+   "text": "Most experts do not expect him to start over Cason Wallace. They see him as the Thunder's sixth man. One expert says he might still start.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p10",
+    "gJUBAJaHzlU:p22",
+    "Alwse2uXzD4:t0",
+    "7BllEsdNLoM:p44"
+   ]
+  },
+  {
+   "text": "One expert does not expect him to play 30 minutes a night.",
+   "kind": "verdict",
+   "date": "2026-09-01",
+   "until": "",
+   "sources": [
+    "80kfLVnFQ_s:p45"
+   ]
+  },
+  {
+   "text": "Experts say his fantasy numbers last season were inflated by injuries to teammates. He needed several players out to produce.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p22",
+    "g31YlwRe0XQ:p43"
+   ]
+  },
+  {
+   "text": "His value would soar if Shai Gilgeous-Alexander gets hurt.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p10"
+   ]
+  },
+  {
+   "text": "Last season he shot 42% from three in 16 starts and 32% in 41 games off the bench, under 35% overall. His efficiency and usage both dropped as the season went on.",
+   "kind": "fact",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p5",
+    "75Sk_4fkgIM:p6"
+   ]
+  },
+  {
+   "text": "Ryland expects him to share the floor more with SGA and Jalen Williams this season, which should make him more efficient. He sees those three together as OKC's best lineup.",
+   "kind": "verdict",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p8",
+    "75Sk_4fkgIM:t4"
+   ]
+  },
+  {
+   "text": "Experts call his value a bit overblown. He is a safe pick with little ceiling and a late flyer at most. Taking him in round 9 was too early.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p10",
+    "_vbAP5y182A:p49",
+    "gJUBAJaHzlU:p24",
+    "7BllEsdNLoM:p44"
+   ]
+  },
+  {
+   "text": "He is extension eligible next summer.",
+   "kind": "fact",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p10"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He has no standout fantasy category. His FG% and FT% are very good for a guard, and steals are his best counting stat.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p23",
+    "stats"
+   ]
+  },
+  {
+   "text": "He shoots better next to the stars because they create open looks for him. As the lone creator off the bench he takes tough shots: pull-up threes, hard mid-range jumpers and physical drives.",
+   "kind": "fact",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p7"
+   ]
+  },
+  {
+   "text": "He takes few threes. Less than 30% of his shots came from three.",
+   "kind": "fact",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p9"
+   ]
+  },
+  {
+   "text": "He has played two NBA seasons and has not had a healthy one yet.",
+   "kind": "fact",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p4"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Cason Wallace is expected to start ahead of him",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p22",
+    "Alwse2uXzD4:t0",
+    "ZYllcj4o6_A:p10"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "Value soars if Shai Gilgeous-Alexander gets hurt",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p10"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "needs playmaker",
+   "channel": "durable",
+   "detail": "Shoots better next to SGA and Jalen Williams. Takes tough shots as the lone creator off the bench",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Experts call him a late flyer at most. Watch for a starting role or an SGA injury",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p24",
+    "ZYllcj4o6_A:p10"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 145, ESPN rank 243",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites give him a value of 0 USD (Yahoo rank 145, ESPN rank 243), and he went undrafted in our league last season. With 144 players drafted, he is at most a 1 USD final pick. Experts call his value overblown and expect Cason Wallace to start ahead of him. Early in the season, check whether he starts or plays 26 or more minutes next to SGA and Jalen Williams. Also check whether his three-point shooting holds. An SGA injury would make him a must-add.",
+ "rejected": []
+}

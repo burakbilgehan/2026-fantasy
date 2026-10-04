@@ -1,0 +1,328 @@
+{
+ "player": {
+  "name": "Jalen Green",
+  "slug": "jalen-green",
+  "pk": 208,
+  "team": "PHX",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "8e6058048662",
+ "note_count": 20,
+ "built_at": "2026-10-04T17:34:32+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.18209419999999998,
+  "duration_ms": 55956
+ },
+ "current": [
+  {
+   "text": "Phoenix plans to use Green as its starting point guard who brings the ball up.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p8",
+    "hm5-fiCa5S4:p3",
+    "W-R1dzem32s:t9"
+   ]
+  },
+  {
+   "text": "Josh thinks Booker will still run the offense, even with Green listed at point guard.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:t9"
+   ]
+  },
+  {
+   "text": "He is projected to start next to Booker, Brooks and Bridges. Gillespie is expected to come off the bench.",
+   "kind": "fact",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p9",
+    "hm5-fiCa5S4:t0",
+    "W-R1dzem32s:t9"
+   ]
+  },
+  {
+   "text": "His low minutes last season came from minutes limits after his injuries, not from his role.",
+   "kind": "fact",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p6",
+    "-KS_AZjZnw4:p10"
+   ]
+  },
+  {
+   "text": "He should play more this season, about 30 to 33 minutes a night, and take more shots.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p6",
+    "-KS_AZjZnw4:p13",
+    "ZYllcj4o6_A:p8"
+   ]
+  },
+  {
+   "text": "His usage will probably drop from 32% to about 28 to 29%. Booker, Brooks, Gillespie and Bridges will all want touches.",
+   "kind": "verdict",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p13",
+    "uarqbNA2dFk:t1"
+   ]
+  },
+  {
+   "text": "Experts project about 20 points and two threes a game, with about four rebounds and four assists.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p8",
+    "dlo7L8Ru91A:p31"
+   ]
+  },
+  {
+   "text": "His free throw and three-point percentages should go back up this season.",
+   "kind": "verdict",
+   "date": "2026-07-20",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p11"
+   ]
+  },
+  {
+   "text": "His steal rate last season came from luck: an unusually high share of his deflections became steals. Do not expect it to hold.",
+   "kind": "verdict",
+   "date": "2026-07-20",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p12",
+    "NYTH7uQsPCM:p16"
+   ]
+  },
+  {
+   "text": "His hamstring injury from last season is not a concern now.",
+   "kind": "verdict",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p46"
+   ]
+  },
+  {
+   "text": "Experts disagree on his category league value. Some see him around top 100 to 120 and undervalued at rank 124, and Josh drafted him in one of his leagues. Another lists him among overhyped values to avoid in category leagues.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p7",
+    "dlo7L8Ru91A:p31",
+    "ZYllcj4o6_A:p8",
+    "uarqbNA2dFk:p46"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He had never been hurt before 2025-26. That season he had three hamstring strains.",
+   "kind": "fact",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p10",
+    "sTtFUy7IoJI:p5"
+   ]
+  },
+  {
+   "text": "He is a high-usage, high-volume shooter. He had 32% usage when he played last season.",
+   "kind": "fact",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p5"
+   ]
+  },
+  {
+   "text": "He hurts FG% on high shot volume. That is a clear weakness compared with the league.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats",
+    "W-R1dzem32s:p36"
+   ]
+  },
+  {
+   "text": "His turnovers are high for his position.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He attacks downhill but does not finish efficiently at the rim.",
+   "kind": "verdict",
+   "date": "2026-08-23",
+   "until": "",
+   "sources": [
+    "hm5-fiCa5S4:p5"
+   ]
+  },
+  {
+   "text": "He is a weak passer and has never shown point guard skills.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p9",
+    "hm5-fiCa5S4:p4",
+    "hm5-fiCa5S4:p5"
+   ]
+  },
+  {
+   "text": "He can score 20 points a game with more than two threes, and scorers like that are hard to find.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p36"
+   ]
+  },
+  {
+   "text": "He is worth more in points leagues than in category leagues. 9-cat formulas penalize his poor efficiency.",
+   "kind": "verdict",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p46",
+    "sTtFUy7IoJI:p7",
+    "W-R1dzem32s:p36"
+   ]
+  },
+  {
+   "text": "He is a useful player but not a star.",
+   "kind": "verdict",
+   "date": "2026-07-20",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p8"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "FG% liability",
+   "channel": "durable",
+   "detail": "About 42% FG on 17 to 19 attempts a game",
+   "until": "",
+   "sources": [
+    "stats",
+    "W-R1dzem32s:p36"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt FG fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "About 2.6 turnovers a game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "points league player",
+   "channel": "durable",
+   "detail": "Possibly top 70 in points leagues against top 100 to 120 in categories",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p46",
+    "sTtFUy7IoJI:p7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "Three hamstring strains in 2025-26; one expert says it is no longer a concern",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p10",
+    "sTtFUy7IoJI:p5",
+    "uarqbNA2dFk:p46"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "Played 32 games under minutes limits after hamstring strains",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p10",
+    "sTtFUy7IoJI:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "Starting point guard, 30 to 33 minutes expected",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p6",
+    "-KS_AZjZnw4:p13",
+    "ZYllcj4o6_A:p8",
+    "hm5-fiCa5S4:p3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bounce-back",
+   "channel": "current",
+   "detail": "FT% and 3P% should recover, minutes should rise",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p11",
+    "-KS_AZjZnw4:p13"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "Yahoo and ESPN value him near 1 USD; some experts see him around top 100 to 120",
+   "until": "",
+   "sources": [
+    "dlo7L8Ru91A:p31",
+    "sTtFUy7IoJI:p7",
+    "ZYllcj4o6_A:p8"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo and ESPN both rank him 130 and value him at about 1 USD, which puts him at the edge of our 144-player pool. Our league paid 9 USD for him last season. He is a cheap late source of points and threes for punt FG% and punt TO builds, but his FG% and turnovers make him a poor fit for balanced teams. Early in the season, check whether he gets 30 or more minutes, whether he really runs the point or Booker does, and whether his FT% climbs back toward 80%.",
+ "rejected": []
+}

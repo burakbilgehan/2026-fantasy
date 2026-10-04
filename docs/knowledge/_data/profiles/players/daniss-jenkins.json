@@ -1,0 +1,124 @@
+{
+ "player": {
+  "name": "Daniss Jenkins",
+  "slug": "daniss-jenkins",
+  "pk": 274,
+  "team": "DET",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "b08ed916e3ea",
+ "note_count": 3,
+ "built_at": "2026-10-04T17:27:52+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1676184,
+  "duration_ms": 35692
+ },
+ "current": [
+  {
+   "text": "He comes off the bench. Detroit's projected starting five is Cunningham, Robinson, Thompson, Collins and Duren. In the projected bench order he is behind Isaiah Joe, Ron Holland and Paul Reed.",
+   "kind": "fact",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:t0",
+    "_O9pc_u5vH0:t4"
+   ]
+  },
+  {
+   "text": "Cade Cunningham was out for the final 16 games last season. In those games Jenkins played 31 minutes.",
+   "kind": "fact",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:p29"
+   ]
+  },
+  {
+   "text": "He has the best category upside on the Detroit bench. The expert calls him draftable in 16-team leagues.",
+   "kind": "verdict",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:p29"
+   ]
+  },
+  {
+   "text": "He is a late-round swing in case he gets a 26-minute role. That needs Bickerstaff to change the rotation or Cunningham to get hurt.",
+   "kind": "verdict",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:p30"
+   ]
+  },
+  {
+   "text": "One expert sees him as a flyer only if he starts in Detroit and does not expect him to start.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p29"
+   ]
+  },
+  {
+   "text": "Detroit lost creation with Tobias Harris and has few creators besides Cunningham. The team may need Jenkins as another ball handler.",
+   "kind": "verdict",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:t2",
+    "ME-r173X5b0:t2"
+   ]
+  },
+  {
+   "text": "Last season Detroit used a deep 12 to 13 player rotation that limited everyone's minutes.",
+   "kind": "fact",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:t2"
+   ]
+  },
+  {
+   "text": "Detroit plays 4, 3 and 4 games in our playoff weeks 19 to 21 and has 15 back-to-backs. No rest risks are expected.",
+   "kind": "fact",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:t6"
+   ]
+  }
+ ],
+ "durable": [],
+ "tags": [
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "Backup ball handler behind Cade Cunningham. He played 31 minutes when Cunningham was out for the last 16 games of last season.",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:p29",
+    "_O9pc_u5vH0:p30"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Draftable only in 16-team leagues. Add him if he reaches about 26 minutes or Cunningham misses time.",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:p29",
+    "_O9pc_u5vH0:p30",
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "At Yahoo rank 167 with a 0 USD value, he falls outside the 144 players our league drafts, and nobody drafted him last season. He is not an auction target. In 20.2 minutes last season he gave mostly assists (3.9) with a weak 40.8% FG on 7.9 attempts, and Yahoo's projection of 0.7 turnovers looks low next to his 1.6 last season. Early in the season, watch his minutes and Cunningham's health: a role near 26 minutes or a Cunningham absence makes him a quick waiver add for assists.",
+ "rejected": []
+}

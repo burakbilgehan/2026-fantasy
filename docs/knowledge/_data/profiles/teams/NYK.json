@@ -1,0 +1,206 @@
+{
+ "team": "NYK",
+ "prompt_version": 1,
+ "prompt_sha": "07b4ed7fd28e",
+ "input_sha": "b1b5d27b8b25",
+ "note_count": 13,
+ "built_at": "2026-10-04T20:00:33+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.21727839999999998,
+  "duration_ms": 56934
+ },
+ "current": [
+  {
+   "text": "The Knicks are the reigning champions. They beat the Spurs in the Finals.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:t6",
+    "ZAyie8lKyYc:t8"
+   ]
+  },
+  {
+   "text": "The Knicks are expected to be careful with their main players' minutes this season, including Towns and Anunoby, after last season's long workload.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:t3",
+    "LM0cRCGoAUQ:t6",
+    "W-R1dzem32s:t5",
+    "okN3fbHJtlA:t1"
+   ]
+  },
+  {
+   "text": "Over about the first 30 games, the team is expected to trim starters' minutes and rest players more often on back-to-backs.",
+   "kind": "verdict",
+   "date": "2026-08-13",
+   "until": "about the first 30 games",
+   "sources": [
+    "okN3fbHJtlA:t1"
+   ]
+  },
+  {
+   "text": "There is a small risk of a Finals hangover after two extra months of play. That could mean a minute or two less per game and a slightly higher injury risk.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "dlo7L8Ru91A:t4",
+    "7BllEsdNLoM:t8"
+   ]
+  },
+  {
+   "text": "The Knicks have only 13 back-to-backs, the fewest in the league. That limits how many games the planned back-to-back rest can cost their starters.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "The Knicks are a top contender. Projections range from about 50 to 54 wins, and 53 to 54 wins may be enough to win the East. Tanking or late-season shutdowns are unlikely.",
+   "kind": "verdict",
+   "date": "2026-08-13",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:t1",
+    "TiiaNZCJNs8:t4",
+    "stats"
+   ]
+  },
+  {
+   "text": "The projected starters are Brunson, Bridges, Hart, Anunoby and Towns.",
+   "kind": "fact",
+   "date": "2026-08-13",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:t2",
+    "stats"
+   ]
+  },
+  {
+   "text": "Little use of lineups with two bigs is expected, so Towns plays most of his minutes at center.",
+   "kind": "verdict",
+   "date": "2026-08-13",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:t2"
+   ]
+  },
+  {
+   "text": "Andre Drummond has replaced Mitchell Robinson as the backup center.",
+   "kind": "fact",
+   "date": "2026-08-13",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:t0",
+    "stats"
+   ]
+  },
+  {
+   "text": "The roster is tight. In August the team had 13 players, no clear third big and about 3 million USD of room. Ownership does not want to go over the second apron.",
+   "kind": "fact",
+   "date": "2026-08-13",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:t0"
+   ]
+  },
+  {
+   "text": "The Knicks brought James Wiseman, Drew Eubanks and others to camp. One or two of them are expected to make the roster.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "DubdKKhMWHo:t0"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Under Mike Brown, the Knicks play their bench and do not overwork the starters.",
+   "kind": "fact",
+   "date": "2026-07-07",
+   "until": "",
+   "sources": [
+    "HxQjagSTTAM:t5",
+    "ME-r173X5b0:t5"
+   ]
+  },
+  {
+   "text": "Mike Brown gives Towns fewer minutes than Thibodeau did.",
+   "kind": "fact",
+   "date": "2026-07-07",
+   "until": "",
+   "sources": [
+    "ME-r173X5b0:t5"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13 back-to-backs, fewest in the league.",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "back-to-back risk",
+   "channel": "current",
+   "detail": "Team plans more rest for starters on back-to-backs early in the season.",
+   "until": "about the first 30 games",
+   "sources": [
+    "okN3fbHJtlA:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes limit",
+   "channel": "current",
+   "detail": "Starters' minutes are expected to be trimmed early after the long title run.",
+   "until": "about the first 30 games",
+   "sources": [
+    "okN3fbHJtlA:t1",
+    "LM0cRCGoAUQ:t6",
+    "W-R1dzem32s:t5",
+    "QbdrhJd7LiA:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "contender",
+   "channel": "current",
+   "detail": "Reigning champions. About 50 to 54 projected wins, win total ranks 3rd.",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:t1",
+    "TiiaNZCJNs8:t4",
+    "LM0cRCGoAUQ:t6",
+    "stats"
+   ],
+   "new_meaning": "Team expected to compete for a top seed, so tanking and late-season shutdowns are unlikely."
+  },
+  {
+   "name": "deep rotation",
+   "channel": "durable",
+   "detail": "Mike Brown plays the bench and avoids overworking starters.",
+   "until": "",
+   "sources": [
+    "HxQjagSTTAM:t5",
+    "ME-r173X5b0:t5"
+   ],
+   "new_meaning": "Coach spreads minutes across a long bench, which lowers starters' minutes but gives bench players real roles."
+  }
+ ],
+ "note": "The Knicks' five starters lose a little value early. The champions plan to trim minutes and rest players on back-to-backs over about the first 30 games, so Brunson, Towns, Anunoby, Bridges and Hart are better bought at a discount for a slow start than at full price. The team has few back-to-backs and is a contender with low shutdown risk, so these players should hold their value into the fantasy playoffs, and early on we should watch the starters' minutes, Drummond as the only real backup big, and which camp big (Wiseman or Eubanks) makes the roster.",
+ "rejected": []
+}

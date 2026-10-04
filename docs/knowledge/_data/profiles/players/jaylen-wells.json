@@ -1,0 +1,99 @@
+{
+ "player": {
+  "name": "Jaylen Wells",
+  "slug": "jaylen-wells",
+  "pk": 590,
+  "team": "MEM",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "fd11babaf4fa",
+ "note_count": 2,
+ "built_at": "2026-10-04T17:35:33+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1250186,
+  "duration_ms": 23562
+ },
+ "current": [
+  {
+   "text": "Joe projects Wells as a reserve, possibly the first player off the bench, playing 20 to 25 minutes. He is not in Joe's projected starting five.",
+   "kind": "verdict",
+   "date": "2026-08-17",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:p21",
+    "LcZcvk8s1xQ:t6"
+   ]
+  },
+  {
+   "text": "Memphis has a very deep roster with crowded guard and forward groups. Coach Tuomas Iisalo runs an 11-man rotation.",
+   "kind": "fact",
+   "date": "2026-08-17",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t2",
+    "-y6p5PYLf00:t1",
+    "RyzcCGChYgs:t2"
+   ]
+  },
+  {
+   "text": "Joe expects only Cameron Boozer and Cedric Coward to top 30 minutes for Memphis, which caps Wells' minutes.",
+   "kind": "verdict",
+   "date": "2026-08-17",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t2"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Joe says Wells lacks athleticism and scores inconsistently, but is a sturdy defender.",
+   "kind": "verdict",
+   "date": "2026-08-17",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:p22"
+   ]
+  },
+  {
+   "text": "Coach Tuomas Iisalo plays at a very high pace, uses short five-minute stints and keeps minutes down.",
+   "kind": "fact",
+   "date": "2026-08-17",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t1"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Projected bench role of 20 to 25 minutes",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Deep Memphis roster, crowded guard and forward groups, 11-man rotation",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t2",
+    "-y6p5PYLf00:t1",
+    "RyzcCGChYgs:t2",
+    "LcZcvk8s1xQ:p21"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both Yahoo and ESPN value him at 0 USD and rank him 217 and 230, so he is far outside the 144 players we draft and belongs on waivers. His projected line has no strong category: modest threes (about 2.0 per game) and low turnovers, but below-average FG%, rebounds, assists and blocks. Early in the season, check whether he gets more than the 20 to 25 bench minutes Joe projects. Only a starting role in Memphis's 11-man rotation would make him worth adding.",
+ "rejected": []
+}

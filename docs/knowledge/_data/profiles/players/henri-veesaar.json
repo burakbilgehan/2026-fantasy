@@ -1,0 +1,107 @@
+{
+ "player": {
+  "name": "Henri Veesaar",
+  "slug": "henri-veesaar",
+  "pk": 572,
+  "team": "ATL",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "f176b117960a",
+ "note_count": 4,
+ "built_at": "2026-10-04T17:32:05+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.0907702,
+  "duration_ms": 16470
+ },
+ "current": [
+  {
+   "text": "He tore his ACL and will miss the whole 2026-27 season.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "end of the 2026-27 season",
+   "sources": [
+    "4gw4W4RTolY:p25",
+    "4gw4W4RTolY:t5",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is a rookie. The Hawks drafted him 52nd in the 2026 draft.",
+   "kind": "fact",
+   "date": "2026-06-26",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p11"
+   ]
+  },
+  {
+   "text": "Experts think he went far too low in the draft and should have been a first-round pick. One calls him one of the two biggest risers versus his draft slot.",
+   "kind": "verdict",
+   "date": "2026-06-28",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p11",
+    "RsjGTgJiKyI:p26"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a 7'0 center.",
+   "kind": "fact",
+   "date": "2026-06-26",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p11"
+   ]
+  },
+  {
+   "text": "He tore his ACL before his rookie season.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p25"
+   ]
+  },
+  {
+   "text": "Experts project him as a backup big man over his career.",
+   "kind": "verdict",
+   "date": "2026-06-26",
+   "until": "",
+   "sources": [
+    "HxQjagSTTAM:p16",
+    "CLsUc0Sevos:p11"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "rookie",
+   "channel": "current",
+   "detail": "52nd pick by Atlanta in 2026",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injured now",
+   "channel": "current",
+   "detail": "Torn ACL, out for the whole season; Yahoo status O (Knee)",
+   "until": "end of the 2026-27 season",
+   "sources": [
+    "4gw4W4RTolY:p25",
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Veesaar has a torn ACL and will miss the whole 2026-27 season, so he has no value in our league this year. Yahoo values him at 0 USD and ranks him 623rd, and ESPN does not list him. Do not draft him and do not use an IL spot on him. Even healthy, his projection (5.8 PTS, 3.4 REB, 0.3 STL in a small role) would not make a 12-team roster.",
+ "rejected": []
+}

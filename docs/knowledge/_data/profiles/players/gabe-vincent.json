@@ -1,0 +1,68 @@
+{
+ "player": {
+  "name": "Gabe Vincent",
+  "slug": "gabe-vincent",
+  "pk": 654,
+  "team": "ATL",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "7d5b4b685919",
+ "note_count": 0,
+ "built_at": "2026-10-04T17:31:22+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.08241419999999999,
+  "duration_ms": 12395
+ },
+ "current": [
+  {
+   "text": "Gabe Vincent is not named in Lloyd's expected Atlanta rotation. The projected starters are McCollum, Alexander-Walker, Daniels, Johnson and Okongwu. The expected bench is Dort, Wiggins, Landale, Flemings and probably Newell, with Kispert and Finney-Smith also in the mix.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t1",
+    "4gw4W4RTolY:t2"
+   ]
+  },
+  {
+   "text": "With no place in the expected 10-man rotation, he is not a draft option in a 12-team league.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t2",
+    "stats"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "His projected line is far below the top 250 pool in points, rebounds and steals.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Not named in Lloyd's expected 10-man Atlanta rotation.",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t2",
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites value Vincent at 0 USD. Yahoo ranks him 362nd and ESPN 209th, both outside our 144-player draft pool, so do not draft him. He averaged 16.5 minutes last season and shot 35.2% from the field. Atlanta's expected rotation leaves him out, so only watch him if several Hawks guards get hurt early in the season.",
+ "rejected": []
+}

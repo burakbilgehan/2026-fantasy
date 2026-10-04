@@ -1,0 +1,357 @@
+{
+ "team": "CHI",
+ "prompt_version": 1,
+ "prompt_sha": "07b4ed7fd28e",
+ "input_sha": "f79d8cb92aed",
+ "note_count": 30,
+ "built_at": "2026-10-04T20:02:11+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1787148,
+  "duration_ms": 53894
+ },
+ "current": [
+  {
+   "text": "Chicago is expected to be a bad team, likely bottom 10 in the league and probably bottom six.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t0",
+    "P6TNP-g0wzY:t5",
+    "lOshTzDA4SA:t3",
+    "9tb1ARBEmQU:t3",
+    "stats"
+   ]
+  },
+  {
+   "text": "Few Eastern Conference teams are expected to be clearly worse than Chicago.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t0"
+   ]
+  },
+  {
+   "text": "Hayes predicts 32 wins.",
+   "kind": "verdict",
+   "date": "2026-08-18",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t4"
+   ]
+  },
+  {
+   "text": "Lloyd says the team has an unclear direction.",
+   "kind": "verdict",
+   "date": "2026-07-02",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:t5"
+   ]
+  },
+  {
+   "text": "Tiago Splitter is the new head coach. He replaces Billy Donovan.",
+   "kind": "fact",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t1",
+    "FxaSnyk9g90:t2",
+    "gJUBAJaHzlU:t3"
+   ]
+  },
+  {
+   "text": "Splitter is expected to push young players out of their comfort zones.",
+   "kind": "verdict",
+   "date": "2026-08-18",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t2"
+   ]
+  },
+  {
+   "text": "It is unclear how Splitter will handle Matas Buzelis's minutes.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t1"
+   ]
+  },
+  {
+   "text": "Donovan cut young players' minutes and usage after small mistakes. His exit, along with the exits of Coby White and Nikola Vucevic, opens up roles for the young players.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t3",
+    "xHRF06_E9HE:t6",
+    "egRrai3Ax38:t2"
+   ]
+  },
+  {
+   "text": "Nikola Vucevic and Coby White are no longer on the team. Norman Powell, Caleb Wilson, Nic Claxton and Buddy Hield are new.",
+   "kind": "fact",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t2",
+    "9tb1ARBEmQU:t3",
+    "CRLSsoGhb2w:t6"
+   ]
+  },
+  {
+   "text": "With Vucevic and White gone, more usage is available.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t2"
+   ]
+  },
+  {
+   "text": "Projected starters: Josh Giddey, Norman Powell, Matas Buzelis, Caleb Wilson and Nic Claxton.",
+   "kind": "fact",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t3",
+    "stats"
+   ]
+  },
+  {
+   "text": "Claxton is about 90% sure to start over Jalen Smith.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t3"
+   ]
+  },
+  {
+   "text": "Tre Jones is the sixth man. Isaac Okoro, Jalen Smith and Buddy Hield come next off the bench.",
+   "kind": "fact",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t5",
+    "CRLSsoGhb2w:t6"
+   ]
+  },
+  {
+   "text": "The 10th rotation spot is open between Patrick Williams, Zach Collins and Leonard Miller.",
+   "kind": "fact",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t5"
+   ]
+  },
+  {
+   "text": "Norman Powell should get a lot of usage and may lead the team in usage unless he is traded.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "Powell is traded",
+   "sources": [
+    "W-R1dzem32s:t0",
+    "g31YlwRe0XQ:t2"
+   ]
+  },
+  {
+   "text": "Buzelis could be second in usage, ahead of Giddey and Wilson.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:t2"
+   ]
+  },
+  {
+   "text": "Caleb Wilson is not expected to have high usage as a rookie. Giddey and Buzelis should both use more possessions than him.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:t2",
+    "OBwWCxG9SqM:t2",
+    "W-R1dzem32s:t0"
+   ]
+  },
+  {
+   "text": "The roster leans heavily on big men. Buzelis plays out of position.",
+   "kind": "fact",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t6"
+   ]
+  },
+  {
+   "text": "The team lacks shooting. A lineup with Claxton, Wilson and Giddey together will have terrible spacing.",
+   "kind": "verdict",
+   "date": "2026-08-18",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t3",
+    "lOshTzDA4SA:t3"
+   ]
+  },
+  {
+   "text": "The rotation is thin. Losing Giddey or Buzelis would leave a depth problem.",
+   "kind": "verdict",
+   "date": "2026-08-18",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t0"
+   ]
+  },
+  {
+   "text": "The team has enough centers to cover a Claxton absence.",
+   "kind": "verdict",
+   "date": "2026-08-18",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t0"
+   ]
+  },
+  {
+   "text": "The Bulls played very fast late last season and should play an up-tempo transition style, which helps counting stats.",
+   "kind": "verdict",
+   "date": "2026-08-18",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t5"
+   ]
+  },
+  {
+   "text": "The front office signs older players on short deals and hopes to trade them. It is not trying to acquire picks.",
+   "kind": "fact",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t4",
+    "FxaSnyk9g90:t1"
+   ]
+  },
+  {
+   "text": "Powell, Collins and Claxton are on short veteran deals, which makes in-season trades of veterans possible.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t1",
+    "3Qm5wLjhvTw:t4",
+    "W-R1dzem32s:t0"
+   ]
+  },
+  {
+   "text": "The Bulls sold both of their second-round picks for cash. One speaker expects them to cut Cam Jones, who came in one of those deals.",
+   "kind": "fact",
+   "date": "2026-06-26",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:t0"
+   ]
+  },
+  {
+   "text": "The fantasy playoff schedule is 3-3-4 (10 games), with one back-to-back in week 21. That is average.",
+   "kind": "fact",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t7",
+    "stats"
+   ]
+  },
+  {
+   "text": "The team has 15 back-to-backs, one below the league maximum. The overall schedule is average.",
+   "kind": "fact",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t8",
+    "stats"
+   ]
+  },
+  {
+   "text": "The Bulls have one of only three five-game weeks this season.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t11"
+   ]
+  },
+  {
+   "text": "The first 20 games of the schedule are a gauntlet.",
+   "kind": "verdict",
+   "date": "2026-08-18",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t6"
+   ]
+  }
+ ],
+ "durable": [],
+ "tags": [
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "Win total 27.5 (rank 26). Experts see it as bottom 10, probably bottom six.",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t0",
+    "P6TNP-g0wzY:t5",
+    "stats"
+   ],
+   "new_meaning": "Projected to be one of the worst teams in the league this season."
+  },
+  {
+   "name": "deadline seller",
+   "channel": "current",
+   "detail": "Signs veterans on short deals (Powell, Collins, Claxton) and hopes to trade them.",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t4",
+    "FxaSnyk9g90:t1"
+   ],
+   "new_meaning": "Front office is expected to trade veterans during the season, so their roles can change or open up."
+  },
+  {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "Tiago Splitter replaces Billy Donovan.",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t1",
+    "FxaSnyk9g90:t2"
+   ],
+   "new_meaning": "Team has a new head coach this season, so rotation and minutes habits are less predictable."
+  },
+  {
+   "name": "fast pace",
+   "channel": "current",
+   "detail": "Very fast late last season; expected up-tempo transition style.",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t5"
+   ],
+   "new_meaning": "Team plays at a fast pace, which raises its players' counting stats."
+  },
+  {
+   "name": "thin rotation",
+   "channel": "current",
+   "detail": "Losing Giddey or Buzelis would leave a depth problem. Center depth is fine.",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t0"
+   ],
+   "new_meaning": "Team has little depth, so an injury to a key player opens a big role and few backups can fill it."
+  }
+ ],
+ "note": "Chicago looks like a bad, fast-paced team with a new coach, and Vucevic and White are gone. That frees usage for Norman Powell, who may lead the team, and for Matas Buzelis, who is the main young winner. Caleb Wilson's rookie usage should be modest, and the poor spacing in a Giddey, Wilson and Claxton lineup is a risk. Early on, watch how Splitter handles Buzelis's minutes, whether Claxton keeps the starting job over Jalen Smith, and any veteran trades, since the front office signed Powell, Collins and Claxton on short deals so it can move them.",
+ "rejected": []
+}

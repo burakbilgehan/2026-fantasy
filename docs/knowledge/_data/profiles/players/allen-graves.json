@@ -1,0 +1,190 @@
+{
+ "player": {
+  "name": "Allen Graves",
+  "slug": "allen-graves",
+  "pk": 204,
+  "team": "TOR",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "29f09f141abe",
+ "note_count": 10,
+ "built_at": "2026-10-04T17:22:59+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.190471,
+  "duration_ms": 47347
+ },
+ "current": [
+  {
+   "text": "He is a rookie. Toronto drafted him 19th overall in the 2026 draft.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p5",
+    "RsjGTgJiKyI:p19"
+   ]
+  },
+  {
+   "text": "In Summer League he averaged about 17 points, 7 rebounds and 3 assists, with over 2 steals and a block, on 51% shooting. He filled every category.",
+   "kind": "fact",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p5",
+    "TOn-D1SV7a8:p25",
+    "s28HvC2grAk:p32"
+   ]
+  },
+  {
+   "text": "Toronto is not deep. After a solid top seven, the next group is Shead, Graves, Anderson, Elijah Martin and Trayce Jackson-Davis.",
+   "kind": "fact",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:t2"
+   ]
+  },
+  {
+   "text": "Experts expect him in the rotation from day one as the eighth or ninth man, possibly as the backup four.",
+   "kind": "verdict",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:p32",
+    "TOn-D1SV7a8:p25",
+    "LUTYUdXBG1M:p5"
+   ]
+  },
+  {
+   "text": "Yahoo lists him as questionable with a groin injury.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He moved up from 11 to 9 in one dynasty rookie ranking. Another ranking has him 11th in both formats and says he fits category leagues better.",
+   "kind": "verdict",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p25",
+    "RsjGTgJiKyI:p19"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "His fantasy profile is steals, rebounds and three-point shooting.",
+   "kind": "verdict",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:p33"
+   ]
+  },
+  {
+   "text": "Experts rate his fantasy game above other players in his tier. Josh says only Cameron Boozer's fantasy skills are better in this rookie class. He ranks first on one translated-stats list.",
+   "kind": "verdict",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p25",
+    "RsjGTgJiKyI:p20",
+    "-rgXhs5BHiw:p1"
+   ]
+  },
+  {
+   "text": "Several experts see him as a lottery-level prospect who is better than his draft slot.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p5",
+    "-rgXhs5BHiw:p0",
+    "HxQjagSTTAM:p5"
+   ]
+  },
+  {
+   "text": "He could become an impactful defender in the mold of Robert Covington or OG Anunoby.",
+   "kind": "verdict",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
+    "-rgXhs5BHiw:p2"
+   ]
+  },
+  {
+   "text": "He did not start in college. He came off the bench at Santa Clara.",
+   "kind": "fact",
+   "date": "2026-06-28",
+   "until": "",
+   "sources": [
+    "RsjGTgJiKyI:p19",
+    "HxQjagSTTAM:p5"
+   ]
+  },
+  {
+   "text": "The main risks are whether he can hold up in the NBA and whether his shot works.",
+   "kind": "verdict",
+   "date": "2026-06-28",
+   "until": "",
+   "sources": [
+    "RsjGTgJiKyI:p20"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "rookie",
+   "channel": "current",
+   "detail": "Pick 19 in 2026, Toronto",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p5",
+    "RsjGTgJiKyI:p19"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q (groin)",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injured now",
+   "channel": "current",
+   "detail": "Groin, Yahoo status Q",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Projected eighth or ninth man. Yahoo value 0 USD, rank 249. Watch his minutes and steals early.",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:p32",
+    "-rgXhs5BHiw:p1",
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo values him at 0 USD and ranks him 249. Its projection is 5.4 points and 0.7 steals, so he is well outside the 144 players our auction drafts and should not be bought. He belongs on the early-season waiver watch list. Check that the groin injury clears, whether he really gets bench minutes as the eighth or ninth man or the backup four, and whether the steals, rebounds and threes he showed in Summer League carry over.",
+ "rejected": []
+}

@@ -1,0 +1,538 @@
+{
+ "slug": "breakout-candidates",
+ "title": "Breakout Candidates",
+ "type": "compilation",
+ "brief": "Which players have the role, usage or minutes growth to finish well above their auction price this season? For each, it must name the opening behind the breakout (departed teammate, bigger role, year-two or year-three step) and which category signals support it.",
+ "tags": [
+  "breakout",
+  "role up"
+ ],
+ "rule_ids": [
+  "8d--aL_xxwE:r3",
+  "8d--aL_xxwE:r4",
+  "gJUBAJaHzlU:r0",
+  "gJUBAJaHzlU:r1",
+  "gJUBAJaHzlU:r2",
+  "4GDfg2n2l8o:r0",
+  "RsjGTgJiKyI:r6",
+  "RsjGTgJiKyI:r7",
+  "W-R1dzem32s:r11",
+  "TiiaNZCJNs8:r0",
+  "TiiaNZCJNs8:r1",
+  "TiiaNZCJNs8:r2",
+  "egRrai3Ax38:r13",
+  "p9XE5jFqhvs:r4",
+  "W3THnI7wWdA:r0",
+  "W3THnI7wWdA:r1",
+  "sTtFUy7IoJI:r9",
+  "FxaSnyk9g90:r3"
+ ],
+ "proposed": false,
+ "prompt_sha": "12db90749aa2",
+ "built_at": "2026-10-04T20:16:35+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.4657568,
+  "duration_ms": 143359
+ },
+ "player_slugs": [
+  "ausar-thompson",
+  "austin-reaves",
+  "baylor-scheierman",
+  "brandin-podziemski",
+  "brandon-ingram",
+  "brandon-miller",
+  "cameron-johnson",
+  "cason-wallace",
+  "cedric-coward",
+  "coby-white",
+  "collin-murray-boyles",
+  "cooper-flagg",
+  "darius-garland",
+  "dayron-sharpe",
+  "deandre-hunter",
+  "dejounte-murray",
+  "domantas-sabonis",
+  "dylan-harper",
+  "egor-demin",
+  "giannis-antetokounmpo",
+  "isaiah-jackson",
+  "jaden-mcdaniels",
+  "jakobe-walter",
+  "jalen-duren",
+  "jalen-green",
+  "jalen-williams",
+  "jared-mccain",
+  "jaren-jackson",
+  "jaylon-tyson",
+  "jayson-tatum",
+  "joan-beringer",
+  "john-collins",
+  "jonathan-kuminga",
+  "julius-randle",
+  "jusuf-nurkic",
+  "keegan-murray",
+  "kelel-ware",
+  "khaman-maluach",
+  "kon-knueppel",
+  "kyle-kuzma",
+  "lamelo-ball",
+  "marcus-sasser",
+  "matas-buzelis",
+  "max-strus",
+  "naz-reid",
+  "paul-george",
+  "paul-reed",
+  "pelle-larsson",
+  "rui-hachimura",
+  "sandro-mamukelashvili",
+  "terrence-shannon",
+  "trae-young",
+  "ty-jerome",
+  "yanic-konan-niederhauser",
+  "yves-missi",
+  "zach-lavine"
+ ],
+ "summary": "In our league, a real breakout needs a confirmed opening: a departed teammate, more minutes, or a year-two or year-three step. It should then show up in assist rate, free throw rate and efficiency at volume. Spend mid-round money on players whose opening is already in place but not yet in their price, such as Reaves, Buzelis, Dejounte Murray, Garland, Miller and Ausar Thompson. Spread your last dollars over 1 to 3 USD flyers whose minutes you check in the first two weeks.",
+ "sections": [
+  {
+   "heading": "Breakouts come from openings",
+   "paragraphs": [
+    {
+     "text": "Usage carries over from one season to the next at a rate of 0.83, and minutes per game at 0.78. A player rarely jumps on his own. Look for a role change instead: an injury, a trade or a free agent departure that frees up shots. Big busts and breakouts mostly come from injuries and random shooting seasons, not from slow growth in counting stats.",
+     "sources": [
+      "8d--aL_xxwE:r4",
+      "8d--aL_xxwE:r3"
+     ]
+    },
+    {
+     "text": "When a team loses high-usage players and brings in fewer than it lost, the leftover usage has to go somewhere. A player who was third in line to handle the ball next to two stars can jump once one star leaves, mostly in assist rate. Austin Reaves with LeBron gone is the clearest case in our pool. Check his splits from games he played next to only one of the two stars.",
+     "sources": [
+      "W3THnI7wWdA:r0",
+      "W3THnI7wWdA:r1",
+      "player:austin-reaves"
+     ]
+    },
+    {
+     "text": "Check the usage picture before you bid. More high-usage players on one roster means fewer chances, not more. Charlotte lost Ball and Bridges, but Miller, Reid, Knueppel and White all expect more shots from that same opening. They cannot all hit their best case.",
+     "sources": [
+      "TiiaNZCJNs8:r0",
+      "player:brandon-miller",
+      "player:naz-reid",
+      "player:kon-knueppel",
+      "player:coby-white"
+     ]
+    },
+    {
+     "text": "A player's best breakout chance is the season with the most opening. When stars come back, expect a step back. Some openings in our pool only last until a player returns. The Clippers' extra shots go to Garland, Hachimura and Strus while Ingram is out. Maluach starts only while Mark Williams is out. Isaiah Jackson starts until Konan Niederhäuser returns.",
+     "sources": [
+      "TiiaNZCJNs8:r2",
+      "player:darius-garland",
+      "player:rui-hachimura",
+      "player:max-strus",
+      "player:khaman-maluach",
+      "player:isaiah-jackson"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Year two and year three",
+   "paragraphs": [
+    {
+     "text": "In recent years the big breakouts have moved to year two, so expect second-year players to step forward. Players who did not take that step in year two are the ones who tend to break out in year three. Young players usually get more usage and minutes each year, from a small rookie role to a bigger one by year three.",
+     "sources": [
+      "gJUBAJaHzlU:r0",
+      "W-R1dzem32s:r11",
+      "FxaSnyk9g90:r3"
+     ]
+    },
+    {
+     "text": "Our data tags Flagg, Coward, Dëmin and Murray-Boyles as second-year jumps. It tags Buzelis, Ware and Ausar Thompson as third-year steps. Flagg's step is already in his price, so the profit sits with the cheaper names.",
+     "sources": [
+      "player:cooper-flagg",
+      "player:cedric-coward",
+      "player:egor-demin",
+      "player:collin-murray-boyles",
+      "player:matas-buzelis",
+      "player:kelel-ware",
+      "player:ausar-thompson"
+     ]
+    },
+    {
+     "text": "Big jumps in year four are unlikely for players who showed nothing in their first three years. A veteran turning 29 is probably who he is. When a veteran's role grows, pay for the extra minutes, not for growth. The year rules are only a baseline. Judge each player on his own situation.",
+     "sources": [
+      "gJUBAJaHzlU:r1",
+      "TiiaNZCJNs8:r1",
+      "sTtFUy7IoJI:r9"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Category signals to check",
+   "paragraphs": [
+    {
+     "text": "Category-league breakouts are driven by efficiency at volume, a higher free throw attempt rate and a higher assist rate. Points leagues reward these less, so they matter more for us. The same two signs, more free throws and more assists, mark year-three and year-four leaps even for players who are not point guards.",
+     "sources": [
+      "gJUBAJaHzlU:r2",
+      "4GDfg2n2l8o:r0",
+      "RsjGTgJiKyI:r6"
+     ]
+    },
+    {
+     "text": "The size of the jump matters. Going from about 4 free throw attempts a game to 6.5 or 7 can move a player from around 25th to around 5th. Our FG% and FT% are team ratios, so volume decides how much a player moves them. Naz Reid's 45.9% FG on about 13 attempts and Dëmin's 39.9% FG need to improve, or the extra shots will cost us.",
+     "sources": [
+      "RsjGTgJiKyI:r7",
+      "player:naz-reid",
+      "player:egor-demin"
+     ]
+    },
+    {
+     "text": "Small gains add up. A few points better from three, a bit more usage, an extra assist and more minutes can move a player into the top 50. A good per-game rank earned in limited minutes also points to upside if the minutes grow. Ware has top 40 upside at 30 minutes. Paul Reed has top 50 upside if Duren misses time.",
+     "sources": [
+      "p9XE5jFqhvs:r4",
+      "egRrai3Ax38:r13",
+      "player:kelel-ware",
+      "player:paul-reed"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Where the experts disagree",
+   "paragraphs": [
+    {
+     "text": "One note says busts and breakouts mostly come from injuries and random shooting, not from changes in counting stats. Other notes say rising free throw and assist rates predict real star leaps. Our approach: pay for openings that already exist, such as completed departures and projected minutes. Do not pay in advance for the rate climb. Treat it as the early-season sign that the breakout is real.",
+     "sources": [
+      "8d--aL_xxwE:r3",
+      "gJUBAJaHzlU:r2",
+      "RsjGTgJiKyI:r6"
+     ]
+    },
+    {
+     "text": "The experts also split on Naz Reid. Some project a top 50 finish after he finished 98th. Others see no upside beyond his tier. His price settles it: he is worth 15 to 20 USD as a mid-round starter, but do not pay for the top 30 hype.",
+     "sources": [
+      "player:naz-reid"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "How to use this in our auction",
+   "paragraphs": [
+    {
+     "text": "On 2026-10-18, spend mid-round money only where the opening is confirmed and the market has not priced it in yet. Reaves, Buzelis, Dejounte Murray, Garland, Miller, Ausar Thompson and Paul George fit that. Players whose growth is already in the price, like Flagg, Tatum and Giannis, give little profit. Set a cap and let others go higher.",
+     "sources": [
+      "player:austin-reaves",
+      "player:matas-buzelis",
+      "player:dejounte-murray",
+      "player:darius-garland",
+      "player:brandon-miller",
+      "player:ausar-thompson",
+      "player:paul-george",
+      "player:cooper-flagg",
+      "player:jayson-tatum",
+      "player:giannis-antetokounmpo"
+     ]
+    },
+    {
+     "text": "Fill your last roster spots with 1 to 3 USD year-two bets and minutes bets that could end up inside the 144 drafted players. Use one of the 4 IL slots for a stash like Ingram. Players outside the pool, like Paul Reed, Pelle Larsson and Konan Niederhäuser, belong on waivers or IL, not in the auction.",
+     "sources": [
+      "player:brandon-ingram",
+      "player:paul-reed",
+      "player:pelle-larsson",
+      "player:yanic-konan-niederhauser"
+     ]
+    },
+    {
+     "text": "In the first two weeks, check three things for each breakout pick: minutes, usage, and whether assists and free throw attempts are rising. Waivers run daily on FAB with up to 6 adds a week, so drop a flyer whose minutes do not show up. Before the 2027-03-04 trade deadline, sell players whose opening ends when a star returns, because they will step back.",
+     "sources": [
+      "8d--aL_xxwE:r4",
+      "gJUBAJaHzlU:r2",
+      "TiiaNZCJNs8:r2"
+     ]
+    }
+   ]
+  }
+ ],
+ "players": [
+  {
+   "slug": "austin-reaves",
+   "tier": "Core targets",
+   "line": "LeBron is gone, so Reaves becomes the clear second creator next to Luka, and rising usage and assist rate could turn his 32nd-place per-game finish into top 10 to 15 value."
+  },
+  {
+   "slug": "matas-buzelis",
+   "tier": "Core targets",
+   "line": "Year three under new coach Splitter brings about 32 minutes and point forward duties, so watch his assist rate rise while his blocks keep his floor high."
+  },
+  {
+   "slug": "dejounte-murray",
+   "tier": "Core targets",
+   "line": "With no minutes limit and about 33 minutes projected, his steals, assists and guard rebounds can beat a high-teens price, and the finals-week schedule worry does not apply to our March 28 end."
+  },
+  {
+   "slug": "darius-garland",
+   "tier": "Core targets",
+   "line": "With Kawhi gone and Ingram out he is the highest-usage Clipper, a likely top 50 guard with top 30 upside, but his opening shrinks when Ingram returns."
+  },
+  {
+   "slug": "brandon-miller",
+   "tier": "Core targets",
+   "line": "With LaMelo Ball and Bridges gone his usage should reach 29 or 30, which makes him a third-round player if his shoulder checks out in camp."
+  },
+  {
+   "slug": "ausar-thompson",
+   "tier": "Core targets",
+   "line": "Year three adds 3 to 4 minutes and more on-ball work, his elite steals already carry punt FT% builds, and a rising assist rate is the signal to watch."
+  },
+  {
+   "slug": "paul-george",
+   "tier": "Core targets",
+   "line": "He moves from third to second option behind Tatum with usage near 26, and experts expect a top 40 per-game finish from a player the market treats as a late flyer."
+  },
+  {
+   "slug": "naz-reid",
+   "tier": "Core targets",
+   "line": "With Ball and Bridges gone he starts at power forward for 31 to 33 minutes, worth 15 to 20 USD, though experts split on whether he reaches the top 50."
+  },
+  {
+   "slug": "jalen-williams",
+   "tier": "Value at price",
+   "line": "With Dort, Joe and Wiggins gone, more usage goes to a line with no weak category, so a low to mid 20s bid is value if his hamstring and minutes hold."
+  },
+  {
+   "slug": "jaren-jackson",
+   "tier": "Value at price",
+   "line": "More power forward minutes in Utah could push his blocks near 2 a game even as his usage drops, and experts rank him near 36th while the market pays far less."
+  },
+  {
+   "slug": "jalen-duren",
+   "tier": "Value at price",
+   "line": "With Tobias Harris gone his usage could reach about 25%, adding points to his FG% and rebounds base, but stop bidding near 20 USD."
+  },
+  {
+   "slug": "kelel-ware",
+   "tier": "Value at price",
+   "line": "A year-three big whose minutes should rise from 22 to 26 to 30, bringing rebounds, blocks and FG% with top 40 upside if he starts next to Turner."
+  },
+  {
+   "slug": "coby-white",
+   "tier": "Value at price",
+   "line": "After the Ball trade he is Charlotte's starting point guard at 30 to 32 minutes, which experts see as top 55 to 75 value, and his assists next to Knueppel and Miller are the number to watch."
+  },
+  {
+   "slug": "julius-randle",
+   "tier": "Value at price",
+   "line": "His usage should climb toward 30% in Brooklyn even with fewer minutes, which lifts his points, rebounds and forward assists at the cost of turnovers."
+  },
+  {
+   "slug": "giannis-antetokounmpo",
+   "tier": "Priced in",
+   "line": "In Miami his minutes rise to 32 or 33 with more ball handling, but at about 60 USD the extra assists are already in the price."
+  },
+  {
+   "slug": "jayson-tatum",
+   "tier": "Priced in",
+   "line": "Jaylen Brown's exit gives him more usage, but experts call his price fair or only slightly cheap, so there is little room to beat it."
+  },
+  {
+   "slug": "cooper-flagg",
+   "tier": "Priced in",
+   "line": "His year-two jump in scoring, efficiency and assists is the textbook opening, but a mid-40s price already pays for it, so stop well before 60 USD."
+  },
+  {
+   "slug": "trae-young",
+   "tier": "Priced in",
+   "line": "His minutes jump from about 25 to 33 to 35 should add assists and FT% volume, but sharing usage with Davis and Dybantsa caps the gain."
+  },
+  {
+   "slug": "lamelo-ball",
+   "tier": "Priced in",
+   "line": "He should get more minutes in Minnesota but less usage, which is a sideways move rather than a breakout, and his ankle argues for the low end of his range."
+  },
+  {
+   "slug": "domantas-sabonis",
+   "tier": "Priced in",
+   "line": "With Westbrook, Schroder and DeRozan gone his usage and assists should rise back toward 6, but a fair price sits mid-range, not at first-round money."
+  },
+  {
+   "slug": "kon-knueppel",
+   "tier": "Priced in",
+   "line": "His usage should rise to 24 or 25% with Ball and Bridges gone, but Yahoo already prices that, and he shares the opening with Miller, Reid and White."
+  },
+  {
+   "slug": "dylan-harper",
+   "tier": "Avoid at price",
+   "line": "His minutes should rise toward 29 to 30, but experts place him closer to rank 100 than his ADP, so pay only low single digits."
+  },
+  {
+   "slug": "cedric-coward",
+   "tier": "Late flyers",
+   "line": "A second-year jump plus Morant's exit point to more usage at 29 to 30 minutes, which makes him a 3 to 7 USD breakout bet if Iisalo's deep rotation allows it."
+  },
+  {
+   "slug": "brandin-podziemski",
+   "tier": "Late flyers",
+   "line": "With Butler and Moody out he becomes a 30+ minute starter after finishing 136th, and rising assists plus strong guard rebounds point to the top 100 for 1 to 3 USD."
+  },
+  {
+   "slug": "collin-murray-boyles",
+   "tier": "Late flyers",
+   "line": "A second-year riser who should close games, with usage rising from 15% to 18%, adding FG%, blocks and steals with top 70 upside at 30 minutes."
+  },
+  {
+   "slug": "keegan-murray",
+   "tier": "Late flyers",
+   "line": "Sacramento's departures give him more usage, and if he holds blocks near 1.6 and lifts his FG% toward 44 to 45% he is a top 100 player for 1 to 3 USD."
+  },
+  {
+   "slug": "jaden-mcdaniels",
+   "tier": "Late flyers",
+   "line": "Randle and Reid leaving opens some usage, though the Kuminga signing limits the gain, and his balanced FG%, steals and blocks make him a safe 3 to 6 USD pick."
+  },
+  {
+   "slug": "khaman-maluach",
+   "tier": "Late flyers",
+   "line": "He is the likely starter at 24 to 25 minutes while Mark Williams is out, with top 75 upside in blocks, but the opening closes when Williams returns."
+  },
+  {
+   "slug": "egor-demin",
+   "tier": "Late flyers",
+   "line": "He has a year-two leap opening as a starting shooting guard with usage up to 20 or 21, but only a FG% climb from 39.9% makes him worth holding."
+  },
+  {
+   "slug": "dayron-sharpe",
+   "tier": "Late flyers",
+   "line": "The Claxton trade makes him the expected starting center, adding rebounds, steals and FG%, but only if his minutes climb past 24."
+  },
+  {
+   "slug": "ty-jerome",
+   "tier": "Late flyers",
+   "line": "He starts at point guard after the Morant trade at 27 to 28 minutes, but his usage should drop, so he is a cheap FT%, threes, assists and steals filler rather than a true breakout."
+  },
+  {
+   "slug": "jusuf-nurkic",
+   "tier": "Late flyers",
+   "line": "Kessler's exit makes him Utah's expected starting center, a 1 to 3 USD source of rebounds, assists and steals for punt FT% builds."
+  },
+  {
+   "slug": "cason-wallace",
+   "tier": "Late flyers",
+   "line": "He takes Dort's old starting spot, so minutes above last season's 26.6 make him an end-of-auction buy for steals and low turnovers."
+  },
+  {
+   "slug": "zach-lavine",
+   "tier": "Late flyers",
+   "line": "Sacramento's departures free usage and ball handling for threes, points and FT%, but the projections disagree on his role and a trade could change it."
+  },
+  {
+   "slug": "john-collins",
+   "tier": "Late flyers",
+   "line": "He starts at power forward for 30 to 31 minutes, but the newest call sees low upside, so he is a cheap FG% and rebounds filler rather than a breakout."
+  },
+  {
+   "slug": "brandon-ingram",
+   "tier": "Late flyers",
+   "line": "He is the likely number one option with usage near 30% once back from his Achilles injury, a few-dollar IL stash whose return date is the whole bet."
+  },
+  {
+   "slug": "jalen-green",
+   "tier": "Late flyers",
+   "line": "Starting point guard minutes of 30 to 33 give points and threes to punt FG% and punt TO teams, if he really runs the point rather than Booker."
+  },
+  {
+   "slug": "cameron-johnson",
+   "tier": "Late flyers",
+   "line": "Peyton Watson's exit makes him a starter, and rising usage from about 15 would add threes and FT% with a top 90 to 120 ceiling."
+  },
+  {
+   "slug": "rui-hachimura",
+   "tier": "Late flyers",
+   "line": "He starts and takes more shots while Ingram is out, worth 1 USD at most, and he is a drop if his line stays at last season's level."
+  },
+  {
+   "slug": "sandro-mamukelashvili",
+   "tier": "Late flyers",
+   "line": "He is the backup center behind Kessler who may start, a 1 to 2 USD flyer whose threes stand out for a big."
+  },
+  {
+   "slug": "yves-missi",
+   "tier": "Late flyers",
+   "line": "He is the likely starting center under Mosley, a 1 to 2 USD blocks pick if he beats Derik Queen and plays well past 19.6 minutes."
+  },
+  {
+   "slug": "isaiah-jackson",
+   "tier": "Late flyers",
+   "line": "The starting center job brings FG% and blocks for 1 USD, but his value fades when Konan Niederhäuser returns."
+  },
+  {
+   "slug": "paul-reed",
+   "tier": "Waiver watch",
+   "line": "He moves up to backup center at about 20 minutes, and a Duren injury would make him a must-add with top 50 upside."
+  },
+  {
+   "slug": "yanic-konan-niederhauser",
+   "tier": "Waiver watch",
+   "line": "A free IL stash expected to start by February and March, so his blocks, FG% and low turnovers land in our playoff weeks."
+  },
+  {
+   "slug": "pelle-larsson",
+   "tier": "Waiver watch",
+   "line": "Miami's thin bench after the Giannis trade could give him a starting role, but he sits just outside our pool, so add him only if he starts."
+  },
+  {
+   "slug": "deandre-hunter",
+   "tier": "Waiver watch",
+   "line": "He could start at 30 to 33 minutes, but he is only a 3PM and FT% streamer if his three-point shooting returns near 40%."
+  },
+  {
+   "slug": "max-strus",
+   "tier": "Waiver watch",
+   "line": "He should start near 32 minutes while Ingram is out, a waiver threes and assists play if he gets back to about 4 assists."
+  },
+  {
+   "slug": "baylor-scheierman",
+   "tier": "Waiver watch",
+   "line": "He projects to start at 20 to 22 minutes, a waiver add only if he keeps the job at 23 or more minutes."
+  },
+  {
+   "slug": "joan-beringer",
+   "tier": "Waiver watch",
+   "line": "A Gobert handcuff at about 18 minutes with blocks and FG%, not an auction buy, and Minnesota's two-game playoff week cuts his value."
+  }
+ ],
+ "excluded": [
+  {
+   "slug": "jared-mccain",
+   "reason": "Experts call him overrated and a scorer only, he should go undrafted, and his weak FG% and defense limit any role gain."
+  },
+  {
+   "slug": "kyle-kuzma",
+   "reason": "Not a draft target: no category stands out, and he is only a possible waiver pickup if he starts."
+  },
+  {
+   "slug": "jakobe-walter",
+   "reason": "His projected line is thin and he is well outside our 144-player pool, with no breakout case in the data."
+  },
+  {
+   "slug": "marcus-sasser",
+   "reason": "Ranked far outside our pool, with only 5.2 points in 12.1 minutes last season and only a vague chance at a bigger role."
+  },
+  {
+   "slug": "terrence-shannon",
+   "reason": "Even with doubled minutes his projections show no category outlier, and Minnesota has a two-game week in our playoffs."
+  },
+  {
+   "slug": "jaylon-tyson",
+   "reason": "The expert projects him at 150 to 170, so he has no breakout case inside our pool unless an injury opens a starting role."
+  },
+  {
+   "slug": "jonathan-kuminga",
+   "reason": "The market has cooled, he is a points-first forward with a FT% drag and weak defense, and Minnesota's two-game playoff week lowers his value."
+  }
+ ],
+ "rejected": []
+}

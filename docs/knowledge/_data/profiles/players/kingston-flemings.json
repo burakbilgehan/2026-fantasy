@@ -1,0 +1,146 @@
+{
+ "player": {
+  "name": "Kingston Flemings",
+  "slug": "kingston-flemings",
+  "pk": 177,
+  "team": "ATL",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "69f8621e442f",
+ "note_count": 7,
+ "built_at": "2026-10-04T17:39:48+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.172269,
+  "duration_ms": 37349
+ },
+ "current": [
+  {
+   "text": "He is a rookie. Atlanta took him in the first round, and he is 19.",
+   "kind": "fact",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:p24"
+   ]
+  },
+  {
+   "text": "He is the backup point guard behind CJ McCollum and Nickeil Alexander-Walker. He comes off the bench in an expected 10-man rotation.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p20",
+    "TOn-D1SV7a8:p29",
+    "LUTYUdXBG1M:p47",
+    "H9q2FT3LhNw:p24",
+    "4gw4W4RTolY:t2"
+   ]
+  },
+  {
+   "text": "CJ McCollum signed an extension, which delays Flemings becoming a starter.",
+   "kind": "fact",
+   "date": "2026-06-28",
+   "until": "",
+   "sources": [
+    "RsjGTgJiKyI:t4"
+   ]
+  },
+  {
+   "text": "He is almost certainly not a starter this season.",
+   "kind": "verdict",
+   "date": "2026-06-28",
+   "until": "",
+   "sources": [
+    "RsjGTgJiKyI:p12"
+   ]
+  },
+  {
+   "text": "Lloyd expects him to struggle with usage and efficiency as a rookie, but to be a good source of assists and steals.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p20"
+   ]
+  },
+  {
+   "text": "He would likely start if McCollum got hurt, but the path is not clean. Several Atlanta starters handle the ball, and Lu Dort or Andrew Wiggins could take the minutes instead, so he is not an automatic handcuff.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p21",
+    "4gw4W4RTolY:t4"
+   ]
+  },
+  {
+   "text": "ESPN's rank of 215 is far too high for this season.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p21"
+   ]
+  },
+  {
+   "text": "In Summer League he scored 9 points but ran the offense, with 7 assists, a 4.1 to 1 assist-to-turnover ratio, 1.5 steals and 1.3 blocks.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p47"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "His fantasy strengths are his assist-to-turnover ratio and his steal rate. For that reason he ranks ahead of Mikel Brown Jr. for fantasy, as the number 5 dynasty rookie in category leagues.",
+   "kind": "verdict",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p29",
+    "RsjGTgJiKyI:p12"
+   ]
+  },
+  {
+   "text": "His wingspan is not great.",
+   "kind": "verdict",
+   "date": "2026-06-22",
+   "until": "",
+   "sources": [
+    "HxQjagSTTAM:p4"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "rookie",
+   "channel": "current",
+   "detail": "First-round pick, age 19",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:p24",
+    "4gw4W4RTolY:p20"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Backup point guard. Watch him if CJ McCollum gets hurt, though Dort or Wiggins could take those minutes instead.",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p21",
+    "4gw4W4RTolY:t4"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both Yahoo and ESPN value him at 0 USD. He ranks 243 on Yahoo and 215 on ESPN, which is outside the 144 players our league drafts, and the expert says even 215 is too high, so do not draft him. His projected 3.8 assists and 1.1 steals are his only categories above the pool. His projected 0.6 threes and 10.2 points are too low for a guard in a bench role. Watch McCollum's health early in the season: an injury there is the only clear path to a waiver pickup, and even then Dort or Wiggins may take the minutes.",
+ "rejected": []
+}

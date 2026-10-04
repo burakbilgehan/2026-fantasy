@@ -1,0 +1,192 @@
+{
+ "player": {
+  "name": "Isaiah Stewart",
+  "slug": "isaiah-stewart",
+  "pk": 535,
+  "team": "MEM",
+  "position": "F,C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "807bfa39ab9f",
+ "note_count": 6,
+ "built_at": "2026-10-04T17:33:06+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1202822,
+  "duration_ms": 28718
+ },
+ "current": [
+  {
+   "text": "Stewart was traded to Memphis, where he is the backup center behind Zach Edey.",
+   "kind": "fact",
+   "date": "2026-08-17",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p4",
+    "4GDfg2n2l8o:p15",
+    "p9XE5jFqhvs:p18",
+    "LcZcvk8s1xQ:p26"
+   ]
+  },
+  {
+   "text": "He wants a bigger role and more three-point attempts.",
+   "kind": "fact",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:p18"
+   ]
+  },
+  {
+   "text": "Zach Edey had a broken foot in June. In mid-September an expert said he might be out for longer.",
+   "kind": "fact",
+   "date": "2026-09-15",
+   "until": "",
+   "sources": [
+    "-rgXhs5BHiw:t2",
+    "KPdD91Oo8-U:p42"
+   ]
+  },
+  {
+   "text": "Experts say Stewart can start or make spot starts while Edey is out. That makes him a good late pick if Edey's absence runs long.",
+   "kind": "verdict",
+   "date": "2026-09-15",
+   "until": "Zach Edey returns",
+   "sources": [
+    "KPdD91Oo8-U:p42",
+    "LcZcvk8s1xQ:p26",
+    "W3THnI7wWdA:p4",
+    "4GDfg2n2l8o:p15"
+   ]
+  },
+  {
+   "text": "The Memphis frontcourt is crowded with Prosper, Hendricks, Edey and Stewart, and Cameron Boozer will start.",
+   "kind": "fact",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:t2"
+   ]
+  },
+  {
+   "text": "Coach Tuomas Iisalo runs an 11-man rotation with short stints and keeps minutes down. Only Boozer and Coward are expected to top 30 minutes, which caps a backup center's minutes.",
+   "kind": "verdict",
+   "date": "2026-08-17",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t1",
+    "LcZcvk8s1xQ:t2"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He has not finished a season healthy in the last three or four years.",
+   "kind": "fact",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:p17"
+   ]
+  },
+  {
+   "text": "Blocks are his standout category. He projects to about 1.6 per game, which is far above the top 250 pool.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Steals are a clear weakness, at about 0.3 per game. That is low even for a big man.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "traded from Detroit to Memphis",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p4",
+    "p9XE5jFqhvs:p18"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "backup center to Zach Edey, who had a broken foot",
+   "until": "Zach Edey returns",
+   "sources": [
+    "W3THnI7wWdA:p4",
+    "4GDfg2n2l8o:p15",
+    "LcZcvk8s1xQ:p26",
+    "KPdD91Oo8-U:p42"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "crowded frontcourt with Edey, Boozer, Prosper and Hendricks in an 11-man rotation",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:t2",
+    "LcZcvk8s1xQ:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "late pick whose upside depends on how long Edey is out",
+   "until": "Zach Edey returns",
+   "sources": [
+    "KPdD91Oo8-U:p42"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "has not finished a season healthy in three or four years",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:p17"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "BLK specialist",
+   "channel": "durable",
+   "detail": "about 1.6 blocks per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt STL fit",
+   "channel": "durable",
+   "detail": "about 0.3 steals per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites value Stewart at 0 USD (Yahoo rank 174, ESPN rank 146), so he sits at the edge of our 144-player draft. At most he is a 1 USD final-round pick. His value is blocks (about 1.6 per game) plus a helpful FG% on low volume, and he fits punt STL builds. Before the draft and in the first weeks, check Zach Edey's foot. If Edey stays out, Stewart's starts make him worth a pick or an early waiver claim. If Edey is healthy, Iisalo's low-minute rotation leaves him as a waiver player.",
+ "rejected": []
+}

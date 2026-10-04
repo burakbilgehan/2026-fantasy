@@ -1,0 +1,190 @@
+{
+ "player": {
+  "name": "Julian Champagnie",
+  "slug": "julian-champagnie",
+  "pk": 96,
+  "team": "SAS",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "68da95898227",
+ "note_count": 6,
+ "built_at": "2026-10-04T17:37:31+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1282142,
+  "duration_ms": 33341
+ },
+ "current": [
+  {
+   "text": "He signed a 3-year, 45 million contract with the Spurs.",
+   "kind": "fact",
+   "date": "2026-07-01",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p35"
+   ]
+  },
+  {
+   "text": "He is not in the projected Spurs starting five of Fox, Castle, Vassell, Harris and Wembanyama. Tobias Harris takes the forward spot that Harrison Barnes held.",
+   "kind": "fact",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:t2",
+    "g31YlwRe0XQ:t0"
+   ]
+  },
+  {
+   "text": "The Spurs roster is very deep at guard and forward. Dylan Harper needs minutes, and Champagnie competes with Harris, Vassell, Harper and Barnes for wing and forward minutes.",
+   "kind": "fact",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:t4",
+    "P6TNP-g0wzY:t6",
+    "4kKINkZhWls:t0",
+    "W3THnI7wWdA:p35"
+   ]
+  },
+  {
+   "text": "Experts say it is unclear where his minutes will come from with Dylan Harper and Tobias Harris on the roster.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "E-KmhvyZ2CU:p31",
+    "P6TNP-g0wzY:p43"
+   ]
+  },
+  {
+   "text": "He is not a must-draft. He needs a couple of injuries ahead of him to become one. People may reach for him anyway.",
+   "kind": "verdict",
+   "date": "2026-07-02",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p35",
+    "P6TNP-g0wzY:p43"
+   ]
+  },
+  {
+   "text": "His rim finishing is not expected to stay this high, which puts his FG% at risk.",
+   "kind": "verdict",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p16"
+   ]
+  },
+  {
+   "text": "The Spurs are expected to make consolidation trades from their forward depth in the relatively near future, but not right now.",
+   "kind": "verdict",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:t4"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is an undersized power forward.",
+   "kind": "fact",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p35"
+   ]
+  },
+  {
+   "text": "Teams with frontcourt size can hurt him on the glass.",
+   "kind": "verdict",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p35"
+   ]
+  },
+  {
+   "text": "He finished 71% at the rim last season. That is unusually high for a perimeter player.",
+   "kind": "fact",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p16"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Competes with Dylan Harper, Tobias Harris, Vassell and Barnes for minutes",
+   "until": "",
+   "sources": [
+    "E-KmhvyZ2CU:p31",
+    "P6TNP-g0wzY:p43",
+    "P6TNP-g0wzY:t6",
+    "W3THnI7wWdA:p35"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Not in the projected starting five. Harris takes the forward starting spot.",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:t2",
+    "g31YlwRe0XQ:t0",
+    "W3THnI7wWdA:p35"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Becomes worth rostering if injuries hit the Spurs wings or forwards",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p35",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "ESPN rank 111, Yahoo rank 179",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "plays every game",
+   "channel": "durable",
+   "detail": "82 games in each of the last two seasons",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "No weak category flagged, but his overall value is modest",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He sits right at the edge of our 144-player draft: Yahoo rank 179 and value 0 USD, ESPN rank 111 and value 2 USD, and nobody drafted him in our league last season. At 1 USD he adds some threes (2.3 per game), FT% and low turnovers, but his FG% (43%) and assists are below the pool. Before the draft he is best left to waivers or taken as a last-round flyer. Early in the season, watch whether he gets starting power forward minutes over Harris and how many minutes he loses to Harper.",
+ "rejected": []
+}

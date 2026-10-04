@@ -1,0 +1,157 @@
+{
+ "player": {
+  "name": "Jalen Smith",
+  "slug": "jalen-smith",
+  "pk": 523,
+  "team": "CHI",
+  "position": "F,C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "3b950e5d4421",
+ "note_count": 4,
+ "built_at": "2026-10-04T17:34:07+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1171262,
+  "duration_ms": 24412
+ },
+ "current": [
+  {
+   "text": "He is the backup center behind Nick Claxton in Chicago.",
+   "kind": "fact",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "9tb1ARBEmQU:p16",
+    "3Qm5wLjhvTw:t3"
+   ]
+  },
+  {
+   "text": "Claxton is about 90% sure to start over him. The expert does not expect Smith to start.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t3",
+    "3Qm5wLjhvTw:p24"
+   ]
+  },
+  {
+   "text": "The projected bench order is Tre Jones, then Isaac Okoro, then Jalen Smith, then Buddy Hield.",
+   "kind": "fact",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t5"
+   ]
+  },
+  {
+   "text": "If he starts, he becomes a must-roster player because of his shooting and blocks.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:p24"
+   ]
+  },
+  {
+   "text": "Chicago has enough centers to cover a Claxton absence. Smith is one of the players who would get those minutes.",
+   "kind": "fact",
+   "date": "2026-08-18",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t0",
+    "9tb1ARBEmQU:t3"
+   ]
+  },
+  {
+   "text": "His strong March and April numbers from last season should not be trusted for this season.",
+   "kind": "verdict",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
+    "9tb1ARBEmQU:p16"
+   ]
+  },
+  {
+   "text": "He is a late swing pick. He is an easy draft in 16-team leagues and a debatable one in 14-team leagues.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:p25"
+   ]
+  },
+  {
+   "text": "If Leonard Miller works out, Smith could become expendable and might be traded.",
+   "kind": "verdict",
+   "date": "2026-08-18",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:p29"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "His fantasy appeal comes from his shooting and his blocks.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:p24"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Back to a backup center role behind Claxton after 20.6 minutes per game last season",
+   "until": "",
+   "sources": [
+    "9tb1ARBEmQU:p16",
+    "3Qm5wLjhvTw:t3",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "Backup to Nick Claxton; must roster if he starts",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:p24",
+    "3Qm5wLjhvTw:t3",
+    "FxaSnyk9g90:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Ranked 228 on Yahoo and 200 on ESPN with 0 USD value; only a 14 to 16 team draft",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:p25",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trade risk",
+   "channel": "current",
+   "detail": "Could be moved if Leonard Miller works out",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:p29"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites value him at 0 USD (Yahoo rank 228, ESPN rank 200) and nobody drafted him last season. In our 12-team league, where 144 players are drafted, he should not be bought at the auction. He has no category weak enough to make him a punt fit, so he is a fringe streamer whose value depends on minutes. Watch him on waivers early in the season. Check Nick Claxton's health, whether coach Tiago Splitter ever starts Smith, and any trade talk tied to Leonard Miller. If Smith becomes a starter, add him at once.",
+ "rejected": []
+}

@@ -1,0 +1,203 @@
+{
+ "player": {
+  "name": "Jaylon Tyson",
+  "slug": "jaylon-tyson",
+  "pk": 565,
+  "team": "CLE",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "5eed2a2de6c1",
+ "note_count": 10,
+ "built_at": "2026-10-04T17:36:05+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1542342,
+  "duration_ms": 42537
+ },
+ "current": [
+  {
+   "text": "Cleveland lost Dennis Schroder, Keon Ellis and Max Strus. The projected bench is Tyson, Merrill, Bryant, Tomlin and Porter.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t3",
+    "rnq3118kfhY:t1",
+    "rnq3118kfhY:p3"
+   ]
+  },
+  {
+   "text": "He is projected as the sixth man behind a starting five of Harden, Mitchell, Watson, Mobley and Allen.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p33",
+    "NmdNvAz08oE:t0",
+    "rnq3118kfhY:t0"
+   ]
+  },
+  {
+   "text": "Experts expect a bigger role in year three. With the bench this thin, he could play close to starter's minutes and cover positions one through three.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p36",
+    "W-R1dzem32s:p56",
+    "W-R1dzem32s:t6",
+    "rnq3118kfhY:p3"
+   ]
+  },
+  {
+   "text": "Last season he shot about 45% from three, up from 35% the year before. Over his final 16 games that dropped to 37%.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p35",
+    "-y6p5PYLf00:p3",
+    "rnq3118kfhY:p3"
+   ]
+  },
+  {
+   "text": "Experts do not expect the 45% three-point shooting to repeat. Danny thinks he can still shoot above 40%.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p35",
+    "-y6p5PYLf00:p3",
+    "rnq3118kfhY:p3"
+   ]
+  },
+  {
+   "text": "In a bench role he projects around rank 150 to 170. He is a late-round swing pick and matters more in 14-team and deeper leagues. A 20-game absence by a player ahead of him would push him well above that range.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p34",
+    "NmdNvAz08oE:p35",
+    "NmdNvAz08oE:p36"
+   ]
+  },
+  {
+   "text": "Experts disagree on his upside. One calls him a possible flyer if his role grows. Josh is not convinced his minutes turn into fantasy value, because much of his value came from hot three-point shooting.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p56",
+    "gJUBAJaHzlU:p28"
+   ]
+  },
+  {
+   "text": "Danny says his next step is to average 15 to 16 points on good efficiency as a secondary creator.",
+   "kind": "verdict",
+   "date": "2026-08-24",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:p5"
+   ]
+  },
+  {
+   "text": "With a March 28 end, Cleveland plays 4, 3 and then 2 games in our playoff weeks, so finals week has only two games. Cleveland also has the most back-to-backs in the league.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t5",
+    "NmdNvAz08oE:t6",
+    "gf_6GveiAls:t2",
+    "gf_6GveiAls:t15"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "His production was strong when teammates were out and faded when they returned.",
+   "kind": "fact",
+   "date": "2026-08-24",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:p4",
+    "-y6p5PYLf00:p3"
+   ]
+  },
+  {
+   "text": "He has a high turnover rate on passes and low assist numbers. He is not a playmaker.",
+   "kind": "fact",
+   "date": "2026-08-24",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:p4",
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "bench losses (Schroder, Ellis, Strus) could push him close to starter's minutes",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p36",
+    "W-R1dzem32s:p56",
+    "rnq3118kfhY:p3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "late-round swing pick, projected rank 150 to 170",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p28",
+    "NmdNvAz08oE:p34"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "projected just outside the 144 drafted players; more relevant in deeper leagues",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p35",
+    "NmdNvAz08oE:p36"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "value jumps when Cleveland guards or wings miss time",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p35",
+    "rnq3118kfhY:p4",
+    "-y6p5PYLf00:p3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "4, 3, 2 games in weeks 19 to 21, two-game finals week",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t5",
+    "gf_6GveiAls:t15"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo ranks him 226 and ESPN 189, both value him at 0 USD, and the expert projects him at 150 to 170. In our 144-player auction he is a 1 USD last pick at most, or a waiver add. No category is flagged as weak or strong. His assists are low (1.5 projected) and his turnovers are light (1.1), so he gives a little help everywhere but does not fit any punt build in particular. Early in the season, check his bench minutes, whether his three-point shooting holds near 40%, and whether an injury to Harden, Mitchell or Watson opens a starting role.",
+ "rejected": []
+}

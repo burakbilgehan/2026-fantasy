@@ -1,0 +1,209 @@
+{
+ "team": "MIA",
+ "prompt_version": 1,
+ "prompt_sha": "07b4ed7fd28e",
+ "input_sha": "6fe3be24d3a5",
+ "note_count": 11,
+ "built_at": "2026-10-04T20:01:24+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.2355166,
+  "duration_ms": 60127
+ },
+ "current": [
+  {
+   "text": "Miami traded for Giannis Antetokounmpo. Tyler Herro is no longer on the team.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:t0",
+    "nnWX_ObljOE:t4"
+   ]
+  },
+  {
+   "text": "Miami traded away Jaime Jaquez Jr. and signed Klay Thompson.",
+   "kind": "fact",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t5"
+   ]
+  },
+  {
+   "text": "Miami lost a lot of depth and ball handlers in its trades, guards included. It lacks point guards.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:t0",
+    "LUTYUdXBG1M:t1",
+    "NYTH7uQsPCM:t5",
+    "nnWX_ObljOE:t4"
+   ]
+  },
+  {
+   "text": "Giannis Antetokounmpo will handle the ball a lot.",
+   "kind": "verdict",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:t4"
+   ]
+  },
+  {
+   "text": "Davion Mitchell is the starting point guard.",
+   "kind": "fact",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:t1",
+    "stats"
+   ]
+  },
+  {
+   "text": "Josh does not think Davion Mitchell is a particularly strong starting point guard.",
+   "kind": "verdict",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:t1"
+   ]
+  },
+  {
+   "text": "Bobby Portis is a solid backup for Bam Adebayo.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:t0"
+   ]
+  },
+  {
+   "text": "Pelle Larsson and Nikola Jović are not in the current starting five or second unit on the depth chart.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Depth is poor. Big man depth is not great either.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:t6",
+    "LUTYUdXBG1M:t1"
+   ]
+  },
+  {
+   "text": "Be careful with Miami players on the margins of the draft.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:t1"
+   ]
+  },
+  {
+   "text": "Miami has no draft pick, and its future assets are gone.",
+   "kind": "fact",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:t6",
+    "nnWX_ObljOE:t7"
+   ]
+  },
+  {
+   "text": "Team defense should improve a lot.",
+   "kind": "verdict",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:t7"
+   ]
+  },
+  {
+   "text": "A Giannis Antetokounmpo injury would end Miami's season.",
+   "kind": "verdict",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:t7"
+   ]
+  },
+  {
+   "text": "Miami has the fewest back-to-backs in the league (13). None of them fall in the fantasy playoff weeks.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7",
+    "stats"
+   ]
+  },
+  {
+   "text": "With so few back-to-backs, there is less risk that Giannis Antetokounmpo and the veterans sit for rest.",
+   "kind": "verdict",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7",
+    "stats"
+   ]
+  },
+  {
+   "text": "Miami plays only 10 games in fantasy playoff weeks 19 to 21. Weeks 20 and 21 have only 3 games each.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7",
+    "stats"
+   ]
+  }
+ ],
+ "durable": [],
+ "tags": [
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13 back-to-backs, fewest in the NBA. None in weeks 19 to 21.",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "Only 10 games in weeks 19 to 21 (rank 17 of 30), with 3 in each of weeks 20 and 21. No back-to-backs in those weeks.",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "thin depth",
+   "channel": "current",
+   "detail": "Lost depth and ball handlers in trades. Weak guard and big man depth.",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:t6",
+    "LUTYUdXBG1M:t1",
+    "NYTH7uQsPCM:t5"
+   ],
+   "new_meaning": "The team has a weak bench, so its fringe players are risky picks and an injury to a starter opens a big role."
+  }
+ ],
+ "note": "Giannis Antetokounmpo gains the most because Miami has few ball handlers, so he will handle the ball a lot. Bam Adebayo, Davion Mitchell and the fringe wings (Hardaway Jr., Thompson, Fontecchio, Larsson) are risky picks on a thin roster. Miami has the fewest back-to-backs but only 10 playoff games. Early on, watch who runs the offense behind Mitchell and whether Larsson or Jović get back into the rotation. Giannis's health decides Miami's whole season.",
+ "rejected": []
+}

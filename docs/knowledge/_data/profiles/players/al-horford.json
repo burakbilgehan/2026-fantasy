@@ -1,0 +1,205 @@
+{
+ "player": {
+  "name": "Al Horford",
+  "slug": "al-horford",
+  "pk": 245,
+  "team": "GSW",
+  "position": "F,C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "b95be13ad59e",
+ "note_count": 4,
+ "built_at": "2026-10-04T17:22:17+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1356302,
+  "duration_ms": 35528
+ },
+ "current": [
+  {
+   "text": "Re-signed with Golden State for 2 years and 14 million USD.",
+   "kind": "fact",
+   "date": "2026-07-01",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p22"
+   ]
+  },
+  {
+   "text": "Projected to start at center while Kristaps Porzingis is out.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "Porzingis returns",
+   "sources": [
+    "MUbNYdjpUDM:p27",
+    "MUbNYdjpUDM:t3"
+   ]
+  },
+  {
+   "text": "Porzingis, when healthy, and Draymond Green playing center both compete with him for frontcourt minutes.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t3",
+    "OBwWCxG9SqM:t4",
+    "4GDfg2n2l8o:t7"
+   ]
+  },
+  {
+   "text": "Golden State has 15 back-to-backs, tied for second most, and he is expected to sit them.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t4",
+    "MUbNYdjpUDM:t4",
+    "MUbNYdjpUDM:p27"
+   ]
+  },
+  {
+   "text": "Expected to play about 60 games.",
+   "kind": "verdict",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:p22"
+   ]
+  },
+  {
+   "text": "Golden State is reportedly treating this season as a gap year and is worried about lottery odds.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t0",
+    "LXZLrL90crE:t0"
+   ]
+  },
+  {
+   "text": "The team may rest veterans, and experts expect Warriors players to fade as the season goes on.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t0",
+    "E-KmhvyZ2CU:t1"
+   ]
+  },
+  {
+   "text": "Golden State's schedule is good for fantasy playoffs ending March 28.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t4"
+   ]
+  },
+  {
+   "text": "Not worth a pick in most fantasy leagues.",
+   "kind": "verdict",
+   "date": "2026-07-01",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p22"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Does not play back-to-backs because of his age.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p11",
+    "MUbNYdjpUDM:p27",
+    "LXZLrL90crE:p22"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "load management",
+   "channel": "durable",
+   "detail": "Sits all back-to-backs because of his age",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p11",
+    "MUbNYdjpUDM:p27",
+    "LXZLrL90crE:p22"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "age decline watch",
+   "channel": "durable",
+   "detail": "Age is the reason he skips back-to-backs",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p27"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "back-to-back risk",
+   "channel": "current",
+   "detail": "Golden State has 15 back-to-backs",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t4",
+    "MUbNYdjpUDM:t4",
+    "MUbNYdjpUDM:p27"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Porzingis when healthy, Draymond Green at center",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t3",
+    "OBwWCxG9SqM:t4",
+    "4GDfg2n2l8o:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "shutdown risk",
+   "channel": "current",
+   "detail": "Gap year for Golden State, which may rest veterans",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t0",
+    "LXZLrL90crE:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "Good team schedule for playoffs ending March 28, but he skips back-to-backs",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Projected starting center while Porzingis is out",
+   "until": "Porzingis returns",
+   "sources": [
+    "MUbNYdjpUDM:p27",
+    "W3THnI7wWdA:p22"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "At rank 205 on Yahoo and 199 on ESPN, both with a 0 USD value, he is well outside the 144 players we draft. Our league paid only 1 USD for him last season. Do not draft him. Early in the season, check whether he really starts at center while Porzingis is out and how many minutes he gets. Even as a starter, sitting all back-to-backs (about 60 games) limits his weekly value, and his low projected points and steals give no build a reason to target him.",
+ "rejected": []
+}

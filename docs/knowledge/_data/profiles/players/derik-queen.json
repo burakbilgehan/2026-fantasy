@@ -1,0 +1,234 @@
+{
+ "player": {
+  "name": "Derik Queen",
+  "slug": "derik-queen",
+  "pk": 466,
+  "team": "NOP",
+  "position": "F,C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "d646f956736f",
+ "note_count": 12,
+ "built_at": "2026-10-04T17:29:47+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1546222,
+  "duration_ms": 40875
+ },
+ "current": [
+  {
+   "text": "Yves Missi is expected to start at center for New Orleans. Queen looks set to come off the bench.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p19",
+    "ZYllcj4o6_A:t1",
+    "BjXP9JODDSg:p32",
+    "BjXP9JODDSg:t1",
+    "_vbAP5y182A:p33",
+    "_vbAP5y182A:t0"
+   ]
+  },
+  {
+   "text": "The Pelicans have a crowded frontcourt and wing rotation: Zion Williamson, Trey Murphy, Herb Jones, Yves Missi, Jeremiah Fears and Dejounte Murray, with Bennedict Mathurin added to the bench.",
+   "kind": "fact",
+   "date": "2026-09-04",
+   "until": "",
+   "sources": [
+    "gerS7ibpaJo:t1",
+    "NYTH7uQsPCM:t0",
+    "ZYllcj4o6_A:t1"
+   ]
+  },
+  {
+   "text": "Experts think Queen and Zion Williamson do not fit together. His minutes depend on how new coach Jamahl Mosley handles it, and he will likely share the second unit.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p19",
+    "_vbAP5y182A:p33",
+    "ahNxsoU8Hx4:p24",
+    "ahNxsoU8Hx4:t1",
+    "t4n9MAP2_14:p38",
+    "LM0cRCGoAUQ:p39",
+    "LM0cRCGoAUQ:t8"
+   ]
+  },
+  {
+   "text": "Experts have moved him down because he is unlikely to start. If he comes off the bench, his current draft spot is a little early.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p19",
+    "BjXP9JODDSg:p32",
+    "_vbAP5y182A:p33"
+   ]
+  },
+  {
+   "text": "He has top 50 upside if he becomes the starting center or Zion Williamson misses time. Josh expects the Pelicans to rest Zion often.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "gerS7ibpaJo:p13",
+    "t4n9MAP2_14:p38",
+    "ZYllcj4o6_A:t1"
+   ]
+  },
+  {
+   "text": "He is an acceptable flyer at his price.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p39"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a hub big who works from the elbows and the free throw line. He is not a three-point spacer.",
+   "kind": "fact",
+   "date": "2026-08-03",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:p6"
+   ]
+  },
+  {
+   "text": "He is a poor defender and gives little rim protection.",
+   "kind": "verdict",
+   "date": "2026-09-04",
+   "until": "",
+   "sources": [
+    "gerS7ibpaJo:p12",
+    "5QU-jta-lWM:p5"
+   ]
+  },
+  {
+   "text": "He is a poor shooter but fills the stat sheet, with good rebounds, assists, steals and blocks for a big.",
+   "kind": "verdict",
+   "date": "2026-09-04",
+   "until": "",
+   "sources": [
+    "gerS7ibpaJo:p12",
+    "stats"
+   ]
+  },
+  {
+   "text": "He does not give the FG% boost you want from a center.",
+   "kind": "verdict",
+   "date": "2026-09-15",
+   "until": "",
+   "sources": [
+    "KPdD91Oo8-U:p21",
+    "stats"
+   ]
+  },
+  {
+   "text": "He makes few threes and commits many turnovers for his position.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He tends to start games slowly and produce most in fourth-quarter runs.",
+   "kind": "fact",
+   "date": "2026-08-03",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:p5"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Yves Missi likely starts at center; poor fit with Zion Williamson",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p19",
+    "BjXP9JODDSg:p32",
+    "_vbAP5y182A:p33",
+    "LM0cRCGoAUQ:p39"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "Value rises when Zion Williamson sits or misses time",
+   "until": "",
+   "sources": [
+    "gerS7ibpaJo:p13",
+    "ZYllcj4o6_A:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "Cheap late pick with top 50 upside if he starts",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p39",
+    "gerS7ibpaJo:p13"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "AST from a big",
+   "channel": "durable",
+   "detail": "About 4 assists as an elbow hub big",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:p6",
+    "gerS7ibpaJo:p12",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "About 0.3 to 0.4 threes per game",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:p6",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt 3PM fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "About 2.5 turnovers per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo ranks him 96 (value 5 USD) and ESPN 95 (average cost 1.7 USD). That puts him at the end of a 144-player draft, so he is a 1 to 3 USD flyer, not a planned starter. His rebounds, assists, steals and blocks fit punt 3PM and punt TO builds, but his FG% gives no boost for a big. Early in the season, check whether Missi keeps the starting job and how often Zion sits, because his top 50 upside depends on one of those changing.",
+ "rejected": []
+}

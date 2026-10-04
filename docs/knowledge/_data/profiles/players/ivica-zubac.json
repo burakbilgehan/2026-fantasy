@@ -1,0 +1,332 @@
+{
+ "player": {
+  "name": "Ivica Zubac",
+  "slug": "ivica-zubac",
+  "pk": 620,
+  "team": "IND",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "55801c2e7731",
+ "note_count": 20,
+ "built_at": "2026-10-04T17:33:41+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1871742,
+  "duration_ms": 52639
+ },
+ "current": [
+  {
+   "text": "He is the projected starting center. The projected starting five is Haliburton, Nembhard, Nesmith, Siakam and Zubac.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t2",
+    "sfCe7fS9daM:t0"
+   ]
+  },
+  {
+   "text": "Jay Huff is the backup center. The depth behind Huff is weak.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t3",
+    "EGdhmUgPAWY:t4",
+    "t4n9MAP2_14:p29",
+    "-KS_AZjZnw4:t6"
+   ]
+  },
+  {
+   "text": "He is expected to play around 30 minutes. His minutes are a concern because Rick Carlisle has a history of limiting starting center minutes and Jay Huff is a decent backup.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p16",
+    "EGdhmUgPAWY:t1",
+    "sfCe7fS9daM:p10",
+    "t4n9MAP2_14:p29",
+    "sfCe7fS9daM:t2"
+   ]
+  },
+  {
+   "text": "He should be much better than last season running pick and roll with Tyrese Haliburton. His minutes and how much Haliburton makes things easier for him are the keys to his season.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p19",
+    "egRrai3Ax38:p38",
+    "t4n9MAP2_14:p29",
+    "-KS_AZjZnw4:p48"
+   ]
+  },
+  {
+   "text": "His fit is a question. He moves from a very slow Clippers system into an uptempo system that needs quicker decisions.",
+   "kind": "verdict",
+   "date": "2026-08-10",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:p11"
+   ]
+  },
+  {
+   "text": "He missed time last season with a fractured rib and arrived in Indiana with an ankle injury, playing only six games for the Pacers.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p21",
+    "-KS_AZjZnw4:p47"
+   ]
+  },
+  {
+   "text": "The fractured rib from last season is no concern at all.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p21"
+   ]
+  },
+  {
+   "text": "In category leagues the expert ranks him 60 to 75. Yahoo's rank of 57 is too aggressive, while his ESPN ADP around 95 is good value.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p17",
+    "EGdhmUgPAWY:p18"
+   ]
+  },
+  {
+   "text": "He is the expert's best target on the Pacers, depending on the platform price.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p20"
+   ]
+  },
+  {
+   "text": "Carlisle likes to keep minutes down and rest players on back-to-backs. Indiana has 15 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:t2",
+    "EGdhmUgPAWY:t5",
+    "EGdhmUgPAWY:t0"
+   ]
+  },
+  {
+   "text": "Indiana plays 3, 4 and 3 games in our fantasy playoff weeks 19 to 21, which is not ideal.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t5"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "His minutes have usually been stuck around 29 to 30. He played 33 minutes only once, and his production exploded that season.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p15",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is an elite rebounder, an elite screener and a strong post-up player.",
+   "kind": "verdict",
+   "date": "2026-08-10",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:p8",
+    "sfCe7fS9daM:p12"
+   ]
+  },
+  {
+   "text": "He almost never shoots threes.",
+   "kind": "fact",
+   "date": "2026-08-10",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:p9",
+    "stats"
+   ]
+  },
+  {
+   "text": "His category profile is high FG% on real volume and big rebound numbers. Threes and steals are his weak categories. His FT% is below average but on low volume.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "His 9-cat rank tends to overstate his real value. His 35th place 9-cat finish two seasons ago overstated him.",
+   "kind": "verdict",
+   "date": "2026-07-20",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p49"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "FG% anchor",
+   "channel": "durable",
+   "detail": "About 62% on 10 FGA projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "REB specialist",
+   "channel": "durable",
+   "detail": "About 11 rebounds projected",
+   "until": "",
+   "sources": [
+    "stats",
+    "sfCe7fS9daM:p8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats",
+    "sfCe7fS9daM:p9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt 3PM fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt STL fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "9-cat fluff",
+   "channel": "durable",
+   "detail": "FG% on volume inflates his 9-cat rank",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p49"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bounce-back",
+   "channel": "current",
+   "detail": "Pick and roll with Haliburton",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p38",
+    "-KS_AZjZnw4:p46",
+    "-KS_AZjZnw4:p48"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "Fractured rib and ankle injury, 48 games",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p21",
+    "-KS_AZjZnw4:p47",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "coach limits minutes",
+   "channel": "current",
+   "detail": "Carlisle limits starting center minutes, Jay Huff backs up",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p16",
+    "EGdhmUgPAWY:t1",
+    "sfCe7fS9daM:t2",
+    "t4n9MAP2_14:t2"
+   ],
+   "new_meaning": "His coach tends to hold his minutes down even when he is healthy, which caps his production."
+  },
+  {
+   "name": "back-to-back risk",
+   "channel": "current",
+   "detail": "Carlisle rests players on back-to-backs, 15 back-to-backs",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:t2",
+    "EGdhmUgPAWY:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "3-4-3 games in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "Good value at ESPN price (ADP about 95), not at Yahoo rank 57",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p17",
+    "EGdhmUgPAWY:p20"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 18 USD, rank 57; ESPN value 4 USD, rank 81",
+   "until": "",
+   "sources": [
+    "stats",
+    "EGdhmUgPAWY:p17"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Last season he cost 20 USD in our league and finished around 96th. The expert has him at 60 to 75 in category leagues, so the 18 USD Yahoo value is too high, while the Yahoo average cost of 8.2 USD is a fair price. He is a FG% and rebounds anchor who fits punt 3PM and punt STL builds, and his FT% is a small drag only because of low volume. Early in the season, check whether Carlisle lets him play more than 30 minutes or splits more time with Jay Huff, and keep in mind Indiana's weak 3-4-3 playoff schedule.",
+ "rejected": []
+}

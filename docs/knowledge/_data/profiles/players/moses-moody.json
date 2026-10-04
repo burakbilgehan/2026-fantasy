@@ -1,0 +1,101 @@
+{
+ "player": {
+  "name": "Moses Moody",
+  "slug": "moses-moody",
+  "pk": 395,
+  "team": "GSW",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "efcf9a7cd2a0",
+ "note_count": 4,
+ "built_at": "2026-10-04T17:43:37+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1448042,
+  "duration_ms": 29620
+ },
+ "current": [
+  {
+   "text": "He has a torn patellar tendon and is out now.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p25",
+    "LXZLrL90crE:p16",
+    "OBwWCxG9SqM:t4",
+    "stats"
+   ]
+  },
+  {
+   "text": "A return in March is likely. One expert would be pleasantly surprised if he returns before March.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p25",
+    "LXZLrL90crE:p16"
+   ]
+  },
+  {
+   "text": "He is not draftable this season.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p25"
+   ]
+  },
+  {
+   "text": "He was playing well before the injury. He ranked 105th after last season's trade deadline.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p25",
+    "xHRF06_E9HE:p44"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He has had knee issues since college.",
+   "kind": "fact",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:p17"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "injured now",
+   "channel": "current",
+   "detail": "Torn patellar tendon, Yahoo status O (Knee); March return likely",
+   "until": "March 2027",
+   "sources": [
+    "MUbNYdjpUDM:p25",
+    "LXZLrL90crE:p16",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "Knee issues since college, now a torn patellar tendon",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:p17",
+    "MUbNYdjpUDM:p25"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Do not draft him in our auction. Both sites value him at 0 USD (Yahoo rank 261, ESPN rank 345), and a March return means he misses most of the season. Last season he showed a useful 3PM and low-TO profile (2.5 3PM, 0.9 TO in 25.7 minutes) and ranked 105th after the deadline. Check his recovery in February and March: if he comes back before our playoffs (weeks 19 to 21), he could be a short waiver pickup. The Warriors may be playing a gap year, so they may not rush him.",
+ "rejected": []
+}

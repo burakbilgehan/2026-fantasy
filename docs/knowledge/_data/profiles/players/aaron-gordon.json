@@ -1,0 +1,216 @@
+{
+ "player": {
+  "name": "Aaron Gordon",
+  "slug": "aaron-gordon",
+  "pk": 201,
+  "team": "DEN",
+  "position": "F,C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "f29e57ea809e",
+ "note_count": 11,
+ "built_at": "2026-10-04T17:21:40+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.12533419999999998,
+  "duration_ms": 28133
+ },
+ "current": [
+  {
+   "text": "Gordon is the projected starting power forward next to Nikola Jokic, Jamal Murray, Christian Braun and Cam Johnson.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:t1"
+   ]
+  },
+  {
+   "text": "Denver's depth behind Gordon at power forward is abysmal.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:t2"
+   ]
+  },
+  {
+   "text": "Denver is expected to be extra cautious with his minutes.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p10"
+   ]
+  },
+  {
+   "text": "Gordon finished 146th in categories last season.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p9"
+   ]
+  },
+  {
+   "text": "Experts disagree on his price. One sees a stable, low-upside pick around round 11. Others rank him tier nine and only worth a look in 14-team leagues, or would avoid him at his Yahoo draft spot of about 112 to 119 because there is no upside there.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p52",
+    "t4n9MAP2_14:p45",
+    "sf6Ga9k-r-Q:p9"
+   ]
+  },
+  {
+   "text": "He should be streamable during the season but carries injury risk.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p10"
+   ]
+  },
+  {
+   "text": "Because he is so often unavailable, he is seen as a possible trade candidate.",
+   "kind": "verdict",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "keNupMSHp1Y:p22"
+   ]
+  },
+  {
+   "text": "His steals are more likely to fall than rise. He converted 77% of deflections into steals, against a 49% average.",
+   "kind": "verdict",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p17"
+   ]
+  },
+  {
+   "text": "Denver plays 43 games through March 28 and has only 14 back-to-backs, one of the lowest counts in the league.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:t4"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He has recurring lower-body soft tissue injuries, including repeated hamstring and calf injuries, two years in a row.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p8",
+    "keNupMSHp1Y:p23",
+    "_vbAP5y182A:p57",
+    "KPdD91Oo8-U:p35"
+   ]
+  },
+  {
+   "text": "He is a low-upside player.",
+   "kind": "verdict",
+   "date": "2026-09-24",
+   "until": "",
+   "sources": [
+    "_vbAP5y182A:p57"
+   ]
+  },
+  {
+   "text": "Steals and blocks are his weak categories for a forward or center. The rest of his line is close to average, with a slight plus in FG%.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "repeated hamstring and calf soft tissue injuries, two years in a row",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p8",
+    "keNupMSHp1Y:p23",
+    "_vbAP5y182A:p57",
+    "KPdD91Oo8-U:p35"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "36 games played in 2025-26",
+   "until": "",
+   "sources": [
+    "stats",
+    "sf6Ga9k-r-Q:p8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt STL fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats",
+    "NYTH7uQsPCM:p17"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt BLK fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "Denver has 14 back-to-backs",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "at a Yahoo draft spot around 112 to 119",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trade risk",
+   "channel": "current",
+   "detail": "seen as a possible trade candidate because of his availability",
+   "until": "",
+   "sources": [
+    "keNupMSHp1Y:p22"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Gordon is a borderline draft pick in our league. He is Yahoo rank 127 with a 1 USD value and ESPN rank 154 with a 0 USD value, and he cost 2 USD in our auction last season. So he is worth a 1 to 2 USD bench bid at most, and only if you are punting steals and blocks, where his average-plus line with a slight FG% edge fits. He played 51 and then 36 games in the last two seasons and Denver may limit his minutes, so check his health and minutes early. If he goes undrafted, keep him as a streamer.",
+ "rejected": []
+}

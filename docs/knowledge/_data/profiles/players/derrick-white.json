@@ -1,0 +1,253 @@
+{
+ "player": {
+  "name": "Derrick White",
+  "slug": "derrick-white",
+  "pk": 595,
+  "team": "BOS",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "3e7517515ae5",
+ "note_count": 14,
+ "built_at": "2026-10-04T17:30:02+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.15594219999999998,
+  "duration_ms": 41332
+ },
+ "current": [
+  {
+   "text": "Jaylen Brown is gone from Boston. Jayson Tatum and Paul George now play alongside White, and George is the clear number two option behind Tatum.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p6",
+    "QbdrhJd7LiA:p15",
+    "Alwse2uXzD4:t1",
+    "J1Eg3uaAICU:t4"
+   ]
+  },
+  {
+   "text": "He is a projected starter at guard in both Boston lineup previews.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t1",
+    "TiiaNZCJNs8:t1"
+   ]
+  },
+  {
+   "text": "Experts expect his usage and time on the ball to drop now that he is the third option.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p6",
+    "QbdrhJd7LiA:p15",
+    "QbdrhJd7LiA:p16",
+    "7BllEsdNLoM:p28"
+   ]
+  },
+  {
+   "text": "He finished 39th in category leagues last season.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p4"
+   ]
+  },
+  {
+   "text": "Experts expect his shooting efficiency to improve, with more catch-and-shoot looks next to Tatum and George, who share the ball more than Brown did. Lower usage is expected to offset most of that gain.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p5",
+    "TiiaNZCJNs8:p15",
+    "ME-r173X5b0:p38",
+    "uarqbNA2dFk:p29",
+    "QbdrhJd7LiA:p16",
+    "7BllEsdNLoM:p28",
+    "-y6p5PYLf00:t2"
+   ]
+  },
+  {
+   "text": "Experts value him at about 40 to 50 in category leagues, a round 4 player. Mock draft picks around 31 and ADPs around 34 to 39 are too early. His ESPN rank in the top 20 makes no sense. He is more likely to fall short of those prices than to reach them.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p11",
+    "Bi1cEM03k9Y:p7",
+    "QbdrhJd7LiA:p15",
+    "QbdrhJd7LiA:p16",
+    "uarqbNA2dFk:p29",
+    "7BllEsdNLoM:p28",
+    "OdDkXFhoKsc:p22"
+   ]
+  },
+  {
+   "text": "Boston has 16 back-to-backs, tied for the most in the league. The experts say this mainly affects Paul George and Mitchell Robinson.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t5",
+    "Bi1cEM03k9Y:t5",
+    "gf_6GveiAls:t0"
+   ]
+  },
+  {
+   "text": "Boston plays 4-3-4 games in our playoff weeks 19 to 21, one game short of the maximum, with three back-to-backs in that window.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t4",
+    "gf_6GveiAls:t0"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He gets blocks at a rate far above other guards, and the experts also count steals as a strength.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p5",
+    "stats"
+   ]
+  },
+  {
+   "text": "FG% is his clear weak category. He takes real volume at a low percentage, so he drags a team's FG% down.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He is worth much more in category leagues than in points leagues.",
+   "kind": "verdict",
+   "date": "2026-08-24",
+   "until": "",
+   "sources": [
+    "g31YlwRe0XQ:p17",
+    "Bi1cEM03k9Y:p4"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "FG% liability",
+   "channel": "durable",
+   "detail": "About 41% projected FG% on about 14 attempts per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt FG fit",
+   "channel": "durable",
+   "detail": "FG% is his only weak category",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "BLK specialist",
+   "channel": "durable",
+   "detail": "Blocks far above other guards",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p5",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "durable",
+   "detail": "Moves from second to third option behind Tatum and George",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p6",
+    "QbdrhJd7LiA:p15",
+    "QbdrhJd7LiA:p16",
+    "7BllEsdNLoM:p28"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bounce-back",
+   "channel": "current",
+   "detail": "FG% expected to recover with more catch-and-shoot looks",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p5",
+    "TiiaNZCJNs8:p15",
+    "ME-r173X5b0:p38",
+    "uarqbNA2dFk:p29"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "At ESPN rank 16 to 17 and ADPs around 31 to 39",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p7",
+    "uarqbNA2dFk:p29",
+    "QbdrhJd7LiA:p15",
+    "QbdrhJd7LiA:p16",
+    "BjXP9JODDSg:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "ESPN value 43 USD and rank 17 vs Yahoo value 26 USD and rank 36",
+   "until": "",
+   "sources": [
+    "stats",
+    "Bi1cEM03k9Y:p7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "age decline watch",
+   "channel": "durable",
+   "detail": "Josh cites age as one reason he will not improve",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p16"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "plays every game",
+   "channel": "durable",
+   "detail": "73 to 77 games in each of the last three seasons",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Experts rank him about 40 to 50 in category leagues. His market prices are higher: ESPN values him at 43 USD and our league paid 30 USD last season. Yahoo's average cost of about 10 USD is the right area to aim for, and a bid near 30 USD repeats last year's overpay. He fits punt FG% builds best because he adds threes, assists, FT% and guard-leading blocks. Early in the season, check whether his FG% climbs back above the 39.4% of last season and how much his shot volume drops behind Tatum and George.",
+ "rejected": []
+}

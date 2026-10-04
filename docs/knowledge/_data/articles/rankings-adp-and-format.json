@@ -1,0 +1,275 @@
+{
+ "slug": "rankings-adp-and-format",
+ "title": "Rankings, ADP and Auction Prices: What to Trust in a 9-Cat League",
+ "type": "topic",
+ "brief": "Why are Yahoo ranks, X-rank, ADP and straight 9-cat total rankings unreliable for our H2H 9-cat league, and how do points-league values leak into our draft room? It must show how to use rank versus market price to find value and when a gap between sites is an opportunity.",
+ "tags": [],
+ "rule_ids": [
+  "_O9pc_u5vH0:r0",
+  "_O9pc_u5vH0:r1",
+  "_O9pc_u5vH0:r6",
+  "aLP080hxizA:r0",
+  "aLP080hxizA:r3",
+  "EGdhmUgPAWY:r2",
+  "EGdhmUgPAWY:r3",
+  "EGdhmUgPAWY:r7",
+  "MUbNYdjpUDM:r0",
+  "sf6Ga9k-r-Q:r0",
+  "NmdNvAz08oE:r5",
+  "QbdrhJd7LiA:r1",
+  "QbdrhJd7LiA:r3",
+  "QbdrhJd7LiA:r4",
+  "egRrai3Ax38:r4",
+  "egRrai3Ax38:r5",
+  "egRrai3Ax38:r6",
+  "egRrai3Ax38:r7",
+  "uarqbNA2dFk:r0",
+  "uarqbNA2dFk:r2",
+  "uarqbNA2dFk:r6",
+  "ahNxsoU8Hx4:r4",
+  "ahNxsoU8Hx4:r5",
+  "ahNxsoU8Hx4:r9",
+  "ahNxsoU8Hx4:r11",
+  "ahNxsoU8Hx4:r12",
+  "gJUBAJaHzlU:r6",
+  "gJUBAJaHzlU:r7",
+  "gJUBAJaHzlU:r9",
+  "gJUBAJaHzlU:r11",
+  "4gw4W4RTolY:r2",
+  "4gw4W4RTolY:r4",
+  "t4n9MAP2_14:r2",
+  "t4n9MAP2_14:r3",
+  "LM0cRCGoAUQ:r2",
+  "LM0cRCGoAUQ:r3",
+  "LM0cRCGoAUQ:r4",
+  "W-R1dzem32s:r5",
+  "J1Eg3uaAICU:r0",
+  "J1Eg3uaAICU:r1",
+  "J1Eg3uaAICU:r2",
+  "J1Eg3uaAICU:r8",
+  "Alwse2uXzD4:r0",
+  "Alwse2uXzD4:r1",
+  "Alwse2uXzD4:r10",
+  "Alwse2uXzD4:r11",
+  "Alwse2uXzD4:r14",
+  "Rqb5GdrSweY:r5",
+  "ya2VYRJ1BN0:r2",
+  "xHRF06_E9HE:r4",
+  "-KS_AZjZnw4:r8",
+  "OdDkXFhoKsc:r4",
+  "3Qm5wLjhvTw:r3",
+  "skKXe2CRl8Q:r0",
+  "skKXe2CRl8Q:r7",
+  "Bi1cEM03k9Y:r6",
+  "RsjGTgJiKyI:r10",
+  "2A2JbUN-kc0:r8",
+  "_vbAP5y182A:r5",
+  "80kfLVnFQ_s:r0",
+  "t4n9MAP2_14:r9"
+ ],
+ "proposed": true,
+ "prompt_sha": "12db90749aa2",
+ "built_at": "2026-10-04T20:18:01+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1490408,
+  "duration_ms": 57255
+ },
+ "player_slugs": [],
+ "summary": "No single public number tells you what a player is worth in our 12-team H2H 9-cat auction. Yahoo X-rank, Yahoo ADP and straight 9-cat total rankings all mix in other formats or use flawed math. Use them to predict what the room will pay, not what a player is worth. Value comes from the gap between a format-matched ranking and the market price, and only when you can explain why that gap exists.",
+ "sections": [
+  {
+   "heading": "Every number has a format attached",
+   "paragraphs": [
+    {
+     "text": "A ranking without a format is useless. The same player can be worth very different amounts in category leagues and points leagues. Labels like sleeper, bust or overrated mean nothing until you know which format they come from. Before you use any rank, ADP or price, check that it was built for H2H categories.",
+     "sources": [
+      "Alwse2uXzD4:r0",
+      "Alwse2uXzD4:r14",
+      "MUbNYdjpUDM:r0",
+      "aLP080hxizA:r0",
+      "J1Eg3uaAICU:r8",
+      "skKXe2CRl8Q:r0",
+      "80kfLVnFQ_s:r0"
+     ]
+    },
+    {
+     "text": "Yahoo is the main trap for us because our draft is on Yahoo. Its X-rank is an expert list that ignores your league format, and the draft room shows it by default. It does not clearly show points value or category value. It often sits somewhere in between. Yahoo ADP follows those ranks, so it carries the same problem. Many drafters do not know why a player is ranked where he is, and they get fooled.",
+     "sources": [
+      "J1Eg3uaAICU:r1",
+      "Alwse2uXzD4:r1",
+      "QbdrhJd7LiA:r1",
+      "QbdrhJd7LiA:r4",
+      "egRrai3Ax38:r4"
+     ]
+    },
+    {
+     "text": "Ranks also differ a lot between Yahoo, ESPN and Fantrax. A player can be a bust on one site and a steal on another. For our room on 2026-10-18, the Yahoo numbers are the ones the other 11 managers will see.",
+     "sources": [
+      "3Qm5wLjhvTw:r3",
+      "J1Eg3uaAICU:r0"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Why straight 9-cat rankings mislead in H2H",
+   "paragraphs": [
+    {
+     "text": "Several experts refuse to value players with straight 9-cat total or per-game rankings. One calls ranking by 9-cat totals the worst way to rank players. The test is simple. By that method Giannis came out around 69th or 70th per game, and nobody believes that. If a player needs a 50-spot adjustment to show his real value, the system is wrong, not the player.",
+     "sources": [
+      "_O9pc_u5vH0:r0",
+      "J1Eg3uaAICU:r2",
+      "sf6Ga9k-r-Q:r0",
+      "ahNxsoU8Hx4:r9",
+      "LM0cRCGoAUQ:r2",
+      "OdDkXFhoKsc:r4"
+     ]
+    },
+    {
+     "text": "You cannot cherry-pick. If you trust one 9-cat list for the players you like, you must accept every result it produces. If you do not believe its odd results, do not lean on any of its numbers.",
+     "sources": [
+      "_O9pc_u5vH0:r1",
+      "4gw4W4RTolY:r2"
+     ]
+    },
+    {
+     "text": "The errors go both ways. 9-cat fluff inflates players who are strong in only a few categories, and those players get overdrafted. The traditional Z-score method that counts turnovers makes some players look better than they are. Full-season totals reward games played, so Reed Sheppard ranked far too high after 82 games. Turner's top-20 finish and Zubac's 9-cat rank are named as ranking flaws. In the other direction, a low 9-cat rank can wrongly push a useful player like Paolo Banchero toward the bench or waivers.",
+     "sources": [
+      "gJUBAJaHzlU:r6",
+      "t4n9MAP2_14:r3",
+      "NmdNvAz08oE:r5",
+      "xHRF06_E9HE:r4",
+      "-KS_AZjZnw4:r8",
+      "LM0cRCGoAUQ:r3",
+      "W-R1dzem32s:r5",
+      "ya2VYRJ1BN0:r2"
+     ]
+    },
+    {
+     "text": "H2H changes the math too. For head-to-head leagues, some players' real value is far from what season totals show. One expert's H2H system pushes centers down. In his view you want to max out games played, so low turnovers matter less, and box-score values overrate blocks, steals and some percentages. One-category specialists can look top 100 when a ranking punts their weak categories. With 144 players drafted in a standard build, that does not make them worth a roster spot.",
+     "sources": [
+      "aLP080hxizA:r3",
+      "t4n9MAP2_14:r2",
+      "EGdhmUgPAWY:r7"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "How points-league value leaks into our draft room",
+   "paragraphs": [
+    {
+     "text": "Yahoo ADP mixes points drafts and category drafts. Players valued for points can show up high in category rooms and at the top of autodraft queues. If any manager in our league autodrafts or follows the default list, expect points-league players to go early.",
+     "sources": [
+      "uarqbNA2dFk:r2",
+      "Alwse2uXzD4:r10",
+      "QbdrhJd7LiA:r3",
+      "LM0cRCGoAUQ:r4"
+     ]
+    },
+    {
+     "text": "The profile to watch is the high-usage volume scorer with weak defensive stats and lower efficiency. Usage tracks points-league value closely but category success much less. Such a player can be top 10 in points leagues and only a third-rounder in categories. Do not pay early-round money for value that comes mostly from points. A price that is fine in points can be too high for us. Value each format separately.",
+     "sources": [
+      "Alwse2uXzD4:r11",
+      "2A2JbUN-kc0:r8",
+      "Rqb5GdrSweY:r5",
+      "RsjGTgJiKyI:r10",
+      "_vbAP5y182A:r5",
+      "4gw4W4RTolY:r4"
+     ]
+    },
+    {
+     "text": "The leak also works the other way. Players who are better in categories than in points can be ranked or drafted as if they were points players. Target them when the site prices them for the other format.",
+     "sources": [
+      "egRrai3Ax38:r6",
+      "EGdhmUgPAWY:r3"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Rank versus price: how to find value",
+   "paragraphs": [
+    {
+     "text": "Keep two numbers apart. A format-matched ranking or projection tells you how good a player is. ADP or the market price tells you when he will likely be available, or what he will cost. One expert's example: if you rank a player 30th and his ADP is 70th, take him in the 50s. You do not have to pay full value, just enough to beat the market. In our auction, apply the same logic. When your 9-cat H2H value is clearly above the expected price, bid past the market but stop short of your full value.",
+     "sources": [
+      "skKXe2CRl8Q:r7"
+     ]
+    },
+    {
+     "text": "Use auction data for an auction. Yahoo auction prices currently differ a lot from snake ADP, so do not turn a snake pick into a dollar figure. Remember that ADP is an average, not a median. A player with ADP 50 goes after pick 50 in about half of drafts, so he can often go earlier than the number suggests. Expect the same spread around an average auction price, and do not plan your budget on a player falling to his average.",
+     "sources": [
+      "gJUBAJaHzlU:r9",
+      "ahNxsoU8Hx4:r5",
+      "gJUBAJaHzlU:r7"
+     ]
+    },
+    {
+     "text": "Use Yahoo ranks as a baseline for where the market will go, not as your value. Rank and ADP feed each other. When Yahoo moves a rank back, ADP drifts later too. ADP also tends to follow last season. Do not wait for a site to fix a strange ADP. ADPs are not set by a person. They update every day from real drafts. Check the room on draft day, because some leagues follow ranks, some follow ADP and some go rogue.",
+     "sources": [
+      "J1Eg3uaAICU:r0",
+      "ahNxsoU8Hx4:r4",
+      "Bi1cEM03k9Y:r6",
+      "uarqbNA2dFk:r6",
+      "egRrai3Ax38:r7",
+      "uarqbNA2dFk:r0"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "When a gap between sites is an opportunity",
+   "paragraphs": [
+    {
+     "text": "A gap is an opportunity only when you can explain it, and the explanation favors 9-cat H2H. The clearest case is a format gap: the site prices the player for points, but he is better in categories. Another is when players with similar category profiles, such as rebounds, blocks and FG%, have huge ADP gaps between them. That is a market inefficiency, so buy the cheaper one.",
+     "sources": [
+      "egRrai3Ax38:r6",
+      "Alwse2uXzD4:r10",
+      "t4n9MAP2_14:r9"
+     ]
+    },
+    {
+     "text": "When ESPN ADP is far later than a player's rank, drafters are passing on him round after round. That is a signal to grab him. Convert first. ESPN default leagues use 10 teams and 8 categories, so its ranks do not map directly onto our 12-team 9-cat format.",
+     "sources": [
+      "ahNxsoU8Hx4:r11",
+      "ahNxsoU8Hx4:r12"
+     ]
+    },
+    {
+     "text": "Ignore gaps that come from bad data. A Yahoo ADP built on very few drafts can be inflated. Some Yahoo ADPs are distorted by dynasty leagues where the player is drafted in only a small share of leagues. A gap driven by 9-cat fluff is not value either. It is the trap described above.",
+     "sources": [
+      "_O9pc_u5vH0:r6",
+      "gJUBAJaHzlU:r11",
+      "t4n9MAP2_14:r3"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Where the experts disagree",
+   "paragraphs": [
+    {
+     "text": "The experts disagree on whether Yahoo ranks change with your league. One says the draft room's X-rank ignores format, but a separate 'rank' column is built from projections and changes with your league settings. Another says Yahoo ranks and ADPs are the same for every format and do not change with your settings. A third says Yahoo ranks some players for categories and others for points. Before 2026-10-18, open our draft room and check whether the 'rank' column moves when settings change. Until you confirm it, treat every Yahoo number as format-blind.",
+     "sources": [
+      "J1Eg3uaAICU:r1",
+      "egRrai3Ax38:r4",
+      "egRrai3Ax38:r5"
+     ]
+    },
+    {
+     "text": "They also differ on how much weight Yahoo ranks deserve. One side says Yahoo drives ADP in mocks and real drafts, so use it as your baseline. The other side says Yahoo ranks fit no format, and many drafters get fooled by them. Both views fit together if you use Yahoo to predict prices and a format-matched list to set your own values.",
+     "sources": [
+      "J1Eg3uaAICU:r0",
+      "QbdrhJd7LiA:r1",
+      "QbdrhJd7LiA:r4"
+     ]
+    }
+   ]
+  }
+ ],
+ "players": [],
+ "excluded": [],
+ "rejected": []
+}

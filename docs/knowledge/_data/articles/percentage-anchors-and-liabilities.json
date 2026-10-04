@@ -1,0 +1,345 @@
+{
+ "slug": "percentage-anchors-and-liabilities",
+ "title": "FG% and FT% Anchors and Liabilities",
+ "type": "compilation",
+ "brief": "Which players move our team FG% and FT% most, up or down, given their shot volume? It must note that percentages are team ratios driven by attempts and that FT% is the least stable category year to year.",
+ "tags": [
+  "FG% anchor",
+  "FT% anchor",
+  "FT% liability",
+  "FG% liability"
+ ],
+ "rule_ids": [
+  "aLP080hxizA:r11",
+  "0geFVzSqOnA:r10",
+  "-y6p5PYLf00:r1",
+  "-y6p5PYLf00:r2",
+  "W-R1dzem32s:r7",
+  "8d--aL_xxwE:r10",
+  "-y6p5PYLf00:r12"
+ ],
+ "proposed": true,
+ "prompt_sha": "12db90749aa2",
+ "built_at": "2026-10-04T20:19:41+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.2431528,
+  "duration_ms": 66931
+ },
+ "player_slugs": [
+  "alperen-sengun",
+  "ausar-thompson",
+  "austin-reaves",
+  "damian-lillard",
+  "daniel-gafford",
+  "dereck-lively",
+  "derrick-white",
+  "devin-booker",
+  "domantas-sabonis",
+  "evan-mobley",
+  "fred-vanvleet",
+  "giannis-antetokounmpo",
+  "ivica-zubac",
+  "jakob-poeltl",
+  "jalen-duren",
+  "jalen-green",
+  "james-harden",
+  "jarrett-allen",
+  "joel-embiid",
+  "jonathan-kuminga",
+  "jusuf-nurkic",
+  "lamelo-ball",
+  "lauri-markkanen",
+  "mark-williams",
+  "mitchell-robinson",
+  "nic-claxton",
+  "nikola-jokic",
+  "oso-ighodaro",
+  "rj-barrett",
+  "rudy-gobert",
+  "ryan-kalkbrenner",
+  "shai-gilgeous-alexander",
+  "stephen-curry",
+  "trae-young",
+  "walker-kessler",
+  "zach-edey",
+  "zion-williamson"
+ ],
+ "summary": "FG% and FT% are team ratios, so the players who move them most are the ones who take many shots far from your team's average, not the ones with the best percentages. FT% is the least stable category from one year to the next, so price free throw shooting on regressed norms, not last season's spikes. Pick one percentage to build around at the auction instead of trying to barely win both.",
+ "sections": [
+  {
+   "heading": "Attempts decide the impact",
+   "paragraphs": [
+    {
+     "text": "In our league FG% and FT% are team ratios: total makes divided by total attempts. A player's pull on that ratio comes from two things. One is how many shots he takes. The other is how far his percentage is from your team's. A great shooter on few attempts barely moves the number. A good shooter on heavy volume moves it a lot. Good efficiency on low volume does not matter much. So when you rank anchors and liabilities, check the attempts first and the percentage second.",
+     "sources": [
+      "W-R1dzem32s:r7"
+     ]
+    },
+    {
+     "text": "Shooting categories are rate stats with no floor. A high-volume bad shooter keeps dragging your team down every game he plays, and a lead in the category can disappear on the last day of a matchup. In weeks when your team takes fewer shots, each miss counts for more and results swing more. Since we set lineups daily, check on the final day of a close week whether a high-volume poor shooter should sit to protect a narrow lead.",
+     "sources": [
+      "-y6p5PYLf00:r1",
+      "aLP080hxizA:r11"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "FT% is the least stable category",
+   "paragraphs": [
+    {
+     "text": "Regress shooting percentages before you trust a projection. Year-to-year correlations are 0.53 for two-point percentage, 0.52 for true shooting, 0.49 for free throw percentage and 0.45 for three-point percentage. Free throw percentage is now the least stable of the standard fantasy categories. A second note agrees: FT% varies most from year to year, while FG% varies most from game to game and week to week.",
+     "sources": [
+      "8d--aL_xxwE:r10",
+      "aLP080hxizA:r11"
+     ]
+    },
+    {
+     "text": "Unexpected free throw swings, up or down, usually do not last. They drift back toward the player's norm, and you cannot predict them. At the auction, do not pay extra for a player whose FT% jumped last season, and do not write off a player whose FT% fell. Describe a weak shooter by how he shot last season, not as a fixed fact. Only extreme cases are near certain, such as Giannis at the free throw line.",
+     "sources": [
+      "-y6p5PYLf00:r12",
+      "-y6p5PYLf00:r2",
+      "player:giannis-antetokounmpo"
+     ]
+    },
+    {
+     "text": "The notes do not disagree here, but they point at different time frames. Use FT% stability as a draft-day question: regress it and pay for the norm. Treat FG% as a weekly question: it is noisy week to week, so one bad week from a good-volume FG% anchor is not a reason to drop or trade him.",
+     "sources": [
+      "aLP080hxizA:r11",
+      "8d--aL_xxwE:r10"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Build around one percentage, not both",
+   "paragraphs": [
+    {
+     "text": "Being strong in both FG% and FT% is very hard. Barely winning both is fragile, and spending resources on it leaves you short in other categories. With 200 USD and 12 roster spots, decide early in the auction which percentage you will anchor. Big men who score inside tend to help FG% and hurt FT%. Volume guards who shoot threes tend to help FT% and hurt FG%. The player tiers below show that split.",
+     "sources": [
+      "0geFVzSqOnA:r10"
+     ]
+    },
+    {
+     "text": "A punt FT% build is the clearest example. Giannis is near certain to hurt FT% at the line, and he is the anchor of a punt FT% build carried by his FG%, points and rebounds. Once you own him, poor free throw shooters lose most of their cost to you, and you can buy them where other managers mark them down. If you go the other way, high-volume guards with poor FG% become bargains for the same reason.",
+     "sources": [
+      "-y6p5PYLf00:r2",
+      "player:giannis-antetokounmpo",
+      "0geFVzSqOnA:r10"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What to check after the draft",
+   "paragraphs": [
+    {
+     "text": "In the first weeks, compare each anchor's and liability's attempts with his projection. Volume sets the size of his effect, so a minutes or usage change matters more than a few hot or cold shooting nights. Do not trade for an early FT% hot streak or sell an early FT% slump, because those swings drift back and cannot be predicted.",
+     "sources": [
+      "W-R1dzem32s:r7",
+      "-y6p5PYLf00:r12"
+     ]
+    },
+    {
+     "text": "For the playoffs in weeks 19 to 21, ending 2027-03-28, remember that low-volume weeks make percentages less safe. If your team is on the edge in a percentage you did not punt, use the trade deadline on 2027-03-04 to add volume in the direction you need, or to move a high-volume liability that is costing you.",
+     "sources": [
+      "aLP080hxizA:r11",
+      "-y6p5PYLf00:r1",
+      "0geFVzSqOnA:r10"
+     ]
+    }
+   ]
+  }
+ ],
+ "players": [
+  {
+   "slug": "shai-gilgeous-alexander",
+   "tier": "Two-way anchor",
+   "line": "He is the rare player who helps both percentages on real volume, about 54% FG on about 20 attempts and about 88% FT on about 9."
+  },
+  {
+   "slug": "nikola-jokic",
+   "tier": "High-volume FG% anchor",
+   "line": "About 57% on about 18 attempts makes him one of the biggest positive FG% movers on the list."
+  },
+  {
+   "slug": "jalen-duren",
+   "tier": "High-volume FG% anchor",
+   "line": "About 65% on 11 or more attempts gives him a large FG% pull for a center."
+  },
+  {
+   "slug": "domantas-sabonis",
+   "tier": "High-volume FG% anchor",
+   "line": "About 58% on about 12.5 attempts makes him a steady FG% lift from the C spot."
+  },
+  {
+   "slug": "giannis-antetokounmpo",
+   "tier": "Mixed impact",
+   "line": "About 62% FG on high volume is a huge plus, but about 64% FT on 10 to 11 attempts is one of the biggest FT% drags, so he anchors punt FT% builds."
+  },
+  {
+   "slug": "zion-williamson",
+   "tier": "Mixed impact",
+   "line": "About 59% FG on about 15 attempts helps a lot, while about 70% FT on about 7.6 attempts hurts, so he fits punt FT% builds."
+  },
+  {
+   "slug": "walker-kessler",
+   "tier": "Mixed impact",
+   "line": "About 65% FG on 7 to 8 attempts helps, but a projected 59% FT is a drag outside punt FT% builds."
+  },
+  {
+   "slug": "rudy-gobert",
+   "tier": "Mixed impact",
+   "line": "About 67% FG on 6.5 to 7 attempts helps, but he shot 52.6% FT last season, so he belongs on punt FT% teams."
+  },
+  {
+   "slug": "trae-young",
+   "tier": "Mixed impact",
+   "line": "About 86% FT on 7 attempts helps, but about 42% FG on 17 attempts is a big FG% drag, so he fits punt FG% builds."
+  },
+  {
+   "slug": "austin-reaves",
+   "tier": "FT% anchor",
+   "line": "About 87% FT on about 7 attempts makes him a solid FT% lift."
+  },
+  {
+   "slug": "devin-booker",
+   "tier": "FT% anchor",
+   "line": "About 88% FT on 7 to 8 attempts makes him one of the stronger FT% movers."
+  },
+  {
+   "slug": "james-harden",
+   "tier": "FT% anchor",
+   "line": "About 88% FT on real volume suits punt FG% builds that want FT% and assists."
+  },
+  {
+   "slug": "joel-embiid",
+   "tier": "FT% anchor",
+   "line": "About 86% FT on 8 to 9 attempts is rare FT% volume from a center, but projections only have him at 49 to 54 games."
+  },
+  {
+   "slug": "stephen-curry",
+   "tier": "FT% anchor",
+   "line": "About 92.6% FT is elite, but on 4.7 attempts his pull is smaller than the percentage suggests."
+  },
+  {
+   "slug": "lauri-markkanen",
+   "tier": "FT% anchor",
+   "line": "About 89% FT on 5 or more attempts helps almost any build."
+  },
+  {
+   "slug": "damian-lillard",
+   "tier": "FT% anchor",
+   "line": "About 92% FT on 4 to 6 attempts is a useful lift for punt FG% builds if he stays healthy."
+  },
+  {
+   "slug": "derrick-white",
+   "tier": "FG% liability",
+   "line": "About 41% projected FG on about 14 attempts hurts, so he fits punt FG% builds where his FT% and threes count."
+  },
+  {
+   "slug": "lamelo-ball",
+   "tier": "FG% liability",
+   "line": "About 41% on about 19 attempts makes him one of the largest FG% drags, so he belongs in punt FG% builds."
+  },
+  {
+   "slug": "jalen-green",
+   "tier": "FG% liability",
+   "line": "About 42% on 17 to 19 attempts is a heavy FG% drag that only punt FG% builds can absorb."
+  },
+  {
+   "slug": "fred-vanvleet",
+   "tier": "FG% liability",
+   "line": "A projected 39.4% FG makes him a punt FG% piece only."
+  },
+  {
+   "slug": "alperen-sengun",
+   "tier": "FT% liability",
+   "line": "About 69% FT on 5.5 attempts is a real drag, so he fits punt FT% builds."
+  },
+  {
+   "slug": "evan-mobley",
+   "tier": "FT% liability",
+   "line": "He shot about 61% FT on 4.6 attempts last season, so he fits punt FT% builds unless his FT% recovers."
+  },
+  {
+   "slug": "ausar-thompson",
+   "tier": "FT% liability",
+   "line": "Below 60% FT makes him a punt FT% target where his steals count fully."
+  },
+  {
+   "slug": "rj-barrett",
+   "tier": "FT% liability",
+   "line": "About 68.7% FT on about 4.6 attempts is a real-volume drag for a scorer."
+  },
+  {
+   "slug": "jonathan-kuminga",
+   "tier": "FT% liability",
+   "line": "A projected 69% FT makes him a fit only for punt FT% teams that need points."
+  },
+  {
+   "slug": "nic-claxton",
+   "tier": "FT% liability",
+   "line": "About 59% FT projected fits a punt FT% build, where his FG% and blocks matter."
+  },
+  {
+   "slug": "jusuf-nurkic",
+   "tier": "FT% liability",
+   "line": "About 61% FT in projections hurts outside punt FT% builds."
+  },
+  {
+   "slug": "mitchell-robinson",
+   "tier": "FT% liability",
+   "line": "About 42% FT projected is among the worst FT impacts, so he only fits punt FT% builds."
+  },
+  {
+   "slug": "jarrett-allen",
+   "tier": "Moderate-volume FG% helper",
+   "line": "A projected 66% FG makes him a reliable FG% lift for a mid-level center."
+  },
+  {
+   "slug": "ivica-zubac",
+   "tier": "Moderate-volume FG% helper",
+   "line": "About 62% on 10 attempts helps FG%, and his weak FT% is only a small drag because his volume is low."
+  },
+  {
+   "slug": "zach-edey",
+   "tier": "Moderate-volume FG% helper",
+   "line": "About 61% on 9 to 10 attempts adds FG% if his ankle clears."
+  },
+  {
+   "slug": "daniel-gafford",
+   "tier": "Moderate-volume FG% helper",
+   "line": "About 69% FG projected is a late FG% lift, and his volume depends on starting early."
+  },
+  {
+   "slug": "jakob-poeltl",
+   "tier": "Moderate-volume FG% helper",
+   "line": "About 66% projected FG on moderate volume makes him a cheap FG% anchor near the end of the draft."
+  },
+  {
+   "slug": "dereck-lively",
+   "tier": "Low volume, small effect",
+   "line": "About 72% FG projected comes on low volume, and he is out until around Thanksgiving, so he is a waiver watch."
+  },
+  {
+   "slug": "ryan-kalkbrenner",
+   "tier": "Low volume, small effect",
+   "line": "About 75% FG on only about 4 attempts shows why efficiency on low volume barely moves a team ratio."
+  },
+  {
+   "slug": "oso-ighodaro",
+   "tier": "Low volume, small effect",
+   "line": "A sub-50% FT on about 1.5 attempts does little damage, and he is a FAB watch, not a draft target."
+  }
+ ],
+ "excluded": [
+  {
+   "slug": "mark-williams",
+   "reason": "His return is expected around mid to late March, so he cannot anchor a team percentage over our season and is not a draft candidate."
+  }
+ ],
+ "rejected": []
+}

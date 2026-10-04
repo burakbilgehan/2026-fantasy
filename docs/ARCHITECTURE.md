@@ -47,6 +47,7 @@ docs/
   - `player_minutes_projections` (T-026): minutes per game from sources without a full stat line (DARKO: no GP; FantasyPros: no shot attempts). Other source fields in `extra`. ESPN minutes stay in `player_projections.min`.
   - `depth_charts` (T-026): one row per player per team slot (source, team, slot, tier `depth`, list `order`, `player_pk` or null). A sync replaces the source's rows.
   - `team_win_totals` (T-026): season win total line per NBA team.
+  - `knowledge_tags` (T-022, migration 0008): one row per tag on a player or team profile, after the tag registry and the category check. Rebuilt from the profile JSON on every `make knowledge-run`.
   - `sync_runs`: one row per refresh job run (see "Automatic refresh").
   - `player_market_values`: values a source publishes (Yahoo auction value, average cost, ADP, rank, eligible positions, injury).
   - Values computed by our models get their own table, added with T-010. They never go into the tables above.

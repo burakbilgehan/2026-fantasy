@@ -1,0 +1,286 @@
+{
+ "team": "PHI",
+ "prompt_version": 1,
+ "prompt_sha": "07b4ed7fd28e",
+ "input_sha": "36e877ba7f68",
+ "note_count": 21,
+ "built_at": "2026-10-04T20:00:28+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1716538,
+  "duration_ms": 51959
+ },
+ "current": [
+  {
+   "text": "Projected starting five: Tyrese Maxey, VJ Edgecombe, Jaylen Brown, LeBron James and Joel Embiid.",
+   "kind": "fact",
+   "date": "2026-08-06",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t0",
+    "stats"
+   ]
+  },
+  {
+   "text": "The roster turned over a lot. New players are Jaylen Brown, LeBron James, Dean Wade, Kentavious Caldwell-Pope, Ariel Hukporti and Anfernee Simons. Paul George, Kelly Oubre, Quentin Grimes and Andre Drummond are gone.",
+   "kind": "fact",
+   "date": "2026-08-06",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t1",
+    "stats"
+   ]
+  },
+  {
+   "text": "Maxey, Embiid, LeBron and Brown will cut into each other's usage. There are not enough shots for all four.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:t10",
+    "8d--aL_xxwE:t0",
+    "LM0cRCGoAUQ:t2",
+    "7BllEsdNLoM:t3",
+    "Rqb5GdrSweY:t9"
+   ]
+  },
+  {
+   "text": "Jaylen Brown and Tyrese Maxey cannot both stay top five scorers on the same team.",
+   "kind": "verdict",
+   "date": "2026-07-07",
+   "until": "",
+   "sources": [
+    "ME-r173X5b0:t1"
+   ]
+  },
+  {
+   "text": "Embiid starts the season healthy.",
+   "kind": "fact",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:t3",
+    "gerS7ibpaJo:t4"
+   ]
+  },
+  {
+   "text": "Embiid is still expected to miss games, and LeBron is expected to sit games. The stars should get load management.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:t5",
+    "gTsfR5PxAMY:t4"
+   ]
+  },
+  {
+   "text": "Jaylen Brown's usage will move with Embiid's and LeBron's health. He may get more minutes when they sit.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:t7",
+    "ahNxsoU8Hx4:t5"
+   ]
+  },
+  {
+   "text": "New guards, Anfernee Simons among them, should cut Maxey's minutes.",
+   "kind": "verdict",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:t1"
+   ]
+  },
+  {
+   "text": "The new stars cut into VJ Edgecombe's role and usage.",
+   "kind": "verdict",
+   "date": "2026-09-04",
+   "until": "",
+   "sources": [
+    "gerS7ibpaJo:t4",
+    "Rqb5GdrSweY:t9"
+   ]
+  },
+  {
+   "text": "The guard rotation is crowded. Maxey and Edgecombe are ahead of rookie Labaron Philon, which limits his value.",
+   "kind": "verdict",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:t3",
+    "CLsUc0Sevos:t6"
+   ]
+  },
+  {
+   "text": "Without Andre Drummond, backup center and rebounding are the team's biggest weaknesses. Adem Bona is the backup center on the depth chart.",
+   "kind": "verdict",
+   "date": "2026-08-06",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t3",
+    "stats"
+   ]
+  },
+  {
+   "text": "The team should be one of the league's best, at about 51 to 52 wins. The win total is 50.5, rank 5 of 30. So the risk of tanking is low.",
+   "kind": "verdict",
+   "date": "2026-08-06",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t4",
+    "stats"
+   ]
+  },
+  {
+   "text": "Expect growing pains in October and November while the new stars fit together.",
+   "kind": "verdict",
+   "date": "2026-08-06",
+   "until": "November 2026",
+   "sources": [
+    "gTsfR5PxAMY:t4"
+   ]
+  },
+  {
+   "text": "The team has 13 back-to-backs, the fewest in the league. That lowers the overall rest risk for its stars.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t8",
+    "stats"
+   ]
+  },
+  {
+   "text": "The fantasy playoffs have 11 games, rank 4 of 30. Week 19 has only 3 games, and weeks 20 and 21 each have a back-to-back.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t8",
+    "stats"
+   ]
+  },
+  {
+   "text": "Embiid and LeBron are both rest risks, so the playoff back-to-backs may cost games from them even though total playoff volume is high.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t8",
+    "ahNxsoU8Hx4:t5",
+    "gTsfR5PxAMY:t4",
+    "stats"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Nick Nurse plays his starters very heavy minutes, and his guards especially.",
+   "kind": "fact",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t2",
+    "7BllEsdNLoM:t2",
+    "W-R1dzem32s:t7",
+    "TOn-D1SV7a8:t3"
+   ]
+  },
+  {
+   "text": "Heavy starter minutes leave little playing time for bench players and rookies.",
+   "kind": "verdict",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:t3"
+   ]
+  },
+  {
+   "text": "Nurse mixes and staggers lineups when things do not fit.",
+   "kind": "fact",
+   "date": "2026-08-06",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t2"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "heavy starter minutes",
+   "channel": "durable",
+   "detail": "Nick Nurse plays starters, and guards especially, very heavy minutes. That limits bench and rookie value.",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t2",
+    "7BllEsdNLoM:t2",
+    "W-R1dzem32s:t7",
+    "TOn-D1SV7a8:t3"
+   ],
+   "new_meaning": "The coach plays his starters heavy minutes, which raises starters' value and limits bench players."
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Maxey, Embiid, LeBron and Brown share the ball. Edgecombe's role is squeezed too.",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:t10",
+    "8d--aL_xxwE:t0",
+    "LM0cRCGoAUQ:t2",
+    "7BllEsdNLoM:t3",
+    "Rqb5GdrSweY:t9",
+    "gerS7ibpaJo:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "load management",
+   "channel": "durable",
+   "detail": "Load management expected for the stars. Embiid should miss games and LeBron should sit games.",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t4",
+    "ahNxsoU8Hx4:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13 back-to-backs, fewest in the league.",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t8",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "11 games in weeks 19 to 21 (rank 4). Week 19 has only 3 games, and weeks 20 and 21 each have a back-to-back, which matters for rest-prone Embiid and LeBron.",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t8",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "contender",
+   "channel": "current",
+   "detail": "Win total 50.5 (rank 5), projected about 51 to 52 wins.",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t4",
+    "stats"
+   ],
+   "new_meaning": "Projected among the league's best teams, so the risk of tanking or late-season shutdowns is low."
+  }
+ ],
+ "note": "Philadelphia has four stars (Maxey, Embiid, LeBron, Brown), so usage is crowded. Maxey and Edgecombe lose the most, and rookie Philon and the bench guards are hard to trust under Nurse's heavy starter minutes. Brown gains whenever Embiid or LeBron sits. Early on, watch how often Embiid and LeBron rest and whether the October and November growing pains shrink Maxey's shots.",
+ "rejected": []
+}

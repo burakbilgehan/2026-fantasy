@@ -1,0 +1,150 @@
+{
+ "player": {
+  "name": "Jaime Jaquez Jr.",
+  "slug": "jaime-jaquez",
+  "pk": 271,
+  "team": "MIL",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "9610ce0ac561",
+ "note_count": 4,
+ "built_at": "2026-10-04T17:33:25+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1168342,
+  "duration_ms": 25469
+ },
+ "current": [
+  {
+   "text": "He moved from Miami to Milwaukee in the Giannis Antetokounmpo trade.",
+   "kind": "fact",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p16",
+    "nnWX_ObljOE:t1"
+   ]
+  },
+  {
+   "text": "Milwaukee's power forward group is very thin. He is listed as a projected starter next to Rollins, Herro, Ware and Turner.",
+   "kind": "fact",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p15",
+    "owlM6b8oUd0:t1",
+    "owlM6b8oUd0:t2"
+   ]
+  },
+  {
+   "text": "He is expected to start at forward and play some minutes at the 3 and the 4.",
+   "kind": "verdict",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p15",
+    "nnWX_ObljOE:p16"
+   ]
+  },
+  {
+   "text": "He is seen as the former Miami player most likely to be traded before the season, possibly to Denver. A trade could change his role.",
+   "kind": "verdict",
+   "date": "2026-08-14",
+   "until": "start of the season",
+   "sources": [
+    "owlM6b8oUd0:p15"
+   ]
+  },
+  {
+   "text": "Much of his production last season came while two or three Miami players were out, Herro among them. Herro is now his teammate in Milwaukee.",
+   "kind": "fact",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p15",
+    "7BllEsdNLoM:t0"
+   ]
+  },
+  {
+   "text": "Milwaukee's rotation is crowded and the experts cannot work out how the minutes will be split.",
+   "kind": "fact",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:t1",
+    "OdDkXFhoKsc:t1",
+    "owlM6b8oUd0:t0"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "One expert rates him as a low-end player, at best a sixth man, with bad shooting. In his view he needs opportunity and usage to produce.",
+   "kind": "verdict",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p14"
+   ]
+  },
+  {
+   "text": "He makes few threes for a wing. Threes are his weakest category for his position.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "Traded from Miami to Milwaukee in the Giannis deal",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p16",
+    "nnWX_ObljOE:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trade risk",
+   "channel": "current",
+   "detail": "Seen as the former Miami player most likely to be moved before the season, possibly to Denver",
+   "until": "start of the season",
+   "sources": [
+    "owlM6b8oUd0:p15"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Crowded Milwaukee rotation, but the thin power forward group helps his path to a starting job",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:t1",
+    "OdDkXFhoKsc:t1",
+    "owlM6b8oUd0:p15"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt 3PM fit",
+   "channel": "durable",
+   "detail": "About 0.9 threes per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites rank him at the edge of our 144-player pool (Yahoo 140, ESPN 148), with prices of about 1 USD. That makes him a last-dollar pick or a waiver option, best suited to punt 3PM builds that want FG%, assists and rebounds from a wing. The sites disagree on his efficiency: Yahoo projects 54.2% FG and 1.0 TO, while ESPN projects 50.2% and 1.9. Early in the season, check whether he starts at forward and whether he is traded.",
+ "rejected": []
+}

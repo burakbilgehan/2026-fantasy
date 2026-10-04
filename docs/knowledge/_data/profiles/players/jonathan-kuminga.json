@@ -1,0 +1,191 @@
+{
+ "player": {
+  "name": "Jonathan Kuminga",
+  "slug": "jonathan-kuminga",
+  "pk": 320,
+  "team": "MIN",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "6fa62de43ac2",
+ "note_count": 12,
+ "built_at": "2026-10-04T17:36:48+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.13799820000000002,
+  "duration_ms": 33959
+ },
+ "current": [
+  {
+   "text": "He signed with Minnesota and is reported to be starting for the Wolves.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p13",
+    "sTtFUy7IoJI:t1",
+    "ZYllcj4o6_A:p37"
+   ]
+  },
+  {
+   "text": "He was reportedly promised a starting spot, but that spot may not last all season.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p37"
+   ]
+  },
+  {
+   "text": "He should get more minutes and chances in Minnesota, about 28 to 29 minutes a night.",
+   "kind": "verdict",
+   "date": "2026-08-30",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p15",
+    "Alwse2uXzD4:p20"
+   ]
+  },
+  {
+   "text": "His usage should drop next to Anthony Edwards, LaMelo Ball and Jaden McDaniels, but stay above 20.",
+   "kind": "verdict",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p15"
+   ]
+  },
+  {
+   "text": "Experts call him overvalued at a price near rank 50. He is not a round 4 player, and his drop in efficiency should stick because he will not play close enough to the basket to get his FG% and blocks back.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p20",
+    "uarqbNA2dFk:p30"
+   ]
+  },
+  {
+   "text": "Minnesota has a two-game week in the matchup that starts March 15, which falls inside our fantasy playoffs.",
+   "kind": "fact",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t14",
+    "2mxpEpGU3H8:t4",
+    "J1Eg3uaAICU:t0",
+    "QbdrhJd7LiA:t4"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a scorer and does little else. He is worth more in points leagues than in category leagues.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "dlo7L8Ru91A:p49",
+    "Alwse2uXzD4:p21",
+    "sTtFUy7IoJI:p16"
+   ]
+  },
+  {
+   "text": "He is poor in steals, blocks and assists and is not a strong rebounder.",
+   "kind": "fact",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "dlo7L8Ru91A:p49",
+    "Alwse2uXzD4:p21",
+    "sTtFUy7IoJI:p14"
+   ]
+  },
+  {
+   "text": "FT% is his clear weak category. He also sometimes struggles with three-point percentage.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats",
+    "dlo7L8Ru91A:p49",
+    "Alwse2uXzD4:p21",
+    "sTtFUy7IoJI:p14"
+   ]
+  },
+  {
+   "text": "One expert does not like him as a player and thinks he is lazy on defense.",
+   "kind": "verdict",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p12"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "Signed with Minnesota",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p13"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "Expected starter, projected 28 to 29 minutes",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p15",
+    "Alwse2uXzD4:p20",
+    "sTtFUy7IoJI:p13"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "FT% liability",
+   "channel": "durable",
+   "detail": "Projected about 69% FT",
+   "until": "",
+   "sources": [
+    "stats",
+    "dlo7L8Ru91A:p49",
+    "sTtFUy7IoJI:p14"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "points league player",
+   "channel": "durable",
+   "detail": "Scoring-only profile, tier 6 in points vs tier 8 in categories",
+   "until": "",
+   "sources": [
+    "dlo7L8Ru91A:p49",
+    "sTtFUy7IoJI:p16",
+    "Alwse2uXzD4:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "Minnesota two-game week starting March 15 (our week 20)",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t14",
+    "2mxpEpGU3H8:t4",
+    "J1Eg3uaAICU:t0",
+    "QbdrhJd7LiA:t4"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "The market has cooled on him: Yahoo has him at rank 129 for about 1 USD and ESPN at rank 185, which puts him at or below the last of our 144 roster spots. He cost 1 USD in our auction last season. In 9-cat he is a points-first forward with a clear FT% drag and weak defensive stats, so he fits only a punt FT% team that needs scoring, and Minnesota's two-game week in our playoffs lowers his value further. He is a 1 USD bench pick at most. Early in the season, check whether he keeps the starting job and the 28 or so minutes that ESPN's bigger projection (15.1 points) depends on.",
+ "rejected": []
+}

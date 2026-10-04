@@ -1,0 +1,127 @@
+{
+ "player": {
+  "name": "Mike Conley",
+  "slug": "mike-conley",
+  "pk": 113,
+  "team": "BOS",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "04c7d85d7126",
+ "note_count": 3,
+ "built_at": "2026-10-04T17:42:57+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1543974,
+  "duration_ms": 31818
+ },
+ "current": [
+  {
+   "text": "He signed with Boston on a minimum contract as veteran point guard help.",
+   "kind": "fact",
+   "date": "2026-07-30",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:p26",
+    "TiiaNZCJNs8:p20"
+   ]
+  },
+  {
+   "text": "He comes off the bench behind Derrick White and Payton Pritchard. Boston is very deep, with at least 12 rotation-level players, so in a 10-man rotation someone misses out most nights.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t1",
+    "Bi1cEM03k9Y:t2",
+    "P6TNP-g0wzY:p26"
+   ]
+  },
+  {
+   "text": "The newest preview has him as the 10th man in the rotation. He can play the backup point guard role, which may cut into Pritchard's work as a bench ball handler.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p33"
+   ]
+  },
+  {
+   "text": "Experts do not expect much fantasy production from him this season.",
+   "kind": "verdict",
+   "date": "2026-07-30",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:p20"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Points and rebounds are his weakest categories. Both are far below the top 250 pool.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He shoots about 90% from the line. He gets to the line so rarely that it barely moves a team's FT%.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He commits very few turnovers.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "Signed with Boston on a minimum contract",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:p26",
+    "TiiaNZCJNs8:p20"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "10th man on a deep Boston roster. Competes with Pritchard for bench ball-handler minutes.",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p33",
+    "Bi1cEM03k9Y:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "age decline watch",
+   "channel": "durable",
+   "detail": "Veteran. His minutes and output fell in each of the last three seasons.",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:p20",
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He is not a draft target in our league. Both sites rank him around 300 and value him at 0 USD, far outside the 144 players we draft, and his projections (about 4 points and 2.6 assists in under 18 minutes) give little beyond a small edge in turnovers. Only watch him early in the season if White or Pritchard miss time and his minutes clearly go up.",
+ "rejected": []
+}

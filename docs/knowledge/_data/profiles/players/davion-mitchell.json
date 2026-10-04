@@ -1,0 +1,186 @@
+{
+ "player": {
+  "name": "Davion Mitchell",
+  "slug": "davion-mitchell",
+  "pk": 389,
+  "team": "MIA",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "f7f1b847aef7",
+ "note_count": 5,
+ "built_at": "2026-10-04T17:28:40+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1555342,
+  "duration_ms": 47437
+ },
+ "current": [
+  {
+   "text": "He is Miami's starting point guard, and one expert calls his role locked in.",
+   "kind": "fact",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p58",
+    "nnWX_ObljOE:p27",
+    "TOn-D1SV7a8:t1"
+   ]
+  },
+  {
+   "text": "Miami traded for Giannis Antetokounmpo and lost much of its depth and ball handling. Giannis is expected to handle the ball a lot.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:t4",
+    "LM0cRCGoAUQ:t0",
+    "NYTH7uQsPCM:t5"
+   ]
+  },
+  {
+   "text": "His usage is already low and will probably drop further next to Giannis.",
+   "kind": "verdict",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p27",
+    "nnWX_ObljOE:t4"
+   ]
+  },
+  {
+   "text": "Ranked as a tier 9 point guard with an ADP of 114. The expert does not trust his shooting at higher volume.",
+   "kind": "verdict",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p58"
+   ]
+  },
+  {
+   "text": "Experts are lukewarm on him. One lists him among overhyped draft values to avoid, and another does not think he is a particularly strong player.",
+   "kind": "verdict",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p27",
+    "TOn-D1SV7a8:t1"
+   ]
+  },
+  {
+   "text": "Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs, but only 10 games in the playoff weeks.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He plays a very low usage role and is not a high scorer.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p34",
+    "uarqbNA2dFk:p27",
+    "Alwse2uXzD4:p24"
+   ]
+  },
+  {
+   "text": "Assists are his main fantasy value, with upside to about seven per game.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p34",
+    "uarqbNA2dFk:p27",
+    "Alwse2uXzD4:p24",
+    "stats"
+   ]
+  },
+  {
+   "text": "Experts disagree on his steals. Some call them good or okay, and one says he does not get as many as you would want.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p34",
+    "uarqbNA2dFk:p27",
+    "7BllEsdNLoM:p58",
+    "Alwse2uXzD4:p24"
+   ]
+  },
+  {
+   "text": "Experts are split on his shooting. One says his efficiency has improved, and another does not trust it at higher volume.",
+   "kind": "verdict",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "Alwse2uXzD4:p24",
+    "7BllEsdNLoM:p58"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "low usage",
+   "channel": "durable",
+   "detail": "very low usage point guard, value comes from assists and some steals",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p34",
+    "uarqbNA2dFk:p27",
+    "nnWX_ObljOE:p27"
+   ],
+   "new_meaning": "Takes few shots for his minutes, so his value comes from non-scoring categories rather than points."
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "usage expected to drop further with Giannis handling the ball",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p27",
+    "nnWX_ObljOE:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 110 and 3 USD, ESPN rank 175 and 0 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "Miami has the fewest back-to-backs (13)",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "only 10 games in weeks 19 to 21, though no back-to-backs",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He sits right on the edge of our 144-player draft: Yahoo ranks him 110 (3 USD), ESPN ranks him 175 (0 USD), and nobody drafted him in our league last season. At most he is a 1 USD late pick for a team that needs assists and can afford weak points, rebounds and threes. Last season he averaged 6.5 assists at 49.0% FG on low volume, but he adds little else. In the first weeks, check whether his assists hold near 6 to 7 now that Giannis handles the ball. If they slip, he is a waiver player.",
+ "rejected": []
+}

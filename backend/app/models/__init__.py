@@ -286,3 +286,27 @@ class SyncRun(Base):
     finished_at: Mapped[datetime | None]
     ok: Mapped[bool | None]  # None while running
     message: Mapped[str | None]
+
+
+class KnowledgeTag(Base):
+    """One tag on a player or team profile (T-022). Rebuilt from the profile JSON on every render.
+
+    `tag` is the canonical name from docs/knowledge/_data/tags.json; `raw_name` is what the
+    LLM wrote. Tags removed by the category check are not stored.
+    """
+
+    __tablename__ = "knowledge_tags"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    subject: Mapped[str]  # "player" or "team"
+    player_pk: Mapped[int | None] = mapped_column(ForeignKey("players.id", ondelete="CASCADE"), index=True)
+    team: Mapped[str | None] = mapped_column(index=True)  # team code for team profiles
+    tag: Mapped[str] = mapped_column(index=True)
+    raw_name: Mapped[str]
+    kind: Mapped[str | None]
+    channel: Mapped[str]  # "durable" or "current"
+    detail: Mapped[str | None]
+    until: Mapped[str | None]
+    sources: Mapped[list[str]] = mapped_column(JSON)
+    classified: Mapped[bool]  # False = name not in the registry yet
+    built_at: Mapped[datetime]

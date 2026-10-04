@@ -1,0 +1,243 @@
+{
+ "player": {
+  "name": "Pascal Siakam",
+  "slug": "pascal-siakam",
+  "pk": 514,
+  "team": "IND",
+  "position": "F,C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "091af71809d4",
+ "note_count": 18,
+ "built_at": "2026-10-04T17:45:47+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1611302,
+  "duration_ms": 44830
+ },
+ "current": [
+  {
+   "text": "Tyrese Haliburton is back. The projected Indiana starting five is Haliburton, Nembhard, Nesmith, Siakam and Zubac.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t2",
+    "sfCe7fS9daM:t0"
+   ]
+  },
+  {
+   "text": "Experts expect his assists to drop with Haliburton back, to about 3 to 3.2 per game. That could be a loss of about 1.5 assists.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p12",
+    "EGdhmUgPAWY:p14",
+    "t4n9MAP2_14:p18",
+    "LM0cRCGoAUQ:p36"
+   ]
+  },
+  {
+   "text": "The newest note expects him to lose some usage with Haliburton back, with his usage rate falling back under 30.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p12",
+    "EGdhmUgPAWY:p14"
+   ]
+  },
+  {
+   "text": "In category leagues, take him somewhere in the 50 to 60 range. Pick 45 is too early.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p11",
+    "BjXP9JODDSg:p18",
+    "LM0cRCGoAUQ:p36"
+   ]
+  },
+  {
+   "text": "ESPN's rank of 24 is far too high. Never take him that early in a category league. Last season he had a bigger role without Haliburton and still finished only 41st.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p13",
+    "uarqbNA2dFk:p40",
+    "QbdrhJd7LiA:p35"
+   ]
+  },
+  {
+   "text": "At 32, his age is a question.",
+   "kind": "verdict",
+   "date": "2026-08-10",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:p15"
+   ]
+  },
+  {
+   "text": "With a season ending March 28, Indiana plays 3, 4 and 3 games in the fantasy playoff weeks. The expert calls that not ideal. The team has 15 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t5"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a much better points league player than a category league player.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p10"
+   ]
+  },
+  {
+   "text": "His production is extremely consistent from game to game, at about 22 points, 6 rebounds and 4 assists. He has one of the tightest game-to-game ranges in the NBA.",
+   "kind": "fact",
+   "date": "2026-08-10",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:p13",
+    "sfCe7fS9daM:p14"
+   ]
+  },
+  {
+   "text": "He plays through minor problems and plays a lot when he is able to.",
+   "kind": "fact",
+   "date": "2026-08-10",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:p16"
+   ]
+  },
+  {
+   "text": "The last time he played alongside Haliburton, his assists were way down.",
+   "kind": "fact",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "OdDkXFhoKsc:p37"
+   ]
+  },
+  {
+   "text": "Points are his best category. His FG% on good volume and his rebounds also help.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He is poor in the defensive stats and is not a great free throw shooter. His FT% is weak for his position, and his blocks are low for a forward or center.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p19",
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "punt FT fit",
+   "channel": "durable",
+   "detail": "About 72% FT on about 5 attempts per game",
+   "until": "",
+   "sources": [
+    "stats",
+    "t4n9MAP2_14:p19"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "points league player",
+   "channel": "durable",
+   "detail": "Rated about 30 in points leagues versus 50 to 60 in categories",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p10",
+    "EGdhmUgPAWY:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Lower assists and usage expected with Haliburton back",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p12",
+    "EGdhmUgPAWY:p14",
+    "t4n9MAP2_14:p18"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "At ESPN rank 24 and ESPN price",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p13",
+    "uarqbNA2dFk:p40",
+    "QbdrhJd7LiA:p35"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 58 and 17 USD, ESPN rank 24 and 32 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "age decline watch",
+   "channel": "durable",
+   "detail": "Age 32",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:p15"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "3-4-3 games in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "consistent producer",
+   "channel": "durable",
+   "detail": "One of the tightest game-to-game ranges in the NBA",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:p13",
+    "sfCe7fS9daM:p14"
+   ],
+   "new_meaning": "His game-to-game production varies very little, so his weekly output is reliable."
+  }
+ ],
+ "note": "Experts put his category value in the 50 to 60 range. That is in line with Yahoo (rank 58, 17 USD value, 13.8 USD average cost) and well below ESPN (rank 24, 32 USD) and the 25 USD he cost in our league last season. A price in the mid to high teens looks fair, and paying 25 USD or more repeats the overpay the experts warn about. He fits best in punt FT% builds because his scoring and FG% stay useful there. Early in the season, check his assists and usage next to Haliburton, and keep in mind his weak 3-4-3 playoff schedule.",
+ "rejected": []
+}

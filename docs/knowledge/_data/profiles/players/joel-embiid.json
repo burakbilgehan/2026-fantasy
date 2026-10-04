@@ -1,0 +1,369 @@
+{
+ "player": {
+  "name": "Joel Embiid",
+  "slug": "joel-embiid",
+  "pk": 165,
+  "team": "PHI",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "57df5303e923",
+ "note_count": 18,
+ "built_at": "2026-10-04T17:36:56+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.17865419999999999,
+  "duration_ms": 49515
+ },
+ "current": [
+  {
+   "text": "He starts the season healthy after his first healthy offseason in years. He reportedly added 15 pounds of muscle.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:p15",
+    "t4n9MAP2_14:p17",
+    "OdDkXFhoKsc:p40"
+   ]
+  },
+  {
+   "text": "Because he starts healthy, one expert projects him at about 33 minutes per game.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p17"
+   ]
+  },
+  {
+   "text": "Mark expects him to play about 40 to 50 games.",
+   "kind": "verdict",
+   "date": "2026-08-06",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:p14"
+   ]
+  },
+  {
+   "text": "Philadelphia added LeBron James and Jaylen Brown. He now shares usage with them and Tyrese Maxey.",
+   "kind": "fact",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t1",
+    "sTtFUy7IoJI:t10",
+    "8d--aL_xxwE:t0",
+    "2A2JbUN-kc0:t1"
+   ]
+  },
+  {
+   "text": "Experts expect the crowded lineup to lower his usage. Mark projects about 20 to 25 points and about 10 rebounds per game. He sees him as an emergency scorer who gets to the line and rebounds while others carry most of the scoring.",
+   "kind": "verdict",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:t9",
+    "sTtFUy7IoJI:t10",
+    "gTsfR5PxAMY:p17",
+    "gTsfR5PxAMY:p18"
+   ]
+  },
+  {
+   "text": "He was 11th per game last season. One expert expects more from him this season.",
+   "kind": "verdict",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:p36"
+   ]
+  },
+  {
+   "text": "The experts agree he should not be drafted inside the top 50 because of injury risk. Around picks 56 to 64 he is a fair chance to take, mainly if you have not taken risks earlier. In a points format, pick 53 was called too early.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p28",
+    "2A2JbUN-kc0:p36",
+    "KPdD91Oo8-U:p11",
+    "t4n9MAP2_14:p17",
+    "E-KmhvyZ2CU:p15",
+    "OdDkXFhoKsc:p40",
+    "80kfLVnFQ_s:p30",
+    "ahNxsoU8Hx4:p55"
+   ]
+  },
+  {
+   "text": "One expert calls his ESPN rank of 88 'absolute thievery' and expects him to finish in the 60s.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p55"
+   ]
+  },
+  {
+   "text": "He is a high-risk flyer. One expert gives him about a 10% chance of paying off, with a big payoff if he does.",
+   "kind": "verdict",
+   "date": "2026-09-15",
+   "until": "",
+   "sources": [
+    "KPdD91Oo8-U:p11"
+   ]
+  },
+  {
+   "text": "The Sixers have 13 back-to-backs this season. Three of them fall in the fantasy playoffs.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p1",
+    "gf_6GveiAls:t8"
+   ]
+  },
+  {
+   "text": "Since he is not expected to play back-to-backs, the three playoff back-to-backs should cost him games when it matters most. Factor that into his price.",
+   "kind": "verdict",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p0",
+    "gf_6GveiAls:p1"
+   ]
+  },
+  {
+   "text": "Mark expects growing pains in October and November and load management for Philadelphia's stars.",
+   "kind": "verdict",
+   "date": "2026-08-06",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t4"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He has a history of repeated knee problems and surgeries. He is often listed as questionable and misses many games.",
+   "kind": "fact",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "8d--aL_xxwE:p10",
+    "egRrai3Ax38:p49"
+   ]
+  },
+  {
+   "text": "Experts have low hopes for his long-term health. Josh is very reluctant to draft him.",
+   "kind": "verdict",
+   "date": "2026-08-09",
+   "until": "",
+   "sources": [
+    "8d--aL_xxwE:p10",
+    "gTsfR5PxAMY:p16"
+   ]
+  },
+  {
+   "text": "He does not play back-to-backs.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p0",
+    "gTsfR5PxAMY:p16"
+   ]
+  },
+  {
+   "text": "Because he misses so many games, he is worth a bit less in head-to-head than in roto.",
+   "kind": "verdict",
+   "date": "2026-09-01",
+   "until": "",
+   "sources": [
+    "skKXe2CRl8Q:p0"
+   ]
+  },
+  {
+   "text": "He is a rare center who lifts FT% clearly: a high percentage on a high number of free throw attempts.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Points are a real strength. He scores far above the pool, especially for a center.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Turnovers are his weak category. He commits many for the pool and for a center.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "FT% anchor",
+   "channel": "durable",
+   "detail": "about 86% on 8 to 9 attempts per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "PTS specialist",
+   "channel": "durable",
+   "detail": "about 26 points per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "high TO",
+   "channel": "durable",
+   "detail": "about 2.8 turnovers per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "elite per game",
+   "channel": "durable",
+   "detail": "11th per game last season",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:p36"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "repeated knee problems and surgeries",
+   "until": "",
+   "sources": [
+    "8d--aL_xxwE:p10",
+    "egRrai3Ax38:p49",
+    "gTsfR5PxAMY:p16"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "load management",
+   "channel": "durable",
+   "detail": "does not play back-to-backs",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p0",
+    "gTsfR5PxAMY:p16",
+    "gTsfR5PxAMY:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "back-to-back risk",
+   "channel": "current",
+   "detail": "not expected to play back-to-backs; PHI has 13",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p0",
+    "gf_6GveiAls:p1",
+    "gTsfR5PxAMY:p16"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "three PHI back-to-backs in the fantasy playoffs",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p1",
+    "gf_6GveiAls:t8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "missed big stretches in 2025-26",
+   "until": "",
+   "sources": [
+    "E-KmhvyZ2CU:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "usage shared with LeBron James, Jaylen Brown and Maxey",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:t9",
+    "sTtFUy7IoJI:t10",
+    "gTsfR5PxAMY:p18"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "high-risk, high-payoff pick after the top 50",
+   "until": "",
+   "sources": [
+    "KPdD91Oo8-U:p11",
+    "t4n9MAP2_14:p17"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "ESPN rank 88 called 'absolute thievery'; expected to finish in the 60s",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p55"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 19 USD, rank 53; ESPN value 3 USD, rank 88",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He can still give an elite per-game line (11th last season), but the projections only have him at 49 to 54 games. Experts will not take him in the top 50, and Yahoo value (19 USD) and ESPN value (3 USD) are far apart, so pay only a mid-round price near the 7 to 8 USD average costs, well below the 24 USD our league paid last season. He fits punt TO builds that want FT% and points from a center. Early on, check that he plays about 33 minutes and how many games he sits. Also have a backup center ready, because PHI has three back-to-backs in our playoff weeks.",
+ "rejected": []
+}

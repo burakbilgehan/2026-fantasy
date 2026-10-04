@@ -1,0 +1,288 @@
+{
+ "player": {
+  "name": "Jaren Jackson Jr.",
+  "slug": "jaren-jackson",
+  "pk": 265,
+  "team": "UTA",
+  "position": "F,C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "e21e3338d23e",
+ "note_count": 18,
+ "built_at": "2026-10-04T17:35:25+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1695542,
+  "duration_ms": 45142
+ },
+ "current": [
+  {
+   "text": "He played only three games for Utah last season. A full season of him is a big addition for the Jazz.",
+   "kind": "fact",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:p16"
+   ]
+  },
+  {
+   "text": "He is projected to start at power forward next to Jusuf Nurkic and to close games at center.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:p17",
+    "CI4k8ofUXXk:t0",
+    "ZYllcj4o6_A:t0",
+    "egRrai3Ax38:t4"
+   ]
+  },
+  {
+   "text": "Walker Kessler is no longer with Utah.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:t4",
+    "ZYllcj4o6_A:t0",
+    "xHRF06_E9HE:t4"
+   ]
+  },
+  {
+   "text": "Experts expect Utah to try to win this season. They think fears of tanking and late-season shutdowns are misplaced.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:t2",
+    "dlo7L8Ru91A:t2",
+    "J1Eg3uaAICU:t3",
+    "sTtFUy7IoJI:t6",
+    "LM0cRCGoAUQ:t4"
+   ]
+  },
+  {
+   "text": "Experts expect him to play more minutes in Utah and to be better than last season. Kessler's exit may help his blocks.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p21",
+    "egRrai3Ax38:p37",
+    "t4n9MAP2_14:p13"
+   ]
+  },
+  {
+   "text": "His usage will likely drop because Utah's usage is crowded with Lauri Markkanen, Keyonte George and Darryn Peterson.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p37",
+    "lOshTzDA4SA:t2",
+    "-rgXhs5BHiw:t1"
+   ]
+  },
+  {
+   "text": "He is not expected to reach his Memphis career highs. Josh does not expect 3 blocks per game, but thinks 2 per game is possible with less offensive usage. Leaf is more bullish and projects a double-double with easy baskets from slipping screens, but Josh says 10 rebounds per game would be a huge outcome.",
+   "kind": "verdict",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:p19",
+    "CI4k8ofUXXk:p20",
+    "CI4k8ofUXXk:p21",
+    "CI4k8ofUXXk:p22"
+   ]
+  },
+  {
+   "text": "Experts say his ADP is too low for category leagues. He is drafted around 54 to 55 on Yahoo and 74 to 82 on ESPN, while one expert ranks him 36th in categories and calls him a target about two rounds after his ADP. They reject the idea that he is a waiver player.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "Alwse2uXzD4:p15",
+    "ahNxsoU8Hx4:p26",
+    "t4n9MAP2_14:p13",
+    "egRrai3Ax38:p37",
+    "80kfLVnFQ_s:p26",
+    "LM0cRCGoAUQ:p21",
+    "skKXe2CRl8Q:p6"
+   ]
+  },
+  {
+   "text": "In a 9-cat mock draft he went in round 4 to a team building around blocks with poor assists.",
+   "kind": "verdict",
+   "date": "2026-09-24",
+   "until": "",
+   "sources": [
+    "_vbAP5y182A:p22"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Blocks are his outlier category. He is one of very few bigs who can block two shots and score 20 points per game.",
+   "kind": "fact",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p25",
+    "stats"
+   ]
+  },
+  {
+   "text": "His blocks have been declining over recent seasons.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p22"
+   ]
+  },
+  {
+   "text": "He is a poor rebounder for a big man.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p25",
+    "LM0cRCGoAUQ:p22",
+    "CI4k8ofUXXk:p18"
+   ]
+  },
+  {
+   "text": "He plays best next to a big, physical center. Lloyd says he has not been able to play center over the last 4 to 5 years.",
+   "kind": "verdict",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:p18",
+    "P6TNP-g0wzY:p11"
+   ]
+  },
+  {
+   "text": "He is not a passer.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:t2"
+   ]
+  },
+  {
+   "text": "Turnovers are his weakest category for his position.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He is usually worth more in category leagues than in points leagues.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p22",
+    "Alwse2uXzD4:p15"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "BLK specialist",
+   "channel": "durable",
+   "detail": "About 1.6 blocks per game projected; 2 per game possible in Utah",
+   "until": "",
+   "sources": [
+    "stats",
+    "ahNxsoU8Hx4:p25",
+    "CI4k8ofUXXk:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "About 2.2 turnovers per game, high for a big",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "category league player",
+   "channel": "durable",
+   "detail": "Points-league ADP undervalues his blocks and steals",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p22",
+    "Alwse2uXzD4:p15"
+   ],
+   "new_meaning": "Worth clearly more in 9-cat category leagues than in points leagues, so points-based rankings and ADP underrate him."
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "Ranked 36th in categories vs Yahoo ADP around 55",
+   "until": "",
+   "sources": [
+    "Alwse2uXzD4:p15",
+    "ahNxsoU8Hx4:p26",
+    "t4n9MAP2_14:p13",
+    "80kfLVnFQ_s:p26"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "ESPN ADP 74 to 82 called too low",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p37",
+    "ahNxsoU8Hx4:p26"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "More minutes expected, though usage may drop",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p21",
+    "egRrai3Ax38:p37"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 24 USD and rank 42; ESPN value 5 USD and rank 71",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "48 games in 2025-26, only 3 for Utah",
+   "until": "",
+   "sources": [
+    "stats",
+    "CI4k8ofUXXk:p16"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He went for 29 USD in our league last season. Yahoo values him at 24 USD (rank 42) but drafters pay only 13.4 USD, and ESPN prices him at 5 USD, so he could be a bargain anywhere under about 25 USD while experts rank him near 36th in categories. He fits blocks builds and punt TO builds, and he can carry blocks next to low-assist bigs. Early in the season, check his minutes at power forward next to Nurkic, whether his blocks get close to 2 per game, and how much his usage drops behind Markkanen, George and Peterson.",
+ "rejected": []
+}

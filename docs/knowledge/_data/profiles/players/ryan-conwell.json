@@ -1,0 +1,165 @@
+{
+ "player": {
+  "name": "Ryan Conwell",
+  "slug": "ryan-conwell",
+  "pk": 115,
+  "team": "MIA",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "dde0b3d3a67a",
+ "note_count": 3,
+ "built_at": "2026-10-04T17:47:29+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.09589819999999999,
+  "duration_ms": 21989
+ },
+ "current": [
+  {
+   "text": "Ryan Conwell is a rookie. The Heat drafted him 37th in the 2026 NBA draft.",
+   "kind": "fact",
+   "date": "2026-06-26",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p7"
+   ]
+  },
+  {
+   "text": "He scored 17.5 points per game in Summer League before Miami sent him home early.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p20"
+   ]
+  },
+  {
+   "text": "Miami lost guard depth and ball handlers in trades this offseason.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p20",
+    "LUTYUdXBG1M:t1",
+    "NYTH7uQsPCM:t5"
+   ]
+  },
+  {
+   "text": "Experts think he could get rotation minutes early this season because Miami is thin at guard.",
+   "kind": "verdict",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p4",
+    "LUTYUdXBG1M:p20"
+   ]
+  },
+  {
+   "text": "An expert expects Ryan Rollins to start next to Tyler Herro at guard. Kevin Porter Jr., Brandon Boston and Gary Trent Jr. are also in the guard rotation, so Conwell's minutes are not secure.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:t6"
+   ]
+  },
+  {
+   "text": "He moved up from 38 to 33 in one expert's dynasty rookie ranks after a strong Summer League.",
+   "kind": "verdict",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p4"
+   ]
+  },
+  {
+   "text": "Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs. It plays only 10 games in the fantasy playoffs.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7"
+   ]
+  },
+  {
+   "text": "An expert advises caution with Miami players on the margins.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:t1"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "His three-point volume is a question. An expert hopes he starts taking more threes.",
+   "kind": "verdict",
+   "date": "2026-06-26",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p7"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "rookie",
+   "channel": "current",
+   "detail": "2026 second-round pick, 37th overall by Miami",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Rollins, Herro, Porter Jr., Boston and Trent Jr. are also in the guard group",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:t6",
+    "TOn-D1SV7a8:p4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Yahoo rank 645, but he could get early rotation minutes on a thin Miami guard group",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p4",
+    "LUTYUdXBG1M:p20",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "Miami has the fewest back-to-backs (13)",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "Only 10 Miami games in weeks 19 to 21, but no back-to-backs",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Ryan Conwell is not a draft target for us. Yahoo ranks him 645 with a value of 0 USD, ESPN has no price for him, and no site has a projection, so no one should spend an auction dollar on him. He is a waiver watch only. In the first weeks, check whether his strong Summer League turns into real rotation minutes on a thin Miami guard group, and whether he takes threes. Rollins, Herro, Porter Jr., Boston and Trent Jr. are all ahead of him or competing with him.",
+ "rejected": []
+}

@@ -1,0 +1,299 @@
+{
+ "player": {
+  "name": "Fred VanVleet",
+  "slug": "fred-vanvleet",
+  "pk": 570,
+  "team": "HOU",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "d66d0a687047",
+ "note_count": 12,
+ "built_at": "2026-10-04T17:31:30+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.16376219999999997,
+  "duration_ms": 44464
+ },
+ "current": [
+  {
+   "text": "He is coming back from a torn ACL. His rehab was reported as going well and he was expected to be ready for opening night.",
+   "kind": "fact",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:p0"
+   ]
+  },
+  {
+   "text": "At Rockets media day he made troubling comments about his knee and said he does not feel like himself.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p17",
+    "_vbAP5y182A:p46"
+   ]
+  },
+  {
+   "text": "He is a projected starter at point guard. If he has a setback, Marcus Smart would start in his place.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t1",
+    "yoCTTlJ_tPQ:t0",
+    "yoCTTlJ_tPQ:p0",
+    "7BllEsdNLoM:p52"
+   ]
+  },
+  {
+   "text": "The Rockets are expected to limit his minutes early. Lloyd projects about 32 minutes a night: near 30 at the start, rising to 34 or 35 by the end of the season.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p17",
+    "yoCTTlJ_tPQ:p1",
+    "7BllEsdNLoM:p52"
+   ]
+  },
+  {
+   "text": "He is expected to sit some back-to-backs early in the season and to miss other games too. Bad shooting stretches are also expected.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p17",
+    "yoCTTlJ_tPQ:p1",
+    "uarqbNA2dFk:p52",
+    "_vbAP5y182A:p46"
+   ]
+  },
+  {
+   "text": "The Rockets have only 14 back-to-backs this season.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t5"
+   ]
+  },
+  {
+   "text": "The Houston guard rotation is crowded with Amen Thompson, Marcus Smart, Bogdan Bogdanovic and Reed Sheppard.",
+   "kind": "fact",
+   "date": "2026-09-15",
+   "until": "",
+   "sources": [
+    "KPdD91Oo8-U:t0",
+    "gJUBAJaHzlU:t2",
+    "xHRF06_E9HE:t5"
+   ]
+  },
+  {
+   "text": "With many other ball handlers on the team, Lloyd does not expect high assist numbers from him.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p19"
+   ]
+  },
+  {
+   "text": "With our March 28 end date, the Rockets play a weak 3-3-4 schedule in the fantasy playoffs, 10 games over three weeks.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t4"
+   ]
+  },
+  {
+   "text": "Experts agree his ESPN rank of 74 is far too high. Lloyd ranks him 120 to 135 in category leagues and sees him as a late point guard flyer.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p19",
+    "uarqbNA2dFk:p52",
+    "g31YlwRe0XQ:p53",
+    "OdDkXFhoKsc:p52"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He tore his ACL and missed the whole 2025-26 season.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p17",
+    "uarqbNA2dFk:p52",
+    "7BllEsdNLoM:p52"
+   ]
+  },
+  {
+   "text": "He is a poor shooter from the field, especially on two-point shots, and he hurts FG%. His three-point shooting is good.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p18",
+    "7BllEsdNLoM:p53",
+    "stats"
+   ]
+  },
+  {
+   "text": "He gives good steals and assists with relatively low scoring.",
+   "kind": "verdict",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p53"
+   ]
+  },
+  {
+   "text": "He takes good care of the ball and keeps his turnovers low.",
+   "kind": "verdict",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:p2"
+   ]
+  },
+  {
+   "text": "He is at an advanced age for a player returning from an ACL injury.",
+   "kind": "verdict",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p52"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "FG% liability",
+   "channel": "durable",
+   "detail": "39.4% projected, poor on two-point shots",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p18",
+    "7BllEsdNLoM:p53",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt FG fit",
+   "channel": "durable",
+   "detail": "threes, assists and steals without the FG% damage mattering",
+   "until": "",
+   "sources": [
+    "stats",
+    "aLP080hxizA:p18"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "age decline watch",
+   "channel": "durable",
+   "detail": "advanced age coming off an ACL tear",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p52"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "missed all of 2025-26 with a torn ACL",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p17"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "back-to-back risk",
+   "channel": "current",
+   "detail": "expected to sit some back-to-backs early",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p17",
+    "yoCTTlJ_tPQ:p1",
+    "uarqbNA2dFk:p52"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "slow start",
+   "channel": "current",
+   "detail": "minutes near 30 early, rising to 34 or 35 later",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p17",
+    "yoCTTlJ_tPQ:p1",
+    "7BllEsdNLoM:p52"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "Rockets have only 14 back-to-backs",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "3-3-4, 10 games in weeks 19 to 21 with a March 28 end",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "at his ESPN rank of 74",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p19",
+    "uarqbNA2dFk:p52"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 153, ESPN rank 74",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "late point guard flyer, Lloyd rank 120 to 135",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p19"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Lloyd ranks him 120 to 135. That is far below ESPN's rank of 74 (5 USD value) and close to Yahoo's rank of 153 (1 USD), so treat him as a 1 to 2 USD late guard and not a mid-round buy. He fits punt FG% builds best, where his threes, assists, steals and low turnovers count and his 39% shooting does not. Early in the season, check his minutes (expected near 30 at first), how many back-to-backs he sits, and his knee. Also keep in mind that Houston plays only 10 games in our playoff weeks.",
+ "rejected": []
+}

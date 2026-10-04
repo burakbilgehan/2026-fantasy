@@ -1,0 +1,89 @@
+{
+ "player": {
+  "name": "Jarace Walker",
+  "slug": "jarace-walker",
+  "pk": 580,
+  "team": "IND",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "5dfb6f5e3f2b",
+ "note_count": 5,
+ "built_at": "2026-10-04T17:34:52+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1338402,
+  "duration_ms": 25806
+ },
+ "current": [
+  {
+   "text": "He is projected as a bench player. He is listed last in the Pacers bench rotation, behind Oubre, Toppin, Huff and McConnell.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t3"
+   ]
+  },
+  {
+   "text": "He started last season badly but finished it strongly, ranking 96th after the trade deadline.",
+   "kind": "fact",
+   "date": "2026-08-10",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:p28",
+    "xHRF06_E9HE:p42"
+   ]
+  },
+  {
+   "text": "The experts do not expect him to repeat his late-season run. Last season's numbers came on a bad team. One expert has no fantasy interest in him and says to avoid him.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p43",
+    "xHRF06_E9HE:p42"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He has significant efficiency issues. Experts call both his FG% and his FT% poor.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p42",
+    "sfCe7fS9daM:p29"
+   ]
+  },
+  {
+   "text": "He is below average in almost every category and has no category strength. His impact metrics are very bad.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p42",
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Last in the bench rotation on a stronger Pacers team. ESPN projects 18.6 minutes after 25.7 last season.",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t3",
+    "EGdhmUgPAWY:p43",
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo ranks him 268th and ESPN 285th. Both value him at 0 USD, so he falls well outside the 144 players drafted in our league. Do not draft him. His projected line is below average in every category except TO, so he does not fit any punt build. Only look at him on waivers if he gets back near last season's 25.7 minutes, and even then his poor FG% (41.9% on 9.6 attempts last season) limits his value.",
+ "rejected": []
+}

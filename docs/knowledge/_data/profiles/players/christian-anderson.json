@@ -1,0 +1,139 @@
+{
+ "player": {
+  "name": "Christian Anderson",
+  "slug": "christian-anderson",
+  "pk": 17,
+  "team": "CHA",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "81881862305a",
+ "note_count": 6,
+ "built_at": "2026-10-04T17:26:42+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.13891019999999998,
+  "duration_ms": 33931
+ },
+ "current": [
+  {
+   "text": "Charlotte drafted him 18th overall in the 2026 NBA draft. This is his first NBA season.",
+   "kind": "fact",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p32",
+    "EB1Z_6n56-o:p28"
+   ]
+  },
+  {
+   "text": "He is not expected to start or to be part of the main rotation. Coby White starts at guard. The latest Charlotte preview lists White, Knueppel, Miller, Reid and Diabaté as starters, with Allen, Schröder, Steinbach, O'Neale and Grant Williams off the bench.",
+   "kind": "verdict",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p32",
+    "CRLSsoGhb2w:t3"
+   ]
+  },
+  {
+   "text": "Charlotte has no trusted backup point guard on the roster.",
+   "kind": "fact",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:t2"
+   ]
+  },
+  {
+   "text": "He is not yet trusted as the backup point guard. Walker calls him a fun archetype rather than a functional one for now.",
+   "kind": "verdict",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:p28"
+   ]
+  },
+  {
+   "text": "He shot badly in Summer League but took a high volume of threes.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p36"
+   ]
+  },
+  {
+   "text": "He is not a draft target in a 12-team league. His projected line has no category that helps a fantasy team.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Experts see passing and shooting as his two outlier skills. One calls him the best passer in the 2026 class and possibly the best shooter, and rates him above consensus.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "-rgXhs5BHiw:p4",
+    "lOshTzDA4SA:p23",
+    "HxQjagSTTAM:p7",
+    "LUTYUdXBG1M:p36"
+   ]
+  },
+  {
+   "text": "He is undersized for a guard.",
+   "kind": "fact",
+   "date": "2026-06-26",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p23",
+    "CLsUc0Sevos:p32",
+    "HxQjagSTTAM:p7"
+   ]
+  },
+  {
+   "text": "His defense is a concern.",
+   "kind": "verdict",
+   "date": "2026-06-22",
+   "until": "",
+   "sources": [
+    "HxQjagSTTAM:p7"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "rookie",
+   "channel": "current",
+   "detail": "18th overall pick in 2026 by Charlotte",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p32",
+    "EB1Z_6n56-o:p28"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Backup point guard role is open; not yet trusted there, with Schröder and Allen projected ahead of him on the bench",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:p28",
+    "EB1Z_6n56-o:t2",
+    "CRLSsoGhb2w:t3"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo values him at 0 USD with a rank of 677, so he will not be among the 144 players drafted in our auction. His Yahoo projection (8.3 PTS, 2.9 AST, 1.3 3PM) has no category that helps us. Early in the season, check whether he takes over Charlotte's open backup point guard role. Only then is he worth a look on waivers.",
+ "rejected": []
+}

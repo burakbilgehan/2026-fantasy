@@ -1,0 +1,258 @@
+{
+ "player": {
+  "name": "Christian Braun",
+  "slug": "christian-braun",
+  "pk": 59,
+  "team": "DEN",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "f4ce4ca2a4c7",
+ "note_count": 13,
+ "built_at": "2026-10-04T17:26:55+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1523542,
+  "duration_ms": 40033
+ },
+ "current": [
+  {
+   "text": "He is projected to start for Denver next to Jamal Murray, Cam Johnson, Aaron Gordon and Nikola Jokic.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p12",
+    "sf6Ga9k-r-Q:t1"
+   ]
+  },
+  {
+   "text": "DeMar DeRozan joined Denver and comes off the bench. If any starter gives up minutes to DeRozan, it will most likely be Braun.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p13",
+    "sf6Ga9k-r-Q:t0",
+    "sf6Ga9k-r-Q:t1"
+   ]
+  },
+  {
+   "text": "Experts expect him to beat last season's finish outside the top 200. Moore predicts a bounce-back year.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p12",
+    "keNupMSHp1Y:p18"
+   ]
+  },
+  {
+   "text": "Experts are not buying him at his price. He is called overvalued at a Yahoo ADP of 120, and ranking him in the top 100 would be a mistake.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p12",
+    "-y6p5PYLf00:p11"
+   ]
+  },
+  {
+   "text": "He made 30% of his threes last season, and defenses have figured him out.",
+   "kind": "fact",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p11"
+   ]
+  },
+  {
+   "text": "His defense broke down last season, with poor containment and late rotations. He needs to create more steals.",
+   "kind": "verdict",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "keNupMSHp1Y:p17"
+   ]
+  },
+  {
+   "text": "Only 31% of his deflections became steals, so his steals may improve.",
+   "kind": "verdict",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p22"
+   ]
+  },
+  {
+   "text": "He could be traded. Denver may move him instead of Cam Johnson, and Moore expects at least two of last season's starters to be gone by the trade deadline.",
+   "kind": "verdict",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "keNupMSHp1Y:p19",
+    "TOn-D1SV7a8:t0",
+    "keNupMSHp1Y:t0"
+   ]
+  },
+  {
+   "text": "Denver plays 43 games through March 28, one below the maximum. They have only 14 back-to-backs, one of the lowest counts in the league.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:t4"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He has always been a low-usage player with poor shooting volume. He is not a stat generator.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p11"
+   ]
+  },
+  {
+   "text": "He hurts his team's spacing, and opponents know it.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p11",
+    "keNupMSHp1Y:p16"
+   ]
+  },
+  {
+   "text": "His defense is overrated.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p11"
+   ]
+  },
+  {
+   "text": "His FT% is usually below 80%. The 83% in his breakout year was an outlier.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p14",
+    "stats"
+   ]
+  },
+  {
+   "text": "His FG% around 52% is already good for a perimeter player. The 58% of his breakout year was not real, so little improvement is expected.",
+   "kind": "verdict",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p12",
+    "stats"
+   ]
+  },
+  {
+   "text": "His ankle injury last season was more than a sprain. He tore several ligaments.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "keNupMSHp1Y:p15"
+   ]
+  },
+  {
+   "text": "His finishing depends on athleticism. The ankle injury hurt that athleticism, and his finishing fell off sharply last season.",
+   "kind": "verdict",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "keNupMSHp1Y:p14",
+    "keNupMSHp1Y:p15"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Most likely starter to lose minutes to DeMar DeRozan",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p13",
+    "sf6Ga9k-r-Q:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trade risk",
+   "channel": "current",
+   "detail": "Named with Cam Johnson as a possible Denver trade piece",
+   "until": "",
+   "sources": [
+    "keNupMSHp1Y:p19",
+    "TOn-D1SV7a8:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bounce-back",
+   "channel": "current",
+   "detail": "Moore predicts a bounce-back. The newer note expects a better finish but still does not buy him.",
+   "until": "",
+   "sources": [
+    "keNupMSHp1Y:p18",
+    "sf6Ga9k-r-Q:p12"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "Overvalued at Yahoo ADP 120. Not a top-100 player.",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:p12",
+    "-y6p5PYLf00:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "Tore several ankle ligaments and played 44 games",
+   "until": "",
+   "sources": [
+    "keNupMSHp1Y:p15",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "Denver has 14 back-to-backs, one of the lowest counts in the league",
+   "until": "",
+   "sources": [
+    "sf6Ga9k-r-Q:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "No weak category flagged. Best categories are FG% and turnovers, but no category is a real outlier.",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo ranks him 173 and ESPN ranks him 212, and both value him at 0 USD. That puts him at the edge of or outside our 144-player pool, even though he cost 7 USD in our auction last season. His value comes from a good FG% for a wing (53.7% projected) and few turnovers, with no weak category. The experts still call him overvalued, so take him only as a 1 USD last pick or leave him on waivers. Early in the season, check three things: his minutes next to DeRozan, whether his finishing and 3P% come back after the ankle injury, and any trade news.",
+ "rejected": []
+}

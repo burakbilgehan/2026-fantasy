@@ -1,0 +1,267 @@
+{
+ "slug": "shooting-and-defense-regression",
+ "title": "Regression: Shooting, Steals and Blocks",
+ "type": "topic",
+ "brief": "Which shooting and defensive numbers from last season should we expect to move back toward normal, and how do we spot them before paying for them? It must cover regressing FT%, 3P% and 2P% outliers, steal and block conversion rates, and how three-point swings drive in-season buy-low and sell-high calls.",
+ "tags": [],
+ "rule_ids": [
+  "4gw4W4RTolY:r5",
+  "gerS7ibpaJo:r8",
+  "okN3fbHJtlA:r3",
+  "owlM6b8oUd0:r1",
+  "-y6p5PYLf00:r0",
+  "-y6p5PYLf00:r2",
+  "-y6p5PYLf00:r3",
+  "-y6p5PYLf00:r4",
+  "-y6p5PYLf00:r5",
+  "-y6p5PYLf00:r6",
+  "-y6p5PYLf00:r7",
+  "-y6p5PYLf00:r9",
+  "-y6p5PYLf00:r10",
+  "-y6p5PYLf00:r12",
+  "8d--aL_xxwE:r10",
+  "8d--aL_xxwE:r12",
+  "8d--aL_xxwE:r13",
+  "8d--aL_xxwE:r14",
+  "NYTH7uQsPCM:r3",
+  "NYTH7uQsPCM:r4",
+  "NYTH7uQsPCM:r5",
+  "NYTH7uQsPCM:r6",
+  "NYTH7uQsPCM:r7",
+  "NYTH7uQsPCM:r8",
+  "NYTH7uQsPCM:r9",
+  "NYTH7uQsPCM:r10",
+  "NYTH7uQsPCM:r11",
+  "NYTH7uQsPCM:r12",
+  "NYTH7uQsPCM:r16",
+  "ME-r173X5b0:r9",
+  "ME-r173X5b0:r14",
+  "lOshTzDA4SA:r10",
+  "LM0cRCGoAUQ:r12",
+  "p9XE5jFqhvs:r3",
+  "H9q2FT3LhNw:r1",
+  "H9q2FT3LhNw:r3",
+  "EB1Z_6n56-o:r3",
+  "-KS_AZjZnw4:r4",
+  "75Sk_4fkgIM:r4",
+  "75Sk_4fkgIM:r5",
+  "ahNxsoU8Hx4:r6",
+  "J1Eg3uaAICU:r10",
+  "4gw4W4RTolY:r6",
+  "ZAyie8lKyYc:r0"
+ ],
+ "proposed": true,
+ "prompt_sha": "12db90749aa2",
+ "built_at": "2026-10-04T20:17:48+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.12413279999999999,
+  "duration_ms": 47098
+ },
+ "player_slugs": [],
+ "summary": "Shooting percentages and steals swing the most from one season to the next. Volume and blocks hold up far better. At the 2026-10-18 auction, pay for attempts, deflections and rim contests, not for last season's hot percentages. During the season, use three-point swings to buy cold shooters and sell hot ones before the 2027-03-04 trade deadline.",
+ "sections": [
+  {
+   "heading": "What holds and what moves",
+   "paragraphs": [
+    {
+     "text": "Shooting accuracy carries over poorly from one year to the next. One expert gives these year-to-year correlations: two-point percentage 0.53, true shooting 0.52, free throw percentage 0.49 and three-point percentage 0.45. That makes free throw percentage the least stable standard fantasy category. Plan your projections around regressed percentages, not last season's figures.",
+     "sources": [
+      "8d--aL_xxwE:r10",
+      "-y6p5PYLf00:r0"
+     ]
+    },
+    {
+     "text": "Volume is the stable part. Three-point attempts per game correlate at 0.88 and threes made at 0.86, but three-point percentage only at 0.45. When you value a shooter, start from his attempts and treat his accuracy as the uncertain part.",
+     "sources": [
+      "8d--aL_xxwE:r13"
+     ]
+    },
+    {
+     "text": "Shooting reaches more categories than it seems. Three-point percentage is a hidden category, because it feeds 3PTM, PTS and FG%. FG% and FT% each touch two categories. In our 9-cat format, one bad shooting regression can cost you several categories in the same week.",
+     "sources": [
+      "-y6p5PYLf00:r3"
+     ]
+    },
+    {
+     "text": "Do not call a player a bad shooter as if it were fixed. Describe it as how he shot last season. Only extreme cases are close to certain, such as Giannis at the free throw line.",
+     "sources": [
+      "-y6p5PYLf00:r2"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Spotting FT%, 3P% and 2P% outliers",
+   "paragraphs": [
+    {
+     "text": "Free throws: surprise swings in either direction usually drift back to the player's norm, and you cannot predict them. Several players had big free throw drops last season for no clear reason. Treat a sudden FT% drop as likely to revert. Treat a sudden FT% jump as likely to fade. Compare the number with his career rate before the auction.",
+     "sources": [
+      "-y6p5PYLf00:r12",
+      "-KS_AZjZnw4:r4"
+     ]
+    },
+    {
+     "text": "Threes: a big jump in three-point percentage on the same volume should not be expected to last. A good percentage on low volume does not make a reliable shooter either. Look for about five or six attempts per game, or a high share of his shots from three, before you trust it. Do not bank on a shooting improvement. Treat it as a bonus. Be extra skeptical when a non-shooter rebuilds his jumper, since one expert thinks that fails more often than it works.",
+     "sources": [
+      "okN3fbHJtlA:r3",
+      "75Sk_4fkgIM:r4",
+      "LM0cRCGoAUQ:r12",
+      "p9XE5jFqhvs:r3"
+     ]
+    },
+    {
+     "text": "Twos: if a two-point percentage starts with a 7, expect it to come down. Be skeptical of 70% field goal shooters in general. Very high marks on both twos and threes are a warning sign. Elite mid-range shooting is rarely repeated, because it comes on low volume and swings a lot. Shot quality depends on the player, though. A contested mid-range shot can be a good shot for an elite mid-range shooter and a bad one for anyone else.",
+     "sources": [
+      "-y6p5PYLf00:r9",
+      "gerS7ibpaJo:r8",
+      "owlM6b8oUd0:r1",
+      "-y6p5PYLf00:r6",
+      "75Sk_4fkgIM:r5"
+     ]
+    },
+    {
+     "text": "Rim finishing comes on more volume and is somewhat more predictable, but swings there matter more. It is still only one part of FG%. An 11-point drop at the rim might cost about 3 points of overall FG%. Check who creates his shots. Elite passers on his team can push a player's finishing and FG% up. If that passer is gone, expect the number to fall. Players with outlier FG% tend to regress, and a small drop can wipe out most of their edge.",
+     "sources": [
+      "-y6p5PYLf00:r6",
+      "-y6p5PYLf00:r7",
+      "-y6p5PYLf00:r10",
+      "ME-r173X5b0:r14"
+     ]
+    },
+    {
+     "text": "Hot stretches: treat extreme runs as noise. Examples are elite true shooting over two months, a post All-Star surge or a spike over the last 30 games. Use the earlier part of his season as the baseline. Be wary of any player whose fantasy value rests on elite shooting, because shooting varies so much.",
+     "sources": [
+      "4gw4W4RTolY:r5",
+      "H9q2FT3LhNw:r1",
+      "ZAyie8lKyYc:r0",
+      "-y6p5PYLf00:r4",
+      "-y6p5PYLf00:r5"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Steal and block conversion",
+   "paragraphs": [
+    {
+     "text": "Steals are among the most volatile categories from year to year. Deflections track steals closely (0.86). Still, only 49% of deflections become steals, and luck decides who recovers the ball. Turning deflections into steals carries over at only 0.32. Do not pay for a career-high steal rate. Check his deflections. A player with many deflections and a low steal total is a candidate to bounce back.",
+     "sources": [
+      "NYTH7uQsPCM:r9",
+      "NYTH7uQsPCM:r8",
+      "8d--aL_xxwE:r12",
+      "ahNxsoU8Hx4:r6"
+     ]
+    },
+    {
+     "text": "Steals also move in the other direction. A drop from three steals to two cuts a third of a player's value in that category, and it can bounce back. Elite steal skills tend to return after a down year. Do not value a player on a single season.",
+     "sources": [
+      "J1Eg3uaAICU:r10",
+      "4gw4W4RTolY:r6"
+     ]
+    },
+    {
+     "text": "Blocks start from rim contests. Shots defended at the rim correlate with blocks. League average conversion of rim contests into blocks is 13.5%. Compare each player with his own career trend. A player with very low conversion could move a couple of points toward average, which adds about 0.2 to 0.3 blocks per game. In our league that can be cheap block upside late in the auction.",
+     "sources": [
+      "NYTH7uQsPCM:r3",
+      "NYTH7uQsPCM:r6",
+      "NYTH7uQsPCM:r7"
+     ]
+    },
+    {
+     "text": "Blocks can also take a double hit. A role or position change can cut his rim contests, while his conversion rate regresses at the same time. Elite shot blockers can lose blocks because opponents stop shooting at them. Age and minutes matter too. Shot blocking brings fouls, and starters on big minutes cannot risk foul trouble, so block and foul rates tend to fall as players age and play more.",
+     "sources": [
+      "NYTH7uQsPCM:r5",
+      "NYTH7uQsPCM:r4",
+      "H9q2FT3LhNw:r3"
+     ]
+    },
+    {
+     "text": "The same logic covers assists. Potential assists correlate with assists at 0.78, and 58% became assists last season. Assist conversion is not sticky (0.27). When two teammates both convert poorly, the team is the more likely cause, not luck. The plan is to build baseline expected blocks, steals and assists for each player, to spot those who fell short through luck.",
+     "sources": [
+      "NYTH7uQsPCM:r10",
+      "8d--aL_xxwE:r12",
+      "NYTH7uQsPCM:r12",
+      "NYTH7uQsPCM:r16",
+      "ME-r173X5b0:r9"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Where the experts disagree",
+   "paragraphs": [
+    {
+     "text": "On block conversion, one expert finds that turning contested rim shots into blocks is very sticky, at 0.82. That means a high converter should mostly keep his rate. Another expert says very high conversion rates should be expected to regress toward the 13.5% league average, and to fall back to the player's own career trend. A middle path for our auction: trust a high block rate that matches the player's career. Discount one that is far above his own history.",
+     "sources": [
+      "8d--aL_xxwE:r12",
+      "NYTH7uQsPCM:r3",
+      "NYTH7uQsPCM:r6"
+     ]
+    },
+    {
+     "text": "On volume, one expert finds three-point attempts very stable (0.88). Another says that after an outlier shooting season on high volume, the volume itself tends to drift back to the career norm. If a player's attempts rose along with a hot percentage, do not assume both will hold.",
+     "sources": [
+      "8d--aL_xxwE:r13",
+      "EB1Z_6n56-o:r3"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "In-season: three-point swings drive buy-low and sell-high",
+   "paragraphs": [
+    {
+     "text": "Many buy-low and sell-high calls come from three-point percentage swings. A buy-low target has usually had a cold streak from three. A sell-high candidate has shot something like 60% from three early in the season. Since accuracy only correlates at 0.45 and volume at 0.88, a cold shooter whose attempts are steady is the one to buy.",
+     "sources": [
+      "8d--aL_xxwE:r14",
+      "8d--aL_xxwE:r13"
+     ]
+    },
+    {
+     "text": "In practice: in the first weeks, offer trades for players whose attempts are normal but whose 3P% is well under their career mark. Shop players who are shooting far above their norm before it cools off. Hot starts built on extreme rim finishing also tend to fade, so sell those as well. Finish these moves before the 2027-03-04 deadline, so that regression helps you in playoff weeks 19 to 21 and does not hurt you.",
+     "sources": [
+      "8d--aL_xxwE:r14",
+      "lOshTzDA4SA:r10",
+      "-y6p5PYLf00:r12"
+     ]
+    },
+    {
+     "text": "On waivers, use the same filter before spending FAB. A short shooting spike from a low-volume player is the classic trap. Check attempts per game and his career percentage before you bid.",
+     "sources": [
+      "ZAyie8lKyYc:r0",
+      "75Sk_4fkgIM:r4"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Auction checklist for 2026-10-18",
+   "paragraphs": [
+    {
+     "text": "For each player whose price depends on shooting, check four things. Is his FT% far from his career rate? Did his 3P% jump on the same or low volume? Does his two-point percentage start with a 7, or does his scoring rest on tough mid-range shots? Did his elite passer leave? If any answer is yes, bid as if his percentages will return to his norm.",
+     "sources": [
+      "-y6p5PYLf00:r12",
+      "okN3fbHJtlA:r3",
+      "-y6p5PYLf00:r9",
+      "owlM6b8oUd0:r1",
+      "-y6p5PYLf00:r10"
+     ]
+    },
+    {
+     "text": "For defense, check two things. Did his steals beat what his deflections suggest? Is his block conversion far from 13.5% and from his career trend? Fade career-high steal and block seasons. Target players whose rates fell below their history, because they can bounce back and should cost less after a down year.",
+     "sources": [
+      "NYTH7uQsPCM:r8",
+      "NYTH7uQsPCM:r6",
+      "ahNxsoU8Hx4:r6",
+      "4gw4W4RTolY:r6"
+     ]
+    }
+   ]
+  }
+ ],
+ "players": [],
+ "excluded": [],
+ "rejected": []
+}

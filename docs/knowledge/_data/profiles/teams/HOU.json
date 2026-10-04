@@ -1,0 +1,253 @@
+{
+ "team": "HOU",
+ "prompt_version": 1,
+ "prompt_sha": "07b4ed7fd28e",
+ "input_sha": "327c7ac8691d",
+ "note_count": 21,
+ "built_at": "2026-10-04T20:02:54+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.2398508,
+  "duration_ms": 65255
+ },
+ "current": [
+  {
+   "text": "The projected starters are Fred VanVleet, Amen Thompson, Kevin Durant, Jabari Smith Jr. and Alperen Sengun.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t1",
+    "yoCTTlJ_tPQ:t0",
+    "stats"
+   ]
+  },
+  {
+   "text": "The guard rotation is crowded. Fred VanVleet is back, and the Rockets added Marcus Smart and Bogdan Bogdanovic.",
+   "kind": "fact",
+   "date": "2026-09-15",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t2",
+    "KPdD91Oo8-U:t0",
+    "W-R1dzem32s:t8",
+    "xHRF06_E9HE:t5"
+   ]
+  },
+  {
+   "text": "With VanVleet back, Amen Thompson moves off point guard.",
+   "kind": "fact",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "J1Eg3uaAICU:t2",
+    "2A2JbUN-kc0:t4"
+   ]
+  },
+  {
+   "text": "Reed Sheppard is pushed down the guard rotation. Under Udoka, Amen Thompson and Marcus Smart could take most of the point guard minutes ahead of him.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "DubdKKhMWHo:t4",
+    "KPdD91Oo8-U:t0",
+    "W-R1dzem32s:t8"
+   ]
+  },
+  {
+   "text": "Reports from Rockets media day say Kevin Durant will play fewer minutes.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:t7"
+   ]
+  },
+  {
+   "text": "Udoka tends to limit Alperen Sengun's minutes. Because of the coach's defensive focus, other bigs sometimes play over him.",
+   "kind": "fact",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:t4",
+    "E-KmhvyZ2CU:t0"
+   ]
+  },
+  {
+   "text": "With Steven Adams back, Jabari Smith Jr. plays more power forward than center.",
+   "kind": "fact",
+   "date": "2026-07-14",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:t5"
+   ]
+  },
+  {
+   "text": "More guard depth may push Durant and Tari Eason into forward roles. That would concentrate the frontcourt minutes.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t2"
+   ]
+  },
+  {
+   "text": "The rotation is about 10 players deep, with Smart, Sheppard, Bogdanovic and Adams on the bench. The roster is thin after the top 10 or 11 players.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t3",
+    "xHRF06_E9HE:t5",
+    "stats"
+   ]
+  },
+  {
+   "text": "The Rockets are a strong team. One expert predicts 54 wins, and the win total of 47.5 ranks 9th of 30. Tanking is not a risk.",
+   "kind": "verdict",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:t3",
+    "stats"
+   ]
+  },
+  {
+   "text": "The team is expected to be conservative in the regular season and not chase seeding.",
+   "kind": "verdict",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:t3"
+   ]
+  },
+  {
+   "text": "With our March 28 end date, the Rockets play 3, 3 and 4 games in weeks 19 to 21. That is 10 games with 2 back-to-back pairs, ranked 17th of 30.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t4",
+    "stats"
+   ]
+  },
+  {
+   "text": "This fantasy playoff schedule is weak.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t4"
+   ]
+  },
+  {
+   "text": "The Rockets have only 14 back-to-backs, so their starters carry a little less rest risk.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t5",
+    "stats"
+   ]
+  },
+  {
+   "text": "Houston controls Brooklyn's draft pick.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t6"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Ime Udoka is a defense-first coach. He gives little room for error to players who struggle on defense.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:t2",
+    "aLP080hxizA:t0"
+   ]
+  },
+  {
+   "text": "Udoka plays his starters heavy minutes.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:t9",
+    "aLP080hxizA:t0"
+   ]
+  },
+  {
+   "text": "Udoka's offense is basic, and he holds grudges against some players.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t0"
+   ]
+  },
+  {
+   "text": "The team plays to maximize possessions. It limits turnovers and dominates the offensive glass to get second chances.",
+   "kind": "fact",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:t1"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "3-3-4 in weeks 19 to 21 with the March 28 end, 10 games, 2 back-to-back pairs, rank 17 of 30",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t4",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "14 back-to-backs, rank 12 of 30",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t5",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "heavy starter minutes",
+   "channel": "durable",
+   "detail": "Ime Udoka plays his starters heavy minutes, though Durant and Sengun are expected to be held lower",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:t9",
+    "aLP080hxizA:t0"
+   ],
+   "new_meaning": "The coach gives his starters heavy minutes, which raises their counting stats and shrinks the bench."
+  },
+  {
+   "name": "contender",
+   "channel": "current",
+   "detail": "Win total 47.5, rank 9 of 30; one expert predicts 54 wins",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:t3",
+    "stats"
+   ],
+   "new_meaning": "The team is expected to win many games this season, so tanking and late-season shutdowns are unlikely."
+  }
+ ],
+ "note": "Houston is a strong defense-first team with a fixed starting five. Starters play heavy minutes, but Kevin Durant (fewer minutes reported at media day) and Alperen Sengun (often limited by Udoka) are the exceptions, and Reed Sheppard loses value in a crowded guard rotation behind VanVleet, Thompson and Smart. The 10-game fantasy playoff schedule is weak, so do not pay extra for Rockets. Early on, watch Durant's and Sengun's minutes and who plays backup point guard.",
+ "rejected": []
+}

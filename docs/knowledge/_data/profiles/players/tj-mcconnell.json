@@ -1,0 +1,155 @@
+{
+ "player": {
+  "name": "T.J. McConnell",
+  "slug": "tj-mcconnell",
+  "pk": 367,
+  "team": "IND",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "ddaa37d0c628",
+ "note_count": 5,
+ "built_at": "2026-10-04T17:49:17+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.12333019999999999,
+  "duration_ms": 30946
+ },
+ "current": [
+  {
+   "text": "He is Indiana's backup point guard. He is part of the bench rotation with Oubre, Toppin, Huff and Jarace Walker.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p41",
+    "EGdhmUgPAWY:t3"
+   ]
+  },
+  {
+   "text": "He should play about 17 to 19 minutes a night, whether or not Haliburton plays.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p41"
+   ]
+  },
+  {
+   "text": "He is a streaming option for FG%, assists and steals, not a player to hold all season.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p40"
+   ]
+  },
+  {
+   "text": "He is 35. The experts list his age as one of the questions on the Pacers roster.",
+   "kind": "fact",
+   "date": "2026-08-10",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:p27"
+   ]
+  },
+  {
+   "text": "With a season end of March 28, Indiana plays 3, 4 and 3 games in our playoff weeks 19 to 21. The team has 15 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t5"
+   ]
+  },
+  {
+   "text": "That playoff schedule is not ideal for a season that ends March 28.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t5"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He shoots a very high field goal percentage, built on a very high two-point percentage. He has no three-point shot.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p40",
+    "sfCe7fS9daM:p26"
+   ]
+  },
+  {
+   "text": "He has a very high steal rate and adds assists. His low minutes keep his per-game steals near the league average.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p40",
+    "sfCe7fS9daM:p26",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is a ball-dominant guard. He led the league in on-ball percentage at about 48%.",
+   "kind": "fact",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p37"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "About 0.2 threes per game. Notes say he has no three-point shot.",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:p26",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "age decline watch",
+   "channel": "durable",
+   "detail": "Age 35. The experts flag his age as a roster question.",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:p27"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Streamer for FG%, AST and STL. He is ranked outside the 144 players who get drafted.",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p40",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "Indiana plays 3, 4 and 3 games in weeks 19 to 21 with a March 28 end.",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t5"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo ranks him 231 and ESPN ranks him 190, and both value him at 0 USD. In a 12-team league that drafts 144 players, he should go undrafted, so do not spend auction money on him. He is a waiver streamer for FG%, assists and steals, and he costs little in turnovers. His FG% helps less than it looks because he takes only about 8 shots a game. He gives nothing in threes and little in points, rebounds or blocks. Early in the season, check that he keeps his 17 to 19 minutes as a 35-year-old. Then stream him in weeks when Indiana plays 4 games. In our playoffs Indiana plays 3, 4 and 3 games, so he is a weak option there.",
+ "rejected": []
+}

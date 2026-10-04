@@ -1,0 +1,371 @@
+{
+ "player": {
+  "name": "Domantas Sabonis",
+  "slug": "domantas-sabonis",
+  "pk": 491,
+  "team": "SAC",
+  "position": "F,C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "82184968aae4",
+ "note_count": 25,
+ "built_at": "2026-10-04T17:30:44+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.21137820000000002,
+  "duration_ms": 60818
+ },
+ "current": [
+  {
+   "text": "Westbrook, Schroder and DeRozan have left Sacramento. That leaves the ball mostly with Sabonis and LaVine.",
+   "kind": "fact",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "DubdKKhMWHo:t1",
+    "DubdKKhMWHo:p9",
+    "2A2JbUN-kc0:t0",
+    "2A2JbUN-kc0:p16",
+    "LM0cRCGoAUQ:t5",
+    "LM0cRCGoAUQ:p28",
+    "-KS_AZjZnw4:t4"
+   ]
+  },
+  {
+   "text": "With the other playmakers gone, experts expect his usage to rise and his assists to return to about 6, with his minutes back to about 33.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "DubdKKhMWHo:p9",
+    "2A2JbUN-kc0:p16",
+    "LM0cRCGoAUQ:p28",
+    "ahNxsoU8Hx4:p36"
+   ]
+  },
+  {
+   "text": "He is a projected starter for the Kings, and Ham calls him the team's best player.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p10",
+    "oEywzBZfAvY:t1",
+    "W3THnI7wWdA:t8"
+   ]
+  },
+  {
+   "text": "Maxime Raynaud should not cut into his minutes. The Kings want to stay out of the relegation zone, so experts expect him to play whenever he is available.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p2",
+    "egRrai3Ax38:t0",
+    "-KS_AZjZnw4:p45",
+    "ahNxsoU8Hx4:t4",
+    "2A2JbUN-kc0:t0"
+   ]
+  },
+  {
+   "text": "Mike Miller runs the Kings offense this season.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:t3"
+   ]
+  },
+  {
+   "text": "It is not clear whether the offense will run through him, and experts are uncertain how the Kings will use him.",
+   "kind": "verdict",
+   "date": "2026-09-24",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p13",
+    "_vbAP5y182A:p19",
+    "_vbAP5y182A:t1"
+   ]
+  },
+  {
+   "text": "A trade is possible. Toronto has talked to the Kings about him in the past, and Sacramento may try to move his contract.",
+   "kind": "fact",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p14",
+    "oEywzBZfAvY:t8",
+    "t4n9MAP2_14:t5",
+    "egRrai3Ax38:t0",
+    "-KS_AZjZnw4:p45"
+   ]
+  },
+  {
+   "text": "Experts call a trade his main risk, but they disagree on what it would do to him. One says he would keep most of his value. Another says a contender could use him as a 23-minute backup. If he left, Sacramento's usage would shift to Keegan Murray and others.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p2",
+    "t4n9MAP2_14:p15",
+    "ahNxsoU8Hx4:p36",
+    "DubdKKhMWHo:p9",
+    "2A2JbUN-kc0:p16",
+    "LM0cRCGoAUQ:p28",
+    "4GDfg2n2l8o:p14"
+   ]
+  },
+  {
+   "text": "Experts expect his FG% and 3P% to recover from last season, and they expect fewer injuries.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p43",
+    "-y6p5PYLf00:p7",
+    "ahNxsoU8Hx4:p36"
+   ]
+  },
+  {
+   "text": "In category leagues, experts put his value in round 3 to 4. He could reach the top 30 again, with a best case of 13th and a worst case of 55th.",
+   "kind": "verdict",
+   "date": "2026-09-24",
+   "until": "",
+   "sources": [
+    "_vbAP5y182A:p19",
+    "t4n9MAP2_14:p15",
+    "ahNxsoU8Hx4:p36",
+    "DubdKKhMWHo:p9"
+   ]
+  },
+  {
+   "text": "Do not take him in the first round or near pick 19 in a category league.",
+   "kind": "verdict",
+   "date": "2026-08-24",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p41",
+    "g31YlwRe0XQ:p8"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a strong, unselfish passer who scores about 19 points a night. He posts big assist and rebound numbers when the offense runs through him.",
+   "kind": "verdict",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p12"
+   ]
+  },
+  {
+   "text": "He needs the ball to get his assists. Many come from dribble handoffs rather than from creating shots for others.",
+   "kind": "verdict",
+   "date": "2026-07-20",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p40"
+   ]
+  },
+  {
+   "text": "Rebounds and FG% on high volume are his strongest categories, and both are clear league outliers. He gets guard-like assists for a big.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He commits many turnovers, which is a clear weakness for his position.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He has never been a steals or blocks player and is a very poor shot blocker.",
+   "kind": "fact",
+   "date": "2026-07-20",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p44",
+    "NYTH7uQsPCM:p10"
+   ]
+  },
+  {
+   "text": "He is not a good three-point shooter and does not defend well.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p7",
+    "t4n9MAP2_14:p15"
+   ]
+  },
+  {
+   "text": "He is worth much more in points leagues than in category leagues. If you take him early in a category league, he is hard to build around.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p1",
+    "t4n9MAP2_14:p16",
+    "g31YlwRe0XQ:p8",
+    "LM0cRCGoAUQ:p28"
+   ]
+  },
+  {
+   "text": "Last season he had a hamstring pull before the season, then a rib injury, then knee problems.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p11"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "FG% anchor",
+   "channel": "durable",
+   "detail": "About 58% on about 12.5 FGA",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "REB specialist",
+   "channel": "durable",
+   "detail": "About 13.7 rebounds per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "AST from a big",
+   "channel": "durable",
+   "detail": "About 6.4 assists per game projected, often from dribble handoffs",
+   "until": "",
+   "sources": [
+    "stats",
+    "oEywzBZfAvY:p12",
+    "-KS_AZjZnw4:p40"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "high TO",
+   "channel": "durable",
+   "detail": "About 3.0 turnovers per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "points league player",
+   "channel": "durable",
+   "detail": "Experts rank him far higher in points formats",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p1",
+    "g31YlwRe0XQ:p8",
+    "LM0cRCGoAUQ:p28",
+    "t4n9MAP2_14:p15"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bounce-back",
+   "channel": "current",
+   "detail": "FG% and 3P% expected to recover, with fewer injuries",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p43",
+    "ahNxsoU8Hx4:p36",
+    "2A2JbUN-kc0:p16"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "Westbrook, Schroder and DeRozan gone; usage and assists expected to rise",
+   "until": "",
+   "sources": [
+    "DubdKKhMWHo:p9",
+    "2A2JbUN-kc0:p16",
+    "LM0cRCGoAUQ:p28"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trade risk",
+   "channel": "current",
+   "detail": "Toronto has talked to the Kings in the past; he could become a backup on a contender",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p14",
+    "oEywzBZfAvY:t8",
+    "t4n9MAP2_14:p15",
+    "t4n9MAP2_14:t5",
+    "egRrai3Ax38:p2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "Hamstring, rib and knee problems",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p11",
+    "-KS_AZjZnw4:p42"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo average cost 22.6 USD vs ESPN average cost 39.3 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "Fantrax ADP 39; could be top 30 again",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p36"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Expect a price somewhere between his Yahoo average cost of 22.6 USD and his ESPN average cost of 39.3 USD. Last season he went for 41 USD in our league. The expert call of round 3 to 4 (ranks 32 to 35) puts a fair price near the middle of that range, so do not pay first-round money. He fits best in a punt TO build that wants FG%, rebounds and assists from the C spot. Early in the season, check whether his assists get back to about 6 and his minutes to about 33 under Mike Miller, and watch for trade news.",
+ "rejected": []
+}

@@ -1,0 +1,234 @@
+{
+ "player": {
+  "name": "Yanic Konan Niederhäuser",
+  "slug": "yanic-konan-niederhauser",
+  "pk": 417,
+  "team": "LAC",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "9b7eaedd41dd",
+ "note_count": 9,
+ "built_at": "2026-10-04T17:51:38+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1515262,
+  "duration_ms": 40013
+ },
+ "current": [
+  {
+   "text": "He is out with a broken foot and will not be ready for opening night. He is out of the boot. The expected return is between Thanksgiving and Christmas, and the team is expected to bring him back slowly. One beat writer says the return could slip to 2027.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "return between Thanksgiving and Christmas",
+   "sources": [
+    "tnzmsYUA4yQ:p43",
+    "KLogvUwv_d8:p11",
+    "4GDfg2n2l8o:p17"
+   ]
+  },
+  {
+   "text": "Experts think he would have been the Clippers' starting center and worth drafting if he had started the season healthy.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p52",
+    "gerS7ibpaJo:p26"
+   ]
+  },
+  {
+   "text": "He outplayed Brook Lopez for big stretches of last season. Over his final seven games he averaged 7 points, 5 rebounds and 1.6 blocks in 17 minutes.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "4GDfg2n2l8o:p17",
+    "tnzmsYUA4yQ:p42"
+   ]
+  },
+  {
+   "text": "Isaiah Jackson is the projected starting center and started over Brook Lopez in preseason scrimmages. Lopez is projected as the backup center.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t3",
+    "tnzmsYUA4yQ:t4",
+    "EGdhmUgPAWY:t6"
+   ]
+  },
+  {
+   "text": "He is an IL stash. After his return he should take the starting center job by February and March at 24 or more minutes, which is enough to matter for fantasy. He could have a top 70 run late in the season.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p44",
+    "ZYllcj4o6_A:p28",
+    "KLogvUwv_d8:p12"
+   ]
+  },
+  {
+   "text": "The Clippers have a good fantasy playoff schedule: 4, 3 and 4 games in weeks 19 to 21. They also have one of the lowest back-to-back totals in the league, with 13.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t6"
+   ]
+  },
+  {
+   "text": "The expert leans toward the Clippers using this season as a trial year with long rotations and many players tested.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t1"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a long, athletic big man and a shot blocker. He has some ball handling and a natural-looking shot form. He has added about 20 pounds of muscle.",
+   "kind": "fact",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "KLogvUwv_d8:p12"
+   ]
+  },
+  {
+   "text": "His fantasy profile looks like Donovan Clingan's, but with better free throws.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p42"
+   ]
+  },
+  {
+   "text": "He makes no threes and gets very few steals. His projected per-game value comes from FG%, few turnovers and blocks.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He broke his foot around March of last season.",
+   "kind": "fact",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "4GDfg2n2l8o:p17",
+    "KLogvUwv_d8:p11"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "injured now",
+   "channel": "current",
+   "detail": "broken foot, Yahoo status O",
+   "until": "return between Thanksgiving and Christmas",
+   "sources": [
+    "tnzmsYUA4yQ:p43",
+    "KLogvUwv_d8:p11",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "IL stash",
+   "channel": "current",
+   "detail": "broken foot; starting center upside by February and March",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p44",
+    "ZYllcj4o6_A:p28"
+   ],
+   "new_meaning": "Injured now, but worth holding in an IL slot for the value he should have after he returns."
+  },
+  {
+   "name": "slow start",
+   "channel": "current",
+   "detail": "out until around Thanksgiving to Christmas; value expected late in the season",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p43",
+    "tnzmsYUA4yQ:p44",
+    "ZYllcj4o6_A:p28"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "expected to start at center by February and March at 24 or more minutes",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p44",
+    "KLogvUwv_d8:p12"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Isaiah Jackson and Brook Lopez at center",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t3",
+    "tnzmsYUA4yQ:t4",
+    "EGdhmUgPAWY:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "top 70 run upside late in the season",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p28"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "4-3-4 in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13 back-to-backs",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "With a Yahoo value of 0 USD and rank 425, he will not be one of the 144 players drafted. Treat him as a free waiver pickup to hold in one of our 4 IL slots, not as an auction target. His late-season upside (24 or more minutes as a starter, a possible top 70 run) lands in our good 4-3-4 playoff weeks. He helps blocks, FG% and turnovers but adds no threes or steals. Early in the season, track his return timeline (Thanksgiving to Christmas) and whether Isaiah Jackson keeps the starting center job.",
+ "rejected": []
+}

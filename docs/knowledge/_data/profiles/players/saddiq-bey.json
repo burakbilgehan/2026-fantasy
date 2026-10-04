@@ -1,0 +1,107 @@
+{
+ "player": {
+  "name": "Saddiq Bey",
+  "slug": "saddiq-bey",
+  "pk": 42,
+  "team": "NOP",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "32f96b9bc2f3",
+ "note_count": 1,
+ "built_at": "2026-10-04T17:47:51+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1060262,
+  "duration_ms": 23714
+ },
+ "current": [
+  {
+   "text": "New Orleans has a crowded rotation of about eight players who could all start, Bey among them. Bennedict Mathurin was also added to the bench. This creates a minutes crunch.",
+   "kind": "fact",
+   "date": "2026-09-04",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:t0",
+    "gerS7ibpaJo:t1"
+   ]
+  },
+  {
+   "text": "The latest projected starting five does not include Bey. It is Zion Williamson, Trey Murphy, Dejounte Murray, likely Yves Missi, and either Jeremiah Fears or Herb Jones.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t1"
+   ]
+  },
+  {
+   "text": "The expert thinks he may only be the seventh or eighth man on the Pelicans. He calls taking him at pick 119 a bad pick.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "E-KmhvyZ2CU:p23"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He blocks almost no shots for a forward, so a punt BLK team loses little with him.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Crowded Pelicans rotation. Not in the projected starting five. Mathurin added to the bench.",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:t0",
+    "gerS7ibpaJo:t1",
+    "ZYllcj4o6_A:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Expert sees him as maybe only the seventh or eighth man",
+   "until": "",
+   "sources": [
+    "E-KmhvyZ2CU:p23"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "Expert calls pick 119 a bad pick for him",
+   "until": "",
+   "sources": [
+    "E-KmhvyZ2CU:p23"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt BLK fit",
+   "channel": "durable",
+   "detail": "About 0.1 blocks per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites price him at the bottom of the draft: 1.0 USD average cost on Yahoo (rank 132) and 0.2 USD on ESPN (rank 134). That puts him on the edge of our 144 drafted players, and the expert thinks even pick 119 is too early. His projected line fits punt BLK builds. It adds some FT% (84%), threes and very few turnovers, but his FG% hurts a little. ESPN projects 27.1 minutes, down from 31.2 last season. Leave him on waivers and check early on whether the crowded Pelicans rotation gives him starter minutes.",
+ "rejected": []
+}

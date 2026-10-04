@@ -1,0 +1,211 @@
+{
+ "player": {
+  "name": "Jabari Smith Jr.",
+  "slug": "jabari-smith",
+  "pk": 527,
+  "team": "HOU",
+  "position": "F,C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "c0a67212e795",
+ "note_count": 10,
+ "built_at": "2026-10-04T17:33:42+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.21207199999999998,
+  "duration_ms": 46074
+ },
+ "current": [
+  {
+   "text": "He is a locked-in starter for Houston. Tari Eason has not passed him on the depth chart, and Lloyd's projected starting five is VanVleet, Thompson, Durant, Smith and Sengun.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:p9",
+    "aLP080hxizA:t1",
+    "yoCTTlJ_tPQ:t0"
+   ]
+  },
+  {
+   "text": "His minutes are stable and higher than Sengun's. Coach Ime Udoka plays his starters very heavy minutes.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p16",
+    "aLP080hxizA:t0",
+    "7BllEsdNLoM:t9"
+   ]
+  },
+  {
+   "text": "With Steven Adams back, he plays more power forward than center.",
+   "kind": "fact",
+   "date": "2026-07-14",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:t5"
+   ]
+  },
+  {
+   "text": "He is not a high-usage player.",
+   "kind": "fact",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:p10"
+   ]
+  },
+  {
+   "text": "Lloyd sees no reason to expect more blocks, more steals or higher usage this season.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p16"
+   ]
+  },
+  {
+   "text": "Drafting him around rank 96 is reasonable, but a pick around ESPN's 122 is a better price. Josh believes he can deliver as a late pick.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p14",
+    "ZYllcj4o6_A:p25"
+   ]
+  },
+  {
+   "text": "With a March 28 end date, Houston has a weak 3-3-4 fantasy playoff schedule, 10 games over weeks 19 to 21.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t4"
+   ]
+  },
+  {
+   "text": "Houston has only 14 back-to-backs this season.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t5"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a 3-and-D role player who is around average in many areas. Smaller, quick guards can beat him on the perimeter.",
+   "kind": "fact",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:p11"
+   ]
+  },
+  {
+   "text": "He will never be a star.",
+   "kind": "verdict",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:p11"
+   ]
+  },
+  {
+   "text": "His interior defense, rim deterrence and weak-side shot blocking have grown a lot.",
+   "kind": "fact",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:p12"
+   ]
+  },
+  {
+   "text": "He shot only about 35% on open and wide-open threes, below league average.",
+   "kind": "fact",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:p13"
+   ]
+  },
+  {
+   "text": "He needs to become a more reliable shooter.",
+   "kind": "verdict",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:p13"
+   ]
+  },
+  {
+   "text": "His FG% is weak for a forward or center, while he makes many threes for his position.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats",
+    "yoCTTlJ_tPQ:p10"
+   ]
+  },
+  {
+   "text": "Josh and Lloyd both call him a boring fantasy pick.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "OdDkXFhoKsc:p53",
+    "aLP080hxizA:p14"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "punt FG fit",
+   "channel": "durable",
+   "detail": "About 44.8% FG projected, weak for a forward or center",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "3PM from a big",
+   "channel": "durable",
+   "detail": "About 2.1 threes per game projected as a F/C",
+   "until": "",
+   "sources": [
+    "stats",
+    "yoCTTlJ_tPQ:p10"
+   ],
+   "new_meaning": "A forward or center who makes many threes for his position, which helps builds that want threes from the frontcourt."
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "3-3-4, 10 games in weeks 19 to 21 with a March 28 end",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "Houston has only 14 back-to-backs",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t5"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He is a cheap, steady starter. Yahoo ranks him 98 at 4 USD, ESPN ranks him 110 at 2 USD, and he went for 1 USD in our league last season, so he is a fine late-auction pick at 1 to 3 USD, and the experts say not to reach for him inside the top 100. He fits punt FG% builds best, since he gives threes and rebounds from a F/C slot with few turnovers. Early in the season, check whether his minutes grow while Durant plays less and whether his better rim defense brings more blocks. His 10-game playoff schedule is a minus.",
+ "rejected": []
+}

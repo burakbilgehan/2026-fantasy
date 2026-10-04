@@ -1,0 +1,230 @@
+{
+ "player": {
+  "name": "Luka Dončić",
+  "slug": "luka-doncic",
+  "pk": 147,
+  "team": "LAL",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "90d342b0df3f",
+ "note_count": 15,
+ "built_at": "2026-10-04T17:41:30+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.13219419999999998,
+  "duration_ms": 32770
+ },
+ "current": [
+  {
+   "text": "LeBron James left the Lakers for the Sixers. Dončić and Austin Reaves are the remaining core, and the Lakers are now fully his team.",
+   "kind": "fact",
+   "date": "2026-08-04",
+   "until": "",
+   "sources": [
+    "_WjOjp6Qu8E:p7",
+    "_WjOjp6Qu8E:t0",
+    "W3THnI7wWdA:t0"
+   ]
+  },
+  {
+   "text": "Experts expect his usage to stay the highest in the league, around 38 to 39 percent, with about 36 minutes.",
+   "kind": "verdict",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:p3",
+    "W-R1dzem32s:p0"
+   ]
+  },
+  {
+   "text": "His scoring is not expected to change much. Without LeBron his assists could rise to about nine per game.",
+   "kind": "verdict",
+   "date": "2026-07-07",
+   "until": "",
+   "sources": [
+    "ME-r173X5b0:p0",
+    "ME-r173X5b0:p1"
+   ]
+  },
+  {
+   "text": "Experts call him a clear number three pick in 9-cat. They take him over Shai for his extra usage, assists, rebounds and consistency. They call his Yahoo rank of 3 about right.",
+   "kind": "verdict",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:p4",
+    "W-R1dzem32s:p0",
+    "J1Eg3uaAICU:p2",
+    "7BllEsdNLoM:p0"
+   ]
+  },
+  {
+   "text": "In a 10-team 9-cat mock draft he went 4th, after Jokic, Wembanyama and Shai.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p1"
+   ]
+  },
+  {
+   "text": "Experts say health is the only real concern with him. One expert says his health also makes the Lakers more vulnerable than the top West teams.",
+   "kind": "verdict",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:p3",
+    "CI4k8ofUXXk:t8"
+   ]
+  },
+  {
+   "text": "The Lakers play four games in the week starting March 15, which is our fantasy playoff week 20.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p29"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a very high-usage player who runs his team's offense.",
+   "kind": "fact",
+   "date": "2026-09-01",
+   "until": "",
+   "sources": [
+    "skKXe2CRl8Q:p4"
+   ]
+  },
+  {
+   "text": "Points, threes, assists and steals are all league outliers on the strong side.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He turns the ball over a lot, about 4 per game. Turnovers are a league outlier on the weak side.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He gives both rebounds and assists. That is a rare combination for a guard, and it adds to his value.",
+   "kind": "fact",
+   "date": "2026-07-15",
+   "until": "",
+   "sources": [
+    "0geFVzSqOnA:p5",
+    "stats"
+   ]
+  },
+  {
+   "text": "Apart from turnovers, his weakest categories are blocks and both percentages. None of them is a league outlier.",
+   "kind": "fact",
+   "date": "2026-09-23",
+   "until": "",
+   "sources": [
+    "C4vlgpJ62NI:p9",
+    "stats"
+   ]
+  },
+  {
+   "text": "He plays passing lanes well, which brings steals. He also draws a lot of charges and often guards bigger players such as power forwards.",
+   "kind": "fact",
+   "date": "2026-08-04",
+   "until": "",
+   "sources": [
+    "_WjOjp6Qu8E:p8",
+    "_WjOjp6Qu8E:p9"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "PTS specialist",
+   "channel": "durable",
+   "detail": "About 32 points per game, led the league last season",
+   "until": "",
+   "sources": [
+    "stats",
+    "ME-r173X5b0:p0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "3PM specialist",
+   "channel": "durable",
+   "detail": "About 4 threes per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "AST specialist",
+   "channel": "durable",
+   "detail": "8 to 9 assists per game",
+   "until": "",
+   "sources": [
+    "stats",
+    "ME-r173X5b0:p1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "STL specialist",
+   "channel": "durable",
+   "detail": "About 1.6 steals per game from playing passing lanes",
+   "until": "",
+   "sources": [
+    "stats",
+    "_WjOjp6Qu8E:p8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "high TO",
+   "channel": "durable",
+   "detail": "About 4 turnovers per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "elite per game",
+   "channel": "durable",
+   "detail": "Experts say health is the only concern",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:p3",
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He is a top 3 to 4 pick and should cost about what our league paid last season (76 USD). The market averages are 70.8 USD on Yahoo and 71.7 USD on ESPN, above the listed values of 59 and 63, so expect to pay over 70 USD. He fits punt TO builds best, since only turnovers are flagged as weak and he is an outlier in points, threes, assists and steals. Early in the season, check his games played (he played 50 and 64 the last two seasons) and whether his assists move toward nine without LeBron.",
+ "rejected": []
+}

@@ -1,0 +1,22 @@
+{
+  "type": "object",
+  "properties": {
+    "decisions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "proposal": {"type": "string", "description": "The proposed name, exactly as given"},
+          "action": {"type": "string", "enum": ["merge", "new", "drop"]},
+          "target": {"type": "string", "description": "merge: existing tag name. new: canonical name. drop: empty"},
+          "meaning": {"type": "string", "description": "new only, else empty"},
+          "kind": {"type": "string", "description": "new only, else empty"},
+          "channel": {"type": "string", "description": "new only: durable or current, else empty"},
+          "reason": {"type": "string", "description": "One short sentence"}
+        },
+        "required": ["proposal", "action", "target", "meaning", "kind", "channel", "reason"]
+      }
+    }
+  },
+  "required": ["decisions"]
+}

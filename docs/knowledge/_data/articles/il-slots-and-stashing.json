@@ -1,0 +1,204 @@
+{
+ "slug": "il-slots-and-stashing",
+ "title": "Using Our 4 IL Slots and Stashing in a Daily League",
+ "type": "topic",
+ "brief": "When is an injured or backup player worth holding in our daily league with 2 bench and 4 IL slots, and when should we cut him for a streamer? It must explain the new Yahoo IL rules (out players go straight to IL, questionable ones do not) and why most stash advice is for other formats.",
+ "tags": [],
+ "rule_ids": [
+  "tnzmsYUA4yQ:r1",
+  "tnzmsYUA4yQ:r2",
+  "tnzmsYUA4yQ:r3",
+  "_O9pc_u5vH0:r9",
+  "ZYllcj4o6_A:r7",
+  "EGdhmUgPAWY:r9",
+  "MUbNYdjpUDM:r4",
+  "MUbNYdjpUDM:r5",
+  "CRLSsoGhb2w:r5",
+  "3UGI05PDvrE:r7",
+  "Bi1cEM03k9Y:r7",
+  "4gw4W4RTolY:r8",
+  "4gw4W4RTolY:r9",
+  "4gw4W4RTolY:r11",
+  "egRrai3Ax38:r0",
+  "egRrai3Ax38:r1",
+  "egRrai3Ax38:r2",
+  "egRrai3Ax38:r3",
+  "t4n9MAP2_14:r7",
+  "E-KmhvyZ2CU:r8",
+  "E-KmhvyZ2CU:r9",
+  "OdDkXFhoKsc:r10",
+  "gerS7ibpaJo:r10",
+  "sTtFUy7IoJI:r3",
+  "RyzcCGChYgs:r5",
+  "NmdNvAz08oE:r6",
+  "skKXe2CRl8Q:r16",
+  "skKXe2CRl8Q:r17",
+  "_vbAP5y182A:r9",
+  "W3THnI7wWdA:r3",
+  "W3THnI7wWdA:r6",
+  "Rqb5GdrSweY:r4"
+ ],
+ "proposed": true,
+ "prompt_sha": "12db90749aa2",
+ "built_at": "2026-10-04T20:22:46+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.0976768,
+  "duration_ms": 37922
+ },
+ "player_slugs": [],
+ "summary": "In our daily league with 2 bench spots, an open roster spot is worth about as much as the 100th-ranked player, so a stash has to beat a streamer to stay. Use the 4 IL slots for players who are officially out. Only take a long-term injured player at the very end of the auction, and cut him as soon as you need the IL slot. Do not hold healthy backups who need the starter to get hurt first.",
+ "sections": [
+  {
+   "heading": "Why most stash advice is not for us",
+   "paragraphs": [
+    {
+     "text": "Most stash advice is written for other formats. The experts keep naming the same ones: best ball, draft only, weekly lock, roto, deep bench and games-cap leagues. In those formats a player who sits out costs you little, because you are not swapping lineups every day.",
+     "sources": [
+      "tnzmsYUA4yQ:r2",
+      "_O9pc_u5vH0:r9",
+      "CRLSsoGhb2w:r5",
+      "3UGI05PDvrE:r7",
+      "4gw4W4RTolY:r9"
+     ]
+    },
+    {
+     "text": "Our league is the opposite case. We set lineups daily, we have only 2 bench spots and there is no games cap. The notes say stashing is risky with daily changes and short benches. A roster spot that plays two games a week also hurts streaming. When you see a stash tip, first check which format it was written for.",
+     "sources": [
+      "E-KmhvyZ2CU:r8",
+      "MUbNYdjpUDM:r4",
+      "Bi1cEM03k9Y:r7",
+      "ZYllcj4o6_A:r7"
+     ]
+    },
+    {
+     "text": "There is a clear price on holding a stash. A streaming spot is worth about the 100th-ranked player. Every week a healthy stash sits on your bench, you give up that production. With 144 players drafted, players around that rank are often on waivers.",
+     "sources": [
+      "skKXe2CRl8Q:r17"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "The new Yahoo IL rules",
+   "paragraphs": [
+    {
+     "text": "Yahoo removed IL+. A player tagged out or injured can now go on IL right away. A player who is questionable, doubtful or probable cannot go on IL. He has to sit on your bench or in your lineup.",
+     "sources": [
+      "egRrai3Ax38:r0"
+     ]
+    },
+    {
+     "text": "We have 4 regular IL slots. One expert suggests turning old IL+ spots into regular IL spots, not bench spots, so you keep the same number of injury slots. Our setup does this.",
+     "sources": [
+      "4gw4W4RTolY:r11"
+     ]
+    },
+    {
+     "text": "The old trick of parking questionable players on IL only gave a small edge. Streaming through the open roster spot gave more flexibility. How much the change matters depends on how quickly Yahoo marks players as out. So check a player's status each day. When he flips to out, move him to IL and use the open spot for a streamer.",
+     "sources": [
+      "egRrai3Ax38:r1",
+      "egRrai3Ax38:r3"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Injured players: when to bid and when to cut",
+   "paragraphs": [
+    {
+     "text": "A late injured player costs little. The value gap between a pick around 110 and your next pick is small. Stashing him around pick 60 costs a lot more. In our auction, that means an injured star is only worth a minimum bid near the end of the draft. He should never take one of your mid-priced slots.",
+     "sources": [
+      "tnzmsYUA4yQ:r1",
+      "OdDkXFhoKsc:r10"
+     ]
+    },
+    {
+     "text": "In a daily league you will need your IL slots during the season, so holding a long-term injured player often fails. The rule is simple. Keep him only while you have an empty IL slot. When you need that slot, cut him for a waiver player. One expert puts a soft timeline on it: use the IL slot early, but cut him once you need the spot after the first two weeks.",
+     "sources": [
+      "tnzmsYUA4yQ:r3",
+      "MUbNYdjpUDM:r5",
+      "E-KmhvyZ2CU:r9",
+      "OdDkXFhoKsc:r10"
+     ]
+    },
+    {
+     "text": "The strength of your team also matters. The better your team is, the longer you can hold struggling or injured players. If you are winning most categories each week, you can afford to wait. If you are losing, the streaming production is worth more than the stash.",
+     "sources": [
+      "skKXe2CRl8Q:r16"
+     ]
+    },
+    {
+     "text": "Injury-prone players who are healthy now are a different case. Thanks to the IL change, they can go on IL as soon as they are ruled out, with no wait. One expert is not sure this should push them further down the board. Note that the advice to move injury-prone players up the board is only for games-cap leagues, and we do not have a cap.",
+     "sources": [
+      "egRrai3Ax38:r2",
+      "Rqb5GdrSweY:r4",
+      "ZYllcj4o6_A:r7"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Backups and handcuffs",
+   "paragraphs": [
+    {
+     "text": "A healthy backup cannot go on IL. He takes one of your 2 bench spots. Backup players held for injury upside make more sense in weekly, deep-bench and games-cap leagues than in ours. The same is true of backup bigs. They are harder to justify in daily leagues where you use your bench all the time.",
+     "sources": [
+      "EGdhmUgPAWY:r9",
+      "gerS7ibpaJo:r10",
+      "sTtFUy7IoJI:r3",
+      "RyzcCGChYgs:r5"
+     ]
+    },
+    {
+     "text": "The default in our league is to leave backup centers on waivers until the starter is out, then bid FAB. Drafting one and waiting for the starter to be traded is usually a waste, especially if he is weak per minute. A player who needs several teammates hurt before he matters is not a must-draft player.",
+     "sources": [
+      "W3THnI7wWdA:r3",
+      "_vbAP5y182A:r9",
+      "W3THnI7wWdA:r6"
+     ]
+    },
+    {
+     "text": "If you do hold one, it should be the best kind of stash: a clear one-for-one backup who would start and play 30-plus minutes if the starter went down. A backup center can also be streamed for blocks, so he is not dead weight on days he plays. Players who are bad in real life can have value on thin teams, but the notes tie that only to stash formats.",
+     "sources": [
+      "4gw4W4RTolY:r8",
+      "RyzcCGChYgs:r5",
+      "NmdNvAz08oE:r6"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Where the experts disagree",
+   "paragraphs": [
+    {
+     "text": "The experts split on whether to draft long-term injured players at all. One side says never draft or stash them, and only pick one up to fill an IL slot that is already empty. The other side says an injured star is fine as a last-round pick parked in an IL slot, because a late pick costs so little. Both sides agree on the exit rule: drop him once you need the slot. For us, that means a minimum bid at most, and only if you expect an IL slot to stay empty for a while.",
+     "sources": [
+      "t4n9MAP2_14:r7",
+      "OdDkXFhoKsc:r10",
+      "tnzmsYUA4yQ:r1",
+      "MUbNYdjpUDM:r5"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Daily checklist",
+   "paragraphs": [
+    {
+     "text": "First, is the player tagged out or injured? If yes, move him to IL and fill the open spot. If he is only questionable, he cannot go on IL, so ask whether he is worth a bench spot. Second, is an IL slot needed for someone better? If yes, cut the long-term stash. Third, would a streamer, worth about the 100th-ranked player, beat what the stash gives you this week? If yes, stream. Finally, if the stash is a healthy backup, keep him only if he is a clear one-for-one starter-in-waiting with 30-plus minutes of upside.",
+     "sources": [
+      "egRrai3Ax38:r0",
+      "MUbNYdjpUDM:r5",
+      "skKXe2CRl8Q:r17",
+      "4gw4W4RTolY:r8"
+     ]
+    }
+   ]
+  }
+ ],
+ "players": [],
+ "excluded": [],
+ "rejected": []
+}

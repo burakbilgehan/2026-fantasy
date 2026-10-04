@@ -1,0 +1,192 @@
+{
+ "player": {
+  "name": "OG Anunoby",
+  "slug": "og-anunoby",
+  "pk": 20,
+  "team": "NYK",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "16c604ac921c",
+ "note_count": 8,
+ "built_at": "2026-10-04T17:45:22+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1338422,
+  "duration_ms": 34079
+ },
+ "current": [
+  {
+   "text": "He is a projected starter for the Knicks next to Brunson, Bridges, Hart and Towns. He is the third option, with usage just under 20 percent in about 33 minutes per game.",
+   "kind": "fact",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:t2",
+    "okN3fbHJtlA:p6",
+    "DubdKKhMWHo:p13"
+   ]
+  },
+  {
+   "text": "Expect more big scoring nights when Brunson or Towns rest. He stays the third option and is not projected to average 25 points.",
+   "kind": "verdict",
+   "date": "2026-08-13",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:p6"
+   ]
+  },
+  {
+   "text": "The Knicks won the championship by beating the Spurs in the Finals. He was their next best player for chunks of those games.",
+   "kind": "fact",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p38",
+    "ZAyie8lKyYc:t8"
+   ]
+  },
+  {
+   "text": "Experts expect the Knicks to be careful with his minutes after the long title run.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p24",
+    "QbdrhJd7LiA:t3",
+    "LM0cRCGoAUQ:p31",
+    "LM0cRCGoAUQ:t6",
+    "W-R1dzem32s:t5"
+   ]
+  },
+  {
+   "text": "The Knicks are expected to trim starters' minutes and give more rest on back-to-backs.",
+   "kind": "verdict",
+   "date": "2026-08-13",
+   "until": "about the first 30 games",
+   "sources": [
+    "okN3fbHJtlA:t1"
+   ]
+  },
+  {
+   "text": "There is some worry about a championship hangover: a minute or two less per game and slightly higher injury risk.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "dlo7L8Ru91A:p20",
+    "dlo7L8Ru91A:t4",
+    "7BllEsdNLoM:t8"
+   ]
+  },
+  {
+   "text": "Experts see his ADP of about 58 to 65 as fair, or slightly low for category leagues.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p24",
+    "LM0cRCGoAUQ:p31",
+    "dlo7L8Ru91A:p20",
+    "DubdKKhMWHo:p13"
+   ]
+  },
+  {
+   "text": "He has the widest outcome range in round five: best case 22nd, worst case 89th, mostly because his steals vary.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "DubdKKhMWHo:p13"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is worth much more in category leagues than in points leagues.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p30",
+    "QbdrhJd7LiA:p24"
+   ]
+  },
+  {
+   "text": "He is an elite defender. He can be streaky, with hot stretches followed by weeks of inconsistency.",
+   "kind": "verdict",
+   "date": "2026-08-13",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:p7"
+   ]
+  },
+  {
+   "text": "He has had knee and ankle problems over his career, but he has stayed healthy for two seasons with the Knicks.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:p7",
+    "LM0cRCGoAUQ:p30"
+   ]
+  },
+  {
+   "text": "Steals are his best category, and he adds threes at a forward spot. No category is a weakness.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "No weak category. Steals and threes are the strengths",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "back-to-back risk",
+   "channel": "current",
+   "detail": "Knicks plan more rest on back-to-backs early in the season",
+   "until": "about the first 30 games",
+   "sources": [
+    "okN3fbHJtlA:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "slow start",
+   "channel": "current",
+   "detail": "Knicks plan to trim starters' minutes after the title run",
+   "until": "about the first 30 games",
+   "sources": [
+    "okN3fbHJtlA:t1",
+    "LM0cRCGoAUQ:t6",
+    "QbdrhJd7LiA:p24"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 14 USD, ESPN value 6 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "At a rank of about 70, he is a mid-round starter in a 144-player draft. He went for 15 USD in our league last season, and Yahoo values him at 14 USD while ESPN says 6 USD, so 10 to 15 USD is a fair range. He has no weak category and his steals stand out, so he fits any build. In the first 30 or so games, check whether the Knicks really cut his minutes and rest him on back-to-backs.",
+ "rejected": []
+}

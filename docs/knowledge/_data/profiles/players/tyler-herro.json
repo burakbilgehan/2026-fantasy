@@ -1,0 +1,204 @@
+{
+ "player": {
+  "name": "Tyler Herro",
+  "slug": "tyler-herro",
+  "pk": 234,
+  "team": "MIL",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "471da47bf664",
+ "note_count": 10,
+ "built_at": "2026-10-04T17:50:31+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1482382,
+  "duration_ms": 38073
+ },
+ "current": [
+  {
+   "text": "Herro was traded from Miami to Milwaukee and will start there. Experts call him a lock to start, and his role is set.",
+   "kind": "fact",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p7",
+    "owlM6b8oUd0:p8",
+    "7BllEsdNLoM:p29",
+    "7BllEsdNLoM:t0"
+   ]
+  },
+  {
+   "text": "He should be Milwaukee's top offensive option and leading scorer and take on part of the creation role. He was Miami's top option too, so the trade changes little for his value.",
+   "kind": "verdict",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p8",
+    "nnWX_ObljOE:p8",
+    "nnWX_ObljOE:p9",
+    "4GDfg2n2l8o:p4"
+   ]
+  },
+  {
+   "text": "Milwaukee's backcourt is crowded. It includes Rollins, Porter, Jakucionis, Burries, Trent and Green.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t4",
+    "7BllEsdNLoM:t0",
+    "sTtFUy7IoJI:t8"
+   ]
+  },
+  {
+   "text": "In that crowded guard group he will not play point guard. One expert sees this as a reason for some skepticism about his assists and usage.",
+   "kind": "verdict",
+   "date": "2026-07-13",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:p20"
+   ]
+  },
+  {
+   "text": "He is on a 33 million USD expiring contract.",
+   "kind": "fact",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p9"
+   ]
+  },
+  {
+   "text": "He is expected to stay in Milwaukee at least until the trade deadline. He could be moved there because Burries is the long-term shooting guard.",
+   "kind": "verdict",
+   "date": "2026-08-14",
+   "until": "trade deadline (2027-03-04)",
+   "sources": [
+    "owlM6b8oUd0:p9",
+    "4GDfg2n2l8o:p4"
+   ]
+  },
+  {
+   "text": "His production in Milwaukee is seen as relatively safe.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p27"
+   ]
+  },
+  {
+   "text": "Experts rate him tier 6 at guard. They call an ADP of 58 to 60 fair and a round 6 pick very strong.",
+   "kind": "verdict",
+   "date": "2026-09-24",
+   "until": "",
+   "sources": [
+    "_vbAP5y182A:p36",
+    "7BllEsdNLoM:p29",
+    "W-R1dzem32s:p27"
+   ]
+  },
+  {
+   "text": "Experts expect Milwaukee to be bad. The team does not own its pick, though, so it has no reason to tank.",
+   "kind": "verdict",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:t0",
+    "sfCe7fS9daM:t8",
+    "owlM6b8oUd0:t4"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He has a long injury history, and experts say it could recur.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p27",
+    "Rqb5GdrSweY:p20"
+   ]
+  },
+  {
+   "text": "He is a high-volume scorer. Most of his value comes from FT%, threes and points. He adds little in steals and blocks, and his turnovers are a small minus.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "Traded from Miami to Milwaukee in the Giannis trade",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trade risk",
+   "channel": "current",
+   "detail": "Expiring 33 million USD deal; Burries is the long-term shooting guard",
+   "until": "trade deadline (2027-03-04)",
+   "sources": [
+    "owlM6b8oUd0:p9",
+    "4GDfg2n2l8o:p4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "Long injury history that could recur",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p27",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "Played 33 games in 2025-26",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:p20",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "No weak category flagged; strengths are FT%, 3PM and PTS",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 16 USD vs ESPN value 7 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Herro ranks around 63 to 68 on both sites. The value calls split: Yahoo values him at 16 USD, ESPN at 7 USD, and he went for 14 USD in our league last year. A price of about 12 to 16 USD fits experts calling him a strong round 6 pick. His FT%, 3PM and PTS help any build, and no category is a real weakness. The main risk is games played: he played 42 and 33 games in two of the last three seasons. Early in the season, check his health, his usage next to Rollins in the crowded Milwaukee backcourt, and any trade talk before the 2027-03-04 deadline.",
+ "rejected": []
+}

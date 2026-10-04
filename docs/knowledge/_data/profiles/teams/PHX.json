@@ -1,0 +1,224 @@
+{
+ "team": "PHX",
+ "prompt_version": 1,
+ "prompt_sha": "07b4ed7fd28e",
+ "input_sha": "b4afb3da271c",
+ "note_count": 15,
+ "built_at": "2026-10-04T20:03:25+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.21830159999999998,
+  "duration_ms": 56371
+ },
+ "current": [
+  {
+   "text": "Mark Williams is out long term with a torn labrum. The expected absence is 5 to 6 months.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:t4",
+    "LM0cRCGoAUQ:t10"
+   ]
+  },
+  {
+   "text": "The starting center job is open. The depth chart still lists Williams as the starter.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:t5",
+    "stats"
+   ]
+  },
+  {
+   "text": "Khaman Maluach is likely to start at center over Oso Ighodaro. Phoenix wants its top 10 pick to take the job.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:t5",
+    "t4n9MAP2_14:t4",
+    "NYTH7uQsPCM:t1"
+   ]
+  },
+  {
+   "text": "Expect Ighodaro and Maluach to split the center minutes.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:t4",
+    "hm5-fiCa5S4:t6"
+   ]
+  },
+  {
+   "text": "A Suns beat writer thinks a young player could join the starting lineup by November. The captions do not make the player's name clear.",
+   "kind": "verdict",
+   "date": "2026-08-24",
+   "until": "",
+   "sources": [
+    "g31YlwRe0XQ:t4"
+   ]
+  },
+  {
+   "text": "The expected starters away from center are Devin Booker, Jalen Green, Dillon Brooks and Miles Bridges.",
+   "kind": "fact",
+   "date": "2026-08-23",
+   "until": "",
+   "sources": [
+    "hm5-fiCa5S4:t0",
+    "stats"
+   ]
+  },
+  {
+   "text": "Phoenix says Jalen Green is the point guard.",
+   "kind": "fact",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:t9"
+   ]
+  },
+  {
+   "text": "Booker is expected to run the offense, whatever the team calls Green.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:t9"
+   ]
+  },
+  {
+   "text": "Collin Gillespie is unlikely to start. He is listed on the second unit.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:t9",
+    "stats"
+   ]
+  },
+  {
+   "text": "Usage is crowded. Booker, Green, Brooks, Gillespie and Bridges will all want touches, which caps the shots for each one.",
+   "kind": "verdict",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:t1"
+   ]
+  },
+  {
+   "text": "Phoenix traded for Miles Bridges. It also re-signed Gillespie and Jordan Goodwin.",
+   "kind": "fact",
+   "date": "2026-07-01",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:t7"
+   ]
+  },
+  {
+   "text": "The starting lineup has no reliable three-point shooter.",
+   "kind": "verdict",
+   "date": "2026-08-23",
+   "until": "",
+   "sources": [
+    "hm5-fiCa5S4:t2"
+   ]
+  },
+  {
+   "text": "The team believes that having more ball handlers will create open threes.",
+   "kind": "fact",
+   "date": "2026-08-23",
+   "until": "",
+   "sources": [
+    "hm5-fiCa5S4:t2"
+   ]
+  },
+  {
+   "text": "Expect a step back this season. The beat writer puts the win total near 41, with a range of about 35 to 50. The market line is 38.5, which ranks 19th.",
+   "kind": "verdict",
+   "date": "2026-08-23",
+   "until": "",
+   "sources": [
+    "hm5-fiCa5S4:t3",
+    "stats"
+   ]
+  },
+  {
+   "text": "Expect the defense to rank around 13th or 14th, down from a top 10 finish.",
+   "kind": "verdict",
+   "date": "2026-08-23",
+   "until": "",
+   "sources": [
+    "hm5-fiCa5S4:t4"
+   ]
+  },
+  {
+   "text": "Phoenix has the fewest back-to-backs in the league (13). That lowers the rest risk for Booker and the other starters.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Phoenix has the best fantasy playoff schedule in the league. It plays 12 games in weeks 19 to 21 (4 each week), with only 2 back-to-back pairs.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Owner Matt Ishbia runs the organization and handles contracts. The front office would rather re-sign its own players on cheap deals than shop in free agency.",
+   "kind": "fact",
+   "date": "2026-08-23",
+   "until": "",
+   "sources": [
+    "hm5-fiCa5S4:t5"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "12 games in weeks 19 to 21 (4, 4, 4), rank 1 of 30, with 2 back-to-back pairs.",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13 back-to-backs, the fewest in the league.",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unclear rotation",
+   "channel": "current",
+   "detail": "The starting center is open with Mark Williams out long term. Maluach is favored over Ighodaro, and a minutes split is expected.",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:t5",
+    "t4n9MAP2_14:t4",
+    "hm5-fiCa5S4:t6"
+   ],
+   "new_meaning": "A team whose starting lineup or minutes at a position are not settled yet."
+  }
+ ],
+ "note": "Mark Williams is out for months. That makes Khaman Maluach the best upside pick here, since he is favored to start at center, while Oso Ighodaro is the fallback if Maluach does not win the job. Booker, Green, Brooks, Gillespie and Bridges all compete for touches, so price the secondary scorers with capped usage in mind. Gillespie looks like a bench player. Phoenix has the fewest back-to-backs and the best schedule for our playoff weeks, which is a small boost for every Suns player you roster. Early on, watch who starts at center and whether Booker or Green runs the offense.",
+ "rejected": []
+}

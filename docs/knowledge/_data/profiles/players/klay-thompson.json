@@ -1,0 +1,85 @@
+{
+ "player": {
+  "name": "Klay Thompson",
+  "slug": "klay-thompson",
+  "pk": 550,
+  "team": "MIA",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "f2c21ac292e7",
+ "note_count": 0,
+ "built_at": "2026-10-04T17:39:42+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.116209,
+  "duration_ms": 28627
+ },
+ "current": [
+  {
+   "text": "Klay Thompson signed with Miami this offseason. Miami traded away Jaime Jaquez Jr. in the same period.",
+   "kind": "fact",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t5"
+   ]
+  },
+  {
+   "text": "Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs. It plays only 10 games in the fantasy playoff weeks.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Threes are his only category clearly above the pool. Steals are a league-level weakness, and his FG% and rebounds are also well below the pool.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "Signed with Miami for 2026-27",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "Miami has the fewest back-to-backs (13)",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "Only 10 Miami games in the fantasy playoff weeks, though no back-to-backs",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Klay Thompson is not worth drafting in our 144-player auction. Yahoo ranks him 207 at a 1 USD cost, ESPN ranks him 224, and both value him at 0. Apart from about 2.6 threes a game, he hurts you in steals, FG% (around 40%) and rebounds. Treat him as a waiver option for teams that need threes, and check early on whether he gets more than about 22 minutes in Miami's thin backcourt.",
+ "rejected": []
+}

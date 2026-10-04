@@ -1,0 +1,293 @@
+{
+ "player": {
+  "name": "Day'Ron Sharpe",
+  "slug": "dayron-sharpe",
+  "pk": 509,
+  "team": "BKN",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "a898cd98a61b",
+ "note_count": 14,
+ "built_at": "2026-10-04T17:29:05+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.29517119999999997,
+  "duration_ms": 70119
+ },
+ "current": [
+  {
+   "text": "He is expected to start at center for Brooklyn after the Nic Claxton trade.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p15",
+    "uRsfijpBPok:p6",
+    "t4n9MAP2_14:p41",
+    "skKXe2CRl8Q:p10",
+    "4GDfg2n2l8o:p9",
+    "3UGI05PDvrE:t1",
+    "uRsfijpBPok:t1"
+   ]
+  },
+  {
+   "text": "Brooklyn signed Mo Wagner. Sharpe shares the center minutes with Wagner and Danny Wolf, and three of the projected bench players are big men.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:p30",
+    "P6TNP-g0wzY:t7",
+    "uRsfijpBPok:p6",
+    "3UGI05PDvrE:t2"
+   ]
+  },
+  {
+   "text": "The experts expect a messy center split that lowers his upside.",
+   "kind": "verdict",
+   "date": "2026-07-02",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:p30",
+    "P6TNP-g0wzY:t7"
+   ]
+  },
+  {
+   "text": "The team's goal is for him to work up to the mid or high 20s in minutes while staying efficient. In past Claxton absences he sometimes played very few minutes.",
+   "kind": "fact",
+   "date": "2026-08-21",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:p8"
+   ]
+  },
+  {
+   "text": "Josh projects about 24 minutes a game and says 30 minutes is almost certainly not happening. Another expert hopes for 28 minutes but doubts it.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p15",
+    "3UGI05PDvrE:p19",
+    "t4n9MAP2_14:p41"
+   ]
+  },
+  {
+   "text": "His value depends on minutes: about rank 80 to 100 at 24 minutes, top 100 at 26 minutes, top 50 to 60 at 27 minutes. If he loses minutes, a pick at his Yahoo rank becomes a bad one.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p19",
+    "4GDfg2n2l8o:p9"
+   ]
+  },
+  {
+   "text": "Josh calls him underpriced on ESPN and a top 100 player. His Yahoo rank is about right for category leagues. He is Josh's best target in category leagues.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p17",
+    "3UGI05PDvrE:p20"
+   ]
+  },
+  {
+   "text": "Plain nine-cat rankings will make him look like a top 20 player, which he will not be.",
+   "kind": "verdict",
+   "date": "2026-06-30",
+   "until": "",
+   "sources": [
+    "4GDfg2n2l8o:p9"
+   ]
+  },
+  {
+   "text": "If he does not start early in the season, that is a rotation change to react to right away.",
+   "kind": "verdict",
+   "date": "2026-09-01",
+   "until": "",
+   "sources": [
+    "skKXe2CRl8Q:p10",
+    "skKXe2CRl8Q:t0"
+   ]
+  },
+  {
+   "text": "He is on a short two-year deal.",
+   "kind": "fact",
+   "date": "2026-08-21",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:p8"
+   ]
+  },
+  {
+   "text": "Brooklyn does not own its pick, so it has no reason to tank but also little reason to win. The second half of the season is uncertain, and frontcourt minutes could shift to young players such as Noah Clowney and Josh Minott.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t0",
+    "3UGI05PDvrE:t3",
+    "LM0cRCGoAUQ:t7",
+    "uRsfijpBPok:t2"
+   ]
+  },
+  {
+   "text": "Brooklyn plays 3-4-3 games in our playoff weeks (10 games) with only one playoff back-to-back. The team has 16 back-to-backs this season, tied for the most in the league.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t4",
+    "gf_6GveiAls:t1"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is one of the best offensive rebounders in the league by the numbers.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:p7",
+    "3UGI05PDvrE:p18"
+   ]
+  },
+  {
+   "text": "He is a per-minute monster who has rarely had the chance to start.",
+   "kind": "verdict",
+   "date": "2026-06-30",
+   "until": "",
+   "sources": [
+    "4GDfg2n2l8o:p8"
+   ]
+  },
+  {
+   "text": "He is no longer a shot blocker. His blocks are poor for a center, while his passing and steals have gone up.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p18",
+    "4GDfg2n2l8o:p8",
+    "stats"
+   ]
+  },
+  {
+   "text": "He has improved as a finisher, has become a versatile defender and has shown flashes of playmaking. He is a strong FG% player.",
+   "kind": "verdict",
+   "date": "2026-08-21",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:p7",
+    "4GDfg2n2l8o:p8"
+   ]
+  },
+  {
+   "text": "He makes almost no threes.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "Expected starting center after the Claxton trade, up from about 19 minutes as a backup",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p15",
+    "3UGI05PDvrE:p16",
+    "uRsfijpBPok:p6",
+    "4GDfg2n2l8o:p9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Center split with Mo Wagner and Danny Wolf",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:p30",
+    "P6TNP-g0wzY:t7",
+    "uRsfijpBPok:p6",
+    "3UGI05PDvrE:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "Josh's best category-league target; top 100 vs ESPN rank 136",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p17",
+    "3UGI05PDvrE:p20"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "Underpriced on ESPN (rank 136, ADP near 140)",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p17"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo 6 USD, rank 91; ESPN 0 USD, rank 136",
+   "until": "",
+   "sources": [
+    "stats",
+    "3UGI05PDvrE:p17"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "9-cat fluff",
+   "channel": "durable",
+   "detail": "Nine-cat rankings may show him as top 20; experts see top 100",
+   "until": "",
+   "sources": [
+    "4GDfg2n2l8o:p9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "About 0.1 to 0.2 threes per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "Only 10 games (3-4-3) in weeks 19 to 21, though just one back-to-back",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t4",
+    "gf_6GveiAls:t1"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo prices him at 6 USD (rank 91) and ESPN at 0 USD (rank 136), and he went undrafted in our league last season. The experts see him as a top 100 category player, so a few USD late in the auction is a fair bet, more so than at Yahoo's price. His value is rebounds, steals and FG% with almost no threes and a weak FT%, so he fits best next to a punt 3PM or punt FT% core. Early in the season, check that he starts and whether his minutes reach the mid 20s or stay near 24. Watch his split with Wagner and Wolf, because at 24 minutes or less he is closer to rank 100 than to the top 60.",
+ "rejected": []
+}

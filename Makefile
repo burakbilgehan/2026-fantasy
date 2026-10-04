@@ -1,4 +1,4 @@
-.PHONY: dev backend frontend install test sync yahoo-auth yahoo-check draft-ingest db-upgrade players-sync schedule-sync past-draft-sync past-stats-sync game-logs-sync game-logs-current roles-sync refresh expert-digest expert-render expert-prompt expert-run
+.PHONY: dev backend frontend install test sync yahoo-auth yahoo-check draft-ingest db-upgrade players-sync schedule-sync past-draft-sync past-stats-sync game-logs-sync game-logs-current roles-sync refresh expert-digest expert-render expert-prompt expert-run knowledge-run knowledge-articles
 
 # Start backend (:8000) and frontend (:5173). Ctrl-C stops both.
 dev:
@@ -92,3 +92,12 @@ EXPERT_SINCE ?= HxQjagSTTAM
 BATCH ?= 10
 expert-run:
 	@cd backend && uv sync -q && .venv/bin/python -m app.jobs.expert_run "$(EXPERT_URL)" --since $(EXPERT_SINCE) --batch $(BATCH) $(if $(PARALLEL),--parallel $(PARALLEL)) $(if $(CACHED_ONLY),--cached-only)
+
+# T-022 profiles: make knowledge-run (selection), PLAYERS=a,b (slugs), ARGS="--force --combined docs/x.md"
+knowledge-run:
+	@cd backend && uv sync -q && .venv/bin/python -m app.jobs.knowledge_run $(if $(PLAYERS),--players $(PLAYERS)) $(if $(PARALLEL),--parallel $(PARALLEL)) $(ARGS)
+
+# T-022 articles (after knowledge-run): make knowledge-articles, ARGS="--replan" or ARGS="--only slug --force"
+knowledge-articles:
+	@cd backend && uv sync -q && .venv/bin/python -m app.jobs.knowledge_articles $(if $(PARALLEL),--parallel $(PARALLEL)) $(ARGS)
+

@@ -1,0 +1,122 @@
+{
+ "player": {
+  "name": "Danny Wolf",
+  "slug": "danny-wolf",
+  "pk": 616,
+  "team": "BKN",
+  "position": "F,C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "3645615cf096",
+ "note_count": 4,
+ "built_at": "2026-10-04T17:27:57+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1619244,
+  "duration_ms": 34281
+ },
+ "current": [
+  {
+   "text": "Brooklyn's projected starters are Mikel Brown Jr., Egor Demin, Michael Porter Jr., Julius Randle and Day'Ron Sharpe. Wolf is projected in the bench rotation with Keon Ellis, Noah Clowney, Mo Wagner and Nolan Traore.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t1",
+    "3UGI05PDvrE:t2",
+    "uRsfijpBPok:t1"
+   ]
+  },
+  {
+   "text": "The Randle trade kills his value at power forward.",
+   "kind": "verdict",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
+    "9tb1ARBEmQU:p7"
+   ]
+  },
+  {
+   "text": "Brooklyn's center minutes will probably be a messy three-way split between Sharpe, Wagner and Wolf. One expert said he could end up as the starting center instead of Sharpe, but newer previews project Sharpe to start.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:t7",
+    "4GDfg2n2l8o:p10",
+    "3UGI05PDvrE:t1",
+    "skKXe2CRl8Q:t0"
+   ]
+  },
+  {
+   "text": "The expert sees no clear breakout for him this season.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p39"
+   ]
+  },
+  {
+   "text": "Brooklyn does not own its pick and has little to play for. Second-half and March minutes are uncertain, and the team may hand minutes to young players such as Clowney and Minott.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t0",
+    "3UGI05PDvrE:t3",
+    "LM0cRCGoAUQ:t7"
+   ]
+  },
+  {
+   "text": "Brooklyn plays 3-4-3 games in our playoff weeks with one playoff back-to-back. The team has 16 back-to-backs this season, tied for the most in the league.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t4",
+    "gf_6GveiAls:t1"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He can play center and can also handle the ball.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p32"
+   ]
+  },
+  {
+   "text": "He is a poor efficiency player across the board. One expert doubts he is an NBA-level player because of his efficiency and defense.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "4GDfg2n2l8o:p10",
+    "LUTYUdXBG1M:p39"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Center minutes split with Day'Ron Sharpe and Mo Wagner, plus Noah Clowney; Julius Randle blocks him at power forward",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:t7",
+    "3UGI05PDvrE:t2",
+    "9tb1ARBEmQU:p7",
+    "4GDfg2n2l8o:t4"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Wolf is not a draft target in our 144-player auction. Both sites value him at 0 USD (Yahoo rank 331, ESPN rank 196), and his projected 41.5% FG with no strong category gives little 9-cat value. Watch only whether Sharpe really starts at center early in the season. If Wolf wins a starting or big center role, he becomes a cheap FAB look for a team that can absorb his FG%.",
+ "rejected": []
+}

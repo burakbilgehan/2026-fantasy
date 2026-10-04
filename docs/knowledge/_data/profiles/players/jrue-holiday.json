@@ -1,0 +1,187 @@
+{
+ "player": {
+  "name": "Jrue Holiday",
+  "slug": "jrue-holiday",
+  "pk": 239,
+  "team": "POR",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "3a8330aef6d0",
+ "note_count": 10,
+ "built_at": "2026-10-04T17:37:47+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.2088448,
+  "duration_ms": 49205
+ },
+ "current": [
+  {
+   "text": "Portland has a crowded guard group: Damian Lillard, Ja Morant, Scoot Henderson and Deni Avdija all handle the ball next to Holiday.",
+   "kind": "fact",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:t1",
+    "sTtFUy7IoJI:t9",
+    "Rqb5GdrSweY:t6",
+    "ME-r173X5b0:t3",
+    "YJk7ZFKFqnI:t0"
+   ]
+  },
+  {
+   "text": "He is expected to play almost only small forward, next to two other guards.",
+   "kind": "verdict",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:p0",
+    "sTtFUy7IoJI:p50"
+   ]
+  },
+  {
+   "text": "He is expected to come off the bench except when Morant or Lillard are out.",
+   "kind": "verdict",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:p2"
+   ]
+  },
+  {
+   "text": "His usage of 24 last season should drop back to a Boston-style role as a low-usage corner spacer.",
+   "kind": "verdict",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p50",
+    "YJk7ZFKFqnI:p1"
+   ]
+  },
+  {
+   "text": "Shaedon Sharpe is injured, which frees some backup minutes in Portland.",
+   "kind": "fact",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p50"
+   ]
+  },
+  {
+   "text": "Experts are not high on him this season. He is solid but has little upside in this Portland setup, even with Sharpe out.",
+   "kind": "verdict",
+   "date": "2026-09-24",
+   "until": "",
+   "sources": [
+    "_vbAP5y182A:p58",
+    "KPdD91Oo8-U:p36",
+    "W-R1dzem32s:p48",
+    "E-KmhvyZ2CU:p24",
+    "bHA-JoW3reE:p10"
+   ]
+  },
+  {
+   "text": "Minutes and usage across the Portland rotation are expected to swing from game to game.",
+   "kind": "verdict",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t5"
+   ]
+  },
+  {
+   "text": "Portland has three back-to-backs in the fantasy playoffs and a five-game week starting February 8.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t6",
+    "gf_6GveiAls:t10"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He can play well in a low-usage role, as he did at 15 to 16 usage in Boston.",
+   "kind": "fact",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p51"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Usage expected to fall from 24 to a low-usage corner spacer role, likely off the bench",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p50",
+    "YJk7ZFKFqnI:p1",
+    "YJk7ZFKFqnI:p2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Crowded Portland backcourt with Lillard, Morant, Henderson and Avdija",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:p0",
+    "sTtFUy7IoJI:p50",
+    "W-R1dzem32s:t1",
+    "Rqb5GdrSweY:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "Expected to start when Morant or Lillard are out",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:p2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Ranked around 131 to 136, at the edge of our 144-player draft pool",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:p10",
+    "_vbAP5y182A:p58",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "No weak category; small help in AST, 3PM and FT%",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "Portland has three back-to-backs in the fantasy playoffs",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t6"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He is at the edge of our 144-player pool. Yahoo ranks him 136 and ESPN 131, both value him at 0 USD, and he cost 3 USD in our league last season. His projections (12 to 12.6 PTS, 4.4 to 4.7 AST on about 10 FGA) are well below last season's 16.3 PTS and 6.1 AST on 13.4 FGA, which matches the experts' call for lower usage. No category is weak, so a 1 USD end-of-draft pick fits any build, but he can also be left on waivers. Early in the season, check whether he starts when Morant or Lillard miss games.",
+ "rejected": []
+}

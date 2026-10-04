@@ -1,0 +1,250 @@
+{
+ "player": {
+  "name": "Daniel Gafford",
+  "slug": "daniel-gafford",
+  "pk": 183,
+  "team": "DAL",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "843bdd089979",
+ "note_count": 9,
+ "built_at": "2026-10-04T17:27:41+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.15528619999999999,
+  "duration_ms": 40127
+ },
+ "current": [
+  {
+   "text": "Dereck Lively, Morez Johnson Jr. and Dharma are all hurt. That leaves Gafford as the likely opening night starting center for Dallas.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p16",
+    "ZYllcj4o6_A:t3"
+   ]
+  },
+  {
+   "text": "If he starts, he could play at a top 100 level for a month or two.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p16"
+   ]
+  },
+  {
+   "text": "Josh ranks him in the 130 to 160 range for the season. He sees Gafford as a late flyer while Lively is out, but not once Lively is healthy.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "Lively returns",
+   "sources": [
+    "XSPJL_mlFXo:p21"
+   ]
+  },
+  {
+   "text": "Josh calls him the stash option on Dallas. He and Morez Johnson Jr. are interchangeable as the late swing pick and the stash.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:p22"
+   ]
+  },
+  {
+   "text": "Worth drafting if he starts at center.",
+   "kind": "verdict",
+   "date": "2026-07-27",
+   "until": "",
+   "sources": [
+    "0AptxcRW0RE:p15"
+   ]
+  },
+  {
+   "text": "Dallas has been shopping him. Three different front offices have tried to trade him.",
+   "kind": "fact",
+   "date": "2026-07-27",
+   "until": "",
+   "sources": [
+    "0AptxcRW0RE:p12",
+    "0AptxcRW0RE:p13"
+   ]
+  },
+  {
+   "text": "Experts expect Dallas to trade him.",
+   "kind": "verdict",
+   "date": "2026-07-27",
+   "until": "",
+   "sources": [
+    "0AptxcRW0RE:p12",
+    "0AptxcRW0RE:t6",
+    "P6TNP-g0wzY:t1"
+   ]
+  },
+  {
+   "text": "Dusty May is the new Dallas head coach. It is unknown how he will split center minutes between Lively, Gafford, Powell and Johnson.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t1"
+   ]
+  },
+  {
+   "text": "Dallas has a 4-4-4 schedule in the fantasy playoff weeks, probably the best in the league. It also has the league-high 16 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t4",
+    "gf_6GveiAls:t3"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He has recurring ankle problems.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p17",
+    "0AptxcRW0RE:p14"
+   ]
+  },
+  {
+   "text": "His rim finishing and rim protection are below the elite levels he once had.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p17",
+    "0AptxcRW0RE:p14"
+   ]
+  },
+  {
+   "text": "Very high FG% lifts a team's FG% clearly. He makes no threes. Blocks are a plus against the pool.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Not a great points league play.",
+   "kind": "verdict",
+   "date": "2026-09-01",
+   "until": "",
+   "sources": [
+    "80kfLVnFQ_s:p38"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "FG% anchor",
+   "channel": "durable",
+   "detail": "about 69% FG projected",
+   "sources": [
+    "stats"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "",
+   "sources": [
+    "stats"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "punt 3PM fit",
+   "channel": "durable",
+   "detail": "",
+   "sources": [
+    "stats"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "recurring ankle problems",
+   "sources": [
+    "ZYllcj4o6_A:p17",
+    "0AptxcRW0RE:p14"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "trade risk",
+   "channel": "current",
+   "detail": "Dallas has shopped him",
+   "sources": [
+    "0AptxcRW0RE:p12",
+    "0AptxcRW0RE:p13",
+    "0AptxcRW0RE:t6",
+    "P6TNP-g0wzY:t1"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Lively, Powell and Morez Johnson Jr. at center under a new coach",
+   "sources": [
+    "XSPJL_mlFXo:t1",
+    "XSPJL_mlFXo:p21"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "starts while Lively is out",
+   "sources": [
+    "ZYllcj4o6_A:p16",
+    "XSPJL_mlFXo:p21"
+   ],
+   "until": "Lively returns",
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "late pick while Lively is out",
+   "sources": [
+    "XSPJL_mlFXo:p21",
+    "XSPJL_mlFXo:p22"
+   ],
+   "until": "Lively returns",
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "Dallas 4-4-4 in weeks 19 to 21",
+   "sources": [
+    "XSPJL_mlFXo:t4",
+    "gf_6GveiAls:t3"
+   ],
+   "until": "",
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites price him at 1 to 2 USD and rank him 114 to 120, near the end of our 144-player draft, so he is a 1 USD late pick at most. He fits a punt 3PM build that wants FG% and blocks, and he can start early while Lively, Johnson and Dharma are hurt. Before and early in the season, check whether he starts on opening night, how soon Lively is back, and any trade news.",
+ "rejected": []
+}

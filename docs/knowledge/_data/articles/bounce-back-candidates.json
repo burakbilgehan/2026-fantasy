@@ -1,0 +1,231 @@
+{
+ "slug": "bounce-back-candidates",
+ "title": "Bounce-Back Candidates",
+ "type": "compilation",
+ "brief": "Which players had a down season from injury, role or a shooting or steals slump and could return to their earlier level? It must explain why one bad season should not set the price and which bounce-backs depend on unstable stats.",
+ "tags": [
+  "bounce-back"
+ ],
+ "rule_ids": [
+  "-KS_AZjZnw4:r2",
+  "-KS_AZjZnw4:r4",
+  "ZYllcj4o6_A:r9",
+  "4gw4W4RTolY:r6",
+  "ahNxsoU8Hx4:r6",
+  "egRrai3Ax38:r10",
+  "YJk7ZFKFqnI:r3",
+  "J1Eg3uaAICU:r6"
+ ],
+ "proposed": true,
+ "prompt_sha": "12db90749aa2",
+ "built_at": "2026-10-04T20:18:33+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.15566080000000002,
+  "duration_ms": 56525
+ },
+ "player_slugs": [
+  "aaron-nesmith",
+  "christian-braun",
+  "coby-white",
+  "darius-garland",
+  "derrick-white",
+  "domantas-sabonis",
+  "dyson-daniels",
+  "ivica-zubac",
+  "jakob-poeltl",
+  "jalen-green",
+  "jalen-williams",
+  "jayson-tatum",
+  "john-collins",
+  "myles-turner",
+  "trae-young",
+  "zach-lavine"
+ ],
+ "summary": "One bad season should not set a player's price. Injuries, role changes and shooting or steals slumps often reverse, and drafters fear last year's injuries more than they should. In our auction, pay for bounce-backs that rest on health, role and real skills such as FT% and a long steals record. Keep bids small or wait on waivers when the case needs an unstable stat like a FG% jump or a career-high steal rate to return.",
+ "sections": [
+  {
+   "heading": "Why one bad season should not set the price",
+   "paragraphs": [
+    {
+     "text": "One bad season does not make a player bad. Do not price anyone on a single year. Look at his longer record and ask why the last season went wrong. If the cause was an injury, a role change or a slump that is now gone, his earlier level is the better guide.",
+     "sources": [
+      "ZYllcj4o6_A:r9",
+      "4gw4W4RTolY:r6"
+     ]
+    },
+    {
+     "text": "Do not let one season flip a long-term story either. A player who was reliable for years and then missed time is not suddenly injury prone. A player who was injury prone for years is not safe after one healthy season. Set your value from the long record before the auction on 2026-10-18 and stick to it in the room.",
+     "sources": [
+      "J1Eg3uaAICU:r6"
+     ]
+    },
+    {
+     "text": "Drafters worry too much about players coming back from an injury that ruined last season. You can trust them more than their ADP suggests. In our auction, that means you can keep bidding on these players up to your own pre-set value even when the room goes quiet. A cheap market price is often the injury fear, not the player.",
+     "sources": [
+      "egRrai3Ax38:r10"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Where bounce-backs come from",
+   "paragraphs": [
+    {
+     "text": "Bounce-back candidates come from three places: role changes, injuries and shooting slumps. Sort every candidate into one of these groups before the draft. Each group has a different early check. Role cases need minutes and usage. Injury cases need health reports and minutes. Slump cases need the percentages themselves.",
+     "sources": [
+      "-KS_AZjZnw4:r2"
+     ]
+    },
+    {
+     "text": "A lower shooting percentage can recover when a player's usage drops. Fewer forced shots often means better ones. This matters in our league because FG% is a team ratio. A high-volume shooter who goes from poor to average efficiency helps your team FG% more than a low-volume player with a good percentage. When a player moves next to a stronger scorer or a better passer, treat his FG% as likely to improve, not as fixed at last year's number.",
+     "sources": [
+      "YJk7ZFKFqnI:r3"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Which stats rebound and which are unstable",
+   "paragraphs": [
+    {
+     "text": "Several players had big free throw drops for no clear reason. Treat that as a pattern that will likely revert. A FT% drop with no injury or mechanics story is one of the safer bounce-backs to pay for. Bid on the career FT% rate, not last season's.",
+     "sources": [
+      "-KS_AZjZnw4:r4"
+     ]
+    },
+    {
+     "text": "Steals swing in both directions from year to year. Never pay for a career-high steal rate, because it is the stat most likely to fall back. A player whose steals dropped is a different case. If he has a long record of high steals, he can bounce back. Separate those two cases before you bid on any steals specialist.",
+     "sources": [
+      "ahNxsoU8Hx4:r6",
+      "4gw4W4RTolY:r6"
+     ]
+    },
+    {
+     "text": "The least stable bounce-backs depend on FG% or three-point percentage coming back after an injury or a role change. They can happen, but only if health and usage go the right way. Pay a modest price for these players. Check their percentages in the first two to three weeks before you trust them in your lineup.",
+     "sources": [
+      "YJk7ZFKFqnI:r3",
+      "-KS_AZjZnw4:r2"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Where the experts differ on steals",
+   "paragraphs": [
+    {
+     "text": "The notes lean in different directions on steals. One note uses elastic band theory: steals are an elite skill, so a down year should snap back toward the player's normal level. Another note stresses that steals are variable in both directions and warns against paying for any one year's rate. Both agree a drop can reverse. They differ on how much you should trust that. A middle path for our league: pay a fair price for a player with several strong steals seasons and one down year, but do not add a premium for the expected rebound.",
+     "sources": [
+      "4gw4W4RTolY:r6",
+      "ahNxsoU8Hx4:r6"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "How to use this in our auction and on waivers",
+   "paragraphs": [
+    {
+     "text": "Early in the auction, only pay full price for bounce-backs that rest on health and role, where the skills were never in doubt. In the middle of the draft, target slump cases tied to FT% or a long steals record at prices near the current market. Do not go back to what our league paid last season. Late, near the 144-player cutoff, take FG% and shooting rebounds for 1 to 5 USD. Leave the weakest cases on waivers and watch them.",
+     "sources": [
+      "ZYllcj4o6_A:r9",
+      "-KS_AZjZnw4:r4",
+      "ahNxsoU8Hx4:r6"
+     ]
+    },
+    {
+     "text": "After the draft, track minutes, usage and the key percentage for each bounce-back in the first weeks. Waivers process daily with a limit of 6 adds per week. That leaves room to drop a late flyer whose role did not come back and add one whose FG% did. Keep some FAB for players left undrafted whose shooting recovers early.",
+     "sources": [
+      "YJk7ZFKFqnI:r3",
+      "-KS_AZjZnw4:r2"
+     ]
+    }
+   ]
+  }
+ ],
+ "players": [
+  {
+   "slug": "jayson-tatum",
+   "tier": "Core targets",
+   "line": "His bounce-back rests on health and an elite long-term skill set, with FG% expected to recover after the Achilles return. That is the kind of injury fear the notes say to bid through."
+  },
+  {
+   "slug": "jalen-williams",
+   "tier": "Core targets",
+   "line": "This is an injury bounce-back where the injuries are not expected to repeat, and his all-around line has no weak category, so the case does not depend on an unstable stat."
+  },
+  {
+   "slug": "domantas-sabonis",
+   "tier": "Value at price",
+   "line": "His case leans on FG% and 3P% recovering and on fewer injuries. Pay the middle of the market, not last season's league price."
+  },
+  {
+   "slug": "trae-young",
+   "tier": "Value at price",
+   "line": "This is an injury year with low minutes, and the bounce-back is mostly about playing time returning. Check his minutes early and do not repeat last season's price."
+  },
+  {
+   "slug": "darius-garland",
+   "tier": "Value at price",
+   "line": "A bad toe sank his rank last season. That is a health-based bounce-back the market still underrates."
+  },
+  {
+   "slug": "derrick-white",
+   "tier": "Value at price",
+   "line": "His bounce-back depends on FG% rising with more catch-and-shoot looks, which is less stable, so aim near the low market price and not last year's overpay."
+  },
+  {
+   "slug": "dyson-daniels",
+   "tier": "Value at price",
+   "line": "This is a steals and three-point rebound case. The steals have a track record, but both stats swing, so pay a fair price without a rebound premium."
+  },
+  {
+   "slug": "coby-white",
+   "tier": "Value at price",
+   "line": "A new starting role and a FT% recovery after an injury-hit season make this one of the safer kinds of bounce-back."
+  },
+  {
+   "slug": "ivica-zubac",
+   "tier": "Value at price",
+   "line": "His rebound depends on a new pick-and-roll role. The skills are stable, but the playoff schedule and minutes split are concerns."
+  },
+  {
+   "slug": "john-collins",
+   "tier": "Late flyers",
+   "line": "Rebounds and FT% dipped last season. A FT% drop tends to revert, so he is a cheap filler likely to beat his rank."
+  },
+  {
+   "slug": "myles-turner",
+   "tier": "Late flyers",
+   "line": "Experts disagree on his bounce-back after a bad season. He is a late buy for a few dollars, depending on minutes in a new setup."
+  },
+  {
+   "slug": "zach-lavine",
+   "tier": "Late flyers",
+   "line": "His role and usage are uncertain and the projections split, so he is a cheap flyer near the cutoff."
+  },
+  {
+   "slug": "jakob-poeltl",
+   "tier": "Late flyers",
+   "line": "His upside depends on blocks returning now that his back is healthy. That is a health case at a near-minimum price."
+  },
+  {
+   "slug": "jalen-green",
+   "tier": "Late flyers",
+   "line": "FT% and 3P% should recover and minutes should rise, but his FG% and turnovers limit him to punt builds."
+  },
+  {
+   "slug": "aaron-nesmith",
+   "tier": "Waiver watch",
+   "line": "His whole case depends on an unstable FG% rebound next to Haliburton, so leave him on waivers and check his early shooting."
+  },
+  {
+   "slug": "christian-braun",
+   "tier": "Waiver watch",
+   "line": "One expert predicts a bounce-back after the ankle injury, but the newer note still calls him overvalued, so he is a last pick at most."
+  }
+ ],
+ "excluded": [],
+ "rejected": []
+}

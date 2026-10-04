@@ -1,0 +1,189 @@
+{
+ "player": {
+  "name": "De'Aaron Fox",
+  "slug": "deaaron-fox",
+  "pk": 179,
+  "team": "SAS",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "398e85c0dbac",
+ "note_count": 11,
+ "built_at": "2026-10-04T17:28:40+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1505262,
+  "duration_ms": 42744
+ },
+ "current": [
+  {
+   "text": "Fox is expected to start for the Spurs next to Stephon Castle, and the team still has a lot of faith in him.",
+   "kind": "fact",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p12",
+    "ZAyie8lKyYc:t2",
+    "7BllEsdNLoM:p35",
+    "7BllEsdNLoM:t4",
+    "gerS7ibpaJo:t2"
+   ]
+  },
+  {
+   "text": "Point guard depth in San Antonio is thin. The Spurs may start Dylan Harper, Castle and Fox together, and they stagger their three guards so that at least two are always on the court.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:t2",
+    "ZAyie8lKyYc:t3"
+   ]
+  },
+  {
+   "text": "Castle initiates the offense. Fox often starts possessions off the ball and is used as a secondary weapon.",
+   "kind": "fact",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p13"
+   ]
+  },
+  {
+   "text": "The guard rotation is crowded. Dylan Harper is expected to play more, and Castle, Harper and Fox cannot all get bigger roles.",
+   "kind": "fact",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p36",
+    "g31YlwRe0XQ:t0",
+    "7BllEsdNLoM:t4",
+    "W3THnI7wWdA:t5",
+    "uarqbNA2dFk:t3"
+   ]
+  },
+  {
+   "text": "He suffered a serious high ankle sprain in the playoff series against Minnesota. He came back in about 10 days from what is normally a four to six week injury, was clearly not himself and lost his downhill burst.",
+   "kind": "fact",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p11",
+    "ZAyie8lKyYc:p15"
+   ]
+  },
+  {
+   "text": "A healthy Fox is called the key ceiling raiser for the Spurs, whose offense relies on downhill guard penetration.",
+   "kind": "verdict",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p15",
+    "ZAyie8lKyYc:t6"
+   ]
+  },
+  {
+   "text": "Experts disagree on his price. The two newest notes say his ESPN draft spot around 42 is too high and assumes a big bounce-back they doubt; Josh would not rule out a finish around 43 to 45 but will not take the risk there. Earlier September notes say drafters penalize him too much and the hate on him has gone too far.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p36",
+    "uarqbNA2dFk:p42",
+    "7BllEsdNLoM:p35",
+    "80kfLVnFQ_s:p32"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "His game is built on downhill drives to the basket.",
+   "kind": "fact",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p15",
+    "ZAyie8lKyYc:t6"
+   ]
+  },
+  {
+   "text": "Injury history: hamstring problems during the 2025-26 season and a serious high ankle sprain in the 2026 playoffs.",
+   "kind": "fact",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p36",
+    "ZAyie8lKyYc:p11"
+   ]
+  },
+  {
+   "text": "His category profile is balanced. No category is a league outlier or flagged weak. Assists, steals and points are his best categories, and turnovers are his weakest.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Dylan Harper is expected to play more; Castle runs the offense",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p36",
+    "g31YlwRe0XQ:t0",
+    "7BllEsdNLoM:t4",
+    "ZAyie8lKyYc:p13"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "Called too high at his ESPN draft spot around 42",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p36",
+    "uarqbNA2dFk:p42"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "Some experts say drafters penalize him too much",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p35",
+    "80kfLVnFQ_s:p32"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 74 and average cost 6.2 USD; ESPN rank 52 and average cost 10.2 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "No category flagged weak",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Fox went for 21 USD in our league last season. The market now has him much lower: Yahoo values him at 13 USD with a 6.2 USD average cost (rank 74), and ESPN at 10 USD with a 10.2 USD average cost (rank 52). With no weak category he fits any build, so he is a fair target around 10 to 13 USD but not at last year's price. Early in the season, check whether his downhill burst is back after the ankle sprain and whether his minutes hold near last season's 31 per game as Harper's role grows.",
+ "rejected": []
+}

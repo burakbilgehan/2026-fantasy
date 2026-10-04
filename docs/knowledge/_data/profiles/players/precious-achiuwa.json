@@ -1,0 +1,119 @@
+{
+ "player": {
+  "name": "Precious Achiuwa",
+  "slug": "precious-achiuwa",
+  "pk": 1,
+  "team": "SAC",
+  "position": "F,C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "725640ad1e97",
+ "note_count": 2,
+ "built_at": "2026-10-04T17:46:38+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1578742,
+  "duration_ms": 32191
+ },
+ "current": [
+  {
+   "text": "He re-signed with Sacramento for 2 years and 11.5 million USD.",
+   "kind": "fact",
+   "date": "2026-07-01",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p44"
+   ]
+  },
+  {
+   "text": "He started late last season only because Keegan Murray and DeAndre Hunter were hurt. His 73rd rank after the deadline came while Murray, Hunter and Domantas Sabonis were out.",
+   "kind": "fact",
+   "date": "2026-07-14",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p44",
+    "xHRF06_E9HE:p39"
+   ]
+  },
+  {
+   "text": "The Kings' projected starters are Acuff, LaVine, Hunter, Murray and Sabonis, so he is not in the starting group.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:t1",
+    "W3THnI7wWdA:t8"
+   ]
+  },
+  {
+   "text": "He is expected to be a reserve big. The experts say his late-season run was not real and he should not be drafted because of it.",
+   "kind": "verdict",
+   "date": "2026-07-14",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p44",
+    "xHRF06_E9HE:p39"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He makes almost no threes, about 0.3 per game.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Reserve big behind Sabonis, Murray and Hunter after starting late last season because of injuries",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p44",
+    "xHRF06_E9HE:p39"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "Ranked 73rd after the deadline while Murray, Hunter and Sabonis were out",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:p39",
+    "W3THnI7wWdA:p44"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Not a draft target. Gains value only if Sacramento frontcourt starters miss time",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p44",
+    "xHRF06_E9HE:p39"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "About 0.3 threes per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Achiuwa is priced at 0 USD on both sites (Yahoo rank 204, ESPN 153) and was not drafted in our league, so he is outside our 144-player draft pool. Both experts say not to draft him off his late-season run. His 10.1 points and 6.7 rebounds in 24 minutes last season came mostly as an injury fill-in, and his category line has no standout strength. Leave him on waivers and pick him up only if Sabonis, Murray or Hunter misses real time.",
+ "rejected": []
+}

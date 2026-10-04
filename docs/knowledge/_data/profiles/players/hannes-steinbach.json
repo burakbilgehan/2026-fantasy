@@ -1,0 +1,191 @@
+{
+ "player": {
+  "name": "Hannes Steinbach",
+  "slug": "hannes-steinbach",
+  "pk": 532,
+  "team": "CHA",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "4eb719099edf",
+ "note_count": 9,
+ "built_at": "2026-10-04T17:32:17+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.14928619999999998,
+  "duration_ms": 36311
+ },
+ "current": [
+  {
+   "text": "He is a rookie. Charlotte took him with the 14th pick of the 2026 draft.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p17",
+    "EB1Z_6n56-o:p18"
+   ]
+  },
+  {
+   "text": "The latest Charlotte preview lists him on the bench. The projected starters are White, Knueppel, Miller, Reid and Diabaté.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t3"
+   ]
+  },
+  {
+   "text": "The center plan in Charlotte is unclear. He competes with Moussa Diabaté and Ryan Kalkbrenner for center minutes, and Naz Reid plays the four.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t2",
+    "ya2VYRJ1BN0:p17",
+    "RsjGTgJiKyI:p21",
+    "RsjGTgJiKyI:t0",
+    "EB1Z_6n56-o:p19"
+   ]
+  },
+  {
+   "text": "He can play next to Diabaté in four-out lineups, and some people have talked about starting him.",
+   "kind": "fact",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:p19"
+   ]
+  },
+  {
+   "text": "Charlotte did not let him shoot threes in Summer League. The team also kept big man Ryan Kalkbrenner from shooting threes last season.",
+   "kind": "fact",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p22",
+    "TOn-D1SV7a8:t4"
+   ]
+  },
+  {
+   "text": "Experts expect him to play well short of 30 minutes in a three-center rotation that also uses Grant Williams as a small-ball five.",
+   "kind": "verdict",
+   "date": "2026-06-25",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p13",
+    "lOshTzDA4SA:t5"
+   ]
+  },
+  {
+   "text": "One expert sees a path for him to start soon.",
+   "kind": "verdict",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p22"
+   ]
+  },
+  {
+   "text": "Draft advice: he is a stash only in deep leagues, such as 16-team leagues. Draft him in all leagues if Charlotte names him a starter.",
+   "kind": "verdict",
+   "date": "2026-09-27",
+   "until": "Charlotte names him a starter",
+   "sources": [
+    "CRLSsoGhb2w:p17"
+   ]
+  },
+  {
+   "text": "Charlotte has only 13 back-to-backs this season, the league minimum. With a March 28 end, it plays 4, 3 and 4 games in our playoff weeks.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t5"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He was the best rebounder in college basketball, and his rebounding carried over to Summer League.",
+   "kind": "fact",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:p18"
+   ]
+  },
+  {
+   "text": "Experts call him a hyper-competitive, monster rebounder who can block shots and score.",
+   "kind": "verdict",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p18",
+    "TOn-D1SV7a8:p22",
+    "lOshTzDA4SA:p12"
+   ]
+  },
+  {
+   "text": "Experts say he can shoot a little, including some threes, and makes some free throws. One sees good usage with good FG% and FT%.",
+   "kind": "verdict",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p18",
+    "EB1Z_6n56-o:p18",
+    "lOshTzDA4SA:p12"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "rookie",
+   "channel": "current",
+   "detail": "14th pick in 2026",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p17",
+    "EB1Z_6n56-o:p18"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Shares center minutes with Diabaté and Kalkbrenner. Reid plays the four.",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t2",
+    "ya2VYRJ1BN0:p17",
+    "RsjGTgJiKyI:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Deep-league stash only. Add him if Charlotte names him a starter.",
+   "until": "Charlotte names him a starter",
+   "sources": [
+    "CRLSsoGhb2w:p17",
+    "lOshTzDA4SA:p13"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "Charlotte has 13 back-to-backs, the league minimum",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t5"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He is not a draft target in our 12-team auction. Both sites value him at 0 USD, with a Yahoo rank of 656 and an ESPN rank of 250, and our league drafts only 144 players. His projected line is about 18 minutes with 7.7 points and 4.7 rebounds. It has small pluses in blocks and turnovers, but few threes, assists or steals. Watch the preseason and opening-week lineups: if Charlotte starts him over Diabaté, the expert advice is to draft or pick him up as a rebounds and blocks big who does not hurt FG%.",
+ "rejected": []
+}

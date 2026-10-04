@@ -1,0 +1,96 @@
+{
+ "player": {
+  "name": "Alex Caruso",
+  "slug": "alex-caruso",
+  "pk": 92,
+  "team": "OKC",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "657b5b858a3c",
+ "note_count": 1,
+ "built_at": "2026-10-04T17:22:11+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.12951079999999998,
+  "duration_ms": 24911
+ },
+ "current": [
+  {
+   "text": "OKC traded Lu Dort, Aaron Wiggins and Isaiah Joe to save salary. Apart from Jalen Williams and Caruso, the team has no true wings left who can guard bigger forwards.",
+   "kind": "fact",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:t0",
+    "75Sk_4fkgIM:t1",
+    "75Sk_4fkgIM:t2"
+   ]
+  },
+  {
+   "text": "Guard minutes are expected to go to Shai Gilgeous-Alexander, Ajay Mitchell, Cason Wallace and Topic. Cason Wallace is almost certain to start.",
+   "kind": "verdict",
+   "date": "2026-08-30",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:t0",
+    "Alwse2uXzD4:t0"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He can defend bigger forwards.",
+   "kind": "fact",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p35"
+   ]
+  },
+  {
+   "text": "Steals are his best category and clearly above the top 250 pool. He also keeps turnovers low.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Points are his weakest category for his position.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "punt PTS fit",
+   "channel": "durable",
+   "detail": "projected 7.7 points per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 196, ESPN rank 137; ESPN projects 69 games and more minutes than Yahoo's 58 games",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites value him at 0 USD (Yahoo rank 196, ESPN rank 137), and he went undrafted in our league last season, so he is a last-dollar pick or waiver option at most. His value is steals (about 1.6 per game projected) with few turnovers. He fits a punt PTS build and gives little elsewhere after averaging 18.2 minutes last season. Early in the season, check whether OKC's loss of Dort, Wiggins and Joe pushes his minutes toward ESPN's 24.3-minute projection. If it does, his steals become worth a roster spot.",
+ "rejected": []
+}

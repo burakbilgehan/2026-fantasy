@@ -1,0 +1,77 @@
+{
+ "player": {
+  "name": "Jaylin Williams",
+  "slug": "jaylin-williams",
+  "pk": 605,
+  "team": "OKC",
+  "position": "F,C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "c1253dd9017a",
+ "note_count": 0,
+ "built_at": "2026-10-04T17:35:33+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1131224,
+  "duration_ms": 21025
+ },
+ "current": [
+  {
+   "text": "He is in a crowded OKC frontcourt with Chet Holmgren, Isaiah Hartenstein, Al Horford and Thomas Sorber.",
+   "kind": "fact",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "RsjGTgJiKyI:t2",
+    "RyzcCGChYgs:t0"
+   ]
+  },
+  {
+   "text": "He is the third center in the rotation, behind Hartenstein and Holmgren.",
+   "kind": "fact",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:t0"
+   ]
+  },
+  {
+   "text": "He gets real minutes only when the centers ahead of him are out, so Hartenstein's role looks secure.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:t3"
+   ]
+  }
+ ],
+ "durable": [],
+ "tags": [
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Third center behind Hartenstein and Holmgren, with Horford and Sorber also in the frontcourt",
+   "until": "",
+   "sources": [
+    "RsjGTgJiKyI:t2",
+    "RyzcCGChYgs:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "Gets minutes when Hartenstein or Holmgren is out",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:t3",
+    "RyzcCGChYgs:t0"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites value him at 0 USD and rank him 223 (Yahoo) and 232 (ESPN), well outside the 144 players our league drafts, so do not draft him. His projected line of about 6.7 points and 0.4 blocks in 19 minutes has no strong category. His only edge is low turnovers. Watch waivers only if Hartenstein or Holmgren misses time.",
+ "rejected": []
+}

@@ -1,0 +1,207 @@
+{
+ "player": {
+  "name": "Pelle Larsson",
+  "slug": "pelle-larsson",
+  "pk": 327,
+  "team": "MIA",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "c0a96c2201da",
+ "note_count": 5,
+ "built_at": "2026-10-04T17:46:12+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1256222,
+  "duration_ms": 33898
+ },
+ "current": [
+  {
+   "text": "Josh would start Larsson, and he may get the starting point guard job.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p33"
+   ]
+  },
+  {
+   "text": "Draft him if he wins a starting job.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p33"
+   ]
+  },
+  {
+   "text": "Davion Mitchell is Miami's current starting point guard. Josh does not think Mitchell is particularly strong.",
+   "kind": "fact",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:t1"
+   ]
+  },
+  {
+   "text": "Miami signed Klay Thompson and traded away Jaime Jaquez Jr.",
+   "kind": "fact",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t5"
+   ]
+  },
+  {
+   "text": "The Klay Thompson signing lowers his minutes upside.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p26"
+   ]
+  },
+  {
+   "text": "Miami traded for Giannis Antetokounmpo and lost a lot of depth and ball handlers in the process.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:t4",
+    "NYTH7uQsPCM:t5",
+    "LUTYUdXBG1M:t1",
+    "LM0cRCGoAUQ:t0"
+   ]
+  },
+  {
+   "text": "He should have a big role because Miami's bench is so thin.",
+   "kind": "verdict",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p31",
+    "nnWX_ObljOE:p28"
+   ]
+  },
+  {
+   "text": "His high assist conversion could fall to about 50% and make his line look worse.",
+   "kind": "verdict",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p31"
+   ]
+  },
+  {
+   "text": "Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs, but only 10 games in the playoff weeks.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He shoots well from the field, about 50% last season, which is above average for his position.",
+   "kind": "fact",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p25",
+    "stats"
+   ]
+  },
+  {
+   "text": "He gets few steals, and his free throw percentage is not a strength.",
+   "kind": "fact",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p25",
+    "stats"
+   ]
+  },
+  {
+   "text": "His category profile is balanced. No category is a strong or weak outlier.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "Thin Miami bench after the Giannis trade means a big role is expected",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p31",
+    "nnWX_ObljOE:p28",
+    "ZYllcj4o6_A:p33"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Klay Thompson signing; Davion Mitchell holds the starting point guard job",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p26",
+    "gJUBAJaHzlU:t5",
+    "TOn-D1SV7a8:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "Yahoo rank 147 with 0 USD value; Josh would start him and draft him if he starts",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p33",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "Miami has the league's fewest back-to-backs (13)",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "Only 10 Miami games in weeks 19 to 21, though no back-to-backs",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "No category flagged weak; balanced low-impact profile",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo ranks him 147th with a 0 USD value, just outside our 144-player draft pool. He went undrafted in our league last season, so he is a 1 USD end-of-draft pick at most. His projected line (11.6 PTS, 3.3 AST, 49% FG on 8 attempts, 1.4 TO) has no weak category, so he fits any build as a filler. In preseason, check whether he starts, maybe at point guard over Davion Mitchell, and how many minutes Klay Thompson takes from him. If he does not start, leave him on waivers and watch his minutes.",
+ "rejected": []
+}

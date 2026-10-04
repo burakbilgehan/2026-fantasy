@@ -1,0 +1,230 @@
+{
+ "player": {
+  "name": "Karl-Anthony Towns",
+  "slug": "karl-anthony-towns",
+  "pk": 560,
+  "team": "NYK",
+  "position": "F,C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "c9db3ddf4bab",
+ "note_count": 8,
+ "built_at": "2026-10-04T17:38:13+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1386982,
+  "duration_ms": 36901
+ },
+ "current": [
+  {
+   "text": "Mitchell Robinson has left the Knicks. Andre Drummond replaces him, and the team still lacks a third big.",
+   "kind": "fact",
+   "date": "2026-08-13",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:t0"
+   ]
+  },
+  {
+   "text": "Projected starters are Brunson, Bridges, Hart, Anunoby and Towns. Little double-big lineup use is expected.",
+   "kind": "verdict",
+   "date": "2026-08-13",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:t2"
+   ]
+  },
+  {
+   "text": "Without Mitchell Robinson next to him, his rebounds and FG% may improve.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p5",
+    "LM0cRCGoAUQ:p11",
+    "ME-r173X5b0:p18"
+   ]
+  },
+  {
+   "text": "Mike Brown coaches the Knicks. He uses the bench more and gives Towns fewer minutes than the previous coach did.",
+   "kind": "fact",
+   "date": "2026-07-07",
+   "until": "",
+   "sources": [
+    "ME-r173X5b0:t5",
+    "HxQjagSTTAM:t5"
+   ]
+  },
+  {
+   "text": "The Knicks won the championship. Towns is 30 and comes off a long Finals run.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:t6",
+    "ZAyie8lKyYc:t8",
+    "t4n9MAP2_14:p5"
+   ]
+  },
+  {
+   "text": "The Knicks are expected to be cautious with his minutes early, with trimmed starter minutes and more rest on back-to-backs. He is projected at only about 31 minutes.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "first 30 or so games",
+   "sources": [
+    "okN3fbHJtlA:t1",
+    "LM0cRCGoAUQ:t6",
+    "LM0cRCGoAUQ:p11",
+    "E-KmhvyZ2CU:p8",
+    "t4n9MAP2_14:p5",
+    "W-R1dzem32s:t5",
+    "dlo7L8Ru91A:t4",
+    "7BllEsdNLoM:t8",
+    "QbdrhJd7LiA:t3"
+   ]
+  },
+  {
+   "text": "He may take a step back from last season.",
+   "kind": "verdict",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:p19"
+   ]
+  },
+  {
+   "text": "Experts rank him about 19th in 9-cat and say he goes too high at picks 15 to 17. He is not a first rounder.",
+   "kind": "verdict",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:p19",
+    "t4n9MAP2_14:p5",
+    "LM0cRCGoAUQ:p11"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He has a history of lower body problems, including knee issues.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:p8",
+    "LM0cRCGoAUQ:p11",
+    "E-KmhvyZ2CU:p8"
+   ]
+  },
+  {
+   "text": "He showed some signs of declining athleticism in the regular season but looked good in the playoffs.",
+   "kind": "verdict",
+   "date": "2026-08-13",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:p8"
+   ]
+  },
+  {
+   "text": "Rebounds are his standout category, far above the league pool.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Turnovers are his weak category, high for a forward or center.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "REB specialist",
+   "channel": "durable",
+   "detail": "About 11.3 rebounds per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "About 2.6 turnovers per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "Repeated lower body issues, knee history",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:p8",
+    "LM0cRCGoAUQ:p11",
+    "E-KmhvyZ2CU:p8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "age decline watch",
+   "channel": "durable",
+   "detail": "Age 30, some regular-season signs of declining athleticism",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:p8",
+    "t4n9MAP2_14:p5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "slow start",
+   "channel": "current",
+   "detail": "Knicks expected to trim starter minutes after the long Finals run",
+   "until": "first 30 or so games",
+   "sources": [
+    "okN3fbHJtlA:t1",
+    "E-KmhvyZ2CU:p8",
+    "LM0cRCGoAUQ:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "back-to-back risk",
+   "channel": "current",
+   "detail": "More rest on back-to-backs expected early in the season",
+   "until": "first 30 or so games",
+   "sources": [
+    "okN3fbHJtlA:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "Going too high at picks 15 to 17; experts say he is not a first rounder",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p5",
+    "LM0cRCGoAUQ:p11",
+    "2A2JbUN-kc0:p19"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo values him at 41 USD with a 40.0 USD average cost, and our league paid 46 USD last season. Experts rank him about 19th and warn he is going too high, so do not pay above about 40 USD. Rebounds are his big strength, and his FT% helps a lot for a big. Turnovers are his only weak category, so he fits a punt TO build best. Early in the season, check his minutes during the Knicks' cautious first 30 or so games, and check whether his rebounds rise now that Mitchell Robinson is gone.",
+ "rejected": []
+}

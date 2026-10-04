@@ -1,0 +1,207 @@
+{
+ "player": {
+  "name": "Draymond Green",
+  "slug": "draymond-green",
+  "pk": 207,
+  "team": "GSW",
+  "position": "F,C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "57c0c62426b8",
+ "note_count": 8,
+ "built_at": "2026-10-04T17:30:42+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.15067819999999998,
+  "duration_ms": 39103
+ },
+ "current": [
+  {
+   "text": "He is a projected starter for Golden State.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:p24",
+    "MUbNYdjpUDM:t3",
+    "OBwWCxG9SqM:t4"
+   ]
+  },
+  {
+   "text": "He is unlikely to play center because he is old and small.",
+   "kind": "verdict",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:p24"
+   ]
+  },
+  {
+   "text": "His Yahoo ADP of 107 is too high. The expert sees him outside the top 120 in categories because of his age and because he fades when Curry sits.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p11"
+   ]
+  },
+  {
+   "text": "He is good value in deep leagues around picks 160 to 180, but not worth taking in shallow leagues or in round 13 of a 12-team league.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p12",
+    "KPdD91Oo8-U:p43"
+   ]
+  },
+  {
+   "text": "One expert has him in tier nine at center and is souring on him more every day.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p46"
+   ]
+  },
+  {
+   "text": "Golden State is reportedly treating this season as a gap year and is worried about lottery odds.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:t0",
+    "MUbNYdjpUDM:t0"
+   ]
+  },
+  {
+   "text": "The team may rest veterans, and Warriors players are expected to fade as the season goes on.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t0",
+    "E-KmhvyZ2CU:t1"
+   ]
+  },
+  {
+   "text": "Golden State has 15 back-to-backs this season, tied for second most.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t4",
+    "MUbNYdjpUDM:t4"
+   ]
+  },
+  {
+   "text": "The Warriors schedule is good for fantasy playoffs that end March 28.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t4"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is better in category leagues than in points leagues.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p13",
+    "LM0cRCGoAUQ:p44"
+   ]
+  },
+  {
+   "text": "His value comes from rebounds and assists. His steals and blocks are no longer a strength.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p44"
+   ]
+  },
+  {
+   "text": "His assists are far above the norm for a forward or center.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "AST from a big",
+   "channel": "durable",
+   "detail": "About 5.5 assists per game as an F,C",
+   "until": "",
+   "sources": [
+    "stats",
+    "LM0cRCGoAUQ:p44"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "age decline watch",
+   "channel": "durable",
+   "detail": "Experts cite his age and size",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p11",
+    "LXZLrL90crE:p24"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "Yahoo ADP 107 is too high",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo ADP 107 vs ESPN rank 161 and Fantrax ADP 176",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p11",
+    "MUbNYdjpUDM:p12"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "shutdown risk",
+   "channel": "current",
+   "detail": "Gap year, team worried about lottery odds and may rest veterans",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t0",
+    "LXZLrL90crE:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "Good schedule for playoffs ending March 28, but 15 back-to-backs in the season",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t4"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "At Yahoo rank 137 and ESPN rank 161, with 0 USD site values and 4 USD in our last auction, he sits right at our 144-player cutoff. Take him only as a 1 USD final pick or a waiver target. He fits builds that need assists from the frontcourt, but he costs you in PTS, FG% and TO (2.5 per game on low usage). Check early whether he plays center, how he produces when Curry sits, and whether Golden State starts resting veterans in a gap year.",
+ "rejected": []
+}

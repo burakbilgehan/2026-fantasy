@@ -1,0 +1,93 @@
+{
+ "player": {
+  "name": "Jordan Walsh",
+  "slug": "jordan-walsh",
+  "pk": 583,
+  "team": "BOS",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "46770ce4b720",
+ "note_count": 1,
+ "built_at": "2026-10-04T17:36:57+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.0972902,
+  "duration_ms": 20428
+ },
+ "current": [
+  {
+   "text": "One expert says Walsh comes into this season with a more defined role.",
+   "kind": "verdict",
+   "date": "2026-07-30",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:p23"
+   ]
+  },
+  {
+   "text": "A newer team preview projects Walsh as a bench player behind starters White, Scheierman, Tatum, George and Queta, with Pritchard, Hauser, Robinson and Conley also in the bench rotation.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t1"
+   ]
+  },
+  {
+   "text": "Boston has at least 12 rotation-level players. In a 10-man rotation, Walsh or another player is expected to miss out most nights.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t2"
+   ]
+  },
+  {
+   "text": "Boston plays 4, 3 and 4 games in our fantasy playoff weeks, one game short of the maximum.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t4"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Walsh has limited offense. Boston gets value from him in other ways.",
+   "kind": "verdict",
+   "date": "2026-06-22",
+   "until": "",
+   "sources": [
+    "HxQjagSTTAM:t3"
+   ]
+  },
+  {
+   "text": "His scoring is very low, a clear weakness against the top 250 pool.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Deep Boston bench; may fall out of a 10-man rotation most nights",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t1",
+    "Bi1cEM03k9Y:t2"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Walsh is worth 0 USD on both Yahoo and ESPN and ranks 298 and 207. That puts him well outside the 144 players we draft, so do not draft him. His projected line (5.2 points, 0.7 turnovers, 0.6 blocks) only helps in turnovers and does not hurt the shooting categories. Early in the season, check whether he holds a spot in Boston's crowded rotation and gets more than his 17.9 minutes from last season before you look at him on waivers.",
+ "rejected": []
+}

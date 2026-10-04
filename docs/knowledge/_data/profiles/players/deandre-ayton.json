@@ -1,0 +1,168 @@
+{
+ "player": {
+  "name": "Deandre Ayton",
+  "slug": "deandre-ayton",
+  "pk": 24,
+  "team": "WAS",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "30aebe9e086e",
+ "note_count": 3,
+ "built_at": "2026-10-04T17:28:55+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1803842,
+  "duration_ms": 39649
+ },
+ "current": [
+  {
+   "text": "Washington acquired him from the Lakers for Jaden Hardy and second-round picks. He is the backup big man behind Alex Sarr and Anthony Davis and will come off the bench.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:p5",
+    "-y6p5PYLf00:p28",
+    "-y6p5PYLf00:t3"
+   ]
+  },
+  {
+   "text": "Washington lacks depth at center behind Sarr and Davis.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:t0"
+   ]
+  },
+  {
+   "text": "Davis's health is a question. Because of it, Ayton could get 30-minute roles at times.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p28",
+    "UTE0dNIv8nY:t4",
+    "-y6p5PYLf00:t3"
+   ]
+  },
+  {
+   "text": "The expert says he is no longer the player he was in Phoenix.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:p5"
+   ]
+  },
+  {
+   "text": "His FG% jump last season may have come partly from playing with Luka. He now plays with Trae Young. The expert says not to automatically expect a big FG% drop.",
+   "kind": "verdict",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p28"
+   ]
+  },
+  {
+   "text": "Washington is trying to compete this season. The expert says fantasy managers should no longer face the late-season resting and minutes cuts of past years.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t0"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He makes almost no threes.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "Traded from the Lakers to Washington for Jaden Hardy and second-round picks",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:p5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Started 72 games last season; now the bench big behind Sarr and Davis",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:p5",
+    "-y6p5PYLf00:p28"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "Could get 30-minute roles when Anthony Davis misses games",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p28",
+    "UTE0dNIv8nY:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Ranked outside the 144 drafted players on Yahoo and ESPN; watch for Davis injuries",
+   "until": "",
+   "sources": [
+    "stats",
+    "-y6p5PYLf00:p28"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "needs playmaker",
+   "channel": "durable",
+   "detail": "Expert says his FG% jump may have come from playing with Luka; now plays with Trae Young",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p28"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt 3PM fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo and ESPN both price him at 0 USD, at ranks 169 and 192. That is outside the 144 players we draft, so the 9 USD he cost in our auction last season is far too high now. As a bench big projected for about 24 minutes, with 9 to 12 points and 7 to 8 rebounds, his value is mostly a strong FG% on low volume and fewer than 1.2 turnovers. He loses nothing for a punt 3PM build. Leave him on waivers and pick him up quickly if Anthony Davis gets hurt, since the notes say he could see 30-minute roles then. Also check early whether his FG% holds up next to Trae Young.",
+ "rejected": []
+}

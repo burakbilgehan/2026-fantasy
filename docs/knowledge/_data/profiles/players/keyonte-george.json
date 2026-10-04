@@ -1,0 +1,194 @@
+{
+ "player": {
+  "name": "Keyonte George",
+  "slug": "keyonte-george",
+  "pk": 187,
+  "team": "UTA",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "811d5f72a6a7",
+ "note_count": 11,
+ "built_at": "2026-10-04T17:39:27+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1385422,
+  "duration_ms": 34301
+ },
+ "current": [
+  {
+   "text": "He signed a new contract and is the starting point guard.",
+   "kind": "fact",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p34",
+    "CI4k8ofUXXk:t0"
+   ]
+  },
+  {
+   "text": "Utah has Lauri Markkanen and Jaren Jackson Jr. for a full season and added Darryn Peterson, so the usage is crowded.",
+   "kind": "fact",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p18",
+    "7BllEsdNLoM:p25",
+    "7BllEsdNLoM:t10",
+    "lOshTzDA4SA:t2",
+    "-rgXhs5BHiw:t1"
+   ]
+  },
+  {
+   "text": "Experts expect his usage to drop and do not expect him to repeat last season's 23.6 points per game. One expects him to lose about one assist per game.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p39",
+    "7BllEsdNLoM:p25",
+    "gJUBAJaHzlU:p3",
+    "CI4k8ofUXXk:p9",
+    "lOshTzDA4SA:p18"
+   ]
+  },
+  {
+   "text": "His volume will drop over time, so he needs to learn to play and shoot off the ball or become a big distributor.",
+   "kind": "verdict",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:p8"
+   ]
+  },
+  {
+   "text": "Tier 5 point guard. Still expected to be good.",
+   "kind": "verdict",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p25"
+   ]
+  },
+  {
+   "text": "The market overcorrects for the usage drop. Experts call him a sleeper at an ESPN ADP around 100 to 113 and a Fantrax ADP of 58.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p39",
+    "egRrai3Ax38:p34"
+   ]
+  },
+  {
+   "text": "Utah is trying to win this season. Experts think fears of tanking and late season shutdowns are misplaced.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "J1Eg3uaAICU:t3",
+    "dlo7L8Ru91A:t2",
+    "ahNxsoU8Hx4:t2",
+    "sTtFUy7IoJI:t6"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He broke out last season and arguably should have won Most Improved Player.",
+   "kind": "verdict",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:p7"
+   ]
+  },
+  {
+   "text": "His rim finishing rose to 65 percent. The expert thinks he may be able to keep it.",
+   "kind": "verdict",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p17"
+   ]
+  },
+  {
+   "text": "Not a good defender.",
+   "kind": "verdict",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:p10"
+   ]
+  },
+  {
+   "text": "Turnovers are his clear weak category, about 3 per game. FT% on good volume and assists are his best categories.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "high TO",
+   "channel": "durable",
+   "detail": "About 3.1 TO per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "TO is his only flagged weak category",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "durable",
+   "detail": "Less usage with full seasons of Markkanen and Jaren Jackson Jr. plus Darryn Peterson",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p18",
+    "7BllEsdNLoM:p25",
+    "ahNxsoU8Hx4:p39",
+    "CI4k8ofUXXk:p9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "ESPN ADP around 100 to 113 after finishing 29th to 40th last season",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p39",
+    "egRrai3Ax38:p34"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 43 and value 24 USD, ESPN rank 89 and value 3 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He went for 2 USD in our league last season. Yahoo values him at 24 USD (rank 43) but his average cost is only 7.2 USD, and ESPN has him at 3 USD (rank 89), so he should be a bargain if he goes near those costs. He fits punt TO builds and helps FT%, AST and PTS. Early in the season, check his shot volume: Yahoo projects 12.2 FGA and ESPN 15.9. Also check his assists next to Peterson and Jackson.",
+ "rejected": []
+}

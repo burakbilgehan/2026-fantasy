@@ -1,0 +1,93 @@
+{
+ "player": {
+  "name": "Kevin Huerter",
+  "slug": "kevin-huerter",
+  "pk": 248,
+  "team": "DET",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "ae32119d6f67",
+ "note_count": 1,
+ "built_at": "2026-10-04T17:39:12+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.14178680000000002,
+  "duration_ms": 28438
+ },
+ "current": [
+  {
+   "text": "Signed with Detroit for 3 years and 27 million USD in free agency.",
+   "kind": "fact",
+   "date": "2026-07-01",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p37"
+   ]
+  },
+  {
+   "text": "The expert does not understand the signing. He sees Huerter as a possible shooter next to Isaiah Joe.",
+   "kind": "verdict",
+   "date": "2026-07-01",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p37"
+   ]
+  },
+  {
+   "text": "In Detroit's projected bench rotation, Isaiah Joe is the sixth man, followed by Ron Holland, Paul Reed and Daniss Jenkins. Huerter and Prince compete for the last rotation spot.",
+   "kind": "fact",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:t4"
+   ]
+  },
+  {
+   "text": "Detroit used a deep 12 to 13 player rotation last season, which limited everyone's minutes.",
+   "kind": "fact",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:t2"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He has no standout category. His best categories are low turnovers and threes, but neither is a league outlier. Points and rebounds are below the top 250 pool.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "Signed with Detroit in free agency",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p37"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Competes with Prince for the last spot in Detroit's bench rotation",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:t4"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "At rank 195 on Yahoo and 183 on ESPN, both with a value of 0 USD, he sits outside the 144 players our league drafts, so he is not a draft target. His projected line (about 10 points, 1.6 threes, 1.0 turnovers) has no category that a punt build can lean on. Early in the season, check whether he beats Prince for the last spot in Detroit's rotation. Only then is he a waiver option for threes.",
+ "rejected": []
+}

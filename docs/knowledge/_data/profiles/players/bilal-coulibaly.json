@@ -1,0 +1,174 @@
+{
+ "player": {
+  "name": "Bilal Coulibaly",
+  "slug": "bilal-coulibaly",
+  "pk": 119,
+  "team": "WAS",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "3a5df1296578",
+ "note_count": 4,
+ "built_at": "2026-10-04T17:24:23+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1212822,
+  "duration_ms": 27784
+ },
+ "current": [
+  {
+   "text": "Anthony Davis and Alex Sarr limit his minutes and his rim contests.",
+   "kind": "fact",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p8",
+    "NYTH7uQsPCM:t2"
+   ]
+  },
+  {
+   "text": "He is likely to get fewer minutes and fewer rim contests, and his block rate could regress toward average.",
+   "kind": "verdict",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p8"
+   ]
+  },
+  {
+   "text": "He is not in the projected Washington starting lineup of Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t1"
+   ]
+  },
+  {
+   "text": "The fifth starter spot is unclear, with many wings competing. The roster is deep, with a 10 or 11 man rotation expected.",
+   "kind": "fact",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t1",
+    "UTE0dNIv8nY:t2"
+   ]
+  },
+  {
+   "text": "His defense could make him a candidate to start at shooting guard. In past seasons the team always put him back in the lineup after injuries.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:p12"
+   ]
+  },
+  {
+   "text": "Josh thinks he has stalled offensively.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:p10"
+   ]
+  },
+  {
+   "text": "Washington is trying to compete this season, so the late-season resting and minutes cuts of past years should not return.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t0"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a good shot-blocking wing with some flashes as a passer. His blocks are clearly above average for his position.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:p10",
+    "stats"
+   ]
+  },
+  {
+   "text": "He converted 26.2% of his rim contests into blocks.",
+   "kind": "fact",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p8"
+   ]
+  },
+  {
+   "text": "He shoots poorly. His three-point percentage was 29% by the end of last season, down from 34% as a rookie.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:p10",
+    "UTE0dNIv8nY:p11"
+   ]
+  },
+  {
+   "text": "Shooting is what holds him back. Ben partly blames injuries for the drop.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:p11"
+   ]
+  },
+  {
+   "text": "He has been injury-prone.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:p10"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Anthony Davis and Alex Sarr cut his minutes and rim contests",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p8",
+    "NYTH7uQsPCM:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Many wings compete for the open fifth starter spot in a deep rotation",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t1",
+    "UTE0dNIv8nY:t2",
+    "UTE0dNIv8nY:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "Experts call him injury-prone; 56 to 63 games in each of the last three seasons",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:p10",
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "At rank 203 on Yahoo and 181 on ESPN, with a value of 0 USD on both, he sits outside the 144 players our league drafts, so he is a waiver option, not an auction target. His only edge is steals and blocks for a wing (BLK z +1.3 vs position). He is below average in FG%, FT%, 3PM and points, and the experts expect his blocks to drop with Davis and Sarr taking rim contests. Early in the season, check whether he wins the fifth starter spot and plays 26 or more minutes. If he does, he can be a short-term steals and blocks pickup.",
+ "rejected": []
+}

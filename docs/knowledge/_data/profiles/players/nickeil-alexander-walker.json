@@ -1,0 +1,270 @@
+{
+ "player": {
+  "name": "Nickeil Alexander-Walker",
+  "slug": "nickeil-alexander-walker",
+  "pk": 12,
+  "team": "ATL",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "b07e7e4c7871",
+ "note_count": 24,
+ "built_at": "2026-10-04T17:45:02+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1946702,
+  "duration_ms": 60068
+ },
+ "current": [
+  {
+   "text": "Experts project him as Atlanta's starting shooting guard. The projected starters are McCollum, Alexander-Walker, Daniels, Johnson and Okongwu, each at 30 or more minutes.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t1",
+    "H9q2FT3LhNw:t0",
+    "H9q2FT3LhNw:p3",
+    "4GDfg2n2l8o:t3"
+   ]
+  },
+  {
+   "text": "He won Most Improved Player. Moving him to the bench would be a hard sell.",
+   "kind": "verdict",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:p3"
+   ]
+  },
+  {
+   "text": "Trae Young is no longer with Atlanta. Kingston Flemings is not expected to start over him.",
+   "kind": "fact",
+   "date": "2026-07-14",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:p2",
+    "xHRF06_E9HE:t0"
+   ]
+  },
+  {
+   "text": "The conditions behind his rise are still in place.",
+   "kind": "verdict",
+   "date": "2026-07-14",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:p2"
+   ]
+  },
+  {
+   "text": "Atlanta has no true point guard. McCollum, Alexander-Walker, Johnson and Daniels share the ball handling.",
+   "kind": "fact",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:t2"
+   ]
+  },
+  {
+   "text": "With CJ McCollum around for most of the season, his usage and ball handling should change.",
+   "kind": "verdict",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:p1"
+   ]
+  },
+  {
+   "text": "Lu Dort is the main threat to his minutes. Drafters may fear this, but experts still list Dort on the bench.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p40",
+    "egRrai3Ax38:t5",
+    "4gw4W4RTolY:t2"
+   ]
+  },
+  {
+   "text": "His hot shooting after the All-Star break will not stick (about 70% true shooting, around 95% FT, 45 to 48% from three). An easy late schedule helped Atlanta's run. A fair baseline is his pre All-Star line of about 20 points on 58% true shooting.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p9",
+    "H9q2FT3LhNw:p0",
+    "H9q2FT3LhNw:t1",
+    "xHRF06_E9HE:p1",
+    "-y6p5PYLf00:p33",
+    "W-R1dzem32s:p19",
+    "7BllEsdNLoM:p21",
+    "egRrai3Ax38:p40"
+   ]
+  },
+  {
+   "text": "His role, minutes and time on the ball are repeatable, even with less efficient shooting. The rest of his line is not outrageous.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p19",
+    "7BllEsdNLoM:p21",
+    "xHRF06_E9HE:p1"
+   ]
+  },
+  {
+   "text": "In category leagues, experts rank him in the top 50, and Lloyd puts him probably inside the top 40. He usually goes in the 50s or later, so he is slightly undervalued. Round four is fair, and round five is good value. His ESPN ADP is indefensibly low.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p8",
+    "4gw4W4RTolY:p10",
+    "_vbAP5y182A:p27",
+    "xHRF06_E9HE:p4",
+    "ahNxsoU8Hx4:p22",
+    "W-R1dzem32s:p19",
+    "7BllEsdNLoM:p21",
+    "XnIWJyBB0EM:p8"
+   ]
+  },
+  {
+   "text": "He is not a first-round player.",
+   "kind": "verdict",
+   "date": "2026-07-14",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:p3"
+   ]
+  },
+  {
+   "text": "He converted 36.7% of his deflections into steals, up from 29%. He also got more deflections in his bigger offensive role.",
+   "kind": "fact",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p26"
+   ]
+  },
+  {
+   "text": "There may be room for more steals.",
+   "kind": "verdict",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p26"
+   ]
+  },
+  {
+   "text": "Atlanta plays 4, 4 and 3 games in our playoff weeks 19 to 21. They have 14 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t6"
+   ]
+  },
+  {
+   "text": "Resting players is not a concern in Atlanta.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t6"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is one of the better catch-and-shoot three-point shooters in the NBA and has been for three seasons. About 40% from three on high volume is a reasonable expectation.",
+   "kind": "verdict",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:p2"
+   ]
+  },
+  {
+   "text": "His track record at the line is about 77 to 78%. His jump to about 90% is partly random, and about 81% would still be fine.",
+   "kind": "verdict",
+   "date": "2026-08-09",
+   "until": "",
+   "sources": [
+    "8d--aL_xxwE:p1",
+    "-y6p5PYLf00:p33"
+   ]
+  },
+  {
+   "text": "His best categories are threes, FT% and points. FG% and rebounds are slightly below the pool. No category is a league outlier, either strong or weak.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "no weak category; helps most in 3PM, FT% and PTS",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "plays every game",
+   "channel": "durable",
+   "detail": "82, 82 and 78 games in the last three seasons",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "ADP in the 50s on Yahoo and far later on ESPN; experts see top 40 to 50 value",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p22",
+    "W-R1dzem32s:p19",
+    "7BllEsdNLoM:p21",
+    "4gw4W4RTolY:p10",
+    "XnIWJyBB0EM:p8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "Lloyd's top Hawks target, top 40 to 50 in cats",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p8",
+    "4gw4W4RTolY:p10"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 56 and value 18 USD; ESPN rank 31 and value 24 USD; ESPN ADP much later than Yahoo",
+   "until": "",
+   "sources": [
+    "stats",
+    "ahNxsoU8Hx4:p22",
+    "egRrai3Ax38:p40"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo values him at 18 USD and ESPN at 24 USD, but Yahoo drafters pay only about 4 USD on average, and he cost 1 USD in our league last season. In a 12-team auction he looks like a strong value buy anywhere up to the high teens. He fits any build and helps mainly in 3PM, FT% and PTS. Early in the season, check how much his usage drops next to McCollum, whether Dort cuts into his minutes, and whether his FT% holds well above his old 78% level.",
+ "rejected": []
+}

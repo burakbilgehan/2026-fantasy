@@ -1,0 +1,128 @@
+{
+ "player": {
+  "name": "Kyle Kuzma",
+  "slug": "kyle-kuzma",
+  "pk": 321,
+  "team": "MIL",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "76ebeaa31db6",
+ "note_count": 3,
+ "built_at": "2026-10-04T17:40:14+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1456424,
+  "duration_ms": 31164
+ },
+ "current": [
+  {
+   "text": "Milwaukee lost two frontcourt players, Giannis Antetokounmpo (traded to Miami) and Bobby Portis.",
+   "kind": "fact",
+   "date": "2026-06-30",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p17",
+    "4GDfg2n2l8o:t1"
+   ]
+  },
+  {
+   "text": "The frontcourt departures should give him more minutes.",
+   "kind": "verdict",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p17"
+   ]
+  },
+  {
+   "text": "Power forward is Milwaukee's weakest position, and he is one of the weak options there.",
+   "kind": "fact",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p21",
+    "owlM6b8oUd0:t1"
+   ]
+  },
+  {
+   "text": "He could start at the four, but the expert's projected starters are Rollins, Herro, Jaquez, Ware and Turner, and the team will likely start a center at power forward. His starting role is not settled.",
+   "kind": "verdict",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p21",
+    "owlM6b8oUd0:t1",
+    "owlM6b8oUd0:t2"
+   ]
+  },
+  {
+   "text": "Ranked around 194 on Yahoo and 223 on ESPN with no auction value, he is outside the 144 players drafted in our league.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He was hyped early in his career but became a mediocre role player.",
+   "kind": "verdict",
+   "date": "2026-07-05",
+   "until": "",
+   "sources": [
+    "4kKINkZhWls:p7"
+   ]
+  },
+  {
+   "text": "His category profile has no strong category. Blocks are his weakest category, but they are not a real outlier.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "Giannis and Portis left, which should open frontcourt minutes",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p17"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Could start at power forward, but Milwaukee will likely start a center there (Ware and Turner)",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p21",
+    "owlM6b8oUd0:t1",
+    "owlM6b8oUd0:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Undrafted range in a 12-team league; pick him up if he wins the starting power forward job",
+   "until": "",
+   "sources": [
+    "stats",
+    "owlM6b8oUd0:p21"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Kuzma is not a draft target for us. Yahoo ranks him 194 and ESPN 223, both give him 0 USD of value, and none of his categories stands out. His projections are close to average everywhere (about 14 points, 5 rebounds and 1.4 threes), so he fills a slot without fitting any particular build. Watch early on whether coach Taylor Jenkins starts him at power forward in place of a two-center lineup. If he starts and gets more than the 26 minutes he played last season, he is a cheap waiver pickup for bulk points and rebounds.",
+ "rejected": []
+}

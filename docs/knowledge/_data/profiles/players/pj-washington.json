@@ -1,0 +1,136 @@
+{
+ "player": {
+  "name": "P.J. Washington",
+  "slug": "pj-washington",
+  "pk": 586,
+  "team": "DAL",
+  "position": "F,C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "2ede215d54e0",
+ "note_count": 3,
+ "built_at": "2026-10-04T17:46:37+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.200038,
+  "duration_ms": 47078
+ },
+ "current": [
+  {
+   "text": "Josh ranks Washington 125 to 150 in category leagues. He sees no path to a top 80 finish because Dallas has so many forwards. In a 12 team league he would only take him in round 14 or later.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:p8"
+   ]
+  },
+  {
+   "text": "Josh projects Washington to start, with Kyrie Irving, Max Christie, Cooper Flagg and Morez Johnson Jr.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t2"
+   ]
+  },
+  {
+   "text": "Dallas has a crowded frontcourt. Almost every player besides Kyrie Irving is a power forward, and Washington competes for minutes with Lively, Gafford, Johnson Jr., Aldama and Naji Marshall.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t0",
+    "XSPJL_mlFXo:t1",
+    "0AptxcRW0RE:t2",
+    "RyzcCGChYgs:t3",
+    "Rqb5GdrSweY:t2",
+    "CLsUc0Sevos:t3",
+    "lOshTzDA4SA:t7",
+    "sTtFUy7IoJI:t7"
+   ]
+  },
+  {
+   "text": "Dusty May is the new head coach. Nobody knows yet how he will split the minutes among the centers and forwards like Washington.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t1"
+   ]
+  },
+  {
+   "text": "Lively, Dharma and Morez Johnson Jr. are hurt. That leaves Gafford as the likely opening night center.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t3"
+   ]
+  },
+  {
+   "text": "Dallas plays 4 games in each of our three playoff weeks, which is probably the best playoff schedule in the league. It also has a league-high 16 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t4",
+    "gf_6GveiAls:t3"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Washington is very streaky, with hot streaks and ice-cold slumps. His shooting goes up and down, and lately it has been down.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:p7",
+    "0AptxcRW0RE:p27"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Crowded Dallas frontcourt with Lively, Gafford, Johnson Jr., Aldama and Marshall. New coach Dusty May.",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t0",
+    "XSPJL_mlFXo:t1",
+    "RyzcCGChYgs:t3",
+    "CLsUc0Sevos:t3",
+    "lOshTzDA4SA:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "Dallas plays 4-4-4 in weeks 19 to 21, but has a league-high 16 back-to-backs.",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t4",
+    "gf_6GveiAls:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "streaky",
+   "channel": "durable",
+   "detail": "Hot streaks and ice-cold slumps. His shooting has been down lately.",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:p7",
+    "0AptxcRW0RE:p27"
+   ],
+   "new_meaning": "His production swings between hot and cold stretches, so his weekly output is hard to predict."
+  }
+ ],
+ "note": "Washington sits right at our 144 player cutoff: Yahoo ranks him 133, ESPN 151 and Josh 125 to 150. Both sites price him at 0 USD, and he went for 1 USD in our league last season, so he is a 1 USD bench pick at most and is often available on waivers. His small plus is rebounds and blocks (6.7 and 1.0 projected), but about 45% FG and 70% FT give away some value. Early in the season, check whether he starts under Dusty May while Lively and Johnson Jr. are hurt. Dallas plays 4-4-4 in our playoff weeks, which makes him a useful pickup later in the season.",
+ "rejected": []
+}

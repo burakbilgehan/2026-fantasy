@@ -1,0 +1,118 @@
+{
+ "player": {
+  "name": "De'Andre Hunter",
+  "slug": "deandre-hunter",
+  "pk": 252,
+  "team": "SAC",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "5e0b2c9f158a",
+ "note_count": 3,
+ "built_at": "2026-10-04T17:29:01+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1674804,
+  "duration_ms": 34328
+ },
+ "current": [
+  {
+   "text": "He is in the projected Kings starting lineup at forward, next to Acuff, LaVine, Murray and Sabonis. Nobody is pushing that group for a starting spot.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p23",
+    "oEywzBZfAvY:t1",
+    "W3THnI7wWdA:t8"
+   ]
+  },
+  {
+   "text": "The Kings preview hosts say Keegan Murray should not be behind him in the offensive pecking order.",
+   "kind": "verdict",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p23"
+   ]
+  },
+  {
+   "text": "One expert says he is not a good fantasy player but could play 30 to 33 minutes. That expert took him with a last-round pick for the minutes upside.",
+   "kind": "verdict",
+   "date": "2026-09-15",
+   "until": "",
+   "sources": [
+    "KPdD91Oo8-U:p44"
+   ]
+  },
+  {
+   "text": "His three-point percentage fell from 41 to 31.",
+   "kind": "fact",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p10"
+   ]
+  },
+  {
+   "text": "He is interesting in Sacramento only if he plays about 30 minutes and shoots around 40% from three.",
+   "kind": "verdict",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p10"
+   ]
+  },
+  {
+   "text": "The Kings are rebuilding but want to win games to stay out of the relegation zone. Coach Doug Christie is under pressure and may lean on veterans.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:t6",
+    "oEywzBZfAvY:t7"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "His fantasy value depends on his minutes and on efficient three-point shooting.",
+   "kind": "verdict",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p10",
+    "KPdD91Oo8-U:p44"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "Last-round pick for 30 to 33 minutes of upside as a Kings starter",
+   "until": "",
+   "sources": [
+    "KPdD91Oo8-U:p44",
+    "oEywzBZfAvY:p23"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "Projected starter. One expert sees 30 to 33 minutes, up from 26.2 last season",
+   "until": "",
+   "sources": [
+    "KPdD91Oo8-U:p44",
+    "oEywzBZfAvY:t1",
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites value him at 0 USD (Yahoo rank 172, ESPN rank 203), and he went for 1 USD in our league last season. He falls outside the 144 players we draft, so treat him as a 1 USD end-of-auction flyer or a waiver option. His projected 44% FG on about 10 attempts hurts a little. FT% and threes help a little, but he adds almost no steals, blocks or assists. Early in the season, check whether he plays 30 or more minutes as a starter and gets his three-point percentage back near 40%. If both happen, he is worth adding as a 3PM and FT% streamer in any build.",
+ "rejected": []
+}

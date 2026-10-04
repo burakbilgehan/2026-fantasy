@@ -1,0 +1,127 @@
+{
+ "player": {
+  "name": "Scotty Pippen Jr.",
+  "slug": "scotty-pippen",
+  "pk": 444,
+  "team": "MEM",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "d31e0cc844d2",
+ "note_count": 1,
+ "built_at": "2026-10-04T17:48:10+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.09617420000000002,
+  "duration_ms": 18664
+ },
+ "current": [
+  {
+   "text": "He missed most of last season with a significant injury.",
+   "kind": "fact",
+   "date": "2026-08-17",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:p23"
+   ]
+  },
+  {
+   "text": "He will compete for point guard minutes behind Ty Jerome, who is expected to start at point guard.",
+   "kind": "fact",
+   "date": "2026-08-17",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:p23",
+    "LcZcvk8s1xQ:t6",
+    "NYTH7uQsPCM:t9"
+   ]
+  },
+  {
+   "text": "The Memphis guard group is crowded: Javon Small, Ty Jerome, Pippen, Campazzo and Cam Spencer.",
+   "kind": "fact",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:t1"
+   ]
+  },
+  {
+   "text": "Coach Tuomas Iisalo runs an 11-man rotation with short stints and keeps minutes down, which limits a backup guard's minutes.",
+   "kind": "fact",
+   "date": "2026-08-17",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t1",
+    "LcZcvk8s1xQ:t2"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Steals are his standout category. He projects for about 1.8 steals per game, far above the top 250 pool.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "His FT% is weak for a guard, at about 74% projected on low volume.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "STL specialist",
+   "channel": "durable",
+   "detail": "about 1.8 steals per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt FT fit",
+   "channel": "durable",
+   "detail": "about 74% FT projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "backup point guard behind Ty Jerome in a crowded guard group",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:p23",
+    "-y6p5PYLf00:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "significant injury, played 10 games",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:p23",
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both Yahoo and ESPN value him at 0 USD (Yahoo rank 183, ESPN rank 144), so he sits on the edge of our 144-player draft pool. At most he is a 1 USD late pick. His value comes almost entirely from steals (about 1.8 per game), with some assists. That helps steals-heavy and punt FT% builds, but his projected 2.5 turnovers per game hurt. Early in the season, check whether he gets the roughly 24 minutes ESPN projects behind Ty Jerome in Iisalo's 11-man rotation. If he does not, leave him on waivers.",
+ "rejected": []
+}

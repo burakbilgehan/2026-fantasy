@@ -1,0 +1,272 @@
+{
+ "team": "GSW",
+ "prompt_version": 1,
+ "prompt_sha": "07b4ed7fd28e",
+ "input_sha": "0a9d1daa3737",
+ "note_count": 24,
+ "built_at": "2026-10-04T20:03:28+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.27524919999999997,
+  "duration_ms": 76153
+ },
+ "current": [
+  {
+   "text": "The Warriors are reportedly treating this season as a gap year and are worried about their lottery odds.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t0",
+    "LXZLrL90crE:t0"
+   ]
+  },
+  {
+   "text": "This could be a throwaway season in which the team rests its veterans.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t0"
+   ]
+  },
+  {
+   "text": "The roster is weak, especially early in the season. It is virtually the same roster as last season.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t1",
+    "oEywzBZfAvY:t9"
+   ]
+  },
+  {
+   "text": "Win projections range from about 43 wins to roughly a .500 team with a bad downside.",
+   "kind": "verdict",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:t6"
+   ]
+  },
+  {
+   "text": "Expect Warriors players to lose value as the season goes on.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "E-KmhvyZ2CU:t1"
+   ]
+  },
+  {
+   "text": "Stephen Curry is the only player who creates his own shot and gets real usage. Gui Santos is at most a maybe as a second creator.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t2",
+    "2A2JbUN-kc0:t3",
+    "7BllEsdNLoM:t6",
+    "W-R1dzem32s:t3"
+   ]
+  },
+  {
+   "text": "Curry, Brandin Podziemski and Draymond Green are projected starters in every recent preview.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t3",
+    "LXZLrL90crE:t1",
+    "OBwWCxG9SqM:t4"
+   ]
+  },
+  {
+   "text": "The last two starting spots are not settled. The newest preview projects Yaxel Lendeborg and Al Horford. Earlier previews had Kristaps Porzingis starting at center when healthy.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t3",
+    "LXZLrL90crE:t1",
+    "OBwWCxG9SqM:t4"
+   ]
+  },
+  {
+   "text": "The more Green plays center, the more minutes open up for Santos and Lendeborg.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t3"
+   ]
+  },
+  {
+   "text": "Santos and De'Anthony Melton are projected off the bench. The guard spot between Podziemski, Melton and Santos was called unclear in September.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:t1",
+    "W-R1dzem32s:t3"
+   ]
+  },
+  {
+   "text": "Jimmy Butler is out for at least half the season. Moses Moody is also out early.",
+   "kind": "fact",
+   "date": "2026-09-03",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:t6",
+    "OBwWCxG9SqM:t4"
+   ]
+  },
+  {
+   "text": "Butler's return will shake up the rotation again.",
+   "kind": "verdict",
+   "date": "2026-07-14",
+   "until": "Jimmy Butler's return",
+   "sources": [
+    "xHRF06_E9HE:t8"
+   ]
+  },
+  {
+   "text": "Depth is very poor. The team has only 13 standard contracts and two two-way deals, and it lost Quinten Post and Pat Spencer.",
+   "kind": "fact",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:t4",
+    "LXZLrL90crE:t5",
+    "xHRF06_E9HE:t8"
+   ]
+  },
+  {
+   "text": "The team will struggle to field a 10-man rotation, so minutes should go up for everyone in the rotation.",
+   "kind": "verdict",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:t4"
+   ]
+  },
+  {
+   "text": "The schedule includes 15 back-to-backs. That raises rest risk for Porzingis, Horford and Butler.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t4",
+    "MUbNYdjpUDM:t4",
+    "stats"
+   ]
+  },
+  {
+   "text": "The fantasy playoff schedule is good for a season ending March 28: 11 games in weeks 19 to 21, with only one back-to-back each week. The risk is that a lottery-minded team rests veterans in those same weeks.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t4",
+    "MUbNYdjpUDM:t0",
+    "stats"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Steve Kerr rarely starts rookies and has little patience for them.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t2",
+    "LXZLrL90crE:t3"
+   ]
+  },
+  {
+   "text": "Kerr runs unpredictable rotations. He often announces a set starting lineup and then changes it a few games later, with lots of mixing among the wings.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t2",
+    "LXZLrL90crE:t2"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "11 games in weeks 19 to 21 (rank 4 of 30), one back-to-back each week.",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t4",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "tank risk",
+   "channel": "current",
+   "detail": "Reported gap year with an eye on lottery odds. Veterans may be rested.",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t0",
+    "LXZLrL90crE:t0"
+   ],
+   "new_meaning": "The team may put draft lottery odds ahead of winning and rest or limit veterans, especially late in the season."
+  },
+  {
+   "name": "thin rotation",
+   "channel": "current",
+   "detail": "Struggles to field a 10-man rotation. Only 13 standard contracts.",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:t4",
+    "LXZLrL90crE:t5",
+    "xHRF06_E9HE:t8"
+   ],
+   "new_meaning": "The team has poor depth, so its rotation players should get more minutes than usual."
+  },
+  {
+   "name": "one-creator offense",
+   "channel": "current",
+   "detail": "Stephen Curry is the only self-creator.",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t2",
+    "2A2JbUN-kc0:t3",
+    "7BllEsdNLoM:t6",
+    "W-R1dzem32s:t3"
+   ],
+   "new_meaning": "Only one player creates his own shot, so usage is concentrated in him and teammates depend on him."
+  },
+  {
+   "name": "volatile rotation",
+   "channel": "durable",
+   "detail": "Steve Kerr changes announced starting lineups within a few games and mixes the wings.",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t2",
+    "LXZLrL90crE:t2"
+   ],
+   "new_meaning": "The coach often changes starters and minutes, so roles are hard to predict."
+  },
+  {
+   "name": "rookie-averse coach",
+   "channel": "durable",
+   "detail": "Steve Kerr rarely starts rookies and has little patience for them.",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t2",
+    "LXZLrL90crE:t3"
+   ],
+   "new_meaning": "The coach rarely starts or trusts rookies, which caps rookie roles on this team."
+  }
+ ],
+ "note": "Golden State is a weak, thin team that may treat this season as a gap year. Stephen Curry is the only shot creator, and Podziemski, Green, Santos and Lendeborg get extra minutes from the poor depth. The risk is that veterans get rested late, which would waste the strong 11-game playoff schedule. Early on, watch Kerr's starting lineup at center and forward (Horford, Porzingis or Lendeborg). Also watch whether Lendeborg keeps his role under a coach who rarely trusts rookies.",
+ "rejected": []
+}

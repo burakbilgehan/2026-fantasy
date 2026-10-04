@@ -1,0 +1,123 @@
+{
+ "player": {
+  "name": "Isaiah Collier",
+  "slug": "isaiah-collier",
+  "pk": 110,
+  "team": "UTA",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "7f0504663972",
+ "note_count": 3,
+ "built_at": "2026-10-04T17:32:48+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.154011,
+  "duration_ms": 29771
+ },
+ "current": [
+  {
+   "text": "Utah's guard and wing rotation is crowded with Keyonte George, Darryn Peterson, Sensabaugh, Ace Bailey, Lauri Markkanen and Jaren Jackson Jr. That leaves little room for Collier.",
+   "kind": "fact",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p30",
+    "-y6p5PYLf00:t4"
+   ]
+  },
+  {
+   "text": "The projected Utah starting lineup is Keyonte George, Darryn Peterson, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic. Collier is not in it.",
+   "kind": "fact",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:t0"
+   ]
+  },
+  {
+   "text": "Utah is trying to win this season and is not tanking.",
+   "kind": "fact",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:t2",
+    "J1Eg3uaAICU:t3",
+    "sTtFUy7IoJI:t6",
+    "xHRF06_E9HE:t4"
+   ]
+  },
+  {
+   "text": "His strong late-season ranking came only because Keyonte George was injured and others sat. Those late-season minutes will not be there this year, and he may play 20 minutes at most.",
+   "kind": "verdict",
+   "date": "2026-07-14",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:p37",
+    "xHRF06_E9HE:t4"
+   ]
+  },
+  {
+   "text": "His fantasy value is finished after the Utah draft. He has no real opportunity on this roster.",
+   "kind": "verdict",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p19",
+    "-y6p5PYLf00:p30"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He scores efficiently inside the arc but cannot shoot from outside. He makes very few threes.",
+   "kind": "fact",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p30",
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Expected to play 20 minutes at most on a deeper Utah team that is trying to win",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:p37",
+    "-y6p5PYLf00:p30",
+    "xHRF06_E9HE:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Behind Keyonte George and Darryn Peterson, with Sensabaugh and Ace Bailey also in the rotation",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:t4",
+    "CI4k8ofUXXk:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "Cannot shoot from outside; about 0.5 threes per game",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p30",
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites value him at 0 USD (Yahoo rank 184, ESPN rank 228), which is outside the 144 players our league drafts. Do not draft him. His only plus is assists (projected 4.8 to 6.2 per game), and he is weak in threes, points and rebounds. Early in the season, watch him on waivers only if Keyonte George or Darryn Peterson misses time, because the experts expect him to play 20 minutes at most.",
+ "rejected": []
+}

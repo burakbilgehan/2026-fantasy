@@ -1,0 +1,268 @@
+{
+ "player": {
+  "name": "Zach LaVine",
+  "slug": "zach-lavine",
+  "pk": 328,
+  "team": "SAC",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "85a1598c8401",
+ "note_count": 20,
+ "built_at": "2026-10-04T17:52:19+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1755902,
+  "duration_ms": 49657
+ },
+ "current": [
+  {
+   "text": "He opted into a 1-year, 49 million USD contract after he could not find a new team. This is the final year of his contract, and the Kings have no interest in extending him.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p5",
+    "-KS_AZjZnw4:p37",
+    "lOshTzDA4SA:t4"
+   ]
+  },
+  {
+   "text": "The Kings are tearing down and rebuilding. Schroder, Westbrook and DeRozan are gone, so he shares the ball mainly with Sabonis.",
+   "kind": "fact",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:t0",
+    "-KS_AZjZnw4:p36",
+    "-KS_AZjZnw4:t4",
+    "W-R1dzem32s:p40",
+    "ahNxsoU8Hx4:p41"
+   ]
+  },
+  {
+   "text": "He is a projected starter next to Acuff, Hunter, Murray and Sabonis. Coach Ham calls him the Kings' second best player behind Sabonis.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:t1",
+    "oEywzBZfAvY:p6",
+    "W3THnI7wWdA:t8"
+   ]
+  },
+  {
+   "text": "Experts expect more usage and more ball handling this season, and a bigger part in the offense. His assists could rise a lot now that the poor shooters around him are gone.",
+   "kind": "verdict",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p7",
+    "-KS_AZjZnw4:p36",
+    "NYTH7uQsPCM:p32"
+   ]
+  },
+  {
+   "text": "One expert expects him to start and play 30 or more minutes.",
+   "kind": "verdict",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p43"
+   ]
+  },
+  {
+   "text": "His role is unclear. The Kings are focused on the future and could trade him, buy him out, bench him or cut his minutes. Experts call this the main risk to his value.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p43",
+    "oEywzBZfAvY:p9",
+    "oEywzBZfAvY:t8",
+    "-KS_AZjZnw4:p37",
+    "ahNxsoU8Hx4:p41",
+    "W-R1dzem32s:p40",
+    "W-R1dzem32s:t2",
+    "7BllEsdNLoM:p43",
+    "7BllEsdNLoM:t5",
+    "80kfLVnFQ_s:p44",
+    "E-KmhvyZ2CU:p20",
+    "BjXP9JODDSg:t4"
+   ]
+  },
+  {
+   "text": "The Kings want to stay out of the relegation zone, which could keep veterans like him playing.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:t6",
+    "oEywzBZfAvY:t7",
+    "-KS_AZjZnw4:t5",
+    "W-R1dzem32s:t2"
+   ]
+  },
+  {
+   "text": "Experts call him good value around picks 103 to 116 (round 9 to 10). They say he should easily beat his ranking per game and could be a top-80 player. When he is firing he is a top-50 player. One ranks him Tier 8 and would rank him two tiers higher without the Kings risk.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p47",
+    "_vbAP5y182A:p51",
+    "g31YlwRe0XQ:p37",
+    "E-KmhvyZ2CU:p20",
+    "dlo7L8Ru91A:p51",
+    "7BllEsdNLoM:p43",
+    "ahNxsoU8Hx4:p41"
+   ]
+  },
+  {
+   "text": "He is a bounce-back candidate after finishing 115th last season.",
+   "kind": "verdict",
+   "date": "2026-07-20",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p34"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is an efficient scorer. Experts call his FT% elite and his FG% elite for his position, and he shoots threes at a good rate.",
+   "kind": "verdict",
+   "date": "2026-07-20",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p35",
+    "stats"
+   ]
+  },
+  {
+   "text": "He can play a spot-up shooting role off the ball and still shoot well.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p7"
+   ]
+  },
+  {
+   "text": "Steals are a weak category for him.",
+   "kind": "verdict",
+   "date": "2026-07-20",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p35",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is 31 years old.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p8"
+   ]
+  },
+  {
+   "text": "He is a poor defender.",
+   "kind": "verdict",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p8"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "trade risk",
+   "channel": "current",
+   "detail": "Final contract year on a rebuilding Kings team. Trade, buyout or a cut in minutes is possible.",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p9",
+    "oEywzBZfAvY:t8",
+    "-KS_AZjZnw4:p37",
+    "ahNxsoU8Hx4:p41",
+    "W-R1dzem32s:p40",
+    "7BllEsdNLoM:p43",
+    "80kfLVnFQ_s:p44",
+    "E-KmhvyZ2CU:p20"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "Schroder, Westbrook and DeRozan are gone, so more usage and ball handling",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p7",
+    "-KS_AZjZnw4:p36",
+    "NYTH7uQsPCM:p32"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bounce-back",
+   "channel": "current",
+   "detail": "Finished 115th last season",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p34"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "Goes around picks 103 to 116. Experts see top-80 upside.",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p41",
+    "BjXP9JODDSg:p47",
+    "dlo7L8Ru91A:p51",
+    "_vbAP5y182A:p51"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 99, ESPN rank 158",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "39 games in 2025-26",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "No category flagged weak. Steals are his softest category.",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He is ranked 99 on Yahoo (4 USD) and 158 on ESPN (0 USD). Our league paid 12 USD for him last season. That puts him near the edge of the 144 drafted players, so he should cost 1 to 5 USD. He adds threes, points and FT% without hurting FG%, and he fits most builds. Check his minutes and usage in the first weeks: ESPN projects 20.5 points in 32.8 minutes, Yahoo only 17.0. Also watch for trade or buyout news, because that could change his role in either direction.",
+ "rejected": []
+}

@@ -1,0 +1,429 @@
+{
+ "slug": "late-round-flyers",
+ "title": "Late-Round Flyers for 1 to 3 USD",
+ "type": "compilation",
+ "brief": "Which cheap end-of-auction players have a real path to a role and top 70 upside, so they are worth our last roster spots? Each line must say what has to happen for the flyer to hit and when to drop him if it does not.",
+ "tags": [
+  "flyer"
+ ],
+ "rule_ids": [
+  "ZYllcj4o6_A:r0",
+  "ZYllcj4o6_A:r2",
+  "ZYllcj4o6_A:r4",
+  "ZYllcj4o6_A:r10",
+  "EGdhmUgPAWY:r5",
+  "aLP080hxizA:r4",
+  "aLP080hxizA:r6",
+  "C4vlgpJ62NI:r25",
+  "DubdKKhMWHo:r5",
+  "E-KmhvyZ2CU:r6",
+  "E-KmhvyZ2CU:r7",
+  "gJUBAJaHzlU:r5",
+  "gerS7ibpaJo:r4",
+  "gerS7ibpaJo:r5",
+  "hm5-fiCa5S4:r4",
+  "dlo7L8Ru91A:r7",
+  "g31YlwRe0XQ:r6",
+  "tnzmsYUA4yQ:r5",
+  "tnzmsYUA4yQ:r6",
+  "sTtFUy7IoJI:r2",
+  "3UGI05PDvrE:r6",
+  "lOshTzDA4SA:r5",
+  "P6TNP-g0wzY:r2",
+  "4GDfg2n2l8o:r3",
+  "_vbAP5y182A:r11",
+  "_vbAP5y182A:r12",
+  "_vbAP5y182A:r13"
+ ],
+ "proposed": false,
+ "prompt_sha": "12db90749aa2",
+ "built_at": "2026-10-04T20:16:04+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.31352080000000004,
+  "duration_ms": 92431
+ },
+ "player_slugs": [
+  "ace-bailey",
+  "baylor-scheierman",
+  "cameron-johnson",
+  "cedric-coward",
+  "collin-murray-boyles",
+  "daniel-gafford",
+  "darius-acuff",
+  "darryn-peterson",
+  "deandre-hunter",
+  "derik-queen",
+  "egor-demin",
+  "fred-vanvleet",
+  "gui-santos",
+  "isaiah-jackson",
+  "isaiah-stewart",
+  "ja-morant",
+  "jakob-poeltl",
+  "jaylon-tyson",
+  "jeremiah-fears",
+  "joel-embiid",
+  "jusuf-nurkic",
+  "kevin-porter",
+  "khaman-maluach",
+  "kristaps-porzingis",
+  "max-strus",
+  "mikel-brown",
+  "morez-johnson",
+  "moussa-diabate",
+  "paul-reed",
+  "quentin-grimes",
+  "reed-sheppard",
+  "rui-hachimura",
+  "sandro-mamukelashvili",
+  "tari-eason",
+  "yanic-konan-niederhauser",
+  "yaxel-lendeborg",
+  "yves-missi"
+ ],
+ "summary": "Use at least three of your last four roster spots on 1 to 3 USD flyers who can start or win a role now and could finish top 70. The best fits are starting or near-starting bigs and wings like Murray-Boyles, Nurkic, Porzingis, Queen, Missi, Maluach, Poeltl, Lendeborg and Santos. Pair players fighting for the same job, check minutes in the first few weeks, and cut the loser quickly through daily FAB waivers.",
+ "sections": [
+  {
+   "heading": "What a flyer must offer",
+   "paragraphs": [
+    {
+     "text": "A late pick only earns a roster spot if he has top 70 upside. A player whose ceiling is his draft slot can be dropped at any time, so he is not worth a deliberate bid. Upside means beating your draft spot by a lot: a player taken around 160 who could finish around 120 has upside, and a player taken at 120 who can only finish at 120 has none.",
+     "sources": [
+      "EGdhmUgPAWY:r5",
+      "E-KmhvyZ2CU:r7",
+      "DubdKKhMWHo:r5"
+     ]
+    },
+    {
+     "text": "In our league that means spending 1 to 3 USD on at least three of your last four roster spots for players who could beat their slot by 40 to 50 places. The flyer zone can start once your starting slots are filled, so do not wait for a player's ADP if you like him. Most picks at the end of a draft get dropped and streamed anyway.",
+     "sources": [
+      "C4vlgpJ62NI:r25",
+      "ZYllcj4o6_A:r0",
+      "ZYllcj4o6_A:r2"
+     ]
+    },
+    {
+     "text": "The upside must come with a real path to a role. Ask whether the player starts or could start. If reports say he will not start, pass. Price matters too: a player who is a bad buy in the middle of the auction can be a fine swing at 1 USD.",
+     "sources": [
+      "ZYllcj4o6_A:r4",
+      "_vbAP5y182A:r11",
+      "aLP080hxizA:r4",
+      "aLP080hxizA:r6"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Minutes are the trigger",
+   "paragraphs": [
+    {
+     "text": "A bench player who gets about 27 minutes a night is enough for a late flyer. A late big needs a path to about 30 minutes. If his minutes get split down to around 22, he is useless. On the other hand, a starting center with an FG% boost, blocks and rebounds is worth a last pick even if the job may not last.",
+     "sources": [
+      "P6TNP-g0wzY:r2",
+      "4GDfg2n2l8o:r3",
+      "tnzmsYUA4yQ:r6"
+     ]
+    },
+    {
+     "text": "That makes the cheap center pool the richest flyer area. Nurkic is expected to start in Utah. Maluach needs to start over Ighodaro while Mark Williams is out. Missi and Queen are fighting for the New Orleans job. Gafford can start early in Dallas while Lively is hurt. Porzingis needs to take the starting job back from Horford after his return.",
+     "sources": [
+      "player:jusuf-nurkic",
+      "player:khaman-maluach",
+      "player:yves-missi",
+      "player:derik-queen",
+      "player:daniel-gafford",
+      "player:kristaps-porzingis"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Draft both sides of a job battle",
+   "paragraphs": [
+    {
+     "text": "Two flyers in a similar situation raise the chance that at least one hits. The sharpest version: draft both players in a starting battle, see who wins it, and cut the other one. With 12 teams and only 144 players drafted, both halves of a pair usually cost 1 USD.",
+     "sources": [
+      "E-KmhvyZ2CU:r6",
+      "dlo7L8Ru91A:r7",
+      "g31YlwRe0XQ:r6"
+     ]
+    },
+    {
+     "text": "Pairs the data supports: Missi and Queen for the New Orleans center job. Nurkic and Ace Bailey for a Utah starting spot. Santos and Lendeborg for the Golden State wing role. Poeltl and Murray-Boyles for the Toronto center minutes. Gafford and Morez Johnson in Dallas while Lively is out.",
+     "sources": [
+      "player:yves-missi",
+      "player:derik-queen",
+      "player:jusuf-nurkic",
+      "player:ace-bailey",
+      "player:gui-santos",
+      "player:yaxel-lendeborg",
+      "player:jakob-poeltl",
+      "player:collin-murray-boyles",
+      "player:daniel-gafford",
+      "player:morez-johnson"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Injury stashes: the experts split",
+   "paragraphs": [
+    {
+     "text": "The experts disagree on backups who need an injury. One view says a backup who is one injury away from starting is a valid late flyer. The other view says counting on someone else getting hurt is not enough, and players who only pay off that way are poor late picks. This decides how you treat Sheppard, Paul Reed, Tari Eason, Isaiah Stewart and Jaylon Tyson. Sheppard and Reed each carry top 50 upside if the player ahead of them goes down.",
+     "sources": [
+      "ZYllcj4o6_A:r10",
+      "aLP080hxizA:r4",
+      "_vbAP5y182A:r13",
+      "player:reed-sheppard",
+      "player:paul-reed",
+      "player:tari-eason",
+      "player:isaiah-stewart",
+      "player:jaylon-tyson"
+     ]
+    },
+    {
+     "text": "Our rule: fill the flyer spots with players who have a role path first. Use an injury stash only for your last pick, and only when the upside is top 50. Otherwise, leave these players on waivers and use FAB when the injury actually happens. Houston plays only 10 games in our playoff weeks, which cuts the late value of Sheppard and Eason.",
+     "sources": [
+      "_vbAP5y182A:r13",
+      "ZYllcj4o6_A:r10",
+      "player:reed-sheppard",
+      "player:tari-eason"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Rookies and second-year players",
+   "paragraphs": [
+    {
+     "text": "Uncertain rookies belong in the flyer zone, around picks 120 to 130 in a 12-team league. When two flyers look equal, lean toward the second-year player over the third-year player. Keep expectations low: second-year flyers with an ADP of 101 to 150 reached the top 100 only 13% of the time and the top 150 only 33% of the time. Undrafted sophomores almost never became relevant.",
+     "sources": [
+      "lOshTzDA4SA:r5",
+      "gJUBAJaHzlU:r5",
+      "gerS7ibpaJo:r4"
+     ]
+    },
+    {
+     "text": "For an uncertain young player, take the flyer with your last pick and cut him if it does not work out. Darryn Peterson is the clearest example. He is a cheap upside rookie, but not at the Yahoo average cost.",
+     "sources": [
+      "sTtFUy7IoJI:r2",
+      "player:darryn-peterson"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "When to cut",
+   "paragraphs": [
+    {
+     "text": "Most late flyers do not work out, and that is part of the cost of drafting there. A flyer at the end of the draft does not really hurt you, even if he is unlikely to hit. What does hurt is holding him too long. Before the draft, write down what has to happen for each flyer to pay off: a start, a minutes number, or a category that has to recover.",
+     "sources": [
+      "gerS7ibpaJo:r5",
+      "tnzmsYUA4yQ:r5",
+      "hm5-fiCa5S4:r4"
+     ]
+    },
+    {
+     "text": "You take a late flyer to see what his role turns out to be. If the trigger has not happened after a few weeks, drop him for a waiver add. Waivers run daily on FAB with up to 6 adds per week, so a roster spot is never stuck for long. Exceptions: Porzingis can sit in one of our 4 IL slots until he returns. Mikel Brown can be held until about Thanksgiving if he starts.",
+     "sources": [
+      "_vbAP5y182A:r12",
+      "3UGI05PDvrE:r6",
+      "player:kristaps-porzingis",
+      "player:mikel-brown"
+     ]
+    }
+   ]
+  }
+ ],
+ "players": [
+  {
+   "slug": "collin-murray-boyles",
+   "tier": "Top flyers",
+   "line": "He hits if he closes games and plays 25 or more minutes behind Poeltl, which gives top 70 upside in FG%, blocks and steals, so drop him if he stays below that after the first few weeks."
+  },
+  {
+   "slug": "jusuf-nurkic",
+   "tier": "Top flyers",
+   "line": "Experts expect him to start at center, so he hits if he keeps the job over Ace Bailey at about 27 minutes, and you drop him if he loses the start or his lower body breaks down."
+  },
+  {
+   "slug": "kristaps-porzingis",
+   "tier": "Top flyers",
+   "line": "He can be top 70 for about 40 games if he returns from his health issue and takes the starting center job back from Horford, so hold him in an IL slot and drop him only if he comes back to a bench role."
+  },
+  {
+   "slug": "derik-queen",
+   "tier": "Top flyers",
+   "line": "His top 50 upside needs Missi to lose the starting job or Zion to sit often, so drop him if neither happens in the first few weeks."
+  },
+  {
+   "slug": "yves-missi",
+   "tier": "Top flyers",
+   "line": "He hits if he starts over Queen and plays clearly more than last season's 19.6 minutes for two-block upside, and he goes back to waivers if he does not."
+  },
+  {
+   "slug": "khaman-maluach",
+   "tier": "Top flyers",
+   "line": "His top 75 ceiling needs him to start over Ighodaro and play 24 or more minutes while Mark Williams is out, so drop him if he misses that mark early."
+  },
+  {
+   "slug": "jakob-poeltl",
+   "tier": "Top flyers",
+   "line": "His top 70 upside needs about 28 minutes and his blocks to recover from 0.7 per game, so drop him if Murray-Boyles eats his minutes or his back flares up."
+  },
+  {
+   "slug": "yaxel-lendeborg",
+   "tier": "Top flyers",
+   "line": "He hits if Kerr keeps him in the starting lineup with real minutes before Butler and Moody return, so drop him once he loses the start."
+  },
+  {
+   "slug": "gui-santos",
+   "tier": "Top flyers",
+   "line": "His post-deadline run (31 minutes, rank 72) shows the upside if he wins the wing start at 25 or more minutes, so pair him with Lendeborg and cut whoever loses the role."
+  },
+  {
+   "slug": "quentin-grimes",
+   "tier": "Role flyers",
+   "line": "He is a likely starter who hits if he holds the spot at about 30 minutes ahead of LaRavia, Mamukelashvili and Ziaire Williams, so drop him if he slides to the bench."
+  },
+  {
+   "slug": "egor-demin",
+   "tier": "Role flyers",
+   "line": "He has upside near 80th if he starts and his FG% climbs from 39.9%, so drop him if the FG% stays low in the first weeks."
+  },
+  {
+   "slug": "darryn-peterson",
+   "tier": "Role flyers",
+   "line": "He is an upside rookie who needs to start and get real minutes next to Markkanen and George, so cut him if his FG%, turnovers and assists do not improve early."
+  },
+  {
+   "slug": "kevin-porter",
+   "tier": "Role flyers",
+   "line": "He hits if he starts or gets 27 or more minutes under Jenkins with steals near 2 per game, and he is an easy drop if neither happens."
+  },
+  {
+   "slug": "daniel-gafford",
+   "tier": "Temporary starting centers",
+   "line": "He can start early while Lively, Johnson and Dharma are hurt, so check opening night and drop him when Lively returns or trade news moves him."
+  },
+  {
+   "slug": "moussa-diabate",
+   "tier": "Temporary starting centers",
+   "line": "He adds FG% and rebounds if he keeps the starting job and about 25 minutes against the rookie center and Kalkbrenner, so drop him the moment he loses them."
+  },
+  {
+   "slug": "isaiah-jackson",
+   "tier": "Temporary starting centers",
+   "line": "He gives FG% and blocks while he starts over Lopez at close to 25 minutes, so plan to drop him when Konan Niederhauser returns."
+  },
+  {
+   "slug": "reed-sheppard",
+   "tier": "Injury stashes",
+   "line": "He is a top 50 player in a 28 to 30 minute role, but the experts agree he comes off the bench, so he only hits if VanVleet or Smart gets hurt and is a drop if his minutes stay low."
+  },
+  {
+   "slug": "paul-reed",
+   "tier": "Injury stashes",
+   "line": "He plays about 20 minutes behind Duren and becomes a must-add with top 50 upside only if Duren misses time, so he is better left on waivers until that happens."
+  },
+  {
+   "slug": "tari-eason",
+   "tier": "Injury stashes",
+   "line": "He needs an injury to Durant or Smith to reach 32 minutes and top 70 value, and Houston's 10-game playoff schedule cuts his late value, so drop him if no role opens early."
+  },
+  {
+   "slug": "isaiah-stewart",
+   "tier": "Injury stashes",
+   "line": "His blocks only matter if Edey's foot keeps him out, so draft or claim him only if Edey is still out and drop him once Edey is healthy."
+  },
+  {
+   "slug": "jeremiah-fears",
+   "tier": "Injury stashes",
+   "line": "He needs to beat Herb Jones for the start at close to 30 minutes, and Dejounte Murray's health unlocks his upside, so drop him if he stays a bench guard."
+  },
+  {
+   "slug": "jaylon-tyson",
+   "tier": "Injury stashes",
+   "line": "He needs an injury to Harden, Mitchell or Watson to open a starting role, so leave him on waivers unless that happens."
+  },
+  {
+   "slug": "fred-vanvleet",
+   "tier": "Low ceiling",
+   "line": "His ceiling is about his draft slot, so he only suits punt FG% teams as a filler guard, and you drop him if his knee or back-to-back rest cuts his minutes below 30."
+  },
+  {
+   "slug": "cameron-johnson",
+   "tier": "Low ceiling",
+   "line": "His best case is only about top 90, so he needs his usage to rise from about 15 as a starter, and you drop him if it does not or a trade shrinks his role."
+  },
+  {
+   "slug": "rui-hachimura",
+   "tier": "Low ceiling",
+   "line": "He needs over 30 minutes and more shots while Ingram is out, and he is a drop if his line stays near last season's 11.5 points and 3.3 rebounds."
+  },
+  {
+   "slug": "darius-acuff",
+   "tier": "Low ceiling",
+   "line": "His FG% and turnovers cancel most of his assists, so he only helps if he shoots near 40% or a LaVine or Sabonis trade gives him the ball, and you drop him if neither happens."
+  },
+  {
+   "slug": "sandro-mamukelashvili",
+   "tier": "Low ceiling",
+   "line": "He needs a start or about 27 bench minutes with FG% near last season's 52.3%, so drop him if he lands near the projected 47.9%."
+  },
+  {
+   "slug": "ace-bailey",
+   "tier": "Low ceiling",
+   "line": "He wins no category, so he only works as the Nurkic hedge if he starts and reaches about 30 minutes, and he is an easy drop as a bench player."
+  },
+  {
+   "slug": "mikel-brown",
+   "tier": "Low ceiling",
+   "line": "He is projected around 150 to 180 with a weak FG% and many turnovers, so hold him until about Thanksgiving only if he starts at point guard and his ankle is fine."
+  },
+  {
+   "slug": "ja-morant",
+   "tier": "Cap the bid",
+   "line": "His median is modest and the 24 point, 9 assist upside is unlikely, so take him only cheaply for punt TO and drop him if his usage next to Lillard stays at the Yahoo projection or he gets hurt."
+  },
+  {
+   "slug": "cedric-coward",
+   "tier": "Cap the bid",
+   "line": "He has breakout upside but usually costs more than a flyer, so bid only if he plays close to 30 minutes with the usage bump in Iisalo's deep rotation, and cut him if he does not."
+  },
+  {
+   "slug": "morez-johnson",
+   "tier": "Waiver watch",
+   "line": "He is worth a waiver claim only if Dusty May starts him over Gafford for 25 to 30 minutes after his lower leg heals."
+  },
+  {
+   "slug": "max-strus",
+   "tier": "Waiver watch",
+   "line": "Add him only if he starts at near 32 minutes with about 4 assists while Ingram is out in the first two weeks."
+  },
+  {
+   "slug": "deandre-hunter",
+   "tier": "Waiver watch",
+   "line": "Add him as a 3PM and FT% streamer only if he starts for 30 or more minutes and his three-point percentage gets back near 40%."
+  },
+  {
+   "slug": "baylor-scheierman",
+   "tier": "Waiver watch",
+   "line": "He should go undrafted, so claim him only if he keeps the starting job at 23 or more minutes."
+  },
+  {
+   "slug": "yanic-konan-niederhauser",
+   "tier": "Waiver watch",
+   "line": "He is a free IL stash, not an auction target, whose top 70 run needs a return around Thanksgiving to Christmas and 24 or more minutes as a starter."
+  }
+ ],
+ "excluded": [
+  {
+   "slug": "joel-embiid",
+   "reason": "His profile prices him as a mid-round buy near 7 to 8 USD with an elite per-game ceiling, not as a 1 to 3 USD end-of-auction flyer."
+  }
+ ],
+ "rejected": []
+}

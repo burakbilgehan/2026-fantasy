@@ -1,0 +1,298 @@
+{
+ "player": {
+  "name": "Jayson Tatum",
+  "slug": "jayson-tatum",
+  "pk": 543,
+  "team": "BOS",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "2427136b78c3",
+ "note_count": 21,
+ "built_at": "2026-10-04T17:36:13+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.17581419999999998,
+  "duration_ms": 46523
+ },
+ "current": [
+  {
+   "text": "He came back from a torn Achilles much earlier than expected last season and finished 19th per game in limited minutes. He played 35 minutes a night in the playoffs.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p0",
+    "TiiaNZCJNs8:p18"
+   ]
+  },
+  {
+   "text": "After the Achilles he did not look fully like himself. He said he played at about 80 to 85%, and his rim finishing fell from 69 to 60.",
+   "kind": "fact",
+   "date": "2026-07-30",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:p18",
+    "-y6p5PYLf00:p21"
+   ]
+  },
+  {
+   "text": "He missed playoff Game 7 with knee inflammation from compensating for the Achilles. It is not chronic and needed no surgery. He is expected to arrive fully healthy.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:p17",
+    "Bi1cEM03k9Y:p2",
+    "2A2JbUN-kc0:p10",
+    "dlo7L8Ru91A:p1"
+   ]
+  },
+  {
+   "text": "Experts are not worried about the Achilles. The only open concern is the Game 7 knee issue. One expert rates that risk at about 1% and wants to hear at media day that he is fine.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p2",
+    "2A2JbUN-kc0:p10",
+    "dlo7L8Ru91A:p1",
+    "TiiaNZCJNs8:p17",
+    "80kfLVnFQ_s:p2",
+    "OdDkXFhoKsc:p6"
+   ]
+  },
+  {
+   "text": "Experts expect no minutes restriction. On back-to-backs they differ a little: the newest note says he will not sit them, and an earlier note says he may sit some.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p3",
+    "LM0cRCGoAUQ:p4",
+    "gf_6GveiAls:p10"
+   ]
+  },
+  {
+   "text": "Jaylen Brown has left Boston. Tatum is the number one option, with Paul George clearly second.",
+   "kind": "fact",
+   "date": "2026-08-30",
+   "until": "",
+   "sources": [
+    "J1Eg3uaAICU:t4",
+    "Alwse2uXzD4:t1",
+    "DubdKKhMWHo:t3"
+   ]
+  },
+  {
+   "text": "Experts expect a big usage season, with more usage than last season.",
+   "kind": "verdict",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:p10",
+    "dlo7L8Ru91A:p1"
+   ]
+  },
+  {
+   "text": "He is projected to start at forward and will play only some small-ball center.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t1",
+    "TiiaNZCJNs8:t1",
+    "TiiaNZCJNs8:t2"
+   ]
+  },
+  {
+   "text": "His FG% should go up from last season, and one expert is fairly confident he returns to his best.",
+   "kind": "verdict",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p21"
+   ]
+  },
+  {
+   "text": "Experts call him good value at picks 6 to 8 and see a rank of 7 or 8 as fair. An ADP of 12 or 13 is too late. One expert would take him in round one, possibly ahead of Cade Cunningham.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p1",
+    "C4vlgpJ62NI:p17",
+    "ahNxsoU8Hx4:p44",
+    "LM0cRCGoAUQ:p3",
+    "dlo7L8Ru91A:p0",
+    "dlo7L8Ru91A:p1",
+    "80kfLVnFQ_s:p2",
+    "J1Eg3uaAICU:p6",
+    "_vbAP5y182A:p8"
+   ]
+  },
+  {
+   "text": "Boston has 16 back-to-backs, tied for the most in the league, and three of them fall in the fantasy playoff window. The playoff schedule is 4-3-4 games through March 28, one game short of the maximum.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t5",
+    "Bi1cEM03k9Y:t4",
+    "Bi1cEM03k9Y:t5",
+    "gf_6GveiAls:t0",
+    "gf_6GveiAls:p10"
+   ]
+  },
+  {
+   "text": "The expert expects Tatum to play the back-to-backs in the playoff window. Boston's back-to-backs mainly affect Paul George and Mitchell Robinson.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p10",
+    "Bi1cEM03k9Y:t5"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Threes and points are clear league outliers on the strong side.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "His rebounds and assists are well above other forwards.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Turnovers are his weakest category for a forward.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "His weaknesses are blocks, steals and FG%.",
+   "kind": "verdict",
+   "date": "2026-09-23",
+   "until": "",
+   "sources": [
+    "C4vlgpJ62NI:p18"
+   ]
+  },
+  {
+   "text": "He tore his Achilles in 2025-26. Before that injury he had a reputation as an iron man.",
+   "kind": "fact",
+   "date": "2026-08-09",
+   "until": "",
+   "sources": [
+    "8d--aL_xxwE:p6",
+    "Bi1cEM03k9Y:p0"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "3PM specialist",
+   "channel": "durable",
+   "detail": "3.3 threes per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "PTS specialist",
+   "channel": "durable",
+   "detail": "about 26 points per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "AST from a big",
+   "channel": "durable",
+   "detail": "5.6 assists per game projected as a forward",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "2.7 turnovers per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "torn Achilles, 16 games in 2025-26",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p0",
+    "8d--aL_xxwE:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bounce-back",
+   "channel": "current",
+   "detail": "FG% expected to recover after the Achilles return",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p21",
+    "TiiaNZCJNs8:p18"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "more usage with Jaylen Brown gone",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:p10",
+    "dlo7L8Ru91A:p1",
+    "J1Eg3uaAICU:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "experts take him at picks 6 to 8; ADP of 12 or 13 seen as too late",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p44",
+    "LM0cRCGoAUQ:p3",
+    "Bi1cEM03k9Y:p1"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo and ESPN agree on him: values of 54 and 57 USD and a rank of 7 to 8. Experts call that fair or slightly cheap, so paying about 55 USD for a top 8 player is reasonable. He gives elite threes and points plus strong rebounds and assists for a forward, and turnovers are his main weakness, so he fits punt TO builds best. Early checks: the knee report at media day, whether his FG% gets back above 45%, and how Boston handles its 16 back-to-backs with him.",
+ "rejected": []
+}

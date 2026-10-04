@@ -1,0 +1,289 @@
+{
+ "team": "ATL",
+ "prompt_version": 1,
+ "prompt_sha": "07b4ed7fd28e",
+ "input_sha": "ba177ed79d79",
+ "note_count": 23,
+ "built_at": "2026-10-04T20:01:37+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.3312434,
+  "duration_ms": 84286
+ },
+ "current": [
+  {
+   "text": "Atlanta has stability in the front office, the coaching staff and the roster. The core is basically the same as last season.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t0",
+    "xHRF06_E9HE:t0"
+   ]
+  },
+  {
+   "text": "The projected starters are CJ McCollum, Nickeil Alexander-Walker, Dyson Daniels, Jalen Johnson and Onyeka Okongwu.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t1",
+    "H9q2FT3LhNw:t0",
+    "4GDfg2n2l8o:t3",
+    "stats"
+   ]
+  },
+  {
+   "text": "Each of the five starters should play 30 or more minutes.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t1"
+   ]
+  },
+  {
+   "text": "Lu Dort is the main threat to the minutes of McCollum, Daniels and Alexander-Walker.",
+   "kind": "fact",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:t5",
+    "H9q2FT3LhNw:t0"
+   ]
+  },
+  {
+   "text": "Dort is not expected to start over McCollum.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:t5"
+   ]
+  },
+  {
+   "text": "Dort and Daniels will play together some, but they will mostly be staggered for spacing.",
+   "kind": "verdict",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:t5"
+   ]
+  },
+  {
+   "text": "Atlanta is a deep team and should use a 10-man rotation.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t2",
+    "W3THnI7wWdA:t6"
+   ]
+  },
+  {
+   "text": "The expected bench is Dort, Aaron Wiggins, Jock Landale, Kingston Flemings and probably Newell, with Kispert and Dorian Finney-Smith also in the mix.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t2"
+   ]
+  },
+  {
+   "text": "There is no true point guard. Ball handling is shared among McCollum, Alexander-Walker, Johnson and Daniels.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:t2",
+    "4gw4W4RTolY:t4"
+   ]
+  },
+  {
+   "text": "Because several starters handle the ball, Dort or Wiggins can replace any of them. Flemings is not an automatic handcuff.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t4"
+   ]
+  },
+  {
+   "text": "Power forward depth is bad to start the season. A Jalen Johnson injury would turn the rotation upside down.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t3"
+   ]
+  },
+  {
+   "text": "Center depth took a hit. Henri Veesaar is out for the season and Mouhamed Gueye is injured. Jock Landale is the backup center behind Okongwu.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t5",
+    "CLsUc0Sevos:t2",
+    "lOshTzDA4SA:t8",
+    "stats"
+   ]
+  },
+  {
+   "text": "Quin Snyder wants Okongwu spaced away from the rim when he plays alongside Daniels and Johnson.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t7"
+   ]
+  },
+  {
+   "text": "McCollum signed an extension.",
+   "kind": "fact",
+   "date": "2026-06-28",
+   "until": "",
+   "sources": [
+    "RsjGTgJiKyI:t4"
+   ]
+  },
+  {
+   "text": "The McCollum extension delays Kingston Flemings moving into the starting lineup.",
+   "kind": "verdict",
+   "date": "2026-06-28",
+   "until": "",
+   "sources": [
+    "RsjGTgJiKyI:t4"
+   ]
+  },
+  {
+   "text": "The roster is two players over the limit.",
+   "kind": "fact",
+   "date": "2026-08-25",
+   "until": "opening day",
+   "sources": [
+    "H9q2FT3LhNw:t4"
+   ]
+  },
+  {
+   "text": "Cuts or a small trade are likely before opening day. The candidates are Carter, Nembhard, Hield, Gueye and Kispert.",
+   "kind": "verdict",
+   "date": "2026-08-25",
+   "until": "opening day",
+   "sources": [
+    "H9q2FT3LhNw:t4"
+   ]
+  },
+  {
+   "text": "Atlanta is projected at 46 wins and somewhere between fourth and eighth in the East.",
+   "kind": "verdict",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:t7"
+   ]
+  },
+  {
+   "text": "The fantasy playoff schedule is 4-4-3 in weeks 19 to 21. That is 11 games, rank 4 of 30.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t6",
+    "stats"
+   ]
+  },
+  {
+   "text": "Resting players is not a concern, even with 14 back-to-backs. The team did not shut players down late last season.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t6",
+    "xHRF06_E9HE:t0",
+    "stats"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Quin Snyder runs an egalitarian, high-movement offense that wants lots of threes and five-out spacing.",
+   "kind": "fact",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:t3"
+   ]
+  },
+  {
+   "text": "Without a rim anchor, the defense uses more switching and blitzing, which puts the center in different spots.",
+   "kind": "fact",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:t6"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "4-4-3 in weeks 19 to 21, 11 games, rank 4 of 30",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t6",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "10-man rotation expected. Dort and Wiggins can cover any guard or wing starter.",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t2",
+    "4gw4W4RTolY:t4",
+    "W3THnI7wWdA:t6"
+   ],
+   "new_meaning": "The team regularly plays about 10 or more players, so minutes are spread and backups have little handcuff value."
+  },
+  {
+   "name": "shared ball handling",
+   "channel": "current",
+   "detail": "No true point guard. McCollum, Alexander-Walker, Johnson and Daniels share the ball.",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:t2",
+    "4gw4W4RTolY:t4"
+   ],
+   "new_meaning": "The team has no single lead ball handler, so assists and usage are spread across several players."
+  },
+  {
+   "name": "five-out offense",
+   "channel": "durable",
+   "detail": "Quin Snyder wants lots of threes and five-out spacing. Okongwu is spaced away from the rim next to Daniels and Johnson.",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:t3",
+    "4gw4W4RTolY:t7"
+   ],
+   "new_meaning": "The coach spaces all five players around the arc, so centers and forwards take more threes than usual."
+  },
+  {
+   "name": "low rest risk",
+   "channel": "current",
+   "detail": "Resting is not a concern. No late-season shutdowns last season.",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t6",
+    "xHRF06_E9HE:t0"
+   ],
+   "new_meaning": "The team rarely rests or shuts down healthy players, including late in the season."
+  }
+ ],
+ "note": "All five Atlanta starters should play 30-plus minutes, and the ball is shared with no true point guard. That keeps McCollum, Alexander-Walker and Daniels useful, and an 11-game, 4-4-3 playoff schedule with no rest worries helps every starter. Watch Lu Dort's minutes against the guards and the roster cuts before opening day. Power forward depth is thin, so a Jalen Johnson injury would reshape the whole rotation.",
+ "rejected": []
+}

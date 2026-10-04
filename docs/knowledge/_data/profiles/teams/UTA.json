@@ -1,0 +1,278 @@
+{
+ "team": "UTA",
+ "prompt_version": 1,
+ "prompt_sha": "07b4ed7fd28e",
+ "input_sha": "b8222d604bee",
+ "note_count": 24,
+ "built_at": "2026-10-04T20:02:10+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1526468,
+  "duration_ms": 45170
+ },
+ "current": [
+  {
+   "text": "Walker Kessler is no longer on the team, which leaves an opening at center.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t0",
+    "LM0cRCGoAUQ:t4",
+    "xHRF06_E9HE:t4",
+    "Rqb5GdrSweY:t5",
+    "4kKINkZhWls:t1",
+    "P6TNP-g0wzY:t2"
+   ]
+  },
+  {
+   "text": "Projected starters: Keyonte George, Darryn Peterson, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic.",
+   "kind": "fact",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:t0",
+    "stats"
+   ]
+  },
+  {
+   "text": "Jusuf Nurkic is expected to start at center.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t0",
+    "egRrai3Ax38:t4",
+    "Rqb5GdrSweY:t5",
+    "4kKINkZhWls:t1"
+   ]
+  },
+  {
+   "text": "Ace Bailey probably does not start because Jackson Jr., Markkanen and George are healthy again.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t0",
+    "uarqbNA2dFk:t2"
+   ]
+  },
+  {
+   "text": "Kyle Filipowski or Jaxson Hayes starting is very unlikely. The experts also doubt that Jackson Jr. plays center full time.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:t4",
+    "Rqb5GdrSweY:t5",
+    "4kKINkZhWls:t1",
+    "P6TNP-g0wzY:t2"
+   ]
+  },
+  {
+   "text": "Jackson Jr. is not a passer, which helps Nurkic as a passing center.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:t2"
+   ]
+  },
+  {
+   "text": "The Jazz are trying to win this season and are not tanking. Tanking is not a real concern for player minutes.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:t2",
+    "LM0cRCGoAUQ:t4",
+    "dlo7L8Ru91A:t2",
+    "sTtFUy7IoJI:t6",
+    "J1Eg3uaAICU:t3",
+    "xHRF06_E9HE:t4"
+   ]
+  },
+  {
+   "text": "Fears that the Jazz will sit Markkanen or shut down players late in the season are misplaced.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:t4",
+    "J1Eg3uaAICU:t3"
+   ]
+  },
+  {
+   "text": "Leaf projects 43 wins and a 7th or 8th seed, with a top six seed as the goal. That is well above the market win total of 35.5.",
+   "kind": "verdict",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:t2",
+    "stats"
+   ]
+  },
+  {
+   "text": "The roster is deeper now and the team looks like a playoff team, so the open late-season minutes from last season will not be there.",
+   "kind": "verdict",
+   "date": "2026-07-14",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:t4"
+   ]
+  },
+  {
+   "text": "The Jazz are expected to have a top 10 offense and a defense ranked below 20th.",
+   "kind": "verdict",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:t3"
+   ]
+  },
+  {
+   "text": "Leaf expects some zone defense because the team has size.",
+   "kind": "verdict",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:t5"
+   ]
+  },
+  {
+   "text": "Scoring should be balanced. No player is expected to hit a career high in points, but three or four could top 20 points per game.",
+   "kind": "verdict",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:t4"
+   ]
+  },
+  {
+   "text": "Usage is crowded with Markkanen, George, Jackson Jr. and Peterson. All of them should lose some touches.",
+   "kind": "verdict",
+   "date": "2026-06-25",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:t2",
+    "-rgXhs5BHiw:t1"
+   ]
+  },
+  {
+   "text": "More Markkanen and the addition of Jackson Jr. reduce Keyonte George's opportunity.",
+   "kind": "verdict",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:t10"
+   ]
+  },
+  {
+   "text": "The frontcourt is crowded.",
+   "kind": "verdict",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:t6"
+   ]
+  },
+  {
+   "text": "George, Peterson, Sensabaugh, Bailey, Markkanen and Jackson Jr. leave little room for Isaiah Collier.",
+   "kind": "verdict",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:t4"
+   ]
+  },
+  {
+   "text": "New arrivals include Darryn Peterson, Jaxson Hayes, Mo Bamba, Josh Okogie, Trey Alexander and Harrison Ingram.",
+   "kind": "fact",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:t1"
+   ]
+  },
+  {
+   "text": "Coach Will Hardy will feel pressure to tinker and win after a long leash during the tank years, so the rotation may shift.",
+   "kind": "verdict",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:t6"
+   ]
+  },
+  {
+   "text": "Utah has only 13 back-to-backs, the fewest in the league, so rest risk for its starters is low.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "The playoff schedule is average: 10 games over weeks 19 to 21, with 4 games in week 21.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "The Jazz have a strong home-court advantage from the crowd and the altitude.",
+   "kind": "fact",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:t7"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13 back-to-backs, fewest in the league",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "not tanking",
+   "channel": "current",
+   "detail": "Trying to win and aiming for the playoffs, so late-season shutdowns are unlikely",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:t2",
+    "J1Eg3uaAICU:t3",
+    "egRrai3Ax38:t4",
+    "xHRF06_E9HE:t4",
+    "sTtFUy7IoJI:t6"
+   ],
+   "new_meaning": "Team plans to compete all season, so tanking, late-season rest and shutdowns are unlikely."
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Crowded usage among Markkanen, George, Jackson Jr. and Peterson, plus a crowded frontcourt",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:t4",
+    "sTtFUy7IoJI:t6",
+    "lOshTzDA4SA:t2",
+    "-y6p5PYLf00:t4"
+   ],
+   "new_meaning": "Team has many rotation-worthy players, so minutes and touches are spread out."
+  }
+ ],
+ "note": "Utah is trying to win and has the fewest back-to-backs in the league, so starters like Markkanen and Jackson Jr. should not face tank-style shutdowns. The catch is crowded usage: George, Peterson, Markkanen and Jackson Jr. should all lose some touches, and bench players like Bailey, Collier and Filipowski have little room. Nurkic is the main winner as the likely starting center with Kessler gone. Early on, check that he really starts and whether Bailey moves into the lineup.",
+ "rejected": []
+}

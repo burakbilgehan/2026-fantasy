@@ -1,0 +1,127 @@
+{
+ "player": {
+  "name": "Kasparas Jakučionis",
+  "slug": "kasparas-jakucionis",
+  "pk": 267,
+  "team": "MIL",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "14b3254c0daa",
+ "note_count": 3,
+ "built_at": "2026-10-04T17:38:10+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.145198,
+  "duration_ms": 29360
+ },
+ "current": [
+  {
+   "text": "He came to Milwaukee in the Giannis Antetokounmpo trade and is seen as the piece that sealed that deal.",
+   "kind": "fact",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p16"
+   ]
+  },
+  {
+   "text": "Milwaukee could use him as a trade chip. Experts value him like a first-round pick.",
+   "kind": "verdict",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p16"
+   ]
+  },
+  {
+   "text": "Milwaukee's backcourt is crowded. Rollins, Herro, Porter, Burries, Trent and Green all compete with him for guard minutes.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t4",
+    "sTtFUy7IoJI:t8",
+    "7BllEsdNLoM:t0",
+    "nnWX_ObljOE:t1",
+    "Rqb5GdrSweY:t0"
+   ]
+  },
+  {
+   "text": "He is not in Milwaukee's projected starting five. The projected starters are Rollins, Herro, Jaquez, Ware and Turner.",
+   "kind": "fact",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:t2"
+   ]
+  },
+  {
+   "text": "He put up good assist and steal numbers in Summer League.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p19"
+   ]
+  },
+  {
+   "text": "He has no clear role in Milwaukee, and the expert is still skeptical about his fantasy value this season.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p19"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is worth more in category leagues than in points leagues.",
+   "kind": "verdict",
+   "date": "2026-09-01",
+   "until": "",
+   "sources": [
+    "80kfLVnFQ_s:p42"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "Came to Milwaukee in the Giannis Antetokounmpo trade",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p16"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Crowded backcourt: Rollins, Herro, Porter, Burries, Trent and Green",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t4",
+    "sTtFUy7IoJI:t8",
+    "LUTYUdXBG1M:p19"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trade risk",
+   "channel": "current",
+   "detail": "Could be used as a trade chip, valued like a first-round pick",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p16"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both sites price him at 0 USD. He ranks 342 on Yahoo and 242 on ESPN, far outside the 144 players our league drafts, so do not draft him. His projections show no strong category, only about 7.8 points, and a FG% of 42.4 on low volume. Early in the season, check whether he gets real minutes in Milwaukee's crowded backcourt or gets traded, before you treat him as a waiver option.",
+ "rejected": []
+}

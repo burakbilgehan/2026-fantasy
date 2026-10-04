@@ -1,0 +1,56 @@
+{
+ "player": {
+  "name": "Jamal Shead",
+  "slug": "jamal-shead",
+  "pk": 511,
+  "team": "TOR",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "9f39a92565f3",
+ "note_count": 1,
+ "built_at": "2026-10-04T17:34:25+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.0721662,
+  "duration_ms": 12193
+ },
+ "current": [
+  {
+   "text": "He is expected to be Toronto's eighth man. He comes off the bench and plays in two-guard lineups with Quickley.",
+   "kind": "verdict",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:p35",
+    "s28HvC2grAk:t2"
+   ]
+  },
+  {
+   "text": "Toronto's projected starters are Quickley, Barrett, Leonard, Barnes and Poeltl, so he is not in the starting five.",
+   "kind": "fact",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:t0"
+   ]
+  }
+ ],
+ "durable": [],
+ "tags": [
+  {
+   "name": "plays every game",
+   "channel": "durable",
+   "detail": "82 games in 2025-26 and 75 in 2024-25",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He is outside our 144-player draft pool. Yahoo ranks him 238 and ESPN 186, and both sites value him at 0 USD. His projected line is mostly assists (5.3) with a weak FG% (38.5% projected, 36.7% last season) and few points and rebounds, so leave him on waivers. Early in the season, check whether his minutes rise above about 22 if a Toronto guard gets hurt, since the team has little depth after its top seven.",
+ "rejected": []
+}

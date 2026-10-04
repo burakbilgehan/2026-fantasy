@@ -31,7 +31,7 @@ class UsageLimit(LlmError):
 
 # The CLI's text when the subscription limit is hit (inferred from the CLI's wording,
 # not seen yet): "Claude AI usage limit reached", "You've hit your limit".
-_LIMIT = re.compile(r"usage limit|hit your limit|limit reached", re.I)
+_LIMIT = re.compile(r"usage limit|hit your (session )?limit|limit reached", re.I)
 
 _ACTIVE: set[subprocess.Popen] = set()
 ABORTED = threading.Event()  # set by kill_all: no new calls start

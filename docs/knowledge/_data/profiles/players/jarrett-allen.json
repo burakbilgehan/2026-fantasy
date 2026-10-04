@@ -1,0 +1,336 @@
+{
+ "player": {
+  "name": "Jarrett Allen",
+  "slug": "jarrett-allen",
+  "pk": 14,
+  "team": "CLE",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "8cd7703b328f",
+ "note_count": 15,
+ "built_at": "2026-10-04T17:35:29+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1719622,
+  "duration_ms": 46482
+ },
+ "current": [
+  {
+   "text": "Allen is in the projected starting lineup at center with James Harden, Donovan Mitchell, Peyton Watson and Evan Mobley.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t0",
+    "rnq3118kfhY:t0"
+   ]
+  },
+  {
+   "text": "Cleveland may play Mobley more at center and close games with him there after adding Peyton Watson. The coach has not shown whether he will do that or build around Allen and Harden pick-and-rolls.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t2",
+    "NmdNvAz08oE:p24",
+    "t4n9MAP2_14:p30",
+    "t4n9MAP2_14:t3"
+   ]
+  },
+  {
+   "text": "His minutes sometimes drop, and he sometimes sits in fourth quarters.",
+   "kind": "fact",
+   "date": "2026-08-24",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:p10"
+   ]
+  },
+  {
+   "text": "Experts do not expect him to reach 30 minutes a game this season.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p24"
+   ]
+  },
+  {
+   "text": "Cleveland's big-man depth is very thin. Behind Mobley and Allen there is only Thomas Bryant, then Ernest Udeh Jr. and Khalifa Diop. Dean Wade is gone, so the team also lost its small-ball center option.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t4",
+    "rnq3118kfhY:t2",
+    "t4n9MAP2_14:t3",
+    "t4n9MAP2_14:p30"
+   ]
+  },
+  {
+   "text": "The weak backup center group and Wade's departure help protect his role.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p30"
+   ]
+  },
+  {
+   "text": "Without Harden, Allen averaged 19 points and 11 rebounds per 36 minutes on 62% shooting. With Harden, he averaged 25 points and 13 rebounds per 36 minutes on 71% shooting, with a usage rate of 23.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p21"
+   ]
+  },
+  {
+   "text": "Playing with Harden could lift his efficiency. If he shoots 66 to 67% on a usage rate of 21 to 22, he could score about 17 points and finish as a top 70 player.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p22",
+    "NmdNvAz08oE:p23"
+   ]
+  },
+  {
+   "text": "Last season he finished around 69th to 79th, depending on format, and 79th per game.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p20",
+    "J1Eg3uaAICU:p50"
+   ]
+  },
+  {
+   "text": "Experts value him around rank 70 to 85. He is a boring pick with little upside and is a solid choice around pick 85, or around 70 if you need a center.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p42",
+    "NmdNvAz08oE:p22",
+    "NmdNvAz08oE:p25",
+    "t4n9MAP2_14:p30",
+    "J1Eg3uaAICU:p50"
+   ]
+  },
+  {
+   "text": "Experts would not draft him at his ESPN rank, which they put at 49 to 53. One calls him his biggest fade at that price.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p20",
+    "NmdNvAz08oE:p25",
+    "QbdrhJd7LiA:p37"
+   ]
+  },
+  {
+   "text": "Cleveland has the most back-to-backs in the league. With a March 28 end, the team plays 4, 3 and then 2 games in the fantasy playoff weeks, so the finals week is a two-game week.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t5",
+    "NmdNvAz08oE:t6",
+    "gf_6GveiAls:t2",
+    "gf_6GveiAls:t15"
+   ]
+  },
+  {
+   "text": "One expert says the two-game week does not matter much for him.",
+   "kind": "verdict",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p36"
+   ]
+  },
+  {
+   "text": "He has no current injury concern.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t7"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Allen's main strengths are rebounds and field goal percentage. He no longer blocks many shots.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p23",
+    "E-KmhvyZ2CU:p18",
+    "stats"
+   ]
+  },
+  {
+   "text": "He gives a large FG% boost on solid volume.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He usually shoots around 64% from the field. His true level is probably between his last two seasons, 63.8% and 70.6%.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p23",
+    "-y6p5PYLf00:p32"
+   ]
+  },
+  {
+   "text": "He makes no threes.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Experts call him a clear example of nine-cat fluff. Z-scores that include turnovers make him look better than his real head-to-head value.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p19"
+   ]
+  },
+  {
+   "text": "He had a knee injury late last season.",
+   "kind": "fact",
+   "date": "2026-08-24",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:p10"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "FG% anchor",
+   "channel": "durable",
+   "detail": "projected about 66% FG",
+   "until": "",
+   "sources": [
+    "stats",
+    "E-KmhvyZ2CU:p18"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt 3PM fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "9-cat fluff",
+   "channel": "durable",
+   "detail": "low turnovers inflate his z-score value",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p19"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Mobley may play more center and close games there",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p24",
+    "NmdNvAz08oE:t2",
+    "t4n9MAP2_14:p30"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "at his ESPN rank of 49 to 53",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p25",
+    "QbdrhJd7LiA:p37"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "ESPN rank 49 and average cost 7.0 USD; Yahoo rank 65 and average cost 2.8 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "4, 3 and 2 games; two-game finals week",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t5",
+    "gf_6GveiAls:t15"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "knee injury late last season",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:p10",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "needs playmaker",
+   "channel": "durable",
+   "detail": "much more efficient with Harden on the floor",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p21",
+    "NmdNvAz08oE:p22"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Experts value Allen around rank 70 to 85. That makes him a mid-level starting center in our 144-player draft, and his FG% and rebounds work well in punt 3PM builds. He went for 13 USD in our league last season and his Yahoo value is 16 USD, but ESPN ranks him 49th, so let ESPN-anchored managers overpay and stop around 10 to 13 USD. Early in the season, check whether he keeps 27 or more minutes and closes games or Mobley takes the center role, and whether playing with Harden pushes his FG% back toward 66% or higher.",
+ "rejected": []
+}

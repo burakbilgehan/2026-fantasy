@@ -1,0 +1,144 @@
+{
+ "player": {
+  "name": "Sam Hauser",
+  "slug": "sam-hauser",
+  "pk": 227,
+  "team": "BOS",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "579fac7d2049",
+ "note_count": 4,
+ "built_at": "2026-10-04T17:47:57+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.11560619999999999,
+  "duration_ms": 26320
+ },
+ "current": [
+  {
+   "text": "The newest Boston preview projects him in the bench rotation, with Baylor Scheierman starting. The same expert says he still has a chance to start.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p27",
+    "Bi1cEM03k9Y:t1"
+   ]
+  },
+  {
+   "text": "Boston is very deep, with at least 12 rotation-level players. In a 10-man rotation some of them will miss out most nights.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t2"
+   ]
+  },
+  {
+   "text": "He finished 282nd in category leagues last season.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p27"
+   ]
+  },
+  {
+   "text": "His Yahoo ADP of 102 is far too high. He is a deep-league option only.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p27"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a veteran catch-and-shoot player who shoots about 40% from three and does not try to do too much.",
+   "kind": "fact",
+   "date": "2026-07-30",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:p14"
+   ]
+  },
+  {
+   "text": "His three-point shooting is streaky.",
+   "kind": "verdict",
+   "date": "2026-07-30",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:p14"
+   ]
+  },
+  {
+   "text": "He is a deep-league rotation player who hits a lot of threes and offers little else.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p28"
+   ]
+  },
+  {
+   "text": "Threes and low turnovers are his only categories clearly above the pool. Steals, assists, points and FG% are below it, and he takes so few free throws that his FT% barely matters.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Competes with Baylor Scheierman for the starting wing spot next to Derrick White on a deep roster",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p27",
+    "Bi1cEM03k9Y:t1",
+    "Bi1cEM03k9Y:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "Yahoo ADP 102 called ridiculous",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p27"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "needs playmaker",
+   "channel": "durable",
+   "detail": "Catch-and-shoot role, not a self-creator",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:p13",
+    "TiiaNZCJNs8:p14"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "plays every game",
+   "channel": "durable",
+   "detail": "71 to 79 games in each of the last three seasons",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo and ESPN both value him at 0 USD and rank him 181 and 167, outside the 144 players our league drafts, and the expert calls him a deep-league player only. He is not a draft target. His only uses are threes and very few turnovers, and his FG% (43.0% projected) and empty steals, assists and points cost a 12-team roster. Early in the season, check whether he starts over Baylor Scheierman. Even then he is at most a short-term 3PM streamer from waivers.",
+ "rejected": []
+}

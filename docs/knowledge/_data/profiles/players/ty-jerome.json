@@ -1,0 +1,250 @@
+{
+ "player": {
+  "name": "Ty Jerome",
+  "slug": "ty-jerome",
+  "pk": 275,
+  "team": "MEM",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "b148870c70a7",
+ "note_count": 15,
+ "built_at": "2026-10-04T17:50:48+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1907622,
+  "duration_ms": 58203
+ },
+ "current": [
+  {
+   "text": "Memphis traded Ja Morant to Portland. This opened the starting point guard job in Memphis.",
+   "kind": "fact",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:p15",
+    "4GDfg2n2l8o:p6",
+    "4GDfg2n2l8o:t2",
+    "NYTH7uQsPCM:t9"
+   ]
+  },
+  {
+   "text": "The Memphis guard group is crowded. Javon Small, Scotty Pippen Jr., Campazzo and Cam Spencer also compete for guard minutes.",
+   "kind": "fact",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:t1"
+   ]
+  },
+  {
+   "text": "Most experts expect him to start at point guard, and Josh says he will easily win the job. One note says it is not even clear he will play starter minutes.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p46",
+    "W-R1dzem32s:p39",
+    "LcZcvk8s1xQ:p17",
+    "LcZcvk8s1xQ:t6",
+    "NYTH7uQsPCM:p29",
+    "4GDfg2n2l8o:p6",
+    "bHA-JoW3reE:p15",
+    "QbdrhJd7LiA:p38"
+   ]
+  },
+  {
+   "text": "His Yahoo ADP keeps falling because drafters seem to think Scotty Pippen Jr. will start. The expert sees no reason for that.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p46"
+   ]
+  },
+  {
+   "text": "Joe projects about 27 to 28 minutes a game. Coach Iisalo runs an 11-man rotation with short stints and keeps minutes down, so only Cameron Boozer and Cedric Coward are expected to top 30 minutes.",
+   "kind": "verdict",
+   "date": "2026-08-17",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:p17",
+    "LcZcvk8s1xQ:t1",
+    "LcZcvk8s1xQ:t2"
+   ]
+  },
+  {
+   "text": "His 2025-26 line came on a usage rate of about 30 to 33 and about 70% true shooting. He played about two games a week with heavy rest, on a Memphis team that tanked late in the season.",
+   "kind": "fact",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p38",
+    "LcZcvk8s1xQ:p16",
+    "LcZcvk8s1xQ:p19",
+    "7BllEsdNLoM:p36",
+    "LcZcvk8s1xQ:t3"
+   ]
+  },
+  {
+   "text": "Experts do not expect last season's usage or per game line to repeat. His numbers should be scaled back.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p38",
+    "W-R1dzem32s:p39",
+    "7BllEsdNLoM:p36",
+    "LcZcvk8s1xQ:p19",
+    "NYTH7uQsPCM:p29",
+    "bHA-JoW3reE:p15"
+   ]
+  },
+  {
+   "text": "Experts disagree on his efficiency. Joe thinks it could rise as his usage drops. Others say it is unproven over 30 minutes and that his 70% potential assist conversion (52% in Cleveland) is unlikely to last.",
+   "kind": "verdict",
+   "date": "2026-08-17",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:p19",
+    "bHA-JoW3reE:p15",
+    "NYTH7uQsPCM:p29"
+   ]
+  },
+  {
+   "text": "ESPN's rank of 72 is too high and removes all of his upside.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p44",
+    "QbdrhJd7LiA:p38"
+   ]
+  },
+  {
+   "text": "He is a tier 7 point guard in both formats. Josh calls him a solid enough fantasy piece.",
+   "kind": "verdict",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p36",
+    "LcZcvk8s1xQ:p20"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is an efficient scorer with an underrated handle and elite feel for angles, despite below-average athleticism.",
+   "kind": "verdict",
+   "date": "2026-08-17",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:p18"
+   ]
+  },
+  {
+   "text": "He is a better category-league player than points-league player.",
+   "kind": "verdict",
+   "date": "2026-08-24",
+   "until": "",
+   "sources": [
+    "g31YlwRe0XQ:p34"
+   ]
+  },
+  {
+   "text": "Injuries ruined two of his last three seasons.",
+   "kind": "fact",
+   "date": "2026-09-15",
+   "until": "",
+   "sources": [
+    "KPdD91Oo8-U:p46",
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Scotty Pippen Jr., Javon Small, Campazzo and Cam Spencer in a crowded guard group. Some drafters think Pippen Jr. will start.",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:t1",
+    "BjXP9JODDSg:p46",
+    "QbdrhJd7LiA:p38"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "Expected starting point guard after the Morant trade, with about 27 to 28 minutes projected. His usage is expected to drop from last season.",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:p15",
+    "4GDfg2n2l8o:p6",
+    "LcZcvk8s1xQ:p17",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "Played only 15 games in 2025-26",
+   "until": "",
+   "sources": [
+    "stats",
+    "KPdD91Oo8-U:p46"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "Injuries ruined two of his last three seasons",
+   "until": "",
+   "sources": [
+    "KPdD91Oo8-U:p46",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "At ESPN rank 72",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p44",
+    "QbdrhJd7LiA:p38"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 114 and 2 USD, ESPN rank 72 and 5 USD",
+   "until": "",
+   "sources": [
+    "stats",
+    "uarqbNA2dFk:p44"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "No category flagged weak",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "At Yahoo rank 114 and 2 USD he sits inside our 144-player pool. He is a late, cheap guard who helps FT%, 3PM, AST and STL and fits any build. ESPN's rank 72 (5 USD) is too rich given that his 2025-26 usage and 15-game sample will not repeat. Early in the season, check that he starts ahead of Pippen Jr., gets the projected 27 to 28 minutes in Iisalo's 11-man rotation and stays healthy.",
+ "rejected": []
+}

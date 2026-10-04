@@ -1,0 +1,239 @@
+{
+ "slug": "bigs-who-pass-or-shoot",
+ "title": "Bigs Who Pass or Shoot Threes",
+ "type": "compilation",
+ "brief": "Which big men add assists or threes on top of rebounds and blocks, giving rare category combinations? It must explain why combining categories that do not usually go together carries extra value in H2H.",
+ "tags": [
+  "AST from a big",
+  "3PM from a big"
+ ],
+ "rule_ids": [
+  "0geFVzSqOnA:r11",
+  "lOshTzDA4SA:r7",
+  "H9q2FT3LhNw:r4",
+  "0geFVzSqOnA:r7"
+ ],
+ "proposed": true,
+ "prompt_sha": "12db90749aa2",
+ "built_at": "2026-10-04T20:19:49+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1581248,
+  "duration_ms": 54668
+ },
+ "player_slugs": [
+  "alperen-sengun",
+  "domantas-sabonis",
+  "draymond-green",
+  "giannis-antetokounmpo",
+  "jabari-smith",
+  "jalen-johnson",
+  "jalen-williams",
+  "jayson-tatum",
+  "julius-randle",
+  "lebron-james",
+  "nikola-jokic",
+  "onyeka-okongwu",
+  "paolo-banchero",
+  "scottie-barnes"
+ ],
+ "summary": "Bigs who add assists or threes to rebounds and blocks give you categories that rarely come from the same player, so one roster spot helps you win more of the nine weekly matchups. In our auction, the best price to value is Onyeka Okongwu near his average cost, plus Sengun, Sabonis and Barnes at the prices the notes set. Jokic and Giannis are elite but cost a lot. Plan for turnovers, because passing bigs fit punt TO builds, and plan for FG% if you take bigs who shoot threes.",
+ "sections": [
+  {
+   "heading": "Why rare combinations win in H2H",
+   "paragraphs": [
+    {
+     "text": "The experts say players who combine categories that do not usually go together carry extra value. Rebounds and assists is their example. Every week we play nine separate categories against one opponent. A typical big helps in rebounds, blocks and FG% but adds little in assists or threes. A big who also passes or shoots threes covers categories you would otherwise need a guard for. That frees other roster spots to chase the rest.",
+     "sources": [
+      "0geFVzSqOnA:r11"
+     ]
+    },
+    {
+     "text": "One expert calls a big man with blocks, threes, rebounds and a good FG% a fantasy cheat code. The profile is rare, so few managers can get it. With only 144 players drafted, our deep player pool does not make these players easier to replace.",
+     "sources": [
+      "lOshTzDA4SA:r7"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "The cost: threes pull against FG%",
+   "paragraphs": [
+    {
+     "text": "Threes and FG% pull against each other, so adding threes to a big man build is hard. A center who takes more threes plays farther from the rim. His offensive rebounds and rim finishing tend to drop, and his assists and three-point attempts go up. So a stretch big can quietly lower your FG% and rebounds while he adds threes.",
+     "sources": [
+      "0geFVzSqOnA:r7",
+      "H9q2FT3LhNw:r4"
+     ]
+    },
+    {
+     "text": "The experts weigh this differently. One side calls the big with blocks, threes, rebounds and good FG% a cheat code worth chasing. The other side stresses that threes and FG% work against each other and that moving away from the rim costs rebounds and finishing. In practice, pay up only when a big keeps his FG% while he shoots threes. If his FG% drops, treat him as a punt FG% piece.",
+     "sources": [
+      "lOshTzDA4SA:r7",
+      "0geFVzSqOnA:r7",
+      "H9q2FT3LhNw:r4"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Passing bigs and the turnover bill",
+   "paragraphs": [
+    {
+     "text": "Jokic gives about 10 assists a game as a center and fits any build. Expect him to go for 75 to 90 USD here. Any price near 55 to 60 USD is a steal. Punt TO teams lose the least from his 3.4 turnovers. Early on, check his knee, his minutes near 35, and whether his assists stay near 10.",
+     "sources": [
+      "player:nikola-jokic"
+     ]
+    },
+    {
+     "text": "Giannis gives about 6 assists as a ball handler in Miami, along with strong FG%, points and rebounds. He anchors punt FT% builds that also give up TO, and he will cost about 60 USD or more. The main risk is games played. Check that he plays 32 or more minutes and how his knee holds up.",
+     "sources": [
+      "player:giannis-antetokounmpo"
+     ]
+    },
+    {
+     "text": "The mid-tier passing bigs are where the value sits. Sengun gives about 6 assists from the center spot with rebounds and good FG%. Do not go past about 30 USD, and note his weak 10-game playoff schedule. Sabonis projects 6.4 assists with FG% and rebounds. His fair price is in the middle of the 22.6 to 39.3 USD range, not first-round money. Barnes adds about 5.5 assists plus steals and blocks from an F,C slot at a fair 40 to 46 USD. All three fit punt TO builds best.",
+     "sources": [
+      "player:alperen-sengun",
+      "player:domantas-sabonis",
+      "player:scottie-barnes"
+     ]
+    },
+    {
+     "text": "Draymond Green gives about 5.5 assists as an F,C, but he costs you in PTS, FG% and TO. Take him only as a 1 USD final pick or off waivers, in a build that needs assists from the frontcourt.",
+     "sources": [
+      "player:draymond-green"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Bigs who shoot threes",
+   "paragraphs": [
+    {
+     "text": "Okongwu is the closest match to the cheat-code profile in our data. He is a stretch center who makes threes on real volume, adds steals that are rare for a center, and helps in every build. Experts say nine-cat rankings overrate him, so pay close to his 5 to 8 USD average cost, not the 22 USD Yahoo value. Check early that his FG% stays near 48% and his blocks near 1.1. Those are the numbers the threes-versus-FG% trade-off puts at risk.",
+     "sources": [
+      "player:onyeka-okongwu",
+      "lOshTzDA4SA:r7",
+      "0geFVzSqOnA:r7"
+     ]
+    },
+    {
+     "text": "Jabari Smith Jr. projects about 2.1 threes a game from an F,C slot, with rebounds and few turnovers. He fits punt FG% builds, which matches the expert warning that threes hurt a big's FG%. Buy him at 1 to 3 USD late in the auction and do not reach for him inside the top 100. His 10-game playoff schedule is a minus.",
+     "sources": [
+      "player:jabari-smith",
+      "0geFVzSqOnA:r7"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Auction plan for our league",
+   "paragraphs": [
+    {
+     "text": "Decide your build before you bid. Passing bigs give up turnovers, so they suit punt TO teams. Giannis also suits punt FT%. Stretch bigs who lose FG% suit punt FG%. If you miss on Jokic or Giannis, Sengun at up to 30 USD or Sabonis in the middle of his range gives you center assists for much less. Then add Okongwu near average cost to cover threes and steals from a second big.",
+     "sources": [
+      "player:alperen-sengun",
+      "player:domantas-sabonis",
+      "player:onyeka-okongwu",
+      "player:giannis-antetokounmpo",
+      "0geFVzSqOnA:r11"
+     ]
+    },
+    {
+     "text": "Some forwards also give the rebounds-plus-assists combination, but none of them has C eligibility. Jalen Johnson gives elite rebounds and about 8 assists, and a price nearer last season's 34 USD is safer than the market. Tatum, Banchero and Randle add forward assists with rebounds, and their turnovers point them to punt TO builds too. They help the same categories but do not fill your C slot.",
+     "sources": [
+      "player:jalen-johnson",
+      "player:jayson-tatum",
+      "player:paolo-banchero",
+      "player:julius-randle",
+      "0geFVzSqOnA:r11"
+     ]
+    },
+    {
+     "text": "In the first weeks, check that the extra category holds. Watch Sengun's assists with VanVleet back, Sabonis's assists returning to about 6, Barnes's shooting next to Kawhi, and Okongwu's FG% and blocks. If a big loses the rare category, he is just a regular big, and you should price him that way in trades before the 2027-03-04 deadline.",
+     "sources": [
+      "player:alperen-sengun",
+      "player:domantas-sabonis",
+      "player:scottie-barnes",
+      "player:onyeka-okongwu"
+     ]
+    }
+   ]
+  }
+ ],
+ "players": [
+  {
+   "slug": "nikola-jokic",
+   "tier": "Elite anchors",
+   "line": "About 10 assists from the center spot make him the purest rebounds-plus-assists combination, and he fits any build."
+  },
+  {
+   "slug": "giannis-antetokounmpo",
+   "tier": "Elite anchors",
+   "line": "He handles the ball in Miami for about 6 assists on top of strong FG% and rebounds, which anchors a punt FT% build."
+  },
+  {
+   "slug": "alperen-sengun",
+   "tier": "Value at price",
+   "line": "He gives center assists with rebounds and good FG%, but cap your bid near 30 USD because of his weak playoff schedule."
+  },
+  {
+   "slug": "domantas-sabonis",
+   "tier": "Value at price",
+   "line": "His dribble-handoff assists plus FG% and rebounds from the C spot fit punt TO, at a mid-range price, not first-round money."
+  },
+  {
+   "slug": "scottie-barnes",
+   "tier": "Value at price",
+   "line": "As an F,C he adds assists, steals and blocks together, a rare spread for one slot."
+  },
+  {
+   "slug": "onyeka-okongwu",
+   "tier": "Value at price",
+   "line": "He is a stretch center with threes and steals who is closest to the cheat-code profile if his FG% and blocks hold."
+  },
+  {
+   "slug": "jabari-smith",
+   "tier": "Late flyers",
+   "line": "He gives cheap threes and rebounds from an F,C slot with few turnovers, and suits punt FG% builds."
+  },
+  {
+   "slug": "draymond-green",
+   "tier": "Late flyers",
+   "line": "He gives frontcourt assists only, with costs in PTS, FG% and TO, so take him as a 1 USD final pick or off waivers."
+  },
+  {
+   "slug": "jalen-johnson",
+   "tier": "Forward-only combos",
+   "line": "He gives elite rebounds and about 8 assists from a forward, the same rare pairing without C eligibility."
+  },
+  {
+   "slug": "jayson-tatum",
+   "tier": "Forward-only combos",
+   "line": "He adds strong rebounds and assists for a forward on top of elite threes, but turnovers point him to punt TO."
+  },
+  {
+   "slug": "paolo-banchero",
+   "tier": "Forward-only combos",
+   "line": "He gives forward assists with points and rebounds and fits punt TO and punt FT builds."
+  },
+  {
+   "slug": "julius-randle",
+   "tier": "Forward-only combos",
+   "line": "He is Brooklyn's main creator, with forward assists and rebounds, but his turnovers push him toward punt TO."
+  }
+ ],
+ "excluded": [
+  {
+   "slug": "lebron-james",
+   "reason": "He is reported to play point guard, and his data shows a guard-style assist role, not a big man's rebounds and blocks."
+  },
+  {
+   "slug": "jalen-williams",
+   "reason": "His profile is points, assists and steals as a forward, with no rebound or block value in the data, so he is not a big man combination."
+  }
+ ],
+ "rejected": []
+}

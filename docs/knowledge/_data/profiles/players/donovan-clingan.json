@@ -1,0 +1,261 @@
+{
+ "player": {
+  "name": "Donovan Clingan",
+  "slug": "donovan-clingan",
+  "pk": 108,
+  "team": "POR",
+  "position": "C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "ec439c719579",
+ "note_count": 18,
+ "built_at": "2026-10-04T17:30:38+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1747502,
+  "duration_ms": 49867
+ },
+ "current": [
+  {
+   "text": "He is projected to start at center and play about 28 minutes per game in a role similar to last season. No minutes cut is expected, but a Blazers beat writer does not see him going over 28 minutes. One projection puts his usage at 17%.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:p13",
+    "YJk7ZFKFqnI:t1",
+    "OdDkXFhoKsc:p26",
+    "OdDkXFhoKsc:t3",
+    "t4n9MAP2_14:p21"
+   ]
+  },
+  {
+   "text": "Portland added several centers this offseason. He played poorly in last season's playoffs, and Robert Williams outplayed him.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t0",
+    "YJk7ZFKFqnI:p15",
+    "t4n9MAP2_14:p21"
+   ]
+  },
+  {
+   "text": "Portland's roster is crowded with high-usage guards, and minutes and usage are expected to swing from game to game. Experts do not expect a big leap from him.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:p16",
+    "YJk7ZFKFqnI:t5",
+    "sTtFUy7IoJI:t9",
+    "QbdrhJd7LiA:p12"
+   ]
+  },
+  {
+   "text": "Experts agree his Yahoo rank and ADP around 38 to 41 are far too high. They would not draft him in round three, and some would not take him anywhere from round two to round five. They see no upside at that price.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p23",
+    "QbdrhJd7LiA:p12",
+    "uarqbNA2dFk:p10",
+    "t4n9MAP2_14:p21",
+    "gJUBAJaHzlU:p7",
+    "E-KmhvyZ2CU:p14",
+    "gerS7ibpaJo:p5",
+    "J1Eg3uaAICU:p40",
+    "OdDkXFhoKsc:p26"
+   ]
+  },
+  {
+   "text": "Experts project him at about rank 70 to 95. One expert puts his auction value at about 5 USD.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p7",
+    "egRrai3Ax38:p39"
+   ]
+  },
+  {
+   "text": "At an ESPN ADP of 100 to 109, experts call him good value, even those who usually think he is overrated.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p39",
+    "ahNxsoU8Hx4:p67"
+   ]
+  },
+  {
+   "text": "He rises to 14th in punt FT% rankings. Experts say that is still not a reason to reach for him in round three.",
+   "kind": "verdict",
+   "date": "2026-09-23",
+   "until": "",
+   "sources": [
+    "C4vlgpJ62NI:p29"
+   ]
+  },
+  {
+   "text": "The Blazers have three back-to-backs in the fantasy playoff weeks.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t6"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is one of the best rebounders in the league. Rebounds are his best category by a wide margin.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:p14",
+    "t4n9MAP2_14:p20",
+    "gJUBAJaHzlU:p6",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is a very good shot blocker. Blocks are a clear strength.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p20",
+    "gJUBAJaHzlU:p6",
+    "stats"
+   ]
+  },
+  {
+   "text": "Experts call him a two-category player, rebounds and blocks. His scoring and assists are low, and his steals are very poor.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p20",
+    "gJUBAJaHzlU:p6"
+   ]
+  },
+  {
+   "text": "He is a poor free throw shooter.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p20",
+    "gJUBAJaHzlU:p6",
+    "stats"
+   ]
+  },
+  {
+   "text": "Experts call him a bad finisher with bad hands. His projected FG% is still about average for a center.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p20",
+    "gJUBAJaHzlU:p6",
+    "stats"
+   ]
+  },
+  {
+   "text": "He takes threes and cannot post up.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p20",
+    "YJk7ZFKFqnI:p14",
+    "YJk7ZFKFqnI:p15"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "REB specialist",
+   "channel": "durable",
+   "detail": "one of the best rebounders in the league",
+   "sources": [
+    "YJk7ZFKFqnI:p14",
+    "t4n9MAP2_14:p20",
+    "stats"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "BLK specialist",
+   "channel": "durable",
+   "detail": "very good shot blocker",
+   "sources": [
+    "t4n9MAP2_14:p20",
+    "gJUBAJaHzlU:p6",
+    "stats"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "Yahoo rank and ADP around 38 to 41, round three is too early",
+   "sources": [
+    "BjXP9JODDSg:p23",
+    "QbdrhJd7LiA:p12",
+    "uarqbNA2dFk:p10",
+    "t4n9MAP2_14:p21",
+    "gJUBAJaHzlU:p7",
+    "E-KmhvyZ2CU:p14",
+    "gerS7ibpaJo:p5",
+    "J1Eg3uaAICU:p40",
+    "OdDkXFhoKsc:p26"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "only at ESPN ADP 100 to 109",
+   "sources": [
+    "egRrai3Ax38:p39",
+    "ahNxsoU8Hx4:p67"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo ADP around 41 vs ESPN ADP 100 to 109",
+   "sources": [
+    "uarqbNA2dFk:p10",
+    "egRrai3Ax38:p39",
+    "ahNxsoU8Hx4:p67",
+    "stats"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "three back-to-backs in fantasy playoff weeks",
+   "sources": [
+    "gf_6GveiAls:t6"
+   ],
+   "until": "",
+   "new_meaning": ""
+  }
+ ],
+ "note": "He is a rebounds and blocks specialist (REB z +2.8, BLK z +2.6 vs pool) with a weak FT% (66.5%) and little else, so he fits builds that chase the big-man categories and can absorb a FT% drag. Experts see him around rank 70 to 95 and about 5 USD. That puts him far below Yahoo's 25 USD value and 12.0 USD average cost, and close to the 7 USD he went for in our league last season, so do not chase him past single digits. Early in the season, check that he keeps about 28 minutes despite Portland's added centers, and that his three-point volume holds.",
+ "rejected": []
+}

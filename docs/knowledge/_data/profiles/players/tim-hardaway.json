@@ -1,0 +1,174 @@
+{
+ "player": {
+  "name": "Tim Hardaway Jr.",
+  "slug": "tim-hardaway",
+  "pk": 218,
+  "team": "MIA",
+  "position": "G,F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "590414fdd84a",
+ "note_count": 2,
+ "built_at": "2026-10-04T17:49:15+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.11642219999999999,
+  "duration_ms": 29288
+ },
+ "current": [
+  {
+   "text": "He signed with Miami as the replacement for Norman Powell.",
+   "kind": "fact",
+   "date": "2026-07-01",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p49"
+   ]
+  },
+  {
+   "text": "He could be Miami's fifth starter.",
+   "kind": "verdict",
+   "date": "2026-07-01",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p49"
+   ]
+  },
+  {
+   "text": "Miami has many guards and wings for the same minutes. Klay Thompson signed there, and one expert expects Ryan Rollins to start next to Tyler Herro, ahead of Kevin Porter Jr., Brandon Boston and Gary Trent Jr.",
+   "kind": "fact",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t5",
+    "egRrai3Ax38:t6"
+   ]
+  },
+  {
+   "text": "Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs, but only 10 games in the playoff weeks.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7"
+   ]
+  },
+  {
+   "text": "Miami lacks ball handlers, so the team has few playmakers to set up a shooter who relies on passes.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:t5",
+    "nnWX_ObljOE:t4",
+    "LUTYUdXBG1M:t1"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a volume three-point shooter who shoots right away off passes.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "keNupMSHp1Y:p7"
+   ]
+  },
+  {
+   "text": "His defense is bad, but he gives good effort.",
+   "kind": "verdict",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "keNupMSHp1Y:p7"
+   ]
+  },
+  {
+   "text": "His fantasy value comes from threes and few turnovers. He gives little in steals, rebounds, blocks and assists, and his FG% is below average.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He has missed very few games in recent seasons.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "Signed with Miami as the Norman Powell replacement",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p49"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Rollins, Herro, Porter Jr., Trent Jr., Boston and Klay Thompson in the Miami backcourt and wing group",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p49",
+    "egRrai3Ax38:t6",
+    "gJUBAJaHzlU:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "Miami has 13, the fewest, and none in the fantasy playoffs",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "plays every game",
+   "channel": "durable",
+   "detail": "77 to 80 games in each of the last three seasons",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "needs playmaker",
+   "channel": "durable",
+   "detail": "Catch-and-shoot shooter who fires off passes",
+   "until": "",
+   "sources": [
+    "keNupMSHp1Y:p7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "ESPN rank 156, Yahoo rank 254; both value him at 0 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Both Yahoo and ESPN value him at 0 USD (ranks 254 and 156), and he was not drafted in our league last season. He is not a draft target in a 144-player auction. He is a threes and low-turnover streamer who can help a punt FG% team that needs 3PM, and Miami's light back-to-back schedule makes him easy to stream. Early in the season, check whether he wins a starting job, since Rollins, Herro, Trent Jr. and Klay Thompson are competing for the same minutes.",
+ "rejected": []
+}

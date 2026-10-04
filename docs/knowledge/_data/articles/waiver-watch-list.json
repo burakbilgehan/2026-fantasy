@@ -1,0 +1,610 @@
+{
+ "slug": "waiver-watch-list",
+ "title": "Waiver Watch List",
+ "type": "compilation",
+ "brief": "Which undrafted players should we watch in the first weeks for role, minutes or starting changes that make them worth a FAB bid? Each line must state the trigger that would make us add him.",
+ "tags": [
+  "waiver watch"
+ ],
+ "rule_ids": [
+  "skKXe2CRl8Q:r12",
+  "skKXe2CRl8Q:r13",
+  "QbdrhJd7LiA:r14",
+  "CRLSsoGhb2w:r3",
+  "hm5-fiCa5S4:r3"
+ ],
+ "proposed": true,
+ "prompt_sha": "12db90749aa2",
+ "built_at": "2026-10-04T20:21:24+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.4200128,
+  "duration_ms": 98486
+ },
+ "player_slugs": [
+  "aaron-nesmith",
+  "aaron-wiggins",
+  "ajay-mitchell",
+  "al-horford",
+  "allen-graves",
+  "andre-drummond",
+  "anthony-black",
+  "baylor-scheierman",
+  "ben-simmons",
+  "bradley-beal",
+  "bruce-thornton",
+  "cam-spencer",
+  "collin-gillespie",
+  "craig-porter",
+  "daniss-jenkins",
+  "deandre-ayton",
+  "deanthony-melton",
+  "dereck-lively",
+  "derrick-jones",
+  "devin-vassell",
+  "duncan-robinson",
+  "dylan-cardwell",
+  "gg-jackson",
+  "hannes-steinbach",
+  "hugo-gonzalez",
+  "isaiah-evans",
+  "isaiah-joe",
+  "jake-laravia",
+  "jakobe-walter",
+  "jalen-slawson",
+  "jalen-smith",
+  "jared-mccain",
+  "jay-huff",
+  "jaylon-tyson",
+  "jimmy-butler",
+  "joan-beringer",
+  "jock-landale",
+  "jordan-goodwin",
+  "josh-minott",
+  "jrue-holiday",
+  "julian-champagnie",
+  "keaton-wagler",
+  "kelly-oubre",
+  "keon-ellis",
+  "kingston-flemings",
+  "kris-dunn",
+  "kyle-filipowski",
+  "kyle-kuzma",
+  "leonard-miller",
+  "luke-kennard",
+  "marcus-sasser",
+  "marcus-smart",
+  "marvin-bagley",
+  "maxime-raynaud",
+  "mitchell-robinson",
+  "mohamed-diawara",
+  "naji-marshall",
+  "obi-toppin",
+  "oso-ighodaro",
+  "precious-achiuwa",
+  "robert-williams",
+  "ronald-holland",
+  "royce-oneale",
+  "ryan-conwell",
+  "sergio-de-larrea",
+  "steven-adams",
+  "terrence-shannon",
+  "thomas-bryant",
+  "tj-mcconnell",
+  "tre-jones",
+  "trevon-brazile",
+  "ugonna-onyenso",
+  "will-riley",
+  "ziaire-williams"
+ ],
+ "summary": "The first two weeks decide which of these undrafted players matter. Bid quickly when the role changes: a new starter, 26 to 30 minutes, or a long injury to the player ahead of him. Do not bid on one bad or good shooting night. Value short injury fill-ins near their healthy role, and check the playoff schedule (weeks 19 to 21, ending 2027-03-28) before you commit FAB to anyone you plan to keep.",
+ "sections": [
+  {
+   "heading": "What to watch in weeks one and two",
+   "paragraphs": [
+    {
+     "text": "Coaches do odd things in the first two weeks. Check box scores daily for unexpected minutes, new starters, depth chart changes and players doing more than projected. Our waivers process daily, so a fast claim beats a slow one.",
+     "sources": [
+      "skKXe2CRl8Q:r12",
+      "skKXe2CRl8Q:r13"
+     ]
+    },
+    {
+     "text": "React to role, not to results. A jump to a 28-minute starting role is a reason to bid. A cold shooting night with the same minutes and usage is not a reason to drop or ignore a player.",
+     "sources": [
+      "skKXe2CRl8Q:r13"
+     ]
+    },
+    {
+     "text": "The wire matters as much as the draft. Keep a hot player only while he stays hot, and use part of the 6 weekly adds to stream for extra games played in our head-to-head matchups. Do not spend all 6 adds before midweek, or you cannot react to a late role change.",
+     "sources": [
+      "QbdrhJd7LiA:r14"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Starter injuries: bid fast, but value the fill-in carefully",
+   "paragraphs": [
+    {
+     "text": "Most names on this list are handcuffs. Each one becomes an add only when a specific starter misses time. Examples: Drummond if Towns is out, Ayton if Anthony Davis is hurt, Landale if Okongwu is out, Bagley if Jokic sits, and Huff if Zubac misses time.",
+     "sources": [
+      "player:andre-drummond",
+      "player:deandre-ayton",
+      "player:jock-landale",
+      "player:marvin-bagley",
+      "player:jay-huff"
+     ]
+    },
+    {
+     "text": "Do not boost a fill-in starter much for a short injury. The starter may be back in a few games, or he may not miss any. Bench players who score well in big minutes during injuries should be valued closer to their healthy role, around 150th, unless something else changes. In practice, treat a short-term fill-in as a cheap stream for that week, not a long-term roster spot.",
+     "sources": [
+      "CRLSsoGhb2w:r3",
+      "hm5-fiCa5S4:r3"
+     ]
+    },
+    {
+     "text": "The experts disagree on how hard to chase this. One side says to react quickly to new starters and bigger minutes, and to grab hot players who stay hot. The other side warns that a short injury may last only a few games, and that injury fill-ins should be valued near their healthy-team role. Our approach: bid at once when the injury looks long or the role change is not injury-driven. Keep the bid small when the starter's return looks close.",
+     "sources": [
+      "skKXe2CRl8Q:r13",
+      "QbdrhJd7LiA:r14",
+      "CRLSsoGhb2w:r3",
+      "hm5-fiCa5S4:r3"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Minutes thresholds that trigger a bid",
+   "paragraphs": [
+    {
+     "text": "Several profiles set a clear minutes line. Melton and Dunn need a starting spot and about 28 minutes. LaRavia needs to start and play closer to 27 minutes than 20. Keon Ellis needs about 27 minutes off the bench.",
+     "sources": [
+      "player:deanthony-melton",
+      "player:kris-dunn",
+      "player:jake-laravia",
+      "player:keon-ellis"
+     ]
+    },
+    {
+     "text": "Lower lines apply to cheaper roles. Daniss Jenkins and Ajay Mitchell become adds at about 26 minutes, Scheierman at 23 or more as a starter, and Minott and Slawson at about 20. Check the minutes over several games before you bid, not just one.",
+     "sources": [
+      "player:daniss-jenkins",
+      "player:ajay-mitchell",
+      "player:baylor-scheierman",
+      "player:josh-minott",
+      "player:jalen-slawson",
+      "skKXe2CRl8Q:r13"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Check the playoff schedule before you commit",
+   "paragraphs": [
+    {
+     "text": "Some teams help in weeks 19 to 21. Dallas plays 4-4-4, which supports Lively, Marshall and Sasser late in the season. The Clippers play 4-3-4, a small plus for Dunn, Beal and Derrick Jones Jr.",
+     "sources": [
+      "player:dereck-lively",
+      "player:naji-marshall",
+      "player:marcus-sasser",
+      "player:kris-dunn",
+      "player:bradley-beal",
+      "player:derrick-jones"
+     ]
+    },
+    {
+     "text": "Others hurt. Boston has three back-to-backs in our playoff weeks, a problem for Mitchell Robinson if he sits them. Portland has three playoff back-to-backs, which hurts Robert Williams III. Minnesota has a two-game week starting March 15 (week 20), which hurts Beringer, Shannon and Evans. Cleveland plays only 2 games in our finals week, so do not plan on Thomas Bryant. Indiana plays 3-4-3, which makes McConnell a weak playoff stream. Houston's 10-game playoff schedule hurts Smart.",
+     "sources": [
+      "player:mitchell-robinson",
+      "player:robert-williams",
+      "player:joan-beringer",
+      "player:terrence-shannon",
+      "player:isaiah-evans",
+      "player:thomas-bryant",
+      "player:tj-mcconnell",
+      "player:marcus-smart"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Names at the edge of the draft",
+   "paragraphs": [
+    {
+     "text": "A few watch-list players sit near our 144-player cutoff. Gillespie, Champagnie, Holiday, Black and Vassell are worth 1 USD at most as a last bench pick. Leaving them on waivers is fine. If they go unbought, watch their triggers from day one, because they are the first ones to become useful.",
+     "sources": [
+      "player:collin-gillespie",
+      "player:julian-champagnie",
+      "player:jrue-holiday",
+      "player:anthony-black",
+      "player:devin-vassell",
+      "hm5-fiCa5S4:r3"
+     ]
+    },
+    {
+     "text": "Two injured players are stash candidates rather than early adds. Butler is worth a 1 USD IL stash only if you have a spare IL slot. Otherwise, watch his rehab news in December and January. Lively is out until around Thanksgiving with a broken foot. Track his ramp-up behind Gafford and Johnson.",
+     "sources": [
+      "player:jimmy-butler",
+      "player:dereck-lively"
+     ]
+    }
+   ]
+  }
+ ],
+ "players": [
+  {
+   "slug": "collin-gillespie",
+   "tier": "Injury handcuffs",
+   "line": "Add him fast if Green, Booker or Brooks gets hurt, since that would put him back near 30 minutes for threes and steals."
+  },
+  {
+   "slug": "anthony-black",
+   "tier": "Injury handcuffs",
+   "line": "He becomes startable only if Suggs gets hurt or is traded, so also check his ankle and his sixth-man minutes under Sweeney."
+  },
+  {
+   "slug": "jrue-holiday",
+   "tier": "Injury handcuffs",
+   "line": "Add him if he starts on nights Morant or Lillard miss games, since his projected usage is lower than last season."
+  },
+  {
+   "slug": "kyle-filipowski",
+   "tier": "Injury handcuffs",
+   "line": "Add him only if an injury to Nurkic or Jackson Jr. gives him more minutes, since rebounds are his only plus."
+  },
+  {
+   "slug": "tre-jones",
+   "tier": "Injury handcuffs",
+   "line": "Add him if his minutes hold at 23 to 25 and Powell or Giddey miss time or Powell is traded, for assists, FG% and few turnovers."
+  },
+  {
+   "slug": "precious-achiuwa",
+   "tier": "Injury handcuffs",
+   "line": "Pick him up only if Sabonis, Murray or Hunter misses real time, since his late-season run came as an injury fill-in."
+  },
+  {
+   "slug": "maxime-raynaud",
+   "tier": "Injury handcuffs",
+   "line": "Add him on a Sabonis trade or injury, because at 19 to 20 minutes he does not hold value."
+  },
+  {
+   "slug": "kelly-oubre",
+   "tier": "Injury handcuffs",
+   "line": "Add him if an injury to Nesmith or another Indiana wing pushes his minutes past 30, for steals and low turnovers."
+  },
+  {
+   "slug": "deandre-ayton",
+   "tier": "Injury handcuffs",
+   "line": "Pick him up quickly if Anthony Davis gets hurt and he moves to a 30-minute role, for FG% and low turnovers."
+  },
+  {
+   "slug": "joan-beringer",
+   "tier": "Injury handcuffs",
+   "line": "Add him if Gobert gets hurt or he starts playing power forward next to Gobert, but Minnesota's two-game week 20 hurts."
+  },
+  {
+   "slug": "jay-huff",
+   "tier": "Injury handcuffs",
+   "line": "Add him if Zubac misses time, since he would then start and give blocks."
+  },
+  {
+   "slug": "jaylon-tyson",
+   "tier": "Injury handcuffs",
+   "line": "Add him if an injury to Harden, Mitchell or Watson opens a starting role and his threes stay near 40%."
+  },
+  {
+   "slug": "andre-drummond",
+   "tier": "Injury handcuffs",
+   "line": "Add him if Towns misses time and the backup center role grows toward 29 minutes ahead of Wiseman and Eubanks."
+  },
+  {
+   "slug": "kingston-flemings",
+   "tier": "Injury handcuffs",
+   "line": "A McCollum injury is his only path to an add, and Dort or Wiggins may take those minutes first."
+  },
+  {
+   "slug": "obi-toppin",
+   "tier": "Injury handcuffs",
+   "line": "Pick him up if Siakam misses time or he wins the small-ball backup center minutes."
+  },
+  {
+   "slug": "marvin-bagley",
+   "tier": "Injury handcuffs",
+   "line": "Add him when Jokic misses time, for points, rebounds, FG% and few turnovers, and check for power forward minutes behind Gordon."
+  },
+  {
+   "slug": "jordan-goodwin",
+   "tier": "Injury handcuffs",
+   "line": "Add him for steals if an injury moves him up the Phoenix guard rotation."
+  },
+  {
+   "slug": "jock-landale",
+   "tier": "Injury handcuffs",
+   "line": "An Okongwu injury would make him a 30-minute starter worth a FAB bid. Off the bench he does little."
+  },
+  {
+   "slug": "thomas-bryant",
+   "tier": "Injury handcuffs",
+   "line": "Add him only if Allen or Mobley misses time, and drop him before Cleveland's 2-game finals week."
+  },
+  {
+   "slug": "leonard-miller",
+   "tier": "Injury handcuffs",
+   "line": "Add him quickly if Buzelis or Caleb Wilson goes down."
+  },
+  {
+   "slug": "ugonna-onyenso",
+   "tier": "Injury handcuffs",
+   "line": "Add him for blocks if Duren or Reed miss time and he gets real NBA minutes or a converted contract."
+  },
+  {
+   "slug": "julian-champagnie",
+   "tier": "Role battles",
+   "line": "Add him if he wins starting power forward minutes over Harris without losing many to Harper, or if Spurs forwards get hurt."
+  },
+  {
+   "slug": "mitchell-robinson",
+   "tier": "Role battles",
+   "line": "Add him for punt FT% builds only if he starts over Queta, plays near 25 minutes and does not sit every back-to-back."
+  },
+  {
+   "slug": "jake-laravia",
+   "tier": "Role battles",
+   "line": "Add him only if he starts and plays closer to 27 minutes than 20, for steals."
+  },
+  {
+   "slug": "oso-ighodaro",
+   "tier": "Role battles",
+   "line": "With Mark Williams out long term, add him cheaply if Maluach does not start and his minutes get close to 27.6."
+  },
+  {
+   "slug": "devin-vassell",
+   "tier": "Role battles",
+   "line": "He is worth an add only if three-guard lineups and the deep wing group do not push his minutes well below last season's 30.5."
+  },
+  {
+   "slug": "cam-spencer",
+   "tier": "Role battles",
+   "line": "Add him if Iisalo gives him steady backup guard minutes behind Ty Jerome and his three-point shooting recovers."
+  },
+  {
+   "slug": "ajay-mitchell",
+   "tier": "Role battles",
+   "line": "Add him if he starts or plays 26 or more minutes next to SGA and Jalen Williams, and treat an SGA injury as a must-add."
+  },
+  {
+   "slug": "aaron-nesmith",
+   "tier": "Role battles",
+   "line": "Add him for punt AST builds if his FG% climbs back toward 48 to 50% and Oubre does not take his starting spot."
+  },
+  {
+   "slug": "robert-williams",
+   "tier": "Role battles",
+   "line": "Add him for blocks and FG% if his minutes climb toward 23 or Clingan misses time, but Portland's playoff back-to-backs hurt."
+  },
+  {
+   "slug": "daniss-jenkins",
+   "tier": "Role battles",
+   "line": "Add him for assists if he reaches about 26 minutes or Cunningham misses time."
+  },
+  {
+   "slug": "deanthony-melton",
+   "tier": "Role battles",
+   "line": "Add him right away if he takes the starting guard spot at about 28 minutes, for steals in punt FG% builds."
+  },
+  {
+   "slug": "kris-dunn",
+   "tier": "Role battles",
+   "line": "Add him for steals if he moves into the starting five at about 28 minutes, helped by a 4-3-4 playoff schedule."
+  },
+  {
+   "slug": "isaiah-joe",
+   "tier": "Role battles",
+   "line": "Add him as a threes stream, and more firmly if he takes Duncan Robinson's starting spot."
+  },
+  {
+   "slug": "naji-marshall",
+   "tier": "Role battles",
+   "line": "Stream him if Dusty May gives him ball-handling minutes again, and the Dallas 4-4-4 playoff schedule adds late value."
+  },
+  {
+   "slug": "gg-jackson",
+   "tier": "Role battles",
+   "line": "Add him if he wins small forward minutes in Iisalo's 11-man rotation, since he shot efficiently on real volume last season."
+  },
+  {
+   "slug": "jared-mccain",
+   "tier": "Role battles",
+   "line": "Add him as a short-term threes and points pickup only if he really gets around 24.7 minutes, and accept the weak FG%."
+  },
+  {
+   "slug": "keon-ellis",
+   "tier": "Role battles",
+   "line": "Add him as a steals and low-turnover streamer if he reaches about 27 minutes off the bench."
+  },
+  {
+   "slug": "kyle-kuzma",
+   "tier": "Role battles",
+   "line": "Add him cheaply for bulk points and rebounds if Jenkins starts him at power forward and he plays more than 26 minutes."
+  },
+  {
+   "slug": "derrick-jones",
+   "tier": "Role battles",
+   "line": "He starts while the Clippers are injured, so keep him only if his minutes hold once Ingram and Beal return."
+  },
+  {
+   "slug": "dylan-cardwell",
+   "tier": "Role battles",
+   "line": "Claim him for blocks and rebounds if his minutes grow behind Raynaud or Sabonis is traded."
+  },
+  {
+   "slug": "al-horford",
+   "tier": "Role battles",
+   "line": "Even if he starts at center while Porzingis is out, sitting back-to-backs limits him, so he is a low-priority add."
+  },
+  {
+   "slug": "jalen-smith",
+   "tier": "Role battles",
+   "line": "Add him at once if Splitter makes him a starter, so watch Claxton's health and any Leonard Miller trade talk."
+  },
+  {
+   "slug": "keaton-wagler",
+   "tier": "Role battles",
+   "line": "Add him only if his minutes grow while Beal is out and his FG% holds above 45%."
+  },
+  {
+   "slug": "baylor-scheierman",
+   "tier": "Role battles",
+   "line": "Add him cheaply for threes if he keeps the starting job at 23 or more minutes."
+  },
+  {
+   "slug": "will-riley",
+   "tier": "Role battles",
+   "line": "Spend FAB only if he wins rotation minutes or the open fifth starter spot in Washington's wing group."
+  },
+  {
+   "slug": "terrence-shannon",
+   "tier": "Role battles",
+   "line": "Add him only if he wins the fifth starting spot or bench scorer role over Kuminga and Josh Green, with week 20 as a two-game drag."
+  },
+  {
+   "slug": "ziaire-williams",
+   "tier": "Role battles",
+   "line": "Add him for steals and low turnovers only if he wins a starting spot and plays more than 22.9 minutes."
+  },
+  {
+   "slug": "aaron-wiggins",
+   "tier": "Role battles",
+   "line": "Add him only if his shooting recovers and he takes minutes from Dort, or a starter injury lifts him above 20 minutes."
+  },
+  {
+   "slug": "jakobe-walter",
+   "tier": "Role battles",
+   "line": "Add him only if his larger role pushes his minutes clearly above last season's 20.4."
+  },
+  {
+   "slug": "ronald-holland",
+   "tier": "Role battles",
+   "line": "Add him cheaply for steals if his minutes rise toward 25 at power forward next to Ausar Thompson."
+  },
+  {
+   "slug": "hannes-steinbach",
+   "tier": "Role battles",
+   "line": "Pick him up as a rebounds and blocks big if Charlotte starts him over Diabaté."
+  },
+  {
+   "slug": "craig-porter",
+   "tier": "Role battles",
+   "line": "Add him for steals and blocks if he holds backup point guard minutes near 20 ahead of Malik Thomas, and accept the empty points."
+  },
+  {
+   "slug": "marcus-sasser",
+   "tier": "Role battles",
+   "line": "Watch for backup guard minutes from Dusty May, and if he gets them, the Dallas 4-4-4 schedule makes him a late streamer."
+  },
+  {
+   "slug": "duncan-robinson",
+   "tier": "Category streamers",
+   "line": "Add him in weeks you need threes, after you check that his minutes stay at 24 to 25 and his FT% recovers."
+  },
+  {
+   "slug": "royce-oneale",
+   "tier": "Category streamers",
+   "line": "Use him as a low-turnover threes stream, and add him more firmly if his power forward minutes grow."
+  },
+  {
+   "slug": "tj-mcconnell",
+   "tier": "Category streamers",
+   "line": "Stream him for FG%, assists and steals in Indiana's 4-game weeks if he keeps 17 to 19 minutes, but not in our playoffs."
+  },
+  {
+   "slug": "marcus-smart",
+   "tier": "Category streamers",
+   "line": "Stream him only if Udoka gives him top bench minutes and he produces when VanVleet sits."
+  },
+  {
+   "slug": "luke-kennard",
+   "tier": "Category streamers",
+   "line": "Add him for threes if he really gets about eight three-point attempts a game off the bench."
+  },
+  {
+   "slug": "ben-simmons",
+   "tier": "Category streamers",
+   "line": "Stream him for rebounds and assists only if the Kings give him real minutes."
+  },
+  {
+   "slug": "steven-adams",
+   "tier": "Category streamers",
+   "line": "Use him as a matchup rebound stream if Udoka plays him with Sengun, and check how many back-to-backs he sits."
+  },
+  {
+   "slug": "dereck-lively",
+   "tier": "Later-season stashes",
+   "line": "Out until around Thanksgiving, he is an add only if he wins the starting job back from Gafford and Johnson, with a 4-4-4 playoff schedule."
+  },
+  {
+   "slug": "jimmy-butler",
+   "tier": "Later-season stashes",
+   "line": "Pick him up from waivers when his January return is close, after you check his minutes limit and back-to-back plan."
+  },
+  {
+   "slug": "bradley-beal",
+   "tier": "Later-season stashes",
+   "line": "Stream him only after he returns from the hip and knee problems and his minutes get close to 30."
+  },
+  {
+   "slug": "josh-minott",
+   "tier": "Later-season stashes",
+   "line": "Add him if his minutes reach about 20, and check again near the 2027-03-04 deadline if Porter is traded."
+  },
+  {
+   "slug": "allen-graves",
+   "tier": "Deep watch only",
+   "line": "Consider him only if the groin clears and he holds a bench role with Summer League steals, rebounds and threes."
+  },
+  {
+   "slug": "hugo-gonzalez",
+   "tier": "Deep watch only",
+   "line": "Watch for a 10-man rotation spot near 21.7 minutes, mainly if Pritchard stays on the bench or White struggles."
+  },
+  {
+   "slug": "mohamed-diawara",
+   "tier": "Deep watch only",
+   "line": "Watch only for a real bench role from the Knicks' plan to trim starters' minutes early."
+  },
+  {
+   "slug": "jalen-slawson",
+   "tier": "Deep watch only",
+   "line": "Add him for steals and blocks if Carlisle gives him about 20 minutes or he gets a standard contract."
+  },
+  {
+   "slug": "sergio-de-larrea",
+   "tier": "Deep watch only",
+   "line": "Watch his minutes and assists on nights Kyrie Irving sits before spending FAB."
+  },
+  {
+   "slug": "bruce-thornton",
+   "tier": "Deep watch only",
+   "line": "Watch for real minutes behind VanVleet, Smart and Sheppard, which could bring threes and steals."
+  },
+  {
+   "slug": "ryan-conwell",
+   "tier": "Deep watch only",
+   "line": "Watch whether his Summer League turns into rotation minutes and three-point attempts on a thin Miami guard group."
+  },
+  {
+   "slug": "trevon-brazile",
+   "tier": "Deep watch only",
+   "line": "Watch for backup power forward minutes behind Gordon once his Q status clears, for blocks, steals and rebounds."
+  },
+  {
+   "slug": "isaiah-evans",
+   "tier": "Deep watch only",
+   "line": "He is a short-term threes add only if Minnesota's bench gives him about 20 minutes, and week 20 is a two-game week."
+  }
+ ],
+ "excluded": [],
+ "rejected": []
+}

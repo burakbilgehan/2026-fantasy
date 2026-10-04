@@ -1,0 +1,194 @@
+{
+ "player": {
+  "name": "Dylan Harper",
+  "slug": "dylan-harper",
+  "pk": 222,
+  "team": "SAS",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "1848aedbc39d",
+ "note_count": 14,
+ "built_at": "2026-10-04T17:31:09+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1348742,
+  "duration_ms": 37530
+ },
+ "current": [
+  {
+   "text": "Most experts expect him to come off the bench to start the season. He would have to earn a starting spot outright. Harper himself seemed confident he would start.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p37",
+    "ZAyie8lKyYc:p6"
+   ]
+  },
+  {
+   "text": "The newest team note says the Spurs' point guard depth is bad, so they may start Harper, Castle and Fox together.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:t2"
+   ]
+  },
+  {
+   "text": "The Spurs backcourt is crowded with De'Aaron Fox and Stephon Castle. The team staggers its three guards so at least two are always on the court, and more three-guard lineups are expected.",
+   "kind": "fact",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:t3",
+    "7BllEsdNLoM:t4",
+    "g31YlwRe0XQ:t0",
+    "P6TNP-g0wzY:t6",
+    "W3THnI7wWdA:t5"
+   ]
+  },
+  {
+   "text": "Experts disagree on his minutes. One preview expects him to push toward 30 minutes even off the bench. Others think he will not reach 30 because the Spurs will not bench Fox or Castle.",
+   "kind": "verdict",
+   "date": "2026-09-04",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p7",
+    "OdDkXFhoKsc:p44",
+    "gerS7ibpaJo:p14",
+    "gerS7ibpaJo:t2",
+    "P6TNP-g0wzY:p42"
+   ]
+  },
+  {
+   "text": "Experts agree he is drafted too early. His ADP around 78 to 84 is too high, he leaves zero value at that spot, and he is closer to a rank 100 player. One expert puts him in tier 8 of point guards and calls him a better player than Jeremiah Fears.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p38",
+    "_vbAP5y182A:p43",
+    "W-R1dzem32s:p37",
+    "7BllEsdNLoM:p42",
+    "gerS7ibpaJo:p14",
+    "OdDkXFhoKsc:p44",
+    "P6TNP-g0wzY:p42"
+   ]
+  },
+  {
+   "text": "Experts doubt his strong late-season shooting from last season will last. If it does hold, one host thinks he would be a top five player in the league.",
+   "kind": "verdict",
+   "date": "2026-09-04",
+   "until": "",
+   "sources": [
+    "gerS7ibpaJo:p14",
+    "ZAyie8lKyYc:p9"
+   ]
+  },
+  {
+   "text": "Drafters take him mainly for assists.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p38"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "The Spurs see him as a future superstar and part of their long-term backcourt with Stephon Castle.",
+   "kind": "fact",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p8",
+    "7BllEsdNLoM:t4"
+   ]
+  },
+  {
+   "text": "He is a much better defender than people think.",
+   "kind": "verdict",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p10"
+   ]
+  },
+  {
+   "text": "His category profile has no weak category. His best areas are FG% for a guard and assists, but none of them is a league outlier.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Shares the backcourt with De'Aaron Fox and Stephon Castle; bench role expected to start the season",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p6",
+    "gerS7ibpaJo:t2",
+    "g31YlwRe0XQ:t0",
+    "P6TNP-g0wzY:p42",
+    "BjXP9JODDSg:p37"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "Projected near 29 to 30 minutes after 22.6 last season",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p7",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "ADP around 78 to 84; experts see him closer to rank 100",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p37",
+    "7BllEsdNLoM:p42",
+    "gerS7ibpaJo:p14",
+    "BjXP9JODDSg:p38",
+    "_vbAP5y182A:p43"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 11 USD, rank 83; ESPN value 2 USD, rank 101",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "No category flagged weak",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Harper is valued at 11 USD by Yahoo but costs only 5.4 USD on average there, and ESPN rates him at 2 USD (rank 101). The experts say he is closer to rank 100 than his top 80 ADP, so bid only in the low single digits and let someone else reach. He fits any build with no weak category. Early in the season, check whether he starts or reaches 30 minutes next to Fox and Castle, and whether his efficient shooting holds.",
+ "rejected": []
+}

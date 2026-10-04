@@ -1,0 +1,212 @@
+{
+ "player": {
+  "name": "Jalen Brunson",
+  "slug": "jalen-brunson",
+  "pk": 72,
+  "team": "NYK",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "6757dac59d17",
+ "note_count": 20,
+ "built_at": "2026-10-04T17:34:43+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.250208,
+  "duration_ms": 69348
+ },
+ "current": [
+  {
+   "text": "He had wrist surgery after the playoffs. He is expected to be ready for opening night.",
+   "kind": "fact",
+   "date": "2026-08-13",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:p9"
+   ]
+  },
+  {
+   "text": "He is projected to start at point guard for the Knicks, with about 31 percent usage and 35 minutes.",
+   "kind": "verdict",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:t2",
+    "7BllEsdNLoM:p23"
+   ]
+  },
+  {
+   "text": "The Knicks played two extra months in their title run. Experts expect a possible Finals hangover, so he may start slow and lose some production to fatigue.",
+   "kind": "verdict",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "J1Eg3uaAICU:p32",
+    "OdDkXFhoKsc:p31",
+    "7BllEsdNLoM:p23",
+    "uarqbNA2dFk:p9",
+    "7BllEsdNLoM:t8",
+    "dlo7L8Ru91A:t4"
+   ]
+  },
+  {
+   "text": "The Knicks are expected to be careful with their starters early: trimmed minutes and more rest on back-to-backs.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "first 30 or so games",
+   "sources": [
+    "okN3fbHJtlA:t1",
+    "W-R1dzem32s:t5",
+    "QbdrhJd7LiA:t3",
+    "LM0cRCGoAUQ:t6"
+   ]
+  },
+  {
+   "text": "Experts agree his market price is too high for category leagues. A Yahoo ADP of 23 or an early round 3 pick is too soon. Around pick 39 is fair, and one expert has him at 48.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p15",
+    "_vbAP5y182A:p20",
+    "uarqbNA2dFk:p9",
+    "DubdKKhMWHo:p8",
+    "7BllEsdNLoM:p23",
+    "Alwse2uXzD4:p10",
+    "J1Eg3uaAICU:p30"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a high-usage scorer. Points are his standout category and a real outlier against the league.",
+   "kind": "fact",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "stats",
+    "DubdKKhMWHo:p7",
+    "J1Eg3uaAICU:p31",
+    "ME-r173X5b0:p35",
+    "E-KmhvyZ2CU:p13"
+   ]
+  },
+  {
+   "text": "His blocks are very low, even for a guard.",
+   "kind": "fact",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "stats",
+    "DubdKKhMWHo:p7",
+    "J1Eg3uaAICU:p31",
+    "ME-r173X5b0:p35"
+   ]
+  },
+  {
+   "text": "Experts rate him much better in points leagues than in category leagues. He gives points, good free throws and decent assists. He gives little in rebounds, steals and blocks.",
+   "kind": "verdict",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p8",
+    "2A2JbUN-kc0:p24",
+    "7BllEsdNLoM:p24",
+    "OdDkXFhoKsc:p30",
+    "E-KmhvyZ2CU:p13",
+    "ME-r173X5b0:p35",
+    "DubdKKhMWHo:p7",
+    "J1Eg3uaAICU:p31",
+    "80kfLVnFQ_s:p17"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "PTS specialist",
+   "channel": "durable",
+   "detail": "About 26 points per game on high usage",
+   "until": "",
+   "sources": [
+    "stats",
+    "DubdKKhMWHo:p7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt BLK fit",
+   "channel": "durable",
+   "detail": "About 0.1 blocks per game, weak even for a guard",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "points league player",
+   "channel": "durable",
+   "detail": "Round 2 in points leagues, round 4 in categories",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:p24",
+    "7BllEsdNLoM:p24",
+    "Alwse2uXzD4:p10",
+    "80kfLVnFQ_s:p17",
+    "J1Eg3uaAICU:p30",
+    "uarqbNA2dFk:p8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "Yahoo ADP 23 and early round 3 seen as too high for categories; fair around pick 39",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p15",
+    "_vbAP5y182A:p20",
+    "uarqbNA2dFk:p9",
+    "DubdKKhMWHo:p8",
+    "7BllEsdNLoM:p23"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "slow start",
+   "channel": "current",
+   "detail": "Finals hangover and Knicks expected to trim starters' minutes early",
+   "until": "first 30 or so games",
+   "sources": [
+    "OdDkXFhoKsc:p31",
+    "J1Eg3uaAICU:p32",
+    "okN3fbHJtlA:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "back-to-back risk",
+   "channel": "current",
+   "detail": "Knicks expected to rest starters more on back-to-backs",
+   "until": "first 30 or so games",
+   "sources": [
+    "okN3fbHJtlA:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo average cost 32.6 USD, ESPN average cost 42.4 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo values him at 30 USD and he went for 31 USD in our league last season. His Yahoo average cost is 32.6 USD and his ESPN average cost is 42.4 USD. Experts see him as a round 4 player in categories (around pick 39 to 48), so let others pay more than about 30 USD. He fits punt BLK builds and teams that want points, threes, free throws and assists from a guard. Early in the season, check his minutes under the Knicks' careful plan for the first 30 or so games, how his wrist looks after surgery, and whether he sits on back-to-backs.",
+ "rejected": []
+}

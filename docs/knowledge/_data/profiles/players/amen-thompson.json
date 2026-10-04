@@ -1,0 +1,262 @@
+{
+ "player": {
+  "name": "Amen Thompson",
+  "slug": "amen-thompson",
+  "pk": 548,
+  "team": "HOU",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "3fbf21edb82c",
+ "note_count": 18,
+ "built_at": "2026-10-04T17:23:02+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1745662,
+  "duration_ms": 49563
+ },
+ "current": [
+  {
+   "text": "Fred VanVleet is back, so Thompson is expected to spend less time at point guard this season.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p6",
+    "2A2JbUN-kc0:p32",
+    "2A2JbUN-kc0:t4",
+    "J1Eg3uaAICU:p35",
+    "J1Eg3uaAICU:t2",
+    "7BllEsdNLoM:p17",
+    "gJUBAJaHzlU:p2"
+   ]
+  },
+  {
+   "text": "He is projected to start next to VanVleet, Durant, Smith and Sengun.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t1",
+    "yoCTTlJ_tPQ:t0"
+   ]
+  },
+  {
+   "text": "Coach Ime Udoka plays his starters very heavy minutes, which supports Thompson's workload.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t0",
+    "7BllEsdNLoM:t9"
+   ]
+  },
+  {
+   "text": "He finished about 25th to 26th in 9-cat last season after being drafted around 15th to 20th. Experts call that fine, not a disaster.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p5",
+    "gJUBAJaHzlU:p1",
+    "2A2JbUN-kc0:p32",
+    "ME-r173X5b0:p15"
+   ]
+  },
+  {
+   "text": "He was a top 20 player over the second half of last season.",
+   "kind": "fact",
+   "date": "2026-08-19",
+   "until": "",
+   "sources": [
+    "J1Eg3uaAICU:p35",
+    "OdDkXFhoKsc:p11"
+   ]
+  },
+  {
+   "text": "His blocks were cut in half and his steals dropped while he played point guard.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p5",
+    "gJUBAJaHzlU:p2",
+    "J1Eg3uaAICU:p36"
+   ]
+  },
+  {
+   "text": "With less point guard time, his assists may drop by about one per game.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p6",
+    "7BllEsdNLoM:p17",
+    "gJUBAJaHzlU:p2"
+   ]
+  },
+  {
+   "text": "Playing closer to the rim, his blocks should return to about 0.9 per game, his FG% could rise to 55 or 56%, and his steals may improve.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p6",
+    "2A2JbUN-kc0:p32",
+    "7BllEsdNLoM:p17",
+    "gJUBAJaHzlU:p2",
+    "J1Eg3uaAICU:p35"
+   ]
+  },
+  {
+   "text": "He is worth a mid-to-late second-round pick in category leagues if you believe his blocks and FG% will improve. If not, take him in the third round, around pick 28 to 30.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p8",
+    "ahNxsoU8Hx4:p5",
+    "C4vlgpJ62NI:p31"
+   ]
+  },
+  {
+   "text": "His ESPN rank of 13 is slightly aggressive.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p8"
+   ]
+  },
+  {
+   "text": "With a March 28 end, Houston has a weak 3-3-4 fantasy playoff schedule, 10 games over weeks 19 to 21.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t4"
+   ]
+  },
+  {
+   "text": "Houston has only 14 back-to-backs this season.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t5"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Thompson is an elite athlete who adds rim deterrence on defense.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p7",
+    "yoCTTlJ_tPQ:p14"
+   ]
+  },
+  {
+   "text": "He does not shoot threes and is far from a reliable outside shot.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p7",
+    "yoCTTlJ_tPQ:p14",
+    "ME-r173X5b0:p15",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is a highly efficient shooter but a modest scorer who is unlikely to average 20 points.",
+   "kind": "verdict",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p18",
+    "OdDkXFhoKsc:p11"
+   ]
+  },
+  {
+   "text": "His blocks drive his fantasy value.",
+   "kind": "verdict",
+   "date": "2026-08-19",
+   "until": "",
+   "sources": [
+    "J1Eg3uaAICU:p36"
+   ]
+  },
+  {
+   "text": "For a guard he is strong in FG%, rebounds and blocks, and he is good in steals. Threes are his only weak category.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "About 0.3 threes per game",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p7",
+    "yoCTTlJ_tPQ:p14",
+    "ME-r173X5b0:p15",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt 3PM fit",
+   "channel": "durable",
+   "detail": "Threes are flagged weak for a guard. He keeps value from FG%, REB, STL and BLK",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "ESPN rank 13 and 37.1 USD average cost against Yahoo rank 20 and 24.0 USD. Lloyd calls ESPN 13 slightly aggressive",
+   "until": "",
+   "sources": [
+    "stats",
+    "aLP080hxizA:p8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "3-3-4, 10 games in weeks 19 to 21 with a March 28 end",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "Houston has 14 back-to-backs",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t5"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Thompson cost 38 USD in our auction last year. His ESPN average cost is now 37.1 USD and his Yahoo average cost is 24.0 USD. The newest expert view puts him in the second round only if his blocks and FG% come back, so a price near the Yahoo range (about 25 to 35 USD) is safer than the ESPN price. He fits punt 3PM builds best: with only about 0.3 threes per game, he gives guard-slot FG% (54%), rebounds (7.7), steals (1.6) and blocks. In the first weeks, check whether his time off point guard brings his blocks back near 0.9 per game and his FG% to 55% or higher, and how far his assists drop from 5.3. Houston's weak 10-game playoff schedule is a small minus.",
+ "rejected": []
+}

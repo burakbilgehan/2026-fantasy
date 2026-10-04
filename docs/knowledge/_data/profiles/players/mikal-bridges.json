@@ -1,0 +1,200 @@
+{
+ "player": {
+  "name": "Mikal Bridges",
+  "slug": "mikal-bridges",
+  "pk": 63,
+  "team": "NYK",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "2ee26ccfd132",
+ "note_count": 11,
+ "built_at": "2026-10-04T17:43:06+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.2307756,
+  "duration_ms": 59729
+ },
+ "current": [
+  {
+   "text": "He is a projected starter for the Knicks, next to Brunson, Hart, Anunoby and Towns.",
+   "kind": "fact",
+   "date": "2026-08-13",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:t2"
+   ]
+  },
+  {
+   "text": "His role shrank over the last two to three months of last season. He played under 30 minutes, took about one free throw per game and had a usage rate around 16 percent. Per game, he ranked around 130th, which is droppable.",
+   "kind": "fact",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:p4",
+    "uarqbNA2dFk:p17",
+    "LM0cRCGoAUQ:p49",
+    "dlo7L8Ru91A:p29"
+   ]
+  },
+  {
+   "text": "Gavin expects the same small role this season but also his best season as a Knick. Mike Brown may cut his role if he struggles.",
+   "kind": "verdict",
+   "date": "2026-08-13",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:p4"
+   ]
+  },
+  {
+   "text": "The experts call him overdrafted at an ADP of about 72 to 77 and say ESPN's rank of 26 is far too high. Taking him around pick 70 for his durability alone is not worth it. One expert sees his real value in the 90s.",
+   "kind": "verdict",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p17",
+    "LM0cRCGoAUQ:p49",
+    "dlo7L8Ru91A:p29",
+    "J1Eg3uaAICU:p41",
+    "Alwse2uXzD4:p25"
+   ]
+  },
+  {
+   "text": "After the title run, the Knicks are expected to be careful early in the season. Starters should get fewer minutes and more rest on back-to-backs over the first 30 or so games.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "first 30 or so games",
+   "sources": [
+    "okN3fbHJtlA:t1",
+    "LM0cRCGoAUQ:t6",
+    "W-R1dzem32s:t5",
+    "dlo7L8Ru91A:t4",
+    "QbdrhJd7LiA:t3"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is very durable and rarely misses games. He played all 82 games in each of the last three seasons.",
+   "kind": "fact",
+   "date": "2026-08-13",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:p5",
+    "8d--aL_xxwE:p19",
+    "stats"
+   ]
+  },
+  {
+   "text": "He can be projected to play more games than the usual player. Josh warns that he will still get hurt at some point.",
+   "kind": "verdict",
+   "date": "2026-08-09",
+   "until": "",
+   "sources": [
+    "8d--aL_xxwE:p19"
+   ]
+  },
+  {
+   "text": "He is an elite defender off the ball.",
+   "kind": "fact",
+   "date": "2026-08-13",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:p5"
+   ]
+  },
+  {
+   "text": "His category profile is low volume and good percentages, with some steals. None of his categories is a league outlier, strong or weak.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "Alwse2uXzD4:p25",
+    "stats"
+   ]
+  },
+  {
+   "text": "His nine-cat totals flatter him, mostly because he plays every game.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p49",
+    "dlo7L8Ru91A:p29"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "plays every game",
+   "channel": "durable",
+   "detail": "82 games in each of the last three seasons",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:p5",
+    "8d--aL_xxwE:p19",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "no weak category; small edges in 3PM, STL and TO",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "9-cat fluff",
+   "channel": "durable",
+   "detail": "nine-cat totals carried by games played",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p49"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "overdrafted at ADP 72 to 77; ESPN rank 26 far too high",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p17",
+    "LM0cRCGoAUQ:p49",
+    "dlo7L8Ru91A:p29",
+    "J1Eg3uaAICU:p41"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 12 USD, rank 81; ESPN value 28 USD, rank 26",
+   "until": "",
+   "sources": [
+    "stats",
+    "uarqbNA2dFk:p17"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "back-to-back risk",
+   "channel": "current",
+   "detail": "Knicks plan more rest on back-to-backs early after the title run",
+   "until": "first 30 or so games",
+   "sources": [
+    "okN3fbHJtlA:t1",
+    "W-R1dzem32s:t5"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Bridges is a safe-games filler with no weak category, so he fits any build. He does not lift any one category, and experts value him around rank 90 rather than at his ADP of about 75 or ESPN's rank of 26. Pay near our league's 9 USD from last season or the Yahoo value of 12 USD, never the ESPN value of 28 USD. Early in the season, check his minutes and usage: the Knicks plan to trim starters' minutes for about 30 games, and he was under 30 minutes and droppable late last season.",
+ "rejected": []
+}

@@ -1,0 +1,257 @@
+{
+ "player": {
+  "name": "Evan Mobley",
+  "slug": "evan-mobley",
+  "pk": 392,
+  "team": "CLE",
+  "position": "F,C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "7231ff72b0b7",
+ "note_count": 18,
+ "built_at": "2026-10-04T17:31:46+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.2718484,
+  "duration_ms": 67432
+ },
+ "current": [
+  {
+   "text": "Experts see his draft position around 30 as fair to slightly high. The newest view is fine with an ADP near 30 but prefers him from the mid third to the early fourth round in categories. Another expert ranks him lower than consensus.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p13",
+    "uarqbNA2dFk:p6",
+    "LM0cRCGoAUQ:p27"
+   ]
+  },
+  {
+   "text": "He finished 41st in categories leagues and 29th in points leagues last season.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p13"
+   ]
+  },
+  {
+   "text": "He had two calf strains last season. He came back early and played on a minutes restriction. He looked better in the playoffs.",
+   "kind": "fact",
+   "date": "2026-08-24",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:p6"
+   ]
+  },
+  {
+   "text": "His very poor free throw shooting is the main reason his fantasy value fell last season. His usage stayed at 22, his rebounding was strong, and he blocked the most shots of his career, fifth in the league at 1.8 per game.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "8d--aL_xxwE:p2",
+    "ME-r173X5b0:p34",
+    "NmdNvAz08oE:p15"
+   ]
+  },
+  {
+   "text": "Experts expect his FT% to stay poor this season. It could improve, but it will not be excellent, and any gain is a bonus. One expert is not ready to call him a bad free throw shooter.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p14",
+    "OdDkXFhoKsc:p19",
+    "LM0cRCGoAUQ:p27",
+    "-y6p5PYLf00:p39"
+   ]
+  },
+  {
+   "text": "He shot under 30% from three last season. One expert expects him to recover to about 33 to 34%.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p14"
+   ]
+  },
+  {
+   "text": "One expert sees this as a big offensive year for him. Another is not sold on a big usage increase, partly because James Harden is now a full-time ball handler in Cleveland.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:p6",
+    "t4n9MAP2_14:p14",
+    "QbdrhJd7LiA:t1"
+   ]
+  },
+  {
+   "text": "He is projected to start in the frontcourt next to Jarrett Allen, with James Harden, Donovan Mitchell and Peyton Watson. Big-man depth is very thin: behind Mobley and Allen there is only Thomas Bryant, then Ernest Udeh Jr. and Khalifa Diop. Dean Wade is gone.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t0",
+    "rnq3118kfhY:t0",
+    "NmdNvAz08oE:t4",
+    "rnq3118kfhY:t2",
+    "t4n9MAP2_14:t3"
+   ]
+  },
+  {
+   "text": "It is unclear whether Kenny Atkinson will play him more at center in smaller lineups. Cleveland may close games with Mobley at center.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t2",
+    "t4n9MAP2_14:t3"
+   ]
+  },
+  {
+   "text": "Cleveland plays 4, 3 and then 2 games in our playoff weeks 19 to 21, so finals week is a two-game week. Cleveland also has the most back-to-backs in the league.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t5",
+    "gf_6GveiAls:t15",
+    "NmdNvAz08oE:t6",
+    "gf_6GveiAls:t2"
+   ]
+  },
+  {
+   "text": "The weak playoff schedule gives one expert some pause on him. Another calls the impact of the two-game week borderline.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p17",
+    "gf_6GveiAls:p35"
+   ]
+  },
+  {
+   "text": "He has no current injury concern.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t7"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Blocks are his best category and a real league outlier. He is also clearly strong in FG% and rebounds.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "FT% is his clear weak spot. On his volume it hurts a team's FT%.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He is an elite defender with a high floor and a pretty good passer out of the pocket. The open question is whether his offense can take the next step.",
+   "kind": "verdict",
+   "date": "2026-08-24",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:p7"
+   ]
+  },
+  {
+   "text": "At 25 he has not reached his peak. He could become a 20-point scorer with two blocks per game.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p16"
+   ]
+  },
+  {
+   "text": "He has a history of lower-body injuries, including two calf strains last season.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p18",
+    "rnq3118kfhY:p6"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "BLK specialist",
+   "channel": "durable",
+   "detail": "about 1.7 blocks per game, career high last season",
+   "until": "",
+   "sources": [
+    "stats",
+    "ME-r173X5b0:p34",
+    "NmdNvAz08oE:p15"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "FT% liability",
+   "channel": "durable",
+   "detail": "about 61% last season on 4.6 attempts per game",
+   "until": "",
+   "sources": [
+    "stats",
+    "OdDkXFhoKsc:p19",
+    "t4n9MAP2_14:p14"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt FT fit",
+   "channel": "durable",
+   "detail": "keeps value from blocks, rebounds and FG% without FT%",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "lower-body injuries, two calf strains last season",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p18",
+    "rnq3118kfhY:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "4, 3, 2 games in weeks 19 to 21, so a two-game finals week. Cleveland has the most back-to-backs in the league",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t5",
+    "gf_6GveiAls:t15",
+    "NmdNvAz08oE:p17"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He went for 36 USD in our league last season. Yahoo now values him at 30 USD (average cost 23.6) and ESPN at 27 USD (average cost 19.8), with both ranking him 27th. He finished 41st in categories last year, so I would pay the mid 20s, near the site averages, and not last year's 36 USD. He fits best in a punt FT% build, where his blocks, rebounds and FG% count fully and his weak FT% does not matter. Early in the season, check whether his FT% and three-point shooting recover and whether Atkinson plays him at center in small lineups. His two-game finals week is a reason not to overpay.",
+ "rejected": []
+}

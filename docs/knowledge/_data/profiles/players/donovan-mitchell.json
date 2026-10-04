@@ -1,0 +1,319 @@
+{
+ "player": {
+  "name": "Donovan Mitchell",
+  "slug": "donovan-mitchell",
+  "pk": 391,
+  "team": "CLE",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "3b4e1bbaccac",
+ "note_count": 29,
+ "built_at": "2026-10-04T17:31:18+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.2436742,
+  "duration_ms": 79814
+ },
+ "current": [
+  {
+   "text": "James Harden is with Cleveland for the full season. With Harden there, Mitchell's assists fell from about 6.1 to about 5 per 36 minutes, his usage fell from 32 to 30, and his scoring dropped by 1.5 to 2 points.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p0",
+    "QbdrhJd7LiA:t1",
+    "J1Eg3uaAICU:t5",
+    "J1Eg3uaAICU:p13",
+    "rnq3118kfhY:p8",
+    "7BllEsdNLoM:p9",
+    "E-KmhvyZ2CU:p5"
+   ]
+  },
+  {
+   "text": "For about two thirds of last season he played without Harden. Darius Garland was missing or limited and Max Strus was out, so Mitchell carried much of the usage and assists alone.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p7",
+    "NmdNvAz08oE:p2",
+    "J1Eg3uaAICU:p14",
+    "uarqbNA2dFk:p32"
+   ]
+  },
+  {
+   "text": "Projected starting lineup: Harden, Mitchell, Peyton Watson, Evan Mobley and Jarrett Allen. The second unit has no clear point guard, so Harden and Mitchell may stagger.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t0",
+    "NmdNvAz08oE:t1",
+    "rnq3118kfhY:t0"
+   ]
+  },
+  {
+   "text": "How much he shares the floor with Harden is the key question. A hard stagger would help him keep his value. Sharing most of their minutes would hurt it.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p3",
+    "NmdNvAz08oE:t1"
+   ]
+  },
+  {
+   "text": "Projected at just under 30% usage and about 33 minutes. A full season with Harden and the arrival of Peyton Watson, who will also get touches, point his role downward.",
+   "kind": "verdict",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p8",
+    "QbdrhJd7LiA:p7"
+   ]
+  },
+  {
+   "text": "Last season's value rested on his best two-point shooting season ever, high steals and hot shooting after Harden arrived (about 45% from three, 93% to 95% from the line). He dropped off later in the season.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p1",
+    "7BllEsdNLoM:p9",
+    "J1Eg3uaAICU:p13",
+    "J1Eg3uaAICU:p14",
+    "W-R1dzem32s:p9",
+    "2A2JbUN-kc0:p30"
+   ]
+  },
+  {
+   "text": "Experts expect his two-point percentage and steals to regress. They doubt his assists will hold and do not expect a repeat of last season's level.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p1",
+    "7BllEsdNLoM:p9",
+    "E-KmhvyZ2CU:p5",
+    "J1Eg3uaAICU:p14",
+    "2A2JbUN-kc0:p30"
+   ]
+  },
+  {
+   "text": "Experts agree he is not a first-round pick. The newest calls rank him slightly behind his Yahoo rank of 11 to 14, around 15 in 9-cat, and below Jamal Murray and Austin Reaves. They call ESPN's rank of 7 far too high. Taking him in round 1 will not sink a draft, but they would not pay his draft cost.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p6",
+    "NmdNvAz08oE:p4",
+    "NmdNvAz08oE:p5",
+    "_vbAP5y182A:p5",
+    "C4vlgpJ62NI:p25",
+    "2A2JbUN-kc0:p30",
+    "gf_6GveiAls:p32",
+    "W-R1dzem32s:p8",
+    "uarqbNA2dFk:p32",
+    "QbdrhJd7LiA:p8",
+    "J1Eg3uaAICU:p13",
+    "7BllEsdNLoM:p9"
+   ]
+  },
+  {
+   "text": "Cleveland has the most back-to-backs in the league.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t6",
+    "gf_6GveiAls:t2"
+   ]
+  },
+  {
+   "text": "Our fantasy playoff schedule (March 28 end): Cleveland plays 4, 3 and then 2 games in weeks 19 to 21. Only two games in the finals week starting March 22.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t5",
+    "gf_6GveiAls:t15",
+    "gf_6GveiAls:p32"
+   ]
+  },
+  {
+   "text": "He has no current injury concerns.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t7"
+   ]
+  },
+  {
+   "text": "He signed a contract extension with Cleveland.",
+   "kind": "fact",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:t2"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "High-volume scoring guard. His points are a league outlier at about 26.5 per game.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He turns the ball over a lot for a guard, about 2.6 per game.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "His FG%, rebounds and blocks are not strong. Two-point shooting has always been his weak spot.",
+   "kind": "verdict",
+   "date": "2026-09-23",
+   "until": "",
+   "sources": [
+    "C4vlgpJ62NI:p26",
+    "W-R1dzem32s:p9"
+   ]
+  },
+  {
+   "text": "For most of his career he has been a fantasy player ranked roughly 30 to 40. Last season was the only time he played at a top-10 level.",
+   "kind": "fact",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p9",
+    "uarqbNA2dFk:p32",
+    "QbdrhJd7LiA:p8"
+   ]
+  },
+  {
+   "text": "He has had persistent knee problems, though he was fairly healthy last season.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p7"
+   ]
+  },
+  {
+   "text": "He is 30 and has carried a heavy load over the last couple of years.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p6"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "PTS specialist",
+   "channel": "durable",
+   "detail": "about 26.5 points per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "about 2.6 turnovers per game, high for a guard",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "persistent knee problems; fairly healthy last season",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p7",
+    "2A2JbUN-kc0:p30"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "age decline watch",
+   "channel": "durable",
+   "detail": "30 years old after a heavy workload",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "full season next to Harden, plus Peyton Watson; assists and usage fell with Harden",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p0",
+    "W-R1dzem32s:p8",
+    "QbdrhJd7LiA:p7",
+    "QbdrhJd7LiA:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "ESPN rank 7 and value 58 USD called far too high; experts rank him below his Yahoo rank too",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p5",
+    "uarqbNA2dFk:p32",
+    "QbdrhJd7LiA:p8",
+    "BjXP9JODDSg:p6",
+    "NmdNvAz08oE:p2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 12 and value 46 USD vs ESPN rank 7 and value 58 USD",
+   "until": "",
+   "sources": [
+    "stats",
+    "NmdNvAz08oE:p5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "4, 3, 2 games in weeks 19 to 21; only 2 games in finals week",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t5",
+    "gf_6GveiAls:t15"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He went for 40 USD in our league last season. Yahoo values him at 46 USD and ESPN at 58 USD, while experts rank him outside the first round, around 15th or lower. Pay around 40 to 45 USD at most and let others chase the ESPN price. His scoring, threes, steals and FT% fit most guard builds, and his 2.6 turnovers fit punt TO best. Early in the season, check how much Harden and Mitchell stagger, his assist rate and his two-point percentage. Also keep in mind the 2-game finals week (week 21) when planning for the playoffs.",
+ "rejected": []
+}

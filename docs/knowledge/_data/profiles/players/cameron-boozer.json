@@ -1,0 +1,217 @@
+{
+ "player": {
+  "name": "Cameron Boozer",
+  "slug": "cameron-boozer",
+  "pk": 52,
+  "team": "MEM",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "38a6dc6a3b99",
+ "note_count": 21,
+ "built_at": "2026-10-04T17:26:07+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.15804219999999997,
+  "duration_ms": 45292
+ },
+ "current": [
+  {
+   "text": "Rookie forward who is expected to start for Memphis. One projected starting five is Ty Jerome, Cedric Coward, Jerami Grant, Cameron Boozer and Zach Edey.",
+   "kind": "fact",
+   "date": "2026-09-03",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p0",
+    "RyzcCGChYgs:t2",
+    "OBwWCxG9SqM:t1",
+    "LcZcvk8s1xQ:t6"
+   ]
+  },
+  {
+   "text": "Ja Morant was traded to Portland. Memphis has no real replacement at point guard, and Ty Jerome is expected to start there.",
+   "kind": "fact",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:p16",
+    "bHA-JoW3reE:t5",
+    "NYTH7uQsPCM:t9"
+   ]
+  },
+  {
+   "text": "With Morant gone, Boozer should take the first or second playmaking role in Memphis and see his assist rate go up. Experts are not worried that losing Morant's passing will hurt him.",
+   "kind": "verdict",
+   "date": "2026-06-30",
+   "until": "",
+   "sources": [
+    "4GDfg2n2l8o:p7",
+    "bHA-JoW3reE:p16"
+   ]
+  },
+  {
+   "text": "Coach Tuomas Iisalo runs an 11-man rotation and keeps minutes down. Boozer is projected for 30 to 32 minutes. He is one of only two Grizzlies expected to top 30 minutes. At 33 minutes he would be an easy top 50 player.",
+   "kind": "verdict",
+   "date": "2026-09-03",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:p5",
+    "LcZcvk8s1xQ:t2",
+    "OBwWCxG9SqM:p9"
+   ]
+  },
+  {
+   "text": "In Summer League he averaged 17 points, 7 rebounds, 4 assists, a steal and a three, on 51% FG, 82% FT and 40% from three.",
+   "kind": "fact",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:p20"
+   ]
+  },
+  {
+   "text": "He is expected to struggle early, including with efficiency, as Cooper Flagg did. He should do more as the season goes on and reach a top 25 to 30 level by the end of the season and in the fantasy playoffs.",
+   "kind": "verdict",
+   "date": "2026-09-03",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p1",
+    "lOshTzDA4SA:p2",
+    "OdDkXFhoKsc:p34",
+    "OBwWCxG9SqM:p7",
+    "OBwWCxG9SqM:t1"
+   ]
+  },
+  {
+   "text": "Draft price call: going inside the top 50 is early, but taking him in the 50s is fine. One expert ranks him 65th in category leagues. Experts are comfortable drafting him.",
+   "kind": "verdict",
+   "date": "2026-09-15",
+   "until": "",
+   "sources": [
+    "KPdD91Oo8-U:p13",
+    "OBwWCxG9SqM:p7",
+    "LcZcvk8s1xQ:p7"
+   ]
+  },
+  {
+   "text": "Experts see him as the clear number one rookie this season. Because of how the roster is built, he will get every chance to win Rookie of the Year.",
+   "kind": "verdict",
+   "date": "2026-09-03",
+   "until": "",
+   "sources": [
+    "OBwWCxG9SqM:p9",
+    "LcZcvk8s1xQ:p6",
+    "lOshTzDA4SA:p0"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He does nearly everything: scoring, rebounds, assists, steals, solid free throws, good two-point efficiency and threes. Experts call his game scalable.",
+   "kind": "verdict",
+   "date": "2026-09-03",
+   "until": "",
+   "sources": [
+    "OBwWCxG9SqM:p8",
+    "RsjGTgJiKyI:p0",
+    "TOn-D1SV7a8:p33"
+   ]
+  },
+  {
+   "text": "He has limits as a rim protector and will likely lack blocks.",
+   "kind": "verdict",
+   "date": "2026-09-03",
+   "until": "",
+   "sources": [
+    "OBwWCxG9SqM:p8",
+    "LcZcvk8s1xQ:p4",
+    "lOshTzDA4SA:p1"
+   ]
+  },
+  {
+   "text": "He plays more like a small forward than a center and has point forward potential.",
+   "kind": "verdict",
+   "date": "2026-08-17",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:p4"
+   ]
+  },
+  {
+   "text": "He had a 30 usage rate and high assist numbers at Duke.",
+   "kind": "fact",
+   "date": "2026-06-25",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p1"
+   ]
+  },
+  {
+   "text": "He is not expected to be a 30 usage player in the NBA.",
+   "kind": "verdict",
+   "date": "2026-09-03",
+   "until": "",
+   "sources": [
+    "OBwWCxG9SqM:p8"
+   ]
+  },
+  {
+   "text": "Turnovers are his weakest category. He is projected for about 2.5 per game, which is high for a forward.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "rookie",
+   "channel": "current",
+   "detail": "Memphis rookie, expected to start",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p0",
+    "OBwWCxG9SqM:p9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "slow start",
+   "channel": "current",
+   "detail": "Expected to struggle early like Cooper Flagg, then reach a top 25 to 30 level by the fantasy playoffs",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p2",
+    "OdDkXFhoKsc:p34",
+    "OBwWCxG9SqM:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "About 2.5 turnovers per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 20 USD (rank 51) vs ESPN value 4 USD (rank 77)",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Experts put him in the 50s and expect him to finish around the top 25 to 30, mostly through rebounds, points and well-rounded production. That makes him a fair buy near his Yahoo average cost of 14.8 USD, and a bargain if the room follows ESPN's 4 USD. He fits punt TO builds best because turnovers are his only weak category. Early in the season, check whether Iisalo's tight minutes let him reach 32 or more, how many assists he gets without Morant, and his three-point volume (Yahoo projects 1.3 threes, ESPN 0.3).",
+ "rejected": []
+}

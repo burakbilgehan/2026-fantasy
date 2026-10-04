@@ -1,0 +1,437 @@
+{
+ "slug": "format-mispriced-players",
+ "title": "Format Traps: Points-League Players and 9-Cat Fluff",
+ "type": "compilation",
+ "brief": "Which players are likely mispriced in our room because their value comes from points-league scoring or from inflated 9-cat totals, and which are undervalued for a category league? Tiers must separate players to avoid at market price from players to target.",
+ "tags": [
+  "points league player",
+  "9-cat fluff",
+  "undervalued by 9-cat",
+  "category league player"
+ ],
+ "rule_ids": [
+  "egRrai3Ax38:r6",
+  "Alwse2uXzD4:r10",
+  "Alwse2uXzD4:r11",
+  "uarqbNA2dFk:r2",
+  "NmdNvAz08oE:r5",
+  "t4n9MAP2_14:r3",
+  "Rqb5GdrSweY:r5",
+  "RsjGTgJiKyI:r10"
+ ],
+ "proposed": true,
+ "prompt_sha": "12db90749aa2",
+ "built_at": "2026-10-04T20:18:54+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.3206688,
+  "duration_ms": 103701
+ },
+ "player_slugs": [
+  "ace-bailey",
+  "aj-dybantsa",
+  "alperen-sengun",
+  "cade-cunningham",
+  "chet-holmgren",
+  "cooper-flagg",
+  "darius-acuff",
+  "darryn-peterson",
+  "dayron-sharpe",
+  "domantas-sabonis",
+  "giannis-antetokounmpo",
+  "ivica-zubac",
+  "ja-morant",
+  "jalen-brunson",
+  "jalen-green",
+  "jalen-johnson",
+  "jaren-jackson",
+  "jarrett-allen",
+  "jaylen-brown",
+  "jonathan-kuminga",
+  "josh-giddey",
+  "julius-randle",
+  "kelel-ware",
+  "kevin-durant",
+  "mikal-bridges",
+  "nic-claxton",
+  "onyeka-okongwu",
+  "paolo-banchero",
+  "pascal-siakam",
+  "reed-sheppard",
+  "rj-barrett",
+  "stephon-castle",
+  "zion-williamson"
+ ],
+ "summary": "Our room will carry Yahoo and ESPN prices that mix points-league and category drafts. That overprices scorers like Cade Cunningham, Jalen Johnson, Jalen Brunson, Domantas Sabonis and Pascal Siakam, and nine-cat fluff like Chet Holmgren, Ivica Zubac and Jarrett Allen. Spend the money we save on category players the market underrates: Giannis Antetokounmpo, Kevin Durant, Jaren Jackson Jr. and cheap bigs like Kel'el Ware and Day'Ron Sharpe.",
+ "sections": [
+  {
+   "heading": "Why our room misprices format",
+   "paragraphs": [
+    {
+     "text": "Yahoo ADP mixes points drafts with category drafts. Players valued in points leagues show up high in category rooms and at the top of autodraft queues. In our live auction on 2026-10-18, managers who anchor on Yahoo or ESPN numbers will bring those points-league prices with them.",
+     "sources": [
+      "Alwse2uXzD4:r10",
+      "uarqbNA2dFk:r2"
+     ]
+    },
+    {
+     "text": "The first trap is the high-usage scorer with weak steals, blocks and efficiency. That player can be top 10 in points leagues and only a third rounder in category leagues. Our nine categories reward FG%, FT%, assists, steals and blocks, and they punish turnovers. Points alone do not carry a player.",
+     "sources": [
+      "Rqb5GdrSweY:r5",
+      "RsjGTgJiKyI:r10",
+      "Alwse2uXzD4:r11"
+     ]
+    },
+    {
+     "text": "The second trap is nine-cat fluff. The standard Z-score ranking, with turnovers included, makes some players look better than they play, and those players get overdrafted.",
+     "sources": [
+      "NmdNvAz08oE:r5",
+      "t4n9MAP2_14:r3"
+     ]
+    },
+    {
+     "text": "The rule for our room: when a site ranks or prices a player for the other format, the gap is the opportunity. Let others pay the points-league or fluff price. Bid hard on category players that points-leaning ADP pushes down.",
+     "sources": [
+      "egRrai3Ax38:r6",
+      "Alwse2uXzD4:r10"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Points-league prices at the top",
+   "paragraphs": [
+    {
+     "text": "Cade Cunningham is the biggest early trap. Yahoo ranks him 5th, but experts put him around 8th to 10th in categories. Do not chase him past the mid 50s. Jalen Johnson is priced as a first-rounder on both sites, while category experts see a mid second-round player. Our room paid 34 USD for him last season, and a price near that is safer than the market.",
+     "sources": [
+      "player:cade-cunningham",
+      "player:jalen-johnson",
+      "Alwse2uXzD4:r10"
+     ]
+    },
+    {
+     "text": "Cooper Flagg is fair in the mid 40s, but bidding toward 60 USD is too much. Jalen Brunson is a round 4 player in categories, so let others pay more than about 30 USD. Stop on Alperen Sengun at about 30 USD. Domantas Sabonis went for 41 USD in our room last season, but experts call him round 3 to 4 in categories. Do not pay first-round money for him.",
+     "sources": [
+      "player:cooper-flagg",
+      "player:jalen-brunson",
+      "player:alperen-sengun",
+      "player:domantas-sabonis"
+     ]
+    },
+    {
+     "text": "The same thing happens in the middle rounds. Pascal Siakam rates about 30th in points but 50th to 60th in categories, so paying 25 USD or more repeats the overpay. Paolo Banchero's 26 USD last season was points-league money, and his fair price is near 19 USD. Zion Williamson's 21 USD last season was an overpay, so aim for about 12 USD or less. Do not pay near Yahoo's value for Stephon Castle.",
+     "sources": [
+      "player:pascal-siakam",
+      "player:paolo-banchero",
+      "player:zion-williamson",
+      "player:stephon-castle"
+     ]
+    },
+    {
+     "text": "Many of these turnover-heavy players fit a punt TO build best. Examples are Cunningham, Johnson, Flagg, Sabonis and Banchero. A punt TO team can roster them and lose little. Still, the price caps above apply to that build too. Punting TO lowers the cost of their weak category. It does not turn them into first-round category players.",
+     "sources": [
+      "player:cade-cunningham",
+      "player:jalen-johnson",
+      "player:cooper-flagg",
+      "player:domantas-sabonis",
+      "player:paolo-banchero"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Nine-cat fluff: pay the expert rank, not the z-score",
+   "paragraphs": [
+    {
+     "text": "Chet Holmgren is the top fluff case. Yahoo values him at 30 USD and our room paid 32 USD last season. Experts say that round-two price is too high and call ESPN's much lower rank fair. His blocks are elite, but he is a target only well below 30 USD.",
+     "sources": [
+      "player:chet-holmgren",
+      "t4n9MAP2_14:r3"
+     ]
+    },
+    {
+     "text": "Several low-turnover centers carry inflated Z-scores. For Onyeka Okongwu, pay close to his average cost, not his Yahoo value. On Jarrett Allen, stop around 10 to 13 USD and let ESPN-anchored managers overpay. Ivica Zubac cost 20 USD in our room last season and finished around 96th. His Yahoo average cost is fair. His Yahoo value is not.",
+     "sources": [
+      "player:onyeka-okongwu",
+      "player:jarrett-allen",
+      "player:ivica-zubac",
+      "NmdNvAz08oE:r5"
+     ]
+    },
+    {
+     "text": "We play head-to-head, so season totals built on games played overstate weekly value. Reed Sheppard ranks near 30th on season totals but 93rd in H2H value. He is a 1 to 3 USD flyer. Mikal Bridges has no weak category but lifts none, and experts value him around rank 90. Pay near our 9 USD from last season or his Yahoo value, never ESPN's value.",
+     "sources": [
+      "player:reed-sheppard",
+      "player:mikal-bridges"
+     ]
+    },
+    {
+     "text": "One caution: our league does count TO, so a big man's low turnovers are real help in our weekly matchups. The expert point is that the standard ranking overstates that help. It is not worthless. Use the expert rank as the price cap, not as a reason to skip these players.",
+     "sources": [
+      "NmdNvAz08oE:r5",
+      "player:jarrett-allen"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Where the format gap works for us",
+   "paragraphs": [
+    {
+     "text": "Giannis Antetokounmpo is undervalued by nine-cat rankings because the FT% drag lowers his rank. Experts put him about 5th in head-to-head category leagues, while ESPN ranks him 20th. Expect to pay about 60 USD or more. He is the anchor of a punt FT% and punt TO build. Early on, check that he plays 32 or more minutes and how his knee holds up.",
+     "sources": [
+      "player:giannis-antetokounmpo",
+      "egRrai3Ax38:r6"
+     ]
+    },
+    {
+     "text": "Kevin Durant is tier two in categories and tier three in points, and ESPN values him far below the experts. Paying in the mid 40s is reasonable. His 10-game playoff schedule is weak, so plan to check his trade value before the 2027-03-04 deadline. Watch his minutes early, because a drop to 33 would hurt.",
+     "sources": [
+      "player:kevin-durant"
+     ]
+    },
+    {
+     "text": "Jaren Jackson Jr. is the clearest category bargain. Points-league ADP undervalues his blocks and steals. Experts rank him near 36th in categories, so he is a buy anywhere under about 25 USD.",
+     "sources": [
+      "player:jaren-jackson",
+      "Alwse2uXzD4:r10"
+     ]
+    },
+    {
+     "text": "Later in the auction, Kel'el Ware is a cheap source of rebounds, blocks and FG% with top 40 upside at 30 minutes. Day'Ron Sharpe is a few-USD bet for rebounds, steals and FG%. Julius Randle is a fair mid-priced starter near his average cost. Jaylen Brown is fair near his Yahoo price, but not at last season's 29 USD.",
+     "sources": [
+      "player:kelel-ware",
+      "player:dayron-sharpe",
+      "player:julius-randle",
+      "player:jaylen-brown"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Late scorers: 1 USD or nothing",
+   "paragraphs": [
+    {
+     "text": "Some players are tagged as points-league players and sit near the end of our 144-player pool: Ja Morant, AJ Dybantsa, Darryn Peterson, Jonathan Kuminga, Jalen Green, Darius Acuff Jr., RJ Barrett and Ace Bailey. Each one offers points with weak FG%, FT%, defense or turnovers. Bid only a few USD, and in most cases 1 USD as a last pick. Bid only when a punt TO or punt FT% team needs scoring.",
+     "sources": [
+      "player:ja-morant",
+      "player:aj-dybantsa",
+      "player:darryn-peterson",
+      "player:jonathan-kuminga",
+      "player:jalen-green",
+      "player:darius-acuff",
+      "player:rj-barrett",
+      "player:ace-bailey",
+      "Alwse2uXzD4:r11"
+     ]
+    },
+    {
+     "text": "Do not pay past prices or hype. Morant cost 17 USD and Green cost 9 USD in our room last season. Peterson's Yahoo average cost is well above his Yahoo value. Let others pay for Dybantsa as the No. 1 pick. Nic Claxton's Yahoo rank fits points, not categories, so 1 to 3 USD is right for a punt FT% team.",
+     "sources": [
+      "player:ja-morant",
+      "player:jalen-green",
+      "player:darryn-peterson",
+      "player:aj-dybantsa",
+      "player:nic-claxton"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Where the sources split, and what to check",
+   "paragraphs": [
+    {
+     "text": "The method notes agree on the principle. The disagreements are on individual players. Jaylen Brown is tagged as a player nine-cat ranks undervalue, but his profile says our room's 29 USD last season was too high for a smaller role in Philadelphia. We side with the price cap. Holmgren splits the sites: Yahoo prices him in round two, while experts back ESPN's much lower rank. Morant's projections also split. Yahoo has him at 5.7 assists on 13 shots and ESPN at 7.2 on 16, so his value depends on which projection holds.",
+     "sources": [
+      "player:jaylen-brown",
+      "player:chet-holmgren",
+      "player:ja-morant"
+     ]
+    },
+    {
+     "text": "Before the draft, write a hard cap next to each name above. During the auction, note which site the bidder anchors on. ESPN anchors overpay Siakam, Sabonis, Allen and Bridges. Yahoo anchors overpay Cunningham, Flagg and Holmgren. In the first weeks, check minutes and usage for the bargains (Jackson Jr., Ware, Sharpe). The FAB budget and 6 weekly adds let us drop flyers fast if their roles do not show up.",
+     "sources": [
+      "uarqbNA2dFk:r2",
+      "player:pascal-siakam",
+      "player:domantas-sabonis",
+      "player:jarrett-allen",
+      "player:mikal-bridges",
+      "player:cade-cunningham",
+      "player:cooper-flagg",
+      "player:chet-holmgren"
+     ]
+    }
+   ]
+  }
+ ],
+ "players": [
+  {
+   "slug": "giannis-antetokounmpo",
+   "tier": "Core targets",
+   "line": "His FT% drag hides a top 5 head-to-head category player who anchors punt FT% builds."
+  },
+  {
+   "slug": "kevin-durant",
+   "tier": "Core targets",
+   "line": "He is worth more in categories than in points, and ESPN underprices him, but his weak playoff schedule makes him a trade candidate before the deadline."
+  },
+  {
+   "slug": "jaren-jackson",
+   "tier": "Core targets",
+   "line": "Points-league ADP ignores his blocks and steals, so he is a category bargain under his expert value."
+  },
+  {
+   "slug": "kelel-ware",
+   "tier": "Value at price",
+   "line": "He is a cheap source of rebounds, blocks and FG% with upside if he gets 26 or more minutes."
+  },
+  {
+   "slug": "dayron-sharpe",
+   "tier": "Value at price",
+   "line": "He is a few-USD late bet for rebounds, steals and FG% next to a punt 3PM or punt FT% core."
+  },
+  {
+   "slug": "julius-randle",
+   "tier": "Value at price",
+   "line": "He is a fair mid-priced starter whose category value holds up better than his points-league tag suggests."
+  },
+  {
+   "slug": "jaylen-brown",
+   "tier": "Value at price",
+   "line": "He is fair near his Yahoo price as a punt TO fit, but a smaller Philadelphia role makes last season's price too high."
+  },
+  {
+   "slug": "josh-giddey",
+   "tier": "Value at price",
+   "line": "His Yahoo price fits his category rank, but paying above the mid 30s buys a top 15 player he is not."
+  },
+  {
+   "slug": "paolo-banchero",
+   "tier": "Value at price",
+   "line": "In categories he is a 40 to 55 pick, so pay his Yahoo-level price and not last season's points-league money."
+  },
+  {
+   "slug": "pascal-siakam",
+   "tier": "Value at price",
+   "line": "His category value is far below his points value, so take him only at the Yahoo-level price."
+  },
+  {
+   "slug": "onyeka-okongwu",
+   "tier": "Value at price",
+   "line": "His threes and steals from center are real, but nine-cat rankings inflate him, so pay near average cost."
+  },
+  {
+   "slug": "ivica-zubac",
+   "tier": "Value at price",
+   "line": "His FG% on volume inflates his nine-cat rank, so he is fair only near his Yahoo average cost."
+  },
+  {
+   "slug": "jarrett-allen",
+   "tier": "Value at price",
+   "line": "Low turnovers inflate his Z-score, so let ESPN-anchored managers overpay and stop early."
+  },
+  {
+   "slug": "mikal-bridges",
+   "tier": "Value at price",
+   "line": "Games played carry his totals and he lifts no category, so he is a cheap filler only."
+  },
+  {
+   "slug": "cade-cunningham",
+   "tier": "Avoid at market price",
+   "line": "Yahoo prices him above his category rank, so do not chase him past the mid 50s."
+  },
+  {
+   "slug": "jalen-johnson",
+   "tier": "Avoid at market price",
+   "line": "The sites price him as a first-rounder, but category experts see a mid second-round player."
+  },
+  {
+   "slug": "cooper-flagg",
+   "tier": "Avoid at market price",
+   "line": "Yahoo drafters pay points-league money, and only a mid-40s price fits his late-first category value."
+  },
+  {
+   "slug": "alperen-sengun",
+   "tier": "Avoid at market price",
+   "line": "He ranks higher in points than categories, and he has a weak 10-game playoff schedule."
+  },
+  {
+   "slug": "jalen-brunson",
+   "tier": "Avoid at market price",
+   "line": "He is a round 2 points player but only round 4 in categories, so let others pay more."
+  },
+  {
+   "slug": "domantas-sabonis",
+   "tier": "Avoid at market price",
+   "line": "Experts rank him far higher in points, and our room paid first-round-level money for a round 3 to 4 category player."
+  },
+  {
+   "slug": "chet-holmgren",
+   "tier": "Avoid at market price",
+   "line": "Nine-cat ranks overrate him, so he is a target only well below his Yahoo price."
+  },
+  {
+   "slug": "stephon-castle",
+   "tier": "Avoid at market price",
+   "line": "Category experts fade him at his Yahoo ADP because of his turnovers and FT%."
+  },
+  {
+   "slug": "darryn-peterson",
+   "tier": "Avoid at market price",
+   "line": "He is a volume scorer with weak projected FG%, so he is a cheap stash and not worth his Yahoo average cost."
+  },
+  {
+   "slug": "zion-williamson",
+   "tier": "Late flyers",
+   "line": "His FG% and points fit punt FT% and punt 3PM builds, but only at a low price given rest days."
+  },
+  {
+   "slug": "ja-morant",
+   "tier": "Late flyers",
+   "line": "His turnovers and FG% make him a punt TO flyer, nowhere near last season's price."
+  },
+  {
+   "slug": "aj-dybantsa",
+   "tier": "Late flyers",
+   "line": "He is a volume scorer with a weak nine-cat shape, so bid only a few USD and skip the No. 1 pick hype."
+  },
+  {
+   "slug": "reed-sheppard",
+   "tier": "Late flyers",
+   "line": "Season totals inflate him, and he is a bench player unless an injury opens minutes."
+  },
+  {
+   "slug": "nic-claxton",
+   "tier": "Late flyers",
+   "line": "His Yahoo rank fits points, so he is a 1 to 3 USD punt FT% blocks pick."
+  },
+  {
+   "slug": "rj-barrett",
+   "tier": "Late flyers",
+   "line": "His value is points and some rebounds, with a FT% drag and weak defense, so he is a 1 USD scorer at most."
+  },
+  {
+   "slug": "ace-bailey",
+   "tier": "Late flyers",
+   "line": "He wins no category and sits at the pool cutoff, so take him only as a 1 USD last pick."
+  },
+  {
+   "slug": "jonathan-kuminga",
+   "tier": "Late flyers",
+   "line": "He is a scoring-only forward with a FT% drag and a two-game playoff week, so he is a 1 USD bench pick at most."
+  },
+  {
+   "slug": "jalen-green",
+   "tier": "Late flyers",
+   "line": "He offers late points and threes for punt FG% or punt TO teams but hurts balanced builds."
+  },
+  {
+   "slug": "darius-acuff",
+   "tier": "Late flyers",
+   "line": "His FG% and turnovers cancel his scoring and assists, so he is a 1 USD pick only for a team already weak there."
+  }
+ ],
+ "excluded": [],
+ "rejected": []
+}

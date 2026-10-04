@@ -1,0 +1,246 @@
+{
+ "player": {
+  "name": "Rui Hachimura",
+  "slug": "rui-hachimura",
+  "pk": 213,
+  "team": "LAC",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "3ad832f42013",
+ "note_count": 13,
+ "built_at": "2026-10-04T17:47:43+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1571062,
+  "duration_ms": 38514
+ },
+ "current": [
+  {
+   "text": "Hachimura joined the Clippers this offseason. He replaces John Collins as the starting power forward.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "KLogvUwv_d8:p0",
+    "tnzmsYUA4yQ:t3"
+   ]
+  },
+  {
+   "text": "He is in the projected Clippers starting five with Garland, Strus, Jones Jr. and Isaiah Jackson. The speaker is not confident about this lineup.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t3"
+   ]
+  },
+  {
+   "text": "Brandon Ingram is injured. Beal, Jordan Miller and Konan Niederhauser are also out.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p18",
+    "tnzmsYUA4yQ:t5"
+   ]
+  },
+  {
+   "text": "He should start and get a usage bump. With Ingram out he will have to take more shots, and this may be the biggest role of his career.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "Ingram returns",
+   "sources": [
+    "tnzmsYUA4yQ:p18",
+    "dlo7L8Ru91A:p47",
+    "ZYllcj4o6_A:p27",
+    "E-KmhvyZ2CU:p32"
+   ]
+  },
+  {
+   "text": "One expert projects him for over 30 minutes and over 18% usage, with 2 or more threes, about 16 points and 7 rebounds a game.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p17"
+   ]
+  },
+  {
+   "text": "He is draftable as a late upside pick for points and threes, even though the experts do not like him.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p17",
+    "E-KmhvyZ2CU:p32",
+    "dlo7L8Ru91A:p47"
+   ]
+  },
+  {
+   "text": "Coach Ty Lue often makes odd rotation choices and then changes them, so his role may move.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t2"
+   ]
+  },
+  {
+   "text": "The Clippers play 4-3-4 games in our fantasy playoff weeks, a good schedule. They have one of the lowest back-to-back totals in the league with 13.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t6"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He has shot over 40% from three for three straight seasons.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p14"
+   ]
+  },
+  {
+   "text": "He is a very good three-point shooter, but his volume and usage are low. He should take more threes.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p14",
+    "ZYllcj4o6_A:p27",
+    "dlo7L8Ru91A:p48",
+    "KLogvUwv_d8:p1",
+    "4kKINkZhWls:p1"
+   ]
+  },
+  {
+   "text": "He shoots a good field goal percentage, around 51% to 54% in recent seasons.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p16",
+    "stats"
+   ]
+  },
+  {
+   "text": "He gives very little in assists, steals and blocks.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p15",
+    "dlo7L8Ru91A:p48",
+    "stats"
+   ]
+  },
+  {
+   "text": "He rarely gets to the free throw line and is not a good free throw shooter.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p15",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is a consistent shooter with a pull-up midrange game. He is not a good defender and not much of a creator.",
+   "kind": "verdict",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "KLogvUwv_d8:p2"
+   ]
+  },
+  {
+   "text": "Experts do not see him as a good fantasy player. Like Harrison Barnes, he shoots threes on low usage and does little else.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p27",
+    "E-KmhvyZ2CU:p32",
+    "4kKINkZhWls:p1",
+    "KLogvUwv_d8:p1"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "Joined the Clippers, replacing John Collins as starting PF",
+   "until": "",
+   "sources": [
+    "KLogvUwv_d8:p0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "Projected starter with more usage while Ingram is out",
+   "until": "Ingram returns",
+   "sources": [
+    "dlo7L8Ru91A:p47",
+    "tnzmsYUA4yQ:p17",
+    "tnzmsYUA4yQ:p18",
+    "ZYllcj4o6_A:p27",
+    "E-KmhvyZ2CU:p32"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "Upside pick around 164 for points and threes",
+   "until": "",
+   "sources": [
+    "E-KmhvyZ2CU:p32",
+    "tnzmsYUA4yQ:p17"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 121, ESPN rank 197",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "4-3-4 games in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13 back-to-backs, one of the lowest totals",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t6"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He sits at the edge of our 144-player pool: Yahoo ranks him 121 at an average cost of 1.0 USD, and ESPN ranks him 197 at 0.1 USD. Pay 1 USD at most, as an end-of-draft flyer or a waiver add. His projections show positive FG% and few turnovers (0.6 a game), with weak assists, steals and rebounds. In the first weeks, check whether he plays over 30 minutes and takes more shots while Ingram is out. If his line stays near last season's 11.5 points and 3.3 rebounds, he is a drop.",
+ "rejected": []
+}
