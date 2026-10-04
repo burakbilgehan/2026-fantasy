@@ -59,6 +59,7 @@ docs/
 1. Extension posts events to `POST /api/capture`. Stored in `data/raw/draft_capture/{league_id}/{YYYYMMDD}.jsonl` (raw files are the source of truth).
 2. `app/draft/parser.py` turns WebSocket lines into typed events. `app/draft/state.py` replays them into a draft state (pure, tested).
 3. `make draft-ingest` writes the replayed picks into the draft tables. Idempotent.
+4. Live (T-012): the capture endpoint also applies each event to an in-memory state per league (`app/draft/live.py`, rebuilt from the files on first use). Each sale runs the same ingest in the background. Frontend reads `GET /api/draft/live/{league_id}` every 3 s.
 - Past league drafts: `make past-draft-sync` (`app/jobs/sync_past_draft.py`) reads last season's public draftresults page into the same tables (`drafts.kind = "past_league"`, `drafts.season`). Pick order, team and price only; no nominations, no bids.
 - `transactions` (add, drop, trade; per season)
 

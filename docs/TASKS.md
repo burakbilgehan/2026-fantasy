@@ -32,7 +32,7 @@ Status: 🔴 blocked, 🟡 todo, 🟩 doing, ✅ done. Keep this file current at
 |----|------|--------|-------|
 | T-010 | Valuation engine: code for the models chosen in T-017. Unit tests. | 🟡 todo | Waits for T-017. |
 | T-011 | Player value table widget. | 🟡 todo | |
-| T-012 | Draft data ingest: API poller (3 to 5 s) when approved, else extension feed (T-009). No manual entry mode (user decision, 2026-10-03). | 🟡 todo | |
+| T-012 | Draft data ingest: API poller (3 to 5 s) when approved, else extension feed (T-009). No manual entry mode (user decision, 2026-10-03). | ✅ done | 2026-10-04. Extension feed is live: `POST /api/capture` applies each event to an in-memory draft state (`app/draft/live.py`); after a backend restart the state is rebuilt from the capture files. Each sale rewrites the draft's DB rows in the background. `GET /api/draft/live`, `GET /api/draft/live/{league_id}`. Widget "Live draft feed" (raw facts, 3 s poll, red when no event for 15 s). Money left is computed from picks: the server `$\|` comes only on connect and is stale after the next sale (verified on mock 2600536). Tested by replaying mock 2600009 through the endpoint. Not done: API poller (403, T-008). Live Yahoo draft not tested yet (T-020). |
 | T-013 | Price ranges and market tracking during the draft. | 🟡 todo | Product. Needs a refinement session (`VISION.md`, Live draft board). |
 | T-014 | Team profiles and punt hints. | 🟡 todo | |
 | T-015 | Manager auction tendencies from last season. | 🟡 todo | Optional for P1. |

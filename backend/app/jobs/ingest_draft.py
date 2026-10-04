@@ -5,6 +5,7 @@ Usage: python -m app.jobs.ingest_draft [league_id ...]  (default: all capture fo
 """
 
 import sys
+import threading
 from datetime import UTC, datetime
 from pathlib import Path
 
@@ -60,6 +61,17 @@ def ingest(db: Session, league_id: str, base: Path = capture.CAPTURE_DIR) -> tup
         for p in sorted(state.picks.values(), key=lambda p: p.pick_no)
     )
     return draft, state
+
+
+_write_lock = threading.Lock()
+
+
+def ingest_now(league_id: str, base: Path) -> None:
+    """Replay one draft into the DB in its own transaction. Called after each live sale."""
+    from app.db import SessionLocal
+
+    with _write_lock, SessionLocal.begin() as db:
+        ingest(db, league_id, base)
 
 
 if __name__ == "__main__":

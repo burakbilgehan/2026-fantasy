@@ -10,3 +10,9 @@ dl { display: grid; grid-template-columns: max-content 1fr; gap: 4px 12px; }
 dt { font-weight: 600; }
 dd { margin: 0; }
 .error { color: #c33; }
+table { border-collapse: collapse; width: 100%; }
+th, td { text-align: left; padding: 2px 8px 2px 0; }
+tr.mine { font-weight: 600; }
+.live { color: #2a2; }
+.stale { color: #c33; }
+.picks { max-height: 240px; overflow-y: auto; }

@@ -48,7 +48,7 @@
 | `n\|team\|player\|bid\|sec` | Nomination with opening bid | inferred | Follows `D` of the same team; seconds = 20 (bid timer) |
 | `b\|team\|player\|bid\|sec` | New high bid | inferred | Every `0` price equals the last `b`/`n` amount (test) |
 | `0\|pick\|player\|team\|slot\|price` | Sale. `slot` = roster slot (C, PG, Util ...) | inferred | Budgets from sales match the server `$` (test) |
-| `$\|team=money\|...` | Money left per team | verified | Matches computed budgets at reconnect (test) |
+| `$\|team=money\|...` | Money left per team. Sent only on connect, so it is stale after the next sale. The app computes money left from picks | verified | Matches computed budgets at reconnect (test). Mock 2600536: last `$` had 200 for team 1 after it spent 170 |
 | `P\|pick=player,team,price\|...` | All picks so far, sent on connect | verified | Page reload recovered full state; adds pick 14 sold while the socket was down |
 | `I\|team\|...` | Nomination order | inferred | `D` teams follow this order |
 | `A\|team=0/1\|...` | Who is in the room, sent on connect | inferred | Teams 6, 8, 11 = 0 and nominate in 1.0 s (bots) |

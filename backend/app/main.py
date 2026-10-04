@@ -2,7 +2,7 @@ from contextlib import asynccontextmanager
 
 from fastapi import FastAPI
 
-from app.api import capture, health, league, players
+from app.api import capture, draft, health, league, players
 from app.db import init_db
 
 
@@ -17,3 +17,4 @@ app.include_router(health.router)
 app.include_router(league.router)
 app.include_router(capture.router)
 app.include_router(players.router)
+app.include_router(draft.router)

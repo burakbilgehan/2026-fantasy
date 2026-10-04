@@ -172,3 +172,60 @@ def test_replay_second_mock_autopick_on_off():
     assert {1, 5} <= state.autopick
     # `X|29` came only before the user's own timeouts (2 of 2), never before other teams' (`5|5`, `5|1`).
     assert state.unknown.get("X") == 2
+
+
+def _post_all(client, rows):
+    for row in rows:
+        row = {k: v for k, v in row.items() if k != "received_at"}
+        assert client.post("/api/capture", json=row).status_code == 200
+
+
+def test_live_feed_matches_replay(tmp_path, monkeypatch, rows, state):
+    from app.api import capture as capture_api
+    from app.draft import live
+    from app.main import app
+
+    monkeypatch.setattr(capture, "CAPTURE_DIR", tmp_path)
+    written = []
+    monkeypatch.setattr(capture_api.ingest_draft, "ingest_now", lambda lid, base: written.append(lid))
+    live.reset()
+    client = TestClient(app)
+    _post_all(client, rows)
+
+    body = client.get(f"/api/draft/live/{LEAGUE}").json()
+    assert [p["pick_no"] for p in body["picks"]] == sorted(state.picks)
+    assert {(p["player_id"], p["team_id"], p["price"]) for p in body["picks"]} == {
+        (p.player_id, p.team_id, p.price) for p in state.picks.values()
+    }
+    assert {t["team_id"]: t["money_left"] for t in body["teams"]} == {
+        t: state.money_left(t) for t in state.server_budgets
+    }
+    assert body["warnings"] == state.warnings
+    assert body["my_team_id"] == 5 and body["kind"] == "mock"
+    assert all(t["name"] for t in body["teams"])
+    # One DB write per live sale. The first row of the league triggers a load, not a feed.
+    assert written == [LEAGUE] * sum(1 for r in rows[1:] if r.get("data", {}).get("body", "").startswith("0|"))
+    assert client.get("/api/draft/live").json()[0]["league_id"] == LEAGUE
+
+    # Backend restart: state is rebuilt from the files and is the same.
+    live.reset()
+    assert client.get(f"/api/draft/live/{LEAGUE}").json()["picks"] == body["picks"]
+    assert client.get("/api/draft/live/999").status_code == 404
+    live.reset()
+
+
+def test_live_last_event_counts_countdown(tmp_path, monkeypatch):
+    from app.draft import live
+
+    monkeypatch.setattr(capture, "CAPTURE_DIR", tmp_path)
+    live.reset()
+    room = "https://basketball.fantasysports.yahoo.com/draftclient/nba/2600123/7"
+    first = {"kind": "ws_message", "url": room, "received_at": "2026-10-04T01:00:00+00:00", "data": {"body": "I|7|1"}}
+    tick = {"kind": "ws_message", "url": room, "received_at": "2026-10-04T01:00:06+00:00", "data": {"body": "C|9"}}
+    capture.file_for(first, tmp_path).write_text(json.dumps(first) + "\n")
+    assert live.feed(first) is None
+    assert live.feed(tick) is None
+    d = live.get("2600123")
+    assert d.my_team_id == 7 and d.state.nomination_order == (7, 1)
+    assert d.last_event_at == datetime(2026, 10, 4, 1, 0, 6, tzinfo=UTC)
+    live.reset()
