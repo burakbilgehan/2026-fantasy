@@ -370,3 +370,10 @@ details.article > summary small { color: var(--muted); font-weight: 400; }
 table.values td.name { padding-top: 3px; padding-bottom: 3px; }
 .drawer-title { display: flex; align-items: center; gap: 12px; min-width: 0; }
 .drawer-title h2 { min-width: 0; }
+
+/* Zebra rows: every second player a slightly different tone, so a row is easy to follow. */
+:root { --stripe: color-mix(in oklab, var(--text) 4%, var(--raised)); }
+table.values tbody tr:nth-child(even) { background: var(--stripe); }
+table.values tbody tr:nth-child(even) .sticky { background: var(--stripe); }
+.mlist .mrow:not(.mhead):nth-child(odd) { background: var(--stripe); }
+table.values tbody tr:hover, table.values tbody tr:hover .sticky, .mlist .mrow:not(.mhead):hover { background: var(--row-hover); }
