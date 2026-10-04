@@ -15,12 +15,15 @@ One local backend, one database, one frontend. Features are widgets on that fron
 
 ## Documents (read the relevant one before work)
 - `docs/RULES.md`: league rules and general fantasy facts (always in context).
+- `docs/GLOSSARY.md`: fantasy terms, expert calls and our tag names, one meaning each. Add a term when you meet it.
 - `docs/VISION.md`: full scope. All planned modules. Check here before adding a feature.
 - `docs/ROADMAP.md`: phases and dates.
 - `docs/TASKS.md`: open tasks. Update status when you finish a task.
 - `docs/ARCHITECTURE.md`: stack, folders, data flow, widget model.
 - `docs/DATA_SOURCES.md`: every external source, with verification status.
 - `docs/modules/draft.md`: draft tool spec.
+- `docs/modules/valuation.md`: valuation spec (T-017, T-010): pickers, model list with descriptions, backtest plan.
+- `docs/modules/knowledge.md`: expert knowledge synthesis spec (T-022): profiles, tags, articles.
 - `prompts/`: every prompt and model setting sent to `claude -p`, one folder per job. Keep it current; code reads it from there.
 
 ## Related local projects (reference only, do not edit)

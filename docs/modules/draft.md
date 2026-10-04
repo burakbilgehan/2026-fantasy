@@ -14,6 +14,7 @@
 - Team ranking default: simulated H2H, 9 categories, each team vs every other team. Teams with no players are listed, not skipped.
 
 ## Valuation (M1)
+Replaced by `docs/modules/valuation.md` (2026-10-04). The steps below are the first sketch of the classic z-score model only.
 1. Get per-game projections for all players. Multiply by projected games.
 2. Compute a z-score per category. FG% and FT%: use volume-weighted impact (makes minus league-average makes at the player's attempts). TO: negative.
 3. Total value = sum of category z-scores. The user can turn off categories (punt). Values then recompute.
