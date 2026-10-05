@@ -82,6 +82,8 @@ export type ValuationOptions = {
   defaults: { kind: string; source: string; season: string; basis: string; model: string; dollars: string; pool: number }
   drafted: number
   budget: number
+  room_curve?: number[] // T-025: room price by rank (index 0 = rank 1)
+  room_curve_from?: string
 }
 
 export type ValuationQuery = {
@@ -108,7 +110,7 @@ export type ValuedPlayer = {
   total: number | null
   rank: number | null
   dollars: number | null
-  market: { yahoo_auction_value: number | null; yahoo_average_cost: number | null; espn_average_cost: number | null; fantrax_adp: number | null }
+  market: { yahoo_auction_value: number | null; yahoo_average_cost: number | null; espn_average_cost: number | null; fantrax_adp: number | null; room_expected: number | null }
 }
 
 export type Valuation = {

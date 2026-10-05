@@ -18,7 +18,7 @@ function perGame(p: ValuedPlayer, cat: string): number | null {
   return s.gp ? (s[cat] ?? 0) / s.gp : null
 }
 
-type Group = 'Player' | 'Value' | 'Market' | 'Playing time' | 'Categories'
+type Group = 'Player' | 'Value' | 'Room' | 'Market' | 'Playing time' | 'Categories'
 
 type Column = {
   key: string
@@ -47,7 +47,22 @@ function usageScale(players: ValuedPlayer[]): UsageScale | null {
   return sd > 0 ? { mean, sd } : null
 }
 
-function columns(cats: string[], view: 'stats' | 'z', usageSeason?: string, usage?: UsageScale | null): Column[] {
+// Opportunity (room $ at our rank minus the expected room price) at which the cell reaches full color.
+const OPP_FULL = 15
+
+/** T-025 room price: the room's price at the player's rank in our model (docs/modules/pricing.md). */
+function roomValue(p: ValuedPlayer, curve?: number[]): number | null {
+  if (!curve || p.rank == null) return null
+  return p.rank <= curve.length ? curve[p.rank - 1] : 1
+}
+
+function opportunity(p: ValuedPlayer, curve?: number[]): number | null {
+  const v = roomValue(p, curve)
+  return v == null || p.market.room_expected == null ? null : v - p.market.room_expected
+}
+
+function columns(cats: string[], view: 'stats' | 'z', usageSeason?: string, usage?: UsageScale | null,
+  curve?: number[], curveFrom?: string): Column[] {
   const base: Column[] = [
     { key: 'rank', label: '#', group: 'Player', num: true, className: 'rank', value: (p) => p.rank },
     { key: 'name', label: 'Player', group: 'Player', className: 'name sticky', value: (p) => p.name },
@@ -58,6 +73,16 @@ function columns(cats: string[], view: 'stats' | 'z', usageSeason?: string, usag
     { key: 'total', label: 'Value', title: 'Model value: sum of the category z values the model counts', group: 'Value',
       num: true, value: (p) => p.total, fmt: (v) => v.toFixed(2),
       heat: (p) => (p.total == null ? null : { z: p.total, full: TOTAL_FULL }) },
+    { key: 'room_value', label: 'Room $', group: 'Room', num: true, className: 'group-start',
+      title: `What this room pays for a player at his rank in our model (price curve: ${curveFrom ?? 'league auction'})`,
+      value: (p) => roomValue(p, curve), fmt: money },
+    { key: 'room_exp', label: 'Exp. price', group: 'Room', num: true,
+      title: 'Expected price in this room: the market order (Yahoo x2, ESPN, Fantrax ADP) on the room\'s price curve',
+      value: (p) => p.market.room_expected, fmt: money },
+    { key: 'room_opp', label: 'Opportunity', group: 'Room', num: true,
+      title: 'Room $ minus expected price. Positive: the room underrates him (a buy below Room $). Negative: the room overrates him.',
+      value: (p) => opportunity(p, curve), fmt: (v) => `${v >= 0 ? '+' : '-'}$${Math.abs(v).toFixed(0)}`,
+      heat: (p) => { const o = opportunity(p, curve); return o == null ? null : { z: o, full: OPP_FULL } } },
     { key: 'y_av', label: 'Yahoo value', group: 'Market', num: true, className: 'group-start',
       value: (p) => p.market.yahoo_auction_value, fmt: money },
     { key: 'y_cost', label: 'Yahoo avg', title: 'Yahoo average auction cost', group: 'Market', num: true,
@@ -254,8 +279,10 @@ export function PlayerValues() {
   }, [query])
 
   const cats = useMemo(() => options?.categories ?? [], [options])
-  const cols = useMemo(() => columns(cats, view, data?.settings.usage_season, data && usageScale(data.players)),
-    [cats, view, data])
+  const cols = useMemo(() => columns(cats, view, data?.settings.usage_season, data && usageScale(data.players),
+    query?.kind === 'projection' && query.season === options?.defaults.season ? options?.room_curve : undefined,
+    options?.room_curve_from),
+    [cats, view, data, options, query])
   const groups = useMemo(() => {
     const out: { name: Group; span: number }[] = []
     for (const c of cols) {

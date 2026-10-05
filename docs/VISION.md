@@ -64,6 +64,15 @@ Product topics need research and a refinement session with the user before any c
   - Category scarcity alerts: the board watches my team's weak categories and the supply left in the pool. Example: "your rebounds are low and rebound supply is running out; bid more on the next rebounder". The same for a category that the league used up early (example: assists).
   - The list of signals is open. The tool must see what the user cannot see during a live draft.
   - Price lines per player (user, 2026-10-04): next to bargain, fair and stop, the user's own maximum and minimum ("do not buy above X", "buy at once below Y").
+  - Draft assistant (user, 2026-10-05). Everything on the site so far is for draft prep; the assistant is the new, dynamic tool for draft day, maybe its own page. The value table stays on part of the screen as the player pool. Around it:
+    - Teams built so far: every team's roster, category distribution, and the H2H table between teams, updated after every sale.
+    - Player suggestions and our pre-draft shortlist.
+    - Simulations before buying: "if you buy this player, your team and the H2H table change like this".
+    - Team goals and warnings: too many centers, too few points, categories out of balance, "punting Z looks smart now".
+    - Scenarios prepared before the draft and kept live (examples: "buy Giannis and build punt FT%", "skip the top, wait for the middle tier and buy there"). Drop a scenario when the room breaks it (the middle tier went early, the top did not drain enough money).
+    - From the players bought so far, 3 or 4 live paths with guidance.
+    - Room price, expected price and opportunity (docs/modules/pricing.md) update live with money and slots left.
+    - The draft plan (core targets, backups, "do not pay above") is made before the draft and updated during it.
   - Alert and suggestion examples (user, 2026-10-04): good centers are running out and my team needs rebounds; I bought no top-30 player, so punting assists becomes a suggestion; "the assist train is leaving: take Harden, pay 23 instead of 20, or you cannot collect assists later".
 
 ### Expert knowledge synthesis (M8 second layer)
