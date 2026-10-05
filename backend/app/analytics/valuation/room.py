@@ -36,31 +36,52 @@ def price_curve(prices: Iterable[float], length: int) -> list[float]:
     return (out + [1.0] * length)[:length]
 
 
-def market_order(signals: Mapping[str, Mapping[object, float]], weights: Mapping[str, float] = MARKET_WEIGHTS,
-                 adp_sources: Iterable[str] = ("fantrax",)) -> list[object]:
-    """Players ordered by the market, best first.
+def market_ranks(signals: Mapping[str, Mapping[object, float]], weights: Mapping[str, float] = MARKET_WEIGHTS,
+                 adp_sources: Iterable[str] = ("fantrax",)) -> dict[object, float]:
+    """Weighted mean market rank per player (1 = best), over the sources that list him.
 
     signals: {source: {player: number}}; dollar sources (higher = better) and ADP sources (lower =
-    better) are both turned into a percentile rank inside their own source, then averaged with the
-    weights over the sources that list the player. A player in few sources is not pushed up.
+    better) are both turned into a rank inside their own source. Plain ranks, not percentiles: the
+    sources list different numbers of players, and a percentile would make a short list's steps
+    bigger (found 2026-10-05: Yahoo's shorter list pushed Doncic above Wembanyama).
     """
     adp = set(adp_sources)
-    pct: dict[object, list[tuple[float, float]]] = {}
+    parts: dict[object, list[tuple[float, float]]] = {}
     for src, vals in signals.items():
         w = weights.get(src, 0.0)
         if not w or not vals:
             continue
         order = sorted(vals, key=lambda k: vals[k], reverse=src not in adp)
-        n = len(order)
         for i, k in enumerate(order):
-            pct.setdefault(k, []).append((w, i / max(n - 1, 1)))
-    score = {k: sum(w * x for w, x in v) / sum(w for w, _ in v) for k, v in pct.items()}
-    return sorted(score, key=score.get)
+            parts.setdefault(k, []).append((w, float(i + 1)))
+    return {k: sum(w * r for w, r in v) / sum(w for w, _ in v) for k, v in parts.items()}
 
 
-def expected_prices(order: list[object], curve: list[float]) -> dict[object, float]:
-    """Expected room price: the curve value at the player's market rank."""
-    return {k: (curve[i] if i < len(curve) else 1.0) for i, k in enumerate(order)}
+def market_order(signals: Mapping[str, Mapping[object, float]], weights: Mapping[str, float] = MARKET_WEIGHTS,
+                 adp_sources: Iterable[str] = ("fantrax",)) -> list[object]:
+    """Players ordered by the market, best first."""
+    r = market_ranks(signals, weights, adp_sources)
+    return sorted(r, key=r.get)
+
+
+def curve_at(curve: list[float], rank: float) -> float:
+    """Curve value at a fractional rank (linear between neighbours), 1 USD past the end."""
+    if rank <= 1:
+        return curve[0]
+    i = int(rank) - 1
+    if i + 1 >= len(curve):
+        return curve[-1] if i < len(curve) else 1.0
+    f = rank - int(rank)
+    return curve[i] * (1 - f) + curve[i + 1] * f
+
+
+def expected_prices(ranks: Mapping[object, float] | list[object], curve: list[float]) -> dict[object, float]:
+    """Expected room price: the curve at the player's (fractional) market rank. Near ties get near
+    prices: two players at mean ranks 2.5 and 3.0 are not 7 USD apart only because one is listed first.
+    A list (an order) is read as ranks 1, 2, 3, ..."""
+    if isinstance(ranks, list):
+        ranks = {k: float(i + 1) for i, k in enumerate(ranks)}
+    return {k: curve_at(curve, r) for k, r in ranks.items()}
 
 
 def room_values(model_rank: Mapping[object, int], curve: list[float]) -> dict[object, float]:

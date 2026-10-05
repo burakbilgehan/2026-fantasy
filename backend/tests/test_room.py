@@ -22,3 +22,11 @@ def test_expected_room_value_and_opportunity():
     assert val == {"a": 50.0, "b": 20.0, "c": 80.0, "d": 1.0}
     opp = room.opportunity(val, exp)
     assert opp["c"] == 60.0 and opp["a"] == -30.0 and opp["d"] == 0.0
+
+
+def test_fractional_rank_interpolates():
+    curve = [87.0, 85.0, 78.0, 72.0]
+    assert room.curve_at(curve, 2.5) == 81.5
+    assert room.curve_at(curve, 1) == 87.0 and room.curve_at(curve, 9) == 1.0
+    r = room.market_ranks({"yahoo": {"a": 70, "b": 71}, "espn": {"a": 81, "b": 72}, "fantrax": {"a": 1.7, "b": 3.6}})
+    assert r == {"a": (2 * 2 + 1 + 1) / 4, "b": (2 * 1 + 2 + 2) / 4}

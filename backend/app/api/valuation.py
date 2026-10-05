@@ -140,9 +140,9 @@ def room_prices() -> tuple[list[float], dict[int, float], str]:
             v = m.average_pick if m.source == "fantrax" else m.average_cost
             if v:
                 signals[m.source][m.player_pk] = v
-    order = room.market_order(signals)
-    curve = room.price_curve(prices or [1.0], max(len(order), 600))
-    return curve, room.expected_prices(order, curve), f"{d.season} league auction" if d else "none"
+    ranks = room.market_ranks(signals)
+    curve = room.price_curve(prices or [1.0], max(len(ranks), 600))
+    return curve, room.expected_prices(ranks, curve), f"{d.season} league auction" if d else "none"
 
 
 def usage_season(kind: str, season: str) -> str:
