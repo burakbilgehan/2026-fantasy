@@ -394,3 +394,23 @@ table.proj-table tr.proj-actual td { color: var(--muted); font-style: italic; }
 .proj-judgment { margin-top: 8px; }
 .proj-reasons { margin: 4px 0 0 18px; padding: 0; font-size: 0.86rem; }
 .proj-reasons li { margin: 2px 0; }
+
+/* Value table, two lines per player (user, 2026-10-05): one tbody per player. */
+table.values.two-line thead tr.top th { top: 0; }
+table.values.two-line thead tr.bottom th { top: 27px; border-bottom: 1px solid var(--line); }
+table.values.two-line thead th { cursor: pointer; color: var(--muted); font-weight: 600; font-size: 0.78rem; }
+table.values.two-line thead th.sorted { color: var(--accent); }
+table.values.two-line thead th:hover { color: var(--text); }
+table.values.two-line thead th.cat { vertical-align: bottom; border-bottom: 1px solid var(--line); }
+table.values.two-line tbody.player { cursor: pointer; border-bottom: 1.5px solid var(--divider); }
+table.values.two-line tbody.player tr { border-bottom: none; background: transparent; }
+table.values.two-line tbody.player td { padding-top: 2px; padding-bottom: 2px; }
+table.values.two-line tbody.player tr.top td { padding-top: 5px; }
+table.values.two-line tbody.player tr.bottom td { padding-bottom: 5px; color: var(--muted); font-size: 0.8rem; }
+table.values.two-line tbody.player td.cat { font-size: 0.95rem; vertical-align: middle; }
+table.values.two-line tbody.player td.cat.heat span { padding: 7px 6px; }
+table.values.two-line tbody.player td.pair-empty { padding: 0; }
+table.values.two-line tbody.player:nth-of-type(even) { background: var(--stripe); }
+table.values.two-line tbody.player:nth-of-type(even) .sticky { background: var(--stripe); }
+table.values.two-line tbody.player:hover, table.values.two-line tbody.player:hover .sticky { background: var(--row-hover); }
+table.values.two-line tbody.player tr:nth-child(even) { background: transparent; }

@@ -134,21 +134,89 @@ function heatOf(col: Column, p: ValuedPlayer): { cls: string; style: CSSProperti
     style: { '--a': a.toFixed(3) } as CSSProperties }
 }
 
-function Cell({ col, p }: { col: Column; p: ValuedPlayer }) {
+function Cell({ col, p, rowSpan, extra }: { col: Column; p: ValuedPlayer; rowSpan?: number; extra?: string }) {
   const text = cellText(col, p)
   const h = heatOf(col, p)
   if (h) {
-    return <td className={[h.cls, col.className].filter(Boolean).join(' ')}><span style={h.style}>{text}</span></td>
+    return <td rowSpan={rowSpan} className={[h.cls, col.className, extra].filter(Boolean).join(' ')}><span style={h.style}>{text}</span></td>
   }
-  const cls = [col.num && 'num', col.className].filter(Boolean).join(' ') || undefined
+  const cls = [col.num && 'num', col.className, extra].filter(Boolean).join(' ') || undefined
   return (
-    <td className={cls}>
+    <td className={cls} rowSpan={rowSpan}>
       {col.key === 'name'
         ? <span className="name-cell"><Headshot nbaId={p.nba_id} name={p.name} />
           <button className="link" aria-haspopup="dialog">{text}</button></span>
         : text}
       {col.key === 'name' && p.injury && <span className="injury" title="Injury status (Yahoo)">{p.injury}</span>}
     </td>
+  )
+}
+
+// Wide table, two lines per player (user, 2026-10-05: see everything without side scroll).
+// Left: pairs of columns stacked (top / bottom). Right: the categories, one tall cell each.
+const PAIRS: [string, string | null][] = [
+  ['team', 'pos'], ['gp', 'min'], ['usg', null], ['dollars', 'total'], ['room_value', 'room_exp'],
+  ['room_opp', null], ['y_cost', 'y_av'], ['e_cost', 'f_adp'],
+]
+
+function SortTh({ c, sort, onSort, rowSpan, extra }: {
+  c: Column | undefined; sort: { key: string; desc: boolean }; onSort: (k: string) => void
+  rowSpan?: number; extra?: string
+}) {
+  if (!c) return <th rowSpan={rowSpan} className={extra} />
+  return (
+    <th scope="col" title={c.title} tabIndex={0} rowSpan={rowSpan}
+      aria-sort={sort.key === c.key ? (sort.desc ? 'descending' : 'ascending') : undefined}
+      className={[c.num && 'num', sort.key === c.key && 'sorted', extra].filter(Boolean).join(' ') || undefined}
+      onClick={() => onSort(c.key)}
+      onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); onSort(c.key) } }}>
+      {c.label}{sort.key === c.key ? (sort.desc ? ' ↓' : ' ↑') : ''}
+    </th>
+  )
+}
+
+function TwoLineTable({ rows, cols, sort, onSort, onOpen }: {
+  rows: ValuedPlayer[]; cols: Column[]; sort: { key: string; desc: boolean }
+  onSort: (k: string) => void; onOpen: (id: number) => void
+}) {
+  const byKey = new Map(cols.map((c) => [c.key, c]))
+  const pairs = PAIRS.filter(([t, b]) => byKey.has(t) || (b && byKey.has(b)))
+  const cats = cols.filter((c) => c.group === 'Categories')
+  const rank = byKey.get('rank')!
+  const name = byKey.get('name')!
+  const empty = (k: string | null) => (k && byKey.get(k) ? null : <td className="pair-empty" />)
+  return (
+    <table className="values two-line">
+      <thead>
+        <tr className="top">
+          <SortTh c={rank} sort={sort} onSort={onSort} rowSpan={2} />
+          <SortTh c={name} sort={sort} onSort={onSort} rowSpan={2} extra="sticky" />
+          {pairs.map(([t, b], i) => <SortTh key={t} c={byKey.get(t)} sort={sort} onSort={onSort} rowSpan={b ? undefined : 2}
+            extra={[i === 0 || t === 'dollars' || t === 'y_cost' ? 'group-start' : '', b ? '' : 'cat'].join(' ').trim() || undefined} />)}
+          {cats.map((c, i) => <SortTh key={c.key} c={c} sort={sort} onSort={onSort} rowSpan={2}
+            extra={['cat', i === 0 ? 'group-start' : ''].join(' ')} />)}
+        </tr>
+        <tr className="bottom">
+          {pairs.filter(([, b]) => b).map(([t, b]) => <SortTh key={`${t}-b`} c={byKey.get(b!)} sort={sort} onSort={onSort}
+            extra={t === 'team' || t === 'dollars' || t === 'y_cost' ? 'group-start' : undefined} />)}
+        </tr>
+      </thead>
+      {rows.map((p) => (
+        <tbody key={p.player_id} className="player" onClick={() => onOpen(p.player_id)}>
+          <tr className="top">
+            <td className="rank num" rowSpan={2}>{cellText(rank, p)}</td>
+            <Cell col={name} p={p} rowSpan={2} />
+            {pairs.map(([t, b]) => (byKey.get(t) ? <Cell key={t} col={byKey.get(t)!} p={p} rowSpan={b ? undefined : 2}
+              extra={b ? undefined : 'cat'} /> : empty(t)))}
+            {cats.map((c) => <Cell key={c.key} col={c} p={p} rowSpan={2} extra="cat" />)}
+          </tr>
+          <tr className="bottom">
+            {pairs.filter(([, b]) => b).map(([t, b]) => (byKey.get(b!) ? <Cell key={`${t}-b`} col={byKey.get(b!)!} p={p} />
+              : <td key={`${t}-b`} className="pair-empty" />))}
+          </tr>
+        </tbody>
+      ))}
+    </table>
   )
 }
 
@@ -283,15 +351,6 @@ export function PlayerValues() {
     query?.kind === 'projection' && query.season === options?.defaults.season ? options?.room_curve : undefined,
     options?.room_curve_from),
     [cats, view, data, options, query])
-  const groups = useMemo(() => {
-    const out: { name: Group; span: number }[] = []
-    for (const c of cols) {
-      const last = out[out.length - 1]
-      if (last?.name === c.group) last.span++
-      else out.push({ name: c.group, span: 1 })
-    }
-    return out
-  }, [cols])
 
   const rows = useMemo(() => {
     if (!data) return []
@@ -394,32 +453,7 @@ export function PlayerValues() {
           onSort={clickSort} onOpen={setDrawer} />
       ) : (
       <div className="table-wrap">
-        <table className="values">
-          <thead>
-            <tr className="groups">
-              {groups.map((g) => <th key={g.name} colSpan={g.span} scope="colgroup">{g.name === 'Player' ? '' : g.name}</th>)}
-            </tr>
-            <tr className="cols">
-              {cols.map((c) => (
-                <th key={c.key} scope="col" title={c.title} tabIndex={0}
-                  aria-sort={sort.key === c.key ? (sort.desc ? 'descending' : 'ascending') : undefined}
-                  className={[c.num && 'num', sort.key === c.key && 'sorted', c.className?.includes('sticky') && 'sticky',
-                    c.className?.includes('group-start') && 'group-start'].filter(Boolean).join(' ') || undefined}
-                  onClick={() => clickSort(c.key)}
-                  onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); clickSort(c.key) } }}>
-                  {c.label}{sort.key === c.key ? (sort.desc ? ' ↓' : ' ↑') : ''}
-                </th>
-              ))}
-            </tr>
-          </thead>
-          <tbody>
-            {rows.map((p) => (
-              <tr key={p.player_id} className="clickable" onClick={() => setDrawer(p.player_id)}>
-                {cols.map((c) => <Cell key={c.key} col={c} p={p} />)}
-              </tr>
-            ))}
-          </tbody>
-        </table>
+        <TwoLineTable rows={rows} cols={cols} sort={sort} onSort={clickSort} onOpen={setDrawer} />
       </div>
       )}
       {drawer != null && (
