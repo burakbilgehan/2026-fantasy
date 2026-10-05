@@ -4,14 +4,18 @@ Usage: python -m app.jobs.sync_players [source ...]   (default: all, registry or
 
 Identity matching is conservative; a wrong merge is worse than a duplicate:
 1. Known (source, external id).
+   Then an alias the source gives (another source's id, like FanScout's NBA id).
 2. Manual link in app/sources/players/id_links.json.
 3. Same name key, the only player with that name, and no id from this source yet.
 4. Several players with that name: the one on the same team without an id
    from this source, if exactly one.
 5. Else a new player row.
 Each run replaces this source's rows for the synced season, so it is idempotent.
-The first source in the registry that lists a player owns its name, team and
-position. A player the owner no longer lists gets team None (free agent).
+The first source in the registry that lists a player owns its name and position.
+Team: NBA.com is the only source (user, 2026-10-05). Other sources kept stale teams for
+players who were waived or became free agents (125 players on 2026-10-05, for example
+D'Angelo Russell still on MEM in Yahoo). A player NBA.com does not list on a roster has
+team None (free agent).
 """
 
 import json
@@ -67,6 +71,9 @@ class Resolver:
     def resolve(self, source: str, sp: SourcePlayer) -> tuple[Player | None, str]:
         if (pk := self.ids.get((source, sp.external_id))) is not None:
             return self.players[pk], "id"
+        for alias in sp.aliases:
+            if (pk := self.ids.get(alias)) is not None:
+                return self.players[pk], "alias"
         if (target := self.links.get((source, sp.external_id))) and target in self.ids:
             return self.players[self.ids[target]], "link"
         same_name = self.by_key[name_key(sp.first_name, sp.last_name)]
@@ -92,12 +99,17 @@ def _rank(source: str) -> int:
     return keys.index(source) if source in keys else len(keys)
 
 
+TEAM_SOURCE = "nba"
+
+
 def _set_identity(p: Player, source: str, sp: SourcePlayer, now: datetime) -> None:
     if p.identity_source and _rank(source) > _rank(p.identity_source):
         return  # a higher-priority source owns name, team and position
     p.first_name, p.last_name = sp.first_name, sp.last_name
     p.name_key = name_key(sp.first_name, sp.last_name)
-    p.team, p.position = sp.team, sp.position
+    p.position = sp.position
+    # Team only from NBA.com; a player owned by another source is not on an NBA.com roster.
+    p.team = sp.team if source == TEAM_SOURCE else None
     p.identity_source, p.updated_at = source, now
 
 
@@ -135,6 +147,9 @@ def write(db: Session, source: str, players: list[SourcePlayer], season: str,
         seen.add(player.id)
         if how != "id":
             resolver.add(player, source, sp.external_id)
+        for alias in sp.aliases:  # record the alias ids the player does not have yet
+            if alias not in resolver.ids and alias[0] not in resolver.sources_of[player.id]:
+                resolver.add(player, *alias)
         if sp.projection:
             db.add(_stat_row(PlayerProjection, player.id, source, sp.projection, now))
         for line in sp.past_projections:

@@ -189,3 +189,19 @@ def test_espn_late_utc_game_keeps_et_date():
     }]}}}
     g = espn.parse(raw, SEASON)[0]
     assert g.game_date_et == date(2026, 10, 21) and (g.home, g.away) == ("GSW", "UTA")
+
+
+def test_team_only_from_nba():
+    """NBA.com is the only team source: another source never sets a team (user, 2026-10-05)."""
+    from datetime import UTC, datetime
+
+    from app.jobs.sync_players import _set_identity
+    from app.models import Player
+    from app.sources.players.base import SourcePlayer
+
+    now = datetime.now(UTC)
+    p = Player(identity_source="")
+    _set_identity(p, "yahoo", SourcePlayer(external_id="1", first_name="D'Angelo", last_name="Russell", team="MEM"), now)
+    assert p.team is None and p.identity_source == "yahoo"
+    _set_identity(p, "nba", SourcePlayer(external_id="2", first_name="D'Angelo", last_name="Russell", team="DAL"), now)
+    assert p.team == "DAL" and p.identity_source == "nba"

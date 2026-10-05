@@ -6,7 +6,10 @@ and earlier sources win when two disagree on a player's team or position.
 
 from app.sources.players.base import PlayerSource
 from app.sources.players.espn import EspnPlayers
+from app.sources.players.fanscout import FanScoutPlayers
+from app.sources.players.fantrax import FantraxPlayers
 from app.sources.players.nba_index import NbaIndex
 from app.sources.players.yahoo_pubapi import YahooPlayers
 
-SOURCES: dict[str, PlayerSource] = {s.key: s for s in (NbaIndex(), YahooPlayers(), EspnPlayers())}
+SOURCES: dict[str, PlayerSource] = {s.key: s for s in (
+    NbaIndex(), YahooPlayers(), EspnPlayers(), FantraxPlayers(), FanScoutPlayers())}

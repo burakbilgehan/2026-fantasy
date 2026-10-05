@@ -1,5 +1,7 @@
 [
   {"a": "hashtag:Nicolas Claxton", "b": "nba:1629651"},
   {"a": "hashtag:Ron Holland II", "b": "nba:1641842"},
-  {"a": "hashtag:Alexandre Sarr", "b": "nba:1642259"}
+  {"a": "hashtag:Alexandre Sarr", "b": "nba:1642259"},
+  {"a": "fantrax:051pb", "b": "nba:1629651"},
+  {"a": "fantrax:06mjx", "b": "nba:1641842"}
 ]

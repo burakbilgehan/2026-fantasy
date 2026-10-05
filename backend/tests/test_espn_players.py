@@ -74,7 +74,7 @@ def test_projection_without_gp_is_dropped(players):
 
 
 def test_espn_never_owns_identity_of_known_players(db, players):
-    assert list(SOURCES)[-1] == "espn"
+    assert list(SOURCES).index("espn") > list(SOURCES).index("yahoo")
     p = Player(first_name="Nikola", last_name="Jokić", name_key=name_key("Nikola", "Jokić"),
                team="DEN", position="C", identity_source="yahoo", updated_at=datetime.now(UTC))
     db.add(p)

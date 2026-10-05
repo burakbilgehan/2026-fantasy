@@ -53,6 +53,9 @@ class SourcePlayer:
     past_projections: list[StatLine] = field(default_factory=list)  # preseason projections of past seasons
     actual: list[StatLine] = field(default_factory=list)
     market: MarketValue | None = None
+    # Ids of the same player in other sources, like [("nba", "1642851")]. The sync links by
+    # them and records the ones the player does not have yet.
+    aliases: list[tuple[str, str]] = field(default_factory=list)
 
 
 class PlayerSource(Protocol):

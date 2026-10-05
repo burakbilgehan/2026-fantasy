@@ -46,3 +46,19 @@ def stats() -> dict:
             kinds[kind] = kinds.get(kind, 0) + 1
         out[path.parent.name] = {"file": str(path), "events": len(lines), "kinds": kinds}
     return out
+
+
+@router.post("/fantrax-projections")
+async def fantrax_projections(request: Request) -> dict:
+    """Fantrax projection rows sent from a logged-in Fantrax tab (T-025).
+
+    Fantrax projections need a login (see app/sources/players/fantrax.py). A script in the
+    user's own Fantrax tab reads them and posts them here as text/plain (no-cors), so no
+    Fantrax password or cookie ever reaches this backend. Saved raw; `make players-sync
+    SOURCE=fantrax` reads the newest file.
+    """
+    from app.sources.players.base import save_raw
+
+    body = json.loads(await request.body())
+    save_raw("fantrax_projections", body)
+    return {"ok": True, "rows": len(body.get("rows", []))}
