@@ -38,12 +38,13 @@ docs/
 
 ## Core tables (first draft)
 - Player tables (built, 2026-10-04, T-007). Rule: a new source adds rows, never columns.
-  - `players`: identity only (name, normalized `name_key`, team, position). `team` comes from NBA.com when the player is on a roster. Players without an NBA.com id keep the team their source reports, which can be stale for free agents.
+  - `players`: identity only (name, normalized `name_key`, team, position), plus `birth_date` and `birth_date_source` (migration 0010: `espn` exact, `nba_age` approximate, up to 6 months off; `make birthdates-sync`). `team` comes from NBA.com when the player is on a roster. Players without an NBA.com id keep the team their source reports, which can be stale for free agents.
   - `player_external_ids`: (player, source, external id). Yahoo id, NBA person id, later others.
   - `player_projections`: season totals per (player, source, season). Columns: gp, fgm, fga, ftm, fta, tpm, pts, reb, ast, stl, blk, tov.
   - `player_season_stats`: actual season totals, same columns. Both tables also have `min` (total minutes, nullable: only sources that have it fill it). Past seasons are rows with another `season`.
   - `player_game_logs`: one row per player per game played (source, season, game id, date, team, opponent, home, minutes, the 11 box score fields). Past seasons from stats.nba.com.
   - `player_game_logs.season_type`: `regular` or `preseason` (migration 0007). Season totals are regular season only.
+  - Own projection (T-025): `player_projections` sources `own`, `own-floor`, `own-ceiling` (with `extra`: where minutes and rates came from). Inputs on top of the base in `projection_adjustments` (source `llm` or `manual`; manual wins per field). Code `backend/app/analytics/projection/`, job `app/jobs/projection.py`. Prompts in `prompts/projection_team/` (source, edit here); generated files in `data/projection_context/` (not in git, never edit).
   - `player_minutes_projections` (T-026): minutes per game from sources without a full stat line (DARKO: no GP; FantasyPros: no shot attempts). Other source fields in `extra`. ESPN minutes stay in `player_projections.min`.
   - `depth_charts` (T-026): one row per player per team slot (source, team, slot, tier `depth`, list `order`, `player_pk` or null). A sync replaces the source's rows.
   - `team_win_totals` (T-026): season win total line per NBA team.
@@ -74,8 +75,8 @@ docs/
 - Code: `backend/app/sources/players/`. A source implements `PlayerSource` (`base.py`): `fetch()` downloads and saves the raw copy, `parse(raw, season)` returns `SourcePlayer` objects. Sources never touch the DB.
 - `app/jobs/sync_players.py` links each `SourcePlayer` to a `players` row and replaces the source's rows for the season. `make players-sync` (all) or `make players-sync SOURCE=yahoo`. API: `GET /api/players/sources`, `GET /api/players?source=yahoo`, `POST /api/players/sync`.
 - Identity matching, in order: known source id; manual link in `id_links.json`; unique name; same name and same team. Else a new row. A wrong merge is worse than a duplicate. The job prints ambiguous names: add a link for each real duplicate.
-- Registry order = priority. The first source that lists a player owns name, team and position. Now: `nba` (NBA.com roster), `yahoo`, then `espn`.
-- Past seasons: `make past-stats-sync` (`app/jobs/sync_past_stats.py`, stats.nba.com totals, default the 3 seasons before `CURRENT_SEASON`). Rows in `player_season_stats` with source `nba`. Links to existing players only (same Resolver); never creates a player or changes identity. Run after `make players-sync`.
+- Registry order = priority. The first source that lists a player owns name, team and position. Now: `nba` (NBA.com roster), `yahoo`, `espn`, then `fantrax` (ADP only).
+- Past seasons: `make past-stats-sync` (`app/jobs/sync_past_stats.py`, stats.nba.com totals, default the 4 seasons before `CURRENT_SEASON`). Rows in `player_season_stats` with source `nba`. Links to existing players only (same Resolver); never creates a player or changes identity. Run after `make players-sync`.
 - Game logs: `make game-logs-sync` (`app/jobs/sync_game_logs.py`, stats.nba.com `leaguegamelog`, same seasons and same linking rules). Rows in `player_game_logs`.
 - Season label: `CURRENT_SEASON` env var, default `2026-27` (`app/seasons.py`).
 
@@ -96,8 +97,8 @@ How to add a source (example: Hashtag Basketball):
 
 ## Automatic refresh
 - `app/jobs/refresh.py`. The backend runs stale jobs on start and then every hour (thread started in the FastAPI lifespan). A job is stale when its last success is older than its TTL. A failed job waits 1 hour before the next try. One failed job does not stop the others.
-- Jobs and TTL: `hashtag` 6 h, `darko` 12 h, `fantasypros` 12 h, `vegas` 24 h, `game_logs_current` 6 h (stats.nba.com, preseason and regular season of `CURRENT_SEASON`).
-- Not in the loop: `players-sync` (Yahoo feed is on demand only). Run it by hand, also on draft morning.
+- Jobs and TTL: `hashtag` 6 h, `darko` 12 h, `fantasypros` 12 h, `vegas` 24 h, `game_logs_current` 6 h (stats.nba.com, preseason and regular season of `CURRENT_SEASON`), `espn` 12 h (ESPN player feed: projections and projected minutes), `fantrax` 12 h (Fantrax ADP), `birthdates` 7 days.
+- Not in the loop: the Yahoo player feed (on demand only). Run `make players-sync SOURCE=yahoo` by hand, also on draft morning. `make refresh-all` runs every refresh job (forced) and then the Yahoo feed.
 - `GET /api/sync/status` (last run, last success, stale), `POST /api/sync/refresh?force=`. `make refresh` (`ARGS=--force` runs all). `AUTO_REFRESH=0` in `.env` stops the loop. Tests set it to 0 (`tests/conftest.py`).
 - Add a job: a function that returns a one-line summary, then one `Job(...)` line in `JOBS`.
 

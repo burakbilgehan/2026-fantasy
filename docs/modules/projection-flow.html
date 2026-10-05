@@ -1,0 +1,165 @@
+<title>Projection Data Flow</title>
+<!-- Template for `make flow` (backend/app/jobs/flow.py). Edit here when sources or the flow change. -->
+<style>
+/* Layout: one wide Sankey (scrolls on its own), then a ledger of every source below. */
+:root {
+  --bg: #f6f7f4; --panel: #ffffff; --fg: #1c211d; --muted: #66706a; --line: #dfe3dc;
+  --auto: #2f8a5b;      /* script, scheduled */
+  --manual: #c07a12;    /* script, needs the user (Chrome login) */
+  --llm: #7a4fc4;       /* claude -p */
+  --code: #2f6fb0;      /* our own calculation */
+  --store: #8a8f88;     /* database / files */
+  --out: #c2412f;       /* end product */
+  --font-display: "Fraunces", Georgia, serif;
+  --font-body: "IBM Plex Sans", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #121513; --panel: #1a1e1b; --fg: #e7ebe6; --muted: #9aa49d; --line: #2d332f;
+  --auto: #5fc28d; --manual: #e3a548; --llm: #a888e6; --code: #6fa6dd; --store: #8f968f; --out: #ec7a68; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #121513; --panel: #1a1e1b; --fg: #e7ebe6; --muted: #9aa49d; --line: #2d332f;
+  --auto: #5fc28d; --manual: #e3a548; --llm: #a888e6; --code: #6fa6dd; --store: #8f968f; --out: #ec7a68; color-scheme: dark }
+body { background: var(--bg); color: var(--fg); font: 15px/1.5 var(--font-body); }
+.wrap { max-width: 1280px; margin: 0 auto; padding-inline: 16px; padding-block: 28px 64px; }
+h1 { font-family: var(--font-display); font-weight: 600; font-size: clamp(1.6rem, 3vw, 2.3rem); margin: 0 0 6px; text-wrap: balance; }
+h2 { font-family: var(--font-display); font-weight: 600; font-size: 1.3rem; margin: 40px 0 10px; text-wrap: balance; }
+p { max-width: 68ch; margin: 0 0 10px; }
+.muted { color: var(--muted); }
+.legend { display: flex; flex-wrap: wrap; gap: 8px 18px; margin: 18px 0 14px; font-size: .88rem; }
+.legend span { display: inline-flex; align-items: center; gap: 7px; }
+.legend i { width: 14px; height: 14px; border-radius: 3px; display: inline-block; }
+.chart { overflow-x: auto; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px; }
+.chart svg { display: block; }
+.colhead { font: 600 11px var(--font-body); letter-spacing: .08em; text-transform: uppercase; fill: var(--muted); }
+.nlabel { font: 12.5px var(--font-body); fill: var(--fg); }
+.nsub { font: 11px var(--font-mono); fill: var(--muted); }
+.link { fill: none; stroke-opacity: .28; transition: stroke-opacity .15s; }
+.link:hover, .link.hot { stroke-opacity: .6; }
+.node rect { stroke: var(--panel); stroke-width: 1; }
+.ledger { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; background: var(--panel); font-variant-numeric: tabular-nums; font-size: .9rem; }
+th, td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-size: .75rem; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+td code { font-family: var(--font-mono); font-size: .82rem; }
+.pill { display: inline-block; padding: 1px 8px; border-radius: 999px; font-size: .78rem; font-weight: 600; color: var(--panel); white-space: nowrap; }
+.p-auto { background: var(--auto); } .p-manual { background: var(--manual); } .p-llm { background: var(--llm); } .p-code { background: var(--code); }
+.steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+.step { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 14px; min-width: 0; }
+.step b { display: block; margin-bottom: 4px; }
+.step code { font-family: var(--font-mono); font-size: .82rem; }
+</style>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;600&display=swap">
+
+<div class="wrap">
+  <h1>How the projection report is made</h1>
+  <p class="muted">From outside sources to <code>ALL.html</code> and the site's value table. Colors show who does the work at each step. Generated 2026-10-05 12:41 UTC by <code>make flow</code>. Ages are the time since the last successful fetch.</p>
+
+  <div class="legend" aria-label="Legend">
+    <span><i style="background:var(--auto)"></i>Script, runs by itself</span>
+    <span><i style="background:var(--manual)"></i>Script, needs your Chrome login</span>
+    <span><i style="background:var(--llm)"></i>LLM (claude -p)</span>
+    <span><i style="background:var(--code)"></i>Our own calculation</span>
+    <span><i style="background:var(--store)"></i>Database or files</span>
+    <span><i style="background:var(--out)"></i>End product</span>
+  </div>
+
+  <div class="chart"><pre class="mermaid">
+flowchart LR
+  subgraph S["Outside sources"]
+    yahoo["Yahoo<br/>projection, games<br/>10-04 00:38 (36 h ago)"]:::auto
+    fanscout["FanScout<br/>projection, minutes<br/>10-05 09:47 (3 h ago)"]:::auto
+    fantrax["Fantrax<br/>projection, minutes<br/>10-05 09:03 (4 h ago)"]:::manual
+    espn["ESPN<br/>projection, minutes<br/>10-05 07:12 (5 h ago)"]:::auto
+    fpros["FantasyPros<br/>line, minutes<br/>10-05 05:27 (7 h ago)"]:::auto
+    roles["DARKO, Hashtag, Vegas<br/>skill, depth, wins<br/>10-05 05:27 (7 h ago)"]:::auto
+    nbastats["stats.nba.com<br/>4 seasons, logs, usage<br/>10-05 07:12 (5 h ago)"]:::auto
+    nbacom["NBA.com<br/>rosters<br/>10-05 12:23 (0 h ago)"]:::auto
+    espnbio["ESPN rosters<br/>birth dates<br/>10-05 07:13 (5 h ago)"]:::auto
+    videos["Locked On videos<br/>96 videos, newest note 10-04 16:16 (20 h ago)"]:::llm
+  end
+  subgraph D["Database and files"]
+    tproj[("player_projections")]:::store
+    tmin[("minutes and roles")]:::store
+    thist[("season stats, game logs")]:::store
+    tplayers[("players: team, birth date")]:::store
+    notes[("video notes")]:::store
+  end
+  subgraph B["Building blocks"]
+    statmodel["Own stat model<br/>fit on past seasons"]:::code
+    profiles["Profiles and articles<br/>331 player profiles, built 10-04 22:57 (14 h ago)"]:::llm
+    ctxdata["Team tables<br/>splits, vacated volume, usage"]:::code
+  end
+  subgraph J["Base and judgment"]
+    base["Consensus base (own-base)<br/>10-05 12:23 (0 h ago)<br/>Yahoo 2, FanScout 1, Fantrax 1,<br/>ESPN 1, FantasyPros 1, stat model 1"]:::code
+    llmctx["LLM context layer<br/>one call per team<br/>30 teams, prompt v6, oldest 10-05 10:32 (2 h ago)"]:::llm
+  end
+  apply["Apply decisions<br/>own, floor, ceiling"]:::code
+  all(["ALL.html report<br/>10-05 12:24 (0 h ago)"]):::out
+  site(["Site value table<br/>source: own"]):::out
+
+  yahoo ==> tproj
+  fanscout --> tproj
+  fantrax --> tproj
+  espn --> tproj
+  fpros --> tmin
+  roles -.-> tmin
+  nbastats --> thist
+  nbacom --> tplayers
+  espnbio -.-> tplayers
+  videos ==> notes
+  tproj ==> base
+  tmin --> base
+  thist --> statmodel
+  tplayers -.-> statmodel
+  statmodel --> base
+  tmin -.-> llmctx
+  thist -.-> ctxdata
+  tplayers --> ctxdata
+  notes ==> profiles
+  profiles ==> llmctx
+  ctxdata --> llmctx
+  base ==> llmctx
+  base ==> apply
+  llmctx ==> apply
+  apply ==> all
+  apply ==> site
+
+  classDef auto fill:#2f8a5b,stroke:#2f8a5b,color:#ffffff
+  classDef manual fill:#c07a12,stroke:#c07a12,color:#ffffff
+  classDef llm fill:#7a4fc4,stroke:#7a4fc4,color:#ffffff
+  classDef code fill:#2f6fb0,stroke:#2f6fb0,color:#ffffff
+  classDef store fill:#8a8f88,stroke:#8a8f88,color:#ffffff
+  classDef out fill:#c2412f,stroke:#c2412f,color:#ffffff
+</pre></div>
+<p class="muted" style="margin-top:8px">Thick arrow = a main stream into the numbers. Dashed arrow = context or small input.</p>
+
+<h2>Every source</h2>
+  <div class="ledger">
+    <table>
+      <tr><th>Source</th><th>What we take</th><th>How</th><th>Refresh</th><th>Last fetch</th><th>Weight in the base</th></tr>
+      <tr><td>Yahoo</td><td>Projection (no minutes), games played, prices, injuries</td><td><span class="pill p-auto">script</span> <code>yahoo_pubapi.py</code></td><td>7 days</td><td>10-04 00:38 (36 h ago)</td><td>stats 2, games: the only source</td></tr>
+      <tr><td>FanScout</td><td>Projection with minutes, 477 players (30 team pages)</td><td><span class="pill p-auto">script</span> <code>fanscout.py</code></td><td>1 day</td><td>10-05 09:47 (3 h ago)</td><td>stats 1, minutes 1</td></tr>
+      <tr><td>Fantrax projections</td><td>Projection with minutes, 574 players</td><td><span class="pill p-manual">Chrome script</span> <code>fantrax_capture.js</code></td><td>7 days, asks you first</td><td>10-05 09:03 (4 h ago)</td><td>stats 1, minutes 1</td></tr>
+      <tr><td>Fantrax ADP</td><td>Average draft position</td><td><span class="pill p-auto">script</span> <code>fantrax.py</code></td><td>12 hours</td><td>10-05 09:03 (4 h ago)</td><td>site column only</td></tr>
+      <tr><td>ESPN</td><td>Projection with minutes, prices</td><td><span class="pill p-auto">script</span> <code>espn.py</code></td><td>12 hours</td><td>10-05 07:12 (5 h ago)</td><td>stats 1, minutes 1</td></tr>
+      <tr><td>FantasyPros</td><td>Consensus line (no shot attempts), minutes</td><td><span class="pill p-auto">script</span> <code>roles/fantasypros.py</code></td><td>12 hours</td><td>10-05 05:27 (7 h ago)</td><td>stats 1, minutes 1</td></tr>
+      <tr><td>Own stat model</td><td>Last 3 seasons per minute, regressed, aged</td><td><span class="pill p-code">code</span> <code>projection/engine.py</code></td><td>daily with the base</td><td>10-05 12:23 (0 h ago)</td><td>stats 1</td></tr>
+      <tr><td>DARKO</td><td>Per-100 skill rates</td><td><span class="pill p-auto">script</span> <code>roles/darko.py</code></td><td>12 hours</td><td>10-05 05:27 (7 h ago)</td><td>0, info for the LLM only</td></tr>
+      <tr><td>Hashtag</td><td>Depth charts</td><td><span class="pill p-auto">script</span> <code>roles/hashtag.py</code></td><td>6 hours</td><td>10-05 12:07 (1 h ago)</td><td>LLM input</td></tr>
+      <tr><td>Vegas</td><td>Team win totals</td><td><span class="pill p-auto">script</span> <code>roles/vegas.py</code></td><td>1 day</td><td>10-04 16:40 (20 h ago)</td><td>LLM input</td></tr>
+      <tr><td>NBA.com</td><td>Rosters: the only team source</td><td><span class="pill p-auto">script</span> <code>nba_index.py</code></td><td>1 day</td><td>10-05 12:23 (0 h ago)</td><td>decides who is on a team</td></tr>
+      <tr><td>stats.nba.com</td><td>4 seasons of totals, game logs, usage</td><td><span class="pill p-auto">script</span> <code>nba_stats.py</code>, <code>nba_gamelog.py</code></td><td>past: once; current: 6 hours</td><td>10-05 07:12 (5 h ago)</td><td>stat model, splits, LLM tables</td></tr>
+      <tr><td>ESPN rosters</td><td>Birth dates, NBA experience</td><td><span class="pill p-auto">script</span> <code>birthdates.py</code></td><td>7 days</td><td>10-05 07:13 (5 h ago)</td><td>age curve, LLM tables</td></tr>
+      <tr><td>Locked On videos</td><td>Expert notes (96 videos)</td><td><span class="pill p-llm">LLM</span> <code>make expert-digest</code></td><td>when you add videos</td><td>96 videos, newest note 10-04 16:16 (20 h ago)</td><td>profiles, articles, LLM input</td></tr>
+    </table>
+  </div>
+
+  <h2>What runs when</h2>
+  <div class="steps">
+    <div class="step"><b>Every hour (backend on)</b>Each source checks its own age and refetches only when stale. The base is rebuilt once a day and the stored LLM decisions are applied again. Free.</div>
+    <div class="step"><b>When you add videos</b><code>make expert-digest</code> then <code>make knowledge-run</code>. At its end the LLM layer reruns only for teams whose notes or roster changed.</div>
+    <div class="step"><b>Weekly or on news</b><code>make projection-update</code>: teams with changed notes or roster, a new prompt, or 7+ days old. About 1 USD per team.</div>
+    <div class="step"><b>Read the result</b><code>make projection-review TEAM=all</code> writes <code>ALL.html</code>. The site's value table reads the same rows (source "own").</div>
+  </div>
+</div>

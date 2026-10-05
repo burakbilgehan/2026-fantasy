@@ -23,6 +23,10 @@ Add a term when you meet it in a note, a source or a session. Tags used on playe
 - **Shutdown risk**: his NBA team may stop playing him late in the season (team out of the race, minor injuries).
 - **Depth chart**: a team's players per position slot (PG, SG, SF, PF, C), starter first. In our data from Hashtag Basketball, with a tier per player (1 = starter, 2 = second unit, then 3 and 4). Several players can share a tier.
 - **Projected minutes (MPG)**: minutes per game a source expects a player to play. Base of our own projection (T-025).
+- **Usage rate (USG%)**: share of the team's plays a player finishes (shot, free throws, turnover) while he is on the floor. With minutes, it sets his shot, free throw, assist and turnover volume. From stats.nba.com advanced stats; the context layer of T-025 projects it.
+- **Vacated volume**: the share of last season's team minutes, shots and assists that belonged to players who have left. It goes to someone else this season.
+- **With / without split**: a player's per-36 numbers in games with and without a given teammate. Evidence of how his role changes when the teammate is gone.
+- **Own projection, own base, floor, ceiling** (T-025): "own base" = our code projection (minutes x regressed per-minute rates x games). "Own" = own base plus the context layer (LLM) and manual corrections. Floor and ceiling = the 15th and 85th percentile season of performance per game, with the same games as "own".
 - **Win total**: the betting line for a team's season wins (over/under). We use it as a sign of team strength and of late-season rest risk.
 - **Injury prone**: the expert expects missed games. Lloyd's rule: repeated injuries or surgery on the same lower-body part.
 

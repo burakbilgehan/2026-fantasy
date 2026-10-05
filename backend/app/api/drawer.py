@@ -32,6 +32,9 @@ def player_card(player_pk: int) -> dict:
         espn = db.scalar(select(PlayerMarketValue).where(
             PlayerMarketValue.player_pk == player_pk, PlayerMarketValue.source == "espn",
             PlayerMarketValue.season == CURRENT_SEASON))
+        fantrax = db.scalar(select(PlayerMarketValue).where(
+            PlayerMarketValue.player_pk == player_pk, PlayerMarketValue.source == "fantrax",
+            PlayerMarketValue.season == CURRENT_SEASON))
         numbers = stats.load(db, player_pk)
         usage = [{"season": a.season, "usg_pct": a.usg_pct, "ts_pct": a.ts_pct, "gp": a.gp}
                  for a in db.scalars(select(PlayerAdvancedStats).where(
@@ -56,6 +59,7 @@ def player_card(player_pk: int) -> dict:
         "prices": {
             "yahoo_average_cost": yahoo.average_cost if yahoo else None,
             "espn_average_cost": espn.average_cost if espn else None,
+            "fantrax_adp": fantrax.average_pick if fantrax else None,
             "league_last": numbers.league_price,
             "league_last_season": numbers.league_season,
         },
@@ -91,6 +95,12 @@ def team_depth(team: str) -> dict:
         espn = {r.player_pk: r.min / r.gp for r in db.scalars(select(PlayerProjection).where(
             PlayerProjection.source == "espn", PlayerProjection.season == CURRENT_SEASON,
             PlayerProjection.player_pk.in_(pks))) if r.min and r.gp}
+        fantrax = {r.player_pk: r.min / r.gp for r in db.scalars(select(PlayerProjection).where(
+            PlayerProjection.source == "fantrax", PlayerProjection.season == CURRENT_SEASON,
+            PlayerProjection.player_pk.in_(pks))) if r.min and r.gp}
+        fanscout = {r.player_pk: r.min / r.gp for r in db.scalars(select(PlayerProjection).where(
+            PlayerProjection.source == "fanscout", PlayerProjection.season == CURRENT_SEASON,
+            PlayerProjection.player_pk.in_(pks))) if r.min and r.gp}
         other: dict[str, dict[int, float]] = {}
         for r in db.scalars(select(PlayerMinutesProjection).where(
                 PlayerMinutesProjection.season == CURRENT_SEASON, PlayerMinutesProjection.player_pk.in_(pks))):
@@ -101,7 +111,7 @@ def team_depth(team: str) -> dict:
         pk = r.player_pk
         slots.setdefault(r.slot, []).append({
             "player_id": pk, "name": r.player_name, "depth": r.depth,
-            "minutes": {"espn": espn.get(pk), "darko": other.get("darko", {}).get(pk),
+            "minutes": {"espn": espn.get(pk), "fanscout": fanscout.get(pk), "fantrax": fantrax.get(pk), "darko": other.get("darko", {}).get(pk),
                         "fantasypros": other.get("fantasypros", {}).get(pk)},
         })
     page = index.read_page(index.TEAM_MD_DIR / f"{team}.md")

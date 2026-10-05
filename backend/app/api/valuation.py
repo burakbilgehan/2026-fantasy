@@ -172,7 +172,7 @@ def values(
     out = []
     for pk, r in base.items():
         p, v, mk = players[pk], result.get(pk), market.get(pk, {})
-        y, e, yn = mk.get("yahoo"), mk.get("espn"), yahoo_now.get(pk)
+        y, e, fx, yn = mk.get("yahoo"), mk.get("espn"), mk.get("fantrax"), yahoo_now.get(pk)
         out.append({
             "player_id": pk,
             "nba_id": nba.get(pk),
@@ -190,6 +190,7 @@ def values(
                 "yahoo_auction_value": y.auction_value if y else None,
                 "yahoo_average_cost": y.average_cost if y else None,
                 "espn_average_cost": e.average_cost if e else None,
+                "fantrax_adp": fx.average_pick if fx else None,
             },
         })
     out.sort(key=lambda x: x["rank"] or 10**6)

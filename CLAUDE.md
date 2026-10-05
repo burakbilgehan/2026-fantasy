@@ -23,8 +23,17 @@ One local backend, one database, one frontend. Features are widgets on that fron
 - `docs/DATA_SOURCES.md`: every external source, with verification status.
 - `docs/modules/draft.md`: draft tool spec.
 - `docs/modules/valuation.md`: valuation spec (T-017, T-010): pickers, model list with descriptions, backtest plan.
+- `docs/modules/projection.md`: own projection spec (T-025): base layer, LLM context layer, where to change the model, commands.
 - `docs/modules/knowledge.md`: expert knowledge synthesis spec (T-022): profiles, tags, articles.
 - `prompts/`: every prompt and model setting sent to `claude -p`, one folder per job. Keep it current; code reads it from there.
+
+## Data freshness (user rule, 2026-10-05)
+- No data source may be older than a week. `make sources` shows every source with its last fetch and age and fetches only the stale ones. Run it at the start of any session that uses source data (projections, values, draft).
+- Fantrax projections need the user's logged-in Chrome tab: when `make sources` marks `fantrax_projections` STALE, ask the user, then run the fixed script `backend/app/sources/players/fantrax_capture.js` in a logged-in Fantrax tab (Claude in Chrome), poll `window.__fantraxCapture`, then `make players-sync SOURCE=fantrax`. No improvising: every fetch goes through a script.
+- `make projection-context` checks and refreshes stale sources by itself before the LLM runs.
+- Team rosters come only from NBA.com (`nba_rosters` job, daily). Other sources never set a team.
+- Data flow diagram (user rule, 2026-10-05): `docs/modules/projection-flow.html`, published at https://claude.ai/artifact/Rw4PjAqVkZjrtv3WnNFerU . When a source or a step of the flow changes, edit the template `backend/app/analytics/projection/flow_template.html` (and its ledger table). After any change or refresh: `make flow`, then republish the file to that same URL.
+- Own projection stays current in two layers: the base is rebuilt daily from the sources (`projection_base` job, free); the LLM layer reruns per team when that team's expert notes or roster change, when the prompt version changes, or after 7 days (`make projection-update`, also run at the end of `make knowledge-run`).
 
 ## Related local projects (reference only, do not edit)
 - `~/projects/fantasy-basketball`: older Next.js attempt (Jan 2026). Has a Yahoo client (`lib/yahoo/`) and specs.

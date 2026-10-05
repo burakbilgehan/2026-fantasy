@@ -48,6 +48,8 @@ function Header({ card, selected }: { card: PlayerCard; selected: ModelValue | n
       title: 'Dollars of the model selected in the value table' },
     { label: 'Yahoo avg', value: money(p.yahoo_average_cost, 1), title: 'Yahoo average auction cost' },
     { label: 'ESPN avg', value: money(p.espn_average_cost, 1), title: 'ESPN average auction price' },
+    { label: 'Fantrax ADP', value: p.fantrax_adp == null ? '-' : p.fantrax_adp.toFixed(1),
+      title: 'Fantrax average draft position (no auction prices on Fantrax)' },
     { label: `Our league ${p.league_last_season}`, value: p.league_last == null ? 'not drafted' : `$${p.league_last}`,
       title: 'Price in our league auction last season' },
   ]
@@ -213,6 +215,8 @@ function DepthChart({ depth, playerId, onOpenPlayer }:
         <tr>
           <th>Slot</th><th>Player</th>
           <th className="num" title="ESPN projection: minutes / games">ESPN</th>
+          <th className="num" title="FanScout projection: minutes per game">FanScout</th>
+          <th className="num" title="Fantrax projection: minutes per game">Fantrax</th>
           <th className="num" title="DARKO projected minutes per game">DARKO</th>
           <th className="num" title="FantasyPros projected minutes per game">FPros</th>
         </tr>
@@ -229,6 +233,8 @@ function DepthChart({ depth, playerId, onOpenPlayer }:
               {p.player_id == null && <small className="muted" title="Name not matched to a player"> (unmatched)</small>}
             </td>
             <td className="num">{mins(p.minutes.espn)}</td>
+            <td className="num">{mins(p.minutes.fanscout)}</td>
+            <td className="num">{mins(p.minutes.fantrax)}</td>
             <td className="num">{mins(p.minutes.darko)}</td>
             <td className="num">{mins(p.minutes.fantasypros)}</td>
           </tr>

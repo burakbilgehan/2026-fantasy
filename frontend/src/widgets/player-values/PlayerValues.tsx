@@ -64,6 +64,8 @@ function columns(cats: string[], view: 'stats' | 'z', usageSeason?: string, usag
       value: (p) => p.market.yahoo_average_cost, fmt: money },
     { key: 'e_cost', label: 'ESPN avg', title: 'ESPN average auction price', group: 'Market', num: true,
       value: (p) => p.market.espn_average_cost, fmt: money },
+    { key: 'f_adp', label: 'Fantrax ADP', title: 'Fantrax average draft position (Fantrax has no auction prices; its scale runs longer than ESPN and Yahoo)',
+      group: 'Market', num: true, value: (p) => p.market.fantrax_adp, fmt: one },
     { key: 'gp', label: 'GP', title: 'Games played', group: 'Playing time', num: true, className: 'group-start',
       value: (p) => p.stats.gp, fmt: (v) => v.toFixed(0) },
     { key: 'min', label: 'MIN', title: 'Minutes per game', group: 'Playing time', num: true,

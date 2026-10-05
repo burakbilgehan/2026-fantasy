@@ -108,7 +108,7 @@ export type ValuedPlayer = {
   total: number | null
   rank: number | null
   dollars: number | null
-  market: { yahoo_auction_value: number | null; yahoo_average_cost: number | null; espn_average_cost: number | null }
+  market: { yahoo_auction_value: number | null; yahoo_average_cost: number | null; espn_average_cost: number | null; fantrax_adp: number | null }
 }
 
 export type Valuation = {
@@ -127,6 +127,7 @@ export type PlayerCard = {
   prices: {
     yahoo_average_cost: number | null
     espn_average_cost: number | null
+    fantrax_adp: number | null
     league_last: number | null
     league_last_season: string
   }
@@ -165,7 +166,7 @@ export type DepthPlayer = {
   player_id: number | null
   name: string
   depth: number
-  minutes: { espn: number | null; darko: number | null; fantasypros: number | null }
+  minutes: { espn: number | null; fanscout: number | null; fantrax: number | null; darko: number | null; fantasypros: number | null }
 }
 
 export type TeamDepth = {
