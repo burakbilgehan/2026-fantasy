@@ -70,7 +70,7 @@ export type LiveDraft = {
   unknown: Record<string, number>
 }
 
-export type ValuationBase = { kind: 'projection' | 'actual'; source: string; season: string; players: number }
+export type ValuationBase = { kind: 'projection' | 'actual'; source: string; season: string; players: number; label?: string }
 
 export type ValuationOptions = {
   bases: ValuationBase[]
@@ -294,9 +294,37 @@ export const api = {
     return request<PlayerModels>(`/api/valuation/player/${id}?${params}`)
   },
   playerCard: (id: number) => request<PlayerCard>(`/api/players/${id}/card`),
+  playerProjection: (id: number) => request<PlayerProjection>(`/api/players/${id}/projection`),
   playerTags: (id: number) => request<PlayerTag[]>(`/api/knowledge/players/${id}/tags`),
   teamDepth: (team: string) => request<TeamDepth>(`/api/teams/${team}/depth`),
   tags: () => request<TagCount[]>('/api/knowledge/tags'),
   tagPlayers: (tag: string) => request<TagPlayer[]>(`/api/knowledge/tags/${encodeURIComponent(tag)}`),
   article: (slug: string) => request<Article>(`/api/knowledge/articles/${slug}`),
+}
+
+// T-025 own projection for the player drawer: every source line, usage, the LLM's judgment.
+export type ProjectionLine = {
+  key: string
+  label: string
+  gp: number
+  min: number | null
+  fgm: number; fga: number; ftm: number; fta: number
+  tpm: number; pts: number; reb: number; ast: number; stl: number; blk: number; tov: number
+}
+
+export type PlayerProjection = {
+  season: string
+  lines: ProjectionLine[]
+  usage: { projected: number | null; history: { season: string; usg_pct: number }[] }
+  judgment: {
+    source: string
+    model: string | null
+    updated_at: string
+    usg: number | null; mpg: number | null; gp: number | null
+    games_out: number | null; late_games_out: number | null
+    multipliers: Record<string, number>
+    summary: string | null
+    reasons: { field: string; text: string; sources?: string[] }[]
+  }[]
+  base_sources: string[]
 }

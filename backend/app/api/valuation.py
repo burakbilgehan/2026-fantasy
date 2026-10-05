@@ -25,6 +25,12 @@ DOLLARS = {
 DEFAULTS = {"kind": "projection", "source": "yahoo", "season": CURRENT_SEASON, "basis": "totals",
             "model": "minus1", "dollars": "plain", "pool": 200, "spread": 10.0}
 NON_DRAFT_SLOTS = {"IL", "IL+", "NA"}
+# Display names of the bases, in picker order (T-025 own projection first).
+SOURCE_LABELS = {
+    "own": "Own (LLM judged)", "own-base": "Own base (consensus)", "own-floor": "Own floor",
+    "own-ceiling": "Own ceiling", "own-stat": "Own stat model", "yahoo": "Yahoo", "fanscout": "FanScout",
+    "fantrax": "Fantrax", "espn": "ESPN", "nba": "NBA",
+}
 
 
 def _league_draft() -> tuple[int, float]:
@@ -61,7 +67,13 @@ def options() -> dict:
                 select(model.source, model.season, func.count()).group_by(model.source, model.season)
                 .order_by(model.season.desc(), model.source)
             ):
-                bases.append({"kind": kind, "source": source, "season": season, "players": n})
+                label = SOURCE_LABELS.get(source, source.upper())
+                kind_label = "projection" if kind == "projection" else "real stats"
+                bases.append({"kind": kind, "source": source, "season": season, "players": n,
+                              "label": f"{season} {label} {kind_label} ({n})"})
+    # Our own projection first, then the outside projections, then real stats (newest season first).
+    order = {s: i for i, s in enumerate(SOURCE_LABELS)}
+    bases.sort(key=lambda b: (b["kind"] != "projection", -int(b["season"][:4]), order.get(b["source"], 99)))
     n_drafted, budget = _league_draft()
     return {
         "bases": bases,

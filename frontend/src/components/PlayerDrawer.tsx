@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState, type ReactNode } from 'react'
 import {
-  api, type Article, type ModelValue, type PlayerCard, type PlayerModels, type PlayerTag, type TeamDepth,
+  api, type Article, type ModelValue, type PlayerCard, type PlayerModels, type PlayerProjection, type PlayerTag, type TeamDepth,
   type ValuationQuery,
 } from '../api/client'
 import { CAT_LABEL } from '../lib/categories'
@@ -194,6 +194,77 @@ function CategoryRadar({ m, stats }: { m: ModelValue; stats?: Record<string, num
   )
 }
 
+const PROJ_COLS = ['tpm', 'pts', 'reb', 'ast', 'stl', 'blk', 'tov'] as const
+const PROJ_LABEL: Record<string, string> = { tpm: '3PM', pts: 'PTS', reb: 'REB', ast: 'AST', stl: 'STL', blk: 'BLK', tov: 'TO' }
+
+/** T-025: our projection next to every source, usage, and the LLM's judgment with reasons. */
+function OwnProjection({ p }: { p: PlayerProjection }) {
+  if (!p.lines.length) return <p className="hint">No projection for this player.</p>
+  const pct = (m: number, a: number) => (a ? `${((100 * m) / a).toFixed(1)} (${(a / 1).toFixed(1)})` : '-')
+  const usg = p.usage
+  return (
+    <>
+      <div className="table-scroll">
+        <table className="proj-table">
+          <thead>
+            <tr>
+              <th>Line</th><th className="num">GP</th><th className="num">MIN</th>
+              <th className="num" title="FG% (attempts per game)">FG% (FGA)</th>
+              <th className="num" title="FT% (attempts per game)">FT% (FTA)</th>
+              {PROJ_COLS.map((c) => <th key={c} className="num">{PROJ_LABEL[c]}</th>)}
+            </tr>
+          </thead>
+          <tbody>
+            {p.lines.map((l) => {
+              const g = l.gp || 1
+              return (
+                <tr key={l.key} className={l.key === 'own' ? 'proj-own' : l.key === 'actual' ? 'proj-actual'
+                  : l.key.startsWith('own-') ? 'proj-ownish' : undefined}>
+                  <td>{l.label}</td>
+                  <td className="num">{l.gp.toFixed(0)}</td>
+                  <td className="num">{l.min ? (l.min / g).toFixed(1) : '-'}</td>
+                  <td className="num">{pct(l.fgm / g, l.fga / g)}</td>
+                  <td className="num">{pct(l.ftm / g, l.fta / g)}</td>
+                  {PROJ_COLS.map((c) => <td key={c} className="num">{(l[c] / g).toFixed(1)}</td>)}
+                </tr>
+              )
+            })}
+          </tbody>
+        </table>
+      </div>
+      <p className="hint">
+        Per game. Own base = weighted mean of {p.base_sources.length ? p.base_sources.join(', ') : 'the sources'}.
+        Own = the base judged by the LLM context layer (and manual changes). Floor and ceiling: per game only, same games.
+      </p>
+      <p>
+        <b>Usage (USG%)</b>: {usg.projected != null ? <><b>{usg.projected.toFixed(1)} projected</b>{usg.history.length ? ', ' : ''}</> : null}
+        {usg.history.map((h) => `${h.season} ${(100 * h.usg_pct).toFixed(1)}`).join(', ') || (usg.projected == null ? 'no data' : '')}
+      </p>
+      {p.judgment.map((j) => {
+        const bits = [
+          j.mpg != null && `minutes ${j.mpg}`, j.gp != null && `games ${j.gp}`,
+          j.games_out ? `games out ${j.games_out}` : null, j.late_games_out ? `late games out ${j.late_games_out}` : null,
+          ...Object.entries(j.multipliers).map(([k, v]) => `${k} x${v}`),
+        ].filter(Boolean)
+        return (
+          <div key={j.source} className="proj-judgment">
+            <p className="hint">
+              {j.source === 'manual' ? 'Your correction' : 'LLM judgment'}, {j.updated_at.replace('T', ' ')}
+              {j.model ? `, prompt ${j.model}` : ''}{bits.length ? `: ${bits.join('; ')}` : ': no change'}
+            </p>
+            {j.summary && <p>{j.summary}</p>}
+            {j.reasons.length > 0 && (
+              <ul className="proj-reasons">
+                {j.reasons.map((r, i) => <li key={i}><b>{r.field}</b>: {r.text}</li>)}
+              </ul>
+            )}
+          </div>
+        )
+      })}
+    </>
+  )
+}
+
 function ArticleItem({ a, onOpenPlayer }: { a: PlayerCard['articles'][number]; onOpenPlayer: (id: number) => void }) {
   const [open, setOpen] = useState(false)
   const art = useLoad<Article>(open ? a.slug : null, () => api.article(a.slug))
@@ -281,6 +352,7 @@ export function PlayerDrawer({ playerId, query, onClose, onOpenPlayer }: Props) 
   useEffect(() => { panel.current?.scrollTo({ top: 0 }); panel.current?.focus() }, [playerId])
 
   const card = useLoad<PlayerCard>(String(playerId), () => api.playerCard(playerId))
+  const proj = useLoad<PlayerProjection>(String(playerId), () => api.playerProjection(playerId))
   const tags = useLoad<PlayerTag[]>(String(playerId), () => api.playerTags(playerId))
   const models = useLoad<PlayerModels>(q ? `${playerId}|${JSON.stringify({ ...q, model: '' })}` : null,
     () => api.playerModels(playerId, q!))
@@ -304,6 +376,10 @@ export function PlayerDrawer({ playerId, query, onClose, onOpenPlayer }: Props) 
 
         <Section title="Tags">
           {tags.data ? <Tags tags={tags.data} /> : <Status error={tags.error} what="tags" />}
+        </Section>
+
+        <Section title="Own projection" note={proj.data ? `${proj.data.season}, our numbers next to every source` : undefined}>
+          {proj.data ? <OwnProjection p={proj.data} /> : <Status error={proj.error} what="the projection" />}
         </Section>
 
         <Section title="Values across models" note={q ? `${q.season} ${q.source.toUpperCase()} ${q.kind}` : undefined}>

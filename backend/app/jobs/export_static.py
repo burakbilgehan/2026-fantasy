@@ -83,6 +83,7 @@ def main(out: Path) -> None:
         card = get(f"/api/players/{pk}/card")
         write(f"players/{pk}/card", card)
         write(f"knowledge/players/{pk}/tags", get(f"/api/knowledge/players/{pk}/tags"))
+        write(f"players/{pk}/projection", get(f"/api/players/{pk}/projection"))
         if card["team"]:
             teams.add(card["team"])
     for t in sorted(teams):

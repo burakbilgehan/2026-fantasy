@@ -122,3 +122,58 @@ def team_depth(team: str) -> dict:
         "slots": [{"slot": s, "players": ps} for s, ps in slots.items() if ps],
         "report": index.for_drawer(page, index.player_slugs()) if page else None,
     }
+
+
+# T-025: the order and names of the projection lines in the drawer.
+PROJECTION_LINES = (
+    ("own", "Own (LLM judged)"), ("own-floor", "Own floor"), ("own-ceiling", "Own ceiling"),
+    ("own-base", "Own base (consensus)"), ("yahoo", "Yahoo"), ("fanscout", "FanScout"), ("fantrax", "Fantrax"),
+    ("espn", "ESPN"), ("own-stat", "Own stat model"),
+)
+
+
+@router.get("/players/{player_pk}/projection")
+def player_projection(player_pk: int) -> dict:
+    """Own projection (T-025) for the drawer: every source's line next to ours, last season's real
+    line, usage history and projection, and the LLM's (and manual) adjustments with reasons."""
+    from sqlalchemy import func
+
+    from app.models import PlayerGameLog, PlayerSeasonStats, ProjectionAdjustment
+    from app.seasons import previous
+
+    fields = ("gp", "min", "fgm", "fga", "ftm", "fta", "tpm", "pts", "reb", "ast", "stl", "blk", "tov")
+    with SessionLocal() as db:
+        if not db.get(Player, player_pk):
+            raise HTTPException(404, f"no player {player_pk}")
+        rows = {r.source: r for r in db.scalars(select(PlayerProjection).where(
+            PlayerProjection.player_pk == player_pk, PlayerProjection.season == CURRENT_SEASON))}
+        lines = [{"key": k, "label": label, **{f: getattr(rows[k], f) for f in fields}}
+                 for k, label in PROJECTION_LINES if k in rows and rows[k].gp]
+        last = previous(CURRENT_SEASON)
+        actual = db.scalar(select(PlayerSeasonStats).where(
+            PlayerSeasonStats.player_pk == player_pk, PlayerSeasonStats.source == "nba",
+            PlayerSeasonStats.season == last))
+        if actual and actual.gp:
+            minutes = db.scalar(select(func.sum(PlayerGameLog.min)).where(
+                PlayerGameLog.player_pk == player_pk, PlayerGameLog.season == last,
+                PlayerGameLog.season_type == "regular"))
+            lines.append({"key": "actual", "label": f"{last} actual",
+                          **{f: getattr(actual, f) for f in fields}, "min": minutes})
+        adj = sorted(db.scalars(select(ProjectionAdjustment).where(
+            ProjectionAdjustment.player_pk == player_pk, ProjectionAdjustment.season == CURRENT_SEASON)),
+            key=lambda a: a.source != "manual")
+        history = [{"season": a.season, "usg_pct": a.usg_pct} for a in db.scalars(select(PlayerAdvancedStats).where(
+            PlayerAdvancedStats.player_pk == player_pk, PlayerAdvancedStats.source == "nba")
+            .order_by(PlayerAdvancedStats.season.desc())) if a.usg_pct is not None]
+    own = rows.get("own")
+    return {
+        "season": CURRENT_SEASON,
+        "lines": lines,
+        "usage": {"projected": next((a.usg for a in adj if a.usg is not None), None), "history": history},
+        "judgment": [{
+            "source": a.source, "model": a.model, "updated_at": a.updated_at.isoformat(timespec="minutes"),
+            "usg": a.usg, "mpg": a.mpg, "gp": a.gp, "games_out": a.games_out, "late_games_out": a.late_games_out,
+            "multipliers": a.multipliers or {}, "summary": a.note, "reasons": a.reasons or [],
+        } for a in adj],
+        "base_sources": (own.extra or {}).get("sources", []) if own else [],
+    }

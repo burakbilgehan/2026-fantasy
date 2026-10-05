@@ -381,3 +381,16 @@ table.values tbody tr:nth-child(even) { background: var(--stripe); }
 table.values tbody tr:nth-child(even) .sticky { background: var(--stripe); }
 .mlist .mrow:not(.mhead):nth-child(odd) { background: var(--stripe); }
 table.values tbody tr:hover, table.values tbody tr:hover .sticky, .mlist .mrow:not(.mhead):hover { background: var(--row-hover); }
+
+/* T-025 own projection in the drawer */
+.table-scroll { overflow-x: auto; }
+table.proj-table { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; font-size: 0.82rem; }
+table.proj-table th, table.proj-table td { padding: 3px 6px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+table.proj-table th { text-align: left; font-weight: 600; color: var(--muted); }
+table.proj-table .num { text-align: right; }
+table.proj-table tr.proj-own td { font-weight: 700; background: color-mix(in oklab, var(--good) 12%, transparent); }
+table.proj-table tr.proj-ownish td { color: var(--text); }
+table.proj-table tr.proj-actual td { color: var(--muted); font-style: italic; }
+.proj-judgment { margin-top: 8px; }
+.proj-reasons { margin: 4px 0 0 18px; padding: 0; font-size: 0.86rem; }
+.proj-reasons li { margin: 2px 0; }

@@ -300,7 +300,7 @@ export function PlayerValues() {
           }}>
             {options.bases.map((b) => (
               <option key={baseKey(b)} value={baseKey(b)}>
-                {b.season} {b.source.toUpperCase()} {b.kind === 'projection' ? 'projection' : 'real stats'} ({b.players})
+                {b.label ?? `${b.season} ${b.source.toUpperCase()} ${b.kind === 'projection' ? 'projection' : 'real stats'} (${b.players})`}
               </option>
             ))}
           </select>
