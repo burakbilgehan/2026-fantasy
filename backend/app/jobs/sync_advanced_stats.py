@@ -1,6 +1,6 @@
 """Fetch advanced season stats (usage rate) from stats.nba.com into player_advanced_stats.
 
-Usage: python -m app.jobs.sync_advanced_stats [season ...]   (default: the 3 seasons before CURRENT_SEASON)
+Usage: python -m app.jobs.sync_advanced_stats [season ...]   (default: the 4 seasons before CURRENT_SEASON)
 
 Links by NBA person id only (recorded by players-sync and past-stats-sync). Rows of
 unknown ids are skipped. Replaces the synced seasons' rows, so it is idempotent.

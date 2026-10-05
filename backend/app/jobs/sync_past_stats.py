@@ -1,6 +1,6 @@
 """Fetch past season totals from stats.nba.com into player_season_stats (source "nba").
 
-Usage: python -m app.jobs.sync_past_stats [season ...]   (default: the 3 seasons before CURRENT_SEASON)
+Usage: python -m app.jobs.sync_past_stats [season ...]   (default: the 4 seasons before CURRENT_SEASON)
 
 Links rows to existing players only, with the sync_players Resolver (NBA id,
 manual link, unique name, name + team). A name match records the NBA id.
@@ -27,7 +27,7 @@ from app.sources.players.nba_stats import NbaStats
 SOURCE = NbaStats.key
 
 
-def default_seasons(current: str = CURRENT_SEASON, n: int = 3) -> list[str]:
+def default_seasons(current: str = CURRENT_SEASON, n: int = 4) -> list[str]:
     seasons, s = [], current
     for _ in range(n):
         s = previous(s)

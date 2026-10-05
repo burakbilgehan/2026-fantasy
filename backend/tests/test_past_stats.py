@@ -71,7 +71,7 @@ def test_parse_rejects_bad_payloads(raw):
 
 
 def test_default_seasons():
-    assert sync_past_stats.default_seasons("2026-27") == ["2023-24", "2024-25", "2025-26"]
+    assert sync_past_stats.default_seasons("2026-27") == ["2022-23", "2023-24", "2024-25", "2025-26"]
 
 
 def test_write_links_existing_players_only(db, raw):

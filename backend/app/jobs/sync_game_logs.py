@@ -1,6 +1,6 @@
 """Fetch past season game logs from stats.nba.com into player_game_logs (source "nba").
 
-Usage: python -m app.jobs.sync_game_logs [season ...]   (default: the 3 seasons before CURRENT_SEASON)
+Usage: python -m app.jobs.sync_game_logs [season ...]   (default: the 4 seasons before CURRENT_SEASON)
        python -m app.jobs.sync_game_logs --current        (CURRENT_SEASON: preseason and regular season so far)
 
 Same linking rules as sync_past_stats: existing players only, never creates a
