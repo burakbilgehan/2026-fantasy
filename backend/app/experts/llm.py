@@ -50,25 +50,35 @@ def kill_all() -> None:
             pass
 
 
-def command(system: str, schema: dict, model: str, effort: str) -> list[str]:
-    """The exact argv. The prompt goes in on stdin."""
+def command(system: str, schema: dict, model: str, effort: str, read_dirs: list[str] | None = None) -> list[str]:
+    """The exact argv. The prompt goes in on stdin.
+
+    `read_dirs`: give the child read-only file tools (Read, Grep, Glob) limited to these
+    folders. Paths outside are denied (permission mode dontAsk; verified 2026-10-05: a read
+    of ~/.zshrc was denied while a file in the folder was read).
+    """
+    tools = ["--tools", ""]
+    if read_dirs:
+        allowed = [f"{t}(/{d.rstrip('/')}/**)" for d in read_dirs for t in ("Read", "Grep", "Glob")]
+        tools = ["--tools", "Read,Grep,Glob", "--permission-mode", "dontAsk",
+                 "--allowedTools", *allowed, "--add-dir", *read_dirs]
     return [
         "claude", "-p", "--model", model, "--effort", effort, "--output-format", "json",
-        "--tools", "", "--no-session-persistence", "--setting-sources", "",
+        *tools, "--no-session-persistence", "--setting-sources", "",
         "--strict-mcp-config", "--system-prompt", system,
         "--json-schema", json.dumps(schema),
     ]
 
 
 def run_json(prompt: str, system: str, schema: dict, model: str = "opus",
-             effort: str = "medium", timeout: int = 900) -> tuple[dict, dict]:
+             effort: str = "medium", timeout: int = 900, read_dirs: list[str] | None = None) -> tuple[dict, dict]:
     """Return (structured output, usage info)."""
     if ABORTED.is_set():
         raise LlmError("aborted")
     env = {k: v for k, v in os.environ.items()
            if k not in ("ANTHROPIC_API_KEY", "CLAUDECODE", "CLAUDE_EFFORT")
            and not k.startswith("CLAUDE_CODE_")}
-    cmd = command(system, schema, model, effort)
+    cmd = command(system, schema, model, effort, read_dirs)
     with tempfile.TemporaryDirectory() as cwd:
         # Own session: a terminal Ctrl-C reaches only our process, which decides
         # whether to wait for this call or stop it (kill_all).
@@ -96,5 +106,6 @@ def run_json(prompt: str, system: str, schema: dict, model: str = "opus",
         text = str(out.get("result"))[:500]
         raise (UsageLimit if _LIMIT.search(text) else LlmError)(f"claude error: {text}")
     usage = {"model": next(iter(out.get("modelUsage") or {}), model), "effort": effort,
-             "cost_usd_list": out.get("total_cost_usd"), "duration_ms": out.get("duration_ms")}
+             "cost_usd_list": out.get("total_cost_usd"), "duration_ms": out.get("duration_ms"),
+             "turns": out.get("num_turns"), "denied": len(out.get("permission_denials") or [])}
     return out["structured_output"], usage

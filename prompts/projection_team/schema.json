@@ -1,0 +1,171 @@
+{
+  "type": "object",
+  "properties": {
+    "team_note": {
+      "type": "string"
+    },
+    "minutes_total": {
+      "type": "number",
+      "description": "Sum of projected minutes per game of the players who play, after your changes"
+    },
+    "players": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "player_id": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "usg": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Projected usage rate (USG%) for the season, median, for example 24.5"
+          },
+          "mpg": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "gp": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "games_out": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "late_games_out": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "multipliers": {
+            "$ref": "#/$defs/mult"
+          },
+          "floor": {
+            "$ref": "#/$defs/scenario"
+          },
+          "ceiling": {
+            "$ref": "#/$defs/scenario"
+          },
+          "reasons": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "field": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                },
+                "sources": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "field",
+                "text",
+                "sources"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "summary": {
+            "type": "string",
+            "description": "One sentence: the median outlook"
+          }
+        },
+        "required": [
+          "player_id",
+          "name",
+          "usg",
+          "mpg",
+          "gp",
+          "games_out",
+          "late_games_out",
+          "multipliers",
+          "floor",
+          "ceiling",
+          "reasons",
+          "summary"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "team_note",
+    "minutes_total",
+    "players"
+  ],
+  "additionalProperties": false,
+  "$defs": {
+    "mult": {
+      "type": "object",
+      "properties": {
+        "fga": {
+          "type": "number"
+        },
+        "fta": {
+          "type": "number"
+        },
+        "tpm": {
+          "type": "number"
+        },
+        "reb": {
+          "type": "number"
+        },
+        "ast": {
+          "type": "number"
+        },
+        "stl": {
+          "type": "number"
+        },
+        "blk": {
+          "type": "number"
+        },
+        "tov": {
+          "type": "number"
+        },
+        "fg_pct": {
+          "type": "number"
+        },
+        "ft_pct": {
+          "type": "number"
+        }
+      },
+      "additionalProperties": false
+    },
+    "scenario": {
+      "type": "object",
+      "properties": {
+        "mpg": {
+          "type": "number"
+        },
+        "multipliers": {
+          "$ref": "#/$defs/mult"
+        }
+      },
+      "required": [
+        "mpg",
+        "multipliers"
+      ],
+      "additionalProperties": false
+    }
+  }
+}

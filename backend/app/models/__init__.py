@@ -92,6 +92,10 @@ class Player(Base):
     position: Mapped[str | None]
     identity_source: Mapped[str]  # source that last set name, team, position
     updated_at: Mapped[datetime]
+    # Set by app/jobs/sync_birthdates.py. Source "espn" is exact; "nba_age" is derived
+    # from the stats.nba.com AGE column and can be off by up to 6 months.
+    birth_date: Mapped[date | None]
+    birth_date_source: Mapped[str | None]  # "espn" or "nba_age"
 
 
 class PlayerExternalId(Base):
@@ -132,6 +136,10 @@ class _StatColumns:
 class PlayerProjection(_StatColumns, Base):
     __tablename__ = "player_projections"
     __table_args__ = (UniqueConstraint("player_pk", "source", "season"),)
+
+    # Own projection only (T-025): where each input came from, for example
+    # {"minutes": "espn", "rates": "history", "gp": {...}}. None for outside sources.
+    extra: Mapped[dict | None] = mapped_column(JSON, nullable=True)
 
 
 class PlayerSeasonStats(_StatColumns, Base):
@@ -331,3 +339,32 @@ class KnowledgeTag(Base):
     sources: Mapped[list[str]] = mapped_column(JSON)
     classified: Mapped[bool]  # False = name not in the registry yet
     built_at: Mapped[datetime]
+
+
+class ProjectionAdjustment(Base):
+    """Inputs on top of the own projection's base layer (T-025), per player and season.
+
+    `source` "manual" (the user) or "llm" (the context layer). Per field, manual wins over llm;
+    None = no opinion. `multipliers` scale engine components (fga, fta, tpm, reb, ast, stl, blk,
+    tov, fg_pct, ft_pct). `floor` and `ceiling` hold the same fields for the scenarios.
+    """
+
+    __tablename__ = "projection_adjustments"
+    __table_args__ = (UniqueConstraint("player_pk", "season", "source"),)
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    player_pk: Mapped[int] = mapped_column(ForeignKey("players.id", ondelete="CASCADE"), index=True)
+    season: Mapped[str]
+    source: Mapped[str]
+    usg: Mapped[float | None]  # projected usage rate (USG%), the role statement behind the multipliers
+    mpg: Mapped[float | None]
+    gp: Mapped[float | None]  # games played for the season (replaces the base GP), before games out
+    games_out: Mapped[float | None]  # games missed at the start (injury)
+    late_games_out: Mapped[float | None]  # games missed late in the season (shutdown, rest)
+    multipliers: Mapped[dict] = mapped_column(JSON, default=dict)
+    floor: Mapped[dict] = mapped_column(JSON, default=dict)
+    ceiling: Mapped[dict] = mapped_column(JSON, default=dict)
+    reasons: Mapped[list] = mapped_column(JSON, default=list)  # [{"field", "text", "sources"}]
+    note: Mapped[str | None]
+    model: Mapped[str | None]  # llm rows: prompt version and hash ("v1-3f2a9c01ab"), so a model change is traceable
+    updated_at: Mapped[datetime]
