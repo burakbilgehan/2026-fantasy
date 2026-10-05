@@ -47,42 +47,47 @@ function usageScale(players: ValuedPlayer[]): UsageScale | null {
   return sd > 0 ? { mean, sd } : null
 }
 
-// Opportunity (room $ at our rank minus the expected room price) at which the cell reaches full color.
+// Opportunity (dynamic worth minus dynamic market price) at which the cell reaches full color.
 const OPP_FULL = 15
 
-/** T-025 room price: the room's price at the player's rank in our model (docs/modules/pricing.md). */
-function roomValue(p: ValuedPlayer, curve?: number[]): number | null {
-  if (!curve || p.rank == null) return null
-  return p.rank <= curve.length ? curve[p.rank - 1] : 1
+// T-025 prices (docs/modules/pricing.md). At the start of a draft: dynamic worth = static price
+// (ours), dynamic market price = the market price (the others' view). The live draft board moves
+// both with the room's spending; these functions are where it plugs in.
+function dynamicWorth(p: ValuedPlayer): number | null {
+  return p.dollars
 }
 
-function opportunity(p: ValuedPlayer, curve?: number[]): number | null {
-  const v = roomValue(p, curve)
-  return v == null || p.market.room_expected == null ? null : v - p.market.room_expected
+function dynamicMarket(p: ValuedPlayer): number | null {
+  return p.market.market_price
 }
 
-function columns(cats: string[], view: 'stats' | 'z', usageSeason?: string, usage?: UsageScale | null,
-  curve?: number[], curveFrom?: string): Column[] {
+function opportunity(p: ValuedPlayer): number | null {
+  const w = dynamicWorth(p)
+  const m = dynamicMarket(p)
+  return w == null || m == null ? null : w - m
+}
+
+function columns(cats: string[], view: 'stats' | 'z', usageSeason?: string, usage?: UsageScale | null): Column[] {
   const base: Column[] = [
     { key: 'rank', label: '#', group: 'Player', num: true, className: 'rank', value: (p) => p.rank },
     { key: 'name', label: 'Player', group: 'Player', className: 'name sticky', value: (p) => p.name },
     { key: 'team', label: 'Team', group: 'Player', value: (p) => p.team },
     { key: 'pos', label: 'Pos', group: 'Player', value: (p) => p.positions?.join(',') ?? null },
-    { key: 'dollars', label: 'Model $', title: 'Auction dollars from the model', group: 'Value', num: true,
+    { key: 'dollars', label: 'Static price', title: 'Our model\'s auction dollars (model and dollar method above). Ours, fixed before the draft.', group: 'Value', num: true,
       className: 'dollars group-start', value: (p) => p.dollars, fmt: money },
     { key: 'total', label: 'Value', title: 'Model value: sum of the category z values the model counts', group: 'Value',
       num: true, value: (p) => p.total, fmt: (v) => v.toFixed(2),
       heat: (p) => (p.total == null ? null : { z: p.total, full: TOTAL_FULL }) },
-    { key: 'room_value', label: 'Room $', group: 'Room', num: true, className: 'group-start',
-      title: `What this room pays for a player at his rank in our model (price curve: ${curveFrom ?? 'league auction'})`,
-      value: (p) => roomValue(p, curve), fmt: money },
-    { key: 'room_exp', label: 'Exp. price', group: 'Room', num: true,
-      title: 'Expected price in this room: the market order (Yahoo x2, ESPN, Fantrax ADP) on the room\'s price curve',
-      value: (p) => p.market.room_expected, fmt: money },
+    { key: 'room_value', label: 'Dynamic worth', group: 'Room', num: true, className: 'group-start',
+      title: 'What he is worth to us now. Ours. Before the draft = static price; during the draft it moves with the room.',
+      value: (p) => dynamicWorth(p), fmt: money },
+    { key: 'room_exp', label: 'Dyn. market price', group: 'Room', num: true,
+      title: 'What the room is expected to pay now. Before the draft = market price (Yahoo avg x2, ESPN avg, Fantrax ADP on Yahoo\'s dollar scale); during the draft it moves with the room\'s spending.',
+      value: (p) => dynamicMarket(p), fmt: money },
     { key: 'room_opp', label: 'Opportunity', group: 'Room', num: true,
-      title: 'Room $ minus expected price. Positive: the room underrates him (a buy below Room $). Negative: the room overrates him.',
-      value: (p) => opportunity(p, curve), fmt: (v) => `${v >= 0 ? '+' : '-'}$${Math.abs(v).toFixed(0)}`,
-      heat: (p) => { const o = opportunity(p, curve); return o == null ? null : { z: o, full: OPP_FULL } } },
+      title: 'Dynamic worth minus dynamic market price. Positive: the room underrates him. Negative: the room overrates him.',
+      value: (p) => opportunity(p), fmt: (v) => `${v >= 0 ? '+' : '-'}$${Math.abs(v).toFixed(0)}`,
+      heat: (p) => { const o = opportunity(p); return o == null ? null : { z: o, full: OPP_FULL } } },
     { key: 'y_av', label: 'Yahoo value', group: 'Market', num: true, className: 'group-start',
       value: (p) => p.market.yahoo_auction_value, fmt: money },
     { key: 'y_cost', label: 'Yahoo avg', title: 'Yahoo average auction cost', group: 'Market', num: true,
@@ -347,10 +352,8 @@ export function PlayerValues() {
   }, [query])
 
   const cats = useMemo(() => options?.categories ?? [], [options])
-  const cols = useMemo(() => columns(cats, view, data?.settings.usage_season, data && usageScale(data.players),
-    query?.kind === 'projection' && query.season === options?.defaults.season ? options?.room_curve : undefined,
-    options?.room_curve_from),
-    [cats, view, data, options, query])
+  const cols = useMemo(() => columns(cats, view, data?.settings.usage_season, data && usageScale(data.players)),
+    [cats, view, data])
 
   const rows = useMemo(() => {
     if (!data) return []

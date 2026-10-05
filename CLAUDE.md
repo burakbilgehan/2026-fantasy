@@ -27,6 +27,9 @@ One local backend, one database, one frontend. Features are widgets on that fron
 - `docs/modules/knowledge.md`: expert knowledge synthesis spec (T-022): profiles, tags, articles.
 - `prompts/`: every prompt and model setting sent to `claude -p`, one folder per job. Keep it current; code reads it from there.
 
+## Pricing mentality (user rule, 2026-10-05)
+- Two views, never mixed: OURS (static price, dynamic worth: from our model) and THE OTHERS (dynamic market price: the market's own dollars, then the room's live spending). Never price by rank, never make a past auction a law. Details: `docs/modules/pricing.md`.
+
 ## Data freshness (user rule, 2026-10-05)
 - No data source may be older than a week. `make sources` shows every source with its last fetch and age and fetches only the stale ones. Run it at the start of any session that uses source data (projections, values, draft).
 - Fantrax projections need the user's logged-in Chrome tab: when `make sources` marks `fantrax_projections` STALE, ask the user, then run the fixed script `backend/app/sources/players/fantrax_capture.js` in a logged-in Fantrax tab (Claude in Chrome), poll `window.__fantraxCapture`, then `make players-sync SOURCE=fantrax`. No improvising: every fetch goes through a script.

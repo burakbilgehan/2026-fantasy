@@ -10,7 +10,7 @@ from sqlalchemy import func, select
 
 from app.analytics.valuation import BASES, CATEGORIES, MODELS, Settings, g_weights, run
 from app.db import SessionLocal
-from app.models import Draft, DraftPick, League, Player, PlayerAdvancedStats, PlayerExternalId, PlayerGameLog, PlayerMarketValue, PlayerProjection, PlayerSeasonStats
+from app.models import League, Player, PlayerAdvancedStats, PlayerExternalId, PlayerGameLog, PlayerMarketValue, PlayerProjection, PlayerSeasonStats
 from app.seasons import CURRENT_SEASON, previous
 from app.sources.players.base import STAT_FIELDS
 
@@ -75,11 +75,8 @@ def options() -> dict:
     order = {s: i for i, s in enumerate(SOURCE_LABELS)}
     bases.sort(key=lambda b: (b["kind"] != "projection", -int(b["season"][:4]), order.get(b["source"], 99)))
     n_drafted, budget = _league_draft()
-    curve, _, curve_from = room_prices()
     return {
         "bases": bases,
-        # T-025 room price curve: price by rank in this room (index 0 = rank 1), docs/modules/pricing.md.
-        "room_curve": [round(x, 1) for x in curve[:300]], "room_curve_from": curve_from,
         "basis": list(BASES),
         "models": [{"key": m.key, "label": m.label, "description": m.description, "needs": list(m.needs)}
                    for m in MODELS.values()],
@@ -125,24 +122,27 @@ def _load(kind: str, source: str, season: str) -> tuple[dict, dict, dict, dict]:
     return base, players, market, yahoo_now
 
 
-def room_prices() -> tuple[list[float], dict[int, float], str]:
-    """(room price curve by rank, expected room price per player, where the curve comes from).
-    Curve: our league's last real auction (the room's own shape). Expected price: the market order
-    (Yahoo, ESPN average cost, Fantrax ADP) mapped onto that curve. docs/modules/pricing.md."""
+def market_prices() -> dict[int, float]:
+    """Market price per player (the others' view, T-025): Yahoo average cost x2, ESPN average cost,
+    Fantrax ADP on Yahoo's dollar scale. At the start of a draft the dynamic market price equals it.
+    docs/modules/pricing.md."""
     from app.analytics.valuation import room
 
+    yahoo_cost, yahoo_adp, espn, fantrax_adp = {}, {}, {}, {}
     with SessionLocal() as db:
-        d = db.scalar(select(Draft).where(Draft.kind == "past_league").order_by(Draft.season.desc()))
-        prices = [p for (p,) in db.execute(select(DraftPick.price).where(DraftPick.draft_pk == d.id))] if d else []
-        signals: dict[str, dict[int, float]] = {"yahoo": {}, "espn": {}, "fantrax": {}}
         for m in db.scalars(select(PlayerMarketValue).where(PlayerMarketValue.season == CURRENT_SEASON,
-                                                            PlayerMarketValue.source.in_(list(signals)))):
-            v = m.average_pick if m.source == "fantrax" else m.average_cost
-            if v:
-                signals[m.source][m.player_pk] = v
-    ranks = room.market_ranks(signals)
-    curve = room.price_curve(prices or [1.0], max(len(ranks), 600))
-    return curve, room.expected_prices(ranks, curve), f"{d.season} league auction" if d else "none"
+                                                            PlayerMarketValue.source.in_(("yahoo", "espn", "fantrax")))):
+            if m.source == "yahoo":
+                if m.average_cost:
+                    yahoo_cost[m.player_pk] = m.average_cost
+                if m.average_pick:
+                    yahoo_adp[m.player_pk] = m.average_pick
+            elif m.source == "espn" and m.average_cost:
+                espn[m.player_pk] = m.average_cost
+            elif m.source == "fantrax" and m.average_pick:
+                fantrax_adp[m.player_pk] = m.average_pick
+    fantrax = room.adp_to_dollars(fantrax_adp, yahoo_adp, yahoo_cost)
+    return room.market_prices({"yahoo": yahoo_cost, "espn": espn, "fantrax": fantrax})
 
 
 def usage_season(kind: str, season: str) -> str:
@@ -203,7 +203,7 @@ def values(
     usg_season = usage_season(kind, season)
     usage = _usage(base, usg_season)
     nba = nba_ids(base)
-    _, expected, _ = room_prices()
+    market_price = market_prices() if season == CURRENT_SEASON else {}
 
     out = []
     for pk, r in base.items():
@@ -227,9 +227,9 @@ def values(
                 "yahoo_average_cost": y.average_cost if y else None,
                 "espn_average_cost": e.average_cost if e else None,
                 "fantrax_adp": fx.average_pick if fx else None,
-                # T-025: what this room is expected to pay (market order on the room's price curve).
-                # The frontend adds "room value" = curve at our model rank, and opportunity = the gap.
-                "room_expected": round(expected.get(pk, 1.0), 1) if season == CURRENT_SEASON else None,
+                # T-025 market price (the others' view): the dynamic market price at the start of a draft.
+                # The frontend: dynamic worth = our static price (model $), opportunity = the gap.
+                "market_price": round(market_price.get(pk, 1.0), 1) if season == CURRENT_SEASON else None,
             },
         })
     out.sort(key=lambda x: x["rank"] or 10**6)

@@ -44,7 +44,7 @@ function Status({ error, what }: { error: string | null; what: string }) {
 function Header({ card, selected }: { card: PlayerCard; selected: ModelValue | null }) {
   const p = card.prices
   const prices: { label: string; value: string; title: string }[] = [
-    { label: selected ? `${selected.label} $` : 'Model $', value: money(selected?.dollars),
+    { label: selected ? `${selected.label} static price` : 'Static price', value: money(selected?.dollars),
       title: 'Dollars of the model selected in the value table' },
     { label: 'Yahoo avg', value: money(p.yahoo_average_cost, 1), title: 'Yahoo average auction cost' },
     { label: 'ESPN avg', value: money(p.espn_average_cost, 1), title: 'ESPN average auction price' },
