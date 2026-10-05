@@ -53,7 +53,7 @@ td code { font-family: var(--font-mono); font-size: .82rem; }
 
 <div class="wrap">
   <h1>How the projection report is made</h1>
-  <p class="muted">From outside sources to <code>ALL.html</code> and the site's value table. Colors show who does the work at each step. Generated 2026-10-05 12:41 UTC by <code>make flow</code>. Ages are the time since the last successful fetch.</p>
+  <p class="muted">From outside sources to <code>ALL.html</code> and the site's value table. Colors show who does the work at each step. Generated 2026-10-05 19:28 UTC by <code>make flow</code>. Ages are the time since the last successful fetch.</p>
 
   <div class="legend" aria-label="Legend">
     <span><i style="background:var(--auto)"></i>Script, runs by itself</span>
@@ -67,16 +67,16 @@ td code { font-family: var(--font-mono); font-size: .82rem; }
   <div class="chart"><pre class="mermaid">
 flowchart LR
   subgraph S["Outside sources"]
-    yahoo["Yahoo<br/>projection, games<br/>10-04 00:38 (36 h ago)"]:::auto
-    fanscout["FanScout<br/>projection, minutes<br/>10-05 09:47 (3 h ago)"]:::auto
-    fantrax["Fantrax<br/>projection, minutes<br/>10-05 09:03 (4 h ago)"]:::manual
-    espn["ESPN<br/>projection, minutes<br/>10-05 07:12 (5 h ago)"]:::auto
-    fpros["FantasyPros<br/>line, minutes<br/>10-05 05:27 (7 h ago)"]:::auto
-    roles["DARKO, Hashtag, Vegas<br/>skill, depth, wins<br/>10-05 05:27 (7 h ago)"]:::auto
-    nbastats["stats.nba.com<br/>4 seasons, logs, usage<br/>10-05 07:12 (5 h ago)"]:::auto
-    nbacom["NBA.com<br/>rosters<br/>10-05 12:23 (0 h ago)"]:::auto
-    espnbio["ESPN rosters<br/>birth dates<br/>10-05 07:13 (5 h ago)"]:::auto
-    videos["Locked On videos<br/>96 videos, newest note 10-04 16:16 (20 h ago)"]:::llm
+    yahoo["Yahoo<br/>projection, games<br/>10-04 00:38 (43 h ago)"]:::auto
+    fanscout["FanScout<br/>projection, minutes<br/>10-05 09:47 (10 h ago)"]:::auto
+    fantrax["Fantrax<br/>projection, minutes<br/>10-05 09:03 (10 h ago)"]:::manual
+    espn["ESPN<br/>projection, minutes<br/>10-05 19:26 (0 h ago)"]:::auto
+    fpros["FantasyPros<br/>line, minutes<br/>10-05 17:49 (2 h ago)"]:::auto
+    roles["DARKO, Hashtag, Vegas<br/>skill, depth, wins<br/>10-05 17:49 (2 h ago)"]:::auto
+    nbastats["stats.nba.com<br/>4 seasons, logs, usage<br/>10-05 13:57 (6 h ago)"]:::auto
+    nbacom["NBA.com<br/>rosters<br/>10-05 12:23 (7 h ago)"]:::auto
+    espnbio["ESPN rosters<br/>birth dates<br/>10-05 07:13 (12 h ago)"]:::auto
+    videos["Locked On videos<br/>96 videos, newest note 10-04 16:16 (27 h ago)"]:::llm
   end
   subgraph D["Database and files"]
     tproj[("player_projections")]:::store
@@ -87,15 +87,15 @@ flowchart LR
   end
   subgraph B["Building blocks"]
     statmodel["Own stat model<br/>fit on past seasons"]:::code
-    profiles["Profiles and articles<br/>331 player profiles, built 10-04 22:57 (14 h ago)"]:::llm
+    profiles["Profiles and articles<br/>331 player profiles, built 10-04 22:57 (21 h ago)"]:::llm
     ctxdata["Team tables<br/>splits, vacated volume, usage"]:::code
   end
   subgraph J["Base and judgment"]
-    base["Consensus base (own-base)<br/>10-05 12:23 (0 h ago)<br/>Yahoo 2, FanScout 1, Fantrax 1,<br/>ESPN 1, FantasyPros 1, stat model 1"]:::code
-    llmctx["LLM context layer<br/>one call per team<br/>30 teams, prompt v6, oldest 10-05 10:32 (2 h ago)"]:::llm
+    base["Consensus base (own-base)<br/>10-05 12:23 (7 h ago)<br/>Yahoo 2, FanScout 1, Fantrax 1,<br/>ESPN 1, FantasyPros 1, stat model 1"]:::code
+    llmctx["LLM context layer<br/>one call per team<br/>30 teams, prompt v6, oldest 10-05 10:32 (9 h ago)"]:::llm
   end
   apply["Apply decisions<br/>own, floor, ceiling"]:::code
-  all(["ALL.html report<br/>10-05 12:24 (0 h ago)"]):::out
+  all(["ALL.html report<br/>10-05 12:24 (7 h ago)"]):::out
   site(["Site value table<br/>source: own"]):::out
 
   yahoo ==> tproj
@@ -138,20 +138,20 @@ flowchart LR
   <div class="ledger">
     <table>
       <tr><th>Source</th><th>What we take</th><th>How</th><th>Refresh</th><th>Last fetch</th><th>Weight in the base</th></tr>
-      <tr><td>Yahoo</td><td>Projection (no minutes), games played, prices, injuries</td><td><span class="pill p-auto">script</span> <code>yahoo_pubapi.py</code></td><td>7 days</td><td>10-04 00:38 (36 h ago)</td><td>stats 2, games: the only source</td></tr>
-      <tr><td>FanScout</td><td>Projection with minutes, 477 players (30 team pages)</td><td><span class="pill p-auto">script</span> <code>fanscout.py</code></td><td>1 day</td><td>10-05 09:47 (3 h ago)</td><td>stats 1, minutes 1</td></tr>
-      <tr><td>Fantrax projections</td><td>Projection with minutes, 574 players</td><td><span class="pill p-manual">Chrome script</span> <code>fantrax_capture.js</code></td><td>7 days, asks you first</td><td>10-05 09:03 (4 h ago)</td><td>stats 1, minutes 1</td></tr>
-      <tr><td>Fantrax ADP</td><td>Average draft position</td><td><span class="pill p-auto">script</span> <code>fantrax.py</code></td><td>12 hours</td><td>10-05 09:03 (4 h ago)</td><td>site column only</td></tr>
-      <tr><td>ESPN</td><td>Projection with minutes, prices</td><td><span class="pill p-auto">script</span> <code>espn.py</code></td><td>12 hours</td><td>10-05 07:12 (5 h ago)</td><td>stats 1, minutes 1</td></tr>
-      <tr><td>FantasyPros</td><td>Consensus line (no shot attempts), minutes</td><td><span class="pill p-auto">script</span> <code>roles/fantasypros.py</code></td><td>12 hours</td><td>10-05 05:27 (7 h ago)</td><td>stats 1, minutes 1</td></tr>
-      <tr><td>Own stat model</td><td>Last 3 seasons per minute, regressed, aged</td><td><span class="pill p-code">code</span> <code>projection/engine.py</code></td><td>daily with the base</td><td>10-05 12:23 (0 h ago)</td><td>stats 1</td></tr>
-      <tr><td>DARKO</td><td>Per-100 skill rates</td><td><span class="pill p-auto">script</span> <code>roles/darko.py</code></td><td>12 hours</td><td>10-05 05:27 (7 h ago)</td><td>0, info for the LLM only</td></tr>
-      <tr><td>Hashtag</td><td>Depth charts</td><td><span class="pill p-auto">script</span> <code>roles/hashtag.py</code></td><td>6 hours</td><td>10-05 12:07 (1 h ago)</td><td>LLM input</td></tr>
-      <tr><td>Vegas</td><td>Team win totals</td><td><span class="pill p-auto">script</span> <code>roles/vegas.py</code></td><td>1 day</td><td>10-04 16:40 (20 h ago)</td><td>LLM input</td></tr>
-      <tr><td>NBA.com</td><td>Rosters: the only team source</td><td><span class="pill p-auto">script</span> <code>nba_index.py</code></td><td>1 day</td><td>10-05 12:23 (0 h ago)</td><td>decides who is on a team</td></tr>
-      <tr><td>stats.nba.com</td><td>4 seasons of totals, game logs, usage</td><td><span class="pill p-auto">script</span> <code>nba_stats.py</code>, <code>nba_gamelog.py</code></td><td>past: once; current: 6 hours</td><td>10-05 07:12 (5 h ago)</td><td>stat model, splits, LLM tables</td></tr>
-      <tr><td>ESPN rosters</td><td>Birth dates, NBA experience</td><td><span class="pill p-auto">script</span> <code>birthdates.py</code></td><td>7 days</td><td>10-05 07:13 (5 h ago)</td><td>age curve, LLM tables</td></tr>
-      <tr><td>Locked On videos</td><td>Expert notes (96 videos)</td><td><span class="pill p-llm">LLM</span> <code>make expert-digest</code></td><td>when you add videos</td><td>96 videos, newest note 10-04 16:16 (20 h ago)</td><td>profiles, articles, LLM input</td></tr>
+      <tr><td>Yahoo</td><td>Projection (no minutes), games played, prices, injuries</td><td><span class="pill p-auto">script</span> <code>yahoo_pubapi.py</code></td><td>7 days</td><td>10-04 00:38 (43 h ago)</td><td>stats 2, games: the only source</td></tr>
+      <tr><td>FanScout</td><td>Projection with minutes, 477 players (30 team pages)</td><td><span class="pill p-auto">script</span> <code>fanscout.py</code></td><td>1 day</td><td>10-05 09:47 (10 h ago)</td><td>stats 1, minutes 1</td></tr>
+      <tr><td>Fantrax projections</td><td>Projection with minutes, 574 players</td><td><span class="pill p-manual">Chrome script</span> <code>fantrax_capture.js</code></td><td>7 days, asks you first</td><td>10-05 09:03 (10 h ago)</td><td>stats 1, minutes 1</td></tr>
+      <tr><td>Fantrax ADP</td><td>Average draft position</td><td><span class="pill p-auto">script</span> <code>fantrax.py</code></td><td>12 hours</td><td>10-05 09:03 (10 h ago)</td><td>site column only</td></tr>
+      <tr><td>ESPN</td><td>Projection with minutes, prices</td><td><span class="pill p-auto">script</span> <code>espn.py</code></td><td>12 hours</td><td>10-05 19:26 (0 h ago)</td><td>stats 1, minutes 1</td></tr>
+      <tr><td>FantasyPros</td><td>Consensus line (no shot attempts), minutes</td><td><span class="pill p-auto">script</span> <code>roles/fantasypros.py</code></td><td>12 hours</td><td>10-05 17:49 (2 h ago)</td><td>stats 1, minutes 1</td></tr>
+      <tr><td>Own stat model</td><td>Last 3 seasons per minute, regressed, aged</td><td><span class="pill p-code">code</span> <code>projection/engine.py</code></td><td>daily with the base</td><td>10-05 12:23 (7 h ago)</td><td>stats 1</td></tr>
+      <tr><td>DARKO</td><td>Per-100 skill rates</td><td><span class="pill p-auto">script</span> <code>roles/darko.py</code></td><td>12 hours</td><td>10-05 17:49 (2 h ago)</td><td>0, info for the LLM only</td></tr>
+      <tr><td>Hashtag</td><td>Depth charts</td><td><span class="pill p-auto">script</span> <code>roles/hashtag.py</code></td><td>6 hours</td><td>10-05 19:26 (0 h ago)</td><td>LLM input</td></tr>
+      <tr><td>Vegas</td><td>Team win totals</td><td><span class="pill p-auto">script</span> <code>roles/vegas.py</code></td><td>1 day</td><td>10-05 17:49 (2 h ago)</td><td>LLM input</td></tr>
+      <tr><td>NBA.com</td><td>Rosters: the only team source</td><td><span class="pill p-auto">script</span> <code>nba_index.py</code></td><td>1 day</td><td>10-05 12:23 (7 h ago)</td><td>decides who is on a team</td></tr>
+      <tr><td>stats.nba.com</td><td>4 seasons of totals, game logs, usage</td><td><span class="pill p-auto">script</span> <code>nba_stats.py</code>, <code>nba_gamelog.py</code></td><td>past: once; current: 6 hours</td><td>10-05 13:57 (6 h ago)</td><td>stat model, splits, LLM tables</td></tr>
+      <tr><td>ESPN rosters</td><td>Birth dates, NBA experience</td><td><span class="pill p-auto">script</span> <code>birthdates.py</code></td><td>7 days</td><td>10-05 07:13 (12 h ago)</td><td>age curve, LLM tables</td></tr>
+      <tr><td>Locked On videos</td><td>Expert notes (96 videos)</td><td><span class="pill p-llm">LLM</span> <code>make expert-digest</code></td><td>when you add videos</td><td>96 videos, newest note 10-04 16:16 (27 h ago)</td><td>profiles, articles, LLM input</td></tr>
     </table>
   </div>
 
