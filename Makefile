@@ -1,4 +1,4 @@
-.PHONY: advanced-stats-sync dev backend frontend install test sync yahoo-auth yahoo-check draft-ingest db-upgrade players-sync schedule-sync past-draft-sync past-stats-sync game-logs-sync game-logs-current roles-sync refresh expert-digest expert-render expert-prompt expert-run knowledge-run knowledge-articles valuation-backtest pages
+.PHONY: flow projection-update sources projection-prompt projection projection-context projection-review advanced-stats-sync birthdates-sync refresh-all dev backend frontend install test sync yahoo-auth yahoo-check draft-ingest db-upgrade players-sync schedule-sync past-draft-sync past-stats-sync game-logs-sync game-logs-current roles-sync refresh expert-digest expert-render expert-prompt expert-run knowledge-run knowledge-articles valuation-backtest pages
 
 # Start backend (:8000) and frontend (:5173). Ctrl-C stops both.
 dev:
@@ -49,11 +49,11 @@ schedule-sync:
 past-draft-sync:
 	cd backend && uv run python -m app.jobs.sync_past_draft
 
-# Fetch past season totals from stats.nba.com (default: last 3 seasons, or SEASONS="2024-25 2025-26").
+# Fetch past season totals from stats.nba.com (default: last 4 seasons, or SEASONS="2024-25 2025-26").
 past-stats-sync:
 	cd backend && uv run python -m app.jobs.sync_past_stats $(SEASONS)
 
-# Fetch past season game logs from stats.nba.com (default: last 3 seasons, or SEASONS="2025-26"). Run after past-stats-sync.
+# Fetch past season game logs from stats.nba.com (default: last 4 seasons, or SEASONS="2025-26"). Run after past-stats-sync.
 game-logs-sync:
 	cd backend && uv run python -m app.jobs.sync_game_logs $(SEASONS)
 
@@ -70,6 +70,34 @@ roles-sync:
 # ARGS=--force runs all jobs. Status: GET /api/sync/status. AUTO_REFRESH=0 in .env stops the loop.
 refresh:
 	cd backend && uv run python -m app.jobs.refresh $(ARGS)
+
+# Data flow diagram of the own projection with live freshness: docs/modules/projection-flow.html
+flow:
+	cd backend && uv run python -m app.jobs.flow
+
+# Every data source with its last fetch and age; fetches only the stale ones (max age 7 days).
+sources:
+	cd backend && uv run python -m app.jobs.refresh --status
+
+# Fetch every source now, stale or not.
+refresh-all:
+	$(MAKE) refresh ARGS=--force
+
+# Own projection (T-025): ARGS=fit | backtest | run
+projection:
+	cd backend && uv run python -m app.jobs.projection $(ARGS)
+
+# Context layer (claude -p, one call per team), then apply. TEAMS="CHA BKN OKC", empty = all 30.
+projection-context:
+	cd backend && uv run python -m app.jobs.projection context $(TEAMS)
+
+# Write the exact prompts for one team to data/projection_context/ (no LLM call): TEAM=CHA
+projection-prompt:
+	cd backend && uv run python -m app.jobs.projection prompt $(TEAM)
+
+# Base vs adjusted per game with the reasons, for one team: TEAM=CHA
+projection-review:
+	cd backend && uv run python -m app.jobs.projection review $(TEAM)
 
 # Expert digest: playlist/channel/video URL -> notes in docs/knowledge/ (claude -p, subscription).
 # Optional: SINCE=<video id> (channel /videos tab: that video and newer), LIMIT=5 (new videos per run), ARGS=--force. Re-render markdown only: make expert-render
@@ -96,6 +124,12 @@ expert-run:
 # T-022 profiles: make knowledge-run (selection), PLAYERS=a,b (slugs), ARGS="--force --combined docs/x.md"
 knowledge-run:
 	@cd backend && uv sync -q && .venv/bin/python -m app.jobs.knowledge_run $(if $(PLAYERS),--players $(PLAYERS)) $(if $(PARALLEL),--parallel $(PARALLEL)) $(ARGS)
+	$(MAKE) projection-update
+
+# Own projection (T-025): redo the LLM context layer only for teams whose expert notes or roster
+# changed, whose prompt version is old, or whose last run is 7+ days old. Runs after knowledge-run.
+projection-update:
+	cd backend && uv run python -m app.jobs.projection context --stale
 
 # T-022 articles (after knowledge-run): make knowledge-articles, ARGS="--replan" or ARGS="--only slug --force"
 knowledge-articles:
@@ -116,6 +150,11 @@ pages:
 	cd $(PAGES_DIR)/site && git init -q -b gh-pages && git add -A && git commit -q -m "Static site snapshot" \
 		&& git push -f -q https://github.com/burakbilgehan/2026-fantasy.git gh-pages
 
-# Usage rate and other advanced season stats from stats.nba.com (3 seasons before CURRENT_SEASON).
+# Usage rate and other advanced season stats from stats.nba.com (default: last 4 seasons, or SEASONS="2025-26").
 advanced-stats-sync:
-	cd backend && uv run python -m app.jobs.sync_advanced_stats
+	cd backend && uv run python -m app.jobs.sync_advanced_stats $(SEASONS)
+
+# Player birth dates: ESPN rosters, ESPN athlete pages, then an approximate date from the
+# stats.nba.com age (birth_date_source "nba_age"). Also run by `refresh` (7 days). Run after advanced-stats-sync.
+birthdates-sync:
+	cd backend && uv run python -m app.jobs.sync_birthdates
