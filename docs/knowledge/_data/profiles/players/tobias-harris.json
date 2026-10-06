@@ -8,100 +8,31 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "a62a37a9fb34",
+ "input_sha": "3519b399ce46",
  "note_count": 11,
- "built_at": "2026-10-04T17:49:41+00:00",
+ "built_at": "2026-10-05T20:03:13+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.18961119999999998,
-  "duration_ms": 44291
+  "cost_usd_list": 0.1638742,
+  "duration_ms": 41692,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Harris signed with the San Antonio Spurs. He takes Harrison Barnes's place in the rotation.",
+   "text": "He signed with the Spurs this offseason and takes the Harrison Barnes role at forward.",
    "kind": "fact",
    "date": "2026-09-19",
    "until": "",
    "sources": [
     "P6TNP-g0wzY:p39",
     "g31YlwRe0XQ:p48",
-    "uarqbNA2dFk:p49",
-    "4kKINkZhWls:t0"
-   ]
-  },
-  {
-   "text": "He is projected to start at power forward next to Fox, Castle, Vassell and Wembanyama.",
-   "kind": "fact",
-   "date": "2026-08-27",
-   "until": "",
-   "sources": [
-    "ZAyie8lKyYc:p5",
-    "ZAyie8lKyYc:t2"
-   ]
-  },
-  {
-   "text": "The Spurs are very deep at forward and on the wing, so his minutes have real competition. A consolidation trade is expected in the relatively near future, but not right now.",
-   "kind": "fact",
-   "date": "2026-09-19",
-   "until": "",
-   "sources": [
-    "uarqbNA2dFk:t3",
-    "ZAyie8lKyYc:t4",
-    "P6TNP-g0wzY:t6"
-   ]
-  },
-  {
-   "text": "His rim finishing fell from 68 to 58 percent last season.",
-   "kind": "fact",
-   "date": "2026-07-16",
-   "until": "",
-   "sources": [
-    "-y6p5PYLf00:p20"
-   ]
-  },
-  {
-   "text": "His rim finishing might bounce back in the Spurs offense.",
-   "kind": "verdict",
-   "date": "2026-07-16",
-   "until": "",
-   "sources": [
-    "-y6p5PYLf00:p20"
-   ]
-  },
-  {
-   "text": "Experts see him as a late pick with limited upside who should return value around picks 140 to 165. One expert would rather wait until round 14, and another says he is not worth a round 10 pick.",
-   "kind": "verdict",
-   "date": "2026-09-24",
-   "until": "",
-   "sources": [
-    "_vbAP5y182A:p56",
-    "KPdD91Oo8-U:p37",
-    "g31YlwRe0XQ:p48"
-   ]
-  },
-  {
-   "text": "He is not an upside flyer. Draft him late only if you need a steady 16 point, 5 rebound forward.",
-   "kind": "verdict",
-   "date": "2026-09-23",
-   "until": "",
-   "sources": [
-    "C4vlgpJ62NI:p32"
-   ]
-  },
-  {
-   "text": "His ESPN rank of 94 is too high because the Spurs are deep.",
-   "kind": "verdict",
-   "date": "2026-09-19",
-   "until": "",
-   "sources": [
     "uarqbNA2dFk:p49"
    ]
-  }
- ],
- "durable": [
+  },
   {
-   "text": "He is a very good defensive rebounder for a power forward.",
+   "text": "The Spurs signed him to help on the defensive boards at power forward.",
    "kind": "fact",
    "date": "2026-08-27",
    "until": "",
@@ -110,8 +41,101 @@
    ]
   },
   {
-   "text": "He is a strong isolation and post scorer who can create a shot when the offense stalls.",
+   "text": "He is projected to start at power forward next to Fox, Castle, Vassell and Wembanyama.",
+   "kind": "verdict",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p5",
+    "ZAyie8lKyYc:t2"
+   ]
+  },
+  {
+   "text": "The Spurs are very deep at forward and on the wing, so many players compete for the minutes around him.",
    "kind": "fact",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:t3",
+    "ZAyie8lKyYc:t4",
+    "ZAyie8lKyYc:t5",
+    "P6TNP-g0wzY:t6"
+   ]
+  },
+  {
+   "text": "The Spurs are expected to trade some of their forward depth at some point, but not right away.",
+   "kind": "verdict",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:t4"
+   ]
+  },
+  {
+   "text": "The Spurs are trying to win now and are projected near the top of the West, with one expert predicting 63 wins.",
+   "kind": "verdict",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:t0",
+    "ZAyie8lKyYc:t7",
+    "75Sk_4fkgIM:t6"
+   ]
+  },
+  {
+   "text": "His finishing at the rim dropped from 68 percent to 58 percent last season.",
+   "kind": "fact",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p20"
+   ]
+  },
+  {
+   "text": "His rim finishing might recover in the Spurs offense.",
+   "kind": "verdict",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p20"
+   ]
+  },
+  {
+   "text": "He has limited upside and is not a flyer. Draft him late only if you need a steady scorer and rebounder.",
+   "kind": "verdict",
+   "date": "2026-09-24",
+   "until": "",
+   "sources": [
+    "_vbAP5y182A:p56",
+    "C4vlgpJ62NI:p32"
+   ]
+  },
+  {
+   "text": "He is fair value around pick 140 to 150 and should not go earlier. His ESPN rank of 94 is too high.",
+   "kind": "verdict",
+   "date": "2026-09-24",
+   "until": "",
+   "sources": [
+    "_vbAP5y182A:p56",
+    "KPdD91Oo8-U:p37",
+    "uarqbNA2dFk:p49",
+    "g31YlwRe0XQ:p48"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a very good defensive rebounder for a power forward.",
+   "kind": "verdict",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p2"
+   ]
+  },
+  {
+   "text": "He is a strong isolation and post scorer. His team can give him the ball when the offense stalls.",
+   "kind": "verdict",
    "date": "2026-08-27",
    "until": "",
    "sources": [
@@ -119,12 +143,21 @@
    ]
   },
   {
-   "text": "He is a streaky three-point shooter, but defenses still have to respect his shot.",
-   "kind": "fact",
+   "text": "He is a streaky three-point shooter, but defenses still have to guard his shot.",
+   "kind": "verdict",
    "date": "2026-08-27",
    "until": "",
    "sources": [
     "ZAyie8lKyYc:p4"
+   ]
+  },
+  {
+   "text": "His projected line has no weak category. FT% and low turnovers are his best categories, but neither is a league outlier.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "stats"
    ]
   }
  ],
@@ -132,57 +165,113 @@
   {
    "name": "new team",
    "channel": "current",
-   "detail": "Signed with SAS, takes Harrison Barnes's place",
+   "detail": "Signed with San Antonio, replaces Harrison Barnes",
    "until": "",
    "sources": [
     "P6TNP-g0wzY:p39",
-    "g31YlwRe0XQ:p48"
+    "g31YlwRe0XQ:p48",
+    "uarqbNA2dFk:p49"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Spurs very deep at forward and wing",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:t3",
+    "ZAyie8lKyYc:t4",
+    "ZAyie8lKyYc:t5",
+    "P6TNP-g0wzY:t6"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Very deep SAS forward and wing group",
+   "detail": "Projected starting PF, but with a lot of forward depth behind him",
    "until": "",
    "sources": [
     "uarqbNA2dFk:t3",
     "P6TNP-g0wzY:t6",
+    "ZAyie8lKyYc:p5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "Spurs expected to consolidate forward depth, but not right away",
+   "until": "",
+   "sources": [
     "ZAyie8lKyYc:t4"
    ],
    "new_meaning": ""
   },
   {
-   "name": "sites disagree on price",
+   "name": "winning team",
    "channel": "current",
-   "detail": "ESPN rank 94 and 3 USD value, Yahoo rank 151 and 0 USD value",
+   "detail": "Projected at 63 wins, contender for the West top seed",
    "until": "",
    "sources": [
-    "stats"
+    "ZAyie8lKyYc:t7",
+    "75Sk_4fkgIM:t6"
    ],
    "new_meaning": ""
   },
   {
-   "name": "bust candidate",
+   "name": "low shutdown risk",
    "channel": "current",
-   "detail": "ESPN rank 94 is too high",
+   "detail": "Spurs are trying to win now",
    "until": "",
    "sources": [
-    "uarqbNA2dFk:p49"
+    "ZAyie8lKyYc:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "streaky",
+   "channel": "durable",
+   "detail": "Three-point shooting",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p4"
    ],
    "new_meaning": ""
   },
   {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "No weak category. Small edges in FT% and TO.",
+   "detail": "No weak category; mild help in FT% and TO",
    "until": "",
    "sources": [
     "stats"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "ESPN rank 94 (3 USD) vs Yahoo rank 151 (0 USD)",
+   "until": "",
+   "sources": [
+    "stats",
+    "uarqbNA2dFk:p49"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "At his ESPN rank of 94",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p49"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Harris sits right at the edge of our 144-player draft. His Yahoo rank is 151, experts put him around picks 140 to 165, and he cost 1 USD in our league last year, so he is at most a 1 USD final-round filler. He has no weak category and gives small help in FT% and TO, so he fits any build, but his upside is low. Early in the season, check that he keeps the starting power forward spot and plays about 28 minutes or more in a deep Spurs rotation. If not, he belongs on waivers.",
+ "note": "Harris is a bubble player in a 12-team league. Yahoo ranks him 151 at 0 USD, ESPN ranks him 94 at 3 USD, and he went for 1 USD in our auction last season. The experts value him around picks 140 to 150, so bid 1 to 2 USD at most at the end of the draft. He fits any build as a filler with no weak category, but his upside is limited. Early in the season, check that he keeps the starting power forward job and gets about 30 minutes on a deep Spurs roster, and whether his rim finishing comes back.",
  "rejected": []
 }

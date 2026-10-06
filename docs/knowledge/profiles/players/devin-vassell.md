@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 1.0 | 157 | 1 | 0.3 | 128 | 5 |
+| 2026-27 | 0 | 1.0 | 157 | 1 | 0.4 | 128 | 5 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,19 +30,24 @@
 </details>
 
 **Current**
-- He is a projected starter for the Spurs next to Fox, Castle, Harris and Wembanyama. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=524), [07-01](https://youtu.be/W3THnI7wWdA?t=1136))
-- He is entrenched in the rotation, but in a reduced, lower-usage role. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1236), [08-27](https://youtu.be/ZAyie8lKyYc?t=1387))
-- He showed defense and shot blocking in the postseason. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1387))
-- The Spurs roster is very deep at guard and forward. The team plans more three-guard lineups with Fox, Castle and Harper. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=666), [08-27](https://youtu.be/ZAyie8lKyYc?t=1306), [08-24](https://youtu.be/g31YlwRe0XQ?t=1055))
+- Experts disagree on the Spurs' starting five. One expects a three-guard lineup with Harper, Castle and Fox. Another thinks Harper may come off the bench. A three-guard start would put his starting spot at risk. (verdict, 2026-10-04; [09-30](https://youtu.be/BjXP9JODDSg?t=1311), [10-04](https://youtu.be/n4KkK-OJjqA?t=1767), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312))
+- The Spurs are very deep at guard and forward. Harper, Champagnie and Harris compete with him for wing minutes. The coach has to balance a crowded rotation. (fact, 2026-09-19; [07-02](https://youtu.be/P6TNP-g0wzY?t=2312), [08-27](https://youtu.be/ZAyie8lKyYc?t=1306), [08-27](https://youtu.be/ZAyie8lKyYc?t=1491), [08-24](https://youtu.be/g31YlwRe0XQ?t=1055), [09-19](https://youtu.be/uarqbNA2dFk?t=1601))
+- He is no longer a high-usage player in the Spurs offense. His role has been reduced. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1236))
+- He is entrenched in the Spurs rotation. He showed defense and shot blocking in the postseason. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1387))
+- He is projected to start next to Fox, Castle, Harris and Wembanyama. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=524), [07-01](https://youtu.be/W3THnI7wWdA?t=1136))
+- The Spurs plan more three-guard lineups and stagger Fox, Castle and Harper so at least two guards are always on the court. That takes minutes from the wings. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=666))
+- The Spurs are expected to consolidate the deep roster through trades in the relatively near future. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
+- The Spurs are projected to be one of the best teams in the West, with a 63-win prediction. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2403), [07-26](https://youtu.be/75Sk_4fkgIM?t=370))
 - He is not projected to be draftable because of the Spurs' depth. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=2345))
 
 **Durable**
-- He is an all-around wing. He scores, shoots threes, rebounds, defends and works as a secondary playmaker. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1366))
+- He has no weak category for his position. Threes are his best category and FG% is his weakest, but neither is a league outlier. (fact, 2026-10-05; stats)
+- He is an across-the-board wing. He scores, shoots threes, rebounds, defends and works as a secondary playmaker. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1366))
 
 **Tags**
-- Current: `waiver watch` (Ranked 128 (ESPN) to 157 (Yahoo), near the 144-player draft cutoff. Starter on a deep team.)
-- Durable: `fits every build` (No weak category flagged. Best value in threes and low turnovers. FG% is his weakest category.)
+- Current: `minutes competition` (Harper, Champagnie and Harris compete for wing minutes and the fifth starter spot), `usage competition` (Role reduced. Shares the ball with Wembanyama, Fox, Castle and Harper), `deep rotation` (Spurs are very deep at guard and forward), `trades likely` (Roster consolidation through trades expected in the relatively near future), `winning team` (63-win prediction, could take the West's top seed), `waiver watch` (Not projected draftable because of Spurs depth, but he is in the rotation and may start)
+- Durable: `fits every build` (No weak category flagged. Across-the-board wing)
 
-**Note.** Both sites price him at 1 USD or less (Yahoo value 0 USD, rank 157; ESPN rank 128), well below the 5 USD our league paid last season. He sits right around the 144-player cutoff, so at most he is a 1 USD last bench pick, and it is fine to leave him on waivers. His projected line is modest in every category, with about 2.3 threes and 1.1 turnovers as his best spots and a 44% FG% as the weak spot. Early in the season, check whether three-guard lineups and the deep wing group keep his minutes below the 30.5 he played last season (ESPN projects 27.5).
+**Note.** He sits at the edge of our 144-player pool: Yahoo ranks him 157 at 1 USD and ESPN ranks him 128 at 0.4 USD. Our league paid 5 USD for him last season, and that price looks too high now that his usage is down (11.3 FGA last season). If you take him, take him only as a 1 USD final pick. He fits any build as a source of threes (2.3) with low turnovers (1.1) and has no weak category, but he does not stand out in anything. In the first weeks, check whether he starts or Harper does and whether his minutes stay near 28 to 30. Also watch for a Spurs consolidation trade that could open more shots for him.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

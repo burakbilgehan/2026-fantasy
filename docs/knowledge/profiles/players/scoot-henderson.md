@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 185 | 0 | 0.0 | 206 | not drafted |
+| 2026-27 | 0 | - | 185 | 0 | 0.1 | 206 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,23 +30,24 @@
 </details>
 
 **Current**
-- Portland's backcourt is crowded. Lillard, Morant, Holiday and Avdija share the on-ball work, and Henderson is listed off the bench. (fact, 2026-09-14; [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [07-07](https://youtu.be/ME-r173X5b0?t=1091), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [09-10](https://youtu.be/W-R1dzem32s?t=1062), [09-14](https://youtu.be/LM0cRCGoAUQ?t=836))
-- He returns from a season with many missed games. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), stats)
+- Portland has a new head coach this season. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1559))
+- He has no injury status and is expected to be available for a full season. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), stats)
+- Portland's backcourt is crowded with high-usage guards: Damian Lillard, Ja Morant, Jrue Holiday and Deni Avdija share the ball with Henderson, and Shaedon Sharpe is also off the bench. (fact, 2026-09-14; [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [07-07](https://youtu.be/ME-r173X5b0?t=1091), [09-10](https://youtu.be/W-R1dzem32s?t=1062), [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [08-11](https://youtu.be/YJk7ZFKFqnI?t=204))
 - Portland has three back-to-backs in the fantasy playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
-- He is expected to be a bench player at about 20 minutes, with few chances to play more. Minutes and usage across Portland's rotation are expected to swing from game to game. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1801), [06-29](https://youtu.be/bHA-JoW3reE?t=323), [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
-- The newer Blazers preview doubts that Portland makes a consolidation trade. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
-- Only 47.3% of his potential assists turn into assists. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1949))
-- His low assist conversion is likely tied to poor finishing by teammates such as Clingan and Camara. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1949), [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
-- Not draftable in standard leagues. (verdict, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=323))
-- Portland was rumored to be in a trade for Jaylen Brown, and that deal would likely send out Henderson or another guard. (fact, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=286), [06-29](https://youtu.be/bHA-JoW3reE?t=323))
+- Portland's projected starting five is Lillard, Morant, Camara, Avdija and Clingan. Henderson comes off the bench. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825))
+- Veteran guards keep blocking his path. He projects as a 20-minute bench player with few chances and is not draftable. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1801), [06-29](https://youtu.be/bHA-JoW3reE?t=323))
+- Minutes and usage are expected to swing from game to game across the Portland rotation. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
+- Experts disagree on a trade. One calls him a likely trade piece if Portland goes after Jaylen Brown. Another doubts Portland makes a consolidation trade. (verdict, 2026-08-11; [06-29](https://youtu.be/bHA-JoW3reE?t=323), [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
+- Only 47.3% of his potential assists turn into assists. This is likely tied to poor finishing by teammates such as Donovan Clingan and Toumani Camara. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1949), [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
+- Portland has been rumored in a trade for Jaylen Brown. Such a deal would likely send out Henderson or another guard. (fact, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=286))
 
 **Durable**
-- He is an on-ball point guard. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), [09-10](https://youtu.be/W-R1dzem32s?t=1062))
+- He is an on-ball point guard. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), [09-10](https://youtu.be/dlo7L8Ru91A?t=767))
 
 **Tags**
-- Current: `role down` (projected bench role of about 20 minutes behind Lillard, Morant and Holiday), `minutes competition` (crowded guard group: Lillard, Morant, Holiday, Avdija), `injury last season` (30 games in 2025-26), `bad playoff schedule` (three back-to-backs in weeks 19 to 21)
+- Current: `role down` (Projected as a 20-minute bench player behind Lillard, Morant and Holiday), `minutes competition` (Guard glut: Lillard, Morant, Holiday, Avdija, Sharpe), `usage competition` (Shares the ball with several on-ball guards), `trade risk` (Named as a likely outgoing piece in a rumored Jaylen Brown trade), `injury last season` (Played 30 games in 2025-26), `new coach`, `unsettled rotation` (Minutes and usage expected to swing game to game), `bad playoff schedule` (Three back-to-backs in the fantasy playoff weeks)
 - Durable: none
 
-**Note.** He ranks 185 on Yahoo and 206 on ESPN, both sites price him at 0 USD, and nobody drafted him in our league last season. That puts him outside our 144-player pool, and the experts call him undraftable as a roughly 20-minute bench guard. Yahoo projects 46.6% FG and 0.7 turnovers, which does not match his last three seasons (below 42% FG, 2.4 or more turnovers). ESPN's projection looks more realistic. Leave him on waivers and check early whether a guard injury or a trade opens real minutes for him.
+**Note.** Both sites give him 0 USD in value, and his ranks (Yahoo 185, ESPN 206) fall outside the 144 players our league drafts. The experts call him a bench player of about 20 minutes and not draftable, so leave him on waivers on draft day. Early in the season, watch for a Jaylen Brown trade that moves him to a new team, or an injury to Lillard or Morant. Either could open the minutes and usage his mostly average category profile needs.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

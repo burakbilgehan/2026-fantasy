@@ -29,20 +29,19 @@
 </details>
 
 **Current**
-- He is the backup center behind Onyeka Okongwu and part of a 10-man bench rotation. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1880), [08-25](https://youtu.be/H9q2FT3LhNw?t=1317), [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
-- Atlanta's center depth is thin: Veesaar is out for the season and Gueye is injured. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1693))
+- He is the backup center behind Onyeka Okongwu and part of a projected 10-man rotation off the bench. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1880), [08-25](https://youtu.be/H9q2FT3LhNw?t=1317), [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
+- Atlanta's center depth is thin. Veesaar is out for the season and Gueye is injured. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1693))
 - If Okongwu got hurt, Landale would start and play 30-plus minutes. That makes him the best stash on the team, but only in deep stash formats. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1880))
-- Landale re-signed with Atlanta on a 1-year, 14 million USD deal. (fact, 2026-08-25; [07-01](https://youtu.be/W3THnI7wWdA?t=1289), [08-25](https://youtu.be/H9q2FT3LhNw?t=1317))
-- One expert calls him an okay backup center and questions the size of his contract. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1289))
+- He re-signed with Atlanta on a 1-year, 14 million USD deal. (fact, 2026-08-25; [07-01](https://youtu.be/W3THnI7wWdA?t=1289), [08-25](https://youtu.be/H9q2FT3LhNw?t=1317))
 
 **Durable**
-- Steals are a clear weak spot. He is projected well below the league in steals. (fact, 2026-10-04; stats)
-- He is a center who can shoot, so Atlanta always has a shooting center on the floor. This fits Quin Snyder's five-out offense, which wants lots of threes. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1317), [08-25](https://youtu.be/H9q2FT3LhNw?t=697))
+- He gets very few steals, well below the top 250 pool. (fact, 2026-10-05; stats)
+- He is a center who can shoot from outside, which fits Quin Snyder's five-out offense. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1317), [08-25](https://youtu.be/H9q2FT3LhNw?t=697))
 
 **Tags**
-- Current: `handcuff` (Backup to Onyeka Okongwu. Would start and play 30-plus minutes if Okongwu is out.), `waiver watch` (Stash value only in deep leagues. In our league, add him if Okongwu misses time.)
-- Durable: none
+- Current: `handcuff` (Starts and plays 30-plus minutes if Onyeka Okongwu is out), `waiver watch` (Stash value in deep leagues only; add if Okongwu misses time), `contract year` (Signed a 1-year, 14 million USD deal), `deep rotation` (Projected 10-man rotation with Landale as a bench big)
+- Durable: `five-out offense` (Snyder wants five-out spacing; Landale gives Atlanta a shooting center)
 
-**Note.** Landale is Yahoo rank 282 with a 0 USD value and no ESPN price, so he is not one of the 144 players we draft. His 2025-26 line in 22.2 minutes (10.6 PTS, 5.7 REB, 0.5 STL, 0.5 BLK) shows little value in 9-cat when he comes off the bench, and his steals are a clear weak spot. Leave him on waivers and watch Okongwu's health early in the season, because an Okongwu injury would make Landale a 30-minute starter worth a FAB bid.
+**Note.** Yahoo ranks him 282nd with a 0 USD value, and he was not drafted in our league last season. He is far outside our 144-player auction, so do not draft him. His projection is thin: 0.3 steals, 0.2 blocks and 8.5 points. The 81.6% FT projection also looks generous after he shot 63.5% last season. Treat him as an Okongwu handcuff on waivers. If Okongwu misses time, use FAB on Landale, since thin center depth would give him 30-plus minutes.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

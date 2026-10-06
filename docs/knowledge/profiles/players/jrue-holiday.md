@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 136 | 0 | 0.5 | 131 | 3 |
+| 2026-27 | 0 | 0.0 | 136 | 0 | 0.6 | 131 | 3 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,22 +30,23 @@
 </details>
 
 **Current**
-- Experts are not high on him this season. He is solid but has little upside in this Portland setup, even with Sharpe out. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2326), [09-15](https://youtu.be/KPdD91Oo8-U?t=2336), [09-10](https://youtu.be/W-R1dzem32s?t=1902), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1784), [06-29](https://youtu.be/bHA-JoW3reE?t=1013))
-- Portland has a crowded guard group: Damian Lillard, Ja Morant, Scoot Henderson and Deni Avdija all handle the ball next to Holiday. (fact, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1062), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [07-07](https://youtu.be/ME-r173X5b0?t=1091), [08-11](https://youtu.be/YJk7ZFKFqnI?t=204))
-- He is expected to play almost only small forward, next to two other guards. (verdict, 2026-08-26; [08-11](https://youtu.be/YJk7ZFKFqnI?t=241), [08-26](https://youtu.be/sTtFUy7IoJI?t=2162))
-- His usage of 24 last season should drop back to a Boston-style role as a low-usage corner spacer. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=2162), [08-11](https://youtu.be/YJk7ZFKFqnI?t=341))
-- Shaedon Sharpe is injured, which frees some backup minutes in Portland. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=2162))
-- Portland has three back-to-backs in the fantasy playoffs and a five-game week starting February 8. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037), [08-16](https://youtu.be/gf_6GveiAls?t=1310))
-- He is expected to come off the bench except when Morant or Lillard are out. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1998))
+- Portland added Ja Morant and Damian Lillard, and Scoot Henderson returns for a full season. The guard group also includes Deni Avdija and Shaedon Sharpe. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [06-29](https://youtu.be/bHA-JoW3reE?t=227))
+- The experts are not high on him this season. He is solid, but his upside is limited because there are too many players around him in Portland. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2326), [09-15](https://youtu.be/KPdD91Oo8-U?t=2336), [09-10](https://youtu.be/W-R1dzem32s?t=1902), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1784))
+- Shaedon Sharpe is out injured. (fact, 2026-09-07; [08-26](https://youtu.be/sTtFUy7IoJI?t=2162), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1784))
+- Sharpe's injury frees some backup minutes for him, but experts still see little upside. (verdict, 2026-09-07, until Sharpe returns; [08-26](https://youtu.be/sTtFUy7IoJI?t=2162), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1784))
+- Holiday is expected to come off the bench and play almost only small forward, next to two other guards. He is expected to start only when Morant or Lillard is out. The projected starting five is Lillard, Morant, Camara, Avdija and Clingan. (verdict, 2026-08-26; [08-11](https://youtu.be/YJk7ZFKFqnI?t=241), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1998), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [08-26](https://youtu.be/sTtFUy7IoJI?t=2162))
+- His usage is expected to drop from about 24 last season to a low-usage corner spacer role. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=2162), [08-11](https://youtu.be/YJk7ZFKFqnI?t=341))
 - Minutes and usage across the Portland rotation are expected to swing from game to game. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
+- The experts disagree on a trade. One said in June that it feels like he will be moved. The August team preview doubts a consolidation trade. (verdict, 2026-08-11; [06-29](https://youtu.be/bHA-JoW3reE?t=1013), [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
 
 **Durable**
-- He can play well in a low-usage role, as he did at 15 to 16 usage in Boston. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=2188))
+- He has played low-usage roles before, at 15 to 16 usage in Boston. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=2188))
+- He can still be useful in a low-usage role. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=2188))
 
 **Tags**
-- Current: `role down` (Usage expected to fall from 24 to a low-usage corner spacer role, likely off the bench), `minutes competition` (Crowded Portland backcourt with Lillard, Morant, Henderson and Avdija), `handcuff` (Expected to start when Morant or Lillard are out), `waiver watch` (Ranked around 131 to 136, at the edge of our 144-player draft pool), `bad playoff schedule` (Portland has three back-to-backs in the fantasy playoffs)
-- Durable: `fits every build` (No weak category; small help in AST, 3PM and FT%)
+- Current: `role down` (Expected to move to a bench role at small forward, with usage falling from about 24 to a low-usage spacer role), `usage competition` (Shares the ball with Lillard, Morant, Henderson and Avdija), `minutes competition` (Crowded Portland backcourt. Projected to come off the bench behind Lillard and Morant), `handcuff` (Expected to start when Morant or Lillard is out), `unsettled rotation` (Portland minutes and usage are expected to swing from game to game), `shared ball handling` (Morant, Lillard, Holiday, Avdija and Henderson share playmaking), `trade risk` (One expert said in June he will likely be moved. A later team preview doubts a consolidation trade)
+- Durable: `fits every build` (No weak category, but no strong category either)
 
-**Note.** He is at the edge of our 144-player pool. Yahoo ranks him 136 and ESPN 131, both value him at 0 USD, and he cost 3 USD in our league last season. His projections (12 to 12.6 PTS, 4.4 to 4.7 AST on about 10 FGA) are well below last season's 16.3 PTS and 6.1 AST on 13.4 FGA, which matches the experts' call for lower usage. No category is weak, so a 1 USD end-of-draft pick fits any build, but he can also be left on waivers. Early in the season, check whether he starts when Morant or Lillard miss games.
+**Note.** Both sites price him at about 0 USD (Yahoo rank 136, ESPN rank 131), which puts him at the very end of our 144-player pool. We paid 3 USD for him last season. Last season's 16.3 points and 6.1 assists came with usage that experts expect to fall in a crowded Portland backcourt, and the projections of about 12 points and 4.6 assists already show that drop. He is a 1 USD bench filler or a waiver player who fits any build. Early in the season, check whether he starts or comes off the bench, how many minutes he gets, and whether Morant or Lillard miss games. Those are the times his value goes up.
 
-<sub>10 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>10 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

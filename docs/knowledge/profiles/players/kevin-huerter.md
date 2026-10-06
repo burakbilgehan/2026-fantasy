@@ -30,18 +30,18 @@
 </details>
 
 **Current**
-- In Detroit's projected bench rotation, Isaiah Joe is the sixth man, followed by Ron Holland, Paul Reed and Daniss Jenkins. Huerter and Prince compete for the last rotation spot. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1420))
+- In the projected Detroit rotation he is not a starter. Isaiah Joe is the sixth man, then Ron Holland, Paul Reed and Daniss Jenkins. Huerter or Prince gets the last rotation spot. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1420), [10-03](https://youtu.be/_O9pc_u5vH0?t=374))
 - Detroit used a deep 12 to 13 player rotation last season, which limited everyone's minutes. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1386))
-- Signed with Detroit for 3 years and 27 million USD in free agency. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1160))
-- The expert does not understand the signing. He sees Huerter as a possible shooter next to Isaiah Joe. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1160))
+- He signed with Detroit for 3 years and 27 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1160))
+- One expert does not understand the signing. He thinks Detroit could use Huerter as a shooter next to Isaiah Joe. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1160))
 
 **Durable**
-- He has no standout category. His best categories are low turnovers and threes, but neither is a league outlier. Points and rebounds are below the top 250 pool. (fact, 2026-10-04; stats)
+- His category line has no strong outlier. Threes and low turnovers are his best categories, and points and rebounds are a bit below the pool. (verdict, 2026-10-05; stats)
 
 **Tags**
-- Current: `new team` (Signed with Detroit in free agency), `minutes competition` (Competes with Prince for the last spot in Detroit's bench rotation)
+- Current: `new team` (Signed with Detroit, 3 years and 27 million USD), `minutes competition` (Competes with Prince for the last spot in Detroit's bench rotation), `deep rotation` (Detroit used a 12 to 13 player rotation last season)
 - Durable: none
 
-**Note.** At rank 195 on Yahoo and 183 on ESPN, both with a value of 0 USD, he sits outside the 144 players our league drafts, so he is not a draft target. His projected line (about 10 points, 1.6 threes, 1.0 turnovers) has no category that a punt build can lean on. Early in the season, check whether he beats Prince for the last spot in Detroit's rotation. Only then is he a waiver option for threes.
+**Note.** Yahoo ranks him 195 and ESPN 183, both at 0 USD. That is outside the 144 players drafted in our league, so he is not a draft target. His projected line (10.2 PTS, 1.6 3PM, 44.5 FG%) has no category strong enough to make him a punt-build piece. Early in the season, check whether he wins the last rotation spot over Prince and gets steady shooter minutes next to Isaiah Joe. Only then is he worth a waiver look.
 
-<sub>1 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>1 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

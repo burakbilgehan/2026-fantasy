@@ -30,24 +30,28 @@
 </details>
 
 **Current**
-- Experts say drafts have him far too low. He is about a top 70 to 75 player per game and could finish top 70 to 80 if he stays healthy. Worth taking the shot. (verdict, 2026-10-02; [09-30](https://youtu.be/BjXP9JODDSg?t=1640), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1296), [10-02](https://youtu.be/ZYllcj4o6_A?t=2443))
-- Ranked in tier 8 of point guards. If he stays healthy for 65 to 70 games, he would rank ahead of nearly all of that tier. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2417))
-- Suggs is projected to start for Orlando with Bane, Franz Wagner, Banchero and Carter. That group was very good when it played together. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
-- Orlando has a new head coach, Sean Sweeney, so player roles may change. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
+- Experts rate him a top 70 to 80 player per game when healthy. They say drafts have him far too low and he is worth the shot at his price. (verdict, 2026-10-05; [10-02](https://youtu.be/ZYllcj4o6_A?t=2443), [09-30](https://youtu.be/BjXP9JODDSg?t=1640), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1296), [09-10](https://youtu.be/W-R1dzem32s?t=1961), [09-09](https://youtu.be/7BllEsdNLoM?t=2417), [10-05](https://youtu.be/Q6YlQDvD-aY?t=4306))
+- He went for 9 USD in an expert auction mock draft. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4306))
+- He sits in tier 8 at both guard spots. If he plays 65 to 70 games, he would rank ahead of nearly everyone in that tier. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2417))
+- He is a projected starter in Orlando's lineup with Bane, Franz Wagner, Banchero and Carter. That five was very good when it played together. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
+- Orlando has a new head coach, Sean Sweeney, so roles may change. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
 - Orlando is 2.5 million USD under the second apron and will likely have to choose between keeping Suggs and keeping Black. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1259))
-- Phil thinks Suggs is the likely trade sacrifice to keep Black. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1273))
+- One expert thinks Suggs is the likely trade sacrifice so Orlando can keep Black. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1273))
+- He shot badly in the playoffs: under 30% from the field and in the low 20s from three. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1273))
 - Plan for him to miss about 20 games this season. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1202))
-- He did not have a healthy summer last year. A healthy offseason could unlock another level. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=661))
+- He reached his career-high assists last season without a healthy summer. A healthy offseason could unlock another level. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=661))
+- Orlando is projected for 47 or 48 wins and the 6th seed. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2156))
 
 **Durable**
-- Steals are his standout category. He is a league outlier there. (fact, 2026-10-04; stats)
-- Injury prone. His physical, all-out style gets his body beaten up, and availability is his main issue. (verdict, 2026-09-30; [08-01](https://youtu.be/FEcNjVRlj-U?t=1202), [09-09](https://youtu.be/7BllEsdNLoM?t=2423), [09-10](https://youtu.be/W-R1dzem32s?t=1961), [09-30](https://youtu.be/BjXP9JODDSg?t=1734))
+- Steals are his standout category, far above the top 250 pool. (fact, 2026-10-05; stats)
+- Availability is his main issue. He cannot be trusted to stay healthy. (verdict, 2026-10-02; [09-30](https://youtu.be/BjXP9JODDSg?t=1734), [09-09](https://youtu.be/7BllEsdNLoM?t=2423), [10-02](https://youtu.be/ZYllcj4o6_A?t=2443))
+- He is injury prone. His physical, all-out style of play wears his body down. (fact, 2026-09-10; [08-01](https://youtu.be/FEcNjVRlj-U?t=1202), [09-09](https://youtu.be/7BllEsdNLoM?t=2423), [09-10](https://youtu.be/W-R1dzem32s?t=1961))
 - His three-point shooting is streaky. When it is on, he shoots about six threes a game. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2060))
 
 **Tags**
-- Current: `trade risk` (Orlando near the second apron; may trade him to keep Black), `sleeper` (drafted far too low; top 70 to 80 upside), `expert target` (experts call him worth the shot at his ADP), `sites disagree on price` (Yahoo rank 94 and 5 USD value, ESPN rank 142 and 0 USD value)
-- Durable: `STL specialist` (about 1.6 steals per game projected), `injury prone` (physical, all-out style; plan for about 20 missed games)
+- Current: `trade risk` (Orlando near second apron; may trade him to keep Black), `sleeper` (top 70 to 80 per game when healthy, drafted much lower), `expert target` (experts say drafts have him way too low), `sites disagree on price` (Yahoo value 5 USD, rank 94; ESPN value 0 USD, rank 142), `new coach` (Sean Sweeney replaces Jamahl Mosley), `winning team` (projected 47 or 48 wins, 6th seed)
+- Durable: `STL specialist` (about 1.6 steals per game projected), `fits every build` (no category flagged weak, but FG% and TO lean negative), `injury prone` (physical all-out style; plan for about 20 missed games), `streaky` (three-point shooting runs hot and cold)
 
-**Note.** The market prices Suggs as a late filler: Yahoo values him at 5 USD (rank 94), ESPN at 0 USD (rank 142), and he went for 1 USD in our auction last season. Experts see top 70 to 80 value when he is healthy. At 1 to 5 USD he is a good late buy for steals-heavy builds that can absorb his weak FG% and turnovers. Plan for about 20 missed games, and early in the season check his health, his role under new coach Sweeney, and any trade news tied to Orlando's choice between him and Black.
+**Note.** Suggs is a cheap per-game value. Yahoo prices him at 5 USD, ESPN at 0 USD, and he went for 1 USD in our league last season. Experts see a top 70 to 80 player per game, and he went for 9 USD in an expert mock. His steals, threes and assists help any build, but his FG% and turnovers lean negative. He has played 57 and 35 games the last two seasons, so in a 12-team league he works best as a 3 to 6 USD guard with a plan for missed games. Early in the season, watch his health and whether Orlando trades him to keep Black under the second apron.
 
-<sub>11 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>12 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

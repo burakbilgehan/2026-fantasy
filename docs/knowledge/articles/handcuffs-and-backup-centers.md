@@ -49,26 +49,26 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Payton Pritchard](../profiles/players/payton-pritchard.md) | BOS | G | 75 | 6.0 | 98 | 2.0 | 16 | Gives threes, FT%, assists and low turnovers even off the bench, rarely misses games, and gets a bigger role if Paul George misses time. |
-| [Derik Queen](../profiles/players/derik-queen.md) | NOP | F,C | 96 | 5.0 | 95 | 1.7 | not drafted | Late flyer whose rebounds, assists, steals and blocks help punt 3PM or punt TO builds now, with top 50 upside if Missi loses the job or Zion sits. |
-| [DeMar DeRozan](../profiles/players/demar-derozan.md) | DEN | F | 102 | 1.5 | 102 | 1.9 | 10 | Gives points, FT% and low turnovers in about 29 bench minutes, and moves to a starter's role if Braun or Cam Johnson is out or traded. |
+| [Payton Pritchard](../profiles/players/payton-pritchard.md) | BOS | G | 75 | 6.0 | 98 | 2.1 | 16 | Gives threes, FT%, assists and low turnovers even off the bench, rarely misses games, and gets a bigger role if Paul George misses time. |
+| [Derik Queen](../profiles/players/derik-queen.md) | NOP | F,C | 96 | 5.0 | 95 | 1.8 | not drafted | Late flyer whose rebounds, assists, steals and blocks help punt 3PM or punt TO builds now, with top 50 upside if Missi loses the job or Zion sits. |
+| [DeMar DeRozan](../profiles/players/demar-derozan.md) | DEN | F | 102 | 1.5 | 102 | 2.0 | 10 | Gives points, FT% and low turnovers in about 29 bench minutes, and moves to a starter's role if Braun or Cam Johnson is out or traded. |
 | [Daniel Gafford](../profiles/players/daniel-gafford.md) | DAL | C | 120 | 1.0 | 114 | 0.5 | not drafted | Can start early while Lively and other Dallas bigs are hurt, giving FG% and blocks to a punt 3PM build; check opening night and Lively's return date. |
-| [Quentin Grimes](../profiles/players/quentin-grimes.md) | LAL | G,F | 126 | 1.0 | 118 | 0.7 | not drafted | Has no weak category and fits any build; he becomes the number two option if Luka misses time, but must first win a starting spot. |
+| [Quentin Grimes](../profiles/players/quentin-grimes.md) | LAL | G,F | 126 | 1.0 | 118 | 0.8 | not drafted | Has no weak category and fits any build; he becomes the number two option if Luka misses time, but must first win a starting spot. |
 
 ### Last-pick flyer or waiver
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Collin Gillespie](../profiles/players/collin-gillespie.md) | PHX | G | 125 | 1.0 | 100 | 0.7 | not drafted | One injury to Green, Booker or Brooks puts him near 30 minutes for threes and steals, so leaving him on waivers and adding him then is fine. |
+| [Collin Gillespie](../profiles/players/collin-gillespie.md) | PHX | G | 125 | 1.0 | 100 | 0.8 | not drafted | One injury to Green, Booker or Brooks puts him near 30 minutes for threes and steals, so leaving him on waivers and adding him then is fine. |
 | [Jeremiah Fears](../profiles/players/jeremiah-fears.md) | NOP | G | 168 | 1.0 | 129 | 0.7 | not drafted | A broad guard line led by steals, with top 70 upside if Dejounte Murray is hurt or traded; check whether he beats Herb Jones for the start. |
-| [Jrue Holiday](../profiles/players/jrue-holiday.md) | POR | G | 136 | 0.0 | 131 | 0.5 | 3 | No weak category but lower usage now, so he only matters if he starts when Morant or Lillard miss games. |
-| [Andrew Nembhard](../profiles/players/andrew-nembhard.md) | IND | G | 108 | 1.0 | 149 | 0.7 | 10 | Assists are his only plus while Haliburton plays, so he is better added from waivers when Haliburton is out. |
+| [Jrue Holiday](../profiles/players/jrue-holiday.md) | POR | G | 136 | 0.0 | 131 | 0.6 | 3 | No weak category but lower usage now, so he only matters if he starts when Morant or Lillard miss games. |
+| [Andrew Nembhard](../profiles/players/andrew-nembhard.md) | IND | G | 108 | 1.0 | 149 | 0.8 | 10 | Assists are his only plus while Haliburton plays, so he is better added from waivers when Haliburton is out. |
 | [Nikola Vučević](../profiles/players/nikola-vucevic.md) | ORL | C | 177 | 0.0 | 103 | 1.1 | 17 | Gives a center's rebounds with good FT% and few turnovers, but his route back to top 100 value is a Wendell Carter Jr. injury. |
 | [Sandro Mamukelashvili](../profiles/players/sandro-mamukelashvili.md) | LAL | F,C | 139 | 1.0 | - | 0.0 | not drafted | A big who adds threes and fits any build, but he needs to start or keep about 27 bench minutes behind Kessler to matter. |
 | [Paul Reed](../profiles/players/paul-reed.md) | DET | F,C | 165 | 0.0 | 241 | 0.0 | not drafted | Strong per-minute FG%, blocks, steals and low turnovers behind Duren; he becomes a must-add with top 50 upside if Duren misses time. |
-| [Isaiah Stewart](../profiles/players/isaiah-stewart.md) | MEM | F,C | 174 | 0.0 | 146 | 0.0 | not drafted | Blocks and FG% on low volume; his starts while Edey's foot heals are what make him worth a claim. |
+| [Isaiah Stewart](../profiles/players/isaiah-stewart.md) | MEM | F,C | 174 | 0.0 | 146 | 0.1 | not drafted | Blocks and FG% on low volume; his starts while Edey's foot heals are what make him worth a claim. |
 | [Mitchell Robinson](../profiles/players/mitchell-robinson.md) | BOS | C | 178 | 0.0 | 115 | 0.3 | not drafted | Only for punt FT% builds that want FG%, rebounds and blocks, and he sits back-to-backs, including three in Boston's playoff weeks. |
-| [Anthony Black](../profiles/players/anthony-black.md) | ORL | G,F | 146 | 0.0 | 125 | 0.3 | not drafted | Mostly steals for now; a Suggs injury or trade is what would make him startable. |
+| [Anthony Black](../profiles/players/anthony-black.md) | ORL | G,F | 146 | 0.0 | 125 | 0.4 | not drafted | Mostly steals for now; a Suggs injury or trade is what would make him startable. |
 | [Ajay Mitchell](../profiles/players/ajay-mitchell.md) | OKC | G | 145 | 0.0 | 243 | 0.2 | not drafted | Experts call his value overblown with Cason Wallace ahead of him, but an SGA injury would make him a must-add. |
 | [Tre Jones](../profiles/players/tre-jones.md) | CHI | G | 148 | 1.0 | 179 | 0.0 | not drafted | Assists, a guard's FG% and few turnovers for punt 3PM or punt BLK builds; add him if Powell or Giddey miss time or Powell is traded. |
 | [Tari Eason](../profiles/players/tari-eason.md) | HOU | G,F | 163 | 0.0 | 176 | 0.1 | 2 | Rebounds and steals with near top 70 upside at 32 minutes if Durant or Smith is out, but Houston's weak playoff schedule cuts his late value. |
@@ -83,13 +83,12 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 | [Andre Drummond](../profiles/players/andre-drummond.md) | NYK | C | 211 | 0.0 | 251 | 0.0 | not drafted | His role could grow to about 29 minutes if Towns misses time; watch for Wiseman or Eubanks taking backup minutes. |
 | [Joan Beringer](../profiles/players/joan-beringer.md) | MIN | F,C | 182 | - | - | 0.0 | not drafted | Gobert's main backup who starts and becomes a must-roster if Gobert sits, but Minnesota's two-game week starting March 15 hurts his playoff use. |
 | [Jalen Smith](../profiles/players/jalen-smith.md) | CHI | F,C | 228 | - | 200 | 0.0 | not drafted | A minutes-driven streamer behind Claxton who should be added at once if he starts. |
-| [Jay Huff](../profiles/players/jay-huff.md) | IND | C | 189 | - | - | 0.0 | 1 | Blocks only, but he would start if Zubac misses time because the depth behind him is weak. |
+| [Jay Huff](../profiles/players/jay-huff.md) | IND | C | 189 | - | - | - | 1 | Blocks only, but he would start if Zubac misses time because the depth behind him is weak. |
 
 ### Deep waiver watch
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Robert Williams III](../profiles/players/robert-williams.md) | POR | C | 202 | - | 165 | 0.0 | not drafted | Blocks and FG% if his minutes reach about 23 or Clingan sits, but back-to-back rest and Portland's playoff back-to-backs lower his value. |
 | [Thomas Bryant](../profiles/players/thomas-bryant.md) | CLE | C | 305 | - | 296 | 0.0 | not drafted | Only jumps if Allen or Mobley miss time, and Cleveland's 2-game finals week rules him out as a playoff plan. |
 | [Marvin Bagley III](../profiles/players/marvin-bagley.md) | DEN | F,C | 244 | - | 256 | 0.0 | not drafted | Points, rebounds and FG% only when Jokic misses time, with no steals, threes or assists. |
 | [Precious Achiuwa](../profiles/players/precious-achiuwa.md) | SAC | F,C | 204 | - | 153 | 0.0 | not drafted | His late-season run came as an injury fill-in, so add him only if Sabonis, Murray or Hunter misses real time. |
@@ -100,7 +99,6 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 | [Dennis Schröder](../profiles/players/dennis-schroder.md) | CHA | G | 171 | - | 210 | 0.0 | 1 | No strong category off the bench, so he matters only if Coby White gets hurt. |
 | [Marcus Smart](../profiles/players/marcus-smart.md) | HOU | G | 218 | - | 247 | 0.0 | not drafted | A hurtful FG% and a weak playoff schedule leave him as a spot streamer on nights VanVleet sits. |
 | [Jaylin Williams](../profiles/players/jaylin-williams.md) | OKC | F,C | 223 | - | 232 | 0.0 | not drafted | Low turnovers are his only edge, so watch him only if Hartenstein or Holmgren misses time. |
-| [Aaron Wiggins](../profiles/players/aaron-wiggins.md) | ATL | G,F | 272 | 0.0 | 227 | 0.0 | not drafted | A bench wing who needs his shooting to recover and a starter injury to rise above about 20 minutes. |
 | [Obi Toppin](../profiles/players/obi-toppin.md) | IND | F | 330 | - | 239 | 0.0 | not drafted | Helps FG% a little but has no standard-league value unless Siakam is out or he wins small-ball center minutes. |
 | [Leonard Miller](../profiles/players/leonard-miller.md) | CHI | F | 363 | - | 309 | 0.0 | not drafted | Would play about 25 minutes only if Buzelis or Caleb Wilson got hurt. |
 | [Sergio de Larrea](../profiles/players/sergio-de-larrea.md) | DAL | G | 615 | - | - | 0.0 | not drafted | A tiny projection whose only case is assists on nights Kyrie sits, so check those games before spending FAB. |

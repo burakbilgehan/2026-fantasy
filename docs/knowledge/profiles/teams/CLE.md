@@ -11,32 +11,31 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Thomas Bryant, PF Nae'Qwan Tomlin, SF Jaylon Tyson, SG Sam Merrill
 
 **Current**
-- The projected starting lineup is James Harden, Donovan Mitchell, Peyton Watson, Evan Mobley and Jarrett Allen. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=397), [08-24](https://youtu.be/rnq3118kfhY?t=510), stats)
-- Cleveland lost four rotation players: Max Strus, Dennis Schroder, Keon Ellis and Dean Wade. (fact, 2026-09-29; [08-24](https://youtu.be/rnq3118kfhY?t=329), [09-29](https://youtu.be/NmdNvAz08oE?t=1376), [09-10](https://youtu.be/W-R1dzem32s?t=2044), [09-14](https://youtu.be/t4n9MAP2_14?t=1684))
+- The projected starters are James Harden, Donovan Mitchell, Peyton Watson, Evan Mobley and Jarrett Allen. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=397), [08-24](https://youtu.be/rnq3118kfhY?t=510), stats)
+- Cleveland lost Dennis Schroder, Max Strus, Keon Ellis and Dean Wade, all rotation players. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1376), [08-24](https://youtu.be/rnq3118kfhY?t=329), [09-14](https://youtu.be/t4n9MAP2_14?t=1684))
 - The projected bench is Jaylon Tyson, Sam Merrill, Thomas Bryant, Nae'Qwan Tomlin and Craig Porter Jr. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1376), stats)
-- Bench depth is clearly weaker than last season. Jaylon Tyson must play a lot. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1376), [09-10](https://youtu.be/W-R1dzem32s?t=2044))
-- Big-man depth is very thin. Behind Mobley and Allen there is only Thomas Bryant, then Ernest Udeh Jr. and Khalifa Diop. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1534), [08-24](https://youtu.be/rnq3118kfhY?t=1222), [09-14](https://youtu.be/t4n9MAP2_14?t=1684))
-- It is unclear whether Kenny Atkinson will play Mobley more at center in smaller lineups, possibly closing games that way with Watson, or lean into Allen and Harden pick-and-rolls. This choice drives Allen's minutes. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=362), [09-14](https://youtu.be/t4n9MAP2_14?t=1684))
+- Bench depth is weak after those losses, so Jaylon Tyson must play a lot. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1376), [09-10](https://youtu.be/W-R1dzem32s?t=2044))
+- Big-man depth is very poor. Behind Mobley and Allen there is only Thomas Bryant, then Ernest Udeh Jr. and Khalifa Diop. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1534), [08-24](https://youtu.be/rnq3118kfhY?t=1222), [09-14](https://youtu.be/t4n9MAP2_14?t=1684))
+- Cleveland may close games with Mobley at center now that Watson is on the team. It is not clear yet whether Kenny Atkinson will lean on those smaller lineups or on Allen and Harden pick-and-rolls. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=362), [09-14](https://youtu.be/t4n9MAP2_14?t=1684))
 - The second unit has no clear point guard, so Harden and Mitchell may stagger their minutes. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=250))
 - How much Harden and Mitchell play together is the key question for Mitchell's value. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=250))
-- The season preview listed no current injury concerns for the team. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1808))
-- Cleveland has among the most back-to-backs in the league, so rest risk for its older stars is higher than average. (verdict, 2026-09-29; [08-16](https://youtu.be/gf_6GveiAls?t=930), [09-29](https://youtu.be/NmdNvAz08oE?t=1907), stats)
-- With our March 28 end, Cleveland plays 4, 3 and then 2 games in weeks 19 to 21. Week 21, the finals week starting March 22, is a two-game week. This is the weakest playoff schedule in the league. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [08-16](https://youtu.be/gf_6GveiAls?t=1536), stats)
-- Harden is now there for a full season, so more players need the ball. Harden's usage dropped in Cleveland, and his arrival cut into Mitchell's assists and scoring. (fact, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=408), [08-19](https://youtu.be/J1Eg3uaAICU?t=584))
-- Losing Dean Wade also removed the small-ball center option. (fact, 2026-09-14; [08-24](https://youtu.be/rnq3118kfhY?t=1222), [09-14](https://youtu.be/t4n9MAP2_14?t=1684))
-- Cleveland is expected to be a very good team. Danny predicts about 51 to 53 wins, above the market win total, so tanking risk is low. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1832), [06-30](https://youtu.be/JMSLg6yz-M0?t=1162), stats)
-- Coach Kenny Atkinson is under pressure. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1832))
-- From December 23 to February 6 the schedule has no consecutive home or road games. (fact, 2026-08-24, until 2027-02-06; [08-24](https://youtu.be/rnq3118kfhY?t=1856))
-- That heavy travel stretch could hurt the team's play. (verdict, 2026-08-24, until 2027-02-06; [08-24](https://youtu.be/rnq3118kfhY?t=1856))
-- The backcourt is crowded with Harden and Mitchell, so rookies have no immediate role. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=677))
+- There are no current injury concerns on the team. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1808))
+- Cleveland has among the most back-to-backs in the league, so rest risk for its stars is higher. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1907), [08-16](https://youtu.be/gf_6GveiAls?t=930), stats)
+- The fantasy playoff schedule is the worst in the league: 4, 3 and 2 games in weeks 19 to 21, with only 2 games in finals week (the week starting March 22). (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [08-16](https://youtu.be/gf_6GveiAls?t=1536), stats)
+- Harden is with the team full time, so more players need the ball. His usage dropped in Cleveland, and his arrival cut into Mitchell's assists and scoring. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=408), [08-19](https://youtu.be/J1Eg3uaAICU?t=584))
+- Losing Dean Wade also removes the small-ball center option. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1222))
+- Cleveland is a very good team. One expert predicts about 51 to 53 wins, above the market win total. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1832), [06-30](https://youtu.be/JMSLg6yz-M0?t=1162), stats)
+- Coach Kenny Atkinson is under pressure. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1832))
+- From December 23 to February 6 the schedule has no consecutive home or road games, so heavy travel could hurt the team. (verdict, 2026-08-24, until February 6; [08-24](https://youtu.be/rnq3118kfhY?t=1856))
+- The backcourt is crowded with Harden and Mitchell, who signed an extension, so there is no immediate role for rookies. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=677))
 
 **Durable**
 - none
 
 **Tags**
-- Current: `bad playoff schedule` (4, 3 and 2 games in weeks 19 to 21. 9 games in total, rank 30 of 30, with a two-game finals week.), `many back-to-backs` (16 back-to-backs so far, rank 26 of 30. Notes call it among the most in the league.), `thin rotation` (Lost Strus, Schroder, Ellis and Wade. Only Thomas Bryant behind Mobley and Allen.), `winning team` (Win total 47.5 (rank 9). Danny predicts 51 to 53 wins.)
+- Current: `winning team` (Win total 47.5, rank 9. One expert predicts 51 to 53 wins.), `many back-to-backs` (16 back-to-backs, rank 26 of 30. Notes call it among the most in the league.), `bad playoff schedule` (9 games in weeks 19 to 21, rank 30 of 30. Only 2 games in finals week.), `thin rotation` (Lost Schroder, Strus, Ellis and Wade. Only Thomas Bryant behind Mobley and Allen in the frontcourt.), `shared ball handling` (Harden and Mitchell share the ball. Harden's usage dropped and he cut into Mitchell's assists and scoring.), `coach hot seat` (Kenny Atkinson is under pressure.)
 - Durable: none
 
-**Note.** Cleveland is a strong team, so tanking is unlikely. The cost is in the schedule: it has among the most back-to-backs and the worst playoff weeks in the league, with only 2 games in our finals week. That lowers the value of every Cav, mostly Harden and Mitchell, who also share the ball and cut into each other's usage. The thin bench and thin frontcourt boost Jaylon Tyson and make Thomas Bryant a real handcuff. Early on, watch how often Harden and Mitchell stagger and whether Atkinson closes games with Mobley at center, since that would cost Allen minutes.
+**Note.** Cleveland projects as a winning team, but its fantasy playoff schedule is the worst in the league (9 games, only 2 in finals week), and it has among the most back-to-backs. That is a reason to pay less for Mitchell, Harden, Mobley and Allen, who also share the ball. The thin bench and very poor big-man depth make Jaylon Tyson and Thomas Bryant worth watching. Early on, watch how much Harden and Mitchell play together and whether Atkinson closes games with Mobley at center.
 
-<sub>22 notes. Built 2026-10-04 with claude-opus-5-5 high, team prompt v1.</sub>
+<sub>22 notes. Built 2026-10-05 with claude-opus-5-5 high, team prompt v1.</sub>

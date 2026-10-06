@@ -3,85 +3,111 @@
 
 <sub>Proposed by the synthesis, not on the user's list.</sub>
 
-**Summary.** Bigs who add assists or threes to rebounds and blocks give you categories that rarely come from the same player, so one roster spot helps you win more of the nine weekly matchups. In our auction, the best price to value is Onyeka Okongwu near his average cost, plus Sengun, Sabonis and Barnes at the prices the notes set. Jokic and Giannis are elite but cost a lot. Plan for turnovers, because passing bigs fit punt TO builds, and plan for FG% if you take bigs who shoot threes.
+**Summary.** Bigs who add assists or threes to rebounds and blocks win more categories from one roster spot. That frees your other picks to chase what is left, so they are worth targeting in our 9-cat H2H auction. Passing bigs usually cost you turnovers and stretch bigs usually cost you FG%, so pay up only when your build can absorb that cost, and use the many cheap stretch centers late in the draft.
 
-## Why rare combinations win in H2H
+## Why rare combos pay in H2H
 
-The experts say players who combine categories that do not usually go together carry extra value. Rebounds and assists is their example. Every week we play nine separate categories against one opponent. A typical big helps in rebounds, blocks and FG% but adds little in assists or threes. A big who also passes or shoots threes covers categories you would otherwise need a guard for. That frees other roster spots to chase the rest. ([07-15](https://youtu.be/0geFVzSqOnA?t=1382))
+Experts say players who combine categories that do not usually go together carry extra value. Rebounds and assists are their example. In our league you play nine separate category races every week. A normal center helps you in REB and BLK. To win AST and 3PTM you usually have to spend guard picks. A big who also passes or shoots threes covers more of those races from one roster spot. With only 12 players per team, that frees your other picks to chase the categories still missing. ([07-15](https://youtu.be/0geFVzSqOnA?t=1382))
 
-One expert calls a big man with blocks, threes, rebounds and a good FG% a fantasy cheat code. The profile is rare, so few managers can get it. With only 144 players drafted, our deep player pool does not make these players easier to replace. ([06-25](https://youtu.be/lOshTzDA4SA?t=1089))
+The best version is a big with blocks, threes, rebounds and a good FG%, which one expert calls a fantasy cheat code. Wembanyama is the clearest stretch case, with about 2 threes per game as a center. Jokić is the clearest passing case, with about 10 assists per game as a center. Both are top 2 picks on both sites for that reason. ([06-25](https://youtu.be/lOshTzDA4SA?t=1089), [Victor Wembanyama](../profiles/players/victor-wembanyama.md), [Nikola Jokić](../profiles/players/nikola-jokic.md))
 
-## The cost: threes pull against FG%
+## Passing bigs: plan for turnovers
 
-Threes and FG% pull against each other, so adding threes to a big man build is hard. A center who takes more threes plays farther from the rim. His offensive rebounds and rim finishing tend to drop, and his assists and three-point attempts go up. So a stretch big can quietly lower your FG% and rebounds while he adds threes. ([07-15](https://youtu.be/0geFVzSqOnA?t=1031), [08-25](https://youtu.be/H9q2FT3LhNw?t=1614))
+Bigs who pass usually bring turnovers with them. Turnovers are Jokić's only weak category. Sengun gives about 3 per game. Jalen Johnson averages about 3.3. Randle has a TO z of -1.8, and Draymond Green gives 2.5 per game. If you buy two or more of these players, plan to punt TO. Their profiles all say that is their best fit. ([Nikola Jokić](../profiles/players/nikola-jokic.md), [Alperen Sengun](../profiles/players/alperen-sengun.md), [Jalen Johnson](../profiles/players/jalen-johnson.md), [Julius Randle](../profiles/players/julius-randle.md), [Draymond Green](../profiles/players/draymond-green.md))
 
-The experts weigh this differently. One side calls the big with blocks, threes, rebounds and good FG% a cheat code worth chasing. The other side stresses that threes and FG% work against each other and that moving away from the rim costs rebounds and finishing. In practice, pay up only when a big keeps his FG% while he shoots threes. If his FG% drops, treat him as a punt FG% piece. ([06-25](https://youtu.be/lOshTzDA4SA?t=1089), [07-15](https://youtu.be/0geFVzSqOnA?t=1031), [08-25](https://youtu.be/H9q2FT3LhNw?t=1614))
+Price discipline matters, because our league paid points-league prices for this group last season. Stop on Sengun at about 30 USD and on Sabonis at 24 to 25 USD, even though he went for 41 USD last year. Aim for Barnes between 31 and 35 USD, not the 42 to 55 USD site values. Aim for Jalen Johnson in the mid 30s to low 40s, not first-round money. Giannis at 58 to 62 USD is fair only if you also punt FT%. ([Alperen Sengun](../profiles/players/alperen-sengun.md), [Domantas Sabonis](../profiles/players/domantas-sabonis.md), [Scottie Barnes](../profiles/players/scottie-barnes.md), [Jalen Johnson](../profiles/players/jalen-johnson.md), [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md))
 
-## Passing bigs and the turnover bill
+The cheaper passing options come with clear costs. Randle at 10 to 14 USD and Banchero at about 19 to 20 USD both give forward assists with rebounds. Draymond Green is a 1 to 3 USD end-of-draft pick at most. He brings frontcourt assists but hurts FG% (about 43%), PTS and TO. ([Julius Randle](../profiles/players/julius-randle.md), [Paolo Banchero](../profiles/players/paolo-banchero.md), [Draymond Green](../profiles/players/draymond-green.md))
 
-Jokic gives about 10 assists a game as a center and fits any build. Expect him to go for 75 to 90 USD here. Any price near 55 to 60 USD is a steal. Punt TO teams lose the least from his 3.4 turnovers. Early on, check his knee, his minutes near 35, and whether his assists stay near 10. ([Nikola Jokić](../profiles/players/nikola-jokic.md))
+The first weeks will show whether the assists are real. Check that Jokić plays about 35 minutes and gets about 10 assists. Check whether Sengun's assists slip toward 5 with VanVleet back. Check whether Sacramento runs the offense through Sabonis, with assists near 6 in about 33 minutes. Check whether Barnes keeps his assists next to Kawhi Leonard. If the assists fade, the rare combo is gone and only the turnover cost is left. ([Nikola Jokić](../profiles/players/nikola-jokic.md), [Alperen Sengun](../profiles/players/alperen-sengun.md), [Domantas Sabonis](../profiles/players/domantas-sabonis.md), [Scottie Barnes](../profiles/players/scottie-barnes.md))
 
-Giannis gives about 6 assists as a ball handler in Miami, along with strong FG%, points and rebounds. He anchors punt FT% builds that also give up TO, and he will cost about 60 USD or more. The main risk is games played. Check that he plays 32 or more minutes and how his knee holds up. ([Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md))
+## Stretch bigs: watch the FG% bill
 
-The mid-tier passing bigs are where the value sits. Sengun gives about 6 assists from the center spot with rebounds and good FG%. Do not go past about 30 USD, and note his weak 10-game playoff schedule. Sabonis projects 6.4 assists with FG% and rebounds. His fair price is in the middle of the 22.6 to 39.3 USD range, not first-round money. Barnes adds about 5.5 assists plus steals and blocks from an F,C slot at a fair 40 to 46 USD. All three fit punt TO builds best. ([Alperen Sengun](../profiles/players/alperen-sengun.md), [Domantas Sabonis](../profiles/players/domantas-sabonis.md), [Scottie Barnes](../profiles/players/scottie-barnes.md))
+A center who takes more threes plays farther from the rim. His offensive rebounds and rim finishing tend to drop, while his assists and three-point attempts go up. In practice, many stretch bigs give back FG%. Reid projects at about 46% on about 13 shots. Turner projects at 45.8%, which is weak for a center. Adebayo and Jabari Smith Jr. both fit best in punt FG% builds. ([08-25](https://youtu.be/H9q2FT3LhNw?t=1614), [Naz Reid](../profiles/players/naz-reid.md), [Myles Turner](../profiles/players/myles-turner.md), [Bam Adebayo](../profiles/players/bam-adebayo.md), [Jabari Smith Jr.](../profiles/players/jabari-smith.md))
 
-Draymond Green gives about 5.5 assists as an F,C, but he costs you in PTS, FG% and TO. Take him only as a 1 USD final pick or off waivers, in a build that needs assists from the frontcourt. ([Draymond Green](../profiles/players/draymond-green.md))
+This group is deep and mostly cheap, which is good news for our auction. Stop on Towns in the mid 30s and on Adebayo in the mid 20s. Okongwu is fair at 15 to 16 USD. Reid is fair at 10 to 15 USD. Buzelis, a forward with elite blocks and threes, is a buy under 20 USD. Late in the draft, Turner, Porziņģis, Smith, Keegan Murray and Mamukelashvili all cost 1 to a few USD. Brook Lopez should go undrafted. ([Karl-Anthony Towns](../profiles/players/karl-anthony-towns.md), [Bam Adebayo](../profiles/players/bam-adebayo.md), [Onyeka Okongwu](../profiles/players/onyeka-okongwu.md), [Naz Reid](../profiles/players/naz-reid.md), [Matas Buzelis](../profiles/players/matas-buzelis.md), [Myles Turner](../profiles/players/myles-turner.md), [Kristaps Porziņģis](../profiles/players/kristaps-porzingis.md), [Jabari Smith Jr.](../profiles/players/jabari-smith.md), [Keegan Murray](../profiles/players/keegan-murray.md), [Sandro Mamukelashvili](../profiles/players/sandro-mamukelashvili.md), [Brook Lopez](../profiles/players/brook-lopez.md))
 
-## Bigs who shoot threes
+Not every stretch big gives you the full set. Mamukelashvili adds threes and rebounds but few blocks. Okongwu has no weak category, but check whether his blocks and his 48.5% FG% recover. Towns stands out because he adds good FT% for a big on top of rebounds and threes. ([Sandro Mamukelashvili](../profiles/players/sandro-mamukelashvili.md), [Onyeka Okongwu](../profiles/players/onyeka-okongwu.md), [Karl-Anthony Towns](../profiles/players/karl-anthony-towns.md))
 
-Okongwu is the closest match to the cheat-code profile in our data. He is a stretch center who makes threes on real volume, adds steals that are rare for a center, and helps in every build. Experts say nine-cat rankings overrate him, so pay close to his 5 to 8 USD average cost, not the 22 USD Yahoo value. Check early that his FG% stays near 48% and his blocks near 1.1. Those are the numbers the threes-versus-FG% trade-off puts at risk. ([Onyeka Okongwu](../profiles/players/onyeka-okongwu.md), [06-25](https://youtu.be/lOshTzDA4SA?t=1089), [07-15](https://youtu.be/0geFVzSqOnA?t=1031))
+## Where the experts pull apart
 
-Jabari Smith Jr. projects about 2.1 threes a game from an F,C slot, with rebounds and few turnovers. He fits punt FG% builds, which matches the expert warning that threes hurt a big's FG%. Buy him at 1 to 3 USD late in the auction and do not reach for him inside the top 100. His 10-game playoff schedule is a minus. ([Jabari Smith Jr.](../profiles/players/jabari-smith.md), [07-15](https://youtu.be/0geFVzSqOnA?t=1031))
+The experts disagree about how much to chase threes from a big. One side says a big with blocks, threes, rebounds and good FG% is a fantasy cheat code and worth building around. The other side says threes and FG% pull against each other, so adding threes to a big-man build is hard, and the note on stretch centers explains why: rim finishing drops as he moves outside. For our league, pay full price only when the player keeps FG% and blocks along with the threes. Treat the cheaper stretch bigs with weak FG% as punt FG% pieces, or pair them with a strong FG% center. ([06-25](https://youtu.be/lOshTzDA4SA?t=1089), [07-15](https://youtu.be/0geFVzSqOnA?t=1031), [08-25](https://youtu.be/H9q2FT3LhNw?t=1614))
 
-## Auction plan for our league
+## Draft and season plan for our league
 
-Decide your build before you bid. Passing bigs give up turnovers, so they suit punt TO teams. Giannis also suits punt FT%. Stretch bigs who lose FG% suit punt FG%. If you miss on Jokic or Giannis, Sengun at up to 30 USD or Sabonis in the middle of his range gives you center assists for much less. Then add Okongwu near average cost to cover threes and steals from a second big. ([Alperen Sengun](../profiles/players/alperen-sengun.md), [Domantas Sabonis](../profiles/players/domantas-sabonis.md), [Onyeka Okongwu](../profiles/players/onyeka-okongwu.md), [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md), [07-15](https://youtu.be/0geFVzSqOnA?t=1382))
+Match the big to the build. Passing bigs go with punt TO. Giannis also goes with punt FT%. Stretch bigs with weak FG% go with punt FG%. Even with Wembanyama, you still want a second shot blocker, because his minutes are expected to stay under 35 and his blocks could sit near 3 a game. ([Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md), [Victor Wembanyama](../profiles/players/victor-wembanyama.md), [Myles Turner](../profiles/players/myles-turner.md), [Bam Adebayo](../profiles/players/bam-adebayo.md))
 
-Some forwards also give the rebounds-plus-assists combination, but none of them has C eligibility. Jalen Johnson gives elite rebounds and about 8 assists, and a price nearer last season's 34 USD is safer than the market. Tatum, Banchero and Randle add forward assists with rebounds, and their turnovers point them to punt TO builds too. They help the same categories but do not fill your C slot. ([Jalen Johnson](../profiles/players/jalen-johnson.md), [Jayson Tatum](../profiles/players/jayson-tatum.md), [Paolo Banchero](../profiles/players/paolo-banchero.md), [Julius Randle](../profiles/players/julius-randle.md), [07-15](https://youtu.be/0geFVzSqOnA?t=1382))
+Check the playoff calendar before you pay. Houston has only 10 games across our weeks 19 to 21, which hurts Sengun and Jabari Smith Jr. Golden State has 15 back-to-backs, but our 4 IL slots make Porziņģis easy to hold at 1 to 3 USD. Brooklyn may rest Randle in March, so think about trading him before the 2027-03-04 deadline. ([Alperen Sengun](../profiles/players/alperen-sengun.md), [Jabari Smith Jr.](../profiles/players/jabari-smith.md), [Kristaps Porziņģis](../profiles/players/kristaps-porzingis.md), [Julius Randle](../profiles/players/julius-randle.md))
 
-In the first weeks, check that the extra category holds. Watch Sengun's assists with VanVleet back, Sabonis's assists returning to about 6, Barnes's shooting next to Kawhi, and Okongwu's FG% and blocks. If a big loses the rare category, he is just a regular big, and you should price him that way in trades before the 2027-03-04 deadline. ([Alperen Sengun](../profiles/players/alperen-sengun.md), [Domantas Sabonis](../profiles/players/domantas-sabonis.md), [Scottie Barnes](../profiles/players/scottie-barnes.md), [Onyeka Okongwu](../profiles/players/onyeka-okongwu.md))
+Some of these bigs belong on the waiver watch list. Add Lopez if he gets near 30 minutes over Isaiah Jackson. If Mamukelashvili does not win a starting spot, leave him on waivers and grab him if Kessler gets hurt. ([Brook Lopez](../profiles/players/brook-lopez.md), [Sandro Mamukelashvili](../profiles/players/sandro-mamukelashvili.md))
 
 ## Players
 
 Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
-### Elite anchors
+### Elite combo anchors
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Nikola Jokić](../profiles/players/nikola-jokic.md) | DEN | C | 1 | 71.0 | 1 | 81.8 | 87 | About 10 assists from the center spot make him the purest rebounds-plus-assists combination, and he fits any build. |
-| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 58.8 | 20 | 61.4 | 62 | He handles the ball in Miami for about 6 assists on top of strong FG% and rebounds, which anchors a punt FT% build. |
+| [Nikola Jokić](../profiles/players/nikola-jokic.md) | DEN | C | 1 | 71.0 | 1 | 81.4 | 87 | About 10 assists per game as a center make him the purest passing big, and turnovers are his only weak category. |
+| [Victor Wembanyama](../profiles/players/victor-wembanyama.md) | SAS | C | 2 | 70.0 | 2 | 80.5 | 85 | About 2 threes per game on top of elite blocks make him the clearest example of the stretch-big cheat code. |
+| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 58.8 | 20 | 62.1 | 62 | His big-man assists as Miami's main ball handler, plus FG%, points and rebounds, carry a punt FT% build. |
+
+### Core targets
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Jayson Tatum](../profiles/players/jayson-tatum.md) | BOS | F | 7 | 54.6 | 8 | 54.3 | not drafted | A round-one forward who adds threes and assists to rebounds, best in punt TO with FG% help around him. |
 
 ### Value at price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Alperen Sengun](../profiles/players/alperen-sengun.md) | HOU | F,C | 22 | 32.6 | 29 | 32.6 | 36 | He gives center assists with rebounds and good FG%, but cap your bid near 30 USD because of his weak playoff schedule. |
-| [Domantas Sabonis](../profiles/players/domantas-sabonis.md) | SAC | F,C | 35 | 22.6 | 32 | 39.3 | 41 | His dribble-handoff assists plus FG% and rebounds from the C spot fit punt TO, at a mid-range price, not first-round money. |
-| [Scottie Barnes](../profiles/players/scottie-barnes.md) | TOR | F,C | 15 | 46.2 | 10 | 43.8 | 31 | As an F,C he adds assists, steals and blocks together, a rare spread for one slot. |
-| [Onyeka Okongwu](../profiles/players/onyeka-okongwu.md) | ATL | C | 49 | 7.8 | 44 | 5.2 | 6 | He is a stretch center with threes and steals who is closest to the cheat-code profile if his FG% and blocks hold. |
+| [Scottie Barnes](../profiles/players/scottie-barnes.md) | TOR | F,C | 15 | 46.2 | 10 | 43.9 | 31 | Assists, steals and blocks are a rare mix for an F/C, as long as you pay our league's price and not the site values. |
+| [Alperen Sengun](../profiles/players/alperen-sengun.md) | HOU | F,C | 22 | 32.6 | 29 | 32.2 | 36 | Assists from the C spot with rebounds and good FG%, but FT% and turnovers drag, and Houston has a thin playoff schedule. |
+| [Domantas Sabonis](../profiles/players/domantas-sabonis.md) | SAC | F,C | 35 | 22.6 | 32 | 39.3 | 41 | FG% and rebounds with bonus assists fit punt TO, if the offense runs through him again. |
+| [Karl-Anthony Towns](../profiles/players/karl-anthony-towns.md) | NYK | F,C | 16 | 40.0 | 19 | 34.5 | 46 | Rebounds, threes and good FT% from a big fit most builds, but stop bidding in the mid 30s. |
+| [Bam Adebayo](../profiles/players/bam-adebayo.md) | MIA | F,C | 26 | 25.4 | 15 | 25.5 | 26 | Rebounds, steals and threes from the center spot count fully in punt FG% builds. |
+| [Onyeka Okongwu](../profiles/players/onyeka-okongwu.md) | ATL | C | 49 | 7.8 | 44 | 5.4 | 6 | A stretch center with threes, steals and no weak category, if his minutes and blocks hold. |
+| [Naz Reid](../profiles/players/naz-reid.md) | CHA | F,C | 59 | 4.2 | 37 | 7.7 | 2 | A projected starter who adds threes, blocks and steals from F/C, though his FG% will not help. |
+| [Matas Buzelis](../profiles/players/matas-buzelis.md) | CHI | F | 69 | 9.0 | 59 | 4.2 | 12 | Elite blocks and threes from a forward with no weak category make him a buy below the experts' fair price. |
+| [Julius Randle](../profiles/players/julius-randle.md) | BKN | F | 73 | 8.2 | 86 | 8.6 | 10 | Points, rebounds and assists from a forward are a natural fit for punt TO. |
+| [Paolo Banchero](../profiles/players/paolo-banchero.md) | ORL | F | 52 | 18.8 | 75 | 14.5 | 26 | Forward assists with points and rebounds fit punt TO and punt FT, if you pay a category price. |
+
+### Avoid at price
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Jalen Johnson](../profiles/players/jalen-johnson.md) | ATL | F | 11 | 51.4 | 9 | 53.9 | 34 | His rebound and assist combo is elite for a forward, but his market price is above what category experts would pay. |
 
 ### Late flyers
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Jabari Smith Jr.](../profiles/players/jabari-smith.md) | HOU | F,C | 98 | 1.6 | 110 | 1.0 | 1 | He gives cheap threes and rebounds from an F,C slot with few turnovers, and suits punt FG% builds. |
-| [Draymond Green](../profiles/players/draymond-green.md) | GSW | F,C | 137 | 0.0 | 161 | 0.2 | 4 | He gives frontcourt assists only, with costs in PTS, FG% and TO, so take him as a 1 USD final pick or off waivers. |
+| [Myles Turner](../profiles/players/myles-turner.md) | MIL | C | 101 | 1.0 | 93 | 1.0 | 20 | Strong blocks and threes for almost nothing, best in punt FG% builds. |
+| [Kristaps Porziņģis](../profiles/players/kristaps-porzingis.md) | GSW | C | 152 | 1.0 | 80 | 1.1 | 21 | Threes, FT% and blocks from the C slot at a last-round price, easy to hold with our IL slots. |
+| [Jabari Smith Jr.](../profiles/players/jabari-smith.md) | HOU | F,C | 98 | 1.6 | 110 | 1.1 | 1 | Threes and rebounds from F/C with few turnovers suit punt FG%, but his playoff schedule is short. |
+| [Keegan Murray](../profiles/players/keegan-murray.md) | SAC | F | 116 | 1.0 | 83 | 1.2 | 1 | A forward who adds threes and blocks with few turnovers, with more usage expected in Sacramento. |
+| [Draymond Green](../profiles/players/draymond-green.md) | GSW | F,C | 137 | 0.0 | 161 | 0.3 | 4 | Frontcourt assists at an end-of-draft price, but he hurts FG%, points and turnovers. |
+| [Sandro Mamukelashvili](../profiles/players/sandro-mamukelashvili.md) | LAL | F,C | 139 | 1.0 | - | 0.0 | not drafted | Threes and rebounds from F/C as a final-round flyer, though he adds few blocks. |
 
-### Forward-only combos
+### Waiver watch
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Jalen Johnson](../profiles/players/jalen-johnson.md) | ATL | F | 11 | 51.4 | 9 | 54.1 | 34 | He gives elite rebounds and about 8 assists from a forward, the same rare pairing without C eligibility. |
-| [Jayson Tatum](../profiles/players/jayson-tatum.md) | BOS | F | 7 | 54.6 | 8 | 54.3 | not drafted | He adds strong rebounds and assists for a forward on top of elite threes, but turnovers point him to punt TO. |
-| [Paolo Banchero](../profiles/players/paolo-banchero.md) | ORL | F | 52 | 18.8 | 75 | 14.4 | 26 | He gives forward assists with points and rebounds and fits punt TO and punt FT builds. |
-| [Julius Randle](../profiles/players/julius-randle.md) | BKN | F | 73 | 8.2 | 86 | 8.6 | 10 | He is Brooklyn's main creator, with forward assists and rebounds, but his turnovers push him toward punt TO. |
+| [Brook Lopez](../profiles/players/brook-lopez.md) | LAC | C | 160 | 0.0 | 112 | 0.2 | not drafted | Threes and blocks from the center spot make him a short-term add only if he gets near 30 minutes. |
 
 <details><summary>Left out</summary>
 
-- LeBron James: He is reported to play point guard, and his data shows a guard-style assist role, not a big man's rebounds and blocks.
-- Jalen Williams: His profile is points, assists and steals as a forward, with no rebound or block value in the data, so he is not a big man combination.
+- Lauri Markkanen: A forward whose value is FT% and threes. His notes name no rebound or block edge, so he is not a big adding a rare combo.
+- Brandon Miller: A wing whose value is threes, points and FT%, with no rebound or block value noted.
+- LeBron James: A forward who is reported to play point guard. His notes give no rebound or block edge to pair with the assists.
+- OG Anunoby: A forward whose value is steals and threes, not a big-man combo with rebounds or blocks.
+- Paul George: A forward whose value is steals, threes and FT%, with no rebound or block value noted.
+- Julian Champagnie: A forward whose value is threes with few turnovers, and he should be left on waivers anyway.
+- Max Strus: A forward whose value is threes, and he gives little in blocks. He is also outside our draft pool.
+- Jalen Williams: A forward whose value is steals, assists and points. His notes name no rebound or block edge.
 
 </details>
 
-<sub>Built 2026-10-04 with claude-opus-5-5 high.</sub>
+<sub>Built 2026-10-05 with claude-opus-5-5 high.</sub>

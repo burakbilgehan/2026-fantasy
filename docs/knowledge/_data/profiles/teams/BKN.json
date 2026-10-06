@@ -2,18 +2,20 @@
  "team": "BKN",
  "prompt_version": 1,
  "prompt_sha": "07b4ed7fd28e",
- "input_sha": "8b1eb4f7ae35",
+ "input_sha": "436d93b0ae26",
  "note_count": 23,
- "built_at": "2026-10-04T20:01:16+00:00",
+ "built_at": "2026-10-05T20:08:23+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.14832679999999998,
-  "duration_ms": 42612
+  "cost_usd_list": 0.275229,
+  "duration_ms": 72942,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Houston controls Brooklyn's draft pick this season, so the Nets have no reason to tank.",
+   "text": "Brooklyn does not own its first-round pick this season. The pick goes to Houston, so the Nets have no draft reason to tank.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
@@ -28,60 +30,48 @@
    ]
   },
   {
-   "text": "Brooklyn is expected to be one of the worst teams in the league.",
-   "kind": "verdict",
-   "date": "2026-09-26",
-   "until": "",
-   "sources": [
-    "9tb1ARBEmQU:t2",
-    "dlo7L8Ru91A:t3",
-    "uRsfijpBPok:t4",
-    "stats"
-   ]
-  },
-  {
-   "text": "Slater predicts about 28 wins, with a range of roughly 22 to 30.",
-   "kind": "fact",
-   "date": "2026-08-21",
-   "until": "",
-   "sources": [
-    "uRsfijpBPok:t4"
-   ]
-  },
-  {
-   "text": "Only rookies and second-year players play point guard, which could limit the team's ceiling.",
-   "kind": "verdict",
-   "date": "2026-08-21",
-   "until": "",
-   "sources": [
-    "uRsfijpBPok:t4"
-   ]
-  },
-  {
-   "text": "The Nets also have no team-building reason to win beyond player development. They plan to try to win while also running a development and evaluation season.",
-   "kind": "fact",
-   "date": "2026-09-26",
-   "until": "",
-   "sources": [
-    "3UGI05PDvrE:t0",
-    "uRsfijpBPok:t0",
-    "Rqb5GdrSweY:t1"
-   ]
-  },
-  {
-   "text": "March minutes are uncertain. Veterans like Julius Randle may be rested, and the team may shift minutes to Josh Minott, Noah Clowney, Mikel Brown Jr. and Egor Demin in the second half.",
+   "text": "The Nets also have no team-building reason to win beyond player development. Their March minutes are uncertain, and veterans like Julius Randle may be rested while the team experiments.",
    "kind": "verdict",
    "date": "2026-09-26",
    "until": "",
    "sources": [
     "3UGI05PDvrE:t0",
-    "3UGI05PDvrE:t3",
     "Rqb5GdrSweY:t1",
     "sTtFUy7IoJI:t4"
    ]
   },
   {
-   "text": "Projected starters: Mikel Brown Jr., Egor Demin, Michael Porter Jr., Julius Randle and Day'Ron Sharpe.",
+   "text": "The team plans to try to win while also running a development and evaluation season.",
+   "kind": "fact",
+   "date": "2026-08-21",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:t0"
+   ]
+  },
+  {
+   "text": "Brooklyn is expected to be one of the worst teams in the league. Slater predicts about 28 wins, with a range of roughly 22 to 30. The win total of 24.5 ranks 29 of 30.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:t4",
+    "dlo7L8Ru91A:t3",
+    "9tb1ARBEmQU:t2",
+    "stats"
+   ]
+  },
+  {
+   "text": "Only rookies and second-year players are available at point guard, which could limit the team's ceiling.",
+   "kind": "verdict",
+   "date": "2026-08-21",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:t4"
+   ]
+  },
+  {
+   "text": "The projected starters are Mikel Brown Jr., Egor Demin, Michael Porter Jr., Julius Randle and Day'Ron Sharpe.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
@@ -93,7 +83,7 @@
    ]
   },
   {
-   "text": "Watch early in the season whether Day'Ron Sharpe actually starts.",
+   "text": "Day'Ron Sharpe is expected to start at center. Check early in the season that this actually happens.",
    "kind": "verdict",
    "date": "2026-09-01",
    "until": "",
@@ -102,7 +92,7 @@
    ]
   },
   {
-   "text": "Projected bench rotation: Keon Ellis, Noah Clowney, Moritz Wagner, Danny Wolf and Nolan Traore. Three of them are big men. The depth chart lists Terance Mann in the second unit in place of Clowney.",
+   "text": "The projected bench rotation is Keon Ellis, Noah Clowney, Mo Wagner, Danny Wolf and Nolan Traore. Three of them are big men. Our depth chart lists Terance Mann in the second unit instead of Clowney.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
@@ -112,7 +102,7 @@
    ]
   },
   {
-   "text": "Many young players have a case for minutes, especially in the second unit and the frontcourt. There will not be enough minutes for all of them.",
+   "text": "Many young players have a case for minutes, mostly in the second unit and in the frontcourt. Minutes will be hard to find for all of them.",
    "kind": "verdict",
    "date": "2026-08-21",
    "until": "",
@@ -121,23 +111,33 @@
    ]
   },
   {
-   "text": "Center minutes will probably be a messy split between Sharpe, Wagner and Wolf. Randle and Minott can also take small-ball minutes at center.",
+   "text": "The center spot is open. Center minutes will probably be a messy three-way split between Sharpe, Wagner and Wolf, with some small-ball minutes for Randle and Josh Minott.",
    "kind": "verdict",
    "date": "2026-07-02",
    "until": "",
    "sources": [
     "P6TNP-g0wzY:t7",
-    "4GDfg2n2l8o:t4",
-    "9tb1ARBEmQU:t2"
+    "9tb1ARBEmQU:t2",
+    "4GDfg2n2l8o:t4"
    ]
   },
   {
-   "text": "Randle will handle the ball a lot.",
+   "text": "Julius Randle will handle the ball a lot.",
    "kind": "verdict",
    "date": "2026-06-25",
    "until": "",
    "sources": [
     "lOshTzDA4SA:t6"
+   ]
+  },
+  {
+   "text": "The second half of the season is uncertain. Brooklyn could shift minutes to young players such as Josh Minott, Noah Clowney, Mikel Brown Jr. and Egor Demin.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t3",
+    "LM0cRCGoAUQ:t7"
    ]
   },
   {
@@ -151,7 +151,7 @@
    ]
   },
   {
-   "text": "The Nets will likely keep making moves and could take on players other teams want to dump.",
+   "text": "The Nets will likely keep making moves. They could also be used as a dumping ground for other teams' players.",
    "kind": "verdict",
    "date": "2026-06-30",
    "until": "",
@@ -161,7 +161,7 @@
    ]
   },
   {
-   "text": "Brooklyn has 16 back-to-backs, tied with Boston for the most in the league. That raises rest risk for its veterans.",
+   "text": "Brooklyn has 16 back-to-backs, among the most in the league, so rest risk for its veterans is higher.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
@@ -172,7 +172,7 @@
    ]
   },
   {
-   "text": "The fantasy playoff schedule is 3-4-3, 10 games in total, with just one back-to-back (in week 20). That is about average.",
+   "text": "The fantasy playoff schedule is average: 3, 4 and 3 games in weeks 19 to 21, with only one back-to-back, in week 20.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
@@ -196,45 +196,91 @@
  ],
  "tags": [
   {
-   "name": "no tank incentive",
+   "name": "bottom team",
    "channel": "current",
-   "detail": "Houston controls Brooklyn's pick, so there is no reason to tank, but also little reason to win.",
+   "detail": "Win total 24.5, rank 29 of 30. Slater predicts about 28 wins (range 22 to 30).",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:t4",
+    "dlo7L8Ru91A:t3",
+    "9tb1ARBEmQU:t2",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "no own pick",
+   "channel": "current",
+   "detail": "Pick goes to Houston, so no tank reason. March minutes are still uncertain because of development goals.",
    "until": "",
    "sources": [
     "3UGI05PDvrE:t0",
-    "uRsfijpBPok:t0",
     "sfCe7fS9daM:t9",
     "LUTYUdXBG1M:t2",
-    "Rqb5GdrSweY:t1"
+    "Rqb5GdrSweY:t1",
+    "dlo7L8Ru91A:t3"
    ],
-   "new_meaning": "Team does not own its draft pick this season, so it has no reason to tank."
+   "new_meaning": "The team does not own its first-round pick this season, so it has no draft lottery reason to tank."
   },
   {
    "name": "many back-to-backs",
    "channel": "current",
-   "detail": "16 back-to-backs, tied for the most in the league.",
+   "detail": "16 back-to-backs.",
    "until": "",
    "sources": [
     "3UGI05PDvrE:t4",
     "gf_6GveiAls:t1",
     "stats"
    ],
-   "new_meaning": "Team has many back-to-backs this season, so rest risk for its players is higher."
+   "new_meaning": ""
   },
   {
-   "name": "shutdown risk",
+   "name": "shared ball handling",
    "channel": "current",
-   "detail": "March minutes are uncertain. Veterans like Randle may sit while young players get more run.",
+   "detail": "Fernandez wants several ball handlers. Randle handles the ball a lot next to rookie and second-year guards.",
    "until": "",
    "sources": [
-    "3UGI05PDvrE:t0",
+    "uRsfijpBPok:t3",
+    "lOshTzDA4SA:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Many young players compete for second-unit and frontcourt minutes.",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:t2",
+    "3UGI05PDvrE:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Three-way center split between Sharpe, Wagner and Wolf. Minutes may shift to young players in the second half.",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:t7",
+    "9tb1ARBEmQU:t2",
+    "3UGI05PDvrE:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "Porter is a trade candidate. The team will likely keep making moves.",
+   "until": "",
+   "sources": [
     "3UGI05PDvrE:t3",
-    "sTtFUy7IoJI:t4",
-    "Rqb5GdrSweY:t1"
+    "LM0cRCGoAUQ:t7",
+    "9tb1ARBEmQU:t2"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Brooklyn will be bad, but Houston owns its pick, so there is no tank. Late-season minutes are still uncertain, and the team has 16 back-to-backs, which makes vets like Randle and Porter Jr. risky in March. Porter Jr. is also a trade candidate. Young players like Brown Jr. and Demin could gain later, while the center split between Sharpe, Wagner and Wolf is the main thing to watch early.",
+ "note": "Brooklyn will be bad, but Houston owns its pick, so there is no tank reason. Development goals still make March minutes uncertain for veterans like Randle and Porter, and Porter could be traded. Randle and the young guards Brown and Demin should get plenty of the ball, while the center job is a messy split, so watch early whether Sharpe really starts and pulls away from Wagner and Wolf.",
  "rejected": []
 }

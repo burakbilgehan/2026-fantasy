@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 18 | 6.6 | 54 | 10 | 12.3 | 53 | 11 |
+| 2026-27 | 18 | 6.6 | 54 | 10 | 12.8 | 53 | 11 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,28 +30,31 @@
 </details>
 
 **Current**
-- Garland starts at point guard for the Clippers and is projected as their main ball handler. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=360), [09-03](https://youtu.be/OBwWCxG9SqM?t=1756), [07-14](https://youtu.be/xHRF06_E9HE?t=625))
-- Brandon Ingram and Bradley Beal are out, and Kawhi Leonard is gone. That leaves Garland as the highest-usage player on the Clippers. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018), [06-30](https://youtu.be/JMSLg6yz-M0?t=995), [07-07](https://youtu.be/ME-r173X5b0?t=1016))
-- A toe injury limited him last season while he was in Cleveland. After the trade deadline, with the Clippers, he played about 30 minutes a night with about 20 points and 7 assists on 29% usage. Over that stretch he ranked 37th per game. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=461), [07-14](https://youtu.be/xHRF06_E9HE?t=636), [08-22](https://youtu.be/KLogvUwv_d8?t=1628))
-- Experts expect at least his Clippers production from last season, with more usage. If he is healthy, they expect about 32 minutes a night. A rookie guard will not take over his role. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=461), [07-14](https://youtu.be/xHRF06_E9HE?t=672), [06-30](https://youtu.be/JMSLg6yz-M0?t=995), [09-17](https://youtu.be/ahNxsoU8Hx4?t=736), [09-17](https://youtu.be/ahNxsoU8Hx4?t=807))
-- He goes around 65th on Yahoo and inside the top 50 on ESPN. In a recent 9-cat mock draft he fell to pick 48. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=475), [09-24](https://youtu.be/_vbAP5y182A?t=976))
-- Experts call him undervalued. He could easily be a top 30 player, and a healthy Garland might be top 20. The newest call is to draft him happily in the 40s. Taking him in the 30s is risky. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=475), [10-04](https://youtu.be/tnzmsYUA4yQ?t=526), [09-21](https://youtu.be/egRrai3Ax38?t=644), [09-17](https://youtu.be/ahNxsoU8Hx4?t=709), [09-09](https://youtu.be/7BllEsdNLoM?t=1134))
+- In an auction mock he went for 25 USD, which Josh called a little under value. Josh's max of 30 USD is probably aggressive. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=636))
+- Garland is the Clippers' starting point guard and main ball handler. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=360), [09-03](https://youtu.be/OBwWCxG9SqM?t=1756), [07-14](https://youtu.be/xHRF06_E9HE?t=625))
+- Kawhi Leonard and James Harden are gone and Brandon Ingram is out injured, so Garland is the Clippers' highest-usage player and their best player. (fact, 2026-10-04; [06-30](https://youtu.be/JMSLg6yz-M0?t=995), [09-17](https://youtu.be/ahNxsoU8Hx4?t=736), [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018), [08-22](https://youtu.be/KLogvUwv_d8?t=110))
+- After the trade to the Clippers he played about 30 minutes a night with about 20 points and 7 assists on 29% usage. He ranked 37th per game after the deadline. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=461), [07-14](https://youtu.be/xHRF06_E9HE?t=636))
+- Experts expect at least that production this season, with about 30% usage and about 32 minutes if healthy. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=461), [10-04](https://youtu.be/n4KkK-OJjqA?t=372), [07-14](https://youtu.be/xHRF06_E9HE?t=672))
+- Experts see him as a likely top 30 player, and a healthy Garland might be top 20. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=475), [10-04](https://youtu.be/tnzmsYUA4yQ?t=526), [10-04](https://youtu.be/n4KkK-OJjqA?t=372))
+- Experts say his market price is too low. They are happy to take him in the 40s or in round 3. Taking him in the 30s is risky. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=526), [10-04](https://youtu.be/n4KkK-OJjqA?t=958), [09-17](https://youtu.be/ahNxsoU8Hx4?t=709), [09-21](https://youtu.be/egRrai3Ax38?t=644), [09-21](https://youtu.be/egRrai3Ax38?t=1243), [09-09](https://youtu.be/7BllEsdNLoM?t=1134))
 - He is the best fantasy target on the Clippers. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1836))
-- The Clippers do not control their own draft pick, so tanking does not help them. They are expected to try to stay somewhat competitive. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=165), [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [08-22](https://youtu.be/KLogvUwv_d8?t=1267))
-- The Clippers play 4, 3 and 4 games in our fantasy playoff weeks. They have one of the lowest back-to-back totals in the league, with 13. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
-- He is expected to be ready for opening night. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1628))
+- The Clippers might rest him or ease off late in the season because they have no strong reason to win or lose. Experts call this risk small and say his value outweighs it. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=372), [10-04](https://youtu.be/n4KkK-OJjqA?t=1607), [10-04](https://youtu.be/n4KkK-OJjqA?t=360), [10-04](https://youtu.be/tnzmsYUA4yQ?t=165))
+- The Clippers play 4-3-4 games in our fantasy playoff weeks and have one of the lowest back-to-back totals in the league with 13. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
+- The Clippers roster is not set up to hand the offense to rookies. A rookie guard will not take over his role. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=736), [09-17](https://youtu.be/ahNxsoU8Hx4?t=807))
+- A toe injury limited him last season. He is expected to be ready for opening night. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1628))
 
 **Durable**
-- He has a long injury record: persistent toe and knee problems and a broken face. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=432), [08-22](https://youtu.be/KLogvUwv_d8?t=1733), [07-14](https://youtu.be/xHRF06_E9HE?t=636))
-- His production drops for a long time after an injury, so he is hard to trust unless he is fully fit. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=432), [08-22](https://youtu.be/KLogvUwv_d8?t=1733))
-- Assists are his best category and a league outlier. Threes, points and FT% are also clear strengths. (fact, 2026-10-04; stats)
-- Turnovers are his big weakness. They are high both for the league and for a guard. (fact, 2026-10-04; stats)
+- Assists are his best category and a real outlier against the league. (fact, 2026-10-05; stats)
+- He commits many turnovers, a clear weakness against the league and against guards. (fact, 2026-10-05; stats)
+- He has persistent knee and toe problems and has also had a broken face. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=432), [08-22](https://youtu.be/KLogvUwv_d8?t=1733))
+- His production drops for a long time after any injury, so he is hard to trust unless fully fit. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=432), [08-22](https://youtu.be/KLogvUwv_d8?t=1733))
 - He is an electric offensive player and a below-average defender. (verdict, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1733))
+- He is a poor rebounder even in 30 minutes, and this is a lasting weakness. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=1016))
 
 **Tags**
-- Current: `injury last season` (toe injury limited him in Cleveland), `bounce-back` (ranked low last season because of a bad toe), `role up` (highest-usage Clipper with Kawhi gone and Ingram out; about 32 minutes if healthy), `expert target` (target in the 40s; could be top 30), `sleeper` (Yahoo ADP around 65), `sites disagree on price` (Yahoo ADP about 65, inside top 50 on ESPN; average cost 6.6 USD on Yahoo vs 12.3 USD on ESPN), `good playoff schedule` (4-3-4 games in weeks 19 to 21), `few back-to-backs` (13 back-to-backs)
-- Durable: `AST specialist` (about 7.3 assists projected), `high TO` (about 3.1 turnovers projected), `punt TO fit`, `injury prone` (persistent toe and knee problems, broken face, slow recovery of production)
+- Current: `injury last season` (toe injury, 45 games), `role up` (top usage option on the Clippers, about 32 minutes if healthy), `usage freed` (Kawhi and Harden gone, Ingram injured), `sleeper` (ADP around 58 to 65, experts see top 30), `expert target` (target in the 40s or round 3), `good playoff schedule` (4-3-4 games in weeks 19 to 21), `few back-to-backs` (13 back-to-backs), `shutdown risk` (small risk of late-season rest; team has no strong reason to win or lose), `sites disagree on price` (Yahoo value 18 USD vs ESPN 10 USD; Yahoo average cost 6.6 USD vs ESPN 12.8 USD)
+- Durable: `AST specialist` (about 7.3 assists projected), `high TO` (about 3.1 turnovers projected), `punt TO fit`, `injury prone` (persistent knee and toe problems, slow to recover after injuries)
 
-**Note.** Garland costs 6.6 USD on average on Yahoo against a Yahoo value of 18 USD, and he went for 11 USD in our league last season. Experts rank him well above his Yahoo rank of 54 and ADP of about 65, so 12 to 18 USD is a fair price for a likely top 50 guard who could reach the top 30. He suits builds that chase assists, threes and FT%, and he is a natural fit for punt TO because of his 3.1 turnovers. Early in the season, check his toe health, whether he gets the expected 32 minutes, and how his usage changes when Ingram returns.
+**Note.** Garland is the Clippers' top usage option. Experts call him a likely top 30 player, but the market has him around 53 to 65. Yahoo values him at 18 USD and ESPN at 10 USD, and he went for 11 USD in our league last season, so 20 to 25 USD looks fair and his upside is higher. He fits a punt TO build well: assists are his real outlier, he adds threes, points and FT%, and he hurts mainly turnovers and rebounds. Early in the season, check that his toe holds up and that he plays about 32 minutes.
 
-<sub>20 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>24 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

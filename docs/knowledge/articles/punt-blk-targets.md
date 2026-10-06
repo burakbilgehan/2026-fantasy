@@ -39,21 +39,21 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Jalen Brunson](../profiles/players/jalen-brunson.md) | NYK | G | 29 | 32.6 | 30 | 42.4 | 31 | The strongest punt BLK guard here for points, threes, FT% and assists, but let others pay above his round 4 value and check his minutes plan, wrist and back-to-back rest early. |
+| [Jalen Brunson](../profiles/players/jalen-brunson.md) | NYK | G | 29 | 32.6 | 30 | 42.9 | 31 | The strongest punt BLK guard here for points, threes, FT% and assists, but let others pay above his round 4 value and check his minutes plan, wrist and back-to-back rest early. |
 
 ### Value at price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Payton Pritchard](../profiles/players/payton-pritchard.md) | BOS | G | 75 | 6.0 | 98 | 2.0 | 16 | Gives threes, FT%, assists and low turnovers and rarely misses games, which suits punt BLK at a single-digit price, though nothing in his profile helps REB or FG%. |
+| [Payton Pritchard](../profiles/players/payton-pritchard.md) | BOS | G | 75 | 6.0 | 98 | 2.1 | 16 | Gives threes, FT%, assists and low turnovers and rarely misses games, which suits punt BLK at a single-digit price, though nothing in his profile helps REB or FG%. |
 
 ### Late flyers
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Immanuel Quickley](../profiles/players/immanuel-quickley.md) | TOR | G | 86 | 1.4 | 90 | 1.6 | 13 | Adds threes, assists and FT% for a punt BLK guard build, but his roughly 43.5% FG% compounds the FG% loss the punt already brings. |
-| [Aaron Gordon](../profiles/players/aaron-gordon.md) | DEN | F,C | 127 | 1.5 | 154 | 0.4 | 2 | A 1 to 2 USD bench big with F and C eligibility and a slight FG% edge that helps keep FG% alive, but only if his health and Denver minutes hold up. |
-| [Bobby Portis Jr.](../profiles/players/bobby-portis.md) | MIA | F,C | 161 | 0.0 | 170 | 0.0 | 2 | A cheap bench big who adds rebounds, a few threes and few turnovers with few blocks, a good way to keep REB alive, though his FT% and minutes need checking early. |
+| [Immanuel Quickley](../profiles/players/immanuel-quickley.md) | TOR | G | 86 | 1.4 | 90 | 1.7 | 13 | Adds threes, assists and FT% for a punt BLK guard build, but his roughly 43.5% FG% compounds the FG% loss the punt already brings. |
+| [Aaron Gordon](../profiles/players/aaron-gordon.md) | DEN | F,C | 127 | 1.5 | 154 | 0.5 | 2 | A 1 to 2 USD bench big with F and C eligibility and a slight FG% edge that helps keep FG% alive, but only if his health and Denver minutes hold up. |
+| [Bobby Portis Jr.](../profiles/players/bobby-portis.md) | MIA | F,C | 161 | 0.0 | 170 | 0.1 | 2 | A cheap bench big who adds rebounds, a few threes and few turnovers with few blocks, a good way to keep REB alive, though his FT% and minutes need checking early. |
 
 ### Waiver watch
 

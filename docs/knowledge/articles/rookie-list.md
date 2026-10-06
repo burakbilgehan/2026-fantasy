@@ -55,19 +55,19 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Cameron Boozer](../profiles/players/cameron-boozer.md) | MEM | F | 51 | 14.8 | 77 | 5.4 | not drafted | The one rookie with a top-50 case, thanks to rebounds, points and well-rounded production, with turnovers as his only weak category. |
-| [Caleb Wilson](../profiles/players/caleb-wilson.md) | CHI | F | 85 | 2.6 | 56 | 5.1 | not drafted | A single-digit forward buy whose projected rebounds and blocks matter more than his small FT% and turnover cost. |
+| [Cameron Boozer](../profiles/players/cameron-boozer.md) | MEM | F | 51 | 14.8 | 77 | 5.6 | not drafted | The one rookie with a top-50 case, thanks to rebounds, points and well-rounded production, with turnovers as his only weak category. |
+| [Caleb Wilson](../profiles/players/caleb-wilson.md) | CHI | F | 85 | 2.6 | 56 | 5.0 | not drafted | A single-digit forward buy whose projected rebounds and blocks matter more than his small FT% and turnover cost. |
 
 ### Late flyers
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
 | [AJ Dybantsa](../profiles/players/aj-dybantsa.md) | WAS | F | 92 | 3.4 | 85 | 5.5 | not drafted | The No. 1 pick projects for points with weak shooting and many turnovers, so bid only a few USD and mainly for punt TO teams. |
-| [Yaxel Lendeborg](../profiles/players/yaxel-lendeborg.md) | GSW | F | 144 | 1.0 | 173 | 0.4 | not drafted | A 1 to 2 USD end-of-draft pick for rebounds, assists, steals and blocks if Kerr keeps him starting, best for punt 3PM. |
-| [Darryn Peterson](../profiles/players/darryn-peterson.md) | UTA | G | 115 | 8.2 | 123 | 1.9 | not drafted | A rookie guard projected for weak FG% on volume and 2.1 turnovers, so he is a cheap bench stash and not worth his Yahoo cost. |
+| [Yaxel Lendeborg](../profiles/players/yaxel-lendeborg.md) | GSW | F | 144 | 1.0 | 173 | 0.6 | not drafted | A 1 to 2 USD end-of-draft pick for rebounds, assists, steals and blocks if Kerr keeps him starting, best for punt 3PM. |
+| [Darryn Peterson](../profiles/players/darryn-peterson.md) | UTA | G | 115 | 8.2 | 123 | 1.8 | not drafted | A rookie guard projected for weak FG% on volume and 2.1 turnovers, so he is a cheap bench stash and not worth his Yahoo cost. |
 | [Morez Johnson Jr.](../profiles/players/morez-johnson.md) | DAL | F | 208 | - | 166 | 0.0 | not drafted | A 1 USD flyer for blocks and FG% who gains value if he starts at center over Gafford and gets 25 to 30 minutes. |
 | [Mikel Brown Jr.](../profiles/players/mikel-brown.md) | BKN | G | 180 | 0.0 | 198 | 0.1 | not drafted | A 1 USD bench flyer who hurts FG% and TO early, but is worth holding to Thanksgiving if he starts at point guard. |
-| [Darius Acuff Jr.](../profiles/players/darius-acuff.md) | SAC | G | 155 | 2.3 | 139 | 1.1 | not drafted | His points and assists are mostly cancelled by poor FG% and turnovers, so he is a 1 USD last pick only for teams already weak there. |
+| [Darius Acuff Jr.](../profiles/players/darius-acuff.md) | SAC | G | 155 | 2.3 | 139 | 1.3 | not drafted | His points and assists are mostly cancelled by poor FG% and turnovers, so he is a 1 USD last pick only for teams already weak there. |
 
 ### Waiver watch
 
@@ -82,7 +82,7 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 | [Zuby Ejiofor](../profiles/players/zuby-ejiofor.md) | ATL | F | 700 | - | - | - | not drafted | His only path is backup center minutes behind Okongwu while Atlanta's center depth is thin. |
 | [Kingston Flemings](../profiles/players/kingston-flemings.md) | ATL | G | 243 | - | 215 | 0.0 | not drafted | Projects too few points and threes for a bench guard, and only a McCollum injury opens a clear path. |
 | [Brayden Burries](../profiles/players/brayden-burries.md) | MIL | G | 242 | - | 225 | 0.0 | not drafted | No category stands out, and he needs Milwaukee to cut or trade guards before he gets real minutes. |
-| [Bruce Thornton](../profiles/players/bruce-thornton.md) | HOU | G | 634 | - | - | - | not drafted | Could help in 3PM and ST if Udoka plays him behind VanVleet, Smart and Sheppard. |
+| [Bruce Thornton](../profiles/players/bruce-thornton.md) | HOU | G | 634 | - | - | 0.1 | not drafted | Could help in 3PM and ST if Udoka plays him behind VanVleet, Smart and Sheppard. |
 | [Sergio de Larrea](../profiles/players/sergio-de-larrea.md) | DAL | G | 615 | - | - | 0.0 | not drafted | His case is assists as Kyrie Irving's backup, so check his nights when Kyrie sits before spending FAB. |
 | [Christian Anderson](../profiles/players/christian-anderson.md) | CHA | G | 677 | - | - | - | not drafted | No category helps unless he takes over Charlotte's open backup point guard role. |
 | [Isaiah Evans](../profiles/players/isaiah-evans.md) | MIN | G | 685 | - | - | - | not drafted | A threes-only bench piece whose two-game week starting March 15 limits his playoff use. |
@@ -94,7 +94,7 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 | [Labaron Philon](../profiles/players/labaron-philon.md) | PHI | G | 670 | - | - | 0.1 | not drafted | A bench-role projection that fits no build unless a trade or guard injury opens a role. |
 | [Braden Smith](../profiles/players/braden-smith.md) | IND | G | 602 | - | - | - | not drafted | Passing is his one skill, so even with minutes he would help in assists and little else. |
 | [Meleek Thomas](../profiles/players/meleek-thomas.md) | CLE | G | 614 | - | - | - | not drafted | His upside is long-term, so look only if a Harden or Mitchell injury gives him real minutes. |
-| [Rafael Castro](../profiles/players/rafael-castro.md) | HOU | C | 658 | - | - | - | not drafted | His steal and block rates are interesting, but he is buried behind Sengun, Smith and Adams. |
+| [Rafael Castro](../profiles/players/rafael-castro.md) | FA | C | 658 | - | - | - | not drafted | His steal and block rates are interesting, but he is buried behind Sengun, Smith and Adams. |
 | [Bennett Stirtz](../profiles/players/bennett-stirtz.md) | OKC | G | 663 | - | - | - | not drafted | A rookie point guard whose small-role projection helps no category unless OKC backcourt injuries pile up. |
 | [Karim Lopez](../profiles/players/karim-lopez.md) | MEM | F | 688 | - | - | - | not drafted | No standout category and small minutes in Memphis's deep, 11-man forward rotation. |
 | [Dailyn Swain](../profiles/players/dailyn-swain.md) | CHI | F | 691 | - | - | - | not drafted | Called not draftable after a very poor Summer League, so look again only if Splitter plays him. |
@@ -103,7 +103,7 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Richie Saunders](../profiles/players/richie-saunders.md) | MEM | G | 659 | - | - | - | not drafted | A torn ACL should keep him out until near the end of the season, so check his return date only then. |
+| [Richie Saunders](../profiles/players/richie-saunders.md) | FA | G | 659 | - | - | - | not drafted | A torn ACL should keep him out until near the end of the season, so check his return date only then. |
 | [Jayden Quaintance](../profiles/players/jayden-quaintance.md) | SAS | F | 666 | - | - | - | not drafted | He is out after another knee surgery and would back up Wembanyama even when healthy. |
 
 <details><summary>Left out</summary>

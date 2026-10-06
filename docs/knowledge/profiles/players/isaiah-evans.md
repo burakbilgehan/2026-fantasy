@@ -26,23 +26,20 @@
 </details>
 
 **Current**
-- Minnesota's bench is thin, with little scoring punch and no ball handlers. (fact, 2026-10-02; [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [10-02](https://youtu.be/ZYllcj4o6_A?t=2323))
-- Minnesota has a two-game week in the matchup starting March 15, which falls inside our fantasy playoffs. Experts call it the worst playoff schedule. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
-- He is a rookie from the 2026 draft class. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=382), [06-22](https://youtu.be/HxQjagSTTAM?t=786))
-- His dynasty rookie rank stayed at 31 after Summer League. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=382))
-- If he earns a role, he could make about 2.5 threes in 20 minutes and add little else. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1384))
-- In Summer League, 10 of his 14 shots were threes, and he shot 21%. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1384))
+- He is a rookie from the 2026 NBA draft class. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=382), [06-22](https://youtu.be/HxQjagSTTAM?t=786))
+- He is ranked 31st in a dynasty rookie ranking. His rank did not change after Summer League. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=382))
+- In Summer League he took 10 three-point attempts out of 14 shots but shot 21%. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1384))
+- If he gets a role, he could make about 2.5 threes in 20 minutes and add little else. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1384))
 
 **Durable**
-- He is a pure volume three-point shooter. He takes a huge share of his shots from three. (fact, 2026-08-02; [07-21](https://youtu.be/RyzcCGChYgs?t=1384), [08-02](https://youtu.be/TOn-D1SV7a8?t=382), [06-22](https://youtu.be/HxQjagSTTAM?t=786))
-- Besides threes, he adds little in other categories. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1384))
-- Before the draft he made his threes at a high rate. (fact, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=786))
-- He is an older prospect. (fact, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=786))
+- Outside of threes he adds little. His projected points, rebounds and steals are far below the top 250 pool. (verdict, 2026-10-05; stats, [07-21](https://youtu.be/RyzcCGChYgs?t=1384))
+- He is a pure volume three-point shooter who takes a very large share of his shots from three. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=382), [07-21](https://youtu.be/RyzcCGChYgs?t=1384), [06-22](https://youtu.be/HxQjagSTTAM?t=786))
+- He is an older prospect who made his threes at a high rate before the draft. (fact, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=786))
 
 **Tags**
-- Current: `rookie` (2026 draft class, dynasty rookie rank 31), `bad playoff schedule` (Minnesota two-game week starting March 15), `waiver watch` (only if he earns about 20 minutes as a bench shooter)
+- Current: `rookie` (2026 draft class, dynasty rookie rank 31)
 - Durable: none
 
-**Note.** Yahoo gives him a 0 USD value and ranks him 685th. Only 144 players get drafted in our league, so he is not a draft target. Projected at 0.6 threes and 3.7 points a game, he is a threes-only bench piece. Early in the season, check whether Minnesota's thin bench gives him about 20 minutes. If it does, he could be a short-term 3PM add from waivers, but the two-game week starting March 15 limits his use in the playoffs.
+**Note.** Evans is not a draft option in our 144-player auction. Yahoo ranks him 685th at a value of 0 USD, ESPN does not price him, and he was not drafted in our league last season. His projection is only 3.7 points and 0.6 threes, and he would help in threes only. Watch Minnesota's thin bench early in the season. If he ever gets about 20 minutes, he could be a short-term 3PM streamer. Until then he is not worth a roster spot.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

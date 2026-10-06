@@ -30,20 +30,21 @@
 </details>
 
 **Current**
-- One expert says he is not a good fantasy player but could play 30 to 33 minutes. That expert took him with a last-round pick for the minutes upside. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=2782))
-- He is in the projected Kings starting lineup at forward, next to Acuff, LaVine, Murray and Sabonis. Nobody is pushing that group for a starting spot. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1939), [07-31](https://youtu.be/oEywzBZfAvY?t=691), [07-01](https://youtu.be/W3THnI7wWdA?t=1324))
-- The Kings preview hosts say Keegan Murray should not be behind him in the offensive pecking order. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1939))
-- The Kings are rebuilding but want to win games to stay out of the relegation zone. Coach Doug Christie is under pressure and may lean on veterans. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=2025), [07-31](https://youtu.be/oEywzBZfAvY?t=2438))
-- His three-point percentage fell from 41 to 31. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=683))
-- He is interesting in Sacramento only if he plays about 30 minutes and shoots around 40% from three. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=683))
+- The Kings are projected to be one of the worst teams, at about 21 to 27 wins. They are still expected to try to win games to stay out of the relegation zone, and the coach may lean on veterans. (verdict, 2026-10-04; [07-31](https://youtu.be/oEywzBZfAvY?t=2438), [07-31](https://youtu.be/oEywzBZfAvY?t=2025), [06-25](https://youtu.be/lOshTzDA4SA?t=929), [07-27](https://youtu.be/0AptxcRW0RE?t=2060), [10-04](https://youtu.be/n4KkK-OJjqA?t=1291), [07-20](https://youtu.be/-KS_AZjZnw4?t=1337))
+- A trade or buyout of LaVine or Sabonis is still possible, and that could change the Kings' shot share. (verdict, 2026-09-21; [07-31](https://youtu.be/oEywzBZfAvY?t=2547), [09-10](https://youtu.be/W-R1dzem32s?t=1760), [09-09](https://youtu.be/7BllEsdNLoM?t=2174), [09-21](https://youtu.be/egRrai3Ax38?t=392))
+- One expert says he is not a good fantasy player but could play 30 to 33 minutes. He is worth a last-round pick for that minutes upside. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=2782))
+- He is a projected starter at forward for the Kings, next to Acuff, LaVine, Murray and Sabonis. No one is pushing that group for a starting spot. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1939), [07-31](https://youtu.be/oEywzBZfAvY?t=691), [07-01](https://youtu.be/W3THnI7wWdA?t=1324))
+- He sits low in the Kings' offensive pecking order. LaVine and Sabonis lead it, and the hosts say Keegan Murray should be ahead of him too. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1939), [07-20](https://youtu.be/-KS_AZjZnw4?t=1254))
+- He shot 31% from three last season. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=683))
+- His value depends on playing 30 minutes with elite shooting. He is only interesting if he shoots around 40% from three again. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=683))
 
 **Durable**
-- His fantasy value depends on his minutes and on efficient three-point shooting. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=683), [09-15](https://youtu.be/KPdD91Oo8-U?t=2782))
+- none
 
 **Tags**
-- Current: `flyer` (Last-round pick for 30 to 33 minutes of upside as a Kings starter), `role up` (Projected starter. One expert sees 30 to 33 minutes, up from 26.2 last season)
+- Current: `usage competition` (Behind LaVine, Sabonis and Keegan Murray in the shot pecking order), `bottom team` (Kings projected at about 21 to 27 wins), `low shutdown risk` (Kings need to win games to avoid the relegation zone), `trades likely` (LaVine or Sabonis could be traded or bought out), `flyer` (Last-round pick for 30 to 33 minutes upside), `waiver watch` (Ranked outside our 144 drafted players. Watch his minutes and three-point percentage)
 - Durable: none
 
-**Note.** Both sites value him at 0 USD (Yahoo rank 172, ESPN rank 203), and he went for 1 USD in our league last season. He falls outside the 144 players we draft, so treat him as a 1 USD end-of-auction flyer or a waiver option. His projected 44% FG on about 10 attempts hurts a little. FT% and threes help a little, but he adds almost no steals, blocks or assists. Early in the season, check whether he plays 30 or more minutes as a starter and gets his three-point percentage back near 40%. If both happen, he is worth adding as a 3PM and FT% streamer in any build.
+**Note.** Yahoo ranks him 172 and ESPN ranks him 203, both with a value of 0 USD, and he went for 1 USD in our last auction. In a 144-player league he should go undrafted. His projected line helps only in FT% (85.3%) and threes (2.0) and gives little in blocks, steals and assists. Early in the season, check whether he plays close to 30 minutes and gets his three-point percentage back near 40%. If both happen, he is a waiver pickup for builds that want shooting from a forward.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

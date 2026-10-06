@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 32 | 28.4 | 23 | 16 | 32.4 | 40 | 45 |
+| 2026-27 | 32 | 28.4 | 23 | 16 | 32.7 | 40 | 45 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,24 +30,23 @@
 </details>
 
 **Current**
-- The newest expert calls say he is overpriced. One expert values him around round four, below his Yahoo rank of 24 and ADP of 31. Another sees no reason for him to jump to an ESPN rank near 18 to 20. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1336), [09-19](https://youtu.be/uarqbNA2dFk?t=387))
-- Experts do not fully buy a bounce back from his down 2025-26 season. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1336), [09-09](https://youtu.be/7BllEsdNLoM?t=1516))
-- The experts disagree on his role. Josh expects him to stay the de facto point guard with about 32% usage and good assists. Another expert expects Jalen Green and Miles Bridges to take touches from him in a crowded usage group. (verdict, 2026-09-19; [09-10](https://youtu.be/W-R1dzem32s?t=1136), [09-10](https://youtu.be/W-R1dzem32s?t=1138), [09-19](https://youtu.be/uarqbNA2dFk?t=387), [09-19](https://youtu.be/uarqbNA2dFk?t=989))
-- Phoenix says Jalen Green is the point guard. The Suns want to lower Booker's ballhandling load and make spacing easier for him. (fact, 2026-09-10; [08-23](https://youtu.be/hm5-fiCa5S4?t=900), [09-10](https://youtu.be/W-R1dzem32s?t=1138))
-- Last season defenses sent extra defenders at him and dared Dillon Brooks to beat them. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1567))
+- Experts see him as about round 4 value, or low 20s USD in an auction. His site ranks (Yahoo about 24, ESPN about 18) are too high. They do not expect a full bounce back or a jump into the top 20. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2307), [09-19](https://youtu.be/uarqbNA2dFk?t=387), [09-22](https://youtu.be/QbdrhJd7LiA?t=1336), [09-09](https://youtu.be/7BllEsdNLoM?t=1516))
+- In a 2026-10-05 auction mock he went for 22 USD. Josh called that a good price but is not very interested in him. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2307))
+- Jalen Green, Miles Bridges, Dillon Brooks and Collin Gillespie will all want touches, so Booker shares the ball. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=387), [09-19](https://youtu.be/uarqbNA2dFk?t=989))
+- Phoenix calls Jalen Green its point guard and wants to lower Booker's ballhandling load and make spacing easier for him. (fact, 2026-09-10; [08-23](https://youtu.be/hm5-fiCa5S4?t=900), [09-10](https://youtu.be/W-R1dzem32s?t=1138))
+- Josh expects Booker to stay the de facto point guard anyway, with about 32% usage and good assists. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1136), [09-10](https://youtu.be/W-R1dzem32s?t=1138))
 
 **Durable**
-- Points are a league outlier, and he adds strong assists for a guard. (fact, 2026-10-04; stats)
-- He commits many turnovers, a clear weakness even for a guard. (fact, 2026-10-04; stats)
-- Excellent free throw shooter on high volume. FT% is a clear league outlier and lifts a team's FT%. (fact, 2026-09-10; stats, [09-10](https://youtu.be/W-R1dzem32s?t=1161), [08-09](https://youtu.be/8d--aL_xxwE?t=1295))
-- An expert calls his FG% weak and says he gives too few threes, steals and blocks. The projections put his FG% near average for a guard. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1161), stats)
-- Ben calls him an average defender who is not a net negative. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=2021))
-- Josh says his FT% could randomly drop to about 81% in a given season. (verdict, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1295))
+- He is an elite free throw shooter on high volume, so he lifts a team's FT% clearly. (fact, 2026-10-05; stats, [09-10](https://youtu.be/W-R1dzem32s?t=1161))
+- His scoring is a league outlier. (fact, 2026-10-05; stats)
+- He commits many turnovers, which hurts the TO category. (fact, 2026-10-05; stats)
+- His field goal percentage is weak, and he does not give enough threes, steals or blocks. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1161))
+- Josh warns that a random drop in his FT% to about 81% in any season would not be crazy. (verdict, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1295))
 
 **Tags**
-- Current: `bust candidate` (Valued around round 4, below Yahoo rank 24 and ADP 31; ESPN rank 18 called too high), `sites disagree on price` (Yahoo value 32 USD and rank 23 vs ESPN value 16 USD and rank 40)
-- Durable: `FT% anchor` (About 88% FT on 7 to 8 attempts per game), `PTS specialist` (About 27 points per game projected), `high TO` (About 3 turnovers per game), `punt TO fit`
+- Current: `usage competition` (Jalen Green, Miles Bridges, Dillon Brooks and Collin Gillespie), `bust candidate` (Experts see round 4 value against Yahoo rank 24 and ESPN rank 18), `sites disagree on price` (Yahoo value 32 USD, ESPN value 16 USD)
+- Durable: `FT% anchor` (About 88% on about 7 to 8 attempts per game), `PTS specialist` (About 27 points per game projected), `high TO` (About 3 turnovers per game), `punt TO fit`
 
-**Note.** Our league paid 45 USD for him last season. Yahoo values him at 32 USD and ESPN at 16 USD, and the newest expert calls put him around round four (picks 37 to 48), so paying much above 30 USD looks risky. He fits punt TO builds best, where his elite FT%, points and assists matter and his turnovers do not. Early in the season, check whether he still runs the offense next to Jalen Green, because his usage and assists decide most of his value.
+**Note.** He went for 45 USD in our league last season. Yahoo values him at 32 USD and ESPN at 16 USD, while the experts put him at about round 4 value, or low 20s USD (22 USD in a mock). Do not pay much above 25 USD. He fits best in a punt TO build, where his elite FT% on volume and his points help the most. Early in the season, check whether he or Jalen Green runs the offense, because his assists depend on it.
 
-<sub>10 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>11 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

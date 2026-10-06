@@ -30,29 +30,31 @@
 </details>
 
 **Current**
-- Experts blame his back injury for the bad season and the drop in blocks. They hope the blocks come back. One expert says he was effective in only about half of his games. (verdict, 2026-10-02; [09-14](https://youtu.be/t4n9MAP2_14?t=2022), [08-20](https://youtu.be/s28HvC2grAk?t=847), [10-02](https://youtu.be/ZYllcj4o6_A?t=2702))
-- Experts agree the market ranks him too low. He is a cheap late flyer worth taking outside the top 100. If he plays 28 minutes and his blocks return, he has top 70 upside. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2702), [09-14](https://youtu.be/t4n9MAP2_14?t=2022), [08-19](https://youtu.be/J1Eg3uaAICU?t=1462), [08-11](https://youtu.be/OdDkXFhoKsc?t=1907))
-- Experts lean optimistic. One is not worried about the back unless it flares up again in training camp. (verdict, 2026-08-26; [08-20](https://youtu.be/s28HvC2grAk?t=921), [08-26](https://youtu.be/sTtFUy7IoJI?t=1028))
-- He is the projected starting center for Toronto and is the only seven-footer on the roster. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=496), [08-20](https://youtu.be/s28HvC2grAk?t=839))
-- Toronto's expected closing five does not include him. Murray-Boyles closes at center in a small, switchable group. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1066))
-- Last season he barely contested shots and blocked very little. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=757))
-- Reports say he is in good shape this summer. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=921))
-- Toronto has 15 back-to-backs this season, three of them in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
-- He turned only 35% of his deflections into steals last season. His steals are likely to improve. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1419))
-- His 70% field goal shooting last season came on low volume and is not expected to last. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=2083))
+- Reports say he is in good shape this summer, and he looked good in a preseason game on 2026-10-04. (fact, 2026-10-05; [08-20](https://youtu.be/s28HvC2grAk?t=921), [10-05](https://youtu.be/Q6YlQDvD-aY?t=4762))
+- He went for 4 USD in an expert auction mock draft. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4762))
+- Experts blame the back injury for his bad season and hope his blocks come back. (verdict, 2026-10-02; [09-14](https://youtu.be/t4n9MAP2_14?t=2022), [10-02](https://youtu.be/ZYllcj4o6_A?t=2702))
+- Experts say the market ranks him too low. They see him as a good late flyer at bench cost, worth a look outside the top 100 if he is healthy. (verdict, 2026-10-02; [08-19](https://youtu.be/J1Eg3uaAICU?t=1462), [08-11](https://youtu.be/OdDkXFhoKsc?t=1907), [09-14](https://youtu.be/t4n9MAP2_14?t=2022), [10-02](https://youtu.be/ZYllcj4o6_A?t=2702))
+- If he plays about 28 minutes and the back caused the drop in blocks, he is an easy top 70 pick. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2702))
+- Experts lean optimistic about his health. One is not worried about the back unless it flares up again in training camp. (verdict, 2026-08-26; [08-20](https://youtu.be/s28HvC2grAk?t=921), [08-26](https://youtu.be/sTtFUy7IoJI?t=1028))
+- He is the projected starting center for Toronto and the only seven-footer on the roster. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=496), [08-20](https://youtu.be/s28HvC2grAk?t=839))
+- He is not in the expected closing five. Toronto plans to close with a small, switchable group that has Murray-Boyles at center. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1066))
+- Last season he barely contested shots and blocked very little. He was effective in only about half of his games. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=757), [08-20](https://youtu.be/s28HvC2grAk?t=847))
+- Toronto is projected to win about 52 games. The bench is thin after a solid top seven. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1792), [08-20](https://youtu.be/s28HvC2grAk?t=2004))
+- Toronto has 15 back-to-backs, three of them in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
+- He turned only 35% of his deflections into steals last season. An expert expects his steals to improve. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1419))
+- His 70% FG% last season came on low volume. An expert does not expect it to last. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=2083))
 
 **Durable**
-- His FG% is a league outlier and lifts a team's FG%. (fact, 2026-10-04; stats)
-- He makes no threes. (fact, 2026-10-04; stats)
-- He had repeated back flare-ups last season. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1028), [08-20](https://youtu.be/s28HvC2grAk?t=743))
-- He is an elite finisher. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=801))
-- His free throw shooting has improved steadily. He is no longer a hack target. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=809))
+- He makes no threes. (fact, 2026-10-05; stats)
+- His back flared up repeatedly last season. (fact, 2026-08-26; [08-20](https://youtu.be/s28HvC2grAk?t=743), [08-26](https://youtu.be/sTtFUy7IoJI?t=1028))
+- He is an elite finisher with a strong FG% on modest volume. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=801), stats)
+- His free throw shooting has improved steadily. He is no longer a hack target, but it is still a mild drag. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=809), stats)
 - He has lost a step on defense and is not an elite rim protector. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=868))
 
 **Tags**
-- Current: `injury last season` (Back injury flared up repeatedly), `bounce-back` (Experts hope his blocks return now that his back is healthy), `sleeper` (Ranked about 120 on both sites. Experts see top 70 upside), `flyer` (Bench-flyer cost)
-- Durable: `FG% anchor` (About 66% projected FG% on moderate volume), `no 3PM`, `punt 3PM fit`, `injury prone` (Repeated back flare-ups last season. Played 46 to 57 games in each of the last three seasons)
+- Current: `injury last season` (back injury, played 46 games), `bounce-back` (blocks expected to return if the back is healthy), `sleeper` (goes very late, top 70 upside), `flyer` (bench-flyer cost), `regression risk` (70% FG% on low volume last season), `winning team` (about 52 wins projected), `thin rotation`, `bad playoff schedule` (three back-to-backs in the fantasy playoffs)
+- Durable: `FG% anchor` (elite finisher, about 66% projected), `no 3PM`, `punt 3PM fit`, `injury prone` (repeated back flare-ups last season)
 
-**Note.** Both sites price him at 1 to 2 USD and rank him about 116 to 122. Our league paid 15 USD for him last season, so expect him to go late, probably near the 144-player cutoff. He fits punt 3PM builds as a cheap FG% anchor, and experts see top 70 upside if he plays about 28 minutes and his blocks recover from 0.7 per game. Early in the season, watch his minutes, any back flare-up and his blocks, because Murray-Boyles closes games at center.
+**Note.** Yahoo and ESPN both value him at 2 USD (ranks 122 and 116), well below the 15 USD he cost in our league last season. Experts call that too low, and he went for 4 USD in an expert mock. That makes him a cheap late center who lifts FG% and fits punt 3PM builds, with a mild FT% drag. Early in the season, check whether he plays about 28 minutes, whether his blocks come back toward the 1.2 to 1.5 range he had before last season, and whether the back stays quiet.
 
-<sub>14 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>15 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

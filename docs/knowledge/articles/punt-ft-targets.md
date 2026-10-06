@@ -45,33 +45,33 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 58.8 | 20 | 61.4 | 62 | Brings points and frontcourt assists plus FG% and rebounds, but no threes or steals are credited to him, so buy those right after him. |
+| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 58.8 | 20 | 62.1 | 62 | Brings points and frontcourt assists plus FG% and rebounds, but no threes or steals are credited to him, so buy those right after him. |
 
 ### Early core
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Scottie Barnes](../profiles/players/scottie-barnes.md) | TOR | F,C | 15 | 46.2 | 10 | 43.8 | 31 | Gives frontcourt assists and steals plus blocks, but his threes fell to 0.8 per game, so he does not fix 3PTM. |
-| [Alperen Sengun](../profiles/players/alperen-sengun.md) | HOU | F,C | 22 | 32.6 | 29 | 32.6 | 36 | Supplies assists from the center spot, which may drop toward 5 with VanVleet back, and he offers no threes or steals; his 10 playoff games argue for staying at or below about 30 USD. |
+| [Scottie Barnes](../profiles/players/scottie-barnes.md) | TOR | F,C | 15 | 46.2 | 10 | 43.9 | 31 | Gives frontcourt assists and steals plus blocks, but his threes fell to 0.8 per game, so he does not fix 3PTM. |
+| [Alperen Sengun](../profiles/players/alperen-sengun.md) | HOU | F,C | 22 | 32.6 | 29 | 32.2 | 36 | Supplies assists from the center spot, which may drop toward 5 with VanVleet back, and he offers no threes or steals; his 10 playoff games argue for staying at or below about 30 USD. |
 
 ### Value at price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
 | [Dyson Daniels](../profiles/players/dyson-daniels.md) | ATL | G,F | 61 | 4.4 | 38 | 9.7 | 28 | A steals anchor with useful assists, but his threes are weak, so pair him with shooters. |
-| [Ausar Thompson](../profiles/players/ausar-thompson.md) | DET | G,F | 77 | 3.2 | 78 | 2.5 | 16 | Gives elite steals and possible assist growth in a new on-ball role, with little help in threes; experts call him a steal at his low site costs. |
-| [Pascal Siakam](../profiles/players/pascal-siakam.md) | IND | F,C | 58 | 13.8 | 24 | 24.7 | 25 | Gives points and FG% with no steals or threes noted; check his assists next to Haliburton, and do not pay 25 USD or more. |
-| [Paolo Banchero](../profiles/players/paolo-banchero.md) | ORL | F | 52 | 18.8 | 75 | 14.4 | 26 | Brings points and forward assists with no threes or steals noted; pay near his Yahoo value, not last season's points-league price. |
-| [Rudy Gobert](../profiles/players/rudy-gobert.md) | MIN | C | 82 | 7.2 | 55 | 4.6 | 10 | Pure big-man help (rebounds, blocks, FG%) with no guard stats, so he is a strong buy only if you have already bought assists and threes. |
-| [Zion Williamson](../profiles/players/zion-williamson.md) | NOP | F,C | 78 | 4.0 | 96 | 6.6 | 21 | Carries 22 to 23 points and strong FG% but no threes or steals are noted; keep his price around 12 USD or less because of rest-day risk. |
+| [Ausar Thompson](../profiles/players/ausar-thompson.md) | DET | G,F | 77 | 3.2 | 78 | 2.4 | 16 | Gives elite steals and possible assist growth in a new on-ball role, with little help in threes; experts call him a steal at his low site costs. |
+| [Pascal Siakam](../profiles/players/pascal-siakam.md) | IND | F,C | 58 | 13.8 | 24 | 25.1 | 25 | Gives points and FG% with no steals or threes noted; check his assists next to Haliburton, and do not pay 25 USD or more. |
+| [Paolo Banchero](../profiles/players/paolo-banchero.md) | ORL | F | 52 | 18.8 | 75 | 14.5 | 26 | Brings points and forward assists with no threes or steals noted; pay near his Yahoo value, not last season's points-league price. |
+| [Rudy Gobert](../profiles/players/rudy-gobert.md) | MIN | C | 82 | 7.2 | 55 | 4.7 | 10 | Pure big-man help (rebounds, blocks, FG%) with no guard stats, so he is a strong buy only if you have already bought assists and threes. |
+| [Zion Williamson](../profiles/players/zion-williamson.md) | NOP | F,C | 78 | 4.0 | 96 | 6.5 | 21 | Carries 22 to 23 points and strong FG% but no threes or steals are noted; keep his price around 12 USD or less because of rest-day risk. |
 
 ### Avoid at price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Stephon Castle](../profiles/players/stephon-castle.md) | SAS | G | 76 | 6.6 | 92 | 10.3 | 1 | His 7.3 projected assists help, but his turnovers and fade by category experts mean you should not pay near Yahoo's number. |
-| [Evan Mobley](../profiles/players/evan-mobley.md) | CLE | F,C | 27 | 23.6 | 27 | 19.8 | 36 | Gives blocks, rebounds and FG% with almost no guard stats, so pay the mid 20s and not last season's 36 USD. |
-| [Walker Kessler](../profiles/players/walker-kessler.md) | LAL | C | 41 | 18.8 | 45 | 8.5 | 15 | A three-category center with few threes, assists or steals, so stay near 15 USD and do not chase him into the 20s. |
+| [Stephon Castle](../profiles/players/stephon-castle.md) | SAS | G | 76 | 6.6 | 92 | 10.4 | 1 | His 7.3 projected assists help, but his turnovers and fade by category experts mean you should not pay near Yahoo's number. |
+| [Evan Mobley](../profiles/players/evan-mobley.md) | CLE | F,C | 27 | 23.6 | 27 | 19.9 | 36 | Gives blocks, rebounds and FG% with almost no guard stats, so pay the mid 20s and not last season's 36 USD. |
+| [Walker Kessler](../profiles/players/walker-kessler.md) | LAL | C | 41 | 18.8 | 45 | 8.4 | 15 | A three-category center with few threes, assists or steals, so stay near 15 USD and do not chase him into the 20s. |
 
 ### Late flyers
 

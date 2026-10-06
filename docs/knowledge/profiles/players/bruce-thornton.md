@@ -5,7 +5,7 @@ No NBA stats and no projections in our data.
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 634 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 634 | - | 0.1 | - | not drafted |
 
 **Current**
 - He is a rookie. The Rockets took him in the second round after four years of college. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1636), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=825), [06-26](https://youtu.be/CLsUc0Sevos?t=1117))

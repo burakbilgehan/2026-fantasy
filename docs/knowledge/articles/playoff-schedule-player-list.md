@@ -3,186 +3,180 @@
 
 <sub>Proposed by the synthesis, not on the user's list.</sub>
 
-**Summary.** Use the fantasy playoff schedule (weeks 19 to 21, ending 2027-03-28) only as a tiebreaker between players you rate the same. It matters most for the expensive players at the top of the auction and very little for cheap picks. Dallas, Detroit, Atlanta, the Clippers and Golden State have good schedules. Minnesota (two games in week 20) and Cleveland (two games in finals week 21) have the worst, and Houston, Indiana and the teams with three playoff back-to-backs are also weak.
+**Summary.** Our playoffs are weeks 19 to 21, ending 2027-03-28. Minnesota plays only two games in week 20 and Cleveland only two in week 21, the finals week. Dallas (4-4-4), Detroit and the Clippers (4-3-4) and Atlanta (4-4-3) have the strongest schedules. Use the schedule only as a tiebreaker between similar players at similar prices. It matters most for expensive players and should never make you take a worse player.
 
 ## A tiebreaker, not a strategy
 
-Every expert note says the same thing. The playoff schedule is the least important factor at draft time. Use it only to choose between two players you rate the same. Never buy a worse player because his team has a better schedule, and do not build your draft plan around it. ([10-01](https://youtu.be/aLP080hxizA?t=1978), [09-22](https://youtu.be/QbdrhJd7LiA?t=1983), [08-16](https://youtu.be/gf_6GveiAls?t=150))
+Use the playoff schedule only to break ties between two similar players. At draft time it is the least important factor. Never take a worse player because his schedule is better, and do not build your draft plan around schedules. ([10-01](https://youtu.be/aLP080hxizA?t=1978), [09-22](https://youtu.be/QbdrhJd7LiA?t=1983), [08-16](https://youtu.be/gf_6GveiAls?t=150))
 
-It matters most for expensive players. One expert does not want his best player to have a two-game week in the semifinals or the final. In our auction that means the first-round players you pay the most for. For mid and late picks he barely worries about it. In practice, check the schedule when you set your max bids for your top targets. For players you plan to buy for a few dollars at the end of the auction, ignore it. ([09-29](https://youtu.be/NmdNvAz08oE?t=1848), [09-29](https://youtu.be/NmdNvAz08oE?t=1879))
+It matters most for early, expensive picks. One expert does not want his best player to have a two-game week in the semifinals or the championship. For mid and late picks, he barely considers it. In our auction, check the schedule when you choose between two stars at about the same price. Mostly ignore it for 1 to 3 USD flyers in the last rounds. ([09-29](https://youtu.be/NmdNvAz08oE?t=1848), [09-29](https://youtu.be/NmdNvAz08oE?t=1879))
 
-How to apply it: if two players are on your list at the same tier and a similar price, prefer the one whose team has more games in weeks 19 to 21. If a team has a two-game week in our playoffs, move its players down a little against similar players. In an auction, that means a slightly lower max bid, not dropping him from your list. ([08-19](https://youtu.be/2mxpEpGU3H8?t=1942), [10-01](https://youtu.be/aLP080hxizA?t=1978))
+## How much to mark a player down: experts differ
 
-## Where the experts differ
+The experts disagree on how much weight a two-game week deserves. One side says that in head-to-head leagues a two-game playoff week should drop a player down your board. Another note says to move such players down a little when you compare them with similar players. The other side says schedules only break ties, never justify taking a worse player, and should not drive your draft. The same expert adds that if an early pick with a two-game week falls late enough and nothing better is left, you should take him, but you should not reach for him early. In practice, that means taking a few USD off your maximum bid, not avoiding the player. ([08-16](https://youtu.be/gf_6GveiAls?t=1665), [08-19](https://youtu.be/2mxpEpGU3H8?t=1942), [09-22](https://youtu.be/QbdrhJd7LiA?t=1983), [08-16](https://youtu.be/gf_6GveiAls?t=150), [08-16](https://youtu.be/gf_6GveiAls?t=1522))
 
-The experts disagree on how hard to punish a two-game week. One note says that in head-to-head leagues, categories or points, a two-game playoff week should drop a player down your board. The other notes say schedule should only break ties and should never make you take a worse player. The same expert who wants the drop also says that if an early pick with a two-game week falls late enough and there is no better option, you should take him, just don't reach for him early. For our auction, that suggests a middle path. Do not pay full price early for a star with a two-game week. If his price stalls well below his value late in the auction, buy him. ([08-16](https://youtu.be/gf_6GveiAls?t=1665), [08-16](https://youtu.be/gf_6GveiAls?t=1522), [09-22](https://youtu.be/QbdrhJd7LiA?t=1983), [08-16](https://youtu.be/gf_6GveiAls?t=150))
+## The two-game weeks: Minnesota and Cleveland
 
-## Team schedules in weeks 19 to 21
+Minnesota plays only two games in the matchup starting March 15, which is our week 20, the semifinal week. Cleveland plays 4, 3 and 2 games, so it has only two games in week 21, the finals week. The notes also say Cleveland has the most back-to-backs in the league. These are the exact cases one expert does not want for his best player. ([Anthony Edwards](../profiles/players/anthony-edwards.md), [LaMelo Ball](../profiles/players/lamelo-ball.md), [Rudy Gobert](../profiles/players/rudy-gobert.md), [Donovan Mitchell](../profiles/players/donovan-mitchell.md), [Evan Mobley](../profiles/players/evan-mobley.md), [Peyton Watson](../profiles/players/peyton-watson.md), [09-29](https://youtu.be/NmdNvAz08oE?t=1848))
 
-Good schedules: Dallas plays 4-4-4, the best in the data, but it also has a league-high 16 back-to-backs. Detroit and the Clippers play 4-3-4. Atlanta plays 4-4-3. Golden State's schedule is listed as good for a March 28 end, but it has 15 back-to-backs. ([Cooper Flagg](../profiles/players/cooper-flagg.md), [P.J. Washington](../profiles/players/pj-washington.md), [Cade Cunningham](../profiles/players/cade-cunningham.md), [Darius Garland](../profiles/players/darius-garland.md), [Jalen Johnson](../profiles/players/jalen-johnson.md), [Stephen Curry](../profiles/players/stephen-curry.md), [Brandin Podziemski](../profiles/players/brandin-podziemski.md))
+Make the price rule concrete. Anthony Edwards's market price is well above the experts' value, and the two-game week is one more reason to stop bidding before he reaches Yahoo's average cost. If he falls into the experts' range with no better option left, take him. For LaMelo Ball, the same two-game week is a reason not to stretch past the fair range. For Donovan Mitchell, James Harden and Evan Mobley, the two-game finals week is one more reason to bid at the low end of their notes. ([Anthony Edwards](../profiles/players/anthony-edwards.md), [LaMelo Ball](../profiles/players/lamelo-ball.md), [Donovan Mitchell](../profiles/players/donovan-mitchell.md), [James Harden](../profiles/players/james-harden.md), [Evan Mobley](../profiles/players/evan-mobley.md), [08-16](https://youtu.be/gf_6GveiAls?t=1522))
 
-Two-game weeks: Minnesota plays only two games in week 20, which starts March 15. Cleveland plays 4, 3 and 2, so it has only two games in finals week 21, which starts March 22. Cleveland also has the most back-to-backs in the league. These are the worst playoff schedules in the data. ([Anthony Edwards](../profiles/players/anthony-edwards.md), [Rudy Gobert](../profiles/players/rudy-gobert.md), [Donovan Mitchell](../profiles/players/donovan-mitchell.md), [James Harden](../profiles/players/james-harden.md), [Evan Mobley](../profiles/players/evan-mobley.md))
+Watch team stacking. Up to three players from one NBA team is fine, and that is easier to accept when the team has no two-game playoff weeks. Five is too many. Minnesota (Edwards, Ball, Gobert, McDaniels, Dosunmu) and Cleveland (Mitchell, Harden, Mobley, Allen, Watson) each have five draftable players, and one short week would hit all of them in the same matchup. ([09-25](https://youtu.be/4gw4W4RTolY?t=364), [Jaden McDaniels](../profiles/players/jaden-mcdaniels.md), [Ayo Dosunmu](../profiles/players/ayo-dosunmu.md), [Jarrett Allen](../profiles/players/jarrett-allen.md))
 
-Ten-game teams: Houston plays 3-3-4 and Indiana plays 3-4-3. Brooklyn also plays 3-4-3 but has only one back-to-back. Miami plays only 10 games but has no back-to-backs. ([Kevin Durant](../profiles/players/kevin-durant.md), [Alperen Sengun](../profiles/players/alperen-sengun.md), [Tyrese Haliburton](../profiles/players/tyrese-haliburton.md), [Pascal Siakam](../profiles/players/pascal-siakam.md), [Day'Ron Sharpe](../profiles/players/dayron-sharpe.md), [Davion Mitchell](../profiles/players/davion-mitchell.md))
+## Teams with strong playoff weeks
 
-Back-to-back teams: Philadelphia, Toronto, Portland and Boston each have three back-to-backs in our playoff weeks. Boston plays 4-3-4, so this mainly hurts players who sit back-to-backs. The notes name Kawhi Leonard, Joel Embiid, Mitchell Robinson and Robert Williams III, and they say Kyrie Irving's rest on back-to-backs may cut his games even in Dallas's 4-4-4. ([Tyrese Maxey](../profiles/players/tyrese-maxey.md), [Kawhi Leonard](../profiles/players/kawhi-leonard.md), [Joel Embiid](../profiles/players/joel-embiid.md), [Mitchell Robinson](../profiles/players/mitchell-robinson.md), [Robert Williams III](../profiles/players/robert-williams.md), [Kyrie Irving](../profiles/players/kyrie-irving.md))
+Dallas plays 4-4-4 in weeks 19 to 21, the most games in the data. But Dallas also has a league-high 16 back-to-backs. If Kyrie Irving keeps resting on back-to-backs, he could play only 10 of those games. Detroit and the Clippers play 4-3-4, and Atlanta plays 4-4-3. The notes call Golden State's schedule good for a March 28 end. Washington has only one back-to-back in our playoff weeks. ([Cooper Flagg](../profiles/players/cooper-flagg.md), [Kyrie Irving](../profiles/players/kyrie-irving.md), [Cade Cunningham](../profiles/players/cade-cunningham.md), [Darius Garland](../profiles/players/darius-garland.md), [Dyson Daniels](../profiles/players/dyson-daniels.md), [Stephen Curry](../profiles/players/stephen-curry.md), [Anthony Davis](../profiles/players/anthony-davis.md))
 
-## Expensive players: where the tiebreak counts
+Here is a tiebreak example at the top of the draft. The market prices both Cade Cunningham and Anthony Edwards as early picks, and the experts cap both well below that. If they are on the board at similar prices, Cunningham's 4-3-4 beats Edwards's two-game week 20. In the same way, Cooper Flagg's 4-4-4 is a small edge over Houston players like Kevin Durant, whose team plays only 10 games. ([Cade Cunningham](../profiles/players/cade-cunningham.md), [Anthony Edwards](../profiles/players/anthony-edwards.md), [Cooper Flagg](../profiles/players/cooper-flagg.md), [Kevin Durant](../profiles/players/kevin-durant.md))
 
-On the plus side are Cade Cunningham (Detroit 4-3-4), Jalen Johnson (Atlanta 4-4-3) and Cooper Flagg (Dallas 4-4-4). If you rate one of them the same as a similar player with a weak schedule, take them. ([Cade Cunningham](../profiles/players/cade-cunningham.md), [Jalen Johnson](../profiles/players/jalen-johnson.md), [Cooper Flagg](../profiles/players/cooper-flagg.md), [09-29](https://youtu.be/NmdNvAz08oE?t=1848))
+## Weak schedules without a two-game week
 
-On the minus side, Anthony Edwards has Minnesota's two-game week 20, and Donovan Mitchell has Cleveland's two-game finals week. These are the cases the experts warn about most, because the hole lands in the semifinal or the final. Tyrese Maxey has three Sixers back-to-backs, Tyrese Haliburton has Indiana's 3-4-3, and Kevin Durant and Amen Thompson have Houston's 10 games. Each of these is a small minus, not a reason to skip the player. ([Anthony Edwards](../profiles/players/anthony-edwards.md), [Donovan Mitchell](../profiles/players/donovan-mitchell.md), [Tyrese Maxey](../profiles/players/tyrese-maxey.md), [Tyrese Haliburton](../profiles/players/tyrese-haliburton.md), [Kevin Durant](../profiles/players/kevin-durant.md), [Amen Thompson](../profiles/players/amen-thompson.md), [08-16](https://youtu.be/gf_6GveiAls?t=1665))
+Some teams play only 10 games across our playoff weeks: Houston (3-3-4), Indiana (3-4-3) and Brooklyn (3-4-3). Philadelphia, Portland and Toronto each have three back-to-backs in those weeks. Boston plays 4-3-4 but also has three back-to-backs. These hurt most for players who are expected to rest, such as LeBron James, Joel Embiid, Mitchell Robinson and Robert Williams III. ([Alperen Sengun](../profiles/players/alperen-sengun.md), [Tyrese Haliburton](../profiles/players/tyrese-haliburton.md), [Egor Dëmin](../profiles/players/egor-demin.md), [Tyrese Maxey](../profiles/players/tyrese-maxey.md), [LeBron James](../profiles/players/lebron-james.md), [Joel Embiid](../profiles/players/joel-embiid.md), [Damian Lillard](../profiles/players/damian-lillard.md), [Immanuel Quickley](../profiles/players/immanuel-quickley.md), [Mitchell Robinson](../profiles/players/mitchell-robinson.md), [Robert Williams III](../profiles/players/robert-williams.md))
 
-Example: Edwards and Cunningham have similar expert ranks. If you see them as equals, Cunningham's 4-3-4 beats Edwards's two-game week 20. For Durant, the note suggests thinking about his trade value before the 2027-03-04 deadline because of Houston's 10 games. ([Anthony Edwards](../profiles/players/anthony-edwards.md), [Cade Cunningham](../profiles/players/cade-cunningham.md), [Kevin Durant](../profiles/players/kevin-durant.md), [10-01](https://youtu.be/aLP080hxizA?t=1978))
+Miami is mixed. It plays only 10 games but has no back-to-backs. The data tags Giannis Antetokounmpo's schedule as good but tags Bam Adebayo and the other Miami players as bad, so treat Miami as neutral in a tiebreak. ([Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md), [Bam Adebayo](../profiles/players/bam-adebayo.md), [Davion Mitchell](../profiles/players/davion-mitchell.md))
 
-## Mid and late picks, stacking and waivers
+## Using schedules after the draft
 
-For mid and late picks the schedule matters less. Cheap players with weak schedules, such as Jaden McDaniels, Rudy Gobert or Jarrett Allen, keep their value at their prices. Only use the schedule when two cheap options are equal. ([09-29](https://youtu.be/NmdNvAz08oE?t=1879), [Jaden McDaniels](../profiles/players/jaden-mcdaniels.md), [Rudy Gobert](../profiles/players/rudy-gobert.md), [Jarrett Allen](../profiles/players/jarrett-allen.md))
+Several notes name role players from good-schedule teams as possible late-season pickups or streamers. From Dallas these are P.J. Washington, Max Christie, Naji Marshall and Marcus Sasser. From the Clippers they are Kris Dunn, Max Strus and Bradley Beal, but only if their roles grow. Use FAB on them near the playoffs only if they are playing real minutes by then. ([P.J. Washington](../profiles/players/pj-washington.md), [Max Christie](../profiles/players/max-christie.md), [Naji Marshall](../profiles/players/naji-marshall.md), [Marcus Sasser](../profiles/players/marcus-sasser.md), [Kris Dunn](../profiles/players/kris-dunn.md), [Max Strus](../profiles/players/max-strus.md), [Bradley Beal](../profiles/players/bradley-beal.md))
 
-Watch your team stacks. Up to three players from one NBA team is fine, and that is easier to accept when the team has no two-game playoff week. Five is too many. Minnesota (Edwards, LaMelo Ball, Gobert, McDaniels, Dosunmu) and Cleveland (Mitchell, Harden, Mobley, Allen, Watson) both have deep draftable groups and two-game weeks. Count them before you bid, and stay below three from either team. ([09-25](https://youtu.be/4gw4W4RTolY?t=364), [LaMelo Ball](../profiles/players/lamelo-ball.md), [Ayo Dosunmu](../profiles/players/ayo-dosunmu.md), [Peyton Watson](../profiles/players/peyton-watson.md), [James Harden](../profiles/players/james-harden.md), [Evan Mobley](../profiles/players/evan-mobley.md))
-
-In season, the schedule matters more on waivers than at the draft. Dallas and Clippers role players are possible late-season streamers because of their 4-4-4 and 4-3-4 weeks. If you roster Embiid, have a backup center ready for Philadelphia's three playoff back-to-backs. Use your 6 weekly adds and FAB in weeks 19 to 21 on teams with four games. ([P.J. Washington](../profiles/players/pj-washington.md), [Max Christie](../profiles/players/max-christie.md), [Naji Marshall](../profiles/players/naji-marshall.md), [Kris Dunn](../profiles/players/kris-dunn.md), [Joel Embiid](../profiles/players/joel-embiid.md), [T.J. McConnell](../profiles/players/tj-mcconnell.md))
+Players on weak-schedule teams are the first to cut late in the season. If Reed Sheppard stays a short-minute bench guard, drop him, since Houston's 10-game playoff schedule gives little reason to hold him. Do not count on Thomas Bryant for the playoffs, because Cleveland plays only two games in the finals week. T.J. McConnell is a stream for Indiana's 4-game weeks, but he is a weak option in our playoffs. ([Reed Sheppard](../profiles/players/reed-sheppard.md), [Thomas Bryant](../profiles/players/thomas-bryant.md), [T.J. McConnell](../profiles/players/tj-mcconnell.md))
 
 ## Players
 
 Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
-### Expensive, good schedule
+### Top price, schedule plus
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Cade Cunningham](../profiles/players/cade-cunningham.md) | DET | G | 5 | 64.4 | 11 | 56.4 | 55 | Detroit's 4-3-4 playoff weeks make him the pick when you rate him level with a similar star. |
-| [Jalen Johnson](../profiles/players/jalen-johnson.md) | ATL | F | 11 | 51.4 | 9 | 54.1 | 34 | Atlanta plays 4-4-3 in weeks 19 to 21, a small plus in a tie. |
-| [Cooper Flagg](../profiles/players/cooper-flagg.md) | DAL | G,F | 13 | 50.6 | 16 | 41.5 | 25 | Dallas's 4-4-4 is the best playoff schedule in the data and adds a little to his value. |
+| [Cade Cunningham](../profiles/players/cade-cunningham.md) | DET | G | 5 | 64.4 | 11 | 56.6 | 55 | Detroit's 4-3-4 makes him the pick over a similar star whose team has a short playoff week. |
+| [Cooper Flagg](../profiles/players/cooper-flagg.md) | DAL | G,F | 13 | 50.6 | 16 | 41.4 | 25 | Dallas's 4-4-4 is the most games in the data, which is a real tiebreak edge at his price. |
+| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 58.8 | 20 | 62.1 | 62 | Tagged good because Miami has no back-to-backs, but only 10 games, so treat it as neutral. |
+| [Stephen Curry](../profiles/players/stephen-curry.md) | GSW | G | 25 | 30.6 | 33 | 24.5 | 42 | Golden State's schedule is good for a March 28 end, but rest days could still cut his games. |
 
-### Expensive, bad schedule
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [Anthony Edwards](../profiles/players/anthony-edwards.md) | MIN | G | 8 | 59.4 | 5 | 59.6 | 55 | Minnesota's two-game semifinal week 20 is exactly the case the experts warn about for a top player. |
-| [Donovan Mitchell](../profiles/players/donovan-mitchell.md) | CLE | G | 12 | 46.2 | 7 | 48.7 | 40 | Cleveland plays only two games in finals week 21, so he loses ties against similar guards. |
-| [Tyrese Maxey](../profiles/players/tyrese-maxey.md) | PHI | G | 9 | 57.4 | 6 | 48.4 | 37 | Three Sixers back-to-backs in the playoffs are a small minus on top of the usage concerns. |
-| [Tyrese Haliburton](../profiles/players/tyrese-haliburton.md) | IND | G | 10 | 45.4 | 12 | 39.1 | not drafted | Indiana's 3-4-3 is a small minus, and back-to-back rest could cut his playoff games further. |
-| [Kevin Durant](../profiles/players/kevin-durant.md) | HOU | G,F | 14 | 43.0 | 28 | 33.3 | 44 | Houston's 10 playoff games make him a trade candidate before the 2027-03-04 deadline. |
-| [Amen Thompson](../profiles/players/amen-thompson.md) | HOU | G | 20 | 24.0 | 13 | 37.1 | 38 | Houston's weak 10-game schedule is a small minus in a tie. |
-
-### Mid-price, good schedule
+### Top price, schedule minus
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Stephen Curry](../profiles/players/stephen-curry.md) | GSW | G | 25 | 30.6 | 33 | 24.2 | 42 | Golden State's schedule suits a March 28 end, but his rest on back-to-backs needs watching. |
-| [Kyrie Irving](../profiles/players/kyrie-irving.md) | DAL | G | 46 | 9.6 | 48 | 10.0 | not drafted | Dallas plays 4-4-4, but back-to-back rest may cut how many of those games he plays. |
-| [Darius Garland](../profiles/players/darius-garland.md) | LAC | G | 54 | 6.6 | 53 | 12.3 | 11 | The Clippers' 4-3-4 adds a little to a player who already looks underpriced. |
+| [Anthony Edwards](../profiles/players/anthony-edwards.md) | MIN | G | 8 | 59.4 | 5 | 59.8 | 55 | Minnesota's two-game semifinal week is another reason to stop bidding below his market price. |
+| [LaMelo Ball](../profiles/players/lamelo-ball.md) | MIN | G | 24 | 30.2 | 22 | 27.2 | 29 | Same two-game week 20 as Edwards, so do not stretch past his fair range. |
+| [Donovan Mitchell](../profiles/players/donovan-mitchell.md) | CLE | G | 12 | 46.2 | 7 | 49.2 | 40 | Cleveland plays only two games in the finals week, the worst possible spot for an expensive guard. |
+| [Tyrese Maxey](../profiles/players/tyrese-maxey.md) | PHI | G | 9 | 57.4 | 6 | 48.3 | 37 | Philadelphia has three back-to-backs in our playoff weeks, a tiebreak minus at the top. |
+| [Tyrese Haliburton](../profiles/players/tyrese-haliburton.md) | IND | G | 10 | 45.4 | 12 | 39.1 | not drafted | Indiana's 3-4-3 gives him only 10 playoff games. |
+| [Amen Thompson](../profiles/players/amen-thompson.md) | HOU | G | 20 | 24.0 | 13 | 37.0 | 38 | Houston's 3-3-4 is a weak 10-game playoff stretch. |
+| [Kevin Durant](../profiles/players/kevin-durant.md) | HOU | G,F | 14 | 43.0 | 28 | 34.0 | 44 | Houston's 10-game playoff schedule is a small extra minus, on top of his minutes risk. |
+| [Alperen Sengun](../profiles/players/alperen-sengun.md) | HOU | F,C | 22 | 32.6 | 29 | 32.2 | 36 | Houston has only 10 games across our playoff weeks. |
 
-### Mid-price, bad schedule
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [Kawhi Leonard](../profiles/players/kawhi-leonard.md) | TOR | G,F | 37 | 32.6 | 18 | 26.0 | 20 | Toronto has three playoff back-to-backs and his load management makes them a real risk. |
-| [Alperen Sengun](../profiles/players/alperen-sengun.md) | HOU | F,C | 22 | 32.6 | 29 | 32.6 | 36 | Houston plays only 10 games in our playoff weeks. |
-| [LaMelo Ball](../profiles/players/lamelo-ball.md) | MIN | G | 24 | 30.2 | 22 | 26.6 | 29 | Minnesota's two-game week 20 is a reason to stop at the low end of his range. |
-| [Pascal Siakam](../profiles/players/pascal-siakam.md) | IND | F,C | 58 | 13.8 | 24 | 24.7 | 25 | Indiana's weak 3-4-3 is a small extra minus. |
-| [James Harden](../profiles/players/james-harden.md) | CLE | G | 31 | 19.4 | 25 | 27.8 | 42 | Cleveland's two-game finals week counts against him in a tie. |
-| [Evan Mobley](../profiles/players/evan-mobley.md) | CLE | F,C | 27 | 23.6 | 27 | 19.8 | 36 | Cleveland's two-game finals week and league-high back-to-backs are a reason not to overpay. |
-| [Donovan Clingan](../profiles/players/donovan-clingan.md) | POR | C | 38 | 12.0 | 43 | 6.2 | 7 | Portland has three back-to-backs in our playoff weeks. |
-| [LeBron James](../profiles/players/lebron-james.md) | PHI | F | 40 | 21.4 | 73 | 17.8 | 22 | Philadelphia's three playoff back-to-backs matter for a player expected to sit games. |
-| [Jaylen Brown](../profiles/players/jaylen-brown.md) | PHI | G,F | 44 | 24.2 | 62 | 19.0 | 29 | The three Sixers back-to-backs are a small minus in a tie. |
-| [Deni Avdija](../profiles/players/deni-avdija.md) | POR | G,F | 48 | 18.4 | 60 | 19.9 | 17 | Portland's three playoff back-to-backs are a small minus. |
-| [Jarrett Allen](../profiles/players/jarrett-allen.md) | CLE | C | 65 | 2.8 | 49 | 7.0 | 13 | Cleveland's two-game finals week hurts, but at his price it only breaks ties. |
-| [Joel Embiid](../profiles/players/joel-embiid.md) | PHI | C | 53 | 7.4 | 88 | 8.2 | 24 | Three PHI playoff back-to-backs and his missed games mean you need a backup center ready. |
-| [Rudy Gobert](../profiles/players/rudy-gobert.md) | MIN | C | 82 | 7.2 | 55 | 4.6 | 10 | Plan around Minnesota's two-game week 20, but he is still a strong punt FT% buy. |
-| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 57 | 8.2 | 81 | 3.6 | 20 | Indiana's 3-4-3 is a small minus for a cheap center. |
-
-### Late picks, good schedule
+### Mid price, schedule plus
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Brandon Ingram](../profiles/players/brandon-ingram.md) | LAC | G,F | 66 | 3.2 | 79 | 4.4 | 16 | A cheap IL stash whose Clippers play 4-3-4 in our playoffs if he is healthy by then. |
-| [Brandin Podziemski](../profiles/players/brandin-podziemski.md) | GSW | G | 117 | 1.0 | 66 | 2.3 | not drafted | Golden State's schedule is good for a March 28 end, despite 15 back-to-backs. |
-| [Daniel Gafford](../profiles/players/daniel-gafford.md) | DAL | C | 120 | 1.0 | 114 | 0.5 | not drafted | Dallas plays 4-4-4, a small plus for a 1 USD center. |
-| [Rui Hachimura](../profiles/players/rui-hachimura.md) | LAC | F | 121 | 1.0 | 197 | 0.1 | not drafted | The Clippers' 4-3-4 helps only if his minutes grow. |
+| [Anthony Davis](../profiles/players/anthony-davis.md) | WAS | F,C | 45 | 21.8 | 14 | 24.6 | 54 | Only one back-to-back in our playoff weeks, which helps a player whose question is games played. |
+| [Darius Garland](../profiles/players/darius-garland.md) | LAC | G | 54 | 6.6 | 53 | 12.8 | 11 | The Clippers' 4-3-4 is a small extra reason to buy him. |
+| [Dyson Daniels](../profiles/players/dyson-daniels.md) | ATL | G,F | 61 | 4.4 | 38 | 9.7 | 28 | Atlanta's 4-4-3 adds a little to a player the experts already like. |
+| [Kyrie Irving](../profiles/players/kyrie-irving.md) | DAL | G | 46 | 9.6 | 48 | 10.0 | not drafted | Dallas plays 4-4-4, but resting on back-to-backs could cut him to 10 games. |
+
+### Mid price, schedule minus
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Bam Adebayo](../profiles/players/bam-adebayo.md) | MIA | F,C | 26 | 25.4 | 15 | 25.5 | 26 | Miami plays only 10 games but has no back-to-backs, so this is a mild minus. |
+| [Pascal Siakam](../profiles/players/pascal-siakam.md) | IND | F,C | 58 | 13.8 | 24 | 25.1 | 25 | Indiana's 3-4-3 is a small minus. |
+| [James Harden](../profiles/players/james-harden.md) | CLE | G | 31 | 19.4 | 25 | 28.0 | 42 | The two-game finals week hurts him directly. |
+| [Evan Mobley](../profiles/players/evan-mobley.md) | CLE | F,C | 27 | 23.6 | 27 | 19.9 | 36 | The two-game finals week and Cleveland's back-to-back load lower his playoff value. |
+| [Jarrett Allen](../profiles/players/jarrett-allen.md) | CLE | C | 65 | 2.8 | 49 | 6.9 | 13 | Cleveland's two-game finals week is one more reason to stop at his fair price. |
+| [LeBron James](../profiles/players/lebron-james.md) | PHI | F | 40 | 21.4 | 73 | 17.6 | 22 | His rest days plus three back-to-backs in our playoff weeks limit his weekly totals. |
+| [Jaylen Brown](../profiles/players/jaylen-brown.md) | PHI | G,F | 44 | 24.2 | 62 | 18.8 | 29 | Philadelphia's three playoff back-to-backs are a tiebreak minus. |
+| [Joel Embiid](../profiles/players/joel-embiid.md) | PHI | C | 53 | 7.4 | 88 | 8.3 | 24 | Three Sixers back-to-backs in our playoffs are a problem if he sits every back-to-back. |
+| [Donovan Clingan](../profiles/players/donovan-clingan.md) | POR | C | 38 | 12.0 | 43 | 6.0 | 7 | Portland's three playoff back-to-backs are a small minus for a single-digit buy. |
+| [Rudy Gobert](../profiles/players/rudy-gobert.md) | MIN | C | 82 | 7.2 | 55 | 4.7 | 10 | Minnesota's two-game week 20 matters if you also roster other Timberwolves. |
+| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 57 | 8.2 | 81 | 3.5 | 20 | Indiana's 3-4-3 is a small minus at a modest price. |
+| [Damian Lillard](../profiles/players/damian-lillard.md) | POR | G | 67 | 5.0 | 70 | 5.6 | not drafted | Portland's three playoff back-to-backs matter if the team sits him on back-to-backs. |
+| [VJ Edgecombe](../profiles/players/vj-edgecombe.md) | PHI | G | 88 | 9.2 | 69 | 3.2 | not drafted | Philadelphia's three playoff back-to-backs are a small minus. |
+| [Jaden McDaniels](../profiles/players/jaden-mcdaniels.md) | MIN | F | 90 | 1.0 | 84 | 2.3 | 1 | Plan around Minnesota's two-game week 20, and avoid stacking too many Timberwolves. |
+| [Immanuel Quickley](../profiles/players/immanuel-quickley.md) | TOR | G | 86 | 1.4 | 90 | 1.7 | 13 | Toronto's three playoff back-to-backs are a mild minus at his low price. |
+| [Ja Morant](../profiles/players/ja-morant.md) | POR | G | 93 | 2.6 | 133 | 4.3 | 17 | Portland's back-to-backs add to his health risk. |
+
+### Late picks, schedule minor
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Brandin Podziemski](../profiles/players/brandin-podziemski.md) | GSW | G | 117 | 1.0 | 66 | 2.3 | not drafted | Golden State's good schedule is a small bonus for a cheap starter. |
+| [Brandon Ingram](../profiles/players/brandon-ingram.md) | LAC | G,F | 66 | 3.2 | 79 | 4.4 | 16 | The Clippers' 4-3-4 helps only if he is back and healthy by then. |
+| [Daniel Gafford](../profiles/players/daniel-gafford.md) | DAL | C | 120 | 1.0 | 114 | 0.5 | not drafted | Dallas's 4-4-4 is a minor plus for a 1 USD center. |
+| [Rui Hachimura](../profiles/players/rui-hachimura.md) | LAC | F | 121 | 1.0 | 197 | 0.2 | not drafted | The Clippers' 4-3-4 is a small plus, but his role decides his value. |
 | [P.J. Washington](../profiles/players/pj-washington.md) | DAL | F,C | 133 | 0.0 | 151 | 0.1 | 1 | Dallas's 4-4-4 makes him a useful pickup later in the season. |
-| [Draymond Green](../profiles/players/draymond-green.md) | GSW | F,C | 137 | 0.0 | 161 | 0.2 | 4 | Golden State's schedule is good for a March 28 end, but he is a final pick or waiver target at most. |
-| [Gui Santos](../profiles/players/gui-santos.md) | GSW | F | 141 | - | 248 | 0.0 | not drafted | The good Warriors schedule only matters if he wins the wing role. |
-| [Yaxel Lendeborg](../profiles/players/yaxel-lendeborg.md) | GSW | F | 144 | 1.0 | 173 | 0.4 | not drafted | The Warriors' good March 28 schedule is a small extra for an end-of-draft flier. |
-| [Isaiah Jackson](../profiles/players/isaiah-jackson.md) | LAC | C | 326 | - | 233 | 0.0 | 1 | The Clippers' 4-3-4 helps, but his value may fade once Konan Niederhauser returns. |
-| [Jimmy Butler III](../profiles/players/jimmy-butler.md) | GSW | F | 154 | 0.0 | 214 | 0.3 | 22 | An IL stash whose Warriors schedule is good for March 28 if he returns in time. |
-
-### Late picks, bad schedule
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [Reed Sheppard](../profiles/players/reed-sheppard.md) | HOU | G | 149 | 1.0 | 58 | 1.7 | 4 | Houston's 10 games barely matter for a 1 to 3 USD flier. |
-| [Damian Lillard](../profiles/players/damian-lillard.md) | POR | G | 67 | 5.0 | 70 | 5.4 | not drafted | Portland's three playoff back-to-backs matter because games played is his main risk. |
-| [VJ Edgecombe](../profiles/players/vj-edgecombe.md) | PHI | G | 88 | 9.2 | 69 | 3.0 | not drafted | Three Philadelphia back-to-backs are a small minus at his price. |
-| [Fred VanVleet](../profiles/players/fred-vanvleet.md) | HOU | G | 153 | 1.0 | 74 | 1.6 | 1 | Houston plays only 10 games and he may sit back-to-backs. |
-| [Jaden McDaniels](../profiles/players/jaden-mcdaniels.md) | MIN | F | 90 | 1.0 | 84 | 2.0 | 1 | Plan around Minnesota's two-game week 20, but he is still a good cheap target. |
-| [Immanuel Quickley](../profiles/players/immanuel-quickley.md) | TOR | G | 86 | 1.4 | 90 | 1.6 | 13 | Toronto's three playoff back-to-backs are a small minus. |
-| [Day'Ron Sharpe](../profiles/players/dayron-sharpe.md) | BKN | C | 91 | 5.6 | 136 | 0.3 | not drafted | Brooklyn plays only 10 games, though with just one back-to-back. |
-| [Ja Morant](../profiles/players/ja-morant.md) | POR | G | 93 | 2.6 | 133 | 3.9 | 17 | Portland's three playoff back-to-backs add to his health risk. |
-| [Jabari Smith Jr.](../profiles/players/jabari-smith.md) | HOU | F,C | 98 | 1.6 | 110 | 1.0 | 1 | Houston's 10-game schedule is a minus for a cheap starter. |
-| [Ayo Dosunmu](../profiles/players/ayo-dosunmu.md) | MIN | G | 104 | 1.0 | 108 | 1.0 | not drafted | Minnesota's two-game week 20 is one reason to pay only a few dollars. |
-| [Peyton Watson](../profiles/players/peyton-watson.md) | CLE | F | 107 | 1.0 | 104 | 0.9 | not drafted | His 9-game playoff schedule with a two-game finals week cuts his late value. |
-| [Andrew Nembhard](../profiles/players/andrew-nembhard.md) | IND | G | 108 | 1.0 | 149 | 0.7 | 10 | Indiana's 3-4-3 adds to the case for keeping him as a bench handcuff at most. |
-| [Davion Mitchell](../profiles/players/davion-mitchell.md) | MIA | G | 110 | 1.0 | 175 | 0.1 | not drafted | Miami plays only 10 games in our playoff weeks, though with no back-to-backs. |
-| [Egor Dëmin](../profiles/players/egor-demin.md) | BKN | G | 131 | 0.0 | 121 | 0.7 | not drafted | Brooklyn plays 10 games but has only one back-to-back. |
-| [Jonathan Kuminga](../profiles/players/jonathan-kuminga.md) | MIN | F | 129 | 1.0 | 185 | 0.4 | 1 | Minnesota's two-game week 20 lowers his value further. |
-| [Jrue Holiday](../profiles/players/jrue-holiday.md) | POR | G | 136 | 0.0 | 131 | 0.5 | 3 | Portland's three playoff back-to-backs are a small minus for an edge-of-pool pick. |
+| [Draymond Green](../profiles/players/draymond-green.md) | GSW | F,C | 137 | 0.0 | 161 | 0.3 | 4 | Golden State's good schedule matters less than whether the team rests veterans. |
+| [Gui Santos](../profiles/players/gui-santos.md) | GSW | F | 141 | - | 248 | 0.0 | not drafted | The good Warriors schedule does not matter unless he holds a role. |
+| [Yaxel Lendeborg](../profiles/players/yaxel-lendeborg.md) | GSW | F | 144 | 1.0 | 173 | 0.6 | not drafted | The good Warriors schedule does not matter unless he holds a role. |
+| [Jimmy Butler III](../profiles/players/jimmy-butler.md) | GSW | F | 154 | 0.0 | 214 | 0.3 | 22 | He is an IL stash, and the good Warriors schedule matters only if he plays real minutes. |
+| [Isaiah Jackson](../profiles/players/isaiah-jackson.md) | LAC | C | 326 | - | 233 | 0.0 | 1 | The Clippers' 4-3-4 helps little, since Konan Niederhauser's return will likely end his value. |
+| [Yanic Konan Niederhäuser](../profiles/players/yanic-konan-niederhauser.md) | LAC | C | 425 | - | - | - | not drafted | His real upside is in the fantasy playoffs, behind the Clippers' 4-3-4. |
+| [Morez Johnson Jr.](../profiles/players/morez-johnson.md) | DAL | F | 208 | - | 166 | 0.0 | not drafted | Dallas's 4-4-4 helps only if he wins center minutes. |
+| [Reed Sheppard](../profiles/players/reed-sheppard.md) | HOU | G | 149 | 1.0 | 58 | 1.9 | 4 | Drop him if his role stays small, since Houston's 10 games give little reason to hold him. |
+| [Fred VanVleet](../profiles/players/fred-vanvleet.md) | HOU | G | 153 | 1.0 | 74 | 1.7 | 1 | Houston's 10 playoff games are a minor minus for a 1 to 2 USD guard. |
+| [Jabari Smith Jr.](../profiles/players/jabari-smith.md) | HOU | F,C | 98 | 1.6 | 110 | 1.1 | 1 | His 10-game playoff schedule is a minus but does not change his price. |
+| [Ayo Dosunmu](../profiles/players/ayo-dosunmu.md) | MIN | G | 104 | 1.0 | 108 | 1.1 | not drafted | Keep the two-game week starting March 15 in mind. |
+| [Peyton Watson](../profiles/players/peyton-watson.md) | CLE | F | 107 | 1.0 | 104 | 0.9 | not drafted | His 9-game playoff schedule with a two-game finals week cuts his value late. |
+| [Toumani Camara](../profiles/players/toumani-camara.md) | POR | F | 106 | 1.0 | 132 | 0.2 | 4 | Portland's back-to-backs matter less than whether he keeps his starting job. |
+| [Andrew Nembhard](../profiles/players/andrew-nembhard.md) | IND | G | 108 | 1.0 | 149 | 0.8 | 10 | Indiana's 3-4-3 is a minor point for a handcuff. |
+| [Davion Mitchell](../profiles/players/davion-mitchell.md) | MIA | G | 110 | 1.0 | 175 | 0.1 | not drafted | Miami's 10 games are minor next to his assist role risk. |
+| [Jakob Poeltl](../profiles/players/jakob-poeltl.md) | TOR | C | 122 | 1.0 | 116 | 0.8 | 15 | Toronto's three playoff back-to-backs are a mild minus for a cheap center. |
+| [Egor Dëmin](../profiles/players/egor-demin.md) | BKN | G | 131 | 0.0 | 121 | 0.6 | not drafted | Brooklyn plays only 10 games, but with just one back-to-back. |
+| [Jonathan Kuminga](../profiles/players/jonathan-kuminga.md) | MIN | F | 129 | 1.0 | 185 | 0.4 | 1 | Minnesota's two-game week 20 adds to the case against holding him. |
+| [Pelle Larsson](../profiles/players/pelle-larsson.md) | MIA | G,F | 147 | - | - | - | not drafted | Miami's 10 playoff games matter less than whether he starts. |
+| [Aaron Nesmith](../profiles/players/aaron-nesmith.md) | IND | G,F | 150 | 0.0 | 177 | 0.0 | not drafted | Indiana's 3-4-3 is a minor minus for a waiver watch. |
 | [Tari Eason](../profiles/players/tari-eason.md) | HOU | G,F | 163 | 0.0 | 176 | 0.1 | 2 | Houston's weak 10-game schedule cuts into his late value. |
-| [Pelle Larsson](../profiles/players/pelle-larsson.md) | MIA | G,F | 147 | - | - | - | not drafted | Miami plays only 10 games, with no back-to-backs. |
-| [Aaron Nesmith](../profiles/players/aaron-nesmith.md) | IND | G,F | 150 | 0.0 | 177 | 0.0 | not drafted | Indiana's 3-4-3 is a minus for a waiver watch. |
-| [Mikel Brown Jr.](../profiles/players/mikel-brown.md) | BKN | G | 180 | 0.0 | 198 | 0.1 | not drafted | Brooklyn plays 10 games, but experts expect him to improve after February. |
+| [Mikel Brown Jr.](../profiles/players/mikel-brown.md) | BKN | G | 180 | 0.0 | 198 | 0.1 | not drafted | Brooklyn's 10 games are a minor minus for a bench flyer. |
 
-### Waiver watch, good schedule
+### Waiver watch, good playoff team
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Brook Lopez](../profiles/players/brook-lopez.md) | LAC | C | 160 | 0.0 | 112 | 0.2 | not drafted | The Clippers' 4-3-4 only matters if his minutes return toward 30. |
-| [Dereck Lively II](../profiles/players/dereck-lively.md) | DAL | C | 166 | - | 143 | 0.1 | 3 | If he wins the starting job later, Dallas's 4-4-4 playoff weeks help. |
-| [Morez Johnson Jr.](../profiles/players/morez-johnson.md) | DAL | F | 208 | - | 166 | 0.0 | not drafted | Dallas's 4-4-4 helps if he gets 25 to 30 minutes. |
-| [Santi Aldama](../profiles/players/santi-aldama.md) | DAL | F | 176 | - | 171 | 0.0 | 3 | Dallas plays 4-4-4, but his value depends almost fully on minutes. |
-| [Max Christie](../profiles/players/max-christie.md) | DAL | G,F | 252 | - | 178 | 0.0 | not drafted | A possible late-season threes streamer thanks to Dallas's 4-4-4. |
-| [De'Anthony Melton](../profiles/players/deanthony-melton.md) | GSW | G | 245 | - | 180 | 0.0 | not drafted | Golden State's March 28 schedule is good if he wins the starting guard spot. |
-| [Kris Dunn](../profiles/players/kris-dunn.md) | LAC | G | 191 | - | 184 | 0.0 | not drafted | The 4-3-4 schedule helps steals-needy teams if he starts. |
-| [Naji Marshall](../profiles/players/naji-marshall.md) | DAL | G,F | 190 | - | 209 | 0.0 | not drafted | Dallas's 4-4-4 makes him more useful late if he gets ball-handling minutes. |
-| [Derrick Jones Jr.](../profiles/players/derrick-jones.md) | LAC | F | 225 | - | 195 | 0.0 | not drafted | The Clippers' good playoff schedule helps only if he keeps his minutes. |
-| [Gary Payton II](../profiles/players/gary-payton.md) | GSW | G,F | 266 | - | 196 | 0.0 | not drafted | The good Warriors schedule matters only if his minutes clearly go up. |
-| [Al Horford](../profiles/players/al-horford.md) | GSW | F,C | 205 | 0.0 | 199 | 0.0 | 1 | Golden State's schedule is good, but he skips back-to-backs. |
-| [Max Strus](../profiles/players/max-strus.md) | LAC | F | 209 | - | 204 | 0.0 | not drafted | The Clippers' 4-3-4 is a small plus if he regains a starter role. |
-| [Bradley Beal](../profiles/players/bradley-beal.md) | LAC | G,F | 212 | - | 205 | 0.0 | 3 | The 4-3-4 schedule helps a little if he returns near 30 minutes. |
-| [Keaton Wagler](../profiles/players/keaton-wagler.md) | LAC | G | 210 | 0.0 | 208 | 0.1 | not drafted | The good Clippers schedule matters only if his minutes and efficiency grow. |
-| [Jordan Miller](../profiles/players/jordan-miller.md) | LAC | G,F | 310 | - | 349 | 0.0 | not drafted | The Clippers play 4-3-4, but his shoulder injury makes him only a deep waiver option. |
+| [Max Christie](../profiles/players/max-christie.md) | DAL | G,F | 252 | - | 178 | 0.0 | not drafted | Dallas's 4-4-4 makes him a possible late-season threes streamer. |
+| [Naji Marshall](../profiles/players/naji-marshall.md) | DAL | G,F | 190 | - | 209 | 0.0 | not drafted | If he gets ball-handling minutes, Dallas's 4-4-4 makes him more useful late. |
 | [Marcus Sasser](../profiles/players/marcus-sasser.md) | DAL | G | 395 | - | 316 | 0.0 | not drafted | Dallas's 4-4-4 could make him a late streamer if he gets backup guard minutes. |
-| [Kobe Sanders](../profiles/players/kobe-sanders.md) | LAC | G,F | 329 | - | - | - | not drafted | The 4-3-4 schedule only matters if Clippers injuries push him into big minutes. |
-| [Yanic Konan Niederhäuser](../profiles/players/yanic-konan-niederhauser.md) | LAC | C | 425 | - | - | - | not drafted | A free IL stash whose late upside lands in the Clippers' good 4-3-4 playoff weeks. |
-| [Sergio de Larrea](../profiles/players/sergio-de-larrea.md) | DAL | G | 615 | - | - | 0.0 | not drafted | Dallas's 4-4-4 is irrelevant unless he earns real backup minutes. |
+| [Dereck Lively II](../profiles/players/dereck-lively.md) | DAL | C | 166 | - | 143 | 0.1 | 3 | If he wins the starting job later, Dallas's 4-4-4 helps. |
+| [Santi Aldama](../profiles/players/santi-aldama.md) | DAL | F | 176 | - | 171 | 0.0 | 3 | Dallas plays 4-4-4, but his value depends on playing time. |
+| [Sergio de Larrea](../profiles/players/sergio-de-larrea.md) | DAL | G | 615 | - | - | 0.0 | not drafted | Dallas plays 4-4-4, but he needs real minutes first. |
+| [Kris Dunn](../profiles/players/kris-dunn.md) | LAC | G | 191 | - | 184 | 0.0 | not drafted | A starting role plus the Clippers' 4-3-4 would make him a useful steals add. |
+| [Max Strus](../profiles/players/max-strus.md) | LAC | F | 209 | - | 204 | 0.0 | not drafted | The Clippers' 4-3-4 and few back-to-backs make him easier to hold if the role is there. |
+| [Bradley Beal](../profiles/players/bradley-beal.md) | LAC | G,F | 212 | - | 205 | 0.0 | 3 | The Clippers' 4-3-4 helps only if he reaches about 30 minutes. |
+| [Jordan Miller](../profiles/players/jordan-miller.md) | LAC | G,F | 310 | - | 349 | 0.0 | not drafted | The Clippers' 4-3-4 is a small reason to check on him after the All-Star break. |
+| [Brook Lopez](../profiles/players/brook-lopez.md) | LAC | C | 160 | 0.0 | 112 | 0.2 | not drafted | The Clippers' 4-3-4 matters only if he wins about 30 minutes. |
+| [Derrick Jones Jr.](../profiles/players/derrick-jones.md) | LAC | F | 225 | - | 195 | 0.0 | not drafted | The good Clippers schedule matters little, since his role should fade when others return. |
+| [Keaton Wagler](../profiles/players/keaton-wagler.md) | LAC | G | 210 | 0.0 | 208 | 0.1 | not drafted | The Clippers' 4-3-4 matters only if his role clearly grows. |
+| [Kobe Sanders](../profiles/players/kobe-sanders.md) | LAC | G,F | 329 | - | - | - | not drafted | The Clippers' 4-3-4 matters only if injuries give him starter minutes. |
+| [De'Anthony Melton](../profiles/players/deanthony-melton.md) | GSW | G | 245 | - | 180 | 0.0 | not drafted | The good Warriors schedule helps if he wins the starting guard spot. |
+| [Gary Payton II](../profiles/players/gary-payton.md) | GSW | G,F | 266 | - | 196 | 0.0 | not drafted | The good Warriors schedule matters only if his minutes climb. |
+| [Al Horford](../profiles/players/al-horford.md) | GSW | F,C | 205 | 0.0 | 199 | 0.0 | 1 | The schedule is good, but he skips every back-to-back. |
+| [Moses Moody](../profiles/players/moses-moody.md) | GSW | G,F | 261 | - | 345 | 0.0 | not drafted | A likely March return leaves too little time to use the good Warriors schedule. |
 
-### Waiver only, bad schedule
+### Waiver watch, weak playoff team
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Mitchell Robinson](../profiles/players/mitchell-robinson.md) | BOS | C | 178 | 0.0 | 115 | 0.3 | not drafted | Boston plays 4-3-4 but has three back-to-backs he is expected to sit. |
-| [Robert Williams III](../profiles/players/robert-williams.md) | POR | C | 202 | - | 165 | 0.0 | not drafted | He is expected to sit back-to-backs, and Portland has three in the playoffs. |
-| [Kelly Oubre Jr.](../profiles/players/kelly-oubre.md) | IND | F | 164 | 0.0 | 182 | 0.1 | not drafted | Indiana's 3-4-3 adds to the case for leaving him on waivers. |
-| [Scoot Henderson](../profiles/players/scoot-henderson.md) | POR | G | 185 | - | 206 | 0.0 | not drafted | Portland's three playoff back-to-backs add to his lack of a role. |
-| [Jay Huff](../profiles/players/jay-huff.md) | IND | C | 189 | - | - | 0.0 | 1 | A Zubac handcuff whose Indiana 3-4-3 schedule is weak. |
-| [Jaylon Tyson](../profiles/players/jaylon-tyson.md) | CLE | G,F | 226 | - | 189 | 0.0 | not drafted | Cleveland's two-game finals week limits him even if he earns a role. |
-| [T.J. McConnell](../profiles/players/tj-mcconnell.md) | IND | G | 231 | - | 190 | 0.0 | not drafted | Stream him in four-game Indiana weeks, but the 3-4-3 playoffs make him a weak option there. |
-| [Klay Thompson](../profiles/players/klay-thompson.md) | MIA | G,F | 207 | 1.0 | 224 | 0.1 | not drafted | Miami plays only 10 playoff games, so he is a threes stream at most. |
-| [Marcus Smart](../profiles/players/marcus-smart.md) | HOU | G | 218 | - | 247 | 0.0 | not drafted | Houston's 10 games add to his injury history as a minus. |
-| [Terrence Shannon Jr](../profiles/players/terrence-shannon.md) | MIN | G,F | 222 | - | 292 | 0.0 | not drafted | Minnesota's two-game week 20 limits any late-season value. |
-| [Noah Clowney](../profiles/players/noah-clowney.md) | BKN | F,C | 230 | - | 269 | 0.0 | not drafted | Brooklyn plays only 10 games and he has no draftable role. |
-| [Bones Hyland](../profiles/players/bones-hyland.md) | MIN | G | 235 | - | 283 | 0.0 | not drafted | Even with starter minutes, Minnesota's two-game week limits him in our playoffs. |
-| [Obi Toppin](../profiles/players/obi-toppin.md) | IND | F | 330 | - | 239 | 0.0 | not drafted | Indiana's 3-4-3 is a minus for a bench forward. |
-| [Kentavious Caldwell-Pope](../profiles/players/kentavious-caldwell-pope.md) | PHI | G,F | 248 | - | 246 | 0.1 | not drafted | Three Philadelphia back-to-backs add to a crowded rotation. |
-| [Donte DiVincenzo](../profiles/players/donte-divincenzo.md) | MIN | G,F | 251 | - | 348 | 0.0 | 1 | Even if he returns from the Achilles by March, Minnesota plays only two games in week 20. |
-| [Bogdan Bogdanović](../profiles/players/bogdan-bogdanovic.md) | HOU | G,F | 408 | - | 277 | 0.0 | not drafted | Houston's 10-game playoffs limit him even if injuries open minutes. |
-| [Thomas Bryant](../profiles/players/thomas-bryant.md) | CLE | C | 305 | - | 296 | 0.0 | not drafted | Do not plan on him for the playoffs because Cleveland plays only two finals-week games. |
-| [Craig Porter Jr.](../profiles/players/craig-porter.md) | CLE | G | 299 | - | - | - | not drafted | Cleveland's two-game finals week limits a steals and blocks waiver add. |
-| [Steven Adams](../profiles/players/steven-adams.md) | HOU | C | 397 | - | 329 | 0.0 | not drafted | Houston's 10 games and his back-to-back rest limit him as a rebound streamer. |
-| [Joan Beringer](../profiles/players/joan-beringer.md) | MIN | F,C | 182 | - | - | 0.0 | not drafted | A Gobert handcuff hurt by Minnesota's two-game week starting March 15. |
-| [Bruce Thornton](../profiles/players/bruce-thornton.md) | HOU | G | 634 | - | - | - | not drafted | Houston's 10-game playoffs are a minus for a deep waiver name. |
-| [Ryan Conwell](../profiles/players/ryan-conwell.md) | MIA | G | 645 | - | - | - | not drafted | Miami plays only 10 playoff games, and he has no projection yet. |
-| [Isaiah Evans](../profiles/players/isaiah-evans.md) | MIN | G | 685 | - | - | - | not drafted | Minnesota's two-game week starting March 15 limits his playoff use. |
+| [Mitchell Robinson](../profiles/players/mitchell-robinson.md) | BOS | C | 178 | 0.0 | 115 | 0.3 | not drafted | Boston plays 4-3-4, but he is expected to sit all three playoff back-to-backs. |
+| [Robert Williams III](../profiles/players/robert-williams.md) | POR | C | 202 | - | 165 | 0.0 | not drafted | He is expected to sit Portland's three playoff back-to-backs. |
+| [Joan Beringer](../profiles/players/joan-beringer.md) | MIN | F,C | 182 | - | - | 0.0 | not drafted | Minnesota's two-game week 20 makes him less useful in our playoffs. |
+| [Thomas Bryant](../profiles/players/thomas-bryant.md) | CLE | C | 305 | - | 296 | 0.0 | not drafted | Do not plan on him for the playoffs, because of the two-game finals week. |
+| [Craig Porter Jr.](../profiles/players/craig-porter.md) | CLE | G | 299 | - | - | - | not drafted | Cleveland's two-game finals week limits any late value. |
+| [Jaylon Tyson](../profiles/players/jaylon-tyson.md) | CLE | G,F | 226 | - | 189 | 0.0 | not drafted | Cleveland's 4-3-2 playoff weeks are a minus for a waiver add. |
+| [T.J. McConnell](../profiles/players/tj-mcconnell.md) | IND | G | 231 | - | 190 | 0.0 | not drafted | Stream him in Indiana's 4-game weeks, but he is weak in our 3-4-3 playoffs. |
+| [Kelly Oubre Jr.](../profiles/players/kelly-oubre.md) | IND | F | 164 | 0.0 | 182 | 0.1 | not drafted | Indiana's 3-4-3 adds nothing to a waiver-only player. |
+| [Jay Huff](../profiles/players/jay-huff.md) | IND | C | 189 | - | - | - | 1 | Indiana's 3-4-3 is a minus even if Zubac misses time. |
+| [Obi Toppin](../profiles/players/obi-toppin.md) | IND | F | 330 | - | 239 | 0.0 | not drafted | Indiana's 3-4-3 limits him even if his role grows. |
+| [Scoot Henderson](../profiles/players/scoot-henderson.md) | POR | G | 185 | - | 206 | 0.1 | not drafted | Portland's playoff back-to-backs are a minus unless a trade moves him. |
+| [Klay Thompson](../profiles/players/klay-thompson.md) | MIA | G,F | 207 | 1.0 | 224 | 0.1 | not drafted | Miami has only 10 playoff games, though no back-to-backs. |
+| [Ryan Conwell](../profiles/players/ryan-conwell.md) | MIA | G | 645 | - | - | - | not drafted | Miami's 10 playoff games are a minor point for a deep waiver watch. |
+| [Marcus Smart](../profiles/players/marcus-smart.md) | HOU | G | 218 | - | 247 | 0.0 | not drafted | Houston's weak 10-game playoff schedule adds to his injury risk. |
+| [Bogdan Bogdanović](../profiles/players/bogdan-bogdanovic.md) | HOU | G,F | 408 | - | 277 | 0.0 | not drafted | Even if injuries open a role, Houston's 10 playoff games limit him. |
+| [Steven Adams](../profiles/players/steven-adams.md) | HOU | C | 397 | - | 329 | 0.0 | not drafted | Houston's 3-3-4 is a minus for a matchup rebound streamer. |
+| [Bruce Thornton](../profiles/players/bruce-thornton.md) | HOU | G | 634 | - | - | 0.1 | not drafted | Houston's 10 playoff games are a minus if he ever earns minutes. |
+| [Terrence Shannon Jr](../profiles/players/terrence-shannon.md) | MIN | G,F | 222 | - | 292 | 0.0 | not drafted | Minnesota's two-game playoff week lowers any late value. |
+| [Bones Hyland](../profiles/players/bones-hyland.md) | MIN | G | 235 | - | 283 | 0.0 | not drafted | The two-game week starting March 15 lowers his playoff value. |
+| [Donte DiVincenzo](../profiles/players/donte-divincenzo.md) | MIN | G,F | 251 | - | 348 | 0.0 | 1 | He returns around March into Minnesota's two-game week 20. |
+| [Noah Clowney](../profiles/players/noah-clowney.md) | BKN | F,C | 230 | - | 269 | 0.0 | not drafted | Brooklyn plays only 10 games in our playoff weeks. |
+| [Kentavious Caldwell-Pope](../profiles/players/kentavious-caldwell-pope.md) | PHI | G,F | 248 | - | 246 | 0.1 | not drafted | Philadelphia's three playoff back-to-backs add to a thin case. |
 
-<sub>Built 2026-10-04 with claude-opus-5-5 high.</sub>
+<sub>Built 2026-10-05 with claude-opus-5-5 high.</sub>

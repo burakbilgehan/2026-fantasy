@@ -3,6 +3,21 @@
 
 Factual claims our stats data can confirm or refute.
 
+## 2026-10-05 [Fantasy Basketball Auction Mock Draft/Salary Cap Mock Draft](videos/2026-10-05-Q6YlQDvD-aY.md)
+
+- [34:25](https://youtu.be/Q6YlQDvD-aY?t=2065) Josh says Stephen Curry is dealing with runner's knee and other injuries.
+  > "given how crap the Warriors look, the runner's knee, the other injuries."
+- [42:41](https://youtu.be/Q6YlQDvD-aY?t=2561) Josh says Jalen Duren carries an injury tag in Yahoo but is not injured.
+  > "Why's Jaylen Duran got the injury tag still? He's not injured."
+- [31:52](https://youtu.be/Q6YlQDvD-aY?t=1912) Josh says LeBron James is 3-6 in the NBA Finals.
+  > "LeBron's not the goat. Three and six in the finals."
+- [1:18:43](https://youtu.be/Q6YlQDvD-aY?t=4723) Josh says Brandon Ingram's return date and any restrictions are unknown.
+  > "Just no idea when he comes back and what the restrictions are going to be when he is back."
+- [32:52](https://youtu.be/Q6YlQDvD-aY?t=1972) Josh says Walker Kessler's steals went up and questions whether his three-point shooting will last.
+  > "Maybe he starts hitting those threes. Maybe the steals stay up. I I don't buy it."
+- [52:40](https://youtu.be/Q6YlQDvD-aY?t=3160) Josh says Paolo Banchero does not have center eligibility on Yahoo.
+  > "I thought he might have center eligibility. He does not paro 19 bucks."
+
 ## 2026-10-04 [LA Clippers Fantasy Basketball Preview [26/27 NBA Season]](videos/2026-10-04-tnzmsYUA4yQ.md)
 
 - [7:21](https://youtu.be/tnzmsYUA4yQ?t=441) Darius Garland ranked 68th in 9-cat and 78th in points leagues last season.
@@ -41,6 +56,37 @@ Factual claims our stats data can confirm or refute.
   > "17 minutes a night over his final seven games, averaged seven and five with 1.6 blocks."
 - [34:01](https://youtu.be/tnzmsYUA4yQ?t=2041) The Clippers have 13 back-to-backs, one of the lowest totals in the league.
   > "they've got one of the lowest backto-back totals in the NBA with only 13"
+
+## 2026-10-04 [The Fantasy Basketball Sleepers You NEED To Pay Attention To](videos/2026-10-04-n4KkK-OJjqA.md)
+
+- [6:26](https://youtu.be/n4KkK-OJjqA?t=386) Paul George was a top 50 per game player last season, and 25 of his missed games were suspensions.
+  > "Paul George was a top 50 per game player last season as the third banana in Philadelphia. and 25 of the games missed"
+- [7:52](https://youtu.be/n4KkK-OJjqA?t=472) Dyson Daniels averaged only about 2 steals last season and shot poorly.
+  > "he went and had a horrible shooting season and only had two steals."
+- [8:42](https://youtu.be/n4KkK-OJjqA?t=522) Dejounte Murray ranked 46th per game last season in category leagues.
+  > "Yeah, he was 46th last season. Why would he be limited this season?"
+- [25:44](https://youtu.be/n4KkK-OJjqA?t=1544) Jaylen Brown was about 10th in points leagues last season, averaging 45 fantasy points.
+  > "where was Bro last season? 10th. He averaged 45 fantasy points."
+- [26:10](https://youtu.be/n4KkK-OJjqA?t=1570) Deni Avdija had 29% usage and was 18th in points leagues last season.
+  > "almost impossible for Abdia to keep up a 29 usage with that assist rate."
+- [27:23](https://youtu.be/n4KkK-OJjqA?t=1643) Dejounte Murray was 53rd in points leagues last season.
+  > "Bro was 53rd last season on minutes limits coming back."
+- [27:36](https://youtu.be/n4KkK-OJjqA?t=1656) Dyson Daniels was 57th in points leagues last season and 40th after the Trae Young trade.
+  > "Last season, he was 57th, but he was also 40th down the stretch after the Trey Young trade."
+- [28:33](https://youtu.be/n4KkK-OJjqA?t=1713) Zach Edey was 61st last season in under 26 minutes per game.
+  > "he was 61st last season in under 26 minutes and now he's in year three"
+- [29:34](https://youtu.be/n4KkK-OJjqA?t=1774) Stephon Castle was 40th in points leagues over the second half of last season.
+  > "Castle was great over the second half of the season, at least, 40th in points leagues."
+- [30:22](https://youtu.be/n4KkK-OJjqA?t=1822) Julius Randle was the 42nd ranked player last season.
+  > "this is the 42nd ranked player last season who can be top 50 again this season."
+- [30:56](https://youtu.be/n4KkK-OJjqA?t=1856) Paul George was 65th per game last season.
+  > "He was 65th per game last season. remember with Embiid and Maxi"
+- [31:29](https://youtu.be/n4KkK-OJjqA?t=1889) Rudy Gobert was 71st last season.
+  > "Go Bear was 71st last season. So he's down to number 82."
+- [32:28](https://youtu.be/n4KkK-OJjqA?t=1948) Coby White was 130th in points leagues last season and played 25 minutes a night.
+  > "He was 130th in points leagues last season. He played 25 minutes a night."
+- [33:15](https://youtu.be/n4KkK-OJjqA?t=1995) CJ McCollum was 93rd last season. Over his last 25 games he played 29 minutes and averaged about 19 points, 3 rebounds, 4 assists and a steal, about 32 fantasy points.
+  > "Over his last 25 games, he played 29 minutes. 194 uh no, sorry, 193 and four with a steal."
 
 ## 2026-10-03 [Detroit Pistons Fantasy Basketball Preview [26/27 NBA Season]](videos/2026-10-03-_O9pc_u5vH0.md)
 

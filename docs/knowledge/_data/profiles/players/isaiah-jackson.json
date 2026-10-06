@@ -8,53 +8,55 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "0be223729e9f",
+ "input_sha": "c1e4390a018d",
  "note_count": 8,
- "built_at": "2026-10-04T17:33:09+00:00",
+ "built_at": "2026-10-05T19:50:47+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1554142,
-  "duration_ms": 38990
+  "cost_usd_list": 0.16743019999999997,
+  "duration_ms": 39804,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Jackson is set to start at center for the Clippers over Brook Lopez. He started over Lopez in preseason scrimmages and told reporters he is starting.",
+   "text": "Jackson is starting at center for the Clippers over Brook Lopez, and he has told reporters he is the starter. Lopez is projected as the backup center.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:p9",
     "tnzmsYUA4yQ:t3",
+    "tnzmsYUA4yQ:t4",
     "ZYllcj4o6_A:p15",
     "EGdhmUgPAWY:p50",
     "EGdhmUgPAWY:t6"
    ]
   },
   {
-   "text": "Brook Lopez is projected as the backup center. Yanic Konan Niederhauser is out injured.",
+   "text": "Yanic Konan Niederhauser, another Clippers center, is out injured.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
    "sources": [
-    "tnzmsYUA4yQ:t4",
-    "tnzmsYUA4yQ:t5"
+    "tnzmsYUA4yQ:t5",
+    "4GDfg2n2l8o:t6"
    ]
   },
   {
-   "text": "The starting job is not secure. He likely starts only until Konan Niederhauser returns, and his value will likely fade later in the year. Coach Ty Lue often changes his rotation choices.",
+   "text": "He may not start all season. The starting job likely lasts only until Konan Niederhauser returns, so his value will probably fade later in the year.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "Yanic Konan Niederhauser returns",
    "sources": [
     "tnzmsYUA4yQ:p12",
     "ZYllcj4o6_A:p15",
-    "EGdhmUgPAWY:p50",
-    "tnzmsYUA4yQ:t2"
+    "EGdhmUgPAWY:p50"
    ]
   },
   {
-   "text": "He should be drafted late in every 12-team league as a late-round swing pick or flier. One expert prefers him over Nesmith as a late flier.",
+   "text": "He should be drafted late in every 12-team league even though Yahoo ranks him 326. He is the Clippers' late-round swing pick, and one expert prefers him as a late flier over Aaron Nesmith.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
@@ -65,7 +67,7 @@
    ]
   },
   {
-   "text": "His upside is a starter at about 25 minutes with a big FG% boost, blocks and solid rebounds. He could be top 150 early in the season.",
+   "text": "His upside is a starter at about 25 minutes who gives a big FG% boost, blocks and solid rebounds. He could rank inside the top 150 early in the season.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
@@ -75,7 +77,7 @@
    ]
   },
   {
-   "text": "He played surprisingly well at the end of last season before getting hurt. Yahoo lists no injury now.",
+   "text": "He played well at the end of last season before getting hurt.",
    "kind": "fact",
    "date": "2026-08-22",
    "until": "",
@@ -84,7 +86,17 @@
    ]
   },
   {
-   "text": "The Clippers have a good fantasy playoff schedule: 4, 3 and 4 games in weeks 19 to 21. They have 13 back-to-backs, one of the lowest totals in the league.",
+   "text": "Coach Ty Lue makes odd rotation choices and then changes them. The Clippers may also use this season as a trial year with long rotations, testing many players.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t1",
+    "tnzmsYUA4yQ:t2"
+   ]
+  },
+  {
+   "text": "The Clippers have a good fantasy playoff schedule, with 4, 3 and 4 games in weeks 19 to 21 for a March 28 end. They also have 13 back-to-backs, one of the lowest totals in the league.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
@@ -95,7 +107,16 @@
  ],
  "durable": [
   {
-   "text": "He is highly foul-prone, so foul trouble can limit his minutes.",
+   "text": "Jackson is not a very good player overall.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p10"
+   ]
+  },
+  {
+   "text": "He is highly foul-prone, and foul trouble can cut his minutes.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
@@ -105,7 +126,7 @@
    ]
   },
   {
-   "text": "He is two years removed from a torn Achilles.",
+   "text": "He tore his Achilles about two years ago.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
@@ -122,22 +143,13 @@
     "tnzmsYUA4yQ:p10",
     "stats"
    ]
-  },
-  {
-   "text": "He is not a very good player.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "tnzmsYUA4yQ:p10"
-   ]
   }
  ],
  "tags": [
   {
    "name": "no 3PM",
    "channel": "durable",
-   "detail": "0.0 threes per game every season",
+   "detail": "0.0 3PM per game every season",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:p10",
@@ -146,14 +158,25 @@
    "new_meaning": ""
   },
   {
+   "name": "foul prone",
+   "channel": "durable",
+   "detail": "highly foul-prone, foul trouble limits minutes",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p10",
+    "ZYllcj4o6_A:p15"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "role up",
    "channel": "current",
-   "detail": "Projected starting center after a bench role at 16.5 minutes",
+   "detail": "starting center over Brook Lopez after a bench role of about 16 minutes",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:p9",
     "tnzmsYUA4yQ:p11",
-    "tnzmsYUA4yQ:t3"
+    "stats"
    ],
    "new_meaning": ""
   },
@@ -164,16 +187,26 @@
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:p12",
-    "tnzmsYUA4yQ:t4",
     "ZYllcj4o6_A:p15",
     "EGdhmUgPAWY:p50"
    ],
    "new_meaning": ""
   },
   {
+   "name": "early-season value",
+   "channel": "current",
+   "detail": "could be top 150 early while Konan Niederhauser is out",
+   "until": "Yanic Konan Niederhauser returns",
+   "sources": [
+    "tnzmsYUA4yQ:p12",
+    "ZYllcj4o6_A:p15"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "flyer",
    "channel": "current",
-   "detail": "Late-round swing pick",
+   "detail": "late-round swing pick",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:p13",
@@ -184,7 +217,7 @@
   {
    "name": "sleeper",
    "channel": "current",
-   "detail": "Yahoo rank 326, but expert says draft late in every 12-team league",
+   "detail": "Yahoo rank 326 but should be drafted in every 12-team league",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:p11"
@@ -192,31 +225,21 @@
    "new_meaning": ""
   },
   {
-   "name": "early-season value",
+   "name": "unsettled rotation",
    "channel": "current",
-   "detail": "Could be top 150 early; value likely fades when Konan Niederhauser returns",
-   "until": "Yanic Konan Niederhauser returns",
-   "sources": [
-    "ZYllcj4o6_A:p15",
-    "tnzmsYUA4yQ:p12"
-   ],
-   "new_meaning": "Expected to produce most early in the season, with value likely to fade later."
-  },
-  {
-   "name": "foul prone",
-   "channel": "durable",
-   "detail": "Highly foul-prone; foul trouble can cap minutes",
+   "detail": "Ty Lue changes rotations often; projected starters not confident",
    "until": "",
    "sources": [
-    "tnzmsYUA4yQ:p10",
-    "ZYllcj4o6_A:p15"
+    "tnzmsYUA4yQ:t1",
+    "tnzmsYUA4yQ:t2",
+    "tnzmsYUA4yQ:t3"
    ],
-   "new_meaning": "Commits many fouls, which limits his minutes."
+   "new_meaning": ""
   },
   {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "4-3-4 games in weeks 19 to 21",
+   "detail": "4-3-4 games in weeks 19 to 21 (March 28 end)",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:t6"
@@ -226,7 +249,7 @@
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "13 back-to-backs",
+   "detail": "13 back-to-backs, one of the lowest totals",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:t6"
@@ -234,6 +257,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Both Yahoo (rank 326) and ESPN (rank 233) value him at 0 USD, and he went for 1 USD in our league last season, so he is a 1 USD last-round pick. He fits builds that want FG% and blocks from a cheap center: about 62.6% on low volume and about 1 block per game, with no threes. Early in the season, check whether he keeps the starting job over Lopez, whether he gets close to 25 minutes despite fouls, and when Konan Niederhauser returns, because that is when his value is expected to fade.",
+ "note": "Both sites give him 0 USD in value (Yahoo rank 326, ESPN rank 233), and he went for 1 USD in our league last season, so he is a 1 USD end-of-draft flier. He fits builds that want FG% (62.6% projected, +1.3 z vs the pool) and some blocks without needing threes. Early in the season, check whether he holds the starting job over Lopez, whether he gets near 25 minutes without foul trouble, and when Konan Niederhauser is due back, since that return will likely end his value.",
  "rejected": []
 }

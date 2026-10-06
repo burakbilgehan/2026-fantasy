@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 5 | 2.6 | 93 | 0 | 3.9 | 133 | 17 |
+| 2026-27 | 5 | 2.6 | 93 | 0 | 4.3 | 133 | 17 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,29 +30,30 @@
 </details>
 
 **Current**
-- Experts call his fit in Portland weird. They say he mutes the strengths of Lillard and Avdija. (verdict, 2026-09-21; [08-11](https://youtu.be/YJk7ZFKFqnI?t=416), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1325), [09-21](https://youtu.be/egRrai3Ax38?t=778))
-- Do not draft him at his ESPN ADP of 50. He should still play enough minutes to beat his Yahoo rank of 103. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2270), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1325))
-- Portland traded for him this offseason. He joins a crowded backcourt with Damian Lillard, Jrue Holiday, Deni Avdija and Scoot Henderson. (fact, 2026-09-14; [07-13](https://youtu.be/Rqb5GdrSweY?t=1837), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [07-07](https://youtu.be/ME-r173X5b0?t=1091), [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), [09-10](https://youtu.be/dlo7L8Ru91A?t=767))
-- Tier 8 point guard on his median outcome. He has unlikely upside to average 24 points and 9 assists or to play 65 games. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2225))
-- His usage should fall by almost 5 points from the 33% he had in Memphis. His assists are unlikely to hold at 8 per game while he shares the ball with Lillard, Holiday, Avdija and Scoot. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=2262), [07-07](https://youtu.be/ME-r173X5b0?t=1091))
-- Portland has three back-to-backs in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
-- He is projected to start next to Lillard. Portland plans to stagger the two but still close games with both. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=416), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [08-11](https://youtu.be/YJk7ZFKFqnI?t=825), [06-29](https://youtu.be/bHA-JoW3reE?t=419))
-- Minutes and usage across the Portland rotation are expected to swing from game to game. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
-- Portland's poor finishers (Camara, Clingan, Avdija) hurt how many of the guards' passes turn into assists. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
+- Auction value is about 5 USD, or up to 10 USD if everything goes right. In a mock auction he went for 11 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3861))
+- Portland's backcourt is crowded. Lillard, Jrue Holiday, Deni Avdija and Scoot Henderson all share the ball and the playmaking with him. (fact, 2026-10-04; [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [07-07](https://youtu.be/ME-r173X5b0?t=1091), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [09-10](https://youtu.be/dlo7L8Ru91A?t=767), [09-10](https://youtu.be/W-R1dzem32s?t=1062), [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), [10-04](https://youtu.be/n4KkK-OJjqA?t=1559))
+- Portland has a new head coach. The team is expected to stagger Lillard and Morant but close games with both, and minutes and usage may swing from game to game. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [08-11](https://youtu.be/YJk7ZFKFqnI?t=825), [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
+- Experts call his fit in Portland weird. He takes away from the strengths of Lillard and Avdija. (verdict, 2026-09-21; [08-11](https://youtu.be/YJk7ZFKFqnI?t=416), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1325), [09-21](https://youtu.be/egRrai3Ax38?t=778))
+- Do not draft him in the top 50. An ESPN ADP of 50 is too high, and he may not even be worth a top 80 pick. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2270), [07-13](https://youtu.be/Rqb5GdrSweY?t=1837), [06-29](https://youtu.be/bHA-JoW3reE?t=609), [06-29](https://youtu.be/bHA-JoW3reE?t=1017))
+- He should still play enough minutes to beat his Yahoo rank of 103. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1325))
+- On his median outcome he is a tier 8 point guard. Reaching 24 points and 9 assists, or playing 65 games, is possible but unlikely. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2225))
+- His usage was 33% in Memphis. In Portland it should drop by almost 5 points, and his assists are unlikely to stay near 8 per game. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=2262), [07-07](https://youtu.be/ME-r173X5b0?t=1091))
+- Portland has three back-to-backs during the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
+- Plays for Portland after a trade from Memphis. He is projected to start in the backcourt next to Damian Lillard. (fact, 2026-08-11; [06-29](https://youtu.be/bHA-JoW3reE?t=419), [07-13](https://youtu.be/Rqb5GdrSweY?t=1837), [08-11](https://youtu.be/YJk7ZFKFqnI?t=416), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477))
 
 **Durable**
-- Turnovers are his worst category and a clear weakness against the whole league. (fact, 2026-10-04; stats)
-- He is not a good category player and his fantasy game is not robust. He is worth more in points leagues. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=778), [06-29](https://youtu.be/bHA-JoW3reE?t=571))
-- He can't stay healthy and has durability concerns. (verdict, 2026-08-26; [06-29](https://youtu.be/bHA-JoW3reE?t=151), [08-26](https://youtu.be/sTtFUy7IoJI?t=2276))
-- He is a poor shooter from the field and from three, and he does not move off the ball. His free throw shooting is now a strength. (fact, 2026-08-11; [06-29](https://youtu.be/bHA-JoW3reE?t=571), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1015), stats)
-- His athleticism has declined. He is described as terrible on defense. (verdict, 2026-08-11; [06-29](https://youtu.be/bHA-JoW3reE?t=151), [08-11](https://youtu.be/YJk7ZFKFqnI?t=710))
-- He is a high usage guard with strong assists. Even in limited games he piles up assists. (fact, 2026-07-13; [06-29](https://youtu.be/bHA-JoW3reE?t=571), [07-13](https://youtu.be/Rqb5GdrSweY?t=1833))
-- He has off-court problems and was suspended by his own team. (fact, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=151))
+- His turnovers are very high, among the worst in the league and also for a guard. (fact, 2026-10-05; stats)
+- His fantasy game is not robust. He is a weak category player and worth more in points leagues. (verdict, 2026-09-21; [06-29](https://youtu.be/bHA-JoW3reE?t=571), [09-21](https://youtu.be/egRrai3Ax38?t=778))
+- He shoots poorly from the field and from three. His free throw shooting has improved a lot. (fact, 2026-08-26; [06-29](https://youtu.be/bHA-JoW3reE?t=571), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1015), [08-26](https://youtu.be/sTtFUy7IoJI?t=2276))
+- He has trouble staying healthy and has durability concerns. (fact, 2026-08-26; [06-29](https://youtu.be/bHA-JoW3reE?t=151), [08-26](https://youtu.be/sTtFUy7IoJI?t=2276))
+- He does not move off the ball and is described as terrible on defense. His athleticism has declined. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=710), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1015), [06-29](https://youtu.be/bHA-JoW3reE?t=151))
+- He is a high-usage guard who racks up assists, even in seasons where he plays few games. (fact, 2026-07-13; [06-29](https://youtu.be/bHA-JoW3reE?t=571), [07-13](https://youtu.be/Rqb5GdrSweY?t=1833))
+- He has off-court problems and has been suspended by his own team. (fact, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=151))
 
 **Tags**
-- Current: `new team` (traded from Memphis to Portland), `role down` (usage expected to drop almost 5 points from 33%; assists unlikely to stay at 8), `injury last season` (20 games in 2025-26), `bust candidate` (at ESPN ADP 50), `flyer` (tier 8 median with unlikely upside to 24 points and 9 assists), `sites disagree on price` (Yahoo rank 93 vs ESPN rank 133; ESPN ADP near 50), `bad playoff schedule` (Portland has three back-to-backs in the fantasy playoffs)
-- Durable: `high TO` (about 3.4 TO per game projected), `punt TO fit`, `injury prone` (can't stay healthy; 9, 50 and 20 games in the last three seasons), `points league player` (not a good category player; free real estate in points leagues), `off-court risk` (off-court problems; suspended by his own team)
+- Current: `new team` (Traded from Memphis to Portland), `usage competition` (Shares the ball with Lillard, Holiday, Avdija and Scoot Henderson), `role down` (Usage expected to fall almost 5 points from 33%; assists unlikely to hold at 8), `shared ball handling` (Several on-ball guards in Portland), `new coach` (Portland has a new head coach), `unsettled rotation` (Minutes and usage expected to swing from game to game), `injury last season` (Played 20 games in 2025-26), `bust candidate` (ESPN ADP 50 is too high), `sites disagree on price` (Yahoo rank 93 vs ESPN rank 133; ESPN ADP near 50 vs Yahoo ADP 91), `flyer` (Tier 8 median with unlikely upside to 24 points and 9 assists; value 5 to 10 USD), `bad playoff schedule` (Portland has three back-to-backs in the fantasy playoffs)
+- Durable: `injury prone` (Can't stay healthy; played 9, 50 and 20 games in the last three seasons), `off-court risk` (Off-court problems; suspended by his own team), `high TO` (About 3.4 turnovers per game projected), `punt TO fit`, `points league player` (Not a good category player; rated as free real estate in points leagues)
 
-**Note.** He cost 17 USD in our league last season, but the sites now price him near 3 to 5 USD (Yahoo rank 93, ESPN rank 133). That makes him a cheap late flyer in a 144-player draft, but do not pay anything close to last year's price. The assists, points and good FT% help, but about 3.4 turnovers per game and a below-average FG% fit a punt TO build best. Early on, check his usage and assists next to Lillard: Yahoo projects only 5.7 assists on 13 shots, while ESPN projects 7.2 on 16. Also check whether he stays healthy.
+**Note.** The newest expert value is 5 USD, or 10 USD if everything breaks right. The markets agree he is cheap: Yahoo values him at 5 USD with an average cost of 2.6 USD, and ESPN ranks him 133rd. Our league paid 17 USD for him last season, so do not pay that again for a crowded Portland backcourt, poor FG%, heavy turnovers and a weak health record. He fits a punt TO build that wants assists and FT%. In the first weeks, check his usage and assists next to Lillard and whether he stays healthy.
 
-<sub>19 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>20 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

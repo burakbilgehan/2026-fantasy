@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "8c0528c06d74",
+ "input_sha": "37372752e06f",
  "note_count": 16,
- "built_at": "2026-10-04T17:28:29+00:00",
+ "built_at": "2026-10-05T19:46:27+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.19606219999999996,
-  "duration_ms": 64258
+  "cost_usd_list": 0.1948102,
+  "duration_ms": 57918,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Rookie. Sacramento drafted him with the number 7 pick.",
+   "text": "Rookie. The Kings drafted him with the number 7 pick.",
    "kind": "fact",
    "date": "2026-07-31",
    "until": "",
@@ -37,12 +39,12 @@
     "oEywzBZfAvY:t1",
     "oEywzBZfAvY:t5",
     "W3THnI7wWdA:t8",
-    "lOshTzDA4SA:p11",
-    "RsjGTgJiKyI:p14"
+    "RsjGTgJiKyI:p14",
+    "lOshTzDA4SA:p11"
    ]
   },
   {
-   "text": "In Summer League he had 39% usage, 19 points and 4.5 assists per game. He shot 35% from the field, 27% from three and under 70% from the line. He took 29 shots in his first California Classic game.",
+   "text": "In Summer League he had 39% usage, 19 points and 4.5 assists, but shot 35% FG, 27% from three and under 70% FT. He took 29 shots in his first California Classic game.",
    "kind": "fact",
    "date": "2026-07-31",
    "until": "",
@@ -52,40 +54,42 @@
    ]
   },
   {
-   "text": "He should have the ball in his hands and real usage, and he could be the 1A or primary scorer as a rookie.",
+   "text": "He should have the ball in his hands with real usage, and could be the 1A or primary scorer as a rookie. Westbrook, DeRozan and Schroder are gone.",
    "kind": "verdict",
    "date": "2026-07-31",
    "until": "",
    "sources": [
     "oEywzBZfAvY:p2",
-    "-KS_AZjZnw4:p39"
+    "-KS_AZjZnw4:p39",
+    "-KS_AZjZnw4:t4"
    ]
   },
   {
-   "text": "Zach LaVine, Domantas Sabonis and Malik Monk will cut into his usage. His upside depends on whether LaVine or Sabonis is traded.",
+   "text": "His usage is capped by Zach LaVine, Domantas Sabonis and Malik Monk. His upside depends on whether LaVine and Sabonis are traded.",
    "kind": "verdict",
    "date": "2026-09-03",
    "until": "",
    "sources": [
-    "OBwWCxG9SqM:p16",
     "RyzcCGChYgs:p5",
-    "lOshTzDA4SA:p11"
+    "lOshTzDA4SA:p11",
+    "OBwWCxG9SqM:p16"
    ]
   },
   {
-   "text": "Sacramento may still trade Sabonis, and LaVine could be traded or bought out.",
+   "text": "LaVine and Sabonis could still be traded or bought out, which would open more usage for him.",
    "kind": "fact",
    "date": "2026-09-21",
    "until": "",
    "sources": [
-    "egRrai3Ax38:t0",
-    "7BllEsdNLoM:t5",
+    "oEywzBZfAvY:t8",
     "W-R1dzem32s:t2",
-    "oEywzBZfAvY:t8"
+    "7BllEsdNLoM:t5",
+    "t4n9MAP2_14:t5",
+    "egRrai3Ax38:t0"
    ]
   },
   {
-   "text": "As a rookie he should take and miss a lot of shots. He probably scores over 15 points a game, but his field goal percentage should be under 40%.",
+   "text": "He is expected to score over 15 points a game but shoot under 40% from the field, with his shooting worst early in the season.",
    "kind": "verdict",
    "date": "2026-08-30",
    "until": "",
@@ -95,32 +99,41 @@
    ]
   },
   {
-   "text": "Sacramento will give rookies minutes. The coach is under pressure, may lean on veterans to win games, and the team wants to stay out of the relegation zone.",
-   "kind": "verdict",
-   "date": "2026-08-02",
-   "until": "",
-   "sources": [
-    "TOn-D1SV7a8:t5",
-    "oEywzBZfAvY:t6",
-    "oEywzBZfAvY:t7"
-   ]
-  },
-  {
-   "text": "In category leagues he is a late pick at best, around pick 120. One projection has him outside the top 200 in categories. He is the fifth rookie in the pecking order, with an ADP around 110, and he will likely be overdrafted in redraft.",
+   "text": "Experts disagree on his category price. One 9-cat mock took him around pick 120. Another projection has him outside the top 200 in categories, and sees a 10th or 11th round pick as reasonable mainly in points leagues.",
    "kind": "verdict",
    "date": "2026-09-15",
    "until": "",
    "sources": [
     "KPdD91Oo8-U:p27",
-    "OBwWCxG9SqM:p16",
-    "RyzcCGChYgs:p5",
-    "lOshTzDA4SA:p11"
+    "OBwWCxG9SqM:p16"
+   ]
+  },
+  {
+   "text": "He is called a Rookie of the Year candidate who should outperform the other rookie point guards in year one.",
+   "kind": "verdict",
+   "date": "2026-06-28",
+   "until": "",
+   "sources": [
+    "RsjGTgJiKyI:p14"
+   ]
+  },
+  {
+   "text": "The Kings are projected to be one of the worst teams in the West, around 22 to 27 wins, but they try to win games to stay out of the relegation zone. Sacramento will give rookies minutes.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:t7",
+    "0AptxcRW0RE:t8",
+    "lOshTzDA4SA:t4",
+    "n4KkK-OJjqA:t5",
+    "TOn-D1SV7a8:t5"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is a high-usage, ball-dominant guard and should post good assist numbers.",
+   "text": "High usage guard with good assist numbers and a lot of shot volume.",
    "kind": "verdict",
    "date": "2026-08-02",
    "until": "",
@@ -131,7 +144,7 @@
    ]
   },
   {
-   "text": "Experts expect poor shooting efficiency. They point to his shot selection and doubts about his finishing at the rim. Among the rookies, he is the most likely to hurt a team's FG%.",
+   "text": "Experts expect poor FG%. They point to poor shot selection, possible trouble finishing at the rim, and say he is the rookie most likely to hurt you with bad shooting.",
    "kind": "verdict",
    "date": "2026-09-15",
    "until": "",
@@ -143,35 +156,34 @@
    ]
   },
   {
-   "text": "He is a poor defender, possibly one of the worst in the NBA. One expert expects few steals and poor rebounding.",
+   "text": "One host expects him to be much better in year one than De'Aaron Fox was, with his scoring and efficiency further along.",
+   "kind": "verdict",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p3"
+   ]
+  },
+  {
+   "text": "Poor defender, possibly one of the worst in the NBA. Expect few steals and poor rebounding.",
    "kind": "verdict",
    "date": "2026-08-02",
    "until": "",
    "sources": [
     "lOshTzDA4SA:p10",
     "oEywzBZfAvY:p4",
-    "TOn-D1SV7a8:p26",
-    "RsjGTgJiKyI:p13"
+    "RsjGTgJiKyI:p13",
+    "TOn-D1SV7a8:p26"
    ]
   },
   {
-   "text": "One expert expects big three-point volume. The site projections split widely on his threes, with Yahoo at 2.1 per game and ESPN at 0.9.",
-   "kind": "verdict",
-   "date": "2026-06-25",
-   "until": "",
-   "sources": [
-    "lOshTzDA4SA:p10",
-    "stats"
-   ]
-  },
-  {
-   "text": "He is worth more in points leagues than in category leagues.",
+   "text": "Worth more in points leagues than in category leagues.",
    "kind": "verdict",
    "date": "2026-09-03",
    "until": "",
    "sources": [
-    "OBwWCxG9SqM:p16",
-    "Alwse2uXzD4:p6"
+    "Alwse2uXzD4:p6",
+    "OBwWCxG9SqM:p16"
    ]
   }
  ],
@@ -179,7 +191,7 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "Number 7 pick in the 2026 draft",
+   "detail": "Number 7 pick in 2026",
    "until": "",
    "sources": [
     "oEywzBZfAvY:p0"
@@ -187,40 +199,78 @@
    "new_meaning": ""
   },
   {
-   "name": "points league player",
-   "channel": "durable",
-   "detail": "Scoring volume plays up in points leagues. Shooting efficiency hurts him in categories.",
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Shares the ball with Zach LaVine, Domantas Sabonis and Malik Monk",
    "until": "",
    "sources": [
-    "OBwWCxG9SqM:p16",
-    "Alwse2uXzD4:p6"
+    "RyzcCGChYgs:p5",
+    "lOshTzDA4SA:p11",
+    "OBwWCxG9SqM:p16"
    ],
    "new_meaning": ""
   },
   {
-   "name": "bust candidate",
+   "name": "usage freed",
    "channel": "current",
-   "detail": "Likely overdrafted at an ADP around 110. One projection has him outside the top 200 in categories.",
+   "detail": "Westbrook, DeRozan and Schroder are gone",
    "until": "",
    "sources": [
-    "RyzcCGChYgs:p5",
-    "OBwWCxG9SqM:p16",
-    "TOn-D1SV7a8:p26"
+    "-KS_AZjZnw4:t4",
+    "-KS_AZjZnw4:p39",
+    "DubdKKhMWHo:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "LaVine or Sabonis trade or buyout would raise his usage",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:t8",
+    "W-R1dzem32s:t2",
+    "7BllEsdNLoM:t5",
+    "egRrai3Ax38:t0",
+    "OBwWCxG9SqM:p16"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "Kings projected at about 22 to 27 wins",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:t7",
+    "0AptxcRW0RE:t8",
+    "lOshTzDA4SA:t4"
    ],
    "new_meaning": ""
   },
   {
    "name": "flyer",
    "channel": "current",
-   "detail": "Late pick around 120 to 130. Upside if LaVine or Sabonis is traded.",
+   "detail": "Late pick around 120 to 130 in 9-cat",
    "until": "",
    "sources": [
     "lOshTzDA4SA:p11",
+    "KPdD91Oo8-U:p27"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "points league player",
+   "channel": "durable",
+   "detail": "Volume scorer with poor projected FG%",
+   "until": "",
+   "sources": [
+    "Alwse2uXzD4:p6",
     "OBwWCxG9SqM:p16"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Yahoo (rank 155, 2 USD) and ESPN (rank 139, 0 USD) both put him around the edge of our 144-player pool, so he is a 1 USD last pick at most. His projected assists (z +1.1) and points help. His FG% (z -1.3) and turnovers (z -1.2) cancel most of that, so he only makes sense for a team already weak in FG% and turnovers. Early in the season, check whether he shoots near 40%, and whether a LaVine or Sabonis trade gives him more of the ball.",
+ "note": "He is priced as a last-round or waiver player: Yahoo 2 USD (rank 155), ESPN 0 USD (rank 139), and nobody drafted him in our league last season. In 9-cat his value is assists (+1.1 z) and points, and he costs you in FG% (-1.3 z, about 42.6% on 14 shots) and TO (-1.2 z). That makes him a 1 to 2 USD bench flyer who fits best on a team that can absorb poor FG%. Early in the season, watch his FG% and shot volume, and watch for a LaVine or Sabonis trade, which would raise his usage.",
  "rejected": []
 }

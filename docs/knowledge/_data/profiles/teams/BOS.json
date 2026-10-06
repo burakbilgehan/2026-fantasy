@@ -2,30 +2,32 @@
  "team": "BOS",
  "prompt_version": 1,
  "prompt_sha": "07b4ed7fd28e",
- "input_sha": "a2fb2787aa7c",
+ "input_sha": "e0cb19df9bfb",
  "note_count": 22,
- "built_at": "2026-10-04T20:00:23+00:00",
+ "built_at": "2026-10-05T20:06:58+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1620978,
-  "duration_ms": 46532
+  "cost_usd_list": 0.25963420000000004,
+  "duration_ms": 64413,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Jaylen Brown is gone. Boston now has Jayson Tatum back for a full season, plus Paul George and Mitchell Robinson.",
+   "text": "Jaylen Brown is gone. Jayson Tatum, back for a full season, and Paul George effectively replace him. Mitchell Robinson was also added.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
    "sources": [
-    "P6TNP-g0wzY:t0",
     "Bi1cEM03k9Y:t0",
     "DubdKKhMWHo:t3",
-    "7BllEsdNLoM:t7"
+    "7BllEsdNLoM:t7",
+    "P6TNP-g0wzY:t0"
    ]
   },
   {
-   "text": "Boston should be a better and deeper regular season team than last season.",
+   "text": "Experts expect Boston to be a better and deeper regular season team than last season.",
    "kind": "verdict",
    "date": "2026-09-25",
    "until": "",
@@ -37,7 +39,7 @@
    ]
   },
   {
-   "text": "The new roster does not clearly improve Boston's title chances.",
+   "text": "One expert does not think the new roster improves Boston's title chances.",
    "kind": "verdict",
    "date": "2026-09-25",
    "until": "",
@@ -46,42 +48,12 @@
    ]
   },
   {
-   "text": "One analyst predicts 48 wins because the East is tougher and fewer teams will tank. The win total of 51.5 ranks 4th in the league, so a late-season tank is unlikely.",
+   "text": "Karalis predicts 48 wins. He says the East is tougher and there will be fewer tanking teams to beat.",
    "kind": "verdict",
    "date": "2026-07-30",
    "until": "",
    "sources": [
-    "TiiaNZCJNs8:t0",
-    "stats"
-   ]
-  },
-  {
-   "text": "The starting lineup is not settled. The newest expert projection starts Derrick White, Baylor Scheierman, Jayson Tatum, Paul George and Neemias Queta. It has Pritchard, Hauser, Robinson, Walsh and Conley off the bench. The current depth chart starts Pritchard instead of Scheierman.",
-   "kind": "verdict",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
-    "Bi1cEM03k9Y:t1",
-    "-y6p5PYLf00:t2",
-    "stats"
-   ]
-  },
-  {
-   "text": "The team is very deep, with at least 12 rotation-level players. In a 10-man rotation, Jordan Walsh or another player will sit most nights. Ron Harper Jr. is outside the rotation.",
-   "kind": "verdict",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
-    "Bi1cEM03k9Y:t2"
-   ]
-  },
-  {
-   "text": "Boston has 14 players on the roster and one open two-way slot.",
-   "kind": "fact",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
-    "Bi1cEM03k9Y:t3"
+    "TiiaNZCJNs8:t0"
    ]
   },
   {
@@ -95,7 +67,7 @@
    ]
   },
   {
-   "text": "Payton Pritchard's path to usage is more crowded than last season. Tatum, George and White are ahead of him, and Tatum and George fill Brown's role, so he gains no extra opportunity.",
+   "text": "Payton Pritchard's usage path is more crowded than last season. Tatum, George and Derrick White are ahead of him, so Brown's exit gives him no extra opportunity.",
    "kind": "verdict",
    "date": "2026-09-19",
    "until": "",
@@ -106,30 +78,33 @@
    ]
   },
   {
-   "text": "Brown's heavy ball use may have pushed teammates into bad late-clock shots. Tatum and George share the ball more, which could help the shooting of Pritchard and White.",
-   "kind": "verdict",
-   "date": "2026-07-16",
-   "until": "",
-   "sources": [
-    "-y6p5PYLf00:t2"
-   ]
-  },
-  {
-   "text": "Three-point volume should stay high.",
-   "kind": "verdict",
-   "date": "2026-07-30",
-   "until": "",
-   "sources": [
-    "TiiaNZCJNs8:t2"
-   ]
-  },
-  {
-   "text": "The plan is to play less five-out and put four shooters around a big man in the dunker spot. Tatum will play only some small-ball center.",
+   "text": "The starting five is not settled. The depth chart has Pritchard and Queta starting. The newest expert projection has White, Baylor Scheierman, Tatum, George and Neemias Queta starting, with Pritchard, Sam Hauser, Robinson, Jordan Walsh and Mike Conley off the bench.",
    "kind": "fact",
-   "date": "2026-07-30",
+   "date": "2026-09-25",
    "until": "",
    "sources": [
-    "TiiaNZCJNs8:t2"
+    "Bi1cEM03k9Y:t1",
+    "-y6p5PYLf00:t2",
+    "stats"
+   ]
+  },
+  {
+   "text": "The starting center is still open between Queta and Robinson. An earlier projection had Robinson and Hauser starting.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t1",
+    "TiiaNZCJNs8:t1"
+   ]
+  },
+  {
+   "text": "The team is very deep, with at least 12 rotation-level players. In a 10-man rotation, Walsh or another player will sit most nights. Ron Harper Jr. is outside the rotation.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t2"
    ]
   },
   {
@@ -139,6 +114,24 @@
    "until": "",
    "sources": [
     "TiiaNZCJNs8:t3"
+   ]
+  },
+  {
+   "text": "Boston has 14 players on the roster and one open two-way slot.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t3"
+   ]
+  },
+  {
+   "text": "Three-point volume should stay high, but with less five-out. The plan is four shooters around a big in the dunker spot. Tatum will play only some small-ball center.",
+   "kind": "verdict",
+   "date": "2026-07-30",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:t2"
    ]
   },
   {
@@ -154,7 +147,7 @@
    ]
   },
   {
-   "text": "The many back-to-backs mainly hurt Paul George and Mitchell Robinson, who are likely to sit some of them.",
+   "text": "The many back-to-backs mainly hurt Paul George and Mitchell Robinson, the players most likely to rest.",
    "kind": "verdict",
    "date": "2026-09-25",
    "until": "",
@@ -163,7 +156,7 @@
    ]
   },
   {
-   "text": "The fantasy playoff schedule is 4-3-4, for 11 games. That is one game short of the maximum and ranks 4th in the league. The window includes 3 back-to-backs.",
+   "text": "The playoff schedule is 4-3-4 games through March 28, one game short of the maximum. It includes three back-to-backs in the playoff window.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
@@ -187,9 +180,81 @@
  ],
  "tags": [
   {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "Win total 51.5, 4th in the league. Karalis predicts 48 wins.",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t0",
+    "TiiaNZCJNs8:t0",
+    "P6TNP-g0wzY:t0",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "At least 12 rotation-level players. Walsh or another player sits most nights.",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Last starting guard/wing spot (Scheierman, Pritchard or Hauser) and center (Queta or Robinson) still open.",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:t1",
+    "TiiaNZCJNs8:t1",
+    "-y6p5PYLf00:t2",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "concentrated usage",
+   "channel": "current",
+   "detail": "Tatum first, George clear number two. Pritchard's usage is squeezed.",
+   "until": "",
+   "sources": [
+    "Alwse2uXzD4:t1",
+    "J1Eg3uaAICU:t4",
+    "uarqbNA2dFk:t4",
+    "7BllEsdNLoM:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "three-point heavy",
+   "channel": "current",
+   "detail": "Four shooters around a dunker-spot big, with less five-out than before.",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "16, tied for most in the league. Mainly hurts George and Robinson.",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t5",
+    "Bi1cEM03k9Y:t5",
+    "gf_6GveiAls:t0",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "4-3-4 in weeks 19 to 21, 11 games, rank 4 of 30, one short of the maximum. It includes 3 back-to-backs.",
+   "detail": "4-3-4 through March 28 (11 games, rank 4), but three back-to-backs in the window.",
    "until": "",
    "sources": [
     "Bi1cEM03k9Y:t4",
@@ -197,42 +262,8 @@
     "stats"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "many back-to-backs",
-   "channel": "current",
-   "detail": "16 back-to-backs, tied for the most in the league. This mainly affects Paul George and Mitchell Robinson.",
-   "until": "",
-   "sources": [
-    "3UGI05PDvrE:t5",
-    "Bi1cEM03k9Y:t5",
-    "gf_6GveiAls:t0"
-   ],
-   "new_meaning": "The team has one of the highest back-to-back counts this season, so rest risk for its fragile or veteran players is higher."
-  },
-  {
-   "name": "deep rotation",
-   "channel": "current",
-   "detail": "At least 12 rotation-level players for about 10 spots. Walsh, Harper Jr. and the bench wings lose minutes.",
-   "until": "",
-   "sources": [
-    "Bi1cEM03k9Y:t2"
-   ],
-   "new_meaning": "The team has more rotation-level players than minutes, so bench and fringe players get fewer or less stable minutes."
-  },
-  {
-   "name": "contender",
-   "channel": "current",
-   "detail": "Win total of 51.5 ranks 4th. Experts see a better regular season team than last year.",
-   "until": "",
-   "sources": [
-    "Bi1cEM03k9Y:t0",
-    "TiiaNZCJNs8:t0",
-    "stats"
-   ],
-   "new_meaning": "The team is expected to be among the stronger regular season teams, so the risk of tanking or late-season shutdowns is low."
   }
  ],
- "note": "Tatum and George are the clear top two usage options. Pritchard loses opportunity, and the deep rotation of at least 12 players caps bench players like Hauser, Walsh and Conley. Boston is tied for the most back-to-backs (16) and has 3 in our playoff window, so George and Robinson carry extra rest risk, though the 11 playoff games rank 4th. Early on, watch who wins the open starting spots at wing (Scheierman or Pritchard) and center (Queta or Robinson).",
+ "note": "Tatum and Paul George take over Jaylen Brown's usage as the clear one-two. This squeezes Payton Pritchard and gives little extra to White and the other role players on a very deep, winning team. The most back-to-backs in the league (16) adds rest risk for George and Mitchell Robinson, though the playoff weeks still have 11 games. Watch early who starts on the wing (Scheierman, Pritchard or Hauser) and at center (Queta or Robinson).",
  "rejected": []
 }

@@ -9,7 +9,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 11 | 5.4 | 83 | 2 | 3.6 | 101 | not drafted |
+| 2026-27 | 11 | 5.4 | 83 | 2 | 4.0 | 101 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -28,23 +28,27 @@
 </details>
 
 **Current**
-- Most experts expect him to come off the bench to start the season. He would have to earn a starting spot outright. Harper himself seemed confident he would start. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1300), [08-27](https://youtu.be/ZAyie8lKyYc?t=549))
-- The newest team note says the Spurs' point guard depth is bad, so they may start Harper, Castle and Fox together. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1311))
-- Experts agree he is drafted too early. His ADP around 78 to 84 is too high, he leaves zero value at that spot, and he is closer to a rank 100 player. One expert puts him in tier 8 of point guards and calls him a better player than Jeremiah Fears. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1397), [09-24](https://youtu.be/_vbAP5y182A?t=1541), [09-10](https://youtu.be/W-R1dzem32s?t=1687), [09-09](https://youtu.be/7BllEsdNLoM?t=2151), [09-04](https://youtu.be/gerS7ibpaJo?t=1230), [08-11](https://youtu.be/OdDkXFhoKsc?t=1448), [07-02](https://youtu.be/P6TNP-g0wzY?t=2350))
-- Drafters take him mainly for assists. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1397))
-- The Spurs backcourt is crowded with De'Aaron Fox and Stephon Castle. The team staggers its three guards so at least two are always on the court, and more three-guard lineups are expected. (fact, 2026-09-09; [08-27](https://youtu.be/ZAyie8lKyYc?t=666), [09-09](https://youtu.be/7BllEsdNLoM?t=1991), [08-24](https://youtu.be/g31YlwRe0XQ?t=1055), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312), [07-01](https://youtu.be/W3THnI7wWdA?t=1136))
-- Experts disagree on his minutes. One preview expects him to push toward 30 minutes even off the bench. Others think he will not reach 30 because the Spurs will not bench Fox or Castle. (verdict, 2026-09-04; [08-27](https://youtu.be/ZAyie8lKyYc?t=692), [08-11](https://youtu.be/OdDkXFhoKsc?t=1448), [09-04](https://youtu.be/gerS7ibpaJo?t=1230), [09-04](https://youtu.be/gerS7ibpaJo?t=1249), [07-02](https://youtu.be/P6TNP-g0wzY?t=2350))
-- Experts doubt his strong late-season shooting from last season will last. If it does hold, one host thinks he would be a top five player in the league. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1230), [08-27](https://youtu.be/ZAyie8lKyYc?t=773))
+- Most experts expect him to come off the bench to start the year and to have to earn a starting spot. One expert notes the Spurs' point guard depth is poor and that they may start Harper, Castle and Fox together. (verdict, 2026-10-04; [08-27](https://youtu.be/ZAyie8lKyYc?t=549), [09-30](https://youtu.be/BjXP9JODDSg?t=1300), [09-30](https://youtu.be/BjXP9JODDSg?t=1311), [10-04](https://youtu.be/n4KkK-OJjqA?t=1767))
+- Experts disagree on his minutes. One expects him to push toward 30 minutes even off the bench. Others say a crowded backcourt limits him, because the Spurs will not bench Fox or Castle and a healthier Fox takes minutes. (verdict, 2026-10-04; [08-27](https://youtu.be/ZAyie8lKyYc?t=692), [09-04](https://youtu.be/gerS7ibpaJo?t=1230), [09-04](https://youtu.be/gerS7ibpaJo?t=1249), [08-11](https://youtu.be/OdDkXFhoKsc?t=1448), [07-02](https://youtu.be/P6TNP-g0wzY?t=2350), [08-24](https://youtu.be/g31YlwRe0XQ?t=1055), [10-04](https://youtu.be/n4KkK-OJjqA?t=1767))
+- Experts call him over drafted at an ADP of about 70 to 84. They see his fair value closer to rank 100 and say he leaves no value inside the top 80. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1397), [09-24](https://youtu.be/_vbAP5y182A?t=1541), [09-10](https://youtu.be/W-R1dzem32s?t=1687), [09-09](https://youtu.be/7BllEsdNLoM?t=2151), [09-04](https://youtu.be/gerS7ibpaJo?t=1230), [08-11](https://youtu.be/OdDkXFhoKsc?t=1448))
+- Drafters take him mainly for assists. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1397))
+- Experts expect his strong late-season shooting from last season not to last. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1230), [08-27](https://youtu.be/ZAyie8lKyYc?t=773))
+- The Spurs' projected starters are Fox, Castle, Vassell, Harris and Wembanyama. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=524))
+- The Spurs stagger Fox, Castle and Harper so that at least two of them are always on the court. More three-guard lineups are expected this season. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=666))
+- If his late-season shooting holds, one expert sees him as a top five player in the league. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=773))
+- The Spurs are projected as a top team in the West. One host predicts 63 wins. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2403), [07-26](https://youtu.be/75Sk_4fkgIM?t=370))
+- The Spurs have a very deep rotation that coach Mitch Johnson must balance. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1491), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312))
+- Experts call him a poor points-league pick. That is no direct guide for our category league. (verdict, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=1444))
 
 **Durable**
-- His category profile has no weak category. His best areas are FG% for a guard and assists, but none of them is a league outlier. (fact, 2026-10-04; stats)
-- The Spurs see him as a future superstar and part of their long-term backcourt with Stephon Castle. (fact, 2026-09-09; [08-27](https://youtu.be/ZAyie8lKyYc?t=607), [09-09](https://youtu.be/7BllEsdNLoM?t=1991))
+- No category in his projected line is weak enough to flag, so he fits any build without filling one category in a big way. (fact, 2026-10-05; stats)
+- The Spurs see him as a future superstar and part of their long-term backcourt with Castle. (verdict, 2026-09-09; [08-27](https://youtu.be/ZAyie8lKyYc?t=607), [09-09](https://youtu.be/7BllEsdNLoM?t=1991))
 - He is a much better defender than people think. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1884))
 
 **Tags**
-- Current: `minutes competition` (Shares the backcourt with De'Aaron Fox and Stephon Castle; bench role expected to start the season), `role up` (Projected near 29 to 30 minutes after 22.6 last season), `bust candidate` (ADP around 78 to 84; experts see him closer to rank 100), `sites disagree on price` (Yahoo value 11 USD, rank 83; ESPN value 2 USD, rank 101)
-- Durable: `fits every build` (No category flagged weak)
+- Current: `minutes competition` (Shares the backcourt with Fox and Castle and is likely to come off the bench), `regression risk` (Experts expect his late-season shooting from last season to fade), `bust candidate` (Experts say an ADP of about 70 to 84 is too high and put his value closer to rank 100), `sites disagree on price` (Yahoo value 11 USD and rank 83, ESPN value 2 USD and rank 101), `winning team` (Spurs projected near the top of the West), `deep rotation` (Deep at guard and forward)
+- Durable: `fits every build`
 
-**Note.** Harper is valued at 11 USD by Yahoo but costs only 5.4 USD on average there, and ESPN rates him at 2 USD (rank 101). The experts say he is closer to rank 100 than his top 80 ADP, so bid only in the low single digits and let someone else reach. He fits any build with no weak category. Early in the season, check whether he starts or reaches 30 minutes next to Fox and Castle, and whether his efficient shooting holds.
+**Note.** Yahoo values him at 11 USD but drafters pay about 5.4 USD. ESPN has him at 2 USD and rank 101, which matches the experts' view that he is worth about rank 100, not top 80. In a 144-player draft he is a balanced, all-build bench guard worth about 4 to 6 USD. His projections assume a jump from 22.6 to about 29 minutes. Early in the season, check whether he starts or gets close to 30 minutes next to Fox and Castle, and whether his 50% FG holds.
 
-<sub>14 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>14 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

@@ -3,58 +3,36 @@
   "name": "Cam Thomas",
   "slug": "cam-thomas",
   "pk": 659,
-  "team": "MIL",
+  "team": null,
   "position": "G"
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "214e6187c3bd",
+ "input_sha": "a4e226dc1825",
  "note_count": 1,
- "built_at": "2026-10-04T17:25:48+00:00",
+ "built_at": "2026-10-05T19:43:57+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1375794,
-  "duration_ms": 27349
+  "cost_usd_list": 0.0820462,
+  "duration_ms": 13975,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Milwaukee's guard rotation is crowded. Rollins, Herro, Kevin Porter Jr., Jakucionis, Burries, Trent and Green all compete for backcourt minutes.",
+   "text": "Cam Thomas is a free agent and is not on an NBA roster now.",
    "kind": "fact",
-   "date": "2026-10-02",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "ZYllcj4o6_A:t4",
-    "7BllEsdNLoM:t0",
-    "sTtFUy7IoJI:t8",
-    "Rqb5GdrSweY:t0",
-    "owlM6b8oUd0:t0"
-   ]
-  },
-  {
-   "text": "He is not in Milwaukee's projected starting five. The projected starters are Rollins, Herro, Jaquez, Ware and Turner.",
-   "kind": "fact",
-   "date": "2026-08-14",
-   "until": "",
-   "sources": [
-    "owlM6b8oUd0:t2"
-   ]
-  },
-  {
-   "text": "Experts expect Milwaukee to be a bad team. The team does not own its pick, so it has no reason to tank.",
-   "kind": "verdict",
-   "date": "2026-08-14",
-   "until": "",
-   "sources": [
-    "sfCe7fS9daM:t8",
-    "Rqb5GdrSweY:t0",
-    "owlM6b8oUd0:t4"
+    "stats"
    ]
   }
  ],
  "durable": [
   {
-   "text": "An expert uses him as an example of a player whose fantasy value is inflated by narrative and hype.",
+   "text": "His fantasy value tends to be inflated by narrative and hype.",
    "kind": "verdict",
    "date": "2026-09-01",
    "until": "",
@@ -65,7 +43,7 @@
   {
    "text": "His projected rebounds and steals are far below the top 250 pool.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
@@ -74,29 +52,26 @@
  ],
  "tags": [
   {
-   "name": "minutes competition",
+   "name": "unsigned",
    "channel": "current",
-   "detail": "Crowded Milwaukee backcourt: Rollins, Herro, Porter Jr., Jakucionis, Burries, Trent, Green",
+   "detail": "Free agent with no NBA team as of 2026-10-05.",
    "until": "",
    "sources": [
-    "ZYllcj4o6_A:t4",
-    "7BllEsdNLoM:t0",
-    "sTtFUy7IoJI:t8",
-    "owlM6b8oUd0:t2"
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "hype-driven value",
    "channel": "durable",
-   "detail": "Named by an expert as an example of value inflated by narrative",
+   "detail": "An expert gave him as an example of a player whose value is inflated by narrative.",
    "until": "",
    "sources": [
     "skKXe2CRl8Q:p7"
    ],
-   "new_meaning": "Experts say narrative and hype inflate his fantasy value, so managers tend to overpay for him."
+   "new_meaning": "His fantasy value is inflated by narrative and hype more than by his real category production."
   }
  ],
- "note": "Both Yahoo and ESPN give him a value of 0 (Yahoo rank 404, ESPN rank 237). Yahoo projects only 25 games and 9.3 points in a small role behind a crowded Milwaukee backcourt. He went for 2 USD in our league last season, but his weak rebounds, steals and assists leave nothing for 9-cat. Do not draft him at our auction. Look at him only if early-season injuries open up guard minutes for him.",
+ "note": "He is not a draft target in our 144-player auction. Yahoo ranks him 404 and ESPN ranks him 237, both value him at 0 USD, and he went for 2 USD in our league's last auction. Yahoo projects only 25 games and 9.3 points per game, with very weak rebounds and steals. He scored 22.5 points on 18 shots per game in 2023-24, but last season he fell to 13.5 points in 21 minutes. An expert also warns that hype inflates his value. Early in the season, check whether he signs with a team and what role he gets before you spend any FAB on him.",
  "rejected": []
 }

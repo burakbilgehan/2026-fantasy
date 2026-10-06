@@ -8,31 +8,25 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "37524b64b3a8",
- "note_count": 17,
- "built_at": "2026-10-04T17:38:22+00:00",
+ "input_sha": "01d5f0b7d32b",
+ "note_count": 19,
+ "built_at": "2026-10-05T19:55:23+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.18093019999999999,
-  "duration_ms": 50259
+  "cost_usd_list": 0.19424619999999998,
+  "duration_ms": 54209,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Nurkic re-signed with Utah for 2 years and 22 million USD.",
-   "kind": "fact",
-   "date": "2026-07-01",
-   "until": "",
-   "sources": [
-    "W3THnI7wWdA:p36"
-   ]
-  },
-  {
-   "text": "Walker Kessler has left Utah, so the starting center job is open.",
+   "text": "Walker Kessler is no longer with Utah, which leaves the starting center job open.",
    "kind": "fact",
    "date": "2026-10-02",
    "until": "",
    "sources": [
+    "ZYllcj4o6_A:p0",
     "P6TNP-g0wzY:p9",
     "Rqb5GdrSweY:p8",
     "4kKINkZhWls:p12",
@@ -42,7 +36,16 @@
    ]
   },
   {
-   "text": "Experts expect Nurkic to be Utah's starting center, with Darryn Peterson, Keyonte George, Lauri Markkanen and Jaren Jackson Jr. Ace Bailey is the main alternative. They see Kyle Filipowski, Jaxson Hayes or Jackson Jr. at center as unlikely. One expert says he is not 100% sure.",
+   "text": "He re-signed with Utah for 2 years and 22 million.",
+   "kind": "fact",
+   "date": "2026-07-01",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p36"
+   ]
+  },
+  {
+   "text": "Experts expect him to start at center for Utah, ahead of Ace Bailey and Kyle Filipowski. One expert says he is not 100% sure.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -51,41 +54,30 @@
     "ZYllcj4o6_A:t0",
     "egRrai3Ax38:p19",
     "egRrai3Ax38:t4",
-    "uarqbNA2dFk:t2",
     "ahNxsoU8Hx4:p29",
     "KPdD91Oo8-U:p25",
     "CI4k8ofUXXk:p24",
     "CI4k8ofUXXk:t0",
     "xHRF06_E9HE:p19",
     "Rqb5GdrSweY:t5",
-    "4kKINkZhWls:t1",
-    "P6TNP-g0wzY:t2"
+    "P6TNP-g0wzY:t2",
+    "uarqbNA2dFk:t2"
    ]
   },
   {
-   "text": "Utah added more centers, Jaxson Hayes and Mo Bamba, and has a crowded frontcourt.",
-   "kind": "fact",
-   "date": "2026-08-26",
-   "until": "",
-   "sources": [
-    "CI4k8ofUXXk:t1",
-    "sTtFUy7IoJI:t6"
-   ]
-  },
-  {
-   "text": "He played very well as a starter after Kessler's injury last season. He ranked about 68th overall and was a top-70 player in his starts.",
+   "text": "He ranked about 68th as a top-70 player when he started last season, after the Kessler injury.",
    "kind": "fact",
    "date": "2026-09-17",
    "until": "",
    "sources": [
-    "CI4k8ofUXXk:p24",
     "ahNxsoU8Hx4:p29",
     "KPdD91Oo8-U:p25",
-    "t4n9MAP2_14:p36"
+    "t4n9MAP2_14:p36",
+    "CI4k8ofUXXk:p24"
    ]
   },
   {
-   "text": "If he starts, he should return at least top 80 numbers. One expert projects him at 27 minutes and would take him over John Collins or Nic Claxton.",
+   "text": "If he starts, he should return at least top 80 numbers. One expert projects him at 27 minutes.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -95,22 +87,39 @@
    ]
   },
   {
-   "text": "Experts say he goes too late, around picks 115 to 125, as if he were a backup. They call him a strong value or a free pick who should beat his ADP comfortably. One expert still calls him a risky round 10 pick.",
+   "text": "Experts say his market price in the 120s treats him like a backup. They call him a free pick and a strong late-round value who should beat his ADP comfortably. One expert would take him over Collins or Claxton.",
    "kind": "verdict",
-   "date": "2026-10-02",
+   "date": "2026-10-04",
    "until": "",
    "sources": [
-    "ZYllcj4o6_A:p0",
-    "BjXP9JODDSg:p55",
-    "_vbAP5y182A:p50",
+    "t4n9MAP2_14:p36",
     "egRrai3Ax38:p19",
     "ahNxsoU8Hx4:p29",
     "KPdD91Oo8-U:p25",
-    "t4n9MAP2_14:p36"
+    "BjXP9JODDSg:p55",
+    "n4KkK-OJjqA:p35"
    ]
   },
   {
-   "text": "Jaren Jackson Jr. and Kyle Lowry are not passers, so experts think Nurkic's passing will matter more in Utah's lineup.",
+   "text": "Josh called him a risky pick when he took him in round 10 of a mock draft.",
+   "kind": "verdict",
+   "date": "2026-09-24",
+   "until": "",
+   "sources": [
+    "_vbAP5y182A:p50"
+   ]
+  },
+  {
+   "text": "In a mock auction he sold for 9 USD. Josh, who is big on him, bid up to 8 USD.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p43"
+   ]
+  },
+  {
+   "text": "His passing should matter more next to Jaren Jackson Jr. and Kyle Lowry, who do not pass much.",
    "kind": "verdict",
    "date": "2026-09-17",
    "until": "",
@@ -120,21 +129,33 @@
    ]
   },
   {
-   "text": "Utah is trying to win this season. Experts say fears of tanking or late-season shutdowns are misplaced.",
+   "text": "Utah is trying to win this season. Experts say tanking and shutdown fears are misplaced.",
    "kind": "verdict",
    "date": "2026-09-17",
    "until": "",
    "sources": [
-    "J1Eg3uaAICU:t3",
     "ahNxsoU8Hx4:t2",
     "dlo7L8Ru91A:t2",
-    "CI4k8ofUXXk:t2"
+    "J1Eg3uaAICU:t3",
+    "sTtFUy7IoJI:t6",
+    "xHRF06_E9HE:t4"
+   ]
+  },
+  {
+   "text": "Utah has a crowded frontcourt and added Jaxson Hayes and Mo Bamba. Markkanen, Keyonte George, Jaren Jackson Jr. and Darryn Peterson take much of the usage.",
+   "kind": "fact",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:t6",
+    "CI4k8ofUXXk:t1",
+    "lOshTzDA4SA:t2"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He rebounds well and passes well for a center. Rebounds are his best category.",
+   "text": "He rebounds well and is a good passer for a center.",
    "kind": "fact",
    "date": "2026-07-02",
    "until": "",
@@ -153,9 +174,9 @@
    ]
   },
   {
-   "text": "FT% is his clear weakness. He shoots about 61% from the line, and that hurts a team's FT%.",
+   "text": "His FT% is far below the league and hurts a team's FT%.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats",
@@ -163,8 +184,8 @@
    ]
   },
   {
-   "text": "He has a history of knee, leg and other lower-body injuries. Experts do not see him as a reliable or healthy player.",
-   "kind": "verdict",
+   "text": "He has a long history of knee, leg and other lower-body injuries.",
+   "kind": "fact",
    "date": "2026-08-05",
    "until": "",
    "sources": [
@@ -172,13 +193,23 @@
     "xHRF06_E9HE:p20",
     "P6TNP-g0wzY:p10"
    ]
+  },
+  {
+   "text": "Experts say his health record makes him hard to trust.",
+   "kind": "verdict",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:p23",
+    "xHRF06_E9HE:p20"
+   ]
   }
  ],
  "tags": [
   {
    "name": "FT% liability",
    "channel": "durable",
-   "detail": "about 61% FT in projections",
+   "detail": "about 61% projected FT",
    "until": "",
    "sources": [
     "stats"
@@ -188,7 +219,7 @@
   {
    "name": "punt FT fit",
    "channel": "durable",
-   "detail": "FT% is his weakest category; rebounds, assists and steals stay useful",
+   "detail": "FT% is his only weak category",
    "until": "",
    "sources": [
     "stats"
@@ -198,7 +229,7 @@
   {
    "name": "AST from a big",
    "channel": "durable",
-   "detail": "passing center, about 3.7 to 4.8 assists",
+   "detail": "passing center, about 3.7 assists projected",
    "until": "",
    "sources": [
     "P6TNP-g0wzY:p10",
@@ -222,61 +253,61 @@
   {
    "name": "role up",
    "channel": "current",
-   "detail": "expected starting center after Kessler left",
+   "detail": "projected starting center after Kessler left",
    "until": "",
    "sources": [
     "ZYllcj4o6_A:p0",
     "CI4k8ofUXXk:p24",
-    "Rqb5GdrSweY:p8",
-    "t4n9MAP2_14:p36"
+    "xHRF06_E9HE:p19"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Ace Bailey for the fifth starter spot; Jaxson Hayes and Mo Bamba added",
+   "detail": "Ace Bailey for the fifth starter spot; Hayes and Bamba in a crowded frontcourt",
    "until": "",
    "sources": [
     "egRrai3Ax38:p19",
-    "P6TNP-g0wzY:p9",
     "P6TNP-g0wzY:t2",
+    "sTtFUy7IoJI:t6",
     "CI4k8ofUXXk:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Markkanen, George, Jackson Jr. and Peterson take most touches",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:t2",
+    "ZYllcj4o6_A:p1"
    ],
    "new_meaning": ""
   },
   {
    "name": "sleeper",
    "channel": "current",
-   "detail": "goes around picks 115 to 125; experts see top 80 upside",
+   "detail": "market prices him like a backup in the 120s",
    "until": "",
    "sources": [
-    "ZYllcj4o6_A:p0",
+    "n4KkK-OJjqA:p35",
     "ahNxsoU8Hx4:p29",
     "t4n9MAP2_14:p36",
-    "KPdD91Oo8-U:p25"
+    "egRrai3Ax38:p19"
    ],
    "new_meaning": ""
   },
   {
    "name": "expert target",
    "channel": "current",
-   "detail": "Josh drafted him in round 10 of a mock; called a free pick",
+   "detail": "Josh is big on him; top 80 upside if he starts",
    "until": "",
    "sources": [
-    "_vbAP5y182A:p50",
-    "egRrai3Ax38:p19",
-    "BjXP9JODDSg:p55"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "flyer",
-   "channel": "current",
-   "detail": "starting center upside at pick 120",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:p0"
+    "Q6YlQDvD-aY:p43",
+    "ZYllcj4o6_A:p0",
+    "KPdD91Oo8-U:p25"
    ],
    "new_meaning": ""
   },
@@ -289,8 +320,20 @@
     "stats"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "low shutdown risk",
+   "channel": "current",
+   "detail": "Utah is trying to win, not tanking",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:t2",
+    "dlo7L8Ru91A:t2",
+    "J1Eg3uaAICU:t3"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Yahoo ranks him 105th (value 4 USD, average cost 1.0 USD) and ESPN ranks him 168th, so he should cost 1 to 3 USD near the end of our 144-player draft. Experts expect him to start at center, and he was about 68th last season, so he is a cheap way to add rebounds, assists and steals in a punt FT% build. His 61% FT will hurt other builds. Early in the season, check that he starts over Ace Bailey, that he plays around 27 minutes, and that his lower body holds up.",
+ "note": "Yahoo ranks him 105 (4 USD value, 1.0 USD average cost) and ESPN ranks him 168, so he sits near the end of our 144-player pool. Experts see top 70 to 80 upside as Utah's starter, and one mock auction went to 9 USD. He is a cheap center for punt FT% builds, giving rebounds, assists and steals for a big, but his injury history makes a few dollars above Yahoo's value the sensible limit. Early in the season, check that he starts over Ace Bailey, plays close to the projected 27 minutes and stays healthy.",
  "rejected": []
 }

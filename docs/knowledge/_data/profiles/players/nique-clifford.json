@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "902fc177bc3c",
+ "input_sha": "a50701e9b203",
  "note_count": 1,
- "built_at": "2026-10-04T17:44:37+00:00",
+ "built_at": "2026-10-05T19:58:58+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.0937382,
-  "duration_ms": 16552
+  "cost_usd_list": 0.10430619999999999,
+  "duration_ms": 16411,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He was inefficient last season. In summer league, at age 24.5, his play was average at best.",
+   "text": "His summer league play was very average, at age 24.5.",
    "kind": "fact",
    "date": "2026-07-21",
    "until": "",
@@ -28,7 +30,7 @@
    ]
   },
   {
-   "text": "Lloyd worries that he will not make it in the NBA.",
+   "text": "Lloyd worries he will not make it as an NBA player.",
    "kind": "verdict",
    "date": "2026-07-21",
    "until": "",
@@ -37,7 +39,7 @@
    ]
   },
   {
-   "text": "He is not in the Kings' projected starting five of Acuff, LaVine, Hunter, Murray and Sabonis. The notes say nobody is pushing that group for a starting spot.",
+   "text": "He is not in the Kings' projected starting five of Acuff, LaVine, Hunter, Murray and Sabonis. Nobody is pushing that group for a starting spot.",
    "kind": "fact",
    "date": "2026-07-31",
    "until": "",
@@ -47,40 +49,52 @@
    ]
   },
   {
-   "text": "The Kings are in a teardown and rebuild. Seven of their 13 rostered players are on rookie-scale or minimum deals.",
-   "kind": "fact",
+   "text": "The Kings are projected to be one of the worst teams. The hosts predict 26 or 27 wins and Vegas has them at about 22.",
+   "kind": "verdict",
    "date": "2026-07-31",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:t0"
+    "oEywzBZfAvY:t7",
+    "0AptxcRW0RE:t8",
+    "lOshTzDA4SA:t4"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is a poor shooter. Experts say Kings passers got fewer assists because teammates like him could not shoot.",
-   "kind": "fact",
+   "text": "He is an inefficient scorer. His FG% is low on modest volume.",
+   "kind": "verdict",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:p9",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is a weak shooter. Experts say Kings passers got fewer assists because teammates like him could not shoot.",
+   "kind": "verdict",
    "date": "2026-07-17",
    "until": "",
    "sources": [
-    "NYTH7uQsPCM:t4",
-    "stats"
+    "NYTH7uQsPCM:t4"
    ]
   }
  ],
  "tags": [
   {
-   "name": "bench role",
+   "name": "bottom team",
    "channel": "current",
-   "detail": "Not in the projected Kings starting five",
+   "detail": "Kings projected at about 22 to 27 wins",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:t1",
-    "W3THnI7wWdA:t8"
+    "oEywzBZfAvY:t7",
+    "0AptxcRW0RE:t8",
+    "lOshTzDA4SA:t4"
    ],
-   "new_meaning": "Projected to come off the bench rather than start, which limits his minutes."
+   "new_meaning": ""
   }
  ],
- "note": "Both Yahoo and ESPN value him at 0 USD. He ranks 227 on Yahoo and 234 on ESPN, far outside the 144 players our league drafts, so he is not a draft target. His projection of 42.8% FG and 9.6 points per game is below average in most categories, and the only expert note doubts that he will stick in the NBA. Leave him on waivers and only take a look if the Kings' rebuild gives him starter minutes early in the season.",
+ "note": "Both sites value him at 0 USD and rank him 227 (Yahoo) and 234 (ESPN). That is far outside the 144 players our league drafts, so do not draft him. His projected line, 42.8% FG on about 8.6 attempts and 9.6 points, has no category that stands out, so he fits no punt build. Early in the season, check only whether a LaVine or Sabonis trade or an injury moves him into the starting lineup with clearly more minutes.",
  "rejected": []
 }

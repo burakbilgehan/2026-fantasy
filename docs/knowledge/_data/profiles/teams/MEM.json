@@ -2,50 +2,50 @@
  "team": "MEM",
  "prompt_version": 1,
  "prompt_sha": "07b4ed7fd28e",
- "input_sha": "71ebec0cf3bf",
+ "input_sha": "06f81d402b52",
  "note_count": 16,
- "built_at": "2026-10-04T20:02:26+00:00",
+ "built_at": "2026-10-05T20:09:18+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.19796679999999997,
-  "duration_ms": 66547
+  "cost_usd_list": 0.30462219999999995,
+  "duration_ms": 82049,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Ja Morant is no longer on the team. He was traded to Portland, and Memphis got no draft capital for him.",
+   "text": "Ja Morant was traded to Portland. Memphis got no draft capital for him.",
    "kind": "fact",
    "date": "2026-07-17",
    "until": "",
    "sources": [
     "bHA-JoW3reE:t5",
-    "NYTH7uQsPCM:t9",
-    "4GDfg2n2l8o:t2"
+    "NYTH7uQsPCM:t9"
    ]
   },
   {
    "text": "Ty Jerome is expected to start at point guard.",
-   "kind": "fact",
-   "date": "2026-08-17",
-   "until": "",
-   "sources": [
-    "NYTH7uQsPCM:t9",
-    "LcZcvk8s1xQ:t6",
-    "stats"
-   ]
-  },
-  {
-   "text": "The fifth starting spot is not settled. Joe's projected starting five has Jerami Grant at forward. The depth chart starts Jaylen Wells instead and lists Grant in the second unit.",
    "kind": "verdict",
    "date": "2026-08-17",
    "until": "",
    "sources": [
-    "LcZcvk8s1xQ:t6",
-    "stats"
+    "NYTH7uQsPCM:t9",
+    "LcZcvk8s1xQ:t6"
    ]
   },
   {
-   "text": "Cameron Boozer will start. He is expected to do more as the season goes on.",
+   "text": "Morant was the only real usage competition, so his exit opens a big role. Cameron Boozer is a main beneficiary.",
+   "kind": "verdict",
+   "date": "2026-06-30",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:t0",
+    "4GDfg2n2l8o:t2"
+   ]
+  },
+  {
+   "text": "Cameron Boozer will start and should do more as the season goes on.",
    "kind": "verdict",
    "date": "2026-09-03",
    "until": "",
@@ -55,16 +55,7 @@
    ]
   },
   {
-   "text": "There is little usage competition on the roster, so Cameron Boozer is a top usage option.",
-   "kind": "verdict",
-   "date": "2026-06-25",
-   "until": "",
-   "sources": [
-    "lOshTzDA4SA:t0"
-   ]
-  },
-  {
-   "text": "The roster is very deep, and coach Tuomas Iisalo runs an 11-man rotation.",
+   "text": "The roster is very deep. Coach Tuomas Iisalo runs an 11-man rotation.",
    "kind": "fact",
    "date": "2026-08-17",
    "until": "",
@@ -73,7 +64,7 @@
    ]
   },
   {
-   "text": "Only Cameron Boozer and Cedric Coward are expected to play more than 30 minutes a game.",
+   "text": "Joe expects only Cameron Boozer and Cedric Coward to play more than 30 minutes per game.",
    "kind": "verdict",
    "date": "2026-08-17",
    "until": "",
@@ -82,8 +73,8 @@
    ]
   },
   {
-   "text": "The guard group is crowded: Javon Small, Ty Jerome, Scotty Pippen Jr., Campazzo and Cam Spencer compete for minutes.",
-   "kind": "verdict",
+   "text": "The guard group is crowded: Javon Small, Ty Jerome, Scotty Pippen Jr., Campazzo and Cam Spencer.",
+   "kind": "fact",
    "date": "2026-07-16",
    "until": "",
    "sources": [
@@ -91,8 +82,8 @@
    ]
   },
   {
-   "text": "The forward rotation is crowded with Prosper, Hendricks, Edey and Stewart.",
-   "kind": "verdict",
+   "text": "The frontcourt is crowded too: Prosper, Hendricks, Zach Edey and Isaiah Stewart all compete for minutes.",
+   "kind": "fact",
    "date": "2026-07-21",
    "until": "",
    "sources": [
@@ -100,7 +91,7 @@
    ]
   },
   {
-   "text": "Memphis has far too many players, especially forwards, so more trades or cuts must happen.",
+   "text": "Memphis has too many players, mostly forwards, so more trades or cuts must happen.",
    "kind": "verdict",
    "date": "2026-06-29",
    "until": "",
@@ -109,25 +100,17 @@
    ]
   },
   {
-   "text": "Memphis holds three first-round picks in the 2027 draft.",
+   "text": "Joe projects Ty Jerome, Cedric Coward, Jerami Grant, Cameron Boozer and Zach Edey as starters. The current depth chart starts Jaylen Wells instead of Grant and lists Grant on the second unit. The last starting forward spot is open.",
    "kind": "fact",
    "date": "2026-08-17",
    "until": "",
    "sources": [
-    "LcZcvk8s1xQ:t5"
+    "LcZcvk8s1xQ:t6",
+    "stats"
    ]
   },
   {
-   "text": "Those picks give Memphis room to make trades, including moving Jerami Grant.",
-   "kind": "verdict",
-   "date": "2026-08-17",
-   "until": "",
-   "sources": [
-    "LcZcvk8s1xQ:t5"
-   ]
-  },
-  {
-   "text": "Zach Edey has a broken foot.",
+   "text": "In late June, Zach Edey was reported to have a broken foot.",
    "kind": "fact",
    "date": "2026-06-23",
    "until": "",
@@ -136,18 +119,25 @@
    ]
   },
   {
-   "text": "Memphis will not be a good team. Joe predicts low to mid 30s wins, around the 10th seed.",
+   "text": "Memphis tanked late last season. That is why Zach Edey was shut down.",
+   "kind": "fact",
+   "date": "2026-08-17",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t3"
+   ]
+  },
+  {
+   "text": "Memphis will not be a good team.",
    "kind": "verdict",
    "date": "2026-09-03",
    "until": "",
    "sources": [
-    "OBwWCxG9SqM:t1",
-    "LcZcvk8s1xQ:t4",
-    "stats"
+    "OBwWCxG9SqM:t1"
    ]
   },
   {
-   "text": "Joe says Memphis is not trying to tank this season because of the new tanking rules.",
+   "text": "Joe predicts wins in the low to mid 30s, around the 10th seed. He says Memphis is not trying to tank because of the new tanking rules.",
    "kind": "verdict",
    "date": "2026-08-17",
    "until": "",
@@ -156,29 +146,27 @@
    ]
   },
   {
-   "text": "Late-season shutdowns are still a risk. Memphis clearly tanked late last season and shut down Zach Edey, and the team is expected to be weak again.",
+   "text": "Memphis has three first-round picks in the 2027 draft, so it has room to make trades. Jerami Grant is a possible trade piece.",
+   "kind": "fact",
+   "date": "2026-08-17",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t5"
+   ]
+  },
+  {
+   "text": "Memphis has the fewest back-to-backs in the league, so its players carry less rest risk.",
    "kind": "verdict",
-   "date": "2026-09-03",
-   "until": "",
-   "sources": [
-    "LcZcvk8s1xQ:t3",
-    "OBwWCxG9SqM:t1",
-    "stats"
-   ]
-  },
-  {
-   "text": "Memphis has the fewest back-to-backs in the league, so its players have less rest risk.",
-   "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "Memphis has 12 games in fantasy playoff weeks 19 to 21, the most in the league, with one back-to-back pair in each week.",
-   "kind": "fact",
-   "date": "2026-10-04",
+   "text": "The fantasy playoff schedule is the best in the league: 4 games in each of weeks 19, 20 and 21.",
+   "kind": "verdict",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
@@ -196,7 +184,7 @@
    ]
   },
   {
-   "text": "Iisalo uses short stints of about five minutes and keeps players' minutes down.",
+   "text": "Iisalo uses short stints of about five minutes and keeps player minutes down.",
    "kind": "fact",
    "date": "2026-08-17",
    "until": "",
@@ -205,17 +193,7 @@
    ]
   },
   {
-   "text": "Under Iisalo, few players get a full starter's minutes load.",
-   "kind": "verdict",
-   "date": "2026-08-17",
-   "until": "",
-   "sources": [
-    "LcZcvk8s1xQ:t1",
-    "LcZcvk8s1xQ:t2"
-   ]
-  },
-  {
-   "text": "Memphis usually fills its roster with guaranteed contracts for flexibility, then waives players later.",
+   "text": "Memphis usually fills its roster with guaranteed contracts for flexibility and then waives players later.",
    "kind": "fact",
    "date": "2026-08-17",
    "until": "",
@@ -226,9 +204,89 @@
  ],
  "tags": [
   {
+   "name": "fast pace",
+   "channel": "current",
+   "detail": "Iisalo plays at a very high pace.",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low starter minutes",
+   "channel": "durable",
+   "detail": "Iisalo uses short five-minute stints and keeps minutes down. Only Boozer and Coward are expected to top 30 minutes.",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t1",
+    "LcZcvk8s1xQ:t2"
+   ],
+   "new_meaning": "The coach keeps even his starters' minutes below a normal starter load, which caps their counting stats."
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "11-man rotation. Crowded at guard and forward.",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t2",
+    "-y6p5PYLf00:t1",
+    "RyzcCGChYgs:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage freed",
+   "channel": "current",
+   "detail": "Ja Morant was traded to Portland. Boozer gains usage.",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:t0",
+    "4GDfg2n2l8o:t2",
+    "NYTH7uQsPCM:t9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Grant or Wells for the last starting forward spot. Crowded guard and forward groups.",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t6",
+    "stats",
+    "-y6p5PYLf00:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "Holds three 2027 first-round picks. Too many players, so trades or cuts must happen. Jerami Grant could be moved.",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t5",
+    "bHA-JoW3reE:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "Win total 28.5, rank 25 of 30. Joe projects about the 10th seed.",
+   "until": "",
+   "sources": [
+    "OBwWCxG9SqM:t1",
+    "LcZcvk8s1xQ:t4",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "13 back-to-backs, fewest in the league",
+   "detail": "13 back-to-backs, fewest in the league.",
    "until": "",
    "sources": [
     "stats"
@@ -238,71 +296,14 @@
   {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "12 games in weeks 19 to 21, most in the league, one back-to-back pair per week",
+   "detail": "12 games in weeks 19 to 21, rank 1 of 30.",
    "until": "",
    "sources": [
     "stats"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "deep rotation",
-   "channel": "current",
-   "detail": "11-man rotation; only Boozer and Coward expected above 30 minutes",
-   "until": "",
-   "sources": [
-    "LcZcvk8s1xQ:t2"
-   ],
-   "new_meaning": "The team plays many players regular minutes, so fewer of its players get big minutes."
-  },
-  {
-   "name": "fast pace",
-   "channel": "durable",
-   "detail": "Coach Tuomas Iisalo plays at a very high pace",
-   "until": "",
-   "sources": [
-    "LcZcvk8s1xQ:t1"
-   ],
-   "new_meaning": "The team plays at a high pace, which adds possessions and counting stats per minute."
-  },
-  {
-   "name": "low minutes coach",
-   "channel": "durable",
-   "detail": "Iisalo uses short five-minute stints and keeps minutes down",
-   "until": "",
-   "sources": [
-    "LcZcvk8s1xQ:t1"
-   ],
-   "new_meaning": "The coach holds players' minutes down on purpose and spreads them across the roster."
-  },
-  {
-   "name": "lottery team",
-   "channel": "current",
-   "detail": "Expected to be weak; tanked and shut down Edey late last season, though Joe says no tank this year because of new rules",
-   "until": "",
-   "sources": [
-    "OBwWCxG9SqM:t1",
-    "LcZcvk8s1xQ:t3",
-    "LcZcvk8s1xQ:t4",
-    "stats"
-   ],
-   "new_meaning": "The team is expected to finish near the bottom of the league, which raises the risk of late-season rest or shutdowns."
-  },
-  {
-   "name": "roster overload",
-   "channel": "current",
-   "detail": "Too many players, especially forwards and guards; trades or cuts expected, Jerami Grant a trade candidate",
-   "until": "",
-   "sources": [
-    "bHA-JoW3reE:t4",
-    "RyzcCGChYgs:t2",
-    "-y6p5PYLf00:t1",
-    "LcZcvk8s1xQ:t0",
-    "LcZcvk8s1xQ:t5"
-   ],
-   "new_meaning": "The team has more players than rotation spots, so trades or cuts are expected and roles may shift."
   }
  ],
- "note": "Memphis is a weak, very fast, deep team where only Cameron Boozer and Cedric Coward are expected to top 30 minutes, so they gain the most. Edey, Jerome, Wells, Grant and the crowded bench guards are held back by short stints and an 11-man rotation. The schedule is the best for us, with the fewest back-to-backs and 12 playoff games, but late-season shutdowns are a risk. Early on, watch who wins the fifth starting spot (Wells or Grant), Edey's broken foot, and any Grant trade or roster cuts.",
+ "note": "Memphis plays very fast and has the best fantasy playoff schedule in the league, but Iisalo runs an 11-man rotation and keeps minutes short. That caps everyone except Cameron Boozer and Cedric Coward, who gain the most from Morant leaving. Early on, watch Zach Edey's foot, whether Grant or Wells starts at forward, and roster cuts or trades. Also check whether a weak team rests players late despite the new tanking rules.",
  "rejected": []
 }

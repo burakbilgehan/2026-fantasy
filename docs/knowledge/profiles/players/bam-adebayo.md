@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 31 | 25.4 | 26 | 45 | 25.4 | 15 | 26 |
+| 2026-27 | 31 | 25.4 | 26 | 45 | 25.5 | 15 | 26 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,20 +30,22 @@
 </details>
 
 **Current**
-- Miami traded for Giannis Antetokounmpo, so Giannis is now Bam Adebayo's teammate. (fact, 2026-09-19; [06-23](https://youtu.be/nnWX_ObljOE?t=975), [09-19](https://youtu.be/uarqbNA2dFk?t=1935))
-- His fair value is a rank in the 30s. He goes around pick 34 to 36, at the end of round three, and the experts call that fair. ESPN's rank of 15 is too high, and he has never played at that level. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1935), [09-14](https://youtu.be/LM0cRCGoAUQ?t=807), [09-14](https://youtu.be/t4n9MAP2_14?t=747))
-- Giannis should cost him a small amount of value. He may lose some rebounds and take more threes, but the experts do not expect a big drop. (verdict, 2026-09-14; [06-23](https://youtu.be/nnWX_ObljOE?t=975), [09-14](https://youtu.be/t4n9MAP2_14?t=747), [09-14](https://youtu.be/LM0cRCGoAUQ?t=807))
-- Miami's projected starting lineup has him in the frontcourt with Giannis. Bobby Portis is his backup. (fact, 2026-09-14; [06-23](https://youtu.be/nnWX_ObljOE?t=870), [09-14](https://youtu.be/LM0cRCGoAUQ?t=813))
-- Miami has the fewest back-to-backs of any team (13) and none in the fantasy playoffs. It has only 10 games in the playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153))
+- His fair auction price is in the mid 20s USD. In a mock auction he went for 24 USD, which the expert called too cheap. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3257))
+- Miami traded for Giannis Antetokounmpo, so Bam now plays next to him. (fact, 2026-09-19; [06-23](https://youtu.be/nnWX_ObljOE?t=975), [09-19](https://youtu.be/uarqbNA2dFk?t=1935))
+- A rank in the 30s is fair for him. ESPN's rank of 15 is too high, because he has never played near that level. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1935), [09-14](https://youtu.be/LM0cRCGoAUQ?t=807), [09-14](https://youtu.be/t4n9MAP2_14?t=747))
+- Experts expect a small value hit with Giannis on the team. He may lose some rebounds and take more threes, but no big drop is expected. (verdict, 2026-09-14; [06-23](https://youtu.be/nnWX_ObljOE?t=975), [09-14](https://youtu.be/t4n9MAP2_14?t=747), [09-14](https://youtu.be/LM0cRCGoAUQ?t=807))
+- Miami's depth is poor, including at big man. Bobby Portis is his backup. (fact, 2026-09-14; [06-23](https://youtu.be/nnWX_ObljOE?t=918), [07-23](https://youtu.be/LUTYUdXBG1M?t=1264), [09-14](https://youtu.be/LM0cRCGoAUQ?t=813))
+- Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs. It plays only 10 games in the fantasy playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153))
+- Miami lacks point guards and ball handlers, so Giannis is expected to handle the ball a lot. (fact, 2026-07-17; [06-23](https://youtu.be/nnWX_ObljOE?t=780), [07-17](https://youtu.be/NYTH7uQsPCM?t=1757))
 
 **Durable**
-- His FG% is weak for a big. Both sites project about 44 to 45% on nearly 16 attempts per game, so he pulls down a team's FG%. (fact, 2026-10-04; stats)
-- For a big, he gives broad support: rebounds, points, steals and some threes are all above his position. He is not a real outlier in any category. (fact, 2026-10-04; stats)
+- His FG% is low for a big on 15 to 16 attempts per game. It fell in each of the last three seasons as he took more threes. (fact, 2026-10-05; stats)
+- He now shoots threes. Both sites project about 2 made threes per game, which is high for a center. (fact, 2026-10-05; stats)
 
 **Tags**
-- Current: `role down` (Small value hit with Giannis arriving. He may lose some rebounds.), `bust candidate` (At ESPN's rank of 15. Experts value him in the 30s.), `sites disagree on price` (Yahoo value 31 USD and rank 26. ESPN value 45 USD and rank 15.), `few back-to-backs` (Miami has the fewest back-to-backs (13) and none in the fantasy playoffs)
-- Durable: `punt FG fit` (About 44.6% FG on nearly 16 attempts, weak for a F/C)
+- Current: `usage competition` (Giannis Antetokounmpo arrived and is expected to handle the ball a lot), `thin rotation` (poor depth, including at big man), `few back-to-backs` (13 back-to-backs, fewest in the league), `bad playoff schedule` (only 10 games in the fantasy playoffs, though no back-to-backs), `sites disagree on price` (ESPN value 45 USD and rank 15, Yahoo value 31 USD and rank 26)
+- Durable: `punt FG fit` (44.6% projected FG% on about 16 attempts), `3PM from a big` (about 2 threes per game projected)
 
-**Note.** The experts put him in the 30s and call ESPN's rank of 15 and value of 45 USD too high. Yahoo's 31 USD and his average cost of 25.4 USD are closer to a fair price, and our league paid 26 USD last season, so plan for about 25 to 31 USD. He is a good fit for punt FG% builds, because his only weak category is FG% (44.6% on nearly 16 attempts). Early in the season, check whether Giannis cuts his rebounds below the Yahoo projection of 8.6 and whether his threes keep rising. Miami has no back-to-backs in our playoff weeks but only 10 games then.
+**Note.** Average costs are about 25 USD on both Yahoo and ESPN, and he went for 26 USD in our league last season. That matches the experts' fair price in the mid 20s, so do not chase ESPN's 45 USD value or its rank of 15. He fits best in punt FG% builds, where his rebounds, points, steals and threes from the center spot count fully. Early in the season, check how much rebounding and shot volume he loses next to Giannis, and whether more threes push his FG% even lower.
 
-<sub>5 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>6 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

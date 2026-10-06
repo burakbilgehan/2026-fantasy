@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 6 | 1.0 | 90 | 4 | 2.0 | 84 | 1 |
+| 2026-27 | 6 | 1.0 | 90 | 4 | 2.3 | 84 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,23 +30,24 @@
 </details>
 
 **Current**
-- In the latest mock draft he went at pick 77. The expert sees upside: if a teammate misses time, his usage spikes. The same expert is a little worried about the team overall. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1277))
-- Minnesota plays only two games in the week starting March 15, 2027. That is week 20, inside our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
-- With Randle and Reid gone, his usage should go up. The Kuminga signing takes back some of that gain. (verdict, 2026-09-17; [06-23](https://youtu.be/9tb1ARBEmQU?t=304), [06-25](https://youtu.be/ya2VYRJ1BN0?t=531), [08-11](https://youtu.be/OdDkXFhoKsc?t=1656), [08-26](https://youtu.be/sTtFUy7IoJI?t=672), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2743))
-- Experts disagree on his price. One calls a rank of about 74 fair and doubts he reaches 20 percent usage. Another lists him as a sleeper who should beat the Kuminga hit. (verdict, 2026-09-17; [09-10](https://youtu.be/dlo7L8Ru91A?t=1295), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2743))
-- Minnesota signed Jonathan Kuminga, who is expected to start and will take shots. (fact, 2026-09-10; [08-26](https://youtu.be/sTtFUy7IoJI?t=576), [09-10](https://youtu.be/dlo7L8Ru91A?t=1295))
-- McDaniels is a projected starter for Minnesota. Anthony Edwards, LaMelo Ball and Rudy Gobert are the other set starters. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=500), [08-19](https://youtu.be/2mxpEpGU3H8?t=603))
-- Coach Finch said McDaniels will play some power forward, but he probably will not start there or play all his minutes there. Minnesota has little frontcourt depth. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=500), [06-30](https://youtu.be/4GDfg2n2l8o?t=1272), [06-25](https://youtu.be/ya2VYRJ1BN0?t=333))
-- Julius Randle and Naz Reid were traded away for LaMelo Ball. Donte DiVincenzo will miss most of the season. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=236), [06-23](https://youtu.be/9tb1ARBEmQU?t=263), [06-22](https://youtu.be/HxQjagSTTAM?t=883))
+- In an expert mock auction, Josh paid 11 USD for him as his first player. In a 10-team mock draft he went at pick 77. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1204), [09-30](https://youtu.be/BjXP9JODDSg?t=1277))
+- Minnesota added Jonathan Kuminga. Julius Randle and Naz Reid are gone. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=669), [09-10](https://youtu.be/dlo7L8Ru91A?t=1295), [08-19](https://youtu.be/2mxpEpGU3H8?t=236))
+- He should keep his starting spot even with Kuminga on the roster. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=660))
+- Losing Randle and Reid should raise his usage, but Kuminga will take shots and cut that gain a little. One expert doubts he reaches a 20 usage rate. (verdict, 2026-10-04; [06-23](https://youtu.be/9tb1ARBEmQU?t=304), [08-26](https://youtu.be/sTtFUy7IoJI?t=672), [09-10](https://youtu.be/dlo7L8Ru91A?t=1295), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2743), [10-04](https://youtu.be/n4KkK-OJjqA?t=660))
+- Experts say his ADP of 91 to 98 is too late and that he should beat it. One expert says a rank near 74 is about right. Another expects him to finish about 20 spots better than 74. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=660), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2743), [09-10](https://youtu.be/dlo7L8Ru91A?t=1295), [08-19](https://youtu.be/J1Eg3uaAICU?t=1421))
+- Minnesota's bench and frontcourt depth are thin. If a teammate misses time, his usage could spike. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1277), [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [06-30](https://youtu.be/4GDfg2n2l8o?t=1231))
+- Minnesota has a two-game week in the matchup starting March 15. That is our fantasy playoff week 20. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
+- He is a projected starter, next to LaMelo Ball, Anthony Edwards and Rudy Gobert. Coach Finch said he will play some power forward but probably will not start there or play all his minutes there. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=500), [08-19](https://youtu.be/2mxpEpGU3H8?t=603))
+- Minnesota is expected to compete for a playoff spot, with one prediction of 53 wins. That makes late-season rest for tanking unlikely. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1830), [07-13](https://youtu.be/Rqb5GdrSweY?t=1051))
 
 **Durable**
-- He has a balanced category profile with no weak category. He helps most in blocks, steals and FG% for a forward. (fact, 2026-10-04; stats)
-- His usage has gone up in each of the last three seasons. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=580))
+- His projected category line has no weak category. Blocks, steals and FG% are his best areas for a forward. (fact, 2026-10-05; stats)
+- His usage rate has gone up in each of the last three seasons. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=580))
 
 **Tags**
-- Current: `role up` (Randle and Naz Reid are gone. The Kuminga signing limits the gain.), `sleeper` (Named a sleeper at an ESPN ADP of 98. Other experts disagree.), `bad playoff schedule` (Minnesota plays only two games in week 20, which starts March 15.)
-- Durable: `fits every build` (No weak category. Best in BLK, STL and FG% for a forward.)
+- Current: `sleeper` (ADP 91 to 98, experts say too late), `expert target` (expected to beat his ADP and his Yahoo rank of 74), `role up` (more usage after Randle and Reid left, partly offset by Kuminga), `usage competition` (shares shots with LaMelo Ball, Anthony Edwards and Jonathan Kuminga), `thin rotation` (almost no frontcourt depth behind him), `winning team` (one prediction of 53 wins), `low shutdown risk` (Minnesota is competing, not tanking), `bad playoff schedule` (two-game week in the matchup starting March 15 (our week 20))
+- Durable: `fits every build` (no category flagged weak; blocks, steals and FG% are his best areas), `stable starters` (Finch rarely changes starters unless someone is hurt)
 
-**Note.** McDaniels is a cheap, balanced forward who fits every build. Projections have him at about 51% FG with 1.1 steals and 1.0 blocks, and no category hurts you. He went for 1 USD in our league last season, and the sites price him at 4 to 6 USD (rank 84 to 90), so he is a good late target at 3 to 6 USD. Early in the season, check how his usage holds up next to Kuminga and LaMelo Ball and how often he plays power forward. Also plan around Minnesota's two-game week in playoff week 20.
+**Note.** He went for 1 USD in our league last season, and Yahoo and ESPN average costs are only 1.0 and 2.3 USD. Site values are 4 to 6 USD and ranks are 84 to 90, so he is a cheap starting forward with no weak category who fits any build. Spending up to the site values is fine, since experts say his ADP is too late. An expert mock paid 11 USD for him, which is the top of the range. Early in the season, check how many shots he gets next to Ball, Edwards and Kuminga and whether he plays power forward minutes. Plan around Minnesota's two-game week in our playoff week 20.
 
-<sub>11 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>13 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

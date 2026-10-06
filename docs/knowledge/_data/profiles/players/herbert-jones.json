@@ -8,25 +8,26 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "260a579839b4",
+ "input_sha": "5c9d8ee8175d",
  "note_count": 4,
- "built_at": "2026-10-04T17:32:20+00:00",
+ "built_at": "2026-10-05T19:50:18+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.11870220000000001,
-  "duration_ms": 28498
+  "cost_usd_list": 0.1428742,
+  "duration_ms": 32711,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He competes with Jeremiah Fears for the last starting spot in a crowded Pelicans rotation. Zion Williamson, Trey Murphy, Dejounte Murray and likely Yves Missi hold the other four spots.",
+   "text": "His starting spot is not settled. Zion Williamson, Trey Murphy, Dejounte Murray and likely Yves Missi start, and the last spot is between Jeremiah Fears and Herb Jones.",
    "kind": "fact",
    "date": "2026-10-02",
    "until": "",
    "sources": [
     "ZYllcj4o6_A:t1",
-    "NYTH7uQsPCM:t0",
-    "gerS7ibpaJo:t1"
+    "n4KkK-OJjqA:t2"
    ]
   },
   {
@@ -39,30 +40,68 @@
    ]
   },
   {
-   "text": "The experts are lukewarm and do not agree on his draft value. One puts him in the right area for later-round steals but is not a big fan. Another doubts he is worth drafting in standard category leagues.",
+   "text": "The Pelicans have a crowded rotation of about eight players who could start, including Fears, Murray, Murphy, Zion, Saddiq Bey, Missi and Derik Queen, plus Bennedict Mathurin. This creates a minutes crunch.",
+   "kind": "fact",
+   "date": "2026-09-04",
+   "until": "",
+   "sources": [
+    "gerS7ibpaJo:t1",
+    "NYTH7uQsPCM:t0"
+   ]
+  },
+  {
+   "text": "The Pelicans have a new coach, Jamahl Mosley, who brings a defense-first identity.",
+   "kind": "fact",
+   "date": "2026-09-04",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:t4",
+    "gerS7ibpaJo:t0"
+   ]
+  },
+  {
+   "text": "The Pelicans are expected to be a weak team near the bottom of the West, at about 34 wins.",
+   "kind": "verdict",
+   "date": "2026-08-03",
+   "until": "",
+   "sources": [
+    "0AptxcRW0RE:t7",
+    "5QU-jta-lWM:t6"
+   ]
+  },
+  {
+   "text": "He belongs in the late rounds as a possible steal, though the expert is not a big fan of him.",
    "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
    "sources": [
-    "W-R1dzem32s:p49",
-    "Alwse2uXzD4:p13"
+    "W-R1dzem32s:p49"
    ]
   }
  ],
  "durable": [
   {
-   "text": "His fantasy value comes mainly from steals. He adds some blocks and the occasional three, but he rarely shoots and scores little.",
+   "text": "Steals are his main category. He gets many steals, some blocks and an occasional three.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Alwse2uXzD4:p13",
+    "stats"
+   ]
+  },
+  {
+   "text": "He rarely shoots, so his points are low.",
    "kind": "fact",
    "date": "2026-08-30",
    "until": "",
    "sources": [
     "Alwse2uXzD4:p13",
-    "g31YlwRe0XQ:p50",
     "stats"
    ]
   },
   {
-   "text": "He is worth more in category leagues than in points leagues.",
+   "text": "He is worth more in category leagues than in points leagues, because his value comes from category stats like steals.",
    "kind": "verdict",
    "date": "2026-08-30",
    "until": "",
@@ -72,16 +111,16 @@
    ]
   },
   {
-   "text": "FG% is his weakest category. It is weak for his position.",
+   "text": "His projected FG% is weak for his position.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He is not a true floor spacer, even though he once shot about 42% from three.",
+   "text": "He is not a true floor spacer, even though he shot about 42% from three in one past season.",
    "kind": "verdict",
    "date": "2026-08-03",
    "until": "",
@@ -94,7 +133,7 @@
   {
    "name": "punt FG fit",
    "channel": "durable",
-   "detail": "Projected 40.7% FG on about 8 attempts per game",
+   "detail": "Projected 40.7% FG on about 8 attempts",
    "until": "",
    "sources": [
     "stats"
@@ -102,19 +141,71 @@
    "new_meaning": ""
   },
   {
+   "name": "category league player",
+   "channel": "durable",
+   "detail": "Value is steals, a category stat. Weak points league player",
+   "until": "",
+   "sources": [
+    "Alwse2uXzD4:p13",
+    "g31YlwRe0XQ:p50"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Competes with Jeremiah Fears for the last starting spot. A beat reporter favors Fears.",
+   "detail": "Competes with Jeremiah Fears for the last starting spot",
    "until": "",
    "sources": [
     "ZYllcj4o6_A:t1",
-    "_vbAP5y182A:t0",
-    "NYTH7uQsPCM:t0",
-    "gerS7ibpaJo:t1"
+    "_vbAP5y182A:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "About eight Pelicans who could start",
+   "until": "",
+   "sources": [
+    "gerS7ibpaJo:t1",
+    "NYTH7uQsPCM:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "Jamahl Mosley",
+   "until": "",
+   "sources": [
+    "gerS7ibpaJo:t0",
+    "5QU-jta-lWM:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "defense-first",
+   "channel": "durable",
+   "detail": "Mosley brings a defense-first identity",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "About 34 wins projected, bottom of the West",
+   "until": "",
+   "sources": [
+    "0AptxcRW0RE:t7",
+    "5QU-jta-lWM:t6"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both sites value Herbert Jones at 0 USD and rank him 134 on Yahoo and 194 on ESPN, so he sits right at the edge of our 144-player draft. Our league paid 5 USD for him last season, which is too much now. In a punt FG% build he is a cheap steals source at about 1.5 per game, worth 1 to 2 USD at the end of the draft. If no one takes him, he is a waiver option. Early in the season, check whether he keeps his starting spot over Jeremiah Fears and whether his FG% gets back above the 38.3% he shot last season.",
+ "note": "Both Yahoo and ESPN give him 0 USD of value. He ranks 134 on Yahoo and 194 on ESPN, so he sits at the edge of our 144-player pool after costing 5 USD here last season. Steals are his one standout category (+1.8 z on 1.5 per game). His projected 40.7% FG on low volume makes him a fit for punt FG% builds that want steals, and a 1 USD late pick at most. Early in the season, check whether he wins the starting spot over Jeremiah Fears and whether his FG% climbs back from last season's 38.3%. If neither happens, he is a waiver player.",
  "rejected": []
 }

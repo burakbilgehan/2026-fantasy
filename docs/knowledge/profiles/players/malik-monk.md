@@ -30,18 +30,20 @@
 </details>
 
 **Current**
-- The coach and front office seem to dislike him. Experts do not trust the Kings' rotation with him and see little fantasy value for him in Sacramento. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1936), [07-20](https://youtu.be/-KS_AZjZnw4?t=1268), [09-15](https://youtu.be/KPdD91Oo8-U?t=2693), [09-15](https://youtu.be/KPdD91Oo8-U?t=2693), [06-25](https://youtu.be/lOshTzDA4SA?t=929))
-- He is the Kings' backup point guard. The projected starters are Acuff, LaVine, Hunter, Murray and Sabonis, and the roster has no third point guard. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1659), [07-31](https://youtu.be/oEywzBZfAvY?t=691), [07-31](https://youtu.be/oEywzBZfAvY?t=1661))
-- Trade rumors about him continue. He has 2 years left on his contract, including a player option. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1659))
+- Experts do not trust Sacramento's rotation with him. The coach and front office seem to dislike him. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1936), [09-15](https://youtu.be/KPdD91Oo8-U?t=2693), [09-15](https://youtu.be/KPdD91Oo8-U?t=2693), [07-20](https://youtu.be/-KS_AZjZnw4?t=1268))
+- He is Sacramento's backup point guard. There is no third point guard on the roster. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1659), [07-31](https://youtu.be/oEywzBZfAvY?t=1661))
+- The projected Kings starters are Acuff, LaVine, Hunter, Murray and Sabonis, so he comes off the bench. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691))
+- Trade rumors around him continue. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1659))
+- He has 2 years left on his contract, including a player option. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1659))
 - He is not expected to get back to a 29-minute role. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1268))
 
 **Durable**
-- He does not play defense and cannot hold up on defense in heavy minutes. This limits how much his coaches play him. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1623))
+- He does not play defense and cannot hold up defensively in heavy minutes. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1623))
 
 **Tags**
-- Current: `trade risk` (Trade rumors continue. 2 years left on his contract, including a player option.)
+- Current: `trade risk` (trade rumors continue), `unsettled rotation` (experts do not trust Sacramento's rotation with him)
 - Durable: none
 
-**Note.** Both sites give him 0 USD in value, and his ranks (Yahoo 213, ESPN 159) are outside our 144 drafted players. We paid only 2 USD for him last season, so let him go undrafted. The projections disagree on his minutes: ESPN has 26.2 minutes and 14.9 points, Yahoo only 11.5 points. Early in the season, check whether he gets steady backup point guard minutes or gets traded. A trade or an injury to Acuff or LaVine could make him a useful waiver add for threes, FT% and assists.
+**Note.** Both sites value him at 0 USD (Yahoo rank 213, ESPN rank 159), and our league paid only 2 USD for him last season, so he should go undrafted in a 144-player auction. The two sites disagree on his role. Yahoo projects 11.5 points on 9.3 shots, while ESPN projects about 26 minutes and 14.9 points. Treat him as a waiver option to watch early in the season: check whether he holds the backup point guard minutes or gets traded into a bigger role.
 
-<sub>5 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

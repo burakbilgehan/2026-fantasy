@@ -11,35 +11,33 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Isaiah Stewart, PF Quinten Post, PG Scotty Pippen Jr., SF Jerami Grant, SF Micah Peavy, SG Cam Spencer
 
 **Current**
-- Memphis has the fewest back-to-backs in the league, so its players have less rest risk. (fact, 2026-10-04; stats)
-- Memphis has 12 games in fantasy playoff weeks 19 to 21, the most in the league, with one back-to-back pair in each week. (fact, 2026-10-04; stats)
-- Cameron Boozer will start. He is expected to do more as the season goes on. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1089), [07-21](https://youtu.be/RyzcCGChYgs?t=1680))
-- Memphis will not be a good team. Joe predicts low to mid 30s wins, around the 10th seed. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1089), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1864), stats)
-- Late-season shutdowns are still a risk. Memphis clearly tanked late last season and shut down Zach Edey, and the team is expected to be weak again. (verdict, 2026-09-03; [08-17](https://youtu.be/LcZcvk8s1xQ?t=890), [09-03](https://youtu.be/OBwWCxG9SqM?t=1089), stats)
-- Ty Jerome is expected to start at point guard. (fact, 2026-08-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1672), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483), stats)
-- The fifth starting spot is not settled. Joe's projected starting five has Jerami Grant at forward. The depth chart starts Jaylen Wells instead and lists Grant in the second unit. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=483), stats)
-- The roster is very deep, and coach Tuomas Iisalo runs an 11-man rotation. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
-- Only Cameron Boozer and Cedric Coward are expected to play more than 30 minutes a game. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
-- Memphis holds three first-round picks in the 2027 draft. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1472))
-- Those picks give Memphis room to make trades, including moving Jerami Grant. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1472))
-- Joe says Memphis is not trying to tank this season because of the new tanking rules. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1864))
-- The forward rotation is crowded with Prosper, Hendricks, Edey and Stewart. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1680))
-- Ja Morant is no longer on the team. He was traded to Portland, and Memphis got no draft capital for him. (fact, 2026-07-17; [06-29](https://youtu.be/bHA-JoW3reE?t=1175), [07-17](https://youtu.be/NYTH7uQsPCM?t=1672), [06-30](https://youtu.be/4GDfg2n2l8o?t=460))
-- The guard group is crowded: Javon Small, Ty Jerome, Scotty Pippen Jr., Campazzo and Cam Spencer compete for minutes. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=557))
-- Memphis has far too many players, especially forwards, so more trades or cuts must happen. (verdict, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=953))
-- There is little usage competition on the roster, so Cameron Boozer is a top usage option. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=243))
-- Zach Edey has a broken foot. (fact, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1008))
+- Memphis has the fewest back-to-backs in the league, so its players carry less rest risk. (verdict, 2026-10-05; stats)
+- The fantasy playoff schedule is the best in the league: 4 games in each of weeks 19, 20 and 21. (verdict, 2026-10-05; stats)
+- Cameron Boozer will start and should do more as the season goes on. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1089), [07-21](https://youtu.be/RyzcCGChYgs?t=1680))
+- Memphis will not be a good team. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1089))
+- Ty Jerome is expected to start at point guard. (verdict, 2026-08-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1672), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483))
+- The roster is very deep. Coach Tuomas Iisalo runs an 11-man rotation. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- Joe expects only Cameron Boozer and Cedric Coward to play more than 30 minutes per game. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- Joe projects Ty Jerome, Cedric Coward, Jerami Grant, Cameron Boozer and Zach Edey as starters. The current depth chart starts Jaylen Wells instead of Grant and lists Grant on the second unit. The last starting forward spot is open. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=483), stats)
+- Memphis tanked late last season. That is why Zach Edey was shut down. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=890))
+- Joe predicts wins in the low to mid 30s, around the 10th seed. He says Memphis is not trying to tank because of the new tanking rules. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1864))
+- Memphis has three first-round picks in the 2027 draft, so it has room to make trades. Jerami Grant is a possible trade piece. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1472))
+- The frontcourt is crowded too: Prosper, Hendricks, Zach Edey and Isaiah Stewart all compete for minutes. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1680))
+- Ja Morant was traded to Portland. Memphis got no draft capital for him. (fact, 2026-07-17; [06-29](https://youtu.be/bHA-JoW3reE?t=1175), [07-17](https://youtu.be/NYTH7uQsPCM?t=1672))
+- The guard group is crowded: Javon Small, Ty Jerome, Scotty Pippen Jr., Campazzo and Cam Spencer. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=557))
+- Morant was the only real usage competition, so his exit opens a big role. Cameron Boozer is a main beneficiary. (verdict, 2026-06-30; [06-25](https://youtu.be/lOshTzDA4SA?t=243), [06-30](https://youtu.be/4GDfg2n2l8o?t=460))
+- Memphis has too many players, mostly forwards, so more trades or cuts must happen. (verdict, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=953))
+- In late June, Zach Edey was reported to have a broken foot. (fact, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1008))
 
 **Durable**
 - Coach Tuomas Iisalo plays at a very high pace. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033))
-- Iisalo uses short stints of about five minutes and keeps players' minutes down. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033))
-- Under Iisalo, few players get a full starter's minutes load. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
-- Memphis usually fills its roster with guaranteed contracts for flexibility, then waives players later. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=147))
+- Iisalo uses short stints of about five minutes and keeps player minutes down. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033))
+- Memphis usually fills its roster with guaranteed contracts for flexibility and then waives players later. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=147))
 
 **Tags**
-- Current: `few back-to-backs` (13 back-to-backs, fewest in the league), `good playoff schedule` (12 games in weeks 19 to 21, most in the league, one back-to-back pair per week), `deep rotation` (11-man rotation; only Boozer and Coward expected above 30 minutes; Iisalo uses short five-minute stints and keeps minutes down; Too many players, especially forwards and guards; trades or cuts expected, Jerami Grant a trade candidate), `fast pace` (Coach Tuomas Iisalo plays at a very high pace), `bottom team` (Expected to be weak; tanked and shut down Edey late last season, though Joe says no tank this year because of new rules)
+- Current: `fast pace` (Iisalo plays at a very high pace.), `low starter minutes` (Iisalo uses short five-minute stints and keeps minutes down. Only Boozer and Coward are expected to top 30 minutes.), `deep rotation` (11-man rotation. Crowded at guard and forward.), `usage freed` (Ja Morant was traded to Portland. Boozer gains usage.), `unsettled rotation` (Grant or Wells for the last starting forward spot. Crowded guard and forward groups.), `trades likely` (Holds three 2027 first-round picks. Too many players, so trades or cuts must happen. Jerami Grant could be moved.), `bottom team` (Win total 28.5, rank 25 of 30. Joe projects about the 10th seed.), `few back-to-backs` (13 back-to-backs, fewest in the league.), `good playoff schedule` (12 games in weeks 19 to 21, rank 1 of 30.)
 - Durable: none
 
-**Note.** Memphis is a weak, very fast, deep team where only Cameron Boozer and Cedric Coward are expected to top 30 minutes, so they gain the most. Edey, Jerome, Wells, Grant and the crowded bench guards are held back by short stints and an 11-man rotation. The schedule is the best for us, with the fewest back-to-backs and 12 playoff games, but late-season shutdowns are a risk. Early on, watch who wins the fifth starting spot (Wells or Grant), Edey's broken foot, and any Grant trade or roster cuts.
+**Note.** Memphis plays very fast and has the best fantasy playoff schedule in the league, but Iisalo runs an 11-man rotation and keeps minutes short. That caps everyone except Cameron Boozer and Cedric Coward, who gain the most from Morant leaving. Early on, watch Zach Edey's foot, whether Grant or Wells starts at forward, and roster cuts or trades. Also check whether a weak team rests players late despite the new tanking rules.
 
-<sub>16 notes. Built 2026-10-04 with claude-opus-5-5 high, team prompt v1.</sub>
+<sub>16 notes. Built 2026-10-05 with claude-opus-5-5 high, team prompt v1.</sub>

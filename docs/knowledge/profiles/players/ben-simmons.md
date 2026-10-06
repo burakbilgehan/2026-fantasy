@@ -29,17 +29,18 @@
 </details>
 
 **Current**
-- Josh does not think Simmons is worth even a late pick in drafts. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2521))
-- He should be a streamable player at times this season, at around 5 points, 5 rebounds and 5 assists. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1986))
-- He is not in the Kings' projected starting five of Acuff, LaVine, Hunter, Murray and Sabonis. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691))
+- Josh does not think Simmons is worth even a late pick. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2521))
+- He should be a streaming option at times this season, with a line of around 5 points, 5 rebounds and 5 assists. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1986))
+- He is not in the projected Kings starting five of Acuff, LaVine, Hunter, Murray and Sabonis. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691))
 
 **Durable**
-- He makes almost no threes and scores very little, so he hurts 3PM and PTS. (fact, 2026-10-04; stats)
+- He makes no threes, so he gives nothing in 3PM. (fact, 2026-10-05; stats)
+- He scores very little. Points are a weak league outlier for him, and his value comes from rebounds and assists. (fact, 2026-10-05; stats)
 
 **Tags**
-- Current: `waiver watch` (streamable at times for rebounds and assists)
+- Current: `waiver watch` (streamable at times for rebounds and assists, around 5/5/5)
 - Durable: `no 3PM` (0.0 threes per game in every recent season and projection)
 
-**Note.** Both sites value him at 0 USD (Yahoo rank 232, ESPN rank 321), so he will not be among the 144 players drafted in our auction and should not be. At best he is a short-term stream. ESPN projects about 5 points, 5 rebounds and 5 assists in 21 minutes, but he gives nothing in 3PM or PTS and is not in the projected starting five. Early in the season, check whether the Kings give him real minutes before using a waiver move on him.
+**Note.** Simmons is not a draft target. Yahoo ranks him 232 and ESPN ranks him 321, with a value of 0 USD on both sites. Only 144 players get drafted in our league, so leave him on waivers. Early in the season, check whether he gets real rotation minutes in Sacramento, since he is outside the projected starting five. If he does, he can be a short-term stream for assists and rebounds. He costs you in PTS and 3PM.
 
-<sub>2 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

@@ -30,23 +30,29 @@
 </details>
 
 **Current**
-- Do not draft him around rank 80 to 90, where his Yahoo price sits. He is fine value from about rank 100 to 120, near his ESPN rank and ADP. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1620), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1124), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1858), [09-19](https://youtu.be/uarqbNA2dFk?t=958), [09-14](https://youtu.be/t4n9MAP2_14?t=1744))
-- Brooklyn traded him to Chicago. He is on a two-year deal and is the projected starting center, about 90% sure to start over Jalen Smith. (fact, 2026-09-28; [09-26](https://youtu.be/3UGI05PDvrE?t=237), [08-18](https://youtu.be/FxaSnyk9g90?t=772), [09-28](https://youtu.be/3Qm5wLjhvTw?t=281))
-- He may not reach 30 minutes if the Bulls rotate centers and use Jalen Smith for spacing or Zach Collins. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1152), [08-18](https://youtu.be/FxaSnyk9g90?t=155))
-- Chicago plays 10 games in our fantasy playoff weeks (3-3-4) and has 15 back-to-backs, one below the maximum. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2024), [09-28](https://youtu.be/3Qm5wLjhvTw?t=2041))
-- Experts have low hopes for him this season because he has looked disinterested and has struggled. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=868))
+- Do not pay more than about 3 USD for him in an auction. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4236))
+- He is fine to target around rank 100 to 120, which matches his ESPN rank and ADP. Do not take him in the 80s. At his Yahoo price around rank 80 he is the biggest fade on the Bulls. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1620), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1124), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1858), [09-19](https://youtu.be/uarqbNA2dFk?t=958), [09-14](https://youtu.be/t4n9MAP2_14?t=1744))
+- He is on a two-year deal and is projected to start at center for the Bulls. His starting job over Jalen Smith is about 90% sure. (fact, 2026-09-28; [08-18](https://youtu.be/FxaSnyk9g90?t=772), [09-28](https://youtu.be/3Qm5wLjhvTw?t=281))
+- He may not reach 30 minutes if the Bulls rotate centers and use Jalen Smith for spacing or Zach Collins. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1152))
+- The Bulls have a new coach, Tiago Splitter, and are projected to be a bad team that plays at a fast pace. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=98), [09-28](https://youtu.be/3Qm5wLjhvTw?t=172), [08-18](https://youtu.be/FxaSnyk9g90?t=1679), [07-02](https://youtu.be/P6TNP-g0wzY?t=1764))
+- The Bulls play 10 games in our fantasy playoff weeks (3-3-4) and have 15 back-to-backs, one below the maximum. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2024), [09-28](https://youtu.be/3Qm5wLjhvTw?t=2041))
+- He was traded from Brooklyn to Chicago. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=237), [06-23](https://youtu.be/9tb1ARBEmQU?t=934))
+- Experts have low hopes for him. He has looked disinterested and has struggled, and one expert is not sure whether he is washed. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=868), [06-23](https://youtu.be/9tb1ARBEmQU?t=850))
+- A frontcourt of Claxton, Caleb Wilson and Josh Giddey is expected to have terrible spacing. The team lacks shooting. (verdict, 2026-08-18; [06-25](https://youtu.be/lOshTzDA4SA?t=815), [08-18](https://youtu.be/FxaSnyk9g90?t=570))
 
 **Durable**
-- His production has fallen for two to three straight seasons, and his blocks and rim protection have dropped clearly. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1107), [08-18](https://youtu.be/FxaSnyk9g90?t=809), [06-23](https://youtu.be/9tb1ARBEmQU?t=850), [09-19](https://youtu.be/uarqbNA2dFk?t=958), [08-30](https://youtu.be/Alwse2uXzD4?t=1381), stats)
-- Experts do not know if the decline comes from back problems, age-related decline or frustration in Brooklyn. They are not sure whether he is washed. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1107), [08-18](https://youtu.be/FxaSnyk9g90?t=809), [06-23](https://youtu.be/9tb1ARBEmQU?t=850), [09-14](https://youtu.be/t4n9MAP2_14?t=1744))
-- He is worth slightly more in points leagues than in category leagues. (verdict, 2026-09-28; [08-30](https://youtu.be/Alwse2uXzD4?t=1381), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1124))
-- He is a very poor free throw shooter and makes almost no threes. (fact, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1381), stats)
-- He fits a switching, blitzing defensive scheme. Brooklyn used him out on the perimeter. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=780))
+- He is a very poor free throw shooter and hurts FT%. (fact, 2026-10-05; [08-30](https://youtu.be/Alwse2uXzD4?t=1381), stats)
+- He makes almost no threes. (fact, 2026-10-05; stats)
+- His category value comes from FG%, blocks and rebounds. (fact, 2026-10-05; stats)
+- His play has declined over the last two to three seasons, with falling blocks and rim protection. (fact, 2026-09-28; [08-18](https://youtu.be/FxaSnyk9g90?t=809), [06-23](https://youtu.be/9tb1ARBEmQU?t=850), [09-19](https://youtu.be/uarqbNA2dFk?t=958), [08-30](https://youtu.be/Alwse2uXzD4?t=1381), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1107), [09-14](https://youtu.be/t4n9MAP2_14?t=1744))
+- He has had back problems, which may explain part of the decline. (fact, 2026-09-28; [08-18](https://youtu.be/FxaSnyk9g90?t=809), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1107), [09-14](https://youtu.be/t4n9MAP2_14?t=1744))
+- He is slightly better in points leagues than in category leagues. (verdict, 2026-09-28; [08-30](https://youtu.be/Alwse2uXzD4?t=1381), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1124))
+- He fits a switching, blitzing defensive scheme. Brooklyn had pushed him out to the perimeter. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=780))
 
 **Tags**
-- Current: `new team` (Traded from Brooklyn to Chicago), `minutes competition` (Jalen Smith and Zach Collins could cut his center minutes), `bust candidate` (At his Yahoo rank of about 80 to 89; fine around 100 to 120), `sites disagree on price` (Yahoo rank 89 vs ESPN rank 119)
-- Durable: `FT% liability` (About 59% FT projected), `no 3PM`, `punt FT fit`, `punt 3PM fit`, `points league player` (Slightly better in points; Yahoo rank fits points, not cats)
+- Current: `new team` (traded from Brooklyn to Chicago), `minutes competition` (Jalen Smith and Zach Collins could take center minutes), `bust candidate` (at Yahoo rank around 80 to 89), `flyer` (fine around ESPN rank 119 or up to about 3 USD), `sites disagree on price` (Yahoo rank 89 and 7 USD value, ESPN rank 119 and 2 USD value), `bottom team`, `new coach` (Tiago Splitter), `fast pace`, `many back-to-backs` (15 back-to-backs)
+- Durable: `FT% liability` (about 59% FT projected), `punt FT fit`, `no 3PM`, `punt 3PM fit`, `points league player` (slightly better in points leagues)
 
-**Note.** With 144 players drafted, his ESPN rank of 119 (1 USD) is the price the experts endorse, not his Yahoo rank of 89 or the 7 USD Yahoo value. Last season our league paid 4 USD for him, and a 1 to 3 USD bid is about right. He fits a punt FT% build, where his projected FG% (59%) and blocks matter and his 59% FT% does not. Early in the season, check that he gets close to 30 minutes ahead of Jalen Smith and Zach Collins, and that his blocks come back above the 1.1 per game he averaged last season.
+**Note.** Claxton is a late flyer for us. Pay up to about 3 USD, close to his Yahoo average cost of 2.6 USD and the 4 USD he went for in our league last season. Do not pay anything near his Yahoo value of 7 USD or take him at his Yahoo rank of 89. He fits punt FT% builds that also give up threes, and his value comes from FG% (59% projected), blocks and rebounds. Early in the season, check that he starts and plays close to 30 minutes ahead of Jalen Smith and Zach Collins, and whether his blocks recover toward the 2023-24 level of 2.1.
 
-<sub>15 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>16 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

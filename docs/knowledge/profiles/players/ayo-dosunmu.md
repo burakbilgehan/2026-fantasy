@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 5 | 1.0 | 104 | 2 | 1.0 | 108 | not drafted |
+| 2026-27 | 5 | 1.0 | 104 | 2 | 1.1 | 108 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,22 +30,23 @@
 </details>
 
 **Current**
-- Minnesota plays only two games in the week starting March 15, which is week 20 of our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
-- Ranked tier 8 among point guards. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2118))
-- Minnesota has four set starters: LaMelo Ball, Anthony Edwards, Jaden McDaniels and Rudy Gobert. Jonathan Kuminga is expected to start. (fact, 2026-08-26; [08-19](https://youtu.be/2mxpEpGU3H8?t=603), [08-26](https://youtu.be/sTtFUy7IoJI?t=576))
-- Expected to come off the bench as a scorer and play 29 to 30 minutes. He may still play more minutes than Josh Green and close games. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=653))
-- Minnesota's bench is thin and has little scoring punch. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=845))
-- His usage should drop because he shares the ball with LaMelo Ball and Anthony Edwards. He is the third offensive option at best, so his upside is capped. Experts say not to pay for the hype. (verdict, 2026-07-17; [06-25](https://youtu.be/ya2VYRJ1BN0?t=470), [07-17](https://youtu.be/NYTH7uQsPCM?t=1246), [07-16](https://youtu.be/-y6p5PYLf00?t=383))
-- His 2025-26 shooting gains (3P% from 33 to 44, FT% from 78 to 88) and his 71% deflection-to-steal conversion are likely to come down. (verdict, 2026-07-17; [07-16](https://youtu.be/-y6p5PYLf00?t=383), [07-16](https://youtu.be/-y6p5PYLf00?t=1838), [07-17](https://youtu.be/NYTH7uQsPCM?t=1246))
-- Donte DiVincenzo is expected to miss most of the season, so Minnesota is short on guards. (fact, 2026-06-23; [06-22](https://youtu.be/HxQjagSTTAM?t=883), [06-23](https://youtu.be/9tb1ARBEmQU?t=263))
+- Four Minnesota starters are set: LaMelo Ball, Anthony Edwards, Jaden McDaniels and Rudy Gobert. The fifth starting spot is open. Jonathan Kuminga has signed and is expected to start, but his spot is not guaranteed. (fact, 2026-10-04; [08-19](https://youtu.be/2mxpEpGU3H8?t=603), [08-26](https://youtu.be/sTtFUy7IoJI?t=576), [10-04](https://youtu.be/n4KkK-OJjqA?t=669))
+- Minnesota's bench is thin. It has little scoring and no ball handlers. (fact, 2026-10-02; [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [10-02](https://youtu.be/ZYllcj4o6_A?t=2323))
+- Minnesota has a two-game week in the matchup that starts March 15. That week falls inside our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
+- Ranked in tier 8 of point guards for category leagues, and tier 7 in points leagues. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2118))
+- He will likely come off the bench as a scorer. He may still play more minutes than Josh Green and close games. The expected load is 29 to 30 minutes. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=653))
+- Minnesota is projected to be competitive, at about 53 wins. It is not expected to rest players for tanking. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1830), [07-13](https://youtu.be/Rqb5GdrSweY?t=1051))
+- Ball and Edwards make him the third offensive option even if he starts. His usage will probably drop, and that caps his fantasy upside. (verdict, 2026-07-17; [06-25](https://youtu.be/ya2VYRJ1BN0?t=470), [07-17](https://youtu.be/NYTH7uQsPCM?t=1246), [07-16](https://youtu.be/-y6p5PYLf00?t=383))
+- His shooting may regress. His 3P% jumped from 33 to 44 and his FT% from 78 to 88. His 71% rate of turning deflections into steals may also come down. (verdict, 2026-07-17; [07-16](https://youtu.be/-y6p5PYLf00?t=383), [07-16](https://youtu.be/-y6p5PYLf00?t=1838), [07-17](https://youtu.be/NYTH7uQsPCM?t=1246))
+- Experts expect him to be a popular target and advise against following the hype. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=383), [06-25](https://youtu.be/ya2VYRJ1BN0?t=470))
 
 **Durable**
-- His category line is balanced. He has no strong outlier and no weak category. (fact, 2026-10-04; stats)
+- His category profile is balanced. No category is a league outlier, either strong or weak. (fact, 2026-10-05; stats)
 
 **Tags**
-- Current: `minutes competition` (Josh Green and Jonathan Kuminga compete with him for the fifth starter spot. He is expected to come off the bench.), `role down` (lower usage next to LaMelo Ball and Anthony Edwards), `regression risk` (3P% jumped from 33 to 44 and FT% from 78 to 88. His steal conversion rate is also high.), `bad playoff schedule` (two-game week starting March 15 (week 20))
-- Durable: `fits every build` (no category flagged weak)
+- Current: `minutes competition` (Competes with Jonathan Kuminga and Josh Green for the open fifth starting spot), `usage competition` (Third option behind LaMelo Ball and Anthony Edwards), `role down` (Usage expected to drop after LaMelo Ball's arrival), `regression risk` (3P% rose from 33 to 44, FT% from 78 to 88, and his steal conversion rate is high), `bad playoff schedule` (Two-game week in the matchup starting March 15), `winning team` (Projected at about 53 wins), `low shutdown risk`, `thin rotation` (Thin bench with little scoring and no ball handlers)
+- Durable: `stable starters` (Finch rarely changes starters unless someone is hurt), `fits every build` (No weak category)
 
-**Note.** At rank 104 on Yahoo and 108 on ESPN, valued at 2 to 5 USD with an average cost of 1 USD, he is an end-of-draft guard in our 144-player auction. Pay no more than a few dollars, because his usage drops next to Ball and Edwards, his shooting may regress, and Minnesota has a two-game week in week 20. His balanced line fits any build. Early in the season, check whether he plays 29 or more minutes and closes games, and whether his 3P% and FT% hold.
+**Note.** He ranks about 104 on Yahoo and 108 on ESPN, so he should be drafted in our 144-player pool. His average cost is only about 1 USD on both sites, so treat him as a 1 to 3 USD end-game guard who fits any build. His 2025-26 line (51.7 FG%, 87.6 FT%, 1.8 3PM) depended on big jumps in his shooting rates, and he now shares the ball with Ball and Edwards. In the first weeks, check whether he starts or plays about 30 minutes off the bench, and whether his 3P% and FT% hold. Also keep in mind the two-game week starting March 15.
 
-<sub>7 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>7 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

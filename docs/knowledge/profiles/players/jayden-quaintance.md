@@ -26,24 +26,25 @@
 </details>
 
 **Current**
-- He is not a draft target in our 144-player auction. His projected Yahoo value is 0 USD. (verdict, 2026-10-04; stats, [08-27](https://youtu.be/ZAyie8lKyYc?t=231))
-- He is a rookie recovering from another knee surgery. The early timetable was about six months, and Yahoo lists him as out (knee). (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=231), [08-02](https://youtu.be/TOn-D1SV7a8?t=422), stats)
-- The Spurs have not ruled him out for the season. He could play at some point this season, but it is uncertain. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=231))
-- He sits behind Victor Wembanyama. The Spurs drafted three centers and have a very deep forward group. (fact, 2026-08-27; [06-26](https://youtu.be/CLsUc0Sevos?t=1423), [08-27](https://youtu.be/ZAyie8lKyYc?t=267), [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
-- After the latest knee surgery, he dropped to 27th in dynasty rookie rankings (tier six). (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=422))
-- Becoming a starter will take time. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1423))
+- He is not a draft target in our league. His projected line has almost no value, even when he plays. (verdict, 2026-10-05; stats)
+- He is a rookie and is out after another knee surgery. Yahoo lists him as out (knee). (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=231), [08-02](https://youtu.be/TOn-D1SV7a8?t=422), stats)
+- The early recovery timetable was about six months. The Spurs have not ruled him out for the season. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=231))
+- He could play at some point this season, but that is uncertain. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=231))
+- The Spurs are very deep at forward. They drafted three centers and brought in younger backup centers. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=267), [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
+- He sits behind Victor Wembanyama. Becoming a starter will take time. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1423))
 
 **Durable**
-- He makes no threes and scores little. Blocks and rim finishing are where his value would come from. (fact, 2026-10-04; stats, [06-22](https://youtu.be/HxQjagSTTAM?t=810))
-- He has had repeated knee surgeries, and experts flag ongoing knee risk. (fact, 2026-08-27; [08-02](https://youtu.be/TOn-D1SV7a8?t=422), [06-26](https://youtu.be/CLsUc0Sevos?t=1415), [06-22](https://youtu.be/HxQjagSTTAM?t=810), [08-27](https://youtu.be/ZAyie8lKyYc?t=231))
+- He makes almost no threes. (fact, 2026-10-05; stats)
 - If he stays healthy, he is projected to become a dominant defensive player. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=274))
-- He is very young, a strong shot blocker and a big who runs the rim. (fact, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=810))
-- His free throw shooting is very poor. (verdict, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=810), stats)
+- He has had repeated knee surgeries. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=422), [06-26](https://youtu.be/CLsUc0Sevos?t=1415))
+- His knee carries ongoing risk. He may need more surgery. (verdict, 2026-08-02; [06-26](https://youtu.be/CLsUc0Sevos?t=1415), [08-02](https://youtu.be/TOn-D1SV7a8?t=422))
+- He is very young. He is a strong shot blocker who runs the rim. (fact, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=810))
+- His free throw shooting is very poor. (verdict, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=810))
 
 **Tags**
-- Current: `rookie`, `injured now` (Recovering from knee surgery. The early timetable was about six months. Yahoo status O (knee).), `minutes competition` (Behind Wembanyama in a deep Spurs frontcourt that added three drafted centers)
-- Durable: `injury prone` (Repeated knee surgeries), `no 3PM`
+- Current: `rookie` (2026 draft pick), `injured now` (Recovering from knee surgery, about a six-month timetable, Yahoo status O), `minutes competition` (Behind Wembanyama in a deep Spurs frontcourt), `deep rotation` (Spurs very deep at forward and added three drafted centers)
+- Durable: `injury prone` (Repeated knee surgeries), `no 3PM` (Rim runner, projected 0.0 threes)
 
-**Note.** Leave him out of the 2026-10-18 auction. He is out after another knee surgery, Yahoo values him at 0 USD (rank 666), and even healthy he would back up Wembanyama. Watch for news on his return during the season. If he gets real minutes, his blocks and FG% could help a streaming spot, but his poor free throws, lack of threes and low scoring keep his ceiling low for us this season.
+**Note.** Yahoo gives him 0 USD and ranks him 666th. ESPN has no price for him, so he is nowhere near our 144-player auction pool. He is out after another knee surgery and has no clear return date. Even when healthy, his projected line is mostly blocks and empty free throws behind Wembanyama. Do not draft him. Check his status only if news of a return comes during the season.
 
-<sub>6 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>6 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

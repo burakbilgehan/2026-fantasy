@@ -53,26 +53,26 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Amen Thompson](../profiles/players/amen-thompson.md) | HOU | G | 20 | 24.0 | 13 | 37.1 | 38 | The best guard fit for punting threes: about 0.3 threes a game, plus 54% FG, 7.7 rebounds, steals and blocks from a guard slot. |
-| [Jalen Duren](../profiles/players/jalen-duren.md) | DET | C | 33 | 18.2 | 23 | 24.0 | 14 | A FG% and rebounds anchor with real scoring and no threes, so he loses nothing in this build. |
+| [Amen Thompson](../profiles/players/amen-thompson.md) | HOU | G | 20 | 24.0 | 13 | 37.0 | 38 | The best guard fit for punting threes: about 0.3 threes a game, plus 54% FG, 7.7 rebounds, steals and blocks from a guard slot. |
+| [Jalen Duren](../profiles/players/jalen-duren.md) | DET | C | 33 | 18.2 | 23 | 24.1 | 14 | A FG% and rebounds anchor with real scoring and no threes, so he loses nothing in this build. |
 | [Dyson Daniels](../profiles/players/dyson-daniels.md) | ATL | G,F | 61 | 4.4 | 38 | 9.7 | 28 | A steals anchor who also adds rebounds, assists and FG% while making only about 0.5 threes a game. |
-| [Ausar Thompson](../profiles/players/ausar-thompson.md) | DET | G,F | 77 | 3.2 | 78 | 2.5 | 16 | Elite steals plus good FG%, rebounds and blocks with almost no threes, best if you also punt FT%. |
-| [Jarrett Allen](../profiles/players/jarrett-allen.md) | CLE | C | 65 | 2.8 | 49 | 7.0 | 13 | A steady FG% and rebounds center who could push his FG% back toward 66% next to Harden. |
-| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 57 | 8.2 | 81 | 3.6 | 20 | A FG% and rebounds anchor whose weak FT% hurts only a little because of low volume. |
+| [Ausar Thompson](../profiles/players/ausar-thompson.md) | DET | G,F | 77 | 3.2 | 78 | 2.4 | 16 | Elite steals plus good FG%, rebounds and blocks with almost no threes, best if you also punt FT%. |
+| [Jarrett Allen](../profiles/players/jarrett-allen.md) | CLE | C | 65 | 2.8 | 49 | 6.9 | 13 | A steady FG% and rebounds center who could push his FG% back toward 66% next to Harden. |
+| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 57 | 8.2 | 81 | 3.5 | 20 | A FG% and rebounds anchor whose weak FT% hurts only a little because of low volume. |
 
 ### Value at price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Rudy Gobert](../profiles/players/rudy-gobert.md) | MIN | C | 82 | 7.2 | 55 | 4.6 | 10 | About 11 rebounds, 1.6 blocks and 67% FG, but his FT% means he fits only teams that punt FT% too. |
+| [Rudy Gobert](../profiles/players/rudy-gobert.md) | MIN | C | 82 | 7.2 | 55 | 4.7 | 10 | About 11 rebounds, 1.6 blocks and 67% FG, but his FT% means he fits only teams that punt FT% too. |
 | [Zach Edey](../profiles/players/zach-edey.md) | MEM | C | 70 | 7.2 | 113 | 1.4 | 2 | A strong FG%, REB and BLK source for big-man builds that can punt TO, with ankle risk. |
-| [Zion Williamson](../profiles/players/zion-williamson.md) | NOP | F,C | 78 | 4.0 | 96 | 6.6 | 21 | Strong FG% and 22 to 23 points with no threes, as long as you pay below his inflated ADP. |
+| [Zion Williamson](../profiles/players/zion-williamson.md) | NOP | F,C | 78 | 4.0 | 96 | 6.5 | 21 | Strong FG% and 22 to 23 points with no threes, as long as you pay below his inflated ADP. |
 
 ### Late flyers
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Isaiah Hartenstein](../profiles/players/isaiah-hartenstein.md) | OKC | C | 103 | 1.2 | 135 | 0.5 | 11 | Zero threes, but rebounds, assists, steals and 61% FG, and his FT% costs little on about 2 attempts a game. |
+| [Isaiah Hartenstein](../profiles/players/isaiah-hartenstein.md) | OKC | C | 103 | 1.2 | 135 | 0.6 | 11 | Zero threes, but rebounds, assists, steals and 61% FG, and his FT% costs little on about 2 attempts a game. |
 | [Day'Ron Sharpe](../profiles/players/dayron-sharpe.md) | BKN | C | 91 | 5.6 | 136 | 0.3 | not drafted | Rebounds, steals and FG% with almost no threes, worth more if his minutes reach the mid 20s. |
 | [Collin Murray-Boyles](../profiles/players/collin-murray-boyles.md) | TOR | F,C | 111 | 1.0 | 174 | 0.3 | not drafted | Adds 58% FG on low volume, blocks and steals with few turnovers, and has top 70 upside at 30 minutes. |
 | [Nic Claxton](../profiles/players/nic-claxton.md) | CHI | C | 89 | 2.6 | 119 | 1.0 | 4 | Projected 59% FG and blocks with no threes, best next to a punt FT% core. |
@@ -82,12 +82,12 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 | [Yves Missi](../profiles/players/yves-missi.md) | NOP | C | 143 | - | 164 | 0.0 | 2 | A blocks source who adds FG% on low volume with few turnovers, if he keeps the starting job. |
 | [Moussa Diabaté](../profiles/players/moussa-diabate.md) | CHA | C | 138 | 0.0 | 160 | 0.1 | not drafted | Helps FG% (61.6%) and rebounds (8.0 projected) at almost no cost, but adds little in points. |
 | [Isaiah Jackson](../profiles/players/isaiah-jackson.md) | LAC | C | 326 | - | 233 | 0.0 | 1 | About 62.6% FG on low volume and about 1 block a game from a cheap starting center, until Konan Niederhäuser returns. |
-| [Derik Queen](../profiles/players/derik-queen.md) | NOP | F,C | 96 | 5.0 | 95 | 1.7 | not drafted | Rebounds, assists, steals and blocks fit the build, but his FG% gives no boost for a big. |
-| [Kevin Porter Jr.](../profiles/players/kevin-porter.md) | MIL | G | 158 | 1.0 | 107 | 1.0 | 3 | A guard who adds steals and assists with about 1 three a game, easy to drop if his role shrinks. |
+| [Derik Queen](../profiles/players/derik-queen.md) | NOP | F,C | 96 | 5.0 | 95 | 1.8 | not drafted | Rebounds, assists, steals and blocks fit the build, but his FG% gives no boost for a big. |
+| [Kevin Porter Jr.](../profiles/players/kevin-porter.md) | MIL | G | 158 | 1.0 | 107 | 1.1 | 3 | A guard who adds steals and assists with about 1 three a game, easy to drop if his role shrinks. |
 | [Tre Jones](../profiles/players/tre-jones.md) | CHI | G | 148 | 1.0 | 179 | 0.0 | not drafted | Assists, a guard's FG% (54.5% projected) and few turnovers, more likely a waiver add than a pick. |
-| [Jaime Jaquez Jr.](../profiles/players/jaime-jaquez.md) | MIL | G,F | 140 | 1.0 | 148 | 0.8 | not drafted | FG%, assists and rebounds from a wing, though the sites disagree on how efficient he will be. |
-| [Yaxel Lendeborg](../profiles/players/yaxel-lendeborg.md) | GSW | F | 144 | 1.0 | 173 | 0.4 | not drafted | A forward who adds rebounds, assists, steals and blocks, with threes as his weakest category. |
-| [DeMar DeRozan](../profiles/players/demar-derozan.md) | DEN | F | 102 | 1.5 | 102 | 1.9 | 10 | Fits for points, FT% and low turnovers but adds nothing in FG%, REB or BLK. |
+| [Jaime Jaquez Jr.](../profiles/players/jaime-jaquez.md) | MIL | G,F | 140 | 1.0 | 148 | 0.9 | not drafted | FG%, assists and rebounds from a wing, though the sites disagree on how efficient he will be. |
+| [Yaxel Lendeborg](../profiles/players/yaxel-lendeborg.md) | GSW | F | 144 | 1.0 | 173 | 0.6 | not drafted | A forward who adds rebounds, assists, steals and blocks, with threes as his weakest category. |
+| [DeMar DeRozan](../profiles/players/demar-derozan.md) | DEN | F | 102 | 1.5 | 102 | 2.0 | 10 | Fits for points, FT% and low turnovers but adds nothing in FG%, REB or BLK. |
 
 ### Waiver watch
 
@@ -112,7 +112,7 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
 <details><summary>Left out</summary>
 
-- Jonas Valančiūnas: His minutes fell to 13.4 a game and the experts say Denver's backup centers rarely produce, so he does not fit even as a waiver target.
+- jonas-valanciunas: His minutes fell to 13.4 a game and the experts say Denver's backup centers rarely produce, so he does not fit even as a waiver target.
 - Aday Mara: A deep third-string center with a weak projection. He is irrelevant unless Hartenstein or Holmgren miss games.
 - Jayden Quaintance: He is out after another knee surgery and would back up Wembanyama even when healthy, so his ceiling is too low this season.
 

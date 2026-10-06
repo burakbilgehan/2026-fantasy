@@ -1,0 +1,898 @@
+{
+ "video": {
+  "id": "n4KkK-OJjqA",
+  "title": "The Fantasy Basketball Sleepers You NEED To Pay Attention To",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-10-04",
+  "duration": "34:48",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-05T19:37:57+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.331812,
+  "duration_ms": 86276,
+  "turns": 2,
+  "denied": 0
+ },
+ "summary": "Josh Lloyd lists fantasy basketball sleepers he thinks are drafted or ranked too late. He uses Yahoo ranks, Yahoo ADP and Fantrax ADP, and skips ESPN because its rankings have not been updated. He covers category leagues first, then Yahoo points leagues. His main targets are players he sees as discounted for risk: Anthony Davis, Kyrie Irving, Darius Garland, Paul George, Dejounte Murray, Brandon Miller, Dyson Daniels, Ausar Thompson, Coby White and Day'Ron Sharpe. For points leagues he adds Paolo Banchero, Stephon Castle, Jaylen Brown, Deni Avdija, Domantas Sabonis, Rudy Gobert and CJ McCollum. His central argument is that a big gap between a player's price and his expected finish protects you even if the player falls short.",
+ "rules": [
+  {
+   "text": "Look for large gaps between ADP and expected value, not small ones. A gap of a few spots leaves little margin for error. A gap of 15 to 20 spots protects you even if the player underperforms.",
+   "ts": "3:39",
+   "quote": "If he's 40th and I think he's 24th, well, even if he doesn't live up to my expectation, I got a big gap",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 227
+  },
+  {
+   "text": "ADP is an average and can mislead. A median draft position would be more useful. An ADP of 46 means the player goes outside the top 50 in some leagues.",
+   "ts": "4:12",
+   "quote": "I do wish they would do an MDP, a median draft position. I think that would probably give us better results",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 256
+  },
+  {
+   "text": "Players with injury or age risk can be good value when the discount is large enough, because the risk is already priced in.",
+   "ts": "4:44",
+   "quote": "this is a middle of the second round sort of a player. We're already baking in three rounds of value here.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 304
+  },
+  {
+   "text": "If you do not want to punt free throws, do not draft Giannis at all. Fantrax ADPs mix formats and can be distorted.",
+   "ts": "14:44",
+   "quote": "I don't want to punt free throws then don't take him like at all. Don't take him at nine.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 884
+  },
+  {
+   "text": "Assists are scarce in the middle rounds. Hybrid guards who can get 4 to 6 assists are worth targeting there.",
+   "ts": "16:53",
+   "quote": "Getting a high assist player at this point in the draft is difficult. And all of these guys could get five, six.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1031
+  },
+  {
+   "text": "Steals are volatile game to game, week to week and year to year. Good steals players still keep providing value over time.",
+   "ts": "17:54",
+   "quote": "The Steels are a tough category. They vary game to game, week to week, year to year a lot.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1066
+  },
+  {
+   "text": "Late in drafts, target functional centers who provide cheap rebounds and blocks.",
+   "ts": "18:55",
+   "quote": "when you're looking for a functional center around that spot, functional microwave cover, easy.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1139
+  },
+  {
+   "text": "Small differences at the top of a draft matter more than small differences later on.",
+   "ts": "20:59",
+   "quote": "the pointy end of a draft it is it is important those small differences at the top.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1264
+  },
+  {
+   "text": "Yahoo ranks and ADP are format agnostic. Players who are much better in points leagues than in category leagues can be big points league values.",
+   "ts": "22:34",
+   "quote": "Remembering that Yahoo ranks and ADPs are format agnostic. They don't care that you're in a points league or a category league.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1364
+  },
+  {
+   "text": "Learn how a site presents its information and how player value differs across formats. You can gain value from the gaps.",
+   "ts": "23:36",
+   "quote": "understanding how a player differs in different formats and how you can split the gaps on that is a great way",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1442
+  },
+  {
+   "text": "A risky late pick that fails does not ruin a draft when the upside is high.",
+   "ts": "28:16",
+   "quote": "Let's say you pick him at 80 and he plays 20 games. Does that kill your draft? No.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1698
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Giannis Antetokounmpo",
+   "said_as": "Yanni Dakmpo",
+   "team": "MIA",
+   "horizon": "current",
+   "text": "Still undervalued on Yahoo with an ADP of 7. He played basically as a point guard in Miami's first preseason game. He is clearly the 5th pick in category leagues. Some injury worry, but not much.",
+   "ts": "1:32",
+   "quote": "We saw the first heat preseason game. He was playing basically as a point guard.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 104
+  },
+  {
+   "player": "Giannis Antetokounmpo",
+   "said_as": "Jiannis onto Kmpo",
+   "team": "MIA",
+   "horizon": "current",
+   "text": "Fantrax ADP of 9 makes no sense to the speaker. Either take him early or avoid him if you do not want to punt free throws.",
+   "ts": "14:11",
+   "quote": "they've got Jiannis onto Kmpo with an ADP of nine.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 871
+  },
+  {
+   "player": "Giannis Antetokounmpo",
+   "said_as": "Yanni",
+   "team": "MIA",
+   "horizon": "current",
+   "text": "In Yahoo points leagues he is ranked 6 with ADP 7 but could go 4th. He could finish ahead of Shai in points leagues.",
+   "ts": "20:59",
+   "quote": "I I think he could easily finish ahead of Shay in points leagues",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1271
+  },
+  {
+   "player": "LaMelo Ball",
+   "said_as": "LaMelo Ball",
+   "team": "",
+   "horizon": "current",
+   "text": "A rank of 24 is a little low even after accounting for his ankles, his minutes and playing next to Ant. There is real value there.",
+   "ts": "2:05",
+   "quote": "I take all that into consideration. I just think at 24 there is actual real value there at LaMelo.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 131
+  },
+  {
+   "player": "Anthony Davis",
+   "said_as": "Anthony Davis",
+   "team": "",
+   "horizon": "current",
+   "text": "Going at pick 43 with a rank of 45, which is far too late. The speaker would be comfortable taking him around 25 or 26. He is not injured now. He had injuries last season, partly fake in Washington. Do not expect 75 games.",
+   "ts": "2:35",
+   "quote": "at that late of a pick, I'd be comfortable at like 25, 26 for Anthony Davis.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 180
+  },
+  {
+   "player": "Anthony Davis",
+   "said_as": "Anthony Davis",
+   "team": "",
+   "horizon": "current",
+   "text": "A value in points leagues too at rank 45 and ADP 43.",
+   "ts": "22:34",
+   "quote": "Continue to bang the Anthony Davis is sitting too low drum with a rank of 45 and an ADP of 43.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1357
+  },
+  {
+   "player": "Brandon Miller",
+   "said_as": "Brandon Miller",
+   "team": "CHA",
+   "horizon": "current",
+   "text": "Has no shoulder restrictions heading into camp. His Yahoo ADP is 46 and a top 30 season is possible. Take him without much questioning.",
+   "ts": "3:39",
+   "quote": "His ADP is 46. I think a top 30 season is I won't say probable, but it's it's on the cards.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 244
+  },
+  {
+   "player": "Brandon Miller",
+   "said_as": "Brandon Malar",
+   "team": "CHA",
+   "horizon": "current",
+   "text": "Underpriced on Fantrax with an ADP of 44. Worth a round 3 pick.",
+   "ts": "15:16",
+   "quote": "I don't really know why why we're just not really buying in on Brandon Miller and ADP of 44.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 924
+  },
+  {
+   "player": "Kyrie Irving",
+   "said_as": "Kyrie Irving",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Yahoo rank 46, ADP 52. He is coming off a torn ACL from 18 months ago. He is old, could get traded and could have restrictions, but he is a middle of the second round player. The speaker has drafted him.",
+   "ts": "4:44",
+   "quote": "Kyrie Irving sits with a rank of 46 and ADP of 52. Kyrie is coming off a torn ACL",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 287
+  },
+  {
+   "player": "Kyrie Irving",
+   "said_as": "Kyrie",
+   "team": "DAL",
+   "horizon": "current",
+   "text": "Fantrax ADP is 51, which is round 5 and too late. He could play 33 minutes a night right away.",
+   "ts": "15:47",
+   "quote": "He could easily just come in and play 33 minutes a night straight out of the shoot.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 953
+  },
+  {
+   "player": "Darius Garland",
+   "said_as": "Darius Garl Garland",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Likely a top 30 player with around 30% usage. Yahoo ADP is 62 and rank is 54. The Clippers might rest him, but that risk is small.",
+   "ts": "5:46",
+   "quote": "this is a probably a top 30 player who's going to hit 30 usage. He's going at 62.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 372
+  },
+  {
+   "player": "Darius Garland",
+   "said_as": "Darius Garland",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Fantrax ADP of 54 is still too late. Consider him in round 3.",
+   "ts": "15:47",
+   "quote": "Darius Garland, also another favorite target of mine with an ADP of 54.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 958
+  },
+  {
+   "player": "Darius Garland",
+   "said_as": "Darius Gallo Garland",
+   "team": "LAC",
+   "horizon": "current",
+   "text": "Points league ADP is 64. There is some risk of injury or of the team easing off late in the season, but the value outweighs it.",
+   "ts": "26:43",
+   "quote": "Darius Gallo Garland sits there with an ADP of 64.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1607
+  },
+  {
+   "player": "Paul George",
+   "said_as": "Paul George",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Being drafted around 80. He was top 50 per game last season as the third option in Philadelphia. Now he is the number two option in Boston. The speaker loves him in the 60s.",
+   "ts": "6:18",
+   "quote": "Paul George is getting drafted at 80. Paul George was a top 50 per game player last season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 384
+  },
+  {
+   "player": "Paul George",
+   "said_as": "Paulie George",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Fantrax ADP of 75 is too low. There is little risk at that price.",
+   "ts": "15:47",
+   "quote": "ADP75 for him is just too low.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 976
+  },
+  {
+   "player": "Paul George",
+   "said_as": "Paul George",
+   "team": "BOS",
+   "horizon": "durable",
+   "text": "He is a better category league player than points league player.",
+   "ts": "30:22",
+   "quote": "He is a better category league guy than a than a points league player.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1836
+  },
+  {
+   "player": "Paul George",
+   "said_as": "Paul George",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Points league ADP 80, rank 79. Next to Tatum and Derrick White he should get more usage and minutes, and he enters the season healthy.",
+   "ts": "30:52",
+   "quote": "he's got Tatum and Derek White now so he should see more usage he should play more minutes",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1860
+  },
+  {
+   "player": "Nickeil Alexander-Walker",
+   "said_as": "Nquil Alexander Walker",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Yahoo rank 56, ADP 60. Little has changed since last season, though his second half shooting probably will not hold. He is not losing his starting spot to Lu Dort. The speaker calls him free money.",
+   "ts": "6:48",
+   "quote": "NAW is ranked at 56 with an ADA app 60. What has materially changed for Alexander Walker versus last season?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 422
+  },
+  {
+   "player": "Nickeil Alexander-Walker",
+   "said_as": "Alexander Walker",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "If Dort starts, it would likely be in place of CJ McCollum. That would mean more shots and assists for Alexander-Walker.",
+   "ts": "7:20",
+   "quote": "it would probably be at the expense of C.J. McCullum. And do you know what that means? More shots and more assists",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 448
+  },
+  {
+   "player": "Dyson Daniels",
+   "said_as": "Dyson Daniels",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "The speaker faded him last season. He had a poor shooting year and only 2 steals, and both numbers can probably only go up. He is a better defender than Dort. Yahoo rank 61, ADP 64.",
+   "ts": "7:50",
+   "quote": "he went and had a horrible shooting season and only had two steals. both of those shooting the shooting numbers",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 472
+  },
+  {
+   "player": "Dyson Daniels",
+   "said_as": "Dyson Daniels",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Fantrax ADP 57 is about 15 spots too low. Fine to take him in the 40s or around 50.",
+   "ts": "16:20",
+   "quote": "Dyson Daniels sitting at ADP of 57 is probably 15 spots too low.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 995
+  },
+  {
+   "player": "Dyson Daniels",
+   "said_as": "Dyson",
+   "team": "ATL",
+   "horizon": "durable",
+   "text": "An elite steals player whose steals vary year to year. He is not only a steals player, and he can get 5 to 6 assists.",
+   "ts": "17:54",
+   "quote": "This is the obvious example is the Dyson Daniels one. It's it's incredibly clear. We saw it. But he's still good at it.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1079
+  },
+  {
+   "player": "Dyson Daniels",
+   "said_as": "Dyson Daniels",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Also a points league target at ADP 64. He was 57th last season and 40th after the Trae Young trade. He rebounded much more under a changed scheme.",
+   "ts": "27:13",
+   "quote": "His ADP is 64. Last season, he was 57th, but he was also 40th down the stretch after the Trey Young trade.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1656
+  },
+  {
+   "player": "Dejounte Murray",
+   "said_as": "Jonte Murray",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Yahoo ADP 70 makes no sense. He was 46th last season despite limited minutes after his Achilles injury. He will start with no minutes limit, locked in next to Murphy and Zion despite Jeremiah Fears. The speaker's favorite sleeper.",
+   "ts": "8:20",
+   "quote": "Yeah, he was 46th last season. Why would he be limited this season? He's going to start.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 522
+  },
+  {
+   "player": "Dejounte Murray",
+   "said_as": "Dejonte Mar",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "In points leagues he was 53rd last season on a minutes limit and is going at 70. The Achilles injury is behind him.",
+   "ts": "27:13",
+   "quote": "Bro was 53rd last season on minutes limits coming back. He's going at 70.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1643
+  },
+  {
+   "player": "Matas Buzelis",
+   "said_as": "Matas Bazalis",
+   "team": "CHI",
+   "horizon": "current",
+   "text": "Now ranked 69 on Yahoo. He could be ranked around 44 to 51. Still a lot of value.",
+   "ts": "8:52",
+   "quote": "he's ranked at 69 gig and while that's a pretty nice spot to be why can't he be 51 or 48 or 44",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 560
+  },
+  {
+   "player": "Ausar Thompson",
+   "said_as": "Assad Thompson",
+   "team": "DET",
+   "horizon": "current",
+   "text": "Yahoo rank 77, ADP 85. The speaker distrusts JB Bickerstaff's minutes comments but expects Thompson to play more and take on more usage.",
+   "ts": "9:23",
+   "quote": "Thompson's ranked at 77 7 his ADP he's 85.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 584
+  },
+  {
+   "player": "Ausar Thompson",
+   "said_as": "Assad Thompson",
+   "team": "DET",
+   "horizon": "current",
+   "text": "Fantrax ADP 80. Fine to take him in the 60s.",
+   "ts": "16:53",
+   "quote": "Thompson in the 60s go for it.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1019
+  },
+  {
+   "player": "Ausar Thompson",
+   "said_as": "Assar",
+   "team": "DET",
+   "horizon": "durable",
+   "text": "A big steals player who also blocks shots and is not a bad rebounder. He has plenty of weaknesses, but his scoring should rise. He can probably get around 4 assists.",
+   "ts": "18:24",
+   "quote": "Assar block shots. not a bad rebounder. He has plenty of deficiencies, but I think his scoring is going to rise",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1096
+  },
+  {
+   "player": "Coby White",
+   "said_as": "Kobe White",
+   "team": "",
+   "horizon": "current",
+   "text": "His ADP is low because last season was hurt by limited minutes, multiple calf injuries and a backup role in Charlotte. None of those apply now. Yahoo ADP 89. The speaker drafts him often.",
+   "ts": "10:27",
+   "quote": "Well, no calf injury, no backup role, no limited minutes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 627
+  },
+  {
+   "player": "Coby White",
+   "said_as": "Kobe White",
+   "team": "",
+   "horizon": "current",
+   "text": "Fantrax ADP 84. Fine to take him in the 60s. He can get 5 to 6 assists, but he is not a big steals player.",
+   "ts": "16:53",
+   "quote": "Kobe White in the 60s absolutely no problem because again we get down to scarcity as well.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1022
+  },
+  {
+   "player": "Coby White",
+   "said_as": "Kobe White",
+   "team": "",
+   "horizon": "current",
+   "text": "Points league ADP 89. He was 130th in points leagues last season on 25 minutes a night. He could add 6 to 7 minutes and average 20 or more points.",
+   "ts": "32:26",
+   "quote": "He was 130th in points leagues last season. He played 25 minutes a night. Can he play seven more minutes?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1948
+  },
+  {
+   "player": "Jaden McDaniels",
+   "said_as": "Jaden McDaniels",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Going at 91, which is far too late. Jonathan Kuminga's arrival dims his upside a little, but McDaniels will not lose his starting spot.",
+   "ts": "10:58",
+   "quote": "But 91 is just it's way too late. He is not losing a starting spot.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 660
+  },
+  {
+   "player": "Day'Ron Sharpe",
+   "said_as": "Dron Sharp",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Expected to start for the Nets. The speaker projected 24 minutes a night as a top 100 category league player. At 27 minutes he would be top 70. This pick is category specific.",
+   "ts": "10:58",
+   "quote": "I had him projected at like 24 minutes a night and that had him being a top 100 category league player.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 688
+  },
+  {
+   "player": "Day'Ron Sharpe",
+   "said_as": "Dron Sharp",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "Fantrax ADP of 101 is free real estate. His blocks dropped last season for unclear reasons. He does not need many minutes to be useful.",
+   "ts": "18:24",
+   "quote": "sitting at a spot lower than where he was on Yahoo with an ADP of 101, and that is absolutely free real estate.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1109
+  },
+  {
+   "player": "Jusuf Nurkic",
+   "said_as": "Nerk",
+   "team": "",
+   "horizon": "current",
+   "text": "A useful functional center in the late rounds.",
+   "ts": "18:55",
+   "quote": "Like Nerk is around there, too. Hardenstein. I like all those guys in these late round areas",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1148
+  },
+  {
+   "player": "Isaiah Hartenstein",
+   "said_as": "Hardenstein",
+   "team": "",
+   "horizon": "current",
+   "text": "A useful functional center in the late rounds.",
+   "ts": "18:55",
+   "quote": "Like Nerk is around there, too. Hardenstein. I like all those guys in these late round areas",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1148
+  },
+  {
+   "player": "Domantas Sabonis",
+   "said_as": "Sabonis",
+   "team": "SAC",
+   "horizon": "current",
+   "text": "The speaker does not rate him as a real life player, but the Kings should try to win. Points league rank 35, ADP 27. He can be a top 20 points league player.",
+   "ts": "21:31",
+   "quote": "At pick 35 where he's ranked an ADP of 27, Sabonis can be a top 20 player.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1307
+  },
+  {
+   "player": "Josh Giddey",
+   "said_as": "Josh Giddy",
+   "team": "CHI",
+   "horizon": "current",
+   "text": "ADP 23 is about right for category leagues and good value in points leagues. He provides points, rebounds and assists. His shooting dropped last season and could bounce back.",
+   "ts": "22:02",
+   "quote": "Also very happy with Josh Giddy with an ADP of 23. Now, I think for category leagues, that's about sort of bang on.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1322
+  },
+  {
+   "player": "Paolo Banchero",
+   "said_as": "Pala Banker",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "Unfairly hated in category leagues, but a much better points league player.",
+   "ts": "23:06",
+   "quote": "Pala Banker gets a ton of hate in category leagues. I think it is absolutely unfounded.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1397
+  },
+  {
+   "player": "Paolo Banchero",
+   "said_as": "Paulo",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Yahoo points rank 35, ADP 52. That is at least 30 spots of value. Take him in the 20s or 30s in points leagues.",
+   "ts": "23:36",
+   "quote": "He's ranked 35 for Yahoo points leagues. Big Paulo is he's got an ADP of 52",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1420
+  },
+  {
+   "player": "Jaylen Brown",
+   "said_as": "Jaylen Brown",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Expect some adjustment after his trade for Paul George. He was about 10th in points leagues last season. A rank of 44 is enough of a discount. The speaker ranks him about 35 in category leagues.",
+   "ts": "25:09",
+   "quote": "I would take Jaylen Brown at 44 and I'm pretty sure I did even in a category league.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1521
+  },
+  {
+   "player": "Deni Avdija",
+   "said_as": "Denny Abdia",
+   "team": "POR",
+   "horizon": "current",
+   "text": "His usage will drop with Ja Morant, Damian Lillard, a full season of Scoot Henderson and a new coach. He was 18th in points leagues last season despite a back injury. The speaker has him no lower than 48.",
+   "ts": "26:10",
+   "quote": "He was 18th in fantasy points leagues last season. I've got him dropping but not below 48.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1577
+  },
+  {
+   "player": "Zach Edey",
+   "said_as": "Zach Edi",
+   "team": "MEM",
+   "horizon": "current",
+   "text": "Appears healthy. Points league ADP 76, rank 70. He was 61st last season in under 26 minutes and might play more in year three. Low downside even if he misses time.",
+   "ts": "28:16",
+   "quote": "he was 61st last season in under 26 minutes and now he's in year three and he might play more",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1713
+  },
+  {
+   "player": "Stephon Castle",
+   "said_as": "Steph Castle",
+   "team": "SAS",
+   "horizon": "current",
+   "text": "Ranked 76 on Yahoo, which is far too low for points leagues. He was 40th in points leagues over the second half. Dylan Harper and De'Aaron Fox make the situation unclear. Fine to take him around 45 or in round 4 in points leagues.",
+   "ts": "29:50",
+   "quote": "This is like a one where if you wanted to take him at 45 in a points league, like do it.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1790
+  },
+  {
+   "player": "Julius Randle",
+   "said_as": "Julius Randall",
+   "team": "BKN",
+   "horizon": "durable",
+   "text": "A classic player who is better in points leagues.",
+   "ts": "29:50",
+   "quote": "One of the all-time common this guy's better in points league players is Julius Randall.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1807
+  },
+  {
+   "player": "Julius Randle",
+   "said_as": "Julius Randall",
+   "team": "BKN",
+   "horizon": "current",
+   "text": "On a new team with some risk that his role shrinks late in the season for young players. He was 42nd last season and can be top 50 again. Value at 73.",
+   "ts": "30:22",
+   "quote": "this is the 42nd ranked player last season who can be top 50 again this season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1822
+  },
+  {
+   "player": "Rudy Gobert",
+   "said_as": "Rudy Goar",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "He was 71st last season and is now at 82. Without Naz Reid and Julius Randle, and with poor rebounder Jonathan Kuminga, he must do more. His backup Joan Beringer may not be ready, which could mean extra minutes. A points league target, less so in categories.",
+   "ts": "31:23",
+   "quote": "Go Bear was 71st last season. So he's down to number 82. He does not have Naz Reed around.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1889
+  },
+  {
+   "player": "CJ McCollum",
+   "said_as": "Christian James McCullum",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Ranked outside the top 100 in points leagues, around 108 or 109. He was 93rd last season but top 70 over the last two months in under 30 minutes. He could come off the bench in Atlanta. Easy late round value.",
+   "ts": "32:58",
+   "quote": "CJ was 93rd last season. Over the last two months, he was a top 70 player in under 30 minutes a game.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1978
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "LAC",
+   "horizon": "current",
+   "text": "The Clippers do not look like a good team. They are not incentivized to lose but also not to win, so they might rest Darius Garland.",
+   "ts": "5:46",
+   "quote": "They're not incentivized to lose, but they're they're also not incentivized to win. And maybe they preserve Gala.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 360
+  },
+  {
+   "team": "ATL",
+   "horizon": "current",
+   "text": "If Lu Dort starts, it would likely be in place of CJ McCollum, not Nickeil Alexander-Walker.",
+   "ts": "7:20",
+   "quote": "if if they decide to start Lou Dort, it would probably be at the expense of C.J. McCullum.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 445
+  },
+  {
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Dejounte Murray, Murphy and Zion are locked into the starting lineup despite Jeremiah Fears.",
+   "ts": "8:52",
+   "quote": "Murray is locked in. Murphy is locked in. Zion is locked in.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 530
+  },
+  {
+   "team": "DET",
+   "horizon": "current",
+   "text": "The speaker does not trust JB Bickerstaff's comments on Ausar Thompson's minutes.",
+   "ts": "9:23",
+   "quote": "JBustaf is a lying liar who lies and we've discussed this plenty of times especially regarding Assad Thompson's",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 589
+  },
+  {
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Jonathan Kuminga has arrived and is not guaranteed to keep a starting spot. Naz Reid and Julius Randle are gone, and backup center Joan Beringer may not be ready.",
+   "ts": "10:58",
+   "quote": "There is no guarantee that Kaminga keeps the starting spot and McDaniel is just better than that.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 669
+  },
+  {
+   "team": "SAC",
+   "horizon": "current",
+   "text": "The Kings tried to win last season even without incentive, and now must stay out of the relegation zone.",
+   "ts": "21:31",
+   "quote": "the Kings we saw last year when they didn't have incentive to win, they did.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1291
+  },
+  {
+   "team": "POR",
+   "horizon": "current",
+   "text": "Ja Morant and Damian Lillard have been added, Scoot Henderson gets a full season and there is a new head coach.",
+   "ts": "25:39",
+   "quote": "the arrival of Demetrius Morant, the addition of Damen Lillard, even a full season of Scooter Henderson, and a new head coach.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1559
+  },
+  {
+   "team": "SAS",
+   "horizon": "current",
+   "text": "Dylan Harper might be the team's second best player but might come off the bench. De'Aaron Fox should be healthier.",
+   "ts": "29:19",
+   "quote": "Dylan Harper might be the team's second best player, but might come off the bench. He might start.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1767
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Paul George was a top 50 per game player last season, and 25 of his missed games were suspensions.",
+   "ts": "6:18",
+   "quote": "Paul George was a top 50 per game player last season as the third banana in Philadelphia. and 25 of the games missed",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 386
+  },
+  {
+   "text": "Dyson Daniels averaged only about 2 steals last season and shot poorly.",
+   "ts": "7:50",
+   "quote": "he went and had a horrible shooting season and only had two steals.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 472
+  },
+  {
+   "text": "Dejounte Murray ranked 46th per game last season in category leagues.",
+   "ts": "8:20",
+   "quote": "Yeah, he was 46th last season. Why would he be limited this season?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 522
+  },
+  {
+   "text": "Jaylen Brown was about 10th in points leagues last season, averaging 45 fantasy points.",
+   "ts": "25:39",
+   "quote": "where was Bro last season? 10th. He averaged 45 fantasy points.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1544
+  },
+  {
+   "text": "Deni Avdija had 29% usage and was 18th in points leagues last season.",
+   "ts": "26:10",
+   "quote": "almost impossible for Abdia to keep up a 29 usage with that assist rate.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1570
+  },
+  {
+   "text": "Dejounte Murray was 53rd in points leagues last season.",
+   "ts": "27:13",
+   "quote": "Bro was 53rd last season on minutes limits coming back.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1643
+  },
+  {
+   "text": "Dyson Daniels was 57th in points leagues last season and 40th after the Trae Young trade.",
+   "ts": "27:13",
+   "quote": "Last season, he was 57th, but he was also 40th down the stretch after the Trey Young trade.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1656
+  },
+  {
+   "text": "Zach Edey was 61st last season in under 26 minutes per game.",
+   "ts": "28:16",
+   "quote": "he was 61st last season in under 26 minutes and now he's in year three",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1713
+  },
+  {
+   "text": "Stephon Castle was 40th in points leagues over the second half of last season.",
+   "ts": "29:50",
+   "quote": "Castle was great over the second half of the season, at least, 40th in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1774
+  },
+  {
+   "text": "Julius Randle was the 42nd ranked player last season.",
+   "ts": "30:22",
+   "quote": "this is the 42nd ranked player last season who can be top 50 again this season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1822
+  },
+  {
+   "text": "Paul George was 65th per game last season.",
+   "ts": "30:52",
+   "quote": "He was 65th per game last season. remember with Embiid and Maxi",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1856
+  },
+  {
+   "text": "Rudy Gobert was 71st last season.",
+   "ts": "31:23",
+   "quote": "Go Bear was 71st last season. So he's down to number 82.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1889
+  },
+  {
+   "text": "Coby White was 130th in points leagues last season and played 25 minutes a night.",
+   "ts": "32:26",
+   "quote": "He was 130th in points leagues last season. He played 25 minutes a night.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1948
+  },
+  {
+   "text": "CJ McCollum was 93rd last season. Over his last 25 games he played 29 minutes and averaged about 19 points, 3 rebounds, 4 assists and a steal, about 32 fantasy points.",
+   "ts": "32:58",
+   "quote": "Over his last 25 games, he played 29 minutes. 194 uh no, sorry, 193 and four with a steal.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1995
+  }
+ ]
+}

@@ -26,21 +26,23 @@
 </details>
 
 **Current**
-- Lloyd thought he looked bad in Summer League and does not expect him to be a rotation player. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=457))
-- The projected Kings starters are Acuff, LaVine, Hunter, Murray and Sabonis, and nobody is pushing that group for a starting spot. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691))
-- He averaged 8 points on 16.5% usage in Summer League. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=797))
-- Experts ranked him below his draft slot among rookies. (verdict, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=1541), [06-26](https://youtu.be/CLsUc0Sevos?t=940))
-- He is a rookie. The Kings traded up to pick 29 in the 2026 draft to take him. (fact, 2026-06-26; [06-25](https://youtu.be/lOshTzDA4SA?t=2134), [06-26](https://youtu.be/CLsUc0Sevos?t=940))
+- Experts disagree on how much the Kings will use rookies. One note says Sacramento will give rookies minutes. Another says coach Doug Christie is under pressure and may lean on veterans to win games. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1271), [07-31](https://youtu.be/oEywzBZfAvY?t=2025))
+- Lloyd thought he looked bad in Summer League. He does not expect him to be a rotation player this season. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=457))
+- The projected Kings starters are Acuff, LaVine, Hunter, Murray and Sabonis. Nobody is pushing that group for a starting spot. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691))
+- The Kings are expected to be one of the worst teams in the league. The hosts predict about 26 or 27 wins, and Vegas has them at about 21.5 to 22.5. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=2438), [07-27](https://youtu.be/0AptxcRW0RE?t=2060), [06-25](https://youtu.be/lOshTzDA4SA?t=929))
+- In Summer League he averaged 8 points on 16.5% usage. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=797))
+- Experts rank him below his draft slot. (verdict, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=1541))
+- He is a rookie. He is about 23 and a half years old. The Kings traded up to pick 29 to draft him. (fact, 2026-06-26; [06-25](https://youtu.be/lOshTzDA4SA?t=2134), [06-26](https://youtu.be/CLsUc0Sevos?t=940))
 
 **Durable**
-- He is a low-usage shooter who does little else. His usage in college was about 17%. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=797), [06-26](https://youtu.be/CLsUc0Sevos?t=940), [06-25](https://youtu.be/lOshTzDA4SA?t=2134))
-- Experts see poor fantasy translation and compare him to a much worse Duncan Robinson, with a possible Steve Novak outcome. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=797), [06-26](https://youtu.be/CLsUc0Sevos?t=940), [06-25](https://youtu.be/lOshTzDA4SA?t=2134))
-- He is about 23 and a half years old, which is old for a rookie. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=940), [06-25](https://youtu.be/lOshTzDA4SA?t=2134))
+- He is a low-usage shooter who does little else. His best case is a Steve Novak type of player. A less kind comparison is a much worse Duncan Robinson. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=797), [06-26](https://youtu.be/CLsUc0Sevos?t=940), [06-25](https://youtu.be/lOshTzDA4SA?t=2134))
+- He used about 17% of his team's possessions in college. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=940), [06-25](https://youtu.be/lOshTzDA4SA?t=2134))
+- His game translates poorly to fantasy, so he has little fantasy appeal even if he plays. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=940))
 
 **Tags**
-- Current: `rookie` (Pick 29 in 2026, Kings traded up for him)
+- Current: `rookie` (Pick 29 in 2026. The Kings traded up to take him.), `bottom team` (Kings projected at about 21.5 to 27 wins.)
 - Durable: none
 
-**Note.** Yahoo values him at 0 USD and ranks him 605th. That is far outside the 144 players drafted in our league, and ESPN does not list him. His projection (7.6 points, 41.7% FG, 1.4 threes) is below the pool in almost every category, and Lloyd does not expect him to be in the rotation, so do not draft him in any build. One thing to check early in the season: whether the Kings, a rebuilding team that will give rookies minutes, play him as a shooter. Even with minutes, his low usage limits him to a short-term threes pickup at most.
+**Note.** Karaban is not a draft option in our 12-team auction. Yahoo gives him a value of 0 USD and ranks him 605th. His Yahoo projection is weak: 7.6 points, 41.7% FG and only 1.4 threes. The experts doubt he will even make the Kings rotation behind a set starting five. Leave him on waivers and only look at him if early-season box scores show real minutes as a shooter.
 
-<sub>5 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

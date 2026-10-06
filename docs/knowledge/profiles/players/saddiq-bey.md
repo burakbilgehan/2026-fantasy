@@ -29,17 +29,21 @@
 </details>
 
 **Current**
-- The latest projected starting five does not include Bey. It is Zion Williamson, Trey Murphy, Dejounte Murray, likely Yves Missi, and either Jeremiah Fears or Herb Jones. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
-- The expert thinks he may only be the seventh or eighth man on the Pelicans. He calls taking him at pick 119 a bad pick. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1811))
-- New Orleans has a crowded rotation of about eight players who could all start, Bey among them. Bennedict Mathurin was also added to the bench. This creates a minutes crunch. (fact, 2026-09-04; [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1477))
+- Some people expect Bey to start for the Pelicans and maybe close games in lineups with Zion Williamson at center. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=5993), [10-05](https://youtu.be/Q6YlQDvD-aY?t=6001))
+- The experts think Bey gets far too much hype. He might only be the seventh or eighth man in New Orleans, and taking him at pick 119 is a bad pick. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=5993), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1811))
+- Bey went for 1 USD in an expert auction mock draft. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=5993))
+- The latest expert lineup projections do not include Bey. Zion Williamson, Trey Murphy and Dejounte Murray are seen as locked in, Yves Missi as the likely center, and the last spot goes to Jeremiah Fears or Herb Jones. (fact, 2026-10-04; [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [10-04](https://youtu.be/n4KkK-OJjqA?t=530))
+- The Pelicans have a crowded rotation of about eight players who could all start, including Bey, so minutes will be tight. (fact, 2026-09-04; [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1477))
+- New Orleans has a new coach, Jamahl Mosley, who brings a defense-first identity. (fact, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1168), [08-03](https://youtu.be/5QU-jta-lWM?t=1459))
+- The experts see the Pelicans as a weak team near the bottom of the West, at about 34 wins and out of the playoffs. (verdict, 2026-08-03; [07-27](https://youtu.be/0AptxcRW0RE?t=2060), [08-03](https://youtu.be/5QU-jta-lWM?t=1765))
 
 **Durable**
-- He blocks almost no shots for a forward, so a punt BLK team loses little with him. (fact, 2026-10-04; stats)
+- Bey blocks almost no shots, even for a forward. (fact, 2026-10-05; stats)
 
 **Tags**
-- Current: `minutes competition` (Crowded Pelicans rotation. Not in the projected starting five. Mathurin added to the bench.), `role down` (Expert sees him as maybe only the seventh or eighth man), `bust candidate` (Expert calls pick 119 a bad pick for him)
-- Durable: `punt BLK fit` (About 0.1 blocks per game)
+- Current: `minutes competition` (about eight Pelicans could start; latest projections leave him out of the starting five), `deep rotation` (Murray, Murphy, Jones, Zion, Queen, Missi, Fears, Bey and Mathurin), `unsettled rotation` (the frontcourt and guard starters are still unclear), `new coach` (Jamahl Mosley), `bottom team` (about 34 wins projected)
+- Durable: `punt BLK fit` (about 0.1 blocks per game), `defense-first` (Mosley's defense-first identity)
 
-**Note.** Both sites price him at the bottom of the draft: 1.0 USD average cost on Yahoo (rank 132) and 0.2 USD on ESPN (rank 134). That puts him on the edge of our 144 drafted players, and the expert thinks even pick 119 is too early. His projected line fits punt BLK builds. It adds some FT% (84%), threes and very few turnovers, but his FG% hurts a little. ESPN projects 27.1 minutes, down from 31.2 last season. Leave him on waivers and check early on whether the crowded Pelicans rotation gives him starter minutes.
+**Note.** Bey sits at the edge of our 144-man draft: Yahoo ranks him 132 and ESPN 134, with average costs of 1.0 USD and 0.2 USD. At 1 USD his projected 84% FT on solid volume, about 2 threes and few turnovers fit a punt BLK build. The experts think he is overhyped and could be a seventh or eighth man, though. Do not pay more than 1 USD. In the first weeks, check whether he starts or closes games next to Zion at center, and whether his minutes hold near last season's 31.
 
-<sub>1 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

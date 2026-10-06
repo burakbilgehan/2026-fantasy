@@ -11,31 +11,32 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Joan Beringer, PF Trey Lyles, PG Bones Hyland, SF Ayo Dosunmu, SG Terrence Shannon Jr.
 
 **Current**
-- Minnesota has 13 back-to-backs, the fewest in the league, so rest risk for its players is low. (fact, 2026-10-04; stats)
-- The team now plays a smaller, guard-heavy lineup. The starting group has no size. (fact, 2026-10-02; [08-19](https://youtu.be/2mxpEpGU3H8?t=236), [07-01](https://youtu.be/W3THnI7wWdA?t=828), [10-02](https://youtu.be/ZYllcj4o6_A?t=2323))
-- The bench is thin and adds little scoring. The bench unit has no ball handlers. (fact, 2026-10-02; [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [10-02](https://youtu.be/ZYllcj4o6_A?t=2323))
-- Minnesota plays only two games in week 20, the matchup starting March 15, the middle week of our fantasy playoffs. Weeks 19 and 21 have four games each, with one back-to-back in week 19. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006), stats)
-- Minnesota has the worst fantasy playoff schedule because the two-game week cannot be avoided. Its 10 playoff games in total rank only 17th of 30. (verdict, 2026-09-22; [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-16](https://youtu.be/gf_6GveiAls?t=1635), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006), stats)
-- LaMelo Ball joined Minnesota in the trade that sent out Julius Randle and Naz Reid. Kyle Anderson, Mike Conley, Joe Ingles and Julian Phillips are also gone. (fact, 2026-09-04; [08-19](https://youtu.be/2mxpEpGU3H8?t=236), [07-01](https://youtu.be/W3THnI7wWdA?t=828), [06-25](https://youtu.be/ya2VYRJ1BN0?t=333), [09-04](https://youtu.be/gerS7ibpaJo?t=1634))
-- Frontcourt depth is very thin. Joan Beringer is the only backup center behind Gobert. (fact, 2026-09-04; [07-21](https://youtu.be/RyzcCGChYgs?t=1214), [09-04](https://youtu.be/gerS7ibpaJo?t=1634), [06-30](https://youtu.be/4GDfg2n2l8o?t=1272), [06-25](https://youtu.be/ya2VYRJ1BN0?t=333))
-- Ball, Anthony Edwards, Jaden McDaniels and Rudy Gobert are set as starters. Jonathan Kuminga is expected to take the fifth starting spot. (fact, 2026-08-26; [08-19](https://youtu.be/2mxpEpGU3H8?t=603), [08-26](https://youtu.be/sTtFUy7IoJI?t=576), stats)
-- The bench creator moves to the bench. The transcript calls him 'Dumu', most likely Ayo Dosunmu, who is listed on the second unit. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=576), stats)
-- Minnesota must make another move to afford the Kuminga signing. Josh Green is the player who could be traded. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1577))
-- The team is short on size and defensive rebounding. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=845))
-- Ben expects a top 10 defense and, if Ball stays healthy, a top 10 offense. He predicts 53 wins, above the market win total of 48.5. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1830), stats)
-- Ball and Edwards share the ball, so both should get less time on the ball than before. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1559))
-- Minnesota should be competitive, so it will not rest players to tank. (verdict, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=1051))
-- Edwards' scoring should drop with Ball next to him. Their three-point volume can probably coexist. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=269))
-- The team needs wing depth in case of injuries. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=828))
-- Donte DiVincenzo is expected to miss most or all of the season. (fact, 2026-06-23; [06-22](https://youtu.be/HxQjagSTTAM?t=883), [06-23](https://youtu.be/9tb1ARBEmQU?t=263))
+- Minnesota has the fewest back-to-backs in the league, so rest risk for its starters is low. (fact, 2026-10-05; stats)
+- Julius Randle and Naz Reid are gone. LaMelo Ball and Jonathan Kuminga have joined the team. (fact, 2026-10-04; [08-19](https://youtu.be/2mxpEpGU3H8?t=236), [07-01](https://youtu.be/W3THnI7wWdA?t=828), [09-04](https://youtu.be/gerS7ibpaJo?t=1634), [10-04](https://youtu.be/n4KkK-OJjqA?t=669))
+- The fifth starting spot is open and could change with matchups. Kuminga is listed there, but he is not guaranteed to keep it. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=669), [08-19](https://youtu.be/2mxpEpGU3H8?t=603), [08-26](https://youtu.be/sTtFUy7IoJI?t=576), stats)
+- Beringer may not be ready for the backup center role. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=669))
+- The team now plays a smaller, guard-heavy lineup. The starting group has little size, and the team is short on defensive rebounding. (fact, 2026-10-02; [08-19](https://youtu.be/2mxpEpGU3H8?t=236), [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [07-01](https://youtu.be/W3THnI7wWdA?t=828), [10-02](https://youtu.be/ZYllcj4o6_A?t=2323))
+- The bench is thin and offers little scoring. The second unit has no real ball handler. (verdict, 2026-10-02; [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [10-02](https://youtu.be/ZYllcj4o6_A?t=2323))
+- Minnesota plays only 2 games in fantasy playoff week 20, the matchup starting March 15. The experts call it the worst fantasy playoff schedule, and it hurts players like Edwards. (verdict, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006), stats)
+- Frontcourt depth is close to zero. Joan Beringer is the only backup center behind Rudy Gobert. (fact, 2026-09-04; [07-21](https://youtu.be/RyzcCGChYgs?t=1214), [09-04](https://youtu.be/gerS7ibpaJo?t=1634), [06-30](https://youtu.be/4GDfg2n2l8o?t=1272), [06-25](https://youtu.be/ya2VYRJ1BN0?t=333))
+- Josh Green is also a candidate for the fifth starting spot. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=576))
+- Minnesota must make another move to afford the Kuminga signing. Josh Green is the likely player to be traded. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1577))
+- Kyle Anderson, Mike Conley, Joe Ingles and Julian Phillips are also gone. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=236), [06-30](https://youtu.be/4GDfg2n2l8o?t=1272))
+- Ball, Edwards, McDaniels and Gobert are set as four of the five starters. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=603))
+- The team needs wing depth in case of injuries. An injury to a starter would open a big role for a reserve. (verdict, 2026-08-19; [07-01](https://youtu.be/W3THnI7wWdA?t=828), [08-19](https://youtu.be/2mxpEpGU3H8?t=845))
+- Minnesota should be competitive. The expert projects a top 10 defense, a top 10 offense if Ball stays healthy, and 53 wins. Vegas sets the win total at 48.5, eighth in the league. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1830), [07-13](https://youtu.be/Rqb5GdrSweY?t=1051), stats)
+- With Ball on the team, both Ball and Anthony Edwards should spend less time with the ball. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1559))
+- The team is not expected to tank or rest players late in the season. (verdict, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=1051))
+- Ball should cut into Edwards' scoring. Their three-point volume can probably coexist. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=269))
+- Donte DiVincenzo will miss most of this season. (fact, 2026-06-23; [06-22](https://youtu.be/HxQjagSTTAM?t=883), [06-23](https://youtu.be/9tb1ARBEmQU?t=263))
 
 **Durable**
-- Coach Finch rarely changes his starters unless someone is hurt. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=603))
+- Chris Finch rarely changes his starting lineup unless someone is hurt. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=603))
 
 **Tags**
-- Current: `few back-to-backs` (13 back-to-backs, the fewest in the league), `bad playoff schedule` (Only two games in week 20 (matchup starting March 15). Weeks 19 and 21 have four games each. 10 games in total, rank 17 of 30), `thin rotation` (Little bench scoring, no bench ball handlers, Beringer is the only backup center), `winning team` (Win total 48.5 (rank 8). Ben predicts 53 wins. No tanking expected)
-- Durable: `stable starters` (Finch rarely changes starters unless someone is hurt)
+- Current: `thin rotation` (Almost no frontcourt depth. Beringer is the only backup center, and the bench lacks scoring and ball handling.), `unsettled rotation` (The fifth starting spot is open. Kuminga is not guaranteed to keep it, and Josh Green is a candidate.), `winning team` (Win total 48.5 (8th). The expert predicts 53 wins.), `low shutdown risk` (Competitive team, so no tanking rest is expected.), `bad playoff schedule` (Only 2 games in week 20 (starting March 15). 10 games across weeks 19 to 21.), `few back-to-backs` (13 back-to-backs, the fewest in the league.), `trades likely` (They need another move to afford Kuminga. Josh Green could be traded.), `small-ball lineups` (A guard-heavy lineup with little size and weak defensive rebounding.)
+- Durable: `stable starters` (Finch rarely changes starters unless someone is hurt.)
 
-**Note.** LaMelo Ball and Anthony Edwards now share the ball, so expect some scoring loss for Edwards. Jonathan Kuminga and Jaden McDaniels gain secure starter roles, and Joan Beringer is the only cover behind Rudy Gobert. The team is a contender with the fewest back-to-backs in the league, but every Minnesota player gets only two games in week 20 of our playoffs, so lower your bids a little. Early on, watch Ball's health, whether Josh Green is traded to afford Kuminga, and who handles the ball for the bench.
+**Note.** Minnesota is a winning team with no tank risk and the fewest back-to-backs in the league, so its starters should play a full load. But only 2 games in week 20 hurts everyone in our playoffs. Ball's arrival should cut Edwards' on-ball time and scoring. The thin frontcourt makes Beringer a real handcuff behind Gobert. Early on, watch who holds the fifth starting spot (Kuminga or Josh Green), whether Beringer is ready, and whether Green gets traded.
 
-<sub>23 notes. Built 2026-10-04 with claude-opus-5-5 high, team prompt v1.</sub>
+<sub>24 notes. Built 2026-10-05 with claude-opus-5-5 high, team prompt v1.</sub>

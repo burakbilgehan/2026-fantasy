@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "67bee28e34ec",
- "note_count": 15,
- "built_at": "2026-10-04T17:27:15+00:00",
+ "input_sha": "506f33a4aee0",
+ "note_count": 16,
+ "built_at": "2026-10-05T19:45:29+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1507702,
-  "duration_ms": 43183
+  "cost_usd_list": 0.16614619999999997,
+  "duration_ms": 44884,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Jakob Poeltl is projected to start at center. Murray-Boyles is expected to come off the bench but close games for the Raptors.",
+   "text": "Jakob Poeltl is the projected starting center for Toronto, and Murray-Boyles is not expected to start over him.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -30,13 +32,25 @@
     "LM0cRCGoAUQ:p45",
     "gerS7ibpaJo:p17",
     "sTtFUy7IoJI:p21",
+    "s28HvC2grAk:t0"
+   ]
+  },
+  {
+   "text": "Experts expect him to close games. He is in the projected closing five with Quickley, Barrett, Leonard and Barnes.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p3",
+    "BjXP9JODDSg:p41",
+    "t4n9MAP2_14:p35",
+    "gerS7ibpaJo:p17",
     "s28HvC2grAk:p23",
-    "s28HvC2grAk:t0",
     "s28HvC2grAk:t1"
    ]
   },
   {
-   "text": "Experts expect 25 or more minutes a game, at least three more than last season. One preview expects close to 30 minutes as a super sub.",
+   "text": "Experts expect about 25 minutes a game or more, up from about 22 last season. Some see him close to 30 minutes as a super sub.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -45,12 +59,13 @@
     "t4n9MAP2_14:p35",
     "LM0cRCGoAUQ:p45",
     "gerS7ibpaJo:p17",
+    "sTtFUy7IoJI:p21",
     "s28HvC2grAk:p23",
     "s28HvC2grAk:p24"
    ]
   },
   {
-   "text": "Sandro Mamukelashvili is no longer competing for his minutes, and his thumb injury from last season is behind him.",
+   "text": "Sandro Mamukelashvili is no longer competing for his minutes, and the thumb injury that limited him is behind him.",
    "kind": "fact",
    "date": "2026-09-04",
    "until": "",
@@ -59,17 +74,16 @@
    ]
   },
   {
-   "text": "Toronto is not deep after its top seven, and Poeltl is the only seven-footer on the roster.",
+   "text": "He missed a lot of time last season.",
    "kind": "fact",
    "date": "2026-08-20",
    "until": "",
    "sources": [
-    "s28HvC2grAk:t2",
-    "s28HvC2grAk:t3"
+    "s28HvC2grAk:p23"
    ]
   },
   {
-   "text": "His usage is projected to rise from about 15% to about 18%. He is expected to have the ball more and score more. One expert predicts a top three Sixth Man of the Year finish.",
+   "text": "His usage is projected to rise from about 15% to about 18%, with more touches and more scoring. One expert predicts a top-three Sixth Man of the Year finish.",
    "kind": "verdict",
    "date": "2026-08-26",
    "until": "",
@@ -79,7 +93,7 @@
    ]
   },
   {
-   "text": "He could average about 12 points, 7 rebounds and 1.5 blocks.",
+   "text": "He is seen as a big-upside second-year riser who could average about 12 points, 7 rebounds and 1.5 blocks.",
    "kind": "verdict",
    "date": "2026-09-04",
    "until": "",
@@ -88,19 +102,7 @@
    ]
   },
   {
-   "text": "Experts see him as roughly a top 100 player as a baseline, with a range of top 100 to 120.",
-   "kind": "verdict",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:p3",
-    "80kfLVnFQ_s:p35",
-    "gerS7ibpaJo:p18",
-    "sTtFUy7IoJI:p22"
-   ]
-  },
-  {
-   "text": "If he plays 30 minutes a game, he could be a top 70 player.",
+   "text": "His baseline is about top 100. At 30 minutes a game he could be a top 70 player.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -109,41 +111,41 @@
    ]
   },
   {
-   "text": "His draft cost is around ADP 115 to the 120s.",
-   "kind": "fact",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:p3",
-    "LM0cRCGoAUQ:p45"
-   ]
-  },
-  {
-   "text": "He is a good late flyer. He has enough standalone value for rounds 10 to 11 even if you already have Poeltl, and one expert would draft him ahead of Poeltl.",
+   "text": "Experts call him a good late flyer worth a pick in rounds 10 to 11, even for a team that already has Poeltl. One expert would consider him ahead of Poeltl.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
    "sources": [
     "t4n9MAP2_14:p35",
+    "80kfLVnFQ_s:p35",
     "OdDkXFhoKsc:p56",
-    "gerS7ibpaJo:p17",
-    "80kfLVnFQ_s:p35"
+    "gerS7ibpaJo:p17"
    ]
   },
   {
-   "text": "The Raptors have 15 back-to-backs, three of them in the fantasy playoffs.",
+   "text": "He is a buzzy name right now and went for 9 USD in an expert auction mock draft.",
    "kind": "fact",
-   "date": "2026-08-16",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "gf_6GveiAls:t5"
+    "Q6YlQDvD-aY:p85"
+   ]
+  },
+  {
+   "text": "Toronto is not deep after its top seven, and it is projected to win about 52 games.",
+   "kind": "fact",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:t2",
+    "s28HvC2grAk:t4"
    ]
   }
  ],
  "durable": [
   {
-   "text": "His three-point shot is a long-term project. It looked fine on low volume but is not reliable yet. He makes very few threes, which is his weakest category for his position.",
-   "kind": "verdict",
+   "text": "He makes almost no threes. His three-point shot is fine on low volume but is a longer-term project and not reliable yet.",
+   "kind": "fact",
    "date": "2026-09-14",
    "until": "",
    "sources": [
@@ -153,13 +155,12 @@
    ]
   },
   {
-   "text": "He is 6'7 and plays center in small, switchable lineups. Toronto's rebounding and rim protection held steady or improved with him at center.",
+   "text": "He is 6'7 and plays center, yet Toronto's rebounding and rim protection held steady or improved with him at the position.",
    "kind": "fact",
    "date": "2026-08-20",
    "until": "",
    "sources": [
-    "s28HvC2grAk:p27",
-    "s28HvC2grAk:t1"
+    "s28HvC2grAk:p27"
    ]
   }
  ],
@@ -167,7 +168,7 @@
   {
    "name": "punt 3PM fit",
    "channel": "durable",
-   "detail": "about 0.3 threes per game",
+   "detail": "About 0.3 threes per game",
    "until": "",
    "sources": [
     "stats",
@@ -178,7 +179,7 @@
   {
    "name": "no 3PM",
    "channel": "durable",
-   "detail": "about 0.3 threes per game, and the shot is a long-term project",
+   "detail": "About 0.3 threes per game; shot is a long-term project",
    "until": "",
    "sources": [
     "stats",
@@ -190,31 +191,29 @@
   {
    "name": "role up",
    "channel": "current",
-   "detail": "expected 25 or more minutes and closing games. Usage projected to rise from 15% to 18%",
+   "detail": "About 25 or more minutes and usage up from 15% to about 18%",
    "until": "",
    "sources": [
     "ZYllcj4o6_A:p3",
     "sTtFUy7IoJI:p21",
-    "s28HvC2grAk:p24",
-    "gerS7ibpaJo:p17"
+    "s28HvC2grAk:p24"
    ],
    "new_meaning": ""
   },
   {
    "name": "breakout",
    "channel": "current",
-   "detail": "second-year riser. Could average 12 points, 7 rebounds and 1.5 blocks",
+   "detail": "Second-year riser; could average 12 points, 7 rebounds and 1.5 blocks",
    "until": "",
    "sources": [
-    "gerS7ibpaJo:p18",
-    "s28HvC2grAk:p25"
+    "gerS7ibpaJo:p18"
    ],
    "new_meaning": ""
   },
   {
    "name": "flyer",
    "channel": "current",
-   "detail": "late-round pick, rounds 10 to 11",
+   "detail": "Round 10 to 11 pick",
    "until": "",
    "sources": [
     "t4n9MAP2_14:p35",
@@ -226,12 +225,34 @@
   {
    "name": "sleeper",
    "channel": "current",
-   "detail": "ADP 115 to 120s, experts see top 100 baseline",
+   "detail": "Yahoo value 3 USD and ESPN 0 USD, experts see a top 100 baseline",
    "until": "",
    "sources": [
     "ZYllcj4o6_A:p3",
-    "LM0cRCGoAUQ:p45",
-    "sTtFUy7IoJI:p22"
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Bench big behind starting center Jakob Poeltl, but expected to close games",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p3",
+    "gerS7ibpaJo:p17",
+    "s28HvC2grAk:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "Thumb injury, 57 games",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:p23",
+    "gerS7ibpaJo:p17"
    ],
    "new_meaning": ""
   },
@@ -246,18 +267,26 @@
    "new_meaning": ""
   },
   {
-   "name": "injury last season",
+   "name": "thin rotation",
    "channel": "current",
-   "detail": "thumb injury, 57 games played",
+   "detail": "Toronto is thin after its top seven",
    "until": "",
    "sources": [
-    "gerS7ibpaJo:p17",
-    "s28HvC2grAk:p23",
-    "stats"
+    "s28HvC2grAk:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "Projected about 52 wins",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:t4"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Yahoo prices him at 3 USD (rank 111) and ESPN at 0 USD (rank 174). Experts see a top 100 baseline and top 70 upside at 30 minutes, so he is a good 1 to 3 USD end-of-auction flyer in our 144-player draft. He adds FG% (58% on low volume), blocks and steals with few turnovers, fits punt 3PM builds best, and his 66% FT% is a minor drag. Early in the season, check that he closes games and plays 25 or more minutes behind Poeltl.",
+ "note": "Yahoo values him at 3 USD and ESPN at 0 USD, but experts see a top 100 baseline. He already went for 9 USD in an expert mock, so expect him to cost more than 3 USD in our 144-player auction, and he is still a fair buy up to about that 9 USD level. His value comes from FG%, blocks and steals with few turnovers, and he fits punt 3PM builds. Early in the season, check whether he gets about 25 minutes or more and closes games, since 30 minutes would push him toward top 70.",
  "rejected": []
 }

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 186 | 0 | 0.1 | 240 | 10 |
+| 2026-27 | 0 | 0.0 | 186 | 0 | 0.0 | 240 | 10 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,17 +30,17 @@
 </details>
 
 **Current**
-- The expected Pelicans starters are Zion Williamson, Trey Murphy, Dejounte Murray and likely Yves Missi. The last spot goes to Jeremiah Fears or Herb Jones. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [09-24](https://youtu.be/_vbAP5y182A?t=1141))
-- The Pelicans have a crowded rotation. About eight players could start: Fears, Murray, Jones, Murphy, Zion, Bey, Missi and Queen. Bennedict Mathurin was also added to the bench. (fact, 2026-09-04; [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1477))
+- Dejounte Murray is locked in as a starting guard. The other open starting spot goes to Jeremiah Fears or Herb Jones. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=530), [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [09-24](https://youtu.be/_vbAP5y182A?t=1141))
+- The Pelicans have a crowded rotation of about eight players who could start: Fears, Murray, Jones, Murphy, Zion, Bey, Missi and Queen. Bennedict Mathurin was added to the bench. Poole is not named in that group. (fact, 2026-09-04; [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1477))
 - Poole is probably out of the rotation in New Orleans. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1672))
 
 **Durable**
-- One expert says he often gets Poole wrong, so his value is hard to predict. (verdict, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=452))
+- One expert admits he gets Poole wrong all the time, so expert calls on him carry extra uncertainty. (verdict, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=452))
 
 **Tags**
-- Current: `role down` (Probably out of the New Orleans rotation), `minutes competition` (Crowded Pelicans guard and wing rotation: Murray, Fears, Jones, Murphy, Mathurin)
+- Current: `role down` (Probably out of the Pelicans rotation), `deep rotation` (About eight Pelicans who could start, plus Mathurin off the bench)
 - Durable: none
 
-**Note.** Poole is ranked 186 on Yahoo and 240 on ESPN, and both sites value him at 0 USD. In a 144-player league he should go undrafted, even though our league paid 10 USD for him last season. His projected line of about 12 points with 41% FG on 10 attempts does not help any build. Leave him on waivers and check in the first weeks whether Mosley gives him real minutes.
+**Note.** Poole is not a draft target in our 144-player auction. Yahoo ranks him 186 and ESPN ranks him 240, both value him at 0 USD, and our league paid 10 USD for him last season. Both sites project a small role (10.9 to 13.2 PTS) and he is weak in FG% (41.0%) and REB. His only real help would be FT% and some threes. Leave him on waivers and check in the first weeks whether he gets real minutes in the crowded New Orleans guard group, for example after an injury.
 
-<sub>2 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

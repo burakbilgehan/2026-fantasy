@@ -2,14 +2,16 @@
  "team": "SAC",
  "prompt_version": 1,
  "prompt_sha": "07b4ed7fd28e",
- "input_sha": "ff8661462181",
- "note_count": 29,
- "built_at": "2026-10-04T20:04:21+00:00",
+ "input_sha": "3c8e27910442",
+ "note_count": 30,
+ "built_at": "2026-10-05T20:12:16+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.3069326,
-  "duration_ms": 93054
+  "cost_usd_list": 0.383096,
+  "duration_ms": 143846,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
@@ -22,33 +24,54 @@
    ]
   },
   {
-   "text": "Vegas sets their win total at 21.5, the lowest in the league. Experts see a weak team at the bottom of the West. The preview hosts are a bit higher at 26 or 27 wins.",
+   "text": "Experts expect the Kings to be one of the worst teams in the league, near the bottom of the West. One preview predicts 26 or 27 wins, above the Vegas line of 21.5.",
    "kind": "verdict",
    "date": "2026-07-31",
    "until": "",
    "sources": [
-    "stats",
-    "oEywzBZfAvY:t7",
+    "lOshTzDA4SA:t4",
     "0AptxcRW0RE:t8",
-    "lOshTzDA4SA:t4"
+    "oEywzBZfAvY:t7",
+    "stats"
    ]
   },
   {
-   "text": "Experts expect the Kings to try to win games to stay out of the relegation zone instead of tanking. Sabonis should play whenever he is available. They are not expected to bench him for Maxime Raynaud.",
+   "text": "The Kings must stay out of the relegation zone this season.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:t5",
+    "2A2JbUN-kc0:t0",
+    "W-R1dzem32s:t2",
+    "oEywzBZfAvY:t7"
+   ]
+  },
+  {
+   "text": "Experts expect the Kings to keep pushing to win games instead of tanking.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:t5",
+    "oEywzBZfAvY:t7",
+    "-KS_AZjZnw4:t5",
+    "ahNxsoU8Hx4:t4",
+    "egRrai3Ax38:t0"
+   ]
+  },
+  {
+   "text": "Sabonis should play whenever he is available. Experts do not expect the Kings to bench him for Maxime Raynaud.",
    "kind": "verdict",
    "date": "2026-09-21",
    "until": "",
    "sources": [
-    "egRrai3Ax38:t0",
     "ahNxsoU8Hx4:t4",
-    "2A2JbUN-kc0:t0",
-    "W-R1dzem32s:t2",
-    "oEywzBZfAvY:t7",
-    "-KS_AZjZnw4:t5"
+    "egRrai3Ax38:t0"
    ]
   },
   {
-   "text": "The team's direction is unclear and unstable. This uncertainty lowers the value of Zach LaVine and Domantas Sabonis.",
+   "text": "The team's direction is unclear and unstable, which lowers the fantasy value of Zach LaVine and Domantas Sabonis.",
    "kind": "verdict",
    "date": "2026-09-30",
    "until": "",
@@ -59,31 +82,19 @@
    ]
   },
   {
-   "text": "Sabonis may be traded. Sacramento might try to dump his contract at some point.",
+   "text": "A Sabonis trade is possible. Sacramento might try to dump his contract at some point.",
    "kind": "verdict",
    "date": "2026-09-21",
    "until": "",
    "sources": [
     "egRrai3Ax38:t0",
     "t4n9MAP2_14:t5",
-    "oEywzBZfAvY:t8",
-    "-KS_AZjZnw4:t5"
+    "-KS_AZjZnw4:t5",
+    "oEywzBZfAvY:t8"
    ]
   },
   {
-   "text": "LaVine could be traded, bought out or benched.",
-   "kind": "verdict",
-   "date": "2026-09-10",
-   "until": "",
-   "sources": [
-    "W-R1dzem32s:t2",
-    "7BllEsdNLoM:t5",
-    "oEywzBZfAvY:t8",
-    "-KS_AZjZnw4:t5"
-   ]
-  },
-  {
-   "text": "LaVine has one year left on his contract.",
+   "text": "Zach LaVine has one year left on his contract.",
    "kind": "fact",
    "date": "2026-06-25",
    "until": "",
@@ -92,7 +103,74 @@
    ]
   },
   {
-   "text": "The projected starters are Darius Acuff Jr., Zach LaVine, De'Andre Hunter, Keegan Murray and Domantas Sabonis. Nobody is pushing that group for a starting spot.",
+   "text": "LaVine could be traded, bought out or benched.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:t5",
+    "W-R1dzem32s:t2",
+    "-KS_AZjZnw4:t5",
+    "oEywzBZfAvY:t8"
+   ]
+  },
+  {
+   "text": "Russell Westbrook, DeMar DeRozan and Dennis Schroder are gone. They took shots and assists away from Sabonis and LaVine.",
+   "kind": "fact",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:t4",
+    "LM0cRCGoAUQ:t5",
+    "2A2JbUN-kc0:t0",
+    "DubdKKhMWHo:t1",
+    "ahNxsoU8Hx4:t4",
+    "NYTH7uQsPCM:t4",
+    "W3THnI7wWdA:t8",
+    "lOshTzDA4SA:t4"
+   ]
+  },
+  {
+   "text": "The ball is now concentrated with LaVine and Sabonis. Sabonis's usage should rise.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:t4",
+    "LM0cRCGoAUQ:t5",
+    "2A2JbUN-kc0:t0",
+    "DubdKKhMWHo:t1"
+   ]
+  },
+  {
+   "text": "Of the players who took assists from Sabonis, LaVine and Huerter remain.",
+   "kind": "fact",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "DubdKKhMWHo:t1"
+   ]
+  },
+  {
+   "text": "The departures should also free usage for Keegan Murray.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:t5"
+   ]
+  },
+  {
+   "text": "Kings passers had low assist conversion because teammates could not shoot. Westbrook is gone, but Nique Clifford, also named as a poor shooter, remains.",
+   "kind": "verdict",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:t4"
+   ]
+  },
+  {
+   "text": "The projected starters are Darius Acuff Jr., Zach LaVine, De'Andre Hunter, Keegan Murray and Domantas Sabonis.",
    "kind": "fact",
    "date": "2026-07-31",
    "until": "",
@@ -103,77 +181,24 @@
    ]
   },
   {
-   "text": "Russell Westbrook, Dennis Schroder and DeMar DeRozan are gone. DeRozan was reportedly stretched and waived.",
-   "kind": "fact",
-   "date": "2026-09-17",
+   "text": "Nobody is pushing the starting group for a spot.",
+   "kind": "verdict",
+   "date": "2026-07-31",
    "until": "",
    "sources": [
-    "DubdKKhMWHo:t1",
-    "2A2JbUN-kc0:t0",
-    "LM0cRCGoAUQ:t5",
-    "-KS_AZjZnw4:t4",
-    "NYTH7uQsPCM:t4",
-    "W3THnI7wWdA:t8",
-    "lOshTzDA4SA:t4"
+    "oEywzBZfAvY:t1"
    ]
   },
   {
-   "text": "With those players gone, the ball goes more to Sabonis and LaVine. Sabonis should get more usage and assists, and the players who took LaVine's shots are gone. Kevin Huerter is still on the team.",
+   "text": "The team seems to dislike Malik Monk, and experts do not trust his role. He is in the second unit.",
    "kind": "verdict",
    "date": "2026-09-17",
    "until": "",
    "sources": [
     "ahNxsoU8Hx4:t4",
-    "DubdKKhMWHo:t1",
-    "2A2JbUN-kc0:t0",
-    "LM0cRCGoAUQ:t5",
-    "-KS_AZjZnw4:t4"
-   ]
-  },
-  {
-   "text": "The departures also free up usage for Keegan Murray.",
-   "kind": "verdict",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:t5"
-   ]
-  },
-  {
-   "text": "Kings passers had poor assist conversion because teammates such as Westbrook and Nique Clifford could not shoot. Westbrook is gone, but Clifford is still on the roster.",
-   "kind": "verdict",
-   "date": "2026-07-17",
-   "until": "",
-   "sources": [
-    "NYTH7uQsPCM:t4",
+    "KPdD91Oo8-U:t2",
+    "lOshTzDA4SA:t4",
     "stats"
-   ]
-  },
-  {
-   "text": "The Kings were the worst three-point team in both percentage and attempts. Ham says this roster can shoot the three.",
-   "kind": "fact",
-   "date": "2026-07-31",
-   "until": "",
-   "sources": [
-    "oEywzBZfAvY:t2"
-   ]
-  },
-  {
-   "text": "Mike Miller runs the offense this season.",
-   "kind": "fact",
-   "date": "2026-07-31",
-   "until": "",
-   "sources": [
-    "oEywzBZfAvY:t3"
-   ]
-  },
-  {
-   "text": "The Kings are expected to defend poorly. The backcourt's weak defense could get frontcourt players into foul trouble. That would shift minutes to defenders who shoot threes.",
-   "kind": "verdict",
-   "date": "2026-07-31",
-   "until": "",
-   "sources": [
-    "oEywzBZfAvY:t4"
    ]
   },
   {
@@ -187,7 +212,43 @@
    ]
   },
   {
-   "text": "Coach Doug Christie is on a cheap contract and is under the most pressure. He may lean on veterans to win games.",
+   "text": "Mike Miller is running the offense this season.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:t3"
+   ]
+  },
+  {
+   "text": "The Kings were the worst three-point team last season in both percentage and attempts.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:t2"
+   ]
+  },
+  {
+   "text": "Ham says this roster can shoot the three.",
+   "kind": "verdict",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:t2"
+   ]
+  },
+  {
+   "text": "The Kings should be bad on defense. Poor backcourt defense could put frontcourt players in foul trouble and shift minutes to defenders who shoot threes.",
+   "kind": "verdict",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:t4"
+   ]
+  },
+  {
+   "text": "Doug Christie is on a cheap contract and is under the most pressure. He may lean on veterans to win games.",
    "kind": "verdict",
    "date": "2026-07-31",
    "until": "",
@@ -196,7 +257,7 @@
    ]
   },
   {
-   "text": "Sacramento is expected to give minutes to rookies.",
+   "text": "Sacramento will give rookies minutes.",
    "kind": "verdict",
    "date": "2026-08-02",
    "until": "",
@@ -205,29 +266,9 @@
    ]
   },
   {
-   "text": "The team seems to dislike Malik Monk, and experts do not trust his place in the rotation.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "ahNxsoU8Hx4:t4",
-    "KPdD91Oo8-U:t2",
-    "lOshTzDA4SA:t4"
-   ]
-  },
-  {
-   "text": "Late last season Sacramento kept changing its lineups. Late-season roles on this team can move.",
+   "text": "The Kings play 11 games in our fantasy playoff weeks, fourth most in the league, with only one back-to-back pair. Kings players who are still on rosters then get extra games.",
    "kind": "fact",
-   "date": "2026-07-14",
-   "until": "",
-   "sources": [
-    "xHRF06_E9HE:t7"
-   ]
-  },
-  {
-   "text": "The fantasy playoff schedule is strong. The Kings play 11 games in weeks 19 to 21, with only one back-to-back. That helps players who stay on the roster and keep their roles.",
-   "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
@@ -237,69 +278,83 @@
  "durable": [],
  "tags": [
   {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "Lowest Vegas win total (21.5). Experts see them near the bottom of the West.",
+   "until": "",
+   "sources": [
+    "stats",
+    "lOshTzDA4SA:t4",
+    "0AptxcRW0RE:t8",
+    "oEywzBZfAvY:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low shutdown risk",
+   "channel": "current",
+   "detail": "They must avoid the relegation zone, so they are expected to keep trying to win and to play Sabonis when he is available.",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:t5",
+    "2A2JbUN-kc0:t0",
+    "oEywzBZfAvY:t7",
+    "-KS_AZjZnw4:t5",
+    "ahNxsoU8Hx4:t4",
+    "egRrai3Ax38:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "Sabonis could be traded or his contract dumped. LaVine could be traded or bought out.",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:t0",
+    "t4n9MAP2_14:t5",
+    "7BllEsdNLoM:t5",
+    "W-R1dzem32s:t2",
+    "-KS_AZjZnw4:t5",
+    "oEywzBZfAvY:t8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage freed",
+   "channel": "current",
+   "detail": "Westbrook, DeRozan and Schroder are gone. Sabonis, LaVine and Murray gain shots and touches.",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:t4",
+    "LM0cRCGoAUQ:t5",
+    "2A2JbUN-kc0:t0",
+    "DubdKKhMWHo:t1",
+    "ahNxsoU8Hx4:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "concentrated usage",
+   "channel": "current",
+   "detail": "The ball runs through LaVine and Sabonis.",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "11 games in weeks 19 to 21 (4, 4, 3), one back-to-back, rank 4 of 30.",
+   "detail": "11 games in weeks 19 to 21 (rank 4 of 30), with one back-to-back pair.",
    "until": "",
    "sources": [
     "stats"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "trade risk",
-   "channel": "current",
-   "detail": "Sabonis and LaVine could be traded, and LaVine could also be bought out.",
-   "until": "",
-   "sources": [
-    "egRrai3Ax38:t0",
-    "t4n9MAP2_14:t5",
-    "W-R1dzem32s:t2",
-    "7BllEsdNLoM:t5",
-    "oEywzBZfAvY:t8",
-    "-KS_AZjZnw4:t5"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "rebuilding team",
-   "channel": "current",
-   "detail": "Teardown with seven of 13 players on rookie-scale or minimum deals. Still expected to try to stay out of the relegation zone.",
-   "until": "",
-   "sources": [
-    "oEywzBZfAvY:t0",
-    "oEywzBZfAvY:t7",
-    "ahNxsoU8Hx4:t4"
-   ],
-   "new_meaning": "Team in a teardown or rebuild with a young, cheap roster, so roles can shift through trades and minutes for young players."
-  },
-  {
-   "name": "usage freed",
-   "channel": "current",
-   "detail": "Westbrook, Schroder and DeRozan are gone. Their shots and touches go to Sabonis, LaVine and Murray.",
-   "until": "",
-   "sources": [
-    "2A2JbUN-kc0:t0",
-    "LM0cRCGoAUQ:t5",
-    "-KS_AZjZnw4:t4",
-    "DubdKKhMWHo:t1",
-    "ahNxsoU8Hx4:t4"
-   ],
-   "new_meaning": "Team lost high-usage players, so its remaining players should get more shots and touches."
-  },
-  {
-   "name": "projected bottom team",
-   "channel": "current",
-   "detail": "Vegas win total 21.5, rank 30 of 30.",
-   "until": "",
-   "sources": [
-    "stats",
-    "oEywzBZfAvY:t7",
-    "0AptxcRW0RE:t8"
-   ],
-   "new_meaning": "Projected by win total to be among the worst teams in the league."
   }
  ],
- "note": "Sabonis, LaVine and Murray gain the most because Westbrook, Schroder and DeRozan are gone. The team also plans to compete to stay out of the relegation zone, so its stars should play, and the playoff schedule is strong at 11 games. The main risk is a trade or buyout of Sabonis or LaVine, which would change their roles and open minutes for Acuff, Raynaud and other young players. Malik Monk looks like a fade. Early on, watch trade news, the three open roster spots and whether Christie favors veterans or rookies.",
+ "note": "Sabonis, LaVine and Keegan Murray gain the most because Westbrook, DeRozan and Schroder are gone. Relegation pressure means the Kings should keep trying to win rather than tank, and their 11-game fantasy playoff schedule is strong. Early on, watch for a Sabonis or LaVine trade or a LaVine buyout, which would reshape usage. Also watch whether Malik Monk, whom the team seems to dislike, stays stuck in the second unit.",
  "rejected": []
 }

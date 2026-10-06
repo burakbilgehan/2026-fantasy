@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "7b29e2f1d26d",
+ "input_sha": "675445aa91d8",
  "note_count": 3,
- "built_at": "2026-10-04T17:36:27+00:00",
+ "built_at": "2026-10-05T19:53:36+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1018902,
-  "duration_ms": 21081
+  "cost_usd_list": 0.1758314,
+  "duration_ms": 34414,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Landale re-signed with Atlanta on a 1-year, 14 million USD deal.",
+   "text": "He re-signed with Atlanta on a 1-year, 14 million USD deal.",
    "kind": "fact",
    "date": "2026-08-25",
    "until": "",
@@ -29,7 +31,7 @@
    ]
   },
   {
-   "text": "He is the backup center behind Onyeka Okongwu and part of a 10-man bench rotation.",
+   "text": "He is the backup center behind Onyeka Okongwu and part of a projected 10-man rotation off the bench.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
@@ -40,7 +42,7 @@
    ]
   },
   {
-   "text": "Atlanta's center depth is thin: Veesaar is out for the season and Gueye is injured.",
+   "text": "Atlanta's center depth is thin. Veesaar is out for the season and Gueye is injured.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
@@ -56,20 +58,11 @@
    "sources": [
     "4gw4W4RTolY:p19"
    ]
-  },
-  {
-   "text": "One expert calls him an okay backup center and questions the size of his contract.",
-   "kind": "verdict",
-   "date": "2026-07-01",
-   "until": "",
-   "sources": [
-    "W3THnI7wWdA:p43"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is a center who can shoot, so Atlanta always has a shooting center on the floor. This fits Quin Snyder's five-out offense, which wants lots of threes.",
+   "text": "He is a center who can shoot from outside, which fits Quin Snyder's five-out offense.",
    "kind": "fact",
    "date": "2026-08-25",
    "until": "",
@@ -79,9 +72,9 @@
    ]
   },
   {
-   "text": "Steals are a clear weak spot. He is projected well below the league in steals.",
+   "text": "He gets very few steals, well below the top 250 pool.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
@@ -92,7 +85,7 @@
   {
    "name": "handcuff",
    "channel": "current",
-   "detail": "Backup to Onyeka Okongwu. Would start and play 30-plus minutes if Okongwu is out.",
+   "detail": "Starts and plays 30-plus minutes if Onyeka Okongwu is out",
    "until": "",
    "sources": [
     "4gw4W4RTolY:p19"
@@ -102,14 +95,47 @@
   {
    "name": "waiver watch",
    "channel": "current",
-   "detail": "Stash value only in deep leagues. In our league, add him if Okongwu misses time.",
+   "detail": "Stash value in deep leagues only; add if Okongwu misses time",
    "until": "",
    "sources": [
-    "4gw4W4RTolY:p19"
+    "4gw4W4RTolY:p19",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "contract year",
+   "channel": "current",
+   "detail": "Signed a 1-year, 14 million USD deal",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p43"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Projected 10-man rotation with Landale as a bench big",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t2",
+    "W3THnI7wWdA:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "five-out offense",
+   "channel": "durable",
+   "detail": "Snyder wants five-out spacing; Landale gives Atlanta a shooting center",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:t3",
+    "H9q2FT3LhNw:p30"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Landale is Yahoo rank 282 with a 0 USD value and no ESPN price, so he is not one of the 144 players we draft. His 2025-26 line in 22.2 minutes (10.6 PTS, 5.7 REB, 0.5 STL, 0.5 BLK) shows little value in 9-cat when he comes off the bench, and his steals are a clear weak spot. Leave him on waivers and watch Okongwu's health early in the season, because an Okongwu injury would make Landale a 30-minute starter worth a FAB bid.",
+ "note": "Yahoo ranks him 282nd with a 0 USD value, and he was not drafted in our league last season. He is far outside our 144-player auction, so do not draft him. His projection is thin: 0.3 steals, 0.2 blocks and 8.5 points. The 81.6% FT projection also looks generous after he shot 63.5% last season. Treat him as an Okongwu handcuff on waivers. If Okongwu misses time, use FAB on Landale, since thin center depth would give him 30-plus minutes.",
  "rejected": []
 }

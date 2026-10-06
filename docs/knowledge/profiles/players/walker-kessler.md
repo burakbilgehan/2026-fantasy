@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 24 | 18.8 | 41 | 13 | 8.5 | 45 | 15 |
+| 2026-27 | 24 | 18.8 | 41 | 13 | 8.4 | 45 | 15 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,34 +30,33 @@
 </details>
 
 **Current**
-- His Yahoo price is too high. Experts call a top 30 pick far too early and his Yahoo rank of about 37 with an ADP around 32 to 35 too high. Pick 42 is better, but still not loved. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=740), [09-22](https://youtu.be/QbdrhJd7LiA?t=538), [09-19](https://youtu.be/uarqbNA2dFk?t=654), [09-14](https://youtu.be/t4n9MAP2_14?t=1349), [09-07](https://youtu.be/E-KmhvyZ2CU?t=611), [08-19](https://youtu.be/J1Eg3uaAICU?t=820), [07-02](https://youtu.be/P6TNP-g0wzY?t=1087))
-- His draft spot varies a lot, from early round 3 to late round 4. (fact, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=940))
-- Last season's five-game sample was inflated by unsustainable three-point shooting and a high steal rate. Experts expect his threes and steals to come down, which also lowers his FG% and scoring. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=538), [09-19](https://youtu.be/uarqbNA2dFk?t=654), [09-14](https://youtu.be/t4n9MAP2_14?t=1349), [07-13](https://youtu.be/Rqb5GdrSweY?t=757), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1670), [07-02](https://youtu.be/P6TNP-g0wzY?t=1072))
-- At his ESPN ADP of 80 he is a fine or easy pick. (verdict, 2026-09-21; [09-19](https://youtu.be/uarqbNA2dFk?t=654), [09-21](https://youtu.be/egRrai3Ax38?t=1657))
-- The Lakers' backup centers are weak: Kevon Looney and Mamukelashvili. The team's defense depends heavily on him. (fact, 2026-09-14; [07-13](https://youtu.be/Rqb5GdrSweY?t=778), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1701), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2316))
-- Expected line: double-digit rebounds, 12 to 15 points with about six coming off offensive rebounds, 2+ blocks and bad free throws. (verdict, 2026-09-14; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1592), [09-14](https://youtu.be/t4n9MAP2_14?t=1349))
-- Josh says the five games last season should not scare drafters off. He might play 80 games. (verdict, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1741))
-- He left Utah and is locked in as the Lakers' starting center. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=324), [08-04](https://youtu.be/_WjOjp6Qu8E?t=430), [07-13](https://youtu.be/Rqb5GdrSweY?t=806))
-- He played five games last season before shoulder surgery. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=324))
+- His threes and high steal rate came from a five-game sample, and the experts expect both to drop this season. That also lowers his FG% and scoring a little. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1963), [09-22](https://youtu.be/QbdrhJd7LiA?t=538), [09-19](https://youtu.be/uarqbNA2dFk?t=654), [09-14](https://youtu.be/t4n9MAP2_14?t=1349), [07-13](https://youtu.be/Rqb5GdrSweY?t=757), [07-02](https://youtu.be/P6TNP-g0wzY?t=1072), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1670))
+- Josh would not pay more than 15 USD in an auction. Others value him more, and he went for 26 USD in an auction mock. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1962))
+- His Yahoo price is too high. The experts call a rank in the 20s or 30s, a top 30 pick or round 3 an overdraft and fade him there. Pick 42 is better but still not loved. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=740), [09-22](https://youtu.be/QbdrhJd7LiA?t=538), [09-19](https://youtu.be/uarqbNA2dFk?t=654), [09-14](https://youtu.be/t4n9MAP2_14?t=1349), [09-07](https://youtu.be/E-KmhvyZ2CU?t=611), [08-19](https://youtu.be/J1Eg3uaAICU?t=820), [07-02](https://youtu.be/P6TNP-g0wzY?t=1087))
+- His draft spot in mocks varies a lot, from early round 3 to late round 4. (fact, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=940))
+- At an ESPN ADP around 80 he is a fair, easy pick. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1657), [09-19](https://youtu.be/uarqbNA2dFk?t=654))
+- His backups at center are weak. Kevon Looney is the listed backup, and Mamukelashvili may take those minutes. (fact, 2026-09-14; [07-13](https://youtu.be/Rqb5GdrSweY?t=778), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2316), [07-13](https://youtu.be/Rqb5GdrSweY?t=806))
+- Expected line this season: about 12 to 15 points, with around six from offensive rebounds, double-digit rebounds, 2+ blocks and bad free throws. (verdict, 2026-09-14; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1592), [09-14](https://youtu.be/t4n9MAP2_14?t=1349))
+- Josh says managers should not avoid him because he missed most of last season. He thinks Kessler might play 80 games. (verdict, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1741))
+- He joined the Lakers from Utah and is locked in as their starting center. The Lakers' defense depends heavily on him. (fact, 2026-08-05; [08-04](https://youtu.be/_WjOjp6Qu8E?t=430), [07-13](https://youtu.be/Rqb5GdrSweY?t=806), [08-05](https://youtu.be/CI4k8ofUXXk?t=324), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1701), [07-13](https://youtu.be/Rqb5GdrSweY?t=778))
 - Andy expects Luka Doncic to make him look very good as a roller and dunking threat. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1647))
-- A very good pick if your team is low on rebounds. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1621))
-- With weak backups behind him, he should play heavy minutes. (verdict, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=806))
+- He is a very good pick for a team that is low on rebounds. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1621))
+- With weak backups behind him, he is expected to play heavy minutes. (verdict, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=806))
 
 **Durable**
-- Free throws are a clear weakness. FT% is a league outlier on the weak side. (fact, 2026-10-04; [07-13](https://youtu.be/Rqb5GdrSweY?t=757), [07-02](https://youtu.be/P6TNP-g0wzY?t=1092), stats)
-- A three-category center: rebounds, FG% and blocks are his strengths, and all three are league outliers. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=669), [07-02](https://youtu.be/P6TNP-g0wzY?t=1092), [07-13](https://youtu.be/Rqb5GdrSweY?t=757), stats)
-- Nothing else in his profile is strong. Experts rate his assists, steals and threes near the bottom of the league. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=669), [07-02](https://youtu.be/P6TNP-g0wzY?t=1092))
-- He has had arm or shoulder problems in two of the last three seasons, including shoulder surgery. (fact, 2026-08-05; [07-02](https://youtu.be/P6TNP-g0wzY?t=1072), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1693), [08-05](https://youtu.be/CI4k8ofUXXk?t=324))
+- He is a three-category center: rebounds, FG% and blocks. His free throws are poor, and his assists, steals, threes and points give little. (fact, 2026-10-05; [07-02](https://youtu.be/P6TNP-g0wzY?t=1092), [09-19](https://youtu.be/uarqbNA2dFk?t=669), [07-13](https://youtu.be/Rqb5GdrSweY?t=757), stats)
+- The experts see him as a very one-dimensional player. Nothing outside his three strong categories is good, and much of it is bad. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1963), [09-19](https://youtu.be/uarqbNA2dFk?t=669), [07-02](https://youtu.be/P6TNP-g0wzY?t=1092))
+- He has had arm or shoulder problems in two of the last three seasons, including shoulder surgery last season. (fact, 2026-08-05; [07-02](https://youtu.be/P6TNP-g0wzY?t=1072), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1693), [08-05](https://youtu.be/CI4k8ofUXXk?t=324))
 - An elite rim protector and defensive rebounder. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1501))
-- It is unclear how many minutes his body can handle. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1693))
-- He has a 20 to 25% career three-point percentage. Lloyd does not trust his new three-point attempts. (fact, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1072))
+- His career three-point percentage is 20 to 25%. His steal rate was very low before last season's five games. (fact, 2026-08-04; [07-02](https://youtu.be/P6TNP-g0wzY?t=1072), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1670))
+- Because of these arm and shoulder injuries, it is unclear how many minutes his body can handle. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1693))
 
 **Tags**
-- Current: `new team` (Utah to Lakers, starting center), `injury last season` (five games, then shoulder surgery), `bust candidate` (Yahoo rank and ADP in the 30s are too high; fine at ESPN ADP 80), `sites disagree on price` (Yahoo ADP about 32 to 35 vs ESPN ADP 80)
-- Durable: `BLK specialist` (projected about 2.6 blocks per game), `REB specialist` (projected about 12 rebounds per game), `FG% anchor` (about 65% on 7 to 8 attempts), `FT% liability` (projected about 59% from the line), `punt FT fit`
+- Current: `new team` (Utah to Lakers), `injury last season` (five games before shoulder surgery), `regression risk` (threes and steals from a five-game sample), `bust candidate` (at Yahoo rank and ADP in the 30s or a 26 USD auction price), `sites disagree on price` (Yahoo value 24 USD vs ESPN 13 USD; draft spot varies from round 3 to 4), `thin rotation` (weak backup centers behind him)
+- Durable: `BLK specialist` (about 2.6 blocks projected), `REB specialist` (about 12 rebounds projected), `FG% anchor` (about 65% on 7 to 8 attempts), `FT% liability` (projected about 59%), `punt FT fit`
 
-**Note.** Kessler is a three-category center (BLK, REB, FG%) with a bad FT% and few threes, assists or steals, so he fits best in a punt FT build. Prices are far apart: Yahoo values him at 24 USD (average cost 18.8), ESPN at 13 USD (8.5), and he went for 15 USD in our league last season. The experts think his Yahoo price is too high and that he is fine around his ESPN level, so pay close to 15 USD and do not chase him into the 20s. Early in the season, check whether his threes and steals drop back to his usual low levels, how his FT% looks on more attempts, and whether his shoulder holds up under starter minutes.
+**Note.** Kessler is a strong three-category center: blocks (z +4.3), rebounds (+3.0) and FG% (+2.5). His FT% is a clear liability (-2.8), so he fits punt FT builds best. Yahoo values him at 24 USD (average cost 18.8) and ESPN at 13 USD (8.4). He went for 15 USD in our league last season. The experts say about 15 USD is his ceiling, and a 26 USD price like the one in an auction mock is an overpay. Early in the season, check whether his three-point attempts and steals hold up, and whether his shoulder lets him play full starter minutes.
 
 <sub>Tags removed by the category check: no 3PM (3PM 0.3 per game).</sub>
 
-<sub>23 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>25 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

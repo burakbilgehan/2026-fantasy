@@ -30,20 +30,20 @@
 </details>
 
 **Current**
-- The Kings' projected starters are Acuff, LaVine, Hunter, Murray and Sabonis, so he is not in the starting group. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691), [07-01](https://youtu.be/W3THnI7wWdA?t=1324))
-- He started late last season only because Keegan Murray and DeAndre Hunter were hurt. His 73rd rank after the deadline came while Murray, Hunter and Domantas Sabonis were out. (fact, 2026-07-14; [07-01](https://youtu.be/W3THnI7wWdA?t=1338), [07-14](https://youtu.be/xHRF06_E9HE?t=1622))
-- He is expected to be a reserve big. The experts say his late-season run was not real and he should not be drafted because of it. (verdict, 2026-07-14; [07-01](https://youtu.be/W3THnI7wWdA?t=1338), [07-14](https://youtu.be/xHRF06_E9HE?t=1622))
-- He re-signed with Sacramento for 2 years and 11.5 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
+- The projected Kings starters are Acuff, LaVine, Hunter, Murray and Sabonis. He is not in that group. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691), [07-01](https://youtu.be/W3THnI7wWdA?t=1324))
+- His late-season run, including a 73rd rank after the deadline, came only because Murray, Hunter and Sabonis were out. The experts say it is not real and you should not draft him off it. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1622), [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
+- He re-signed with Sacramento for 2 years and 11.5 million. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
+- He is expected to be a reserve big this season. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
 
 **Durable**
-- He makes almost no threes, about 0.3 per game. (fact, 2026-10-04; stats)
+- He makes almost no threes and shoots under 62% from the line. He takes fewer than 2 free throws per game, so the FT% damage is limited. (fact, 2026-10-05; stats)
 
 **Tags**
-- Current: `role down` (Reserve big behind Sabonis, Murray and Hunter after starting late last season because of injuries), `handcuff` (Ranked 73rd after the deadline while Murray, Hunter and Sabonis were out), `waiver watch` (Not a draft target. Gains value only if Sacramento frontcourt starters miss time)
+- Current: `role down` (Reserve big behind Sabonis, Murray and Hunter after starting during their injuries late last season), `handcuff` (Ranked 73rd after the deadline while Murray, Hunter and Sabonis were out), `waiver watch` (Do not draft. Watch if Sabonis, Murray or Hunter miss time)
 - Durable: none
 
-**Note.** Achiuwa is priced at 0 USD on both sites (Yahoo rank 204, ESPN 153) and was not drafted in our league, so he is outside our 144-player draft pool. Both experts say not to draft him off his late-season run. His 10.1 points and 6.7 rebounds in 24 minutes last season came mostly as an injury fill-in, and his category line has no standout strength. Leave him on waivers and pick him up only if Sabonis, Murray or Hunter misses real time.
+**Note.** Both sites value him at 0 USD and rank him 204 (Yahoo) and 153 (ESPN), so he falls outside the 144 players drafted in our league. Leave him on waivers. His only value comes when Sabonis, Murray or Hunter miss games, or if a trade opens up the Kings frontcourt. In those cases he adds rebounds, a decent FG% and few turnovers, at a small cost in FT% and threes.
 
 <sub>Tags removed by the category check: no 3PM (3PM 0.3 per game).</sub>
 
-<sub>2 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

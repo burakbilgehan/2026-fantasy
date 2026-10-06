@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "ec439c719579",
+ "input_sha": "1ffdc0defefd",
  "note_count": 18,
- "built_at": "2026-10-04T17:30:38+00:00",
+ "built_at": "2026-10-05T19:48:35+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1747502,
-  "duration_ms": 49867
+  "cost_usd_list": 0.1994262,
+  "duration_ms": 58933,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He is projected to start at center and play about 28 minutes per game in a role similar to last season. No minutes cut is expected, but a Blazers beat writer does not see him going over 28 minutes. One projection puts his usage at 17%.",
+   "text": "He is projected as Portland's starting center and is expected to play about 28 minutes a night in a similar role to last season. No cut in minutes is expected, but a local beat writer does not think he goes over 28 minutes.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
@@ -32,7 +34,16 @@
    ]
   },
   {
-   "text": "Portland added several centers this offseason. He played poorly in last season's playoffs, and Robert Williams outplayed him.",
+   "text": "He is projected at about 17% usage.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p21"
+   ]
+  },
+  {
+   "text": "Portland added several centers. He played poorly in last season's playoffs and was outplayed by Robert Williams.",
    "kind": "fact",
    "date": "2026-09-14",
    "until": "",
@@ -43,56 +54,58 @@
    ]
   },
   {
-   "text": "Portland's roster is crowded with high-usage guards, and minutes and usage are expected to swing from game to game. Experts do not expect a big leap from him.",
+   "text": "Portland is crowded with high-usage guards (Lillard, Morant, Henderson, Avdija). The team also has a new head coach.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:t9",
+    "n4KkK-OJjqA:t6",
+    "LM0cRCGoAUQ:t1"
+   ]
+  },
+  {
+   "text": "Experts do not expect a big leap this season because the roster is crowded. One sees no upside and plenty of downside.",
    "kind": "verdict",
    "date": "2026-09-22",
    "until": "",
    "sources": [
     "YJk7ZFKFqnI:p16",
-    "YJk7ZFKFqnI:t5",
-    "sTtFUy7IoJI:t9",
+    "J1Eg3uaAICU:p40",
     "QbdrhJd7LiA:p12"
    ]
   },
   {
-   "text": "Experts agree his Yahoo rank and ADP around 38 to 41 are far too high. They would not draft him in round three, and some would not take him anywhere from round two to round five. They see no upside at that price.",
+   "text": "Experts agree he is overdrafted at his Yahoo rank and ADP of about 38 to 41. A third-round pick is too early, and one expert would not take him anywhere from round two to round five. One expert is not a big fan of him even at 53.",
    "kind": "verdict",
    "date": "2026-09-30",
    "until": "",
    "sources": [
-    "BjXP9JODDSg:p23",
-    "QbdrhJd7LiA:p12",
     "uarqbNA2dFk:p10",
     "t4n9MAP2_14:p21",
     "gJUBAJaHzlU:p7",
     "E-KmhvyZ2CU:p14",
     "gerS7ibpaJo:p5",
     "J1Eg3uaAICU:p40",
-    "OdDkXFhoKsc:p26"
+    "OdDkXFhoKsc:p26",
+    "QbdrhJd7LiA:p12",
+    "C4vlgpJ62NI:p29",
+    "BjXP9JODDSg:p23"
    ]
   },
   {
-   "text": "Experts project him at about rank 70 to 95. One expert puts his auction value at about 5 USD.",
-   "kind": "verdict",
-   "date": "2026-09-21",
-   "until": "",
-   "sources": [
-    "gJUBAJaHzlU:p7",
-    "egRrai3Ax38:p39"
-   ]
-  },
-  {
-   "text": "At an ESPN ADP of 100 to 109, experts call him good value, even those who usually think he is overrated.",
+   "text": "At an ESPN ADP of around 100 to 109 he is good value. Expert projections of where he finishes range from inside the top 70 to 75 to 95. One expert puts his auction value at about 5 USD.",
    "kind": "verdict",
    "date": "2026-09-21",
    "until": "",
    "sources": [
     "egRrai3Ax38:p39",
-    "ahNxsoU8Hx4:p67"
+    "ahNxsoU8Hx4:p67",
+    "gJUBAJaHzlU:p7"
    ]
   },
   {
-   "text": "He rises to 14th in punt FT% rankings. Experts say that is still not a reason to reach for him in round three.",
+   "text": "He rises to 14th in punt FT% rankings, but that is not a reason to reach for him in round three.",
    "kind": "verdict",
    "date": "2026-09-23",
    "until": "",
@@ -101,7 +114,7 @@
    ]
   },
   {
-   "text": "The Blazers have three back-to-backs in the fantasy playoff weeks.",
+   "text": "Portland has three back-to-backs in the fantasy playoff weeks.",
    "kind": "fact",
    "date": "2026-08-16",
    "until": "",
@@ -112,51 +125,19 @@
  ],
  "durable": [
   {
-   "text": "He is one of the best rebounders in the league. Rebounds are his best category by a wide margin.",
+   "text": "He is one of the best rebounders in the league and a very good shot blocker. Rebounds and blocks are both league outliers.",
    "kind": "fact",
    "date": "2026-09-14",
    "until": "",
    "sources": [
+    "t4n9MAP2_14:p20",
     "YJk7ZFKFqnI:p14",
-    "t4n9MAP2_14:p20",
     "gJUBAJaHzlU:p6",
     "stats"
    ]
   },
   {
-   "text": "He is a very good shot blocker. Blocks are a clear strength.",
-   "kind": "fact",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "t4n9MAP2_14:p20",
-    "gJUBAJaHzlU:p6",
-    "stats"
-   ]
-  },
-  {
-   "text": "Experts call him a two-category player, rebounds and blocks. His scoring and assists are low, and his steals are very poor.",
-   "kind": "verdict",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "t4n9MAP2_14:p20",
-    "gJUBAJaHzlU:p6"
-   ]
-  },
-  {
-   "text": "He is a poor free throw shooter.",
-   "kind": "fact",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "t4n9MAP2_14:p20",
-    "gJUBAJaHzlU:p6",
-    "stats"
-   ]
-  },
-  {
-   "text": "Experts call him a bad finisher with bad hands. His projected FG% is still about average for a center.",
+   "text": "He is a two-category player. Outside rebounds and blocks he gives little: poor free throw shooting, very few steals, and low assists and scoring.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
@@ -167,14 +148,25 @@
    ]
   },
   {
-   "text": "He takes threes and cannot post up.",
+   "text": "He has bad hands, is a bad finisher and cannot post up.",
    "kind": "fact",
    "date": "2026-09-14",
    "until": "",
    "sources": [
     "t4n9MAP2_14:p20",
     "YJk7ZFKFqnI:p14",
-    "YJk7ZFKFqnI:p15"
+    "NYTH7uQsPCM:t7"
+   ]
+  },
+  {
+   "text": "He takes threes and plays away from the paint, which fits a team that wants its bigs to leave room for guards to drive.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p20",
+    "YJk7ZFKFqnI:p15",
+    "YJk7ZFKFqnI:t3"
    ]
   }
  ],
@@ -182,80 +174,97 @@
   {
    "name": "REB specialist",
    "channel": "durable",
-   "detail": "one of the best rebounders in the league",
-   "sources": [
-    "YJk7ZFKFqnI:p14",
-    "t4n9MAP2_14:p20",
-    "stats"
-   ],
+   "detail": "About 11.8 rebounds per game projected",
    "until": "",
+   "sources": [
+    "stats",
+    "YJk7ZFKFqnI:p14",
+    "t4n9MAP2_14:p20"
+   ],
    "new_meaning": ""
   },
   {
    "name": "BLK specialist",
    "channel": "durable",
-   "detail": "very good shot blocker",
-   "sources": [
-    "t4n9MAP2_14:p20",
-    "gJUBAJaHzlU:p6",
-    "stats"
-   ],
+   "detail": "About 1.8 blocks per game projected",
    "until": "",
+   "sources": [
+    "stats",
+    "t4n9MAP2_14:p20"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Crowded with high-usage guards: Lillard, Morant, Henderson, Avdija",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:p16",
+    "sTtFUy7IoJI:t9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "Portland has a new head coach",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:t6"
+   ],
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "Yahoo rank and ADP around 38 to 41, round three is too early",
+   "detail": "At his Yahoo rank and ADP of about 38 to 41 (round three)",
+   "until": "",
    "sources": [
-    "BjXP9JODDSg:p23",
-    "QbdrhJd7LiA:p12",
     "uarqbNA2dFk:p10",
     "t4n9MAP2_14:p21",
     "gJUBAJaHzlU:p7",
     "E-KmhvyZ2CU:p14",
-    "gerS7ibpaJo:p5",
     "J1Eg3uaAICU:p40",
-    "OdDkXFhoKsc:p26"
+    "QbdrhJd7LiA:p12"
    ],
-   "until": "",
-   "new_meaning": ""
-  },
-  {
-   "name": "sleeper",
-   "channel": "current",
-   "detail": "only at ESPN ADP 100 to 109",
-   "sources": [
-    "egRrai3Ax38:p39",
-    "ahNxsoU8Hx4:p67"
-   ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo ADP around 41 vs ESPN ADP 100 to 109",
+   "detail": "Yahoo ADP about 41, ESPN ADP about 100 to 109",
+   "until": "",
    "sources": [
     "uarqbNA2dFk:p10",
     "egRrai3Ax38:p39",
     "ahNxsoU8Hx4:p67",
     "stats"
    ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "Only at his ESPN price (ADP about 100 to 109)",
    "until": "",
+   "sources": [
+    "egRrai3Ax38:p39",
+    "ahNxsoU8Hx4:p67"
+   ],
    "new_meaning": ""
   },
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "three back-to-backs in fantasy playoff weeks",
+   "detail": "Portland has three back-to-backs in the fantasy playoff weeks",
+   "until": "",
    "sources": [
     "gf_6GveiAls:t6"
    ],
-   "until": "",
    "new_meaning": ""
   }
  ],
- "note": "He is a rebounds and blocks specialist (REB z +2.8, BLK z +2.6 vs pool) with a weak FT% (66.5%) and little else, so he fits builds that chase the big-man categories and can absorb a FT% drag. Experts see him around rank 70 to 95 and about 5 USD. That puts him far below Yahoo's 25 USD value and 12.0 USD average cost, and close to the 7 USD he went for in our league last season, so do not chase him past single digits. Early in the season, check that he keeps about 28 minutes despite Portland's added centers, and that his three-point volume holds.",
+ "note": "Clingan is a real rebounds and blocks piece (z +2.8 and +2.6 vs the pool). He helps little elsewhere, and his 66.5% FT% hurts. The experts agree that Yahoo's 25 USD value and rank 38 are too high. They see fair value closer to ESPN's 14 USD value and 6 USD average cost, or about 5 USD, so pay single digits as in our league's 7 USD, not round-three money. Early in the season, check that he keeps about 28 minutes against Portland's other centers and its crowded guard group under the new coach.",
  "rejected": []
 }

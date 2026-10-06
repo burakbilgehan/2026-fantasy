@@ -11,32 +11,31 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Derik Queen, PF Saddiq Bey, PG Jeremiah Fears, SG Bennedict Mathurin, SG Jordan Poole
 
 **Current**
-- The fantasy playoff schedule is strong: 11 games in weeks 19 to 21, rank 4 of 30. Week 21 has only 3 games. (fact, 2026-10-04; stats)
-- The newest projected starters are Dejounte Murray, Trey Murphy III, Zion Williamson and likely Yves Missi. The fifth spot is between Jeremiah Fears and Herbert Jones. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=439), stats)
+- Saddiq Bey is talked about as a starter who may close games in lineups with Zion at center. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=6001))
+- The fantasy playoff schedule is strong: 11 games in weeks 19 to 21 (rank 4 of 30), with no back-to-back in week 21. (fact, 2026-10-05; stats)
+- Dejounte Murray, Trey Murphy III and Zion Williamson are locked into the starting lineup. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=530), [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
 - Yves Missi looks like the starting center. Derik Queen does not seem set to start. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [09-30](https://youtu.be/BjXP9JODDSg?t=1097), [09-24](https://youtu.be/_vbAP5y182A?t=1141))
-- Josh thinks the Pelicans will rest Zion Williamson often. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
-- The team has 16 back-to-backs, one of the higher counts in the league. This adds rest risk for Zion Williamson. (verdict, 2026-10-02; stats, [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
-- A Pelicans beat reporter thinks Jeremiah Fears will start over Herbert Jones. The depth chart still lists Jones as the starter. (fact, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1141), stats)
-- Derik Queen and Zion Williamson are a bad fit together. How coach Jamahl Mosley will handle it is unknown. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1141), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1047), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1818))
-- Experts do not expect the team to give up on the season and start Jeremiah Fears over Dejounte Murray. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=545))
-- Experts say the roster makes no sense and the guard roles are unclear. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=545), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1047), [08-11](https://youtu.be/OdDkXFhoKsc?t=882))
-- Experts see a weak team near the bottom of the West. The win total is 27.5, rank 26 of 30. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1047), [07-27](https://youtu.be/0AptxcRW0RE?t=2060), stats)
-- The rotation is crowded. About eight players could start: Fears, Murray, Jones, Murphy, Zion, Bey, Missi and Queen. Bennedict Mathurin and Jordan Poole add to the bench. This creates a minutes crunch. (fact, 2026-09-04; [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1477), stats)
-- Jamahl Mosley is the new head coach. (fact, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1168), [08-03](https://youtu.be/5QU-jta-lWM?t=1459))
-- The Pelicans need to trade someone to make room for Mathurin, possibly Jordan Hawkins or Micah Peavy. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1577))
-- The team will not go into the luxury tax. It is about 8.27 million under the line with 14 players and cannot use the full non-taxpayer mid-level exception. (fact, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=753))
-- The team is stuck between a win-now plan and a rebuild and will not commit to either one. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=138))
-- Jake predicts about 34 wins, which would still not make a playoff team. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1765))
+- The last starting spot is open between Jeremiah Fears and Herbert Jones. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
+- The Pelicans are expected to rest Zion Williamson often. With 16 back-to-backs (rank 26 of 30), there are many chances to sit him. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=439), stats)
+- A Pelicans beat reporter expects Fears to start over Jones. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1141))
+- Derik Queen and Zion Williamson are a poor fit together, which limits how much they can share the floor. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1141), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1047), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1818))
+- The guard roles are unclear and the experts cannot make sense of the lineup plans. (verdict, 2026-09-21; [08-11](https://youtu.be/OdDkXFhoKsc?t=882), [09-21](https://youtu.be/egRrai3Ax38?t=545), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1047))
+- One expert does not expect the team to pack it in and start Fears over Murray. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=545))
+- The Pelicans are a weak team near the bottom of the West. One projection has about 34 wins, still not a playoff team. The win total of 27.5 ranks 26 of 30. (verdict, 2026-09-17; [07-27](https://youtu.be/0AptxcRW0RE?t=2060), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1047), [08-03](https://youtu.be/5QU-jta-lWM?t=1765), stats)
+- Jamahl Mosley is the new head coach this season. (fact, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1168), [08-03](https://youtu.be/5QU-jta-lWM?t=1459))
+- The rotation is crowded. About eight players could start: Fears, Murray, Jones, Murphy, Zion, Bey, Missi and Queen. Bennedict Mathurin was added to the bench. This creates a minutes crunch. (fact, 2026-09-04; [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1477))
+- The team needs to trade someone to make room for Mathurin, possibly Jordan Hawkins or Micah Peavy. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1577))
+- The team will not go into the luxury tax. It is about 8.27 million USD under the line with 14 players and cannot use the full non-taxpayer mid-level exception. (fact, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=753))
 - The team lacks shooting. Trey Murphy III is basically the only floor spacer. (fact, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=499))
-- Defensive rebounding is a major weakness. Opponents got offensive rebounds on about a third of possessions. (fact, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=556))
+- The team is stuck between a win-now timeline and a rebuild timeline and will not commit to either one. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=138))
 
 **Durable**
-- Jamahl Mosley brings a defense-first identity and switches less on defense than the previous staff. (fact, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1459))
+- Jamahl Mosley brings a defense-first identity and switches less than Willie Green did. (fact, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1459))
 
 **Tags**
-- Current: `good playoff schedule` (11 games in weeks 19 to 21 (4, 4, 3), rank 4 of 30, with 2 back-to-back pairs.), `many back-to-backs` (16 back-to-backs, rank 26 of 30 (1 = fewest). Adds rest risk for Zion Williamson.), `deep rotation` (About eight players could start. The center spot (Missi or Queen) and the fifth starter (Fears or Jones) are not settled.), `new coach` (Jamahl Mosley, defense-first.), `bottom team` (Win total 27.5, rank 26 of 30. Experts see it at the bottom of the West.), `trades likely` (Needs to move someone to fit Mathurin, possibly Jordan Hawkins or Micah Peavy.)
-- Durable: none
+- Current: `new coach` (Jamahl Mosley replaces Willie Green.), `bottom team` (Win total 27.5, rank 26 of 30. Weak team near the bottom of the West.), `deep rotation` (About eight possible starters plus Mathurin and Poole off the bench.), `unsettled rotation` (Fifth starter is Fears or Jones. Missi vs Queen at center. Bey may close games with Zion at center.), `trades likely` (Must clear a roster spot for Mathurin. Hawkins or Peavy are named.), `many back-to-backs` (16 back-to-backs, rank 26 of 30. Zion expected to rest often.), `good playoff schedule` (11 games in weeks 19 to 21 (4, 4, 3), rank 4 of 30.)
+- Durable: `defense-first` (Mosley's defense-first identity. Little shooting: Murphy is the only real spacer.)
 
-**Note.** Yves Missi gains as the likely starting center. Derik Queen loses value as long as he and Zion cannot share the floor. Zion carries extra risk because Josh expects frequent rest and the team has many back-to-backs. The 11-game playoff schedule (rank 4) makes Pelicans who hold their roles worth keeping late. Watch early who wins the fifth starting spot (Fears or Herbert Jones), how Mosley splits the frontcourt minutes, and whether a trade clears the rotation crunch.
+**Note.** New Orleans is a weak, crowded team under new coach Jamahl Mosley. Murray, Murphy and Zion are set as starters, and Missi now looks like the starting center over Queen, which helps Missi and hurts Queen, Fears and Bey. Watch early who wins the fifth starting spot (Fears, Jones or Bey), whether a trade clears the logjam, and how often Zion sits during a heavy back-to-back schedule. The strong playoff schedule (11 games) helps anyone who keeps a role.
 
-<sub>20 notes. Built 2026-10-04 with claude-opus-5-5 high, team prompt v1.</sub>
+<sub>22 notes. Built 2026-10-05 with claude-opus-5-5 high, team prompt v1.</sub>

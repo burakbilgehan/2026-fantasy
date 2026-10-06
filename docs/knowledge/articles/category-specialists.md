@@ -43,57 +43,57 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 |---|---|---|---|---|---|---|---|---|
 | [Tyrese Haliburton](../profiles/players/tyrese-haliburton.md) | IND | G | 10 | 45.4 | 12 | 39.1 | not drafted | Elite assists plus useful threes, steals and FT%, but managed minutes and rested back-to-backs keep experts below his Yahoo rank. |
 | [Karl-Anthony Towns](../profiles/players/karl-anthony-towns.md) | NYK | F,C | 16 | 40.0 | 19 | 34.5 | 46 | Big rebound numbers and a FT% that helps for a big, with turnovers as his only weak category, though experts warn he is going too high. |
-| [Trae Young](../profiles/players/trae-young.md) | WAS | G | 18 | 33.6 | 47 | 33.0 | 44 | A top-five passer with elite FT% who costs you FG% and turnovers, so he fits punt FG% or punt TO builds. |
+| [Trae Young](../profiles/players/trae-young.md) | WAS | G | 18 | 33.6 | 47 | 33.4 | 44 | A top-five passer with elite FT% who costs you FG% and turnovers, so he fits punt FG% or punt TO builds. |
 | [Kawhi Leonard](../profiles/players/kawhi-leonard.md) | TOR | G,F | 37 | 32.6 | 18 | 26.0 | 20 | Standout steals with strong points and FT% per game, but knee and load management cut his games, and three Toronto back-to-backs fall in our playoffs. |
-| [Josh Giddey](../profiles/players/josh-giddey.md) | CHI | G | 19 | 35.0 | 36 | 33.9 | 31 | Elite assists and strong rebounds that work best on punt TO, with his FT% and his usage next to Powell and Buzelis as early checks. |
-| [LaMelo Ball](../profiles/players/lamelo-ball.md) | MIN | G | 24 | 30.2 | 22 | 26.6 | 29 | A threes and assists source for punt FG% and punt TO builds, with ankle risk and a two-game playoff week as reasons to stay at the low end. |
-| [Devin Booker](../profiles/players/devin-booker.md) | PHX | G | 23 | 28.4 | 40 | 32.4 | 45 | A points source with elite FT% whose value depends on whether he still runs the offense next to Jalen Green. |
-| [Stephen Curry](../profiles/players/stephen-curry.md) | GSW | G | 25 | 30.6 | 33 | 24.2 | 42 | Elite threes and points per game, but his knee, his age and 43 games played last season mean you should not pay a premium. |
-| [Jalen Brunson](../profiles/players/jalen-brunson.md) | NYK | G | 29 | 32.6 | 30 | 42.4 | 31 | Points on high usage plus threes, FT% and assists, but the Knicks' careful minutes plan and his wrist surgery make him a round 4 player for experts. |
-| [James Harden](../profiles/players/james-harden.md) | CLE | G | 31 | 19.4 | 25 | 27.8 | 42 | An elite assist source for punt FG% and punt TO builds, and experts say not round two, so last season's price would be an overpay. |
+| [Josh Giddey](../profiles/players/josh-giddey.md) | CHI | G | 19 | 35.0 | 36 | 34.0 | 31 | Elite assists and strong rebounds that work best on punt TO, with his FT% and his usage next to Powell and Buzelis as early checks. |
+| [LaMelo Ball](../profiles/players/lamelo-ball.md) | MIN | G | 24 | 30.2 | 22 | 27.2 | 29 | A threes and assists source for punt FG% and punt TO builds, with ankle risk and a two-game playoff week as reasons to stay at the low end. |
+| [Devin Booker](../profiles/players/devin-booker.md) | PHX | G | 23 | 28.4 | 40 | 32.7 | 45 | A points source with elite FT% whose value depends on whether he still runs the offense next to Jalen Green. |
+| [Stephen Curry](../profiles/players/stephen-curry.md) | GSW | G | 25 | 30.6 | 33 | 24.5 | 42 | Elite threes and points per game, but his knee, his age and 43 games played last season mean you should not pay a premium. |
+| [Jalen Brunson](../profiles/players/jalen-brunson.md) | NYK | G | 29 | 32.6 | 30 | 42.9 | 31 | Points on high usage plus threes, FT% and assists, but the Knicks' careful minutes plan and his wrist surgery make him a round 4 player for experts. |
+| [James Harden](../profiles/players/james-harden.md) | CLE | G | 31 | 19.4 | 25 | 28.0 | 42 | An elite assist source for punt FG% and punt TO builds, and experts say not round two, so last season's price would be an overpay. |
 | [Domantas Sabonis](../profiles/players/domantas-sabonis.md) | SAC | F,C | 35 | 22.6 | 32 | 39.3 | 41 | About 13.7 projected rebounds plus FG% and assists from the C spot, a punt TO fit that experts place in rounds 3 to 4. |
-| [Anthony Davis](../profiles/players/anthony-davis.md) | WAS | F,C | 45 | 21.8 | 14 | 24.4 | 54 | Elite blocks and rebounds with no weak category, but projected 58 to 61 games keep him a round 3 buy. |
-| [Evan Mobley](../profiles/players/evan-mobley.md) | CLE | F,C | 27 | 23.6 | 27 | 19.8 | 36 | Blocks, rebounds and FG% count fully in punt FT% builds, and he finished 41st in categories last season, so do not repeat last year's price. |
-| [Jalen Duren](../profiles/players/jalen-duren.md) | DET | C | 33 | 18.2 | 23 | 24.0 | 14 | A FG% and rebounds anchor who makes no threes, a punt 3PM fit whom experts see in rounds 3 to 4. |
-| [Brandon Miller](../profiles/players/brandon-miller.md) | CHA | F | 39 | 19.2 | 54 | 7.1 | 20 | Threes, points and FT% for punt FG% and punt TO builds, and a third-round player if his shoulder checks out before the auction. |
+| [Anthony Davis](../profiles/players/anthony-davis.md) | WAS | F,C | 45 | 21.8 | 14 | 24.6 | 54 | Elite blocks and rebounds with no weak category, but projected 58 to 61 games keep him a round 3 buy. |
+| [Evan Mobley](../profiles/players/evan-mobley.md) | CLE | F,C | 27 | 23.6 | 27 | 19.9 | 36 | Blocks, rebounds and FG% count fully in punt FT% builds, and he finished 41st in categories last season, so do not repeat last year's price. |
+| [Jalen Duren](../profiles/players/jalen-duren.md) | DET | C | 33 | 18.2 | 23 | 24.1 | 14 | A FG% and rebounds anchor who makes no threes, a punt 3PM fit whom experts see in rounds 3 to 4. |
+| [Brandon Miller](../profiles/players/brandon-miller.md) | CHA | F | 39 | 19.2 | 54 | 7.3 | 20 | Threes, points and FT% for punt FG% and punt TO builds, and a third-round player if his shoulder checks out before the auction. |
 
 ### Value at price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
 | [Dyson Daniels](../profiles/players/dyson-daniels.md) | ATL | G,F | 61 | 4.4 | 38 | 9.7 | 28 | Projected 2.2 steals plus assists, rebounds and FG%, so he gives punt FT% and punt 3PM builds more than steals alone. |
-| [Ausar Thompson](../profiles/players/ausar-thompson.md) | DET | G,F | 77 | 3.2 | 78 | 2.5 | 16 | Elite steals with good FG%, rebounds and blocks, and experts say he should go clearly above his site ranks. |
-| [Darius Garland](../profiles/players/darius-garland.md) | LAC | G | 54 | 6.6 | 53 | 12.3 | 11 | Assists, threes and FT% from a likely top 50 guard who goes cheap on Yahoo, with his toe health as the main check. |
-| [Jaren Jackson Jr.](../profiles/players/jaren-jackson.md) | UTA | F,C | 42 | 13.4 | 71 | 4.8 | 29 | A blocks source that experts rank near 36th, well above his market cost, who can carry blocks next to low-assist bigs. |
-| [Matas Buzelis](../profiles/players/matas-buzelis.md) | CHI | F | 69 | 9.0 | 59 | 4.1 | 12 | Real blocks with no weak category, and experts agree he is a top 50 breakout pick. |
+| [Ausar Thompson](../profiles/players/ausar-thompson.md) | DET | G,F | 77 | 3.2 | 78 | 2.4 | 16 | Elite steals with good FG%, rebounds and blocks, and experts say he should go clearly above his site ranks. |
+| [Darius Garland](../profiles/players/darius-garland.md) | LAC | G | 54 | 6.6 | 53 | 12.8 | 11 | Assists, threes and FT% from a likely top 50 guard who goes cheap on Yahoo, with his toe health as the main check. |
+| [Jaren Jackson Jr.](../profiles/players/jaren-jackson.md) | UTA | F,C | 42 | 13.4 | 71 | 5.0 | 29 | A blocks source that experts rank near 36th, well above his market cost, who can carry blocks next to low-assist bigs. |
+| [Matas Buzelis](../profiles/players/matas-buzelis.md) | CHI | F | 69 | 9.0 | 59 | 4.2 | 12 | Real blocks with no weak category, and experts agree he is a top 50 breakout pick. |
 | [Kon Knueppel](../profiles/players/kon-knueppel.md) | CHA | G,F | 64 | 15.8 | 39 | 15.0 | not drafted | About 3.7 projected threes with solid FT%, but weak steals and blocks mean he only fits builds that can carry those. |
-| [Walker Kessler](../profiles/players/walker-kessler.md) | LAL | C | 41 | 18.8 | 45 | 8.5 | 15 | A three-category center (BLK, REB, FG%) with a bad FT%, the type that gets overdrafted, so keep him near his ESPN level and on punt FT builds. |
-| [Donovan Clingan](../profiles/players/donovan-clingan.md) | POR | C | 38 | 12.0 | 43 | 6.2 | 7 | Rebounds and blocks with a weak FT% and little else, so he is a big-man specialist only at a low price. |
-| [Rudy Gobert](../profiles/players/rudy-gobert.md) | MIN | C | 82 | 7.2 | 55 | 4.6 | 10 | A punt FT% center with rebounds, blocks and about 67% FG, but his FT% is a big drag in any other build. |
-| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 57 | 8.2 | 81 | 3.6 | 20 | A FG% and rebounds anchor for punt 3PM and punt STL builds, fair at his Yahoo average cost, not his Yahoo value. |
-| [Alex Sarr](../profiles/players/alex-sarr.md) | WAS | C | 63 | 7.0 | 61 | 3.2 | 9 | About 1.9 projected blocks even if Davis takes his spot at the rim, so he is worth buying as a blocks specialist, not at the price his rank suggests. |
+| [Walker Kessler](../profiles/players/walker-kessler.md) | LAL | C | 41 | 18.8 | 45 | 8.4 | 15 | A three-category center (BLK, REB, FG%) with a bad FT%, the type that gets overdrafted, so keep him near his ESPN level and on punt FT builds. |
+| [Donovan Clingan](../profiles/players/donovan-clingan.md) | POR | C | 38 | 12.0 | 43 | 6.0 | 7 | Rebounds and blocks with a weak FT% and little else, so he is a big-man specialist only at a low price. |
+| [Rudy Gobert](../profiles/players/rudy-gobert.md) | MIN | C | 82 | 7.2 | 55 | 4.7 | 10 | A punt FT% center with rebounds, blocks and about 67% FG, but his FT% is a big drag in any other build. |
+| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 57 | 8.2 | 81 | 3.5 | 20 | A FG% and rebounds anchor for punt 3PM and punt STL builds, fair at his Yahoo average cost, not his Yahoo value. |
+| [Alex Sarr](../profiles/players/alex-sarr.md) | WAS | C | 63 | 7.0 | 61 | 3.3 | 9 | About 1.9 projected blocks even if Davis takes his spot at the rim, so he is worth buying as a blocks specialist, not at the price his rank suggests. |
 | [Zach Edey](../profiles/players/zach-edey.md) | MEM | C | 70 | 7.2 | 113 | 1.4 | 2 | FG%, rebounds and blocks for big-man builds that punt TO, if you accept the ankle risk. |
-| [Joel Embiid](../profiles/players/joel-embiid.md) | PHI | C | 53 | 7.4 | 88 | 8.2 | 24 | Elite per-game points and FT% from a center, but 49 to 54 projected games make him a mid-round buy only. |
+| [Joel Embiid](../profiles/players/joel-embiid.md) | PHI | C | 53 | 7.4 | 88 | 8.3 | 24 | Elite per-game points and FT% from a center, but 49 to 54 projected games make him a mid-round buy only. |
 
 ### Avoid at price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Chet Holmgren](../profiles/players/chet-holmgren.md) | OKC | F,C | 28 | 30.6 | 51 | 10.0 | 32 | Elite blocks with no weak category, but experts say Yahoo's round-two price is too high, so target him only well below it. |
-| [Stephon Castle](../profiles/players/stephon-castle.md) | SAS | G | 76 | 6.6 | 92 | 10.3 | 1 | About 7.3 projected assists for punt FT% and punt TO builds, but experts fade him at his Yahoo ADP. |
+| [Chet Holmgren](../profiles/players/chet-holmgren.md) | OKC | F,C | 28 | 30.6 | 51 | 10.1 | 32 | Elite blocks with no weak category, but experts say Yahoo's round-two price is too high, so target him only well below it. |
+| [Stephon Castle](../profiles/players/stephon-castle.md) | SAS | G | 76 | 6.6 | 92 | 10.4 | 1 | About 7.3 projected assists for punt FT% and punt TO builds, but experts fade him at his Yahoo ADP. |
 
 ### Late flyers
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Myles Turner](../profiles/players/myles-turner.md) | MIL | C | 101 | 1.0 | 93 | 0.9 | 20 | Blocks and threes from a center for punt FG% builds, fine late but not worth a top-100 price. |
+| [Myles Turner](../profiles/players/myles-turner.md) | MIL | C | 101 | 1.0 | 93 | 1.0 | 20 | Blocks and threes from a center for punt FG% builds, fine late but not worth a top-100 price. |
 | [Jalen Suggs](../profiles/players/jalen-suggs.md) | ORL | G | 94 | 2.8 | 142 | 0.4 | 1 | Steals for builds that can absorb his weak FG% and turnovers, with about 20 missed games to plan for. |
-| [Kevin Porter Jr.](../profiles/players/kevin-porter.md) | MIL | G | 158 | 1.0 | 107 | 1.0 | 3 | Steals and assists for punt 3PM builds, and easy to drop if he does not start or reach 27 minutes. |
-| [Cason Wallace](../profiles/players/cason-wallace.md) | OKC | G,F | 128 | 1.0 | 109 | 0.4 | 1 | Steals with low turnovers but little scoring, rebounding or passing, so he only suits builds chasing steals. |
+| [Kevin Porter Jr.](../profiles/players/kevin-porter.md) | MIL | G | 158 | 1.0 | 107 | 1.1 | 3 | Steals and assists for punt 3PM builds, and easy to drop if he does not start or reach 27 minutes. |
+| [Cason Wallace](../profiles/players/cason-wallace.md) | OKC | G,F | 128 | 1.0 | 109 | 0.5 | 1 | Steals with low turnovers but little scoring, rebounding or passing, so he only suits builds chasing steals. |
 | [Khaman Maluach](../profiles/players/khaman-maluach.md) | PHX | C | 118 | 1.5 | 202 | 0.1 | not drafted | Blocks plus some rebounds and FG% near our 144-player cutoff, for punt AST and punt STL builds, if he starts while Mark Williams is out. |
 | [Yves Missi](../profiles/players/yves-missi.md) | NOP | C | 143 | - | 164 | 0.0 | 2 | Blocks with FG% on low volume and few turnovers, and back to waivers if he does not start over Derik Queen. |
 | [Scotty Pippen Jr.](../profiles/players/scotty-pippen.md) | MEM | G | 183 | - | 144 | 0.2 | not drafted | His value is almost all steals and his projected 2.5 turnovers hurt, so he is a last pick or a waiver option only. |
-| [Isaiah Stewart](../profiles/players/isaiah-stewart.md) | MEM | F,C | 174 | 0.0 | 146 | 0.0 | not drafted | Blocks plus FG% on low volume, worth a pick or an early claim only if Edey stays out. |
+| [Isaiah Stewart](../profiles/players/isaiah-stewart.md) | MEM | F,C | 174 | 0.0 | 146 | 0.1 | not drafted | Blocks plus FG% on low volume, worth a pick or an early claim only if Edey stays out. |
 
 ### Waiver watch
 

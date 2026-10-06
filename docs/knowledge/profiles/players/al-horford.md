@@ -30,23 +30,23 @@
 </details>
 
 **Current**
-- Projected to start at center while Kristaps Porzingis is out. (fact, 2026-09-30, until Porzingis returns; [09-30](https://youtu.be/MUbNYdjpUDM?t=1610), [09-30](https://youtu.be/MUbNYdjpUDM?t=678))
-- Porzingis, when healthy, and Draymond Green playing center both compete with him for frontcourt minutes. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=678), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487), [06-30](https://youtu.be/4GDfg2n2l8o?t=1427))
-- Golden State has 15 back-to-backs, tied for second most, and he is expected to sit them. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=991), [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [09-30](https://youtu.be/MUbNYdjpUDM?t=1610))
-- Golden State is reportedly treating this season as a gap year and is worried about lottery odds. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140))
-- The team may rest veterans, and experts expect Warriors players to fade as the season goes on. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
-- Golden State's schedule is good for fantasy playoffs ending March 28. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
-- Expected to play about 60 games. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=937))
-- Re-signed with Golden State for 2 years and 14 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=918))
-- Not worth a pick in most fantasy leagues. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=918))
+- Kristaps Porzingis is out, so Horford is projected to start at center. The projected starters are Curry, Podziemski, Lendeborg, Green and Horford. (fact, 2026-09-30, until Porzingis returns; [09-30](https://youtu.be/MUbNYdjpUDM?t=1610), [09-30](https://youtu.be/MUbNYdjpUDM?t=678))
+- The Warriors have 15 back-to-backs, tied for second most in the league. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=991), [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
+- The Warriors are reportedly treating this season as a gap year and are worried about lottery odds. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=140), [09-30](https://youtu.be/MUbNYdjpUDM?t=166))
+- The Warriors may rest veterans like him, and experts expect Warriors players to fade as the season goes on. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
+- The Warriors schedule is good for fantasy playoffs that end on March 28. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
+- When Porzingis is healthy, he is expected to be the backup center. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=937))
+- He is expected to play about 60 games because he will sit back-to-backs. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=937))
+- He re-signed with Golden State for 2 years and 14 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=918))
+- One expert says to ignore him in most fantasy leagues. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=918))
 
 **Durable**
-- Does not play back-to-backs because of his age. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=852), [09-30](https://youtu.be/MUbNYdjpUDM?t=1610), [08-22](https://youtu.be/LXZLrL90crE?t=937))
+- He does not play back-to-backs because of his age. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=852), [09-30](https://youtu.be/MUbNYdjpUDM?t=1610), [08-22](https://youtu.be/LXZLrL90crE?t=937))
 
 **Tags**
-- Current: `back-to-back risk` (Golden State has 15 back-to-backs), `minutes competition` (Porzingis when healthy, Draymond Green at center), `shutdown risk` (Gap year for Golden State, which may rest veterans), `good playoff schedule` (Good team schedule for playoffs ending March 28, but he skips back-to-backs), `waiver watch` (Projected starting center while Porzingis is out; until Porzingis returns)
-- Durable: `load management` (Sits all back-to-backs because of his age), `age decline watch` (Age is the reason he skips back-to-backs)
+- Current: `back-to-back risk` (Expected to sit every back-to-back), `many back-to-backs` (Warriors have 15 back-to-backs), `minutes competition` (Starts at center only while Porzingis is out, then expected to back him up), `handcuff` (Starting center while Porzingis is out; until Porzingis returns), `waiver watch` (Worth about 0 USD on both sites; watch his minutes while he starts), `tank risk` (Warriors reportedly see this as a gap year and care about lottery odds), `shutdown risk` (Team may rest veterans), `good playoff schedule` (Good Warriors schedule for playoffs ending March 28), `unsettled rotation` (Steve Kerr runs unpredictable rotations and often changes his starting lineup), `thin rotation` (Warriors struggle to field a 10-man rotation)
+- Durable: `load management` (Sits all back-to-backs because of his age), `age decline watch` (Rests on back-to-backs because of age; minutes fell to 21.6 last season)
 
-**Note.** At rank 205 on Yahoo and 199 on ESPN, both with a 0 USD value, he is well outside the 144 players we draft. Our league paid only 1 USD for him last season. Do not draft him. Early in the season, check whether he really starts at center while Porzingis is out and how many minutes he gets. Even as a starter, sitting all back-to-backs (about 60 games) limits his weekly value, and his low projected points and steals give no build a reason to target him.
+**Note.** Yahoo ranks him 205 and ESPN ranks him 199, both at 0 USD, and he went for 1 USD in our auction last season. That puts him outside our 144 drafted players, so do not bid on him. Watch him on waivers while he starts at center with Porzingis out, but he skips every back-to-back on a team with 15 of them, and his FG% has been around 42% for two seasons. The first weeks should show if his minutes climb back above last season's 21.6 and how long Porzingis stays out.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

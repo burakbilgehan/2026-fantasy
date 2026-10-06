@@ -11,35 +11,31 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Jaxson Hayes, PF Kyle Filipowski, PG Isaiah Collier, SF Ace Bailey, SG Brice Sensabaugh
 
 **Current**
-- Utah has only 13 back-to-backs, the fewest in the league, so rest risk for its starters is low. (fact, 2026-10-04; stats)
-- The playoff schedule is average: 10 games over weeks 19 to 21, with 4 games in week 21. (fact, 2026-10-04; stats)
-- Walker Kessler is no longer on the team, which leaves an opening at center. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=204), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1176), [07-14](https://youtu.be/xHRF06_E9HE?t=872), [07-13](https://youtu.be/Rqb5GdrSweY?t=847), [07-05](https://youtu.be/4kKINkZhWls?t=3923), [07-02](https://youtu.be/P6TNP-g0wzY?t=945))
-- Jusuf Nurkic is expected to start at center. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=204), [09-21](https://youtu.be/egRrai3Ax38?t=859), [07-13](https://youtu.be/Rqb5GdrSweY?t=847), [07-05](https://youtu.be/4kKINkZhWls?t=3923))
-- Ace Bailey probably does not start because Jackson Jr., Markkanen and George are healthy again. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=204), [09-19](https://youtu.be/uarqbNA2dFk?t=1203))
-- Kyle Filipowski or Jaxson Hayes starting is very unlikely. The experts also doubt that Jackson Jr. plays center full time. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=859), [07-13](https://youtu.be/Rqb5GdrSweY?t=847), [07-05](https://youtu.be/4kKINkZhWls?t=3923), [07-02](https://youtu.be/P6TNP-g0wzY?t=945))
-- Fears that the Jazz will sit Markkanen or shut down players late in the season are misplaced. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=859), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677))
+- Utah has the fewest back-to-backs in the league, so its players have less rest risk. (fact, 2026-10-05; stats)
+- The fantasy playoff schedule is about average: 10 games in weeks 19 to 21, with only 3 games in week 19. (fact, 2026-10-05; stats)
+- Walker Kessler is gone from Utah. He was traded. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=204), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1176), [07-14](https://youtu.be/xHRF06_E9HE?t=872), [07-13](https://youtu.be/Rqb5GdrSweY?t=847), [07-05](https://youtu.be/4kKINkZhWls?t=3923), [07-02](https://youtu.be/P6TNP-g0wzY?t=945))
+- Nurkic is expected to start at center. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=204), [09-21](https://youtu.be/egRrai3Ax38?t=859), [07-13](https://youtu.be/Rqb5GdrSweY?t=847), [07-05](https://youtu.be/4kKINkZhWls?t=3923), [07-02](https://youtu.be/P6TNP-g0wzY?t=945))
+- Ace Bailey is not expected to start now that Jackson Jr., Markkanen and George are healthy. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=204), [09-19](https://youtu.be/uarqbNA2dFk?t=1203), [09-21](https://youtu.be/egRrai3Ax38?t=859))
+- Kyle Filipowski and Jaxson Hayes are very unlikely to start. Jackson Jr. is not expected to play center full time. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=859), [07-13](https://youtu.be/Rqb5GdrSweY?t=847), [07-05](https://youtu.be/4kKINkZhWls?t=3923), [07-02](https://youtu.be/P6TNP-g0wzY?t=945))
+- Utah is trying to win this season and is not tanking. Fears that it will tank, shut players down or sit Markkanen are misplaced. (verdict, 2026-09-21; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [09-10](https://youtu.be/dlo7L8Ru91A?t=973), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [09-21](https://youtu.be/egRrai3Ax38?t=859), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1176))
 - Jackson Jr. is not a passer, which helps Nurkic as a passing center. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226))
-- The Jazz are trying to win this season and are not tanking. Tanking is not a real concern for player minutes. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1176), [09-10](https://youtu.be/dlo7L8Ru91A?t=973), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [07-14](https://youtu.be/xHRF06_E9HE?t=872))
-- More Markkanen and the addition of Jackson Jr. reduce Keyonte George's opportunity. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1609))
-- The frontcourt is crowded. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1803))
-- Projected starters: Keyonte George, Darryn Peterson, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=349), stats)
-- Leaf projects 43 wins and a 7th or 8th seed, with a top six seed as the goal. That is well above the market win total of 35.5. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=141), stats)
-- The Jazz are expected to have a top 10 offense and a defense ranked below 20th. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=951))
-- Leaf expects some zone defense because the team has size. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=1610))
-- Scoring should be balanced. No player is expected to hit a career high in points, but three or four could top 20 points per game. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=990))
-- New arrivals include Darryn Peterson, Jaxson Hayes, Mo Bamba, Josh Okogie, Trey Alexander and Harrison Ingram. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=196))
-- Coach Will Hardy will feel pressure to tinker and win after a long leash during the tank years, so the rotation may shift. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=1617))
-- George, Peterson, Sensabaugh, Bailey, Markkanen and Jackson Jr. leave little room for Isaiah Collier. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1689))
-- The roster is deeper now and the team looks like a playoff team, so the open late-season minutes from last season will not be there. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=872))
-- Usage is crowded with Markkanen, George, Jackson Jr. and Peterson. All of them should lose some touches. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=541), [06-23](https://youtu.be/-rgXhs5BHiw?t=122))
+- Experts expect a good team that probably makes the playoffs. Leaf projects 43 wins and a 7th or 8th seed. The market win total of 35.5 is lower than this view. (verdict, 2026-09-14; [08-05](https://youtu.be/CI4k8ofUXXk?t=141), [07-14](https://youtu.be/xHRF06_E9HE?t=872), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1176), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), stats)
+- Usage is crowded. Markkanen, George, Jackson Jr. and Peterson will all lose some touches. Rookies get less usage here. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1609), [06-25](https://youtu.be/lOshTzDA4SA?t=541), [06-23](https://youtu.be/-rgXhs5BHiw?t=122))
+- The roster is deep and the frontcourt is crowded. George, Peterson, Sensabaugh, Bailey, Markkanen and Jackson Jr. leave little room for Isaiah Collier. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [07-14](https://youtu.be/xHRF06_E9HE?t=872), [07-16](https://youtu.be/-y6p5PYLf00?t=1689))
+- New arrivals include Darryn Peterson, Jaxson Hayes, Mo Bamba, Josh Okogie, Trey Alexander and Harrison Ingram. Jaren Jackson Jr. is available for a full season. (fact, 2026-08-19; [08-05](https://youtu.be/CI4k8ofUXXk?t=196), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677))
+- The projected starting lineup is Keyonte George, Darryn Peterson, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=349), stats)
+- Scoring should be balanced. Three or four players could top 20 points per game, but no one is expected to reach a career high in points. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=990))
+- Utah is expected to have a top 10 offense and a defense ranked below 20th. Some zone defense is expected because the team has size. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=951), [08-05](https://youtu.be/CI4k8ofUXXk?t=1610))
+- Coach Will Hardy had a long leash during the tank years. He will feel pressure to tinker and win this season. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=1617))
+- Because Utah plans to compete, the late-season minutes that young players got last season will not be available. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=872))
 
 **Durable**
-- The Jazz have a strong home-court advantage from the crowd and the altitude. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=1745))
+- Utah has a strong home-court advantage from the crowd and the altitude. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=1745))
 
 **Tags**
-- Current: `few back-to-backs` (13 back-to-backs, fewest in the league), `low shutdown risk` (Trying to win and aiming for the playoffs, so late-season shutdowns are unlikely), `deep rotation` (Crowded usage among Markkanen, George, Jackson Jr. and Peterson, plus a crowded frontcourt)
+- Current: `low shutdown risk` (Utah is trying to win. Experts call tank and shutdown fears for Markkanen and others misplaced.), `winning team` (Leaf projects 43 wins and a 7th or 8th seed. The market win total is lower at 35.5.), `deep rotation` (The frontcourt is crowded and there is little room for Collier, Bailey or Filipowski.), `concentrated usage` (Markkanen, George, Jackson Jr. and Peterson share the usage, so each one loses touches and the reserves get little.), `few back-to-backs` (13 back-to-backs, the fewest in the league.)
 - Durable: none
 
-**Note.** Utah is trying to win and has the fewest back-to-backs in the league, so starters like Markkanen and Jackson Jr. should not face tank-style shutdowns. The catch is crowded usage: George, Peterson, Markkanen and Jackson Jr. should all lose some touches, and bench players like Bailey, Collier and Filipowski have little room. Nurkic is the main winner as the likely starting center with Kessler gone. Early on, check that he really starts and whether Bailey moves into the lineup.
+**Note.** Utah plans to win this season, and experts see little tank or shutdown risk. That protects Markkanen, Jackson Jr. and Nurkic through our playoffs, and the team has the fewest back-to-backs in the league. With four players sharing the ball, George, Markkanen and rookie Peterson each lose some touches, and bench players like Bailey, Collier and Filipowski have little room. Nurkic gains as the expected starting center and passer now that Kessler is gone. Early on, watch whether Nurkic holds the starting job and how Hardy splits minutes in the crowded frontcourt.
 
-<sub>24 notes. Built 2026-10-04 with claude-opus-5-5 high, team prompt v1.</sub>
+<sub>24 notes. Built 2026-10-05 with claude-opus-5-5 high, team prompt v1.</sub>

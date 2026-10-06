@@ -27,23 +27,24 @@
 </details>
 
 **Current**
-- He is the backup point guard behind CJ McCollum and Nickeil Alexander-Walker. He comes off the bench in an expected 10-man rotation. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1546), [08-02](https://youtu.be/TOn-D1SV7a8?t=1355), [07-23](https://youtu.be/LUTYUdXBG1M?t=2341), [08-25](https://youtu.be/H9q2FT3LhNw?t=265), [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
-- Lloyd expects him to struggle with usage and efficiency as a rookie, but to be a good source of assists and steals. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1546))
-- He would likely start if McCollum got hurt, but the path is not clean. Several Atlanta starters handle the ball, and Lu Dort or Andrew Wiggins could take the minutes instead, so he is not an automatic handcuff. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1540), [09-25](https://youtu.be/4gw4W4RTolY?t=1580))
-- ESPN's rank of 215 is far too high for this season. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1540))
-- He is a rookie. Atlanta took him in the first round, and he is 19. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=265))
-- In Summer League he scored 9 points but ran the offense, with 7 assists, a 4.1 to 1 assist-to-turnover ratio, 1.5 steals and 1.3 blocks. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2341))
-- CJ McCollum signed an extension, which delays Flemings becoming a starter. (fact, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=553))
-- He is almost certainly not a starter this season. (verdict, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=1034))
+- He would likely start if McCollum got hurt, but the path is not clean. Several Atlanta starters handle the ball, so Lu Dort or Andrew Wiggins could take the open spot instead. He is not an automatic handcuff. (verdict, 2026-10-04; [09-25](https://youtu.be/4gw4W4RTolY?t=1540), [09-25](https://youtu.be/4gw4W4RTolY?t=1580), [10-04](https://youtu.be/n4KkK-OJjqA?t=445))
+- He is a rookie, a 19-year-old first-round pick. He is the backup point guard behind CJ McCollum and Nickeil Alexander-Walker and comes off the bench. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1546), [08-25](https://youtu.be/H9q2FT3LhNw?t=265), [08-02](https://youtu.be/TOn-D1SV7a8?t=1355), [07-23](https://youtu.be/LUTYUdXBG1M?t=2341), [06-28](https://youtu.be/RsjGTgJiKyI?t=1034))
+- Lloyd expects him to struggle with usage and efficiency this season but to be a good source of assists and steals. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1546))
+- ESPN's rank of 215 is too high for this season. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1540))
+- Atlanta expects a 10-man rotation with a deep bench. The other bench players are Dort, Wiggins, Landale and probably Newell, and Kispert and Finney-Smith are also in the mix. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1289), [07-01](https://youtu.be/W3THnI7wWdA?t=779))
+- In dynasty he should go higher than his Fantrax ADP of 240. He ranks among the top six rookies: fifth in category leagues and sixth in points leagues. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1540), [08-02](https://youtu.be/TOn-D1SV7a8?t=1355), [06-28](https://youtu.be/RsjGTgJiKyI?t=1034))
+- Atlanta has no true point guard. McCollum, Alexander-Walker, Johnson and Daniels share the ball handling. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=364))
+- In Summer League he scored 9 points and ran the offense, with 7 assists, a 4.1 to 1 assist to turnover ratio, 1.5 steals and 1.3 blocks. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2341))
+- McCollum signed an extension, which delays the point where Flemings becomes a starter. (fact, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=553))
 
 **Durable**
-- His fantasy strengths are his assist-to-turnover ratio and his steal rate. For that reason he ranks ahead of Mikel Brown Jr. for fantasy, as the number 5 dynasty rookie in category leagues. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1355), [06-28](https://youtu.be/RsjGTgJiKyI?t=1034))
+- His fantasy appeal comes from a strong assist-to-turnover ratio and a high steal rate. For that reason he ranks ahead of Mikel Brown Jr. for fantasy. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1355))
 - His wingspan is not great. (verdict, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=297))
 
 **Tags**
-- Current: `rookie` (First-round pick, age 19), `waiver watch` (Backup point guard. Watch him if CJ McCollum gets hurt, though Dort or Wiggins could take those minutes instead.)
+- Current: `rookie` (19-year-old first-round pick), `minutes competition` (Backup PG behind McCollum and Alexander-Walker. Dort and Wiggins could also take a starter's spot if one opens.), `deep rotation` (10-man rotation with a deep Atlanta bench), `shared ball handling` (No true point guard. Four starters share the ball handling.), `waiver watch` (Not a draft target. Watch him if McCollum gets hurt, for assists and steals.)
 - Durable: none
 
-**Note.** Both Yahoo and ESPN value him at 0 USD. He ranks 243 on Yahoo and 215 on ESPN, which is outside the 144 players our league drafts, and the expert says even 215 is too high, so do not draft him. His projected 3.8 assists and 1.1 steals are his only categories above the pool. His projected 0.6 threes and 10.2 points are too low for a guard in a bench role. Watch McCollum's health early in the season: an injury there is the only clear path to a waiver pickup, and even then Dort or Wiggins may take the minutes.
+**Note.** Kingston Flemings is not a draft target for us. Both Yahoo and ESPN value him at 0 USD, and his ranks (Yahoo 243, ESPN 215) are well outside the 144 players our league drafts. Lloyd says even ESPN's 215 is too high. As a bench rookie he projects to only 0.6 threes and 43.4% FG, so his only real help would be assists (3.8) and steals (1.1). Leave him on waivers and check early whether McCollum misses time and whether Flemings, not Dort or Wiggins, gets the starts.
 
-<sub>7 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>7 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

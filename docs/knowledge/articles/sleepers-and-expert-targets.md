@@ -3,145 +3,133 @@
 
 <sub>Proposed by the synthesis, not on the user's list.</sub>
 
-**Summary.** The experts' best edges in our auction are in the middle of the pool, roughly the players going 51st to 100th, where Jazz players, Hawks guards and players with role doubts sell well below expert ranks. At the top, Tatum, Flagg, Durant and Giannis are worth fair prices but give little profit. Spend for profit in the 10 to 20 USD band, for players like Dejounte Murray, Nickeil Alexander-Walker, Garland and Buzelis, and fill the last roster spots with 1 to 3 USD bigs who have a starting role.
+**Summary.** The best buys sit in the middle of our draft, around picks 51 to 100. There, the experts rate players like Garland, Daniels, Buzelis, Alexander-Walker and Jaren Jackson Jr. well above their market price. Bid up to the expert range only when the gap is 15 to 20 spots or more. Lean on Utah players, new starters and veterans whose injury risk is already in the price. Do not pay Yahoo's market price for Flagg or Clingan.
 
-## How to turn expert ranks into bids
+## How to use the gap between price and value
 
-An expert rank tells you how good a player is. The market price tells you when he will go. If an expert ranks a player 30th and the market has him 70th, take him in the 50s. In auction terms, do not open at the expert value. Bid between the market cost and the expert value, and stop before you reach the expert number. ([09-01](https://youtu.be/skKXe2CRl8Q?t=579))
+Rankings and projections measure quality. ADP and average auction cost measure the market price. In our auction, the market cost is the price you need to beat, and the expert value is your ceiling. Bid between the two. Alexander-Walker is the clearest case: drafters pay very little, the experts call him a mid 20s USD player, so 12 to 18 USD is a good price and the low 20s is still fair. ([09-01](https://youtu.be/skKXe2CRl8Q?t=579), [Nickeil Alexander-Walker](../profiles/players/nickeil-alexander-walker.md))
 
-The richest band is picks 51 to 100. There, players often beat their draft spot by 10 to 40 spots, and leagues are won by players who jump about 40 spots. In our 144-player draft that is the middle third of the pool. In the player data, Yahoo average costs in that band are mostly in single digits. So most of the profit sits in bids of about 3 to 20 USD, not in the 40 USD and up tier. ([09-17](https://youtu.be/ahNxsoU8Hx4?t=1844), [08-19](https://youtu.be/J1Eg3uaAICU?t=1796))
+Only chase large gaps. A gap of a few spots leaves no room for error. A gap of 15 to 20 spots still pays off if the player underperforms. The experts rank Jaren Jackson Jr. about 36th while Yahoo drafters take him around 55th, so he is worth chasing. The experts call LaMelo Ball's rank of 24 only a little low, so do not stretch past 30 to 33 USD for him. ([10-04](https://youtu.be/n4KkK-OJjqA?t=227), [Jaren Jackson Jr.](../profiles/players/jaren-jackson.md), [LaMelo Ball](../profiles/players/lamelo-ball.md))
 
-Check our room's history before you count on a bargain. Last season our league paid well above today's site averages for Dyson Daniels, Ausar Thompson, Jakob Poeltl and Coby White. Expect our managers to bid some of these sleepers above the Yahoo average cost. Set your ceiling from the expert range, not from the site average. ([Dyson Daniels](../profiles/players/dyson-daniels.md), [Ausar Thompson](../profiles/players/ausar-thompson.md), [Jakob Poeltl](../profiles/players/jakob-poeltl.md), [Coby White](../profiles/players/coby-white.md))
+Most value is found between picks 51 and 100. There, players can beat their ADP by 10 to 40 spots, and a 40-spot jump is what wins leagues. In our 144-player draft, that band is the middle of the auction, and most of the sleeper tags below sit in it. Save enough budget to win two or three of these players at their expert price instead of spreading money thin at the top. ([09-17](https://youtu.be/ahNxsoU8Hx4?t=1844), [08-19](https://youtu.be/J1Eg3uaAICU?t=1796), [Darius Garland](../profiles/players/darius-garland.md), [Dyson Daniels](../profiles/players/dyson-daniels.md), [Matas Buzelis](../profiles/players/matas-buzelis.md))
 
-## Why the discounts exist
+## Overlooked teams: the Jazz discount
 
-Overlooked teams create value. The community is still wary of Jazz players after the tanking years, and the experts expect that to cut their prices. The data agrees. Markkanen, Jaren Jackson Jr. and Keyonte George all go well below the experts' ranks, and Nurkic is called a free pick at the end of drafts. Treat Utah as a team to buy from at every price level. ([09-27](https://youtu.be/CRLSsoGhb2w?t=1594), [08-05](https://youtu.be/CI4k8ofUXXk?t=1037), [Lauri Markkanen](../profiles/players/lauri-markkanen.md), [Jaren Jackson Jr.](../profiles/players/jaren-jackson.md), [Keyonte George](../profiles/players/keyonte-george.md), [Jusuf Nurkić](../profiles/players/jusuf-nurkic.md))
+Players on teams nobody watches often go cheap. The fantasy community is still skeptical of Utah after the tanking years, and that should create discounts. The data agrees. Markkanen, Jackson Jr., Keyonte George and Nurkic all have market costs below what the experts see in them. ([09-27](https://youtu.be/CRLSsoGhb2w?t=1594), [08-05](https://youtu.be/CI4k8ofUXXk?t=1037), [Lauri Markkanen](../profiles/players/lauri-markkanen.md), [Jaren Jackson Jr.](../profiles/players/jaren-jackson.md), [Keyonte George](../profiles/players/keyonte-george.md), [Jusuf Nurkić](../profiles/players/jusuf-nurkic.md))
 
-Role doubt is the second source. When drafters fear a player could lose his starting job or share minutes, his price drops. That is value only if you believe he starts. Examples are Rollins against Kevin Porter Jr., McCollum against Lu Dort, Ware at power forward, Queta against Mitchell Robinson and Missi against Derik Queen. Bid on these players only up to the point where you would still be happy if the role split. ([09-21](https://youtu.be/egRrai3Ax38?t=822), [Ryan Rollins](../profiles/players/ryan-rollins.md), [CJ McCollum](../profiles/players/cj-mccollum.md), [Kel'el Ware](../profiles/players/kelel-ware.md), [Neemias Queta](../profiles/players/neemias-queta.md), [Yves Missi](../profiles/players/yves-missi.md))
+Informed managers may close part of the discount. In an expert mock, Markkanen went for 30 USD, so expect to bid past 20 USD for him in our room. The shared risk is usage, because Markkanen, Jackson, George and Peterson compete for the same shots. In the first two weeks, check each player's shot share. If one of them fades, sell him before his value drops. ([08-05](https://youtu.be/CI4k8ofUXXk?t=1037), [Lauri Markkanen](../profiles/players/lauri-markkanen.md), [Keyonte George](../profiles/players/keyonte-george.md), [Jaren Jackson Jr.](../profiles/players/jaren-jackson.md))
 
-Market overreaction is the third source. Experts think drafters overreact to role changes and health. Reaves gains usage with LeBron gone. Coby White now starts. Paul George becomes Boston's second option. Miller gets more on-ball work with LaMelo Ball gone. Fox is said to be penalized too much after his ankle sprain. The health cases still carry real risk. Embiid is projected for only 49 to 54 games, and Miller's shoulder must be cleared before 2026-10-18. ([Austin Reaves](../profiles/players/austin-reaves.md), [Coby White](../profiles/players/coby-white.md), [Paul George](../profiles/players/paul-george.md), [Brandon Miller](../profiles/players/brandon-miller.md), [De'Aaron Fox](../profiles/players/deaaron-fox.md), [Joel Embiid](../profiles/players/joel-embiid.md))
+## Role changes the market has not priced
 
-## Where experts and markets split
+When drafters think a player might lose his starting job or share minutes, his price drops. That creates value if you believe he starts. Naz Reid went for 2 USD in our league as a bench player and is now a projected starter. Coby White now starts at point guard but is still priced like a backup. Sharpe, Queta, Missi, Nurkic, Ware and Rollins all carry the same starter question. ([09-21](https://youtu.be/egRrai3Ax38?t=822), [Naz Reid](../profiles/players/naz-reid.md), [Coby White](../profiles/players/coby-white.md), [Day'Ron Sharpe](../profiles/players/dayron-sharpe.md), [Neemias Queta](../profiles/players/neemias-queta.md), [Yves Missi](../profiles/players/yves-missi.md), [Kel'el Ware](../profiles/players/kelel-ware.md), [Ryan Rollins](../profiles/players/ryan-rollins.md))
 
-The experts do not agree on everyone. One expert named Jaden McDaniels a sleeper at an ESPN ADP of 98, and other experts disagree. His case is a balanced line, about 51% FG with a steal and a block, in every build. The other side is that he is only a late filler. One expert ranks Grayson Allen 100 to 115, and others would not draft him at all. In our league, keep McDaniels to 3 to 6 USD and leave Allen for waivers unless he starts at about 27 minutes. ([Jaden McDaniels](../profiles/players/jaden-mcdaniels.md), [Grayson Allen](../profiles/players/grayson-allen.md))
+Usage gains work the same way. Reaves gets first-round upside with LeBron gone. Brandon Miller gets a bigger creation role with LaMelo Ball gone. Keegan Murray should see more usage after Sacramento lost Westbrook, Schroder and DeRozan. Pay up to the stated range only for players whose role you trust. For the 1 to 2 USD starter bets, buy several and cut fast. Waivers run daily with up to 6 adds per week, so a failed flyer costs little. ([09-21](https://youtu.be/egRrai3Ax38?t=822), [Austin Reaves](../profiles/players/austin-reaves.md), [Brandon Miller](../profiles/players/brandon-miller.md), [Keegan Murray](../profiles/players/keegan-murray.md))
 
-Some sleepers are sleepers only at one site's price. Clingan is a sleeper only at his ESPN ADP of 100 to 109. Experts value him at about 5 USD, below his Yahoo average cost. Zubac is good value at his ESPN ADP but not at his Yahoo rank. Trey Murphy is an ESPN-only sleeper. Our draft is on Yahoo, so a Yahoo-style room can wipe out these edges. Do not chase Clingan past single digits or Murphy past about 22 USD. ([Donovan Clingan](../profiles/players/donovan-clingan.md), [Ivica Zubac](../profiles/players/ivica-zubac.md), [Trey Murphy III](../profiles/players/trey-murphy.md))
+## Risk already priced in
 
-Two stars show a split between per-game value and full-season value. Experts see Durant as a first-rounder in categories while ESPN has him 28th. But media day reports point to fewer minutes, and his 10-game playoff schedule is weak. Curry ranks 12th to 13th per game but only 20th to 30th overall because of his knee, his age and a possible Warriors gap year. Pay fair prices for both and no premium. ([Kevin Durant](../profiles/players/kevin-durant.md), [Stephen Curry](../profiles/players/stephen-curry.md))
+Injury or age risk can be good value when the discount is big enough. Anthony Davis cost 54 USD in our league last season. The experts value him at 30 USD per game but want a discount, so the low to mid 20s is the target. Embiid fell from 24 USD to a fair range of 8 to 16 USD, which covers the 40 to 50 games the experts expect. Kyrie's ACL risk keeps him near 10 USD against top 20 per-game value. Lillard, Suggs and LaVine are priced so low that the injury risk costs you little. Use our 4 IL slots to hold these players through absences. ([10-04](https://youtu.be/n4KkK-OJjqA?t=304), [Anthony Davis](../profiles/players/anthony-davis.md), [Joel Embiid](../profiles/players/joel-embiid.md), [Kyrie Irving](../profiles/players/kyrie-irving.md), [Damian Lillard](../profiles/players/damian-lillard.md), [Jalen Suggs](../profiles/players/jalen-suggs.md), [Zach LaVine](../profiles/players/zach-lavine.md))
 
-## Bidding plan by stage
+Check the playoff calendar before you bid. Philadelphia and Portland each have three back-to-backs in weeks 19 to 21, which hurts Embiid and Lillard if they sit those games. If Kyrie keeps resting on back-to-backs, Dallas's 4-4-4 schedule could give him only 10 games. Houston's weak 10-game schedule is a small minus for Amen Thompson and Durant. Minnesota plays only two games in week 20, which hurts LaMelo Ball and McDaniels. Brooklyn may rest Randle in March, so plan to trade him before the 2027-03-04 deadline. ([Joel Embiid](../profiles/players/joel-embiid.md), [Damian Lillard](../profiles/players/damian-lillard.md), [Kyrie Irving](../profiles/players/kyrie-irving.md), [Amen Thompson](../profiles/players/amen-thompson.md), [Kevin Durant](../profiles/players/kevin-durant.md), [LaMelo Ball](../profiles/players/lamelo-ball.md), [Jaden McDaniels](../profiles/players/jaden-mcdaniels.md), [Julius Randle](../profiles/players/julius-randle.md))
 
-Top tier, 40 USD and up: the edge is small. Tatum at about 55 USD and Durant in the mid 40s are fair. Flagg is fair in the mid 40s, but bidding toward 60 USD is too much. Giannis is worth about 60 USD only if you build around punting FT% and TO. ([Jayson Tatum](../profiles/players/jayson-tatum.md), [Kevin Durant](../profiles/players/kevin-durant.md), [Cooper Flagg](../profiles/players/cooper-flagg.md), [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md))
+## Where the market overreacts, and where experts split
 
-Middle tier, about 20 to 37 USD: buy Reaves near 30 USD and Jamal Murray under about 37 USD. Take Anthony Davis and Jalen Williams in the low to mid 20s and Markkanen in the low 20s. Pay a middle price for Sabonis, not first-round money. ([Austin Reaves](../profiles/players/austin-reaves.md), [Jamal Murray](../profiles/players/jamal-murray.md), [Anthony Davis](../profiles/players/anthony-davis.md), [Jalen Williams](../profiles/players/jalen-williams.md), [Lauri Markkanen](../profiles/players/lauri-markkanen.md), [Domantas Sabonis](../profiles/players/domantas-sabonis.md))
+Several low ESPN prices are market errors that the experts tell us to ignore. ESPN ranks Giannis 20th, which the experts call wrong. They also dismiss ESPN's low values for Brandon Miller and Reaves. The error runs the other way too. Yahoo's value for Clingan is too high, so pay him single digits only. Flagg's Yahoo average cost sits well above Josh's cap of about 40 USD. On Podziemski, the experts like him near Yahoo's price and warn against paying ESPN's. ([Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md), [Brandon Miller](../profiles/players/brandon-miller.md), [Austin Reaves](../profiles/players/austin-reaves.md), [Donovan Clingan](../profiles/players/donovan-clingan.md), [Cooper Flagg](../profiles/players/cooper-flagg.md), [Brandin Podziemski](../profiles/players/brandin-podziemski.md))
 
-Profit tier, about 10 to 20 USD: this is where to spend for profit. Dejounte Murray in the high teens, Alexander-Walker up to the high teens, Buzelis up to 20 USD and Garland at 12 to 18 USD all leave room for profit. Daniels, Reid, Coby White, Paul George, Kyrie Irving and Edey also fit this band. Before 2026-10-18, check Miller's shoulder, Irving's knee Q tag and Edey's ankle. ([09-17](https://youtu.be/ahNxsoU8Hx4?t=1844), [Dejounte Murray](../profiles/players/dejounte-murray.md), [Nickeil Alexander-Walker](../profiles/players/nickeil-alexander-walker.md), [Matas Buzelis](../profiles/players/matas-buzelis.md), [Darius Garland](../profiles/players/darius-garland.md), [Kyrie Irving](../profiles/players/kyrie-irving.md), [Zach Edey](../profiles/players/zach-edey.md), [Brandon Miller](../profiles/players/brandon-miller.md))
-
-End game, 1 to 3 USD: use your 11th and 12th spots on players with a starting role and upside, such as Nurkic, Hartenstein, Queta, Murray-Boyles, Keegan Murray and Podziemski. After the draft, watch Strus, Morez Johnson and Allen on waivers. Drop any flyer who does not start within the first two weeks. ([08-19](https://youtu.be/J1Eg3uaAICU?t=1796), [Jusuf Nurkić](../profiles/players/jusuf-nurkic.md), [Isaiah Hartenstein](../profiles/players/isaiah-hartenstein.md), [Neemias Queta](../profiles/players/neemias-queta.md), [Collin Murray-Boyles](../profiles/players/collin-murray-boyles.md), [Keegan Murray](../profiles/players/keegan-murray.md), [Brandin Podziemski](../profiles/players/brandin-podziemski.md), [Max Strus](../profiles/players/max-strus.md), [Morez Johnson Jr.](../profiles/players/morez-johnson.md))
+The experts do not always agree. On Grayson Allen, one expert ranks him 100 to 115, while others would not draft him at all. In mocks, some experts paid more than others say is fair. Durant went for 40 USD, which Josh called too rich, so the low to high 30s is the safer range. Edey went for 20 USD, but Josh would stop at 11 USD. Markkanen went for 30 USD, far above his market cost. Treat the mock prices as a warning that our room may bid this high, and the cautious caps as your own limit. ([Grayson Allen](../profiles/players/grayson-allen.md), [Kevin Durant](../profiles/players/kevin-durant.md), [Zach Edey](../profiles/players/zach-edey.md), [Lauri Markkanen](../profiles/players/lauri-markkanen.md))
 
 ## Players
 
 Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
-### Top tier: fair price
+### Premium targets
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Jayson Tatum](../profiles/players/jayson-tatum.md) | BOS | F | 7 | 54.6 | 8 | 54.3 | not drafted | Experts take him at picks 6 to 8 and call an ADP of 12 or 13 too late, so about 55 USD is fair, best for punt TO, if his knee checks out. |
-| [Cooper Flagg](../profiles/players/cooper-flagg.md) | DAL | G,F | 13 | 50.6 | 16 | 41.5 | 25 | Called a bargain mainly against his ESPN price; experts see a late first-rounder worth the mid 40s, not 60 USD, and the 4-4-4 playoff schedule helps. |
-| [Kevin Durant](../profiles/players/kevin-durant.md) | HOU | G,F | 14 | 43.0 | 28 | 33.3 | 44 | Experts see first-round category value that ESPN misses, but lower minutes and a weak 10-game playoff schedule keep him to the mid 40s. |
-| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 58.8 | 20 | 61.4 | 62 | Experts rank him about 5th in category leagues, above both sites, but our room paid 62 USD last season, so he is only worth about 60 USD as a punt FT% and TO anchor. |
-
-### Mid-price value
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [Austin Reaves](../profiles/players/austin-reaves.md) | LAL | G,F | 21 | 28.8 | 50 | 18.7 | 25 | Experts see top 10 to 15 with LeBron gone, and his usage should rise next to Luka; about 30 USD is fine for punt TO builds. |
-| [Jamal Murray](../profiles/players/jamal-murray.md) | DEN | G | 17 | 37.4 | 21 | 24.2 | 27 | Experts call his ESPN rank far too low; with no weak category he is a buy anywhere under about 37 USD. |
-| [Josh Giddey](../profiles/players/josh-giddey.md) | CHI | G | 19 | 35.0 | 36 | 33.9 | 31 | ESPN has him 36th while experts see top 20, but his Yahoo price already fits that view, so stop in the mid 30s. |
-| [Stephen Curry](../profiles/players/stephen-curry.md) | GSW | G | 25 | 30.6 | 33 | 24.2 | 42 | An elite per-game player held down by knee, age and gap-year minutes risk; bid up to about 30 USD with no premium. |
-| [Anthony Davis](../profiles/players/anthony-davis.md) | WAS | F,C | 45 | 21.8 | 14 | 24.4 | 54 | Experts take him in round 3 against a lower Yahoo rank; a low to mid 20s USD buy if you can live with about 60 games. |
-| [Jalen Williams](../profiles/players/jalen-williams.md) | OKC | F | 34 | 22.0 | 35 | 18.0 | 35 | Valued at picks 35 to 45 with no weak category; low to mid 20s USD, if his hamstring holds and his minutes go back above 32. |
-| [Lauri Markkanen](../profiles/players/lauri-markkanen.md) | UTA | F | 32 | 18.6 | 34 | 12.1 | 16 | Jazz discount: an expert ranks him 25th against a Yahoo ADP of 44, so low 20s USD leaves profit if he plays 65 or more games. |
-| [Domantas Sabonis](../profiles/players/domantas-sabonis.md) | SAC | F,C | 35 | 22.6 | 32 | 39.3 | 41 | Experts see round 3 to 4 with top 30 upside; pay in the middle of the Yahoo to ESPN cost range, not first-round money. |
-| [Trey Murphy III](../profiles/players/trey-murphy.md) | NOP | G,F | 30 | 18.0 | 46 | 7.3 | 20 | A sleeper only against his ESPN price; 18 to 22 USD fits the expert view, but not the Yahoo value. |
-
-### Profit tier
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [Dejounte Murray](../profiles/players/dejounte-murray.md) | NOP | G | 55 | 2.2 | 57 | 7.0 | not drafted | Experts like him in rounds 3 to 4 against an ADP near 67; the high teens still leave profit for punt TO builds, and the April 4 schedule worry does not apply to us. |
-| [Nickeil Alexander-Walker](../profiles/players/nickeil-alexander-walker.md) | ATL | G | 56 | 4.4 | 31 | 10.8 | 1 | Lloyd's top Hawks target at top 40 to 50 in categories while drafters barely pay; strong value up to the high teens. |
-| [Matas Buzelis](../profiles/players/matas-buzelis.md) | CHI | F | 69 | 9.0 | 59 | 4.1 | 12 | Experts agree on a top 50 breakout with real blocks; paying up to their 20 USD mark is fine. |
-| [Darius Garland](../profiles/players/darius-garland.md) | LAC | G | 54 | 6.6 | 53 | 12.3 | 11 | Experts target him in the 40s with top 30 upside against an ADP near 65; 12 to 18 USD, if his toe is healthy. |
-| [Jaren Jackson Jr.](../profiles/players/jaren-jackson.md) | UTA | F,C | 42 | 13.4 | 71 | 4.8 | 29 | Jazz discount: experts rank him 36th in categories against an ADP near 55, so he is a bargain under about 25 USD for blocks builds. |
-| [Keyonte George](../profiles/players/keyonte-george.md) | UTA | G | 43 | 7.2 | 89 | 5.8 | 2 | Jazz discount: he finished 29th to 40th last season but goes around 100 on ESPN; a bargain if he goes near the site costs. |
-| [Kyrie Irving](../profiles/players/kyrie-irving.md) | DAL | G | 46 | 9.6 | 48 | 10.0 | not drafted | Experts value him top 25 to 40 against an ADP near 50, so he is a strong bargain near the site costs if his knee Q tag clears. |
-| [Brandon Miller](../profiles/players/brandon-miller.md) | CHA | F | 39 | 19.2 | 54 | 7.1 | 20 | Experts see a third-rounder with LaMelo gone and call his ESPN ADP bonkers; bid above his Yahoo cost only once his shoulder is cleared. |
-| [Dyson Daniels](../profiles/players/dyson-daniels.md) | ATL | G,F | 61 | 4.4 | 38 | 9.7 | 28 | Lloyd's every-draft target and a locked-in steals anchor; 10 to 18 USD for punt FT% or punt 3PM builds, but our room paid 28 USD last season. |
-| [Naz Reid](../profiles/players/naz-reid.md) | CHA | F,C | 59 | 4.2 | 37 | 7.6 | 2 | The market prices him far below his value, so he is cheap for a 15 to 20 USD player; do not pay for top 30 hype. |
-| [Coby White](../profiles/players/coby-white.md) | CHA | G | 80 | 3.4 | 106 | 2.3 | 15 | Now a starter, experts see top 55 to 75 against a high-80s ADP; 10 to 15 USD for threes, FT% and points. |
-| [Paul George](../profiles/players/paul-george.md) | BOS | F | 79 | 2.4 | 91 | 2.5 | 9 | As Boston's second option experts see a top 40 per-game player while markets price him at 2 to 3 USD; fine up to about 12 USD. |
-| [De'Aaron Fox](../profiles/players/deaaron-fox.md) | SAS | G | 74 | 6.2 | 52 | 10.2 | 21 | Some experts say drafters penalize him too much; a fair target around 10 to 13 USD, not last year's price. |
-| [Zach Edey](../profiles/players/zach-edey.md) | MEM | C | 70 | 7.2 | 113 | 1.4 | 2 | Experts call him top 60 at worst; high single digits to low teens USD, if you accept the ankle risk. |
-
-### Cheap starters
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [Ryan Rollins](../profiles/players/ryan-rollins.md) | MIL | G | 62 | 2.6 | 105 | 1.6 | not drafted | Experts see near top 50 while he goes in the 70s, a role-doubt discount; a cheap mid-round buy if he starts over Porter Jr. |
-| [Damian Lillard](../profiles/players/damian-lillard.md) | POR | G | 67 | 5.0 | 70 | 5.4 | not drafted | Josh sees a possible top 50 per-game player at a single-digit market price; best for punt FG%, with games played the risk. |
-| [Kel'el Ware](../profiles/players/kelel-ware.md) | MIL | C | 71 | 4.6 | 67 | 2.6 | 5 | Experts see top 60 to 80 value and top 40 upside at 30 minutes; a cheap source of rebounds, blocks and FG%. |
-| [Ausar Thompson](../profiles/players/ausar-thompson.md) | DET | G,F | 77 | 3.2 | 78 | 2.5 | 16 | Top Pistons target whom experts would take in the 50s to 60s; elite steals for punt FT% and punt 3PM, and our room paid 16 USD last season. |
-| [Joel Embiid](../profiles/players/joel-embiid.md) | PHI | C | 53 | 7.4 | 88 | 8.2 | 24 | Still elite per game, but only 49 to 54 projected games; pay only near the 7 to 8 USD site costs and keep a backup center. |
-| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 57 | 8.2 | 81 | 3.6 | 20 | Good value only at a low price; the Yahoo average cost is fair but his Yahoo value is too high, and Indiana's 3-4-3 playoff schedule is weak. |
-| [Cedric Coward](../profiles/players/cedric-coward.md) | MEM | G,F | 84 | 6.4 | 124 | 0.9 | not drafted | Experts rank him between the two sites with breakout upside; 3 to 7 USD late if he nears 30 minutes. |
-| [Jaden McDaniels](../profiles/players/jaden-mcdaniels.md) | MIN | F | 90 | 1.0 | 84 | 2.0 | 1 | A disputed sleeper with a balanced line for any build; 3 to 6 USD, and plan for Minnesota's two-game week 20. |
-| [Day'Ron Sharpe](../profiles/players/dayron-sharpe.md) | BKN | C | 91 | 5.6 | 136 | 0.3 | not drafted | Josh's best category target as a top 100 player that ESPN ignores; a few USD for punt 3PM or punt FT% if he starts. |
-| [Jalen Suggs](../profiles/players/jalen-suggs.md) | ORL | G | 94 | 2.8 | 142 | 0.4 | 1 | Top 70 to 80 value when healthy at a filler price; 1 to 5 USD for steals builds, planning for about 20 missed games. |
-| [CJ McCollum](../profiles/players/cj-mccollum.md) | ATL | G | 109 | 1.0 | 82 | 1.8 | 2 | Lloyd targets him at picks 80 to 90 as Atlanta's lead ball handler; 2 to 5 USD as a 10th to 12th man. |
-
-### Late flyers
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [Brandin Podziemski](../profiles/players/brandin-podziemski.md) | GSW | G | 117 | 1.0 | 66 | 2.3 | not drafted | Best Warriors target, strong on guard rebounds with no weak category; 1 to 3 USD, not an ESPN-style price. |
-| [Keegan Murray](../profiles/players/keegan-murray.md) | SAC | F | 116 | 1.0 | 83 | 1.1 | 1 | Experts expect about top 100 in a bigger role against a Yahoo rank of 116; 1 to 3 USD for threes and blocks. |
-| [Zach LaVine](../profiles/players/zach-lavine.md) | SAC | G,F | 99 | 1.0 | 158 | 0.9 | 12 | Top 80 upside at the edge of the pool; 1 to 5 USD for threes, points and FT%. |
-| [Isaiah Hartenstein](../profiles/players/isaiah-hartenstein.md) | OKC | C | 103 | 1.2 | 135 | 0.5 | 11 | Experts see top 100 value and top 60 upside at 28 minutes; a few USD for punt 3PM builds. |
-| [Jusuf Nurkić](../profiles/players/jusuf-nurkic.md) | UTA | C | 105 | 1.0 | 168 | 0.2 | not drafted | Jazz discount and called a free pick; 1 to 3 USD for rebounds, assists and steals in punt FT% if he starts. |
-| [Collin Murray-Boyles](../profiles/players/collin-murray-boyles.md) | TOR | F,C | 111 | 1.0 | 174 | 0.3 | not drafted | Top 100 baseline and top 70 upside at 30 minutes; 1 to 3 USD for FG%, blocks and steals. |
-| [Neemias Queta](../profiles/players/neemias-queta.md) | BOS | C | 113 | 1.0 | 117 | 0.6 | 1 | An expert values him at picks 90 to 110 while he goes near the end; 1 to 3 USD if he starts over Robinson. |
-| [Jakob Poeltl](../profiles/players/jakob-poeltl.md) | TOR | C | 122 | 1.0 | 116 | 0.8 | 15 | Top 70 upside at about 28 minutes as a cheap FG% anchor, but back health and Murray-Boyles closing games are risks. |
-| [Khaman Maluach](../profiles/players/khaman-maluach.md) | PHX | C | 118 | 1.5 | 202 | 0.1 | not drafted | Ceiling of top 75 with blocks while Mark Williams is out; 1 to 3 USD if he starts. |
-| [Quentin Grimes](../profiles/players/quentin-grimes.md) | LAL | G,F | 126 | 1.0 | 118 | 0.7 | not drafted | Top 80 upside with no weak category and more upside if Luka misses time; a 1 USD flyer. |
-| [Egor Dëmin](../profiles/players/egor-demin.md) | BKN | G | 131 | 0.0 | 121 | 0.7 | not drafted | Josh's best upside target with about 3 threes projected; 1 to 2 USD for punt FG%, held only if his FG% climbs. |
-| [Jeremiah Fears](../profiles/players/jeremiah-fears.md) | NOP | G | 168 | 1.0 | 129 | 0.7 | not drafted | Experts say he is underdrafted; a 1 to 2 USD bench flyer for guard steals, unlocked by any Dejounte Murray injury. |
-| [Jalen Green](../profiles/players/jalen-green.md) | PHX | G,F | 130 | 1.0 | 130 | 1.2 | 9 | Some experts see top 100 to 120; a cheap points and threes source for punt FG% and punt TO teams only. |
-| [Sandro Mamukelashvili](../profiles/players/sandro-mamukelashvili.md) | LAL | F,C | 139 | 1.0 | - | 0.0 | not drafted | An expert loves him in tier nine for threes from a big; 1 to 2 USD at most. |
-| [Gui Santos](../profiles/players/gui-santos.md) | GSW | F | 141 | - | 248 | 0.0 | not drafted | Showed rank-72 upside after the deadline last season with the role; 1 USD at most, paired with Lendeborg. |
-| [Yves Missi](../profiles/players/yves-missi.md) | NOP | C | 143 | - | 164 | 0.0 | 2 | Josh likes him as a starter for blocks; 1 to 2 USD, back to waivers if he does not start over Queen. |
-| [Pelle Larsson](../profiles/players/pelle-larsson.md) | MIA | G,F | 147 | - | - | - | not drafted | Josh would draft him if he starts; a 1 USD filler only after a preseason starting job. |
-| [Isaiah Jackson](../profiles/players/isaiah-jackson.md) | LAC | C | 326 | - | 233 | 0.0 | 1 | An expert says to draft him late in every 12-team league for FG% and blocks; 1 USD until Niederhauser returns. |
+| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 58.8 | 20 | 62.1 | 62 | Experts call him the fifth pick in categories and say ESPN's low rank is wrong, so pay the market for a punt FT% build but do not expect a discount. |
+| [Amen Thompson](../profiles/players/amen-thompson.md) | HOU | G | 20 | 24.0 | 13 | 37.0 | 38 | The experts' near 40 USD view beats Yahoo's cheap market, but stop at 40 USD unless his blocks and FG% come back after his move off point guard. |
+| [Austin Reaves](../profiles/players/austin-reaves.md) | LAL | G,F | 21 | 28.8 | 50 | 18.9 | 25 | With LeBron gone, he has first-round upside next to Luka that ESPN ignores, so pay the mid 30s and stop near 40 USD, best in punt TO. |
+| [LaMelo Ball](../profiles/players/lamelo-ball.md) | MIN | G | 24 | 30.2 | 22 | 27.2 | 29 | The gap to expert value is small and Minnesota plays only two games in our week 20, so hold at 30 to 33 USD. |
+| [Kevin Durant](../profiles/players/kevin-durant.md) | HOU | G,F | 14 | 43.0 | 28 | 34.0 | 44 | Experts see a late first-rounder, but Josh called 40 USD too rich and media day hints at fewer minutes, so stay in the 30s for punt TO. |
 
 ### Avoid at price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Donovan Clingan](../profiles/players/donovan-clingan.md) | POR | C | 38 | 12.0 | 43 | 6.2 | 7 | A sleeper only at his ESPN ADP; experts value him at about 5 USD, so do not chase him past single digits. |
+| [Cooper Flagg](../profiles/players/cooper-flagg.md) | DAL | G,F | 13 | 50.6 | 16 | 41.4 | 25 | Experts rank him top 10 to 12, but Josh caps him at about 40 USD, so let others pay Yahoo's higher market and forget last year's rookie price. |
+| [Donovan Clingan](../profiles/players/donovan-clingan.md) | POR | C | 38 | 12.0 | 43 | 6.0 | 7 | Experts agree Yahoo overrates a rebounds and blocks specialist with a poor FT%, so pay single digits only. |
+
+### Mid-round value
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Anthony Davis](../profiles/players/anthony-davis.md) | WAS | F,C | 45 | 21.8 | 14 | 24.6 | 54 | Games-played risk cut his price far below last year's, and his per-game rebounds, blocks and FG% justify a bid in the low to mid 20s. |
+| [Lauri Markkanen](../profiles/players/lauri-markkanen.md) | UTA | F | 32 | 18.6 | 34 | 12.0 | 16 | The Jazz discount keeps his market below expert value, but a 30 USD mock shows informed managers will push him past 20 USD. |
+| [Brandon Miller](../profiles/players/brandon-miller.md) | CHA | F | 39 | 19.2 | 54 | 7.3 | 20 | With his shoulder cleared and LaMelo gone, experts see a third-rounder with top 30 upside, so 20 to 26 USD is fine and ESPN's low price is noise. |
+| [Jaren Jackson Jr.](../profiles/players/jaren-jackson.md) | UTA | F,C | 42 | 13.4 | 71 | 5.0 | 29 | The Jazz discount leaves a wide gap to his expert category rank, so anything under about 25 USD is a bargain for blocks builds. |
+| [Jaylen Brown](../profiles/players/jaylen-brown.md) | PHI | G,F | 44 | 24.2 | 62 | 18.8 | 29 | A crowded Sixers roster pulled his price down while experts rank him above the market, so 23 USD is the target for punt TO. |
+| [Darius Garland](../profiles/players/darius-garland.md) | LAC | G | 54 | 6.6 | 53 | 12.8 | 11 | As the Clippers' top usage option he projects top 30 while the market sits much lower, so pay 20 to 25 USD if his toe holds. |
+| [Dejounte Murray](../profiles/players/dejounte-murray.md) | NOP | G | 55 | 2.2 | 57 | 7.2 | not drafted | Yahoo drafters barely pay for a player experts call top 50, but a mock reached 24 USD, so plan on 16 to 22 USD. |
+| [Matas Buzelis](../profiles/players/matas-buzelis.md) | CHI | F | 69 | 9.0 | 59 | 4.2 | 12 | Experts agree he is top 50 against a much lower market, so anything under 20 USD is a buy for elite forward blocks and threes. |
+| [Dyson Daniels](../profiles/players/dyson-daniels.md) | ATL | G,F | 61 | 4.4 | 38 | 9.7 | 28 | His market slipped below where experts place him, so a high teens or low 20s bid buys a steals anchor for punt FT% or punt 3PM. |
+| [Nickeil Alexander-Walker](../profiles/players/nickeil-alexander-walker.md) | ATL | G | 56 | 4.4 | 31 | 10.7 | 1 | Lloyd targets him in every draft as a top 40 category player with no weak category, so 12 to 18 USD is good and the low 20s still fair. |
+| [Keyonte George](../profiles/players/keyonte-george.md) | UTA | G | 43 | 7.2 | 89 | 5.9 | 2 | The market splits on this Jazz guard, and experts see about 20 USD as fair for his FT% and assists in punt TO builds. |
+| [Kyrie Irving](../profiles/players/kyrie-irving.md) | DAL | G | 46 | 9.6 | 48 | 10.0 | not drafted | ACL risk keeps his price low against top 20 per-game value, so bid into the high teens and watch his back-to-back rest. |
+| [Ausar Thompson](../profiles/players/ausar-thompson.md) | DET | G,F | 77 | 3.2 | 78 | 2.4 | 16 | Experts would draft him well ahead of his ADP, but our league paid 16 USD last year, so plan on 15 to 20 USD for elite steals. |
+| [Coby White](../profiles/players/coby-white.md) | CHA | G | 80 | 3.4 | 106 | 2.5 | 15 | The market still prices him like a backup though he now starts at point guard, so 13 to 18 USD is good value. |
+
+### Value at price
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Naz Reid](../profiles/players/naz-reid.md) | CHA | F,C | 59 | 4.2 | 37 | 7.7 | 2 | His move from bench player to projected starter is not yet in his price, so 10 to 15 USD buys threes, blocks and steals. |
+| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 57 | 8.2 | 81 | 3.5 | 20 | Experts rank him below his Yahoo value, so cap him at 14 USD as Josh does and aim for 10 to 14 USD in punt 3PM. |
+| [Joel Embiid](../profiles/players/joel-embiid.md) | PHI | C | 53 | 7.4 | 88 | 8.3 | 24 | Experts expect only 40 to 50 games, so 8 to 16 USD carries that risk, and the Sixers' playoff back-to-backs are a minus. |
+| [Julius Randle](../profiles/players/julius-randle.md) | BKN | F | 73 | 8.2 | 86 | 8.6 | 10 | Experts see top 50 again at a late price, so 10 to 14 USD fits punt TO, with a plan to trade him before 2027-03-04. |
+| [Paul George](../profiles/players/paul-george.md) | BOS | F | 79 | 2.4 | 91 | 2.7 | 9 | He is priced near the end of the mid-rounds with a top 40 per-game projection, so the low to mid teens is fair if his knees hold. |
+| [Zach Edey](../profiles/players/zach-edey.md) | MEM | C | 70 | 7.2 | 113 | 1.4 | 2 | Experts call him top 60 at worst while ESPN prices him near zero, so bid 8 to 12 USD and avoid the 20 USD seen in a mock. |
+| [Ryan Rollins](../profiles/players/ryan-rollins.md) | MIL | G | 62 | 2.6 | 105 | 1.6 | not drafted | The expert sees near top 50 value while ESPN barely prices him, so he is a cheap mid-round guard if he starts over Porter Jr. |
+| [Damian Lillard](../profiles/players/damian-lillard.md) | POR | G | 67 | 5.0 | 70 | 5.6 | not drafted | Injury and age risk keep his market cheap while an expert sees per-game value near 20 USD, so he is a punt FG% target despite Portland's playoff back-to-backs. |
+| [Day'Ron Sharpe](../profiles/players/dayron-sharpe.md) | BKN | C | 91 | 5.6 | 136 | 0.3 | not drafted | Josh's best category-league target is priced like a fringe pick, so up to about 10 USD is fair if he starts at center. |
+| [Jaden McDaniels](../profiles/players/jaden-mcdaniels.md) | MIN | F | 90 | 1.0 | 84 | 2.3 | 1 | Experts say his ADP is too late for a starting forward with no weak category, so spend up to site values and treat 11 USD as the top. |
+| [Collin Murray-Boyles](../profiles/players/collin-murray-boyles.md) | TOR | F,C | 111 | 1.0 | 174 | 0.3 | not drafted | Experts see a top 100 baseline and a mock already paid 9 USD, so expect to pay above Yahoo's value and stop near 9 USD. |
+
+### Late flyers
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Cedric Coward](../profiles/players/cedric-coward.md) | MEM | G,F | 84 | 6.4 | 124 | 1.0 | not drafted | He is a breakout bet on rising usage, so match Josh's value of about 6 USD and do not chase. |
+| [Jalen Suggs](../profiles/players/jalen-suggs.md) | ORL | G | 94 | 2.8 | 142 | 0.4 | 1 | His health history hides top 70 to 80 per-game value, so pay 3 to 6 USD and plan for missed games. |
+| [CJ McCollum](../profiles/players/cj-mccollum.md) | ATL | G | 109 | 1.0 | 82 | 2.0 | 2 | Experts call his late ADP too low after his top-70 pace in Atlanta, so bid 3 to 6 USD and stop near 8 USD. |
+| [Jusuf Nurkić](../profiles/players/jusuf-nurkic.md) | UTA | C | 105 | 1.0 | 168 | 0.2 | not drafted | Josh is big on him as Utah's starter, but his injury history makes a few dollars above Yahoo's value the limit. |
+| [Kel'el Ware](../profiles/players/kelel-ware.md) | MIL | C | 71 | 4.6 | 67 | 2.5 | 5 | Experts see top 60 to 80 value and top 40 upside at 30 minutes in a big priced at a few dollars, if Jenkins starts him. |
+| [Brandin Podziemski](../profiles/players/brandin-podziemski.md) | GSW | G | 117 | 1.0 | 66 | 2.3 | not drafted | Experts like him near Yahoo's price as a durable starter with no weak category, but warn against paying ESPN prices. |
+| [Keegan Murray](../profiles/players/keegan-murray.md) | SAC | F | 116 | 1.0 | 83 | 1.2 | 1 | Sacramento lost three scorers, so experts expect more usage and a top 100 season from a cheap forward with no weak category. |
+| [Zach LaVine](../profiles/players/zach-lavine.md) | SAC | G,F | 99 | 1.0 | 158 | 1.0 | 12 | Injury history and an unclear role price him near zero, so 1 to 5 USD buys top-80 upside with trade or buyout risk. |
+| [Isaiah Hartenstein](../profiles/players/isaiah-hartenstein.md) | OKC | C | 103 | 1.2 | 135 | 0.6 | 11 | The market forgot a center experts want inside the top 100, so 1 to 5 USD is a good late buy for punt 3PM. |
+| [Neemias Queta](../profiles/players/neemias-queta.md) | BOS | C | 113 | 1.0 | 117 | 0.6 | 1 | The expert values him well above his near-zero price, so 1 to 3 USD buys FG%, rebounds and blocks if he starts over Robinson. |
+| [Jakob Poeltl](../profiles/players/jakob-poeltl.md) | TOR | C | 122 | 1.0 | 116 | 0.8 | 15 | His price collapsed from last year's 15 USD and experts call it too low, so a few dollars buys FG% if his back stays quiet. |
+| [Khaman Maluach](../profiles/players/khaman-maluach.md) | PHX | C | 118 | 1.5 | 202 | 0.1 | not drafted | He is a blocks-first center with a top 75 ceiling while Mark Williams is out, worth 1 to 3 USD at the end. |
+| [Quentin Grimes](../profiles/players/quentin-grimes.md) | LAL | G,F | 126 | 1.0 | 118 | 0.8 | not drafted | A 1 USD last-round flyer with top 80 upside if he wins a Lakers starting spot or Luka misses time. |
+| [Egor Dëmin](../profiles/players/egor-demin.md) | BKN | G | 131 | 0.0 | 121 | 0.6 | not drafted | Josh's best upside target costs 1 to 2 USD, but only punt FG% teams should hold him until his FG% climbs. |
+| [Jeremiah Fears](../profiles/players/jeremiah-fears.md) | NOP | G | 168 | 1.0 | 129 | 0.7 | not drafted | Called badly underdrafted, he is a last-dollar steals flyer, best as a hedge for Dejounte Murray owners in low FG% builds. |
+| [Jalen Green](../profiles/players/jalen-green.md) | PHX | G,F | 130 | 1.0 | 130 | 1.4 | 9 | His price fell to about 1 USD, so he is cheap points and threes for punt FG% and punt TO teams only. |
+| [Gui Santos](../profiles/players/gui-santos.md) | GSW | F | 141 | - | 248 | 0.0 | not drafted | Golden State's injuries open a role, so take him for 1 USD and drop him fast if Lendeborg and Podziemski take the minutes. |
+| [Yves Missi](../profiles/players/yves-missi.md) | NOP | C | 143 | - | 164 | 0.0 | 2 | He is a likely starter priced at zero, so 1 to 2 USD buys blocks and FG% for punt 3PM and punt STL builds. |
+| [Paul Reed](../profiles/players/paul-reed.md) | DET | F,C | 165 | 0.0 | 241 | 0.0 | not drafted | He is a 1 to 2 USD Duren handcuff whom experts take around pick 120, and a fast pickup if Duren misses games. |
+| [Isaiah Jackson](../profiles/players/isaiah-jackson.md) | LAC | C | 326 | - | 233 | 0.0 | 1 | Experts say he belongs in every 12-team draft as a 1 USD FG% and blocks flyer until Niederhauser returns. |
 
 ### Waiver watch
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Grayson Allen](../profiles/players/grayson-allen.md) | CHA | G,F | 187 | 0.0 | 157 | 0.1 | not drafted | One expert ranks him 100 to 115 and others would not draft him; pick him up if he starts at about 27 minutes. |
-| [Morez Johnson Jr.](../profiles/players/morez-johnson.md) | DAL | F | 208 | - | 166 | 0.0 | not drafted | Josh calls his ADP far too low, but he has a lower leg injury; add him if he starts at center for 25 to 30 minutes. |
-| [Max Strus](../profiles/players/max-strus.md) | LAC | F | 209 | - | 204 | 0.0 | not drafted | Top 120 upside only if his minutes return near 32; a waiver pickup, not a target. |
+| [Pelle Larsson](../profiles/players/pelle-larsson.md) | MIA | G,F | 147 | - | - | - | not drafted | Josh would draft him only if he starts, so he is at most a 1 USD pick and otherwise a waiver watch for Miami minutes. |
+| [Grayson Allen](../profiles/players/grayson-allen.md) | CHA | G,F | 187 | 0.0 | 157 | 0.1 | not drafted | The experts split on him, so leave him undrafted unless you need punt FG% threes, and add him if he starts at about 27 minutes. |
+| [Morez Johnson Jr.](../profiles/players/morez-johnson.md) | DAL | F | 208 | - | 166 | 0.0 | not drafted | Josh calls his ADP far too low, but a lower leg injury and an open center job make him a 1 USD flyer at most and a waiver watch. |
 
 <details><summary>Left out</summary>
 
-- Jalen Slawson: His profile says he is not a draft target: Yahoo rank 437, no ESPN price, and a two-way placeholder projection. He is a waiver add only if he gets about 20 minutes.
+- Jalen Slawson: His data calls him not a draft target: 0 USD value, no ESPN price and a two-way placeholder projection, so he is only a waiver pickup if he reaches about 20 minutes.
 
 </details>
 
-<sub>Built 2026-10-04 with claude-opus-5-5 high.</sub>
+<sub>Built 2026-10-05 with claude-opus-5-5 high.</sub>

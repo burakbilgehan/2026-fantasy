@@ -8,36 +8,38 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "53836a9ef9b6",
- "note_count": 30,
- "built_at": "2026-10-04T17:42:24+00:00",
+ "input_sha": "9bd6d7755368",
+ "note_count": 32,
+ "built_at": "2026-10-05T19:58:41+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.19584219999999997,
-  "duration_ms": 52853
+  "cost_usd_list": 0.24260220000000002,
+  "duration_ms": 70692,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Billy Donovan is gone. Tiago Splitter is the new Bulls coach. Nikola Vucevic and Coby White have left, and Norman Powell, Caleb Wilson and Nick Claxton have arrived.",
+   "text": "Billy Donovan, who pulled him early and kept him on a short leash, is gone. Tiago Splitter is the new Bulls head coach.",
    "kind": "fact",
    "date": "2026-09-28",
    "until": "",
    "sources": [
-    "3Qm5wLjhvTw:t1",
-    "3Qm5wLjhvTw:t2",
-    "gJUBAJaHzlU:p11",
-    "gJUBAJaHzlU:t3",
+    "FxaSnyk9g90:p0",
     "FxaSnyk9g90:t2",
-    "9tb1ARBEmQU:p17"
+    "egRrai3Ax38:p10",
+    "3Qm5wLjhvTw:t1",
+    "gJUBAJaHzlU:t3"
    ]
   },
   {
-   "text": "He is projected to start at small forward, with Caleb Wilson at the four and Claxton at center. On a roster built around big men, that means playing out of position.",
-   "kind": "verdict",
+   "text": "Coby White and Nikola Vucevic are gone. Norman Powell and Caleb Wilson have arrived. The projected starting five is Josh Giddey, Norman Powell, Buzelis, Caleb Wilson and Nick Claxton. With Claxton at center and Wilson at the four, Buzelis plays out of position at the three.",
+   "kind": "fact",
    "date": "2026-09-28",
    "until": "",
    "sources": [
+    "3Qm5wLjhvTw:t2",
     "3Qm5wLjhvTw:t3",
     "3Qm5wLjhvTw:t6",
     "9tb1ARBEmQU:p17",
@@ -45,20 +47,48 @@
    ]
   },
   {
-   "text": "Under Donovan last season he was on a short leash and played about 26 minutes early in the season. After the trade deadline he played about 31 minutes with 25% usage and ranked 50th, averaging 19 points, 7 rebounds, 3 threes, almost 2 blocks and a steal.",
+   "text": "After last season's trade deadline he ranked 50th. In 31 minutes with 25% usage he averaged 19 points, 7 rebounds, 3 threes, almost 2 blocks and a steal. Over the final 20 games he played 33 to 34 minutes.",
    "kind": "fact",
-   "date": "2026-09-21",
+   "date": "2026-09-28",
    "until": "",
    "sources": [
-    "FxaSnyk9g90:p0",
-    "egRrai3Ax38:p10",
     "xHRF06_E9HE:p25",
     "xHRF06_E9HE:p26",
+    "FxaSnyk9g90:p1",
     "3Qm5wLjhvTw:p0"
    ]
   },
   {
-   "text": "Splitter is expected to give him more ball handling and point forward duties, so his assists should rise. It is still unclear how much Splitter will empower him.",
+   "text": "Experts expect a big third-year step, with about 32 minutes and more shots. His usage should land between his season-long 22 and his late-season 25.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:p1",
+    "egRrai3Ax38:p10",
+    "sTtFUy7IoJI:p31",
+    "FxaSnyk9g90:p3",
+    "FxaSnyk9g90:p4",
+    "gJUBAJaHzlU:p11",
+    "gerS7ibpaJo:p1"
+   ]
+  },
+  {
+   "text": "Experts disagree on where he sits in the Bulls usage order. Some see him as the first or second option, ahead of Giddey and Caleb Wilson. Another expects Norman Powell to lead the team in usage unless Powell is traded.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p9",
+    "egRrai3Ax38:t2",
+    "sTtFUy7IoJI:p31",
+    "W-R1dzem32s:t0",
+    "g31YlwRe0XQ:t2",
+    "OBwWCxG9SqM:t2"
+   ]
+  },
+  {
+   "text": "Splitter is expected to give him more ball handling and point forward duties, so his assists should rise. How much Splitter will empower him is still an open question.",
    "kind": "verdict",
    "date": "2026-09-28",
    "until": "",
@@ -70,116 +100,117 @@
    ]
   },
   {
-   "text": "Experts expect about 32 minutes and more shots. They see his usage above last season's 22 but probably below his late-season 25. He could be second on the team in usage, ahead of Josh Giddey and Caleb Wilson. Norman Powell may lead the team in usage unless he is traded.",
-   "kind": "verdict",
-   "date": "2026-09-28",
-   "until": "",
-   "sources": [
-    "egRrai3Ax38:p9",
-    "egRrai3Ax38:p10",
-    "egRrai3Ax38:t2",
-    "FxaSnyk9g90:p3",
-    "FxaSnyk9g90:p4",
-    "sTtFUy7IoJI:p31",
-    "3Qm5wLjhvTw:p1",
-    "W-R1dzem32s:t0",
-    "OBwWCxG9SqM:t2"
-   ]
-  },
-  {
-   "text": "Experts expect a big third-year breakout and see him as a top 50 player.",
-   "kind": "verdict",
-   "date": "2026-09-28",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:p0",
-    "3Qm5wLjhvTw:p1",
-    "3Qm5wLjhvTw:p2",
-    "egRrai3Ax38:p9",
-    "ahNxsoU8Hx4:p13",
-    "gJUBAJaHzlU:p10",
-    "gJUBAJaHzlU:p11",
-    "gerS7ibpaJo:p1",
-    "80kfLVnFQ_s:p27",
-    "sTtFUy7IoJI:p30",
-    "J1Eg3uaAICU:p45",
-    "xHRF06_E9HE:p28",
-    "FxaSnyk9g90:p5",
-    "dlo7L8Ru91A:p11"
-   ]
-  },
-  {
-   "text": "He is the best target on the Bulls. Do not take him around pick 40. Around pick 60 is good value and around 80 would be a steal. His Yahoo rank around 80 is far too low.",
-   "kind": "verdict",
-   "date": "2026-09-28",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:p2",
-    "3Qm5wLjhvTw:p3",
-    "sTtFUy7IoJI:p30",
-    "sTtFUy7IoJI:p32",
-    "ahNxsoU8Hx4:p13",
-    "OdDkXFhoKsc:p38"
-   ]
-  },
-  {
-   "text": "His auction price should be about 20 USD, not 4 USD.",
-   "kind": "verdict",
-   "date": "2026-09-07",
-   "until": "",
-   "sources": [
-    "gJUBAJaHzlU:p10"
-   ]
-  },
-  {
-   "text": "Experts expect his blocks to drop as he plays more small forward next to Caleb Wilson, even with more minutes.",
+   "text": "Several experts expect his blocks to drop this season because he will play more small forward next to Caleb Wilson.",
    "kind": "verdict",
    "date": "2026-09-28",
    "until": "",
    "sources": [
     "3Qm5wLjhvTw:p4",
+    "xHRF06_E9HE:p27",
     "gJUBAJaHzlU:p11",
-    "sTtFUy7IoJI:p31",
-    "xHRF06_E9HE:p27"
+    "sTtFUy7IoJI:p31"
    ]
   },
   {
-   "text": "The Bulls play 3-3-4 games (10 total) in our fantasy playoff weeks. They have 15 back-to-backs and an average overall schedule. Their first 20 games are a hard stretch.",
+   "text": "Experts see him as a top 50 player in category and points leagues, probably ranked around 44 to 51. They call his Yahoo rank too low and say he still offers a lot of value.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p25",
+    "3Qm5wLjhvTw:p2",
+    "gJUBAJaHzlU:p10",
+    "sTtFUy7IoJI:p30",
+    "xHRF06_E9HE:p28",
+    "ahNxsoU8Hx4:p13",
+    "J1Eg3uaAICU:p45",
+    "80kfLVnFQ_s:p27",
+    "dlo7L8Ru91A:p11"
+   ]
+  },
+  {
+   "text": "He is the best fantasy target on the Bulls. Do not take him around pick 40. Around pick 60 is good value, and around 80 would be a steal.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:p3",
+    "sTtFUy7IoJI:p32",
+    "OdDkXFhoKsc:p38",
+    "FxaSnyk9g90:p5",
+    "skKXe2CRl8Q:p5"
+   ]
+  },
+  {
+   "text": "He went for 22 USD in an expert auction mock draft.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p16"
+   ]
+  },
+  {
+   "text": "His fair auction price is about 20 USD. Josh is a big fan but would only pay up to his value.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p10",
+    "Q6YlQDvD-aY:p16"
+   ]
+  },
+  {
+   "text": "The Bulls project as a bad team, probably bottom ten in the league, with about 32 wins. They played at a very fast pace late last season and should keep an up-tempo style. The front office signs veterans and hopes to trade them.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t0",
+    "P6TNP-g0wzY:t5",
+    "FxaSnyk9g90:t4",
+    "FxaSnyk9g90:t5",
+    "3Qm5wLjhvTw:t4",
+    "FxaSnyk9g90:t1"
+   ]
+  },
+  {
+   "text": "The Bulls play 3-3-4 games (10 in total) in fantasy playoff weeks 19 to 21 with the March 28 end. They have 15 back-to-backs, one below the league maximum.",
    "kind": "fact",
    "date": "2026-09-28",
    "until": "",
    "sources": [
     "3Qm5wLjhvTw:t7",
-    "3Qm5wLjhvTw:t8",
-    "FxaSnyk9g90:t6"
+    "3Qm5wLjhvTw:t8"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He combines blocks and threes. His projected 1.6 blocks per game is a real outlier for a forward.",
+   "text": "Blocks are his standout category. His projected 1.6 per game is far above the pool, even more so for a forward.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "FxaSnyk9g90:p1",
     "stats"
    ]
   },
   {
-   "text": "He makes threes on volume but at a low percentage: 35% last season and 32% after the deadline.",
+   "text": "He makes many threes for a forward, but his three-point percentage is low. He shot 35% from three last season and 32% after the trade deadline.",
    "kind": "fact",
    "date": "2026-09-28",
    "until": "",
    "sources": [
     "3Qm5wLjhvTw:p4",
-    "xHRF06_E9HE:p26"
+    "xHRF06_E9HE:p26",
+    "FxaSnyk9g90:p1",
+    "stats"
    ]
   },
   {
-   "text": "No category is a clear weakness, so he fits any build.",
+   "text": "None of his categories is clearly weak, so he fits any build.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
@@ -190,19 +221,28 @@
   {
    "name": "BLK specialist",
    "channel": "durable",
-   "detail": "1.6 projected blocks; experts expect some drop at small forward",
+   "detail": "1.6 projected blocks, far above the pool for a forward",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "3PM from a big",
+   "channel": "durable",
+   "detail": "About 2.3 threes per game as a forward, on a low three-point percentage",
    "until": "",
    "sources": [
     "stats",
-    "FxaSnyk9g90:p1",
-    "3Qm5wLjhvTw:p4"
+    "FxaSnyk9g90:p1"
    ],
    "new_meaning": ""
   },
   {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "",
+   "detail": "No category flagged weak",
    "until": "",
    "sources": [
     "stats"
@@ -220,9 +260,22 @@
    "new_meaning": ""
   },
   {
+   "name": "role up",
+   "channel": "current",
+   "detail": "About 32 minutes expected, with more usage and ball handling under Splitter",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p10",
+    "sTtFUy7IoJI:p31",
+    "FxaSnyk9g90:p2",
+    "FxaSnyk9g90:p3"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "breakout",
    "channel": "current",
-   "detail": "third-year step expected under new coach Splitter",
+   "detail": "Big third-year step expected",
    "until": "",
    "sources": [
     "3Qm5wLjhvTw:p1",
@@ -233,44 +286,120 @@
    "new_meaning": ""
   },
   {
-   "name": "role up",
-   "channel": "current",
-   "detail": "about 32 minutes, more usage and point forward duties",
-   "until": "",
-   "sources": [
-    "egRrai3Ax38:p10",
-    "FxaSnyk9g90:p2",
-    "FxaSnyk9g90:p4",
-    "sTtFUy7IoJI:p31"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "expert target",
    "channel": "current",
-   "detail": "seen as top 50; good value around pick 60",
+   "detail": "Experts rank him top 50 against a Yahoo rank of 69 to 83",
    "until": "",
    "sources": [
     "3Qm5wLjhvTw:p2",
     "3Qm5wLjhvTw:p3",
     "FxaSnyk9g90:p5",
-    "ahNxsoU8Hx4:p13"
+    "n4KkK-OJjqA:p25",
+    "sTtFUy7IoJI:p30"
    ],
    "new_meaning": ""
   },
   {
    "name": "sleeper",
    "channel": "current",
-   "detail": "Yahoo rank around 80; expert price about 20 USD vs a 4 USD market",
+   "detail": "Market ranks him around 60 to 80, experts around 44 to 51",
    "until": "",
    "sources": [
-    "gJUBAJaHzlU:p10",
+    "n4KkK-OJjqA:p25",
     "ahNxsoU8Hx4:p13",
     "J1Eg3uaAICU:p45"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Shares the ball with Norman Powell, Josh Giddey and Caleb Wilson",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:t0",
+    "g31YlwRe0XQ:t2",
+    "FxaSnyk9g90:p3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "Tiago Splitter replaces Billy Donovan",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t1",
+    "FxaSnyk9g90:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage freed",
+   "channel": "current",
+   "detail": "Coby White and Nikola Vucevic are gone",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t2",
+    "gJUBAJaHzlU:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "About 32 wins predicted, probably bottom ten",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t4",
+    "P6TNP-g0wzY:t5",
+    "3Qm5wLjhvTw:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fast pace",
+   "channel": "current",
+   "detail": "Up-tempo transition style expected",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "Front office signs veterans to trade them; a Powell trade would free usage",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t4",
+    "FxaSnyk9g90:t1",
+    "W-R1dzem32s:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "15 back-to-backs, one below the maximum",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 16 USD, ESPN value 7 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Experts agree he is a top 50 breakout pick. The market is cheaper: Yahoo average cost is 9.0 USD, ESPN 4.1 USD and Yahoo value 16 USD. He went for 12 USD in our league last season. Paying into the high teens is fine, up to the expert's 20 USD mark. He fits any build because his blocks are a real asset and no category is weak. Early in the season, check whether Splitter plays him about 32 minutes with more usage than Powell's other teammates get, and whether his blocks hold now that he plays small forward.",
+ "note": "Experts agree he is a top 50 player. The market is lower: Yahoo rank 69, Yahoo average cost 9.0 USD and ESPN average cost 4.2 USD. He went for 12 USD in our league last season, but expect our managers to pay closer to the experts' fair price of about 20 USD (22 USD in a recent mock), so anything under 20 USD is a buy. His elite blocks and threes from a forward, with no weak category, fit any build. Early in the season, check whether Splitter gives him about 32 minutes, whether he stays ahead of Powell in usage, and whether his blocks hold at small forward.",
  "rejected": []
 }

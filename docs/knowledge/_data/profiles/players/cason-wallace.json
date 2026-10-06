@@ -8,44 +8,45 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "d4f8a9285b7b",
- "note_count": 9,
- "built_at": "2026-10-04T17:26:24+00:00",
+ "input_sha": "31ed5a533240",
+ "note_count": 10,
+ "built_at": "2026-10-05T19:44:43+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1435382,
-  "duration_ms": 39031
+  "cost_usd_list": 0.1663982,
+  "duration_ms": 44671,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "OKC traded away Lu Dort, Isaiah Joe and Aaron Wiggins to cut salary and replaced them with rookies and unproven young players.",
+   "text": "OKC traded Lu Dort, Isaiah Joe and Aaron Wiggins to cut salary and took back no salary.",
    "kind": "fact",
-   "date": "2026-09-07",
+   "date": "2026-08-30",
    "until": "",
    "sources": [
     "75Sk_4fkgIM:t0",
     "75Sk_4fkgIM:t1",
     "Alwse2uXzD4:t0",
-    "gJUBAJaHzlU:t4",
-    "-KS_AZjZnw4:t7"
+    "W3THnI7wWdA:t4"
    ]
   },
   {
-   "text": "Experts expect him to start in Lu Dort's old spot.",
+   "text": "Experts expect him to start, taking Lu Dort's spot in the lineup.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
    "sources": [
-    "ZYllcj4o6_A:p39",
-    "7BllEsdNLoM:p54",
-    "Alwse2uXzD4:p18",
     "75Sk_4fkgIM:p11",
-    "Alwse2uXzD4:t0"
+    "Alwse2uXzD4:p18",
+    "Alwse2uXzD4:t0",
+    "7BllEsdNLoM:p54",
+    "ZYllcj4o6_A:p39"
    ]
   },
   {
-   "text": "As a starter he should play a 3-and-D role, with possible upside as a secondary playmaker off the catch.",
+   "text": "As a starter he should stay in a 3-and-D role and may do more as a secondary playmaker. Josh sees some playmaking upside.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -55,7 +56,7 @@
    ]
   },
   {
-   "text": "Last season he played lead guard and lead scorer when SGA, Jalen Williams and Ajay Mitchell were out, and OKC chose him over Mitchell for the extra ball-handling role.",
+   "text": "Last season he played as lead guard and lead scorer when SGA, Jalen Williams and Mitchell were out. When the team needed an extra ball handler, it picked him over Ajay Mitchell.",
    "kind": "fact",
    "date": "2026-07-26",
    "until": "",
@@ -65,22 +66,12 @@
    ]
   },
   {
-   "text": "Ryland expects him to get more on-ball chances in bench minutes as the season goes on.",
+   "text": "Ryland expects him to get more on-ball chances in his bench minutes as the season goes on.",
    "kind": "verdict",
    "date": "2026-07-26",
    "until": "",
    "sources": [
     "75Sk_4fkgIM:p13"
-   ]
-  },
-  {
-   "text": "Ajay Mitchell and Jared McCain are also expected to get more minutes in the OKC guard rotation.",
-   "kind": "verdict",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "BjXP9JODDSg:t0",
-    "RyzcCGChYgs:t0"
    ]
   },
   {
@@ -93,37 +84,76 @@
    ]
   },
   {
-   "text": "He has to be drafted, but not too high. Experts say his market rank and ADP already price him fairly for category leagues.",
+   "text": "The OKC guard rotation stays deep. SGA, Ajay Mitchell, Topic and Jared McCain all need minutes, and the offense may center on SGA, Mitchell and Jalen Williams.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:t0",
+    "gJUBAJaHzlU:t4",
+    "BjXP9JODDSg:t0",
+    "75Sk_4fkgIM:t4"
+   ]
+  },
+  {
+   "text": "Ryland projects OKC to win about 57 to 62 games and be a top two seed in the West.",
+   "kind": "verdict",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:t3"
+   ]
+  },
+  {
+   "text": "Josh values him at about 1 USD. He calls an 8 USD price in a mock auction very expensive.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p46"
+   ]
+  },
+  {
+   "text": "He should be drafted, but not too high. Do not let his steals inflate his value, because the market already prices them correctly.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
    "sources": [
     "ZYllcj4o6_A:p39",
     "W-R1dzem32s:p45",
+    "7BllEsdNLoM:p54",
     "Alwse2uXzD4:p18"
-   ]
-  },
-  {
-   "text": "Do not let his steals inflate his value.",
-   "kind": "verdict",
-   "date": "2026-09-10",
-   "until": "",
-   "sources": [
-    "W-R1dzem32s:p45",
-    "7BllEsdNLoM:p54"
    ]
   }
  ],
  "durable": [
   {
-   "text": "Steals are his standout category and are far above the top 250 pool. His other categories are modest, with low points and rebounds.",
+   "text": "Steals are his standout category and a real outlier, far above the top 250 pool.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-02",
    "until": "",
    "sources": [
     "stats",
-    "ZYllcj4o6_A:p39",
-    "7BllEsdNLoM:p54"
+    "7BllEsdNLoM:p54",
+    "ZYllcj4o6_A:p39"
+   ]
+  },
+  {
+   "text": "Outside steals he adds little. His points and rebounds are below the pool on low shot volume.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He is worth more in category leagues than in points leagues, where he is barely top 150.",
+   "kind": "verdict",
+   "date": "2026-08-30",
+   "until": "",
+   "sources": [
+    "Alwse2uXzD4:p18"
    ]
   }
  ],
@@ -131,39 +161,91 @@
   {
    "name": "STL specialist",
    "channel": "durable",
-   "detail": "about 1.9 steals per game projected",
+   "detail": "About 1.9 steals per game projected, the clear outlier in his profile",
    "until": "",
    "sources": [
     "stats",
-    "ZYllcj4o6_A:p39",
-    "7BllEsdNLoM:p54"
+    "7BllEsdNLoM:p54",
+    "ZYllcj4o6_A:p39"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "No weak category flagged, but his value rests almost entirely on steals",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "category league player",
+   "channel": "durable",
+   "detail": "Barely top 150 in points leagues; his ADP fits category value",
+   "until": "",
+   "sources": [
+    "Alwse2uXzD4:p18"
    ],
    "new_meaning": ""
   },
   {
    "name": "role up",
    "channel": "current",
-   "detail": "projected starter in Lu Dort's old spot after OKC's departures",
+   "detail": "Expected to start in Lu Dort's spot after OKC traded Dort, Joe and Wiggins",
    "until": "",
    "sources": [
     "75Sk_4fkgIM:p11",
     "Alwse2uXzD4:p18",
-    "ZYllcj4o6_A:p39",
-    "-KS_AZjZnw4:t7"
+    "Alwse2uXzD4:t0"
    ],
    "new_meaning": ""
   },
   {
    "name": "contract year",
    "channel": "current",
-   "detail": "final year of rookie deal, restricted free agency next, wants a bigger role",
+   "detail": "Final year of rookie deal, heading toward restricted free agency, wants a bigger role",
    "until": "",
    "sources": [
     "75Sk_4fkgIM:p15"
    ],
-   "new_meaning": "In the last year of his contract, so a new deal and a bigger role are at stake this season."
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Shares the ball with SGA, Jalen Williams and Ajay Mitchell",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:t4",
+    "75Sk_4fkgIM:p12"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "OKC must also find guard minutes for Ajay Mitchell, Jared McCain and Topic",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t4",
+    "BjXP9JODDSg:t0",
+    "RyzcCGChYgs:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "Ryland projects 57 to 62 wins",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:t3"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "He is an end-of-auction steals buy: Yahoo ranks him 128 with an average cost of 1.0 USD, ESPN ranks him 109 at 2 USD value, and he went for 1 USD in our league last season. In a 144-player draft he is worth 1 to 2 USD for builds that chase steals and low turnovers, but he adds little in points, rebounds or assists. Early in the season, check that he really starts, that his minutes rise above last season's 26.6, and whether his FG% gets back above the 43.2% of last season.",
+ "note": "Wallace is a steals specialist with little else. He projects for about 1.9 steals but only 8.6 points and 3.2 rebounds, and he shot 43.2% from the field last season. The market already prices him right: Yahoo rank 128 at about 1 USD, ESPN rank 109 at 0.5 USD, and 1 USD in our league last season. Josh also calls him a 1 USD player, so in a 144-player draft take him as a 1 to 2 USD end-of-auction steals pickup and do not chase him like the 8 USD mock price. Early in the season, check that he really starts, whether he gets on-ball chances when OKC stars sit, and whether his FG% recovers.",
  "rejected": []
 }

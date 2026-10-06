@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 1.0 | 128 | 2 | 0.4 | 109 | 1 |
+| 2026-27 | 0 | 1.0 | 128 | 2 | 0.5 | 109 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,23 +30,26 @@
 </details>
 
 **Current**
-- Experts expect him to start in Lu Dort's old spot. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2431), [09-09](https://youtu.be/7BllEsdNLoM?t=2459), [08-30](https://youtu.be/Alwse2uXzD4?t=1733), [07-26](https://youtu.be/75Sk_4fkgIM?t=481), [08-30](https://youtu.be/Alwse2uXzD4?t=1728))
-- As a starter he should play a 3-and-D role, with possible upside as a secondary playmaker off the catch. (verdict, 2026-10-02; [07-26](https://youtu.be/75Sk_4fkgIM?t=543), [10-02](https://youtu.be/ZYllcj4o6_A?t=2431))
-- He has to be drafted, but not too high. Experts say his market rank and ADP already price him fairly for category leagues. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2431), [09-10](https://youtu.be/W-R1dzem32s?t=1842), [08-30](https://youtu.be/Alwse2uXzD4?t=1733))
-- Ajay Mitchell and Jared McCain are also expected to get more minutes in the OKC guard rotation. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=202), [07-21](https://youtu.be/RyzcCGChYgs?t=1024))
-- Do not let his steals inflate his value. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1842), [09-09](https://youtu.be/7BllEsdNLoM?t=2459))
-- OKC traded away Lu Dort, Isaiah Joe and Aaron Wiggins to cut salary and replaced them with rookies and unproven young players. (fact, 2026-09-07; [07-26](https://youtu.be/75Sk_4fkgIM?t=267), [07-26](https://youtu.be/75Sk_4fkgIM?t=818), [08-30](https://youtu.be/Alwse2uXzD4?t=1728), [09-07](https://youtu.be/gJUBAJaHzlU?t=1758), [07-20](https://youtu.be/-KS_AZjZnw4?t=1705))
-- Last season he played lead guard and lead scorer when SGA, Jalen Williams and Ajay Mitchell were out, and OKC chose him over Mitchell for the extra ball-handling role. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=568), [07-26](https://youtu.be/75Sk_4fkgIM?t=641))
-- Ryland expects him to get more on-ball chances in bench minutes as the season goes on. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=568))
+- Josh values him at about 1 USD. He calls an 8 USD price in a mock auction very expensive. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2379))
+- Experts expect him to start, taking Lu Dort's spot in the lineup. (verdict, 2026-10-02; [07-26](https://youtu.be/75Sk_4fkgIM?t=481), [08-30](https://youtu.be/Alwse2uXzD4?t=1733), [08-30](https://youtu.be/Alwse2uXzD4?t=1728), [09-09](https://youtu.be/7BllEsdNLoM?t=2459), [10-02](https://youtu.be/ZYllcj4o6_A?t=2431))
+- As a starter he should stay in a 3-and-D role and may do more as a secondary playmaker. Josh sees some playmaking upside. (verdict, 2026-10-02; [07-26](https://youtu.be/75Sk_4fkgIM?t=543), [10-02](https://youtu.be/ZYllcj4o6_A?t=2431))
+- He should be drafted, but not too high. Do not let his steals inflate his value, because the market already prices them correctly. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2431), [09-10](https://youtu.be/W-R1dzem32s?t=1842), [09-09](https://youtu.be/7BllEsdNLoM?t=2459), [08-30](https://youtu.be/Alwse2uXzD4?t=1733))
+- The OKC guard rotation stays deep. SGA, Ajay Mitchell, Topic and Jared McCain all need minutes, and the offense may center on SGA, Mitchell and Jalen Williams. (fact, 2026-09-30; [07-21](https://youtu.be/RyzcCGChYgs?t=1024), [09-07](https://youtu.be/gJUBAJaHzlU?t=1758), [09-30](https://youtu.be/BjXP9JODDSg?t=202), [07-26](https://youtu.be/75Sk_4fkgIM?t=903))
+- OKC traded Lu Dort, Isaiah Joe and Aaron Wiggins to cut salary and took back no salary. (fact, 2026-08-30; [07-26](https://youtu.be/75Sk_4fkgIM?t=267), [07-26](https://youtu.be/75Sk_4fkgIM?t=818), [08-30](https://youtu.be/Alwse2uXzD4?t=1728), [07-01](https://youtu.be/W3THnI7wWdA?t=998))
+- Last season he played as lead guard and lead scorer when SGA, Jalen Williams and Mitchell were out. When the team needed an extra ball handler, it picked him over Ajay Mitchell. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=568), [07-26](https://youtu.be/75Sk_4fkgIM?t=641))
+- Ryland expects him to get more on-ball chances in his bench minutes as the season goes on. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=568))
 - He is in the final year of his rookie deal, heading toward restricted free agency. He has said he wants a bigger role. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=497))
+- Ryland projects OKC to win about 57 to 62 games and be a top two seed in the West. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2232))
 
 **Durable**
-- Steals are his standout category and are far above the top 250 pool. His other categories are modest, with low points and rebounds. (fact, 2026-10-04; stats, [10-02](https://youtu.be/ZYllcj4o6_A?t=2431), [09-09](https://youtu.be/7BllEsdNLoM?t=2459))
+- Outside steals he adds little. His points and rebounds are below the pool on low shot volume. (verdict, 2026-10-05; stats)
+- Steals are his standout category and a real outlier, far above the top 250 pool. (fact, 2026-10-02; stats, [09-09](https://youtu.be/7BllEsdNLoM?t=2459), [10-02](https://youtu.be/ZYllcj4o6_A?t=2431))
+- He is worth more in category leagues than in points leagues, where he is barely top 150. (verdict, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1733))
 
 **Tags**
-- Current: `role up` (projected starter in Lu Dort's old spot after OKC's departures), `contract year` (final year of rookie deal, restricted free agency next, wants a bigger role)
-- Durable: `STL specialist` (about 1.9 steals per game projected)
+- Current: `role up` (Expected to start in Lu Dort's spot after OKC traded Dort, Joe and Wiggins), `contract year` (Final year of rookie deal, heading toward restricted free agency, wants a bigger role), `usage competition` (Shares the ball with SGA, Jalen Williams and Ajay Mitchell), `deep rotation` (OKC must also find guard minutes for Ajay Mitchell, Jared McCain and Topic), `winning team` (Ryland projects 57 to 62 wins)
+- Durable: `STL specialist` (About 1.9 steals per game projected, the clear outlier in his profile), `fits every build` (No weak category flagged, but his value rests almost entirely on steals), `category league player` (Barely top 150 in points leagues; his ADP fits category value)
 
-**Note.** He is an end-of-auction steals buy: Yahoo ranks him 128 with an average cost of 1.0 USD, ESPN ranks him 109 at 2 USD value, and he went for 1 USD in our league last season. In a 144-player draft he is worth 1 to 2 USD for builds that chase steals and low turnovers, but he adds little in points, rebounds or assists. Early in the season, check that he really starts, that his minutes rise above last season's 26.6, and whether his FG% gets back above the 43.2% of last season.
+**Note.** Wallace is a steals specialist with little else. He projects for about 1.9 steals but only 8.6 points and 3.2 rebounds, and he shot 43.2% from the field last season. The market already prices him right: Yahoo rank 128 at about 1 USD, ESPN rank 109 at 0.5 USD, and 1 USD in our league last season. Josh also calls him a 1 USD player, so in a 144-player draft take him as a 1 to 2 USD end-of-auction steals pickup and do not chase him like the 8 USD mock price. Early in the season, check that he really starts, whether he gets on-ball chances when OKC stars sit, and whether his FG% recovers.
 
-<sub>9 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>10 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

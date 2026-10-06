@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 22 | 7.8 | 49 | 14 | 5.2 | 44 | 6 |
+| 2026-27 | 22 | 7.8 | 49 | 14 | 5.4 | 44 | 6 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,26 +30,33 @@
 </details>
 
 **Current**
-- Experts call him fair value around picks 50 to 60s, mostly as a positional pick at center. Round 3 or 4 is too high, and nine-cat rankings make him look better than he is in category leagues. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=987), [09-25](https://youtu.be/4gw4W4RTolY?t=891), [09-24](https://youtu.be/_vbAP5y182A?t=1082), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2709))
-- He is the clear starting center for Atlanta. No established backup threatens his job. (fact, 2026-09-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1478), [09-14](https://youtu.be/t4n9MAP2_14?t=1414), [09-25](https://youtu.be/4gw4W4RTolY?t=938), [09-25](https://youtu.be/4gw4W4RTolY?t=328))
-- Atlanta's center depth is thin: Veesaar is out for the season and Gueye is injured. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1693))
-- Atlanta is very cautious with his minutes. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=938))
-- Quin Snyder wants him spaced away from the rim when he plays with Daniels and Johnson. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=905))
-- Lloyd does not expect his FG% or his block rate to recover under Snyder. Another expert also doubts a FG% bounce back because Trae Young is still gone. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=912), [07-16](https://youtu.be/-y6p5PYLf00?t=1591))
-- Atlanta plays 4, 4 and 3 games in our playoff weeks 19 to 21. The team has 14 back-to-backs and resting players is not a concern. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739))
+- Experts price him at about 15 to 16 USD in auction, or a pick in the 50s or 60s. Round three or four is too high. In one mock, pick 57 was called a little early and mostly a positional pick. In another, Josh regretted taking him in round 5 over LeBron. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3455), [09-30](https://youtu.be/BjXP9JODDSg?t=987), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2709), [09-24](https://youtu.be/_vbAP5y182A?t=1082), [09-25](https://youtu.be/4gw4W4RTolY?t=891))
+- Okongwu is Atlanta's clear starting center. The projected starters are McCollum, Alexander-Walker, Daniels, Johnson and Okongwu. (fact, 2026-09-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1478), [09-25](https://youtu.be/4gw4W4RTolY?t=328), [08-25](https://youtu.be/H9q2FT3LhNw?t=428))
+- No established backup threatens his job. Center depth is thin: Veesaar is out for the season and Gueye is injured, which leaves Landale as the main backup. (fact, 2026-09-25; [09-14](https://youtu.be/t4n9MAP2_14?t=1414), [09-25](https://youtu.be/4gw4W4RTolY?t=1693), [06-26](https://youtu.be/CLsUc0Sevos?t=1102))
+- Lloyd says the team is very cautious with his minutes. Lloyd also expects every Atlanta starter to play 30-plus minutes. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=938), [09-25](https://youtu.be/4gw4W4RTolY?t=328))
+- Quin Snyder wants Okongwu spaced away from the rim when he plays alongside Daniels and Johnson. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=905))
+- Lloyd expects his FG% and block rate to stay at their current lower levels under Quin Snyder. Another expert also doubts an FG% bounce back because Trae Young is still gone. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=912), [07-16](https://youtu.be/-y6p5PYLf00?t=1591))
+- Lloyd says nine-cat rankings inflate him. He calls a round-four pick a disappointment and says he borders on overvalued in category leagues. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=891))
+- Atlanta's playoff schedule is 4-4-3 games in weeks 19 to 21 for a March 28 end. The team has 14 back-to-backs, and the experts do not expect it to rest or shut down players. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739), [07-14](https://youtu.be/xHRF06_E9HE?t=230))
+- If his inside finishing gets back to his old level, he could score 18 to 19 points per game with efficiency that helps in fantasy. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1581))
+- Atlanta has no true point guard. Ball handling is shared among McCollum, Alexander-Walker, Johnson and Daniels. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=364))
+- Atlanta is projected to win about 46 games and finish between fourth and eighth in the East. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1902))
+- In points leagues, experts see him as a pick in the 80s, so he goes later there than in category leagues. (verdict, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=1145))
 
 **Durable**
-- For a center, his threes and steals stand out. He has no weak category. (fact, 2026-10-04; stats, [08-30](https://youtu.be/Alwse2uXzD4?t=1560))
-- He is not a huge rebounder but is a usable second center. His broad line suits category leagues more than points leagues. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=950), [08-30](https://youtu.be/Alwse2uXzD4?t=1560))
-- He is a stretch center who makes threes on real volume. He also handles the ball better than most centers and has good hands and feel. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1540), [08-25](https://youtu.be/H9q2FT3LhNw?t=1738))
-- Playing on the perimeter gives him more threes and assists but fewer finishes at the rim and fewer offensive rebounds. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1606))
-- On defense he trades blocks for steals. He defends on the perimeter and cuts down on fouls. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1768), [08-25](https://youtu.be/H9q2FT3LhNw?t=1761))
-- Expect the same profile going forward, maybe with a few more blocks. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1768))
+- He has no weak category. His threes and steals are well above other centers, and his rebounds and blocks are above the pool. (fact, 2026-10-05; stats, [08-30](https://youtu.be/Alwse2uXzD4?t=1560))
+- He is not a huge rebounder, but he is a usable second center. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=950))
+- He is a stretch center who makes threes on real volume. His three-point volume is real even if his percentage dips. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1540), stats)
+- He plays more on the perimeter than most centers. That means less rim finishing, fewer offensive rebounds, and more assists and three-point attempts. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1606))
+- On defense he gives up blocks to cut fouls and guard the perimeter. As a result he gets more steals than most centers. Atlanta's switching and blitzing scheme puts its center in different spots. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1768), [08-25](https://youtu.be/H9q2FT3LhNw?t=1761), stats)
+- Experts expect this defensive profile to last, with maybe a few more blocks. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1768))
+- He has very good hands and good feel, and he handles the ball better than most centers. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1738))
+- Quin Snyder runs an egalitarian, high-movement offense that wants many threes and five-out spacing. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=697))
 
 **Tags**
-- Current: none
-- Durable: `fits every build` (No category flagged weak; threes and steals are strong for a center), `3PM from a big` (Stretch center who makes threes on real volume), `9-cat fluff` (Lloyd says nine-cat rankings inflate him and he borders on overvalued in category leagues), `needs playmaker` (His FG% dropped without Trae Young as he took fewer shots at the rim)
+- Current: `minutes limit` (Lloyd says Atlanta is very cautious with his minutes), `shared ball handling` (No true point guard in Atlanta), `low shutdown risk` (Atlanta did not shut players down last season, and resting players is not a concern), `winning team` (About 46 wins projected, fourth to eighth in the East)
+- Durable: `3PM from a big` (About 1.9 threes per game as a center), `fits every build` (No category flagged weak), `9-cat fluff` (Lloyd says nine-cat rankings inflate him), `category league player` (Seen as a pick in the 80s in points leagues, versus the 50s or 60s in category leagues), `five-out offense` (Snyder spaces him away from the rim next to Daniels and Johnson)
 
-**Note.** He is a clear starting center who helps in every build, with threes and steals that are rare for a center. Yahoo values him at 22 USD, but the average costs are 7.8 USD on Yahoo and 5.2 USD on ESPN, and our league paid 6 USD last season. Experts say nine-cat rankings (Yahoo 49, ESPN 44) overrate him, so pay close to the average cost, not the Yahoo value. Early in the season, check whether his FG% stays near 48% and his blocks near 1.1, and watch how Atlanta handles his minutes.
+**Note.** Okongwu is a stretch center with no weak category, so he fits any build. His threes and steals help most in builds that want them from the center spot. Yahoo values him at 22 USD, but managers pay about 8 USD (ESPN 14 USD value, 5 USD cost), and he went for 6 USD in our league last season. Experts price him at about 15 to 16 USD and warn that nine-cat ranks of 44 to 49 inflate him, so do not chase him above that. Early in the season, check his minutes, given Atlanta's caution with them, and whether his FG% (48.5% projected) and blocks recover.
 
-<sub>17 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>18 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

@@ -30,20 +30,21 @@
 </details>
 
 **Current**
-- He is in the projected Clippers starting five with Darius Garland, Max Strus, Rui Hachimura and Isaiah Jackson. The expert is not confident about this lineup. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=360), [10-04](https://youtu.be/tnzmsYUA4yQ?t=997))
-- The Clippers have many injured players now, including Ingram, Beal, Jordan Miller and Konan Niederhauser. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018))
-- He should start but will lose value when the injured Clippers return. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=997))
-- His rank in the 200s is fair. Experts do not want to invest in him and would consider him only in 16-team leagues. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=997), [06-30](https://youtu.be/JMSLg6yz-M0?t=980))
-- The Clippers rotation is unsettled. The expert expects a trial season with long rotations, and coach Ty Lue often changes his rotation choices. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
-- The Clippers play 4, 3 and 4 games in our fantasy playoff weeks. They have 13 back-to-backs, one of the lowest totals in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
+- Jones is in the projected Clippers starting five at forward, next to Darius Garland, Max Strus, Rui Hachimura and Isaiah Jackson. The speaker is not confident about this lineup. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=360), [10-04](https://youtu.be/tnzmsYUA4yQ?t=997))
+- The Clippers have many injured players now: Ingram, Beal, Jordan Miller and Konan Niederhauser are all out. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018))
+- He should start, but he will lose value when the injured Clippers return. (verdict, 2026-10-04, until injured Clippers players return; [10-04](https://youtu.be/tnzmsYUA4yQ?t=997))
+- A rank in the 200s is fair for him. He is worth a look only in 16-team leagues. The thin Clippers frontcourt may make him draftable, but the experts are not interested in investing in him. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=997), [06-30](https://youtu.be/JMSLg6yz-M0?t=980))
+- The Clippers may treat this as a trial season with long rotations and many players tested. Coach Ty Lue often makes odd rotation choices and then changes them, so Jones's minutes are hard to predict. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
+- The Clippers play 4, 3 and 4 games in our fantasy playoff weeks (season ending March 28). They have 13 back-to-backs, one of the lowest totals in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
 
 **Durable**
-- He has historically been a poor fantasy contributor. He may give a steal and a block, but little else. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=946))
+- He makes few turnovers and shoots a solid FG% on low volume. His points, rebounds and assists are below the pool, and assists are his weakest category. (fact, 2026-10-05; stats)
+- He has a long record as a poor fantasy contributor. His main help is a steal and a block. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=946))
 
 **Tags**
-- Current: `waiver watch` (Starts while the Clippers are injured. Not a draft target in a 12-team league.), `minutes competition` (Loses value when Ingram, Beal and other injured Clippers return), `good playoff schedule` (4-3-4 games in weeks 19 to 21), `few back-to-backs` (13 back-to-backs, one of the lowest totals)
+- Current: `waiver watch` (Starts while Clippers players are hurt. The expert sees him as a 16-team option only.; until injured Clippers players return), `minutes competition` (Starts while Ingram, Beal and Jordan Miller are out. Expected to lose value when they return.; until injured Clippers players return), `unsettled rotation` (The expert is not confident about the projected lineup. Ty Lue changes rotations often, and the season may be a trial with long rotations.), `good playoff schedule` (4-3-4 games in weeks 19 to 21 (season ending March 28)), `few back-to-backs` (13 back-to-backs, one of the lowest totals in the league)
 - Durable: none
 
-**Note.** At Yahoo rank 225, ESPN rank 195 and a value of 0 USD on both sites, he is well outside the 144 players our league drafts, so do not spend on him at the auction. His projection is low in turnovers with a fair FG% and some blocks, but weak in points, rebounds and assists (9.8 points, 3.4 rebounds, 1.1 assists). Watch him on waivers early: he starts while the Clippers are injured, and his playoff schedule is good. Check whether he keeps his minutes once Ingram and Beal return.
+**Note.** Both Yahoo and ESPN value him at 0 USD (Yahoo rank 225, ESPN rank 195), and he was not drafted in our league last season. That puts him well outside our 144-player draft, so do not bid on him. He starts only because so many Clippers are hurt, and his line of 9.8 PTS and 1.1 AST is weak apart from low turnovers and a small steal and block contribution. Early in the season, watch whether he keeps about 27 minutes as a starter. Drop interest once Ingram and Beal return.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 55 | 58.8 | 6 | 40 | 61.4 | 20 | 62 |
+| 2026-27 | 55 | 58.8 | 6 | 40 | 62.1 | 20 | 62 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,37 +30,41 @@
 </details>
 
 **Current**
-- Experts rank him about 5th overall in category leagues and would take him at pick 5 in head-to-head drafts. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=247), [09-17](https://youtu.be/ahNxsoU8Hx4?t=257), [09-14](https://youtu.be/LM0cRCGoAUQ?t=279), [09-14](https://youtu.be/t4n9MAP2_14?t=253), [09-16](https://youtu.be/2A2JbUN-kc0?t=360), [09-07](https://youtu.be/E-KmhvyZ2CU?t=364), [08-19](https://youtu.be/J1Eg3uaAICU?t=425), [08-19](https://youtu.be/J1Eg3uaAICU?t=1631), [07-13](https://youtu.be/Rqb5GdrSweY?t=507), [08-11](https://youtu.be/OdDkXFhoKsc?t=339))
-- Experts say the market underrates him. One calls a Yahoo ADP of 12 to 15 far too low. Another says ESPN's rank of 20th in category leagues makes no sense, since he is 9th at worst. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=257), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2077), [09-07](https://youtu.be/E-KmhvyZ2CU?t=364))
-- Experts call injury risk and age his main concerns, but they differ on how much. One does not expect 70 games. Another is not very worried about last season's missed games. (verdict, 2026-09-16; [09-14](https://youtu.be/LM0cRCGoAUQ?t=306), [09-14](https://youtu.be/t4n9MAP2_14?t=253), [09-16](https://youtu.be/2A2JbUN-kc0?t=360), [06-23](https://youtu.be/nnWX_ObljOE?t=964))
-- At least 15 of his missed games last season came while the Bucks were tanking. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=253))
-- Giannis was traded from Milwaukee to Miami. (fact, 2026-08-19; [06-23](https://youtu.be/nnWX_ObljOE?t=64), [07-30](https://youtu.be/TiiaNZCJNs8?t=2064), [08-19](https://youtu.be/J1Eg3uaAICU?t=425))
-- Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs. It has only 10 games in the playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1126), [08-16](https://youtu.be/gf_6GveiAls?t=1153))
-- The light back-to-back schedule is good for his games played. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1126))
-- Miami lost a lot of depth and ball handlers in its trades. Its main rotation is thin. (fact, 2026-07-23; [06-23](https://youtu.be/nnWX_ObljOE?t=780), [06-23](https://youtu.be/nnWX_ObljOE?t=918), [07-17](https://youtu.be/NYTH7uQsPCM?t=1757), [07-23](https://youtu.be/LUTYUdXBG1M?t=1264))
-- He is expected to play 32 to 33 minutes in Miami, up from 29 last season, unless he gets hurt again. (verdict, 2026-07-13; [06-23](https://youtu.be/nnWX_ObljOE?t=833), [07-13](https://youtu.be/Rqb5GdrSweY?t=455))
-- Miami has few other creators, so he should handle the ball a lot. His usage should stay high and his assist rate should rise. (verdict, 2026-07-13; [06-23](https://youtu.be/nnWX_ObljOE?t=845), [06-23](https://youtu.be/nnWX_ObljOE?t=780), [07-13](https://youtu.be/Rqb5GdrSweY?t=455))
-- With more minutes and aggression, his FG% could get back to 65%. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=2034))
-- His extra minutes may offset the usual first-year hit after changing teams. His fantasy value is seen as safe and probably higher after the trade. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=964), [06-23](https://youtu.be/nnWX_ObljOE?t=1014))
+- In an auction mock draft he went for 58 USD, about where the expert thinks he should sit. The expert expected about 60 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=904))
+- He played basically as a point guard in Miami's first preseason game. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=104))
+- Experts see him as about the 5th pick in category leagues and say the market still undervalues him. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=104), [09-30](https://youtu.be/BjXP9JODDSg?t=247), [09-17](https://youtu.be/ahNxsoU8Hx4?t=257), [09-16](https://youtu.be/2A2JbUN-kc0?t=360), [09-14](https://youtu.be/t4n9MAP2_14?t=253), [09-14](https://youtu.be/LM0cRCGoAUQ?t=279), [09-07](https://youtu.be/E-KmhvyZ2CU?t=364), [08-19](https://youtu.be/J1Eg3uaAICU?t=425), [08-19](https://youtu.be/J1Eg3uaAICU?t=1631), [07-13](https://youtu.be/Rqb5GdrSweY?t=507), [08-11](https://youtu.be/OdDkXFhoKsc?t=339))
+- Experts disagree on his health risk this season. One does not expect 70 games. Others have only mild injury worry. (verdict, 2026-10-04; [09-14](https://youtu.be/LM0cRCGoAUQ?t=306), [09-14](https://youtu.be/t4n9MAP2_14?t=253), [10-04](https://youtu.be/n4KkK-OJjqA?t=104), [09-16](https://youtu.be/2A2JbUN-kc0?t=360))
+- ESPN's category rank of 20 makes no sense to one expert. He says Giannis is at worst 9th. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2077))
+- At least 15 of the games he missed last season came while the Bucks were tanking. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=253))
+- He was traded from Milwaukee to Miami. (fact, 2026-08-19; [06-23](https://youtu.be/nnWX_ObljOE?t=64), [07-30](https://youtu.be/TiiaNZCJNs8?t=2064), [08-19](https://youtu.be/J1Eg3uaAICU?t=425))
+- Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs, but only 10 games in the playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1126), [08-16](https://youtu.be/gf_6GveiAls?t=1153))
+- Miami lost a lot of depth and ball handlers in its trades. (fact, 2026-07-23; [07-17](https://youtu.be/NYTH7uQsPCM?t=1757), [06-23](https://youtu.be/nnWX_ObljOE?t=780), [06-23](https://youtu.be/nnWX_ObljOE?t=918), [07-23](https://youtu.be/LUTYUdXBG1M?t=1264))
+- With few other creators in Miami, he should handle the ball a lot, keep high usage and raise his assist rate. (verdict, 2026-07-13; [06-23](https://youtu.be/nnWX_ObljOE?t=845), [06-23](https://youtu.be/nnWX_ObljOE?t=780), [07-13](https://youtu.be/Rqb5GdrSweY?t=455))
+- He is expected to play 32 to 33 minutes in Miami, up from 29, unless he gets hurt again. (verdict, 2026-07-13; [06-23](https://youtu.be/nnWX_ObljOE?t=833), [07-13](https://youtu.be/Rqb5GdrSweY?t=455))
+- With more minutes and aggression his FG% could get back to 65%. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=2034))
+- His fantasy value is safe and probably rises after the trade. The extra minutes may offset the usual first-year adjustment after a team change. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=964), [06-23](https://youtu.be/nnWX_ObljOE?t=1014))
+- Miami's depth is poor, so a Giannis injury would end their season. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=918), [06-23](https://youtu.be/nnWX_ObljOE?t=933))
 
 **Durable**
-- Points and rebounds are strong outliers. His assists are high for a frontcourt player. (fact, 2026-10-04; stats)
-- He commits many turnovers. (fact, 2026-10-04; stats)
-- He is a high-volume, bad free throw shooter with the worst FT% impact in the league (65% on high volume). (fact, 2026-09-23; [07-07](https://youtu.be/ME-r173X5b0?t=2034), [06-23](https://youtu.be/nnWX_ObljOE?t=759), [09-23](https://youtu.be/C4vlgpJ62NI?t=2122), [07-16](https://youtu.be/-y6p5PYLf00?t=194), stats)
-- He makes few threes. He shot 33% from three last season on low volume, and experts do not see him as a good shooter. (fact, 2026-09-23; [07-16](https://youtu.be/-y6p5PYLf00?t=194), [09-23](https://youtu.be/C4vlgpJ62NI?t=2122), [06-23](https://youtu.be/nnWX_ObljOE?t=759), stats)
-- Drafting him means building a punt FT% team. It does not mean punting three categories, because threes are easy to make up elsewhere. (verdict, 2026-09-23; [09-07](https://youtu.be/E-KmhvyZ2CU?t=561), [09-17](https://youtu.be/ahNxsoU8Hx4?t=289), [09-23](https://youtu.be/C4vlgpJ62NI?t=2122), [09-16](https://youtu.be/2A2JbUN-kc0?t=2389))
-- Plain nine-cat and roto rankings rate him low because of his free throws, but his real impact is huge. (verdict, 2026-09-16; [09-14](https://youtu.be/LM0cRCGoAUQ?t=225), [09-16](https://youtu.be/2A2JbUN-kc0?t=2389))
+- He is a strong scorer and rebounder, with guard-like assists for a forward. (fact, 2026-10-05; stats)
+- He turns the ball over a lot. (fact, 2026-10-05; stats)
+- Drafting him means building a punt FT% team. It does not mean punting threes too, because threes are easy to make up elsewhere. (verdict, 2026-10-04; [09-07](https://youtu.be/E-KmhvyZ2CU?t=561), [09-17](https://youtu.be/ahNxsoU8Hx4?t=289), [09-23](https://youtu.be/C4vlgpJ62NI?t=2122), [10-04](https://youtu.be/n4KkK-OJjqA?t=871))
+- He makes few threes. He shot 33% from three last season on low volume. (fact, 2026-09-23; [07-16](https://youtu.be/-y6p5PYLf00?t=194), [09-23](https://youtu.be/C4vlgpJ62NI?t=2122), [06-23](https://youtu.be/nnWX_ObljOE?t=759))
+- Plain nine-cat rankings rate him too low because of his free throws. His real H2H impact is huge once you punt FT%. (verdict, 2026-09-16; [09-14](https://youtu.be/LM0cRCGoAUQ?t=225), [09-16](https://youtu.be/2A2JbUN-kc0?t=2389))
+- His age is a concern for his health and games played. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=360), [09-14](https://youtu.be/t4n9MAP2_14?t=253))
 - He has a long injury history, with persistent knee problems and a calf injury last season. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=306), [09-14](https://youtu.be/t4n9MAP2_14?t=253))
-- His FT% will probably stay bad and almost certainly hurts a team. A random 70% season would not be crazy. (verdict, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1279), [07-16](https://youtu.be/-y6p5PYLf00?t=194))
-- His FG% is excellent on high volume. He led the league in FG% impact at 62.4%. (fact, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=2034), [06-23](https://youtu.be/nnWX_ObljOE?t=759), stats)
-- His steals and blocks have declined steadily, and it is not clear they will come back. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=755))
+- His FT% will probably stay bad, though a random 70% season would not be crazy. (verdict, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1279), [07-16](https://youtu.be/-y6p5PYLf00?t=194))
+- He is a bad free throw shooter on high volume, with the worst FT impact in the league. (fact, 2026-07-16; [07-07](https://youtu.be/ME-r173X5b0?t=2034), [06-23](https://youtu.be/nnWX_ObljOE?t=759), [09-23](https://youtu.be/C4vlgpJ62NI?t=2122), [07-16](https://youtu.be/-y6p5PYLf00?t=194), stats)
+- Experts do not see him as a good shooter from three. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=194))
+- He has elite FG% on high volume and leads the league in FG% impact. (fact, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=2034), [06-23](https://youtu.be/nnWX_ObljOE?t=759), stats)
+- His steals and blocks have been declining steadily, and they may not come back. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=755))
 
 **Tags**
-- Current: `injury last season` (Calf injury, 36 games, some missed while the Bucks tanked), `new team` (Traded from Milwaukee to Miami), `role up` (32 to 33 minutes expected, up from 29, and more ball handling), `expert target` (Experts rank him about 5th in category leagues, above Yahoo and ESPN), `sites disagree on price` (Yahoo rank 6 and value 55 USD, ESPN rank 20 and value 40 USD), `few back-to-backs` (Miami has the fewest back-to-backs (13), none in the fantasy playoffs)
-- Durable: `FG% anchor` (About 62% FG on high volume), `FT% liability` (About 64% FT on 10 to 11 attempts per game), `PTS specialist`, `REB specialist`, `high TO` (About 3.5 turnovers per game), `AST from a big` (About 6 assists per game, ball handler in Miami), `punt FT fit` (Drafting him means building a punt FT% team), `punt TO fit`, `elite per game` (Value question is games played), `undervalued by 9-cat` (FT% drag lowers his nine-cat and roto rank), `injury prone` (Persistent knee problems, calf injury last season), `age decline watch` (Experts list his age as a concern)
+- Current: `new team` (Traded from Milwaukee to Miami), `role up` (32 to 33 minutes expected, up from 29; main ball handler), `injury last season` (36 games, calf injury, some games missed during the Bucks tank), `expert target` (Experts call him the 5th pick in categories; ESPN ranks him 20th), `sites disagree on price` (Yahoo value 55 USD and rank 6, ESPN value 40 USD and rank 20), `few back-to-backs` (Miami has the fewest in the league (13)), `good playoff schedule` (No back-to-backs in the fantasy playoffs, but only 10 games), `thin rotation` (Miami lost depth and ball handlers)
+- Durable: `FG% anchor` (About 62% on 18 to 19 attempts per game), `PTS specialist` (About 31 points per game projected), `REB specialist` (About 11 rebounds per game projected), `AST from a big` (About 6.3 assists, used as a point guard in Miami), `FT% liability` (About 64% on 10 to 11 attempts per game, worst FT impact in the league), `high TO` (About 3.5 turnovers per game), `punt FT fit` (The anchor of a punt FT% build), `punt TO fit`, `elite per game` (Top 5 category value per game; games played is the question), `undervalued by 9-cat` (Plain 9-cat ranks drag him down for FT%), `injury prone` (Persistent knee problems, calf injury last season), `age decline watch` (Experts list age as a concern)
 
-**Note.** Experts rank him about 5th in head-to-head category leagues. That is above Yahoo (rank 6, value 55 USD) and well above ESPN (rank 20, value 40 USD). Average costs are near 59 to 61 USD, and he went for 62 USD in our auction last season, so expect to pay about 60 USD or more. He is the anchor of a punt FT% build that also gives up TO, and his strong FG%, points, rebounds and frontcourt assists carry it. Early in the season, check that he really plays 32 or more minutes, that his assists rise with Miami short on ball handlers, and how his knee holds up, since games played is the main risk.
+**Note.** Giannis is a top-5 category asset if you punt FT%. His FG%, points, rebounds and big-man assists carry a build that gives up FT% and turnovers. Expect to pay about 58 to 62 USD: he went for 58 USD in an expert auction mock, Yahoo's average cost is 58.8 USD and he went for 62 USD in our league last season. Ignore ESPN's 40 USD value and rank of 20, which experts call wrong. Early in the season, check that he plays 32 or more minutes as Miami's main ball handler, and watch his knee and calf, because Miami's thin roster gives no cover if he misses games.
 
 <sub>Tags removed by the category check: no 3PM (3PM 0.4 per game).</sub>
 
-<sub>33 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>37 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

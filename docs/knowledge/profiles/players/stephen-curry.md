@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 31 | 30.6 | 25 | 22 | 24.2 | 33 | 42 |
+| 2026-27 | 31 | 30.6 | 25 | 22 | 24.5 | 33 | 42 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,31 +30,32 @@
 </details>
 
 **Current**
-- He is the only Warriors player who really gets usage and creates his own shot. Santos is at most a minor second creator. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=551), [09-16](https://youtu.be/2A2JbUN-kc0?t=2222), [09-09](https://youtu.be/7BllEsdNLoM?t=2274), [09-10](https://youtu.be/W-R1dzem32s?t=1810))
-- The Warriors are reportedly treating this season as a gap year and are worried about their lottery odds. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=140), [09-30](https://youtu.be/MUbNYdjpUDM?t=166))
-- The Warriors may rest veterans and may be bad enough to cut his minutes. One expert expects Warriors players to fade as the season goes on. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=306), [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
-- He projects around 12th to 13th per game this season. His overall value range in category leagues is 20th to 30th, and taking him around pick 23 is fine. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=306), [09-30](https://youtu.be/MUbNYdjpUDM?t=330))
-- The Warriors have 15 back-to-backs, tied for second most in the league. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=991), [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
+- Several experts are worried about the health of his knee, and it is the main reason he is ranked below his per-game level. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2063), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2151), [09-16](https://youtu.be/2A2JbUN-kc0?t=2206), [09-15](https://youtu.be/KPdD91Oo8-U?t=459), [09-09](https://youtu.be/7BllEsdNLoM?t=836))
+- In an auction, Josh values him at about 40 USD per game but would not pay more than 25 USD because of the knee, other injuries and the weak Warriors roster. He went for 26 USD in that mock. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2063), [10-05](https://youtu.be/Q6YlQDvD-aY?t=2063))
+- Golden State has no shot creator besides Curry, so he is expected to carry a huge offensive load. (verdict, 2026-10-02; [08-22](https://youtu.be/LXZLrL90crE?t=678), [10-02](https://youtu.be/ZYllcj4o6_A?t=551), [09-16](https://youtu.be/2A2JbUN-kc0?t=2222), [09-09](https://youtu.be/7BllEsdNLoM?t=2274), [09-10](https://youtu.be/W-R1dzem32s?t=1810))
+- He projects as a top 12 to 13 player per game in categories this season. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=306), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2151), [08-30](https://youtu.be/Alwse2uXzD4?t=1030))
+- His fair draft range in category leagues is picks 20 to 30. Taking him around pick 23 is fine. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=330), [08-30](https://youtu.be/Alwse2uXzD4?t=2172))
+- The Warriors are reportedly treating this season as a gap year and may rest veterans to protect their lottery odds. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=140), [09-30](https://youtu.be/MUbNYdjpUDM?t=166))
+- The team may be bad enough to cut his minutes, and Warriors players are expected to fade as the season goes on. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=306), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
+- Golden State has 15 back-to-backs this season, tied for second most. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=991), [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
 - The Warriors schedule is good for fantasy playoffs that end March 28. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
-- Several experts are worried about his knee. It is the main reason they rank him below his per-game level. (verdict, 2026-09-17; [09-15](https://youtu.be/KPdD91Oo8-U?t=459), [09-16](https://youtu.be/2A2JbUN-kc0?t=2206), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2151), [09-09](https://youtu.be/7BllEsdNLoM?t=836))
-- Experts see his market ranks as a bit low for category leagues: Yahoo rank 25 is slightly low and ESPN rank 33 is too low for a top-12 per-game player. (verdict, 2026-09-17; [09-09](https://youtu.be/7BllEsdNLoM?t=836), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2151))
 - Curry has said publicly that his knee issue is a new normal. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1662))
-- He is expected to carry a huge offensive load at age 38 because the roster lacks creators. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=678))
 - He is still one of the best players in the league at age 38. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1734))
+- Golden State has very poor depth and struggles to field a 10-man rotation. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
 
 **Durable**
-- Turnovers are his weakest category, high for a guard. (fact, 2026-10-04; stats)
-- He is much more valuable in category leagues than in points leagues. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=299), [08-24](https://youtu.be/g31YlwRe0XQ?t=689))
+- His turnovers are high for a guard. (fact, 2026-10-05; stats)
+- He is worth much more in category leagues than in points leagues. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=299), [08-24](https://youtu.be/g31YlwRe0XQ?t=689), [08-30](https://youtu.be/Alwse2uXzD4?t=1030))
 - He missed games late last season with runner's knee, a wear-and-tear issue. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1625))
-- Expect maintenance rest days because of the knee. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1625))
-- His value comes from threes, points and FT%. His assists and steals are not particularly strong for a guard. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1481), stats)
-- Injury is the main fantasy risk with Curry. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1772))
-- His three-point volume and free throw percentage are very consistent: 4.4 threes per game in each of the last two seasons and about 92 to 93 percent from the line. (fact, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=458), [07-07](https://youtu.be/ME-r173X5b0?t=2258), stats)
+- Injury is the main fantasy risk with Curry. Expect maintenance rest days. (verdict, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=1772), [09-30](https://youtu.be/MUbNYdjpUDM?t=1625))
+- Points, threes and FT% are his strong categories. His assists and steals do not stand out. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1481), stats)
+- He is an elite three-point shooter with steady volume. He made 4.4 threes per game in each of the last two seasons. (fact, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=458), stats)
+- He is a high-volume, consistent free throw shooter at about 92 to 93 percent, which lifts a team's FT%. (fact, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=2258), stats)
 
 **Tags**
-- Current: `injury last season` (Runner's knee late last season), `back-to-back risk` (Warriors have 15 back-to-backs and he is expected to take maintenance rest), `shutdown risk` (Warriors may treat the season as a gap year and rest veterans for lottery odds), `good playoff schedule` (Schedule good for playoffs ending March 28), `sleeper` (ESPN rank 33 seen as too low for a top-12 per-game player), `sites disagree on price` (Yahoo value 31 USD, rank 25; ESPN value 22 USD, rank 33)
-- Durable: `3PM specialist` (About 4.6 threes per game projected), `PTS specialist` (About 25.8 points per game projected), `FT% anchor` (About 92.6% on 4.7 attempts per game), `punt TO fit` (About 2.7 turnovers per game), `elite per game` (Projected around 12th to 13th per game in categories), `injury prone` (Runner's knee, a wear-and-tear issue he calls a new normal), `load management` (Maintenance rest days expected for the knee), `age decline watch` (Age 38)
+- Current: `back-to-back risk` (15 team back-to-backs plus knee maintenance), `many back-to-backs` (15, tied for second most), `good playoff schedule` (for a March 28 end), `injury last season` (runner's knee late in the season), `tank risk` (gap year; may rest veterans for lottery odds), `concentrated usage` (Curry is the only shot creator), `thin rotation`, `sites disagree on price` (Yahoo 31 USD, rank 25; ESPN 22 USD, rank 33)
+- Durable: `3PM specialist` (about 4.6 threes per game projected), `FT% anchor` (about 92.5% on 4.7 attempts), `PTS specialist` (about 25.8 points per game projected), `punt TO fit` (about 2.7 turnovers per game), `elite per game` (top 12 to 13 per game; games played is the question), `category league player`, `injury prone` (runner's knee, wear-and-tear; he calls it a new normal), `age decline watch` (age 38), `load management` (maintenance rest days expected for the knee)
 
-**Note.** Curry is an elite per-game category player. The newest expert call is 12th to 13th per game and 20th to 30th overall, held down by his knee, his age and the risk that a Warriors gap year cuts his minutes. Yahoo values him at 31 USD and ESPN at 22 USD, well below the 42 USD our league paid last season, so a bid up to about 30 USD fits the expert range. Do not pay a premium for him at 43 games played last season. He fits any build, best a threes and FT% team or a punt TO build. Early in the season, check his minutes, how often he rests on back-to-backs and whether the Warriors start resting veterans.
+**Note.** Per game, Curry is still a top 12 to 13 category player. He brings elite threes, points and FT%, and his turnovers are high, so he fits punt TO builds. The price question is games played: the knee, his age, 15 back-to-backs and a Warriors team that may rest veterans. Yahoo values him at 31 USD and ESPN at 22 USD. He cost 42 USD in our league last season, and Josh caps him at 25 USD, so aim for about 25 to 30 USD and let others pay last year's price. Early in the season, watch how often he rests on back-to-backs and whether Golden State starts badly enough to lean into the gap year.
 
-<sub>19 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>20 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

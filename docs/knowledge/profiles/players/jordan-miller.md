@@ -29,18 +29,18 @@
 </details>
 
 **Current**
-- He has a torn shoulder and is out. The newest note calls it a torn labrum. An August note called it a torn rotator cuff. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1721), [08-26](https://youtu.be/sTtFUy7IoJI?t=2145), [09-03](https://youtu.be/OBwWCxG9SqM?t=1756), [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018))
-- He is expected to miss most of the regular season. An earlier note put his return after the All-Star break. (verdict, 2026-10-04, until after the All-Star break; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1721), [08-26](https://youtu.be/sTtFUy7IoJI?t=2145))
-- Before the injury he could have gained minutes from the Clippers' other injuries. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1721))
-- The Clippers play 4-3-4 games in our playoff weeks and have 13 back-to-backs, one of the lowest totals in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
+- Jordan Miller has a shoulder injury. The newest note calls it a torn labrum. His Yahoo status is O (Shoulder). (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1721), [08-26](https://youtu.be/sTtFUy7IoJI?t=2145), [09-03](https://youtu.be/OBwWCxG9SqM?t=1756), stats)
+- He is expected to miss most of the regular season and to stay out until after the All-Star break. (verdict, 2026-10-04, until after the All-Star break; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1721), [08-26](https://youtu.be/sTtFUy7IoJI?t=2145))
+- The Clippers are one of the most injury-hit teams, with Ingram, Beal and Niederhauser also out. Healthy, Miller could have gained minutes from those injuries, but his own injury takes that chance away. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1721), [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018))
+- The Clippers play 4-3-4 games in our fantasy playoff weeks, and their 13 back-to-backs are among the fewest in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
 
 **Durable**
 - none
 
 **Tags**
-- Current: `injured now` (Torn shoulder (labrum per newest note), Yahoo status O. Expected to miss most of the regular season.; until after the All-Star break), `good playoff schedule` (Clippers play 4-3-4 in weeks 19 to 21.), `few back-to-backs` (Clippers have 13 back-to-backs.)
+- Current: `injured now` (Torn shoulder labrum (one note says rotator cuff). Expected to miss most of the regular season.; until after the All-Star break), `good playoff schedule` (LAC plays 4-3-4 in weeks 19 to 21. This only matters if he is back by then.)
 - Durable: none
 
-**Note.** Both sites price him at 0 USD (Yahoo rank 310, ESPN rank 349) and he is out with a torn shoulder, so do not draft him in our 144-player auction. Even healthy, his line was thin: 10.0 points and 53.1% FG on 6.7 attempts in 22 minutes last season, and no category stands out. Check his status after the All-Star break, but treat him as a deep waiver option only. The Clippers have a 4-3-4 playoff schedule.
+**Note.** Miller is not a draft target in our 144-player auction. Both sites value him at 0 USD (Yahoo rank 310, ESPN rank 349), and he is expected to be out with a torn shoulder labrum until after the All-Star break. Even healthy, his projection is thin (8.0 points, 0.5 threes and 2.4 rebounds per game). Last season his only real plus was an efficient 53.1% FG on 6.7 attempts. Leave him on waivers and check his return date after the All-Star break, because the Clippers' 4-3-4 playoff schedule gives a small reason to look at him then.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

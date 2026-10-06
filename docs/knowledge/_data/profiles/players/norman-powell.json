@@ -8,18 +8,30 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "bd9f3695e0d0",
- "note_count": 20,
- "built_at": "2026-10-04T17:46:05+00:00",
+ "input_sha": "46617d9436e2",
+ "note_count": 21,
+ "built_at": "2026-10-05T20:00:27+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.33716599999999997,
-  "duration_ms": 86870
+  "cost_usd_list": 0.366103,
+  "duration_ms": 98413,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He signed with Chicago on a two-year deal with a team option in the second year.",
+   "text": "Powell is with Chicago and is projected to start next to Josh Giddey, Matas Buzelis, Caleb Wilson and Nick Claxton.",
+   "kind": "fact",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t2",
+    "3Qm5wLjhvTw:t3"
+   ]
+  },
+  {
+   "text": "He signed a two-year deal with a team option in the second year. That makes him easy to trade.",
    "kind": "fact",
    "date": "2026-08-18",
    "until": "",
@@ -28,42 +40,52 @@
    ]
   },
   {
-   "text": "He is in the projected Bulls starting five with Josh Giddey, Matas Buzelis, Caleb Wilson and Nick Claxton. He is the team's main off-ball shooter, and the roster lacks shooting.",
+   "text": "He is the Bulls' main off-ball shooter. The team has little other shooting.",
    "kind": "fact",
-   "date": "2026-09-28",
+   "date": "2026-08-18",
    "until": "",
    "sources": [
-    "3Qm5wLjhvTw:t3",
     "FxaSnyk9g90:p14",
     "FxaSnyk9g90:t3"
    ]
   },
   {
-   "text": "Nikola Vucevic and Coby White are gone. Giddey, Buzelis and Wilson are expected to have lower usage than Powell.",
-   "kind": "fact",
-   "date": "2026-09-28",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:t2",
-    "W-R1dzem32s:t0"
-   ]
-  },
-  {
-   "text": "Experts expect him to lead the Bulls in usage, in the high 20s, all season unless he is traded. Nobody is coming in to take his usage.",
+   "text": "He should lead the Bulls in usage, in the high 20s. Nobody is coming in to take his shots, and Giddey, Buzelis and Wilson are expected to have lower usage.",
    "kind": "verdict",
-   "date": "2026-09-10",
-   "until": "",
+   "date": "2026-09-28",
+   "until": "a trade",
    "sources": [
     "W-R1dzem32s:p30",
     "W-R1dzem32s:t0",
     "P6TNP-g0wzY:p24",
     "g31YlwRe0XQ:p31",
+    "g31YlwRe0XQ:t2",
+    "dlo7L8Ru91A:p33",
     "Rqb5GdrSweY:p28",
-    "dlo7L8Ru91A:p33"
+    "3Qm5wLjhvTw:t2"
    ]
   },
   {
-   "text": "He is 33. He ranked 73rd in category leagues last season.",
+   "text": "The Bulls front office signs older players on short deals and hopes to trade them.",
+   "kind": "fact",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t4",
+    "FxaSnyk9g90:t1"
+   ]
+  },
+  {
+   "text": "If he is traded to a team where he is the third option, his fantasy value collapses.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:p12"
+   ]
+  },
+  {
+   "text": "He is 33. He finished 73rd in category leagues last season.",
    "kind": "fact",
    "date": "2026-09-28",
    "until": "",
@@ -73,7 +95,7 @@
    ]
   },
   {
-   "text": "Over the last two to three months of last season he shot 33% from three, his free throws fell below 80%, and he dropped outside the top 150.",
+   "text": "Over the last two to three months of last season he shot 33% from three and below 80% from the line, and he fell outside the top 150.",
    "kind": "fact",
    "date": "2026-09-28",
    "until": "",
@@ -82,41 +104,40 @@
    ]
   },
   {
-   "text": "Experts value him around 80th overall, a round 7 to 8 pick. One expert would take him in the 70s or 80s, with a best case of 40th and a worst case of 136th.",
+   "text": "Experts place him around 70th to 80th, a round 7 to 8 pick. One calls his ESPN rank of 64 a bit high and sees more downside than upside. Another gives a range from 40th at best to 136th at worst.",
    "kind": "verdict",
    "date": "2026-09-28",
    "until": "",
    "sources": [
     "3Qm5wLjhvTw:p11",
-    "_vbAP5y182A:p42",
     "DubdKKhMWHo:p20",
-    "W-R1dzem32s:p30",
-    "g31YlwRe0XQ:p31"
+    "_vbAP5y182A:p42",
+    "g31YlwRe0XQ:p31",
+    "W-R1dzem32s:p30"
    ]
   },
   {
-   "text": "His ESPN rank of 64 is a bit high. He has more downside than upside.",
+   "text": "In an auction mock he was valued at 6 to 7 USD. He went for 3 USD, which was called basically the best pick of the draft.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p63"
+   ]
+  },
+  {
+   "text": "The Bulls are projected to be a bottom-10 team, with about 32 wins.",
    "kind": "verdict",
    "date": "2026-09-28",
    "until": "",
    "sources": [
-    "3Qm5wLjhvTw:p11"
+    "3Qm5wLjhvTw:t0",
+    "FxaSnyk9g90:t4",
+    "P6TNP-g0wzY:t5"
    ]
   },
   {
-   "text": "The Bulls front office signs older players and hopes to trade them, and Powell's short contract makes him easy to trade. If he goes to a team where he is the third option, his fantasy value collapses.",
-   "kind": "verdict",
-   "date": "2026-09-28",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:p12",
-    "FxaSnyk9g90:p13",
-    "3Qm5wLjhvTw:t4",
-    "FxaSnyk9g90:t1"
-   ]
-  },
-  {
-   "text": "With a March 28 end, the Bulls play 10 games in fantasy playoff weeks 19 to 21 (3-3-4). They have 15 back-to-backs, and their overall schedule is average.",
+   "text": "Chicago plays 10 games in our playoff weeks (3-3-4). It has 15 back-to-backs, one below the maximum.",
    "kind": "fact",
    "date": "2026-09-28",
    "until": "",
@@ -128,40 +149,21 @@
  ],
  "durable": [
   {
-   "text": "He is a points and threes player with decent efficiency. He adds little else.",
+   "text": "He is a points and threes player. He adds little in rebounds and assists.",
    "kind": "verdict",
-   "date": "2026-09-17",
+   "date": "2026-09-28",
    "until": "",
    "sources": [
-    "dlo7L8Ru91A:p33",
+    "3Qm5wLjhvTw:p10",
     "DubdKKhMWHo:p19",
     "Rqb5GdrSweY:p29",
     "P6TNP-g0wzY:p24",
+    "dlo7L8Ru91A:p33",
     "stats"
    ]
   },
   {
-   "text": "He adds little in rebounds, assists and blocks.",
-   "kind": "fact",
-   "date": "2026-09-28",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:p10",
-    "stats"
-   ]
-  },
-  {
-   "text": "He is good at getting to the free throw line and shoots about 82% there.",
-   "kind": "fact",
-   "date": "2026-09-28",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:p10",
-    "stats"
-   ]
-  },
-  {
-   "text": "His value depends entirely on high usage. He puts up big numbers when he has the ball to himself and fades when he shares it with a good player. Without big usage he is useless for fantasy, even when he shoots around 40% from three.",
+   "text": "His value depends on high usage. He puts up big numbers when he has the ball to himself and fades when he shares it with a good player.",
    "kind": "verdict",
    "date": "2026-09-28",
    "until": "",
@@ -172,7 +174,7 @@
    ]
   },
   {
-   "text": "His value depends on his shooting. An off shooting year hurts his value badly.",
+   "text": "His value rides on his shooting. An off shooting year hurts him badly.",
    "kind": "verdict",
    "date": "2026-09-28",
    "until": "",
@@ -182,21 +184,31 @@
    ]
   },
   {
-   "text": "He is not a point guard and cannot dribble well.",
+   "text": "He is good at getting to the free throw line.",
+   "kind": "fact",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:p10"
+   ]
+  },
+  {
+   "text": "The experts disagree on his efficiency. One calls it decent. Hayes says 20 points on about 15 shots is not tremendous value.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "dlo7L8Ru91A:p33",
+    "FxaSnyk9g90:p15"
+   ]
+  },
+  {
+   "text": "He is not a point guard and is not a strong ball handler.",
    "kind": "verdict",
    "date": "2026-06-23",
    "until": "",
    "sources": [
     "nnWX_ObljOE:p24"
-   ]
-  },
-  {
-   "text": "Hayes says scoring over 20 points on about 15 shots per game is not tremendous fantasy value.",
-   "kind": "verdict",
-   "date": "2026-08-18",
-   "until": "",
-   "sources": [
-    "FxaSnyk9g90:p15"
    ]
   }
  ],
@@ -204,18 +216,32 @@
   {
    "name": "new team",
    "channel": "current",
-   "detail": "Signed with Chicago on a two-year deal",
+   "detail": "joined Chicago",
    "until": "",
    "sources": [
-    "FxaSnyk9g90:p13",
-    "P6TNP-g0wzY:p24"
+    "3Qm5wLjhvTw:t2",
+    "P6TNP-g0wzY:p24",
+    "Rqb5GdrSweY:p28"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage dependent",
+   "channel": "durable",
+   "detail": "scoring-only profile, fades as a second or third option",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:p10",
+    "nnWX_ObljOE:p22",
+    "Rqb5GdrSweY:p29",
+    "3Qm5wLjhvTw:p12"
    ],
    "new_meaning": ""
   },
   {
    "name": "trade risk",
    "channel": "current",
-   "detail": "Easy-to-trade contract on a team that signs veterans to flip them; value collapses as a third option",
+   "detail": "easy-to-trade deal on a team that signs veterans to flip them",
    "until": "",
    "sources": [
     "3Qm5wLjhvTw:p12",
@@ -225,28 +251,81 @@
    "new_meaning": ""
   },
   {
-   "name": "usage dependent",
-   "channel": "durable",
-   "detail": "Scoring-only player who needs top usage; fades when sharing the ball",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:p10",
-    "nnWX_ObljOE:p22",
-    "Rqb5GdrSweY:p29"
-   ],
-   "new_meaning": "His fantasy value depends on being a top usage option and drops sharply in a smaller role."
-  },
-  {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "No category flagged weak; value comes from points and threes",
+   "detail": "no category flagged weak; value comes from points, threes and FT%",
    "until": "",
    "sources": [
     "stats"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "usage freed",
+   "channel": "current",
+   "detail": "Vucevic and Coby White are gone",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t2",
+    "gJUBAJaHzlU:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "about 32 wins projected",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t0",
+    "FxaSnyk9g90:t4",
+    "P6TNP-g0wzY:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "front office signs older players hoping to trade them",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t4",
+    "FxaSnyk9g90:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "Tiago Splitter replaces Billy Donovan",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t1",
+    "FxaSnyk9g90:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fast pace",
+   "channel": "current",
+   "detail": "up-tempo transition style expected",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "15 back-to-backs",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t8"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Experts put him around 80th (round 7 to 8). That fits his Yahoo rank of 87 and 9 USD value, and our league paid 8 USD for him last season. Paying about 7 to 9 USD is fair, but do not chase ESPN's rank of 64, since the experts see more downside than upside. He gives points, threes and a solid FT%, so pair him with players who bring rebounds, assists and blocks. Early in the season, check that he leads the Bulls in usage and that his three-point and free throw shooting has recovered from last season's late slump. Also watch for trade news before the 2027-03-04 deadline.",
+ "note": "Powell is a cheap scoring guard and forward. Yahoo values him at 9 USD but his average cost there is 1.8 USD, he cost 8 USD in our league last season, and the experts value him at 6 to 7 USD (round 7 to 8, about 70th to 80th). Bidding up to about 6 to 7 USD is fair. He fits any build that wants points, threes and a solid FT%, and he adds little in rebounds and assists. Early in the season, check that he really leads Chicago in usage and that his three-point shot has recovered from last season's late slump. Watch for trade talk before the 2027-03-04 deadline, since a move into a third-option role would sink his value.",
  "rejected": []
 }

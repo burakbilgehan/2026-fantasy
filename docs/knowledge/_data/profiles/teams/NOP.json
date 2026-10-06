@@ -2,24 +2,36 @@
  "team": "NOP",
  "prompt_version": 1,
  "prompt_sha": "07b4ed7fd28e",
- "input_sha": "ef25afb7e01d",
- "note_count": 20,
- "built_at": "2026-10-04T20:02:28+00:00",
+ "input_sha": "7dc4b836e0f2",
+ "note_count": 22,
+ "built_at": "2026-10-05T20:09:01+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.15979480000000001,
-  "duration_ms": 49943
+  "cost_usd_list": 0.15186680000000002,
+  "duration_ms": 40627,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "The newest projected starters are Dejounte Murray, Trey Murphy III, Zion Williamson and likely Yves Missi. The fifth spot is between Jeremiah Fears and Herbert Jones.",
+   "text": "Jamahl Mosley is the new head coach this season.",
    "kind": "fact",
-   "date": "2026-10-02",
+   "date": "2026-09-04",
    "until": "",
    "sources": [
-    "ZYllcj4o6_A:t1",
-    "stats"
+    "gerS7ibpaJo:t0",
+    "5QU-jta-lWM:t4"
+   ]
+  },
+  {
+   "text": "Dejounte Murray, Trey Murphy III and Zion Williamson are locked into the starting lineup.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:t2",
+    "ZYllcj4o6_A:t1"
    ]
   },
   {
@@ -34,26 +46,45 @@
    ]
   },
   {
-   "text": "A Pelicans beat reporter thinks Jeremiah Fears will start over Herbert Jones. The depth chart still lists Jones as the starter.",
+   "text": "The last starting spot is open between Jeremiah Fears and Herbert Jones.",
    "kind": "fact",
-   "date": "2026-09-24",
+   "date": "2026-10-02",
    "until": "",
    "sources": [
-    "_vbAP5y182A:t0",
-    "stats"
+    "ZYllcj4o6_A:t1"
    ]
   },
   {
-   "text": "Experts do not expect the team to give up on the season and start Jeremiah Fears over Dejounte Murray.",
+   "text": "A Pelicans beat reporter expects Fears to start over Jones.",
+   "kind": "verdict",
+   "date": "2026-09-24",
+   "until": "",
+   "sources": [
+    "_vbAP5y182A:t0"
+   ]
+  },
+  {
+   "text": "Saddiq Bey is talked about as a starter who may close games in lineups with Zion at center.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:t1"
+   ]
+  },
+  {
+   "text": "The guard roles are unclear and the experts cannot make sense of the lineup plans.",
    "kind": "verdict",
    "date": "2026-09-21",
    "until": "",
    "sources": [
-    "egRrai3Ax38:t1"
+    "OdDkXFhoKsc:t0",
+    "egRrai3Ax38:t1",
+    "ahNxsoU8Hx4:t1"
    ]
   },
   {
-   "text": "Derik Queen and Zion Williamson are a bad fit together. How coach Jamahl Mosley will handle it is unknown.",
+   "text": "Derik Queen and Zion Williamson are a poor fit together, which limits how much they can share the floor.",
    "kind": "verdict",
    "date": "2026-09-24",
    "until": "",
@@ -64,58 +95,18 @@
    ]
   },
   {
-   "text": "The rotation is crowded. About eight players could start: Fears, Murray, Jones, Murphy, Zion, Bey, Missi and Queen. Bennedict Mathurin and Jordan Poole add to the bench. This creates a minutes crunch.",
+   "text": "The rotation is crowded. About eight players could start: Fears, Murray, Jones, Murphy, Zion, Bey, Missi and Queen. Bennedict Mathurin was added to the bench. This creates a minutes crunch.",
    "kind": "fact",
    "date": "2026-09-04",
    "until": "",
    "sources": [
     "NYTH7uQsPCM:t0",
-    "gerS7ibpaJo:t1",
-    "stats"
+    "gerS7ibpaJo:t1"
    ]
   },
   {
-   "text": "Experts say the roster makes no sense and the guard roles are unclear.",
-   "kind": "verdict",
-   "date": "2026-09-21",
-   "until": "",
-   "sources": [
-    "egRrai3Ax38:t1",
-    "ahNxsoU8Hx4:t1",
-    "OdDkXFhoKsc:t0"
-   ]
-  },
-  {
-   "text": "Josh thinks the Pelicans will rest Zion Williamson often.",
-   "kind": "verdict",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:t1"
-   ]
-  },
-  {
-   "text": "The team has 16 back-to-backs, one of the higher counts in the league. This adds rest risk for Zion Williamson.",
-   "kind": "verdict",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "stats",
-    "ZYllcj4o6_A:t1"
-   ]
-  },
-  {
-   "text": "The fantasy playoff schedule is strong: 11 games in weeks 19 to 21, rank 4 of 30. Week 21 has only 3 games.",
+   "text": "The team needs to trade someone to make room for Mathurin, possibly Jordan Hawkins or Micah Peavy.",
    "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "The Pelicans need to trade someone to make room for Mathurin, possibly Jordan Hawkins or Micah Peavy.",
-   "kind": "verdict",
    "date": "2026-08-26",
    "until": "",
    "sources": [
@@ -123,41 +114,12 @@
    ]
   },
   {
-   "text": "The team will not go into the luxury tax. It is about 8.27 million under the line with 14 players and cannot use the full non-taxpayer mid-level exception.",
+   "text": "The team will not go into the luxury tax. It is about 8.27 million USD under the line with 14 players and cannot use the full non-taxpayer mid-level exception.",
    "kind": "fact",
    "date": "2026-08-03",
    "until": "",
    "sources": [
     "5QU-jta-lWM:t5"
-   ]
-  },
-  {
-   "text": "The team is stuck between a win-now plan and a rebuild and will not commit to either one.",
-   "kind": "verdict",
-   "date": "2026-08-03",
-   "until": "",
-   "sources": [
-    "5QU-jta-lWM:t0"
-   ]
-  },
-  {
-   "text": "Experts see a weak team near the bottom of the West. The win total is 27.5, rank 26 of 30.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "ahNxsoU8Hx4:t1",
-    "0AptxcRW0RE:t7",
-    "stats"
-   ]
-  },
-  {
-   "text": "Jake predicts about 34 wins, which would still not make a playoff team.",
-   "kind": "verdict",
-   "date": "2026-08-03",
-   "until": "",
-   "sources": [
-    "5QU-jta-lWM:t6"
    ]
   },
   {
@@ -170,28 +132,58 @@
    ]
   },
   {
-   "text": "Defensive rebounding is a major weakness. Opponents got offensive rebounds on about a third of possessions.",
-   "kind": "fact",
+   "text": "The team is stuck between a win-now timeline and a rebuild timeline and will not commit to either one.",
+   "kind": "verdict",
    "date": "2026-08-03",
    "until": "",
    "sources": [
-    "5QU-jta-lWM:t3"
+    "5QU-jta-lWM:t0"
    ]
   },
   {
-   "text": "Jamahl Mosley is the new head coach.",
-   "kind": "fact",
-   "date": "2026-09-04",
+   "text": "The Pelicans are a weak team near the bottom of the West. One projection has about 34 wins, still not a playoff team. The win total of 27.5 ranks 26 of 30.",
+   "kind": "verdict",
+   "date": "2026-09-17",
    "until": "",
    "sources": [
-    "gerS7ibpaJo:t0",
-    "5QU-jta-lWM:t4"
+    "0AptxcRW0RE:t7",
+    "ahNxsoU8Hx4:t1",
+    "5QU-jta-lWM:t6",
+    "stats"
+   ]
+  },
+  {
+   "text": "One expert does not expect the team to pack it in and start Fears over Murray.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:t1"
+   ]
+  },
+  {
+   "text": "The Pelicans are expected to rest Zion Williamson often. With 16 back-to-backs (rank 26 of 30), there are many chances to sit him.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t1",
+    "stats"
+   ]
+  },
+  {
+   "text": "The fantasy playoff schedule is strong: 11 games in weeks 19 to 21 (rank 4 of 30), with no back-to-back in week 21.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "stats"
    ]
   }
  ],
  "durable": [
   {
-   "text": "Jamahl Mosley brings a defense-first identity and switches less on defense than the previous staff.",
+   "text": "Jamahl Mosley brings a defense-first identity and switches less than Willie Green did.",
    "kind": "fact",
    "date": "2026-08-03",
    "until": "",
@@ -202,72 +194,96 @@
  ],
  "tags": [
   {
-   "name": "good playoff schedule",
+   "name": "new coach",
    "channel": "current",
-   "detail": "11 games in weeks 19 to 21 (4, 4, 3), rank 4 of 30, with 2 back-to-back pairs.",
+   "detail": "Jamahl Mosley replaces Willie Green.",
    "until": "",
    "sources": [
+    "gerS7ibpaJo:t0",
+    "5QU-jta-lWM:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "defense-first",
+   "channel": "durable",
+   "detail": "Mosley's defense-first identity. Little shooting: Murphy is the only real spacer.",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:t4",
+    "5QU-jta-lWM:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "Win total 27.5, rank 26 of 30. Weak team near the bottom of the West.",
+   "until": "",
+   "sources": [
+    "0AptxcRW0RE:t7",
+    "ahNxsoU8Hx4:t1",
+    "5QU-jta-lWM:t6",
     "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "About eight possible starters plus Mathurin and Poole off the bench.",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:t0",
+    "gerS7ibpaJo:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Fifth starter is Fears or Jones. Missi vs Queen at center. Bey may close games with Zion at center.",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t1",
+    "_vbAP5y182A:t0",
+    "Q6YlQDvD-aY:t1",
+    "OdDkXFhoKsc:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "Must clear a roster spot for Mathurin. Hawkins or Peavy are named.",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:t3"
    ],
    "new_meaning": ""
   },
   {
    "name": "many back-to-backs",
    "channel": "current",
-   "detail": "16 back-to-backs, rank 26 of 30 (1 = fewest). Adds rest risk for Zion Williamson.",
+   "detail": "16 back-to-backs, rank 26 of 30. Zion expected to rest often.",
    "until": "",
    "sources": [
     "stats",
     "ZYllcj4o6_A:t1"
    ],
-   "new_meaning": "The team has many back-to-backs this season, so rest risk for its players is higher."
+   "new_meaning": ""
   },
   {
-   "name": "crowded rotation",
+   "name": "good playoff schedule",
    "channel": "current",
-   "detail": "About eight players could start. The center spot (Missi or Queen) and the fifth starter (Fears or Jones) are not settled.",
+   "detail": "11 games in weeks 19 to 21 (4, 4, 3), rank 4 of 30.",
    "until": "",
    "sources": [
-    "NYTH7uQsPCM:t0",
-    "gerS7ibpaJo:t1",
-    "ZYllcj4o6_A:t1"
+    "stats"
    ],
-   "new_meaning": "The team has more starter-level players than minutes, so roles and minutes are hard to predict."
-  },
-  {
-   "name": "new coach",
-   "channel": "current",
-   "detail": "Jamahl Mosley, defense-first.",
-   "until": "",
-   "sources": [
-    "gerS7ibpaJo:t0",
-    "5QU-jta-lWM:t4"
-   ],
-   "new_meaning": "The team has a new head coach this season, so rotation habits are less known."
-  },
-  {
-   "name": "weak team",
-   "channel": "current",
-   "detail": "Win total 27.5, rank 26 of 30. Experts see it at the bottom of the West.",
-   "until": "",
-   "sources": [
-    "stats",
-    "0AptxcRW0RE:t7",
-    "ahNxsoU8Hx4:t1"
-   ],
-   "new_meaning": "The team is projected near the bottom of the league and is not expected to make the playoffs."
-  },
-  {
-   "name": "likely to trade",
-   "channel": "current",
-   "detail": "Needs to move someone to fit Mathurin, possibly Jordan Hawkins or Micah Peavy.",
-   "until": "",
-   "sources": [
-    "sTtFUy7IoJI:t3"
-   ],
-   "new_meaning": "The team is expected to make a roster trade this season, which can change roles."
+   "new_meaning": ""
   }
  ],
- "note": "Yves Missi gains as the likely starting center. Derik Queen loses value as long as he and Zion cannot share the floor. Zion carries extra risk because Josh expects frequent rest and the team has many back-to-backs. The 11-game playoff schedule (rank 4) makes Pelicans who hold their roles worth keeping late. Watch early who wins the fifth starting spot (Fears or Herbert Jones), how Mosley splits the frontcourt minutes, and whether a trade clears the rotation crunch.",
+ "note": "New Orleans is a weak, crowded team under new coach Jamahl Mosley. Murray, Murphy and Zion are set as starters, and Missi now looks like the starting center over Queen, which helps Missi and hurts Queen, Fears and Bey. Watch early who wins the fifth starting spot (Fears, Jones or Bey), whether a trade clears the logjam, and how often Zion sits during a heavy back-to-back schedule. The strong playoff schedule (11 games) helps anyone who keeps a role.",
  "rejected": []
 }

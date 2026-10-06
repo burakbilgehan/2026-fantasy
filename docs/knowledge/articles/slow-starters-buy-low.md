@@ -3,101 +3,89 @@
 
 <sub>Proposed by the synthesis, not on the user's list.</sub>
 
-**Summary.** Three groups of players should start slowly: the Knicks after their title run, players coming back from injury, and top rookies. Their managers may sell them cheaply in November, so buy then. Hold the Knicks through roughly their first 30 games and the injured players until their return dates. Rookies get a two-month grace period, longer for Mikel Brown. Isaiah Jackson and Yaxel Lendeborg are the opposite case: use them early and plan to move on when the players ahead of them return.
+**Summary.** Three groups of players are likely to start slowly: starters coming off a long Finals run, top rookies, and players returning from injury. Pay less than market at the auction, hold these players through their known slow window, and offer trades for them in November when their owners are frustrated. Use the early-season fill-ins for the first weeks of the season, then sell them or drop them once the injured starters ahead of them return.
 
-## Why some players start slowly
+## Who starts slow and why
 
-The notes name three causes. First, players coming off a long Finals or title run often start slowly because of fatigue, and their teams may cut their minutes. Second, players returning from injury ramp up slowly. Third, top rookies usually shoot poorly for about the first two months and get better in the second half of the season. ([08-11](https://youtu.be/OdDkXFhoKsc?t=1025), [08-19](https://youtu.be/J1Eg3uaAICU?t=1082), [09-29](https://youtu.be/XSPJL_mlFXo?t=526), [06-25](https://youtu.be/lOshTzDA4SA?t=262))
+Players coming off a long Finals run often start slowly. Their production dips and they show fatigue. The experts expect defending champions and other long-run teams to rest players and trim their starters' minutes early in the season. ([08-11](https://youtu.be/OdDkXFhoKsc?t=1025), [08-19](https://youtu.be/J1Eg3uaAICU?t=1082), [08-13](https://youtu.be/okN3fbHJtlA?t=703), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1532))
 
-Our playoffs are weeks 19 to 21 and end on 2027-03-28. A slow October costs you a few regular-season matchups. A strong March wins titles. The method note is clear: trade for the long term, buy low, sell high, and accept short-term pain for long-term gain. The trade deadline is 2027-03-04, so there is plenty of time to buy in November and December. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1375))
+In our player data, this applies to the Knicks. Their starters are tagged for a careful plan over the first 30 or so games, with fewer minutes and rest on back-to-backs. ([Karl-Anthony Towns](../profiles/players/karl-anthony-towns.md), [Jalen Brunson](../profiles/players/jalen-brunson.md), [OG Anunoby](../profiles/players/og-anunoby.md))
 
-## The Knicks title hangover
+Top rookies are usually bad early. Their efficiency is poor for the first two months, and they improve in the second half of the season. Our rookies are tagged for weak FG% and high turnovers early. That hurts FG% and TO in the first weeks. ([09-29](https://youtu.be/XSPJL_mlFXo?t=526), [06-25](https://youtu.be/lOshTzDA4SA?t=262), [Cameron Boozer](../profiles/players/cameron-boozer.md), [Darryn Peterson](../profiles/players/darryn-peterson.md), [Mikel Brown Jr.](../profiles/players/mikel-brown.md))
 
-New York is the team coming off the long run. The notes say defending champions rest players and trim starters' minutes early in the season. Karl-Anthony Towns, Jalen Brunson and OG Anunoby all carry that tag. Their profiles point to a careful plan for about the first 30 games. During that stretch, check their minutes and whether they sit on back-to-backs. For Brunson, also check his wrist after surgery. For Towns, check whether his rebounds rise now that Mitchell Robinson is gone. ([08-13](https://youtu.be/okN3fbHJtlA?t=703), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1532), [Karl-Anthony Towns](../profiles/players/karl-anthony-towns.md), [Jalen Brunson](../profiles/players/jalen-brunson.md), [OG Anunoby](../profiles/players/og-anunoby.md))
+Injury returns make up the third group. One star guard is coming back from an Achilles injury and is expected near full strength after Christmas or by January. Two centers are out until about Thanksgiving or later and will then ramp up slowly. ([Tyrese Haliburton](../profiles/players/tyrese-haliburton.md), [Dereck Lively II](../profiles/players/dereck-lively.md), [Yanic Konan Niederhäuser](../profiles/players/yanic-konan-niederhauser.md))
 
-At the auction, do not pay for last season's numbers. The profiles cap Towns at about 40 USD and Brunson at about 30 USD. They put Anunoby in a fair range of 10 to 15 USD. If you miss them at the draft, they are the most natural November buy-low targets. Their managers will see reduced minutes and may sell at a discount. ([Karl-Anthony Towns](../profiles/players/karl-anthony-towns.md), [Jalen Brunson](../profiles/players/jalen-brunson.md), [OG Anunoby](../profiles/players/og-anunoby.md), [09-01](https://youtu.be/skKXe2CRl8Q?t=1375))
+## Where the experts disagree: early dip or full-season drop
 
-The experts split on what the hangover means. One side says the production itself drops because the players are exhausted, and that they are unlikely to repeat last season's output. The other side frames it as minutes management: teams are cautious with their main players' minutes. If it is mostly minutes, the per-minute stats should hold and the value comes back once the cap lifts after about 30 games. If it is fatigue, the dip may last longer. Before you trade for a Knick in November, compare his per-minute production with last season's. A drop in minutes alone is the better buy signal. ([08-19](https://youtu.be/J1Eg3uaAICU?t=1082), [09-09](https://youtu.be/7BllEsdNLoM?t=1565), [08-11](https://youtu.be/OdDkXFhoKsc?t=1025), [08-13](https://youtu.be/okN3fbHJtlA?t=703), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1532))
+The notes do not agree on how long the Finals hangover lasts. One side frames it as an early-season issue. Teams trim minutes and rest starters early, and players start slowly, so production should come back later. The other side says players slow down for the whole year after a long run, and a team with a Finals hangover is unlikely to repeat the same production. The practical difference is the price. If the dip is early only, a November trade at a discount is a bargain. If the drop lasts all season, even a discounted price can be too high. So in November, check whether minutes are rising before you pay. ([08-13](https://youtu.be/okN3fbHJtlA?t=703), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1532), [08-11](https://youtu.be/OdDkXFhoKsc?t=1025), [08-19](https://youtu.be/J1Eg3uaAICU?t=1082), [09-09](https://youtu.be/7BllEsdNLoM?t=1565))
 
-## Injury returns: hold until the return window
+## How long to hold
 
-Tyrese Haliburton is coming back from an Achilles injury. Expect managed minutes and rested back-to-backs early, then close to full strength from January through the playoffs. Pay closer to his ESPN average cost than his Yahoo price. Hold him through December, and treat any panic sale in November as a buy chance. Kyrie Irving is returning from an ACL tear. Dallas's handling of his minutes and back-to-backs decides his games played, and Dallas plays 4-4-4 in our playoff weeks. ([Tyrese Haliburton](../profiles/players/tyrese-haliburton.md), [Kyrie Irving](../profiles/players/kyrie-irving.md))
+Rookies: if you draft a top rookie, accept the slow start and do not drop him. Hold him through at least the first two months. One rookie is projected to reach top-30 level by our fantasy playoffs (weeks 19 to 21, ending 2027-03-28), so he will help you when it counts. The cheapest rookie flyer is a different case. Hold him only until about Thanksgiving, and only if he starts, because the experts do not expect him to improve until after February. ([06-25](https://youtu.be/lOshTzDA4SA?t=262), [09-29](https://youtu.be/XSPJL_mlFXo?t=526), [Cameron Boozer](../profiles/players/cameron-boozer.md), [Mikel Brown Jr.](../profiles/players/mikel-brown.md))
 
-The deeper returns belong in our 4 IL slots. Brandon Ingram is out until somewhere between November and Christmas and should have his full role by the playoffs if healthy. The Clippers play 4-3-4 in those weeks. Jimmy Butler is out until about January and then on limited minutes. He is a 1 USD IL stash only if you have a slot free. Otherwise, follow his rehab news in December and pick him up close to his return. ([Brandon Ingram](../profiles/players/brandon-ingram.md), [Jimmy Butler III](../profiles/players/jimmy-butler.md))
+Finals-run starters: hold them through the first 30 or so games. During that window, check their minutes, their rest on back-to-backs and their efficiency. Do not sell them in a panic during the planned rest period. ([09-14](https://youtu.be/LM0cRCGoAUQ?t=1532), [08-13](https://youtu.be/okN3fbHJtlA?t=703), [Karl-Anthony Towns](../profiles/players/karl-anthony-towns.md), [OG Anunoby](../profiles/players/og-anunoby.md))
 
-Two centers are waiver watches, not auction buys. Dereck Lively II has a broken foot and is out until around Thanksgiving, then ramps up slowly behind Gafford and Johnson. Yanic Konan Niederhäuser is out until somewhere between Thanksgiving and Christmas, and his upside comes late in the season. Neither should cost a dollar. Watch the injury news and use FAB only when they are close to playing. ([Dereck Lively II](../profiles/players/dereck-lively.md), [Yanic Konan Niederhäuser](../profiles/players/yanic-konan-niederhauser.md))
+Injury returns: a star coming back from an Achilles injury should be judged after Christmas, not in October. A center who is out until Thanksgiving or Christmas can sit in one of our 4 IL slots for free, or you can leave him on waivers and pick him up when his timeline firms up. For any returning player, check his timeline in late November. ([Tyrese Haliburton](../profiles/players/tyrese-haliburton.md), [Yanic Konan Niederhäuser](../profiles/players/yanic-konan-niederhauser.md), [Dereck Lively II](../profiles/players/dereck-lively.md))
 
-## Rookies: how long to hold
+## November buy-low trades
 
-The rule for top rookies is to accept the slow start and not drop him if you drafted him early. Expect poor efficiency for about two months, so judge him around the start of January, not in November. Cameron Boozer is the best fit. Experts expect him to struggle early, then reach a top 25 to 30 level by the fantasy playoffs. Early on, check whether he gets 32 or more minutes, his assists without Morant, and his three-point volume. ([06-25](https://youtu.be/lOshTzDA4SA?t=262), [09-29](https://youtu.be/XSPJL_mlFXo?t=526), [Cameron Boozer](../profiles/players/cameron-boozer.md))
+Trade for the long term. Buy low and sell high, and accept short-term pain for long-term gain. In our league, managers trade often. November is the time to offer for slow starters whose owners are frustrated. The trade deadline is 2027-03-04, so you have time for these players to recover before our playoff weeks. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1375))
 
-The other rookies are cheap flyers, and that changes how long you hold them. AJ Dybantsa may be held to about 28 minutes early, and his weak shooting and turnovers place him outside the top 100 in categories. Darryn Peterson is expected to struggle with shooting and turnovers early. Mikel Brown Jr. is expected to be bad until around February. His profile says to hold him until about Thanksgiving if he starts, then decide. For a 1 to 3 USD bench rookie, use that Thanksgiving check. Save full patience for a rookie you paid real money for. ([AJ Dybantsa](../profiles/players/aj-dybantsa.md), [Darryn Peterson](../profiles/players/darryn-peterson.md), [Mikel Brown Jr.](../profiles/players/mikel-brown.md), [06-25](https://youtu.be/lOshTzDA4SA?t=262))
+At the auction, let other managers pay full market price for the slow starters. Stop at the caps in the player lines below. If someone overpays, that owner is your trade partner in November, when the box scores look weak. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1375), [Tyrese Haliburton](../profiles/players/tyrese-haliburton.md), [Jalen Brunson](../profiles/players/jalen-brunson.md), [Karl-Anthony Towns](../profiles/players/karl-anthony-towns.md))
 
-Rookies make good November buy-low targets for the same reason. A manager who sees a bad FG% and high turnovers in the first month may sell. Boozer is the clearest target because his expected peak lands in our playoff weeks. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1375), [09-29](https://youtu.be/XSPJL_mlFXo?t=526), [Cameron Boozer](../profiles/players/cameron-boozer.md))
+Before you offer, check three things. Are minutes rising? Is the player still sitting on back-to-backs? Is his efficiency recovering? For rookies, also watch his turnover rate and his assists. If minutes are still flat after the 30-game window, take the season-long view from the section above and lower your offer. ([09-29](https://youtu.be/XSPJL_mlFXo?t=526), [09-09](https://youtu.be/7BllEsdNLoM?t=1565), [Darryn Peterson](../profiles/players/darryn-peterson.md), [Mikel Brown Jr.](../profiles/players/mikel-brown.md))
 
-## Who has early-season value instead
+## Early-season value: use it, then move on
 
-Some cheap players are worth more in October and November than later. Yaxel Lendeborg should have his best stretch before Butler and Moody return, so check that Kerr keeps him in the starting lineup. Isaiah Jackson could be top 150 early as a starting center for FG% and blocks, but his value is expected to fade when Konan Niederhäuser returns. Both are 1 USD end-of-draft picks. Start them early, then drop them or move them in a trade before the players ahead of them return. ([Yaxel Lendeborg](../profiles/players/yaxel-lendeborg.md), [Isaiah Jackson](../profiles/players/isaiah-jackson.md), [09-01](https://youtu.be/skKXe2CRl8Q?t=1375))
+Some cheap players have value early because teammates are out. Draft them for 1 USD or pick them up off waivers. Start them in October and November. Each week, check whether they still start and how many minutes they play. ([Brandin Podziemski](../profiles/players/brandin-podziemski.md), [Yaxel Lendeborg](../profiles/players/yaxel-lendeborg.md), [Isaiah Jackson](../profiles/players/isaiah-jackson.md))
 
-Fred VanVleet is a smaller version of the slow starter. His minutes should sit near 30 early and rise to 34 or 35 later. He is still only a 1 to 2 USD late guard, and Houston plays just 10 games in our playoff weeks. Do not trade real value for him in November. ([Fred VanVleet](../profiles/players/fred-vanvleet.md))
-
-## A November action plan
-
-At the draft on 2026-10-18, pay the expert prices for slow starters, not the site or last-season prices. Leave IL-bound players for the last dollars or for waivers. In November, check minutes and per-minute stats for the Knicks trio, Haliburton, Kyrie and Boozer. Make trade offers to managers who are losing with them. Hold your own slow starters until their checkpoints: about 30 games for the Knicks, January for Haliburton and Butler, and about two months for Boozer. For a Mikel Brown type flyer, the checkpoint is Thanksgiving. Use early-value players like Lendeborg and Jackson while they last. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1375), [08-13](https://youtu.be/okN3fbHJtlA?t=703), [09-29](https://youtu.be/XSPJL_mlFXo?t=526), [Tyrese Haliburton](../profiles/players/tyrese-haliburton.md), [Jimmy Butler III](../profiles/players/jimmy-butler.md), [Mikel Brown Jr.](../profiles/players/mikel-brown.md), [Cameron Boozer](../profiles/players/cameron-boozer.md))
+Know when their value ends. One is expected to lose numbers when two teammates return. Another will likely lose his value when the injured center ahead of him comes back. A third plays for a team the experts expect to fade. Sell them high while their stats look good. If no one bites, drop them and use one of your 6 weekly acquisitions on a slow starter who is ramping up. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1375), [Yaxel Lendeborg](../profiles/players/yaxel-lendeborg.md), [Isaiah Jackson](../profiles/players/isaiah-jackson.md), [Brandin Podziemski](../profiles/players/brandin-podziemski.md))
 
 ## Players
 
 Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
-### Core buy-low targets
+### Buy low later
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Tyrese Haliburton](../profiles/players/tyrese-haliburton.md) | IND | G | 10 | 45.4 | 12 | 39.1 | not drafted | Managed minutes after his Achilles injury should depress his early numbers, but he is expected near full strength from January through the playoffs. |
-| [Karl-Anthony Towns](../profiles/players/karl-anthony-towns.md) | NYK | F,C | 16 | 40.0 | 19 | 34.5 | 46 | Knicks title-run minute cuts may hold him back for about 30 games, which makes him a November buy if his per-minute rebounds hold. |
-| [Jalen Brunson](../profiles/players/jalen-brunson.md) | NYK | G | 29 | 32.6 | 30 | 42.4 | 31 | The Finals hangover, rest on back-to-backs and a wrist that had surgery point to a slow start, so let others overpay now and buy later. |
-| [Kyrie Irving](../profiles/players/kyrie-irving.md) | DAL | G | 46 | 9.6 | 48 | 10.0 | not drafted | His return from an ACL tear may limit his early games, but he hurts no category and Dallas plays 4-4-4 in our playoff weeks. |
-| [Cameron Boozer](../profiles/players/cameron-boozer.md) | MEM | F | 51 | 14.8 | 77 | 5.4 | not drafted | Experts expect a rough start like Cooper Flagg's and then a top 25 to 30 level by the fantasy playoffs. |
+| [Tyrese Haliburton](../profiles/players/tyrese-haliburton.md) | IND | G | 10 | 45.4 | 12 | 39.1 | not drafted | He is an Achilles return expected near full strength after Christmas or by January, so pass at Yahoo prices, cap him in the high 30s, and target him in a November trade if his owner is frustrated. |
+| [Karl-Anthony Towns](../profiles/players/karl-anthony-towns.md) | NYK | F,C | 16 | 40.0 | 19 | 34.5 | 46 | He is a Knicks starter under a careful plan for about 30 games, so stop bidding in the mid 30s and track his minutes and rebounds for a November offer. |
+| [OG Anunoby](../profiles/players/og-anunoby.md) | NYK | F | 72 | 4.4 | 68 | 4.1 | 15 | He has no weak category, so his limited early Knicks minutes make him a solid buy-low once his steals hold up. |
 
-### Value at price
+### Avoid at price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [OG Anunoby](../profiles/players/og-anunoby.md) | NYK | F | 72 | 4.4 | 68 | 3.9 | 15 | He is a mid-round starter whose early minutes may be trimmed after the title run, with no weak category once the cap lifts. |
+| [Jalen Brunson](../profiles/players/jalen-brunson.md) | NYK | G | 29 | 32.6 | 30 | 42.9 | 31 | He faces a Finals hangover, the Knicks' careful plan and a wrist that had surgery, so let someone else pay 30 USD or more and revisit him only at a real discount. |
 
-### IL stashes
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [Brandon Ingram](../profiles/players/brandon-ingram.md) | LAC | G,F | 66 | 3.2 | 79 | 4.4 | 16 | He is out until somewhere between November and Christmas and should have his full role by our 4-3-4 Clippers playoff weeks if healthy. |
-| [Jimmy Butler III](../profiles/players/jimmy-butler.md) | GSW | F | 154 | 0.0 | 214 | 0.3 | 22 | He is out until about January and then on limited minutes, so he is a 1 USD IL stash or a waiver pickup near his return. |
-
-### Waiver watch
+### Rookie hold
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Yanic Konan Niederhäuser](../profiles/players/yanic-konan-niederhauser.md) | LAC | C | 425 | - | - | - | not drafted | He is out until somewhere between Thanksgiving and Christmas, and his late-season upside lands in the Clippers' 4-3-4 playoff weeks. |
-| [Dereck Lively II](../profiles/players/dereck-lively.md) | DAL | C | 166 | - | 143 | 0.1 | 3 | A broken foot keeps him out until around Thanksgiving, followed by a slow ramp-up behind Gafford and Johnson. |
-
-### Rookie flyers
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [AJ Dybantsa](../profiles/players/aj-dybantsa.md) | WAS | F | 92 | 3.4 | 85 | 5.5 | not drafted | He may be held to about 28 minutes early, with weak shooting and turnovers, so he is only a cheap flyer. |
-| [Darryn Peterson](../profiles/players/darryn-peterson.md) | UTA | G | 115 | 8.2 | 123 | 1.9 | not drafted | Early shooting and turnover problems are expected, so he is a cheap bench stash who should improve as the season goes on. |
-| [Mikel Brown Jr.](../profiles/players/mikel-brown.md) | BKN | G | 180 | 0.0 | 198 | 0.1 | not drafted | He is expected to be bad until around February, so keep him only to about Thanksgiving, and only if he starts. |
-
-### Early-season value
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [Yaxel Lendeborg](../profiles/players/yaxel-lendeborg.md) | GSW | F | 144 | 1.0 | 173 | 0.4 | not drafted | His best stretch should come before Butler and Moody return, so use him early and plan your exit. |
-| [Isaiah Jackson](../profiles/players/isaiah-jackson.md) | LAC | C | 326 | - | 233 | 0.0 | 1 | He could be top 150 early as a starter for FG% and blocks until Konan Niederhäuser returns. |
+| [Cameron Boozer](../profiles/players/cameron-boozer.md) | MEM | F | 51 | 14.8 | 77 | 5.6 | not drafted | Experts expect weak efficiency early and top-30 play by our playoffs, so hold him through a poor first month and never drop him. |
+| [Darryn Peterson](../profiles/players/darryn-peterson.md) | UTA | G | 115 | 8.2 | 123 | 1.8 | not drafted | He is a cheap upside bench stash whose FG%, turnovers and assists should improve over the season, so do not pay his Yahoo average cost. |
 
 ### Late flyers
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Fred VanVleet](../profiles/players/fred-vanvleet.md) | HOU | G | 153 | 1.0 | 74 | 1.6 | 1 | His minutes near 30 early should rise later, but he stays a late guard and Houston plays only 10 games in our playoff weeks. |
+| [Mikel Brown Jr.](../profiles/players/mikel-brown.md) | BKN | G | 180 | 0.0 | 198 | 0.1 | not drafted | He is a 1 USD bench flyer who will hurt FG% and TO early, so hold him only to about Thanksgiving and only if he starts at point guard. |
+| [Fred VanVleet](../profiles/players/fred-vanvleet.md) | HOU | G | 153 | 1.0 | 74 | 1.7 | 1 | His minutes should start near 30 and rise to 34 or 35, but treat him as a 1 to 2 USD late guard because Houston plays only 10 games in our playoff weeks. |
 
-<sub>Built 2026-10-04 with claude-opus-5-5 high.</sub>
+### Waiver and IL stash
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Dereck Lively II](../profiles/players/dereck-lively.md) | DAL | C | 166 | - | 143 | 0.1 | 3 | He is out with a broken foot until about Thanksgiving and then ramps up slowly, so spend nothing and watch whether he wins the starting job. |
+| [Yanic Konan Niederhäuser](../profiles/players/yanic-konan-niederhauser.md) | LAC | C | 425 | - | - | - | not drafted | He is out until Thanksgiving to Christmas and is projected to start by February, so park him in an IL slot for at most 1 USD or pick him up later. |
+
+### Early-season value
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Brandin Podziemski](../profiles/players/brandin-podziemski.md) | GSW | G | 117 | 1.0 | 66 | 2.3 | not drafted | He handles the ball more while Butler is out, so start him early near Yahoo's price and sell high before the Warriors fade. |
+| [Yaxel Lendeborg](../profiles/players/yaxel-lendeborg.md) | GSW | F | 144 | 1.0 | 173 | 0.6 | not drafted | He is a last-dollar flier while Butler and Moody are out, so drop him once his role shrinks. |
+| [Isaiah Jackson](../profiles/players/isaiah-jackson.md) | LAC | C | 326 | - | 233 | 0.0 | 1 | He could be top 150 for FG% and blocks while Konan Niederhauser is out, so use him early and move on when Konan Niederhauser returns. |
+
+<sub>Built 2026-10-05 with claude-opus-5-5 high.</sub>

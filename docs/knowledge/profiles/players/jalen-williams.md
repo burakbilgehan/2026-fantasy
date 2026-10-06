@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 26 | 22.0 | 34 | 20 | 18.0 | 35 | 35 |
+| 2026-27 | 26 | 22.0 | 34 | 20 | 18.2 | 35 | 35 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,27 +30,28 @@
 </details>
 
 **Current**
-- Experts think the market has faded him too far. They value him as a pick 35 to 45 player (rounds 3 to 4) and are happy to draft him there. Pick 24 is too early. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=644), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1363), [09-10](https://youtu.be/dlo7L8Ru91A?t=1073), [08-11](https://youtu.be/OdDkXFhoKsc?t=1048), [07-20](https://youtu.be/-KS_AZjZnw4?t=1749))
-- After last season's hamstring injuries, public drafts take him around pick 45. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1363), [09-10](https://youtu.be/dlo7L8Ru91A?t=1073), [08-11](https://youtu.be/OdDkXFhoKsc?t=1048))
-- His wrist is healthy again and he is expected to be fine coming into the season. (fact, 2026-08-24; [07-26](https://youtu.be/75Sk_4fkgIM?t=2299), [08-24](https://youtu.be/g31YlwRe0XQ?t=862))
-- It is too early to call him injury prone, but he has to prove he can stay healthy this season. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=127))
-- OKC traded Lu Dort, Isaiah Joe and Aaron Wiggins. He and Alex Caruso are the only wings left who can guard bigger forwards. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=267), [07-26](https://youtu.be/75Sk_4fkgIM?t=390), [07-20](https://youtu.be/-KS_AZjZnw4?t=1705))
-- Those departures open up usage. OKC may lean more on offense with him, SGA and Ajay Mitchell together. (verdict, 2026-07-26; [07-20](https://youtu.be/-KS_AZjZnw4?t=1705), [07-26](https://youtu.be/75Sk_4fkgIM?t=903))
-- OKC may push him to take more threes, even if his efficiency drops. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2299), [07-26](https://youtu.be/75Sk_4fkgIM?t=2333))
-- Last season's injuries are not expected to repeat, so he should bounce back. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1672))
-- About four more minutes per game plus better shooting and defensive stats would make him a top 50 player. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1749))
+- Pick 24 is too early for him. A 29 USD price in an auction mock was called too high. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=705), [09-15](https://youtu.be/KPdD91Oo8-U?t=644))
+- Experts think the market has faded him too far after last season's injuries. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=644), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1363), [09-10](https://youtu.be/dlo7L8Ru91A?t=1073), [08-11](https://youtu.be/OdDkXFhoKsc?t=1048))
+- Experts value him as a pick 35 to 45 player, in rounds 3 to 4. They are happy to draft him around pick 45. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1363), [09-10](https://youtu.be/dlo7L8Ru91A?t=1073), [08-24](https://youtu.be/g31YlwRe0XQ?t=862), [07-20](https://youtu.be/-KS_AZjZnw4?t=1749))
+- He is expected to be fine coming into the season. (verdict, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=862))
+- His wrist is healthy again. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2299))
+- Experts say it is too early to call him injury prone, and that expecting last season's injuries to repeat would be a mistake. He still has to prove he can stay healthy this year. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=127), [07-20](https://youtu.be/-KS_AZjZnw4?t=1672))
+- The team may push him to take more threes, even if it costs some efficiency. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2299), [07-26](https://youtu.be/75Sk_4fkgIM?t=2333))
+- OKC lost Lu Dort, Isaiah Joe and Aaron Wiggins. That opens up usage. He and Alex Caruso are the only wings left who can guard bigger forwards. (fact, 2026-07-26; [07-20](https://youtu.be/-KS_AZjZnw4?t=1705), [07-26](https://youtu.be/75Sk_4fkgIM?t=267), [07-26](https://youtu.be/75Sk_4fkgIM?t=390))
+- OKC may lean more on offense with SGA, Ajay Mitchell and Williams together. The team is projected to win about 57 to 62 games. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=903), [07-26](https://youtu.be/75Sk_4fkgIM?t=2232))
+- More minutes plus better shooting and defensive stats should make him a top-50 player again. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1749))
 
 **Durable**
-- Assists and steals are his strongest categories. His assists are well above other forwards. (fact, 2026-10-04; stats)
-- Last season he had wrist surgery and then hurt his hamstring several times. Many of his games came at about 20 minutes, and only about 20 were full-speed games. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=627), [07-26](https://youtu.be/75Sk_4fkgIM?t=164))
-- He is an elite defender who can guard positions one through five, at an All-Defense level. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=401))
-- On a healthy team he plays the three. His higher block, rebound and FG% rates came when he played center. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1657))
-- He takes very few threes, which has been a concern for a long time. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1734))
+- Strong in steals, points and assists for a forward. He has no weak category. (fact, 2026-10-05; stats)
+- Last season he missed the start after wrist surgery, then hurt his hamstring several times after returning. Many of his games came at reduced minutes while he recovered. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=627), [07-26](https://youtu.be/75Sk_4fkgIM?t=164), [07-20](https://youtu.be/-KS_AZjZnw4?t=1672))
+- Elite defender who can guard positions one through five. Experts call him an All-NBA and All-Defense caliber player. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=401))
+- Takes very few threes, a long-standing concern. (fact, 2026-07-26; [07-20](https://youtu.be/-KS_AZjZnw4?t=1734), [07-26](https://youtu.be/75Sk_4fkgIM?t=2333))
+- His high block, rebound and FG% rates came when he played center. On a healthy team he plays the three. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1657))
 
 **Tags**
-- Current: `injury last season` (Wrist surgery, then repeated hamstring injuries. Many games at reduced minutes.), `bounce-back` (Injuries not expected to repeat), `expert target` (Valued at pick 35 to 45. Public ADP is about 45.), `role up` (Dort, Joe and Wiggins left, which opens up usage)
-- Durable: `AST from a big` (About 5.3 assists per game as a forward), `fits every build` (No category is flagged weak)
+- Current: `injury last season` (wrist surgery, then repeated hamstring injuries), `bounce-back` (expected back near a top-50 level), `winning team` (OKC projected for 57 to 62 wins), `usage freed` (OKC lost Dort, Joe and Wiggins)
+- Durable: `AST from a big` (5.3 assists projected as a forward), `fits every build`
 
-**Note.** In our league he cost 35 USD last season. This year Yahoo values him at 26 USD (average cost 22) and ESPN at 20 USD (average cost 18), so a bid in the low to mid 20s matches the experts' pick 35 to 45 view. His 20 points, 5.3 assists and 1.4 steals with no weak category fit any build. Early in the season, check that his hamstring holds up, that his minutes get back above 32 per game, and whether OKC really raises his three-point volume.
+**Note.** He cost 35 USD in our last auction. This year Yahoo values him at 26 USD (average cost 22) and ESPN at 20 USD (average cost 18.2). Experts see him as a pick 35 to 45 player and called 29 USD too high, so a bid in the low to mid 20s is fair. He has no weak category, so he fits any build and helps most in steals, assists and points. Early in the season, check that his hamstrings hold up and whether he takes more threes.
 
-<sub>16 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>17 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

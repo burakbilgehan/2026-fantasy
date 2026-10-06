@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 12 | 4.0 | 78 | 3 | 6.6 | 96 | 21 |
+| 2026-27 | 12 | 4.0 | 78 | 3 | 6.5 | 96 | 21 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,27 +30,31 @@
 </details>
 
 **Current**
-- He is expected to start for New Orleans next to Trey Murphy, Dejounte Murray and likely Yves Missi. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
-- Experts expect the Pelicans to rest him often, which is a risk to his games played. (verdict, 2026-10-02; [08-16](https://youtu.be/gf_6GveiAls?t=936), [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
-- Derik Queen and Zion are seen as a poor fit together. Queen does not look set to start, and Yves Missi looks like the starting center. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1097), [09-24](https://youtu.be/_vbAP5y182A?t=1141), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1047), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1818))
-- His ESPN ADP of 46 is too high. One expert puts him in tier eight among power forwards. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2346), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2085), [09-01](https://youtu.be/80kfLVnFQ_s?t=956))
-- The off-ball role is probably part of why he stayed healthy. Guards handling the ball limit any point-Zion role, and he projects for only about 30 minutes. (verdict, 2026-09-14; [08-03](https://youtu.be/5QU-jta-lWM?t=1635), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2085))
-- New Orleans has one of the highest back-to-back counts this season. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=936))
-- Last season he was used more off the ball and less as a point forward. (fact, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1635))
-- He stayed healthy last season but had one of his worst years. (fact, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1628))
-- Year eight is a make or break season for him. He is the Pelican under the most pressure. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1619))
+- There is talk that Saddiq Bey may close games in lineups with Zion at center. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=6001))
+- Experts say his draft price is too high. Josh values him at about 6 USD in auctions, and an ESPN ADP around 46 is called too high. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3795), [09-19](https://youtu.be/uarqbNA2dFk?t=2346), [09-01](https://youtu.be/80kfLVnFQ_s?t=956))
+- In an October mock auction, bidding opened at 3 USD and he went for 8 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3795))
+- He is locked into the Pelicans' starting lineup with Dejounte Murray and Trey Murphy. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=530), [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
+- Zion and Derik Queen are a poor fit together. Yves Missi looks likely to start at center over Queen. (verdict, 2026-10-02; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1047), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1818), [09-24](https://youtu.be/_vbAP5y182A?t=1141), [09-30](https://youtu.be/BjXP9JODDSg?t=1097), [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
+- Josh thinks the Pelicans will rest Zion often, and the back-to-backs add to that risk. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [08-16](https://youtu.be/gf_6GveiAls?t=936))
+- The Pelicans project as a weak team near the bottom of the West, at about 34 wins and out of the playoffs. One expert does not expect them to pack it in. (verdict, 2026-09-21; [08-03](https://youtu.be/5QU-jta-lWM?t=1765), [07-27](https://youtu.be/0AptxcRW0RE?t=2060), [09-21](https://youtu.be/egRrai3Ax38?t=545))
+- He projects for only about 30 minutes. Guards handling the ball limit any point forward role for him. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2085))
+- The Pelicans have a new coach, Jamahl Mosley, who brings a defense-first identity. (fact, 2026-09-04; [08-03](https://youtu.be/5QU-jta-lWM?t=1459), [09-04](https://youtu.be/gerS7ibpaJo?t=1168))
+- The Pelicans have a crowded rotation of about eight players who could start, which creates a minutes crunch. (fact, 2026-09-04; [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1477))
+- New Orleans has among the most back-to-backs this season. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=936))
+- Playing more off the ball is probably part of why he stayed healthy. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1635))
+- Year eight is a make or break season for him. He is the player under the most pressure on the team. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1619))
 
 **Durable**
-- He is a big FG% anchor. He takes a lot of shots and makes them at a very high rate. (fact, 2026-10-04; stats, [08-30](https://youtu.be/Alwse2uXzD4?t=1405))
-- He hurts FT% clearly because he takes a lot of free throws at a low rate. (fact, 2026-10-04; stats, [08-30](https://youtu.be/Alwse2uXzD4?t=1405))
-- He makes almost no threes. (fact, 2026-10-04; stats)
-- He is not a good rebounder. He does not space the floor or play defense. (verdict, 2026-08-30; [08-03](https://youtu.be/5QU-jta-lWM?t=396), [08-30](https://youtu.be/Alwse2uXzD4?t=1405))
+- He makes almost no threes. (fact, 2026-10-05; stats)
+- He scores a lot at a high FG% on real volume, which lifts a team's FG% clearly. (fact, 2026-08-30; stats, [08-30](https://youtu.be/Alwse2uXzD4?t=1405))
+- His FT% is low on real volume and hurts a team's FT%. (fact, 2026-08-30; stats, [08-30](https://youtu.be/Alwse2uXzD4?t=1405))
+- He is not a good rebounder for his size. He does not space the floor or play defense. (verdict, 2026-08-30; [08-03](https://youtu.be/5QU-jta-lWM?t=396), [08-30](https://youtu.be/Alwse2uXzD4?t=1405))
 - He is worth much more in points leagues than in category leagues. (verdict, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1405))
 
 **Tags**
-- Current: `back-to-back risk` (New Orleans has one of the highest back-to-back counts, and experts expect him to be rested often), `bust candidate` (ESPN ADP 46 called too high)
-- Durable: `FG% anchor` (about 59% FG on about 15 attempts per game), `FT% liability` (about 70% FT on about 7.6 attempts per game), `no 3PM`, `punt FT fit`, `punt 3PM fit`, `points league player`
+- Current: `usage competition` (ball-handling guards limit a point forward role), `back-to-back risk` (Josh expects the Pelicans to rest him often), `many back-to-backs`, `bust candidate` (ESPN ADP around 46 called too high), `sites disagree on price` (Yahoo value 12 USD, ESPN value 3 USD), `bottom team` (about 34 wins projected), `new coach` (Jamahl Mosley), `deep rotation` (about eight players who could start)
+- Durable: `FG% anchor` (about 59% on 14 to 15 attempts), `FT% liability` (about 70% on 7.6 attempts), `no 3PM`, `punt FT fit`, `punt 3PM fit`, `points league player`
 
-**Note.** Experts call his ESPN ADP of 46 too high, and the sites rank him much lower (Yahoo 78, ESPN 96, average costs of 4.0 and 6.6 USD). That makes the 21 USD our league paid last season an overpay, and the target price is around the Yahoo value of 12 USD or less. He fits punt FT% and punt 3PM builds best, where his strong FG% and 22 to 23 points carry the value. Early in the season, check how often the Pelicans rest him on back-to-backs and whether Mosley gives him more of the ball than the off-ball role he had last season.
+**Note.** Zion is a category trade-off. He gives strong FG% and points but has a weak FT% and almost no threes, so he fits punt FT% and punt 3PM builds best. Experts price him at about 6 to 8 USD, close to his Yahoo (4.0 USD) and ESPN (6.5 USD) average costs and far below the 21 USD he cost in our league last season, so do not pay anything near that again. Early in the season, check how many back-to-backs he sits and whether his minutes stay around 30.
 
-<sub>10 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>11 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

@@ -29,28 +29,30 @@
 </details>
 
 **Current**
-- Experts see him as a top 60 player at worst. They see a value gap of about 20 to 50 spots over his market. Take him in the 70s and do not let him fall to his ESPN ADP around 113 to 124. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2056), [09-30](https://youtu.be/BjXP9JODDSg?t=1077), [09-21](https://youtu.be/egRrai3Ax38?t=1894), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2850))
-- News says Edey is fully ready for the start of the season. His Yahoo status is still questionable with an ankle issue. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1003), stats)
-- Experts still worry a lot that he gets hurt again. The ankle is the main reason he is ranked low. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1003), [09-14](https://youtu.be/t4n9MAP2_14?t=1803), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2850))
-- Last season he started the season injured and was shut down late while Memphis tanked. In his games he ranked about 70th per game in 26 minutes and was the best second-year player per game. (fact, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1894), [09-04](https://youtu.be/gerS7ibpaJo?t=654), [08-17](https://youtu.be/LcZcvk8s1xQ?t=890))
-- If healthy he would be a top 50 player, and top 40 at 30 minutes. At 30 minutes he would be the best fantasy player in his draft class. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1803), [09-07](https://youtu.be/gJUBAJaHzlU?t=1306))
-- Joe projects 25 to 28 minutes a night, not 34 to 36. This is to protect his large frame, not because of his conditioning. Isaiah Stewart and Quinten Post take the extra center minutes. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=939))
-- Coach Tuomas Iisalo plays at a very high pace, uses short stints, keeps minutes down and runs an 11-man rotation. This limits Edey's minutes. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
-- Joe projects Edey to start at center next to Ty Jerome, Cedric Coward, Jerami Grant and Cameron Boozer. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=483))
-- Joe expects him to play about 65 games, with limited minutes from opening night, partly because Edey is thinking about his contract extension. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=837))
-- Last season he turned 50% of his rim contests into blocks, but the sample is small. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=560))
+- In a mock auction he went for 20 USD, more than Franz Wagner or Jaren Jackson. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4527))
+- Josh would pay up to 11 USD for him in an auction. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4527))
+- Recent news says he is fully ready for the start of the season, and he appears healthy. (fact, 2026-10-04; [09-30](https://youtu.be/BjXP9JODDSg?t=1003), [10-04](https://youtu.be/n4KkK-OJjqA?t=1713))
+- A newer note says he might play more minutes in his third season. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1713))
+- Experts see him as clearly undervalued. Josh calls him a top 60 player at worst and says to take him in the 70s rather than wait for his ESPN ADP of 124. Others see a value gap of 20 to 50 spots and low downside even if he misses time. (verdict, 2026-10-04; [10-02](https://youtu.be/ZYllcj4o6_A?t=2056), [09-30](https://youtu.be/BjXP9JODDSg?t=1077), [09-21](https://youtu.be/egRrai3Ax38?t=1894), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2850), [10-04](https://youtu.be/n4KkK-OJjqA?t=1713))
+- One expert is still very worried that he gets hurt again. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1003))
+- If healthy he would be a top 50 player, and top 40 if he played 30 minutes. At 30 minutes he would be the best fantasy player in his draft class. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1803), [09-07](https://youtu.be/gJUBAJaHzlU?t=1306))
+- Joe projects him as the starting center for Memphis. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=483))
+- Joe expects limited minutes, about 25 to 28 a night, to manage his large frame. Isaiah Stewart and Quinten Post would take the extra center minutes. Coach Tuomas Iisalo uses short stints, keeps minutes down and runs an 11-man rotation. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=939), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- Joe expects about 65 games, partly because Edey is thinking about his contract extension. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=837))
+- Memphis plays at a very high pace, which helps his counting stats. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033))
 
 **Durable**
-- His strong categories are FG% on solid volume, rebounds and blocks. All three are league outliers. (fact, 2026-10-04; stats)
-- He makes almost no threes. Turnovers are high for a center, which makes him a fit for punt TO builds. (fact, 2026-10-04; stats)
-- He has had multiple ankle and foot surgeries. There were three significant ankle or foot problems in his first two seasons. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1271), [08-17](https://youtu.be/LcZcvk8s1xQ?t=794), [08-09](https://youtu.be/8d--aL_xxwE?t=1749))
-- The repeated ankle injury makes health his biggest concern. He is moving toward Kawhi and Embiid territory but is not there yet. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1271), [08-09](https://youtu.be/8d--aL_xxwE?t=1749))
-- When he plays, he is one of the most efficient and dominant players in the NBA. Compared with Clingan he has elite FG% and good FT%, and he scores and blocks more. (verdict, 2026-09-07; [08-17](https://youtu.be/LcZcvk8s1xQ?t=985), [09-07](https://youtu.be/gJUBAJaHzlU?t=1278))
+- His category strengths are FG% on good volume, rebounds and blocks. All three are league outliers. He converted 50% of rim contests into blocks in a small sample. (fact, 2026-10-05; stats, [09-07](https://youtu.be/gJUBAJaHzlU?t=1278), [07-17](https://youtu.be/NYTH7uQsPCM?t=560))
+- He makes almost no threes and has high turnovers for a center. (fact, 2026-10-05; stats)
+- He has had multiple ankle and foot surgeries, with three significant ankle or foot problems in his first two seasons. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1271), [08-17](https://youtu.be/LcZcvk8s1xQ?t=794), [08-09](https://youtu.be/8d--aL_xxwE?t=1749))
+- His repeated ankle problems make health the main concern. He is moving toward Kawhi and Embiid territory but is not there yet. (verdict, 2026-09-07; [08-09](https://youtu.be/8d--aL_xxwE?t=1749), [09-07](https://youtu.be/gJUBAJaHzlU?t=1271))
+- His FT% is good for a center, so he does not drag FT% down like many big men. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1278), stats)
+- When on the court he is one of the most efficient and dominant players in the NBA, though the sample is small. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=985), [07-17](https://youtu.be/NYTH7uQsPCM?t=560))
 
 **Tags**
-- Current: `questionable` (Yahoo Q (ankle), though news says he is ready for the season start), `injury last season` (started the season injured, shut down late), `expert target` (top 60 at worst, take in the 70s), `sleeper` (ESPN rank 113), `sites disagree on price` (Yahoo rank 70 and 15 USD value, ESPN rank 113 and 2 USD value)
-- Durable: `FG% anchor` (about 61% on 9 to 10 attempts), `REB specialist` (about 11 rebounds projected), `BLK specialist` (about 2 blocks projected), `punt TO fit`, `no 3PM`, `injury prone` (multiple ankle and foot surgeries)
+- Current: `injury last season` (11 games in 2025-26), `questionable` (Yahoo status Q (ankle), though news says he is ready), `minutes limit` (projected 25 to 28 minutes to manage his frame), `sleeper` (ESPN rank 113, ADP about 124), `expert target` (top 60 at worst, take in the 70s), `sites disagree on price` (Yahoo value 15 USD, rank 70; ESPN value 2 USD, rank 113), `fast pace` (Iisalo plays at a very high pace), `deep rotation` (11-man rotation; Stewart and Post take center minutes)
+- Durable: `FG% anchor` (about 61% on 9 to 10 attempts), `REB specialist` (about 11 rebounds per game), `BLK specialist` (about 2 blocks per game), `punt TO fit` (about 2.3 turnovers per game, high for a center), `no 3PM` (0.3 threes per game), `injury prone` (multiple ankle and foot surgeries)
 
-**Note.** Edey went for 2 USD in our league last season. This year Yahoo values him at 15 USD (rank 70, average cost 7.2 USD) and ESPN at 2 USD (rank 113). The experts call him top 60 at worst, so a price in the high single digits to low teens is reasonable if you accept the ankle risk. He is a strong fit for big-man builds that want FG%, REB and BLK and can punt TO. Early in the season, check that the ankle Q tag clears and that his minutes reach the projected 25 to 28.
+**Note.** Edey went for just 2 USD in our league last season, and ESPN values him at 2 USD. Yahoo values him at 15 USD (average cost 7.2 USD). Experts call him top 60 at worst, and Josh would pay up to 11 USD, so a bid of about 8 to 12 USD looks fair. Avoid the 20 USD that he went for in a mock. He gives elite FG%, rebounds and blocks with few threes and high turnovers, so he fits punt TO and big-man builds. Early in the season, check that his Yahoo ankle Q status clears and that his minutes really sit near 25 to 28.
 
-<sub>17 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>19 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

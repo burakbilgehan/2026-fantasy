@@ -3,59 +3,55 @@
 
 <sub>Proposed by the synthesis, not on the user's list.</sub>
 
-**Summary.** Our room will carry Yahoo and ESPN prices that mix points-league and category drafts. That overprices scorers like Cade Cunningham, Jalen Johnson, Jalen Brunson, Domantas Sabonis and Pascal Siakam, and nine-cat fluff like Chet Holmgren, Ivica Zubac and Jarrett Allen. Spend the money we save on category players the market underrates: Giannis Antetokounmpo, Kevin Durant, Jaren Jackson Jr. and cheap bigs like Kel'el Ware and Day'Ron Sharpe.
+**Summary.** Our room will see players priced on points-league value and players propped up by plain 9-cat rankings. Let others pay market price for the high-turnover volume scorers (Cunningham, Jalen Johnson, Brunson, Sengun, Sabonis) and for the fluff names (Holmgren, Bridges, Allen, Sheppard). Spend instead on category players that points-league ADP drags down: Giannis for punt FT%, Jaylen Brown, Jaren Jackson Jr., Alexander-Walker, Daniels, Anunoby and Paul George.
 
-## Why our room misprices format
+## Why our room misprices by format
 
-Yahoo ADP mixes points drafts with category drafts. Players valued in points leagues show up high in category rooms and at the top of autodraft queues. In our live auction on 2026-10-18, managers who anchor on Yahoo or ESPN numbers will bring those points-league prices with them. ([08-30](https://youtu.be/Alwse2uXzD4?t=1112), [09-19](https://youtu.be/uarqbNA2dFk?t=817))
+Yahoo ADP mixes points drafts and category drafts. Players who are valued in points leagues can show up high in category draft rooms and near the top of autodraft queues. In our auction, expect managers who rely on Yahoo ranks or autodraft to bid on these players at points prices. ([09-19](https://youtu.be/uarqbNA2dFk?t=817), [08-30](https://youtu.be/Alwse2uXzD4?t=1112))
 
-The first trap is the high-usage scorer with weak steals, blocks and efficiency. That player can be top 10 in points leagues and only a third rounder in category leagues. Our nine categories reward FG%, FT%, assists, steals and blocks, and they punish turnovers. Points alone do not carry a player. ([07-13](https://youtu.be/Rqb5GdrSweY?t=926), [06-28](https://youtu.be/RsjGTgJiKyI?t=822), [08-30](https://youtu.be/Alwse2uXzD4?t=1235))
+The rule is simple. When a player's points value and category value are far apart, the market price follows the wrong format. Players the site ranks for points are the ones to let go. Category players whose ADP is pulled down by points drafters are the ones to buy. ([09-21](https://youtu.be/egRrai3Ax38?t=456), [08-30](https://youtu.be/Alwse2uXzD4?t=1112))
 
-The second trap is nine-cat fluff. The standard Z-score ranking, with turnovers included, makes some players look better than they play, and those players get overdrafted. ([09-29](https://youtu.be/NmdNvAz08oE?t=870), [09-14](https://youtu.be/t4n9MAP2_14?t=1187))
+The second trap runs the other way. Standard 9-cat rankings that include turnovers, or that use season totals, make some players look better than they really are. Those players get overdrafted, so a high 9-cat rank alone is not a reason to bid. ([09-29](https://youtu.be/NmdNvAz08oE?t=870), [09-14](https://youtu.be/t4n9MAP2_14?t=1187))
 
-The rule for our room: when a site ranks or prices a player for the other format, the gap is the opportunity. Let others pay the points-league or fluff price. Bid hard on category players that points-leaning ADP pushes down. ([09-21](https://youtu.be/egRrai3Ax38?t=456), [08-30](https://youtu.be/Alwse2uXzD4?t=1112))
+## Points-league prices to let go
 
-## Points-league prices at the top
+A high-usage scorer with few other strengths can be top 10 in points leagues and only a third-rounder in categories. Volume scoring is worth more in Yahoo points scoring. In our 9-cat format, efficiency, assists, steals and blocks matter more. Watch for scoring-first players with weak defensive stats and low efficiency. ([07-13](https://youtu.be/Rqb5GdrSweY?t=926), [06-28](https://youtu.be/RsjGTgJiKyI?t=822), [08-30](https://youtu.be/Alwse2uXzD4?t=1235))
 
-Cade Cunningham is the biggest early trap. Yahoo ranks him 5th, but experts put him around 8th to 10th in categories. Do not chase him past the mid 50s. Jalen Johnson is priced as a first-rounder on both sites, while category experts see a mid second-round player. Our room paid 34 USD for him last season, and a price near that is safer than the market. ([Cade Cunningham](../profiles/players/cade-cunningham.md), [Jalen Johnson](../profiles/players/jalen-johnson.md), [08-30](https://youtu.be/Alwse2uXzD4?t=1112))
+Cade Cunningham is the clearest case. Yahoo prices him as a top 5 player. Category experts rank him 8th to 10th and cap him at 45 USD, so let others pay 55 USD or more. Jalen Johnson is first round in points but mid round two in categories, so aim for the mid 30s to low 40s USD, not first-round money. ([Cade Cunningham](../profiles/players/cade-cunningham.md), [Jalen Johnson](../profiles/players/jalen-johnson.md), [07-13](https://youtu.be/Rqb5GdrSweY?t=926))
 
-Cooper Flagg is fair in the mid 40s, but bidding toward 60 USD is too much. Jalen Brunson is a round 4 player in categories, so let others pay more than about 30 USD. Stop on Alperen Sengun at about 30 USD. Domantas Sabonis went for 41 USD in our room last season, but experts call him round 3 to 4 in categories. Do not pay first-round money for him. ([Cooper Flagg](../profiles/players/cooper-flagg.md), [Jalen Brunson](../profiles/players/jalen-brunson.md), [Alperen Sengun](../profiles/players/alperen-sengun.md), [Domantas Sabonis](../profiles/players/domantas-sabonis.md))
+The same pattern holds lower down. Jalen Brunson is round 2 in points but round 4 in categories, and experts valued him at 18 to 20 USD in a mock, so do not pay 30 USD. For Alperen Sengun, paying more than about 30 USD means paying points-league prices. Domantas Sabonis is a 24 to 25 USD category player that ESPN prices near 39 USD. Pascal Siakam ranks about 30 in points but 50 to 60 in categories, so stop near 15 to 20 USD. ([Jalen Brunson](../profiles/players/jalen-brunson.md), [Alperen Sengun](../profiles/players/alperen-sengun.md), [Domantas Sabonis](../profiles/players/domantas-sabonis.md), [Pascal Siakam](../profiles/players/pascal-siakam.md))
 
-The same thing happens in the middle rounds. Pascal Siakam rates about 30th in points but 50th to 60th in categories, so paying 25 USD or more repeats the overpay. Paolo Banchero's 26 USD last season was points-league money, and his fair price is near 19 USD. Zion Williamson's 21 USD last season was an overpay, so aim for about 12 USD or less. Do not pay near Yahoo's value for Stephon Castle. ([Pascal Siakam](../profiles/players/pascal-siakam.md), [Paolo Banchero](../profiles/players/paolo-banchero.md), [Zion Williamson](../profiles/players/zion-williamson.md), [Stephon Castle](../profiles/players/stephon-castle.md))
+Most of these players carry heavy turnovers. In a punt TO build those turnovers cost nothing, so they fit that build at a discount. The build does not change the cap, though. If you punt TO, buy Josh Giddey near 29 to 32 USD, LeBron James at 20 to 25 USD and Paolo Banchero near 19 to 20 USD. Do not chase them at points-league prices. ([Josh Giddey](../profiles/players/josh-giddey.md), [LeBron James](../profiles/players/lebron-james.md), [Paolo Banchero](../profiles/players/paolo-banchero.md), [Cade Cunningham](../profiles/players/cade-cunningham.md))
 
-Many of these turnover-heavy players fit a punt TO build best. Examples are Cunningham, Johnson, Flagg, Sabonis and Banchero. A punt TO team can roster them and lose little. Still, the price caps above apply to that build too. Punting TO lowers the cost of their weak category. It does not turn them into first-round category players. ([Cade Cunningham](../profiles/players/cade-cunningham.md), [Jalen Johnson](../profiles/players/jalen-johnson.md), [Cooper Flagg](../profiles/players/cooper-flagg.md), [Domantas Sabonis](../profiles/players/domantas-sabonis.md), [Paolo Banchero](../profiles/players/paolo-banchero.md))
+## 9-cat fluff: inflated by turnovers and games played
 
-## Nine-cat fluff: pay the expert rank, not the z-score
+Fluff comes from two sources. The first is low turnovers inflating z-scores. Jarrett Allen is flagged for this: ESPN ranks him 49th, but experts see rank 70 to 85, so stop near 10 to 13 USD. The second is season totals. Reed Sheppard's season-total rank near 30th came from 82 games, but he was 93rd in head-to-head, so keep him at 1 to 3 USD. ([09-29](https://youtu.be/NmdNvAz08oE?t=870), [Jarrett Allen](../profiles/players/jarrett-allen.md), [Reed Sheppard](../profiles/players/reed-sheppard.md))
 
-Chet Holmgren is the top fluff case. Yahoo values him at 30 USD and our room paid 32 USD last season. Experts say that round-two price is too high and call ESPN's much lower rank fair. His blocks are elite, but he is a target only well below 30 USD. ([Chet Holmgren](../profiles/players/chet-holmgren.md), [09-14](https://youtu.be/t4n9MAP2_14?t=1187))
+Mikal Bridges is the extreme case of the games-played problem. His per-game line is low volume, and most of his value comes from playing all 82 games. That matters less in our weekly head-to-head matchups. Josh values him at about 2 USD in head-to-head, so bid only in the low single digits. ([Mikal Bridges](../profiles/players/mikal-bridges.md), [09-14](https://youtu.be/t4n9MAP2_14?t=1187))
 
-Several low-turnover centers carry inflated Z-scores. For Onyeka Okongwu, pay close to his average cost, not his Yahoo value. On Jarrett Allen, stop around 10 to 13 USD and let ESPN-anchored managers overpay. Ivica Zubac cost 20 USD in our room last season and finished around 96th. His Yahoo average cost is fair. His Yahoo value is not. ([Onyeka Okongwu](../profiles/players/onyeka-okongwu.md), [Jarrett Allen](../profiles/players/jarrett-allen.md), [Ivica Zubac](../profiles/players/ivica-zubac.md), [09-29](https://youtu.be/NmdNvAz08oE?t=870))
+Chet Holmgren, Onyeka Okongwu and Ivica Zubac are the other fluff names with real prices. Experts say round two is too early for Holmgren and would pay about 21 to 22 USD. Okongwu's nine-cat ranks of 44 to 49 inflate him, so stop near 15 to 16 USD. Zubac ranks 60 to 75 in categories for experts, so aim for 10 to 14 USD. ([Chet Holmgren](../profiles/players/chet-holmgren.md), [Onyeka Okongwu](../profiles/players/onyeka-okongwu.md), [Ivica Zubac](../profiles/players/ivica-zubac.md), [09-14](https://youtu.be/t4n9MAP2_14?t=1187))
 
-We play head-to-head, so season totals built on games played overstate weekly value. Reed Sheppard ranks near 30th on season totals but 93rd in H2H value. He is a 1 to 3 USD flyer. Mikal Bridges has no weak category but lifts none, and experts value him around rank 90. Pay near our 9 USD from last season or his Yahoo value, never ESPN's value. ([Reed Sheppard](../profiles/players/reed-sheppard.md), [Mikal Bridges](../profiles/players/mikal-bridges.md))
+## Where the signals disagree
 
-One caution: our league does count TO, so a big man's low turnovers are real help in our weekly matchups. The expert point is that the standard ranking overstates that help. It is not worthless. Use the expert rank as the price cap, not as a reason to skip these players. ([09-29](https://youtu.be/NmdNvAz08oE?t=870), [Jarrett Allen](../profiles/players/jarrett-allen.md))
+The fluff label and the expert values do not always agree. One side says nine-cat rankings make Day'Ron Sharpe look like a top 20 player and that Kel'el Ware's line hides poor defense. The other side says Sharpe is a top 100 category player at 24 minutes, worth up to about 10 USD, and that Ware has top 60 to 80 value with top 40 upside at 30 minutes. Both views hold if you separate rank from price. Ignore the inflated rank, but at their low market costs both are still fine late buys. ([Day'Ron Sharpe](../profiles/players/dayron-sharpe.md), [Kel'el Ware](../profiles/players/kelel-ware.md), [09-29](https://youtu.be/NmdNvAz08oE?t=870))
 
-## Where the format gap works for us
+Some players carry both labels. Jaylen Brown ranked about 10th in points and 25th in categories, which marks him as a points player. Experts also say his nine-cat rank misses what he provides. With ESPN valuing him at only 7 USD, 23 USD is a fair target. Plain 9-cat ranks also drag down Giannis Antetokounmpo for FT%. In a punt FT% build he is a top-5 category asset, and experts call ESPN's rank of 20 wrong. ([Jaylen Brown](../profiles/players/jaylen-brown.md), [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md), [09-21](https://youtu.be/egRrai3Ax38?t=456))
 
-Giannis Antetokounmpo is undervalued by nine-cat rankings because the FT% drag lowers his rank. Experts put him about 5th in head-to-head category leagues, while ESPN ranks him 20th. Expect to pay about 60 USD or more. He is the anchor of a punt FT% and punt TO build. Early on, check that he plays 32 or more minutes and how his knee holds up. ([Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md), [09-21](https://youtu.be/egRrai3Ax38?t=456))
+## Category value the market leaves behind
 
-Kevin Durant is tier two in categories and tier three in points, and ESPN values him far below the experts. Paying in the mid 40s is reasonable. His 10-game playoff schedule is weak, so plan to check his trade value before the 2027-03-04 deadline. Watch his minutes early, because a drop to 33 would hurt. ([Kevin Durant](../profiles/players/kevin-durant.md))
+These are the targets. Points-league ADP undervalues Jaren Jackson Jr.'s blocks and steals. Experts rank him near 36th in categories, so he is a bargain anywhere under about 25 USD. Nickeil Alexander-Walker is top 40 to 50 in categories, and his ADP only matches his points value. 12 to 18 USD is a good price, and the low 20s are still fair. ([Jaren Jackson Jr.](../profiles/players/jaren-jackson.md), [Nickeil Alexander-Walker](../profiles/players/nickeil-alexander-walker.md), [08-30](https://youtu.be/Alwse2uXzD4?t=1112))
 
-Jaren Jackson Jr. is the clearest category bargain. Points-league ADP undervalues his blocks and steals. Experts rank him near 36th in categories, so he is a buy anywhere under about 25 USD. ([Jaren Jackson Jr.](../profiles/players/jaren-jackson.md), [08-30](https://youtu.be/Alwse2uXzD4?t=1112))
+Defensive-stat players are worth more in our format than their ADP suggests. Dyson Daniels is a steals anchor worth 20 USD or more. OG Anunoby is much better in categories than in points, with a fair range of 15 to 18 USD. Paul George is underpriced at a low to mid teens price. Ausar Thompson is a steals anchor for punt FT% and punt 3PM builds at about 15 to 20 USD. ([Dyson Daniels](../profiles/players/dyson-daniels.md), [OG Anunoby](../profiles/players/og-anunoby.md), [Paul George](../profiles/players/paul-george.md), [Ausar Thompson](../profiles/players/ausar-thompson.md), [06-28](https://youtu.be/RsjGTgJiKyI?t=822))
 
-Later in the auction, Kel'el Ware is a cheap source of rebounds, blocks and FG% with top 40 upside at 30 minutes. Day'Ron Sharpe is a few-USD bet for rebounds, steals and FG%. Julius Randle is a fair mid-priced starter near his average cost. Jaylen Brown is fair near his Yahoo price, but not at last season's 29 USD. ([Kel'el Ware](../profiles/players/kelel-ware.md), [Day'Ron Sharpe](../profiles/players/dayron-sharpe.md), [Julius Randle](../profiles/players/julius-randle.md), [Jaylen Brown](../profiles/players/jaylen-brown.md))
+Category players with efficient, balanced lines also sit below their category value. Derrick White ranked 39th in categories and 50th in points, so he is good value below 25 USD. James Harden ranked 13th in categories against 19th in points, and the low to mid 20s USD is the expert price. Trey Murphy III is great value at a category draft spot, so target 20 to 25 USD. ([Derrick White](../profiles/players/derrick-white.md), [James Harden](../profiles/players/james-harden.md), [Trey Murphy III](../profiles/players/trey-murphy.md))
 
-## Late scorers: 1 USD or nothing
+## Draft-day checks for our league
 
-Some players are tagged as points-league players and sit near the end of our 144-player pool: Ja Morant, AJ Dybantsa, Darryn Peterson, Jonathan Kuminga, Jalen Green, Darius Acuff Jr., RJ Barrett and Ace Bailey. Each one offers points with weak FG%, FT%, defense or turnovers. Bid only a few USD, and in most cases 1 USD as a last pick. Bid only when a punt TO or punt FT% team needs scoring. ([Ja Morant](../profiles/players/ja-morant.md), [AJ Dybantsa](../profiles/players/aj-dybantsa.md), [Darryn Peterson](../profiles/players/darryn-peterson.md), [Jonathan Kuminga](../profiles/players/jonathan-kuminga.md), [Jalen Green](../profiles/players/jalen-green.md), [Darius Acuff Jr.](../profiles/players/darius-acuff.md), [RJ Barrett](../profiles/players/rj-barrett.md), [Ace Bailey](../profiles/players/ace-bailey.md), [08-30](https://youtu.be/Alwse2uXzD4?t=1235))
+Before 2026-10-18, mark every player tagged as a points-league player whose Yahoo rank sits above the expert category range. Write a hard cap next to each name. When a bid passes the cap, stop. The overpay goes to a rival, and the money stays with you for the category players above. ([09-19](https://youtu.be/uarqbNA2dFk?t=817), [09-21](https://youtu.be/egRrai3Ax38?t=456), [Cade Cunningham](../profiles/players/cade-cunningham.md), [Jalen Brunson](../profiles/players/jalen-brunson.md))
 
-Do not pay past prices or hype. Morant cost 17 USD and Green cost 9 USD in our room last season. Peterson's Yahoo average cost is well above his Yahoo value. Let others pay for Dybantsa as the No. 1 pick. Nic Claxton's Yahoo rank fits points, not categories, so 1 to 3 USD is right for a punt FT% team. ([Ja Morant](../profiles/players/ja-morant.md), [Jalen Green](../profiles/players/jalen-green.md), [Darryn Peterson](../profiles/players/darryn-peterson.md), [AJ Dybantsa](../profiles/players/aj-dybantsa.md), [Nic Claxton](../profiles/players/nic-claxton.md))
+For any player with a high 9-cat rank, ask two questions. Does the rank lean on low turnovers or on 82 games played? Is his per-game line ordinary? If yes, price him by head-to-head value, not by season-total rank. Our 144-player pool also means low-cost fluff such as Sheppard can be replaced on waivers. ([09-29](https://youtu.be/NmdNvAz08oE?t=870), [09-14](https://youtu.be/t4n9MAP2_14?t=1187), [Mikal Bridges](../profiles/players/mikal-bridges.md), [Reed Sheppard](../profiles/players/reed-sheppard.md))
 
-## Where the sources split, and what to check
-
-The method notes agree on the principle. The disagreements are on individual players. Jaylen Brown is tagged as a player nine-cat ranks undervalue, but his profile says our room's 29 USD last season was too high for a smaller role in Philadelphia. We side with the price cap. Holmgren splits the sites: Yahoo prices him in round two, while experts back ESPN's much lower rank. Morant's projections also split. Yahoo has him at 5.7 assists on 13 shots and ESPN at 7.2 on 16, so his value depends on which projection holds. ([Jaylen Brown](../profiles/players/jaylen-brown.md), [Chet Holmgren](../profiles/players/chet-holmgren.md), [Ja Morant](../profiles/players/ja-morant.md))
-
-Before the draft, write a hard cap next to each name above. During the auction, note which site the bidder anchors on. ESPN anchors overpay Siakam, Sabonis, Allen and Bridges. Yahoo anchors overpay Cunningham, Flagg and Holmgren. In the first weeks, check minutes and usage for the bargains (Jackson Jr., Ware, Sharpe). The FAB budget and 6 weekly adds let us drop flyers fast if their roles do not show up. ([09-19](https://youtu.be/uarqbNA2dFk?t=817), [Pascal Siakam](../profiles/players/pascal-siakam.md), [Domantas Sabonis](../profiles/players/domantas-sabonis.md), [Jarrett Allen](../profiles/players/jarrett-allen.md), [Mikal Bridges](../profiles/players/mikal-bridges.md), [Cade Cunningham](../profiles/players/cade-cunningham.md), [Cooper Flagg](../profiles/players/cooper-flagg.md), [Chet Holmgren](../profiles/players/chet-holmgren.md))
+Check the playoff schedule for weeks 19 to 21 before paying full price. Houston has only 10 games across our playoff weeks, which affects Sengun, Kevin Durant and Amen Thompson. Cleveland has a 2-game finals week, which affects Mobley and Harden. Dallas has a 4-4-4 schedule, which helps Cooper Flagg a little, but his Yahoo price still runs above the 40 USD expert cap. ([Alperen Sengun](../profiles/players/alperen-sengun.md), [Kevin Durant](../profiles/players/kevin-durant.md), [Amen Thompson](../profiles/players/amen-thompson.md), [Evan Mobley](../profiles/players/evan-mobley.md), [James Harden](../profiles/players/james-harden.md), [Cooper Flagg](../profiles/players/cooper-flagg.md))
 
 ## Players
 
@@ -65,53 +61,102 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 58.8 | 20 | 61.4 | 62 | His FT% drag hides a top 5 head-to-head category player who anchors punt FT% builds. |
-| [Kevin Durant](../profiles/players/kevin-durant.md) | HOU | G,F | 14 | 43.0 | 28 | 33.3 | 44 | He is worth more in categories than in points, and ESPN underprices him, but his weak playoff schedule makes him a trade candidate before the deadline. |
-| [Jaren Jackson Jr.](../profiles/players/jaren-jackson.md) | UTA | F,C | 42 | 13.4 | 71 | 4.8 | 29 | Points-league ADP ignores his blocks and steals, so he is a category bargain under his expert value. |
+| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 58.8 | 20 | 62.1 | 62 | Plain 9-cat ranks drag him down for FT%, but in a punt FT% build he is a top-5 category asset worth his normal market price. |
+| [Jaylen Brown](../profiles/players/jaylen-brown.md) | PHI | G,F | 44 | 24.2 | 62 | 18.8 | 29 | Experts say his nine-cat rank misses what he provides, and his only flagged weakness is turnovers, which makes him a clean punt TO fit near the mock price. |
+| [Jaren Jackson Jr.](../profiles/players/jaren-jackson.md) | UTA | F,C | 42 | 13.4 | 71 | 5.0 | 29 | Points-league ADP undervalues his blocks and steals, so he is a bargain anywhere under about 25 USD. |
+| [Nickeil Alexander-Walker](../profiles/players/nickeil-alexander-walker.md) | ATL | G | 56 | 4.4 | 31 | 10.7 | 1 | He is top 40 to 50 in categories with no weak category, but his ADP only reflects his points value. |
+| [Dyson Daniels](../profiles/players/dyson-daniels.md) | ATL | G,F | 61 | 4.4 | 38 | 9.7 | 28 | A steals anchor that experts value at 20 USD or more while drafters pay far less. |
+| [OG Anunoby](../profiles/players/og-anunoby.md) | NYK | F | 72 | 4.4 | 68 | 4.1 | 15 | He is much better in categories than in points, with steals and threes and no weak category. |
+| [Paul George](../profiles/players/paul-george.md) | BOS | F | 79 | 2.4 | 91 | 2.7 | 9 | Experts agree he is underpriced as a steals, threes and FT% forward. |
+| [Derrick White](../profiles/players/derrick-white.md) | BOS | G | 36 | 10.2 | 17 | 18.8 | 30 | He ranked 39th in categories and 50th in points, and he is good value below 25 USD, especially for punt FG%. |
+| [Trey Murphy III](../profiles/players/trey-murphy.md) | NOP | G,F | 30 | 18.0 | 46 | 7.4 | 20 | Great category value with no weak category, worth a target of about 20 to 25 USD. |
+| [Anthony Davis](../profiles/players/anthony-davis.md) | WAS | F,C | 45 | 21.8 | 14 | 24.6 | 54 | An elite per-game category big whose only question is games played, so buy at the discounted Yahoo range. |
 
 ### Value at price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Kel'el Ware](../profiles/players/kelel-ware.md) | MIL | C | 71 | 4.6 | 67 | 2.6 | 5 | He is a cheap source of rebounds, blocks and FG% with upside if he gets 26 or more minutes. |
-| [Day'Ron Sharpe](../profiles/players/dayron-sharpe.md) | BKN | C | 91 | 5.6 | 136 | 0.3 | not drafted | He is a few-USD late bet for rebounds, steals and FG% next to a punt 3PM or punt FT% core. |
-| [Julius Randle](../profiles/players/julius-randle.md) | BKN | F | 73 | 8.2 | 86 | 8.6 | 10 | He is a fair mid-priced starter whose category value holds up better than his points-league tag suggests. |
-| [Jaylen Brown](../profiles/players/jaylen-brown.md) | PHI | G,F | 44 | 24.2 | 62 | 19.0 | 29 | He is fair near his Yahoo price as a punt TO fit, but a smaller Philadelphia role makes last season's price too high. |
-| [Josh Giddey](../profiles/players/josh-giddey.md) | CHI | G | 19 | 35.0 | 36 | 33.9 | 31 | His Yahoo price fits his category rank, but paying above the mid 30s buys a top 15 player he is not. |
-| [Paolo Banchero](../profiles/players/paolo-banchero.md) | ORL | F | 52 | 18.8 | 75 | 14.4 | 26 | In categories he is a 40 to 55 pick, so pay his Yahoo-level price and not last season's points-league money. |
-| [Pascal Siakam](../profiles/players/pascal-siakam.md) | IND | F,C | 58 | 13.8 | 24 | 24.7 | 25 | His category value is far below his points value, so take him only at the Yahoo-level price. |
-| [Onyeka Okongwu](../profiles/players/onyeka-okongwu.md) | ATL | C | 49 | 7.8 | 44 | 5.2 | 6 | His threes and steals from center are real, but nine-cat rankings inflate him, so pay near average cost. |
-| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 57 | 8.2 | 81 | 3.6 | 20 | His FG% on volume inflates his nine-cat rank, so he is fair only near his Yahoo average cost. |
-| [Jarrett Allen](../profiles/players/jarrett-allen.md) | CLE | C | 65 | 2.8 | 49 | 7.0 | 13 | Low turnovers inflate his Z-score, so let ESPN-anchored managers overpay and stop early. |
-| [Mikal Bridges](../profiles/players/mikal-bridges.md) | NYK | F | 81 | 3.4 | 26 | 11.3 | 9 | Games played carry his totals and he lifts no category, so he is a cheap filler only. |
+| [James Harden](../profiles/players/james-harden.md) | CLE | G | 31 | 19.4 | 25 | 28.0 | 42 | He ranked 13th in categories against 19th in points, and he fits punt FG% and punt TO builds in the low to mid 20s USD. |
+| [Austin Reaves](../profiles/players/austin-reaves.md) | LAL | G,F | 21 | 28.8 | 50 | 18.9 | 25 | A category player with first-round upside whose high turnovers suit punt TO, so pay the mid 30s and stop near 40 USD. |
+| [Amen Thompson](../profiles/players/amen-thompson.md) | HOU | G | 20 | 24.0 | 13 | 37.0 | 38 | Second or third round in 9-cat but weaker in points, so 35 to 40 USD is fair despite Houston's weak playoff schedule. |
+| [Stephen Curry](../profiles/players/stephen-curry.md) | GSW | G | 25 | 30.6 | 33 | 24.5 | 42 | Still a top 12 to 13 category player per game, but games played risk keeps the price at about 25 to 30 USD. |
+| [Naz Reid](../profiles/players/naz-reid.md) | CHA | F,C | 59 | 4.2 | 37 | 7.7 | 2 | He goes earlier in category leagues and adds threes, blocks and steals as a projected starter at 10 to 15 USD. |
+| [Ausar Thompson](../profiles/players/ausar-thompson.md) | DET | G,F | 77 | 3.2 | 78 | 2.4 | 16 | A steals anchor for punt FT% and punt 3PM builds at about 15 to 20 USD. |
+| [Franz Wagner](../profiles/players/franz-wagner.md) | ORL | F | 50 | 11.4 | 65 | 7.6 | 26 | No weak category and a solid mid-tier piece near 15 USD, not at last season's price. |
 
 ### Avoid at market price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Cade Cunningham](../profiles/players/cade-cunningham.md) | DET | G | 5 | 64.4 | 11 | 56.4 | 55 | Yahoo prices him above his category rank, so do not chase him past the mid 50s. |
-| [Jalen Johnson](../profiles/players/jalen-johnson.md) | ATL | F | 11 | 51.4 | 9 | 54.1 | 34 | The sites price him as a first-rounder, but category experts see a mid second-round player. |
-| [Cooper Flagg](../profiles/players/cooper-flagg.md) | DAL | G,F | 13 | 50.6 | 16 | 41.5 | 25 | Yahoo drafters pay points-league money, and only a mid-40s price fits his late-first category value. |
-| [Alperen Sengun](../profiles/players/alperen-sengun.md) | HOU | F,C | 22 | 32.6 | 29 | 32.6 | 36 | He ranks higher in points than categories, and he has a weak 10-game playoff schedule. |
-| [Jalen Brunson](../profiles/players/jalen-brunson.md) | NYK | G | 29 | 32.6 | 30 | 42.4 | 31 | He is a round 2 points player but only round 4 in categories, so let others pay more. |
-| [Domantas Sabonis](../profiles/players/domantas-sabonis.md) | SAC | F,C | 35 | 22.6 | 32 | 39.3 | 41 | Experts rank him far higher in points, and our room paid first-round-level money for a round 3 to 4 category player. |
-| [Chet Holmgren](../profiles/players/chet-holmgren.md) | OKC | F,C | 28 | 30.6 | 51 | 10.0 | 32 | Nine-cat ranks overrate him, so he is a target only well below his Yahoo price. |
-| [Stephon Castle](../profiles/players/stephon-castle.md) | SAS | G | 76 | 6.6 | 92 | 10.3 | 1 | Category experts fade him at his Yahoo ADP because of his turnovers and FT%. |
-| [Darryn Peterson](../profiles/players/darryn-peterson.md) | UTA | G | 115 | 8.2 | 123 | 1.9 | not drafted | He is a volume scorer with weak projected FG%, so he is a cheap stash and not worth his Yahoo average cost. |
+| [Cade Cunningham](../profiles/players/cade-cunningham.md) | DET | G | 5 | 64.4 | 11 | 56.6 | 55 | His points-league value could top Shai, but in categories he is 8th to 9th, so let others pay 55 USD or more. |
+| [Jalen Johnson](../profiles/players/jalen-johnson.md) | ATL | F | 11 | 51.4 | 9 | 53.9 | 34 | First round in points but mid round two in categories, so his market price is too high for us. |
+| [Anthony Edwards](../profiles/players/anthony-edwards.md) | MIN | G | 8 | 59.4 | 5 | 59.8 | 55 | Elite points and threes with high turnovers, and experts value him well below his market price. |
+| [Cooper Flagg](../profiles/players/cooper-flagg.md) | DAL | G,F | 13 | 50.6 | 16 | 41.4 | 25 | Experts rank him slightly higher in points leagues, and his Yahoo price runs above the 40 USD cap. |
+| [Tyrese Haliburton](../profiles/players/tyrese-haliburton.md) | IND | G | 10 | 45.4 | 12 | 39.1 | not drafted | A strong category fit, but Yahoo's top 10 price sits above the expert cap in the high 30s. |
+| [Jalen Brunson](../profiles/players/jalen-brunson.md) | NYK | G | 29 | 32.6 | 30 | 42.9 | 31 | Round 2 in points but round 4 in categories, so let someone else pay 30 USD or more. |
+| [Kevin Durant](../profiles/players/kevin-durant.md) | HOU | G,F | 14 | 43.0 | 28 | 34.0 | 44 | A tier-two category player, but Yahoo's price sits above the low to high 30s expert range, with minutes and playoff schedule concerns. |
+| [Alperen Sengun](../profiles/players/alperen-sengun.md) | HOU | F,C | 22 | 32.6 | 29 | 32.2 | 36 | Above about 30 USD you are paying points-league prices for a 9-cat player with FT% and turnover drags. |
+| [Domantas Sabonis](../profiles/players/domantas-sabonis.md) | SAC | F,C | 35 | 22.6 | 32 | 39.3 | 41 | He is a round 3 to 4 category player near 24 to 25 USD, so do not pay ESPN or last-season points prices. |
+| [Pascal Siakam](../profiles/players/pascal-siakam.md) | IND | F,C | 58 | 13.8 | 24 | 25.1 | 25 | He ranks about 30 in points but 50 to 60 in categories, so stop near 15 to 20 USD. |
+| [Kon Knueppel](../profiles/players/kon-knueppel.md) | CHA | G,F | 64 | 15.8 | 39 | 15.0 | not drafted | A threes specialist with low steals and blocks whom our room will likely overpay relative to the 8 USD expert cap. |
+| [Darryn Peterson](../profiles/players/darryn-peterson.md) | UTA | G | 115 | 8.2 | 123 | 1.8 | not drafted | A volume scorer with weak projected FG%, so his Yahoo average cost is far above his late-round category value. |
+
+### Avoid at price: 9-cat fluff
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Chet Holmgren](../profiles/players/chet-holmgren.md) | OKC | F,C | 28 | 30.6 | 51 | 10.1 | 32 | Nine-cat ranks overrate him, and experts say round two is too early, so aim for the low 20s. |
+| [Mikal Bridges](../profiles/players/mikal-bridges.md) | NYK | F | 81 | 3.4 | 26 | 11.5 | 9 | His value comes from 82 games, not his ordinary per-game line, so bid only low single digits in our head-to-head format. |
+| [Onyeka Okongwu](../profiles/players/onyeka-okongwu.md) | ATL | C | 49 | 7.8 | 44 | 5.4 | 6 | Nine-cat rankings inflate him, so do not chase him above about 15 to 16 USD. |
+| [Jarrett Allen](../profiles/players/jarrett-allen.md) | CLE | C | 65 | 2.8 | 49 | 6.9 | 13 | Low turnovers inflate his z-score value, so let ESPN-anchored managers overpay and stop around 10 to 13 USD. |
+| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 57 | 8.2 | 81 | 3.5 | 20 | Flagged as 9-cat fluff, and experts rank him 60 to 75 in categories, so aim for 10 to 14 USD. |
+| [Reed Sheppard](../profiles/players/reed-sheppard.md) | HOU | G | 149 | 1.0 | 58 | 1.9 | 4 | His season-total rank came from 82 games while he was 93rd in head-to-head, so keep him at 1 to 3 USD. |
+
+### Punt TO pieces at a discount
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Josh Giddey](../profiles/players/josh-giddey.md) | CHI | G | 19 | 35.0 | 36 | 34.0 | 31 | Top 20 in points but round 2 to 3 in 9-cat because of outlier turnovers, so buy only near the expert price for punt TO. |
+| [LeBron James](../profiles/players/lebron-james.md) | PHI | F | 40 | 21.4 | 73 | 17.6 | 22 | He ranked 34th in categories against 23rd in points, so cap him at about 25 USD for a punt TO build. |
+| [Paolo Banchero](../profiles/players/paolo-banchero.md) | ORL | F | 52 | 18.8 | 75 | 14.5 | 26 | His highest value is in Yahoo points, and experts rank him in the 40s to mid 50s in categories, so stop near 19 to 20 USD. |
+| [Evan Mobley](../profiles/players/evan-mobley.md) | CLE | F,C | 27 | 23.6 | 27 | 19.9 | 36 | He finished 29th in points but 41st in categories because of FT%, so pay mid to high 20s only for a punt FT% build. |
+| [Julius Randle](../profiles/players/julius-randle.md) | BKN | F | 73 | 8.2 | 86 | 8.6 | 10 | A points, rebounds and assists forward whose turnovers make him a punt TO piece at 10 to 14 USD. |
+| [Zion Williamson](../profiles/players/zion-williamson.md) | NOP | F,C | 78 | 4.0 | 96 | 6.5 | 21 | A points-league profile with FT% and threes holes, fine for punt FT% at about 6 to 8 USD. |
+| [Rudy Gobert](../profiles/players/rudy-gobert.md) | MIN | C | 82 | 7.2 | 55 | 4.7 | 10 | One expert calls him a points-league target, but for us he is a three-category punt FT big at 8 to 11 USD. |
+| [Stephon Castle](../profiles/players/stephon-castle.md) | SAS | G | 76 | 6.6 | 92 | 10.4 | 1 | Top 50 in fantasy points but about 85th in categories, so keep him near 5 to 10 USD unless you punt turnovers. |
 
 ### Late flyers
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Zion Williamson](../profiles/players/zion-williamson.md) | NOP | F,C | 78 | 4.0 | 96 | 6.6 | 21 | His FG% and points fit punt FT% and punt 3PM builds, but only at a low price given rest days. |
-| [Ja Morant](../profiles/players/ja-morant.md) | POR | G | 93 | 2.6 | 133 | 3.9 | 17 | His turnovers and FG% make him a punt TO flyer, nowhere near last season's price. |
-| [AJ Dybantsa](../profiles/players/aj-dybantsa.md) | WAS | F | 92 | 3.4 | 85 | 5.5 | not drafted | He is a volume scorer with a weak nine-cat shape, so bid only a few USD and skip the No. 1 pick hype. |
-| [Reed Sheppard](../profiles/players/reed-sheppard.md) | HOU | G | 149 | 1.0 | 58 | 1.7 | 4 | Season totals inflate him, and he is a bench player unless an injury opens minutes. |
-| [Nic Claxton](../profiles/players/nic-claxton.md) | CHI | C | 89 | 2.6 | 119 | 1.0 | 4 | His Yahoo rank fits points, so he is a 1 to 3 USD punt FT% blocks pick. |
-| [RJ Barrett](../profiles/players/rj-barrett.md) | TOR | G,F | 124 | 1.3 | 140 | 1.4 | 1 | His value is points and some rebounds, with a FT% drag and weak defense, so he is a 1 USD scorer at most. |
-| [Ace Bailey](../profiles/players/ace-bailey.md) | UTA | F | 159 | 0.0 | 127 | 0.4 | 1 | He wins no category and sits at the pool cutoff, so take him only as a 1 USD last pick. |
-| [Jonathan Kuminga](../profiles/players/jonathan-kuminga.md) | MIN | F | 129 | 1.0 | 185 | 0.4 | 1 | He is a scoring-only forward with a FT% drag and a two-game playoff week, so he is a 1 USD bench pick at most. |
-| [Jalen Green](../profiles/players/jalen-green.md) | PHX | G,F | 130 | 1.0 | 130 | 1.2 | 9 | He offers late points and threes for punt FG% or punt TO teams but hurts balanced builds. |
-| [Darius Acuff Jr.](../profiles/players/darius-acuff.md) | SAC | G | 155 | 2.3 | 139 | 1.1 | not drafted | His FG% and turnovers cancel his scoring and assists, so he is a 1 USD pick only for a team already weak there. |
+| [Kel'el Ware](../profiles/players/kelel-ware.md) | MIL | C | 71 | 4.6 | 67 | 2.5 | 5 | The fluff tag flags his defense, but at his low cost he is a cheap rebounds, blocks and FG% source with top 60 to 80 value. |
+| [Day'Ron Sharpe](../profiles/players/dayron-sharpe.md) | BKN | C | 91 | 5.6 | 136 | 0.3 | not drafted | Nine-cat ranks make him look top 20, so ignore the rank, but up to about 10 USD is fair for a starting center. |
+| [Brandin Podziemski](../profiles/players/brandin-podziemski.md) | GSW | G | 117 | 1.0 | 66 | 2.3 | not drafted | His value is better in category leagues, so take him near Yahoo's price as a late starter and not at ESPN prices. |
+| [Keegan Murray](../profiles/players/keegan-murray.md) | SAC | F | 116 | 1.0 | 83 | 1.2 | 1 | A cheap late forward with no weak category who adds threes and blocks with few turnovers. |
+| [John Collins](../profiles/players/john-collins.md) | DET | F,C | 112 | 1.0 | 99 | 1.2 | 7 | He is rounds 9 to 10 in categories and later in points, a 1 to 3 USD high-FG% big. |
+| [Cason Wallace](../profiles/players/cason-wallace.md) | OKC | G,F | 128 | 1.0 | 109 | 0.5 | 1 | His ADP already fits his category value, so take him as a 1 to 2 USD steals pickup. |
+| [Myles Turner](../profiles/players/myles-turner.md) | MIL | C | 101 | 1.0 | 93 | 1.0 | 20 | He is worth less in points leagues, but his blocks and threes make him a cheap punt FG% center. |
+| [Nic Claxton](../profiles/players/nic-claxton.md) | CHI | C | 89 | 2.6 | 119 | 1.0 | 4 | Slightly better in points leagues, so pay up to about 3 USD for his FG% and blocks, not his Yahoo value. |
+| [Herbert Jones](../profiles/players/herbert-jones.md) | NOP | G,F | 134 | - | 194 | 0.0 | 5 | Steals are a category stat that points leagues ignore, so he is a 1 USD punt FG% flyer at most. |
+| [Yaxel Lendeborg](../profiles/players/yaxel-lendeborg.md) | GSW | F | 144 | 1.0 | 173 | 0.6 | not drafted | Experts take him around 100 in categories and 125 in points, so he is a last-dollar flier for his defensive spread. |
+| [Draymond Green](../profiles/players/draymond-green.md) | GSW | F,C | 137 | 0.0 | 161 | 0.3 | 4 | Frontcourt assists help some builds, but his FG%, points and turnovers keep him at 1 to 3 USD. |
 
-<sub>Built 2026-10-04 with claude-opus-5-5 high.</sub>
+### Last-dollar points types
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Ja Morant](../profiles/players/ja-morant.md) | POR | G | 93 | 2.6 | 133 | 4.3 | 17 | Rated as free real estate in points but not a good category player, so do not repeat last season's price. |
+| [AJ Dybantsa](../profiles/players/aj-dybantsa.md) | WAS | F | 92 | 3.4 | 85 | 5.5 | not drafted | He scores and gets to the line but is weak elsewhere in categories, so treat him as a 1 or 2 USD flyer. |
+| [Jalen Green](../profiles/players/jalen-green.md) | PHX | G,F | 130 | 1.0 | 130 | 1.4 | 9 | Possibly top 70 in points but top 100 to 120 in categories, so he is only a cheap punt FG% and punt TO scorer. |
+| [RJ Barrett](../profiles/players/rj-barrett.md) | TOR | G,F | 124 | 1.3 | 140 | 1.4 | 1 | Tier 5 in points and tier 7 in categories, so he only makes sense as a cheap late scorer. |
+| [Jonathan Kuminga](../profiles/players/jonathan-kuminga.md) | MIN | F | 129 | 1.0 | 185 | 0.4 | 1 | Tier 6 in points but tier 8 in categories with FT% damage, so he is a last-dollar pick or a waiver option. |
+| [Darius Acuff Jr.](../profiles/players/darius-acuff.md) | SAC | G | 155 | 2.3 | 139 | 1.3 | not drafted | A volume scorer with poor projected FG% and turnovers, so he is a 1 to 2 USD bench flyer at most. |
+| [Ace Bailey](../profiles/players/ace-bailey.md) | UTA | F | 159 | 0.0 | 127 | 0.4 | 1 | Tier 6 in points and tier 8 in categories, with no winning category, so pay 1 USD only as the last pick. |
+
+<details><summary>Left out</summary>
+
+- Robert Williams III: His ranks put him outside our 144-player draft pool and both sites value him at 0 USD, so he is a waiver watch, not a draft-price decision.
+
+</details>
+
+<sub>Built 2026-10-05 with claude-opus-5-5 high.</sub>

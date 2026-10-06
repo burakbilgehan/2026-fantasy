@@ -2,18 +2,20 @@
  "team": "IND",
  "prompt_version": 1,
  "prompt_sha": "07b4ed7fd28e",
- "input_sha": "a3e7e189c1c7",
+ "input_sha": "f2bd67e580a4",
  "note_count": 20,
- "built_at": "2026-10-04T20:02:33+00:00",
+ "built_at": "2026-10-05T20:09:18+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2215956,
-  "duration_ms": 54867
+  "cost_usd_list": 0.2216742,
+  "duration_ms": 53861,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Projected starting five: Tyrese Haliburton, Andrew Nembhard, Aaron Nesmith, Pascal Siakam and Ivica Zubac.",
+   "text": "The projected starting five is Haliburton, Nembhard, Nesmith, Siakam and Zubac.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -24,7 +26,7 @@
    ]
   },
   {
-   "text": "If Kelly Oubre Jr. starts, he would replace Aaron Nesmith.",
+   "text": "If Kelly Oubre Jr. starts, he would take Nesmith's spot.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
@@ -33,7 +35,7 @@
    ]
   },
   {
-   "text": "Projected bench rotation: Kelly Oubre Jr. as sixth man, then Obi Toppin, Jay Huff, T.J. McConnell and Jarace Walker.",
+   "text": "The projected bench rotation is Oubre as sixth man, then Toppin, Huff, McConnell and Jarace Walker.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -44,16 +46,15 @@
   {
    "text": "Jay Huff is the backup center. Micah Potter is gone.",
    "kind": "fact",
-   "date": "2026-10-01",
+   "date": "2026-09-14",
    "until": "",
    "sources": [
     "t4n9MAP2_14:t2",
-    "-KS_AZjZnw4:t6",
-    "EGdhmUgPAWY:t3"
+    "-KS_AZjZnw4:t6"
    ]
   },
   {
-   "text": "How Carlisle splits center minutes between Zubac and Huff is a big open question. There may be more experimenting at backup center than in past years.",
+   "text": "How Carlisle splits center minutes between Zubac and Huff is a big open question. There may be more experimenting at center than in past years.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
@@ -72,7 +73,7 @@
    ]
   },
   {
-   "text": "Lloyd expects Carlisle to manage Haliburton's minutes early in the season.",
+   "text": "Carlisle is expected to manage Haliburton's minutes early in the season.",
    "kind": "verdict",
    "date": "2026-09-23",
    "until": "",
@@ -90,16 +91,7 @@
    ]
   },
   {
-   "text": "Being close to the first apron limited the team's offseason spending.",
-   "kind": "fact",
-   "date": "2026-08-10",
-   "until": "",
-   "sources": [
-    "sfCe7fS9daM:t4"
-   ]
-  },
-  {
-   "text": "Indiana is expected to be a good team. Tony projects 47 to 48 wins. Josh projects 46 wins and a top-six seed in the East. Low risk of tanking.",
+   "text": "Experts expect a good team, with projections of 46 to 48 wins and a top-six seed in the East.",
    "kind": "verdict",
    "date": "2026-08-10",
    "until": "",
@@ -107,8 +99,7 @@
     "sfCe7fS9daM:t5",
     "sfCe7fS9daM:t6",
     "TiiaNZCJNs8:t6",
-    "-KS_AZjZnw4:t6",
-    "stats"
+    "-KS_AZjZnw4:t6"
    ]
   },
   {
@@ -121,7 +112,16 @@
    ]
   },
   {
-   "text": "Fantasy playoff schedule for our March 28 end is 3-4-3 games, with one back-to-back in each of weeks 20 and 21. That is not ideal.",
+   "text": "Being close to the first apron limited the team's offseason spending.",
+   "kind": "fact",
+   "date": "2026-08-10",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:t4"
+   ]
+  },
+  {
+   "text": "The fantasy playoff schedule is not ideal for our March 28 end. It has 3, 4 and 3 games in weeks 19 to 21, with a back-to-back in both week 20 and week 21.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
@@ -131,7 +131,7 @@
    ]
   },
   {
-   "text": "Indiana has 15 back-to-backs, a middle-of-the-league count. With Carlisle's habit of resting players on back-to-backs, expect some missed games from the starters.",
+   "text": "The team has 15 back-to-backs and a coach who rests players on them. So IND players carry real rest risk, including in playoff weeks 20 and 21.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
@@ -144,7 +144,7 @@
  ],
  "durable": [
   {
-   "text": "Coach Rick Carlisle keeps regular-season minutes low, even for healthy players.",
+   "text": "Coach Rick Carlisle keeps regular-season minutes low and cuts minutes even for healthy players.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -156,7 +156,7 @@
    ]
   },
   {
-   "text": "Carlisle rests players on back-to-backs.",
+   "text": "Carlisle likes to rest players on back-to-backs.",
    "kind": "fact",
    "date": "2026-09-16",
    "until": "",
@@ -165,7 +165,7 @@
    ]
   },
   {
-   "text": "Carlisle limits his starting center's minutes and runs backup centers through the rotation, as he did with Myles Turner. Center minutes changed constantly last season.",
+   "text": "Carlisle limits his starting center's minutes and runs backup centers through the rotation, as he did with Myles Turner.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -178,9 +178,22 @@
  ],
  "tags": [
   {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "Experts project 46 to 48 wins and a top-six seed in the East.",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:t5",
+    "sfCe7fS9daM:t6",
+    "TiiaNZCJNs8:t6",
+    "-KS_AZjZnw4:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "3-4-3 games in weeks 19 to 21 (10 total, rank 17 of 30), with back-to-backs in weeks 20 and 21.",
+   "detail": "3-4-3 games in weeks 19 to 21 for a March 28 end, with back-to-backs in weeks 20 and 21.",
    "until": "",
    "sources": [
     "EGdhmUgPAWY:t5",
@@ -189,44 +202,21 @@
    "new_meaning": ""
   },
   {
-   "name": "minutes limit",
+   "name": "low-minutes coach",
    "channel": "durable",
-   "detail": "Carlisle keeps minutes low for healthy players, mostly starting centers (Zubac). Haliburton expected to be managed early.",
+   "detail": "Rick Carlisle cuts minutes for healthy players, most of all for starting centers, and rests players on back-to-backs.",
    "until": "",
    "sources": [
     "EGdhmUgPAWY:t0",
     "EGdhmUgPAWY:t1",
+    "QbdrhJd7LiA:t0",
+    "2A2JbUN-kc0:t2",
     "t4n9MAP2_14:t2",
-    "sfCe7fS9daM:t2",
-    "C4vlgpJ62NI:t1"
+    "sfCe7fS9daM:t2"
    ],
-   "new_meaning": ""
-  },
-  {
-   "name": "load management",
-   "channel": "durable",
-   "detail": "Carlisle rests players on back-to-backs.",
-   "until": "",
-   "sources": [
-    "2A2JbUN-kc0:t2"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "contender",
-   "channel": "current",
-   "detail": "Projected 46 to 48 wins and a top-six East seed. Win total 44.5.",
-   "until": "",
-   "sources": [
-    "sfCe7fS9daM:t5",
-    "sfCe7fS9daM:t6",
-    "TiiaNZCJNs8:t6",
-    "-KS_AZjZnw4:t6",
-    "stats"
-   ],
-   "new_meaning": "Team expected to make the playoffs and play to win all season, so tanking and late-season shutdowns are unlikely."
+   "new_meaning": "The head coach keeps starters' minutes low and rests healthy players, which lowers their counting stats and adds rest risk."
   }
  ],
- "note": "Indiana is expected to win, so tanking is not a worry. The problems are Carlisle's low minutes, his rest on back-to-backs and a weak 3-4-3 playoff schedule for our March 28 end. These hurt Zubac most, because Carlisle caps his starting centers. They also hurt Haliburton early, since his minutes are expected to be managed. Jay Huff gains as the backup center and handcuff. Early on, watch how the minutes split between Zubac and Huff, how fast Haliburton's minutes go up, and whether Oubre takes Nesmith's starting spot.",
+ "note": "Rick Carlisle keeps minutes low, so IND starters lose counting stats. Zubac is hit hardest because Carlisle limits his starting centers, which keeps Huff alive as a handcuff, and Haliburton should have his minutes managed early. The playoff schedule is poor (3-4-3 games with two back-to-backs), so watch the Zubac and Huff minutes split, Haliburton's minutes and whether Oubre takes Nesmith's starting spot.",
  "rejected": []
 }

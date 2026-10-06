@@ -8,90 +8,69 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "6fd858cafdc6",
- "note_count": 11,
- "built_at": "2026-10-04T17:50:06+00:00",
+ "input_sha": "8fd50fcee238",
+ "note_count": 12,
+ "built_at": "2026-10-05T20:03:13+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1573982,
-  "duration_ms": 42745
+  "cost_usd_list": 0.16432219999999997,
+  "duration_ms": 37932,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He is projected to start for the Pelicans next to Zion Williamson, Dejounte Murray and likely Yves Missi.",
+   "text": "He is locked into the Pelicans starting lineup with Dejounte Murray and Zion Williamson.",
    "kind": "fact",
-   "date": "2026-10-02",
+   "date": "2026-10-04",
    "until": "",
    "sources": [
+    "n4KkK-OJjqA:t2",
     "ZYllcj4o6_A:t1"
    ]
   },
   {
-   "text": "Last season he took on a bigger usage load while Dejounte Murray, Herb Jones and others were out. Murray is back and will have the ball in his hands.",
+   "text": "Much of last season's usage came while Dejounte Murray, Herb Jones and others were out. Murray is expected to have the ball in his hands this season.",
    "kind": "fact",
    "date": "2026-09-22",
    "until": "",
    "sources": [
     "QbdrhJd7LiA:p13",
-    "W-R1dzem32s:p18",
-    "ZYllcj4o6_A:t1"
-   ]
-  },
-  {
-   "text": "Experts expect his usage to drop with Murray back, and his minutes may come down from about 36 per game.",
-   "kind": "verdict",
-   "date": "2026-09-22",
-   "until": "",
-   "sources": [
-    "QbdrhJd7LiA:p13",
-    "egRrai3Ax38:p32",
     "W-R1dzem32s:p18"
    ]
   },
   {
-   "text": "The Pelicans have a crowded rotation of about eight players who could start, but he is basically the team's only floor spacer.",
-   "kind": "fact",
-   "date": "2026-09-04",
-   "until": "",
-   "sources": [
-    "NYTH7uQsPCM:t0",
-    "gerS7ibpaJo:t1",
-    "5QU-jta-lWM:t2"
-   ]
-  },
-  {
-   "text": "The Pelicans reportedly want about three first-round picks and a young player for him. His team-friendly contract puts his trade value at its peak.",
-   "kind": "fact",
-   "date": "2026-08-03",
-   "until": "",
-   "sources": [
-    "5QU-jta-lWM:p16"
-   ]
-  },
-  {
-   "text": "Experts say 9-cat rankings that put him around 12th or in the top 20 rate him too high. One calls his Yahoo rank of 35 too high, and another says he tends to go too early.",
+   "text": "His usage and his minutes (about 36 per game last season) are expected to drop.",
    "kind": "verdict",
    "date": "2026-09-22",
    "until": "",
    "sources": [
     "QbdrhJd7LiA:p13",
-    "ahNxsoU8Hx4:p53",
     "W-R1dzem32s:p18",
-    "dlo7L8Ru91A:p17"
+    "egRrai3Ax38:p32"
    ]
   },
   {
-   "text": "Experts disagree on a price in the 30s. Some call an ADP around 36 about right and see a pick in the 30s as good value in category leagues. Others say a Yahoo rank of 35 is too high. One expert ranks him 22nd in 8-cat roto.",
+   "text": "His fair auction price is in the mid 20s USD. 21 USD is good value, and he is sometimes overrated.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p53"
+   ]
+  },
+  {
+   "text": "Experts disagree on his rank. One ranks him 22nd in 8-cat roto. Others call 9-cat rankings around 12th to 20th absurd and say his Yahoo rank near 35 is too high.",
    "kind": "verdict",
    "date": "2026-09-22",
    "until": "",
    "sources": [
-    "QbdrhJd7LiA:p13",
     "2A2JbUN-kc0:p39",
     "W-R1dzem32s:p18",
-    "g31YlwRe0XQ:p15",
-    "OdDkXFhoKsc:p24"
+    "ahNxsoU8Hx4:p53",
+    "QbdrhJd7LiA:p13",
+    "dlo7L8Ru91A:p17"
    ]
   },
   {
@@ -100,28 +79,77 @@
    "date": "2026-09-21",
    "until": "",
    "sources": [
-    "egRrai3Ax38:p32",
-    "ahNxsoU8Hx4:p53"
+    "ahNxsoU8Hx4:p53",
+    "egRrai3Ax38:p32"
+   ]
+  },
+  {
+   "text": "The Pelicans reportedly want about three first-round picks and a young player in a trade for him.",
+   "kind": "fact",
+   "date": "2026-08-03",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:p16"
+   ]
+  },
+  {
+   "text": "His trade value is at its peak because of his team-friendly contract.",
+   "kind": "verdict",
+   "date": "2026-08-03",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:p16"
+   ]
+  },
+  {
+   "text": "The Pelicans lack shooting, and he is basically their only floor spacer.",
+   "kind": "fact",
+   "date": "2026-08-03",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:t2"
+   ]
+  },
+  {
+   "text": "New coach Jamahl Mosley brings a defense-first identity to a crowded rotation of about eight players who could start.",
+   "kind": "fact",
+   "date": "2026-09-04",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:t4",
+    "gerS7ibpaJo:t0",
+    "gerS7ibpaJo:t1",
+    "NYTH7uQsPCM:t0"
+   ]
+  },
+  {
+   "text": "The Pelicans are projected to win about 34 games and miss the playoffs, near the bottom of the West.",
+   "kind": "verdict",
+   "date": "2026-08-03",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:t6",
+    "0AptxcRW0RE:t7"
    ]
   }
  ],
  "durable": [
   {
-   "text": "His projected category line has no weak category. FT%, 3PM, points and steals are his best categories.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "Lloyd says he is worth more in category leagues than in points leagues.",
+   "text": "He is worth more in category leagues than in points leagues.",
    "kind": "verdict",
    "date": "2026-08-24",
    "until": "",
    "sources": [
     "g31YlwRe0XQ:p15"
+   ]
+  },
+  {
+   "text": "He has no weak category. His best categories are threes, FT% on good volume, points and steals.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "stats"
    ]
   }
  ],
@@ -129,7 +157,7 @@
   {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "no weak category; best in FT%, 3PM, PTS and STL",
+   "detail": "no weak category; best in 3PM, FT%, PTS, STL",
    "until": "",
    "sources": [
     "stats"
@@ -137,21 +165,41 @@
    "new_meaning": ""
   },
   {
+   "name": "category league player",
+   "channel": "durable",
+   "detail": "great value at pick 37 in category leagues, less so in points",
+   "until": "",
+   "sources": [
+    "g31YlwRe0XQ:p15"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "role down",
    "channel": "current",
-   "detail": "Dejounte Murray back with the ball; minutes may drop from about 36",
+   "detail": "usage and minutes expected to drop with Dejounte Murray back",
    "until": "",
    "sources": [
     "QbdrhJd7LiA:p13",
-    "egRrai3Ax38:p32",
-    "W-R1dzem32s:p18"
+    "W-R1dzem32s:p18",
+    "egRrai3Ax38:p32"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Dejounte Murray will have the ball in his hands",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p13"
    ],
    "new_meaning": ""
   },
   {
    "name": "trade risk",
    "channel": "current",
-   "detail": "Pelicans reportedly ask about three first-round picks and a young player",
+   "detail": "Pelicans reportedly ask about three firsts and a young player",
    "until": "",
    "sources": [
     "5QU-jta-lWM:p16"
@@ -159,40 +207,59 @@
    "new_meaning": ""
   },
   {
-   "name": "bust candidate",
-   "channel": "current",
-   "detail": "9-cat top-20 rankings and Yahoo rank 35 called too high",
-   "until": "",
-   "sources": [
-    "QbdrhJd7LiA:p13",
-    "ahNxsoU8Hx4:p53",
-    "W-R1dzem32s:p18",
-    "dlo7L8Ru91A:p17"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sleeper",
-   "channel": "current",
-   "detail": "ESPN only: rank 45 and ADP 77 called too low",
-   "until": "",
-   "sources": [
-    "egRrai3Ax38:p32",
-    "ahNxsoU8Hx4:p53"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo value 29 USD (rank 30) vs ESPN value 13 USD (rank 46)",
+   "detail": "Yahoo value 29 USD vs ESPN 13 USD",
    "until": "",
    "sources": [
     "stats"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "about 34 wins projected, bottom of the West",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:t6",
+    "0AptxcRW0RE:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "Jamahl Mosley",
+   "until": "",
+   "sources": [
+    "gerS7ibpaJo:t0",
+    "5QU-jta-lWM:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "defense-first",
+   "channel": "durable",
+   "detail": "Mosley's defense-first identity",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "about eight players who could start",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:t0",
+    "gerS7ibpaJo:t1"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "He went for 20 USD in our league last season. Yahoo values him at 29 USD (average cost 18) and ESPN at 13 USD, which lines up with the expert view: a fair pick in the 30s to 40s, not a top-20 player. Because he has no weak category he fits any build, so 18 to 22 USD is a reasonable target, but I would not pay the Yahoo value of 29 USD. Early in the season, check his shot volume and minutes now that Dejounte Murray is back, and follow trade news before the 2027-03-04 deadline.",
+ "note": "He is a solid category player with no weak category, so he fits any build. He helps most in threes, FT% on good volume, points and steals. Experts price him in the mid 20s USD (Josh paid 21 USD). Yahoo values him at 29 USD, ESPN at 13 USD, and he cost 20 USD in our league last season, so a target of about 20 to 25 USD makes sense and anything near 30 USD is too much. Early in the season, check how his shots and minutes hold up with Dejounte Murray healthy under new coach Mosley, and watch for trade news.",
  "rejected": []
 }

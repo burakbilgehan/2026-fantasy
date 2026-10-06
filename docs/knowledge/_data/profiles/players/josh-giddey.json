@@ -8,72 +8,30 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "1052e32b7141",
- "note_count": 19,
- "built_at": "2026-10-04T17:37:36+00:00",
+ "input_sha": "dde70c9c642e",
+ "note_count": 21,
+ "built_at": "2026-10-05T19:54:39+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.17765419999999998,
-  "duration_ms": 46290
+  "cost_usd_list": 0.22423820000000003,
+  "duration_ms": 62315,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Experts rate him as a late second round or early third round pick in 9-cat, around rank 18 to 24. Yahoo rank 18 is borderline but okay, pick 24 is strong, and ESPN rank 36 is very good value.",
-   "kind": "verdict",
-   "date": "2026-09-28",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:p5",
-    "3Qm5wLjhvTw:p6",
-    "_vbAP5y182A:p10",
-    "C4vlgpJ62NI:p30",
-    "2A2JbUN-kc0:p15",
-    "W-R1dzem32s:p13",
-    "7BllEsdNLoM:p14"
-   ]
-  },
-  {
-   "text": "One expert thinks he is probably a top 20 player, above his ESPN rank of 36.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "ahNxsoU8Hx4:p52"
-   ]
-  },
-  {
-   "text": "He is worth more in points leagues, where experts see him as a top 20 player, than in 9-cat.",
-   "kind": "verdict",
-   "date": "2026-09-28",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:p6",
-    "2A2JbUN-kc0:p15",
-    "W-R1dzem32s:p13"
-   ]
-  },
-  {
-   "text": "He is the projected starting point guard in a lineup with Norman Powell, Matas Buzelis, Caleb Wilson and Nick Claxton.",
+   "text": "He is the projected starting point guard and the offensive hub in Chicago. The projected starting five is Giddey, Norman Powell, Matas Buzelis, Caleb Wilson and Nick Claxton.",
    "kind": "fact",
    "date": "2026-09-28",
    "until": "",
    "sources": [
+    "FxaSnyk9g90:p6",
     "3Qm5wLjhvTw:t3"
    ]
   },
   {
-   "text": "Coby White and Nikola Vucevic left Chicago. Norman Powell and rookie Caleb Wilson arrived.",
-   "kind": "fact",
-   "date": "2026-09-28",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:t2",
-    "gJUBAJaHzlU:t3"
-   ]
-  },
-  {
-   "text": "Experts project about 33 to 34 minutes and about 23 usage.",
+   "text": "Experts project him at about 33 to 34 minutes and about 23 usage.",
    "kind": "verdict",
    "date": "2026-09-16",
    "until": "",
@@ -83,7 +41,17 @@
    ]
   },
   {
-   "text": "His usage is expected to drop with a healthy roster. Norman Powell may lead the team in usage, and Matas Buzelis could be second, ahead of Giddey.",
+   "text": "Nikola Vucevic and Coby White are gone, which frees usage in Chicago.",
+   "kind": "fact",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t2",
+    "gJUBAJaHzlU:t3"
+   ]
+  },
+  {
+   "text": "Experts disagree on his usage. One says it will drop because no one is out in Chicago, and that Norman Powell may lead the team in usage. Another says Buzelis could be second in usage, ahead of Giddey.",
    "kind": "verdict",
    "date": "2026-09-21",
    "until": "",
@@ -95,22 +63,32 @@
    ]
   },
   {
-   "text": "He should be the offensive hub and could reach about 10 assists per game without Coby White and Ayo Dosunmu. He still needs to score 15 to 16 points because the team lacks shooting.",
+   "text": "Experts expect around 10 assists per game, helped by the exits of Coby White and Dosunmu. One expert wants him top three in assists per game.",
+   "kind": "verdict",
+   "date": "2026-08-18",
+   "until": "",
+   "sources": [
+    "ME-r173X5b0:p22",
+    "FxaSnyk9g90:p11"
+   ]
+  },
+  {
+   "text": "He still needs to score around 15 to 16 points per game because the team lacks shooting.",
    "kind": "verdict",
    "date": "2026-08-18",
    "until": "",
    "sources": [
     "FxaSnyk9g90:p6",
-    "FxaSnyk9g90:p11",
-    "ME-r173X5b0:p22"
+    "FxaSnyk9g90:t3"
    ]
   },
   {
-   "text": "His free throw percentage dropped last season and cost him value. Experts are not sure it bounces back.",
+   "text": "His shooting dropped last season, mainly an odd drop in FT%. One expert says it could bounce back, another says it is unclear. His three-point shooting also needs to recover.",
    "kind": "verdict",
-   "date": "2026-09-28",
+   "date": "2026-10-04",
    "until": "",
    "sources": [
+    "n4KkK-OJjqA:p38",
     "3Qm5wLjhvTw:p8",
     "7BllEsdNLoM:p15"
    ]
@@ -125,81 +103,173 @@
    ]
   },
   {
-   "text": "Chicago should play a fast, up-tempo transition style, which suits his rebounding and transition play.",
+   "text": "Experts call his price fair in category leagues: an end of round two or early round three pick, with ADP in the low to mid 20s about right and Yahoo rank 18 borderline but okay. One mock drafter called him a strong pick at 24.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p38",
+    "3Qm5wLjhvTw:p5",
+    "3Qm5wLjhvTw:p6",
+    "_vbAP5y182A:p10",
+    "C4vlgpJ62NI:p30",
+    "W-R1dzem32s:p13",
+    "7BllEsdNLoM:p14"
+   ]
+  },
+  {
+   "text": "His ESPN rank of 36 is good value. One expert thinks he is probably a top 20 player.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:p5",
+    "ahNxsoU8Hx4:p52"
+   ]
+  },
+  {
+   "text": "In an auction mock draft he went for 29 USD. The expert bid up to 24 USD and did not see 29 USD as a bargain.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p7"
+   ]
+  },
+  {
+   "text": "He is the only Bulls player paid over 20 million USD per year.",
+   "kind": "fact",
+   "date": "2026-08-18",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:p12"
+   ]
+  },
+  {
+   "text": "He faces the most pressure on the team if the season goes badly.",
    "kind": "verdict",
    "date": "2026-08-18",
    "until": "",
    "sources": [
-    "FxaSnyk9g90:t5",
-    "FxaSnyk9g90:p10"
+    "FxaSnyk9g90:p12"
    ]
   },
   {
-   "text": "Chicago has 10 games in our fantasy playoff weeks (3-3-4) and 15 back-to-backs. The overall schedule is average, with one of only three five-game weeks of the season.",
+   "text": "Chicago projects as a bad team, likely bottom 10, with about 32 wins predicted. The team lacks shooting, and a lineup with Claxton, Wilson and Giddey will have poor spacing.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t0",
+    "P6TNP-g0wzY:t5",
+    "FxaSnyk9g90:t4",
+    "FxaSnyk9g90:t3",
+    "lOshTzDA4SA:t3"
+   ]
+  },
+  {
+   "text": "Tiago Splitter is the new head coach, replacing Billy Donovan.",
+   "kind": "fact",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t1",
+    "FxaSnyk9g90:t2"
+   ]
+  },
+  {
+   "text": "The Bulls should play a fast, up-tempo transition style.",
+   "kind": "verdict",
+   "date": "2026-08-18",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t5"
+   ]
+  },
+  {
+   "text": "The Bulls are thin. Losing a main player like Giddey would make depth a problem.",
+   "kind": "verdict",
+   "date": "2026-08-18",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t0"
+   ]
+  },
+  {
+   "text": "Chicago has 10 games in our fantasy playoff weeks (3-3-4) and 15 back-to-backs, one below the maximum. The first 20 games are a tough stretch.",
    "kind": "fact",
    "date": "2026-09-28",
    "until": "",
    "sources": [
     "3Qm5wLjhvTw:t7",
     "3Qm5wLjhvTw:t8",
-    "gf_6GveiAls:t11"
+    "FxaSnyk9g90:t6"
+   ]
+  },
+  {
+   "text": "The front office signs older players on short deals and hopes to trade them, so roster changes during the season are likely.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t4",
+    "FxaSnyk9g90:t1"
    ]
   }
  ],
  "durable": [
   {
-   "text": "Assists are his best category and a league outlier. Rebounds are also very high for a guard.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "stats",
-    "3Qm5wLjhvTw:p7",
-    "7BllEsdNLoM:p15",
-    "FxaSnyk9g90:p10"
-   ]
-  },
-  {
-   "text": "He is a reliable source of points, rebounds and assists, with possible double digit assists.",
+   "text": "He is a reliable source of points, rebounds and assists, with very high rebounds and assists for a guard and possible double digit assists.",
    "kind": "verdict",
    "date": "2026-09-28",
    "until": "",
    "sources": [
-    "3Qm5wLjhvTw:p7"
+    "3Qm5wLjhvTw:p7",
+    "7BllEsdNLoM:p15",
+    "stats"
    ]
   },
   {
-   "text": "He commits many turnovers, a league outlier in the TO category.",
+   "text": "Assists are a league outlier and rebounds are far above other guards.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "stats",
+    "stats"
+   ]
+  },
+  {
+   "text": "Turnovers are his weak category. He is a high-turnover passer and needs to lower them.",
+   "kind": "verdict",
+   "date": "2026-08-18",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:p8",
+    "stats"
+   ]
+  },
+  {
+   "text": "Experts disagree on his usage profile. Two call him a low usage player whose variance comes from percentages and steals. Another calls him a high-usage passer.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:p7",
+    "7BllEsdNLoM:p15",
     "FxaSnyk9g90:p8"
    ]
   },
   {
-   "text": "He is not a high usage player, so his week to week variance comes from his percentages and steals.",
-   "kind": "verdict",
-   "date": "2026-09-28",
+   "text": "He shot about 37% and 36.5% from three over the last two seasons on low volume.",
+   "kind": "fact",
+   "date": "2026-08-18",
    "until": "",
    "sources": [
-    "3Qm5wLjhvTw:p7",
-    "7BllEsdNLoM:p15"
+    "FxaSnyk9g90:p7"
    ]
   },
   {
-   "text": "Experts disagree on his three-point shooting. One says it improved to about 37% on low volume, another says it still needs to recover.",
-   "kind": "verdict",
-   "date": "2026-09-09",
-   "until": "",
-   "sources": [
-    "FxaSnyk9g90:p7",
-    "7BllEsdNLoM:p15"
-   ]
-  },
-  {
-   "text": "Rebounding and transition play are lasting strengths.",
+   "text": "Rebounding and transition play are strengths.",
    "kind": "verdict",
    "date": "2026-08-18",
    "until": "",
@@ -208,12 +278,24 @@
    ]
   },
   {
-   "text": "Availability is a concern. He needs to play more than 60 to 65 games to return his value.",
+   "text": "Availability is a concern. He needs to play over 60 to 65 games.",
    "kind": "verdict",
    "date": "2026-08-18",
    "until": "",
    "sources": [
     "FxaSnyk9g90:p9"
+   ]
+  },
+  {
+   "text": "He is worth more in points leagues than in 9-cat. Experts see him as a top 20 points league player.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:p6",
+    "W-R1dzem32s:p13",
+    "n4KkK-OJjqA:p38",
+    "2A2JbUN-kc0:p15"
    ]
   }
  ],
@@ -221,82 +303,159 @@
   {
    "name": "AST specialist",
    "channel": "durable",
-   "detail": "about 9 to 10 assists per game",
+   "detail": "about 9 to 10 assists per game projected",
+   "until": "",
    "sources": [
     "stats",
     "3Qm5wLjhvTw:p7",
     "FxaSnyk9g90:p11"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "high TO",
    "channel": "durable",
-   "detail": "about 3.6 turnovers per game",
+   "detail": "about 3.6 turnovers per game projected",
+   "until": "",
    "sources": [
     "stats",
     "FxaSnyk9g90:p8"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "punt TO fit",
    "channel": "durable",
    "detail": "",
+   "until": "",
    "sources": [
     "stats"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "points league player",
    "channel": "durable",
-   "detail": "top 20 in points leagues, about 22 in 9-cat",
+   "detail": "top 20 in points leagues, round 2 to 3 in 9-cat",
+   "until": "",
    "sources": [
     "3Qm5wLjhvTw:p6",
-    "2A2JbUN-kc0:p15",
-    "W-R1dzem32s:p13"
+    "W-R1dzem32s:p13",
+    "n4KkK-OJjqA:p38",
+    "2A2JbUN-kc0:p15"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "injury last season",
    "channel": "current",
-   "detail": "ankle injuries, 54 games",
+   "detail": "ankle injuries",
+   "until": "",
    "sources": [
     "3Qm5wLjhvTw:p8",
-    "stats"
+    "FxaSnyk9g90:p9"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
-   "name": "sleeper",
+   "name": "usage competition",
    "channel": "current",
-   "detail": "ESPN rank 36, expert sees top 20",
-   "sources": [
-    "ahNxsoU8Hx4:p52",
-    "3Qm5wLjhvTw:p5"
-   ],
+   "detail": "Norman Powell and Matas Buzelis",
    "until": "",
+   "sources": [
+    "W-R1dzem32s:t0",
+    "egRrai3Ax38:t2",
+    "g31YlwRe0XQ:t2"
+   ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo rank 19 and value 37 USD, ESPN rank 36 and value 20 USD",
-   "sources": [
-    "stats",
-    "3Qm5wLjhvTw:p5"
-   ],
+   "detail": "Yahoo rank 18 to 19, ESPN rank 36",
    "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:p5",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "bottom 10, about 32 wins",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t0",
+    "P6TNP-g0wzY:t5",
+    "FxaSnyk9g90:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "Tiago Splitter",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t1",
+    "FxaSnyk9g90:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fast pace",
+   "channel": "current",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "thin rotation",
+   "channel": "current",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage freed",
+   "channel": "current",
+   "detail": "Vucevic and Coby White gone",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t2",
+    "gJUBAJaHzlU:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "front office signs veterans to trade them",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t4",
+    "FxaSnyk9g90:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "15 back-to-backs",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t8"
+   ],
    "new_meaning": ""
   }
  ],
- "note": "Experts put him around rank 18 to 24 in 9-cat, and his Yahoo price of about 35 to 37 USD fits that range. Our league paid 31 USD last season. Paying above the mid 30s means paying for a top 15 player. His elite assists and strong rebounds work best in a punt TO build, where his 3.6 turnovers hurt little. Early in the season, check his free throw percentage and how much usage Powell and Buzelis take from him.",
+ "note": "Giddey is an assist and rebound engine from a guard slot, but his turnovers are a league outlier, so he fits a punt TO build best. Yahoo values him at 37 USD (average cost 35 USD) and ESPN's average cost is 34 USD. He went for 31 USD in our league last season and 29 USD in a recent mock, so a price around 29 to 32 USD is fair for us. Early in the season, check his FT% and FG% (he projects at 45.3% FG and 77.1% FT), whether Powell or Buzelis takes usage from him, and whether he stays healthy after missing 28 games last season.",
  "rejected": []
 }

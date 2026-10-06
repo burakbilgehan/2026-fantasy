@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "dd5ac85fafab",
- "note_count": 14,
- "built_at": "2026-10-04T17:26:55+00:00",
+ "input_sha": "9086d9bfed81",
+ "note_count": 16,
+ "built_at": "2026-10-05T19:45:50+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1463022,
-  "duration_ms": 39850
+  "cost_usd_list": 0.2418262,
+  "duration_ms": 82517,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He re-signed with the Hawks on a 1-year, 21 million USD deal.",
+   "text": "He re-signed with Atlanta on a 1-year, 21 million USD deal.",
    "kind": "fact",
    "date": "2026-07-01",
    "until": "",
@@ -29,78 +31,102 @@
    ]
   },
   {
-   "text": "He is a projected starter for Atlanta next to Nickeil Alexander-Walker, Dyson Daniels, Jalen Johnson and Onyeka Okongwu. Each starter is expected to play 30-plus minutes.",
+   "text": "He is a projected starter next to Nickeil Alexander-Walker, Dyson Daniels, Jalen Johnson and Onyeka Okongwu. Lloyd projects each starter for 30-plus minutes.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
    "sources": [
-    "4gw4W4RTolY:t1",
+    "W3THnI7wWdA:p15",
     "H9q2FT3LhNw:p4",
     "H9q2FT3LhNw:t0",
-    "W3THnI7wWdA:p15"
+    "4gw4W4RTolY:t1"
    ]
   },
   {
-   "text": "Atlanta has no true point guard. Ball handling is shared, and McCollum has handled the ball more than anyone else on the team since he arrived.",
+   "text": "Lu Dort is the main threat to his starting spot. If Dort starts, it would most likely be in place of McCollum.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:p5",
+    "H9q2FT3LhNw:t0",
+    "n4KkK-OJjqA:t1",
+    "egRrai3Ax38:t5",
+    "egRrai3Ax38:p20"
+   ]
+  },
+  {
+   "text": "The experts disagree on his starting job. Lloyd and one other expert expect him to start over Dort. The newest note says he could come off the bench.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p14",
+    "egRrai3Ax38:t5",
+    "n4KkK-OJjqA:p48"
+   ]
+  },
+  {
+   "text": "In Atlanta he has the ball more than anyone else on the team and has played point guard. The team has no true point guard. He shares ball handling with Alexander-Walker, Johnson and Daniels.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
    "sources": [
     "4gw4W4RTolY:p15",
     "H9q2FT3LhNw:p4",
-    "H9q2FT3LhNw:t2",
-    "7BllEsdNLoM:p38"
+    "7BllEsdNLoM:p38",
+    "H9q2FT3LhNw:t2"
    ]
   },
   {
-   "text": "He ranked 63rd after the trade deadline last season and played much better after joining Atlanta.",
+   "text": "After joining Atlanta he ranked 63rd for the rest of last season. Over the last two months he was top 70 while playing under 30 minutes.",
    "kind": "fact",
-   "date": "2026-09-21",
+   "date": "2026-10-04",
    "until": "",
    "sources": [
     "xHRF06_E9HE:p38",
+    "n4KkK-OJjqA:p48",
     "OdDkXFhoKsc:p59",
     "egRrai3Ax38:p20"
    ]
   },
   {
-   "text": "Lu Dort is the main threat to his starting spot. Some expect Dort to start ahead of him, and that keeps his price down. The newest view is that Dort will not start over McCollum.",
-   "kind": "verdict",
-   "date": "2026-09-21",
+   "text": "Atlanta's strong finish last season was helped by an easy schedule.",
+   "kind": "fact",
+   "date": "2026-08-25",
    "until": "",
    "sources": [
-    "egRrai3Ax38:t5",
-    "egRrai3Ax38:p20",
-    "H9q2FT3LhNw:p5",
-    "H9q2FT3LhNw:t0"
+    "H9q2FT3LhNw:t1"
    ]
   },
   {
-   "text": "Experts call him undervalued at an ADP of about 110 to 117. Lloyd expects him to be better as a locked-in starter on a team pushing for the playoffs and targets him around picks 80 to 90. In a mock draft he was taken around pick 97 so he would not get sniped.",
+   "text": "Lloyd expects him to be better this season as a locked-in starter on a team pushing for the playoffs. Josh is also high on him.",
    "kind": "verdict",
-   "date": "2026-09-30",
+   "date": "2026-09-25",
    "until": "",
    "sources": [
-    "BjXP9JODDSg:p50",
     "4gw4W4RTolY:p14",
-    "7BllEsdNLoM:p38",
-    "ahNxsoU8Hx4:p42",
     "W-R1dzem32s:p41",
     "OdDkXFhoKsc:p59"
    ]
   },
   {
-   "text": "He fits as a last starter or bench guard who adds points, threes and assists.",
+   "text": "The experts call his market price too low. His ADP sits around 100 to 117 across sites. Lloyd targets him around picks 80 to 90. Others like him as a last starter or bench pick. Josh paid 8 USD for him in an auction mock.",
    "kind": "verdict",
-   "date": "2026-09-17",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "E-KmhvyZ2CU:p19",
-    "ahNxsoU8Hx4:p42"
+    "4gw4W4RTolY:p14",
+    "7BllEsdNLoM:p38",
+    "ahNxsoU8Hx4:p42",
+    "BjXP9JODDSg:p50",
+    "n4KkK-OJjqA:p48",
+    "egRrai3Ax38:p20",
+    "Q6YlQDvD-aY:p88"
    ]
   },
   {
-   "text": "One expert said he would not draft him as high as his 63rd post-deadline finish because of his age.",
+   "text": "One expert would not draft him as high as his post-deadline rank because of his age.",
    "kind": "verdict",
    "date": "2026-07-14",
    "until": "",
@@ -109,7 +135,16 @@
    ]
   },
   {
-   "text": "Atlanta plays 4-4-3 games in our playoff weeks 19 to 21 and has 14 back-to-backs. Resting players is not a concern for the team.",
+   "text": "Draft him to add points, threes and assists at guard. One expert has no worries about him being traded.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "E-KmhvyZ2CU:p19"
+   ]
+  },
+  {
+   "text": "Atlanta plays 4, 4 and 3 games in our playoff weeks. The team has 14 back-to-backs. Resting healthy players is not a concern, and the team did not shut players down last season.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
@@ -117,26 +152,43 @@
     "4gw4W4RTolY:t6",
     "xHRF06_E9HE:t0"
    ]
+  },
+  {
+   "text": "Atlanta is projected for about 46 wins, somewhere between fourth and eighth in the East.",
+   "kind": "verdict",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:t7"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He is a score-first guard, not a pure point guard. His fantasy value comes mainly from points and threes.",
+   "text": "He is a score-first guard, not a pure point guard.",
    "kind": "fact",
    "date": "2026-08-25",
    "until": "",
    "sources": [
-    "H9q2FT3LhNw:p4",
-    "stats"
+    "H9q2FT3LhNw:p4"
    ]
   },
   {
-   "text": "He is an inconsistent free throw shooter and gives few defensive stats.",
+   "text": "He is an inconsistent free throw shooter and does not add much in steals or blocks.",
    "kind": "verdict",
    "date": "2026-09-17",
    "until": "",
    "sources": [
     "ahNxsoU8Hx4:p43"
+   ]
+  },
+  {
+   "text": "Quin Snyder runs an egalitarian, high-movement offense that wants many threes and five-out spacing.",
+   "kind": "fact",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:t3"
    ]
   }
  ],
@@ -144,11 +196,12 @@
   {
    "name": "sleeper",
    "channel": "current",
-   "detail": "ADP around 110 to 117 while experts call that price too low",
+   "detail": "ADP around 100 to 117; experts call that too low",
    "until": "",
    "sources": [
-    "7BllEsdNLoM:p38",
+    "n4KkK-OJjqA:p48",
     "ahNxsoU8Hx4:p42",
+    "7BllEsdNLoM:p38",
     "egRrai3Ax38:p20"
    ],
    "new_meaning": ""
@@ -156,31 +209,43 @@
   {
    "name": "expert target",
    "channel": "current",
-   "detail": "Lloyd targets him at picks 80 to 90; mock pick around 97",
+   "detail": "Lloyd targets picks 80 to 90; Josh paid 8 USD in an auction mock",
    "until": "",
    "sources": [
     "4gw4W4RTolY:p14",
-    "BjXP9JODDSg:p50",
-    "W-R1dzem32s:p41"
+    "Q6YlQDvD-aY:p88",
+    "W-R1dzem32s:p41",
+    "BjXP9JODDSg:p50"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Lu Dort is the main threat to his starting spot; newest view is that McCollum starts",
+   "detail": "Lu Dort is the most likely player to take his starting spot",
    "until": "",
    "sources": [
-    "egRrai3Ax38:t5",
     "H9q2FT3LhNw:p5",
-    "egRrai3Ax38:p20"
+    "n4KkK-OJjqA:t1",
+    "n4KkK-OJjqA:p48",
+    "egRrai3Ax38:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "contract year",
+   "channel": "current",
+   "detail": "1-year, 21 million USD deal",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p15"
    ],
    "new_meaning": ""
   },
   {
    "name": "age decline watch",
    "channel": "durable",
-   "detail": "One expert discounts him for his age",
+   "detail": "expert would not draft him at his post-deadline rank because of his age",
    "until": "",
    "sources": [
     "xHRF06_E9HE:p38"
@@ -188,9 +253,63 @@
    "new_meaning": ""
   },
   {
+   "name": "shared ball handling",
+   "channel": "current",
+   "detail": "no true point guard; he shares handling with Alexander-Walker, Johnson and Daniels",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "three-point heavy",
+   "channel": "current",
+   "detail": "Snyder's offense wants many threes",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "about 46 wins projected",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:t7",
+    "4gw4W4RTolY:p14"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low shutdown risk",
+   "channel": "current",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:t0",
+    "4gw4W4RTolY:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "10-man rotation expected, with Dort and Wiggins able to replace ball-handling starters",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t2",
+    "4gw4W4RTolY:t4",
+    "W3THnI7wWdA:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "No category flagged weak; small minuses in FG%, FT% and REB",
+   "detail": "no category flagged weak; FT%, rebounds and steals are modest",
    "until": "",
    "sources": [
     "stats"
@@ -198,6 +317,6 @@
    "new_meaning": ""
   }
  ],
- "note": "He is a cheap late-round guard in our format: Yahoo values him at 3 USD (rank 109), ESPN at 4 USD (rank 82), and he went for 2 USD in our auction last season. Experts think he is underpriced as Atlanta's lead ball handler and a locked-in starter. Spend 2 to 5 USD on him as a 10th to 12th man for points, threes and assists, since he has no weak category that breaks a build. Early in the season, check that he stays ahead of Lu Dort in the starting lineup and plays about 30 minutes, and watch his free throw shooting.",
+ "note": "McCollum is a cheap guard: Yahoo values him at 3 USD and ESPN at 4 USD, and he went for 2 USD in our auction last season. The experts call his rank of about 100 to 117 too low after he finished last season at a top-70 pace in Atlanta, so plan to bid 3 to 6 USD for a last guard or bench spot and stop around 8 USD. His threes (about 2.5 per game) and points help most builds, but he adds little in FT%, rebounds and steals. In the first weeks, check that he starts over Lu Dort and keeps about 30 minutes.",
  "rejected": []
 }

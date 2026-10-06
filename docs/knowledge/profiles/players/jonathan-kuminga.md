@@ -30,23 +30,26 @@
 </details>
 
 **Current**
-- He signed with Minnesota and is reported to be starting for the Wolves. (fact, 2026-10-02; [08-26](https://youtu.be/sTtFUy7IoJI?t=576), [08-26](https://youtu.be/sTtFUy7IoJI?t=576), [10-02](https://youtu.be/ZYllcj4o6_A?t=2306))
-- He was reportedly promised a starting spot, but that spot may not last all season. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2306))
-- Experts call him overvalued at a price near rank 50. He is not a round 4 player, and his drop in efficiency should stick because he will not play close enough to the basket to get his FG% and blocks back. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=633), [09-19](https://youtu.be/uarqbNA2dFk?t=1537))
-- Minnesota has a two-game week in the matchup that starts March 15, which falls inside our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
-- He should get more minutes and chances in Minnesota, about 28 to 29 minutes a night. (verdict, 2026-08-30; [08-26](https://youtu.be/sTtFUy7IoJI?t=623), [08-30](https://youtu.be/Alwse2uXzD4?t=1874))
-- His usage should drop next to Anthony Edwards, LaMelo Ball and Jaden McDaniels, but stay above 20. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=623))
+- He is not guaranteed to keep the starting spot all season. (verdict, 2026-10-04; [10-02](https://youtu.be/ZYllcj4o6_A?t=2306), [10-04](https://youtu.be/n4KkK-OJjqA?t=669))
+- Minnesota lost Julius Randle and Naz Reid and is short on frontcourt size and bench depth. (fact, 2026-10-04; [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [06-25](https://youtu.be/ya2VYRJ1BN0?t=333), [10-02](https://youtu.be/ZYllcj4o6_A?t=2323), [10-04](https://youtu.be/n4KkK-OJjqA?t=669))
+- He signed with Minnesota and was reportedly promised a starting spot. (fact, 2026-10-02; [08-26](https://youtu.be/sTtFUy7IoJI?t=576), [10-02](https://youtu.be/ZYllcj4o6_A?t=2306))
+- Experts say he is not worth a top 50 rank or a round 4 pick in category leagues. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=633), [09-19](https://youtu.be/uarqbNA2dFk?t=1537))
+- Minnesota has a two-game week starting March 15, which falls inside our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
+- One expert expects his lower FG% and low blocks to stick because his role will not keep him close to the basket. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1537))
+- He should get more minutes and chances in Minnesota, projected at 28 to 29 minutes a night. (verdict, 2026-08-30; [08-26](https://youtu.be/sTtFUy7IoJI?t=623), [08-30](https://youtu.be/Alwse2uXzD4?t=1874))
+- His usage should drop next to Anthony Edwards, LaMelo Ball and Jaden McDaniels, but stay above 20 percent. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=623))
+- Minnesota is expected to be a winning team (one expert predicts 53 wins) and should not rest players to tank. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1830), [07-13](https://youtu.be/Rqb5GdrSweY?t=1051))
 
 **Durable**
-- FT% is his clear weak category. He also sometimes struggles with three-point percentage. (fact, 2026-10-04; stats, [09-10](https://youtu.be/dlo7L8Ru91A?t=2030), [08-30](https://youtu.be/Alwse2uXzD4?t=1893), [08-26](https://youtu.be/sTtFUy7IoJI?t=615))
-- He is a scorer and does little else. He is worth more in points leagues than in category leagues. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=2030), [08-30](https://youtu.be/Alwse2uXzD4?t=1893), [08-26](https://youtu.be/sTtFUy7IoJI?t=676))
-- He is poor in steals, blocks and assists and is not a strong rebounder. (fact, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=2030), [08-30](https://youtu.be/Alwse2uXzD4?t=1893), [08-26](https://youtu.be/sTtFUy7IoJI?t=615))
-- One expert does not like him as a player and thinks he is lazy on defense. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=563))
+- He is mainly a scorer. He adds few steals, blocks and assists and sometimes struggles with three-point percentage. (fact, 2026-09-10; [08-26](https://youtu.be/sTtFUy7IoJI?t=615), [08-26](https://youtu.be/sTtFUy7IoJI?t=676), [09-10](https://youtu.be/dlo7L8Ru91A?t=2030), [08-30](https://youtu.be/Alwse2uXzD4?t=1893))
+- He is a weak free throw shooter, near 69 percent, and hurts a team's FT%. (fact, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=2030), [08-26](https://youtu.be/sTtFUy7IoJI?t=615), [08-30](https://youtu.be/Alwse2uXzD4?t=1893), stats)
+- He is worth more in points leagues than in category leagues. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=2030), [08-26](https://youtu.be/sTtFUy7IoJI?t=676), [08-30](https://youtu.be/Alwse2uXzD4?t=1874))
+- One expert does not like him as a player and calls him lazy on defense. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=563))
 
 **Tags**
-- Current: `new team` (Signed with Minnesota), `role up` (Expected starter, projected 28 to 29 minutes), `bad playoff schedule` (Minnesota two-game week starting March 15 (our week 20))
-- Durable: `FT% liability` (Projected about 69% FT), `points league player` (Scoring-only profile, tier 6 in points vs tier 8 in categories)
+- Current: `new team` (signed with Minnesota), `role up` (projected 28 to 29 minutes as a starter), `usage competition` (Anthony Edwards, LaMelo Ball, Jaden McDaniels), `bust candidate` (at a top 50 rank or round 4 price, not at his current near 1 USD price), `bad playoff schedule` (two-game week starting March 15), `winning team` (one expert predicts 53 wins), `low shutdown risk`, `thin rotation` (little frontcourt and bench depth)
+- Durable: `FT% liability` (about 69% FT on 3 to 4 attempts), `points league player` (tier 8 in categories, tier 6 in points), `stable starters` (Finch rarely changes starters unless someone is hurt)
 
-**Note.** The market has cooled on him: Yahoo has him at rank 129 for about 1 USD and ESPN at rank 185, which puts him at or below the last of our 144 roster spots. He cost 1 USD in our auction last season. In 9-cat he is a points-first forward with a clear FT% drag and weak defensive stats, so he fits only a punt FT% team that needs scoring, and Minnesota's two-game week in our playoffs lowers his value further. He is a 1 USD bench pick at most. Early in the season, check whether he keeps the starting job and the 28 or so minutes that ESPN's bigger projection (15.1 points) depends on.
+**Note.** Kuminga costs about 1 USD on Yahoo and ESPN, and he went for 1 USD in our league last season. His Yahoo rank of 129 puts him near the bottom of our 144 drafted players, so he is a last-dollar pick or a waiver option, not a target. The two projections differ a lot: ESPN sees 15.1 points in 27 minutes and Yahoo sees 11.6 points. His FT% hurts, so he fits best on a team that has already given up FT%. Early in the season, check that he keeps the starting job and gets 28 or more minutes. Also check whether his FG% gets back toward the 53 percent he shot in 2023-24.
 
-<sub>12 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>12 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

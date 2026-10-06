@@ -12,31 +12,32 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 
 **Current**
 - The projected starters are Fred VanVleet, Amen Thompson, Kevin Durant, Jabari Smith Jr. and Alperen Sengun. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=328), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357), stats)
-- More guard depth may push Durant and Tari Eason into forward roles. That would concentrate the frontcourt minutes. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=266))
-- The rotation is about 10 players deep, with Smart, Sheppard, Bogdanovic and Adams on the bench. The roster is thin after the top 10 or 11 players. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1621), [07-14](https://youtu.be/xHRF06_E9HE?t=1091), stats)
-- With our March 28 end date, the Rockets play 3, 3 and 4 games in weeks 19 to 21. That is 10 games with 2 back-to-back pairs, ranked 17th of 30. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970), stats)
-- This fantasy playoff schedule is weak. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
-- The Rockets have only 14 back-to-backs, so their starters carry a little less rest risk. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011), stats)
+- The extra guard depth may push Durant and Tari Eason into forward roles, which concentrates the frontcourt minutes. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=266))
+- The roster is thin after the top 10 or 11 players. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1621))
+- The fantasy playoff schedule is weak. With our March 28 end, Houston plays 3, 3 and 4 games in weeks 19 to 21, 10 in total, and has back-to-backs in weeks 20 and 21. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970), stats)
+- Houston has only 14 back-to-backs, which keeps rest risk for its players on the low side. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011), stats)
 - Reports from Rockets media day say Kevin Durant will play fewer minutes. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=357))
 - Houston controls Brooklyn's draft pick. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=145))
-- Reed Sheppard is pushed down the guard rotation. Under Udoka, Amen Thompson and Marcus Smart could take most of the point guard minutes ahead of him. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1968), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [09-10](https://youtu.be/W-R1dzem32s?t=1955))
-- With VanVleet back, Amen Thompson moves off point guard. (fact, 2026-09-16; [08-19](https://youtu.be/J1Eg3uaAICU?t=1169), [09-16](https://youtu.be/2A2JbUN-kc0?t=2262))
-- Udoka tends to limit Alperen Sengun's minutes. Because of the coach's defensive focus, other bigs sometimes play over him. (fact, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=2262), [09-07](https://youtu.be/E-KmhvyZ2CU?t=667))
-- The guard rotation is crowded. Fred VanVleet is back, and the Rockets added Marcus Smart and Bogdan Bogdanovic. (fact, 2026-09-15; [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [09-10](https://youtu.be/W-R1dzem32s?t=1955), [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
-- The Rockets are a strong team. One expert predicts 54 wins, and the win total of 47.5 ranks 9th of 30. Tanking is not a risk. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780), stats)
-- The team is expected to be conservative in the regular season and not chase seeding. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780))
+- Reed Sheppard is pushed down by the crowded guard group. Under Udoka, Amen Thompson and Marcus Smart could take most of the point guard minutes over him. (verdict, 2026-09-17; [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [09-10](https://youtu.be/W-R1dzem32s?t=1955), [09-17](https://youtu.be/DubdKKhMWHo?t=1968))
+- VanVleet is back, so Amen Thompson no longer plays point guard. (fact, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=2262), [08-19](https://youtu.be/J1Eg3uaAICU?t=1169))
+- Udoka tends to limit Sengun's minutes. Because the coach focuses on defense, other bigs sometimes play over him. (fact, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=2262), [09-07](https://youtu.be/E-KmhvyZ2CU?t=667))
+- The guard rotation is crowded. VanVleet returns, and the team added Marcus Smart and Bogdan Bogdanovic. (fact, 2026-09-15; [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090))
+- Houston is a winning team. One preview predicts 54 wins, and the win total of 47.5 ranks 9th of 30. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780), stats)
+- The team is expected to play it safe in the regular season and not chase seeding. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780))
+- The 10-man rotation has Smart, Sheppard, Bogdanovic and Steven Adams on the bench. (fact, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
 - With Steven Adams back, Jabari Smith Jr. plays more power forward than center. (fact, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
 
 **Durable**
 - Ime Udoka is a defense-first coach. He gives little room for error to players who struggle on defense. (fact, 2026-10-01; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1152), [10-01](https://youtu.be/aLP080hxizA?t=146))
-- Udoka plays his starters heavy minutes. (fact, 2026-10-01; [09-09](https://youtu.be/7BllEsdNLoM?t=2451), [10-01](https://youtu.be/aLP080hxizA?t=146))
-- Udoka's offense is basic, and he holds grudges against some players. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=146))
-- The team plays to maximize possessions. It limits turnovers and dominates the offensive glass to get second chances. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=944))
+- Udoka runs a basic offense. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=146))
+- Udoka holds grudges against some players. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=146))
+- Udoka plays his starters heavy minutes. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=146), [09-09](https://youtu.be/7BllEsdNLoM?t=2451))
+- The team's identity is maximizing possessions. It limits turnovers and dominates the offensive glass to get second chances. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=944))
 
 **Tags**
-- Current: `bad playoff schedule` (3-3-4 in weeks 19 to 21 with the March 28 end, 10 games, 2 back-to-back pairs, rank 17 of 30), `few back-to-backs` (14 back-to-backs, rank 12 of 30), `winning team` (Win total 47.5, rank 9 of 30; one expert predicts 54 wins)
-- Durable: `heavy starter minutes` (Ime Udoka plays his starters heavy minutes, though Durant and Sengun are expected to be held lower)
+- Current: `winning team` (Win total 47.5, rank 9 of 30. One preview predicts 54 wins.), `bad playoff schedule` (3, 3 and 4 games in weeks 19 to 21 (10 total, rank 17 of 30), with back-to-backs in weeks 20 and 21.), `few back-to-backs` (14 back-to-backs, rank 12 of 30.), `deep rotation` (The guard spots are crowded: VanVleet, Thompson, Smart, Sheppard and Bogdanovic. The roster is thin after the top 10 or 11.)
+- Durable: `defense-first` (Udoka gives little room for error to poor defenders. Other bigs sometimes play over Sengun.), `heavy starter minutes` (Durant is reported to play fewer minutes this season. Udoka limits Sengun's minutes.)
 
-**Note.** Houston is a strong defense-first team with a fixed starting five. Starters play heavy minutes, but Kevin Durant (fewer minutes reported at media day) and Alperen Sengun (often limited by Udoka) are the exceptions, and Reed Sheppard loses value in a crowded guard rotation behind VanVleet, Thompson and Smart. The 10-game fantasy playoff schedule is weak, so do not pay extra for Rockets. Early on, watch Durant's and Sengun's minutes and who plays backup point guard.
+**Note.** Udoka's defense-first rotation and heavy starter minutes favor Amen Thompson and the starting frontcourt. Reed Sheppard loses out in a crowded guard group with VanVleet, Smart and Bogdanovic, and Sengun and Durant both face minutes limits. The 10-game playoff schedule under our March 28 end is weak, so in the first weeks watch Durant's and Sengun's minutes and who gets the backup point guard minutes.
 
-<sub>21 notes. Built 2026-10-04 with claude-opus-5-5 high, team prompt v1.</sub>
+<sub>21 notes. Built 2026-10-05 with claude-opus-5-5 high, team prompt v1.</sub>

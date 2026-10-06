@@ -30,18 +30,19 @@
 </details>
 
 **Current**
-- Portland's backcourt is crowded with on-ball guards: Lillard, Morant and Henderson are back, with Avdija and others also handling the ball. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), [09-10](https://youtu.be/dlo7L8Ru91A?t=767), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825))
-- Portland is thin at forward. Avdija and Camara are basically the only forwards after the team lost Grant, Thybulle, Murray, Love and Wesley. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [06-29](https://youtu.be/bHA-JoW3reE?t=227))
-- He is not in Portland's projected starting five of Lillard, Morant, Camara, Avdija and Clingan. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=477))
-- Minutes and usage are expected to swing from game to game across Portland's rotation. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
+- Portland is crowded at guard. Damian Lillard, Ja Morant, Jrue Holiday, Deni Avdija and Scoot Henderson all handle the ball, and Shaedon Sharpe also comes off the bench. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [09-10](https://youtu.be/dlo7L8Ru91A?t=767), [07-07](https://youtu.be/ME-r173X5b0?t=1091))
+- Portland has a new head coach this season. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1559))
+- Portland's projected starting five is Lillard, Morant, Camara, Avdija and Clingan. Krejčí is not in it. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=477))
+- Portland is short on forwards. It lost Jerami Grant, Matisse Thybulle, Kris Murray, Caleb Love and Blake Wesley, and Avdija and Camara are basically its only forwards. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [06-29](https://youtu.be/bHA-JoW3reE?t=227))
+- Minutes and usage across Portland's rotation are expected to swing from game to game. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
 
 **Durable**
 - none
 
 **Tags**
-- Current: none
+- Current: `deep rotation` (Portland has a crowded guard group: Lillard, Morant, Holiday, Avdija, Henderson and Sharpe), `unsettled rotation` (Minutes and usage expected to swing from game to game in Portland), `new coach` (Portland has a new head coach)
 - Durable: none
 
-**Note.** He is not a draft target for us. Both Yahoo and ESPN value him at 0 USD, he ranks 280 on Yahoo and 201 on ESPN, and our 144-player draft will not reach him. The projections disagree a lot: Yahoo has him at 39.8% FG and ESPN has him at 49.6% FG with more minutes. No category stands out, so he fits no particular build. Early in the season, check whether Portland's thin forward group gives him steady minutes before you spend any FAB on him.
+**Note.** No expert note covers Krejčí. Both sites value him at 0 USD (Yahoo rank 280, ESPN rank 201), so he will not be one of the 144 players drafted in our league. The site projections disagree a lot (Yahoo 39.8% FG with 1.4 TO, ESPN 49.6% FG in 25.7 minutes), and he has no category that stands out. Watch on waivers early in the season to see whether Portland's lack of forwards gives him more than his usual 20 to 21 minutes.
 
-<sub>0 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>0 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

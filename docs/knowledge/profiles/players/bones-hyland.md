@@ -30,21 +30,23 @@
 </details>
 
 **Current**
-- Minnesota has a two-game week in the matchup that starts March 15, which falls inside our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
-- He is a bench scoring option. Ball, Edwards, McDaniels and Gobert are set as starters, and Kuminga is expected to take the fifth spot, with Josh Green as another option. (fact, 2026-08-26; [08-19](https://youtu.be/2mxpEpGU3H8?t=524), [08-19](https://youtu.be/2mxpEpGU3H8?t=603), [08-26](https://youtu.be/sTtFUy7IoJI?t=576))
-- Ben calls him a roll of the dice. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=524))
-- Minnesota's guard depth is thin. DiVincenzo will miss most of the season, Conley is gone, and the bench has little scoring punch. (fact, 2026-08-19; [06-22](https://youtu.be/HxQjagSTTAM?t=883), [06-23](https://youtu.be/9tb1ARBEmQU?t=263), [08-19](https://youtu.be/2mxpEpGU3H8?t=236), [08-19](https://youtu.be/2mxpEpGU3H8?t=845))
-- Ben rates Minnesota's fantasy playoff schedule the worst in the league. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1928))
-- He re-signed with Minnesota on a minimum contract. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1421))
-- He adds guard depth and was solid enough when he had to start. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1421))
+- He is not a draft target in our 144-player auction. He is a waiver option only if his bench role grows. (verdict, 2026-10-05; stats, [08-19](https://youtu.be/2mxpEpGU3H8?t=524))
+- Minnesota's four set starters are LaMelo Ball, Anthony Edwards, Jaden McDaniels and Rudy Gobert. Jonathan Kuminga and Josh Green are the names for the fifth spot. (fact, 2026-10-04; [08-19](https://youtu.be/2mxpEpGU3H8?t=603), [08-26](https://youtu.be/sTtFUy7IoJI?t=576), [10-04](https://youtu.be/n4KkK-OJjqA?t=669))
+- Minnesota's bench is thin, has little scoring punch and has no ball handlers. (fact, 2026-10-02; [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [10-02](https://youtu.be/ZYllcj4o6_A?t=2323))
+- Minnesota has a two-game week in the matchup starting March 15, which is week 20 of our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
+- He is expected to be a bench scoring option, but Ben calls him a roll of the dice. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=524))
+- Minnesota is short on guards: Donte DiVincenzo will miss most of the season and Mike Conley is gone. (fact, 2026-08-19; [06-22](https://youtu.be/HxQjagSTTAM?t=883), [06-23](https://youtu.be/9tb1ARBEmQU?t=263), [08-19](https://youtu.be/2mxpEpGU3H8?t=236))
+- Minnesota should be competitive. Ben predicts 53 wins, so the team should not rest players to tank. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1830), [07-13](https://youtu.be/Rqb5GdrSweY?t=1051))
+- He re-signed with Minnesota on a minimum contract as guard depth. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1421))
+- He was solid enough when he had to start. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1421))
 
 **Durable**
 - none
 
 **Tags**
-- Current: `bad playoff schedule` (Minnesota has a two-game week in the matchup starting March 15)
+- Current: `waiver watch` (Bench guard ranked outside the top 144 on both sites), `bad playoff schedule` (Two-game week in the matchup starting March 15 (week 20)), `thin rotation` (Thin bench with no other ball handlers; DiVincenzo out most of the season), `winning team` (Ben predicts 53 wins), `low shutdown risk` (Competitive team, not tanking)
 - Durable: none
 
-**Note.** Both sites price him at 0 USD (Yahoo rank 235, ESPN rank 283), and nobody drafted him in our league last season, so he is well outside our 144-player draft pool. He is a low-minute bench guard. His only plus category is low turnovers, and his FG% is unreliable: he shot 45.3% last season after two years under 40%, and Yahoo projects 40.0% against ESPN's 44.9%. Leave him on waivers and check early whether an injury to Minnesota's thin guard group gives him starter minutes. Even then, the two-game week in our playoffs limits his late-season value.
+**Note.** Hyland is not a draft pick for us. Yahoo ranks him 235, ESPN ranks him 283, both sites value him at 0 USD, and he went undrafted in our league last season. His projected line of about 8 points and 1.5 threes in 16 minutes has no strong category apart from a modest turnover edge. Watch him on waivers early in the season, because Minnesota's bench has no ball handlers and DiVincenzo is out, so he only has value if he takes on a bigger role. The two-game week starting March 15 also lowers his value in the fantasy playoffs.
 
-<sub>2 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

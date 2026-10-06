@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 29 | 18.0 | 30 | 13 | 7.3 | 46 | 20 |
+| 2026-27 | 29 | 18.0 | 30 | 13 | 7.4 | 46 | 20 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,23 +30,26 @@
 </details>
 
 **Current**
-- He is projected to start for the Pelicans next to Zion Williamson, Dejounte Murray and likely Yves Missi. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
-- Last season he took on a bigger usage load while Dejounte Murray, Herb Jones and others were out. Murray is back and will have the ball in his hands. (fact, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=486), [09-10](https://youtu.be/W-R1dzem32s?t=936), [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
-- Experts expect his usage to drop with Murray back, and his minutes may come down from about 36 per game. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=486), [09-21](https://youtu.be/egRrai3Ax38?t=1522), [09-10](https://youtu.be/W-R1dzem32s?t=936))
-- Experts say 9-cat rankings that put him around 12th or in the top 20 rate him too high. One calls his Yahoo rank of 35 too high, and another says he tends to go too early. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=486), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2367), [09-10](https://youtu.be/W-R1dzem32s?t=936), [09-10](https://youtu.be/dlo7L8Ru91A?t=1028))
-- Experts disagree on a price in the 30s. Some call an ADP around 36 about right and see a pick in the 30s as good value in category leagues. Others say a Yahoo rank of 35 is too high. One expert ranks him 22nd in 8-cat roto. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=486), [09-16](https://youtu.be/2A2JbUN-kc0?t=2426), [09-10](https://youtu.be/W-R1dzem32s?t=936), [08-24](https://youtu.be/g31YlwRe0XQ?t=795), [08-11](https://youtu.be/OdDkXFhoKsc?t=876))
-- His ESPN rank of 45 and ESPN ADP of 77 are too low. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1522), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2367))
-- The Pelicans have a crowded rotation of about eight players who could start, but he is basically the team's only floor spacer. (fact, 2026-09-04; [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1477), [08-03](https://youtu.be/5QU-jta-lWM?t=499))
-- The Pelicans reportedly want about three first-round picks and a young player for him. His team-friendly contract puts his trade value at its peak. (fact, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1946))
+- His fair auction price is in the mid 20s USD. 21 USD is good value, and he is sometimes overrated. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2807))
+- He is locked into the Pelicans starting lineup with Dejounte Murray and Zion Williamson. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=530), [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
+- Much of last season's usage came while Dejounte Murray, Herb Jones and others were out. Murray is expected to have the ball in his hands this season. (fact, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=486), [09-10](https://youtu.be/W-R1dzem32s?t=936))
+- His usage and his minutes (about 36 per game last season) are expected to drop. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=486), [09-10](https://youtu.be/W-R1dzem32s?t=936), [09-21](https://youtu.be/egRrai3Ax38?t=1522))
+- Experts disagree on his rank. One ranks him 22nd in 8-cat roto. Others call 9-cat rankings around 12th to 20th absurd and say his Yahoo rank near 35 is too high. (verdict, 2026-09-22; [09-16](https://youtu.be/2A2JbUN-kc0?t=2426), [09-10](https://youtu.be/W-R1dzem32s?t=936), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2367), [09-22](https://youtu.be/QbdrhJd7LiA?t=486), [09-10](https://youtu.be/dlo7L8Ru91A?t=1028))
+- His ESPN rank of 45 and ESPN ADP of 77 are too low. (verdict, 2026-09-21; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2367), [09-21](https://youtu.be/egRrai3Ax38?t=1522))
+- New coach Jamahl Mosley brings a defense-first identity to a crowded rotation of about eight players who could start. (fact, 2026-09-04; [08-03](https://youtu.be/5QU-jta-lWM?t=1459), [09-04](https://youtu.be/gerS7ibpaJo?t=1168), [09-04](https://youtu.be/gerS7ibpaJo?t=1477), [07-17](https://youtu.be/NYTH7uQsPCM?t=636))
+- The Pelicans reportedly want about three first-round picks and a young player in a trade for him. (fact, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1946))
+- His trade value is at its peak because of his team-friendly contract. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1946))
+- The Pelicans lack shooting, and he is basically their only floor spacer. (fact, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=499))
+- The Pelicans are projected to win about 34 games and miss the playoffs, near the bottom of the West. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1765), [07-27](https://youtu.be/0AptxcRW0RE?t=2060))
 
 **Durable**
-- His projected category line has no weak category. FT%, 3PM, points and steals are his best categories. (fact, 2026-10-04; stats)
-- Lloyd says he is worth more in category leagues than in points leagues. (verdict, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=795))
+- He has no weak category. His best categories are threes, FT% on good volume, points and steals. (fact, 2026-10-05; stats)
+- He is worth more in category leagues than in points leagues. (verdict, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=795))
 
 **Tags**
-- Current: `role down` (Dejounte Murray back with the ball; minutes may drop from about 36), `trade risk` (Pelicans reportedly ask about three first-round picks and a young player), `bust candidate` (9-cat top-20 rankings and Yahoo rank 35 called too high), `sleeper` (ESPN only: rank 45 and ADP 77 called too low), `sites disagree on price` (Yahoo value 29 USD (rank 30) vs ESPN value 13 USD (rank 46))
-- Durable: `fits every build` (no weak category; best in FT%, 3PM, PTS and STL)
+- Current: `role down` (usage and minutes expected to drop with Dejounte Murray back), `usage competition` (Dejounte Murray will have the ball in his hands), `trade risk` (Pelicans reportedly ask about three firsts and a young player), `sites disagree on price` (Yahoo value 29 USD vs ESPN 13 USD), `bottom team` (about 34 wins projected, bottom of the West), `new coach` (Jamahl Mosley), `deep rotation` (about eight players who could start)
+- Durable: `fits every build` (no weak category; best in 3PM, FT%, PTS, STL), `category league player` (great value at pick 37 in category leagues, less so in points), `defense-first` (Mosley's defense-first identity)
 
-**Note.** He went for 20 USD in our league last season. Yahoo values him at 29 USD (average cost 18) and ESPN at 13 USD, which lines up with the expert view: a fair pick in the 30s to 40s, not a top-20 player. Because he has no weak category he fits any build, so 18 to 22 USD is a reasonable target, but I would not pay the Yahoo value of 29 USD. Early in the season, check his shot volume and minutes now that Dejounte Murray is back, and follow trade news before the 2027-03-04 deadline.
+**Note.** He is a solid category player with no weak category, so he fits any build. He helps most in threes, FT% on good volume, points and steals. Experts price him in the mid 20s USD (Josh paid 21 USD). Yahoo values him at 29 USD, ESPN at 13 USD, and he cost 20 USD in our league last season, so a target of about 20 to 25 USD makes sense and anything near 30 USD is too much. Early in the season, check how his shots and minutes hold up with Dejounte Murray healthy under new coach Mosley, and watch for trade news.
 
-<sub>11 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>12 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

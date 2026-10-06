@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "a8bee406966f",
+ "input_sha": "d57f1d325eb2",
  "note_count": 5,
- "built_at": "2026-10-04T17:21:45+00:00",
+ "built_at": "2026-10-05T19:41:44+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.12384619999999999,
-  "duration_ms": 33403
+  "cost_usd_list": 0.157472,
+  "duration_ms": 33491,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Oklahoma City traded him to Atlanta this offseason.",
+   "text": "The Thunder traded him to the Hawks this offseason.",
    "kind": "fact",
    "date": "2026-07-26",
    "until": "",
@@ -29,7 +31,7 @@
    ]
   },
   {
-   "text": "He is expected to come off the bench, likely as the seventh man in a 10-man rotation behind the five projected starters.",
+   "text": "He is expected to come off the bench in a 10-man rotation, likely as the seventh man.",
    "kind": "verdict",
    "date": "2026-09-25",
    "until": "",
@@ -40,17 +42,26 @@
    ]
   },
   {
-   "text": "Lu Dort competes with him for the backup wing minutes. Wiggins is the cleaner fit as a backup 2/3 and the better shooter, and he could pass Dort in minutes by the end of the season.",
+   "text": "Atlanta's bench is deep. Dort, Landale, Flemings, Newell, Kispert and Finney-Smith all compete for the same bench minutes.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t2",
+    "W3THnI7wWdA:t6"
+   ]
+  },
+  {
+   "text": "He fits better than Lu Dort as a backup shooting guard or small forward because he is the better shooter. There is a chance he passes Dort in minutes by the end of the season.",
    "kind": "verdict",
    "date": "2026-08-25",
    "until": "",
    "sources": [
-    "H9q2FT3LhNw:p22",
-    "4gw4W4RTolY:t2"
+    "H9q2FT3LhNw:p22"
    ]
   },
   {
-   "text": "Several Atlanta starters handle the ball, so Dort or Wiggins can step into the minutes of any starter who misses time.",
+   "text": "Several Atlanta starters handle the ball, so Wiggins or Dort can step in when one of them misses time.",
    "kind": "verdict",
    "date": "2026-09-25",
    "until": "",
@@ -59,7 +70,7 @@
    ]
   },
   {
-   "text": "Lloyd says a Yahoo rank of 187 is too high for him. He also thinks his good fantasy reputation from OKC was somewhat unfounded.",
+   "text": "Lloyd says a Yahoo rank of 187 is too high for him. He also says the good reputation he built in OKC was somewhat unfounded.",
    "kind": "verdict",
    "date": "2026-09-25",
    "until": "",
@@ -68,32 +79,43 @@
    ]
   },
   {
-   "text": "Atlanta plays 4, 4 and 3 games in our playoff weeks 19 to 21. The team has 14 back-to-backs and does not tend to rest players.",
+   "text": "With a March 28 end, Atlanta plays 4, 4 and 3 games in the fantasy playoff weeks. The team has 14 back-to-backs and is not expected to rest or shut down players.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
    "sources": [
-    "4gw4W4RTolY:t6"
+    "4gw4W4RTolY:t6",
+    "xHRF06_E9HE:t0"
    ]
   }
  ],
  "durable": [
   {
-   "text": "His shot dropped off last season, but historically he has been a much better shooter.",
-   "kind": "fact",
-   "date": "2026-08-25",
+   "text": "He is a good regular-season player.",
+   "kind": "verdict",
+   "date": "2026-07-26",
    "until": "",
    "sources": [
-    "H9q2FT3LhNw:p23"
+    "75Sk_4fkgIM:p19"
    ]
   },
   {
-   "text": "He was a good regular-season player in OKC who kept falling out of the playoff rotation.",
+   "text": "He fell out of OKC's playoff rotation more than once.",
    "kind": "fact",
    "date": "2026-07-26",
    "until": "",
    "sources": [
     "75Sk_4fkgIM:p19"
+   ]
+  },
+  {
+   "text": "His career shooting record is much better than his poor shooting last season.",
+   "kind": "fact",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:p23",
+    "stats"
    ]
   }
  ],
@@ -112,7 +134,7 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Competes with Lu Dort for backup 2/3 minutes",
+   "detail": "Competes with Lu Dort for backup wing minutes",
    "until": "",
    "sources": [
     "H9q2FT3LhNw:p22",
@@ -121,38 +143,40 @@
    "new_meaning": ""
   },
   {
-   "name": "handcuff",
+   "name": "deep rotation",
    "channel": "current",
-   "detail": "Can take over the minutes of any ball-handling Atlanta starter who is out",
+   "detail": "10-man ATL rotation with a crowded bench",
    "until": "",
    "sources": [
-    "4gw4W4RTolY:t4"
+    "4gw4W4RTolY:t2",
+    "W3THnI7wWdA:t6"
    ],
    "new_meaning": ""
   },
   {
    "name": "waiver watch",
    "channel": "current",
-   "detail": "Ranked outside our 144-player draft pool; watch whether he passes Dort in minutes",
+   "detail": "Ranked outside the drafted pool. Gains value if he passes Dort or an ATL guard or wing starter misses time.",
    "until": "",
    "sources": [
-    "stats",
+    "4gw4W4RTolY:p18",
     "H9q2FT3LhNw:p22",
-    "4gw4W4RTolY:p18"
+    "4gw4W4RTolY:t4"
    ],
    "new_meaning": ""
   },
   {
-   "name": "fits every build",
-   "channel": "durable",
-   "detail": "No weak category, but no strong one either",
+   "name": "low shutdown risk",
+   "channel": "current",
+   "detail": "ATL is not expected to rest or shut down players",
    "until": "",
    "sources": [
-    "stats"
+    "4gw4W4RTolY:t6",
+    "xHRF06_E9HE:t0"
    ],
    "new_meaning": ""
   }
  ],
- "note": "With a Yahoo rank of 272, an ESPN rank of 227 and 0 USD values on both sites, Aaron Wiggins is not a draft target in our 144-player auction, and Lloyd thinks even a top-200 rank is too high for him. Treat him as a waiver option, not a draft pick. Early in the season, check whether his shooting recovers (43.1% FG last season against 48.8% in 2024-25), whether he takes minutes from Dort, and whether a starter injury hands him more than his bench role, which projects to about 20 minutes.",
+ "note": "He is not a draft target in our league. Both sites value him at 0 USD, he ranks 272 on Yahoo and 227 on ESPN, and he went undrafted in our league last season. That puts him well outside the 144 players we draft, and Lloyd thinks he will be a seventh man. His projected line has no weak category flags, but it has no strong ones either, so he adds little to any build. Watch two things early on waivers: whether his FG% returns to his career level (Yahoo projects 44.2%, ESPN 48.7%), and whether he takes minutes from Dort or fills in when an Atlanta guard or wing is hurt.",
  "rejected": []
 }

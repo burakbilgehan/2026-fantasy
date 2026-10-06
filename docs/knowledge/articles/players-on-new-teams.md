@@ -49,15 +49,15 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 58.8 | 20 | 61.4 | 62 | A move usually means a dip, but Miami's lack of ball handlers could raise his assists, so he stays the anchor of a punt FT% and TO build if he plays 32 or more minutes. |
+| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 58.8 | 20 | 62.1 | 62 | A move usually means a dip, but Miami's lack of ball handlers could raise his assists, so he stays the anchor of a punt FT% and TO build if he plays 32 or more minutes. |
 
 ### Value at price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Naz Reid](../profiles/players/naz-reid.md) | CHA | F,C | 59 | 4.2 | 37 | 7.6 | 2 | The trade to Charlotte should raise his minutes, the one thing that offsets a year-one dip, and the market still prices him far below his value. |
-| [Paul George](../profiles/players/paul-george.md) | BOS | F | 79 | 2.4 | 91 | 2.5 | 9 | As Boston's projected number two option his usage could rise, and the market prices him far below the top 40 per game finish experts expect. |
-| [Kel'el Ware](../profiles/players/kelel-ware.md) | MIL | C | 71 | 4.6 | 67 | 2.6 | 5 | Milwaukee may start him at power forward next to Turner, and 30 minutes would unlock top 40 upside at a cheap price. |
+| [Naz Reid](../profiles/players/naz-reid.md) | CHA | F,C | 59 | 4.2 | 37 | 7.7 | 2 | The trade to Charlotte should raise his minutes, the one thing that offsets a year-one dip, and the market still prices him far below his value. |
+| [Paul George](../profiles/players/paul-george.md) | BOS | F | 79 | 2.4 | 91 | 2.7 | 9 | As Boston's projected number two option his usage could rise, and the market prices him far below the top 40 per game finish experts expect. |
+| [Kel'el Ware](../profiles/players/kelel-ware.md) | MIL | C | 71 | 4.6 | 67 | 2.5 | 5 | Milwaukee may start him at power forward next to Turner, and 30 minutes would unlock top 40 upside at a cheap price. |
 | [Tyler Herro](../profiles/players/tyler-herro.md) | MIL | G | 68 | 5.4 | 63 | 7.4 | 14 | Milwaukee's crowded backcourt next to Rollins could cap his usage, but his FT%, threes and points fit any build at about 12 to 16 USD if he stays healthy. |
 | [Julius Randle](../profiles/players/julius-randle.md) | BKN | F | 73 | 8.2 | 86 | 8.6 | 10 | Brooklyn should give him about 30% usage and 32 minutes, which makes him a mid-priced punt TO starter if both show up. |
 
@@ -65,38 +65,38 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [LaMelo Ball](../profiles/players/lamelo-ball.md) | MIN | G | 24 | 30.2 | 22 | 26.6 | 29 | Sharing the ball with Edwards in Minnesota could cut his assists, and with ankle risk and a two-game playoff week, stop near the low end of his range. |
+| [LaMelo Ball](../profiles/players/lamelo-ball.md) | MIN | G | 24 | 30.2 | 22 | 27.2 | 29 | Sharing the ball with Edwards in Minnesota could cut his assists, and with ankle risk and a two-game playoff week, stop near the low end of his range. |
 | [Kawhi Leonard](../profiles/players/kawhi-leonard.md) | TOR | G,F | 37 | 32.6 | 18 | 26.0 | 20 | Toronto gives him Ingram's spot, but his knee and load management set his price, so stay in the low to mid 20s. |
-| [LeBron James](../profiles/players/lebron-james.md) | PHI | F | 40 | 21.4 | 73 | 17.8 | 22 | Joining a crowded Philadelphia core points to a year-one dip, though a point guard role could push his assists toward 8, so stay near 15 to 20 USD. |
-| [Jaylen Brown](../profiles/players/jaylen-brown.md) | PHI | G,F | 44 | 24.2 | 62 | 19.0 | 29 | He moves into a smaller role next to Embiid, LeBron and Maxey, the classic year-one dip setup, so do not repeat last season's price. |
-| [Walker Kessler](../profiles/players/walker-kessler.md) | LAL | C | 41 | 18.8 | 45 | 8.5 | 15 | Starting center minutes with the Lakers are a real role gain, but experts think his Yahoo price is too high, so stop near 15 USD. |
-| [Norman Powell](../profiles/players/norman-powell.md) | CHI | G,F | 87 | 1.8 | 64 | 4.0 | 8 | Leading Chicago in usage is his upside, but experts see more downside than upside, so stay at about 7 to 9 USD. |
+| [LeBron James](../profiles/players/lebron-james.md) | PHI | F | 40 | 21.4 | 73 | 17.6 | 22 | Joining a crowded Philadelphia core points to a year-one dip, though a point guard role could push his assists toward 8, so stay near 15 to 20 USD. |
+| [Jaylen Brown](../profiles/players/jaylen-brown.md) | PHI | G,F | 44 | 24.2 | 62 | 18.8 | 29 | He moves into a smaller role next to Embiid, LeBron and Maxey, the classic year-one dip setup, so do not repeat last season's price. |
+| [Walker Kessler](../profiles/players/walker-kessler.md) | LAL | C | 41 | 18.8 | 45 | 8.4 | 15 | Starting center minutes with the Lakers are a real role gain, but experts think his Yahoo price is too high, so stop near 15 USD. |
+| [Norman Powell](../profiles/players/norman-powell.md) | CHI | G,F | 87 | 1.8 | 64 | 4.2 | 8 | Leading Chicago in usage is his upside, but experts see more downside than upside, so stay at about 7 to 9 USD. |
 
 ### Late flyers
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
 | [Brandon Ingram](../profiles/players/brandon-ingram.md) | LAC | G,F | 66 | 3.2 | 79 | 4.4 | 16 | The Achilles injury, not the trade, drives his price, so he is a few-dollar IL stash, and while he is out his Clippers teammates get more minutes. |
-| [Ja Morant](../profiles/players/ja-morant.md) | POR | G | 93 | 2.6 | 133 | 3.9 | 17 | Sharing the ball with Lillard in Portland could cut his assists, so he is a 3 to 5 USD flyer, not last season's price. |
-| [Miles Bridges](../profiles/players/miles-bridges.md) | PHX | F | 100 | 2.4 | 76 | 2.4 | 11 | More scorers in Phoenix could cut his shot volume, so he is only worth a 1 to 3 USD bench spot. |
+| [Ja Morant](../profiles/players/ja-morant.md) | POR | G | 93 | 2.6 | 133 | 4.3 | 17 | Sharing the ball with Lillard in Portland could cut his assists, so he is a 3 to 5 USD flyer, not last season's price. |
+| [Miles Bridges](../profiles/players/miles-bridges.md) | PHX | F | 100 | 2.4 | 76 | 2.6 | 11 | More scorers in Phoenix could cut his shot volume, so he is only worth a 1 to 3 USD bench spot. |
 | [Nic Claxton](../profiles/players/nic-claxton.md) | CHI | C | 89 | 2.6 | 119 | 1.0 | 4 | Chicago could give him close to 30 minutes ahead of Jalen Smith and Zach Collins, which makes him a 1 to 3 USD blocks flyer for punt FT%. |
-| [John Collins](../profiles/players/john-collins.md) | DET | F,C | 112 | 1.0 | 99 | 1.1 | 7 | He lost his Clippers starting job and needs about 31 minutes in Detroit to be worth more than an end-of-draft dollar. |
-| [DeMar DeRozan](../profiles/players/demar-derozan.md) | DEN | F | 102 | 1.5 | 102 | 1.9 | 10 | A bench role in Denver means fewer minutes, so he is a 1 to 3 USD pick unless Braun or Cam Johnson goes down. |
+| [John Collins](../profiles/players/john-collins.md) | DET | F,C | 112 | 1.0 | 99 | 1.2 | 7 | He lost his Clippers starting job and needs about 31 minutes in Detroit to be worth more than an end-of-draft dollar. |
+| [DeMar DeRozan](../profiles/players/demar-derozan.md) | DEN | F | 102 | 1.5 | 102 | 2.0 | 10 | A bench role in Denver means fewer minutes, so he is a 1 to 3 USD pick unless Braun or Cam Johnson goes down. |
 | [Nikola Vučević](../profiles/players/nikola-vucevic.md) | ORL | C | 177 | 0.0 | 103 | 1.1 | 17 | Backing up in Orlando is a big minutes drop from last season, so pay 1 to 2 USD at most. |
 | [Peyton Watson](../profiles/players/peyton-watson.md) | CLE | F | 107 | 1.0 | 104 | 0.9 | not drafted | Cleveland gives him a minutes floor and forward blocks, but he shares the frontcourt with Mobley and Allen, so keep him at 1 to 4 USD. |
-| [Tobias Harris](../profiles/players/tobias-harris.md) | SAS | F | 151 | 0.0 | 94 | 0.9 | 1 | In a deep Spurs rotation he is a 1 USD filler, and he goes to waivers if he loses the starting power forward spot. |
-| [Rui Hachimura](../profiles/players/rui-hachimura.md) | LAC | F | 121 | 1.0 | 197 | 0.1 | not drafted | He replaces Collins as the Clippers' starting power forward and may take more shots while Ingram is out, but he is a 1 USD flyer at most. |
+| [Tobias Harris](../profiles/players/tobias-harris.md) | SAS | F | 151 | 0.0 | 94 | 1.0 | 1 | In a deep Spurs rotation he is a 1 USD filler, and he goes to waivers if he loses the starting power forward spot. |
+| [Rui Hachimura](../profiles/players/rui-hachimura.md) | LAC | F | 121 | 1.0 | 197 | 0.2 | not drafted | He replaces Collins as the Clippers' starting power forward and may take more shots while Ingram is out, but he is a 1 USD flyer at most. |
 | [Jonathan Kuminga](../profiles/players/jonathan-kuminga.md) | MIN | F | 129 | 1.0 | 185 | 0.4 | 1 | He needs to keep the starting job and about 28 minutes in Minnesota, so he is a 1 USD punt FT% bench pick at most. |
 | [Sandro Mamukelashvili](../profiles/players/sandro-mamukelashvili.md) | LAL | F,C | 139 | 1.0 | - | 0.0 | not drafted | With the Lakers his value depends on starting or getting about 27 bench minutes, so he is a 1 to 2 USD last-round flyer. |
-| [Jaime Jaquez Jr.](../profiles/players/jaime-jaquez.md) | MIL | G,F | 140 | 1.0 | 148 | 0.8 | not drafted | Milwaukee's rebuilt roster makes his role and even his team uncertain, so he is a last-dollar pick for punt 3PM. |
-| [Isaiah Stewart](../profiles/players/isaiah-stewart.md) | MEM | F,C | 174 | 0.0 | 146 | 0.0 | not drafted | His value in Memphis depends on Zach Edey's foot, so take him for 1 USD only if Edey stays out. |
+| [Jaime Jaquez Jr.](../profiles/players/jaime-jaquez.md) | MIL | G,F | 140 | 1.0 | 148 | 0.9 | not drafted | Milwaukee's rebuilt roster makes his role and even his team uncertain, so he is a last-dollar pick for punt 3PM. |
+| [Isaiah Stewart](../profiles/players/isaiah-stewart.md) | MEM | F,C | 174 | 0.0 | 146 | 0.1 | not drafted | His value in Memphis depends on Zach Edey's foot, so take him for 1 USD only if Edey stays out. |
 
 ### Waivers only
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
 | [Mitchell Robinson](../profiles/players/mitchell-robinson.md) | BOS | C | 178 | 0.0 | 115 | 0.3 | not drafted | Queta likely starts and Robinson is expected to sit every back-to-back in Boston, so he is closer to a stream or stash than a draft target. |
-| [Bobby Portis Jr.](../profiles/players/bobby-portis.md) | MIA | F,C | 161 | 0.0 | 170 | 0.0 | 2 | Minutes behind Adebayo and Giannis limit him in Miami, so expect him to go undrafted or for 1 USD. |
+| [Bobby Portis Jr.](../profiles/players/bobby-portis.md) | MIA | F,C | 161 | 0.0 | 170 | 0.1 | 2 | Minutes behind Adebayo and Giannis limit him in Miami, so expect him to go undrafted or for 1 USD. |
 | [Max Strus](../profiles/players/max-strus.md) | LAC | F | 209 | - | 204 | 0.0 | not drafted | He gets a Clippers chance while Ingram is out, but he needs about 32 minutes and 4 assists to be more than a 1 USD flyer. |
 | [Royce O'Neale](../profiles/players/royce-oneale.md) | CHA | F | 216 | - | 155 | 0.0 | not drafted | A bench role in Charlotte leaves him as a low-turnover threes option on waivers unless his power forward minutes grow. |
 | [Bennedict Mathurin](../profiles/players/bennedict-mathurin.md) | NOP | G,F | 156 | 0.0 | 187 | 0.1 | 4 | Yahoo projects a bench role in New Orleans and ESPN projects his old workload, so add him only if he nears 30 minutes. |
@@ -114,7 +114,7 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 | [Andre Drummond](../profiles/players/andre-drummond.md) | NYK | C | 211 | 0.0 | 251 | 0.0 | not drafted | He is a Towns handcuff in New York, and his role grows to about 29 minutes only if Towns misses time. |
 | [Gradey Dick](../profiles/players/gradey-dick.md) | LAC | G,F | 239 | - | 211 | 0.1 | not drafted | Leave him on waivers unless the Clippers' trial rotations give him steady minutes. |
 | [Marcus Smart](../profiles/players/marcus-smart.md) | HOU | G | 218 | - | 247 | 0.0 | not drafted | He needs the top bench role under Udoka in Houston, plus nights when VanVleet sits, to have streaming value. |
-| [Luke Kennard](../profiles/players/luke-kennard.md) | PHX | G,F | 259 | 0.0 | 220 | 0.0 | not drafted | He becomes a threes streamer only if Phoenix gives him about eight three-point attempts off the bench. |
+| [Luke Kennard](../profiles/players/luke-kennard.md) | PHX | G,F | 259 | 0.0 | 220 | 0.1 | not drafted | He becomes a threes streamer only if Phoenix gives him about eight three-point attempts off the bench. |
 | [Ziaire Williams](../profiles/players/ziaire-williams.md) | LAL | G,F | 271 | - | 222 | 0.0 | not drafted | He is a steals and low-TO streamer only if he wins a Lakers starting spot and tops last season's 22.9 minutes. |
 | [Aaron Wiggins](../profiles/players/aaron-wiggins.md) | ATL | G,F | 272 | 0.0 | 227 | 0.0 | not drafted | A bench role near 20 minutes in Atlanta leaves him on waivers unless his shooting recovers or a starter gets hurt. |
 | [Kasparas Jakučionis](../profiles/players/kasparas-jakucionis.md) | MIL | G | 342 | - | 242 | 0.0 | not drafted | Milwaukee's crowded backcourt gives him no clear minutes, so wait for a role or a trade before adding him. |

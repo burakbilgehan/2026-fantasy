@@ -8,126 +8,128 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "03494aa17aef",
- "note_count": 14,
- "built_at": "2026-10-04T17:44:05+00:00",
+ "input_sha": "08cd9eb8f644",
+ "note_count": 15,
+ "built_at": "2026-10-05T19:58:48+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1438062,
-  "duration_ms": 35419
+  "cost_usd_list": 0.1667582,
+  "duration_ms": 41106,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Milwaukee traded for Kel'el Ware, a center who can take some of Turner's minutes.",
+   "text": "He is expected to start at center. Milwaukee's projected starters are Rollins, Herro, Jaquez, Ware and Turner.",
    "kind": "fact",
-   "date": "2026-09-19",
-   "until": "",
-   "sources": [
-    "t4n9MAP2_14:p53",
-    "uarqbNA2dFk:p22"
-   ]
-  },
-  {
-   "text": "Doc Rivers is no longer the Milwaukee coach. Taylor Jenkins is the new coach. Experts blame Rivers for much of Turner's bad 2025-26 season.",
-   "kind": "fact",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "nnWX_ObljOE:t3",
-    "t4n9MAP2_14:t1",
-    "t4n9MAP2_14:p53",
-    "-KS_AZjZnw4:p16",
-    "owlM6b8oUd0:p12"
-   ]
-  },
-  {
-   "text": "He is expected to start next to Ware. Milwaukee is weak at power forward and will likely start a center at the four.",
-   "kind": "verdict",
    "date": "2026-08-14",
    "until": "",
    "sources": [
     "owlM6b8oUd0:p14",
-    "owlM6b8oUd0:t1",
-    "owlM6b8oUd0:t2",
-    "-KS_AZjZnw4:t2"
+    "owlM6b8oUd0:t2"
    ]
   },
   {
-   "text": "It is unclear how Jenkins will split the frontcourt minutes. One expert thinks Turner is still better than Ware. Another thinks Ware may limit his minutes.",
+   "text": "Milwaukee traded for Kel'el Ware, another center. Power forward is the team's weakest position, so the team will likely start a center at the four.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p53",
+    "owlM6b8oUd0:t1"
+   ]
+  },
+  {
+   "text": "Ware may limit his minutes, and his outlook would be better without Ware on the roster. Other experts think Turner and Ware can play together and that Turner is still the better player.",
    "kind": "verdict",
    "date": "2026-09-19",
    "until": "",
    "sources": [
-    "nnWX_ObljOE:p13",
-    "t4n9MAP2_14:t1",
-    "uarqbNA2dFk:p22"
+    "uarqbNA2dFk:p22",
+    "t4n9MAP2_14:p53",
+    "-KS_AZjZnw4:t2",
+    "nnWX_ObljOE:p13"
    ]
   },
   {
-   "text": "Experts disagree on a bounce-back. One calls him a strong bounce-back candidate with top-60 upside and about 29 minutes per game. Another says he should not be written off. A third says that at 30 he may simply be washed.",
+   "text": "Doc Rivers, who often benched him for Jericho Sims, is no longer the coach. Taylor Jenkins is the new coach.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p12",
+    "nnWX_ObljOE:p13",
+    "nnWX_ObljOE:t3",
+    "t4n9MAP2_14:t1",
+    "-KS_AZjZnw4:p16"
+   ]
+  },
+  {
+   "text": "He is a strong bounce-back candidate and should not be written off. His minutes should rise to about 29, with 14 points, 6 rebounds, 2 threes and 2 blocks a reasonable target and top-60 upside.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
    "sources": [
     "-KS_AZjZnw4:p19",
     "-KS_AZjZnw4:p20",
+    "ZYllcj4o6_A:p36"
+   ]
+  },
+  {
+   "text": "Experts call him fair value around pick 120 to 128 and too expensive near picks 86 to 100. In an auction mock Josh valued him at 1 to 3 USD, and he went for 6 USD.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p72",
     "ZYllcj4o6_A:p36",
+    "BjXP9JODDSg:p44",
     "uarqbNA2dFk:p22"
    ]
   },
   {
-   "text": "A reasonable target line is 14 points, 6 rebounds, 2 threes and 2 blocks per game.",
-   "kind": "verdict",
-   "date": "2026-07-20",
+   "text": "Milwaukee is expected to be a bad team but does not own its draft pick, so it has no reason to tank.",
+   "kind": "fact",
+   "date": "2026-08-14",
    "until": "",
    "sources": [
-    "-KS_AZjZnw4:p20"
-   ]
-  },
-  {
-   "text": "Experts say he is not worth a top-100 pick. At ADP 97 he is overvalued, and pick 86 is too early. Taking him around pick 120 to 128 is fine.",
-   "kind": "verdict",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:p36",
-    "BjXP9JODDSg:p44",
-    "uarqbNA2dFk:p22",
-    "-KS_AZjZnw4:p19"
+    "owlM6b8oUd0:t4",
+    "sfCe7fS9daM:t8",
+    "Rqb5GdrSweY:t0"
    ]
   }
  ],
  "durable": [
   {
-   "text": "His blocks are a real outlier against the top 250 pool.",
+   "text": "Blocks are his standout category, clearly above the top 250 pool.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He makes about 2 threes per game, which is high for a center.",
+   "text": "He makes about 2 threes per game, many for a center.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "His FG% is low for a center.",
-   "kind": "fact",
-   "date": "2026-10-04",
+   "text": "His FG% is weak for a center, so he fits a punt FG% build.",
+   "kind": "verdict",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He needs good point guard play in the pick and roll. When he is parked in the corner, he is not used well.",
+   "text": "He needs good point guard play in the pick and roll. When he is mostly parked in the corner, he is not used well.",
    "kind": "verdict",
    "date": "2026-08-14",
    "until": "",
@@ -157,9 +159,19 @@
    "new_meaning": ""
   },
   {
+   "name": "3PM from a big",
+   "channel": "durable",
+   "detail": "about 2 threes per game as a center",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "punt FG fit",
    "channel": "durable",
-   "detail": "FG% low for a center",
+   "detail": "projected FG% near 46%, low for a center",
    "until": "",
    "sources": [
     "stats"
@@ -177,9 +189,19 @@
    "new_meaning": ""
   },
   {
+   "name": "category league player",
+   "channel": "durable",
+   "detail": "worth less in points leagues",
+   "until": "",
+   "sources": [
+    "80kfLVnFQ_s:p48"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "bounce-back",
    "channel": "current",
-   "detail": "after a bad 2025-26 under Doc Rivers; experts disagree",
+   "detail": "worst season of his career under Doc Rivers; top-60 upside with about 29 minutes",
    "until": "",
    "sources": [
     "-KS_AZjZnw4:p19",
@@ -191,37 +213,50 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Kel'el Ware",
+   "detail": "Kel'el Ware, also projected to start",
    "until": "",
    "sources": [
-    "t4n9MAP2_14:p53",
     "uarqbNA2dFk:p22",
-    "t4n9MAP2_14:t1"
+    "t4n9MAP2_14:p53"
    ],
    "new_meaning": ""
   },
   {
-   "name": "bust candidate",
+   "name": "new coach",
    "channel": "current",
-   "detail": "at a top-100 price (ADP 97)",
+   "detail": "Taylor Jenkins replaced Doc Rivers",
    "until": "",
    "sources": [
-    "uarqbNA2dFk:p22",
-    "BjXP9JODDSg:p44"
+    "t4n9MAP2_14:t1",
+    "nnWX_ObljOE:t3"
    ],
    "new_meaning": ""
   },
   {
-   "name": "age decline watch",
-   "channel": "durable",
-   "detail": "age 30, one expert says he may be washed",
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "Milwaukee expected to be bad, about 26.5 to 33 wins",
    "until": "",
    "sources": [
-    "uarqbNA2dFk:p22"
+    "owlM6b8oUd0:t4",
+    "sfCe7fS9daM:t8",
+    "Rqb5GdrSweY:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low shutdown risk",
+   "channel": "current",
+   "detail": "Milwaukee does not own its pick, so it has no reason to tank",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:t8",
+    "Rqb5GdrSweY:t0",
+    "owlM6b8oUd0:t4"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Our league paid 20 USD for him last season. Now Yahoo values him at 5 USD and ESPN at 3 USD, with ranks of 101 and 93. Experts say he is fine around pick 120 to 128 but not worth a top-100 price, so he is a late buy for a few dollars. He brings blocks and threes from a center and fits punt FG% builds best. Early in the season, check whether he gets about 29 minutes next to Ware under Jenkins and plays in fourth quarters.",
+ "note": "Turner is a cheap block and three-point center for us. Yahoo values him at 5 USD and ESPN at 3 USD, and a recent mock priced him at 1 to 6 USD, so the 20 USD our league paid last season is far too much. He fits punt FG% builds best, because his projected 45.8% FG% is weak for a center while his 1.7 blocks and 2 threes are strong. Early in the season, check whether Taylor Jenkins gives him about 29 minutes next to Kel'el Ware, and whether his usage climbs back above last season's 18%.",
  "rejected": []
 }

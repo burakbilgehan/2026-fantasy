@@ -2,18 +2,20 @@
  "team": "DET",
  "prompt_version": 1,
  "prompt_sha": "07b4ed7fd28e",
- "input_sha": "65401d19f119",
- "note_count": 22,
- "built_at": "2026-10-04T20:00:45+00:00",
+ "input_sha": "35338bae5357",
+ "note_count": 23,
+ "built_at": "2026-10-05T20:06:43+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2660222,
-  "duration_ms": 68994
+  "cost_usd_list": 0.1729778,
+  "duration_ms": 49776,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "The projected starting five is Cade Cunningham, Duncan Robinson, Ausar Thompson, John Collins and Jalen Duren, the same as last season.",
+   "text": "The projected starting five is Cade Cunningham, Duncan Robinson, Ausar Thompson, John Collins and Jalen Duren. It is the same five as last season.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
@@ -24,87 +26,8 @@
    ]
   },
   {
-   "text": "Jalen Duren's contract situation was still unresolved in the 2026-09-30 note. A trade would bring back another center, and a holdout was a worry.",
-   "kind": "fact",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "BjXP9JODDSg:t3",
-    "LM0cRCGoAUQ:t12",
-    "OdDkXFhoKsc:t2",
-    "4GDfg2n2l8o:t5"
-   ]
-  },
-  {
-   "text": "The newest preview (2026-10-03) treats Duren as back and projects him as the starting center.",
-   "kind": "fact",
-   "date": "2026-10-03",
-   "until": "",
-   "sources": [
-    "_O9pc_u5vH0:t0",
-    "_O9pc_u5vH0:t3"
-   ]
-  },
-  {
-   "text": "One expert does not expect Detroit to start the season with Paul Reed at center.",
-   "kind": "verdict",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:t12"
-   ]
-  },
-  {
-   "text": "Isaiah Stewart is gone. Paul Reed is now the main backup center, so there is less frontcourt depth behind Duren.",
-   "kind": "fact",
-   "date": "2026-10-03",
-   "until": "",
-   "sources": [
-    "_O9pc_u5vH0:t1",
-    "NYTH7uQsPCM:t8",
-    "CLsUc0Sevos:t1",
-    "4GDfg2n2l8o:t5"
-   ]
-  },
-  {
-   "text": "As Duren's backup, Reed would play about 20 minutes a night.",
-   "kind": "verdict",
-   "date": "2026-08-11",
-   "until": "",
-   "sources": [
-    "OdDkXFhoKsc:t2"
-   ]
-  },
-  {
-   "text": "Because Duren's situation is unresolved, Paul Reed is worth a late flyer.",
-   "kind": "verdict",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "BjXP9JODDSg:t3"
-   ]
-  },
-  {
-   "text": "Ugonna Onyenso, a rookie on a two-way contract, is the other center on the roster.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "Power forward depth is very weak unless Ausar Thompson and Ron Holland play the four.",
-   "kind": "verdict",
-   "date": "2026-07-20",
-   "until": "",
-   "sources": [
-    "-KS_AZjZnw4:t3"
-   ]
-  },
-  {
    "text": "The projected bench order is Isaiah Joe as sixth man, then Ron Holland, Paul Reed and Daniss Jenkins. Prince or Kevin Huerter gets the last rotation spot.",
-   "kind": "verdict",
+   "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
@@ -121,7 +44,70 @@
    ]
   },
   {
-   "text": "The team lost creation with Tobias Harris gone. It has very few creators besides Cade Cunningham.",
+   "text": "Isaiah Stewart is gone. Paul Reed is now the main backup big behind Duren.",
+   "kind": "fact",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:t1",
+    "NYTH7uQsPCM:t8",
+    "CLsUc0Sevos:t1",
+    "4GDfg2n2l8o:t5",
+    "OdDkXFhoKsc:t2"
+   ]
+  },
+  {
+   "text": "As Duren's backup, Reed would play about 20 minutes a night.",
+   "kind": "verdict",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "OdDkXFhoKsc:t2"
+   ]
+  },
+  {
+   "text": "Frontcourt depth behind Duren is thinner. Power forward depth is very weak unless Ausar Thompson and Ron Holland play the four.",
+   "kind": "verdict",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:t1",
+    "-KS_AZjZnw4:t3"
+   ]
+  },
+  {
+   "text": "Duren's contract situation was the big offseason question. The newest preview treats him as back and starting at center.",
+   "kind": "fact",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:t0",
+    "_O9pc_u5vH0:t3",
+    "BjXP9JODDSg:t3",
+    "LM0cRCGoAUQ:t12"
+   ]
+  },
+  {
+   "text": "If Duren's situation is not settled, Paul Reed is a late flyer. A Duren trade would bring back another center, and a holdout is a worry. Analysts do not expect Detroit to start the season with Reed at center.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:t3",
+    "LM0cRCGoAUQ:t12"
+   ]
+  },
+  {
+   "text": "With Duren in the lineup, the team will still have some spacing issues.",
+   "kind": "verdict",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:t3"
+   ]
+  },
+  {
+   "text": "Tobias Harris is gone, and the team has very few creators besides Cade Cunningham.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
@@ -131,35 +117,35 @@
    ]
   },
   {
-   "text": "The lack of other creators could push Cunningham's assists up, unless Daniss Jenkins takes a bigger ball-handling role.",
+   "text": "The thin creation could push Cunningham's assists up, unless Daniss Jenkins takes a bigger ball-handling role. The team may need Jenkins as another ball handler.",
    "kind": "verdict",
    "date": "2026-10-03",
    "until": "",
    "sources": [
-    "ME-r173X5b0:t2",
-    "_O9pc_u5vH0:t2"
+    "_O9pc_u5vH0:t2",
+    "ME-r173X5b0:t2"
    ]
   },
   {
-   "text": "With Duren back, the team will still have some spacing issues.",
-   "kind": "verdict",
-   "date": "2026-10-03",
-   "until": "",
-   "sources": [
-    "_O9pc_u5vH0:t3"
-   ]
-  },
-  {
-   "text": "If the plan to use Ausar Thompson and Duren on the ball is failing by January, Detroit may trade for a secondary playmaker at the deadline.",
+   "text": "The plan gives Ausar Thompson and Duren on-ball roles. If that plan is failing by January, the team may trade for a secondary playmaker at the deadline.",
    "kind": "verdict",
    "date": "2026-08-12",
-   "until": "trade deadline",
+   "until": "2027-03-04 trade deadline",
    "sources": [
     "p9XE5jFqhvs:t4"
    ]
   },
   {
-   "text": "Coop projects 50 to 51 wins and a third or fourth seed in the East. The betting win total is 49.5, sixth in the league. Tanking is not a concern.",
+   "text": "Analysts do not trust coach J.B. Bickerstaff's latest comments on Ausar Thompson's minutes.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:t3"
+   ]
+  },
+  {
+   "text": "Detroit projects as a winning team. One expert projects 50 to 51 wins and a third or fourth seed in the East, and the win total of 49.5 ranks 6th.",
    "kind": "verdict",
    "date": "2026-08-12",
    "until": "",
@@ -169,7 +155,7 @@
    ]
   },
   {
-   "text": "Our fantasy playoff schedule is 4-3-4, so 11 games in weeks 19 to 21, fourth most in the league.",
+   "text": "The fantasy playoff schedule is 4-3-4 for our March 28 end. That is 11 games, rank 4 of 30, so it helps Detroit players in weeks 19 to 21.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
@@ -179,17 +165,16 @@
    ]
   },
   {
-   "text": "The team has 15 back-to-backs, about average. No rest risks are expected.",
+   "text": "The team has 15 back-to-backs, and no rest risks are expected.",
    "kind": "verdict",
    "date": "2026-10-03",
    "until": "",
    "sources": [
-    "_O9pc_u5vH0:t6",
-    "stats"
+    "_O9pc_u5vH0:t6"
    ]
   },
   {
-   "text": "The team has no notable injuries.",
+   "text": "There are no notable injuries on the team.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
@@ -209,16 +194,7 @@
    ]
   },
   {
-   "text": "One expert says coach J.B. Bickerstaff has repeatedly misled about Ausar Thompson's minutes and health.",
-   "kind": "fact",
-   "date": "2026-10-03",
-   "until": "",
-   "sources": [
-    "_O9pc_u5vH0:t5"
-   ]
-  },
-  {
-   "text": "Treat Bickerstaff's updates on minutes and injuries with caution.",
+   "text": "Coach J.B. Bickerstaff has repeatedly misled about Ausar Thompson's minutes and health, so his public comments on minutes need caution.",
    "kind": "verdict",
    "date": "2026-10-03",
    "until": "",
@@ -229,9 +205,30 @@
  ],
  "tags": [
   {
+   "name": "defense-first",
+   "channel": "durable",
+   "detail": "Built on defense; the front office wants only enough offense.",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "50 to 51 wins projected, third or fourth seed in the East; win total 49.5 (rank 6).",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:t3",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "4-3-4 in weeks 19 to 21, 11 games, rank 4 of 30, two back-to-back pairs.",
+   "detail": "4-3-4 in weeks 19 to 21 (11 games, rank 4 of 30).",
    "until": "",
    "sources": [
     "_O9pc_u5vH0:t6",
@@ -240,40 +237,50 @@
    "new_meaning": ""
   },
   {
+   "name": "low shutdown risk",
+   "channel": "current",
+   "detail": "No rest risks expected for a projected playoff team.",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:t6",
+    "p9XE5jFqhvs:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "deep rotation",
    "channel": "current",
-   "detail": "Ran 12 to 13 players deep last season. The projected rotation for this season is about 10 players.",
+   "detail": "Last season's rotation ran 12 to 13 deep. The bench has Joe, Holland, Reed, Jenkins and Prince or Huerter.",
    "until": "",
    "sources": [
     "p9XE5jFqhvs:t2",
     "_O9pc_u5vH0:t4"
    ],
-   "new_meaning": "The team spreads minutes over many players, which caps minutes for starters and bench players."
+   "new_meaning": ""
   },
   {
-   "name": "winning team",
-   "channel": "current",
-   "detail": "Projected for 50 to 51 wins and a third or fourth seed. Win total 49.5, rank 6.",
-   "until": "",
-   "sources": [
-    "p9XE5jFqhvs:t3",
-    "stats"
-   ],
-   "new_meaning": "Projected to win clearly more than half its games, so tanking and late-season shutdowns are unlikely."
-  },
-  {
-   "name": "defense-first",
+   "name": "stable starters",
    "channel": "durable",
-   "detail": "Front office wants only enough offense. Creation and spacing are thin beyond Cunningham.",
+   "detail": "Same projected starting five as last season.",
    "until": "",
    "sources": [
-    "p9XE5jFqhvs:t1",
-    "_O9pc_u5vH0:t2",
-    "_O9pc_u5vH0:t3"
+    "_O9pc_u5vH0:t0",
+    "p9XE5jFqhvs:t0"
    ],
-   "new_meaning": "The team is built around defense, with limited offensive creation and spacing."
+   "new_meaning": ""
+  },
+  {
+   "name": "misleading coach",
+   "channel": "durable",
+   "detail": "Bickerstaff has repeatedly misled about Ausar Thompson's minutes and health.",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:t5",
+    "n4KkK-OJjqA:t3"
+   ],
+   "new_meaning": "The head coach's public comments on minutes or health are reported to be unreliable, so news from the team needs caution."
   }
  ],
- "note": "Detroit is a winning, defense-first team with a strong 4-3-4 playoff schedule and no expected rest risk. Cade Cunningham gains as the only real creator, and Paul Reed is a cheap late flyer while Duren's contract situation stays unclear. Watch early whether Duren is fully back, how tightly Bickerstaff trims last season's 12 to 13 player rotation, and whether Daniss Jenkins takes ball-handling work.",
+ "note": "Detroit is a defense-first team that expects to win. It has a strong 4-3-4 schedule in our fantasy playoff weeks and no expected rest risk, which helps its starters. Cunningham's assists could rise because the team has few other creators. Ausar Thompson and Duren get on-ball roles, but the deep bench caps value for Joe, Huerter, Robinson and Holland. Early on, confirm that Duren is signed and starting, because Paul Reed is the main backup big. Treat Bickerstaff's comments on Thompson's minutes with caution.",
  "rejected": []
 }

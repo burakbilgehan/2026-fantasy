@@ -3,54 +3,45 @@
   "name": "Rafael Castro",
   "slug": "rafael-castro",
   "pk": 730,
-  "team": "HOU",
+  "team": null,
   "position": "C"
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "68395e2883a3",
+ "input_sha": "f0b39b00a0d0",
  "note_count": 3,
- "built_at": "2026-10-04T17:46:42+00:00",
+ "built_at": "2026-10-05T20:00:51+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1434976,
-  "duration_ms": 29947
+  "cost_usd_list": 0.1278404,
+  "duration_ms": 25366,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Castro is a rookie from the 2026 draft class. He went undrafted.",
+   "text": "Our data lists him as a free agent with no NBA team now. A June note reported that the Bucks signed him to a two-way deal after he went undrafted, so check his roster status.",
    "kind": "fact",
    "date": "2026-06-26",
    "until": "",
    "sources": [
+    "CLsUc0Sevos:p2",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is a rookie and has not played an NBA game.",
+   "kind": "fact",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
+    "-rgXhs5BHiw:p12",
     "CLsUc0Sevos:p2"
    ]
   },
   {
-   "text": "Houston's projected starters are VanVleet, Thompson, Durant, Smith and Sengun. Steven Adams is back and sits in a crowded bench group.",
-   "kind": "fact",
-   "date": "2026-10-01",
-   "until": "",
-   "sources": [
-    "aLP080hxizA:t1",
-    "yoCTTlJ_tPQ:t0",
-    "xHRF06_E9HE:t5"
-   ]
-  },
-  {
-   "text": "Coach Ime Udoka plays his starters very heavy minutes. The roster is thin after the top 10 or 11 players.",
-   "kind": "fact",
-   "date": "2026-10-01",
-   "until": "",
-   "sources": [
-    "aLP080hxizA:t0",
-    "aLP080hxizA:t3",
-    "7BllEsdNLoM:t9"
-   ]
-  },
-  {
-   "text": "Experts treat him as a late dynasty rookie flier: Tier 9 in one ranking, around pick 50 in another. Neither ranking is a redraft call.",
+   "text": "Experts see him only as a late dynasty rookie flier, around pick 50 or in tier 9 of rookie ranks.",
    "kind": "verdict",
    "date": "2026-06-26",
    "until": "",
@@ -62,7 +53,7 @@
  ],
  "durable": [
   {
-   "text": "He is a 6'11 big man, 23 years old at the 2026 draft.",
+   "text": "He is a 23-year-old, 6'11 big man.",
    "kind": "fact",
    "date": "2026-06-23",
    "until": "",
@@ -71,22 +62,40 @@
    ]
   },
   {
-   "text": "Before the NBA he had a very high block rate, a very high steal rate and a high free throw rate. He did not take threes.",
+   "text": "His college steal rate is very high for a big man, and his steals stats project well to the NBA.",
    "kind": "fact",
-   "date": "2026-06-23",
+   "date": "2026-06-26",
    "until": "",
    "sources": [
+    "CLsUc0Sevos:p2",
     "-rgXhs5BHiw:p12",
     "HxQjagSTTAM:p20"
    ]
   },
   {
-   "text": "His steal numbers are expected to translate well to the NBA. One expert compares him to Paul Reed.",
-   "kind": "verdict",
-   "date": "2026-06-26",
+   "text": "He has a very high block rate and a high free throw rate.",
+   "kind": "fact",
+   "date": "2026-06-23",
    "until": "",
    "sources": [
-    "CLsUc0Sevos:p2",
+    "-rgXhs5BHiw:p12"
+   ]
+  },
+  {
+   "text": "He does not take threes.",
+   "kind": "fact",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
+    "-rgXhs5BHiw:p12"
+   ]
+  },
+  {
+   "text": "An expert compares his profile to Paul Reed.",
+   "kind": "verdict",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
     "-rgXhs5BHiw:p12"
    ]
   }
@@ -95,15 +104,26 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "2026 draft class, undrafted",
+   "detail": "Undrafted in 2026, age 23",
    "until": "",
    "sources": [
     "CLsUc0Sevos:p2",
-    "HxQjagSTTAM:p20"
+    "-rgXhs5BHiw:p12"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsigned",
+   "channel": "current",
+   "detail": "Listed as a free agent in our data. A June note reported a Bucks two-way deal.",
+   "until": "",
+   "sources": [
+    "stats",
+    "CLsUc0Sevos:p2"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Castro is not a draft target for us. Yahoo values him at 0 USD and ranks him 658th, ESPN has no price, and no site has a projection, so he will not be among the 144 players drafted. His steal and block rates are why he is interesting, but he is behind Sengun, Smith and Adams on a crowded Houston depth chart. Watch only whether he gets real NBA minutes early in the season. Leave him alone otherwise.",
+ "note": "With a Yahoo rank of 658, a 0 USD Yahoo value, no ESPN price and no projections, he is not a draft target in our 144-player auction. The experts' interest comes from dynasty formats. His steal and block rates are the reason to watch him. Early in the season, check whether he is on an NBA roster at all. Only pay attention if he gets real NBA minutes.",
  "rejected": []
 }

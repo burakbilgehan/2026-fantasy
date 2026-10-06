@@ -39,54 +39,54 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Shai Gilgeous-Alexander](../profiles/players/shai-gilgeous-alexander.md) | OKC | G | 4 | 67.0 | 3 | 72.0 | 81 | He is the rare player who helps both percentages on real volume, about 54% FG on about 20 attempts and about 88% FT on about 9. |
+| [Shai Gilgeous-Alexander](../profiles/players/shai-gilgeous-alexander.md) | OKC | G | 4 | 67.0 | 3 | 72.1 | 81 | He is the rare player who helps both percentages on real volume, about 54% FG on about 20 attempts and about 88% FT on about 9. |
 
 ### High-volume FG% anchor
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Nikola Jokić](../profiles/players/nikola-jokic.md) | DEN | C | 1 | 71.0 | 1 | 81.8 | 87 | About 57% on about 18 attempts makes him one of the biggest positive FG% movers on the list. |
-| [Jalen Duren](../profiles/players/jalen-duren.md) | DET | C | 33 | 18.2 | 23 | 24.0 | 14 | About 65% on 11 or more attempts gives him a large FG% pull for a center. |
+| [Nikola Jokić](../profiles/players/nikola-jokic.md) | DEN | C | 1 | 71.0 | 1 | 81.4 | 87 | About 57% on about 18 attempts makes him one of the biggest positive FG% movers on the list. |
+| [Jalen Duren](../profiles/players/jalen-duren.md) | DET | C | 33 | 18.2 | 23 | 24.1 | 14 | About 65% on 11 or more attempts gives him a large FG% pull for a center. |
 | [Domantas Sabonis](../profiles/players/domantas-sabonis.md) | SAC | F,C | 35 | 22.6 | 32 | 39.3 | 41 | About 58% on about 12.5 attempts makes him a steady FG% lift from the C spot. |
 
 ### Mixed impact
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 58.8 | 20 | 61.4 | 62 | About 62% FG on high volume is a huge plus, but about 64% FT on 10 to 11 attempts is one of the biggest FT% drags, so he anchors punt FT% builds. |
-| [Zion Williamson](../profiles/players/zion-williamson.md) | NOP | F,C | 78 | 4.0 | 96 | 6.6 | 21 | About 59% FG on about 15 attempts helps a lot, while about 70% FT on about 7.6 attempts hurts, so he fits punt FT% builds. |
-| [Walker Kessler](../profiles/players/walker-kessler.md) | LAL | C | 41 | 18.8 | 45 | 8.5 | 15 | About 65% FG on 7 to 8 attempts helps, but a projected 59% FT is a drag outside punt FT% builds. |
-| [Rudy Gobert](../profiles/players/rudy-gobert.md) | MIN | C | 82 | 7.2 | 55 | 4.6 | 10 | About 67% FG on 6.5 to 7 attempts helps, but he shot 52.6% FT last season, so he belongs on punt FT% teams. |
-| [Trae Young](../profiles/players/trae-young.md) | WAS | G | 18 | 33.6 | 47 | 33.0 | 44 | About 86% FT on 7 attempts helps, but about 42% FG on 17 attempts is a big FG% drag, so he fits punt FG% builds. |
+| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 58.8 | 20 | 62.1 | 62 | About 62% FG on high volume is a huge plus, but about 64% FT on 10 to 11 attempts is one of the biggest FT% drags, so he anchors punt FT% builds. |
+| [Zion Williamson](../profiles/players/zion-williamson.md) | NOP | F,C | 78 | 4.0 | 96 | 6.5 | 21 | About 59% FG on about 15 attempts helps a lot, while about 70% FT on about 7.6 attempts hurts, so he fits punt FT% builds. |
+| [Walker Kessler](../profiles/players/walker-kessler.md) | LAL | C | 41 | 18.8 | 45 | 8.4 | 15 | About 65% FG on 7 to 8 attempts helps, but a projected 59% FT is a drag outside punt FT% builds. |
+| [Rudy Gobert](../profiles/players/rudy-gobert.md) | MIN | C | 82 | 7.2 | 55 | 4.7 | 10 | About 67% FG on 6.5 to 7 attempts helps, but he shot 52.6% FT last season, so he belongs on punt FT% teams. |
+| [Trae Young](../profiles/players/trae-young.md) | WAS | G | 18 | 33.6 | 47 | 33.4 | 44 | About 86% FT on 7 attempts helps, but about 42% FG on 17 attempts is a big FG% drag, so he fits punt FG% builds. |
 
 ### FT% anchor
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Austin Reaves](../profiles/players/austin-reaves.md) | LAL | G,F | 21 | 28.8 | 50 | 18.7 | 25 | About 87% FT on about 7 attempts makes him a solid FT% lift. |
-| [Devin Booker](../profiles/players/devin-booker.md) | PHX | G | 23 | 28.4 | 40 | 32.4 | 45 | About 88% FT on 7 to 8 attempts makes him one of the stronger FT% movers. |
-| [James Harden](../profiles/players/james-harden.md) | CLE | G | 31 | 19.4 | 25 | 27.8 | 42 | About 88% FT on real volume suits punt FG% builds that want FT% and assists. |
-| [Joel Embiid](../profiles/players/joel-embiid.md) | PHI | C | 53 | 7.4 | 88 | 8.2 | 24 | About 86% FT on 8 to 9 attempts is rare FT% volume from a center, but projections only have him at 49 to 54 games. |
-| [Stephen Curry](../profiles/players/stephen-curry.md) | GSW | G | 25 | 30.6 | 33 | 24.2 | 42 | About 92.6% FT is elite, but on 4.7 attempts his pull is smaller than the percentage suggests. |
-| [Lauri Markkanen](../profiles/players/lauri-markkanen.md) | UTA | F | 32 | 18.6 | 34 | 12.1 | 16 | About 89% FT on 5 or more attempts helps almost any build. |
-| [Damian Lillard](../profiles/players/damian-lillard.md) | POR | G | 67 | 5.0 | 70 | 5.4 | not drafted | About 92% FT on 4 to 6 attempts is a useful lift for punt FG% builds if he stays healthy. |
+| [Austin Reaves](../profiles/players/austin-reaves.md) | LAL | G,F | 21 | 28.8 | 50 | 18.9 | 25 | About 87% FT on about 7 attempts makes him a solid FT% lift. |
+| [Devin Booker](../profiles/players/devin-booker.md) | PHX | G | 23 | 28.4 | 40 | 32.7 | 45 | About 88% FT on 7 to 8 attempts makes him one of the stronger FT% movers. |
+| [James Harden](../profiles/players/james-harden.md) | CLE | G | 31 | 19.4 | 25 | 28.0 | 42 | About 88% FT on real volume suits punt FG% builds that want FT% and assists. |
+| [Joel Embiid](../profiles/players/joel-embiid.md) | PHI | C | 53 | 7.4 | 88 | 8.3 | 24 | About 86% FT on 8 to 9 attempts is rare FT% volume from a center, but projections only have him at 49 to 54 games. |
+| [Stephen Curry](../profiles/players/stephen-curry.md) | GSW | G | 25 | 30.6 | 33 | 24.5 | 42 | About 92.6% FT is elite, but on 4.7 attempts his pull is smaller than the percentage suggests. |
+| [Lauri Markkanen](../profiles/players/lauri-markkanen.md) | UTA | F | 32 | 18.6 | 34 | 12.0 | 16 | About 89% FT on 5 or more attempts helps almost any build. |
+| [Damian Lillard](../profiles/players/damian-lillard.md) | POR | G | 67 | 5.0 | 70 | 5.6 | not drafted | About 92% FT on 4 to 6 attempts is a useful lift for punt FG% builds if he stays healthy. |
 
 ### FG% liability
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Derrick White](../profiles/players/derrick-white.md) | BOS | G | 36 | 10.2 | 17 | 18.5 | 30 | About 41% projected FG on about 14 attempts hurts, so he fits punt FG% builds where his FT% and threes count. |
-| [LaMelo Ball](../profiles/players/lamelo-ball.md) | MIN | G | 24 | 30.2 | 22 | 26.6 | 29 | About 41% on about 19 attempts makes him one of the largest FG% drags, so he belongs in punt FG% builds. |
-| [Jalen Green](../profiles/players/jalen-green.md) | PHX | G,F | 130 | 1.0 | 130 | 1.2 | 9 | About 42% on 17 to 19 attempts is a heavy FG% drag that only punt FG% builds can absorb. |
-| [Fred VanVleet](../profiles/players/fred-vanvleet.md) | HOU | G | 153 | 1.0 | 74 | 1.6 | 1 | A projected 39.4% FG makes him a punt FG% piece only. |
+| [Derrick White](../profiles/players/derrick-white.md) | BOS | G | 36 | 10.2 | 17 | 18.8 | 30 | About 41% projected FG on about 14 attempts hurts, so he fits punt FG% builds where his FT% and threes count. |
+| [LaMelo Ball](../profiles/players/lamelo-ball.md) | MIN | G | 24 | 30.2 | 22 | 27.2 | 29 | About 41% on about 19 attempts makes him one of the largest FG% drags, so he belongs in punt FG% builds. |
+| [Jalen Green](../profiles/players/jalen-green.md) | PHX | G,F | 130 | 1.0 | 130 | 1.4 | 9 | About 42% on 17 to 19 attempts is a heavy FG% drag that only punt FG% builds can absorb. |
+| [Fred VanVleet](../profiles/players/fred-vanvleet.md) | HOU | G | 153 | 1.0 | 74 | 1.7 | 1 | A projected 39.4% FG makes him a punt FG% piece only. |
 
 ### FT% liability
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Alperen Sengun](../profiles/players/alperen-sengun.md) | HOU | F,C | 22 | 32.6 | 29 | 32.6 | 36 | About 69% FT on 5.5 attempts is a real drag, so he fits punt FT% builds. |
-| [Evan Mobley](../profiles/players/evan-mobley.md) | CLE | F,C | 27 | 23.6 | 27 | 19.8 | 36 | He shot about 61% FT on 4.6 attempts last season, so he fits punt FT% builds unless his FT% recovers. |
-| [Ausar Thompson](../profiles/players/ausar-thompson.md) | DET | G,F | 77 | 3.2 | 78 | 2.5 | 16 | Below 60% FT makes him a punt FT% target where his steals count fully. |
+| [Alperen Sengun](../profiles/players/alperen-sengun.md) | HOU | F,C | 22 | 32.6 | 29 | 32.2 | 36 | About 69% FT on 5.5 attempts is a real drag, so he fits punt FT% builds. |
+| [Evan Mobley](../profiles/players/evan-mobley.md) | CLE | F,C | 27 | 23.6 | 27 | 19.9 | 36 | He shot about 61% FT on 4.6 attempts last season, so he fits punt FT% builds unless his FT% recovers. |
+| [Ausar Thompson](../profiles/players/ausar-thompson.md) | DET | G,F | 77 | 3.2 | 78 | 2.4 | 16 | Below 60% FT makes him a punt FT% target where his steals count fully. |
 | [RJ Barrett](../profiles/players/rj-barrett.md) | TOR | G,F | 124 | 1.3 | 140 | 1.4 | 1 | About 68.7% FT on about 4.6 attempts is a real-volume drag for a scorer. |
 | [Jonathan Kuminga](../profiles/players/jonathan-kuminga.md) | MIN | F | 129 | 1.0 | 185 | 0.4 | 1 | A projected 69% FT makes him a fit only for punt FT% teams that need points. |
 | [Nic Claxton](../profiles/players/nic-claxton.md) | CHI | C | 89 | 2.6 | 119 | 1.0 | 4 | About 59% FT projected fits a punt FT% build, where his FG% and blocks matter. |
@@ -97,8 +97,8 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Jarrett Allen](../profiles/players/jarrett-allen.md) | CLE | C | 65 | 2.8 | 49 | 7.0 | 13 | A projected 66% FG makes him a reliable FG% lift for a mid-level center. |
-| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 57 | 8.2 | 81 | 3.6 | 20 | About 62% on 10 attempts helps FG%, and his weak FT% is only a small drag because his volume is low. |
+| [Jarrett Allen](../profiles/players/jarrett-allen.md) | CLE | C | 65 | 2.8 | 49 | 6.9 | 13 | A projected 66% FG makes him a reliable FG% lift for a mid-level center. |
+| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 57 | 8.2 | 81 | 3.5 | 20 | About 62% on 10 attempts helps FG%, and his weak FT% is only a small drag because his volume is low. |
 | [Zach Edey](../profiles/players/zach-edey.md) | MEM | C | 70 | 7.2 | 113 | 1.4 | 2 | About 61% on 9 to 10 attempts adds FG% if his ankle clears. |
 | [Daniel Gafford](../profiles/players/daniel-gafford.md) | DAL | C | 120 | 1.0 | 114 | 0.5 | not drafted | About 69% FG projected is a late FG% lift, and his volume depends on starting early. |
 | [Jakob Poeltl](../profiles/players/jakob-poeltl.md) | TOR | C | 122 | 1.0 | 116 | 0.8 | 15 | About 66% projected FG on moderate volume makes him a cheap FG% anchor near the end of the draft. |

@@ -8,50 +8,44 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "3a8330aef6d0",
+ "input_sha": "95c40efac426",
  "note_count": 10,
- "built_at": "2026-10-04T17:37:47+00:00",
+ "built_at": "2026-10-05T19:55:03+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2088448,
-  "duration_ms": 49205
+  "cost_usd_list": 0.261953,
+  "duration_ms": 64892,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Portland has a crowded guard group: Damian Lillard, Ja Morant, Scoot Henderson and Deni Avdija all handle the ball next to Holiday.",
+   "text": "Portland added Ja Morant and Damian Lillard, and Scoot Henderson returns for a full season. The guard group also includes Deni Avdija and Shaedon Sharpe.",
    "kind": "fact",
-   "date": "2026-09-10",
+   "date": "2026-10-04",
    "until": "",
    "sources": [
-    "W-R1dzem32s:t1",
-    "sTtFUy7IoJI:t9",
+    "n4KkK-OJjqA:t6",
+    "LM0cRCGoAUQ:t1",
     "Rqb5GdrSweY:t6",
-    "ME-r173X5b0:t3",
-    "YJk7ZFKFqnI:t0"
+    "bHA-JoW3reE:t0"
    ]
   },
   {
-   "text": "He is expected to play almost only small forward, next to two other guards.",
+   "text": "Holiday is expected to come off the bench and play almost only small forward, next to two other guards. He is expected to start only when Morant or Lillard is out. The projected starting five is Lillard, Morant, Camara, Avdija and Clingan.",
    "kind": "verdict",
    "date": "2026-08-26",
    "until": "",
    "sources": [
     "YJk7ZFKFqnI:p0",
+    "YJk7ZFKFqnI:p2",
+    "YJk7ZFKFqnI:t1",
     "sTtFUy7IoJI:p50"
    ]
   },
   {
-   "text": "He is expected to come off the bench except when Morant or Lillard are out.",
-   "kind": "verdict",
-   "date": "2026-08-11",
-   "until": "",
-   "sources": [
-    "YJk7ZFKFqnI:p2"
-   ]
-  },
-  {
-   "text": "His usage of 24 last season should drop back to a Boston-style role as a low-usage corner spacer.",
+   "text": "His usage is expected to drop from about 24 last season to a low-usage corner spacer role.",
    "kind": "verdict",
    "date": "2026-08-26",
    "until": "",
@@ -61,16 +55,27 @@
    ]
   },
   {
-   "text": "Shaedon Sharpe is injured, which frees some backup minutes in Portland.",
+   "text": "Shaedon Sharpe is out injured.",
    "kind": "fact",
-   "date": "2026-08-26",
+   "date": "2026-09-07",
    "until": "",
    "sources": [
-    "sTtFUy7IoJI:p50"
+    "sTtFUy7IoJI:p50",
+    "E-KmhvyZ2CU:p24"
    ]
   },
   {
-   "text": "Experts are not high on him this season. He is solid but has little upside in this Portland setup, even with Sharpe out.",
+   "text": "Sharpe's injury frees some backup minutes for him, but experts still see little upside.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "Sharpe returns",
+   "sources": [
+    "sTtFUy7IoJI:p50",
+    "E-KmhvyZ2CU:p24"
+   ]
+  },
+  {
+   "text": "The experts are not high on him this season. He is solid, but his upside is limited because there are too many players around him in Portland.",
    "kind": "verdict",
    "date": "2026-09-24",
    "until": "",
@@ -78,8 +83,7 @@
     "_vbAP5y182A:p58",
     "KPdD91Oo8-U:p36",
     "W-R1dzem32s:p48",
-    "E-KmhvyZ2CU:p24",
-    "bHA-JoW3reE:p10"
+    "E-KmhvyZ2CU:p24"
    ]
   },
   {
@@ -92,20 +96,29 @@
    ]
   },
   {
-   "text": "Portland has three back-to-backs in the fantasy playoffs and a five-game week starting February 8.",
-   "kind": "fact",
-   "date": "2026-08-16",
+   "text": "The experts disagree on a trade. One said in June that it feels like he will be moved. The August team preview doubts a consolidation trade.",
+   "kind": "verdict",
+   "date": "2026-08-11",
    "until": "",
    "sources": [
-    "gf_6GveiAls:t6",
-    "gf_6GveiAls:t10"
+    "bHA-JoW3reE:p10",
+    "YJk7ZFKFqnI:t5"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He can play well in a low-usage role, as he did at 15 to 16 usage in Boston.",
+   "text": "He has played low-usage roles before, at 15 to 16 usage in Boston.",
    "kind": "fact",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p51"
+   ]
+  },
+  {
+   "text": "He can still be useful in a low-usage role.",
+   "kind": "verdict",
    "date": "2026-08-26",
    "until": "",
    "sources": [
@@ -117,7 +130,7 @@
   {
    "name": "role down",
    "channel": "current",
-   "detail": "Usage expected to fall from 24 to a low-usage corner spacer role, likely off the bench",
+   "detail": "Expected to move to a bench role at small forward, with usage falling from about 24 to a low-usage spacer role",
    "until": "",
    "sources": [
     "sTtFUy7IoJI:p50",
@@ -127,14 +140,25 @@
    "new_meaning": ""
   },
   {
-   "name": "minutes competition",
+   "name": "usage competition",
    "channel": "current",
-   "detail": "Crowded Portland backcourt with Lillard, Morant, Henderson and Avdija",
+   "detail": "Shares the ball with Lillard, Morant, Henderson and Avdija",
    "until": "",
    "sources": [
-    "YJk7ZFKFqnI:p0",
-    "sTtFUy7IoJI:p50",
-    "W-R1dzem32s:t1",
+    "W-R1dzem32s:p48",
+    "sTtFUy7IoJI:t9",
+    "Rqb5GdrSweY:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Crowded Portland backcourt. Projected to come off the bench behind Lillard and Morant",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:p2",
+    "YJk7ZFKFqnI:t1",
     "Rqb5GdrSweY:t6"
    ],
    "new_meaning": ""
@@ -142,7 +166,7 @@
   {
    "name": "handcuff",
    "channel": "current",
-   "detail": "Expected to start when Morant or Lillard are out",
+   "detail": "Expected to start when Morant or Lillard is out",
    "until": "",
    "sources": [
     "YJk7ZFKFqnI:p2"
@@ -150,38 +174,48 @@
    "new_meaning": ""
   },
   {
-   "name": "waiver watch",
+   "name": "unsettled rotation",
    "channel": "current",
-   "detail": "Ranked around 131 to 136, at the edge of our 144-player draft pool",
+   "detail": "Portland minutes and usage are expected to swing from game to game",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "shared ball handling",
+   "channel": "current",
+   "detail": "Morant, Lillard, Holiday, Avdija and Henderson share playmaking",
+   "until": "",
+   "sources": [
+    "ME-r173X5b0:t3",
+    "sTtFUy7IoJI:t9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trade risk",
+   "channel": "current",
+   "detail": "One expert said in June he will likely be moved. A later team preview doubts a consolidation trade",
    "until": "",
    "sources": [
     "bHA-JoW3reE:p10",
-    "_vbAP5y182A:p58",
-    "stats"
+    "YJk7ZFKFqnI:t5"
    ],
    "new_meaning": ""
   },
   {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "No weak category; small help in AST, 3PM and FT%",
+   "detail": "No weak category, but no strong category either",
    "until": "",
    "sources": [
     "stats"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "bad playoff schedule",
-   "channel": "current",
-   "detail": "Portland has three back-to-backs in the fantasy playoffs",
-   "until": "",
-   "sources": [
-    "gf_6GveiAls:t6"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "He is at the edge of our 144-player pool. Yahoo ranks him 136 and ESPN 131, both value him at 0 USD, and he cost 3 USD in our league last season. His projections (12 to 12.6 PTS, 4.4 to 4.7 AST on about 10 FGA) are well below last season's 16.3 PTS and 6.1 AST on 13.4 FGA, which matches the experts' call for lower usage. No category is weak, so a 1 USD end-of-draft pick fits any build, but he can also be left on waivers. Early in the season, check whether he starts when Morant or Lillard miss games.",
+ "note": "Both sites price him at about 0 USD (Yahoo rank 136, ESPN rank 131), which puts him at the very end of our 144-player pool. We paid 3 USD for him last season. Last season's 16.3 points and 6.1 assists came with usage that experts expect to fall in a crowded Portland backcourt, and the projections of about 12 points and 4.6 assists already show that drop. He is a 1 USD bench filler or a waiver player who fits any build. Early in the season, check whether he starts or comes off the bench, how many minutes he gets, and whether Morant or Lillard miss games. Those are the times his value goes up.",
  "rejected": []
 }

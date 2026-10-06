@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "1312ddf81e74",
+ "input_sha": "2bad94d6d56b",
  "note_count": 3,
- "built_at": "2026-10-04T19:59:06+00:00",
+ "built_at": "2026-10-05T20:05:25+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1743836,
-  "duration_ms": 35045
+  "cost_usd_list": 0.1932584,
+  "duration_ms": 40239,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He is a rookie. The Hawks drafted him 23rd overall in the 2026 draft.",
+   "text": "He is a rookie. Atlanta drafted him 23rd in the 2026 NBA draft after his college career at St. John's.",
    "kind": "fact",
    "date": "2026-06-26",
    "until": "",
@@ -29,18 +31,19 @@
    ]
   },
   {
-   "text": "He is a backup big man behind Onyeka Okongwu. Atlanta also has Jock Landale at center.",
+   "text": "He is a backup big man. Onyeka Okongwu is the projected starting center and Jock Landale is also on the center depth chart.",
    "kind": "fact",
-   "date": "2026-06-26",
+   "date": "2026-09-25",
    "until": "",
    "sources": [
     "CLsUc0Sevos:p21",
     "CLsUc0Sevos:t2",
-    "lOshTzDA4SA:t8"
+    "lOshTzDA4SA:t8",
+    "4gw4W4RTolY:t1"
    ]
   },
   {
-   "text": "Lloyd expects a 10-man Hawks rotation that does not include him. The named bench is Dort, Wiggins, Landale, Flemings and probably Newell, with Kispert and Finney-Smith also in the mix.",
+   "text": "Lloyd expects a 10-man Hawks rotation, and Ejiofor is not in his list of bench players.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
@@ -49,16 +52,36 @@
    ]
   },
   {
-   "text": "Atlanta's center depth is thin. Veesaar is out for the season and Gueye is injured.",
+   "text": "Atlanta's frontcourt depth is thin. Veesaar is out for the season, Gueye is injured, and power forward depth is bad to start the season.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
    "sources": [
+    "4gw4W4RTolY:t3",
     "4gw4W4RTolY:t5"
    ]
   },
   {
-   "text": "In dynasty rookie rankings he is ranked 25th, in tier 5.",
+   "text": "His big college numbers as an upperclassman may not carry over to the NBA. One expert sees them as a red flag.",
+   "kind": "verdict",
+   "date": "2026-06-26",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p21",
+    "lOshTzDA4SA:p30"
+   ]
+  },
+  {
+   "text": "He could turn into a stretch big if his Summer League three-point shooting holds up.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p46"
+   ]
+  },
+  {
+   "text": "In dynasty rookie rankings he is rank 25, tier 5.",
    "kind": "verdict",
    "date": "2026-06-26",
    "until": "",
@@ -71,25 +94,14 @@
   {
    "text": "He is an undersized, switchy, high-energy big man.",
    "kind": "fact",
-   "date": "2026-06-26",
+   "date": "2026-06-25",
    "until": "",
    "sources": [
-    "lOshTzDA4SA:p30",
-    "CLsUc0Sevos:p21"
+    "lOshTzDA4SA:p30"
    ]
   },
   {
-   "text": "Experts doubt that his college production at St. John's will carry over. One sees big numbers from an upperclassman as a red flag and did not rate him as a first-round talent.",
-   "kind": "verdict",
-   "date": "2026-06-26",
-   "until": "",
-   "sources": [
-    "lOshTzDA4SA:p30",
-    "CLsUc0Sevos:p21"
-   ]
-  },
-  {
-   "text": "He barely shot threes in college. In Summer League, 52% of his shots were threes and he made 35% of them.",
+   "text": "He barely shot threes in college. In 2026 Summer League he took 52% of his shots from three and made 35% of them.",
    "kind": "fact",
    "date": "2026-07-23",
    "until": "",
@@ -98,18 +110,9 @@
    ]
   },
   {
-   "text": "He could develop into a stretch big.",
-   "kind": "verdict",
-   "date": "2026-07-23",
-   "until": "",
-   "sources": [
-    "LUTYUdXBG1M:p46"
-   ]
-  },
-  {
-   "text": "His projections are far below the league in points, threes and steals.",
+   "text": "Projections give him very few threes, points and steals. His good FG% and low turnovers come on very small volume.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
@@ -120,7 +123,7 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "23rd pick in 2026 by Atlanta",
+   "detail": "2026 pick 23 by Atlanta",
    "until": "",
    "sources": [
     "CLsUc0Sevos:p21",
@@ -131,16 +134,37 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Backup big behind Okongwu and Landale and outside Lloyd's projected 10-man rotation",
+   "detail": "backup big behind Okongwu, with Landale also at center",
    "until": "",
    "sources": [
     "CLsUc0Sevos:p21",
+    "CLsUc0Sevos:t2",
+    "4gw4W4RTolY:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Hawks expect a 10-man rotation that does not include him",
+   "until": "",
+   "sources": [
     "4gw4W4RTolY:t2",
-    "lOshTzDA4SA:t8"
+    "W3THnI7wWdA:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "five-out offense",
+   "channel": "durable",
+   "detail": "Quin Snyder wants lots of threes and five-out spacing, which suits his new three-point shot",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:t3"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Yahoo values him at 0 USD and ranks him 700th, and ESPN does not price him. That puts him far outside the 144 players we draft, so do not spend an auction pick on him. The only path to value is Atlanta's thin center depth with Veesaar out and Gueye injured, so check early in the season whether he gets backup minutes behind Okongwu and whether his Summer League three-point shooting carries over to real games.",
+ "note": "Ejiofor is not a draft option in our 144-player auction. Yahoo values him at 0 USD (rank 700), ESPN gives no price, and his Yahoo projection is only 5.0 points and 4.1 rebounds as a backup. Early in the season, watch two things. First, whether his Summer League three-point shooting carries into real minutes. Second, whether an injury to Okongwu or Jalen Johnson opens a role in Atlanta's thin frontcourt. Only then is he worth a waiver claim.",
  "rejected": []
 }

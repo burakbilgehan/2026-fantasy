@@ -2,46 +2,81 @@
  "team": "DAL",
  "prompt_version": 1,
  "prompt_sha": "07b4ed7fd28e",
- "input_sha": "6766e49ecfbb",
+ "input_sha": "38cf80cbc92c",
  "note_count": 26,
- "built_at": "2026-10-04T20:02:55+00:00",
+ "built_at": "2026-10-05T20:10:04+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1658628,
-  "duration_ms": 49842
+  "cost_usd_list": 0.20996679999999998,
+  "duration_ms": 62731,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Dallas has very few true ball handlers. The only real guards are Kyrie Irving, rookie Sergio de Larrea and Marcus Sasser. Max Christie and Cooper Flagg are not point guards.",
+   "text": "Dusty May is the new head coach.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
-    "XSPJL_mlFXo:t0",
-    "0AptxcRW0RE:t1",
-    "RyzcCGChYgs:t3",
-    "P6TNP-g0wzY:t1",
-    "CLsUc0Sevos:t3"
+    "XSPJL_mlFXo:t1"
    ]
   },
   {
-   "text": "The frontcourt is crowded. Almost every player besides Irving is a power forward, and Dereck Lively II, Daniel Gafford, P.J. Washington, Santi Aldama, Naji Marshall and Morez Johnson Jr. all compete for frontcourt minutes.",
+   "text": "It is unknown how May will split minutes among the centers Lively, Gafford, Powell and Johnson and forwards like Washington and Aldama.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t1"
+   ]
+  },
+  {
+   "text": "Dereck Lively II, Dharma and Morez Johnson Jr. are all hurt.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t3"
+   ]
+  },
+  {
+   "text": "Daniel Gafford is the likely opening night center.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t3",
+    "stats"
+   ]
+  },
+  {
+   "text": "Josh projects a starting five of Kyrie Irving, Max Christie, Cooper Flagg, P.J. Washington and Morez Johnson Jr.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t2"
+   ]
+  },
+  {
+   "text": "The frontcourt is crowded with bigs and forwards, including Gafford, Lively, Washington, Aldama and Naji Marshall. Almost every player besides Kyrie Irving is a power forward.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:t0",
-    "XSPJL_mlFXo:t1",
     "RyzcCGChYgs:t3",
+    "Rqb5GdrSweY:t2",
     "P6TNP-g0wzY:t1",
     "CLsUc0Sevos:t3",
     "lOshTzDA4SA:t7",
-    "Rqb5GdrSweY:t2"
+    "sTtFUy7IoJI:t7"
    ]
   },
   {
-   "text": "The roster is overloaded with wings who expect minutes. It had 16 players in late July.",
+   "text": "The roster has 16 players and is overloaded with wings who expect minutes.",
    "kind": "fact",
    "date": "2026-07-27",
    "until": "",
@@ -59,43 +94,7 @@
    ]
   },
   {
-   "text": "Dusty May is the new head coach. How he will split the center minutes between Lively, Gafford, Powell and Johnson Jr., plus forwards like Washington and Aldama, is unknown.",
-   "kind": "fact",
-   "date": "2026-09-29",
-   "until": "",
-   "sources": [
-    "XSPJL_mlFXo:t1"
-   ]
-  },
-  {
-   "text": "Lively, Dharma and Morez Johnson Jr. are all hurt. That makes Gafford the likely opening night center.",
-   "kind": "fact",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:t3"
-   ]
-  },
-  {
-   "text": "Josh's projected starting five is Irving, Christie, Flagg, Washington and Morez Johnson Jr.",
-   "kind": "verdict",
-   "date": "2026-09-29",
-   "until": "",
-   "sources": [
-    "XSPJL_mlFXo:t2"
-   ]
-  },
-  {
-   "text": "Cooper Flagg is the first option on offense. Irving is the second.",
-   "kind": "verdict",
-   "date": "2026-09-16",
-   "until": "",
-   "sources": [
-    "2A2JbUN-kc0:t5"
-   ]
-  },
-  {
-   "text": "Irving's return will take shots mostly from players other than Flagg.",
+   "text": "The many power forwards limit Cooper Flagg's chances to block shots.",
    "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
@@ -104,16 +103,20 @@
    ]
   },
   {
-   "text": "So many power forwards on the floor limits Flagg's chances to block shots.",
-   "kind": "verdict",
-   "date": "2026-09-10",
+   "text": "Dallas is short on ball handlers. The only real guards are Kyrie Irving, rookie Sergio de Larrea and Marcus Sasser. Christie and Flagg are not point guards.",
+   "kind": "fact",
+   "date": "2026-09-29",
    "until": "",
    "sources": [
-    "dlo7L8Ru91A:t0"
+    "XSPJL_mlFXo:t0",
+    "0AptxcRW0RE:t1",
+    "RyzcCGChYgs:t3",
+    "P6TNP-g0wzY:t1",
+    "CLsUc0Sevos:t3"
    ]
   },
   {
-   "text": "Irving is 36 and coming off an injury, so the thin guard group has little cover behind him.",
+   "text": "Kyrie Irving is 36 and coming off an injury.",
    "kind": "fact",
    "date": "2026-07-21",
    "until": "",
@@ -122,7 +125,25 @@
    ]
   },
   {
-   "text": "Dallas added shooting across the roster, including Santi Aldama and Sergio de Larrea.",
+   "text": "Cooper Flagg is the first priority on offense and Kyrie Irving is second.",
+   "kind": "verdict",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:t5"
+   ]
+  },
+  {
+   "text": "Kyrie Irving's return will take shots mostly from players other than Flagg.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "dlo7L8Ru91A:t0"
+   ]
+  },
+  {
+   "text": "Dallas added shooting throughout the roster, including Santi Aldama and Sergio de Larrea.",
    "kind": "fact",
    "date": "2026-07-27",
    "until": "",
@@ -131,8 +152,8 @@
    ]
   },
   {
-   "text": "Dallas is rebuilding on the fly around Flagg, and this is a fact-finding season.",
-   "kind": "verdict",
+   "text": "Dallas is rebuilding on the fly around Cooper Flagg.",
+   "kind": "fact",
    "date": "2026-07-27",
    "until": "",
    "sources": [
@@ -140,7 +161,7 @@
    ]
   },
   {
-   "text": "Dallas could be a bad team. The Western Conference is weak, though, so a playoff push is possible. The market win total of 34.5 ranks 23rd of 30.",
+   "text": "Dallas could be a bad team, but the weak Western Conference makes a playoff push possible. The win total of 34.5 points to a below-average team.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -150,7 +171,7 @@
    ]
   },
   {
-   "text": "Dallas does not control its own first-round pick. It is owed to Charlotte with top-two protection.",
+   "text": "Dallas does not control its own pick. It is owed to Charlotte with top-two protection.",
    "kind": "fact",
    "date": "2026-08-10",
    "until": "",
@@ -160,7 +181,7 @@
    ]
   },
   {
-   "text": "Without its pick, Dallas has no reason to tank, so the risk of late-season tanking is low.",
+   "text": "Dallas has no reason to tank and may push to win, so late-season shutdown risk is low.",
    "kind": "verdict",
    "date": "2026-08-10",
    "until": "",
@@ -170,7 +191,38 @@
    ]
   },
   {
-   "text": "One more move is expected. Daniel Gafford and/or Klay Thompson could be traded.",
+   "text": "Dallas has probably the best fantasy playoff schedule, 4-4-4 for 12 games, with only one back-to-back in those weeks.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t4",
+    "gf_6GveiAls:t3",
+    "stats"
+   ]
+  },
+  {
+   "text": "Dallas has 16 back-to-backs, among the most in the league, which raises rest risk for its players during the regular season. It is the only high back-to-back team with a 4-4-4 playoff schedule.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t4",
+    "gf_6GveiAls:t3",
+    "stats"
+   ]
+  },
+  {
+   "text": "Dallas plays only two games in the matchup week starting March 1, the last week before our playoffs.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t13"
+   ]
+  },
+  {
+   "text": "One more move is expected, possibly a trade of Daniel Gafford and/or Klay Thompson.",
    "kind": "verdict",
    "date": "2026-07-27",
    "until": "",
@@ -180,38 +232,7 @@
    ]
   },
   {
-   "text": "Dallas has the best fantasy playoff schedule: 4 games in each of weeks 19, 20 and 21, for 12 games in total (rank 1 of 30). There is only one back-to-back pair across those weeks, in week 19.",
-   "kind": "fact",
-   "date": "2026-09-29",
-   "until": "",
-   "sources": [
-    "XSPJL_mlFXo:t4",
-    "gf_6GveiAls:t3",
-    "stats"
-   ]
-  },
-  {
-   "text": "Dallas has 16 back-to-backs, one of the highest totals in the league (rank 26 of 30). That raises rest risk for older or injury-prone players like Irving during the regular season.",
-   "kind": "fact",
-   "date": "2026-09-29",
-   "until": "",
-   "sources": [
-    "XSPJL_mlFXo:t4",
-    "gf_6GveiAls:t3",
-    "stats"
-   ]
-  },
-  {
-   "text": "Dallas plays only two games in the matchup week starting March 1, which is the week before our playoffs.",
-   "kind": "fact",
-   "date": "2026-08-16",
-   "until": "",
-   "sources": [
-    "gf_6GveiAls:t13"
-   ]
-  },
-  {
-   "text": "Josh sees no strong reason to fade Dallas players. He thinks most of their draft positions are reasonable.",
+   "text": "Josh sees no strong fade on Dallas players and thinks most of their draft positions are reasonable.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -222,8 +243,8 @@
  ],
  "durable": [
   {
-   "text": "The front office cares little about positions. It collects talent to see who sticks, which leads to crowded position groups and unclear roles.",
-   "kind": "verdict",
+   "text": "The front office cares little about positions and collects talent to see who sticks.",
+   "kind": "fact",
    "date": "2026-07-27",
    "until": "",
    "sources": [
@@ -233,9 +254,71 @@
  ],
  "tags": [
   {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "Dusty May; his split of center and forward minutes is unknown.",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Crowded frontcourt and too many wings: Gafford, Lively, Johnson, Washington, Aldama, Marshall, Risacher.",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t0",
+    "0AptxcRW0RE:t2",
+    "sTtFUy7IoJI:t7",
+    "RyzcCGChYgs:t3",
+    "P6TNP-g0wzY:t1",
+    "CLsUc0Sevos:t3",
+    "lOshTzDA4SA:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Center job open: Lively and Johnson hurt, Gafford likely opens, new coach's plan unknown.",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t1",
+    "XSPJL_mlFXo:t2",
+    "ZYllcj4o6_A:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "thin backcourt",
+   "channel": "current",
+   "detail": "Only real guards are Kyrie Irving, Sergio de Larrea and Marcus Sasser.",
+   "until": "",
+   "sources": [
+    "0AptxcRW0RE:t1",
+    "XSPJL_mlFXo:t0",
+    "RyzcCGChYgs:t3",
+    "P6TNP-g0wzY:t1"
+   ],
+   "new_meaning": "The team has few true guards or ball handlers, so guard minutes and playmaking fall on a small group."
+  },
+  {
+   "name": "concentrated usage",
+   "channel": "current",
+   "detail": "Cooper Flagg is the first option, Kyrie Irving second.",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:t5",
+    "dlo7L8Ru91A:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "4-4-4 in weeks 19 to 21, 12 games, rank 1 of 30, only one back-to-back pair",
+   "detail": "4-4-4, 12 games, rank 1 of 30, one back-to-back.",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:t4",
@@ -247,65 +330,37 @@
   {
    "name": "many back-to-backs",
    "channel": "current",
-   "detail": "16 back-to-backs, rank 26 of 30",
+   "detail": "16 back-to-backs.",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:t4",
-    "gf_6GveiAls:t3",
     "stats"
    ],
-   "new_meaning": "The team has many back-to-backs this season, so rest risk is higher for its older or fragile players."
+   "new_meaning": ""
   },
   {
-   "name": "thin at guard",
+   "name": "low shutdown risk",
    "channel": "current",
-   "detail": "Only Irving, de Larrea and Sasser are real guards",
-   "until": "",
-   "sources": [
-    "XSPJL_mlFXo:t0",
-    "0AptxcRW0RE:t1",
-    "RyzcCGChYgs:t3",
-    "P6TNP-g0wzY:t1"
-   ],
-   "new_meaning": "The team has few real ball handlers, so its guards get more minutes and ball-handling duties."
-  },
-  {
-   "name": "crowded frontcourt",
-   "channel": "current",
-   "detail": "Lively, Gafford, Washington, Aldama, Marshall and Johnson Jr. all compete for frontcourt minutes",
-   "until": "",
-   "sources": [
-    "XSPJL_mlFXo:t0",
-    "XSPJL_mlFXo:t1",
-    "sTtFUy7IoJI:t7",
-    "RyzcCGChYgs:t3",
-    "CLsUc0Sevos:t3",
-    "lOshTzDA4SA:t7"
-   ],
-   "new_meaning": "The team has more forwards and centers than frontcourt minutes, so big men's roles are unclear."
-  },
-  {
-   "name": "new head coach",
-   "channel": "current",
-   "detail": "Dusty May",
-   "until": "",
-   "sources": [
-    "XSPJL_mlFXo:t1"
-   ],
-   "new_meaning": "The team has a new head coach, so rotation and minutes habits are not known yet."
-  },
-  {
-   "name": "no tank incentive",
-   "channel": "current",
-   "detail": "Pick owed to Charlotte, top-two protected",
+   "detail": "Pick owed to Charlotte (top-two protected), so no reason to tank.",
    "until": "",
    "sources": [
     "sfCe7fS9daM:t10",
     "Rqb5GdrSweY:t2"
    ],
-   "new_meaning": "The team does not own its own pick, so it has little reason to tank or rest healthy players late in the season."
+   "new_meaning": ""
+  },
+  {
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "Gafford and/or Klay Thompson named as trade options.",
+   "until": "",
+   "sources": [
+    "0AptxcRW0RE:t6",
+    "P6TNP-g0wzY:t1"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Dallas has the best playoff schedule in the league (4-4-4) and no reason to tank, which helps every Mav in weeks 19 to 21. Flagg and Irving lead the usage, and the thin guard group makes Irving, Sasser and de Larrea the only real ball handlers, but the frontcourt logjam caps Aldama, Washington and the centers. Early on, watch how new coach Dusty May splits center minutes while Lively and Johnson Jr. are hurt, and whether a Gafford trade happens.",
+ "note": "Cooper Flagg and Kyrie Irving carry the offense, and the 4-4-4 playoff schedule (12 games, best in the league) lifts every Dallas starter for weeks 19 to 21. With Lively and Morez Johnson Jr. hurt, Gafford gains early as the likely opening night center, but he is a trade candidate. The crowded frontcourt caps Aldama, Risacher and Flagg's blocks. Early on, watch how Dusty May splits the center minutes, Kyrie's health with 16 back-to-backs, and whether the expected trade happens. Remember the two-game week starting March 1, the last week before our playoffs.",
  "rejected": []
 }

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 40 | 37.4 | 17 | 37 | 24.2 | 21 | 27 |
+| 2026-27 | 40 | 37.4 | 17 | 37 | 24.0 | 21 | 27 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,26 +30,30 @@
 </details>
 
 **Current**
-- He is Denver's projected starting point guard, next to Christian Braun, Cam Johnson, Aaron Gordon and Nikola Jokic. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307))
-- His usage rose under David Adelman. Many teammate absences also helped, because he was the only one who stayed healthy. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=600))
-- His three-point percentage is expected to drop to around 40 to 41%. (verdict, 2026-09-29; [09-16](https://youtu.be/2A2JbUN-kc0?t=2055), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=470))
-- Experts call him a safe pick in the middle of round two and fine as early as the start of round two. He could finish top 12, but that is not certain. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=487), [09-09](https://youtu.be/7BllEsdNLoM?t=1024), [09-29](https://youtu.be/XnIWJyBB0EM?t=2174), [09-16](https://youtu.be/2A2JbUN-kc0?t=2055))
-- Experts say his ESPN ranking is far too low and call him a bargain there. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=487), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2334))
-- Denver plays 43 games through March 28 and has only 14 back-to-backs, one of the lowest counts in the league. The team is mostly healthy going into the season. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1658))
-- He is fine to pair with Jokic in round two and could finish ranked above Tyrese Maxey this season. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1973), [09-23](https://youtu.be/C4vlgpJ62NI?t=1269))
-- Experts expect his role of about 28 usage and 35 minutes to hold. One expert is more confident in his role than in any other tier 3 point guard. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=2055), [09-09](https://youtu.be/7BllEsdNLoM?t=1024))
-- One expert thinks Denver could trade him by the deadline to shed salary, because they cannot build a top-15 defense while paying both Jokic and Murray over 30M USD. (verdict, 2026-07-31, until 2027-03-04; [07-31](https://youtu.be/keNupMSHp1Y?t=892))
-- One expert doubts Denver will rest him on purpose. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1377))
+- In an expert auction mock on 2026-10-05, he sold for 37 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2127))
+- One expert targeted him but would pay no more than 34 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2127))
+- His 2025-26 season was the best of his career. He set career highs in points and assists, his usage rose to 28, and he finished 17th. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=454), [09-16](https://youtu.be/2A2JbUN-kc0?t=2055))
+- His usage rose under coach David Adelman. Many teammates missed games last season and Murray was the only one who stayed healthy, which also lifted his role. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=600))
+- He is a projected starter for Denver next to Christian Braun, Cam Johnson, Aaron Gordon and Nikola Jokic. DeMar DeRozan joins the bench. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=170), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307))
+- His 42 to 43% three-point shooting from last season will probably drop. About 40 to 41% is a reasonable expectation. (verdict, 2026-09-29; [09-16](https://youtu.be/2A2JbUN-kc0?t=2055), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=470))
+- Experts rank him around 14th in 9-cat. One says he could maybe finish top 12, and another says he could finish above Tyrese Maxey. (verdict, 2026-09-29; [09-16](https://youtu.be/2A2JbUN-kc0?t=2055), [09-29](https://youtu.be/XnIWJyBB0EM?t=2174), [09-23](https://youtu.be/C4vlgpJ62NI?t=1973))
+- He is a safe pick in the middle of round two and fine as early as the start of round two. He is also a fine round-two partner for Jokic. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=487), [09-09](https://youtu.be/7BllEsdNLoM?t=1024), [09-23](https://youtu.be/C4vlgpJ62NI?t=1973), [09-23](https://youtu.be/C4vlgpJ62NI?t=1269))
+- Experts call his low ESPN rank a bargain, even after a career-best season. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=487), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2334))
+- Denver has a good schedule: 43 games through March 28 and only 14 back-to-backs, one of the lowest counts in the league. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678))
+- Experts expect his 28 usage and 35 minutes to hold. One ranker is more sure of his role than of any other player in his tier. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=2055), [09-09](https://youtu.be/7BllEsdNLoM?t=1024))
+- One analyst thinks Denver could trade him before the deadline to shed salary, because he doubts Denver can build a top-15 defense while paying both Jokic and Murray over 30M USD. (verdict, 2026-07-31, until trade deadline; [07-31](https://youtu.be/keNupMSHp1Y?t=892), [07-31](https://youtu.be/keNupMSHp1Y?t=903))
+- Denver is not expected to rest Murray on purpose. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1377))
+- One analyst projects Denver to win 50 games. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1746))
 
 **Durable**
-- He is a strong three-point shooter, at close to 40% or better over the last four seasons. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=470))
-- His category profile is volume scoring, threes, good assists, high FT% on real volume and a good FG% for a guard. None of his categories is weak. (fact, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=576), stats)
-- He has become more of a playmaker than a pure shooter. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=876))
+- He is a strong three-point shooter. He has shot close to 40% or better from three in each of the last four years. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=470))
+- He is a high-volume scorer who adds threes, good assists and a good FG% for a guard. His best categories are PTS, AST, 3PM and FT%. No category is a real weakness. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=576), stats)
+- His game has become more about playmaking. One analyst compares him to Tony Parker more than to a discount Steph Curry. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=876))
 
 **Tags**
-- Current: `trade risk` (possible salary dump by the deadline; until 2027-03-04), `few back-to-backs` (14 back-to-backs, one of the lowest counts in the league), `sites disagree on price` (Yahoo average cost 37.4 USD vs ESPN 24.2 USD), `expert target` (experts say his ESPN rank is far too low)
-- Durable: `fits every build` (no weak category; strong in PTS, AST, 3PM, FT%)
+- Current: `regression risk` (Expected to fall from 42-43% to about 40-41% from three), `trade risk` (Could be traded to shed salary; until trade deadline), `sites disagree on price` (Average cost is 37.4 USD on Yahoo and 24.0 USD on ESPN. Experts call the ESPN rank a bargain.), `few back-to-backs` (Denver has 14 back-to-backs), `low shutdown risk` (Denver is not expected to rest Murray, Jokic or Gordon on purpose), `winning team` (One analyst projects 50 wins)
+- Durable: `fits every build` (No category flagged weak. Strongest are PTS, AST, 3PM and FT%.)
 
-**Note.** He is priced as a top-20 player: Yahoo rank 17, value 40 USD and average cost 37.4 USD. ESPN's average cost of 24.2 USD is much lower, and our league paid 27 USD last season, so he could be a value buy anywhere under about 37 USD. He has no weak category, so he fits any build, and Denver's light back-to-back schedule helps. Early in the season, check that his usage stays near 28 with DeRozan added and teammates healthy, how close his three-point shooting is to 40%, and any salary-dump trade talk before the 2027-03-04 deadline.
+**Note.** He is a round-two-level guard. In our league, expect him to cost about 35 to 40 USD: Yahoo values him at 40 USD (average cost 37.4 USD), he sold for 37 USD in an expert mock, and he went for 27 USD in our league last season. He has no weak category and adds PTS, AST, 3PM and FT% on volume, so he fits any build and pairs well with Jokic. Early in the season, check whether his usage stays near 28 now that Denver's roster is healthy and DeRozan has arrived, and whether his three-point percentage falls toward 40%.
 
-<sub>14 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>15 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

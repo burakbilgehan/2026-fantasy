@@ -8,49 +8,93 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "6269088b7f35",
+ "input_sha": "1616dde86718",
  "note_count": 4,
- "built_at": "2026-10-04T17:24:20+00:00",
+ "built_at": "2026-10-05T19:43:25+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.154415,
-  "duration_ms": 31236
+  "cost_usd_list": 0.1479182,
+  "duration_ms": 36902,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He signed with the Pelicans as a restricted free agent this offseason.",
+   "text": "Signed with the Pelicans and joins their bench.",
    "kind": "fact",
-   "date": "2026-08-26",
+   "date": "2026-09-04",
    "until": "",
    "sources": [
-    "sTtFUy7IoJI:p38"
+    "sTtFUy7IoJI:p38",
+    "gerS7ibpaJo:t1"
    ]
   },
   {
-   "text": "He is not in the projected starting five. Zion Williamson, Trey Murphy, Dejounte Murray and likely Yves Missi start, and the last spot goes to Jeremiah Fears or Herb Jones. He was added to the bench of a crowded rotation.",
-   "kind": "fact",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:t1",
-    "gerS7ibpaJo:t1",
-    "NYTH7uQsPCM:t0"
-   ]
-  },
-  {
-   "text": "He is projected to play about eight fewer minutes per game in New Orleans. He could take shots from Fears, Murphy, Murray and Zion.",
+   "text": "Projected to play about eight fewer minutes per game than last season. He could take shots away from Fears, Murphy, Murray and Zion.",
    "kind": "verdict",
    "date": "2026-08-26",
    "until": "",
    "sources": [
     "sTtFUy7IoJI:p38"
    ]
+  },
+  {
+   "text": "The Pelicans rotation is crowded. Murray, Murphy and Zion are locked in as starters. Fears or Herb Jones and Missi or Queen compete for the other spots, and Saddiq Bey is also in the mix. Mathurin is not part of the starter talk.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:t2",
+    "ZYllcj4o6_A:t1",
+    "NYTH7uQsPCM:t0",
+    "gerS7ibpaJo:t1",
+    "Q6YlQDvD-aY:t1"
+   ]
+  },
+  {
+   "text": "The Pelicans need to trade someone to make room for Mathurin, possibly Jordan Hawkins or Micah Peavy.",
+   "kind": "verdict",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:t3"
+   ]
+  },
+  {
+   "text": "The Pelicans are projected as a weak team near the bottom of the West, at about 34 wins and out of the playoffs.",
+   "kind": "verdict",
+   "date": "2026-08-03",
+   "until": "",
+   "sources": [
+    "0AptxcRW0RE:t7",
+    "5QU-jta-lWM:t6"
+   ]
+  },
+  {
+   "text": "New coach Jamahl Mosley brings a defense-first identity to the Pelicans.",
+   "kind": "fact",
+   "date": "2026-09-04",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:t4",
+    "gerS7ibpaJo:t0"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He drives well and gets to the rim and the free throw line. He does not defend, pass or shoot well.",
+   "text": "Drives well and gets to the rim and the free throw line.",
+   "kind": "verdict",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p37",
+    "stats"
+   ]
+  },
+  {
+   "text": "Does not defend, pass or shoot well, and his defensive numbers are bad.",
    "kind": "verdict",
    "date": "2026-08-26",
    "until": "",
@@ -60,12 +104,13 @@
    ]
   },
   {
-   "text": "His rebounding has improved. His defensive numbers are bad.",
-   "kind": "verdict",
+   "text": "Rebounds well for a wing, at over 5 per game in each of the last two seasons.",
+   "kind": "fact",
    "date": "2026-08-26",
    "until": "",
    "sources": [
-    "sTtFUy7IoJI:p39"
+    "sTtFUy7IoJI:p39",
+    "stats"
    ]
   }
  ],
@@ -83,7 +128,7 @@
   {
    "name": "role down",
    "channel": "current",
-   "detail": "Projected for about eight fewer minutes per game, bench role",
+   "detail": "Projected for about eight fewer minutes per game, off the bench",
    "until": "",
    "sources": [
     "sTtFUy7IoJI:p38",
@@ -94,27 +139,80 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Crowded wing and guard rotation with Fears, Murray, Murphy, Herb Jones and Zion",
+   "detail": "Crowded wing and guard group: Murray, Murphy, Fears, Herb Jones, Bey",
    "until": "",
    "sources": [
-    "sTtFUy7IoJI:p38",
-    "NYTH7uQsPCM:t0",
     "gerS7ibpaJo:t1",
-    "ZYllcj4o6_A:t1"
+    "NYTH7uQsPCM:t0",
+    "n4KkK-OJjqA:t2"
    ],
    "new_meaning": ""
   },
   {
-   "name": "fits every build",
-   "channel": "durable",
-   "detail": "No category flagged weak, but no strong category either",
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Shares shots with Fears, Murphy, Murray and Zion",
    "until": "",
    "sources": [
-    "stats"
+    "sTtFUy7IoJI:p38"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "About eight Pelicans who could all start",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:t0",
+    "gerS7ibpaJo:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Guard roles and frontcourt starters unclear",
+   "until": "",
+   "sources": [
+    "OdDkXFhoKsc:t0",
+    "gerS7ibpaJo:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "Pelicans need to trade someone to fit Mathurin",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "About 34 wins projected, bottom of the West",
+   "until": "",
+   "sources": [
+    "0AptxcRW0RE:t7",
+    "5QU-jta-lWM:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "Jamahl Mosley",
+   "until": "",
+   "sources": [
+    "gerS7ibpaJo:t0",
+    "5QU-jta-lWM:t4"
    ],
    "new_meaning": ""
   }
  ],
- "note": "He ranks 156 on Yahoo and 187 on ESPN, and both sites value him at 0 USD. That puts him outside our 144 drafted players, even though our league paid 4 USD for him last season. Yahoo projects a bench role (11.2 PTS on 8.2 FGA), while ESPN projects his old workload (16.5 PTS). In early games, check his minutes and shot volume off the New Orleans bench and pick him up from waivers only if he gets close to 30 minutes.",
+ "note": "Yahoo (rank 156) and ESPN (rank 187) both value him at 0 USD. That puts him outside the 144 players drafted in our league, even though he cost 4 USD in our last auction. The sites see his role very differently: ESPN projects 29.2 minutes and 16.5 points, while Yahoo's line projects only 11.2 points on 8.2 shots. His only standout category is FT%, at 85% on real free throw volume, and he has no punt build fit, so leave him on waivers. Early in the season, check his bench minutes and whether a Pelicans trade or an injury in the crowded rotation gives him a bigger role.",
  "rejected": []
 }

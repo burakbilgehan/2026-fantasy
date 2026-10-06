@@ -30,26 +30,26 @@
 </details>
 
 **Current**
-- He is in the projected Clippers starting five with Garland, Derrick Jones Jr., Hachimura and Isaiah Jackson. The speaker is not confident about this lineup. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=360), [09-03](https://youtu.be/OBwWCxG9SqM?t=1756))
+- He is projected to start for the Clippers next to Darius Garland, Derrick Jones Jr., Rui Hachimura and Isaiah Jackson. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=360), [09-03](https://youtu.be/OBwWCxG9SqM?t=1756))
+- The expert is not confident in that starting five. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=360))
 - A Jones fracture limited him to about 12 games last season, and he finished outside the top 250 in category leagues. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=570), [08-24](https://youtu.be/rnq3118kfhY?t=412))
-- Ingram is out, and so are Beal, Jordan Miller and Konan Niederhauser. The Clippers are probably the most injury-hit team in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018))
-- With Ingram out, his usage and minutes should go up. The speaker projects his minutes back near 32, which would put him around the top 120. (verdict, 2026-10-04, until Ingram returns; [10-04](https://youtu.be/tnzmsYUA4yQ?t=601), [10-04](https://youtu.be/tnzmsYUA4yQ?t=634))
-- He has no Yahoo ADP and is worth a late-round flyer. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=601), [10-04](https://youtu.be/tnzmsYUA4yQ?t=634))
-- Watch whether his assists get back to about 4 a game. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=634))
-- The speaker leans toward a Clippers trial season with long rotations and many players tested. Coach Ty Lue also changes rotations often, so the minutes projection is not safe. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
-- The Clippers have a good fantasy playoff schedule, 4-3-4 games in weeks 19 to 21 with a March 28 end. They have 13 back-to-backs, one of the lowest totals in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
-- The Clippers got Strus in a trade, the Watson deal. (fact, 2026-09-03; [08-24](https://youtu.be/rnq3118kfhY?t=412), [09-03](https://youtu.be/OBwWCxG9SqM?t=1756), [08-24](https://youtu.be/g31YlwRe0XQ?t=2470))
-- He is over 30 and on an expiring contract. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=412))
+- Brandon Ingram is out, along with Bradley Beal and Jordan Miller. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018))
+- With Ingram out, his usage and minutes should go up. Watch whether his assists get back to about 4 a game. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=634))
+- He is worth a late-round flyer. If his minutes get back near 32, he could rank around the top 120. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=601))
+- The expert expects a trial season for the Clippers, with long rotations and many players tested. Coach Ty Lue often changes his rotations. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
+- The Clippers play 4, 3 and 4 games in fantasy playoff weeks 19 to 21. They have 13 back-to-backs, one of the lowest totals in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
+- Strus joined the Clippers in a trade from Cleveland (the Watson deal). (fact, 2026-09-03; [08-24](https://youtu.be/rnq3118kfhY?t=412), [08-24](https://youtu.be/g31YlwRe0XQ?t=2470), [09-03](https://youtu.be/OBwWCxG9SqM?t=1756))
+- He is over 30 and in the last year of his contract. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=412))
 
 **Durable**
 - He takes a lot of difficult threes. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=616))
-- He has a reputation as an elite shooter but is not really one. His threes go in at an ordinary rate. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=616))
-- He had a Jones fracture that cost him most of the 2025-26 season. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=570), [08-24](https://youtu.be/rnq3118kfhY?t=412))
+- He is known as an elite shooter, but his threes go in at an ordinary rate. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=616))
+- Injury history: a Jones fracture cost him most of the 2025-26 season. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=412))
 
 **Tags**
-- Current: `new team` (Traded to the Clippers in the Watson deal), `injury last season` (Jones fracture, about 12 games played), `role up` (Projected starter; more usage and minutes near 32 while Ingram is out; until Ingram returns), `flyer` (Late-round flyer with around top 120 upside), `sleeper` (No Yahoo ADP; around top 120 if his minutes return near 32), `good playoff schedule` (Clippers play 4-3-4 in weeks 19 to 21 (March 28 end)), `few back-to-backs` (Clippers have 13 back-to-backs)
-- Durable: `fits every build` (No weak category flagged, but no strong one either)
+- Current: `new team` (Traded from Cleveland to the Clippers in the Watson deal), `contract year` (Expiring contract), `injury last season` (Jones fracture, about 12 games played), `role up` (More usage and minutes with Ingram out, projected starter), `flyer` (No Yahoo ADP, around top 120 upside if minutes return near 32), `unsettled rotation` (Trial season with long rotations, starting five not certain), `good playoff schedule` (4-3-4 games in weeks 19 to 21), `few back-to-backs` (13 back-to-backs)
+- Durable: `3PM from a big` (About 2.3 threes per game projected as a forward)
 
-**Note.** Both sites value him at 0 USD and rank him around 205 to 210, well outside the 144 players we draft. He is a 1 USD last-round flyer or a waiver pickup, not a target. The upside case is a return to his 2023-24 role (32 minutes, 4.0 AST, 2.4 3PM), but that line came with 41.8% FG on 10.4 attempts, so he helps in threes and turnovers and costs a little in FG%, steals and blocks. In the first two weeks, check whether he really starts, plays near 32 minutes and gets back to about 4 assists while Ingram is out.
+**Note.** Yahoo and ESPN both price him at 0 USD and rank him around 205 to 209, outside the 144 players our league drafts. He is at most a 1 USD last pick or an early waiver watch. His value is threes from a forward slot with few turnovers, and he gives little in steals, blocks and FG%. Early on, check whether his minutes get near 32 and his assists near 4 while Ingram is out. The Clippers' 4-3-4 playoff schedule and few back-to-backs make him easier to hold if the role is there.
 
-<sub>5 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

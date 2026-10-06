@@ -8,40 +8,40 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "759e69dc1339",
- "note_count": 10,
- "built_at": "2026-10-04T19:59:05+00:00",
+ "input_sha": "e91d72b29098",
+ "note_count": 11,
+ "built_at": "2026-10-05T20:05:42+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.146672,
-  "duration_ms": 34195
+  "cost_usd_list": 0.2044902,
+  "duration_ms": 59366,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He is expected to start for New Orleans next to Trey Murphy, Dejounte Murray and likely Yves Missi.",
+   "text": "He is locked into the Pelicans' starting lineup with Dejounte Murray and Trey Murphy.",
    "kind": "fact",
-   "date": "2026-10-02",
+   "date": "2026-10-04",
    "until": "",
    "sources": [
+    "n4KkK-OJjqA:t2",
     "ZYllcj4o6_A:t1"
    ]
   },
   {
-   "text": "Derik Queen and Zion are seen as a poor fit together. Queen does not look set to start, and Yves Missi looks like the starting center.",
+   "text": "He projects for only about 30 minutes. Guards handling the ball limit any point forward role for him.",
    "kind": "verdict",
-   "date": "2026-09-30",
+   "date": "2026-09-14",
    "until": "",
    "sources": [
-    "BjXP9JODDSg:t1",
-    "_vbAP5y182A:t0",
-    "ahNxsoU8Hx4:t1",
-    "LM0cRCGoAUQ:t8"
+    "LM0cRCGoAUQ:p47"
    ]
   },
   {
-   "text": "Last season he was used more off the ball and less as a point forward.",
-   "kind": "fact",
+   "text": "Playing more off the ball is probably part of why he stayed healthy.",
+   "kind": "verdict",
    "date": "2026-08-03",
    "until": "",
    "sources": [
@@ -49,35 +49,29 @@
    ]
   },
   {
-   "text": "The off-ball role is probably part of why he stayed healthy. Guards handling the ball limit any point-Zion role, and he projects for only about 30 minutes.",
-   "kind": "verdict",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "5QU-jta-lWM:p2",
-    "LM0cRCGoAUQ:p47"
-   ]
-  },
-  {
-   "text": "He stayed healthy last season but had one of his worst years.",
+   "text": "There is talk that Saddiq Bey may close games in lineups with Zion at center.",
    "kind": "fact",
-   "date": "2026-08-03",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "5QU-jta-lWM:p1"
+    "Q6YlQDvD-aY:t1"
    ]
   },
   {
-   "text": "Year eight is a make or break season for him. He is the Pelican under the most pressure.",
+   "text": "Zion and Derik Queen are a poor fit together. Yves Missi looks likely to start at center over Queen.",
    "kind": "verdict",
-   "date": "2026-08-03",
+   "date": "2026-10-02",
    "until": "",
    "sources": [
-    "5QU-jta-lWM:p3"
+    "ahNxsoU8Hx4:t1",
+    "LM0cRCGoAUQ:t8",
+    "_vbAP5y182A:t0",
+    "BjXP9JODDSg:t1",
+    "ZYllcj4o6_A:t1"
    ]
   },
   {
-   "text": "New Orleans has one of the highest back-to-back counts this season.",
+   "text": "New Orleans has among the most back-to-backs this season.",
    "kind": "fact",
    "date": "2026-08-16",
    "until": "",
@@ -86,32 +80,81 @@
    ]
   },
   {
-   "text": "Experts expect the Pelicans to rest him often, which is a risk to his games played.",
+   "text": "Josh thinks the Pelicans will rest Zion often, and the back-to-backs add to that risk.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
    "sources": [
-    "gf_6GveiAls:p16",
-    "ZYllcj4o6_A:t1"
+    "ZYllcj4o6_A:t1",
+    "gf_6GveiAls:p16"
    ]
   },
   {
-   "text": "His ESPN ADP of 46 is too high. One expert puts him in tier eight among power forwards.",
+   "text": "Year eight is a make or break season for him. He is the player under the most pressure on the team.",
    "kind": "verdict",
-   "date": "2026-09-19",
+   "date": "2026-08-03",
    "until": "",
    "sources": [
+    "5QU-jta-lWM:p3"
+   ]
+  },
+  {
+   "text": "Experts say his draft price is too high. Josh values him at about 6 USD in auctions, and an ESPN ADP around 46 is called too high.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p73",
     "uarqbNA2dFk:p43",
-    "LM0cRCGoAUQ:p47",
     "80kfLVnFQ_s:p29"
+   ]
+  },
+  {
+   "text": "In an October mock auction, bidding opened at 3 USD and he went for 8 USD.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p73"
+   ]
+  },
+  {
+   "text": "The Pelicans have a new coach, Jamahl Mosley, who brings a defense-first identity.",
+   "kind": "fact",
+   "date": "2026-09-04",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:t4",
+    "gerS7ibpaJo:t0"
+   ]
+  },
+  {
+   "text": "The Pelicans have a crowded rotation of about eight players who could start, which creates a minutes crunch.",
+   "kind": "fact",
+   "date": "2026-09-04",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:t0",
+    "gerS7ibpaJo:t1"
+   ]
+  },
+  {
+   "text": "The Pelicans project as a weak team near the bottom of the West, at about 34 wins and out of the playoffs. One expert does not expect them to pack it in.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:t6",
+    "0AptxcRW0RE:t7",
+    "egRrai3Ax38:t1"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is a big FG% anchor. He takes a lot of shots and makes them at a very high rate.",
+   "text": "He scores a lot at a high FG% on real volume, which lifts a team's FG% clearly.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-08-30",
    "until": "",
    "sources": [
     "stats",
@@ -119,9 +162,9 @@
    ]
   },
   {
-   "text": "He hurts FT% clearly because he takes a lot of free throws at a low rate.",
+   "text": "His FT% is low on real volume and hurts a team's FT%.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-08-30",
    "until": "",
    "sources": [
     "stats",
@@ -131,14 +174,14 @@
   {
    "text": "He makes almost no threes.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He is not a good rebounder. He does not space the floor or play defense.",
+   "text": "He is not a good rebounder for his size. He does not space the floor or play defense.",
    "kind": "verdict",
    "date": "2026-08-30",
    "until": "",
@@ -161,7 +204,7 @@
   {
    "name": "FG% anchor",
    "channel": "durable",
-   "detail": "about 59% FG on about 15 attempts per game",
+   "detail": "about 59% on 14 to 15 attempts",
    "until": "",
    "sources": [
     "stats",
@@ -172,7 +215,7 @@
   {
    "name": "FT% liability",
    "channel": "durable",
-   "detail": "about 70% FT on about 7.6 attempts per game",
+   "detail": "about 70% on 7.6 attempts",
    "until": "",
    "sources": [
     "stats",
@@ -221,27 +264,91 @@
    "new_meaning": ""
   },
   {
-   "name": "back-to-back risk",
+   "name": "usage competition",
    "channel": "current",
-   "detail": "New Orleans has one of the highest back-to-back counts, and experts expect him to be rested often",
+   "detail": "ball-handling guards limit a point forward role",
    "until": "",
    "sources": [
-    "gf_6GveiAls:p16",
-    "ZYllcj4o6_A:t1"
+    "LM0cRCGoAUQ:p47"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "back-to-back risk",
+   "channel": "current",
+   "detail": "Josh expects the Pelicans to rest him often",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t1",
+    "gf_6GveiAls:p16"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p16"
    ],
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "ESPN ADP 46 called too high",
+   "detail": "ESPN ADP around 46 called too high",
    "until": "",
    "sources": [
-    "uarqbNA2dFk:p43"
+    "uarqbNA2dFk:p43",
+    "80kfLVnFQ_s:p29"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 12 USD, ESPN value 3 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "about 34 wins projected",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:t6",
+    "0AptxcRW0RE:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "Jamahl Mosley",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:t4",
+    "gerS7ibpaJo:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "about eight players who could start",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:t0",
+    "gerS7ibpaJo:t1"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Experts call his ESPN ADP of 46 too high, and the sites rank him much lower (Yahoo 78, ESPN 96, average costs of 4.0 and 6.6 USD). That makes the 21 USD our league paid last season an overpay, and the target price is around the Yahoo value of 12 USD or less. He fits punt FT% and punt 3PM builds best, where his strong FG% and 22 to 23 points carry the value. Early in the season, check how often the Pelicans rest him on back-to-backs and whether Mosley gives him more of the ball than the off-ball role he had last season.",
+ "note": "Zion is a category trade-off. He gives strong FG% and points but has a weak FT% and almost no threes, so he fits punt FT% and punt 3PM builds best. Experts price him at about 6 to 8 USD, close to his Yahoo (4.0 USD) and ESPN (6.5 USD) average costs and far below the 21 USD he cost in our league last season, so do not pay anything near that again. Early in the season, check how many back-to-backs he sits and whether his minutes stay around 30.",
  "rejected": []
 }

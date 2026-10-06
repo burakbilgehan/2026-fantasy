@@ -30,18 +30,19 @@
 </details>
 
 **Current**
-- He has a torn patellar tendon and is out now. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1601), [08-22](https://youtu.be/LXZLrL90crE?t=1107), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487), stats)
-- A return in March is likely. One expert would be pleasantly surprised if he returns before March. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1601), [08-22](https://youtu.be/LXZLrL90crE?t=1107))
+- He tore his patellar tendon and is out now. Yahoo lists him as out with a knee injury. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1601), [08-22](https://youtu.be/LXZLrL90crE?t=1107))
+- A return in March is the likely timeline. A return before March would be a surprise. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1601), [08-22](https://youtu.be/LXZLrL90crE?t=1107))
+- He was playing well before the injury and ranked 105th after last season's trade deadline. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1601), [07-14](https://youtu.be/xHRF06_E9HE?t=1671))
 - He is not draftable this season. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1601))
-- He was playing well before the injury. He ranked 105th after last season's trade deadline. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1601), [07-14](https://youtu.be/xHRF06_E9HE?t=1671))
+- Golden State is reportedly treating this season as a gap year and may rest veterans to protect its lottery odds. That makes a big role after a late return less certain. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=140), [09-30](https://youtu.be/MUbNYdjpUDM?t=166))
 
 **Durable**
 - He has had knee issues since college. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1071))
 
 **Tags**
-- Current: `injured now` (Torn patellar tendon, Yahoo status O (Knee); March return likely; until March 2027)
+- Current: `injured now` (Torn patellar tendon, Yahoo status O (Knee), March return likely; until March 2027 return), `tank risk` (Warriors reportedly treating the season as a gap year and watching lottery odds), `many back-to-backs` (Warriors have 15 back-to-backs), `good playoff schedule` (Warriors schedule is good for playoffs ending March 28)
 - Durable: `injury prone` (Knee issues since college, now a torn patellar tendon)
 
-**Note.** Do not draft him in our auction. Both sites value him at 0 USD (Yahoo rank 261, ESPN rank 345), and a March return means he misses most of the season. Last season he showed a useful 3PM and low-TO profile (2.5 3PM, 0.9 TO in 25.7 minutes) and ranked 105th after the deadline. Check his recovery in February and March: if he comes back before our playoffs (weeks 19 to 21), he could be a short waiver pickup. The Warriors may be playing a gap year, so they may not rush him.
+**Note.** Do not spend on him in our auction. Both sites value him at 0 USD (Yahoo rank 261, ESPN rank 345), and a torn patellar tendon with a likely March return leaves almost no regular season before our playoffs in weeks 19 to 21. Watch his return timeline on waivers in late February. Even then, his 2025-26 line (2.5 3PM, few rebounds and assists) offers little, and he would be coming back on a team that may be playing for lottery odds.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

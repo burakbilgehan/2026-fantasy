@@ -43,30 +43,30 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Trae Young](../profiles/players/trae-young.md) | WAS | G | 18 | 33.6 | 47 | 33.0 | 44 | Elite assists and FT%, and his only costs are FG% and turnovers, so he is ideal for punt FG% plus punt TO if he keeps 33+ minutes and his usage next to Davis and Dybantsa. |
-| [LaMelo Ball](../profiles/players/lamelo-ball.md) | MIN | G | 24 | 30.2 | 22 | 26.6 | 29 | His threes, assists, points and steals all count fully when you punt FG%, but his ankle and the playoff two-game week are reasons to stop at the low end of his range. |
-| [Bam Adebayo](../profiles/players/bam-adebayo.md) | MIA | F,C | 26 | 25.4 | 15 | 25.4 | 26 | FG% (44.6% on nearly 16 attempts) is his only weak category, so a punt build loses nothing with him, but watch whether Giannis cuts his rebounds and note Miami's 10 playoff-week games. |
-| [Brandon Miller](../profiles/players/brandon-miller.md) | CHA | F | 39 | 19.2 | 54 | 7.1 | 20 | Threes, points and FT% on high volume at about 43% FG fit punt FG% well, and his usage could grow with LaMelo Ball gone, but check his shoulder in camp before the auction. |
-| [James Harden](../profiles/players/james-harden.md) | CLE | G | 31 | 19.4 | 25 | 27.8 | 42 | Elite assists and FT% at about 42% FG make him a natural punt FG% guard, but do not pay last season's price, and keep the 2-game finals week and his minutes alongside Mitchell in mind. |
+| [Trae Young](../profiles/players/trae-young.md) | WAS | G | 18 | 33.6 | 47 | 33.4 | 44 | Elite assists and FT%, and his only costs are FG% and turnovers, so he is ideal for punt FG% plus punt TO if he keeps 33+ minutes and his usage next to Davis and Dybantsa. |
+| [LaMelo Ball](../profiles/players/lamelo-ball.md) | MIN | G | 24 | 30.2 | 22 | 27.2 | 29 | His threes, assists, points and steals all count fully when you punt FG%, but his ankle and the playoff two-game week are reasons to stop at the low end of his range. |
+| [Bam Adebayo](../profiles/players/bam-adebayo.md) | MIA | F,C | 26 | 25.4 | 15 | 25.5 | 26 | FG% (44.6% on nearly 16 attempts) is his only weak category, so a punt build loses nothing with him, but watch whether Giannis cuts his rebounds and note Miami's 10 playoff-week games. |
+| [Brandon Miller](../profiles/players/brandon-miller.md) | CHA | F | 39 | 19.2 | 54 | 7.3 | 20 | Threes, points and FT% on high volume at about 43% FG fit punt FG% well, and his usage could grow with LaMelo Ball gone, but check his shoulder in camp before the auction. |
+| [James Harden](../profiles/players/james-harden.md) | CLE | G | 31 | 19.4 | 25 | 28.0 | 42 | Elite assists and FT% at about 42% FG make him a natural punt FG% guard, but do not pay last season's price, and keep the 2-game finals week and his minutes alongside Mitchell in mind. |
 
 ### Value at price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Derrick White](../profiles/players/derrick-white.md) | BOS | G | 36 | 10.2 | 17 | 18.5 | 30 | FG% is his only weak category, and he adds threes, assists, FT% and blocks that lead guards, but the market has overpaid him, so bid near his Yahoo cost and not last season's price. |
-| [Damian Lillard](../profiles/players/damian-lillard.md) | POR | G | 67 | 5.0 | 70 | 5.4 | not drafted | A cheap source of FT%, threes and assists at about 43.7% FG, with games played as the main risk because of his Achilles and three playoff back-to-backs. |
+| [Derrick White](../profiles/players/derrick-white.md) | BOS | G | 36 | 10.2 | 17 | 18.8 | 30 | FG% is his only weak category, and he adds threes, assists, FT% and blocks that lead guards, but the market has overpaid him, so bid near his Yahoo cost and not last season's price. |
+| [Damian Lillard](../profiles/players/damian-lillard.md) | POR | G | 67 | 5.0 | 70 | 5.6 | not drafted | A cheap source of FT%, threes and assists at about 43.7% FG, with games played as the main risk because of his Achilles and three playoff back-to-backs. |
 
 ### Late flyers
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Myles Turner](../profiles/players/myles-turner.md) | MIL | C | 101 | 1.0 | 93 | 0.9 | 20 | Blocks and threes from a center with FG% that is low for his position, worth a late buy if he gets about 29 minutes next to Ware. |
-| [Jabari Smith Jr.](../profiles/players/jabari-smith.md) | HOU | F,C | 98 | 1.6 | 110 | 1.0 | 1 | Gives threes and rebounds from a F/C slot with few turnovers at about 44.8% FG, though his 10-game playoff schedule is a minus. |
-| [Fred VanVleet](../profiles/players/fred-vanvleet.md) | HOU | G | 153 | 1.0 | 74 | 1.6 | 1 | His threes, assists, steals and low turnovers count while his 39% shooting does not, but his knee, rest on back-to-backs and 10 playoff-week games limit him to a late guard pick. |
-| [Egor Dëmin](../profiles/players/egor-demin.md) | BKN | G | 131 | 0.0 | 121 | 0.7 | not drafted | Projected for about 3 threes a game with some assists at about 40% FG, an end-game pick whose value to hold depends on his starting role and whether his FG% climbs. |
-| [Jalen Green](../profiles/players/jalen-green.md) | PHX | G,F | 130 | 1.0 | 130 | 1.2 | 9 | Cheap late points and threes for punt FG% and punt TO builds if he gets 30+ minutes and his FT% climbs back toward 80%. |
+| [Myles Turner](../profiles/players/myles-turner.md) | MIL | C | 101 | 1.0 | 93 | 1.0 | 20 | Blocks and threes from a center with FG% that is low for his position, worth a late buy if he gets about 29 minutes next to Ware. |
+| [Jabari Smith Jr.](../profiles/players/jabari-smith.md) | HOU | F,C | 98 | 1.6 | 110 | 1.1 | 1 | Gives threes and rebounds from a F/C slot with few turnovers at about 44.8% FG, though his 10-game playoff schedule is a minus. |
+| [Fred VanVleet](../profiles/players/fred-vanvleet.md) | HOU | G | 153 | 1.0 | 74 | 1.7 | 1 | His threes, assists, steals and low turnovers count while his 39% shooting does not, but his knee, rest on back-to-backs and 10 playoff-week games limit him to a late guard pick. |
+| [Egor Dëmin](../profiles/players/egor-demin.md) | BKN | G | 131 | 0.0 | 121 | 0.6 | not drafted | Projected for about 3 threes a game with some assists at about 40% FG, an end-game pick whose value to hold depends on his starting role and whether his FG% climbs. |
+| [Jalen Green](../profiles/players/jalen-green.md) | PHX | G,F | 130 | 1.0 | 130 | 1.4 | 9 | Cheap late points and threes for punt FG% and punt TO builds if he gets 30+ minutes and his FT% climbs back toward 80%. |
 | [Herbert Jones](../profiles/players/herbert-jones.md) | NOP | G,F | 134 | - | 194 | 0.0 | 5 | A cheap steals source at about 1.5 a game on low shot volume (about 8 attempts), and a waiver option if nobody drafts him. |
-| [Jerami Grant](../profiles/players/jerami-grant.md) | MEM | F | 193 | 0.0 | 147 | 0.1 | not drafted | Gives about 2.4 threes plus points at about 43.5% FG as a final pick, if he starts and his minutes stay near 29. |
+| [Jerami Grant](../profiles/players/jerami-grant.md) | MEM | F | 193 | 0.0 | 147 | 0.2 | not drafted | Gives about 2.4 threes plus points at about 43.5% FG as a final pick, if he starts and his minutes stay near 29. |
 
 ### Waiver watch
 

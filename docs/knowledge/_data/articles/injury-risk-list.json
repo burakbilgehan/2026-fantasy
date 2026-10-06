@@ -29,19 +29,23 @@
  ],
  "proposed": false,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-04T20:17:09+00:00",
+ "built_at": "2026-10-05T20:16:43+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.6355288,
-  "duration_ms": 154137
+  "cost_usd_list": 0.626164,
+  "duration_ms": 152929,
+  "turns": 2,
+  "denied": 0
  },
  "player_slugs": [
   "aaron-gordon",
   "aaron-nesmith",
+  "aj-dybantsa",
   "al-horford",
   "alex-sarr",
   "allen-graves",
+  "alperen-sengun",
   "anthony-black",
   "anthony-davis",
   "anthony-edwards",
@@ -49,7 +53,6 @@
   "bilal-coulibaly",
   "bradley-beal",
   "brandon-ingram",
-  "brandon-miller",
   "cameron-johnson",
   "christian-braun",
   "coby-white",
@@ -57,7 +60,6 @@
   "damian-lillard",
   "daniel-gafford",
   "darius-garland",
-  "deanthony-melton",
   "dejounte-murray",
   "dereck-lively",
   "domantas-sabonis",
@@ -83,7 +85,6 @@
   "jaren-jackson",
   "jarrett-allen",
   "jayden-quaintance",
-  "jaylen-brown",
   "jayson-tatum",
   "jimmy-butler",
   "joel-embiid",
@@ -117,9 +118,9 @@
   "morez-johnson",
   "moses-moody",
   "mouhamed-gueye",
-  "nikola-jokic",
   "obi-toppin",
   "og-anunoby",
+  "onyeka-okongwu",
   "paul-george",
   "peyton-watson",
   "richie-saunders",
@@ -141,59 +142,58 @@
   "yanic-konan-niederhauser",
   "zach-collins",
   "zach-edey",
-  "zach-lavine",
   "zion-williamson"
  ],
- "summary": "Mark down chronic cases (repeated surgeries or problems in the same lower-body spot, or an ongoing mystery illness) below their per-game value, even after a healthy year. Do not overreact to one-off injuries, which are often underpriced. Our 4 IL slots only take players tagged out (O), not questionable (Q), so plan any stash around the Yahoo status on draft day, 2026-10-18.",
+ "summary": "Price down players with repeated injuries to the same lower-body spot, mainly knees, or an ongoing illness. Their risk stays even after a healthy season. One-off injuries from last season should not scare you off, but expect lower value while a player ramps up on a minutes limit. Our 4 IL slots only take players tagged O or injured, so use them for cheap end-of-draft stashes, never for Q players.",
  "sections": [
   {
-   "heading": "Chronic or one-off: the pricing rule",
+   "heading": "Chronic cases: price them down",
    "paragraphs": [
     {
-     "text": "Sort every injured player into one of two groups before the auction. Chronic means repeated injuries or surgeries to the same lower-body part, above all knees, or an ongoing mystery illness. One-off means a single injury, or a hand, finger, shoulder or oblique problem. Those upper-body injuries matter little. Concussions matter a little.",
+     "text": "Be careful with players who have had repeated injuries or surgeries to the same lower-body part, especially the knee. The same goes for anyone with an ongoing mystery illness. Hand, finger, shoulder and oblique injuries do not matter much. Concussions matter a little. So in the tiers below, a shoulder or thumb injury does not count as chronic, but a second calf strain or another knee surgery does.",
      "sources": [
       "8d--aL_xxwE:r6"
      ]
     },
     {
-     "text": "Chronic cases miss more time in the future. Bid on them below their per-game value. A healthy season does not remove a degenerative risk, so do not pay last year's price because he stayed healthy. In practice, take your per-game price for a chronic case and stop bidding clearly below it.",
+     "text": "Repeated surgeries and problems in the same spot make future missed games more likely. Draft these players below their per-game value. A good season does not remove the risk of a degenerative injury, so keep the discount even after a healthy year. At our auction, set your cap for a chronic case below what his per-game line is worth. Do not raise it because he stayed healthy last season.",
      "sources": [
       "JMSLg6yz-M0:r2",
-      "JMSLg6yz-M0:r3",
-      "8d--aL_xxwE:r6"
+      "JMSLg6yz-M0:r3"
      ]
     },
     {
-     "text": "One-off cases are different. Avoid players who start the season injured, but our season is 25 weeks long. A short absence costs a few games out of about 25 weeks, so a short-term injury should take only a few dollars off a fair bid.",
+     "text": "Back-to-back counts matter mostly for injury-prone players. Before you bid on a chronic case, count his team's back-to-backs, and look hardest at the ones in weeks 19 to 21. Our season ends on 2027-03-28. A player who sits every back-to-back loses games in exactly the weeks that decide our league.",
      "sources": [
-      "CRLSsoGhb2w:r0"
+      "sf6Ga9k-r-Q:r5",
+      "tnzmsYUA4yQ:r4"
      ]
     }
    ]
   },
   {
-   "heading": "Coming back from injury and minutes limits",
+   "heading": "One-off injuries and players coming back",
    "paragraphs": [
     {
-     "text": "A player returning from injury usually has a minutes limit and misses back-to-backs. While he ramps up, all of his numbers drop, not just his games played. In 9-cat that hurts every counting category at once. Take this ramp-up cost into account on top of any missed games.",
+     "text": "The season is 25 weeks long. A player who starts it with a short-term injury should not fall too far on your board. One expert also says drafters are too scared of players coming back from injuries that cost them last season. You can be more confident than their ADPs suggest.",
+     "sources": [
+      "CRLSsoGhb2w:r0",
+      "egRrai3Ax38:r10"
+     ]
+    },
+    {
+     "text": "Injuries have a hidden cost. A player coming back usually has a minutes limit and misses back-to-backs while he ramps up. All of his numbers drop in that stretch, not just his games played. For a returner, take a few weeks of reduced production out of your price.",
      "sources": [
       "tnzmsYUA4yQ:r4",
       "-KS_AZjZnw4:r3"
      ]
     },
     {
-     "text": "The experts disagree on how hard to discount returning players. One note says drafters are too scared of players coming back from an injury that cost them last season, and that you can be more confident than their ADP suggests. Other notes stress the hidden cost of minutes limits and rested back-to-backs during the ramp-up. A workable middle path: if the injury was one-off, trust the cheap price and buy. If it was the same lower-body spot again, keep the chronic discount.",
+     "text": "The experts do not fully agree. One side says the market overreacts to last season's injuries, so returners are bargains at ADP. The other side says to avoid players who start the season injured, and warns that minutes limits and missed back-to-backs lower a returner's value. Here is a working rule for our room. Bid a little above market for a player back from a one-off injury who is cleared with no stated limit. Discount him when a minutes cap or back-to-back rest has been announced.",
      "sources": [
       "egRrai3Ax38:r10",
-      "tnzmsYUA4yQ:r4",
-      "-KS_AZjZnw4:r3",
-      "JMSLg6yz-M0:r3"
-     ]
-    },
-    {
-     "text": "Back-to-back counts matter mostly for injury-prone players. For chronic cases and load-managed players, check how many back-to-backs their team has in weeks 19 to 21, the playoff weeks ending 2027-03-28. For healthy players, do not let back-to-back counts drive your bid.",
-     "sources": [
-      "sf6Ga9k-r-Q:r5"
+      "CRLSsoGhb2w:r0",
+      "tnzmsYUA4yQ:r4"
      ]
     }
    ]
@@ -202,43 +202,28 @@
    "heading": "Using our 4 IL slots",
    "paragraphs": [
     {
-     "text": "Yahoo removed IL+. A player tagged out (O) or injured can go to an IL slot right away. Questionable, doubtful and probable players cannot. So a Q-tagged player takes up one of your 12 active or bench spots until his tag changes. Check each target's Yahoo tag on 2026-10-18, not just the injury news.",
+     "text": "Yahoo removed IL+. A player tagged out (O) or injured can go on IL right away. Questionable, doubtful and probable players cannot. We only have 2 bench spots, so a Q-tagged player with no clear return eats a bench or starting spot. Before the draft, check each target's Yahoo tag, not just the news.",
      "sources": [
       "egRrai3Ax38:r0"
      ]
     },
     {
-     "text": "Do not draft or stash a long-term injured player with real auction money. Hold him only while an IL slot would otherwise sit empty, and drop him once you need the spot. An O-tagged player bought for 1 USD with your last pick can go straight to IL, which frees the roster spot for a waiver claim. That is the most a stash should cost you.",
+     "text": "Do not spend real money on a long-term injured player, and do not stash him at the cost of a useful spot. Keep him only in an empty IL slot and drop him as soon as you need the room. At our auction, that makes an O-tagged player a 1 USD final pick at most. Check that his expected return comes well before 2027-03-28. If he only comes back after our season ends, he is worth nothing to us.",
      "sources": [
       "t4n9MAP2_14:r7",
-      "egRrai3Ax38:r0"
-     ]
-    },
-    {
-     "text": "During the season, do not drop a player with a short-term injury in a panic. If he is tagged O, move him to IL and use your FAB and the 6 weekly acquisitions to replace his games.",
-     "sources": [
-      "CRLSsoGhb2w:r0",
       "egRrai3Ax38:r0"
      ]
     }
    ]
   },
   {
-   "heading": "Do not stack risks",
+   "heading": "Do not stack injury risks",
    "paragraphs": [
     {
-     "text": "Do not stack several players you have injury worries about. Before every bid on a risky player, count the big risks already on your roster. A practical cap for our 12-man roster is one or two chronic cases among your top spenders. Fill the rest with players who have a clean or one-off history.",
+     "text": "As a general rule, do not load up on several players you have injury worries about. Before every bid on a chronic case, a returner or a load-managed player, count how many big risks you already own. If you already carry a couple, pass and let another manager take the next one. Daily lineups and 4 IL slots soften missed games, but they do not replace a starter who keeps sitting.",
      "sources": [
       "8d--aL_xxwE:r17",
       "_vbAP5y182A:r8"
-     ]
-    },
-    {
-     "text": "This matters more in H2H than in roto. Two stars missing the same week can cost you most of the nine categories that week. In the playoffs, one bad week ends your season. If you already hold two chronic cases, let the next one go to another manager, even at a fair price.",
-     "sources": [
-      "_vbAP5y182A:r8",
-      "8d--aL_xxwE:r17",
-      "sf6Ga9k-r-Q:r5"
      ]
     }
    ]
@@ -246,524 +231,524 @@
  ],
  "players": [
   {
-   "slug": "kawhi-leonard",
-   "tier": "Chronic: price down",
-   "line": "His degenerative knee has had repeated surgeries in the same spot and he faces load management, so experts take him from about 41st on, and his Q tag is not injury related, so he cannot use an IL slot."
-  },
-  {
-   "slug": "joel-embiid",
-   "tier": "Chronic: price down",
-   "line": "Repeated knee problems and surgeries, no back-to-backs and only 49 to 54 projected games make him a mid-round price despite his elite per-game line."
-  },
-  {
-   "slug": "stephen-curry",
-   "tier": "Chronic: price down",
-   "line": "His runner's knee is a wear-and-tear issue he calls a new normal, with maintenance rest expected, so pay no premium after 43 games last season."
-  },
-  {
    "slug": "giannis-antetokounmpo",
    "tier": "Chronic: price down",
-   "line": "Persistent knee problems plus last season's calf injury make games played his main risk, so price in the knee even at about 60 USD."
-  },
-  {
-   "slug": "karl-anthony-towns",
-   "tier": "Chronic: price down",
-   "line": "Repeated lower-body issues, a knee history and early-season rest mean you should not go above about 40 USD."
-  },
-  {
-   "slug": "anthony-davis",
-   "tier": "Chronic: price down",
-   "line": "Repeated lower-body injuries of several kinds and 58 to 61 projected games make him a buy only in the low to mid 20s, not at healthy-season prices."
+   "line": "Persistent knee problems plus last season's calf injury make him a lower-body risk, so price in missed games despite his elite per-game line."
   },
   {
    "slug": "donovan-mitchell",
    "tier": "Chronic: price down",
-   "line": "His persistent knee problems keep the risk alive after a fairly healthy season, so cap him around 40 to 45 USD."
+   "line": "Persistent knee problems combined with Cleveland's league-high back-to-back count raise his games-played risk."
+  },
+  {
+   "slug": "anthony-davis",
+   "tier": "Chronic: price down",
+   "line": "Repeated lower-body injuries and only 20 games last season make games played his one real question."
+  },
+  {
+   "slug": "karl-anthony-towns",
+   "tier": "Chronic: price down",
+   "line": "Repeated lower-body and knee issues, extra rest on back-to-backs and about 31 minutes early all call for a discount."
+  },
+  {
+   "slug": "kawhi-leonard",
+   "tier": "Chronic: price down",
+   "line": "A degenerative knee with repeated surgeries on that knee and likely load management make him the clearest chronic case, and his non-injury Q tag means no IL slot."
+  },
+  {
+   "slug": "stephen-curry",
+   "tier": "Chronic: price down",
+   "line": "Runner's knee that he calls a new normal, planned maintenance rest and 15 back-to-backs make games played his price question."
+  },
+  {
+   "slug": "joel-embiid",
+   "tier": "Chronic: price down",
+   "line": "Repeated knee surgeries and a plan to sit every back-to-back point to only 40 to 50 games, three Sixers back-to-backs fall in our playoff weeks, and he only works at a deep discount."
   },
   {
    "slug": "kyrie-irving",
    "tier": "Chronic: price down",
-   "line": "Long knee history, a torn ACL and rested back-to-backs are real risks, but at his average cost he is still a bargain, and his Q (Knee) tag keeps him off IL."
-  },
-  {
-   "slug": "paul-george",
-   "tier": "Chronic: price down",
-   "line": "Recurring knee problems and 8 to 10 expected rested back-to-backs mean you should stay at or below about 12 USD."
-  },
-  {
-   "slug": "darius-garland",
-   "tier": "Chronic: price down",
-   "line": "Persistent toe and knee problems and a slow production recovery mean you should check the toe early and keep the bid within 12 to 18 USD."
-  },
-  {
-   "slug": "zach-edey",
-   "tier": "Chronic: price down",
-   "line": "Multiple ankle and foot surgeries plus a Yahoo Q (ankle) tag mean you should pay high single digits to low teens only if you accept that risk."
-  },
-  {
-   "slug": "evan-mobley",
-   "tier": "Chronic: price down",
-   "line": "Two calf strains last season add same-spot lower-body risk, one more reason to pay the mid 20s and not last year's price."
+   "line": "A long knee history including the ACL tear, planned rest on back-to-backs and a Q knee tag that keeps him off IL make him a chronic case."
   },
   {
    "slug": "lamelo-ball",
    "tier": "Chronic: price down",
-   "line": "He has repeated ankle problems including impingement, though experts disagree on the risk, so stop near the low end of his range."
+   "line": "A long history of ankle injuries, including impingement, is a same-spot lower-body pattern, so do not stretch for him."
   },
   {
-   "slug": "lauri-markkanen",
+   "slug": "evan-mobley",
    "tier": "Chronic: price down",
-   "line": "He missed many games in each of the last three seasons, though experts split on how many were real injuries, so a low-20s bid only pays off at 65 or more games."
+   "line": "Two calf strains last season are a same-spot warning, and Cleveland's heavy back-to-back load adds to it."
   },
   {
-   "slug": "michael-porter",
+   "slug": "darius-garland",
    "tier": "Chronic: price down",
-   "line": "His long injury history ends with a late-season hamstring injury, so confirm the hamstring is behind him and stay in the 10 to 17 USD range."
+   "line": "Persistent knee and toe problems and slow recoveries call for a discount, so check that the toe holds up early."
+  },
+  {
+   "slug": "damian-lillard",
+   "tier": "Chronic: price down",
+   "line": "He is back from a torn Achilles, experts worry about compensation injuries, and he is a low-minute starter."
+  },
+  {
+   "slug": "zach-edey",
+   "tier": "Chronic: price down",
+   "line": "Multiple ankle and foot surgeries and a managed 25 to 28 minute role make him a same-spot risk, and his Q ankle tag blocks the IL."
+  },
+  {
+   "slug": "paul-george",
+   "tier": "Chronic: price down",
+   "line": "Recurring knee problems and an expected 8 to 10 rest games on back-to-backs keep his price low, though experts call him underpriced."
+  },
+  {
+   "slug": "kristaps-porzingis",
+   "tier": "Chronic: price down",
+   "line": "An ongoing illness on top of knee and ankle problems is the mystery-illness case the rule warns about, and he is Q, so he cannot use IL until he is tagged out."
   },
   {
    "slug": "jalen-williams",
    "tier": "Chronic: price down",
-   "line": "Repeated hamstring injuries after wrist surgery left him at reduced minutes for many games, so check the hamstring and whether he gets back above 32 minutes."
-  },
-  {
-   "slug": "tyler-herro",
-   "tier": "Chronic: price down",
-   "line": "His long injury history, including 42 and 33 games in two of the last three seasons, makes games played the main risk at 12 to 16 USD."
-  },
-  {
-   "slug": "ja-morant",
-   "tier": "Chronic: price down",
-   "line": "He played 9, 50 and 20 games over three seasons, so treat him as a cheap late flyer and nowhere near last year's price."
+   "line": "Repeated hamstring injuries are the real concern, while the earlier wrist surgery matters little."
   },
   {
    "slug": "coby-white",
    "tier": "Chronic: price down",
-   "line": "Repeated calf strains and minutes limits last season are a same-spot risk to price into the 10 to 15 USD range."
+   "line": "Repeated calf strains are a same-spot lower-body pattern, so keep a discount on his bid."
   },
   {
-   "slug": "kristaps-porzingis",
-   "tier": "Chronic: fringe or waivers",
-   "line": "An ongoing mystery illness plus knee and ankle problems is exactly the case the injury rule warns about, so he is a 1 to 3 USD flyer at most, and his Q tag keeps him off IL until he is ruled out."
+   "slug": "lauri-markkanen",
+   "tier": "Durability discount",
+   "line": "He played 42 games last season and has missed many games over his career, partly from real injuries and partly from tank holdouts, so expect some missed time."
   },
   {
-   "slug": "jalen-green",
-   "tier": "Chronic: fringe or waivers",
-   "line": "He had three hamstring strains in 2025-26, though one expert says it is no longer a concern, so he is a 1 USD pick at the edge of the pool."
+   "slug": "michael-porter",
+   "tier": "Durability discount",
+   "line": "A long injury history ended last season with a hamstring injury, so check that it is behind him early."
+  },
+  {
+   "slug": "tyler-herro",
+   "tier": "Durability discount",
+   "line": "Games played is his main risk after seasons of 42 and 33 games and a long injury history."
+  },
+  {
+   "slug": "ja-morant",
+   "tier": "Durability discount",
+   "line": "He has played 9, 50 and 20 games over the last three seasons, so do not pay for a healthy year."
   },
   {
    "slug": "jalen-suggs",
-   "tier": "Chronic: fringe or waivers",
-   "line": "His all-out style means you should plan for about 20 missed games, which is acceptable at 1 to 5 USD."
-  },
-  {
-   "slug": "jakob-poeltl",
-   "tier": "Chronic: fringe or waivers",
-   "line": "Repeated back flare-ups and 46 to 57 games in each of the last three seasons keep him a 1 to 2 USD pick near the cutoff."
-  },
-  {
-   "slug": "aaron-gordon",
-   "tier": "Chronic: fringe or waivers",
-   "line": "Hamstring and calf soft-tissue injuries two years in a row make him a 1 to 2 USD bench bid at most."
-  },
-  {
-   "slug": "cameron-johnson",
-   "tier": "Chronic: fringe or waivers",
-   "line": "An ankle and hip history with 54 to 58 games in each of the last three seasons keeps him at 1 to 2 USD."
-  },
-  {
-   "slug": "jusuf-nurkic",
-   "tier": "Chronic: fringe or waivers",
-   "line": "Knee, leg and other lower-body injuries make him a 1 to 3 USD pick, and you should check early that his lower body holds up."
-  },
-  {
-   "slug": "daniel-gafford",
-   "tier": "Chronic: fringe or waivers",
-   "line": "Recurring ankle problems keep him a 1 USD late pick at most."
+   "tier": "Durability discount",
+   "line": "His all-out style means you should plan for about 20 missed games."
   },
   {
    "slug": "ty-jerome",
-   "tier": "Chronic: fringe or waivers",
-   "line": "Injuries ruined two of his last three seasons, so he is a late, cheap guard only."
+   "tier": "Durability discount",
+   "line": "Injuries ruined two of his last three seasons, so he is a late pick only."
+  },
+  {
+   "slug": "jusuf-nurkic",
+   "tier": "Chronic: late flyers only",
+   "line": "Knee, leg and other lower-body injuries make a few dollars the sensible limit."
+  },
+  {
+   "slug": "daniel-gafford",
+   "tier": "Chronic: late flyers only",
+   "line": "Recurring ankle problems keep him a 1 USD late pick, even with early starts while other Dallas centers are hurt."
   },
   {
    "slug": "mitchell-robinson",
-   "tier": "Chronic: fringe or waivers",
-   "line": "Chronic ankle problems and an expected rest on every back-to-back make him closer to a stream than a draft target."
+   "tier": "Chronic: late flyers only",
+   "line": "Chronic ankle problems and an expected seat for all of Boston's back-to-backs, three of them in our playoffs, make him a stream at best."
+  },
+  {
+   "slug": "jakob-poeltl",
+   "tier": "Chronic: late flyers only",
+   "line": "Repeated back flare-ups cost him much of last season, so check that the back stays quiet."
+  },
+  {
+   "slug": "aaron-gordon",
+   "tier": "Chronic: late flyers only",
+   "line": "Two straight years of hamstring and calf soft-tissue injuries make him a bench bid at most."
+  },
+  {
+   "slug": "jalen-green",
+   "tier": "Chronic: late flyers only",
+   "line": "Three hamstring strains last season are a same-spot pattern, although one expert says it is no longer a concern."
+  },
+  {
+   "slug": "cameron-johnson",
+   "tier": "Chronic: late flyers only",
+   "line": "An ankle and hip history has held him to 54 to 58 games in each of the last three seasons."
   },
   {
    "slug": "isaiah-stewart",
-   "tier": "Chronic: fringe or waivers",
-   "line": "He has not finished a season healthy in three or four years, so he is a 1 USD final-round pick at most."
+   "tier": "Chronic: late flyers only",
+   "line": "He has not finished a season healthy in three or four years, so he is a final-round pick only if Edey stays out."
   },
   {
    "slug": "grayson-allen",
-   "tier": "Chronic: fringe or waivers",
-   "line": "Soft-tissue problems and a fringe role make him a waiver pickup only if he starts."
-  },
-  {
-   "slug": "robert-williams",
-   "tier": "Chronic: fringe or waivers",
-   "line": "6 and 20 games in recent seasons plus about 16 rested back-to-backs keep him on waivers."
-  },
-  {
-   "slug": "steven-adams",
-   "tier": "Chronic: fringe or waivers",
-   "line": "Persistent knee problems and back-to-back rest make him a waiver rebound streamer only."
-  },
-  {
-   "slug": "marcus-smart",
-   "tier": "Chronic: fringe or waivers",
-   "line": "An expert says he is hurt all the time, with 20 and 34 games in two of the last three seasons, so he is not part of our auction."
-  },
-  {
-   "slug": "deanthony-melton",
-   "tier": "Chronic: fringe or waivers",
-   "line": "An ACL injury and 38, 6 and 49 games in three seasons make him a waiver add only if he starts."
-  },
-  {
-   "slug": "bilal-coulibaly",
-   "tier": "Chronic: fringe or waivers",
-   "line": "Experts call him injury-prone after 56 to 63 games in each of the last three seasons, so he is a waiver option only."
-  },
-  {
-   "slug": "matisse-thybulle",
-   "tier": "Chronic: fringe or waivers",
-   "line": "Knee and ankle concerns make him a waiver steals pickup only if he stays healthy and his minutes rise."
+   "tier": "Chronic: late flyers only",
+   "line": "Soft-tissue problems and a fringe role make him a waiver pickup unless he starts while Knueppel is out."
   },
   {
    "slug": "jayson-tatum",
-   "tier": "Returning: ramp-up discount",
-   "line": "He is back from a torn Achilles with 16 Boston back-to-backs to manage, but experts call about 55 USD fair for a one-off injury."
-  },
-  {
-   "slug": "tyrese-haliburton",
-   "tier": "Returning: ramp-up discount",
-   "line": "He missed all of 2025-26 with a torn Achilles and faces managed minutes and rested back-to-backs, so pay closer to his ESPN average cost."
-  },
-  {
-   "slug": "dejounte-murray",
-   "tier": "Returning: ramp-up discount",
-   "line": "He came back from a torn Achilles on limited minutes, yet he is priced far below the expert view, so the high teens still leaves profit if he plays 33 minutes."
-  },
-  {
-   "slug": "damian-lillard",
-   "tier": "Returning: ramp-up discount",
-   "line": "He is back from a torn Achilles, and experts worry about compensation injuries, so games played is the main risk even at a cheap price."
-  },
-  {
-   "slug": "fred-vanvleet",
-   "tier": "Returning: ramp-up discount",
-   "line": "He missed all of 2025-26 with a torn ACL and is expected near 30 minutes with some back-to-backs off, so treat him as a 1 to 2 USD guard."
-  },
-  {
-   "slug": "nikola-jokic",
    "tier": "One-off: do not overreact",
-   "line": "One knee injury last season does not change his number one status, so just check the knee and his minutes early."
+   "line": "Last season's torn Achilles is a single injury, so check his health report and how many of Boston's 16 back-to-backs he sits."
   },
   {
    "slug": "anthony-edwards",
    "tier": "One-off: do not overreact",
-   "line": "He missed 21 games after years as an iron man, which so far is a one-off."
+   "line": "He missed 21 games last season, but nothing points to a chronic issue."
   },
   {
    "slug": "trae-young",
    "tier": "One-off: do not overreact",
-   "line": "He played only about 15 games last season but carries no chronic tag, so price him on his role, not the injury."
+   "line": "He played only about 15 games last season, so check that he is back to 33 or more minutes early."
   },
   {
    "slug": "josh-giddey",
    "tier": "One-off: do not overreact",
-   "line": "Ankle injuries held him to 54 games without a chronic flag, so pay within his expert rank range."
+   "line": "Ankle injuries cost him 28 games, so watch whether that turns into a pattern."
   },
   {
    "slug": "austin-reaves",
    "tier": "One-off: do not overreact",
-   "line": "He played 51 games last season with no recurring tag, and his usage, not his health, drives his price."
+   "line": "He played 51 games last season with no chronic tag, and his role is growing."
   },
   {
    "slug": "domantas-sabonis",
    "tier": "One-off: do not overreact",
-   "line": "His hamstring, rib and knee problems were in different spots, so watch his minutes rather than mark him down as chronic."
+   "line": "His hamstring, rib and knee problems last season were in different spots, so they do not count as a chronic pattern."
   },
   {
    "slug": "walker-kessler",
    "tier": "One-off: do not overreact",
-   "line": "Shoulder surgery is the kind of injury that matters little, so just check the shoulder under starter minutes."
+   "line": "Shoulder surgery is the kind of injury the rule says matters little, so just check that he plays full starter minutes."
   },
   {
    "slug": "jaren-jackson",
    "tier": "One-off: do not overreact",
-   "line": "He played 48 games last season without a chronic tag and is a bargain under about 25 USD."
+   "line": "He played 48 games last season with no chronic tag, and the market discount looks overdone."
   },
   {
    "slug": "franz-wagner",
    "tier": "One-off: do not overreact",
-   "line": "A single high ankle sprain cost him about 47 to 51 games, so check how he moves early but do not treat it as chronic."
+   "line": "A single high ankle sprain cost him a big part of last season, so check the ankle and whether his minutes return to 33 or 34."
   },
   {
    "slug": "jarrett-allen",
    "tier": "One-off: do not overreact",
-   "line": "He had only a late-season knee injury, so his role, not his health, is the question."
-  },
-  {
-   "slug": "keegan-murray",
-   "tier": "One-off: do not overreact",
-   "line": "Finger and ankle injuries cost him games, but the finger is a minor type, so he stays a 1 to 3 USD target."
-  },
-  {
-   "slug": "zach-lavine",
-   "tier": "One-off: do not overreact",
-   "line": "He played 39 games last season with no chronic tag, so he is a 1 to 5 USD pick."
+   "line": "A late-season knee injury was a one-time event, so his role next to Mobley is the bigger question."
   },
   {
    "slug": "isaiah-hartenstein",
    "tier": "One-off: do not overreact",
-   "line": "He was banged up a lot and played 47 games, so check that he is healthy and near 28 minutes, but he is fine as a cheap end-game pick."
+   "line": "He was banged up last season, but he is a cheap late center if he stays healthy at 28 or more minutes."
   },
   {
-   "slug": "kevin-porter",
+   "slug": "keegan-murray",
    "tier": "One-off: do not overreact",
-   "line": "He played 38 games last season with no chronic tag and is an easy 1 to 3 USD flyer to drop."
+   "line": "A finger injury, which matters little, and a late ankle injury cost him most of last season, and neither is chronic."
   },
   {
    "slug": "collin-murray-boyles",
    "tier": "One-off: do not overreact",
-   "line": "A thumb injury is a minor type, so he stays a 1 to 3 USD end-of-auction flyer."
+   "line": "A thumb injury is the kind the rule says matters little."
   },
   {
    "slug": "kyshawn-george",
    "tier": "One-off: do not overreact",
-   "line": "An arm injury ended his season, but that type matters little, and his shrinking role is the real issue."
+   "line": "An arm injury ended his season, which is not a lower-body concern."
   },
   {
    "slug": "egor-demin",
    "tier": "One-off: do not overreact",
-   "line": "A foot issue limited him to 52 games, but his FG% decides his value more than the injury does."
+   "line": "A foot issue held him to 52 games, but his FG% is the bigger question."
   },
   {
    "slug": "christian-braun",
    "tier": "One-off: do not overreact",
-   "line": "He tore several ankle ligaments, so check that his finishing comes back, but he is only a 1 USD pick or a waiver option anyway."
+   "line": "Several torn ankle ligaments cost him much of last season, so check that his finishing returns."
   },
   {
-   "slug": "scoot-henderson",
+   "slug": "kevin-porter",
    "tier": "One-off: do not overreact",
-   "line": "He played 30 games last season, but he is undraftable for role reasons, not health."
+   "line": "He played 38 games last season with no chronic tag and is an easy drop if his role is small."
   },
   {
-   "slug": "miles-mcbride",
+   "slug": "scotty-pippen",
    "tier": "One-off: do not overreact",
-   "line": "He played 41 games with a history of abdominal issues, but he is a short-term threes pickup at best."
-  },
-  {
-   "slug": "obi-toppin",
-   "tier": "One-off: do not overreact",
-   "line": "He played only 24 games, but his small bench role, not the injury, keeps him on waivers."
+   "line": "A significant injury limited him to 10 games, and his minutes behind Jerome matter more than his health."
   },
   {
    "slug": "aaron-nesmith",
    "tier": "One-off: do not overreact",
-   "line": "He is back at full health after 45 games, but Carlisle rests players on back-to-backs, so watch him on waivers."
+   "line": "He played 45 games last season and is now at full health, so his FG% decides his value."
+  },
+  {
+   "slug": "tyrese-haliburton",
+   "tier": "Returning: expect a ramp-up",
+   "line": "He missed the whole season with a torn Achilles, and about 30 minutes early with monitored back-to-backs will cut his early numbers."
+  },
+  {
+   "slug": "dejounte-murray",
+   "tier": "Returning: expect a ramp-up",
+   "line": "He played 14 games on limited minutes after a torn Achilles, so check that the limit is gone."
+  },
+  {
+   "slug": "fred-vanvleet",
+   "tier": "Returning: expect a ramp-up",
+   "line": "He is back from a torn ACL, with about 30 minutes early and some back-to-backs off."
   },
   {
    "slug": "victor-wembanyama",
-   "tier": "Rest and minutes limits",
-   "line": "The Spurs manage his minutes and he will not play 35 a night, but he stays a safe anchor up to about 75 USD."
+   "tier": "Managed minutes",
+   "line": "He is healthy but his minutes are managed below 35, which is a small drag and not an injury discount."
   },
   {
-   "slug": "lebron-james",
-   "tier": "Rest and minutes limits",
-   "line": "He is expected to sit games (about 65 projected), and Philadelphia has three back-to-backs in our playoff weeks, so bid 15 to 20 USD."
-  },
-  {
-   "slug": "jaylen-brown",
-   "tier": "Rest and minutes limits",
-   "line": "Load management is expected for the Sixers stars, which fits the round 3 to 4 price over last year's."
-  },
-  {
-   "slug": "jalen-brunson",
-   "tier": "Rest and minutes limits",
-   "line": "The Knicks' careful plan for the first 30 or so games and wrist surgery, a minor injury type, mean you should let others pay over about 30 USD."
+   "slug": "alperen-sengun",
+   "tier": "Managed minutes",
+   "line": "His coach limits his minutes for defensive reasons, which is a role risk and not an injury risk."
   },
   {
    "slug": "mikal-bridges",
-   "tier": "Rest and minutes limits",
-   "line": "The Knicks plan to trim starters' minutes and rest them on back-to-backs early, so pay near last year's price, never ESPN's."
+   "tier": "Managed minutes",
+   "line": "The Knicks plan trimmed minutes and back-to-back rest early, which hurts a player whose value comes from playing every game."
+  },
+  {
+   "slug": "jalen-brunson",
+   "tier": "Managed minutes",
+   "line": "Knicks back-to-back rest early is the main drag, while the wrist surgery is a low-concern spot."
   },
   {
    "slug": "og-anunoby",
-   "tier": "Rest and minutes limits",
-   "line": "Planned Knicks rest early in the season is the only drag on a safe 10 to 15 USD starter."
+   "tier": "Managed minutes",
+   "line": "Trimmed minutes and back-to-back rest are expected over the Knicks' first 30 or so games."
   },
   {
    "slug": "josh-hart",
-   "tier": "Rest and minutes limits",
-   "line": "The Knicks plan trimmed minutes and back-to-back rest over the first 30 or so games, so pay only a few dollars."
+   "tier": "Managed minutes",
+   "line": "Expect about 30 minutes or fewer while the Knicks manage workloads early."
+  },
+  {
+   "slug": "onyeka-okongwu",
+   "tier": "Managed minutes",
+   "line": "Atlanta is very cautious with his minutes, so check his playing time early."
+  },
+  {
+   "slug": "lebron-james",
+   "tier": "Managed minutes",
+   "line": "Load management means about 65 games, and three back-to-backs fall in our playoff weeks."
   },
   {
    "slug": "zion-williamson",
-   "tier": "Rest and minutes limits",
-   "line": "Experts expect New Orleans to rest him often on one of the highest back-to-back counts, so keep him near 12 USD or less."
+   "tier": "Managed minutes",
+   "line": "An expert expects the Pelicans to rest him often, so count his back-to-back absences early."
   },
   {
    "slug": "ivica-zubac",
-   "tier": "Rest and minutes limits",
-   "line": "Carlisle limits his minutes and rests players on back-to-backs, and rib and ankle injuries held him to 48 games, so pay only his average cost."
+   "tier": "Managed minutes",
+   "line": "Carlisle caps his center minutes near 30 and rests players on back-to-backs, and last season's rib and ankle injuries were one-offs."
+  },
+  {
+   "slug": "aj-dybantsa",
+   "tier": "Managed minutes",
+   "line": "Around 28 minutes early as the team brings him along slowly limits a 1 to 2 USD flyer."
+  },
+  {
+   "slug": "robert-williams",
+   "tier": "Managed minutes",
+   "line": "A cap of 17 to 18 minutes and about 16 back-to-backs off leave him on waivers."
   },
   {
    "slug": "al-horford",
-   "tier": "Rest and minutes limits",
-   "line": "He sits all back-to-backs because of his age, which limits his weekly value, so do not draft him."
-  },
-  {
-   "slug": "brandon-miller",
-   "tier": "Short-term: check before draft",
-   "line": "Shoulder surgery is a minor injury type, but his training camp status is uncertain, so confirm the shoulder before 2026-10-18."
+   "tier": "Managed minutes",
+   "line": "He sits every back-to-back because of his age, so he is a waiver watch only while Porzingis is out."
   },
   {
    "slug": "kon-knueppel",
-   "tier": "Short-term: check before draft",
-   "line": "His hamstring may cost one or two games, a short-term injury not to drop too far, but his Q tag keeps him off IL."
+   "tier": "Hurt now: short term",
+   "line": "A hamstring injury costs him the preseason and maybe a game or two, and his Q tag means no IL slot."
   },
   {
    "slug": "alex-sarr",
-   "tier": "Short-term: check before draft",
-   "line": "He is recovering from a fractured foot, took part in camp partially and is likely ready for opening night, and his Q tag rules out IL."
+   "tier": "Hurt now: short term",
+   "line": "He is recovering from a fractured foot and is likely ready for opening night, so do not drop him far."
   },
   {
    "slug": "jalen-duren",
-   "tier": "Short-term: check before draft",
-   "line": "His Q tag is undisclosed and tied to a conditioning concern after the holdout, not a known injury."
+   "tier": "Hurt now: short term",
+   "line": "His Yahoo Q tag is undisclosed and an expert says he is not injured, so check his conditioning instead."
   },
   {
    "slug": "peyton-watson",
-   "tier": "Short-term: check before draft",
-   "line": "He is listed probable with a hamstring after a season-ending hamstring injury, but the team reports no current concern."
+   "tier": "Hurt now: short term",
+   "line": "He is Yahoo P for the hamstring that ended last season, while the team reports no current concern."
   },
   {
    "slug": "anthony-black",
-   "tier": "Short-term: waivers or last pick",
-   "line": "He has an ankle Q tag and is a 1 USD last pick at most."
-  },
-  {
-   "slug": "morez-johnson",
-   "tier": "Short-term: waivers or last pick",
-   "line": "Check his lower-leg Q tag before the draft, and he is a 1 USD flyer at most."
+   "tier": "Hurt now: short term",
+   "line": "An ankle Q tag on a fringe player means he will often go undrafted, and he cannot use IL."
   },
   {
    "slug": "mikel-brown",
-   "tier": "Short-term: waivers or last pick",
-   "line": "He has an ankle Q tag and is a 1 USD bench flyer at most."
-  },
-  {
-   "slug": "santi-aldama",
-   "tier": "Short-term: waivers or last pick",
-   "line": "He is not fully cleared after knee surgery, so leave him on waivers."
-  },
-  {
-   "slug": "zach-collins",
-   "tier": "Short-term: waivers or last pick",
-   "line": "He is often hurt, now has a toe Q tag and may not make the rotation, so ignore him."
-  },
-  {
-   "slug": "mouhamed-gueye",
-   "tier": "Short-term: waivers or last pick",
-   "line": "A broken foot and a non-guaranteed contract keep him out of the draft."
-  },
-  {
-   "slug": "kobe-sanders",
-   "tier": "Short-term: waivers or last pick",
-   "line": "He has a hip Q tag and no strong category, so he is a waiver look only."
-  },
-  {
-   "slug": "allen-graves",
-   "tier": "Short-term: waivers or last pick",
-   "line": "He has a groin Q tag and belongs on the early waiver watch list."
-  },
-  {
-   "slug": "trevon-brazile",
-   "tier": "Short-term: waivers or last pick",
-   "line": "He has an undisclosed Q tag and is only a dynasty stash, so leave him out."
-  },
-  {
-   "slug": "karim-lopez",
-   "tier": "Short-term: waivers or last pick",
-   "line": "He has an undisclosed Q tag and little role, so he is a waiver look only."
-  },
-  {
-   "slug": "dereck-lively",
-   "tier": "Short-term: waivers or last pick",
-   "line": "A broken foot keeps him out until around Thanksgiving on top of a long lower-body history, and his Q tag rules out IL, so watch him on waivers."
-  },
-  {
-   "slug": "bradley-beal",
-   "tier": "Short-term: waivers or last pick",
-   "line": "A hip fracture and long-running knee soreness keep him out at the start, and his Q tag rules out IL, so stream him only once he plays near 30 minutes."
+   "tier": "Hurt now: short term",
+   "line": "An ankle Q tag on a 1 USD flyer, so check the ankle before you use a bench spot on him."
   },
   {
    "slug": "brandon-ingram",
    "tier": "IL stash",
-   "line": "His Yahoo O tag lets him go straight to IL as a few-dollar stash, but a partially torn Achilles and slow healing make his November or Christmas return uncertain."
+   "line": "He is tagged O with a partially torn Achilles and a November to Christmas return, so he fits an IL slot as a cheap late stash."
   },
   {
    "slug": "jimmy-butler",
    "tier": "IL stash",
-   "line": "He is tagged O after a torn ACL, so he is a 1 USD stash only if you have a spare IL slot, otherwise pick him up near his return."
+   "line": "He is tagged O with a torn ACL and a return around January on limited minutes, so stash him only after round 12 and drop him when the slot is needed."
   },
   {
    "slug": "yanic-konan-niederhauser",
    "tier": "IL stash",
-   "line": "His broken foot and O tag make him a free waiver pickup to hold in IL, with starting upside during our playoff weeks."
+   "line": "He is tagged O with a broken foot and has late-season blocks upside, so an IL slot can hold him at no cost."
   },
   {
-   "slug": "mark-williams",
-   "tier": "Out long term: do not draft",
-   "line": "A torn shoulder labrum keeps him out until about mid to late March, so at best he plays part of our playoffs."
+   "slug": "dereck-lively",
+   "tier": "IL stash",
+   "line": "A broken foot keeps him out until around Thanksgiving, but his Q tag blocks the IL, so add him from waivers once he is tagged out."
   },
   {
    "slug": "shaedon-sharpe",
-   "tier": "Out long term: do not draft",
-   "line": "A meniscus injury is expected to cost him basically the whole season."
+   "tier": "IL stash",
+   "line": "A meniscus injury keeps him out for most of the season, so treat him only as a free waiver IL stash if return news arrives before our playoffs."
   },
   {
-   "slug": "donte-divincenzo",
-   "tier": "Out long term: do not draft",
-   "line": "An Achilles injury keeps him out until at least about March, so only watch his February news for a waiver IL add."
+   "slug": "morez-johnson",
+   "tier": "Waiver watch",
+   "line": "A lower-leg Q tag on a fringe big, so add him only if he wins 25 to 30 minutes at center."
   },
   {
-   "slug": "moses-moody",
-   "tier": "Out long term: do not draft",
-   "line": "A torn patellar tendon points to a March return, so he is a short waiver pickup at best."
+   "slug": "santi-aldama",
+   "tier": "Waiver watch",
+   "line": "He is not fully cleared after knee surgery, and his value depends on playing time."
   },
   {
-   "slug": "jordan-miller",
-   "tier": "Out long term: do not draft",
-   "line": "A torn shoulder is expected to cost most of the regular season, so he is a deep waiver option only."
+   "slug": "bradley-beal",
+   "tier": "Waiver watch",
+   "line": "A hip fracture and long-running knee soreness, and he starts the season hurt in a bench role."
   },
   {
-   "slug": "johnny-furphy",
-   "tier": "Out long term: do not draft",
-   "line": "A torn ACL keeps him out for most of the season, and his role is small even when healthy."
+   "slug": "marcus-smart",
+   "tier": "Waiver watch",
+   "line": "An expert says he is hurt all the time, so stream him only if he gets real minutes."
   },
   {
-   "slug": "henri-veesaar",
-   "tier": "Out long term: do not draft",
-   "line": "A torn ACL rules him out for the whole season, so do not spend an IL slot on him."
+   "slug": "matisse-thybulle",
+   "tier": "Waiver watch",
+   "line": "Knee and ankle concerns on a low-minute steals specialist."
   },
   {
-   "slug": "richie-saunders",
-   "tier": "Out long term: do not draft",
-   "line": "A torn ACL keeps him out until near the end of the season."
+   "slug": "steven-adams",
+   "tier": "Waiver watch",
+   "line": "Persistent knee problems and back-to-back rest make him a matchup rebound streamer at most."
   },
   {
-   "slug": "jayden-quaintance",
-   "tier": "Out long term: do not draft",
-   "line": "He is out after another knee surgery, a repeated same-spot case, and would back up Wembanyama even when healthy."
+   "slug": "zach-collins",
+   "tier": "Waiver watch",
+   "line": "He is often hurt and listed Q with a toe problem as a third-string center."
+  },
+  {
+   "slug": "mouhamed-gueye",
+   "tier": "Waiver watch",
+   "line": "A broken foot likely costs him the start of the season, and his role is small even when healthy."
+  },
+  {
+   "slug": "allen-graves",
+   "tier": "Waiver watch",
+   "line": "A groin Q tag on a deep bench player, so check that it clears."
+  },
+  {
+   "slug": "kobe-sanders",
+   "tier": "Waiver watch",
+   "line": "A hip Q tag on a tenth man who matters only if Clippers injuries open minutes."
+  },
+  {
+   "slug": "trevon-brazile",
+   "tier": "Waiver watch",
+   "line": "An undisclosed Q tag on a dynasty stash with no standard-league value yet."
+  },
+  {
+   "slug": "karim-lopez",
+   "tier": "Waiver watch",
+   "line": "An undisclosed Q tag and a small role in a deep Memphis rotation."
+  },
+  {
+   "slug": "miles-mcbride",
+   "tier": "Waiver watch",
+   "line": "A history of abdominal issues, which is not a lower-body concern, on a short-term threes pickup."
+  },
+  {
+   "slug": "scoot-henderson",
+   "tier": "Waiver watch",
+   "line": "He played 30 games last season and is now a bench player, needing a trade or injury to open minutes."
+  },
+  {
+   "slug": "obi-toppin",
+   "tier": "Waiver watch",
+   "line": "He played 24 games last season and only matters if Siakam misses time."
+  },
+  {
+   "slug": "bilal-coulibaly",
+   "tier": "Waiver watch",
+   "line": "Experts call him injury-prone, with 56 to 63 games in each of the last three seasons, and he sits outside our draft pool."
+  },
+  {
+   "slug": "max-strus",
+   "tier": "Waiver watch",
+   "line": "A Jones fracture limited him to about 12 games, and his role may grow while Ingram is out."
   },
   {
    "slug": "vince-williams",
-   "tier": "Out long term: do not draft",
-   "line": "He is listed NA with a knee injury on Yahoo, has no expert notes, and has no clear rotation role."
+   "tier": "Waiver watch",
+   "line": "He has no team and a knee issue listed on Yahoo, so look at him only if he signs and plays."
+  },
+  {
+   "slug": "mark-williams",
+   "tier": "Out long-term: skip at draft",
+   "line": "A torn shoulder labrum keeps him out until mid to late March, leaving at best part of our playoffs."
+  },
+  {
+   "slug": "donte-divincenzo",
+   "tier": "Out long-term: skip at draft",
+   "line": "An Achilles injury keeps him out until about March, with a two-game week in our week 20."
+  },
+  {
+   "slug": "moses-moody",
+   "tier": "Out long-term: skip at draft",
+   "line": "A torn patellar tendon after years of knee issues, with a likely March return."
+  },
+  {
+   "slug": "jordan-miller",
+   "tier": "Out long-term: skip at draft",
+   "line": "A torn shoulder labrum keeps him out until after the All-Star break, and his healthy line is thin."
+  },
+  {
+   "slug": "johnny-furphy",
+   "tier": "Out long-term: skip at draft",
+   "line": "A torn ACL keeps him out for most of the season, and his healthy role is small."
+  },
+  {
+   "slug": "henri-veesaar",
+   "tier": "Out long-term: skip at draft",
+   "line": "A torn ACL rules him out for the whole season, so not even an IL stash makes sense."
+  },
+  {
+   "slug": "richie-saunders",
+   "tier": "Out long-term: skip at draft",
+   "line": "A torn ACL likely keeps him out until after our season ends on 2027-03-28."
+  },
+  {
+   "slug": "jayden-quaintance",
+   "tier": "Out long-term: skip at draft",
+   "line": "Repeated knee surgeries and no clear return date put him far outside our pool."
   }
  ],
  "excluded": [],

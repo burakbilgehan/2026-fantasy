@@ -29,19 +29,21 @@
 </details>
 
 **Current**
-- Golden State has 15 back-to-backs this season. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=991), [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
-- Golden State's schedule is good for fantasy playoffs ending March 28. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
-- Golden State's depth is very poor. The team struggles to field a 10-man rotation. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
-- Thin depth should push minutes up across the Golden State rotation. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
+- Curry is the only Warrior who creates his own shot, so the offense depends on him. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=551), [09-16](https://youtu.be/2A2JbUN-kc0?t=2222), [09-09](https://youtu.be/7BllEsdNLoM?t=2274))
+- He is not among the projected Warriors starters. Previews list Curry, Podziemski, Lendeborg, Green and Porzingis or Horford. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=270), [09-30](https://youtu.be/MUbNYdjpUDM?t=678))
+- Steve Kerr runs unpredictable rotations and often changes a set lineup a few games in, with lots of mixing among the wings. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=301), [09-30](https://youtu.be/MUbNYdjpUDM?t=237))
+- The Warriors are reportedly treating this season as a gap year. They may care about lottery odds and rest veterans. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=140), [09-30](https://youtu.be/MUbNYdjpUDM?t=166))
+- The Warriors have 15 back-to-backs, tied for second most, but their schedule is good for fantasy playoffs ending March 28. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [08-16](https://youtu.be/gf_6GveiAls?t=991))
+- Experts expect Warriors players to fade as the season goes on. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
+- Golden State's depth is very poor and the team struggles to field a 10-man rotation, so minutes should go up across the rotation. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
 
 **Durable**
-- Steve Kerr runs unpredictable rotations and often changes a set starting lineup a few games later, with lots of mixing among the wings. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=237), [08-22](https://youtu.be/LXZLrL90crE?t=301))
-- He scores by slipping screens and cutting to the basket off Steph Curry's gravity. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=798))
+- He scores by slipping screens and cutting to the basket off Curry's gravity. He is not a shot creator. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=798))
 
 **Tags**
-- Current: `good playoff schedule` (Team schedule good for playoffs ending March 28, but 15 back-to-backs)
-- Durable: `needs playmaker` (Scores off screens and cuts created by Curry's gravity)
+- Current: `thin rotation` (Warriors struggle to field a 10-man rotation; minutes rise across the roster), `unsettled rotation` (Kerr changes lineups often and mixes the wings), `concentrated usage` (Curry is the only self-creator), `tank risk` (Reported gap year; may rest veterans for lottery odds), `many back-to-backs` (15 back-to-backs, tied for second most), `good playoff schedule` (Good schedule for playoffs ending March 28)
+- Durable: `needs playmaker` (Scores off cuts and slipped screens created by Curry's gravity)
 
-**Note.** Neither site expects him to be drafted. Both value him at 0 USD, with a Yahoo rank of 266 and an ESPN rank of 196. That is outside the 144 players our league drafts, and he went undrafted last season. His useful parts are an efficient FG% (58.1% projected) and few turnovers (0.8 per game), but he gives little in points, threes and assists on about 15 minutes a game. Early in the season, watch whether Golden State's thin depth gives him more minutes with Curry. He only becomes worth a waiver pickup if his minutes clearly go up.
+**Note.** Both Yahoo and ESPN value him at 0 USD (rank 266 on Yahoo, 196 on ESPN), so he falls well outside our 144-player draft and is a waiver player. His fantasy value is efficient FG% (58.3% on 5.7 attempts last season) and few turnovers (0.8) in about 15 minutes, with little in points, threes or assists, so he only matters if Golden State's thin depth pushes his minutes up. Early in the season, watch whether his minutes climb clearly above 16 and whether Kerr's lineup changes put him on the floor with Curry.
 
-<sub>1 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>1 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

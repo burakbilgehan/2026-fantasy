@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 23 | 24.2 | 44 | 7 | 19.0 | 62 | 29 |
+| 2026-27 | 23 | 24.2 | 44 | 7 | 18.8 | 62 | 29 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,28 +30,32 @@
 </details>
 
 **Current**
-- One expert says his ESPN ADP of 20 is far too high, even after his strong last season. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1963))
-- Last season in Boston he had a 36% usage rate, a career high. He ranked about 25th in category leagues and 10th in points leagues. (fact, 2026-09-17; [08-06](https://youtu.be/gTsfR5PxAMY?t=323), [07-13](https://youtu.be/Rqb5GdrSweY?t=936), [08-26](https://youtu.be/sTtFUy7IoJI?t=1948), [07-07](https://youtu.be/ME-r173X5b0?t=293), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1617))
-- Under Nick Nurse his minutes should stay high or rise (projected 36). He may get even more when Embiid and LeBron miss games. (verdict, 2026-09-17; [09-10](https://youtu.be/W-R1dzem32s?t=814), [08-26](https://youtu.be/sTtFUy7IoJI?t=1999), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1617), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1654), [09-10](https://youtu.be/W-R1dzem32s?t=779))
-- Next to Maxey, Embiid and LeBron, his usage should fall to about 27 to 30%. It will swing with Embiid's and LeBron's health. (verdict, 2026-09-14; [07-02](https://youtu.be/P6TNP-g0wzY?t=627), [07-13](https://youtu.be/Rqb5GdrSweY?t=936), [08-26](https://youtu.be/sTtFUy7IoJI?t=1948), [09-10](https://youtu.be/W-R1dzem32s?t=814), [09-14](https://youtu.be/LM0cRCGoAUQ?t=984), [09-14](https://youtu.be/LM0cRCGoAUQ?t=986), [08-26](https://youtu.be/sTtFUy7IoJI?t=1944))
-- Experts see him as a third or fourth round player, with a rank in the 40s. They say he should not fall into the 60s. (verdict, 2026-09-14; [07-13](https://youtu.be/Rqb5GdrSweY?t=936), [08-26](https://youtu.be/sTtFUy7IoJI?t=1999), [08-11](https://youtu.be/OdDkXFhoKsc?t=666), [09-10](https://youtu.be/W-R1dzem32s?t=814), [09-10](https://youtu.be/dlo7L8Ru91A?t=843), [09-14](https://youtu.be/LM0cRCGoAUQ?t=984))
-- The Sixers have 13 back-to-backs, and three of them fall in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148))
-- Projected Philadelphia starting five: Tyrese Maxey, VJ Edgecombe, Jaylen Brown, LeBron James, Joel Embiid. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=412))
-- He is very unlikely to repeat 28.7 points per game. Experts expect the biggest scoring drop among the Sixers stars. (verdict, 2026-08-06; [07-07](https://youtu.be/ME-r173X5b0?t=293), [08-06](https://youtu.be/gTsfR5PxAMY?t=1025), [07-07](https://youtu.be/ME-r173X5b0?t=353))
-- Early on he should have a harder time fitting in than LeBron. He may be only the fourth best offensive player in the starting group, and it is unclear whether he can play off the ball. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=204), [08-06](https://youtu.be/gTsfR5PxAMY?t=351))
-- Experts expect growing pains for Philadelphia in October and November, and load management for the stars. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1819))
-- Philadelphia acquired him by trade from Boston. (fact, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=627))
+- He sold for 23 USD in an auction mock draft, which the expert called a good price. The expert hoped he would stay in the low 20s. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2995))
+- Philadelphia acquired him from Boston in a trade for Paul George. (fact, 2026-10-04; [07-02](https://youtu.be/P6TNP-g0wzY?t=627), [10-04](https://youtu.be/n4KkK-OJjqA?t=1521), [08-06](https://youtu.be/gTsfR5PxAMY?t=141))
+- Experts expect him to slip from about 25th in category leagues last season to roughly the 35 to 45 range, a third or fourth round player. The newest call ranks him about 35 and says his rank of 44 is enough of a discount. Falling into the 60s would be too far. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1521), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1617), [09-14](https://youtu.be/LM0cRCGoAUQ?t=984), [09-10](https://youtu.be/dlo7L8Ru91A?t=843), [09-10](https://youtu.be/W-R1dzem32s?t=814), [08-26](https://youtu.be/sTtFUy7IoJI?t=1999), [07-13](https://youtu.be/Rqb5GdrSweY?t=936))
+- One expert calls an ESPN ADP of 20 far too high. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1963))
+- His usage and minutes will move with the health of Embiid and LeBron. He may get a bigger role when they miss games. (verdict, 2026-09-17; [09-10](https://youtu.be/W-R1dzem32s?t=814), [09-10](https://youtu.be/W-R1dzem32s?t=779), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1617), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1654))
+- His usage was a career-high 36% in Boston last season. Experts expect it to drop to about 27 to 30% because he now shares the ball with Maxey, Embiid and LeBron. (verdict, 2026-09-14; [07-02](https://youtu.be/P6TNP-g0wzY?t=627), [07-13](https://youtu.be/Rqb5GdrSweY?t=936), [08-26](https://youtu.be/sTtFUy7IoJI?t=1948), [08-06](https://youtu.be/gTsfR5PxAMY?t=323), [09-10](https://youtu.be/W-R1dzem32s?t=814), [09-14](https://youtu.be/LM0cRCGoAUQ?t=986), [08-26](https://youtu.be/sTtFUy7IoJI?t=1944))
+- His minutes should stay high or go up under Nick Nurse, who plays his main players heavy minutes. He is projected for about 36 minutes. (verdict, 2026-09-10; [08-26](https://youtu.be/sTtFUy7IoJI?t=1999), [09-10](https://youtu.be/W-R1dzem32s?t=814), [09-10](https://youtu.be/W-R1dzem32s?t=779), [08-06](https://youtu.be/gTsfR5PxAMY?t=556))
+- The Sixers have 13 back-to-backs this season, and 3 of them fall in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148))
+- Even after the scoring cut, Josh projects him at about 25 points, 7 rebounds and 4 assists. He expects more rebounds and possibly better efficiency. (verdict, 2026-08-11; [08-11](https://youtu.be/OdDkXFhoKsc?t=455), [08-11](https://youtu.be/OdDkXFhoKsc?t=666))
+- He is in the projected Philadelphia starting five with Tyrese Maxey, VJ Edgecombe, LeBron James and Joel Embiid. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=412))
+- Experts say he is very unlikely to repeat 28.7 points per game. They expect his scoring to drop more than any other Sixers star's. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1025), [07-07](https://youtu.be/ME-r173X5b0?t=293), [07-07](https://youtu.be/ME-r173X5b0?t=353))
+- He is expected to struggle more than LeBron to fit in at first. It is not clear whether he can play off the ball or as a spot-up shooter. The team is expected to have growing pains in October and November. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=204), [08-06](https://youtu.be/gTsfR5PxAMY?t=351), [08-06](https://youtu.be/gTsfR5PxAMY?t=1819))
+- Philadelphia is projected to win about 51 to 52 games. Experts also expect the team to manage the stars' workloads. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1819))
 
 **Durable**
-- Turnovers are his clear weak category. They are a league outlier on the bad side. (fact, 2026-10-04; stats)
-- Plain nine-cat rankings rate him lower than his real head-to-head worth. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=984), [09-10](https://youtu.be/dlo7L8Ru91A?t=843), [09-10](https://youtu.be/W-R1dzem32s?t=801))
-- Scoring is his main value. He adds solid rebounds, assists, steals and threes. His percentages are not ideal but do not hurt a team. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=801), stats)
-- Experts disagree on his defense. Josh thinks it is a little overrated. Mark calls him a more than solid defender. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=763))
+- His turnovers are a clear weakness, well below the player pool and his position. (fact, 2026-10-05; stats)
+- He is worth more in points leagues than in category leagues. Last season he ranked about 10th in points leagues and about 25th in category leagues. (verdict, 2026-10-04; [07-13](https://youtu.be/Rqb5GdrSweY?t=936), [10-04](https://youtu.be/n4KkK-OJjqA?t=1521))
+- Experts say nine-cat rankings underrate what he gives in head-to-head category leagues. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=984), [09-10](https://youtu.be/dlo7L8Ru91A?t=843), [09-10](https://youtu.be/W-R1dzem32s?t=801))
+- Besides points, he gives modest help in rebounds, assists, steals and threes. His FG% and FT% are not ideal but do not hurt a team much. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=801), stats)
+- The experts disagree about his defense. Josh calls it a little overrated, and Mark calls him a more than solid defender. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=763))
+- Scoring is his main fantasy value, and points are his strongest category. (verdict, 2026-07-13; stats, [07-13](https://youtu.be/Rqb5GdrSweY?t=952), [07-02](https://youtu.be/P6TNP-g0wzY?t=557))
 
 **Tags**
-- Current: `new team` (Traded from Boston to Philadelphia), `role down` (Usage expected to fall from 36% to about 27 to 30% next to Maxey, Embiid and LeBron; minutes should stay high), `sites disagree on price` (Yahoo rank 44 and value 23 USD vs ESPN rank 62 and value 7 USD), `bust candidate` (At his ESPN ADP of 20), `bad playoff schedule` (Sixers have three back-to-backs in the fantasy playoffs), `back-to-back risk` (Load management expected for the Sixers stars)
-- Durable: `undervalued by 9-cat` (Experts say nine-cat ranks miss what he provides), `high TO` (About 3 turnovers per game projected), `punt TO fit`
+- Current: `new team` (Traded from Boston to Philadelphia for Paul George), `role down` (Usage expected to fall from 36% to about 27 to 30%), `usage competition` (Shares the ball with Maxey, Embiid and LeBron), `sites disagree on price` (Yahoo value 23 USD vs ESPN value 7 USD; ESPN rank 62), `expert target` (Ranked about 35 in category leagues vs a market rank of 44; 23 USD called a good price), `winning team` (Philadelphia projected for about 51 to 52 wins), `bad playoff schedule` (3 back-to-backs in the fantasy playoffs)
+- Durable: `high TO` (About 2.9 TO per game projected), `punt TO fit`, `undervalued by 9-cat` (Experts say his nine-cat rank misses what he provides), `points league player` (About 10th in points leagues and 25th in category leagues last season), `heavy starter minutes` (Nick Nurse plays his starters heavy minutes)
 
-**Note.** Experts put him in the 40s (round 3 to 4). That is close to his Yahoo rank of 44 and average cost of 24.2 USD, so the 29 USD our league paid last season looks too high for a smaller role in Philadelphia. His points, rebounds and assists carry him, and his turnovers make him a natural fit for punt TO builds. Early in the season, check his usage when Embiid and LeBron both play, whether Nick Nurse gives him around 36 minutes, and whether he settles in next to Maxey.
+**Note.** Brown went for 29 USD in our league last season. The prices now point lower: Yahoo values him at 23 USD (average cost 24.2), and ESPN values him at only 7 USD (average cost 18.8), so the 23 USD he sold for in the latest mock is a fair target. He fits punt TO builds best, because his 2.9 projected turnovers are his only flagged weakness and his 24 points are a clear strength. Early in the season, check his usage and shot share next to Maxey, Embiid and LeBron, and whether Nurse really plays him about 36 minutes.
 
-<sub>20 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>22 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

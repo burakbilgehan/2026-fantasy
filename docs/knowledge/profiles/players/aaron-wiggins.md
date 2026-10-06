@@ -30,21 +30,23 @@
 </details>
 
 **Current**
-- He is expected to come off the bench, likely as the seventh man in a 10-man rotation behind the five projected starters. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1430), [07-01](https://youtu.be/W3THnI7wWdA?t=212), [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
-- Several Atlanta starters handle the ball, so Dort or Wiggins can step into the minutes of any starter who misses time. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1580))
-- Lloyd says a Yahoo rank of 187 is too high for him. He also thinks his good fantasy reputation from OKC was somewhat unfounded. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1430))
-- Atlanta plays 4, 4 and 3 games in our playoff weeks 19 to 21. The team has 14 back-to-backs and does not tend to rest players. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739))
-- Lu Dort competes with him for the backup wing minutes. Wiggins is the cleaner fit as a backup 2/3 and the better shooter, and he could pass Dort in minutes by the end of the season. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1818), [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
-- Oklahoma City traded him to Atlanta this offseason. (fact, 2026-07-26; [07-01](https://youtu.be/W3THnI7wWdA?t=212), [07-26](https://youtu.be/75Sk_4fkgIM?t=1268))
+- He is expected to come off the bench in a 10-man rotation, likely as the seventh man. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1430), [07-01](https://youtu.be/W3THnI7wWdA?t=212), [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
+- Atlanta's bench is deep. Dort, Landale, Flemings, Newell, Kispert and Finney-Smith all compete for the same bench minutes. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1289), [07-01](https://youtu.be/W3THnI7wWdA?t=779))
+- Several Atlanta starters handle the ball, so Wiggins or Dort can step in when one of them misses time. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1580))
+- Lloyd says a Yahoo rank of 187 is too high for him. He also says the good reputation he built in OKC was somewhat unfounded. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1430))
+- With a March 28 end, Atlanta plays 4, 4 and 3 games in the fantasy playoff weeks. The team has 14 back-to-backs and is not expected to rest or shut down players. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739), [07-14](https://youtu.be/xHRF06_E9HE?t=230))
+- He fits better than Lu Dort as a backup shooting guard or small forward because he is the better shooter. There is a chance he passes Dort in minutes by the end of the season. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1818))
+- The Thunder traded him to the Hawks this offseason. (fact, 2026-07-26; [07-01](https://youtu.be/W3THnI7wWdA?t=212), [07-26](https://youtu.be/75Sk_4fkgIM?t=1268))
 
 **Durable**
-- His shot dropped off last season, but historically he has been a much better shooter. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1874))
-- He was a good regular-season player in OKC who kept falling out of the playoff rotation. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1268))
+- His career shooting record is much better than his poor shooting last season. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1874), stats)
+- He is a good regular-season player. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1268))
+- He fell out of OKC's playoff rotation more than once. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1268))
 
 **Tags**
-- Current: `new team` (Traded from OKC to ATL this offseason), `minutes competition` (Competes with Lu Dort for backup 2/3 minutes), `handcuff` (Can take over the minutes of any ball-handling Atlanta starter who is out), `waiver watch` (Ranked outside our 144-player draft pool; watch whether he passes Dort in minutes)
-- Durable: `fits every build` (No weak category, but no strong one either)
+- Current: `new team` (Traded from OKC to ATL this offseason), `minutes competition` (Competes with Lu Dort for backup wing minutes), `deep rotation` (10-man ATL rotation with a crowded bench), `waiver watch` (Ranked outside the drafted pool. Gains value if he passes Dort or an ATL guard or wing starter misses time.), `low shutdown risk` (ATL is not expected to rest or shut down players)
+- Durable: none
 
-**Note.** With a Yahoo rank of 272, an ESPN rank of 227 and 0 USD values on both sites, Aaron Wiggins is not a draft target in our 144-player auction, and Lloyd thinks even a top-200 rank is too high for him. Treat him as a waiver option, not a draft pick. Early in the season, check whether his shooting recovers (43.1% FG last season against 48.8% in 2024-25), whether he takes minutes from Dort, and whether a starter injury hands him more than his bench role, which projects to about 20 minutes.
+**Note.** He is not a draft target in our league. Both sites value him at 0 USD, he ranks 272 on Yahoo and 227 on ESPN, and he went undrafted in our league last season. That puts him well outside the 144 players we draft, and Lloyd thinks he will be a seventh man. His projected line has no weak category flags, but it has no strong ones either, so he adds little to any build. Watch two things early on waivers: whether his FG% returns to his career level (Yahoo projects 44.2%, ESPN 48.7%), and whether he takes minutes from Dort or fills in when an Atlanta guard or wing is hurt.
 
-<sub>5 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

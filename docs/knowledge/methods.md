@@ -3,6 +3,41 @@
 
 General methods and strategy, newest video first.
 
+## 2026-10-05 [Fantasy Basketball Auction Mock Draft/Salary Cap Mock Draft](videos/2026-10-05-Q6YlQDvD-aY.md)
+
+- [0:48](https://youtu.be/Q6YlQDvD-aY?t=48) Auction prices change whenever league settings, team count or roster size change. His valuations will be different from what happens in your league.
+  > "Reminder, as soon as things in an auction draft change, the prices will change."
+- [5:18](https://youtu.be/Q6YlQDvD-aY?t=318) Nominating big names early gets cash off the board. Early prices tell you whether the room is hot or cold.
+  > "Again, the idea of getting cash off the board is an important one."
+- [5:24](https://youtu.be/Q6YlQDvD-aY?t=324) He tries to keep his top-end prices low when setting values for elite players.
+  > "I again tried to suppress the top end prices when I'm thinking about it."
+- [7:25](https://youtu.be/Q6YlQDvD-aY?t=445) Paying $80 each for two superstars is too much to win the league, even if they are elite.
+  > "You're not winning at that price. That's just that's too difficult to do."
+- [9:28](https://youtu.be/Q6YlQDvD-aY?t=568) In a hot room, wait for bargains and target mid-round value rather than paying full price at the top.
+  > "It's not really sitting bargain for me. And in a in a hot room, I want a bit of a bargain."
+- [10:22](https://youtu.be/Q6YlQDvD-aY?t=622) A hot room pushes him toward a cheaper, balanced build.
+  > "hot room. So, I'm now I am locking in on a on a"
+- [15:46](https://youtu.be/Q6YlQDvD-aY?t=946) Being a fan of a player does not mean getting him at any cost. Only pay up to his value.
+  > "that is not acquire at all costs. That is just get where the value sits"
+- [17:20](https://youtu.be/Q6YlQDvD-aY?t=1040) To do well in an auction, you have to be comfortable not owning a first-round player.
+  > "you can be comfortable not having a first round type player."
+- [36:02](https://youtu.be/Q6YlQDvD-aY?t=2162) If an opponent is about to overpay in a way that hurts him for the rest of the draft, let him have the player instead of fighting.
+  > "I thought Eric was going to over bid on someone and it puts him at a real disadvantage rest of the draft."
+- [47:53](https://youtu.be/Q6YlQDvD-aY?t=2873) Keep track of how much you can spend per open slot, holding back money for $1 bench slots.
+  > "If I take my two $1 slots, that's five for 70. So, 14 bucks a slot."
+- [59:02](https://youtu.be/Q6YlQDvD-aY?t=3542) Late in a hot draft, real value appears if you have the patience to wait.
+  > "This is where the value is is really coming in. If you've got the balls and the patience"
+- [1:02:33](https://youtu.be/Q6YlQDvD-aY?t=3753) Nominate players you see as $1 guys early. Others will often overpay $4 or $5 for them.
+  > "Get some $1 guys out early and they go for like four"
+- [42:26](https://youtu.be/Q6YlQDvD-aY?t=2546) How the market reacts to an injury tag can leave value on the board.
+  > "how are people going to react to the injury? because sometimes that might just leave value."
+- [1:19:04](https://youtu.be/Q6YlQDvD-aY?t=4744) Leave yourself a $1 streaming slot. Finishing with unused money means you planned your budget wrong.
+  > "I don't like the strategy of not having a $1 player"
+- [1:33:33](https://youtu.be/Q6YlQDvD-aY?t=5613) Late in the draft, track each manager's max bid. Someone holding money can snipe the player you are waiting on.
+  > "Tatum and Strangers are my things here. So, as soon as Keegan goes up, I'm going to get cooked here."
+- [1:46:31](https://youtu.be/Q6YlQDvD-aY?t=6391) You can build a good team around two high-priced stars, but there is no margin for error. If one is out, the team loses that week.
+  > "You can build a a good team with the two guys at high prices. You have just no margin for error."
+
 ## 2026-10-04 [LA Clippers Fantasy Basketball Preview [26/27 NBA Season]](videos/2026-10-04-tnzmsYUA4yQ.md)
 
 - [23:33](https://youtu.be/tnzmsYUA4yQ?t=1413) Rookie point guards are almost always bad for fantasy. Expect efficiency problems and be skeptical of drafting them in redraft leagues.
@@ -27,6 +62,31 @@ General methods and strategy, newest video first.
   > "If you end at my recommended date, March 28th, it's a 4-34. Pretty good. Pretty fine."
 - [17:23](https://youtu.be/tnzmsYUA4yQ?t=1043) Being a top five draft pick does not mean a player will be great. Many top picks become journeyman rotation players.
   > "It it is worth remembering that Chris Dunn was a top five draft pick."
+
+## 2026-10-04 [The Fantasy Basketball Sleepers You NEED To Pay Attention To](videos/2026-10-04-n4KkK-OJjqA.md)
+
+- [3:47](https://youtu.be/n4KkK-OJjqA?t=227) Look for large gaps between ADP and expected value, not small ones. A gap of a few spots leaves little margin for error. A gap of 15 to 20 spots protects you even if the player underperforms.
+  > "If he's 40th and I think he's 24th, well, even if he doesn't live up to my expectation, I got a big gap"
+- [4:16](https://youtu.be/n4KkK-OJjqA?t=256) ADP is an average and can mislead. A median draft position would be more useful. An ADP of 46 means the player goes outside the top 50 in some leagues.
+  > "I do wish they would do an MDP, a median draft position. I think that would probably give us better results"
+- [5:04](https://youtu.be/n4KkK-OJjqA?t=304) Players with injury or age risk can be good value when the discount is large enough, because the risk is already priced in.
+  > "this is a middle of the second round sort of a player. We're already baking in three rounds of value here."
+- [14:44](https://youtu.be/n4KkK-OJjqA?t=884) If you do not want to punt free throws, do not draft Giannis at all. Fantrax ADPs mix formats and can be distorted.
+  > "I don't want to punt free throws then don't take him like at all. Don't take him at nine."
+- [17:11](https://youtu.be/n4KkK-OJjqA?t=1031) Assists are scarce in the middle rounds. Hybrid guards who can get 4 to 6 assists are worth targeting there.
+  > "Getting a high assist player at this point in the draft is difficult. And all of these guys could get five, six."
+- [17:46](https://youtu.be/n4KkK-OJjqA?t=1066) Steals are volatile game to game, week to week and year to year. Good steals players still keep providing value over time.
+  > "The Steels are a tough category. They vary game to game, week to week, year to year a lot."
+- [18:59](https://youtu.be/n4KkK-OJjqA?t=1139) Late in drafts, target functional centers who provide cheap rebounds and blocks.
+  > "when you're looking for a functional center around that spot, functional microwave cover, easy."
+- [21:04](https://youtu.be/n4KkK-OJjqA?t=1264) Small differences at the top of a draft matter more than small differences later on.
+  > "the pointy end of a draft it is it is important those small differences at the top."
+- [22:44](https://youtu.be/n4KkK-OJjqA?t=1364) Yahoo ranks and ADP are format agnostic. Players who are much better in points leagues than in category leagues can be big points league values.
+  > "Remembering that Yahoo ranks and ADPs are format agnostic. They don't care that you're in a points league or a category league."
+- [24:02](https://youtu.be/n4KkK-OJjqA?t=1442) Learn how a site presents its information and how player value differs across formats. You can gain value from the gaps.
+  > "understanding how a player differs in different formats and how you can split the gaps on that is a great way"
+- [28:18](https://youtu.be/n4KkK-OJjqA?t=1698) A risky late pick that fails does not ruin a draft when the upside is high.
+  > "Let's say you pick him at 80 and he plays 20 games. Does that kill your draft? No."
 
 ## 2026-10-03 [Detroit Pistons Fantasy Basketball Preview [26/27 NBA Season]](videos/2026-10-03-_O9pc_u5vH0.md)
 

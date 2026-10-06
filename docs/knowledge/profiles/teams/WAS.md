@@ -11,33 +11,33 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Deandre Ayton, PF Justin Champagnie, PG Bub Carrington, SF Will Riley, SG Bilal Coulibaly
 
 **Current**
-- Alex Sarr loses usage to Davis, Young and Dybantsa. Davis also takes rebound and block chances from him. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=894), [08-19](https://youtu.be/J1Eg3uaAICU?t=1121), [06-25](https://youtu.be/lOshTzDA4SA?t=355))
-- Washington added Anthony Davis, Trae Young and AJ Dybantsa. All three missed last season. (fact, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1436), [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [08-19](https://youtu.be/J1Eg3uaAICU?t=1121))
+- The schedule is average. Back-to-backs and playoff-week games are both in the middle of the league, so neither helps nor hurts much. (verdict, 2026-10-05; stats)
+- Alex Sarr loses usage to Davis, Young and Dybantsa, and Davis also takes some of his rebound and block chances. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=894), [08-19](https://youtu.be/J1Eg3uaAICU?t=1121), [06-25](https://youtu.be/lOshTzDA4SA?t=355))
+- Washington added Anthony Davis, Trae Young and rookie AJ Dybantsa. All three missed last season. Trae Young re-signed with the team. (fact, 2026-09-17; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [09-17](https://youtu.be/DubdKKhMWHo?t=1436), [08-19](https://youtu.be/J1Eg3uaAICU?t=1121), [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
 - Anthony Davis plays center on offense. Alex Sarr moves to power forward, plays further from the basket and switches on the perimeter. (fact, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1436), [08-19](https://youtu.be/J1Eg3uaAICU?t=1121))
-- The speaker is about 80% sure the Wizards keep Anthony Davis and try to make the playoffs, but a trade cannot be ruled out. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1083))
-- The fifth starter spot is not settled. Kyshawn George holds it on the depth chart, but many wings compete for it. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1586), stats)
-- Trae Young and Anthony Davis will take most of the usage. Little is left for AJ Dybantsa and the young players. (verdict, 2026-09-07; [09-03](https://youtu.be/OBwWCxG9SqM?t=1271), [06-25](https://youtu.be/lOshTzDA4SA?t=355), [06-23](https://youtu.be/-rgXhs5BHiw?t=112), [09-07](https://youtu.be/gJUBAJaHzlU?t=1192))
+- One expert is about 80% sure Washington keeps Anthony Davis, but a trade cannot be ruled out. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1083))
+- The fifth starter spot is not settled. Many wings compete for it. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1586))
+- The new additions cut into the roles of the young players. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192))
+- Trae Young and Anthony Davis will take most of the usage. Little is left for AJ Dybantsa and the other young players. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1271), [06-25](https://youtu.be/lOshTzDA4SA?t=355), [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
+- Washington has ended its rebuild and is trying to compete this season, with a push for at least the play-in. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
+- Fantasy managers should no longer face the late-season resting and minutes cuts of past Washington seasons. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185))
+- Ben predicts around 40 wins, close to .500 and in the play-in mix. That is above the market win total of 35.5. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1802), stats)
+- Health is a key factor for the team's season, above all Anthony Davis's health. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1802), [07-16](https://youtu.be/-y6p5PYLf00?t=1626))
+- Head coach Brian Keefe is under the most pressure of any coach to win games this season. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1605))
 - Projected starters are Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=379), stats)
-- The roster is deep and flexible, with many long wings and a crowded group of guards. Expect a 10 or 11 man rotation, with 12 or 13 players who could justify minutes. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2098), [07-23](https://youtu.be/LUTYUdXBG1M?t=248))
-- The rebuild is over. The team is trying to win and will push for the play-in. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
-- Late-season resting and minutes cuts of past years should not return this season. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185))
-- Ben predicts around 40 wins, near .500 and in the play-in mix. The market win total of 35.5 is lower than that. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1802), stats)
-- Health is a key factor for the team, and Anthony Davis's health is the main question. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1802), [07-16](https://youtu.be/-y6p5PYLf00?t=1626))
-- Defense is the main question after the team was the worst in the league last year. Steve Clifford joined the coaching staff to help. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1594))
-- Head coach Brian Keefe is under the most pressure to win games this season. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1605))
-- The team chases the play-in and has only one back-to-back in the fantasy playoff weeks, so rest risk for its stars in weeks 19 to 21 looks low. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), stats)
-- Anthony Davis and Alex Sarr limit Bilal Coulibaly's minutes and rim contests. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=752))
-- Deandre Ayton comes off the bench as the backup center. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1626), stats)
-- If Anthony Davis is traded, Alex Sarr starts at center. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=1518))
-- Trae Young re-signed with Washington. The speaker sees the deal as a possible overpay. (fact, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
+- The roster is deep and flexible, with many long wings and guards. Ben expects a 10 or 11 man rotation, with 12 or 13 players who could justify minutes. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2098), [07-23](https://youtu.be/LUTYUdXBG1M?t=248))
+- Center is the thin spot behind Davis and Sarr. Deandre Ayton is the backup center off the bench. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=248), [07-16](https://youtu.be/-y6p5PYLf00?t=1626), stats)
+- Defense is the main question after the team had the worst defense in the league last year. Steve Clifford joined the coaching staff to help. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1594))
+- Davis and Sarr limit Bilal Coulibaly's minutes and rim contests. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=752))
+- If Davis is traded, Alex Sarr starts at center. (verdict, 2026-06-30, until Anthony Davis trade; [06-30](https://youtu.be/4GDfg2n2l8o?t=1518))
 
 **Durable**
 - none
 
 **Tags**
-- Current: `low shutdown risk` (Rebuild over, pushing for the play-in. Late-season rest and minutes cuts are not expected.), `deep rotation` (10 or 11 man rotation expected, with 12 or 13 players who could justify minutes. Crowded at wing and guard.), `concentrated usage` (Trae Young and Anthony Davis take most of the usage. Little is left for Dybantsa, Sarr and the young players.)
+- Current: `low shutdown risk` (Rebuild is over. The team is chasing the play-in, so the late-season rest and minutes cuts of past years should end.), `concentrated usage` (Trae Young and Anthony Davis take most of the usage. Dybantsa, Sarr and the young players are capped.), `deep rotation` (10 or 11 man rotation expected, with 12 or 13 players who could justify minutes. Crowded at wing and guard.), `unsettled rotation` (Fifth starter spot is open, with many wings competing. Kyshawn George is the current pick.)
 - Durable: none
 
-**Note.** Washington is trying to win now, so Trae Young and Anthony Davis get most of the usage and late-season rest risk is low. Alex Sarr, AJ Dybantsa and the young wings lose usage, and Sarr also loses rebounds and blocks while he plays power forward next to Davis. Early on, watch Davis's health and any trade talk, since Sarr starts at center if Davis leaves, and watch who wins the fifth starter spot among the wings.
+**Note.** In Washington, Trae Young and Anthony Davis are the players to draft: they get the touches, and a team chasing the play-in should not rest them late. Alex Sarr, AJ Dybantsa and the young wings lose usage and minutes in a deep, crowded rotation, though a Davis trade or injury would make Sarr a center again. Early on, watch Davis's health, any Davis trade talk and who takes the fifth starter spot.
 
-<sub>19 notes. Built 2026-10-04 with claude-opus-5-5 high, team prompt v1.</sub>
+<sub>19 notes. Built 2026-10-05 with claude-opus-5-5 high, team prompt v1.</sub>

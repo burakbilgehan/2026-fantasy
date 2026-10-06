@@ -8,18 +8,31 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "605f4d5b4d0f",
- "note_count": 11,
- "built_at": "2026-10-04T17:33:32+00:00",
+ "input_sha": "bcf57b625743",
+ "note_count": 13,
+ "built_at": "2026-10-05T19:51:37+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.13557419999999998,
-  "duration_ms": 35669
+  "cost_usd_list": 0.1848382,
+  "duration_ms": 52234,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "McDaniels is a projected starter for Minnesota. Anthony Edwards, LaMelo Ball and Rudy Gobert are the other set starters.",
+   "text": "Minnesota added Jonathan Kuminga. Julius Randle and Naz Reid are gone.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:t4",
+    "dlo7L8Ru91A:p26",
+    "2mxpEpGU3H8:t0"
+   ]
+  },
+  {
+   "text": "He is a projected starter, next to LaMelo Ball, Anthony Edwards and Rudy Gobert. Coach Finch said he will play some power forward but probably will not start there or play all his minutes there.",
    "kind": "fact",
    "date": "2026-08-19",
    "until": "",
@@ -29,85 +42,86 @@
    ]
   },
   {
-   "text": "Coach Finch said McDaniels will play some power forward, but he probably will not start there or play all his minutes there. Minnesota has little frontcourt depth.",
-   "kind": "fact",
-   "date": "2026-08-19",
-   "until": "",
-   "sources": [
-    "2mxpEpGU3H8:p12",
-    "4GDfg2n2l8o:t9",
-    "ya2VYRJ1BN0:t0"
-   ]
-  },
-  {
-   "text": "Julius Randle and Naz Reid were traded away for LaMelo Ball. Donte DiVincenzo will miss most of the season.",
-   "kind": "fact",
-   "date": "2026-08-19",
-   "until": "",
-   "sources": [
-    "2mxpEpGU3H8:t0",
-    "9tb1ARBEmQU:t0",
-    "HxQjagSTTAM:t0"
-   ]
-  },
-  {
-   "text": "Minnesota signed Jonathan Kuminga, who is expected to start and will take shots.",
-   "kind": "fact",
-   "date": "2026-09-10",
-   "until": "",
-   "sources": [
-    "sTtFUy7IoJI:t1",
-    "dlo7L8Ru91A:p26"
-   ]
-  },
-  {
-   "text": "With Randle and Reid gone, his usage should go up. The Kuminga signing takes back some of that gain.",
+   "text": "He should keep his starting spot even with Kuminga on the roster.",
    "kind": "verdict",
-   "date": "2026-09-17",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p32"
+   ]
+  },
+  {
+   "text": "Losing Randle and Reid should raise his usage, but Kuminga will take shots and cut that gain a little. One expert doubts he reaches a 20 usage rate.",
+   "kind": "verdict",
+   "date": "2026-10-04",
    "until": "",
    "sources": [
     "9tb1ARBEmQU:p4",
-    "ya2VYRJ1BN0:p8",
-    "OdDkXFhoKsc:p50",
     "sTtFUy7IoJI:p17",
-    "ahNxsoU8Hx4:p63"
-   ]
-  },
-  {
-   "text": "Experts disagree on his price. One calls a rank of about 74 fair and doubts he reaches 20 percent usage. Another lists him as a sleeper who should beat the Kuminga hit.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
     "dlo7L8Ru91A:p26",
-    "ahNxsoU8Hx4:p63"
+    "ahNxsoU8Hx4:p63",
+    "n4KkK-OJjqA:p32"
    ]
   },
   {
-   "text": "In the latest mock draft he went at pick 77. The expert sees upside: if a teammate misses time, his usage spikes. The same expert is a little worried about the team overall.",
+   "text": "Minnesota's bench and frontcourt depth are thin. If a teammate misses time, his usage could spike.",
    "kind": "verdict",
    "date": "2026-09-30",
    "until": "",
    "sources": [
+    "BjXP9JODDSg:p36",
+    "2mxpEpGU3H8:t2",
+    "4GDfg2n2l8o:p20"
+   ]
+  },
+  {
+   "text": "Experts say his ADP of 91 to 98 is too late and that he should beat it. One expert says a rank near 74 is about right. Another expects him to finish about 20 spots better than 74.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p32",
+    "ahNxsoU8Hx4:p63",
+    "dlo7L8Ru91A:p26",
+    "J1Eg3uaAICU:p44"
+   ]
+  },
+  {
+   "text": "In an expert mock auction, Josh paid 11 USD for him as his first player. In a 10-team mock draft he went at pick 77.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p20",
     "BjXP9JODDSg:p36"
    ]
   },
   {
-   "text": "Minnesota plays only two games in the week starting March 15, 2027. That is week 20, inside our fantasy playoffs.",
+   "text": "Minnesota has a two-game week in the matchup starting March 15. That is our fantasy playoff week 20.",
    "kind": "fact",
    "date": "2026-09-22",
    "until": "",
    "sources": [
     "gf_6GveiAls:t14",
-    "J1Eg3uaAICU:t0",
     "2mxpEpGU3H8:t4",
+    "J1Eg3uaAICU:t0",
     "QbdrhJd7LiA:t4"
+   ]
+  },
+  {
+   "text": "Minnesota is expected to compete for a playoff spot, with one prediction of 53 wins. That makes late-season rest for tanking unlikely.",
+   "kind": "verdict",
+   "date": "2026-08-19",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:t3",
+    "Rqb5GdrSweY:t8"
    ]
   }
  ],
  "durable": [
   {
-   "text": "His usage has gone up in each of the last three seasons.",
+   "text": "His usage rate has gone up in each of the last three seasons.",
    "kind": "fact",
    "date": "2026-08-19",
    "until": "",
@@ -116,9 +130,9 @@
    ]
   },
   {
-   "text": "He has a balanced category profile with no weak category. He helps most in blocks, steals and FG% for a forward.",
+   "text": "His projected category line has no weak category. Blocks, steals and FG% are his best areas for a forward.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
@@ -129,7 +143,7 @@
   {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "No weak category. Best in BLK, STL and FG% for a forward.",
+   "detail": "no category flagged weak; blocks, steals and FG% are his best areas",
    "until": "",
    "sources": [
     "stats"
@@ -137,42 +151,111 @@
    "new_meaning": ""
   },
   {
-   "name": "role up",
+   "name": "sleeper",
    "channel": "current",
-   "detail": "Randle and Naz Reid are gone. The Kuminga signing limits the gain.",
+   "detail": "ADP 91 to 98, experts say too late",
    "until": "",
    "sources": [
-    "9tb1ARBEmQU:p4",
-    "ya2VYRJ1BN0:p8",
-    "OdDkXFhoKsc:p50",
+    "n4KkK-OJjqA:p32",
     "ahNxsoU8Hx4:p63"
    ],
    "new_meaning": ""
   },
   {
-   "name": "sleeper",
+   "name": "expert target",
    "channel": "current",
-   "detail": "Named a sleeper at an ESPN ADP of 98. Other experts disagree.",
+   "detail": "expected to beat his ADP and his Yahoo rank of 74",
    "until": "",
    "sources": [
-    "ahNxsoU8Hx4:p63"
+    "n4KkK-OJjqA:p32",
+    "ahNxsoU8Hx4:p63",
+    "J1Eg3uaAICU:p44",
+    "OdDkXFhoKsc:p50"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "more usage after Randle and Reid left, partly offset by Kuminga",
+   "until": "",
+   "sources": [
+    "9tb1ARBEmQU:p4",
+    "J1Eg3uaAICU:p44",
+    "OdDkXFhoKsc:p50",
+    "n4KkK-OJjqA:p32"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "shares shots with LaMelo Ball, Anthony Edwards and Jonathan Kuminga",
+   "until": "",
+   "sources": [
+    "dlo7L8Ru91A:p26",
+    "sTtFUy7IoJI:p17",
+    "2mxpEpGU3H8:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "thin rotation",
+   "channel": "current",
+   "detail": "almost no frontcourt depth behind him",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:t2",
+    "4GDfg2n2l8o:p20",
+    "BjXP9JODDSg:p36"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "stable starters",
+   "channel": "durable",
+   "detail": "Finch rarely changes starters unless someone is hurt",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "one prediction of 53 wins",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:t3",
+    "Rqb5GdrSweY:t8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low shutdown risk",
+   "channel": "current",
+   "detail": "Minnesota is competing, not tanking",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:t8"
    ],
    "new_meaning": ""
   },
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "Minnesota plays only two games in week 20, which starts March 15.",
+   "detail": "two-game week in the matchup starting March 15 (our week 20)",
    "until": "",
    "sources": [
     "gf_6GveiAls:t14",
-    "J1Eg3uaAICU:t0",
     "2mxpEpGU3H8:t4",
+    "J1Eg3uaAICU:t0",
     "QbdrhJd7LiA:t4"
    ],
    "new_meaning": ""
   }
  ],
- "note": "McDaniels is a cheap, balanced forward who fits every build. Projections have him at about 51% FG with 1.1 steals and 1.0 blocks, and no category hurts you. He went for 1 USD in our league last season, and the sites price him at 4 to 6 USD (rank 84 to 90), so he is a good late target at 3 to 6 USD. Early in the season, check how his usage holds up next to Kuminga and LaMelo Ball and how often he plays power forward. Also plan around Minnesota's two-game week in playoff week 20.",
+ "note": "He went for 1 USD in our league last season, and Yahoo and ESPN average costs are only 1.0 and 2.3 USD. Site values are 4 to 6 USD and ranks are 84 to 90, so he is a cheap starting forward with no weak category who fits any build. Spending up to the site values is fine, since experts say his ADP is too late. An expert mock paid 11 USD for him, which is the top of the range. Early in the season, check how many shots he gets next to Ball, Edwards and Kuminga and whether he plays power forward minutes. Plan around Minnesota's two-game week in our playoff week 20.",
  "rejected": []
 }

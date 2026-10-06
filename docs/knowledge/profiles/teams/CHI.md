@@ -11,43 +11,39 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Zach Collins, PF Jalen Smith, PG Tre Jones, SF Patrick Williams, SG Isaac Okoro
 
 **Current**
-- Chicago is expected to be a bad team, likely bottom 10 in the league and probably bottom six. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=98), [07-02](https://youtu.be/P6TNP-g0wzY?t=1764), [06-25](https://youtu.be/lOshTzDA4SA?t=815), [06-23](https://youtu.be/9tb1ARBEmQU?t=829), stats)
+- Chicago is expected to be a bad team this season. Experts place it in the bottom 10 of the league, probably the bottom six. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=98), [07-02](https://youtu.be/P6TNP-g0wzY?t=1764), [06-25](https://youtu.be/lOshTzDA4SA?t=815), [06-23](https://youtu.be/9tb1ARBEmQU?t=829))
 - Few Eastern Conference teams are expected to be clearly worse than Chicago. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=98))
 - Tiago Splitter is the new head coach. He replaces Billy Donovan. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=172), [08-18](https://youtu.be/FxaSnyk9g90?t=387), [09-07](https://youtu.be/gJUBAJaHzlU?t=1152))
 - It is unclear how Splitter will handle Matas Buzelis's minutes. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=172))
-- Nikola Vucevic and Coby White are no longer on the team. Norman Powell, Caleb Wilson, Nic Claxton and Buddy Hield are new. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=199), [06-23](https://youtu.be/9tb1ARBEmQU?t=829), [09-27](https://youtu.be/CRLSsoGhb2w?t=159))
-- With Vucevic and White gone, more usage is available. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=199))
+- Nikola Vucevic and Coby White are gone. That frees up usage and opens bigger roles for the young players. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=199), [09-07](https://youtu.be/gJUBAJaHzlU?t=1152))
+- Norman Powell and rookie Caleb Wilson have joined the team. Nic Claxton came in by trade. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=199), [06-23](https://youtu.be/9tb1ARBEmQU?t=829))
 - Projected starters: Josh Giddey, Norman Powell, Matas Buzelis, Caleb Wilson and Nic Claxton. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=281), stats)
 - Claxton is about 90% sure to start over Jalen Smith. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=281))
-- Tre Jones is the sixth man. Isaac Okoro, Jalen Smith and Buddy Hield come next off the bench. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1383), [09-27](https://youtu.be/CRLSsoGhb2w?t=159))
+- Tre Jones is the sixth man. Isaac Okoro, Jalen Smith and Buddy Hield come next off the bench, with Hield playing as a bench guard behind Jones. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1383), [09-27](https://youtu.be/CRLSsoGhb2w?t=159), [09-15](https://youtu.be/KPdD91Oo8-U?t=2152))
 - The 10th rotation spot is open between Patrick Williams, Zach Collins and Leonard Miller. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1383))
-- The roster leans heavily on big men. Buzelis plays out of position. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1812))
-- The front office signs older players on short deals and hopes to trade them. It is not trying to acquire picks. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=746), [08-18](https://youtu.be/FxaSnyk9g90?t=251))
-- Powell, Collins and Claxton are on short veteran deals, which makes in-season trades of veterans possible. (verdict, 2026-09-28; [08-18](https://youtu.be/FxaSnyk9g90?t=251), [09-28](https://youtu.be/3Qm5wLjhvTw?t=746), [09-10](https://youtu.be/W-R1dzem32s?t=1509))
-- The fantasy playoff schedule is 3-3-4 (10 games), with one back-to-back in week 21. That is average. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2024), stats)
-- The team has 15 back-to-backs, one below the league maximum. The overall schedule is average. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2041), stats)
+- The roster leans heavily on bigs, and Buzelis plays out of position. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1812))
+- The front office signs older players on short deals (Powell, Collins, Claxton) and hopes to trade them. It is not acquiring picks. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=746), [08-18](https://youtu.be/FxaSnyk9g90?t=251))
+- Veteran trades are likely during the season, which could open roles for the young players. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=746), [08-18](https://youtu.be/FxaSnyk9g90?t=251))
+- Chicago has 15 back-to-backs, one below the league maximum. The overall schedule is average. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2041), stats)
+- Fantasy playoff schedule is 3-3-4, 10 games, with one back-to-back in week 21. That is average (rank 17 of 30). (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2024), stats)
 - Buzelis could be second in usage, ahead of Giddey and Wilson. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=588))
-- Caleb Wilson is not expected to have high usage as a rookie. Giddey and Buzelis should both use more possessions than him. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=588), [09-03](https://youtu.be/OBwWCxG9SqM?t=1146), [09-10](https://youtu.be/W-R1dzem32s?t=1509))
-- Norman Powell should get a lot of usage and may lead the team in usage unless he is traded. (verdict, 2026-09-10, until Powell is traded; [09-10](https://youtu.be/W-R1dzem32s?t=1509), [08-24](https://youtu.be/g31YlwRe0XQ?t=1520))
-- Donovan cut young players' minutes and usage after small mistakes. His exit, along with the exits of Coby White and Nikola Vucevic, opens up roles for the young players. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1152), [07-14](https://youtu.be/xHRF06_E9HE?t=1134), [09-21](https://youtu.be/egRrai3Ax38?t=588))
-- Hayes predicts 32 wins. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1629))
-- Splitter is expected to push young players out of their comfort zones. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=387))
-- The team lacks shooting. A lineup with Claxton, Wilson and Giddey together will have terrible spacing. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=570), [06-25](https://youtu.be/lOshTzDA4SA?t=815))
-- The rotation is thin. Losing Giddey or Buzelis would leave a depth problem. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=155))
-- The team has enough centers to cover a Claxton absence. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=155))
-- The Bulls played very fast late last season and should play an up-tempo transition style, which helps counting stats. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1679))
+- Caleb Wilson is not expected to have high usage as a rookie. Giddey and Buzelis should get more usage than him. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=588), [09-03](https://youtu.be/OBwWCxG9SqM?t=1146), [09-10](https://youtu.be/W-R1dzem32s?t=1509))
+- Norman Powell may lead the team in usage unless he is traded. (verdict, 2026-09-10, until Powell trade; [09-10](https://youtu.be/W-R1dzem32s?t=1509), [08-24](https://youtu.be/g31YlwRe0XQ?t=1520))
+- Splitter is expected to push the young players out of their comfort zones. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=387))
+- The team lacks shooting. A lineup with Claxton, Wilson and Giddey will have terrible spacing. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=570), [06-25](https://youtu.be/lOshTzDA4SA?t=815))
+- The rotation is thin. Losing Giddey or Buzelis would leave a depth problem, but the team has enough centers to cover a Claxton absence. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=155))
+- The Bulls played very fast late last season and should play an up-tempo transition style. That helps counting stats for their players. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1679))
 - The first 20 games of the schedule are a gauntlet. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1732))
 - The Bulls have one of only three five-game weeks this season. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1310))
-- Lloyd says the team has an unclear direction. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1764))
-- The Bulls sold both of their second-round picks for cash. One speaker expects them to cut Cam Jones, who came in one of those deals. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=553))
+- The Bulls sold both of their second-round picks for cash. Cam Jones, who came in one of those deals, is expected to be cut. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=553))
 
 **Durable**
 - none
 
 **Tags**
-- Current: `bottom team` (Win total 27.5 (rank 26). Experts see it as bottom 10, probably bottom six.), `trades likely` (Signs veterans on short deals (Powell, Collins, Claxton) and hopes to trade them.), `new coach` (Tiago Splitter replaces Billy Donovan.), `fast pace` (Very fast late last season; expected up-tempo transition style.), `thin rotation` (Losing Giddey or Buzelis would leave a depth problem. Center depth is fine.)
+- Current: `bottom team` (Bottom 10, probably bottom six. Win total 27.5, rank 26 of 30.), `new coach` (Tiago Splitter replaces Billy Donovan.), `usage freed` (Nikola Vucevic and Coby White are gone.), `fast pace` (Up-tempo transition style, very fast late last season.), `thin rotation` (Losing Giddey or Buzelis would hurt depth. Center depth is enough to cover Claxton.), `trades likely` (Veterans on short deals (Powell, Collins, Claxton) are signed to be traded.), `many back-to-backs` (15 back-to-backs, one below the league maximum.)
 - Durable: none
 
-**Note.** Chicago looks like a bad, fast-paced team with a new coach, and Vucevic and White are gone. That frees usage for Norman Powell, who may lead the team, and for Matas Buzelis, who is the main young winner. Caleb Wilson's rookie usage should be modest, and the poor spacing in a Giddey, Wilson and Claxton lineup is a risk. Early on, watch how Splitter handles Buzelis's minutes, whether Claxton keeps the starting job over Jalen Smith, and any veteran trades, since the front office signed Powell, Collins and Claxton on short deals so it can move them.
+**Note.** Chicago is a bad, fast-paced team with a new coach. Vucevic and White are gone, so Norman Powell should lead in usage and Matas Buzelis gains the most among the young players. Rookie Caleb Wilson is expected to have low usage, and the poor spacing hurts Giddey, Claxton and Wilson. Early on, watch how Splitter handles Buzelis's minutes, whether Claxton keeps the starting spot over Jalen Smith, and whether any veteran trades, since a Powell deal would open usage for the young core.
 
-<sub>30 notes. Built 2026-10-04 with claude-opus-5-5 high, team prompt v1.</sub>
+<sub>30 notes. Built 2026-10-05 with claude-opus-5-5 high, team prompt v1.</sub>

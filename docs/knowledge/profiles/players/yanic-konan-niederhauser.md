@@ -27,24 +27,27 @@
 </details>
 
 **Current**
-- He is out with a broken foot and will not be ready for opening night. He is out of the boot. The expected return is between Thanksgiving and Christmas, and the team is expected to bring him back slowly. One beat writer says the return could slip to 2027. (fact, 2026-10-04, until return between Thanksgiving and Christmas; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1975), [08-22](https://youtu.be/KLogvUwv_d8?t=967), [06-30](https://youtu.be/4GDfg2n2l8o?t=1043))
-- He outplayed Brook Lopez for big stretches of last season. Over his final seven games he averaged 7 points, 5 rebounds and 1.6 blocks in 17 minutes. (fact, 2026-10-04; [06-30](https://youtu.be/4GDfg2n2l8o?t=1043), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1893))
-- Isaiah Jackson is the projected starting center and started over Brook Lopez in preseason scrimmages. Lopez is projected as the backup center. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=360), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268), [10-01](https://youtu.be/EGdhmUgPAWY?t=867))
-- He is an IL stash. After his return he should take the starting center job by February and March at 24 or more minutes, which is enough to matter for fantasy. He could have a top 70 run late in the season. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1906), [10-02](https://youtu.be/ZYllcj4o6_A?t=1889), [08-22](https://youtu.be/KLogvUwv_d8?t=1105))
-- The Clippers have a good fantasy playoff schedule: 4, 3 and 4 games in weeks 19 to 21. They also have one of the lowest back-to-back totals in the league, with 13. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
-- The expert leans toward the Clippers using this season as a trial year with long rotations and many players tested. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335))
-- Experts think he would have been the Clippers' starting center and worth drafting if he had started the season healthy. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=877), [09-04](https://youtu.be/gerS7ibpaJo?t=1692))
+- In an expert mock auction he was nominated first and went for 3 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=259))
+- His normal auction price is about 1 USD, and most managers expect to get him for that late in the draft. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=259))
+- He is out with a broken foot. Yahoo lists him as out (foot). He is out of the boot. (fact, 2026-10-04, until return expected between Thanksgiving and Christmas; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1975), [08-22](https://youtu.be/KLogvUwv_d8?t=967), [09-04](https://youtu.be/gerS7ibpaJo?t=1692), stats)
+- He is expected back between Thanksgiving and Christmas and should be eased back slowly. One beat writer says his return could slip to 2027. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1975), [08-22](https://youtu.be/KLogvUwv_d8?t=967), [06-30](https://youtu.be/4GDfg2n2l8o?t=1043))
+- Once back, he should become the Clippers' starting center by February and March at 24 or more minutes, which would be enough to matter for fantasy. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1906), [08-22](https://youtu.be/KLogvUwv_d8?t=1105))
+- He is an IL stash with upside for a top 70 run late in the season. (verdict, 2026-10-04; [10-02](https://youtu.be/ZYllcj4o6_A?t=1889), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1906))
+- Isaiah Jackson starts over Brook Lopez in preseason scrimmages and is the projected starting center, with Lopez as the backup center. (fact, 2026-10-04; [10-01](https://youtu.be/EGdhmUgPAWY?t=867), [10-04](https://youtu.be/tnzmsYUA4yQ?t=360), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268))
+- The Clippers have a good fantasy playoff schedule: 4, 3 and 4 games in weeks 19 to 21. They have only 13 back-to-backs, one of the lowest totals in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
+- The Clippers do not control their own pick, so tanking does not help them. The expert leans toward a trial season with long rotations and many players tested. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=165), [10-04](https://youtu.be/tnzmsYUA4yQ?t=335))
+- Experts would have called him draftable and the likely starting center if he had started the season healthy. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=877), [09-04](https://youtu.be/gerS7ibpaJo?t=1692))
 
 **Durable**
-- His fantasy profile looks like Donovan Clingan's, but with better free throws. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1893))
-- He makes no threes and gets very few steals. His projected per-game value comes from FG%, few turnovers and blocks. (fact, 2026-10-04; stats)
-- He is a long, athletic big man and a shot blocker. He has some ball handling and a natural-looking shot form. He has added about 20 pounds of muscle. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1105))
+- He makes no threes and gets very few steals, even for a center. (fact, 2026-10-05; stats)
+- His fantasy profile resembles Donovan Clingan's, but with better free throws. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1893))
+- He is a long, athletic big man and shot blocker with some ball handling. He has added about 20 pounds of muscle. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1105))
 - He broke his foot around March of last season. (fact, 2026-08-22; [06-30](https://youtu.be/4GDfg2n2l8o?t=1043), [08-22](https://youtu.be/KLogvUwv_d8?t=967))
 
 **Tags**
-- Current: `injured now` (broken foot, Yahoo status O; until return between Thanksgiving and Christmas), `IL stash` (broken foot; starting center upside by February and March), `slow start` (out until around Thanksgiving to Christmas; value expected late in the season), `role up` (expected to start at center by February and March at 24 or more minutes), `minutes competition` (Isaiah Jackson and Brook Lopez at center), `flyer` (top 70 run upside late in the season), `good playoff schedule` (4-3-4 in weeks 19 to 21), `few back-to-backs` (13 back-to-backs)
+- Current: `injured now` (broken foot, Yahoo status O; until return expected between Thanksgiving and Christmas), `IL stash` (top 70 run upside late in the season), `slow start` (out until about Thanksgiving to Christmas, projected starter by February and March), `role up` (projected starting center at 24 or more minutes by February and March), `minutes competition` (Isaiah Jackson and Brook Lopez at center), `unsettled rotation` (Ty Lue changes rotations; projected starters uncertain), `good playoff schedule` (4-3-4 games in weeks 19 to 21), `few back-to-backs` (13 back-to-backs)
 - Durable: `no 3PM`
 
-**Note.** With a Yahoo value of 0 USD and rank 425, he will not be one of the 144 players drafted. Treat him as a free waiver pickup to hold in one of our 4 IL slots, not as an auction target. His late-season upside (24 or more minutes as a starter, a possible top 70 run) lands in our good 4-3-4 playoff weeks. He helps blocks, FG% and turnovers but adds no threes or steals. Early in the season, track his return timeline (Thanksgiving to Christmas) and whether Isaiah Jackson keeps the starting center job.
+**Note.** Yahoo values him at 0 USD (rank 425), so he is at most a 1 USD final pick in our 144-player draft. Spending 3 USD, as happened in one mock, is too much when he will likely be on waivers. His upside is real for the fantasy playoffs: 7 points, 5 rebounds and 1.6 blocks in 17 minutes over his last seven games, plus good FG% and low turnovers. He fits builds that want blocks and FG% from a center and do not need threes or steals. One of our 4 IL slots can hold him for free, or you can wait to pick him up from waivers. Before he returns, check his timeline in late November and whether Isaiah Jackson keeps the starting job.
 
-<sub>9 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>10 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

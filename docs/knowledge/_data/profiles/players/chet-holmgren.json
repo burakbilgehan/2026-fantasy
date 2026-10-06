@@ -8,57 +8,50 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "ac83d5361208",
- "note_count": 14,
- "built_at": "2026-10-04T17:26:40+00:00",
+ "input_sha": "d977ea311816",
+ "note_count": 15,
+ "built_at": "2026-10-05T19:45:09+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1569702,
-  "duration_ms": 42935
+  "cost_usd_list": 0.2070342,
+  "duration_ms": 62202,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Experts say his Yahoo price is too high for category leagues. Yahoo ranks him 27th with an ADP of about 21 to 23, and taking him in round two is called close to league losing.",
+   "text": "Most experts say his Yahoo rank (19, later 27) and round-two ADP are too high, in category leagues as well as points leagues. One expert says Holmgren is overrated by nine-cat ranks. ESPN's rank of 51 is called fine.",
    "kind": "verdict",
    "date": "2026-09-19",
    "until": "",
    "sources": [
     "t4n9MAP2_14:p11",
     "LM0cRCGoAUQ:p19",
-    "uarqbNA2dFk:p5"
+    "uarqbNA2dFk:p5",
+    "J1Eg3uaAICU:p21"
    ]
   },
   {
-   "text": "ESPN's rank of 51 is called a fair price for him.",
-   "kind": "verdict",
-   "date": "2026-09-19",
-   "until": "",
-   "sources": [
-    "uarqbNA2dFk:p5"
-   ]
-  },
-  {
-   "text": "In a 14-team 9-cat mock draft, the expert said even pick 98 felt early for him.",
-   "kind": "verdict",
-   "date": "2026-09-15",
-   "until": "",
-   "sources": [
-    "KPdD91Oo8-U:p24"
-   ]
-  },
-  {
-   "text": "He finished about 47th per game last season.",
+   "text": "In an auction mock draft, Holmgren sold for 27 USD.",
    "kind": "fact",
-   "date": "2026-09-19",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "J1Eg3uaAICU:p21",
-    "uarqbNA2dFk:p5"
+    "Q6YlQDvD-aY:p35"
    ]
   },
   {
-   "text": "He had a poor playoff series against San Antonio.",
+   "text": "Josh would only pay about 21 to 22 USD for him in an auction.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p35"
+   ]
+  },
+  {
+   "text": "He had a poor playoff series against San Antonio. His coach says nobody on the team is more trusted to improve over the summer.",
    "kind": "fact",
    "date": "2026-07-26",
    "until": "",
@@ -67,18 +60,26 @@
    ]
   },
   {
-   "text": "Experts expect him to keep improving. He is not yet in his prime, the coach trusts him to improve over the summer, and one expert says people are overreacting to his playoff games.",
+   "text": "Ryland expects the poor playoff series to motivate him. Holmgren is not yet in his prime and should keep improving.",
    "kind": "verdict",
-   "date": "2026-09-21",
+   "date": "2026-07-26",
    "until": "",
    "sources": [
     "75Sk_4fkgIM:p21",
-    "75Sk_4fkgIM:p22",
-    "egRrai3Ax38:p31"
+    "75Sk_4fkgIM:p22"
    ]
   },
   {
-   "text": "One expert feels good about him keeping his block numbers this season.",
+   "text": "He was among the league leaders in lowering opponents' shot quality.",
+   "kind": "fact",
+   "date": "2026-07-07",
+   "until": "",
+   "sources": [
+    "ME-r173X5b0:p31"
+   ]
+  },
+  {
+   "text": "The experts feel good about him keeping his block numbers, about 1.9 per game last season.",
    "kind": "verdict",
    "date": "2026-07-07",
    "until": "",
@@ -87,7 +88,7 @@
    ]
   },
   {
-   "text": "OKC's center rotation is Hartenstein, Holmgren and Jaylin Williams, and Hartenstein's role looks secure.",
+   "text": "OKC's center rotation is Isaiah Hartenstein, Holmgren and Jaylin Williams.",
    "kind": "fact",
    "date": "2026-09-17",
    "until": "",
@@ -95,11 +96,33 @@
     "RyzcCGChYgs:t0",
     "ahNxsoU8Hx4:t3"
    ]
+  },
+  {
+   "text": "OKC traded away Lu Dort, Isaiah Joe and Aaron Wiggins to save salary.",
+   "kind": "fact",
+   "date": "2026-08-09",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:t0",
+    "75Sk_4fkgIM:t1",
+    "8d--aL_xxwE:t1",
+    "-KS_AZjZnw4:t7"
+   ]
+  },
+  {
+   "text": "Losing Dort, Joe and Wiggins opens up usage on OKC. Ryland still projects about 62 wins.",
+   "kind": "verdict",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:t7",
+    "75Sk_4fkgIM:t3"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "Experts call him the second-best rim protector in the NBA, with great positioning.",
+   "text": "Experts call him the second-best rim protector in the NBA, with great positioning. Josh calls him an All-NBA player.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
@@ -109,16 +132,7 @@
    ]
   },
   {
-   "text": "Blocks are his standout category, far above the top 250 pool.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He can shoot a bit from outside and is a decent scorer.",
+   "text": "He can shoot a bit and is a decent scorer.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
@@ -127,7 +141,16 @@
    ]
   },
   {
-   "text": "He broke his hip during one season. His two-point percentage was 55% that season and about 65% in his other seasons.",
+   "text": "Blocks are a league outlier strength for him. He also helps in rebounds and FG%, and none of his categories is a weakness.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He broke his hip in one season. In that season he made 55% of his twos. Afterward he went back to 65%.",
    "kind": "fact",
    "date": "2026-07-16",
    "until": "",
@@ -136,7 +159,7 @@
    ]
   },
   {
-   "text": "The 55% on twos in the hip injury season is probably an outlier.",
+   "text": "The 55% on twos from the broken hip season is probably an outlier.",
    "kind": "verdict",
    "date": "2026-07-16",
    "until": "",
@@ -149,7 +172,7 @@
   {
    "name": "BLK specialist",
    "channel": "durable",
-   "detail": "about 2.1 blocks per game projected; experts call him the second-best rim protector",
+   "detail": "About 2.1 blocks per game projected; experts call him the second-best rim protector in the NBA",
    "until": "",
    "sources": [
     "stats",
@@ -161,7 +184,7 @@
   {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "no weak category flagged",
+   "detail": "No weak category in the profile",
    "until": "",
    "sources": [
     "stats"
@@ -171,38 +194,70 @@
   {
    "name": "9-cat fluff",
    "channel": "durable",
-   "detail": "experts say nine-cat ranks overrate him",
+   "detail": "Experts say nine-cat ranks overrate him",
    "until": "",
    "sources": [
-    "LM0cRCGoAUQ:p19",
-    "t4n9MAP2_14:p11"
+    "LM0cRCGoAUQ:p19"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "category league player",
+   "channel": "durable",
+   "detail": "Experts call him a points-league bust in round two and only slightly better value in category leagues",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p11",
+    "g31YlwRe0XQ:p14",
+    "LM0cRCGoAUQ:p19"
    ],
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "at Yahoo price (rank 27, round two ADP)",
+   "detail": "At Yahoo's 30 USD price and round-two ADP; Josh would pay only 21 to 22 USD",
    "until": "",
    "sources": [
     "t4n9MAP2_14:p11",
     "LM0cRCGoAUQ:p19",
-    "uarqbNA2dFk:p5"
+    "uarqbNA2dFk:p5",
+    "Q6YlQDvD-aY:p35"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo 30 USD and rank 28; ESPN 10 USD and rank 51",
+   "detail": "Yahoo 30 USD (rank 28) vs ESPN 10 USD (rank 51)",
    "until": "",
    "sources": [
-    "stats",
-    "uarqbNA2dFk:p5"
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "About 62 wins projected",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage freed",
+   "channel": "current",
+   "detail": "OKC lost Dort, Joe and Wiggins",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:t7",
+    "75Sk_4fkgIM:t0"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Yahoo values him at 30 USD and our league paid 32 USD last season, but experts say that round-two price is too high and call ESPN's rank of 51 (10 USD) fair. His blocks are elite, and with strong rebounds and FG% and no weak category he fits any build, but he is a target only well below 30 USD. Early in the season, check whether his two-point shooting stays near 65% and how his minutes split with Hartenstein.",
+ "note": "He is a blocks anchor who also helps rebounds and FG%, with no weak category, so he fits any build. The price is the problem. Yahoo values him at 30 USD and he cost 32 USD in our league last season, but experts say round two is too early. Josh would pay only 21 to 22 USD, and ESPN has him at 10 USD (rank 51). Aim for the low 20s, not 30 USD. Early in the season, check that he plays about 29 minutes next to Hartenstein, that his FG% stays near 54 to 56%, and that he still blocks about 2 shots per game.",
  "rejected": []
 }

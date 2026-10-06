@@ -2,20 +2,22 @@
  "team": "OKC",
  "prompt_version": 1,
  "prompt_sha": "07b4ed7fd28e",
- "input_sha": "a4701237a961",
+ "input_sha": "73b1cfdacdb9",
  "note_count": 16,
- "built_at": "2026-10-04T20:00:23+00:00",
+ "built_at": "2026-10-05T20:06:37+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.15607379999999998,
-  "duration_ms": 46940
+  "cost_usd_list": 0.1590778,
+  "duration_ms": 43268,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "OKC traded away Lu Dort, Isaiah Joe and Aaron Wiggins, mostly to save money, and took back no salary. Nobody was added to replace them except rookies and unproven young players.",
+   "text": "OKC traded away Lu Dort, Isaiah Joe and Aaron Wiggins, mostly for financial reasons, and took back no salary.",
    "kind": "fact",
-   "date": "2026-09-07",
+   "date": "2026-09-17",
    "until": "",
    "sources": [
     "75Sk_4fkgIM:t0",
@@ -25,16 +27,36 @@
     "-KS_AZjZnw4:t7",
     "8d--aL_xxwE:t1",
     "Alwse2uXzD4:t0",
-    "gJUBAJaHzlU:t4"
+    "gJUBAJaHzlU:t4",
+    "ahNxsoU8Hx4:t3"
    ]
   },
   {
-   "text": "The trades cut a projected luxury tax bill of 240 million USD to 20 million USD and brought in seven second-round picks.",
+   "text": "The trades cut a projected 240 million USD luxury tax bill to 20 million USD and brought in seven second-round picks.",
    "kind": "fact",
    "date": "2026-07-26",
    "until": "",
    "sources": [
     "75Sk_4fkgIM:t1"
+   ]
+  },
+  {
+   "text": "No veteran was added to replace them. Their minutes go to rookies and unproven young players.",
+   "kind": "fact",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:t0",
+    "W3THnI7wWdA:t4"
+   ]
+  },
+  {
+   "text": "The rotation stays deep even after these losses.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t4"
    ]
   },
   {
@@ -47,35 +69,6 @@
    ]
   },
   {
-   "text": "Even after these losses, the rotation stays deep.",
-   "kind": "verdict",
-   "date": "2026-09-07",
-   "until": "",
-   "sources": [
-    "gJUBAJaHzlU:t4"
-   ]
-  },
-  {
-   "text": "Cason Wallace is almost certain to start. He is listed as the starting SG next to Shai Gilgeous-Alexander, Jalen Williams, Chet Holmgren and Isaiah Hartenstein.",
-   "kind": "verdict",
-   "date": "2026-08-30",
-   "until": "",
-   "sources": [
-    "Alwse2uXzD4:t0",
-    "stats"
-   ]
-  },
-  {
-   "text": "Guard minutes go to Gilgeous-Alexander, Ajay Mitchell, Wallace and Topic. Wallace and Mitchell both play a lot of minutes.",
-   "kind": "fact",
-   "date": "2026-07-21",
-   "until": "",
-   "sources": [
-    "RyzcCGChYgs:t0",
-    "W3THnI7wWdA:t4"
-   ]
-  },
-  {
    "text": "The Thunder will have to give more minutes to Ajay Mitchell and Jared McCain.",
    "kind": "verdict",
    "date": "2026-09-30",
@@ -85,8 +78,8 @@
    ]
   },
   {
-   "text": "Gilgeous-Alexander is doing more off-ball work. The need to get Mitchell and McCain on the floor may be the reason.",
-   "kind": "fact",
+   "text": "Shai Gilgeous-Alexander is doing more off-ball work. The expert thinks this may be because Mitchell and McCain need more minutes.",
+   "kind": "verdict",
    "date": "2026-09-30",
    "until": "",
    "sources": [
@@ -94,36 +87,53 @@
    ]
   },
   {
-   "text": "The team may get less elite on defense and lean more on offense, playing Gilgeous-Alexander, Mitchell and Jalen Williams together.",
+   "text": "Cason Wallace is almost certainly going to start. The depth chart lists him as the starting SG.",
    "kind": "verdict",
-   "date": "2026-07-26",
+   "date": "2026-08-30",
    "until": "",
    "sources": [
-    "75Sk_4fkgIM:t4"
-   ]
-  },
-  {
-   "text": "Jalen Williams and Alex Caruso are the only true wings left who can guard bigger forwards.",
-   "kind": "fact",
-   "date": "2026-07-26",
-   "until": "",
-   "sources": [
-    "75Sk_4fkgIM:t2"
-   ]
-  },
-  {
-   "text": "The centers in the rotation are Hartenstein, Holmgren and Jaylin Williams. Jaylin Williams barely played unless the centers were out.",
-   "kind": "fact",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "RyzcCGChYgs:t0",
-    "ahNxsoU8Hx4:t3",
+    "Alwse2uXzD4:t0",
     "stats"
    ]
   },
   {
-   "text": "Hartenstein's role looks secure.",
+   "text": "Cason Wallace and Ajay Mitchell play a lot of minutes.",
+   "kind": "fact",
+   "date": "2026-07-01",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:t4"
+   ]
+  },
+  {
+   "text": "Guard minutes go to Gilgeous-Alexander, Mitchell, Wallace and Topic.",
+   "kind": "fact",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:t0"
+   ]
+  },
+  {
+   "text": "The center rotation is Isaiah Hartenstein, Chet Holmgren and Jaylin Williams.",
+   "kind": "fact",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:t0"
+   ]
+  },
+  {
+   "text": "Jaylin Williams barely played unless the centers were out.",
+   "kind": "fact",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:t3"
+   ]
+  },
+  {
+   "text": "Hartenstein's starting role looks secure.",
    "kind": "verdict",
    "date": "2026-09-17",
    "until": "",
@@ -132,16 +142,7 @@
    ]
   },
   {
-   "text": "The Thunder are unsure about Hartenstein's long-term future with the team.",
-   "kind": "fact",
-   "date": "2026-06-22",
-   "until": "",
-   "sources": [
-    "HxQjagSTTAM:t2"
-   ]
-  },
-  {
-   "text": "The frontcourt is crowded. The June note lists Holmgren, Hartenstein, Jaylin Williams, the re-signed Al Horford and Thomas Sorber. That limits minutes for rookie big men right away.",
+   "text": "The frontcourt is crowded with Holmgren, Al Horford (re-signed), Hartenstein, Jaylin Williams and Thomas Sorber. This limits minutes for rookie big men right away.",
    "kind": "verdict",
    "date": "2026-06-28",
    "until": "",
@@ -150,7 +151,34 @@
    ]
   },
   {
-   "text": "Without Joe, Dort and Wiggins, OKC will not repeat last season's share of about 37% of its shots coming from three. Expect fewer team threes.",
+   "text": "The Thunder are unsure about Hartenstein's future and about how Sarr will develop.",
+   "kind": "fact",
+   "date": "2026-06-22",
+   "until": "",
+   "sources": [
+    "HxQjagSTTAM:t2"
+   ]
+  },
+  {
+   "text": "Apart from Jalen Williams and Alex Caruso, the team has no true wings who can guard bigger forwards.",
+   "kind": "fact",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:t2"
+   ]
+  },
+  {
+   "text": "The team may become less elite on defense and more focused on offense, with Gilgeous-Alexander, Mitchell and Jalen Williams playing together.",
+   "kind": "verdict",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:t4"
+   ]
+  },
+  {
+   "text": "Without Joe, Dort and Wiggins, OKC will not repeat its share of roughly 37% of shots from three.",
    "kind": "verdict",
    "date": "2026-08-09",
    "until": "",
@@ -159,16 +187,7 @@
    ]
   },
   {
-   "text": "Ryland expects the team to push its core players to shoot more threes.",
-   "kind": "verdict",
-   "date": "2026-07-26",
-   "until": "",
-   "sources": [
-    "75Sk_4fkgIM:t5"
-   ]
-  },
-  {
-   "text": "OKC has the best win total in the league. Ryland projects about 62 wins, with a range of 57 to 62, and has OKC and San Antonio as the top two seeds in the West. There is no tanking risk.",
+   "text": "OKC is projected for about 62 wins (range 57 to 62). It has the best win total in the league, and OKC and San Antonio should be the top two seeds in the West.",
    "kind": "verdict",
    "date": "2026-07-26",
    "until": "",
@@ -178,18 +197,18 @@
    ]
   },
   {
-   "text": "OKC has the fewest back-to-backs in the league, so its stars have less reason to rest.",
+   "text": "OKC has the fewest back-to-backs in the league, so rest risk for its stars is lower.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "The playoff schedule is good: 11 games in weeks 19 to 21 (rank 4 of 30), with only two back-to-back pairs.",
+   "text": "The fantasy playoff schedule is strong: 11 games (rank 4 of 30) with only two back-to-back pairs, and none in week 19.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
@@ -198,7 +217,7 @@
  ],
  "durable": [
   {
-   "text": "OKC's core players take very few threes.",
+   "text": "The core players take very few threes.",
    "kind": "fact",
    "date": "2026-07-26",
    "until": "",
@@ -209,9 +228,20 @@
  ],
  "tags": [
   {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "About 62 projected wins. Best win total in the league. Expected top-two seed in the West.",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:t3",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "13 back-to-backs, the fewest in the league",
+   "detail": "13 back-to-backs, fewest in the league.",
    "until": "",
    "sources": [
     "stats"
@@ -221,7 +251,7 @@
   {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "11 games in weeks 19 to 21 (rank 4 of 30). Week 19 has 4 games and no back-to-back.",
+   "detail": "11 games in weeks 19 to 21 (rank 4 of 30). Only two back-to-back pairs.",
    "until": "",
    "sources": [
     "stats"
@@ -229,28 +259,30 @@
    "new_meaning": ""
   },
   {
-   "name": "contender",
-   "channel": "current",
-   "detail": "Win total 60.5 (rank 1). Projected top-two seed in the West.",
-   "until": "",
-   "sources": [
-    "stats",
-    "75Sk_4fkgIM:t3"
-   ],
-   "new_meaning": "Team expected to be among the best in the league this season, so it has no reason to tank."
-  },
-  {
    "name": "deep rotation",
    "channel": "current",
-   "detail": "Still deep after trading Dort, Joe and Wiggins. Minutes are spread over many guards and bigs.",
+   "detail": "Still deep after losing Dort, Joe and Wiggins. Crowded frontcourt.",
    "until": "",
    "sources": [
     "gJUBAJaHzlU:t4",
-    "RyzcCGChYgs:t0"
+    "RsjGTgJiKyI:t2",
+    "stats"
    ],
-   "new_meaning": "Team plays many rotation players, so minutes are spread out and few players get a heavy load."
+   "new_meaning": ""
+  },
+  {
+   "name": "usage freed",
+   "channel": "current",
+   "detail": "Dort, Joe and Wiggins are gone. More minutes for Mitchell, McCain and Wallace.",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:t7",
+    "BjXP9JODDSg:t0",
+    "75Sk_4fkgIM:t0"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "OKC is the top contender. It has the fewest back-to-backs and a good playoff schedule, so Shai Gilgeous-Alexander and the other starters carry little rest or tanking risk. The trades of Dort, Joe and Wiggins open minutes and usage for Cason Wallace (likely starter), Ajay Mitchell and Jared McCain, while the crowded frontcourt limits rookie bigs like Aday Mara. Early on, watch how the guard minutes split among Mitchell, McCain and Topic, and whether Shai's extra off-ball work cuts his usage.",
+ "note": "OKC is the best team in the league on paper. It has the fewest back-to-backs and a strong playoff schedule, so Gilgeous-Alexander, Jalen Williams and Holmgren carry little rest risk. The players who gain from the loss of Dort, Joe and Wiggins are Cason Wallace (likely starter), Ajay Mitchell and Jared McCain, while Hartenstein's center role looks secure and the crowded frontcourt caps rookie bigs like Aday Mara. Early on, watch how much off-ball work Gilgeous-Alexander does and how the guard minutes split between Mitchell, McCain and Topic.",
  "rejected": []
 }

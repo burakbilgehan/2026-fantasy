@@ -11,30 +11,28 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: PF Bobby Portis, PG Dru Smith, SF Simone Fontecchio, SG Klay Thompson
 
 **Current**
-- Pelle Larsson and Nikola Jović are not in the current starting five or second unit on the depth chart. (fact, 2026-10-04; stats)
-- Miami traded for Giannis Antetokounmpo. Tyler Herro is no longer on the team. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=813), [06-23](https://youtu.be/nnWX_ObljOE?t=780))
-- Miami lost a lot of depth and ball handlers in its trades, guards included. It lacks point guards. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=813), [07-23](https://youtu.be/LUTYUdXBG1M?t=1264), [07-17](https://youtu.be/NYTH7uQsPCM?t=1757), [06-23](https://youtu.be/nnWX_ObljOE?t=780))
+- The depth chart lists Portis, Dru Smith, Simone Fontecchio and Klay Thompson as the second unit, so Pelle Larsson and Nikola Jović sit outside the listed top nine. (fact, 2026-10-05; stats)
+- Miami traded for Giannis Antetokounmpo. Tyler Herro is no longer on the team. (fact, 2026-09-14; [06-23](https://youtu.be/nnWX_ObljOE?t=780), [09-14](https://youtu.be/LM0cRCGoAUQ?t=813))
+- Miami's depth is poor. The team lost guard depth and ball handlers in trades, and its big man depth is not great. (fact, 2026-09-14; [06-23](https://youtu.be/nnWX_ObljOE?t=918), [07-17](https://youtu.be/NYTH7uQsPCM?t=1757), [07-23](https://youtu.be/LUTYUdXBG1M?t=1264), [09-14](https://youtu.be/LM0cRCGoAUQ?t=813))
 - Bobby Portis is a solid backup for Bam Adebayo. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=813))
 - Miami traded away Jaime Jaquez Jr. and signed Klay Thompson. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1931))
-- Miami has the fewest back-to-backs in the league (13). None of them fall in the fantasy playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153), stats)
-- With so few back-to-backs, there is less risk that Giannis Antetokounmpo and the veterans sit for rest. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153), stats)
-- Miami plays only 10 games in fantasy playoff weeks 19 to 21. Weeks 20 and 21 have only 3 games each. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153), stats)
+- Miami has the fewest back-to-backs in the league (13), so rest risk for its players is low. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153), stats)
+- Miami has no back-to-backs in fantasy playoff weeks 19 to 21, but only 10 games in those weeks (4, 3, 3), which is near the league middle. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153), stats)
 - Davion Mitchell is the starting point guard. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=318), stats)
-- Josh does not think Davion Mitchell is a particularly strong starting point guard. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=318))
-- Depth is poor. Big man depth is not great either. (verdict, 2026-07-23; [06-23](https://youtu.be/nnWX_ObljOE?t=918), [07-23](https://youtu.be/LUTYUdXBG1M?t=1264))
-- Be careful with Miami players on the margins of the draft. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1264))
-- Giannis Antetokounmpo will handle the ball a lot. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=780))
-- Miami has no draft pick, and its future assets are gone. (fact, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=918), [06-23](https://youtu.be/nnWX_ObljOE?t=933))
-- Team defense should improve a lot. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=933))
-- A Giannis Antetokounmpo injury would end Miami's season. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=933))
+- The expert does not think Davion Mitchell is a particularly strong starter. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=318))
+- Fantasy managers should be careful with Miami players on the margins. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1264))
+- Miami lacks point guards and ball handlers, so Giannis Antetokounmpo should handle the ball a lot. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=780))
+- Miami's defense should improve a lot after the trade. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=933))
+- Miami has no draft pick this year, and its future assets are gone. (fact, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=918), [06-23](https://youtu.be/nnWX_ObljOE?t=933))
+- With depth and future assets gone, a Giannis Antetokounmpo injury would end Miami's season. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=933))
 
 **Durable**
 - none
 
 **Tags**
-- Current: `few back-to-backs` (13 back-to-backs, fewest in the NBA. None in weeks 19 to 21.), `bad playoff schedule` (Only 10 games in weeks 19 to 21 (rank 17 of 30), with 3 in each of weeks 20 and 21. No back-to-backs in those weeks.), `thin rotation` (Lost depth and ball handlers in trades. Weak guard and big man depth.)
+- Current: `thin rotation` (Lost guard depth and ball handlers. Big man depth is not great. A Giannis injury would sink the season.), `few back-to-backs` (13 back-to-backs, fewest in the league. None in weeks 19 to 21.), `concentrated usage` (No true point guard, so Giannis Antetokounmpo handles the ball a lot.), `winning team` (Win total 46.5, rank 11 of 30.)
 - Durable: none
 
-**Note.** Giannis Antetokounmpo gains the most because Miami has few ball handlers, so he will handle the ball a lot. Bam Adebayo, Davion Mitchell and the fringe wings (Hardaway Jr., Thompson, Fontecchio, Larsson) are risky picks on a thin roster. Miami has the fewest back-to-backs but only 10 playoff games. Early on, watch who runs the offense behind Mitchell and whether Larsson or Jović get back into the rotation. Giannis's health decides Miami's whole season.
+**Note.** Miami runs through Giannis Antetokounmpo, who should handle the ball a lot on a team with no real point guard. That makes him a gainer, while Bam Adebayo and the guards share what is left. The rotation is thin, so be careful with fringe Heat players like Davion Mitchell, Larsson, Jović and Conwell. Early on, watch who wins the guard minutes and how Hardaway Jr. and Thompson split them. The league-low 13 back-to-backs mean low rest risk all season, and there are none in the playoff weeks.
 
-<sub>11 notes. Built 2026-10-04 with claude-opus-5-5 high, team prompt v1.</sub>
+<sub>11 notes. Built 2026-10-05 with claude-opus-5-5 high, team prompt v1.</sub>

@@ -3,64 +3,38 @@
   "name": "Jonas Valančiūnas",
   "slug": "jonas-valanciunas",
   "pk": 628,
-  "team": "DEN",
+  "team": null,
   "position": "C"
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "04d277c6bfb0",
+ "input_sha": "e3b0c44298fc",
  "note_count": 0,
- "built_at": "2026-10-04T17:36:30+00:00",
+ "built_at": "2026-10-05T19:53:30+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.0881662,
-  "duration_ms": 16948
+  "cost_usd_list": 0.07269819999999999,
+  "duration_ms": 10736,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Denver's projected rotation has Nikola Jokic starting at center. Valančiūnas is not listed among the five projected bench players (DeRozan, Spencer Jones, Bagley, Tyus Jones, Strawther).",
+   "text": "He is a free agent and not on an NBA roster now. His role depends on where he signs.",
    "kind": "fact",
-   "date": "2026-09-29",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "sf6Ga9k-r-Q:t1"
-   ]
-  },
-  {
-   "text": "Experts say backup centers in Denver historically do not produce, even ones who looked fine elsewhere. That limits his outlook behind Jokic.",
-   "kind": "verdict",
-   "date": "2026-09-29",
-   "until": "",
-   "sources": [
-    "sf6Ga9k-r-Q:t3",
-    "keNupMSHp1Y:t4"
-   ]
-  },
-  {
-   "text": "Denver has a good schedule: 43 games through March 28 and only 14 back-to-backs, one of the lowest counts in the league.",
-   "kind": "fact",
-   "date": "2026-09-29",
-   "until": "",
-   "sources": [
-    "sf6Ga9k-r-Q:t4"
+    "stats"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He gets very few steals. This is a weak outlier even against the whole player pool.",
+   "text": "Steals are a clear weakness. His projected 0.3 per game is far below the top 250 pool.",
    "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He makes almost no threes.",
-   "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
@@ -69,9 +43,9 @@
  ],
  "tags": [
   {
-   "name": "no 3PM",
-   "channel": "durable",
-   "detail": "0.1 3PM per game in each of the last two seasons",
+   "name": "unsigned",
+   "channel": "current",
+   "detail": "Free agent with no NBA team as of 2026-10-05",
    "until": "",
    "sources": [
     "stats"
@@ -79,6 +53,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Valančiūnas is not a draft target. Yahoo and ESPN both value him at 0 USD and rank him 278 and 242, which is outside the 144 players our league drafts. He went for 1 USD in our auction last season, and his minutes fell to 13.4 per game. Leave him on waivers. Only check his minutes if Jokic misses time, and keep in mind the experts say Denver's backup centers rarely produce.",
+ "note": "No expert notes cover him. He ranks 278 on Yahoo and 242 on ESPN, and both sites value him at 0 USD, so he sits well outside the 144 players we draft. Our league paid only 1 USD for him last season. Do not draft him. His minutes fell to 13.4 per game last season, and his projection gives little beyond a decent FT% for a center and few turnovers. Check where he signs, and only look at him on waivers if an injury gives him a starting center role.",
  "rejected": []
 }

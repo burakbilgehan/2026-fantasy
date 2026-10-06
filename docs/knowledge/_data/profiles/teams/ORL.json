@@ -2,14 +2,16 @@
  "team": "ORL",
  "prompt_version": 1,
  "prompt_sha": "07b4ed7fd28e",
- "input_sha": "e574857220fe",
+ "input_sha": "375a4db69256",
  "note_count": 7,
- "built_at": "2026-10-04T20:00:11+00:00",
+ "built_at": "2026-10-05T20:07:09+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1596582,
-  "duration_ms": 35101
+  "cost_usd_list": 0.16236240000000002,
+  "duration_ms": 35517,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
@@ -41,7 +43,7 @@
    ]
   },
   {
-   "text": "This starting group was very good when it played together.",
+   "text": "This starting five was very good when it played together.",
    "kind": "verdict",
    "date": "2026-08-01",
    "until": "",
@@ -61,7 +63,16 @@
    ]
   },
   {
-   "text": "Goga Bitadze will still get some minutes at center, so the center minutes are split three ways.",
+   "text": "Vucevic came back to Orlando on a minimum deal as a backup.",
+   "kind": "fact",
+   "date": "2026-07-05",
+   "until": "",
+   "sources": [
+    "4kKINkZhWls:t2"
+   ]
+  },
+  {
+   "text": "Goga Bitadze will still get some minutes at center, so the backup center minutes are split.",
    "kind": "verdict",
    "date": "2026-08-26",
    "until": "",
@@ -70,13 +81,12 @@
    ]
   },
   {
-   "text": "Vucevic came back on a minimum deal to add bench scoring. The bench was one of the weakest scoring units in the league.",
+   "text": "The bench was weak in scoring. Vucevic was added to fix that.",
    "kind": "fact",
    "date": "2026-08-01",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:t2",
-    "4kKINkZhWls:t2"
+    "FEcNjVRlj-U:t2"
    ]
   },
   {
@@ -89,7 +99,7 @@
    ]
   },
   {
-   "text": "Orlando is 2.5 million USD under the second apron.",
+   "text": "The team is 2.5 million USD under the second apron.",
    "kind": "fact",
    "date": "2026-08-01",
    "until": "",
@@ -98,7 +108,7 @@
    ]
   },
   {
-   "text": "Because of the apron, Orlando will likely have to choose between keeping Jalen Suggs and keeping Anthony Black. That makes a trade of one of them possible.",
+   "text": "Because of the apron, Orlando will likely have to choose between keeping Jalen Suggs and keeping Anthony Black.",
    "kind": "verdict",
    "date": "2026-08-01",
    "until": "",
@@ -107,7 +117,7 @@
    ]
   },
   {
-   "text": "The expert predicts 47 or 48 wins and the 6th seed, which avoids the play-in. The betting win total of 43.5 is in the middle of the league. Tanking or resting players late in the season looks unlikely.",
+   "text": "The expert predicts 47 or 48 wins and the 6th seed, avoiding the play-in. That is above the market win total of 43.5.",
    "kind": "verdict",
    "date": "2026-08-01",
    "until": "",
@@ -117,18 +127,9 @@
    ]
   },
   {
-   "text": "Orlando has 11 games in the fantasy playoff weeks, 4th most in the league. Weeks 20 and 21 have 4 games each. Week 21 has no back-to-back.",
+   "text": "Orlando has 11 games in our fantasy playoff weeks, rank 4 of 30. Weeks 20 and 21 have 4 games each. Week 19 has only 3 games, including one back-to-back.",
    "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "Orlando has 14 back-to-backs, about the league average, so rest risk is normal.",
-   "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
@@ -138,36 +139,37 @@
  "durable": [],
  "tags": [
   {
-   "name": "good playoff schedule",
+   "name": "new coach",
    "channel": "current",
-   "detail": "11 games in weeks 19 to 21 (rank 4 of 30); 4 games in weeks 20 and 21",
+   "detail": "Sean Sweeney replaces Jamahl Mosley.",
    "until": "",
    "sources": [
+    "FEcNjVRlj-U:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "Expert predicts 47 or 48 wins and the 6th seed. Market win total is 43.5.",
+   "until": "",
+   "sources": [
+    "FEcNjVRlj-U:t4",
     "stats"
    ],
    "new_meaning": ""
   },
   {
-   "name": "new head coach",
+   "name": "good playoff schedule",
    "channel": "current",
-   "detail": "Sean Sweeney replaces Jamahl Mosley",
+   "detail": "11 games in weeks 19 to 21 (rank 4 of 30). Week 19 has only 3 games.",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:t0"
+    "stats"
    ],
-   "new_meaning": "The team has a new head coach this season, so rotation, minutes and roles may change."
-  },
-  {
-   "name": "playoff team",
-   "channel": "current",
-   "detail": "Expert predicts 47 or 48 wins and the 6th seed",
-   "until": "",
-   "sources": [
-    "FEcNjVRlj-U:t4"
-   ],
-   "new_meaning": "The team is expected to make the NBA playoffs, so late-season tanking or shutdowns are unlikely."
+   "new_meaning": ""
   }
  ],
- "note": "Orlando's five starters (Suggs, Bane, Wagner, Banchero, Carter) should keep full roles on a team expected to compete all season, and 11 playoff-week games add value for all of them. Vucevic is a backup who shares center minutes with Carter and Bitadze, so his value drops. Anthony Black's role depends on the apron choice between him and Suggs. Early on, watch how new coach Sean Sweeney splits the center minutes and any trade talk about Suggs or Black.",
+ "note": "Orlando's projected starting five of Suggs, Bane, Wagner, Banchero and Carter should keep steady roles on a team expected to win. Its 11 games in our playoff weeks help all of them. Vucevic is only a backup center and shares the bench minutes with Bitadze, so he loses value. Black's future depends on the apron choice between him and Suggs. Early on, watch how the new coach Sean Sweeney spreads minutes and touches.",
  "rejected": []
 }

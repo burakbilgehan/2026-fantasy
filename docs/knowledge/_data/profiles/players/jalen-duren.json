@@ -8,29 +8,41 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "8e03b143623f",
- "note_count": 16,
- "built_at": "2026-10-04T17:34:12+00:00",
+ "input_sha": "7968804527b9",
+ "note_count": 17,
+ "built_at": "2026-10-05T19:51:46+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1508582,
-  "duration_ms": 36814
+  "cost_usd_list": 0.19380219999999998,
+  "duration_ms": 49833,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "His holdout is over and he is back with Detroit. He is projected to start at center next to Cunningham, Robinson, Thompson and Collins.",
+   "text": "His holdout is over and he is back with Detroit. He is projected to start at center with Cunningham, Robinson, Thompson and Collins.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
+    "_O9pc_u5vH0:p5",
     "_O9pc_u5vH0:t0",
-    "_O9pc_u5vH0:t3",
-    "_O9pc_u5vH0:p5"
+    "_O9pc_u5vH0:t3"
    ]
   },
   {
-   "text": "His conditioning is a concern because he did not train hard while he had no contract.",
+   "text": "Yahoo lists him as questionable with an undisclosed injury. Josh says he is not injured.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p49",
+    "stats"
+   ]
+  },
+  {
+   "text": "His conditioning is a concern because he did not train hard during the holdout without a contract.",
    "kind": "verdict",
    "date": "2026-10-03",
    "until": "",
@@ -39,16 +51,37 @@
    ]
   },
   {
-   "text": "Yahoo lists him as questionable, with an undisclosed reason.",
-   "kind": "fact",
-   "date": "2026-10-04",
+   "text": "His auction value is about 20 USD. In a mock auction he went for 19 USD.",
+   "kind": "verdict",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "stats"
+    "Q6YlQDvD-aY:p49"
    ]
   },
   {
-   "text": "Isaiah Stewart is gone. Paul Reed is the only other center and the primary backup big, so there is little frontcourt depth behind Duren.",
+   "text": "He is a fair third to fourth round player. ESPN's rank of 23 is too high. He is the speaker's biggest fade on Detroit: never in round 2, no chance in the 20s and doubtful in the 30s.",
+   "kind": "verdict",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:p6",
+    "_O9pc_u5vH0:p8"
+   ]
+  },
+  {
+   "text": "Tobias Harris is gone, so Detroit lost creation and Duren could gain usage (projected near 25%). If his minutes go above 28 and his usage rises, he could reach the third round.",
+   "kind": "verdict",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p10",
+    "_O9pc_u5vH0:p7",
+    "_O9pc_u5vH0:t2"
+   ]
+  },
+  {
+   "text": "Isaiah Stewart is gone. Paul Reed is the only other center and the main backup big, so there is little frontcourt depth behind Duren.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
@@ -61,26 +94,7 @@
    ]
   },
   {
-   "text": "Tobias Harris is gone, so Detroit lost creation.",
-   "kind": "fact",
-   "date": "2026-10-03",
-   "until": "",
-   "sources": [
-    "_O9pc_u5vH0:t2",
-    "t4n9MAP2_14:p10"
-   ]
-  },
-  {
-   "text": "With Harris gone, he could gain usage, projected near 25%.",
-   "kind": "verdict",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "t4n9MAP2_14:p10"
-   ]
-  },
-  {
-   "text": "Last season he nearly tripled his self-creation volume and was efficient on those plays.",
+   "text": "Last season he almost tripled his self-creation volume and was efficient on those plays.",
    "kind": "fact",
    "date": "2026-08-12",
    "until": "",
@@ -89,37 +103,37 @@
    ]
   },
   {
-   "text": "He is a fair third to fourth round player. The expert took him at pick 42, calls ESPN's rank of 23 too high and would never take him in round 2. He is the expert's biggest fade on the team.",
-   "kind": "verdict",
-   "date": "2026-10-03",
+   "text": "His 2026 NBA playoffs were very bad, and Paul Reed outplayed him.",
+   "kind": "fact",
+   "date": "2026-08-12",
    "until": "",
    "sources": [
-    "_O9pc_u5vH0:p6",
-    "_O9pc_u5vH0:p8"
+    "p9XE5jFqhvs:p11",
+    "4GDfg2n2l8o:p13"
    ]
   },
   {
-   "text": "If his minutes go above 28 and his usage rises, he could return third round value.",
-   "kind": "verdict",
-   "date": "2026-10-03",
-   "until": "",
-   "sources": [
-    "_O9pc_u5vH0:p7"
-   ]
-  },
-  {
-   "text": "Detroit's fantasy playoff schedule is 4-3-4 games for a league ending March 28. The team has 15 back-to-backs, and no rest risk is expected.",
+   "text": "Detroit plays 4, 3 and 4 games in our playoff weeks 19 to 21. The team has 15 back-to-backs, with no rest risk expected.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
     "_O9pc_u5vH0:t6"
    ]
+  },
+  {
+   "text": "Detroit is projected to win 50 to 51 games and take the third or fourth seed in the East.",
+   "kind": "verdict",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:t3"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He is great in the pick and roll, on the offensive glass and on putbacks. He does not defend well and does not space the floor.",
+   "text": "He is great in the pick and roll, on the offensive glass and finishing putbacks.",
    "kind": "fact",
    "date": "2026-08-12",
    "until": "",
@@ -128,40 +142,48 @@
    ]
   },
   {
-   "text": "He scores and rebounds, and his assists are okay for a center.",
-   "kind": "verdict",
-   "date": "2026-09-19",
+   "text": "He does not defend well and does not space the floor.",
+   "kind": "fact",
+   "date": "2026-08-12",
    "until": "",
    "sources": [
-    "uarqbNA2dFk:p3"
+    "p9XE5jFqhvs:p9"
    ]
   },
   {
-   "text": "His FG% is a league outlier: about 65% on 11 or more attempts per game, which clearly lifts a team's FG%.",
+   "text": "He is a strong FG% anchor: very high FG% on center volume.",
    "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "stats",
-    "0geFVzSqOnA:p2"
-   ]
-  },
-  {
-   "text": "Rebounds are a league outlier strength, at more than 11 per game.",
-   "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He makes no threes.",
+   "text": "Rebounds are a real strength, far above the top 250 pool.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
+   ]
+  },
+  {
+   "text": "He makes no threes, so 3PM is his one clear weak category.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Detroit is built on defense, and the front office wants only enough offense.",
+   "kind": "fact",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:t1"
    ]
   }
  ],
@@ -169,18 +191,17 @@
   {
    "name": "FG% anchor",
    "channel": "durable",
-   "detail": "about 65% FG on 11 or more attempts per game",
+   "detail": "About 65.6% on 11 attempts",
    "until": "",
    "sources": [
-    "stats",
-    "0geFVzSqOnA:p2"
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "REB specialist",
    "channel": "durable",
-   "detail": "more than 11 rebounds per game projected",
+   "detail": "About 11.4 rebounds projected",
    "until": "",
    "sources": [
     "stats"
@@ -193,8 +214,7 @@
    "detail": "",
    "until": "",
    "sources": [
-    "stats",
-    "p9XE5jFqhvs:p9"
+    "stats"
    ],
    "new_meaning": ""
   },
@@ -211,29 +231,18 @@
   {
    "name": "questionable",
    "channel": "current",
-   "detail": "Yahoo Q, undisclosed; conditioning concern after the holdout",
+   "detail": "Yahoo Q (undisclosed); Josh says he is not injured",
    "until": "",
    "sources": [
-    "stats",
-    "_O9pc_u5vH0:p5"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "role up",
-   "channel": "current",
-   "detail": "possible usage gain near 25% with Tobias Harris gone",
-   "until": "",
-   "sources": [
-    "t4n9MAP2_14:p10",
-    "_O9pc_u5vH0:p7"
+    "Q6YlQDvD-aY:p49",
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "at ESPN rank 23; expert fades him before round 3",
+   "detail": "ESPN rank 23 too high; biggest Detroit fade",
    "until": "",
    "sources": [
     "_O9pc_u5vH0:p6",
@@ -251,8 +260,39 @@
     "_O9pc_u5vH0:p6"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "usage freed",
+   "channel": "current",
+   "detail": "Tobias Harris gone; usage projected near 25%",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p10",
+    "_O9pc_u5vH0:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "50 to 51 wins projected",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "defense-first",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:t1"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "He is a FG% and rebounds anchor who scores about 19 to 20 points and makes no threes, so he fits punt 3PM builds best. Experts see him as a third to fourth round player. That fits his Yahoo average cost of 18.2 USD better than ESPN's 24 USD and rank 23, and he went for 14 USD in our league last season, so bid up to about 20 USD and let others go higher. Early in the season, check his Q status, his conditioning after the holdout and whether his minutes go above 28 with more usage now that Harris is gone.",
+ "note": "Duren gives a big FG% and rebound boost and costs only threes, so he fits punt 3PM builds best. His FT% (74.5% on 6 attempts) is not a real drag. The experts price him at about 20 USD, near his Yahoo average cost of 18.2 USD and below Yahoo's value of 27 USD and ESPN's 34 USD. Paying in the high teens to about 20 USD is fair, but do not chase him at ESPN's rank-23 price. Early in the season, check his conditioning after the holdout, whether the Yahoo Q tag clears, and whether his minutes go above 28 with more usage. That is the path to third-round value.",
  "rejected": []
 }

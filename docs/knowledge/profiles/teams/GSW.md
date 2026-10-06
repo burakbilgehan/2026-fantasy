@@ -11,31 +11,32 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Al Horford, PF Yaxel Lendeborg, PG De'Anthony Melton, SF Gui Santos, SG Will Richard
 
 **Current**
-- Stephen Curry is the only player who creates his own shot and gets real usage. Gui Santos is at most a maybe as a second creator. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=551), [09-16](https://youtu.be/2A2JbUN-kc0?t=2222), [09-09](https://youtu.be/7BllEsdNLoM?t=2274), [09-10](https://youtu.be/W-R1dzem32s?t=1810))
-- The Warriors are reportedly treating this season as a gap year and are worried about their lottery odds. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140))
-- This could be a throwaway season in which the team rests its veterans. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166))
-- The roster is weak, especially early in the season. It is virtually the same roster as last season. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=212), [07-31](https://youtu.be/oEywzBZfAvY?t=2378))
-- Curry, Brandin Podziemski and Draymond Green are projected starters in every recent preview. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=678), [08-22](https://youtu.be/LXZLrL90crE?t=270), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487))
-- The last two starting spots are not settled. The newest preview projects Yaxel Lendeborg and Al Horford. Earlier previews had Kristaps Porzingis starting at center when healthy. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=678), [08-22](https://youtu.be/LXZLrL90crE?t=270), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487))
-- The more Green plays center, the more minutes open up for Santos and Lendeborg. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=678))
-- The schedule includes 15 back-to-backs. That raises rest risk for Porzingis, Horford and Butler. (verdict, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=991), [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), stats)
-- The fantasy playoff schedule is good for a season ending March 28: 11 games in weeks 19 to 21, with only one back-to-back each week. The risk is that a lottery-minded team rests veterans in those same weeks. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [09-30](https://youtu.be/MUbNYdjpUDM?t=166), stats)
-- Santos and De'Anthony Melton are projected off the bench. The guard spot between Podziemski, Melton and Santos was called unclear in September. (verdict, 2026-09-10; [08-22](https://youtu.be/LXZLrL90crE?t=270), [09-10](https://youtu.be/W-R1dzem32s?t=1810))
-- Expect Warriors players to lose value as the season goes on. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
-- Jimmy Butler is out for at least half the season. Moses Moody is also out early. (fact, 2026-09-03; [07-17](https://youtu.be/NYTH7uQsPCM?t=1876), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487))
-- Win projections range from about 43 wins to roughly a .500 team with a bad downside. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1688))
-- Depth is very poor. The team has only 13 standard contracts and two two-way deals, and it lost Quinten Post and Pat Spencer. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953), [08-22](https://youtu.be/LXZLrL90crE?t=228), [07-14](https://youtu.be/xHRF06_E9HE?t=1520))
-- The team will struggle to field a 10-man rotation, so minutes should go up for everyone in the rotation. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
-- Butler's return will shake up the rotation again. (verdict, 2026-07-14, until Jimmy Butler's return; [07-14](https://youtu.be/xHRF06_E9HE?t=1520))
+- Experts see the roster as bad, especially early in the season. The roster is close to the same as last season. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2063), [09-30](https://youtu.be/MUbNYdjpUDM?t=212), [07-31](https://youtu.be/oEywzBZfAvY?t=2378))
+- Stephen Curry is the only player on the roster who gets real usage and creates his own shot. Santos may be a second, smaller shot creator. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=551), [09-16](https://youtu.be/2A2JbUN-kc0?t=2222), [09-09](https://youtu.be/7BllEsdNLoM?t=2274), [09-10](https://youtu.be/W-R1dzem32s?t=1810))
+- The Warriors are reportedly treating this season as a gap year. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=140), [09-30](https://youtu.be/MUbNYdjpUDM?t=166))
+- The team is worried about its lottery odds and may rest veterans, so this could be a throwaway season. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166))
+- Curry, Podziemski and Draymond Green are expected to start. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=678), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487), [08-22](https://youtu.be/LXZLrL90crE?t=270))
+- Rookie Yaxel Lendeborg is projected to start at forward. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=678), [08-22](https://youtu.be/LXZLrL90crE?t=270))
+- The starting center is between Al Horford and Kristaps Porzingis. The newest projection starts Horford. Older notes start Porzingis when he is healthy. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=678), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487), [08-22](https://youtu.be/LXZLrL90crE?t=270), stats)
+- The more Green plays center, the more minutes open up for Gui Santos and Lendeborg. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=678))
+- The team has 15 back-to-backs, more than most teams. That raises rest risk for Porzingis, Horford and Butler. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=991), [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), stats)
+- The fantasy playoff schedule is good: 11 games in weeks 19 to 21, with only one back-to-back in each week. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), stats)
+- Warriors players are expected to fade as the season goes on. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
+- Jimmy Butler and Moses Moody are out early in the season. Butler is out for at least half the season. (fact, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1487), [07-17](https://youtu.be/NYTH7uQsPCM?t=1876))
+- Win projections range from about 43 wins down to a roughly .500 team with a bad downside. The betting win total of 40.5 sits in the middle of the league. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1688), stats)
+- Santos and De'Anthony Melton are projected to come off the bench. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=270))
+- Depth is very poor. The team struggles to field a 10-man rotation, so minutes go up across the rotation. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953), [07-14](https://youtu.be/xHRF06_E9HE?t=1520))
+- The team has only 13 standard contracts and two two-way deals. It lost Quinten Post and Pat Spencer. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=228))
+- Butler's return will shake up the rotation again. (verdict, 2026-07-14, until Butler's return; [07-14](https://youtu.be/xHRF06_E9HE?t=1520))
 
 **Durable**
 - Steve Kerr rarely starts rookies and has little patience for them. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=237), [08-22](https://youtu.be/LXZLrL90crE?t=415))
 - Kerr runs unpredictable rotations. He often announces a set starting lineup and then changes it a few games later, with lots of mixing among the wings. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=237), [08-22](https://youtu.be/LXZLrL90crE?t=301))
 
 **Tags**
-- Current: `good playoff schedule` (11 games in weeks 19 to 21 (rank 4 of 30), one back-to-back each week.), `tank risk` (Reported gap year with an eye on lottery odds. Veterans may be rested.), `thin rotation` (Struggles to field a 10-man rotation. Only 13 standard contracts.), `concentrated usage` (Stephen Curry is the only self-creator.), `unsettled rotation` (Steve Kerr changes announced starting lineups within a few games and mixes the wings.)
-- Durable: `rookie-averse coach` (Steve Kerr rarely starts rookies and has little patience for them.)
+- Current: `tank risk` (Reported gap year. The team may rest veterans for lottery odds.), `concentrated usage` (Curry is the only real shot creator.), `thin rotation` (Struggles to field 10 players. Butler and Moody are out early.), `unsettled rotation` (Center and wing spots are unclear. Butler's return will reshuffle roles.), `many back-to-backs` (15 back-to-backs), `good playoff schedule` (11 games in weeks 19 to 21, one back-to-back per week)
+- Durable: `rookie-averse coach` (Steve Kerr)
 
-**Note.** Golden State is a weak, thin team that may treat this season as a gap year. Stephen Curry is the only shot creator, and Podziemski, Green, Santos and Lendeborg get extra minutes from the poor depth. The risk is that veterans get rested late, which would waste the strong 11-game playoff schedule. Early on, watch Kerr's starting lineup at center and forward (Horford, Porzingis or Lendeborg). Also watch whether Lendeborg keeps his role under a coach who rarely trusts rookies.
+**Note.** Curry carries all the shot creation, so his usage is safe. The risks are a possible gap year, 15 back-to-backs and veteran rest late in the season, even though the playoff schedule is good. Thin depth opens minutes for Podziemski, Lendeborg and Santos, and Butler is out for at least half the season. Early on, watch who starts at center (Horford or Porzingis), how often Green plays center, and whether Kerr keeps rookie Lendeborg in the starting five.
 
-<sub>24 notes. Built 2026-10-04 with claude-opus-5-5 high, team prompt v1.</sub>
+<sub>25 notes. Built 2026-10-05 with claude-opus-5-5 high, team prompt v1.</sub>

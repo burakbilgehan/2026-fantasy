@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 25 | 21.4 | 40 | 5 | 17.8 | 73 | 22 |
+| 2026-27 | 25 | 21.4 | 40 | 5 | 17.6 | 73 | 22 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,30 +30,28 @@
 </details>
 
 **Current**
-- Experts see him as fair or a bit expensive at an ADP in the 40s, and as good value from round 5 on. ESPN rank 73 is fine value. (verdict, 2026-09-24; [09-10](https://youtu.be/dlo7L8Ru91A?t=1220), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1630), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1037), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2483), [09-24](https://youtu.be/_vbAP5y182A?t=1116))
-- Taking him at an ESPN ADP of 16 is far too high. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1893))
-- He is expected to sit some games and have lower usage. The projection is about 65 games, and the team expects load management for its stars. (verdict, 2026-09-17; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1630), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1654), [08-06](https://youtu.be/gTsfR5PxAMY?t=504), [08-06](https://youtu.be/gTsfR5PxAMY?t=1819))
-- He should still be about a top 30 player per game. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2483))
-- Maxey, Embiid, Brown and LeBron will cut into each other's usage in Philadelphia. (verdict, 2026-09-14; [08-26](https://youtu.be/sTtFUy7IoJI?t=1944), [08-09](https://youtu.be/8d--aL_xxwE?t=552), [09-14](https://youtu.be/LM0cRCGoAUQ?t=986), [09-09](https://youtu.be/7BllEsdNLoM?t=907))
-- He turns 42 this season. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1630))
-- Philadelphia has 13 back-to-backs this season, and three of them fall in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148), [08-16](https://youtu.be/gf_6GveiAls?t=1136))
-- The low back-to-back total helps a little with his rest risk. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1136))
-- He left the Lakers and signed with Philadelphia. (fact, 2026-08-06; [07-01](https://youtu.be/W3THnI7wWdA?t=104), [08-06](https://youtu.be/gTsfR5PxAMY?t=141))
-- He is in Philadelphia's projected starting five with Maxey, Edgecombe, Jaylen Brown and Embiid. Nick Nurse calls him an offense creator, and reports say he will play point guard. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=412), [08-06](https://youtu.be/gTsfR5PxAMY?t=212))
-- Josh expects a small rise in his on-ball role, with maybe 8 assists a game, but no big change in how he plays. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1764))
-- He has always wanted big minutes, and Nick Nurse may let him play them. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=572))
-- He finished 34th in 9-cat last season on about 33 minutes a game. (fact, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=1162))
+- Josh is okay drafting him in some situations but would pay no more than 25 USD. He went for 22 USD in an auction mock. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1917))
+- Experts disagree on his price around pick 40. One calls his tier about right, another says ADP 41 is too high, and one says pick 16 is far too early. In round 5 and the 50s, experts see him as good value. (verdict, 2026-09-24; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1630), [09-10](https://youtu.be/dlo7L8Ru91A?t=1220), [09-19](https://youtu.be/uarqbNA2dFk?t=1893), [09-24](https://youtu.be/_vbAP5y182A?t=1116), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1037), [08-24](https://youtu.be/g31YlwRe0XQ?t=971))
+- He will turn 42 this season. Experts expect him to sit some games and play about 65 games, and the team is expected to load manage its stars. (verdict, 2026-09-17; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1630), [08-06](https://youtu.be/gTsfR5PxAMY?t=504), [08-06](https://youtu.be/gTsfR5PxAMY?t=1819), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1654))
+- One expert projects him as a top 30 player per game in category leagues. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2483))
+- He shares the ball with Maxey, Embiid and Jaylen Brown, and experts expect these stars to cut into each other's usage. (verdict, 2026-09-14; [08-26](https://youtu.be/sTtFUy7IoJI?t=1944), [08-09](https://youtu.be/8d--aL_xxwE?t=552), [09-14](https://youtu.be/LM0cRCGoAUQ?t=986))
+- Philadelphia has only 13 back-to-backs, which helps a little with his rest risk, but three of them fall in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1136), [08-16](https://youtu.be/gf_6GveiAls?t=1148))
+- He left the Lakers and joined Philadelphia this offseason. (fact, 2026-08-06; [07-01](https://youtu.be/W3THnI7wWdA?t=104), [08-06](https://youtu.be/gTsfR5PxAMY?t=141))
+- He is in Philadelphia's projected starting five with Maxey, Edgecombe, Jaylen Brown and Embiid. Nick Nurse calls him an offense creator, and it is reported he will play point guard and set up everyone else. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=412), [08-06](https://youtu.be/gTsfR5PxAMY?t=212))
+- Josh expects a modest rise in his on-ball role, with maybe 8 assists a game, but no big change in how he plays. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1764))
+- He has always wanted to play big minutes, and Nurse, who gives his starters heavy minutes, may let him. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=572), [08-06](https://youtu.be/gTsfR5PxAMY?t=556))
+- Philadelphia is projected for about 51 to 52 wins, with growing pains expected in October and November. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1819))
 
 **Durable**
-- His assists are far above other forwards, at about 6.8 a game projected. (fact, 2026-10-04; stats)
-- Turnovers are his clear weak category, at about 2.9 a game. That is a league outlier. (fact, 2026-10-04; stats)
+- He gets far more assists than other forwards. His turnovers are a weak league outlier. (fact, 2026-10-05; stats)
 - He had sciatica last season. (fact, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1220))
 - His numbers stay about the same each season. His scoring slowly drops, but he keeps the ball in his hands at a similar rate. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1537))
+- He ranks higher in points leagues than in category leagues. (fact, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=1162))
 
 **Tags**
-- Current: `new team` (Left the Lakers for Philadelphia), `few back-to-backs` (Philadelphia has 13 back-to-backs), `bad playoff schedule` (Three back-to-backs in the fantasy playoffs), `sites disagree on price` (Yahoo value 25 USD and rank 40; ESPN value 5 USD and rank 73)
-- Durable: `age decline watch` (Turns 42 this season), `load management` (Expected to sit games; about 65 games projected), `AST from a big` (About 6.8 assists projected as a forward; reported to play point guard), `high TO` (About 2.9 turnovers a game), `punt TO fit`
+- Current: `new team` (Joined Philadelphia from the Lakers), `usage competition` (Shares the ball with Maxey, Embiid and Jaylen Brown), `few back-to-backs` (Philadelphia has 13 back-to-backs), `bad playoff schedule` (Three back-to-backs in the fantasy playoffs), `winning team` (About 51 to 52 wins projected), `sites disagree on price` (Yahoo value 25 USD and rank 40, ESPN value 5 USD and rank 73)
+- Durable: `age decline watch` (Turns 42 this season), `load management` (Expected to sit games, about 65 games projected), `high TO`, `punt TO fit`, `AST from a big` (Reported to play point guard for Philadelphia), `heavy starter minutes` (Nick Nurse plays his starters heavy minutes), `points league player` (Ranked 34th in categories and 23rd in points leagues last season)
 
-**Note.** The price signals are mixed. Yahoo values him at 25 USD (rank 40), ESPN at 5 USD (rank 73), and he went for 22 USD in our league last season. Experts call him fair to pricey in the 40s and good value from round 5 on, so a bid around 15 to 20 USD fits that view. He suits punt TO builds best: big assists from a forward slot, a good FG% for his position, and about 2.9 turnovers a game. Early in the season, check how many games he sits, his minutes under Nurse, and whether playing point guard pushes his assists toward 8. Also keep in mind that Philadelphia has three back-to-backs in our playoff weeks.
+**Note.** Josh's cap of 25 USD matches his Yahoo value (25 USD) and is close to the 22 USD he cost in our league last season, so plan to pay about 20 to 25 USD and stop there. His assists from a forward slot and his FG% on volume are the selling points, but his high turnovers make him the best fit for a punt TO build, and his rest days plus three back-to-backs in our playoff weeks limit his weekly totals. Early in the season, check how often he sits, whether he really runs the point next to Maxey, and whether his assists move toward 8 a game.
 
-<sub>17 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>18 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

@@ -28,18 +28,19 @@
 </details>
 
 **Current**
-- He is not in the Kings' projected starting five of Acuff, LaVine, Hunter, Murray and Sabonis. The notes say nobody is pushing that group for a starting spot. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691), [07-01](https://youtu.be/W3THnI7wWdA?t=1324))
-- The Kings are in a teardown and rebuild. Seven of their 13 rostered players are on rookie-scale or minimum deals. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=170))
-- He was inefficient last season. In summer league, at age 24.5, his play was average at best. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=766))
-- Lloyd worries that he will not make it in the NBA. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=766))
+- He is not in the Kings' projected starting five of Acuff, LaVine, Hunter, Murray and Sabonis. Nobody is pushing that group for a starting spot. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691), [07-01](https://youtu.be/W3THnI7wWdA?t=1324))
+- The Kings are projected to be one of the worst teams. The hosts predict 26 or 27 wins and Vegas has them at about 22. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=2438), [07-27](https://youtu.be/0AptxcRW0RE?t=2060), [06-25](https://youtu.be/lOshTzDA4SA?t=929))
+- His summer league play was very average, at age 24.5. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=766))
+- Lloyd worries he will not make it as an NBA player. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=766))
 
 **Durable**
-- He is a poor shooter. Experts say Kings passers got fewer assists because teammates like him could not shoot. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1820), stats)
+- He is an inefficient scorer. His FG% is low on modest volume. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=766), stats)
+- He is a weak shooter. Experts say Kings passers got fewer assists because teammates like him could not shoot. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1820))
 
 **Tags**
-- Current: `minutes competition` (Not in the projected Kings starting five)
+- Current: `bottom team` (Kings projected at about 22 to 27 wins)
 - Durable: none
 
-**Note.** Both Yahoo and ESPN value him at 0 USD. He ranks 227 on Yahoo and 234 on ESPN, far outside the 144 players our league drafts, so he is not a draft target. His projection of 42.8% FG and 9.6 points per game is below average in most categories, and the only expert note doubts that he will stick in the NBA. Leave him on waivers and only take a look if the Kings' rebuild gives him starter minutes early in the season.
+**Note.** Both sites value him at 0 USD and rank him 227 (Yahoo) and 234 (ESPN). That is far outside the 144 players our league drafts, so do not draft him. His projected line, 42.8% FG on about 8.6 attempts and 9.6 points, has no category that stands out, so he fits no punt build. Early in the season, check only whether a LaVine or Sabonis trade or an injury moves him into the starting lineup with clearly more minutes.
 
-<sub>1 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>1 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

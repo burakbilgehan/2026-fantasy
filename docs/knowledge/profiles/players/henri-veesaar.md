@@ -26,19 +26,18 @@
 </details>
 
 **Current**
-- He tore his ACL and will miss the whole 2026-27 season. (fact, 2026-09-25, until end of the 2026-27 season; [09-25](https://youtu.be/4gw4W4RTolY?t=1673), [09-25](https://youtu.be/4gw4W4RTolY?t=1693), stats)
-- Experts think he went far too low in the draft and should have been a first-round pick. One calls him one of the two biggest risers versus his draft slot. (verdict, 2026-06-28; [06-26](https://youtu.be/CLsUc0Sevos?t=1099), [06-28](https://youtu.be/RsjGTgJiKyI?t=393))
-- He is a rookie. The Hawks drafted him 52nd in the 2026 draft. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1099))
+- He tore his ACL and will miss the whole 2026-27 season. Yahoo lists him as out with a knee injury. (fact, 2026-09-25, until end of the 2026-27 season; [09-25](https://youtu.be/4gw4W4RTolY?t=1673), [09-25](https://youtu.be/4gw4W4RTolY?t=1693))
+- Experts called him one of the biggest steals of the 2026 draft. They think he should have gone in the first round. (verdict, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=393), [06-26](https://youtu.be/CLsUc0Sevos?t=1099))
+- He is a rookie. The Hawks picked him 52nd in the 2026 NBA draft. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1099))
 
 **Durable**
-- He tore his ACL before his rookie season. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1673))
 - He is a 7'0 center. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1099))
-- Experts project him as a backup big man over his career. (verdict, 2026-06-26; [06-22](https://youtu.be/HxQjagSTTAM?t=845), [06-26](https://youtu.be/CLsUc0Sevos?t=1099))
+- One expert projects him as a career backup big man. (verdict, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=845))
 
 **Tags**
-- Current: `rookie` (52nd pick by Atlanta in 2026), `injured now` (Torn ACL, out for the whole season; Yahoo status O (Knee); until end of the 2026-27 season)
+- Current: `rookie` (52nd pick of the 2026 draft), `injured now` (Torn ACL, out for the whole season; until end of the 2026-27 season)
 - Durable: none
 
-**Note.** Veesaar has a torn ACL and will miss the whole 2026-27 season, so he has no value in our league this year. Yahoo values him at 0 USD and ranks him 623rd, and ESPN does not list him. Do not draft him and do not use an IL spot on him. Even healthy, his projection (5.8 PTS, 3.4 REB, 0.3 STL in a small role) would not make a 12-team roster.
+**Note.** He has no value in our league this season. He tore his ACL and is out for the whole year, Yahoo ranks him 623rd with a value of 0 USD, and even his healthy projection was only 5.8 points and 3.4 rebounds per game as a backup. Do not draft him and do not stash him on IL, because there is no return date inside our season.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

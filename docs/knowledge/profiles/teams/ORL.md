@@ -11,27 +11,27 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Nikola Vucevic, PF Tristan da Silva, PG Anthony Black, SF Noah Penda, SG Jevon Carter
 
 **Current**
-- Orlando has 11 games in the fantasy playoff weeks, 4th most in the league. Weeks 20 and 21 have 4 games each. Week 21 has no back-to-back. (fact, 2026-10-04; stats)
-- Orlando has 14 back-to-backs, about the league average, so rest risk is normal. (verdict, 2026-10-04; stats)
+- Orlando has 11 games in our fantasy playoff weeks, rank 4 of 30. Weeks 20 and 21 have 4 games each. Week 19 has only 3 games, including one back-to-back. (fact, 2026-10-05; stats)
 - Wendell Carter Jr. is the starting center. Nikola Vucevic is his backup. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1307), [07-05](https://youtu.be/4kKINkZhWls?t=3135), stats)
-- Goga Bitadze will still get some minutes at center, so the center minutes are split three ways. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1307))
+- Goga Bitadze will still get some minutes at center, so the backup center minutes are split. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1307))
 - Sean Sweeney is the new head coach. He replaces Jamahl Mosley. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
 - Player roles may change under the new coach. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
 - The projected starters are Jalen Suggs, Desmond Bane, Franz Wagner, Paolo Banchero and Wendell Carter Jr. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557), stats)
-- This starting group was very good when it played together. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
-- Vucevic came back on a minimum deal to add bench scoring. The bench was one of the weakest scoring units in the league. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=433), [07-05](https://youtu.be/4kKINkZhWls?t=3135))
-- Orlando is 2.5 million USD under the second apron. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1259))
-- Because of the apron, Orlando will likely have to choose between keeping Jalen Suggs and keeping Anthony Black. That makes a trade of one of them possible. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1259))
-- The expert predicts 47 or 48 wins and the 6th seed, which avoids the play-in. The betting win total of 43.5 is in the middle of the league. Tanking or resting players late in the season looks unlikely. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2156), stats)
+- This starting five was very good when it played together. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
+- The bench was weak in scoring. Vucevic was added to fix that. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=433))
+- The team is 2.5 million USD under the second apron. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1259))
+- Because of the apron, Orlando will likely have to choose between keeping Jalen Suggs and keeping Anthony Black. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1259))
+- The expert predicts 47 or 48 wins and the 6th seed, avoiding the play-in. That is above the market win total of 43.5. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2156), stats)
+- Vucevic came back to Orlando on a minimum deal as a backup. (fact, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=3135))
 - Orlando re-signed Jonathan Isaac. (fact, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=3135))
 
 **Durable**
 - none
 
 **Tags**
-- Current: `good playoff schedule` (11 games in weeks 19 to 21 (rank 4 of 30); 4 games in weeks 20 and 21), `new coach` (Sean Sweeney replaces Jamahl Mosley), `winning team` (Expert predicts 47 or 48 wins and the 6th seed)
+- Current: `new coach` (Sean Sweeney replaces Jamahl Mosley.), `winning team` (Expert predicts 47 or 48 wins and the 6th seed. Market win total is 43.5.), `good playoff schedule` (11 games in weeks 19 to 21 (rank 4 of 30). Week 19 has only 3 games.)
 - Durable: none
 
-**Note.** Orlando's five starters (Suggs, Bane, Wagner, Banchero, Carter) should keep full roles on a team expected to compete all season, and 11 playoff-week games add value for all of them. Vucevic is a backup who shares center minutes with Carter and Bitadze, so his value drops. Anthony Black's role depends on the apron choice between him and Suggs. Early on, watch how new coach Sean Sweeney splits the center minutes and any trade talk about Suggs or Black.
+**Note.** Orlando's projected starting five of Suggs, Bane, Wagner, Banchero and Carter should keep steady roles on a team expected to win. Its 11 games in our playoff weeks help all of them. Vucevic is only a backup center and shares the bench minutes with Bitadze, so he loses value. Black's future depends on the apron choice between him and Suggs. Early on, watch how the new coach Sean Sweeney spreads minutes and touches.
 
-<sub>7 notes. Built 2026-10-04 with claude-opus-5-5 high, team prompt v1.</sub>
+<sub>7 notes. Built 2026-10-05 with claude-opus-5-5 high, team prompt v1.</sub>

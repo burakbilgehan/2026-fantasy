@@ -11,35 +11,37 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Dereck Lively II, PF Santi Aldama, PG Marcus Sasser, SF Zaccharie Risacher
 
 **Current**
-- Lively, Dharma and Morez Johnson Jr. are all hurt. That makes Gafford the likely opening night center. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1240))
-- Dallas has very few true ball handlers. The only real guards are Kyrie Irving, rookie Sergio de Larrea and Marcus Sasser. Max Christie and Cooper Flagg are not point guards. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=134), [07-27](https://youtu.be/0AptxcRW0RE?t=413), [07-21](https://youtu.be/RyzcCGChYgs?t=2295), [07-02](https://youtu.be/P6TNP-g0wzY?t=824), [06-26](https://youtu.be/CLsUc0Sevos?t=1386))
-- The frontcourt is crowded. Almost every player besides Irving is a power forward, and Dereck Lively II, Daniel Gafford, P.J. Washington, Santi Aldama, Naji Marshall and Morez Johnson Jr. all compete for frontcourt minutes. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=134), [09-29](https://youtu.be/XSPJL_mlFXo?t=234), [07-21](https://youtu.be/RyzcCGChYgs?t=2295), [07-02](https://youtu.be/P6TNP-g0wzY?t=824), [06-26](https://youtu.be/CLsUc0Sevos?t=1386), [06-25](https://youtu.be/lOshTzDA4SA?t=1834), [07-13](https://youtu.be/Rqb5GdrSweY?t=592))
-- Dusty May is the new head coach. How he will split the center minutes between Lively, Gafford, Powell and Johnson Jr., plus forwards like Washington and Aldama, is unknown. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=234))
-- Josh's projected starting five is Irving, Christie, Flagg, Washington and Morez Johnson Jr. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=358))
-- Dallas could be a bad team. The Western Conference is weak, though, so a playoff push is possible. The market win total of 34.5 ranks 23rd of 30. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1952), stats)
-- Dallas has the best fantasy playoff schedule: 4 games in each of weeks 19, 20 and 21, for 12 games in total (rank 1 of 30). There is only one back-to-back pair across those weeks, in week 19. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953), stats)
-- Dallas has 16 back-to-backs, one of the highest totals in the league (rank 26 of 30). That raises rest risk for older or injury-prone players like Irving during the regular season. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953), stats)
-- Josh sees no strong reason to fade Dallas players. He thinks most of their draft positions are reasonable. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1755))
-- Cooper Flagg is the first option on offense. Irving is the second. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=488))
-- Irving's return will take shots mostly from players other than Flagg. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=353))
-- So many power forwards on the floor limits Flagg's chances to block shots. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=353))
+- Dereck Lively II, Dharma and Morez Johnson Jr. are all hurt. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1240))
+- Daniel Gafford is the likely opening night center. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1240), stats)
+- Dusty May is the new head coach. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=234))
+- It is unknown how May will split minutes among the centers Lively, Gafford, Powell and Johnson and forwards like Washington and Aldama. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=234))
+- Josh projects a starting five of Kyrie Irving, Max Christie, Cooper Flagg, P.J. Washington and Morez Johnson Jr. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=358))
+- The frontcourt is crowded with bigs and forwards, including Gafford, Lively, Washington, Aldama and Naji Marshall. Almost every player besides Kyrie Irving is a power forward. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=134), [07-21](https://youtu.be/RyzcCGChYgs?t=2295), [07-13](https://youtu.be/Rqb5GdrSweY?t=592), [07-02](https://youtu.be/P6TNP-g0wzY?t=824), [06-26](https://youtu.be/CLsUc0Sevos?t=1386), [06-25](https://youtu.be/lOshTzDA4SA?t=1834), [08-26](https://youtu.be/sTtFUy7IoJI?t=1733))
+- Dallas is short on ball handlers. The only real guards are Kyrie Irving, rookie Sergio de Larrea and Marcus Sasser. Christie and Flagg are not point guards. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=134), [07-27](https://youtu.be/0AptxcRW0RE?t=413), [07-21](https://youtu.be/RyzcCGChYgs?t=2295), [07-02](https://youtu.be/P6TNP-g0wzY?t=824), [06-26](https://youtu.be/CLsUc0Sevos?t=1386))
+- Dallas could be a bad team, but the weak Western Conference makes a playoff push possible. The win total of 34.5 points to a below-average team. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1952), stats)
+- Dallas has probably the best fantasy playoff schedule, 4-4-4 for 12 games, with only one back-to-back in those weeks. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953), stats)
+- Dallas has 16 back-to-backs, among the most in the league, which raises rest risk for its players during the regular season. It is the only high back-to-back team with a 4-4-4 playoff schedule. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953), stats)
+- Josh sees no strong fade on Dallas players and thinks most of their draft positions are reasonable. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1755))
+- Cooper Flagg is the first priority on offense and Kyrie Irving is second. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=488))
+- The many power forwards limit Cooper Flagg's chances to block shots. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=353))
+- Kyrie Irving's return will take shots mostly from players other than Flagg. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=353))
 - The deep frontcourt limits Santi Aldama's minutes. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1733))
-- Dallas plays only two games in the matchup week starting March 1, which is the week before our playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1343))
-- Dallas does not control its own first-round pick. It is owed to Charlotte with top-two protection. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1644), [07-13](https://youtu.be/Rqb5GdrSweY?t=592))
-- Without its pick, Dallas has no reason to tank, so the risk of late-season tanking is low. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1644), [07-13](https://youtu.be/Rqb5GdrSweY?t=592))
-- The roster is overloaded with wings who expect minutes. It had 16 players in late July. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=338))
-- Dallas added shooting across the roster, including Santi Aldama and Sergio de Larrea. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=1121))
-- Dallas is rebuilding on the fly around Flagg, and this is a fact-finding season. (verdict, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=175))
-- One more move is expected. Daniel Gafford and/or Klay Thompson could be traded. (verdict, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=2176), [07-02](https://youtu.be/P6TNP-g0wzY?t=824))
-- Irving is 36 and coming off an injury, so the thin guard group has little cover behind him. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=2295))
+- Dallas plays only two games in the matchup week starting March 1, the last week before our playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1343))
+- Dallas does not control its own pick. It is owed to Charlotte with top-two protection. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1644), [07-13](https://youtu.be/Rqb5GdrSweY?t=592))
+- Dallas has no reason to tank and may push to win, so late-season shutdown risk is low. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1644), [07-13](https://youtu.be/Rqb5GdrSweY?t=592))
+- The roster has 16 players and is overloaded with wings who expect minutes. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=338))
+- Dallas added shooting throughout the roster, including Santi Aldama and Sergio de Larrea. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=1121))
+- Dallas is rebuilding on the fly around Cooper Flagg. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=175))
+- One more move is expected, possibly a trade of Daniel Gafford and/or Klay Thompson. (verdict, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=2176), [07-02](https://youtu.be/P6TNP-g0wzY?t=824))
+- Kyrie Irving is 36 and coming off an injury. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=2295))
 
 **Durable**
-- The front office cares little about positions. It collects talent to see who sticks, which leads to crowded position groups and unclear roles. (verdict, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=1201))
+- The front office cares little about positions and collects talent to see who sticks. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=1201))
 
 **Tags**
-- Current: `good playoff schedule` (4-4-4 in weeks 19 to 21, 12 games, rank 1 of 30, only one back-to-back pair), `many back-to-backs` (16 back-to-backs, rank 26 of 30), `thin rotation` (Only Irving, de Larrea and Sasser are real guards), `deep rotation` (Lively, Gafford, Washington, Aldama, Marshall and Johnson Jr. all compete for frontcourt minutes), `new coach` (Dusty May), `low shutdown risk` (Pick owed to Charlotte, top-two protected)
+- Current: `new coach` (Dusty May; his split of center and forward minutes is unknown.), `deep rotation` (Crowded frontcourt and too many wings: Gafford, Lively, Johnson, Washington, Aldama, Marshall, Risacher.), `unsettled rotation` (Center job open: Lively and Johnson hurt, Gafford likely opens, new coach's plan unknown.), `thin rotation` (Only real guards are Kyrie Irving, Sergio de Larrea and Marcus Sasser.), `concentrated usage` (Cooper Flagg is the first option, Kyrie Irving second.), `good playoff schedule` (4-4-4, 12 games, rank 1 of 30, one back-to-back.), `many back-to-backs` (16 back-to-backs.), `low shutdown risk` (Pick owed to Charlotte (top-two protected), so no reason to tank.), `trades likely` (Gafford and/or Klay Thompson named as trade options.)
 - Durable: none
 
-**Note.** Dallas has the best playoff schedule in the league (4-4-4) and no reason to tank, which helps every Mav in weeks 19 to 21. Flagg and Irving lead the usage, and the thin guard group makes Irving, Sasser and de Larrea the only real ball handlers, but the frontcourt logjam caps Aldama, Washington and the centers. Early on, watch how new coach Dusty May splits center minutes while Lively and Johnson Jr. are hurt, and whether a Gafford trade happens.
+**Note.** Cooper Flagg and Kyrie Irving carry the offense, and the 4-4-4 playoff schedule (12 games, best in the league) lifts every Dallas starter for weeks 19 to 21. With Lively and Morez Johnson Jr. hurt, Gafford gains early as the likely opening night center, but he is a trade candidate. The crowded frontcourt caps Aldama, Risacher and Flagg's blocks. Early on, watch how Dusty May splits the center minutes, Kyrie's health with 16 back-to-backs, and whether the expected trade happens. Remember the two-game week starting March 1, the last week before our playoffs.
 
-<sub>26 notes. Built 2026-10-04 with claude-opus-5-5 high, team prompt v1.</sub>
+<sub>26 notes. Built 2026-10-05 with claude-opus-5-5 high, team prompt v1.</sub>

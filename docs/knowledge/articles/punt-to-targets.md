@@ -49,66 +49,66 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Nikola Jokić](../profiles/players/nikola-jokic.md) | DEN | C | 1 | 71.0 | 1 | 81.8 | 87 | He fits any build, and his elite assists make his turnovers the easiest to absorb on a punt TO team. |
-| [Victor Wembanyama](../profiles/players/victor-wembanyama.md) | SAS | C | 2 | 70.0 | 2 | 80.6 | 85 | Turnovers are his only weak category, so he is an ideal punt TO core, as long as the price does not drain the roster. |
-| [Luka Dončić](../profiles/players/luka-doncic.md) | LAL | G | 3 | 70.8 | 4 | 71.7 | 76 | His only flagged weak category is turnovers, and he is an outlier in points, threes, assists and steals. |
-| [Anthony Edwards](../profiles/players/anthony-edwards.md) | MIN | G | 8 | 59.4 | 5 | 59.6 | 55 | His elite points and threes come with a turnover hit that punt TO ignores, but the two-game week 20 costs him a little. |
-| [Cade Cunningham](../profiles/players/cade-cunningham.md) | DET | G | 5 | 64.4 | 11 | 56.4 | 55 | Turnovers are his only weak category, and his elite assists count fully when we ignore them, up to his price cap. |
-| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 58.8 | 20 | 61.4 | 62 | He anchors a punt FT% build that also gives up turnovers, carried by FG%, points, rebounds and frontcourt assists. |
+| [Nikola Jokić](../profiles/players/nikola-jokic.md) | DEN | C | 1 | 71.0 | 1 | 81.4 | 87 | He fits any build, and his elite assists make his turnovers the easiest to absorb on a punt TO team. |
+| [Victor Wembanyama](../profiles/players/victor-wembanyama.md) | SAS | C | 2 | 70.0 | 2 | 80.5 | 85 | Turnovers are his only weak category, so he is an ideal punt TO core, as long as the price does not drain the roster. |
+| [Luka Dončić](../profiles/players/luka-doncic.md) | LAL | G | 3 | 70.8 | 4 | 71.6 | 76 | His only flagged weak category is turnovers, and he is an outlier in points, threes, assists and steals. |
+| [Anthony Edwards](../profiles/players/anthony-edwards.md) | MIN | G | 8 | 59.4 | 5 | 59.8 | 55 | His elite points and threes come with a turnover hit that punt TO ignores, but the two-game week 20 costs him a little. |
+| [Cade Cunningham](../profiles/players/cade-cunningham.md) | DET | G | 5 | 64.4 | 11 | 56.6 | 55 | Turnovers are his only weak category, and his elite assists count fully when we ignore them, up to his price cap. |
+| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 58.8 | 20 | 62.1 | 62 | He anchors a punt FT% build that also gives up turnovers, carried by FG%, points, rebounds and frontcourt assists. |
 | [Jayson Tatum](../profiles/players/jayson-tatum.md) | BOS | F | 7 | 54.6 | 8 | 54.3 | not drafted | Turnovers are his main weakness next to elite threes and points, and experts call his market price fair or slightly cheap. |
 
 ### Value at price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Cooper Flagg](../profiles/players/cooper-flagg.md) | DAL | G,F | 13 | 50.6 | 16 | 41.5 | 25 | He gives high-usage production on any build and has a 4-4-4 playoff schedule, but only at a late first-round price. |
-| [Scottie Barnes](../profiles/players/scottie-barnes.md) | TOR | F,C | 15 | 46.2 | 10 | 43.8 | 31 | His frontcourt assists, steals and blocks fit punt TO and Giannis punt FT% builds at the expert range. |
-| [Donovan Mitchell](../profiles/players/donovan-mitchell.md) | CLE | G | 12 | 46.2 | 7 | 48.7 | 40 | His scoring, threes, steals and FT% fit punt TO, but experts rank him outside the first round and he has a two-game finals week. |
-| [Kevin Durant](../profiles/players/kevin-durant.md) | HOU | G,F | 14 | 43.0 | 28 | 33.3 | 44 | Turnovers are his only clear weakness, but his minutes and 10-game playoff schedule make him a trade candidate before the deadline. |
-| [Trae Young](../profiles/players/trae-young.md) | WAS | G | 18 | 33.6 | 47 | 33.0 | 44 | He brings elite assists and FT% and hurts only in FG% and turnovers, so he suits punt FG% plus punt TO below last year's price. |
-| [Josh Giddey](../profiles/players/josh-giddey.md) | CHI | G | 19 | 35.0 | 36 | 33.9 | 31 | His elite assists and strong rebounds work best when his high turnovers do not count. |
-| [Austin Reaves](../profiles/players/austin-reaves.md) | LAL | G,F | 21 | 28.8 | 50 | 18.7 | 25 | Experts expect a usage jump, and his FT%, points, assists and threes count fully when turnovers are ignored. |
-| [Alperen Sengun](../profiles/players/alperen-sengun.md) | HOU | F,C | 22 | 32.6 | 29 | 32.6 | 36 | His assists from the center spot, rebounds and FG% fit punt TO, but he has only 10 playoff games. |
-| [LaMelo Ball](../profiles/players/lamelo-ball.md) | MIN | G | 24 | 30.2 | 22 | 26.6 | 29 | His threes, assists, points and steals fit punt FG% and punt TO, held back by ankle risk and a two-game playoff week. |
-| [Stephen Curry](../profiles/players/stephen-curry.md) | GSW | G | 25 | 30.6 | 33 | 24.2 | 42 | He is an elite per-game threes and FT% player whose turnovers do not matter here, but his games played do. |
+| [Cooper Flagg](../profiles/players/cooper-flagg.md) | DAL | G,F | 13 | 50.6 | 16 | 41.4 | 25 | He gives high-usage production on any build and has a 4-4-4 playoff schedule, but only at a late first-round price. |
+| [Scottie Barnes](../profiles/players/scottie-barnes.md) | TOR | F,C | 15 | 46.2 | 10 | 43.9 | 31 | His frontcourt assists, steals and blocks fit punt TO and Giannis punt FT% builds at the expert range. |
+| [Donovan Mitchell](../profiles/players/donovan-mitchell.md) | CLE | G | 12 | 46.2 | 7 | 49.2 | 40 | His scoring, threes, steals and FT% fit punt TO, but experts rank him outside the first round and he has a two-game finals week. |
+| [Kevin Durant](../profiles/players/kevin-durant.md) | HOU | G,F | 14 | 43.0 | 28 | 34.0 | 44 | Turnovers are his only clear weakness, but his minutes and 10-game playoff schedule make him a trade candidate before the deadline. |
+| [Trae Young](../profiles/players/trae-young.md) | WAS | G | 18 | 33.6 | 47 | 33.4 | 44 | He brings elite assists and FT% and hurts only in FG% and turnovers, so he suits punt FG% plus punt TO below last year's price. |
+| [Josh Giddey](../profiles/players/josh-giddey.md) | CHI | G | 19 | 35.0 | 36 | 34.0 | 31 | His elite assists and strong rebounds work best when his high turnovers do not count. |
+| [Austin Reaves](../profiles/players/austin-reaves.md) | LAL | G,F | 21 | 28.8 | 50 | 18.9 | 25 | Experts expect a usage jump, and his FT%, points, assists and threes count fully when turnovers are ignored. |
+| [Alperen Sengun](../profiles/players/alperen-sengun.md) | HOU | F,C | 22 | 32.6 | 29 | 32.2 | 36 | His assists from the center spot, rebounds and FG% fit punt TO, but he has only 10 playoff games. |
+| [LaMelo Ball](../profiles/players/lamelo-ball.md) | MIN | G | 24 | 30.2 | 22 | 27.2 | 29 | His threes, assists, points and steals fit punt FG% and punt TO, held back by ankle risk and a two-game playoff week. |
+| [Stephen Curry](../profiles/players/stephen-curry.md) | GSW | G | 25 | 30.6 | 33 | 24.5 | 42 | He is an elite per-game threes and FT% player whose turnovers do not matter here, but his games played do. |
 | [Domantas Sabonis](../profiles/players/domantas-sabonis.md) | SAC | F,C | 35 | 22.6 | 32 | 39.3 | 41 | He gives FG%, rebounds and assists from the C spot to a punt TO build, but not at first-round money. |
-| [Jaylen Brown](../profiles/players/jaylen-brown.md) | PHI | G,F | 44 | 24.2 | 62 | 19.0 | 29 | His points, rebounds and assists carry him, and his turnovers make him a natural punt TO fit in a smaller role. |
-| [Deni Avdija](../profiles/players/deni-avdija.md) | POR | G,F | 48 | 18.4 | 60 | 19.9 | 17 | Turnovers are his only weak category, but new guards in Portland will cut last season's usage. |
-| [James Harden](../profiles/players/james-harden.md) | CLE | G | 31 | 19.4 | 25 | 27.8 | 42 | His elite assists and FT% fit punt FG% and punt TO builds, but only well below last year's price, and he has a two-game finals week. |
+| [Jaylen Brown](../profiles/players/jaylen-brown.md) | PHI | G,F | 44 | 24.2 | 62 | 18.8 | 29 | His points, rebounds and assists carry him, and his turnovers make him a natural punt TO fit in a smaller role. |
+| [Deni Avdija](../profiles/players/deni-avdija.md) | POR | G,F | 48 | 18.4 | 60 | 19.8 | 17 | Turnovers are his only weak category, but new guards in Portland will cut last season's usage. |
+| [James Harden](../profiles/players/james-harden.md) | CLE | G | 31 | 19.4 | 25 | 28.0 | 42 | His elite assists and FT% fit punt FG% and punt TO builds, but only well below last year's price, and he has a two-game finals week. |
 
 ### Avoid at price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Jalen Johnson](../profiles/players/jalen-johnson.md) | ATL | F | 11 | 51.4 | 9 | 54.1 | 34 | His elite rebounds and assists from a forward fit punt TO, but the sites price him as a first-rounder while experts see the mid second round. |
+| [Jalen Johnson](../profiles/players/jalen-johnson.md) | ATL | F | 11 | 51.4 | 9 | 53.9 | 34 | His elite rebounds and assists from a forward fit punt TO, but the sites price him as a first-rounder while experts see the mid second round. |
 | [Karl-Anthony Towns](../profiles/players/karl-anthony-towns.md) | NYK | F,C | 16 | 40.0 | 19 | 34.5 | 46 | Turnovers are his only weak category, but experts warn he is going too high. |
-| [Devin Booker](../profiles/players/devin-booker.md) | PHX | G | 23 | 28.4 | 40 | 32.4 | 45 | His FT%, points and assists fit punt TO, but experts now rank him around round four, well below what our league paid. |
+| [Devin Booker](../profiles/players/devin-booker.md) | PHX | G | 23 | 28.4 | 40 | 32.7 | 45 | His FT%, points and assists fit punt TO, but experts now rank him around round four, well below what our league paid. |
 
 ### Best bargains
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Dejounte Murray](../profiles/players/dejounte-murray.md) | NOP | G | 55 | 2.2 | 57 | 7.0 | not drafted | Punt TO ignores his turnovers while his steals, assists and guard rebounds count, and his site costs sit far below the expert rank. |
-| [Darius Garland](../profiles/players/darius-garland.md) | LAC | G | 54 | 6.6 | 53 | 12.3 | 11 | He chases assists, threes and FT% with high turnovers, and experts rank him well above his site price. |
-| [Keyonte George](../profiles/players/keyonte-george.md) | UTA | G | 43 | 7.2 | 89 | 5.8 | 2 | Turnovers are his only flagged weakness, and he helps FT%, assists and points at a low market cost. |
-| [Brandon Miller](../profiles/players/brandon-miller.md) | CHA | F | 39 | 19.2 | 54 | 7.1 | 20 | If his shoulder is healthy, experts see third-round value from threes, points and FT%, well above his market cost. |
-| [Jaren Jackson Jr.](../profiles/players/jaren-jackson.md) | UTA | F,C | 42 | 13.4 | 71 | 4.8 | 29 | He can carry blocks on a punt TO team, and experts rank him well above his low market cost. |
-| [Cameron Boozer](../profiles/players/cameron-boozer.md) | MEM | F | 51 | 14.8 | 77 | 5.4 | not drafted | Turnovers are his only weak category, and experts expect him to finish around the top 25 to 30. |
+| [Dejounte Murray](../profiles/players/dejounte-murray.md) | NOP | G | 55 | 2.2 | 57 | 7.2 | not drafted | Punt TO ignores his turnovers while his steals, assists and guard rebounds count, and his site costs sit far below the expert rank. |
+| [Darius Garland](../profiles/players/darius-garland.md) | LAC | G | 54 | 6.6 | 53 | 12.8 | 11 | He chases assists, threes and FT% with high turnovers, and experts rank him well above his site price. |
+| [Keyonte George](../profiles/players/keyonte-george.md) | UTA | G | 43 | 7.2 | 89 | 5.9 | 2 | Turnovers are his only flagged weakness, and he helps FT%, assists and points at a low market cost. |
+| [Brandon Miller](../profiles/players/brandon-miller.md) | CHA | F | 39 | 19.2 | 54 | 7.3 | 20 | If his shoulder is healthy, experts see third-round value from threes, points and FT%, well above his market cost. |
+| [Jaren Jackson Jr.](../profiles/players/jaren-jackson.md) | UTA | F,C | 42 | 13.4 | 71 | 5.0 | 29 | He can carry blocks on a punt TO team, and experts rank him well above his low market cost. |
+| [Cameron Boozer](../profiles/players/cameron-boozer.md) | MEM | F | 51 | 14.8 | 77 | 5.6 | not drafted | Turnovers are his only weak category, and experts expect him to finish around the top 25 to 30. |
 | [Zach Edey](../profiles/players/zach-edey.md) | MEM | C | 70 | 7.2 | 113 | 1.4 | 2 | He gives FG%, rebounds and blocks for big-man punt TO builds, with experts calling him top 60 at worst if the ankle holds. |
-| [LeBron James](../profiles/players/lebron-james.md) | PHI | F | 40 | 21.4 | 73 | 17.8 | 22 | He gives big assists from a forward slot with a good FG%, and experts see good value from round 5 on, but Philadelphia has playoff back-to-backs. |
+| [LeBron James](../profiles/players/lebron-james.md) | PHI | F | 40 | 21.4 | 73 | 17.6 | 22 | He gives big assists from a forward slot with a good FG%, and experts see good value from round 5 on, but Philadelphia has playoff back-to-backs. |
 | [Julius Randle](../profiles/players/julius-randle.md) | BKN | F | 73 | 8.2 | 86 | 8.6 | 10 | His points, rebounds and forward assists make him a mid-priced punt TO starter, and turnovers are his one big weakness. |
-| [Paolo Banchero](../profiles/players/paolo-banchero.md) | ORL | F | 52 | 18.8 | 75 | 14.4 | 26 | His points, rebounds and forward assists fit punt TO and punt FT at his category price, not at last season's points-league price. |
+| [Paolo Banchero](../profiles/players/paolo-banchero.md) | ORL | F | 52 | 18.8 | 75 | 14.5 | 26 | His points, rebounds and forward assists fit punt TO and punt FT at his category price, not at last season's points-league price. |
 
 ### Late flyers
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Joel Embiid](../profiles/players/joel-embiid.md) | PHI | C | 53 | 7.4 | 88 | 8.2 | 24 | He gives elite per-game FT% and points from a center, but limited games and playoff back-to-backs keep him a mid-round buy. |
+| [Joel Embiid](../profiles/players/joel-embiid.md) | PHI | C | 53 | 7.4 | 88 | 8.3 | 24 | He gives elite per-game FT% and points from a center, but limited games and playoff back-to-backs keep him a mid-round buy. |
 | [Brandon Ingram](../profiles/players/brandon-ingram.md) | LAC | G,F | 66 | 3.2 | 79 | 4.4 | 16 | He is a cheap IL stash for punt TO teams while his Achilles heals, with a 4-3-4 playoff schedule. |
-| [Stephon Castle](../profiles/players/stephon-castle.md) | SAS | G | 76 | 6.6 | 92 | 10.3 | 1 | His assists help punt FT% and punt TO builds, but category experts fade him, so keep the price low. |
+| [Stephon Castle](../profiles/players/stephon-castle.md) | SAS | G | 76 | 6.6 | 92 | 10.4 | 1 | His assists help punt FT% and punt TO builds, but category experts fade him, so keep the price low. |
 | [AJ Dybantsa](../profiles/players/aj-dybantsa.md) | WAS | F | 92 | 3.4 | 85 | 5.5 | not drafted | He is a few-USD points source for punt TO teams, since weak shooting and turnovers keep him outside the top 100 in categories. |
-| [Ja Morant](../profiles/players/ja-morant.md) | POR | G | 93 | 2.6 | 133 | 3.9 | 17 | His assists, points and FT% fit punt TO as a cheap flyer, but his usage next to Lillard is unclear. |
-| [Derik Queen](../profiles/players/derik-queen.md) | NOP | F,C | 96 | 5.0 | 95 | 1.7 | not drafted | His rebounds, assists, steals and blocks fit punt 3PM and punt TO as an end-of-draft flyer. |
-| [Jalen Green](../profiles/players/jalen-green.md) | PHX | G,F | 130 | 1.0 | 130 | 1.2 | 9 | He is a cheap late source of points and threes for punt FG% and punt TO, but a poor fit for balanced teams. |
+| [Ja Morant](../profiles/players/ja-morant.md) | POR | G | 93 | 2.6 | 133 | 4.3 | 17 | His assists, points and FT% fit punt TO as a cheap flyer, but his usage next to Lillard is unclear. |
+| [Derik Queen](../profiles/players/derik-queen.md) | NOP | F,C | 96 | 5.0 | 95 | 1.8 | not drafted | His rebounds, assists, steals and blocks fit punt 3PM and punt TO as an end-of-draft flyer. |
+| [Jalen Green](../profiles/players/jalen-green.md) | PHX | G,F | 130 | 1.0 | 130 | 1.4 | 9 | He is a cheap late source of points and threes for punt FG% and punt TO, but a poor fit for balanced teams. |
 
 <sub>Built 2026-10-04 with claude-opus-5-5 high.</sub>

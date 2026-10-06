@@ -97,6 +97,7 @@ Code checks (`app/knowledge/categories.py`): `strong:X` = z >= 2.0 against the t
 - **punt TO fit** [durable]: Many turnovers for his position, so a punt TO team loses little with him. Code check: `posweak:TO`.
 
 ### Role
+- **coach distrust** [current]: The head coach is reported to distrust the player, which caps his minutes and role.
 - **contract year** [current]: In the last year of his contract, so a new deal and a bigger role are at stake this season.
 - **minutes competition** [current]: Another player competes for the same minutes; his role is not clear yet. (merged: bench role)
 - **minutes limit** [current]: His team or coach holds his minutes below a full starter's load on purpose, even when he is healthy. (merged: coach limits minutes)
@@ -107,7 +108,7 @@ Code checks (`app/knowledge/categories.py`): `strong:X` = z >= 2.0 against the t
 - **rookie** [current]: First NBA season.
 - **two-way contract** [current]: On a two-way contract, so his NBA games and role are limited until he gets a standard deal.
 - **unsigned** [current]: Not on any NBA roster now, so his role and value depend on where he signs. (merged: unsigned free agent)
-- **usage competition** [current]: Shares the ball with high-usage teammates, which caps his shots and touches even as a starter.
+- **usage competition** [current]: Shares the ball with high-usage teammates, which caps his shots and touches even as a starter. (merged: low usage role)
 - **usage dependent** [durable]: His fantasy value depends on being a top usage option and drops sharply in a smaller role. (merged: needs high usage)
 
 ### Outlook
@@ -164,19 +165,22 @@ Code checks (`app/knowledge/categories.py`): `strong:X` = z >= 2.0 against the t
 
 ### Team
 - **bottom team** [current]: The team is projected to finish near the bottom of the league this season. (merged: bad team, lottery team, projected bottom team, weak team, rebuilding team)
+- **coach hot seat** [current]: The head coach is reported to be under pressure for his job, so a firing during the season could reshape rotations. (merged: coach on hot seat)
 - **concentrated usage** [current]: One or a few stars take most of the team's shots and touches, which caps the usage of everyone else. (merged: one-creator offense)
 - **deep rotation** [current]: Many players compete for the team's minutes, so minutes are spread and roles shrink. (merged: crowded rotation, long rotation, crowded backcourt, crowded frontcourt, center committee, low minutes coach, roster overload)
 - **defense-first** [durable]: The team is built around defense, with limited offensive creation and spacing.
 - **fast pace** [current]: The team plays at a fast pace, which raises its players' counting stats.
 - **five-out offense** [durable]: The coach spaces all five players around the arc, so centers and forwards take more threes than usual.
 - **heavy starter minutes** [durable]: The coach gives his starters heavy minutes, which raises their counting stats and shrinks bench value.
-- **low shutdown risk** [current]: The team is not expected to tank, rest healthy players or shut players down late in the season. (merged: not tanking, win-now team, no tank incentive, low rest risk)
+- **low shutdown risk** [current]: The team is not expected to tank, rest healthy players or shut players down late in the season. (merged: not tanking, win-now team, no tank incentive, low rest risk, no own pick, owes own pick)
+- **low starter minutes** [current]: The team keeps or trims its healthy starters' minutes below a normal starter load this season, which caps their counting stats. (merged: cautious with minutes)
 - **new coach** [current]: The team has a new head coach this season, so rotation and minutes habits are less predictable. (merged: new head coach)
 - **rookie-averse coach** [durable]: The coach rarely starts or trusts rookies, which caps rookie roles on this team.
 - **shared ball handling** [current]: The team has no single lead ball handler, so assists and usage are spread across several players.
+- **small-ball lineups** [current]: The team plays small, guard-heavy lineups with little size, which shifts frontcourt minutes and rebounds. (merged: small lineup)
 - **stable starters** [durable]: The coach rarely changes the starting lineup unless someone is hurt, so starter roles are stable.
 - **tank risk** [current]: The team may put draft lottery odds ahead of winning and rest or limit veterans, mostly late in the season.
-- **thin rotation** [current]: The team has little depth, so starters carry heavy loads and an injury opens a big role for a reserve. (merged: thin bench, thin depth, thin at guard, thin frontcourt)
+- **thin rotation** [current]: The team has little depth, so starters carry heavy loads and an injury opens a big role for a reserve. (merged: thin bench, thin depth, thin at guard, thin frontcourt, thin backcourt)
 - **three-point heavy** [current]: The team takes many threes as a style, which lifts 3PM for its shooters.
 - **trades likely** [current]: The front office is expected to make trades this season, which can change roles on the team. (merged: likely to trade, consolidation trade expected, deadline seller)
 - **unsettled rotation** [current]: The team's starters or minutes are not settled or change often, so player roles are hard to predict. (merged: unclear rotation, unstable rotation, volatile rotation, high roster turnover)

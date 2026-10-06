@@ -3,143 +3,131 @@
 
 <sub>Proposed by the synthesis, not on the user's list.</sub>
 
-**Summary.** The first two weeks decide which of these undrafted players matter. Bid quickly when the role changes: a new starter, 26 to 30 minutes, or a long injury to the player ahead of him. Do not bid on one bad or good shooting night. Value short injury fill-ins near their healthy role, and check the playoff schedule (weeks 19 to 21, ending 2027-03-28) before you commit FAB to anyone you plan to keep.
+**Summary.** Everyone on this list is a 0 USD player outside our 144-man draft. Spend FAB on one only when his role changes: he moves into the starting five, his minutes rise past the threshold named in his line, or the starter ahead of him gets hurt. Bid more for a long-term role change. Keep bids small for fill-ins during short injuries, and check playoff schedules before you hold anyone long term.
 
-## What to watch in weeks one and two
+## What counts as a trigger
 
-Coaches do odd things in the first two weeks. Check box scores daily for unexpected minutes, new starters, depth chart changes and players doing more than projected. Our waivers process daily, so a fast claim beats a slow one. ([09-01](https://youtu.be/skKXe2CRl8Q?t=899), [09-01](https://youtu.be/skKXe2CRl8Q?t=1020))
+Coaches do odd things in weeks one and two. Watch for surprise minutes, new starters, depth chart changes and players doing more than expected. Act quickly when the role changes. One example is a bench player who moves into a starting role of about 28 minutes. ([09-01](https://youtu.be/skKXe2CRl8Q?t=899), [09-01](https://youtu.be/skKXe2CRl8Q?t=1020))
 
-React to role, not to results. A jump to a 28-minute starting role is a reason to bid. A cold shooting night with the same minutes and usage is not a reason to drop or ignore a player. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1020))
+Role, minutes and usage are the signal. A shooting night is not. Do not drop a player after a cold night if his role, minutes and usage have not changed. Do not chase one hot night either. The advice is to grab hot players who stay hot, so look for a new role that has held for several games. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1020), [09-22](https://youtu.be/QbdrhJd7LiA?t=2068))
 
-The wire matters as much as the draft. Keep a hot player only while he stays hot, and use part of the 6 weekly adds to stream for extra games played in our head-to-head matchups. Do not spend all 6 adds before midweek, or you cannot react to a late role change. ([09-22](https://youtu.be/QbdrhJd7LiA?t=2068))
+The waiver wire matters as much as the draft. FAB runs daily and we get 6 adds per week. Use them on role changes and to stream for a games-played edge in head-to-head. Some names sit right at the edge of the draft pool: Gillespie, Black, Ajay Mitchell and Vassell. They are worth 1 USD as a final pick at most. Everyone else here should get no auction money and starts the season on waivers. ([09-22](https://youtu.be/QbdrhJd7LiA?t=2068), [Collin Gillespie](../profiles/players/collin-gillespie.md), [Anthony Black](../profiles/players/anthony-black.md), [Ajay Mitchell](../profiles/players/ajay-mitchell.md), [Devin Vassell](../profiles/players/devin-vassell.md))
 
-## Starter injuries: bid fast, but value the fill-in carefully
+## Injury fill-ins: how hard to bid
 
-Most names on this list are handcuffs. Each one becomes an add only when a specific starter misses time. Examples: Drummond if Towns is out, Ayton if Anthony Davis is hurt, Landale if Okongwu is out, Bagley if Jokic sits, and Huff if Zubac misses time. ([Andre Drummond](../profiles/players/andre-drummond.md), [Deandre Ayton](../profiles/players/deandre-ayton.md), [Jock Landale](../profiles/players/jock-landale.md), [Marvin Bagley III](../profiles/players/marvin-bagley.md), [Jay Huff](../profiles/players/jay-huff.md))
+The experts pull in two directions here. One side says react quickly to new starters and bigger minutes, and grab hot players who stay hot. The other side says not to boost a fill-in starter much when the starter has a short injury, because that injury may last a few games or none. It adds that a bench player who posts numbers in big minutes should be valued closer to his healthy-team role, around 150th. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1020), [09-22](https://youtu.be/QbdrhJd7LiA?t=2068), [09-27](https://youtu.be/CRLSsoGhb2w?t=1216), [08-23](https://youtu.be/hm5-fiCa5S4?t=2216))
 
-Do not boost a fill-in starter much for a short injury. The starter may be back in a few games, or he may not miss any. Bench players who score well in big minutes during injuries should be valued closer to their healthy role, around 150th, unless something else changes. In practice, treat a short-term fill-in as a cheap stream for that week, not a long-term roster spot. ([09-27](https://youtu.be/CRLSsoGhb2w?t=1216), [08-23](https://youtu.be/hm5-fiCa5S4?t=2216))
+For our league, that means two kinds of bid. If a starter is out for a short time, add the backup as a streamer with a small bid and plan to drop him when the starter returns. Derrick Jones Jr. is the model: he starts only because the Clippers are hurt, so lose interest once Ingram and Beal return. A long-term absence is different. Mark Williams is out long term, which opens a real job for Oso Ighodaro. That kind of role change deserves a bigger bid. ([09-27](https://youtu.be/CRLSsoGhb2w?t=1216), [08-23](https://youtu.be/hm5-fiCa5S4?t=2216), [Derrick Jones Jr.](../profiles/players/derrick-jones.md), [Oso Ighodaro](../profiles/players/oso-ighodaro.md))
 
-The experts disagree on how hard to chase this. One side says to react quickly to new starters and bigger minutes, and to grab hot players who stay hot. The other side warns that a short injury may last only a few games, and that injury fill-ins should be valued near their healthy-team role. Our approach: bid at once when the injury looks long or the role change is not injury-driven. Keep the bid small when the starter's return looks close. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1020), [09-22](https://youtu.be/QbdrhJd7LiA?t=2068), [09-27](https://youtu.be/CRLSsoGhb2w?t=1216), [08-23](https://youtu.be/hm5-fiCa5S4?t=2216))
+## Minutes thresholds to check
 
-## Minutes thresholds that trigger a bid
+Most of these lines give a minutes number to look for. About 28 minutes is the bar for Melton and Dunn. About 27 is the bar for Keon Ellis and LaRavia. Near 30 is the bar for Lopez, Beal and Oubre. For Ajay Mitchell it is 26 or more, and for Daniss Jenkins about 26. Under these bars, the player is a box-score line with no fantasy value. ([De'Anthony Melton](../profiles/players/deanthony-melton.md), [Kris Dunn](../profiles/players/kris-dunn.md), [Keon Ellis](../profiles/players/keon-ellis.md), [Jake LaRavia](../profiles/players/jake-laravia.md), [Brook Lopez](../profiles/players/brook-lopez.md), [Bradley Beal](../profiles/players/bradley-beal.md), [Kelly Oubre Jr.](../profiles/players/kelly-oubre.md), [Ajay Mitchell](../profiles/players/ajay-mitchell.md), [Daniss Jenkins](../profiles/players/daniss-jenkins.md))
 
-Several profiles set a clear minutes line. Melton and Dunn need a starting spot and about 28 minutes. LaRavia needs to start and play closer to 27 minutes than 20. Keon Ellis needs about 27 minutes off the bench. ([De'Anthony Melton](../profiles/players/deanthony-melton.md), [Kris Dunn](../profiles/players/kris-dunn.md), [Jake LaRavia](../profiles/players/jake-laravia.md), [Keon Ellis](../profiles/players/keon-ellis.md))
+The lower bars belong to specialists. Scheierman needs 23 or more minutes as a starter. Minott, Slawson and Craig Porter need about 20 for their steals and blocks to matter. Kennard needs about eight three-point attempts a game off the bench. Check these numbers over the first two weeks, not one night. ([Baylor Scheierman](../profiles/players/baylor-scheierman.md), [Josh Minott](../profiles/players/josh-minott.md), [Jalen Slawson](../profiles/players/jalen-slawson.md), [Craig Porter Jr.](../profiles/players/craig-porter.md), [Luke Kennard](../profiles/players/luke-kennard.md), [09-01](https://youtu.be/skKXe2CRl8Q?t=899))
 
-Lower lines apply to cheaper roles. Daniss Jenkins and Ajay Mitchell become adds at about 26 minutes, Scheierman at 23 or more as a starter, and Minott and Slawson at about 20. Check the minutes over several games before you bid, not just one. ([Daniss Jenkins](../profiles/players/daniss-jenkins.md), [Ajay Mitchell](../profiles/players/ajay-mitchell.md), [Baylor Scheierman](../profiles/players/baylor-scheierman.md), [Josh Minott](../profiles/players/josh-minott.md), [Jalen Slawson](../profiles/players/jalen-slawson.md), [09-01](https://youtu.be/skKXe2CRl8Q?t=1020))
+## Handcuffs to track from day one
 
-## Check the playoff schedule before you commit
+Several backups only matter if the starter ahead of them goes down. Follow the injury news for these pairs: Gobert and Beringer, Jokic and Bagley, Towns and Drummond, Okongwu and Landale, Zubac and Huff, Cunningham and Daniss Jenkins, SGA and Ajay Mitchell, Anthony Davis and Ayton, Allen or Mobley and Thomas Bryant, and Sabonis with Raynaud and Achiuwa. The notes call several of these quick or must-adds when the injury hits. Bid at once, but treat a short absence as a stream. ([Joan Beringer](../profiles/players/joan-beringer.md), [Marvin Bagley III](../profiles/players/marvin-bagley.md), [Andre Drummond](../profiles/players/andre-drummond.md), [Jock Landale](../profiles/players/jock-landale.md), [Jay Huff](../profiles/players/jay-huff.md), [Daniss Jenkins](../profiles/players/daniss-jenkins.md), [Ajay Mitchell](../profiles/players/ajay-mitchell.md), [Deandre Ayton](../profiles/players/deandre-ayton.md), [Thomas Bryant](../profiles/players/thomas-bryant.md), [Maxime Raynaud](../profiles/players/maxime-raynaud.md), [Precious Achiuwa](../profiles/players/precious-achiuwa.md), [09-27](https://youtu.be/CRLSsoGhb2w?t=1216))
 
-Some teams help in weeks 19 to 21. Dallas plays 4-4-4, which supports Lively, Marshall and Sasser late in the season. The Clippers play 4-3-4, a small plus for Dunn, Beal and Derrick Jones Jr. ([Dereck Lively II](../profiles/players/dereck-lively.md), [Naji Marshall](../profiles/players/naji-marshall.md), [Marcus Sasser](../profiles/players/marcus-sasser.md), [Kris Dunn](../profiles/players/kris-dunn.md), [Bradley Beal](../profiles/players/bradley-beal.md), [Derrick Jones Jr.](../profiles/players/derrick-jones.md))
+## Check playoff weeks before a long hold
 
-Others hurt. Boston has three back-to-backs in our playoff weeks, a problem for Mitchell Robinson if he sits them. Portland has three playoff back-to-backs, which hurts Robert Williams III. Minnesota has a two-game week starting March 15 (week 20), which hurts Beringer, Shannon and Evans. Cleveland plays only 2 games in our finals week, so do not plan on Thomas Bryant. Indiana plays 3-4-3, which makes McConnell a weak playoff stream. Houston's 10-game playoff schedule hurts Smart. ([Mitchell Robinson](../profiles/players/mitchell-robinson.md), [Robert Williams III](../profiles/players/robert-williams.md), [Joan Beringer](../profiles/players/joan-beringer.md), [Terrence Shannon Jr](../profiles/players/terrence-shannon.md), [Isaiah Evans](../profiles/players/isaiah-evans.md), [Thomas Bryant](../profiles/players/thomas-bryant.md), [T.J. McConnell](../profiles/players/tj-mcconnell.md), [Marcus Smart](../profiles/players/marcus-smart.md))
+Our playoffs are weeks 19 to 21 and end 2027-03-28. Dallas plays 4-4-4 games and the Clippers 4-3-4, which helps Marshall, Sasser, Lively, Dunn and Beal if they earn roles. Minnesota has a two-game week in week 20, which hurts Beringer, Shannon and Hyland. Cleveland plays only 2 games in finals week, so do not plan on Bryant then. Indiana plays 3-4-3, so McConnell is weak in our playoffs. Boston has three back-to-backs in our playoff weeks, which matters if Mitchell Robinson sits all of them. Houston's 10-game playoff schedule is weak for Smart. ([Naji Marshall](../profiles/players/naji-marshall.md), [Marcus Sasser](../profiles/players/marcus-sasser.md), [Dereck Lively II](../profiles/players/dereck-lively.md), [Kris Dunn](../profiles/players/kris-dunn.md), [Bradley Beal](../profiles/players/bradley-beal.md), [Joan Beringer](../profiles/players/joan-beringer.md), [Terrence Shannon Jr](../profiles/players/terrence-shannon.md), [Bones Hyland](../profiles/players/bones-hyland.md), [Thomas Bryant](../profiles/players/thomas-bryant.md), [T.J. McConnell](../profiles/players/tj-mcconnell.md), [Mitchell Robinson](../profiles/players/mitchell-robinson.md), [Marcus Smart](../profiles/players/marcus-smart.md))
 
-## Names at the edge of the draft
-
-A few watch-list players sit near our 144-player cutoff. Gillespie, Champagnie, Holiday, Black and Vassell are worth 1 USD at most as a last bench pick. Leaving them on waivers is fine. If they go unbought, watch their triggers from day one, because they are the first ones to become useful. ([Collin Gillespie](../profiles/players/collin-gillespie.md), [Julian Champagnie](../profiles/players/julian-champagnie.md), [Jrue Holiday](../profiles/players/jrue-holiday.md), [Anthony Black](../profiles/players/anthony-black.md), [Devin Vassell](../profiles/players/devin-vassell.md), [08-23](https://youtu.be/hm5-fiCa5S4?t=2216))
-
-Two injured players are stash candidates rather than early adds. Butler is worth a 1 USD IL stash only if you have a spare IL slot. Otherwise, watch his rehab news in December and January. Lively is out until around Thanksgiving with a broken foot. Track his ramp-up behind Gafford and Johnson. ([Jimmy Butler III](../profiles/players/jimmy-butler.md), [Dereck Lively II](../profiles/players/dereck-lively.md))
+Rest patterns cut games too. Horford skips every back-to-back on a team with 15 of them. Steven Adams's projected games range from 42 on Yahoo to 63 on ESPN. For players like these, count the games in the week before you stream them. ([Al Horford](../profiles/players/al-horford.md), [Steven Adams](../profiles/players/steven-adams.md), [09-22](https://youtu.be/QbdrhJd7LiA?t=2068))
 
 ## Players
 
 Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
-### Injury handcuffs
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [Collin Gillespie](../profiles/players/collin-gillespie.md) | PHX | G | 125 | 1.0 | 100 | 0.7 | not drafted | Add him fast if Green, Booker or Brooks gets hurt, since that would put him back near 30 minutes for threes and steals. |
-| [Anthony Black](../profiles/players/anthony-black.md) | ORL | G,F | 146 | 0.0 | 125 | 0.3 | not drafted | He becomes startable only if Suggs gets hurt or is traded, so also check his ankle and his sixth-man minutes under Sweeney. |
-| [Jrue Holiday](../profiles/players/jrue-holiday.md) | POR | G | 136 | 0.0 | 131 | 0.5 | 3 | Add him if he starts on nights Morant or Lillard miss games, since his projected usage is lower than last season. |
-| [Kyle Filipowski](../profiles/players/kyle-filipowski.md) | UTA | F,C | 198 | 0.0 | 145 | 0.1 | not drafted | Add him only if an injury to Nurkic or Jackson Jr. gives him more minutes, since rebounds are his only plus. |
-| [Tre Jones](../profiles/players/tre-jones.md) | CHI | G | 148 | 1.0 | 179 | 0.0 | not drafted | Add him if his minutes hold at 23 to 25 and Powell or Giddey miss time or Powell is traded, for assists, FG% and few turnovers. |
-| [Precious Achiuwa](../profiles/players/precious-achiuwa.md) | SAC | F,C | 204 | - | 153 | 0.0 | not drafted | Pick him up only if Sabonis, Murray or Hunter misses real time, since his late-season run came as an injury fill-in. |
-| [Maxime Raynaud](../profiles/players/maxime-raynaud.md) | SAC | C | 162 | 1.0 | - | 0.0 | not drafted | Add him on a Sabonis trade or injury, because at 19 to 20 minutes he does not hold value. |
-| [Kelly Oubre Jr.](../profiles/players/kelly-oubre.md) | IND | F | 164 | 0.0 | 182 | 0.1 | not drafted | Add him if an injury to Nesmith or another Indiana wing pushes his minutes past 30, for steals and low turnovers. |
-| [Deandre Ayton](../profiles/players/deandre-ayton.md) | WAS | C | 169 | 0.0 | 192 | 0.0 | 9 | Pick him up quickly if Anthony Davis gets hurt and he moves to a 30-minute role, for FG% and low turnovers. |
-| [Joan Beringer](../profiles/players/joan-beringer.md) | MIN | F,C | 182 | - | - | 0.0 | not drafted | Add him if Gobert gets hurt or he starts playing power forward next to Gobert, but Minnesota's two-game week 20 hurts. |
-| [Jay Huff](../profiles/players/jay-huff.md) | IND | C | 189 | - | - | 0.0 | 1 | Add him if Zubac misses time, since he would then start and give blocks. |
-| [Jaylon Tyson](../profiles/players/jaylon-tyson.md) | CLE | G,F | 226 | - | 189 | 0.0 | not drafted | Add him if an injury to Harden, Mitchell or Watson opens a starting role and his threes stay near 40%. |
-| [Andre Drummond](../profiles/players/andre-drummond.md) | NYK | C | 211 | 0.0 | 251 | 0.0 | not drafted | Add him if Towns misses time and the backup center role grows toward 29 minutes ahead of Wiseman and Eubanks. |
-| [Kingston Flemings](../profiles/players/kingston-flemings.md) | ATL | G | 243 | - | 215 | 0.0 | not drafted | A McCollum injury is his only path to an add, and Dort or Wiggins may take those minutes first. |
-| [Obi Toppin](../profiles/players/obi-toppin.md) | IND | F | 330 | - | 239 | 0.0 | not drafted | Pick him up if Siakam misses time or he wins the small-ball backup center minutes. |
-| [Marvin Bagley III](../profiles/players/marvin-bagley.md) | DEN | F,C | 244 | - | 256 | 0.0 | not drafted | Add him when Jokic misses time, for points, rebounds, FG% and few turnovers, and check for power forward minutes behind Gordon. |
-| [Jordan Goodwin](../profiles/players/jordan-goodwin.md) | PHX | G | 263 | - | - | - | not drafted | Add him for steals if an injury moves him up the Phoenix guard rotation. |
-| [Jock Landale](../profiles/players/jock-landale.md) | ATL | C | 282 | - | - | - | not drafted | An Okongwu injury would make him a 30-minute starter worth a FAB bid. Off the bench he does little. |
-| [Thomas Bryant](../profiles/players/thomas-bryant.md) | CLE | C | 305 | - | 296 | 0.0 | not drafted | Add him only if Allen or Mobley misses time, and drop him before Cleveland's 2-game finals week. |
-| [Leonard Miller](../profiles/players/leonard-miller.md) | CHI | F | 363 | - | 309 | 0.0 | not drafted | Add him quickly if Buzelis or Caleb Wilson goes down. |
-| [Ugonna Onyenso](../profiles/players/ugonna-onyenso.md) | DET | C | 680 | - | - | - | not drafted | Add him for blocks if Duren or Reed miss time and he gets real NBA minutes or a converted contract. |
-
 ### Role battles
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Julian Champagnie](../profiles/players/julian-champagnie.md) | SAS | F | 179 | 1.0 | 111 | 0.4 | not drafted | Add him if he wins starting power forward minutes over Harris without losing many to Harper, or if Spurs forwards get hurt. |
-| [Mitchell Robinson](../profiles/players/mitchell-robinson.md) | BOS | C | 178 | 0.0 | 115 | 0.3 | not drafted | Add him for punt FT% builds only if he starts over Queta, plays near 25 minutes and does not sit every back-to-back. |
-| [Jake LaRavia](../profiles/players/jake-laravia.md) | LAL | F | 175 | - | 120 | 0.2 | not drafted | Add him only if he starts and plays closer to 27 minutes than 20, for steals. |
-| [Oso Ighodaro](../profiles/players/oso-ighodaro.md) | PHX | C | 170 | - | 122 | 0.5 | not drafted | With Mark Williams out long term, add him cheaply if Maluach does not start and his minutes get close to 27.6. |
-| [Devin Vassell](../profiles/players/devin-vassell.md) | SAS | G,F | 157 | 1.0 | 128 | 0.3 | 5 | He is worth an add only if three-guard lineups and the deep wing group do not push his minutes well below last season's 30.5. |
-| [Cam Spencer](../profiles/players/cam-spencer.md) | MEM | G | 233 | - | 143 | 0.0 | not drafted | Add him if Iisalo gives him steady backup guard minutes behind Ty Jerome and his three-point shooting recovers. |
-| [Ajay Mitchell](../profiles/players/ajay-mitchell.md) | OKC | G | 145 | 0.0 | 243 | 0.2 | not drafted | Add him if he starts or plays 26 or more minutes next to SGA and Jalen Williams, and treat an SGA injury as a must-add. |
-| [Aaron Nesmith](../profiles/players/aaron-nesmith.md) | IND | G,F | 150 | 0.0 | 177 | 0.0 | not drafted | Add him for punt AST builds if his FG% climbs back toward 48 to 50% and Oubre does not take his starting spot. |
-| [Robert Williams III](../profiles/players/robert-williams.md) | POR | C | 202 | - | 165 | 0.0 | not drafted | Add him for blocks and FG% if his minutes climb toward 23 or Clingan misses time, but Portland's playoff back-to-backs hurt. |
-| [Daniss Jenkins](../profiles/players/daniss-jenkins.md) | DET | G | 167 | - | - | - | not drafted | Add him for assists if he reaches about 26 minutes or Cunningham misses time. |
-| [De'Anthony Melton](../profiles/players/deanthony-melton.md) | GSW | G | 245 | - | 180 | 0.0 | not drafted | Add him right away if he takes the starting guard spot at about 28 minutes, for steals in punt FG% builds. |
-| [Kris Dunn](../profiles/players/kris-dunn.md) | LAC | G | 191 | - | 184 | 0.0 | not drafted | Add him for steals if he moves into the starting five at about 28 minutes, helped by a 4-3-4 playoff schedule. |
-| [Isaiah Joe](../profiles/players/isaiah-joe.md) | DET | G,F | 255 | - | 188 | 0.0 | not drafted | Add him as a threes stream, and more firmly if he takes Duncan Robinson's starting spot. |
-| [Naji Marshall](../profiles/players/naji-marshall.md) | DAL | G,F | 190 | - | 209 | 0.0 | not drafted | Stream him if Dusty May gives him ball-handling minutes again, and the Dallas 4-4-4 playoff schedule adds late value. |
-| [GG Jackson](../profiles/players/gg-jackson.md) | MEM | F,C | 219 | - | 191 | 0.0 | not drafted | Add him if he wins small forward minutes in Iisalo's 11-man rotation, since he shot efficiently on real volume last season. |
-| [Jared McCain](../profiles/players/jared-mccain.md) | OKC | G | 192 | 0.0 | 231 | 0.2 | not drafted | Add him as a short-term threes and points pickup only if he really gets around 24.7 minutes, and accept the weak FG%. |
+| [Oso Ighodaro](../profiles/players/oso-ighodaro.md) | PHX | C | 170 | - | 122 | 0.5 | not drafted | Mark Williams is out long term, so add Ighodaro if Maluach does not take the starting job and his minutes get close to 27. |
+| [Jake LaRavia](../profiles/players/jake-laravia.md) | LAL | F | 175 | - | 120 | 0.2 | not drafted | Add him for steals only if he wins the starting power forward job and plays closer to 27 minutes than 20. |
+| [Brook Lopez](../profiles/players/brook-lopez.md) | LAC | C | 160 | 0.0 | 112 | 0.2 | not drafted | If Isaiah Jackson loses the starting job and Lopez gets near 30 minutes, his threes and blocks make him a short-term add for punt-steals builds. |
+| [Devin Vassell](../profiles/players/devin-vassell.md) | SAS | G,F | 157 | 1.0 | 128 | 0.4 | 5 | Watch whether he starts ahead of Harper and stays at 28 to 30 minutes, or whether a Spurs consolidation trade opens up shots for him. |
+| [Julian Champagnie](../profiles/players/julian-champagnie.md) | SAS | F | 179 | 1.0 | 111 | 0.4 | not drafted | Add him for threes and low turnovers if an injury to Harris, Vassell or another Spurs forward raises his minutes. |
+| [Kyle Kuzma](../profiles/players/kyle-kuzma.md) | MIL | F | 194 | 0.0 | 223 | 0.0 | not drafted | Add him for bulk points and rebounds if Taylor Jenkins starts him at power forward and he plays more than 26 minutes. |
+| [De'Anthony Melton](../profiles/players/deanthony-melton.md) | GSW | G | 245 | - | 180 | 0.0 | not drafted | If he wins the starting guard spot, reaches about 28 minutes and his knee holds up, add him for steals in punt FG% builds. |
+| [Kris Dunn](../profiles/players/kris-dunn.md) | LAC | G | 191 | - | 184 | 0.0 | not drafted | Add him as a steals streamer if he moves into the Clippers' starting five at about 28 minutes, and their 4-3-4 playoff weeks help. |
+| [Baylor Scheierman](../profiles/players/baylor-scheierman.md) | BOS | G,F | 296 | - | 213 | 0.0 | not drafted | A cheap add for threes and low turnovers if he keeps the starting job and plays 23 or more minutes. |
+| [Ziaire Williams](../profiles/players/ziaire-williams.md) | LAL | G,F | 271 | - | 222 | 0.0 | not drafted | Add him for steals and low turnovers only if he starts for the Lakers and plays more than last season's 22.9 minutes. |
+| [Hannes Steinbach](../profiles/players/hannes-steinbach.md) | CHA | F | 656 | - | 250 | 0.0 | not drafted | If Charlotte starts him over Diabaté, add him as a rebounds and blocks big who does not hurt FG%. |
+| [Terrence Shannon Jr](../profiles/players/terrence-shannon.md) | MIN | G,F | 222 | - | 292 | 0.0 | not drafted | Watch whether he wins Minnesota's open fifth starting spot or a steady bench scorer role, but its two-game week in our playoffs cuts his value. |
+| [Will Riley](../profiles/players/will-riley.md) | WAS | F | 221 | - | - | - | not drafted | Spend FAB only if he wins rotation minutes or the open fifth starting spot in Washington's crowded wing group. |
+| [Isaiah Joe](../profiles/players/isaiah-joe.md) | DET | G,F | 255 | - | 188 | 0.0 | not drafted | Bid for threes if he takes Duncan Robinson's starting spot or plays clearly more than his usual 21 minutes. |
+| [Aaron Nesmith](../profiles/players/aaron-nesmith.md) | IND | G,F | 150 | 0.0 | 177 | 0.0 | not drafted | Add him for punt-assists builds if his FG% climbs back toward 48 to 50 percent and Oubre does not take his starting spot. |
+| [Derrick Jones Jr.](../profiles/players/derrick-jones.md) | LAC | F | 225 | - | 195 | 0.0 | not drafted | He is a short-term stream at most while he holds about 27 minutes as an injury starter, so lose interest once Ingram and Beal return. |
+| [Al Horford](../profiles/players/al-horford.md) | GSW | F,C | 205 | 0.0 | 199 | 0.0 | 1 | Watch his minutes while Porzingis is out, but he skips every back-to-back and his FG% has been near 42%, so stream him only. |
+| [Mitchell Robinson](../profiles/players/mitchell-robinson.md) | BOS | C | 178 | 0.0 | 115 | 0.3 | not drafted | A punt-FT% stream if he starts over Queta and plays near 25 minutes, but check whether he sits every back-to-back. |
+| [Dereck Lively II](../profiles/players/dereck-lively.md) | DAL | C | 166 | - | 143 | 0.1 | 3 | Out until around Thanksgiving with a broken foot, he becomes a punt-3PM add if he later wins the starting job, and Dallas plays 4-4-4. |
+
+### Injury handcuffs
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Collin Gillespie](../profiles/players/collin-gillespie.md) | PHX | G | 125 | 1.0 | 100 | 0.8 | not drafted | If Green, Booker or Brooks gets hurt, he goes back near 30 minutes and becomes a quick add for threes and steals. |
+| [Anthony Black](../profiles/players/anthony-black.md) | ORL | G,F | 146 | 0.0 | 125 | 0.4 | not drafted | Check his ankle and sixth-man minutes under Sweeney, and add him if Suggs gets hurt or is traded. |
+| [Ajay Mitchell](../profiles/players/ajay-mitchell.md) | OKC | G | 145 | 0.0 | 243 | 0.2 | not drafted | An SGA injury makes him a must-add, and he is also worth a bid if he starts or plays 26 or more minutes. |
+| [Tre Jones](../profiles/players/tre-jones.md) | CHI | G | 148 | 1.0 | 179 | 0.0 | not drafted | Add him for assists and FG% if Powell or Giddey misses time or Powell is traded. |
+| [Daniss Jenkins](../profiles/players/daniss-jenkins.md) | DET | G | 167 | - | - | - | not drafted | Grab him at once if Cunningham misses time, or if Bickerstaff gives him about 26 minutes as a second ball handler. |
+| [Deandre Ayton](../profiles/players/deandre-ayton.md) | WAS | C | 169 | 0.0 | 192 | 0.0 | 9 | Pick him up quickly for FG% if Anthony Davis gets hurt, since the notes say he could then see 30-minute roles. |
+| [Joan Beringer](../profiles/players/joan-beringer.md) | MIN | F,C | 182 | - | - | 0.0 | not drafted | A quick add for blocks and FG% if Gobert misses games, though Minnesota's two-game week 20 hurts him. |
+| [Jay Huff](../profiles/players/jay-huff.md) | IND | C | 189 | - | - | - | 1 | Add him for blocks if Zubac misses time, because he would then start. |
+| [Andre Drummond](../profiles/players/andre-drummond.md) | NYK | C | 211 | 0.0 | 251 | 0.0 | not drafted | If Towns misses time, the backup center role could grow to around 29 minutes, so add him then for rebounds. |
+| [Jock Landale](../profiles/players/jock-landale.md) | ATL | C | 282 | - | - | - | not drafted | Use FAB on him if Okongwu misses time, since thin center depth would give him 30-plus minutes. |
+| [Thomas Bryant](../profiles/players/thomas-bryant.md) | CLE | C | 305 | - | 296 | 0.0 | not drafted | Add him if Allen or Mobley misses time, but drop him before finals week, when Cleveland plays only 2 games. |
+| [Marvin Bagley III](../profiles/players/marvin-bagley.md) | DEN | F,C | 244 | - | 256 | 0.0 | not drafted | Add him for points, rebounds and FG% when Jokic misses time, and check whether he also gets backup power forward minutes. |
+| [Precious Achiuwa](../profiles/players/precious-achiuwa.md) | SAC | F,C | 204 | - | 153 | 0.0 | not drafted | Add him for rebounds and few turnovers only when Sabonis, Murray or Hunter miss games or a trade opens the Kings frontcourt. |
+| [Maxime Raynaud](../profiles/players/maxime-raynaud.md) | SAC | C | 162 | 1.0 | - | 0.0 | not drafted | A quick add for FG% and rebounds in punt-steals builds if a Sabonis injury or trade makes him the starter. |
+| [Leonard Miller](../profiles/players/leonard-miller.md) | CHI | F | 363 | - | 309 | 0.0 | not drafted | Add him quickly only if Buzelis or Caleb Wilson goes down. |
+| [Obi Toppin](../profiles/players/obi-toppin.md) | IND | F | 330 | - | 239 | 0.0 | not drafted | Pick him up if Siakam misses time or he wins the small-ball backup center minutes. |
+| [Jalen Smith](../profiles/players/jalen-smith.md) | CHI | F,C | 228 | - | 200 | 0.0 | not drafted | Add him at once if he becomes a starter, which would most likely follow a Claxton injury or a Leonard Miller trade. |
+| [Kelly Oubre Jr.](../profiles/players/kelly-oubre.md) | IND | F | 164 | 0.0 | 182 | 0.1 | not drafted | Add him for steals and low turnovers only if an injury to Nesmith or another Indiana wing pushes him past 30 minutes. |
+| [Kyle Filipowski](../profiles/players/kyle-filipowski.md) | UTA | F,C | 198 | 0.0 | 145 | 0.1 | not drafted | Check whether an injury to Nurkic or Jackson Jr. gives him more minutes, since rebounds are his only plus. |
+| [Jaylon Tyson](../profiles/players/jaylon-tyson.md) | CLE | G,F | 226 | - | 189 | 0.0 | not drafted | Watch for a starting role if Harden, Mitchell or Watson gets hurt, and for his three-point shooting staying near 40%. |
+| [Jordan Goodwin](../profiles/players/jordan-goodwin.md) | PHX | G | 263 | - | - | - | not drafted | Pick him up for steals if an injury moves him up the Phoenix guard rotation. |
+| [Kingston Flemings](../profiles/players/kingston-flemings.md) | ATL | G | 243 | - | 215 | 0.0 | not drafted | Add him for assists and steals only if McCollum misses time and Flemings, not Dort or Wiggins, gets the starts. |
+| [Ugonna Onyenso](../profiles/players/ugonna-onyenso.md) | DET | C | 680 | - | - | - | not drafted | Watch for blocks if he gets a standard contract or if Duren or Paul Reed miss time. |
+
+### Minutes streamers
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Cam Spencer](../profiles/players/cam-spencer.md) | MEM | G | 233 | - | 143 | 0.0 | not drafted | Add him for FT% and assists if Iisalo gives him steady backup guard minutes behind Ty Jerome and his three-point shot recovers. |
+| [Duncan Robinson](../profiles/players/duncan-robinson.md) | DET | G,F | 215 | - | 169 | 0.0 | not drafted | Stream him for threes and low turnovers, and bid more only if he plays past 24 to 25 minutes. |
+| [De'Andre Hunter](../profiles/players/deandre-hunter.md) | SAC | F | 172 | - | 203 | 0.0 | 1 | A pickup for FT% and threes if he plays close to 30 minutes and gets his three-point percentage back near 40%. |
+| [Naji Marshall](../profiles/players/naji-marshall.md) | DAL | G,F | 190 | - | 209 | 0.0 | not drafted | Stream him if Dusty May gives him ball-handling minutes again, and the Dallas 4-4-4 playoff weeks add value later. |
+| [T.J. McConnell](../profiles/players/tj-mcconnell.md) | IND | G | 231 | - | 190 | 0.0 | not drafted | If he keeps 17 to 19 minutes, stream him in 4-game Indiana weeks for FG%, assists and steals, but not in our 3-4-3 playoff weeks. |
+| [GG Jackson](../profiles/players/gg-jackson.md) | MEM | F,C | 219 | - | 191 | 0.0 | not drafted | Add him if he wins small forward minutes in Iisalo's 11-man rotation. |
+| [Jared McCain](../profiles/players/jared-mccain.md) | OKC | G | 192 | 0.0 | 231 | 0.2 | not drafted | A short-term threes and points add if OKC gives him about 25 minutes, but his FG% and defensive stats stay weak. |
 | [Keon Ellis](../profiles/players/keon-ellis.md) | BKN | G,F | 257 | - | 193 | 0.0 | not drafted | Add him as a steals and low-turnover streamer if he reaches about 27 minutes off the bench. |
-| [Kyle Kuzma](../profiles/players/kyle-kuzma.md) | MIL | F | 194 | 0.0 | 223 | 0.0 | not drafted | Add him cheaply for bulk points and rebounds if Jenkins starts him at power forward and he plays more than 26 minutes. |
-| [Derrick Jones Jr.](../profiles/players/derrick-jones.md) | LAC | F | 225 | - | 195 | 0.0 | not drafted | He starts while the Clippers are injured, so keep him only if his minutes hold once Ingram and Beal return. |
-| [Dylan Cardwell](../profiles/players/dylan-cardwell.md) | SAC | F,C | 197 | - | - | - | not drafted | Claim him for blocks and rebounds if his minutes grow behind Raynaud or Sabonis is traded. |
-| [Al Horford](../profiles/players/al-horford.md) | GSW | F,C | 205 | 0.0 | 199 | 0.0 | 1 | Even if he starts at center while Porzingis is out, sitting back-to-backs limits him, so he is a low-priority add. |
-| [Jalen Smith](../profiles/players/jalen-smith.md) | CHI | F,C | 228 | - | 200 | 0.0 | not drafted | Add him at once if Splitter makes him a starter, so watch Claxton's health and any Leonard Miller trade talk. |
-| [Keaton Wagler](../profiles/players/keaton-wagler.md) | LAC | G | 210 | 0.0 | 208 | 0.1 | not drafted | Add him only if his minutes grow while Beal is out and his FG% holds above 45%. |
-| [Baylor Scheierman](../profiles/players/baylor-scheierman.md) | BOS | G,F | 296 | - | 213 | 0.0 | not drafted | Add him cheaply for threes if he keeps the starting job at 23 or more minutes. |
-| [Will Riley](../profiles/players/will-riley.md) | WAS | F | 221 | - | - | - | not drafted | Spend FAB only if he wins rotation minutes or the open fifth starter spot in Washington's wing group. |
-| [Terrence Shannon Jr](../profiles/players/terrence-shannon.md) | MIN | G,F | 222 | - | 292 | 0.0 | not drafted | Add him only if he wins the fifth starting spot or bench scorer role over Kuminga and Josh Green, with week 20 as a two-game drag. |
-| [Ziaire Williams](../profiles/players/ziaire-williams.md) | LAL | G,F | 271 | - | 222 | 0.0 | not drafted | Add him for steals and low turnovers only if he wins a starting spot and plays more than 22.9 minutes. |
-| [Aaron Wiggins](../profiles/players/aaron-wiggins.md) | ATL | G,F | 272 | 0.0 | 227 | 0.0 | not drafted | Add him only if his shooting recovers and he takes minutes from Dort, or a starter injury lifts him above 20 minutes. |
-| [Ja'Kobe Walter](../profiles/players/jakobe-walter.md) | TOR | G | 274 | - | 238 | 0.0 | not drafted | Add him only if his larger role pushes his minutes clearly above last season's 20.4. |
-| [Ronald Holland II](../profiles/players/ronald-holland.md) | DET | F | 269 | - | 244 | 0.0 | not drafted | Add him cheaply for steals if his minutes rise toward 25 at power forward next to Ausar Thompson. |
-| [Hannes Steinbach](../profiles/players/hannes-steinbach.md) | CHA | F | 656 | - | 250 | 0.0 | not drafted | Pick him up as a rebounds and blocks big if Charlotte starts him over Diabaté. |
-| [Craig Porter Jr.](../profiles/players/craig-porter.md) | CLE | G | 299 | - | - | - | not drafted | Add him for steals and blocks if he holds backup point guard minutes near 20 ahead of Malik Thomas, and accept the empty points. |
-| [Marcus Sasser](../profiles/players/marcus-sasser.md) | DAL | G | 395 | - | 316 | 0.0 | not drafted | Watch for backup guard minutes from Dusty May, and if he gets them, the Dallas 4-4-4 schedule makes him a late streamer. |
+| [Bradley Beal](../profiles/players/bradley-beal.md) | LAC | G,F | 212 | - | 205 | 0.0 | 3 | After his return, stream him only if he reaches about 30 minutes, which would pair well with the Clippers' 4-3-4 playoff schedule. |
+| [Keaton Wagler](../profiles/players/keaton-wagler.md) | LAC | G | 210 | 0.0 | 208 | 0.1 | not drafted | Only a clearly bigger role behind Garland while Beal is out would make him worth a pickup. |
+| [Marcus Smart](../profiles/players/marcus-smart.md) | HOU | G | 218 | - | 247 | 0.0 | not drafted | Stream him only if Udoka gives him the most bench minutes and he produces on nights VanVleet sits. |
+| [Luke Kennard](../profiles/players/luke-kennard.md) | PHX | G,F | 259 | 0.0 | 220 | 0.1 | not drafted | A threes streamer only if he really gets about eight three-point attempts a game off the bench. |
+| [Ben Simmons](../profiles/players/ben-simmons.md) | SAC | G | 232 | - | 321 | 0.2 | not drafted | A short-term stream for rebounds and assists if he gets real rotation minutes, at a cost in points and threes. |
+| [Bones Hyland](../profiles/players/bones-hyland.md) | MIN | G | 235 | - | 283 | 0.0 | not drafted | With DiVincenzo out and no bench ball handlers, add him only if he takes a bigger role, and avoid him in Minnesota's two-game playoff week. |
+| [Ja'Kobe Walter](../profiles/players/jakobe-walter.md) | TOR | G | 274 | - | 238 | 0.0 | not drafted | Watch whether his expected larger role pushes him clearly above last season's 20.4 minutes. |
+| [Aaron Wiggins](../profiles/players/aaron-wiggins.md) | ATL | G,F | 272 | 0.0 | 227 | 0.0 | not drafted | Watch for him taking minutes from Dort or filling in for a hurt Atlanta guard or wing, and for his FG% returning to his career level. |
+| [Royce O'Neale](../profiles/players/royce-oneale.md) | CHA | F | 216 | - | 155 | 0.0 | not drafted | A low-turnover threes option if his power forward minutes grow beyond his bench role. |
+| [Steven Adams](../profiles/players/steven-adams.md) | HOU | C | 397 | - | 329 | 0.0 | not drafted | A matchup rebound streamer if Udoka plays him with Sengun, but check how many back-to-backs he sits. |
+| [Craig Porter Jr.](../profiles/players/craig-porter.md) | CLE | G | 299 | - | - | - | not drafted | Add him for steals and blocks if he holds the backup point guard minutes ahead of Malik Thomas at around 20 a night. |
+| [Marcus Sasser](../profiles/players/marcus-sasser.md) | DAL | G | 395 | - | 316 | 0.0 | not drafted | If Dusty May gives him the backup guard minutes, Dallas's 4-4-4 playoff weeks could make him a late-season streamer. |
+| [Sergio de Larrea](../profiles/players/sergio-de-larrea.md) | DAL | G | 615 | - | - | 0.0 | not drafted | Check his minutes and assists on nights Kyrie Irving sits before spending FAB. |
 
-### Category streamers
+### Deep watch
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Duncan Robinson](../profiles/players/duncan-robinson.md) | DET | G,F | 215 | - | 169 | 0.0 | not drafted | Add him in weeks you need threes, after you check that his minutes stay at 24 to 25 and his FT% recovers. |
-| [Royce O'Neale](../profiles/players/royce-oneale.md) | CHA | F | 216 | - | 155 | 0.0 | not drafted | Use him as a low-turnover threes stream, and add him more firmly if his power forward minutes grow. |
-| [T.J. McConnell](../profiles/players/tj-mcconnell.md) | IND | G | 231 | - | 190 | 0.0 | not drafted | Stream him for FG%, assists and steals in Indiana's 4-game weeks if he keeps 17 to 19 minutes, but not in our playoffs. |
-| [Marcus Smart](../profiles/players/marcus-smart.md) | HOU | G | 218 | - | 247 | 0.0 | not drafted | Stream him only if Udoka gives him top bench minutes and he produces when VanVleet sits. |
-| [Luke Kennard](../profiles/players/luke-kennard.md) | PHX | G,F | 259 | 0.0 | 220 | 0.0 | not drafted | Add him for threes if he really gets about eight three-point attempts a game off the bench. |
-| [Ben Simmons](../profiles/players/ben-simmons.md) | SAC | G | 232 | - | 321 | 0.2 | not drafted | Stream him for rebounds and assists only if the Kings give him real minutes. |
-| [Steven Adams](../profiles/players/steven-adams.md) | HOU | C | 397 | - | 329 | 0.0 | not drafted | Use him as a matchup rebound stream if Udoka plays him with Sengun, and check how many back-to-backs he sits. |
+| [Allen Graves](../profiles/players/allen-graves.md) | TOR | F | 249 | - | - | - | not drafted | Watch whether his groin clears and he gets eighth or ninth man minutes with his Summer League steals, rebounds and threes. |
+| [Hugo González](../profiles/players/hugo-gonzalez.md) | BOS | G,F | 345 | - | 249 | 0.0 | not drafted | Watch whether he gets into Boston's 10-man rotation near 21.7 minutes, mainly if Pritchard stays on the bench or White struggles. |
+| [Josh Minott](../profiles/players/josh-minott.md) | BKN | F | 317 | - | - | - | not drafted | Add him if his minutes reach about 20, and check again near the trade deadline, especially if Porter is traded. |
+| [Mohamed Diawara](../profiles/players/mohamed-diawara.md) | NYK | F | 424 | - | 338 | 0.0 | not drafted | Watch whether the Knicks' plan to trim starters' minutes over about 30 games gives him a real bench role. |
+| [Jalen Slawson](../profiles/players/jalen-slawson.md) | IND | F | 437 | - | - | - | not drafted | Pick him up for steals and blocks if he gets about 20 minutes a night or a standard contract. |
+| [Bruce Thornton](../profiles/players/bruce-thornton.md) | HOU | G | 634 | - | - | 0.1 | not drafted | Watch whether Udoka gives him real minutes behind VanVleet, Smart and Sheppard, which could bring threes and steals. |
+| [Ryan Conwell](../profiles/players/ryan-conwell.md) | MIA | G | 645 | - | - | - | not drafted | Watch whether his Summer League turns into real rotation minutes and threes in Miami's thin guard group. |
+| [Trevon Brazile](../profiles/players/trevon-brazile.md) | DEN | F | 664 | - | - | - | not drafted | A blocks, steals and rebounds streamer if his Q status clears and he wins the backup power forward minutes behind Aaron Gordon. |
 
-### Later-season stashes
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [Dereck Lively II](../profiles/players/dereck-lively.md) | DAL | C | 166 | - | 143 | 0.1 | 3 | Out until around Thanksgiving, he is an add only if he wins the starting job back from Gafford and Johnson, with a 4-4-4 playoff schedule. |
-| [Jimmy Butler III](../profiles/players/jimmy-butler.md) | GSW | F | 154 | 0.0 | 214 | 0.3 | 22 | Pick him up from waivers when his January return is close, after you check his minutes limit and back-to-back plan. |
-| [Bradley Beal](../profiles/players/bradley-beal.md) | LAC | G,F | 212 | - | 205 | 0.0 | 3 | Stream him only after he returns from the hip and knee problems and his minutes get close to 30. |
-| [Josh Minott](../profiles/players/josh-minott.md) | BKN | F | 317 | - | - | - | not drafted | Add him if his minutes reach about 20, and check again near the 2027-03-04 deadline if Porter is traded. |
-
-### Deep watch only
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [Allen Graves](../profiles/players/allen-graves.md) | TOR | F | 249 | - | - | - | not drafted | Consider him only if the groin clears and he holds a bench role with Summer League steals, rebounds and threes. |
-| [Hugo González](../profiles/players/hugo-gonzalez.md) | BOS | G,F | 345 | - | 249 | 0.0 | not drafted | Watch for a 10-man rotation spot near 21.7 minutes, mainly if Pritchard stays on the bench or White struggles. |
-| [Mohamed Diawara](../profiles/players/mohamed-diawara.md) | NYK | F | 424 | - | 338 | 0.0 | not drafted | Watch only for a real bench role from the Knicks' plan to trim starters' minutes early. |
-| [Jalen Slawson](../profiles/players/jalen-slawson.md) | IND | F | 437 | - | - | - | not drafted | Add him for steals and blocks if Carlisle gives him about 20 minutes or he gets a standard contract. |
-| [Sergio de Larrea](../profiles/players/sergio-de-larrea.md) | DAL | G | 615 | - | - | 0.0 | not drafted | Watch his minutes and assists on nights Kyrie Irving sits before spending FAB. |
-| [Bruce Thornton](../profiles/players/bruce-thornton.md) | HOU | G | 634 | - | - | - | not drafted | Watch for real minutes behind VanVleet, Smart and Sheppard, which could bring threes and steals. |
-| [Ryan Conwell](../profiles/players/ryan-conwell.md) | MIA | G | 645 | - | - | - | not drafted | Watch whether his Summer League turns into rotation minutes and three-point attempts on a thin Miami guard group. |
-| [Trevon Brazile](../profiles/players/trevon-brazile.md) | DEN | F | 664 | - | - | - | not drafted | Watch for backup power forward minutes behind Gordon once his Q status clears, for blocks, steals and rebounds. |
-| [Isaiah Evans](../profiles/players/isaiah-evans.md) | MIN | G | 685 | - | - | - | not drafted | He is a short-term threes add only if Minnesota's bench gives him about 20 minutes, and week 20 is a two-game week. |
-
-<sub>Built 2026-10-04 with claude-opus-5-5 high.</sub>
+<sub>Built 2026-10-05 with claude-opus-5-5 high.</sub>

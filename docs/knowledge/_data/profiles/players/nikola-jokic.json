@@ -8,30 +8,32 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "cbfad2082bfb",
- "note_count": 21,
- "built_at": "2026-10-04T17:44:47+00:00",
+ "input_sha": "72013a645aa3",
+ "note_count": 22,
+ "built_at": "2026-10-05T19:59:18+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1654022,
-  "duration_ms": 43207
+  "cost_usd_list": 0.1780942,
+  "duration_ms": 43133,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Experts rank him the number one pick in head-to-head categories leagues and would take him first overall, ahead of Wembanyama.",
+   "text": "Experts take him first overall in head-to-head category leagues, ahead of Victor Wembanyama.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
    "sources": [
     "sf6Ga9k-r-Q:p0",
-    "t4n9MAP2_14:p0",
     "2A2JbUN-kc0:p0",
+    "t4n9MAP2_14:p0",
     "OdDkXFhoKsc:p1"
    ]
   },
   {
-   "text": "He has the tightest range of outcomes in round one. Best case is 1st and worst case is 3rd.",
+   "text": "He has the tightest range of any first-round player. His best case is 1st overall and his worst case is 3rd.",
    "kind": "verdict",
    "date": "2026-09-17",
    "until": "",
@@ -40,44 +42,36 @@
    ]
   },
   {
-   "text": "In an auction, take him if the room lets him sit near 55 USD. That frees about 20 USD for other players.",
-   "kind": "verdict",
-   "date": "2026-09-29",
+   "text": "In a 2026-10-05 auction mock he sold for 80 USD to the manager who also bought Wembanyama.",
+   "kind": "fact",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "XnIWJyBB0EM:p2",
+    "Q6YlQDvD-aY:p4"
+   ]
+  },
+  {
+   "text": "Josh values him at 73 to 74 USD. If the room spends evenly and he sits at 55 USD, take him: that frees about 20 USD for other players.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p4",
     "XnIWJyBB0EM:p4"
    ]
   },
   {
-   "text": "He is projected for over 30 percent usage.",
+   "text": "Experts expect about 35 minutes again and are not very worried about more regression in his threes, minutes or steals. He is projected for over 30 percent usage.",
    "kind": "verdict",
-   "date": "2026-09-16",
+   "date": "2026-09-29",
    "until": "",
    "sources": [
+    "sf6Ga9k-r-Q:p3",
     "2A2JbUN-kc0:p0"
    ]
   },
   {
-   "text": "Expect about 35 minutes per game again. More regression is not a big worry.",
-   "kind": "verdict",
-   "date": "2026-09-29",
-   "until": "",
-   "sources": [
-    "sf6Ga9k-r-Q:p3"
-   ]
-  },
-  {
-   "text": "He had the fewest potential assists among the league's assist leaders last season.",
-   "kind": "fact",
-   "date": "2026-07-07",
-   "until": "",
-   "sources": [
-    "ME-r173X5b0:p17"
-   ]
-  },
-  {
-   "text": "His assists could drop to about 10.1 per game if his teammates' shooting evens out.",
+   "text": "Among the assist leaders, he had the fewest potential assists. His assists could drop to about 10.1 per game if his teammates' shooting evens out.",
    "kind": "verdict",
    "date": "2026-07-07",
    "until": "",
@@ -86,7 +80,7 @@
    ]
   },
   {
-   "text": "He can become a free agent after this season.",
+   "text": "He could become a free agent after this season.",
    "kind": "fact",
    "date": "2026-07-31",
    "until": "",
@@ -95,7 +89,7 @@
    ]
   },
   {
-   "text": "He is expected to stay in Denver all season and re-sign, although he has not been happy for two years.",
+   "text": "Moore expects him to stay in Denver all season and re-sign, even though he has not been happy for two years.",
    "kind": "verdict",
    "date": "2026-07-31",
    "until": "",
@@ -104,34 +98,27 @@
    ]
   },
   {
-   "text": "Denver plays 43 games through March 28, one below the maximum. It has only 14 back-to-backs, one of the lowest counts in the league.",
+   "text": "Denver plays 43 games through March 28, one below the maximum. It has only 14 back-to-backs, one of the lowest counts in the league. He plays four games in the week starting March 15, which is our week 20.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
-    "sf6Ga9k-r-Q:t4"
-   ]
-  },
-  {
-   "text": "He plays four games in the week starting March 15, which is fantasy playoff week 20.",
-   "kind": "fact",
-   "date": "2026-08-16",
-   "until": "",
-   "sources": [
+    "sf6Ga9k-r-Q:t4",
     "gf_6GveiAls:p30"
    ]
   },
   {
-   "text": "Denver is not expected to rest him on purpose.",
+   "text": "Moore doubts Denver will rest Jokic, Murray or Gordon on purpose. He predicts about 50 wins.",
    "kind": "verdict",
    "date": "2026-07-31",
    "until": "",
    "sources": [
-    "keNupMSHp1Y:t6"
+    "keNupMSHp1Y:t6",
+    "keNupMSHp1Y:t2"
    ]
   },
   {
-   "text": "He has no injury now, and Denver is fairly healthy going into the season.",
+   "text": "He is healthy going into the season, and so is most of the Denver roster.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -143,7 +130,7 @@
  ],
  "durable": [
   {
-   "text": "He has been the best fantasy player of the last five or six years and has finished number one in both category and points leagues.",
+   "text": "He has been the best fantasy player of the last five or six years. He finished number one in both category and points leagues.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -152,34 +139,35 @@
    ]
   },
   {
-   "text": "He is a league outlier in FG%, points, rebounds and assists. His high FG% comes on big volume, so it lifts a team's FG% clearly.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "Most of his extra value comes from giving both rebounds and assists, two categories that rarely come together.",
+   "text": "He is a center who gives elite rebounds and assists. These two categories rarely come together, which adds to his value.",
    "kind": "verdict",
    "date": "2026-07-15",
    "until": "",
    "sources": [
-    "0geFVzSqOnA:p3"
+    "0geFVzSqOnA:p3",
+    "stats"
    ]
   },
   {
-   "text": "Turnovers are his one clearly weak category. He commits a lot of them, even for a center.",
+   "text": "He is a league outlier in FG% on high volume, and also in points, rebounds and assists.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "Threes, blocks and free throws are his relative weak spots, but none of them is a real weakness.",
+   "text": "Turnovers are his one clearly weak category. He projects for about 3.4 per game.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He has no significant weakness outside turnovers. Threes, blocks and free throws are only relative weaknesses, and his free throws are fine but not a strength.",
    "kind": "verdict",
    "date": "2026-09-23",
    "until": "",
@@ -188,7 +176,7 @@
    ]
   },
   {
-   "text": "He had a hamstring injury two seasons ago and a somewhat fluky knee injury last season, which cost him a lot of games.",
+   "text": "He had a hamstring injury two seasons ago. Last season he had a somewhat fluky knee injury and missed significant time.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -199,17 +187,17 @@
    ]
   },
   {
-   "text": "At 31 he is getting slightly less durable, but experts are not worried about his health.",
+   "text": "At 31 he may be getting slightly less durable, but experts are not worried.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
    "sources": [
-    "t4n9MAP2_14:p1",
-    "sf6Ga9k-r-Q:p2"
+    "sf6Ga9k-r-Q:p2",
+    "t4n9MAP2_14:p1"
    ]
   },
   {
-   "text": "He gets more tired on defense in the middle of the season than he admits.",
+   "text": "He tires on defense in the middle of the season more than he admits.",
    "kind": "verdict",
    "date": "2026-07-31",
    "until": "",
@@ -222,11 +210,11 @@
   {
    "name": "elite per game",
    "channel": "durable",
-   "detail": "Has been the number one fantasy player for five or six years",
+   "detail": "Consensus number one fantasy player for five or six years",
    "until": "",
    "sources": [
     "sf6Ga9k-r-Q:p1",
-    "stats"
+    "2A2JbUN-kc0:p0"
    ],
    "new_meaning": ""
   },
@@ -236,8 +224,8 @@
    "detail": "About 10 assists per game as a center",
    "until": "",
    "sources": [
-    "stats",
-    "0geFVzSqOnA:p3"
+    "0geFVzSqOnA:p3",
+    "stats"
    ],
    "new_meaning": ""
   },
@@ -254,11 +242,11 @@
   {
    "name": "REB specialist",
    "channel": "durable",
-   "detail": "",
+   "detail": "Led the league in rebounds last season",
    "until": "",
    "sources": [
-    "stats",
-    "ME-r173X5b0:p16"
+    "ME-r173X5b0:p16",
+    "stats"
    ],
    "new_meaning": ""
   },
@@ -275,7 +263,7 @@
   {
    "name": "FG% anchor",
    "channel": "durable",
-   "detail": "About 57 percent on about 18 attempts",
+   "detail": "About 57 percent on about 18 attempts per game",
    "until": "",
    "sources": [
     "stats"
@@ -295,17 +283,28 @@
   {
    "name": "punt TO fit",
    "channel": "durable",
-   "detail": "",
+   "detail": "Turnovers are his only weak category",
    "until": "",
    "sources": [
-    "stats"
+    "stats",
+    "C4vlgpJ62NI:p8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "contract year",
+   "channel": "current",
+   "detail": "Could become a free agent. Moore expects him to re-sign.",
+   "until": "",
+   "sources": [
+    "keNupMSHp1Y:p25"
    ],
    "new_meaning": ""
   },
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "Denver has 14 back-to-backs, one of the lowest counts",
+   "detail": "14 back-to-backs, one of the lowest counts in the league",
    "until": "",
    "sources": [
     "sf6Ga9k-r-Q:t4"
@@ -313,17 +312,26 @@
    "new_meaning": ""
   },
   {
-   "name": "injury last season",
+   "name": "winning team",
    "channel": "current",
-   "detail": "Knee injury",
+   "detail": "Moore predicts about 50 wins",
    "until": "",
    "sources": [
-    "8d--aL_xxwE:p20",
-    "sf6Ga9k-r-Q:p2"
+    "keNupMSHp1Y:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low shutdown risk",
+   "channel": "current",
+   "detail": "Moore doubts Denver will rest him on purpose",
+   "until": "",
+   "sources": [
+    "keNupMSHp1Y:t6"
    ],
    "new_meaning": ""
   }
  ],
- "note": "He is the consensus number one pick on both sites, but the prices disagree: Yahoo values him at 61 USD with a 71 USD average cost, ESPN at 68 USD with an 82 USD average cost, and our league paid 87 USD last season. Expect him to go for 75 to 90 USD here. Any price near 55 to 60 USD is a steal. He fits any build, and punt TO teams lose least from his 3.4 turnovers. Early in the season, check that his knee is fine, that he plays about 35 minutes, and whether his assists hold near 10 per game.",
+ "note": "He is the consensus first pick for H2H categories. Prices are rising: Yahoo values him at 61 USD (average cost 71 USD), ESPN at 68 USD (average cost 81.4 USD), a recent mock sold him for 80 USD, and he went for 87 USD in our league last season. Expect to pay 80 to 90 USD, and grab him if the room lets him drop toward 55 USD. He fits any build and fits best in punt TO, because turnovers are his only weak category. Early in the season, check that he is playing about 35 minutes and getting about 10 assists, and watch the knee that cost him games last season.",
  "rejected": []
 }

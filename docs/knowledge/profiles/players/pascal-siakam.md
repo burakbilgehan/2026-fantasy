@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 17 | 13.8 | 58 | 32 | 24.7 | 24 | 25 |
+| 2026-27 | 17 | 13.8 | 58 | 32 | 25.1 | 24 | 25 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,26 +30,29 @@
 </details>
 
 **Current**
-- Tyrese Haliburton is back. The projected Indiana starting five is Haliburton, Nembhard, Nesmith, Siakam and Zubac. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=238), [08-10](https://youtu.be/sfCe7fS9daM?t=443))
-- Experts expect his assists to drop with Haliburton back, to about 3 to 3.2 per game. That could be a loss of about 1.5 assists. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=548), [10-01](https://youtu.be/EGdhmUgPAWY?t=635), [09-14](https://youtu.be/t4n9MAP2_14?t=1150), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1703))
-- The newest note expects him to lose some usage with Haliburton back, with his usage rate falling back under 30. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=548), [10-01](https://youtu.be/EGdhmUgPAWY?t=635))
-- In category leagues, take him somewhere in the 50 to 60 range. Pick 45 is too early. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=534), [09-30](https://youtu.be/BjXP9JODDSg?t=793), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1703))
-- ESPN's rank of 24 is far too high. Never take him that early in a category league. Last season he had a bigger role without Haliburton and still finished only 41st. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=567), [09-19](https://youtu.be/uarqbNA2dFk?t=2170), [09-22](https://youtu.be/QbdrhJd7LiA?t=1522))
-- With a season ending March 28, Indiana plays 3, 4 and 3 games in the fantasy playoff weeks. The expert calls that not ideal. The team has 15 back-to-backs. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034))
-- At 32, his age is a question. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1325))
+- He is in the projected Pacers starting five with Haliburton, Nembhard, Nesmith and Zubac. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=238), [08-10](https://youtu.be/sfCe7fS9daM?t=443))
+- Haliburton is back. The last time Siakam played next to him, his assists were way down. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=548), [08-11](https://youtu.be/OdDkXFhoKsc?t=1200))
+- Experts expect his assists to drop with Haliburton back. The newest call puts them at about 3 to 3.2 per game, a loss of up to about 1.5. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=548), [10-01](https://youtu.be/EGdhmUgPAWY?t=635), [09-14](https://youtu.be/t4n9MAP2_14?t=1150), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1703), [08-11](https://youtu.be/OdDkXFhoKsc?t=1200))
+- The newest note expects his usage to fall back under 30 with Haliburton back. Older notes said his usage should hold. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=548), [10-01](https://youtu.be/EGdhmUgPAWY?t=635), [09-14](https://youtu.be/t4n9MAP2_14?t=1150), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1703))
+- In category leagues, take him in the 50 to 60 range. Pick 45 is too early. There is value around a 58 ADP, less around 47. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=534), [09-30](https://youtu.be/BjXP9JODDSg?t=793), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1703))
+- ESPN's rank of about 24 to 25 is far too high. Never take him that early in a category league. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=567), [09-19](https://youtu.be/uarqbNA2dFk?t=2170), [09-22](https://youtu.be/QbdrhJd7LiA?t=1522))
+- Indiana plays 3-4-3 games in our fantasy playoff weeks (season ending March 28), which is not ideal. The team has 15 back-to-backs. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034))
+- Coach Rick Carlisle likes to keep minutes down and rest players on back-to-backs, even when they are healthy. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=122), [09-22](https://youtu.be/QbdrhJd7LiA?t=264), [09-16](https://youtu.be/2A2JbUN-kc0?t=870))
+- Without Haliburton last season he played more minutes, with more usage and assists, and still finished only 41st. (fact, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1522))
+- Age is a question for him at 32. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1325))
+- Indiana is projected to win about 46 to 48 games and finish as a top-six seed in the East. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1611), [08-10](https://youtu.be/sfCe7fS9daM?t=1748), [07-20](https://youtu.be/-KS_AZjZnw4?t=1526), [07-30](https://youtu.be/TiiaNZCJNs8?t=2050))
 
 **Durable**
-- Points are his best category. His FG% on good volume and his rebounds also help. (fact, 2026-10-04; stats)
-- He is a much better points league player than a category league player. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=523))
-- He is poor in the defensive stats and is not a great free throw shooter. His FT% is weak for his position, and his blocks are low for a forward or center. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1154), stats)
-- The last time he played alongside Haliburton, his assists were way down. (fact, 2026-08-11; [08-11](https://youtu.be/OdDkXFhoKsc?t=1200))
-- His production is extremely consistent from game to game, at about 22 points, 6 rebounds and 4 assists. He has one of the tightest game-to-game ranges in the NBA. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1350), [08-10](https://youtu.be/sfCe7fS9daM?t=1435))
+- He has center eligibility as well as forward. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3302))
+- He is a much better points league player than category league player. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=523))
+- FT% is his weakest category and is weak for a forward or center. He is also poor in defensive stats, with few blocks for his position. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1154), stats)
+- His production is extremely consistent, about 22 points, 6 rebounds and 4 assists a game. He had one of the tightest game-to-game ranges in the NBA. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1350), [08-10](https://youtu.be/sfCe7fS9daM?t=1435))
 - He plays through minor problems and plays a lot when he is able to. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1358))
 
 **Tags**
-- Current: `role down` (Lower assists and usage expected with Haliburton back), `bust candidate` (At ESPN rank 24 and ESPN price), `sites disagree on price` (Yahoo rank 58 and 17 USD, ESPN rank 24 and 32 USD), `bad playoff schedule` (3-4-3 games in weeks 19 to 21)
-- Durable: `punt FT fit` (About 72% FT on about 5 attempts per game), `points league player` (Rated about 30 in points leagues versus 50 to 60 in categories), `age decline watch` (Age 32), `consistent` (One of the tightest game-to-game ranges in the NBA)
+- Current: `role down` (Assists and usage expected to drop with Haliburton back), `usage competition` (Shares the ball with a returning Haliburton), `bust candidate` (At ESPN rank 24 and ESPN ADP of about 24 to 26), `sites disagree on price` (Yahoo rank 58 and 17 USD vs ESPN rank 24 and 32 USD), `bad playoff schedule` (3-4-3 games in weeks 19 to 21 for a March 28 end), `winning team` (Projected 46 to 48 wins)
+- Durable: `punt FT fit` (About 72% FT, the weakest part of his profile), `consistent` (One of the tightest game-to-game ranges in the NBA), `points league player` (Experts rank him about 30 in points leagues but 50 to 60 in categories), `plays every game` (Plays through problems; 80 and 78 games in 2023-24 and 2024-25, 62 last season), `age decline watch` (Age 32)
 
-**Note.** Experts put his category value in the 50 to 60 range. That is in line with Yahoo (rank 58, 17 USD value, 13.8 USD average cost) and well below ESPN (rank 24, 32 USD) and the 25 USD he cost in our league last season. A price in the mid to high teens looks fair, and paying 25 USD or more repeats the overpay the experts warn about. He fits best in punt FT% builds because his scoring and FG% stay useful there. Early in the season, check his assists and usage next to Haliburton, and keep in mind his weak 3-4-3 playoff schedule.
+**Note.** The experts' 50 to 60 range in category leagues matches his Yahoo rank of 58 and Yahoo value of 17 USD, so expect to pay about 15 to 20 USD. Our league paid 25 USD last season and ESPN values him at 32 USD, and both are too much for a player whose assists and usage should fall with Haliburton back. His FT% is weak, his scoring is steady and he has F and C eligibility, so he fits punt FT builds best. Early in the season, check his assists and shot volume next to Haliburton (Carlisle may limit Haliburton's minutes at first). Also keep in mind the 3-4-3 playoff schedule.
 
-<sub>18 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>19 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

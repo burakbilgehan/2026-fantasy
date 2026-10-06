@@ -11,29 +11,29 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Jay Huff, PF Obi Toppin, PG T.J. McConnell, SF Kelly Oubre Jr., SG Ben Sheppard
 
 **Current**
-- Projected starting five: Tyrese Haliburton, Andrew Nembhard, Aaron Nesmith, Pascal Siakam and Ivica Zubac. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=238), [08-10](https://youtu.be/sfCe7fS9daM?t=443), stats)
-- If Kelly Oubre Jr. starts, he would replace Aaron Nesmith. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=238))
-- Projected bench rotation: Kelly Oubre Jr. as sixth man, then Obi Toppin, Jay Huff, T.J. McConnell and Jarace Walker. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1308))
-- Jay Huff is the backup center. Micah Potter is gone. (fact, 2026-10-01; [09-14](https://youtu.be/t4n9MAP2_14?t=1534), [07-20](https://youtu.be/-KS_AZjZnw4?t=1526), [10-01](https://youtu.be/EGdhmUgPAWY?t=1308))
-- How Carlisle splits center minutes between Zubac and Huff is a big open question. There may be more experimenting at backup center than in past years. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=170), [08-10](https://youtu.be/sfCe7fS9daM?t=1287))
+- The projected starting five is Haliburton, Nembhard, Nesmith, Siakam and Zubac. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=238), [08-10](https://youtu.be/sfCe7fS9daM?t=443), stats)
+- If Kelly Oubre Jr. starts, he would take Nesmith's spot. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=238))
+- The projected bench rotation is Oubre as sixth man, then Toppin, Huff, McConnell and Jarace Walker. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1308))
+- How Carlisle splits center minutes between Zubac and Huff is a big open question. There may be more experimenting at center than in past years. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=170), [08-10](https://youtu.be/sfCe7fS9daM?t=1287))
 - Center depth behind Huff is weak: Larry Nance Jr. or Kobe Brown. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1884))
-- Fantasy playoff schedule for our March 28 end is 3-4-3 games, with one back-to-back in each of weeks 20 and 21. That is not ideal. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034), stats)
-- Indiana has 15 back-to-backs, a middle-of-the-league count. With Carlisle's habit of resting players on back-to-backs, expect some missed games from the starters. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034), [09-16](https://youtu.be/2A2JbUN-kc0?t=870), stats)
-- Lloyd expects Carlisle to manage Haliburton's minutes early in the season. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=2289))
+- The fantasy playoff schedule is not ideal for our March 28 end. It has 3, 4 and 3 games in weeks 19 to 21, with a back-to-back in both week 20 and week 21. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034), stats)
+- The team has 15 back-to-backs and a coach who rests players on them. So IND players carry real rest risk, including in playoff weeks 20 and 21. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034), [09-16](https://youtu.be/2A2JbUN-kc0?t=870), stats)
+- Carlisle is expected to manage Haliburton's minutes early in the season. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=2289))
+- Jay Huff is the backup center. Micah Potter is gone. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1534), [07-20](https://youtu.be/-KS_AZjZnw4?t=1526))
 - This lineup loses a lot of shooting but should be better on defense. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=532))
-- Being close to the first apron limited the team's offseason spending. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=320))
-- Indiana is expected to be a good team. Tony projects 47 to 48 wins. Josh projects 46 wins and a top-six seed in the East. Low risk of tanking. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1611), [08-10](https://youtu.be/sfCe7fS9daM?t=1748), [07-30](https://youtu.be/TiiaNZCJNs8?t=2050), [07-20](https://youtu.be/-KS_AZjZnw4?t=1526), stats)
+- Experts expect a good team, with projections of 46 to 48 wins and a top-six seed in the East. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1611), [08-10](https://youtu.be/sfCe7fS9daM?t=1748), [07-30](https://youtu.be/TiiaNZCJNs8?t=2050), [07-20](https://youtu.be/-KS_AZjZnw4?t=1526))
 - The window with this core may only be one or two years. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1508))
+- Being close to the first apron limited the team's offseason spending. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=320))
 
 **Durable**
-- Coach Rick Carlisle keeps regular-season minutes low, even for healthy players. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=122), [09-22](https://youtu.be/QbdrhJd7LiA?t=264), [09-16](https://youtu.be/2A2JbUN-kc0?t=870), [08-10](https://youtu.be/sfCe7fS9daM?t=1146))
-- Carlisle limits his starting center's minutes and runs backup centers through the rotation, as he did with Myles Turner. Center minutes changed constantly last season. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=170), [09-14](https://youtu.be/t4n9MAP2_14?t=1534), [08-10](https://youtu.be/sfCe7fS9daM?t=1146))
-- Carlisle rests players on back-to-backs. (fact, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=870))
+- Coach Rick Carlisle keeps regular-season minutes low and cuts minutes even for healthy players. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=122), [09-22](https://youtu.be/QbdrhJd7LiA?t=264), [09-16](https://youtu.be/2A2JbUN-kc0?t=870), [08-10](https://youtu.be/sfCe7fS9daM?t=1146))
+- Carlisle limits his starting center's minutes and runs backup centers through the rotation, as he did with Myles Turner. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=170), [09-14](https://youtu.be/t4n9MAP2_14?t=1534), [08-10](https://youtu.be/sfCe7fS9daM?t=1146))
+- Carlisle likes to rest players on back-to-backs. (fact, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=870))
 
 **Tags**
-- Current: `bad playoff schedule` (3-4-3 games in weeks 19 to 21 (10 total, rank 17 of 30), with back-to-backs in weeks 20 and 21.), `minutes limit` (Carlisle keeps minutes low for healthy players, mostly starting centers (Zubac). Haliburton expected to be managed early.), `winning team` (Projected 46 to 48 wins and a top-six East seed. Win total 44.5.)
-- Durable: `load management` (Carlisle rests players on back-to-backs.)
+- Current: `winning team` (Experts project 46 to 48 wins and a top-six seed in the East.), `bad playoff schedule` (3-4-3 games in weeks 19 to 21 for a March 28 end, with back-to-backs in weeks 20 and 21.), `deep rotation` (Rick Carlisle cuts minutes for healthy players, most of all for starting centers, and rests players on back-to-backs.)
+- Durable: none
 
-**Note.** Indiana is expected to win, so tanking is not a worry. The problems are Carlisle's low minutes, his rest on back-to-backs and a weak 3-4-3 playoff schedule for our March 28 end. These hurt Zubac most, because Carlisle caps his starting centers. They also hurt Haliburton early, since his minutes are expected to be managed. Jay Huff gains as the backup center and handcuff. Early on, watch how the minutes split between Zubac and Huff, how fast Haliburton's minutes go up, and whether Oubre takes Nesmith's starting spot.
+**Note.** Rick Carlisle keeps minutes low, so IND starters lose counting stats. Zubac is hit hardest because Carlisle limits his starting centers, which keeps Huff alive as a handcuff, and Haliburton should have his minutes managed early. The playoff schedule is poor (3-4-3 games with two back-to-backs), so watch the Zubac and Huff minutes split, Haliburton's minutes and whether Oubre takes Nesmith's starting spot.
 
-<sub>20 notes. Built 2026-10-04 with claude-opus-5-5 high, team prompt v1.</sub>
+<sub>20 notes. Built 2026-10-05 with claude-opus-5-5 high, team prompt v1.</sub>

@@ -3,216 +3,218 @@
 
 <sub>Proposed by the synthesis, not on the user's list.</sub>
 
-**Summary.** Most of our draft pool has some minutes battle, and the battles that matter for prices are the doubted starters who sell at a discount and the late pairs fighting for one role. Buy the discount only when you expect the player to get minutes, not just a start. At the end of the auction, buy both cheap candidates for one role and cut the loser once the minutes are clear.
+**Summary.** Minutes battles lower prices. They create value only if you read the rotation correctly, and even two or three lost minutes a game cut a player's value. In the late rounds, buy both candidates in a battle cheaply and cut the loser in the first weeks. In the mid rounds, pay the discounted price only if you believe the player keeps his minutes, because a starting job alone does not guarantee them.
 
-## Why minutes battles move auction prices
+## Why battles move prices
 
-When some drafters think a player might lose his starting job or share minutes, his price drops. That drop is value if you believe he keeps the role. In our auction, bid on a doubted starter only up to the price his full role justifies. Stop there, even if the room keeps going. ([09-21](https://youtu.be/egRrai3Ax38?t=822))
+When a team has too many players at the same positions, the minutes get spread thin. Coaches do not play 12 or more players, so some good players lose playing time unless injuries open a spot. Fewer players from those teams are worth drafting. Project the rotation before you reach for anyone. ([07-02](https://youtu.be/P6TNP-g0wzY?t=2340), [08-14](https://youtu.be/owlM6b8oUd0?t=57), [07-27](https://youtu.be/0AptxcRW0RE?t=357))
 
-Small losses count. Losing two or three minutes a game limits a player's upside and lowers his draft value. When a player is in a battle, price him on the minutes you expect, not on his best case. ([06-25](https://youtu.be/lOshTzDA4SA?t=1357))
+Losing even two to three minutes a game limits a player's upside and lowers his draft value. When drafters fear a player will lose his job or share minutes, his price falls. That drop is value for you if you believe he keeps the role. ([06-25](https://youtu.be/lOshTzDA4SA?t=1357), [09-21](https://youtu.be/egRrai3Ax38?t=822))
 
-Crowded rosters cap minutes. Coaches do not play 12 or more players, so on a team stacked at one position some good players lose playing time and fewer are worth drafting. Only injuries open those minutes. With 144 players drafted, most deep-bench players on crowded teams belong on waivers, not on your auction list. ([08-14](https://youtu.be/owlM6b8oUd0?t=57), [07-02](https://youtu.be/P6TNP-g0wzY?t=2340), [07-27](https://youtu.be/0AptxcRW0RE?t=357))
+In our pool, almost every player on the watch list has a minutes battle. Most of them sit near or below the 144th pick. The battles that matter most for auction prices are the mid-round ones. These are players the experts still rate around the top 50 to 80, whose prices fell because of a rival. The rest are end-of-draft or waiver battles, and those are where the hedge works. ([Michael Porter Jr.](../profiles/players/michael-porter.md), [Ryan Rollins](../profiles/players/ryan-rollins.md), [Kel'el Ware](../profiles/players/kelel-ware.md), [De'Aaron Fox](../profiles/players/deaaron-fox.md), [Jarrett Allen](../profiles/players/jarrett-allen.md))
 
 ## A starting job does not guarantee minutes
 
-A starting spot can matter less than minutes. A bench player can play about as many minutes as a nominal starter. Do not pay extra just because a player is named the starter in preseason. ([08-04](https://youtu.be/_WjOjp6Qu8E?t=683))
+A starting spot can matter less than minutes. A bench player can play about as many minutes as a nominal starter. Judge every battle by minutes and by who closes games, not by who is named in the starting five. ([08-04](https://youtu.be/_WjOjp6Qu8E?t=683))
 
-In the first two weeks, judge each player by minutes per game over several games, not by the lineup card. A starter who plays two or three minutes less than you priced him for has lost real value. A bench player who gets starter minutes is worth keeping or claiming with FAB. ([08-04](https://youtu.be/_WjOjp6Qu8E?t=683), [06-25](https://youtu.be/lOshTzDA4SA?t=1357))
+For our league, check each player against his own minutes target in the player notes. Most targets fall between 24 and 30 minutes a game. A bench big who closes games, or a sixth man projected near 29 minutes, can beat a starter who plays 20. A starter who sits every back-to-back also loses games, not just minutes. On a team with many back-to-backs, that cuts his weekly totals. ([08-04](https://youtu.be/_WjOjp6Qu8E?t=683), [06-25](https://youtu.be/lOshTzDA4SA?t=1357), [Collin Murray-Boyles](../profiles/players/collin-murray-boyles.md), [Dylan Harper](../profiles/players/dylan-harper.md), [Mitchell Robinson](../profiles/players/mitchell-robinson.md), [Kristaps Porziņģis](../profiles/players/kristaps-porzingis.md))
 
 ## The hedge: buy both, cut the loser
 
-Two notes describe the same late-draft hedge. Draft both players fighting for the same starting job or minutes, see which one wins the role, then drop the other. ([09-10](https://youtu.be/dlo7L8Ru91A?t=1799), [08-24](https://youtu.be/g31YlwRe0XQ?t=2388))
+The experts give a late-draft hedge. Draft both candidates in a battle for a starting job or minutes. See which one wins the role, then drop the other. ([09-10](https://youtu.be/dlo7L8Ru91A?t=1799), [08-24](https://youtu.be/g31YlwRe0XQ?t=2388))
 
-Use it only at the end of our auction, where these players cost 1 to 3 USD each. We roster only 12 players with 2 bench spots, and a hedge pair takes two of them. So plan for one pair, or two if you can start one member of a pair. IL slots do not help, because both players are healthy. ([09-10](https://youtu.be/dlo7L8Ru91A?t=1799), [08-24](https://youtu.be/g31YlwRe0XQ?t=2388))
+In our league, use it only in the last rounds, when both candidates cost about 1 to 3 USD. We have only 2 bench spots, so a healthy hedge pick uses a bench spot until the battle is settled. Plan on one hedge pair, two at most. An injured candidate can wait in one of our 4 IL slots without using a bench spot. Waivers run daily on FAB, and we get up to 6 adds a week. So cut the loser as soon as the first two weeks show who gets the minutes. ([09-10](https://youtu.be/dlo7L8Ru91A?t=1799), [08-24](https://youtu.be/g31YlwRe0XQ?t=2388), [Yanic Konan Niederhäuser](../profiles/players/yanic-konan-niederhauser.md), [Neemias Queta](../profiles/players/neemias-queta.md), [Khaman Maluach](../profiles/players/khaman-maluach.md))
 
-Cut the loser as soon as the minutes show who won. Waivers run daily and allow up to 6 adds a week, so the open spot is cheap to refill. Do not hedge in the middle rounds. Paying two real prices for one role wastes budget that a \$200 auction cannot spare. ([09-10](https://youtu.be/dlo7L8Ru91A?t=1799), [08-24](https://youtu.be/g31YlwRe0XQ?t=2388), [06-25](https://youtu.be/lOshTzDA4SA?t=1357))
+If the second candidate is a waiver-level player, do not spend a pick on him. Draft the favorite and keep FAB ready for the rival in case he wins the job. If you buy a mid-round player whose job is at risk, his rival is often a 1 USD pick at the end of the auction. That makes a cheap hedge. ([08-24](https://youtu.be/g31YlwRe0XQ?t=2388), [Oso Ighodaro](../profiles/players/oso-ighodaro.md), [Luguentz Dort](../profiles/players/luguentz-dort.md), [Kevin Porter Jr.](../profiles/players/kevin-porter.md), [Ryan Rollins](../profiles/players/ryan-rollins.md))
 
-## Where the notes pull in different directions
+## Hedge or bet: the notes pull two ways
 
-The notes stress different things. One says the price drop on a player who might lose his starting job is value if you think he starts. Another says a starting spot can matter less than minutes, since a bench player can play as much as a nominal starter. Both can be true. A discount on a doubted starter is value only if you expect him to keep his minutes, because losing two or three minutes already cuts his value. ([09-21](https://youtu.be/egRrai3Ax38?t=822), [08-04](https://youtu.be/_WjOjp6Qu8E?t=683), [06-25](https://youtu.be/lOshTzDA4SA?t=1357))
+The notes do not fully agree on how to play a battle. Two notes say to hedge: own both candidates and keep the winner. Another says the price drop is itself the value, so buy the player outright if you think he starts. A third warns you to project the rotation before you reach. In practice, hedge in the last rounds, where both candidates are nearly free. In the mid rounds, buying both costs too much and a bench spot. There, make a call on the rotation and buy the discounted player only at his lowered price. ([09-10](https://youtu.be/dlo7L8Ru91A?t=1799), [08-24](https://youtu.be/g31YlwRe0XQ?t=2388), [09-21](https://youtu.be/egRrai3Ax38?t=822), [07-02](https://youtu.be/P6TNP-g0wzY?t=2340))
 
-## Checklist for the draft and the first weeks
+## What to check and when
 
-Before the 2026-10-18 auction, sketch the likely rotation for every target who is in a battle. If his team is crowded at his position, lower your bid or move him to your waiver list. ([07-02](https://youtu.be/P6TNP-g0wzY?t=2340), [07-27](https://youtu.be/0AptxcRW0RE?t=357), [08-14](https://youtu.be/owlM6b8oUd0?t=57))
+From now until the draft on 2026-10-18, follow preseason lineups and injury news. Several battles depend on a player's health right now, and an injury can decide the job before the season starts. ([Morez Johnson Jr.](../profiles/players/morez-johnson.md), [Isaiah Stewart](../profiles/players/isaiah-stewart.md), [Kristaps Porziņģis](../profiles/players/kristaps-porzingis.md), [Dereck Lively II](../profiles/players/dereck-lively.md))
 
-In the opening weeks, check minutes per game, who closes games and who starts, in that order. Drop the loser of any hedge pair, and use FAB on any undrafted player who wins a role. ([09-10](https://youtu.be/dlo7L8Ru91A?t=1799), [08-24](https://youtu.be/g31YlwRe0XQ?t=2388), [08-04](https://youtu.be/_WjOjp6Qu8E?t=683))
+In the first two to three weeks, check minutes against each player's target, who closes games and who rests on back-to-backs. Drop hedge losers quickly. If a rival you left on waivers wins the job, bid FAB for him. ([08-04](https://youtu.be/_WjOjp6Qu8E?t=683), [06-25](https://youtu.be/lOshTzDA4SA?t=1357), [09-10](https://youtu.be/dlo7L8Ru91A?t=1799), [07-27](https://youtu.be/0AptxcRW0RE?t=357))
 
-Keep a watch list of the backups on crowded teams. Injuries are what open their minutes, and the first one to get starter minutes is the claim to make. ([07-27](https://youtu.be/0AptxcRW0RE?t=357), [08-14](https://youtu.be/owlM6b8oUd0?t=57))
+Battles can open again later. Watch trades before the 2027-03-04 deadline and injuries to starters. Also check playoff schedules for weeks 19 to 21, which end 2027-03-28. A player who wins a role late on a team with a strong playoff schedule can be a useful pickup. ([07-27](https://youtu.be/0AptxcRW0RE?t=357), [Mark Williams](../profiles/players/mark-williams.md), [Josh Minott](../profiles/players/josh-minott.md), [P.J. Washington](../profiles/players/pj-washington.md))
 
 ## Players
 
 Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
-### Discount targets
+### Battle discount
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Michael Porter Jr.](../profiles/players/michael-porter.md) | BKN | F | 60 | 4.2 | 42 | 10.2 | 10 | Randle cuts his usage and Minott and Clowney may take minutes, which pushes his price down, so 10 to 17 USD is value if his usage holds. |
-| [Jarrett Allen](../profiles/players/jarrett-allen.md) | CLE | C | 65 | 2.8 | 49 | 7.0 | 13 | Mobley may play more center and close games, so stop at 10 to 13 USD and check that Allen keeps 27 or more minutes. |
-| [De'Aaron Fox](../profiles/players/deaaron-fox.md) | SAS | G | 74 | 6.2 | 52 | 10.2 | 21 | Harper is expected to play more and Castle runs the offense, so pay 10 to 13 USD, not last year's 21 USD, and check that his minutes stay near 31. |
-| [Ryan Rollins](../profiles/players/ryan-rollins.md) | MIL | G | 62 | 2.6 | 105 | 1.6 | not drafted | Kevin Porter Jr. is the main threat to his start and the sites disagree on his price, so he is a cheap mid-round buy if he keeps about 30 minutes. |
-| [Damian Lillard](../profiles/players/damian-lillard.md) | POR | G | 67 | 5.0 | 70 | 5.4 | not drafted | He shares the ball with Morant, Holiday, Henderson and Avdija, but at about 5 USD he is cheap FT%, threes and assists if his minutes and back-to-backs hold. |
-| [Kel'el Ware](../profiles/players/kelel-ware.md) | MIL | C | 71 | 4.6 | 67 | 2.6 | 5 | Jenkins has not decided whether Ware starts next to Turner, which keeps him cheap, and 30 minutes would bring the top 40 upside the experts see. |
-| [Ty Jerome](../profiles/players/ty-jerome.md) | MEM | G | 114 | 2.0 | 72 | 2.5 | not drafted | Some drafters expect Pippen Jr. to start, which keeps Jerome near 2 USD, so check that he starts and gets 27 to 28 minutes. |
-| [CJ McCollum](../profiles/players/cj-mccollum.md) | ATL | G | 109 | 1.0 | 82 | 1.8 | 2 | The newest view is that he starts over Dort, so 2 to 5 USD for a 10th to 12th man is value if he plays about 30 minutes. |
+| [Michael Porter Jr.](../profiles/players/michael-porter.md) | BKN | F | 60 | 4.2 | 42 | 10.4 | 10 | Randle cuts his usage and Minott and Clowney may take minutes, which lowers his price, so check his usage share next to Randle and his hamstring early. |
+| [Jarrett Allen](../profiles/players/jarrett-allen.md) | CLE | C | 65 | 2.8 | 49 | 6.9 | 13 | Mobley may play more center and close games, so let others overpay and check that Allen keeps 27 or more minutes. |
+| [De'Aaron Fox](../profiles/players/deaaron-fox.md) | SAS | G | 74 | 6.2 | 52 | 10.4 | 21 | Harper is expected to play more in a crowded guard group with Castle, so do not pay last season's price, and check his burst after the ankle sprain. |
+| [Ryan Rollins](../profiles/players/ryan-rollins.md) | MIL | G | 62 | 2.6 | 105 | 1.6 | not drafted | Kevin Porter Jr. is the main threat to his starting spot in a crowded backcourt, so check that he starts and keeps about 30 minutes. |
+| [Kel'el Ware](../profiles/players/kelel-ware.md) | MIL | C | 71 | 4.6 | 67 | 2.5 | 5 | Jenkins has not decided whether he starts at power forward next to Turner or backs him up, and at 30 minutes the experts see top 40 upside. |
+| [Day'Ron Sharpe](../profiles/players/dayron-sharpe.md) | BKN | C | 91 | 5.6 | 136 | 0.3 | not drafted | The experts see top 100 value at 24 minutes if he starts at center ahead of Mo Wagner and Danny Wolf, and his low price reflects the doubt. |
+| [Collin Murray-Boyles](../profiles/players/collin-murray-boyles.md) | TOR | F,C | 111 | 1.0 | 174 | 0.3 | not drafted | He comes off the bench behind Poeltl but is expected to close games, a clear case where minutes matter more than starting. |
+| [CJ McCollum](../profiles/players/cj-mccollum.md) | ATL | G | 109 | 1.0 | 82 | 2.0 | 2 | The experts think his rank is too low, and Lu Dort is the main threat to his starting spot, so check that he keeps about 30 minutes. |
+| [Ty Jerome](../profiles/players/ty-jerome.md) | MEM | G | 114 | 2.0 | 72 | 2.7 | not drafted | Some drafters think Pippen Jr. will start, which keeps Jerome cheap, so check that he starts and gets 27 to 28 minutes in an 11-man rotation. |
+| [Jusuf Nurkić](../profiles/players/jusuf-nurkic.md) | UTA | C | 105 | 1.0 | 168 | 0.2 | not drafted | The experts see top 70 to 80 upside if he beats Ace Bailey for Utah's fifth starting spot, but his injury history limits what you should pay. |
 
-### Bid low, let others reach
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [Payton Pritchard](../profiles/players/payton-pritchard.md) | BOS | G | 75 | 6.0 | 98 | 2.0 | 16 | His starting spot is unclear and depends on Conley backing up, so pay only single digits for a likely bench role, not last year's 16 USD. |
-| [Stephon Castle](../profiles/players/stephon-castle.md) | SAS | G | 76 | 6.6 | 92 | 10.3 | 1 | Harper and Fox crowd his minutes and the experts fade him, so stay far below Yahoo's 13 USD value. |
-| [Dylan Harper](../profiles/players/dylan-harper.md) | SAS | G | 83 | 5.4 | 101 | 3.6 | not drafted | He is expected to start the season on the bench behind Fox and Castle, so bid only low single digits. |
-| [Darryn Peterson](../profiles/players/darryn-peterson.md) | UTA | G | 115 | 8.2 | 123 | 1.9 | not drafted | One note says he may not start next to Markkanen and George, so skip Yahoo's 8.2 USD average cost and treat him as a cheap bench stash. |
-
-### Late flyers
+### Pay only the low price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Reed Sheppard](../profiles/players/reed-sheppard.md) | HOU | G | 149 | 1.0 | 58 | 1.7 | 4 | Experts expect him off the bench behind VanVleet, Thompson and Smart, so he is a 1 to 3 USD flyer whose 28 to 30 minute role needs a guard injury. |
-| [Quentin Grimes](../profiles/players/quentin-grimes.md) | LAL | G,F | 126 | 1.0 | 118 | 0.7 | not drafted | He is one of four names for two open Lakers starting spots, so he is a 1 USD flyer who needs a start and about 30 minutes. |
-| [Nic Claxton](../profiles/players/nic-claxton.md) | CHI | C | 89 | 2.6 | 119 | 1.0 | 4 | Jalen Smith and Zach Collins could cut his center minutes, so a 1 to 3 USD bid is right. |
-| [Tobias Harris](../profiles/players/tobias-harris.md) | SAS | F | 151 | 0.0 | 94 | 0.9 | 1 | He is a 1 USD filler at most who must keep the starting power forward spot and about 28 minutes in a deep Spurs group. |
-| [Nikola Vučević](../profiles/players/nikola-vucevic.md) | ORL | C | 177 | 0.0 | 103 | 1.1 | 17 | He backs up Carter Jr. and fights Bitadze for minutes, so pay 1 to 2 USD at most. |
-| [Ayo Dosunmu](../profiles/players/ayo-dosunmu.md) | MIN | G | 104 | 1.0 | 108 | 1.0 | not drafted | He is expected off the bench in a fight with Josh Green and Kuminga for the fifth start, so pay a few USD at most and check for 29 or more minutes. |
-| [Julian Champagnie](../profiles/players/julian-champagnie.md) | SAS | F | 179 | 1.0 | 111 | 0.4 | not drafted | He fights Harris for starting power forward minutes and loses some to Harper, so take him last for 1 USD or leave him to waivers. |
-| [Kyshawn George](../profiles/players/kyshawn-george.md) | WAS | G,F | 119 | 1.0 | 126 | 0.6 | 2 | His start is not guaranteed in a crowded wing group, so he is only a 1 USD filler. |
-| [Jrue Holiday](../profiles/players/jrue-holiday.md) | POR | G | 136 | 0.0 | 131 | 0.5 | 3 | He is projected for lower usage in a crowded Portland backcourt, so pay 1 USD at most or leave him on waivers. |
-| [P.J. Washington](../profiles/players/pj-washington.md) | DAL | F,C | 133 | 0.0 | 151 | 0.1 | 1 | The crowded Dallas frontcourt makes him a 1 USD bench pick at most, and the 4-4-4 playoff schedule makes him a later pickup. |
-| [Moussa Diabaté](../profiles/players/moussa-diabate.md) | CHA | C | 138 | 0.0 | 160 | 0.1 | not drafted | He must keep the start and about 25 minutes against the rookie center and Kalkbrenner, or you drop him. |
-| [Sandro Mamukelashvili](../profiles/players/sandro-mamukelashvili.md) | LAL | F,C | 139 | 1.0 | - | 0.0 | not drafted | He fights for a Lakers start and for backup center minutes behind Looney, so he is a 1 to 2 USD flyer at most. |
-| [Jaime Jaquez Jr.](../profiles/players/jaime-jaquez.md) | MIL | G,F | 140 | 1.0 | 148 | 0.8 | not drafted | Milwaukee's thin power forward group gives him a path to a start, but he is a last-dollar pick until he wins it. |
-| [Jerami Grant](../profiles/players/jerami-grant.md) | MEM | F | 193 | 0.0 | 147 | 0.1 | not drafted | His start in a crowded Memphis forward group is unclear, so he is a 1 USD final pick for punt FG% threes. |
-| [Ajay Mitchell](../profiles/players/ajay-mitchell.md) | OKC | G | 145 | 0.0 | 243 | 0.2 | not drafted | Cason Wallace is expected to start ahead of him, so he is worth 1 USD at most. |
-| [Tari Eason](../profiles/players/tari-eason.md) | HOU | G,F | 163 | 0.0 | 176 | 0.1 | 2 | Durant and Smith block his minutes, so he is a 1 USD last pick at most, and only an injury opens his 32-minute upside. |
-| [Christian Braun](../profiles/players/christian-braun.md) | DEN | G,F | 173 | 0.0 | 212 | 0.0 | 7 | He is the starter most likely to lose minutes to DeRozan, so take him only as a 1 USD last pick or leave him on waivers. |
-| [Isaiah Stewart](../profiles/players/isaiah-stewart.md) | MEM | F,C | 174 | 0.0 | 146 | 0.0 | not drafted | Edey's foot decides whether he starts, so he is worth 1 USD at most or an early waiver claim. |
+| [Stephon Castle](../profiles/players/stephon-castle.md) | SAS | G | 76 | 6.6 | 92 | 10.4 | 1 | He shares a deep guard group with Fox and Harper and the experts call him overdrafted, so he fits only punt TO or punt FT% builds at a modest price. |
+| [Dylan Harper](../profiles/players/dylan-harper.md) | SAS | G | 83 | 5.4 | 101 | 4.0 | not drafted | His projection assumes a jump to about 29 minutes even if he comes off the bench, so his value depends on minutes, not the start. |
+| [Payton Pritchard](../profiles/players/payton-pritchard.md) | BOS | G | 75 | 6.0 | 98 | 2.1 | 16 | Whether he starts or comes off the bench is not settled and the experts call him overpriced, so check whether he gets near last season's minutes. |
+| [Darryn Peterson](../profiles/players/darryn-peterson.md) | UTA | G | 115 | 8.2 | 123 | 1.8 | not drafted | He shares usage with Markkanen, George and Jaren Jackson Jr. and may not start, so treat him as a cheap upside stash. |
+| [Myles Turner](../profiles/players/myles-turner.md) | MIL | C | 101 | 1.0 | 93 | 1.0 | 20 | Ware may start next to him or take his minutes, so check that Jenkins gives him about 29 minutes. |
+| [Nic Claxton](../profiles/players/nic-claxton.md) | CHI | C | 89 | 2.6 | 119 | 1.0 | 4 | Jalen Smith and Zach Collins could take center minutes, so take him late and check that he plays close to 30 minutes. |
+| [Derik Queen](../profiles/players/derik-queen.md) | NOP | F,C | 96 | 5.0 | 95 | 1.8 | not drafted | Missi looks set to start at center, so Queen is a bench big whose top 50 upside depends on winning the job. |
+| [Kristaps Porziņģis](../profiles/players/kristaps-porzingis.md) | GSW | C | 152 | 1.0 | 80 | 1.1 | 21 | Horford is listed at center in the newest projected starting five, so check who starts and how often Porzingis rests on back-to-backs. |
+| [Reed Sheppard](../profiles/players/reed-sheppard.md) | HOU | G | 149 | 1.0 | 58 | 1.9 | 4 | Four guards stand between him and a big role, so he is a last-round flyer to drop if he does not reach 26 or more minutes. |
+| [Ayo Dosunmu](../profiles/players/ayo-dosunmu.md) | MIN | G | 104 | 1.0 | 108 | 1.1 | not drafted | He competes with Kuminga and Josh Green for the open fifth starting spot, so check whether he starts or plays about 30 minutes off the bench. |
 
-### Hedge pairs
+### Hedge pair flyers
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Myles Turner](../profiles/players/myles-turner.md) | MIL | C | 101 | 1.0 | 93 | 0.9 | 20 | He shares the Milwaukee frontcourt with Ware, so he is a late buy for a few USD who must hold about 29 minutes and fourth quarters. |
-| [Day'Ron Sharpe](../profiles/players/dayron-sharpe.md) | BKN | C | 91 | 5.6 | 136 | 0.3 | not drafted | His center split with Wagner and Wolf decides his value, and at 24 minutes or less he is a rank 100 player, so pay only a few USD late. |
-| [Derik Queen](../profiles/players/derik-queen.md) | NOP | F,C | 96 | 5.0 | 95 | 1.7 | not drafted | Missi likely starts at center, so Queen is a 1 to 3 USD flyer whose upside needs Missi to lose the job or Zion to sit. |
-| [Yves Missi](../profiles/players/yves-missi.md) | NOP | C | 143 | - | 164 | 0.0 | 2 | He must start over Queen and play clearly more than last season's 19.6 minutes, so he is worth 1 to 2 USD. |
-| [Jusuf Nurkić](../profiles/players/jusuf-nurkic.md) | UTA | C | 105 | 1.0 | 168 | 0.2 | not drafted | Experts expect him to start over Ace Bailey, so he is a 1 to 3 USD punt FT% center if he holds about 27 minutes. |
-| [Ace Bailey](../profiles/players/ace-bailey.md) | UTA | F | 159 | 0.0 | 127 | 0.4 | 1 | He fights Nurkic for the fifth starter spot, so take him at 1 USD as your last pick and drop him easily if he stays on the bench. |
-| [Kevin Porter Jr.](../profiles/players/kevin-porter.md) | MIL | G | 158 | 1.0 | 107 | 1.0 | 3 | He is Rollins's rival for the Milwaukee start, so pay 1 to 3 USD and drop him if he neither starts nor reaches 27 minutes. |
-| [Neemias Queta](../profiles/players/neemias-queta.md) | BOS | C | 113 | 1.0 | 117 | 0.6 | 1 | He fights Mitchell Robinson for Boston's center job and pays off at 1 to 3 USD if he starts and gets 26 to 27 minutes. |
-| [Mitchell Robinson](../profiles/players/mitchell-robinson.md) | BOS | C | 178 | 0.0 | 115 | 0.3 | not drafted | Queta is expected to start and Robinson is expected to sit every back-to-back, so he is a punt FT% stash, not a real target. |
-| [Khaman Maluach](../profiles/players/khaman-maluach.md) | PHX | C | 118 | 1.5 | 202 | 0.1 | not drafted | He fights Ighodaro for the start while Mark Williams is out, so pay 1 to 3 USD and check for 24 or more minutes. |
-| [Daniel Gafford](../profiles/players/daniel-gafford.md) | DAL | C | 120 | 1.0 | 114 | 0.5 | not drafted | He can start early while Lively and Johnson are hurt, so he is a 1 USD late pick at most, and you should track Lively's return. |
-| [Morez Johnson Jr.](../profiles/players/morez-johnson.md) | DAL | F | 208 | - | 166 | 0.0 | not drafted | He is a 1 USD flyer at most who becomes a waiver pickup if Dusty May starts him over Gafford for 25 to 30 minutes. |
-| [Jeremiah Fears](../profiles/players/jeremiah-fears.md) | NOP | G | 168 | 1.0 | 129 | 0.7 | not drafted | He fights Herb Jones for the last starting spot, so he is a 1 to 2 USD flyer who needs close to 30 minutes. |
-| [Herbert Jones](../profiles/players/herbert-jones.md) | NOP | G,F | 134 | - | 194 | 0.0 | 5 | A beat reporter favors Fears for the last start, so pay only 1 to 2 USD for a punt FG% steals source. |
-| [Gui Santos](../profiles/players/gui-santos.md) | GSW | F | 141 | - | 248 | 0.0 | not drafted | His note pairs him with Lendeborg as a 1 USD hedge for the same Golden State wing role. |
-| [Yaxel Lendeborg](../profiles/players/yaxel-lendeborg.md) | GSW | F | 144 | 1.0 | 173 | 0.4 | not drafted | Pair him with Santos for the same wing job and keep whichever one Kerr starts. |
-| [Isaiah Jackson](../profiles/players/isaiah-jackson.md) | LAC | C | 326 | - | 233 | 0.0 | 1 | He is a 1 USD last-round center who must keep the start over Lopez, and his value is expected to fade when Konan Niederhauser returns. |
-| [Scotty Pippen Jr.](../profiles/players/scotty-pippen.md) | MEM | G | 183 | - | 144 | 0.2 | not drafted | He backs up Jerome, so he is worth 1 USD at most and only if he gets about 24 minutes. |
+| [Neemias Queta](../profiles/players/neemias-queta.md) | BOS | C | 113 | 1.0 | 117 | 0.6 | 1 | He is expected to start over Mitchell Robinson, so drafting both late covers Boston's center job. |
+| [Mitchell Robinson](../profiles/players/mitchell-robinson.md) | BOS | C | 178 | 0.0 | 115 | 0.3 | not drafted | He is the other half of the Boston center battle, fits only punt FT% builds and is expected to sit back-to-backs. |
+| [Khaman Maluach](../profiles/players/khaman-maluach.md) | PHX | C | 118 | 1.5 | 202 | 0.1 | not drafted | He looks more likely than Ighodaro to start while Mark Williams is out, so check for 24 or more minutes. |
+| [Kevin Porter Jr.](../profiles/players/kevin-porter.md) | MIL | G | 158 | 1.0 | 107 | 1.1 | 3 | He is the main threat to Rollins's starting spot, which makes him a cheap hedge, but drop him if he neither starts nor reaches 27 minutes. |
+| [Ace Bailey](../profiles/players/ace-bailey.md) | UTA | F | 159 | 0.0 | 127 | 0.4 | 1 | He and Nurkic fight for Utah's fifth starting spot, so drop him quickly if he stays on the bench. |
+| [Jeremiah Fears](../profiles/players/jeremiah-fears.md) | NOP | G | 168 | 1.0 | 129 | 0.7 | not drafted | He and Herb Jones fight for the last New Orleans starting spot, a battle cheap enough to hedge by drafting both. |
+| [Herbert Jones](../profiles/players/herbert-jones.md) | NOP | G,F | 134 | - | 194 | 0.0 | 5 | He is the other side of the Fears battle and gives steals for punt FG% builds only if he wins the start. |
+| [Yves Missi](../profiles/players/yves-missi.md) | NOP | C | 143 | - | 164 | 0.0 | 2 | He needs to start over Queen and beat last season's minutes, and Zion or Bey closing games at center can still cut his role. |
+| [Quentin Grimes](../profiles/players/quentin-grimes.md) | LAL | G,F | 126 | 1.0 | 118 | 0.8 | not drafted | He is one of four names for two open Lakers starting spots, so check whether he starts and plays about 30 minutes. |
+| [Jake LaRavia](../profiles/players/jake-laravia.md) | LAL | F | 175 | - | 120 | 0.2 | not drafted | He fights Grimes and Mamukelashvili for two open starting spots, so keep him only if he plays closer to 27 minutes than 20. |
+| [Sandro Mamukelashvili](../profiles/players/sandro-mamukelashvili.md) | LAL | F,C | 139 | 1.0 | - | 0.0 | not drafted | He is a third candidate for the two open Lakers spots, so keep him only if he starts and plays close to 27 minutes. |
+| [Gui Santos](../profiles/players/gui-santos.md) | GSW | F | 141 | - | 248 | 0.0 | not drafted | His starting job is contested with Yaxel Lendeborg, and the note says to draft Lendeborg as a hedge and drop whoever loses. |
+| [Scotty Pippen Jr.](../profiles/players/scotty-pippen.md) | MEM | G | 183 | - | 144 | 0.2 | not drafted | Some drafters think he will start over Jerome, so he can hedge a Jerome pick but is worth keeping only at about 24 minutes. |
+| [Isaiah Jackson](../profiles/players/isaiah-jackson.md) | LAC | C | 326 | - | 233 | 0.0 | 1 | He starts over Brook Lopez in preseason scrimmages, but Konan Niederhauser's return will likely end his value. |
+| [Moussa Diabaté](../profiles/players/moussa-diabate.md) | CHA | C | 138 | 0.0 | 160 | 0.1 | not drafted | He must hold off the rookie center and Kalkbrenner for about 25 minutes, so drop him if he loses the job. |
+| [Daniel Gafford](../profiles/players/daniel-gafford.md) | DAL | C | 120 | 1.0 | 114 | 0.5 | not drafted | He can start early while Lively and Johnson are hurt, but he faces a crowded center group under a new coach. |
+| [Morez Johnson Jr.](../profiles/players/morez-johnson.md) | DAL | F | 208 | - | 166 | 0.0 | not drafted | He could start at center over Gafford once healthy, so check his lower leg injury and Lively's timeline before the draft. |
 
-### Waiver watch
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [Brook Lopez](../profiles/players/brook-lopez.md) | LAC | C | 160 | 0.0 | 112 | 0.2 | not drafted | Isaiah Jackson starts over him in preseason, so leave Lopez on waivers unless he gets back toward 30 minutes. |
-| [Jake LaRavia](../profiles/players/jake-laravia.md) | LAL | F | 175 | - | 120 | 0.2 | not drafted | He fights Grimes and Mamukelashvili for a start, so add him only if he plays closer to 27 minutes than 20. |
-| [Oso Ighodaro](../profiles/players/oso-ighodaro.md) | PHX | C | 170 | - | 122 | 0.5 | not drafted | Maluach looks more likely to start, so Ighodaro is a FAB add only if his minutes approach 27.6. |
-| [Saddiq Bey](../profiles/players/saddiq-bey.md) | NOP | F | 132 | 1.0 | 134 | 0.2 | not drafted | He is not in the projected starting five, so leave him on waivers unless he gets starter minutes. |
-| [Cam Spencer](../profiles/players/cam-spencer.md) | MEM | G | 233 | - | 143 | 0.0 | not drafted | He is a backup guard behind Jerome in an 11-man rotation, so skip him or spend 1 USD at most. |
-| [Dereck Lively II](../profiles/players/dereck-lively.md) | DAL | C | 166 | - | 143 | 0.1 | 3 | A broken foot keeps him out until around Thanksgiving, and Gafford and Johnson are ahead of him, so do not spend on him. |
-| [Kyle Filipowski](../profiles/players/kyle-filipowski.md) | UTA | F,C | 198 | 0.0 | 145 | 0.1 | not drafted | He shares frontcourt minutes with five players, so he matters only if Nurkic or Jackson Jr. gets hurt. |
-| [Pelle Larsson](../profiles/players/pelle-larsson.md) | MIA | G,F | 147 | - | - | - | not drafted | Klay Thompson's signing and Davion Mitchell's hold on point guard leave him on waivers unless he starts. |
-| [Aaron Nesmith](../profiles/players/aaron-nesmith.md) | IND | G,F | 150 | 0.0 | 177 | 0.0 | not drafted | Oubre could take his starting spot, so watch his FG% and role from waivers. |
-| [Collin Sexton](../profiles/players/collin-sexton.md) | LAL | G | 200 | 0.0 | 150 | 0.6 | not drafted | He is not expected to start, so watch only for a starting role or about 27 bench minutes. |
-| [Keldon Johnson](../profiles/players/keldon-johnson.md) | SAS | F | 206 | - | 152 | 0.1 | not drafted | As roughly the eighth man in a deep Spurs forward group, he needs a trade or an injury to get minutes. |
-| [Bennedict Mathurin](../profiles/players/bennedict-mathurin.md) | NOP | G,F | 156 | 0.0 | 187 | 0.1 | 4 | He comes off the bench in a crowded New Orleans rotation, so pick him up only if he gets close to 30 minutes. |
-| [Tim Hardaway Jr.](../profiles/players/tim-hardaway.md) | MIA | G,F | 254 | - | 156 | 0.0 | not drafted | He needs to win a starting job in a crowded Miami group before he is a threes streamer. |
-| [Luguentz Dort](../profiles/players/luguentz-dort.md) | ATL | G,F | 224 | - | 162 | 0.0 | not drafted | He is a bench wing behind McCollum, so only an Atlanta injury makes him a short-term pickup. |
-| [Ryan Kalkbrenner](../profiles/players/ryan-kalkbrenner.md) | CHA | C | 229 | - | 163 | 0.0 | not drafted | He matters only if Diabate loses the start or gets hurt. |
-| [Sam Hauser](../profiles/players/sam-hauser.md) | BOS | F | 181 | - | 167 | 0.0 | not drafted | Even if he starts over Scheierman, he is at most a short-term 3PM streamer. |
-| [Dennis Schröder](../profiles/players/dennis-schroder.md) | CHA | G | 171 | - | 210 | 0.0 | 1 | He backs up Coby White, so watch him only if White gets hurt. |
-| [Santi Aldama](../profiles/players/santi-aldama.md) | DAL | F | 176 | - | 171 | 0.0 | 3 | His value depends almost fully on Dallas frontcourt injuries giving him 25 to 28 minutes. |
-| [De'Anthony Melton](../profiles/players/deanthony-melton.md) | GSW | G | 245 | - | 180 | 0.0 | not drafted | The Golden State starting guard spot is unclear, and if he wins it with about 28 minutes, add him right away. |
-| [Bilal Coulibaly](../profiles/players/bilal-coulibaly.md) | WAS | G,F | 203 | - | 181 | 0.0 | not drafted | He needs to win the open fifth starter spot and 26 or more minutes to become a steals and blocks pickup. |
-| [Kevin Huerter](../profiles/players/kevin-huerter.md) | DET | G,F | 195 | - | 183 | 0.0 | not drafted | He must beat Prince for the last spot in Detroit's rotation before he is a threes option. |
-| [Isaiah Collier](../profiles/players/isaiah-collier.md) | UTA | G | 184 | - | 228 | 0.0 | not drafted | Experts expect 20 minutes at most behind George and Peterson, so watch him only if one of them misses time. |
-| [Kris Dunn](../profiles/players/kris-dunn.md) | LAC | G | 191 | - | 184 | 0.0 | not drafted | He is a projected sixth man who could start, and with about 28 minutes he becomes a steals pickup. |
-| [Scoot Henderson](../profiles/players/scoot-henderson.md) | POR | G | 185 | - | 206 | 0.0 | not drafted | He is a roughly 20-minute bench guard in a crowded Portland backcourt, and only an injury or a trade changes that. |
-| [Jordan Poole](../profiles/players/jordan-poole.md) | NOP | G | 186 | 0.0 | 240 | 0.1 | 10 | He sits in a crowded Pelicans guard group, so check only whether Mosley gives him real minutes. |
-| [Isaiah Joe](../profiles/players/isaiah-joe.md) | DET | G,F | 255 | - | 188 | 0.0 | not drafted | He is a threes streamer only if he takes Duncan Robinson's starting spot. |
-| [Naji Marshall](../profiles/players/naji-marshall.md) | DAL | G,F | 190 | - | 209 | 0.0 | not drafted | Both projections cut his minutes in a crowded Dallas wing group, so stream him only if he gets ball-handling minutes again. |
-| [GG Jackson](../profiles/players/gg-jackson.md) | MEM | F,C | 219 | - | 191 | 0.0 | not drafted | He is not in the projected Memphis starting five, so watch whether he wins small forward minutes. |
-| [Jared McCain](../profiles/players/jared-mccain.md) | OKC | G | 192 | 0.0 | 231 | 0.2 | not drafted | He is a bench guard behind Wallace and Mitchell and only a short-term threes pickup if his minutes rise. |
-| [Keon Ellis](../profiles/players/keon-ellis.md) | BKN | G,F | 257 | - | 193 | 0.0 | not drafted | Young Nets may take his minutes, so add him only if he gets close to 27 minutes. |
-| [Kyle Kuzma](../profiles/players/kyle-kuzma.md) | MIL | F | 194 | 0.0 | 223 | 0.0 | not drafted | Milwaukee will likely start a center at power forward, so Kuzma matters only if he starts and plays more than 26 minutes. |
-| [Derrick Jones Jr.](../profiles/players/derrick-jones.md) | LAC | F | 225 | - | 195 | 0.0 | not drafted | He starts while the Clippers are injured but loses value when Ingram and Beal return. |
-| [Danny Wolf](../profiles/players/danny-wolf.md) | BKN | F,C | 331 | - | 196 | 0.0 | not drafted | He splits center minutes with Sharpe and Wagner, so he is a FAB look only if he wins a big role. |
-| [Dylan Cardwell](../profiles/players/dylan-cardwell.md) | SAC | F,C | 197 | - | - | - | not drafted | He plays about 18 minutes behind Raynaud and Sabonis, so watch for Sabonis trade news first. |
-| [Al Horford](../profiles/players/al-horford.md) | GSW | F,C | 205 | 0.0 | 199 | 0.0 | 1 | Even if he starts while Porzingis is out, sitting all back-to-backs limits his weekly value. |
-| [Anfernee Simons](../profiles/players/anfernee-simons.md) | PHI | G | 199 | 0.0 | 221 | 0.1 | 7 | In a crowded Philadelphia guard rotation he needs to go clearly above 25 minutes before he is a threes pickup. |
-| [Jordan Walsh](../profiles/players/jordan-walsh.md) | BOS | F | 298 | - | 207 | 0.0 | not drafted | He may fall out of Boston's 10-man rotation, so look only if he tops last season's 17.9 minutes. |
-| [Keaton Wagler](../profiles/players/keaton-wagler.md) | LAC | G | 210 | 0.0 | 208 | 0.1 | not drafted | He backs up Garland, so check whether his minutes grow while Beal is out. |
-| [Gradey Dick](../profiles/players/gradey-dick.md) | LAC | G,F | 239 | - | 211 | 0.1 | not drafted | He has no clear path to minutes on the Clippers' bench. |
-| [Baylor Scheierman](../profiles/players/baylor-scheierman.md) | BOS | G,F | 296 | - | 213 | 0.0 | not drafted | He is a cheap waiver add only if he keeps the starting job and plays 23 or more minutes. |
-| [Bub Carrington](../profiles/players/bub-carrington.md) | WAS | G | 241 | - | 217 | 0.0 | not drafted | He projects behind Trae Young in a crowded group, so only an injury gives him more minutes. |
-| [Jaylen Wells](../profiles/players/jaylen-wells.md) | MEM | G,F | 217 | - | 230 | 0.0 | not drafted | Only a starting role in Memphis's 11-man rotation would make him worth adding. |
-| [Marcus Smart](../profiles/players/marcus-smart.md) | HOU | G | 218 | - | 247 | 0.0 | not drafted | His only route to streaming value is the top bench role and nights when VanVleet sits. |
-| [Zaccharie Risacher](../profiles/players/zaccharie-risacher.md) | DAL | F | 273 | - | 218 | 0.0 | not drafted | He projects as Dallas's 10th man, so leave him on waivers unless his minutes grow. |
-| [Matisse Thybulle](../profiles/players/matisse-thybulle.md) | LAL | G,F | 343 | - | 219 | 0.0 | not drafted | He is a steals pickup only if his minutes rise above 16 and he stays healthy. |
-| [Luke Kennard](../profiles/players/luke-kennard.md) | PHX | G,F | 259 | 0.0 | 220 | 0.0 | not drafted | Five guards and wings are ahead of him, so he matters only if his three-point volume clearly rises. |
-| [Tre Johnson](../profiles/players/tre-johnson.md) | WAS | G,F | 220 | - | 245 | 0.0 | not drafted | He must win the open fifth starter spot or clearly top 24 minutes to be worth a roster spot. |
-| [Will Riley](../profiles/players/will-riley.md) | WAS | F | 221 | - | - | - | not drafted | He needs rotation minutes or the open fifth starter spot in Washington before you spend FAB. |
-| [Terrence Shannon Jr](../profiles/players/terrence-shannon.md) | MIN | G,F | 222 | - | 292 | 0.0 | not drafted | Kuminga is expected to start, so Shannon needs the fifth start or the bench scorer role first. |
-| [Ziaire Williams](../profiles/players/ziaire-williams.md) | LAL | G,F | 271 | - | 222 | 0.0 | not drafted | He needs a Lakers start and more than 22.9 minutes to become a steals streamer. |
-| [Jaylin Williams](../profiles/players/jaylin-williams.md) | OKC | F,C | 223 | - | 232 | 0.0 | not drafted | He is the third center, so watch him only if Hartenstein or Holmgren misses time. |
-| [Brayden Burries](../profiles/players/brayden-burries.md) | MIL | G | 242 | - | 225 | 0.0 | not drafted | Only cuts or trades in a crowded Milwaukee backcourt give him a clear path to minutes. |
-| [Brice Sensabaugh](../profiles/players/brice-sensabaugh.md) | UTA | G,F | 236 | - | 226 | 0.0 | not drafted | Experts expect a bench role, so watch for injuries to George, Peterson or Markkanen. |
-| [Aaron Wiggins](../profiles/players/aaron-wiggins.md) | ATL | G,F | 272 | 0.0 | 227 | 0.0 | not drafted | He competes with Dort for about 20 backup minutes, so he needs a starter injury to matter. |
-| [Nique Clifford](../profiles/players/nique-clifford.md) | SAC | G,F | 227 | - | 234 | 0.0 | not drafted | He is not in the projected Kings starting five, so look only if the rebuild gives him starter minutes. |
-| [Noah Clowney](../profiles/players/noah-clowney.md) | BKN | F,C | 230 | - | 269 | 0.0 | not drafted | He competes with Randle, Minott and Wolf at the four, so check whether he earns real minutes. |
-| [Jaylen Nowell](../profiles/players/jaylen-nowell.md) | WAS | SG | - | - | 234 | 0.0 | not drafted | He is not a projected starter in a crowded Washington group, so look only if he gets a steady role. |
-| [Nikola Jović](../profiles/players/nikola-jovic.md) | MIA | F,C | 234 | - | 252 | 0.0 | 1 | He must win minutes over Bobby Portis and fix his FG% before he is a pickup. |
-| [AJ Green](../profiles/players/aj-green.md) | MIL | G,F | 262 | 0.0 | 236 | 0.0 | not drafted | He is a threes-only pickup who needs minutes in a crowded Milwaukee guard rotation. |
-| [Cam Thomas](../profiles/players/cam-thomas.md) | MIL | G | 404 | - | 237 | 0.0 | 2 | He projects to a small role in a crowded backcourt, so look only if injuries open guard minutes. |
-| [Walter Clayton Jr.](../profiles/players/walter-clayton.md) | MEM | G | 319 | - | 237 | 0.0 | not drafted | He needs steady minutes in a crowded Memphis guard rotation before he is worth a look. |
-| [Zach Collins](../profiles/players/zach-collins.md) | CHI | C | 240 | - | 304 | 0.0 | not drafted | He is a third-string center who may miss the rotation, so ignore him unless Claxton and Jalen Smith get hurt. |
-| [Kasparas Jakučionis](../profiles/players/kasparas-jakucionis.md) | MIL | G | 342 | - | 242 | 0.0 | not drafted | He needs real minutes in Milwaukee's crowded backcourt or a trade before he is a waiver option. |
-| [Khris Middleton](../profiles/players/khris-middleton.md) | WAS | F | 247 | - | 286 | 0.0 | 1 | He is not in the projected starting five, so pick him up only if box scores show starter minutes. |
-| [Hugo González](../profiles/players/hugo-gonzalez.md) | BOS | G,F | 345 | - | 249 | 0.0 | not drafted | He is outside Boston's projected 10-man rotation, so check whether he gets near 21.7 minutes. |
-| [Aday Mara](../profiles/players/aday-mara.md) | OKC | C | 250 | 0.0 | - | 0.0 | not drafted | He is a third-string center who matters only when Hartenstein or Holmgren miss games. |
-| [Hannes Steinbach](../profiles/players/hannes-steinbach.md) | CHA | F | 656 | - | 250 | 0.0 | not drafted | If Charlotte starts him over Diabate, the expert advice is to pick him up as a rebounds and blocks big. |
-| [Harrison Barnes](../profiles/players/harrison-barnes.md) | SAS | F | 260 | - | 255 | 0.0 | not drafted | He projects for about 20.5 minutes in a deep Spurs group, so first check whether he is in the rotation at all. |
-| [Nolan Traore](../profiles/players/nolan-traore.md) | BKN | G | 380 | - | 259 | 0.0 | not drafted | He competes for bench ball-handling minutes after Brooklyn drafted a point guard, so only an injury helps him. |
-| [Jordan Goodwin](../profiles/players/jordan-goodwin.md) | PHX | G | 263 | - | - | - | not drafted | He is the fourth or fifth guard in Phoenix and a steals pickup only if an injury moves him up. |
-| [Bogdan Bogdanović](../profiles/players/bogdan-bogdanovic.md) | HOU | G,F | 408 | - | 277 | 0.0 | not drafted | He is probably the last man in Houston's guard rotation and matters only after guard injuries. |
-| [Nate Ament](../profiles/players/nate-ament.md) | MIL | F | 689 | - | 294 | 0.0 | not drafted | Experts see a weak path to minutes, so watch whether he gets power forward minutes in Milwaukee. |
-| [Craig Porter Jr.](../profiles/players/craig-porter.md) | CLE | G | 299 | - | - | - | not drafted | He is a steals and blocks add only if he holds about 20 backup minutes ahead of Malik Thomas. |
-| [Mike Conley](../profiles/players/mike-conley.md) | BOS | G | 301 | - | 305 | 0.0 | not drafted | He is Boston's 10th man and matters only if White or Pritchard miss time. |
-| [Julian Strawther](../profiles/players/julian-strawther.md) | DEN | G,F | 334 | - | 302 | 0.0 | not drafted | He is the 10th man at about 15 minutes, so watch for a Braun trade or a Murray injury. |
-| [Moritz Wagner](../profiles/players/moritz-wagner.md) | BKN | C | 406 | - | 303 | 0.0 | not drafted | He matters only if he wins a bigger share of the center split and gets close to 20 minutes. |
-| [Leonard Miller](../profiles/players/leonard-miller.md) | CHI | F | 363 | - | 309 | 0.0 | not drafted | He competes for the 10th spot and becomes a quick add only if Buzelis or Caleb Wilson gets hurt. |
-| [Marcus Sasser](../profiles/players/marcus-sasser.md) | DAL | G | 395 | - | 316 | 0.0 | not drafted | If Dusty May gives him the backup guard minutes, the Dallas 4-4-4 playoff schedule could make him a late streamer. |
-| [Josh Minott](../profiles/players/josh-minott.md) | BKN | F | 317 | - | - | - | not drafted | He is outside the projected rotation and a waiver pickup only if his minutes reach about 20. |
-| [Kobe Sanders](../profiles/players/kobe-sanders.md) | LAC | G,F | 329 | - | - | - | not drafted | He is the projected 10th man, so only Clippers injuries or rotation changes make him worth a look. |
-| [Yanic Konan Niederhäuser](../profiles/players/yanic-konan-niederhauser.md) | LAC | C | 425 | - | - | - | not drafted | He is a free waiver IL stash whose late-season starter upside depends on Isaiah Jackson losing the job. |
-| [Jalen Slawson](../profiles/players/jalen-slawson.md) | IND | F | 437 | - | - | - | not drafted | He is outside the rotation behind Oubre and Walker and a steals and blocks add only at about 20 minutes. |
-| [Meleek Thomas](../profiles/players/meleek-thomas.md) | CLE | G | 614 | - | - | - | not drafted | Harden and Mitchell block him, so only an injury gives him real minutes. |
-| [Bruce Thornton](../profiles/players/bruce-thornton.md) | HOU | G | 634 | - | - | - | not drafted | Five guards are ahead of him, so check only whether Udoka gives him real minutes. |
-| [Ryan Conwell](../profiles/players/ryan-conwell.md) | MIA | G | 645 | - | - | - | not drafted | He needs his Summer League play to turn into rotation minutes in Miami's guard group. |
-| [Trevon Brazile](../profiles/players/trevon-brazile.md) | DEN | F | 664 | - | - | - | not drafted | He must win the backup power forward minutes behind Gordon before he is a streaming option. |
-| [Labaron Philon](../profiles/players/labaron-philon.md) | PHI | G | 670 | - | - | 0.1 | not drafted | He backs up Maxey and Edgecombe, so only a trade or a guard injury gives him a role. |
-| [Christian Anderson](../profiles/players/christian-anderson.md) | CHA | G | 677 | - | - | - | not drafted | He is worth a waiver look only if he takes Charlotte's open backup point guard role. |
-| [Karim Lopez](../profiles/players/karim-lopez.md) | MEM | F | 688 | - | - | - | not drafted | Memphis has a deep forward group and an 11-man rotation, so he needs a trade or a cut ahead of him. |
-| [Zuby Ejiofor](../profiles/players/zuby-ejiofor.md) | ATL | F | 700 | - | - | - | not drafted | His only path is backup minutes behind Okongwu while Atlanta's center depth is thin. |
-
-### Avoid (injured)
+### Last-dollar fillers
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Mark Williams](../profiles/players/mark-williams.md) | PHX | C | 201 | 1.0 | 314 | 0.0 | 9 | He is not expected back until mid to late March, likely behind Maluach, so do not draft him. |
-| [Shaedon Sharpe](../profiles/players/shaedon-sharpe.md) | POR | G | 214 | - | 330 | 0.0 | 4 | A meniscus injury is expected to cost him basically the whole season. |
-| [Richie Saunders](../profiles/players/richie-saunders.md) | MEM | G | 659 | - | - | - | not drafted | A torn ACL keeps him out until near the end of the season, and a crowded guard group waits for him. |
-| [Jayden Quaintance](../profiles/players/jayden-quaintance.md) | SAS | F | 666 | - | - | - | not drafted | He is out after another knee surgery and would back up Wembanyama even when healthy. |
+| [Tobias Harris](../profiles/players/tobias-harris.md) | SAS | F | 151 | 0.0 | 94 | 1.0 | 1 | He is the projected starting power forward, but Spurs forward depth threatens his 30 minutes. |
+| [Devin Vassell](../profiles/players/devin-vassell.md) | SAS | G,F | 157 | 1.0 | 128 | 0.4 | 5 | He competes with Harper, Champagnie and Harris for the fifth starting spot with lower usage, so check whether he or Harper starts. |
+| [Nikola Vučević](../profiles/players/nikola-vucevic.md) | ORL | C | 177 | 0.0 | 103 | 1.1 | 17 | He backs up Carter Jr. and also loses minutes to Bitadze, so only Carter's health opens real value. |
+| [P.J. Washington](../profiles/players/pj-washington.md) | DAL | F,C | 133 | 0.0 | 151 | 0.1 | 1 | He is in a crowded Dallas frontcourt under a new coach but may start early while Lively and Johnson Jr. are out. |
+| [Jrue Holiday](../profiles/players/jrue-holiday.md) | POR | G | 136 | 0.0 | 131 | 0.6 | 3 | He is projected off the bench behind Lillard and Morant, so his value rises only when one of them sits. |
+| [Saddiq Bey](../profiles/players/saddiq-bey.md) | NOP | F | 132 | 1.0 | 134 | 0.2 | not drafted | The latest projections leave him out of the starting five, and the experts see a seventh or eighth man. |
+| [Jaime Jaquez Jr.](../profiles/players/jaime-jaquez.md) | MIL | G,F | 140 | 1.0 | 148 | 0.9 | not drafted | A thin power forward group helps his path to a starting job in a crowded rotation, so watch for trade news. |
+| [Kyshawn George](../profiles/players/kyshawn-george.md) | WAS | G,F | 119 | 1.0 | 126 | 0.6 | 2 | His starting spot is not guaranteed in a crowded wing group, and the experts see his role shrinking. |
+| [Isaiah Stewart](../profiles/players/isaiah-stewart.md) | MEM | F,C | 174 | 0.0 | 146 | 0.1 | not drafted | Edey's foot decides his role, because starts make him worth a pick and a healthy Edey makes him a waiver player. |
+| [Jerami Grant](../profiles/players/jerami-grant.md) | MEM | F | 193 | 0.0 | 147 | 0.2 | not drafted | It is unclear whether he starts in a crowded Memphis forward group with an 11-man rotation. |
+| [Tari Eason](../profiles/players/tari-eason.md) | HOU | G,F | 163 | 0.0 | 176 | 0.1 | 2 | Durant and Smith block his minutes, and an injury to either could push him toward 32 minutes. |
+| [Ajay Mitchell](../profiles/players/ajay-mitchell.md) | OKC | G | 145 | 0.0 | 243 | 0.2 | not drafted | Cason Wallace is expected to start ahead of him, and only an SGA injury would make him a must-add. |
+| [Cam Spencer](../profiles/players/cam-spencer.md) | MEM | G | 233 | - | 143 | 0.0 | not drafted | He needs steady backup guard minutes behind Jerome in an 11-man rotation to matter. |
+| [Yanic Konan Niederhäuser](../profiles/players/yanic-konan-niederhauser.md) | LAC | C | 425 | - | - | - | not drafted | He is injured now, but his return threatens Isaiah Jackson's job, and an IL slot can hold him for free. |
+| [Pelle Larsson](../profiles/players/pelle-larsson.md) | MIA | G,F | 147 | - | - | - | not drafted | He needs to start, maybe at point guard over Davion Mitchell, while Klay Thompson takes wing minutes. |
+| [Christian Braun](../profiles/players/christian-braun.md) | DEN | G,F | 173 | 0.0 | 212 | 0.0 | 7 | He is the Denver starter most likely to lose minutes to DeRozan, and the experts call him overvalued. |
 
-<sub>Built 2026-10-04 with claude-opus-5-5 high.</sub>
+### Waiver: watch the battle
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Brook Lopez](../profiles/players/brook-lopez.md) | LAC | C | 160 | 0.0 | 112 | 0.2 | not drafted | Isaiah Jackson starts over him in scrimmages, so add Lopez only if he gets near 30 minutes. |
+| [Oso Ighodaro](../profiles/players/oso-ighodaro.md) | PHX | C | 170 | - | 122 | 0.5 | not drafted | He shares center minutes with Maluach, who looks more likely to start, so make him a cheap FAB add only if his minutes approach 27. |
+| [Julian Champagnie](../profiles/players/julian-champagnie.md) | SAS | F | 179 | 1.0 | 111 | 0.4 | not drafted | Harris and Harper threaten his minutes, so leave him on waivers unless a Spurs forward gets hurt. |
+| [Aaron Nesmith](../profiles/players/aaron-nesmith.md) | IND | G,F | 150 | 0.0 | 177 | 0.0 | not drafted | Oubre would take his starting spot if Oubre starts, and his case also needs an FG% rebound. |
+| [Dereck Lively II](../profiles/players/dereck-lively.md) | DAL | C | 166 | - | 143 | 0.1 | 3 | He is out until around Thanksgiving and then ramps up behind Gafford and Johnson, so he only matters if he wins the job later. |
+| [Al Horford](../profiles/players/al-horford.md) | GSW | F,C | 205 | 0.0 | 199 | 0.0 | 1 | He starts at center only while Porzingis is out and skips back-to-backs, so his minutes are short-term at best. |
+| [Collin Sexton](../profiles/players/collin-sexton.md) | LAL | G | 200 | 0.0 | 150 | 0.6 | not drafted | He is not expected to start, so check only whether he gets a starting role or about 27 bench minutes. |
+| [Tim Hardaway Jr.](../profiles/players/tim-hardaway.md) | MIA | G,F | 254 | - | 156 | 0.0 | not drafted | He competes with several Miami guards and wings for minutes, so check whether he wins a starting job. |
+| [Luguentz Dort](../profiles/players/luguentz-dort.md) | ATL | G,F | 224 | - | 162 | 0.0 | not drafted | He is the most likely player to take McCollum's starting spot, so keep FAB ready if he wins it. |
+| [De'Anthony Melton](../profiles/players/deanthony-melton.md) | GSW | G | 245 | - | 180 | 0.0 | not drafted | The Golden State starting guard spot is open, so add him only if he wins it and reaches about 28 minutes. |
+| [Bilal Coulibaly](../profiles/players/bilal-coulibaly.md) | WAS | G,F | 203 | - | 181 | 0.0 | not drafted | Many wings compete for the fifth starting spot, so add him only if he wins it and plays 26 or more minutes. |
+| [Kevin Huerter](../profiles/players/kevin-huerter.md) | DET | G,F | 195 | - | 183 | 0.0 | not drafted | He competes with Prince for the last bench rotation spot, so he needs steady shooter minutes first. |
+| [Kris Dunn](../profiles/players/kris-dunn.md) | LAC | G | 191 | - | 184 | 0.0 | not drafted | He is projected as the sixth man but could start, and starting at about 28 minutes would make him a steals add. |
+| [Isaiah Joe](../profiles/players/isaiah-joe.md) | DET | G,F | 255 | - | 188 | 0.0 | not drafted | He is the most likely challenger for Duncan Robinson's starting spot, so bid only if he takes it or plays clearly more than 21 minutes. |
+| [Naji Marshall](../profiles/players/naji-marshall.md) | DAL | G,F | 190 | - | 209 | 0.0 | not drafted | Both projections cut his minutes in a crowded Dallas group, so watch whether he gets ball-handling minutes again. |
+| [GG Jackson](../profiles/players/gg-jackson.md) | MEM | F,C | 219 | - | 191 | 0.0 | not drafted | He is not in the projected starting five, so check whether he wins small forward minutes in the 11-man rotation. |
+| [Jared McCain](../profiles/players/jared-mccain.md) | OKC | G | 192 | 0.0 | 231 | 0.2 | not drafted | He is a bench guard behind Wallace and Mitchell, so he matters only if the projected jump to about 25 minutes happens. |
+| [Keon Ellis](../profiles/players/keon-ellis.md) | BKN | G,F | 257 | - | 193 | 0.0 | not drafted | Young Nets may take his minutes, so he needs to get close to 27 minutes to be a steals streamer. |
+| [Kyle Kuzma](../profiles/players/kyle-kuzma.md) | MIL | F | 194 | 0.0 | 223 | 0.0 | not drafted | He could start at power forward, but Milwaukee will likely start a second center there instead. |
+| [Derrick Jones Jr.](../profiles/players/derrick-jones.md) | LAC | F | 225 | - | 195 | 0.0 | not drafted | He starts only while Ingram, Beal and Miller are out, so his value fades when they return. |
+| [Danny Wolf](../profiles/players/danny-wolf.md) | BKN | F,C | 331 | - | 196 | 0.0 | not drafted | He splits center minutes with Sharpe and Mo Wagner and is blocked by Randle, so he matters only if he wins a big role. |
+| [Baylor Scheierman](../profiles/players/baylor-scheierman.md) | BOS | G,F | 296 | - | 213 | 0.0 | not drafted | His starting spot is not settled against Pritchard, so add him only if he starts and plays 23 or more minutes. |
+| [Sam Hauser](../profiles/players/sam-hauser.md) | BOS | F | 181 | - | 167 | 0.0 | not drafted | He competes with Scheierman for a starting wing spot and is at most a short-term threes streamer even if he wins it. |
+| [Jaylen Wells](../profiles/players/jaylen-wells.md) | MEM | G,F | 217 | - | 230 | 0.0 | not drafted | He is buried in a deep Memphis rotation, and only a starting role would make him worth adding. |
+| [Marcus Smart](../profiles/players/marcus-smart.md) | HOU | G | 218 | - | 247 | 0.0 | not drafted | He needs to win the top bench minutes in a crowded Houston guard rotation, which is his only route to streaming value. |
+| [Zaccharie Risacher](../profiles/players/zaccharie-risacher.md) | DAL | F | 273 | - | 218 | 0.0 | not drafted | He is projected as a 10th man in a crowded Dallas wing group, so he needs clearly more minutes to matter. |
+| [Matisse Thybulle](../profiles/players/matisse-thybulle.md) | LAL | G,F | 343 | - | 219 | 0.0 | not drafted | He is a steals specialist who needs minutes well above last season's 16 per game while the Lakers sort out their open spots. |
+| [Luke Kennard](../profiles/players/luke-kennard.md) | PHX | G,F | 259 | 0.0 | 220 | 0.1 | not drafted | Five guards and wings are ahead of him, so he matters only if his three-point volume rises off the bench. |
+| [Tre Johnson](../profiles/players/tre-johnson.md) | WAS | G,F | 220 | - | 245 | 0.0 | not drafted | He needs to win Washington's open fifth starting spot or clearly more than 24 minutes. |
+| [Will Riley](../profiles/players/will-riley.md) | WAS | F | 221 | - | - | - | not drafted | He needs rotation minutes or the open fifth starting spot in a crowded Washington wing group. |
+| [Terrence Shannon Jr](../profiles/players/terrence-shannon.md) | MIN | G,F | 222 | - | 292 | 0.0 | not drafted | He competes with Kuminga and Josh Green for the open fifth starting spot, and Minnesota has a two-game week in our playoffs. |
+| [Ziaire Williams](../profiles/players/ziaire-williams.md) | LAL | G,F | 271 | - | 222 | 0.0 | not drafted | He is a candidate for the open Lakers starting spots, so he needs a start and more than 23 minutes. |
+| [Aaron Wiggins](../profiles/players/aaron-wiggins.md) | ATL | G,F | 272 | 0.0 | 227 | 0.0 | not drafted | He competes with Dort for backup wing minutes and is expected to be a seventh man. |
+| [Noah Clowney](../profiles/players/noah-clowney.md) | BKN | F,C | 230 | - | 269 | 0.0 | not drafted | He competes with Randle, Minott and Wolf at the four and needs real minutes before he matters. |
+| [Nikola Jović](../profiles/players/nikola-jovic.md) | MIA | F,C | 234 | - | 252 | 0.0 | 1 | He competes with Bobby Portis for bench frontcourt minutes and also needs his FG% to recover. |
+| [AJ Green](../profiles/players/aj-green.md) | MIL | G,F | 262 | 0.0 | 236 | 0.0 | not drafted | He is in a crowded Milwaukee guard group and is only a threes pickup if he gets minutes. |
+| [Walter Clayton Jr.](../profiles/players/walter-clayton.md) | MEM | G | 319 | - | 237 | 0.0 | not drafted | He needs steady minutes in a crowded Memphis guard group with an 11-man rotation. |
+| [Hugo González](../profiles/players/hugo-gonzalez.md) | BOS | G,F | 345 | - | 249 | 0.0 | not drafted | He is outside Boston's projected 10-man rotation and needs to break into it first. |
+| [Hannes Steinbach](../profiles/players/hannes-steinbach.md) | CHA | F | 656 | - | 250 | 0.0 | not drafted | He shares center minutes with Diabate and Kalkbrenner, and the expert advice is to pick him up if Charlotte starts him. |
+| [Harrison Barnes](../profiles/players/harrison-barnes.md) | SAS | F | 260 | - | 255 | 0.0 | not drafted | He is in a crowded Spurs forward group with projected minutes down to about 20. |
+| [Bogdan Bogdanović](../profiles/players/bogdan-bogdanovic.md) | HOU | G,F | 408 | - | 277 | 0.0 | not drafted | He is probably the last man in a crowded Houston guard rotation and matters only after injuries. |
+| [Nate Ament](../profiles/players/nate-ament.md) | MIL | F | 689 | - | 294 | 0.0 | not drafted | He matters only if he wins minutes at power forward, which is Milwaukee's weakest position. |
+| [Craig Porter Jr.](../profiles/players/craig-porter.md) | CLE | G | 299 | - | - | - | not drafted | He must hold the backup point guard job ahead of Malik Thomas at about 20 minutes to be a steals and blocks add. |
+| [Julian Strawther](../profiles/players/julian-strawther.md) | DEN | G,F | 334 | - | 302 | 0.0 | not drafted | He is a 10th man at about 15 minutes, so he needs a Braun trade or a Murray injury. |
+| [Moritz Wagner](../profiles/players/moritz-wagner.md) | BKN | C | 406 | - | 303 | 0.0 | not drafted | He splits center minutes with Sharpe and Wolf and matters only if he gets close to 20 minutes. |
+| [Marcus Sasser](../profiles/players/marcus-sasser.md) | DAL | G | 395 | - | 316 | 0.0 | not drafted | He competes for backup guard minutes behind Irving on a thin depth chart. |
+| [Josh Minott](../profiles/players/josh-minott.md) | BKN | F | 317 | - | - | - | not drafted | He is outside the projected rotation but produced with minutes, so add him if he reaches about 20. |
+| [Jalen Slawson](../profiles/players/jalen-slawson.md) | IND | F | 437 | - | - | - | not drafted | He is outside the projected rotation behind Oubre and Walker, and about 20 minutes would make him a steals and blocks add. |
+| [Bruce Thornton](../profiles/players/bruce-thornton.md) | HOU | G | 634 | - | - | 0.1 | not drafted | Five guards are ahead of him, so check only whether Udoka gives him real minutes. |
+| [Ryan Conwell](../profiles/players/ryan-conwell.md) | MIA | G | 645 | - | - | - | not drafted | He has no projection and needs his Summer League play to turn into rotation minutes in Miami. |
+| [Trevon Brazile](../profiles/players/trevon-brazile.md) | DEN | F | 664 | - | - | - | not drafted | He competes for backup power forward minutes behind Gordon in a crowded group. |
+| [Christian Anderson](../profiles/players/christian-anderson.md) | CHA | G | 677 | - | - | - | not drafted | Charlotte's backup point guard role is open, but he is not yet trusted there. |
+| [Daniss Jenkins](../profiles/players/daniss-jenkins.md) | DET | G | 167 | - | - | - | not drafted | He needs about 26 minutes as a second ball handler, or a Cunningham absence. |
+| [Kasparas Jakučionis](../profiles/players/kasparas-jakucionis.md) | MIL | G | 342 | - | 242 | 0.0 | not drafted | He needs real minutes in a crowded Milwaukee backcourt, or a trade. |
+| [Keaton Wagler](../profiles/players/keaton-wagler.md) | LAC | G | 210 | 0.0 | 208 | 0.1 | not drafted | He backs up Garland with several guards competing, so only a clearly bigger role while Beal is out would matter. |
+
+### Waiver: needs an injury or trade
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Kyle Filipowski](../profiles/players/kyle-filipowski.md) | UTA | F,C | 198 | 0.0 | 145 | 0.1 | not drafted | He shares frontcourt minutes with five players, so only an injury to Nurkic or Jackson Jr. opens his role. |
+| [Ryan Kalkbrenner](../profiles/players/ryan-kalkbrenner.md) | CHA | C | 229 | - | 163 | 0.0 | not drafted | He matters only if Diabate loses the starting job or gets hurt. |
+| [Dennis Schröder](../profiles/players/dennis-schroder.md) | CHA | G | 171 | - | 210 | 0.0 | 1 | He sits behind Coby White with Grayson Allen first in line for spot starts. |
+| [Santi Aldama](../profiles/players/santi-aldama.md) | DAL | F | 176 | - | 171 | 0.0 | 3 | He needs knee clearance and frontcourt injuries in Dallas to reach 25 to 28 minutes. |
+| [Joan Beringer](../profiles/players/joan-beringer.md) | MIN | F,C | 182 | - | - | 0.0 | not drafted | The Kuminga signing lowered his minutes, so only Gobert missing games makes him a quick FAB add. |
+| [Isaiah Collier](../profiles/players/isaiah-collier.md) | UTA | G | 184 | - | 228 | 0.0 | not drafted | He is expected to play 20 minutes at most unless Keyonte George or Peterson misses time. |
+| [Scoot Henderson](../profiles/players/scoot-henderson.md) | POR | G | 185 | - | 206 | 0.1 | not drafted | Portland's guard glut keeps him near 20 minutes unless a trade or an injury to Lillard or Morant opens a role. |
+| [Dylan Cardwell](../profiles/players/dylan-cardwell.md) | SAC | F,C | 197 | - | - | - | not drafted | He backs up Sabonis and Raynaud and needs a Sabonis trade or a rise above about 18 minutes. |
+| [Anfernee Simons](../profiles/players/anfernee-simons.md) | PHI | G | 199 | 0.0 | 221 | 0.1 | 7 | Philadelphia's guard rotation is crowded, so he needs Embiid absences or LeBron rest days to clear 25 minutes. |
+| [Mark Williams](../profiles/players/mark-williams.md) | PHX | C | 201 | 1.0 | 314 | 0.0 | 9 | He returns around mid to late March at best, maybe behind Maluach, so watch his rehab and the trade deadline. |
+| [Jordan Walsh](../profiles/players/jordan-walsh.md) | BOS | F | 298 | - | 207 | 0.0 | not drafted | He may fall out of Boston's 10-man rotation most nights. |
+| [Gradey Dick](../profiles/players/gradey-dick.md) | LAC | G,F | 239 | - | 211 | 0.1 | not drafted | He is not in the projected Clippers top ten and has no clear path to minutes. |
+| [Kingston Flemings](../profiles/players/kingston-flemings.md) | ATL | G | 243 | - | 215 | 0.0 | not drafted | He backs up McCollum and Alexander-Walker, and Dort or Wiggins could take any open start first. |
+| [Bub Carrington](../profiles/players/bub-carrington.md) | WAS | G | 241 | - | 217 | 0.0 | not drafted | He needs an injury to Trae Young or a wing to gain minutes in a deep Washington rotation. |
+| [Jaylin Williams](../profiles/players/jaylin-williams.md) | OKC | F,C | 223 | - | 232 | 0.0 | not drafted | As the third center, he matters only if Hartenstein or Holmgren misses time. |
+| [Brayden Burries](../profiles/players/brayden-burries.md) | MIL | G | 242 | - | 225 | 0.0 | not drafted | His only clear path to minutes is Milwaukee cutting or trading guards from a 17-man roster. |
+| [Brice Sensabaugh](../profiles/players/brice-sensabaugh.md) | UTA | G,F | 236 | - | 226 | 0.0 | not drafted | The experts expect a bench role, so he needs an injury to George, Peterson or Markkanen. |
+| [Zach Collins](../profiles/players/zach-collins.md) | CHI | C | 240 | - | 304 | 0.0 | not drafted | As a third-string center he needs injuries to Claxton and Jalen Smith. |
+| [Khris Middleton](../profiles/players/khris-middleton.md) | WAS | F | 247 | - | 286 | 0.0 | 1 | He is not in the projected starting five, so add him only if box scores show starter minutes. |
+| [Aday Mara](../profiles/players/aday-mara.md) | OKC | C | 250 | 0.0 | - | 0.0 | not drafted | He sits behind three centers and needs Hartenstein or Holmgren to miss games. |
+| [Nolan Traore](../profiles/players/nolan-traore.md) | BKN | G | 380 | - | 259 | 0.0 | not drafted | Brooklyn drafted a point guard, so only a guard injury would give him real ball-handling minutes. |
+| [Jordan Goodwin](../profiles/players/jordan-goodwin.md) | PHX | G | 263 | - | - | - | not drafted | As the fourth or fifth guard, he needs an injury to move up for steals. |
+| [Mike Conley](../profiles/players/mike-conley.md) | BOS | G | 301 | - | 305 | 0.0 | not drafted | He is a 10th man and matters only if White or Pritchard misses time. |
+| [Leonard Miller](../profiles/players/leonard-miller.md) | CHI | F | 363 | - | 309 | 0.0 | not drafted | His value depends on an injury to Buzelis or Caleb Wilson. |
+| [Kobe Sanders](../profiles/players/kobe-sanders.md) | LAC | G,F | 329 | - | - | - | not drafted | He is a projected tenth man who needs Clippers injuries to reach starter minutes. |
+| [Meleek Thomas](../profiles/players/meleek-thomas.md) | CLE | G | 614 | - | - | - | not drafted | Harden and Mitchell block him, and he is not in the projected rotation. |
+| [Labaron Philon](../profiles/players/labaron-philon.md) | PHI | G | 670 | - | - | 0.1 | not drafted | He backs up Maxey and Edgecombe and needs a trade or a guard injury. |
+| [Karim Lopez](../profiles/players/karim-lopez.md) | MEM | F | 688 | - | - | - | not drafted | He is buried in a deep Memphis forward group and needs a trade or a cut to open minutes. |
+| [Zuby Ejiofor](../profiles/players/zuby-ejiofor.md) | ATL | F | 700 | - | - | - | not drafted | He backs up Okongwu and needs an injury to Okongwu or Jalen Johnson. |
+| [Bennedict Mathurin](../profiles/players/bennedict-mathurin.md) | NOP | G,F | 156 | 0.0 | 187 | 0.1 | 4 | He is in a crowded wing and guard group, so he needs a trade or an injury for a bigger role. |
+
+<details><summary>Left out</summary>
+
+- Jayden Quaintance: He is out after another knee surgery with no return date, so there is no live minutes battle to watch this season.
+
+</details>
+
+<sub>Built 2026-10-05 with claude-opus-5-5 high.</sub>

@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 25 | 12.0 | 38 | 14 | 6.2 | 43 | 7 |
+| 2026-27 | 25 | 12.0 | 38 | 14 | 6.0 | 43 | 7 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -29,27 +29,26 @@
 </details>
 
 **Current**
-- Experts agree his Yahoo rank and ADP around 38 to 41 are far too high. They would not draft him in round three, and some would not take him anywhere from round two to round five. They see no upside at that price. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=908), [09-22](https://youtu.be/QbdrhJd7LiA?t=457), [09-19](https://youtu.be/uarqbNA2dFk?t=682), [09-14](https://youtu.be/t4n9MAP2_14?t=1279), [09-07](https://youtu.be/gJUBAJaHzlU?t=948), [09-07](https://youtu.be/E-KmhvyZ2CU?t=762), [09-04](https://youtu.be/gerS7ibpaJo?t=717), [08-19](https://youtu.be/J1Eg3uaAICU?t=1355), [08-11](https://youtu.be/OdDkXFhoKsc?t=912))
-- He rises to 14th in punt FT% rankings. Experts say that is still not a reason to reach for him in round three. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=2365))
-- Portland's roster is crowded with high-usage guards, and minutes and usage are expected to swing from game to game. Experts do not expect a big leap from him. (verdict, 2026-09-22; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2014), [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [09-22](https://youtu.be/QbdrhJd7LiA?t=457))
-- Experts project him at about rank 70 to 95. One expert puts his auction value at about 5 USD. (verdict, 2026-09-21; [09-07](https://youtu.be/gJUBAJaHzlU?t=948), [09-21](https://youtu.be/egRrai3Ax38?t=1724))
-- At an ESPN ADP of 100 to 109, experts call him good value, even those who usually think he is overrated. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1724), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2868))
-- He is projected to start at center and play about 28 minutes per game in a role similar to last season. No minutes cut is expected, but a Blazers beat writer does not see him going over 28 minutes. One projection puts his usage at 17%. (verdict, 2026-09-14; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1396), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [08-11](https://youtu.be/OdDkXFhoKsc?t=912), [08-11](https://youtu.be/OdDkXFhoKsc?t=912), [09-14](https://youtu.be/t4n9MAP2_14?t=1279))
-- Portland added several centers this offseason. He played poorly in last season's playoffs, and Robert Williams outplayed him. (fact, 2026-09-14; [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1254), [09-14](https://youtu.be/t4n9MAP2_14?t=1279))
-- The Blazers have three back-to-backs in the fantasy playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
+- Portland is crowded with high-usage guards (Lillard, Morant, Henderson, Avdija). The team also has a new head coach. (fact, 2026-10-04; [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [09-14](https://youtu.be/LM0cRCGoAUQ?t=836))
+- Experts agree he is overdrafted at his Yahoo rank and ADP of about 38 to 41. A third-round pick is too early, and one expert would not take him anywhere from round two to round five. One expert is not a big fan of him even at 53. (verdict, 2026-09-30; [09-19](https://youtu.be/uarqbNA2dFk?t=682), [09-14](https://youtu.be/t4n9MAP2_14?t=1279), [09-07](https://youtu.be/gJUBAJaHzlU?t=948), [09-07](https://youtu.be/E-KmhvyZ2CU?t=762), [09-04](https://youtu.be/gerS7ibpaJo?t=717), [08-19](https://youtu.be/J1Eg3uaAICU?t=1355), [08-11](https://youtu.be/OdDkXFhoKsc?t=912), [09-22](https://youtu.be/QbdrhJd7LiA?t=457), [09-23](https://youtu.be/C4vlgpJ62NI?t=2365), [09-30](https://youtu.be/BjXP9JODDSg?t=908))
+- He rises to 14th in punt FT% rankings, but that is not a reason to reach for him in round three. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=2365))
+- Experts do not expect a big leap this season because the roster is crowded. One sees no upside and plenty of downside. (verdict, 2026-09-22; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2014), [08-19](https://youtu.be/J1Eg3uaAICU?t=1355), [09-22](https://youtu.be/QbdrhJd7LiA?t=457))
+- At an ESPN ADP of around 100 to 109 he is good value. Expert projections of where he finishes range from inside the top 70 to 75 to 95. One expert puts his auction value at about 5 USD. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1724), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2868), [09-07](https://youtu.be/gJUBAJaHzlU?t=948))
+- He is projected as Portland's starting center and is expected to play about 28 minutes a night in a similar role to last season. No cut in minutes is expected, but a local beat writer does not think he goes over 28 minutes. (verdict, 2026-09-14; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1396), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [08-11](https://youtu.be/OdDkXFhoKsc?t=912), [08-11](https://youtu.be/OdDkXFhoKsc?t=912), [09-14](https://youtu.be/t4n9MAP2_14?t=1279))
+- He is projected at about 17% usage. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1279))
+- Portland added several centers. He played poorly in last season's playoffs and was outplayed by Robert Williams. (fact, 2026-09-14; [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1254), [09-14](https://youtu.be/t4n9MAP2_14?t=1279))
+- Portland has three back-to-backs in the fantasy playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
 
 **Durable**
-- He is one of the best rebounders in the league. Rebounds are his best category by a wide margin. (fact, 2026-09-14; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1338), [09-14](https://youtu.be/t4n9MAP2_14?t=1252), [09-07](https://youtu.be/gJUBAJaHzlU?t=922), stats)
-- He is a very good shot blocker. Blocks are a clear strength. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1252), [09-07](https://youtu.be/gJUBAJaHzlU?t=922), stats)
-- Experts call him a two-category player, rebounds and blocks. His scoring and assists are low, and his steals are very poor. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1252), [09-07](https://youtu.be/gJUBAJaHzlU?t=922))
-- He is a poor free throw shooter. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1252), [09-07](https://youtu.be/gJUBAJaHzlU?t=922), stats)
-- Experts call him a bad finisher with bad hands. His projected FG% is still about average for a center. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1252), [09-07](https://youtu.be/gJUBAJaHzlU?t=922), stats)
-- He takes threes and cannot post up. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1252), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1338), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1254))
+- He is one of the best rebounders in the league and a very good shot blocker. Rebounds and blocks are both league outliers. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1252), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1338), [09-07](https://youtu.be/gJUBAJaHzlU?t=922), stats)
+- He is a two-category player. Outside rebounds and blocks he gives little: poor free throw shooting, very few steals, and low assists and scoring. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1252), [09-07](https://youtu.be/gJUBAJaHzlU?t=922), stats)
+- He has bad hands, is a bad finisher and cannot post up. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1252), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1338), [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
+- He takes threes and plays away from the paint, which fits a team that wants its bigs to leave room for guards to drive. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1252), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1254), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1321))
 
 **Tags**
-- Current: `bust candidate` (Yahoo rank and ADP around 38 to 41, round three is too early), `sleeper` (only at ESPN ADP 100 to 109), `sites disagree on price` (Yahoo ADP around 41 vs ESPN ADP 100 to 109), `bad playoff schedule` (three back-to-backs in fantasy playoff weeks)
-- Durable: `REB specialist` (one of the best rebounders in the league), `BLK specialist` (very good shot blocker)
+- Current: `usage competition` (Crowded with high-usage guards: Lillard, Morant, Henderson, Avdija), `new coach` (Portland has a new head coach), `bust candidate` (At his Yahoo rank and ADP of about 38 to 41 (round three)), `sites disagree on price` (Yahoo ADP about 41, ESPN ADP about 100 to 109), `sleeper` (Only at his ESPN price (ADP about 100 to 109)), `bad playoff schedule` (Portland has three back-to-backs in the fantasy playoff weeks)
+- Durable: `REB specialist` (About 11.8 rebounds per game projected), `BLK specialist` (About 1.8 blocks per game projected)
 
-**Note.** He is a rebounds and blocks specialist (REB z +2.8, BLK z +2.6 vs pool) with a weak FT% (66.5%) and little else, so he fits builds that chase the big-man categories and can absorb a FT% drag. Experts see him around rank 70 to 95 and about 5 USD. That puts him far below Yahoo's 25 USD value and 12.0 USD average cost, and close to the 7 USD he went for in our league last season, so do not chase him past single digits. Early in the season, check that he keeps about 28 minutes despite Portland's added centers, and that his three-point volume holds.
+**Note.** Clingan is a real rebounds and blocks piece (z +2.8 and +2.6 vs the pool). He helps little elsewhere, and his 66.5% FT% hurts. The experts agree that Yahoo's 25 USD value and rank 38 are too high. They see fair value closer to ESPN's 14 USD value and 6 USD average cost, or about 5 USD, so pay single digits as in our league's 7 USD, not round-three money. Early in the season, check that he keeps about 28 minutes against Portland's other centers and its crowded guard group under the new coach.
 
-<sub>18 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>18 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

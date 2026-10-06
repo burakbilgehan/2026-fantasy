@@ -8,47 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "3ec03ac0b46e",
- "note_count": 10,
- "built_at": "2026-10-04T17:30:02+00:00",
+ "input_sha": "32b633777503",
+ "note_count": 11,
+ "built_at": "2026-10-05T19:48:05+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1334582,
-  "duration_ms": 34132
+  "cost_usd_list": 0.20273759999999996,
+  "duration_ms": 43166,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "The newest expert calls say he is overpriced. One expert values him around round four, below his Yahoo rank of 24 and ADP of 31. Another sees no reason for him to jump to an ESPN rank near 18 to 20.",
-   "kind": "verdict",
-   "date": "2026-09-22",
-   "until": "",
-   "sources": [
-    "QbdrhJd7LiA:p34",
-    "uarqbNA2dFk:p4"
-   ]
-  },
-  {
-   "text": "Experts do not fully buy a bounce back from his down 2025-26 season.",
-   "kind": "verdict",
-   "date": "2026-09-22",
-   "until": "",
-   "sources": [
-    "QbdrhJd7LiA:p34",
-    "7BllEsdNLoM:p22"
-   ]
-  },
-  {
-   "text": "Last season defenses sent extra defenders at him and dared Dillon Brooks to beat them.",
-   "kind": "fact",
-   "date": "2026-08-23",
-   "until": "",
-   "sources": [
-    "hm5-fiCa5S4:p1"
-   ]
-  },
-  {
-   "text": "Phoenix says Jalen Green is the point guard. The Suns want to lower Booker's ballhandling load and make spacing easier for him.",
+   "text": "Phoenix calls Jalen Green its point guard and wants to lower Booker's ballhandling load and make spacing easier for him.",
    "kind": "fact",
    "date": "2026-09-10",
    "until": "",
@@ -58,32 +31,60 @@
    ]
   },
   {
-   "text": "The experts disagree on his role. Josh expects him to stay the de facto point guard with about 32% usage and good assists. Another expert expects Jalen Green and Miles Bridges to take touches from him in a crowded usage group.",
+   "text": "Josh expects Booker to stay the de facto point guard anyway, with about 32% usage and good assists.",
    "kind": "verdict",
-   "date": "2026-09-19",
+   "date": "2026-09-10",
    "until": "",
    "sources": [
     "W-R1dzem32s:p22",
-    "W-R1dzem32s:t9",
+    "W-R1dzem32s:t9"
+   ]
+  },
+  {
+   "text": "Jalen Green, Miles Bridges, Dillon Brooks and Collin Gillespie will all want touches, so Booker shares the ball.",
+   "kind": "fact",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
     "uarqbNA2dFk:p4",
     "uarqbNA2dFk:t1"
+   ]
+  },
+  {
+   "text": "Experts see him as about round 4 value, or low 20s USD in an auction. His site ranks (Yahoo about 24, ESPN about 18) are too high. They do not expect a full bounce back or a jump into the top 20.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p44",
+    "uarqbNA2dFk:p4",
+    "QbdrhJd7LiA:p34",
+    "7BllEsdNLoM:p22"
+   ]
+  },
+  {
+   "text": "In a 2026-10-05 auction mock he went for 22 USD. Josh called that a good price but is not very interested in him.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p44"
    ]
   }
  ],
  "durable": [
   {
-   "text": "Excellent free throw shooter on high volume. FT% is a clear league outlier and lifts a team's FT%.",
+   "text": "He is an elite free throw shooter on high volume, so he lifts a team's FT% clearly.",
    "kind": "fact",
-   "date": "2026-09-10",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats",
-    "W-R1dzem32s:p23",
-    "8d--aL_xxwE:p13"
+    "W-R1dzem32s:p23"
    ]
   },
   {
-   "text": "Josh says his FT% could randomly drop to about 81% in a given season.",
+   "text": "Josh warns that a random drop in his FT% to about 81% in any season would not be crazy.",
    "kind": "verdict",
    "date": "2026-08-09",
    "until": "",
@@ -92,40 +93,30 @@
    ]
   },
   {
-   "text": "Points are a league outlier, and he adds strong assists for a guard.",
+   "text": "His scoring is a league outlier.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He commits many turnovers, a clear weakness even for a guard.",
+   "text": "He commits many turnovers, which hurts the TO category.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "An expert calls his FG% weak and says he gives too few threes, steals and blocks. The projections put his FG% near average for a guard.",
+   "text": "His field goal percentage is weak, and he does not give enough threes, steals or blocks.",
    "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
    "sources": [
-    "W-R1dzem32s:p23",
-    "stats"
-   ]
-  },
-  {
-   "text": "Ben calls him an average defender who is not a net negative.",
-   "kind": "verdict",
-   "date": "2026-08-23",
-   "until": "",
-   "sources": [
-    "hm5-fiCa5S4:p2"
+    "W-R1dzem32s:p23"
    ]
   }
  ],
@@ -133,12 +124,11 @@
   {
    "name": "FT% anchor",
    "channel": "durable",
-   "detail": "About 88% FT on 7 to 8 attempts per game",
+   "detail": "About 88% on about 7 to 8 attempts per game",
    "until": "",
    "sources": [
     "stats",
-    "W-R1dzem32s:p23",
-    "8d--aL_xxwE:p13"
+    "W-R1dzem32s:p23"
    ],
    "new_meaning": ""
   },
@@ -173,9 +163,20 @@
    "new_meaning": ""
   },
   {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Jalen Green, Miles Bridges, Dillon Brooks and Collin Gillespie",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p4",
+    "uarqbNA2dFk:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "Valued around round 4, below Yahoo rank 24 and ADP 31; ESPN rank 18 called too high",
+   "detail": "Experts see round 4 value against Yahoo rank 24 and ESPN rank 18",
    "until": "",
    "sources": [
     "uarqbNA2dFk:p4",
@@ -186,7 +187,7 @@
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo value 32 USD and rank 23 vs ESPN value 16 USD and rank 40",
+   "detail": "Yahoo value 32 USD, ESPN value 16 USD",
    "until": "",
    "sources": [
     "stats"
@@ -194,6 +195,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Our league paid 45 USD for him last season. Yahoo values him at 32 USD and ESPN at 16 USD, and the newest expert calls put him around round four (picks 37 to 48), so paying much above 30 USD looks risky. He fits punt TO builds best, where his elite FT%, points and assists matter and his turnovers do not. Early in the season, check whether he still runs the offense next to Jalen Green, because his usage and assists decide most of his value.",
+ "note": "He went for 45 USD in our league last season. Yahoo values him at 32 USD and ESPN at 16 USD, while the experts put him at about round 4 value, or low 20s USD (22 USD in a mock). Do not pay much above 25 USD. He fits best in a punt TO build, where his elite FT% on volume and his points help the most. Early in the season, check whether he or Jalen Green runs the offense, because his assists depend on it.",
  "rejected": []
 }

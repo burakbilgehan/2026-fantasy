@@ -11,33 +11,36 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Robert Williams III, PF Jeremy Sochan, PG Scoot Henderson, SF Jrue Holiday, SG Shaedon Sharpe
 
 **Current**
-- Portland has a crowded backcourt. Damian Lillard, Ja Morant, Jrue Holiday, Scoot Henderson and Deni Avdija all handle the ball and share the playmaking, and Shaedon Sharpe is also in the guard rotation. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), [09-10](https://youtu.be/dlo7L8Ru91A?t=767), [09-10](https://youtu.be/W-R1dzem32s?t=1062), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [07-07](https://youtu.be/ME-r173X5b0?t=1091), [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [06-29](https://youtu.be/bHA-JoW3reE?t=227), stats)
-- Morant, Lillard and Henderson are all back. They are on-ball point guards who played about 15 games combined last season. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=836))
-- The new guards cut Avdija's on-ball role, usage and passing. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=767), [09-10](https://youtu.be/W-R1dzem32s?t=1062))
-- Lillard, Morant, Henderson and Avdija cannot all keep last season's usage. The guard crowding adds risk to Lillard. (verdict, 2026-09-01; [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [09-01](https://youtu.be/80kfLVnFQ_s?t=806))
-- In the fantasy playoffs Portland has 10 games (17th of 30) and a back-to-back in each of weeks 19, 20 and 21. That adds rest risk for injury-prone players like Lillard, Morant and Williams. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037), stats)
+- Portland has a new head coach this season. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1559))
+- Portland added Ja Morant and Damian Lillard, and Scoot Henderson returns for a full season. All three are on-ball point guards. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), [09-10](https://youtu.be/dlo7L8Ru91A?t=767))
+- Morant, Lillard and Henderson played about 15 games combined last season. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=836))
+- The backcourt is crowded. Lillard, Morant, Jrue Holiday, Deni Avdija, Henderson and Shaedon Sharpe all share the ball and the playmaking. (fact, 2026-09-10; [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [07-07](https://youtu.be/ME-r173X5b0?t=1091), [09-10](https://youtu.be/W-R1dzem32s?t=1062), [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [06-29](https://youtu.be/bHA-JoW3reE?t=227))
+- The added guards cut Deni Avdija's usage and passing and squeeze his on-ball role. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=767), [09-10](https://youtu.be/W-R1dzem32s?t=1062))
+- The crowded guard group adds risk to Damian Lillard. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=806))
+- Portland has too many high-usage guards (Lillard, Morant, Henderson, Avdija). Their combined numbers from last season cannot all hold. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=2194))
+- Portland has a back-to-back in each fantasy playoff week, three in total. That adds rest risk when it matters most. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037), stats)
 - Portland has a five-game week starting February 8. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1310))
-- Projected starting five: Lillard, Morant, Toumani Camara, Avdija and Donovan Clingan. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [06-29](https://youtu.be/bHA-JoW3reE?t=419), stats)
-- Portland is expected to stagger Lillard and Morant but still close games with both on the floor. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=825))
-- Minutes and usage are expected to swing from game to game across the rotation. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
-- Forward depth is very thin. Avdija and Camara are the only real forwards, and Jeremy Sochan is the backup power forward on the depth chart. Jerami Grant, Matisse Thybulle, Kris Murray, Caleb Love and Blake Wesley are gone. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [06-29](https://youtu.be/bHA-JoW3reE?t=227), stats)
-- Portland added several centers. Clingan starts, with Robert Williams III behind him on the depth chart and Yang Hansen also at center. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [06-29](https://youtu.be/bHA-JoW3reE?t=1032), stats)
-- Clingan is not expected to play more than 28 minutes. (verdict, 2026-08-11; [08-11](https://youtu.be/OdDkXFhoKsc?t=912))
-- Portland wants bigs who stay out of the paint so that Avdija and Morant can drive downhill. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1321))
-- Transition defense is projected to be poor, and offensive rebounding got worse. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=825))
-- The projection is about 44 wins, in a 40 to 45 range, which makes Portland a likely playoff or play-in team. The win total of 43.5 ranks 15th of 30, so late-season tanking looks unlikely. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1656), stats)
-- A consolidation trade that clears the guard logjam is considered unlikely. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
-- Camara, Clingan and Avdija are poor finishers, which lowers how many passes Portland's guards turn into assists. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
-- Portland has been rumored in a trade for Jaylen Brown. Such a deal would likely send out Henderson or another guard. (fact, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=286))
-- The notes do not name a head coach. Portland still had none the day before the June draft, so coach habits are unknown. (fact, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1262))
+- The projected starting five is Lillard, Morant, Toumani Camara, Avdija and Donovan Clingan. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [06-29](https://youtu.be/bHA-JoW3reE?t=419), stats)
+- Lillard and Morant are expected to be staggered, but both should close games. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=825))
+- Forward depth is very thin. Avdija and Camara are basically the only forwards. Portland lost Jerami Grant, Matisse Thybulle, Kris Murray, Caleb Love and Blake Wesley. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [06-29](https://youtu.be/bHA-JoW3reE?t=227))
+- Portland added several centers. Clingan starts, and Yang Hansen and Robert Williams III are also in the center group. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [06-29](https://youtu.be/bHA-JoW3reE?t=1032), stats)
+- Mike Richman of Locked On Blazers does not expect Clingan to play over 28 minutes. (verdict, 2026-08-11; [08-11](https://youtu.be/OdDkXFhoKsc?t=912))
+- The team wants bigs who stay out of the paint so Avdija and Morant can drive downhill. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1321))
+- Minutes and usage should swing from game to game across the rotation. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
+- The Lillard and Morant backcourt is undersized and poor on defense. Transition defense is projected to be poor, and offensive rebounding got worse. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=825), [06-29](https://youtu.be/bHA-JoW3reE?t=419))
+- Portland projects as a middle team with about 44 wins (range 40 to 45). It should be a playoff or play-in team. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1656), stats)
+- A consolidation trade to fix the guard glut is doubted. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
+- Portland's guards should convert fewer passes into assists because Camara, Clingan and Avdija are poor finishers. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
+- Holiday, Henderson and Sharpe are expected to come off the bench. (fact, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), stats)
+- Portland was rumored in a trade for Jaylen Brown. That deal would likely send out Henderson or another guard. (fact, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=286))
 
 **Durable**
 - none
 
 **Tags**
-- Current: `bad playoff schedule` (10 games in weeks 19 to 21 (17th of 30), with a back-to-back in each of the three weeks.), `deep rotation` (Lillard, Morant, Holiday, Henderson, Avdija and Sharpe share the ball and the guard minutes.), `thin rotation` (Avdija and Camara are the only real forwards. Sochan is the backup power forward.), `unsettled rotation` (Minutes and usage are expected to swing from game to game.), `winning team` (Projected about 44 wins (40 to 45). Win total 43.5 ranks 15th of 30.)
+- Current: `new coach` (New head coach for 2026-27. Rotation habits unknown.), `shared ball handling` (Lillard, Morant, Holiday, Avdija and Henderson share the playmaking.), `deep rotation` (Deep at guard (Lillard, Morant, Holiday, Avdija, Henderson, Sharpe). Very thin at forward.), `unsettled rotation` (Minutes and usage expected to swing from game to game.), `bad playoff schedule` (10 games in weeks 19 to 21 (rank 17 of 30), with a back-to-back in each of the three weeks.)
 - Durable: none
 
-**Note.** Portland is too crowded at guard for everyone to keep last season's usage. That lowers the value of Avdija, Lillard, Morant, Henderson and Holiday, and it makes cheap prices on those guards safer than expensive ones. Clingan should play no more than about 28 minutes, and with forwards this thin, Camara's role stays steady. Early on, watch who closes games, how the minutes swing, and any guard trade (such as the rumored Jaylen Brown deal), since the playoff schedule is weak with a back-to-back in each week.
+**Note.** Portland has too many high-usage guards (Lillard, Morant, Henderson, Holiday, Avdija) under a new coach. Expect every guard's usage and assists to come down, with game-to-game swings, and Avdija loses the most of his on-ball role. Clingan should be capped near 28 minutes. In the first weeks, watch who closes games, how the bench guard minutes split, and any trade that clears the guard glut.
 
-<sub>22 notes. Built 2026-10-04 with claude-opus-5-5 high, team prompt v1.</sub>
+<sub>23 notes. Built 2026-10-05 with claude-opus-5-5 high, team prompt v1.</sub>

@@ -11,31 +11,31 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Zeke Nnaji, PF Spencer Jones, PF Cam Whitmore, PG Tyus Jones, SF DeMar DeRozan, SG Julian Strawther
 
 **Current**
-- The fantasy playoff schedule is strong. Denver plays 11 games in weeks 19 to 21, which ranks 4 of 30. There is one back-to-back in week 20 and one in week 21. (fact, 2026-10-04; stats)
-- Denver is a strong team, with a win total of 49.5 (rank 6). The risk of tanking or late-season shutdowns is low. (verdict, 2026-10-04; stats)
-- Peyton Watson has left Denver. DeMar DeRozan has joined the team. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=170))
-- David Adelman sets the rotation. How the new pieces fit together is the main open question. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=170))
-- The projected starters are Jamal Murray, Christian Braun, Cam Johnson, Aaron Gordon and Nikola Jokic. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307), stats)
-- The projected bench is DeMar DeRozan, Spencer Jones, Marvin Bagley, Tyus Jones and Julian Strawther. DeRozan comes off the bench. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307))
-- The depth behind Aaron Gordon at power forward is very weak. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=792))
-- The team is mostly healthy going into the season. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1658))
-- The schedule is good. Denver plays 43 games through March 28, one below the most of any team. It has 14 back-to-backs, which ranks 12 of 30 (1 = fewest). (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678), stats)
-- Do not take Zeke Nnaji early just because he plays next to Jokic. Jamal Murray is a fine pick in that range. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1269))
-- Denver has one of only three five-game weeks this season. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1304))
-- The roster is unsettled. Cam Johnson or Christian Braun could be traded. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=226))
-- Losing Tim Hardaway Jr. leaves Denver short on spacing. They need shooters who will take the open shots that Jokic's gravity creates. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=409))
-- Moore predicts 50 wins and a weaker team than last season. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1746))
+- The fantasy playoff schedule is strong: 11 games in weeks 19 to 21 (rank 4 of 30). Week 19 has 4 games with no back-to-back, so stars are less likely to rest that week. (verdict, 2026-10-05; stats)
+- Peyton Watson is gone and DeMar DeRozan has joined Denver. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=170))
+- The open questions are whether the new pieces fit together and how David Adelman sets the rotation. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=170))
+- Projected starters are Jamal Murray, Christian Braun, Cam Johnson, Aaron Gordon and Nikola Jokic. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307), stats)
+- Projected bench is DeRozan, Spencer Jones, Marvin Bagley, Tyus Jones and Julian Strawther. The depth chart also lists Zeke Nnaji and Cam Whitmore in the second unit. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307), stats)
+- Depth behind Aaron Gordon at power forward is very poor. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=792))
+- The team is mostly healthy heading into the season. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1658))
+- Denver has 14 back-to-backs, rank 12 of 30. The expert calls this one of the lowest counts in the league and rates the schedule as good. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678), stats)
+- Do not draft Zeke Nnaji in round two just because he plays with Jokic. Jamal Murray is a fine pick there. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1269))
+- The Nuggets have one of only three five-game weeks this season. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1304))
+- Denver is trying to win now. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1495))
+- Cam Johnson and Christian Braun are named as possible trade pieces. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=226))
+- The win total is 49.5 (rank 6 of 30). Moore predicts 50 wins but a weaker team than last season. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1746), stats)
 - Moore doubts the team will rest Gordon, Murray and Jokic on purpose. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1377))
-- Moore doubts ownership will pay the luxury tax. He expects at least two of last year's starters, Cam Johnson among them, to be gone by the trade deadline. (verdict, 2026-07-31, until trade deadline; [07-31](https://youtu.be/keNupMSHp1Y?t=903))
+- Moore doubts ownership will pay the luxury tax. He expects at least two of last year's starters, including Cam Johnson, to be traded by the deadline. (verdict, 2026-07-31, until 2027-03-04 trade deadline; [07-31](https://youtu.be/keNupMSHp1Y?t=903))
+- Losing Tim Hardaway Jr. leaves Denver short on spacing. The team needs shooters willing to shoot off Jokic's gravity. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=409))
 
 **Durable**
-- Backup centers in Denver do not produce. Bigs who look fine on other teams tend to fall apart once they arrive. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1392), [07-31](https://youtu.be/keNupMSHp1Y?t=235))
-- The hosts have concerns about the Nuggets training staff because of the team's injury history. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=573))
+- Backup centers in Denver historically do not produce, even ones who looked fine elsewhere. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1392), [07-31](https://youtu.be/keNupMSHp1Y?t=235))
+- Experts have concerns about the Nuggets training staff, given the team's injury history. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=573))
 
 **Tags**
-- Current: `good playoff schedule` (11 games in weeks 19 to 21 (rank 4 of 30). One back-to-back each in weeks 20 and 21.), `few back-to-backs` (14 back-to-backs (rank 12 of 30). The expert calls this one of the lowest counts.), `trade risk` (Luxury tax pressure. Cam Johnson and Christian Braun are named as possible trade pieces.; until trade deadline), `winning team` (Win total 49.5 (rank 6). Moore predicts 50 wins.)
+- Current: `winning team` (Win total 49.5, rank 6 of 30; Moore predicts 50 wins), `low shutdown risk` (Win-now team; Moore doubts proactive rest for Gordon, Murray and Jokic), `good playoff schedule` (11 games in weeks 19 to 21, rank 4 of 30; no back-to-back in week 19), `few back-to-backs` (14 back-to-backs (rank 12 of 30); expert calls it one of the lowest counts), `trades likely` (Luxury tax pressure; Cam Johnson and Christian Braun named as possible trade pieces; until 2027-03-04 trade deadline), `unsettled rotation` (How Adelman fits DeRozan and the new pieces is still open), `thin rotation` (Very poor depth behind Aaron Gordon at power forward)
 - Durable: none
 
-**Note.** Denver is a strong team with a top-4 playoff schedule (11 games) and little planned rest, which helps Jokic, Murray and Gordon. Backup bigs like Nnaji and Bagley rarely produce here, so do not reach for them, and the depth behind Gordon is weak. Watch early how Adelman uses DeRozan off the bench, and watch for trades involving Cam Johnson or Christian Braun before the deadline.
+**Note.** Denver is a win-now team with a strong playoff schedule (11 games in weeks 19 to 21), and experts do not expect it to rest its stars on purpose. That helps Jokic and Murray, but backup centers like Zeke Nnaji rarely produce here and should not be drafted early. Early on, watch how Adelman uses DeRozan, who covers the thin power forward spot behind Gordon, and watch for Cam Johnson or Christian Braun trade news before the 2027-03-04 deadline.
 
-<sub>19 notes. Built 2026-10-04 with claude-opus-5-5 high, team prompt v1.</sub>
+<sub>19 notes. Built 2026-10-05 with claude-opus-5-5 high, team prompt v1.</sub>

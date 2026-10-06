@@ -8,34 +8,65 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "e79ce3e82bab",
+ "input_sha": "18d920eb61e1",
  "note_count": 5,
- "built_at": "2026-10-04T17:41:33+00:00",
+ "built_at": "2026-10-05T19:57:56+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1283702,
-  "duration_ms": 30921
+  "cost_usd_list": 0.1780172,
+  "duration_ms": 34700,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He is the Kings' backup point guard. The projected starters are Acuff, LaVine, Hunter, Murray and Sabonis, and the roster has no third point guard.",
+   "text": "He is Sacramento's backup point guard. There is no third point guard on the roster.",
    "kind": "fact",
    "date": "2026-07-31",
    "until": "",
    "sources": [
     "oEywzBZfAvY:p16",
-    "oEywzBZfAvY:t1",
     "oEywzBZfAvY:t5"
    ]
   },
   {
-   "text": "Trade rumors about him continue. He has 2 years left on his contract, including a player option.",
+   "text": "The projected Kings starters are Acuff, LaVine, Hunter, Murray and Sabonis, so he comes off the bench.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:t1"
+   ]
+  },
+  {
+   "text": "Trade rumors around him continue.",
    "kind": "fact",
    "date": "2026-07-31",
    "until": "",
    "sources": [
     "oEywzBZfAvY:p16"
+   ]
+  },
+  {
+   "text": "He has 2 years left on his contract, including a player option.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p16"
+   ]
+  },
+  {
+   "text": "Experts do not trust Sacramento's rotation with him. The coach and front office seem to dislike him.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:t4",
+    "KPdD91Oo8-U:p40",
+    "KPdD91Oo8-U:t2",
+    "-KS_AZjZnw4:p38"
    ]
   },
   {
@@ -46,24 +77,11 @@
    "sources": [
     "-KS_AZjZnw4:p38"
    ]
-  },
-  {
-   "text": "The coach and front office seem to dislike him. Experts do not trust the Kings' rotation with him and see little fantasy value for him in Sacramento.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "ahNxsoU8Hx4:t4",
-    "-KS_AZjZnw4:p38",
-    "KPdD91Oo8-U:p40",
-    "KPdD91Oo8-U:t2",
-    "lOshTzDA4SA:t4"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He does not play defense and cannot hold up on defense in heavy minutes. This limits how much his coaches play him.",
+   "text": "He does not play defense and cannot hold up defensively in heavy minutes.",
    "kind": "verdict",
    "date": "2026-07-31",
    "until": "",
@@ -76,14 +94,26 @@
   {
    "name": "trade risk",
    "channel": "current",
-   "detail": "Trade rumors continue. 2 years left on his contract, including a player option.",
+   "detail": "trade rumors continue",
    "until": "",
    "sources": [
     "oEywzBZfAvY:p16"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "experts do not trust Sacramento's rotation with him",
+   "until": "",
+   "sources": [
+    "KPdD91Oo8-U:t2",
+    "KPdD91Oo8-U:p40",
+    "ahNxsoU8Hx4:t4"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Both sites give him 0 USD in value, and his ranks (Yahoo 213, ESPN 159) are outside our 144 drafted players. We paid only 2 USD for him last season, so let him go undrafted. The projections disagree on his minutes: ESPN has 26.2 minutes and 14.9 points, Yahoo only 11.5 points. Early in the season, check whether he gets steady backup point guard minutes or gets traded. A trade or an injury to Acuff or LaVine could make him a useful waiver add for threes, FT% and assists.",
+ "note": "Both sites value him at 0 USD (Yahoo rank 213, ESPN rank 159), and our league paid only 2 USD for him last season, so he should go undrafted in a 144-player auction. The two sites disagree on his role. Yahoo projects 11.5 points on 9.3 shots, while ESPN projects about 26 minutes and 14.9 points. Treat him as a waiver option to watch early in the season: check whether he holds the backup point guard minutes or gets traded into a bigger role.",
  "rejected": []
 }

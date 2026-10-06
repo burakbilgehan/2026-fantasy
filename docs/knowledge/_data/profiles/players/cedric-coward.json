@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "6a39e7d1c8fe",
- "note_count": 11,
- "built_at": "2026-10-04T17:26:31+00:00",
+ "input_sha": "4727acbe859d",
+ "note_count": 12,
+ "built_at": "2026-10-05T19:44:46+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1470182,
-  "duration_ms": 41642
+  "cost_usd_list": 0.1632062,
+  "duration_ms": 44370,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Experts expect him to start for Memphis.",
+   "text": "Experts expect him to start for Memphis. Josh is certain he starts, and Joe's projected starting five has him at guard next to Ty Jerome.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -29,104 +31,81 @@
    ]
   },
   {
-   "text": "Experts expect a second-year jump in usage and minutes. Projections range from about 29 minutes to over 30 minutes a night.",
+   "text": "Experts expect more minutes and more usage in his second season. Projections run from about 29 minutes to over 30 minutes a night.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
    "sources": [
     "ZYllcj4o6_A:p32",
     "dlo7L8Ru91A:p30",
-    "W-R1dzem32s:p34",
     "gerS7ibpaJo:p16",
     "LcZcvk8s1xQ:p13"
    ]
   },
   {
-   "text": "He is picked as one of the bigger breakout players this season.",
+   "text": "Memphis runs an 11-man rotation, and Joe expects only Cameron Boozer and Coward to top 30 minutes.",
+   "kind": "verdict",
+   "date": "2026-08-17",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t2"
+   ]
+  },
+  {
+   "text": "Experts pick him as one of the bigger breakout players this season and expect a second-year jump.",
    "kind": "verdict",
    "date": "2026-09-21",
    "until": "",
    "sources": [
-    "egRrai3Ax38:p48"
+    "egRrai3Ax38:p48",
+    "W-R1dzem32s:p34",
+    "gerS7ibpaJo:p16"
    ]
   },
   {
-   "text": "Ja Morant is gone, so Memphis has a usage opening and a clear lack of guards.",
+   "text": "Ja Morant has been traded to Portland, and Memphis has no real replacement at point guard.",
    "kind": "fact",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:t5",
+    "NYTH7uQsPCM:t9",
+    "4GDfg2n2l8o:t2"
+   ]
+  },
+  {
+   "text": "Morant's exit leaves a big opening and little usage competition in Memphis, with Boozer seen as a main usage option.",
+   "kind": "verdict",
    "date": "2026-06-30",
    "until": "",
    "sources": [
     "4GDfg2n2l8o:t2",
-    "bHA-JoW3reE:t5"
+    "lOshTzDA4SA:t0"
    ]
   },
   {
-   "text": "Coach Tuomas Iisalo runs an 11-man rotation with short stints and keeps minutes down.",
+   "text": "Coach Tuomas Iisalo plays at a very high pace, which lifts counting stats.",
    "kind": "fact",
    "date": "2026-08-17",
    "until": "",
    "sources": [
-    "LcZcvk8s1xQ:t1",
-    "LcZcvk8s1xQ:t2"
+    "LcZcvk8s1xQ:t1"
    ]
   },
   {
-   "text": "Joe expects only Cameron Boozer and Coward to top 30 minutes on this deep roster.",
+   "text": "Josh values him at about 6 USD in an auction.",
    "kind": "verdict",
-   "date": "2026-08-17",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "LcZcvk8s1xQ:t2"
-   ]
-  },
-  {
-   "text": "Experts rank him around 100 to 110 (tier seven at shooting guard, tier six at small forward). His ESPN rank and ADP sit lower, around 118 to 128.",
-   "kind": "verdict",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "W-R1dzem32s:p34",
-    "dlo7L8Ru91A:p30",
-    "gerS7ibpaJo:p16",
-    "OdDkXFhoKsc:p54",
-    "ZYllcj4o6_A:p32",
-    "egRrai3Ax38:p48"
-   ]
-  },
-  {
-   "text": "Josh likes him as a late-round flier and regrets passing on him in a mock draft.",
-   "kind": "verdict",
-   "date": "2026-08-17",
-   "until": "",
-   "sources": [
-    "LcZcvk8s1xQ:p15",
-    "OdDkXFhoKsc:p54"
-   ]
-  },
-  {
-   "text": "One expert thinks he may add some steals this season.",
-   "kind": "verdict",
-   "date": "2026-09-10",
-   "until": "",
-   "sources": [
-    "dlo7L8Ru91A:p30"
+    "Q6YlQDvD-aY:p78"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is a rebounding wing who adds clearly more rebounds than most guards and forwards.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "LcZcvk8s1xQ:p14",
-    "stats"
-   ]
-  },
-  {
-   "text": "He is a third-option scorer who knocks down open shots.",
-   "kind": "fact",
+   "text": "He is a strong defender and a rebounding wing. He is a third-option scorer who knocks down open shots.",
+   "kind": "verdict",
    "date": "2026-08-17",
    "until": "",
    "sources": [
@@ -134,19 +113,28 @@
    ]
   },
   {
-   "text": "He is seen as a strong defender, but steals and blocks are not his strength.",
+   "text": "He rebounds well for a guard or forward.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "stats",
+    "LcZcvk8s1xQ:p14"
+   ]
+  },
+  {
+   "text": "He has been poor at getting steals and blocks despite his defensive reputation.",
    "kind": "fact",
    "date": "2026-10-02",
    "until": "",
    "sources": [
-    "LcZcvk8s1xQ:p14",
     "gerS7ibpaJo:p15",
     "W-R1dzem32s:p34",
     "ZYllcj4o6_A:p32"
    ]
   },
   {
-   "text": "He has a good archetype but is old for a second-year player. He has not yet shown he can raise his usage or volume.",
+   "text": "One expert sees a good archetype but an older player who has not yet shown he can raise his usage or volume.",
    "kind": "verdict",
    "date": "2026-09-04",
    "until": "",
@@ -159,14 +147,13 @@
   {
    "name": "role up",
    "channel": "current",
-   "detail": "Expected usage jump and about 29 to 30+ minutes after Morant left",
+   "detail": "About 29 to 30+ minutes and more usage expected after Morant's exit",
    "until": "",
    "sources": [
     "ZYllcj4o6_A:p32",
     "dlo7L8Ru91A:p30",
-    "LcZcvk8s1xQ:p13",
     "gerS7ibpaJo:p16",
-    "4GDfg2n2l8o:t2"
+    "LcZcvk8s1xQ:p13"
    ],
    "new_meaning": ""
   },
@@ -185,29 +172,30 @@
   {
    "name": "sleeper",
    "channel": "current",
-   "detail": "Experts rank him around 100 to 110, ESPN rank 124 and ADP 128",
+   "detail": "ESPN prices him at 1 USD, rank 124",
    "until": "",
    "sources": [
-    "W-R1dzem32s:p34",
+    "egRrai3Ax38:p48",
     "ZYllcj4o6_A:p32",
-    "OdDkXFhoKsc:p54"
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "flyer",
    "channel": "current",
-   "detail": "Late-round flier per Josh",
+   "detail": "Late-round flier, about 6 USD",
    "until": "",
    "sources": [
-    "LcZcvk8s1xQ:p15"
+    "LcZcvk8s1xQ:p15",
+    "Q6YlQDvD-aY:p78"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo rank 84 and value 10 USD, ESPN rank 124 and value 1 USD",
+   "detail": "Yahoo value 10 USD, rank 84; ESPN value 1 USD, rank 124",
    "until": "",
    "sources": [
     "stats"
@@ -215,9 +203,42 @@
    "new_meaning": ""
   },
   {
+   "name": "usage freed",
+   "channel": "current",
+   "detail": "Ja Morant traded to Portland",
+   "until": "",
+   "sources": [
+    "4GDfg2n2l8o:t2",
+    "bHA-JoW3reE:t5",
+    "lOshTzDA4SA:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fast pace",
+   "channel": "current",
+   "detail": "Iisalo plays at a very high pace",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "11-man rotation with short stints, but Coward expected to top 30 minutes",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t1",
+    "LcZcvk8s1xQ:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "No weak category flagged; low steals and some turnovers are the small costs",
+   "detail": "No category flagged weak",
    "until": "",
    "sources": [
     "stats"
@@ -225,6 +246,6 @@
    "new_meaning": ""
   }
  ],
- "note": "The sites price him very differently. Yahoo has him at rank 84 and 10 USD (6.4 USD average cost), and ESPN at rank 124 and 1 USD. Experts sit in between at about 100 to 110, so a bid of 3 to 7 USD late in our auction is fair value with breakout upside. He has no weak category flagged and gives rebounds and FT% from a wing spot, so he fits any build, but his low steals and 2.1 projected turnovers cost a little. Yahoo projects 14.2 shots a game and ESPN 11.5, so in the first weeks check that he really plays close to 30 minutes and gets the usage bump in Iisalo's deep rotation.",
+ "note": "Coward is a cheap breakout bet. Josh values him at about 6 USD, close to his 6.4 USD Yahoo average cost, while ESPN has him at 1 USD and rank 124. He went undrafted in our league last season. His projected line (about 17 points, 6.8 rebounds, 84.7% FT) has no weak category, so he fits any build, though steals and turnovers are soft spots. Early in the season, check that he gets 29 to 30+ minutes in Iisalo's 11-man rotation and that his usage really rises toward Yahoo's projection of 14.2 shots per game, up from 10.5 last season.",
  "rejected": []
 }

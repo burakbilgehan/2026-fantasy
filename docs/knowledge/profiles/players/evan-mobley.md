@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 30 | 23.6 | 27 | 27 | 19.8 | 27 | 36 |
+| 2026-27 | 30 | 23.6 | 27 | 27 | 19.9 | 27 | 36 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,30 +30,29 @@
 </details>
 
 **Current**
-- Experts see his draft position around 30 as fair to slightly high. The newest view is fine with an ADP near 30 but prefers him from the mid third to the early fourth round in categories. Another expert ranks him lower than consensus. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=518), [09-19](https://youtu.be/uarqbNA2dFk?t=483), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1275))
-- He finished 41st in categories leagues and 29th in points leagues last season. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=518))
-- His very poor free throw shooting is the main reason his fantasy value fell last season. His usage stayed at 22, his rebounding was strong, and he blocked the most shots of his career, fifth in the league at 1.8 per game. (fact, 2026-09-29; [08-09](https://youtu.be/8d--aL_xxwE?t=472), [07-07](https://youtu.be/ME-r173X5b0?t=2777), [09-29](https://youtu.be/NmdNvAz08oE?t=557))
-- He shot under 30% from three last season. One expert expects him to recover to about 33 to 34%. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=535))
-- He is projected to start in the frontcourt next to Jarrett Allen, with James Harden, Donovan Mitchell and Peyton Watson. Big-man depth is very thin: behind Mobley and Allen there is only Thomas Bryant, then Ernest Udeh Jr. and Khalifa Diop. Dean Wade is gone. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=397), [08-24](https://youtu.be/rnq3118kfhY?t=510), [09-29](https://youtu.be/NmdNvAz08oE?t=1534), [08-24](https://youtu.be/rnq3118kfhY?t=1222), [09-14](https://youtu.be/t4n9MAP2_14?t=1684))
-- It is unclear whether Kenny Atkinson will play him more at center in smaller lineups. Cleveland may close games with Mobley at center. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=362), [09-14](https://youtu.be/t4n9MAP2_14?t=1684))
-- Cleveland plays 4, 3 and then 2 games in our playoff weeks 19 to 21, so finals week is a two-game week. Cleveland also has the most back-to-backs in the league. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [08-16](https://youtu.be/gf_6GveiAls?t=1536), [09-29](https://youtu.be/NmdNvAz08oE?t=1907), [08-16](https://youtu.be/gf_6GveiAls?t=930))
-- The weak playoff schedule gives one expert some pause on him. Another calls the impact of the two-game week borderline. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1896), [08-16](https://youtu.be/gf_6GveiAls?t=1562))
-- He has no current injury concern. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1808))
-- One expert sees this as a big offensive year for him. Another is not sold on a big usage increase, partly because James Harden is now a full-time ball handler in Cleveland. (verdict, 2026-09-22; [08-24](https://youtu.be/rnq3118kfhY?t=1053), [09-14](https://youtu.be/t4n9MAP2_14?t=928), [09-22](https://youtu.be/QbdrhJd7LiA?t=408))
-- Experts expect his FT% to stay poor this season. It could improve, but it will not be excellent, and any gain is a bonus. One expert is not ready to call him a bad free throw shooter. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=928), [08-11](https://youtu.be/OdDkXFhoKsc?t=706), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1275), [07-16](https://youtu.be/-y6p5PYLf00?t=2153))
-- He had two calf strains last season. He came back early and played on a minutes restriction. He looked better in the playoffs. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1053))
+- Experts think he is fairly priced. One said an ADP around 30 is acceptable but sees him as a mid third to early fourth round pick in categories. In a mock auction he was expected to go in the mid 20s USD and went for 27 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2674), [09-29](https://youtu.be/NmdNvAz08oE?t=518))
+- He is a projected starter next to Jarrett Allen, with James Harden, Donovan Mitchell and Peyton Watson in the projected starting lineup. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=397), [08-24](https://youtu.be/rnq3118kfhY?t=510))
+- Cleveland's big-man depth is very thin. Behind Mobley and Allen there is only Thomas Bryant, then Ernest Udeh Jr. and Khalifa Diop. Dean Wade is gone. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1534), [08-24](https://youtu.be/rnq3118kfhY?t=1222), [09-14](https://youtu.be/t4n9MAP2_14?t=1684))
+- It is unclear whether Kenny Atkinson will play Mobley more at center in smaller lineups. After the Peyton Watson trade, Cleveland may close games with Mobley at center. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=362), [09-14](https://youtu.be/t4n9MAP2_14?t=1684))
+- He has no current injury concerns. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1808))
+- Experts see last season's drop in value as mostly a free throw problem, not a decline. His usage of about 22, his blocks and his rebounding held up. (verdict, 2026-09-29; [08-09](https://youtu.be/8d--aL_xxwE?t=472), [07-07](https://youtu.be/ME-r173X5b0?t=2777), [09-29](https://youtu.be/NmdNvAz08oE?t=557), [09-29](https://youtu.be/NmdNvAz08oE?t=590))
+- His three-point percentage is expected to bounce back to around 33 to 34%. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=535))
+- With a March 28 end, Cleveland plays 4, 3 and then 2 games in our playoff weeks. The 2-game week is the finals week starting March 22. Cleveland also has the most back-to-backs in the league. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [09-29](https://youtu.be/NmdNvAz08oE?t=1907), [08-16](https://youtu.be/gf_6GveiAls?t=1536), [08-16](https://youtu.be/gf_6GveiAls?t=930))
+- Cleveland's bad playoff schedule makes experts a bit less keen on him. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1896), [08-16](https://youtu.be/gf_6GveiAls?t=1562))
+- Experts do not expect a big jump in usage, and Harden playing full time means more players need the ball. (verdict, 2026-09-22; [09-14](https://youtu.be/t4n9MAP2_14?t=928), [09-22](https://youtu.be/QbdrhJd7LiA?t=408))
+- Experts disagree on his free throws this season. One is not ready to call him a bad free throw shooter. Another says they could improve but will never be excellent. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1275), [09-14](https://youtu.be/t4n9MAP2_14?t=928))
 
 **Durable**
-- Blocks are his best category and a real league outlier. He is also clearly strong in FG% and rebounds. (fact, 2026-10-04; stats)
-- FT% is his clear weak spot. On his volume it hurts a team's FT%. (fact, 2026-10-04; stats)
-- At 25 he has not reached his peak. He could become a 20-point scorer with two blocks per game. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=590))
-- He has a history of lower-body injuries, including two calf strains last season. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1919), [08-24](https://youtu.be/rnq3118kfhY?t=1053))
-- He is an elite defender with a high floor and a pretty good passer out of the pocket. The open question is whether his offense can take the next step. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1121))
+- He is an elite shot blocker and a strong rebounder, and he adds a good FG% on solid volume. (fact, 2026-09-29; stats, [07-07](https://youtu.be/ME-r173X5b0?t=2777), [09-29](https://youtu.be/NmdNvAz08oE?t=557))
+- Free throws are his clear weak category. Experts expect his FT% to stay below average and say it will never be excellent. (verdict, 2026-09-29; stats, [09-14](https://youtu.be/t4n9MAP2_14?t=928), [08-11](https://youtu.be/OdDkXFhoKsc?t=706), [07-16](https://youtu.be/-y6p5PYLf00?t=2153), [08-09](https://youtu.be/8d--aL_xxwE?t=1262), [09-29](https://youtu.be/NmdNvAz08oE?t=535))
+- He is 25 and not at his peak. He could become a 20-point scorer with two blocks per game. The open question is whether his offense takes the next step. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=590), [08-24](https://youtu.be/rnq3118kfhY?t=1121))
+- He has a history of lower-body injuries, including two calf strains in the 2025-26 season. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1919), [08-24](https://youtu.be/rnq3118kfhY?t=1053))
+- He is an elite defender with a high floor and a good passer out of the pocket. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1121))
 
 **Tags**
-- Current: `bad playoff schedule` (4, 3, 2 games in weeks 19 to 21, so a two-game finals week. Cleveland has the most back-to-backs in the league)
-- Durable: `BLK specialist` (about 1.7 blocks per game, career high last season), `FT% liability` (about 61% last season on 4.6 attempts per game), `punt FT fit` (keeps value from blocks, rebounds and FG% without FT%), `injury prone` (lower-body injuries, two calf strains last season)
+- Current: `bounce-back` (3PT% expected back toward 33 to 34%. FT% could improve), `usage competition` (Shares the ball with James Harden and Donovan Mitchell), `thin rotation` (Only Bryant, Udeh and Diop behind Mobley and Allen), `many back-to-backs` (Most back-to-backs in the league), `bad playoff schedule` (4, 3 and 2 games in weeks 19 to 21, with 2 games in the finals week), `winning team` (Projected at about 51 to 53 wins)
+- Durable: `BLK specialist` (About 1.7 to 1.8 blocks per game, among the league leaders), `FT% liability` (About 61 to 67% on 4.5 attempts per game), `punt FT fit` (Keeps value from blocks, rebounds and FG%), `injury prone` (Lower-body injuries, two calf strains in 2025-26), `points league player` (Finished 29th in points leagues but 41st in categories last season because of FT%)
 
-**Note.** He went for 36 USD in our league last season. Yahoo now values him at 30 USD (average cost 23.6) and ESPN at 27 USD (average cost 19.8), with both ranking him 27th. He finished 41st in categories last year, so I would pay the mid 20s, near the site averages, and not last year's 36 USD. He fits best in a punt FT% build, where his blocks, rebounds and FG% count fully and his weak FT% does not matter. Early in the season, check whether his FT% and three-point shooting recover and whether Atkinson plays him at center in small lineups. His two-game finals week is a reason not to overpay.
+**Note.** He is ranked 27th at both Yahoo and ESPN (value 30 USD and 27 USD). Average costs are lower, at 23.6 USD and 19.9 USD, and he went for 27 USD in a recent mock. Last season our league paid 36 USD, so a price in the mid to high 20s looks fair. Paying in the 30s again would be too much for a player who finished 41st in categories. He fits punt FT% builds best: his 66.6% projected FT on 4.6 attempts (z -2.2) is the only drag on elite blocks (z +2.4), rebounds and a 55.5% FG. Early in the season, check his FT% and three-point shooting, and whether Atkinson uses him at center. Cleveland's 2-game finals week and league-high back-to-back count also lower his playoff value.
 
-<sub>18 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>19 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

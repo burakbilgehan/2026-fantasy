@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 5 | 1.2 | 103 | 0 | 0.5 | 135 | 11 |
+| 2026-27 | 5 | 1.2 | 103 | 0 | 0.6 | 135 | 11 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,25 +30,26 @@
 </details>
 
 **Current**
-- Experts say he goes too late in drafts. They think he should go inside the top 100, but on ESPN he sits outside the top 130. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2392), [09-17](https://youtu.be/DubdKKhMWHo?t=1707), [09-14](https://youtu.be/t4n9MAP2_14?t=1311), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1761))
-- In mock drafts, experts took him around round 8 for his defensive stats. In a 12-team mock, he went around pick 116. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1330), [09-24](https://youtu.be/_vbAP5y182A?t=1568), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1761))
-- Experts expect him to be the full-time starting center, and they see his role as secure. (verdict, 2026-09-17; [07-01](https://youtu.be/W3THnI7wWdA?t=969), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1246), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1274))
-- The other OKC bigs are Chet Holmgren, Al Horford, Jaylin Williams and Thomas Sorber. Jaylin Williams barely played unless the centers were out. (fact, 2026-09-17; [07-21](https://youtu.be/RyzcCGChYgs?t=1024), [06-28](https://youtu.be/RsjGTgJiKyI?t=446), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1274))
-- He was banged up a lot last season. He was playing very well early in the season before he got hurt. (fact, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1246), [09-17](https://youtu.be/DubdKKhMWHo?t=1707))
-- If he stays healthy and plays 28 to 29 minutes, he is a top 60 player. One expert gives a best case of 40th and a worst case of 93rd. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1246), [09-14](https://youtu.be/t4n9MAP2_14?t=1311), [09-17](https://youtu.be/DubdKKhMWHo?t=1707))
-- He re-signed with the Thunder on a 3-year, 75 million USD contract. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=969))
+- Experts like him around round 8 in 9-cat mock drafts and call him a useful starting center for the late rounds. (verdict, 2026-10-04; [09-24](https://youtu.be/_vbAP5y182A?t=1568), [09-30](https://youtu.be/BjXP9JODDSg?t=1330), [10-04](https://youtu.be/n4KkK-OJjqA?t=1148))
+- Experts see him as value. He should go inside the top 100, but he keeps going too late, and on ESPN he sits outside the top 130. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2392), [09-17](https://youtu.be/DubdKKhMWHo?t=1707), [09-14](https://youtu.be/t4n9MAP2_14?t=1311), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1761))
+- His role as OKC's full-time starting center looks secure. (verdict, 2026-09-17; [07-01](https://youtu.be/W3THnI7wWdA?t=969), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1246), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1274))
+- OKC's center rotation is Hartenstein, Chet Holmgren and Jaylin Williams. Williams barely played unless the centers were out. (fact, 2026-09-17; [07-21](https://youtu.be/RyzcCGChYgs?t=1024), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1274))
+- He was banged up a lot last season after playing very well early on. (fact, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1246), [09-17](https://youtu.be/DubdKKhMWHo?t=1707))
+- If he stays healthy and plays 28 to 29 minutes, he can be a top 60 player. One expert gives a best case of 40th and a worst case of 93rd. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1246), [09-14](https://youtu.be/t4n9MAP2_14?t=1311), [09-17](https://youtu.be/DubdKKhMWHo?t=1707))
+- OKC projects to win about 57 to 62 games and should be a top two seed in the West. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2232))
+- He re-signed with the Thunder for 3 years and 75 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=969))
 
 **Durable**
-- He is a center who gets assists at a rate that is unusual for his position. (fact, 2026-10-04; [09-14](https://youtu.be/t4n9MAP2_14?t=1319), stats)
-- He gives rebounds, steals, blocks and a high FG% on top of his assists. (fact, 2026-10-04; [09-14](https://youtu.be/t4n9MAP2_14?t=1319), stats)
-- He no longer shoots threes. (fact, 2026-10-04; [09-14](https://youtu.be/t4n9MAP2_14?t=1319), stats)
+- His FT% is low, but on only about 2 attempts per game, so it hurts a team's FT% only a little. (fact, 2026-10-05; stats)
+- He is a center with unusual assist numbers for his position. He no longer shoots threes. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1319), stats)
+- He gives rebounds, high FG%, assists and steals, with some blocks. His blocks are below average for a center. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1319), stats)
 
 **Tags**
-- Current: `injury last season` (Banged up a lot, 47 games played), `sleeper` (Market rank about 100 to 135, experts see top 100 value and top 60 upside), `expert target` (Drafted around round 8 in expert mocks), `sites disagree on price` (Yahoo rank 103, ESPN rank 135)
+- Current: `sleeper` (ADP around 98 to 103 on Yahoo, outside 130 on ESPN), `expert target` (experts take him around round 8 and say he should go inside the top 100), `sites disagree on price` (Yahoo rank 103 and value 5 USD, ESPN rank 135 and value 0 USD), `injury last season` (banged up a lot last season, 47 games), `winning team` (projected 57 to 62 wins)
 - Durable: `no 3PM` (0.0 threes per game), `punt 3PM fit`
 
-**Note.** The market has him near the cutoff of our 144-player draft: Yahoo rank 103 (average cost 1.2 USD) and ESPN rank 135 (0.5 USD). Experts see top 100 value and top 60 upside at 28 or more minutes, so he is a cheap end-game target. Our league paid 11 USD for him last season, so a few USD is a better price. He fits punt 3PM builds and gives rebounds, assists, steals and a 61% FG%. His 64% FT% comes on only about 2 attempts per game, so the damage there is small. Early in the season, check that he is healthy and playing close to 28 minutes, up from 24.3 last season.
+**Note.** The market is cheap on him (Yahoo average cost 1.2 USD, ESPN 0.6 USD, rank 103 on Yahoo and 135 on ESPN), while our league paid 11 USD last season and experts say he should go inside the top 100. At 1 to 5 USD he is a good late center: strong rebounds and FG%, rare assists for a big, and no threes, so he fits punt 3PM builds best. Early in the season, check whether he gets 28 or more minutes and stays healthy, because that is what lifts him toward top 60 value.
 
 <sub>Tags removed by the category check: AST from a big (not a F/C with AST z >= +1.5 vs position).</sub>
 
-<sub>9 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>10 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

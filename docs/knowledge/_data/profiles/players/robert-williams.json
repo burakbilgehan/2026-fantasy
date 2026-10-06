@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "9462f23c7e24",
+ "input_sha": "0240069b8f09",
  "note_count": 4,
- "built_at": "2026-10-04T17:47:06+00:00",
+ "built_at": "2026-10-05T20:01:22+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.12387419999999999,
-  "duration_ms": 28721
+  "cost_usd_list": 0.14628619999999998,
+  "duration_ms": 34125,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Portland re-signed him for 3 years and 44 million USD.",
+   "text": "He re-signed with Portland for 3 years and 44 million USD.",
    "kind": "fact",
    "date": "2026-08-11",
    "until": "",
@@ -29,16 +31,17 @@
    ]
   },
   {
-   "text": "He is the backup center behind Donovan Clingan.",
+   "text": "He is the backup center behind Donovan Clingan. Clingan is in the projected starting five.",
    "kind": "fact",
-   "date": "2026-07-16",
+   "date": "2026-08-11",
    "until": "",
    "sources": [
-    "-y6p5PYLf00:p24"
+    "-y6p5PYLf00:p24",
+    "YJk7ZFKFqnI:t1"
    ]
   },
   {
-   "text": "He is not expected to start over Clingan, although his new contract shows the team trusts him.",
+   "text": "He outplayed Clingan in the playoffs. The contract shows the team trusts him, but he is not expected to start over Clingan.",
    "kind": "verdict",
    "date": "2026-07-01",
    "until": "",
@@ -56,16 +59,16 @@
    ]
   },
   {
-   "text": "At about 23 minutes a night he would be a draftable player in category leagues.",
+   "text": "A local Blazers analyst does not expect Clingan to play over 28 minutes, which leaves backup center minutes for him.",
    "kind": "verdict",
-   "date": "2026-07-01",
+   "date": "2026-08-11",
    "until": "",
    "sources": [
-    "W3THnI7wWdA:p42"
+    "OdDkXFhoKsc:t3"
    ]
   },
   {
-   "text": "His 2P% of 74 last season is expected to fall to about 68, which would cut into his FG% value.",
+   "text": "Most of his FG% value comes from twos. His 2P% jumped from 65 to 74, and the expert expects it to fall back to about 68.",
    "kind": "verdict",
    "date": "2026-07-16",
    "until": "",
@@ -74,50 +77,61 @@
    ]
   },
   {
-   "text": "Portland has three back-to-backs in the fantasy playoffs.",
+   "text": "At about 23 minutes a night he would be a draftable category-league player.",
+   "kind": "verdict",
+   "date": "2026-07-01",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p42"
+   ]
+  },
+  {
+   "text": "Portland has a new head coach, and minutes and usage are expected to swing from game to game across the rotation.",
    "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:t6",
+    "YJk7ZFKFqnI:t5"
+   ]
+  },
+  {
+   "text": "Portland has three back-to-backs in the fantasy playoffs. If he sits back-to-backs, he loses games in weeks 19 to 21.",
+   "kind": "verdict",
    "date": "2026-08-16",
    "until": "",
    "sources": [
-    "gf_6GveiAls:t6"
+    "gf_6GveiAls:t6",
+    "YJk7ZFKFqnI:p17"
    ]
   }
  ],
  "durable": [
   {
-   "text": "His minutes and his health are hard to trust.",
+   "text": "His blocks are a league outlier for his minutes. He adds a high FG% on low volume, few turnovers and solid rebounds.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He makes almost no threes and scores few points, even for a center.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "His minutes and health are hard to trust.",
    "kind": "verdict",
    "date": "2026-07-01",
    "until": "",
    "sources": [
     "W3THnI7wWdA:p42"
-   ]
-  },
-  {
-   "text": "Blocks are his standout category, far above the top 250 pool.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He makes almost no threes and scores few points.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "Most of his FG% value comes from twos.",
-   "kind": "fact",
-   "date": "2026-07-16",
-   "until": "",
-   "sources": [
-    "-y6p5PYLf00:p24"
    ]
   }
  ],
@@ -145,7 +159,7 @@
   {
    "name": "punt PTS fit",
    "channel": "durable",
-   "detail": "about 7 points per game",
+   "detail": "about 7 points a game",
    "until": "",
    "sources": [
     "stats"
@@ -153,13 +167,22 @@
    "new_meaning": ""
   },
   {
-   "name": "injury prone",
+   "name": "category league player",
    "channel": "durable",
-   "detail": "health hard to trust; 6 and 20 games in 2023-24 and 2024-25",
+   "detail": "blocks, FG% and low turnovers on small minutes",
    "until": "",
    "sources": [
-    "W3THnI7wWdA:p42",
-    "stats"
+    "W3THnI7wWdA:p42"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes limit",
+   "channel": "current",
+   "detail": "expected cap of 17 to 18 minutes",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:p17"
    ],
    "new_meaning": ""
   },
@@ -176,7 +199,7 @@
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "Portland has three playoff back-to-backs and he is expected to sit back-to-backs",
+   "detail": "Portland has three back-to-backs in the fantasy playoffs, and he is expected to sit back-to-backs",
    "until": "",
    "sources": [
     "gf_6GveiAls:t6",
@@ -185,27 +208,36 @@
    "new_meaning": ""
   },
   {
-   "name": "handcuff",
+   "name": "regression risk",
    "channel": "current",
-   "detail": "backup to Donovan Clingan; draftable at about 23 minutes",
+   "detail": "2P% expected to drop from 74 to about 68",
    "until": "",
    "sources": [
-    "-y6p5PYLf00:p24",
-    "W3THnI7wWdA:p42"
+    "-y6p5PYLf00:p24"
    ],
    "new_meaning": ""
   },
   {
-   "name": "waiver watch",
+   "name": "new coach",
    "channel": "current",
-   "detail": "Yahoo rank 202, ESPN rank 165, 0 USD on both sites",
+   "detail": "",
    "until": "",
    "sources": [
-    "stats"
+    "n4KkK-OJjqA:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "minutes expected to swing game to game",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t5"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both sites value him at 0 USD (Yahoo rank 202, ESPN rank 165), so he should not be drafted among our 144 players. He is a waiver option for blocks and FG% in punt PTS or punt 3PM builds. Early in the season, check whether his minutes climb toward 23 or Clingan misses time. Keep in mind that his back-to-back rest and Portland's three playoff back-to-backs lower his value in weeks 19 to 21.",
+ "note": "He is ranked 202 on Yahoo and 165 on ESPN, both sites value him at 0 USD, and he was not drafted in our league last season. That puts him outside the 144 players we draft. His value is blocks (z +2.1 vs the pool), FG% and low turnovers on about 17 minutes, so he only fits a punt PTS build that needs blocks, and his 59.6 FT% last season is a small drag. Leave him on waivers at the draft. Pick him up if his minutes rise toward 23 or Clingan misses time, and watch whether his FG% holds near 70.",
  "rejected": []
 }

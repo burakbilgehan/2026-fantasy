@@ -20,12 +20,14 @@
  ],
  "proposed": true,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-04T20:21:28+00:00",
+ "built_at": "2026-10-05T20:18:42+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.5297008,
-  "duration_ms": 119314
+  "cost_usd_list": 0.5286448,
+  "duration_ms": 117325,
+  "turns": 2,
+  "denied": 0
  },
  "player_slugs": [
   "aaron-nesmith",
@@ -33,8 +35,10 @@
   "alperen-sengun",
   "amen-thompson",
   "andrew-nembhard",
+  "anthony-davis",
   "anthony-edwards",
   "ayo-dosunmu",
+  "bam-adebayo",
   "bogdan-bogdanovic",
   "bones-hyland",
   "bradley-beal",
@@ -49,28 +53,27 @@
   "daniel-gafford",
   "darius-garland",
   "davion-mitchell",
-  "dayron-sharpe",
   "deanthony-melton",
-  "deni-avdija",
   "dereck-lively",
   "derrick-jones",
   "donovan-clingan",
   "donovan-mitchell",
   "donte-divincenzo",
   "draymond-green",
+  "dyson-daniels",
   "egor-demin",
   "evan-mobley",
   "fred-vanvleet",
   "gary-payton",
+  "giannis-antetokounmpo",
   "gui-santos",
   "immanuel-quickley",
-  "isaiah-evans",
   "isaiah-jackson",
   "ivica-zubac",
   "ja-morant",
   "jabari-smith",
   "jaden-mcdaniels",
-  "jalen-johnson",
+  "jakob-poeltl",
   "james-harden",
   "jarrett-allen",
   "jay-huff",
@@ -81,8 +84,6 @@
   "joel-embiid",
   "jonathan-kuminga",
   "jordan-miller",
-  "jrue-holiday",
-  "kawhi-leonard",
   "keaton-wagler",
   "kelly-oubre",
   "kentavious-caldwell-pope",
@@ -100,6 +101,7 @@
   "mikel-brown",
   "mitchell-robinson",
   "morez-johnson",
+  "moses-moody",
   "naji-marshall",
   "noah-clowney",
   "obi-toppin",
@@ -121,19 +123,20 @@
   "terrence-shannon",
   "thomas-bryant",
   "tj-mcconnell",
+  "toumani-camara",
   "tyrese-haliburton",
   "tyrese-maxey",
   "vj-edgecombe",
   "yanic-konan-niederhauser",
   "yaxel-lendeborg"
  ],
- "summary": "Use the fantasy playoff schedule (weeks 19 to 21, ending 2027-03-28) only as a tiebreaker between players you rate the same. It matters most for the expensive players at the top of the auction and very little for cheap picks. Dallas, Detroit, Atlanta, the Clippers and Golden State have good schedules. Minnesota (two games in week 20) and Cleveland (two games in finals week 21) have the worst, and Houston, Indiana and the teams with three playoff back-to-backs are also weak.",
+ "summary": "Our playoffs are weeks 19 to 21, ending 2027-03-28. Minnesota plays only two games in week 20 and Cleveland only two in week 21, the finals week. Dallas (4-4-4), Detroit and the Clippers (4-3-4) and Atlanta (4-4-3) have the strongest schedules. Use the schedule only as a tiebreaker between similar players at similar prices. It matters most for expensive players and should never make you take a worse player.",
  "sections": [
   {
    "heading": "A tiebreaker, not a strategy",
    "paragraphs": [
     {
-     "text": "Every expert note says the same thing. The playoff schedule is the least important factor at draft time. Use it only to choose between two players you rate the same. Never buy a worse player because his team has a better schedule, and do not build your draft plan around it.",
+     "text": "Use the playoff schedule only to break ties between two similar players. At draft time it is the least important factor. Never take a worse player because his schedule is better, and do not build your draft plan around schedules.",
      "sources": [
       "aLP080hxizA:r9",
       "QbdrhJd7LiA:r11",
@@ -141,150 +144,140 @@
      ]
     },
     {
-     "text": "It matters most for expensive players. One expert does not want his best player to have a two-game week in the semifinals or the final. In our auction that means the first-round players you pay the most for. For mid and late picks he barely worries about it. In practice, check the schedule when you set your max bids for your top targets. For players you plan to buy for a few dollars at the end of the auction, ignore it.",
+     "text": "It matters most for early, expensive picks. One expert does not want his best player to have a two-game week in the semifinals or the championship. For mid and late picks, he barely considers it. In our auction, check the schedule when you choose between two stars at about the same price. Mostly ignore it for 1 to 3 USD flyers in the last rounds.",
      "sources": [
       "NmdNvAz08oE:r2",
       "NmdNvAz08oE:r3"
      ]
-    },
-    {
-     "text": "How to apply it: if two players are on your list at the same tier and a similar price, prefer the one whose team has more games in weeks 19 to 21. If a team has a two-game week in our playoffs, move its players down a little against similar players. In an auction, that means a slightly lower max bid, not dropping him from your list.",
-     "sources": [
-      "2mxpEpGU3H8:r0",
-      "aLP080hxizA:r9"
-     ]
     }
    ]
   },
   {
-   "heading": "Where the experts differ",
+   "heading": "How much to mark a player down: experts differ",
    "paragraphs": [
     {
-     "text": "The experts disagree on how hard to punish a two-game week. One note says that in head-to-head leagues, categories or points, a two-game playoff week should drop a player down your board. The other notes say schedule should only break ties and should never make you take a worse player. The same expert who wants the drop also says that if an early pick with a two-game week falls late enough and there is no better option, you should take him, just don't reach for him early. For our auction, that suggests a middle path. Do not pay full price early for a star with a two-game week. If his price stalls well below his value late in the auction, buy him.",
+     "text": "The experts disagree on how much weight a two-game week deserves. One side says that in head-to-head leagues a two-game playoff week should drop a player down your board. Another note says to move such players down a little when you compare them with similar players. The other side says schedules only break ties, never justify taking a worse player, and should not drive your draft. The same expert adds that if an early pick with a two-game week falls late enough and nothing better is left, you should take him, but you should not reach for him early. In practice, that means taking a few USD off your maximum bid, not avoiding the player.",
      "sources": [
       "gf_6GveiAls:r13",
-      "gf_6GveiAls:r12",
+      "2mxpEpGU3H8:r0",
       "QbdrhJd7LiA:r11",
-      "gf_6GveiAls:r1"
+      "gf_6GveiAls:r1",
+      "gf_6GveiAls:r12"
      ]
     }
    ]
   },
   {
-   "heading": "Team schedules in weeks 19 to 21",
+   "heading": "The two-game weeks: Minnesota and Cleveland",
    "paragraphs": [
     {
-     "text": "Good schedules: Dallas plays 4-4-4, the best in the data, but it also has a league-high 16 back-to-backs. Detroit and the Clippers play 4-3-4. Atlanta plays 4-4-3. Golden State's schedule is listed as good for a March 28 end, but it has 15 back-to-backs.",
-     "sources": [
-      "player:cooper-flagg",
-      "player:pj-washington",
-      "player:cade-cunningham",
-      "player:darius-garland",
-      "player:jalen-johnson",
-      "player:stephen-curry",
-      "player:brandin-podziemski"
-     ]
-    },
-    {
-     "text": "Two-game weeks: Minnesota plays only two games in week 20, which starts March 15. Cleveland plays 4, 3 and 2, so it has only two games in finals week 21, which starts March 22. Cleveland also has the most back-to-backs in the league. These are the worst playoff schedules in the data.",
+     "text": "Minnesota plays only two games in the matchup starting March 15, which is our week 20, the semifinal week. Cleveland plays 4, 3 and 2 games, so it has only two games in week 21, the finals week. The notes also say Cleveland has the most back-to-backs in the league. These are the exact cases one expert does not want for his best player.",
      "sources": [
       "player:anthony-edwards",
+      "player:lamelo-ball",
       "player:rudy-gobert",
       "player:donovan-mitchell",
-      "player:james-harden",
-      "player:evan-mobley"
-     ]
-    },
-    {
-     "text": "Ten-game teams: Houston plays 3-3-4 and Indiana plays 3-4-3. Brooklyn also plays 3-4-3 but has only one back-to-back. Miami plays only 10 games but has no back-to-backs.",
-     "sources": [
-      "player:kevin-durant",
-      "player:alperen-sengun",
-      "player:tyrese-haliburton",
-      "player:pascal-siakam",
-      "player:dayron-sharpe",
-      "player:davion-mitchell"
-     ]
-    },
-    {
-     "text": "Back-to-back teams: Philadelphia, Toronto, Portland and Boston each have three back-to-backs in our playoff weeks. Boston plays 4-3-4, so this mainly hurts players who sit back-to-backs. The notes name Kawhi Leonard, Joel Embiid, Mitchell Robinson and Robert Williams III, and they say Kyrie Irving's rest on back-to-backs may cut his games even in Dallas's 4-4-4.",
-     "sources": [
-      "player:tyrese-maxey",
-      "player:kawhi-leonard",
-      "player:joel-embiid",
-      "player:mitchell-robinson",
-      "player:robert-williams",
-      "player:kyrie-irving"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Expensive players: where the tiebreak counts",
-   "paragraphs": [
-    {
-     "text": "On the plus side are Cade Cunningham (Detroit 4-3-4), Jalen Johnson (Atlanta 4-4-3) and Cooper Flagg (Dallas 4-4-4). If you rate one of them the same as a similar player with a weak schedule, take them.",
-     "sources": [
-      "player:cade-cunningham",
-      "player:jalen-johnson",
-      "player:cooper-flagg",
+      "player:evan-mobley",
+      "player:peyton-watson",
       "NmdNvAz08oE:r2"
      ]
     },
     {
-     "text": "On the minus side, Anthony Edwards has Minnesota's two-game week 20, and Donovan Mitchell has Cleveland's two-game finals week. These are the cases the experts warn about most, because the hole lands in the semifinal or the final. Tyrese Maxey has three Sixers back-to-backs, Tyrese Haliburton has Indiana's 3-4-3, and Kevin Durant and Amen Thompson have Houston's 10 games. Each of these is a small minus, not a reason to skip the player.",
+     "text": "Make the price rule concrete. Anthony Edwards's market price is well above the experts' value, and the two-game week is one more reason to stop bidding before he reaches Yahoo's average cost. If he falls into the experts' range with no better option left, take him. For LaMelo Ball, the same two-game week is a reason not to stretch past the fair range. For Donovan Mitchell, James Harden and Evan Mobley, the two-game finals week is one more reason to bid at the low end of their notes.",
      "sources": [
       "player:anthony-edwards",
+      "player:lamelo-ball",
       "player:donovan-mitchell",
-      "player:tyrese-maxey",
-      "player:tyrese-haliburton",
-      "player:kevin-durant",
-      "player:amen-thompson",
-      "gf_6GveiAls:r13"
+      "player:james-harden",
+      "player:evan-mobley",
+      "gf_6GveiAls:r12"
      ]
     },
     {
-     "text": "Example: Edwards and Cunningham have similar expert ranks. If you see them as equals, Cunningham's 4-3-4 beats Edwards's two-game week 20. For Durant, the note suggests thinking about his trade value before the 2027-03-04 deadline because of Houston's 10 games.",
+     "text": "Watch team stacking. Up to three players from one NBA team is fine, and that is easier to accept when the team has no two-game playoff weeks. Five is too many. Minnesota (Edwards, Ball, Gobert, McDaniels, Dosunmu) and Cleveland (Mitchell, Harden, Mobley, Allen, Watson) each have five draftable players, and one short week would hit all of them in the same matchup.",
      "sources": [
-      "player:anthony-edwards",
-      "player:cade-cunningham",
-      "player:kevin-durant",
-      "aLP080hxizA:r9"
+      "4gw4W4RTolY:r1",
+      "player:jaden-mcdaniels",
+      "player:ayo-dosunmu",
+      "player:jarrett-allen"
      ]
     }
    ]
   },
   {
-   "heading": "Mid and late picks, stacking and waivers",
+   "heading": "Teams with strong playoff weeks",
    "paragraphs": [
     {
-     "text": "For mid and late picks the schedule matters less. Cheap players with weak schedules, such as Jaden McDaniels, Rudy Gobert or Jarrett Allen, keep their value at their prices. Only use the schedule when two cheap options are equal.",
+     "text": "Dallas plays 4-4-4 in weeks 19 to 21, the most games in the data. But Dallas also has a league-high 16 back-to-backs. If Kyrie Irving keeps resting on back-to-backs, he could play only 10 of those games. Detroit and the Clippers play 4-3-4, and Atlanta plays 4-4-3. The notes call Golden State's schedule good for a March 28 end. Washington has only one back-to-back in our playoff weeks.",
      "sources": [
-      "NmdNvAz08oE:r3",
-      "player:jaden-mcdaniels",
-      "player:rudy-gobert",
-      "player:jarrett-allen"
+      "player:cooper-flagg",
+      "player:kyrie-irving",
+      "player:cade-cunningham",
+      "player:darius-garland",
+      "player:dyson-daniels",
+      "player:stephen-curry",
+      "player:anthony-davis"
      ]
     },
     {
-     "text": "Watch your team stacks. Up to three players from one NBA team is fine, and that is easier to accept when the team has no two-game playoff week. Five is too many. Minnesota (Edwards, LaMelo Ball, Gobert, McDaniels, Dosunmu) and Cleveland (Mitchell, Harden, Mobley, Allen, Watson) both have deep draftable groups and two-game weeks. Count them before you bid, and stay below three from either team.",
+     "text": "Here is a tiebreak example at the top of the draft. The market prices both Cade Cunningham and Anthony Edwards as early picks, and the experts cap both well below that. If they are on the board at similar prices, Cunningham's 4-3-4 beats Edwards's two-game week 20. In the same way, Cooper Flagg's 4-4-4 is a small edge over Houston players like Kevin Durant, whose team plays only 10 games.",
      "sources": [
-      "4gw4W4RTolY:r1",
-      "player:lamelo-ball",
-      "player:ayo-dosunmu",
-      "player:peyton-watson",
-      "player:james-harden",
-      "player:evan-mobley"
+      "player:cade-cunningham",
+      "player:anthony-edwards",
+      "player:cooper-flagg",
+      "player:kevin-durant"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Weak schedules without a two-game week",
+   "paragraphs": [
+    {
+     "text": "Some teams play only 10 games across our playoff weeks: Houston (3-3-4), Indiana (3-4-3) and Brooklyn (3-4-3). Philadelphia, Portland and Toronto each have three back-to-backs in those weeks. Boston plays 4-3-4 but also has three back-to-backs. These hurt most for players who are expected to rest, such as LeBron James, Joel Embiid, Mitchell Robinson and Robert Williams III.",
+     "sources": [
+      "player:alperen-sengun",
+      "player:tyrese-haliburton",
+      "player:egor-demin",
+      "player:tyrese-maxey",
+      "player:lebron-james",
+      "player:joel-embiid",
+      "player:damian-lillard",
+      "player:immanuel-quickley",
+      "player:mitchell-robinson",
+      "player:robert-williams"
      ]
     },
     {
-     "text": "In season, the schedule matters more on waivers than at the draft. Dallas and Clippers role players are possible late-season streamers because of their 4-4-4 and 4-3-4 weeks. If you roster Embiid, have a backup center ready for Philadelphia's three playoff back-to-backs. Use your 6 weekly adds and FAB in weeks 19 to 21 on teams with four games.",
+     "text": "Miami is mixed. It plays only 10 games but has no back-to-backs. The data tags Giannis Antetokounmpo's schedule as good but tags Bam Adebayo and the other Miami players as bad, so treat Miami as neutral in a tiebreak.",
+     "sources": [
+      "player:giannis-antetokounmpo",
+      "player:bam-adebayo",
+      "player:davion-mitchell"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Using schedules after the draft",
+   "paragraphs": [
+    {
+     "text": "Several notes name role players from good-schedule teams as possible late-season pickups or streamers. From Dallas these are P.J. Washington, Max Christie, Naji Marshall and Marcus Sasser. From the Clippers they are Kris Dunn, Max Strus and Bradley Beal, but only if their roles grow. Use FAB on them near the playoffs only if they are playing real minutes by then.",
      "sources": [
       "player:pj-washington",
       "player:max-christie",
       "player:naji-marshall",
+      "player:marcus-sasser",
       "player:kris-dunn",
-      "player:joel-embiid",
+      "player:max-strus",
+      "player:bradley-beal"
+     ]
+    },
+    {
+     "text": "Players on weak-schedule teams are the first to cut late in the season. If Reed Sheppard stays a short-minute bench guard, drop him, since Houston's 10-game playoff schedule gives little reason to hold him. Do not count on Thomas Bryant for the playoffs, because Cleveland plays only two games in the finals week. T.J. McConnell is a stream for Indiana's 4-game weeks, but he is a weak option in our playoffs.",
+     "sources": [
+      "player:reed-sheppard",
+      "player:thomas-bryant",
       "player:tj-mcconnell"
      ]
     }
@@ -294,493 +287,498 @@
  "players": [
   {
    "slug": "cade-cunningham",
-   "tier": "Expensive, good schedule",
-   "line": "Detroit's 4-3-4 playoff weeks make him the pick when you rate him level with a similar star."
-  },
-  {
-   "slug": "jalen-johnson",
-   "tier": "Expensive, good schedule",
-   "line": "Atlanta plays 4-4-3 in weeks 19 to 21, a small plus in a tie."
+   "tier": "Top price, schedule plus",
+   "line": "Detroit's 4-3-4 makes him the pick over a similar star whose team has a short playoff week."
   },
   {
    "slug": "cooper-flagg",
-   "tier": "Expensive, good schedule",
-   "line": "Dallas's 4-4-4 is the best playoff schedule in the data and adds a little to his value."
+   "tier": "Top price, schedule plus",
+   "line": "Dallas's 4-4-4 is the most games in the data, which is a real tiebreak edge at his price."
   },
   {
-   "slug": "anthony-edwards",
-   "tier": "Expensive, bad schedule",
-   "line": "Minnesota's two-game semifinal week 20 is exactly the case the experts warn about for a top player."
-  },
-  {
-   "slug": "donovan-mitchell",
-   "tier": "Expensive, bad schedule",
-   "line": "Cleveland plays only two games in finals week 21, so he loses ties against similar guards."
-  },
-  {
-   "slug": "tyrese-maxey",
-   "tier": "Expensive, bad schedule",
-   "line": "Three Sixers back-to-backs in the playoffs are a small minus on top of the usage concerns."
-  },
-  {
-   "slug": "tyrese-haliburton",
-   "tier": "Expensive, bad schedule",
-   "line": "Indiana's 3-4-3 is a small minus, and back-to-back rest could cut his playoff games further."
-  },
-  {
-   "slug": "kevin-durant",
-   "tier": "Expensive, bad schedule",
-   "line": "Houston's 10 playoff games make him a trade candidate before the 2027-03-04 deadline."
-  },
-  {
-   "slug": "amen-thompson",
-   "tier": "Expensive, bad schedule",
-   "line": "Houston's weak 10-game schedule is a small minus in a tie."
+   "slug": "giannis-antetokounmpo",
+   "tier": "Top price, schedule plus",
+   "line": "Tagged good because Miami has no back-to-backs, but only 10 games, so treat it as neutral."
   },
   {
    "slug": "stephen-curry",
-   "tier": "Mid-price, good schedule",
-   "line": "Golden State's schedule suits a March 28 end, but his rest on back-to-backs needs watching."
+   "tier": "Top price, schedule plus",
+   "line": "Golden State's schedule is good for a March 28 end, but rest days could still cut his games."
   },
   {
-   "slug": "kyrie-irving",
-   "tier": "Mid-price, good schedule",
-   "line": "Dallas plays 4-4-4, but back-to-back rest may cut how many of those games he plays."
-  },
-  {
-   "slug": "darius-garland",
-   "tier": "Mid-price, good schedule",
-   "line": "The Clippers' 4-3-4 adds a little to a player who already looks underpriced."
-  },
-  {
-   "slug": "kawhi-leonard",
-   "tier": "Mid-price, bad schedule",
-   "line": "Toronto has three playoff back-to-backs and his load management makes them a real risk."
-  },
-  {
-   "slug": "alperen-sengun",
-   "tier": "Mid-price, bad schedule",
-   "line": "Houston plays only 10 games in our playoff weeks."
+   "slug": "anthony-edwards",
+   "tier": "Top price, schedule minus",
+   "line": "Minnesota's two-game semifinal week is another reason to stop bidding below his market price."
   },
   {
    "slug": "lamelo-ball",
-   "tier": "Mid-price, bad schedule",
-   "line": "Minnesota's two-game week 20 is a reason to stop at the low end of his range."
+   "tier": "Top price, schedule minus",
+   "line": "Same two-game week 20 as Edwards, so do not stretch past his fair range."
+  },
+  {
+   "slug": "donovan-mitchell",
+   "tier": "Top price, schedule minus",
+   "line": "Cleveland plays only two games in the finals week, the worst possible spot for an expensive guard."
+  },
+  {
+   "slug": "tyrese-maxey",
+   "tier": "Top price, schedule minus",
+   "line": "Philadelphia has three back-to-backs in our playoff weeks, a tiebreak minus at the top."
+  },
+  {
+   "slug": "tyrese-haliburton",
+   "tier": "Top price, schedule minus",
+   "line": "Indiana's 3-4-3 gives him only 10 playoff games."
+  },
+  {
+   "slug": "amen-thompson",
+   "tier": "Top price, schedule minus",
+   "line": "Houston's 3-3-4 is a weak 10-game playoff stretch."
+  },
+  {
+   "slug": "kevin-durant",
+   "tier": "Top price, schedule minus",
+   "line": "Houston's 10-game playoff schedule is a small extra minus, on top of his minutes risk."
+  },
+  {
+   "slug": "alperen-sengun",
+   "tier": "Top price, schedule minus",
+   "line": "Houston has only 10 games across our playoff weeks."
+  },
+  {
+   "slug": "anthony-davis",
+   "tier": "Mid price, schedule plus",
+   "line": "Only one back-to-back in our playoff weeks, which helps a player whose question is games played."
+  },
+  {
+   "slug": "darius-garland",
+   "tier": "Mid price, schedule plus",
+   "line": "The Clippers' 4-3-4 is a small extra reason to buy him."
+  },
+  {
+   "slug": "dyson-daniels",
+   "tier": "Mid price, schedule plus",
+   "line": "Atlanta's 4-4-3 adds a little to a player the experts already like."
+  },
+  {
+   "slug": "kyrie-irving",
+   "tier": "Mid price, schedule plus",
+   "line": "Dallas plays 4-4-4, but resting on back-to-backs could cut him to 10 games."
+  },
+  {
+   "slug": "bam-adebayo",
+   "tier": "Mid price, schedule minus",
+   "line": "Miami plays only 10 games but has no back-to-backs, so this is a mild minus."
   },
   {
    "slug": "pascal-siakam",
-   "tier": "Mid-price, bad schedule",
-   "line": "Indiana's weak 3-4-3 is a small extra minus."
+   "tier": "Mid price, schedule minus",
+   "line": "Indiana's 3-4-3 is a small minus."
   },
   {
    "slug": "james-harden",
-   "tier": "Mid-price, bad schedule",
-   "line": "Cleveland's two-game finals week counts against him in a tie."
+   "tier": "Mid price, schedule minus",
+   "line": "The two-game finals week hurts him directly."
   },
   {
    "slug": "evan-mobley",
-   "tier": "Mid-price, bad schedule",
-   "line": "Cleveland's two-game finals week and league-high back-to-backs are a reason not to overpay."
-  },
-  {
-   "slug": "donovan-clingan",
-   "tier": "Mid-price, bad schedule",
-   "line": "Portland has three back-to-backs in our playoff weeks."
-  },
-  {
-   "slug": "lebron-james",
-   "tier": "Mid-price, bad schedule",
-   "line": "Philadelphia's three playoff back-to-backs matter for a player expected to sit games."
-  },
-  {
-   "slug": "jaylen-brown",
-   "tier": "Mid-price, bad schedule",
-   "line": "The three Sixers back-to-backs are a small minus in a tie."
-  },
-  {
-   "slug": "deni-avdija",
-   "tier": "Mid-price, bad schedule",
-   "line": "Portland's three playoff back-to-backs are a small minus."
+   "tier": "Mid price, schedule minus",
+   "line": "The two-game finals week and Cleveland's back-to-back load lower his playoff value."
   },
   {
    "slug": "jarrett-allen",
-   "tier": "Mid-price, bad schedule",
-   "line": "Cleveland's two-game finals week hurts, but at his price it only breaks ties."
+   "tier": "Mid price, schedule minus",
+   "line": "Cleveland's two-game finals week is one more reason to stop at his fair price."
+  },
+  {
+   "slug": "lebron-james",
+   "tier": "Mid price, schedule minus",
+   "line": "His rest days plus three back-to-backs in our playoff weeks limit his weekly totals."
+  },
+  {
+   "slug": "jaylen-brown",
+   "tier": "Mid price, schedule minus",
+   "line": "Philadelphia's three playoff back-to-backs are a tiebreak minus."
   },
   {
    "slug": "joel-embiid",
-   "tier": "Mid-price, bad schedule",
-   "line": "Three PHI playoff back-to-backs and his missed games mean you need a backup center ready."
+   "tier": "Mid price, schedule minus",
+   "line": "Three Sixers back-to-backs in our playoffs are a problem if he sits every back-to-back."
+  },
+  {
+   "slug": "donovan-clingan",
+   "tier": "Mid price, schedule minus",
+   "line": "Portland's three playoff back-to-backs are a small minus for a single-digit buy."
   },
   {
    "slug": "rudy-gobert",
-   "tier": "Mid-price, bad schedule",
-   "line": "Plan around Minnesota's two-game week 20, but he is still a strong punt FT% buy."
+   "tier": "Mid price, schedule minus",
+   "line": "Minnesota's two-game week 20 matters if you also roster other Timberwolves."
   },
   {
    "slug": "ivica-zubac",
-   "tier": "Mid-price, bad schedule",
-   "line": "Indiana's 3-4-3 is a small minus for a cheap center."
+   "tier": "Mid price, schedule minus",
+   "line": "Indiana's 3-4-3 is a small minus at a modest price."
   },
   {
-   "slug": "brandon-ingram",
-   "tier": "Late picks, good schedule",
-   "line": "A cheap IL stash whose Clippers play 4-3-4 in our playoffs if he is healthy by then."
+   "slug": "damian-lillard",
+   "tier": "Mid price, schedule minus",
+   "line": "Portland's three playoff back-to-backs matter if the team sits him on back-to-backs."
+  },
+  {
+   "slug": "vj-edgecombe",
+   "tier": "Mid price, schedule minus",
+   "line": "Philadelphia's three playoff back-to-backs are a small minus."
+  },
+  {
+   "slug": "jaden-mcdaniels",
+   "tier": "Mid price, schedule minus",
+   "line": "Plan around Minnesota's two-game week 20, and avoid stacking too many Timberwolves."
+  },
+  {
+   "slug": "immanuel-quickley",
+   "tier": "Mid price, schedule minus",
+   "line": "Toronto's three playoff back-to-backs are a mild minus at his low price."
+  },
+  {
+   "slug": "ja-morant",
+   "tier": "Mid price, schedule minus",
+   "line": "Portland's back-to-backs add to his health risk."
   },
   {
    "slug": "brandin-podziemski",
-   "tier": "Late picks, good schedule",
-   "line": "Golden State's schedule is good for a March 28 end, despite 15 back-to-backs."
+   "tier": "Late picks, schedule minor",
+   "line": "Golden State's good schedule is a small bonus for a cheap starter."
+  },
+  {
+   "slug": "brandon-ingram",
+   "tier": "Late picks, schedule minor",
+   "line": "The Clippers' 4-3-4 helps only if he is back and healthy by then."
   },
   {
    "slug": "daniel-gafford",
-   "tier": "Late picks, good schedule",
-   "line": "Dallas plays 4-4-4, a small plus for a 1 USD center."
+   "tier": "Late picks, schedule minor",
+   "line": "Dallas's 4-4-4 is a minor plus for a 1 USD center."
   },
   {
    "slug": "rui-hachimura",
-   "tier": "Late picks, good schedule",
-   "line": "The Clippers' 4-3-4 helps only if his minutes grow."
+   "tier": "Late picks, schedule minor",
+   "line": "The Clippers' 4-3-4 is a small plus, but his role decides his value."
   },
   {
    "slug": "pj-washington",
-   "tier": "Late picks, good schedule",
+   "tier": "Late picks, schedule minor",
    "line": "Dallas's 4-4-4 makes him a useful pickup later in the season."
   },
   {
    "slug": "draymond-green",
-   "tier": "Late picks, good schedule",
-   "line": "Golden State's schedule is good for a March 28 end, but he is a final pick or waiver target at most."
+   "tier": "Late picks, schedule minor",
+   "line": "Golden State's good schedule matters less than whether the team rests veterans."
   },
   {
    "slug": "gui-santos",
-   "tier": "Late picks, good schedule",
-   "line": "The good Warriors schedule only matters if he wins the wing role."
+   "tier": "Late picks, schedule minor",
+   "line": "The good Warriors schedule does not matter unless he holds a role."
   },
   {
    "slug": "yaxel-lendeborg",
-   "tier": "Late picks, good schedule",
-   "line": "The Warriors' good March 28 schedule is a small extra for an end-of-draft flier."
-  },
-  {
-   "slug": "isaiah-jackson",
-   "tier": "Late picks, good schedule",
-   "line": "The Clippers' 4-3-4 helps, but his value may fade once Konan Niederhauser returns."
+   "tier": "Late picks, schedule minor",
+   "line": "The good Warriors schedule does not matter unless he holds a role."
   },
   {
    "slug": "jimmy-butler",
-   "tier": "Late picks, good schedule",
-   "line": "An IL stash whose Warriors schedule is good for March 28 if he returns in time."
+   "tier": "Late picks, schedule minor",
+   "line": "He is an IL stash, and the good Warriors schedule matters only if he plays real minutes."
   },
   {
-   "slug": "reed-sheppard",
-   "tier": "Late picks, bad schedule",
-   "line": "Houston's 10 games barely matter for a 1 to 3 USD flier."
-  },
-  {
-   "slug": "damian-lillard",
-   "tier": "Late picks, bad schedule",
-   "line": "Portland's three playoff back-to-backs matter because games played is his main risk."
-  },
-  {
-   "slug": "vj-edgecombe",
-   "tier": "Late picks, bad schedule",
-   "line": "Three Philadelphia back-to-backs are a small minus at his price."
-  },
-  {
-   "slug": "fred-vanvleet",
-   "tier": "Late picks, bad schedule",
-   "line": "Houston plays only 10 games and he may sit back-to-backs."
-  },
-  {
-   "slug": "jaden-mcdaniels",
-   "tier": "Late picks, bad schedule",
-   "line": "Plan around Minnesota's two-game week 20, but he is still a good cheap target."
-  },
-  {
-   "slug": "immanuel-quickley",
-   "tier": "Late picks, bad schedule",
-   "line": "Toronto's three playoff back-to-backs are a small minus."
-  },
-  {
-   "slug": "dayron-sharpe",
-   "tier": "Late picks, bad schedule",
-   "line": "Brooklyn plays only 10 games, though with just one back-to-back."
-  },
-  {
-   "slug": "ja-morant",
-   "tier": "Late picks, bad schedule",
-   "line": "Portland's three playoff back-to-backs add to his health risk."
-  },
-  {
-   "slug": "jabari-smith",
-   "tier": "Late picks, bad schedule",
-   "line": "Houston's 10-game schedule is a minus for a cheap starter."
-  },
-  {
-   "slug": "ayo-dosunmu",
-   "tier": "Late picks, bad schedule",
-   "line": "Minnesota's two-game week 20 is one reason to pay only a few dollars."
-  },
-  {
-   "slug": "peyton-watson",
-   "tier": "Late picks, bad schedule",
-   "line": "His 9-game playoff schedule with a two-game finals week cuts his late value."
-  },
-  {
-   "slug": "andrew-nembhard",
-   "tier": "Late picks, bad schedule",
-   "line": "Indiana's 3-4-3 adds to the case for keeping him as a bench handcuff at most."
-  },
-  {
-   "slug": "davion-mitchell",
-   "tier": "Late picks, bad schedule",
-   "line": "Miami plays only 10 games in our playoff weeks, though with no back-to-backs."
-  },
-  {
-   "slug": "egor-demin",
-   "tier": "Late picks, bad schedule",
-   "line": "Brooklyn plays 10 games but has only one back-to-back."
-  },
-  {
-   "slug": "jonathan-kuminga",
-   "tier": "Late picks, bad schedule",
-   "line": "Minnesota's two-game week 20 lowers his value further."
-  },
-  {
-   "slug": "jrue-holiday",
-   "tier": "Late picks, bad schedule",
-   "line": "Portland's three playoff back-to-backs are a small minus for an edge-of-pool pick."
-  },
-  {
-   "slug": "tari-eason",
-   "tier": "Late picks, bad schedule",
-   "line": "Houston's weak 10-game schedule cuts into his late value."
-  },
-  {
-   "slug": "pelle-larsson",
-   "tier": "Late picks, bad schedule",
-   "line": "Miami plays only 10 games, with no back-to-backs."
-  },
-  {
-   "slug": "aaron-nesmith",
-   "tier": "Late picks, bad schedule",
-   "line": "Indiana's 3-4-3 is a minus for a waiver watch."
-  },
-  {
-   "slug": "mikel-brown",
-   "tier": "Late picks, bad schedule",
-   "line": "Brooklyn plays 10 games, but experts expect him to improve after February."
-  },
-  {
-   "slug": "brook-lopez",
-   "tier": "Waiver watch, good schedule",
-   "line": "The Clippers' 4-3-4 only matters if his minutes return toward 30."
-  },
-  {
-   "slug": "dereck-lively",
-   "tier": "Waiver watch, good schedule",
-   "line": "If he wins the starting job later, Dallas's 4-4-4 playoff weeks help."
-  },
-  {
-   "slug": "morez-johnson",
-   "tier": "Waiver watch, good schedule",
-   "line": "Dallas's 4-4-4 helps if he gets 25 to 30 minutes."
-  },
-  {
-   "slug": "santi-aldama",
-   "tier": "Waiver watch, good schedule",
-   "line": "Dallas plays 4-4-4, but his value depends almost fully on minutes."
-  },
-  {
-   "slug": "max-christie",
-   "tier": "Waiver watch, good schedule",
-   "line": "A possible late-season threes streamer thanks to Dallas's 4-4-4."
-  },
-  {
-   "slug": "deanthony-melton",
-   "tier": "Waiver watch, good schedule",
-   "line": "Golden State's March 28 schedule is good if he wins the starting guard spot."
-  },
-  {
-   "slug": "kris-dunn",
-   "tier": "Waiver watch, good schedule",
-   "line": "The 4-3-4 schedule helps steals-needy teams if he starts."
-  },
-  {
-   "slug": "naji-marshall",
-   "tier": "Waiver watch, good schedule",
-   "line": "Dallas's 4-4-4 makes him more useful late if he gets ball-handling minutes."
-  },
-  {
-   "slug": "derrick-jones",
-   "tier": "Waiver watch, good schedule",
-   "line": "The Clippers' good playoff schedule helps only if he keeps his minutes."
-  },
-  {
-   "slug": "gary-payton",
-   "tier": "Waiver watch, good schedule",
-   "line": "The good Warriors schedule matters only if his minutes clearly go up."
-  },
-  {
-   "slug": "al-horford",
-   "tier": "Waiver watch, good schedule",
-   "line": "Golden State's schedule is good, but he skips back-to-backs."
-  },
-  {
-   "slug": "max-strus",
-   "tier": "Waiver watch, good schedule",
-   "line": "The Clippers' 4-3-4 is a small plus if he regains a starter role."
-  },
-  {
-   "slug": "bradley-beal",
-   "tier": "Waiver watch, good schedule",
-   "line": "The 4-3-4 schedule helps a little if he returns near 30 minutes."
-  },
-  {
-   "slug": "keaton-wagler",
-   "tier": "Waiver watch, good schedule",
-   "line": "The good Clippers schedule matters only if his minutes and efficiency grow."
-  },
-  {
-   "slug": "jordan-miller",
-   "tier": "Waiver watch, good schedule",
-   "line": "The Clippers play 4-3-4, but his shoulder injury makes him only a deep waiver option."
-  },
-  {
-   "slug": "marcus-sasser",
-   "tier": "Waiver watch, good schedule",
-   "line": "Dallas's 4-4-4 could make him a late streamer if he gets backup guard minutes."
-  },
-  {
-   "slug": "kobe-sanders",
-   "tier": "Waiver watch, good schedule",
-   "line": "The 4-3-4 schedule only matters if Clippers injuries push him into big minutes."
+   "slug": "isaiah-jackson",
+   "tier": "Late picks, schedule minor",
+   "line": "The Clippers' 4-3-4 helps little, since Konan Niederhauser's return will likely end his value."
   },
   {
    "slug": "yanic-konan-niederhauser",
-   "tier": "Waiver watch, good schedule",
-   "line": "A free IL stash whose late upside lands in the Clippers' good 4-3-4 playoff weeks."
+   "tier": "Late picks, schedule minor",
+   "line": "His real upside is in the fantasy playoffs, behind the Clippers' 4-3-4."
+  },
+  {
+   "slug": "morez-johnson",
+   "tier": "Late picks, schedule minor",
+   "line": "Dallas's 4-4-4 helps only if he wins center minutes."
+  },
+  {
+   "slug": "reed-sheppard",
+   "tier": "Late picks, schedule minor",
+   "line": "Drop him if his role stays small, since Houston's 10 games give little reason to hold him."
+  },
+  {
+   "slug": "fred-vanvleet",
+   "tier": "Late picks, schedule minor",
+   "line": "Houston's 10 playoff games are a minor minus for a 1 to 2 USD guard."
+  },
+  {
+   "slug": "jabari-smith",
+   "tier": "Late picks, schedule minor",
+   "line": "His 10-game playoff schedule is a minus but does not change his price."
+  },
+  {
+   "slug": "ayo-dosunmu",
+   "tier": "Late picks, schedule minor",
+   "line": "Keep the two-game week starting March 15 in mind."
+  },
+  {
+   "slug": "peyton-watson",
+   "tier": "Late picks, schedule minor",
+   "line": "His 9-game playoff schedule with a two-game finals week cuts his value late."
+  },
+  {
+   "slug": "toumani-camara",
+   "tier": "Late picks, schedule minor",
+   "line": "Portland's back-to-backs matter less than whether he keeps his starting job."
+  },
+  {
+   "slug": "andrew-nembhard",
+   "tier": "Late picks, schedule minor",
+   "line": "Indiana's 3-4-3 is a minor point for a handcuff."
+  },
+  {
+   "slug": "davion-mitchell",
+   "tier": "Late picks, schedule minor",
+   "line": "Miami's 10 games are minor next to his assist role risk."
+  },
+  {
+   "slug": "jakob-poeltl",
+   "tier": "Late picks, schedule minor",
+   "line": "Toronto's three playoff back-to-backs are a mild minus for a cheap center."
+  },
+  {
+   "slug": "egor-demin",
+   "tier": "Late picks, schedule minor",
+   "line": "Brooklyn plays only 10 games, but with just one back-to-back."
+  },
+  {
+   "slug": "jonathan-kuminga",
+   "tier": "Late picks, schedule minor",
+   "line": "Minnesota's two-game week 20 adds to the case against holding him."
+  },
+  {
+   "slug": "pelle-larsson",
+   "tier": "Late picks, schedule minor",
+   "line": "Miami's 10 playoff games matter less than whether he starts."
+  },
+  {
+   "slug": "aaron-nesmith",
+   "tier": "Late picks, schedule minor",
+   "line": "Indiana's 3-4-3 is a minor minus for a waiver watch."
+  },
+  {
+   "slug": "tari-eason",
+   "tier": "Late picks, schedule minor",
+   "line": "Houston's weak 10-game schedule cuts into his late value."
+  },
+  {
+   "slug": "mikel-brown",
+   "tier": "Late picks, schedule minor",
+   "line": "Brooklyn's 10 games are a minor minus for a bench flyer."
+  },
+  {
+   "slug": "max-christie",
+   "tier": "Waiver watch, good playoff team",
+   "line": "Dallas's 4-4-4 makes him a possible late-season threes streamer."
+  },
+  {
+   "slug": "naji-marshall",
+   "tier": "Waiver watch, good playoff team",
+   "line": "If he gets ball-handling minutes, Dallas's 4-4-4 makes him more useful late."
+  },
+  {
+   "slug": "marcus-sasser",
+   "tier": "Waiver watch, good playoff team",
+   "line": "Dallas's 4-4-4 could make him a late streamer if he gets backup guard minutes."
+  },
+  {
+   "slug": "dereck-lively",
+   "tier": "Waiver watch, good playoff team",
+   "line": "If he wins the starting job later, Dallas's 4-4-4 helps."
+  },
+  {
+   "slug": "santi-aldama",
+   "tier": "Waiver watch, good playoff team",
+   "line": "Dallas plays 4-4-4, but his value depends on playing time."
   },
   {
    "slug": "sergio-de-larrea",
-   "tier": "Waiver watch, good schedule",
-   "line": "Dallas's 4-4-4 is irrelevant unless he earns real backup minutes."
+   "tier": "Waiver watch, good playoff team",
+   "line": "Dallas plays 4-4-4, but he needs real minutes first."
+  },
+  {
+   "slug": "kris-dunn",
+   "tier": "Waiver watch, good playoff team",
+   "line": "A starting role plus the Clippers' 4-3-4 would make him a useful steals add."
+  },
+  {
+   "slug": "max-strus",
+   "tier": "Waiver watch, good playoff team",
+   "line": "The Clippers' 4-3-4 and few back-to-backs make him easier to hold if the role is there."
+  },
+  {
+   "slug": "bradley-beal",
+   "tier": "Waiver watch, good playoff team",
+   "line": "The Clippers' 4-3-4 helps only if he reaches about 30 minutes."
+  },
+  {
+   "slug": "jordan-miller",
+   "tier": "Waiver watch, good playoff team",
+   "line": "The Clippers' 4-3-4 is a small reason to check on him after the All-Star break."
+  },
+  {
+   "slug": "brook-lopez",
+   "tier": "Waiver watch, good playoff team",
+   "line": "The Clippers' 4-3-4 matters only if he wins about 30 minutes."
+  },
+  {
+   "slug": "derrick-jones",
+   "tier": "Waiver watch, good playoff team",
+   "line": "The good Clippers schedule matters little, since his role should fade when others return."
+  },
+  {
+   "slug": "keaton-wagler",
+   "tier": "Waiver watch, good playoff team",
+   "line": "The Clippers' 4-3-4 matters only if his role clearly grows."
+  },
+  {
+   "slug": "kobe-sanders",
+   "tier": "Waiver watch, good playoff team",
+   "line": "The Clippers' 4-3-4 matters only if injuries give him starter minutes."
+  },
+  {
+   "slug": "deanthony-melton",
+   "tier": "Waiver watch, good playoff team",
+   "line": "The good Warriors schedule helps if he wins the starting guard spot."
+  },
+  {
+   "slug": "gary-payton",
+   "tier": "Waiver watch, good playoff team",
+   "line": "The good Warriors schedule matters only if his minutes climb."
+  },
+  {
+   "slug": "al-horford",
+   "tier": "Waiver watch, good playoff team",
+   "line": "The schedule is good, but he skips every back-to-back."
+  },
+  {
+   "slug": "moses-moody",
+   "tier": "Waiver watch, good playoff team",
+   "line": "A likely March return leaves too little time to use the good Warriors schedule."
   },
   {
    "slug": "mitchell-robinson",
-   "tier": "Waiver only, bad schedule",
-   "line": "Boston plays 4-3-4 but has three back-to-backs he is expected to sit."
+   "tier": "Waiver watch, weak playoff team",
+   "line": "Boston plays 4-3-4, but he is expected to sit all three playoff back-to-backs."
   },
   {
    "slug": "robert-williams",
-   "tier": "Waiver only, bad schedule",
-   "line": "He is expected to sit back-to-backs, and Portland has three in the playoffs."
-  },
-  {
-   "slug": "kelly-oubre",
-   "tier": "Waiver only, bad schedule",
-   "line": "Indiana's 3-4-3 adds to the case for leaving him on waivers."
-  },
-  {
-   "slug": "scoot-henderson",
-   "tier": "Waiver only, bad schedule",
-   "line": "Portland's three playoff back-to-backs add to his lack of a role."
-  },
-  {
-   "slug": "jay-huff",
-   "tier": "Waiver only, bad schedule",
-   "line": "A Zubac handcuff whose Indiana 3-4-3 schedule is weak."
-  },
-  {
-   "slug": "jaylon-tyson",
-   "tier": "Waiver only, bad schedule",
-   "line": "Cleveland's two-game finals week limits him even if he earns a role."
-  },
-  {
-   "slug": "tj-mcconnell",
-   "tier": "Waiver only, bad schedule",
-   "line": "Stream him in four-game Indiana weeks, but the 3-4-3 playoffs make him a weak option there."
-  },
-  {
-   "slug": "klay-thompson",
-   "tier": "Waiver only, bad schedule",
-   "line": "Miami plays only 10 playoff games, so he is a threes stream at most."
-  },
-  {
-   "slug": "marcus-smart",
-   "tier": "Waiver only, bad schedule",
-   "line": "Houston's 10 games add to his injury history as a minus."
-  },
-  {
-   "slug": "terrence-shannon",
-   "tier": "Waiver only, bad schedule",
-   "line": "Minnesota's two-game week 20 limits any late-season value."
-  },
-  {
-   "slug": "noah-clowney",
-   "tier": "Waiver only, bad schedule",
-   "line": "Brooklyn plays only 10 games and he has no draftable role."
-  },
-  {
-   "slug": "bones-hyland",
-   "tier": "Waiver only, bad schedule",
-   "line": "Even with starter minutes, Minnesota's two-game week limits him in our playoffs."
-  },
-  {
-   "slug": "obi-toppin",
-   "tier": "Waiver only, bad schedule",
-   "line": "Indiana's 3-4-3 is a minus for a bench forward."
-  },
-  {
-   "slug": "kentavious-caldwell-pope",
-   "tier": "Waiver only, bad schedule",
-   "line": "Three Philadelphia back-to-backs add to a crowded rotation."
-  },
-  {
-   "slug": "donte-divincenzo",
-   "tier": "Waiver only, bad schedule",
-   "line": "Even if he returns from the Achilles by March, Minnesota plays only two games in week 20."
-  },
-  {
-   "slug": "bogdan-bogdanovic",
-   "tier": "Waiver only, bad schedule",
-   "line": "Houston's 10-game playoffs limit him even if injuries open minutes."
-  },
-  {
-   "slug": "thomas-bryant",
-   "tier": "Waiver only, bad schedule",
-   "line": "Do not plan on him for the playoffs because Cleveland plays only two finals-week games."
-  },
-  {
-   "slug": "craig-porter",
-   "tier": "Waiver only, bad schedule",
-   "line": "Cleveland's two-game finals week limits a steals and blocks waiver add."
-  },
-  {
-   "slug": "steven-adams",
-   "tier": "Waiver only, bad schedule",
-   "line": "Houston's 10 games and his back-to-back rest limit him as a rebound streamer."
+   "tier": "Waiver watch, weak playoff team",
+   "line": "He is expected to sit Portland's three playoff back-to-backs."
   },
   {
    "slug": "joan-beringer",
-   "tier": "Waiver only, bad schedule",
-   "line": "A Gobert handcuff hurt by Minnesota's two-game week starting March 15."
+   "tier": "Waiver watch, weak playoff team",
+   "line": "Minnesota's two-game week 20 makes him less useful in our playoffs."
   },
   {
-   "slug": "bruce-thornton",
-   "tier": "Waiver only, bad schedule",
-   "line": "Houston's 10-game playoffs are a minus for a deep waiver name."
+   "slug": "thomas-bryant",
+   "tier": "Waiver watch, weak playoff team",
+   "line": "Do not plan on him for the playoffs, because of the two-game finals week."
+  },
+  {
+   "slug": "craig-porter",
+   "tier": "Waiver watch, weak playoff team",
+   "line": "Cleveland's two-game finals week limits any late value."
+  },
+  {
+   "slug": "jaylon-tyson",
+   "tier": "Waiver watch, weak playoff team",
+   "line": "Cleveland's 4-3-2 playoff weeks are a minus for a waiver add."
+  },
+  {
+   "slug": "tj-mcconnell",
+   "tier": "Waiver watch, weak playoff team",
+   "line": "Stream him in Indiana's 4-game weeks, but he is weak in our 3-4-3 playoffs."
+  },
+  {
+   "slug": "kelly-oubre",
+   "tier": "Waiver watch, weak playoff team",
+   "line": "Indiana's 3-4-3 adds nothing to a waiver-only player."
+  },
+  {
+   "slug": "jay-huff",
+   "tier": "Waiver watch, weak playoff team",
+   "line": "Indiana's 3-4-3 is a minus even if Zubac misses time."
+  },
+  {
+   "slug": "obi-toppin",
+   "tier": "Waiver watch, weak playoff team",
+   "line": "Indiana's 3-4-3 limits him even if his role grows."
+  },
+  {
+   "slug": "scoot-henderson",
+   "tier": "Waiver watch, weak playoff team",
+   "line": "Portland's playoff back-to-backs are a minus unless a trade moves him."
+  },
+  {
+   "slug": "klay-thompson",
+   "tier": "Waiver watch, weak playoff team",
+   "line": "Miami has only 10 playoff games, though no back-to-backs."
   },
   {
    "slug": "ryan-conwell",
-   "tier": "Waiver only, bad schedule",
-   "line": "Miami plays only 10 playoff games, and he has no projection yet."
+   "tier": "Waiver watch, weak playoff team",
+   "line": "Miami's 10 playoff games are a minor point for a deep waiver watch."
   },
   {
-   "slug": "isaiah-evans",
-   "tier": "Waiver only, bad schedule",
-   "line": "Minnesota's two-game week starting March 15 limits his playoff use."
+   "slug": "marcus-smart",
+   "tier": "Waiver watch, weak playoff team",
+   "line": "Houston's weak 10-game playoff schedule adds to his injury risk."
+  },
+  {
+   "slug": "bogdan-bogdanovic",
+   "tier": "Waiver watch, weak playoff team",
+   "line": "Even if injuries open a role, Houston's 10 playoff games limit him."
+  },
+  {
+   "slug": "steven-adams",
+   "tier": "Waiver watch, weak playoff team",
+   "line": "Houston's 3-3-4 is a minus for a matchup rebound streamer."
+  },
+  {
+   "slug": "bruce-thornton",
+   "tier": "Waiver watch, weak playoff team",
+   "line": "Houston's 10 playoff games are a minus if he ever earns minutes."
+  },
+  {
+   "slug": "terrence-shannon",
+   "tier": "Waiver watch, weak playoff team",
+   "line": "Minnesota's two-game playoff week lowers any late value."
+  },
+  {
+   "slug": "bones-hyland",
+   "tier": "Waiver watch, weak playoff team",
+   "line": "The two-game week starting March 15 lowers his playoff value."
+  },
+  {
+   "slug": "donte-divincenzo",
+   "tier": "Waiver watch, weak playoff team",
+   "line": "He returns around March into Minnesota's two-game week 20."
+  },
+  {
+   "slug": "noah-clowney",
+   "tier": "Waiver watch, weak playoff team",
+   "line": "Brooklyn plays only 10 games in our playoff weeks."
+  },
+  {
+   "slug": "kentavious-caldwell-pope",
+   "tier": "Waiver watch, weak playoff team",
+   "line": "Philadelphia's three playoff back-to-backs add to a thin case."
   }
  ],
  "excluded": [],

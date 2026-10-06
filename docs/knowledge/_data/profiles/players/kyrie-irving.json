@@ -8,29 +8,41 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "8e2ef7dd9050",
- "note_count": 20,
- "built_at": "2026-10-04T17:40:35+00:00",
+ "input_sha": "becaf6c46d79",
+ "note_count": 22,
+ "built_at": "2026-10-05T19:57:33+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.17243419999999998,
-  "duration_ms": 45801
+  "cost_usd_list": 0.2444702,
+  "duration_ms": 72387,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He missed all of last season with a torn ACL. He is about 18 months removed from the injury and described as fully healthy.",
+   "text": "He missed all of last season with a torn ACL. He is now about 18 months past the injury, and one expert calls him fully healthy.",
    "kind": "fact",
-   "date": "2026-09-29",
+   "date": "2026-10-04",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:p4",
     "0AptxcRW0RE:p4",
+    "n4KkK-OJjqA:p8",
     "egRrai3Ax38:p27"
    ]
   },
   {
-   "text": "He is expected to sit back-to-backs, especially early in the season. Some experts also expect minutes limits, while Josh expects few restrictions.",
+   "text": "Yahoo lists him as questionable with a knee issue.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He is expected to sit back-to-backs, at least early in the season.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -42,67 +54,19 @@
    ]
   },
   {
-   "text": "Expect a slow start, with more production later in the season.",
+   "text": "Experts disagree on his early workload. One expects minutes limits and another a slow start. Others expect few restrictions and about 33 minutes a night right away.",
    "kind": "verdict",
-   "date": "2026-09-15",
-   "until": "",
-   "sources": [
-    "KPdD91Oo8-U:p10"
-   ]
-  },
-  {
-   "text": "He is the projected starting point guard and the only real ball handler on a Dallas roster full of forwards. He is the second option on offense behind Cooper Flagg.",
-   "kind": "fact",
-   "date": "2026-09-29",
-   "until": "",
-   "sources": [
-    "XSPJL_mlFXo:t0",
-    "XSPJL_mlFXo:t2",
-    "0AptxcRW0RE:t1",
-    "2A2JbUN-kc0:t5",
-    "RyzcCGChYgs:t3"
-   ]
-  },
-  {
-   "text": "A trade is possible and would change his situation.",
-   "kind": "verdict",
-   "date": "2026-09-17",
+   "date": "2026-10-04",
    "until": "",
    "sources": [
     "DubdKKhMWHo:p12",
     "KPdD91Oo8-U:p10",
-    "7BllEsdNLoM:p26",
-    "xHRF06_E9HE:p9"
+    "XSPJL_mlFXo:p4",
+    "n4KkK-OJjqA:p9"
    ]
   },
   {
-   "text": "Experts see him as a top 15 to top 20 player per game. They value him around the top 25 to top 40 overall, above his market ADP of about 50. Several call him a steal at picks 42 to 44, and Josh calls him the best Dallas target.",
-   "kind": "verdict",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "BjXP9JODDSg:p8",
-    "XSPJL_mlFXo:p5",
-    "egRrai3Ax38:p27",
-    "ahNxsoU8Hx4:p38",
-    "DubdKKhMWHo:p12",
-    "2A2JbUN-kc0:p37",
-    "KPdD91Oo8-U:p10",
-    "80kfLVnFQ_s:p24",
-    "7BllEsdNLoM:p26"
-   ]
-  },
-  {
-   "text": "The market overrates his injury risk. Pairing him with Anthony Davis on one team is risky, though.",
-   "kind": "verdict",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "BjXP9JODDSg:p8"
-   ]
-  },
-  {
-   "text": "Dallas has a 4-4-4 schedule in the fantasy playoffs, probably the best in the league. It also has a league-high 16 back-to-backs.",
+   "text": "Dallas has a league-high 16 back-to-backs. It also has a 4-4-4 schedule in the fantasy playoffs, which one expert calls probably the best in the league.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -112,7 +76,7 @@
    ]
   },
   {
-   "text": "If he sits back-to-backs, he could play fewer playoff games than the Dallas schedule shows.",
+   "text": "If he keeps sitting back-to-backs, he could play only 10 games in the fantasy playoffs.",
    "kind": "verdict",
    "date": "2026-08-16",
    "until": "",
@@ -121,7 +85,7 @@
    ]
   },
   {
-   "text": "Dallas has a two-game week in the matchup starting March 1.",
+   "text": "Dallas plays only two games in the matchup week that starts March 1. That is the week before our fantasy playoffs.",
    "kind": "fact",
    "date": "2026-08-16",
    "until": "",
@@ -129,36 +93,102 @@
     "gf_6GveiAls:p14",
     "gf_6GveiAls:t13"
    ]
+  },
+  {
+   "text": "Dallas is short on guards and ball handlers. He is the team's main guard and is projected to start.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "0AptxcRW0RE:t1",
+    "XSPJL_mlFXo:t0",
+    "XSPJL_mlFXo:t2",
+    "RyzcCGChYgs:t3"
+   ]
+  },
+  {
+   "text": "He is expected to be the second option on offense behind Cooper Flagg.",
+   "kind": "verdict",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:t5",
+    "dlo7L8Ru91A:t0"
+   ]
+  },
+  {
+   "text": "Experts disagree on a trade. Several say Dallas could trade him. One expert heard no trade talk and thinks Dallas values his play and mentoring more than any trade return.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p8",
+    "DubdKKhMWHo:p12",
+    "KPdD91Oo8-U:p10",
+    "7BllEsdNLoM:p26",
+    "xHRF06_E9HE:p9",
+    "0AptxcRW0RE:p6"
+   ]
+  },
+  {
+   "text": "Experts rate him as a top 15 to top 20 player per game.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:p5",
+    "ahNxsoU8Hx4:p38",
+    "KPdD91Oo8-U:p10",
+    "2A2JbUN-kc0:p37",
+    "7BllEsdNLoM:p26"
+   ]
+  },
+  {
+   "text": "Experts agree that his market price, an ADP around 50, is too low, and they want to draft him. The newest call puts him in the middle of the second round. Other recent calls range from the top 25 to around pick 44 because of injury risk.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p8",
+    "n4KkK-OJjqA:p9",
+    "BjXP9JODDSg:p8",
+    "XSPJL_mlFXo:p5",
+    "egRrai3Ax38:p27",
+    "ahNxsoU8Hx4:p38",
+    "DubdKKhMWHo:p12",
+    "2A2JbUN-kc0:p37",
+    "80kfLVnFQ_s:p24",
+    "KPdD91Oo8-U:p10"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He has a long history of knee injuries, including a torn ACL, and other persistent injuries. He will not play a full season.",
+   "text": "He is 34. He has a long history of knee injuries, including an ACL tear about 18 months ago, and other persistent injuries.",
    "kind": "fact",
    "date": "2026-09-30",
    "until": "",
    "sources": [
     "BjXP9JODDSg:p9",
-    "XSPJL_mlFXo:p6",
     "DubdKKhMWHo:p11",
-    "egRrai3Ax38:p28"
+    "XSPJL_mlFXo:p6",
+    "egRrai3Ax38:p28",
+    "0AptxcRW0RE:p4"
    ]
   },
   {
-   "text": "He is 34, so his age adds to the injury risk.",
-   "kind": "fact",
-   "date": "2026-09-30",
+   "text": "Because of his age and injury history, he will not play a full season.",
+   "kind": "verdict",
+   "date": "2026-09-29",
    "until": "",
    "sources": [
-    "XSPJL_mlFXo:p6",
-    "BjXP9JODDSg:p9",
-    "DubdKKhMWHo:p11"
+    "XSPJL_mlFXo:p6"
    ]
   },
   {
-   "text": "His strongest categories are FT%, points and threes. He has no weak category.",
+   "text": "His best categories are FT%, points and threes. No category is a clear weakness.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
@@ -169,48 +199,58 @@
   {
    "name": "injury prone",
    "channel": "durable",
-   "detail": "long knee injury history, torn ACL",
+   "detail": "Long knee injury history, including an ACL tear about 18 months ago",
    "until": "",
    "sources": [
     "BjXP9JODDSg:p9",
     "DubdKKhMWHo:p11",
-    "XSPJL_mlFXo:p6",
-    "egRrai3Ax38:p28"
+    "XSPJL_mlFXo:p6"
    ],
    "new_meaning": ""
   },
   {
    "name": "age decline watch",
    "channel": "durable",
-   "detail": "34 and coming off an ACL tear",
+   "detail": "34 years old and coming back from an ACL tear",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:p6",
-    "BjXP9JODDSg:p9",
-    "DubdKKhMWHo:p11"
+    "0AptxcRW0RE:p4",
+    "DubdKKhMWHo:p11",
+    "BjXP9JODDSg:p9"
    ],
    "new_meaning": ""
   },
   {
    "name": "elite per game",
    "channel": "durable",
-   "detail": "experts see him as top 15 to 20 per game",
+   "detail": "Experts rate him top 15 to top 20 per game",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:p5",
     "ahNxsoU8Hx4:p38",
-    "KPdD91Oo8-U:p10",
-    "2A2JbUN-kc0:p37"
+    "KPdD91Oo8-U:p10"
    ],
    "new_meaning": ""
   },
   {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "",
+   "detail": "No weak category. Strongest in FT%, PTS and 3PM",
    "until": "",
    "sources": [
     "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "Missed all of last season with a torn ACL",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:p4",
+    "0AptxcRW0RE:p4"
    ],
    "new_meaning": ""
   },
@@ -225,57 +265,32 @@
    "new_meaning": ""
   },
   {
-   "name": "injury last season",
-   "channel": "current",
-   "detail": "missed all of last season with a torn ACL",
-   "until": "",
-   "sources": [
-    "XSPJL_mlFXo:p4",
-    "0AptxcRW0RE:p4"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "back-to-back risk",
    "channel": "current",
-   "detail": "expected to sit back-to-backs, especially early; Dallas has 16",
+   "detail": "Expected to sit back-to-backs, at least early in the season",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:p4",
     "0AptxcRW0RE:p5",
     "DubdKKhMWHo:p12",
-    "gf_6GveiAls:p13",
+    "gf_6GveiAls:p13"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "Dallas has a league-high 16 back-to-backs",
+   "until": "",
+   "sources": [
     "XSPJL_mlFXo:t4"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "slow start",
-   "channel": "current",
-   "detail": "returning from ACL tear",
-   "until": "",
-   "sources": [
-    "KPdD91Oo8-U:p10"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "trade risk",
-   "channel": "current",
-   "detail": "",
-   "until": "",
-   "sources": [
-    "DubdKKhMWHo:p12",
-    "KPdD91Oo8-U:p10",
-    "7BllEsdNLoM:p26",
-    "xHRF06_E9HE:p9"
    ],
    "new_meaning": ""
   },
   {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "Dallas 4-4-4, but back-to-back rest may cut his games",
+   "detail": "Dallas plays 4-4-4 in the fantasy playoffs, but resting on back-to-backs could cut him to 10 games",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:t4",
@@ -285,16 +300,44 @@
    "new_meaning": ""
   },
   {
-   "name": "expert target",
+   "name": "trade risk",
    "channel": "current",
-   "detail": "valued top 25 to 40 against ADP of about 50",
+   "detail": "Several experts say a trade is possible. One heard no trade talk",
    "until": "",
    "sources": [
+    "n4KkK-OJjqA:p8",
+    "DubdKKhMWHo:p12",
+    "KPdD91Oo8-U:p10",
+    "7BllEsdNLoM:p26",
+    "xHRF06_E9HE:p9",
+    "0AptxcRW0RE:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "Experts value him from the middle of the second round to around pick 44, while his ADP is about 50",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p8",
+    "n4KkK-OJjqA:p9",
     "BjXP9JODDSg:p8",
     "XSPJL_mlFXo:p5",
-    "egRrai3Ax38:p27",
     "ahNxsoU8Hx4:p38",
     "80kfLVnFQ_s:p24"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "His market price is low because of ACL risk",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p8",
+    "ahNxsoU8Hx4:p38",
+    "egRrai3Ax38:p27"
    ],
    "new_meaning": ""
   },
@@ -309,6 +352,6 @@
    "new_meaning": ""
   }
  ],
- "note": "His average cost is about 10 USD on both sites, but Yahoo values him at 23 USD and experts rank him top 25 to 40. That makes him a strong bargain if our room bids near the average cost. He helps any build with FT%, threes and points and hurts no category. Watch the Yahoo Q (Knee) status before the draft. Early in the season, check how Dallas handles his back-to-backs and minutes, since that decides how many games he plays, including in the 4-4-4 playoff weeks.",
+ "note": "Both sites rank him near 46 to 48, and his average auction cost is about 10 USD. Yahoo values him at 23 USD, and the experts see top 20 value per game, so bidding into the high teens is reasonable in our 12-team league. His FT%, threes and points help any build. Early in the season, check his Yahoo knee status (Q now), his minutes, and how often he sits Dallas's league-high 16 back-to-backs. If he keeps resting on back-to-backs, Dallas's 4-4-4 playoff schedule could give him only 10 games.",
  "rejected": []
 }

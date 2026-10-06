@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 14 | 4.4 | 72 | 6 | 3.9 | 68 | 15 |
+| 2026-27 | 14 | 4.4 | 72 | 6 | 4.1 | 68 | 15 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,25 +30,29 @@
 </details>
 
 **Current**
-- Experts expect the Knicks to be careful with his minutes after the long title run. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=916), [09-22](https://youtu.be/QbdrhJd7LiA?t=914), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1527), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [09-10](https://youtu.be/W-R1dzem32s?t=1710))
-- Experts see his ADP of about 58 to 65 as fair, or slightly low for category leagues. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=916), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1527), [09-10](https://youtu.be/dlo7L8Ru91A?t=1111), [09-17](https://youtu.be/DubdKKhMWHo?t=1127))
-- He is a projected starter for the Knicks next to Brunson, Bridges, Hart and Towns. He is the third option, with usage just under 20 percent in about 33 minutes per game. (fact, 2026-09-17; [08-13](https://youtu.be/okN3fbHJtlA?t=317), [08-13](https://youtu.be/okN3fbHJtlA?t=1455), [09-17](https://youtu.be/DubdKKhMWHo?t=1127))
-- He has the widest outcome range in round five: best case 22nd, worst case 89th, mostly because his steals vary. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1127))
-- There is some worry about a championship hangover: a minute or two less per game and slightly higher injury risk. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1111), [09-10](https://youtu.be/dlo7L8Ru91A?t=1127), [09-09](https://youtu.be/7BllEsdNLoM?t=1565))
-- The Knicks won the championship by beating the Spurs in the Finals. He was their next best player for chunks of those games. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1983), [08-27](https://youtu.be/ZAyie8lKyYc?t=334))
-- Expect more big scoring nights when Brunson or Towns rest. He stays the third option and is not projected to average 25 points. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=1455))
-- The Knicks are expected to trim starters' minutes and give more rest on back-to-backs. (verdict, 2026-08-13, until about the first 30 games; [08-13](https://youtu.be/okN3fbHJtlA?t=752))
+- He went for 16 USD in an expert auction mock draft. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4146))
+- Worth close to 20 USD in an auction, so 16 USD is still a good price. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4146))
+- Experts expect the Knicks to be cautious with his minutes after the long title run. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=916), [09-22](https://youtu.be/QbdrhJd7LiA?t=914), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1527), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [09-10](https://youtu.be/W-R1dzem32s?t=1710))
+- Maybe slightly undervalued in category leagues at a Yahoo rank of 71 and an ADP of 65. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=916))
+- His usage was just under 20 percent last season, in about 33 minutes per game. (fact, 2026-09-17; [08-13](https://youtu.be/okN3fbHJtlA?t=1455), [09-17](https://youtu.be/DubdKKhMWHo?t=1127))
+- He has the widest outcome range of his draft round, from about 22nd best case to 89th worst case, mostly because his steals vary. The expert still feels confident in him. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1127))
+- One expert is slightly worried about a championship hangover: a minute or two less per game and a small rise in injury risk. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1111), [09-10](https://youtu.be/dlo7L8Ru91A?t=1127), [09-09](https://youtu.be/7BllEsdNLoM?t=1565))
+- The Knicks won the title over the Spurs. In the Finals he attacked Wembanyama directly with success and was the next best player for chunks of those games. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1983), [08-27](https://youtu.be/ZAyie8lKyYc?t=334))
+- Projected Knicks starter at forward next to Brunson, Bridges, Hart and Towns. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=317))
+- Expected to stay the third option behind Brunson and Towns. He should have more big scoring nights when they rest, but he is not projected to average 25 points. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=1455))
+- The Knicks are expected to trim starters' minutes and give more rest on back-to-backs early in the season. (verdict, 2026-08-13, until first 30 or so games; [08-13](https://youtu.be/okN3fbHJtlA?t=752))
 
 **Durable**
-- Steals are his best category, and he adds threes at a forward spot. No category is a weakness. (fact, 2026-10-04; stats)
-- He is worth much more in category leagues than in points leagues. (verdict, 2026-09-22; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1521), [09-22](https://youtu.be/QbdrhJd7LiA?t=916))
+- Steals are his best category and threes are second, both clearly above average for a forward. He has no weak category. (fact, 2026-10-05; stats)
+- Much better in category leagues than in points leagues. (verdict, 2026-09-22; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1521), [09-22](https://youtu.be/QbdrhJd7LiA?t=916))
 - He has had knee and ankle problems over his career, but he has stayed healthy for two seasons with the Knicks. (fact, 2026-09-14; [08-13](https://youtu.be/okN3fbHJtlA?t=1522), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1521))
-- He is an elite defender. He can be streaky, with hot stretches followed by weeks of inconsistency. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=1522))
+- Elite defender. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=1522))
+- Streaky: hot stretches are followed by weeks of inconsistency. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=1522))
 
 **Tags**
-- Current: `back-to-back risk` (Knicks plan more rest on back-to-backs early in the season; until about the first 30 games), `slow start` (Knicks plan to trim starters' minutes after the title run; until about the first 30 games), `sites disagree on price` (Yahoo value 14 USD, ESPN value 6 USD)
-- Durable: `fits every build` (No weak category. Steals and threes are the strengths)
+- Current: `usage competition` (Third option behind Brunson and Towns), `minutes limit` (Knicks expected to trim starters' minutes after the title run; until first 30 or so games), `back-to-back risk` (More rest on back-to-backs expected early; until first 30 or so games), `slow start` (Conservative Knicks minutes early in the season; until first 30 or so games), `winning team` (Defending champions, projected about 50 to 54 wins), `sites disagree on price` (Yahoo value 14 USD, ESPN value 6 USD)
+- Durable: `category league player` (Much better in categories than in points leagues), `streaky` (Hot stretches followed by weeks of inconsistency), `3PM from a big` (About 2.3 threes per game as a forward), `fits every build` (No weak category; steals and threes lead)
 
-**Note.** At a rank of about 70, he is a mid-round starter in a 144-player draft. He went for 15 USD in our league last season, and Yahoo values him at 14 USD while ESPN says 6 USD, so 10 to 15 USD is a fair range. He has no weak category and his steals stand out, so he fits any build. In the first 30 or so games, check whether the Knicks really cut his minutes and rest him on back-to-backs.
+**Note.** Anunoby's projections have no weak category. His best are steals (z +1.6) and threes (z +0.9), so he fits any build as a forward. Our league paid 15 USD for him last season. The sites value him between 6 USD (ESPN) and 14 USD (Yahoo), and the latest expert puts him near 20 USD, so 15 to 18 USD is a fair target. Early on, watch how the Knicks limit his minutes and rest him on back-to-backs over the first 30 or so games, and check whether his steals hold, since they drive most of his range.
 
-<sub>8 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>9 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

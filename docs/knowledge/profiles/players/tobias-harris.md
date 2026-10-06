@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 151 | 3 | 0.9 | 94 | 1 |
+| 2026-27 | 0 | 0.0 | 151 | 3 | 1.0 | 94 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,24 +30,27 @@
 </details>
 
 **Current**
-- Experts see him as a late pick with limited upside who should return value around picks 140 to 165. One expert would rather wait until round 14, and another says he is not worth a round 10 pick. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2269), [09-15](https://youtu.be/KPdD91Oo8-U?t=2376), [08-24](https://youtu.be/g31YlwRe0XQ?t=2577))
-- He is not an upside flyer. Draft him late only if you need a steady 16 point, 5 rebound forward. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=2590))
-- Harris signed with the San Antonio Spurs. He takes Harrison Barnes's place in the rotation. (fact, 2026-09-19; [07-02](https://youtu.be/P6TNP-g0wzY?t=2336), [08-24](https://youtu.be/g31YlwRe0XQ?t=2577), [09-19](https://youtu.be/uarqbNA2dFk?t=2513), [07-05](https://youtu.be/4kKINkZhWls?t=3529))
-- The Spurs are very deep at forward and on the wing, so his minutes have real competition. A consolidation trade is expected in the relatively near future, but not right now. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1601), [08-27](https://youtu.be/ZAyie8lKyYc?t=1306), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312))
-- His ESPN rank of 94 is too high because the Spurs are deep. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2513))
-- He is projected to start at power forward next to Fox, Castle, Vassell and Wembanyama. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=524), [08-27](https://youtu.be/ZAyie8lKyYc?t=524))
-- His rim finishing fell from 68 to 58 percent last season. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1207))
-- His rim finishing might bounce back in the Spurs offense. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1207))
+- He has limited upside and is not a flyer. Draft him late only if you need a steady scorer and rebounder. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2269), [09-23](https://youtu.be/C4vlgpJ62NI?t=2590))
+- He is fair value around pick 140 to 150 and should not go earlier. His ESPN rank of 94 is too high. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2269), [09-15](https://youtu.be/KPdD91Oo8-U?t=2376), [09-19](https://youtu.be/uarqbNA2dFk?t=2513), [08-24](https://youtu.be/g31YlwRe0XQ?t=2577))
+- He signed with the Spurs this offseason and takes the Harrison Barnes role at forward. (fact, 2026-09-19; [07-02](https://youtu.be/P6TNP-g0wzY?t=2336), [08-24](https://youtu.be/g31YlwRe0XQ?t=2577), [09-19](https://youtu.be/uarqbNA2dFk?t=2513))
+- The Spurs are very deep at forward and on the wing, so many players compete for the minutes around him. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1601), [08-27](https://youtu.be/ZAyie8lKyYc?t=1306), [08-27](https://youtu.be/ZAyie8lKyYc?t=1491), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312))
+- The Spurs signed him to help on the defensive boards at power forward. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=321))
+- He is projected to start at power forward next to Fox, Castle, Vassell and Wembanyama. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=524), [08-27](https://youtu.be/ZAyie8lKyYc?t=524))
+- The Spurs are expected to trade some of their forward depth at some point, but not right away. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
+- The Spurs are trying to win now and are projected near the top of the West, with one expert predicting 63 wins. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=152), [08-27](https://youtu.be/ZAyie8lKyYc?t=2403), [07-26](https://youtu.be/75Sk_4fkgIM?t=370))
+- His finishing at the rim dropped from 68 percent to 58 percent last season. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1207))
+- His rim finishing might recover in the Spurs offense. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1207))
 
 **Durable**
-- He is a very good defensive rebounder for a power forward. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=321))
-- He is a strong isolation and post scorer who can create a shot when the offense stalls. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=395))
-- He is a streaky three-point shooter, but defenses still have to respect his shot. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=436))
+- His projected line has no weak category. FT% and low turnovers are his best categories, but neither is a league outlier. (fact, 2026-10-05; stats)
+- He is a very good defensive rebounder for a power forward. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=321))
+- He is a strong isolation and post scorer. His team can give him the ball when the offense stalls. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=395))
+- He is a streaky three-point shooter, but defenses still have to guard his shot. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=436))
 
 **Tags**
-- Current: `new team` (Signed with SAS, takes Harrison Barnes's place), `minutes competition` (Very deep SAS forward and wing group), `sites disagree on price` (ESPN rank 94 and 3 USD value, Yahoo rank 151 and 0 USD value), `bust candidate` (ESPN rank 94 is too high)
-- Durable: `fits every build` (No weak category. Small edges in FT% and TO.)
+- Current: `new team` (Signed with San Antonio, replaces Harrison Barnes), `deep rotation` (Spurs very deep at forward and wing), `minutes competition` (Projected starting PF, but with a lot of forward depth behind him), `trades likely` (Spurs expected to consolidate forward depth, but not right away), `winning team` (Projected at 63 wins, contender for the West top seed), `low shutdown risk` (Spurs are trying to win now), `sites disagree on price` (ESPN rank 94 (3 USD) vs Yahoo rank 151 (0 USD)), `bust candidate` (At his ESPN rank of 94)
+- Durable: `streaky` (Three-point shooting), `fits every build` (No weak category; mild help in FT% and TO)
 
-**Note.** Harris sits right at the edge of our 144-player draft. His Yahoo rank is 151, experts put him around picks 140 to 165, and he cost 1 USD in our league last year, so he is at most a 1 USD final-round filler. He has no weak category and gives small help in FT% and TO, so he fits any build, but his upside is low. Early in the season, check that he keeps the starting power forward spot and plays about 28 minutes or more in a deep Spurs rotation. If not, he belongs on waivers.
+**Note.** Harris is a bubble player in a 12-team league. Yahoo ranks him 151 at 0 USD, ESPN ranks him 94 at 3 USD, and he went for 1 USD in our auction last season. The experts value him around picks 140 to 150, so bid 1 to 2 USD at most at the end of the draft. He fits any build as a filler with no weak category, but his upside is limited. Early in the season, check that he keeps the starting power forward job and gets about 30 minutes on a deep Spurs roster, and whether his rim finishing comes back.
 
-<sub>11 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>11 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

@@ -30,19 +30,18 @@
 </details>
 
 **Current**
-- If he returns around March, he could find minutes and usage. Minnesota lost Randle and Reid, the bench is thin, and the bench unit has no ball handlers. (verdict, 2026-10-02; [07-01](https://youtu.be/W3THnI7wWdA?t=864), [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [10-02](https://youtu.be/ZYllcj4o6_A?t=2323))
-- Minnesota has only two games in the week starting March 15. That is week 20 of our fantasy playoffs, the window where he could return. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
-- He is out with an Achilles injury until at least about March 2027, so he will miss most of the season. (fact, 2026-08-19, until about March 2027; [08-19](https://youtu.be/2mxpEpGU3H8?t=517), [06-23](https://youtu.be/9tb1ARBEmQU?t=753), [06-22](https://youtu.be/HxQjagSTTAM?t=883), stats)
-- He is not a draft target in our auction. A high ranking for him is a mistake because he will miss most of the season. (verdict, 2026-08-19; [06-23](https://youtu.be/9tb1ARBEmQU?t=753), [08-19](https://youtu.be/2mxpEpGU3H8?t=517))
+- He has an Achilles injury and is out until at least about March 2027, so he will miss most of the season. Yahoo lists him as out. (fact, 2026-10-05, until about March 2027; [08-19](https://youtu.be/2mxpEpGU3H8?t=517), [06-22](https://youtu.be/HxQjagSTTAM?t=883), stats)
+- Minnesota has a two-game week in the matchup that starts March 15. That is week 20 of our fantasy playoffs, which is also around when he could return. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
 
 **Durable**
-- Threes are his main category strength. FG%, points, rebounds and blocks project below the top 250 pool. (fact, 2026-10-04; stats)
-- His fantasy value depends on minutes and decent usage. The expert sees him as a fairly consistent shooter. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=859))
+- Experts see him as a fairly consistent shooter. Threes are his best category. (verdict, 2026-10-05; [07-01](https://youtu.be/W3THnI7wWdA?t=859), stats)
+- Injury history: an Achilles injury in 2026 that costs him most of the 2026-27 season. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=517), [06-23](https://youtu.be/9tb1ARBEmQU?t=753))
+- His fantasy value depends on getting minutes and decent usage. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=859))
 
 **Tags**
-- Current: `injured now` (Achilles injury, Yahoo status O, out until at least about March; until about March 2027), `bad playoff schedule` (Minnesota has a two-game week starting March 15 (our week 20))
-- Durable: none
+- Current: `injured now` (Achilles, out until at least about March 2027; until about March 2027), `bad playoff schedule` (Minnesota plays only two games in the week starting March 15 (our week 20))
+- Durable: `usage dependent` (value needs minutes and decent usage)
 
-**Note.** Yahoo and ESPN both value him at 0 USD (Yahoo rank 251, ESPN rank 348), and he went for 1 USD in our league last season. With an Achilles injury keeping him out until at least about March, he should not be drafted. Even if he returns in time for our playoffs, Minnesota has only two games in week 20. The only thing to watch is his recovery news in February, as a possible waiver pickup for an IL slot. A healthy return would bring threes and little else.
+**Note.** Both Yahoo and ESPN value him at 0 USD (ranks 251 and 348), and he cost 1 USD in our league's last auction. The Achilles injury keeps him out until about March. Even when healthy, his projected line is mostly threes with below-average FG%, points, rebounds and blocks. Do not draft him in our 144-player auction. Watch for news on his return date in the second half of the season. A two-game week in our week 20 limits how much he could help in the playoffs.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

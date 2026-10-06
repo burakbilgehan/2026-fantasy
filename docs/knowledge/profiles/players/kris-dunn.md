@@ -30,20 +30,21 @@
 </details>
 
 **Current**
-- Dunn projects as the Clippers' sixth man. He could also start. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1032), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268))
-- Coach Ty Lue likes him. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1032))
-- He is useful for fantasy only if he starts and plays about 28 minutes. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1089))
-- The Clippers may treat this as a trial season with long rotations and many players tested. Lue also often changes his rotations, so Dunn's minutes may be unstable. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
+- The newest Clippers preview projects Dunn as the sixth man, first off the bench. He could also start, and coach Ty Lue likes him. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1032), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268))
+- He has fantasy value only if he starts and plays about 28 minutes. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1089))
+- The Clippers rotation is not settled. The expert expects a trial season with long rotations and many players tested. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=360))
+- The Clippers have many injuries now. Ingram, Beal, Jordan Miller and Konan Niederhauser are all out. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018))
 - The Clippers play 4, 3 and 4 games in our fantasy playoff weeks. They have 13 back-to-backs, one of the lowest totals in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
 
 **Durable**
-- He is a stable, elite defender who gets a lot of steals and adds a few assists. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1089))
-- He is a low-usage player who scores little and makes few threes. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1089), stats)
+- Dunn is a stable, elite defender. He gets many steals and gives a few assists. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1089), stats)
+- He scores very little. Last season he scored 7 points in 27 minutes on 13% usage. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1089))
+- Coach Ty Lue makes odd rotation choices and then changes them, so bench roles on this team are hard to predict. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
 
 **Tags**
-- Current: `minutes competition` (Projected sixth man but could start. Keaton Wagler is also in the guard mix, and Lue changes rotations often.), `waiver watch` (Useful only if he starts and plays about 28 minutes), `good playoff schedule` (4-3-4 games in weeks 19 to 21), `few back-to-backs` (13 back-to-backs, one of the lowest totals in the league)
+- Current: `minutes competition` (Projected sixth man, could start), `unsettled rotation` (Ty Lue changes rotations often. The expert expects a trial season.), `deep rotation` (Long rotations expected, with many players tested), `waiver watch` (Add only if he starts and plays about 28 minutes), `good playoff schedule` (4-3-4 games in weeks 19 to 21), `few back-to-backs` (13 back-to-backs)
 - Durable: none
 
-**Note.** Yahoo ranks him 191 and ESPN 184, and both price him at 0 USD. That puts him outside the 144 players our league drafts, so do not spend auction money on him. His value is steals (1.4 projected) and few turnovers, but at 6.2 points and 0.9 threes per game he gives little else. Early in the season, check whether he moves into the starting five and plays about 28 minutes. If he does, he is a waiver pickup for teams that need steals, and his 4-3-4 playoff schedule helps.
+**Note.** Dunn is priced at 0 USD on both Yahoo and ESPN. His ranks (191 Yahoo, 184 ESPN) put him outside the 144 players our league drafts, and he was not drafted here last season, so he is not a draft target. Steals are his only real asset (1.4 per game projected, z +1.6 against the pool). His 6.2 projected points and 0.9 threes leave little else, so he is at most a short-term steals streamer. In the first weeks, check whether he moves into the starting five and plays about 28 minutes. The Clippers have many injuries and good playoff weeks (4-3-4), so a starting role would make him a useful waiver add.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

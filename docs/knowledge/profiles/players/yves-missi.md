@@ -29,23 +29,22 @@
 </details>
 
 **Current**
-- Reports say he is likely to start at center for New Orleans over Derik Queen. The other likely starters are Zion Williamson, Trey Murphy and Dejounte Murray. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1324), [09-30](https://youtu.be/BjXP9JODDSg?t=1097), [09-24](https://youtu.be/_vbAP5y182A?t=1144), [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [09-30](https://youtu.be/BjXP9JODDSg?t=1097), [09-24](https://youtu.be/_vbAP5y182A?t=1141))
-- Experts expect a bigger role for him under new coach Jamahl Mosley. (verdict, 2026-10-02; [08-03](https://youtu.be/5QU-jta-lWM?t=1467), [10-02](https://youtu.be/ZYllcj4o6_A?t=1324))
-- Josh sees him as a worthwhile late flier around pick 120. As a starter he offers two-block upside, high FG% and double-digit rebounds, and he is available everywhere. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1324))
-- New Orleans has a crowded frontcourt with Zion Williamson and Derik Queen. Experts think Queen and Zion do not fit together, which helps Missi's case to start. (fact, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1141), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1047), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1818), [09-04](https://youtu.be/gerS7ibpaJo?t=1168))
-- Mosley's defense switches less than the old scheme. Jake thinks that could help his weak defensive rebounding. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1482), [08-03](https://youtu.be/5QU-jta-lWM?t=1459))
+- The Pelicans have a crowded frontcourt with Zion Williamson, Derik Queen and Saddiq Bey. Bey may close games in lineups with Zion at center. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=6001), [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1477))
+- Experts expect him to be the Pelicans' starting center on opening night, ahead of Derik Queen. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1324), [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [09-30](https://youtu.be/BjXP9JODDSg?t=1097), [09-30](https://youtu.be/BjXP9JODDSg?t=1097), [08-03](https://youtu.be/5QU-jta-lWM?t=1467))
+- Josh sees him as a late flier with upside for two blocks, a high FG% and double-digit rebounds. He is available everywhere. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1324))
+- A Pelicans beat reporter reports that Missi is likely to start at center over Derik Queen. (fact, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1144), [09-24](https://youtu.be/_vbAP5y182A?t=1141))
+- New coach Jamahl Mosley brings a defense-first style and switches less. Less switching could help Missi's defensive rebounding. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1482), [08-03](https://youtu.be/5QU-jta-lWM?t=1459))
+- Experts see the Pelicans as a weak team near the bottom of the West. Jake predicts about 34 wins. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1765), [07-27](https://youtu.be/0AptxcRW0RE?t=2060))
 
 **Durable**
-- Blocks are his standout category. They are far above the top 250 pool. (fact, 2026-10-04; stats)
-- He makes no threes and gets very few steals. Both are weak even for a center. (fact, 2026-10-04; stats)
-- His FT% is low, but he takes only about 2 free throws a game, so the damage is limited. (fact, 2026-10-04; stats)
-- He is a strong rim protector. He contests shots at the rim at a high rate, and he turned 39% of his rim contests into blocks last season. (fact, 2026-10-02; [08-03](https://youtu.be/5QU-jta-lWM?t=1450), [07-17](https://youtu.be/NYTH7uQsPCM?t=623), [10-02](https://youtu.be/ZYllcj4o6_A?t=1324))
+- Blocks are his standout category, far above the top 250 pool. He makes no threes and gets few steals, even for a center. (fact, 2026-10-05; stats)
+- He is a strong rim protector who contests shots at the rim at a high rate. Last season he turned 39% of his rim contests into blocks. (fact, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1450), [07-17](https://youtu.be/NYTH7uQsPCM?t=623))
 - He is a poor defensive rebounder for a center, around the bottom 10% at his position. (fact, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1482))
 
 **Tags**
-- Current: `role up` (likely starting center under new coach Jamahl Mosley), `minutes competition` (Derik Queen and Zion Williamson in the frontcourt; start not confirmed), `flyer` (late flier around pick 120 with two-block upside), `sleeper` (available everywhere; Josh likes him as a starter)
-- Durable: `BLK specialist` (projected about 1.8 blocks per game; high rim contest rate), `no 3PM` (0.0 threes per game), `punt 3PM fit`, `punt STL fit` (about 0.4 steals per game)
+- Current: `role up` (Likely starting center after 19.6 minutes per game last season), `minutes competition` (Derik Queen at center; Zion and Saddiq Bey may close games without him), `flyer` (Late flier with block, FG% and rebound upside), `sleeper` (Available everywhere but likely starts), `new coach` (Jamahl Mosley), `bottom team` (About 34 wins projected), `deep rotation` (About eight players who could start)
+- Durable: `BLK specialist` (About 1.8 blocks projected; high block rate on rim contests), `no 3PM`, `punt 3PM fit`, `punt STL fit`, `defense-first` (Mosley's identity)
 
-**Note.** He sits right at our 144-player cutoff (Yahoo rank 143, ESPN 164, 0 USD value on both sites, and 2 USD in our auction last season), so he is a 1 to 2 USD end-of-draft pick for blocks. He fits punt 3PM and punt STL builds best, and he adds FG% on low volume and few turnovers. Early in the season, check that he starts over Derik Queen and plays clearly more than last season's 19.6 minutes. If he does not, he goes back to waivers.
+**Note.** Yahoo ranks Missi 143 and ESPN ranks him 164. Both value him at 0 USD, and he went for 2 USD in our league's last auction. With 144 players drafted, he is a 1 to 2 USD end-of-draft flier or a waiver pickup. He fits builds that punt 3PM and STL and want blocks and FG%. Early in the season, check that he starts over Derik Queen and gets more than last season's 19.6 minutes, and how often Zion or Saddiq Bey close games at center.
 
-<sub>7 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>7 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

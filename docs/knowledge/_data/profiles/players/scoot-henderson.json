@@ -8,62 +8,54 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "7bef43c6aa9c",
+ "input_sha": "e18871c77acf",
  "note_count": 3,
- "built_at": "2026-10-04T17:48:18+00:00",
+ "built_at": "2026-10-05T20:02:20+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1351742,
-  "duration_ms": 37170
+  "cost_usd_list": 0.1579662,
+  "duration_ms": 40325,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Portland's backcourt is crowded. Lillard, Morant, Holiday and Avdija share the on-ball work, and Henderson is listed off the bench.",
+   "text": "Portland's projected starting five is Lillard, Morant, Camara, Avdija and Clingan. Henderson comes off the bench.",
+   "kind": "fact",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t1",
+    "Rqb5GdrSweY:t6"
+   ]
+  },
+  {
+   "text": "Portland's backcourt is crowded with high-usage guards: Damian Lillard, Ja Morant, Jrue Holiday and Deni Avdija share the ball with Henderson, and Shaedon Sharpe is also off the bench.",
    "kind": "fact",
    "date": "2026-09-14",
    "until": "",
    "sources": [
-    "Rqb5GdrSweY:t6",
-    "YJk7ZFKFqnI:t1",
-    "ME-r173X5b0:t3",
     "sTtFUy7IoJI:t9",
+    "ME-r173X5b0:t3",
     "W-R1dzem32s:t1",
-    "LM0cRCGoAUQ:t1"
+    "LM0cRCGoAUQ:t1",
+    "Rqb5GdrSweY:t6",
+    "YJk7ZFKFqnI:t0"
    ]
   },
   {
-   "text": "He is expected to be a bench player at about 20 minutes, with few chances to play more. Minutes and usage across Portland's rotation are expected to swing from game to game.",
+   "text": "Veteran guards keep blocking his path. He projects as a 20-minute bench player with few chances and is not draftable.",
    "kind": "verdict",
    "date": "2026-08-11",
    "until": "",
    "sources": [
     "YJk7ZFKFqnI:p25",
-    "bHA-JoW3reE:p9",
-    "YJk7ZFKFqnI:t5"
-   ]
-  },
-  {
-   "text": "Not draftable in standard leagues.",
-   "kind": "verdict",
-   "date": "2026-06-29",
-   "until": "",
-   "sources": [
     "bHA-JoW3reE:p9"
    ]
   },
   {
-   "text": "Portland was rumored to be in a trade for Jaylen Brown, and that deal would likely send out Henderson or another guard.",
-   "kind": "fact",
-   "date": "2026-06-29",
-   "until": "",
-   "sources": [
-    "bHA-JoW3reE:t1",
-    "bHA-JoW3reE:p9"
-   ]
-  },
-  {
-   "text": "The newer Blazers preview doubts that Portland makes a consolidation trade.",
+   "text": "Minutes and usage are expected to swing from game to game across the Portland rotation.",
    "kind": "verdict",
    "date": "2026-08-11",
    "until": "",
@@ -72,17 +64,46 @@
    ]
   },
   {
-   "text": "Only 47.3% of his potential assists turn into assists.",
+   "text": "Portland has a new head coach this season.",
    "kind": "fact",
-   "date": "2026-07-17",
+   "date": "2026-10-04",
    "until": "",
    "sources": [
-    "NYTH7uQsPCM:p35"
+    "n4KkK-OJjqA:t6"
    ]
   },
   {
-   "text": "His low assist conversion is likely tied to poor finishing by teammates such as Clingan and Camara.",
+   "text": "He has no injury status and is expected to be available for a full season.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:t6",
+    "stats"
+   ]
+  },
+  {
+   "text": "Portland has been rumored in a trade for Jaylen Brown. Such a deal would likely send out Henderson or another guard.",
+   "kind": "fact",
+   "date": "2026-06-29",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:t1"
+   ]
+  },
+  {
+   "text": "Experts disagree on a trade. One calls him a likely trade piece if Portland goes after Jaylen Brown. Another doubts Portland makes a consolidation trade.",
    "kind": "verdict",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:p9",
+    "YJk7ZFKFqnI:t5"
+   ]
+  },
+  {
+   "text": "Only 47.3% of his potential assists turn into assists. This is likely tied to poor finishing by teammates such as Donovan Clingan and Toumani Camara.",
+   "kind": "fact",
    "date": "2026-07-17",
    "until": "",
    "sources": [
@@ -98,16 +119,6 @@
    "sources": [
     "gf_6GveiAls:t6"
    ]
-  },
-  {
-   "text": "He returns from a season with many missed games.",
-   "kind": "fact",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:t1",
-    "stats"
-   ]
   }
  ],
  "durable": [
@@ -118,7 +129,7 @@
    "until": "",
    "sources": [
     "LM0cRCGoAUQ:t1",
-    "W-R1dzem32s:t1"
+    "dlo7L8Ru91A:t1"
    ]
   }
  ],
@@ -126,41 +137,85 @@
   {
    "name": "role down",
    "channel": "current",
-   "detail": "projected bench role of about 20 minutes behind Lillard, Morant and Holiday",
+   "detail": "Projected as a 20-minute bench player behind Lillard, Morant and Holiday",
    "until": "",
    "sources": [
     "YJk7ZFKFqnI:p25",
-    "bHA-JoW3reE:p9"
+    "YJk7ZFKFqnI:t1"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "crowded guard group: Lillard, Morant, Holiday, Avdija",
+   "detail": "Guard glut: Lillard, Morant, Holiday, Avdija, Sharpe",
    "until": "",
    "sources": [
     "Rqb5GdrSweY:t6",
+    "YJk7ZFKFqnI:p25",
+    "sTtFUy7IoJI:t9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Shares the ball with several on-ball guards",
+   "until": "",
+   "sources": [
     "sTtFUy7IoJI:t9",
-    "YJk7ZFKFqnI:p25"
+    "ME-r173X5b0:t3",
+    "LM0cRCGoAUQ:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trade risk",
+   "channel": "current",
+   "detail": "Named as a likely outgoing piece in a rumored Jaylen Brown trade",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:p9",
+    "bHA-JoW3reE:t1"
    ],
    "new_meaning": ""
   },
   {
    "name": "injury last season",
    "channel": "current",
-   "detail": "30 games in 2025-26",
+   "detail": "Played 30 games in 2025-26",
    "until": "",
    "sources": [
-    "LM0cRCGoAUQ:t1",
-    "stats"
+    "stats",
+    "n4KkK-OJjqA:t6",
+    "LM0cRCGoAUQ:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Minutes and usage expected to swing game to game",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t5"
    ],
    "new_meaning": ""
   },
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "three back-to-backs in weeks 19 to 21",
+   "detail": "Three back-to-backs in the fantasy playoff weeks",
    "until": "",
    "sources": [
     "gf_6GveiAls:t6"
@@ -168,6 +223,6 @@
    "new_meaning": ""
   }
  ],
- "note": "He ranks 185 on Yahoo and 206 on ESPN, both sites price him at 0 USD, and nobody drafted him in our league last season. That puts him outside our 144-player pool, and the experts call him undraftable as a roughly 20-minute bench guard. Yahoo projects 46.6% FG and 0.7 turnovers, which does not match his last three seasons (below 42% FG, 2.4 or more turnovers). ESPN's projection looks more realistic. Leave him on waivers and check early whether a guard injury or a trade opens real minutes for him.",
+ "note": "Both sites give him 0 USD in value, and his ranks (Yahoo 185, ESPN 206) fall outside the 144 players our league drafts. The experts call him a bench player of about 20 minutes and not draftable, so leave him on waivers on draft day. Early in the season, watch for a Jaylen Brown trade that moves him to a new team, or an injury to Lillard or Morant. Either could open the minutes and usage his mostly average category profile needs.",
  "rejected": []
 }

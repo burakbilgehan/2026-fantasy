@@ -8,18 +8,31 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "5c7137ab42fe",
+ "input_sha": "a873ca4a2a0b",
  "note_count": 7,
- "built_at": "2026-10-04T17:23:48+00:00",
+ "built_at": "2026-10-05T19:42:53+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1561062,
-  "duration_ms": 44918
+  "cost_usd_list": 0.1782422,
+  "duration_ms": 49065,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Expected to come off the bench as a scorer and play 29 to 30 minutes. He may still play more minutes than Josh Green and close games.",
+   "text": "Four Minnesota starters are set: LaMelo Ball, Anthony Edwards, Jaden McDaniels and Rudy Gobert. The fifth starting spot is open. Jonathan Kuminga has signed and is expected to start, but his spot is not guaranteed.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:t1",
+    "sTtFUy7IoJI:t1",
+    "n4KkK-OJjqA:t4"
+   ]
+  },
+  {
+   "text": "He will likely come off the bench as a scorer. He may still play more minutes than Josh Green and close games. The expected load is 29 to 30 minutes.",
    "kind": "verdict",
    "date": "2026-08-19",
    "until": "",
@@ -28,36 +41,7 @@
    ]
   },
   {
-   "text": "Minnesota has four set starters: LaMelo Ball, Anthony Edwards, Jaden McDaniels and Rudy Gobert. Jonathan Kuminga is expected to start.",
-   "kind": "fact",
-   "date": "2026-08-26",
-   "until": "",
-   "sources": [
-    "2mxpEpGU3H8:t1",
-    "sTtFUy7IoJI:t1"
-   ]
-  },
-  {
-   "text": "Minnesota's bench is thin and has little scoring punch.",
-   "kind": "fact",
-   "date": "2026-08-19",
-   "until": "",
-   "sources": [
-    "2mxpEpGU3H8:t2"
-   ]
-  },
-  {
-   "text": "Donte DiVincenzo is expected to miss most of the season, so Minnesota is short on guards.",
-   "kind": "fact",
-   "date": "2026-06-23",
-   "until": "",
-   "sources": [
-    "HxQjagSTTAM:t0",
-    "9tb1ARBEmQU:t0"
-   ]
-  },
-  {
-   "text": "His usage should drop because he shares the ball with LaMelo Ball and Anthony Edwards. He is the third offensive option at best, so his upside is capped. Experts say not to pay for the hype.",
+   "text": "Ball and Edwards make him the third offensive option even if he starts. His usage will probably drop, and that caps his fantasy upside.",
    "kind": "verdict",
    "date": "2026-07-17",
    "until": "",
@@ -68,7 +52,7 @@
    ]
   },
   {
-   "text": "His 2025-26 shooting gains (3P% from 33 to 44, FT% from 78 to 88) and his 71% deflection-to-steal conversion are likely to come down.",
+   "text": "His shooting may regress. His 3P% jumped from 33 to 44 and his FT% from 78 to 88. His 71% rate of turning deflections into steals may also come down.",
    "kind": "verdict",
    "date": "2026-07-17",
    "until": "",
@@ -79,7 +63,17 @@
    ]
   },
   {
-   "text": "Ranked tier 8 among point guards.",
+   "text": "Experts expect him to be a popular target and advise against following the hype.",
+   "kind": "verdict",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p0",
+    "ya2VYRJ1BN0:p7"
+   ]
+  },
+  {
+   "text": "Ranked in tier 8 of point guards for category leagues, and tier 7 in points leagues.",
    "kind": "verdict",
    "date": "2026-09-09",
    "until": "",
@@ -88,23 +82,43 @@
    ]
   },
   {
-   "text": "Minnesota plays only two games in the week starting March 15, which is week 20 of our fantasy playoffs.",
+   "text": "Minnesota's bench is thin. It has little scoring and no ball handlers.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:t2",
+    "ZYllcj4o6_A:t5"
+   ]
+  },
+  {
+   "text": "Minnesota has a two-game week in the matchup that starts March 15. That week falls inside our fantasy playoffs.",
    "kind": "fact",
    "date": "2026-09-22",
    "until": "",
    "sources": [
     "gf_6GveiAls:t14",
-    "J1Eg3uaAICU:t0",
     "2mxpEpGU3H8:t4",
+    "J1Eg3uaAICU:t0",
     "QbdrhJd7LiA:t4"
+   ]
+  },
+  {
+   "text": "Minnesota is projected to be competitive, at about 53 wins. It is not expected to rest players for tanking.",
+   "kind": "verdict",
+   "date": "2026-08-19",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:t3",
+    "Rqb5GdrSweY:t8"
    ]
   }
  ],
  "durable": [
   {
-   "text": "His category line is balanced. He has no strong outlier and no weak category.",
+   "text": "His category profile is balanced. No category is a league outlier, either strong or weak.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
@@ -113,65 +127,118 @@
  ],
  "tags": [
   {
-   "name": "fits every build",
-   "channel": "durable",
-   "detail": "no category flagged weak",
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Competes with Jonathan Kuminga and Josh Green for the open fifth starting spot",
    "until": "",
    "sources": [
-    "stats"
+    "2mxpEpGU3H8:t1",
+    "2mxpEpGU3H8:p15",
+    "n4KkK-OJjqA:t4",
+    "sTtFUy7IoJI:t1"
    ],
    "new_meaning": ""
   },
   {
-   "name": "minutes competition",
+   "name": "usage competition",
    "channel": "current",
-   "detail": "Josh Green and Jonathan Kuminga compete with him for the fifth starter spot. He is expected to come off the bench.",
+   "detail": "Third option behind LaMelo Ball and Anthony Edwards",
    "until": "",
    "sources": [
-    "2mxpEpGU3H8:p15",
-    "2mxpEpGU3H8:t1",
-    "sTtFUy7IoJI:t1"
+    "ya2VYRJ1BN0:p7",
+    "-y6p5PYLf00:p0",
+    "NYTH7uQsPCM:p19"
    ],
    "new_meaning": ""
   },
   {
    "name": "role down",
    "channel": "current",
-   "detail": "lower usage next to LaMelo Ball and Anthony Edwards",
+   "detail": "Usage expected to drop after LaMelo Ball's arrival",
    "until": "",
    "sources": [
     "NYTH7uQsPCM:p19",
-    "ya2VYRJ1BN0:p7",
-    "-y6p5PYLf00:p0"
+    "ya2VYRJ1BN0:p7"
    ],
    "new_meaning": ""
   },
   {
    "name": "regression risk",
    "channel": "current",
-   "detail": "3P% jumped from 33 to 44 and FT% from 78 to 88. His steal conversion rate is also high.",
+   "detail": "3P% rose from 33 to 44, FT% from 78 to 88, and his steal conversion rate is high",
    "until": "",
    "sources": [
     "-y6p5PYLf00:p0",
     "-y6p5PYLf00:p1",
     "NYTH7uQsPCM:p19"
    ],
-   "new_meaning": "A recent jump in shooting or other rates is expected to come back down."
+   "new_meaning": ""
   },
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "two-game week starting March 15 (week 20)",
+   "detail": "Two-game week in the matchup starting March 15",
    "until": "",
    "sources": [
     "gf_6GveiAls:t14",
-    "J1Eg3uaAICU:t0",
     "2mxpEpGU3H8:t4",
+    "J1Eg3uaAICU:t0",
     "QbdrhJd7LiA:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "Projected at about 53 wins",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low shutdown risk",
+   "channel": "current",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:t8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "thin rotation",
+   "channel": "current",
+   "detail": "Thin bench with little scoring and no ball handlers",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:t2",
+    "ZYllcj4o6_A:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "stable starters",
+   "channel": "durable",
+   "detail": "Finch rarely changes starters unless someone is hurt",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "No weak category",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   }
  ],
- "note": "At rank 104 on Yahoo and 108 on ESPN, valued at 2 to 5 USD with an average cost of 1 USD, he is an end-of-draft guard in our 144-player auction. Pay no more than a few dollars, because his usage drops next to Ball and Edwards, his shooting may regress, and Minnesota has a two-game week in week 20. His balanced line fits any build. Early in the season, check whether he plays 29 or more minutes and closes games, and whether his 3P% and FT% hold.",
+ "note": "He ranks about 104 on Yahoo and 108 on ESPN, so he should be drafted in our 144-player pool. His average cost is only about 1 USD on both sites, so treat him as a 1 to 3 USD end-game guard who fits any build. His 2025-26 line (51.7 FG%, 87.6 FT%, 1.8 3PM) depended on big jumps in his shooting rates, and he now shares the ball with Ball and Edwards. In the first weeks, check whether he starts or plays about 30 minutes off the bench, and whether his 3P% and FT% hold. Also keep in mind the two-game week starting March 15.",
  "rejected": []
 }

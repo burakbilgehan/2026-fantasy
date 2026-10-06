@@ -8,7 +8,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 20 | 14.8 | 51 | 4 | 5.4 | 77 | not drafted |
+| 2026-27 | 20 | 14.8 | 51 | 4 | 5.6 | 77 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -27,27 +27,29 @@
 </details>
 
 **Current**
-- Draft price call: going inside the top 50 is early, but taking him in the 50s is fine. One expert ranks him 65th in category leagues. Experts are comfortable drafting him. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=1031), [09-03](https://youtu.be/OBwWCxG9SqM?t=1034), [08-17](https://youtu.be/LcZcvk8s1xQ?t=2081))
-- Rookie forward who is expected to start for Memphis. One projected starting five is Ty Jerome, Cedric Coward, Jerami Grant, Cameron Boozer and Zach Edey. (fact, 2026-09-03; [06-25](https://youtu.be/lOshTzDA4SA?t=179), [07-21](https://youtu.be/RyzcCGChYgs?t=1680), [09-03](https://youtu.be/OBwWCxG9SqM?t=1089), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483))
-- Coach Tuomas Iisalo runs an 11-man rotation and keeps minutes down. Boozer is projected for 30 to 32 minutes. He is one of only two Grizzlies expected to top 30 minutes. At 33 minutes he would be an easy top 50 player. (verdict, 2026-09-03; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1077), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159), [09-03](https://youtu.be/OBwWCxG9SqM?t=1096))
-- He is expected to struggle early, including with efficiency, as Cooper Flagg did. He should do more as the season goes on and reach a top 25 to 30 level by the end of the season and in the fantasy playoffs. (verdict, 2026-09-03; [06-25](https://youtu.be/lOshTzDA4SA?t=245), [06-25](https://youtu.be/lOshTzDA4SA?t=283), [08-11](https://youtu.be/OdDkXFhoKsc?t=1105), [09-03](https://youtu.be/OBwWCxG9SqM?t=1034), [09-03](https://youtu.be/OBwWCxG9SqM?t=1089))
-- Experts see him as the clear number one rookie this season. Because of how the roster is built, he will get every chance to win Rookie of the Year. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1096), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1886), [06-25](https://youtu.be/lOshTzDA4SA?t=179))
-- In Summer League he averaged 17 points, 7 rebounds, 4 assists, a steal and a three, on 51% FG, 82% FT and 40% from three. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1543))
-- Ja Morant was traded to Portland. Memphis has no real replacement at point guard, and Ty Jerome is expected to start there. (fact, 2026-07-17; [06-29](https://youtu.be/bHA-JoW3reE?t=682), [06-29](https://youtu.be/bHA-JoW3reE?t=1175), [07-17](https://youtu.be/NYTH7uQsPCM?t=1672))
-- With Morant gone, Boozer should take the first or second playmaking role in Memphis and see his assist rate go up. Experts are not worried that losing Morant's passing will hurt him. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=452), [06-29](https://youtu.be/bHA-JoW3reE?t=682))
+- Draft price: taking him in the 50s is fine, but inside the top 50 is early. In an auction mock, Josh's max was 15 USD and he went for 15 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1648), [09-15](https://youtu.be/KPdD91Oo8-U?t=1031), [09-03](https://youtu.be/OBwWCxG9SqM?t=1034), [08-17](https://youtu.be/LcZcvk8s1xQ?t=2081))
+- Boozer is a rookie and is set to start for Memphis. Joe's projected starting five is Ty Jerome, Cedric Coward, Jerami Grant, Cameron Boozer and Zach Edey. (fact, 2026-09-03; [07-21](https://youtu.be/RyzcCGChYgs?t=1680), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483), [09-03](https://youtu.be/OBwWCxG9SqM?t=1089), [06-25](https://youtu.be/lOshTzDA4SA?t=179))
+- He is not expected to be a 30 usage player in the NBA. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1059))
+- Joe projects about 32 minutes a night, one of only two Grizzlies above 30 minutes. Another expert projects 30 minutes and says 33 minutes would make him an easy top 50 player. (verdict, 2026-09-03; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1077), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159), [09-03](https://youtu.be/OBwWCxG9SqM?t=1096))
+- Experts expect him to struggle early, mostly with efficiency, like Cooper Flagg did, and to do more as the season goes on. He should play at a top 30 level by the fantasy playoffs. (verdict, 2026-09-03; [06-25](https://youtu.be/lOshTzDA4SA?t=245), [06-25](https://youtu.be/lOshTzDA4SA?t=283), [08-11](https://youtu.be/OdDkXFhoKsc?t=1105), [09-03](https://youtu.be/OBwWCxG9SqM?t=1089))
+- Season-end call: at least a top 30 finish. He is the clear number one rookie this season. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1034), [09-03](https://youtu.be/OBwWCxG9SqM?t=1096), [06-25](https://youtu.be/lOshTzDA4SA?t=179))
+- Coach Tuomas Iisalo plays at a very high pace, uses short stints, keeps minutes down and runs an 11-man rotation on a deep roster. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- Because of how the Memphis roster is built, he will get every chance to win Rookie of the Year. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1886))
+- In Summer League he averaged 17 points, 7 rebounds and 4 assists with a steal and a three, on 51% FG, 82% FT and 40% from three. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1543))
+- Ja Morant was traded to Portland, and Ty Jerome is expected to start at point guard. (fact, 2026-07-17; [06-29](https://youtu.be/bHA-JoW3reE?t=682), [07-17](https://youtu.be/NYTH7uQsPCM?t=1672))
+- With Morant gone, Boozer should take the first or second playmaking role in Memphis and his assist rate should go up. Experts see him as an excellent passer who can do more with the ball. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=452), [06-29](https://youtu.be/bHA-JoW3reE?t=682))
 
 **Durable**
-- Turnovers are his weakest category. He is projected for about 2.5 per game, which is high for a forward. (fact, 2026-10-04; stats)
-- He does nearly everything: scoring, rebounds, assists, steals, solid free throws, good two-point efficiency and threes. Experts call his game scalable. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1059), [06-28](https://youtu.be/RsjGTgJiKyI?t=1379), [08-02](https://youtu.be/TOn-D1SV7a8?t=1520))
-- He has limits as a rim protector and will likely lack blocks. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1059), [08-17](https://youtu.be/LcZcvk8s1xQ?t=384), [06-25](https://youtu.be/lOshTzDA4SA?t=245))
-- He is not expected to be a 30 usage player in the NBA. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1059))
+- Turnovers are his weakest category and are high for a forward. Rebounds are his strongest category. (fact, 2026-10-05; stats)
+- He contributes in nearly every category: points, rebounds, assists, steals, solid free throws, good FG% and threes. Experts call his game scalable. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1059), [06-28](https://youtu.be/RsjGTgJiKyI?t=1379), [08-02](https://youtu.be/TOn-D1SV7a8?t=1520))
+- He has limits as a rim protector, and experts expect few blocks from him. (verdict, 2026-09-03; [08-17](https://youtu.be/LcZcvk8s1xQ?t=384), [09-03](https://youtu.be/OBwWCxG9SqM?t=1059), [06-25](https://youtu.be/lOshTzDA4SA?t=245))
 - He plays more like a small forward than a center and has point forward potential. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=384))
-- He had a 30 usage rate and high assist numbers at Duke. (fact, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=245))
+- He had a 30 usage rate at Duke with high assist numbers. (fact, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=245))
 
 **Tags**
-- Current: `rookie` (Memphis rookie, expected to start), `slow start` (Expected to struggle early like Cooper Flagg, then reach a top 25 to 30 level by the fantasy playoffs), `sites disagree on price` (Yahoo value 20 USD (rank 51) vs ESPN value 4 USD (rank 77))
-- Durable: `punt TO fit` (About 2.5 turnovers per game projected)
+- Current: `rookie` (Clear number one rookie for redraft and dynasty), `usage freed` (Ja Morant traded to Portland; Boozer takes a first or second playmaking role), `slow start` (Expected to struggle with efficiency early, then reach top 30 level by the fantasy playoffs), `fast pace` (Iisalo plays at a very high pace), `sites disagree on price` (Yahoo value 20 USD, rank 51; ESPN value 4 USD, rank 77)
+- Durable: `punt TO fit` (About 2.5 turnovers per game projected, high for a forward)
 
-**Note.** Experts put him in the 50s and expect him to finish around the top 25 to 30, mostly through rebounds, points and well-rounded production. That makes him a fair buy near his Yahoo average cost of 14.8 USD, and a bargain if the room follows ESPN's 4 USD. He fits punt TO builds best because turnovers are his only weak category. Early in the season, check whether Iisalo's tight minutes let him reach 32 or more, how many assists he gets without Morant, and his three-point volume (Yahoo projects 1.3 threes, ESPN 0.3).
+**Note.** Experts price him in the 50s, and Josh's mock max of 15 USD is close to Yahoo's 14.8 USD average cost. ESPN's 4 USD value is far below where experts put him, so he can come cheap if our room follows ESPN. He fits punt TO builds, and his rebounds, points and passing as a forward help most builds. Early in the season, check his minutes under Iisalo's short stints, his assist share with Morant gone, and his efficiency. Experts expect a slow start, so hold him through a weak first month.
 
-<sub>21 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>22 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

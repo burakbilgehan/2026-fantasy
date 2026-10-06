@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 21 | 11.4 | 50 | 7 | 7.4 | 65 | 26 |
+| 2026-27 | 21 | 11.4 | 50 | 7 | 7.6 | 65 | 26 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,23 +30,26 @@
 </details>
 
 **Current**
-- Experts see picks 47 to 49 as a bit early for him. In a 9-cat mock he went in round 6. (verdict, 2026-09-24; [09-15](https://youtu.be/KPdD91Oo8-U?t=1004), [08-24](https://youtu.be/g31YlwRe0XQ?t=926), [09-24](https://youtu.be/_vbAP5y182A?t=1176))
-- He is falling in drafts because of his injury. Mock drafts take him around picks 54 to 60. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767), [08-11](https://youtu.be/OdDkXFhoKsc?t=1241))
-- His upside is about top 40, not top 30. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767))
-- He is a projected starter in Orlando next to Suggs, Bane, Banchero and Carter. That group was very good when it played together. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
-- Orlando has a new head coach, Sean Sweeney, so player roles may change. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
+- In an auction mock, Josh valued Wagner at 11 to 15 USD. He went for 15 USD, which Josh called about right. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3630))
+- In snake drafts he goes around picks 54 to 60. Experts took him in round 6 and called picks 47 and 49 a bit early. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1176), [09-15](https://youtu.be/KPdD91Oo8-U?t=1004), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767), [08-24](https://youtu.be/g31YlwRe0XQ?t=926))
+- His draft price has fallen because of his injury history. (fact, 2026-09-14; [08-11](https://youtu.be/OdDkXFhoKsc?t=1241), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767))
+- Last season was hurt by an ankle injury and lower minutes. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767), [08-01](https://youtu.be/FEcNjVRlj-U?t=1179))
+- His upside this season is about top 40, not top 30. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767))
+- He is a projected starter next to Suggs, Bane, Banchero and Carter. That group was very good when it played together. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
+- Orlando has a new head coach, Sean Sweeney, so roles may change. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
+- Phil projects Orlando for 47 or 48 wins and the 6th seed. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2156))
 
 **Durable**
-- Injuries badly hurt two of his seasons, and poor shooting seasons came before them. Last season a high ankle sprain from a contact injury cost him about 47 to 51 games and lowered his minutes. (fact, 2026-09-14; [09-10](https://youtu.be/dlo7L8Ru91A?t=1328), [08-01](https://youtu.be/FEcNjVRlj-U?t=1179), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767))
-- He has no single standout category but is good across the board. His best categories are points and FT%. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1328), stats)
+- He has no single standout category but is good across the board. FT%, points and assists for a forward are his best areas. (verdict, 2026-10-05; [09-10](https://youtu.be/dlo7L8Ru91A?t=1328), stats)
+- He has had two seasons badly shortened by injury, each after a poor shooting season. In 2025-26 he missed about 47 to 51 games with a high ankle sprain from a contact injury. (fact, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1328), [08-01](https://youtu.be/FEcNjVRlj-U?t=1179))
 - He is probably better in category leagues than in points leagues. (verdict, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=926))
 - Before those two seasons he was usually reliable and played through ankle rolls. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1179))
-- Phil sees the injuries of the last two years as random, not a chronic problem. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1179))
+- Phil sees the injuries of the last two years as random, not chronic. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1179))
 
 **Tags**
-- Current: `injury last season` (High ankle sprain cost him about 47 to 51 games.), `sites disagree on price` (Yahoo value 21 USD and rank 50. ESPN value 7 USD and rank 65.)
-- Durable: `fits every build` (No weak category. He helps most in PTS, FT% and AST for a forward.)
+- Current: `injury last season` (high ankle sprain, about 47 to 51 games missed), `sites disagree on price` (Yahoo value 21 USD, ESPN value 7 USD), `new coach` (Sean Sweeney replaces Jamahl Mosley), `winning team` (Phil projects 47 or 48 wins, 6th seed)
+- Durable: `fits every build` (no weak category; good across the board), `category league player`
 
-**Note.** He cost 26 USD in our last auction. The market has cooled: Yahoo average cost is 11.4 USD, ESPN value is 7 USD, and experts see his upside at about top 40, so paying near last year's price leaves little profit. He fits any build because no category is weak, and he helps most in points (23.4 projected) and FT% on volume. Early in the season, check how he looks after the ankle sprain and what role the new coach Sweeney gives him.
+**Note.** The sites disagree on his price: Yahoo values him at 21 USD (11.4 USD average cost) and ESPN at 7 USD. He went for 26 USD in our league last season, and Josh's 11 to 15 USD range fits his current rank of about 50 to 65. He has no weak category, so he fits any build. His best areas are FT% (z +1.3), points and assists for a forward, which makes him a solid mid-tier piece in the 15 USD range rather than a reach at last season's price. Early in the season, check how his ankle holds up and whether new coach Sweeney gives him his old 33 to 34 minutes, not the 30.0 he played last season.
 
-<sub>7 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>8 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

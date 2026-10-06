@@ -8,61 +8,72 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "90d342b0df3f",
- "note_count": 15,
- "built_at": "2026-10-04T17:41:30+00:00",
+ "input_sha": "5c2bc667fd56",
+ "note_count": 16,
+ "built_at": "2026-10-05T19:58:04+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.13219419999999998,
-  "duration_ms": 32770
+  "cost_usd_list": 0.1629622,
+  "duration_ms": 43170,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "LeBron James left the Lakers for the Sixers. Dončić and Austin Reaves are the remaining core, and the Lakers are now fully his team.",
+   "text": "LeBron James left the Lakers for the Sixers. Luka Dončić and Austin Reaves are the remaining core, and the Lakers are now fully his team.",
    "kind": "fact",
    "date": "2026-08-04",
    "until": "",
    "sources": [
     "_WjOjp6Qu8E:p7",
-    "_WjOjp6Qu8E:t0",
-    "W3THnI7wWdA:t0"
+    "_WjOjp6Qu8E:t0"
    ]
   },
   {
-   "text": "Experts expect his usage to stay the highest in the league, around 38 to 39 percent, with about 36 minutes.",
+   "text": "He led the NBA in scoring last season and had about 38% usage.",
+   "kind": "fact",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "ME-r173X5b0:p0",
+    "2A2JbUN-kc0:p3"
+   ]
+  },
+  {
+   "text": "Experts project about 39% usage, the highest in the league, with about 36 minutes. They do not expect his usage or scoring to drop with LeBron gone.",
    "kind": "verdict",
    "date": "2026-09-16",
    "until": "",
    "sources": [
     "2A2JbUN-kc0:p3",
-    "W-R1dzem32s:p0"
+    "W-R1dzem32s:p0",
+    "ME-r173X5b0:p0"
    ]
   },
   {
-   "text": "His scoring is not expected to change much. Without LeBron his assists could rise to about nine per game.",
+   "text": "Without LeBron, his assists could rise to about nine per game.",
    "kind": "verdict",
    "date": "2026-07-07",
    "until": "",
    "sources": [
-    "ME-r173X5b0:p0",
     "ME-r173X5b0:p1"
    ]
   },
   {
-   "text": "Experts call him a clear number three pick in 9-cat. They take him over Shai for his extra usage, assists, rebounds and consistency. They call his Yahoo rank of 3 about right.",
+   "text": "Experts call him a clear number three pick in 9-cat and a tier 1 guard. They take him over Shai for his extra usage, assists and rebounds, and they call Yahoo's rank of 3 about right.",
    "kind": "verdict",
    "date": "2026-09-16",
    "until": "",
    "sources": [
-    "2A2JbUN-kc0:p4",
     "W-R1dzem32s:p0",
+    "2A2JbUN-kc0:p4",
     "J1Eg3uaAICU:p2",
     "7BllEsdNLoM:p0"
    ]
   },
   {
-   "text": "In a 10-team 9-cat mock draft he went 4th, after Jokic, Wembanyama and Shai.",
+   "text": "In a 9-cat mock draft he went 4th, after Jokic, Wembanyama and Shai.",
    "kind": "fact",
    "date": "2026-09-30",
    "until": "",
@@ -71,7 +82,16 @@
    ]
   },
   {
-   "text": "Experts say health is the only real concern with him. One expert says his health also makes the Lakers more vulnerable than the top West teams.",
+   "text": "In an auction mock he went for 61 USD. The expert's ceiling was 64 USD, and he called that price one of the best values of the draft.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p2"
+   ]
+  },
+  {
+   "text": "Experts see injuries as the only real concern with him. One expert says his health is what makes the Lakers more vulnerable than the top West teams.",
    "kind": "verdict",
    "date": "2026-09-16",
    "until": "",
@@ -81,7 +101,7 @@
    ]
   },
   {
-   "text": "The Lakers play four games in the week starting March 15, which is our fantasy playoff week 20.",
+   "text": "He plays four games in the week starting March 15. That is week 20, one of our fantasy playoff weeks.",
    "kind": "fact",
    "date": "2026-08-16",
    "until": "",
@@ -92,35 +112,17 @@
  ],
  "durable": [
   {
-   "text": "He is a very high-usage player who runs his team's offense.",
+   "text": "He is an elite source of points, threes, assists and steals. Turnovers are his one big weakness.",
    "kind": "fact",
-   "date": "2026-09-01",
-   "until": "",
-   "sources": [
-    "skKXe2CRl8Q:p4"
-   ]
-  },
-  {
-   "text": "Points, threes, assists and steals are all league outliers on the strong side.",
-   "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He turns the ball over a lot, about 4 per game. Turnovers are a league outlier on the weak side.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He gives both rebounds and assists. That is a rare combination for a guard, and it adds to his value.",
-   "kind": "fact",
+   "text": "He gives both rebounds and assists at a high level. That combination is rare and adds to his value, and his rebounds are far above other guards.",
+   "kind": "verdict",
    "date": "2026-07-15",
    "until": "",
    "sources": [
@@ -129,8 +131,8 @@
    ]
   },
   {
-   "text": "Apart from turnovers, his weakest categories are blocks and both percentages. None of them is a league outlier.",
-   "kind": "fact",
+   "text": "Apart from turnovers, his weakest categories are blocks and both percentages.",
+   "kind": "verdict",
    "date": "2026-09-23",
    "until": "",
    "sources": [
@@ -139,12 +141,29 @@
    ]
   },
   {
-   "text": "He plays passing lanes well, which brings steals. He also draws a lot of charges and often guards bigger players such as power forwards.",
+   "text": "He is a heavily involved, very high usage player.",
+   "kind": "fact",
+   "date": "2026-09-01",
+   "until": "",
+   "sources": [
+    "skKXe2CRl8Q:p4"
+   ]
+  },
+  {
+   "text": "He is very good at playing passing lanes, which brings steals. He also draws a lot of charges.",
    "kind": "fact",
    "date": "2026-08-04",
    "until": "",
    "sources": [
-    "_WjOjp6Qu8E:p8",
+    "_WjOjp6Qu8E:p8"
+   ]
+  },
+  {
+   "text": "On defense he does better against bigger players and often guards power forwards.",
+   "kind": "fact",
+   "date": "2026-08-04",
+   "until": "",
+   "sources": [
     "_WjOjp6Qu8E:p9"
    ]
   }
@@ -153,11 +172,10 @@
   {
    "name": "PTS specialist",
    "channel": "durable",
-   "detail": "About 32 points per game, led the league last season",
+   "detail": "About 32 points per game projected",
    "until": "",
    "sources": [
-    "stats",
-    "ME-r173X5b0:p0"
+    "stats"
    ],
    "new_meaning": ""
   },
@@ -174,7 +192,7 @@
   {
    "name": "AST specialist",
    "channel": "durable",
-   "detail": "8 to 9 assists per game",
+   "detail": "About 8.5 assists per game, could reach 9 without LeBron",
    "until": "",
    "sources": [
     "stats",
@@ -185,7 +203,7 @@
   {
    "name": "STL specialist",
    "channel": "durable",
-   "detail": "About 1.6 steals per game from playing passing lanes",
+   "detail": "Plays passing lanes well",
    "until": "",
    "sources": [
     "stats",
@@ -216,15 +234,37 @@
   {
    "name": "elite per game",
    "channel": "durable",
-   "detail": "Experts say health is the only concern",
+   "detail": "Injuries are the only concern experts name",
    "until": "",
    "sources": [
     "2A2JbUN-kc0:p3",
     "stats"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "consistent",
+   "channel": "durable",
+   "detail": "Expert prefers his consistency to Shai's efficiency edge",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:p4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage freed",
+   "channel": "current",
+   "detail": "LeBron James and Rui Hachimura are gone, so the Lakers are fully his team",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:t0",
+    "_WjOjp6Qu8E:p7",
+    "_WjOjp6Qu8E:t0"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "He is a top 3 to 4 pick and should cost about what our league paid last season (76 USD). The market averages are 70.8 USD on Yahoo and 71.7 USD on ESPN, above the listed values of 59 and 63, so expect to pay over 70 USD. He fits punt TO builds best, since only turnovers are flagged as weak and he is an outlier in points, threes, assists and steals. Early in the season, check his games played (he played 50 and 64 the last two seasons) and whether his assists move toward nine without LeBron.",
+ "note": "He is a consensus top 3 or 4 pick. Yahoo and ESPN value him at 59 to 63 USD, but average costs are about 71 USD and he cost 76 USD in our league last season. The expert's ceiling of 64 USD suggests letting him go once bidding passes the mid 60s. He fits best in a punt TO build, where his points, threes, assists and steals count fully and his turnovers cost nothing. Early in the season, watch his health and whether his assists climb toward nine without LeBron.",
  "rejected": []
 }

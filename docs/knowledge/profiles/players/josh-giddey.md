@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 37 | 35.0 | 19 | 20 | 33.9 | 36 | 31 |
+| 2026-27 | 37 | 35.0 | 19 | 20 | 34.0 | 36 | 31 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,32 +30,40 @@
 </details>
 
 **Current**
-- Experts rate him as a late second round or early third round pick in 9-cat, around rank 18 to 24. Yahoo rank 18 is borderline but okay, pick 24 is strong, and ESPN rank 36 is very good value. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=341), [09-28](https://youtu.be/3Qm5wLjhvTw?t=351), [09-24](https://youtu.be/_vbAP5y182A?t=599), [09-23](https://youtu.be/C4vlgpJ62NI?t=1926), [09-16](https://youtu.be/2A2JbUN-kc0?t=570), [09-10](https://youtu.be/W-R1dzem32s?t=876), [09-09](https://youtu.be/7BllEsdNLoM?t=1173))
-- He is worth more in points leagues, where experts see him as a top 20 player, than in 9-cat. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=351), [09-16](https://youtu.be/2A2JbUN-kc0?t=570), [09-10](https://youtu.be/W-R1dzem32s?t=876))
-- He is the projected starting point guard in a lineup with Norman Powell, Matas Buzelis, Caleb Wilson and Nick Claxton. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=281))
-- Coby White and Nikola Vucevic left Chicago. Norman Powell and rookie Caleb Wilson arrived. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=199), [09-07](https://youtu.be/gJUBAJaHzlU?t=1152))
-- His free throw percentage dropped last season and cost him value. Experts are not sure it bounces back. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=365), [09-09](https://youtu.be/7BllEsdNLoM?t=1184))
+- In an auction mock draft he went for 29 USD. The expert bid up to 24 USD and did not see 29 USD as a bargain. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=548))
+- His shooting dropped last season, mainly an odd drop in FT%. One expert says it could bounce back, another says it is unclear. His three-point shooting also needs to recover. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1322), [09-28](https://youtu.be/3Qm5wLjhvTw?t=365), [09-09](https://youtu.be/7BllEsdNLoM?t=1184))
+- Experts call his price fair in category leagues: an end of round two or early round three pick, with ADP in the low to mid 20s about right and Yahoo rank 18 borderline but okay. One mock drafter called him a strong pick at 24. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1322), [09-28](https://youtu.be/3Qm5wLjhvTw?t=341), [09-28](https://youtu.be/3Qm5wLjhvTw?t=351), [09-24](https://youtu.be/_vbAP5y182A?t=599), [09-23](https://youtu.be/C4vlgpJ62NI?t=1926), [09-10](https://youtu.be/W-R1dzem32s?t=876), [09-09](https://youtu.be/7BllEsdNLoM?t=1173))
+- He is the projected starting point guard and the offensive hub in Chicago. The projected starting five is Giddey, Norman Powell, Matas Buzelis, Caleb Wilson and Nick Claxton. (fact, 2026-09-28; [08-18](https://youtu.be/FxaSnyk9g90?t=570), [09-28](https://youtu.be/3Qm5wLjhvTw?t=281))
+- Nikola Vucevic and Coby White are gone, which frees usage in Chicago. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=199), [09-07](https://youtu.be/gJUBAJaHzlU?t=1152))
 - He dealt with ankle injuries last season. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=365))
-- Chicago has 10 games in our fantasy playoff weeks (3-3-4) and 15 back-to-backs. The overall schedule is average, with one of only three five-game weeks of the season. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2024), [09-28](https://youtu.be/3Qm5wLjhvTw?t=2041), [08-16](https://youtu.be/gf_6GveiAls?t=1310))
-- His usage is expected to drop with a healthy roster. Norman Powell may lead the team in usage, and Matas Buzelis could be second, ahead of Giddey. (verdict, 2026-09-21; [09-10](https://youtu.be/W-R1dzem32s?t=876), [09-10](https://youtu.be/W-R1dzem32s?t=1509), [09-21](https://youtu.be/egRrai3Ax38?t=588), [08-24](https://youtu.be/g31YlwRe0XQ?t=1520))
-- One expert thinks he is probably a top 20 player, above his ESPN rank of 36. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2346))
-- Experts project about 33 to 34 minutes and about 23 usage. (verdict, 2026-09-16; [09-09](https://youtu.be/7BllEsdNLoM?t=1173), [09-16](https://youtu.be/2A2JbUN-kc0?t=570))
-- He should be the offensive hub and could reach about 10 assists per game without Coby White and Ayo Dosunmu. He still needs to score 15 to 16 points because the team lacks shooting. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=570), [08-18](https://youtu.be/FxaSnyk9g90?t=1411), [07-07](https://youtu.be/ME-r173X5b0?t=1105))
-- Chicago should play a fast, up-tempo transition style, which suits his rebounding and transition play. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1679), [08-18](https://youtu.be/FxaSnyk9g90?t=1370))
+- His ESPN rank of 36 is good value. One expert thinks he is probably a top 20 player. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=341), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2346))
+- Chicago projects as a bad team, likely bottom 10, with about 32 wins predicted. The team lacks shooting, and a lineup with Claxton, Wilson and Giddey will have poor spacing. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=98), [07-02](https://youtu.be/P6TNP-g0wzY?t=1764), [08-18](https://youtu.be/FxaSnyk9g90?t=1629), [08-18](https://youtu.be/FxaSnyk9g90?t=570), [06-25](https://youtu.be/lOshTzDA4SA?t=815))
+- Tiago Splitter is the new head coach, replacing Billy Donovan. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=172), [08-18](https://youtu.be/FxaSnyk9g90?t=387))
+- Chicago has 10 games in our fantasy playoff weeks (3-3-4) and 15 back-to-backs, one below the maximum. The first 20 games are a tough stretch. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2024), [09-28](https://youtu.be/3Qm5wLjhvTw?t=2041), [08-18](https://youtu.be/FxaSnyk9g90?t=1732))
+- The front office signs older players on short deals and hopes to trade them, so roster changes during the season are likely. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=746), [08-18](https://youtu.be/FxaSnyk9g90?t=251))
+- Experts disagree on his usage. One says it will drop because no one is out in Chicago, and that Norman Powell may lead the team in usage. Another says Buzelis could be second in usage, ahead of Giddey. (verdict, 2026-09-21; [09-10](https://youtu.be/W-R1dzem32s?t=876), [09-10](https://youtu.be/W-R1dzem32s?t=1509), [09-21](https://youtu.be/egRrai3Ax38?t=588), [08-24](https://youtu.be/g31YlwRe0XQ?t=1520))
+- Experts project him at about 33 to 34 minutes and about 23 usage. (verdict, 2026-09-16; [09-09](https://youtu.be/7BllEsdNLoM?t=1173), [09-16](https://youtu.be/2A2JbUN-kc0?t=570))
+- Experts expect around 10 assists per game, helped by the exits of Coby White and Dosunmu. One expert wants him top three in assists per game. (verdict, 2026-08-18; [07-07](https://youtu.be/ME-r173X5b0?t=1105), [08-18](https://youtu.be/FxaSnyk9g90?t=1411))
+- He still needs to score around 15 to 16 points per game because the team lacks shooting. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=570), [08-18](https://youtu.be/FxaSnyk9g90?t=570))
+- He is the only Bulls player paid over 20 million USD per year. (fact, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1479))
+- He faces the most pressure on the team if the season goes badly. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1479))
+- The Bulls should play a fast, up-tempo transition style. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1679))
+- The Bulls are thin. Losing a main player like Giddey would make depth a problem. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=155))
 
 **Durable**
-- Assists are his best category and a league outlier. Rebounds are also very high for a guard. (fact, 2026-10-04; stats, [09-28](https://youtu.be/3Qm5wLjhvTw?t=376), [09-09](https://youtu.be/7BllEsdNLoM?t=1184), [08-18](https://youtu.be/FxaSnyk9g90?t=1370))
-- He commits many turnovers, a league outlier in the TO category. (fact, 2026-10-04; stats, [08-18](https://youtu.be/FxaSnyk9g90?t=1322))
-- He is a reliable source of points, rebounds and assists, with possible double digit assists. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=376))
-- He is not a high usage player, so his week to week variance comes from his percentages and steals. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=376), [09-09](https://youtu.be/7BllEsdNLoM?t=1184))
-- Experts disagree on his three-point shooting. One says it improved to about 37% on low volume, another says it still needs to recover. (verdict, 2026-09-09; [08-18](https://youtu.be/FxaSnyk9g90?t=578), [09-09](https://youtu.be/7BllEsdNLoM?t=1184))
-- Rebounding and transition play are lasting strengths. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1370))
-- Availability is a concern. He needs to play more than 60 to 65 games to return his value. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1330))
+- Assists are a league outlier and rebounds are far above other guards. (fact, 2026-10-05; stats)
+- He is worth more in points leagues than in 9-cat. Experts see him as a top 20 points league player. (verdict, 2026-10-04; [09-28](https://youtu.be/3Qm5wLjhvTw?t=351), [09-10](https://youtu.be/W-R1dzem32s?t=876), [10-04](https://youtu.be/n4KkK-OJjqA?t=1322), [09-16](https://youtu.be/2A2JbUN-kc0?t=570))
+- He is a reliable source of points, rebounds and assists, with very high rebounds and assists for a guard and possible double digit assists. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=376), [09-09](https://youtu.be/7BllEsdNLoM?t=1184), stats)
+- Experts disagree on his usage profile. Two call him a low usage player whose variance comes from percentages and steals. Another calls him a high-usage passer. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=376), [09-09](https://youtu.be/7BllEsdNLoM?t=1184), [08-18](https://youtu.be/FxaSnyk9g90?t=1322))
+- Turnovers are his weak category. He is a high-turnover passer and needs to lower them. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1322), stats)
+- He shot about 37% and 36.5% from three over the last two seasons on low volume. (fact, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=578))
+- Rebounding and transition play are strengths. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1370))
+- Availability is a concern. He needs to play over 60 to 65 games. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1330))
 
 **Tags**
-- Current: `injury last season` (ankle injuries, 54 games), `sleeper` (ESPN rank 36, expert sees top 20), `sites disagree on price` (Yahoo rank 19 and value 37 USD, ESPN rank 36 and value 20 USD)
-- Durable: `AST specialist` (about 9 to 10 assists per game), `high TO` (about 3.6 turnovers per game), `punt TO fit`, `points league player` (top 20 in points leagues, about 22 in 9-cat)
+- Current: `injury last season` (ankle injuries), `usage competition` (Norman Powell and Matas Buzelis), `sites disagree on price` (Yahoo rank 18 to 19, ESPN rank 36), `bottom team` (bottom 10, about 32 wins), `new coach` (Tiago Splitter), `fast pace`, `thin rotation`, `usage freed` (Vucevic and Coby White gone), `trades likely` (front office signs veterans to trade them), `many back-to-backs` (15 back-to-backs)
+- Durable: `AST specialist` (about 9 to 10 assists per game projected), `high TO` (about 3.6 turnovers per game projected), `punt TO fit`, `points league player` (top 20 in points leagues, round 2 to 3 in 9-cat)
 
-**Note.** Experts put him around rank 18 to 24 in 9-cat, and his Yahoo price of about 35 to 37 USD fits that range. Our league paid 31 USD last season. Paying above the mid 30s means paying for a top 15 player. His elite assists and strong rebounds work best in a punt TO build, where his 3.6 turnovers hurt little. Early in the season, check his free throw percentage and how much usage Powell and Buzelis take from him.
+**Note.** Giddey is an assist and rebound engine from a guard slot, but his turnovers are a league outlier, so he fits a punt TO build best. Yahoo values him at 37 USD (average cost 35 USD) and ESPN's average cost is 34 USD. He went for 31 USD in our league last season and 29 USD in a recent mock, so a price around 29 to 32 USD is fair for us. Early in the season, check his FT% and FG% (he projects at 45.3% FG and 77.1% FT), whether Powell or Buzelis takes usage from him, and whether he stays healthy after missing 28 games last season.
 
-<sub>19 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>21 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

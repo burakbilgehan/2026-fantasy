@@ -30,22 +30,22 @@
 </details>
 
 **Current**
-- He has a meniscus (knee) injury and is expected to miss basically the whole 2026-27 season. Yahoo lists him as out with a knee injury. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=2137), stats)
-- Portland's backcourt is crowded: Damian Lillard, Ja Morant, Jrue Holiday, Scoot Henderson and Deni Avdija all handle the ball. Sharpe is listed off the bench. (fact, 2026-08-26; [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [06-29](https://youtu.be/bHA-JoW3reE?t=227), [07-07](https://youtu.be/ME-r173X5b0?t=1091))
-- Do not draft him in our league. He is out for basically the whole season, and his value has cratered in the crowded Portland backcourt. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=2137), [06-29](https://youtu.be/bHA-JoW3reE?t=1011))
-- Josh says there is almost no chance he starts. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=495))
-- He scored his points last season in a high-volume bench role. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1709))
-- It is unclear whether last season's scoring was empty and whether he can keep that shot volume. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1709))
-- His rise in steals came from a 71% deflection-to-steal conversion, which the speaker calls luck. Expect fewer steals. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1307))
-- Only 47.2% of his potential assists became assists. The speaker blames teammates who finish poorly (Camara, Clingan, Avdija) more than luck. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1892), [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
+- Portland has a new head coach, and minutes and usage are expected to swing from game to game across the rotation. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
+- He has a meniscus injury in his knee and is expected to miss basically the whole season. Yahoo lists him as out with a knee injury. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=2137), stats)
+- Portland's backcourt is crowded with Damian Lillard, Ja Morant, Jrue Holiday, Scoot Henderson and Deni Avdija. Sharpe is listed off the bench, and the projected starters are Lillard, Morant, Camara, Avdija and Clingan. (fact, 2026-08-26; [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [06-29](https://youtu.be/bHA-JoW3reE?t=227))
+- His value has cratered in the crowded Portland backcourt, and with the knee injury he is not a draft pick for our league. (verdict, 2026-08-26; [06-29](https://youtu.be/bHA-JoW3reE?t=1011), [08-26](https://youtu.be/sTtFUy7IoJI?t=2137))
+- There is almost no chance he starts. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=495))
+- Last season he scored about 20 points a game in a high-volume bench role. It is unclear whether those points were empty or whether he can keep that volume. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1709))
+- His jump to 1.5 steals came from a 71% deflection-to-steal conversion, which the expert calls luck. Expect his steals to come down. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1307))
+- Only 47.2% of his potential assists became assists. The likely cause is teammates who finish poorly (Camara, Clingan, Avdija), not luck alone. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1892), [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
 
 **Durable**
-- none
+- His fantasy value rests on scoring volume. He adds few assists and almost no blocks for a guard. (fact, 2026-10-05; stats)
 
 **Tags**
-- Current: `injured now` (Meniscus (knee) injury, out for basically the whole season; Yahoo status O (Knee)), `minutes competition` (Crowded backcourt with Lillard, Morant, Holiday, Henderson and Avdija), `role down` (Value cratered after Portland traded for Ja Morant; projected off the bench)
+- Current: `injured now` (knee meniscus injury, expected to miss basically the whole season; Yahoo status O (Knee)), `role down` (value cratered after Portland added Morant and got Lillard, Holiday and Scoot back), `usage competition` (Lillard, Morant, Scoot, Holiday and Avdija all need the ball), `regression risk` (steals jump came from a lucky 71% deflection-to-steal conversion), `new coach`, `unsettled rotation` (minutes and usage expected to swing from game to game)
 - Durable: none
 
-**Note.** With a meniscus injury that is expected to cost basically the whole season, he is not one of the 144 players to draft. Yahoo and ESPN both give him 0 USD of value (ranks 214 and 330), and our league paid 4 USD for him last season. I left out two September notes (ADP 101 flyer, a starting job, 19 minutes last season) because they do not match his stats or his Yahoo out status and seem to describe another player; if he returns late, check his role in the guard rotation before you spend FAB on him.
+**Note.** Do not draft him: he is out with a knee meniscus injury, both sites value him at 0 USD (Yahoo rank 214, ESPN rank 330), and even healthy he faces a crowded Portland backcourt. He went for 4 USD in our league last season, but that price does not apply now. Two September notes call him a starter and a round-nine flyer without mentioning the injury, and they name teammates and a rank that do not match Portland or the tables, so they were left out. Projections of 27 to 30 games suggest a late-season return, so watch for return news before the playoffs and treat him as a possible free IL stash from waivers, not an auction target.
 
-<sub>9 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>9 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

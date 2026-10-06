@@ -11,31 +11,32 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Luke Kornet, PF Harrison Barnes, PF Carter Bryant, PG Dylan Harper, SF Julian Champagnie
 
 **Current**
-- The Spurs have the fewest back-to-backs in the league, so their players have less rest risk. (fact, 2026-10-04; stats)
-- The fantasy playoff schedule is average. Week 19 has only 3 games. (fact, 2026-10-04; stats)
-- Point guard depth is weak. The Spurs may start Harper, Castle and Fox together. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1311))
-- The guard group is crowded. Castle, Harper and Fox cannot all get bigger roles, and more Harper minutes limit Castle's minutes. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1601), [09-09](https://youtu.be/7BllEsdNLoM?t=1991), [08-24](https://youtu.be/g31YlwRe0XQ?t=1055))
-- The roster is very deep at forward and wing, with a lot of depth around Tobias Harris. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1601), [08-27](https://youtu.be/ZAyie8lKyYc?t=1306), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312))
-- Projected starters are De'Aaron Fox, Stephon Castle, Devin Vassell, Tobias Harris and Victor Wembanyama. (fact, 2026-09-09; [08-27](https://youtu.be/ZAyie8lKyYc?t=524), stats, [09-09](https://youtu.be/7BllEsdNLoM?t=1991))
-- Fox will still start, even though the team's future is Dylan Harper and Castle. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1991))
-- Castle's assist chances depend on Fox's health and on how many minutes Harper gets. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1060))
-- The Spurs are not expected to bench Fox or Castle, which limits Harper's minutes. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1249))
+- The Spurs have the fewest back-to-backs in the league, so rest risk for Wembanyama and the other starters is lower. (fact, 2026-10-05; stats)
+- The fantasy playoff schedule is average: 10 games over weeks 19 to 21, with only 3 games in week 19. (fact, 2026-10-05; stats)
+- Harper may be the team's second best player but may come off the bench. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1767))
+- Fox should be healthier this season. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1767))
+- Point guard depth is weak, so the Spurs may start Harper, Castle and Fox together. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1311))
+- Castle, Harper and Fox cannot all get bigger roles. More Harper minutes limit Castle's minutes. (verdict, 2026-09-19; [08-24](https://youtu.be/g31YlwRe0XQ?t=1055), [09-09](https://youtu.be/7BllEsdNLoM?t=1991), [09-19](https://youtu.be/uarqbNA2dFk?t=1601))
+- The roster is very deep at forward, with a lot of depth around Tobias Harris. (fact, 2026-09-19; [08-27](https://youtu.be/ZAyie8lKyYc?t=1306), [09-19](https://youtu.be/uarqbNA2dFk?t=1601), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312))
+- Fox and Castle are not expected to be benched. This limits Dylan Harper's minutes. (verdict, 2026-09-09; [09-04](https://youtu.be/gerS7ibpaJo?t=1249), [09-09](https://youtu.be/7BllEsdNLoM?t=1991))
+- Castle's assist chances depend on Fox's health and Harper's minutes. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1060))
+- The projected starters are De'Aaron Fox, Stephon Castle, Devin Vassell, Tobias Harris and Victor Wembanyama. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=524), stats)
 - The team staggers its three guards so that at least two are always on the court. More three-guard lineups are expected this season. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=666))
-- Coach Mitch Johnson will have a hard job balancing minutes in such a deep rotation. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1491))
+- Coach Mitch Johnson has a hard job balancing a deep rotation. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1491))
 - The team drafted three centers and replaced its older backup centers with younger ones. It lost no one who played rotation minutes. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=267))
-- The Spurs still want to win now. They have cap flexibility and made only small roster changes. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=152))
-- Trades to consolidate the depth are expected fairly soon, but not right away. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
-- The Spurs are a top contender. One expert predicts 63 wins, and they could take the top seed in the West. Tanking risk is very low. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2403), [07-26](https://youtu.be/75Sk_4fkgIM?t=370), stats)
-- Tobias Harris, signed this summer, takes Harrison Barnes's starting role. (fact, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=1055), [07-05](https://youtu.be/4kKINkZhWls?t=3529), stats)
-- Keldon Johnson drops to ninth man, behind a wing group that includes Julian Champagnie and Barnes. (verdict, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=3529))
+- Trades to consolidate the forward depth are expected in the relatively near future, but not right now. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
+- The Spurs are aggressive about winning now. They have cap flexibility and made only small roster changes. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=152))
+- The Spurs are a top team in the West and could take the top seed. One expert predicts 63 wins. No tanking is expected. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2403), [07-26](https://youtu.be/75Sk_4fkgIM?t=370), [08-27](https://youtu.be/ZAyie8lKyYc?t=152), stats)
+- Tobias Harris takes Harrison Barnes's role. (fact, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=1055), [07-05](https://youtu.be/4kKINkZhWls?t=3529))
+- Keldon Johnson drops to ninth man, behind a wing group that includes Julian Champagnie and Barnes. (fact, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=3529))
 
 **Durable**
-- The offense relies on guards driving downhill to the rim. When defenses shut that off, the offense struggles. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2249))
+- The offense relies on downhill guard penetration. When that is shut off, it struggles. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2249))
 
 **Tags**
-- Current: `few back-to-backs` (13 back-to-backs, fewest in the league.), `deep rotation` (Crowded at guard (Fox, Castle, Harper) and very deep at forward (Harris, Vassell, Champagnie, Barnes, Keldon Johnson).), `winning team` (Win total 59.5, rank 2. Could take the top seed in the West.), `trades likely` (Trades of forward depth expected fairly soon, but not right away.)
+- Current: `deep rotation` (Three starting-level guards (Fox, Castle, Harper) and a very deep forward group (Harris, Vassell, Champagnie, Barnes, Keldon Johnson).), `winning team` (Win total 59.5, rank 2. Could take the top seed in the West.), `low shutdown risk` (Aggressive about winning now. No tanking expected.), `few back-to-backs` (13 back-to-backs, fewest in the league.), `trades likely` (Consolidation of forward depth expected in the relatively near future, not right now.), `shared ball handling` (Fox, Castle and Harper are staggered so two guards are always on the court. Castle's assists depend on Fox's health and Harper's minutes.)
 - Durable: none
 
-**Note.** Wembanyama is the anchor. The team should win a lot and has the fewest back-to-backs in the league, so there is little tanking or rest risk around him. The guards (Fox, Castle, Harper) and the forwards all lose some value to a crowded rotation, so watch early on who closes games, whether Harper starts in a three-guard lineup, and whether a trade thins out the forward group. The playoff schedule is only average, with 3 games in week 19.
+**Note.** Wembanyama is the prize here. He plays for a winning team that will not tank and has the fewest back-to-backs in the league, so rest risk is lower. Castle and Harper lose value because the guard group is crowded, and the same goes for Barnes, Keldon Johnson and Champagnie at forward, with Harris taking Barnes's role. Early on, watch whether Harper starts in a three-guard lineup, how healthy Fox is, and whether the expected forward trade happens.
 
-<sub>18 notes. Built 2026-10-04 with claude-opus-5-5 high, team prompt v1.</sub>
+<sub>19 notes. Built 2026-10-05 with claude-opus-5-5 high, team prompt v1.</sub>

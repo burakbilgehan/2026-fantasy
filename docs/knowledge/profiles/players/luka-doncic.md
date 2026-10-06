@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 59 | 70.8 | 3 | 63 | 71.7 | 4 | 76 |
+| 2026-27 | 59 | 70.8 | 3 | 63 | 71.6 | 4 | 76 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,26 +30,28 @@
 </details>
 
 **Current**
-- In a 10-team 9-cat mock draft he went 4th, after Jokic, Wembanyama and Shai. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=235))
-- Experts expect his usage to stay the highest in the league, around 38 to 39 percent, with about 36 minutes. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=312), [09-10](https://youtu.be/W-R1dzem32s?t=204))
-- Experts call him a clear number three pick in 9-cat. They take him over Shai for his extra usage, assists, rebounds and consistency. They call his Yahoo rank of 3 about right. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=1730), [09-10](https://youtu.be/W-R1dzem32s?t=204), [08-19](https://youtu.be/J1Eg3uaAICU?t=934), [09-09](https://youtu.be/7BllEsdNLoM?t=349))
-- Experts say health is the only real concern with him. One expert says his health also makes the Lakers more vulnerable than the top West teams. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=312), [08-05](https://youtu.be/CI4k8ofUXXk?t=103))
-- The Lakers play four games in the week starting March 15, which is our fantasy playoff week 20. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1464))
-- LeBron James left the Lakers for the Sixers. Dončić and Austin Reaves are the remaining core, and the Lakers are now fully his team. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=306), [08-04](https://youtu.be/_WjOjp6Qu8E?t=306), [07-01](https://youtu.be/W3THnI7wWdA?t=872))
-- His scoring is not expected to change much. Without LeBron his assists could rise to about nine per game. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=234), [07-07](https://youtu.be/ME-r173X5b0?t=1101))
+- In an auction mock he went for 61 USD. The expert's ceiling was 64 USD, and he called that price one of the best values of the draft. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=326))
+- In a 9-cat mock draft he went 4th, after Jokic, Wembanyama and Shai. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=235))
+- He led the NBA in scoring last season and had about 38% usage. (fact, 2026-09-16; [07-07](https://youtu.be/ME-r173X5b0?t=234), [09-16](https://youtu.be/2A2JbUN-kc0?t=312))
+- Experts project about 39% usage, the highest in the league, with about 36 minutes. They do not expect his usage or scoring to drop with LeBron gone. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=312), [09-10](https://youtu.be/W-R1dzem32s?t=204), [07-07](https://youtu.be/ME-r173X5b0?t=234))
+- Experts call him a clear number three pick in 9-cat and a tier 1 guard. They take him over Shai for his extra usage, assists and rebounds, and they call Yahoo's rank of 3 about right. (verdict, 2026-09-16; [09-10](https://youtu.be/W-R1dzem32s?t=204), [09-16](https://youtu.be/2A2JbUN-kc0?t=1730), [08-19](https://youtu.be/J1Eg3uaAICU?t=934), [09-09](https://youtu.be/7BllEsdNLoM?t=349))
+- Experts see injuries as the only real concern with him. One expert says his health is what makes the Lakers more vulnerable than the top West teams. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=312), [08-05](https://youtu.be/CI4k8ofUXXk?t=103))
+- He plays four games in the week starting March 15. That is week 20, one of our fantasy playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1464))
+- LeBron James left the Lakers for the Sixers. Luka Dončić and Austin Reaves are the remaining core, and the Lakers are now fully his team. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=306), [08-04](https://youtu.be/_WjOjp6Qu8E?t=306))
+- Without LeBron, his assists could rise to about nine per game. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=1101))
 
 **Durable**
-- Points, threes, assists and steals are all league outliers on the strong side. (fact, 2026-10-04; stats)
-- He turns the ball over a lot, about 4 per game. Turnovers are a league outlier on the weak side. (fact, 2026-10-04; stats)
-- Apart from turnovers, his weakest categories are blocks and both percentages. None of them is a league outlier. (fact, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1709), stats)
-- He is a very high-usage player who runs his team's offense. (fact, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=363))
-- He plays passing lanes well, which brings steals. He also draws a lot of charges and often guards bigger players such as power forwards. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1300), [08-04](https://youtu.be/_WjOjp6Qu8E?t=638))
-- He gives both rebounds and assists. That is a rare combination for a guard, and it adds to his value. (fact, 2026-07-15; [07-15](https://youtu.be/0geFVzSqOnA?t=1368), stats)
+- He is an elite source of points, threes, assists and steals. Turnovers are his one big weakness. (fact, 2026-10-05; stats)
+- Apart from turnovers, his weakest categories are blocks and both percentages. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1709), stats)
+- He is a heavily involved, very high usage player. (fact, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=363))
+- He is very good at playing passing lanes, which brings steals. He also draws a lot of charges. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1300))
+- On defense he does better against bigger players and often guards power forwards. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=638))
+- He gives both rebounds and assists at a high level. That combination is rare and adds to his value, and his rebounds are far above other guards. (verdict, 2026-07-15; [07-15](https://youtu.be/0geFVzSqOnA?t=1368), stats)
 
 **Tags**
-- Current: none
-- Durable: `PTS specialist` (About 32 points per game, led the league last season), `3PM specialist` (About 4 threes per game), `AST specialist` (8 to 9 assists per game), `STL specialist` (About 1.6 steals per game from playing passing lanes), `high TO` (About 4 turnovers per game), `punt TO fit`, `elite per game` (Experts say health is the only concern)
+- Current: `usage freed` (LeBron James and Rui Hachimura are gone, so the Lakers are fully his team)
+- Durable: `PTS specialist` (About 32 points per game projected), `3PM specialist` (About 4 threes per game), `AST specialist` (About 8.5 assists per game, could reach 9 without LeBron), `STL specialist` (Plays passing lanes well), `high TO` (About 4 turnovers per game), `punt TO fit`, `elite per game` (Injuries are the only concern experts name), `consistent` (Expert prefers his consistency to Shai's efficiency edge)
 
-**Note.** He is a top 3 to 4 pick and should cost about what our league paid last season (76 USD). The market averages are 70.8 USD on Yahoo and 71.7 USD on ESPN, above the listed values of 59 and 63, so expect to pay over 70 USD. He fits punt TO builds best, since only turnovers are flagged as weak and he is an outlier in points, threes, assists and steals. Early in the season, check his games played (he played 50 and 64 the last two seasons) and whether his assists move toward nine without LeBron.
+**Note.** He is a consensus top 3 or 4 pick. Yahoo and ESPN value him at 59 to 63 USD, but average costs are about 71 USD and he cost 76 USD in our league last season. The expert's ceiling of 64 USD suggests letting him go once bidding passes the mid 60s. He fits best in a punt TO build, where his points, threes, assists and steals count fully and his turnovers cost nothing. Early in the season, watch his health and whether his assists climb toward nine without LeBron.
 
-<sub>15 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>16 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

@@ -8,70 +8,42 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "ffa37f4b2a17",
+ "input_sha": "b5ae0d88f11d",
  "note_count": 14,
- "built_at": "2026-10-04T17:36:13+00:00",
+ "built_at": "2026-10-05T19:53:18+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.16058619999999998,
-  "duration_ms": 43154
+  "cost_usd_list": 0.2545422,
+  "duration_ms": 58247,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Dejounte Murray, Trey Murphy, Zion Williamson and likely Yves Missi start for the Pelicans. The last starting spot is between Fears and Herb Jones.",
+   "text": "Dejounte Murray is locked into the starting lineup at guard, which limits Fears' lead guard role.",
    "kind": "fact",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:t1",
-    "ZYllcj4o6_A:p4"
-   ]
-  },
-  {
-   "text": "A Pelicans beat reporter thinks Fears will start over Herb Jones. Reporting also says Joe Dumars wants him in the lineup.",
-   "kind": "fact",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "_vbAP5y182A:p32",
-    "ZYllcj4o6_A:p4"
-   ]
-  },
-  {
-   "text": "Dejounte Murray is the starting point guard, so Fears does not have the lead guard role.",
-   "kind": "fact",
-   "date": "2026-10-02",
+   "date": "2026-10-04",
    "until": "",
    "sources": [
     "5QU-jta-lWM:p9",
-    "egRrai3Ax38:t1",
-    "ZYllcj4o6_A:t1"
+    "n4KkK-OJjqA:t2"
    ]
   },
   {
-   "text": "Experts expect a full season of Murray to limit Fears.",
-   "kind": "verdict",
-   "date": "2026-08-03",
-   "until": "",
-   "sources": [
-    "xHRF06_E9HE:p45",
-    "5QU-jta-lWM:p9"
-   ]
-  },
-  {
-   "text": "The Pelicans have a crowded rotation: Murray, Murphy, Herb Jones, Zion, Derik Queen and Missi, with Bennedict Mathurin added to the bench. This creates a minutes crunch.",
+   "text": "Fears and Herb Jones compete for the last starting spot next to Murray, Trey Murphy, Zion Williamson and likely Yves Missi. Reporting says Joe Dumars wants Fears in the lineup, and a Pelicans beat reporter thinks Fears will start over Jones.",
    "kind": "fact",
-   "date": "2026-09-04",
+   "date": "2026-10-02",
    "until": "",
    "sources": [
-    "gerS7ibpaJo:t1",
-    "NYTH7uQsPCM:t0",
-    "gerS7ibpaJo:p19"
+    "ZYllcj4o6_A:p4",
+    "ZYllcj4o6_A:t1",
+    "_vbAP5y182A:p32",
+    "_vbAP5y182A:t0"
    ]
   },
   {
-   "text": "Josh gives Fears at least a 50/50 chance to start over Herb Jones and is moving him up his rankings. He would draft Fears only if he starts. Value is outside the top 115 everywhere.",
+   "text": "Josh gives Fears at least a 50/50 chance to start and is moving him up his rankings. He would draft Fears only if Fears starts.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -81,7 +53,32 @@
    ]
   },
   {
-   "text": "Fears is a handcuff to Dejounte Murray. If Murray is hurt or traded, Fears could give top 70 numbers.",
+   "text": "The Pelicans have a crowded rotation, with about eight players who could start. Fears has no clear 30-minute role yet.",
+   "kind": "fact",
+   "date": "2026-09-04",
+   "until": "",
+   "sources": [
+    "gerS7ibpaJo:p19",
+    "gerS7ibpaJo:t1",
+    "NYTH7uQsPCM:t0"
+   ]
+  },
+  {
+   "text": "Experts treat him as a late flyer with upside, taken from round 11 on in mock drafts. He would be clearly better with 30 or more minutes.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:p51",
+    "gerS7ibpaJo:p19",
+    "gerS7ibpaJo:p20",
+    "80kfLVnFQ_s:p50",
+    "g31YlwRe0XQ:p42",
+    "OdDkXFhoKsc:p63"
+   ]
+  },
+  {
+   "text": "He is a handcuff to Dejounte Murray. If Murray is hurt or traded, Fears could give top 70 numbers.",
    "kind": "verdict",
    "date": "2026-09-04",
    "until": "",
@@ -92,32 +89,38 @@
    ]
   },
   {
-   "text": "Experts treat him as a late upside flyer for assists. In mocks he went around pick 104 and in round 11. He would be worth more with 30+ minutes.",
-   "kind": "verdict",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "BjXP9JODDSg:p51",
-    "g31YlwRe0XQ:p42",
-    "80kfLVnFQ_s:p50",
-    "OdDkXFhoKsc:p63",
-    "gerS7ibpaJo:p19"
-   ]
-  },
-  {
-   "text": "One expert ranks him tier 8 among point guards and calls him badly underdrafted if he lasts to round 13.",
+   "text": "He is a tier 8 point guard, and lasting to round 13 means he is badly under drafted.",
    "kind": "verdict",
    "date": "2026-09-09",
    "until": "",
    "sources": [
     "7BllEsdNLoM:p41"
    ]
+  },
+  {
+   "text": "New coach Jamahl Mosley brings a defense-first identity.",
+   "kind": "fact",
+   "date": "2026-08-03",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:t4"
+   ]
+  },
+  {
+   "text": "The Pelicans project as a weak team near the bottom of the West, at about 34 wins.",
+   "kind": "verdict",
+   "date": "2026-08-03",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:t6",
+    "0AptxcRW0RE:t7"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He is a dynamic, downhill lead guard. He keeps attacking the rim even when he is not scoring there, and he contributes across categories.",
-   "kind": "verdict",
+   "text": "He is a downhill lead guard who is dynamic with the ball. He keeps attacking the rim even when he is not scoring there, and he contributes across categories.",
+   "kind": "fact",
    "date": "2026-10-02",
    "until": "",
    "sources": [
@@ -126,7 +129,7 @@
    ]
   },
   {
-   "text": "He does not shoot threes well enough to play off the ball as a two guard. He is slightly undersized and struggles on defense.",
+   "text": "He is not a good enough three-point shooter to play off the ball as a two guard. He is slightly undersized and struggles on defense.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -138,23 +141,46 @@
  ],
  "tags": [
   {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Competes with Herb Jones for the last starting spot",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p4",
+    "ZYllcj4o6_A:t1",
+    "_vbAP5y182A:p32"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Dejounte Murray starts and runs the point",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:p9",
+    "n4KkK-OJjqA:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "flyer",
    "channel": "current",
-   "detail": "Late upside pick for assists; mocks took him around pick 104 or in round 11",
+   "detail": "Late-round upside guard, better with 30+ minutes",
    "until": "",
    "sources": [
     "BjXP9JODDSg:p51",
-    "g31YlwRe0XQ:p42",
+    "gerS7ibpaJo:p19",
     "80kfLVnFQ_s:p50",
-    "OdDkXFhoKsc:p63",
-    "gerS7ibpaJo:p20"
+    "g31YlwRe0XQ:p42",
+    "OdDkXFhoKsc:p63"
    ],
    "new_meaning": ""
   },
   {
    "name": "handcuff",
    "channel": "current",
-   "detail": "Behind Dejounte Murray; could give top 70 numbers if Murray is hurt or traded",
+   "detail": "Behind Dejounte Murray; top 70 upside if Murray is out or traded",
    "until": "",
    "sources": [
     "gerS7ibpaJo:p20",
@@ -164,29 +190,72 @@
    "new_meaning": ""
   },
   {
-   "name": "minutes competition",
-   "channel": "current",
-   "detail": "Competes with Herb Jones for the last starting spot",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:t1",
-    "ZYllcj4o6_A:p4",
-    "_vbAP5y182A:p32"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "sleeper",
    "channel": "current",
-   "detail": "Priced at about 1 USD on Yahoo and ESPN; experts say he is underdrafted and are moving him up",
+   "detail": "Called badly under drafted; Josh moving him up",
    "until": "",
    "sources": [
     "7BllEsdNLoM:p41",
     "_vbAP5y182A:p32"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "Jamahl Mosley",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:t4",
+    "gerS7ibpaJo:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "defense-first",
+   "channel": "durable",
+   "detail": "Mosley's identity",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "About eight possible starters",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:t0",
+    "gerS7ibpaJo:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Last starting spot and center spot not settled",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t1",
+    "BjXP9JODDSg:t1",
+    "OdDkXFhoKsc:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "About 34 wins projected",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:t6",
+    "0AptxcRW0RE:t7"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Both sites price him at about 1 USD. He ranks 168 on Yahoo and 129 on ESPN, so he sits near the bottom of our 144-player pool and could go undrafted. His projected line is broad with no category outlier: steals are his best (z +1.0) and FG% (43.2%) and turnovers are his weak spots, so he is a 1 to 2 USD bench flyer for any build that needs guard steals and assists. In the first weeks, check whether he beats Herb Jones for the starting spot and gets close to 30 minutes, and watch Dejounte Murray's health, which is what unlocks his upside.",
+ "note": "Fears is a 1 USD player on both sites (Yahoo rank 168, ESPN rank 129). He went undrafted in our league last season, so he sits right at the edge of our 144-player draft. That makes him a fine last-dollar flyer, especially for a manager who already has Dejounte Murray. His best category is steals and he adds some assists, but his FG% (43%) and turnovers hurt. He fits a build that already tolerates low FG% better than one that relies on FG%. Early on, check whether he starts over Herb Jones, whether he reaches 30 minutes and how healthy Murray is. If none of these break his way, he is waiver material.",
  "rejected": []
 }

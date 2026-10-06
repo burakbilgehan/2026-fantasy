@@ -8,50 +8,42 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "7f28c44207f3",
+ "input_sha": "b65120e2a6b7",
  "note_count": 17,
- "built_at": "2026-10-04T17:52:17+00:00",
+ "built_at": "2026-10-05T20:05:12+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1887222,
-  "duration_ms": 67714
+  "cost_usd_list": 0.21727420000000003,
+  "duration_ms": 65830,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He is a rookie, and he started the Warriors' preseason opener.",
+   "text": "He is starting the preseason opener. He is a projected starter next to Curry, Podziemski, Green and Horford.",
    "kind": "fact",
    "date": "2026-10-02",
    "until": "",
    "sources": [
-    "ZYllcj4o6_A:p7"
-   ]
-  },
-  {
-   "text": "Experts project him as a starter, next to Curry, Podziemski, Green and a center (Horford in the newest note). He is second in minutes among the wings.",
-   "kind": "verdict",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
+    "ZYllcj4o6_A:p7",
     "MUbNYdjpUDM:t3",
-    "LXZLrL90crE:p8",
-    "LXZLrL90crE:t1"
+    "LXZLrL90crE:p8"
    ]
   },
   {
-   "text": "His starting spot is not secure. Steve Kerr rarely starts rookies, has little patience for them and often changes his starting lineup a few games in. Melton and Santos also compete for wing minutes.",
+   "text": "His starting spot is not secure. Steve Kerr rarely starts rookies, has little patience for them and often changes a set starting lineup a few games later, with lots of mixing among the wings.",
    "kind": "verdict",
    "date": "2026-09-30",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:t2",
     "LXZLrL90crE:t2",
-    "LXZLrL90crE:t3",
-    "TOn-D1SV7a8:p17"
+    "LXZLrL90crE:t3"
    ]
   },
   {
-   "text": "The Porzingis news gives him more usage but not necessarily more minutes. His minutes go up only if Draymond Green plays more center.",
+   "text": "The Porzingis news gives him a usage boost but not necessarily more minutes. His minutes go up only if Draymond Green plays more center.",
    "kind": "verdict",
    "date": "2026-09-30",
    "until": "",
@@ -61,37 +53,36 @@
    ]
   },
   {
-   "text": "Jimmy Butler and Moses Moody are out early in the season. Butler is out for at least half the season.",
+   "text": "Jimmy Butler is out for at least half the season. Moses Moody is also out early.",
    "kind": "fact",
    "date": "2026-09-03",
    "until": "",
    "sources": [
-    "OBwWCxG9SqM:t4",
-    "NYTH7uQsPCM:t6"
+    "NYTH7uQsPCM:t6",
+    "OBwWCxG9SqM:t4"
    ]
   },
   {
-   "text": "His numbers are expected to drop when Moody and Butler return. One expert also expects Warriors players to fade as the season goes on.",
+   "text": "His numbers are expected to drop when Moody and Butler return. Warriors players in general are expected to fade as the season goes on.",
    "kind": "verdict",
    "date": "2026-09-14",
-   "until": "",
+   "until": "Moody and Butler return",
    "sources": [
     "LM0cRCGoAUQ:p55",
     "E-KmhvyZ2CU:t1"
    ]
   },
   {
-   "text": "Golden State's depth is very poor, so minutes should go up across the rotation. Outside of Curry, no one on the roster creates his own shot.",
+   "text": "Golden State's depth is very poor. The team struggles to field a 10-man rotation, so minutes should go up across the rotation.",
    "kind": "fact",
-   "date": "2026-10-02",
+   "date": "2026-08-22",
    "until": "",
    "sources": [
-    "LXZLrL90crE:t4",
-    "ZYllcj4o6_A:t2"
+    "LXZLrL90crE:t4"
    ]
   },
   {
-   "text": "Experts expect rookie struggles: problems on defense, and his shooting should cool off after a hot Summer League.",
+   "text": "Expected to be okay as a rookie but to have rookie struggles, including defensive problems.",
    "kind": "verdict",
    "date": "2026-08-22",
    "until": "",
@@ -101,16 +92,17 @@
    ]
   },
   {
-   "text": "His ADP is 116 on Yahoo, 134 on ESPN and 167 on Fantrax.",
+   "text": "His ADP is 116 on Yahoo and 134 on ESPN.",
    "kind": "fact",
    "date": "2026-09-30",
    "until": "",
    "sources": [
-    "MUbNYdjpUDM:p9"
+    "MUbNYdjpUDM:p9",
+    "LM0cRCGoAUQ:p55"
    ]
   },
   {
-   "text": "Experts call him a round 10 to 11 flier. One would take him as high as pick 100 in category leagues.",
+   "text": "Experts see him as a round 10 to 11 flier. One would take him as high as pick 100 in category leagues and around 125 in points leagues.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -121,7 +113,7 @@
    ]
   },
   {
-   "text": "The Warriors' schedule is good for fantasy playoffs that end March 28. They have 15 back-to-backs, tied for second most in the league.",
+   "text": "The Warriors have 15 back-to-backs, tied for second most. Their schedule is good for fantasy playoffs ending March 28.",
    "kind": "fact",
    "date": "2026-09-30",
    "until": "",
@@ -133,18 +125,19 @@
  ],
  "durable": [
   {
-   "text": "He is an older rookie. He is 24 at the start of his first NBA season.",
+   "text": "He is an older rookie. He is 24 in his first NBA season.",
    "kind": "fact",
    "date": "2026-08-22",
    "until": "",
    "sources": [
     "LXZLrL90crE:p7",
     "TOn-D1SV7a8:p16",
-    "-rgXhs5BHiw:p8"
+    "-rgXhs5BHiw:p8",
+    "lOshTzDA4SA:p27"
    ]
   },
   {
-   "text": "He is a low-usage player who fits in around others. He is not a high-usage creator.",
+   "text": "He is a low-usage fit-in player, not a creator who makes his own shot.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -155,48 +148,30 @@
    ]
   },
   {
-   "text": "He is a versatile forward. He adds spacing, rebounding, passing and defense, and he can grab a rebound and push the ball himself. He has no clear position.",
-   "kind": "verdict",
-   "date": "2026-08-22",
-   "until": "",
-   "sources": [
-    "LXZLrL90crE:p7",
-    "-rgXhs5BHiw:p8"
-   ]
-  },
-  {
-   "text": "His fantasy value comes from a spread of rebounds, assists, steals and blocks, not from one standout category.",
+   "text": "He is versatile. His fantasy appeal is a spread of rebounds, assists, steals and blocks.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:p10",
     "ZYllcj4o6_A:p7",
-    "stats"
+    "LXZLrL90crE:p7"
    ]
   },
   {
-   "text": "His shooting is inconsistent, and his shot is iffy.",
+   "text": "His shooting is inconsistent and his shot is iffy.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:p7",
-    "lOshTzDA4SA:p27",
-    "ZYllcj4o6_A:p7"
+    "MUbNYdjpUDM:p10",
+    "ZYllcj4o6_A:p7",
+    "lOshTzDA4SA:p27"
    ]
   },
   {
-   "text": "Threes are his weakest category for a forward. The two sites disagree a lot here: Yahoo projects 1.3 threes per game, ESPN 0.3.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "His free throw shooting is a question. One expert calls him a poor free throw shooter, but both site projections have him near 80%.",
+   "text": "An expert calls him a poor free throw shooter. Both site projections still put him near 80% on low volume.",
    "kind": "verdict",
    "date": "2026-09-30",
    "until": "",
@@ -206,15 +181,12 @@
    ]
   },
   {
-   "text": "Experts disagree on his defense. One calls him good defensively, and others point to defensive issues. His athletic limits are also a concern.",
-   "kind": "verdict",
-   "date": "2026-08-02",
+   "text": "Threes are his weakest category for a forward. The sites split widely on his 3PM: Yahoo projects 1.3 and ESPN 0.3.",
+   "kind": "fact",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "lOshTzDA4SA:p27",
-    "RyzcCGChYgs:p27",
-    "TOn-D1SV7a8:p16",
-    "HxQjagSTTAM:p12"
+    "stats"
    ]
   }
  ],
@@ -222,44 +194,41 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "24-year-old rookie, Summer League MVP",
+   "detail": "24-year-old rookie",
    "until": "",
    "sources": [
     "LXZLrL90crE:p7",
-    "LXZLrL90crE:p9"
+    "TOn-D1SV7a8:p16"
    ],
    "new_meaning": ""
   },
   {
    "name": "flyer",
    "channel": "current",
-   "detail": "Round 10 to 11 flier",
+   "detail": "round 10 to 11 flier",
    "until": "",
    "sources": [
     "ZYllcj4o6_A:p7",
     "LM0cRCGoAUQ:p55",
-    "MUbNYdjpUDM:p9"
+    "g31YlwRe0XQ:p45"
    ],
    "new_meaning": ""
   },
   {
-   "name": "minutes competition",
+   "name": "early-season value",
    "channel": "current",
-   "detail": "Kerr mixes his wings and has little patience for rookies. Melton and Santos compete for minutes, and Moody and Butler return later",
-   "until": "",
+   "detail": "numbers expected to drop when Moody and Butler return",
+   "until": "Moody and Butler return",
    "sources": [
-    "MUbNYdjpUDM:t2",
-    "LXZLrL90crE:t2",
-    "LXZLrL90crE:t3",
-    "TOn-D1SV7a8:p17",
-    "LM0cRCGoAUQ:p55"
+    "LM0cRCGoAUQ:p55",
+    "E-KmhvyZ2CU:t1"
    ],
    "new_meaning": ""
   },
   {
    "name": "punt 3PM fit",
    "channel": "durable",
-   "detail": "Threes are his weakest category for a forward",
+   "detail": "",
    "until": "",
    "sources": [
     "stats"
@@ -267,20 +236,51 @@
    "new_meaning": ""
   },
   {
-   "name": "needs playmaker",
+   "name": "category league player",
    "channel": "durable",
-   "detail": "Low-usage player who fits in around others, not a creator",
+   "detail": "expert takes him around 100 in cats and 125 in points",
    "until": "",
    "sources": [
-    "MUbNYdjpUDM:p7",
-    "ZYllcj4o6_A:p7"
+    "MUbNYdjpUDM:p9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "rookie-averse coach",
+   "channel": "durable",
+   "detail": "Steve Kerr",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t2",
+    "LXZLrL90crE:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Kerr changes starting lineups and mixes the wings",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:t2",
+    "MUbNYdjpUDM:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "thin rotation",
+   "channel": "current",
+   "detail": "struggle to field a 10-man rotation",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:t4"
    ],
    "new_meaning": ""
   },
   {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "Warriors schedule is good for playoffs ending March 28",
+   "detail": "good for a March 28 end",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:t4"
@@ -288,18 +288,17 @@
    "new_meaning": ""
   },
   {
-   "name": "early-season value",
+   "name": "many back-to-backs",
    "channel": "current",
-   "detail": "Numbers expected to drop when Moody and Butler return",
+   "detail": "15 back-to-backs",
    "until": "",
    "sources": [
-    "LM0cRCGoAUQ:p55",
-    "OBwWCxG9SqM:t4",
-    "E-KmhvyZ2CU:t1"
+    "MUbNYdjpUDM:t4",
+    "gf_6GveiAls:t4"
    ],
-   "new_meaning": "Expected to produce more early in the season than later, for example before injured teammates return."
+   "new_meaning": ""
   }
  ],
- "note": "He is priced as the last player in the pool. His Yahoo rank is 144, with a Yahoo average cost of 1.0 USD and an ESPN average cost of 0.4 USD. Experts call him a round 10 to 11 flier, so in our auction he is a 1 to 2 USD end-of-draft pick for his rebounds, assists, steals and blocks. He suits punt 3PM builds best. Early in the season, check that Kerr keeps him in the starting lineup and how many minutes he gets. Also check his threes and free throws, since the sites project 1.3 and 0.3 threes per game. His best stretch should come before Butler and Moody return.",
+ "note": "He sits right on our draft line, ranked 144 on Yahoo and 173 on ESPN. Both sites value him at 0 to 1 USD, so he is a last-dollar flier for the rebound, assist, steal and block spread, and a punt 3PM build gives up little with him. Early in the season, check whether Kerr keeps him in the starting lineup and how many minutes he gets while Butler and Moody are out. Be ready to drop him if his role shrinks.",
  "rejected": []
 }

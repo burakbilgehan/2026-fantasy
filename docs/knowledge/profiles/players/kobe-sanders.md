@@ -27,23 +27,24 @@
 </details>
 
 **Current**
-- The latest Clippers preview has him as the tenth man in the rotation, behind Kris Dunn, Bradley Beal, Brook Lopez and Keaton Wagler on the bench. He has no starting spot. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1547), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268), [07-01](https://youtu.be/W3THnI7wWdA?t=1464))
-- Yahoo lists him as questionable with a hip injury. (fact, 2026-10-04; stats)
-- To matter for fantasy he needs big minutes and a couple of high-usage players out of the way. The latest preview speaker is not interested in him. (verdict, 2026-10-04; [07-01](https://youtu.be/W3THnI7wWdA?t=1464), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1547))
-- The Clippers have many injuries, with Ingram, Beal, Jordan Miller and Konan Niederhauser all out. This could open minutes on the wing. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018))
-- The Clippers may treat this as a trial season with long rotations and many players tested, and coach Ty Lue often changes his rotation choices. That makes a tenth man's minutes hard to predict. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
-- The Clippers play 4-3-4 games in our playoff weeks and have one of the lowest back-to-back totals in the league with 13. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
-- His minutes are uncertain because Bradley Beal re-signed. (verdict, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1334))
-- He had 14 points, 5 rebounds and 4 assists in summer league and looked too good for that level. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1816))
-- He re-signed with the Clippers. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1464))
+- Yahoo lists him as questionable with a hip injury. (fact, 2026-10-05; stats)
+- He is projected as the Clippers' tenth man, behind Kris Dunn, Bradley Beal, Brook Lopez and Keaton Wagler off the bench. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1547), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268), [07-21](https://youtu.be/RyzcCGChYgs?t=1816))
+- Ingram, Beal, Jordan Miller and Konan Niederhauser are all out for the Clippers now. That could open some minutes behind the starters. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018))
+- The Clippers are expected to use long rotations and test many players this season. Coach Ty Lue often changes his rotation choices. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
+- He is not a draft target. The expert is not interested in him. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1547))
+- The Clippers have a good fantasy playoff schedule: 4, 3 and 4 games in weeks 19 to 21. They also have one of the lowest back-to-back totals in the league, with 13. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
+- Bradley Beal re-signed with the Clippers. That makes Sanders' minutes uncertain. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1334))
+- He re-signed with the Clippers. He has no starting spot. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1464))
+- He needs big minutes and a couple of high-usage teammates out of the way to have fantasy value. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1464))
 
 **Durable**
-- When he started as a rookie, he gave almost nothing for fantasy. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1547))
+- He has no standout category. Points and rebounds are low even for his position, and his only plus is few turnovers. (fact, 2026-10-05; stats)
+- He gave almost nothing for fantasy even when he started. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1547))
 
 **Tags**
-- Current: `minutes competition` (Projected tenth man. Beal re-signed and the wing and guard bench is crowded.), `questionable` (Yahoo Q (hip)), `injured now` (Hip, Yahoo status Q), `good playoff schedule` (LAC 4-3-4 in weeks 19 to 21), `few back-to-backs` (LAC has 13 back-to-backs)
+- Current: `minutes competition` (Projected tenth man; Beal re-signed and Dunn, Wagler and Lopez are ahead of him on the bench), `questionable` (Yahoo Q (hip)), `injured now` (Hip, Yahoo status Q), `deep rotation` (Clippers expected to use long rotations in a trial season), `unsettled rotation` (Ty Lue changes rotations often; projected lineup not confident), `good playoff schedule` (4-3-4 in weeks 19 to 21), `few back-to-backs` (13 back-to-backs)
 - Durable: none
 
-**Note.** Yahoo values him at 0 USD and ranks him 329th, far outside the 144 players we draft. Do not bid on him. His projected line has no strong category, and points and rebounds are weak. Early in the season, check his hip and whether the Clippers injuries (Ingram, Beal, Miller) or Ty Lue's rotation changes push him into big minutes. Only then is he worth a waiver look.
+**Note.** Sanders is a waiver player in our league, not a draft target. Yahoo values him at 0 USD and ranks him 329th, far outside the 144 players we draft. He projects for 7.1 points and 2.3 rebounds in a tenth-man role, so he adds nothing to any build beyond few turnovers. Early in the season, check his hip and whether the Clippers' injuries (Ingram, Beal, Miller) give him starter-level minutes. That is the only way he becomes worth a waiver add.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

@@ -8,29 +8,32 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "add5a653aaa2",
- "note_count": 31,
- "built_at": "2026-10-04T17:27:54+00:00",
+ "input_sha": "65cbf24fe3be",
+ "note_count": 32,
+ "built_at": "2026-10-05T19:45:57+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.23309420000000003,
-  "duration_ms": 71080
+  "cost_usd_list": 0.2347262,
+  "duration_ms": 70126,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "New head coach Dusty May says Flagg will play positions one through four this season, including some point guard.",
+   "text": "Dusty May is the new Dallas head coach. He says Flagg will play positions one through four this season, including some guard.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
     "0AptxcRW0RE:p0",
-    "W-R1dzem32s:p5",
-    "XSPJL_mlFXo:p0"
+    "XSPJL_mlFXo:p0",
+    "XSPJL_mlFXo:t1",
+    "W-R1dzem32s:p5"
    ]
   },
   {
-   "text": "A role at the four next to Dallas's other power forwards would be a worse fantasy situation for him than a ball-handling role.",
+   "text": "With Kyrie Irving back and a new coach, his role may change. If he plays the four next to other power forwards, his fantasy situation gets worse.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -39,19 +42,20 @@
    ]
   },
   {
-   "text": "Dallas has very few ball handlers. Besides Kyrie Irving, almost every player is a power forward.",
+   "text": "Dallas is short on ball handlers. Kyrie Irving, rookie Sergio de Larrea and Marcus Sasser are the only real guards, and Kyrie is 36 and coming off injury.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:t0",
-    "0AptxcRW0RE:t1"
+    "0AptxcRW0RE:t1",
+    "RyzcCGChYgs:t3"
    ]
   },
   {
-   "text": "Flagg is the first priority on offense, ahead of Kyrie Irving. Kyrie's return may cut his assists and usage a little, but should take shots mostly from other players.",
+   "text": "Flagg is the first option on offense and Kyrie Irving is second. Kyrie may cut into his assists a little, but he should take shots mostly from other players. With so few ball handlers, Flagg keeps the ball in his hands.",
    "kind": "verdict",
-   "date": "2026-09-29",
+   "date": "2026-09-21",
    "until": "",
    "sources": [
     "2A2JbUN-kc0:p13",
@@ -59,12 +63,11 @@
     "dlo7L8Ru91A:p4",
     "dlo7L8Ru91A:t0",
     "egRrai3Ax38:p22",
-    "xHRF06_E9HE:p7",
-    "XSPJL_mlFXo:p3"
+    "xHRF06_E9HE:p7"
    ]
   },
   {
-   "text": "Dallas has too many power forwards, so he will not get many chances for big block numbers.",
+   "text": "Dallas has too many power forwards, so Flagg is unlikely to get chances for big block numbers.",
    "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
@@ -74,22 +77,14 @@
    ]
   },
   {
-   "text": "Experts expect him to start the season near the level he ended last season at. They expect his scoring and efficiency to rise, his assists to go over 5, and possibly more steals or blocks.",
+   "text": "Experts expect his scoring and efficiency to rise, with assists going from 4.5 to over 5 and a chance of more steals or blocks. Josh expects him to start the season close to the level he ended last season at. The open question is whether his shooting improves.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
    "sources": [
-    "XSPJL_mlFXo:p3",
     "gerS7ibpaJo:p8",
-    "xHRF06_E9HE:p6"
-   ]
-  },
-  {
-   "text": "The main worry is whether his shooting improves.",
-   "kind": "verdict",
-   "date": "2026-09-10",
-   "until": "",
-   "sources": [
+    "XSPJL_mlFXo:p3",
+    "xHRF06_E9HE:p6",
     "dlo7L8Ru91A:p4"
    ]
   },
@@ -103,7 +98,7 @@
    ]
   },
   {
-   "text": "Experts value him as a late first round pick, around picks 9 to 12 in 9-cat. Several call him a bargain at his ADP and a likely top 10 or top 12 player. One expert would take him as high as pick 9.",
+   "text": "In category leagues, experts are happy to take him at the end of round one or the start of round two. Josh calls him an absolute bargain at his ADP and would take him as high as pick 9. Getting him in round two is called fantastic.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -111,62 +106,72 @@
     "XSPJL_mlFXo:p2",
     "XSPJL_mlFXo:p3",
     "_vbAP5y182A:p2",
-    "C4vlgpJ62NI:p24",
-    "ahNxsoU8Hx4:p46",
-    "2A2JbUN-kc0:p13",
     "LM0cRCGoAUQ:p6",
     "W-R1dzem32s:p5",
     "gerS7ibpaJo:p6",
-    "dlo7L8Ru91A:p4",
-    "egRrai3Ax38:p22",
-    "J1Eg3uaAICU:p16"
+    "C4vlgpJ62NI:p24"
    ]
   },
   {
-   "text": "An average auction price of 60 USD is way too high for him.",
+   "text": "Several experts see him as a top 10 to top 12 player. They call his ESPN ADP, around 17 to 24, free value.",
    "kind": "verdict",
-   "date": "2026-09-04",
+   "date": "2026-09-21",
    "until": "",
    "sources": [
+    "ahNxsoU8Hx4:p46",
+    "egRrai3Ax38:p22",
+    "2A2JbUN-kc0:p13"
+   ]
+  },
+  {
+   "text": "In auctions, Josh would pay about 40 USD. He called 42 USD in a mock high, and an average auction price of 60 USD is called way too high.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p14",
     "gerS7ibpaJo:p7"
    ]
   },
   {
-   "text": "Dallas plays 4 games in each of the fantasy playoff weeks, the best playoff schedule in the league. It also has a league-high 16 back-to-backs.",
+   "text": "Dallas has a 4-4-4 schedule in the fantasy playoffs, probably the best in the league. It also has a league-high 16 back-to-backs and a two-game week in the matchup starting March 1.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:t4",
-    "gf_6GveiAls:t3"
+    "gf_6GveiAls:t3",
+    "gf_6GveiAls:t13",
+    "gf_6GveiAls:p15"
    ]
   },
   {
-   "text": "Dallas plays only two games in the week starting March 1, the week before our fantasy playoffs.",
-   "kind": "fact",
-   "date": "2026-08-16",
+   "text": "Dallas has no reason to tank because its pick is owed, so a late-season shutdown is unlikely. Projections range from a bad team to a 41-win play-in team.",
+   "kind": "verdict",
+   "date": "2026-09-29",
    "until": "",
    "sources": [
-    "gf_6GveiAls:p15",
-    "gf_6GveiAls:t13"
+    "sfCe7fS9daM:t10",
+    "Rqb5GdrSweY:t2",
+    "0AptxcRW0RE:t5",
+    "XSPJL_mlFXo:t5"
    ]
   }
  ],
  "durable": [
   {
-   "text": "Won Rookie of the Year. Finished 36th in category leagues as a rookie and 14th over the final two months, when Dallas gave him heavy usage (31% after the deadline).",
+   "text": "Won Rookie of the Year. Dallas gave him heavy usage down the stretch, and he finished 14th in category leagues over the final two months.",
    "kind": "fact",
-   "date": "2026-09-16",
+   "date": "2026-09-03",
    "until": "",
    "sources": [
-    "OBwWCxG9SqM:p2",
     "0AptxcRW0RE:p1",
-    "xHRF06_E9HE:p5",
-    "2A2JbUN-kc0:p13"
+    "OBwWCxG9SqM:p2",
+    "xHRF06_E9HE:p5"
    ]
   },
   {
-   "text": "A 6'11 forward who handles the ball, scores and distributes on high usage, and protects the rim from the weak side on defense. He did less rim protecting as a rookie than expected.",
+   "text": "He is a 6'11 forward who handles the ball, scores and distributes on high usage, and protects the rim from the weak side.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -178,7 +183,7 @@
    ]
   },
   {
-   "text": "Experts call him a budding superstar.",
+   "text": "The experts call him a budding superstar.",
    "kind": "verdict",
    "date": "2026-07-14",
    "until": "",
@@ -187,7 +192,18 @@
    ]
   },
   {
-   "text": "Playing more on the perimeter would likely hurt his rebounds and blocks. Playing at the four would not hurt his assists.",
+   "text": "Three-point shooting is a weakness. He shot about 29% from three as a rookie, and he did less rim protecting than hoped.",
+   "kind": "fact",
+   "date": "2026-07-27",
+   "until": "",
+   "sources": [
+    "0AptxcRW0RE:p2",
+    "0AptxcRW0RE:p3",
+    "xHRF06_E9HE:p5"
+   ]
+  },
+  {
+   "text": "A perimeter role tends to cost him rebounds and blocks. Playing the four does not hurt his assists.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -196,26 +212,16 @@
    ]
   },
   {
-   "text": "Three-point shooting is a weakness. He shot about 27 to 29% from three as a rookie.",
+   "text": "He contributes across categories: points, rebounds, assists, steals, blocks and FT%. Rebounds and blocks are high for a G/F. Turnovers are his weak category.",
    "kind": "fact",
-   "date": "2026-07-27",
-   "until": "",
-   "sources": [
-    "0AptxcRW0RE:p2",
-    "xHRF06_E9HE:p5"
-   ]
-  },
-  {
-   "text": "Broad category profile with no league outlier. He is above his position in points, rebounds, assists, steals and blocks. Turnovers are his one weak category.",
-   "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He is worth more in points leagues than in category leagues.",
+   "text": "Experts rate him a little higher in points leagues than in category leagues.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -226,16 +232,6 @@
   }
  ],
  "tags": [
-  {
-   "name": "punt TO fit",
-   "channel": "durable",
-   "detail": "About 2.5 turnovers per game on high usage",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
   {
    "name": "breakout",
    "channel": "current",
@@ -251,7 +247,7 @@
   {
    "name": "expert target",
    "channel": "current",
-   "detail": "Called a bargain at ADP and a likely top 10 to 12 player, mostly against his ESPN price",
+   "detail": "Experts see him as top 10 to 12; ESPN ADP is 17 to 24",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:p2",
@@ -263,18 +259,29 @@
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo average cost 50.6 USD and ADP 10, ESPN 41.5 USD and ADP 17",
+   "detail": "Yahoo average cost 50.6 USD and ADP 10, ESPN 41.4 USD and ADP 17",
    "until": "",
    "sources": [
-    "stats",
-    "XSPJL_mlFXo:p2"
+    "XSPJL_mlFXo:p2",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "Dusty May plans to use him at positions one through four",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t1",
+    "0AptxcRW0RE:p0"
    ],
    "new_meaning": ""
   },
   {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "Dallas plays 4-4-4 in the playoff weeks",
+   "detail": "Dallas plays 4-4-4 in the fantasy playoffs",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:t4",
@@ -283,9 +290,41 @@
    "new_meaning": ""
   },
   {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "Dallas has a league-high 16 back-to-backs",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t4",
+    "gf_6GveiAls:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low shutdown risk",
+   "channel": "current",
+   "detail": "Dallas does not own its pick, so it has no reason to tank",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:t10",
+    "Rqb5GdrSweY:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "About 2.5 turnovers per game on high usage",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "points league player",
    "channel": "durable",
-   "detail": "Experts rate him higher in points leagues",
+   "detail": "Experts rank him slightly higher in points leagues (as high as pick 7)",
    "until": "",
    "sources": [
     "LM0cRCGoAUQ:p6",
@@ -294,6 +333,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Both sites value him at 44 USD. Yahoo drafters pay about 50.6 USD and ESPN drafters about 41.5 USD. He cost 25 USD in our league as a rookie. Experts see him as a late first round player, so a price in the mid 40s is fair, but bidding toward 60 USD is too much. He fits any build but helps punt TO teams most, and the 4-4-4 playoff schedule adds value. Early in the season, check whether Dusty May uses him at guard or at the four, and whether his three-point volume and blocks go up.",
+ "note": "Flagg costs a late first-round price. The market lists him at 50.6 USD on Yahoo and 41.4 USD on ESPN, and Josh caps him at about 40 USD. Our league got him for 25 USD as a rookie, but that price will not repeat. He gives value in almost every category, with turnovers as the only weak spot, so he fits most builds and especially punt TO. Dallas also has a 4-4-4 playoff schedule. Early in the season, check whether Dusty May uses him at guard or at the four, whether his three-point shooting improves from about 29%, and whether the crowded frontcourt cuts his blocks.",
  "rejected": []
 }

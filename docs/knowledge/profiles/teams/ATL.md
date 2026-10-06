@@ -11,35 +11,35 @@ Weeks: games (back-to-back pairs). Fantasy playoffs are weeks 19 to 21, ending 2
 - Second unit: C Jock Landale, PF Mouhamed Gueye, SF Luguentz Dort, SF Dorian Finney-Smith, SG Aaron Wiggins
 
 **Current**
-- Atlanta has stability in the front office, the coaching staff and the roster. The core is basically the same as last season. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=148), [07-14](https://youtu.be/xHRF06_E9HE?t=230))
-- The projected starters are CJ McCollum, Nickeil Alexander-Walker, Dyson Daniels, Jalen Johnson and Onyeka Okongwu. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=328), [08-25](https://youtu.be/H9q2FT3LhNw?t=428), [06-30](https://youtu.be/4GDfg2n2l8o?t=526), stats)
-- Each of the five starters should play 30 or more minutes. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=328))
-- Atlanta is a deep team and should use a 10-man rotation. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1289), [07-01](https://youtu.be/W3THnI7wWdA?t=779))
-- The expected bench is Dort, Aaron Wiggins, Jock Landale, Kingston Flemings and probably Newell, with Kispert and Dorian Finney-Smith also in the mix. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
-- There is no true point guard. Ball handling is shared among McCollum, Alexander-Walker, Johnson and Daniels. (fact, 2026-09-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=364), [09-25](https://youtu.be/4gw4W4RTolY?t=1580))
-- Because several starters handle the ball, Dort or Wiggins can replace any of them. Flemings is not an automatic handcuff. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1580))
-- Power forward depth is bad to start the season. A Jalen Johnson injury would turn the rotation upside down. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=478))
-- Center depth took a hit. Henri Veesaar is out for the season and Mouhamed Gueye is injured. Jock Landale is the backup center behind Okongwu. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1693), [06-26](https://youtu.be/CLsUc0Sevos?t=1102), [06-25](https://youtu.be/lOshTzDA4SA?t=2227), stats)
+- Lu Dort is the main threat to the starting lineup. If he starts, it would likely be in place of McCollum, not Alexander-Walker. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=445), [08-25](https://youtu.be/H9q2FT3LhNw?t=428))
+- The projected starters are CJ McCollum, Nickeil Alexander-Walker, Dyson Daniels, Jalen Johnson and Onyeka Okongwu. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=328), [08-25](https://youtu.be/H9q2FT3LhNw?t=428), [06-30](https://youtu.be/4GDfg2n2l8o?t=526))
+- Each of the five starters should play 30-plus minutes. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=328))
+- Lloyd expects a 10-man rotation. The bench is Dort, Aaron Wiggins, Jock Landale, Kingston Flemings and probably Newell. Kispert and Dorian Finney-Smith are also in the mix. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1289), [07-01](https://youtu.be/W3THnI7wWdA?t=779))
+- Several starters handle the ball, so Dort or Wiggins can replace any of them. Flemings is not an automatic handcuff for a guard. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1580))
+- Power forward depth is bad to start the season. A Jalen Johnson injury would turn the whole rotation upside down. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=478))
+- Henri Veesaar is out for the season and Mouhamed Gueye is injured, so center depth is weakened. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1693))
 - Quin Snyder wants Okongwu spaced away from the rim when he plays alongside Daniels and Johnson. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=905))
-- The fantasy playoff schedule is 4-4-3 in weeks 19 to 21. That is 11 games, rank 4 of 30. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739), stats)
-- Resting players is not a concern, even with 14 back-to-backs. The team did not shut players down late last season. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739), [07-14](https://youtu.be/xHRF06_E9HE?t=230), stats)
-- Lu Dort is the main threat to the minutes of McCollum, Daniels and Alexander-Walker. (fact, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1750), [08-25](https://youtu.be/H9q2FT3LhNw?t=428))
-- Dort is not expected to start over McCollum. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1750))
-- Dort and Daniels will play together some, but they will mostly be staggered for spacing. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1376))
-- The roster is two players over the limit. (fact, 2026-08-25, until opening day; [08-25](https://youtu.be/H9q2FT3LhNw?t=834))
-- Cuts or a small trade are likely before opening day. The candidates are Carter, Nembhard, Hield, Gueye and Kispert. (verdict, 2026-08-25, until opening day; [08-25](https://youtu.be/H9q2FT3LhNw?t=834))
-- Atlanta is projected at 46 wins and somewhere between fourth and eighth in the East. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1902))
-- McCollum signed an extension. (fact, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=553))
-- The McCollum extension delays Kingston Flemings moving into the starting lineup. (verdict, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=553))
+- The front office, the head coach and the roster are stable. The core is basically the same as at the end of last season, and Jonathan Kuminga is gone. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=148), [07-14](https://youtu.be/xHRF06_E9HE?t=230), [06-30](https://youtu.be/4GDfg2n2l8o?t=526))
+- With the season ending March 28, the playoff schedule is 4-4-3. That is 11 games, rank 4 of 30, with only two back-to-back pairs. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739), stats)
+- Atlanta has 14 back-to-backs, but resting players is not a concern. The team did not shut players down last season. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739), [07-14](https://youtu.be/xHRF06_E9HE?t=230))
+- Lloyd does not expect Dort to start over McCollum. Dort is still a threat to the minutes of McCollum, Daniels and Alexander-Walker. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1750))
+- Dort and Daniels will play together some of the time, but they will mostly be staggered for spacing. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1376))
+- The team has no true point guard. McCollum, Alexander-Walker, Johnson and Daniels share the ball handling. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=364))
+- The roster is two players over the limit. Cuts or a small trade are likely. The candidates are Carter, Nembhard, Hield, Gueye and Kispert. (verdict, 2026-08-25, until opening day; [08-25](https://youtu.be/H9q2FT3LhNw?t=834))
+- Lloyd predicts 46 wins and a finish between fourth and eighth in the East. The market win total of 43.5 ranks only 15th of 30. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1902), stats)
+- The strong late-season run last year was helped by an easy schedule. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=116))
+- McCollum signed a contract extension. (fact, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=553))
+- McCollum's extension delays the point when rookie Kingston Flemings becomes a starter. (verdict, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=553))
+- Okongwu and Jock Landale are the centers. Okongwu cannot cover all 48 minutes, so the team drafted another small, switchy big man like him. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1102), [06-25](https://youtu.be/lOshTzDA4SA?t=2227))
 
 **Durable**
 - Quin Snyder runs an egalitarian, high-movement offense that wants lots of threes and five-out spacing. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=697))
-- Without a rim anchor, the defense uses more switching and blitzing, which puts the center in different spots. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1761))
+- Without a rim anchor, the defense uses more switching and blitzing, which puts the center in different spots on the floor. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1761))
 
 **Tags**
-- Current: `good playoff schedule` (4-4-3 in weeks 19 to 21, 11 games, rank 4 of 30), `deep rotation` (10-man rotation expected. Dort and Wiggins can cover any guard or wing starter.), `shared ball handling` (No true point guard. McCollum, Alexander-Walker, Johnson and Daniels share the ball.), `low shutdown risk` (Resting is not a concern. No late-season shutdowns last season.)
-- Durable: `five-out offense` (Quin Snyder wants lots of threes and five-out spacing. Okongwu is spaced away from the rim next to Daniels and Johnson.)
+- Current: `shared ball handling` (No true point guard. McCollum, Alexander-Walker, Johnson and Daniels share the ball.), `deep rotation` (10-man rotation expected. Dort, Wiggins, Landale, Flemings and Newell on the bench, with Kispert and Finney-Smith also in the mix. Depth is thin at power forward and center.), `three-point heavy` (Snyder's offense wants lots of threes.), `good playoff schedule` (4-4-3 in weeks 19 to 21, 11 games (rank 4 of 30).), `low shutdown risk` (Resting players is not a concern, and the team did not shut players down last season.), `winning team` (Lloyd predicts 46 wins and fourth to eighth in the East. The market win total is 43.5 (rank 15 of 30).)
+- Durable: `five-out offense` (Snyder wants five-out spacing. Okongwu is spaced away from the rim next to Daniels and Johnson.)
 
-**Note.** All five Atlanta starters should play 30-plus minutes, and the ball is shared with no true point guard. That keeps McCollum, Alexander-Walker and Daniels useful, and an 11-game, 4-4-3 playoff schedule with no rest worries helps every starter. Watch Lu Dort's minutes against the guards and the roster cuts before opening day. Power forward depth is thin, so a Jalen Johnson injury would reshape the whole rotation.
+**Note.** Atlanta has no true point guard and runs an egalitarian five-out offense. Assists and usage are spread across McCollum, Alexander-Walker, Daniels and Johnson, and Okongwu plays away from the rim. That spacing helps Okongwu's threes and caps Johnson's touches. The 4-4-3 playoff schedule and low rest risk help every starter, but early on, watch whether Lu Dort takes McCollum's starting spot, how the roster cuts before opening day play out, and how thin the depth at power forward and center is.
 
-<sub>23 notes. Built 2026-10-04 with claude-opus-5-5 high, team prompt v1.</sub>
+<sub>24 notes. Built 2026-10-05 with claude-opus-5-5 high, team prompt v1.</sub>

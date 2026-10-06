@@ -30,12 +30,10 @@
 </details>
 
 **Current**
-- Both Yahoo and ESPN value him at 0 USD and rank him outside the top 144, so he is not a draft pick in our league. (verdict, 2026-10-04; stats)
-- He comes off the bench. The projected Spurs starters are Fox, Castle, Vassell, Harris and Wembanyama. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=524))
-- He is likely about the eighth man in the rotation, still ahead of Harrison Barnes. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1334))
+- He is projected as about the eighth man in the Spurs rotation. He is still ahead of Harrison Barnes. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1334))
 - This is a contract year for him. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1404))
-- The Spurs roster is very deep at forward. The team is expected to consolidate through trades in the relatively near future, but not right now. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
-- The Spurs signed Tobias Harris. The forward and wing group also includes Champagnie and Harrison Barnes. (fact, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=3529), [07-05](https://youtu.be/4kKINkZhWls?t=3523))
+- The Spurs signed Tobias Harris. The projected starters are Fox, Castle, Vassell, Harris and Wembanyama, so Johnson comes off the bench. (fact, 2026-08-27; [07-05](https://youtu.be/4kKINkZhWls?t=3529), [08-27](https://youtu.be/ZAyie8lKyYc?t=524))
+- The Spurs roster is very deep at forward. The expert expects consolidation trades in the relatively near future, but not right now. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1306), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312))
 
 **Durable**
 - He won the Sixth Man of the Year award. (fact, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=3523))
@@ -43,11 +41,9 @@
 - He plays very similarly to Saddiq Bey. (verdict, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=3522))
 
 **Tags**
-- Current: `role down` (Sixth Man of the Year, now likely about the eighth man after the Tobias Harris signing), `minutes competition` (Deep Spurs forward group with Harris, Champagnie and Barnes), `contract year` (Last year of his contract in 2026-27)
-- Durable: `plays every game` (82 games in 2025-26 and 77 in 2024-25)
+- Current: `role down` (Sixth Man of the Year, but now a bench player behind starter Tobias Harris, about eighth in the rotation), `contract year`, `deep rotation` (Spurs are very deep at forward and wing: Harris, Vassell, Champagnie, Barnes, Harper), `trades likely` (Consolidation of forward depth expected in the relatively near future, not right now)
+- Durable: none
 
-**Note.** Keldon Johnson is not a draft pick in our 144-player auction. Yahoo ranks him 206 and ESPN 152, and both value him at 0 USD. His projected line of about 13 points on 49% shooting has no weak category, but as roughly the eighth man in a deep Spurs forward group he lacks the minutes, so leave him on waivers and check early in the season whether a Spurs trade or an injury among Harris, Vassell or Champagnie pushes him back to his 23-minute role from last season.
+**Note.** At Yahoo rank 206 and ESPN rank 152, both with 0 USD value, he sits outside the 144 players our league drafts. He was also not drafted in our last auction. His projected line of about 13 points and 5 rebounds in roughly 25 minutes has no category that stands out, and his steals and blocks are low. Leave him on waivers. Early in the season, check whether his minutes hold against Barnes and Champagnie, and whether a Spurs trade of forward depth opens a bigger role.
 
-<sub>Tags removed by the category check: fits every build (weak in STL).</sub>
-
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

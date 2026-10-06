@@ -30,21 +30,23 @@
 </details>
 
 **Current**
-- He has a broken foot and will likely miss the start of the season. Yahoo lists him as questionable (foot). (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1637), [08-25](https://youtu.be/H9q2FT3LhNw?t=929), stats)
-- When healthy, he would have been part of the Atlanta rotation. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1637))
-- He has the only non-guaranteed contract on the Hawks. The roster is two players over the limit, and he is one of the candidates to go. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=929), [08-25](https://youtu.be/H9q2FT3LhNw?t=834))
-- He could be traded or cut before opening day. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=929), [08-25](https://youtu.be/H9q2FT3LhNw?t=834))
-- If he plays small forward next to Caleb Wilson, he will likely contest fewer shots at the rim, which would cut his blocks. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=744))
+- He broke his foot and will likely miss the start of the season. Yahoo lists him as questionable (foot). (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1637), [09-25](https://youtu.be/4gw4W4RTolY?t=1693), stats)
+- He would have been in Atlanta's rotation if healthy. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1637))
+- Lloyd expects a 10-man rotation. The listed bench is Dort, Wiggins, Landale, Flemings and probably Newell, with Kispert and Finney-Smith also in the mix. Gueye is not in it. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
+- He has the only non-guaranteed contract on the Hawks. The roster is two players over the limit. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=929), [08-25](https://youtu.be/H9q2FT3LhNw?t=834))
+- He could be cut or traded before opening day. He is one of the named candidates, with Carter, Nembhard, Hield and Kispert. (verdict, 2026-08-25, until opening day; [08-25](https://youtu.be/H9q2FT3LhNw?t=929), [08-25](https://youtu.be/H9q2FT3LhNw?t=834))
+- If he plays the three next to Caleb Wilson, he will likely contest fewer shots at the rim, which would cut his blocks. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=744))
 
 **Durable**
-- He scores very little. His projected points are a weak outlier against the top 250 pool. (fact, 2026-10-04; stats)
-- He is a solid defender, a good rebounder and a good steals generator. His shooting is up and down. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1644))
-- He turned 24.5% of his rim contests into blocks. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=744))
+- Points are his weakest category and a league outlier on the weak side, because he plays a small bench role with low shot volume. (fact, 2026-10-05; stats)
+- He is a solid defender, a good rebounder and a good steals generator. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1644))
+- His shooting is up and down. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1644))
+- He converted 24.5% of his rim contests into blocks. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=744))
 
 **Tags**
-- Current: `injured now` (Broken foot, likely out at the start of the season), `questionable` (Yahoo status Q (Foot)), `trade risk` (Non-guaranteed contract on a roster that is two players over the limit), `cut candidate` (Only non-guaranteed contract on the Hawks, named as a possible cut)
-- Durable: none
+- Current: `injured now` (Broken foot, likely misses the start of the season), `questionable` (Yahoo status Q (Foot)), `cut candidate` (Only non-guaranteed contract on a roster two players over the limit; until opening day), `trade risk` (Named as a possible piece in a small trade to cut the roster; until opening day), `deep rotation` (Atlanta plans a 10-man rotation that does not include him)
+- Durable: `streaky` (Shooting is up and down)
 
-**Note.** He should not be drafted in our league. Yahoo ranks him 291 and ESPN 267, both sites value him at 0 USD, and he projects about 4.8 points in roughly 15 minutes a game. He also has a broken foot and a non-guaranteed contract. Early in the season, check whether Atlanta keeps him and when he gets healthy. Only a Jalen Johnson injury, which would expose Atlanta's thin power forward depth, would make him a waiver option.
+**Note.** At 0 USD on both Yahoo and ESPN, with ranks of 291 and 267, he is far outside the 144 players drafted in our league and should not be drafted. Even healthy, he projects at about 15 minutes and 4.8 points, so his defense, rebounds and steals do not add up to standard-league value. Check early whether he survives the cuts before opening day and when his foot heals. He only matters on waivers if injuries in Atlanta's thin power forward or center depth open real minutes.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

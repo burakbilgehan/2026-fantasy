@@ -18,12 +18,14 @@
  ],
  "proposed": true,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-04T20:22:29+00:00",
+ "built_at": "2026-10-05T20:21:12+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.7181568,
-  "duration_ms": 161114
+  "cost_usd_list": 0.7976247999999999,
+  "duration_ms": 193069,
+  "turns": 2,
+  "denied": 0
  },
  "player_slugs": [
   "aaron-nesmith",
@@ -45,14 +47,14 @@
   "bruce-thornton",
   "bub-carrington",
   "cam-spencer",
-  "cam-thomas",
   "christian-anderson",
   "christian-braun",
   "cj-mccollum",
+  "collin-murray-boyles",
   "collin-sexton",
   "craig-porter",
-  "damian-lillard",
   "daniel-gafford",
+  "daniss-jenkins",
   "danny-wolf",
   "darryn-peterson",
   "dayron-sharpe",
@@ -62,6 +64,7 @@
   "dereck-lively",
   "derik-queen",
   "derrick-jones",
+  "devin-vassell",
   "dylan-cardwell",
   "dylan-harper",
   "gg-jackson",
@@ -81,13 +84,12 @@
   "jared-mccain",
   "jarrett-allen",
   "jayden-quaintance",
-  "jaylen-nowell",
   "jaylen-wells",
   "jaylin-williams",
   "jerami-grant",
   "jeremiah-fears",
+  "joan-beringer",
   "jordan-goodwin",
-  "jordan-poole",
   "jordan-walsh",
   "josh-minott",
   "jrue-holiday",
@@ -97,15 +99,16 @@
   "karim-lopez",
   "kasparas-jakucionis",
   "keaton-wagler",
-  "keldon-johnson",
   "kelel-ware",
   "keon-ellis",
   "kevin-huerter",
   "kevin-porter",
   "khaman-maluach",
   "khris-middleton",
+  "kingston-flemings",
   "kobe-sanders",
   "kris-dunn",
+  "kristaps-porzingis",
   "kyle-filipowski",
   "kyle-kuzma",
   "kyshawn-george",
@@ -131,7 +134,6 @@
   "nic-claxton",
   "nikola-jovic",
   "nikola-vucevic",
-  "nique-clifford",
   "noah-clowney",
   "nolan-traore",
   "oso-ighodaro",
@@ -140,7 +142,6 @@
   "pj-washington",
   "quentin-grimes",
   "reed-sheppard",
-  "richie-saunders",
   "ryan-conwell",
   "ryan-kalkbrenner",
   "ryan-rollins",
@@ -150,7 +151,6 @@
   "santi-aldama",
   "scoot-henderson",
   "scotty-pippen",
-  "shaedon-sharpe",
   "stephon-castle",
   "tari-eason",
   "terrence-shannon",
@@ -162,36 +162,40 @@
   "walter-clayton",
   "will-riley",
   "yanic-konan-niederhauser",
-  "yaxel-lendeborg",
   "yves-missi",
   "zaccharie-risacher",
   "zach-collins",
   "ziaire-williams",
   "zuby-ejiofor"
  ],
- "summary": "Most of our draft pool has some minutes battle, and the battles that matter for prices are the doubted starters who sell at a discount and the late pairs fighting for one role. Buy the discount only when you expect the player to get minutes, not just a start. At the end of the auction, buy both cheap candidates for one role and cut the loser once the minutes are clear.",
+ "summary": "Minutes battles lower prices. They create value only if you read the rotation correctly, and even two or three lost minutes a game cut a player's value. In the late rounds, buy both candidates in a battle cheaply and cut the loser in the first weeks. In the mid rounds, pay the discounted price only if you believe the player keeps his minutes, because a starting job alone does not guarantee them.",
  "sections": [
   {
-   "heading": "Why minutes battles move auction prices",
+   "heading": "Why battles move prices",
    "paragraphs": [
     {
-     "text": "When some drafters think a player might lose his starting job or share minutes, his price drops. That drop is value if you believe he keeps the role. In our auction, bid on a doubted starter only up to the price his full role justifies. Stop there, even if the room keeps going.",
+     "text": "When a team has too many players at the same positions, the minutes get spread thin. Coaches do not play 12 or more players, so some good players lose playing time unless injuries open a spot. Fewer players from those teams are worth drafting. Project the rotation before you reach for anyone.",
      "sources": [
+      "P6TNP-g0wzY:r4",
+      "owlM6b8oUd0:r0",
+      "0AptxcRW0RE:r0"
+     ]
+    },
+    {
+     "text": "Losing even two to three minutes a game limits a player's upside and lowers his draft value. When drafters fear a player will lose his job or share minutes, his price falls. That drop is value for you if you believe he keeps the role.",
+     "sources": [
+      "lOshTzDA4SA:r8",
       "egRrai3Ax38:r8"
      ]
     },
     {
-     "text": "Small losses count. Losing two or three minutes a game limits a player's upside and lowers his draft value. When a player is in a battle, price him on the minutes you expect, not on his best case.",
+     "text": "In our pool, almost every player on the watch list has a minutes battle. Most of them sit near or below the 144th pick. The battles that matter most for auction prices are the mid-round ones. These are players the experts still rate around the top 50 to 80, whose prices fell because of a rival. The rest are end-of-draft or waiver battles, and those are where the hedge works.",
      "sources": [
-      "lOshTzDA4SA:r8"
-     ]
-    },
-    {
-     "text": "Crowded rosters cap minutes. Coaches do not play 12 or more players, so on a team stacked at one position some good players lose playing time and fewer are worth drafting. Only injuries open those minutes. With 144 players drafted, most deep-bench players on crowded teams belong on waivers, not on your auction list.",
-     "sources": [
-      "owlM6b8oUd0:r0",
-      "P6TNP-g0wzY:r4",
-      "0AptxcRW0RE:r0"
+      "player:michael-porter",
+      "player:ryan-rollins",
+      "player:kelel-ware",
+      "player:deaaron-fox",
+      "player:jarrett-allen"
      ]
     }
    ]
@@ -200,16 +204,20 @@
    "heading": "A starting job does not guarantee minutes",
    "paragraphs": [
     {
-     "text": "A starting spot can matter less than minutes. A bench player can play about as many minutes as a nominal starter. Do not pay extra just because a player is named the starter in preseason.",
+     "text": "A starting spot can matter less than minutes. A bench player can play about as many minutes as a nominal starter. Judge every battle by minutes and by who closes games, not by who is named in the starting five.",
      "sources": [
       "_WjOjp6Qu8E:r2"
      ]
     },
     {
-     "text": "In the first two weeks, judge each player by minutes per game over several games, not by the lineup card. A starter who plays two or three minutes less than you priced him for has lost real value. A bench player who gets starter minutes is worth keeping or claiming with FAB.",
+     "text": "For our league, check each player against his own minutes target in the player notes. Most targets fall between 24 and 30 minutes a game. A bench big who closes games, or a sixth man projected near 29 minutes, can beat a starter who plays 20. A starter who sits every back-to-back also loses games, not just minutes. On a team with many back-to-backs, that cuts his weekly totals.",
      "sources": [
       "_WjOjp6Qu8E:r2",
-      "lOshTzDA4SA:r8"
+      "lOshTzDA4SA:r8",
+      "player:collin-murray-boyles",
+      "player:dylan-harper",
+      "player:mitchell-robinson",
+      "player:kristaps-porzingis"
      ]
     }
    ]
@@ -218,66 +226,76 @@
    "heading": "The hedge: buy both, cut the loser",
    "paragraphs": [
     {
-     "text": "Two notes describe the same late-draft hedge. Draft both players fighting for the same starting job or minutes, see which one wins the role, then drop the other.",
+     "text": "The experts give a late-draft hedge. Draft both candidates in a battle for a starting job or minutes. See which one wins the role, then drop the other.",
      "sources": [
       "dlo7L8Ru91A:r7",
       "g31YlwRe0XQ:r6"
      ]
     },
     {
-     "text": "Use it only at the end of our auction, where these players cost 1 to 3 USD each. We roster only 12 players with 2 bench spots, and a hedge pair takes two of them. So plan for one pair, or two if you can start one member of a pair. IL slots do not help, because both players are healthy.",
-     "sources": [
-      "dlo7L8Ru91A:r7",
-      "g31YlwRe0XQ:r6"
-     ]
-    },
-    {
-     "text": "Cut the loser as soon as the minutes show who won. Waivers run daily and allow up to 6 adds a week, so the open spot is cheap to refill. Do not hedge in the middle rounds. Paying two real prices for one role wastes budget that a $200 auction cannot spare.",
+     "text": "In our league, use it only in the last rounds, when both candidates cost about 1 to 3 USD. We have only 2 bench spots, so a healthy hedge pick uses a bench spot until the battle is settled. Plan on one hedge pair, two at most. An injured candidate can wait in one of our 4 IL slots without using a bench spot. Waivers run daily on FAB, and we get up to 6 adds a week. So cut the loser as soon as the first two weeks show who gets the minutes.",
      "sources": [
       "dlo7L8Ru91A:r7",
       "g31YlwRe0XQ:r6",
-      "lOshTzDA4SA:r8"
+      "player:yanic-konan-niederhauser",
+      "player:neemias-queta",
+      "player:khaman-maluach"
+     ]
+    },
+    {
+     "text": "If the second candidate is a waiver-level player, do not spend a pick on him. Draft the favorite and keep FAB ready for the rival in case he wins the job. If you buy a mid-round player whose job is at risk, his rival is often a 1 USD pick at the end of the auction. That makes a cheap hedge.",
+     "sources": [
+      "g31YlwRe0XQ:r6",
+      "player:oso-ighodaro",
+      "player:luguentz-dort",
+      "player:kevin-porter",
+      "player:ryan-rollins"
      ]
     }
    ]
   },
   {
-   "heading": "Where the notes pull in different directions",
+   "heading": "Hedge or bet: the notes pull two ways",
    "paragraphs": [
     {
-     "text": "The notes stress different things. One says the price drop on a player who might lose his starting job is value if you think he starts. Another says a starting spot can matter less than minutes, since a bench player can play as much as a nominal starter. Both can be true. A discount on a doubted starter is value only if you expect him to keep his minutes, because losing two or three minutes already cuts his value.",
+     "text": "The notes do not fully agree on how to play a battle. Two notes say to hedge: own both candidates and keep the winner. Another says the price drop is itself the value, so buy the player outright if you think he starts. A third warns you to project the rotation before you reach. In practice, hedge in the last rounds, where both candidates are nearly free. In the mid rounds, buying both costs too much and a bench spot. There, make a call on the rotation and buy the discounted player only at his lowered price.",
      "sources": [
+      "dlo7L8Ru91A:r7",
+      "g31YlwRe0XQ:r6",
       "egRrai3Ax38:r8",
-      "_WjOjp6Qu8E:r2",
-      "lOshTzDA4SA:r8"
+      "P6TNP-g0wzY:r4"
      ]
     }
    ]
   },
   {
-   "heading": "Checklist for the draft and the first weeks",
+   "heading": "What to check and when",
    "paragraphs": [
     {
-     "text": "Before the 2026-10-18 auction, sketch the likely rotation for every target who is in a battle. If his team is crowded at his position, lower your bid or move him to your waiver list.",
+     "text": "From now until the draft on 2026-10-18, follow preseason lineups and injury news. Several battles depend on a player's health right now, and an injury can decide the job before the season starts.",
      "sources": [
-      "P6TNP-g0wzY:r4",
-      "0AptxcRW0RE:r0",
-      "owlM6b8oUd0:r0"
+      "player:morez-johnson",
+      "player:isaiah-stewart",
+      "player:kristaps-porzingis",
+      "player:dereck-lively"
      ]
     },
     {
-     "text": "In the opening weeks, check minutes per game, who closes games and who starts, in that order. Drop the loser of any hedge pair, and use FAB on any undrafted player who wins a role.",
+     "text": "In the first two to three weeks, check minutes against each player's target, who closes games and who rests on back-to-backs. Drop hedge losers quickly. If a rival you left on waivers wins the job, bid FAB for him.",
      "sources": [
+      "_WjOjp6Qu8E:r2",
+      "lOshTzDA4SA:r8",
       "dlo7L8Ru91A:r7",
-      "g31YlwRe0XQ:r6",
-      "_WjOjp6Qu8E:r2"
+      "0AptxcRW0RE:r0"
      ]
     },
     {
-     "text": "Keep a watch list of the backups on crowded teams. Injuries are what open their minutes, and the first one to get starter minutes is the claim to make.",
+     "text": "Battles can open again later. Watch trades before the 2027-03-04 deadline and injuries to starters. Also check playoff schedules for weeks 19 to 21, which end 2027-03-28. A player who wins a role late on a team with a strong playoff schedule can be a useful pickup.",
      "sources": [
       "0AptxcRW0RE:r0",
-      "owlM6b8oUd0:r0"
+      "player:mark-williams",
+      "player:josh-minott",
+      "player:pj-washington"
      ]
     }
    ]
@@ -286,715 +304,700 @@
  "players": [
   {
    "slug": "michael-porter",
-   "tier": "Discount targets",
-   "line": "Randle cuts his usage and Minott and Clowney may take minutes, which pushes his price down, so 10 to 17 USD is value if his usage holds."
+   "tier": "Battle discount",
+   "line": "Randle cuts his usage and Minott and Clowney may take minutes, which lowers his price, so check his usage share next to Randle and his hamstring early."
   },
   {
    "slug": "jarrett-allen",
-   "tier": "Discount targets",
-   "line": "Mobley may play more center and close games, so stop at 10 to 13 USD and check that Allen keeps 27 or more minutes."
+   "tier": "Battle discount",
+   "line": "Mobley may play more center and close games, so let others overpay and check that Allen keeps 27 or more minutes."
   },
   {
    "slug": "deaaron-fox",
-   "tier": "Discount targets",
-   "line": "Harper is expected to play more and Castle runs the offense, so pay 10 to 13 USD, not last year's 21 USD, and check that his minutes stay near 31."
+   "tier": "Battle discount",
+   "line": "Harper is expected to play more in a crowded guard group with Castle, so do not pay last season's price, and check his burst after the ankle sprain."
   },
   {
    "slug": "ryan-rollins",
-   "tier": "Discount targets",
-   "line": "Kevin Porter Jr. is the main threat to his start and the sites disagree on his price, so he is a cheap mid-round buy if he keeps about 30 minutes."
-  },
-  {
-   "slug": "damian-lillard",
-   "tier": "Discount targets",
-   "line": "He shares the ball with Morant, Holiday, Henderson and Avdija, but at about 5 USD he is cheap FT%, threes and assists if his minutes and back-to-backs hold."
+   "tier": "Battle discount",
+   "line": "Kevin Porter Jr. is the main threat to his starting spot in a crowded backcourt, so check that he starts and keeps about 30 minutes."
   },
   {
    "slug": "kelel-ware",
-   "tier": "Discount targets",
-   "line": "Jenkins has not decided whether Ware starts next to Turner, which keeps him cheap, and 30 minutes would bring the top 40 upside the experts see."
-  },
-  {
-   "slug": "ty-jerome",
-   "tier": "Discount targets",
-   "line": "Some drafters expect Pippen Jr. to start, which keeps Jerome near 2 USD, so check that he starts and gets 27 to 28 minutes."
-  },
-  {
-   "slug": "cj-mccollum",
-   "tier": "Discount targets",
-   "line": "The newest view is that he starts over Dort, so 2 to 5 USD for a 10th to 12th man is value if he plays about 30 minutes."
-  },
-  {
-   "slug": "payton-pritchard",
-   "tier": "Bid low, let others reach",
-   "line": "His starting spot is unclear and depends on Conley backing up, so pay only single digits for a likely bench role, not last year's 16 USD."
-  },
-  {
-   "slug": "stephon-castle",
-   "tier": "Bid low, let others reach",
-   "line": "Harper and Fox crowd his minutes and the experts fade him, so stay far below Yahoo's 13 USD value."
-  },
-  {
-   "slug": "dylan-harper",
-   "tier": "Bid low, let others reach",
-   "line": "He is expected to start the season on the bench behind Fox and Castle, so bid only low single digits."
-  },
-  {
-   "slug": "darryn-peterson",
-   "tier": "Bid low, let others reach",
-   "line": "One note says he may not start next to Markkanen and George, so skip Yahoo's 8.2 USD average cost and treat him as a cheap bench stash."
-  },
-  {
-   "slug": "reed-sheppard",
-   "tier": "Late flyers",
-   "line": "Experts expect him off the bench behind VanVleet, Thompson and Smart, so he is a 1 to 3 USD flyer whose 28 to 30 minute role needs a guard injury."
-  },
-  {
-   "slug": "myles-turner",
-   "tier": "Hedge pairs",
-   "line": "He shares the Milwaukee frontcourt with Ware, so he is a late buy for a few USD who must hold about 29 minutes and fourth quarters."
+   "tier": "Battle discount",
+   "line": "Jenkins has not decided whether he starts at power forward next to Turner or backs him up, and at 30 minutes the experts see top 40 upside."
   },
   {
    "slug": "dayron-sharpe",
-   "tier": "Hedge pairs",
-   "line": "His center split with Wagner and Wolf decides his value, and at 24 minutes or less he is a rank 100 player, so pay only a few USD late."
+   "tier": "Battle discount",
+   "line": "The experts see top 100 value at 24 minutes if he starts at center ahead of Mo Wagner and Danny Wolf, and his low price reflects the doubt."
   },
   {
-   "slug": "derik-queen",
-   "tier": "Hedge pairs",
-   "line": "Missi likely starts at center, so Queen is a 1 to 3 USD flyer whose upside needs Missi to lose the job or Zion to sit."
+   "slug": "collin-murray-boyles",
+   "tier": "Battle discount",
+   "line": "He comes off the bench behind Poeltl but is expected to close games, a clear case where minutes matter more than starting."
   },
   {
-   "slug": "yves-missi",
-   "tier": "Hedge pairs",
-   "line": "He must start over Queen and play clearly more than last season's 19.6 minutes, so he is worth 1 to 2 USD."
+   "slug": "cj-mccollum",
+   "tier": "Battle discount",
+   "line": "The experts think his rank is too low, and Lu Dort is the main threat to his starting spot, so check that he keeps about 30 minutes."
+  },
+  {
+   "slug": "ty-jerome",
+   "tier": "Battle discount",
+   "line": "Some drafters think Pippen Jr. will start, which keeps Jerome cheap, so check that he starts and gets 27 to 28 minutes in an 11-man rotation."
   },
   {
    "slug": "jusuf-nurkic",
-   "tier": "Hedge pairs",
-   "line": "Experts expect him to start over Ace Bailey, so he is a 1 to 3 USD punt FT% center if he holds about 27 minutes."
+   "tier": "Battle discount",
+   "line": "The experts see top 70 to 80 upside if he beats Ace Bailey for Utah's fifth starting spot, but his injury history limits what you should pay."
   },
   {
-   "slug": "ace-bailey",
-   "tier": "Hedge pairs",
-   "line": "He fights Nurkic for the fifth starter spot, so take him at 1 USD as your last pick and drop him easily if he stays on the bench."
+   "slug": "stephon-castle",
+   "tier": "Pay only the low price",
+   "line": "He shares a deep guard group with Fox and Harper and the experts call him overdrafted, so he fits only punt TO or punt FT% builds at a modest price."
   },
   {
-   "slug": "kevin-porter",
-   "tier": "Hedge pairs",
-   "line": "He is Rollins's rival for the Milwaukee start, so pay 1 to 3 USD and drop him if he neither starts nor reaches 27 minutes."
+   "slug": "dylan-harper",
+   "tier": "Pay only the low price",
+   "line": "His projection assumes a jump to about 29 minutes even if he comes off the bench, so his value depends on minutes, not the start."
   },
   {
-   "slug": "neemias-queta",
-   "tier": "Hedge pairs",
-   "line": "He fights Mitchell Robinson for Boston's center job and pays off at 1 to 3 USD if he starts and gets 26 to 27 minutes."
+   "slug": "payton-pritchard",
+   "tier": "Pay only the low price",
+   "line": "Whether he starts or comes off the bench is not settled and the experts call him overpriced, so check whether he gets near last season's minutes."
   },
   {
-   "slug": "mitchell-robinson",
-   "tier": "Hedge pairs",
-   "line": "Queta is expected to start and Robinson is expected to sit every back-to-back, so he is a punt FT% stash, not a real target."
+   "slug": "darryn-peterson",
+   "tier": "Pay only the low price",
+   "line": "He shares usage with Markkanen, George and Jaren Jackson Jr. and may not start, so treat him as a cheap upside stash."
   },
   {
-   "slug": "khaman-maluach",
-   "tier": "Hedge pairs",
-   "line": "He fights Ighodaro for the start while Mark Williams is out, so pay 1 to 3 USD and check for 24 or more minutes."
-  },
-  {
-   "slug": "daniel-gafford",
-   "tier": "Hedge pairs",
-   "line": "He can start early while Lively and Johnson are hurt, so he is a 1 USD late pick at most, and you should track Lively's return."
-  },
-  {
-   "slug": "morez-johnson",
-   "tier": "Hedge pairs",
-   "line": "He is a 1 USD flyer at most who becomes a waiver pickup if Dusty May starts him over Gafford for 25 to 30 minutes."
-  },
-  {
-   "slug": "jeremiah-fears",
-   "tier": "Hedge pairs",
-   "line": "He fights Herb Jones for the last starting spot, so he is a 1 to 2 USD flyer who needs close to 30 minutes."
-  },
-  {
-   "slug": "herbert-jones",
-   "tier": "Hedge pairs",
-   "line": "A beat reporter favors Fears for the last start, so pay only 1 to 2 USD for a punt FG% steals source."
-  },
-  {
-   "slug": "gui-santos",
-   "tier": "Hedge pairs",
-   "line": "His note pairs him with Lendeborg as a 1 USD hedge for the same Golden State wing role."
-  },
-  {
-   "slug": "yaxel-lendeborg",
-   "tier": "Hedge pairs",
-   "line": "Pair him with Santos for the same wing job and keep whichever one Kerr starts."
-  },
-  {
-   "slug": "isaiah-jackson",
-   "tier": "Hedge pairs",
-   "line": "He is a 1 USD last-round center who must keep the start over Lopez, and his value is expected to fade when Konan Niederhauser returns."
-  },
-  {
-   "slug": "scotty-pippen",
-   "tier": "Hedge pairs",
-   "line": "He backs up Jerome, so he is worth 1 USD at most and only if he gets about 24 minutes."
-  },
-  {
-   "slug": "quentin-grimes",
-   "tier": "Late flyers",
-   "line": "He is one of four names for two open Lakers starting spots, so he is a 1 USD flyer who needs a start and about 30 minutes."
+   "slug": "myles-turner",
+   "tier": "Pay only the low price",
+   "line": "Ware may start next to him or take his minutes, so check that Jenkins gives him about 29 minutes."
   },
   {
    "slug": "nic-claxton",
-   "tier": "Late flyers",
-   "line": "Jalen Smith and Zach Collins could cut his center minutes, so a 1 to 3 USD bid is right."
+   "tier": "Pay only the low price",
+   "line": "Jalen Smith and Zach Collins could take center minutes, so take him late and check that he plays close to 30 minutes."
   },
   {
-   "slug": "tobias-harris",
-   "tier": "Late flyers",
-   "line": "He is a 1 USD filler at most who must keep the starting power forward spot and about 28 minutes in a deep Spurs group."
+   "slug": "derik-queen",
+   "tier": "Pay only the low price",
+   "line": "Missi looks set to start at center, so Queen is a bench big whose top 50 upside depends on winning the job."
   },
   {
-   "slug": "nikola-vucevic",
-   "tier": "Late flyers",
-   "line": "He backs up Carter Jr. and fights Bitadze for minutes, so pay 1 to 2 USD at most."
+   "slug": "kristaps-porzingis",
+   "tier": "Pay only the low price",
+   "line": "Horford is listed at center in the newest projected starting five, so check who starts and how often Porzingis rests on back-to-backs."
+  },
+  {
+   "slug": "reed-sheppard",
+   "tier": "Pay only the low price",
+   "line": "Four guards stand between him and a big role, so he is a last-round flyer to drop if he does not reach 26 or more minutes."
   },
   {
    "slug": "ayo-dosunmu",
-   "tier": "Late flyers",
-   "line": "He is expected off the bench in a fight with Josh Green and Kuminga for the fifth start, so pay a few USD at most and check for 29 or more minutes."
+   "tier": "Pay only the low price",
+   "line": "He competes with Kuminga and Josh Green for the open fifth starting spot, so check whether he starts or plays about 30 minutes off the bench."
   },
   {
-   "slug": "julian-champagnie",
-   "tier": "Late flyers",
-   "line": "He fights Harris for starting power forward minutes and loses some to Harper, so take him last for 1 USD or leave him to waivers."
+   "slug": "neemias-queta",
+   "tier": "Hedge pair flyers",
+   "line": "He is expected to start over Mitchell Robinson, so drafting both late covers Boston's center job."
   },
   {
-   "slug": "kyshawn-george",
-   "tier": "Late flyers",
-   "line": "His start is not guaranteed in a crowded wing group, so he is only a 1 USD filler."
+   "slug": "mitchell-robinson",
+   "tier": "Hedge pair flyers",
+   "line": "He is the other half of the Boston center battle, fits only punt FT% builds and is expected to sit back-to-backs."
   },
   {
-   "slug": "jrue-holiday",
-   "tier": "Late flyers",
-   "line": "He is projected for lower usage in a crowded Portland backcourt, so pay 1 USD at most or leave him on waivers."
+   "slug": "khaman-maluach",
+   "tier": "Hedge pair flyers",
+   "line": "He looks more likely than Ighodaro to start while Mark Williams is out, so check for 24 or more minutes."
   },
   {
-   "slug": "pj-washington",
-   "tier": "Late flyers",
-   "line": "The crowded Dallas frontcourt makes him a 1 USD bench pick at most, and the 4-4-4 playoff schedule makes him a later pickup."
+   "slug": "kevin-porter",
+   "tier": "Hedge pair flyers",
+   "line": "He is the main threat to Rollins's starting spot, which makes him a cheap hedge, but drop him if he neither starts nor reaches 27 minutes."
   },
   {
-   "slug": "moussa-diabate",
-   "tier": "Late flyers",
-   "line": "He must keep the start and about 25 minutes against the rookie center and Kalkbrenner, or you drop him."
+   "slug": "ace-bailey",
+   "tier": "Hedge pair flyers",
+   "line": "He and Nurkic fight for Utah's fifth starting spot, so drop him quickly if he stays on the bench."
   },
   {
-   "slug": "sandro-mamukelashvili",
-   "tier": "Late flyers",
-   "line": "He fights for a Lakers start and for backup center minutes behind Looney, so he is a 1 to 2 USD flyer at most."
+   "slug": "jeremiah-fears",
+   "tier": "Hedge pair flyers",
+   "line": "He and Herb Jones fight for the last New Orleans starting spot, a battle cheap enough to hedge by drafting both."
   },
   {
-   "slug": "jaime-jaquez",
-   "tier": "Late flyers",
-   "line": "Milwaukee's thin power forward group gives him a path to a start, but he is a last-dollar pick until he wins it."
+   "slug": "herbert-jones",
+   "tier": "Hedge pair flyers",
+   "line": "He is the other side of the Fears battle and gives steals for punt FG% builds only if he wins the start."
   },
   {
-   "slug": "jerami-grant",
-   "tier": "Late flyers",
-   "line": "His start in a crowded Memphis forward group is unclear, so he is a 1 USD final pick for punt FG% threes."
+   "slug": "yves-missi",
+   "tier": "Hedge pair flyers",
+   "line": "He needs to start over Queen and beat last season's minutes, and Zion or Bey closing games at center can still cut his role."
   },
   {
-   "slug": "ajay-mitchell",
-   "tier": "Late flyers",
-   "line": "Cason Wallace is expected to start ahead of him, so he is worth 1 USD at most."
-  },
-  {
-   "slug": "tari-eason",
-   "tier": "Late flyers",
-   "line": "Durant and Smith block his minutes, so he is a 1 USD last pick at most, and only an injury opens his 32-minute upside."
-  },
-  {
-   "slug": "christian-braun",
-   "tier": "Late flyers",
-   "line": "He is the starter most likely to lose minutes to DeRozan, so take him only as a 1 USD last pick or leave him on waivers."
-  },
-  {
-   "slug": "isaiah-stewart",
-   "tier": "Late flyers",
-   "line": "Edey's foot decides whether he starts, so he is worth 1 USD at most or an early waiver claim."
-  },
-  {
-   "slug": "brook-lopez",
-   "tier": "Waiver watch",
-   "line": "Isaiah Jackson starts over him in preseason, so leave Lopez on waivers unless he gets back toward 30 minutes."
+   "slug": "quentin-grimes",
+   "tier": "Hedge pair flyers",
+   "line": "He is one of four names for two open Lakers starting spots, so check whether he starts and plays about 30 minutes."
   },
   {
    "slug": "jake-laravia",
-   "tier": "Waiver watch",
-   "line": "He fights Grimes and Mamukelashvili for a start, so add him only if he plays closer to 27 minutes than 20."
+   "tier": "Hedge pair flyers",
+   "line": "He fights Grimes and Mamukelashvili for two open starting spots, so keep him only if he plays closer to 27 minutes than 20."
   },
   {
-   "slug": "oso-ighodaro",
-   "tier": "Waiver watch",
-   "line": "Maluach looks more likely to start, so Ighodaro is a FAB add only if his minutes approach 27.6."
+   "slug": "sandro-mamukelashvili",
+   "tier": "Hedge pair flyers",
+   "line": "He is a third candidate for the two open Lakers spots, so keep him only if he starts and plays close to 27 minutes."
+  },
+  {
+   "slug": "gui-santos",
+   "tier": "Hedge pair flyers",
+   "line": "His starting job is contested with Yaxel Lendeborg, and the note says to draft Lendeborg as a hedge and drop whoever loses."
+  },
+  {
+   "slug": "scotty-pippen",
+   "tier": "Hedge pair flyers",
+   "line": "Some drafters think he will start over Jerome, so he can hedge a Jerome pick but is worth keeping only at about 24 minutes."
+  },
+  {
+   "slug": "isaiah-jackson",
+   "tier": "Hedge pair flyers",
+   "line": "He starts over Brook Lopez in preseason scrimmages, but Konan Niederhauser's return will likely end his value."
+  },
+  {
+   "slug": "moussa-diabate",
+   "tier": "Hedge pair flyers",
+   "line": "He must hold off the rookie center and Kalkbrenner for about 25 minutes, so drop him if he loses the job."
+  },
+  {
+   "slug": "daniel-gafford",
+   "tier": "Hedge pair flyers",
+   "line": "He can start early while Lively and Johnson are hurt, but he faces a crowded center group under a new coach."
+  },
+  {
+   "slug": "morez-johnson",
+   "tier": "Hedge pair flyers",
+   "line": "He could start at center over Gafford once healthy, so check his lower leg injury and Lively's timeline before the draft."
+  },
+  {
+   "slug": "tobias-harris",
+   "tier": "Last-dollar fillers",
+   "line": "He is the projected starting power forward, but Spurs forward depth threatens his 30 minutes."
+  },
+  {
+   "slug": "devin-vassell",
+   "tier": "Last-dollar fillers",
+   "line": "He competes with Harper, Champagnie and Harris for the fifth starting spot with lower usage, so check whether he or Harper starts."
+  },
+  {
+   "slug": "nikola-vucevic",
+   "tier": "Last-dollar fillers",
+   "line": "He backs up Carter Jr. and also loses minutes to Bitadze, so only Carter's health opens real value."
+  },
+  {
+   "slug": "pj-washington",
+   "tier": "Last-dollar fillers",
+   "line": "He is in a crowded Dallas frontcourt under a new coach but may start early while Lively and Johnson Jr. are out."
+  },
+  {
+   "slug": "jrue-holiday",
+   "tier": "Last-dollar fillers",
+   "line": "He is projected off the bench behind Lillard and Morant, so his value rises only when one of them sits."
   },
   {
    "slug": "saddiq-bey",
-   "tier": "Waiver watch",
-   "line": "He is not in the projected starting five, so leave him on waivers unless he gets starter minutes."
+   "tier": "Last-dollar fillers",
+   "line": "The latest projections leave him out of the starting five, and the experts see a seventh or eighth man."
+  },
+  {
+   "slug": "jaime-jaquez",
+   "tier": "Last-dollar fillers",
+   "line": "A thin power forward group helps his path to a starting job in a crowded rotation, so watch for trade news."
+  },
+  {
+   "slug": "kyshawn-george",
+   "tier": "Last-dollar fillers",
+   "line": "His starting spot is not guaranteed in a crowded wing group, and the experts see his role shrinking."
+  },
+  {
+   "slug": "isaiah-stewart",
+   "tier": "Last-dollar fillers",
+   "line": "Edey's foot decides his role, because starts make him worth a pick and a healthy Edey makes him a waiver player."
+  },
+  {
+   "slug": "jerami-grant",
+   "tier": "Last-dollar fillers",
+   "line": "It is unclear whether he starts in a crowded Memphis forward group with an 11-man rotation."
+  },
+  {
+   "slug": "tari-eason",
+   "tier": "Last-dollar fillers",
+   "line": "Durant and Smith block his minutes, and an injury to either could push him toward 32 minutes."
+  },
+  {
+   "slug": "ajay-mitchell",
+   "tier": "Last-dollar fillers",
+   "line": "Cason Wallace is expected to start ahead of him, and only an SGA injury would make him a must-add."
   },
   {
    "slug": "cam-spencer",
-   "tier": "Waiver watch",
-   "line": "He is a backup guard behind Jerome in an 11-man rotation, so skip him or spend 1 USD at most."
-  },
-  {
-   "slug": "dereck-lively",
-   "tier": "Waiver watch",
-   "line": "A broken foot keeps him out until around Thanksgiving, and Gafford and Johnson are ahead of him, so do not spend on him."
-  },
-  {
-   "slug": "kyle-filipowski",
-   "tier": "Waiver watch",
-   "line": "He shares frontcourt minutes with five players, so he matters only if Nurkic or Jackson Jr. gets hurt."
-  },
-  {
-   "slug": "pelle-larsson",
-   "tier": "Waiver watch",
-   "line": "Klay Thompson's signing and Davion Mitchell's hold on point guard leave him on waivers unless he starts."
-  },
-  {
-   "slug": "aaron-nesmith",
-   "tier": "Waiver watch",
-   "line": "Oubre could take his starting spot, so watch his FG% and role from waivers."
-  },
-  {
-   "slug": "collin-sexton",
-   "tier": "Waiver watch",
-   "line": "He is not expected to start, so watch only for a starting role or about 27 bench minutes."
-  },
-  {
-   "slug": "keldon-johnson",
-   "tier": "Waiver watch",
-   "line": "As roughly the eighth man in a deep Spurs forward group, he needs a trade or an injury to get minutes."
-  },
-  {
-   "slug": "bennedict-mathurin",
-   "tier": "Waiver watch",
-   "line": "He comes off the bench in a crowded New Orleans rotation, so pick him up only if he gets close to 30 minutes."
-  },
-  {
-   "slug": "tim-hardaway",
-   "tier": "Waiver watch",
-   "line": "He needs to win a starting job in a crowded Miami group before he is a threes streamer."
-  },
-  {
-   "slug": "luguentz-dort",
-   "tier": "Waiver watch",
-   "line": "He is a bench wing behind McCollum, so only an Atlanta injury makes him a short-term pickup."
-  },
-  {
-   "slug": "ryan-kalkbrenner",
-   "tier": "Waiver watch",
-   "line": "He matters only if Diabate loses the start or gets hurt."
-  },
-  {
-   "slug": "sam-hauser",
-   "tier": "Waiver watch",
-   "line": "Even if he starts over Scheierman, he is at most a short-term 3PM streamer."
-  },
-  {
-   "slug": "dennis-schroder",
-   "tier": "Waiver watch",
-   "line": "He backs up Coby White, so watch him only if White gets hurt."
-  },
-  {
-   "slug": "santi-aldama",
-   "tier": "Waiver watch",
-   "line": "His value depends almost fully on Dallas frontcourt injuries giving him 25 to 28 minutes."
-  },
-  {
-   "slug": "deanthony-melton",
-   "tier": "Waiver watch",
-   "line": "The Golden State starting guard spot is unclear, and if he wins it with about 28 minutes, add him right away."
-  },
-  {
-   "slug": "bilal-coulibaly",
-   "tier": "Waiver watch",
-   "line": "He needs to win the open fifth starter spot and 26 or more minutes to become a steals and blocks pickup."
-  },
-  {
-   "slug": "kevin-huerter",
-   "tier": "Waiver watch",
-   "line": "He must beat Prince for the last spot in Detroit's rotation before he is a threes option."
-  },
-  {
-   "slug": "isaiah-collier",
-   "tier": "Waiver watch",
-   "line": "Experts expect 20 minutes at most behind George and Peterson, so watch him only if one of them misses time."
-  },
-  {
-   "slug": "kris-dunn",
-   "tier": "Waiver watch",
-   "line": "He is a projected sixth man who could start, and with about 28 minutes he becomes a steals pickup."
-  },
-  {
-   "slug": "scoot-henderson",
-   "tier": "Waiver watch",
-   "line": "He is a roughly 20-minute bench guard in a crowded Portland backcourt, and only an injury or a trade changes that."
-  },
-  {
-   "slug": "jordan-poole",
-   "tier": "Waiver watch",
-   "line": "He sits in a crowded Pelicans guard group, so check only whether Mosley gives him real minutes."
-  },
-  {
-   "slug": "isaiah-joe",
-   "tier": "Waiver watch",
-   "line": "He is a threes streamer only if he takes Duncan Robinson's starting spot."
-  },
-  {
-   "slug": "naji-marshall",
-   "tier": "Waiver watch",
-   "line": "Both projections cut his minutes in a crowded Dallas wing group, so stream him only if he gets ball-handling minutes again."
-  },
-  {
-   "slug": "gg-jackson",
-   "tier": "Waiver watch",
-   "line": "He is not in the projected Memphis starting five, so watch whether he wins small forward minutes."
-  },
-  {
-   "slug": "jared-mccain",
-   "tier": "Waiver watch",
-   "line": "He is a bench guard behind Wallace and Mitchell and only a short-term threes pickup if his minutes rise."
-  },
-  {
-   "slug": "keon-ellis",
-   "tier": "Waiver watch",
-   "line": "Young Nets may take his minutes, so add him only if he gets close to 27 minutes."
-  },
-  {
-   "slug": "kyle-kuzma",
-   "tier": "Waiver watch",
-   "line": "Milwaukee will likely start a center at power forward, so Kuzma matters only if he starts and plays more than 26 minutes."
-  },
-  {
-   "slug": "derrick-jones",
-   "tier": "Waiver watch",
-   "line": "He starts while the Clippers are injured but loses value when Ingram and Beal return."
-  },
-  {
-   "slug": "danny-wolf",
-   "tier": "Waiver watch",
-   "line": "He splits center minutes with Sharpe and Wagner, so he is a FAB look only if he wins a big role."
-  },
-  {
-   "slug": "dylan-cardwell",
-   "tier": "Waiver watch",
-   "line": "He plays about 18 minutes behind Raynaud and Sabonis, so watch for Sabonis trade news first."
-  },
-  {
-   "slug": "al-horford",
-   "tier": "Waiver watch",
-   "line": "Even if he starts while Porzingis is out, sitting all back-to-backs limits his weekly value."
-  },
-  {
-   "slug": "anfernee-simons",
-   "tier": "Waiver watch",
-   "line": "In a crowded Philadelphia guard rotation he needs to go clearly above 25 minutes before he is a threes pickup."
-  },
-  {
-   "slug": "jordan-walsh",
-   "tier": "Waiver watch",
-   "line": "He may fall out of Boston's 10-man rotation, so look only if he tops last season's 17.9 minutes."
-  },
-  {
-   "slug": "keaton-wagler",
-   "tier": "Waiver watch",
-   "line": "He backs up Garland, so check whether his minutes grow while Beal is out."
-  },
-  {
-   "slug": "gradey-dick",
-   "tier": "Waiver watch",
-   "line": "He has no clear path to minutes on the Clippers' bench."
-  },
-  {
-   "slug": "baylor-scheierman",
-   "tier": "Waiver watch",
-   "line": "He is a cheap waiver add only if he keeps the starting job and plays 23 or more minutes."
-  },
-  {
-   "slug": "bub-carrington",
-   "tier": "Waiver watch",
-   "line": "He projects behind Trae Young in a crowded group, so only an injury gives him more minutes."
-  },
-  {
-   "slug": "jaylen-wells",
-   "tier": "Waiver watch",
-   "line": "Only a starting role in Memphis's 11-man rotation would make him worth adding."
-  },
-  {
-   "slug": "marcus-smart",
-   "tier": "Waiver watch",
-   "line": "His only route to streaming value is the top bench role and nights when VanVleet sits."
-  },
-  {
-   "slug": "zaccharie-risacher",
-   "tier": "Waiver watch",
-   "line": "He projects as Dallas's 10th man, so leave him on waivers unless his minutes grow."
-  },
-  {
-   "slug": "matisse-thybulle",
-   "tier": "Waiver watch",
-   "line": "He is a steals pickup only if his minutes rise above 16 and he stays healthy."
-  },
-  {
-   "slug": "luke-kennard",
-   "tier": "Waiver watch",
-   "line": "Five guards and wings are ahead of him, so he matters only if his three-point volume clearly rises."
-  },
-  {
-   "slug": "tre-johnson",
-   "tier": "Waiver watch",
-   "line": "He must win the open fifth starter spot or clearly top 24 minutes to be worth a roster spot."
-  },
-  {
-   "slug": "will-riley",
-   "tier": "Waiver watch",
-   "line": "He needs rotation minutes or the open fifth starter spot in Washington before you spend FAB."
-  },
-  {
-   "slug": "terrence-shannon",
-   "tier": "Waiver watch",
-   "line": "Kuminga is expected to start, so Shannon needs the fifth start or the bench scorer role first."
-  },
-  {
-   "slug": "ziaire-williams",
-   "tier": "Waiver watch",
-   "line": "He needs a Lakers start and more than 22.9 minutes to become a steals streamer."
-  },
-  {
-   "slug": "jaylin-williams",
-   "tier": "Waiver watch",
-   "line": "He is the third center, so watch him only if Hartenstein or Holmgren misses time."
-  },
-  {
-   "slug": "brayden-burries",
-   "tier": "Waiver watch",
-   "line": "Only cuts or trades in a crowded Milwaukee backcourt give him a clear path to minutes."
-  },
-  {
-   "slug": "brice-sensabaugh",
-   "tier": "Waiver watch",
-   "line": "Experts expect a bench role, so watch for injuries to George, Peterson or Markkanen."
-  },
-  {
-   "slug": "aaron-wiggins",
-   "tier": "Waiver watch",
-   "line": "He competes with Dort for about 20 backup minutes, so he needs a starter injury to matter."
-  },
-  {
-   "slug": "nique-clifford",
-   "tier": "Waiver watch",
-   "line": "He is not in the projected Kings starting five, so look only if the rebuild gives him starter minutes."
-  },
-  {
-   "slug": "noah-clowney",
-   "tier": "Waiver watch",
-   "line": "He competes with Randle, Minott and Wolf at the four, so check whether he earns real minutes."
-  },
-  {
-   "slug": "jaylen-nowell",
-   "tier": "Waiver watch",
-   "line": "He is not a projected starter in a crowded Washington group, so look only if he gets a steady role."
-  },
-  {
-   "slug": "nikola-jovic",
-   "tier": "Waiver watch",
-   "line": "He must win minutes over Bobby Portis and fix his FG% before he is a pickup."
-  },
-  {
-   "slug": "aj-green",
-   "tier": "Waiver watch",
-   "line": "He is a threes-only pickup who needs minutes in a crowded Milwaukee guard rotation."
-  },
-  {
-   "slug": "cam-thomas",
-   "tier": "Waiver watch",
-   "line": "He projects to a small role in a crowded backcourt, so look only if injuries open guard minutes."
-  },
-  {
-   "slug": "walter-clayton",
-   "tier": "Waiver watch",
-   "line": "He needs steady minutes in a crowded Memphis guard rotation before he is worth a look."
-  },
-  {
-   "slug": "zach-collins",
-   "tier": "Waiver watch",
-   "line": "He is a third-string center who may miss the rotation, so ignore him unless Claxton and Jalen Smith get hurt."
-  },
-  {
-   "slug": "kasparas-jakucionis",
-   "tier": "Waiver watch",
-   "line": "He needs real minutes in Milwaukee's crowded backcourt or a trade before he is a waiver option."
-  },
-  {
-   "slug": "khris-middleton",
-   "tier": "Waiver watch",
-   "line": "He is not in the projected starting five, so pick him up only if box scores show starter minutes."
-  },
-  {
-   "slug": "hugo-gonzalez",
-   "tier": "Waiver watch",
-   "line": "He is outside Boston's projected 10-man rotation, so check whether he gets near 21.7 minutes."
-  },
-  {
-   "slug": "aday-mara",
-   "tier": "Waiver watch",
-   "line": "He is a third-string center who matters only when Hartenstein or Holmgren miss games."
-  },
-  {
-   "slug": "hannes-steinbach",
-   "tier": "Waiver watch",
-   "line": "If Charlotte starts him over Diabate, the expert advice is to pick him up as a rebounds and blocks big."
-  },
-  {
-   "slug": "harrison-barnes",
-   "tier": "Waiver watch",
-   "line": "He projects for about 20.5 minutes in a deep Spurs group, so first check whether he is in the rotation at all."
-  },
-  {
-   "slug": "nolan-traore",
-   "tier": "Waiver watch",
-   "line": "He competes for bench ball-handling minutes after Brooklyn drafted a point guard, so only an injury helps him."
-  },
-  {
-   "slug": "jordan-goodwin",
-   "tier": "Waiver watch",
-   "line": "He is the fourth or fifth guard in Phoenix and a steals pickup only if an injury moves him up."
-  },
-  {
-   "slug": "bogdan-bogdanovic",
-   "tier": "Waiver watch",
-   "line": "He is probably the last man in Houston's guard rotation and matters only after guard injuries."
-  },
-  {
-   "slug": "nate-ament",
-   "tier": "Waiver watch",
-   "line": "Experts see a weak path to minutes, so watch whether he gets power forward minutes in Milwaukee."
-  },
-  {
-   "slug": "craig-porter",
-   "tier": "Waiver watch",
-   "line": "He is a steals and blocks add only if he holds about 20 backup minutes ahead of Malik Thomas."
-  },
-  {
-   "slug": "mike-conley",
-   "tier": "Waiver watch",
-   "line": "He is Boston's 10th man and matters only if White or Pritchard miss time."
-  },
-  {
-   "slug": "julian-strawther",
-   "tier": "Waiver watch",
-   "line": "He is the 10th man at about 15 minutes, so watch for a Braun trade or a Murray injury."
-  },
-  {
-   "slug": "moritz-wagner",
-   "tier": "Waiver watch",
-   "line": "He matters only if he wins a bigger share of the center split and gets close to 20 minutes."
-  },
-  {
-   "slug": "leonard-miller",
-   "tier": "Waiver watch",
-   "line": "He competes for the 10th spot and becomes a quick add only if Buzelis or Caleb Wilson gets hurt."
-  },
-  {
-   "slug": "marcus-sasser",
-   "tier": "Waiver watch",
-   "line": "If Dusty May gives him the backup guard minutes, the Dallas 4-4-4 playoff schedule could make him a late streamer."
-  },
-  {
-   "slug": "josh-minott",
-   "tier": "Waiver watch",
-   "line": "He is outside the projected rotation and a waiver pickup only if his minutes reach about 20."
-  },
-  {
-   "slug": "kobe-sanders",
-   "tier": "Waiver watch",
-   "line": "He is the projected 10th man, so only Clippers injuries or rotation changes make him worth a look."
+   "tier": "Last-dollar fillers",
+   "line": "He needs steady backup guard minutes behind Jerome in an 11-man rotation to matter."
   },
   {
    "slug": "yanic-konan-niederhauser",
-   "tier": "Waiver watch",
-   "line": "He is a free waiver IL stash whose late-season starter upside depends on Isaiah Jackson losing the job."
+   "tier": "Last-dollar fillers",
+   "line": "He is injured now, but his return threatens Isaiah Jackson's job, and an IL slot can hold him for free."
+  },
+  {
+   "slug": "pelle-larsson",
+   "tier": "Last-dollar fillers",
+   "line": "He needs to start, maybe at point guard over Davion Mitchell, while Klay Thompson takes wing minutes."
+  },
+  {
+   "slug": "christian-braun",
+   "tier": "Last-dollar fillers",
+   "line": "He is the Denver starter most likely to lose minutes to DeRozan, and the experts call him overvalued."
+  },
+  {
+   "slug": "brook-lopez",
+   "tier": "Waiver: watch the battle",
+   "line": "Isaiah Jackson starts over him in scrimmages, so add Lopez only if he gets near 30 minutes."
+  },
+  {
+   "slug": "oso-ighodaro",
+   "tier": "Waiver: watch the battle",
+   "line": "He shares center minutes with Maluach, who looks more likely to start, so make him a cheap FAB add only if his minutes approach 27."
+  },
+  {
+   "slug": "julian-champagnie",
+   "tier": "Waiver: watch the battle",
+   "line": "Harris and Harper threaten his minutes, so leave him on waivers unless a Spurs forward gets hurt."
+  },
+  {
+   "slug": "aaron-nesmith",
+   "tier": "Waiver: watch the battle",
+   "line": "Oubre would take his starting spot if Oubre starts, and his case also needs an FG% rebound."
+  },
+  {
+   "slug": "dereck-lively",
+   "tier": "Waiver: watch the battle",
+   "line": "He is out until around Thanksgiving and then ramps up behind Gafford and Johnson, so he only matters if he wins the job later."
+  },
+  {
+   "slug": "al-horford",
+   "tier": "Waiver: watch the battle",
+   "line": "He starts at center only while Porzingis is out and skips back-to-backs, so his minutes are short-term at best."
+  },
+  {
+   "slug": "collin-sexton",
+   "tier": "Waiver: watch the battle",
+   "line": "He is not expected to start, so check only whether he gets a starting role or about 27 bench minutes."
+  },
+  {
+   "slug": "tim-hardaway",
+   "tier": "Waiver: watch the battle",
+   "line": "He competes with several Miami guards and wings for minutes, so check whether he wins a starting job."
+  },
+  {
+   "slug": "luguentz-dort",
+   "tier": "Waiver: watch the battle",
+   "line": "He is the most likely player to take McCollum's starting spot, so keep FAB ready if he wins it."
+  },
+  {
+   "slug": "deanthony-melton",
+   "tier": "Waiver: watch the battle",
+   "line": "The Golden State starting guard spot is open, so add him only if he wins it and reaches about 28 minutes."
+  },
+  {
+   "slug": "bilal-coulibaly",
+   "tier": "Waiver: watch the battle",
+   "line": "Many wings compete for the fifth starting spot, so add him only if he wins it and plays 26 or more minutes."
+  },
+  {
+   "slug": "kevin-huerter",
+   "tier": "Waiver: watch the battle",
+   "line": "He competes with Prince for the last bench rotation spot, so he needs steady shooter minutes first."
+  },
+  {
+   "slug": "kris-dunn",
+   "tier": "Waiver: watch the battle",
+   "line": "He is projected as the sixth man but could start, and starting at about 28 minutes would make him a steals add."
+  },
+  {
+   "slug": "isaiah-joe",
+   "tier": "Waiver: watch the battle",
+   "line": "He is the most likely challenger for Duncan Robinson's starting spot, so bid only if he takes it or plays clearly more than 21 minutes."
+  },
+  {
+   "slug": "naji-marshall",
+   "tier": "Waiver: watch the battle",
+   "line": "Both projections cut his minutes in a crowded Dallas group, so watch whether he gets ball-handling minutes again."
+  },
+  {
+   "slug": "gg-jackson",
+   "tier": "Waiver: watch the battle",
+   "line": "He is not in the projected starting five, so check whether he wins small forward minutes in the 11-man rotation."
+  },
+  {
+   "slug": "jared-mccain",
+   "tier": "Waiver: watch the battle",
+   "line": "He is a bench guard behind Wallace and Mitchell, so he matters only if the projected jump to about 25 minutes happens."
+  },
+  {
+   "slug": "keon-ellis",
+   "tier": "Waiver: watch the battle",
+   "line": "Young Nets may take his minutes, so he needs to get close to 27 minutes to be a steals streamer."
+  },
+  {
+   "slug": "kyle-kuzma",
+   "tier": "Waiver: watch the battle",
+   "line": "He could start at power forward, but Milwaukee will likely start a second center there instead."
+  },
+  {
+   "slug": "derrick-jones",
+   "tier": "Waiver: watch the battle",
+   "line": "He starts only while Ingram, Beal and Miller are out, so his value fades when they return."
+  },
+  {
+   "slug": "danny-wolf",
+   "tier": "Waiver: watch the battle",
+   "line": "He splits center minutes with Sharpe and Mo Wagner and is blocked by Randle, so he matters only if he wins a big role."
+  },
+  {
+   "slug": "baylor-scheierman",
+   "tier": "Waiver: watch the battle",
+   "line": "His starting spot is not settled against Pritchard, so add him only if he starts and plays 23 or more minutes."
+  },
+  {
+   "slug": "sam-hauser",
+   "tier": "Waiver: watch the battle",
+   "line": "He competes with Scheierman for a starting wing spot and is at most a short-term threes streamer even if he wins it."
+  },
+  {
+   "slug": "jaylen-wells",
+   "tier": "Waiver: watch the battle",
+   "line": "He is buried in a deep Memphis rotation, and only a starting role would make him worth adding."
+  },
+  {
+   "slug": "marcus-smart",
+   "tier": "Waiver: watch the battle",
+   "line": "He needs to win the top bench minutes in a crowded Houston guard rotation, which is his only route to streaming value."
+  },
+  {
+   "slug": "zaccharie-risacher",
+   "tier": "Waiver: watch the battle",
+   "line": "He is projected as a 10th man in a crowded Dallas wing group, so he needs clearly more minutes to matter."
+  },
+  {
+   "slug": "matisse-thybulle",
+   "tier": "Waiver: watch the battle",
+   "line": "He is a steals specialist who needs minutes well above last season's 16 per game while the Lakers sort out their open spots."
+  },
+  {
+   "slug": "luke-kennard",
+   "tier": "Waiver: watch the battle",
+   "line": "Five guards and wings are ahead of him, so he matters only if his three-point volume rises off the bench."
+  },
+  {
+   "slug": "tre-johnson",
+   "tier": "Waiver: watch the battle",
+   "line": "He needs to win Washington's open fifth starting spot or clearly more than 24 minutes."
+  },
+  {
+   "slug": "will-riley",
+   "tier": "Waiver: watch the battle",
+   "line": "He needs rotation minutes or the open fifth starting spot in a crowded Washington wing group."
+  },
+  {
+   "slug": "terrence-shannon",
+   "tier": "Waiver: watch the battle",
+   "line": "He competes with Kuminga and Josh Green for the open fifth starting spot, and Minnesota has a two-game week in our playoffs."
+  },
+  {
+   "slug": "ziaire-williams",
+   "tier": "Waiver: watch the battle",
+   "line": "He is a candidate for the open Lakers starting spots, so he needs a start and more than 23 minutes."
+  },
+  {
+   "slug": "aaron-wiggins",
+   "tier": "Waiver: watch the battle",
+   "line": "He competes with Dort for backup wing minutes and is expected to be a seventh man."
+  },
+  {
+   "slug": "noah-clowney",
+   "tier": "Waiver: watch the battle",
+   "line": "He competes with Randle, Minott and Wolf at the four and needs real minutes before he matters."
+  },
+  {
+   "slug": "nikola-jovic",
+   "tier": "Waiver: watch the battle",
+   "line": "He competes with Bobby Portis for bench frontcourt minutes and also needs his FG% to recover."
+  },
+  {
+   "slug": "aj-green",
+   "tier": "Waiver: watch the battle",
+   "line": "He is in a crowded Milwaukee guard group and is only a threes pickup if he gets minutes."
+  },
+  {
+   "slug": "walter-clayton",
+   "tier": "Waiver: watch the battle",
+   "line": "He needs steady minutes in a crowded Memphis guard group with an 11-man rotation."
+  },
+  {
+   "slug": "hugo-gonzalez",
+   "tier": "Waiver: watch the battle",
+   "line": "He is outside Boston's projected 10-man rotation and needs to break into it first."
+  },
+  {
+   "slug": "hannes-steinbach",
+   "tier": "Waiver: watch the battle",
+   "line": "He shares center minutes with Diabate and Kalkbrenner, and the expert advice is to pick him up if Charlotte starts him."
+  },
+  {
+   "slug": "harrison-barnes",
+   "tier": "Waiver: watch the battle",
+   "line": "He is in a crowded Spurs forward group with projected minutes down to about 20."
+  },
+  {
+   "slug": "bogdan-bogdanovic",
+   "tier": "Waiver: watch the battle",
+   "line": "He is probably the last man in a crowded Houston guard rotation and matters only after injuries."
+  },
+  {
+   "slug": "nate-ament",
+   "tier": "Waiver: watch the battle",
+   "line": "He matters only if he wins minutes at power forward, which is Milwaukee's weakest position."
+  },
+  {
+   "slug": "craig-porter",
+   "tier": "Waiver: watch the battle",
+   "line": "He must hold the backup point guard job ahead of Malik Thomas at about 20 minutes to be a steals and blocks add."
+  },
+  {
+   "slug": "julian-strawther",
+   "tier": "Waiver: watch the battle",
+   "line": "He is a 10th man at about 15 minutes, so he needs a Braun trade or a Murray injury."
+  },
+  {
+   "slug": "moritz-wagner",
+   "tier": "Waiver: watch the battle",
+   "line": "He splits center minutes with Sharpe and Wolf and matters only if he gets close to 20 minutes."
+  },
+  {
+   "slug": "marcus-sasser",
+   "tier": "Waiver: watch the battle",
+   "line": "He competes for backup guard minutes behind Irving on a thin depth chart."
+  },
+  {
+   "slug": "josh-minott",
+   "tier": "Waiver: watch the battle",
+   "line": "He is outside the projected rotation but produced with minutes, so add him if he reaches about 20."
   },
   {
    "slug": "jalen-slawson",
-   "tier": "Waiver watch",
-   "line": "He is outside the rotation behind Oubre and Walker and a steals and blocks add only at about 20 minutes."
-  },
-  {
-   "slug": "meleek-thomas",
-   "tier": "Waiver watch",
-   "line": "Harden and Mitchell block him, so only an injury gives him real minutes."
+   "tier": "Waiver: watch the battle",
+   "line": "He is outside the projected rotation behind Oubre and Walker, and about 20 minutes would make him a steals and blocks add."
   },
   {
    "slug": "bruce-thornton",
-   "tier": "Waiver watch",
+   "tier": "Waiver: watch the battle",
    "line": "Five guards are ahead of him, so check only whether Udoka gives him real minutes."
   },
   {
    "slug": "ryan-conwell",
-   "tier": "Waiver watch",
-   "line": "He needs his Summer League play to turn into rotation minutes in Miami's guard group."
+   "tier": "Waiver: watch the battle",
+   "line": "He has no projection and needs his Summer League play to turn into rotation minutes in Miami."
   },
   {
    "slug": "trevon-brazile",
-   "tier": "Waiver watch",
-   "line": "He must win the backup power forward minutes behind Gordon before he is a streaming option."
-  },
-  {
-   "slug": "labaron-philon",
-   "tier": "Waiver watch",
-   "line": "He backs up Maxey and Edgecombe, so only a trade or a guard injury gives him a role."
+   "tier": "Waiver: watch the battle",
+   "line": "He competes for backup power forward minutes behind Gordon in a crowded group."
   },
   {
    "slug": "christian-anderson",
-   "tier": "Waiver watch",
-   "line": "He is worth a waiver look only if he takes Charlotte's open backup point guard role."
+   "tier": "Waiver: watch the battle",
+   "line": "Charlotte's backup point guard role is open, but he is not yet trusted there."
   },
   {
-   "slug": "karim-lopez",
-   "tier": "Waiver watch",
-   "line": "Memphis has a deep forward group and an 11-man rotation, so he needs a trade or a cut ahead of him."
+   "slug": "daniss-jenkins",
+   "tier": "Waiver: watch the battle",
+   "line": "He needs about 26 minutes as a second ball handler, or a Cunningham absence."
   },
   {
-   "slug": "zuby-ejiofor",
-   "tier": "Waiver watch",
-   "line": "His only path is backup minutes behind Okongwu while Atlanta's center depth is thin."
+   "slug": "kasparas-jakucionis",
+   "tier": "Waiver: watch the battle",
+   "line": "He needs real minutes in a crowded Milwaukee backcourt, or a trade."
+  },
+  {
+   "slug": "keaton-wagler",
+   "tier": "Waiver: watch the battle",
+   "line": "He backs up Garland with several guards competing, so only a clearly bigger role while Beal is out would matter."
+  },
+  {
+   "slug": "kyle-filipowski",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "He shares frontcourt minutes with five players, so only an injury to Nurkic or Jackson Jr. opens his role."
+  },
+  {
+   "slug": "ryan-kalkbrenner",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "He matters only if Diabate loses the starting job or gets hurt."
+  },
+  {
+   "slug": "dennis-schroder",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "He sits behind Coby White with Grayson Allen first in line for spot starts."
+  },
+  {
+   "slug": "santi-aldama",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "He needs knee clearance and frontcourt injuries in Dallas to reach 25 to 28 minutes."
+  },
+  {
+   "slug": "joan-beringer",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "The Kuminga signing lowered his minutes, so only Gobert missing games makes him a quick FAB add."
+  },
+  {
+   "slug": "isaiah-collier",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "He is expected to play 20 minutes at most unless Keyonte George or Peterson misses time."
+  },
+  {
+   "slug": "scoot-henderson",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "Portland's guard glut keeps him near 20 minutes unless a trade or an injury to Lillard or Morant opens a role."
+  },
+  {
+   "slug": "dylan-cardwell",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "He backs up Sabonis and Raynaud and needs a Sabonis trade or a rise above about 18 minutes."
+  },
+  {
+   "slug": "anfernee-simons",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "Philadelphia's guard rotation is crowded, so he needs Embiid absences or LeBron rest days to clear 25 minutes."
   },
   {
    "slug": "mark-williams",
-   "tier": "Avoid (injured)",
-   "line": "He is not expected back until mid to late March, likely behind Maluach, so do not draft him."
+   "tier": "Waiver: needs an injury or trade",
+   "line": "He returns around mid to late March at best, maybe behind Maluach, so watch his rehab and the trade deadline."
   },
   {
-   "slug": "shaedon-sharpe",
-   "tier": "Avoid (injured)",
-   "line": "A meniscus injury is expected to cost him basically the whole season."
+   "slug": "jordan-walsh",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "He may fall out of Boston's 10-man rotation most nights."
   },
   {
-   "slug": "richie-saunders",
-   "tier": "Avoid (injured)",
-   "line": "A torn ACL keeps him out until near the end of the season, and a crowded guard group waits for him."
+   "slug": "gradey-dick",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "He is not in the projected Clippers top ten and has no clear path to minutes."
   },
   {
-   "slug": "jayden-quaintance",
-   "tier": "Avoid (injured)",
-   "line": "He is out after another knee surgery and would back up Wembanyama even when healthy."
+   "slug": "kingston-flemings",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "He backs up McCollum and Alexander-Walker, and Dort or Wiggins could take any open start first."
+  },
+  {
+   "slug": "bub-carrington",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "He needs an injury to Trae Young or a wing to gain minutes in a deep Washington rotation."
+  },
+  {
+   "slug": "jaylin-williams",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "As the third center, he matters only if Hartenstein or Holmgren misses time."
+  },
+  {
+   "slug": "brayden-burries",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "His only clear path to minutes is Milwaukee cutting or trading guards from a 17-man roster."
+  },
+  {
+   "slug": "brice-sensabaugh",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "The experts expect a bench role, so he needs an injury to George, Peterson or Markkanen."
+  },
+  {
+   "slug": "zach-collins",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "As a third-string center he needs injuries to Claxton and Jalen Smith."
+  },
+  {
+   "slug": "khris-middleton",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "He is not in the projected starting five, so add him only if box scores show starter minutes."
+  },
+  {
+   "slug": "aday-mara",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "He sits behind three centers and needs Hartenstein or Holmgren to miss games."
+  },
+  {
+   "slug": "nolan-traore",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "Brooklyn drafted a point guard, so only a guard injury would give him real ball-handling minutes."
+  },
+  {
+   "slug": "jordan-goodwin",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "As the fourth or fifth guard, he needs an injury to move up for steals."
+  },
+  {
+   "slug": "mike-conley",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "He is a 10th man and matters only if White or Pritchard misses time."
+  },
+  {
+   "slug": "leonard-miller",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "His value depends on an injury to Buzelis or Caleb Wilson."
+  },
+  {
+   "slug": "kobe-sanders",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "He is a projected tenth man who needs Clippers injuries to reach starter minutes."
+  },
+  {
+   "slug": "meleek-thomas",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "Harden and Mitchell block him, and he is not in the projected rotation."
+  },
+  {
+   "slug": "labaron-philon",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "He backs up Maxey and Edgecombe and needs a trade or a guard injury."
+  },
+  {
+   "slug": "karim-lopez",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "He is buried in a deep Memphis forward group and needs a trade or a cut to open minutes."
+  },
+  {
+   "slug": "zuby-ejiofor",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "He backs up Okongwu and needs an injury to Okongwu or Jalen Johnson."
+  },
+  {
+   "slug": "bennedict-mathurin",
+   "tier": "Waiver: needs an injury or trade",
+   "line": "He is in a crowded wing and guard group, so he needs a trade or an injury for a bigger role."
   }
  ],
- "excluded": [],
+ "excluded": [
+  {
+   "slug": "jayden-quaintance",
+   "reason": "He is out after another knee surgery with no return date, so there is no live minutes battle to watch this season."
+  }
+ ],
  "rejected": []
 }

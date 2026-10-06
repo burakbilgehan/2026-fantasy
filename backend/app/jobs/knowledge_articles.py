@@ -59,6 +59,8 @@ def article_md(doc: dict, rules: dict[str, articles.Rule], players: dict[str, ar
                     "| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |",
                     "|---|---|---|---|---|---|---|---|---|"]
             for p in ps:
+                if p["slug"] not in players:  # lost the article's tags since the article was written
+                    continue
                 a = players[p["slug"]]
                 by = {x.source: x for x in a.numbers.prices}
                 y, e = by.get("yahoo"), by.get("espn")

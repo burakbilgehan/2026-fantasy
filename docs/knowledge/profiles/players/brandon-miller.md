@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 25 | 19.2 | 39 | 9 | 7.1 | 54 | 20 |
+| 2026-27 | 25 | 19.2 | 39 | 9 | 7.3 | 54 | 20 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,30 +30,28 @@
 </details>
 
 **Current**
-- Experts call him a clear third-round player who is fine in the 30s in category leagues if his shoulder is healthy. A draft spot around 46 to 50 is too late. One expert would still wait until 45 to 50 until his health is confirmed. (verdict, 2026-09-30, until his shoulder health is confirmed; [09-30](https://youtu.be/BjXP9JODDSg?t=748), [09-27](https://youtu.be/CRLSsoGhb2w?t=501), [09-27](https://youtu.be/CRLSsoGhb2w?t=1761), [09-24](https://youtu.be/_vbAP5y182A?t=729), [09-17](https://youtu.be/ahNxsoU8Hx4?t=526), [08-11](https://youtu.be/OdDkXFhoKsc?t=1066), [09-10](https://youtu.be/dlo7L8Ru91A?t=1014))
-- Miller had shoulder surgery after last season. His training camp status was uncertain in late September. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1761), [09-21](https://youtu.be/egRrai3Ax38?t=1634), [09-10](https://youtu.be/W-R1dzem32s?t=1986))
-- Several experts worry the shoulder could linger into training camp. Most still expect him to be fine, and one is about 95% confident he is healthy. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1761), [09-21](https://youtu.be/egRrai3Ax38?t=1634), [09-15](https://youtu.be/KPdD91Oo8-U?t=874), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1252), [09-17](https://youtu.be/ahNxsoU8Hx4?t=526), [09-10](https://youtu.be/dlo7L8Ru91A?t=1014), [09-10](https://youtu.be/W-R1dzem32s?t=1986), [09-24](https://youtu.be/_vbAP5y182A?t=729))
-- Charlotte traded LaMelo Ball to Minnesota and Miles Bridges to Phoenix. The projected starters are White, Knueppel, Miller, Reid and Diabaté. (fact, 2026-09-27; [06-28](https://youtu.be/RsjGTgJiKyI?t=328), [09-27](https://youtu.be/CRLSsoGhb2w?t=416), [09-22](https://youtu.be/QbdrhJd7LiA?t=582))
-- Without Ball, ball handling will be split between White, Knueppel and Miller rather than going to one main creator. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=282), [07-21](https://youtu.be/EB1Z_6n56-o?t=1306), [06-30](https://youtu.be/4GDfg2n2l8o?t=259))
-- Experts expect his usage to rise from about 28 to 29 or 30, with more assists and possibly lower efficiency. Whether he becomes a 30-plus usage player with about five assists and six or seven free throw attempts is still open. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=509), [06-25](https://youtu.be/ya2VYRJ1BN0?t=1230), [06-30](https://youtu.be/4GDfg2n2l8o?t=259))
-- Charlotte plays 4-3-4 games in our playoff weeks 19 to 21 and has only 13 back-to-backs, the league minimum. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781))
-- His ESPN ADP of 107 is called far too low. His Fantrax ADP is 43. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=550))
-- If Miller misses games at the start of the season, Grayson Allen would start. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=2077))
-- Some improvement is expected this season, but it is not guaranteed. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=785))
-- Charlotte's two-game week starting March 1 should not affect decisions about him. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1383), [08-16](https://youtu.be/gf_6GveiAls?t=1343))
-- In the new Charlotte setup he could become a four-threes-a-game player. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=552))
+- In an auction mock draft, Josh targeted him and bought him for 26 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2653))
+- He had shoulder surgery after last season. He has no shoulder restrictions heading into training camp. (fact, 2026-10-04; [09-27](https://youtu.be/CRLSsoGhb2w?t=1761), [10-04](https://youtu.be/n4KkK-OJjqA?t=244))
+- Experts call him a clear third-round value with a top 30 season possible. Take him without much questioning; going around pick 46 to 50 is too late. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=244), [10-04](https://youtu.be/n4KkK-OJjqA?t=924), [09-24](https://youtu.be/_vbAP5y182A?t=729), [09-17](https://youtu.be/ahNxsoU8Hx4?t=526), [09-30](https://youtu.be/BjXP9JODDSg?t=748), [08-11](https://youtu.be/OdDkXFhoKsc?t=1066))
+- Charlotte traded away LaMelo Ball and Miles Bridges. Ball handling is now split between Coby White, Kon Knueppel and Miller, with no single lead creator. (fact, 2026-09-27; [09-22](https://youtu.be/QbdrhJd7LiA?t=582), [06-30](https://youtu.be/4GDfg2n2l8o?t=178), [09-27](https://youtu.be/CRLSsoGhb2w?t=282), [07-21](https://youtu.be/EB1Z_6n56-o?t=1306))
+- Expect his usage to rise from about 28 to 29 or 30, with more assists and possibly lower efficiency. He could become a four-threes-a-game player. (verdict, 2026-09-27; [06-25](https://youtu.be/ya2VYRJ1BN0?t=1230), [09-27](https://youtu.be/CRLSsoGhb2w?t=509), [06-30](https://youtu.be/4GDfg2n2l8o?t=259), [07-07](https://youtu.be/ME-r173X5b0?t=552))
+- He is a projected starter with White, Knueppel, Reid and Diabaté. Grayson Allen would start if Miller misses games early. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=416), [09-15](https://youtu.be/KPdD91Oo8-U?t=2077))
+- Charlotte has 13 back-to-backs, the league minimum. Its playoff schedule is 4-3-4 games for a March 28 end. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781))
+- His ESPN ADP of 107 is far too low for his value. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=550))
+- Some improvement over last season is expected but not guaranteed. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=785))
+- Charlotte's two-game week starting March 1 should not factor into decisions about him. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1383))
+- Charlotte plans to space the floor and take a lot of threes. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=401))
 
 **Durable**
-- He is a high-volume three-point shooter. Threes made are his clearest strength in the league. (fact, 2026-10-04; stats)
-- He commits many turnovers for a forward. (fact, 2026-10-04; stats)
-- He is not a strong FG% player. His FG% on high volume is a clear weakness. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=510), stats)
-- His drives often stall and turn into mid-range shots. He finishes well at the rim but rarely gets there. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=1402))
-- He is injured often. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=1402))
+- He makes many threes, a real outlier against the pool and among forwards. (fact, 2026-10-05; stats)
+- He is not a strong field goal percentage player, and he commits many turnovers for a forward. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=510), stats)
+- He had shoulder surgery after the 2025-26 season. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1761))
+- His drives often stall, which leads to many mid-range shots. He finishes well at the rim but rarely gets there. (verdict, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=1402))
 
 **Tags**
-- Current: `role up` (usage expected to rise to 29 or 30 after LaMelo Ball and Miles Bridges left), `expert target` (seen as a third-rounder; ADP 46 to 50 called too late), `sleeper` (on ESPN, where his ADP of 107 is called bonkers), `sites disagree on price` (Yahoo value 25 USD and rank 39; ESPN value 9 USD and rank 54), `injured now` (shoulder surgery after last season; training camp status uncertain; until his shoulder health is confirmed), `few back-to-backs` (Charlotte has 13 back-to-backs, the league minimum)
-- Durable: `3PM specialist` (about 3.4 threes per game projected), `punt FG fit` (about 43% FG on high volume), `punt TO fit` (about 2.7 TO per game projected)
+- Current: `role up` (more creation and usage after LaMelo Ball and Miles Bridges left), `breakout` (top 30 season possible, improvement not guaranteed), `expert target` (called a clear third-rounder going too late), `sleeper` (ESPN ADP 107 called far too low), `sites disagree on price` (Yahoo value 25 USD, ESPN value 9 USD), `usage freed` (LaMelo Ball and Miles Bridges gone), `shared ball handling` (White, Knueppel and Miller split creation), `three-point heavy` (Charlotte leans fully into spacing), `few back-to-backs` (13, the league minimum)
+- Durable: `3PM specialist` (about 3.4 threes per game projected), `3PM from a big` (forward with outlier threes), `punt FG fit` (about 43% FG on high volume), `punt TO fit` (about 2.7 turnovers per game, rising with usage)
 
-**Note.** Experts see Miller as a third-round player (a rank in the 30s) if his shoulder is healthy. That beats his Yahoo average cost of 19.2 USD and the 20 USD he went for in our league last season, and it is far above his ESPN value of 9 USD. He fits punt FG% and punt TO builds, where his threes, points and FT% count fully and his weak categories matter less. Check his shoulder status in training camp before the 2026-10-18 auction, then watch his usage and assists early in the season now that LaMelo Ball is gone.
+**Note.** Experts see him as a third-round player with top 30 upside, now that his shoulder is cleared and LaMelo Ball is gone. His Yahoo value of 25 USD sits above our league's 20 USD last season and the Yahoo average cost of 19.2, so paying 20 to 26 USD is reasonable. Ignore the ESPN value of 9 USD, which reflects his low ESPN ADP. He fits punt FG% and punt TO builds best because he brings outlier threes plus strong points and FT%. Early in the season, check whether his usage and assists really rise and how far his FG% (43% projected) falls with the bigger creation role.
 
-<sub>20 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>23 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

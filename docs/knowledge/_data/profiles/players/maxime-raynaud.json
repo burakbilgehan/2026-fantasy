@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "4f4a649b9eb7",
+ "input_sha": "8dea9ed85e3e",
  "note_count": 12,
- "built_at": "2026-10-04T17:42:51+00:00",
+ "built_at": "2026-10-05T19:58:33+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.22834100000000002,
-  "duration_ms": 56545
+  "cost_usd_list": 0.18417820000000001,
+  "duration_ms": 51795,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He is the backup center behind Domantas Sabonis, who is still on the Kings.",
+   "text": "He is the backup center behind Domantas Sabonis, who is a projected starter.",
    "kind": "fact",
    "date": "2026-09-30",
    "until": "",
@@ -34,27 +36,18 @@
    ]
   },
   {
-   "text": "Experts project him at about 19 to 20 minutes per game as the backup.",
+   "text": "Experts expect about 19 to 20 minutes a night in a backup role. He cannot do much in those minutes.",
    "kind": "verdict",
    "date": "2026-09-15",
    "until": "",
    "sources": [
     "KPdD91Oo8-U:p33",
-    "OdDkXFhoKsc:p60"
+    "OdDkXFhoKsc:p60",
+    "gerS7ibpaJo:p25"
    ]
   },
   {
-   "text": "His strong finish last season came from many Kings injuries. Experts think he is unlikely to get the same chance this season.",
-   "kind": "verdict",
-   "date": "2026-09-03",
-   "until": "",
-   "sources": [
-    "OBwWCxG9SqM:p5",
-    "xHRF06_E9HE:p29"
-   ]
-  },
-  {
-   "text": "His upside depends on Sabonis being traded or hurt. Josh does not expect a Sabonis trade.",
+   "text": "His upside depends on Sabonis being traded or hurt. Without that, he is likely to have little value early in the season.",
    "kind": "verdict",
    "date": "2026-09-24",
    "until": "",
@@ -67,19 +60,40 @@
    ]
   },
   {
-   "text": "The Kings may trade Sabonis or try to dump his contract. They want to stay out of the relegation zone, so Sabonis is expected to play when available and not be benched for Raynaud.",
+   "text": "A Sabonis trade is possible, but experts do not expect one. The Kings want to stay out of the relegation zone, so they are not expected to bench Sabonis for Raynaud.",
    "kind": "verdict",
    "date": "2026-09-21",
    "until": "",
    "sources": [
     "egRrai3Ax38:t0",
-    "ahNxsoU8Hx4:t4",
     "t4n9MAP2_14:t5",
-    "oEywzBZfAvY:t8"
+    "OdDkXFhoKsc:p60",
+    "ahNxsoU8Hx4:t4",
+    "n4KkK-OJjqA:t5"
    ]
   },
   {
-   "text": "Paul Reed is a better per-minute producer than Raynaud.",
+   "text": "His strong finish last season (62nd after the deadline, 70th over the final two months) came while the Kings had many injuries.",
+   "kind": "fact",
+   "date": "2026-09-03",
+   "until": "",
+   "sources": [
+    "OBwWCxG9SqM:p5",
+    "xHRF06_E9HE:p29"
+   ]
+  },
+  {
+   "text": "He is unlikely to get the same chance this season unless the Kings trade players and commit to him at center.",
+   "kind": "verdict",
+   "date": "2026-09-03",
+   "until": "",
+   "sources": [
+    "OBwWCxG9SqM:p5",
+    "gerS7ibpaJo:p25"
+   ]
+  },
+  {
+   "text": "Experts rate Paul Reed as clearly better per minute.",
    "kind": "verdict",
    "date": "2026-09-24",
    "until": "",
@@ -89,7 +103,7 @@
    ]
   },
   {
-   "text": "Not worth drafting in a 12-team league. At most a bench stash you can drop early.",
+   "text": "Do not draft him in a 12-team league. At most he is a late bench stash to drop early if no Sabonis trade comes.",
    "kind": "verdict",
    "date": "2026-09-30",
    "until": "",
@@ -102,7 +116,16 @@
    ]
   },
   {
-   "text": "In Summer League he took 39% of his shots from three and blocked no shots.",
+   "text": "One July preview thought he could be better than Sabonis in two to three years, and that the Kings should try to show he is a starter this season.",
+   "kind": "verdict",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p26"
+   ]
+  },
+  {
+   "text": "In Summer League, 39% of his shots were threes and he blocked no shots.",
    "kind": "fact",
    "date": "2026-07-21",
    "until": "",
@@ -111,28 +134,19 @@
    ]
   },
   {
-   "text": "A rising three-point rate would lower his FG% but add points and threes. Worth watching.",
+   "text": "If his three-point rate keeps rising, his FG% would drop while his points and threes go up. This is worth watching.",
    "kind": "verdict",
    "date": "2026-07-21",
    "until": "",
    "sources": [
     "RyzcCGChYgs:p8"
    ]
-  },
-  {
-   "text": "Ham thinks he could be better than Sabonis in two to three years.",
-   "kind": "verdict",
-   "date": "2026-07-31",
-   "until": "",
-   "sources": [
-    "oEywzBZfAvY:p26"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is an efficient shooter for a big. He has a high FG% and a good FT% for a center, and makes some threes at a good rate.",
-   "kind": "verdict",
+   "text": "He is an efficient shooter: high FG% and a good FT% for a center. He makes some threes at a good rate (37%).",
+   "kind": "fact",
    "date": "2026-07-14",
    "until": "",
    "sources": [
@@ -141,7 +155,7 @@
    ]
   },
   {
-   "text": "He is not a shot blocker, and his steals are low for a center.",
+   "text": "He gets few steals and blocks for a center. He is not a blocks guy.",
    "kind": "fact",
    "date": "2026-07-14",
    "until": "",
@@ -163,45 +177,80 @@
    "new_meaning": ""
   },
   {
-   "name": "handcuff",
+   "name": "role down",
    "channel": "current",
-   "detail": "Backup to Domantas Sabonis; value only if Sabonis is traded or hurt",
+   "detail": "Backup behind Sabonis at about 19 to 20 minutes, after 26.6 last season",
    "until": "",
    "sources": [
-    "_vbAP5y182A:p55",
     "KPdD91Oo8-U:p33",
+    "OdDkXFhoKsc:p60",
+    "xHRF06_E9HE:p31",
+    "OBwWCxG9SqM:p5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "Value only if Domantas Sabonis is traded or hurt",
+   "until": "",
+   "sources": [
+    "KPdD91Oo8-U:p33",
+    "_vbAP5y182A:p55",
     "E-KmhvyZ2CU:p30",
     "OdDkXFhoKsc:p60"
    ],
    "new_meaning": ""
   },
   {
-   "name": "role down",
+   "name": "waiver watch",
    "channel": "current",
-   "detail": "About 19 to 20 minutes as Sabonis's backup after late-season minutes caused by Kings injuries",
+   "detail": "Watch for Sabonis trade or injury news",
    "until": "",
    "sources": [
+    "BjXP9JODDSg:p58",
     "KPdD91Oo8-U:p33",
-    "OdDkXFhoKsc:p60",
-    "OBwWCxG9SqM:p5",
     "xHRF06_E9HE:p31"
    ],
    "new_meaning": ""
   },
   {
-   "name": "waiver watch",
+   "name": "trades likely",
    "channel": "current",
-   "detail": "Add him if Sabonis is traded or injured",
+   "detail": "Sabonis or LaVine trade possible; a Sabonis deal would open the starting center job",
    "until": "",
    "sources": [
-    "KPdD91Oo8-U:p33",
-    "E-KmhvyZ2CU:p30",
-    "xHRF06_E9HE:p31",
-    "BjXP9JODDSg:p58"
+    "oEywzBZfAvY:t8",
+    "t4n9MAP2_14:t5",
+    "egRrai3Ax38:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "About 22 to 27 wins projected",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:t7",
+    "0AptxcRW0RE:t8",
+    "lOshTzDA4SA:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low shutdown risk",
+   "channel": "current",
+   "detail": "Kings must avoid relegation, so Sabonis keeps playing over Raynaud",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:t5",
+    "egRrai3Ax38:t0",
+    "ahNxsoU8Hx4:t4"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Yahoo ranks him 162nd at 1 USD and ESPN does not rank him, so he sits outside our 144 drafted players and every expert says to skip him in 12-team leagues. His efficient shooting and low turnovers make him an easy fit for punt STL teams, but at about 19 to 20 minutes he will not hold value. Leave him on waivers and watch for Sabonis trade or injury news, plus whether his three-point attempts keep rising.",
+ "note": "Yahoo ranks him 162nd with a 1 USD average cost and ESPN does not rank him, so he falls outside the 144 players our league drafts. Every expert says to leave him to waivers. As Sabonis's backup at about 19 to 20 minutes, he only gives modest FG%, rebounds and low turnovers. Early in the season, watch for Sabonis trade or injury news and check whether his three-point rate is rising. If he becomes the starter, he is a quick FAB add for FG% and rebounds, and he fits punt STL builds.",
  "rejected": []
 }

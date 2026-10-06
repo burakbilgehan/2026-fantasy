@@ -46,29 +46,28 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
 | [Jayson Tatum](../profiles/players/jayson-tatum.md) | BOS | F | 7 | 54.6 | 8 | 54.3 | not drafted | His bounce-back rests on health and an elite long-term skill set, with FG% expected to recover after the Achilles return. That is the kind of injury fear the notes say to bid through. |
-| [Jalen Williams](../profiles/players/jalen-williams.md) | OKC | F | 34 | 22.0 | 35 | 18.0 | 35 | This is an injury bounce-back where the injuries are not expected to repeat, and his all-around line has no weak category, so the case does not depend on an unstable stat. |
+| [Jalen Williams](../profiles/players/jalen-williams.md) | OKC | F | 34 | 22.0 | 35 | 18.2 | 35 | This is an injury bounce-back where the injuries are not expected to repeat, and his all-around line has no weak category, so the case does not depend on an unstable stat. |
 
 ### Value at price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
 | [Domantas Sabonis](../profiles/players/domantas-sabonis.md) | SAC | F,C | 35 | 22.6 | 32 | 39.3 | 41 | His case leans on FG% and 3P% recovering and on fewer injuries. Pay the middle of the market, not last season's league price. |
-| [Trae Young](../profiles/players/trae-young.md) | WAS | G | 18 | 33.6 | 47 | 33.0 | 44 | This is an injury year with low minutes, and the bounce-back is mostly about playing time returning. Check his minutes early and do not repeat last season's price. |
-| [Darius Garland](../profiles/players/darius-garland.md) | LAC | G | 54 | 6.6 | 53 | 12.3 | 11 | A bad toe sank his rank last season. That is a health-based bounce-back the market still underrates. |
-| [Derrick White](../profiles/players/derrick-white.md) | BOS | G | 36 | 10.2 | 17 | 18.5 | 30 | His bounce-back depends on FG% rising with more catch-and-shoot looks, which is less stable, so aim near the low market price and not last year's overpay. |
+| [Trae Young](../profiles/players/trae-young.md) | WAS | G | 18 | 33.6 | 47 | 33.4 | 44 | This is an injury year with low minutes, and the bounce-back is mostly about playing time returning. Check his minutes early and do not repeat last season's price. |
+| [Derrick White](../profiles/players/derrick-white.md) | BOS | G | 36 | 10.2 | 17 | 18.8 | 30 | His bounce-back depends on FG% rising with more catch-and-shoot looks, which is less stable, so aim near the low market price and not last year's overpay. |
 | [Dyson Daniels](../profiles/players/dyson-daniels.md) | ATL | G,F | 61 | 4.4 | 38 | 9.7 | 28 | This is a steals and three-point rebound case. The steals have a track record, but both stats swing, so pay a fair price without a rebound premium. |
-| [Coby White](../profiles/players/coby-white.md) | CHA | G | 80 | 3.4 | 106 | 2.3 | 15 | A new starting role and a FT% recovery after an injury-hit season make this one of the safer kinds of bounce-back. |
-| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 57 | 8.2 | 81 | 3.6 | 20 | His rebound depends on a new pick-and-roll role. The skills are stable, but the playoff schedule and minutes split are concerns. |
+| [Coby White](../profiles/players/coby-white.md) | CHA | G | 80 | 3.4 | 106 | 2.5 | 15 | A new starting role and a FT% recovery after an injury-hit season make this one of the safer kinds of bounce-back. |
+| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 57 | 8.2 | 81 | 3.5 | 20 | His rebound depends on a new pick-and-roll role. The skills are stable, but the playoff schedule and minutes split are concerns. |
 
 ### Late flyers
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [John Collins](../profiles/players/john-collins.md) | DET | F,C | 112 | 1.0 | 99 | 1.1 | 7 | Rebounds and FT% dipped last season. A FT% drop tends to revert, so he is a cheap filler likely to beat his rank. |
-| [Myles Turner](../profiles/players/myles-turner.md) | MIL | C | 101 | 1.0 | 93 | 0.9 | 20 | Experts disagree on his bounce-back after a bad season. He is a late buy for a few dollars, depending on minutes in a new setup. |
-| [Zach LaVine](../profiles/players/zach-lavine.md) | SAC | G,F | 99 | 1.0 | 158 | 0.9 | 12 | His role and usage are uncertain and the projections split, so he is a cheap flyer near the cutoff. |
+| [John Collins](../profiles/players/john-collins.md) | DET | F,C | 112 | 1.0 | 99 | 1.2 | 7 | Rebounds and FT% dipped last season. A FT% drop tends to revert, so he is a cheap filler likely to beat his rank. |
+| [Myles Turner](../profiles/players/myles-turner.md) | MIL | C | 101 | 1.0 | 93 | 1.0 | 20 | Experts disagree on his bounce-back after a bad season. He is a late buy for a few dollars, depending on minutes in a new setup. |
+| [Zach LaVine](../profiles/players/zach-lavine.md) | SAC | G,F | 99 | 1.0 | 158 | 1.0 | 12 | His role and usage are uncertain and the projections split, so he is a cheap flyer near the cutoff. |
 | [Jakob Poeltl](../profiles/players/jakob-poeltl.md) | TOR | C | 122 | 1.0 | 116 | 0.8 | 15 | His upside depends on blocks returning now that his back is healthy. That is a health case at a near-minimum price. |
-| [Jalen Green](../profiles/players/jalen-green.md) | PHX | G,F | 130 | 1.0 | 130 | 1.2 | 9 | FT% and 3P% should recover and minutes should rise, but his FG% and turnovers limit him to punt builds. |
+| [Jalen Green](../profiles/players/jalen-green.md) | PHX | G,F | 130 | 1.0 | 130 | 1.4 | 9 | FT% and 3P% should recover and minutes should rise, but his FG% and turnovers limit him to punt builds. |
 
 ### Waiver watch
 

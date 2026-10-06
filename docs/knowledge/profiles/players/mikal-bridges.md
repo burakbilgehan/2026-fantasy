@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 12 | 3.4 | 81 | 28 | 11.3 | 26 | 9 |
+| 2026-27 | 12 | 3.4 | 81 | 28 | 11.5 | 26 | 9 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,23 +30,27 @@
 </details>
 
 **Current**
-- After the title run, the Knicks are expected to be careful early in the season. Starters should get fewer minutes and more rest on back-to-backs over the first 30 or so games. (verdict, 2026-09-22, until first 30 or so games; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [09-10](https://youtu.be/dlo7L8Ru91A?t=1127), [09-22](https://youtu.be/QbdrhJd7LiA?t=914))
-- His role shrank over the last two to three months of last season. He played under 30 minutes, took about one free throw per game and had a usage rate around 16 percent. Per game, he ranked around 130th, which is droppable. (fact, 2026-09-19; [08-13](https://youtu.be/okN3fbHJtlA?t=862), [09-19](https://youtu.be/uarqbNA2dFk?t=924), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2166), [09-10](https://youtu.be/dlo7L8Ru91A?t=1483))
-- The experts call him overdrafted at an ADP of about 72 to 77 and say ESPN's rank of 26 is far too high. Taking him around pick 70 for his durability alone is not worth it. One expert sees his real value in the 90s. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=924), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2166), [09-10](https://youtu.be/dlo7L8Ru91A?t=1483), [08-19](https://youtu.be/J1Eg3uaAICU?t=1355), [08-30](https://youtu.be/Alwse2uXzD4?t=2068))
+- Experts agree he is overpriced. They call a pick around Yahoo ADP 73 to 78 pointless and ESPN's rank of 26 insane. Josh values him at about 2 USD in a head-to-head auction and does not like him in that format. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4116), [09-22](https://youtu.be/QbdrhJd7LiA?t=1023), [09-22](https://youtu.be/QbdrhJd7LiA?t=1679), [09-19](https://youtu.be/uarqbNA2dFk?t=924), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2166), [09-10](https://youtu.be/dlo7L8Ru91A?t=1483))
+- After two extra months of play in the title run, experts expect the Knicks to be cautious with their players' minutes. They also see some risk of a championship hangover, meaning a minute or two less and slightly higher injury risk. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=914), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [09-10](https://youtu.be/dlo7L8Ru91A?t=1127), [09-09](https://youtu.be/7BllEsdNLoM?t=1565))
+- Over the last third of last season he played under 30 minutes a game, took about one free throw a game and had a usage rate around 16 percent. Experts rated him around 130th per game, close to droppable, for the last two to three months of the season. (fact, 2026-09-19; [08-13](https://youtu.be/okN3fbHJtlA?t=862), [09-19](https://youtu.be/uarqbNA2dFk?t=924), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2166), [09-10](https://youtu.be/dlo7L8Ru91A?t=1483))
+- The Knicks are the reigning champions. (fact, 2026-09-14; [08-27](https://youtu.be/ZAyie8lKyYc?t=334), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515))
+- Experts rank him around the 90s or outside the top 100. (verdict, 2026-08-24; [08-19](https://youtu.be/J1Eg3uaAICU?t=1355), [08-24](https://youtu.be/g31YlwRe0XQ?t=1533))
 - He is a projected starter for the Knicks, next to Brunson, Hart, Anunoby and Towns. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=317))
-- Gavin expects the same small role this season but also his best season as a Knick. Mike Brown may cut his role if he struggles. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=862))
+- Gavin expects the same role this season but calls for his best season as a Knick. Mike Brown may cut his role if he struggles. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=862))
+- The Knicks are expected to be conservative over the first 30 or so games. Starters' minutes would be trimmed, with more rest on back-to-backs. (verdict, 2026-08-13, until first 30 or so games of the season; [08-13](https://youtu.be/okN3fbHJtlA?t=752))
+- Gavin predicts 54 wins for the Knicks and Josh about 50. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=752))
 
 **Durable**
-- His category profile is low volume and good percentages, with some steals. None of his categories is a league outlier, strong or weak. (fact, 2026-10-04; [08-30](https://youtu.be/Alwse2uXzD4?t=2068), stats)
-- His nine-cat totals flatter him, mostly because he plays every game. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2166), [09-10](https://youtu.be/dlo7L8Ru91A?t=1483))
-- He is very durable and rarely misses games. He played all 82 games in each of the last three seasons. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=991), [08-09](https://youtu.be/8d--aL_xxwE?t=1811), stats)
-- He is an elite defender off the ball. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=991))
-- He can be projected to play more games than the usual player. Josh warns that he will still get hurt at some point. (verdict, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1811))
+- Nine-cat season totals flatter him because he plays every game. Experts rate his per game worth in head-to-head lower than those totals suggest. (verdict, 2026-10-05; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2166), [08-30](https://youtu.be/Alwse2uXzD4?t=2068), [10-05](https://youtu.be/Q6YlQDvD-aY?t=4116), [09-10](https://youtu.be/dlo7L8Ru91A?t=1483))
+- His category profile is low volume and high percentage, with some steals and few free throw attempts. He has no category that is far above or below the league. (fact, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=2068), stats)
+- He rarely misses games. He played all 82 games in each of the last three seasons. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=991), [08-09](https://youtu.be/8d--aL_xxwE?t=1811), stats)
+- He is an elite off-ball defender. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=991))
+- He can be projected to play more games than a typical player. Josh warns that he will still get hurt at some point. (verdict, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1811))
 
 **Tags**
-- Current: `bust candidate` (overdrafted at ADP 72 to 77; ESPN rank 26 far too high), `sites disagree on price` (Yahoo value 12 USD, rank 81; ESPN value 28 USD, rank 26), `back-to-back risk` (Knicks plan more rest on back-to-backs early after the title run; until first 30 or so games)
-- Durable: `plays every game` (82 games in each of the last three seasons), `fits every build` (no weak category; small edges in 3PM, STL and TO), `9-cat fluff` (nine-cat totals carried by games played)
+- Current: `bust candidate` (Overpriced at Yahoo ADP 73 to 78 and ESPN rank 26; Josh values him at about 2 USD), `sites disagree on price` (ESPN rank 26 and value 28 USD vs Yahoo rank 81 and value 12 USD), `minutes limit` (Knicks plan to trim starters' minutes early in the season; until first 30 or so games of the season), `back-to-back risk` (Knicks plan more rest on back-to-backs early in the season; until first 30 or so games of the season), `winning team` (Reigning champions; 50 to 54 wins predicted)
+- Durable: `plays every game` (82 games in each of the last three seasons), `9-cat fluff` (Value comes from games played; per game line is ordinary), `fits every build` (No weak category flagged)
 
-**Note.** Bridges is a safe-games filler with no weak category, so he fits any build. He does not lift any one category, and experts value him around rank 90 rather than at his ADP of about 75 or ESPN's rank of 26. Pay near our league's 9 USD from last season or the Yahoo value of 12 USD, never the ESPN value of 28 USD. Early in the season, check his minutes and usage: the Knicks plan to trim starters' minutes for about 30 games, and he was under 30 minutes and droppable late last season.
+**Note.** He has no weak category, so he fits any build as a filler. His per game line is low volume (about 12 shots and 1.3 free throws a game), and most of his value comes from playing all 82 games. Every expert says he is overpriced. Yahoo values him at 12 USD with an average cost of 3.4 USD, while ESPN values him at 28 USD (rank 26). He went for 9 USD in our league last season, and Josh values him at about 2 USD in head-to-head. Bid only in the low single digits. Early in the season, check whether he stays under 30 minutes with about 16 percent usage while the Knicks limit starters over the first 30 or so games.
 
-<sub>11 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>12 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "0b66b8e3dc12",
+ "input_sha": "c2f2d9dc10f0",
  "note_count": 1,
- "built_at": "2026-10-04T17:49:22+00:00",
+ "built_at": "2026-10-05T20:03:02+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1854988,
-  "duration_ms": 41824
+  "cost_usd_list": 0.1890556,
+  "duration_ms": 37926,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He could be a bench microwave scorer for Minnesota and is an outside option for the open starting spot.",
+   "text": "He projects as a possible bench microwave scorer, with an outside chance to start.",
    "kind": "verdict",
    "date": "2026-08-19",
    "until": "",
@@ -28,68 +30,54 @@
    ]
   },
   {
-   "text": "Four Minnesota starters are set: LaMelo Ball, Anthony Edwards, Jaden McDaniels and Rudy Gobert. The fifth starting spot is open.",
+   "text": "Minnesota's fifth starting spot is open. Ball, Edwards, McDaniels and Gobert are set. Jonathan Kuminga is expected to start but is not guaranteed the spot, and Josh Green might start.",
    "kind": "fact",
-   "date": "2026-08-19",
+   "date": "2026-10-04",
    "until": "",
    "sources": [
-    "2mxpEpGU3H8:t1"
+    "2mxpEpGU3H8:t1",
+    "sTtFUy7IoJI:t1",
+    "n4KkK-OJjqA:t4"
    ]
   },
   {
-   "text": "Jonathan Kuminga is expected to take a starting spot, and Josh Green might start too.",
-   "kind": "verdict",
-   "date": "2026-08-26",
-   "until": "",
-   "sources": [
-    "sTtFUy7IoJI:t1"
-   ]
-  },
-  {
-   "text": "Minnesota may need to trade Josh Green to afford the Kuminga signing.",
-   "kind": "verdict",
-   "date": "2026-08-26",
-   "until": "",
-   "sources": [
-    "sTtFUy7IoJI:t2"
-   ]
-  },
-  {
-   "text": "Minnesota's bench is thin and has little scoring punch.",
+   "text": "Minnesota's bench is thin, has little scoring punch and has no ball handlers. That leaves room for a bench scorer.",
    "kind": "fact",
-   "date": "2026-08-19",
+   "date": "2026-10-02",
    "until": "",
    "sources": [
-    "2mxpEpGU3H8:t2"
+    "2mxpEpGU3H8:t2",
+    "ZYllcj4o6_A:t5"
    ]
   },
   {
-   "text": "Donte DiVincenzo will miss most of the season and Mike Conley is gone, so there are fewer guards ahead of him.",
-   "kind": "fact",
-   "date": "2026-08-19",
-   "until": "",
-   "sources": [
-    "HxQjagSTTAM:t0",
-    "9tb1ARBEmQU:t0",
-    "2mxpEpGU3H8:t0"
-   ]
-  },
-  {
-   "text": "Minnesota plays only two games in the week starting March 15, which is week 20 of our fantasy playoffs.",
+   "text": "Minnesota has a two-game week in the matchup starting March 15. That falls inside our fantasy playoffs.",
    "kind": "fact",
    "date": "2026-09-22",
    "until": "",
    "sources": [
     "gf_6GveiAls:t14",
-    "J1Eg3uaAICU:t0",
     "2mxpEpGU3H8:t4",
+    "J1Eg3uaAICU:t0",
     "QbdrhJd7LiA:t4"
    ]
   },
   {
-   "text": "He is ranked well outside the 144 players drafted in our league. He is not a draft target, but he is worth watching on waivers if he wins a role.",
+   "text": "Minnesota is expected to compete, with a prediction of 53 wins, so it should not rest players to tank.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-08-19",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:t3",
+    "Rqb5GdrSweY:t8"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "His projections show no strong category. His fantasy value depends on getting enough minutes as a scorer.",
+   "kind": "verdict",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats",
@@ -97,36 +85,24 @@
    ]
   }
  ],
- "durable": [],
  "tags": [
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Fifth starting spot is open. Kuminga is expected to start and Josh Green might start.",
-   "until": "",
-   "sources": [
-    "2mxpEpGU3H8:t1",
-    "sTtFUy7IoJI:t1",
-    "2mxpEpGU3H8:p21"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "role up",
-   "channel": "current",
-   "detail": "Possible bench scorer role on a thin bench. Projections are near 21 minutes, up from 12.4 last season.",
+   "detail": "Competes with Jonathan Kuminga and Josh Green for the open fifth starting spot and wing minutes",
    "until": "",
    "sources": [
     "2mxpEpGU3H8:p21",
-    "2mxpEpGU3H8:t2",
-    "stats"
+    "2mxpEpGU3H8:t1",
+    "sTtFUy7IoJI:t1",
+    "n4KkK-OJjqA:t4"
    ],
    "new_meaning": ""
   },
   {
    "name": "waiver watch",
    "channel": "current",
-   "detail": "Yahoo rank 222 and ESPN rank 292, both with 0 USD value.",
+   "detail": "Ranked outside the top 144 on both sites. Worth watching if he wins a starting or bench scorer role.",
    "until": "",
    "sources": [
     "stats",
@@ -137,17 +113,58 @@
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "Two-game week starting March 15 (our week 20).",
+   "detail": "Minnesota has a two-game week starting March 15",
    "until": "",
    "sources": [
     "gf_6GveiAls:t14",
-    "J1Eg3uaAICU:t0",
     "2mxpEpGU3H8:t4",
+    "J1Eg3uaAICU:t0",
     "QbdrhJd7LiA:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "thin rotation",
+   "channel": "current",
+   "detail": "Thin Minnesota bench with little scoring punch",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:t2",
+    "ZYllcj4o6_A:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "53 wins predicted",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low shutdown risk",
+   "channel": "current",
+   "detail": "Minnesota is competitive and not expected to tank",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:t8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "stable starters",
+   "channel": "durable",
+   "detail": "Finch rarely changes starters unless someone is hurt",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:t1"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Yahoo ranks him 222 and ESPN 292, both at 0 USD, so he should go undrafted in our 144-player auction. The projections roughly double his minutes, but even then they show no category outlier, only modest scoring and low turnovers. Early in the season, check whether he wins the open fifth starting spot or the bench scorer role over Kuminga and Josh Green before you spend FAB on him, and keep in mind Minnesota's two-game week in playoff week 20.",
+ "note": "Shannon is not a draft target. He ranks 222 on Yahoo and 292 on ESPN with a value of 0 on both, which puts him well outside our 144 drafted players. No category stands out: even Yahoo's higher projection (11.2 points on 8.6 shots) has him below the pool in most categories. Early in the season, check whether he wins Minnesota's open fifth starting spot or a steady bench scorer role. Keep in mind that Minnesota has a two-game week in our playoffs.",
  "rejected": []
 }

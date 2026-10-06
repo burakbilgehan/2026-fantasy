@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 5 | 1.5 | 102 | 2 | 1.9 | 102 | 10 |
+| 2026-27 | 5 | 1.5 | 102 | 2 | 2.0 | 102 | 10 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,23 +30,26 @@
 </details>
 
 **Current**
-- He joined the Denver Nuggets this offseason. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=170))
-- He is expected to come off the bench for Denver behind starters Jamal Murray, Christian Braun, Cam Johnson, Aaron Gordon and Nikola Jokic. Experts expect him to get the most bench minutes but in a smaller role than last season. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1134), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307), [09-10](https://youtu.be/dlo7L8Ru91A?t=1912), [09-19](https://youtu.be/uarqbNA2dFk?t=2648), [09-22](https://youtu.be/QbdrhJd7LiA?t=1831))
-- Experts worry about how his game fits during the minutes he shares with Jokic. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1134))
-- His upside case: one injury to Braun or Johnson could push him to about 32 minutes, 19 points and five assists. One expert also expects Denver to move Cam Johnson by the trade deadline, which would open the same role. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1314), [07-31](https://youtu.be/keNupMSHp1Y?t=903), [08-02](https://youtu.be/TOn-D1SV7a8?t=226))
-- Experts agree he is not a top 100 player this season. His fair value is around rank 135 to 140, and taking him at an ESPN top 100 price is a bad pick. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1257), [09-19](https://youtu.be/uarqbNA2dFk?t=2648), [09-22](https://youtu.be/QbdrhJd7LiA?t=1831), [07-13](https://youtu.be/Rqb5GdrSweY?t=1875))
+- Experts agree he should not be drafted inside the top 100. They put his fair value around rank 135 to 140. In auction terms, the newest call values him at 1 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3834), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1257), [09-22](https://youtu.be/QbdrhJd7LiA?t=1831), [09-19](https://youtu.be/uarqbNA2dFk?t=2648), [07-13](https://youtu.be/Rqb5GdrSweY?t=1875))
+- He went for 3 USD in an expert mock auction. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3834))
+- DeRozan joined the Denver Nuggets this offseason. Peyton Watson left the team. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=170))
+- He is projected to come off the bench and to play the most bench minutes, in a lower-minute role. The projected starters are Jamal Murray, Christian Braun, Cam Johnson, Aaron Gordon and Nikola Jokic. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1134), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307), [09-10](https://youtu.be/dlo7L8Ru91A?t=1912), [09-19](https://youtu.be/uarqbNA2dFk?t=2648), [09-22](https://youtu.be/QbdrhJd7LiA?t=1831))
+- Experts worry about how his minutes fit with Jokic's. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1134))
+- His upside case: one injury to Braun or Johnson could push him to about 32 minutes, with about 19 points and five assists. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1314))
 - Denver plays 43 games through March 28 and has only 14 back-to-backs, one of the lowest counts in the league. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678))
+- Even off the bench, he should still score and help FT%. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1912))
+- Denver may trade starters during the season. One expert expects at least two of last year's starters, including Cam Johnson, to be gone by the deadline. That could open minutes for him. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=903), [08-02](https://youtu.be/TOn-D1SV7a8?t=226))
+- Denver is projected to win about 50 games. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1746))
 
 **Durable**
-- Good FT% on solid volume is his best category, and he keeps turnovers low for a scorer. (verdict, 2026-10-04; [09-10](https://youtu.be/dlo7L8Ru91A?t=1912), stats)
-- He makes very few threes and grabs few rebounds for a forward. (fact, 2026-10-04; stats)
-- He is a great scorer. Teams must adjust for him on both ends because of his spacing and defensive limitations. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=205))
+- For a forward, he makes few threes and grabs few rebounds. (fact, 2026-10-05; stats)
+- He is a great scorer. His team must make accommodations for him on offense and defense because of his spacing and defensive limitations. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=205))
 - He is 37 years old. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2648))
 
 **Tags**
-- Current: `new team` (Joined Denver), `role down` (Bench role in Denver after starting at 31 minutes last season), `handcuff` (About 32 minutes, 19 points and 5 assists if Braun or Cam Johnson is out), `bust candidate` (At an ESPN top 100 price), `few back-to-backs` (Denver has 14 back-to-backs)
-- Durable: `age decline watch` (37 years old, minutes falling), `punt 3PM fit`, `punt REB fit`, `plays every game` (77 or more games in each of the last three seasons)
+- Current: `new team` (joined Denver), `role down` (projected bench role with lower minutes behind Braun and Johnson), `handcuff` (an injury to Braun or Johnson could give him about 32 minutes), `bust candidate` (at an ESPN rank or ADP inside the top 100), `few back-to-backs` (14 back-to-backs for Denver), `trades likely` (Cam Johnson or Christian Braun could be traded), `winning team` (projected for about 50 wins)
+- Durable: `age decline watch` (37 years old), `plays every game` (77 or more games in each of the last three seasons), `punt 3PM fit` (0.6 threes per game), `punt REB fit` (2.7 rebounds per game projected)
 
-**Note.** Yahoo and ESPN both rank him 102. The experts see him closer to rank 135 to 140, which sits at the very end of our 144-player pool. He is worth 1 to 3 USD (Yahoo average cost 1.5, ESPN 1.9), well below the 10 USD our league paid last season. He fits punt 3PM or punt REB builds that want points, FT% and low turnovers. Early in the season, check whether his minutes hold near 29 off the bench, and watch Braun's and Cam Johnson's health and any trade of them, since that is his path back to a starter's role.
+**Note.** Our league paid 10 USD for him last season. Yahoo now values him at 5 USD with an average cost of 1.5 USD, and ESPN at 2 USD. The experts put him around rank 135 to 140, which makes him a 1 USD end-of-draft pick or a waiver option in a 144-player draft. He fits punt 3PM or punt REB builds that want points, FT% and low turnovers. Early in the season, check his bench minutes and whether Braun or Johnson gets hurt or traded, because either would open a bigger role.
 
-<sub>8 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>9 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

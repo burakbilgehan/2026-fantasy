@@ -9,7 +9,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 8 | 9.2 | 88 | 6 | 3.0 | 69 | not drafted |
+| 2026-27 | 8 | 9.2 | 88 | 6 | 3.2 | 69 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -28,25 +28,28 @@
 </details>
 
 **Current**
-- Experts call a draft spot in the 60s too high and prefer him around picks 80 to 105. At pick 104 in a 9-cat mock he was a value, and an ESPN ADP of 112 is too low. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1728), [09-22](https://youtu.be/QbdrhJd7LiA?t=897), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2860), [09-09](https://youtu.be/7BllEsdNLoM?t=1941), [09-04](https://youtu.be/gerS7ibpaJo?t=984))
-- Experts expect a usage squeeze to cut his role. His usage could fall to about 18 to 20 percent, and Lloyd is avoiding him for this reason. (verdict, 2026-09-22; [07-13](https://youtu.be/Rqb5GdrSweY?t=947), [07-13](https://youtu.be/Rqb5GdrSweY?t=873), [09-09](https://youtu.be/7BllEsdNLoM?t=1941), [07-02](https://youtu.be/P6TNP-g0wzY?t=636), [09-10](https://youtu.be/W-R1dzem32s?t=1617), [09-04](https://youtu.be/gerS7ibpaJo?t=984), [09-22](https://youtu.be/QbdrhJd7LiA?t=897))
-- Experts doubt he can match his top 70 finish from last season. One projects him around 110th. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=897), [09-04](https://youtu.be/gerS7ibpaJo?t=984), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2860), [09-09](https://youtu.be/7BllEsdNLoM?t=1941))
-- Embiid is expected to miss games and LeBron to sit games. Philadelphia's usage will swing with their health. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1654), [09-10](https://youtu.be/W-R1dzem32s?t=779), [08-06](https://youtu.be/gTsfR5PxAMY?t=1819))
-- Nick Nurse should still give him about 34 minutes, which keeps his steals useful. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1941))
-- Philadelphia added Jaylen Brown and LeBron James, and Joel Embiid is healthy. (fact, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=963), [08-06](https://youtu.be/gTsfR5PxAMY?t=141))
-- Philadelphia has 13 back-to-backs, and three of them fall in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148))
-- He is projected to start at guard next to Tyrese Maxey, Jaylen Brown, LeBron James and Joel Embiid. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=412), [08-06](https://youtu.be/gTsfR5PxAMY?t=474))
+- In an auction mock, Josh valued him at about 10 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4417))
+- Experts call him too expensive at an ADP of 63 to 66 or a 13 USD auction price. They also say he goes too late past pick 100 (ESPN ADP 112, a mock draft fall to pick 104). One expert would take him around picks 80 to 90. (verdict, 2026-09-24; [09-04](https://youtu.be/gerS7ibpaJo?t=984), [09-09](https://youtu.be/7BllEsdNLoM?t=1941), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2860), [09-24](https://youtu.be/_vbAP5y182A?t=1728))
+- Experts doubt he can repeat last season's top 70 finish. One sees him ending around 110th, another says he will drop but not that far. (verdict, 2026-09-17; [09-04](https://youtu.be/gerS7ibpaJo?t=984), [09-09](https://youtu.be/7BllEsdNLoM?t=1941), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2860))
+- Experts expect Embiid to miss games and LeBron and the other stars to sit some games for load management. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1654), [08-06](https://youtu.be/gTsfR5PxAMY?t=1819))
+- Experts expect his usage to drop to about 18 to 20 percent because he shares the ball with Maxey, Brown, Embiid and LeBron. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1941), [07-13](https://youtu.be/Rqb5GdrSweY?t=947), [07-13](https://youtu.be/Rqb5GdrSweY?t=873), [08-26](https://youtu.be/sTtFUy7IoJI?t=1944), [09-04](https://youtu.be/gerS7ibpaJo?t=963), [09-10](https://youtu.be/W-R1dzem32s?t=1617))
+- Nick Nurse should still give him about 34 minutes a night. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1941))
+- Philadelphia added Jaylen Brown and LeBron James, and Joel Embiid is healthy. (fact, 2026-09-04; [08-06](https://youtu.be/gTsfR5PxAMY?t=141), [09-04](https://youtu.be/gerS7ibpaJo?t=963))
+- Philadelphia has 13 back-to-backs this season, three of them in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148))
+- He is projected to start for Philadelphia next to Tyrese Maxey, Jaylen Brown, LeBron James and Joel Embiid. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=474), [08-06](https://youtu.be/gTsfR5PxAMY?t=412), [07-02](https://youtu.be/P6TNP-g0wzY?t=1389))
 - If the starting lineup does not fit, he is the starter most likely to move to the bench. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=474))
+- Mark projects Philadelphia for about 51 to 52 wins, with growing pains in October and November. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1819))
+- Lloyd says he is avoiding him because of the Philadelphia usage squeeze. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=636))
 
 **Durable**
-- Steals are his best category, and he rebounds well for a guard. (fact, 2026-10-04; stats, [09-09](https://youtu.be/7BllEsdNLoM?t=1941))
-- Nick Nurse gives his starters and guards very heavy minutes. (fact, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1956), [08-06](https://youtu.be/gTsfR5PxAMY?t=556))
-- His rookie season beat expectations. He was drafted around ADP 97, finished 62nd in category leagues and was top 50 late in the season. (fact, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=919))
+- Steals are his best category. (verdict, 2026-10-05; stats, [09-09](https://youtu.be/7BllEsdNLoM?t=1941))
+- Nick Nurse plays his starters, and his guards in particular, very heavy minutes. (fact, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1956), [08-06](https://youtu.be/gTsfR5PxAMY?t=556), [09-10](https://youtu.be/W-R1dzem32s?t=779))
+- He was better than expected as a rookie. Drafted around ADP 97, he finished 62nd in category leagues and was top 50 late in the season. (fact, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=919))
 
 **Tags**
-- Current: `role down` (Usage squeezed by Jaylen Brown, LeBron James, a healthy Embiid and Maxey), `bust candidate` (At a Yahoo ADP of 63 to 66 and a 13 USD auction price), `sites disagree on price` (Yahoo average cost 9.2 USD vs ESPN 3.0 USD; ESPN ADP 112 vs Yahoo ADP 63), `bad playoff schedule` (Philadelphia has three back-to-backs in the fantasy playoffs)
-- Durable: none
+- Current: `usage competition` (Shares the ball with Maxey, Jaylen Brown, Embiid and LeBron), `role down` (Usage expected to drop to about 18 to 20 percent), `bust candidate` (At ADP 63 to 66 or a 13 USD auction price), `sites disagree on price` (Yahoo ADP 63 to 66 versus ESPN ADP 112), `concentrated usage` (Maxey, Embiid, LeBron and Brown), `winning team` (Projected 51 to 52 wins), `bad playoff schedule` (Three back-to-backs in the fantasy playoffs)
+- Durable: `heavy starter minutes` (Nick Nurse, about 34 minutes expected for him)
 
-**Note.** Experts agree a pick in the 60s is too high but see him as a value around picks 80 to 105. That fits his Yahoo rank of 88 and a price of 8 to 9 USD, so do not chase him past about 10 USD, and the 3.0 USD ESPN cost shows he can come cheap. He projects about 1.5 steals and 5.7 rebounds, but his 43.8 FG% on 13 shots a game is his weakest category, so he suits builds that do not lean on FG%. Early in the season, check his usage and whether he stays in the starting five with all four stars healthy, and how much his role grows when Embiid or LeBron sit.
+**Note.** Experts agree he will lose usage to Maxey, Brown, Embiid and LeBron. They still see a fair price around picks 80 to 110 and about 10 USD, which is close to his Yahoo average cost of 9.2 USD and above ESPN's 3.2 USD. He can help builds that chase steals and guard rebounds. His 43.8 FG% on about 13.5 attempts is a small drag, so he fits better next to FG% anchors. Early in the season, check whether he holds about 34 minutes and his starting job, and how his usage changes when Embiid or LeBron sit.
 
-<sub>11 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>12 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 30 | 32.6 | 29 | 25 | 42.4 | 30 | 31 |
+| 2026-27 | 30 | 32.6 | 29 | 25 | 42.9 | 30 | 31 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,21 +30,28 @@
 </details>
 
 **Current**
-- Experts agree his market price is too high for category leagues. A Yahoo ADP of 23 or an early round 3 pick is too soon. Around pick 39 is fair, and one expert has him at 48. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=720), [09-24](https://youtu.be/_vbAP5y182A?t=791), [09-19](https://youtu.be/uarqbNA2dFk?t=567), [09-17](https://youtu.be/DubdKKhMWHo?t=783), [09-09](https://youtu.be/7BllEsdNLoM?t=1555), [08-30](https://youtu.be/Alwse2uXzD4?t=1392), [08-19](https://youtu.be/J1Eg3uaAICU?t=1046))
-- The Knicks are expected to be careful with their starters early: trimmed minutes and more rest on back-to-backs. (verdict, 2026-09-22, until first 30 or so games; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [09-22](https://youtu.be/QbdrhJd7LiA?t=914), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515))
-- The Knicks played two extra months in their title run. Experts expect a possible Finals hangover, so he may start slow and lose some production to fatigue. (verdict, 2026-09-19; [08-19](https://youtu.be/J1Eg3uaAICU?t=1077), [08-11](https://youtu.be/OdDkXFhoKsc?t=1025), [09-09](https://youtu.be/7BllEsdNLoM?t=1555), [09-19](https://youtu.be/uarqbNA2dFk?t=567), [09-09](https://youtu.be/7BllEsdNLoM?t=1565), [09-10](https://youtu.be/dlo7L8Ru91A?t=1127))
-- He is projected to start at point guard for the Knicks, with about 31 percent usage and 35 minutes. (verdict, 2026-09-09; [08-13](https://youtu.be/okN3fbHJtlA?t=317), [09-09](https://youtu.be/7BllEsdNLoM?t=1555))
+- In a mock auction, Josh valued him at about 18 USD and bid up to 19 USD. He went for 20 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1298))
+- Experts value him as a fourth-round player in category leagues, around picks 39 to 48. Early round 3 is too soon, and his Yahoo ADP in the 20s is too high. One expert gives a best case of 22nd and a worst case of 91st. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=720), [09-24](https://youtu.be/_vbAP5y182A?t=791), [09-19](https://youtu.be/uarqbNA2dFk?t=567), [09-17](https://youtu.be/DubdKKhMWHo?t=783), [08-30](https://youtu.be/Alwse2uXzD4?t=1392), [08-19](https://youtu.be/J1Eg3uaAICU?t=1046), [08-11](https://youtu.be/OdDkXFhoKsc?t=1025), [09-09](https://youtu.be/7BllEsdNLoM?t=1555), [07-07](https://youtu.be/ME-r173X5b0?t=1998))
+- The Knicks are expected to be careful with their starters over the first 30 or so games. That means trimmed minutes and more rest on back-to-backs. (verdict, 2026-09-22, until first 30 or so games; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [09-22](https://youtu.be/QbdrhJd7LiA?t=914), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [09-10](https://youtu.be/dlo7L8Ru91A?t=1127))
+- Experts worry about a Finals hangover. He may start slow, lose some production to fatigue and have his minutes protected. (verdict, 2026-09-19; [08-19](https://youtu.be/J1Eg3uaAICU?t=1077), [08-11](https://youtu.be/OdDkXFhoKsc?t=1025), [09-19](https://youtu.be/uarqbNA2dFk?t=567), [09-09](https://youtu.be/7BllEsdNLoM?t=1555), [09-09](https://youtu.be/7BllEsdNLoM?t=1565))
+- He played two extra months in the Knicks' championship run and was Finals MVP. (fact, 2026-09-09; [08-19](https://youtu.be/J1Eg3uaAICU?t=1077), [07-07](https://youtu.be/ME-r173X5b0?t=1998), [09-09](https://youtu.be/7BllEsdNLoM?t=1565))
+- He is projected at about 31 percent usage and 35 minutes. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1555))
 - He had wrist surgery after the playoffs. He is expected to be ready for opening night. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=2078))
+- He is the projected starting guard next to Bridges, Hart, Anunoby and Towns. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=317))
+- The Knicks are projected to win about 50 to 54 games. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=752))
 
 **Durable**
-- Experts rate him much better in points leagues than in category leagues. He gives points, good free throws and decent assists. He gives little in rebounds, steals and blocks. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=575), [09-16](https://youtu.be/2A2JbUN-kc0?t=840), [09-09](https://youtu.be/7BllEsdNLoM?t=1546), [08-11](https://youtu.be/OdDkXFhoKsc?t=1025), [09-07](https://youtu.be/E-KmhvyZ2CU?t=730), [07-07](https://youtu.be/ME-r173X5b0?t=1998), [09-17](https://youtu.be/DubdKKhMWHo?t=820), [08-19](https://youtu.be/J1Eg3uaAICU?t=1063), [09-01](https://youtu.be/80kfLVnFQ_s?t=662))
-- He is a high-usage scorer. Points are his standout category and a real outlier against the league. (fact, 2026-09-17; stats, [09-17](https://youtu.be/DubdKKhMWHo?t=820), [08-19](https://youtu.be/J1Eg3uaAICU?t=1063), [07-07](https://youtu.be/ME-r173X5b0?t=1998), [09-07](https://youtu.be/E-KmhvyZ2CU?t=730))
-- His blocks are very low, even for a guard. (fact, 2026-09-17; stats, [09-17](https://youtu.be/DubdKKhMWHo?t=820), [08-19](https://youtu.be/J1Eg3uaAICU?t=1063), [07-07](https://youtu.be/ME-r173X5b0?t=1998))
+- He is worth much more in points leagues than in category leagues. Points-based rankings overrate him for us. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=575), [09-16](https://youtu.be/2A2JbUN-kc0?t=840), [09-09](https://youtu.be/7BllEsdNLoM?t=1546), [08-11](https://youtu.be/OdDkXFhoKsc?t=1025), [09-01](https://youtu.be/80kfLVnFQ_s?t=662), [09-07](https://youtu.be/E-KmhvyZ2CU?t=730))
+- He is a high-usage scorer. Points are his standout category. (fact, 2026-09-17; stats, [09-17](https://youtu.be/DubdKKhMWHo?t=820), [09-07](https://youtu.be/E-KmhvyZ2CU?t=730), [07-07](https://youtu.be/ME-r173X5b0?t=1998))
+- His free throw shooting is good. (fact, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=820), [08-19](https://youtu.be/J1Eg3uaAICU?t=1063), [09-07](https://youtu.be/E-KmhvyZ2CU?t=730))
+- He barely rebounds and gets few steals. His blocks are very poor, even for a guard. (fact, 2026-09-17; stats, [09-17](https://youtu.be/DubdKKhMWHo?t=820), [08-19](https://youtu.be/J1Eg3uaAICU?t=1063), [07-07](https://youtu.be/ME-r173X5b0?t=1998))
+- Experts disagree on his field goal percentage. Some call it good or solid, one calls it below average. Projections put his FG% impact near the pool average. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=820), [09-07](https://youtu.be/E-KmhvyZ2CU?t=730), [07-07](https://youtu.be/ME-r173X5b0?t=1998), [08-19](https://youtu.be/J1Eg3uaAICU?t=1063), stats)
+- Experts call his assists average to decent. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=820), [08-19](https://youtu.be/J1Eg3uaAICU?t=1063), [07-07](https://youtu.be/ME-r173X5b0?t=1998))
 
 **Tags**
-- Current: `bust candidate` (Yahoo ADP 23 and early round 3 seen as too high for categories; fair around pick 39), `slow start` (Finals hangover and Knicks expected to trim starters' minutes early; until first 30 or so games), `back-to-back risk` (Knicks expected to rest starters more on back-to-backs; until first 30 or so games), `sites disagree on price` (Yahoo average cost 32.6 USD, ESPN average cost 42.4 USD)
-- Durable: `PTS specialist` (About 26 points per game on high usage), `punt BLK fit` (About 0.1 blocks per game, weak even for a guard), `points league player` (Round 2 in points leagues, round 4 in categories)
+- Current: `bust candidate` (experts value him around picks 39 to 48; Yahoo ADP in the 20s and ESPN average cost 42.9 USD are too high), `slow start` (Finals hangover and Knicks' careful plan for starters early in the season; until first 30 or so games), `back-to-back risk` (Knicks plan more rest on back-to-backs early in the season; until first 30 or so games), `winning team` (defending champions, projected 50 to 54 wins), `sites disagree on price` (Yahoo average cost 32.6 USD vs ESPN average cost 42.9 USD)
+- Durable: `PTS specialist` (high-usage scorer, about 26 points per game), `punt BLK fit` (blocks very poor even for a guard), `points league player` (round 2 in points leagues, round 4 in categories)
 
-**Note.** Yahoo values him at 30 USD and he went for 31 USD in our league last season. His Yahoo average cost is 32.6 USD and his ESPN average cost is 42.4 USD. Experts see him as a round 4 player in categories (around pick 39 to 48), so let others pay more than about 30 USD. He fits punt BLK builds and teams that want points, threes, free throws and assists from a guard. Early in the season, check his minutes under the Knicks' careful plan for the first 30 or so games, how his wrist looks after surgery, and whether he sits on back-to-backs.
+**Note.** The market prices Brunson as a top-30 player: Yahoo average cost 32.6 USD, ESPN 42.9 USD, and 31 USD in our league last season. The experts see a fourth-round category player (picks 39 to 48) and valued him at 18 to 20 USD in a mock auction, so let someone else pay 30 USD or more. He fits builds that want points, FT% and threes from a guard, and suits punt BLK. Early in the season, check his minutes and rest days under the Knicks' careful plan for the first 30 or so games, and check his wrist after surgery.
 
-<sub>20 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>21 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

@@ -51,7 +51,7 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 57 | 8.2 | 81 | 3.6 | 20 | A FG% and rebounds anchor who fits punt ST and punt 3PM; pay a fair price, not last year's, and keep Indiana's weak playoff schedule in mind. |
+| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 57 | 8.2 | 81 | 3.5 | 20 | A FG% and rebounds anchor who fits punt ST and punt 3PM; pay a fair price, not last year's, and keep Indiana's weak playoff schedule in mind. |
 
 ### Late flyers
 
@@ -59,9 +59,9 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 |---|---|---|---|---|---|---|---|---|
 | [Khaman Maluach](../profiles/players/khaman-maluach.md) | PHX | C | 118 | 1.5 | 202 | 0.1 | not drafted | Blocks with help in rebounds and FG%, a top 75 ceiling, and a fit with punt AST and punt ST if he starts and plays 24 or more minutes. |
 | [Yves Missi](../profiles/players/yves-missi.md) | NOP | C | 143 | - | 164 | 0.0 | 2 | A blocks specialist with low-volume FG% and few turnovers whose low steals cost a punt ST team nothing, as long as he starts over Derik Queen. |
-| [Aaron Gordon](../profiles/players/aaron-gordon.md) | DEN | F,C | 127 | 1.5 | 154 | 0.4 | 2 | An average-plus line with a slight FG% edge that suits a team punting both steals and blocks, but his health and minutes are open questions. |
+| [Aaron Gordon](../profiles/players/aaron-gordon.md) | DEN | F,C | 127 | 1.5 | 154 | 0.5 | 2 | An average-plus line with a slight FG% edge that suits a team punting both steals and blocks, but his health and minutes are open questions. |
 | [Nikola Vučević](../profiles/players/nikola-vucevic.md) | ORL | C | 177 | 0.0 | 103 | 1.1 | 17 | A backup center who gives rebounds, good FT% and few turnovers but thin blocks; he only becomes more than a bench body if Wendell Carter Jr. gets hurt. |
-| [Isaiah Stewart](../profiles/players/isaiah-stewart.md) | MEM | F,C | 174 | 0.0 | 146 | 0.0 | not drafted | About 1.6 blocks and helpful low-volume FG%, but he is worth a pick only if Zach Edey stays out. |
+| [Isaiah Stewart](../profiles/players/isaiah-stewart.md) | MEM | F,C | 174 | 0.0 | 146 | 0.1 | not drafted | About 1.6 blocks and helpful low-volume FG%, but he is worth a pick only if Zach Edey stays out. |
 
 ### Waiver watch
 

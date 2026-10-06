@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 11 | 7.2 | 82 | 9 | 4.6 | 55 | 10 |
+| 2026-27 | 11 | 7.2 | 82 | 9 | 4.7 | 55 | 10 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,27 +30,31 @@
 </details>
 
 **Current**
-- Minnesota has a two-game week in the matchup that starts March 15. That is week 20, in the middle of our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
-- Experts disagree on his price at an ADP around 70. One calls 70 to 72 too high because he is past 30 and may lose blocks, FG% and usage. Another calls ADP in the 70s undervalued compared with Clingan and Kessler. That expert expects double-digit rebounds, two blocks and 60%+ FG, with only small age-related drops in minutes and games. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=868), [09-14](https://youtu.be/t4n9MAP2_14?t=1915))
-- Lobs from LaMelo Ball are a plus, and his usage could go up slightly. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=868), [08-19](https://youtu.be/2mxpEpGU3H8?t=563))
-- His range is tight for a round six pick. ADP is 71.3, with a best case of 59th and a worst case of 116th. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1375))
-- Joan Beringer is the only backup center behind him. Naz Reid and Julius Randle are gone. (fact, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1634), [07-21](https://youtu.be/RyzcCGChYgs?t=1214))
-- He will have to cover on defense for Kuminga and LaMelo Ball, who are poor defenders. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=647))
-- LaMelo Ball is now his teammate in Minnesota. Ball and Gobert are set as starters with Edwards and McDaniels. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=236), [08-19](https://youtu.be/2mxpEpGU3H8?t=603))
+- Minnesota lost Naz Reid and Julius Randle. Jonathan Kuminga, a poor rebounder, has arrived. Joan Beringer is the only backup center and may not be ready. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1889), [10-04](https://youtu.be/n4KkK-OJjqA?t=669), [09-04](https://youtu.be/gerS7ibpaJo?t=1634), [07-21](https://youtu.be/RyzcCGChYgs?t=1214))
+- He should have to do more this season. Beringer not being ready could mean extra minutes for him. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1889))
+- The newest call says he is a points league target, and less of one in category leagues. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1889))
+- The team is short on size and defensive rebounding, and the bench is thin. (fact, 2026-10-02; [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [10-02](https://youtu.be/ZYllcj4o6_A?t=2323))
+- Minnesota has a two-game week in the matchup starting March 15. That is week 20 of our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
+- LaMelo Ball throwing lobs to him is a plus, and his usage could go up slightly with Ball on the team. (verdict, 2026-09-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=563), [09-19](https://youtu.be/uarqbNA2dFk?t=868))
+- Experts disagree on his price. One calls an ADP in the 70s undervalued compared with Clingan and Kessler and expects double-digit rebounds, two blocks and 60%+ FG with only small age-related declines. Another says 70 to 72 is too high because, past 30, he may lose blocks, FG% and usage. (verdict, 2026-09-19; [09-14](https://youtu.be/t4n9MAP2_14?t=1915), [09-19](https://youtu.be/uarqbNA2dFk?t=868))
+- He has a tight range in round six: best case 59th, worst case 116th. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1375))
+- He will have to cover on defense for Kuminga and Ball, who are poor defenders. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=647))
+- He is one of four set starters, with LaMelo Ball, Anthony Edwards and Jaden McDaniels. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=603))
 - He is 34 and eligible for a contract extension. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1653))
-- He could be traded if Minnesota's season goes badly. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1653))
+- He could be traded if the season goes badly. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1653))
+- Minnesota should be competitive and is not expected to rest players to tank. One expert predicts 53 wins. (verdict, 2026-08-19; [07-13](https://youtu.be/Rqb5GdrSweY?t=1051), [08-19](https://youtu.be/2mxpEpGU3H8?t=1830))
 
 **Durable**
-- He makes big contributions in rebounds, blocks and FG% on solid volume. (fact, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1274), [07-07](https://youtu.be/ME-r173X5b0?t=2770), stats)
+- His strong categories are rebounds, blocks and FG%. All three are league outliers, and he averaged 11.5 rebounds last season. (fact, 2026-09-07; stats, [09-07](https://youtu.be/E-KmhvyZ2CU?t=1274), [07-07](https://youtu.be/ME-r173X5b0?t=2770))
 - He does not shoot from outside and makes no threes. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1496), stats)
-- Ben calls him a walking top 10 defense, a great screener and offensive rebounder, and durable. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1496))
-- He is a very poor free throw shooter. He shot 52.6% from the line last season, which was the second-worst FT impact in the league. (fact, 2026-08-09; [07-07](https://youtu.be/ME-r173X5b0?t=2770), [08-09](https://youtu.be/8d--aL_xxwE?t=1269), [07-16](https://youtu.be/-y6p5PYLf00?t=2123), stats)
-- His poor FT% barely matters to managers who punt FT%. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=2123))
+- He is an elite defender (a walking top 10 defense), a great screener and offensive rebounder, and durable. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1496))
+- He is a big FT% liability. He shot 52.6% from the line last season, the second-worst FT impact in the league. (fact, 2026-08-09; stats, [07-07](https://youtu.be/ME-r173X5b0?t=2770), [08-09](https://youtu.be/8d--aL_xxwE?t=1269), [07-16](https://youtu.be/-y6p5PYLf00?t=2123))
+- For managers punting FT%, his poor free throw shooting barely matters. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=2123))
 
 **Tags**
-- Current: `trade risk` (Extension eligible, could be moved if the season goes badly), `bad playoff schedule` (Two-game week starting March 15 (week 20)), `sites disagree on price` (Yahoo rank 82, ESPN rank 55)
-- Durable: `FG% anchor` (About 67% FG on 6.5 to 7 attempts), `REB specialist` (About 11 rebounds per game, strong offensive rebounder), `BLK specialist`, `FT% liability` (52.6% FT last season, projected near 60%), `no 3PM`, `punt FT fit`, `punt 3PM fit`, `Giannis build fit` (Drafted next to Giannis in an expert mock for rebounds, FG% and blocks), `plays every game` (Called durable), `age decline watch` (34, may lose blocks, FG% and usage)
+- Current: `role up` (Must do more without Reid and Randle. Possible extra minutes if Beringer is not ready), `trade risk` (Could be traded if the season goes badly), `bad playoff schedule` (Two-game week starting March 15 (our week 20)), `winning team` (53 wins predicted), `low shutdown risk`, `thin rotation` (Little frontcourt depth. Beringer is the only backup center), `sites disagree on price` (ESPN rank 55, Yahoo rank 82)
+- Durable: `REB specialist`, `BLK specialist`, `FG% anchor` (Very high FG% on modest volume), `FT% liability` (52.6% FT last season), `no 3PM`, `punt FT fit`, `punt 3PM fit`, `Giannis build fit` (Taken in a Giannis punt FT mock draft), `plays every game` (Called durable by experts), `age decline watch` (Age 34. Possible loss of blocks, FG% and usage), `stable starters` (Finch rarely changes starters unless someone is hurt), `points league player` (One expert calls him a points league target, less so in categories)
 
-**Note.** Gobert is a punt FT% center. He gives about 11 rebounds, 1.6 blocks and 67% FG, and his 52.6% FT last season makes him a big drag in builds that do not punt FT. Yahoo values him at 11 USD (average cost 7.2) and ESPN at 9 USD (4.6). He went for 10 USD in our league last season, so 5 to 10 USD is fair, and he is a strong buy for punt FT% teams. Early in the season, check his blocks and FG% for signs of age decline and see how his role changes next to LaMelo Ball. Also plan around Minnesota's two-game week in playoff week 20.
+**Note.** Gobert is a three-category center (REB, BLK, FG%) with a severe FT% hole and no threes. He fits punt FT builds, including Giannis builds, and costs very little (Yahoo average cost 7.2 USD, ESPN 4.7 USD, 10 USD in our league last season), so 8 to 11 USD is fair. Early in the season, check whether his blocks and FG% hold at age 34, and whether Beringer's absence gives him more minutes. Remember Minnesota's two-game week in our week 20.
 
-<sub>11 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>12 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

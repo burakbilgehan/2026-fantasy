@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 13 | 6.6 | 76 | 3 | 10.3 | 92 | 1 |
+| 2026-27 | 13 | 6.6 | 76 | 3 | 10.4 | 92 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -29,32 +29,33 @@
 </details>
 
 **Current**
-- The Spurs stagger Fox, Castle and Dylan Harper so that at least two are always on the floor. They may start all three together. (fact, 2026-09-30; [08-27](https://youtu.be/ZAyie8lKyYc?t=666), [09-30](https://youtu.be/BjXP9JODDSg?t=1311))
-- The guard rotation is crowded. More minutes for Harper and a healthy Fox would limit Castle's assists and his upside. One expert does not expect the Spurs to bench Castle or Fox. (verdict, 2026-09-30; [09-09](https://youtu.be/7BllEsdNLoM?t=1911), [09-09](https://youtu.be/7BllEsdNLoM?t=1991), [09-07](https://youtu.be/gJUBAJaHzlU?t=1083), [09-07](https://youtu.be/gJUBAJaHzlU?t=1060), [08-24](https://youtu.be/g31YlwRe0XQ?t=1048), [08-24](https://youtu.be/g31YlwRe0XQ?t=1055), [09-19](https://youtu.be/uarqbNA2dFk?t=844), [09-19](https://youtu.be/uarqbNA2dFk?t=1601), [09-04](https://youtu.be/gerS7ibpaJo?t=1249))
-- Experts fade him in category leagues at his Yahoo ADP of about 56. They say he goes too early in 9-cat drafts, including in round 5. One expert puts his auction value at about 3 USD. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1093), [09-19](https://youtu.be/uarqbNA2dFk?t=844), [08-30](https://youtu.be/Alwse2uXzD4?t=1310), [09-07](https://youtu.be/gJUBAJaHzlU?t=1083), [08-11](https://youtu.be/OdDkXFhoKsc?t=1289))
-- He is projected to have about the same usage as last season. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=699))
-- Late last season he shot 40% from three for two months. Earlier in the season his FG%, FT% and three-point shooting were very poor and he turned the ball over a lot. He made his free throws in the Finals. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1594), [09-04](https://youtu.be/gerS7ibpaJo?t=609), [08-27](https://youtu.be/ZAyie8lKyYc?t=1146))
-- For category leagues he is ranked in tier 6 among shooting guards and tier 7 among point guards. One expert calls him about right at his ESPN ADP of 75. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1364), [09-09](https://youtu.be/7BllEsdNLoM?t=1911), [08-30](https://youtu.be/Alwse2uXzD4?t=1310))
-- It is unclear if his late-season shooting is real. His category value depends on whether his three-point shooting holds. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1911), [09-07](https://youtu.be/gJUBAJaHzlU?t=1036))
-- He is a projected starter for the Spurs with De'Aaron Fox, Devin Vassell, Tobias Harris and Victor Wembanyama. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=524))
-- The Spurs used him as the primary initiator of their offense. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1114))
-- He is expected to lead the Spurs' three guards in minutes because he is versatile on both ends. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=919))
+- In an auction mock, the expert would be happy to see someone else pay more than 15 USD for him and called the price a bit high. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2846))
+- San Antonio is deep at guard. Experts say Fox's health and Harper's minutes make his role unclear and may cut his minutes and assist chances. Castle, Harper and Fox cannot all get bigger roles. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1790), [10-04](https://youtu.be/n4KkK-OJjqA?t=1767), [09-19](https://youtu.be/uarqbNA2dFk?t=844), [09-19](https://youtu.be/uarqbNA2dFk?t=1601), [09-09](https://youtu.be/7BllEsdNLoM?t=1911), [09-09](https://youtu.be/7BllEsdNLoM?t=1991), [09-07](https://youtu.be/gJUBAJaHzlU?t=1083), [09-07](https://youtu.be/gJUBAJaHzlU?t=1060), [08-24](https://youtu.be/g31YlwRe0XQ?t=1048), [08-24](https://youtu.be/g31YlwRe0XQ?t=1055))
+- Some experts do not expect the Spurs to bench him, and the Spurs may start Harper, Castle and Fox together. (verdict, 2026-09-30; [09-04](https://youtu.be/gerS7ibpaJo?t=1249), [09-30](https://youtu.be/BjXP9JODDSg?t=1311))
+- In category leagues experts avoid him at his Yahoo ADP of about 56 to 62 and call him a round 5 pick that goes too early. They rank him about 85th in categories, tier 7 at point guard and tier 6 at shooting guard. ESPN ADP 75 is about right for categories. (verdict, 2026-09-24; [09-19](https://youtu.be/uarqbNA2dFk?t=844), [09-07](https://youtu.be/gJUBAJaHzlU?t=1083), [08-30](https://youtu.be/Alwse2uXzD4?t=1310), [09-24](https://youtu.be/_vbAP5y182A?t=1093), [08-11](https://youtu.be/OdDkXFhoKsc?t=1289), [09-09](https://youtu.be/7BllEsdNLoM?t=1911), [09-10](https://youtu.be/W-R1dzem32s?t=1364))
+- He is projected to have usage similar to last season. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=699))
+- Experts are not sure whether his poor or his good shooting stretch from last season is real. His category value depends on whether his three-point shooting holds. One expert sees his shooting improving and notes he made his free throws in the Finals. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1911), [09-07](https://youtu.be/gJUBAJaHzlU?t=1036), [08-27](https://youtu.be/ZAyie8lKyYc?t=1146))
+- He is a projected starter for San Antonio next to De'Aaron Fox, Devin Vassell, Tobias Harris and Victor Wembanyama. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=524))
+- The Spurs used him as the primary initiator of the offense. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1114))
+- He is expected to lead the Spurs guard trio in minutes because of his versatility on both ends. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=919))
+- The Spurs stagger Fox, Castle and Dylan Harper so that at least two of them are always on the court. More three-guard lineups are expected this season. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=666))
+- San Antonio is in win-now mode. One expert predicts 63 wins, and the team could take the top seed in the West. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=152), [08-27](https://youtu.be/ZAyie8lKyYc?t=2403), [07-26](https://youtu.be/75Sk_4fkgIM?t=370))
 
 **Durable**
-- He is worth much more in points leagues than in category leagues. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=665), [09-04](https://youtu.be/gerS7ibpaJo?t=609), [08-30](https://youtu.be/Alwse2uXzD4?t=1310), [09-10](https://youtu.be/W-R1dzem32s?t=1364))
-- Experts call him a poor shooter in general. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=665), [08-30](https://youtu.be/Alwse2uXzD4?t=1321))
-- Experts say his good defense does not turn into many steals and blocks. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1929), [09-07](https://youtu.be/gJUBAJaHzlU?t=1036), [08-30](https://youtu.be/Alwse2uXzD4?t=1321))
-- His assists are elite and far above the pool. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1036), stats)
-- His free throw shooting is poor for a guard. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1036), [08-30](https://youtu.be/Alwse2uXzD4?t=1321), stats)
-- Turnovers are a real problem. His turnover rate is a league outlier. (verdict, 2026-08-30; [08-27](https://youtu.be/ZAyie8lKyYc?t=1046), [08-30](https://youtu.be/Alwse2uXzD4?t=1321), stats)
-- Creating and passing come more naturally to him, and more reliably, than shooting. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1032))
-- He is a versatile defender. He can guard positions one through three, sometimes fours and even small-ball fives. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=974))
-- He is much less comfortable scoring when he goes left. Defenses can force him left to slow him down. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2232))
+- He is worth much more in points leagues than in 9-cat category leagues. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=665), [08-30](https://youtu.be/Alwse2uXzD4?t=1310), [09-04](https://youtu.be/gerS7ibpaJo?t=609), [09-10](https://youtu.be/W-R1dzem32s?t=1364))
+- He is not a good shooter. His free throw shooting is poor and is weak for a guard. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=665), [09-07](https://youtu.be/gJUBAJaHzlU?t=1036), [08-30](https://youtu.be/Alwse2uXzD4?t=1321), stats)
+- His shooting swings between stretches. He shot 40% from three for the last two months of last season, after brutal shooting earlier in the season. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1594))
+- Experts say he gets few defensive stats for a good defender. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1929), [09-07](https://youtu.be/gJUBAJaHzlU?t=1036), [08-30](https://youtu.be/Alwse2uXzD4?t=1321))
+- His assists are elite, a strong outlier against the pool. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1036), stats)
+- He turns the ball over a lot. His turnovers are a league outlier on the weak side. (verdict, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1321), [08-27](https://youtu.be/ZAyie8lKyYc?t=1046), [09-19](https://youtu.be/uarqbNA2dFk?t=1594), stats)
+- Creating and passing come more naturally and repeatably to him than shooting. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1032))
+- He is a versatile defender who can guard positions one through three, sometimes fours and even small-ball fives. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=974))
+- He is much less comfortable scoring going left, and defenses that force him left can shut him down. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2232))
 
 **Tags**
-- Current: `minutes competition` (Dylan Harper and De'Aaron Fox), `bust candidate` (in category leagues at his Yahoo ADP of about 56), `sites disagree on price` (Yahoo value 13 USD, ESPN value 3 USD)
-- Durable: `AST specialist` (about 7.3 assists per game projected), `high TO` (about 3.3 turnovers per game projected), `punt FT fit` (about 74% FT, weak for a guard), `punt TO fit`, `points league player`
+- Current: `minutes competition` (De'Aaron Fox and Dylan Harper in a deep guard group), `usage competition` (Fox and Harper can cut his assist chances), `shared ball handling` (Three guards staggered, at least two always on court), `bust candidate` (In category leagues at Yahoo ADP 56 to 62), `deep rotation` (Deep at guard and forward), `winning team` (One expert predicts 63 wins)
+- Durable: `points league player` (Top 50 in fantasy points but about 85th in categories), `AST specialist` (Elite assists for a guard), `high TO` (About 3.3 turnovers per game projected), `punt TO fit`, `punt FT fit` (About 74% FT on 6 attempts projected), `streaky` (Shooting swung from brutal to 40% from three last season)
 
-**Note.** He went for 1 USD in our auction last year. This year Yahoo values him at 13 USD and ESPN at 3 USD, and the category experts fade him at his Yahoo ADP of about 56, so do not pay near Yahoo's number. His 7.3 projected assists help punt FT% and punt TO builds, but turnovers (z -2.2) and FT% cost those builds little, so his price should stay low. Early in the season, check whether his three-point shooting holds and how many minutes Dylan Harper gets.
+**Note.** Castle is an assist specialist with heavy turnovers and weak free throws. He fits best in a punt TO or punt FT% build, where his 7.3 projected assists and 1.3 steals count fully. The sites split on him: Yahoo value 13 USD with average cost 6.6 USD, ESPN value 3 USD with average cost 10.4 USD. He went for 1 USD in our league last season. Category experts call him overdrafted, so keep him near 5 to 10 USD unless you are punting turnovers. Early in the season, check how his minutes compare with Fox and Harper, whether his late-season three-point shooting holds, and his turnover rate.
 
-<sub>24 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>26 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

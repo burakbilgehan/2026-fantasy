@@ -8,27 +8,30 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "a2f45ac035b7",
+ "input_sha": "90f1858c0d3a",
  "note_count": 1,
- "built_at": "2026-10-04T17:31:28+00:00",
+ "built_at": "2026-10-05T19:49:28+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.0891662,
-  "duration_ms": 14987
+  "cost_usd_list": 0.1268702,
+  "duration_ms": 27577,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Golden State's depth is very poor. The team struggles to field a 10-man rotation.",
+   "text": "He is not among the projected Warriors starters. Previews list Curry, Podziemski, Lendeborg, Green and Porzingis or Horford.",
    "kind": "fact",
-   "date": "2026-08-22",
+   "date": "2026-09-30",
    "until": "",
    "sources": [
-    "LXZLrL90crE:t4"
+    "LXZLrL90crE:t1",
+    "MUbNYdjpUDM:t3"
    ]
   },
   {
-   "text": "Thin depth should push minutes up across the Golden State rotation.",
+   "text": "Golden State's depth is very poor and the team struggles to field a 10-man rotation, so minutes should go up across the rotation.",
    "kind": "verdict",
    "date": "2026-08-22",
    "until": "",
@@ -37,43 +40,64 @@
    ]
   },
   {
-   "text": "Golden State has 15 back-to-backs this season.",
+   "text": "Steve Kerr runs unpredictable rotations and often changes a set lineup a few games in, with lots of mixing among the wings.",
    "kind": "fact",
    "date": "2026-09-30",
    "until": "",
    "sources": [
-    "gf_6GveiAls:t4",
-    "MUbNYdjpUDM:t4"
+    "LXZLrL90crE:t2",
+    "MUbNYdjpUDM:t2"
    ]
   },
   {
-   "text": "Golden State's schedule is good for fantasy playoffs ending March 28.",
-   "kind": "verdict",
+   "text": "Curry is the only Warrior who creates his own shot, so the offense depends on him.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t2",
+    "2A2JbUN-kc0:t3",
+    "7BllEsdNLoM:t6"
+   ]
+  },
+  {
+   "text": "The Warriors are reportedly treating this season as a gap year. They may care about lottery odds and rest veterans.",
+   "kind": "fact",
    "date": "2026-09-30",
    "until": "",
    "sources": [
-    "MUbNYdjpUDM:t4"
+    "LXZLrL90crE:t0",
+    "MUbNYdjpUDM:t0"
+   ]
+  },
+  {
+   "text": "Experts expect Warriors players to fade as the season goes on.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "E-KmhvyZ2CU:t1"
+   ]
+  },
+  {
+   "text": "The Warriors have 15 back-to-backs, tied for second most, but their schedule is good for fantasy playoffs ending March 28.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t4",
+    "gf_6GveiAls:t4"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He scores by slipping screens and cutting to the basket off Steph Curry's gravity.",
+   "text": "He scores by slipping screens and cutting to the basket off Curry's gravity. He is not a shot creator.",
    "kind": "fact",
    "date": "2026-08-22",
    "until": "",
    "sources": [
     "LXZLrL90crE:p26"
-   ]
-  },
-  {
-   "text": "Steve Kerr runs unpredictable rotations and often changes a set starting lineup a few games later, with lots of mixing among the wings.",
-   "kind": "fact",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "MUbNYdjpUDM:t2",
-    "LXZLrL90crE:t2"
    ]
   }
  ],
@@ -81,18 +105,72 @@
   {
    "name": "needs playmaker",
    "channel": "durable",
-   "detail": "Scores off screens and cuts created by Curry's gravity",
+   "detail": "Scores off cuts and slipped screens created by Curry's gravity",
    "until": "",
    "sources": [
-    "LXZLrL90crE:p26",
-    "ZYllcj4o6_A:t2"
+    "LXZLrL90crE:p26"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "thin rotation",
+   "channel": "current",
+   "detail": "Warriors struggle to field a 10-man rotation; minutes rise across the roster",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Kerr changes lineups often and mixes the wings",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:t2",
+    "MUbNYdjpUDM:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "concentrated usage",
+   "channel": "current",
+   "detail": "Curry is the only self-creator",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t2",
+    "2A2JbUN-kc0:t3",
+    "7BllEsdNLoM:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "tank risk",
+   "channel": "current",
+   "detail": "Reported gap year; may rest veterans for lottery odds",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:t0",
+    "MUbNYdjpUDM:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "15 back-to-backs, tied for second most",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t4",
+    "MUbNYdjpUDM:t4"
    ],
    "new_meaning": ""
   },
   {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "Team schedule good for playoffs ending March 28, but 15 back-to-backs",
+   "detail": "Good schedule for playoffs ending March 28",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:t4"
@@ -100,6 +178,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Neither site expects him to be drafted. Both value him at 0 USD, with a Yahoo rank of 266 and an ESPN rank of 196. That is outside the 144 players our league drafts, and he went undrafted last season. His useful parts are an efficient FG% (58.1% projected) and few turnovers (0.8 per game), but he gives little in points, threes and assists on about 15 minutes a game. Early in the season, watch whether Golden State's thin depth gives him more minutes with Curry. He only becomes worth a waiver pickup if his minutes clearly go up.",
+ "note": "Both Yahoo and ESPN value him at 0 USD (rank 266 on Yahoo, 196 on ESPN), so he falls well outside our 144-player draft and is a waiver player. His fantasy value is efficient FG% (58.3% on 5.7 attempts last season) and few turnovers (0.8) in about 15 minutes, with little in points, threes or assists, so he only matters if Golden State's thin depth pushes his minutes up. Early in the season, watch whether his minutes climb clearly above 16 and whether Kerr's lineup changes put him on the floor with Curry.",
  "rejected": []
 }

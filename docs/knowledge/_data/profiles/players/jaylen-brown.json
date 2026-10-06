@@ -8,27 +8,31 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "0e0a83607d23",
- "note_count": 20,
- "built_at": "2026-10-04T17:36:06+00:00",
+ "input_sha": "79075483ea81",
+ "note_count": 22,
+ "built_at": "2026-10-05T19:53:03+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.3004542,
-  "duration_ms": 73432
+  "cost_usd_list": 0.24070620000000004,
+  "duration_ms": 74113,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Philadelphia acquired him by trade from Boston.",
+   "text": "Philadelphia acquired him from Boston in a trade for Paul George.",
    "kind": "fact",
-   "date": "2026-07-02",
+   "date": "2026-10-04",
    "until": "",
    "sources": [
-    "P6TNP-g0wzY:p0"
+    "P6TNP-g0wzY:p0",
+    "n4KkK-OJjqA:p41",
+    "gTsfR5PxAMY:t1"
    ]
   },
   {
-   "text": "Projected Philadelphia starting five: Tyrese Maxey, VJ Edgecombe, Jaylen Brown, LeBron James, Joel Embiid.",
+   "text": "He is in the projected Philadelphia starting five with Tyrese Maxey, VJ Edgecombe, LeBron James and Joel Embiid.",
    "kind": "fact",
    "date": "2026-08-06",
    "until": "",
@@ -37,20 +41,7 @@
    ]
   },
   {
-   "text": "Last season in Boston he had a 36% usage rate, a career high. He ranked about 25th in category leagues and 10th in points leagues.",
-   "kind": "fact",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "gTsfR5PxAMY:p1",
-    "Rqb5GdrSweY:p9",
-    "sTtFUy7IoJI:p46",
-    "ME-r173X5b0:p4",
-    "ahNxsoU8Hx4:p37"
-   ]
-  },
-  {
-   "text": "Next to Maxey, Embiid and LeBron, his usage should fall to about 27 to 30%. It will swing with Embiid's and LeBron's health.",
+   "text": "His usage was a career-high 36% in Boston last season. Experts expect it to drop to about 27 to 30% because he now shares the ball with Maxey, Embiid and LeBron.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
@@ -58,71 +49,94 @@
     "P6TNP-g0wzY:p0",
     "Rqb5GdrSweY:p9",
     "sTtFUy7IoJI:p46",
+    "gTsfR5PxAMY:p1",
     "W-R1dzem32s:p14",
-    "LM0cRCGoAUQ:p16",
     "LM0cRCGoAUQ:t2",
     "sTtFUy7IoJI:t10"
    ]
   },
   {
-   "text": "He is very unlikely to repeat 28.7 points per game. Experts expect the biggest scoring drop among the Sixers stars.",
+   "text": "Experts say he is very unlikely to repeat 28.7 points per game. They expect his scoring to drop more than any other Sixers star's.",
    "kind": "verdict",
    "date": "2026-08-06",
    "until": "",
    "sources": [
-    "ME-r173X5b0:p4",
     "gTsfR5PxAMY:p3",
+    "ME-r173X5b0:p4",
     "ME-r173X5b0:t1"
    ]
   },
   {
-   "text": "Under Nick Nurse his minutes should stay high or rise (projected 36). He may get even more when Embiid and LeBron miss games.",
+   "text": "Even after the scoring cut, Josh projects him at about 25 points, 7 rebounds and 4 assists. He expects more rebounds and possibly better efficiency.",
+   "kind": "verdict",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "OdDkXFhoKsc:p9",
+    "OdDkXFhoKsc:p10"
+   ]
+  },
+  {
+   "text": "His minutes should stay high or go up under Nick Nurse, who plays his main players heavy minutes. He is projected for about 36 minutes.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p47",
+    "W-R1dzem32s:p14",
+    "W-R1dzem32s:t7",
+    "gTsfR5PxAMY:t2"
+   ]
+  },
+  {
+   "text": "His usage and minutes will move with the health of Embiid and LeBron. He may get a bigger role when they miss games.",
    "kind": "verdict",
    "date": "2026-09-17",
    "until": "",
    "sources": [
     "W-R1dzem32s:p14",
-    "sTtFUy7IoJI:p47",
+    "W-R1dzem32s:t7",
     "ahNxsoU8Hx4:p37",
-    "ahNxsoU8Hx4:t5",
-    "W-R1dzem32s:t7"
+    "ahNxsoU8Hx4:t5"
    ]
   },
   {
-   "text": "Early on he should have a harder time fitting in than LeBron. He may be only the fourth best offensive player in the starting group, and it is unclear whether he can play off the ball.",
+   "text": "He is expected to struggle more than LeBron to fit in at first. It is not clear whether he can play off the ball or as a spot-up shooter. The team is expected to have growing pains in October and November.",
    "kind": "verdict",
    "date": "2026-08-06",
    "until": "",
    "sources": [
     "gTsfR5PxAMY:p0",
-    "gTsfR5PxAMY:p2"
-   ]
-  },
-  {
-   "text": "Experts expect growing pains for Philadelphia in October and November, and load management for the stars.",
-   "kind": "verdict",
-   "date": "2026-08-06",
-   "until": "",
-   "sources": [
+    "gTsfR5PxAMY:p2",
     "gTsfR5PxAMY:t4"
    ]
   },
   {
-   "text": "Experts see him as a third or fourth round player, with a rank in the 40s. They say he should not fall into the 60s.",
+   "text": "Experts expect him to slip from about 25th in category leagues last season to roughly the 35 to 45 range, a third or fourth round player. The newest call ranks him about 35 and says his rank of 44 is enough of a discount. Falling into the 60s would be too far.",
    "kind": "verdict",
-   "date": "2026-09-14",
+   "date": "2026-10-04",
    "until": "",
    "sources": [
-    "Rqb5GdrSweY:p9",
-    "sTtFUy7IoJI:p47",
-    "OdDkXFhoKsc:p10",
-    "W-R1dzem32s:p14",
+    "n4KkK-OJjqA:p41",
+    "ahNxsoU8Hx4:p37",
+    "LM0cRCGoAUQ:p16",
     "dlo7L8Ru91A:p10",
-    "LM0cRCGoAUQ:p16"
+    "W-R1dzem32s:p14",
+    "sTtFUy7IoJI:p47",
+    "Rqb5GdrSweY:p9"
    ]
   },
   {
-   "text": "One expert says his ESPN ADP of 20 is far too high, even after his strong last season.",
+   "text": "He sold for 23 USD in an auction mock draft, which the expert called a good price. The expert hoped he would stay in the low 20s.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p56"
+   ]
+  },
+  {
+   "text": "One expert calls an ESPN ADP of 20 far too high.",
    "kind": "verdict",
    "date": "2026-09-19",
    "until": "",
@@ -131,18 +145,47 @@
    ]
   },
   {
-   "text": "The Sixers have 13 back-to-backs, and three of them fall in the fantasy playoffs.",
+   "text": "The Sixers have 13 back-to-backs this season, and 3 of them fall in the fantasy playoffs.",
    "kind": "fact",
    "date": "2026-08-16",
    "until": "",
    "sources": [
     "gf_6GveiAls:t8"
    ]
+  },
+  {
+   "text": "Philadelphia is projected to win about 51 to 52 games. Experts also expect the team to manage the stars' workloads.",
+   "kind": "verdict",
+   "date": "2026-08-06",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t4"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "Scoring is his main value. He adds solid rebounds, assists, steals and threes. His percentages are not ideal but do not hurt a team.",
+   "text": "Scoring is his main fantasy value, and points are his strongest category.",
+   "kind": "verdict",
+   "date": "2026-07-13",
+   "until": "",
+   "sources": [
+    "stats",
+    "Rqb5GdrSweY:p10",
+    "P6TNP-g0wzY:p1"
+   ]
+  },
+  {
+   "text": "His turnovers are a clear weakness, well below the player pool and his position.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Besides points, he gives modest help in rebounds, assists, steals and threes. His FG% and FT% are not ideal but do not hurt a team much.",
    "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
@@ -152,16 +195,7 @@
    ]
   },
   {
-   "text": "Turnovers are his clear weak category. They are a league outlier on the bad side.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "Plain nine-cat rankings rate him lower than his real head-to-head worth.",
+   "text": "Experts say nine-cat rankings underrate what he gives in head-to-head category leagues.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
@@ -172,7 +206,17 @@
    ]
   },
   {
-   "text": "Experts disagree on his defense. Josh thinks it is a little overrated. Mark calls him a more than solid defender.",
+   "text": "He is worth more in points leagues than in category leagues. Last season he ranked about 10th in points leagues and about 25th in category leagues.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:p9",
+    "n4KkK-OJjqA:p41"
+   ]
+  },
+  {
+   "text": "The experts disagree about his defense. Josh calls it a little overrated, and Mark calls him a more than solid defender.",
    "kind": "verdict",
    "date": "2026-08-06",
    "until": "",
@@ -185,42 +229,43 @@
   {
    "name": "new team",
    "channel": "current",
-   "detail": "Traded from Boston to Philadelphia",
+   "detail": "Traded from Boston to Philadelphia for Paul George",
    "until": "",
    "sources": [
-    "P6TNP-g0wzY:p0"
+    "P6TNP-g0wzY:p0",
+    "n4KkK-OJjqA:p41"
    ],
    "new_meaning": ""
   },
   {
    "name": "role down",
    "channel": "current",
-   "detail": "Usage expected to fall from 36% to about 27 to 30% next to Maxey, Embiid and LeBron; minutes should stay high",
+   "detail": "Usage expected to fall from 36% to about 27 to 30%",
    "until": "",
    "sources": [
     "P6TNP-g0wzY:p0",
     "Rqb5GdrSweY:p9",
-    "sTtFUy7IoJI:p46",
-    "W-R1dzem32s:p14"
+    "sTtFUy7IoJI:p46"
    ],
    "new_meaning": ""
   },
   {
-   "name": "undervalued by 9-cat",
-   "channel": "durable",
-   "detail": "Experts say nine-cat ranks miss what he provides",
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Shares the ball with Maxey, Embiid and LeBron",
    "until": "",
    "sources": [
-    "LM0cRCGoAUQ:p16",
-    "dlo7L8Ru91A:p10",
-    "W-R1dzem32s:p15"
+    "LM0cRCGoAUQ:t2",
+    "sTtFUy7IoJI:t10",
+    "8d--aL_xxwE:t0",
+    "7BllEsdNLoM:t3"
    ],
    "new_meaning": ""
   },
   {
    "name": "high TO",
    "channel": "durable",
-   "detail": "About 3 turnovers per game projected",
+   "detail": "About 2.9 TO per game projected",
    "until": "",
    "sources": [
     "stats"
@@ -238,46 +283,84 @@
    "new_meaning": ""
   },
   {
-   "name": "sites disagree on price",
-   "channel": "current",
-   "detail": "Yahoo rank 44 and value 23 USD vs ESPN rank 62 and value 7 USD",
+   "name": "undervalued by 9-cat",
+   "channel": "durable",
+   "detail": "Experts say his nine-cat rank misses what he provides",
    "until": "",
    "sources": [
-    "stats"
+    "LM0cRCGoAUQ:p16",
+    "dlo7L8Ru91A:p10",
+    "W-R1dzem32s:p15"
    ],
    "new_meaning": ""
   },
   {
-   "name": "bust candidate",
-   "channel": "current",
-   "detail": "At his ESPN ADP of 20",
+   "name": "points league player",
+   "channel": "durable",
+   "detail": "About 10th in points leagues and 25th in category leagues last season",
    "until": "",
    "sources": [
-    "uarqbNA2dFk:p36"
+    "Rqb5GdrSweY:p9",
+    "n4KkK-OJjqA:p41"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 23 USD vs ESPN value 7 USD; ESPN rank 62",
+   "until": "",
+   "sources": [
+    "stats",
+    "ahNxsoU8Hx4:p37"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "Ranked about 35 in category leagues vs a market rank of 44; 23 USD called a good price",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p41",
+    "W-R1dzem32s:p14",
+    "Q6YlQDvD-aY:p56"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "Philadelphia projected for about 51 to 52 wins",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "heavy starter minutes",
+   "channel": "durable",
+   "detail": "Nick Nurse plays his starters heavy minutes",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t2",
+    "W-R1dzem32s:t7",
+    "7BllEsdNLoM:t2"
    ],
    "new_meaning": ""
   },
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "Sixers have three back-to-backs in the fantasy playoffs",
+   "detail": "3 back-to-backs in the fantasy playoffs",
    "until": "",
    "sources": [
     "gf_6GveiAls:t8"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "back-to-back risk",
-   "channel": "current",
-   "detail": "Load management expected for the Sixers stars",
-   "until": "",
-   "sources": [
-    "gTsfR5PxAMY:t4"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "Experts put him in the 40s (round 3 to 4). That is close to his Yahoo rank of 44 and average cost of 24.2 USD, so the 29 USD our league paid last season looks too high for a smaller role in Philadelphia. His points, rebounds and assists carry him, and his turnovers make him a natural fit for punt TO builds. Early in the season, check his usage when Embiid and LeBron both play, whether Nick Nurse gives him around 36 minutes, and whether he settles in next to Maxey.",
+ "note": "Brown went for 29 USD in our league last season. The prices now point lower: Yahoo values him at 23 USD (average cost 24.2), and ESPN values him at only 7 USD (average cost 18.8), so the 23 USD he sold for in the latest mock is a fair target. He fits punt TO builds best, because his 2.9 projected turnovers are his only flagged weakness and his 24 points are a clear strength. Early in the season, check his usage and shot share next to Maxey, Embiid and LeBron, and whether Nurse really plays him about 36 minutes.",
  "rejected": []
 }

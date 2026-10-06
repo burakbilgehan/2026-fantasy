@@ -2,18 +2,20 @@
  "team": "CLE",
  "prompt_version": 1,
  "prompt_sha": "07b4ed7fd28e",
- "input_sha": "9e9e1179404f",
+ "input_sha": "41515a0016d2",
  "note_count": 22,
- "built_at": "2026-10-04T20:03:48+00:00",
+ "built_at": "2026-10-05T20:10:49+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1694948,
-  "duration_ms": 52362
+  "cost_usd_list": 0.24199139999999997,
+  "duration_ms": 56831,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "The projected starting lineup is James Harden, Donovan Mitchell, Peyton Watson, Evan Mobley and Jarrett Allen.",
+   "text": "The projected starters are James Harden, Donovan Mitchell, Peyton Watson, Evan Mobley and Jarrett Allen.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -24,14 +26,13 @@
    ]
   },
   {
-   "text": "Cleveland lost four rotation players: Max Strus, Dennis Schroder, Keon Ellis and Dean Wade.",
+   "text": "Cleveland lost Dennis Schroder, Max Strus, Keon Ellis and Dean Wade, all rotation players.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
-    "rnq3118kfhY:t1",
     "NmdNvAz08oE:t3",
-    "W-R1dzem32s:t6",
+    "rnq3118kfhY:t1",
     "t4n9MAP2_14:t3"
    ]
   },
@@ -46,7 +47,7 @@
    ]
   },
   {
-   "text": "Bench depth is clearly weaker than last season. Jaylon Tyson must play a lot.",
+   "text": "Bench depth is weak after those losses, so Jaylon Tyson must play a lot.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -56,8 +57,8 @@
    ]
   },
   {
-   "text": "Big-man depth is very thin. Behind Mobley and Allen there is only Thomas Bryant, then Ernest Udeh Jr. and Khalifa Diop.",
-   "kind": "fact",
+   "text": "Big-man depth is very poor. Behind Mobley and Allen there is only Thomas Bryant, then Ernest Udeh Jr. and Khalifa Diop.",
+   "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
    "sources": [
@@ -67,17 +68,16 @@
    ]
   },
   {
-   "text": "Losing Dean Wade also removed the small-ball center option.",
-   "kind": "fact",
-   "date": "2026-09-14",
+   "text": "Losing Dean Wade also removes the small-ball center option.",
+   "kind": "verdict",
+   "date": "2026-08-24",
    "until": "",
    "sources": [
-    "rnq3118kfhY:t2",
-    "t4n9MAP2_14:t3"
+    "rnq3118kfhY:t2"
    ]
   },
   {
-   "text": "It is unclear whether Kenny Atkinson will play Mobley more at center in smaller lineups, possibly closing games that way with Watson, or lean into Allen and Harden pick-and-rolls. This choice drives Allen's minutes.",
+   "text": "Cleveland may close games with Mobley at center now that Watson is on the team. It is not clear yet whether Kenny Atkinson will lean on those smaller lineups or on Allen and Harden pick-and-rolls.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -105,8 +105,8 @@
    ]
   },
   {
-   "text": "Harden is now there for a full season, so more players need the ball. Harden's usage dropped in Cleveland, and his arrival cut into Mitchell's assists and scoring.",
-   "kind": "fact",
+   "text": "Harden is with the team full time, so more players need the ball. His usage dropped in Cleveland, and his arrival cut into Mitchell's assists and scoring.",
+   "kind": "verdict",
    "date": "2026-09-22",
    "until": "",
    "sources": [
@@ -115,7 +115,7 @@
    ]
   },
   {
-   "text": "The backcourt is crowded with Harden and Mitchell, so rookies have no immediate role.",
+   "text": "The backcourt is crowded with Harden and Mitchell, who signed an extension, so there is no immediate role for rookies.",
    "kind": "verdict",
    "date": "2026-08-02",
    "until": "",
@@ -124,7 +124,7 @@
    ]
   },
   {
-   "text": "The season preview listed no current injury concerns for the team.",
+   "text": "There are no current injury concerns on the team.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -133,7 +133,7 @@
    ]
   },
   {
-   "text": "Cleveland is expected to be a very good team. Danny predicts about 51 to 53 wins, above the market win total, so tanking risk is low.",
+   "text": "Cleveland is a very good team. One expert predicts about 51 to 53 wins, above the market win total.",
    "kind": "verdict",
    "date": "2026-08-24",
    "until": "",
@@ -145,7 +145,7 @@
   },
   {
    "text": "Coach Kenny Atkinson is under pressure.",
-   "kind": "fact",
+   "kind": "verdict",
    "date": "2026-08-24",
    "until": "",
    "sources": [
@@ -153,18 +153,18 @@
    ]
   },
   {
-   "text": "Cleveland has among the most back-to-backs in the league, so rest risk for its older stars is higher than average.",
-   "kind": "verdict",
+   "text": "Cleveland has among the most back-to-backs in the league, so rest risk for its stars is higher.",
+   "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
-    "gf_6GveiAls:t2",
     "NmdNvAz08oE:t6",
+    "gf_6GveiAls:t2",
     "stats"
    ]
   },
   {
-   "text": "With our March 28 end, Cleveland plays 4, 3 and then 2 games in weeks 19 to 21. Week 21, the finals week starting March 22, is a two-game week. This is the weakest playoff schedule in the league.",
+   "text": "The fantasy playoff schedule is the worst in the league: 4, 3 and 2 games in weeks 19 to 21, with only 2 games in finals week (the week starting March 22).",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -175,19 +175,10 @@
    ]
   },
   {
-   "text": "From December 23 to February 6 the schedule has no consecutive home or road games.",
-   "kind": "fact",
-   "date": "2026-08-24",
-   "until": "2027-02-06",
-   "sources": [
-    "rnq3118kfhY:t3"
-   ]
-  },
-  {
-   "text": "That heavy travel stretch could hurt the team's play.",
+   "text": "From December 23 to February 6 the schedule has no consecutive home or road games, so heavy travel could hurt the team.",
    "kind": "verdict",
    "date": "2026-08-24",
-   "until": "2027-02-06",
+   "until": "February 6",
    "sources": [
     "rnq3118kfhY:t3"
    ]
@@ -196,9 +187,33 @@
  "durable": [],
  "tags": [
   {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "Win total 47.5, rank 9. One expert predicts 51 to 53 wins.",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:t4",
+    "JMSLg6yz-M0:t5",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "16 back-to-backs, rank 26 of 30. Notes call it among the most in the league.",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t6",
+    "gf_6GveiAls:t2",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "4, 3 and 2 games in weeks 19 to 21. 9 games in total, rank 30 of 30, with a two-game finals week.",
+   "detail": "9 games in weeks 19 to 21, rank 30 of 30. Only 2 games in finals week.",
    "until": "",
    "sources": [
     "NmdNvAz08oE:t5",
@@ -208,43 +223,42 @@
    "new_meaning": ""
   },
   {
-   "name": "many back-to-backs",
+   "name": "thin rotation",
    "channel": "current",
-   "detail": "16 back-to-backs so far, rank 26 of 30. Notes call it among the most in the league.",
-   "until": "",
-   "sources": [
-    "gf_6GveiAls:t2",
-    "NmdNvAz08oE:t6",
-    "stats"
-   ],
-   "new_meaning": "The team has many back-to-backs this season, so rest risk for its players is higher."
-  },
-  {
-   "name": "thin bench",
-   "channel": "current",
-   "detail": "Lost Strus, Schroder, Ellis and Wade. Only Thomas Bryant behind Mobley and Allen.",
+   "detail": "Lost Schroder, Strus, Ellis and Wade. Only Thomas Bryant behind Mobley and Allen in the frontcourt.",
    "until": "",
    "sources": [
     "NmdNvAz08oE:t3",
     "NmdNvAz08oE:t4",
     "rnq3118kfhY:t1",
-    "rnq3118kfhY:t2"
+    "rnq3118kfhY:t2",
+    "t4n9MAP2_14:t3"
    ],
-   "new_meaning": "The team has little bench depth, so starters carry heavy loads and an injury opens a big role for a reserve."
+   "new_meaning": ""
   },
   {
-   "name": "contender",
+   "name": "shared ball handling",
    "channel": "current",
-   "detail": "Win total 47.5 (rank 9). Danny predicts 51 to 53 wins.",
+   "detail": "Harden and Mitchell share the ball. Harden's usage dropped and he cut into Mitchell's assists and scoring.",
    "until": "",
    "sources": [
-    "rnq3118kfhY:t4",
-    "JMSLg6yz-M0:t5",
-    "stats"
+    "QbdrhJd7LiA:t1",
+    "J1Eg3uaAICU:t5",
+    "NmdNvAz08oE:t1"
    ],
-   "new_meaning": "The team is expected to be among the better teams, so tanking is unlikely."
+   "new_meaning": ""
+  },
+  {
+   "name": "coach on hot seat",
+   "channel": "current",
+   "detail": "Kenny Atkinson is under pressure.",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:t4"
+   ],
+   "new_meaning": "The head coach is reported to be under pressure for his job, so a coaching change could reshape rotations during the season."
   }
  ],
- "note": "Cleveland is a strong team, so tanking is unlikely. The cost is in the schedule: it has among the most back-to-backs and the worst playoff weeks in the league, with only 2 games in our finals week. That lowers the value of every Cav, mostly Harden and Mitchell, who also share the ball and cut into each other's usage. The thin bench and thin frontcourt boost Jaylon Tyson and make Thomas Bryant a real handcuff. Early on, watch how often Harden and Mitchell stagger and whether Atkinson closes games with Mobley at center, since that would cost Allen minutes.",
+ "note": "Cleveland projects as a winning team, but its fantasy playoff schedule is the worst in the league (9 games, only 2 in finals week), and it has among the most back-to-backs. That is a reason to pay less for Mitchell, Harden, Mobley and Allen, who also share the ball. The thin bench and very poor big-man depth make Jaylon Tyson and Thomas Bryant worth watching. Early on, watch how much Harden and Mitchell play together and whether Atkinson closes games with Mobley at center.",
  "rejected": []
 }

@@ -30,19 +30,21 @@
 </details>
 
 **Current**
-- He is only a 1 USD player in a 14-team league. (verdict, 2026-09-29; [09-29](https://youtu.be/XnIWJyBB0EM?t=1855))
-- He re-signed with the Spurs on a one-year deal worth 8 million USD. (fact, 2026-08-27; [07-01](https://youtu.be/W3THnI7wWdA?t=1192), [08-27](https://youtu.be/ZAyie8lKyYc?t=1469))
-- The Spurs signed Tobias Harris, who takes the starting forward spot Barnes held. The projected starters are Fox, Castle, Vassell, Harris and Wembanyama, and the roster is very deep at forward. (fact, 2026-08-27; [08-24](https://youtu.be/g31YlwRe0XQ?t=1055), [08-27](https://youtu.be/ZAyie8lKyYc?t=524), [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
-- He is likely to be out of the rotation on many nights. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1469))
+- He is a 1 USD player in 14-team auction leagues. (verdict, 2026-09-29; [09-29](https://youtu.be/XnIWJyBB0EM?t=1855))
+- The Spurs roster is very deep at forward and on the wing, so minutes are spread. (fact, 2026-09-19; [08-27](https://youtu.be/ZAyie8lKyYc?t=1306), [09-19](https://youtu.be/uarqbNA2dFk?t=1601), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312), [07-05](https://youtu.be/4kKINkZhWls?t=3529))
+- He re-signed with the Spurs on a one-year, 8 million USD deal. (fact, 2026-08-27; [07-01](https://youtu.be/W3THnI7wWdA?t=1192), [08-27](https://youtu.be/ZAyie8lKyYc?t=1469))
+- Tobias Harris takes his starting spot. The projected Spurs starters are Fox, Castle, Vassell, Harris and Wembanyama. (fact, 2026-08-27; [08-24](https://youtu.be/g31YlwRe0XQ?t=1055), [08-27](https://youtu.be/ZAyie8lKyYc?t=524))
+- He is likely to be outside the rotation on many nights. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1469))
+- The Spurs are projected to be a top team in the West, with a prediction of 63 wins. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2403), [08-27](https://youtu.be/ZAyie8lKyYc?t=152), [07-26](https://youtu.be/75Sk_4fkgIM?t=370))
 
 **Durable**
-- He is a low-usage player who mostly stands on the court and is rarely involved in the offense. (fact, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=346))
-- He is reliable and plays almost every game. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1325), stats)
+- He plays a low-usage role and is rarely involved in the offense. (fact, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=346))
+- He is reliable and available every night. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1325), stats)
 
 **Tags**
-- Current: `role down` (Tobias Harris takes his starting spot. Likely out of the rotation on many nights.), `minutes competition` (Very deep Spurs forward and wing group)
+- Current: `usage competition` (rarely involved in the offense, few shots), `contract year` (one-year, 8 million USD deal with the Spurs), `role down` (Tobias Harris takes his starting spot; likely outside the rotation on many nights), `minutes competition` (crowded Spurs forward and wing group with Harris, Vassell, Champagnie and Keldon Johnson), `deep rotation` (Spurs very deep at forward and guard), `winning team` (63 wins predicted)
 - Durable: `plays every game` (82, 82 and 77 games in the last three seasons)
 
-**Note.** Both sites rank him outside the top 250 (Yahoo 260, ESPN 255) and give him 0 USD value. Only 144 players are drafted in our league, so he is not a draft target. His projected line is weak in PTS, REB, AST and STL (z around -1.0 to -1.2), and ESPN projects him for just 20.5 minutes. He has some value only if injuries open up Spurs forward minutes. Early in the season, check whether he is in the rotation at all.
+**Note.** Barnes ranks 260 on Yahoo and 255 on ESPN with a value of 0 USD on both sites, well outside the 144 players our league drafts, so do not draft him. His projections drop to about 20 minutes and 8 points, and the only plus is few turnovers, so he has no clear build fit. Early in the season, check whether he holds rotation minutes. He matters only as waiver depth if injuries hit the Spurs forwards.
 
-<sub>5 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

@@ -26,23 +26,23 @@
 </details>
 
 **Current**
-- Lloyd expects a 10-man Hawks rotation that does not include him. The named bench is Dort, Wiggins, Landale, Flemings and probably Newell, with Kispert and Finney-Smith also in the mix. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
-- Atlanta's center depth is thin. Veesaar is out for the season and Gueye is injured. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1693))
-- He is a rookie. The Hawks drafted him 23rd overall in the 2026 draft. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1444), [06-25](https://youtu.be/lOshTzDA4SA?t=2251))
-- He is a backup big man behind Onyeka Okongwu. Atlanta also has Jock Landale at center. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1444), [06-26](https://youtu.be/CLsUc0Sevos?t=1102), [06-25](https://youtu.be/lOshTzDA4SA?t=2227))
-- In dynasty rookie rankings he is ranked 25th, in tier 5. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1444))
+- He is a backup big man. Onyeka Okongwu is the projected starting center and Jock Landale is also on the center depth chart. (fact, 2026-09-25; [06-26](https://youtu.be/CLsUc0Sevos?t=1444), [06-26](https://youtu.be/CLsUc0Sevos?t=1102), [06-25](https://youtu.be/lOshTzDA4SA?t=2227), [09-25](https://youtu.be/4gw4W4RTolY?t=328))
+- Lloyd expects a 10-man Hawks rotation, and Ejiofor is not in his list of bench players. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
+- Atlanta's frontcourt depth is thin. Veesaar is out for the season, Gueye is injured, and power forward depth is bad to start the season. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=478), [09-25](https://youtu.be/4gw4W4RTolY?t=1693))
+- He could turn into a stretch big if his Summer League three-point shooting holds up. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2310))
+- He is a rookie. Atlanta drafted him 23rd in the 2026 NBA draft after his college career at St. John's. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1444), [06-25](https://youtu.be/lOshTzDA4SA?t=2251))
+- His big college numbers as an upperclassman may not carry over to the NBA. One expert sees them as a red flag. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1444), [06-25](https://youtu.be/lOshTzDA4SA?t=2251))
+- In dynasty rookie rankings he is rank 25, tier 5. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1444))
 
 **Durable**
-- His projections are far below the league in points, threes and steals. (fact, 2026-10-04; stats)
-- He barely shot threes in college. In Summer League, 52% of his shots were threes and he made 35% of them. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2310))
-- He could develop into a stretch big. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2310))
-- He is an undersized, switchy, high-energy big man. (fact, 2026-06-26; [06-25](https://youtu.be/lOshTzDA4SA?t=2251), [06-26](https://youtu.be/CLsUc0Sevos?t=1444))
-- Experts doubt that his college production at St. John's will carry over. One sees big numbers from an upperclassman as a red flag and did not rate him as a first-round talent. (verdict, 2026-06-26; [06-25](https://youtu.be/lOshTzDA4SA?t=2251), [06-26](https://youtu.be/CLsUc0Sevos?t=1444))
+- Projections give him very few threes, points and steals. His good FG% and low turnovers come on very small volume. (fact, 2026-10-05; stats)
+- He barely shot threes in college. In 2026 Summer League he took 52% of his shots from three and made 35% of them. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2310))
+- He is an undersized, switchy, high-energy big man. (fact, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=2251))
 
 **Tags**
-- Current: `rookie` (23rd pick in 2026 by Atlanta), `minutes competition` (Backup big behind Okongwu and Landale and outside Lloyd's projected 10-man rotation)
-- Durable: none
+- Current: `rookie` (2026 pick 23 by Atlanta), `minutes competition` (backup big behind Okongwu, with Landale also at center), `deep rotation` (Hawks expect a 10-man rotation that does not include him)
+- Durable: `five-out offense` (Quin Snyder wants lots of threes and five-out spacing, which suits his new three-point shot)
 
-**Note.** Yahoo values him at 0 USD and ranks him 700th, and ESPN does not price him. That puts him far outside the 144 players we draft, so do not spend an auction pick on him. The only path to value is Atlanta's thin center depth with Veesaar out and Gueye injured, so check early in the season whether he gets backup minutes behind Okongwu and whether his Summer League three-point shooting carries over to real games.
+**Note.** Ejiofor is not a draft option in our 144-player auction. Yahoo values him at 0 USD (rank 700), ESPN gives no price, and his Yahoo projection is only 5.0 points and 4.1 rebounds as a backup. Early in the season, watch two things. First, whether his Summer League three-point shooting carries into real minutes. Second, whether an injury to Okongwu or Jalen Johnson opens a role in Atlanta's thin frontcourt. Only then is he worth a waiver claim.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

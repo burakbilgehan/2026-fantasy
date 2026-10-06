@@ -8,136 +8,174 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "49be7c196eeb",
- "note_count": 18,
- "built_at": "2026-10-04T17:41:16+00:00",
+ "input_sha": "96df8c5e6948",
+ "note_count": 19,
+ "built_at": "2026-10-05T19:57:29+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.18667419999999998,
-  "duration_ms": 55662
+  "cost_usd_list": 0.2173662,
+  "duration_ms": 65438,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He is a projected starter in a Jazz lineup of Keyonte George, Darryn Peterson, Markkanen, Jaren Jackson Jr. and Jusuf Nurkic.",
-   "kind": "fact",
-   "date": "2026-08-05",
+   "text": "Experts project him to start at forward next to Keyonte George, Darryn Peterson, Jaren Jackson Jr. and Jusuf Nurkic.",
+   "kind": "verdict",
+   "date": "2026-10-02",
    "until": "",
    "sources": [
-    "CI4k8ofUXXk:t0"
-   ]
-  },
-  {
-   "text": "He is healthy going into the season.",
-   "kind": "fact",
-   "date": "2026-09-19",
-   "until": "",
-   "sources": [
+    "CI4k8ofUXXk:t0",
+    "ZYllcj4o6_A:t0",
+    "egRrai3Ax38:t4",
     "uarqbNA2dFk:t2"
    ]
   },
   {
-   "text": "Experts expect him to produce less than last season. He must share usage with a full season of Jaren Jackson Jr. and rookie Darryn Peterson on a balanced offense. One projection is 34 minutes and 25 usage.",
-   "kind": "verdict",
-   "date": "2026-09-16",
-   "until": "",
-   "sources": [
-    "dlo7L8Ru91A:p15",
-    "J1Eg3uaAICU:p47",
-    "CI4k8ofUXXk:p11",
-    "2A2JbUN-kc0:p34",
-    "lOshTzDA4SA:t2"
-   ]
-  },
-  {
-   "text": "The Jazz plan to compete this season and are not tanking.",
+   "text": "Utah is trying to win this season and is not tanking.",
    "kind": "fact",
    "date": "2026-09-17",
    "until": "",
    "sources": [
-    "ahNxsoU8Hx4:p7",
     "ahNxsoU8Hx4:t2",
-    "sTtFUy7IoJI:t6",
-    "LM0cRCGoAUQ:t4",
-    "J1Eg3uaAICU:t3"
+    "sTtFUy7IoJI:t6"
    ]
   },
   {
-   "text": "Experts say the fear that Utah will sit him or shut him down is misplaced.",
-   "kind": "verdict",
-   "date": "2026-09-24",
-   "until": "",
-   "sources": [
-    "egRrai3Ax38:p33",
-    "egRrai3Ax38:t4",
-    "dlo7L8Ru91A:t2",
-    "dlo7L8Ru91A:p15",
-    "J1Eg3uaAICU:t3",
-    "_vbAP5y182A:p17"
-   ]
-  },
-  {
-   "text": "Experts call him underrated. They expect him to beat his Yahoo ADP of 44, and they call his ESPN ADP (77 to 89) a steal. One expert ranks him 25th in 9-cat.",
-   "kind": "verdict",
-   "date": "2026-09-21",
-   "until": "",
-   "sources": [
-    "ahNxsoU8Hx4:p6",
-    "LM0cRCGoAUQ:p24",
-    "egRrai3Ax38:p33",
-    "2A2JbUN-kc0:p34"
-   ]
-  },
-  {
-   "text": "In 9-cat mock drafts the experts were happy to take him in round 3, around pick 32.",
+   "text": "Experts say fears that Utah will sit him to tank are misplaced. They project a playoff-level team of about 43 wins.",
    "kind": "verdict",
    "date": "2026-09-24",
    "until": "",
    "sources": [
     "_vbAP5y182A:p17",
-    "OdDkXFhoKsc:p23"
+    "egRrai3Ax38:p33",
+    "egRrai3Ax38:t4",
+    "ahNxsoU8Hx4:p7",
+    "dlo7L8Ru91A:p15",
+    "dlo7L8Ru91A:t2",
+    "J1Eg3uaAICU:t3",
+    "LM0cRCGoAUQ:t4",
+    "CI4k8ofUXXk:t2",
+    "xHRF06_E9HE:t4"
    ]
   },
   {
-   "text": "His Yahoo projected price of 26 USD is well above his Yahoo average price of 16 USD, so he looks like good value at market price.",
-   "kind": "verdict",
-   "date": "2026-09-29",
+   "text": "He must share usage with Darryn Peterson, Jaren Jackson Jr. (now there for a full season) and Keyonte George.",
+   "kind": "fact",
+   "date": "2026-09-16",
    "until": "",
    "sources": [
-    "XnIWJyBB0EM:p11"
+    "2A2JbUN-kc0:p34",
+    "dlo7L8Ru91A:p15",
+    "J1Eg3uaAICU:p47",
+    "lOshTzDA4SA:t2",
+    "-rgXhs5BHiw:t1"
+   ]
+  },
+  {
+   "text": "Experts expect him to fall short of last season's per game line on a balanced offense. One projects 34 minutes and a 25 percent usage rate.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "dlo7L8Ru91A:p15",
+    "J1Eg3uaAICU:p47",
+    "CI4k8ofUXXk:p11",
+    "CI4k8ofUXXk:t4",
+    "ahNxsoU8Hx4:p6"
+   ]
+  },
+  {
+   "text": "Experts call him underrated. They say he should comfortably beat his Yahoo ADP of about 44, call his ESPN ADP of 77 to 89 a steal, and like him around pick 32 or in round 3.",
+   "kind": "verdict",
+   "date": "2026-09-24",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p24",
+    "ahNxsoU8Hx4:p6",
+    "ahNxsoU8Hx4:p7",
+    "egRrai3Ax38:p33",
+    "J1Eg3uaAICU:p47",
+    "OdDkXFhoKsc:p23",
+    "_vbAP5y182A:p17"
+   ]
+  },
+  {
+   "text": "One expert ranks him 25th in 9-cat. Another puts him in tier four of small forwards.",
+   "kind": "verdict",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:p34",
+    "dlo7L8Ru91A:p15"
+   ]
+  },
+  {
+   "text": "In an expert auction mock on 2026-10-05 he sold for 30 USD. Josh had hoped to get him for 21 or 22 USD.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p34"
+   ]
+  },
+  {
+   "text": "The games he missed last season were real injuries, not tank rest.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:p33"
+   ]
+  },
+  {
+   "text": "He is the longest-tenured NBA player who has never played in a playoff game.",
+   "kind": "fact",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:p15"
    ]
   }
  ],
  "durable": [
   {
-   "text": "Elite free throw shooter on high volume (about 89% on 5 or more attempts per game). He lifts a team's FT% clearly.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He has missed many games in recent seasons. The absences were a mix of real injuries and tank-driven holdouts.",
+   "text": "He has missed many games in his career. Some were real injuries and some were tank-driven holdouts.",
    "kind": "fact",
    "date": "2026-09-14",
    "until": "",
    "sources": [
-    "CI4k8ofUXXk:p14",
     "LM0cRCGoAUQ:p25",
-    "stats"
+    "CI4k8ofUXXk:p14"
    ]
   },
   {
-   "text": "Experts see real injury risk, and one says he cannot stay healthy. Others call past concerns mostly exaggerated.",
+   "text": "Experts disagree on his injury risk. One says he cannot really stay healthy. Another calls past concerns mostly exaggerated.",
    "kind": "verdict",
    "date": "2026-09-16",
    "until": "",
    "sources": [
     "g31YlwRe0XQ:p22",
-    "J1Eg3uaAICU:p47",
     "2A2JbUN-kc0:p34"
+   ]
+  },
+  {
+   "text": "He is a strong FT% asset. He shoots about 89% on over 5 attempts per game.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He makes about 3 threes per game, which is a lot for a forward. He also adds strong points and solid rebounds.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "stats"
    ]
   },
   {
@@ -150,7 +188,7 @@
    ]
   },
   {
-   "text": "He plays several short stints per game. He comes out early and goes back in.",
+   "text": "He plays in several short stints per game, coming out early and going back in.",
    "kind": "fact",
    "date": "2026-08-05",
    "until": "",
@@ -163,7 +201,27 @@
   {
    "name": "FT% anchor",
    "channel": "durable",
-   "detail": "About 89% FT on 5 or more attempts per game",
+   "detail": "About 89% FT on over 5 attempts per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "3PM from a big",
+   "channel": "durable",
+   "detail": "About 3 threes per game as a forward",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "No category flagged weak",
    "until": "",
    "sources": [
     "stats"
@@ -173,20 +231,19 @@
   {
    "name": "injury prone",
    "channel": "durable",
-   "detail": "Missed many games in each of the last three seasons; experts split on how many were real injuries",
+   "detail": "Many missed games in his career, partly real injuries and partly tank holdouts",
    "until": "",
    "sources": [
     "LM0cRCGoAUQ:p25",
-    "CI4k8ofUXXk:p14",
     "g31YlwRe0XQ:p22",
-    "stats"
+    "CI4k8ofUXXk:p14"
    ],
    "new_meaning": ""
   },
   {
    "name": "injury last season",
    "channel": "current",
-   "detail": "Played 42 games in 2025-26",
+   "detail": "Played 42 games, with real injuries",
    "until": "",
    "sources": [
     "egRrai3Ax38:p33",
@@ -195,54 +252,94 @@
    "new_meaning": ""
   },
   {
-   "name": "role down",
+   "name": "usage competition",
    "channel": "current",
-   "detail": "Shares usage with a full season of Jaren Jackson Jr. and rookie Darryn Peterson",
+   "detail": "Darryn Peterson, Jaren Jackson Jr. and Keyonte George",
    "until": "",
    "sources": [
+    "2A2JbUN-kc0:p34",
     "dlo7L8Ru91A:p15",
-    "J1Eg3uaAICU:p47",
-    "CI4k8ofUXXk:p11",
-    "lOshTzDA4SA:t2"
+    "lOshTzDA4SA:t2",
+    "-rgXhs5BHiw:t1"
    ],
    "new_meaning": ""
   },
   {
-   "name": "expert target",
+   "name": "role down",
    "channel": "current",
-   "detail": "Expert ranks him 25th in 9-cat against a Yahoo ADP of 44",
+   "detail": "Lower usage expected than last season on a balanced offense",
    "until": "",
    "sources": [
-    "2A2JbUN-kc0:p34",
-    "ahNxsoU8Hx4:p6",
-    "LM0cRCGoAUQ:p24"
+    "dlo7L8Ru91A:p15",
+    "J1Eg3uaAICU:p47",
+    "CI4k8ofUXXk:p11"
    ],
    "new_meaning": ""
   },
   {
    "name": "sleeper",
    "channel": "current",
-   "detail": "ESPN ADP of 77 to 89 called thievery",
+   "detail": "ESPN ADP 77 to 89 called a steal; Yahoo ADP 44 called too low",
    "until": "",
    "sources": [
     "ahNxsoU8Hx4:p6",
     "ahNxsoU8Hx4:p7",
-    "egRrai3Ax38:p33"
+    "egRrai3Ax38:p33",
+    "LM0cRCGoAUQ:p24"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "Josh drafted him in round 3 and likes him around pick 32",
+   "until": "",
+   "sources": [
+    "_vbAP5y182A:p17",
+    "OdDkXFhoKsc:p23",
+    "J1Eg3uaAICU:p47"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo ADP 44 against ESPN ADP 77 to 89",
+   "detail": "ESPN ADP 77 to 89 vs Yahoo ADP 44",
    "until": "",
    "sources": [
     "ahNxsoU8Hx4:p6",
-    "egRrai3Ax38:p33"
+    "egRrai3Ax38:p33",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "Projected about 43 wins and a 7th or 8th seed",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:t2",
+    "LM0cRCGoAUQ:t4",
+    "J1Eg3uaAICU:t3",
+    "xHRF06_E9HE:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low shutdown risk",
+   "channel": "current",
+   "detail": "Jazz no longer tanking; experts call shutdown fears misplaced",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:t2",
+    "J1Eg3uaAICU:t3",
+    "dlo7L8Ru91A:t2",
+    "egRrai3Ax38:t4"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Our league paid only 16 USD for him last season. Yahoo values him at 28 USD (average cost 18.6) and ESPN at 21 USD (average cost 12.1), so a bid in the low 20s still leaves room for profit if he plays 65 or more games. His FT% (89% on about 5.4 attempts) plus about 3 threes, 24 points and 7 to 8 rebounds help almost any build, though he adds little in AST, STL and BLK. Early in the season, check his usage next to Jaren Jackson Jr. and Darryn Peterson, and check whether Utah keeps him on the floor when he has minor injuries.",
+ "note": "Markkanen is a strong FT% and threes forward with no weak category, so he fits any build. Yahoo values him at 28 USD but his average cost is 18.6 USD. ESPN prices him at 21 USD with an average cost of 12 USD, and he went for 16 USD in our league last season. Still, an expert mock auction pushed him to 30 USD, so expect informed managers to bid him up past 20 USD. Check early that he keeps enough usage next to Peterson and Jackson Jr. and that he stays healthy, since he played only 42 games last season.",
  "rejected": []
 }

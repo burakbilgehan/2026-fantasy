@@ -8,78 +8,79 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "f830a1d715c9",
- "note_count": 18,
- "built_at": "2026-10-04T17:25:56+00:00",
+ "input_sha": "95833fa5b1d0",
+ "note_count": 19,
+ "built_at": "2026-10-05T19:44:26+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1653942,
-  "duration_ms": 43959
+  "cost_usd_list": 0.18607419999999997,
+  "duration_ms": 48676,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Do not take him at pick 5. He is fine at pick 6 or later.",
+   "text": "Experts rank him around 8th to 10th in 9-cat leagues, behind Jayson Tatum and Anthony Edwards. He is not worth pick 5 but is fine at pick 6 or later.",
    "kind": "verdict",
    "date": "2026-10-03",
    "until": "",
    "sources": [
-    "_O9pc_u5vH0:p0"
-   ]
-  },
-  {
-   "text": "In category leagues he projects to finish around 8th to 10th, behind Jayson Tatum and Anthony Edwards. One expert has Kawhi Leonard ahead of him too.",
-   "kind": "verdict",
-   "date": "2026-10-03",
-   "until": "",
-   "sources": [
+    "_O9pc_u5vH0:p0",
     "_O9pc_u5vH0:p1",
-    "_O9pc_u5vH0:p2"
-   ]
-  },
-  {
-   "text": "He ranks higher in points leagues than in categories. He could finish ahead of Shai Gilgeous-Alexander in points formats.",
-   "kind": "verdict",
-   "date": "2026-10-03",
-   "until": "",
-   "sources": [
     "_O9pc_u5vH0:p2",
-    "2A2JbUN-kc0:p8",
-    "g31YlwRe0XQ:p2"
-   ]
-  },
-  {
-   "text": "His free throw percentage dropped last season.",
-   "kind": "fact",
-   "date": "2026-10-03",
-   "until": "",
-   "sources": [
-    "_O9pc_u5vH0:p3"
-   ]
-  },
-  {
-   "text": "Experts rank him below consensus in 9-cat because his FG% and FT% are iffy.",
-   "kind": "verdict",
-   "date": "2026-09-16",
-   "until": "",
-   "sources": [
     "2A2JbUN-kc0:p9"
    ]
   },
   {
-   "text": "He had a 31 usage rate in 34 minutes per game. Detroit lost creation with Tobias Harris gone and has very few creators besides him.",
+   "text": "Josh would pay no more than 45 USD for him in an auction.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p8"
+   ]
+  },
+  {
+   "text": "He went for 48 USD in an expert auction mock draft.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p8"
+   ]
+  },
+  {
+   "text": "If he is nominated early in an auction, he can go well below his value.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XnIWJyBB0EM:p5"
+   ]
+  },
+  {
+   "text": "He is projected for about 31 usage in 34 minutes.",
+   "kind": "fact",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p2",
+    "2A2JbUN-kc0:p9"
+   ]
+  },
+  {
+   "text": "Detroit lost creation with Tobias Harris and has very few creators besides him.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
-    "2A2JbUN-kc0:p9",
-    "7BllEsdNLoM:p2",
     "_O9pc_u5vH0:t2",
     "ME-r173X5b0:t2"
    ]
   },
   {
-   "text": "His usage may go up after the roster changes. A bigger offensive load could hurt his efficiency.",
+   "text": "His usage may go up after the roster changes. A bigger offensive load could hurt his FG% and FT%.",
    "kind": "verdict",
    "date": "2026-09-16",
    "until": "",
@@ -89,16 +90,7 @@
    ]
   },
   {
-   "text": "Detroit wants him to take more catch-and-shoot threes, with Ausar Thompson running some of the offense.",
-   "kind": "fact",
-   "date": "2026-08-12",
-   "until": "",
-   "sources": [
-    "p9XE5jFqhvs:p13"
-   ]
-  },
-  {
-   "text": "He led the group in potential assists (24.7 per 100), so his assists could go over 10 per game, unless Daniss Jenkins takes a bigger role.",
+   "text": "He led his group in potential assists (24.7 per 100), so his assists could go over 10 per game unless Daniss Jenkins takes a bigger role.",
    "kind": "verdict",
    "date": "2026-07-07",
    "until": "",
@@ -108,56 +100,74 @@
    ]
   },
   {
-   "text": "His auction value is about 50 USD. Nominated early, he can go for around 35 USD.",
-   "kind": "verdict",
-   "date": "2026-09-29",
+   "text": "The team wants him to get more catch-and-shoot threes, with Ausar Thompson running some of the offense.",
+   "kind": "fact",
+   "date": "2026-08-12",
    "until": "",
    "sources": [
-    "XnIWJyBB0EM:p5"
+    "p9XE5jFqhvs:p13"
    ]
   },
   {
-   "text": "Detroit plays 4-3-4 games in our playoff weeks 19 to 21. The team has 15 back-to-backs, and no rest is expected for its players.",
+   "text": "Detroit's projected starting five is the same as last season, with him at guard.",
+   "kind": "fact",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:t0",
+    "p9XE5jFqhvs:t0"
+   ]
+  },
+  {
+   "text": "Detroit is projected for 50 to 51 wins and a third or fourth seed in the East.",
+   "kind": "verdict",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:t3"
+   ]
+  },
+  {
+   "text": "He has no injury now.",
+   "kind": "fact",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:t7"
+   ]
+  },
+  {
+   "text": "Detroit plays 4, 3 and 4 games in our playoff weeks 19 to 21. The team has 15 back-to-backs, and no rest is expected.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
     "_O9pc_u5vH0:t6"
    ]
-  },
-  {
-   "text": "He has no injury now, and Detroit has no notable injuries.",
-   "kind": "fact",
-   "date": "2026-10-03",
-   "until": "",
-   "sources": [
-    "_O9pc_u5vH0:t7",
-    "stats"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "Assists are his elite category, far above the top 250 pool.",
+   "text": "He is an elite assist source. Assists are his best category by far.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He commits many turnovers, a league outlier that hurts the TO category.",
+   "text": "He commits many turnovers, which clearly hurts the TO category.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He carries a heavy creation load. That hurts his finishing and his two-point percentage, so FG% is a weak spot.",
-   "kind": "verdict",
+   "text": "He carries a heavy creation load. This hurts his finishing and two-point percentage, so FG% is a mild weakness.",
+   "kind": "fact",
    "date": "2026-09-23",
    "until": "",
    "sources": [
@@ -166,7 +176,7 @@
    ]
   },
   {
-   "text": "His free throws are fine but not a strong asset. Experts want to see him back over 85%.",
+   "text": "His free throws are fine but not strong. Experts want his FT% back over 85%.",
    "kind": "verdict",
    "date": "2026-09-23",
    "until": "",
@@ -176,14 +186,14 @@
    ]
   },
   {
-   "text": "He has a spotty injury history. It includes lower body problems in recent years and a punctured lung at the end of last season.",
+   "text": "He has a spotty injury history. It includes a punctured lung, a lung issue at the end of last season, and lower body problems in recent years.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
     "_O9pc_u5vH0:p4",
-    "2A2JbUN-kc0:p8",
-    "7BllEsdNLoM:p3"
+    "7BllEsdNLoM:p3",
+    "2A2JbUN-kc0:p8"
    ]
   },
   {
@@ -194,13 +204,32 @@
    "sources": [
     "7BllEsdNLoM:p3"
    ]
+  },
+  {
+   "text": "He is worth more in points leagues than in 9-cat. He could finish ahead of Shai Gilgeous-Alexander in points but only around 8th or 9th in categories.",
+   "kind": "verdict",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:p2",
+    "2A2JbUN-kc0:p8"
+   ]
+  },
+  {
+   "text": "Detroit is built on defense. The front office wants only enough offense.",
+   "kind": "fact",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:t1"
+   ]
   }
  ],
  "tags": [
   {
    "name": "AST specialist",
    "channel": "durable",
-   "detail": "About 9.7 assists per game projected; could go over 10",
+   "detail": "about 9.7 assists per game projected",
    "until": "",
    "sources": [
     "stats",
@@ -211,7 +240,7 @@
   {
    "name": "high TO",
    "channel": "durable",
-   "detail": "About 3.9 turnovers per game projected",
+   "detail": "about 3.9 turnovers per game projected",
    "until": "",
    "sources": [
     "stats"
@@ -221,7 +250,7 @@
   {
    "name": "punt TO fit",
    "channel": "durable",
-   "detail": "Turnovers are his only weak category",
+   "detail": "keeps first or second round value without TO",
    "until": "",
    "sources": [
     "stats"
@@ -231,22 +260,63 @@
   {
    "name": "points league player",
    "channel": "durable",
-   "detail": "Experts rank him higher in points formats than in 9-cat",
+   "detail": "could top Shai Gilgeous-Alexander in points, only 8th to 9th in categories",
    "until": "",
    "sources": [
     "_O9pc_u5vH0:p2",
-    "2A2JbUN-kc0:p8",
-    "2A2JbUN-kc0:p9"
+    "2A2JbUN-kc0:p8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage freed",
+   "channel": "current",
+   "detail": "Tobias Harris's creation is gone; his usage may rise",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:t2",
+    "7BllEsdNLoM:p2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "Yahoo rank 5 and 64.4 USD average cost, above the expert max of 45 USD",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p8",
+    "_O9pc_u5vH0:p0"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo rank 5 and 64.4 USD average cost; ESPN rank 11 and 56.4 USD",
+   "detail": "Yahoo rank 5 at 64.4 USD, ESPN rank 11 at 56.6 USD",
    "until": "",
    "sources": [
     "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "50 to 51 wins projected",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "defense-first",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:t1"
    ],
    "new_meaning": ""
   },
@@ -261,6 +331,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Experts place him around 8th to 10th in categories. Yahoo's 64.4 USD average cost and rank 5 are above that, so the ESPN cost (56.4 USD), our league's 55 USD and the expert auction value of about 50 USD are better guides. Do not chase him past the mid 50s. His elite assists and fine threes, steals and points fit best on a punt TO build, where his 3.9 turnovers cost little. Early in the season, check whether a bigger usage load pulls his FG% (46.1% on about 19 attempts) and his FT% (81.2% last season) down, and whether his assists climb past 10.",
+ "note": "The market prices him as a top 5 player (Yahoo 64.4 USD average cost, ESPN 56.6 USD, 55 USD in our league last season), but category experts rank him 8th to 10th and cap him at 45 USD, so let others pay 55 USD or more. He fits a punt TO build best, where his elite assists, points and steals count fully and his 3.9 turnovers cost nothing. Early in the season, check whether his assists go over 10 and whether the bigger load drags his FG% and FT% down.",
  "rejected": []
 }

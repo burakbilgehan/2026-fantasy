@@ -2,33 +2,75 @@
  "team": "WAS",
  "prompt_version": 1,
  "prompt_sha": "07b4ed7fd28e",
- "input_sha": "a3fce2d3d953",
+ "input_sha": "3f61dd04e1af",
  "note_count": 19,
- "built_at": "2026-10-04T20:01:01+00:00",
+ "built_at": "2026-10-05T20:07:51+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.15554279999999998,
-  "duration_ms": 48445
+  "cost_usd_list": 0.2476916,
+  "duration_ms": 66506,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Washington added Anthony Davis, Trae Young and AJ Dybantsa. All three missed last season.",
+   "text": "Washington has ended its rebuild and is trying to compete this season, with a push for at least the play-in.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t0",
+    "-rgXhs5BHiw:t0"
+   ]
+  },
+  {
+   "text": "Fantasy managers should no longer face the late-season resting and minutes cuts of past Washington seasons.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t0"
+   ]
+  },
+  {
+   "text": "Ben predicts around 40 wins, close to .500 and in the play-in mix. That is above the market win total of 35.5.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t4",
+    "stats"
+   ]
+  },
+  {
+   "text": "Health is a key factor for the team's season, above all Anthony Davis's health.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t4",
+    "-y6p5PYLf00:t3"
+   ]
+  },
+  {
+   "text": "Head coach Brian Keefe is under the most pressure of any coach to win games this season.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t5"
+   ]
+  },
+  {
+   "text": "Washington added Anthony Davis, Trae Young and rookie AJ Dybantsa. All three missed last season. Trae Young re-signed with the team.",
    "kind": "fact",
    "date": "2026-09-17",
    "until": "",
    "sources": [
-    "DubdKKhMWHo:t2",
     "gJUBAJaHzlU:t0",
-    "J1Eg3uaAICU:t1"
-   ]
-  },
-  {
-   "text": "Trae Young re-signed with Washington. The speaker sees the deal as a possible overpay.",
-   "kind": "fact",
-   "date": "2026-06-23",
-   "until": "",
-   "sources": [
+    "DubdKKhMWHo:t2",
+    "J1Eg3uaAICU:t1",
     "-rgXhs5BHiw:t0"
    ]
   },
@@ -43,13 +85,32 @@
    ]
   },
   {
-   "text": "The fifth starter spot is not settled. Kyshawn George holds it on the depth chart, but many wings compete for it.",
+   "text": "The fifth starter spot is not settled. Many wings compete for it.",
    "kind": "verdict",
    "date": "2026-09-07",
    "until": "",
    "sources": [
-    "gJUBAJaHzlU:t1",
-    "stats"
+    "gJUBAJaHzlU:t1"
+   ]
+  },
+  {
+   "text": "The new additions cut into the roles of the young players.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t0"
+   ]
+  },
+  {
+   "text": "Trae Young and Anthony Davis will take most of the usage. Little is left for AJ Dybantsa and the other young players.",
+   "kind": "verdict",
+   "date": "2026-09-03",
+   "until": "",
+   "sources": [
+    "OBwWCxG9SqM:t3",
+    "lOshTzDA4SA:t1",
+    "-rgXhs5BHiw:t0"
    ]
   },
   {
@@ -63,19 +124,7 @@
    ]
   },
   {
-   "text": "Trae Young and Anthony Davis will take most of the usage. Little is left for AJ Dybantsa and the young players.",
-   "kind": "verdict",
-   "date": "2026-09-07",
-   "until": "",
-   "sources": [
-    "OBwWCxG9SqM:t3",
-    "lOshTzDA4SA:t1",
-    "-rgXhs5BHiw:t0",
-    "gJUBAJaHzlU:t0"
-   ]
-  },
-  {
-   "text": "Alex Sarr loses usage to Davis, Young and Dybantsa. Davis also takes rebound and block chances from him.",
+   "text": "Alex Sarr loses usage to Davis, Young and Dybantsa, and Davis also takes some of his rebound and block chances.",
    "kind": "verdict",
    "date": "2026-09-19",
    "until": "",
@@ -86,7 +135,7 @@
    ]
   },
   {
-   "text": "Anthony Davis and Alex Sarr limit Bilal Coulibaly's minutes and rim contests.",
+   "text": "Davis and Sarr limit Bilal Coulibaly's minutes and rim contests.",
    "kind": "verdict",
    "date": "2026-07-17",
    "until": "",
@@ -95,17 +144,7 @@
    ]
   },
   {
-   "text": "Deandre Ayton comes off the bench as the backup center.",
-   "kind": "fact",
-   "date": "2026-07-16",
-   "until": "",
-   "sources": [
-    "-y6p5PYLf00:t3",
-    "stats"
-   ]
-  },
-  {
-   "text": "The roster is deep and flexible, with many long wings and a crowded group of guards. Expect a 10 or 11 man rotation, with 12 or 13 players who could justify minutes.",
+   "text": "The roster is deep and flexible, with many long wings and guards. Ben expects a 10 or 11 man rotation, with 12 or 13 players who could justify minutes.",
    "kind": "verdict",
    "date": "2026-07-23",
    "until": "",
@@ -115,46 +154,18 @@
    ]
   },
   {
-   "text": "The rebuild is over. The team is trying to win and will push for the play-in.",
+   "text": "Center is the thin spot behind Davis and Sarr. Deandre Ayton is the backup center off the bench.",
    "kind": "fact",
    "date": "2026-07-23",
    "until": "",
    "sources": [
-    "UTE0dNIv8nY:t0",
-    "-rgXhs5BHiw:t0"
-   ]
-  },
-  {
-   "text": "Late-season resting and minutes cuts of past years should not return this season.",
-   "kind": "verdict",
-   "date": "2026-07-23",
-   "until": "",
-   "sources": [
-    "UTE0dNIv8nY:t0"
-   ]
-  },
-  {
-   "text": "Ben predicts around 40 wins, near .500 and in the play-in mix. The market win total of 35.5 is lower than that.",
-   "kind": "verdict",
-   "date": "2026-07-23",
-   "until": "",
-   "sources": [
-    "UTE0dNIv8nY:t4",
+    "LUTYUdXBG1M:t0",
+    "-y6p5PYLf00:t3",
     "stats"
    ]
   },
   {
-   "text": "Health is a key factor for the team, and Anthony Davis's health is the main question.",
-   "kind": "verdict",
-   "date": "2026-07-23",
-   "until": "",
-   "sources": [
-    "UTE0dNIv8nY:t4",
-    "-y6p5PYLf00:t3"
-   ]
-  },
-  {
-   "text": "The speaker is about 80% sure the Wizards keep Anthony Davis and try to make the playoffs, but a trade cannot be ruled out.",
+   "text": "One expert is about 80% sure Washington keeps Anthony Davis, but a trade cannot be ruled out.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
@@ -163,16 +174,16 @@
    ]
   },
   {
-   "text": "If Anthony Davis is traded, Alex Sarr starts at center.",
+   "text": "If Davis is traded, Alex Sarr starts at center.",
    "kind": "verdict",
    "date": "2026-06-30",
-   "until": "",
+   "until": "Anthony Davis trade",
    "sources": [
     "4GDfg2n2l8o:t11"
    ]
   },
   {
-   "text": "Defense is the main question after the team was the worst in the league last year. Steve Clifford joined the coaching staff to help.",
+   "text": "Defense is the main question after the team had the worst defense in the league last year. Steve Clifford joined the coaching staff to help.",
    "kind": "fact",
    "date": "2026-07-23",
    "until": "",
@@ -181,21 +192,11 @@
    ]
   },
   {
-   "text": "Head coach Brian Keefe is under the most pressure to win games this season.",
+   "text": "The schedule is average. Back-to-backs and playoff-week games are both in the middle of the league, so neither helps nor hurts much.",
    "kind": "verdict",
-   "date": "2026-07-23",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "UTE0dNIv8nY:t5"
-   ]
-  },
-  {
-   "text": "The team chases the play-in and has only one back-to-back in the fantasy playoff weeks, so rest risk for its stars in weeks 19 to 21 looks low.",
-   "kind": "verdict",
-   "date": "2026-07-23",
-   "until": "",
-   "sources": [
-    "UTE0dNIv8nY:t0",
     "stats"
    ]
   }
@@ -203,16 +204,28 @@
  "durable": [],
  "tags": [
   {
-   "name": "win-now team",
+   "name": "low shutdown risk",
    "channel": "current",
-   "detail": "Rebuild over, pushing for the play-in. Late-season rest and minutes cuts are not expected.",
+   "detail": "Rebuild is over. The team is chasing the play-in, so the late-season rest and minutes cuts of past years should end.",
    "until": "",
    "sources": [
     "UTE0dNIv8nY:t0",
-    "-rgXhs5BHiw:t0",
-    "LM0cRCGoAUQ:t3"
+    "-rgXhs5BHiw:t0"
    ],
-   "new_meaning": "The team is trying to win games this season, so late-season tanking and resting of healthy players are unlikely."
+   "new_meaning": ""
+  },
+  {
+   "name": "concentrated usage",
+   "channel": "current",
+   "detail": "Trae Young and Anthony Davis take most of the usage. Dybantsa, Sarr and the young players are capped.",
+   "until": "",
+   "sources": [
+    "OBwWCxG9SqM:t3",
+    "lOshTzDA4SA:t1",
+    "-rgXhs5BHiw:t0",
+    "uarqbNA2dFk:t0"
+   ],
+   "new_meaning": ""
   },
   {
    "name": "deep rotation",
@@ -223,22 +236,20 @@
     "UTE0dNIv8nY:t2",
     "LUTYUdXBG1M:t0"
    ],
-   "new_meaning": "The team is expected to play 10 or more players, so minutes are spread thin beyond the top options."
+   "new_meaning": ""
   },
   {
-   "name": "concentrated usage",
+   "name": "unsettled rotation",
    "channel": "current",
-   "detail": "Trae Young and Anthony Davis take most of the usage. Little is left for Dybantsa, Sarr and the young players.",
+   "detail": "Fifth starter spot is open, with many wings competing. Kyshawn George is the current pick.",
    "until": "",
    "sources": [
-    "OBwWCxG9SqM:t3",
-    "lOshTzDA4SA:t1",
-    "-rgXhs5BHiw:t0",
-    "uarqbNA2dFk:t0"
+    "gJUBAJaHzlU:t1",
+    "UTE0dNIv8nY:t1"
    ],
-   "new_meaning": "A few stars take most of the team's shots and touches, which caps the usage of the other players."
+   "new_meaning": ""
   }
  ],
- "note": "Washington is trying to win now, so Trae Young and Anthony Davis get most of the usage and late-season rest risk is low. Alex Sarr, AJ Dybantsa and the young wings lose usage, and Sarr also loses rebounds and blocks while he plays power forward next to Davis. Early on, watch Davis's health and any trade talk, since Sarr starts at center if Davis leaves, and watch who wins the fifth starter spot among the wings.",
+ "note": "In Washington, Trae Young and Anthony Davis are the players to draft: they get the touches, and a team chasing the play-in should not rest them late. Alex Sarr, AJ Dybantsa and the young wings lose usage and minutes in a deep, crowded rotation, though a Davis trade or injury would make Sarr a center again. Early on, watch Davis's health, any Davis trade talk and who takes the fifth starter spot.",
  "rejected": []
 }
