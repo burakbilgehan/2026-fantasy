@@ -63,6 +63,25 @@ def for_drawer(md: str, slugs: dict[str, int]) -> str:
     return _PLAYER_LINK.sub(link, md)
 
 
+_SOURCE = re.compile(r"\s*\((?:fact|verdict)[^()]*(?:\([^()]*\)[^()]*)*\)\s*$")
+_MD_LINK = re.compile(r"\[([^\]]+)\]\([^)]*\)")
+
+
+def summary(md: str) -> dict:
+    """Short profile for the draft panel (T-018): the Note paragraph and the Current and Durable
+    bullets, without their source references and links."""
+    def bullets(title: str) -> list[str]:
+        m = re.search(rf"^\*\*{title}\*\*\n((?:- .*\n?)+)", md, re.M)
+        if not m:
+            return []
+        lines = [ln[2:].strip() for ln in m.group(1).splitlines() if ln.startswith("- ")]
+        return [_MD_LINK.sub(r"\1", _SOURCE.sub("", ln)) for ln in lines]
+
+    note = re.search(r"^\*\*Note\.\*\*\s*(.+)$", md, re.M)
+    return {"note": _MD_LINK.sub(r"\1", note.group(1).strip()) if note else None,
+            "current": bullets("Current"), "durable": bullets("Durable")}
+
+
 def read_page(path: Path) -> str | None:
     return path.read_text(encoding="utf-8") if path.is_file() else None
 

@@ -1,14 +1,9 @@
-"""Static and dynamic prices (T-025 dollar part, docs/modules/pricing.md). Pure functions, no DB.
+"""Static price, market price, opportunity (T-025 dollar part, docs/modules/pricing.md). Pure functions, no DB.
 
-Names (user, 2026-10-05):
+Names (user, 2026-10-05; dynamic prices shelved 2026-10-06):
 - static price: our model's dollars (the model and dollar method picked in the value table). OURS.
-- dynamic worth: what a player is worth to us at this point of the draft. At the start of a
-  draft it equals the static price. OURS.
-- dynamic market price: what the room is expected to pay. At the start of a draft it equals the
-  market price below (the others' view). During a draft it moves away from it with the room's
-  spending (T-018, T-013): if the top players went for more than their market price, the next
-  top players get dearer too.
-- opportunity = dynamic worth - dynamic market price.
+- market price: what the market pays (below). THE OTHERS.
+- opportunity = static price - market price. Both prices stay fixed during a draft.
 
 Market price = weighted mean of the market's own dollars, over the sources that price the player:
 Yahoo average cost x2, ESPN average cost x1, Fantrax x1. Fantrax has no prices, only ADP: its ADP
@@ -50,5 +45,5 @@ def market_prices(dollars: Mapping[str, Mapping[object, float]],
 
 
 def opportunity(worth: Mapping[object, float], market: Mapping[object, float]) -> dict[object, float]:
-    """Dynamic worth minus dynamic market price; a player with no market price counts at 1 USD."""
+    """Our price minus the market price; a player with no market price counts at 1 USD."""
     return {k: worth[k] - market.get(k, 1.0) for k in worth}

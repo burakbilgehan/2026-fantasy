@@ -372,7 +372,17 @@ export function PlayerDrawer({ playerId, query, onClose, onOpenPlayer }: Props) 
           </div>
           <button className="close" onClick={onClose} aria-label="Close">Close</button>
         </div>
-        {card.data ? <Header card={card.data} selected={selected} /> : <Status error={card.error} what="the player" />}
+        {/* Top: facts and prices on the left, the category profile (9-point radar) on the right (user, 2026-10-06). */}
+        <div className="drawer-top">
+          <div className="drawer-top-left">
+            {card.data ? <Header card={card.data} selected={selected} /> : <Status error={card.error} what="the player" />}
+          </div>
+          <div className="drawer-top-radar" aria-label={selected ? `Category profile, z per category, ${selected.label}` : 'Category profile'}>
+            {selected ? <CategoryRadar m={selected} stats={models.data?.stats} />
+              : models.data ? <p className="hint">Not in the selected base.</p>
+                : <Status error={models.error} what="category values" />}
+          </div>
+        </div>
 
         <Section title="Tags">
           {tags.data ? <Tags tags={tags.data} /> : <Status error={tags.error} what="tags" />}
@@ -387,12 +397,6 @@ export function PlayerDrawer({ playerId, query, onClose, onOpenPlayer }: Props) 
             ? models.data.in_base ? <ModelTable models={models.data.models} selected={q!.model} />
               : <p className="hint">Not in the selected base.</p>
             : <Status error={models.error} what="model values" />}
-        </Section>
-
-        <Section title="Category profile" note={selected ? `z per category, ${selected.label}` : undefined}>
-          {selected ? <CategoryRadar m={selected} stats={models.data?.stats} />
-            : models.data ? <p className="hint">Not in the selected base.</p>
-              : <Status error={models.error} what="category values" />}
         </Section>
 
         <Section title="Player report" note={card.data && !card.data.has_profile ? 'no expert profile, numbers only' : undefined}>

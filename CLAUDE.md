@@ -28,7 +28,7 @@ One local backend, one database, one frontend. Features are widgets on that fron
 - `prompts/`: every prompt and model setting sent to `claude -p`, one folder per job. Keep it current; code reads it from there.
 
 ## Pricing mentality (user rule, 2026-10-05)
-- Two views, never mixed: OURS (static price, dynamic worth: from our model) and THE OTHERS (dynamic market price: the market's own dollars, then the room's live spending). Never price by rank, never make a past auction a law. Details: `docs/modules/pricing.md`.
+- Two reference prices, never mixed: OURS (static price, from our model) and THE OTHERS (market price, the market's own dollars). Opportunity = static price - market price. Nothing moves during a draft: dynamic prices were shelved by the user on 2026-10-06; the user adjusts by hand. Never price by rank, never make a past auction a law. Details: `docs/modules/pricing.md`.
 
 ## Data freshness (user rule, 2026-10-05)
 - No data source may be older than a week. `make sources` shows every source with its last fetch and age and fetches only the stale ones. Run it at the start of any session that uses source data (projections, values, draft).

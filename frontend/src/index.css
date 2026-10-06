@@ -253,6 +253,12 @@ table.values tbody tr.clickable { cursor: pointer; }
 .drawer-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; color: var(--muted); margin: 10px 0; }
 .drawer-meta .injury { margin-left: 0; font-size: 0.8rem; }
 .price-strip { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; margin-bottom: 6px; }
+.drawer-top { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 300px); gap: 14px; align-items: start; }
+.drawer-top .price-strip { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 6px; }
+.drawer-top .price { padding: 5px 8px; border-radius: 8px; }
+.drawer-top .price-value { font-size: 1.1rem; }
+.drawer-top .radar { max-width: 300px; }
+@media (max-width: 600px) { .drawer-top { grid-template-columns: 1fr; } }
 .price {
   background: var(--raised); border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px;
   display: flex; flex-direction: column; min-width: 0;
@@ -414,3 +420,61 @@ table.values.two-line tbody.player:nth-of-type(even) { background: var(--stripe)
 table.values.two-line tbody.player:nth-of-type(even) .sticky { background: var(--stripe); }
 table.values.two-line tbody.player:hover, table.values.two-line tbody.player:hover .sticky { background: var(--row-hover); }
 table.values.two-line tbody.player tr:nth-child(even) { background: transparent; }
+
+/* Live draft (T-018) */
+.live-strip { display: flex; flex-wrap: wrap; gap: 6px 16px; align-items: center; margin: 6px 0; font-size: 0.9em; }
+.sold-to { white-space: nowrap; }
+/* Sold players stay in the list, faded (user, 2026-10-06). */
+table.values tbody.player.sold { opacity: 0.38; }
+table.values tbody.player.sold:hover { opacity: 0.7; }
+
+/* Draft panel (T-018): focus player on top, league overview under the table. Desktop first. */
+.toggle { display: inline-flex; gap: 6px; align-items: center; cursor: pointer; }
+.focus-panel { border: 1px solid var(--line); background: var(--raised); border-radius: 10px; padding: 12px 14px; margin-bottom: 12px; }
+.focus-head { display: flex; flex-wrap: wrap; gap: 14px 22px; align-items: center; }
+.focus-title h3 { margin: 0; font-family: var(--display); font-size: 1.35rem; }
+.focus-kind { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--accent); }
+.focus-bid { display: flex; flex-direction: column; align-items: center; padding: 4px 12px; border: 1px solid var(--accent); border-radius: 8px; }
+.focus-bid strong { font-size: 1.5rem; line-height: 1.1; }
+.focus-bid small { color: var(--muted); }
+.focus-prices { display: flex; gap: 16px; margin: 0; }
+.focus-prices dt { font-size: 0.75rem; color: var(--muted); }
+.focus-prices dd { margin: 0; font-weight: 700; font-size: 1.05rem; }
+.focus-prices dd.good, .fit dd.good { color: var(--good); }
+.focus-prices dd.bad, .fit dd.bad { color: var(--bad); }
+.focus-actions { margin-left: auto; display: flex; gap: 8px; }
+.focus-body { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 18px; margin-top: 10px; }
+.fit { display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; margin: 10px 0 0; }
+.fit div { display: contents; }
+.fit dt { color: var(--muted); font-size: 0.85rem; }
+.fit dd { margin: 0; font-size: 0.9rem; }
+.focus-note { margin: 6px 0; font-size: 0.92rem; }
+.focus-lists { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; font-size: 0.85rem; }
+.focus-lists h4 { margin: 4px 0; font-size: 0.8rem; color: var(--muted); text-transform: uppercase; }
+.focus-lists ul { margin: 0; padding-left: 16px; }
+table.team-line { border-collapse: collapse; width: 100%; font-size: 0.85rem; }
+table.team-line th { font-weight: 500; color: var(--muted); font-size: 0.75rem; padding: 2px; }
+table.team-line td { text-align: center; padding: 2px; }
+.league-overview { margin-top: 18px; }
+.league-overview h3 { font-family: var(--display); margin: 14px 0 6px; }
+table.h2h { border-collapse: collapse; font-size: 0.85rem; }
+table.h2h th, table.h2h td { padding: 4px 6px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+table.h2h th { color: var(--muted); font-weight: 500; }
+table.h2h td.good { color: var(--good); }
+table.h2h td.bad { color: var(--bad); }
+table.h2h td.self { background: var(--line); }
+table.h2h tr.mine td.team, table.h2h th.mine { color: var(--accent); font-weight: 700; }
+table.h2h tr.mine { outline: 1px solid var(--accent); }
+table.h2h .after { font-weight: 700; }
+table.h2h .after.good { color: var(--good); }
+table.h2h .after.bad { color: var(--bad); }
+.team-boxes { display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); gap: 12px; }
+.team-box { border: 1px solid var(--line); border-radius: 10px; padding: 10px; background: var(--raised); display: flex; flex-direction: column; gap: 6px; }
+.team-box.mine { border-color: var(--accent); }
+.team-box header { display: flex; justify-content: space-between; gap: 8px; flex-wrap: wrap; font-size: 0.85rem; }
+.team-box header span { color: var(--muted); }
+.team-box .elig { display: flex; gap: 12px; font-size: 0.8rem; color: var(--muted); }
+.team-box .roster { margin: 0; padding-left: 18px; font-size: 0.85rem; flex: 1; }
+.team-box .roster li span { display: inline-block; }
+.team-box .roster .pname { min-width: 160px; }
+.team-box .roster .ppos { min-width: 40px; color: var(--muted); font-size: 0.8rem; }

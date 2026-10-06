@@ -1,6 +1,6 @@
-# Static price, dynamic worth, dynamic market price (T-025, dollar part)
+# Static price, market price, opportunity (T-025, dollar part)
 
-Status 2026-10-05: static part built (value table columns Static price, Dynamic worth, Dynamic market price, Opportunity; code `backend/app/analytics/valuation/room.py`). Dynamic part: live draft board (T-018, T-013).
+Status 2026-10-06: value table columns Static price, Market price, Opportunity (code `backend/app/analytics/valuation/room.py`). Dynamic prices (dynamic worth, dynamic market price, live ranges) shelved by the user on 2026-10-06: the two references stay fixed and the user adjusts by hand during the draft. The table below keeps the old plan for the record.
 
 ## Problem (user, 2026-10-05)
 Model dollars (Minus-1, plain or SAVOR) spread the budget flatter than our room pays. In our 2025-26 auction the top 24 took 49% of the budget; the model gives them 37% (SAVOR 41%). Real prices: ranks 1-2 about 86 USD, 3-6 about 68, 7-12 about 48, 13-24 about 37; ranks 97-144 go for 1 to 2.5 (verified, `draft_picks`, draft 2).
@@ -30,7 +30,7 @@ Rules learned the hard way:
 - Two numbers per player, not one: ours and the room's. Plus an opportunity column.
 - The market price is a Yahoo-weighted mix; our own evaluation tells a good price from a bad one, because the room makes mistakes.
 - The room price must update live during the draft through the extension: by the course of the draft, the teams, my team's position and the money spent (T-018). The inflation formula in `draft.md` (Dynamic price range) is the starting point.
-- Last season's prices do not carry over per player (a no-name of last year can be valuable now and the reverse). Last season can only teach how this room behaves by tier (how much it pays for the top 24, how hard it bids on known bargains).
+- Last season's prices do not carry over per player (a no-name of last year can be valuable now and the reverse). Update (user, 2026-10-05): no inference from one past draft at all, not even by tier. The room's behavior counts only live, during this draft.
 - Where the market has no basis for a new price level, use the experts: Josh Lloyd's comments and the drafts he joins. A snake draft position still tells the price level (ADP put on the market's dollar scale, the way Fantrax ADP is).
 - Part of T-025.
 

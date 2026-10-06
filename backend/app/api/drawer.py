@@ -66,6 +66,7 @@ def player_card(player_pk: int) -> dict:
         "usage": usage,  # newest season first
         "has_profile": page is not None,
         "report": report,
+        "summary": index.summary(page) if page else None,  # draft panel (T-018)
         "articles": index.article_index(slugs).get(player_pk, []),
     }
 

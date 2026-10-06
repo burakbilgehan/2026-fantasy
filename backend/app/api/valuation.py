@@ -124,8 +124,15 @@ def _load(kind: str, source: str, season: str) -> tuple[dict, dict, dict, dict]:
 
 def market_prices() -> dict[int, float]:
     """Market price per player (the others' view, T-025): Yahoo average cost x2, ESPN average cost,
-    Fantrax ADP on Yahoo's dollar scale. At the start of a draft the dynamic market price equals it.
+    Fantrax ADP on Yahoo's dollar scale. A fixed reference: it does not move during a draft.
     docs/modules/pricing.md."""
+    from app.analytics.valuation import room
+
+    return room.market_prices(market_sources())
+
+
+def market_sources() -> dict[str, dict[int, float]]:
+    """Dollars per source: Yahoo and ESPN average cost, Fantrax ADP on Yahoo's dollar scale."""
     from app.analytics.valuation import room
 
     yahoo_cost, yahoo_adp, espn, fantrax_adp = {}, {}, {}, {}
@@ -142,7 +149,7 @@ def market_prices() -> dict[int, float]:
             elif m.source == "fantrax" and m.average_pick:
                 fantrax_adp[m.player_pk] = m.average_pick
     fantrax = room.adp_to_dollars(fantrax_adp, yahoo_adp, yahoo_cost)
-    return room.market_prices({"yahoo": yahoo_cost, "espn": espn, "fantrax": fantrax})
+    return {"yahoo": yahoo_cost, "espn": espn, "fantrax": fantrax}
 
 
 def usage_season(kind: str, season: str) -> str:
@@ -227,8 +234,8 @@ def values(
                 "yahoo_average_cost": y.average_cost if y else None,
                 "espn_average_cost": e.average_cost if e else None,
                 "fantrax_adp": fx.average_pick if fx else None,
-                # T-025 market price (the others' view): the dynamic market price at the start of a draft.
-                # The frontend: dynamic worth = our static price (model $), opportunity = the gap.
+                # T-025 market price (the others' view), a fixed reference.
+                # The frontend: opportunity = our static price (model $) - market price.
                 "market_price": round(market_price.get(pk, 1.0), 1) if season == CURRENT_SEASON else None,
             },
         })

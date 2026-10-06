@@ -70,6 +70,31 @@ export type LiveDraft = {
   unknown: Record<string, number>
 }
 
+export type BoardTeam = {
+  team_id: number
+  name: string | null
+  money_left: number
+  spent: number
+  open_slots: number
+  max_bid: number
+  mine: boolean
+  online: boolean
+  autopick: boolean
+}
+
+export type BoardPick = { pick_no: number; player_pk: number | null; yahoo_id: string; name: string | null; team_id: number; price: number; roster_slot: string | null }
+
+export type LiveBoard = {
+  league_id: string
+  my_team_id: number | null
+  budget: number
+  slots_per_team: number
+  last_event_at: string | null
+  teams: BoardTeam[]
+  picks: BoardPick[]
+  nomination: { player_pk: number | null; yahoo_id: string; name: string | null; high_bid: number; high_team_id: number; nominating_team_id: number | null } | null
+}
+
 export type ValuationBase = { kind: 'projection' | 'actual'; source: string; season: string; players: number; label?: string }
 
 export type ValuationOptions = {
@@ -134,6 +159,7 @@ export type PlayerCard = {
   usage: { season: string; usg_pct: number | null; ts_pct: number | null; gp: number }[] // newest first
   has_profile: boolean
   report: string
+  summary: { note: string | null; current: string[]; durable: string[] } | null // draft panel (T-018)
   articles: { slug: string; title: string; mentions: number }[]
 }
 
@@ -276,6 +302,7 @@ export const api = {
   syncLeague: () => request<League>('/api/league/sync', { method: 'POST' }),
   liveDrafts: () => request<LiveDraftSummary[]>('/api/draft/live'),
   liveDraft: (leagueId: string) => request<LiveDraft>(`/api/draft/live/${leagueId}`),
+  liveBoard: (leagueId: string) => request<LiveBoard>(`/api/draft/live/${leagueId}/board`),
   valuationOptions: () => request<ValuationOptions>('/api/valuation/options'),
   valuation: (q: ValuationQuery) => {
     if (STATIC) return staticValuation(q)

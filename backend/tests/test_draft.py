@@ -229,3 +229,24 @@ def test_live_last_event_counts_countdown(tmp_path, monkeypatch):
     assert d.my_team_id == 7 and d.state.nomination_order == (7, 1)
     assert d.last_event_at == datetime(2026, 10, 4, 1, 0, 6, tzinfo=UTC)
     live.reset()
+
+
+def test_live_board(capture_dir, monkeypatch):
+    from app.api import draft as draft_api
+    from app.draft import live
+    from app.draft.money import max_bids
+
+    live.reset()
+    monkeypatch.setattr(capture, "CAPTURE_DIR", capture_dir)
+    monkeypatch.setattr(draft_api, "_yahoo_pks", lambda: {"5352": 1})
+    board = draft_api.live_board(LEAGUE)
+    assert len(board["picks"]) == 76 and board["slots_per_team"] == 12
+    first = next(p for p in board["picks"] if p["yahoo_id"] == "5352")
+    assert first["player_pk"] == 1
+    for t in board["teams"]:
+        mine = [p for p in board["picks"] if p["team_id"] == t["team_id"]]
+        assert t["open_slots"] == 12 - len(mine)
+        assert t["money_left"] == 200 - sum(p["price"] for p in mine)
+    assert board["nomination"] is not None  # the capture ends during a nomination
+    assert max_bids({1: 50, 2: 10}, {1: 3, 2: 0}) == {1: 48, 2: 0}
+    live.reset()

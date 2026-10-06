@@ -1,8 +1,12 @@
-import { useCallback, useEffect, useMemo, useState, type CSSProperties } from 'react'
+import { useCallback, useEffect, useMemo, useState, type CSSProperties, type ReactNode } from 'react'
 import { api, type TagCount, type Valuation, type ValuationOptions, type ValuationQuery, type ValuedPlayer } from '../../api/client'
 import { Headshot } from '../../components/Headshot'
 import { PlayerDrawer } from '../../components/PlayerDrawer'
 import { CAT_LABEL } from '../../lib/categories'
+import { useLiveBoard } from '../../lib/liveBoard'
+import { FocusPanel } from './draft/FocusPanel'
+import { LeagueOverview } from './draft/LeagueOverview'
+import { buildTeams } from './draft/model'
 
 // |z| at which a cell reaches full color. Bold text from this |z| on.
 const Z_FULL = 2.5
@@ -31,6 +35,7 @@ type Column = {
   sortValue?: (p: ValuedPlayer) => number | string | null // default: value
   fmt?: (v: number) => string
   heat?: (p: ValuedPlayer) => { z: number; full: number } | null // tint source; positive = good
+  render?: (p: ValuedPlayer) => ReactNode // custom cell content (sold players in a live draft)
 }
 
 const money = (v: number) => `$${v.toFixed(0)}`
@@ -47,27 +52,19 @@ function usageScale(players: ValuedPlayer[]): UsageScale | null {
   return sd > 0 ? { mean, sd } : null
 }
 
-// Opportunity (dynamic worth minus dynamic market price) at which the cell reaches full color.
+// Opportunity (static price minus market price) at which the cell reaches full color.
 const OPP_FULL = 15
 
-// T-025 prices (docs/modules/pricing.md). At the start of a draft: dynamic worth = static price
-// (ours), dynamic market price = the market price (the others' view). The live draft board moves
-// both with the room's spending; these functions are where it plugs in.
-function dynamicWorth(p: ValuedPlayer): number | null {
-  return p.dollars
-}
-
-function dynamicMarket(p: ValuedPlayer): number | null {
-  return p.market.market_price
-}
-
+// Prices (docs/modules/pricing.md): two references, nothing moves during a draft (user, 2026-10-06).
+// Static price = our model's dollars. Market price = Yahoo avg x2, ESPN avg, Fantrax ADP on Yahoo's scale.
+// Opportunity = static price - market price.
 function opportunity(p: ValuedPlayer): number | null {
-  const w = dynamicWorth(p)
-  const m = dynamicMarket(p)
-  return w == null || m == null ? null : w - m
+  const m = p.market.market_price
+  return p.dollars == null || m == null ? null : p.dollars - m
 }
 
-function columns(cats: string[], view: 'stats' | 'z', usageSeason?: string, usage?: UsageScale | null): Column[] {
+function columns(cats: string[], view: 'stats' | 'z', usageSeason?: string, usage?: UsageScale | null,
+  sold?: Map<number, string>): Column[] {
   const base: Column[] = [
     { key: 'rank', label: '#', group: 'Player', num: true, className: 'rank', value: (p) => p.rank },
     { key: 'name', label: 'Player', group: 'Player', className: 'name sticky', value: (p) => p.name },
@@ -78,14 +75,15 @@ function columns(cats: string[], view: 'stats' | 'z', usageSeason?: string, usag
     { key: 'total', label: 'Value', title: 'Model value: sum of the category z values the model counts', group: 'Value',
       num: true, value: (p) => p.total, fmt: (v) => v.toFixed(2),
       heat: (p) => (p.total == null ? null : { z: p.total, full: TOTAL_FULL }) },
-    { key: 'room_value', label: 'Dynamic worth', group: 'Room', num: true, className: 'group-start',
-      title: 'What he is worth to us now. Ours. Before the draft = static price; during the draft it moves with the room.',
-      value: (p) => dynamicWorth(p), fmt: money },
-    { key: 'room_exp', label: 'Dyn. market price', group: 'Room', num: true,
-      title: 'What the room is expected to pay now. Before the draft = market price (Yahoo avg x2, ESPN avg, Fantrax ADP on Yahoo\'s dollar scale); during the draft it moves with the room\'s spending.',
-      value: (p) => dynamicMarket(p), fmt: money },
+    { key: 'room_exp', label: 'Market price', group: 'Room', num: true, className: 'group-start',
+      title: 'What the market pays: Yahoo avg x2, ESPN avg, Fantrax ADP on Yahoo\'s dollar scale. During a live draft: the price paid and the buyer for sold players.',
+      value: (p) => p.market.market_price, fmt: money,
+      render: sold ? (p) => {
+        const s = sold.get(p.player_id)
+        return s ? <span className="sold-to">{s}</span> : (p.market.market_price == null ? '-' : money(p.market.market_price))
+      } : undefined },
     { key: 'room_opp', label: 'Opportunity', group: 'Room', num: true,
-      title: 'Dynamic worth minus dynamic market price. Positive: the room underrates him. Negative: the room overrates him.',
+      title: 'Static price minus market price. Green: the market pays less than our model sees. Red: the market pays more than our model sees (stay away).',
       value: (p) => opportunity(p), fmt: (v) => `${v >= 0 ? '+' : '-'}$${Math.abs(v).toFixed(0)}`,
       heat: (p) => { const o = opportunity(p); return o == null ? null : { z: o, full: OPP_FULL } } },
     { key: 'y_av', label: 'Yahoo value', group: 'Market', num: true, className: 'group-start',
@@ -148,9 +146,9 @@ function Cell({ col, p, rowSpan, extra }: { col: Column; p: ValuedPlayer; rowSpa
   const cls = [col.num && 'num', col.className, extra].filter(Boolean).join(' ') || undefined
   return (
     <td className={cls} rowSpan={rowSpan}>
-      {col.key === 'name'
+      {col.render ? col.render(p) : col.key === 'name'
         ? <span className="name-cell"><Headshot nbaId={p.nba_id} name={p.name} />
-          <button className="link" aria-haspopup="dialog">{text}</button></span>
+          <button className="link" aria-haspopup="dialog" data-open-drawer="1">{text}</button></span>
         : text}
       {col.key === 'name' && p.injury && <span className="injury" title="Injury status (Yahoo)">{p.injury}</span>}
     </td>
@@ -160,7 +158,7 @@ function Cell({ col, p, rowSpan, extra }: { col: Column; p: ValuedPlayer; rowSpa
 // Wide table, two lines per player (user, 2026-10-05: see everything without side scroll).
 // Left: pairs of columns stacked (top / bottom). Right: the categories, one tall cell each.
 const PAIRS: [string, string | null][] = [
-  ['team', 'pos'], ['gp', 'min'], ['usg', null], ['dollars', 'total'], ['room_value', 'room_exp'],
+  ['team', 'pos'], ['gp', 'min'], ['usg', null], ['dollars', 'total'], ['room_exp', null],
   ['room_opp', null], ['y_cost', 'y_av'], ['e_cost', 'f_adp'],
 ]
 
@@ -180,9 +178,10 @@ function SortTh({ c, sort, onSort, rowSpan, extra }: {
   )
 }
 
-function TwoLineTable({ rows, cols, sort, onSort, onOpen }: {
+function TwoLineTable({ rows, cols, sort, onSort, onOpen, onName, sold }: {
   rows: ValuedPlayer[]; cols: Column[]; sort: { key: string; desc: boolean }
-  onSort: (k: string) => void; onOpen: (id: number) => void
+  onSort: (k: string) => void; onOpen: (id: number) => void; sold?: Map<number, string>
+  onName?: (id: number) => void // name click (live draft: the row selects, the name opens the drawer)
 }) {
   const byKey = new Map(cols.map((c) => [c.key, c]))
   const pairs = PAIRS.filter(([t, b]) => byKey.has(t) || (b && byKey.has(b)))
@@ -207,7 +206,8 @@ function TwoLineTable({ rows, cols, sort, onSort, onOpen }: {
         </tr>
       </thead>
       {rows.map((p) => (
-        <tbody key={p.player_id} className="player" onClick={() => onOpen(p.player_id)}>
+        <tbody key={p.player_id} className={sold?.has(p.player_id) ? 'player sold' : 'player'}
+          onClick={(e) => (onName && (e.target as HTMLElement).closest('[data-open-drawer]') ? onName : onOpen)(p.player_id)}>
           <tr className="top">
             <td className="rank num" rowSpan={2}>{cellText(rank, p)}</td>
             <Cell col={name} p={p} rowSpan={2} />
@@ -318,6 +318,19 @@ export function PlayerValues() {
   const tagged = useMemo(() => (!tag ? null : tagLoaded?.tag === tag ? tagLoaded.ids : new Set<number>()),
     [tag, tagLoaded])
   const narrow = useNarrow()
+  const live = useLiveBoard()
+  const board = live.board
+  const [onlyUnsold, setOnlyUnsold] = useState(false)
+  // Sold player -> "$76 Team name" (faded rows, price cell).
+  const sold = useMemo(() => {
+    if (!board) return undefined
+    const name = new Map(board.teams.map((t) => [t.team_id, t.name ?? `Team ${t.team_id}`]))
+    return new Map(board.picks.filter((p) => p.player_pk != null)
+      .map((p) => [p.player_pk!, `$${p.price} ${name.get(p.team_id)}`]))
+  }, [board])
+  // Player in the top panel: the one the user clicked (until the next nomination), else the nominated one.
+  const [tried, setTried] = useState<{ pk: number; nom: string | null } | null>(null)
+  const nomKey = board?.nomination ? `${board.nomination.yahoo_id}` : null
   const closeDrawer = useCallback(() => setDrawer(null), [])
 
   useEffect(() => {
@@ -352,15 +365,17 @@ export function PlayerValues() {
   }, [query])
 
   const cats = useMemo(() => options?.categories ?? [], [options])
-  const cols = useMemo(() => columns(cats, view, data?.settings.usage_season, data && usageScale(data.players)),
-    [cats, view, data])
+  const byId = useMemo(() => new Map((data?.players ?? []).map((p) => [p.player_id, p])), [data])
+  const teams = useMemo(() => (board ? buildTeams(board, byId) : []), [board, byId])
+  const cols = useMemo(() => columns(cats, view, data?.settings.usage_season, data && usageScale(data.players), sold),
+    [cats, view, data, sold])
 
   const rows = useMemo(() => {
     if (!data) return []
     const col = cols.find((c) => c.key === sort.key) ?? cols[0]
     const needle = search.trim().toLowerCase()
     const list = data.players.filter((p) => (!needle || p.name.toLowerCase().includes(needle))
-      && (!tagged || tagged.has(p.player_id)))
+      && (!tagged || tagged.has(p.player_id)) && (!onlyUnsold || !sold?.has(p.player_id)))
     return [...list].sort((a, b) => {
       const key = col.sortValue ?? col.value
       const x = key(a), y = key(b)
@@ -369,7 +384,12 @@ export function PlayerValues() {
       const r = typeof x === 'string' ? x.localeCompare(String(y)) : x - (y as number)
       return sort.desc ? -r : r
     })
-  }, [data, cols, sort, search, tagged])
+  }, [data, cols, sort, search, tagged, onlyUnsold, sold])
+
+  const focusPk = tried && tried.nom === nomKey ? tried.pk : board?.nomination?.player_pk ?? null
+  const focusRow = focusPk != null ? byId.get(focusPk) ?? null : null
+  const nominatedFocus = !(tried && tried.nom === nomKey) && !!board?.nomination
+  const openRow = board ? (pk: number) => setTried({ pk, nom: nomKey }) : setDrawer
 
   if (!options || !query) return <p className={error ? 'error' : 'hint'}>{error ?? 'Loading values...'}</p>
 
@@ -381,6 +401,14 @@ export function PlayerValues() {
 
   return (
     <div>
+      {board && (focusPk != null || board.nomination) && (
+        <FocusPanel row={focusRow} name={board.nomination?.name ?? board.nomination?.yahoo_id ?? ''}
+          bid={nominatedFocus && board.nomination ? { amount: board.nomination.high_bid,
+            team: teams.find((t) => t.team_id === board.nomination!.high_team_id)?.label ?? '' } : null}
+          nominated={nominatedFocus} teams={teams}
+          onOpen={() => focusPk != null && setDrawer(focusPk)}
+          onClear={!nominatedFocus && board.nomination ? () => setTried(null) : undefined} />
+      )}
       <div className="controls">
         <label>Base
           <select value={baseKey(query)} onChange={(e) => {
@@ -423,6 +451,28 @@ export function PlayerValues() {
         <input className="search" type="search" placeholder="Find a player" aria-label="Find a player"
           value={search} onChange={(e) => setSearch(e.target.value)} />
       </div>
+      {live.drafts.length > 0 && (
+        <div className="live-strip">
+          <label>Live draft
+            <select value={live.auto ? 'auto' : live.leagueId}
+              onChange={(e) => live.setChoice(e.target.value === 'auto' ? null : e.target.value)}>
+              <option value="auto">Automatic (active draft){live.auto && live.leagueId ? `: ${live.leagueId}` : live.auto ? ': none' : ''}</option>
+              <option value="">Off</option>
+              {live.drafts.map((d) => <option key={d.league_id} value={d.league_id}>{d.league_id} ({d.kind}, {d.picks} picks)</option>)}
+            </select>
+          </label>
+          {board && (
+            <>
+              <span>{board.picks.length} sold</span>
+              {(() => {
+                const me = board.teams.find((t) => t.mine)
+                return me ? <span title="Your money left minus 1 USD per other open slot"><strong>My max bid: ${me.max_bid}</strong> (${me.money_left} left, {me.open_slots} open slots)</span> : null
+              })()}
+              <label className="toggle"><input type="checkbox" checked={onlyUnsold} onChange={(e) => setOnlyUnsold(e.target.checked)} />Only unsold</label>
+            </>
+          )}
+        </div>
+      )}
       <p className="hint"><strong>{model?.label}.</strong> {model?.description} {dollars?.description}</p>
       {query.model === 'punt' && (
         <div className="punts">
@@ -456,9 +506,10 @@ export function PlayerValues() {
           onSort={clickSort} onOpen={setDrawer} />
       ) : (
       <div className="table-wrap">
-        <TwoLineTable rows={rows} cols={cols} sort={sort} onSort={clickSort} onOpen={setDrawer} />
+        <TwoLineTable rows={rows} cols={cols} sort={sort} onSort={clickSort} onOpen={openRow} onName={board ? setDrawer : undefined} sold={sold} />
       </div>
       )}
+      {board && <LeagueOverview teams={teams} focus={focusRow} />}
       {drawer != null && (
         <PlayerDrawer playerId={drawer} query={query} onClose={closeDrawer} onOpenPlayer={setDrawer} />
       )}

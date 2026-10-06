@@ -151,3 +151,11 @@ def test_usage_season_and_advanced_parse():
     payload["parameters"]["MeasureType"] = "Base"
     with pytest.raises(ValueError):
         nba_advanced.parse({"2025-26": payload})
+
+
+def test_profile_summary_for_draft_panel():
+    from app.knowledge.index import summary
+    md = ("**Current**\n- He starts. (fact, 2026-09-29; [09-29](https://youtu.be/x?t=1))\n\n"
+          "**Durable**\n- Weak [Steals](#) for a big. (fact, 2026-10-04; stats)\n\n"
+          "**Note.** Worth a [bench](#) bid.\n")
+    assert summary(md) == {"note": "Worth a bench bid.", "current": ["He starts."], "durable": ["Weak Steals for a big."]}
