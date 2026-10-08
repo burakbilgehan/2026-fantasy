@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { useSynced } from './synced'
 import { api, STATIC, type LiveBoard, type LiveDraftSummary } from '../api/client'
 
 const POLL_MS = 3000
@@ -9,7 +10,7 @@ const ACTIVE_MS = 30 * 60 * 1000
 /** The live draft the value table follows: teams, picks and the open nomination (T-018). */
 export function useLiveBoard() {
   const [drafts, setDrafts] = useState<LiveDraftSummary[]>([])
-  const [choice, setChoice] = useState<string | null>(null) // null = automatic, '' = off
+  const [choice, setChoice] = useSynced<string | null>('live-draft-choice', null) // null = automatic, '' = off
   const [room, setRoom] = useState<LiveBoard | null>(null)
   const [auto, setAuto] = useState('')
 
@@ -35,7 +36,7 @@ export function useLiveBoard() {
     let alive = true
     const load = () => api.liveBoard(leagueId)
       .then((r) => { if (alive) setRoom(r) })
-      .catch(() => { if (alive) setRoom(null) })
+      .catch(() => { /* keep the last board: a failed poll must not blank the views */ })
     load()
     const timer = setInterval(load, POLL_MS)
     return () => { alive = false; clearInterval(timer) }

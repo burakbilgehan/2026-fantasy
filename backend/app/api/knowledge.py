@@ -1,5 +1,10 @@
 """Profile tags (T-022) for the tag filter and the draft panel (T-018)."""
 
+import json
+import re
+from functools import lru_cache
+from pathlib import Path
+
 from fastapi import APIRouter
 from sqlalchemy import func, select
 
@@ -9,9 +14,41 @@ from app.models import KnowledgeTag, Player
 router = APIRouter(prefix="/api/knowledge")
 
 
-def _row(t: KnowledgeTag) -> dict:
-    return {"tag": t.tag, "kind": t.kind, "channel": t.channel, "detail": t.detail, "until": t.until,
-            "classified": t.classified}
+VIDEO_DIR = Path(__file__).resolve().parents[3] / "docs" / "knowledge" / "_data" / "videos"
+
+
+@lru_cache(maxsize=256)
+def _video(video_id: str) -> dict | None:
+    path = VIDEO_DIR / f"{video_id}.json"
+    if not re.fullmatch(r"[\w-]+", video_id) or not path.is_file():
+        return None
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def source(ref: str) -> dict:
+    """A tag source id ("{video}:p{i}" player note, "{video}:t{i}" team note, or "stats") as the note
+    text, the quote, the video and a link at the timestamp."""
+    if ref == "stats":
+        return {"id": ref, "text": "Our own stats (category profile).", "quote": None, "url": None,
+                "date": None, "video": None}
+    m = re.fullmatch(r"([\w-]+):([pt])(\d+)", ref)
+    doc = _video(m.group(1)) if m else None
+    notes = (doc or {}).get("player_notes" if m and m.group(2) == "p" else "team_notes", [])
+    n = notes[int(m.group(3))] if m and int(m.group(3)) < len(notes) else None
+    if not n:
+        return {"id": ref, "text": None, "quote": None, "url": None, "date": None, "video": None}
+    v = doc["video"]
+    return {"id": ref, "text": n.get("text"), "quote": n.get("quote"),
+            "url": f"https://youtu.be/{v['id']}?t={int(n.get('seconds') or 0)}",
+            "date": v.get("upload_date"), "video": v.get("title")}
+
+
+def _row(t: KnowledgeTag, sources: bool = False) -> dict:
+    out = {"tag": t.tag, "kind": t.kind, "channel": t.channel, "detail": t.detail, "until": t.until,
+           "classified": t.classified}
+    if sources:
+        out["sources"] = [source(r) for r in (t.sources or [])]
+    return out
 
 
 @router.get("/tags")
@@ -40,4 +77,4 @@ def get_tag(tag: str) -> list[dict]:
 def get_player_tags(player_pk: int) -> list[dict]:
     with SessionLocal() as db:
         rows = db.scalars(select(KnowledgeTag).where(KnowledgeTag.player_pk == player_pk))
-        return [_row(t) for t in rows]
+        return [_row(t, sources=True) for t in rows]

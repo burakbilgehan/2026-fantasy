@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState, type ReactNode } from 'react'
+import { useEffect, useRef, useState, type PointerEvent, type ReactNode } from 'react'
 import {
   api, type Article, type ModelValue, type PlayerCard, type PlayerModels, type PlayerProjection, type PlayerTag, type TeamDepth,
   type ValuationQuery,
@@ -6,6 +6,7 @@ import {
 import { CAT_LABEL } from '../lib/categories'
 import { Headshot } from './Headshot'
 import { Markdown } from './Markdown'
+import { TagChip } from './TagChip'
 
 type Loaded<T> = { data: T | null; error: string | null }
 
@@ -93,11 +94,7 @@ function Tags({ tags }: { tags: PlayerTag[] }) {
         return (
           <div key={channel} className="tag-row">
             <span className="tag-group">{label}</span>
-            {list.map((t, i) => (
-              <span key={`${t.tag}-${i}`} className={`tag ${channel}`} title={t.detail ?? undefined}>
-                {t.tag}{t.until ? ` (until ${t.until})` : ''}
-              </span>
-            ))}
+            {list.map((t, i) => <TagChip key={`${t.tag}-${i}`} t={t} />)}
           </div>
         )
       })}
@@ -321,11 +318,71 @@ type Props = {
   query?: ValuationQuery | null
   onClose: () => void
   onOpenPlayer: (id: number) => void
+  onMinimize?: () => void
+}
+
+// Floating window (user, 2026-10-06): the page stays usable, the window can be dragged by its header,
+// resized from its corner, minimized and closed. Its place and size are kept for the next opening.
+type Box = { x: number; y: number; w: number; h: number }
+const BOX_KEY = 'drawer-box'
+
+function defaultBox(): Box {
+  const w = Math.min(680, window.innerWidth - 24)
+  return { x: window.innerWidth - w - 12, y: 56, w, h: window.innerHeight - 68 }
+}
+
+function fit(b: Box): Box {
+  const w = Math.min(Math.max(b.w, 360), window.innerWidth - 8)
+  const h = Math.min(Math.max(b.h, 240), window.innerHeight - 8)
+  return { w, h, x: Math.min(Math.max(b.x, 4 - w + 120), window.innerWidth - 120), y: Math.min(Math.max(b.y, 4), window.innerHeight - 48) }
+}
+
+function readBox(): Box {
+  try {
+    const raw = localStorage.getItem(BOX_KEY)
+    return fit(raw ? (JSON.parse(raw) as Box) : defaultBox())
+  } catch {
+    return defaultBox()
+  }
+}
+
+function saveBox(b: Box) {
+  try { localStorage.setItem(BOX_KEY, JSON.stringify(b)) } catch { /* private mode: not kept */ }
 }
 
 /** Player profile drawer (T-028). Reusable: needs only a player id. */
-export function PlayerDrawer({ playerId, query, onClose, onOpenPlayer }: Props) {
+export function PlayerDrawer({ playerId, query, onClose, onOpenPlayer, onMinimize }: Props) {
   const panel = useRef<HTMLDivElement>(null)
+  const [box, setBox] = useState<Box>(readBox)
+  const drag = useRef<{ px: number; py: number; x: number; y: number } | null>(null)
+
+  // Size changes come from the native resize corner: keep them.
+  useEffect(() => {
+    const el = panel.current
+    if (!el) return
+    const ro = new ResizeObserver(() => {
+      setBox((b) => {
+        const n = { ...b, w: el.offsetWidth, h: el.offsetHeight }
+        if (n.w === b.w && n.h === b.h) return b
+        saveBox(n)
+        return n
+      })
+    })
+    ro.observe(el)
+    return () => ro.disconnect()
+  }, [])
+
+  const onDragStart = (e: PointerEvent) => {
+    if ((e.target as HTMLElement).closest('button')) return
+    drag.current = { px: e.clientX, py: e.clientY, x: box.x, y: box.y }
+    ;(e.currentTarget as HTMLElement).setPointerCapture(e.pointerId)
+  }
+  const onDragMove = (e: PointerEvent) => {
+    const d = drag.current
+    if (!d) return
+    setBox((b) => fit({ ...b, x: d.x + e.clientX - d.px, y: d.y + e.clientY - d.py }))
+  }
+  const onDragEnd = () => { if (drag.current) { drag.current = null; setBox((b) => { saveBox(b); return b }) } }
   const [fallback, setFallback] = useState<ValuationQuery | null>(null)
   const q = query ?? fallback
 
@@ -341,12 +398,7 @@ export function PlayerDrawer({ playerId, query, onClose, onOpenPlayer }: Props) 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => { if (e.key === 'Escape') onClose() }
     document.addEventListener('keydown', onKey)
-    const overflow = document.body.style.overflow
-    document.body.style.overflow = 'hidden'
-    return () => {
-      document.removeEventListener('keydown', onKey)
-      document.body.style.overflow = overflow
-    }
+    return () => document.removeEventListener('keydown', onKey)
   }, [onClose])
 
   useEffect(() => { panel.current?.scrollTo({ top: 0 }); panel.current?.focus() }, [playerId])
@@ -362,15 +414,19 @@ export function PlayerDrawer({ playerId, query, onClose, onOpenPlayer }: Props) 
   const selected = models.data?.models.find((m) => m.key === q?.model) ?? null
 
   return (
-    <div className="drawer-backdrop" onClick={onClose}>
-      <div ref={panel} className="drawer" role="dialog" aria-modal="true" aria-labelledby="drawer-title" tabIndex={-1}
-        onClick={(e) => e.stopPropagation()}>
-        <div className="drawer-head">
+    <>
+      <div ref={panel} className="drawer floating" role="dialog" aria-modal="false" aria-labelledby="drawer-title" tabIndex={-1}
+        style={{ left: box.x, top: box.y, width: box.w, height: box.h }}>
+        <div className="drawer-head" onPointerDown={onDragStart} onPointerMove={onDragMove} onPointerUp={onDragEnd}
+          onPointerCancel={onDragEnd} title="Drag to move. Resize from the bottom right corner.">
           <div className="drawer-title">
             {card.data && <Headshot nbaId={card.data.nba_id} name={card.data.name} size="lg" />}
             <h2 id="drawer-title">{card.data?.name ?? 'Player'}</h2>
           </div>
-          <button className="close" onClick={onClose} aria-label="Close">Close</button>
+          <div className="drawer-buttons">
+            {onMinimize && <button onClick={onMinimize} aria-label="Minimize">Minimize</button>}
+            <button className="close" onClick={onClose} aria-label="Close">Close</button>
+          </div>
         </div>
         {/* Top: facts and prices on the left, the category profile (9-point radar) on the right (user, 2026-10-06). */}
         <div className="drawer-top">
@@ -434,6 +490,6 @@ export function PlayerDrawer({ playerId, query, onClose, onOpenPlayer }: Props) 
           </Section>
         )}
       </div>
-    </div>
+    </>
   )
 }

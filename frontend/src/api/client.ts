@@ -170,6 +170,8 @@ export type PlayerTag = {
   detail: string | null
   until: string | null
   classified: boolean
+  // Why the tag was given: the expert notes behind it (video, timestamp link, quote) or "stats".
+  sources?: { id: string; text: string | null; quote: string | null; url: string | null; date: string | null; video: string | null }[]
 }
 
 export type ModelValue = {

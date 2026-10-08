@@ -478,3 +478,149 @@ table.h2h .after.bad { color: var(--bad); }
 .team-box .roster li span { display: inline-block; }
 .team-box .roster .pname { min-width: 160px; }
 .team-box .roster .ppos { min-width: 40px; color: var(--muted); font-size: 0.8rem; }
+
+/* Tabs and a page without its own scroll (user, 2026-10-06): lists scroll inside, the page does not.
+   Desktop first; a 13-inch laptop screen is the smallest target. */
+html, body, #root { height: 100%; }
+body { overflow: hidden; }
+#root { display: flex; flex-direction: column; }
+.topbar { padding: 8px 20px 4px; }
+.wordmark { font-size: 1.35rem; }
+.tabs { display: flex; gap: 4px; }
+.tabs a { padding: 4px 14px; border-radius: 8px; color: var(--muted); text-decoration: none; border: 1px solid transparent; }
+.tabs a.on { color: var(--text); border-color: var(--line); background: var(--raised); font-weight: 600; }
+main.scroll { flex: 1; min-height: 0; overflow: auto; }
+main.fill { flex: 1; min-height: 0; padding: 4px 16px 12px; display: flex; }
+.panel.fill { flex: 1; min-width: 0; min-height: 0; display: flex; flex-direction: column; padding: 10px 14px; }
+.pv { flex: 1; min-height: 0; display: flex; flex-direction: column; }
+.pv > * { flex-shrink: 0; }
+.pv .controls { margin-bottom: 4px; }
+.pv .hint { margin: 2px 0; }
+.pv-draft .focus-panel { max-height: 40vh; overflow: auto; margin-bottom: 8px; }
+.pv-draft .table-wrap { flex: 1 1 auto; flex-shrink: 1; min-height: 120px; max-height: none; }
+.pv-player .focus-panel { flex: 1 1 auto; flex-shrink: 1; min-height: 0; overflow: auto; margin: 0; }
+.pv-player .focus-body { grid-template-columns: 1fr; }
+.pv-league .league-overview { flex: 1 1 auto; flex-shrink: 1; min-height: 0; margin: 0; display: grid;
+  grid-template-columns: minmax(0, auto) minmax(0, 1fr); grid-template-rows: auto minmax(0, 1fr); gap: 0 16px; }
+.pv-league .league-overview > h3 { grid-row: 1; margin: 4px 0 6px; }
+.pv-league .league-overview > .table-wrap { grid-row: 2; grid-column: 1; overflow: auto; border: 0; background: none; }
+.pv-league .league-overview > .team-boxes { grid-row: 2; grid-column: 2; overflow: auto; align-content: start;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+.pv-league .league-overview > h3:first-of-type { grid-column: 1; }
+.pv-league .league-overview > h3:last-of-type { grid-column: 2; }
+
+/* Player window: floating, draggable, resizable, minimizable; the page stays usable (user, 2026-10-06). */
+.drawer.floating {
+  position: fixed; z-index: 50; resize: both; overflow: auto; max-width: calc(100vw - 8px); max-height: calc(100vh - 8px);
+  min-width: 360px; min-height: 240px; border: 1px solid var(--line); border-radius: 12px; padding-top: 0;
+}
+.drawer.floating .drawer-head { cursor: move; user-select: none; touch-action: none; }
+.drawer-buttons { display: flex; gap: 6px; }
+.drawer-pill {
+  position: fixed; right: 12px; bottom: 16px; z-index: 50; padding: 8px 14px; border-radius: 999px;
+  border: 1px solid var(--accent); background: var(--raised); box-shadow: 0 6px 18px color-mix(in oklab, #000 25%, transparent);
+  font-weight: 600; cursor: pointer;
+}
+a.tag.linked { color: inherit; text-decoration: none; cursor: pointer; }
+a.tag.linked:hover { border-color: var(--accent); color: var(--accent); }
+/* Draft view: the focus panel has a fixed height, so the table keeps its size (user, 2026-10-06). */
+.pv-draft .focus-panel { height: 30vh; max-height: 30vh; flex: 0 0 30vh; overflow: auto; }
+/* League view: the matrix must not squeeze the team boxes (user, 2026-10-06). */
+.pv-league .league-overview { grid-template-columns: minmax(0, 3fr) minmax(330px, 2fr); }
+.pv-league table.h2h { font-size: 0.8rem; }
+.pv-league table.h2h th, .pv-league table.h2h td { padding: 3px 5px; }
+.pv-league .league-overview > .team-boxes { grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); }
+/* League view v3 (user, 2026-10-06): matrix on top over the full width, team boxes below in many
+   compact columns that use the whole width; only the box area scrolls. */
+.pv-league .league-overview { grid-template-columns: minmax(0, 1fr); grid-template-rows: auto auto auto minmax(0, 1fr); }
+.pv-league .league-overview > h3:first-of-type { grid-row: 1; grid-column: 1; }
+.pv-league .league-overview > .table-wrap { grid-row: 2; grid-column: 1; }
+.pv-league .league-overview > h3:last-of-type { grid-row: 3; grid-column: 1; }
+.pv-league .league-overview > .team-boxes { grid-row: 4; grid-column: 1; gap: 8px;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); }
+.pv-league table.h2h { width: 100%; }
+.pv-league .team-box { padding: 6px 8px; gap: 3px; font-size: 0.8rem; }
+.pv-league .team-box header { font-size: 0.78rem; }
+.pv-league .team-box .roster { font-size: 0.78rem; padding-left: 16px; }
+.pv-league .team-box .roster .pname { min-width: 0; width: 62%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; vertical-align: bottom; }
+.pv-league .team-box .roster .ppos { min-width: 0; width: 18%; }
+.pv-league .team-box table.team-line { font-size: 0.72rem; }
+.pv-league .team-box table.team-line td span { padding: 0 2px; }
+/* League view v4: team table under the matrix (user, 2026-10-06). */
+.pv-league .league-overview > .teams-wrap { grid-row: 4; grid-column: 1; overflow: auto; border: 0; background: none; }
+table.teams { font-size: 0.8rem; width: 100%; }
+table.teams th, table.teams td { padding: 3px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
+table.teams th { color: var(--muted); font-weight: 500; white-space: nowrap; }
+table.teams td.num, table.teams th.num { text-align: right; white-space: nowrap; }
+table.teams td.team, table.teams td.elig { white-space: nowrap; }
+table.teams tr.mine td.team { color: var(--accent); font-weight: 700; }
+table.teams td.players { min-width: 280px; line-height: 1.35; }
+table.teams td.players span { display: inline-block; margin-right: 10px; white-space: nowrap; }
+table.teams td.players b { color: var(--muted); font-weight: 500; }
+/* Team table: two lines per team, players on their own full-width line (user, 2026-10-06). */
+table.teams tbody.team-rows tr:first-child td { border-bottom: 0; padding-top: 5px; }
+table.teams tbody.team-rows tr:last-child td { padding-bottom: 6px; }
+table.teams tbody.team-rows:nth-of-type(even) { background: color-mix(in oklab, var(--line) 30%, transparent); }
+table.teams tbody.team-rows.mine td.team { color: var(--accent); font-weight: 700; }
+table.teams tbody.team-rows.mine { outline: 1px solid var(--accent); }
+table.teams td.players { min-width: 0; color: var(--text); }
+table.teams td.players span { margin-right: 14px; }
+/* Team table v5 (user, 2026-10-06): one row per team, players on the right in a fixed 6 x 2 grid,
+   so a full 12-man roster fits in two lines without pushing the table sideways. */
+table.teams td.players { width: 46%; min-width: 360px; padding-top: 4px; padding-bottom: 4px; }
+table.teams td.players .pgrid { display: flex; flex-wrap: wrap; gap: 1px 12px; }
+table.teams td.players .pgrid > span { display: flex; gap: 4px; min-width: 0; margin: 0; white-space: nowrap; }
+table.teams td.players i { font-style: normal; }
+table.teams td.players b { flex-shrink: 0; color: var(--muted); font-weight: 500; }
+table.teams td.players .hint { grid-column: 1 / -1; }
+table.teams tbody tr:nth-child(even) { background: color-mix(in oklab, var(--line) 30%, transparent); }
+table.teams tr.mine { outline: 1px solid var(--accent); }
+table.teams td { vertical-align: middle; }
+/* League view sizes (user, 2026-10-06): readable matrix and team table at normal text size. */
+.pv-league table.h2h { font-size: 0.85rem; line-height: 1.3; }
+.pv-league table.h2h th, .pv-league table.h2h td { padding: 3px 6px; }
+.pv-league .league-overview > h3 { font-size: 1rem; margin: 6px 0 4px; }
+.pv-league table.teams { font-size: 0.9rem; }
+.pv-league table.teams th, .pv-league table.teams td { padding: 6px 8px; }
+table.teams td.players .pgrid { gap: 3px 16px; }
+table.teams td.players small { color: var(--muted); font-size: 0.78em; }
+/* League view: matrix only as wide as it needs, left; the space to its right is kept for a new panel
+   (user, 2026-10-06). Team table spans the full width under both. */
+.pv-league .league-overview { grid-template-columns: max-content minmax(0, 1fr); }
+.pv-league table.h2h { width: auto; }
+.pv-league .league-overview > h3:first-of-type { grid-row: 1; grid-column: 1; }
+.pv-league .league-overview > .table-wrap:not(.teams-wrap) { grid-row: 2; grid-column: 1; }
+.pv-league .league-overview > h3:last-of-type { grid-row: 3; grid-column: 1 / -1; }
+.pv-league .league-overview > .teams-wrap { grid-row: 4; grid-column: 1 / -1; }
+/* Category supply, right of the matrix (user, 2026-10-06). */
+.pv-league .league-overview > .supply { grid-row: 1 / 3; grid-column: 2; min-width: 0; padding-left: 8px; }
+.supply h3 { font-size: 1rem; margin: 6px 0 4px; }
+.supply-table { font-size: 0.88rem; width: 100%; max-width: 560px; }
+.supply-table th { width: 44px; color: var(--muted); font-weight: 500; padding: 4px 8px 4px 0; }
+.supply-table td { padding: 4px 6px; white-space: nowrap; }
+.supply-table td.num { text-align: right; color: var(--muted); }
+.supply-table .bar-cell { width: 100%; }
+.supply .bar { position: relative; height: 12px; border-radius: 6px; background: var(--line); }
+.supply .bar span { position: absolute; inset: 0 auto 0 0; border-radius: 6px; background: var(--accent); }
+.supply .bar.behind span { background: var(--bad); }
+.supply .bar.ahead span { background: var(--good); }
+.supply .bar i { position: absolute; top: -3px; bottom: -3px; width: 2px; background: var(--text); }
+/* Supply bar color: green when the category goes slower than average, red when faster; strength by distance. */
+.supply .bar span { background: color-mix(in oklab, var(--accent) calc((1 - var(--a, 0)) * 100%), var(--tone, var(--accent))); }
+.supply .bar.scarce { --tone: var(--bad); }
+.supply .bar.plenty { --tone: var(--good); }
+.supply-table thead th { font-weight: 400; font-size: 0.78rem; padding-bottom: 2px; }
+/* League view: fixed column split and fixed matrix cells, so the layout does not move when the focus
+   player changes and "now → after" text comes and goes (user, 2026-10-06). */
+.pv-league .league-overview { grid-template-columns: minmax(0, 3fr) minmax(0, 2fr); }
+.pv-league table.h2h { width: 100%; table-layout: fixed; }
+.pv-league table.h2h th, .pv-league table.h2h td { overflow: hidden; text-overflow: ellipsis; }
+.pv-league table.h2h th:first-child, .pv-league table.h2h td:first-child { width: 28px; }
+.pv-league table.h2h th:nth-child(2), .pv-league table.h2h td:nth-child(2) { width: 84px; }
+.pv-league table.h2h th:last-child, .pv-league table.h2h td:last-child { width: 118px; }
+.pv-league .league-overview { grid-template-columns: minmax(0, 2fr) minmax(0, 1fr); }
+.pv-league table.h2h th:first-child, .pv-league table.h2h td:first-child { width: 34px; }
+.pv-league table.h2h th, .pv-league table.h2h td { padding: 3px 4px; }
+/* FG% and FT% volume under the rate in the value table. */
+td.heat .vol { display: block; font-size: 0.72em; font-weight: 400; color: var(--muted); line-height: 1.1; }
+td.heat .vol { font-size: 0.82em; color: color-mix(in oklab, var(--text) 70%, transparent); }

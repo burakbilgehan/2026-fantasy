@@ -4,6 +4,7 @@ import { Headshot } from '../../components/Headshot'
 import { PlayerDrawer } from '../../components/PlayerDrawer'
 import { CAT_LABEL } from '../../lib/categories'
 import { useLiveBoard } from '../../lib/liveBoard'
+import { useSynced } from '../../lib/synced'
 import { FocusPanel } from './draft/FocusPanel'
 import { LeagueOverview } from './draft/LeagueOverview'
 import { buildTeams } from './draft/model'
@@ -36,6 +37,7 @@ type Column = {
   fmt?: (v: number) => string
   heat?: (p: ValuedPlayer) => { z: number; full: number } | null // tint source; positive = good
   render?: (p: ValuedPlayer) => ReactNode // custom cell content (sold players in a live draft)
+  sub?: (p: ValuedPlayer) => string | null // small second line (FG% and FT%: attempts per game)
 }
 
 const money = (v: number) => `$${v.toFixed(0)}`
@@ -115,6 +117,11 @@ function columns(cats: string[], view: 'stats' | 'z', usageSeason?: string, usag
     sortValue: c.endsWith('pct') ? (p) => p.z?.[c] ?? null : undefined,
     title: c.endsWith('pct') ? 'Shown: the rate. Color and sort: impact on the team rate (volume counts).' : undefined,
     fmt: view === 'z' ? (v) => v.toFixed(2) : c.endsWith('pct') ? (v) => v.toFixed(3) : one,
+    // Volume next to the rate (user, 2026-10-06): attempts per game.
+    sub: c.endsWith('pct') ? (p) => {
+      const att = c === 'fg_pct' ? p.stats.fga : p.stats.fta
+      return att != null && p.stats.gp ? `(${(att / p.stats.gp).toFixed(1)})` : null
+    } : undefined,
     heat: (p) => (p.z ? { z: p.z[c], full: Z_FULL } : null),
   }))
   return [...base, ...catCols]
@@ -141,7 +148,8 @@ function Cell({ col, p, rowSpan, extra }: { col: Column; p: ValuedPlayer; rowSpa
   const text = cellText(col, p)
   const h = heatOf(col, p)
   if (h) {
-    return <td rowSpan={rowSpan} className={[h.cls, col.className, extra].filter(Boolean).join(' ')}><span style={h.style}>{text}</span></td>
+    const sub = col.sub?.(p)
+    return <td rowSpan={rowSpan} className={[h.cls, col.className, extra].filter(Boolean).join(' ')}><span style={h.style}>{text}{sub && <small className="vol">{sub}</small>}</span></td>
   }
   const cls = [col.num && 'num', col.className, extra].filter(Boolean).join(' ') || undefined
   return (
@@ -302,15 +310,24 @@ function MobileList({ rows, cols, cats, sort, onSort, onOpen }: {
   )
 }
 
-export function PlayerValues() {
+// Views (user, 2026-10-06): 'draft' = focus panel and table, 'league' = H2H and teams, 'player' = focus
+// panel only. Open them in separate tabs side by side; the selected player and the table settings follow
+// across tabs.
+export type View = 'draft' | 'league' | 'player'
+
+export function PlayerValues({ mode = 'draft' }: { mode?: View }) {
   const [options, setOptions] = useState<ValuationOptions | null>(null)
-  const [query, setQuery] = useState<ValuationQuery | null>(null)
+  const [query, setQuery] = useSynced<ValuationQuery | null>('pv-query', null)
   const [data, setData] = useState<Valuation | null>(null)
   const [error, setError] = useState<string | null>(null)
   const [view, setView] = useState<'stats' | 'z'>('stats')
   const [search, setSearch] = useState('')
   const [sort, setSort] = useState<{ key: string; desc: boolean }>({ key: 'rank', desc: false })
-  const [drawer, setDrawer] = useState<number | null>(null)
+  const [drawerId, setDrawerId] = useState<number | null>(null)
+  const [minimized, setMinimized] = useState(false)
+  const drawer = minimized ? null : drawerId
+  // Opening a player always shows the window again, also after minimize.
+  const setDrawer = useCallback((id: number | null) => { setDrawerId(id); setMinimized(false) }, [])
   const [tags, setTags] = useState<TagCount[]>([])
   const [tag, setTag] = useState('')
   const [tagLoaded, setTagLoaded] = useState<{ tag: string; ids: Set<number> } | null>(null)
@@ -329,19 +346,23 @@ export function PlayerValues() {
       .map((p) => [p.player_pk!, `$${p.price} ${name.get(p.team_id)}`]))
   }, [board])
   // Player in the top panel: the one the user clicked (until the next nomination), else the nominated one.
-  const [tried, setTried] = useState<{ pk: number; nom: string | null } | null>(null)
+  const [tried, setTried] = useSynced<{ pk: number; nom: string | null } | null>('pv-tried', null)
   const nomKey = board?.nomination ? `${board.nomination.yahoo_id}` : null
-  const closeDrawer = useCallback(() => setDrawer(null), [])
+  const closeDrawer = useCallback(() => setDrawer(null), [setDrawer])
 
   useEffect(() => {
     api.valuationOptions()
       .then((o) => {
         setOptions(o)
         const d = o.defaults
-        setQuery({ kind: d.kind, source: d.source, season: d.season, basis: d.basis, model: d.model,
+        // Keep a query another tab already chose, when its base still exists.
+        const ok = (q: ValuationQuery | null) => q && o.bases.some((b) => b.kind === q.kind && b.source === q.source && b.season === q.season)
+        setQuery(ok(query) ? query : { kind: d.kind, source: d.source, season: d.season, basis: d.basis, model: d.model,
           dollars: d.dollars, pool: d.pool, punt: [] })
       })
       .catch((e: Error) => setError(e.message))
+    // Runs once on load: reads the query another tab may have stored.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
   useEffect(() => { api.tags().then(setTags).catch(() => { /* tag filter stays empty */ }) }, [])
@@ -400,7 +421,21 @@ export function PlayerValues() {
     setSort((s) => (s.key === key ? { key, desc: !s.desc } : { key, desc: !['rank', 'name', 'team', 'pos'].includes(key) }))
 
   return (
-    <div>
+    <div className={`pv pv-${mode}`}>
+      {live.drafts.length > 0 && mode !== 'draft' && (
+        <div className="live-strip">
+          <label>Live draft
+            <select value={live.auto ? 'auto' : live.leagueId}
+              onChange={(e) => live.setChoice(e.target.value === 'auto' ? null : e.target.value)}>
+              <option value="auto">Automatic (active draft){live.auto && live.leagueId ? `: ${live.leagueId}` : live.auto ? ': none' : ''}</option>
+              <option value="">Off</option>
+              {live.drafts.map((d) => <option key={d.league_id} value={d.league_id}>{d.league_id} ({d.kind}, {d.picks} picks)</option>)}
+            </select>
+          </label>
+          {!board && <span className="hint">No live draft followed. This view fills when a draft is followed.</span>}
+        </div>
+      )}
+      {mode !== 'league' && <>
       {board && (focusPk != null || board.nomination) && (
         <FocusPanel row={focusRow} name={board.nomination?.name ?? board.nomination?.yahoo_id ?? ''}
           bid={nominatedFocus && board.nomination ? { amount: board.nomination.high_bid,
@@ -409,6 +444,12 @@ export function PlayerValues() {
           onOpen={() => focusPk != null && setDrawer(focusPk)}
           onClear={!nominatedFocus && board.nomination ? () => setTried(null) : undefined} />
       )}
+      {/* Keeps the panel's space while no player is in focus, so the table does not jump (user, 2026-10-06). */}
+      {mode === 'draft' && board && focusPk == null && !board.nomination && (
+        <section className="focus-panel focus-empty"><p className="hint">Waiting for the next nomination. Click a row to try a player.</p></section>
+      )}
+      </>}
+      {mode === 'draft' && <>
       <div className="controls">
         <label>Base
           <select value={baseKey(query)} onChange={(e) => {
@@ -509,9 +550,16 @@ export function PlayerValues() {
         <TwoLineTable rows={rows} cols={cols} sort={sort} onSort={clickSort} onOpen={openRow} onName={board ? setDrawer : undefined} sold={sold} />
       </div>
       )}
-      {board && <LeagueOverview teams={teams} focus={focusRow} />}
+      </>}
+      {mode === 'league' && board && <LeagueOverview teams={teams} focus={focusRow} pool={data?.players ?? []} sold={sold} />}
       {drawer != null && (
-        <PlayerDrawer playerId={drawer} query={query} onClose={closeDrawer} onOpenPlayer={setDrawer} />
+        <PlayerDrawer playerId={drawer} query={query} onClose={closeDrawer} onOpenPlayer={setDrawer}
+          onMinimize={() => setMinimized(true)} />
+      )}
+      {minimized && drawerId != null && (
+        <button className="drawer-pill" onClick={() => setMinimized(false)} title="Open the player window again">
+          ▣ {byId.get(drawerId)?.name ?? 'Player'}
+        </button>
       )}
     </div>
   )

@@ -4,6 +4,7 @@
 import { useEffect, useState, type CSSProperties } from 'react'
 import { api, type PlayerCard, type PlayerTag, type ValuedPlayer } from '../../../api/client'
 import { Headshot } from '../../../components/Headshot'
+import { TagChip } from '../../../components/TagChip'
 import { CAT_LABEL } from '../../../lib/categories'
 import { catRanks, h2h, H2H_CATS } from '../../../lib/h2h'
 import { eligibility, STARTERS, teamLines, type DraftTeam } from './model'
@@ -13,8 +14,10 @@ const RISK = /bust|injur|load management|shutdown|trade risk|minutes risk/i
 
 function perGame(p: ValuedPlayer, c: string): string {
   const s = p.stats
-  if (c === 'fg_pct') return s.fga ? ((s.fgm ?? 0) / s.fga).toFixed(3).replace(/^0\./, '.') : '-'
-  if (c === 'ft_pct') return s.fta ? ((s.ftm ?? 0) / s.fta).toFixed(3).replace(/^0\./, '.') : '-'
+  // Rate with the volume (attempts per game) in parentheses (user, 2026-10-06).
+  const vol = (att: number | null | undefined) => (att != null && s.gp ? ` (${(att / s.gp).toFixed(1)})` : '')
+  if (c === 'fg_pct') return s.fga ? ((s.fgm ?? 0) / s.fga).toFixed(3).replace(/^0\./, '.') + vol(s.fga) : '-'
+  if (c === 'ft_pct') return s.fta ? ((s.ftm ?? 0) / s.fta).toFixed(3).replace(/^0\./, '.') + vol(s.fta) : '-'
   return s.gp ? ((s[c] ?? 0) / s.gp).toFixed(1) : '-'
 }
 
@@ -119,7 +122,7 @@ export function FocusPanel({ row, name, bid, nominated, teams, onOpen, onClear }
             )}
           </div>
           <div className="focus-col">
-            {tags.length > 0 && <div className="tag-row">{tags.map((t) => <span key={`${t.channel}-${t.tag}`} className={`tag ${t.channel}`} title={t.detail ?? undefined}>{t.tag}</span>)}</div>}
+            {tags.length > 0 && <div className="tag-row">{tags.map((t) => <TagChip key={`${t.channel}-${t.tag}`} t={t} />)}</div>}
             {summary?.note && <p className="focus-note">{summary.note}</p>}
             {summary && (summary.durable.length > 0 || summary.current.length > 0) && (
               <div className="focus-lists">
