@@ -1,0 +1,1175 @@
+Central: Chicago, Cleveland, Detroit, Indiana, Milwaukee.
+
+Central'da iki kazanan takım, Detroit, Cleveland, dönüş yapan bir Indiana ve iki yeniden kurulan takım, Chicago, Giannis'siz Milwaukee, var. Bu bölümde her takımın bütün rotasyonunu, toplam altmış dört oyuncuyu, dokuz kategori gözüyle fiyatlıyoruz. Bölümün özelliği: ucuz kategori oyuncuları bol, pahalı yıldızların çoğu odanın ödeyeceğinden daha az değerli.
+
+Bu bölümde Central'ın beş takımını ve altmış dört oyuncuyu ele alıyoruz: otuz çekirdek oyuncu, dokuz kategori sırası yüz yetmiş veya daha iyi, ya da piyasa sırası yüz elli veya daha iyi, ve otuz dört rotasyon oyuncusu, on dakika veya daha fazla projeksiyon, ya da takım derinlik şemasında. Rotasyon oyuncularının neredeyse hiçbiri draft oyuncusu değil. Onları sezon içi için yazıyoruz: kim kimin handcuff'ı, kim streamer, kimi görmezden gelmeli. Fiyat okuma kuralları Bölüm sıfır ve Bölüm üçte var. Kısaca: bizim fiyat kendi projeksiyonumuzdan gelir, Minus bir modeli, yüz kırk dört oyunculuk havuz. Piyasa fiyatı Yahoo ortalama maliyeti, iki kat ağırlık, ESPN ortalama maliyeti ve Fantrax ADP karışımıdır. İkisini karıştırmıyoruz.
+
+Bu bölümün ana kuralı: bizim fiyatı odanın beklenen fiyatıyla karşılaştır. Bizim fiyatlarımız zaten odanın ölçeğinde: ilk yüz kırk dört oyuncu için toplamı iki bin dört yüz dolar, yani odanın bütün bütçesi. Piyasa fiyatları ise toplamda bin sekiz yüz seksen sekiz dolar. Odanın gerçekte ödeyeceği fiyat yaklaşık piyasa çarpı bir virgül yirmi yedi, yıldızlarda daha fazla, son dolar oyuncularında daha az. Oda parasını yıldızlara yığdığı için orta sıralar ucuz kalıyor. Örnek: Caleb Wilson bizde seksen sekizinci, piyasada seksen dokuzuncu sırada, ama biz on bir virgül üç dolar diyoruz, oda yaklaşık üç dolar ödeyecek. Sıralar aynı olsa da bu bir alım fırsatı. AL için bu farkın yanında bir kaynağın daha, uzman veya format farkı, aynı yöne bakmasını arıyoruz: Buzelis, Ware, Ausar Thompson, Rollins, Allen, Collins, Wilson, Powell, Herro ve Zubac. Tersine, Cade, Mitchell ve Haliburton'da oda bizim fiyatımızın çok üstüne çıkacak.
+
+İki format farkı. Format farkı eşittir dokuz kategori sırası eksi points sırası. artı yirmi ve üstü points liginde şişmiş oyuncu, eksi yirmi ve altı piyasanın ucuz bıraktığı kategori oyuncusu. Bu bölümde iki farkı da gösteriyoruz: Minus bir farkı ve tam z skor farkı. Minus bir her oyuncunun en kötü kategorisini siler. En kötü kategori top kaybıysa, Cade, Giddey, Harden, şişmeyi gizler, bu yüzden tam z farkı dürüst olanıdır. Giddey'de fark artı on dokuzdan artı yirmi sekize, Cade'de artı birden artı dokuza çıkıyor. Siakam iki ölçüde de tuzak, artı yirmi beş ve artı otuz iki.
+
+Model fazlaları. Üçlük atmayan pivotlarda, Duren, Allen, Zubac, Reed, Minus bir üçlüğü siler ve fiyatı yükseltir. Serbest atışı çok kötü olanlarda, Mobley, Ausar, Claxton, serbest atışı siler. Bu kartlarda tam z fiyatını da veriyoruz ve uzman görüşüne yaslanıyoruz. Mobley, Giannis'in küçük bir örneği: serbest atış punt'unun çapası.
+
+Yapılara göre. Top kaybı punt'u: Cade, Giddey, Harden, Mitchell ve Rollins. Serbest atış punt'u: Mobley, Ausar, Claxton, Siakam ve Wilson. Üçlük punt'u: Duren, Allen, Zubac, Reed, Ausar ve Claxton. Saha içi punt'u: Harden ve Turner. Her yapıya uyanlar: Buzelis, Haliburton, Herro, Powell ve Collins.
+
+En fazla rakamı nasıl çıktı. Bizim fiyatımız zaten odanın ölçeğinde, bu yüzden onu çarpmıyoruz. En fazla rakamı bizim fiyattan başlar. Daha düşük, tarihli bir uzman tavanı, büyük bir format farkı, gizlenmiş bir kötü kategori, o zaman tam z fiyatı, sakatlık veya kötü playoff takvimi varsa aşağı çekiyoruz. Yukarı ancak kartta açık bir sebep yazıyorsa çıkıyoruz, örnek: punt yapısı veya handcuff rolü. bir virgül yirmi yedi çarpanı sadece piyasa fiyatı için: odanın beklenen fiyatı yaklaşık piyasa çarpı bir virgül yirmi yedi. Her kartta hesabı bir cümleyle söylüyoruz. Geçen sezonun lig fiyatlarını kural olarak kullanmıyoruz.
+
+Veri notları. Playoff haftası maç sayıları takım profilindeki takvim tablosundan geliyor, bizim yirmi sekiz Mart bitişimiz. Cleveland için uzman notları "ligin en çok back-to-back'i" diyor, profil tablosu on altı back-to-back ile yirmi altıncı sıra gösteriyor, bir eşittir en az. on altı, Atlantic bölümünde ligin en yüksek sayısıydı, yani notla tablo uyumlu. Yahoo, Duren'i Q ve Watson'ı P, hamstring, gösteriyor, uzmanlar ikisinde de sakatlık endişesi görmüyor. Huff'ın piyasa fiyatı sadece Fantrax'tan geliyor. Z değerleri sezon toplamına dayanıyor gibi görünüyor, yani az maç oynayan oyuncunun, Herro altmış dört, Powell altmış üç maç, değeri düşüyor. Bu bir çıkarım. Takım sıralaması bizim fiyat toplamına göre.
+
+Bölüm tablosu.
+
+Detroit Pistons.
+
+Karar: kazanan takım, iyi playoff takvimi, derin rotasyon.
+
+Ne değişti. Tobias Harris ve Isaiah Stewart gitti. John Collins Clippers'tan geldi ve Harris'in yerine başlıyor. Isaiah Joe Oklahoma City'den geldi. Yazın asıl soru Duren'in sözleşmesiydi: bekleyiş bitti, Duren pivotta başlıyor, üç Ekim. Win total kırk dokuz buçuk, ligde altı. Bir uzman elli ile elli bir galibiyet ve doğuda üçüncü veya dördüncü sıra bekliyor.
+
+Rol ve kullanım. Cunningham dışında top yaratan çok az oyuncu var. Plan, Ausar Thompson ve Duren'e daha çok top vermek. Uzmanlara göre bu plan Ocak'ta çalışmıyorsa Detroit takas tarihinde ikinci bir playmaker alabilir, on iki Ağustos. Takım savunma üzerine kurulu, yönetim sadece yeterli hücum istiyor.
+
+Derinlik şeması. İlk beş geçen sezonla aynı: Cunningham, Duncan Robinson, Ausar Thompson, Collins, Duren. Yedek sırası: Isaiah Joe altıncı adam, sonra Holland, Reed ve Daniss Jenkins. Son yer Prince veya Huerter.
+
+Dakika savaşları. Üç konu var. Ausar'ın dakikası: koç Bickerstaff yirmi altı dakikanın üstü diyor, uzmanlar onun bu konudaki açıklamalarına güvenmiyor, dört Ekim. Power forward derinliği çok zayıf, Ausar ve Holland dörtte oynayabilir. Geçen sezon rotasyon on iki ile on üç kişiydi, bu herkesin dakikasını sınırladı.
+
+Takvim. on beş back-to-back, ligde ortalarda. Uzmanlar dinlenme riski beklemiyor. Playoff haftaları dört, üç, dört, toplam on bir maç, ligde dört. Bu bölümün en iyi playoff takvimi.
+
+Bir starter eksik kalırsa kim kazanır. Cade yoksa Daniss Jenkins: geçen sezonun son on altı maçında Cade yokken otuz bir dakika oynadı. Duren yoksa Paul Reed: yirmi sekiz dakikada uzmanlar onu ilk kırk ile elli görüyor. Bu ikisi Detroit'in en değerli handcuff'ları. Ausar veya Collins yoksa Holland dörtte dakika alır. Duncan Robinson'ın yerine en yakın aday Isaiah Joe. Son rotasyon yeri Huerter ile Prince arasında.
+
+Cade Cunningham.
+
+Karar: pahalı.
+
+Hedef puanı beşte üç.
+
+Bizim fiyat otuz sekiz virgül dört dolar. Tam z otuz virgül dokuz dolar. Piyasa fiyatı altmış iki virgül dört dolar. Dokuz kategori sırası yedi. Points sırası altı. Format farkı artı bir. Format farkı, tam z, artı dokuz. En fazla teklif otuz beş dolar.
+
+Rol. Detroit'in tek gerçek yaratıcısı. Tobias Harris gitti, takımda onun dışında top yaratan çok az oyuncu var, üç Ekim. Projeksiyonumuz altmış dokuz maç ve otuz beş dakika: yirmi dört virgül sekiz sayı, dokuz virgül sekiz asist, beş virgül sekiz ribaund, bir virgül üç top çalma, iki virgül bir üçlük. Uzmanlar otuz dört dakikada yaklaşık otuz bir kullanım görüyor, on altı Eylül.
+
+Kategori profili. Asist ligin uç değeri. Sayı, top çalma, serbest atış, yüzde seksen iki virgül sekiz, ve üçlük de kazandırır. Saha içi isabeti hafif zarar: yüzde kırk altı, maçta on dokuz virgül altı deneme. Asıl zararı top kaybı: maçta üç virgül dokuz. Top kaybını punt eden takıma en iyi oturur.
+
+İki format farkı. Burada Minus bir yanıltıcı. Model onun en kötü kategorisi olan top kaybını silince yedinci sıraya ve otuz sekiz virgül dört dolara çıkıyor. Tam z skorda on beşinci sırada ve otuz virgül dokuz dolar. Points sırası altı. Minus bir farkı artı bir, tam z farkı artı dokuz. Top kaybı en kötü kategorisi olduğu için dürüst olan artı dokuzdur. artı yirmi eşiğine gelmiyor, ama yön belli: points değeri onu yukarı itiyor.
+
+Piyasa. Piyasa altmış iki virgül dört dolar ve beşinci sırada, Yahoo ortalama maliyeti altmış dört virgül dört, ESPN elli altı virgül iki. Oda onu ilk beş oyuncu gibi fiyatlıyor.
+
+Uzman. Kategori uzmanları onu sekiz ile onuncu sıra arasında, Tatum ve Edwards'ın arkasında görüyor. beşinci seçime değmez, altıncı seçimden sonra iyi, üç Ekim. Josh açık artırmada kırk beş doların üstünü vermez, bir mock'ta kırk sekiz dolara gitti, beş Ekim. Erken açılırsa değerinin altına gidebilir, yirmi dokuz Eylül. Points liginde Shai'yi geçebileceğini, kategoride sekiz ile dokuz. kalacağını söylüyorlar.
+
+Risk. Dağınık bir sakatlık geçmişi var: delinmiş akciğer, geçen sezon sonunda akciğer sorunu, alt vücut problemleri. Daha büyük hücum yükü saha içi ve serbest atış yüzdesini düşürebilir. Detroit'in takvimi iyi: playoff haftalarında on bir maç, dinlenme beklenmiyor.
+
+Karar. PAHALI. Odanın beklenen fiyatı yaklaşık yetmiş dokuz dolar, piyasa çarpı bir virgül yirmi yedi, bizim fiyat otuz sekiz virgül dört. En fazla otuz beş dolar: Minus bir fiyatı otuz sekiz virgül dört top kaybını gizliyor, tam z fiyatı otuz virgül dokuz, ikisinin arasında kalıyoruz. Uzman tavanı kırk beş daha yüksek, bizi bağlamıyor. Top kaybını punt ediyorsan otuz sekiz dolara kadar çıkabilirsin.
+
+Jalen Duren.
+
+Karar: adil.
+
+Hedef puanı beşte dört.
+
+Bizim fiyat yirmi dokuz dolar. Tam z yirmi altı virgül yedi dolar. Piyasa fiyatı on dokuz buçuk dolar. Dokuz kategori sırası on dokuz. Points sırası yirmi altı. Format farkı eksi yedi. Format farkı, tam z, eksi iki. En fazla teklif yirmi dolar.
+
+Rol. Sözleşme bekleyişi bitti, Detroit'in başlangıç pivotu, üç Ekim. Projeksiyonumuz yetmiş maç ve yirmi dokuz dakika: on dokuz virgül dokuz sayı, on bir ribaund, bir blok, saha içi yüzde altmış dört virgül yedi. Harris gidince kullanımı yüzde yirmi beşe yaklaşabilir. Uzmanlara göre yirmi sekiz dakikanın üstü ve daha fazla kullanım onu üçüncü tura taşır.
+
+Kategori profili. Bölümün en güçlü saha içi çapası: yüzde altmış dört virgül yedi, maçta on bir virgül sekiz deneme. Ribaund, sayı ve blok da kazandırır. Üçlük atmaz. Serbest atış yüzde yetmiş beş virgül üç, maçta altı virgül iki deneme. Top çalma, asist ve top kaybı hafif eksi.
+
+Model notu. Minus bir onun üçlüğünü siliyor ve onu on dokuzuncu sıraya, yirmi dokuz dolara koyuyor. Tam z skorda yirmi dördüncü sırada ve yirmi altı virgül yedi dolar. Üçlük atmayan pivotlarda bu bilinen bir model fazlası. Yine de tam z skor da onu yüksek görüyor, çünkü saha içi ve ribaund katkısı gerçekten büyük.
+
+Piyasa. Piyasa on dokuz buçuk dolar ve otuz altıncı sırada, Yahoo on sekiz virgül iki, ESPN yirmi üç virgül yedi. Points sırası yirmi altı, format farkı eksi yedi. Format fiyatı bükmüyor.
+
+Uzman. Uzman açık artırma değerini yaklaşık yirmi dolar görüyor, bir mock'ta on dokuz dolara gitti, beş Ekim. Adil bir üç ile dört. tur oyuncusu. ESPN'in yirmi üçüncü sırası fazla yüksek, Detroit'te en büyük fade'i, üç Ekim. Bekleyiş sırasında sert antrenman yapmadığı için kondisyonu soru işareti.
+
+Risk. Yahoo onu açıklanmayan bir sakatlıkla Q gösteriyor. Josh sakat olmadığını söylüyor, beş Ekim. Geçen playoff'ları çok kötüydü, Paul Reed onu geride bıraktı.
+
+Karar. ADİL. Bizim fiyat yirmi dokuz, tam z yirmi altı virgül yedi, odanın beklenen fiyatı yaklaşık yirmi beş dolar: fark küçük. En fazla yirmi dolar: bizim fiyatı uzmanın tarihli yirmi dolarlık değerine indiriyoruz, kondisyon sorusu ve modelin üçlük fazlası yüzünden. Üçlüğü punt eden takımda puanı yükselir.
+
+Ausar Thompson.
+
+Karar: al, breakout.
+
+Hedef puanı beşte dört.
+
+Bizim fiyat on dokuz virgül altı dolar. Tam z on beş virgül üç dolar. Piyasa fiyatı iki virgül sekiz dolar. Dokuz kategori sırası elli. Points sırası yetmiş iki. Format farkı eksi yirmi iki. Format farkı, tam z, eksi iki. En fazla teklif on beş dolar.
+
+Rol. Üçüncü yılında top elinde daha çok olacak. Harris'in kullanımının bir kısmı ona gidecek, üç Ekim. Projeksiyonumuz altmış yedi maç ve yirmi dokuz dakika: on iki virgül iki sayı, altı buçuk ribaund, dört asist, iki top çalma, bir blok. Koç Bickerstaff yirmi altı dakikanın üstü diyor, ama uzmanlar onun dakika açıklamalarına güvenmiyor, dört Ekim.
+
+Kategori profili. Top çalmada bölümün en büyük çapası. Blok, saha içi, yüzde elli bir virgül yedi, ribaund ve asist de artı. Serbest atış çok kötü: yüzde elli dokuz virgül bir. Üçlük neredeyse yok, sıfır virgül dört.
+
+İki format farkı. Minus bir serbest atışı siliyor: ellinci sıra ve on dokuz virgül altı dolar. Tam z skorda yetmişinci sıra ve on beş virgül üç dolar. Points sırası yetmiş iki. Minus bir farkı eksi yirmi iki, tam z farkı eksi iki. Yani eksi yirmi ikilik fark büyük ölçüde serbest atışı punt eden bir takım için geçerli. Normal bir yapıda piyasa ile aynı yerde duruyor.
+
+Piyasa. Piyasa iki virgül sekiz dolar ve seksen sekizinci sırada, Yahoo üç virgül iki, ESPN iki virgül dört.
+
+Uzman. Uzmanlar onu kategori liglerinde ucuz ve çalınacak bir oyuncu olarak görüyor: altmışlarda, hatta ellilerde almak iyi. Bir uzmanın Detroit'teki bir numaralı hedefi, dört Ekim. Bir mock'ta on yedi dolara gitti, açık artırmada yirmi dolara kadar çıkması bekleniyor, beş Ekim. yirmi altı dakikada çizgisini zor geçer, yirmi sekiz ile otuz dakikada rahat geçer. En iyi senaryo yaklaşık yirmi sekizinci sıra, on yedi Eylül.
+
+Risk. Dakika. Bir de Ocak'ta plan çalışmazsa Detroit takas tarihinde ikinci bir playmaker alabilir, bu onun top rolünü keser. Serbest atış hiç düzelmeyebilir.
+
+Karar. AL ve BREAKOUT. Model, Minus bir, sıra farkı, elliye karşı seksen sekiz, ve uzman aynı yönde. Odanın beklenen fiyatı yaklaşık dört dolar. En fazla on beş dolar: normal yapıda tam z fiyatı, on beş virgül üç, doğru ölçü. Serbest atışı punt ediyorsan Minus bir fiyatına, on dokuz dolara kadar çıkabilirsin. Serbest atışı ve üçlüğü punt eden takım için en iyi alımlardan biri.
+
+John Collins.
+
+Karar: al.
+
+Hedef puanı beşte üç.
+
+Bizim fiyat on bir virgül dokuz dolar. Tam z on iki virgül dört dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası seksen üç. Points sırası yüz altı. Format farkı eksi yirmi üç. Format farkı, tam z, eksi yirmi iki. En fazla teklif dokuz dolar.
+
+Rol. Clippers'tan geldi, Harris'in yerine başlangıç power forward'u, üç Ekim. Detroit'in power forward derinliği zayıf, bu yüzden otuz ile otuz bir dakika bekleniyor. Projeksiyonumuz altmış beş maç ve otuz dakika: on altı sayı, altı virgül dokuz ribaund, bir virgül dört üçlük.
+
+Kategori profili. Saha içi, yüzde elli üç virgül sekiz, en iyi kategorisi. Ribaund, blok ve top kaybı hafif artı, serbest atış yüzde yetmiş dokuz virgül dört ile nötr. Asist zayıf, bir virgül üç. Belirgin kötü bir kategorisi yok, her yapıya uyar.
+
+Piyasa. Piyasa bir dolar ve yüz on dokuzuncu sırada. Biz seksen üçüncü sıradayız ve on bir virgül dokuz dolar diyoruz, tam z on iki virgül dört. Points sırası yüz altı. İki format farkı da eksi yirmi iki ile eksi yirmi üç arasında: points formülü düşük asistini ve düşük hacmini cezalandırıyor.
+
+Uzman. Kategori liglerinde dokuz ile on. turda iyi, points liglerinde bir iki tur sonra. Yahoo'nun yüz on altıncı sırası adil. otuz bir dakika oynarsa gerçek bir kategori değeri olur. Tavanı düşük, eski yirmi sayı on ribaund oyuncusu değil, üç Ekim.
+
+Risk. Detroit geçen sezon on iki ile on üç kişilik rotasyon oynadı. Ribaundu geçen sezon yirmi yedi dakikada beşe düşmüştü.
+
+Karar. AL. Model, format farkı ve uzman aynı yönde. Odanın beklenen fiyatı yaklaşık bir dolar. En fazla dokuz dolar: bizim fiyat on bir virgül dokuz, uzman tavanının düşük olduğunu söylüyor, o yüzden üç dolar aşağıda kalıyoruz.
+
+Paul Reed.
+
+Karar: flyer.
+
+Hedef puanı beşte iki.
+
+Bizim fiyat dokuz virgül dört dolar. Tam z sekiz buçuk dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası doksan sekiz. Points sırası yüz otuz altı. Format farkı eksi otuz sekiz. Format farkı, tam z, eksi otuz. En fazla teklif üç dolar.
+
+Rol. Isaiah Stewart gidince Duren'in arkasındaki tek gerçek yedek uzun. Duren yirmi sekiz dakika oynarsa yaklaşık yirmi dakika alır, üç Ekim.
+
+Kategori profili. Projeksiyonumuz altmış altı maç ve on dokuz dakika: saha içi yüzde elli yedi buçuk, bir virgül iki blok, bir virgül bir top çalma, çok düşük top kaybı. Üçlük ve sayı eksi.
+
+Model ve uzman. Model dokuz virgül dört dolar ve doksan sekizinci sıra diyor, çünkü dakika başı üretimi çok iyi ve on dokuz dakikayı tam sayıyor. Ama taban fiyatımız iki virgül yedi dolar, aralık geniş. Uzmanlar onu yaklaşık yüz yirminci seçimde istiyor, bir mock'ta dört dolara gitti, beş Ekim. Duren eksik kalırsa ve yirmi sekiz dakika oynarsa ilk kırk ile elli oyuncu olur. Piyasa bir dolar ve yüz yirmi birinci sırada. Format farkı eksi otuz sekiz büyük, ama bu düşük sayısından geliyor.
+
+Karar. FLYER. En fazla üç dolar: uzman bir ile iki dolarlık bir son tur handcuff'ı görüyor, model fazlası için bir dolar ekledik. Duren'i alırsan onu da al.
+
+Isaiah Joe.
+
+Karar: adil.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat bir virgül üç dolar. Tam z bir virgül sekiz dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası yüz kırk iki. Points sırası yüz doksan iki. Format farkı eksi elli. Format farkı, tam z, eksi elli iki. En fazla teklif bir dolar.
+
+Rol. Oklahoma City'den geldi, Detroit'in altıncı adamı ve yedek şutörü. Duncan Robinson'ın başlangıç yerine en yakın rakip.
+
+Kategori profili. Projeksiyonumuz yetmiş üç maç ve yirmi bir buçuk dakika: iki buçuk üçlük, çok düşük top kaybı, sıfır virgül altı, serbest atış yüzde seksen yedi virgül yedi. Ribaund, asist, blok, top çalma ve sayı eksi.
+
+Piyasa. Bizim fiyat bir virgül üç dolar ve yüz kırk ikinci sıra, piyasa bir dolar ve yüz kırk yedinci sıra. Points sırası yüz doksan iki, bu yüzden format farkı eksi elli çıkıyor. Bu fark yanıltıcı: iki formatta da havuzun sınırında. Uzmanlar onu iki yüz elli civarında bir üçlük streamer'ı görüyor, üç Ekim.
+
+Karar. ADİL, ama draft hedefi değil. En fazla bir dolar, sadece son dolarda üçlük için. Daha iyisi waiver'da bırakmak. Robinson'ın yerini alırsa FAB teklifine değer.
+
+Ronald Holland II.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası yüz elli beş. Points sırası yüz altmış beş. Format farkı eksi on. Format farkı, tam z, eksi yirmi. En fazla teklif sıfır dolar.
+
+Rol. Yedek kanat, yedek sırasında Joe'nun arkasında ikinci. Power forward derinliği zayıf olduğu için Ausar ile birlikte dörtte dakika alabilir.
+
+Profil. Projeksiyonumuz yetmiş dokuz maç ve yirmi dakika, bir top çalma ve düşük top kaybı. Diğer her şey eksi. Bizim fiyat sıfır dolar ve yüz elli beşinci sıra: yüz kırk dört oyunculuk havuzumuzun dışında. Piyasa bir dolar ve yüz elli dokuzuncu sıra. Uzmanlar onu waiver oyuncusu görüyor, beş Ekim.
+
+Ne zaman değerli. Ausar veya Collins uzun süre yoksa dörtte başlar. Uzman notu, bu sezon Ausar ile ayrı değil birlikte daha çok oynayacağını söylüyor. Serbest atışı geçen sezon yüzde seksen buçuk idi, Yahoo yüzde altmış sekiz virgül iki bekliyor: bu belirsiz.
+
+Karar. PAHALI, bir dolar bile fazla. Draft etme. yirmi dakikanın üstüne çıkarsa top çalma için waiver'dan bak.
+
+Duncan Robinson.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası yüz seksen. Points sırası yüz seksen sekiz. Format farkı eksi sekiz. Format farkı, tam z, eksi yedi. En fazla teklif sıfır dolar.
+
+Rol. Detroit'in başlangıç shooting guard'ı, geçen sezonla aynı ilk beşte. Uzman yerini güvenli görüyor, ama yarı zamanlı bir başlangıç yükü bekliyor: yirmi dört ile yirmi beş dakika, üç Ekim. Projeksiyonumuz yetmiş iki maç ve yirmi beş dakika: iki buçuk üçlük, on virgül altı sayı, çok düşük top kaybı.
+
+Profil. Üçlük dışında hemen her şey eksi: ribaund, top çalma, saha içi yüzde kırk dört virgül üç. Serbest atış denemesi az, oranı takımı oynatmaz. Bizim fiyat sıfır dolar ve yüz sekseninci sıra, piyasa bir dolar ve yüz seksen ikinci sıra: ikisi de yüz kırk dört havuzun dışında. Uzman onu sadece yirmi takımlı liglerde draft edilir görüyor.
+
+Karar. Draft etme, waiver'dan izle. Detroit'in dört maçlık haftalarında üçlük streamer'ı. Joe onun yerini alırsa değeri tamamen biter.
+
+Daniss Jenkins.
+
+Karar: pahalı.
+
+Hedef puanı beşte iki.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası iki yüz otuz. Points sırası iki yüz on. Format farkı artı yirmi. Format farkı, tam z, artı on yedi. En fazla teklif sıfır dolar.
+
+Rol. Yedek top taşıyıcı, yedek sırasında Joe, Holland ve Reed'in arkasında. Harris gidince Detroit'in ikinci bir top taşıyıcıya ihtiyacı olabilir, üç Ekim. Projeksiyonumuz yetmiş maç ve on dokuz dakika: sekiz virgül dört sayı, üç virgül dört asist, serbest atış yüzde seksen üç virgül iki.
+
+Profil. Saha içi yüzde kırk iki virgül üç ve ribaund zayıf, gerisi nötre yakın. Bizim fiyat sıfır dolar ve iki yüz otuzuncu sıra, piyasa bir dolar ve iki yüz otuzuncu sıra. Format farkı artı yirmi görünüyor, ama iki sıra da havuzun çok dışında, hüküm değil.
+
+Ne zaman değerli. Cade'in handcuff'ı. Geçen sezonun son on altı maçında Cade yokken maçta otuz bir dakika oynadı. Uzman onu Detroit yedeklerinin en büyük kategori tavanı olarak görüyor.
+
+Karar. Draft etme, waiver'dan izle. Cade bir maçtan fazla kaçırırsa ilk FAB hedefin.
+
+Kevin Huerter.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası iki yüz kırk yedi. Points sırası iki yüz kırk bir. Format farkı artı altı. Format farkı, tam z, eksi üç. En fazla teklif sıfır dolar.
+
+Rol. Detroit'e üç yıllık, yirmi yedi milyon dolarlık sözleşmeyle geldi. Son rotasyon yeri için Taurean Prince ile yarışıyor, üç Ekim. Projeksiyonumuz altmış sekiz maç ve on altı dakika: yedi virgül bir sayı, bir virgül iki üçlük.
+
+Profil. Güçlü bir kategorisi yok. Düşük top kaybı hacimsizlikten geliyor. Sayı, ribaund ve top çalma eksi. Bizim fiyat sıfır dolar ve iki yüz kırk yedinci sıra, piyasa bir dolar ve iki yüz kırk yedinci sıra.
+
+Karar. Draft etme, görmezden gel. Önce Prince'i geçmeli, sonra Joe'nun yanında düzenli şutör dakikası almalı. İkisi de olursa bile ancak kısa süreli bir üçlük eklemesi.
+
+Taurean Prince.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası üç yüz yirmi dokuz. Points sırası -. Format farkı -. Format farkı, tam z, -. En fazla teklif sıfır dolar.
+
+Rol. Detroit'in son rotasyon yeri için Huerter ile yarışıyor, üç Ekim. Uzman profili yok. Projeksiyonumuz elli beş maç ve on iki dakika: dört virgül üç sayı, sıfır virgül dokuz üçlük.
+
+Profil. Top kaybı dışında her kategori eksi: sayı, top çalma, ribaund. Bizim fiyat sıfır dolar ve üç yüz yirmi dokuzuncu sıra, piyasa sırası yok.
+
+Karar. Draft etme, görmezden gel. Ancak birkaç kanat aynı anda sakatlanırsa dakika alır, o zaman bile fantasy değeri düşük.
+
+Javonte Green.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası iki yüz doksan yedi. Points sırası -. Format farkı -. Format farkı, tam z, -. En fazla teklif sıfır dolar.
+
+Rol. Detroit'in derin yedek kulübesinde, projeksiyonumuzda elli beş maç ve on bir dakika. Takım notlarında rotasyonda adı geçmiyor, uzman profili yok.
+
+Profil. dört virgül dört sayı, sıfır virgül altı top çalma, çok düşük top kaybı. Sayı, ribaund ve asist eksi. Bizim fiyat sıfır dolar ve iki yüz doksan yedinci sıra, piyasa sırası yok.
+
+Karar. Draft etme, görmezden gel. Detroit on iki ile on üç kişilik rotasyon oynasa bile on bir dakikalık bir oyuncu dokuz kategoride hiçbir haftayı değiştirmez.
+
+Cleveland Cavaliers.
+
+Karar: kazanan takım, ligin en kötü playoff takvimi, ince rotasyon.
+
+Ne değişti. Schroder, Strus, Keon Ellis ve Dean Wade gitti, dördü de rotasyon oyuncusuydu. Peyton Watson Denver'dan bir ilk tur hakkı ve para karşılığı geldi. Harden artık tam sezon burada, Mitchell sözleşme uzattı. Win total kırk yedi buçuk, ligde dokuz. Bir uzman elli bir ile elli üç galibiyet bekliyor. Koç Kenny Atkinson baskı altında.
+
+Rol ve kullanım. Topu paylaşan çok oyuncu var. Harden geldikten sonra kendi kullanımı düştü ve Mitchell'in asisti ile sayısı azaldı. Asıl soru Harden ile Mitchell'in ne kadar aynı anda oynadığı. İkinci birimde net bir oyun kurucu yok, bu yüzden dakikalarını kaydırabilirler, yirmi dokuz Eylül.
+
+Derinlik şeması. İlk beş: Harden, Mitchell, Watson, Mobley, Allen. Yedek: Tyson, Merrill, Thomas Bryant, Tomlin, Craig Porter Jr. Uzun derinliği çok kötü: Mobley ve Allen'ın arkasında sadece Bryant, sonra Udeh ve Diop.
+
+Dakika savaşları. Atkinson maçları Mobley pivotta kapatırsa Allen yirmi sekiz değil yirmi altı dakika oynar. Yedek kulübesi ince olduğu için Tyson çok oynamak zorunda.
+
+Takvim. on altı back-to-back. Uzman notları ligin en çoklarından biri diyor. Profil tablosunda on altı ile yirmi altıncı sırada, bir eşittir en az. Playoff haftaları dört, üç, iki, toplam dokuz maç, ligde otuzuncu yani son. yirmi iki Mart'ta başlayan final haftasında sadece iki maç var. Bu, Mitchell, Harden, Mobley ve Allen için birkaç dolar daha az ödemek için bir sebep.
+
+Bir starter eksik kalırsa kim kazanır. Harden veya Mitchell yoksa Tyson başlangıç dakikalarına yaklaşır, Craig Porter Jr. yedek oyun kurucu olarak büyür. Watson yoksa Tyson ve Merrill. Allen veya Mobley yoksa tek yedek uzun Thomas Bryant: ikisi birden yoksa uzman onu ilk elli ile altmış görüyor. Çaylak Meleek Thomas'ın yolu ancak birkaç guard sakatlığıyla açılır.
+
+Donovan Mitchell.
+
+Karar: pahalı.
+
+Hedef puanı beşte üç.
+
+Bizim fiyat otuz virgül bir dolar. Tam z otuz bir virgül altı dolar. Piyasa fiyatı kırk altı virgül altı dolar. Dokuz kategori sırası on beş. Points sırası yirmi altı. Format farkı eksi on bir. Format farkı, tam z, eksi on üç. En fazla teklif otuz dolar.
+
+Rol. Harden artık tam sezon Cleveland'da. Geçen sezon Harden ile otuz altı dakikada asisti yaklaşık altı virgül birden beşe düştü, yüzde on sekiz, kullanımı otuz ikiden otuza indi, yirmi dokuz Eylül. Projeksiyonumuz altmış yedi maç ve otuz üç virgül üç dakika: yirmi beş virgül altı sayı, üç virgül bir üçlük, beş virgül bir asist, bir buçuk top çalma.
+
+Kategori profili. Sayı, üçlük, top çalma ve serbest atış, yüzde seksen beş virgül altı, kazandırır. Asist de artı. Top kaybı, iki virgül altı, blok ve saha içi, yüzde kırk altı buçuk ile on dokuz deneme, zarar.
+
+Piyasa. Piyasa kırk altı virgül altı dolar ve on ikinci sırada, Yahoo kırk altı virgül iki, ESPN kırk sekiz buçuk. Biz on beşinci sıradayız ve otuz virgül bir dolar diyoruz, tam z skorda on üçüncü sıra. Points sırası yirmi altı. İki format farkı da eksi, eksi on bir ve eksi on üç: points formatı onu şişirmiyor. Odanın fiyatı formattan değil, geçen sezonun ilk on bitişinden ve ESPN'in yedinci sırasından geliyor.
+
+Uzman. Kategoride birinci tur oyuncusu değil. Yahoo'nun on dört civarı sırası makul, bir uzman biraz daha aşağı koyar, otuz Eylül. Bir mock'ta otuz bir dolara gitti, uzman 'yaklaşık doğru' dedi, beş Ekim. Kariyerinin en iyi iki sayılık isabeti, sezon sonundaki serbest atışı ve top çalmaları geri inecek. Kariyerinin çoğunda otuz ile kırk. sıra oyuncusu oldu.
+
+Risk. Tekrarlayan diz sorunları, otuz yaş ve ağır yük. Cleveland'ın ligin en kötü playoff takvimi var: dört, üç, iki, finalde sadece iki maç. Harden ile ne kadar aynı anda oynadığı değerini belirleyecek.
+
+Karar. PAHALI. Odanın beklenen fiyatı yaklaşık elli dokuz dolar, bizim fiyat otuz virgül bir. En fazla otuz dolar: bizim fiyat ve uzmanın otuz bir dolarlık mock fiyatı aynı yerde, dokuz maçlık playoff takvimi yukarı çıkmamızı engelliyor. Top kaybını punt eden takıma uyar.
+
+Evan Mobley.
+
+Karar: adil.
+
+Hedef puanı beşte üç.
+
+Bizim fiyat yirmi sekiz virgül dokuz dolar. Tam z yirmi dört virgül yedi dolar. Piyasa fiyatı yirmi iki virgül dört dolar. Dokuz kategori sırası yirmi bir. Points sırası yirmi iki. Format farkı eksi bir. Format farkı, tam z, artı dokuz. En fazla teklif yirmi beş dolar.
+
+Rol. Allen'ın yanında başlangıç uzunu. Watson gelince Atkinson maçları Mobley pivotta kapatabilir, bu henüz belli değil, yirmi dokuz Eylül. Projeksiyonumuz altmış dokuz maç ve otuz iki virgül yedi dakika: on sekiz virgül altı sayı, dokuz buçuk ribaund, üç virgül altı asist, bir virgül yedi blok.
+
+Kategori profili. Blok, saha içi, yüzde elli beş virgül dokuz, ve ribaund kazandırır. Sayı da artı. Tek büyük zararı serbest atış: yüzde altmış altı buçuk, maçta dört buçuk deneme.
+
+Model notu. Bu Giannis örneğinin küçük hali. Minus bir serbest atışı siliyor: yirmi birinci sıra ve yirmi sekiz virgül dokuz dolar. Tam z skor otuz birinci sıra ve yirmi dört virgül yedi dolar. Serbest atışı punt eden bir yapının çapası. Normal yapıda değeri tam z skora yakındır.
+
+Piyasa. Piyasa yirmi iki virgül dört dolar ve otuz ikinci sırada, Yahoo yirmi üç virgül altı, ESPN on dokuz virgül yedi. Points sırası yirmi iki. Minus bir farkı eksi bir, tam z farkı artı dokuz. Uzmanlar geçen sezon points'te yirmi dokuzuncu, kategoride kırk birinci bitirdiğini hatırlatıyor.
+
+Uzman. Uzmanlar adil fiyatlı buluyor: kategoride üçüncü turun ortası, dördüncü turun başı. Bir mock'ta yirmi yedi dolara gitti, beş Ekim. Geçen sezonki düşüş çoğunlukla serbest atış sorunu. Cleveland'ın kötü playoff takvimi uzmanları biraz soğutuyor.
+
+Risk. Alt vücut sakatlık geçmişi, iki bin yirmi beş ile yirmi altı'da iki baldır zorlanması. dokuz maçlık playoff takvimi ve iki maçlık final haftası.
+
+Karar. ADİL. Odanın beklenen fiyatı yaklaşık yirmi sekiz dolar, Minus bir fiyatımız yirmi sekiz virgül dokuz ile aynı yerde. En fazla yirmi beş dolar: normal yapıda tam z fiyatı, yirmi dört virgül yedi, doğru ölçü, kötü takvim de aşağı çekiyor. Serbest atışı punt ediyorsan bölümün en iyi hedeflerinden biri, o zaman yirmi sekiz dolara kadar çıkabilirsin.
+
+James Harden.
+
+Karar: adil.
+
+Hedef puanı beşte üç.
+
+Bizim fiyat yirmi altı virgül dokuz dolar. Tam z yirmi üç virgül dokuz dolar. Piyasa fiyatı yirmi iki virgül iki dolar. Dokuz kategori sırası yirmi sekiz. Points sırası otuz iki. Format farkı eksi dört. Format farkı, tam z, artı üç. En fazla teklif yirmi dört dolar.
+
+Rol. Cleveland'da ilk beşte, artık daha çok dağıtıcı. Cleveland'da kullanımı, şut ve serbest atış denemeleri düştü, yirmi dokuz Eylül. Projeksiyonumuz altmış dokuz maç ve otuz üç buçuk dakika: on sekiz virgül dokuz sayı, yedi virgül sekiz asist, iki virgül yedi üçlük.
+
+Kategori profili. Asist, serbest atış, yüzde seksen yedi virgül yedi, maçta beş virgül altı deneme, ve üçlük kazandırır. İki büyük zararı var: saha içi, yüzde kırk iki virgül dört, ve top kaybı, üç virgül iki. Saha içi ve top kaybı punt'ları için ideal.
+
+Piyasa. Piyasa yirmi iki virgül iki dolar ve otuz üçüncü sırada. Kaynaklar ayrışıyor: Yahoo ortalama maliyeti on dokuz virgül dört, ESPN yirmi yedi virgül dört. Biz yirmi sekizinci sıradayız ve yirmi altı virgül dokuz dolar diyoruz, tam z skorda otuz beşinci sıra ve yirmi üç virgül dokuz dolar. Points sırası otuz iki. Format farkı eksi dört ve artı üç: format bükmüyor. Uzmanlar geçen sezon kategoride on üçüncü, points'te on dokuzuncu olduğunu söylüyor.
+
+Uzman. Artık ikinci tur oyuncusu değil. Kategoride yirmi sekiz ile kırk. seçim arası, otuz beşinci seçim doğru hissettiriyor, otuz Eylül. Açık artırma fiyatı yirmilerin başı ve ortası, bir mock'ta yirmi dört dolara gitti, beş Ekim.
+
+Risk. otuz yedi yaşında, kariyer sonu düşüşü başlıyor. iki maçlık final haftası değerini düşürüyor. Dayanıklı bir oyuncu olarak görülüyor.
+
+Karar. ADİL. Odanın beklenen fiyatı yaklaşık yirmi sekiz dolar, bizim fiyat yirmi altı virgül dokuz. En fazla yirmi dört dolar: Minus bir top kaybını gizliyor, tam z fiyatı yirmi üç virgül dokuz, uzmanın mock fiyatı yirmi dört.
+
+Jarrett Allen.
+
+Karar: al.
+
+Hedef puanı beşte üç.
+
+Bizim fiyat on yedi virgül yedi dolar. Tam z on beş virgül dört dolar. Piyasa fiyatı üç virgül altı dolar. Dokuz kategori sırası elli sekiz. Points sırası seksen iki. Format farkı eksi yirmi dört. Format farkı, tam z, eksi on dört. En fazla teklif on bir dolar.
+
+Rol. Başlangıç pivotu. Arkasında sadece Thomas Bryant var, bu rolünü korur. Ama Mobley pivotta maç kapatırsa dakikası yirmi altıya inebilir. Uzmanlar otuz dakikaya ulaşmasını beklemiyor, yirmi dokuz Eylül.
+
+Kategori profili. Projeksiyonumuz altmış yedi maç ve yirmi sekiz dakika: saha içi yüzde altmış beş, dokuz virgül bir ribaund, düşük top kaybı. Üçlük atmaz, serbest atış yüzde yetmiş bir virgül sekiz.
+
+Model notu. Minus bir üçlüğü siliyor: elli sekizinci sıra ve on yedi virgül yedi dolar. Tam z skor altmış sekizinci sıra ve on beş virgül dört dolar. Uzmanlar onu 'dokuz kategori fluff' olarak işaretliyor: düşük top kaybı z skorunu şişiriyor, kafa kafaya değeri daha düşük.
+
+Piyasa. Piyasa üç virgül altı dolar ve seksen birinci sırada, Yahoo iki virgül sekiz, ESPN altı virgül yedi. Points sırası seksen iki. Minus bir farkı eksi yirmi dört, tam z farkı eksi on dört.
+
+Uzman. yetmiş ile seksen beş. sıra, sürprizi az bir seçim. Pivota ihtiyacın varsa yetmiş civarı, otuz Eylül. ESPN'in kırk dokuzuncu sırasında almazlar. Harden ile oynadığında daha verimli: otuz altı dakikada yirmi beş sayı ve on üç ribaund, yüzde yetmiş bir isabet. on ile on üç dolarda dur diyorlar.
+
+Risk. Geçen sezon sonunda diz sakatlığı. dokuz maçlık playoff takvimi, ama bir uzman iki maçlık haftanın onun için çok önemli olmadığını söylüyor.
+
+Karar. AL. Sıra farkı, elli sekiz ve altmış sekize karşı seksen bir, ve uzmanın on ile on üç dolarlık tavanı piyasanın üstünde. En fazla on bir dolar: uzman aralığının alt yarısı, fluff uyarısı yüzünden.
+
+Peyton Watson.
+
+Karar: flyer, sakatlık.
+
+Hedef puanı beşte iki.
+
+Bizim fiyat beş virgül yedi dolar. Tam z yedi dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası yüz on yedi. Points sırası yüz on. Format farkı artı yedi. Format farkı, tam z, artı dört. En fazla teklif üç dolar.
+
+Rol. Denver'dan bir ilk tur hakkı ve para karşılığı geldi. otuz dakikanın üstünde sabit bir başlangıç rolü bekleniyor. Kullanımı yüzde yirmi birden on dokuz ile yirmi'ye düşecek, yirmi dokuz Eylül.
+
+Kategori profili. Projeksiyonumuz yetmiş maç ve otuz buçuk dakika: on üç virgül altı sayı, bir virgül iki blok, bir virgül dört üçlük. Diğer kategoriler nötre yakın, serbest atış yüzde yetmiş bir virgül iki.
+
+Piyasa. Bizim fiyat beş virgül yedi dolar ve yüz on yedinci sıra, piyasa bir dolar ve yüz yirmi altıncı sıra. Format farkı artı yedi, nötr.
+
+Uzman. yüz dört ile yüz sekiz. sıra makul. Uzmanın Cleveland'daki en iyi hedefi, ama isteksizce. Çizgisini geçmek için yüzde yirmi üç kullanım gerekir. Mobley ve Allen yanında blokları düşebilir.
+
+Risk. Yahoo onu hamstring nedeniyle P gösteriyor, takım önizlemesi ise sakatlık endişesi yok diyor. Geçen sezonu ciddi bir hamstring sakatlığıyla bitirdi.
+
+Karar. FLYER ve SAKATLIK. En fazla üç dolar: uzman bir ile dört dolar görüyor, ortasında kalıyoruz.
+
+Jaylon Tyson.
+
+Karar: flyer.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z bir virgül dört dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası yüz altmış sekiz. Points sırası yüz kırk dört. Format farkı artı yirmi dört. Format farkı, tam z, eksi iki. En fazla teklif bir dolar.
+
+Rol. Schroder, Strus ve Ellis gidince altıncı adam. Yedek kulübesi bu kadar ince olduğu için başlangıç dakikalarına yakın oynayabilir, yirmi dokuz Eylül.
+
+Profil. Projeksiyonumuz altmış dokuz maç ve yirmi yedi dakika, on iki virgül yedi sayı, bir virgül dokuz üçlük. Tüm kategoriler nötre yakın. Bizim fiyat sıfır dolar ve yüz altmış sekizinci sıra: yüz kırk dört oyunculuk havuzun dışında, tam z skorda yüz kırk ikinci sıra ve bir virgül dört dolar. Piyasa bir dolar ve yüz yetmiş birinci sıra. Format farkı artı yirmi dört görünüyor, ama tam z farkı eksi iki ve iki sıra da havuz dışında: bu bir format tuzağı değil.
+
+Uzman. Bench rolünde yüz elli ile yüz yetmiş. sıra. Geçen sezonki yüzde kırk beş üçlük isabeti tekrar etmez. Önündeki bir oyuncu yirmi maç kaçırırsa çok yükselir.
+
+Karar. FLYER. En fazla bir dolar, ya da waiver. Harden, Mitchell veya Watson sakatlanırsa hemen al.
+
+Sam Merrill.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası yüz seksen dokuz. Points sırası iki yüz on iki. Format farkı eksi yirmi üç. Format farkı, tam z, eksi yirmi üç. En fazla teklif sıfır dolar.
+
+Rol. Cleveland'ın yedek şutörü. Projeksiyonumuz altmış beş maç ve yirmi dört dakika. Uzman notu, Atkinson'ın küçük beşlide Harden, Mitchell, Watson, Merrill ve Mobley'i birlikte oynatabileceğini söylüyor, yirmi dokuz Eylül. Uzman profili yok.
+
+Profil. iki virgül altı üçlük, serbest atış yüzde seksen sekiz, çok düşük top kaybı. Ribaund, top çalma, blok ve sayı eksi. Bizim fiyat sıfır dolar ve yüz seksen dokuzuncu sıra, piyasa bir dolar ve yüz doksan birinci sıra. İki format farkı da eksi yirmi üç: points formülü onu daha da az seviyor, ama iki sıra da havuz dışında.
+
+Karar. Draft etme, waiver'dan izle. Üçlük ve top kaybı için kısa süreli streamer. Cleveland'ın iki maçlık final haftasında kullanma.
+
+Craig Porter Jr.
+
+Karar: pahalı.
+
+Hedef puanı beşte iki.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası iki yüz kırk beş. Points sırası iki yüz elli dört. Format farkı eksi dokuz. Format farkı, tam z, artı sıfır. En fazla teklif sıfır dolar.
+
+Rol. Uzman onu sezon başında Cleveland'ın yedek oyun kurucusu görüyor, bir çaylak guard da şans alabilir, yirmi dokuz Eylül. Dördüncü NBA sezonu, rotasyon yeri için şimdi ya da hiç.
+
+Profil. Projeksiyonumuz altmış iki maç ve on yedi dakika: dört virgül altı sayı, iki virgül sekiz asist, sıfır virgül yedi top çalma, sıfır buçuk blok. Uzman onu ligin en iyi blok ve top çalma guard'larından biri görüyor, Derrick White'a benzetiyor ve maçta toplam bir virgül üç top çalma artı blok bekliyor. Bizim fiyat sıfır dolar ve iki yüz kırk beşinci sıra, piyasa bir dolar ve iki yüz kırk beşinci sıra.
+
+Karar. Draft etme, waiver'dan izle. Yedek oyun kurucu dakikalarını yaklaşık yirmide tutarsa, boş sayıyı kaldırabilen top çalma ve blok yapıları için bir ekleme.
+
+Thomas Bryant.
+
+Karar: pahalı.
+
+Hedef puanı beşte iki.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası iki yüz kırk dört. Points sırası iki yüz altmış dört. Format farkı eksi yirmi. Format farkı, tam z, eksi on üç. En fazla teklif sıfır dolar.
+
+Rol. Mobley ve Allen'ın arkasındaki tek yedek uzun. Arkasında sadece Udeh ve Diop var. Uzman onu onuncu adam görüyor, çoğu gece oynar, yirmi dokuz Eylül.
+
+Profil. Projeksiyonumuz altmış dört maç ve on üç dakika: altı virgül altı sayı, üç virgül sekiz ribaund, serbest atış yüzde seksen üç buçuk, düşük top kaybı. Top çalma çok zayıf. Bizim fiyat sıfır dolar ve iki yüz kırk dördüncü sıra, piyasa bir dolar ve iki yüz kırk dördüncü sıra. Format farkı eksi yirmi küçük hacimden geliyor.
+
+Ne zaman değerli. Allen ve Mobley ikisi birden yoksa uzman onu ilk elli ile altmış oyuncu görüyor. Biri yoksa da dakikası belirgin artar.
+
+Karar. Draft etme, waiver'dan izle. Allen veya Mobley için handcuff. Playoff'ta güvenme: final haftasında iki maç.
+
+Nae'Qwan Tomlin.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası iki yüz yetmiş iki. Points sırası iki yüz yetmiş altı. Format farkı eksi dört. Format farkı, tam z, eksi yedi. En fazla teklif sıfır dolar.
+
+Rol. Cleveland'ın yedek power forward'u, ikinci birimde. Uzman profili yok. Projeksiyonumuz altmış maç ve on altı dakika: altı virgül üç sayı, üç virgül bir ribaund.
+
+Profil. Saha içi yüzde kırk sekiz virgül üç nötr, top kaybı çok düşük. Sayı, top çalma, asist ve üçlük eksi. Bizim fiyat sıfır dolar ve iki yüz yetmiş ikinci sıra, piyasa bir dolar ve iki yüz yetmiş ikinci sıra.
+
+Ne zaman değerli. Dean Wade gittiği için forvet derinliği ince. Mobley uzun süre kaçırırsa dakikası artar, ama Bryant pivotta öncelikli.
+
+Karar. Draft etme, görmezden gel.
+
+Meleek Thomas.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası üç yüz altmış iki. Points sırası -. Format farkı -. Format farkı, tam z, -. En fazla teklif sıfır dolar.
+
+Rol. yirmi yaşında çaylak, otuz dördüncü sıradan seçildi. Harden ve Mitchell önünde, projeksiyon yedek listesinde yok, yirmi dokuz Eylül. Projeksiyonumuz elli maç ve on bir dakika: dört virgül yedi sayı.
+
+Profil. Summer league'in en iyi fantasy oyuncusuydu: yirmi altı sayı, dört asist, iki top çalma, yüzde elli saha içi, yüzde kırk dört üçlük, yirmi üç Temmuz. Uzmanlar onu draft sırasının çok üstünde görüyor, ama değeri uzun vadeli. Bizim fiyat sıfır dolar ve üç yüz altmış ikinci sıra, piyasa sırası yok.
+
+Karar. Draft etme, waiver'dan izle. Cleveland'ın ince yedek kulübesi veya bir guard sakatlığı ona erken dakika açabilir. Dinasti değil, yıllık lig oynuyoruz: sadece gerçek dakika görürsen ekle.
+
+Tyrese Proctor.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası üç yüz doksan yedi. Points sırası -. Format farkı -. Format farkı, tam z, -. En fazla teklif sıfır dolar.
+
+Rol. Cleveland'ın derin yedek guard'ı. Takım notlarının yedek listesinde yok, uzman profili yok. Projeksiyonumuz otuz beş maç ve on iki dakika.
+
+Profil. beş virgül bir sayı, bir virgül bir asist, sıfır virgül yedi üçlük. Top kaybı dışında her kategori eksi, en kötüsü top çalma ve sayı. Bizim fiyat sıfır dolar ve üç yüz doksan yedinci sıra, piyasa sırası yok.
+
+Karar. Draft etme, görmezden gel. Harden ve Mitchell'in ikisi de uzun süre yoksa bile önünde Tyson ve Porter var.
+
+Chicago Bulls.
+
+Karar: alt sıra takımı, yeni koç, takas olası.
+
+Ne değişti. Yeni koç Tiago Splitter, Billy Donovan'ın yerine geldi. Vucevic ve Coby White gitti. Norman Powell ve dördüncü sıradan seçilen Caleb Wilson geldi, Claxton takasla geldi. Win total yirmi yedi buçuk, ligde yirmi altı. Uzmanlar onu alt on, muhtemelen alt altı takım görüyor.
+
+Rol ve kullanım. Vucevic ve White'ın kullanımı boşaldı. Kimin alacağı tartışmalı: bir uzmana göre Powell lider olur, bir başkasına göre Buzelis ikinci sıraya, Giddey'nin önüne geçer. Wilson'ın kullanımı düşük olacak. Uzmanlar hızlı tempo ve geçiş oyunu bekliyor. Takım şut sıkıntısı çekiyor: Claxton, Wilson ve Giddey'li beşlide alan çok dar.
+
+Derinlik şeması. İlk beş: Giddey, Powell, Buzelis, Wilson, Claxton. Yedek: Tre Jones altıncı adam, sonra Okoro, Jalen Smith ve Buddy Hield. Onuncu yer Patrick Williams, Zach Collins ve Leonard Miller arasında açık.
+
+Takas. Yönetim yaşlı oyuncuları kısa sözleşmeyle alıp takas etmeyi planlıyor, Powell, Collins, Claxton. Sezon içinde bir Powell takası gençlere kullanım açar.
+
+Takvim. on beş back-to-back. Playoff haftaları üç, üç, dört, toplam on maç, ligde on yedi. Bulls'un sezonun sadece üç beş maçlık haftasından biri var. Uzmanlara göre ilk yirmi maç zor.
+
+Bir starter eksik kalırsa kim kazanır. Powell takas edilir veya sakatlanırsa Tre Jones, ve daha az ölçüde Okoro ve Hield. Giddey yoksa yine Tre Jones, asist için. Buzelis veya Wilson yoksa uzman Leonard Miller'ın başlayıp yirmi beş dakika oynamasını bekliyor. Claxton yoksa Jalen Smith: başlarsa şutu ve blokları yüzünden alınmalı. Zach Collins üçüncü pivot ve sakat.
+
+Matas Buzelis.
+
+Karar: al, breakout.
+
+Hedef puanı beşte beş.
+
+Bizim fiyat yirmi bir dolar. Tam z yirmi iki virgül iki dolar. Piyasa fiyatı altı virgül altı dolar. Dokuz kategori sırası kırk altı. Points sırası otuz sekiz. Format farkı artı sekiz. Format farkı, tam z, artı altı. En fazla teklif yirmi bir dolar.
+
+Rol. Kısa tasma kullanan Billy Donovan gitti, yeni koç Tiago Splitter. Vucevic ve Coby White gitti. Uzmanlar üçüncü yılda büyük bir adım bekliyor: yaklaşık otuz iki dakika, daha çok şut, daha çok top taşıma, yirmi sekiz Eylül. Geçen sezon takas tarihinden sonra otuz bir dakikada on dokuz sayı, yedi ribaund, üç üçlük ve neredeyse iki blok ortalaması yaptı.
+
+Kategori profili. Projeksiyonumuz yetmiş beş maç ve otuz iki dakika: on dokuz virgül üç sayı, iki buçuk üçlük, bir virgül üç blok, altı virgül bir ribaund. Sayı da artı. Belirgin kötü kategorisi yok. En zayıf yerleri top kaybı, iki virgül üç, ve saha içi, yüzde kırk altı virgül bir. Her yapıya uyar.
+
+Piyasa. Piyasa altı virgül altı dolar ve elli sekizinci sırada. Kaynaklar ayrışıyor: Yahoo ortalama maliyeti dokuz, ESPN dört virgül bir. Biz kırk altıncı sıradayız ve yirmi bir dolar diyoruz, tam z skorda kırk dördüncü sıra ve yirmi iki virgül iki dolar. Points sırası otuz sekiz, format farkı artı sekiz. Format bükmüyor, piyasa onu sadece geç buluyor.
+
+Uzman. Kategori ve points liginde ilk elli, yaklaşık kırk dört ile elli bir. sıra. Yahoo sırası çok düşük. Bulls'un en iyi fantasy hedefi: kırkıncı seçimde alma, altmış civarı iyi değer, seksen civarı çalıntı, yirmi sekiz Eylül. Adil açık artırma fiyatı yaklaşık yirmi dolar, bir mock'ta yirmi iki dolara gitti, beş Ekim. Josh büyük hayranı, ama değerinin üstüne çıkmaz.
+
+Risk. Wilson'ın yanında üçte oynayacağı için blokları düşebilir. Splitter'ın dakikalarını nasıl yöneteceği henüz belli değil. Sağlık riski düşük: ilk iki sezonunda seksen ve yetmiş yedi maç.
+
+Karar. AL ve BREAKOUT. Üç kaynak aynı yönde. Taban fiyatımız, yirmi dört virgül yedi, bile yüksek. Odanın beklenen fiyatı yaklaşık sekiz dolar. En fazla yirmi bir dolar: bizim fiyat yirmi bir, uzman fiyatı yirmi, mock fiyatı yirmi iki. Bölümün bir numaralı hedefi.
+
+Josh Giddey.
+
+Karar: format tuzağı.
+
+Hedef puanı beşte iki.
+
+Bizim fiyat yirmi üç virgül altı dolar. Tam z on dokuz buçuk dolar. Piyasa fiyatı otuz iki virgül bir dolar. Dokuz kategori sırası kırk. Points sırası yirmi bir. Format farkı artı on dokuz. Format farkı, tam z, artı yirmi sekiz. En fazla teklif yirmi dolar.
+
+Rol. Chicago'nun başlangıç oyun kurucusu ve hücum merkezi, yirmi sekiz Eylül. Projeksiyonumuz altmış sekiz maç ve otuz üç buçuk dakika: on altı buçuk sayı, sekiz virgül üç ribaund, dokuz virgül iki asist, bir virgül sekiz üçlük. Kullanım sırası tartışmalı: bir uzman Powell'ın lider olacağını, bir başkası Buzelis'in Giddey'nin önüne geçeceğini söylüyor.
+
+Kategori profili. Asist ve bir guard için çok yüksek ribaund. Top çalma, üçlük ve sayı hafif artı. Top kaybı ligin uç değeri: üç virgül dört. Saha içi yüzde kırk beş virgül dört ve serbest atış yüzde yetmiş yedi virgül sekiz hafif eksi.
+
+İki format farkı. Bu bölümün en net format tuzağı. Minus bir top kaybını siliyor: kırkıncı sıra ve yirmi üç virgül altı dolar. Tam z skor kırk dokuzuncu sıra ve on dokuz buçuk dolar. Points sırası yirmi bir. Minus bir farkı artı on dokuz, tam z farkı artı yirmi sekiz. Top kaybı en kötü kategorisi olduğu için dürüst fark artı yirmi sekiz.
+
+Piyasa. Piyasa otuz iki virgül bir dolar ve yirmi birinci sırada, Yahoo otuz beş, ESPN otuz dört virgül üç. Piyasa sırası points sırasıyla tam aynı: oda onu points değerinden fiyatlıyor.
+
+Uzman. Bir mock'ta yirmi dokuz dolara gitti. Josh yirmi dört dolara kadar teklif verdi ve yirmi dokuzu kelepir görmedi, beş Ekim. Points liginde ilk yirmi oyuncu, kategoride ikinci turun sonu, üçüncü turun başı. Uzmanların makalesine göre top kaybını punt eden takım onu yirmi dokuz ile otuz iki dolar civarında alabilir.
+
+Risk. Geçen sezon ayak bileği sakatlıkları, yirmi sekiz maç kaçırdı. Serbest atışı geçen sezon garip bir şekilde düştü. Chicago kötü bir takım, kadro boşluğu az.
+
+Karar. FORMAT TUZAĞI. Odanın beklenen fiyatı yaklaşık kırk bir dolar. En fazla yirmi dolar: tam z fiyatı on dokuz buçuk, çünkü top kaybı en kötü kategorisi ve tam z farkı artı yirmi sekiz. Top kaybını punt eden takım kuruyorsan Minus bir fiyatına, yirmi dört dolara kadar çıkabilirsin. Uzman makalesinin yirmi dokuz ile otuz iki doları bizim fiyatımızın üstünde.
+
+Caleb Wilson.
+
+Karar: al.
+
+Hedef puanı beşte üç.
+
+Bizim fiyat on bir virgül üç dolar. Tam z on üç virgül bir dolar. Piyasa fiyatı iki virgül yedi dolar. Dokuz kategori sırası seksen sekiz. Points sırası yetmiş dört. Format farkı artı on dört. Format farkı, tam z, artı sekiz. En fazla teklif on dolar.
+
+Rol. Dördüncü sıradan seçilen çaylak, ilk beşte power forward. Uzmanlar onu bu yılın ikinci en iyi çaylağı görüyor. Kullanımı düşük olacak: yaklaşık otuz dakika ve yüzde yirmi veya altı. Powell, Buzelis ve Giddey önünde, yirmi bir Eylül.
+
+Kategori profili. Projeksiyonumuz yetmiş üç maç ve otuz buçuk dakika: on üç virgül dokuz sayı, yedi virgül altı ribaund, bir virgül iki blok, bir virgül bir top çalma. Serbest atış yüzde yetmiş üç virgül bir, asist ve üçlük eksi.
+
+Piyasa. Piyasa iki virgül yedi dolar ve seksen dokuzuncu sırada, Yahoo iki virgül altı, ESPN dört virgül sekiz. Biz seksen sekizinci sıradayız ve on bir virgül üç dolar diyoruz. Sıralar aynı, ama oda orta sıralara bizden çok daha az para veriyor: beklenen oda fiyatı yaklaşık üç dolar. Format farkı artı on dört: projeksiyonumuz onu points'te biraz daha iyi görüyor. Uzmanlar tersini söylüyor, savunma istatistikleri kategori liginde daha değerli. Fark küçük, hükme dönüşmüyor.
+
+Uzman. seksenlerde iyi, ESPN'in elli altıncı sırası fazla yüksek. İlk yüzde bir sezon iyi bir sonuç olur, otuz Eylül. Summer league şutu kısmen aldatıcı, üçlük isabeti yüzde otuz civarında kalabilir.
+
+Karar. AL. Bizim fiyat ve uzmanın on dolarlık tavanı odanın beklenen fiyatının çok üstünde. En fazla on dolar: bizim fiyat on bir virgül üç, uzman tavanına iniyoruz.
+
+Norman Powell.
+
+Karar: al.
+
+Hedef puanı beşte üç.
+
+Bizim fiyat sekiz virgül dört dolar. Tam z dokuz virgül dört dolar. Piyasa fiyatı iki virgül iki dolar. Dokuz kategori sırası yüz üç. Points sırası yüz dört. Format farkı eksi bir. Format farkı, tam z, eksi beş. En fazla teklif yedi dolar.
+
+Rol. Chicago'ya geldi, ilk beşte. Uzmanlar takımda kullanımı en yüksek oyuncu olmasını bekliyor, yirmilerin sonunda, yirmi sekiz Eylül. Ama Bulls veteranları kısa sözleşmeyle alıp takas etmeyi planlıyor. Üçüncü seçenek olduğu bir takıma giderse değeri çöker.
+
+Kategori profili. Projeksiyonumuz altmış üç maç ve otuz bir buçuk dakika: yirmi iki sayı, iki virgül dokuz üçlük, serbest atış yüzde seksen bir virgül yedi. Ribaund, blok ve asist eksi. Sayı ve üçlük oyuncusu.
+
+Piyasa. Piyasa iki virgül iki dolar ve doksan üçüncü sırada, Yahoo bir virgül sekiz, ESPN dört virgül bir. Biz yüz üçüncü sıradayız ve sekiz virgül dört dolar diyoruz. Sıralar yakın, ama odanın beklenen fiyatı sadece yaklaşık üç dolar. Format farkı eksi bir.
+
+Uzman. Bir mock'ta altı ile yedi dolar değer biçildi, üç dolara gitti ve 'draftın neredeyse en iyi seçimi' dendi, beş Ekim. yetmiş ile seksen. sıra civarında, yedi ile sekiz. tur. otuz üç yaşında. Geçen sezonun son iki üç ayında üçlükte yüzde otuz üç ve serbest atışta yüzde seksenin altına düştü.
+
+Karar. AL. Bizim fiyat ve uzmanın altı ile yedi dolarlık değeri odanın beklenen fiyatının üstünde. En fazla yedi dolar: bizim fiyat sekiz virgül dört, uzman tavanına ve takas riskine göre aşağıda. dört Mart takas tarihine kadar haberleri izle.
+
+Nic Claxton.
+
+Karar: adil.
+
+Hedef puanı beşte iki.
+
+Bizim fiyat sekiz buçuk dolar. Tam z üç virgül altı dolar. Piyasa fiyatı bir virgül sekiz dolar. Dokuz kategori sırası yüz. Points sırası yüz. Format farkı artı sıfır. Format farkı, tam z, artı yirmi sekiz. En fazla teklif üç dolar.
+
+Rol. Brooklyn'den takasla geldi, iki yıllık sözleşmeyle başlangıç pivotu. Jalen Smith'in önünde başlaması yüzde doksan kesin, yirmi sekiz Eylül. Jalen Smith ve Zach Collins yüzünden otuz dakikaya ulaşmayabilir.
+
+Kategori profili. Projeksiyonumuz altmış sekiz maç ve yirmi yedi buçuk dakika: saha içi yüzde elli sekiz virgül dört, bir virgül üç blok, yedi virgül üç ribaund. Serbest atış çok kötü: yüzde elli sekiz virgül iki. Üçlük yok.
+
+Model notu. Minus bir serbest atışı siliyor: yüzüncü sıra ve sekiz buçuk dolar. Tam z skor yüz yirmi sekizinci sıra ve sadece üç virgül altı dolar. Taban ve tavan fiyatımız iki buçuk ve iki virgül dört dolar. Yani model değeri neredeyse tamamen silinen kategoriden geliyor.
+
+Piyasa. Piyasa bir virgül sekiz dolar ve doksan altıncı sırada, Yahoo iki virgül altı, ESPN bir virgül bir. Minus bir farkı sıfır, tam z farkı artı yirmi sekiz.
+
+Uzman. En fazla üç dolar, beş Ekim. yüz ile yüz yirmi. sıra iyi, seksenlerde alma. Yahoo'nun seksen dokuzuncu sırasında Bulls'un en büyük fade'i. Son iki üç sezonda blokları ve pota koruması düştü, sırt sorunları yaşadı.
+
+Karar. ADİL, sadece serbest atış ve üçlüğü birlikte punt eden takım için. Odanın beklenen fiyatı yaklaşık iki dolar. En fazla üç dolar: tam z fiyatımız üç virgül altı, uzman tavanı üç.
+
+Tre Jones.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası yüz elli bir. Points sırası yüz altmış iki. Format farkı eksi on bir. Format farkı, tam z, eksi on üç. En fazla teklif sıfır dolar.
+
+Rol. Bulls'un altıncı adamı, Giddey ve Powell'ın arkasında yirmi üç ile yirmi beş dakika, yirmi sekiz Eylül.
+
+Profil. Projeksiyonumuz altmış bir maç ve yirmi dört dakika: dört virgül dokuz asist, saha içi yüzde elli üç virgül altı, düşük top kaybı. Üçlük ve blok çok zayıf. Bizim fiyat sıfır dolar ve yüz elli birinci sıra: yüz kırk dört oyunculuk havuzun dışında. Piyasa bir dolar ve yüz elli altıncı sıra.
+
+Uzman. Geçen sezon bench maçlarında yaklaşık yirmi dört dakikada yüz altmışıncı sıra civarındaydı. yüz dokuz ile yüz on beş. seçim fazla yüksek, en iyi ihtimalle son seçim. Geçen sezonki yüksek saha içi isabeti düşer, yirmi sekiz Eylül. Üçlüğü ve bloğu punt eden yapıya asist, saha içi ve düşük top kaybı verir.
+
+Karar. PAHALI, draft etme. Powell takas edilir veya bir guard sakatlanırsa waiver'dan hemen al.
+
+Jalen Smith.
+
+Karar: pahalı.
+
+Hedef puanı beşte iki.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası iki yüz sekiz. Points sırası iki yüz yirmi sekiz. Format farkı eksi yirmi. Format farkı, tam z, eksi altı. En fazla teklif sıfır dolar.
+
+Rol. Claxton'ın arkasında yedek pivot. Claxton'ın başlaması yüzde doksan kesin, yirmi sekiz Eylül. Geçen sezon yirmi virgül altı dakika oynamıştı. Projeksiyonumuz elli sekiz maç ve on sekiz dakika: dokuz sayı, beş virgül sekiz ribaund, bir virgül iki üçlük.
+
+Profil. Top çalma çok zayıf, sayı ve asist eksi, top kaybı düşük. Bizim fiyat sıfır dolar ve iki yüz sekizinci sıra, piyasa bir dolar ve iki yüz dokuzuncu sıra. Format farkı eksi yirmi hacimsizlikten.
+
+Ne zaman değerli. Uzman, başlarsa şutu ve blokları yüzünden mutlaka kadroya alınacak bir oyuncu olur diyor. Leonard Miller iyi çıkarsa takas edilebilir.
+
+Karar. Draft etme, waiver'dan izle. Claxton'ın handcuff'ı. Başladığı ilk gün ekle.
+
+Isaac Okoro.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası iki yüz elli. Points sırası iki yüz kırk üç. Format farkı artı yedi. Format farkı, tam z, eksi iki. En fazla teklif sıfır dolar.
+
+Rol. Bulls yedek sırasında Tre Jones'un arkasında ikinci, yirmi sekiz Eylül. Uzman profili yok. Projeksiyonumuz altmış dört maç ve yirmi üç dakika, ama sadece yedi virgül altı sayı.
+
+Profil. Bu dakikada çok az üretim: sayı, ribaund, top çalma, asist. Tek artı çok düşük top kaybı. Bizim fiyat sıfır dolar ve iki yüz ellinci sıra, piyasa bir dolar ve iki yüz ellinci sıra.
+
+Karar. Draft etme, görmezden gel. Powell takas edilirse dakikası artar, ama bu dakikalar fantasy değerine dönüşmez. O durumda Tre Jones daha iyi bir ekleme.
+
+Leonard Miller.
+
+Karar: pahalı.
+
+Hedef puanı beşte iki.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası üç yüz bir. Points sırası -. Format farkı -. Format farkı, tam z, -. En fazla teklif sıfır dolar.
+
+Rol. Derin yedek, onuncu yer için Williams ve Collins ile yarışıyor, yirmi sekiz Eylül. yirmi iki yaşında, geçen sezon sonunda iyi oynadı. üç, dört ve beş numarada oynayabilir, ribaunda saldırır.
+
+Profil. Projeksiyonumuz elli maç ve on iki dakika: altı virgül üç sayı, üç virgül bir ribaund, saha içi yüzde elli iki. Top çalma çok zayıf. Bizim fiyat sıfır dolar ve üç yüz birinci sıra, piyasa sırası yok.
+
+Ne zaman değerli. Buzelis veya Wilson sakatlanırsa uzman onun başlayıp yirmi beş dakika oynamasını bekliyor.
+
+Karar. Draft etme, waiver'dan izle. Bulls forvetlerinden biri düşerse hızlı ekle.
+
+Patrick Williams.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası üç yüz dokuz. Points sırası iki yüz doksan iki. Format farkı artı on yedi. Format farkı, tam z, artı altı. En fazla teklif sıfır dolar.
+
+Rol. Onuncu rotasyon yeri için Zach Collins ve Leonard Miller ile yarışıyor. Uzman onu oraya koyuyor ama 'iyi hissetmiyorum' diyor, yirmi sekiz Eylül. Uzman profili yok.
+
+Profil. Projeksiyonumuz altmış beş maç ve on altı dakika: beş virgül yedi sayı, saha içi yüzde otuz dokuz virgül yedi. Sayı, top çalma ve ribaund eksi. Bizim fiyat sıfır dolar ve üç yüz dokuzuncu sıra, piyasa bir dolar ve üç yüz yedinci sıra.
+
+Karar. Draft etme, görmezden gel. Buzelis veya Wilson sakatlanırsa bile uzmanlar yeri Miller'a veriyor.
+
+Buddy Hield.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası üç yüz on iki. Points sırası -. Format farkı -. Format farkı, tam z, -. En fazla teklif sıfır dolar.
+
+Rol. Charlotte'tan takasla geldi, Tre Jones'un arkasında yedek guard, yirmi yedi Eylül. Sözleşmesi çoğunlukla maaş eşitlemesi için, sözleşme feshi, buyout, olabilir. otuz üç yaşında.
+
+Profil. Projeksiyonumuz elli beş maç ve on dört dakika: bir virgül iki üçlük, beş virgül sekiz sayı. Üçlük isabeti üç sezondur düşüyor: otuz dokuz, otuz yedi, otuz beş. Top kaybı dışında her şey eksi. Bizim fiyat sıfır dolar ve üç yüz on ikinci sıra, piyasa sırası yok.
+
+Karar. Draft etme. Uzman, başlasa bile otomatik ekleme değil diyor. En fazla kısa süreli üçlük streamer'ı.
+
+Zach Collins.
+
+Karar: pahalı, sakatlık.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası üç yüz on. Points sırası üç yüz on yedi. Format farkı eksi yedi. Format farkı, tam z, artı on altı. En fazla teklif sıfır dolar.
+
+Rol. Chicago'nun üçüncü pivotu, Claxton ve Jalen Smith'in arkasında. Yüksek maaşla yeniden imzaladı, uzman bunu bir takas parçası olarak görüyor, yirmi sekiz Eylül.
+
+Profil. Yahoo onu ayak parmağı nedeniyle Q gösteriyor. Aynı sakatlık geçen sezonun çoğunu aldı. Projeksiyonumuz kırk yedi maç ve on iki dakika: beş virgül dokuz sayı, üç virgül dört ribaund. Top çalma ve sayı çok eksi. Bizim fiyat sıfır dolar ve üç yüz onuncu sıra, piyasa bir dolar ve üç yüz sekizinci sıra.
+
+Karar. Draft etme, görmezden gel. Ancak Claxton ve Smith ikisi birden yoksa bakılır.
+
+Jordan Hawkins.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası üç yüz kırk beş. Points sırası -. Format farkı -. Format farkı, tam z, -. En fazla teklif sıfır dolar.
+
+Rol. Chicago kadrosunda, takım notlarının rotasyonunda adı yok. Yahoo durumu NA. Uzman profili yok. Projeksiyonumuz elli beş maç ve on üç virgül yedi dakika.
+
+Profil. beş virgül sekiz sayı, bir virgül bir üçlük, saha içi yüzde otuz yedi virgül yedi. Top çalma, sayı, ribaund ve asist çok eksi. Bizim fiyat sıfır dolar ve üç yüz kırk beşinci sıra, piyasa sırası yok.
+
+Karar. Draft etme, görmezden gel. Hield ve Okoro önünde, Powell takası bile ona bir yol açmıyor.
+
+Milwaukee Bucks.
+
+Karar: alt sıra takımı, yeni koç, giannis'in kullanımı boşaldı.
+
+Ne değişti. Giannis Miami'ye takas edildi. Onun yüzde otuz üç kullanımı ve Bobby Portis'in şutları boşaldı. Herro, Ware ve Jaquez Miami'den geldi. Yeni koç Taylor Jenkins, Doc Rivers'ın yerine. Win total yirmi altı buçuk, ligde yirmi sekiz. Justin yaklaşık otuz üç galibiyet bekliyor.
+
+Rol ve kullanım. Rollins ve Herro hücumu yönetecek, Porter'ın rolü belirsiz. Jenkins'in hücum ribaundu, top kaybı zorlayan baskı savunması ve daha hızlı bir oyun istemesi bekleniyor. Milwaukee kendi draft hakkına sahip değil, bu yüzden tank için sebep yok: sezon sonu dinlenme riski düşük.
+
+Derinlik şeması. İlk beş: Rollins, Herro, Jaquez, Ware, Turner. Yedek: Porter Jr., Kuzma, Jericho Sims, Nate Ament, Brayden Burries. Guard grubu çok kalabalık: Herro, Rollins, Porter, Jakucionis, Burries, Trent, Green ve Watanabe.
+
+Dakika savaşları. Power forward ligin belki de en zayıf grubu, bu yüzden bir pivot dörtte başlayacak. Jenkins'in Ware'e fantasy dostu bir rol verip vermeyeceği belli değil. Kadroda on yedi oyuncu var, en az ikisi gidecek. Uzmanlar dakika dağılımını henüz çözemiyor.
+
+Takvim. on dört back-to-back, ligde on iki. Playoff haftaları üç, üç, dört, toplam on maç, ligde on yedi. Takvim ne avantaj ne dezavantaj.
+
+Bir starter eksik kalırsa kim kazanır. Bir guard yoksa önce Kevin Porter Jr., sonra Burries ve Jakučionis. Herro takas edilirse Burries'in yolu açılır. Ware veya Turner yoksa ya Kuzma dörtte başlar ya da Jericho Sims pivotta oynar. Jaquez takas edilirse Kuzma ve çaylak Ament forvette dakika alır. Kadroda on yedi oyuncu var, iki kesinti veya takas rotasyonu değiştirecek.
+
+Kel'el Ware.
+
+Karar: al, breakout.
+
+Hedef puanı beşte dört.
+
+Bizim fiyat yirmi dört dolar. Tam z yirmi dört virgül sekiz dolar. Piyasa fiyatı dört dolar. Dokuz kategori sırası otuz yedi. Points sırası altmış. Format farkı eksi yirmi üç. Format farkı, tam z, eksi otuz. En fazla teklif on iki dolar.
+
+Rol. Giannis takasıyla Miami'den geldi. Milwaukee'nin power forward'u ligin en zayıf grubu, bu yüzden bir pivot dörtte başlayacak. Ware, Turner'ın yanında başlayabilir ya da onun yedeği olabilir: Taylor Jenkins henüz karar vermedi, on dört Eylül. En yeni beklenti yirmi altı ile otuz dakika.
+
+Kategori profili. Projeksiyonumuz yetmiş iki maç ve yirmi yedi dakika: dokuz virgül yedi ribaund, bir virgül üç blok, saha içi yüzde elli iki virgül dokuz, düşük top kaybı, bir uzun için bir virgül üç üçlük. Asist çok düşük, bir virgül üç.
+
+Model notu. Bu bir model dışı değer, outlier, adayı, ama klasik üçlük artefaktı değil: üçlük atıyor, en kötü kategorisi asist. Tam z skor onu daha da yukarı koyuyor: otuzuncu sıra ve yirmi dört virgül sekiz dolar. Taban on sekiz, tavan otuz iki virgül bir, yani rol belirsizliği aralığı geniş.
+
+Piyasa. Piyasa dört dolar ve yetmiş dokuzuncu sırada, Yahoo dört virgül altı, ESPN iki buçuk. Biz otuz yedinci sıradayız. Points sırası altmış, format farkı eksi yirmi üç ve eksi otuz. Points formülü onu aşağı itiyor.
+
+Uzman. İlk altmış ile seksen oyuncu, draft fiyatı çok düşük, yirmi bir Eylül. Başlar ve otuz dakika oynarsa ilk kırk olabilir. Ama uzmanlar onu 'dokuz kategori fluff' olarak da işaretliyor: savunma hataları kategori satırında görünmüyor. Miami'de kötü şut seçimi yüzünden kenara alındı.
+
+Karar. AL ve BREAKOUT. Üç kaynak aynı yönde, ama modelin yirmi dört dolarına değil uzmanın aralığına göre fiyatlıyoruz. En fazla on iki dolar: uzmanın ilk altmış ile seksen değeri, rol belirsizliği için otuz dakikalık senaryoyu ödemiyoruz.
+
+Ryan Rollins.
+
+Karar: al.
+
+Hedef puanı beşte dört.
+
+Bizim fiyat on yedi buçuk dolar. Tam z on yedi virgül yedi dolar. Piyasa fiyatı iki virgül dört dolar. Dokuz kategori sırası elli dokuz. Points sırası altmış iki. Format farkı eksi üç. Format farkı, tam z, eksi dört. En fazla teklif on dört dolar.
+
+Rol. Uzmanların çoğu onu Herro'nun yanında başlangıç guard'ı görüyor, Porter ve Trent'in önünde, yirmi bir Eylül. Giannis'in yüzde otuz üç kullanımı boşaldı. Justin maçta yirmi sayı bekliyor, takımın en skoreri bile olabilir, on dört Ağustos. Geçen sezon ilk ellide bitirdi, ama Giannis sezonun çoğunda yoktu.
+
+Kategori profili. Projeksiyonumuz altmış sekiz maç ve otuz dakika: on yedi sayı, beş virgül dört asist, iki virgül üç üçlük, bir buçuk top çalma. Geniş bir guard profili. Asıl zararı top kaybı, iki virgül yedi.
+
+Piyasa. Piyasa iki virgül dört dolar ve doksanıncı sırada. Kaynaklar çok ayrışıyor: Yahoo ortalama maliyeti iki virgül altı ama Yahoo değeri on yedi dolar, ESPN bir virgül yedi. Biz elli dokuzuncu sıradayız ve on yedi buçuk dolar diyoruz, tam z on yedi virgül yedi. Points sırası altmış iki, format farkı eksi üç. Format bükmüyor, piyasa onu sadece unutuyor.
+
+Uzman. Muhtemelen ilk elliye yakın değer, ama yetmişlerde gidiyor: değerinin altında, on yedi Eylül. Josh dakikalarından emin değil, Herro, Kuzma ve Porter ile paylaşım endişesi var, on Eylül.
+
+Risk. Kalabalık guard grubu. Ucuz sözleşmesi yüzünden Milwaukee onu ilk tur hakları için takas edebilir.
+
+Karar. AL. Sıra farkı, elli dokuza karşı doksan, uzman ve Yahoo değeri aynı yönde. En fazla on dört dolar: bizim fiyat on yedi buçuk, dakika riski için biraz aşağıda.
+
+Tyler Herro.
+
+Karar: al, sakatlık.
+
+Hedef puanı beşte üç.
+
+Bizim fiyat on üç virgül yedi dolar. Tam z on beş virgül altı dolar. Piyasa fiyatı beş virgül dört dolar. Dokuz kategori sırası yetmiş üç. Points sırası altmış dokuz. Format farkı artı dört. Format farkı, tam z, eksi iki. En fazla teklif on iki dolar.
+
+Rol. Miami'den geldi, başlaması kesin, rolü net, dokuz Eylül. Milwaukee'nin ilk hücum seçeneği ve en skoreri olmalı. Miami'de de öyleydi, bu yüzden takas değerini pek değiştirmiyor.
+
+Kategori profili. Projeksiyonumuz altmış dört maç ve otuz iki buçuk dakika: yirmi bir virgül altı sayı, iki virgül dokuz üçlük, serbest atış yüzde seksen sekiz virgül üç, dört virgül altı asist. Blok ve top çalma eksi. Belirgin kötü kategorisi yok.
+
+Piyasa. Piyasa beş virgül dört dolar ve altmış yedinci sırada, Yahoo beş virgül dört, ESPN yedi buçuk. Biz yetmiş üçüncü sıradayız ve on üç virgül yedi dolar diyoruz, tam z skorda altmış yedinci sıra. Sıralar aynı, ama odanın beklenen fiyatı sadece yaklaşık yedi dolar. Points sırası altmış dokuz, format farkı artı dört.
+
+Uzman. Guard'da altıncı kademe. elli sekiz ile altmış ADP adil, altıncı turda çok güçlü bir seçim, yirmi dört Eylül. Milwaukee'deki üretimi görece güvenli.
+
+Risk. Uzun sakatlık geçmişi: son üç sezonun ikisinde kırk iki ve otuz üç maç. otuz üç milyon dolarlık biten sözleşme, takas tarihinde gidebilir.
+
+Karar. AL, SAKATLIK etiketiyle. Bizim fiyat, on üç virgül yedi, ve uzmanın on iki ile on altı dolarlık aralığı odanın beklenen fiyatının üstünde. En fazla on iki dolar: bizim fiyattan maç sayısı riski için iki dolar aşağı.
+
+Myles Turner.
+
+Karar: flyer.
+
+Hedef puanı beşte üç.
+
+Bizim fiyat on virgül dört dolar. Tam z on bir virgül iki dolar. Piyasa fiyatı bir virgül üç dolar. Dokuz kategori sırası doksan üç. Points sırası yüz on iki. Format farkı eksi on dokuz. Format farkı, tam z, eksi yirmi iki. En fazla teklif dört dolar.
+
+Rol. Milwaukee'nin başlangıç pivotu. Onu sık sık Jericho Sims için kenara alan Doc Rivers gitti. Ware onun dakikalarını kısabilir, ama bazı uzmanlar ikisinin birlikte oynayabileceğini düşünüyor.
+
+Kategori profili. Projeksiyonumuz altmış dokuz maç ve yirmi yedi buçuk dakika: bir virgül yedi blok, bir pivot için bir virgül dokuz üçlük, düşük top kaybı. Saha içi bir pivot için zayıf, yüzde kırk altı virgül bir. Asist ve top çalma eksi. Saha içi punt'una uyar.
+
+Piyasa. Piyasa bir virgül üç dolar ve yüz dördüncü sırada. Biz doksan üçüncü sıradayız ve on virgül dört dolar diyoruz. Format farkı eksi on dokuz ve eksi yirmi iki: points formülü blok ve üçlüğünü az sayıyor.
+
+Uzman. yüz yirmi ile yüz yirmi sekiz. seçimde adil, seksen altı ile yüz'de pahalı. Josh bir ile üç dolar dedi, bir mock'ta altı dolara gitti, beş Ekim. Güçlü bir geri dönüş adayı: yirmi dokuz dakika, on dört sayı, altı ribaund, iki üçlük, iki blok makul hedef, ilk altmış tavanı, iki Ekim.
+
+Karar. FLYER. En fazla dört dolar: Josh'un bir ile üç aralığının biraz üstü, çünkü modelimiz ve sıra farkı da yukarı bakıyor.
+
+Jaime Jaquez Jr.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası yüz altmış beş. Points sırası yüz yirmi altı. Format farkı artı otuz dokuz. Format farkı, tam z, artı yirmi bir. En fazla teklif sıfır dolar.
+
+Rol. Miami'den geldi. Power forward grubu ince olduğu için forvette başlaması bekleniyor. Sezondan önce takas edilmesi en olası eski Miami oyuncusu.
+
+Profil. Projeksiyonumuz yetmiş maç ve yirmi altı buçuk dakika, on iki virgül sekiz sayı, üç virgül sekiz asist, çok az üçlük. Bizim fiyat sıfır dolar ve yüz altmış beşinci sıra: yüz kırk dört oyunculuk havuzun dışında. Piyasa bir dolar ve yüz altmış sekizinci sıra. Format farkı artı otuz dokuz sadece havuz dışı sıralardan çıkıyor, hüküm değil.
+
+Uzman. Bir uzman onu en iyi ihtimalle altıncı adam, şutu kötü bir oyuncu görüyor: üretmek için fırsat ve kullanım ister. Geçen sezonki üretiminin çoğu Miami'de iki üç oyuncu yokken geldi, Herro da onlardan biriydi. Yahoo ve ESPN saha içi ve top kaybı tahmininde ayrışıyor.
+
+Karar. PAHALI, draft etme. Başlarsa ve takas edilmezse waiver'da izle. Üçlüğü punt eden yapıya uyar.
+
+Kevin Porter Jr.
+
+Karar: flyer.
+
+Hedef puanı beşte iki.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası yüz yetmiş yedi. Points sırası yüz elli. Format farkı artı yirmi yedi. Format farkı, tam z, artı dokuz. En fazla teklif bir dolar.
+
+Rol. Uzmanlar onu yedekten bekliyor. Josh, Rollins'in başlayacağını ve Porter'ın yedekte yaklaşık yirmi yedi dakika oynayabileceğini söylüyor, iki Ekim. Onu çok oynatan Doc Rivers gitti. Geçen sezon otuz sekiz maç oynadı.
+
+Profil. Projeksiyonumuz elli dokuz maç ve yirmi dört dakika: on iki virgül altı sayı, dört virgül yedi asist, bir virgül üç top çalma, serbest atış yüzde seksen üç virgül dört. Üçlük az. Bizim fiyat sıfır dolar ve yüz yetmiş yedinci sıra, tam z skorda yüz elli dokuzuncu, piyasa bir dolar ve yüz sekseninci sıra. Format farkı artı yirmi yedi, tam z farkı artı dokuz: Minus bir onu biraz cezalandırıyor, hüküm değil.
+
+Uzman. yüz yirmi civarında geç bir seçim, daha erken değil. Milwaukee onu başlatırsa Josh mutlaka alınmalı diyor. Geçen sezonki iki virgül iki top çalma büyük ihtimalle düşer.
+
+Karar. FLYER. En fazla bir dolar. Başlamaz veya yirmi yedi dakikanın altında kalırsa bırak. Üçlüğü punt eden takıma uyar.
+
+Kyle Kuzma.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası iki yüz elli beş. Points sırası iki yüz dört. Format farkı artı elli bir. Format farkı, tam z, artı otuz beş. En fazla teklif sıfır dolar.
+
+Rol. Giannis ve Portis gidince forvet dakikası açıldı. Power forward Milwaukee'nin en zayıf yeri, Kuzma oradaki zayıf seçeneklerden biri. Takım büyük ihtimalle dörtte bir pivot başlatacak, on dört Ağustos.
+
+Profil. Projeksiyonumuz altmış dokuz maç ve yirmi dakika: dokuz virgül sekiz sayı, üç virgül sekiz ribaund. Güçlü kategorisi yok, top çalma en zayıfı. Bizim fiyat sıfır dolar ve iki yüz elli beşinci sıra, piyasa bir dolar ve iki yüz elli beşinci sıra. Format farkı artı elli bir ve artı otuz beş: bu bölümün en büyük points şişmesi, ama havuz dışında olduğu için kimse ona para vermez.
+
+Karar. Draft etme, waiver'dan izle. Jenkins iki pivot yerine onu başlatır ve yirmi altı dakikanın üstüne çıkarırsa sayı ve ribaund için ucuz bir ekleme.
+
+Brayden Burries.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası iki yüz yirmi iki. Points sırası iki yüz on. Format farkı artı on iki. Format farkı, tam z, artı üç. En fazla teklif sıfır dolar.
+
+Rol. Onuncu sıradan seçilen çaylak, Milwaukee'nin uzun vadeli shooting guard'ı. Önündeki guard'lar yüzünden hemen otuz dakika oynaması beklenmiyor, yirmi üç Temmuz.
+
+Profil. Projeksiyonumuz yetmiş beş maç ve on dokuz dakika: sekiz virgül altı sayı, serbest atış yüzde seksen dört virgül bir. Diğer her şey hafif eksi, düz bir profil. Bizim fiyat sıfır dolar ve iki yüz yirmi ikinci sıra, piyasa bir dolar ve iki yüz yirmi ikinci sıra.
+
+Ne zaman değerli. Herro takas edilirse, biten sözleşme, takas tarihi dört Mart, veya on yedi kişilik kadrodan guard'lar giderse dakikası açılır.
+
+Karar. Draft etme, waiver'dan izle.
+
+AJ Green.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası iki yüz altmış beş. Points sırası iki yüz seksen dört. Format farkı eksi on dokuz. Format farkı, tam z, eksi on iki. En fazla teklif sıfır dolar.
+
+Rol. Kalabalık guard grubunda bir şutör. Milwaukee'nin yeni yönüne uymuyor, takas adayı, on dört Ağustos.
+
+Profil. Projeksiyonumuz altmış dokuz maç ve on yedi dakika: bir virgül sekiz üçlük, altı buçuk sayı, düşük top kaybı. Top çalma, sayı ve ribaund eksi. Bizim fiyat sıfır dolar ve iki yüz altmış beşinci sıra, piyasa bir dolar ve iki yüz altmış beşinci sıra.
+
+Karar. Draft etme, görmezden gel. Ancak üçlük peşindeki bir takım için kısa süreli streamer olur.
+
+Kasparas Jakučionis.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası iki yüz seksen üç. Points sırası -. Format farkı -. Format farkı, tam z, -. En fazla teklif sıfır dolar.
+
+Rol. Giannis takasıyla geldi, anlaşmayı bağlayan parça olarak görülüyor. Uzmanlar onu bir ilk tur hakkı gibi değerliyor, Milwaukee onu takasta kullanabilir. Net bir rolü yok, yirmi üç Temmuz.
+
+Profil. Projeksiyonumuz altmış beş maç ve on üç dakika: beş virgül üç sayı, iki virgül bir asist, serbest atış yüzde seksen beş virgül sekiz. Top çalma ve sayı eksi. Bizim fiyat sıfır dolar ve iki yüz seksen üçüncü sıra, piyasa sırası yok.
+
+Karar. Draft etme, görmezden gel. Gerçek dakika veya bir takas haberi gelmeden bakma.
+
+Jericho Sims.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası üç yüz otuz sekiz. Points sırası üç yüz kırk altı. Format farkı eksi sekiz. Format farkı, tam z, artı dört. En fazla teklif sıfır dolar.
+
+Rol. Milwaukee'nin yedek pivotu, ikinci birimde. Uzman profili yok. Doc Rivers onu sık sık Turner'ın önüne koyardı, Rivers artık yok.
+
+Profil. Projeksiyonumuz elli beş maç ve on iki dakika: saha içi yüzde yetmiş ama sadece bir virgül sekiz deneme, üç buçuk ribaund. Üçlük yok, top çalma ve sayı çok eksi. Bizim fiyat sıfır dolar ve üç yüz otuz sekizinci sıra, piyasa bir dolar ve üç yüz otuz altıncı sıra.
+
+Karar. Draft etme, görmezden gel. Turner ve Ware ikisi birden yoksa bile ribaund dışında bir şey vermez.
+
+Nate Ament.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası üç yüz otuz üç. Points sırası üç yüz on dört. Format farkı artı on dokuz. Format farkı, tam z, artı sekiz. En fazla teklif sıfır dolar.
+
+Rol. on üçüncü sıradan seçilen çaylak. Yaz boyunca sırt sakatlığı yaşadı ve kötü bir summer league geçirdi: on sayı, beş ribaund, sıfır virgül dört blok, yirmi üç Temmuz. Uzmanlar draft sırasına değmediğini düşünüyor.
+
+Profil. Projeksiyonumuz altmış beş maç ve on bir dakika: dört buçuk sayı, saha içi yüzde kırk bir buçuk. Her kategori eksi, top kaybı hariç. Bizim fiyat sıfır dolar ve üç yüz otuz üçüncü sıra, piyasa bir dolar ve üç yüz otuz birinci sıra.
+
+Karar. Draft etme, görmezden gel. Milwaukee'nin zayıf power forward yerinde dakika alırsa izle.
+
+Gary Trent Jr.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası üç yüz yetmiş yedi. Points sırası -. Format farkı -. Format farkı, tam z, -. En fazla teklif sıfır dolar.
+
+Rol. Kalabalık Milwaukee guard grubunun bir parçası, uzman notlarında on altı milyon dolarlık adam olarak geçiyor. Uzman profili yok. Projeksiyonumuz elli dört maç ve on dakika.
+
+Profil. dört virgül üç sayı, sıfır virgül dokuz üçlük. Top kaybı dışında her şey eksi. Bizim fiyat sıfır dolar ve üç yüz yetmiş yedinci sıra, piyasa sırası yok.
+
+Karar. Draft etme, görmezden gel. Bu kadrodan gidecek iki oyuncudan biri olabilir. Başka bir takıma gidip dakika bulursa üçlük için yeniden bakılır, Milwaukee'de değil.
+
+Caris LeVert.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası üç yüz doksan sekiz. Points sırası -. Format farkı -. Format farkı, tam z, -. En fazla teklif sıfır dolar.
+
+Rol. Milwaukee'nin en derin yedeklerinden biri. Takım notlarında adı yok, uzman profili yok. Projeksiyonumuz kırk yedi maç ve on dakika.
+
+Profil. üç virgül dokuz sayı, bir virgül iki asist. Top kaybı dışında her şey eksi. Bizim fiyat sıfır dolar ve üç yüz doksan sekizinci sıra, piyasa sırası yok.
+
+Karar. Draft etme, görmezden gel. Milwaukee'nin kalabalık guard ve kanat grubunda önünde en az altı oyuncu var. Sadece büyük bir sakatlık dalgasında veya takasla dakika bulursa yeniden bak.
+
+Indiana Pacers.
+
+Karar: kazanan takım, carlisle dakika keser, kötü playoff takvimi.
+
+Ne değişti. Haliburton Aşil sakatlığından dönüyor. Myles Turner'ın yerine Zubac pivotta. Kelly Oubre Jr. kanat derinliği için geldi, Micah Potter gitti. First apron'a yakın olmak yaz harcamalarını sınırladı. Win total kırk dört buçuk, ligde on dört. Uzmanlar kırk altı ile kırk sekiz galibiyet ve doğuda ilk altı bekliyor.
+
+Koç. Rick Carlisle normal sezonda dakikaları düşük tutar, sağlıklı oyuncularda bile. Başlangıç pivotunun dakikasını kısar ve yedek pivotları rotasyona sokar. Back-to-back'lerde oyuncu dinlendirmeyi sever. Bu, her Pacer'ın sayma istatistiğini biraz keser.
+
+Derinlik şeması. İlk beş: Haliburton, Nembhard, Nesmith, Siakam, Zubac. Yedek: Oubre altıncı adam, sonra Toppin, Huff, McConnell ve Jarace Walker.
+
+Dakika savaşları. Zubac ile Huff arasındaki pivot dakikası büyük soru. Oubre başlarsa Nesmith'in yerini alır. Sezon başında Haliburton'ın dakikası yönetilecek, bu sürede McConnell ve Nembhard topu taşır.
+
+Takvim. on beş back-to-back. Playoff haftaları üç, dört, üç, toplam on maç, ligde on yedi. Ama yirminci ve yirmi birinci haftada birer back-to-back var, Carlisle'ın dinlendirme alışkanlığıyla bu gerçek bir risk.
+
+Bir starter eksik kalırsa kim kazanır. Haliburton yoksa Nembhard'ın asistleri geri gelir, McConnell'in dakikası artar. Zubac yoksa Jay Huff başlar, arkasında sadece Nance ve Kobe Brown var. Siakam yoksa Obi Toppin başlar, uzman on altı sayı ve sekiz ribaund civarı bekliyor. Nesmith yoksa Oubre otuz dakikanın üstüne çıkar. İki yönlü sözleşmeli Slawson, kanatta dakika bulursa top çalma ve blok verir. Furphy ön çapraz bağ yüzünden yok.
+
+Tyrese Haliburton.
+
+Karar: pahalı, sakatlık.
+
+Hedef puanı beşte üç.
+
+Bizim fiyat yirmi sekiz buçuk dolar. Tam z otuz virgül dört dolar. Piyasa fiyatı kırk dört dolar. Dokuz kategori sırası yirmi dört. Points sırası yirmi sekiz. Format farkı eksi dört. Format farkı, tam z, eksi dokuz. En fazla teklif yirmi dokuz dolar.
+
+Rol. Haziran iki bin yirmi beş finallerinde yırttığı Aşil'den dönüyor, bütün geçen sezonu kaçırdı. GM açılış gecesine hazır olduğunu söylüyor, bir Ekim. Uzmanlar yavaş bir başlangıç bekliyor: pas, kısa dakika sınırları, kaçırılan maçlar. Carlisle dakikalarını yönetecek. Noel'den sonra veya Ocak'ta en iyi haline yakın olmalı.
+
+Kategori profili. Projeksiyonumuz altmış altı maç ve otuz bir buçuk dakika: on yedi virgül sekiz sayı, dokuz virgül üç asist, iki virgül sekiz üçlük, bir virgül iki top çalma. Serbest atış yüzde seksen beş virgül dört artı. Top kaybı nötr, bir virgül sekiz: bu kadar asist için çok düşük. Ribaund ve saha içi, yüzde kırk altı virgül iki, hafif zarar.
+
+Piyasa. Piyasa kırk dört dolar ve on dördüncü sırada, Yahoo kırk beş virgül dört, ESPN otuz sekiz virgül dokuz. Biz yirmi dördüncü sıradayız ve yirmi sekiz buçuk dolar diyoruz, tam z skorda on dokuzuncu sıra ve otuz virgül dört dolar. Points sırası ortalama yirmi sekiz, ama kaynaklar ayrışıyor: Yahoo points formülünde otuz yedinci, ESPN'de on dokuz. Format farkı eksi dört ve eksi dokuz. Yani piyasa onu points değerinden değil, isminden ve Yahoo'nun onuncu sırasından fiyatlıyor.
+
+Uzman. Kategoride on dört ile yirmi. sıra. Yahoo'nun onuncu sırası fazla agresif, bir Ekim. Josh otuz beş doların üstünü vermez, bir mock'ta otuz altı dolara gitti ve 'biraz yüksek' dedi, beş Ekim. İlk tur ADP'li oyuncular arasında en geniş sonuç aralığı: en iyi sekizinci, en kötü elli beş.
+
+Risk. Aşil sonrası telafi sakatlıkları, Carlisle'ın back-to-back yönetimi, kötü playoff takvimi, üç, dört, üç, iki back-to-back. Taban fiyatımız yirmi dokuz virgül altı, tavan otuz üç buçuk.
+
+Karar. PAHALI ve SAKATLIK. Odanın beklenen fiyatı yaklaşık elli altı dolar. En fazla yirmi dokuz dolar: bizim fiyat yirmi sekiz buçuk, tam z fiyatı otuz virgül dört. Uzman tavanı otuz beş daha yüksek, bizi bağlamıyor.
+
+Ivica Zubac.
+
+Karar: al.
+
+Hedef puanı beşte üç.
+
+Bizim fiyat on yedi virgül üç dolar. Tam z on beş dolar. Piyasa fiyatı beş virgül yedi dolar. Dokuz kategori sırası altmış. Points sırası altmış altı. Format farkı eksi altı. Format farkı, tam z, artı beş. En fazla teklif on üç dolar.
+
+Rol. Clippers'tan geldi, Indiana'nın başlangıç pivotu. Haliburton ile pick and roll oynayacak, uzmanlar kötü bir sezondan sonra çok daha iyi olmasını bekliyor. Ama Carlisle başlangıç pivotlarının dakikasını kısıtlar ve Huff iyi bir yedek: yaklaşık otuz dakika bekle, bir Ekim.
+
+Kategori profili. Projeksiyonumuz yetmiş maç ve yirmi dokuz buçuk dakika: saha içi yüzde altmış iki buçuk, on virgül altı ribaund, bir blok. Üçlük yok, top çalma bir pivot için düşük, serbest atış yüzde yetmiş virgül dört.
+
+Model notu. Minus bir üçlüğü siliyor: altmışıncı sıra ve on yedi virgül üç dolar. Tam z skor yetmiş birinci sıra ve on beş dolar. Uzmanlar onu da 'dokuz kategori fluff' olarak işaretliyor.
+
+Piyasa. Piyasa beş virgül yedi dolar ve altmış dördüncü sırada. Kaynaklar ayrışıyor: Yahoo sekiz virgül iki, ESPN üç virgül dört. Biz altmışıncı sıradayız: sıralar neredeyse aynı, ama odanın beklenen fiyatı sadece yaklaşık yedi dolar. Points sırası altmış altı, format farkı eksi altı ve artı beş.
+
+Uzman. Kategoride altmış ile yetmiş beş. sıra. Yahoo'nun elli yedinci sırası fazla agresif, ESPN'in doksan beş ADP'si cazip. Josh on bir ile on iki dolar verir, en fazla on dört, bir mock'ta on altı dolara gitti, beş Ekim. otuz üç dakika oynadığı tek sezonda üretimi patlamıştı.
+
+Karar. AL. Bizim fiyat ve Josh'un on bir ile on dört dolarlık aralığı odanın beklenen fiyatının üstünde. En fazla on üç dolar: bizim fiyat on yedi virgül üç, üçlük fazlası olmayan tam z fiyatı on beş, Josh'un tavanının bir dolar altına iniyoruz, kötü playoff takvimi ve dakika sınırı için.
+
+Pascal Siakam.
+
+Karar: format tuzağı.
+
+Hedef puanı beşte iki.
+
+Bizim fiyat on dört virgül altı dolar. Tam z on dört virgül üç dolar. Piyasa fiyatı on dört virgül altı dolar. Dokuz kategori sırası altmış dokuz. Points sırası kırk dört. Format farkı artı yirmi beş. Format farkı, tam z, artı otuz iki. En fazla teklif on üç dolar.
+
+Rol. İlk beşte power forward, F ve C uygunluğu var. Haliburton döndü: son kez birlikte oynadıklarında Siakam'ın asistleri çok düşmüştü. En yeni görüş asistin üç ile üç,ikiye inmesini ve kullanımın otuzun altına düşmesini bekliyor, bir Ekim.
+
+Kategori profili. Projeksiyonumuz altmış dokuz maç ve otuz üç virgül üç dakika: yirmi bir virgül yedi sayı, saha içi yüzde elli bir virgül bir, altı virgül sekiz ribaund. Serbest atış yüzde yetmiş bir virgül sekiz en zayıf yeri, blok da az.
+
+Piyasa. Piyasa on dört virgül altı dolar ve kırk dördüncü sırada. Kaynaklar çok ayrışıyor: Yahoo on üç virgül sekiz, ESPN yirmi dört virgül üç. Biz altmış dokuzuncu sıradayız ve on dört virgül altı dolar diyoruz. Points sırası kırk dört. Minus bir farkı artı yirmi beş, tam z farkı artı otuz iki. Piyasa sırası points sırasıyla aynı: tam bir points fiyatı.
+
+Uzman. Points liginde yaklaşık otuzuncu, kategoride elli ile altmış. Kategoride elli ile altmış arasında al, kırk beş erken. ESPN'in yirmi dört ile yirmi beş. sırası çok yüksek, kategori liginde asla o kadar erken alma, bir Ekim. Haliburton yokken daha çok oynadı ve yine kırk birinci bitirdi.
+
+Risk. otuz iki yaş. Carlisle dakikaları düşük tutar. Kötü playoff takvimi. Artı yanı: çok tutarlı ve sakatlıkla oynar.
+
+Karar. FORMAT TUZAĞI. Odanın beklenen fiyatı yaklaşık on dokuz dolar, bizim fiyat on dört virgül altı. En fazla on üç dolar: bizim fiyattan büyük format farkı, artı yirmi beş ve artı otuz iki, için aşağı. Serbest atışı punt ediyorsan biraz daha iyi oturur.
+
+Aaron Nesmith.
+
+Karar: flyer.
+
+Hedef puanı beşte iki.
+
+Bizim fiyat üç dolar. Tam z dört virgül bir dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası yüz otuz bir. Points sırası yüz altmış bir. Format farkı eksi otuz. Format farkı, tam z, eksi otuz altı. En fazla teklif bir dolar.
+
+Rol. Tam sağlıklı döndü, ilk beşte kanat. Oubre başlarsa yerini alacak oyuncu o, bir Ekim.
+
+Kategori profili. Projeksiyonumuz altmış beş maç ve yirmi sekiz dakika: on üç sayı, iki üçlük, serbest atış yüzde seksen üç virgül sekiz, düşük top kaybı. Asist zayıf, bir virgül altı. Asist punt'una uyar.
+
+Piyasa. Bizim fiyat üç dolar ve yüz otuz birinci sıra, piyasa bir dolar ve yüz otuz yedinci sıra. Points sırası yüz altmış bir, bu yüzden format farkı eksi otuz. Bu fark gerçek ama küçük dolarlarda.
+
+Uzman. Haliburton yokken saha içi isabeti yüzde elli birden kırk bire düştü. Haliburton dönünce kırk sekiz ile elli'ye çıkarsa ilk yüz olabilir, iki Ekim. Bir uzman yüz on ile yüz otuz. sırada görüyor ve on iki takımlı ligde almaz.
+
+Karar. FLYER. En fazla bir dolar, ya da waiver. İlk haftalarda saha içi isabetine bak.
+
+Jay Huff.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası yüz kırk yedi. Points sırası iki yüz altı. Format farkı eksi elli dokuz. Format farkı, tam z, eksi kırk bir. En fazla teklif sıfır dolar.
+
+Rol. Zubac'ın yedeği, arkasında sadece Larry Nance Jr. veya Kobe Brown var. Zubac kaçırırsa başlar.
+
+Profil. Projeksiyonumuz yetmiş iki maç ve on altı buçuk dakika, bir virgül iki blok, düşük top kaybı. Diğer her şey eksi, top çalma çok zayıf. Bizim fiyat sıfır dolar ve yüz kırk yedinci sıra: havuzun dışında. Piyasa bir dolar ve yüz elli ikinci sıra, sadece Fantrax'tan geliyor. Format farkı eksi elli dokuz, points sırası iki yüz altı olduğu için çıkıyor, hüküm değil.
+
+Karar. PAHALI, draft etme. Uzman da 'standart ligde draft edilmez' diyor. Zubac sakatlanırsa blok için hemen al.
+
+Kelly Oubre Jr.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası yüz altmış bir. Points sırası yüz elli sekiz. Format farkı artı üç. Format farkı, tam z, eksi altı. En fazla teklif sıfır dolar.
+
+Rol. Indiana'ya geldi, kariyerinde ilk kez yedekten, yaklaşık yirmi yedi dakika. Başlarsa Nesmith'in yerine başlar.
+
+Profil. Projeksiyonumuz altmış sekiz maç ve yirmi altı buçuk dakika: bir virgül bir top çalma ve düşük top kaybı artı, gerisi eksi. Bizim fiyat sıfır dolar ve yüz altmış birinci sıra: havuzun dışında. Piyasa bir dolar ve yüz altmış dördüncü sıra. Uzman onu on dört ile on altı takımlı lig oyuncusu görüyor.
+
+Ne zaman değerli. Kariyerinde yedek olarak gelip başkaları sakatlanınca ağır dakika oynama alışkanlığı var. Uzman, otuz dakikanın altında fantasy değeri olmadığını söylüyor. Deflection'larının sadece yüzde otuz ikisini top çalmaya çevirdi, yani top çalmada artış payı var.
+
+Karar. PAHALI, draft etme. Nesmith veya başka bir kanat sakatlanır ve otuz dakikanın üstüne çıkarsa top çalma için waiver'dan al.
+
+Andrew Nembhard.
+
+Karar: flyer.
+
+Hedef puanı beşte iki.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası yüz seksen dört. Points sırası yüz elli. Format farkı artı otuz dört. Format farkı, tam z, artı yirmi bir. En fazla teklif bir dolar.
+
+Rol. Haliburton'ın yanında ilk beşte. Haliburton dönünce kullanımı ve asisti düşecek, bir Ekim. Geçen sezon bir Ocak'tan sonra maç başı asistte ilk beşteydi, ama Haliburton yoktu. Projeksiyonumuz altmış altı maç ve yirmi dokuz buçuk dakika: on bir virgül üç sayı, beş virgül bir asist, bir top çalma.
+
+Profil. Asist dışında artısı yok. Blok ve ribaund eksi. Bizim fiyat sıfır dolar ve yüz seksen dördüncü sıra, tam z skorda yüz yetmiş birinci, piyasa bir dolar ve yüz seksen altıncı sıra. Points sırası yüz elli, format farkı artı otuz dört ve artı yirmi bir: points ligleri onu biraz daha çok seviyor, ama havuz dışı sıralarda bu fark küçük dolarlar demek.
+
+Uzman. Yahoo'nun yüz sekizinci sırasında Pacers'ın en büyük fade'i, standart formatta draft etme, bir Ekim.
+
+Karar. FLYER, sadece Haliburton handcuff'ı olarak. En fazla bir dolar. Sezon başında Carlisle Haliburton'ın dakikasını kısarsa asistleri işe yarar.
+
+T.J. McConnell.
+
+Karar: pahalı.
+
+Hedef puanı beşte iki.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası yüz yetmiş altı. Points sırası yüz yetmiş. Format farkı artı altı. Format farkı, tam z, artı on dört. En fazla teklif sıfır dolar.
+
+Rol. Indiana'nın yedek oyun kurucusu. Haliburton oynasa da oynamasa da on yedi ile on dokuz dakika alması bekleniyor, bir Ekim. otuz beş yaşında.
+
+Profil. Projeksiyonumuz altmış dokuz maç ve on yedi dakika: saha içi yüzde elli üç, dört virgül yedi asist, sıfır virgül dokuz top çalma. Üçlük yok, sayı ve ribaund eksi. Bizim fiyat sıfır dolar ve yüz yetmiş altıncı sıra, piyasa bir dolar ve yüz yetmiş dokuzuncu sıra. Saha içi isabeti az denemeden geldiği için takımı az oynatır.
+
+Karar. Draft etme, waiver'dan izle. Indiana'nın dört maçlık haftalarında saha içi, asist ve top çalma streamer'ı. Üçlüğü punt eden takıma uyar. Playoff takvimi, üç, dört, üç, zayıf.
+
+Obi Toppin.
+
+Karar: pahalı.
+
+Hedef puanı beşte iki.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası yüz seksen iki. Points sırası yüz doksan dokuz. Format farkı eksi on yedi. Format farkı, tam z, eksi on üç. En fazla teklif sıfır dolar.
+
+Rol. Indiana'nın yedinci adamı, Oubre'den sonra en çok yedek dakikası onun. Yedek pivot dakikaları açık, küçük beşlide pivot oynayabilir. Geçen sezon yirmi dört maç oynadı.
+
+Profil. Projeksiyonumuz altmış dokuz maç ve on dokuz dakika: dokuz virgül dokuz sayı, saha içi yüzde elli üç buçuk, düşük top kaybı. Top çalma, sayı ve asist eksi. Bizim fiyat sıfır dolar ve yüz seksen ikinci sıra, piyasa bir dolar ve yüz seksen dördüncü sıra.
+
+Ne zaman değerli. Siakam sakatlanırsa uzman onun başlamasını ve on altı sayı, sekiz ribaund civarı üretmesini bekliyor.
+
+Karar. Draft etme, waiver'dan izle. Siakam'ın handcuff'ı.
+
+Jalen Slawson.
+
+Karar: pahalı.
+
+Hedef puanı beşte iki.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası üç yüz altmış dört. Points sırası -. Format farkı -. Format farkı, tam z, -. En fazla teklif sıfır dolar.
+
+Rol. Indiana ile iki yönlü, two-way, sözleşmesi var, projeksiyon rotasyonunda yok, bir Ekim. Bir uzman onu Jarace Walker'dan iyi buluyor ve Oubre'yi geçmesine şaşırmayacak.
+
+Profil. Projeksiyonumuz otuz maç ve on iki dakika: üç virgül yedi sayı, sıfır virgül yedi top çalma, sıfır buçuk blok. Bu bir sözleşme yer tutucusu. Uzmanlar onu en iyi çevre savunmacısı ve blok yapan kanatlardan biri görüyor. Summer league'de maçta üç blok yaptı. Bizim fiyat sıfır dolar ve üç yüz altmış dördüncü sıra, piyasa sırası yok.
+
+Karar. Draft etme, waiver'dan izle. Standart sözleşme alır veya yirmi dakikaya çıkarsa top çalma ve blok için ekle.
+
+Jarace Walker.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası iki yüz elli iki. Points sırası iki yüz otuz yedi. Format farkı artı on beş. Format farkı, tam z, artı yedi. En fazla teklif sıfır dolar.
+
+Rol. Pacers yedek rotasyonunda son sırada, bir Ekim. Geçen sezon kötü başlayıp güçlü bitirdi, takas tarihinden sonra doksan altıncı sıradaydı. Ama o rakamlar kötü bir takımda geldi.
+
+Profil. Projeksiyonumuz yetmiş maç ve on altı dakika: altı virgül dokuz sayı, saha içi yüzde kırk dört virgül iki. Top kaybı dışında her kategori eksi. Bizim fiyat sıfır dolar ve iki yüz elli ikinci sıra, piyasa bir dolar ve iki yüz elli ikinci sıra.
+
+Karar. Draft etme, görmezden gel. Bir uzman açıkça uzak dur diyor. Ancak dakikası geçen sezonun yirmi beş virgül yedisine dönerse bak.
+
+Ben Sheppard.
+
+Karar: pahalı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası üç yüz on sekiz. Points sırası üç yüz yirmi altı. Format farkı eksi sekiz. Format farkı, tam z, eksi on altı. En fazla teklif sıfır dolar.
+
+Rol. Ne ilk beşte ne de adı geçen yedek rotasyonda, bir Ekim. Takım ona güveniyor, ama uzmanın en yeni önizlemesi fantasy için kötü bir sezon bekliyor.
+
+Profil. Projeksiyonumuz altmış üç maç ve on üç buçuk dakika: dört buçuk sayı, sıfır virgül sekiz üçlük. Tek artı düşük top kaybı, o da hacimsizlikten. Bizim fiyat sıfır dolar ve üç yüz on sekizinci sıra, piyasa bir dolar ve üç yüz on altıncı sıra.
+
+Karar. Draft etme, görmezden gel. Kanatta birkaç sakatlık olmadan dakika görmez.
+
+Johnny Furphy.
+
+Karar: pahalı, sakatlık.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat sıfır dolar. Tam z sıfır dolar. Piyasa fiyatı bir dolar. Dokuz kategori sırası dört yüz yirmi bir. Points sırası -. Format farkı -. Format farkı, tam z, -. En fazla teklif sıfır dolar.
+
+Rol. Ön çapraz bağı koptu, Yahoo onu dizden O gösteriyor. Sezonun çoğunu kaçırması, belki sezon ortasında dönmesi bekleniyor, bir Ekim.
+
+Profil. Projeksiyonumuz otuz maç ve on iki dakika: üç buçuk sayı. Uzman onu çok iyi bir ribaundçu görüyor, ama şutu gelişmedi. Bizim fiyat sıfır dolar ve dört yüz yirmi birinci sıra, piyasa sırası yok.
+
+Karar. Draft etme, görmezden gel. IL yuvasına koymaya bile değmez. Sezon ortasında dönüp Siakam'ın yanında pivot dakikası bulursa ribaund için bakılır.
+
+Bölüm özeti.
+
+En iyi alımlar. Matas Buzelis bölümün bir numaralı hedefi: üç kaynak aynı yönde, piyasa elli sekizinci sırada ve altı virgül altı dolar, biz kırk altıncı sıradayız ve yirmi bir dolar diyoruz, uzmanlar ilk elli diyor. En fazla yirmi bir dolar. Arkasından Ausar Thompson, en fazla on beş, serbest atış punt'unda on dokuz, Kel'el Ware, en fazla on iki, ve Ryan Rollins, en fazla on dört, geliyor. Orta dolarlarda Zubac, on üç, Herro, on iki, ve Caleb Wilson, on, sıraları piyasayla aynı olsa da odanın onlara vereceği paranın çok üstünde değer taşıyor. Son dolarlarda Jarrett Allen, en fazla on bir, John Collins, en fazla dokuz, ve Norman Powell, en fazla yedi.
+
+Tuzaklar. Josh Giddey bölümün en net format tuzağı: piyasa sırası yirmi bir, points sırası yirmi bir, tam z sıramız kırk dokuz. En fazla yirmi dolar, top kaybını punt ediyorsan yirmi dört. Oda yaklaşık kırk bir dolar ödeyecek. Pascal Siakam ikinci tuzak: piyasa kırk dördüncü, biz altmış dokuzuncu, en fazla on üç dolar. Üç pahalı yıldız da var, ama format yüzünden değil. Cade Cunningham'a oda yaklaşık yetmiş dokuz dolar öder, biz otuz beşte bırakıyoruz. Donovan Mitchell'de otuz, Haliburton'da yirmi dokuz. Mitchell'in sorunu Harden ve dokuz maçlık playoff takvimi, Haliburton'ınki Aşil dönüşü ve Carlisle. Bu üçünü almayacağımızı kabul et ve parayı orta sıralara yay.
+
+Flyer'lar. Myles Turner, en fazla dört, blok ve üçlük için, Paul Reed, en fazla üç, Duren'in handcuff'ı, Peyton Watson, en fazla üç, hamstring durumuna bak, Aaron Nesmith ve Jaylon Tyson, bir dolar ya da waiver. Holland, Tre Jones, Huff, Oubre ve Jaquez draft oyuncusu değil, gerekirse waiver'dan gelir.
+
+Sezon içi handcuff listesi. Draft etmeyeceğin ama izlemen gereken isimler: Daniss Jenkins, Cade, Paul Reed, Duren, Thomas Bryant, Allen ve Mobley, Leonard Miller, Buzelis ve Wilson, Jalen Smith, Claxton, Tre Jones, Powell ve Giddey, Nembhard ve McConnell, Haliburton, Obi Toppin, Siakam, Jay Huff, Zubac, ve Kevin Porter Jr., Milwaukee guard'ları. Streamer'lar: üçlük için Duncan Robinson, Sam Merrill ve AJ Green, saha içi, asist ve top çalma için McConnell, top çalma ve blok için Craig Porter Jr. ve Jalen Slawson.
+
+Takvim notu. Detroit playoff haftalarında on bir maç oynuyor, ligde dördüncü, Cleveland sadece dokuz, ligde son, ve final haftasında iki maç. Chicago, Milwaukee ve Indiana onar maç. Cleveland oyuncularına birkaç dolar az öde, Detroit oyuncularına hafif bir artı ver.

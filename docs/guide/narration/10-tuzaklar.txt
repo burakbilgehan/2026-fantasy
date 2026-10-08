@@ -1,0 +1,319 @@
+Tuzaklar ve Kopya Kağıdı.
+
+Son bölüm. Önce odanın para kaybettireceği yerleri tek tek işaretliyoruz: format tuzakları, bust riskleri, sakatlık ve playoff takvimi, ve kendi modelimizin yanıldığı yerler. Sonra on sekiz Ekim için tek sayfalık kopya kağıdını veriyoruz: hedefler, en fazla teklifler ve "bunun üstüne çıkma" listesi.
+
+Bu son bölümde yeni oyuncu analizi yok. Her oyuncunun tam kartı bölge bölümlerinde: Atlantic Bölüm üç, Central Bölüm dört, Southeast Bölüm beş, Northwest Bölüm altı, Pacific Bölüm yedi, Southwest Bölüm sekiz. Burada her oyuncu bir iki cümle alıyor ve hangi bölümde olduğunu söylüyoruz. Karar etiketleri, hedef puanları ve en fazla rakamları o bölümlerden aynen geliyor.
+
+Fiyat kuralını bir kez daha hatırlayalım, çünkü bu bölümün her sayısı ona dayanıyor. Bizim fiyat, ilk yüz kırk dört oyuncu için toplam iki bin dört yüz dolar eder. Bu odanın toplam bütçesi: on iki takım çarpı iki yüz dolar. Yani bizim fiyat zaten odanın ölçeğinde. Piyasa fiyatı ise ilk yüz kırk dört için sadece bin sekiz yüz seksen sekiz dolar eder. Gerçek bir odada para harcanmak zorunda olduğu için, piyasa fiyatları ortalama yüzde yirmi yedi yukarı çıkar. Bu yüzden "beklenen oda fiyatı" dediğimiz rakam, piyasa fiyatının bir virgül yirmi yedi katıdır. Yıldızlarda oda bundan da fazla öder, bir dolarlık oyuncularda daha az. Bizim fiyatı asla bir virgül yirmi yedi ile çarpmıyoruz.
+
+En fazla rakamı bizim fiyattan başlar. Uzman tavanı, format farkı ya da bir risk onu aşağı çeker. Teklif bu rakama gelince durursun. Fazlasını başka bir menajer öder, para sende kalır.
+
+Bu bölümü nasıl kullanmalı. Draft'tan önce bir kez baştan sona dinle. Draft günü sadece beşinci kısımdaki tabloları aç. Teklif yarışında aklına gelen tek soru şu olsun: bu oyuncunun en fazla rakamı ne, ve ben şu an onun üstünde miyim?
+
+bir. Format tuzakları: odanın points fiyatı ödeyeceği oyuncular.
+
+Yahoo ve ESPN fiyatları points liglerini ve kategori liglerini karıştırır. Points liginde yüksek hacimli skorerler parlar: çok şut, çok sayı, çok asist, top kaybı ise az ceza alır. Bizim dokuz kategori liginde ise top kaybı tam bir kategori, saha içi ve serbest atış yüzdeleri de hacimle ağırlıklı oranlar. Bu yüzden bazı oyuncular piyasada yirmi dolarlık görünür ama bizim için on ile on iki dolarlık oyuncudur. Bu kısım o oyuncuları listeliyor.
+
+Ölçümüz format farkı. Format farkı, dokuz kategori sırası eksi points sırası demek. Artı yirmi veya üstü, oyuncunun değerinin points liginde şiştiğini gösterir. İki ayrı fark okuyoruz. Birincisi Minus bir farkı: Minus bir modeli her oyuncunun en kötü kategorisini siler. İkincisi tam z skor farkı: hiçbir kategori silinmez. Top kaybı en kötü kategorisi olan oyuncularda Minus bir tam da points şişmesinin kaynağını siler. O oyuncularda dürüst rakam tam z skor farkıdır.
+
+Bir oyuncuya format tuzağı demek için iki şart arıyoruz. Format farkı büyük olacak, ve piyasa fiyatı points sırasını izleyecek. İkinci şart yoksa tuzak da yoktur: farkı büyük ama odanın zaten ucuz bıraktığı oyuncu bizim için bir sorun değil. Aşağıdaki tabloda her tuzak için iki farkı, iki fiyatımızı, beklenen oda fiyatını ve en fazla rakamını görüyorsun.
+
+Pahalı tuzaklar: oda points fiyatı ödeyecek.
+
+Bu grup draft'ın ilk yarısında gelir ve gerçek para yakar. Her birinde oda en fazla rakamımızın çok üstüne çıkacak. Doğru hamle, fiyatı yukarı itmek ve sonra çekilmek.
+
+Trae Young, Washington. Minus bir farkı sadece artı altı, ama tam z skor farkı artı otuz bir: maçta üç virgül dokuz top kaybı ve yüzde kırk iki virgül dört saha içi. Odanın beklenen fiyatı kırk bir dolar, en fazla rakamımız on dokuz dolar. Sadece top kaybı ve saha içi punt'u yapan takım için anlamlı. Bölüm beş.
+
+Alperen Sengun, Houston. Format farkı artı otuz bir, tam z skorla artı kırk beş. Serbest atış yüzde altmış dokuz virgül bir ve top kaybı iki ayrı yara. Beklenen oda fiyatı kırk bir dolar, en fazla on yedi dolar. Uzmanlar da otuz doların üstünü points fiyatı sayıyor. Bölüm sekiz.
+
+Josh Giddey, Chicago. Piyasa sırası points sırasıyla tam aynı: yirmi bir. Tam z skor farkı artı yirmi sekiz, çünkü maçta üç virgül dört top kaybı ligin uç değeri. Beklenen oda fiyatı kırk bir dolar, en fazla yirmi dolar. Bölüm dört.
+
+Jalen Brunson, New York. Format farkı artı yirmi yedi. ESPN ortalama maliyeti kırk iki virgül doksan dört dolar, bizim fiyat yirmi bir virgül sekiz dolar. Uzmanlar da onu kategori liglerinde dördüncü tur oyuncusu görüyor. Beklenen oda fiyatı kırk iki dolar, en fazla yirmi dolar. Bölüm üç.
+
+Domantas Sabonis, Sacramento. Format farkı artı yirmi beş, tam z skorla artı yirmi dokuz. Kaynaklar çok ayrışıyor: Yahoo yirmi iki virgül altı, ESPN otuz dokuz virgül yirmi yedi dolar. Top kaybını punt etsen bile serbest atış ve üçlükte eksi taşır. Beklenen oda fiyatı otuz üç dolar, en fazla yirmi dolar. Bölüm yedi.
+
+Deni Avdija, Portland. Format farkı artı yirmi sekiz, tam z skorla artı kırk bir. Değeri yüksek kullanıma bağlı ve uzmanlar kullanımın düşmesini bekliyor. Beklenen oda fiyatı yirmi dört dolar, en fazla on beş dolar. Bölüm altı.
+
+Jaylen Brown, Philadelphia. Format farkı artı otuz bir, tam z skorla artı otuz dokuz. Burada uzmanlar bizden iyimser ve yirmi üç doları iyi fiyat buluyor. Biz modelin ve format farkının tarafındayız. Beklenen oda fiyatı yirmi beş dolar, en fazla on altı dolar. Bölüm üç.
+
+LeBron James, Philadelphia. Format farkı artı yirmi dört, tam z skorla artı otuz bir. kırk iki yaşında, yaklaşık altmış dört maç ve dinlenme günleri. Beklenen oda fiyatı yirmi bir dolar, en fazla on dört dolar. Bölüm üç.
+
+Paolo Banchero, Orlando. Çok büyük bir format farkı: artı altmış beş, tam z skorla artı seksen üç. Points sırası yirmi dört, bizim tam z skor sırası yüz yedi. Beklenen oda fiyatı yirmi dolar, en fazla on bir dolar. Bölüm beş.
+
+Pascal Siakam, Indiana. Format farkı artı yirmi beş, tam z skorla artı otuz iki. Piyasa sırası points sırasıyla aynı: kırk dört. Haliburton dönünce asisti düşecek. Beklenen oda fiyatı on dokuz dolar, en fazla on üç dolar. Bölüm dört.
+
+Ucuz tuzaklar: küçük para, ama yine de para.
+
+Bu grup draft'ın ikinci yarısında gelir. Tek tek küçük paralar, ama dört beş tanesi birleşince bir orta seviye oyuncunun parası eder.
+
+Stephon Castle, San Antonio. Format farkı artı kırk altı, tam z skorla artı yetmiş bir. Asist güçlü, ama maçta üç virgül bir top kaybı ve zayıf serbest atış. Beklenen oda fiyatı sekiz dolar, en fazla yedi dolar. Bölüm sekiz.
+
+Julius Randle, Brooklyn. Format farkı artı elli bir. Brooklyn onu Mart'ta dinlendirebilir, bu da bizim playoff haftalarımıza denk gelir. Beklenen oda fiyatı dokuz dolar, en fazla sekiz dolar. Alırsan dört Mart iki bin yirmi yedi takas son gününden önce sat. Bölüm üç.
+
+Zion Williamson, New Orleans. Format farkı artı otuz bir, tam z skorla artı elli dört. Tam z skorda yüz kırk dördüncü sırada, havuzun tam sınırında. Beklenen oda fiyatı beş dolar, en fazla üç dolar. Bölüm sekiz.
+
+Ja Morant, Portland. Bizim ilk yüz kırk dörtün dışında, fiyatımız sıfır. Format farkı artı yetmiş altı. Uzmanlar da onu points ligi oyuncusu sayıyor. Beklenen oda fiyatı dört dolar, en fazla bir dolar. Bölüm altı.
+
+AJ Dybantsa, Washington. Format farkı artı kırk. Çaylak, ilk haftalarda yirmi sekiz dakika civarı bekleniyor. Beklenen oda fiyatı dört dolar, en fazla bir dolar. Bölüm beş.
+
+Darryn Peterson, Utah. Etiketi format tuzağı değil, pahalı. Format farkı artı on dokuz, Yahoo ortalama maliyeti sekiz virgül iki dolar. Uzmanlar ilk yüzde değer döndürmesini neredeyse imkansız buluyor. En fazla üç dolar. Bölüm altı.
+
+Miles Bridges, Phoenix, Darius Acuff Jr., Sacramento, ve RJ Barrett, Toronto. Üçü de son dolar oyuncusu, üçünün de en fazla rakamı bir dolar. Barrett'ın format farkı artı yetmiş, Acuff'unki artı elli üç. Bölüm yedi ve Bölüm üç.
+
+Eşiğin altında ama yön aynı: Cade ve Jalen Johnson.
+
+Cade Cunningham, Detroit, için Minus bir farkı artı bir, tam z skor farkı artı dokuz. Artı yirmi eşiğine gelmiyor. Ama top kaybı onun en kötü kategorisi, yani dürüst fark artı dokuz ve yön belli: points değeri onu yukarı itiyor. Piyasa altmış iki virgül dört dolar, beklenen oda fiyatı yetmiş dokuz dolar. Bizim tam z skor fiyatı otuz virgül dokuz dolar, en fazla rakamı otuz beş dolar. Uzmanlar da kırk beş doların üstünü vermiyor. Bölüm dört.
+
+Jalen Johnson, Atlanta, etiketi pahalı ve bust riski. Format farkı artı on yedi, tam z skorla artı on sekiz. Eşiğin hemen altında, ama piyasa onu points sırasından bile yukarıda fiyatlıyor: piyasa sırası on, points sırası on dört, bizim sıra otuz bir. Beklenen oda fiyatı altmış altı dolar, en fazla yirmi beş dolar. Bu, kopya kağıdındaki en büyük dolar farklarından biri. Cade'in farkı ise kırk dört dolar. McCollum gelince asisti ve verimi düştü. Bölüm beş.
+
+Büyük fark, ama tuzak değil.
+
+Format farkı tek başına karar değil. Aşağıdaki oyuncuların farkı büyük, ama oda onları zaten ucuz bırakıyor. Odanın points fiyatı ödeyeceği bir yer yok, bu yüzden bölge bölümleri bu oyuncuların çoğuna AL dedi. Fark burada bir yapı bilgisi: bu oyuncular top kaybı punt'una yakışır.
+
+Dejounte Murray, New Orleans. Tam z skor farkı artı otuz bir, ama beklenen oda fiyatı sadece altı dolar. Etiket AL, en fazla on bir dolar, top kaybını punt ediyorsan on üç dolara kadar. Bölüm sekiz.
+
+Coby White, Charlotte. Format farkı artı yirmi sekiz. Beklenen oda fiyatı dört dolar, etiket AL, en fazla sekiz dolar. Bölüm beş.
+
+CJ McCollum, Atlanta. Format farkı artı yirmi üç. Beklenen oda fiyatı bir ile iki dolar, etiket AL, en fazla sekiz dolar. Bölüm beş.
+
+Cameron Boozer, Memphis. Format farkı artı yirmi bir. Beklenen oda fiyatı on iki dolar, etiket AL ve BREAKOUT, en fazla on beş dolar. Bölüm sekiz.
+
+Giannis tuzak değil, bir yapı kararı.
+
+Giannis Antetokounmpo, Miami, tam z skor farkında artı kırk üç gösteriyor. Ama bu points şişmesi değil. Serbest atışı yüzde altmış dört virgül dört ve maçta on virgül altı deneme: dosyadaki en kötü serbest atış değeri. Minus bir bu kategoriyi silince kırk bir virgül dört dolar ve beşinci sıra, tam z skor silmeyince yirmi virgül dört dolar ve kırk yedinci sıra. Uzmanlar net konuşuyor: Giannis'i almak serbest atışı punt eden bir takım kurmak demek. Beklenen oda fiyatı yetmiş altı dolar. Etiket pahalı ve sakatlık, en fazla kırk bir dolar. Serbest atış punt'u planlamıyorsan ona hiç teklif verme. Bölüm beş.
+
+Format değil, yıldız primi.
+
+Yıldızlarda bizim fiyat ile beklenen oda fiyatı arasında çoğu zaman yirmi ile kırk dolar fark var, ama format farkı sıfıra yakın. Bu bir format tuzağı değil. Oda, ilk sıralardaki oyunculara bizim düz ölçeğimizden çok daha fazla öder. Bölge bölümleri bu oyunculara PAHALI dedi, çünkü beklenen oda fiyatında bizim için değer kalmıyor. Bu "asla alma" demek değil. En fazla rakamı senin sınırın. Bir yıldız bu rakamın altında kalırsa al.
+
+Tabloda en büyük farklar Wembanyama, Luka, Edwards ve Maxey\'de. Edwards için bir sebep daha var: Minnesota\'nın yirminci haftada sadece iki maçı var. Maxey\'nin şut denemesi yirmi bir virgül dört\'ten on sekiz virgül üç\'e iniyor. Haliburton Aşil\'den dönüyor. Bu üçü ikinci ve üçüncü kısımda tekrar geçiyor.
+
+iki. Bust riskleri: rol, yaş, kullanım düşüşü, yeni takım.
+
+Bust etiketi bir fiyat etiketidir. "Bu oyuncu kötü" demek değil, "bu fiyattan kötü" demek. Uzmanlar aynı şeyi söylüyor: her bust adayının bir fiyatı vardır, o fiyatın altında iyi bir alımdır. Bu yüzden aşağıdaki her oyuncu en fazla rakamıyla geliyor. Rakamın altında al, üstünde bırak.
+
+Bölge bölümlerinde sadece dört oyuncu BUST RİSKİ etiketi aldı: Jalen Johnson, Payton Pritchard, Ayo Dosunmu ve Dylan Harper. Diğerleri PAHALI ya da ADİL etiketi taşıyor, ama aşağıdaki risklerden biri fiyatlarını aşağı çekiyor.
+
+Kullanımı daralan oyuncular.
+
+Bir takım yeni yüksek kullanımlı oyuncular ekleyince, mevcut yıldızın topu ve asist tavanı küçülür. Dakikası aynı kalsa bile. Uzmanlar bunu bu yaz için birkaç takımda işaretledi.
+
+Tyrese Maxey, Philadelphia. Brown, LeBron ve Embiid ile topu paylaşıyor. Uzmanlar kullanımın yaklaşık otuzdan yirmi yediye inmesini bekliyor, projeksiyonumuz bunu zaten içeriyor. En fazla otuz beş dolar. Bölüm üç.
+
+VJ Edgecombe, Philadelphia. Aynı kalabalığın dördüncü adamı. Model onu yüksek görüyor, uzman on dolar diyor. Etiket AL, ama en fazla on iki dolar. Bölüm üç.
+
+Donovan Mitchell, Cleveland. Harden tam sezon yanında. Geçen sezon Harden ile asisti yaklaşık yüzde on sekiz düştü. En fazla otuz dolar. Bölüm dört.
+
+Pascal Siakam, Indiana. Haliburton döndü, asistin üç ile üç,ikiye inmesi bekleniyor. En fazla on üç dolar. Bölüm dört.
+
+Jalen Johnson, Atlanta. McCollum ile asisti, top çalması ve verimi düştü. BUST RİSKİ, en fazla yirmi beş dolar. Bölüm beş.
+
+Payton Pritchard, Boston. Tatum, George ve White önünde, kullanımı en çok sıkışan Celtic. Model on dört virgül yedi dolar diyor, çünkü yirmi dokuz buçuk dakika ve yetmiş beş maçı tam sayıyor. Uzman en fazla dört dolar diyor. BUST RİSKİ, en fazla beş dolar. Bölüm üç.
+
+Devin Booker, Phoenix. Asisti, oyunu onun mu yoksa Jalen Green'in mi kuracağına bağlı. En fazla yirmi beş dolar. Bölüm yedi.
+
+Jamal Murray, Denver. DeRozan geldi, kullanımı soru işareti, üçlük yüzdesinin de düşmesi bekleniyor. Etiket ADİL, en fazla otuz altı dolar. Bölüm altı.
+
+Desmond Bane, Orlando, ve Michael Porter Jr., Brooklyn. İkisinin son değeri takım arkadaşlarının yokluğundan geldi. Bane en fazla on beş dolar, Porter en fazla on dolar. Bölüm beş ve Bölüm üç.
+
+Yaş: risk maç sayısında, maç başı değerde değil.
+
+Yaşlı yıldızlarda maç başı değer çoğu zaman hâlâ yüksek. Risk dakika ve maç sayısında. Odanın isim primini ödeme.
+
+Kevin Durant, Houston, otuz yedi yaşında. Hazırlık dönemi haberleri dakikanın düşeceğini söylüyor, uzmanlara göre otuz üç dakika civarında değeri belirgin değişir. Houston'un playoff haftalarında sadece on maçı var. PAHALI, en fazla yirmi dokuz dolar. Bölüm sekiz.
+
+Stephen Curry, Golden State, otuz sekiz yaşında. Diz sorunu ve on beş back-to-back. Maç başına hâlâ ilk on iki ile on üç kategori oyuncusu. PAHALI ve SAKATLIK, en fazla yirmi beş dolar. Bölüm yedi.
+
+James Harden, Cleveland, otuz yedi yaşında. Uzmanlar kariyer sonu düşüşün başladığını söylüyor, Cleveland'ın final haftası iki maç. ADİL, en fazla yirmi dört dolar. Bölüm dört.
+
+Karl-Anthony Towns, New York, otuz yaşında. Yeni koç daha az dakika veriyor, Knicks ilk otuz maçta temkinli. PAHALI, en fazla otuz üç dolar. Bölüm üç.
+
+Rudy Gobert, Minnesota, otuz dört yaşında. Blok ve saha içi düşebilir, ama serbest atış punt'unda hâlâ alım. AL, en fazla on bir dolar. Bölüm altı.
+
+Yeni takım, yeni rol.
+
+Bu yaz çok oyuncu takım değiştirdi. Rol kâğıt üstünde net görünse bile ilk haftalarda değişebilir. Bunlar bust değil, ama ilk iki üç haftayı izlemen gereken isimler. Giannis Miami'de neredeyse oyun kurucu oynuyor, Bölüm beş. Jaylen Brown ve LeBron Philadelphia'da Maxey ve Embiid ile topu paylaşıyor, Bölüm üç. Trae Young ve Anthony Davis Washington'da, Trae geçen sezon sadece on beş maç oynadı, Bölüm beş. LaMelo Ball Minnesota'da Edwards'ın yanında, Bölüm altı. Walker Kessler Lakers'ta kesin başlangıç pivotu, ama geçen sezonki üçlük ve top çalmaları beş maçlık bir örneklemden geliyor, Bölüm yedi. Randle Brooklyn'de, Morant ve Lillard Portland'da, Garland Clippers'ta, Herro Milwaukee'de.
+
+Geçen sezonun şut sıçraması geri gelir.
+
+Uzmanlar birkaç oyuncuda geçen sezonun yüzdelerinin kalıcı olmadığını söylüyor. Bu sadece fiyat o sıçramayı ödüyorsa bir bust nedenidir.
+
+Nickeil Alexander-Walker, Atlanta. Sezon sonunda yüzde doksan beş civarı serbest atış, yaklaşık yüzde seksen bire dönmesi bekleniyor. Yine de AL, en fazla yirmi iki dolar, çünkü kötü kategorisi yok ve oda onu sekiz dolar civarı bırakıyor. Bölüm beş.
+
+Ayo Dosunmu, Minnesota. Üçlük yüzde otuz üçten kırk dörte, serbest atış yetmiş sekizden seksen sekize çıktı. BUST RİSKİ, en fazla üç dolar. Bölüm altı.
+
+Kon Knueppel, Charlotte. LaMelo gidince çaylak verimi düşebilir, hamstring de soru işareti. Model yirmi dört virgül altı dolar diyor, uzman tavanı sekiz dolar. ADİL ve SAKATLIK, en fazla on dolar. Bölüm beş.
+
+Keegan Murray, Sacramento. Uzmanlar bir virgül altı bloğun sürmesinden şüpheli. Ama piyasa zaten bir dolar, etiket AL, en fazla yedi dolar. Bölüm yedi.
+
+Jakob Poeltl, Toronto. Düşük hacimde yüzde yetmiş saha içi geriler. FLYER, en fazla üç dolar. Bölüm üç.
+
+Dylan Harper, San Antonio. Sezon sonu şutunun sürmesi beklenmiyor, sezona yedekten başlıyor. BUST RİSKİ, en fazla beş dolar. Bölüm sekiz.
+
+Dokuz kategori şişkinliği.
+
+Ters yönde bir tuzak da var. Bazı oyuncular dokuz kategori sıralamalarında olduklarından iyi görünür, çünkü değerleri ya düşük top kaybından ya da her maçı oynamaktan gelir. ESPN'e bakan bir menajer onları fazla öder. Uzmanların listesi şu: Chet Holmgren, ADİL, en fazla yirmi sekiz dolar, Bölüm altı, Onyeka Okongwu, AL ama uzman tavanında, en fazla on beş dolar, Bölüm beş, Jarrett Allen, AL, en fazla on bir dolar, Bölüm dört, Ivica Zubac, AL, en fazla on üç dolar, Bölüm dört, Mikal Bridges, ADİL, en fazla beş dolar, Bölüm üç, ve Reed Sheppard, FLYER, en fazla üç dolar, Bölüm sekiz. Bridges ve maç sayısı etkisi dördüncü kısımda ayrıca anlatılıyor.
+
+üç. Sakatlık, Mart dinlenmesi ve playoff takvimi.
+
+Bizim ligi on dokuz, yirmi ve yirmi birinci haftalar belirler. Sezon yirmi sekiz Mart iki bin yirmi yedide biter. Bu yüzden bir oyuncunun Mart'taki maçları, Kasım'daki maçlarından daha değerli. Bu kısım üç riski bir arada ele alıyor: sakatlık, Mart dinlenmesi ve playoff haftalarındaki maç sayısı.
+
+Kronik vakalar: fiyatı aşağı çek.
+
+Uzmanların kuralı şu: aynı alt beden bölgesinde, özellikle dizde, tekrarlayan sakatlık ya da ameliyat varsa fiyatı maç başı değerin altına çek. Sağlıklı bir sezon bu riski silmez. El, parmak, omuz ve oblik sakatlıkları ise pek önemli değil. Bir kural daha: aynı takıma birden çok büyük sakatlık riski toplama. Elinde zaten iki tane varsa, üçüncüsünü başkası alsın.
+
+Kawhi Leonard, Toronto. Dejeneratif diz, tekrarlayan ameliyatlar, altmış ile altmış beş maç beklentisi. Sakatlık dışı bir soru işareti etiketi var, bu yüzden IL'e konamaz. PAHALI ve SAKATLIK, en fazla yirmi dört dolar. Bölüm üç.
+
+Joel Embiid, Philadelphia. Tekrarlayan diz ameliyatları ve her back-to-back'te oturma planı. Projeksiyonumuz kırk sekiz maç. ADİL ve SAKATLIK, en fazla on iki dolar. Bölüm üç.
+
+Anthony Davis, Washington. Tekrarlayan alt beden sakatlıkları. Geçen sezon sadece yirmi maç oynadı, projeksiyonumuz elli yedi maç. Maç başı değeri elit. ADİL ve SAKATLIK, en fazla yirmi beş dolar. Bölüm beş.
+
+Stephen Curry, Golden State. Kendi deyişiyle "yeni normal" olan diz sorunu ve planlı dinlenme. En fazla yirmi beş dolar. Bölüm yedi.
+
+LaMelo Ball, Minnesota. Uzun ayak bileği geçmişi, aynı bölgede tekrar. Projeksiyonumuz altmış maç. En fazla yirmi sekiz dolar. Bölüm altı.
+
+Kyrie Irving, Dallas. Çapraz bağ geçmişi, back-to-back dinlenmesi ve IL'i engelleyen diz soru işareti. Dallas on altı back-to-back ile ligin en yüklü takımlarından. AL ve SAKATLIK, en fazla on dört dolar. Bölüm sekiz.
+
+Zach Edey, Memphis. Birden çok ayak bileği ve ayak ameliyatı, yönetilen yirmi beş ile yirmi sekiz dakika. AL ve SAKATLIK, en fazla on dolar. Bölüm sekiz.
+
+Evan Mobley, Donovan Mitchell, Cleveland, ve Jalen Williams, Oklahoma City. Mobley'de iki baldır zorlanması, Mitchell'da süren diz sorunu, Williams'ta tekrarlayan hamstring. Mobley en fazla yirmi beş, Mitchell otuz, Williams yirmi dört dolar. Bölüm dört ve Bölüm altı.
+
+Büyük sakatlıktan dönenler.
+
+Aşil ve çapraz bağdan dönen oyuncular genelde eski seviyelerine yakın döner. Ama ilk sezonda üç şey olur: dakika sınırı, atlanan back-to-back'ler ve verim kaybı. Verim kaybı en çok potaya yakın bitirişte görülür, yani saha içi yüzdesinde. Saha içi bir takım oranı olduğu için, yüksek hacimli bir dönen oyuncu takımının saha içini aşağı çeker. Uzmanlara göre oda bu oyunculardan gereğinden fazla korkar. Doğru hamle, odanın yarattığı indirimden almak ama tam sağlıklı fiyat ödememek.
+
+Tyrese Haliburton, Indiana. Bütün geçen sezonu Aşil yüzünden kaçırdı. İlk haftalarda otuz dakika civarı ve izlenen back-to-back'ler. Noel'den sonra ya da Ocak'ta en iyi haline yakın olmalı, yani playoff haftalarında tam güçte. Indiana playoff haftalarında sadece on maç oynuyor. En fazla yirmi dokuz dolar. Bölüm dört.
+
+Jayson Tatum, Boston. Geçen sezonki Aşil yırtığı tek seferlik bir sakatlık sayılıyor. Boston'ın on altı back-to-back'inden kaçında oturduğuna bak. En fazla kırk dolar. Bölüm üç.
+
+Damian Lillard, Portland. Aşil dönüşü, otuz altı yaşında, telafi sakatlığı riski. Piyasa fiyatı bu riski zaten içeriyor. AL ve SAKATLIK, en fazla on iki dolar. Bölüm altı.
+
+Dejounte Murray, New Orleans. Aşil sonrası on dört maçı sınırlı dakikayla oynadı. Sınırın kalktığından emin ol. En fazla on bir dolar. Bölüm sekiz.
+
+Fred VanVleet, Houston. Çapraz bağ dönüşü, ilk haftalarda otuz dakika civarı. FLYER, en fazla iki dolar. Bölüm sekiz.
+
+Soru işareti etiketi ve dört IL yerimiz.
+
+Yahoo'da IL yerine sadece "out" ya da sakat etiketli oyuncu konabilir. Soru işareti, şüpheli ya da muhtemel etiketli oyuncu konamaz. Bizim sadece iki yedek yerimiz var. Bu yüzden soru işareti etiketli ve dönüşü belirsiz bir oyuncu bir yedek ya da ilk beş yerini yer. Draft'tan önce her hedefin Yahoo etiketine bak, sadece haberlere değil.
+
+Soru işareti etiketli hedefler: Kawhi Leonard, Jalen Duren, uzmana göre sakat değil, kondisyon sorusu, en fazla yirmi dolar, Kon Knueppel, hamstring, bir iki maç, Alex Sarr, ayak kırığından dönüyor, en fazla on dolar, Zach Edey ve Kyrie Irving. Hiçbiri IL'e girmez.
+
+IL stash'i: Brandon Ingram, Clippers. Kısmi Aşil yırtığı, "out" etiketi, Kasım ile Noel arası dönüş. Modelimiz onu kırk bir maç yüzünden sıfıra indiriyor, ama IL yerinde kaçırdığı maçlar bize maliyet getirmez. En fazla iki dolar. Bölüm yedi.
+
+Mart dinlenmesi ve takas riski.
+
+Uzmanlar bu sezon yeni piyango reformu yüzünden daha az tank bekliyor. En kötü üç takım olmak artık bir ceza. Bu, Mart maçlarını daha rekabetçi yapmalı ve bizim yirmi sekiz Mart bitişimizi destekliyor. Ama dinlenme riski yok olmuyor. Kendi seçim hakkına sahip olmayan takımlarda toplanıyor: notlar Brooklyn, Milwaukee, Clippers, New Orleans ve Dallas'ı sayıyor. Bu takımların ne tank için ne de kazanmak için sebebi var. Uzmanlar bu takımların Mart davranışı konusunda ayrışıyor. Güvenli okuma şu: bu beş takımın veteranları için playoff haftalarını tam sayma.
+
+Julius Randle, Brooklyn. En net vaka. Draft'ta sadece adil aralığında al, dört Mart iki bin yirmi yediden önce takas et. Bölüm üç.
+
+Michael Porter Jr., Brooklyn. Mart dakikaları belirsiz, takas kullanımını daha da düşürebilir. Aralığın alt yarısında kal. Bölüm üç.
+
+Kyrie Irving, Dallas. Dallas dört, dört, dört oynuyor, ama Kyrie back-to-back'lerde dinlenirse bu on iki maçın sadece onunu oynayabilir. Bölüm sekiz.
+
+Domantas Sabonis ve Zach LaVine, Sacramento. İyi bir takıma takas Sabonis'in rolünü küçültebilir. LaVine hem takas hem kenara alınma riski taşıyor. Takas umuduna para ödeme. Bölüm yedi.
+
+Plan basit. FAB bütçenin bir kısmını dört Mart iki bin yirmi yedi civarına sakla. Takas edilen ya da rolü büyüyen bir oyuncu için bir kadro yeri hazır tut. Haftada altı alım hakkımız var. on dokuz ile yirmi bir. haftalarda bu hakları sadece kesin oynayacak oyunculara harca.
+
+Playoff takvimi: on dokuz, yirmi ve yirmi birinci haftalar.
+
+Aşağıdaki tablo takım profillerindeki takvimden geliyor. Her hücrede o haftanın maç sayısı, parantez içinde back-to-back çifti sayısı var. Uzmanlar takvimi bir eşitlik bozucu olarak kullanıyor: daha kötü bir oyuncuyu daha iyi takvim için asla alma. Pahalı oyuncularda en fazla rakamından birkaç dolar düş, bir ile üç dolarlık oyuncularda takvimi neredeyse yok say.
+
+Cleveland en kötü takvim. Toplam dokuz maç ve final haftasında sadece iki maç. Etkilenenler: Mitchell, Harden, Mobley, Allen ve Peyton Watson. Beşi birden aynı final haftasında yarım kalır. Bu takımdan en fazla bir iki oyuncu al.
+
+Minnesota yarı final haftasında iki maç. yirminci haftada sadece iki maç. Etkilenenler: Edwards, Ball, Gobert, McDaniels ve Dosunmu. Edwards'ta bu, piyasa fiyatına gitmemek için bir sebep daha. Gobert ile serbest atış punt'u kuruyorsan o hafta için bir akış oyuncusu planla.
+
+En iyi takvimler. Tablomuza göre Dallas, Memphis ve Phoenix dört, dört, dört ile on iki maç oynuyor. Uzman makalesi sadece Dallas'ı en çok maç olarak gösteriyor, tablomuz ise Memphis ve Phoenix'i de on iki maçta gösteriyor. Atlanta, Boston, Detroit ve Clippers gibi takımlar on bir maç oynuyor.
+
+Back-to-back yükü. Boston, Golden State, New York, Portland ve Memphis'in playoff haftalarında üçer back-to-back çifti var. Bu, back-to-back'lerde dinlenmesi beklenen oyuncularda önemli: Paul George, Mitchell Robinson ve Curry. Uzman notları Philadelphia ve Toronto için üç back-to-back diyor, takım tablomuz ikişer gösteriyor. Bu not farklı bir bitiş tarihine dayanıyor olabilir.
+
+on maçlık takımlar. Houston, Indiana, Brooklyn, Chicago, Lakers, Miami, Milwaukee, Minnesota, New York, Portland, San Antonio, Utah ve Washington. Houston'da Durant, Sengun ve Amen Thompson, Indiana'da Haliburton bu yüzden birkaç dolar aşağıda.
+
+dört. Modelin yanıldığı yerler: bizim fiyata körü körüne güvenme.
+
+Bizim fiyat iyi bir başlangıç noktası, ama bir karar değil. Projeksiyonumuzun bildiğimiz üç zayıf noktası var. Bölge bölümleri bu zayıf noktaları zaten en fazla rakamında düzeltti. Bu yüzden kopya kağıdında bazı oyuncularda "bizim" sütunu ile "en fazla" sütunu arasında büyük fark göreceksin. Odada sadece en fazla sütununa bak. Aşağıda bu farkın nereden geldiğini anlatıyoruz.
+
+Uyarı bir: pivotlar bizim modelde piyasanın çok üstünde.
+
+Minus bir her oyuncunun en kötü kategorisini siler. Üçlük atmayan bir pivot için en kötü kategori çoğu zaman üçlüktür, z değeri eksi bir virgül yetmiş üç. Serbest atışı çok kötü olan pivotta silinen kategori serbest atış olur. Model bu zayıflığı silince pivotun fiyatı yükselir. Bu kısmen gerçek: üçlüğü ya da serbest atışı punt eden takım için bu oyuncular gerçekten değerli. Ama punt yapmayan takım için o kategori silinmez.
+
+Aşağıdaki tablo bir şeyi daha gösteriyor. Bazı pivotlarda Minus bir fiyatı ile tam z skor fiyatı neredeyse aynı, ama ikisi de piyasanın çok üstünde. Yani o fark Minus bir'den değil, projeksiyonumuzun dakika ve rol varsayımından geliyor. Bu da tek kaynaklı bir görüş. İki durumu ayırmak gerekiyor.
+
+Gerçek Minus bir fazlası olan pivotlar. Bunlarda tam z skor fiyatı belirgin olarak daha düşük. Punt yapmıyorsan o rakamı oku.
+
+Rudy Gobert, Minnesota. Minus bir yirmi beş buçuk dolar, tam z skor on altı buçuk dolar. Silinen kategori serbest atış. Tam z skorda piyasa ile neredeyse aynı yerde. Serbest atış punt'unda alım, punt yapmayan takım için piyasa fiyatı doğru. En fazla on bir dolar. Bölüm altı.
+
+Walker Kessler, Lakers. Silinen kategori serbest atış, yüzde elli dokuz virgül altı. Minus bir yirmi dokuz virgül bir dolar, tam z skor yirmi üç virgül yedi dolar. Serbest atışı punt etmiyorsan dürüst rakam ikincisi. En fazla on sekiz dolar. Bölüm yedi.
+
+Jarrett Allen, Cleveland, ve Ivica Zubac, Indiana. İkisinde de silinen kategori üçlük. Allen on yedi virgül yedi dolara karşı on beş virgül dört dolar, Zubac on yedi virgül üç dolara karşı on beş dolar. İkisi de uzmanların şişkinlik listesinde. En fazla on bir ve on üç dolar. Bölüm dört.
+
+Jalen Duren, Detroit. Minus bir yirmi dokuz dolar, tam z skor yirmi altı virgül yedi dolar. Burada tam z skor da onu yüksek görüyor, çünkü saha içi ve ribaund katkısı gerçekten büyük. En fazla yirmi dolar. Bölüm dört.
+
+Rol varsayımından şişen pivotlar. Bunlarda iki model de yüksek, piyasa ve uzmanlar düşük. Burada bizim projeksiyon dakika ve başlangıç yeri konusunda iyimser olabilir. Bölge bölümleri uzman aralığını kullandı.
+
+Neemias Queta, Boston. Minus bir yirmi virgül iki dolar, tam z skor on sekiz virgül bir dolar, piyasa bir dolar. Model, format farkı ve uzman aynı yönde, etiket AL. Ama başlangıç yeri Robinson ile yarışıyor. En fazla dokuz dolar. Oda büyük olasılıkla bir ile üç dolara bırakır. Bölüm üç.
+
+Kel'el Ware, Milwaukee. Minus bir yirmi dört dolar, tam z skor yirmi dört virgül sekiz dolar. Model otuz dakikalık bir senaryoyu sayıyor, uzman ilk altmış ile seksen değeri görüyor. En fazla on iki dolar. Bölüm dört.
+
+Donovan Clingan, Portland. İki model de yirmi dört dolar civarı. Uzmanlar sadece ribaund ve blok verdiğini, serbest atışının zayıf olduğunu söylüyor. ADİL, en fazla on iki dolar. Bölüm altı.
+
+Khaman Maluach, Phoenix. Minus bir on üç virgül altı dolar, ama başlangıç yeri resmi değil. En fazla yedi dolar. Bölüm yedi.
+
+Pratik kural: bir pivotun fiyatına bakarken önce tam z skor fiyatına bak, sonra uzman tavanına. Üçlüğü ya da serbest atışı punt ediyorsan Minus bir rakamına yaklaşabilirsin, ama bölge bölümündeki en fazla rakamının üstüne sadece kartta yazan yapı koşuluyla çık. Örnek: Mobley için serbest atış punt'unda yirmi sekiz dolar, Ausar Thompson için on dokuz dolar.
+
+Uyarı iki: Minus bir yüksek top kayıplı guard'ların points şişmesini gizler.
+
+Aynı mekanizma guard'larda ters çalışır. Top kaybı en kötü kategorisi olan bir oyun kurucuda Minus bir top kaybını siler. Sonuç: Minus bir fiyatı yüksek, Minus bir format farkı küçük. Trae Young bunun en net örneği: Minus bir yirmi yedi virgül iki dolar, tam z skor on dokuz virgül dört dolar, format farkı artı altıya karşı artı otuz bir. Cade Cunningham, otuz sekiz virgül dört dolara karşı otuz virgül dokuz dolar, Josh Giddey, yirmi üç virgül altı dolara karşı on dokuz buçuk dolar, Luka Dončić, kırk sekiz virgül iki dolara karşı kırk iki virgül bir dolar, ve Stephon Castle, on bir virgül altı dolara karşı yedi buçuk dolar, aynı durumda. Top kaybını punt etmiyorsan bu oyuncularda tam z skor fiyatını oku.
+
+Uyarı üç: maç sayısı etkisi.
+
+Bu bir çıkarım, belgede yazmıyor: z değerlerimiz sezon toplamına dayanıyor gibi görünüyor. Örneğin Embiid maçta yirmi dört virgül sekiz sayıyla sadece artı sıfır virgül otuz dokuz sayı z değeri alıyor. Bunun iki sonucu var. Her maçı oynayan oyuncular yukarı çıkar. Az maç oynayan oyuncular aşağı iner. Bizim lig ise haftalık kafa kafaya. Uzmanlar da tam bunu söylüyor: haftalık maçlarda maç başı değer, sezon toplamından daha önemli.
+
+Mikal Bridges, New York. Projeksiyonumuz seksen bir maç. Model on dokuz dolar diyor, uzman kafa kafaya'de yaklaşık iki dolar. Maç başı değeri sıradan. ADİL, en fazla beş dolar. Bölüm üç.
+
+Cason Wallace, Oklahoma City. Model on dört virgül altı dolar, piyasa bir dolar. Tek kategori oyuncusu: top çalma. ADİL, en fazla iki dolar. Bölüm altı.
+
+Toumani Camara, Portland. Model on bir virgül dokuz dolar, yetmiş sekiz maç. Uzman bir dolar tavanı. ADİL, en fazla iki dolar. Bölüm altı.
+
+Payton Pritchard, Boston. Model on dört virgül yedi dolar, yetmiş beş maç ve yirmi dokuz buçuk dakika. Uzman rolün küçüleceğini söylüyor. En fazla beş dolar. Bölüm üç.
+
+Ters yönde Joel Embiid, kırk sekiz maç, Kristaps Porziņģis, kırk altı maç, Kawhi Leonard, elli sekiz maç, ve Anthony Davis, elli yedi maç, modelde aşağı iniyor. Ama haftalık ligde oynamadığı gece yine kayıptır, bu yüzden bu oyuncuları yukarı da çekmedik. İstisna IL stash'leri: "out" etiketli bir oyuncunun kaçırdığı maçlar IL yerinde bize maliyet getirmez, Ingram gibi.
+
+Diğer uyarılar.
+
+Tek kaynaklı aykırı değerler. Model bazı oyuncuları piyasanın çok üstünde görür. Bir oyuncuya AL demek için üç kaynaktan ikisinin aynı yöne bakmasını şart koştuk: model, piyasa ile format farkı, ve uzman. Dyson Daniels bu testi geçiyor: model yirmi dokuz virgül yedi dolar, oda sekiz dolar civarı, uzman da yirmi doların üstünü değerli buluyor. AL, en fazla yirmi altı dolar. Cason Wallace geçmiyor: model tek başına. Format farkı da aynı projeksiyondan geldiği için ikinci bağımsız kaynak sayılmaz.
+
+Havuz dışındaki oyuncular. Bizim fiyatı sıfır olan oyuncular, örneğin Ingram, Morant, RJ Barrett ve Herbert Jones, bizim ilk yüz kırk dörtümüzün dışında. Onlarda format farkı hesaplamıyoruz.
+
+Çaylaklar. Boozer, Dybantsa, Peterson, Acuff ve Caleb Wilson için projeksiyon geçmiş veriye değil tahmine dayanıyor. Uzmanlar ilk haftalarda kötü yüzdeler ve çok top kaybı bekliyor. Çaylaklara Mart sıçraması için ek para verme: piyango reformuyla bu sıçrama küçülebilir.
+
+beş. Kopya kağıdı: on sekiz Ekim.
+
+Bu kısım draft günü açık duracak sayfa. Üç tablo var. Birinci tablo bizim fiyata göre ilk altmış oyuncu. İkinci tablo altmışıncı sıradan sonraki hedefler, yani geç AL, BREAKOUT ve FLYER oyuncuları. Üçüncü tablo "bunun üstüne çıkma" listesi. Beklenen oda fiyatı her zaman piyasa fiyatının bir virgül yirmi yedi katı. Piyasa fiyatı bir buçuk doların altındaysa beklenen oda fiyatını bir dolar yazdık. En fazla rakamları, etiketler ve puanlar bölge bölümlerinden aynen geliyor.
+
+Bütçe kontrolü. En fazla rakamları bir tavan, bir alışveriş listesi değil. Bütün AL oyuncularını en fazla rakamından alırsan iki yüz doları çok aşarsın. Draft boyunca kalan bütçeni ve boş kadro yerini takip et. Bölüm ikideki açık artırma taktiklerine bak.
+
+Tablo A: bizim fiyata göre ilk altmış.
+
+Tablo B: altmışıncı sıradan sonraki hedefler.
+
+Tablo C: bunun üstüne çıkma.
+
+Sesli kopya kağıdı: katmanlar.
+
+Şimdi aynı listeyi kulakla dinlenecek şekilde, katman katman veriyoruz. Her oyuncu için sadece en fazla rakamını ve bir sebep söylüyoruz.
+
+Birinci katman: en fazla kırk dolar ve üstü. Jokić en fazla seksen beş dolar, odanın doksan üç dolar civarı ödemesi beklenir, onu almak için bütçenin büyük kısmını bağlarsın. Shai Gilgeous-Alexander en fazla yetmiş iki dolar. İkisi de ADİL ve beş puan: bu draft'ın en güvenli iki oyuncusu. Wembanyama en fazla altmış dolar, oda doksan iki dolar civarı öder, büyük ihtimalle başkasına gider. Luka en fazla kırk sekiz dolar, Edwards en fazla kırk altı dolar, Giannis en fazla kırk bir dolar ve sadece serbest atış punt'u için, Tatum en fazla kırk dolar. Bu beşinde de oda bizim sınırımızın üstüne çıkacak. Bir tanesi sınırın altında kalırsa al, kalmazsa bırak.
+
+İkinci katman: otuz ile otuz dokuz dolar. Cooper Flagg en fazla otuz yedi dolar. Jamal Murray en fazla otuz altı dolar. Cade Cunningham, Scottie Barnes ve Tyrese Maxey en fazla otuz beşer dolar. Towns en fazla otuz üç dolar. Austin Reaves ve Amen Thompson en fazla otuz ikişer dolar: bu ikisi ADİL, odanın beklenen fiyatı bizim fiyatımıza yakın, bu katmandaki en makul alımlar. Amen Thompson beş puanlık bir hedef. Mitchell en fazla otuz dolar.
+
+Üçüncü katman: yirmi ile yirmi dokuz dolar. Bu katman draft'ın kalbi. En iyi hedefler: Dyson Daniels en fazla yirmi altı dolar, Derrick White en fazla yirmi beş dolar ve Nickeil Alexander-Walker en fazla yirmi iki dolar. Üçü de AL ve beş puan, oda üçünü de sekiz ile on sekiz dolar arasında bırakmalı. Lauri Markkanen AL ve en fazla yirmi altı dolar. Matas Buzelis AL, BREAKOUT, beş puan ve en fazla yirmi bir dolar. Darius Garland AL ve BREAKOUT, en fazla yirmi dolar. Adil fiyatlı olanlar: Holmgren en fazla yirmi sekiz dolar, Mobley yirmi beş dolar, Anthony Davis yirmi beş dolar, Harden yirmi dört dolar, Jalen Williams yirmi dört dolar, Trey Murphy yirmi iki dolar ve Duren yirmi dolar. Pahalı olanlar, odanın bizden çok ödeyeceği isimler: Durant yirmi dokuz dolar, Haliburton yirmi dokuz dolar, LaMelo Ball yirmi sekiz dolar, Curry yirmi beş dolar, Booker yirmi beş dolar, Jalen Johnson yirmi beş dolar, Kawhi yirmi dört dolar ve Bam Adebayo yirmi dört dolar. Format tuzakları bu katmanda: Sabonis, Giddey ve Brunson en fazla yirmişer dolar.
+
+Dördüncü katman: on ile on dokuz dolar. Format tuzakları: Trae Young en fazla on dokuz dolar, Sengun on yedi dolar, Jaylen Brown on altı dolar, Avdija on beş dolar, LeBron on dört dolar, Siakam on üç dolar ve Banchero on bir dolar. Hedefler: Jaren Jackson Jr. en fazla on sekiz dolar, OG Anunoby on altı dolar, Okongwu on beş dolar, Ausar Thompson on beş dolar, Cameron Boozer on beş dolar, Franz Wagner on beş dolar, Paul George on beş dolar, Naz Reid on dört dolar, Ryan Rollins on dört dolar, Kyrie Irving on dört dolar, Zubac on üç dolar, Ware on iki dolar, Edgecombe on iki dolar, Herro on iki dolar, Lillard on iki dolar, Gobert on bir dolar, Allen on bir dolar, McDaniels on bir dolar, Dejounte Murray on bir dolar, Edey on dolar ve Caleb Wilson on dolar. Oda bunların çoğunu iki ile on altı dolar arasında bırakmalı. Burada en çok değer bu katmanda toplanıyor. Adil fiyatlılar: Brandon Miller on dokuz dolar, Kessler on sekiz dolar, Bane on beş dolar, Clingan on iki dolar, Embiid on iki dolar, Knueppel on dolar, Sarr on dolar, Porter on dolar ve Keyonte George on dolar.
+
+Beşinci katman: son dolarlar, bir ile dokuz dolar. Queta ve Collin Murray-Boyles en fazla dokuzar dolar, ikisi de üçlüğü punt eden takım için ucuz pivot. John Collins da en fazla dokuz dolar, yüksek saha içi yüzdeli bir uzun. Day'Ron Sharpe da en fazla dokuz dolar. Quickley, Podziemski, McCollum ve Coby White en fazla sekizer dolar. Maluach ve Keegan Murray en fazla yedişer dolar. Cedric Coward ve Derik Queen en fazla altışar dolar. Norman Powell yedi dolar, Jalen Suggs altı dolar, Hartenstein beş dolar, Ty Jerome dört dolar, Jabari Smith Jr. üç dolar, Yves Missi iki dolar. De'Aaron Fox ADİL ve en fazla dokuz dolar. FLYER'lar bir ile dört dolar arası: Myles Turner dört dolar, Egor Dëmin üç dolar, Zach LaVine üç dolar, Porziņģis üç dolar, Reed Sheppard üç dolar ve Paul Reed üç dolar. Nurkić da üç dolar. Bu katmanda takvimi ve sakatlık etiketini neredeyse yok say.
+
+Bunun üstüne çıkma. Odanın en çok para yakacağı on isim şunlar. Jalen Johnson için yirmi beş doların, Cade için otuz beş doların, Trae Young için on dokuz doların, Sengun için on yedi doların, Giddey, Brunson ve Sabonis için yirmi doların üstüne çıkma. Avdija için on beş, Jaylen Brown için on altı, Banchero için on bir dolarda dur. Model sevgilileri için de aynı disiplin: Bridges beş dolar, Pritchard beş dolar, Wallace iki dolar ve Camara iki dolar, modelin on iki ile on dokuz dolar arası rakamına rağmen.
+
+Son söz.
+
+Bu sezonun en önemli üç çağrısı şunlar. Bir: odanın points fiyatı ödeyeceği yüksek top kayıplı skorerleri bırak. Jalen Johnson, Trae, Sengun, Giddey, Brunson ve Sabonis için beklenen oda fiyatı ile en fazla rakamımız arasındaki fark, toplamda yüz dolardan fazla. İki: o parayı odanın ucuz bıraktığı kategori oyuncularına harca. Daniels, White, Alexander-Walker, Buzelis, Anunoby, Jaren Jackson ve McDaniels bu listenin başında. Üç: modelin üçlük atmayan pivotlar ve her maçı oynayan oyuncular için verdiği yüksek rakamlara değil, bölge bölümlerindeki en fazla rakamına güven. Playoff takviminde Cleveland ve Minnesota'ya dikkat et, Mart'ta Brooklyn veteranlarını dört Mart'tan önce sat. İyi draft'lar.

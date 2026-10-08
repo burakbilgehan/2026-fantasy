@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Bölüm 02 · Auction Taktikleri</title><link rel="stylesheet" href="guide.css"></head>
+<body><main>
+<header class="ep"><div class="eyebrow">Sezon Rehberi 2026-27 · Bölüm 02</div><h1>Auction Taktikleri</h1>
+<p class="lede">18 Ekim'deki Yahoo canlı auction için oyun planı: 200 dolar, 12 takım, takım başına 12 oyuncu, 30 saniye aday gösterme, 20 saniye teklif. Bütçe planları, aday gösterme sırası, teklif disiplini, odanın format hataları ve draft günü listesi.</p>
+<div class="meta">Veri: kendi projeksiyonumuz (Minus-1, plain) ve piyasa fiyatı, 2026-10-07. Uzman notları: docs/knowledge (auction-tactics, methods, Josh Lloyd 2026-09-29 ve 2026-10-05 auction videoları). Mock fiyatları: Josh Lloyd'un 2026-10-05 tarihli 12 takımlı, 9-cat, 200 dolarlık uzman mock'u.</div></header>
+<!-- audio --><div class="audio"><span class="eyebrow">Sesli bölüm</span><audio controls preload="none" src="audio/02-auction.mp3"></audio></div><!-- /audio -->
+
+
+
+
+
+<nav class="toc"><a href="#snake">1. Snake ile fark</a><a href="#butce">2. Bütçe planları</a><a href="#aday">3. Aday gösterme</a><a href="#teklif">4. Teklif verme</a><a href="#format">5. Format tuzakları</a><a href="#punt">6. Punt FT</a><a href="#liste">7. Draft günü listesi</a></nav>
+
+<section class="prose" id="snake">
+<h2>1. Auction ile snake arasındaki fark</h2>
+<p>Snake draft'ta bir oyuncunun maliyeti bir sıra numarasıdır. Auction'da maliyet, o anda odadaki on iki kişinin cebindeki para ve isteğidir. Fiyat bir listeye ait değildir, odaya aittir. Aynı oyuncu bir odada 40 dolar, başka bir odada 26 dolar olabilir.</p>
+<p>Bunun üç sonucu var. Birincisi, herkes her oyuncuya teklif verebilir. Draft sırası şansı yoktur, Jokić'i isteyen herkes onu alabilir, yeter ki parası yetsin. İkincisi, hatalar daha pahalıdır. Uzmanlar auction'ın iyi ve kötü menajeri snake'ten çok daha fazla ayırdığını söylüyor (auction-tactics, Josh Lloyd 09-29). Üçüncüsü, liste fiyatları sadece rehberdir. Fiyatlar takım sayısı, bütçe, kadro boyu ve kategori sayısıyla değişir; başka bir ligin fiyatı bizim lige taşınmaz.</p>
+<p>Bizim oda için sabit gerçekler (verified, RULES.md): 12 takım, 200 dolar bütçe, takım başına 12 draft slotu (10 starter, 2 bench; IL slotları draft'ta dolmaz), toplam 144 oyuncu, keeper yok, aday gösterme süresi 30 saniye, teklif süresi 20 saniye. Menajerler deneyimli ve trade sık. Odada toplam 2.400 dolar var.</p>
+<div class="note"><b>Temel çerçeve.</b> İki fiyat var ve asla karışmaz. <b>Bizim fiyat</b>: kendi projeksiyonumuzdan, Minus-1 modeli. <b>Piyasa fiyatı</b>: Yahoo ortalama maliyeti iki kat ağırlıklı, ESPN ortalama maliyeti ve Fantrax ADP karışımı. Fırsat, bizim fiyat ile odanın ödeyeceği fiyat arasındaki farktır. Hiçbir zaman sıraya göre fiyat biçmiyoruz.</div>
+</section>
+
+<section class="prose" id="butce">
+<h2>2. Bütçe planları</h2>
+<h3>Odada fazladan 512 dolar var</h3>
+<p>Piyasa fiyatlarının ilk 144 oyuncusu toplam 1.888 dolar ediyor. Odada ise 2.400 dolar var. Yani oda, piyasa listesine göre ortalamada yüzde 27 fazla para harcayacak (verified, players.json). Kritik soru şu: bu fazla para nereye gider?</p>
+<p>İki veri kaynağı aynı cevabı veriyor. Birincisi bizim model. Piyasa fiyat bandlarına göre, bizim fiyatın piyasa fiyatına oranı aşağıdaki tabloda. 40 ile 59 dolar arası band en kötü yer: piyasa her 1 dolara bizim gözümüzde 67 sent değer koyuyor. 10 doların altına inildikçe oran hızla yükseliyor. pricing.md'deki ilk test de aynı şeyi buldu: piyasa dolarına düşen yedek oyuncu üstü değer 40 ile 59 bandında en düşük (0,14), 3 ile 9 bandında en yüksek (0,49).</p>
+<p>İkinci kaynak Josh Lloyd'un 5 Ekim mock'u. Ayarlar bize çok yakın: 12 takım, 9-cat, 200 dolar. Tek fark 13 kişilik kadro. O odada 40 ile 59 dolar bandındaki oyuncular piyasanın yüzde 21 altına gitti (Cade 48, Tatum 46, Maxey 40, Jalen Johnson 33). Piyasası 3 ile 9 dolar olan oyuncular piyasanın 2,5 katına gitti. Piyasası 3 doların altındakiler yaklaşık 5 katına gitti. 1 dolarlık ilk oyuncu ancak yaklaşık 124. seçimde çıktı.</p>
+<p>Çıkarım: fazla para en çok ortalara ve ucuz uçlara akıyor, yıldızlar piyasa civarında kalıyor. Bu, "piyasası 5 dolar olan çok iyi oyuncuyu 5 dolara alırım" planının neden çalışmayacağını gösteriyor. Dyson Daniels'ın piyasası 6,2 dolar ama mock'ta 17 dolara gitti.</p>
+<div class="tbl"><table>
+<thead><tr><th>Piyasa bandı</th><th class="num">Oyuncu (ilk 144)</th><th class="num">Piyasa toplamı</th><th class="num">Bizim toplam</th><th class="num">Bizim / piyasa</th><th class="num">Mock'ta oyuncu</th><th class="num">Mock / piyasa</th></tr></thead>
+<tbody>
+<tr><td>60 dolar ve üstü</td><td class="num">5</td><td class="num">346,6</td><td class="num">283,4</td><td class="num neg">0,82</td><td class="num">5</td><td class="num">0,97</td></tr>
+<tr><td>40-59</td><td class="num">9</td><td class="num">463,1</td><td class="num">308,5</td><td class="num neg">0,67</td><td class="num">9</td><td class="num">0,79</td></tr>
+<tr><td>25-39</td><td class="num">14</td><td class="num">434,5</td><td class="num">376,1</td><td class="num neg">0,87</td><td class="num">13</td><td class="num">0,97</td></tr>
+<tr><td>10-24</td><td class="num">21</td><td class="num">365,4</td><td class="num">464,6</td><td class="num pos">1,27</td><td class="num">18</td><td class="num">1,23</td></tr>
+<tr><td>3-9</td><td class="num">36</td><td class="num">198,4</td><td class="num">517,7</td><td class="num pos">2,61</td><td class="num">22</td><td class="num">2,53</td></tr>
+<tr><td>3 altı</td><td class="num">59</td><td class="num">79,8</td><td class="num">443,4</td><td class="num pos">5,56</td><td class="num">19</td><td class="num">4,85</td></tr>
+</tbody></table></div>
+<p class="meta">İlk 144 = piyasa sırasına göre. Bizim toplam = Minus-1 bizim fiyat. Mock = Josh Lloyd 2026-10-05, 86 eşleşen oyuncu; 13 kişilik kadro ve uzman odası, tek bir draft. Alt bandlardaki büyük oranlar kısmen model aykırılarından gelir (Queta, Ware, Cason Wallace gibi).</p>
+<p>Bir veri daha: piyasa listesinde ilk 12 oyuncu, ilk 144'ün toplam fiyatının yüzde 38'ini alıyor. Bizim modelde ilk 12 sadece yüzde 23 alıyor. İlk 24 için oran yüzde 60'a karşı yüzde 37. Yani bizim dolar ölçeğimiz odadan daha düz. Bu yüzden "yıldız X pahalı" demek için sadece bizim fiyatın piyasadan düşük olması yetmez. Bağlam olarak, 2025-26 sezonunda bu odada ilk iki oyuncu yaklaşık 86 dolara gitti; bu bir fiyat kuralı değil, sadece odanın yıldızlara para basabildiğini hatırlatır.</p>
+
+<h3>Üç plan</h3>
+<p><b>Yıldızlar ve ucuzlar (stars and scrubs).</b> İki ilk 10 oyuncuya bütçenin yarısından dörtte üçüne kadarını ver, gerisini ucuz doldur. Uzmanlar bunu 8 takımda öneriyor, 10 takımda mümkün görüyor, 12 takımda reddediyor (Josh Lloyd 09-29). Nedenleri: 1 dolarlık oyuncunun 10 ila 15 dolarlık oyuncuya dönüşme şansı yaklaşık yüzde 10. Bir yıldız sakatlanırsa takım çöker. Ve odada en az bir kişi dengeli oynayıp senin ihtiyaç duyduğun ucuz fırsatları yukarı iter.</p>
+<p><b>Dengeli.</b> Projeksiyonda ilk 20'yi atla, 11 çekirdek oyuncuyu kabaca 25 ile 75. sıra arasından al. Uzmanın somut planı: 11 çekirdeğe yaklaşık 185 dolar, yaklaşık 14 dolar oynama payı, son slota 1 dolar. Tavan daha düşük ama en iyi oyuncunu kaybetmek daha az acıtır: 30. oyuncuyu waiver'dan telafi etmek Jokić'i telafi etmekten çok daha kolay.</p>
+<p><b>İki yıldız artı orta.</b> Bir ilk 5 yıldız ve bir ikinci kademe oyuncu, gerisi orta band. Uzmanlardan biri iki pahalı yıldızla iyi takım kurulabileceğini söylüyor, ama hata payı sıfır: yıldızlardan biri yoksa o hafta kaybedilir (Josh Lloyd 10-05). İki yıldıza 80'er dolar vermek ise uzmana göre şampiyonluk için fazla.</p>
+
+<h3>Örnek bütçeler (plan değil, örnek)</h3>
+<div class="note warn"><b>Bunlar örnektir, plan değildir.</b> Amaç parayı nereye koyduğunda takımın neye benzediğini görmek. "Plan" sütunu bizim varsaydığımız oda fiyatı: oyuncu Josh'un mock'unda satıldıysa o fiyat; satılmadıysa (yıldızlı) piyasa fiyatı çarpı o banddaki mock çarpanı (çıkarım). Her bütçede 11 isim var, 12. slot 1 dolarlık streaming slotu. Kategori hücreleri takım z toplamıdır; renk eşikleri takım toplamı için ölçeklendi: 4 ve üstü koyu yeşil, 1,5 ile 4 açık yeşil, -1,5 ile -4 açık kırmızı, -4 ve altı koyu kırmızı.</div>
+
+<h3>A. Yıldızlar ve ucuzlar: Jokić + SGA</h3>
+<div class="tbl"><table>
+<thead><tr><th>Oyuncu</th><th>Takım</th><th>Poz</th><th class="num">Piyasa</th><th class="num">Mock</th><th class="num">Plan</th><th class="num">Bizim</th></tr></thead>
+<tbody>
+<tr><td>Nikola Jokić</td><td>DEN</td><td>C</td><td class="num">73,3</td><td class="num">80</td><td class="num">80</td><td class="num">74,8</td></tr>
+<tr><td>Shai Gilgeous-Alexander</td><td>OKC</td><td>G</td><td class="num">68,8</td><td class="num">68</td><td class="num">68</td><td class="num">61,6</td></tr>
+<tr><td>Kel'el Ware</td><td>MIL</td><td>C</td><td class="num">4,0</td><td class="num">-</td><td class="num">10*</td><td class="num">24,0</td></tr>
+<tr><td>Payton Pritchard</td><td>BOS</td><td>G</td><td class="num">4,1</td><td class="num">6</td><td class="num">6</td><td class="num">14,7</td></tr>
+<tr><td>Brandin Podziemski</td><td>GSW</td><td>G</td><td class="num">1,3</td><td class="num">-</td><td class="num">6*</td><td class="num">14,1</td></tr>
+<tr><td>Khaman Maluach</td><td>PHX</td><td>C</td><td class="num">1,2</td><td class="num">-</td><td class="num">6*</td><td class="num">13,6</td></tr>
+<tr><td>Neemias Queta</td><td>BOS</td><td>C</td><td class="num">1,0</td><td class="num">-</td><td class="num">5*</td><td class="num">20,2</td></tr>
+<tr><td>Keegan Murray</td><td>SAC</td><td>F</td><td class="num">1,0</td><td class="num">-</td><td class="num">5*</td><td class="num">12,4</td></tr>
+<tr><td>Toumani Camara</td><td>POR</td><td>F</td><td class="num">1,0</td><td class="num">-</td><td class="num">5*</td><td class="num">11,9</td></tr>
+<tr><td>John Collins</td><td>DET</td><td>F,C</td><td class="num">1,0</td><td class="num">-</td><td class="num">5*</td><td class="num">11,9</td></tr>
+<tr><td>Norman Powell</td><td>CHI</td><td>G,F</td><td class="num">2,2</td><td class="num">3</td><td class="num">3</td><td class="num">8,4</td></tr>
+<tr><td>12. slot: streaming</td><td></td><td></td><td class="num"></td><td class="num"></td><td class="num">1</td><td class="num"></td></tr>
+<tr><td><b>Toplam</b></td><td></td><td></td><td class="num"><b>158,9</b></td><td class="num"></td><td class="num"><b>200</b></td><td class="num"><b>267,6</b></td></tr>
+</tbody></table></div>
+
+<h3>B. Dengeli: ilk 20 yok, 10 dolar oynama payı</h3>
+<div class="tbl"><table>
+<thead><tr><th>Oyuncu</th><th>Takım</th><th>Poz</th><th class="num">Piyasa</th><th class="num">Mock</th><th class="num">Plan</th><th class="num">Bizim</th></tr></thead>
+<tbody>
+<tr><td>Lauri Markkanen</td><td>UTA</td><td>F</td><td class="num">16,9</td><td class="num">30</td><td class="num">30</td><td class="num">24,4</td></tr>
+<tr><td>Evan Mobley</td><td>CLE</td><td>F,C</td><td class="num">22,4</td><td class="num">27</td><td class="num">27</td><td class="num">28,9</td></tr>
+<tr><td>Trey Murphy III</td><td>NOP</td><td>G,F</td><td class="num">16,5</td><td class="num">21</td><td class="num">21</td><td class="num">20,1</td></tr>
+<tr><td>Jalen Duren</td><td>DET</td><td>C</td><td class="num">19,5</td><td class="num">19</td><td class="num">19</td><td class="num">29,0</td></tr>
+<tr><td>Dyson Daniels</td><td>ATL</td><td>G,F</td><td class="num">6,2</td><td class="num">17</td><td class="num">17</td><td class="num">29,7</td></tr>
+<tr><td>Derrick White</td><td>BOS</td><td>G</td><td class="num">14,1</td><td class="num">14</td><td class="num">14</td><td class="num">27,9</td></tr>
+<tr><td>Nickeil Alexander-Walker</td><td>ATL</td><td>G</td><td class="num">6,6</td><td class="num">14</td><td class="num">14</td><td class="num">24,3</td></tr>
+<tr><td>Kon Knueppel</td><td>CHA</td><td>G,F</td><td class="num">14,6</td><td class="num">13</td><td class="num">13</td><td class="num">24,6</td></tr>
+<tr><td>Donovan Clingan</td><td>POR</td><td>C</td><td class="num">10,0</td><td class="num">-</td><td class="num">12*</td><td class="num">24,2</td></tr>
+<tr><td>Jaden McDaniels</td><td>MIN</td><td>F</td><td class="num">1,6</td><td class="num">11</td><td class="num">11</td><td class="num">17,2</td></tr>
+<tr><td>Desmond Bane</td><td>ORL</td><td>G,F</td><td class="num">10,4</td><td class="num">11</td><td class="num">11</td><td class="num">18,7</td></tr>
+<tr><td>12. slot: streaming</td><td></td><td></td><td class="num"></td><td class="num"></td><td class="num">1</td><td class="num"></td></tr>
+<tr><td><b>Toplam</b> (10 dolar oynama payı kalır)</td><td></td><td></td><td class="num"><b>138,8</b></td><td class="num"></td><td class="num"><b>190</b></td><td class="num"><b>269,0</b></td></tr>
+</tbody></table></div>
+
+<h3>C. İki yıldız artı orta: SGA + Towns</h3>
+<div class="tbl"><table>
+<thead><tr><th>Oyuncu</th><th>Takım</th><th>Poz</th><th class="num">Piyasa</th><th class="num">Mock</th><th class="num">Plan</th><th class="num">Bizim</th></tr></thead>
+<tbody>
+<tr><td>Shai Gilgeous-Alexander</td><td>OKC</td><td>G</td><td class="num">68,8</td><td class="num">68</td><td class="num">68</td><td class="num">61,6</td></tr>
+<tr><td>Karl-Anthony Towns</td><td>NYK</td><td>F,C</td><td class="num">38,5</td><td class="num">36</td><td class="num">36</td><td class="num">33,1</td></tr>
+<tr><td>Dyson Daniels</td><td>ATL</td><td>G,F</td><td class="num">6,2</td><td class="num">17</td><td class="num">17</td><td class="num">29,7</td></tr>
+<tr><td>Derrick White</td><td>BOS</td><td>G</td><td class="num">14,1</td><td class="num">14</td><td class="num">14</td><td class="num">27,9</td></tr>
+<tr><td>Kon Knueppel</td><td>CHA</td><td>G,F</td><td class="num">14,6</td><td class="num">13</td><td class="num">13</td><td class="num">24,6</td></tr>
+<tr><td>Donovan Clingan</td><td>POR</td><td>C</td><td class="num">10,0</td><td class="num">-</td><td class="num">12*</td><td class="num">24,2</td></tr>
+<tr><td>Kel'el Ware</td><td>MIL</td><td>C</td><td class="num">4,0</td><td class="num">-</td><td class="num">10*</td><td class="num">24,0</td></tr>
+<tr><td>Mikal Bridges</td><td>NYK</td><td>F</td><td class="num">5,0</td><td class="num">10</td><td class="num">10</td><td class="num">19,0</td></tr>
+<tr><td>Immanuel Quickley</td><td>TOR</td><td>G</td><td class="num">1,6</td><td class="num">-</td><td class="num">8*</td><td class="num">16,4</td></tr>
+<tr><td>Payton Pritchard</td><td>BOS</td><td>G</td><td class="num">4,1</td><td class="num">6</td><td class="num">6</td><td class="num">14,7</td></tr>
+<tr><td>Neemias Queta</td><td>BOS</td><td>C</td><td class="num">1,0</td><td class="num">-</td><td class="num">5*</td><td class="num">20,2</td></tr>
+<tr><td>12. slot: streaming</td><td></td><td></td><td class="num"></td><td class="num"></td><td class="num">1</td><td class="num"></td></tr>
+<tr><td><b>Toplam</b></td><td></td><td></td><td class="num"><b>167,9</b></td><td class="num"></td><td class="num"><b>200</b></td><td class="num"><b>295,4</b></td></tr>
+</tbody></table></div>
+<p class="meta">* Mock'ta satılmadı. Plan = piyasa fiyatı çarpı bandın mock çarpanı (3 altı: 4,85; 3-9: 2,53; 10-24: 1,23). Çıkarım, veri değil.</p>
+
+<h3>Kategori profili</h3>
+<div class="tbl"><table>
+<thead><tr><th>Plan</th><th class="num">Plan $</th><th class="num">Bizim $</th><th class="num">FG%</th><th class="num">FT%</th><th class="num">3PM</th><th class="num">PTS</th><th class="num">REB</th><th class="num">AST</th><th class="num">STL</th><th class="num">BLK</th><th class="num">TO</th></tr></thead>
+<tbody>
+<tr><td>A. Yıldız + ucuz</td><td class="num">200</td><td class="num">267,6</td><td class="num z2">7,2</td><td class="num z1">2,3</td><td class="num">1,2</td><td class="num z2">4,7</td><td class="num z2">7,5</td><td class="num">-0,5</td><td class="num z1">3,0</td><td class="num z2">5,0</td><td class="num">1,1</td></tr>
+<tr><td>B. Dengeli</td><td class="num">190</td><td class="num">269,0</td><td class="num z1">3,3</td><td class="num z1">1,5</td><td class="num z2">5,5</td><td class="num z2">6,2</td><td class="num z2">6,5</td><td class="num">0,7</td><td class="num z2">5,5</td><td class="num z2">5,6</td><td class="num">-1,4</td></tr>
+<tr><td>C. İki yıldız + orta</td><td class="num">200</td><td class="num">295,4</td><td class="num z1">3,9</td><td class="num z1">3,2</td><td class="num z2">4,5</td><td class="num z2">4,8</td><td class="num z2">7,5</td><td class="num z1">3,5</td><td class="num z2">6,1</td><td class="num z2">4,4</td><td class="num">0,5</td></tr>
+<tr><td>D. Punt FT (bölüm 6)</td><td class="num">200</td><td class="num">287,1</td><td class="num z2">13,9</td><td class="num zn2">-12,7</td><td class="num zn2">-4,1</td><td class="num z2">4,0</td><td class="num z2">11,6</td><td class="num">0,2</td><td class="num z2">5,8</td><td class="num z2">10,8</td><td class="num">-0,5</td></tr>
+</tbody></table></div>
+<p>Uzmanın hedefi 200 dolarlık bütçeden en az 250 dolarlık değer çıkarmak. Bizim ölçekte dört örneğin hepsi bu çizginin üstünde. Kağıt üstünde en iyisi C (295 dolar). Ama C'nin üstünlüğü iki şeye dayanıyor. Birincisi, 4 oyuncu (Clingan, Ware, Quickley, Queta) mock'ta görülmedi, plan fiyatları benim tahminim. Ware ve Queta zaten modelimizin aykırı değerleri: bizim 24 ve 20 dolar, piyasa 4 ve 1 dolar. İkincisi, SGA sakatlanırsa C 61,6 dolarlık değer kaybeder; B en iyi oyuncusunu (Daniels) kaybederse 29,7 dolar kaybeder.</p>
+<p>A'nın zayıf noktası asist: ucuz uçta asist yapan oyuncu bulmak zor. B'nin zayıf noktası da asist ve top kaybı. Ama B'nin cebinde 10 dolar kalıyor. Bu parayla örneğin Bane yerine Amen Thompson'a yükselebilirsin (bizim 31,8, piyasa 28,4, mock 35).</p>
+<div class="note good"><b>Benim önerim (çıkarım).</b> Varsayılan plan B şeklinde dengeli bir çekirdek. Oda soğuk olur ve bir yıldız En fazla fiyatının altına düşerse C'ye geç: değer gelirse al. A'yı planlama. Uzmanlar 12 takımda reddediyor, bizim model de A'ya C'den daha az değer veriyor.</div>
+<p>Bir uyarı daha: aynı fırsat isimleri (Daniels, White, Alexander-Walker, McDaniels) her bütçede çıkıyor. Bu, odadaki diğer akıllı menajerlerin de onları göreceği anlamına geliyor. pricing.md bunu açıkça söylüyor: "herkes ortalama fiyattan alır" varsayımı fazla iyimser. Bu yüzden her hedefin bir yedeği olmalı.</p>
+</section>
+
+<section class="prose" id="aday">
+<h2>3. Aday gösterme stratejisi</h2>
+<p>Aday gösterme, auction'da senin tek doğrudan kontrol aracın. Sıra sana geldiğinde kimin satışa çıkacağına sen karar verirsin. Temel kural uzmandan: aday gösterirken istemediğin birini at, böylece diğerleri hedeflerine gidecek parayı harcasın (Josh Lloyd 09-29).</p>
+<h3>Erken: istemediklerini ve pahalı yıldızları at</h3>
+<p>İlk nominasyonlarda iki tür oyuncu at. Birincisi format tuzakları: points ligi değeriyle şişmiş, bizim 9-cat ligde daha az eden oyuncular. Format farkı +20 ve üstü olanlar. Jalen Brunson (bizim 21,8, piyasa 32,7, format farkı +27), Alperen Sengun (21,2 ve 32,5, +31), Paolo Banchero (11,3 ve 16,0, +65), LeBron James (13,8 ve 16,6, +24). Jalen Johnson'ın format farkı +17 ama piyasa sırası 10, bizim sırası 31; uzmanlar da onu kategori liginde ilk tur oyuncusu görmüyor.</p>
+<p>İkincisi, almayı planlamadığın pahalı yıldızlar. Büyük isimleri erken atmak masadan nakit çeker ve odanın sıcak mı soğuk mu olduğunu gösterir (Josh Lloyd 10-05). Luka Dončić (piyasa 70,0, bizim 48,2), Cade Cunningham (62,4 ve 38,4), Tyrese Maxey (54,1 ve 34,5) buna uygun. Dikkat: bu yıldızlar "pahalı" değil, sadece bizim düz ölçeğimizde onlara bu parayı vermiyoruz. Oda onlara ödeyecek, bırak ödesin.</p>
+<p>Üçüncü erken hamle: 1 dolar değerinde gördüğün ama odanın sevdiği ucuz isimleri at. Uzman, 1 dolarlık oyuncuların erken atıldığında sık sık 4 ila 5 dolara gittiğini söylüyor. Mock'ta Konan Niederhäuser 3, Dybantsa 4, Reed Sheppard 5, Cason Wallace 8 dolara gitti. Bizim listede uygun adaylar: rookie heyecanı olan ve modelimizin sevmediği isimler. AJ Dybantsa (bizim 4,9), Darryn Peterson (6,6), Dylan Harper (5,9).</p>
+<h3>Orta: hedeflerini ne zaman atarsın</h3>
+<p>Kendi hedefini erken atma. Önce oda parasını harcasın. Hedefini şu anlarda at: aynı profildeki bir oyuncu yeni pahalı gittiyse (o kategoriye para harcayan menajer artık doymuştur), o pozisyona ihtiyaç duyan takımlar doldurduysa, ya da en zengin iki takımın parası eridiğinde. Uzmanın gözlemi: hemen her draft'ta ilk 10 kadar oyuncudan biri değerinin çok altına gider, sonra oda fiyatları yukarı iter. Erken fırsatı yakalamaya hazır ol ama kendi listeni erken açma.</p>
+<h3>Geç: 1 dolar oyunu</h3>
+<p>Son turlarda 1 dolarlık oyuncuyu sen atarsan, açılış teklifi senin olur. Ama birinin cebinde birkaç dolar varsa seni geçer. Uzmanın çözümü: tek isme bağlanma, büyük gruplar halinde hedef listesi tut. Bizim listede piyasası 1 dolar olup bizim modelin sevdiği isimler: Queta (bizim 20,2), Cason Wallace (14,6), Keegan Murray (12,4), John Collins (11,9), Collin Murray-Boyles (11,7), Paul Reed (9,4). Bunlar Yahoo listesinde aşağıda, odanın gözünde değiller.</p>
+<h3>Sayaçlar: 30 saniye ve 20 saniye</h3>
+<p>30 saniye aday gösterme süresi, düşünmek için kısa. Draft öncesi sıralı bir aday listesi hazırla: en üstte istemediğin pahalı isimler. Varsayım (kontrol edilmedi): süre dolarsa Yahoo senin yerine sıralamanın tepesinden birini atar. Bu yüzden kendi kuyruğunun en üstünde asla bir hedefin olmasın.</p>
+<p>20 saniye teklif süresi, fiyat kararını o anda vermek için yetmez. Her hedefin En fazla fiyatı draft'tan önce yazılı olmalı. Teklif tarzını değiştir: bazen hemen teklif ver, bazen sayacın sonuna kadar bekle, bazen aniden bırak. Uzman öngörülebilirliği keskin menajerlere karşı en büyük zayıflık sayıyor. Varsayım: Yahoo'da her yeni teklif sayacı yeniden başlatıyor; bunu bir mock odada kontrol et.</p>
+</section>
+
+<section class="prose" id="teklif">
+<h2>4. Teklif verme</h2>
+<h3>En fazla fiyat disiplini</h3>
+<p>Hiçbir oyuncu "mutlaka alınacak" değildir. Bir oyuncuyu sevmek, onu her fiyata almak demek değil (Josh Lloyd 10-05). Draft öncesi her hedef için bir En fazla fiyatı yaz ve 20 saniyelik baskı altında onu aşma. İstisna tek: oynama payın varsa ve hedef senin karar ağacındaki bir sonraki seçenekten açıkça iyiyse, payın bir kısmını harca.</p>
+<h3>Yahoo'nun en fazla teklif kuralı</h3>
+<p>Her boş slot için en az 1 dolar ayırmak zorundasın. Formül: en fazla teklif = kalan para eksi (boş slot sayısı eksi 1). Başlangıçta 200 eksi 11, yani 189 dolar. Örnek: 40 doların ve 5 boş slotun varsa en fazla 36 verebilirsin. Bu formülü rakipler için de hesapla. Bu senin en önemli geç draft aracın.</p>
+<p>Uzmanın yöntemi: kalan parayı açık çekirdek slotlara böl, 1 dolarlık slotlar için parayı önce ayır. Mock'ta Josh "iki 1 dolarlık slotu çıkarırsam beş slot için 70 dolar, slot başına 14 dolar" diye hesapladı. Bunu her satıştan sonra güncelle.</p>
+<h3>Fiyat zorlama</h3>
+<p>Rakibin açıkça istediği bir oyuncuyu ucuza almasına izin verme. Ama sadece kendin de kabul edeceğin fiyata kadar it, çünkü oyuncu sende kalabilir. Ne zaman duracağını bil. Rakip bir oyuncuya, draft'ın geri kalanında onu zayıflatacak kadar fazla ödemek üzereyse, onu bırak (Josh Lloyd 10-05). Fiyat zorlamayı draft'ın başında ve ortasında yap. Sonlarda, odanın parası azken, zorladığın oyuncu sende kalma ihtimali yükselir.</p>
+<h3>Tek sayılı teklifler (çıkarım)</h3>
+<p>Uzman notlarında yok, genel bir taktik: insanlar sınırlarını yuvarlak sayılara koyar, 20, 25, 30 gibi. 21, 26, 31 gibi tek sayılar, yuvarlak sınırı olan rakibi tam sınırında durdurur. Aynı nedenle kendi En fazla fiyatını yuvarlak sayı yerine bir fazlasına koy.</p>
+<h3>Rakiplerin parasını ve ihtiyaçlarını takip et</h3>
+<p>Her rakip için dört şeyi izle: kalan para, boş slot sayısı, en fazla teklifi ve hangi pozisyonları doldurduğu. Bir takımın iki merkezi varsa bir sonraki merkeze daha az zorlar. En zengin iki takımın en fazla teklifi, kalan her oyuncunun gerçek tavanıdır. Varsayım: Yahoo draft odası her takımın kalan bütçesini gösteriyor; mock odada kontrol et.</p>
+<h3>Odanın parası bitince</h3>
+<p>Geç draft'ta çoğu takımın en fazla teklifi birkaç dolara düşer. Burada iki kural var. Birincisi, sıcak bir odada geç değer gelir, sabrın varsa bekle (Josh Lloyd 10-05). Mock'ta Derrick White 14, Norman Powell 3 dolara, menajerlerin parası azaldığı için kaldı. İkincisi, senin hedefin için gereken teklif, diğer en zengin takımın en fazla teklifinden 1 dolar fazladır. Diğer herkesin en fazla teklifi 4 ise, 5 dolar o oyuncuyu kesin alır.</p>
+<h3>Son oyun</h3>
+<p>Para bitirmeden draft'ı bitirme. Elinde kullanılmamış para kalırsa bütçeni yanlış planlamışsın demektir (Josh Lloyd 10-05). Son slot, 1 dolarlık streaming slotu olmalı. 12 takımlı bir ligde başlangıç seviyesinde yaklaşık 120 oyuncu var; 12. slota 1 dolardan fazla vermek, FAB ve günlük waiver'ın zaten vereceği şeye para ödemektir.</p>
+<div class="tbl"><table>
+<thead><tr><th>Yıldız</th><th class="num">Bizim</th><th class="num">Piyasa</th><th class="num">Uzman</th><th class="num">Mock</th><th class="num">En fazla</th><th class="wrap">Nasıl</th></tr></thead>
+<tbody>
+<tr><td>Nikola Jokić</td><td class="num">74,8</td><td class="num">73,3</td><td class="num">73-74</td><td class="num">80</td><td class="num">$78</td><td class="wrap">Bizim ve uzman 74; yıldız primi için biraz üstü.</td></tr>
+<tr><td>Shai Gilgeous-Alexander</td><td class="num">61,6</td><td class="num">68,8</td><td class="num">en fazla 60</td><td class="num">68</td><td class="num">$66</td><td class="wrap">Bizim 62 artı küçük yıldız primi, piyasanın altında.</td></tr>
+<tr><td>Victor Wembanyama</td><td class="num">60,4</td><td class="num">72,1</td><td class="num">~70</td><td class="num">80</td><td class="num">$68</td><td class="wrap">Uzman 70, bizim 60; ortası, dakika yönetimi riski var.</td></tr>
+<tr><td>Karl-Anthony Towns</td><td class="num">33,1</td><td class="num">38,5</td><td class="num">30+</td><td class="num">36</td><td class="num">$36</td><td class="wrap">Mock fiyatı; uzman ilk turda istemiyor.</td></tr>
+</tbody></table></div>
+</section>
+
+<section class="prose" id="format">
+<h2>5. Odadaki format tuzakları</h2>
+<p>Yahoo draft odası varsayılan olarak X-rank'e göre sıralar. Uzmanlara göre X-rank uzmanların hissine dayalı bir liste, lig formatını dikkate almıyor ve points değeri ile kategori değeri arasında bir yerde duruyor (rankings-adp-and-format). Odadaki her ismin yanında Yahoo ortalama maliyeti de görünüyor. Deneyimli menajerler bile bu iki sayıyı çapa olarak kullanır. Bizim verimizde X-rank yok; elimizdeki çapa Yahoo ortalama maliyeti.</p>
+<p>Bundan iki fırsat çıkıyor. Birincisi, Yahoo maliyeti ESPN'den çok düşük olan ve bizim sevdiğimiz oyuncular: odanın çapası düşük olacak. Derrick White (Yahoo 10,2, ESPN 18,0, bizim 27,9), Dyson Daniels (4,4 ve 9,4, bizim 29,7), Amen Thompson (24,0 ve 36,6, bizim 31,8). İkincisi, Yahoo maliyeti ESPN'den çok yüksek olanlar: odada Yahoo sayısına yakın gider. Chet Holmgren (Yahoo 30,6, ESPN 9,8), Walker Kessler (18,8 ve 7,8), Trey Murphy III (18,0 ve 7,4), Brandon Miller (19,2 ve 7,2). Bunlarda Yahoo fiyatını ödeme.</p>
+<p>Üçüncü bir etki: Yahoo listesinde aşağıda kalan oyuncular gözden kaçar. Piyasa sırası 115 ve altı olan Queta, Cason Wallace, Paul Reed gibi isimler, biri atmadıkça satışa çıkmayabilir. Onları sen geç draft'ta 1 dolardan at.</p>
+
+<h3>Odanın fazla ödeyeceği yer</h3>
+<div class="tbl"><table>
+<thead><tr><th>Oyuncu</th><th>Takım</th><th class="num">Piyasa</th><th class="num">Bizim</th><th class="num">9-cat sıra</th><th class="num">Points sıra</th><th class="num">Format farkı</th><th class="num">Mock</th><th>Karar</th></tr></thead>
+<tbody>
+<tr><td>Jalen Johnson</td><td>ATL</td><td class="num">51,7</td><td class="num">25,2</td><td class="num">31</td><td class="num">14</td><td class="num neg">+17</td><td class="num">33</td><td><span class="chip pahali">PAHALI</span></td></tr>
+<tr><td>Jalen Brunson</td><td>NYK</td><td class="num">32,7</td><td class="num">21,8</td><td class="num">42</td><td class="num">15</td><td class="num neg">+27</td><td class="num">20</td><td><span class="chip tuzak">FORMAT TUZAĞI</span></td></tr>
+<tr><td>Alperen Sengun</td><td>HOU</td><td class="num">32,5</td><td class="num">21,2</td><td class="num">45</td><td class="num">14</td><td class="num neg">+31</td><td class="num">29</td><td><span class="chip tuzak">FORMAT TUZAĞI</span></td></tr>
+<tr><td>Josh Giddey</td><td>CHI</td><td class="num">32,1</td><td class="num">23,6</td><td class="num">40</td><td class="num">21</td><td class="num neg">+19</td><td class="num">29</td><td><span class="chip pahali">PAHALI</span></td></tr>
+<tr><td>Domantas Sabonis</td><td>SAC</td><td class="num">25,7</td><td class="num">23,6</td><td class="num">39</td><td class="num">14</td><td class="num neg">+25</td><td class="num">24</td><td><span class="chip adil">ADİL</span></td></tr>
+<tr><td>LeBron James</td><td>PHI</td><td class="num">16,6</td><td class="num">13,8</td><td class="num">72</td><td class="num">48</td><td class="num neg">+24</td><td class="num">22</td><td><span class="chip tuzak">FORMAT TUZAĞI</span></td></tr>
+<tr><td>Paolo Banchero</td><td>ORL</td><td class="num">16,0</td><td class="num">11,3</td><td class="num">89</td><td class="num">24</td><td class="num neg">+65</td><td class="num">19</td><td><span class="chip tuzak">FORMAT TUZAĞI</span></td></tr>
+<tr><td>Julius Randle</td><td>BKN</td><td class="num">7,1</td><td class="num">8,4</td><td class="num">104</td><td class="num">53</td><td class="num neg">+51</td><td class="num">15</td><td><span class="chip adil">ADİL</span></td></tr>
+</tbody></table></div>
+<p class="meta">Format farkı = 9-cat sıra eksi points sıra. +20 ve üstü = points ligi şişirmesi. Mock = Josh Lloyd 2026-10-05.</p>
+<p>Sabonis ve Deni Avdija'da format farkı büyük (+25 ve +28) ama piyasa fiyatı bizim fiyata yakın (25,7 ve 23,6; 18,8 ve 18,7). Şişme ESPN tarafında; bizim Yahoo odasında tuzak fiyatta değil. Stephon Castle'da da format farkı +46, ama piyasası (6,6) bizim fiyatın (11,6) altında; uzmanlar onu Yahoo ADP'sinde istemiyor. Julius Randle'da da durum aynı: format farkı +51, ama piyasa 7,1, bizim 8,4. Mock'taki 15 dolar tek bir uzman odası. Bu dördü ADİL.</p>
+<p>Jaylen Brown (+31) bu tabloda yok, çünkü kaynaklar çelişiyor. Bizim model ona 15,9 dolar veriyor ve onu tuzak gösteriyor. Uzman makalesi ise onu piyasanın düşük fiyatladığı kategori oyuncuları arasında sayıyor, Josh da mock'taki 23 dolarlık fiyatı iyi buldu. Tek kaynaklı karar vermiyoruz: ayrıntısı bölüm 03'te.</p>
+
+<h3>Odanın az ödeyeceği yer</h3>
+<div class="tbl"><table>
+<thead><tr><th>Oyuncu</th><th>Takım</th><th class="num">Piyasa</th><th class="num">Bizim</th><th class="num">9-cat sıra</th><th class="num">Points sıra</th><th class="num">Format farkı</th><th class="num">Mock</th><th>Karar</th></tr></thead>
+<tbody>
+<tr><td>Dyson Daniels</td><td>ATL</td><td class="num">6,2</td><td class="num">29,7</td><td class="num">16</td><td class="num">40</td><td class="num pos">-24</td><td class="num">17</td><td><span class="chip al">AL</span></td></tr>
+<tr><td>Derrick White</td><td>BOS</td><td class="num">14,1</td><td class="num">27,9</td><td class="num">26</td><td class="num">50</td><td class="num pos">-24</td><td class="num">14</td><td><span class="chip al">AL</span></td></tr>
+<tr><td>Nickeil Alexander-Walker</td><td>ATL</td><td class="num">6,6</td><td class="num">24,3</td><td class="num">35</td><td class="num">49</td><td class="num pos">-14</td><td class="num">14</td><td><span class="chip al">AL</span></td></tr>
+<tr><td>Lauri Markkanen</td><td>UTA</td><td class="num">16,9</td><td class="num">24,4</td><td class="num">34</td><td class="num">55</td><td class="num pos">-21</td><td class="num">30</td><td><span class="chip adil">ADİL</span></td></tr>
+<tr><td>Walker Kessler</td><td>LAL</td><td class="num">15,9</td><td class="num">29,1</td><td class="num">18</td><td class="num">50</td><td class="num pos">-32</td><td class="num">26</td><td><span class="chip adil">ADİL</span></td></tr>
+<tr><td>Rudy Gobert</td><td>MIN</td><td class="num">5,4</td><td class="num">25,5</td><td class="num">30</td><td class="num">52</td><td class="num pos">-22</td><td class="num">-</td><td><span class="chip al">AL</span></td></tr>
+<tr><td>Kel'el Ware</td><td>MIL</td><td class="num">4,0</td><td class="num">24,0</td><td class="num">37</td><td class="num">60</td><td class="num pos">-23</td><td class="num">-</td><td><span class="chip al">AL</span></td></tr>
+<tr><td>Ausar Thompson</td><td>DET</td><td class="num">2,8</td><td class="num">19,6</td><td class="num">50</td><td class="num">72</td><td class="num pos">-22</td><td class="num">17</td><td><span class="chip adil">ADİL</span></td></tr>
+<tr><td>OG Anunoby</td><td>NYK</td><td class="num">4,2</td><td class="num">15,6</td><td class="num">66</td><td class="num">100</td><td class="num pos">-34</td><td class="num">16</td><td><span class="chip adil">ADİL</span></td></tr>
+<tr><td>Jaden McDaniels</td><td>MIN</td><td class="num">1,6</td><td class="num">17,2</td><td class="num">61</td><td class="num">78</td><td class="num pos">-17</td><td class="num">11</td><td><span class="chip al">AL</span></td></tr>
+<tr><td>Neemias Queta</td><td>BOS</td><td class="num">1,0</td><td class="num">20,2</td><td class="num">48</td><td class="num">89</td><td class="num pos">-41</td><td class="num">-</td><td><span class="chip flyer">FLYER</span></td></tr>
+<tr><td>Cason Wallace</td><td>OKC</td><td class="num">1,0</td><td class="num">14,6</td><td class="num">70</td><td class="num">128</td><td class="num pos">-58</td><td class="num">8</td><td><span class="chip flyer">FLYER</span></td></tr>
+</tbody></table></div>
+<p class="meta">ADİL burada şu anlama gelir: model ve format farkı alımı destekliyor ama mock fiyatı farkı kapattı ya da uzman sınırı düşük. Gobert: uzmanların son notu onu daha çok points ligi hedefi görüyor; AL sadece model ve format farkına dayanıyor. Queta ve Cason Wallace modelin aykırı değerleri; uzmanlar Queta'yı 90-110. seçim, Wallace'ı 1 dolarlık oyuncu görüyor.</p>
+
+<article class="player"><div class="head"><h3>Dyson Daniels <span class="meta">ATL · G,F</span></h3>
+<div class="chips"><span class="chip al">AL</span></div><span class="score">●●●●●</span></div>
+<div class="prices"><span>Bizim <b>$30</b></span><span>Piyasa <b>$6</b></span><span>9-cat sıra <b>16</b></span><span>Points sıra <b>40</b></span><span>Format farkı <b>-24</b></span><span>En fazla <b>$22</b></span></div>
+<p>Üç kaynağın üçü aynı yönde. Modelimiz onu 16. sırada görüyor, top çalmada çok büyük (z 4,88). Format farkı -24: points listesinde aşağıda, bu yüzden Yahoo ortalaması sadece 4,4 dolar. Uzmanlar top çalmanın 2,3 ile 3 arasına döneceğini ve üçlüğünün düzeleceğini söylüyor, 20 doların üstünü bekliyor; mock'ta 17 dolara gitti ve Josh bunu "muazzam değer" dedi. Zayıf yanı serbest atış yüzdesi (yüzde 63,1), ama az atış attığı için zararı sınırlı. En fazla 22 dolar: uzmanın 20 artı payı, bizim 30'un çok altında, çünkü bizim 30 model aykırısı olarak işaretli.</p></article>
+
+<article class="player"><div class="head"><h3>Derrick White <span class="meta">BOS · G</span></h3>
+<div class="chips"><span class="chip al">AL</span></div><span class="score">●●●●●</span></div>
+<div class="prices"><span>Bizim <b>$28</b></span><span>Piyasa <b>$14</b></span><span>9-cat sıra <b>26</b></span><span>Points sıra <b>50</b></span><span>Format farkı <b>-24</b></span><span>En fazla <b>$24</b></span></div>
+<p>Model, format farkı ve uzman aynı yönde. Josh onu auction'da 20'lerin ortasında görüyor; mock'ta 14 dolara gitmesine "inanılmaz çalıntı" dedi. Yahoo ortalaması 10,2, ESPN 18,0: bizim Yahoo odasının çapası düşük olacak. Uzmanlar üçüncü seçenek olarak kullanımının düşeceğini ama saha içi isabetinin artacağını bekliyor. En fazla 24 dolar: uzmanın 20'lerin ortası değerinin hemen altı.</p></article>
+
+<article class="player"><div class="head"><h3>Nickeil Alexander-Walker <span class="meta">ATL · G</span></h3>
+<div class="chips"><span class="chip al">AL</span></div><span class="score">●●●●○</span></div>
+<div class="prices"><span>Bizim <b>$24</b></span><span>Piyasa <b>$7</b></span><span>9-cat sıra <b>35</b></span><span>Points sıra <b>49</b></span><span>Format farkı <b>-14</b></span><span>En fazla <b>$20</b></span></div>
+<p>Uzmanlar onu kategori liginde ilk 50, Josh muhtemelen ilk 40 görüyor ve 20'lerin ortası değer veriyor. Mock'ta 14 dolara gitti. Points liginde değeri ancak ADP'sine eşit, bu da piyasayı aşağı çekiyor. Uyarı: geçen sezon sonundaki şut yüzdeleri sürmeyecek, uzmanlar All-Star öncesi çizgisini baz alıyor. En fazla 20 dolar: bizim 24 ile mock 14'ün arası.</p></article>
+
+<article class="player"><div class="head"><h3>Jalen Brunson <span class="meta">NYK · G</span></h3>
+<div class="chips"><span class="chip tuzak">FORMAT TUZAĞI</span></div><span class="score">●●○○○</span></div>
+<div class="prices"><span>Bizim <b>$22</b></span><span>Piyasa <b>$33</b></span><span>9-cat sıra <b>42</b></span><span>Points sıra <b>15</b></span><span>Format farkı <b>+27</b></span><span>En fazla <b>$21</b></span></div>
+<p>Points listesinde 15., bizim 9-cat listede 42. ESPN ortalama maliyeti 42,9 dolar, açık bir points etkisi. Uzmanlar onu kategori liginde dördüncü tur oyuncusu görüyor ve Yahoo ADP'sini çok yüksek buluyor. Knicks'in sezon başında yıldızların dakikalarını koruması bekleniyor. Josh mock'ta 19'a kadar çıktı, 20'ye gitti. Erken aday göster, oda ödesin. En fazla 21 dolar: bizim 22'nin hemen altı.</p></article>
+
+<article class="player"><div class="head"><h3>Alperen Sengun <span class="meta">HOU · F,C</span></h3>
+<div class="chips"><span class="chip tuzak">FORMAT TUZAĞI</span></div><span class="score">●●○○○</span></div>
+<div class="prices"><span>Bizim <b>$21</b></span><span>Piyasa <b>$33</b></span><span>9-cat sıra <b>45</b></span><span>Points sıra <b>14</b></span><span>Format farkı <b>+31</b></span><span>En fazla <b>$24</b></span></div>
+<p>Kaynaklar ayrışıyor. Modelimiz ve format farkı onu şişmiş gösteriyor: serbest atışı kötü (z -2,11), top kaybı yüksek. Uzmanlar ise ona yaklaşık 30 dolar veriyor ve ADP'sini makul buluyor. Bizi model tarafına iten iki uzman notu var: asistlerinin 5 ile 5,5 arasına düşmesi bekleniyor ve playoff haftalarında sadece 10 maçı var. En fazla 24 dolar: bizim 21 artı küçük bir pay; sadece punt FT kuruyorsan biraz daha fazla.</p></article>
+
+<article class="player"><div class="head"><h3>Paolo Banchero <span class="meta">ORL · F</span></h3>
+<div class="chips"><span class="chip tuzak">FORMAT TUZAĞI</span></div><span class="score">●○○○○</span></div>
+<div class="prices"><span>Bizim <b>$11</b></span><span>Piyasa <b>$16</b></span><span>9-cat sıra <b>89</b></span><span>Points sıra <b>24</b></span><span>Format farkı <b>+65</b></span><span>En fazla <b>$12</b></span></div>
+<p>Listedeki en büyük format farkı. Points'te 24., bizde 89. Uzmanlar onu kategori liginde 40'lar ile 50'lerin ortası arasında adil görüyor ve piyasa fiyatını kategori için biraz yüksek buluyor. Yani uzman bizim modelden daha olumlu ama o da "fırsat" demiyor. Mock'ta 19 dolara gitti. En fazla 12 dolar: bizim 11 artı 1.</p></article>
+</section>
+
+<section class="prose" id="punt">
+<h2>6. Auction'da punt FT</h2>
+<p>Punt, bilerek bir kategoriden vazgeçip diğerlerinde güçlenmektir. Auction'da punt FT'nin avantajı şu: kötü serbest atış atan oyuncuları oda nadiren kovalar, bu yüzden ucuz kalırlar (punt-ft-targets). Bizim modelin Minus-1 ölçüsü her oyuncunun en kötü kategorisini düşürür; tam z-score ise düşürmez. İkisi arasındaki büyük fark, oyuncunun tek bir çok kötü kategorisi olduğunu gösterir.</p>
+<p>Giannis bunun en açık örneği. Minus-1 ona 41,4 dolar veriyor, çünkü serbest atışını (yüzde 64,4, maç başına 10,6 deneme, z -5,87) düşürüyor. Tam z-score ona sadece 20,4 dolar veriyor. Piyasa 59,7, mock 58, uzman yaklaşık 60. Giannis'i 58 dolara almak ancak punt FT kurarsan mantıklı; kurmazsan pahalı.</p>
+<p>Daha ucuz yol: Giannis olmadan punt FT çekirdeği. Rudy Gobert (piyasa 5,4, bizim 25,5, serbest atış z -3,19), Walker Kessler (15,9 ve 29,1, z -2,40), Evan Mobley (22,4 ve 28,9, z -2,19), Ausar Thompson (2,8 ve 19,6, z -2,22), Dyson Daniels ve Donovan Clingan. Bunların hepsi bizim sıramızda ilk 50'de ve piyasada çok daha aşağıda.</p>
+<div class="note warn"><b>İki uyarı.</b> Birincisi, uzman: "10 dolarlık oyuncuya build'ine uyduğu için 25 vermek değer değildir." Punt değerini fiyat olarak ödeme. Kessler bunun örneği: Josh 15'ten fazla vermez, mock'ta 26'ya gitti, bizim model 29 diyor; bu çelişki yüzünden ADİL. İkincisi, serbest atış puan, üçlük ve asistle bağlantılı. Sadece kötü serbest atışçı alırsan dört kategori bırakırsın.</div>
+<h3>D. Punt FT örneği: Giannis + ucuz uzunlar</h3>
+<div class="tbl"><table>
+<thead><tr><th>Oyuncu</th><th>Takım</th><th>Poz</th><th class="num">Piyasa</th><th class="num">Mock</th><th class="num">Plan</th><th class="num">Bizim</th><th class="num">FT z</th></tr></thead>
+<tbody>
+<tr><td>Giannis Antetokounmpo</td><td>MIA</td><td>F,C</td><td class="num">59,7</td><td class="num">58</td><td class="num">58</td><td class="num">41,4</td><td class="num zn2">-5,87</td></tr>
+<tr><td>Evan Mobley</td><td>CLE</td><td>F,C</td><td class="num">22,4</td><td class="num">27</td><td class="num">27</td><td class="num">28,9</td><td class="num zn2">-2,19</td></tr>
+<tr><td>Jalen Duren</td><td>DET</td><td>C</td><td class="num">19,5</td><td class="num">19</td><td class="num">19</td><td class="num">29,0</td><td class="num zn1">-0,98</td></tr>
+<tr><td>Dyson Daniels</td><td>ATL</td><td>G,F</td><td class="num">6,2</td><td class="num">17</td><td class="num">17</td><td class="num">29,7</td><td class="num zn2">-1,12</td></tr>
+<tr><td>Derrick White</td><td>BOS</td><td>G</td><td class="num">14,1</td><td class="num">14</td><td class="num">14</td><td class="num">27,9</td><td class="num z1">0,80</td></tr>
+<tr><td>Nickeil Alexander-Walker</td><td>ATL</td><td>G</td><td class="num">6,6</td><td class="num">14</td><td class="num">14</td><td class="num">24,3</td><td class="num z1">0,69</td></tr>
+<tr><td>Rudy Gobert</td><td>MIN</td><td>C</td><td class="num">5,4</td><td class="num">-</td><td class="num">14*</td><td class="num">25,5</td><td class="num zn2">-3,19</td></tr>
+<tr><td>Jaden McDaniels</td><td>MIN</td><td>F</td><td class="num">1,6</td><td class="num">11</td><td class="num">11</td><td class="num">17,2</td><td class="num">0,28</td></tr>
+<tr><td>Kel'el Ware</td><td>MIL</td><td>C</td><td class="num">4,0</td><td class="num">-</td><td class="num">10*</td><td class="num">24,0</td><td class="num zn1">-0,55</td></tr>
+<tr><td>Mikal Bridges</td><td>NYK</td><td>F</td><td class="num">5,0</td><td class="num">10</td><td class="num">10</td><td class="num">19,0</td><td class="num">0,15</td></tr>
+<tr><td>Neemias Queta</td><td>BOS</td><td>C</td><td class="num">1,0</td><td class="num">-</td><td class="num">5*</td><td class="num">20,2</td><td class="num zn1">-0,75</td></tr>
+<tr><td>12. slot: streaming</td><td></td><td></td><td class="num"></td><td class="num"></td><td class="num">1</td><td class="num"></td><td class="num"></td></tr>
+<tr><td><b>Toplam</b></td><td></td><td></td><td class="num"><b>145,5</b></td><td class="num"></td><td class="num"><b>200</b></td><td class="num"><b>287,1</b></td><td class="num"></td></tr>
+</tbody></table></div>
+<p>Kategori profili (yukarıdaki tabloda D satırı): saha içi isabet +13,9, ribaund +11,6, blok +10,8, top çalma +5,8, sayı +4,0. Serbest atış -12,7 ve üçlük -4,1. Yani bu takım fiilen serbest atış ve üçlüğü birlikte bırakır, asist ve top kaybında başa baş oynar. Haftalık hedef: saha içi isabet, ribaund, blok, top çalma ve sayıyı alıp 5-4 kazanmak. Uzman kuralı: Giannis'ten sonraki üç alımın ikisi asist, üçlük ya da top çalma getirmeli. Burada White ve Alexander-Walker bu işi yapıyor.</p>
+<div class="note"><b>Ne zaman punt FT'ye geçilir (çıkarım).</b> Giannis 55 doların altında kalırsa ya da oda Gobert, Mobley ve Daniels'ı plan fiyatlarının altında bırakırsa. Punt kararını draft'tan önce değil, odada hangi oyuncuların ucuz kaldığını görünce ver. Giannis için En fazla 55 dolar: uzman ve mock 58-60, biz sadece punt yaparsak bu bölgeye gireriz ve 55 üstünde fazla bütçe kilitlenir.</div>
+</section>
+
+<section class="prose" id="liste">
+<h2>7. Draft günü listesi</h2>
+<p>Draft'tan önce:</p>
+<ol>
+<li>Kaynakları yenile ve son günlerde Yahoo ortalama maliyetlerini tekrar kontrol et.</li>
+<li>30-40 hedef için En fazla fiyatını yaz. Hedefleri isme göre değil, profile göre grupla: "top çalan kanat", "blok yapan merkez", "üçlük ve serbest atış guard".</li>
+<li>Her grup için bir yedek yaz. Karar ağacı: hedefi kaçırırsan para bir sonraki slota geçer.</li>
+<li>Bütçeyi böl: yaklaşık 185 dolar 11 çekirdeğe, yaklaşık 14 dolar oynama payı, 1 dolar streaming slotu.</li>
+<li>Aday gösterme kuyruğunu sırala: üstte format tuzakları ve almayacağın yıldızlar, sonra ucuz rookie isimleri.</li>
+<li>11 rakip için takip tablosu hazırla: kalan para, boş slot, en fazla teklif, dolu pozisyonlar.</li>
+<li>Bir mock odada iki şeyi kontrol et: teklif sayacı her teklifte yeniden başlıyor mu, süre dolunca kim aday gösteriliyor.</li>
+</ol>
+<p>Draft sırasında:</p>
+<ol>
+<li>İlk 10 satışı listendeki fiyatlarla karşılaştır. Oda sıcak mı soğuk mu karar ver.</li>
+<li>Sıcak odada: yıldızlara tam fiyat verme, orta banda yönel, sabırlı ol.</li>
+<li>Soğuk odada: düşen bir yıldızı al, tasarrufu karar ağacına aktar.</li>
+<li>En fazla fiyatını aşma. Tek sayılı teklif ver.</li>
+<li>Teklif tarzını değiştir: hızlı, sayacı bekleten, bırakan.</li>
+<li>Her satıştan sonra kendi para / açık çekirdek slot oranını güncelle.</li>
+<li>Geç draft'ta her rakibin en fazla teklifini hesapla: kalan para eksi (boş slot eksi 1).</li>
+<li>1 dolarlık hedefler için tek isme bağlanma, büyük grupla çalış.</li>
+<li>Parayı bitir. Son slot 1 dolarlık streaming slotu.</li>
+</ol>
+<div class="note"><b>En önemli üç karar.</b> Dengeli bir çekirdek kur, ama değer gelirse yıldız al. Format tuzaklarını (Brunson, Sengun, Banchero, Jalen Johnson) erken aday göster ve oda ödesin. Daniels, White ve Alexander-Walker için hazır ol, ama En fazla fiyatlarını aşma.</div>
+</section>
+</main></body></html>

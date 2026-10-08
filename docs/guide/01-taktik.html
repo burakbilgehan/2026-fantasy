@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Bölüm 01 · 9-Cat H2H Taktikleri</title><link rel="stylesheet" href="guide.css"></head>
+<body><main>
+<header class="ep"><div class="eyebrow">Sezon Rehberi 2026-27 · Bölüm 01</div><h1>9-Cat H2H Taktikleri</h1>
+<p class="lede">Haftalık 5-4 nasıl kazanılır, hangi kategori punt edilir, hangi kadro tipi kurulur ve sezon boyunca FAB, 6 hamle, IL ve takaslarla nasıl yönetilir. Hepsi bizim lige göre: 12 takım, günlük kadro, 10 starter, 2 BN, 4 IL, playoff 19-21. haftalar.</p>
+<div class="meta">Veri: kendi projeksiyonumuz (Minus-1, plain) ve piyasa fiyatı, 2026-10-07. Uzman notları: docs/knowledge.</div></header>
+<!-- audio --><div class="audio"><span class="eyebrow">Sesli bölüm</span><audio controls preload="none" src="audio/01-taktik.mp3"></audio></div><!-- /audio -->
+
+
+
+
+
+<nav class="toc"><a href="#h2h">1. Haftalık 5-4</a><a href="#punt">2. Punt</a><a href="#build">3. Kadro tipleri</a><a href="#sezon">4. Sezon içi</a><a href="#baglam">5. Geçen sezonu okumak</a><a href="#ozet">Özet</a></nav>
+
+<section class="prose" id="h2h">
+<h2>1. H2H kategoriler nasıl kazanılır</h2>
+<p>Her hafta tek bir rakiple 9 kategoride karşılaşıyoruz: FG%, FT%, 3PM, PTS, REB, AST, ST, BLK ve TO. Her kategori ayrı bir yarış. Haftayı almak için 5 kategori yeter. Tipik bir sonuç 5-4-0. Bu yüzden amaç 9 kategoride ortalamanın biraz üstünde olmak değil. Amaç 5 ya da 6 kategoride büyük farkla önde olmak.</p>
+<p>Uzman notlarına göre marj meselesi sayısal: bir kategoride yaklaşık 0,7 z-skor üstünlük haftaların sadece yaklaşık %55'ini kazandırıyor. Yaklaşık 2,5 z-skor üstünlük ise yaklaşık %85'ini kazandırıyor (category-stability-and-margins). Yani küçük üstünlük yazı tura, büyük üstünlük garanti. Seçtiğin kategorilerde tampon kur.</p>
+</section>
+
+<section class="prose">
+<h3>Kategoriler aynı derecede güvenilir değil</h3>
+<p>Uzmanların yıldan yıla korelasyon rakamları kategorileri iki gruba ayırıyor. Sabit grup: PTS, REB, AST. Bir uzman bunları 0,89 korelasyonla veriyor. Oynak grup: ST (0,74), FG% (0,75) ve atış yüzdeleri genelde. Serbest atış yüzdesi 0,49, üçlük yüzdesi 0,45 korelasyonla en oynak atış ölçüsü. Ama üçlük denemesi 0,88, isabetli üçlük 0,86 ile sabit. Yani hacim kalıcı, isabet şans.</p>
+<p>BLK konusunda uzmanlar ayrışıyor. Biri BLK, 3PM ve TO'yu 0,86-0,89 ile sabit grupta sayıyor. Diğeri blokları yıldan yıla çok oynak buluyor. Bizim kural: blok için PTS, REB ve AST kadar ödeme yapma.</p>
+<p>Pratik sonuç (uzman görüşü, bizim lige uyarlanmış): 200 dolarının büyük kısmı PTS, REB ve AST'ye gitsin. Değeri sadece ST, yüzdeler ya da 3PM'den gelen oyuncuya prim ödeme. 3PM ve ST waiver'da kolay bulunur. AST ve PTS geç turlarda ve waiver'da çok zor bulunur.</p>
+</section>
+
+<div class="tbl"><table><thead><tr><th>Kategori</th><th>İstikrar (uzman)</th><th>Waiver'dan bulunur mu</th><th>Punt için</th></tr></thead><tbody>
+<tr><td>PTS</td><td>Sabit (0,89 civarı)</td><td>Zor</td><td>Kötü punt</td></tr>
+<tr><td>REB</td><td>Sabit (0,89 civarı)</td><td>Orta, yedek pivotlarla</td><td>Nadir punt</td></tr>
+<tr><td>AST</td><td>Sabit (0,89 civarı)</td><td>Çok zor</td><td>Kötü punt, erken karar ister</td></tr>
+<tr><td>3PM</td><td>Hacim sabit (0,86), %3P oynak (0,45)</td><td>Kolay</td><td>Ucuz punt</td></tr>
+<tr><td>ST</td><td>Oynak (0,74)</td><td>Kolay</td><td>İyi punt</td></tr>
+<tr><td>BLK</td><td>Uzmanlar ayrışıyor</td><td>Orta, yedek pivotlarla</td><td>İyi punt ama REB ve FG% ile birlikte gider</td></tr>
+<tr><td>FG%</td><td>Yıldan yıla 0,75; haftadan haftaya en oynak</td><td>Orta</td><td>İyi punt</td></tr>
+<tr><td>FT%</td><td>Yıldan yıla en oynak (0,49)</td><td>Orta</td><td>İyi punt</td></tr>
+<tr><td>TO</td><td>Kullanımla gelir</td><td>Kendiliğinden düşer</td><td>En kolay punt</td></tr>
+</tbody></table></div>
+
+<section class="prose">
+<h3>Yüzdeler hacimle ağırlıklı oran</h3>
+<p>Bizim ligde FG% ve FT% takım toplamı: toplam isabet bölü toplam deneme. Bir oyuncunun etkisi iki şeye bağlı. Kaç deneme yaptığı ve yüzdesinin takım ortalamasından ne kadar uzak olduğu (percentage-anchors-and-liabilities). Düşük hacimde iyi yüzde neredeyse hiçbir şey değiştirmez. Aşağıdaki tablo bunu gösteriyor. Curry %92,5 ile en iyi atıcı, ama maçta 4,5 deneme yapıyor. Booker %88,4 atıyor ama 7,4 deneme yapıyor. Bu yüzden Booker'ın FT z değeri Curry'ninkinden yüksek. Giannis maçta 10,6 serbest atış deneyip %64,4 atıyor. FT z değeri -5,87, havuzun en kötüsü.</p>
+</section>
+
+<div class="tbl"><table><thead><tr><th>Oyuncu</th><th>Takım</th><th class="num">Yüzde</th><th class="num">Deneme / maç</th><th>Kategori</th><th class="num">z</th></tr></thead><tbody>
+<tr><td>Giannis Antetokounmpo</td><td>MIA</td><td class="num">%64,4</td><td class="num">10,6</td><td>FT%</td><td class="num zn2">-5,87</td></tr>
+<tr><td>Rudy Gobert</td><td>MIN</td><td class="num">%59,8</td><td class="num">4,0</td><td>FT%</td><td class="num zn2">-3,19</td></tr>
+<tr><td>Stephen Curry</td><td>GSW</td><td class="num">%92,5</td><td class="num">4,5</td><td>FT%</td><td class="num z2">+2,10</td></tr>
+<tr><td>Devin Booker</td><td>PHX</td><td class="num">%88,4</td><td class="num">7,4</td><td>FT%</td><td class="num z2">+2,49</td></tr>
+<tr><td>Nikola Jokić</td><td>DEN</td><td class="num">%56,8</td><td class="num">18,2</td><td>FG%</td><td class="num z2">+2,87</td></tr>
+<tr><td>Jalen Duren</td><td>DET</td><td class="num">%64,7</td><td class="num">11,8</td><td>FG%</td><td class="num z2">+3,55</td></tr>
+<tr><td>LaMelo Ball</td><td>MIN</td><td class="num">%41,8</td><td class="num">18,2</td><td>FG%</td><td class="num zn2">-1,82</td></tr>
+<tr><td>Trae Young</td><td>WAS</td><td class="num">%42,4</td><td class="num">16,2</td><td>FG%</td><td class="num zn2">-1,72</td></tr>
+</tbody></table></div>
+
+<section class="prose">
+<p>İki pratik kural. Birincisi: yakın bir haftanın son gününde yüzde liderliğini korumak için yüksek hacimli kötü atıcıyı kenara çekmeyi düşün. Kadro günlük olduğu için bu mümkün. İkincisi: FT%'yi gerileme ile fiyatla. Geçen sezonki ani FT% sıçraması büyük ihtimalle kalıcı değil, ani düşüş de öyle. Sadece uç vakalar kesin, Giannis gibi.</p>
+</section>
+
+<section class="prose">
+<h3>Maç sayısı ve streaming</h3>
+<p>Sayma kategorilerinde haftalık toplamı maç sayısı belirler. Uzmanlar bir streaming slotunun değerini yaklaşık 100. oyuncu, biri 100-110 arası olarak veriyor (streaming-and-waivers). Bizim ligde 144 oyuncu draft ediliyor, yani serbest havuz yaklaşık 145. sıradan başlıyor. Her gün maçı olan oyuncu ekleyerek o havuzdan ilk 100 seviyesinde üretim çıkarabilirsin.</p>
+<p>Bizim kurallar: günlük kadro, haftada en fazla 6 ekleme, FAB her gün işleniyor. Hafta sonunda kullanılmayan her ekleme kaybedilmiş maçtır (çıkarım, uzman notlarıyla uyumlu). 2 maçlık hafta yüzdeleri oynatır ve sayma kategorilerinde kaybettirir. Back-to-back sayısı takımlar arasında 13-16 aralığında, yani draftta önemsiz. İstisna: sakatlıktan dönen oyuncular, çünkü onlar back-to-back'in bir maçını oturur (two-and-five-game-weeks).</p>
+<p class="note">Kasım 30 ile Aralık 13 arası NBA Cup haftaları Yahoo'da tek 14 günlük eşleşme. 6 ekleme sınırının o dönemde haftalık mı eşleşme başına mı sayıldığı notlarda yok. Lig ayarlarından kontrol et.</p>
+</section>
+
+<section class="prose" id="punt">
+<h2>2. Punt: ne, ne zaman, hangisi</h2>
+<p>Punt, bir kategoriyi bilerek bırakmak. Fantasy değeri sınırlı. 9 kategori yerine 8'e yayarsan, kalan 8'de daha güçlü olursun. Punt kötü olmaya çalışmak değil. O kategoriyi yok saymak. Bazı haftalar şansla yine kazanırsın.</p>
+<p>Ne zaman? Uzmanların ortak görüşü: auction'dan önce punt seçme. Erken bölümde değer al. Bir punt kendiliğinden ortaya çıkarsa ona yaslan (how-to-punt). Giannis almak seni punt FT'ye zorlamaz. Ama Giannis'i aldıysan, kötü serbest atıcıların maliyeti sana düşer, çünkü onların zayıf yönü artık seni etkilemiyor.</p>
+<p>Kaç kategori? Bizim ligde 12 takımdan 8'i playoffa giriyor. Playoff üç hafta, 8 takım: çıkarımım şu, kimse bye almıyor, yani 19. haftadaki 2 maçlık hafta da emilemez. Playoff'a girmek görece kolay, ama üç haftayı da kazanmak gerekiyor. Uzmanlara göre her punt hacmi azaltır ve varyansı artırır. 12 takım ve 9 kategori bir ya da iki punt'u kaldırır, dört ya da beş kategorilik punt'u kaldırmaz.</p>
+<p>Hangi kategoriler? İyi punt: oynak kategoriler. TO en kolayı, sonra FT%, FG%, ST, BLK ve 3PM. Kötü punt: PTS ve AST, çünkü sabit ve yüksek hacimli. Onları bırakırsan neredeyse her hafta kaybedersin.</p>
+<p class="note warn">Punt sıralamaları yanıltır. Senin zayıf kategorini siler, ama diğer 11 takımın zayıf kategorisini silmez. Uzman kuralı: bir oyuncuya punt sıralamasının şişirdiği fiyatı değil, normal 9-cat değerini teklif et (how-to-punt).</p>
+</section>
+
+<section class="prose">
+<h3>Minus-1 ve tam z farkı punt adayını nasıl bulur</h3>
+<p>Bizim iki fiyatımız var. Tam z-skor fiyatı oyuncunun 9 kategorisinin hepsini sayar. Minus-1 fiyatı her oyuncunun kendi en kötü kategorisini düşer. İki fiyat da toplamı aynı olacak şekilde ölçekleniyor (ilk 144 için 2.400 dolar). Bu yüzden fark iki yöne gider.</p>
+<p>Büyük pozitif fark: oyuncunun tek bir çok kötü kategorisi var. Minus-1 o deliği siliyor ve fiyat sıçrıyor. Bu oyuncu bir punt çapası adayı. Giannis'te fark 21 dolar: Minus-1 ile 41,4 dolar ve 5. sıra, tam z ile 20,4 dolar ve 47. sıra. Gobert'te 9 dolar, Trae Young'da 7,8 dolar, Cade'de 7,5 dolar.</p>
+<p>Negatif fark: oyuncunun belirgin zayıf yeri yok. Minus-1 ondan çok az şey siliyor, diğer oyuncular daha çok kazanıyor, o yüzden göreceli olarak düşüyor. Bu oyuncular her kadro tipine uyar: Kawhi Leonard, Jaden McDaniels, Jalen Williams, Desmond Bane, Trey Murphy III, Okongwu. Bölüm 3'teki "dengeli kadro" bunlarla kurulur.</p>
+<p>Okuma kuralı (çıkarım): o kategoriyi punt eden takımsan Minus-1 senin tavanın. Dengeli takımsan tam z fiyatı senin tavanın. Odadaki fiyat ise ikisinden de farklı olabilir.</p>
+</section>
+
+<div class="tbl"><table><thead><tr><th>Oyuncu</th><th>Takım</th><th class="num">Bizim (Minus-1)</th><th class="num">Sıra</th><th class="num">Tam z</th><th class="num">Sıra</th><th class="num">Fark</th><th>En kötü kategori</th><th class="num">z</th><th class="num">Piyasa</th></tr></thead><tbody>
+<tr><td>Giannis Antetokounmpo</td><td>MIA</td><td class="num">$41,4</td><td class="num">5</td><td class="num">$20,4</td><td class="num">47</td><td class="num pos">21,0</td><td>FT%</td><td class="num zn2">-5,87</td><td class="num">$59,7</td></tr>
+<tr><td>Rudy Gobert</td><td>MIN</td><td class="num">$25,5</td><td class="num">30</td><td class="num">$16,5</td><td class="num">63</td><td class="num pos">9,0</td><td>FT%</td><td class="num zn2">-3,19</td><td class="num">$5,4</td></tr>
+<tr><td>Trae Young</td><td>WAS</td><td class="num">$27,2</td><td class="num">27</td><td class="num">$19,4</td><td class="num">52</td><td class="num pos">7,8</td><td>TO</td><td class="num zn2">-3,00</td><td class="num">$32,5</td></tr>
+<tr><td>Cade Cunningham</td><td>DET</td><td class="num">$38,4</td><td class="num">7</td><td class="num">$30,9</td><td class="num">15</td><td class="num pos">7,5</td><td>TO</td><td class="num zn2">-2,93</td><td class="num">$62,4</td></tr>
+<tr><td>Luka Dončić</td><td>LAL</td><td class="num">$48,2</td><td class="num">4</td><td class="num">$42,1</td><td class="num">4</td><td class="num pos">6,1</td><td>TO</td><td class="num zn2">-2,64</td><td class="num">$70,0</td></tr>
+<tr><td>Walker Kessler</td><td>LAL</td><td class="num">$29,1</td><td class="num">18</td><td class="num">$23,7</td><td class="num">36</td><td class="num pos">5,4</td><td>FT%</td><td class="num zn2">-2,40</td><td class="num">$15,9</td></tr>
+<tr><td>Ausar Thompson</td><td>DET</td><td class="num">$19,6</td><td class="num">50</td><td class="num">$15,3</td><td class="num">70</td><td class="num pos">4,3</td><td>FT%</td><td class="num zn2">-2,22</td><td class="num">$2,8</td></tr>
+<tr><td>Evan Mobley</td><td>CLE</td><td class="num">$28,9</td><td class="num">21</td><td class="num">$24,7</td><td class="num">31</td><td class="num pos">4,2</td><td>FT%</td><td class="num zn2">-2,19</td><td class="num">$22,4</td></tr>
+<tr><td>Alperen Sengun</td><td>HOU</td><td class="num">$21,2</td><td class="num">45</td><td class="num">$17,4</td><td class="num">59</td><td class="num pos">3,8</td><td>FT%</td><td class="num zn2">-2,11</td><td class="num">$32,5</td></tr>
+<tr><td>Kawhi Leonard</td><td>TOR</td><td class="num">$28,6</td><td class="num">23</td><td class="num">$32,7</td><td class="num">11</td><td class="num neg">-4,1</td><td>BLK</td><td class="num zn1">-0,40</td><td class="num">$28,1</td></tr>
+<tr><td>Jaden McDaniels</td><td>MIN</td><td class="num">$17,2</td><td class="num">61</td><td class="num">$21,3</td><td class="num">46</td><td class="num neg">-4,1</td><td>AST</td><td class="num zn1">-0,40</td><td class="num">$1,6</td></tr>
+<tr><td>Jalen Williams</td><td>OKC</td><td class="num">$21,5</td><td class="num">43</td><td class="num">$25,5</td><td class="num">29</td><td class="num neg">-4,0</td><td>TO</td><td class="num zn1">-0,41</td><td class="num">$20,0</td></tr>
+<tr><td>Desmond Bane</td><td>ORL</td><td class="num">$18,7</td><td class="num">57</td><td class="num">$22,4</td><td class="num">41</td><td class="num neg">-3,7</td><td>REB</td><td class="num zn1">-0,47</td><td class="num">$10,4</td></tr>
+<tr><td>Trey Murphy III</td><td>NOP</td><td class="num">$20,1</td><td class="num">49</td><td class="num">$23,4</td><td class="num">39</td><td class="num neg">-3,3</td><td>FG%</td><td class="num zn1">-0,56</td><td class="num">$16,5</td></tr>
+<tr><td>Onyeka Okongwu</td><td>ATL</td><td class="num">$19,2</td><td class="num">51</td><td class="num">$23,5</td><td class="num">38</td><td class="num neg">-4,3</td><td>FT%</td><td class="num">-0,35</td><td class="num">$7,7</td></tr>
+</tbody></table></div>
+
+<section class="prose">
+<p>Projeksiyonumuza göre ilk 144'te en kötü kategorinin dağılımı şöyle: TO 37, REB 19, FG% 18, 3PM 17, FT% 16, AST 15, BLK 10, ST 9, PTS 3. TO açık ara en sık zayıf nokta. Bu, uzmanların "punt TO en doğal punt" görüşüyle örtüşüyor: yüksek kullanımlı her yıldız top kaybeder.</p>
+<p class="note warn">Model notu: 3PM z değerinin bir tabanı var. Hiç üçlük atmayan pivotlar aynı -1,73 değerinde toplanıyor (Duren, Gobert, Allen, Zubac, Hartenstein, Gafford, Poeltl). Minus-1 bu tabanı düşüyor. Bu yüzden modelimiz üçlüksüz pivotları piyasadan çok daha pahalı görüyor (Queta 20,2 dolar, piyasa 1,0). Bu, modelimizle odanın en büyük anlaşmazlık kaynağı. Bir kısmı gerçek değer, bir kısmı model yapısı.</p>
+</section>
+
+<section class="prose">
+<h3>Punt FT%</h3>
+<p>Bizim ligde punt FT genelde Giannis ile başlar. Uzmanlara göre saf punt FT başarısız olur, çünkü serbest atış PTS, 3PM ve AST ile bağlıdır. Sadece kötü serbest atıcı alırsan dört kategori bırakmış olursun. Kural: punt edilen bir guard istatistiğinden sonraki üç alımın ikisi AST, 3PM ya da ST getiren oyuncu olsun (punt-ft-targets). Aşağıdaki hedeflerin hiçbiri ciddi üçlük hacmi getirmiyor. Üçlüğü iyi serbest atıcılardan almak zorundasın.</p>
+<p>Başlangıçta oynayan kötü serbest atıcı, bilerek faul taktiğinden kısmen korunur, çünkü maçın başında takım faulü yok. Bu yüzden Gobert gibi starter pivotlar yedek pivotlardan daha güvenli.</p>
+</section>
+<div class="tbl"><table><thead><tr><th>Oyuncu</th><th>Takım</th><th>Poz</th><th>Karar</th><th>Hedef</th><th class="num">Bizim</th><th class="num">Tam z</th><th class="num">Piyasa</th><th class="num">Fark</th><th class="num">9-cat sıra</th><th class="num">Format farkı</th><th class="num">FT% z</th><th class="num">En fazla</th><th>Not</th></tr></thead><tbody>
+<tr><td>Giannis Antetokounmpo</td><td>MIA</td><td>F,C</td><td><span class="chip adil">ADİL</span></td><td><span class="score">●●●○○</span></td><td class="num">$41,4</td><td class="num">$20,4</td><td class="num">$59,7</td><td class="num neg">-18,3</td><td class="num">5</td><td class="num">+1</td><td class="num zn2">-5,87</td><td class="num">$60</td><td class="wrap">Punt FT çapası. FG% z +4,2, PTS ve REB güçlü. Uzman: 58-62 dolar, sadece punt FT planıyla adil. Tam z fiyatı 20.</td></tr>
+<tr><td>Evan Mobley</td><td>CLE</td><td>F,C</td><td><span class="chip al">AL</span></td><td><span class="score">●●●●○</span></td><td class="num">$28,9</td><td class="num">$24,7</td><td class="num">$22,4</td><td class="num pos">6,5</td><td class="num">21</td><td class="num">-1</td><td class="num zn2">-2,19</td><td class="num">$27</td><td class="wrap">FT %66,5, BLK z +2,2. Uzman: 20'lerin ortası ile üstü arası adil. Cleveland final haftası 2 maç.</td></tr>
+<tr><td>Rudy Gobert</td><td>MIN</td><td>C</td><td><span class="chip al">AL</span></td><td><span class="score">●●●●○</span></td><td class="num">$25,5</td><td class="num">$16,5</td><td class="num">$5,4</td><td class="num pos">20,1</td><td class="num">30</td><td class="num">-22</td><td class="num zn2">-3,19</td><td class="num">$11</td><td class="wrap">11,7 REB, %66,4 FG. Uzman profili 8-11 diyor (makale 5-10). Minnesota 20. hafta 2 maç.</td></tr>
+<tr><td>Ausar Thompson</td><td>DET</td><td>G,F</td><td><span class="chip al">AL</span></td><td><span class="score">●●●●○</span></td><td class="num">$19,6</td><td class="num">$15,3</td><td class="num">$2,8</td><td class="num pos">16,8</td><td class="num">50</td><td class="num">-22</td><td class="num zn2">-2,22</td><td class="num">$17</td><td class="wrap">2,0 ST, FT %59,1. Uzman: 15-20 dolar planla. Piyasa onu çok ucuz görüyor.</td></tr>
+<tr><td>Walker Kessler</td><td>LAL</td><td>C</td><td><span class="chip adil">ADİL</span></td><td><span class="score">●●●○○</span></td><td class="num">$29,1</td><td class="num">$23,7</td><td class="num">$15,9</td><td class="num pos">13,2</td><td class="num">18</td><td class="num">-32</td><td class="num zn2">-2,40</td><td class="num">$15</td><td class="wrap">BLK z +3,9. Model 29 diyor çünkü FT düşülüyor; uzman tavanı yaklaşık 15.</td></tr>
+<tr><td>Donovan Clingan</td><td>POR</td><td>C</td><td><span class="chip adil">ADİL</span></td><td><span class="score">●●○○○</span></td><td class="num">$24,2</td><td class="num">$24,0</td><td class="num">$10,0</td><td class="num pos">14,2</td><td class="num">36</td><td class="num">-9</td><td class="num zn2">-1,29</td><td class="num">$9</td><td class="wrap">REB z +2,8, BLK z +2,8. Model 24 diyor; uzmanlar tek haneli dolar diyor.</td></tr>
+<tr><td>Alperen Sengun</td><td>HOU</td><td>F,C</td><td><span class="chip tuzak">FORMAT TUZAĞI</span></td><td><span class="score">●●○○○</span></td><td class="num">$21,2</td><td class="num">$17,4</td><td class="num">$32,5</td><td class="num neg">-11,3</td><td class="num">45</td><td class="num">+31</td><td class="num zn2">-2,11</td><td class="num">$27</td><td class="wrap">Format farkı +31. Pivottan 5,3 AST. Uzman: 30 üstü puan ligi fiyatı. Houston playoffta 10 maç.</td></tr>
+</tbody></table></div>
+
+<section class="prose">
+<h3>Punt TO</h3>
+<p>Üç uzman kaynağı H2H'de TO'yu tamamen yok sayıyor. Sebep basit: TO kullanım formülünün üçte biri. Her ilk tur oyuncusu çok top kaybeder. Ayrıca maç sayısı için streaming yapmak TO'yu kendiliğinden artırır. Az maçlı haftalarda TO'yu zaten kazanırsın (punt-to-targets).</p>
+<p>Bizim kural: düşük TO için asla ekstra ödeme yapma, TO'yu sadece eşit iki oyuncu arasında eşitlik bozucu olarak kullan. Punt TO ile AST ağırlıklı guard'ları ve point forward'ları tam değerle alırsın, çünkü yüksek asist yüksek TO ile gelir.</p>
+</section>
+<div class="tbl"><table><thead><tr><th>Oyuncu</th><th>Takım</th><th>Poz</th><th>Karar</th><th>Hedef</th><th class="num">Bizim</th><th class="num">Tam z</th><th class="num">Piyasa</th><th class="num">Fark</th><th class="num">9-cat sıra</th><th class="num">Format farkı</th><th class="num">TO z</th><th class="num">En fazla</th><th>Not</th></tr></thead><tbody>
+<tr><td>Nikola Jokić</td><td>DEN</td><td>C</td><td><span class="chip adil">ADİL</span></td><td><span class="score">●●●●●</span></td><td class="num">$74,8</td><td class="num">$70,2</td><td class="num">$73,3</td><td class="num pos">1,5</td><td class="num">1</td><td class="num">+0</td><td class="num zn2">-2,31</td><td class="num">$85</td><td class="wrap">TO tek zayıf kategori, 9,9 AST. Uzman: 80-90 dolar bekle.</td></tr>
+<tr><td>Luka Dončić</td><td>LAL</td><td>G</td><td><span class="chip pahali">PAHALI</span></td><td><span class="score">●●●○○</span></td><td class="num">$48,2</td><td class="num">$42,1</td><td class="num">$70,0</td><td class="num neg">-21,8</td><td class="num">4</td><td class="num">+2</td><td class="num zn2">-2,64</td><td class="num">$64</td><td class="wrap">3,9 TO ama 3,9 üçlük ve 32,7 sayı. Uzman tavanı 64; piyasa 70.</td></tr>
+<tr><td>Cade Cunningham</td><td>DET</td><td>G</td><td><span class="chip pahali">PAHALI</span></td><td><span class="score">●●●○○</span></td><td class="num">$38,4</td><td class="num">$30,9</td><td class="num">$62,4</td><td class="num neg">-24,0</td><td class="num">7</td><td class="num">+1</td><td class="num zn2">-2,93</td><td class="num">$45</td><td class="wrap">TO z -2,93, AST z +3,3. Uzman tavanı 45; piyasa 62.</td></tr>
+<tr><td>Austin Reaves</td><td>LAL</td><td>G,F</td><td><span class="chip al">AL</span></td><td><span class="score">●●●●○</span></td><td class="num">$32,2</td><td class="num">$30,6</td><td class="num">$26,3</td><td class="num pos">5,9</td><td class="num">13</td><td class="num">-7</td><td class="num zn2">-1,64</td><td class="num">$36</td><td class="wrap">FT %86,9, 7,5 denemede. Uzman: 30'ların ortası, 40'a yakın dur.</td></tr>
+<tr><td>Trae Young</td><td>WAS</td><td>G</td><td><span class="chip adil">ADİL</span></td><td><span class="score">●●●○○</span></td><td class="num">$27,2</td><td class="num">$19,4</td><td class="num">$32,5</td><td class="num neg">-5,3</td><td class="num">27</td><td class="num">+6</td><td class="num zn2">-3,00</td><td class="num">$32</td><td class="wrap">10,1 AST, 3,9 TO, FG %42,4. Çift punt (FG ve TO) için ideal.</td></tr>
+<tr><td>Josh Giddey</td><td>CHI</td><td>G</td><td><span class="chip adil">ADİL</span></td><td><span class="score">●●●○○</span></td><td class="num">$23,6</td><td class="num">$19,5</td><td class="num">$32,1</td><td class="num neg">-8,5</td><td class="num">40</td><td class="num">+19</td><td class="num zn2">-2,13</td><td class="num">$30</td><td class="wrap">9,2 AST, 8,3 REB, 3,4 TO. Uzman: 29-32 dolar adil.</td></tr>
+<tr><td>Domantas Sabonis</td><td>SAC</td><td>F,C</td><td><span class="chip adil">ADİL</span></td><td><span class="score">●●●○○</span></td><td class="num">$23,6</td><td class="num">$22,4</td><td class="num">$25,7</td><td class="num neg">-2,1</td><td class="num">39</td><td class="num">+25</td><td class="num zn2">-1,48</td><td class="num">$25</td><td class="wrap">Format farkı +25, ama şişme sadece ESPN tarafında (ESPN 39, Yahoo 23). 13,1 REB, 6,4 AST. Uzman: 24-25; 25 üstü ödeme.</td></tr>
+</tbody></table></div>
+
+<section class="prose">
+<h3>Punt FG%</h3>
+<p>FG% haftadan haftaya en çok oynayan kategori. Kazanabileceğin hafta sayısı zaten az, o yüzden bırakmak ucuz. Hedef: hacimli guard ve forvetler. Üçlük, sayı, AST ve FT% getirsinler, ama kötü isabetle (punt-fg-targets). Birçoğu punt TO'ya da uyar. İkisini birlikte bırakıp kalan 7 kategoriden 5'ini hedefleyebilirsin.</p>
+<p>Uyarı: punt FG takımı FT%'ye yaslanır, ve FT% yıldan yıla en oynak kategori. İlk iki haftada takım FT%'ni kontrol et.</p>
+</section>
+<div class="tbl"><table><thead><tr><th>Oyuncu</th><th>Takım</th><th>Poz</th><th>Karar</th><th>Hedef</th><th class="num">Bizim</th><th class="num">Tam z</th><th class="num">Piyasa</th><th class="num">Fark</th><th class="num">9-cat sıra</th><th class="num">Format farkı</th><th class="num">FG% z</th><th class="num">En fazla</th><th>Not</th></tr></thead><tbody>
+<tr><td>Jayson Tatum</td><td>BOS</td><td>F</td><td><span class="chip adil">ADİL</span></td><td><span class="score">●●●●○</span></td><td class="num">$36,9</td><td class="num">$35,8</td><td class="num">$55,5</td><td class="num neg">-18,6</td><td class="num">9</td><td class="num">+3</td><td class="num zn2">-1,03</td><td class="num">$50</td><td class="wrap">FG %45,5 20,4 denemede. 3,3 üçlük, 27,4 sayı. Uzman aralığı 46-55.</td></tr>
+<tr><td>Derrick White</td><td>BOS</td><td>G</td><td><span class="chip al">AL</span></td><td><span class="score">●●●●○</span></td><td class="num">$27,9</td><td class="num">$28,0</td><td class="num">$14,1</td><td class="num pos">13,8</td><td class="num">26</td><td class="num">-24</td><td class="num zn2">-1,27</td><td class="num">$25</td><td class="wrap">FG z -1,3 ama guard için BLK z +1,2. Uzman: 25 altı iyi değer.</td></tr>
+<tr><td>Nickeil Alexander-Walker</td><td>ATL</td><td>G</td><td><span class="chip al">AL</span></td><td><span class="score">●●●●●</span></td><td class="num">$24,3</td><td class="num">$26,5</td><td class="num">$6,6</td><td class="num pos">17,7</td><td class="num">35</td><td class="num">-14</td><td class="num zn1">-0,82</td><td class="num">$20</td><td class="wrap">80 maç, 3,0 üçlük. Uzman: 12-18 iyi fiyat, 20'lerin başına kadar adil.</td></tr>
+<tr><td>Stephen Curry</td><td>GSW</td><td>G</td><td><span class="chip adil">ADİL</span></td><td><span class="score">●●●○○</span></td><td class="num">$28,4</td><td class="num">$29,3</td><td class="num">$29,4</td><td class="num neg">-1,0</td><td class="num">25</td><td class="num">-13</td><td class="num zn1">-0,93</td><td class="num">$28</td><td class="wrap">4,6 üçlük, FT %92,5. Josh tavanı 25; maç sayısı riski.</td></tr>
+<tr><td>James Harden</td><td>CLE</td><td>G</td><td><span class="chip adil">ADİL</span></td><td><span class="score">●●●○○</span></td><td class="num">$26,9</td><td class="num">$23,9</td><td class="num">$22,2</td><td class="num pos">4,7</td><td class="num">28</td><td class="num">-4</td><td class="num zn2">-1,40</td><td class="num">$25</td><td class="wrap">7,8 AST, FT %87,7. Uzman: 20'lerin başı ile ortası. Final haftası 2 maç.</td></tr>
+<tr><td>LaMelo Ball</td><td>MIN</td><td>G</td><td><span class="chip adil">ADİL</span></td><td><span class="score">●●●○○</span></td><td class="num">$21,9</td><td class="num">$19,4</td><td class="num">$27,7</td><td class="num neg">-5,8</td><td class="num">41</td><td class="num">-1</td><td class="num zn2">-1,82</td><td class="num">$31</td><td class="wrap">FG %41,8 18,2 denemede. Uzman 30-33; 20. hafta 2 maç, esneme.</td></tr>
+<tr><td>Brandon Miller</td><td>CHA</td><td>F</td><td><span class="chip al">AL</span></td><td><span class="score">●●●●○</span></td><td class="num">$19,0</td><td class="num">$18,6</td><td class="num">$14,4</td><td class="num pos">4,6</td><td class="num">53</td><td class="num">-5</td><td class="num zn2">-1,37</td><td class="num">$22</td><td class="wrap">3,4 üçlük, FT %87,1, FG %43,6. Uzman: 20-26 makul.</td></tr>
+<tr><td>Damian Lillard</td><td>POR</td><td>G</td><td><span class="chip al">AL</span> <span class="chip sakat">SAKATLIK</span></td><td><span class="score">●●●○○</span></td><td class="num">$12,1</td><td class="num">$13,2</td><td class="num">$4,4</td><td class="num pos">7,7</td><td class="num">81</td><td class="num">-14</td><td class="num zn2">-1,02</td><td class="num">$12</td><td class="wrap">FT %91,7. Uzman maç başı değeri 20'ye yakın görüyor; Aşil ve yaş riski.</td></tr>
+</tbody></table></div>
+
+<section class="prose">
+<h3>Punt AST</h3>
+<p>Makalede sadece üç punt AST hedefi var: Maluach, Nesmith ve Eason. Hepsi 144 sınırına yakın ya da dışında (punt-ast-targets). Ama bizim veride AST'si zayıf, diğer 8 kategoride güçlü oyuncular daha fazla. Aşağıdaki tablo projeksiyonumuza göre. Asist waiver'da çok zor bulunur. Bu punt'a erken karar ver: ilk birkaç alımdan sonra asist toplamın düşükse ve büyük asistçiler tam fiyata gidiyorsa, punt'a geç. Hem zayıf kalıp hem asiste para ödeme. Artısı: TO kendiliğinden düşer. Riski: düşük asistli oyuncular genelde 3PM, ST ve FT%'de de zayıf.</p>
+</section>
+<div class="tbl"><table><thead><tr><th>Oyuncu</th><th>Takım</th><th>Poz</th><th>Karar</th><th>Hedef</th><th class="num">Bizim</th><th class="num">Tam z</th><th class="num">Piyasa</th><th class="num">Fark</th><th class="num">9-cat sıra</th><th class="num">Format farkı</th><th class="num">AST z</th><th class="num">En fazla</th><th>Not</th></tr></thead><tbody>
+<tr><td>Chet Holmgren</td><td>OKC</td><td>F,C</td><td><span class="chip adil">ADİL</span></td><td><span class="score">●●●●○</span></td><td class="num">$29,0</td><td class="num">$30,4</td><td class="num">$23,8</td><td class="num pos">5,2</td><td class="num">20</td><td class="num">-18</td><td class="num zn1">-0,79</td><td class="num">$23</td><td class="wrap">BLK z +3,0, 2,0 AST. Josh 21-22 öder; Yahoo 30 fazla.</td></tr>
+<tr><td>Lauri Markkanen</td><td>UTA</td><td>F</td><td><span class="chip al">AL</span></td><td><span class="score">●●●●○</span></td><td class="num">$24,4</td><td class="num">$26,6</td><td class="num">$16,9</td><td class="num pos">7,5</td><td class="num">34</td><td class="num">-21</td><td class="num zn1">-0,84</td><td class="num">$24</td><td class="wrap">FT %89,4, 2,8 üçlük. Bilgili yöneticiler onu 20 üstüne iter.</td></tr>
+<tr><td>Kel'el Ware</td><td>MIL</td><td>C</td><td><span class="chip al">AL</span></td><td><span class="score">●●●●○</span></td><td class="num">$24,0</td><td class="num">$24,8</td><td class="num">$4,0</td><td class="num pos">20,0</td><td class="num">37</td><td class="num">-23</td><td class="num zn2">-1,12</td><td class="num">$12</td><td class="wrap">9,7 REB, 1,3 BLK. Uzman: ilk 60-80 değeri, 30 dakikada ilk 40 tavanı.</td></tr>
+<tr><td>OG Anunoby</td><td>NYK</td><td>F</td><td><span class="chip al">AL</span></td><td><span class="score">●●●●○</span></td><td class="num">$15,6</td><td class="num">$18,1</td><td class="num">$4,2</td><td class="num pos">11,4</td><td class="num">66</td><td class="num">-34</td><td class="num zn1">-0,77</td><td class="num">$16</td><td class="wrap">ST z +1,3. Uzman: 15-18 dolar adil hedef.</td></tr>
+<tr><td>Khaman Maluach</td><td>PHX</td><td>C</td><td><span class="chip flyer">FLYER</span></td><td><span class="score">●●●○○</span></td><td class="num">$13,6</td><td class="num">$12,5</td><td class="num">$1,2</td><td class="num pos">12,4</td><td class="num">74</td><td class="num">-32</td><td class="num zn2">-1,34</td><td class="num">$3</td><td class="wrap">Model 13,6 diyor; uzmanlar 1-3 dolar ve ilk 75 tavanı diyor.</td></tr>
+</tbody></table></div>
+
+<section class="prose">
+<h3>Punt BLK</h3>
+<p>Bloklar oynak, bu yüzden punt BLK takımı bazı haftalar şansla kazanır. Ama bloklar REB ve FG% ile birlikte gelir. Sadece düşük bloklu oyuncu kovalarsan REB ve FG%'yi de kaybedersin (punt-blk-targets). Kural: her hedefte FG% ve REB'e de bak. C slotunu ve F slotlarını yine de doldurmalısın. Geç dolarları blok atmayan ama ribaund alan ya da verimli atan uzunlara harca.</p>
+</section>
+<div class="tbl"><table><thead><tr><th>Oyuncu</th><th>Takım</th><th>Poz</th><th>Karar</th><th>Hedef</th><th class="num">Bizim</th><th class="num">Tam z</th><th class="num">Piyasa</th><th class="num">Fark</th><th class="num">9-cat sıra</th><th class="num">Format farkı</th><th class="num">BLK z</th><th class="num">En fazla</th><th>Not</th></tr></thead><tbody>
+<tr><td>Donovan Mitchell</td><td>CLE</td><td>G</td><td><span class="chip pahali">PAHALI</span></td><td><span class="score">●●●○○</span></td><td class="num">$30,1</td><td class="num">$31,6</td><td class="num">$46,6</td><td class="num neg">-16,5</td><td class="num">15</td><td class="num">-11</td><td class="num zn1">-0,64</td><td class="num">$34</td><td class="wrap">Uzman: 30'ların başı ile ortası. Piyasa 46,6. Final haftası 2 maç.</td></tr>
+<tr><td>Devin Booker</td><td>PHX</td><td>G</td><td><span class="chip pahali">PAHALI</span></td><td><span class="score">●●●○○</span></td><td class="num">$24,9</td><td class="num">$24,4</td><td class="num">$28,0</td><td class="num neg">-3,1</td><td class="num">32</td><td class="num">+4</td><td class="num zn1">-0,75</td><td class="num">$25</td><td class="wrap">FT %88,4 7,4 denemede. Uzman: 25'in fazla üstünü ödeme.</td></tr>
+<tr><td>Jalen Brunson</td><td>NYK</td><td>G</td><td><span class="chip tuzak">FORMAT TUZAĞI</span></td><td><span class="score">●●○○○</span></td><td class="num">$21,8</td><td class="num">$22,8</td><td class="num">$32,7</td><td class="num neg">-10,9</td><td class="num">42</td><td class="num">+27</td><td class="num zn2">-1,06</td><td class="num">$20</td><td class="wrap">Format farkı +27. Uzman: 18-20 dolar. Bilek ve dinlenme kontrolü.</td></tr>
+<tr><td>Kon Knueppel</td><td>CHA</td><td>G,F</td><td><span class="chip adil">ADİL</span> <span class="chip sakat">SAKATLIK</span></td><td><span class="score">●●○○○</span></td><td class="num">$24,6</td><td class="num">$25,7</td><td class="num">$14,6</td><td class="num pos">10,0</td><td class="num">33</td><td class="num">-3</td><td class="num zn1">-0,70</td><td class="num">$12</td><td class="wrap">Model 24,6 diyor (3,5 üçlük); Josh en fazla 8 diyor. Hamstring kontrolü.</td></tr>
+<tr><td>Payton Pritchard</td><td>BOS</td><td>G</td><td><span class="chip adil">ADİL</span></td><td><span class="score">●●●○○</span></td><td class="num">$14,7</td><td class="num">$15,6</td><td class="num">$4,1</td><td class="num pos">10,6</td><td class="num">68</td><td class="num">-12</td><td class="num zn2">-1,07</td><td class="num">$6</td><td class="wrap">2,7 üçlük, 1,2 TO. Uzman: 4-6 dolar adil.</td></tr>
+<tr><td>Immanuel Quickley</td><td>TOR</td><td>G</td><td><span class="chip adil">ADİL</span></td><td><span class="score">●●○○○</span></td><td class="num">$16,4</td><td class="num">$17,2</td><td class="num">$1,6</td><td class="num pos">14,8</td><td class="num">64</td><td class="num">-6</td><td class="num zn2">-1,09</td><td class="num">$5</td><td class="wrap">Üçlük, AST, FT; FG %43,5 civarı. Havuzun sonuna yakın.</td></tr>
+</tbody></table></div>
+
+<section class="prose">
+<h3>Punt 3PM</h3>
+<p>Maçta iki üçlük artık ortalama. Üçlük waiver'dan kolay stream edilir. Bu yüzden hiç üçlük atmayan oyuncu sıralamasının gösterdiğinden daha az değer kaybeder (punt-3pm-targets). Gerilim şu: sadece pivot dizersen AST, ST ve FT%'de de zayıf kalırsın. Üçlüksüz ama ST ve AST getiren guard ve kanatlar ekle. Amen Thompson ve Dyson Daniels bunun için var.</p>
+<p>Daniels özel bir vaka. Modelimiz onu 29,7 dolar görüyor, piyasa 6,2. Josh 20 dolar ve üstü diyor. Model ve uzman aynı yönde, o yüzden AL. Ama değerinin çoğu top çalmadan geliyor (ST z +4,9), ve ST en oynak kategorilerden biri. Fiyatı modelimizin değil, uzmanın aralığında tut.</p>
+</section>
+<div class="tbl"><table><thead><tr><th>Oyuncu</th><th>Takım</th><th>Poz</th><th>Karar</th><th>Hedef</th><th class="num">Bizim</th><th class="num">Tam z</th><th class="num">Piyasa</th><th class="num">Fark</th><th class="num">9-cat sıra</th><th class="num">Format farkı</th><th class="num">3PM z</th><th class="num">En fazla</th><th>Not</th></tr></thead><tbody>
+<tr><td>Amen Thompson</td><td>HOU</td><td>G</td><td><span class="chip al">AL</span></td><td><span class="score">●●●●○</span></td><td class="num">$31,8</td><td class="num">$31,5</td><td class="num">$28,4</td><td class="num pos">3,4</td><td class="num">14</td><td class="num">-4</td><td class="num zn2">-1,33</td><td class="num">$38</td><td class="wrap">Guard slotunda %54,7 FG, 8,2 REB, 1,6 ST. Uzman profili 35-40 (makale 25-35).</td></tr>
+<tr><td>Dyson Daniels</td><td>ATL</td><td>G,F</td><td><span class="chip al">AL</span></td><td><span class="score">●●●●●</span></td><td class="num">$29,7</td><td class="num">$30,6</td><td class="num">$6,2</td><td class="num pos">23,5</td><td class="num">16</td><td class="num">-24</td><td class="num zn1">-0,98</td><td class="num">$22</td><td class="wrap">2,3 ST, ST z +4,9. Josh: 20 dolar ve üstü. Değerin çoğu oynak top çalmada.</td></tr>
+<tr><td>Jalen Duren</td><td>DET</td><td>C</td><td><span class="chip adil">ADİL</span></td><td><span class="score">●●●●○</span></td><td class="num">$29,0</td><td class="num">$26,7</td><td class="num">$19,5</td><td class="num pos">9,5</td><td class="num">19</td><td class="num">-7</td><td class="num zn2">-1,73</td><td class="num">$21</td><td class="wrap">FG %64,7 11,8 denemede, 11,0 REB. Uzman: yaklaşık 20.</td></tr>
+<tr><td>Anthony Davis</td><td>WAS</td><td>F,C</td><td><span class="chip adil">ADİL</span></td><td><span class="score">●●●○○</span></td><td class="num">$26,3</td><td class="num">$26,1</td><td class="num">$22,6</td><td class="num pos">3,7</td><td class="num">29</td><td class="num">-5</td><td class="num zn2">-1,30</td><td class="num">$26</td><td class="wrap">11,2 REB, 2,0 BLK; 57 maç projeksiyonu. Uzman: 23-26 hedef.</td></tr>
+<tr><td>Jarrett Allen</td><td>CLE</td><td>C</td><td><span class="chip al">AL</span></td><td><span class="score">●●●○○</span></td><td class="num">$17,7</td><td class="num">$15,4</td><td class="num">$3,6</td><td class="num pos">14,1</td><td class="num">58</td><td class="num">-24</td><td class="num zn2">-1,73</td><td class="num">$12</td><td class="wrap">FG %65,0. Uzman: 10-13 dolarda dur.</td></tr>
+<tr><td>Ivica Zubac</td><td>IND</td><td>C</td><td><span class="chip al">AL</span></td><td><span class="score">●●●○○</span></td><td class="num">$17,3</td><td class="num">$15,0</td><td class="num">$5,7</td><td class="num pos">11,6</td><td class="num">60</td><td class="num">-6</td><td class="num zn2">-1,73</td><td class="num">$13</td><td class="wrap">10,6 REB, %62,5 FG. Josh tavanı 14. Indiana playoffta 3-4-3.</td></tr>
+<tr><td>Isaiah Hartenstein</td><td>OKC</td><td>C</td><td><span class="chip al">AL</span></td><td><span class="score">●●●○○</span></td><td class="num">$9,8</td><td class="num">$7,5</td><td class="num">$1,1</td><td class="num pos">8,7</td><td class="num">95</td><td class="num">-22</td><td class="num zn2">-1,73</td><td class="num">$5</td><td class="wrap">9,5 REB, 3,3 AST. Uzman: 1-5 dolar iyi geç pivot.</td></tr>
+<tr><td>Neemias Queta</td><td>BOS</td><td>C</td><td><span class="chip flyer">FLYER</span></td><td><span class="score">●●○○○</span></td><td class="num">$20,2</td><td class="num">$18,1</td><td class="num">$1,0</td><td class="num pos">19,2</td><td class="num">48</td><td class="num">-41</td><td class="num zn2">-1,70</td><td class="num">$3</td><td class="wrap">Model 20,2 diyor; uzman 1-3 dolar ve 90-110. sıra diyor.</td></tr>
+</tbody></table></div>
+
+<section class="prose">
+<h3>Punt ST</h3>
+<p>ST çok oynak: elit top çalanlar bile bir sezonda maçta 0,7-0,8'e düşebiliyor. Waiver'da da en sık bulunan kategorilerden biri (punt-stl-targets). ST ne guard ne uzun kadrosuna sıkı bağlı, o yüzden punt ST her kadro tipinin üstüne eklenebilir. Tam punt etmek istemiyorsan bile auction'da top çalmaya prim ödeme. Sezon içinde FAB ile doldur.</p>
+</section>
+<div class="tbl"><table><thead><tr><th>Oyuncu</th><th>Takım</th><th>Poz</th><th>Karar</th><th>Hedef</th><th class="num">Bizim</th><th class="num">Tam z</th><th class="num">Piyasa</th><th class="num">Fark</th><th class="num">9-cat sıra</th><th class="num">Format farkı</th><th class="num">ST z</th><th class="num">En fazla</th><th>Not</th></tr></thead><tbody>
+<tr><td>Chet Holmgren</td><td>OKC</td><td>F,C</td><td><span class="chip adil">ADİL</span></td><td><span class="score">●●●●○</span></td><td class="num">$29,0</td><td class="num">$30,4</td><td class="num">$23,8</td><td class="num pos">5,2</td><td class="num">20</td><td class="num">-18</td><td class="num zn1">-0,95</td><td class="num">$23</td><td class="wrap">Punt ST için en temiz profil. Diğer 8 kategoride zayıf yer yok.</td></tr>
+<tr><td>Kevin Durant</td><td>HOU</td><td>G,F</td><td><span class="chip pahali">PAHALI</span></td><td><span class="score">●●●○○</span></td><td class="num">$29,1</td><td class="num">$28,0</td><td class="num">$39,9</td><td class="num neg">-10,8</td><td class="num">17</td><td class="num">-13</td><td class="num zn1">-0,65</td><td class="num">$35</td><td class="wrap">Uzman: 30'lar. Dakika düşerse değer değişir. Houston playoffta 10 maç.</td></tr>
+<tr><td>Walker Kessler</td><td>LAL</td><td>C</td><td><span class="chip adil">ADİL</span></td><td><span class="score">●●●○○</span></td><td class="num">$29,1</td><td class="num">$23,7</td><td class="num">$15,9</td><td class="num pos">13,2</td><td class="num">18</td><td class="num">-32</td><td class="num zn1">-0,88</td><td class="num">$15</td><td class="wrap">Punt ST ve punt FT birlikte gider. Uzman tavanı 15.</td></tr>
+<tr><td>Ivica Zubac</td><td>IND</td><td>C</td><td><span class="chip al">AL</span></td><td><span class="score">●●●○○</span></td><td class="num">$17,3</td><td class="num">$15,0</td><td class="num">$5,7</td><td class="num pos">11,6</td><td class="num">60</td><td class="num">-6</td><td class="num zn2">-1,62</td><td class="num">$13</td><td class="wrap">ST z -1,6. Punt ST ve punt 3PM çapası (makale).</td></tr>
+<tr><td>Joel Embiid</td><td>PHI</td><td>C</td><td><span class="chip sakat">SAKATLIK</span></td><td><span class="score">●●○○○</span></td><td class="num">$12,3</td><td class="num">$10,9</td><td class="num">$6,6</td><td class="num pos">5,7</td><td class="num">80</td><td class="num">-12</td><td class="num zn2">-1,56</td><td class="num">$12</td><td class="wrap">48 maç projeksiyonu. Uzman: 8-16 dolar. Philadelphia playoffta 3 back-to-back.</td></tr>
+<tr><td>Khaman Maluach</td><td>PHX</td><td>C</td><td><span class="chip flyer">FLYER</span></td><td><span class="score">●●●○○</span></td><td class="num">$13,6</td><td class="num">$12,5</td><td class="num">$1,2</td><td class="num pos">12,4</td><td class="num">74</td><td class="num">-32</td><td class="num zn2">-1,47</td><td class="num">$3</td><td class="wrap">ST z -1,5, BLK z +2,6. Sonda 1-3 dolar.</td></tr>
+</tbody></table></div>
+
+<section class="prose" id="build">
+<h2>3. Kadro tipleri</h2>
+<h3>Uzunlar ve savunma</h3>
+<p>Uzman notlarına göre sadece REB, BLK ve FG% birlikte hareket eder. Bu kadro ST ve düşük TO getirmez, çünkü blok ile TO arasında bağ yok. Üçlük ve FG% birbirini iter, bu yüzden uzun kadrosuna üçlük eklemek zor. Doğal eşleşme: punt 3PM ve punt FT. Modelimizin en sevdiği bölge de burası: Kessler, Gobert, Duren, Allen, Zubac, Queta piyasanın çok üstünde. Risk: model ve uzmanlar fiyatta ayrışıyor, uzman tavanlarına uy.</p>
+<h3>Guard ağırlıklı</h3>
+<p>Guard kadrosu PTS, 3PM, AST, ST ve FT%'yi kapsar. Bu kategoriler birbirini destekler, bu yüzden en yaygın kadro tipi. Bıraktıkları genelde FG%, BLK ve bazen REB ya da TO. Hedefler punt FG ve punt BLK tablolarında. Dikkat: bu kadronun yıldızları (Luka, Cade, Mitchell, Brunson) odada en çok şişen isimler.</p>
+<h3>Dengeli</h3>
+<p>Dengeli kadro ilk 20'yi atlar ve çekirdeğini yaklaşık 25-75. sıralar arasından kurar. Tavan düşük ama güvenlik yüksek: en iyi oyuncun 30. sıradaysa ve sakatlanırsa waiver'da yakın bir yedek bulursun (safe-core-fits-every-build). Uzman örneği 200 doları şöyle bölüyor: 22 dolardan dört, 14 dolardan beş, 7 dolardan iki oyuncu ve 1 dolarlık bir yedek. Toplam yaklaşık 173 dolar, kalan yaklaşık 27 dolar teklif savaşları için.</p>
+<p>Modelimizde bunun adayları negatif Minus-1 farkı olanlar: Trey Murphy III (bizim 20,1, piyasa 16,5), Jalen Williams (21,5 ve 20,0), Desmond Bane (18,7 ve 10,4), Mikal Bridges (19,0 ve 5,0), Jaden McDaniels (17,2 ve 1,6), Okongwu (19,2 ve 7,7). Uzmanlar Mikal Bridges'e H2H'de çok düşük hacim yüzünden sadece tek haneli dolar veriyor. Modelimiz onu 81 maç için seviyor. Burada uzmana uy.</p>
+<h3>Pozisyonlar ve pivotlar</h3>
+<p>Kadromuz G, G, G, F, F, F, C ve üç Util. Sadece bir C zorunlu. Bu, pivot fiyatını düşürür. Uzman kuralı: auction'ın büyük kısmında pozisyon değil istatistik profili al. Takımlar yaklaşık 8 oyuncuya ulaştığında, yani 144'ün 96-108'i dolduğunda, her tekliften önce uygunluğu kontrol et (positions-and-centers). Sonunda G, F ve C'de ikişer üçer uygun oyuncun olsun. Günlük kadroda tek C oyuncun oturursa o slot boş kalır.</p>
+<p>Pivot alırken üç şeye bak: başlıyor mu, yaklaşık 30 dakikaya ulaşır mı, C'de mi PF'de mi oynuyor. 22 dakikaya bölünen pivot işe yaramaz. Pas veren uzunlar (Jokić, Sengun, Sabonis) TO maliyeti getirir, punt TO ile eşleşir. Üçlük atan uzunlar (Towns, Adebayo, Naz Reid) genelde FG% maliyeti getirir, punt FG ile eşleşir (bigs-who-pass-or-shoot).</p>
+</section>
+
+<section class="prose" id="sezon">
+<h2>4. Sezon içi yönetim</h2>
+<h3>Waiver, FAB ve 6 hamle</h3>
+<p>Sezonun üç evresi var: keşif, optimizasyon, maksimizasyon. Keşif evresinde (ilk haftalar) beklenmedik dakikalara, yeni starterlara ve rol değişikliklerine hızlı tepki ver. Kötü atış gecelerine tepki verme. Rol, dakika ve kullanım değişmediyse sabret. Geç flyer'ları iki haftalık deneme say. Sakatlıklar kampın kısalığı yüzünden erken zirve yapar ve Aralık ortasına kadar azalır.</p>
+<p>FAB için notlarda dolar miktarı yok. Ama nereye para harcanacağı belli: gerçek rol değişikliğine ciddi teklif (örneğin 28 dakika alan yeni starter), kısa sakatlık yedeğine hafif teklif. Uzmanlar, büyük dakikalarda üreten yedeğin takım sağlıklıyken yaklaşık 150. sıraya döneceğini söylüyor. Bizim ligde bu waiver seviyesi.</p>
+<p>Uzmanlar ilk haftalarda streaming konusunda ayrışıyor. Bizim yaklaşım: 1. ve 2. haftada eklemeleri rol değişikliklerine harca, flyer'ları tut. Flyer'lar netleşince saf maç streaming'e geç.</p>
+<h3>IL slotları ve stash</h3>
+<p>Yahoo IL+'yı kaldırdı. "Out" ya da "injured" etiketli oyuncu hemen IL'e gider. "Questionable" oyuncu IL'e gidemez. Bizim 4 IL slotumuz var. Stash tavsiyelerinin çoğu başka formatlar için yazılmış: best ball, haftalık kilit, derin yedek. Bizde günlük kadro ve sadece 2 BN var. Boş bir kadro yeri yaklaşık 100. oyuncu değerinde, bu yüzden stash bir streamer'ı yenmeli (il-slots-and-stashing). Uzun süreli sakatı sadece auction'ın en sonunda en düşük teklifle al. IL slotuna ihtiyaç duyduğun gün bırak.</p>
+<h3>Handcuff ve yedek pivotlar</h3>
+<p>Basketbolda handcuff, starter sağlıkken de bir şey veren yedektir. Starter sağlıkken hiçbir şey vermeyen yedek bizim için waiver adıdır (handcuffs-and-backup-centers). En iyi durum: starter düşerse 30 dakika oynayacak birebir yedek. Yedek pivotlar sezon içinde değerli streamer'dır, ama draftta değil. Starter "out" olduğu gün FAB ver. Örnekler: Duren düşerse Paul Reed, Gobert düşerse Beringer, Okongwu düşerse Landale, Cunningham düşerse Daniss Jenkins.</p>
+<h3>Dakika savaşları</h3>
+<p>Dakika savaşı fiyatı düşürür. Sadece rotasyonu doğru okursan değer yaratır. Maçta iki üç dakika kayıp bile değeri keser. Geç turlarda iki adayı da 1-3 dolara al, ilk haftalarda kaybedeni bırak. Orta turlarda ikisini birden almak bir BN yeri ve para ister. Orada rotasyon hakkında karar ver ve indirimli oyuncuyu sadece indirimli fiyata al (minutes-battles). Örnek orta tur savaşları: Michael Porter Jr. ve Randle, Jarrett Allen ve Mobley, Kel'el Ware ve Myles Turner, Ryan Rollins ve Kevin Porter Jr.</p>
+<h3>Takaslar</h3>
+<p>Bu ligde yöneticiler deneyimli ve sık takas yapıyor. Her teklif önce onlara yarar. Uzman kuralı: her teklife "hayır" ile başla, sonra rakamlar seni ikna etsin (in-season-trades). 2'ye 1 takasta iki oyuncu veren taraf genelde kazanır, çünkü açılan yer bir streaming slotu olur ve bu yaklaşık ilk 100 değerinde. Tersini, yani bire iki almayı, sadece iki oyuncu da her hafta kesin oynayacaksa kabul et.</p>
+<p>Sinyaller: üçlükte soğuk seri yaşayan oyuncuyu al, erken sezonda %60 üçlük atanı sat. Kariyer zirvesi top çalma oranına prim ödeme. Gerçek starter olmayıp starter rakamları üreten oyuncuyu hemen sat. Takas son günü 2027-03-04, playoff 19. haftadan önce. Playoff için gereken her takas o güne kadar bitmeli.</p>
+<h3>Playoff haftaları: 19, 20, 21</h3>
+<p>Sezonumuz 2027-03-28 Pazar bitiyor. Uzmanlara göre gerçekten önemli tek takvim faktörü playoffta 2 maçlık hafta (fantasy-playoff-weeks). Draftta takvimi sadece benzer fiyattaki iki üst düzey oyuncu arasında eşitlik bozucu olarak kullan. Asla daha kötü oyuncuyu takvim için alma. Bir NBA takımından üç oyuncu sorun değil, beş fazla.</p>
+</section>
+
+<div class="tbl"><table><thead><tr><th>Takım</th><th>Hafta 19-20-21</th><th>Not (playoff-schedule-player-list)</th></tr></thead><tbody>
+<tr><td>DAL</td><td class="num">4-4-4</td><td class="wrap">En çok maç. Ama ligin en çok back-to-back'i (16). Kyrie dinlenirse 10 maça düşer.</td></tr>
+<tr><td>DET, LAC</td><td class="num">4-3-4</td><td class="wrap">Güçlü. Cade ile Edwards arasında eşitlik bozucu.</td></tr>
+<tr><td>ATL</td><td class="num">4-4-3</td><td class="wrap">Güçlü. Daniels için küçük artı.</td></tr>
+<tr><td>BOS</td><td class="num">4-3-4</td><td class="wrap">Ama üç back-to-back. Dinlenen oyuncuya eksi.</td></tr>
+<tr><td>MIN</td><td class="num">20. hafta 2 maç</td><td class="wrap">Yarı final haftası. Edwards, LaMelo, Gobert, McDaniels, Dosunmu birlikte etkilenir.</td></tr>
+<tr><td>CLE</td><td class="num">4-3-2</td><td class="wrap">Final haftası 2 maç. Mitchell, Harden, Mobley, Allen.</td></tr>
+<tr><td>HOU</td><td class="num">3-3-4</td><td class="wrap">Toplam 10 maç. Durant, Sengun, Amen Thompson.</td></tr>
+<tr><td>IND, BKN</td><td class="num">3-4-3</td><td class="wrap">Toplam 10 maç. Haliburton, Siakam, Zubac.</td></tr>
+<tr><td>MIA</td><td class="num">10 maç</td><td class="wrap">Ama hiç back-to-back yok. Nötr say.</td></tr>
+<tr><td>PHI, POR, TOR</td><td>-</td><td class="wrap">Playoff haftalarında üçer back-to-back. Embiid, LeBron, Lillard gibi dinlenen oyunculara eksi.</td></tr>
+</tbody></table></div>
+
+<section class="prose">
+<h3>Sezon sonu dinlenme ve tanking</h3>
+<p>Uzmanlar yeni draft lotarisi reformunun tanking'i azaltacağını bekliyor. Son üç sıra artık bir ceza bölgesi. Geçen sezon fantasy playofflarında sekiz dokuz takım tank yapıyor ya da oyuncu dinlendiriyordu. Bu sezon daha az bekleniyor (late-season-rest-and-tanking). Risk yine de kayboluyor değil, yer değiştiriyor: sıralaması kilitlenmiş takımlar, hiçbir şey için oynamayan orta takımlar ve kendi draft hakkına sahip olmayan takımlar (Nets, Bucks, Clippers, Pelicans, Mavericks). Takas son gününden önce her kilit oyuncu için üç soru sor: takımı sıralamaya kilitli mi, kendi pick'ine sahip mi, yarıştan ve son üçten uzak mı.</p>
+</section>
+
+<section class="prose" id="baglam">
+<h2>5. Geçen sezonu doğru okumak</h2>
+<p>Geçen sezonun sırası bir başlangıç noktası, fiyat etiketi değil. Üretim dakikayı, rolü ve fırsatı izler. Önce ne ürettiğini sor: takım arkadaşları yok muydu, tanking dönemi miydi, sıcak seri miydi, kısıtlı dakika mıydı (reading-last-season-in-context). Birkaç takım arkadaşı yokken gelen rakamları küçült. Tanking takımlarının Mart ve Nisan rakamlarına güvenme. Final oynamış takımların oyuncuları genelde yavaş başlar.</p>
+<h3>Atış gerilemesi</h3>
+<p>Atış isabeti yıldan yıla zayıf taşınır: iki sayılık yüzde 0,53, true shooting 0,52, serbest atış 0,49, üçlük yüzdesi 0,45 (shooting-and-defense-regression). Hacim sabit, isabet şans. Auction kontrol listesi: FT% kariyerinden çok mu uzak? Üçlük yüzdesi aynı hacimde mi sıçradı? İki sayılık yüzdesi 7 ile mi başlıyor? Elit pasör takımdan ayrıldı mı? Cevap evetse, yüzdelerin normale döneceğini varsayarak teklif ver. Savunmada da aynı: top çalmalar deflection'ı aştıysa ve blok dönüşümü kariyerinden çok yüksekse, düşüş bekle.</p>
+<h3>Büyük sakatlıktan dönüş</h3>
+<p>Tam Aşil yırtığı genelde 9-12 ay, ACL yaklaşık 12 ay. İlk sezon üç şey bekle: dakika sınırı, back-to-back'lerde oturma ve verimlilik düşüşü, özellikle iki sayılık ve pota dibi bitirişte (returning-from-major-injury). Bu bizim FG%'ye doğrudan dokunur. Uzmanlara göre piyasa bu oyunculardan fazla korkuyor. Bu indirimden faydalan, ama tam sağlıklı değer de ödeme. Değeri playoff haftalarına doğru yükselir.</p>
+<h3>Tahmin edilen sakatlığa göre draft yapma</h3>
+<p>Bir sezondan diğerine oynanan maç sayısının korelasyonu sadece yaklaşık 0,3. "Sakatlığa yatkın" ve "demir adam" etiketleri neredeyse değersiz (do-not-draft-by-predicted-injuries). Sadece kronik vakalarda indirim yap: aynı alt vücut bölgesinde tekrar eden sakatlık ya da ameliyat, ayak problemi olan uzunlar ve dejeneratif sakatlıklar. Kadroda tek bir ciddi risk tut. İki riskli yıldızı aynı kadroya koyma. H2H'de kaçan bir hafta tüm eşleşmeye, belki bir playoff haftasına mal olur.</p>
+<p class="note">Bir uyarı (uzman verisi): ilk 25'ten çıkışların %54'ü daha kötü oynamaktan değil, sakatlık nedeniyle 50 maç ya da 1.500 dakika eşiğinin altında kalmaktan geliyor. Pahalı oyuncunun değerini çoğu zaman sağlık belirler, ama bunu önceden bilemeyiz.</p>
+</section>
+
+<section class="prose" id="ozet">
+<h2>Özet</h2>
+<ol>
+<li>Paranın çoğunu sabit kategorilere ver: PTS, REB, AST. 3PM ve ST'ye prim ödeme, onları waiver'dan stream et.</li>
+<li>Punt'u auction'dan önce seçme. Değer al, punt kendiliğinden ortaya çıksın. En fazla bir ya da iki kategori.</li>
+<li>Minus-1 ile tam z arasındaki büyük fark punt çapasını gösterir (Giannis, Gobert, Trae, Cade). Punt eden takım değilsen tam z fiyatını tavan al.</li>
+<li>Modelimiz üçlüksüz pivotları piyasadan çok yüksek görüyor. Uzman tavanlarına uy: Kessler 15, Gobert 11, Duren 20 civarı, Queta 3.</li>
+<li>Sezon içinde 6 eklemenin hepsini kullan, IL'i hızlı çevir, 2'ye 1 takası ara ve takasları 2027-03-04'ten önce bitir. MIN'in 20. hafta ve CLE'nin 21. hafta 2 maçına dikkat et.</li>
+</ol>
+</section>
+</main></body></html>

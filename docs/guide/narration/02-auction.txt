@@ -1,0 +1,245 @@
+Auction Taktikleri.
+
+on sekiz Ekim'deki Yahoo canlı auction için oyun planı: iki yüz dolar, on iki takım, takım başına on iki oyuncu, otuz saniye aday gösterme, yirmi saniye teklif. Bütçe planları, aday gösterme sırası, teklif disiplini, odanın format hataları ve draft günü listesi.
+
+bir. Auction ile snake arasındaki fark.
+
+Snake draft'ta bir oyuncunun maliyeti bir sıra numarasıdır. Auction'da maliyet, o anda odadaki on iki kişinin cebindeki para ve isteğidir. Fiyat bir listeye ait değildir, odaya aittir. Aynı oyuncu bir odada kırk dolar, başka bir odada yirmi altı dolar olabilir.
+
+Bunun üç sonucu var. Birincisi, herkes her oyuncuya teklif verebilir. Draft sırası şansı yoktur, Jokić'i isteyen herkes onu alabilir, yeter ki parası yetsin. İkincisi, hatalar daha pahalıdır. Uzmanlar auction'ın iyi ve kötü menajeri snake'ten çok daha fazla ayırdığını söylüyor, auction-tactics, Josh Lloyd yirmi dokuz Eylül. Üçüncüsü, liste fiyatları sadece rehberdir. Fiyatlar takım sayısı, bütçe, kadro boyu ve kategori sayısıyla değişir; başka bir ligin fiyatı bizim lige taşınmaz.
+
+Bizim oda için sabit gerçekler, verified, RULES.md: on iki takım, iki yüz dolar bütçe, takım başına on iki draft slotu, on starter, iki bench; IL slotları draft'ta dolmaz, toplam yüz kırk dört oyuncu, keeper yok, aday gösterme süresi otuz saniye, teklif süresi yirmi saniye. Menajerler deneyimli ve trade sık. Odada toplam iki bin dört yüz dolar var.
+
+Temel çerçeve. İki fiyat var ve asla karışmaz. Bizim fiyat: kendi projeksiyonumuzdan, Minus bir modeli. Piyasa fiyatı: Yahoo ortalama maliyeti iki kat ağırlıklı, ESPN ortalama maliyeti ve Fantrax ADP karışımı. Fırsat, bizim fiyat ile odanın ödeyeceği fiyat arasındaki farktır. Hiçbir zaman sıraya göre fiyat biçmiyoruz.
+
+iki. Bütçe planları.
+
+Odada fazladan beş yüz on iki dolar var.
+
+Piyasa fiyatlarının ilk yüz kırk dört oyuncusu toplam bin sekiz yüz seksen sekiz dolar ediyor. Odada ise iki bin dört yüz dolar var. Yani oda, piyasa listesine göre ortalamada yüzde yirmi yedi fazla para harcayacak, verified, players.json. Kritik soru şu: bu fazla para nereye gider?
+
+İki veri kaynağı aynı cevabı veriyor. Birincisi bizim model. Piyasa fiyat bandlarına göre, bizim fiyatın piyasa fiyatına oranı aşağıdaki tabloda. kırk ile elli dokuz dolar arası band en kötü yer: piyasa her bir dolara bizim gözümüzde altmış yedi sent değer koyuyor. on doların altına inildikçe oran hızla yükseliyor. pricing.md'deki ilk test de aynı şeyi buldu: piyasa dolarına düşen yedek oyuncu üstü değer kırk ile elli dokuz bandında en düşük, sıfır virgül on dört, üç ile dokuz bandında en yüksek, sıfır virgül kırk dokuz.
+
+İkinci kaynak Josh Lloyd'un beş Ekim mock'u. Ayarlar bize çok yakın: on iki takım, dokuz kategori, iki yüz dolar. Tek fark on üç kişilik kadro. O odada kırk ile elli dokuz dolar bandındaki oyuncular piyasanın yüzde yirmi bir altına gitti, Cade kırk sekiz, Tatum kırk altı, Maxey kırk, Jalen Johnson otuz üç. Piyasası üç ile dokuz dolar olan oyuncular piyasanın iki buçuk katına gitti. Piyasası üç doların altındakiler yaklaşık beş katına gitti. bir dolarlık ilk oyuncu ancak yaklaşık yüz yirmi dördüncü seçimde çıktı.
+
+Çıkarım: fazla para en çok ortalara ve ucuz uçlara akıyor, yıldızlar piyasa civarında kalıyor. Bu, "piyasası beş dolar olan çok iyi oyuncuyu beş dolara alırım" planının neden çalışmayacağını gösteriyor. Dyson Daniels'ın piyasası altı virgül iki dolar ama mock'ta on yedi dolara gitti.
+
+Bir veri daha: piyasa listesinde ilk on iki oyuncu, ilk yüz kırk dörtün toplam fiyatının yüzde otuz sekizini alıyor. Bizim modelde ilk on iki sadece yüzde yirmi üç alıyor. İlk yirmi dört için oran yüzde altmışa karşı yüzde otuz yedi. Yani bizim dolar ölçeğimiz odadan daha düz. Bu yüzden "yıldız X pahalı" demek için sadece bizim fiyatın piyasadan düşük olması yetmez. Bağlam olarak, iki bin yirmi beş ile yirmi altı sezonunda bu odada ilk iki oyuncu yaklaşık seksen altı dolara gitti; bu bir fiyat kuralı değil, sadece odanın yıldızlara para basabildiğini hatırlatır.
+
+Üç plan.
+
+Yıldızlar ve ucuzlar, stars and scrubs. İki ilk on oyuncuya bütçenin yarısından dörtte üçüne kadarını ver, gerisini ucuz doldur. Uzmanlar bunu sekiz takımda öneriyor, on takımda mümkün görüyor, on iki takımda reddediyor, Josh Lloyd yirmi dokuz Eylül. Nedenleri: bir dolarlık oyuncunun on ila on beş dolarlık oyuncuya dönüşme şansı yaklaşık yüzde on. Bir yıldız sakatlanırsa takım çöker. Ve odada en az bir kişi dengeli oynayıp senin ihtiyaç duyduğun ucuz fırsatları yukarı iter.
+
+Dengeli. Projeksiyonda ilk yirmiyi atla, on bir çekirdek oyuncuyu kabaca yirmi beş ile yetmiş beşinci sıra arasından al. Uzmanın somut planı: on bir çekirdeğe yaklaşık yüz seksen beş dolar, yaklaşık on dört dolar oynama payı, son slota bir dolar. Tavan daha düşük ama en iyi oyuncunu kaybetmek daha az acıtır: otuzuncu oyuncuyu waiver'dan telafi etmek Jokić'i telafi etmekten çok daha kolay.
+
+İki yıldız artı orta. Bir ilk beş yıldız ve bir ikinci kademe oyuncu, gerisi orta band. Uzmanlardan biri iki pahalı yıldızla iyi takım kurulabileceğini söylüyor, ama hata payı sıfır: yıldızlardan biri yoksa o hafta kaybedilir, Josh Lloyd beş Ekim. İki yıldıza seksener dolar vermek ise uzmana göre şampiyonluk için fazla.
+
+Örnek bütçeler, plan değil, örnek.
+
+Bunlar örnektir, plan değildir. Amaç parayı nereye koyduğunda takımın neye benzediğini görmek. "Plan" sütunu bizim varsaydığımız oda fiyatı: oyuncu Josh'un mock'unda satıldıysa o fiyat; satılmadıysa, yıldızlı, piyasa fiyatı çarpı o banddaki mock çarpanı, çıkarım. Her bütçede on bir isim var, on ikinci slot bir dolarlık streaming slotu. Kategori hücreleri takım z toplamıdır; renk eşikleri takım toplamı için ölçeklendi: dört ve üstü koyu yeşil, bir buçuk ile dört açık yeşil, eksi bir buçuk ile eksi dört açık kırmızı, eksi dört ve altı koyu kırmızı.
+
+A. Yıldızlar ve ucuzlar: Jokić + SGA.
+
+B. Dengeli: ilk yirmi yok, on dolar oynama payı.
+
+C. İki yıldız artı orta: SGA + Towns.
+
+Kategori profili.
+
+Uzmanın hedefi iki yüz dolarlık bütçeden en az iki yüz elli dolarlık değer çıkarmak. Bizim ölçekte dört örneğin hepsi bu çizginin üstünde. Kağıt üstünde en iyisi C, iki yüz doksan beş dolar. Ama C'nin üstünlüğü iki şeye dayanıyor. Birincisi, dört oyuncu, Clingan, Ware, Quickley, Queta, mock'ta görülmedi, plan fiyatları benim tahminim. Ware ve Queta zaten modelimizin aykırı değerleri: bizim yirmi dört ve yirmi dolar, piyasa dört ve bir dolar. İkincisi, SGA sakatlanırsa C altmış bir virgül altı dolarlık değer kaybeder; B en iyi oyuncusunu, Daniels, kaybederse yirmi dokuz virgül yedi dolar kaybeder.
+
+A'nın zayıf noktası asist: ucuz uçta asist yapan oyuncu bulmak zor. B'nin zayıf noktası da asist ve top kaybı. Ama B'nin cebinde on dolar kalıyor. Bu parayla örneğin Bane yerine Amen Thompson'a yükselebilirsin, bizim otuz bir virgül sekiz, piyasa yirmi sekiz virgül dört, mock otuz beş.
+
+Benim önerim, çıkarım. Varsayılan plan B şeklinde dengeli bir çekirdek. Oda soğuk olur ve bir yıldız En fazla fiyatının altına düşerse C'ye geç: değer gelirse al. A'yı planlama. Uzmanlar on iki takımda reddediyor, bizim model de A'ya C'den daha az değer veriyor.
+
+Bir uyarı daha: aynı fırsat isimleri, Daniels, White, Alexander-Walker, McDaniels, her bütçede çıkıyor. Bu, odadaki diğer akıllı menajerlerin de onları göreceği anlamına geliyor. pricing.md bunu açıkça söylüyor: "herkes ortalama fiyattan alır" varsayımı fazla iyimser. Bu yüzden her hedefin bir yedeği olmalı.
+
+üç. Aday gösterme stratejisi.
+
+Aday gösterme, auction'da senin tek doğrudan kontrol aracın. Sıra sana geldiğinde kimin satışa çıkacağına sen karar verirsin. Temel kural uzmandan: aday gösterirken istemediğin birini at, böylece diğerleri hedeflerine gidecek parayı harcasın, Josh Lloyd yirmi dokuz Eylül.
+
+Erken: istemediklerini ve pahalı yıldızları at.
+
+İlk nominasyonlarda iki tür oyuncu at. Birincisi format tuzakları: points ligi değeriyle şişmiş, bizim dokuz kategori ligde daha az eden oyuncular. Format farkı artı yirmi ve üstü olanlar. Jalen Brunson, bizim yirmi bir virgül sekiz, piyasa otuz iki virgül yedi, format farkı artı yirmi yedi, Alperen Sengun, yirmi bir virgül iki ve otuz iki buçuk, artı otuz bir, Paolo Banchero, on bir virgül üç ve on altı, artı altmış beş, LeBron James, on üç virgül sekiz ve on altı virgül altı, artı yirmi dört. Jalen Johnson'ın format farkı artı on yedi ama piyasa sırası on, bizim sırası otuz bir; uzmanlar da onu kategori liginde ilk tur oyuncusu görmüyor.
+
+İkincisi, almayı planlamadığın pahalı yıldızlar. Büyük isimleri erken atmak masadan nakit çeker ve odanın sıcak mı soğuk mu olduğunu gösterir, Josh Lloyd beş Ekim. Luka Dončić, piyasa yetmiş, bizim kırk sekiz virgül iki, Cade Cunningham, altmış iki virgül dört ve otuz sekiz virgül dört, Tyrese Maxey, elli dört virgül bir ve otuz dört buçuk, buna uygun. Dikkat: bu yıldızlar "pahalı" değil, sadece bizim düz ölçeğimizde onlara bu parayı vermiyoruz. Oda onlara ödeyecek, bırak ödesin.
+
+Üçüncü erken hamle: bir dolar değerinde gördüğün ama odanın sevdiği ucuz isimleri at. Uzman, bir dolarlık oyuncuların erken atıldığında sık sık dört ila beş dolara gittiğini söylüyor. Mock'ta Konan Niederhäuser üç, Dybantsa dört, Reed Sheppard beş, Cason Wallace sekiz dolara gitti. Bizim listede uygun adaylar: rookie heyecanı olan ve modelimizin sevmediği isimler. AJ Dybantsa, bizim dört virgül dokuz, Darryn Peterson, altı virgül altı, Dylan Harper, beş virgül dokuz.
+
+Orta: hedeflerini ne zaman atarsın.
+
+Kendi hedefini erken atma. Önce oda parasını harcasın. Hedefini şu anlarda at: aynı profildeki bir oyuncu yeni pahalı gittiyse, o kategoriye para harcayan menajer artık doymuştur, o pozisyona ihtiyaç duyan takımlar doldurduysa, ya da en zengin iki takımın parası eridiğinde. Uzmanın gözlemi: hemen her draft'ta ilk on kadar oyuncudan biri değerinin çok altına gider, sonra oda fiyatları yukarı iter. Erken fırsatı yakalamaya hazır ol ama kendi listeni erken açma.
+
+Geç: bir dolar oyunu.
+
+Son turlarda bir dolarlık oyuncuyu sen atarsan, açılış teklifi senin olur. Ama birinin cebinde birkaç dolar varsa seni geçer. Uzmanın çözümü: tek isme bağlanma, büyük gruplar halinde hedef listesi tut. Bizim listede piyasası bir dolar olup bizim modelin sevdiği isimler: Queta, bizim yirmi virgül iki, Cason Wallace, on dört virgül altı, Keegan Murray, on iki virgül dört, John Collins, on bir virgül dokuz, Collin Murray-Boyles, on bir virgül yedi, Paul Reed, dokuz virgül dört. Bunlar Yahoo listesinde aşağıda, odanın gözünde değiller.
+
+Sayaçlar: otuz saniye ve yirmi saniye.
+
+otuz saniye aday gösterme süresi, düşünmek için kısa. Draft öncesi sıralı bir aday listesi hazırla: en üstte istemediğin pahalı isimler. Varsayım, kontrol edilmedi: süre dolarsa Yahoo senin yerine sıralamanın tepesinden birini atar. Bu yüzden kendi kuyruğunun en üstünde asla bir hedefin olmasın.
+
+yirmi saniye teklif süresi, fiyat kararını o anda vermek için yetmez. Her hedefin En fazla fiyatı draft'tan önce yazılı olmalı. Teklif tarzını değiştir: bazen hemen teklif ver, bazen sayacın sonuna kadar bekle, bazen aniden bırak. Uzman öngörülebilirliği keskin menajerlere karşı en büyük zayıflık sayıyor. Varsayım: Yahoo'da her yeni teklif sayacı yeniden başlatıyor; bunu bir mock odada kontrol et.
+
+dört. Teklif verme.
+
+En fazla fiyat disiplini.
+
+Hiçbir oyuncu "mutlaka alınacak" değildir. Bir oyuncuyu sevmek, onu her fiyata almak demek değil, Josh Lloyd beş Ekim. Draft öncesi her hedef için bir En fazla fiyatı yaz ve yirmi saniyelik baskı altında onu aşma. İstisna tek: oynama payın varsa ve hedef senin karar ağacındaki bir sonraki seçenekten açıkça iyiyse, payın bir kısmını harca.
+
+Yahoo'nun en fazla teklif kuralı.
+
+Her boş slot için en az bir dolar ayırmak zorundasın. Formül: en fazla teklif eşittir kalan para eksi, boş slot sayısı eksi bir. Başlangıçta iki yüz eksi on bir, yani yüz seksen dokuz dolar. Örnek: kırk doların ve beş boş slotun varsa en fazla otuz altı verebilirsin. Bu formülü rakipler için de hesapla. Bu senin en önemli geç draft aracın.
+
+Uzmanın yöntemi: kalan parayı açık çekirdek slotlara böl, bir dolarlık slotlar için parayı önce ayır. Mock'ta Josh "iki bir dolarlık slotu çıkarırsam beş slot için yetmiş dolar, slot başına on dört dolar" diye hesapladı. Bunu her satıştan sonra güncelle.
+
+Fiyat zorlama.
+
+Rakibin açıkça istediği bir oyuncuyu ucuza almasına izin verme. Ama sadece kendin de kabul edeceğin fiyata kadar it, çünkü oyuncu sende kalabilir. Ne zaman duracağını bil. Rakip bir oyuncuya, draft'ın geri kalanında onu zayıflatacak kadar fazla ödemek üzereyse, onu bırak, Josh Lloyd beş Ekim. Fiyat zorlamayı draft'ın başında ve ortasında yap. Sonlarda, odanın parası azken, zorladığın oyuncu sende kalma ihtimali yükselir.
+
+Tek sayılı teklifler, çıkarım.
+
+Uzman notlarında yok, genel bir taktik: insanlar sınırlarını yuvarlak sayılara koyar, yirmi, yirmi beş, otuz gibi. yirmi bir, yirmi altı, otuz bir gibi tek sayılar, yuvarlak sınırı olan rakibi tam sınırında durdurur. Aynı nedenle kendi En fazla fiyatını yuvarlak sayı yerine bir fazlasına koy.
+
+Rakiplerin parasını ve ihtiyaçlarını takip et.
+
+Her rakip için dört şeyi izle: kalan para, boş slot sayısı, en fazla teklifi ve hangi pozisyonları doldurduğu. Bir takımın iki merkezi varsa bir sonraki merkeze daha az zorlar. En zengin iki takımın en fazla teklifi, kalan her oyuncunun gerçek tavanıdır. Varsayım: Yahoo draft odası her takımın kalan bütçesini gösteriyor; mock odada kontrol et.
+
+Odanın parası bitince.
+
+Geç draft'ta çoğu takımın en fazla teklifi birkaç dolara düşer. Burada iki kural var. Birincisi, sıcak bir odada geç değer gelir, sabrın varsa bekle, Josh Lloyd beş Ekim. Mock'ta Derrick White on dört, Norman Powell üç dolara, menajerlerin parası azaldığı için kaldı. İkincisi, senin hedefin için gereken teklif, diğer en zengin takımın en fazla teklifinden bir dolar fazladır. Diğer herkesin en fazla teklifi dört ise, beş dolar o oyuncuyu kesin alır.
+
+Son oyun.
+
+Para bitirmeden draft'ı bitirme. Elinde kullanılmamış para kalırsa bütçeni yanlış planlamışsın demektir, Josh Lloyd beş Ekim. Son slot, bir dolarlık streaming slotu olmalı. on iki takımlı bir ligde başlangıç seviyesinde yaklaşık yüz yirmi oyuncu var; on ikinci slota bir dolardan fazla vermek, FAB ve günlük waiver'ın zaten vereceği şeye para ödemektir.
+
+beş. Odadaki format tuzakları.
+
+Yahoo draft odası varsayılan olarak X-rank'e göre sıralar. Uzmanlara göre X-rank uzmanların hissine dayalı bir liste, lig formatını dikkate almıyor ve points değeri ile kategori değeri arasında bir yerde duruyor, rankings-adp-and-format. Odadaki her ismin yanında Yahoo ortalama maliyeti de görünüyor. Deneyimli menajerler bile bu iki sayıyı çapa olarak kullanır. Bizim verimizde X-rank yok; elimizdeki çapa Yahoo ortalama maliyeti.
+
+Bundan iki fırsat çıkıyor. Birincisi, Yahoo maliyeti ESPN'den çok düşük olan ve bizim sevdiğimiz oyuncular: odanın çapası düşük olacak. Derrick White, Yahoo on virgül iki, ESPN on sekiz, bizim yirmi yedi virgül dokuz, Dyson Daniels, dört virgül dört ve dokuz virgül dört, bizim yirmi dokuz virgül yedi, Amen Thompson, yirmi dört ve otuz altı virgül altı, bizim otuz bir virgül sekiz. İkincisi, Yahoo maliyeti ESPN'den çok yüksek olanlar: odada Yahoo sayısına yakın gider. Chet Holmgren, Yahoo otuz virgül altı, ESPN dokuz virgül sekiz, Walker Kessler, on sekiz virgül sekiz ve yedi virgül sekiz, Trey Murphy III, on sekiz ve yedi virgül dört, Brandon Miller, on dokuz virgül iki ve yedi virgül iki. Bunlarda Yahoo fiyatını ödeme.
+
+Üçüncü bir etki: Yahoo listesinde aşağıda kalan oyuncular gözden kaçar. Piyasa sırası yüz on beş ve altı olan Queta, Cason Wallace, Paul Reed gibi isimler, biri atmadıkça satışa çıkmayabilir. Onları sen geç draft'ta bir dolardan at.
+
+Odanın fazla ödeyeceği yer.
+
+Sabonis ve Deni Avdija'da format farkı büyük, artı yirmi beş ve artı yirmi sekiz, ama piyasa fiyatı bizim fiyata yakın, yirmi beş virgül yedi ve yirmi üç virgül altı; on sekiz virgül sekiz ve on sekiz virgül yedi. Şişme ESPN tarafında; bizim Yahoo odasında tuzak fiyatta değil. Stephon Castle'da da format farkı artı kırk altı, ama piyasası, altı virgül altı, bizim fiyatın, on bir virgül altı, altında; uzmanlar onu Yahoo ADP'sinde istemiyor. Julius Randle'da da durum aynı: format farkı artı elli bir, ama piyasa yedi virgül bir, bizim sekiz virgül dört. Mock'taki on beş dolar tek bir uzman odası. Bu dördü ADİL.
+
+Jaylen Brown, artı otuz bir, bu tabloda yok, çünkü kaynaklar çelişiyor. Bizim model ona on beş virgül dokuz dolar veriyor ve onu tuzak gösteriyor. Uzman makalesi ise onu piyasanın düşük fiyatladığı kategori oyuncuları arasında sayıyor, Josh da mock'taki yirmi üç dolarlık fiyatı iyi buldu. Tek kaynaklı karar vermiyoruz: ayrıntısı bölüm üçte.
+
+Odanın az ödeyeceği yer.
+
+Dyson Daniels.
+
+Karar: al.
+
+Hedef puanı beşte beş.
+
+Bizim fiyat otuz dolar. Piyasa fiyatı altı dolar. Dokuz kategori sırası on altı. Points sırası kırk. Format farkı eksi yirmi dört. En fazla teklif yirmi iki dolar.
+
+Üç kaynağın üçü aynı yönde. Modelimiz onu on altıncı sırada görüyor, top çalmada çok büyük, z dört virgül seksen sekiz. Format farkı eksi yirmi dört: points listesinde aşağıda, bu yüzden Yahoo ortalaması sadece dört virgül dört dolar. Uzmanlar top çalmanın iki virgül üç ile üç arasına döneceğini ve üçlüğünün düzeleceğini söylüyor, yirmi doların üstünü bekliyor; mock'ta on yedi dolara gitti ve Josh bunu "muazzam değer" dedi. Zayıf yanı serbest atış yüzdesi, yüzde altmış üç virgül bir, ama az atış attığı için zararı sınırlı. En fazla yirmi iki dolar: uzmanın yirmi artı payı, bizim otuzun çok altında, çünkü bizim otuz model aykırısı olarak işaretli.
+
+Derrick White.
+
+Karar: al.
+
+Hedef puanı beşte beş.
+
+Bizim fiyat yirmi sekiz dolar. Piyasa fiyatı on dört dolar. Dokuz kategori sırası yirmi altı. Points sırası elli. Format farkı eksi yirmi dört. En fazla teklif yirmi dört dolar.
+
+Model, format farkı ve uzman aynı yönde. Josh onu auction'da yirmilerin ortasında görüyor; mock'ta on dört dolara gitmesine "inanılmaz çalıntı" dedi. Yahoo ortalaması on virgül iki, ESPN on sekiz: bizim Yahoo odasının çapası düşük olacak. Uzmanlar üçüncü seçenek olarak kullanımının düşeceğini ama saha içi isabetinin artacağını bekliyor. En fazla yirmi dört dolar: uzmanın yirmilerin ortası değerinin hemen altı.
+
+Nickeil Alexander-Walker.
+
+Karar: al.
+
+Hedef puanı beşte dört.
+
+Bizim fiyat yirmi dört dolar. Piyasa fiyatı yedi dolar. Dokuz kategori sırası otuz beş. Points sırası kırk dokuz. Format farkı eksi on dört. En fazla teklif yirmi dolar.
+
+Uzmanlar onu kategori liginde ilk elli, Josh muhtemelen ilk kırk görüyor ve yirmilerin ortası değer veriyor. Mock'ta on dört dolara gitti. Points liginde değeri ancak ADP'sine eşit, bu da piyasayı aşağı çekiyor. Uyarı: geçen sezon sonundaki şut yüzdeleri sürmeyecek, uzmanlar All-Star öncesi çizgisini baz alıyor. En fazla yirmi dolar: bizim yirmi dört ile mock on dörtün arası.
+
+Jalen Brunson.
+
+Karar: format tuzağı.
+
+Hedef puanı beşte iki.
+
+Bizim fiyat yirmi iki dolar. Piyasa fiyatı otuz üç dolar. Dokuz kategori sırası kırk iki. Points sırası on beş. Format farkı artı yirmi yedi. En fazla teklif yirmi bir dolar.
+
+Points listesinde on beşinci, bizim dokuz kategori listede kırk iki. ESPN ortalama maliyeti kırk iki virgül dokuz dolar, açık bir points etkisi. Uzmanlar onu kategori liginde dördüncü tur oyuncusu görüyor ve Yahoo ADP'sini çok yüksek buluyor. Knicks'in sezon başında yıldızların dakikalarını koruması bekleniyor. Josh mock'ta on dokuza kadar çıktı, yirmiye gitti. Erken aday göster, oda ödesin. En fazla yirmi bir dolar: bizim yirmi ikinin hemen altı.
+
+Alperen Sengun.
+
+Karar: format tuzağı.
+
+Hedef puanı beşte iki.
+
+Bizim fiyat yirmi bir dolar. Piyasa fiyatı otuz üç dolar. Dokuz kategori sırası kırk beş. Points sırası on dört. Format farkı artı otuz bir. En fazla teklif yirmi dört dolar.
+
+Kaynaklar ayrışıyor. Modelimiz ve format farkı onu şişmiş gösteriyor: serbest atışı kötü, z eksi iki virgül on bir, top kaybı yüksek. Uzmanlar ise ona yaklaşık otuz dolar veriyor ve ADP'sini makul buluyor. Bizi model tarafına iten iki uzman notu var: asistlerinin beş ile beş buçuk arasına düşmesi bekleniyor ve playoff haftalarında sadece on maçı var. En fazla yirmi dört dolar: bizim yirmi bir artı küçük bir pay; sadece punt serbest atış kuruyorsan biraz daha fazla.
+
+Paolo Banchero.
+
+Karar: format tuzağı.
+
+Hedef puanı beşte bir.
+
+Bizim fiyat on bir dolar. Piyasa fiyatı on altı dolar. Dokuz kategori sırası seksen dokuz. Points sırası yirmi dört. Format farkı artı altmış beş. En fazla teklif on iki dolar.
+
+Listedeki en büyük format farkı. Points'te yirmi dördüncü, bizde seksen dokuz. Uzmanlar onu kategori liginde kırklar ile ellilerin ortası arasında adil görüyor ve piyasa fiyatını kategori için biraz yüksek buluyor. Yani uzman bizim modelden daha olumlu ama o da "fırsat" demiyor. Mock'ta on dokuz dolara gitti. En fazla on iki dolar: bizim on bir artı bir.
+
+altı. Auction'da punt serbest atış.
+
+Punt, bilerek bir kategoriden vazgeçip diğerlerinde güçlenmektir. Auction'da punt serbest atış'nin avantajı şu: kötü serbest atış atan oyuncuları oda nadiren kovalar, bu yüzden ucuz kalırlar, punt-ft-targets. Bizim modelin Minus bir ölçüsü her oyuncunun en kötü kategorisini düşürür; tam z-score ise düşürmez. İkisi arasındaki büyük fark, oyuncunun tek bir çok kötü kategorisi olduğunu gösterir.
+
+Giannis bunun en açık örneği. Minus bir ona kırk bir virgül dört dolar veriyor, çünkü serbest atışını, yüzde altmış dört virgül dört, maç başına on virgül altı deneme, z eksi beş virgül seksen yedi, düşürüyor. Tam z-score ona sadece yirmi virgül dört dolar veriyor. Piyasa elli dokuz virgül yedi, mock elli sekiz, uzman yaklaşık altmış. Giannis'i elli sekiz dolara almak ancak punt serbest atış kurarsan mantıklı; kurmazsan pahalı.
+
+Daha ucuz yol: Giannis olmadan punt serbest atış çekirdeği. Rudy Gobert, piyasa beş virgül dört, bizim yirmi beş buçuk, serbest atış z eksi üç virgül on dokuz, Walker Kessler, on beş virgül dokuz ve yirmi dokuz virgül bir, z eksi iki virgül kırk, Evan Mobley, yirmi iki virgül dört ve yirmi sekiz virgül dokuz, z eksi iki virgül on dokuz, Ausar Thompson, iki virgül sekiz ve on dokuz virgül altı, z eksi iki virgül yirmi iki, Dyson Daniels ve Donovan Clingan. Bunların hepsi bizim sıramızda ilk ellide ve piyasada çok daha aşağıda.
+
+İki uyarı. Birincisi, uzman: "on dolarlık oyuncuya build'ine uyduğu için yirmi beş vermek değer değildir." Punt değerini fiyat olarak ödeme. Kessler bunun örneği: Josh on beşten fazla vermez, mock'ta yirmi altıya gitti, bizim model yirmi dokuz diyor; bu çelişki yüzünden ADİL. İkincisi, serbest atış puan, üçlük ve asistle bağlantılı. Sadece kötü serbest atışçı alırsan dört kategori bırakırsın.
+
+D. Punt serbest atış örneği: Giannis + ucuz uzunlar.
+
+Kategori profili, yukarıdaki tabloda D satırı: saha içi isabet artı on üç virgül dokuz, ribaund artı on bir virgül altı, blok artı on virgül sekiz, top çalma artı beş virgül sekiz, sayı artı dört. Serbest atış eksi on iki virgül yedi ve üçlük eksi dört virgül bir. Yani bu takım fiilen serbest atış ve üçlüğü birlikte bırakır, asist ve top kaybında başa baş oynar. Haftalık hedef: saha içi isabet, ribaund, blok, top çalma ve sayıyı alıp beş ile dört kazanmak. Uzman kuralı: Giannis'ten sonraki üç alımın ikisi asist, üçlük ya da top çalma getirmeli. Burada White ve Alexander-Walker bu işi yapıyor.
+
+Ne zaman punt serbest atış'ye geçilir, çıkarım. Giannis elli beş doların altında kalırsa ya da oda Gobert, Mobley ve Daniels'ı plan fiyatlarının altında bırakırsa. Punt kararını draft'tan önce değil, odada hangi oyuncuların ucuz kaldığını görünce ver. Giannis için En fazla elli beş dolar: uzman ve mock elli sekiz ile altmış, biz sadece punt yaparsak bu bölgeye gireriz ve elli beş üstünde fazla bütçe kilitlenir.
+
+yedi. Draft günü listesi.
+
+Draft'tan önce:
+
+Kaynakları yenile ve son günlerde Yahoo ortalama maliyetlerini tekrar kontrol et.
+
+otuz ile kırk hedef için En fazla fiyatını yaz. Hedefleri isme göre değil, profile göre grupla: "top çalan kanat", "blok yapan merkez", "üçlük ve serbest atış guard".
+
+Her grup için bir yedek yaz. Karar ağacı: hedefi kaçırırsan para bir sonraki slota geçer.
+
+Bütçeyi böl: yaklaşık yüz seksen beş dolar on bir çekirdeğe, yaklaşık on dört dolar oynama payı, bir dolar streaming slotu.
+
+Aday gösterme kuyruğunu sırala: üstte format tuzakları ve almayacağın yıldızlar, sonra ucuz rookie isimleri.
+
+on bir rakip için takip tablosu hazırla: kalan para, boş slot, en fazla teklif, dolu pozisyonlar.
+
+Bir mock odada iki şeyi kontrol et: teklif sayacı her teklifte yeniden başlıyor mu, süre dolunca kim aday gösteriliyor.
+
+Draft sırasında:
+
+İlk on satışı listendeki fiyatlarla karşılaştır. Oda sıcak mı soğuk mu karar ver.
+
+Sıcak odada: yıldızlara tam fiyat verme, orta banda yönel, sabırlı ol.
+
+Soğuk odada: düşen bir yıldızı al, tasarrufu karar ağacına aktar.
+
+En fazla fiyatını aşma. Tek sayılı teklif ver.
+
+Teklif tarzını değiştir: hızlı, sayacı bekleten, bırakan.
+
+Her satıştan sonra kendi para / açık çekirdek slot oranını güncelle.
+
+Geç draft'ta her rakibin en fazla teklifini hesapla: kalan para eksi, boş slot eksi bir.
+
+bir dolarlık hedefler için tek isme bağlanma, büyük grupla çalış.
+
+Parayı bitir. Son slot bir dolarlık streaming slotu.
+
+En önemli üç karar. Dengeli bir çekirdek kur, ama değer gelirse yıldız al. Format tuzaklarını, Brunson, Sengun, Banchero, Jalen Johnson, erken aday göster ve oda ödesin. Daniels, White ve Alexander-Walker için hazır ol, ama En fazla fiyatlarını aşma.

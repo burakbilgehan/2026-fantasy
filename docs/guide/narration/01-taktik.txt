@@ -1,0 +1,181 @@
+dokuz-Cat kafa kafaya Taktikleri.
+
+Haftalık beş ile dört nasıl kazanılır, hangi kategori punt edilir, hangi kadro tipi kurulur ve sezon boyunca FAB, altı hamle, IL ve takaslarla nasıl yönetilir. Hepsi bizim lige göre: on iki takım, günlük kadro, on starter, iki yedek, dört IL, playoff on dokuz ile yirmi bir. haftalar.
+
+birinci kafa kafaya kategoriler nasıl kazanılır.
+
+Her hafta tek bir rakiple dokuz kategoride karşılaşıyoruz: saha içi yüzdesi, serbest atış yüzdesi, üçlük, sayı, ribaund, asist, top çalma, blok ve top kaybı. Her kategori ayrı bir yarış. Haftayı almak için beş kategori yeter. Tipik bir sonuç beş, dört, sıfır. Bu yüzden amaç dokuz kategoride ortalamanın biraz üstünde olmak değil. Amaç beş ya da altı kategoride büyük farkla önde olmak.
+
+Uzman notlarına göre marj meselesi sayısal: bir kategoride yaklaşık sıfır virgül yedi z skor üstünlük haftaların sadece yaklaşık yüzde elli beş'ini kazandırıyor. Yaklaşık iki buçuk z skor üstünlük ise yaklaşık yüzde seksen beş'ini kazandırıyor, category-stability-and-margins. Yani küçük üstünlük yazı tura, büyük üstünlük garanti. Seçtiğin kategorilerde tampon kur.
+
+Kategoriler aynı derecede güvenilir değil.
+
+Uzmanların yıldan yıla korelasyon rakamları kategorileri iki gruba ayırıyor. Sabit grup: sayı, ribaund, asist. Bir uzman bunları sıfır virgül seksen dokuz korelasyonla veriyor. Oynak grup: top çalma, sıfır virgül yetmiş dört, saha içi yüzdesi, sıfır virgül yetmiş beş, ve atış yüzdeleri genelde. Serbest atış yüzdesi sıfır virgül kırk dokuz, üçlük yüzdesi sıfır virgül kırk beş korelasyonla en oynak atış ölçüsü. Ama üçlük denemesi sıfır virgül seksen sekiz, isabetli üçlük sıfır virgül seksen altı ile sabit. Yani hacim kalıcı, isabet şans.
+
+blok konusunda uzmanlar ayrışıyor. Biri blok, üçlük ve top kaybı'yu sıfır,seksen altı ile sıfır,seksen dokuz ile sabit grupta sayıyor. Diğeri blokları yıldan yıla çok oynak buluyor. Bizim kural: blok için sayı, ribaund ve asist kadar ödeme yapma.
+
+Pratik sonuç, uzman görüşü, bizim lige uyarlanmış: iki yüz dolarının büyük kısmı sayı, ribaund ve asist'ye gitsin. Değeri sadece top çalma, yüzdeler ya da üçlük'den gelen oyuncuya prim ödeme. üçlük ve top çalma waiver'da kolay bulunur. asist ve sayı geç turlarda ve waiver'da çok zor bulunur.
+
+Yüzdeler hacimle ağırlıklı oran.
+
+Bizim ligde saha içi yüzdesi ve serbest atış yüzdesi takım toplamı: toplam isabet bölü toplam deneme. Bir oyuncunun etkisi iki şeye bağlı. Kaç deneme yaptığı ve yüzdesinin takım ortalamasından ne kadar uzak olduğu, percentage-anchors-and-liabilities. Düşük hacimde iyi yüzde neredeyse hiçbir şey değiştirmez. Aşağıdaki tablo bunu gösteriyor. Curry yüzde doksan iki buçuk ile en iyi atıcı, ama maçta dört buçuk deneme yapıyor. Booker yüzde seksen sekiz virgül dört atıyor ama yedi virgül dört deneme yapıyor. Bu yüzden Booker'ın serbest atış z değeri Curry'ninkinden yüksek. Giannis maçta on virgül altı serbest atış deneyip yüzde altmış dört virgül dört atıyor. serbest atış z değeri eksi beş virgül seksen yedi, havuzun en kötüsü.
+
+İki pratik kural. Birincisi: yakın bir haftanın son gününde yüzde liderliğini korumak için yüksek hacimli kötü atıcıyı kenara çekmeyi düşün. Kadro günlük olduğu için bu mümkün. İkincisi: serbest atış yüzdesi'yi gerileme ile fiyatla. Geçen sezonki ani serbest atış yüzdesi sıçraması büyük ihtimalle kalıcı değil, ani düşüş de öyle. Sadece uç vakalar kesin, Giannis gibi.
+
+Maç sayısı ve streaming.
+
+Sayma kategorilerinde haftalık toplamı maç sayısı belirler. Uzmanlar bir streaming slotunun değerini yaklaşık yüzüncü oyuncu, biri yüz ile yüz on arası olarak veriyor, streaming-and-waivers. Bizim ligde yüz kırk dört oyuncu draft ediliyor, yani serbest havuz yaklaşık yüz kırk beşinci sıradan başlıyor. Her gün maçı olan oyuncu ekleyerek o havuzdan ilk yüz seviyesinde üretim çıkarabilirsin.
+
+Bizim kurallar: günlük kadro, haftada en fazla altı ekleme, FAB her gün işleniyor. Hafta sonunda kullanılmayan her ekleme kaybedilmiş maçtır, çıkarım, uzman notlarıyla uyumlu. iki maçlık hafta yüzdeleri oynatır ve sayma kategorilerinde kaybettirir. Back-to-back sayısı takımlar arasında on üç ile on altı aralığında, yani draftta önemsiz. İstisna: sakatlıktan dönen oyuncular, çünkü onlar back-to-back'in bir maçını oturur, two-and-five-game-weeks.
+
+Kasım otuz ile Aralık on üç arası NBA Cup haftaları Yahoo'da tek on dört günlük eşleşme. altı ekleme sınırının o dönemde haftalık mı eşleşme başına mı sayıldığı notlarda yok. Lig ayarlarından kontrol et.
+
+iki. Punt: ne, ne zaman, hangisi.
+
+Punt, bir kategoriyi bilerek bırakmak. Fantasy değeri sınırlı. dokuz kategori yerine sekize yayarsan, kalan sekizde daha güçlü olursun. Punt kötü olmaya çalışmak değil. O kategoriyi yok saymak. Bazı haftalar şansla yine kazanırsın.
+
+Ne zaman? Uzmanların ortak görüşü: auction'dan önce punt seçme. Erken bölümde değer al. Bir punt kendiliğinden ortaya çıkarsa ona yaslan, how-to-punt. Giannis almak seni punt serbest atış'ye zorlamaz. Ama Giannis'i aldıysan, kötü serbest atıcıların maliyeti sana düşer, çünkü onların zayıf yönü artık seni etkilemiyor.
+
+Kaç kategori? Bizim ligde on iki takımdan sekizi playoffa giriyor. Playoff üç hafta, sekiz takım: çıkarımım şu, kimse bye almıyor, yani on dokuzuncu haftadaki iki maçlık hafta da emilemez. Playoff'a girmek görece kolay, ama üç haftayı da kazanmak gerekiyor. Uzmanlara göre her punt hacmi azaltır ve varyansı artırır. on iki takım ve dokuz kategori bir ya da iki punt'u kaldırır, dört ya da beş kategorilik punt'u kaldırmaz.
+
+Hangi kategoriler? İyi punt: oynak kategoriler. top kaybı en kolayı, sonra serbest atış yüzdesi, saha içi yüzdesi, top çalma, blok ve üçlük. Kötü punt: sayı ve asist, çünkü sabit ve yüksek hacimli. Onları bırakırsan neredeyse her hafta kaybedersin.
+
+Punt sıralamaları yanıltır. Senin zayıf kategorini siler, ama diğer on bir takımın zayıf kategorisini silmez. Uzman kuralı: bir oyuncuya punt sıralamasının şişirdiği fiyatı değil, normal dokuz kategori değerini teklif et, how-to-punt.
+
+Minus bir ve tam z farkı punt adayını nasıl bulur.
+
+Bizim iki fiyatımız var. Tam z skor fiyatı oyuncunun dokuz kategorisinin hepsini sayar. Minus bir fiyatı her oyuncunun kendi en kötü kategorisini düşer. İki fiyat da toplamı aynı olacak şekilde ölçekleniyor, ilk yüz kırk dört için iki bin dört yüz dolar. Bu yüzden fark iki yöne gider.
+
+Büyük pozitif fark: oyuncunun tek bir çok kötü kategorisi var. Minus bir o deliği siliyor ve fiyat sıçrıyor. Bu oyuncu bir punt çapası adayı. Giannis'te fark yirmi bir dolar: Minus bir ile kırk bir virgül dört dolar ve beşinci sıra, tam z ile yirmi virgül dört dolar ve kırk yedinci sıra. Gobert'te dokuz dolar, Trae Young'da yedi virgül sekiz dolar, Cade'de yedi buçuk dolar.
+
+Negatif fark: oyuncunun belirgin zayıf yeri yok. Minus bir ondan çok az şey siliyor, diğer oyuncular daha çok kazanıyor, o yüzden göreceli olarak düşüyor. Bu oyuncular her kadro tipine uyar: Kawhi Leonard, Jaden McDaniels, Jalen Williams, Desmond Bane, Trey Murphy III, Okongwu. Bölüm üçteki "dengeli kadro" bunlarla kurulur.
+
+Okuma kuralı, çıkarım: o kategoriyi punt eden takımsan Minus bir senin tavanın. Dengeli takımsan tam z fiyatı senin tavanın. Odadaki fiyat ise ikisinden de farklı olabilir.
+
+Projeksiyonumuza göre ilk yüz kırk dörtte en kötü kategorinin dağılımı şöyle: top kaybı otuz yedi, ribaund on dokuz, saha içi yüzdesi on sekiz, üçlük on yedi, serbest atış yüzdesi on altı, asist on beş, blok on, top çalma dokuz, sayı üçüncü top kaybı açık ara en sık zayıf nokta. Bu, uzmanların "punt top kaybı en doğal punt" görüşüyle örtüşüyor: yüksek kullanımlı her yıldız top kaybeder.
+
+Model notu: üçlük z değerinin bir tabanı var. Hiç üçlük atmayan pivotlar aynı eksi bir virgül yetmiş üç değerinde toplanıyor, Duren, Gobert, Allen, Zubac, Hartenstein, Gafford, Poeltl. Minus bir bu tabanı düşüyor. Bu yüzden modelimiz üçlüksüz pivotları piyasadan çok daha pahalı görüyor, Queta yirmi virgül iki dolar, piyasa bir. Bu, modelimizle odanın en büyük anlaşmazlık kaynağı. Bir kısmı gerçek değer, bir kısmı model yapısı.
+
+Punt serbest atış yüzdesi.
+
+Bizim ligde punt serbest atış genelde Giannis ile başlar. Uzmanlara göre saf punt serbest atış başarısız olur, çünkü serbest atış sayı, üçlük ve asist ile bağlıdır. Sadece kötü serbest atıcı alırsan dört kategori bırakmış olursun. Kural: punt edilen bir guard istatistiğinden sonraki üç alımın ikisi asist, üçlük ya da top çalma getiren oyuncu olsun, punt-ft-targets. Aşağıdaki hedeflerin hiçbiri ciddi üçlük hacmi getirmiyor. Üçlüğü iyi serbest atıcılardan almak zorundasın.
+
+Başlangıçta oynayan kötü serbest atıcı, bilerek faul taktiğinden kısmen korunur, çünkü maçın başında takım faulü yok. Bu yüzden Gobert gibi starter pivotlar yedek pivotlardan daha güvenli.
+
+Punt top kaybı.
+
+Üç uzman kaynağı kafa kafaya'de top kaybı'yu tamamen yok sayıyor. Sebep basit: top kaybı kullanım formülünün üçte biri. Her ilk tur oyuncusu çok top kaybeder. Ayrıca maç sayısı için streaming yapmak top kaybı'yu kendiliğinden artırır. Az maçlı haftalarda top kaybı'yu zaten kazanırsın, punt-to-targets.
+
+Bizim kural: düşük top kaybı için asla ekstra ödeme yapma, top kaybı'yu sadece eşit iki oyuncu arasında eşitlik bozucu olarak kullan. Punt top kaybı ile asist ağırlıklı guard'ları ve point forward'ları tam değerle alırsın, çünkü yüksek asist yüksek top kaybı ile gelir.
+
+Punt saha içi yüzdesi.
+
+saha içi yüzdesi haftadan haftaya en çok oynayan kategori. Kazanabileceğin hafta sayısı zaten az, o yüzden bırakmak ucuz. Hedef: hacimli guard ve forvetler. Üçlük, sayı, asist ve serbest atış yüzdesi getirsinler, ama kötü isabetle, punt-fg-targets. Birçoğu punt top kaybı'ya da uyar. İkisini birlikte bırakıp kalan yedi kategoriden beşini hedefleyebilirsin.
+
+Uyarı: punt saha içi takımı serbest atış yüzdesi'ye yaslanır, ve serbest atış yüzdesi yıldan yıla en oynak kategori. İlk iki haftada takım serbest atış yüzdesi'ni kontrol et.
+
+Punt asist.
+
+Makalede sadece üç punt asist hedefi var: Maluach, Nesmith ve Eason. Hepsi yüz kırk dört sınırına yakın ya da dışında, punt-ast-targets. Ama bizim veride asist'si zayıf, diğer sekiz kategoride güçlü oyuncular daha fazla. Aşağıdaki tablo projeksiyonumuza göre. Asist waiver'da çok zor bulunur. Bu punt'a erken karar ver: ilk birkaç alımdan sonra asist toplamın düşükse ve büyük asistçiler tam fiyata gidiyorsa, punt'a geç. Hem zayıf kalıp hem asiste para ödeme. Artısı: top kaybı kendiliğinden düşer. Riski: düşük asistli oyuncular genelde üçlük, top çalma ve serbest atış yüzdesi'de de zayıf.
+
+Punt blok.
+
+Bloklar oynak, bu yüzden punt blok takımı bazı haftalar şansla kazanır. Ama bloklar ribaund ve saha içi yüzdesi ile birlikte gelir. Sadece düşük bloklu oyuncu kovalarsan ribaund ve saha içi yüzdesi'yi de kaybedersin, punt-blk-targets. Kural: her hedefte saha içi yüzdesi ve ribaund'e de bak. C slotunu ve F slotlarını yine de doldurmalısın. Geç dolarları blok atmayan ama ribaund alan ya da verimli atan uzunlara harca.
+
+Punt üçlük.
+
+Maçta iki üçlük artık ortalama. Üçlük waiver'dan kolay stream edilir. Bu yüzden hiç üçlük atmayan oyuncu sıralamasının gösterdiğinden daha az değer kaybeder, punt-üçpm-targets. Gerilim şu: sadece pivot dizersen asist, top çalma ve serbest atış yüzdesi'de de zayıf kalırsın. Üçlüksüz ama top çalma ve asist getiren guard ve kanatlar ekle. Amen Thompson ve Dyson Daniels bunun için var.
+
+Daniels özel bir vaka. Modelimiz onu yirmi dokuz virgül yedi dolar görüyor, piyasa altı virgül iki. Josh yirmi dolar ve üstü diyor. Model ve uzman aynı yönde, o yüzden AL. Ama değerinin çoğu top çalmadan geliyor, top çalma z artı dört virgül dokuz, ve top çalma en oynak kategorilerden biri. Fiyatı modelimizin değil, uzmanın aralığında tut.
+
+Punt top çalma.
+
+top çalma çok oynak: elit top çalanlar bile bir sezonda maçta sıfır,yedi ile sıfır,sekize düşebiliyor. Waiver'da da en sık bulunan kategorilerden biri, punt-stl-targets. top çalma ne guard ne uzun kadrosuna sıkı bağlı, o yüzden punt top çalma her kadro tipinin üstüne eklenebilir. Tam punt etmek istemiyorsan bile auction'da top çalmaya prim ödeme. Sezon içinde FAB ile doldur.
+
+üç. Kadro tipleri.
+
+Uzunlar ve savunma.
+
+Uzman notlarına göre sadece ribaund, blok ve saha içi yüzdesi birlikte hareket eder. Bu kadro top çalma ve düşük top kaybı getirmez, çünkü blok ile top kaybı arasında bağ yok. Üçlük ve saha içi yüzdesi birbirini iter, bu yüzden uzun kadrosuna üçlük eklemek zor. Doğal eşleşme: punt üçlük ve punt serbest atış. Modelimizin en sevdiği bölge de burası: Kessler, Gobert, Duren, Allen, Zubac, Queta piyasanın çok üstünde. Risk: model ve uzmanlar fiyatta ayrışıyor, uzman tavanlarına uy.
+
+Guard ağırlıklı.
+
+Guard kadrosu sayı, üçlük, asist, top çalma ve serbest atış yüzdesi'yi kapsar. Bu kategoriler birbirini destekler, bu yüzden en yaygın kadro tipi. Bıraktıkları genelde saha içi yüzdesi, blok ve bazen ribaund ya da top kaybı. Hedefler punt saha içi ve punt blok tablolarında. Dikkat: bu kadronun yıldızları, Luka, Cade, Mitchell, Brunson, odada en çok şişen isimler.
+
+Dengeli.
+
+Dengeli kadro ilk yirmiyi atlar ve çekirdeğini yaklaşık yirmi beş ile yetmiş beş. sıralar arasından kurar. Tavan düşük ama güvenlik yüksek: en iyi oyuncun otuzuncu sıradaysa ve sakatlanırsa waiver'da yakın bir yedek bulursun, safe-core-fits-every-build. Uzman örneği iki yüz doları şöyle bölüyor: yirmi iki dolardan dört, on dört dolardan beş, yedi dolardan iki oyuncu ve bir dolarlık bir yedek. Toplam yaklaşık yüz yetmiş üç dolar, kalan yaklaşık yirmi yedi dolar teklif savaşları için.
+
+Modelimizde bunun adayları negatif Minus bir farkı olanlar: Trey Murphy III, bizim yirmi virgül bir, piyasa on altı buçuk, Jalen Williams, yirmi bir buçuk ve yirmi, Desmond Bane, on sekiz virgül yedi ve on virgül dört, Mikal Bridges, on dokuz ve beş, Jaden McDaniels, on yedi virgül iki ve bir virgül altı, Okongwu, on dokuz virgül iki ve yedi virgül yedi. Uzmanlar Mikal Bridges'e kafa kafaya'de çok düşük hacim yüzünden sadece tek haneli dolar veriyor. Modelimiz onu seksen bir maç için seviyor. Burada uzmana uy.
+
+Pozisyonlar ve pivotlar.
+
+Kadromuz G, G, G, F, F, F, C ve üç Util. Sadece bir C zorunlu. Bu, pivot fiyatını düşürür. Uzman kuralı: auction'ın büyük kısmında pozisyon değil istatistik profili al. Takımlar yaklaşık sekiz oyuncuya ulaştığında, yani yüz kırk dörtün doksan altı ile yüz sekiz'i dolduğunda, her tekliften önce uygunluğu kontrol et, positions-and-centers. Sonunda G, F ve C'de ikişer üçer uygun oyuncun olsun. Günlük kadroda tek C oyuncun oturursa o slot boş kalır.
+
+Pivot alırken üç şeye bak: başlıyor mu, yaklaşık otuz dakikaya ulaşır mı, C'de mi PF'de mi oynuyor. yirmi iki dakikaya bölünen pivot işe yaramaz. Pas veren uzunlar, Jokić, Sengun, Sabonis, top kaybı maliyeti getirir, punt top kaybı ile eşleşir. Üçlük atan uzunlar, Towns, Adebayo, Naz Reid, genelde saha içi yüzdesi maliyeti getirir, punt saha içi ile eşleşir, bigs-who-pass-or-shoot.
+
+dört. Sezon içi yönetim.
+
+Waiver, FAB ve altı hamle.
+
+Sezonun üç evresi var: keşif, optimizasyon, maksimizasyon. Keşif evresinde, ilk haftalar, beklenmedik dakikalara, yeni starterlara ve rol değişikliklerine hızlı tepki ver. Kötü atış gecelerine tepki verme. Rol, dakika ve kullanım değişmediyse sabret. Geç flyer'ları iki haftalık deneme say. Sakatlıklar kampın kısalığı yüzünden erken zirve yapar ve Aralık ortasına kadar azalır.
+
+FAB için notlarda dolar miktarı yok. Ama nereye para harcanacağı belli: gerçek rol değişikliğine ciddi teklif, örneğin yirmi sekiz dakika alan yeni starter, kısa sakatlık yedeğine hafif teklif. Uzmanlar, büyük dakikalarda üreten yedeğin takım sağlıklıyken yaklaşık yüz ellinci sıraya döneceğini söylüyor. Bizim ligde bu waiver seviyesi.
+
+Uzmanlar ilk haftalarda streaming konusunda ayrışıyor. Bizim yaklaşım: birinci ve ikinci haftada eklemeleri rol değişikliklerine harca, flyer'ları tut. Flyer'lar netleşince saf maç streaming'e geç.
+
+IL slotları ve stash.
+
+Yahoo IL+'yı kaldırdı. "Out" ya da "injured" etiketli oyuncu hemen IL'e gider. "Questionable" oyuncu IL'e gidemez. Bizim dört IL slotumuz var. Stash tavsiyelerinin çoğu başka formatlar için yazılmış: best ball, haftalık kilit, derin yedek. Bizde günlük kadro ve sadece iki yedek var. Boş bir kadro yeri yaklaşık yüzüncü oyuncu değerinde, bu yüzden stash bir streamer'ı yenmeli, il-slots-and-stashing. Uzun süreli sakatı sadece auction'ın en sonunda en düşük teklifle al. IL slotuna ihtiyaç duyduğun gün bırak.
+
+Handcuff ve yedek pivotlar.
+
+Basketbolda handcuff, starter sağlıkken de bir şey veren yedektir. Starter sağlıkken hiçbir şey vermeyen yedek bizim için waiver adıdır, handcuffs-and-backup-centers. En iyi durum: starter düşerse otuz dakika oynayacak birebir yedek. Yedek pivotlar sezon içinde değerli streamer'dır, ama draftta değil. Starter "out" olduğu gün FAB ver. Örnekler: Duren düşerse Paul Reed, Gobert düşerse Beringer, Okongwu düşerse Landale, Cunningham düşerse Daniss Jenkins.
+
+Dakika savaşları.
+
+Dakika savaşı fiyatı düşürür. Sadece rotasyonu doğru okursan değer yaratır. Maçta iki üç dakika kayıp bile değeri keser. Geç turlarda iki adayı da bir ile üç dolara al, ilk haftalarda kaybedeni bırak. Orta turlarda ikisini birden almak bir yedek yeri ve para ister. Orada rotasyon hakkında karar ver ve indirimli oyuncuyu sadece indirimli fiyata al, minutes-battles. Örnek orta tur savaşları: Michael Porter Jr. ve Randle, Jarrett Allen ve Mobley, Kel'el Ware ve Myles Turner, Ryan Rollins ve Kevin Porter Jr.
+
+Takaslar.
+
+Bu ligde yöneticiler deneyimli ve sık takas yapıyor. Her teklif önce onlara yarar. Uzman kuralı: her teklife "hayır" ile başla, sonra rakamlar seni ikna etsin, in-season-trades. ikiye bir takasta iki oyuncu veren taraf genelde kazanır, çünkü açılan yer bir streaming slotu olur ve bu yaklaşık ilk yüz değerinde. Tersini, yani bire iki almayı, sadece iki oyuncu da her hafta kesin oynayacaksa kabul et.
+
+Sinyaller: üçlükte soğuk seri yaşayan oyuncuyu al, erken sezonda yüzde altmış üçlük atanı sat. Kariyer zirvesi top çalma oranına prim ödeme. Gerçek starter olmayıp starter rakamları üreten oyuncuyu hemen sat. Takas son günü dört Mart, playoff on dokuzuncu haftadan önce. Playoff için gereken her takas o güne kadar bitmeli.
+
+Playoff haftaları: on dokuz, yirmi, yirmi bir.
+
+Sezonumuz yirmi sekiz Mart Pazar bitiyor. Uzmanlara göre gerçekten önemli tek takvim faktörü playoffta iki maçlık hafta, fantasy-playoff-weeks. Draftta takvimi sadece benzer fiyattaki iki üst düzey oyuncu arasında eşitlik bozucu olarak kullan. Asla daha kötü oyuncuyu takvim için alma. Bir NBA takımından üç oyuncu sorun değil, beş fazla.
+
+Sezon sonu dinlenme ve tanking.
+
+Uzmanlar yeni draft lotarisi reformunun tanking'i azaltacağını bekliyor. Son üç sıra artık bir ceza bölgesi. Geçen sezon fantasy playofflarında sekiz dokuz takım tank yapıyor ya da oyuncu dinlendiriyordu. Bu sezon daha az bekleniyor, late-season-rest-and-tanking. Risk yine de kayboluyor değil, yer değiştiriyor: sıralaması kilitlenmiş takımlar, hiçbir şey için oynamayan orta takımlar ve kendi draft hakkına sahip olmayan takımlar, Nets, Bucks, Clippers, Pelicans, Mavericks. Takas son gününden önce her kilit oyuncu için üç soru sor: takımı sıralamaya kilitli mi, kendi pick'ine sahip mi, yarıştan ve son üçten uzak mı.
+
+beş. Geçen sezonu doğru okumak.
+
+Geçen sezonun sırası bir başlangıç noktası, fiyat etiketi değil. Üretim dakikayı, rolü ve fırsatı izler. Önce ne ürettiğini sor: takım arkadaşları yok muydu, tanking dönemi miydi, sıcak seri miydi, kısıtlı dakika mıydı, reading-last-season-in-context. Birkaç takım arkadaşı yokken gelen rakamları küçült. Tanking takımlarının Mart ve Nisan rakamlarına güvenme. Final oynamış takımların oyuncuları genelde yavaş başlar.
+
+Atış gerilemesi.
+
+Atış isabeti yıldan yıla zayıf taşınır: iki sayılık yüzde sıfır virgül elli üç, true shooting sıfır virgül elli iki, serbest atış sıfır virgül kırk dokuz, üçlük yüzdesi sıfır virgül kırk beş, shooting-and-defense-regression. Hacim sabit, isabet şans. Auction kontrol listesi: serbest atış yüzdesi kariyerinden çok mu uzak? Üçlük yüzdesi aynı hacimde mi sıçradı? İki sayılık yüzdesi yedi ile mi başlıyor? Elit pasör takımdan ayrıldı mı? Cevap evetse, yüzdelerin normale döneceğini varsayarak teklif ver. Savunmada da aynı: top çalmalar deflection'ı aştıysa ve blok dönüşümü kariyerinden çok yüksekse, düşüş bekle.
+
+Büyük sakatlıktan dönüş.
+
+Tam Aşil yırtığı genelde dokuz ile on iki ay, ACL yaklaşık on iki ay. İlk sezon üç şey bekle: dakika sınırı, back-to-back'lerde oturma ve verimlilik düşüşü, özellikle iki sayılık ve pota dibi bitirişte, returning-from-major-injury. Bu bizim saha içi yüzdesi'ye doğrudan dokunur. Uzmanlara göre piyasa bu oyunculardan fazla korkuyor. Bu indirimden faydalan, ama tam sağlıklı değer de ödeme. Değeri playoff haftalarına doğru yükselir.
+
+Tahmin edilen sakatlığa göre draft yapma.
+
+Bir sezondan diğerine oynanan maç sayısının korelasyonu sadece yaklaşık sıfır virgül üç. "Sakatlığa yatkın" ve "demir adam" etiketleri neredeyse değersiz, do-not-draft-by-predicted-injuries. Sadece kronik vakalarda indirim yap: aynı alt vücut bölgesinde tekrar eden sakatlık ya da ameliyat, ayak problemi olan uzunlar ve dejeneratif sakatlıklar. Kadroda tek bir ciddi risk tut. İki riskli yıldızı aynı kadroya koyma. kafa kafaya'de kaçan bir hafta tüm eşleşmeye, belki bir playoff haftasına mal olur.
+
+Bir uyarı, uzman verisi: ilk yirmi beşten çıkışların yüzde elli dört'ü daha kötü oynamaktan değil, sakatlık nedeniyle elli maç ya da bin beş yüz dakika eşiğinin altında kalmaktan geliyor. Pahalı oyuncunun değerini çoğu zaman sağlık belirler, ama bunu önceden bilemeyiz.
+
+Özet.
+
+Paranın çoğunu sabit kategorilere ver: sayı, ribaund, asist. üçlük ve top çalma'ye prim ödeme, onları waiver'dan stream et.
+
+Punt'u auction'dan önce seçme. Değer al, punt kendiliğinden ortaya çıksın. En fazla bir ya da iki kategori.
+
+Minus bir ile tam z arasındaki büyük fark punt çapasını gösterir, Giannis, Gobert, Trae, Cade. Punt eden takım değilsen tam z fiyatını tavan al.
+
+Modelimiz üçlüksüz pivotları piyasadan çok yüksek görüyor. Uzman tavanlarına uy: Kessler on beş, Gobert on bir, Duren yirmi civarı, Queta üç.
+
+Sezon içinde altı eklemenin hepsini kullan, IL'i hızlı çevir, ikiye bir takası ara ve takasları dört Mart'ten önce bitir. Minnesota'in yirminci hafta ve Cleveland'nin yirmi birinci hafta iki maçına dikkat et.

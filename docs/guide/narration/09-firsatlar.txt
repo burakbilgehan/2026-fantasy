@@ -1,0 +1,427 @@
+Fırsatlar: Breakout, Flyer, Ucuz Değer.
+
+Bu bölüm bir alışveriş listesi. Odanın parası nereye akıyor, nereye akmıyor, önce onu görüyoruz. Sonra altı bölge bölümünden çıkan bütün AL kararlarını üç fiyat kademesinde topluyoruz. Ardından breakout adayları, bir ile üç dolarlık flyer'lar, takım takım handcuff ve waiver listesi, ve her punt yapısı için ucuz kategori uzmanları geliyor.
+
+Bu bölüm yeni bir analiz yapmıyor. Altı bölge bölümünde yaklaşık üç yüz seksen oyuncuyu tek tek fiyatladık. Burada o kartlardan fırsat olanları topluyoruz ve draft gününde elinin altında duracak bir listeye çeviriyoruz. Her oyuncu için bir iki cümle var: neden fırsat, ne kadar ödenir ve tam kart hangi bölümde. Bir oyuncunun karar etiketi, hedef puanı ve en fazla rakamı burada da bölge bölümündekiyle aynı. Bir uzman makalesi başka bir rakam söylüyorsa, bunu açıkça yazıyoruz, ama kararı değiştirmiyoruz.
+
+Fiyat dili her yerde aynı. Bizim fiyat kendi projeksiyonumuzdan gelir ve odanın ölçeğindedir: ilk yüz kırk dört oyuncunun toplamı odadaki iki bin dört yüz dolara eşit. Piyasa fiyatı Yahoo, ESPN ve Fantrax karışımıdır. Piyasa fiyatı çarpı bir virgül yirmi yedi, odanın ortalamada ödeyeceği fiyattır. En fazla rakamı bizim fiyattan başlar ve bir uzman tavanı, bir risk ya da format farkı varsa aşağı iner. Çerçevenin tamamı Bölüm sıfır ve Bölüm ikide.
+
+bir. Odada değer nerede.
+
+Para nereye akıyor. Odada iki bin dört yüz dolar var. Piyasa listesindeki ilk yüz kırk dört oyuncunun toplamı ise bin sekiz yüz seksen sekiz dolar. Aradaki beş yüz on iki dolar bir yere gidecek. Bölüm ikideki bant tablosu bunun nereye gittiğini gösteriyor. Piyasası kırk ile elli dokuz dolar arasındaki yıldızlarda bizim model, piyasanın her doları için sadece altmış yedi sent değer görüyor. on ile yirmi dört dolar bandında oran bir virgül yirmi yediye çıkıyor. üç ile dokuz dolar bandında iki virgül altmış bir, üç doların altında ise beş virgül elli altı. Yani bizim modelin gördüğü fazla değerin büyük kısmı ucuz bantlarda duruyor.
+
+Ama oda bunu bilmiyor değil. Josh Lloyd'un beş Ekim tarihli uzman mock'unda piyasası üç ile dokuz dolar olan oyuncular piyasanın iki buçuk katına gitti. üç doların altındakiler yaklaşık beş katına gitti. İlk bir dolarlık oyuncu ancak yüz yirmi dördüncü seçim civarında çıktı. Dyson Daniels'ın piyasası altı virgül iki dolar, ama o mock'ta on yedi dolara satıldı. Buradan çıkan ders basit: ucuz bantta değer var, ama o değeri bir dolara alamazsın. Deneyimli bir odada iyi bir kategori oyuncusu piyasa fiyatında kalmaz.
+
+Bu yüzden bu bölümde her oyuncunun yanında bir en fazla rakamı var. O rakam bir tahmin değil, bir disiplin. Oda oyuncuyu en fazla rakamının altında bırakırsa al. Üstüne çıkarsa bırak ve listenin bir sonraki ismine geç. Listede her kademede yeterince isim var. Hiçbir ucuz oyuncu tek başına draft'ı kazandırmaz.
+
+Odanın parası nereye fazla gidiyor. Dört yer var. Birincisi points liglerinde şişen isimler. Format farkı artı yirmi ve üstü olan oyuncuların piyasa fiyatı bizim lig için fazla yüksek. Örnekler: Banchero, artı altmış beş, Castle, artı kırk altı, Sengun, artı otuz bir, Jaylen Brown, artı otuz bir, ve Brunson, artı yirmi yedi. Bu isimler Bölüm onun konusu. İkincisi yüksek kullanımlı guard'lar: sayı ve asist çok, ama saha içi ve top kaybı zararı fiyata yansımıyor. Üçüncüsü isim değeri olan çaylaklar. Bir numaralı seçim AJ Dybantsa'nın format farkı artı kırk. Darryn Peterson'ın Yahoo ortalama maliyeti sekiz virgül iki dolar, uzmanlar ise bir ile iki dolar diyor. Dördüncüsü kırk ile elli dokuz dolar bandındaki yıldızlar: orada her dolar bizim gözümüzde en az değeri alıyor.
+
+Odanın parası nereye az gidiyor. Yine dört yer var. Birincisi top çalma, blok ve saha içi veren rol oyuncuları. Points formülleri bu kategorileri sayar ama yüzdeleri ve dengeyi saymaz. Derrick White ve Dyson Daniels'ın format farkı eksi yirmi dört, Anunoby'ninki eksi otuz dört, Ausar Thompson'ınki eksi yirmi iki. İkincisi sayı atmayan başlangıç pivotları: Queta, eksi kırk bir, Allen, eksi yirmi dört, Gobert, eksi yirmi iki. Burada dikkat lazım, çünkü Minus bir modeli üçlük atmayan pivotun en kötü kategorisini siler ve fiyatını şişirir. Bu yüzden bu pivotlarda en fazla rakamı bizim fiyatın çok altında. Üçüncüsü rolü büyüyen ama adı küçük oyuncular: takım arkadaşı giden Paul George, McCollum ve Naz Reid gibi. Dördüncüsü rolü olan ikinci ve üçüncü yıl oyuncuları: Buzelis, Murray-Boyles, Coward ve Maluach.
+
+Kural değişmiyor. Bir oyuncuya AL demek için üç kaynaktan ikisinin aynı yöne bakması gerekiyor: bizim model, piyasa ile format farkı, ve uzman profili. Bu listedeki her AL kararı bu testi bölge bölümünde geçti. Tek kaynaklı model aykırıları, örneğin modelin yirmi dört dolar dediği Kel'el Ware, en fazla rakamında uzman aralığına çekildi. Geçen sezonun lig fiyatlarını bir kural olarak kullanmıyoruz.
+
+iki. AL listesi: kademe kademe.
+
+Bölge bölümlerinde AL kararı alan kırk dört oyuncu var. Önemli bir not: hiçbirinin en fazla rakamı yirmi altı doları geçmiyor. Bunun sebebi açık. Yıldızlarda oda bizim modelden daha fazla öder, bu yüzden yıldızların çoğu ADİL ya da PAHALI etiketi aldı. Jokić, Gilgeous-Alexander ve Amen Thompson gibi hedef puanı beş olan oyuncular bile bu listede yok, çünkü onlarda bir fırsat değil, adil bir fiyat var. Onları kendi bölümlerinde bul. Bu liste, odanın bizden daha az değer verdiği oyuncular. Kademeleri en fazla rakamına göre ayırdık: yirmi dolar ve üstü, on ile on dokuz dolar, ve on doların altı.
+
+Üst kademe: en fazla yirmi dolar ve üstü.
+
+Bu altı oyuncu takımının iskeleti olabilir. Hepsinin odadaki beklenen fiyatı en fazla rakamının belirgin altında. Ama Bölüm ikideki mock'un gösterdiği gibi, oda onları piyasa fiyatında bırakmayacak. Bu yüzden ilk tekliften en fazla rakamına kadar sabırlı ol.
+
+Dyson Daniels, Bölüm beş, en fazla yirmi altı dolar, hedef puanı beş. Projeksiyonumuza göre maçta iki virgül üç top çalma ile ligin en büyük top çalma kaynağı, üstüne asist, ribaund ve saha içi veriyor. Değeri tek kategoriye bağlı, bu yüzden bizim fiyatın biraz altındayız.
+
+Lauri Markkanen, Bölüm altı, en fazla yirmi altı dolar, hedef puanı dört, sakatlık etiketiyle. Serbest atış, üçlük ve sayı veriyor, format farkı eksi yirmi bir. Geçen sezon kırk iki maç oynadı, bu yüzden aralığın alt ucundayız.
+
+Derrick White, Bölüm üç, en fazla yirmi beş dolar, hedef puanı beş. Bir guard'dan blok, üçlük ve asist veriyor, format farkı eksi yirmi dört ve üç kaynak aynı yönde.
+
+Nickeil Alexander-Walker, Bölüm beş, en fazla yirmi iki dolar, hedef puanı beş. Maçta üç üçlük ve bir virgül bir top çalma ile her yapıya uyuyor. Odanın beklenen fiyatı sekiz dolar civarı.
+
+Matas Buzelis, Bölüm dört, en fazla yirmi bir dolar, hedef puanı beş. Central bölümünün bir numaralı hedefi: üçüncü yılında otuz iki dakika, bir forvetten hem blok hem üçlük. Uzmanlar ilk elli diyor.
+
+Darius Garland, Bölüm yedi, en fazla yirmi dolar, hedef puanı dört. Clippers'ın bir numaralı kullanım seçeneği, asist, üçlük ve serbest atış veriyor. Oda onu on beş doların altında bırakırsa kaçırma.
+
+Orta kademe: en fazla on ile on dokuz dolar.
+
+Draft'ın asıl kazanıldığı yer burası. Bölüm ikideki dengeli plan, çekirdeği kabaca yirmi beş ile yetmiş beşinci sıra arasından kurmayı öneriyor. Bu kademe tam o aralık, ama piyasa onu daha aşağıda görüyor.
+
+Jaren Jackson Jr., Bölüm altı, en fazla on sekiz dolar, hedef puanı dört. Utah'ta dakikası artıyor ve maçta bir virgül altı blok veriyor.
+
+OG Anunoby, Bölüm üç, en fazla on altı dolar, hedef puanı dört. Format farkı eksi otuz dört: points ligleri onu en çok ucuz bırakanlardan. Top çalma ve üçlük veriyor.
+
+Paul George, Bölüm üç, en fazla on beş dolar, hedef puanı dört. Jaylen Brown gidince Boston'un ikinci seçeneği oldu. Nadir bir durum: en fazla rakamı bizim fiyatın üstünde, çünkü mock on beş dolar, Josh yirmi dolar diyor.
+
+Ausar Thompson, Bölüm dört, en fazla on beş dolar, hedef puanı dört. Maçta iki top çalma ve bir blok. Serbest atışı çok kötü, bu yüzden normal yapıda tam z fiyatı geçerli.
+
+Cameron Boozer, Bölüm sekiz, en fazla on beş dolar, hedef puanı dört. Sınıfın gerçek para vermeye değer iki çaylağından biri. Josh'un tavanı on beş dolar.
+
+Onyeka Okongwu, Bölüm beş, en fazla on beş dolar, hedef puanı dört. Blok ve ribaund veren, üçlük de atan bir pivot. Uzman tavanında duruyoruz.
+
+Franz Wagner, Bölüm beş, en fazla on beş dolar, hedef puanı üç. Sayı ve serbest atış veriyor, kötü kategorisi yok. Sakatlık geçmişi fiyatını düşürdü.
+
+Ryan Rollins, Bölüm dört, en fazla on dört dolar, hedef puanı dört. Top çalma, asist ve üçlük veriyor. Uzmanlar ilk elliye yakın değer görüyor, ama yetmişlerde gidiyor.
+
+Naz Reid, Bölüm beş, en fazla on dört dolar, hedef puanı dört. Charlotte'ta yedekten başlangıca geçiyor, kariyer rekoru dakika bekleniyor.
+
+Kyrie Irving, Bölüm sekiz, en fazla on dört dolar, hedef puanı dört, sakatlık etiketiyle. Serbest atış ve sayı veriyor. Playoff haftalarında takvimi temiz.
+
+Ivica Zubac, Bölüm dört, en fazla on üç dolar, hedef puanı üç. Saha içi ve ribaundda bir çapa. Kötü playoff takvimi için Josh'un tavanının bir dolar altındayız.
+
+VJ Edgecombe, Bölüm üç, en fazla on iki dolar, hedef puanı üç. Maçta bir virgül dört top çalma veren ikinci yıl guard'ı. Uzman yaklaşık on dolar diyor ve on üç doları pahalı buluyor.
+
+Kel'el Ware, Bölüm dört, en fazla on iki dolar, hedef puanı dört. Modelin yirmi dört doları kısmen pivot şişirmesi. otuz dakikalık senaryoyu değil, uzmanın ilk altmış ile seksen değerini ödüyoruz.
+
+Tyler Herro, Bölüm dört, en fazla on iki dolar, hedef puanı üç, sakatlık etiketiyle. Serbest atış, üçlük ve sayı veriyor. Maç sayısı riski için iki dolar aşağıdayız.
+
+Damian Lillard, Bölüm altı, en fazla on iki dolar, hedef puanı üç, sakatlık etiketiyle. Yüzde doksan bir virgül yedi serbest atış ile listenin en iyi serbest atış kaynağı. Yaş ve Aşil riski var.
+
+Jarrett Allen, Bölüm dört, en fazla on bir dolar, hedef puanı üç. Yüzde altmış beş saha içi ve ribaund. Mobley maçları pivotta kapatırsa dakikası yirmi altıya düşebilir.
+
+Jaden McDaniels, Bölüm altı, en fazla on bir dolar, hedef puanı dört. Randle ve Reid gidince daha çok şut alacak. Kötü kategorisi yok. Oda onu büyük ihtimalle bir ile üç dolara bırakır.
+
+Dejounte Murray, Bölüm sekiz, en fazla on bir dolar, hedef puanı üç. Asist ve top çalma veriyor, top kaybı çok yüksek. Top kaybını punt ediyorsan kart on üç dolara kadar izin veriyor.
+
+Rudy Gobert, Bölüm altı, en fazla on bir dolar, hedef puanı üç. Sadece serbest atış punt'u için. Punt yapmıyorsan bu fiyatta bile alma.
+
+Caleb Wilson, Bölüm dört, en fazla on dolar, hedef puanı üç. Çaylak forvetten ribaund ve blok. Uzmanlar onu seksenlerde görüyor.
+
+Zach Edey, Bölüm sekiz, en fazla on dolar, hedef puanı dört, sakatlık etiketiyle. Edey ile Stewart'ı bir paket gibi düşün.
+
+Ucuz kademe: en fazla on doların altı.
+
+Bu kademe draft'ın sonu için. Oda bu oyuncuların çoğunu bir ile dört dolara bırakabilir, ama Bölüm ikideki mock bu bandın piyasanın birkaç katına gidebildiğini gösterdi. En fazla rakamı burada sert bir sınır.
+
+Neemias Queta, Bölüm üç, en fazla dokuz dolar, hedef puanı dört. Saha içi, ribaund ve blok veren başlangıç pivotu. Bizim yirmi virgül iki dolarımız, yer savaşı ve pivot şişirmesi için dokuz dolara indi.
+
+Collin Murray-Boyles, Bölüm üç, en fazla dokuz dolar, hedef puanı dört. İkinci yılında yedekten gelse de maçları bitirmesi bekleniyor. Bir uzman mock'unda dokuz dolara gitti.
+
+Day'Ron Sharpe, Bölüm üç, en fazla dokuz dolar, hedef puanı üç. Claxton takasından sonra Brooklyn'in başlangıç pivotu. Uzmanlar yirmi dört dakikada ilk yüz görüyor. Başlamazsa hemen tepki ver.
+
+John Collins, Bölüm dört, en fazla dokuz dolar, hedef puanı üç. Detroit'te otuz dakika bekleniyor.
+
+Immanuel Quickley, Bölüm üç, en fazla sekiz dolar, hedef puanı üç. Üçlük ve asist veriyor. Yahoo'nun kendi değeri dokuz dolar, ortalama maliyeti bir virgül dört dolar.
+
+CJ McCollum, Bölüm beş, en fazla sekiz dolar, hedef puanı üç. Atlanta'ya geldikten sonra sezonun kalanında altmış üçüncü oldu.
+
+Coby White, Bölüm beş, en fazla sekiz dolar, hedef puanı üç. Charlotte'un başlangıç oyun kurucusu. Uzmanlar on üç dolar diyor, modelimiz top çalma ve blok eksiğini cezalandırıyor.
+
+Brandin Podziemski, Bölüm yedi, en fazla sekiz dolar, hedef puanı dört. Butler ve Moody yokken otuz dakikanın üstünde başlangıç rolü. Odada büyük ihtimalle bir ile üç dolar.
+
+Norman Powell, Bölüm dört, en fazla yedi dolar, hedef puanı üç. Sayı ve üçlük. otuz üç yaşında ve takas adayı.
+
+Khaman Maluach, Bölüm yedi, en fazla yedi dolar, hedef puanı dört. Mark Williams yokken başlangıç pivotu olabilir, maçta bir virgül dokuz blok.
+
+Keegan Murray, Bölüm yedi, en fazla yedi dolar, hedef puanı dört. Kings'te üç guard gidince kullanımı artacak. Uzmanlara göre kötü kategorisi yok.
+
+Cedric Coward, Bölüm sekiz, en fazla altı dolar, hedef puanı dört. Morant gittikten sonra ikinci yılında şutları artacak. Josh altı dolar diyor.
+
+Jalen Suggs, Bölüm beş, en fazla altı dolar, hedef puanı üç, sakatlık etiketiyle. Top çalma kaynağı. Yaklaşık yirmi maç kaçırmasını planla.
+
+Derik Queen, Bölüm sekiz, en fazla altı dolar, hedef puanı üç. Ribaund, asist, top çalma ve blok veren yedek uzun. Zion'u alan takım için iyi bir handcuff.
+
+Isaiah Hartenstein, Bölüm altı, en fazla beş dolar, hedef puanı üç. Üçlük punt'u yapıyorsan ilk tercihlerden.
+
+Ty Jerome, Bölüm sekiz, en fazla dört dolar, hedef puanı üç. Başlangıç oyun kurucusu, ama kullanımı düşecek.
+
+Jabari Smith Jr., Bölüm sekiz, en fazla üç dolar, hedef puanı üç. Model on iki virgül dört dolar diyor, uzman bir ile üç dolar. Bence fark maç sayısından geliyor, maç başı çizgi sıradan. Küçük bir AL.
+
+üç. Breakout adayları.
+
+Breakout nereden gelir. Uzman notlarına göre kullanım yıldan yıla çok kararlı, korelasyon sıfır virgül seksen üç, maç başı dakika da öyle, sıfır virgül yetmiş sekiz. Büyük sıçramaların çoğu doğal bir gelişmeden değil, rol değişikliğinden gelir: bir takas, bir sakatlık ya da serbest oyuncu olarak giden bir takım arkadaşı. En iyi kurulum, yüksek kullanımlı oyuncu kaybeden ve kaybettiğinden azını getiren takımdır. Boşta kalan kullanım birine gitmek zorunda. Bu sezon bu kurulum Charlotte, Sacramento, Memphis, Boston, Minnesota, Lakers ve Clippers'ta var.
+
+Kategori liginde üç sinyale bak: hacimle birlikte isabet, daha çok serbest atış denemesi ve daha çok asist. Uzmanlara göre serbest atış denemesinin maçta dörtten altı buçuk ya da yediye çıkması bir oyuncuyu yirmi beşinci sıradan beşinci sıraya taşıyabilir. Bizim veri dosyamızda serbest atış deneme oranı yok, bu yüzden bunu ilk iki haftada maç kutularından takip et. Kural şu: asist artar ve saha içi tutarsa tut. Kullanım artar ama saha içi düşerse oyuncu sadece saha içi punt'una uyar.
+
+Bir uyarı. Uzmanlar ikinci yıl sıçramasına ne kadar para verileceği konusunda bölünmüş. Bizim kuralımız: tam fiyatı sadece derinlik şemasında görebildiğin bir rol değişikliğine öde. Saf bir ikinci ya da üçüncü yıl bahsi için, sıçrama gelmezse de iş gören fiyatı öde.
+
+BREAKOUT etiketli oyuncular.
+
+Matas Buzelis, Bölüm dört, en fazla yirmi bir dolar. Üçüncü yıl, yaklaşık otuz iki dakika ve Splitter altında daha çok top. Uzmanlar ilk elli konusunda hemfikir. Breakout listesinin en güvenli ismi.
+
+Darius Garland, Bölüm yedi, en fazla yirmi dolar. Clippers'ta yaklaşık otuz iki dakika ve bir numaralı kullanım. Bu bir yaş sıçraması değil, rol sıçraması. Ayak parmağının sağlığı ana kontrol.
+
+Brandon Miller, Bölüm beş, en fazla on dokuz dolar, ADİL etiketiyle. LaMelo Ball ve Bridges gitti, Miller daha çok top yaratacak. İlk otuz tavanı var, ama yüzde kırk üç virgül altı saha içi isabeti büyük rolde daha da düşebilir. Uzman mock'ta yirmi altı ödedi, biz bizim fiyatta kalıyoruz.
+
+Ausar Thompson, Bölüm dört, en fazla on beş dolar. Üçüncü yıl, yirmi sekiz ile otuz dakika ve maçta yaklaşık dört asist hedefi. Koç yirmi altı dakikanın üstü diyor, uzmanlar bu açıklamalara güvenmiyor.
+
+Cameron Boozer, Bölüm sekiz, en fazla on beş dolar. Sınıfın ilk elli potansiyeli olan tek çaylağı. Kontrol listesi: Iisalo'nun sıkı dakikalarında otuz ikiye ulaşıyor mu, Morant'sız asistleri ve üçlük hacmi.
+
+Kel'el Ware, Bölüm dört, en fazla on iki dolar. Üçüncü yıl, yirmi iki dakikadan yirmi altı ile otuz dakikaya çıkması bekleniyor. Jenkins'in onu Turner'ın yanında dörtte mi başlatacağı yoksa yedek mi tutacağı belli değil.
+
+Collin Murray-Boyles, Bölüm üç, en fazla dokuz dolar. İkinci yıl, kullanımı yüzde on beşten yaklaşık on sekize. otuz dakika oynarsa ilk yetmişe yaklaşır.
+
+Cedric Coward, Bölüm sekiz, en fazla altı dolar. İkinci yıl, maçta şutlarının on buçukten on dört virgül ikiye çıkması bekleniyor. yirmi dokuz ile otuz dakikanın üstü.
+
+Khaman Maluach, Bölüm yedi, en fazla yedi dolar. İkinci yıl, Mark Williams yokken ilk yetmiş beş tavanı. Bu kısa bir pencere, tam sezon için fiyatlama.
+
+Egor Dëmin, Bölüm üç, en fazla üç dolar, FLYER etiketiyle. İkinci yılında başlangıç yaratıcısı, kullanımı yirmi ile yirmi bire. Josh'un tüm formatlarda en sevdiği ikinci yıl hedefi. Saha içi isabeti yüzde otuz dokuz virgül dokuzdan yükselmezse bırak.
+
+Etiketsiz ama izlenecek rol değişiklikleri.
+
+Austin Reaves, Bölüm yedi, en fazla otuz iki dolar, ADİL. LeBron gitti, Reaves artık Luka'nın yanında tek başına ikinci top taşıyıcı. Asist oranındaki artış sinyal. Josh otuz altı dolar diyor, ama oda beklentisi bizim fiyata çok yakın, bu yüzden fırsat değil.
+
+AL listesinden dört isim de rol değişikliği adayı. Naz Reid yedekten başlangıca geçiyor, kart ona BREAKOUT vermedi çünkü uzmanlar ilk elli konusunda bölünmüş. Coby White'ın dakikası yirmi beşten otuz ile otuz ikiye çıkıyor. Sharpe on dokuz dakikalık yedekten başlangıç pivotuna geçiyor. Paul George'un kullanımı yüzde yirmi üçten yirmi altıya yaklaşıyor.
+
+Kon Knueppel, Bölüm beş, en fazla on dolar, ADİL ve sakatlık etiketiyle. Kullanımı artacak, ama Josh'un tavanı sekiz dolar ve oda çok üstüne çıkacak. Bırak başkası alsın.
+
+Fiyatı zaten içinde olanlar. Cooper Flagg, Jayson Tatum ve Giannis'in sıçraması gerçek, ama birinci tur fiyatı bu sıçramayı zaten ödüyor. Onları breakout diye almıyoruz. Kendi bölümlerinde fiyatlandılar.
+
+dört. Son dolarlar: bir ile üç dolarlık flyer'lar.
+
+Test. Uzmanların testi tek bir soru: bu oyuncu şimdi başlıyor mu, ya da başlayabilir mi? Hayırsa doları sakla. Tavan da yüksek olmalı: ideal bir son tur seçimi ilk yetmişe çıkabilir. Dakika eşiği bir guard ya da kanat için yaklaşık yirmi yedi, bir uzun için yaklaşık otuz. Dakikası yirmi ikiye bölünen bir oyuncu işe yaramaz. Başlayan ve saha içi, blok, ribaund veren bir pivot ise rol kalıcı olmasa bile son bir dolara değer.
+
+Bütçe ve sayı. Son dört kadro yerinin en az üçünü flyer'la doldurmayı planla. Bu toplam dört ile on iki dolar demek. Bu parayı çekirdeği alırken kenarda tut. Ama bench'te sadece iki yerimiz var ve waiver her gün işliyor. Bu yüzden saf handcuff'lar draft'a değil, waiver'a ait. Bir flyer'ın tetiği draft gününde zaten görünür olmalı: bir başlangıç yeri, bir dakika rakamı ya da bir takım arkadaşının dönüş tarihi. Tetik üçüncü haftaya kadar gelmezse bırak ve haftalık altı eklemeden birini kullan.
+
+En yüksek tavanlar.
+
+Myles Turner, Bölüm dört, en fazla dört dolar, hedef puanı üç. Bir pivottan blok ve üçlük, ilk altmış tavanı. Ware ile aynı dakikalar için yarışıyor, Jenkins'in ona yirmi dokuz dakika verip vermediğine bak.
+
+Kristaps Porziņģis, Bölüm yedi, en fazla üç dolar, hedef puanı üç, sakatlık etiketiyle. Temizlenir ve Horford'un önünde başlarsa yaklaşık kırk maçta ilk yetmiş. dört IL yerimiz onu tutmayı kolaylaştırıyor.
+
+Reed Sheppard, Bölüm sekiz, en fazla üç dolar, hedef puanı iki. Başlar ve yirmi sekiz ile otuz dakika alırsa ilk kırk ile elli. Uzmanlar onu "dokuz kategori fluff" sayıyor, Houston'ın playoff takvimi zayıf.
+
+Zach LaVine, Bölüm yedi, en fazla üç dolar, hedef puanı üç. Kings'te üç guard gitti, daha çok top. Uzmanlar rahatça ilk seksen diyor. Takas ve buyout haberlerini izle.
+
+Jusuf Nurkić, Bölüm altı, en fazla üç dolar, hedef puanı üç. Kessler gidince Utah'ın başlangıç pivotu. Uzmanlar başlarsa en az ilk seksen diyor, modelimiz elli dört maç gördüğü için sevmiyor. Ayrılık yüzünden tavanı düşük tutuyoruz.
+
+Jakob Poeltl, Bölüm üç, en fazla üç dolar, hedef puanı iki. yirmi sekiz dakika oynar ve sırtı sağlam kalırsa ilk yetmiş.
+
+Paul Reed, Bölüm dört, en fazla üç dolar, hedef puanı iki. Duren eksik kalırsa yirmi sekiz dakikada ilk kırk ile elli. Duren'i alırsan onu da al.
+
+Peyton Watson, Bölüm dört, en fazla üç dolar, hedef puanı iki, sakatlık etiketiyle. Kanattan blok. Yahoo'da hamstring notu var, geçen sezonu ciddi bir hamstring sakatlığıyla bitirdi.
+
+iki dolarlık rol bahisleri.
+
+Yves Missi, Bölüm sekiz, en fazla iki dolar, hedef puanı üç. Derik Queen'in önünde başlarsa maçta bir virgül sekiz blok. Üçlük ve top çalma punt'u için.
+
+Jeremiah Fears, Bölüm sekiz, en fazla iki dolar, hedef puanı iki. Herb Jones ile son başlangıç yeri için yarışıyor. Dejounte Murray sakatlanır ya da takas edilirse ilk yetmiş potansiyeli.
+
+Sandro Mamukelashvili, Bölüm yedi, en fazla iki dolar, hedef puanı iki. Lakers'ın açık başlangıç yeri için Grimes ile yarışıyor. Başlamazsa bırak, Kessler sakatlanırsa geri al.
+
+DeMar DeRozan, Bölüm altı, en fazla iki dolar, hedef puanı bir. Yaklaşık yirmi dokuz dakikalık yedek rolünde sayı, serbest atış ve az top kaybı. Braun ya da Cam Johnson eksik kalırsa otuz iki dakikaya çıkar.
+
+Jalen Green, Bölüm yedi, en fazla iki dolar, hedef puanı iki. Sadece saha içi punt'u için. otuz ile otuz üç dakikalık başlangıç guard'ı, ama yüzde kırk iki virgül altı saha içi.
+
+Fred VanVleet, Bölüm sekiz, en fazla iki dolar, hedef puanı iki. Sadece saha içi punt'u için. Lloyd onu yüz yirmi ile yüz otuz beşinci sıra arasında görüyor, yani gerçek bir flyer değil, bir doldurucu.
+
+bir dolarlık son seçimler.
+
+Quentin Grimes, Bölüm yedi, en fazla bir dolar. Kötü kategorisi yok, Luka kaçırırsa ikinci seçenek ve ilk seksen potansiyeli. İlk haftalarda başlamıyorsa bırak.
+
+Gui Santos, Bölüm yedi, en fazla bir dolar. Porziņģis ve Butler yokken başlar ve yirmi beş dakikayı geçerse, uzmanlar takas tarihinden sonra ilk yetmiş görüyor.
+
+Yaxel Lendeborg, Bölüm yedi, en fazla bir dolar. Santos'un hedge'i. Kerr onu ilk beşte tutarsa ribaund, top çalma ve blok.
+
+Daniel Gafford, Bölüm sekiz, en fazla bir dolar. Lively ve diğer Dallas uzunları sakatken başlayabilir, saha içi ve blok. Lively dönünce ya da Morez Johnson başlarsa bırak.
+
+Kevin Porter Jr., Bölüm dört, en fazla bir dolar. Rollins'in yerini tehdit ediyor. Başlar ya da yirmi yedi dakika alırsa top çalma ve asist. Üçlük punt'una uyar.
+
+Moussa Diabaté, Bölüm beş, en fazla bir dolar. Başlangıç yerini ve yirmi beş dakikayı tutarsa ucuz saha içi ve ribaund. Kaybettiği an bırak.
+
+Isaiah Jackson, Bölüm yedi, en fazla bir dolar. Hazırlık maçlarında Lopez'in önünde başlıyor. Konan Niederhäuser dönene kadar tut.
+
+Mikel Brown Jr., Bölüm üç, en fazla bir dolar, sakatlık etiketiyle. Tek istisna: başlarsa Thanksgiving'e kadar tut, uzmanlar Şubat'tan sonra gelişme bekliyor.
+
+Ace Bailey, Bölüm altı, en fazla bir dolar. Nurkić ile beşinci başlangıç yeri için yarışıyor. Bench'te kalırsa hemen bırak.
+
+Herbert Jones, Bölüm sekiz, en fazla bir dolar. Fears'ın rakibi. Sadece başlangıç yerini kazanırsa, top çalma için.
+
+Jrue Holiday, Bölüm altı, en fazla bir dolar. Kötü kategorisi yok, Morant ya da Lillard kaçırdığında başlar.
+
+Yanic Konan Niederhäuser, Bölüm yedi, en fazla bir dolar, sakatlık etiketiyle. Sezonun ikinci yarısı için bir IL stash'i.
+
+Çiftler: ikisini al, kaybedeni bırak.
+
+Son flyer'ların çoğu tutmaz. Aynı iş için yarışan iki oyuncuyu birlikte almak, birinin tutma ihtimalini artırır. Bench'imiz iki kişilik olduğu için en fazla bir, çok gerekirse iki çift planla. Sakat bir aday IL yerinde bekleyebilir. Bölge bölümlerinden dört çift çıkıyor, bir de Boston notu var.
+
+Golden State kanadı: Santos ve Lendeborg. İkisi de bir dolar. Draymond ne kadar pivot oynarsa ikisine o kadar dakika açılır.
+
+Lakers başlangıç yeri: Grimes bir dolar ve Mamukelashvili iki dolar. Kazanamayan da yaklaşık yirmi yedi dakika alabilir.
+
+New Orleans son yer: Fears iki dolar ve Herb Jones bir dolar.
+
+Dallas pivotu: Gafford bir dolar ve Morez Johnson bir dolar. Johnson'ın alt bacak sakatlığına draft'tan önce bak.
+
+Boston pivotu: Queta AL ve dokuz dolar, Robinson ise draft etme, waiver'dan izle. Burada çift yok: Queta'yı al, Robinson'ı waiver'da bekle.
+
+Çaylak kuralı. Bu sınıfta gerçek para vermeye değer iki çaylak var: Boozer ve Caleb Wilson. Geri kalanlar en fazla bir ile iki dolarlık bench flyer'ı. Kadronda en fazla bir çaylak guard tut. Darryn Peterson'ın Yahoo maliyeti olan sekiz virgül iki doları ödeme. Bir çaylak iki hafta hiç oynamıyorsa bırak. Oynuyor ama verimsizse Thanksgiving'e kadar, yirmi altı Kasım, bekle.
+
+beş. Handcuff ve waiver izleme listesi.
+
+Neden draft değil, waiver. Basketbolda handcuff futboldaki gibi değil. İyi bir handcuff, starter sağlıklıyken de bir şey vermeli. Starter sakatlanınca otuz dakikanın üstüne çıkacak, tek kişilik net bir yedek olmalı. Önünde iki üç kişi varsa draft seçimi değildir. Bizim iki bench yerimiz var, waiver her gün işliyor ve haftada altı ekleme hakkımız var. Bu yüzden kural basit: starter bir iki maçtan fazla kaçıracaksa o gün FAB teklifi ver. Sakat starter senin kadrondaysa önce onu IL'ye koy, sonra yedeği al.
+
+Aşağıdaki liste bölge bölümlerindeki takım bloklarından ve rotasyon kartlarından geliyor. Her takım için: kim kimin yedeği, ve kim kazanır.
+
+Atlantic, Bölüm üç.
+
+Boston. Queta eksik kalırsa Robinson başlar, serbest atış punt'u için stream. Robinson zaten her back-to-back'te oturuyor. Paul George uzun süre eksik kalırsa en çok Pritchard kazanır.
+
+New York. Bölümün en net handcuff'ı Drummond: Towns eksik kalırsa yirmi dokuz dakika civarı oynayabilir ve ribaund verir. Brunson eksik kalırsa top McBride ve Alvarado'ya geçer.
+
+Philadelphia. Embiid eksik kalırsa Adem Bona blok ve saha içi için stream olur. Embiid ya da LeBron oturduğunda kullanımın büyük kısmı Jaylen Brown'a, dakikaların bir kısmı Simons'a gider.
+
+Toronto. Poeltl eksik kalırsa Murray-Boyles başlar, bu onun otuz dakikalık senaryosu. Bir guard eksik kalırsa Shead'in dakikası yirmi ikinin üstüne çıkabilir.
+
+Brooklyn. Porter Jr. takas edilirse kanat dakikası önce Keon Ellis'e ve Minott'a gider. İlk beşten sonra sadece Minott bir stash için konuşulmaya değer.
+
+Central, Bölüm dört.
+
+Detroit. Ligin en değerli iki handcuff'ı burada. Cade yoksa Daniss Jenkins: geçen sezonun son on altı maçında Cade yokken otuz bir dakika oynadı. Duren yoksa Paul Reed: yirmi sekiz dakikada uzmanlar onu ilk kırk ile elli görüyor.
+
+Cleveland. Harden ya da Mitchell yoksa Tyson başlangıç dakikalarına yaklaşır. Allen ve Mobley ikisi birden yoksa Thomas Bryant ilk elli ile altmış olur. Ama final haftasında iki maç var, playoff planı yapma.
+
+Chicago. Claxton yoksa Jalen Smith: başladığı ilk gün ekle. Powell takas edilir ya da bir guard sakatlanırsa Tre Jones asist için. Buzelis ya da Wilson yoksa Leonard Miller yirmi beş dakika oynar.
+
+Milwaukee. Bir guard yoksa önce Kevin Porter Jr., sonra çaylaklar Burries ve Jakučionis. Ware ya da Turner yoksa Kuzma dörtte başlar ya da Sims pivotta oynar.
+
+Indiana. Zubac yoksa Jay Huff başlar, blok için hemen al. Haliburton yoksa Nembhard'ın asistleri geri gelir. Siakam yoksa Obi Toppin başlar.
+
+Southeast, Bölüm beş.
+
+Atlanta. Okongwu eksik kalırsa Jock Landale başlar ve otuz dakikanın üstüne çıkar, çünkü Veesaar sezonu kapattı ve Gueye sakat. FAB ile hemen al. McCollum eksik kalırsa Dort, Wiggins ya da çaylak Flemings başlar.
+
+Miami. Bam eksik kalırsa Portis onun sağlam yedeği. Bir guard eksik kalırsa Larsson ve Klay Thompson kazanır. Larsson hazırlık maçlarında başlarsa bir dolarlık bir flyer olur.
+
+Washington. Davis sakatlanır ya da takas edilirse Ayton otuz dakikalık rollere çıkar ve Sarr iç rolünü geri alır. Ayton'u o gün al. Trae eksik kalırsa Carrington top taşır.
+
+Charlotte. Knueppel ya da Miller maç kaçırırsa Grayson Allen başlar. Diabaté yerini kaybederse çaylak Steinbach ya da Kalkbrenner kazanır. Uzmanların kuralı: Steinbach starter ilan edilirse her ligde al.
+
+Orlando. Suggs eksik kalırsa Anthony Black başlar ve kadroya alınacak değere gelir. Wendell Carter Jr. eksik kalırsa Vučević ilk yüze girebilir.
+
+Northwest, Bölüm altı.
+
+Oklahoma City. Gilgeous-Alexander kaçırırsa Ajay Mitchell'in değeri uçar. SGA'yı aldıysan Mitchell'i bir dolara bench'te tutmak mantıklı. Hartenstein ya da Holmgren kaçırırsa Jaylin Williams ve uzak ihtimalle çaylak Mara. Caruso'nun dakikası yirmi dörte yaklaşırsa top çalması için izle.
+
+Denver. Jokić kaçırırsa Bagley kullanılacak isim, on beş sayı ve on ribaund civarı maçlar mümkün. Braun ya da Cam Johnson eksik kalırsa DeRozan otuz iki dakikaya çıkar.
+
+Minnesota. Gobert kaçırırsa Joan Beringer başlar ve her ligde alınır. Josh'a göre yirmi sekiz dakikada on iki sayı, on ribaund ve iki virgül dört blok. Gobert'i aldıysan Gobert'in sağlığını ilk günden izle. Minnesota'nın yirminci haftada iki maçı var.
+
+Portland. Clingan kaçırırsa Robert Williams III blok için FAB ile alınır, ama Portland'ın her playoff haftasında back-to-back var. Morant ya da Lillard kaçırınca Holiday başlar.
+
+Utah. Nurkić kaçırırsa Jackson Jr. pivota kayar, Bailey başlar, Filipowski dakika alır. George ya da Peterson kaçırırsa Collier asist için izlenir.
+
+Pacific, Bölüm yedi.
+
+Lakers. Luka kaçırırsa Reaves yaklaşık yüzde otuz iki kullanımla birinci tur oyuncusu gibi oynar ve Grimes ilk seksen potansiyeli kazanır. Kessler kaçırırsa Mamukelashvili pivot dakikalarını alır.
+
+Phoenix. Green, Booker ya da Brooks kaçırırsa Collin Gillespie başlar ve otuz dakika oynar, üçlük ve top çalma için. Bir guard sakatlığında Goodwin de top çalma için anlam kazanır. Maluach kaçırırsa Ighodaro pivot olur.
+
+Golden State. Curry kaçırırsa Podziemski değer kazanır, Santos da Curry yokken çok daha çok sayı atıyor. Porziņģis yokken Horford başlar. Butler Ocak civarında dönünce Lendeborg ve Santos kaybeder.
+
+Sacramento. Sabonis takas edilir ya da sakatlanırsa Raynaud başlangıç pivotu olur, Achiuwa da dakika kazanır. LaVine giderse Acuff ve Keegan Murray'nin kullanımı artar.
+
+Clippers. Ingram yokken Hachimura ve Strus daha çok şut alır. Konan Niederhäuser dönünce Isaiah Jackson'ın değeri biter. Garland kaçırırsa çaylak Wagler ve Kris Dunn oyun kurar.
+
+Southwest, Bölüm sekiz.
+
+Houston. Durant ya da Jabari Smith eksik kalırsa Tari Eason otuz iki dakikaya çıkar ve ilk yetmişe yaklaşır. VanVleet oturursa Smart başlar, Sheppard dakika kazanır. Ama Houston'ın playoff takvimi zayıf, uzun süre tutma.
+
+San Antonio. Wembanyama bir hafta ya da daha uzun eksik kalırsa ilk alınacak isim Luke Kornet: saha içi, blok ve düşük top kaybı. Fox ya da Castle eksik kalırsa Harper otuz dakikaya yaklaşır.
+
+New Orleans. Dejounte Murray eksik kalırsa Fears başlangıç oyun kurucusu olur. Missi eksik kalırsa Queen başlar. Zion dinlendiğinde Queen daha çok oynar.
+
+Dallas. Kyrie back-to-back'lerde oturduğunda çaylak Sergio de Larrea öne çıkar, Josh'a göre yirmi yedi dakikada on sayı ve beş asist. Lively Thanksgiving civarında dönünce Gafford kaybeder. Dallas'ın dört, dört, dört playoff takvimi bu takımın her waiver oyuncusunu Mart'ta daha değerli yapar.
+
+Memphis. Edey eksik kalırsa Isaiah Stewart başlar, Quinten Post ikinci handcuff. Ty Jerome eksik kalırsa Pippen Jr. başlangıç oyun kurucusu olur, ama iki buçuk top kaybı yüzünden sadece top çalma için.
+
+Yedek pivotlar için ayrı bir not. Uzmanlar bölünmüş, ama orta yol net: yedek pivotu draft'ta değil, sezonda kullan. Günlük kadroyla, dinlenen bir starter'ın yerine başlayan yedek pivot, saha içi, ribaund ve blok için çok iyi bir tek gecelik stream'dir. Back-to-back oynayabilen ve dakikası zorlanabilen yedeği tercih et.
+
+altı. Punt yapılarına göre ucuz kategori uzmanları.
+
+Önce uyarı. Bir kategori uzmanı, yakın olduğun bir kategoriyi düzeltebilir. Zaten kaybettiğin bir kategoriyi düzeltemez. Punt sıralamaları tek kategorili oyuncuları ilk yüz gibi gösterir, ama bizim ligde her hafta dokuz kategorinin hepsi sayılır. Bu yüzden uzmanları ilk dokuz ya da on oyuncundan sonra, ya da sezon içinde kullan.
+
+Aşağıdaki oyuncuların çoğunun en fazla rakamı on beş dolar ve altında. Tek istisna yirmi dolarlık Garland. Kategori bilgisi projeksiyonumuzdaki z değerlerinden. Her yapı için isimler, o yapının vazgeçtiği kategoride zayıf ve diğerlerinde güçlü olan oyuncular.
+
+Serbest atış punt'u.
+
+Bu yapı en çok ucuz malzemeyi bulan yapı. Saha içi, ribaund ve blok veren, serbest atışı kötü pivotlar odada ucuz kalır.
+
+Rudy Gobert, Bölüm altı, en fazla on bir dolar. Bu yapının en güçlü ucuz parçası: ribaund z artı iki virgül dokuz, saha içi artı iki virgül dört, blok artı iki virgül üç. Serbest atış z eksi üç virgül iki, punt yapmıyorsan alma.
+
+Ausar Thompson, Bölüm dört, en fazla on beş dolar. Top çalma z artı üç virgül iki ve serbest atış z eksi iki virgül iki. Kart bu yapıda on dokuz dolara kadar izin veriyor.
+
+Neemias Queta, Bölüm üç, en fazla dokuz dolar. Yüzde altmış dört buçuk saha içi, blok ve ribaund, top kaybı da az.
+
+Jarrett Allen, Bölüm dört, en fazla on bir dolar ve Ivica Zubac, Bölüm dört, en fazla on üç dolar. İkisi de saha içinde z artı iki buçuk civarında. Zubac ribaundda daha güçlü, top çalmada çok zayıf.
+
+Yves Missi, Bölüm sekiz, en fazla iki dolar. Blok z artı iki buçuk, serbest atış z eksi bir virgül yedi. Başlarsa bu yapının en ucuz blok kaynağı.
+
+Nic Claxton, Bölüm dört, en fazla üç dolar, ADİL. Kartı onu sadece serbest atış ve üçlüğü birlikte punt eden takıma öneriyor. Flyer makalesi onu en iyi flyer'lar arasında sayıyor, kart daha temkinli.
+
+Waiver: Mitchell Robinson ve Andre Drummond, ikisi de sadece bu yapı için.
+
+Üçlük punt'u.
+
+Üçlük atmayan uzunlar bu yapıda en kötü kategorilerini kaybetmez. Üstüne top çalma veren ve üçlük atmayan kanatlar da gelir.
+
+Isaiah Hartenstein, Bölüm altı, en fazla beş dolar. Kartı onu bu yapının ilk tercihlerinden sayıyor: saha içi ve ribaund veren, maçta üç virgül üç asistle iyi pas veren bir pivot.
+
+Collin Murray-Boyles, Bölüm üç, en fazla dokuz dolar ve Day'Ron Sharpe, Bölüm üç, en fazla dokuz dolar. Murray-Boyles saha içi ve blok, Sharpe saha içi, ribaund ve top çalma veriyor.
+
+Derik Queen, Bölüm sekiz, en fazla altı dolar. Ribaund, asist, top çalma ve blok. Üçlük ve top kaybını punt eden takıma uyar.
+
+Zach Edey, Bölüm sekiz, en fazla on dolar. Saha içi, ribaund ve blok, sağlıklıysa.
+
+Jakob Poeltl, Bölüm üç, en fazla üç dolar, Daniel Gafford, Bölüm sekiz, en fazla bir dolar ve Paul Reed, Bölüm dört, en fazla üç dolar. Saha içinde güçlü, son dolarlık uzunlar.
+
+Kevin Porter Jr., Bölüm dört, en fazla bir dolar. Bir guard'dan top çalma ve asist, kartı üçlük punt'una uyduğunu söylüyor.
+
+Saha içi punt'u.
+
+Hacimli ama isabeti düşük guard'lar ve şutörler bu yapıya gelir. Dengeli bir takımda bu oyuncular haftayı bozar.
+
+Egor Dëmin, Bölüm üç, en fazla üç dolar. Üçlük z artı bir virgül üç, saha içi z eksi bir virgül üç. Bu yapının en iyi son doları.
+
+Immanuel Quickley, Bölüm üç, en fazla sekiz dolar. Üçlük ve asist veriyor, saha içi z eksi bir.
+
+CJ McCollum, Bölüm beş, en fazla sekiz dolar. Üçlük ve sayı, saha içi z eksi sıfır virgül dokuz.
+
+Jalen Green, Bölüm yedi, en fazla iki dolar ve Fred VanVleet, Bölüm sekiz, en fazla iki dolar. Kartlarına göre sadece bu yapı için. Green sayı ve üçlük, VanVleet üçlük, asist ve az top kaybı veriyor.
+
+Herbert Jones, Bölüm sekiz, en fazla bir dolar. Başlangıç yerini kazanırsa top çalma.
+
+Top kaybı punt'u.
+
+Bu yapı topu çok elinde tutan oyun kurucuları ucuzlatır.
+
+Darius Garland, Bölüm yedi, en fazla yirmi dolar. Asist z artı bir virgül sekiz, top kaybı z eksi bir virgül yedi. Bu yapıda en büyük kazanç onun.
+
+Dejounte Murray, Bölüm sekiz, en fazla on bir dolar. Asist ve top çalma, top kaybı z eksi bir virgül sekiz. Kart bu yapıda on üç dolara kadar izin veriyor.
+
+Cameron Boozer, Bölüm sekiz, en fazla on beş dolar. Tek zayıf kategorisi top kaybı, bu yapıya en iyi oturan çaylak.
+
+Ryan Rollins, Bölüm dört, en fazla on dört dolar. Top çalma z artı bir virgül altı, asist artı bir, top kaybı eksi bir virgül iki.
+
+Coby White, Bölüm beş, en fazla sekiz dolar. Serbest atış, üçlük ve asist, top kaybı eksi bir.
+
+Jeremiah Fears, Bölüm sekiz, en fazla iki dolar. Top çalma z artı bir virgül dört, son dolar.
+
+Asist punt'u.
+
+Asist vermeyen uzunlar ve forvetler. Bu yapı genelde blok ve ribaund toplar.
+
+Khaman Maluach, Bölüm yedi, en fazla yedi dolar. Blok z artı iki virgül altı, asist eksi bir virgül üç. Kartı asist ve top çalma punt'una uyduğunu söylüyor.
+
+Myles Turner, Bölüm dört, en fazla dört dolar. Blok z artı iki virgül iki ve bir pivottan üçlük.
+
+Kel'el Ware, Bölüm dört, en fazla on iki dolar. Ribaund z artı iki, blok artı bir virgül altı, asist eksi bir virgül bir.
+
+Keegan Murray, Bölüm yedi, en fazla yedi dolar ve Jabari Smith Jr., Bölüm sekiz, en fazla üç dolar. Kötü kategorisi az olan, asisti düşük forvetler.
+
+Tari Eason, Bölüm sekiz, en fazla bir dolar. Ribaund ve top çalma, asist çok düşük. Durant ya da Smith sakatlığında handcuff.
+
+Top çalma ve blok punt'u.
+
+Daha az kullanılan yapılar, ama ucuz parçaları var. Top çalmayı bırakan takım, yavaş ama verimli uzunları ucuza alır. Bloğu bırakan takım şutörleri alır.
+
+Top çalma punt'u: Zubac, top çalma z eksi bir virgül altı, Edey, eksi bir virgül dört, ve Nikola Vučević, Bölüm beş, en fazla bir dolar. Isaiah Stewart, Bölüm sekiz, en fazla bir dolar, sadece Edey'i alan takım için.
+
+Blok punt'u: Norman Powell, Bölüm dört, en fazla yedi dolar sayı ve üçlükle, Zach LaVine, Bölüm yedi, en fazla üç dolar serbest atış ve üçlükle, Saddiq Bey, Bölüm sekiz, en fazla bir dolar az top kaybı ve serbest atışla. Quickley ve Coby White da bu yapıya uyar. Waiver: Tre Jones, asist ve az top kaybı için.
+
+Özet.
+
+Odanın parası en çok yıldızlara ve points liglerinde şişen isimlere gidiyor. Bizim fırsatlarımız top çalma, blok ve saha içi veren rol oyuncularında, rolü büyüyen veteranlarda ve rolü olan genç oyuncularda. Ama ucuz bant bir dolara kalmayacak, bu yüzden en fazla rakamı bir hedef değil, bir sınır.
+
+Üst kademede altı isim var: Daniels, Markkanen, White, Alexander-Walker, Buzelis ve Garland. Orta kademede çekirdeğini kuracağın yaklaşık yirmi isim var, başta Anunoby, George, Ausar Thompson, Boozer ve Rollins. Ucuz kademede Queta, Murray-Boyles, Sharpe, Podziemski ve Maluach öne çıkıyor.
+
+Son dolarlar için en yüksek tavanlar Turner, Porziņģis, Sheppard, LaVine ve Nurkić. Her flyer'ın tetiğini draft'tan önce yaz ve üçüncü haftaya kadar gelmezse bırak. Saf handcuff'ları draft etme. Detroit'te Jenkins ve Reed, Minnesota'da Beringer, Atlanta'da Landale ve San Antonio'da Kornet, starter düştüğü gün FAB ile alınacak isimler.
+
+Bir sonraki bölüm, Bölüm on, bunun tersini anlatıyor: tuzaklar, format kayıpları, sakatlık riskleri ve draft günü için son kopya kağıdı.

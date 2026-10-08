@@ -1,0 +1,104 @@
+/* Sezon Rehberi 2026-27. Shared style for every episode page.
+   Layout: one reading column (~68ch) with wide tables that scroll inside their own box. Scouting dossier look:
+   cool paper, ink text, one court-blue accent, semantic chips for verdicts. */
+@import url("https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@500;700;800&family=IBM+Plex+Sans:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;600&display=swap");
+
+:root {
+  --bg: #f3f5f7; --paper: #ffffff; --ink: #17202a; --muted: #5b6774; --line: #d8dee5;
+  --accent: #1f5fa8; --accent-soft: #e3edf8;
+  --good: #1d7a46; --good-bg: #dff2e6; --bad: #b3261e; --bad-bg: #fbe3e1;
+  --warn: #a35a00; --warn-bg: #fdecd2; --violet: #6b3fb0; --violet-bg: #ece4f8;
+  --teal: #0f7480; --teal-bg: #dcf1f3; --neutral-bg: #e9edf1;
+  --z2: #b9e3c7; --z1: #dff2e6; --z0: transparent; --zn1: #fbe3e1; --zn2: #f2b9b4;
+  --display: "Saira Condensed", "Arial Narrow", sans-serif;
+  --body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #11161c; --paper: #182029; --ink: #e6ebf0; --muted: #98a4b1; --line: #2c3742;
+  --accent: #6ea8ea; --accent-soft: #1d2f45;
+  --good: #6fd19a; --good-bg: #173a27; --bad: #f08a82; --bad-bg: #432020; --warn: #f0b25e; --warn-bg: #3d2c12;
+  --violet: #b99af0; --violet-bg: #2e2346; --teal: #6fd0da; --teal-bg: #133a3e; --neutral-bg: #232d38;
+  --z2: #1f5a37; --z1: #173a27; --zn1: #432020; --zn2: #6a2a26; color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #11161c; --paper: #182029; --ink: #e6ebf0; --muted: #98a4b1; --line: #2c3742;
+  --accent: #6ea8ea; --accent-soft: #1d2f45;
+  --good: #6fd19a; --good-bg: #173a27; --bad: #f08a82; --bad-bg: #432020; --warn: #f0b25e; --warn-bg: #3d2c12;
+  --violet: #b99af0; --violet-bg: #2e2346; --teal: #6fd0da; --teal-bg: #133a3e; --neutral-bg: #232d38;
+  --z2: #1f5a37; --z1: #173a27; --zn1: #432020; --zn2: #6a2a26; color-scheme: dark; }
+
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.6 var(--body); }
+main { max-width: 980px; margin: 0 auto; padding-inline: 16px; padding-block: 24px 64px; display: grid; gap: 28px; }
+main > * { min-width: 0; }
+.prose, .prose p, .prose li { max-width: 68ch; }
+
+header.ep { display: grid; gap: 6px; border-bottom: 3px solid var(--ink); padding-bottom: 14px; }
+.eyebrow { font: 600 12px/1 var(--mono); letter-spacing: .12em; text-transform: uppercase; color: var(--accent); }
+h1, h2, h3 { font-family: var(--display); line-height: 1.1; text-wrap: balance; margin: 0; }
+h1 { font-size: clamp(34px, 6vw, 52px); font-weight: 800; letter-spacing: .01em; }
+h2 { font-size: 30px; font-weight: 700; border-top: 1px solid var(--line); padding-top: 18px; }
+h3 { font-size: 22px; font-weight: 700; }
+.lede { font-size: 18px; color: var(--muted); max-width: 68ch; margin: 0; }
+section { display: grid; gap: 14px; }
+p { margin: 0; }
+a { color: var(--accent); }
+.meta { font: 12px/1.5 var(--mono); color: var(--muted); }
+
+/* Callouts */
+.note { background: var(--accent-soft); border-left: 4px solid var(--accent); padding: 12px 16px; border-radius: 4px; max-width: 76ch; }
+.note.warn { background: var(--warn-bg); border-left-color: var(--warn); }
+.note.bad { background: var(--bad-bg); border-left-color: var(--bad); }
+.note.good { background: var(--good-bg); border-left-color: var(--good); }
+
+/* Tables */
+.tbl { overflow-x: auto; background: var(--paper); border: 1px solid var(--line); border-radius: 6px; }
+table { border-collapse: collapse; width: 100%; font-size: 14px; font-variant-numeric: tabular-nums; }
+th, td { padding: 7px 10px; border-bottom: 1px solid var(--line); text-align: left; white-space: nowrap; }
+th { font: 600 11px/1.2 var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--muted); background: var(--neutral-bg); }
+td.num, th.num { text-align: right; font-family: var(--mono); }
+td.wrap { white-space: normal; min-width: 220px; }
+tr:last-child td { border-bottom: 0; }
+td.z2 { background: var(--z2); } td.z1 { background: var(--z1); }
+td.zn1 { background: var(--zn1); } td.zn2 { background: var(--zn2); }
+td.pos { color: var(--good); font-weight: 600; } td.neg { color: var(--bad); font-weight: 600; }
+
+/* Verdict chips */
+.chip { display: inline-block; font: 600 11px/1 var(--mono); letter-spacing: .05em; text-transform: uppercase;
+  padding: 4px 7px; border-radius: 3px; background: var(--neutral-bg); color: var(--ink); white-space: nowrap; }
+.chip.al { background: var(--good-bg); color: var(--good); }
+.chip.adil { background: var(--neutral-bg); color: var(--muted); }
+.chip.pahali { background: var(--bad-bg); color: var(--bad); }
+.chip.tuzak { background: var(--warn-bg); color: var(--warn); }
+.chip.breakout { background: var(--violet-bg); color: var(--violet); }
+.chip.flyer { background: var(--teal-bg); color: var(--teal); }
+.chip.bust { background: transparent; color: var(--bad); box-shadow: inset 0 0 0 1px var(--bad); }
+.chip.sakat { background: transparent; color: var(--warn); box-shadow: inset 0 0 0 1px var(--warn); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+
+/* Score: 1-5 filled pips */
+.score { font-family: var(--mono); letter-spacing: 2px; color: var(--accent); white-space: nowrap; }
+
+/* Player card */
+.player { background: var(--paper); border: 1px solid var(--line); border-radius: 6px; padding: 16px; display: grid; gap: 10px; }
+.player .head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px 14px; }
+.player .head h3 { margin-right: auto; }
+.prices { display: flex; flex-wrap: wrap; gap: 6px 18px; font: 13px/1.4 var(--mono); color: var(--muted); }
+.prices b { color: var(--ink); font-weight: 600; }
+.player p { max-width: 76ch; }
+
+/* Team block */
+.team { display: grid; gap: 14px; }
+.team-head { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: baseline; }
+.team-head h2 { border: 0; padding: 0; margin-right: auto; }
+
+nav.toc { display: flex; flex-wrap: wrap; gap: 6px 14px; font: 13px/1.6 var(--mono); }
+
+@media (max-width: 520px) { body { font-size: 15px; } h2 { font-size: 26px; } .player { padding: 12px; } }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+
+/* Episode audio player: stays on top while reading */
+.audio { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; display: grid; gap: 6px;
+  background: var(--paper); border: 1px solid var(--line); border-radius: 6px; padding: 10px 14px; }
+.audio audio { width: 100%; }
