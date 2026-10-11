@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "da36e9024ddd",
+ "input_sha": "5309ca2d03b1",
  "note_count": 2,
- "built_at": "2026-10-05T19:49:43+00:00",
+ "built_at": "2026-10-11T09:16:23+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.11384620000000001,
-  "duration_ms": 18898,
+  "cost_usd_list": 0.1237342,
+  "duration_ms": 20871,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Toronto traded him to the Clippers, where he is set for a bench role.",
+   "text": "He joined the Clippers from Toronto in the June 2026 Kawhi Leonard trade.",
    "kind": "fact",
    "date": "2026-06-30",
    "until": "",
@@ -30,17 +30,17 @@
    ]
   },
   {
-   "text": "He has no clear path to minutes. He is not in the Clippers' projected top ten of the rotation.",
+   "text": "He is not in the projected Clippers starting five or the projected first ten of the bench order.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
    "sources": [
-    "tnzmsYUA4yQ:p38",
+    "tnzmsYUA4yQ:t3",
     "tnzmsYUA4yQ:t4"
    ]
   },
   {
-   "text": "Do not draft him.",
+   "text": "He has no clear path to minutes and is expected to play a bench role at most.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
@@ -50,25 +50,24 @@
    ]
   },
   {
-   "text": "The Clippers may use long rotations and test many players this season, and Ty Lue often changes his rotations. That could open some minutes for him, but no note expects it.",
+   "text": "Do not draft him. The experts call him not draftable.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
    "sources": [
-    "tnzmsYUA4yQ:t1",
-    "tnzmsYUA4yQ:t2"
+    "tnzmsYUA4yQ:p38",
+    "JMSLg6yz-M0:p14"
    ]
   }
  ],
  "durable": [
   {
-   "text": "His game is not fantasy friendly. He is a shooter who adds little in the other categories.",
+   "text": "His game is not fantasy friendly.",
    "kind": "verdict",
    "date": "2026-06-30",
    "until": "",
    "sources": [
-    "JMSLg6yz-M0:p14",
-    "stats"
+    "JMSLg6yz-M0:p14"
    ]
   }
  ],
@@ -76,7 +75,7 @@
   {
    "name": "new team",
    "channel": "current",
-   "detail": "Traded from Toronto to the Clippers",
+   "detail": "Traded from Toronto to the Clippers in the Kawhi Leonard deal",
    "until": "",
    "sources": [
     "JMSLg6yz-M0:p14"
@@ -86,27 +85,16 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Not in the projected Clippers top ten, no clear path to minutes",
+   "detail": "Outside the projected top ten of the Clippers rotation, with no clear path to minutes",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:p38",
+    "tnzmsYUA4yQ:t3",
     "tnzmsYUA4yQ:t4"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "unsettled rotation",
-   "channel": "current",
-   "detail": "Clippers expected to test many players. Ty Lue changes rotations often",
-   "until": "",
-   "sources": [
-    "tnzmsYUA4yQ:t1",
-    "tnzmsYUA4yQ:t2",
-    "JMSLg6yz-M0:t3"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Leave him out of our auction. Yahoo ranks him 239 and ESPN 211, both value him at 0 USD, and only 144 players get drafted. His projected line is weak almost everywhere: a 41% FG and only about 10 points, 1.5 threes and 1.3 assists, so he fits no punt build. The one thing to check early is whether the Clippers' long, changing rotation gives him real minutes. If it doesn't, he is not worth a waiver look.",
+ "note": "Both sites price him at 0 USD (Yahoo rank 240, ESPN rank 211), so he will not be among our 144 drafted players. Leave him on waivers. The site projections of 8 to 9.5 shots per game look too high for a player the experts leave out of the rotation, after he played 14.0 minutes a game last season. Early in the season, check whether the Clippers' many injuries or Ty Lue's rotation changes give him real minutes. Even then he offers little beyond FT% on low volume.",
  "rejected": []
 }

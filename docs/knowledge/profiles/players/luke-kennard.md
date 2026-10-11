@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 259 | 0 | 0.1 | 220 | not drafted |
+| 2026-27 | 0 | - | 259 | 0 | 0.0 | 221 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,7 +21,7 @@
 | FT% | 80.1% | +0.0 | -0.1 | - |
 | 3PM | 1.5 | -0.0 | -0.3 | - |
 | PTS | 8.1 | -1.0 | -1.1 | - |
-| REB | 2.3 | -1.2 | -1.2 | - |
+| REB | 2.3 | -1.2 | -1.3 | - |
 | AST | 2.1 | -0.6 | -0.7 | - |
 | STL | 0.7 | -0.7 | -0.8 | - |
 | BLK | 0.1 | -1.0 | -1.2 | - |
@@ -30,20 +30,20 @@
 </details>
 
 **Current**
-- Phoenix has a crowded group of guards and wings. Booker, Jalen Green, Dillon Brooks, Collin Gillespie and Miles Bridges will all want touches. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=989), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200))
-- Ben (Locked On Suns) expects him to come off the bench and take about eight threes a game, making about 40 to 41%. That is a lower percentage than before, on more volume. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=435))
-- Ben worries that the projected Phoenix starting lineup has no reliable three-point shooter. That could open a shooting role for a bench specialist. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=619))
-- Kennard signed with Phoenix this offseason. (fact, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1362))
-- One expert thinks too many guards are ahead of him for him to make an impact. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1362))
+- Booker, Jalen Green, Miles Bridges and Dillon Brooks are expected to take most of the Suns' minutes and usage, which leaves little room for bench guards. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2437), [09-19](https://youtu.be/uarqbNA2dFk?t=989))
+- Ben expects him to come off the bench and take about eight threes a game, making about 40 to 41% of them. That would be more volume at a lower percentage than before. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=435))
+- Ben worries that the Suns' projected starting lineup has no reliable three-point shooting. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=619))
+- Kennard signed with Phoenix in free agency. (fact, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1362))
+- Too many guards are ahead of him in Phoenix for him to make a fantasy impact. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1362))
 
 **Durable**
 - Kennard is a pure three-point shooter. He does not get to the rim and is not a mid-range shooter. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=456))
 - He has historically taken too few threes for a shooter of his quality. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=456))
 
 **Tags**
-- Current: `new team` (Signed with Phoenix in July 2026), `minutes competition` (Booker, Jalen Green, Brooks, Gillespie and Bridges are ahead of him), `waiver watch` (Ranked outside the top 144 on both sites. Watch for about eight three-point attempts a game off the bench.)
-- Durable: `needs playmaker` (Spot-up three-point shooter, no rim attacks or mid-range game)
+- Current: `new team` (Signed with Phoenix in free agency), `minutes competition` (Booker, Jalen Green, Bridges and Brooks are ahead of him; a bench shooting role at best)
+- Durable: none
 
-**Note.** Kennard is not a draft target for us. Yahoo ranks him 259 and ESPN ranks him 220, both value him at 0 USD, and our league did not draft him last season. His last line was efficient: 53.3% FG on 5.7 attempts and only 0.8 turnovers a game. But he scored 8.4 points with 1.5 threes, so he only adds value if his three-point volume clearly rises. In the first weeks, check whether he really gets the eight or so three-point attempts off the bench that Ben projects. If he does, he becomes a streaming add for threes. Ignore Yahoo's 67.3% FT projection, because he shot 91.3% last season on very few attempts.
+**Note.** He ranks 259 on Yahoo and 221 on ESPN with a value of 0 USD on both sites, so he falls well outside the 144 players drafted in our league and should not be drafted. His projected line gives efficient FG% on low volume and few turnovers (0.8 per game) but little in PTS, REB, AST, STL or BLK. Yahoo's 67.3% FT% projection does not match his 89 to 91% history, and he takes under one free throw a game anyway. Early in the season, check whether he really gets Ben's projected eight three-point attempts a game off the bench. If he does, he can be a waiver streamer for threes.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

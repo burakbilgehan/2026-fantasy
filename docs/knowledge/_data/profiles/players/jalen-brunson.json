@@ -8,14 +8,14 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "9243d5a15237",
- "note_count": 21,
- "built_at": "2026-10-05T19:51:48+00:00",
+ "input_sha": "e8a69c8ffe52",
+ "note_count": 25,
+ "built_at": "2026-10-11T09:17:56+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1950622,
-  "duration_ms": 58247,
+  "cost_usd_list": 0.1980462,
+  "duration_ms": 57414,
   "turns": 2,
   "denied": 0
  },
@@ -30,31 +30,33 @@
    ]
   },
   {
-   "text": "He played two extra months in the Knicks' championship run and was Finals MVP.",
+   "text": "He played about two extra months last season on the Knicks' run to the championship.",
    "kind": "fact",
    "date": "2026-09-09",
    "until": "",
    "sources": [
     "J1Eg3uaAICU:p32",
-    "ME-r173X5b0:p35",
-    "7BllEsdNLoM:t8"
+    "7BllEsdNLoM:t8",
+    "ME-r173X5b0:p35"
    ]
   },
   {
-   "text": "Experts worry about a Finals hangover. He may start slow, lose some production to fatigue and have his minutes protected.",
+   "text": "Several experts worry about a Finals hangover. He may start slow, lose some production to fatigue and get extra rest.",
    "kind": "verdict",
-   "date": "2026-09-19",
+   "date": "2026-10-06",
    "until": "",
    "sources": [
-    "J1Eg3uaAICU:p32",
-    "OdDkXFhoKsc:p31",
+    "eTsjuVu1trk:p11",
     "uarqbNA2dFk:p9",
     "7BllEsdNLoM:p23",
-    "7BllEsdNLoM:t8"
+    "J1Eg3uaAICU:p32",
+    "OdDkXFhoKsc:p31",
+    "7BllEsdNLoM:t8",
+    "dlo7L8Ru91A:t4"
    ]
   },
   {
-   "text": "The Knicks are expected to be careful with their starters over the first 30 or so games. That means trimmed minutes and more rest on back-to-backs.",
+   "text": "The Knicks are expected to be careful with their main players over the first 30 or so games. Starters' minutes will be trimmed and there will be more rest on back-to-backs.",
    "kind": "verdict",
    "date": "2026-09-22",
    "until": "first 30 or so games",
@@ -62,11 +64,11 @@
     "okN3fbHJtlA:t1",
     "QbdrhJd7LiA:t3",
     "W-R1dzem32s:t5",
-    "dlo7L8Ru91A:t4"
+    "LM0cRCGoAUQ:t6"
    ]
   },
   {
-   "text": "He is the projected starting guard next to Bridges, Hart, Anunoby and Towns.",
+   "text": "He is the projected starting point guard next to Bridges, Hart, Anunoby and Towns.",
    "kind": "fact",
    "date": "2026-08-13",
    "until": "",
@@ -84,6 +86,44 @@
    ]
   },
   {
+   "text": "In category leagues, experts see him as a fourth-round player, worth about pick 39 to 48. They say not to take him in the third round. They also say to avoid him at his Yahoo rank of 29 or an ADP of 21 to 23.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p12",
+    "-DN4P92Wp8Y:p13",
+    "eTsjuVu1trk:p11",
+    "BjXP9JODDSg:p15",
+    "_vbAP5y182A:p20",
+    "uarqbNA2dFk:p9",
+    "DubdKKhMWHo:p8",
+    "7BllEsdNLoM:p23",
+    "Alwse2uXzD4:p10",
+    "J1Eg3uaAICU:p30",
+    "OdDkXFhoKsc:p30",
+    "ME-r173X5b0:p35"
+   ]
+  },
+  {
+   "text": "In category leagues, one expert sees a best case of 22nd and a worst case of 91st.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "DubdKKhMWHo:p8"
+   ]
+  },
+  {
+   "text": "In an auction mock draft, the expert valued him at about 18 USD. He sold for 20 USD.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p23"
+   ]
+  },
+  {
    "text": "The Knicks are projected to win about 50 to 54 games.",
    "kind": "verdict",
    "date": "2026-08-13",
@@ -91,106 +131,64 @@
    "sources": [
     "okN3fbHJtlA:t1"
    ]
-  },
-  {
-   "text": "Experts value him as a fourth-round player in category leagues, around picks 39 to 48. Early round 3 is too soon, and his Yahoo ADP in the 20s is too high. One expert gives a best case of 22nd and a worst case of 91st.",
-   "kind": "verdict",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "BjXP9JODDSg:p15",
-    "_vbAP5y182A:p20",
-    "uarqbNA2dFk:p9",
-    "DubdKKhMWHo:p8",
-    "Alwse2uXzD4:p10",
-    "J1Eg3uaAICU:p30",
-    "OdDkXFhoKsc:p30",
-    "7BllEsdNLoM:p23",
-    "ME-r173X5b0:p35"
-   ]
-  },
-  {
-   "text": "In a mock auction, Josh valued him at about 18 USD and bid up to 19 USD. He went for 20 USD.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p23"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is a high-usage scorer. Points are his standout category.",
-   "kind": "fact",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "stats",
-    "DubdKKhMWHo:p7",
-    "E-KmhvyZ2CU:p13",
-    "ME-r173X5b0:p35"
-   ]
-  },
-  {
-   "text": "His free throw shooting is good.",
-   "kind": "fact",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "DubdKKhMWHo:p7",
-    "J1Eg3uaAICU:p31",
-    "E-KmhvyZ2CU:p13"
-   ]
-  },
-  {
-   "text": "He barely rebounds and gets few steals. His blocks are very poor, even for a guard.",
-   "kind": "fact",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "stats",
-    "DubdKKhMWHo:p7",
-    "J1Eg3uaAICU:p31",
-    "ME-r173X5b0:p35"
-   ]
-  },
-  {
-   "text": "Experts disagree on his field goal percentage. Some call it good or solid, one calls it below average. Projections put his FG% impact near the pool average.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "DubdKKhMWHo:p7",
-    "E-KmhvyZ2CU:p13",
-    "ME-r173X5b0:p35",
-    "J1Eg3uaAICU:p31",
-    "stats"
-   ]
-  },
-  {
-   "text": "Experts call his assists average to decent.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "DubdKKhMWHo:p7",
-    "J1Eg3uaAICU:p31",
-    "ME-r173X5b0:p35"
-   ]
-  },
-  {
    "text": "He is worth much more in points leagues than in category leagues. Points-based rankings overrate him for us.",
    "kind": "verdict",
-   "date": "2026-09-19",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
+    "-DN4P92Wp8Y:p12",
+    "eTsjuVu1trk:p10",
     "uarqbNA2dFk:p8",
     "2A2JbUN-kc0:p24",
     "7BllEsdNLoM:p24",
     "OdDkXFhoKsc:p30",
     "80kfLVnFQ_s:p17",
-    "E-KmhvyZ2CU:p13"
+    "J1Eg3uaAICU:p30"
+   ]
+  },
+  {
+   "text": "He is a high-usage scorer whose points are a league outlier. He adds good free throws, solid threes and good assists for a guard.",
+   "kind": "fact",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "eTsjuVu1trk:p10",
+    "DubdKKhMWHo:p7",
+    "J1Eg3uaAICU:p31",
+    "ME-r173X5b0:p35",
+    "E-KmhvyZ2CU:p13",
+    "stats"
+   ]
+  },
+  {
+   "text": "He barely rebounds and adds very few steals. His blocks are among the weakest for a guard.",
+   "kind": "fact",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "eTsjuVu1trk:p10",
+    "DubdKKhMWHo:p7",
+    "J1Eg3uaAICU:p31",
+    "ME-r173X5b0:p35",
+    "stats"
+   ]
+  },
+  {
+   "text": "Experts disagree on his FG%. Some call it below average and others call it good. His projection is about league average and slightly above average for a guard.",
+   "kind": "verdict",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "eTsjuVu1trk:p10",
+    "J1Eg3uaAICU:p31",
+    "DubdKKhMWHo:p7",
+    "E-KmhvyZ2CU:p13",
+    "ME-r173X5b0:p35",
+    "stats"
    ]
   }
  ],
@@ -198,7 +196,7 @@
   {
    "name": "PTS specialist",
    "channel": "durable",
-   "detail": "high-usage scorer, about 26 points per game",
+   "detail": "about 26 points per game on high usage",
    "until": "",
    "sources": [
     "stats",
@@ -209,11 +207,10 @@
   {
    "name": "punt BLK fit",
    "channel": "durable",
-   "detail": "blocks very poor even for a guard",
+   "detail": "about 0.1 blocks per game, weak even for a guard",
    "until": "",
    "sources": [
     "stats",
-    "DubdKKhMWHo:p7",
     "ME-r173X5b0:p35"
    ],
    "new_meaning": ""
@@ -221,35 +218,36 @@
   {
    "name": "points league player",
    "channel": "durable",
-   "detail": "round 2 in points leagues, round 4 in categories",
+   "detail": "about a second-round value in points leagues and a fourth-round value in category leagues",
    "until": "",
    "sources": [
-    "uarqbNA2dFk:p8",
+    "-DN4P92Wp8Y:p12",
+    "eTsjuVu1trk:p10",
     "2A2JbUN-kc0:p24",
     "7BllEsdNLoM:p24",
     "Alwse2uXzD4:p10",
-    "80kfLVnFQ_s:p17"
+    "uarqbNA2dFk:p8"
    ],
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "experts value him around picks 39 to 48; Yahoo ADP in the 20s and ESPN average cost 42.9 USD are too high",
+   "detail": "at his Yahoo rank of 29 or an ADP of 21 to 23 in category leagues",
    "until": "",
    "sources": [
+    "-DN4P92Wp8Y:p13",
+    "eTsjuVu1trk:p11",
     "uarqbNA2dFk:p9",
-    "DubdKKhMWHo:p8",
     "7BllEsdNLoM:p23",
-    "_vbAP5y182A:p20",
-    "Q6YlQDvD-aY:p23"
+    "DubdKKhMWHo:p8"
    ],
    "new_meaning": ""
   },
   {
    "name": "slow start",
    "channel": "current",
-   "detail": "Finals hangover and Knicks' careful plan for starters early in the season",
+   "detail": "fatigue after the Finals run and trimmed Knicks minutes early in the season",
    "until": "first 30 or so games",
    "sources": [
     "OdDkXFhoKsc:p31",
@@ -261,34 +259,39 @@
   {
    "name": "back-to-back risk",
    "channel": "current",
-   "detail": "Knicks plan more rest on back-to-backs early in the season",
+   "detail": "the Knicks plan more rest on back-to-backs early in the season",
    "until": "first 30 or so games",
    "sources": [
-    "okN3fbHJtlA:t1"
+    "okN3fbHJtlA:t1",
+    "eTsjuVu1trk:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low starter minutes",
+   "channel": "current",
+   "detail": "the Knicks plan to trim starters' minutes after the title run",
+   "until": "first 30 or so games",
+   "sources": [
+    "okN3fbHJtlA:t1",
+    "QbdrhJd7LiA:t3",
+    "W-R1dzem32s:t5",
+    "LM0cRCGoAUQ:t6",
+    "uarqbNA2dFk:p9"
    ],
    "new_meaning": ""
   },
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "defending champions, projected 50 to 54 wins",
+   "detail": "the Knicks are the defending champions and projected for 50 to 54 wins",
    "until": "",
    "sources": [
     "okN3fbHJtlA:t1"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "sites disagree on price",
-   "channel": "current",
-   "detail": "Yahoo average cost 32.6 USD vs ESPN average cost 42.9 USD",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "The market prices Brunson as a top-30 player: Yahoo average cost 32.6 USD, ESPN 42.9 USD, and 31 USD in our league last season. The experts see a fourth-round category player (picks 39 to 48) and valued him at 18 to 20 USD in a mock auction, so let someone else pay 30 USD or more. He fits builds that want points, FT% and threes from a guard, and suits punt BLK. Early in the season, check his minutes and rest days under the Knicks' careful plan for the first 30 or so games, and check his wrist after surgery.",
+ "note": "Category experts see Brunson as a fourth-round player, not the top-30 player the markets price. Yahoo's average cost is 33.3 USD and ESPN's is 42.3 USD. Our league paid 31 USD last season, but an expert auction mock valued him at about 18 USD and he sold for 20 USD. In our 9-cat league, let others pay 30 USD or more. He makes sense at about 20 to 25 USD in a punt BLK build that wants points, FT%, threes and assists from a guard. Early in the season, check his minutes, rest on back-to-backs and his wrist. The Knicks plan to be careful with starters for the first 30 or so games after the Finals run.",
  "rejected": []
 }

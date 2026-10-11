@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 3 | 1.0 | 158 | 2 | 1.1 | 107 | 3 |
+| 2026-27 | 3 | 1.0 | 128 | 2 | 1.3 | 109 | 3 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,7 +19,7 @@
 | FG% | 45.9% | -0.4 | +0.0 | - |
 | FT% | 84.8% | +0.7 | +0.4 | - |
 | 3PM | 1.0 | -0.6 | -1.0 | weak for his position (punt fit) |
-| PTS | 14.0 | +0.0 | -0.1 | - |
+| PTS | 14.0 | -0.0 | -0.1 | - |
 | REB | 4.4 | -0.3 | +0.4 | - |
 | AST | 5.5 | +1.2 | +0.8 | - |
 | STL | 1.7 | +2.2 | +1.8 | league outlier, strong |
@@ -29,26 +29,31 @@
 </details>
 
 **Current**
-- The Milwaukee backcourt is crowded with Rollins, Herro, Jakucionis, Burries, Trent and Green. The projected starters are Rollins, Herro, Jaquez, Ware and Turner. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418), [08-14](https://youtu.be/owlM6b8oUd0?t=536))
-- The experts expect him to come off the bench, with minutes well below last season. Josh thinks Ryan Rollins starts over him, and he could play about 27 minutes as a reserve. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2192), [08-26](https://youtu.be/sTtFUy7IoJI?t=1431), [08-24](https://youtu.be/g31YlwRe0XQ?t=1504), [08-14](https://youtu.be/owlM6b8oUd0?t=2298), [08-11](https://youtu.be/OdDkXFhoKsc?t=992), [09-10](https://youtu.be/W-R1dzem32s?t=1922), [09-01](https://youtu.be/80kfLVnFQ_s?t=1525))
-- He is worth a late pick, around 120 but not earlier. He is a flyer in case Milwaukee starts him, and Josh calls him a must-draft at that point. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2192), [08-26](https://youtu.be/sTtFUy7IoJI?t=1445), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2015), [09-09](https://youtu.be/7BllEsdNLoM?t=2294))
-- Doc Rivers is no longer the Milwaukee coach. Porter played big minutes under Rivers as his preferred player. The new coach is Taylor Jenkins. (fact, 2026-09-14; [08-14](https://youtu.be/owlM6b8oUd0?t=947), [08-24](https://youtu.be/g31YlwRe0XQ?t=1504), [06-23](https://youtu.be/nnWX_ObljOE?t=179), [09-14](https://youtu.be/t4n9MAP2_14?t=2436))
-- He picked up his 5 million USD player option and stays in Milwaukee. The experts read this as a sign that no other team wanted him. (fact, 2026-08-26; [08-14](https://youtu.be/owlM6b8oUd0?t=947), [08-26](https://youtu.be/sTtFUy7IoJI?t=1431), [07-13](https://youtu.be/Rqb5GdrSweY?t=1695))
-- Justin thinks his best role is as a sixth man scorer leading the second unit. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1002))
-- His 2.2 steals per game last season are the steals number most likely to drop a lot, because he was not a big steals player before. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=1651))
-- He missed most of last season. (fact, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=362), stats)
+- Milwaukee is expected to put more focus on developing young players as the season goes on, which would cut veteran minutes. (verdict, 2026-10-09; [10-08](https://youtu.be/sDzeYdUhJDI?t=508), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1423))
+- He picked up his 5 million USD player option and is back with Milwaukee. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1330), [10-05](https://youtu.be/BiIZsSypx7Y?t=2448), [08-26](https://youtu.be/sTtFUy7IoJI?t=1431), [08-14](https://youtu.be/owlM6b8oUd0?t=947), [07-13](https://youtu.be/Rqb5GdrSweY?t=1695))
+- He looks healthy and played in the preseason. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1970))
+- The projected starters to open the season are Rollins, Herro, Jaquez, Kuzma and Turner, so Porter is not in the projected starting lineup. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=901))
+- Experts expect him to come off the bench as the sixth man and lead the second unit, but they are not sure. A bench role could mean about 27 minutes. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1330), [10-02](https://youtu.be/ZYllcj4o6_A?t=2192), [08-26](https://youtu.be/sTtFUy7IoJI?t=1431), [08-14](https://youtu.be/owlM6b8oUd0?t=1002), [08-11](https://youtu.be/OdDkXFhoKsc?t=992))
+- Doc Rivers is no longer the coach, and Porter was his preferred guard. Taylor Jenkins is the new head coach and might use a deep rotation. (fact, 2026-10-08; [08-14](https://youtu.be/owlM6b8oUd0?t=947), [06-23](https://youtu.be/nnWX_ObljOE?t=179), [10-08](https://youtu.be/sDzeYdUhJDI?t=335))
+- Experts do not expect last season's 2.2 steals, 7.4 assists and 88% free throws to repeat. Of last season's steals leaders, he is the most likely to drop a lot. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1399), [07-07](https://youtu.be/ME-r173X5b0?t=1651), [07-16](https://youtu.be/-y6p5PYLf00?t=1984))
+- Experts call him a worthwhile late flyer around picks 110 to 120 and say he should not go before 120. If he reaches 29 minutes, he has top 50 upside. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1895), [10-05](https://youtu.be/BiIZsSypx7Y?t=2448), [10-02](https://youtu.be/ZYllcj4o6_A?t=2192), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2015), [08-26](https://youtu.be/sTtFUy7IoJI?t=1445), [09-09](https://youtu.be/7BllEsdNLoM?t=2294))
+- Experts say the roster needs trades to consolidate. Porter, Kuzma, Jaquez and Herro are named as players who do not fit well. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1845))
+- Milwaukee's backcourt is crowded. Rollins, Herro, Burries, Jakucionis, Trent, Green and Watanabe all compete with him for guard minutes. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418), [10-08](https://youtu.be/sDzeYdUhJDI?t=73))
+- Experts read the opt-in as a sign that no other team wanted him. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1431), [08-14](https://youtu.be/owlM6b8oUd0?t=947))
+- Lloyd expects his minutes to be well below last season's under the new coach. Josh thinks he may be pushed down the rotation and is not fully in the team's plans. (verdict, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=1504), [08-14](https://youtu.be/owlM6b8oUd0?t=2298), [07-13](https://youtu.be/Rqb5GdrSweY?t=1695))
 
 **Durable**
-- Steals are his standout category, well above the top 250 pool. (fact, 2026-10-04; stats, [08-14](https://youtu.be/owlM6b8oUd0?t=1114), [08-11](https://youtu.be/OdDkXFhoKsc?t=1782))
-- He makes few threes for a guard. His three-point attempts disappeared in Milwaukee. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1055), [08-14](https://youtu.be/owlM6b8oUd0?t=1114), stats)
-- His scoring efficiency relies on tough mid-range shots, and Justin thinks that is unlikely to last. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1055))
-- The experts do not rate him as a real-life player. One calls him inefficient and a ball hog, though the fantasy numbers are strong when he plays big minutes. (verdict, 2026-08-11; [07-05](https://youtu.be/4kKINkZhWls?t=2065), [08-11](https://youtu.be/OdDkXFhoKsc?t=1782))
-- His FT% is hard to predict. He has a 60% season in his career and also seasons near 77% and 88%. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1984), [08-14](https://youtu.be/owlM6b8oUd0?t=1114))
+- He makes few threes for a guard. (fact, 2026-10-11; stats, [08-14](https://youtu.be/owlM6b8oUd0?t=1114))
+- Steals are his best category and a real outlier, even in the lower projections. (fact, 2026-10-11; stats)
+- He had several knee problems last season and likely more than one surgery. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1970))
+- He scores with tough mid-range shots and takes few threes. Experts think that efficiency is unlikely to last. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1055), [08-14](https://youtu.be/owlM6b8oUd0?t=1114))
+- Experts call him an inefficient, ball-dominant real-life player, but say his fantasy numbers can be strong. (verdict, 2026-08-11; [07-05](https://youtu.be/4kKINkZhWls?t=2065), [08-11](https://youtu.be/OdDkXFhoKsc?t=1782))
+- His FT% is hard to predict. He has a 60% FT season in his career. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1984))
 
 **Tags**
-- Current: `minutes competition` (Rollins, Herro, Jakucionis, Burries, Trent and Green in the backcourt), `role down` (lost Doc Rivers; likely bench role under Taylor Jenkins), `injury last season` (played 38 games), `flyer` (late pick around 120 in case he starts)
-- Durable: `STL specialist` (projected 1.7 steals; regression from 2.2 expected), `punt 3PM fit` (about 1 three per game, three-point attempts dropped)
+- Current: `minutes competition` (Rollins, Herro, Burries, Jakucionis, Trent, Green and Watanabe), `role down` (likely sixth man; Doc Rivers is gone), `regression risk` (steals, assists and FT% from last season), `flyer` (pick 110 to 120, top 50 upside at 29 minutes), `new coach` (Taylor Jenkins replaces Doc Rivers), `unsettled rotation` (experts call it the hardest rotation to read), `deep rotation` (Jenkins might use a deep rotation), `trades likely` (named among players who do not fit the roster)
+- Durable: `STL specialist` (projected 1.7 steals; experts doubt last season's 2.2 repeats), `punt 3PM fit` (about 1.0 threes per game; three-point attempts disappeared), `injury prone` (several knee problems, likely more than one surgery last season), `usage dependent` (top 50 upside only at about 29 or more minutes)
 
-**Note.** He is an end-of-auction flyer for us. Yahoo and ESPN value him at 2 to 3 USD, and our league paid 3 USD last season. His ranks (107 ESPN, 158 Yahoo) put him near the edge of our 144-player pool, so do not pay more than 1 to 3 USD. He fits punt 3PM builds that want steals and assists from a guard. Early in the season, check whether he starts or gets 27 or more minutes under Jenkins, and whether his steals stay near 2 per game. If neither happens, he is easy to drop.
+**Note.** He is priced as a last-round flyer: 3 USD on Yahoo, 2 USD on ESPN and 3 USD in our auction last season. His ranks of 128 and 109 put him near the end of our 144-player pool. That fits the expert consensus of a 1 to 3 USD pick for steals, assists and FT%, best on a punt 3PM build. Early in the season, check whether he gets 29 or more minutes or a starting job, and whether his steals and FT% hold up. If he ends up as a 27-minute bench guard, he is easy to cut.
 
-<sub>22 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>28 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

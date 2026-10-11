@@ -8,7 +8,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 689 | 0 | 0.0 | 294 | not drafted |
+| 2026-27 | 0 | - | 713 | 0 | 0.0 | 293 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -17,33 +17,39 @@
 | FG% | 42.6% | -0.7 | -0.7 | - |
 | FT% | 76.0% | -0.2 | -0.2 | - |
 | 3PM | 0.6 | -1.0 | -1.3 | - |
-| PTS | 8.0 | -1.0 | -1.1 | - |
+| PTS | 8.0 | -1.1 | -1.1 | - |
 | REB | 3.7 | -0.6 | -0.7 | - |
 | AST | 1.1 | -1.1 | -1.1 | - |
 | STL | 0.7 | -0.6 | -0.6 | - |
-| BLK | 0.7 | +0.1 | +0.3 | - |
+| BLK | 0.7 | +0.1 | +0.2 | - |
 | TO | 1.2 | +0.6 | +0.5 | - |
 
 </details>
 
 **Current**
-- He is not among the projected Bucks starters. The projected starters are Rollins, Herro, Jaquez, Ware and Turner. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=536))
-- He had a back injury over the summer. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=792))
-- His path to NBA minutes looks weak right now. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=792))
-- He had a bad summer league: about 10 points and 5 rebounds per game, only 0.4 blocks, and he missed his free throws. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1124))
-- Experts rank him below his draft slot. Several think he was not worth the 13th pick and that he might just be a bad player. (verdict, 2026-07-23; [06-25](https://youtu.be/lOshTzDA4SA?t=1884), [06-26](https://youtu.be/CLsUc0Sevos?t=1648), [07-23](https://youtu.be/LUTYUdXBG1M?t=1124), [06-28](https://youtu.be/RsjGTgJiKyI?t=261), [06-23](https://youtu.be/-rgXhs5BHiw?t=468))
-- He is a rookie. The Bucks drafted him 13th overall in 2026. (fact, 2026-06-28; [06-26](https://youtu.be/CLsUc0Sevos?t=1648), [06-28](https://youtu.be/RsjGTgJiKyI?t=261), [06-25](https://youtu.be/lOshTzDA4SA?t=1884))
+- Yahoo lists him as questionable with an ankle injury. (fact, 2026-10-11; stats)
+- He is not a draft target in a 12-team league. (verdict, 2026-10-11; stats, [08-02](https://youtu.be/TOn-D1SV7a8?t=792), [10-08](https://youtu.be/sDzeYdUhJDI?t=1798))
+- The Bucks are expected to focus more on young players as the season goes on, which could open minutes for him later. (verdict, 2026-10-09; [10-08](https://youtu.be/sDzeYdUhJDI?t=508), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1423))
+- Experts think the Bucks reached at 13. They say he was not worth that pick and might just be a bad player. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1798), [07-23](https://youtu.be/LUTYUdXBG1M?t=1124), [06-25](https://youtu.be/lOshTzDA4SA?t=1884), [06-23](https://youtu.be/-rgXhs5BHiw?t=468))
+- He is not in the Bucks' projected opening lineup of Rollins, Herro, Jaquez, Kuzma and Turner. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=901))
+- New coach Taylor Jenkins might use a deep rotation, and experts call the Bucks rotation one of the hardest to read. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [10-08](https://youtu.be/sDzeYdUhJDI?t=335), [10-08](https://youtu.be/WXO8MfQfzo0?t=1054), [08-11](https://youtu.be/OdDkXFhoKsc?t=1811))
+- Experts expect the Bucks to be a bad team. They do not own their pick, so they have no reason to tank. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=2216), [08-10](https://youtu.be/sfCe7fS9daM?t=1690), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609))
+- His path to NBA minutes is weak right now. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=792))
+- He had a bad summer league: 10 points and 5 rebounds per game, only 0.4 blocks, and missed free throws. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1124))
+- Rookie. The Bucks took him with the 13th pick of the 2026 draft. (fact, 2026-06-28; [06-26](https://youtu.be/CLsUc0Sevos?t=1648), [06-28](https://youtu.be/RsjGTgJiKyI?t=261), [06-25](https://youtu.be/lOshTzDA4SA?t=1884))
 
 **Durable**
-- He might be an okay defender, but experts want more blocks from him than he has shown. (verdict, 2026-07-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=468), [06-22](https://youtu.be/HxQjagSTTAM?t=750), [07-23](https://youtu.be/LUTYUdXBG1M?t=1124))
-- Experts say his shooting and efficiency numbers are horrific and doubt his shooting and scoring. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1648), [06-23](https://youtu.be/-rgXhs5BHiw?t=468), [06-22](https://youtu.be/HxQjagSTTAM?t=750))
-- He has size, an interesting frame and scoring upside. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1648), [06-23](https://youtu.be/-rgXhs5BHiw?t=468))
-- Before the NBA he scored in high volume and rebounded well. (fact, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=750))
+- Experts call his shooting and efficiency poor and doubt his scoring. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1798), [06-26](https://youtu.be/CLsUc0Sevos?t=1648), [06-23](https://youtu.be/-rgXhs5BHiw?t=468), [06-22](https://youtu.be/HxQjagSTTAM?t=750))
+- He could be a decent rebounder. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1798))
+- Experts doubt his steals, blocks, passing and usage. His block numbers are low for his size. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1798), [06-22](https://youtu.be/HxQjagSTTAM?t=750), [07-23](https://youtu.be/LUTYUdXBG1M?t=1124))
+- He had a back injury during summer league. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=792))
+- He has size, an interesting frame and scoring upside. He scored a lot and rebounded well before the NBA. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1648), [06-23](https://youtu.be/-rgXhs5BHiw?t=468), [06-22](https://youtu.be/HxQjagSTTAM?t=750))
+- He might be an okay defender. (verdict, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=468))
 
 **Tags**
-- Current: `rookie` (13th overall pick by the Bucks in 2026), `minutes competition` (Not in the projected starting five; experts see a weak path to minutes)
+- Current: `rookie` (13th pick of the 2026 draft), `injured now` (Yahoo status Q (ankle)), `questionable` (ankle), `new coach` (Taylor Jenkins), `deep rotation` (Jenkins might use a deep rotation), `unsettled rotation` (experts cannot read the Bucks rotation), `bottom team` (win total 26.5, about 33 wins expected)
 - Durable: none
 
-**Note.** Both sites price him at 0 USD and rank him 689 (Yahoo) and 294 (ESPN). That is far outside the 144 players our league drafts, so do not draft him. His projected line is weak: 8 points on 42.6% FG and no category with a real edge (blocks are only about average). Early in the season, check whether Taylor Jenkins gives him minutes at power forward, which a team note calls Milwaukee's weakest position. If he gets those minutes, keep an eye on him as a waiver option.
+**Note.** Ament is not a pick in our league. Yahoo ranks him 713 and ESPN 293, both value him at 0 USD, and his projected line is below the pool in almost every category. Yahoo projects about 10 points on 8.7 shots and ESPN about 6 points in under 18 minutes, but the experts doubt his shooting and his path to minutes. Leave him on waivers and check later in the season whether the Bucks' turn toward young players gives him a real role.
 
-<sub>7 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>8 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

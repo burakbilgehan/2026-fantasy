@@ -8,81 +8,68 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "34a098cc4839",
- "note_count": 12,
- "built_at": "2026-10-05T19:56:23+00:00",
+ "input_sha": "f739a0624b5e",
+ "note_count": 13,
+ "built_at": "2026-10-11T09:20:11+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.16715819999999998,
-  "duration_ms": 40904,
+  "cost_usd_list": 0.1758822,
+  "duration_ms": 43753,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He has signed a new contract and is locked in as Utah's starting point guard.",
+   "text": "He signed a new contract and is set as Utah's starting point guard.",
    "kind": "fact",
    "date": "2026-09-21",
    "until": "",
    "sources": [
-    "egRrai3Ax38:p34"
-   ]
-  },
-  {
-   "text": "Utah's projected starting lineup is George, Darryn Peterson, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic.",
-   "kind": "fact",
-   "date": "2026-08-05",
-   "until": "",
-   "sources": [
+    "egRrai3Ax38:p34",
     "CI4k8ofUXXk:t0"
    ]
   },
   {
-   "text": "Experts expect his usage to drop. Full seasons of Markkanen and Jaren Jackson Jr. plus rookie Darryn Peterson take touches, and he may lose about one assist per game.",
-   "kind": "verdict",
-   "date": "2026-09-17",
+   "text": "Utah has Lauri Markkanen and Jaren Jackson Jr. for a full season and drafted Darryn Peterson. All of them take a lot of usage.",
+   "kind": "fact",
+   "date": "2026-09-09",
    "until": "",
    "sources": [
     "lOshTzDA4SA:p18",
     "7BllEsdNLoM:p25",
-    "ahNxsoU8Hx4:p39",
+    "7BllEsdNLoM:t10",
     "lOshTzDA4SA:t2",
-    "7BllEsdNLoM:t10"
+    "-rgXhs5BHiw:t1"
    ]
   },
   {
-   "text": "Leaf does not expect him to repeat last season's 23.6 points per game. He thinks George needs to learn to play off the ball or become a big distributor as his volume drops.",
+   "text": "Experts expect his usage to step back and do not expect him to repeat last season's 23.6 points per game. One expects him to lose about one assist per game. He is still expected to be good and is a tier 5 point guard.",
    "kind": "verdict",
-   "date": "2026-08-05",
+   "date": "2026-09-17",
    "until": "",
    "sources": [
-    "CI4k8ofUXXk:p8",
-    "CI4k8ofUXXk:p9"
-   ]
-  },
-  {
-   "text": "He is a Tier 5 point guard in both formats and still expected to be good. One speaker worries a bit about him heading into year four.",
-   "kind": "verdict",
-   "date": "2026-09-09",
-   "until": "",
-   "sources": [
+    "ahNxsoU8Hx4:p39",
     "7BllEsdNLoM:p25",
+    "lOshTzDA4SA:p18",
+    "CI4k8ofUXXk:p9",
+    "CI4k8ofUXXk:p8"
+   ]
+  },
+  {
+   "text": "Experts think the market has dropped him too far. Lloyd finds his ESPN rank of 89 strange and doubts last season was a fluke. Another expert says a Fantrax ADP of 58 overdoes the usage drop. One speaker worries a bit about him in year four.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p30",
+    "ahNxsoU8Hx4:p39",
+    "egRrai3Ax38:p34",
     "gJUBAJaHzlU:p3"
    ]
   },
   {
-   "text": "Experts say the market overdoes the usage drop. A Fantrax ADP of 58 is too low, and an ESPN ADP of 100 is too low for a player who finished 40th per game.",
-   "kind": "verdict",
-   "date": "2026-09-21",
-   "until": "",
-   "sources": [
-    "ahNxsoU8Hx4:p39",
-    "egRrai3Ax38:p34"
-   ]
-  },
-  {
-   "text": "Josh thinks he is a 20 USD player in auctions. He went for 20 USD in a mock, which Josh calls reasonable.",
+   "text": "In an auction mock he went for 20 USD, which Josh calls a reasonable price and about what he thought George is worth.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
@@ -91,59 +78,34 @@
    ]
   },
   {
-   "text": "Utah is trying to win this season and is not expected to tank or shut players down. Leaf projects 43 wins and a 7th or 8th seed.",
+   "text": "Utah is trying to win this season and is not expected to tank or shut players down. It is projected for about 43 wins and a playoff spot, with a top 10 offense and a weak defense.",
    "kind": "verdict",
-   "date": "2026-09-17",
+   "date": "2026-10-06",
    "until": "",
    "sources": [
     "J1Eg3uaAICU:t3",
-    "ahNxsoU8Hx4:t2",
     "dlo7L8Ru91A:t2",
-    "sTtFUy7IoJI:t6",
-    "CI4k8ofUXXk:t2"
-   ]
-  },
-  {
-   "text": "Utah is expected to have a top 10 offense with balanced scoring, and three or four players could top 20 points per game.",
-   "kind": "verdict",
-   "date": "2026-08-05",
-   "until": "",
-   "sources": [
+    "ahNxsoU8Hx4:t2",
+    "xHRF06_E9HE:t4",
+    "CI4k8ofUXXk:t2",
     "CI4k8ofUXXk:t3",
-    "CI4k8ofUXXk:t4"
+    "eTsjuVu1trk:t2"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He makes many turnovers, a weak category for the league and for guards.",
+   "text": "He broke out last season. His finishing at the rim went from 54 to 65 percent.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-08-05",
    "until": "",
    "sources": [
-    "stats"
+    "-y6p5PYLf00:p17",
+    "CI4k8ofUXXk:p7"
    ]
   },
   {
-   "text": "His strongest categories are FT% on good volume and assists. FG% is below average for the pool.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "His rim finishing rose from 54 to 65 percent in his breakout season.",
-   "kind": "fact",
-   "date": "2026-07-16",
-   "until": "",
-   "sources": [
-    "-y6p5PYLf00:p17"
-   ]
-  },
-  {
-   "text": "Given his trend, he may be able to keep the better rim finishing.",
+   "text": "Given how he is trending, he may be able to keep the better rim finishing.",
    "kind": "verdict",
    "date": "2026-07-16",
    "until": "",
@@ -159,13 +121,22 @@
    "sources": [
     "CI4k8ofUXXk:p10"
    ]
+  },
+  {
+   "text": "Turnovers are his weak category. At about 3.1 per game, he is a league outlier on the weak side.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
   }
  ],
  "tags": [
   {
    "name": "high TO",
    "channel": "durable",
-   "detail": "about 3.1 turnovers per game projected",
+   "detail": "about 3.1 turnovers per game",
    "until": "",
    "sources": [
     "stats"
@@ -183,37 +154,50 @@
    "new_meaning": ""
   },
   {
-   "name": "role down",
-   "channel": "current",
-   "detail": "less usage with full seasons of Markkanen and Jaren Jackson Jr. plus Peterson",
-   "until": "",
-   "sources": [
-    "lOshTzDA4SA:p18",
-    "7BllEsdNLoM:p25",
-    "ahNxsoU8Hx4:p39",
-    "CI4k8ofUXXk:p9"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Markkanen, Jaren Jackson Jr., Darryn Peterson",
+   "detail": "Markkanen, Jaren Jackson Jr. and rookie Darryn Peterson",
    "until": "",
    "sources": [
     "lOshTzDA4SA:t2",
+    "-rgXhs5BHiw:t1",
     "7BllEsdNLoM:t10",
     "lOshTzDA4SA:p18"
    ],
    "new_meaning": ""
   },
   {
-   "name": "sleeper",
+   "name": "role down",
    "channel": "current",
-   "detail": "ESPN ADP 100 and Fantrax ADP 58 called too low",
+   "detail": "less usage and fewer points than last season's 23.6",
    "until": "",
    "sources": [
-    "egRrai3Ax38:p34",
+    "lOshTzDA4SA:p18",
+    "ahNxsoU8Hx4:p39",
+    "CI4k8ofUXXk:p9",
+    "7BllEsdNLoM:p25"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "ESPN rank 88 to 89, ESPN ADP 100 to 113",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p30",
+    "ahNxsoU8Hx4:p39",
+    "egRrai3Ax38:p34"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "against ESPN rank and ADP",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p30",
     "ahNxsoU8Hx4:p39"
    ],
    "new_meaning": ""
@@ -221,7 +205,7 @@
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo value 24 USD, ESPN value 3 USD",
+   "detail": "Yahoo value 23 USD and rank 46, ESPN value 3 USD and rank 88",
    "until": "",
    "sources": [
     "stats"
@@ -231,12 +215,12 @@
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "Leaf projects 43 wins",
+   "detail": "about 43 wins, 7th or 8th seed projected",
    "until": "",
    "sources": [
     "CI4k8ofUXXk:t2",
-    "J1Eg3uaAICU:t3",
-    "LM0cRCGoAUQ:t4"
+    "xHRF06_E9HE:t4",
+    "eTsjuVu1trk:t2"
    ],
    "new_meaning": ""
   },
@@ -247,12 +231,12 @@
    "until": "",
    "sources": [
     "J1Eg3uaAICU:t3",
-    "ahNxsoU8Hx4:t2",
-    "dlo7L8Ru91A:t2"
+    "dlo7L8Ru91A:t2",
+    "ahNxsoU8Hx4:t2"
    ],
    "new_meaning": ""
   }
  ],
- "note": "The market splits on him: Yahoo values him at 24 USD and ranks him 43rd, ESPN at 3 USD and 89th, and he went for 2 USD in our league last season. The experts see about 20 USD as fair after a smaller role. His FT% (87 percent on 5.6 to 6.4 attempts) and assists help, and his 3.1 turnovers fit a punt TO build. Early in the season, check his shot share next to Markkanen, Jackson and Peterson, and whether his FG% holds near the 45.6 percent he shot last season.",
+ "note": "The sites disagree a lot on George. Yahoo values him at 23 USD (average cost 14.7), ESPN at 3 USD (average cost 6.6), and he went for only 2 USD in our league last season. The experts think the market has dropped him too far, and a mock auction price of 20 USD was called reasonable, so 15 to 20 USD looks like a fair range. His projections help in FT% (about 87% on 6 attempts), AST, PTS and 3PM, but he hurts in TO and a little in FG%, so he fits a punt TO build best. Early in the season, check how much of the usage and the assists he keeps next to Peterson, Markkanen and Jaren Jackson Jr.",
  "rejected": []
 }

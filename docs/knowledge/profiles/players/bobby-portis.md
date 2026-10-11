@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 161 | 0 | 0.1 | 170 | 2 |
+| 2026-27 | 0 | 0.0 | 172 | 0 | 0.1 | 172 | 2 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -23,29 +23,33 @@
 | PTS | 13.6 | -0.1 | +0.0 | - |
 | REB | 6.9 | +0.7 | +0.2 | - |
 | AST | 1.6 | -0.8 | -0.6 | - |
-| STL | 0.6 | -0.9 | -0.7 | - |
-| BLK | 0.3 | -0.7 | -1.2 | weak for his position (punt fit) |
+| STL | 0.6 | -0.9 | -0.8 | - |
+| BLK | 0.3 | -0.7 | -1.2 | - |
 | TO | 1.0 | +0.9 | +0.8 | - |
 
 </details>
 
 **Current**
-- Miami acquired him in the Giannis Antetokounmpo trade. He is a backup big behind Bam Adebayo and Giannis. (fact, 2026-09-14; [06-23](https://youtu.be/nnWX_ObljOE?t=818), [07-16](https://youtu.be/-y6p5PYLf00?t=537), [09-14](https://youtu.be/LM0cRCGoAUQ?t=813))
-- Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs. It plays only 10 games in the playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153))
-- Miami's big man depth is weak. Be careful with Miami players on the margins. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1264))
-- He shot 46% from three last season after 37% the year before. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=537))
-- Expect his three-point shooting to fall back to about 39%, in about 21 minutes per game. His fantasy value comes only from rebounds and scoring. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=537))
-- He is part of Miami's main nine-man rotation, with Larsson, Fontecchio and Jovic off the bench. (fact, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=918))
+- Miami's other backup centers are Nick Richards and Vlad Goldin, so the depth behind Bam and Giannis is weak. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1628), [10-07](https://youtu.be/cvhcheoKdbo?t=1636))
+- If Giannis or Bam misses time, he should play around 27 minutes. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1636))
+- He shot 46% from three last season, well above his 37% to 41% in earlier years. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1616), [07-16](https://youtu.be/-y6p5PYLf00?t=537))
+- His three-point percentage is expected to fall back toward about 39%. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1616), [07-16](https://youtu.be/-y6p5PYLf00?t=537))
+- He is the best stash on Miami for deep or stashable formats, and the market is sleeping on him. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1880))
+- Miami has a weak 4-3-3 schedule in our playoff weeks, 10 games in total. It has no back-to-backs in those weeks. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2024), [08-16](https://youtu.be/gf_6GveiAls?t=1153))
+- Miami has the league-minimum 13 back-to-backs this season. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2037), [08-16](https://youtu.be/gf_6GveiAls?t=1153))
+- He plays for Miami after the Giannis Antetokounmpo trade. He is the backup big behind Bam Adebayo and Giannis. (fact, 2026-09-14; [06-23](https://youtu.be/nnWX_ObljOE?t=818), [07-16](https://youtu.be/-y6p5PYLf00?t=537), [09-14](https://youtu.be/LM0cRCGoAUQ?t=813))
+- In his backup role he projects to about 21 minutes, and his value comes only from rebounds and scoring. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=537))
+- His FT% should come back above last season's 71% because he is a good shooter. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=2133))
 
 **Durable**
-- For a big, he adds threes and rebounds with few turnovers. His blocks are weak for his position. (fact, 2026-10-04; stats)
-- He rarely blocks shots. His block conversion is 4.8%, against a league average of 13%. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=869), stats)
-- His FT% drop to 71% last season had no clear cause. As a good shooter, he should shoot free throws better than that. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=2133))
+- He is a stretch big who makes about 2 threes per game, which is a lot for a forward or center. (fact, 2026-10-11; stats, [10-07](https://youtu.be/cvhcheoKdbo?t=1616))
+- He gets almost no defensive stats. His block rate is very low for a big. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1591), [07-17](https://youtu.be/NYTH7uQsPCM?t=869), stats)
+- He takes only about 1 free throw per game, so his FT% barely moves a team ratio. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1591), stats)
 
 **Tags**
-- Current: `new team` (Traded to Miami in the Giannis deal), `role down` (Backup behind Adebayo and Giannis, projected for about 21 minutes), `few back-to-backs` (Miami has 13 back-to-backs, the fewest in the league, and none in the playoff weeks)
-- Durable: `punt BLK fit` (0.3 blocks per game projected, 4.8% block conversion)
+- Current: `new team` (Traded to Miami in the Giannis Antetokounmpo deal), `handcuff` (About 27 minutes if Giannis or Bam Adebayo misses time), `regression risk` (46% from three last season, expected back near 39%), `sleeper` (Best stash on Miami, slept on by the market), `waiver watch` (Ranked 172 on both sites, outside the 144 drafted players. Add if Giannis or Bam gets hurt), `bad playoff schedule` (Miami plays 4-3-3, 10 games in weeks 19 to 21), `few back-to-backs` (Miami has a league-low 13, none in the fantasy playoffs)
+- Durable: `3PM from a big` (About 2 threes per game as an F,C)
 
-**Note.** Both Yahoo and ESPN price him at 0 USD, at ranks 161 and 170. That puts him just outside our 144-player draft, and he went for 2 USD in our league last season. Expect him to go undrafted or for 1 USD as a bench big who adds rebounds, a few threes and few turnovers, mainly for punt BLK builds. Early in the season, check his minutes behind Adebayo and Giannis, whether his three-point shooting falls from 46%, and whether his FT% recovers above 71%.
+**Note.** Both sites rank him 172 and value him at 0 USD, and he went for 2 USD in our auction last year. As a 13.6-point, 6.9-rebound bench big he is unlikely to be one of our 144 drafted players. He helps a little in threes, rebounds and turnovers but gives nothing in steals or blocks. Watch him on waivers and add him fast if Giannis or Bam Adebayo misses time, because the minutes behind them are his. Early in the season, check his minutes (about 21 projected) and whether his three-point percentage drops toward 39%.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>8 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

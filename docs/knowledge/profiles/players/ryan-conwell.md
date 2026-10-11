@@ -5,25 +5,29 @@ No NBA stats and no projections in our data.
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 645 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 655 | - | - | - | not drafted |
 
 **Current**
-- An expert expects Ryan Rollins to start next to Tyler Herro at guard. Kevin Porter Jr., Brandon Boston and Gary Trent Jr. are also in the guard rotation, so Conwell's minutes are not secure. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1767))
-- Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs. It plays only 10 games in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153))
-- Experts think he could get rotation minutes early this season because Miami is thin at guard. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=325), [07-23](https://youtu.be/LUTYUdXBG1M?t=1251))
-- He moved up from 38 to 33 in one expert's dynasty rookie ranks after a strong Summer League. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=325))
+- Giannis may run point for Miami, which can take ball handling from the guards. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2309), [10-07](https://youtu.be/cvhcheoKdbo?t=262))
+- He is a 22-year-old rookie. Miami drafted him 37th in the 2026 draft. (fact, 2026-10-07; [06-26](https://youtu.be/CLsUc0Sevos?t=1034), [10-07](https://youtu.be/cvhcheoKdbo?t=1720))
+- He is not in Miami's projected starting five of Mitchell, Thompson, Wiggins, Giannis and Bam. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=372))
+- Experts expect him to get rotation minutes early in the season because Miami is thin at guard. (verdict, 2026-10-07; [08-02](https://youtu.be/TOn-D1SV7a8?t=325), [07-23](https://youtu.be/LUTYUdXBG1M?t=1251), [10-07](https://youtu.be/cvhcheoKdbo?t=1720))
+- Dru Smith is injured. He could play ahead of Smith to start the season. (verdict, 2026-10-07, until Dru Smith returns; [10-07](https://youtu.be/cvhcheoKdbo?t=1720))
+- One expert would not be surprised if he becomes better than Davion Mitchell by the second half of the season. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1971))
+- Experts call him a name to watch, mainly in deeper and dynasty leagues. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1720), [10-07](https://youtu.be/cvhcheoKdbo?t=1971))
+- With the March 28 end, Miami plays 4-3-3 in the fantasy playoffs, 10 games, a weak schedule. Miami has the league-minimum 13 back-to-backs and none in the fantasy playoffs. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2024), [10-07](https://youtu.be/cvhcheoKdbo?t=2037), [08-16](https://youtu.be/gf_6GveiAls?t=1153))
+- Experts say he looked good in Summer League. (verdict, 2026-08-02; [07-23](https://youtu.be/LUTYUdXBG1M?t=1251), [08-02](https://youtu.be/TOn-D1SV7a8?t=325))
+- Miami lost guard depth and ball handlers in trades. Davion Mitchell is the starting point guard. (fact, 2026-08-02; [07-23](https://youtu.be/LUTYUdXBG1M?t=1264), [07-17](https://youtu.be/NYTH7uQsPCM?t=1757), [08-02](https://youtu.be/TOn-D1SV7a8?t=325), [08-02](https://youtu.be/TOn-D1SV7a8?t=318))
+- Dynasty rookie rank 33. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=325))
 - He scored 17.5 points per game in Summer League before Miami sent him home early. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1251))
-- Miami lost guard depth and ball handlers in trades this offseason. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1251), [07-23](https://youtu.be/LUTYUdXBG1M?t=1264), [07-17](https://youtu.be/NYTH7uQsPCM?t=1757))
-- An expert advises caution with Miami players on the margins. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1264))
-- Ryan Conwell is a rookie. The Heat drafted him 37th in the 2026 NBA draft. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1034))
 
 **Durable**
-- His three-point volume is a question. An expert hopes he starts taking more threes. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1034))
+- An expert wants him to take more threes. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1034))
 
 **Tags**
-- Current: `rookie` (2026 second-round pick, 37th overall by Miami), `minutes competition` (Rollins, Herro, Porter Jr., Boston and Trent Jr. are also in the guard group), `waiver watch` (Yahoo rank 645, but he could get early rotation minutes on a thin Miami guard group), `few back-to-backs` (Miami has the fewest back-to-backs (13)), `bad playoff schedule` (Only 10 Miami games in weeks 19 to 21, but no back-to-backs)
+- Current: `rookie` (22 years old, pick 37 in 2026), `waiver watch` (watch for early rotation minutes; experts point to deeper leagues), `minutes competition` (guard minutes with Davion Mitchell and Dru Smith), `thin rotation` (Miami lost guard depth and ball handlers), `bad playoff schedule` (4-3-3, 10 games with the March 28 end), `few back-to-backs` (league-minimum 13, none in the fantasy playoffs)
 - Durable: none
 
-**Note.** Ryan Conwell is not a draft target for us. Yahoo ranks him 645 with a value of 0 USD, ESPN has no price for him, and no site has a projection, so no one should spend an auction dollar on him. He is a waiver watch only. In the first weeks, check whether his strong Summer League turns into real rotation minutes on a thin Miami guard group, and whether he takes threes. Rollins, Herro, Porter Jr., Boston and Trent Jr. are all ahead of him or competing with him.
+**Note.** Yahoo values him at 0 USD (rank 655). ESPN gives no value and nobody drafted him in our league, so he is not a pick in a 12-team, 144-player auction. The early case is minutes: check whether he plays ahead of Dru Smith while Smith is out and whether he takes threes. Add him only if he earns a steady rotation role on a Miami team that is thin at guard.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

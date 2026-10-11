@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 226 | 0 | 0.0 | 189 | not drafted |
+| 2026-27 | 0 | - | 231 | 0 | 0.0 | 191 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,7 +21,7 @@
 | 3PM | 1.7 | +0.3 | +0.1 | - |
 | PTS | 11.8 | -0.4 | -0.4 | - |
 | REB | 4.8 | -0.1 | +0.2 | - |
-| AST | 1.5 | -0.9 | -1.0 | - |
+| AST | 1.5 | -0.9 | -1.1 | - |
 | STL | 0.8 | -0.4 | -0.5 | - |
 | BLK | 0.3 | -0.5 | -0.4 | - |
 | TO | 1.1 | +0.7 | +0.7 | - |
@@ -29,24 +29,26 @@
 </details>
 
 **Current**
-- Cleveland lost Dennis Schroder, Keon Ellis and Max Strus. The projected bench is Tyson, Merrill, Bryant, Tomlin and Porter. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1376), [08-24](https://youtu.be/rnq3118kfhY?t=329), [08-24](https://youtu.be/rnq3118kfhY?t=467))
-- He is projected as the sixth man behind a starting five of Harden, Mitchell, Watson, Mobley and Allen. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1323), [09-29](https://youtu.be/NmdNvAz08oE?t=397), [08-24](https://youtu.be/rnq3118kfhY?t=510))
-- Experts expect a bigger role in year three. With the bench this thin, he could play close to starter's minutes and cover positions one through three. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1699), [09-10](https://youtu.be/W-R1dzem32s?t=2049), [09-10](https://youtu.be/W-R1dzem32s?t=2044), [08-24](https://youtu.be/rnq3118kfhY?t=467))
-- Last season he shot about 45% from three, up from 35% the year before. Over his final 16 games that dropped to 37%. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1670), [07-16](https://youtu.be/-y6p5PYLf00?t=497), [08-24](https://youtu.be/rnq3118kfhY?t=467))
-- Experts do not expect the 45% three-point shooting to repeat. Danny thinks he can still shoot above 40%. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1670), [07-16](https://youtu.be/-y6p5PYLf00?t=497), [08-24](https://youtu.be/rnq3118kfhY?t=467))
-- In a bench role he projects around rank 150 to 170. He is a late-round swing pick and matters more in 14-team and deeper leagues. A 20-game absence by a player ahead of him would push him well above that range. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1629), [09-29](https://youtu.be/NmdNvAz08oE?t=1670), [09-29](https://youtu.be/NmdNvAz08oE?t=1699))
-- With a March 28 end, Cleveland plays 4, 3 and then 2 games in our playoff weeks, so finals week has only two games. Cleveland also has the most back-to-backs in the league. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [09-29](https://youtu.be/NmdNvAz08oE?t=1907), [08-16](https://youtu.be/gf_6GveiAls?t=930), [08-16](https://youtu.be/gf_6GveiAls?t=1536))
-- Experts disagree on his upside. One calls him a possible flyer if his role grows. Josh is not convinced his minutes turn into fantasy value, because much of his value came from hot three-point shooting. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=2049), [09-07](https://youtu.be/gJUBAJaHzlU?t=2038))
+- Harden is in Cleveland for a full season next to Mitchell, so more players need the ball. (fact, 2026-10-09; [09-22](https://youtu.be/QbdrhJd7LiA?t=408), [10-09](https://youtu.be/-DN4P92Wp8Y?t=608))
+- He is projected as Cleveland's sixth man. The projected starters are James Harden, Donovan Mitchell, Peyton Watson, Evan Mobley and Jarrett Allen, and the projected bench is Tyson, Merrill, Bryant, Tomlin and Porter. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1323), [09-29](https://youtu.be/NmdNvAz08oE?t=397), [09-29](https://youtu.be/NmdNvAz08oE?t=1376), [08-24](https://youtu.be/rnq3118kfhY?t=510))
+- Cleveland lost Dennis Schroder, Keon Ellis, Max Strus and Dean Wade, all rotation players. The Strus trade partly cleared space for Tyson. (fact, 2026-09-29; [08-24](https://youtu.be/rnq3118kfhY?t=467), [08-24](https://youtu.be/rnq3118kfhY?t=329), [09-29](https://youtu.be/NmdNvAz08oE?t=1699), [09-29](https://youtu.be/NmdNvAz08oE?t=1376), [09-10](https://youtu.be/W-R1dzem32s?t=2049), [09-10](https://youtu.be/W-R1dzem32s?t=2044))
+- The experts expect a much bigger role in his third season. His minutes should stay high, and he could play close to starter's minutes off the bench. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1699), [09-10](https://youtu.be/W-R1dzem32s?t=2049), [09-10](https://youtu.be/W-R1dzem32s?t=2044), [08-24](https://youtu.be/rnq3118kfhY?t=467))
+- Last season he shot about 45% from three, up from 35% the year before. Over his final 16 games he shot 37%. (fact, 2026-09-29; [07-16](https://youtu.be/-y6p5PYLf00?t=497), [08-24](https://youtu.be/rnq3118kfhY?t=467), [09-29](https://youtu.be/NmdNvAz08oE?t=1670))
+- The experts agree that the 45% three-point shooting will not repeat. Danny thinks above 40% is possible. Josh is not convinced that the minutes will turn into fantasy value, because much of his value came from hot shooting. (verdict, 2026-09-29; [07-16](https://youtu.be/-y6p5PYLf00?t=497), [08-24](https://youtu.be/rnq3118kfhY?t=467), [09-29](https://youtu.be/NmdNvAz08oE?t=1670), [09-10](https://youtu.be/W-R1dzem32s?t=2049))
+- In a bench role he projects around rank 150 to 170. If a player ahead of him misses about 20 games, he would finish well above that. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1670))
+- He is a late-round swing pick and a flyer if his role grows. He matters more in 14-team and deeper leagues. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1629), [09-29](https://youtu.be/NmdNvAz08oE?t=1699), [09-07](https://youtu.be/gJUBAJaHzlU?t=2038))
+- Cleveland has the most back-to-backs in the league. With a March 28 end, they play 4, 3 and 2 games in fantasy playoff weeks 19 to 21, so there is only a two-game week in the finals. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [09-29](https://youtu.be/NmdNvAz08oE?t=1907), [08-16](https://youtu.be/gf_6GveiAls?t=930), [08-16](https://youtu.be/gf_6GveiAls?t=1536))
 - Danny says his next step is to average 15 to 16 points on good efficiency as a secondary creator. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1565))
 
 **Durable**
-- His production was strong when teammates were out and faded when they returned. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1621), [07-16](https://youtu.be/-y6p5PYLf00?t=497))
-- He has a high turnover rate on passes and low assist numbers. He is not a playmaker. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1621), stats)
+- He can cover positions one through three. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1699))
+- His production was strong when teammates such as Strus, Hunter and Wade were out, and it faded when they returned. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1621), [07-16](https://youtu.be/-y6p5PYLf00?t=497))
+- He has had a high passing turnover rate and low assist numbers. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1621))
 
 **Tags**
-- Current: `role up` (bench losses (Schroder, Ellis, Strus) could push him close to starter's minutes), `flyer` (late-round swing pick, projected rank 150 to 170), `waiver watch` (projected just outside the 144 drafted players; more relevant in deeper leagues), `handcuff` (value jumps when Cleveland guards or wings miss time), `bad playoff schedule` (4, 3, 2 games in weeks 19 to 21, two-game finals week)
+- Current: `role up` (Schroder, Ellis, Strus and Wade are gone; he could play close to starter's minutes as sixth man), `regression risk` (About 45% from three last season, 37% over his final 16 games), `flyer` (Late-round swing pick if his role grows), `handcuff` (Value jumps when Harden, Mitchell or Watson miss time; a 20-game absence would lift him well above rank 150 to 170), `usage competition` (Bench role behind Harden and Mitchell, who both need the ball), `waiver watch` (Experts see him as more relevant in 14-team and deeper leagues), `thin rotation` (Bench lost Schroder, Ellis and Strus), `many back-to-backs` (Most back-to-backs in the league), `bad playoff schedule` (4, 3, then 2 games in weeks 19 to 21; two-game finals week)
 - Durable: none
 
-**Note.** Yahoo ranks him 226 and ESPN 189, both value him at 0 USD, and the expert projects him at 150 to 170. In our 144-player auction he is a 1 USD last pick at most, or a waiver add. No category is flagged as weak or strong. His assists are low (1.5 projected) and his turnovers are light (1.1), so he gives a little help everywhere but does not fit any punt build in particular. Early in the season, check his bench minutes, whether his three-point shooting holds near 40%, and whether an injury to Harden, Mitchell or Watson opens a starting role.
+**Note.** Tyson is priced at 0 USD on Yahoo (rank 231) and ESPN (rank 191). The experts project him around rank 150 to 170 as a sixth man, which puts him just outside the 144 players our league drafts. He is a last-dollar flyer at most and mainly a waiver watch. His category profile has no outlier: assists are his weakest category, and turnovers stay low. Early in the season, check whether his minutes stay close to a starter's load, whether his three-point shooting holds near 40%, and whether Harden, Mitchell or Watson miss time. His two-game finals week makes him a weak hold for the fantasy playoffs.
 
-<sub>10 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>10 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

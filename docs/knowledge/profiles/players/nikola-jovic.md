@@ -11,36 +11,38 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 234 | 0 | 0.0 | 252 | 1 |
+| 2026-27 | 0 | - | 235 | 0 | 0.0 | 253 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 38.7% | -1.3 | -1.7 | - |
+| FG% | 38.7% | -1.3 | -1.8 | - |
 | FT% | 71.6% | -0.7 | -0.2 | - |
 | 3PM | 1.4 | -0.1 | +0.3 | - |
 | PTS | 9.2 | -0.8 | -0.8 | - |
-| REB | 4.0 | -0.5 | -1.0 | - |
-| AST | 2.2 | -0.5 | -0.2 | - |
-| STL | 0.7 | -0.7 | -0.5 | - |
+| REB | 4.0 | -0.5 | -1.1 | - |
+| AST | 2.2 | -0.6 | -0.3 | - |
+| STL | 0.7 | -0.7 | -0.6 | - |
 | BLK | 0.4 | -0.4 | -0.9 | - |
-| TO | 1.4 | +0.3 | +0.2 | - |
+| TO | 1.4 | +0.4 | +0.2 | - |
 
 </details>
 
 **Current**
-- He is part of Miami's main nine-man rotation as a bench forward. Bobby Portis competes with him for frontcourt minutes behind Bam Adebayo and Giannis Antetokounmpo. (fact, 2026-09-14; [06-23](https://youtu.be/nnWX_ObljOE?t=901), [06-23](https://youtu.be/nnWX_ObljOE?t=918), [06-23](https://youtu.be/nnWX_ObljOE?t=870), [09-14](https://youtu.be/LM0cRCGoAUQ?t=813))
-- Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs, but plays only 10 games in the playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153))
-- Miami's big man depth is weak. The expert advises caution with Miami players on the margins of rosters. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1264))
+- He is not in the projected starting lineup. Early projections had him as a bench player in Miami's main nine. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=372), [06-23](https://youtu.be/nnWX_ObljOE?t=918))
+- The expert is unsure he is an everyday rotation player or that he fits next to Giannis. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1759))
+- Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs. With a March 28 end it gets only 10 games in weeks 19 to 21 (4-3-3). (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2024), [10-07](https://youtu.be/cvhcheoKdbo?t=2037), [08-16](https://youtu.be/gf_6GveiAls?t=1153))
+- Bobby Portis competes with him for frontcourt minutes behind Bam Adebayo and Giannis Antetokounmpo. (fact, 2026-09-14; [06-23](https://youtu.be/nnWX_ObljOE?t=901), [09-14](https://youtu.be/LM0cRCGoAUQ?t=813))
 
 **Durable**
-- none
+- FG% is his weakest category. Both projections have him under 39% on low volume. (fact, 2026-10-11; stats)
+- He is a bad defender and an iffy shooter. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1759))
 
 **Tags**
-- Current: `minutes competition` (Bobby Portis competes for the same bench frontcourt minutes), `few back-to-backs` (Miami has 13 back-to-backs, the fewest, and none in the fantasy playoffs)
+- Current: `minutes competition` (Bobby Portis competes for the backup frontcourt minutes), `few back-to-backs` (Miami has the league-minimum 13 back-to-backs), `bad playoff schedule` (4-3-3, 10 games in weeks 19 to 21 with the March 28 end)
 - Durable: none
 
-**Note.** He is not a draft target. Yahoo ranks him 234 and ESPN 252, both value him at 0 USD, and he went for 1 USD in our league last season, so he falls well outside the 144 players we draft. Both sites project a FG% under 39%, after 36.6% on 6.7 attempts last season, and he has no category strong enough to carry a build. Early in the season, check whether he wins minutes over Bobby Portis and whether his FG% gets back toward the 45% he shot in 2023-24 and 2024-25. If both happen, he could become a waiver pickup.
+**Note.** He is outside the draftable pool for us. Yahoo ranks him 235 and ESPN 253, both value him at 0 USD, and he went for 1 USD in our league last season. With 36.6% FG on 17 minutes last year and Portis ahead of him for bench minutes, skip him in the auction. Watch early whether he holds a steady rotation role, or whether an injury to Giannis or Bam opens minutes, before you spend a waiver add.
 
-<sub>1 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

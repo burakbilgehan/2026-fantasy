@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "f29e57ea809e",
- "note_count": 11,
- "built_at": "2026-10-04T17:21:40+00:00",
+ "input_sha": "3de1954efa06",
+ "note_count": 12,
+ "built_at": "2026-10-11T09:10:18+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.12533419999999998,
-  "duration_ms": 28133
+  "cost_usd_list": 0.168008,
+  "duration_ms": 35767,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Gordon is the projected starting power forward next to Nikola Jokic, Jamal Murray, Christian Braun and Cam Johnson.",
+   "text": "He is the projected starting power forward next to Jamal Murray, Christian Braun, Cam Johnson and Nikola Jokic.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -28,7 +30,7 @@
    ]
   },
   {
-   "text": "Denver's depth behind Gordon at power forward is abysmal.",
+   "text": "The depth behind him at power forward is called abysmal.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -37,7 +39,7 @@
    ]
   },
   {
-   "text": "Denver is expected to be extra cautious with his minutes.",
+   "text": "Denver is expected to be extra cautious with his minutes. He is seen as a streamable player who carries injury risk.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -46,45 +48,29 @@
    ]
   },
   {
-   "text": "Gordon finished 146th in categories last season.",
-   "kind": "fact",
-   "date": "2026-09-29",
-   "until": "",
-   "sources": [
-    "sf6Ga9k-r-Q:p9"
-   ]
-  },
-  {
-   "text": "Experts disagree on his price. One sees a stable, low-upside pick around round 11. Others rank him tier nine and only worth a look in 14-team leagues, or would avoid him at his Yahoo draft spot of about 112 to 119 because there is no upside there.",
+   "text": "Experts see him as a low-upside late pick. One would not draft him in standard leagues at his Yahoo price of about pick 112 to 119, after he finished 146th in categories. Another calls him a stable round 11 option who is better in deeper leagues.",
    "kind": "verdict",
-   "date": "2026-09-29",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
+    "WXO8MfQfzo0:p40",
+    "sf6Ga9k-r-Q:p9",
     "LM0cRCGoAUQ:p52",
     "t4n9MAP2_14:p45",
-    "sf6Ga9k-r-Q:p9"
+    "_vbAP5y182A:p57"
    ]
   },
   {
-   "text": "He should be streamable during the season but carries injury risk.",
-   "kind": "verdict",
-   "date": "2026-09-29",
+   "text": "Last season he turned 77% of his deflections into steals. The league average is 49%.",
+   "kind": "fact",
+   "date": "2026-07-17",
    "until": "",
    "sources": [
-    "sf6Ga9k-r-Q:p10"
+    "NYTH7uQsPCM:p17"
    ]
   },
   {
-   "text": "Because he is so often unavailable, he is seen as a possible trade candidate.",
-   "kind": "verdict",
-   "date": "2026-07-31",
-   "until": "",
-   "sources": [
-    "keNupMSHp1Y:p22"
-   ]
-  },
-  {
-   "text": "His steals are more likely to fall than rise. He converted 77% of deflections into steals, against a 49% average.",
+   "text": "His steals are more likely to fall than rise.",
    "kind": "verdict",
    "date": "2026-07-17",
    "until": "",
@@ -93,7 +79,17 @@
    ]
   },
   {
-   "text": "Denver plays 43 games through March 28 and has only 14 back-to-backs, one of the lowest counts in the league.",
+   "text": "His injury record makes him a possible trade candidate. One expert expects at least two of last year's Denver starters to be gone by the deadline.",
+   "kind": "verdict",
+   "date": "2026-07-31",
+   "until": "trade deadline",
+   "sources": [
+    "keNupMSHp1Y:p22",
+    "keNupMSHp1Y:t0"
+   ]
+  },
+  {
+   "text": "Denver plays 43 games through March 28, one below the most of any team. It has only 14 back-to-backs, one of the lowest counts in the league.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -116,18 +112,9 @@
    ]
   },
   {
-   "text": "He is a low-upside player.",
-   "kind": "verdict",
-   "date": "2026-09-24",
-   "until": "",
-   "sources": [
-    "_vbAP5y182A:p57"
-   ]
-  },
-  {
-   "text": "Steals and blocks are his weak categories for a forward or center. The rest of his line is close to average, with a slight plus in FG%.",
+   "text": "Steals and blocks are his weak categories for a forward or center. The rest of his line is close to average with no big outlier.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
@@ -138,7 +125,7 @@
   {
    "name": "injury prone",
    "channel": "durable",
-   "detail": "repeated hamstring and calf soft tissue injuries, two years in a row",
+   "detail": "Repeated hamstring and calf soft tissue injuries",
    "until": "",
    "sources": [
     "sf6Ga9k-r-Q:p8",
@@ -151,11 +138,11 @@
   {
    "name": "injury last season",
    "channel": "current",
-   "detail": "36 games played in 2025-26",
+   "detail": "Played 36 games in 2025-26",
    "until": "",
    "sources": [
     "stats",
-    "sf6Ga9k-r-Q:p8"
+    "keNupMSHp1Y:p23"
    ],
    "new_meaning": ""
   },
@@ -165,8 +152,7 @@
    "detail": "",
    "until": "",
    "sources": [
-    "stats",
-    "NYTH7uQsPCM:p17"
+    "stats"
    ],
    "new_meaning": ""
   },
@@ -181,36 +167,58 @@
    "new_meaning": ""
   },
   {
-   "name": "few back-to-backs",
+   "name": "minutes limit",
    "channel": "current",
-   "detail": "Denver has 14 back-to-backs",
+   "detail": "Expert expects Denver to be extra cautious with his minutes",
    "until": "",
    "sources": [
-    "sf6Ga9k-r-Q:t4"
+    "sf6Ga9k-r-Q:p10"
    ],
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "at a Yahoo draft spot around 112 to 119",
+   "detail": "No upside at a Yahoo ADP of about 112 to 119",
    "until": "",
    "sources": [
-    "sf6Ga9k-r-Q:p9"
+    "sf6Ga9k-r-Q:p9",
+    "WXO8MfQfzo0:p40"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "regression risk",
+   "channel": "current",
+   "detail": "Steals from a very high deflection-to-steal rate",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p17"
    ],
    "new_meaning": ""
   },
   {
    "name": "trade risk",
    "channel": "current",
-   "detail": "seen as a possible trade candidate because of his availability",
+   "detail": "Possible trade candidate; Denver may move starters by the deadline",
+   "until": "trade deadline",
+   "sources": [
+    "keNupMSHp1Y:p22",
+    "keNupMSHp1Y:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "14 back-to-backs",
    "until": "",
    "sources": [
-    "keNupMSHp1Y:p22"
+    "sf6Ga9k-r-Q:t4"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Gordon is a borderline draft pick in our league. He is Yahoo rank 127 with a 1 USD value and ESPN rank 154 with a 0 USD value, and he cost 2 USD in our auction last season. So he is worth a 1 to 2 USD bench bid at most, and only if you are punting steals and blocks, where his average-plus line with a slight FG% edge fits. He played 51 and then 36 games in the last two seasons and Denver may limit his minutes, so check his health and minutes early. If he goes undrafted, keep him as a streamer.",
+ "note": "Gordon is a 1 to 2 USD end-of-auction pick for us. He is valued at 1 USD on Yahoo and 0 on ESPN (ranks 124 and 156), and he went for 2 USD in our league last season. He fits punt STL and punt BLK builds as a decent FG% forward with some threes and assists, but he has played only 36 and 51 games in the last two seasons, and experts see no upside. Let others take him. If he goes undrafted, check his minutes and hamstring and calf health early, and use him as a streamer, since Denver has few back-to-backs.",
  "rejected": []
 }

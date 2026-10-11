@@ -11,16 +11,16 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 57 | 67.0 | 4 | 64 | 72.1 | 3 | 81 |
+| 2026-27 | 58 | 67.0 | 4 | 64 | 72.7 | 3 | 81 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 53.7% | +2.1 | +3.9 | league outlier, strong |
-| FT% | 88.4% | +3.2 | +3.5 | league outlier, strong |
-| 3PM | 1.7 | +0.3 | -0.1 | - |
-| PTS | 31.1 | +2.9 | +2.8 | league outlier, strong |
+| FT% | 88.4% | +3.1 | +3.5 | league outlier, strong |
+| 3PM | 1.7 | +0.2 | -0.1 | - |
+| PTS | 31.1 | +2.9 | +2.7 | league outlier, strong |
 | REB | 4.8 | -0.1 | +0.7 | - |
 | AST | 6.4 | +1.7 | +1.3 | - |
 | STL | 1.6 | +2.2 | +1.8 | league outlier, strong |
@@ -30,28 +30,30 @@
 </details>
 
 **Current**
-- He went for 68 USD in a 2026-10-05 auction mock draft. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=513))
+- With our March 28 end date, OKC plays 4, 3 and 4 games in fantasy playoff weeks 19 to 21. That is a better playoff schedule than Doncic's. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2059))
 - Josh would not pay more than 60 USD for him in an auction. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=513))
-- There are reports that he will do more off-ball work this season. He did some of this for Team Canada. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=195))
-- OKC has to give more minutes to Ajay Mitchell and Jared McCain, which may be why he is moving off the ball more. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=202))
-- More off-ball work could mean fewer assists, fewer shots or more threes, or no change at all. Worth watching early. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=195))
-- He is a tier 1 guard and a fair number 4 in 9-cat. In category leagues you could consider him over Luka because of his efficiency edge. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=387), [09-09](https://youtu.be/7BllEsdNLoM?t=384), [08-19](https://youtu.be/J1Eg3uaAICU?t=328))
-- He is projected for about 33 percent usage and 33 minutes per game. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=384))
-- OKC traded away Lu Dort, Isaiah Joe and Aaron Wiggins to save salary. Their minutes went to young players, so the bench is thinner. (fact, 2026-09-07; [07-26](https://youtu.be/75Sk_4fkgIM?t=267), [07-26](https://youtu.be/75Sk_4fkgIM?t=818), [07-01](https://youtu.be/W3THnI7wWdA?t=998), [09-07](https://youtu.be/gJUBAJaHzlU?t=1758), [08-30](https://youtu.be/Alwse2uXzD4?t=1728))
-- OKC is projected to win about 62 games and to be a top two seed in the West. The team may lean more on offense, using SGA, Mitchell and Jalen Williams together. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2232), [07-26](https://youtu.be/75Sk_4fkgIM?t=903))
+- He went for 68 USD in an expert auction mock draft. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=513))
+- Reports say he will do more off-ball work. He did some of that for Team Canada. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=195))
+- The off-ball work could mean fewer assists, fewer shots or more threes, or no change at all. It may be tied to OKC giving more minutes to Ajay Mitchell and Jared McCain. Worth watching early. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=195), [09-30](https://youtu.be/BjXP9JODDSg?t=202))
+- Experts rank him a top-4 pick in 9-cat. Yahoo's rank of 4 is called reasonable. (verdict, 2026-09-16; [08-19](https://youtu.be/J1Eg3uaAICU?t=328), [09-16](https://youtu.be/2A2JbUN-kc0?t=387))
+- Tier 1 point guard. In category leagues it is worth considering him over Luka Doncic because of his efficiency edge. (verdict, 2026-09-16; [09-09](https://youtu.be/7BllEsdNLoM?t=384), [09-16](https://youtu.be/2A2JbUN-kc0?t=387))
+- Projected at about 33 percent usage and 33 minutes per game. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=384))
+- OKC traded away Lu Dort, Isaiah Joe and Aaron Wiggins and replaced them with rookies and unproven young players. (fact, 2026-09-07; [07-26](https://youtu.be/75Sk_4fkgIM?t=267), [07-20](https://youtu.be/-KS_AZjZnw4?t=1705), [09-07](https://youtu.be/gJUBAJaHzlU?t=1758))
+- OKC may lean more on offense through him, Ajay Mitchell and Jalen Williams. The team is expected to push its core players to shoot more threes. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=903), [07-26](https://youtu.be/75Sk_4fkgIM?t=2333))
+- OKC is projected to win about 62 games and be a top-two seed in the West. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2232))
 
 **Durable**
-- His weakest categories are rebounds, blocks and threes, but none of them is a real weakness for a guard. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1778), stats)
-- His high-volume efficiency is his biggest edge. He has league-leading impact on both FG% and FT%, and his points and steals are also far above the pool. (verdict, 2026-09-16; stats, [07-07](https://youtu.be/ME-r173X5b0?t=2228), [09-16](https://youtu.be/2A2JbUN-kc0?t=387))
-- In points leagues he falls outside the top four, below Jokic, Doncic and Wembanyama. His value is higher in category leagues. (verdict, 2026-09-16; [08-24](https://youtu.be/g31YlwRe0XQ?t=252), [09-09](https://youtu.be/7BllEsdNLoM?t=384), [09-16](https://youtu.be/2A2JbUN-kc0?t=387))
-- He had a reputation for injuries a few years ago, but he has stayed healthy the last couple of seasons. (fact, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=211))
-- He is a back-to-back MVP who has improved every year, including a big jump in playmaking last season. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1574))
-- He takes few threes. He is elite at contested mid-range jumpers, which are efficient shots for him. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2263))
+- He is an outlier in FG% and FT% on high volume. His free throw impact is among the best in the league. (fact, 2026-10-11; [07-07](https://youtu.be/ME-r173X5b0?t=2228), stats)
+- Points and steals are also league outliers. (fact, 2026-10-11; stats)
+- His weakest categories are rebounds, blocks and threes. None of them is weak enough to hurt a build. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1778), stats)
+- Injuries were a concern earlier in his career, but he has stayed healthy the last couple of seasons. (fact, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=211))
+- Back-to-back MVP. He has improved every year, including a big jump as a playmaker last season. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1574))
+- Takes few threes. He scores with elite contested mid-range jumpers, which OKC counts as efficient shots for him. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2263))
 
 **Tags**
-- Current: `winning team` (OKC projected for about 62 wins)
-- Durable: `elite per game` (Top 4 in 9-cat, tier 1 guard), `FG% anchor` (About 53.7% on about 20 attempts per game), `FT% anchor` (About 88% on about 9 attempts per game), `PTS specialist` (About 31 points per game), `STL specialist` (About 1.6 steals per game), `fits every build` (No weak category. Relative weak spots are REB, BLK and 3PM.)
+- Current: `good playoff schedule` (4-3-4 games in weeks 19 to 21 with the March 28 end), `winning team` (OKC projected about 62 wins), `questionable` (Yahoo status Q (Rest))
+- Durable: `elite per game` (Top-4 9-cat per game line), `FG% anchor` (About 54% on about 20 attempts), `FT% anchor` (About 88% on about 9 attempts), `PTS specialist` (About 31 points per game), `STL specialist`, `fits every build` (No weak category. Weakest are REB, BLK and 3PM)
 
-**Note.** He is a top 4 category asset with no weak category, so he fits any build and is especially strong as the FG%, FT%, PTS and STL anchor of a punt REB or punt BLK team. The market already prices him high: 67 USD average cost on Yahoo, 72 USD on ESPN, 81 USD in our league last season, and 68 USD in a mock where Josh capped him at 60 USD. Pay up to the low 70s at most and let him go above that. Early in the season, check whether more off-ball work with Mitchell and McCain cuts into his assists or shot volume.
+**Note.** He is a top-4 pick for 9-cat. He lifts both FG% and FT% on big volume and adds outlier points and steals, so he fits every build. Market prices are 58 to 64 USD in value and 67 to 73 USD in average cost, and our league paid 81 USD for him last season. The expert cap is 60 USD, so a bid in the high 60s is about the limit. Early in the season, check whether the reported off-ball role cuts his assists and shots or adds threes. Also check that the Yahoo Q (Rest) tag is just preseason rest.
 
-<sub>11 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>12 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

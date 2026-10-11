@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "2f241ce80c8c",
- "note_count": 1,
- "built_at": "2026-10-04T17:21:41+00:00",
+ "input_sha": "11a927c27c60",
+ "note_count": 2,
+ "built_at": "2026-10-11T09:10:26+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1486048,
-  "duration_ms": 28957
+  "cost_usd_list": 0.2165564,
+  "duration_ms": 43476,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He is on a deal of about 10 million USD with four more years left.",
+   "text": "He has a deal of about 10 million USD per year with four more years left.",
    "kind": "fact",
    "date": "2026-08-14",
    "until": "",
@@ -28,7 +30,7 @@
    ]
   },
   {
-   "text": "He does not fit Milwaukee's new direction, so he is a trade candidate.",
+   "text": "He is a valuable shooter but does not fit Milwaukee's new direction, so he is a trade candidate.",
    "kind": "verdict",
    "date": "2026-08-14",
    "until": "",
@@ -37,35 +39,78 @@
    ]
   },
   {
-   "text": "Milwaukee's backcourt is crowded. Rollins, Herro, Porter, Jakucionis, Burries, Trent and Green all compete for guard minutes, and the roster is heavy on small shooting guards.",
+   "text": "Milwaukee's backcourt is crowded. Green competes for guard minutes with Rollins, Herro, Porter, Jakucionis, Burries and Trent.",
    "kind": "fact",
-   "date": "2026-10-02",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
     "ZYllcj4o6_A:t4",
+    "sDzeYdUhJDI:t0",
     "7BllEsdNLoM:t0",
-    "sTtFUy7IoJI:t8",
-    "owlM6b8oUd0:t0"
+    "sTtFUy7IoJI:t8"
    ]
   },
   {
-   "text": "He is not in the projected starting five of Rollins, Herro, Jaquez, Ware and Turner.",
+   "text": "He is not in the projected opening starting lineup of Rollins, Herro, Jaquez, Kuzma and Turner.",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t3"
+   ]
+  },
+  {
+   "text": "Experts expect Milwaukee to focus more on developing young players as the season goes on, which would cut veteran minutes.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t4",
+    "-DN4P92Wp8Y:t4"
+   ]
+  },
+  {
+   "text": "New coach Taylor Jenkins might use a deep rotation, and experts have low confidence in how Bucks minutes will be split.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t2",
+    "sDzeYdUhJDI:t0",
+    "WXO8MfQfzo0:t0"
+   ]
+  },
+  {
+   "text": "Experts expect the Bucks to be a bad team, at about 33 wins.",
    "kind": "verdict",
    "date": "2026-08-14",
    "until": "",
    "sources": [
-    "owlM6b8oUd0:t2"
+    "owlM6b8oUd0:t4",
+    "sfCe7fS9daM:t8",
+    "Rqb5GdrSweY:t0"
+   ]
+  },
+  {
+   "text": "Experts say the roster needs trades to consolidate, so more moves are likely.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t5",
+    "owlM6b8oUd0:t0",
+    "4GDfg2n2l8o:t1"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is a valuable shooter. Threes are his only clearly positive category, and he adds little in points, rebounds, assists, steals or blocks.",
+   "text": "He is a very good shooter who does not add much else. Threes are his only category above the pool average.",
    "kind": "verdict",
-   "date": "2026-08-14",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "owlM6b8oUd0:p18",
+    "sDzeYdUhJDI:p24",
     "stats"
    ]
   }
@@ -74,7 +119,7 @@
   {
    "name": "trade risk",
    "channel": "current",
-   "detail": "Does not fit Milwaukee's new direction and is named as a trade candidate.",
+   "detail": "Does not fit Milwaukee's new direction; named a trade candidate",
    "until": "",
    "sources": [
     "owlM6b8oUd0:p18"
@@ -84,28 +129,72 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Crowded guard group: Rollins, Herro, Porter, Jakucionis, Burries and Trent.",
+   "detail": "Crowded Bucks backcourt; not in the projected starting five",
    "until": "",
    "sources": [
     "ZYllcj4o6_A:t4",
-    "7BllEsdNLoM:t0",
-    "sTtFUy7IoJI:t8",
-    "owlM6b8oUd0:t0"
+    "sDzeYdUhJDI:t0",
+    "sDzeYdUhJDI:t3"
    ],
    "new_meaning": ""
   },
   {
-   "name": "role down",
+   "name": "new coach",
    "channel": "current",
-   "detail": "ESPN projects 25.4 minutes after 29.1 last season. More guards were added in front of him.",
+   "detail": "Taylor Jenkins",
    "until": "",
    "sources": [
-    "stats",
-    "ZYllcj4o6_A:t4"
+    "sDzeYdUhJDI:t2",
+    "owlM6b8oUd0:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Jenkins might spread minutes across many guards",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Experts call it the hardest Bucks rotation to read",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t0",
+    "WXO8MfQfzo0:t0",
+    "OdDkXFhoKsc:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "Roster needs consolidation",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t5",
+    "4GDfg2n2l8o:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "About 33 wins expected",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:t4",
+    "sfCe7fS9daM:t8",
+    "Rqb5GdrSweY:t0"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Yahoo ranks him 262 and ESPN ranks him 236, and both price him at 0 USD. That puts him outside the 144 players drafted in our league, so do not draft him. His one useful category is threes (2.5 projected per game), so he only fits as a waiver pickup for a team chasing 3PM, and he gives little elsewhere. Early in the season, check his minutes in Taylor Jenkins' crowded guard rotation and whether Milwaukee trades him.",
+ "note": "Yahoo ranks him 262 and ESPN ranks him 238, and both value him at 0 USD. In a draft of 144 players, that puts him on waivers. His only real contribution is threes, about 2.5 per game projected. He is below average in points, rebounds, assists and steals, so he is at best a short-term threes streamer. Early in the season, check whether Jenkins gives him real minutes in the crowded Bucks backcourt and whether a trade moves him into a bigger role.",
  "rejected": []
 }

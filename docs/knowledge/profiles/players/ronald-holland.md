@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 269 | 0 | 0.0 | 244 | not drafted |
+| 2026-27 | 0 | - | 269 | 0 | 0.0 | 245 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -18,33 +18,29 @@
 |---|---|---|---|---|
 | FG% | 45.3% | -0.3 | -0.3 | - |
 | FT% | 73.7% | -0.4 | -0.3 | - |
-| 3PM | 0.6 | -0.9 | -1.2 | - |
+| 3PM | 0.6 | -1.0 | -1.2 | - |
 | PTS | 8.0 | -1.0 | -1.1 | - |
 | REB | 3.7 | -0.6 | -0.7 | - |
 | AST | 1.1 | -1.1 | -1.1 | - |
 | STL | 1.0 | +0.2 | +0.2 | - |
-| BLK | 0.5 | -0.1 | -0.1 | - |
+| BLK | 0.5 | -0.2 | -0.1 | - |
 | TO | 0.8 | +1.1 | +1.1 | - |
 
 </details>
 
 **Current**
-- Both sites rank him well outside the 144 players our league drafts, so he projects as a waiver player, not a draft target. (verdict, 2026-10-05; stats)
-- Detroit's projected starting five is Cunningham, Robinson, Thompson, Collins and Duren, so Holland comes off the bench. In the projected bench order he is second, behind sixth man Isaiah Joe and ahead of Paul Reed and Daniss Jenkins. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=374), [10-03](https://youtu.be/_O9pc_u5vH0?t=1420), [08-12](https://youtu.be/p9XE5jFqhvs?t=526))
-- Detroit plays 4-3-4 games in our playoff weeks 19 to 21 and has 15 back-to-backs. No rest risk is expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
-- Detroit has no notable injuries. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1862))
-- He is expected to share the floor with Ausar Thompson more this season instead of being staggered with him. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1341))
-- Detroit ran a deep 12 to 13 player rotation last season that limited everyone's minutes. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1386))
-- Detroit is projected to win 50 to 51 games and finish third or fourth in the East. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1765))
-- Detroit's power forward depth is very weak unless Thompson and Holland play the four, which could open frontcourt minutes for him. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1019))
+- Holland is projected to come off the bench in Detroit. He is the second reserve, behind sixth man Isaiah Joe and ahead of Paul Reed and Daniss Jenkins. The projected starting five is unchanged from last season and does not include him. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1420), [10-03](https://youtu.be/_O9pc_u5vH0?t=374))
+- Detroit plays 4, 3 and 4 games in our playoff weeks 19 to 21. The team has 15 back-to-backs, and no rest risk is expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
+- He is expected to play more minutes alongside Ausar Thompson this season instead of having his minutes staggered with him. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1341))
+- Detroit's power forward depth is very weak, which could open minutes at the four for him and Ausar Thompson. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1019))
 
 **Durable**
 - none
 
 **Tags**
-- Current: `deep rotation` (Detroit used a 12 to 13 player rotation last season; Holland is a bench wing behind Isaiah Joe), `winning team` (projected 50 to 51 wins, third or fourth seed in the East)
-- Durable: `defense-first` (Detroit is built on defense and only wants enough offense)
+- Current: `deep rotation` (Detroit used a 12 to 13 player rotation last season that limited everyone's minutes. Holland is a bench piece in it.)
+- Durable: none
 
-**Note.** Neither site gives him any value (0 USD at both, rank 269 on Yahoo and 244 on ESPN), and he was not drafted in our league, so he should not be drafted in a 144-player auction. His appeal is steals for his minutes (1.2 in 19.8 minutes last season) and few turnovers. He has no flagged category, so he does not fit any specific build. Early in the season, check whether he gets power forward minutes next to Ausar Thompson and plays over 20 minutes a night, and whether his FT% holds near last season's 80.5% (Yahoo projects 68.2%).
+**Note.** Both sites value Holland at 0 USD (Yahoo rank 269, ESPN rank 245) and he went undrafted in our league last season, so he falls outside our 144-player draft. His projected line is thin across the board: 8 points and 0.6 threes, with few turnovers and about 1 steal as the only small pluses. He is not a draft target. Early in the season, check whether more minutes alongside Ausar Thompson or at power forward push him clearly above last season's 19.8 minutes. That is the only path to waiver value.
 
-<sub>1 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>1 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

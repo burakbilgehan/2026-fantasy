@@ -3,45 +3,46 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, ESPN | 68 | 25.3 | 41.9 (11.4) | 87.3 (1.5) | 2.0 | 12.9 | 3.0 | 2.1 | 0.6 | 0.3 | 1.6 |
+| 2026-27 proj, ESPN | 68 | 25.3 | 44.0 (11.4) | 88.2 (1.5) | 2.0 | 13.4 | 3.0 | 2.1 | 0.6 | 0.3 | 1.6 |
 | 2026-27 proj, Yahoo | 69 | - | 42.6 (10.0) | 85.3 (1.5) | 2.0 | 11.7 | 2.9 | 2.2 | 0.8 | 0.1 | 0.8 |
 | 2025-26 | 60 | 24.0 | 41.9 (10.8) | 87.4 (1.4) | 1.9 | 12.2 | 2.8 | 2.0 | 0.6 | 0.3 | 1.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 220 | 0 | 0.0 | 245 | not drafted |
+| 2026-27 | 0 | - | 222 | 0 | 0.0 | 235 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 42.3% | -1.1 | -1.1 | - |
-| FT% | 86.3% | +0.4 | +0.3 | - |
+| FG% | 43.4% | -0.9 | -0.9 | - |
+| FT% | 86.8% | +0.4 | +0.3 | - |
 | 3PM | 2.0 | +0.6 | +0.4 | - |
-| PTS | 12.3 | -0.3 | -0.3 | - |
+| PTS | 12.6 | -0.3 | -0.3 | - |
 | REB | 2.9 | -0.9 | -0.9 | - |
-| AST | 2.2 | -0.5 | -0.6 | - |
-| STL | 0.7 | -0.7 | -0.8 | - |
+| AST | 2.2 | -0.5 | -0.7 | - |
+| STL | 0.7 | -0.7 | -0.9 | - |
 | BLK | 0.2 | -0.9 | -0.9 | - |
-| TO | 1.2 | +0.6 | +0.6 | - |
+| TO | 1.2 | +0.6 | +0.7 | - |
 
 </details>
 
 **Current**
-- Washington added Anthony Davis, Trae Young and AJ Dybantsa. Tre Johnson is not in the projected starting five of Young, Kyshawn George, Dybantsa, Davis and Alex Sarr. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
-- The new arrivals are expected to cut into the roles of Washington's young players. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192))
-- Washington has a crowded group of wings and guards. The fifth starter spot is open, with many wings competing for it. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1586), [07-23](https://youtu.be/LUTYUdXBG1M?t=248))
-- Washington is trying to compete now, so the late-season resting and minutes cuts of past years should not happen. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185))
-- He scored 25 points on 20 shots in his one Summer League game. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=219))
+- Both sites value him at 0 USD and rank him well outside the 144 players our league drafts. He is a waiver option, not a draft target. (verdict, 2026-10-11; stats)
+- Trae Young, Anthony Davis and AJ Dybantsa are expected to take most of the usage. The experts say this squeezes the roles of the young players. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2539), [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [09-03](https://youtu.be/OBwWCxG9SqM?t=1271), [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
+- He is not among the projected Wizards starters (Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis, Alex Sarr). The fifth starter spot is open, with many wings competing for it. (fact, 2026-09-07; [07-23](https://youtu.be/UTE0dNIv8nY?t=379), [09-07](https://youtu.be/gJUBAJaHzlU?t=1586))
+- Washington has a deep, crowded group of wings and guards. A 10 or 11 man rotation is expected. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2098), [07-23](https://youtu.be/LUTYUdXBG1M?t=248))
+- Washington is trying to compete this season, so the experts do not expect late-season rest or minutes cuts. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185))
+- Head coach Brian Keefe is under heavy pressure to win games this season. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1605))
 
 **Durable**
 - He is probably the best shooter on the Wizards. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=526))
-- One expert worries that he does nothing besides score. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=219))
+- He is a one-dimensional scorer. One expert worries that he does nothing besides score. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=219))
 
 **Tags**
-- Current: `minutes competition` (Many wings compete for the fifth starter spot and for minutes on a crowded wing and guard group.), `role down` (Davis, Young and Dybantsa arrive and cut into the roles of the young players.)
+- Current: `usage competition` (Trae Young, Anthony Davis and AJ Dybantsa take most of the usage), `minutes competition` (many wings competing for the open fifth starter spot), `deep rotation` (10 or 11 man rotation expected, crowded at wing and guard), `concentrated usage` (Young, Davis and Dybantsa), `coach hot seat` (Brian Keefe), `low shutdown risk` (Wizards are trying to compete for the play-in), `waiver watch` (0 USD value, Yahoo rank 222, ESPN rank 235)
 - Durable: none
 
-**Note.** At Yahoo rank 220 and ESPN rank 245, with a value of 0 on both sites, he is far outside the 144 players our league drafts. He went undrafted last season, so leave him on waivers. His projected line is narrow: about 2.0 threes and 86% FT, but 42% FG on 10 to 11 shots and little in rebounds, steals or blocks. Early in the season, check whether he wins the open fifth starter spot or gets clearly more than his 24 minutes from last season. Without that, he is not worth a roster spot.
+**Note.** Yahoo ranks him 222 and ESPN ranks him 235, and both value him at 0 USD, so he should not be drafted in our 144-player auction. His projection gives about 2.0 threes, 86.8% FT and only 1.2 turnovers a game, but 43.4% FG and little in rebounds, steals and blocks. That makes him a scorer and shooter, and that kind of player rarely holds a roster spot. Watch him on waivers early. Check whether he wins the open fifth starter spot and plays clearly more than last season's 24 minutes, even with Young, Davis and Dybantsa taking the usage.
 
-<sub>2 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

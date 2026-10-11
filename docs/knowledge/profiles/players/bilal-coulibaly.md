@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 203 | 0 | 0.0 | 181 | not drafted |
+| 2026-27 | 0 | - | 208 | 0 | 0.0 | 180 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,35 +20,37 @@
 | FG% | 42.6% | -0.8 | -0.8 | - |
 | FT% | 74.2% | -0.5 | -0.8 | - |
 | 3PM | 1.0 | -0.5 | -0.8 | - |
-| PTS | 10.5 | -0.6 | -0.6 | - |
+| PTS | 10.5 | -0.6 | -0.7 | - |
 | REB | 4.1 | -0.4 | -0.2 | - |
 | AST | 2.4 | -0.4 | -0.5 | - |
-| STL | 1.2 | +0.8 | +0.7 | - |
+| STL | 1.2 | +0.8 | +0.6 | - |
 | BLK | 0.9 | +0.5 | +1.3 | - |
-| TO | 1.5 | +0.2 | +0.2 | - |
+| TO | 1.5 | +0.2 | +0.3 | - |
 
 </details>
 
 **Current**
-- The fifth starter spot is unclear, with many wings competing. The roster is deep, with a 10 or 11 man rotation expected. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1586), [07-23](https://youtu.be/UTE0dNIv8nY?t=2098))
-- He is not in the projected Washington starting lineup of Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
+- He is not a draft target in our 144-player auction. He is a waiver option to watch early in the season. (verdict, 2026-10-11; stats)
+- Washington added Trae Young, Anthony Davis and AJ Dybantsa, and these three will take most of the usage. This cuts into the roles of the young players. (fact, 2026-10-06; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [10-06](https://youtu.be/eTsjuVu1trk?t=2539), [09-19](https://youtu.be/uarqbNA2dFk?t=894))
+- The fifth starter spot is open, with many wings competing for it. A July projection named Kyshawn George as the fifth starter next to Young, Dybantsa, Davis and Sarr. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1586), [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
 - His defense could make him a candidate to start at shooting guard. In past seasons the team always put him back in the lineup after injuries. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=520))
-- Josh thinks he has stalled offensively. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1037))
-- Washington is trying to compete this season, so the late-season resting and minutes cuts of past years should not return. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185))
-- Anthony Davis and Alex Sarr limit his minutes and his rim contests. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=749), [07-17](https://youtu.be/NYTH7uQsPCM?t=752))
-- He is likely to get fewer minutes and fewer rim contests, and his block rate could regress toward average. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=749))
+- Washington has a deep group of long wings and guards. A 10 or 11 man rotation is expected, with 12 or 13 players who could justify minutes. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2098), [07-23](https://youtu.be/LUTYUdXBG1M?t=248))
+- Washington is trying to compete and is projected near 40 wins and the play-in, so the late-season resting and minutes cuts of past years should not happen. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802))
+- Head coach Brian Keefe is under pressure to win this season. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1605))
+- He is likely to get fewer minutes and fewer rim contests with Anthony Davis and Alex Sarr on the roster. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=749), [07-17](https://youtu.be/NYTH7uQsPCM?t=752))
+- His block rate (26.2% of rim contests turned into blocks) could fall back toward average. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=749))
 
 **Durable**
-- He is a good shot-blocking wing with some flashes as a passer. His blocks are clearly above average for his position. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1037), stats)
-- He shoots poorly. His three-point percentage was 29% by the end of last season, down from 34% as a rookie. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1037), [07-23](https://youtu.be/UTE0dNIv8nY?t=1084))
-- Shooting is what holds him back. Ben partly blames injuries for the drop. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1084))
-- He has been injury-prone. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1037))
-- He converted 26.2% of his rim contests into blocks. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=749))
+- Steals and blocks are his best categories, and his blocks are strong for a G,F. He is below the pool in FG%, FT%, 3PM, PTS, REB and AST. (fact, 2026-10-11; stats)
+- He is a shot-blocking wing who shows some flashes as a passer. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1037))
+- He is a poor shooter. His three-point percentage fell from 34% as a rookie to 29% by the end of last season. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1037), [07-23](https://youtu.be/UTE0dNIv8nY?t=1084))
+- Shooting is what holds him back, and he has stalled on offense. One expert partly blames injuries for the shooting drop. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1037), [07-23](https://youtu.be/UTE0dNIv8nY?t=1084))
+- Experts call him injury-prone. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1037))
 
 **Tags**
-- Current: `role down` (Anthony Davis and Alex Sarr cut his minutes and rim contests), `minutes competition` (Many wings compete for the open fifth starter spot in a deep rotation)
-- Durable: `injury prone` (Experts call him injury-prone; 56 to 63 games in each of the last three seasons)
+- Current: `role down` (Davis, Sarr, Young and Dybantsa cut into his minutes and rim contests), `minutes competition` (many wings compete for the open fifth starter spot), `usage competition` (Trae Young, Anthony Davis and AJ Dybantsa take most of the usage), `concentrated usage` (Young, Davis and Dybantsa), `deep rotation` (10 or 11 man rotation expected, crowded at wing and guard), `unsettled rotation` (fifth starter spot not settled), `regression risk` (26.2% block rate on rim contests may fall toward average), `waiver watch` (0 USD value, rank 208 Yahoo and 180 ESPN), `low shutdown risk` (Washington is trying to compete for the play-in), `coach hot seat` (Brian Keefe)
+- Durable: `injury prone` (experts call him injury-prone; 56 to 63 games in each of the last three seasons)
 
-**Note.** At rank 203 on Yahoo and 181 on ESPN, with a value of 0 USD on both, he sits outside the 144 players our league drafts, so he is a waiver option, not an auction target. His only edge is steals and blocks for a wing (BLK z +1.3 vs position). He is below average in FG%, FT%, 3PM and points, and the experts expect his blocks to drop with Davis and Sarr taking rim contests. Early in the season, check whether he wins the fifth starter spot and plays 26 or more minutes. If he does, he can be a short-term steals and blocks pickup.
+**Note.** Both sites value him at 0 USD (rank 208 Yahoo, 180 ESPN), and only 144 players get drafted, so do not draft him. He was not drafted in our league last season either. Without a starting role he is a steals and blocks wing (1.2 STL and 0.9 BLK projected) who hurts FG% at 42.6% and adds little else. Early in the season, check whether he wins the open fifth starter spot and plays more than about 24 minutes. Pick him up on waivers only if he does.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

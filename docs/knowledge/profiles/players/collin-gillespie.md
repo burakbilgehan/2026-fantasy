@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 1.0 | 125 | 2 | 0.8 | 100 | not drafted |
+| 2026-27 | 2 | 1.0 | 116 | 2 | 0.8 | 100 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,31 +19,33 @@
 |---|---|---|---|---|
 | FG% | 42.0% | -1.1 | -1.0 | - |
 | FT% | 87.2% | +0.3 | -0.1 | - |
-| 3PM | 2.7 | +1.4 | +1.1 | - |
+| 3PM | 2.7 | +1.3 | +1.1 | - |
 | PTS | 11.9 | -0.4 | -0.4 | - |
 | REB | 3.9 | -0.5 | +0.1 | - |
-| AST | 4.4 | +0.6 | +0.3 | - |
+| AST | 4.4 | +0.6 | +0.2 | - |
 | STL | 1.2 | +0.8 | +0.5 | - |
-| BLK | 0.2 | -0.8 | -0.8 | - |
+| BLK | 0.2 | -0.9 | -0.8 | - |
 | TO | 1.4 | +0.3 | +0.5 | - |
 
 </details>
 
 **Current**
-- He comes off the bench for Phoenix, behind Jalen Green, Devin Booker, Dillon Brooks and Miles Bridges in a crowded guard and wing group. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2512), [09-19](https://youtu.be/uarqbNA2dFk?t=2724), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2180), [07-20](https://youtu.be/-KS_AZjZnw4?t=323), [09-10](https://youtu.be/W-R1dzem32s?t=1138), [09-19](https://youtu.be/uarqbNA2dFk?t=989))
-- He only pays off if a guard ahead of him gets hurt. If Green, Booker or Brooks misses time, he would start and play about 30 minutes, which would lift him about three tiers. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2512), [09-24](https://youtu.be/_vbAP5y182A?t=2338), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2180), [09-10](https://youtu.be/W-R1dzem32s?t=2012))
-- Most of his 2025-26 production came from starts while other Phoenix guards were injured. His minutes fell to about 23 a game once Green, Brooks and Booker were all back. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2724), [07-20](https://youtu.be/-KS_AZjZnw4?t=323), [08-23](https://youtu.be/hm5-fiCa5S4?t=2201))
-- As a bench player the experts value him around rank 150. They say his ESPN rank of 100 is too high. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2724), [08-23](https://youtu.be/hm5-fiCa5S4?t=2201), [09-10](https://youtu.be/W-R1dzem32s?t=2012))
-- He re-signed with Phoenix on a 4 year, 40 million USD contract. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=987))
-- Ben from Locked On Suns thinks he should start over Jalen Green, but expects the team to start Green. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=611))
+- Last season he played about 29 minutes a game overall, but only about 23 to 24 minutes once Booker, Green and Brooks were all healthy. (fact, 2026-10-09; [08-23](https://youtu.be/hm5-fiCa5S4?t=2201), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2446), [09-19](https://youtu.be/uarqbNA2dFk?t=2724))
+- Booker, Green, Bridges and Brooks are expected to take most of the minutes and usage. That leaves little room for him, and one expert doubts that his larger role from last season is still there. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2437), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2446), [09-19](https://youtu.be/uarqbNA2dFk?t=989))
+- Experts say not to draft him at his ESPN rank of 100. They call that rank too high. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2446), [09-19](https://youtu.be/uarqbNA2dFk?t=2724))
+- He is a bench player for Phoenix, behind Devin Booker, Jalen Green, Dillon Brooks and Miles Bridges. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2512), [09-19](https://youtu.be/uarqbNA2dFk?t=2724), [07-20](https://youtu.be/-KS_AZjZnw4?t=323), [09-10](https://youtu.be/W-R1dzem32s?t=1138), [08-23](https://youtu.be/hm5-fiCa5S4?t=611))
+- He only pays off if a guard or wing ahead of him gets hurt. If Green, Booker or Brooks misses time, he would start and play about 30 minutes. As a starter he would rank three tiers higher. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2512), [09-24](https://youtu.be/_vbAP5y182A?t=2338), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2180), [09-10](https://youtu.be/W-R1dzem32s?t=2012))
+- Josh expects him to finish around the 150th best player unless his role changes. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=2201))
+- Ben thinks he should start over Jalen Green, but expects Phoenix to start Green. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=611))
+- He re-signed with Phoenix on a 4-year deal worth about 40 million USD. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=987), [07-01](https://youtu.be/W3THnI7wWdA?t=692))
 
 **Durable**
-- Ben from Locked On Suns rates him as a better three point shooter, ball handler and defender than Jalen Green. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=611))
+- Ben rates him as a better three-point shooter, ball handler and defender than Jalen Green. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=611))
 
 **Tags**
-- Current: `handcuff` (Would start and play about 30 minutes if Green, Booker or Brooks misses time), `role down` (Back to a bench role with the Phoenix guards healthy, after 28.5 minutes a game last season), `bust candidate` (ESPN rank 100 is too high for a bench player), `waiver watch` (Valued around rank 150; add him if a Phoenix guard gets hurt)
+- Current: `minutes competition` (Bench guard behind Booker, Jalen Green, Dillon Brooks and Miles Bridges), `usage competition` (Booker, Green, Brooks and Bridges take most of the touches), `role down` (Played about 29 minutes last season with teammates hurt. Expected to come off the bench now.), `handcuff` (Would start and play about 30 minutes if Green, Booker or Brooks gets hurt), `bust candidate` (At ESPN rank 100), `waiver watch` (Watch for an injury to a Phoenix guard or wing)
 - Durable: none
 
-**Note.** Yahoo ranks him 125th and ESPN 100th, at about 1 USD on both sites. Experts put him near 150th, which is just outside the 144 players our league drafts, so do not spend more than 1 USD on him and leaving him on waivers is fine. His projection gives threes (2.7) and steals with a solid FT%, but a 42% FG% hurts. Early in the season, watch the health of Green, Booker and Brooks, because one injury would put him back near 30 minutes and make him a quick FAB add.
+**Note.** Both sites price him at 2 USD, at rank 116 on Yahoo and 100 on ESPN. That puts him at the edge of our 144-player pool, and the experts think his bench role is worth closer to rank 150. He is not worth more than a 1 USD end-of-draft flyer. Without a starting role, his 2.7 threes and 1.2 steals come with a weak 42 percent FG% on about 10 shots a game. Early in the season, watch the health of Booker, Jalen Green and Dillon Brooks: if one of them misses time, he moves into a 30-minute starting role and becomes a quick FAB pickup.
 
-<sub>10 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>11 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

@@ -8,102 +8,115 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "4406f6f49c51",
- "note_count": 18,
- "built_at": "2026-10-04T17:22:50+00:00",
+ "input_sha": "6dd5a94e142d",
+ "note_count": 22,
+ "built_at": "2026-10-11T09:11:21+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1772542,
-  "duration_ms": 54694
+  "cost_usd_list": 0.20405020000000001,
+  "duration_ms": 59242,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He is recovering from a fractured foot and is only a partial participant in training camp.",
-   "kind": "fact",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
-    "4gw4W4RTolY:p28",
-    "UTE0dNIv8nY:p23",
-    "stats"
-   ]
-  },
-  {
-   "text": "He is likely ready for opening night.",
-   "kind": "verdict",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
-    "4gw4W4RTolY:p28"
-   ]
-  },
-  {
-   "text": "Washington added Trae Young, Anthony Davis and rookie AJ Dybantsa. All three are projected to start next to Sarr.",
+   "text": "Washington added Trae Young, Anthony Davis and AJ Dybantsa. The projected starters are Young, Kyshawn George, Dybantsa, Davis and Sarr.",
    "kind": "fact",
    "date": "2026-09-17",
    "until": "",
    "sources": [
     "DubdKKhMWHo:t2",
-    "gJUBAJaHzlU:t0",
     "UTE0dNIv8nY:t1",
+    "gJUBAJaHzlU:t0",
     "J1Eg3uaAICU:t1"
    ]
   },
   {
-   "text": "Davis is expected to play center on offense. Sarr moves to power forward, plays further from the basket and switches on the perimeter.",
+   "text": "Davis is expected to play center on offense. Sarr is expected to play more power forward, further from the basket, and to switch onto the perimeter on defense.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "DubdKKhMWHo:t2",
+    "J1Eg3uaAICU:t1",
+    "J1Eg3uaAICU:p33",
+    "t4n9MAP2_14:p40",
+    "BiIZsSypx7Y:p45"
+   ]
+  },
+  {
+   "text": "His usage should drop. With Young, Davis and Dybantsa he becomes the fourth or fifth offensive option, and a usage increase is hard to see.",
+   "kind": "verdict",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "eTsjuVu1trk:p44",
+    "eTsjuVu1trk:t5",
+    "uarqbNA2dFk:p16",
+    "uarqbNA2dFk:t0",
+    "DubdKKhMWHo:p15",
+    "gJUBAJaHzlU:p12",
+    "sTtFUy7IoJI:p48",
+    "J1Eg3uaAICU:p33",
+    "BiIZsSypx7Y:p44"
+   ]
+  },
+  {
+   "text": "His minutes should go up, but he will touch the ball less per minute.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "BiIZsSypx7Y:p44",
+    "sTtFUy7IoJI:p48"
+   ]
+  },
+  {
+   "text": "Next to Davis he should get fewer rim contests, so his blocks and rebounds are expected to fall.",
+   "kind": "verdict",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "eTsjuVu1trk:p44",
+    "BiIZsSypx7Y:p45",
+    "uarqbNA2dFk:p16",
+    "DubdKKhMWHo:p15",
+    "t4n9MAP2_14:p40",
+    "gJUBAJaHzlU:p12",
+    "sTtFUy7IoJI:p49"
+   ]
+  },
+  {
+   "text": "Playing further from the basket should mean more threes and a lower FG%.",
    "kind": "verdict",
    "date": "2026-09-17",
    "until": "",
    "sources": [
-    "DubdKKhMWHo:t2",
-    "J1Eg3uaAICU:p33",
-    "t4n9MAP2_14:p40"
-   ]
-  },
-  {
-   "text": "He should play more minutes, but his usage should fall. He becomes the fourth or fifth offensive option behind Young, Davis and Dybantsa, so a third-year breakout is not expected.",
-   "kind": "verdict",
-   "date": "2026-09-19",
-   "until": "",
-   "sources": [
-    "sTtFUy7IoJI:p48",
-    "J1Eg3uaAICU:p33",
-    "gJUBAJaHzlU:p12",
-    "DubdKKhMWHo:p15",
-    "uarqbNA2dFk:p16"
-   ]
-  },
-  {
-   "text": "Next to Davis he is expected to get fewer blocks and rebounds, take more threes and shoot a lower FG%. One projection is 13 points, 7 rebounds and 1.9 blocks.",
-   "kind": "verdict",
-   "date": "2026-09-19",
-   "until": "",
-   "sources": [
     "DubdKKhMWHo:p15",
     "t4n9MAP2_14:p40",
-    "sTtFUy7IoJI:p49",
-    "gJUBAJaHzlU:p12",
-    "uarqbNA2dFk:p16",
     "UTE0dNIv8nY:p22"
    ]
   },
   {
-   "text": "The experts call him overpriced at an ADP and rank of about 56 to 68 and avoid him. One expert puts his best case at 62nd and his worst case at 134th.",
+   "text": "Experts call his Yahoo rank of 56 too high and advise against drafting him in the 50s or 60s. Around pick 80 to 90 is a fair price.",
    "kind": "verdict",
-   "date": "2026-09-19",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
+    "-DN4P92Wp8Y:p22",
+    "eTsjuVu1trk:p44",
+    "BiIZsSypx7Y:p44",
     "uarqbNA2dFk:p16",
-    "gJUBAJaHzlU:p12",
-    "gJUBAJaHzlU:p13",
     "DubdKKhMWHo:p15",
     "t4n9MAP2_14:p40",
+    "gJUBAJaHzlU:p12",
+    "gJUBAJaHzlU:p13",
     "J1Eg3uaAICU:p33"
    ]
   },
   {
-   "text": "In a late September 10-team mock draft he went 83rd, the latest the speaker had seen him go.",
+   "text": "In one 9-cat mock draft he went at pick 83.",
    "kind": "fact",
    "date": "2026-09-30",
    "until": "",
@@ -112,17 +125,38 @@
    ]
   },
   {
-   "text": "If Davis is traded, Sarr starts at center and gets his inside role back. One expert is about 80% sure Washington keeps Davis.",
-   "kind": "verdict",
-   "date": "2026-09-14",
-   "until": "Anthony Davis trade",
+   "text": "He is coming back from a broken foot and surgery. He was only a partial participant in camp.",
+   "kind": "fact",
+   "date": "2026-10-09",
+   "until": "",
    "sources": [
-    "4GDfg2n2l8o:t11",
-    "LM0cRCGoAUQ:t3"
+    "-DN4P92Wp8Y:p22",
+    "4gw4W4RTolY:p28",
+    "UTE0dNIv8nY:p23"
    ]
   },
   {
-   "text": "Washington is trying to compete for the play-in, so the late-season rest and minutes cuts of past years should not happen.",
+   "text": "He should be ready for opening night.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p22",
+    "4gw4W4RTolY:p28"
+   ]
+  },
+  {
+   "text": "Washington is likely to keep Davis, but a trade is possible. If Davis is traded, Sarr starts at center.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:t3",
+    "4GDfg2n2l8o:t11"
+   ]
+  },
+  {
+   "text": "Washington is trying to compete for the play-in, so late-season rest and minutes cuts are not expected.",
    "kind": "verdict",
    "date": "2026-07-23",
    "until": "",
@@ -130,11 +164,20 @@
     "UTE0dNIv8nY:t0",
     "UTE0dNIv8nY:t4"
    ]
+  },
+  {
+   "text": "Head coach Brian Keefe is under heavy pressure to win this season.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t5"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He is an elite rim protector. He led the league in shots contested at the rim by a wide margin and piles up blocks.",
+   "text": "He led the league in shots contested at the rim per game by a wide margin and piles up blocks.",
    "kind": "fact",
    "date": "2026-08-19",
    "until": "",
@@ -145,23 +188,33 @@
    ]
   },
   {
-   "text": "Blocks are his one standout category. The rest of his category line is close to the league average.",
+   "text": "Blocks are his standout category, far above the league pool.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
-    "stats"
+    "stats",
+    "ME-r173X5b0:p32"
    ]
   },
   {
-   "text": "His FG% is much better when he plays near the rim than when he shoots threes. It rose from 39 to 48 when he cut down on threes and took more shots at the rim.",
+   "text": "His FG% is much better when he plays near the rim and takes fewer threes.",
    "kind": "fact",
    "date": "2026-07-23",
    "until": "",
    "sources": [
     "UTE0dNIv8nY:p22",
-    "-y6p5PYLf00:p29",
-    "stats"
+    "-y6p5PYLf00:p29"
+   ]
+  },
+  {
+   "text": "Injury history: a broken foot that needed surgery.",
+   "kind": "fact",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p22",
+    "UTE0dNIv8nY:p23"
    ]
   }
  ],
@@ -169,42 +222,72 @@
   {
    "name": "BLK specialist",
    "channel": "durable",
-   "detail": "League leader in rim contests, about 2 blocks per game",
+   "detail": "About 1.9 blocks per game projected; led the league in rim contests",
    "until": "",
    "sources": [
     "stats",
-    "J1Eg3uaAICU:p34",
-    "UTE0dNIv8nY:p21",
-    "ME-r173X5b0:p32"
+    "ME-r173X5b0:p32",
+    "UTE0dNIv8nY:p21"
    ],
    "new_meaning": ""
   },
   {
-   "name": "fits every build",
-   "channel": "durable",
-   "detail": "No weak category flagged; value comes mainly from blocks",
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Trae Young, Anthony Davis and AJ Dybantsa",
    "until": "",
    "sources": [
-    "stats"
+    "eTsjuVu1trk:p44",
+    "eTsjuVu1trk:t5",
+    "uarqbNA2dFk:t0",
+    "DubdKKhMWHo:p15",
+    "sTtFUy7IoJI:p48"
    ],
    "new_meaning": ""
   },
   {
-   "name": "injured now",
+   "name": "role down",
    "channel": "current",
-   "detail": "Recovering from a fractured foot, partial participant in camp, likely ready for opening night",
+   "detail": "Less usage and a role further from the basket next to Davis, though minutes may rise",
    "until": "",
    "sources": [
-    "4gw4W4RTolY:p28",
-    "UTE0dNIv8nY:p23",
-    "stats"
+    "sTtFUy7IoJI:p48",
+    "J1Eg3uaAICU:p33",
+    "DubdKKhMWHo:p15",
+    "BiIZsSypx7Y:p44"
    ],
    "new_meaning": ""
   },
   {
-   "name": "questionable",
+   "name": "regression risk",
    "channel": "current",
-   "detail": "Yahoo status Q (foot)",
+   "detail": "Blocks, rebounds and FG% expected to fall next to Davis",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p12",
+    "DubdKKhMWHo:p15",
+    "t4n9MAP2_14:p40",
+    "sTtFUy7IoJI:p49"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "Yahoo rank 56 and value 18 USD called too high; fair around pick 80 to 90",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p22",
+    "eTsjuVu1trk:p44",
+    "BiIZsSypx7Y:p44",
+    "gJUBAJaHzlU:p13"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 18 USD, ESPN value 7 USD",
    "until": "",
    "sources": [
     "stats"
@@ -214,52 +297,36 @@
   {
    "name": "injury last season",
    "channel": "current",
-   "detail": "Played 48 games",
+   "detail": "Broken foot with surgery; 48 games played",
    "until": "",
    "sources": [
-    "stats"
+    "stats",
+    "UTE0dNIv8nY:p23",
+    "-DN4P92Wp8Y:p22"
    ],
    "new_meaning": ""
   },
   {
-   "name": "role down",
+   "name": "low shutdown risk",
    "channel": "current",
-   "detail": "Usage falls with Trae Young, Anthony Davis and AJ Dybantsa added; moves to power forward next to Davis",
+   "detail": "Wizards are trying to make the play-in",
    "until": "",
    "sources": [
-    "sTtFUy7IoJI:p48",
-    "J1Eg3uaAICU:p33",
-    "gJUBAJaHzlU:p12",
-    "DubdKKhMWHo:p15",
-    "DubdKKhMWHo:t2"
+    "UTE0dNIv8nY:t0"
    ],
    "new_meaning": ""
   },
   {
-   "name": "bust candidate",
+   "name": "coach hot seat",
    "channel": "current",
-   "detail": "Experts avoid him at a Yahoo rank or ADP of about 56 to 68",
+   "detail": "Brian Keefe",
    "until": "",
    "sources": [
-    "uarqbNA2dFk:p16",
-    "gJUBAJaHzlU:p13",
-    "DubdKKhMWHo:p15",
-    "t4n9MAP2_14:p40",
-    "J1Eg3uaAICU:p33"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sites disagree on price",
-   "channel": "current",
-   "detail": "Yahoo value 17 USD vs ESPN value 7 USD",
-   "until": "",
-   "sources": [
-    "stats"
+    "UTE0dNIv8nY:t5"
    ],
    "new_meaning": ""
   }
  ],
- "note": "The experts expect Davis to take Sarr's spot at the rim. Their main block projection still gives him about 1.9 per game, so he can stay a blocks source for any build even if his usage and FG% drop. Yahoo values him at 17 USD, but the average costs are 7.0 USD on Yahoo and 3.2 USD on ESPN, and he went for 9 USD in our league last year. That makes him worth it at around 10 USD as a blocks specialist, not at the top-60 price his ranks suggest. Early in the season, check his foot, whether Davis really plays center, and whether his blocks and rebounds hold up next to Davis.",
+ "note": "The experts agree Sarr is a fade at his Yahoo price (rank 56, value 18 USD). Young, Davis and Dybantsa cut his usage, and Davis cuts into the rim contests behind his elite blocks. Their fair price is closer to pick 80 to 90, which fits his average costs of about 4 to 5 USD and the 9 USD he went for in our league last season, so he is a fine blocks pickup in that range but not at 18 USD. Early in the season, check whether Davis really plays center, whether Sarr keeps blocking near 2 a game, whether his FG% falls as he takes more threes, and how his foot holds up.",
  "rejected": []
 }

@@ -8,44 +8,34 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "f7a596a744b1",
- "note_count": 31,
- "built_at": "2026-10-05T19:57:40+00:00",
+ "input_sha": "f0b8fdb483bd",
+ "note_count": 36,
+ "built_at": "2026-10-11T09:21:11+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2555222,
-  "duration_ms": 79052,
+  "cost_usd_list": 0.26340620000000003,
+  "duration_ms": 80324,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "LaMelo Ball was traded from Charlotte to Minnesota.",
+   "text": "Charlotte traded him to Minnesota. He is a starter there next to Anthony Edwards.",
    "kind": "fact",
    "date": "2026-08-19",
    "until": "",
    "sources": [
-    "2mxpEpGU3H8:p0",
-    "EB1Z_6n56-o:p0",
-    "W3THnI7wWdA:p5",
     "ya2VYRJ1BN0:p0",
+    "W3THnI7wWdA:p5",
+    "EB1Z_6n56-o:p0",
+    "ME-r173X5b0:p11",
     "J1Eg3uaAICU:p24",
-    "ME-r173X5b0:p11"
+    "2mxpEpGU3H8:p0"
    ]
   },
   {
-   "text": "He is one of Minnesota's four set starters, with Edwards, McDaniels and Gobert. The fifth starting spot is open.",
-   "kind": "fact",
-   "date": "2026-08-19",
-   "until": "",
-   "sources": [
-    "2mxpEpGU3H8:t1",
-    "W3THnI7wWdA:p5"
-   ]
-  },
-  {
-   "text": "He is expected to run the offense, handle the ball much more than Edwards and lead the team in assists.",
+   "text": "He is expected to run the Minnesota offense and to handle the ball much more than Edwards. Experts expect him to be the team's top assist man.",
    "kind": "verdict",
    "date": "2026-08-19",
    "until": "",
@@ -55,35 +45,115 @@
    ]
   },
   {
-   "text": "Experts expect his minutes to rise to 30 to 32 a night in Minnesota.",
+   "text": "Experts expect his minutes to rise from 28 to about 30 to 32 a night. They expect his usage to fall to about 28%. More minutes should keep his assists steady or push them up.",
    "kind": "verdict",
-   "date": "2026-09-17",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "ahNxsoU8Hx4:p48",
-    "2A2JbUN-kc0:p21",
-    "7BllEsdNLoM:p5",
-    "Rqb5GdrSweY:p12",
-    "ya2VYRJ1BN0:p2"
-   ]
-  },
-  {
-   "text": "Experts expect his usage to drop to about 28% next to Edwards. His assist rate may still rise, and one expert projects his overall production to go up by about 7%.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
+    "cFV24VgxyCY:p6",
+    "6DnRWahYrFA:p0",
     "ahNxsoU8Hx4:p48",
     "2A2JbUN-kc0:p21",
     "7BllEsdNLoM:p5",
     "Rqb5GdrSweY:p12",
     "W3THnI7wWdA:p5",
-    "NYTH7uQsPCM:p27",
-    "NYTH7uQsPCM:t3"
+    "ya2VYRJ1BN0:p2",
+    "NYTH7uQsPCM:p27"
    ]
   },
   {
-   "text": "Minnesota is expected to compete, so he should not be held out for tanking reasons.",
+   "text": "Minnesota traded Julius Randle and Naz Reid and is very thin on size. It may start three guards. Ball has no other good passer beside him.",
+   "kind": "fact",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:t0",
+    "cFV24VgxyCY:t3",
+    "2mxpEpGU3H8:t0",
+    "ZYllcj4o6_A:t5"
+   ]
+  },
+  {
+   "text": "With Randle and Reid gone, he should pick up more rebounds and shots.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:p6",
+    "cFV24VgxyCY:t2"
+   ]
+  },
+  {
+   "text": "He looks good in preseason. Experts think he fits well with Edwards, and their three-point volume can coexist.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p0",
+    "ME-r173X5b0:t0"
+   ]
+  },
+  {
+   "text": "Experts rate him a mid second round player in categories, about top 20. That is a little above his Yahoo rank of 23. They call him a mild target at his price. In a mock auction he was valued in the mid 30s USD and bought for 30 USD.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:p5",
+    "cFV24VgxyCY:p8",
+    "6DnRWahYrFA:p0",
+    "n4KkK-OJjqA:p3",
+    "Q6YlQDvD-aY:p42"
+   ]
+  },
+  {
+   "text": "The newest notes are not worried about his ankles this season. One expert says to drop him a tier if you expect only 28 minutes or about 50 games.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:p6",
+    "6DnRWahYrFA:p0",
+    "7BllEsdNLoM:p5"
+   ]
+  },
+  {
+   "text": "Minnesota has a two-game week starting March 15, inside our fantasy playoffs. With a March 28 end the playoff schedule is 4, 2, 4 games.",
+   "kind": "fact",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:t5",
+    "gf_6GveiAls:p22",
+    "gf_6GveiAls:t14",
+    "2mxpEpGU3H8:p3",
+    "2mxpEpGU3H8:t4",
+    "J1Eg3uaAICU:t0",
+    "QbdrhJd7LiA:t4"
+   ]
+  },
+  {
+   "text": "Because of the playoff two-game week, move him down slightly when two players are close.",
+   "kind": "verdict",
+   "date": "2026-08-19",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:p3",
+    "gf_6GveiAls:p22"
+   ]
+  },
+  {
+   "text": "Minnesota has the league minimum of 13 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:t5",
+    "gf_6GveiAls:p21"
+   ]
+  },
+  {
+   "text": "Minnesota should be competitive, so he should not be rested for tanking. One expert predicts 53 wins.",
    "kind": "verdict",
    "date": "2026-08-19",
    "until": "",
@@ -92,151 +162,11 @@
     "Rqb5GdrSweY:t8",
     "2mxpEpGU3H8:t3"
    ]
-  },
-  {
-   "text": "Experts see value at his market rank of about 22 to 24, even after an injury discount. One expert values him in the mid-30s USD and paid 30 USD in a mock auction.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p42",
-    "n4KkK-OJjqA:p3",
-    "ahNxsoU8Hx4:p48",
-    "2A2JbUN-kc0:p21"
-   ]
-  },
-  {
-   "text": "He is a tier 3 point guard. If you expect only 28 minutes or about 50 games, move him to tier 4.",
-   "kind": "verdict",
-   "date": "2026-09-09",
-   "until": "",
-   "sources": [
-    "7BllEsdNLoM:p5"
-   ]
-  },
-  {
-   "text": "The new team and the ankle risk are named as concerns for this season.",
-   "kind": "verdict",
-   "date": "2026-09-16",
-   "until": "",
-   "sources": [
-    "2A2JbUN-kc0:p21"
-   ]
-  },
-  {
-   "text": "Minnesota has a two-game week in the matchup starting March 15, which is our playoff week 20.",
-   "kind": "fact",
-   "date": "2026-09-22",
-   "until": "",
-   "sources": [
-    "gf_6GveiAls:p22",
-    "gf_6GveiAls:t14",
-    "2mxpEpGU3H8:p3",
-    "2mxpEpGU3H8:t4",
-    "QbdrhJd7LiA:t4",
-    "J1Eg3uaAICU:t0"
-   ]
-  },
-  {
-   "text": "Because of the two-game playoff week, move him slightly down your board and pass on him in close calls.",
-   "kind": "verdict",
-   "date": "2026-08-19",
-   "until": "",
-   "sources": [
-    "gf_6GveiAls:p22",
-    "2mxpEpGU3H8:p3"
-   ]
-  },
-  {
-   "text": "Minnesota has the minimum 13 back-to-backs.",
-   "kind": "fact",
-   "date": "2026-08-16",
-   "until": "",
-   "sources": [
-    "gf_6GveiAls:p21"
-   ]
-  },
-  {
-   "text": "Back-to-back rest is not a real worry for him.",
-   "kind": "verdict",
-   "date": "2026-08-16",
-   "until": "",
-   "sources": [
-    "gf_6GveiAls:p21"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is one of the best passers and transition players in the NBA, and one expert calls him an elite offensive player who is underrated.",
-   "kind": "verdict",
-   "date": "2026-08-19",
-   "until": "",
-   "sources": [
-    "2mxpEpGU3H8:p1",
-    "EB1Z_6n56-o:p1",
-    "ya2VYRJ1BN0:p3"
-   ]
-  },
-  {
-   "text": "In Charlotte he played with a usage rate of about 30% and a high assist rate.",
-   "kind": "fact",
-   "date": "2026-08-19",
-   "until": "",
-   "sources": [
-    "2mxpEpGU3H8:p1",
-    "EB1Z_6n56-o:p2"
-   ]
-  },
-  {
-   "text": "He takes a very high share of his shots from three and has unlimited range.",
-   "kind": "fact",
-   "date": "2026-08-19",
-   "until": "",
-   "sources": [
-    "2mxpEpGU3H8:p1"
-   ]
-  },
-  {
-   "text": "Finishing at the rim is his biggest weakness, and he does not get to the free throw line much.",
-   "kind": "fact",
-   "date": "2026-07-21",
-   "until": "",
-   "sources": [
-    "EB1Z_6n56-o:p4"
-   ]
-  },
-  {
-   "text": "He helps a lot in assists and threes but drags down FG% on high volume.",
-   "kind": "verdict",
-   "date": "2026-09-23",
-   "until": "",
-   "sources": [
-    "C4vlgpJ62NI:p3",
-    "ya2VYRJ1BN0:p3",
-    "stats"
-   ]
-  },
-  {
-   "text": "He commits many turnovers, which hurts the TO category.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He adds rebounds on top of assists and points, which most assist guards do not.",
-   "kind": "verdict",
-   "date": "2026-07-15",
-   "until": "",
-   "sources": [
-    "0geFVzSqOnA:p4"
-   ]
-  },
-  {
-   "text": "He has a long history of ankle injuries, including impingement. He has also played 70 or more games twice.",
+   "text": "He has a long history of ankle injuries, including impingement. He has played 70 or more games twice.",
    "kind": "fact",
    "date": "2026-09-17",
    "until": "",
@@ -246,7 +176,7 @@
    ]
   },
   {
-   "text": "Experts disagree on his health risk. One calls health the biggest question about him. Others say the ankle fears are overblown because many of his missed games came from Charlotte tanking.",
+   "text": "Experts disagree on his health risk. Some call it the biggest question about him. Others say the ankle fears are overblown because many of his missed games were tied to Charlotte tanking.",
    "kind": "verdict",
    "date": "2026-09-23",
    "until": "",
@@ -256,50 +186,114 @@
     "ahNxsoU8Hx4:p47",
     "Rqb5GdrSweY:p13"
    ]
+  },
+  {
+   "text": "In Charlotte he ran about 30% usage with a high assist rate.",
+   "kind": "fact",
+   "date": "2026-08-19",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:p2",
+    "2mxpEpGU3H8:p1"
+   ]
+  },
+  {
+   "text": "He is one of the best passers and transition players in the NBA, and an underrated offensive player.",
+   "kind": "verdict",
+   "date": "2026-08-19",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:p1",
+    "2mxpEpGU3H8:p1",
+    "ya2VYRJ1BN0:p3"
+   ]
+  },
+  {
+   "text": "He takes a very high share of his shots from three and has unlimited range. Threes and assists are his strongest categories, far above the pool.",
+   "kind": "fact",
+   "date": "2026-09-23",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:p1",
+    "C4vlgpJ62NI:p3",
+    "stats"
+   ]
+  },
+  {
+   "text": "Finishing at the rim is his biggest weakness. His FG% is low on high volume and hurts a team's FG%. He gets to the free throw line little.",
+   "kind": "fact",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:p4",
+    "cFV24VgxyCY:p7",
+    "C4vlgpJ62NI:p3",
+    "ya2VYRJ1BN0:p3",
+    "stats"
+   ]
+  },
+  {
+   "text": "He commits many turnovers, a clear weakness in the TO category.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He adds rebounds and steals that assist guards usually do not. He has posted seasons of 6 rebounds, 8 assists and 1.8 steals.",
+   "kind": "fact",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "0geFVzSqOnA:p4",
+    "cFV24VgxyCY:p7"
+   ]
   }
  ],
  "tags": [
   {
    "name": "3PM specialist",
    "channel": "durable",
-   "detail": "About 4 threes a game on a very three-heavy shot diet",
+   "detail": "about 4 threes per game, high three-point share",
    "until": "",
    "sources": [
     "stats",
-    "C4vlgpJ62NI:p3",
-    "2mxpEpGU3H8:p1"
+    "2mxpEpGU3H8:p1",
+    "C4vlgpJ62NI:p3"
    ],
    "new_meaning": ""
   },
   {
    "name": "AST specialist",
    "channel": "durable",
-   "detail": "Elite passer, Minnesota's top assist man",
+   "detail": "about 7.8 assists per game projected",
    "until": "",
    "sources": [
     "stats",
-    "C4vlgpJ62NI:p3",
     "EB1Z_6n56-o:p2",
-    "ya2VYRJ1BN0:p1"
+    "2mxpEpGU3H8:p1"
    ],
    "new_meaning": ""
   },
   {
    "name": "FG% liability",
    "channel": "durable",
-   "detail": "About 41% FG on about 19 shots a game, weak finisher at the rim",
+   "detail": "about 41% on about 20 attempts, weak finisher at the rim",
    "until": "",
    "sources": [
     "stats",
-    "C4vlgpJ62NI:p3",
-    "EB1Z_6n56-o:p4"
+    "cFV24VgxyCY:p7",
+    "EB1Z_6n56-o:p4",
+    "C4vlgpJ62NI:p3"
    ],
    "new_meaning": ""
   },
   {
    "name": "high TO",
    "channel": "durable",
-   "detail": "About 3.2 turnovers a game projected",
+   "detail": "about 3.2 turnovers per game",
    "until": "",
    "sources": [
     "stats"
@@ -330,7 +324,7 @@
   {
    "name": "injury prone",
    "channel": "durable",
-   "detail": "Long history of ankle injuries, including impingement",
+   "detail": "long history of ankle injuries, including impingement",
    "until": "",
    "sources": [
     "EB1Z_6n56-o:p3",
@@ -342,24 +336,23 @@
   {
    "name": "new team",
    "channel": "current",
-   "detail": "Traded from Charlotte to Minnesota",
+   "detail": "traded from Charlotte to Minnesota",
    "until": "",
    "sources": [
-    "2mxpEpGU3H8:p0",
-    "EB1Z_6n56-o:p0",
-    "ya2VYRJ1BN0:p0"
+    "ya2VYRJ1BN0:p0",
+    "2mxpEpGU3H8:p0"
    ],
    "new_meaning": ""
   },
   {
    "name": "role up",
    "channel": "current",
-   "detail": "Minutes expected to rise to 30 to 32 a night",
+   "detail": "minutes expected to rise from 28 to about 32, though usage falls",
    "until": "",
    "sources": [
-    "ahNxsoU8Hx4:p48",
-    "2A2JbUN-kc0:p21",
+    "cFV24VgxyCY:p6",
     "7BllEsdNLoM:p5",
+    "2A2JbUN-kc0:p21",
     "Rqb5GdrSweY:p12"
    ],
    "new_meaning": ""
@@ -367,68 +360,73 @@
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Shares the ball with Anthony Edwards; usage expected to drop to about 28%",
+   "detail": "shares the ball with Anthony Edwards",
    "until": "",
    "sources": [
-    "2A2JbUN-kc0:p21",
-    "7BllEsdNLoM:p5",
     "NYTH7uQsPCM:t3",
     "W3THnI7wWdA:p5",
-    "n4KkK-OJjqA:p3"
+    "7BllEsdNLoM:p5"
    ],
    "new_meaning": ""
   },
   {
    "name": "expert target",
    "channel": "current",
-   "detail": "Valued in the mid-30s USD; rank 24 called a little low",
+   "detail": "mild target, top 20ish in categories vs Yahoo rank 23",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p42",
-    "n4KkK-OJjqA:p3",
-    "ahNxsoU8Hx4:p48"
+    "cFV24VgxyCY:p8",
+    "n4KkK-OJjqA:p3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "ESPN value 50 USD and rank 12, Yahoo value 32 USD and rank 23",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q (Rest)",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "Two-game week starting March 15 (our week 20)",
+   "detail": "two-game week starting March 15 (4, 2, 4)",
    "until": "",
    "sources": [
+    "cFV24VgxyCY:t5",
     "gf_6GveiAls:p22",
-    "gf_6GveiAls:t14",
-    "2mxpEpGU3H8:t4",
-    "2mxpEpGU3H8:p3",
-    "QbdrhJd7LiA:t4"
+    "2mxpEpGU3H8:t4"
    ],
    "new_meaning": ""
   },
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "Minnesota has the minimum 13 back-to-backs",
+   "detail": "league minimum 13",
    "until": "",
    "sources": [
+    "cFV24VgxyCY:t5",
     "gf_6GveiAls:p21"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "winning team",
-   "channel": "current",
-   "detail": "Projected for 53 wins",
-   "until": "",
-   "sources": [
-    "2mxpEpGU3H8:t3",
-    "Rqb5GdrSweY:t8"
    ],
    "new_meaning": ""
   },
   {
    "name": "low shutdown risk",
    "channel": "current",
-   "detail": "Competitive team, no tanking expected",
+   "detail": "Minnesota competitive, no tanking",
    "until": "",
    "sources": [
     "Rqb5GdrSweY:p12",
@@ -437,27 +435,28 @@
    "new_meaning": ""
   },
   {
-   "name": "stable starters",
-   "channel": "durable",
-   "detail": "Finch rarely changes starters unless someone is hurt",
+   "name": "winning team",
+   "channel": "current",
+   "detail": "53 wins predicted",
    "until": "",
    "sources": [
-    "2mxpEpGU3H8:t1"
+    "2mxpEpGU3H8:t3"
    ],
    "new_meaning": ""
   },
   {
-   "name": "thin rotation",
+   "name": "small-ball lineups",
    "channel": "current",
-   "detail": "Thin bench with no ball handlers in the bench unit",
+   "detail": "may start three guards, which opens rebounds for him",
    "until": "",
    "sources": [
-    "2mxpEpGU3H8:t2",
-    "ZYllcj4o6_A:t5"
+    "cFV24VgxyCY:t0",
+    "cFV24VgxyCY:t2",
+    "2mxpEpGU3H8:t0"
    ],
    "new_meaning": ""
   }
  ],
- "note": "LaMelo Ball is a strong threes and assists source who costs you in FG% and turnovers. He fits best on punt FG% and punt TO teams. Prices are close together: Yahoo has him at 31 USD (average cost 30.2), ESPN at 36 USD (27.2), and he went for 29 USD in our league last year. Experts value him in the mid-30s, so 30 to 33 USD is fair, but the two-game playoff week starting March 15 (our week 20) is a reason not to stretch. Early in the season, check that his minutes really reach 30 or more, how his assists hold up next to Edwards, and how his ankles are doing.",
+ "note": "Experts value him in the mid 30s USD, a bit above his Yahoo value (32 USD) and the 29 USD he cost in our league last season. ESPN's 50 USD looks too high, so any price up to the mid 30s is fair. He fits best in punt FG% and punt TO builds, where his elite threes and assists come with no penalty and his FT%, steals and guard rebounds add value. Early in the season, check that his minutes reach about 32, that his assists hold next to Edwards, and how his ankles hold up. Expect a two-game week in our playoffs (week of March 15).",
  "rejected": []
 }

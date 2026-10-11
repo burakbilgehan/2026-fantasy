@@ -8,45 +8,48 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 180 | 0 | 0.1 | 198 | not drafted |
+| 2026-27 | 0 | 0.0 | 157 | 0 | 0.1 | 198 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 41.6% | -1.4 | -1.5 | - |
-| FT% | 78.9% | -0.1 | -0.5 | - |
+| FT% | 78.9% | -0.1 | -0.6 | - |
 | 3PM | 1.2 | -0.3 | -0.7 | - |
 | PTS | 14.6 | +0.1 | +0.0 | - |
 | REB | 3.1 | -0.8 | -0.5 | - |
 | AST | 3.8 | +0.3 | -0.0 | - |
-| STL | 1.0 | +0.4 | +0.1 | - |
+| STL | 1.0 | +0.3 | +0.1 | - |
 | BLK | 0.2 | -0.8 | -0.8 | - |
-| TO | 2.0 | -0.5 | -0.3 | - |
+| TO | 2.0 | -0.4 | -0.2 | - |
 
 </details>
 
 **Current**
-- Yahoo lists him as questionable with an ankle injury. (fact, 2026-10-04; stats)
-- He is a rookie. Brooklyn drafted him sixth overall. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=299), [08-21](https://youtu.be/uRsfijpBPok?t=345))
-- Experts expect him to be Brooklyn's starting point guard, with his minutes rising. Josh is about 80% sure he will start. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=299), [08-21](https://youtu.be/uRsfijpBPok?t=345), [09-03](https://youtu.be/OBwWCxG9SqM?t=1618), [08-02](https://youtu.be/TOn-D1SV7a8?t=1347), [06-28](https://youtu.be/RsjGTgJiKyI?t=1024), [09-26](https://youtu.be/3UGI05PDvrE?t=313))
-- Josh projects him at 150 to 180 in both formats. He sees him as a late-round flyer in rounds 10 to 13. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1026), [09-03](https://youtu.be/OBwWCxG9SqM?t=1618), [06-25](https://youtu.be/lOshTzDA4SA?t=1181))
-- Expect very high turnovers and poor efficiency early. He will probably be bad until around February. (verdict, 2026-09-26, until February; [09-26](https://youtu.be/3UGI05PDvrE?t=1069), [09-03](https://youtu.be/OBwWCxG9SqM?t=1618), [07-23](https://youtu.be/LUTYUdXBG1M?t=2030), [06-28](https://youtu.be/RsjGTgJiKyI?t=1024))
-- If you draft him and he starts, hold him until about Thanksgiving. (verdict, 2026-09-26, until Thanksgiving; [09-26](https://youtu.be/3UGI05PDvrE?t=1069))
-- Brooklyn does not own its pick and is running a development season. In the second half it could hand more minutes to young players, including him. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [08-21](https://youtu.be/uRsfijpBPok?t=1014))
-- Brooklyn plays 3-4-3 games in our playoff weeks, 10 in total, with one back-to-back. The team has 16 back-to-backs this season, tied for the most in the league. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
-- He is probably Brooklyn's third usage option. He could average about 5 assists and over 1 steal in 29 to 30 minutes. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1181))
+- Yahoo lists him as questionable with an ankle issue. (fact, 2026-10-11; stats)
+- Brooklyn does not own its draft pick (it goes to Houston), so the team has no reason to tank. It is projected to be one of the worst teams, at about 28 wins. (fact, 2026-10-08; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [08-21](https://youtu.be/uRsfijpBPok?t=1014), [08-21](https://youtu.be/uRsfijpBPok?t=1754), [10-08](https://youtu.be/sDzeYdUhJDI?t=177), [07-13](https://youtu.be/Rqb5GdrSweY?t=622))
+- Rookie. Brooklyn drafted him sixth overall. (fact, 2026-09-26; [08-21](https://youtu.be/uRsfijpBPok?t=345), [09-26](https://youtu.be/3UGI05PDvrE?t=299))
+- Expected to be Brooklyn's starting point guard from early in the season, ahead of most of last season's young guards. Josh is about 80% sure he starts. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=299), [09-03](https://youtu.be/OBwWCxG9SqM?t=1618), [08-21](https://youtu.be/uRsfijpBPok?t=345), [08-02](https://youtu.be/TOn-D1SV7a8?t=1347), [06-28](https://youtu.be/RsjGTgJiKyI?t=1024), [07-23](https://youtu.be/LUTYUdXBG1M?t=2030), [09-26](https://youtu.be/3UGI05PDvrE?t=313), [08-21](https://youtu.be/uRsfijpBPok?t=488), [06-25](https://youtu.be/lOshTzDA4SA?t=1160))
+- Josh projects him at 150 to 180 in both formats. Experts call him a late-round flyer, rounds 10 to 13. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1026), [09-03](https://youtu.be/OBwWCxG9SqM?t=1618), [06-25](https://youtu.be/lOshTzDA4SA?t=1181))
+- If you draft him and he starts, hold him to about Thanksgiving before deciding. (verdict, 2026-09-26, until Thanksgiving; [09-26](https://youtu.be/3UGI05PDvrE?t=1069))
+- He will probably be bad until around February, with minutes ramping up over the season. (verdict, 2026-09-26, until around February; [09-26](https://youtu.be/3UGI05PDvrE?t=1069), [09-03](https://youtu.be/OBwWCxG9SqM?t=1618))
+- Brooklyn is running a development season. In the second half it may give more minutes to young players, Brown among them, and Michael Porter Jr. could be traded. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [08-21](https://youtu.be/uRsfijpBPok?t=1014), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1642))
+- Brooklyn plays 3, 4 and 3 games in our playoff weeks 19 to 21. That is only 10 games, with one back-to-back. The team has 16 back-to-backs this season, tied with Boston for the most in the league. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
+- Expected to struggle as a rookie, with very high turnovers and poor percentages, mostly early in the season. Projections make FG% his weakest category at about 41.6%. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1618), [06-28](https://youtu.be/RsjGTgJiKyI?t=1024), [07-23](https://youtu.be/LUTYUdXBG1M?t=2030), [06-25](https://youtu.be/lOshTzDA4SA?t=1139), stats)
+- Likely Brooklyn's third usage option. Julius Randle will handle the ball a lot, and coach Jordi Fernandez wants several ball handlers instead of one traditional point guard. (verdict, 2026-08-21; [06-25](https://youtu.be/lOshTzDA4SA?t=1181), [06-25](https://youtu.be/lOshTzDA4SA?t=1160), [08-21](https://youtu.be/uRsfijpBPok?t=1120))
+- Could average about 5 assists and over 1 steal in about 29 to 30 minutes. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1181))
 
 **Durable**
-- He is a very talented point guard. He can dribble, pass and shoot, has unlimited range and dynamic athleticism, and has good length at 6'4 or 6'5. Experts like his passing vision, and the Nets see upside on defense. (verdict, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=409), [08-02](https://youtu.be/TOn-D1SV7a8?t=1347), [07-23](https://youtu.be/LUTYUdXBG1M?t=2030))
-- At Louisville he was a high usage guard. He shot many threes and had good assists, a good steal rate and excellent free throws. He also had over three turnovers per game. (fact, 2026-08-21; [06-25](https://youtu.be/lOshTzDA4SA?t=1139), [08-21](https://youtu.be/uRsfijpBPok?t=392))
-- Poor shot selection hurts his efficiency from the field and from three. (verdict, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=392), [06-25](https://youtu.be/lOshTzDA4SA?t=1139))
-- Experts do not see his pre-draft back injury as a concern. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1139))
+- Very talented point guard. He can dribble, pass and shoot, has unlimited range, dynamic athleticism and good length at 6'4 or 6'5, and shows strong passing vision. The Nets see upside on defense. (verdict, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=409), [08-02](https://youtu.be/TOn-D1SV7a8?t=1347), [07-23](https://youtu.be/LUTYUdXBG1M?t=2030))
+- At Louisville he averaged over three turnovers per game. Poor shot selection hurt his efficiency from the field and from three. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=392), [06-25](https://youtu.be/lOshTzDA4SA?t=1139))
+- At Louisville he was a high usage guard who shot many threes, with good assists, a good steal rate and excellent free throw shooting. (fact, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1139))
+- He had a back injury in college. Experts do not see it as a concern. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1139))
 
 **Tags**
-- Current: `rookie` (Sixth overall pick in 2026), `flyer` (Late-round flyer, rounds 10 to 13), `slow start` (Expected to be bad until around February, with high turnovers and poor efficiency; until February), `questionable` (Yahoo Q (Ankle)), `injured now` (Ankle, Yahoo status Q), `bad playoff schedule` (Only 10 games in weeks 19 to 21 (3-4-3), one back-to-back)
+- Current: `rookie` (sixth overall pick, 2026), `flyer` (late-round flyer, rounds 10 to 13), `slow start` (likely bad until around February, minutes ramping up; until around February), `questionable` (Yahoo Q (Ankle)), `usage competition` (likely third usage option; Randle handles the ball a lot), `shared ball handling` (Fernandez wants several ball handlers and connective playmakers), `bottom team` (about 28 wins projected; does not own its pick), `many back-to-backs` (16 back-to-backs, tied for the most in the league), `bad playoff schedule` (3-4-3 in weeks 19 to 21, only 10 games, one back-to-back)
 - Durable: none
 
-**Note.** Both sites price him at 0 USD (Yahoo rank 180, ESPN 198). Josh projects him at 150 to 180, so he is a 1 USD end-of-auction flyer for a bench spot, not a starter. Projections show a weak FG% (41.6% on volume) and many turnovers, so he hurts FG% and TO teams early. Check the ankle, whether he starts at point guard, and his turnover rate. Hold him until about Thanksgiving if he starts, since experts expect him to improve after February.
+**Note.** He is ranked 157 on Yahoo and 198 on ESPN, and both sites price him at 0 USD. Josh's 150 to 180 projection also puts him outside our 144-player pool, so he is at most a 1 USD last bench pick. More likely he is a waiver pickup if he starts and the assists (about 5) and steals show up. Expect early drag on FG% and turnovers, a slow build toward February and only 10 games in our playoff weeks. Check his ankle status and whether he actually starts at point guard in the first weeks before spending FAB.
 
-<sub>12 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>12 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

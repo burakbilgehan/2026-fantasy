@@ -8,20 +8,39 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "b1eadda1c85b",
- "note_count": 24,
- "built_at": "2026-10-05T19:42:47+00:00",
+ "input_sha": "45e34a7bceab",
+ "note_count": 27,
+ "built_at": "2026-10-11T09:13:55+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.22212220000000002,
-  "duration_ms": 67650,
+  "cost_usd_list": 0.153653,
+  "duration_ms": 69788,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is the starting center on offense in Washington. Alex Sarr starts next to him and plays more power forward.",
+   "text": "He is healthy now and not injured.",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p11",
+    "n4KkK-OJjqA:p4"
+   ]
+  },
+  {
+   "text": "He is angling for a max contract.",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p11"
+   ]
+  },
+  {
+   "text": "He is a projected starter for Washington. He plays center on offense, and Alex Sarr moves to power forward.",
    "kind": "fact",
    "date": "2026-09-17",
    "until": "",
@@ -31,7 +50,7 @@
    ]
   },
   {
-   "text": "He projects to play about 32 minutes a game.",
+   "text": "He is projected for about 32 minutes per game.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
@@ -40,112 +59,38 @@
    ]
   },
   {
-   "text": "He is not injured now.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p4"
-   ]
-  },
-  {
-   "text": "He missed many games last season. Some of the absences in Washington were partly not real injuries.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p4",
-    "stats"
-   ]
-  },
-  {
-   "text": "Do not expect 75 games. If he plays about 60 games, a pick in the mid 20s is a good one. At 62 games he would be a tier three or four center.",
+   "text": "Davis and Trae Young are expected to get the preferred offensive touches in Washington, ahead of rookie AJ Dybantsa and Alex Sarr.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-10-06",
    "until": "",
    "sources": [
-    "n4KkK-OJjqA:p4",
-    "80kfLVnFQ_s:p15",
-    "t4n9MAP2_14:p8"
+    "lOshTzDA4SA:t1",
+    "OBwWCxG9SqM:t3",
+    "-rgXhs5BHiw:t0",
+    "eTsjuVu1trk:t5",
+    "uarqbNA2dFk:t0"
    ]
   },
   {
-   "text": "Per game he could rank about 14th and has top 10 upside.",
-   "kind": "verdict",
-   "date": "2026-09-19",
-   "until": "",
-   "sources": [
-    "uarqbNA2dFk:p34",
-    "J1Eg3uaAICU:p23"
-   ]
-  },
-  {
-   "text": "Experts value him around picks 21 to 26. They call his slide to Yahoo rank 45 and ADP near 43 an overreaction and would take him in round 3. One expert would still call him an easy pick in round 4 of a 12 team league.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p4",
-    "BjXP9JODDSg:p7",
-    "_vbAP5y182A:p9",
-    "C4vlgpJ62NI:p7",
-    "egRrai3Ax38:p3",
-    "ahNxsoU8Hx4:p8",
-    "KPdD91Oo8-U:p8",
-    "LM0cRCGoAUQ:p18",
-    "g31YlwRe0XQ:p10",
-    "OdDkXFhoKsc:p16",
-    "J1Eg3uaAICU:p23",
-    "2A2JbUN-kc0:p25"
-   ]
-  },
-  {
-   "text": "He is a value at his Yahoo rank. Do not draft him at his ESPN rank of 14.",
-   "kind": "verdict",
-   "date": "2026-09-19",
-   "until": "",
-   "sources": [
-    "uarqbNA2dFk:p34"
-   ]
-  },
-  {
-   "text": "In an auction, one expert values him at 30 USD per game but would buy him only at a discount. He went for 26 USD in that mock auction.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p18"
-   ]
-  },
-  {
-   "text": "If you pair him with Wembanyama, blocks and rebounds are strong, but you then need guard stats.",
-   "kind": "verdict",
-   "date": "2026-09-23",
-   "until": "",
-   "sources": [
-    "C4vlgpJ62NI:p7"
-   ]
-  },
-  {
-   "text": "Experts expect Washington to keep him and push for the playoffs. One puts it at about 80%. A trade, with Golden State rumored, cannot be ruled out, and the team could reconsider around the trade deadline.",
+   "text": "Experts expect Washington to keep him and push for the playoffs. One is about 80% sure of that. A trade cannot be ruled out, and the team could reconsider around the trade deadline. Golden State has come up in trade rumors.",
    "kind": "verdict",
    "date": "2026-09-16",
    "until": "",
    "sources": [
-    "UTE0dNIv8nY:p18",
     "2A2JbUN-kc0:p26",
     "LM0cRCGoAUQ:p18",
-    "LM0cRCGoAUQ:t3"
+    "LM0cRCGoAUQ:t3",
+    "UTE0dNIv8nY:p18"
    ]
   },
   {
-   "text": "He and Trae Young are expected to get Washington's preferred offensive touches.",
+   "text": "Washington's rebuild is over. The team is trying to compete, with a projection of about 40 wins and a play-in spot, so late-season rest and minutes cuts are not expected. His health is a key factor for the team.",
    "kind": "verdict",
-   "date": "2026-09-03",
+   "date": "2026-07-23",
    "until": "",
    "sources": [
-    "lOshTzDA4SA:t1",
-    "OBwWCxG9SqM:t3"
+    "UTE0dNIv8nY:t0",
+    "UTE0dNIv8nY:t4"
    ]
   },
   {
@@ -158,78 +103,126 @@
    ]
   },
   {
-   "text": "Washington is trying to compete, with a projection of about 40 wins and a play-in spot. Late-season resting and minutes cuts are not expected. His health is a key factor for the team.",
+   "text": "Experts call his Yahoo rank of about 45 far too late. They value him around picks 23 to 26 and see an early third round pick as an easy call. They see his slide in drafts as an overreaction.",
    "kind": "verdict",
-   "date": "2026-07-23",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "UTE0dNIv8nY:t0",
-    "UTE0dNIv8nY:t4"
+    "6DnRWahYrFA:p11",
+    "n4KkK-OJjqA:p4",
+    "WXO8MfQfzo0:p7",
+    "BjXP9JODDSg:p7",
+    "_vbAP5y182A:p9",
+    "ahNxsoU8Hx4:p8",
+    "egRrai3Ax38:p3",
+    "uarqbNA2dFk:p34",
+    "g31YlwRe0XQ:p10",
+    "OdDkXFhoKsc:p16",
+    "KPdD91Oo8-U:p8",
+    "C4vlgpJ62NI:p7"
+   ]
+  },
+  {
+   "text": "He projects as a top 20 player per game, possibly about 14th. At Yahoo pick 45, that removes most of the injury risk.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p11",
+    "uarqbNA2dFk:p34"
+   ]
+  },
+  {
+   "text": "ESPN's rank of about 14 is too high to draft him there.",
+   "kind": "verdict",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p34"
+   ]
+  },
+  {
+   "text": "In auctions, one expert values him at 30 USD on a per-game basis but would only buy him at a discount. He went for 26 USD in that mock auction.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p18"
+   ]
+  },
+  {
+   "text": "Do not expect 75 games. If he plays about 60 games, a pick in the mid 20s is a really good one.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p4",
+    "80kfLVnFQ_s:p15"
+   ]
+  },
+  {
+   "text": "Pairing him with Victor Wembanyama makes blocks and rebounds strong, but the team then needs guard stats.",
+   "kind": "verdict",
+   "date": "2026-09-23",
+   "until": "",
+   "sources": [
+    "C4vlgpJ62NI:p7"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He has repeated lower-body injuries of several different kinds. In Dallas he never played five games in a row before getting hurt.",
+   "text": "Blocks and rebounds are his standout categories. Both are far above the top 250 pool.",
    "kind": "fact",
-   "date": "2026-09-16",
-   "until": "",
-   "sources": [
-    "2A2JbUN-kc0:p25",
-    "t4n9MAP2_14:p8",
-    "UTE0dNIv8nY:p19"
-   ]
-  },
-  {
-   "text": "Expect missed games every season. Experts have low confidence in his lower body.",
-   "kind": "verdict",
-   "date": "2026-09-16",
-   "until": "",
-   "sources": [
-    "2A2JbUN-kc0:p25",
-    "t4n9MAP2_14:p8",
-    "UTE0dNIv8nY:p19"
-   ]
-  },
-  {
-   "text": "He is 33. He can still produce when he is on the floor.",
-   "kind": "fact",
-   "date": "2026-07-23",
-   "until": "",
-   "sources": [
-    "UTE0dNIv8nY:p19"
-   ]
-  },
-  {
-   "text": "His outside shooting and perimeter game decline every year. He now rarely shoots anything except at the rim.",
-   "kind": "fact",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "UTE0dNIv8nY:p20",
-    "t4n9MAP2_14:p9"
-   ]
-  },
-  {
-   "text": "One expert rates his rim protection below Alex Sarr's.",
-   "kind": "verdict",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "t4n9MAP2_14:p9"
-   ]
-  },
-  {
-   "text": "Rebounds and blocks are league outliers, and they carry his category value.",
-   "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He is worth more in category leagues than in points leagues.",
+   "text": "He gets many different injuries, such as shoulder and groin issues and lower body problems. In Dallas he never played five games in a row before getting hurt. There is no single recurring injury like multiple knee surgeries.",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p10",
+    "2A2JbUN-kc0:p25",
+    "t4n9MAP2_14:p8",
+    "UTE0dNIv8nY:p19"
+   ]
+  },
+  {
+   "text": "Experts have low confidence in his lower body. If he played 62 games, he would be in tier three or four among centers.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p8"
+   ]
+  },
+  {
+   "text": "He is 33. His outside shooting and perimeter game decline every year, and he now rarely shoots anything except at the rim.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:p19",
+    "UTE0dNIv8nY:p20"
+   ]
+  },
+  {
+   "text": "One expert says he can no longer shoot and is now a worse rim protector than Alex Sarr. Another says he can still be productive when he is on the floor.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p9",
+    "UTE0dNIv8nY:p19"
+   ]
+  },
+  {
+   "text": "He is better in category leagues than in points leagues.",
    "kind": "verdict",
    "date": "2026-09-16",
    "until": "",
@@ -238,7 +231,7 @@
    ]
   },
   {
-   "text": "As an often-injured player, he can go a bit earlier in roto than in head-to-head.",
+   "text": "As an often-injured player, he is worth a bit less in head-to-head than in roto.",
    "kind": "verdict",
    "date": "2026-09-01",
    "until": "",
@@ -249,175 +242,193 @@
  ],
  "tags": [
   {
-   "name": "REB specialist",
+   "name": "BLK specialist",
    "channel": "durable",
-   "detail": "about 11 rebounds per game",
-   "until": "",
+   "detail": "About 2.0 blocks projected",
    "sources": [
     "stats"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
-   "name": "BLK specialist",
+   "name": "REB specialist",
    "channel": "durable",
-   "detail": "about 2 blocks per game",
-   "until": "",
+   "detail": "About 11 rebounds projected",
    "sources": [
     "stats"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "no 3PM",
    "channel": "durable",
-   "detail": "about 0.5 threes per game, shoots mostly at the rim",
-   "until": "",
+   "detail": "About 0.5 per game; rarely shoots away from the rim",
    "sources": [
     "UTE0dNIv8nY:p20",
-    "t4n9MAP2_14:p9",
     "stats"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "elite per game",
    "channel": "durable",
-   "detail": "about 14th per game, top 10 upside",
-   "until": "",
+   "detail": "Top 20 per game, possibly about 14th; games played is the question",
    "sources": [
-    "uarqbNA2dFk:p34",
-    "J1Eg3uaAICU:p23"
+    "6DnRWahYrFA:p11",
+    "uarqbNA2dFk:p34"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "injury prone",
    "channel": "durable",
-   "detail": "repeated lower-body injuries",
-   "until": "",
+   "detail": "Many different injuries, mostly lower body plus shoulder and groin; no single recurring injury",
    "sources": [
+    "6DnRWahYrFA:p10",
     "2A2JbUN-kc0:p25",
     "t4n9MAP2_14:p8",
     "UTE0dNIv8nY:p19"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "age decline watch",
    "channel": "durable",
-   "detail": "33, shooting and rim protection declining",
-   "until": "",
+   "detail": "Age 33; shooting and perimeter game decline each year",
    "sources": [
     "UTE0dNIv8nY:p19",
     "UTE0dNIv8nY:p20",
     "t4n9MAP2_14:p9"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "category league player",
    "channel": "durable",
    "detail": "",
-   "until": "",
    "sources": [
     "2A2JbUN-kc0:p25"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "injury last season",
    "channel": "current",
    "detail": "20 games in 2025-26",
-   "until": "",
    "sources": [
     "n4KkK-OJjqA:p4",
     "stats"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
-   "name": "sleeper",
+   "name": "contract year",
    "channel": "current",
-   "detail": "Yahoo rank 45, experts value him around picks 21 to 26",
-   "until": "",
+   "detail": "Angling for a max contract",
    "sources": [
-    "n4KkK-OJjqA:p4",
-    "uarqbNA2dFk:p34",
-    "ahNxsoU8Hx4:p8",
-    "BjXP9JODDSg:p7"
+    "6DnRWahYrFA:p11"
    ],
-   "new_meaning": ""
-  },
-  {
-   "name": "expert target",
-   "channel": "current",
-   "detail": "around picks 23 to 26; 30 USD per game value",
    "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p4",
-    "_vbAP5y182A:p9",
-    "g31YlwRe0XQ:p10",
-    "OdDkXFhoKsc:p16",
-    "Q6YlQDvD-aY:p18"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sites disagree on price",
-   "channel": "current",
-   "detail": "Yahoo rank 45, ESPN rank 14; avoid at ESPN rank",
-   "until": "",
-   "sources": [
-    "uarqbNA2dFk:p34",
-    "stats"
-   ],
    "new_meaning": ""
   },
   {
    "name": "trade risk",
    "channel": "current",
-   "detail": "Golden State rumors; expected to stay, deadline possible",
-   "until": "",
+   "detail": "Experts expect Washington to keep him; Golden State has come up in rumors; the team could reconsider near the deadline",
    "sources": [
     "UTE0dNIv8nY:p18",
     "LM0cRCGoAUQ:p18",
-    "LM0cRCGoAUQ:t3"
+    "LM0cRCGoAUQ:t3",
+    "2A2JbUN-kc0:p26"
    ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "Experts value him around picks 23 to 26 vs a Yahoo rank of about 45",
+   "sources": [
+    "6DnRWahYrFA:p11",
+    "n4KkK-OJjqA:p4",
+    "_vbAP5y182A:p9",
+    "ahNxsoU8Hx4:p8",
+    "egRrai3Ax38:p3"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "On Yahoo at rank about 44 to 45",
+   "sources": [
+    "uarqbNA2dFk:p34",
+    "n4KkK-OJjqA:p4"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "At ESPN rank about 14",
+   "sources": [
+    "uarqbNA2dFk:p34"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 45 and value 23 USD vs ESPN rank 15 and value 45 USD",
+   "sources": [
+    "stats"
+   ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "few back-to-backs",
    "channel": "current",
    "detail": "14 back-to-backs",
-   "until": "",
    "sources": [
     "gf_6GveiAls:p19"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "one back-to-back in the fantasy playoffs",
-   "until": "",
+   "detail": "One back-to-back in the fantasy playoffs",
    "sources": [
     "gf_6GveiAls:p19"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "low shutdown risk",
    "channel": "current",
-   "detail": "Washington is pushing for the play-in",
-   "until": "",
+   "detail": "Washington is trying to compete and push for the play-in",
    "sources": [
     "UTE0dNIv8nY:t0",
     "UTE0dNIv8nY:t4"
    ],
+   "until": "",
    "new_meaning": ""
   }
  ],
- "note": "Per game he is an elite rebounds and blocks source with strong FG% and points, so his only real question is games played. Sites project 58 to 61 games. Experts value him at 30 USD per game but want a discount. Yahoo's value of 23 USD and the 26 USD mock price are a fair target range, well below the 54 USD he cost in our league last season and the ESPN value of 46 USD. He fits big-man builds, for example with Wembanyama, as long as you add guard stats and threes. Early in the season, check how many games in a row he plays and whether the trade rumors with Golden State return.",
+ "note": "Experts say Davis is a top 20 player per game with elite blocks and rebounds and a plus FG%. Their only doubt is how many games he plays, and they set the bar at about 60. Yahoo prices him at 23 USD (average cost 19.1 USD). ESPN prices him at 45 USD, but experts call ESPN's rank too high. One expert gives him 30 USD of per-game value but would only buy at a discount. Our league paid 54 USD last season, so bid into the mid 20s USD and let him go if the room chases him. He fits builds that are strong in BLK, REB and FG%, such as next to Wembanyama, but those builds then need guard stats and threes. Early in the season, check his games played, whether his minutes stay near 32, and any trade talk before the 2027-03-04 deadline.",
  "rejected": []
 }

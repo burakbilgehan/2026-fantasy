@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 137 | 0 | 0.3 | 161 | 4 |
+| 2026-27 | 0 | 0.0 | 152 | 0 | 0.4 | 163 | 4 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -24,31 +24,32 @@
 | REB | 5.8 | +0.3 | -0.2 | - |
 | AST | 5.5 | +1.2 | +2.0 | - |
 | STL | 1.1 | +0.4 | +0.7 | - |
-| BLK | 0.8 | +0.4 | -0.1 | - |
-| TO | 2.5 | -1.2 | -1.5 | - |
+| BLK | 0.8 | +0.3 | -0.1 | - |
+| TO | 2.5 | -1.2 | -1.4 | - |
 
 </details>
 
 **Current**
-- He is projected to start at forward for Golden State. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=430), [08-22](https://youtu.be/LXZLrL90crE?t=270), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487), [09-30](https://youtu.be/MUbNYdjpUDM?t=678))
-- He is not expected to play much center because of his age and size. The more he does play center, the more minutes open up for Santos and Lendeborg. (verdict, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=430), [09-30](https://youtu.be/MUbNYdjpUDM?t=678))
-- Experts see him as a late, deep-league value only. One expert says his Yahoo ADP of 107 is too high and ranks him outside the top 120 in categories because of his age and because he fades when Curry sits. The same expert says his ESPN rank of 161 is too low. Another expert says he is all upside at pick 181 in a 14-team league but not worth round 13 in a 12-team league. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=958), [09-30](https://youtu.be/MUbNYdjpUDM?t=963), [09-15](https://youtu.be/KPdD91Oo8-U?t=2763), [09-14](https://youtu.be/t4n9MAP2_14?t=2246))
-- Golden State may rest veterans to protect its lottery odds, and its players are expected to fade as the season goes on. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
-- Golden State has 15 back-to-backs, tied for second most in the league. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=991), [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
-- The Warriors schedule is good for fantasy playoffs that end March 28. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
-- The Warriors are reportedly treating 2026-27 as a gap year. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=140))
+- He is a projected starter for the Warriors. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=430), [09-30](https://youtu.be/MUbNYdjpUDM?t=678), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487), [08-22](https://youtu.be/LXZLrL90crE?t=270))
+- He is unlikely to play much center because he is old and small. The more he does play center, the more minutes open up for Santos and Lendeborg. (verdict, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=430), [09-30](https://youtu.be/MUbNYdjpUDM?t=678))
+- One expert sees him outside the top 120 in category leagues because of his age and because he fades when Curry sits. That makes his Yahoo ADP of 107 too high. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=958))
+- He is good value as a late pick in deep leagues, around pick 176 to 181. The experts would not take him in round 13 of a 12-team league or in a 10-team league. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=963), [09-15](https://youtu.be/KPdD91Oo8-U?t=2763))
+- The Warriors are reportedly treating this season as a gap year. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=140), [09-30](https://youtu.be/MUbNYdjpUDM?t=166))
+- The team may rest veterans to protect its lottery odds. Experts expect Warriors players to fade as the season goes on. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
+- The Warriors have 15 back-to-backs, tied for second most in the league. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=991), [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
+- The Warriors' schedule is good for fantasy playoffs that end on March 28. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
+- One center ranking puts him in tier nine, and that expert is souring on him more every day. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2246))
+- The Warriors' depth is very poor, so minutes should go up across the rotation. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
 
 **Durable**
-- Assists are his best category. He makes guard-like assists for a forward or center. (fact, 2026-10-05; stats, [09-14](https://youtu.be/LM0cRCGoAUQ?t=2023))
-- His production fades when Curry sits. Curry is the only player on the roster who creates his own shot. (verdict, 2026-10-02; [09-30](https://youtu.be/MUbNYdjpUDM?t=958), [10-02](https://youtu.be/ZYllcj4o6_A?t=551))
-- He is worth more in category leagues than in points leagues. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=996), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2023))
-- His age makes a further decline likely. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=958), [08-22](https://youtu.be/LXZLrL90crE?t=430))
-- His steals and blocks have declined. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2023), stats)
+- His assists are guard-like for a forward or center. This is his clearest category strength. (fact, 2026-10-11; stats)
+- He is better in category leagues than in points leagues. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=996), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2023))
+- He gives rebounds and assists, but his steals and blocks have fallen. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2023))
 
 **Tags**
-- Current: `sites disagree on price` (Yahoo ADP 107 called too high, ESPN rank 161 and Fantrax ADP 176 called too low), `tank risk` (Warriors reportedly treating the season as a gap year), `shutdown risk` (Team may rest veterans for lottery odds), `many back-to-backs` (15 back-to-backs), `good playoff schedule` (Good for playoffs ending March 28)
-- Durable: `AST from a big` (About 5.5 assists per game as an F,C), `category league player`, `needs playmaker` (Fades when Curry sits), `age decline watch`
+- Current: `bust candidate` (Yahoo ADP 107 called too high), `waiver watch` (not worth round 13 in a 12-team league; value only in deeper leagues), `tank risk` (gap year; team may rest veterans for lottery odds), `many back-to-backs` (15 back-to-backs), `good playoff schedule` (good for a March 28 end), `thin rotation` (Warriors struggle to field a 10-man rotation)
+- Durable: `AST from a big` (about 5.5 assists projected, z +2.0 vs F/C), `category league player`, `age decline watch` (age cited as a reason to rank him outside the top 120)
 
-**Note.** He sits on the edge of our 144-player draft pool, with a Yahoo rank of 137, an ESPN rank of 161 and near-zero values on both sites. He went for 4 USD in our league last season, so treat him as a 1 to 3 USD end-of-draft pick at most. He helps builds that need assists from the frontcourt but costs you in FG% (about 43%), PTS and TO (2.5 per game). Early in the season, check whether he plays center, how he does when Curry sits, and whether Golden State starts resting veterans.
+**Note.** He ranks 152 on Yahoo and 163 on ESPN, and both sites value him at 0 USD. That puts him just outside the 144 players we draft, so he is a 1 USD final pick at most (our league paid 4 USD last season) or a waiver option. His value is mostly assists from a frontcourt slot (5.5 projected, with a small steals edge). It comes with weak points, turnovers (2.5) and FG% (43%), so he only suits builds that need frontcourt assists and can absorb the turnovers. Early in the season, check whether he gets center minutes, whether his steals and blocks come back, and whether the Warriors start resting veterans as the gap year goes on.
 
-<sub>8 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>8 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

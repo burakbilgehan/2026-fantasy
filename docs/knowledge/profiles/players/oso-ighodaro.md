@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 170 | 1 | 0.5 | 122 | not drafted |
+| 2026-27 | 0 | - | 178 | 1 | 0.5 | 125 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -24,25 +24,29 @@
 | AST | 2.4 | -0.4 | +0.0 | - |
 | STL | 0.9 | +0.0 | +0.6 | - |
 | BLK | 0.5 | -0.2 | -1.0 | - |
-| TO | 1.4 | +0.3 | +0.1 | - |
+| TO | 1.4 | +0.3 | +0.2 | - |
 
 </details>
 
 **Current**
-- Experts expect him to share center minutes with Maluach, often as a small-ball five. Maluach looks more likely to start, and Phoenix wants its top 10 pick in the starting spot. (verdict, 2026-09-30; [08-23](https://youtu.be/hm5-fiCa5S4?t=1261), [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [09-30](https://youtu.be/BjXP9JODDSg?t=1747))
-- Mark Williams is out long term with a torn labrum. One note gives 5 to 6 months. (fact, 2026-09-14, until 5 to 6 months from mid September 2026; [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200))
-- He would need about 35 minutes with no competition to matter in 12-team leagues. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2315))
-- He put up big numbers at the end of last season while Williams had a foot issue. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1134))
+- Booker, Jalen Green, Dillon Brooks, Miles Bridges and Collin Gillespie will take most of the Phoenix touches, which leaves little usage for him. (fact, 2026-10-09; [09-19](https://youtu.be/uarqbNA2dFk?t=989), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2437))
+- Ighodaro has started two games in a row at center over Khaman Maluach. Their minutes are similar. (fact, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=1999))
+- Experts expect Ighodaro and Maluach to split the center minutes, and the starting job is not settled. (verdict, 2026-10-08; [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [09-30](https://youtu.be/BjXP9JODDSg?t=1747), [08-23](https://youtu.be/hm5-fiCa5S4?t=1288), [10-08](https://youtu.be/WXO8MfQfzo0?t=1999))
+- Mark Williams, the projected starting center, is out long term with a torn labrum. The reported timeline is 5 to 6 months. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200))
+- Phoenix is reported to want its top 10 pick Maluach to take the starting center spot. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2190))
+- He would need about 35 minutes with no competition at center to matter in 12-team leagues. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2315))
+- He put up big numbers at the end of last season while Williams was out with a foot issue. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1134))
 
 **Durable**
-- He makes no threes and his FT% is very poor. Both are clear weak categories. (fact, 2026-10-04; stats)
-- He is not a good fantasy player because his usage is very low. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2315))
-- He has no shooting range beyond five feet. He is a smart passer, can put the ball on the floor and is a very underrated defender. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1261), [09-14](https://youtu.be/t4n9MAP2_14?t=2315))
+- His free throw shooting is very poor, below 50% in the projections. It hurts FT% even on low volume. (fact, 2026-10-11; stats)
+- He is a very low usage player. He is a smart passer who can put the ball on the floor, and he is a very underrated defender. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2315), [08-23](https://youtu.be/hm5-fiCa5S4?t=1261))
+- His game does not translate well to fantasy. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2315))
+- He has no shooting range beyond five feet and makes no threes. (fact, 2026-09-14; [08-23](https://youtu.be/hm5-fiCa5S4?t=1261), stats)
 
 **Tags**
-- Current: `minutes competition` (Shares center minutes with Maluach, who looks more likely to start), `waiver watch` (Mark Williams is out long term. Worth watching if he wins the starting center job or gets heavy minutes)
-- Durable: `FT% liability` (Projected FT% under 50 on about 1.5 attempts per game), `no 3PM` (No range beyond five feet)
+- Current: `minutes competition` (Splits center minutes with Khaman Maluach while Mark Williams is out), `waiver watch` (Worth a look only if he holds the starting center job and gets heavy minutes)
+- Durable: `FT% liability` (About 48.6% projected FT), `no 3PM` (No shooting beyond five feet)
 
-**Note.** He is not a draft target in our 144-player auction. Yahoo values him at 0 USD (rank 170), ESPN at 1 USD (rank 122), and nobody drafted him in our league last season. Low usage, no threes and a sub-50 FT% leave him with only FG% and some steals and assists. Early in the season, check whether Maluach starts and whether his minutes get close to the 27.6 ESPN projects. If they do, he is a cheap FAB add.
+**Note.** Ighodaro should not be drafted in our league. Yahoo values him at 0 USD (rank 178), and ESPN at 1 USD (rank 125, 0.5 USD average cost). Even ESPN's 27.6-minute projection gives only 7.9 points with no threes and a FT% below 50%. If you are punting FT%, his 65% FG% and 2.4 assists are a small plus, so watch him on waivers early in the season. Act only if he keeps starting over Maluach and his minutes approach the 35 that experts say he needs to matter in 12-team leagues.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

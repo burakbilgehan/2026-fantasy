@@ -3,24 +3,24 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, ESPN | 71 | 25.1 | 38.5 (8.2) | 90.4 (2.2) | 1.3 | 9.6 | 2.5 | 5.0 | 0.8 | 0.3 | 2.1 |
+| 2026-27 proj, ESPN | 71 | 25.1 | 42.3 (8.2) | 90.4 (2.2) | 1.6 | 10.5 | 2.5 | 5.0 | 0.8 | 0.3 | 2.1 |
 | 2026-27 proj, Yahoo | 69 | - | 41.1 (7.0) | 87.3 (1.8) | 1.3 | 8.6 | 2.1 | 1.4 | 0.7 | 0.3 | 1.3 |
 | 2025-26 | 69 | 20.4 | 38.4 (6.7) | 90.1 (1.8) | 1.1 | 7.8 | 2.0 | 4.0 | 0.6 | 0.3 | 1.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 319 | 0 | 0.0 | 237 | not drafted |
+| 2026-27 | 0 | - | 319 | 0 | 0.0 | 200 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 39.7% | -1.1 | -1.1 | - |
+| FG% | 41.7% | -0.8 | -0.7 | - |
 | FT% | 89.0% | +0.8 | +0.5 | - |
-| 3PM | 1.3 | -0.2 | -0.6 | - |
-| PTS | 9.1 | -0.8 | -0.9 | - |
-| REB | 2.3 | -1.2 | -1.1 | - |
-| AST | 3.2 | +0.0 | -0.3 | - |
+| 3PM | 1.4 | -0.1 | -0.5 | - |
+| PTS | 9.6 | -0.8 | -0.8 | - |
+| REB | 2.3 | -1.2 | -1.0 | - |
+| AST | 3.2 | -0.0 | -0.4 | - |
 | STL | 0.8 | -0.5 | -0.8 | - |
 | BLK | 0.3 | -0.7 | -0.4 | - |
 | TO | 1.7 | -0.1 | +0.1 | - |
@@ -28,18 +28,17 @@
 </details>
 
 **Current**
-- Ty Jerome is expected to start at point guard. Joe's projected starting five (Jerome, Coward, Grant, Boozer, Edey) does not include Clayton. (fact, 2026-08-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1672), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483))
-- Coach Tuomas Iisalo runs an 11-man rotation with short stints and keeps minutes down. Joe expects only Cameron Boozer and Cedric Coward to top 30 minutes. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
-- Memphis has too many players on guaranteed contracts and usually waives players later, so more trades or cuts are expected. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=147), [06-29](https://youtu.be/bHA-JoW3reE?t=953))
-- Memphis has a crowded guard group: Javon Small, Ty Jerome, Scotty Pippen Jr., Campazzo and Cam Spencer all compete for guard minutes. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=557))
+- He is the fifth point guard on the Memphis depth chart. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1599))
+- He has shown nothing so far. Memphis still needs two more roster cuts, and he is a likely one. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1599), [10-07](https://youtu.be/lp11OAEpq4Y?t=1636))
+- Memphis has a deep roster and is expected to use an 11 or 12 man rotation, so there are few minutes left for a fifth point guard. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=296), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
 
 **Durable**
 - none
 
 **Tags**
-- Current: `minutes competition` (Crowded Memphis guard group (Small, Jerome, Pippen Jr., Campazzo, Spencer) in an 11-man rotation that keeps minutes down.)
+- Current: `cut candidate` (Fifth point guard. Named as a likely cut from an overcrowded Memphis roster.), `minutes competition` (Ranks behind four other point guards on the depth chart.), `deep rotation` (Memphis is expected to use 11 or 12 players.)
 - Durable: none
 
-**Note.** No expert has discussed Clayton. Both sites value him at 0 USD and rank him outside our 144 drafted players (Yahoo 319, ESPN 237), so he is not a draft target. His 38.4 FG% on 20.4 minutes last season would hurt a team's FG%, and his 90.1 FT% comes on too little volume to make up for it. The sites disagree on his role: ESPN projects 5.0 assists and Yahoo projects 1.4. Early in the season, check whether he gets steady minutes in Iisalo's crowded guard rotation or whether Memphis cuts players. Only then would he be worth a waiver look in a build that needs assists or FT%.
+**Note.** He is not a draft target in our 144 player auction. Both Yahoo and ESPN value him at 0 USD (Yahoo rank 319, ESPN rank 200), and he went undrafted in our league last season. He shot 38.4% from the field in 20 minutes last season, and as the fifth point guard and a likely roster cut, he only matters if Memphis keeps him and injuries open up minutes.
 
-<sub>0 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>1 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

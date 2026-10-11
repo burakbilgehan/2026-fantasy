@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 4 | 1.0 | 99 | 0 | 1.0 | 158 | 12 |
+| 2026-27 | 5 | 1.2 | 103 | 0 | 1.2 | 159 | 12 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -22,7 +22,7 @@
 | 3PM | 2.6 | +1.2 | +1.1 | - |
 | PTS | 18.7 | +0.8 | +0.8 | - |
 | REB | 3.4 | -0.7 | -0.6 | - |
-| AST | 3.1 | -0.0 | -0.1 | - |
+| AST | 3.1 | -0.1 | -0.1 | - |
 | STL | 0.7 | -0.8 | -0.9 | - |
 | BLK | 0.2 | -0.9 | -1.0 | - |
 | TO | 2.1 | -0.6 | -0.6 | - |
@@ -30,28 +30,26 @@
 </details>
 
 **Current**
-- The Kings are in a teardown and rebuild and are projected near the bottom of the West. They still need to stay out of the relegation zone and may try to win games, which supports his minutes. (fact, 2026-10-04; [07-31](https://youtu.be/oEywzBZfAvY?t=170), [07-31](https://youtu.be/oEywzBZfAvY?t=2438), [07-27](https://youtu.be/0AptxcRW0RE?t=2060), [10-04](https://youtu.be/n4KkK-OJjqA?t=1291), [07-20](https://youtu.be/-KS_AZjZnw4?t=1337))
-- His role is unclear. He could be traded, bought out or benched, because the Kings are focused on the future and could pull his minutes. Many experts call this the main risk to his value. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2624), [09-30](https://youtu.be/BjXP9JODDSg?t=1734), [09-10](https://youtu.be/dlo7L8Ru91A?t=2047), [09-10](https://youtu.be/W-R1dzem32s?t=1748), [09-09](https://youtu.be/7BllEsdNLoM?t=2163), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1728), [09-01](https://youtu.be/80kfLVnFQ_s?t=1701), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1936), [07-31](https://youtu.be/oEywzBZfAvY?t=2228), [07-31](https://youtu.be/oEywzBZfAvY?t=2547), [09-09](https://youtu.be/7BllEsdNLoM?t=2174), [09-10](https://youtu.be/W-R1dzem32s?t=1760), [09-30](https://youtu.be/BjXP9JODDSg?t=1494))
-- He is still a good offensive player and goes late in many drafts. Experts call him good value at his round 9 to 10 price. He could easily be a top-80 player, and he is a top-50 player when he is firing. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2624), [09-30](https://youtu.be/BjXP9JODDSg?t=1734), [09-24](https://youtu.be/_vbAP5y182A?t=1925), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1936), [08-24](https://youtu.be/g31YlwRe0XQ?t=1846))
-- In 9-cat mock drafts he went at pick 107 in a 10-team league and at pick 114 in a 12-team league. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1734), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1728))
-- Schroder, Westbrook and DeRozan are gone. He now shares the ball mainly with Sabonis. (fact, 2026-09-17; [07-20](https://youtu.be/-KS_AZjZnw4?t=1254), [09-10](https://youtu.be/W-R1dzem32s?t=1748), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1936), [07-20](https://youtu.be/-KS_AZjZnw4?t=1254), [09-17](https://youtu.be/DubdKKhMWHo?t=908))
-- Two experts rank him in tier 8. They say he should easily beat that ranking per game and would be two tiers higher without the Kings risk. (verdict, 2026-09-10; [09-09](https://youtu.be/7BllEsdNLoM?t=2163), [09-10](https://youtu.be/dlo7L8Ru91A?t=2047))
-- Experts expect more usage and more ball handling than last season. One expects him to start and play 30+ minutes. (verdict, 2026-09-09; [07-20](https://youtu.be/-KS_AZjZnw4?t=1254), [07-31](https://youtu.be/oEywzBZfAvY?t=846), [09-09](https://youtu.be/7BllEsdNLoM?t=2163))
-- He opted into a 1-year, 49 million USD contract after he could not find a new team. It is the final year of his deal, and the Kings have no interest in extending him. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=733), [07-20](https://youtu.be/-KS_AZjZnw4?t=1338), [06-25](https://youtu.be/lOshTzDA4SA?t=929))
-- He is a projected starter for the Kings, next to Acuff, Hunter, Murray and Sabonis. Nobody is pushing that group for a starting spot. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691), [07-01](https://youtu.be/W3THnI7wWdA?t=1324))
-- Coach Ham calls him the Kings' second best player behind Sabonis. Ham says LaVine's scoring gravity helps the young players. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=767))
-- He finished 115th last season. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1226))
-- Last season he converted only 46.7% of his potential assists while playing with poor shooters. With Westbrook and DeRozan gone, his assists could rise a lot. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1857), [07-17](https://youtu.be/NYTH7uQsPCM?t=1820))
+- Schroder, Westbrook and DeRozan have left Sacramento. He now shares the ball mainly with Sabonis. (fact, 2026-10-08; [07-20](https://youtu.be/-KS_AZjZnw4?t=1254), [09-10](https://youtu.be/W-R1dzem32s?t=1748), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1936), [07-20](https://youtu.be/-KS_AZjZnw4?t=1254), [10-08](https://youtu.be/6DnRWahYrFA?t=407))
+- Experts expect Sacramento near the bottom of the league, but they disagree on how the team will act. Lloyd expects the Kings to trade or sit veterans. Others expect the team to keep trying to win games to stay out of the relegation zone. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=407), [07-31](https://youtu.be/oEywzBZfAvY?t=2438), [07-27](https://youtu.be/0AptxcRW0RE?t=2060), [10-04](https://youtu.be/n4KkK-OJjqA?t=1291), [07-20](https://youtu.be/-KS_AZjZnw4?t=1337))
+- His role is unclear. The rebuilding Kings could trade him, buy him out, bench him or cut his minutes, and that risk drags his draft value down. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2624), [09-30](https://youtu.be/BjXP9JODDSg?t=1734), [09-30](https://youtu.be/BjXP9JODDSg?t=1494), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1936), [09-10](https://youtu.be/dlo7L8Ru91A?t=2047), [09-10](https://youtu.be/W-R1dzem32s?t=1748), [09-09](https://youtu.be/7BllEsdNLoM?t=2163), [09-09](https://youtu.be/7BllEsdNLoM?t=2174), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1728), [09-01](https://youtu.be/80kfLVnFQ_s?t=1701), [07-31](https://youtu.be/oEywzBZfAvY?t=2228), [07-31](https://youtu.be/oEywzBZfAvY?t=2547))
+- Experts see him as good value at his market price. Without the Kings risk he would rank two tiers higher. He should easily beat his ranking per game, could be a top-80 player, and is a top-50 player when he is firing. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1734), [09-10](https://youtu.be/dlo7L8Ru91A?t=2047), [09-09](https://youtu.be/7BllEsdNLoM?t=2163), [09-24](https://youtu.be/_vbAP5y182A?t=1925), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1936))
+- One expert expects him to start and play 30 or more minutes. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2163))
+- He opted into a 1-year, 49 million USD contract after he could not find a new team. This is the final year of his deal, and the Kings have no interest in extending him. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=733), [07-20](https://youtu.be/-KS_AZjZnw4?t=1338), [06-25](https://youtu.be/lOshTzDA4SA?t=929))
+- Experts expect more usage and more ball handling for him, and a bigger part in the offense. (verdict, 2026-07-31; [07-20](https://youtu.be/-KS_AZjZnw4?t=1254), [07-31](https://youtu.be/oEywzBZfAvY?t=846))
+- He is a projected starter next to Acuff, Hunter, Murray and Sabonis. Coach Ham calls him the Kings' second best player behind Sabonis. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691), [07-31](https://youtu.be/oEywzBZfAvY?t=767), [07-01](https://youtu.be/W3THnI7wWdA?t=1324))
+- Coach Doug Christie is under the most pressure and may lean on veterans to win games. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=2025))
+- His assists could rise a lot. Better-shooting teammates and better luck should help him convert more potential assists. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1857))
 
 **Durable**
-- He shot well even when he was used mainly as a spot-up shooter. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=846))
-- He is a poor defender and is 31 years old. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=836))
-- His category strengths are 3PM, FT%, points and FG% for a guard. He is weak in steals, blocks and rebounds, but none of these is a league outlier. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1231), stats)
+- He is a poor defender. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=836))
+- He is an efficient shooter. He has elite free throw shooting, an elite field goal percentage for his position and a good three-point percentage. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1231), stats)
+- His steals are very poor. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1231), stats)
 
 **Tags**
-- Current: `contract year` (1-year, 49 million USD player option; Kings will not extend him), `trade risk` (Could be traded, bought out or benched by the rebuilding Kings), `role up` (More usage and ball handling with Schroder, Westbrook and DeRozan gone), `bounce-back` (Finished 115th last season), `sleeper` (Goes around pick 103 to 114; experts see top-80 upside), `shutdown risk` (Kings focused on the future could pull his minutes or bench him), `sites disagree on price` (Yahoo rank 99 and value 4 USD; ESPN rank 158 and value 0), `bottom team` (About 21.5 to 27 wins projected), `usage freed` (Schroder, Westbrook and DeRozan gone), `trades likely` (Sabonis or LaVine trade or buyout possible)
-- Durable: `fits every build`
+- Current: `contract year` (Final year of a 1-year, 49 million USD deal. Kings do not plan to extend him.), `trade risk` (Trade, buyout or benching possible on a rebuilding Kings team.), `role up` (More usage and ball handling expected with Schroder, Westbrook and DeRozan gone.), `usage freed` (Schroder, Westbrook and DeRozan left Sacramento.), `bounce-back` (Named a 2026-27 bounce-back candidate.), `sleeper` (Goes around picks 103 to 116. Experts see top-80 upside.), `sites disagree on price` (Yahoo rank 103 and value 5 USD. ESPN rank 159 and value 0 USD.), `shutdown risk` (Lloyd expects the Kings to trade or sit veterans.), `bottom team` (Vegas has about 21.5 to 22.5 wins. Hosts predict 26 or 27.), `tank risk` (The Kings are in a teardown, but they also want to stay out of the relegation zone.), `trades likely` (Trades of LaVine or Sabonis are possible.), `coach hot seat` (Doug Christie is under the most pressure.)
+- Durable: none
 
-**Note.** LaVine is cheap: Yahoo values him at 4 USD (rank 99), ESPN at 0 USD (rank 158), and he cost 12 USD in our league last season. That makes him a good late target at 1 to 5 USD for any build, since 3PM, FT% and points from a guard with a good FG% hurt no punt. He played only 25 and 39 games in two of the last three seasons, and his role in Sacramento is uncertain. Check early whether he starts with 30+ minutes and gets the bigger ball-handling role (ESPN projects 20.5 points on 14.9 shots, Yahoo only 17.0 on 12.1), and watch for trade or buyout news before the 2027-03-04 deadline.
+**Note.** He costs almost nothing on the market (1.2 USD average cost on both sites, Yahoo value 5 USD, ESPN rank 159), but our league paid 12 USD for him last season. He goes around picks 107 to 114 in 9-cat mocks, and experts see top-80 upside if he keeps his starter role. At 1 to 5 USD he is a cheap source of 3PM, PTS and FT% with a good FG% for a guard, so he fits builds that can live with weak steals, blocks and rebounds. Early in the season, check that he still starts with 30 or more minutes and more usage, and watch for trade, buyout or benching news from Sacramento.
 
-<sub>20 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>21 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

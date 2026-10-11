@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 57 | 64.4 | 5 | 54 | 56.6 | 11 | 55 |
+| 2026-27 | 57 | 63.1 | 5 | 54 | 57.5 | 11 | 55 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,45 +19,41 @@
 |---|---|---|---|---|
 | FG% | 46.1% | -0.6 | -0.3 | - |
 | FT% | 82.4% | +0.7 | +0.4 | - |
-| 3PM | 2.0 | +0.6 | +0.3 | - |
-| PTS | 24.8 | +1.9 | +1.7 | - |
+| 3PM | 2.0 | +0.6 | +0.2 | - |
+| PTS | 24.8 | +1.8 | +1.7 | - |
 | REB | 5.8 | +0.3 | +1.4 | - |
 | AST | 9.7 | +3.4 | +3.0 | league outlier, strong |
 | STL | 1.3 | +1.2 | +0.9 | - |
 | BLK | 0.8 | +0.4 | +1.8 | - |
-| TO | 3.9 | -3.1 | -2.8 | league outlier, weak, weak for his position (punt fit) |
+| TO | 3.9 | -3.0 | -2.7 | league outlier, weak, weak for his position (punt fit) |
 
 </details>
 
 **Current**
-- Josh would pay no more than 45 USD for him in an auction. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=612))
+- Yahoo lists him as questionable for rest. A team preview found no notable injuries on the roster. (fact, 2026-10-11; stats, [10-03](https://youtu.be/_O9pc_u5vH0?t=1862))
+- Experts rank him around 8th to 10th in category leagues, below his Yahoo rank of 5. Taking him at pick 5 is a mild overpay; pick 6 or 7 is fine. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=1660), [10-03](https://youtu.be/_O9pc_u5vH0?t=590), [10-03](https://youtu.be/_O9pc_u5vH0?t=558), [10-03](https://youtu.be/_O9pc_u5vH0?t=606), [09-16](https://youtu.be/2A2JbUN-kc0?t=1876))
+- Auction price calls differ. Josh would pay no more than 45 USD. Another expert values him at about 50 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=612), [09-29](https://youtu.be/XnIWJyBB0EM?t=1190))
 - He went for 48 USD in an expert auction mock draft. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=612))
-- Experts rank him around 8th to 10th in 9-cat leagues, behind Jayson Tatum and Anthony Edwards. He is not worth pick 5 but is fine at pick 6 or later. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=590), [10-03](https://youtu.be/_O9pc_u5vH0?t=558), [10-03](https://youtu.be/_O9pc_u5vH0?t=606), [09-16](https://youtu.be/2A2JbUN-kc0?t=1876))
-- Detroit lost creation with Tobias Harris and has very few creators besides him. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=229), [07-07](https://youtu.be/ME-r173X5b0?t=1114))
-- Detroit's projected starting five is the same as last season, with him at guard. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=374), [08-12](https://youtu.be/p9XE5jFqhvs?t=526))
-- He has no injury now. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1862))
-- Detroit plays 4, 3 and 4 games in our playoff weeks 19 to 21. The team has 15 back-to-backs, and no rest is expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
-- If he is nominated early in an auction, he can go well below his value. (verdict, 2026-09-29; [09-29](https://youtu.be/XnIWJyBB0EM?t=1190))
-- He is projected for about 31 usage in 34 minutes. (fact, 2026-09-16; [09-09](https://youtu.be/7BllEsdNLoM?t=520), [09-16](https://youtu.be/2A2JbUN-kc0?t=1876))
-- His usage may go up after the roster changes. A bigger offensive load could hurt his FG% and FT%. (verdict, 2026-09-16; [09-09](https://youtu.be/7BllEsdNLoM?t=520), [09-16](https://youtu.be/2A2JbUN-kc0?t=1876))
-- The team wants him to get more catch-and-shoot threes, with Ausar Thompson running some of the offense. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1602))
-- Detroit is projected for 50 to 51 wins and a third or fourth seed in the East. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1765))
-- He led his group in potential assists (24.7 per 100), so his assists could go over 10 per game unless Daniss Jenkins takes a bigger role. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=1125), [07-07](https://youtu.be/ME-r173X5b0?t=1114))
+- Experts rank him below consensus in 9-cat because of his shaky FG% and FT%. They want his FT% back above 85%. A bigger offensive load could hurt his efficiency further. (verdict, 2026-10-03; [09-16](https://youtu.be/2A2JbUN-kc0?t=426), [09-16](https://youtu.be/2A2JbUN-kc0?t=1876), [10-03](https://youtu.be/_O9pc_u5vH0?t=514))
+- Detroit lost creation when Tobias Harris left and has very few creators besides Cade. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=229), [07-07](https://youtu.be/ME-r173X5b0?t=1114))
+- Detroit plays 4-3-4 games in our playoff weeks 19 to 21. The team has 15 back-to-backs, and no rest is expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
+- His usage may rise from about 31 after the roster changes. He led his group in potential assists, so his assists could go over 10 per game unless Daniss Jenkins takes a bigger role. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=520), [07-07](https://youtu.be/ME-r173X5b0?t=1125), [07-07](https://youtu.be/ME-r173X5b0?t=1114))
+- One expert is not particularly worried about his injury history. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=554))
+- Detroit wants him to take more catch-and-shoot threes, with Ausar Thompson running some of the offense. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1602))
+- Detroit is projected to win 50 to 51 games and finish third or fourth in the East. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1765))
 
 **Durable**
-- He is an elite assist source. Assists are his best category by far. (fact, 2026-10-05; stats)
-- He commits many turnovers, which clearly hurts the TO category. (fact, 2026-10-05; stats)
-- He has a spotty injury history. It includes a punctured lung, a lung issue at the end of last season, and lower body problems in recent years. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=526), [09-09](https://youtu.be/7BllEsdNLoM?t=554), [09-16](https://youtu.be/2A2JbUN-kc0?t=426))
-- He is worth more in points leagues than in 9-cat. He could finish ahead of Shai Gilgeous-Alexander in points but only around 8th or 9th in categories. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=606), [09-16](https://youtu.be/2A2JbUN-kc0?t=426))
-- He carries a heavy creation load. This hurts his finishing and two-point percentage, so FG% is a mild weakness. (fact, 2026-09-23; [08-12](https://youtu.be/p9XE5jFqhvs?t=981), [09-23](https://youtu.be/C4vlgpJ62NI?t=1913))
-- His free throws are fine but not strong. Experts want his FT% back over 85%. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1913), [09-16](https://youtu.be/2A2JbUN-kc0?t=426))
-- One expert is not particularly worried about his injury history. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=554))
-- Detroit is built on defense. The front office wants only enough offense. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1189))
+- Assists are his standout category, about 10 per game and far above the player pool. (fact, 2026-10-11; stats)
+- He commits many turnovers, about 4 per game. That is a league-wide weakness even for a lead guard. (fact, 2026-10-11; stats)
+- He is worth more in points leagues than in 9-cat, where turnovers and middling percentages hold him back. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=606), [09-16](https://youtu.be/2A2JbUN-kc0?t=1876))
+- His injury history is spotty. He has had lower-body problems in recent years and a punctured lung at the end of last season. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=526), [09-09](https://youtu.be/7BllEsdNLoM?t=554), [09-16](https://youtu.be/2A2JbUN-kc0?t=426))
+- His weaker categories are FG%, rebounds and blocks. His free throws are fine but not a strength. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1913))
+- He carries a heavy creation load, which hurts his finishing and his two-point percentage. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=981))
 
 **Tags**
-- Current: `usage freed` (Tobias Harris's creation is gone; his usage may rise), `bust candidate` (Yahoo rank 5 and 64.4 USD average cost, above the expert max of 45 USD), `sites disagree on price` (Yahoo rank 5 at 64.4 USD, ESPN rank 11 at 56.6 USD), `winning team` (50 to 51 wins projected), `good playoff schedule` (4-3-4 games in weeks 19 to 21)
-- Durable: `AST specialist` (about 9.7 assists per game projected), `high TO` (about 3.9 turnovers per game projected), `punt TO fit` (keeps first or second round value without TO), `points league player` (could top Shai Gilgeous-Alexander in points, only 8th to 9th in categories), `defense-first`
+- Current: `bust candidate` (mild bust at pick 5 or Yahoo rank 5; fine from pick 6 or 7), `role up` (usage may rise after Tobias Harris left; assists could top 10), `questionable` (Yahoo Q (Rest)), `winning team` (projected 50 to 51 wins), `low shutdown risk` (no rest risks expected)
+- Durable: `AST specialist` (about 10 assists per game), `high TO` (about 4 turnovers per game), `punt TO fit` (turnovers are his worst category), `points league player` (experts rank him higher in points than in 9-cat), `defense-first` (few other creators, so he carries the offense)
 
-**Note.** The market prices him as a top 5 player (Yahoo 64.4 USD average cost, ESPN 56.6 USD, 55 USD in our league last season), but category experts rank him 8th to 10th and cap him at 45 USD, so let others pay 55 USD or more. He fits a punt TO build best, where his elite assists, points and steals count fully and his 3.9 turnovers cost nothing. Early in the season, check whether his assists go over 10 and whether the bigger load drags his FG% and FT% down.
+**Note.** On average he costs 63.1 USD on Yahoo and 57.5 USD on ESPN, and he went for 55 USD in our league last season. Experts value him at 45 to 50 USD and rank him 8th to 10th in categories, so let someone else pay Yahoo prices. He is an assist anchor whose 3.9 turnovers per game are the worst part of his line, so he fits best in a punt TO build. Early in the season, check whether his FT% gets back toward 85% and whether his usage rises with Tobias Harris gone.
 
-<sub>19 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>20 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

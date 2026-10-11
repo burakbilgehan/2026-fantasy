@@ -67,9 +67,10 @@ Code checks (`app/knowledge/categories.py`): `strong:X` = z >= 2.0 against the t
 
 ### Category role
 - **3PM from a big** [durable]: A forward or center who makes many threes for his position, which helps builds that want threes from the frontcourt.
-- **3PM specialist** [durable]: Threes made are a real outlier: far above the top 250 pool. Code check: `strong:3PM`. (merged: 3PM source)
+- **3PM specialist** [durable]: Threes made are a real outlier: far above the top 250 pool. Code check: `strong:3PM`. (merged: 3PM source, one-category player, spot-up shooter)
 - **AST from a big** [durable]: A forward or center with guard-like assists. Rare, so it helps builds that need assists from the frontcourt. Code check: `bigstrong:AST`.
 - **AST specialist** [durable]: Assists are a real outlier: far above the top 250 pool. Code check: `strong:AST`.
+- **BLK from a guard** [durable]: A guard who blocks far more shots than other guards, which helps builds that need blocks from the backcourt.
 - **BLK specialist** [durable]: Blocks are a real outlier: far above the top 250 pool. Code check: `strong:BLK`.
 - **elite per game** [durable]: Per game line near the top of the league; his value question is games played, not quality.
 - **FG% anchor** [durable]: High FG% on high volume. Lifts a team's FG% clearly. Code check: `strong:FG%`.
@@ -80,6 +81,7 @@ Code checks (`app/knowledge/categories.py`): `strong:X` = z >= 2.0 against the t
 - **low TO** [durable]: Few turnovers for his role. Code check: `strong:TO`. (merged: low TO for usage)
 - **no 3PM** [durable]: Makes almost no threes. Code check: `no3pm`.
 - **PTS specialist** [durable]: Points are a real outlier: far above the top 250 pool, not just a good scorer. Code check: `strong:PTS`.
+- **REB from a guard** [durable]: A guard with forward-like rebounds, which helps builds that need rebounds from the backcourt.
 - **REB specialist** [durable]: Rebounds are a real outlier: far above the top 250 pool. Code check: `strong:REB`.
 - **STL specialist** [durable]: Steals are a real outlier: far above the top 250 pool. Code check: `strong:STL`.
 
@@ -99,10 +101,12 @@ Code checks (`app/knowledge/categories.py`): `strong:X` = z >= 2.0 against the t
 ### Role
 - **coach distrust** [current]: The head coach is reported to distrust the player, which caps his minutes and role.
 - **contract year** [current]: In the last year of his contract, so a new deal and a bigger role are at stake this season.
+- **elite defender** [durable]: Known as an elite NBA defender, which keeps him in the rotation even when he gives little on offense.
 - **minutes competition** [current]: Another player competes for the same minutes; his role is not clear yet. (merged: bench role)
 - **minutes limit** [current]: His team or coach holds his minutes below a full starter's load on purpose, even when he is healthy. (merged: coach limits minutes)
 - **needs playmaker** [durable]: Not a self-creator. His efficiency depends on a playmaker on the floor with him.
 - **new team** [current]: Changed NBA team since last season.
+- **position change** [current]: Moves to a different on-court role or position this season, which shifts his category mix.
 - **role down** [current]: Expected to get fewer minutes, less usage or a smaller role than last season.
 - **role up** [current]: Expected to get more minutes, usage or a bigger role than last season.
 - **rookie** [current]: First NBA season.
@@ -129,6 +133,7 @@ Code checks (`app/knowledge/categories.py`): `strong:X` = z >= 2.0 against the t
 - **back-to-back risk** [current]: Expected to sit some back-to-back games this season.
 - **consistent** [durable]: His game-to-game production varies very little, so his weekly output is reliable. (merged: consistent producer)
 - **cut candidate** [current]: His NBA team may waive him, so he could lose his roster spot and role.
+- **defensive liability** [durable]: Known as a very poor defender, which can cost him minutes on a team that is trying to win.
 - **foul prone** [durable]: Commits many fouls, which limits his minutes.
 - **injury prone** [durable]: Expected to miss games from a chronic or repeated injury (Lloyd: repeated injuries or surgery on the same lower-body part).
 - **load management** [durable]: Rests on purpose when healthy, often in back-to-backs. (merged: minutes cap)
@@ -147,7 +152,7 @@ Code checks (`app/knowledge/categories.py`): `strong:X` = z >= 2.0 against the t
 - **9-cat fluff** [durable]: His 9-cat rank is higher than his real H2H worth (see Nine-cat fluff in the glossary).
 - **category league player** [durable]: Worth clearly more in 9-cat category leagues than in points leagues, so points-based rankings and ADP underrate him.
 - **expert target** [current]: The expert ranks him clearly above the market and wants to draft him.
-- **points league player** [durable]: Worth clearly more in points leagues than in 9-cat. Rankings from points formats overrate him for us. (merged: fluff: overvalued by fantasy points)
+- **points league player** [durable]: Worth clearly more in points leagues than in 9-cat. Rankings from points formats overrate him for us. (merged: fluff: overvalued by fantasy points, empty scorer)
 - **sites disagree on price** [current]: Yahoo and ESPN prices or ranks differ a lot.
 - **undervalued by 9-cat** [durable]: Plain 9-cat rankings rate him lower than his real H2H worth. (merged: fluff: undervalued by 9-cat)
 

@@ -3,53 +3,51 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, ESPN | 71 | 32.3 | 39.8 (11.1) | 82.5 (1.6) | 3.1 | 13.3 | 4.1 | 4.3 | 1.0 | 0.4 | 2.1 |
+| 2026-27 proj, ESPN | 71 | 32.3 | 44.4 (11.1) | 83.3 (1.6) | 3.1 | 14.3 | 4.1 | 4.3 | 1.0 | 0.4 | 2.1 |
 | 2026-27 proj, Yahoo | 70 | - | 40.7 (10.2) | 83.5 (1.8) | 2.8 | 12.7 | 3.9 | 4.0 | 1.0 | 0.4 | 2.0 |
 | 2025-26 | 52 | 25.1 | 39.9 (8.6) | 83.1 (1.2) | 2.4 | 10.3 | 3.2 | 3.3 | 0.8 | 0.3 | 1.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 131 | 1 | 0.6 | 121 | not drafted |
+| 2026-27 | 0 | 0.0 | 143 | 2 | 0.8 | 107 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 40.3% | -1.5 | -1.6 | weak for his position (punt fit) |
-| FT% | 83.0% | +0.3 | -0.2 | - |
-| 3PM | 3.0 | +1.6 | +1.4 | - |
-| PTS | 13.0 | -0.2 | -0.2 | - |
+| FG% | 42.6% | -1.0 | -0.9 | - |
+| FT% | 83.4% | +0.3 | -0.1 | - |
+| 3PM | 3.0 | +1.7 | +1.4 | - |
+| PTS | 13.5 | -0.1 | -0.2 | - |
 | REB | 4.0 | -0.5 | +0.1 | - |
-| AST | 4.2 | +0.5 | +0.2 | - |
+| AST | 4.2 | +0.5 | +0.1 | - |
 | STL | 1.0 | +0.2 | -0.1 | - |
 | BLK | 0.4 | -0.4 | +0.1 | - |
-| TO | 2.0 | -0.5 | -0.4 | - |
+| TO | 2.0 | -0.5 | -0.3 | - |
 
 </details>
 
 **Current**
-- He finished outside the top 200 last season while dealing with a foot issue. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=994), [09-26](https://youtu.be/3UGI05PDvrE?t=944), [09-04](https://youtu.be/gerS7ibpaJo?t=1528))
-- Josh projects him around 120th with a wide range and upside to about 80th. He suggests taking him in round 10 or 11. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=994))
-- He is projected to start in the backcourt next to Mikel Brown Jr., at shooting guard. The Nets do not see him as a full-time point guard. He will play both on and off the ball. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=283), [08-21](https://youtu.be/uRsfijpBPok?t=1088), [07-23](https://youtu.be/LUTYUdXBG1M?t=1990), [09-26](https://youtu.be/3UGI05PDvrE?t=313), [08-21](https://youtu.be/uRsfijpBPok?t=488))
-- In summer league he averaged 19 points and 5 assists and hit 76% on six two-point attempts a game. He drove more and hit mid-range shots, but he could not hit threes. (fact, 2026-09-26; [07-23](https://youtu.be/LUTYUdXBG1M?t=1990), [09-26](https://youtu.be/3UGI05PDvrE?t=986), [08-21](https://youtu.be/uRsfijpBPok?t=1046))
-- Experts expect more usage and better efficiency in year two. At best he is the third offensive option and he competes for touches, so Josh sees his usage rising only from 19.5 to about 20 or 21. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=944), [09-04](https://youtu.be/gerS7ibpaJo?t=1528))
-- He is Josh's best upside target in all formats for year two, and his market price is good value. He is a solid late flyer. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1388), [09-26](https://youtu.be/3UGI05PDvrE?t=944), [09-04](https://youtu.be/gerS7ibpaJo?t=1528))
-- Brooklyn does not own its pick, so it has no reason to tank. In the second half the Nets could hand more minutes to young players, Demin included. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-26](https://youtu.be/3UGI05PDvrE?t=1628))
-- Brooklyn plays 3, 4 and 3 games in weeks 19 to 21, so 10 playoff games, with only one playoff back-to-back. They have 16 back-to-backs this season, tied for the most in the league. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
-- The Nets see him as an integral piece and expect a leap as an on-ball creator and interior scorer. That could unlock more pick and roll playmaking. (verdict, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=1159))
-- With Julius Randle in Brooklyn, he is expected to handle the ball less. (verdict, 2026-06-25; [06-23](https://youtu.be/9tb1ARBEmQU?t=686), [06-25](https://youtu.be/lOshTzDA4SA?t=1160))
+- He dealt with a foot issue last season and finished outside the top 200 (230th in categories). (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=994), [09-04](https://youtu.be/gerS7ibpaJo?t=1528), [09-26](https://youtu.be/3UGI05PDvrE?t=944))
+- Josh projects him around 120th with a wide range and upside of about 80th, which makes him a round 10 to 11 pick. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=994))
+- He is projected to start in the backcourt at shooting guard next to Mikel Brown Jr. The Nets do not see him as a full-time point guard, and he will play both on and off the ball. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=283), [08-21](https://youtu.be/uRsfijpBPok?t=1088), [09-26](https://youtu.be/3UGI05PDvrE?t=313), [08-21](https://youtu.be/uRsfijpBPok?t=488), [07-23](https://youtu.be/LUTYUdXBG1M?t=1990))
+- At best he is the third offensive option and competes for touches. Josh expects his usage to rise only a little, from 19.5 to about 20 or 21, with better efficiency. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=944), [09-04](https://youtu.be/gerS7ibpaJo?t=1528))
+- In summer league he averaged 19 and 5 and hit 76% on six two-pointers a game. He drove more and hit mid-range shots but could not hit threes. (fact, 2026-09-26; [07-23](https://youtu.be/LUTYUdXBG1M?t=1990), [09-26](https://youtu.be/3UGI05PDvrE?t=986), [08-21](https://youtu.be/uRsfijpBPok?t=1046))
+- Josh calls him his best upside target in all formats for year two. Another expert sees him as a solid late flyer. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1388), [09-04](https://youtu.be/gerS7ibpaJo?t=1528))
+- Brooklyn does not own its pick, so it has no reason to tank. Second-half minutes are uncertain, and the team could hand more development minutes to young players including Demin. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [07-13](https://youtu.be/Rqb5GdrSweY?t=622))
+- Brooklyn has 16 back-to-backs, tied for the most in the league. With a March 28 end, its playoff schedule is 3-4-3, so 10 games, with one back-to-back in the playoff weeks. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
+- The Nets see him as a key piece and expect a second-year leap as an on-ball creator and interior scorer. That could open up more pick and roll playmaking. (verdict, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=1159))
+- He will handle the ball less with Julius Randle in Brooklyn, because Randle will handle the ball a lot. (verdict, 2026-06-23; [06-23](https://youtu.be/9tb1ARBEmQU?t=686), [06-25](https://youtu.be/lOshTzDA4SA?t=1160))
 
 **Durable**
-- His category value rests on threes. FG% is his weak category, so he fits punt FG% builds. (verdict, 2026-10-04; stats, [09-04](https://youtu.be/gerS7ibpaJo?t=1549))
-- As a rookie he was mostly a three-point shooter. He hit 39% on six threes a game and 43% on about two twos a game. He rarely got to the basket or the line, and he shot under 40% from the field. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=920), [09-04](https://youtu.be/gerS7ibpaJo?t=1549), [08-21](https://youtu.be/uRsfijpBPok?t=1046))
+- As a rookie he was mostly a three-point shooter. He hit 39% on about six threes a game, took only about two twos a game and made 43% of them, rarely got to the line and shot under 40% from the field. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=920), [09-04](https://youtu.be/gerS7ibpaJo?t=1549), [08-21](https://youtu.be/uRsfijpBPok?t=1046))
 - At BYU he was a point guard with big passing numbers who could not shoot. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=920), [08-21](https://youtu.be/uRsfijpBPok?t=1046))
-- His defensive stats are poor and he is not a big rebounder. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=986))
-- Coach Jordi Fernandez wants several ball handlers and connective playmakers rather than one traditional point guard. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=1120))
+- His defensive stats are poor and he is not a big rebounder. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=986))
 
 **Tags**
-- Current: `breakout` (second-year leap expected as an on-ball creator and interior scorer), `sleeper` (Josh's best upside target; market prices him at 0 to 1 USD), `flyer` (projected about 120th, upside about 80th), `role up` (projected starter at shooting guard, usage up to about 20 or 21), `injury last season` (foot issue, 52 games played), `bad playoff schedule` (3-4-3 for 10 games in weeks 19 to 21, but only one back-to-back)
-- Durable: `punt FG fit` (projected about 40% FG on about 10.7 attempts; threes are his best category)
+- Current: `breakout` (Second-year leap expected as a starter with more usage and better efficiency), `role up` (Projected starter with slightly higher usage), `expert target` (Josh's best upside target for year two, projected around 120th), `sleeper` (Yahoo values him at 0 USD while experts like his upside), `flyer` (Late pick with upside around 80th), `usage competition` (Third option at best behind Randle, with Brown and Porter also on the ball), `injury last season` (Foot issue, 52 games), `shared ball handling` (Fernandez wants multiple ball handlers; Randle handles a lot), `many back-to-backs` (16 back-to-backs, tied for most in the league), `bad playoff schedule` (3-4-3, only 10 games in weeks 19 to 21), `bottom team` (About 28 wins projected)
+- Durable: none
 
-**Note.** Both sites price him at 0 to 1 USD (Yahoo rank 131, ESPN 121), and Josh projects him around 120th with upside near 80th. In our 144-player draft he is an end-game 1 to 2 USD pick. He fits best on punt FG% teams that want threes (about 3 per game projected) with some assists. Early in the season, check that he starts and that his summer-league two-point volume carries over. Above all, watch whether his FG% climbs from 39.9%, because that decides whether he is worth holding.
+**Note.** The market has him on the edge of our 144-player pool (Yahoo rank 143 at 0 USD, ESPN rank 107 at 2 USD), while Josh projects him around 120th with upside near 80th. That makes him a cheap 1 to 2 USD end-of-draft flyer for teams that want threes, though his FG% is a real risk. Early on, check whether he starts, whether his summer-league two-point volume holds up and lifts his FG% above last season's 39.9%, and how many assists he gets next to Randle. Keep in mind the weak 3-4-3 playoff schedule.
 
-<sub>13 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>13 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

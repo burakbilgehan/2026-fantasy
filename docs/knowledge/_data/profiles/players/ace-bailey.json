@@ -8,88 +8,116 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "f1531b5022f2",
- "note_count": 12,
- "built_at": "2026-10-04T17:21:52+00:00",
+ "input_sha": "1afac44b8d47",
+ "note_count": 14,
+ "built_at": "2026-10-11T09:10:38+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1521102,
-  "duration_ms": 40324
+  "cost_usd_list": 0.205716,
+  "duration_ms": 55939,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Most experts expect him to come off the bench. Utah is healthy again with Jaren Jackson Jr., Lauri Markkanen and Keyonte George, and Jusuf Nurkic is expected to start at center.",
+   "text": "Experts expect him to come off the bench this season, even with Jusuf Nurkic hurt.",
    "kind": "verdict",
-   "date": "2026-10-02",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
+    "sDzeYdUhJDI:p40",
+    "WXO8MfQfzo0:p43",
     "ZYllcj4o6_A:p47",
-    "ZYllcj4o6_A:t0",
     "uarqbNA2dFk:p25",
-    "uarqbNA2dFk:t2",
     "dlo7L8Ru91A:p41",
     "gerS7ibpaJo:p23",
-    "CI4k8ofUXXk:p2",
-    "xHRF06_E9HE:p40"
+    "xHRF06_E9HE:p40",
+    "RyzcCGChYgs:p3",
+    "CI4k8ofUXXk:p2"
    ]
   },
   {
-   "text": "One expert still names him as a possible starter at the fifth spot next to Nurkic.",
-   "kind": "verdict",
-   "date": "2026-09-21",
-   "until": "",
-   "sources": [
-    "egRrai3Ax38:t4",
-    "P6TNP-g0wzY:t2"
-   ]
-  },
-  {
-   "text": "If Jaren Jackson Jr. moves to center, Bailey starts and does more.",
-   "kind": "verdict",
-   "date": "2026-07-02",
-   "until": "",
-   "sources": [
-    "P6TNP-g0wzY:p12"
-   ]
-  },
-  {
-   "text": "Walker Kessler has left Utah, and the Jazz added Darryn Peterson.",
+   "text": "Jusuf Nurkic is hurt. In the preseason Jaxson Hayes started at center, because Utah does not want Jaren Jackson Jr. playing much center.",
    "kind": "fact",
-   "date": "2026-08-19",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "ZYllcj4o6_A:t0",
-    "LM0cRCGoAUQ:t4",
-    "xHRF06_E9HE:t4",
-    "J1Eg3uaAICU:t3",
-    "CI4k8ofUXXk:t1"
+    "sDzeYdUhJDI:p40",
+    "sDzeYdUhJDI:t7"
    ]
   },
   {
-   "text": "Utah has a crowded frontcourt and usage group: Markkanen, Jackson Jr., George and Peterson all take touches.",
-   "kind": "fact",
-   "date": "2026-08-26",
+   "text": "He is expected to play about 30 minutes a game as a bench player. He has looked good in the preseason.",
+   "kind": "verdict",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "sTtFUy7IoJI:t6",
-    "-y6p5PYLf00:t4",
-    "lOshTzDA4SA:t2",
-    "-rgXhs5BHiw:t1"
+    "sDzeYdUhJDI:p40",
+    "RyzcCGChYgs:p3"
    ]
   },
   {
-   "text": "Expected bench role is close to 30 minutes a game, and he is expected to be part of the closing lineup.",
+   "text": "He is expected to be part of the closing lineup.",
    "kind": "verdict",
    "date": "2026-08-05",
    "until": "",
    "sources": [
-    "RyzcCGChYgs:p3",
     "CI4k8ofUXXk:p4"
    ]
   },
   {
-   "text": "When Peterson and Markkanen sit, the offense is expected to run through him, so his stats could rise in those games.",
+   "text": "Most of his good production last season came late in the year, when Utah sat its veterans.",
+   "kind": "fact",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "OBwWCxG9SqM:p6",
+    "ZYllcj4o6_A:p47",
+    "uarqbNA2dFk:p25",
+    "xHRF06_E9HE:p40"
+   ]
+  },
+  {
+   "text": "Experts say his late-season numbers will not repeat. Utah is healthy, is trying to win and is not expected to tank, so those minutes will not be there.",
+   "kind": "verdict",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:p40",
+    "dlo7L8Ru91A:p41",
+    "gerS7ibpaJo:p23",
+    "uarqbNA2dFk:p25",
+    "xHRF06_E9HE:t4",
+    "sTtFUy7IoJI:t6",
+    "J1Eg3uaAICU:t3"
+   ]
+  },
+  {
+   "text": "Utah has a crowded roster. Lauri Markkanen, Jaren Jackson Jr., Keyonte George and Darryn Peterson all take usage.",
+   "kind": "fact",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:t2",
+    "-y6p5PYLf00:t4",
+    "sTtFUy7IoJI:t6"
+   ]
+  },
+  {
+   "text": "Experts see him only as a last-round flyer outside the top 120. He is tier 8 in category leagues and is overdrafted at a 3 USD auction price.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "WXO8MfQfzo0:p43",
+    "uarqbNA2dFk:p25",
+    "gerS7ibpaJo:p23",
+    "dlo7L8Ru91A:p41"
+   ]
+  },
+  {
+   "text": "When Darryn Peterson and Lauri Markkanen sit, the offense should run through him and his stats could rise.",
    "kind": "verdict",
    "date": "2026-08-05",
    "until": "",
@@ -98,51 +126,10 @@
    ]
   },
   {
-   "text": "His best production last season came late, when Utah sat its veterans.",
-   "kind": "fact",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:p47",
-    "uarqbNA2dFk:p25",
-    "OBwWCxG9SqM:p6",
-    "gerS7ibpaJo:p23",
-    "dlo7L8Ru91A:p41",
-    "xHRF06_E9HE:p40"
-   ]
-  },
-  {
-   "text": "Experts say those late-season numbers will not carry over. Utah is trying to win this season, so the late-year minutes from tanking should not open up.",
-   "kind": "verdict",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:p47",
-    "uarqbNA2dFk:p25",
-    "dlo7L8Ru91A:p41",
-    "gerS7ibpaJo:p23",
-    "xHRF06_E9HE:p40",
-    "xHRF06_E9HE:t4",
-    "J1Eg3uaAICU:t3",
-    "dlo7L8Ru91A:t2"
-   ]
-  },
-  {
-   "text": "He is only a last-round flyer outside the top 120 (tier 8 in category leagues). He is overdrafted at a 3 USD auction price, while similar players go for 0 USD.",
-   "kind": "verdict",
-   "date": "2026-09-19",
-   "until": "",
-   "sources": [
-    "uarqbNA2dFk:p25",
-    "gerS7ibpaJo:p23",
-    "dlo7L8Ru91A:p41"
-   ]
-  },
-  {
-   "text": "He is the number two prospect in the Utah organization and could take Keyonte George's spot as the secondary scorer within a year.",
+   "text": "He is the number two prospect in the organization and could take Keyonte George's place as the secondary scorer within a year.",
    "kind": "verdict",
    "date": "2026-08-05",
-   "until": "within a year",
+   "until": "",
    "sources": [
     "CI4k8ofUXXk:p5"
    ]
@@ -150,7 +137,16 @@
  ],
  "durable": [
   {
-   "text": "He is worth more in points leagues (tier 6) than in category leagues (tier 8).",
+   "text": "His category line has no real outlier. Threes are his best category. FG% and assists are his weakest, but only mildly.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He is worth more in points leagues than in category leagues.",
    "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
@@ -161,62 +157,78 @@
  ],
  "tags": [
   {
-   "name": "minutes competition",
-   "channel": "current",
-   "detail": "Competes with Jusuf Nurkic for the fifth starter spot in a crowded frontcourt with Markkanen and Jackson Jr.",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:t0",
-    "P6TNP-g0wzY:t2",
-    "egRrai3Ax38:t4",
-    "sTtFUy7IoJI:t6",
-    "uarqbNA2dFk:t2"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "flyer",
    "channel": "current",
-   "detail": "Last-round flyer outside the top 120",
+   "detail": "last-round flyer outside the top 120",
    "until": "",
    "sources": [
+    "WXO8MfQfzo0:p43",
     "uarqbNA2dFk:p25",
     "gerS7ibpaJo:p23"
    ],
    "new_meaning": ""
   },
   {
-   "name": "bust candidate",
+   "name": "minutes competition",
    "channel": "current",
-   "detail": "Overdrafted at a 3 USD auction price; late-season numbers were inflated",
+   "detail": "expected to come off the bench behind Utah's healthy frontcourt, even with Nurkic out",
    "until": "",
    "sources": [
+    "sDzeYdUhJDI:p40",
+    "ZYllcj4o6_A:p47",
+    "uarqbNA2dFk:p25",
+    "sDzeYdUhJDI:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Markkanen, Jackson Jr., George and Peterson take the usage",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:t2",
+    "-y6p5PYLf00:t4",
+    "RyzcCGChYgs:p3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "regression risk",
+   "channel": "current",
+   "detail": "his late-season numbers came while Utah sat its veterans",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:p40",
+    "dlo7L8Ru91A:p41",
     "gerS7ibpaJo:p23",
-    "dlo7L8Ru91A:p41"
+    "OBwWCxG9SqM:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "crowded Utah frontcourt and wings",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:t6",
+    "xHRF06_E9HE:t4",
+    "-y6p5PYLf00:t4"
    ],
    "new_meaning": ""
   },
   {
    "name": "points league player",
    "channel": "durable",
-   "detail": "Tier 6 in points leagues, tier 8 in category leagues",
+   "detail": "tier 6 in points leagues, tier 8 in category leagues",
    "until": "",
    "sources": [
     "dlo7L8Ru91A:p41"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "fits every build",
-   "channel": "durable",
-   "detail": "No weak category, but also no strong one; all categories close to average",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "He sits right at our 144-player cutoff (Yahoo rank 159, ESPN 127, Yahoo value 0, ESPN 1 USD), and we paid 1 USD for him last season. Pay 1 USD at most, only as the last pick. His projected line is close to average in every category, so he fits any build but does not win any category. Early in the season, check whether he or Nurkic starts and whether his minutes reach about 30. If he stays a bench player behind Markkanen and Jackson Jr., he is easy to drop.",
+ "note": "He sits right at the edge of our 144-player draft. Yahoo ranks him 147th (0 USD) and ESPN 124th (1 USD), and he went for 1 USD in our last auction. Experts expect a bench role behind Utah's healthy core, and his line has no standout category, so he is a 1 USD last-round flyer at most, or a waiver name. Early in the season, check whether he gets about 30 minutes while Nurkic is out and whether he gets into the starting lineup.",
  "rejected": []
 }

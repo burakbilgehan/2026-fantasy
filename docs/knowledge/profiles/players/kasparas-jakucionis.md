@@ -3,45 +3,46 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, ESPN | 68 | 22.6 | 42.8 (5.7) | 88.1 (1.6) | 1.6 | 7.9 | 3.3 | 3.3 | 0.8 | 0.2 | 1.2 |
+| 2026-27 proj, ESPN | 68 | 22.6 | 45.1 (5.7) | 86.2 (1.6) | 1.5 | 8.0 | 3.3 | 3.3 | 0.8 | 0.2 | 1.2 |
 | 2026-27 proj, Yahoo | 75 | - | 42.0 (6.0) | 84.2 (1.5) | 1.4 | 7.7 | 3.2 | 3.4 | 0.7 | 0.2 | 1.2 |
 | 2025-26 | 53 | 17.9 | 42.9 (4.5) | 87.9 (1.2) | 1.2 | 6.2 | 2.6 | 2.6 | 0.6 | 0.1 | 0.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 342 | 0 | 0.0 | 242 | not drafted |
+| 2026-27 | 0 | - | 342 | 0 | 0.0 | 237 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 42.4% | -0.6 | -0.2 | - |
-| FT% | 86.2% | +0.4 | +0.1 | - |
+| FG% | 43.5% | -0.5 | -0.1 | - |
+| FT% | 85.3% | +0.4 | -0.0 | - |
 | 3PM | 1.5 | -0.0 | -0.4 | - |
-| PTS | 7.8 | -1.1 | -1.1 | - |
+| PTS | 7.9 | -1.1 | -1.1 | - |
 | REB | 3.2 | -0.8 | -0.4 | - |
 | AST | 3.3 | +0.1 | -0.3 | - |
-| STL | 0.7 | -0.6 | -0.8 | - |
+| STL | 0.7 | -0.6 | -0.9 | - |
 | BLK | 0.2 | -0.8 | -0.8 | - |
-| TO | 1.2 | +0.6 | +0.7 | - |
+| TO | 1.2 | +0.6 | +0.8 | - |
 
 </details>
 
 **Current**
-- Milwaukee's backcourt is crowded. Rollins, Herro, Porter, Burries, Trent and Green all compete with him for guard minutes. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [06-23](https://youtu.be/nnWX_ObljOE?t=243), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609))
-- He came to Milwaukee in the Giannis Antetokounmpo trade and is seen as the piece that sealed that deal. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=693))
-- Milwaukee could use him as a trade chip. Experts value him like a first-round pick. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=693))
-- He is not in Milwaukee's projected starting five. The projected starters are Rollins, Herro, Jaquez, Ware and Turner. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=536))
-- He put up good assist and steal numbers in Summer League. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1163))
-- He has no clear role in Milwaukee, and the expert is still skeptical about his fantasy value this season. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1163))
+- Milwaukee's guard rotation is crowded. Rollins, Herro, Porter, Burries, Trent, Green and Jakučionis all compete for backcourt minutes. (fact, 2026-10-09; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1423))
+- His role is not clear. He will probably be in the rotation, but Gary Trent Jr. could take that spot instead. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1663), [07-23](https://youtu.be/LUTYUdXBG1M?t=1163))
+- Experts call Milwaukee the rotation they understand least and have low confidence in how minutes will be split. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [10-08](https://youtu.be/WXO8MfQfzo0?t=1054), [08-11](https://youtu.be/OdDkXFhoKsc?t=1811))
+- New coach Taylor Jenkins might use a deep rotation, which would spread guard minutes further. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=335))
+- Milwaukee could use him as a trade chip, valued like a first-round pick. The roster has too many players and needs trades to consolidate. (verdict, 2026-10-08; [08-14](https://youtu.be/owlM6b8oUd0?t=693), [08-14](https://youtu.be/owlM6b8oUd0?t=115), [10-08](https://youtu.be/sDzeYdUhJDI?t=1845))
+- He was seen as the deal breaker in the Giannis trade. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=693))
+- He posted good assist and steal numbers in summer league. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1163))
 
 **Durable**
-- He is worth more in category leagues than in points leagues. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1659))
+- He is better in category leagues than in points leagues. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1659))
 
 **Tags**
-- Current: `new team` (Came to Milwaukee in the Giannis Antetokounmpo trade), `minutes competition` (Crowded backcourt: Rollins, Herro, Porter, Burries, Trent and Green), `trade risk` (Could be used as a trade chip, valued like a first-round pick)
-- Durable: none
+- Current: `minutes competition` (Crowded Bucks backcourt; Gary Trent Jr. could take his rotation spot), `unsettled rotation` (Experts call the Bucks rotation the hardest to read), `deep rotation` (New coach Taylor Jenkins might use a deep rotation), `trade risk` (Could be used as a trade chip valued like a first-round pick), `waiver watch` (Ranked far outside the 144 drafted players; watch if he holds a rotation spot)
+- Durable: `category league player`
 
-**Note.** Both sites price him at 0 USD. He ranks 342 on Yahoo and 242 on ESPN, far outside the 144 players our league drafts, so do not draft him. His projections show no strong category, only about 7.8 points, and a FG% of 42.4 on low volume. Early in the season, check whether he gets real minutes in Milwaukee's crowded backcourt or gets traded, before you treat him as a waiver option.
+**Note.** Both sites value him at 0 USD (Yahoo rank 342, ESPN rank 237), so he should not be one of the 144 players drafted on 2026-10-18. ESPN projects about 8 points, 3.3 assists and 1.5 threes in 22.6 minutes. No category stands out and none is weak enough to make him a punt fit. Early in the season, check whether he holds a rotation spot over Gary Trent Jr. in the crowded Bucks backcourt, and watch for trade news. If his minutes grow, he is a waiver add for assists, FT% and a low turnover rate.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 363 | 0 | 0.0 | 309 | not drafted |
+| 2026-27 | 0 | - | 362 | 0 | 0.0 | 308 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -25,7 +25,7 @@
 | AST | 0.7 | -1.3 | -1.4 | - |
 | STL | 0.3 | -1.9 | -2.0 | league outlier, weak |
 | BLK | 0.3 | -0.7 | -0.8 | - |
-| TO | 0.5 | +1.5 | +1.4 | - |
+| TO | 0.5 | +1.5 | +1.5 | - |
 
 </details>
 

@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 217 | 0 | 0.0 | 230 | not drafted |
+| 2026-27 | 0 | - | 175 | 0 | 0.1 | 230 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -24,23 +24,27 @@
 | AST | 1.6 | -0.8 | -1.0 | - |
 | STL | 1.0 | +0.1 | -0.0 | - |
 | BLK | 0.2 | -0.9 | -1.0 | - |
-| TO | 1.1 | +0.7 | +0.7 | - |
+| TO | 1.1 | +0.7 | +0.8 | - |
 
 </details>
 
 **Current**
-- Joe projects Wells as a reserve, possibly the first player off the bench, playing 20 to 25 minutes. He is not in Joe's projected starting five. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=578), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483))
-- Memphis has a very deep roster with crowded guard and forward groups. Coach Tuomas Iisalo runs an 11-man rotation. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159), [07-16](https://youtu.be/-y6p5PYLf00?t=557), [07-21](https://youtu.be/RyzcCGChYgs?t=1680))
-- Joe expects only Cameron Boozer and Cedric Coward to top 30 minutes for Memphis, which caps Wells' minutes. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- Wells is projected to come off the bench, possibly as the first reserve, for about 20 to 25 minutes a game. (verdict, 2026-10-07; [08-17](https://youtu.be/LcZcvk8s1xQ?t=578), [10-07](https://youtu.be/lp11OAEpq4Y?t=1812))
+- The projected Memphis starters are Ty Jerome, Cedric Coward, Jerami Grant, Cameron Boozer and Zach Edey. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=867), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483))
+- Memphis is expected to use an 11 or 12 man rotation. Only Boozer and Coward are expected to play more than 30 minutes, which caps the bench's minutes. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=296), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- Probably not even a 16-team player. A rank in the 200s is about right, and Yahoo and ESPN ADP should be ignored. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1465))
+- Memphis has the maximum 4-4-4 schedule in weeks 19 to 21 for a March 28 end. It has only 13 back-to-backs, possibly the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1987))
 
 **Durable**
-- Joe says Wells lacks athleticism and scores inconsistently, but is a sturdy defender. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=578))
-- Coach Tuomas Iisalo plays at a very high pace, uses short five-minute stints and keeps minutes down. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033))
+- Poor fantasy profile: few rebounds, assists, steals and blocks, and weak shooting percentages. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1456))
+- He makes threes at only 35%. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1456))
+- Coach Tuomas Iisalo plays at a very high pace and uses short, hard stints of about five minutes. He keeps players' minutes down. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033))
+- He lacks athleticism and scores inconsistently, but he is a sturdy defender. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=578))
 
 **Tags**
-- Current: `role down` (Projected bench role of 20 to 25 minutes), `minutes competition` (Deep Memphis roster, crowded guard and forward groups, 11-man rotation)
-- Durable: none
+- Current: `minutes competition` (Projected bench wing behind Jerome, Coward and Grant on a crowded roster), `deep rotation` (Memphis expected to use 11 or 12 players), `fast pace` (Iisalo plays at a very high pace), `good playoff schedule` (4-4-4 in weeks 19 to 21 for a March 28 end), `few back-to-backs` (13 back-to-backs, possibly the fewest in the league)
+- Durable: `streaky` (Inconsistent scorer)
 
-**Note.** Both Yahoo and ESPN value him at 0 USD and rank him 217 and 230, so he is far outside the 144 players we draft and belongs on waivers. His projected line has no strong category: modest threes (about 2.0 per game) and low turnovers, but below-average FG%, rebounds, assists and blocks. Early in the season, check whether he gets more than the 20 to 25 bench minutes Joe projects. Only a starting role in Memphis's 11-man rotation would make him worth adding.
+**Note.** Wells is not a draft target in our 144-player auction. Yahoo ranks him 175 and ESPN 230, both price him at 0 USD, and the expert says even 16-team leagues can skip him. His projected 44% FG with few rebounds, assists and blocks gives no build a reason to take him, and a bench role of 20 to 25 minutes in an 11 or 12 man rotation caps his volume. Early in the season, only watch whether an injury in front of him pushes his minutes clearly above that range.
 
-<sub>2 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

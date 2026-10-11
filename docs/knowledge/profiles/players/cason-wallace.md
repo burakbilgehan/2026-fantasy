@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 1.0 | 128 | 2 | 0.5 | 109 | 1 |
+| 2026-27 | 0 | 1.0 | 123 | 2 | 0.6 | 110 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,12 +20,12 @@
 | FG% | 44.6% | -0.4 | -0.3 | - |
 | FT% | 80.9% | +0.0 | -0.1 | - |
 | 3PM | 1.3 | -0.2 | -0.5 | - |
-| PTS | 8.6 | -0.9 | -1.0 | - |
-| REB | 3.2 | -0.8 | -0.7 | - |
+| PTS | 8.6 | -0.9 | -1.0 | weak for his position (punt fit) |
+| REB | 3.2 | -0.8 | -0.8 | - |
 | AST | 2.5 | -0.4 | -0.5 | - |
 | STL | 1.9 | +2.8 | +2.7 | league outlier, strong |
 | BLK | 0.4 | -0.4 | -0.2 | - |
-| TO | 0.9 | +1.0 | +1.0 | - |
+| TO | 0.9 | +1.0 | +1.1 | - |
 
 </details>
 
@@ -48,8 +48,10 @@
 
 **Tags**
 - Current: `role up` (Expected to start in Lu Dort's spot after OKC traded Dort, Joe and Wiggins), `contract year` (Final year of rookie deal, heading toward restricted free agency, wants a bigger role), `usage competition` (Shares the ball with SGA, Jalen Williams and Ajay Mitchell), `deep rotation` (OKC must also find guard minutes for Ajay Mitchell, Jared McCain and Topic), `winning team` (Ryland projects 57 to 62 wins)
-- Durable: `STL specialist` (About 1.9 steals per game projected, the clear outlier in his profile), `fits every build` (No weak category flagged, but his value rests almost entirely on steals), `category league player` (Barely top 150 in points leagues; his ADP fits category value)
+- Durable: `STL specialist` (About 1.9 steals per game projected, the clear outlier in his profile), `category league player` (Barely top 150 in points leagues; his ADP fits category value)
 
 **Note.** Wallace is a steals specialist with little else. He projects for about 1.9 steals but only 8.6 points and 3.2 rebounds, and he shot 43.2% from the field last season. The market already prices him right: Yahoo rank 128 at about 1 USD, ESPN rank 109 at 0.5 USD, and 1 USD in our league last season. Josh also calls him a 1 USD player, so in a 144-player draft take him as a 1 to 2 USD end-of-auction steals pickup and do not chase him like the 8 USD mock price. Early in the season, check that he really starts, whether he gets on-ball chances when OKC stars sit, and whether his FG% recovers.
+
+<sub>Tags removed by the category check: fits every build (weak in PTS).</sub>
 
 <sub>10 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 1.0 | 207 | 0 | 0.1 | 224 | not drafted |
+| 2026-27 | 0 | 1.0 | 213 | 0 | 0.2 | 225 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,9 +20,9 @@
 | FG% | 40.3% | -1.3 | -1.5 | - |
 | FT% | 77.8% | -0.0 | -0.2 | - |
 | 3PM | 2.6 | +1.2 | +1.1 | - |
-| PTS | 11.0 | -0.5 | -0.5 | - |
+| PTS | 11.0 | -0.5 | -0.6 | - |
 | REB | 2.1 | -1.2 | -1.3 | - |
-| AST | 1.5 | -0.9 | -1.0 | - |
+| AST | 1.5 | -0.9 | -1.1 | - |
 | STL | 0.4 | -1.5 | -1.6 | league outlier, weak |
 | BLK | 0.3 | -0.6 | -0.6 | - |
 | TO | 1.1 | +0.7 | +0.8 | - |
@@ -30,16 +30,24 @@
 </details>
 
 **Current**
-- Klay Thompson signed with Miami this offseason. Miami traded away Jaime Jaquez Jr. in the same period. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1931))
-- Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs. It plays only 10 games in the fantasy playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153))
+- Yahoo lists him as questionable for rest. (fact, 2026-10-11; stats)
+- He is projected to start at guard next to Mitchell, Wiggins, Giannis and Bam. The expert gives that lineup about a 75% chance. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=372), [10-07](https://youtu.be/cvhcheoKdbo?t=301))
+- Even as a starter, he may play only about 20 minutes and may not close games. The start may be partly ceremonial. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=301))
+- The expert calls his ADP of 109 crazy and would not draft him inside the top 300. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1264))
+- With the March 28 end, Miami plays 4-3-3 in our playoff weeks, 10 games in total. The expert calls that a weak playoff schedule. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2024), [08-16](https://youtu.be/gf_6GveiAls?t=1153))
+- Miami has the league-minimum 13 back-to-backs this season. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2037), [08-16](https://youtu.be/gf_6GveiAls?t=1153))
+- Klay Thompson signed with Miami in the offseason. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1931))
 
 **Durable**
-- Threes are his only category clearly above the pool. Steals are a league-level weakness, and his FG% and rebounds are also well below the pool. (fact, 2026-10-04; stats)
+- He is 36 and has torn both the ACL and the Achilles in the same leg. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1205))
+- He can still shoot, but he no longer moves or defends as he used to. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1205))
+- He is a threes-only fantasy contributor. He adds little in other categories. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1252), stats)
+- His steals are far below the league pool, at about 0.4 to 0.5 per game. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1252), stats)
 
 **Tags**
-- Current: `new team` (Signed with Miami for 2026-27), `few back-to-backs` (Miami has the fewest back-to-backs (13)), `bad playoff schedule` (Only 10 Miami games in the fantasy playoff weeks, though no back-to-backs)
-- Durable: none
+- Current: `new team` (Signed with Miami), `questionable` (Yahoo status Q (Rest)), `bust candidate` (At an ADP of 109; the expert would not draft him inside the top 300), `bad playoff schedule` (Miami plays 4-3-3, 10 games, in weeks 19 to 21), `few back-to-backs` (Miami has the league-minimum 13)
+- Durable: `injury prone` (Torn ACL and torn Achilles in the same leg), `age decline watch` (Age 36, no longer moves or defends as he used to)
 
-**Note.** Klay Thompson is not worth drafting in our 144-player auction. Yahoo ranks him 207 at a 1 USD cost, ESPN ranks him 224, and both value him at 0. Apart from about 2.6 threes a game, he hurts you in steals, FG% (around 40%) and rebounds. Treat him as a waiver option for teams that need threes, and check early on whether he gets more than about 22 minutes in Miami's thin backcourt.
+**Note.** At a Yahoo rank of 213, ESPN rank 225 and a 1 USD Yahoo average cost, he sits outside the 144 players our league drafts. The expert would not take him inside the top 300. His only real value is about 2.6 projected threes, and that comes with a 40% FG% on about 10 attempts, very low steals and a 10-game playoff schedule. Leave him on waivers. Early in the season, check whether he really starts, whether he gets more than about 20 minutes, and how often he rests.
 
-<sub>0 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

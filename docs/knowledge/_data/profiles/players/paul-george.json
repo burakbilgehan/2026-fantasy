@@ -8,68 +8,58 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "fe84f9468e3e",
- "note_count": 37,
- "built_at": "2026-10-05T20:01:34+00:00",
+ "input_sha": "7615cef02de1",
+ "note_count": 42,
+ "built_at": "2026-10-11T09:23:41+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.39902760000000004,
-  "duration_ms": 115255,
+  "cost_usd_list": 0.4092162,
+  "duration_ms": 118649,
   "turns": 3,
   "denied": 0
  },
  "current": [
   {
-   "text": "He joined Boston in the Jaylen Brown trade.",
+   "text": "Boston got him in the Jaylen Brown trade.",
    "kind": "fact",
    "date": "2026-07-30",
    "until": "",
    "sources": [
-    "P6TNP-g0wzY:p2",
-    "TiiaNZCJNs8:p0"
+    "TiiaNZCJNs8:p0",
+    "P6TNP-g0wzY:p2"
    ]
   },
   {
-   "text": "He is the clear number two option in Boston behind Jayson Tatum, after being the third option in Philadelphia.",
+   "text": "He is the clear number two option in Boston behind Jayson Tatum. Projected starting lineups include him.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
    "sources": [
     "n4KkK-OJjqA:p13",
-    "LM0cRCGoAUQ:p33",
-    "dlo7L8Ru91A:p22",
     "Alwse2uXzD4:t1",
     "J1Eg3uaAICU:t4",
-    "Rqb5GdrSweY:p18",
-    "-y6p5PYLf00:p19"
-   ]
-  },
-  {
-   "text": "He is a projected starter at forward next to Derrick White and Jayson Tatum.",
-   "kind": "fact",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
+    "LM0cRCGoAUQ:p33",
+    "Bi1cEM03k9Y:p11",
     "Bi1cEM03k9Y:t1",
     "TiiaNZCJNs8:t1"
    ]
   },
   {
-   "text": "Experts expect more usage and minutes in Boston, with usage near 26 after 23 last season and about 32 minutes.",
+   "text": "Experts expect his usage to rise from about 23 last season to about 26, in about 32 minutes.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
    "sources": [
-    "n4KkK-OJjqA:p16",
     "ahNxsoU8Hx4:p11",
     "dlo7L8Ru91A:p22",
     "Rqb5GdrSweY:p18",
+    "n4KkK-OJjqA:p16",
     "P6TNP-g0wzY:p2"
    ]
   },
   {
-   "text": "He enters the season healthy, with no surgery this offseason and fully rested.",
+   "text": "He is healthy. He had no surgery this offseason and comes in fully rested.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
@@ -80,35 +70,97 @@
    ]
   },
   {
-   "text": "Last season he came in off knee surgery, and 25 of his missed games came from a PED suspension.",
+   "text": "Last season he played 37 games. He served a 25-game PED suspension and was coming back from knee surgery. He still finished about 54th per game in category leagues.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
    "sources": [
+    "Bi1cEM03k9Y:p8",
     "Bi1cEM03k9Y:p9",
     "J1Eg3uaAICU:p49",
-    "8d--aL_xxwE:p18"
+    "8d--aL_xxwE:p18",
+    "Rqb5GdrSweY:p18",
+    "stats"
    ]
   },
   {
-   "text": "Experts think availability fears are overdone and see a high chance he plays clearly more games than last season, though missed games remain a risk.",
+   "text": "Experts expect him to miss some time. They also call the availability fears overdone and expect far more games than last season, possibly double.",
    "kind": "verdict",
-   "date": "2026-09-21",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
+    "6DnRWahYrFA:p23",
     "8d--aL_xxwE:p18",
-    "ahNxsoU8Hx4:p12",
-    "egRrai3Ax38:p44"
+    "ahNxsoU8Hx4:p12"
    ]
   },
   {
-   "text": "Boston has 16 back-to-backs, tied for the most in the league, and three of them fall in our playoff window.",
+   "text": "Experts project him as a top 40 per game player with top 30 upside. Top 20 is possible with about 34 minutes and 23 points. Over a full season, they put him in the top 40 if he plays about 60 to 65 games.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p11",
+    "Bi1cEM03k9Y:p12",
+    "Bi1cEM03k9Y:p13",
+    "ahNxsoU8Hx4:p11",
+    "LM0cRCGoAUQ:p33",
+    "E-KmhvyZ2CU:p12",
+    "Alwse2uXzD4:p16",
+    "J1Eg3uaAICU:p49",
+    "OdDkXFhoKsc:p35"
+   ]
+  },
+  {
+   "text": "Experts say his ADP of about 75 to 80 is too low and carries little risk. They would gladly draft him in the 60s and see room for him to beat his rank by up to 50 spots.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p23",
+    "n4KkK-OJjqA:p13",
+    "n4KkK-OJjqA:p14",
+    "Bi1cEM03k9Y:p12",
+    "dlo7L8Ru91A:p22",
+    "E-KmhvyZ2CU:p12"
+   ]
+  },
+  {
+   "text": "In an auction mock he went for 15 USD. The expert would have paid up to 20 USD.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p70"
+   ]
+  },
+  {
+   "text": "Last season his rim finishing fell from 68 to 57 percent, after three straight seasons above 60.",
+   "kind": "fact",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p19"
+   ]
+  },
+  {
+   "text": "A recovery to about 63 percent at the rim plus one or two more shots per game would make him a top 40 player.",
+   "kind": "verdict",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p19"
+   ]
+  },
+  {
+   "text": "Boston has 16 back-to-backs, the most in the league, with three of them in our playoff weeks. Its playoff schedule is 4-3-4 games, one short of the maximum.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
    "sources": [
-    "3UGI05PDvrE:t5",
+    "Bi1cEM03k9Y:t4",
     "Bi1cEM03k9Y:t5",
+    "3UGI05PDvrE:t5",
     "gf_6GveiAls:t0"
    ]
   },
@@ -123,76 +175,7 @@
    ]
   },
   {
-   "text": "Boston plays 4-3-4 games in weeks 19 to 21 with a March 28 end, one game short of the maximum.",
-   "kind": "fact",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
-    "Bi1cEM03k9Y:t4"
-   ]
-  },
-  {
-   "text": "Experts project him as a top 40 per game player with top 30 upside, and some see an outside shot at the top 25 or top 20.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p13",
-    "Bi1cEM03k9Y:p11",
-    "Bi1cEM03k9Y:p13",
-    "ahNxsoU8Hx4:p11",
-    "LM0cRCGoAUQ:p33",
-    "E-KmhvyZ2CU:p12",
-    "Alwse2uXzD4:p16",
-    "OdDkXFhoKsc:p35"
-   ]
-  },
-  {
-   "text": "His ceiling depends on games and efficiency: top 40 to top 30 if he reaches about 60 to 65 games, and top 40 if his rim finishing bounces back from 57% toward 63% with one or two more shots per game.",
-   "kind": "verdict",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
-    "Bi1cEM03k9Y:p12",
-    "J1Eg3uaAICU:p49",
-    "-y6p5PYLf00:p19"
-   ]
-  },
-  {
-   "text": "Experts call his ADP of about 75 to 80 too low and would happily draft him in the 60s or rounds 6 to 7. There is little risk at his price.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p13",
-    "n4KkK-OJjqA:p14",
-    "Bi1cEM03k9Y:p11",
-    "Bi1cEM03k9Y:p12",
-    "dlo7L8Ru91A:p22",
-    "E-KmhvyZ2CU:p12",
-    "egRrai3Ax38:p44"
-   ]
-  },
-  {
-   "text": "In an auction mock he went for 15 USD, which Josh called very good value. Josh would have paid up to 20 USD.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p70"
-   ]
-  },
-  {
-   "text": "Avoid stacking him with too many other older, injury-prone players.",
-   "kind": "verdict",
-   "date": "2026-09-01",
-   "until": "",
-   "sources": [
-    "80kfLVnFQ_s:p28"
-   ]
-  },
-  {
-   "text": "One expert thinks he will probably not stay in Boston long, and this may be his only season there.",
+   "text": "One expert thinks this may be his only season in Boston.",
    "kind": "verdict",
    "date": "2026-07-30",
    "until": "",
@@ -203,60 +186,7 @@
  ],
  "durable": [
   {
-   "text": "Steals are his best category. He also makes threes in volume and shoots free throws well.",
-   "kind": "fact",
-   "date": "2026-09-15",
-   "until": "",
-   "sources": [
-    "KPdD91Oo8-U:p17",
-    "Rqb5GdrSweY:p19",
-    "Alwse2uXzD4:p17",
-    "stats"
-   ]
-  },
-  {
-   "text": "His FG% is a weak spot, a mild drag on a team's FG%.",
-   "kind": "fact",
-   "date": "2026-07-13",
-   "until": "",
-   "sources": [
-    "Rqb5GdrSweY:p19",
-    "stats"
-   ]
-  },
-  {
-   "text": "His game is fantasy friendly and broad. He adds scoring, threes, rebounds, assists and steals and is more than a 3-and-D player.",
-   "kind": "verdict",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
-    "Bi1cEM03k9Y:p14",
-    "Alwse2uXzD4:p17",
-    "KPdD91Oo8-U:p17",
-    "-y6p5PYLf00:p19"
-   ]
-  },
-  {
-   "text": "He is worth more in category leagues than in points leagues.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p15",
-    "Alwse2uXzD4:p17"
-   ]
-  },
-  {
-   "text": "He is an adaptable player who can scale his usage up or down.",
-   "kind": "verdict",
-   "date": "2026-07-02",
-   "until": "",
-   "sources": [
-    "P6TNP-g0wzY:p3"
-   ]
-  },
-  {
-   "text": "He has a long injury history, with recurring knee problems for years plus UCL and shoulder issues.",
+   "text": "He has had knee problems for years. He has also had UCL and shoulder problems.",
    "kind": "fact",
    "date": "2026-09-30",
    "until": "",
@@ -269,7 +199,7 @@
    ]
   },
   {
-   "text": "He served a 25-game PED suspension in 2025-26.",
+   "text": "He served a 25-game PED suspension last season.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
@@ -277,6 +207,52 @@
     "P6TNP-g0wzY:p3",
     "ahNxsoU8Hx4:p12",
     "Bi1cEM03k9Y:p9"
+   ]
+  },
+  {
+   "text": "His best categories are steals and threes. He is also a strong free throw shooter.",
+   "kind": "fact",
+   "date": "2026-09-15",
+   "until": "",
+   "sources": [
+    "KPdD91Oo8-U:p17",
+    "Rqb5GdrSweY:p19",
+    "Alwse2uXzD4:p17",
+    "stats"
+   ]
+  },
+  {
+   "text": "FG% is his weak category.",
+   "kind": "fact",
+   "date": "2026-07-13",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:p19",
+    "stats"
+   ]
+  },
+  {
+   "text": "Experts see his game as very fantasy friendly. He adds a little in many categories, he is not just a 3-and-D player, and he can scale his usage up or down.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p14",
+    "KPdD91Oo8-U:p17",
+    "Alwse2uXzD4:p17",
+    "-y6p5PYLf00:p19",
+    "P6TNP-g0wzY:p3"
+   ]
+  },
+  {
+   "text": "He is worth more in category leagues than in points leagues.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p25",
+    "n4KkK-OJjqA:p15",
+    "Alwse2uXzD4:p17"
    ]
   }
  ],
@@ -287,59 +263,89 @@
    "detail": "Traded from Philadelphia to Boston in the Jaylen Brown deal",
    "until": "",
    "sources": [
-    "P6TNP-g0wzY:p2",
-    "TiiaNZCJNs8:p0"
+    "TiiaNZCJNs8:p0",
+    "P6TNP-g0wzY:p2"
    ],
    "new_meaning": ""
   },
   {
    "name": "role up",
    "channel": "current",
-   "detail": "Second option behind Tatum, projected usage near 26 after 23",
+   "detail": "Moves from third option to clear second option behind Tatum. Usage projected at about 26, up from 23",
    "until": "",
    "sources": [
+    "ahNxsoU8Hx4:p11",
+    "dlo7L8Ru91A:p22",
+    "Rqb5GdrSweY:p18",
     "n4KkK-OJjqA:p16",
-    "ahNxsoU8Hx4:p11",
-    "dlo7L8Ru91A:p22",
-    "Rqb5GdrSweY:p18"
+    "P6TNP-g0wzY:p2"
    ],
    "new_meaning": ""
   },
   {
-   "name": "expert target",
-   "channel": "current",
-   "detail": "Experts would draft him in the 60s, ahead of ADP 75 to 80",
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "Years of knee problems, plus UCL and shoulder issues",
    "until": "",
    "sources": [
-    "n4KkK-OJjqA:p13",
-    "Bi1cEM03k9Y:p12",
-    "dlo7L8Ru91A:p22",
-    "E-KmhvyZ2CU:p12"
+    "Bi1cEM03k9Y:p10",
+    "dlo7L8Ru91A:p23",
+    "Rqb5GdrSweY:p19",
+    "P6TNP-g0wzY:p3",
+    "BjXP9JODDSg:p29"
    ],
    "new_meaning": ""
   },
   {
-   "name": "sleeper",
-   "channel": "current",
-   "detail": "Priced around rank 80 with a top 40 per game projection",
+   "name": "off-court risk",
+   "channel": "durable",
+   "detail": "25-game PED suspension last season",
    "until": "",
    "sources": [
-    "n4KkK-OJjqA:p13",
-    "n4KkK-OJjqA:p14",
-    "ahNxsoU8Hx4:p11",
-    "egRrai3Ax38:p44"
+    "P6TNP-g0wzY:p3",
+    "ahNxsoU8Hx4:p12",
+    "Bi1cEM03k9Y:p9"
    ],
    "new_meaning": ""
   },
   {
    "name": "injury last season",
    "channel": "current",
-   "detail": "Knee surgery recovery plus a 25-game suspension",
+   "detail": "37 games, with 25 lost to the suspension, after knee surgery",
    "until": "",
    "sources": [
     "Bi1cEM03k9Y:p9",
     "J1Eg3uaAICU:p49",
-    "8d--aL_xxwE:p18"
+    "8d--aL_xxwE:p18",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "ADP about 75 to 80. Experts would take him in the 60s",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p13",
+    "n4KkK-OJjqA:p14",
+    "Bi1cEM03k9Y:p11",
+    "6DnRWahYrFA:p23"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "Projected top 40 per game with top 30 upside",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p12",
+    "dlo7L8Ru91A:p22",
+    "Alwse2uXzD4:p16",
+    "E-KmhvyZ2CU:p12",
+    "OdDkXFhoKsc:p35",
+    "LM0cRCGoAUQ:p33"
    ],
    "new_meaning": ""
   },
@@ -357,38 +363,12 @@
   {
    "name": "many back-to-backs",
    "channel": "current",
-   "detail": "Boston has 16, tied for most in the league, three in the playoff window",
+   "detail": "Boston has 16, tied for the most in the league",
    "until": "",
    "sources": [
-    "3UGI05PDvrE:t5",
     "Bi1cEM03k9Y:t5",
+    "3UGI05PDvrE:t5",
     "gf_6GveiAls:t0"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "injury prone",
-   "channel": "durable",
-   "detail": "Recurring knee problems, plus UCL and shoulder issues",
-   "until": "",
-   "sources": [
-    "Bi1cEM03k9Y:p10",
-    "dlo7L8Ru91A:p23",
-    "Rqb5GdrSweY:p19",
-    "P6TNP-g0wzY:p3",
-    "BjXP9JODDSg:p29"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "off-court risk",
-   "channel": "durable",
-   "detail": "25-game PED suspension in 2025-26",
-   "until": "",
-   "sources": [
-    "P6TNP-g0wzY:p3",
-    "ahNxsoU8Hx4:p12",
-    "Bi1cEM03k9Y:p9"
    ],
    "new_meaning": ""
   },
@@ -398,33 +378,34 @@
    "detail": "",
    "until": "",
    "sources": [
+    "6DnRWahYrFA:p25",
     "n4KkK-OJjqA:p15",
     "Alwse2uXzD4:p17"
    ],
    "new_meaning": ""
   },
   {
-   "name": "3PM from a big",
-   "channel": "durable",
-   "detail": "About 2.6 threes per game as a forward",
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 13 USD and rank 76. ESPN value 3 USD and rank 91",
    "until": "",
    "sources": [
-    "Rqb5GdrSweY:p19",
     "stats"
    ],
    "new_meaning": ""
   },
   {
-   "name": "sites disagree on price",
+   "name": "winning team",
    "channel": "current",
-   "detail": "Yahoo value 12 USD vs ESPN value 3 USD",
+   "detail": "Boston projected at about 48 wins",
    "until": "",
    "sources": [
-    "stats"
+    "TiiaNZCJNs8:t0",
+    "Bi1cEM03k9Y:t0"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Experts agree he is underpriced. Yahoo values him at 12 USD but his average cost is only 2.4 USD (ESPN 3 USD), he went for 9 USD in our league last season, and a recent auction mock sold him for 15 USD with Josh willing to go to 20 USD. Paying in the low to mid teens fits builds that want steals, threes and FT% from a forward and can absorb a small FG% drag. Early in the season, check how many of Boston's 16 back-to-backs he sits, whether his usage really rises as the number two option, and whether his knees hold up.",
+ "note": "Experts expect a top 40 per game return, but the market prices him as a late flyer: Yahoo average cost is 1.8 USD, ESPN value is 3 USD, and he went for 9 USD in our league last season. Bidding up to Yahoo's 13 USD value, or 15 to 20 USD as in the expert mock, still looks fine. He fits builds that want steals, threes and FT% and can absorb a slightly weak FG%. Early in the season, check his usage as the number two option, how many back-to-backs he sits, and whether his knees hold up.",
  "rejected": []
 }

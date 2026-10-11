@@ -8,20 +8,29 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "ed94a89be5ad",
- "note_count": 18,
- "built_at": "2026-10-05T19:47:23+00:00",
+ "input_sha": "5649e271ff91",
+ "note_count": 20,
+ "built_at": "2026-10-11T09:15:36+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2002662,
-  "duration_ms": 54738,
+  "cost_usd_list": 0.22315420000000002,
+  "duration_ms": 61499,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Murray is locked into the Pelicans' starting lineup next to Trey Murphy and Zion Williamson. Jeremiah Fears does not take his spot.",
+   "text": "Yahoo lists him as questionable with a toe injury.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Murray, Trey Murphy and Zion Williamson are locked into the Pelicans starting lineup. Jeremiah Fears does not take his starting spot.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
@@ -29,11 +38,12 @@
     "n4KkK-OJjqA:p23",
     "n4KkK-OJjqA:t2",
     "ZYllcj4o6_A:t1",
-    "egRrai3Ax38:p7"
+    "egRrai3Ax38:p7",
+    "egRrai3Ax38:t1"
    ]
   },
   {
-   "text": "Experts expect him to start the season with no minutes limit. They say the Achilles injury is behind him.",
+   "text": "He should start the season with no minutes limit and is not expected to sit back-to-backs.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
@@ -41,45 +51,43 @@
     "n4KkK-OJjqA:p23",
     "n4KkK-OJjqA:p24",
     "J1Eg3uaAICU:p37"
+   ],
+   "bad_sources": [
+    "ahNx8oU8Hx4:p17"
    ]
   },
   {
-   "text": "Experts expect more minutes and better shooting than last season. One projects about 33 minutes and a 25 percent usage rate.",
+   "text": "He is projected for about 33 minutes and 25 percent usage. Experts expect more minutes and better shooting than last season.",
    "kind": "verdict",
    "date": "2026-09-21",
    "until": "",
    "sources": [
-    "egRrai3Ax38:p7",
-    "7BllEsdNLoM:p27"
+    "7BllEsdNLoM:p27",
+    "egRrai3Ax38:p7"
    ]
   },
   {
-   "text": "Experts call him undervalued everywhere. One calls him a top 30 to 35 player and his favorite sleeper. Others like him in round 3 or 4 and rank him above Derrick White.",
+   "text": "Experts agree he is undervalued. They call an ADP around 67 to 70 too low and like him as a round 4 pick. One expert drafted him in round 3, and one sees him as a top 30 to 35 player.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
+    "WXO8MfQfzo0:p15",
+    "BiIZsSypx7Y:p14",
     "n4KkK-OJjqA:p23",
+    "n4KkK-OJjqA:p24",
     "BjXP9JODDSg:p19",
-    "ahNxsoU8Hx4:p17",
     "7BllEsdNLoM:p27",
     "J1Eg3uaAICU:p37",
     "egRrai3Ax38:p7",
-    "egRrai3Ax38:p8"
+    "egRrai3Ax38:p8",
+    "ahNxsoU8Hx4:p17",
+    "OdDkXFhoKsc:p25"
    ]
   },
   {
-   "text": "In a 2026-10-05 auction mock draft he sold for 24 USD. Josh dropped out at 23 USD.",
+   "text": "In an expert auction mock he went for 24 USD. The bidder who targeted him hoped to pay 15 or 16 USD and stopped at 23 USD.",
    "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p55"
-   ]
-  },
-  {
-   "text": "Josh's target price for him in an auction was 15 to 16 USD. Another expert put his projected Yahoo value at 16 USD.",
-   "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
    "sources": [
@@ -88,16 +96,7 @@
    ]
   },
   {
-   "text": "One expert does not expect him to sit back-to-backs.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "ahNxsoU8Hx4:p17"
-   ]
-  },
-  {
-   "text": "Last season he turned 70 percent of his deflections into steals. If that rate drops, more minutes may not bring more steals.",
+   "text": "He turned 70% of his deflections into steals last season. If that rate drops, more minutes may not bring more steals.",
    "kind": "verdict",
    "date": "2026-07-17",
    "until": "",
@@ -106,70 +105,65 @@
    ]
   },
   {
-   "text": "One expert marks him down slightly, but only for leagues whose playoffs run into Yahoo's default finals week, when New Orleans plays two games. Our season ends 2027-03-28, before that week.",
-   "kind": "verdict",
-   "date": "2026-08-16",
+   "text": "The Pelicans have a crowded rotation and a new coach, Jamahl Mosley, so roles are hard to project. Murray's starting spot is not in question.",
+   "kind": "fact",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "gf_6GveiAls:p38",
-    "gf_6GveiAls:t16"
+    "WXO8MfQfzo0:t1",
+    "gerS7ibpaJo:t1",
+    "NYTH7uQsPCM:t0",
+    "-DN4P92Wp8Y:t2",
+    "n4KkK-OJjqA:t2"
    ]
   },
   {
-   "text": "New Orleans has a new coach, Jamahl Mosley, and is projected as a weak team near the bottom of the West. One expert predicts about 34 wins.",
-   "kind": "fact",
-   "date": "2026-09-04",
+   "text": "Experts see New Orleans as a weak team near the bottom of the West, at about 34 wins. One expert does not expect them to give up on the season.",
+   "kind": "verdict",
+   "date": "2026-09-21",
    "until": "",
    "sources": [
-    "gerS7ibpaJo:t0",
-    "5QU-jta-lWM:t4",
+    "0AptxcRW0RE:t7",
     "5QU-jta-lWM:t6",
-    "0AptxcRW0RE:t7"
+    "egRrai3Ax38:t1"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He tore his Achilles and came back last season on limited minutes.",
+   "text": "He tore his Achilles and came back last season for about 14 games on limited minutes.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
    "sources": [
-    "n4KkK-OJjqA:p23",
-    "ahNxsoU8Hx4:p17",
+    "J1Eg3uaAICU:p37",
     "egRrai3Ax38:p7",
-    "J1Eg3uaAICU:p37"
+    "ahNxsoU8Hx4:p17",
+    "n4KkK-OJjqA:p23",
+    "n4KkK-OJjqA:p24"
    ]
   },
   {
-   "text": "Turnovers are a clear weakness. His projected 3.2 per game are a league outlier, even for a guard.",
+   "text": "Turnovers are his clearly weak category. They are well worse than the league pool and weak even for a guard.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "His best categories are steals and assists. He also adds rebounds well above a normal guard.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "One expert thinks he could be a two-steals player.",
+   "text": "Steals are his best category, and he could be a two-steals player.",
    "kind": "verdict",
    "date": "2026-08-19",
    "until": "",
    "sources": [
-    "J1Eg3uaAICU:p38"
+    "J1Eg3uaAICU:p38",
+    "stats"
    ]
   },
   {
-   "text": "He can make threes but is not a lights-out shooter and does not space the floor.",
+   "text": "He is not a lights-out shooter. He can make threes but does not space the floor.",
    "kind": "verdict",
    "date": "2026-08-03",
    "until": "",
@@ -178,7 +172,7 @@
    ]
   },
   {
-   "text": "He turns contests into blocks at a low rate for a good guard defender: 5.3 percent last season, against 8 to 9 percent for his career.",
+   "text": "For a good guard defender, he turns few contests into blocks: 5.3% last season against a career rate of 8 to 9%. A small rise is possible.",
    "kind": "fact",
    "date": "2026-07-17",
    "until": "",
@@ -191,7 +185,7 @@
   {
    "name": "high TO",
    "channel": "durable",
-   "detail": "about 3.2 turnovers per game projected",
+   "detail": "About 3.2 turnovers per game projected",
    "until": "",
    "sources": [
     "stats"
@@ -209,23 +203,44 @@
    "new_meaning": ""
   },
   {
-   "name": "injury last season",
+   "name": "questionable",
    "channel": "current",
-   "detail": "played 14 games on limited minutes after a torn Achilles",
+   "detail": "Yahoo Q, toe",
    "until": "",
    "sources": [
-    "stats",
-    "n4KkK-OJjqA:p23"
+    "stats"
    ],
    "new_meaning": ""
   },
   {
-   "name": "bounce-back",
+   "name": "injured now",
    "channel": "current",
-   "detail": "full starter workload expected after Achilles return",
+   "detail": "Toe, Yahoo status Q",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "Played about 14 games after an Achilles tear",
+   "until": "",
+   "sources": [
+    "stats",
+    "J1Eg3uaAICU:p37"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "No minutes limit, about 33 minutes projected",
    "until": "",
    "sources": [
     "egRrai3Ax38:p7",
+    "7BllEsdNLoM:p27",
     "n4KkK-OJjqA:p23"
    ],
    "new_meaning": ""
@@ -233,36 +248,59 @@
   {
    "name": "sleeper",
    "channel": "current",
-   "detail": "Yahoo ADP about 70, experts see a top 30 to 50 player",
+   "detail": "ADP around 67 to 70",
    "until": "",
    "sources": [
     "n4KkK-OJjqA:p23",
     "ahNxsoU8Hx4:p17",
-    "egRrai3Ax38:p7"
+    "egRrai3Ax38:p7",
+    "BiIZsSypx7Y:p14"
    ],
    "new_meaning": ""
   },
   {
    "name": "expert target",
    "channel": "current",
-   "detail": "liked in rounds 3 to 4; auction target 15 to 16 USD",
+   "detail": "Liked as a round 4 pick, one sees top 30 to 35",
    "until": "",
    "sources": [
     "7BllEsdNLoM:p27",
     "J1Eg3uaAICU:p37",
-    "Q6YlQDvD-aY:p55",
-    "BjXP9JODDSg:p19"
+    "BjXP9JODDSg:p19",
+    "ahNxsoU8Hx4:p17",
+    "WXO8MfQfzo0:p15"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo value 18 USD, ESPN value 8 USD",
+   "detail": "Yahoo value 18 USD against ESPN value 7 USD",
    "until": "",
    "sources": [
     "stats",
     "egRrai3Ax38:p8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "regression risk",
+   "channel": "current",
+   "detail": "70% deflection-to-steal conversion may drop",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p15"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "About 34 wins projected",
+   "until": "",
+   "sources": [
+    "0AptxcRW0RE:t7",
+    "5QU-jta-lWM:t6"
    ],
    "new_meaning": ""
   },
@@ -272,23 +310,35 @@
    "detail": "Jamahl Mosley",
    "until": "",
    "sources": [
+    "-DN4P92Wp8Y:t2",
     "gerS7ibpaJo:t0",
     "5QU-jta-lWM:t4"
    ],
    "new_meaning": ""
   },
   {
-   "name": "bottom team",
-   "channel": "current",
-   "detail": "about 34 wins projected",
+   "name": "defense-first",
+   "channel": "durable",
+   "detail": "Mosley brings a defense-first identity",
    "until": "",
    "sources": [
-    "0AptxcRW0RE:t7",
-    "5QU-jta-lWM:t6"
+    "5QU-jta-lWM:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "About eight possible starters for 240 minutes",
+   "until": "",
+   "sources": [
+    "WXO8MfQfzo0:t1",
+    "NYTH7uQsPCM:t0",
+    "gerS7ibpaJo:t1"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both sites rank him about 55th, but Yahoo values him at 18 USD and drafters there pay only 2.2 USD. ESPN values him at 8 USD. Experts see him as a top 50 player, and he went for 24 USD in a recent auction mock, so plan on 16 to 22 USD rather than a bargain. He fits builds that punt TO, since his strengths are steals, assists and guard rebounds. Early in the season, check that he plays about 33 minutes with no limit and that his FG% recovers from a projected 44 percent.",
+ "note": "The markets price him cheaply: 3.2 USD average cost on Yahoo and 7.8 USD on ESPN. Yahoo values him at 18 USD and experts call him a round 4 value, so expect a real bidding war, like the 24 USD he went for in a mock auction. He gives steals, assists and rebounds for a guard, but his 3.2 turnovers per game make him a natural fit for punt TO builds. He hurts any team that competes in TO. Early in the season, check that the toe (Yahoo Q) does not cost games, that he plays about 33 minutes with no limit, and that his steals hold up.",
  "rejected": []
 }

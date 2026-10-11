@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 2 | 1.0 | 113 | 2 | 0.6 | 117 | 1 |
+| 2026-27 | 4 | 1.0 | 107 | 2 | 0.7 | 118 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,36 +19,37 @@
 |---|---|---|---|---|
 | FG% | 65.3% | +2.0 | +0.9 | - |
 | FT% | 71.1% | -0.7 | +0.1 | - |
-| 3PM | 0.0 | -1.6 | -1.1 | league outlier, weak, weak for his position (punt fit) |
-| PTS | 9.7 | -0.7 | -0.6 | - |
+| 3PM | 0.0 | -1.7 | -1.1 | league outlier, weak, weak for his position (punt fit) |
+| PTS | 9.7 | -0.8 | -0.6 | - |
 | REB | 7.8 | +1.2 | +0.1 | - |
 | AST | 1.5 | -0.9 | -0.5 | - |
 | STL | 0.7 | -0.7 | -0.3 | - |
-| BLK | 1.2 | +1.4 | +0.3 | - |
+| BLK | 1.2 | +1.3 | +0.3 | - |
 | TO | 1.0 | +0.9 | +0.8 | - |
 
 </details>
 
 **Current**
-- Boston has 16 back-to-backs, the most in the league. The expert says this mainly affects Paul George and Mitchell Robinson. (fact, 2026-09-26; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1837), [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=901))
-- Queta and Mitchell Robinson are competing for the starting center job in Boston. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=394), [09-14](https://youtu.be/t4n9MAP2_14?t=2060), [07-30](https://youtu.be/TiiaNZCJNs8?t=1806))
-- The newest call has Queta starting and closing a lot of games, with his minutes going up to 26 to 27 per game. Another expert says it is unclear whether he starts, but that Robinson cannot play starter minutes. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=394), [09-14](https://youtu.be/t4n9MAP2_14?t=2060))
-- The expert values him as a pick in the 90 to 110 range. Take him closer to 90 if you need a center, and let him slide toward 110 if you do not. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1039))
-- Boston plays 4, 3 and 4 games in our fantasy playoff weeks 19 to 21. That is one game short of the maximum. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1816))
-- His upside is capped. About 24 to 25 minutes is enough for tier eight among centers, but his 30-minute upside is probably gone now that Robinson is in Boston. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2060), [07-02](https://youtu.be/P6TNP-g0wzY?t=1945))
-- He signed an extension at about 14 to 15 million USD per year. It covers this season and four more. (fact, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=1941))
-- Karalis thinks Queta would accept a bench role. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=1941))
-- Lloyd would draft Queta over Robinson. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1945))
+- Queta and Mitchell Robinson compete for the starting center job in Boston. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=394), [09-14](https://youtu.be/t4n9MAP2_14?t=2060), [07-30](https://youtu.be/TiiaNZCJNs8?t=1806), [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [07-30](https://youtu.be/TiiaNZCJNs8?t=472))
+- The newest expert view is that Queta starts and closes many games. Robinson cannot play starter minutes. Queta's minutes could rise from 24 to 25 up to 26 to 27. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=394), [09-14](https://youtu.be/t4n9MAP2_14?t=2060), [07-30](https://youtu.be/TiiaNZCJNs8?t=1806))
+- The expert values him at pick 90 to 110, while his ESPN ADP is 136. Take him near 90 if you need a center, and let him slide toward 110 if you do not. Experts would draft him over Robinson. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1039), [07-02](https://youtu.be/P6TNP-g0wzY?t=1945))
+- Boston has a very deep roster with at least 12 rotation-level players. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133))
+- Boston plays 4-3-4 games in our playoff weeks 19 to 21. That is one game short of the maximum. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1816))
+- His 30-minute upside is probably gone now that Robinson is in Boston. About 24 to 25 minutes still gives him value but limits his upside. (verdict, 2026-09-14; [07-02](https://youtu.be/P6TNP-g0wzY?t=1945), [09-14](https://youtu.be/t4n9MAP2_14?t=2060))
+- He signed an extension worth about 14 to 15 million USD per year. It covers this season and four more. (fact, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=1941))
+- One expert thinks he would accept a bench role. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=1941))
 
 **Durable**
-- He does not shoot threes and is not a shooter. He does not need threes to have value. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1055), [07-30](https://youtu.be/TiiaNZCJNs8?t=1249), stats)
-- He has been working on a mid-range jumper and has a floater. He shoots a little over 70% from the line, but his shooting is not something to rely on. (fact, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=1249))
-- He has good chemistry with Payton Pritchard and makes good kick-out passes on the short roll. (fact, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=1866))
+- He does not take threes and lacks shooting range. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1055), [07-30](https://youtu.be/TiiaNZCJNs8?t=1249), stats)
+- He does not need threes to have fantasy value. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1055))
+- He has been working on a mid-range jumper and has a floater. He shoots a bit over 70% from the line. (fact, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=1249), stats)
+- His outside shooting is not something to rely on. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=1249))
+- He has good chemistry with Payton Pritchard and makes good kick-out passes on the short roll. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=1866))
 
 **Tags**
-- Current: `minutes competition` (Mitchell Robinson for the starting center job), `expert target` (Expert values him at picks 90 to 110. His ESPN ADP is 136.), `sleeper` (Costs about 1 USD on Yahoo and ESPN)
-- Durable: `no 3PM` (0.0 threes per game), `punt 3PM fit`
+- Current: `minutes competition` (Mitchell Robinson for the starting center job), `expert target` (Valued at pick 90 to 110 against an ESPN ADP of 136), `deep rotation` (At least 12 rotation-level players in Boston), `many back-to-backs` (Boston has 16, the most in the league. Experts name George and Robinson as the players most affected.), `winning team` (Karalis predicts 48 wins)
+- Durable: `no 3PM` (0.0 threes per game, does not shoot them), `punt 3PM fit`
 
-**Note.** He ranks 113 on Yahoo and 117 on ESPN, and his average cost is about 1 USD, so he goes near the end of our 144-player draft. The expert puts him at picks 90 to 110. At 1 to 3 USD he is a cheap source of FG% (65% on about 6 attempts), rebounds and blocks with few turnovers, and he fits punt 3PM builds best. Early in the season, check whether he starts over Mitchell Robinson and gets the projected 26 to 27 minutes.
+**Note.** Queta is a cheap center. He went for 1 USD in our league last season, and Yahoo values him at 4 USD and ESPN at 2 USD. His market ranks of 107 and 118 sit inside the expert range of 90 to 110. He projects about 65% FG on 6.3 attempts, 7.8 rebounds and 1.2 blocks with few turnovers, so he is a strong late buy for punt 3PM builds and any team short on a center. Early in the season, check whether he starts over Mitchell Robinson and plays 26 or more minutes, because that decides whether he is a starter for us or only a streamer.
 
-<sub>11 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>11 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

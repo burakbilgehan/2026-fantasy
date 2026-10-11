@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 1.0 | 142 | 0 | 0.5 | 138 | not drafted |
+| 2026-27 | 0 | 1.0 | 140 | 0 | 0.7 | 137 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,8 +19,8 @@
 |---|---|---|---|---|
 | FG% | 43.3% | -1.2 | -1.4 | - |
 | FT% | 83.5% | +0.5 | +0.6 | - |
-| 3PM | 2.2 | +0.8 | +1.0 | - |
-| PTS | 17.2 | +0.6 | +0.6 | - |
+| 3PM | 2.2 | +0.8 | +0.9 | - |
+| PTS | 17.2 | +0.5 | +0.6 | - |
 | REB | 3.5 | -0.7 | -0.8 | - |
 | AST | 1.7 | -0.8 | -0.7 | - |
 | STL | 0.9 | +0.0 | +0.1 | - |
@@ -30,19 +30,21 @@
 </details>
 
 **Current**
-- Phoenix has crowded usage. Booker, Jalen Green, Brooks, Collin Gillespie and Bridges will all want touches, so his shot volume is likely to fall from last season. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=989), stats)
-- In an ESPN points-league mock draft, the expert was not interested at all in him in round 12 and called it a shocking pick. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1777))
-- He is projected to start for Phoenix. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=308))
-- He was having a career year last season but collapsed late. He shot about 38% from the field over the final two months. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=308))
-- He will play less at the four now that Miles Bridges has arrived. (verdict, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=1951))
+- Booker, Jalen Green, Miles Bridges and Brooks are expected to take most of Phoenix's minutes and usage. Sharing the ball with those players caps his shots. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2437), [09-19](https://youtu.be/uarqbNA2dFk?t=989))
+- In a points-format mock draft, one expert did not want him at all in round 12 and called that pick shocking. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1777))
+- He is projected to start for Phoenix. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=308), [08-23](https://youtu.be/hm5-fiCa5S4?t=509))
+- He shot about 38% from the field over the final two months of last season. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=308))
+- He is expected to play less at power forward now that Miles Bridges has arrived. (verdict, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=1951))
 
 **Durable**
-- He has a good defensive reputation. Josh calls him the only clearly above-average defender in the projected Phoenix starting group. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1987))
+- He has a good defensive reputation. Experts call him the only clearly above-average defender in Phoenix's projected starting group. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1987))
 
 **Tags**
-- Current: `role down` (Less time at the four with Bridges, crowded usage with Booker, Jalen Green, Gillespie and Bridges)
+- Current: `usage competition` (Shares the ball with Booker, Jalen Green and Miles Bridges), `role down` (Fewer minutes at power forward after Bridges arrived. Projections expect his scoring to fall from last season.)
 - Durable: none
 
-**Note.** Both sites rank him around 140 (Yahoo 142, ESPN 138) with a 0 USD value, so in our 144-player draft he is a 1 USD final pick at most, or a waiver option. He brings threes, points and FT% but costs FG% (43% projected), and his 20.2 PTS last season came on 17.1 FGA, while the projections drop that to 13.5 to 15.8 FGA. In the first weeks, check whether he keeps his shot volume next to Booker, Green and Bridges and whether his FG% recovers from the late-season slump (about 38%).
+**Note.** Both Yahoo and ESPN price Dillon Brooks at about 1 USD and rank him near 140 (Yahoo 140, ESPN 137). That puts him at the edge of the 144 players our league drafts, so he is at most a last-dollar bench pick. His value comes from about 2.2 threes and solid FT% at a steady starter's minutes, but his 43% FG% on 13 to 16 shots a game costs you in FG%. Early in the season, check two things: whether he keeps last season's shot volume (17 shots a game) next to Booker, Green and Bridges, and whether his shooting recovers from about 38% over the last two months of last season. If neither happens, he belongs on waivers.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>Tags removed by the category check: fits every build (weak in BLK, FG%).</sub>
+
+<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

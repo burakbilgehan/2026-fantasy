@@ -11,38 +11,41 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 216 | 0 | 0.0 | 155 | not drafted |
+| 2026-27 | 0 | - | 209 | 0 | 0.0 | 157 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 41.8% | -0.8 | -0.8 | - |
+| FG% | 41.8% | -0.8 | -0.9 | - |
 | FT% | 71.7% | -0.1 | -0.0 | - |
 | 3PM | 2.3 | +0.9 | +1.0 | - |
 | PTS | 8.4 | -1.0 | -1.0 | - |
 | REB | 4.5 | -0.3 | -0.3 | - |
 | AST | 2.3 | -0.5 | -0.3 | - |
 | STL | 0.9 | -0.1 | -0.1 | - |
-| BLK | 0.4 | -0.4 | -0.4 | - |
+| BLK | 0.4 | -0.4 | -0.5 | - |
 | TO | 1.1 | +0.8 | +0.7 | - |
 
 </details>
 
 **Current**
-- He is a bench player in Charlotte, in a small role. The projected bench is Allen, Schröder, Steinbach, O'Neale and Grant Williams. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1375), [09-27](https://youtu.be/CRLSsoGhb2w?t=416), [07-01](https://youtu.be/W3THnI7wWdA?t=318))
-- He may pick up more power forward minutes, but the expert says he is not worth drafting. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1375))
-- Charlotte got him from Phoenix in the Miles Bridges trade, together with Grayson Allen. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=318), [06-28](https://youtu.be/RsjGTgJiKyI?t=328))
+- He is a bench player in Charlotte. The projected bench is Allen, Schröder, Steinbach, O'Neale and Grant Williams. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=416), [09-27](https://youtu.be/CRLSsoGhb2w?t=1375), [07-01](https://youtu.be/W3THnI7wWdA?t=318))
+- He may get more power forward minutes, but he is not worth drafting. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1375))
+- Charlotte has a deep roster and projects as a play-in team. That spreads the bench minutes. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1568))
+- With the March 28 end date, Charlotte plays 4, 3 and 4 games in our playoff weeks. It has 13 back-to-backs, the league minimum. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781))
+- Charlotte plans to space the floor and take a lot of threes. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=401))
+- Charlotte got him from Phoenix in the Miles Bridges trade, along with Grayson Allen. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=318), [06-28](https://youtu.be/RsjGTgJiKyI?t=328))
 
 **Durable**
-- His best categories are threes and low turnovers. His weakest are points and FG%. None of them is a league outlier. (verdict, 2026-10-04; stats)
-- He has shown signs of decline, and teams around the league saw him as a negative asset. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=484))
-- He hits corner threes reliably. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=425))
+- Threes are his only clear fantasy strength. He scores little and his FG% is below average. (verdict, 2026-10-11; stats)
+- He showed signs of decline, and teams around the league saw his contract as a negative asset. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=484))
+- He made corner threes all season long. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=425))
 
 **Tags**
-- Current: `new team` (Traded from Phoenix to Charlotte in the Miles Bridges deal), `role down` (Small bench role in Charlotte. Projected at about 24.5 minutes, down from 28.4 last season), `waiver watch` (Not worth drafting. Worth watching if he gets more power forward minutes)
-- Durable: `age decline watch` (Expert sees signs of decline)
+- Current: `new team` (Traded from Phoenix to Charlotte in the Bridges deal), `role down` (Small bench role in Charlotte), `deep rotation` (Deep Charlotte bench), `three-point heavy`, `few back-to-backs` (13 back-to-backs, league minimum)
+- Durable: `3PM from a big` (Corner three shooter at forward), `age decline watch` (Showed signs of decline)
 
-**Note.** Do not draft him. Yahoo and ESPN both value him at 0 USD and rank him 216 and 155, while our auction only fills 144 roster spots. If you need threes, he is a low-turnover option on waivers (about 2.3 threes and 1.1 TO projected), but his 8.4 points and 41.8 FG% give little else. Early in the season, check whether his power forward minutes grow beyond his bench role.
+**Note.** Both Yahoo (rank 209) and ESPN (rank 157) value him at 0 USD. The only expert call says he is undraftable, so leave him out of our 144-player auction. His one real category is threes (about 2.3 per game as a forward), and he gives back FG% and points, so he is at most a short-term waiver add for a team that needs threes. Early on, check whether the absences of Coby White and Kon Knueppel or the open power forward minutes push him clearly above his projected 24.5 minutes.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

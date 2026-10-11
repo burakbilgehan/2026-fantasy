@@ -3,43 +3,46 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, ESPN | 71 | 25.0 | 38.0 (9.6) | 78.5 (1.9) | 1.2 | 10.0 | 2.0 | 4.3 | 0.9 | 0.5 | 2.6 |
+| 2026-27 proj, ESPN | 71 | 25.0 | 42.5 (9.6) | 80.0 (1.9) | 1.4 | 11.1 | 2.0 | 4.3 | 0.9 | 0.5 | 2.6 |
 | 2026-27 proj, Yahoo | 65 | - | 39.9 (8.4) | 77.8 (1.8) | 1.1 | 9.2 | 1.7 | 3.8 | 0.8 | 0.4 | 2.0 |
 | 2025-26 | 56 | 22.2 | 38.0 (8.6) | 78.7 (1.7) | 1.1 | 8.9 | 1.8 | 3.8 | 0.8 | 0.4 | 2.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 380 | 0 | 0.0 | 259 | not drafted |
+| 2026-27 | 0 | - | 380 | 0 | 0.0 | 244 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 38.9% | -1.5 | -1.6 | - |
-| FT% | 78.2% | -0.1 | -0.6 | - |
-| 3PM | 1.2 | -0.3 | -0.8 | - |
-| PTS | 9.6 | -0.7 | -0.8 | - |
+| FG% | 41.3% | -1.1 | -1.0 | - |
+| FT% | 78.9% | -0.0 | -0.5 | - |
+| 3PM | 1.3 | -0.3 | -0.7 | - |
+| PTS | 10.2 | -0.7 | -0.7 | - |
 | REB | 1.9 | -1.4 | -1.4 | - |
-| AST | 4.0 | +0.5 | +0.1 | - |
-| STL | 0.9 | -0.2 | -0.5 | - |
-| BLK | 0.5 | -0.3 | +0.5 | - |
+| AST | 4.0 | +0.4 | +0.1 | - |
+| STL | 0.9 | -0.3 | -0.5 | - |
+| BLK | 0.5 | -0.3 | +0.4 | - |
 | TO | 2.3 | -0.9 | -0.7 | - |
 
 </details>
 
 **Current**
-- Experts project him as a bench rotation player, not a starter. The projected starting guards are Mikel Brown Jr. and Egor Demin. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=287), [09-26](https://youtu.be/3UGI05PDvrE?t=313), [09-26](https://youtu.be/3UGI05PDvrE?t=1156), [08-21](https://youtu.be/uRsfijpBPok?t=488))
-- Brooklyn drafted a point guard with the 6th pick and added Julius Randle in a trade. (fact, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1385), [06-23](https://youtu.be/9tb1ARBEmQU?t=690))
-- He is expected to handle the ball less because Randle will handle it a lot. He will have to fight for bench ball-handling minutes. (verdict, 2026-06-25; [06-23](https://youtu.be/9tb1ARBEmQU?t=690), [06-25](https://youtu.be/lOshTzDA4SA?t=1385), [06-25](https://youtu.be/lOshTzDA4SA?t=1160))
-- Experts call him a draft loser with no real shot at fantasy value this season. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1385))
+- Brooklyn is projected as one of the worst teams, at about 28 wins. Houston controls its pick, so the Nets have no reason to tank. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=177), [08-21](https://youtu.be/uRsfijpBPok?t=1754), [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-10](https://youtu.be/dlo7L8Ru91A?t=1043), [07-13](https://youtu.be/Rqb5GdrSweY?t=622))
+- Brooklyn's projected depth chart has him in the bench rotation. Mikel Brown Jr. and Egor Demin are the projected starting guards. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=287), [09-26](https://youtu.be/3UGI05PDvrE?t=313), [09-26](https://youtu.be/3UGI05PDvrE?t=1156), [08-21](https://youtu.be/uRsfijpBPok?t=488))
+- Second-half minutes are uncertain. The young players the expert expects to gain minutes are Brown, Demin, Clowney and Minott, not Traore. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1642))
+- Brooklyn has 16 back-to-backs, tied for the most in the league. With a March 28 end, it plays 3-4-3 games in our playoff weeks, which is 10 games with one back-to-back. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
+- Coach Jordi Fernandez wants several ball handlers and connective playmakers instead of one traditional point guard. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=1120))
+- Brooklyn drafted a point guard at pick 6 and added Julius Randle, who is expected to handle the ball a lot. (fact, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1385), [06-23](https://youtu.be/9tb1ARBEmQU?t=690), [06-25](https://youtu.be/lOshTzDA4SA?t=1160))
+- He will handle the ball less and has to fight for bench ball-handling minutes. The expert sees no real shot at fantasy value. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1385), [06-23](https://youtu.be/9tb1ARBEmQU?t=690))
 
 **Durable**
 - none
 
 **Tags**
-- Current: `role down` (Projected bench player after starting much of last season. He will handle the ball less with Randle and a pick-6 point guard on the roster.), `minutes competition` (He competes for bench ball-handling minutes after Brooklyn drafted a point guard at pick 6.)
+- Current: `role down` (started a big chunk of last season, now projected for the bench), `minutes competition` (fights for bench ball-handling minutes behind Brown Jr. and Demin), `usage competition` (Randle handles the ball a lot), `shared ball handling` (Fernandez wants multiple ball handlers), `bottom team` (about 28 wins projected), `many back-to-backs` (16 back-to-backs, tied for most in the league), `bad playoff schedule` (3-4-3, only 10 games in weeks 19 to 21)
 - Durable: none
 
-**Note.** Both sites value him at 0 USD (Yahoo rank 380, ESPN rank 259), and he was not drafted in our league last season. With only 144 players drafted, he should not be on any auction list. His projected line of about 39% FG on 9 shots and 2.3 turnovers, with only 4.0 assists, hurts more than it helps in 9-cat. Early in the season, only check whether a guard injury moves him back into real ball-handling minutes. Otherwise leave him on waivers.
+**Note.** Do not draft him in our league. He is ranked 380 on Yahoo and 244 on ESPN, both sites value him at 0 USD, and that is far outside our 144-player pool. His projected line (about 41% FG on 9 shots, 2.3 TO, 4.0 AST) helps no build, and as a bench guard behind Brown Jr. and Demin he will see less of the ball. Only look at him on waivers if Brown Jr. or Demin misses time early in the season.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

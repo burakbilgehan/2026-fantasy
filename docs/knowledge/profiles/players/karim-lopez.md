@@ -7,13 +7,13 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 688 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 712 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 46.1% | -0.2 | -0.1 | - |
+| FG% | 46.1% | -0.2 | -0.2 | - |
 | FT% | 74.4% | -0.2 | -0.2 | - |
 | 3PM | 0.7 | -0.9 | -1.1 | - |
 | PTS | 6.7 | -1.3 | -1.3 | - |
@@ -26,24 +26,22 @@
 </details>
 
 **Current**
-- Yahoo lists him as questionable with an undisclosed issue. (fact, 2026-10-04; stats)
-- With a Yahoo value of 0 USD and a projection of 6.7 points per game, he is not a draft target in a 12-team league. (verdict, 2026-10-04; stats)
-- Coach Tuomas Iisalo runs an 11-man rotation. Joe expects only Cameron Boozer and Cedric Coward to top 30 minutes. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
-- His Summer League was very good but overrated. Josh thinks Cameron Carr should probably rank ahead of him among rookies. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=769))
-- The Memphis forward group is crowded with Prosper, Hendricks, Edey and Stewart. Cameron Boozer will start. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1680))
-- Memphis has too many players, especially forwards, so more trades or cuts must happen. (verdict, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=953))
-- He is a rookie. Memphis drafted him with the 21st pick in 2026. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1629))
-- One expert says he probably cannot play alongside Cameron Boozer. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=2046))
+- He is a rookie. He is not listed among the projected Memphis starters (Jerome, Coward, Grant, Boozer, Edey) or the projected bench (Pippen, Wells, Stewart, GG Jackson, Spencer). (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=867), [10-07](https://youtu.be/lp11OAEpq4Y?t=1812), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483))
+- The Memphis forward group is crowded, with Boozer starting and Prosper, Hendricks, Edey, Stewart and Grant also in the mix. The roster still needs cuts. (fact, 2026-10-07; [07-21](https://youtu.be/RyzcCGChYgs?t=1680), [06-29](https://youtu.be/bHA-JoW3reE?t=953), [10-07](https://youtu.be/lp11OAEpq4Y?t=1636))
+- Coach Tuomas Iisalo runs an 11 or 12 man rotation with short stints and keeps minutes down. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [10-07](https://youtu.be/lp11OAEpq4Y?t=296), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- Memphis has a maxed 4-4-4 schedule in our playoff weeks through March 28 and only 13 back-to-backs, possibly the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1987))
+- His Summer League was very good, but an expert thinks it overrated him. In dynasty rookie ranks he sits around 20th, and Cameron Carr should probably rank ahead of him. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=769))
+- An expert thinks he probably cannot play alongside Cameron Boozer. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=2046))
 
 **Durable**
-- Memphis got him at pick 21, along with Isaiah Stewart, in a trade for pick 17. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1629))
+- He was the 21st pick of the 2026 draft. He went to Memphis with Isaiah Stewart in exchange for pick 17. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1629))
 - Experts see him as a solid rotation player without much upside and not a strong rebounder. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1629))
-- One expert does not see a clear skill. He says Lopez cannot really shoot, defend or pass. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=2046))
+- He has no clear standout skill. One expert says he cannot really shoot, defend or pass. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=2046))
 
 **Tags**
-- Current: `rookie` (2026 pick 21), `minutes competition` (Crowded Memphis forward group: Boozer starts, plus Prosper, Hendricks, Edey and Stewart, in an 11-man rotation), `questionable` (Yahoo Q, undisclosed)
+- Current: `rookie` (21st pick of the 2026 draft), `minutes competition` (Crowded forward group behind Boozer and Grant, with Prosper, Hendricks, Stewart and GG Jackson), `deep rotation` (Iisalo uses 11 or 12 players with short stints), `good playoff schedule` (4-4-4 in weeks 19 to 21), `few back-to-backs` (13 back-to-backs)
 - Durable: none
 
-**Note.** He is not draftable in our league. Yahoo has him at rank 688 with a value of 0 USD, ESPN has no price, and he projects for only 6.7 points, 3.2 rebounds and 1.1 assists, with no category that stands out. Memphis has a deep forward group and its coach runs an 11-man rotation, so his minutes look small, and the experts see little upside. Early in the season, check his Q status and whether a trade or cut among the Memphis forwards opens real minutes. Only then is he worth a waiver look.
+**Note.** Yahoo ranks him 712th with a value of 0 USD, ESPN gives him no price, and he projects for only 6.7 points with no strong category. He is not a pick in our 144-player auction. Early in the season, check only whether he gets regular minutes in Iisalo's 11 or 12 man rotation. Until then he is not worth a roster spot.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

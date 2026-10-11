@@ -8,30 +8,31 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "cca9f9809c33",
+ "input_sha": "b180eedbfe74",
  "note_count": 7,
- "built_at": "2026-10-05T20:04:47+00:00",
+ "built_at": "2026-10-11T09:24:33+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1472502,
-  "duration_ms": 32264,
+  "cost_usd_list": 0.15895019999999999,
+  "duration_ms": 35986,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "A Pelicans beat reporter reports that Missi is likely to start at center over Derik Queen.",
+   "text": "A Pelicans beat reporter expects Missi to start at center over Derik Queen.",
    "kind": "fact",
-   "date": "2026-09-24",
+   "date": "2026-09-30",
    "until": "",
    "sources": [
+    "_vbAP5y182A:t0",
     "_vbAP5y182A:p34",
-    "_vbAP5y182A:t0"
+    "BjXP9JODDSg:t1"
    ]
   },
   {
-   "text": "Experts expect him to be the Pelicans' starting center on opening night, ahead of Derik Queen.",
+   "text": "The experts expect Missi to be the Pelicans' starting center on opening night, ahead of Derik Queen, who does not fit well next to Zion Williamson.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -39,12 +40,11 @@
     "ZYllcj4o6_A:p18",
     "ZYllcj4o6_A:t1",
     "BjXP9JODDSg:p33",
-    "BjXP9JODDSg:t1",
     "5QU-jta-lWM:p13"
    ]
   },
   {
-   "text": "Josh sees him as a late flier with upside for two blocks, a high FG% and double-digit rebounds. He is available everywhere.",
+   "text": "Josh sees two-block upside, high FG% and double-digit rebounds. He calls Missi worth a flier around pick 120.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -53,28 +53,38 @@
    ]
   },
   {
-   "text": "The Pelicans have a crowded frontcourt with Zion Williamson, Derik Queen and Saddiq Bey. Bey may close games in lineups with Zion at center.",
+   "text": "The Pelicans have too many players for 240 minutes. Derik Queen, Zion Williamson and Saddiq Bey all compete for frontcourt minutes, and lineups with Zion at center and Bey may close games.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
+    "WXO8MfQfzo0:t1",
     "Q6YlQDvD-aY:t1",
-    "NYTH7uQsPCM:t0",
-    "gerS7ibpaJo:t1"
+    "gerS7ibpaJo:t1",
+    "NYTH7uQsPCM:t0"
    ]
   },
   {
-   "text": "New coach Jamahl Mosley brings a defense-first style and switches less. Less switching could help Missi's defensive rebounding.",
+   "text": "New coach Jamahl Mosley brings a defense-first identity and switches less than the previous coach.",
+   "kind": "fact",
+   "date": "2026-08-03",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:t4",
+    "gerS7ibpaJo:t0"
+   ]
+  },
+  {
+   "text": "Less switching under Mosley could help Missi's defensive rebounding.",
    "kind": "verdict",
    "date": "2026-08-03",
    "until": "",
    "sources": [
-    "5QU-jta-lWM:p15",
-    "5QU-jta-lWM:t4"
+    "5QU-jta-lWM:p15"
    ]
   },
   {
-   "text": "Experts see the Pelicans as a weak team near the bottom of the West. Jake predicts about 34 wins.",
+   "text": "The Pelicans are projected as a weak team, around 34 wins and out of the playoffs.",
    "kind": "verdict",
    "date": "2026-08-03",
    "until": "",
@@ -86,13 +96,14 @@
  ],
  "durable": [
   {
-   "text": "He is a strong rim protector who contests shots at the rim at a high rate. Last season he turned 39% of his rim contests into blocks.",
+   "text": "His shot blocking and rim protection improved a lot last season. He contests shots at the rim at a high rate and turned 39% of rim contests into blocks.",
    "kind": "fact",
-   "date": "2026-08-03",
+   "date": "2026-10-02",
    "until": "",
    "sources": [
     "5QU-jta-lWM:p14",
-    "NYTH7uQsPCM:p3"
+    "NYTH7uQsPCM:p3",
+    "ZYllcj4o6_A:p18"
    ]
   },
   {
@@ -105,9 +116,9 @@
    ]
   },
   {
-   "text": "Blocks are his standout category, far above the top 250 pool. He makes no threes and gets few steals, even for a center.",
+   "text": "Blocks are his standout category, far above the top 250 pool. He makes no threes and gets very few steals.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
@@ -118,134 +129,145 @@
   {
    "name": "BLK specialist",
    "channel": "durable",
-   "detail": "About 1.8 blocks projected; high block rate on rim contests",
+   "detail": "about 1.8 blocks projected, high rim contest to block rate",
+   "until": "",
    "sources": [
     "stats",
-    "5QU-jta-lWM:p14",
-    "NYTH7uQsPCM:p3"
+    "5QU-jta-lWM:p14"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "no 3PM",
    "channel": "durable",
    "detail": "",
+   "until": "",
    "sources": [
     "stats"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "punt 3PM fit",
    "channel": "durable",
    "detail": "",
+   "until": "",
    "sources": [
     "stats"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "punt STL fit",
    "channel": "durable",
    "detail": "",
+   "until": "",
    "sources": [
     "stats"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "role up",
    "channel": "current",
-   "detail": "Likely starting center after 19.6 minutes per game last season",
+   "detail": "expected to start at center after 19.6 minutes last season",
+   "until": "",
    "sources": [
     "5QU-jta-lWM:p13",
     "ZYllcj4o6_A:p18",
-    "BjXP9JODDSg:p33",
-    "_vbAP5y182A:p34"
+    "BjXP9JODDSg:p33"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Derik Queen at center; Zion and Saddiq Bey may close games without him",
+   "detail": "Derik Queen, Zion Williamson at center, Saddiq Bey in closing lineups",
+   "until": "",
    "sources": [
+    "_vbAP5y182A:t0",
     "Q6YlQDvD-aY:t1",
-    "NYTH7uQsPCM:t0",
-    "gerS7ibpaJo:t0"
+    "NYTH7uQsPCM:t0"
    ],
-   "until": "",
-   "new_meaning": ""
-  },
-  {
-   "name": "flyer",
-   "channel": "current",
-   "detail": "Late flier with block, FG% and rebound upside",
-   "sources": [
-    "ZYllcj4o6_A:p18"
-   ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "sleeper",
    "channel": "current",
-   "detail": "Available everywhere but likely starts",
+   "detail": "available everywhere, Josh likes him as a pick 120 flier",
+   "until": "",
    "sources": [
     "ZYllcj4o6_A:p18"
    ],
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "",
    "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p18"
+   ],
    "new_meaning": ""
   },
   {
    "name": "new coach",
    "channel": "current",
    "detail": "Jamahl Mosley",
+   "until": "",
    "sources": [
     "5QU-jta-lWM:t4",
-    "gerS7ibpaJo:t0"
+    "gerS7ibpaJo:t0",
+    "-DN4P92Wp8Y:t2"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "defense-first",
    "channel": "durable",
-   "detail": "Mosley's identity",
-   "sources": [
-    "5QU-jta-lWM:t4"
-   ],
+   "detail": "Mosley defense-first identity, team lacks shooting",
    "until": "",
+   "sources": [
+    "5QU-jta-lWM:t4",
+    "5QU-jta-lWM:t2"
+   ],
    "new_meaning": ""
   },
   {
-   "name": "bottom team",
+   "name": "unsettled rotation",
    "channel": "current",
-   "detail": "About 34 wins projected",
-   "sources": [
-    "5QU-jta-lWM:t6",
-    "0AptxcRW0RE:t7"
-   ],
+   "detail": "too many players for 240 minutes",
    "until": "",
+   "sources": [
+    "WXO8MfQfzo0:t1",
+    "gerS7ibpaJo:t0"
+   ],
    "new_meaning": ""
   },
   {
    "name": "deep rotation",
    "channel": "current",
-   "detail": "About eight players who could start",
+   "detail": "about eight players who could start",
+   "until": "",
    "sources": [
     "NYTH7uQsPCM:t0",
     "gerS7ibpaJo:t1"
    ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "about 34 wins projected",
    "until": "",
+   "sources": [
+    "5QU-jta-lWM:t6",
+    "0AptxcRW0RE:t7"
+   ],
    "new_meaning": ""
   }
  ],
- "note": "Yahoo ranks Missi 143 and ESPN ranks him 164. Both value him at 0 USD, and he went for 2 USD in our league's last auction. With 144 players drafted, he is a 1 to 2 USD end-of-draft flier or a waiver pickup. He fits builds that punt 3PM and STL and want blocks and FG%. Early in the season, check that he starts over Derik Queen and gets more than last season's 19.6 minutes, and how often Zion or Saddiq Bey close games at center.",
+ "note": "Missi is a late flier at 0 USD on both Yahoo and ESPN (Yahoo rank 131, ESPN rank 165), and he went for 2 USD in our league last season, so he should cost 1 to 2 USD at the end of the auction. He is a block source for punt 3PM or punt STL builds, with about 1.8 blocks projected and good FG%. Early in the season, check that he starts over Derik Queen and plays 25 or more minutes. Also check his FT%: Yahoo projects 69.4%, but he shot 55.9% last season.",
  "rejected": []
 }

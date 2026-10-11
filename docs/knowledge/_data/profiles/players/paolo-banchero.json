@@ -8,30 +8,98 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "5d2f8faf9cc0",
- "note_count": 17,
- "built_at": "2026-10-05T20:00:06+00:00",
+ "input_sha": "142fcf70a3ce",
+ "note_count": 22,
+ "built_at": "2026-10-11T09:22:19+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1626502,
-  "duration_ms": 44177,
+  "cost_usd_list": 0.1719302,
+  "duration_ms": 43010,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is a projected starter at forward next to Suggs, Bane, Franz Wagner and Carter. The team has a new head coach, Sean Sweeney, so roles may change.",
+   "text": "In category leagues, experts say he is too high in the 30s. Their fair range runs from the mid 40s to about 75. Lloyd would not take him in the top 50 but would take him before 75.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p17",
+    "eTsjuVu1trk:p40",
+    "uarqbNA2dFk:p7",
+    "WXO8MfQfzo0:p8"
+   ]
+  },
+  {
+   "text": "ESPN's category rank of 75 is too low. He is much better than 75th.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p60",
+    "6DnRWahYrFA:p17"
+   ]
+  },
+  {
+   "text": "He finished 125th in nine-cat last season but 58th in head-to-head.",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p17"
+   ]
+  },
+  {
+   "text": "In an expert auction mock, Josh bought him for 19 USD. Josh had wanted him for under 20 USD.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p58"
+   ]
+  },
+  {
+   "text": "He has no center eligibility.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p58"
+   ]
+  },
+  {
+   "text": "Orlando has a new head coach, Sean Sweeney, so player roles may change.",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "FEcNjVRlj-U:t0",
+    "6DnRWahYrFA:t3",
+    "6DnRWahYrFA:p17"
+   ]
+  },
+  {
+   "text": "Lloyd hopes the new coach brings more creativity for Banchero.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:t3"
+   ]
+  },
+  {
+   "text": "He is a projected starter next to Suggs, Bane, Franz Wagner and Carter. That group was very good when it played together.",
    "kind": "fact",
    "date": "2026-08-01",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:t0",
     "FEcNjVRlj-U:t1"
    ]
   },
   {
-   "text": "Last season he took fewer shots, fewer mid-range shots and had lower usage. His assist rate and his share of assisted makes were career highs. His rim finishing is only around the 50th percentile.",
+   "text": "Last season he took fewer shots, with fewer mid-range shots and lower usage. His assist rate and his share of assisted makes were career highs.",
    "kind": "fact",
    "date": "2026-08-01",
    "until": "",
@@ -40,64 +108,16 @@
    ]
   },
   {
-   "text": "He should be good for about 70 games this season.",
-   "kind": "verdict",
+   "text": "His scoring last season was about the same as in his 2024 All-Star season.",
+   "kind": "fact",
    "date": "2026-08-01",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:p16"
+    "FEcNjVRlj-U:p19"
    ]
   },
   {
-   "text": "In category leagues the experts see him as fair value in the 40s to mid 50s. He is not a sleeper in categories, and his market price is a little high for category leagues.",
-   "kind": "verdict",
-   "date": "2026-09-19",
-   "until": "",
-   "sources": [
-    "uarqbNA2dFk:p7",
-    "Alwse2uXzD4:p2",
-    "Alwse2uXzD4:p3"
-   ]
-  },
-  {
-   "text": "ESPN's rank of 75 is much too low for him. His Yahoo rank in the low 50s is a value, mainly in points leagues.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "ahNxsoU8Hx4:p60",
-    "LM0cRCGoAUQ:p15"
-   ]
-  },
-  {
-   "text": "In an auction mock draft he sold for 19 USD.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p58"
-   ]
-  },
-  {
-   "text": "Josh wanted to get him for under 20 USD.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p58"
-   ]
-  },
-  {
-   "text": "He is eligible at F only. He does not have C eligibility.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p58"
-   ]
-  },
-  {
-   "text": "Orlando is projected to win 47 or 48 games and finish as the 6th seed, which avoids the play-in.",
+   "text": "Phil predicts Orlando wins 47 or 48 games and takes the 6th seed.",
    "kind": "verdict",
    "date": "2026-08-01",
    "until": "",
@@ -108,18 +128,46 @@
  ],
  "durable": [
   {
-   "text": "He is a much better points league player than a category league player. His value is highest in Yahoo points.",
-   "kind": "verdict",
-   "date": "2026-10-04",
+   "text": "He puts up a lot of points, rebounds and assists. Josh calls him a big assists-plus-rebounds player.",
+   "kind": "fact",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "n4KkK-OJjqA:p39",
-    "2A2JbUN-kc0:p23",
-    "80kfLVnFQ_s:p20"
+    "LM0cRCGoAUQ:p14",
+    "BiIZsSypx7Y:p25",
+    "stats"
    ]
   },
   {
-   "text": "Experts say he gets too much hate in category leagues. In their view he does not kill the percentages, his blocks are about average and his steals are bad. His volume of points, rebounds and assists is strong.",
+   "text": "His assists are far above other forwards.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He turns the ball over a lot, about 3 times a game. That is a league outlier.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "His steals are weak and his blocks are about average.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p14",
+    "stats"
+   ]
+  },
+  {
+   "text": "He gets too much hate in category leagues. He does not kill the percentages.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
@@ -129,34 +177,7 @@
    ]
   },
   {
-   "text": "Turnovers are his worst category. At about 3.1 per game, they are a league outlier on the weak side.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "His assists are very high for a forward, and so are his points and rebounds.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "His FT% is about 75% on about 8 attempts per game. That is weak for a forward and pulls down a team's FT%.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "Josh says his free throw shooting has improved to a pretty good level.",
+   "text": "Josh says he has improved his free throw shooting to a pretty good level.",
    "kind": "verdict",
    "date": "2026-08-01",
    "until": "",
@@ -165,8 +186,38 @@
    ]
   },
   {
-   "text": "He played through a groin strain last season.",
+   "text": "His projected FT% of about 75% on 8 attempts a game is still weak for a forward.",
    "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He is a much better points league player than category league player. His value is highest in Yahoo points.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p39",
+    "2A2JbUN-kc0:p23",
+    "80kfLVnFQ_s:p20",
+    "WXO8MfQfzo0:p8"
+   ]
+  },
+  {
+   "text": "He played 72 games last season despite a groin strain.",
+   "kind": "fact",
+   "date": "2026-08-01",
+   "until": "",
+   "sources": [
+    "FEcNjVRlj-U:p16"
+   ]
+  },
+  {
+   "text": "He should be good for about 70 games.",
+   "kind": "verdict",
    "date": "2026-08-01",
    "until": "",
    "sources": [
@@ -176,9 +227,20 @@
  ],
  "tags": [
   {
+   "name": "AST from a big",
+   "channel": "durable",
+   "detail": "About 5.3 assists a game as a forward",
+   "until": "",
+   "sources": [
+    "stats",
+    "BiIZsSypx7Y:p25"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "high TO",
    "channel": "durable",
-   "detail": "About 3.1 TO per game",
+   "detail": "About 3.1 turnovers a game",
    "until": "",
    "sources": [
     "stats"
@@ -198,7 +260,7 @@
   {
    "name": "punt FT fit",
    "channel": "durable",
-   "detail": "About 75% FT on about 8 attempts",
+   "detail": "About 75% FT on 8 attempts a game",
    "until": "",
    "sources": [
     "stats"
@@ -206,32 +268,33 @@
    "new_meaning": ""
   },
   {
-   "name": "AST from a big",
-   "channel": "durable",
-   "detail": "About 5.3 AST per game as a forward",
-   "until": "",
-   "sources": [
-    "stats",
-    "LM0cRCGoAUQ:p14"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "points league player",
    "channel": "durable",
-   "detail": "Highest value in Yahoo points",
+   "detail": "Value is highest in Yahoo points",
    "until": "",
    "sources": [
     "n4KkK-OJjqA:p39",
     "2A2JbUN-kc0:p23",
-    "80kfLVnFQ_s:p20"
+    "80kfLVnFQ_s:p20",
+    "WXO8MfQfzo0:p8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "undervalued by 9-cat",
+   "channel": "durable",
+   "detail": "125th in nine-cat but 58th in head-to-head last season",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p17",
+    "LM0cRCGoAUQ:p14"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo value 19 USD and rank 52; ESPN value 5 USD and rank 75",
+   "detail": "Yahoo value 20 USD and rank 51; ESPN value 5 USD and rank 76",
    "until": "",
    "sources": [
     "stats",
@@ -245,14 +308,15 @@
    "detail": "Sean Sweeney replaces Jamahl Mosley",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:t0"
+    "FEcNjVRlj-U:t0",
+    "6DnRWahYrFA:t3"
    ],
    "new_meaning": ""
   },
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "Projected 47 to 48 wins",
+   "detail": "Phil predicts 47 or 48 wins and the 6th seed",
    "until": "",
    "sources": [
     "FEcNjVRlj-U:t4"
@@ -260,6 +324,6 @@
    "new_meaning": ""
   }
  ],
- "note": "His prices point to about 19 to 20 USD: Yahoo value 19, Yahoo average cost 18.8 and a 19 USD sale in a mock. The 26 USD our league paid last season would be an overpay in a category format, where experts rank him in the 40s to mid 50s. He fits punt TO and punt FT builds best because his strong points, rebounds and forward assists remain. Early in the season, check his shot volume and usage under new coach Sweeney, and whether his FT% holds near 75% or better.",
+ "note": "Our league paid 26 USD for him last season. The experts put him around picks 45 to 75 in category leagues, and his Yahoo value is 20 USD. So aim for about 13 to 20 USD (Josh paid 19 USD in a mock) and let someone else pay 26 USD. He fits punt TO and punt FT builds best, because those builds give up little on his weak turnovers and free throws and still get his points, rebounds and forward assists. Early in the season, watch whether new coach Sweeney gives him more shots and usage, and whether his FT% holds near 77%.",
  "rejected": []
 }

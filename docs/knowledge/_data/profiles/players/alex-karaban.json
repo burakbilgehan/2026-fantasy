@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "e3b54b54a49e",
+ "input_sha": "9b2fe2365176",
  "note_count": 5,
- "built_at": "2026-10-05T19:41:39+00:00",
+ "built_at": "2026-10-11T09:10:50+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.14508,
-  "duration_ms": 28419,
+  "cost_usd_list": 0.14534619999999998,
+  "duration_ms": 31869,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is a rookie. He is about 23 and a half years old. The Kings traded up to pick 29 to draft him.",
+   "text": "He is a rookie. The Kings traded up to pick 29 in the 2026 draft to take him.",
    "kind": "fact",
    "date": "2026-06-26",
    "until": "",
@@ -31,34 +31,7 @@
    ]
   },
   {
-   "text": "In Summer League he averaged 8 points on 16.5% usage.",
-   "kind": "fact",
-   "date": "2026-07-21",
-   "until": "",
-   "sources": [
-    "RyzcCGChYgs:p10"
-   ]
-  },
-  {
-   "text": "Lloyd thought he looked bad in Summer League. He does not expect him to be a rotation player this season.",
-   "kind": "verdict",
-   "date": "2026-07-31",
-   "until": "",
-   "sources": [
-    "oEywzBZfAvY:p24"
-   ]
-  },
-  {
-   "text": "Experts rank him below his draft slot.",
-   "kind": "verdict",
-   "date": "2026-06-28",
-   "until": "",
-   "sources": [
-    "RsjGTgJiKyI:p29"
-   ]
-  },
-  {
-   "text": "The projected Kings starters are Acuff, LaVine, Hunter, Murray and Sabonis. Nobody is pushing that group for a starting spot.",
+   "text": "Sacramento's projected starters are Acuff, LaVine, Hunter, Murray and Sabonis. He is not in that group.",
    "kind": "fact",
    "date": "2026-07-31",
    "until": "",
@@ -67,30 +40,49 @@
    ]
   },
   {
-   "text": "Experts disagree on how much the Kings will use rookies. One note says Sacramento will give rookies minutes. Another says coach Doug Christie is under pressure and may lean on veterans to win games.",
-   "kind": "verdict",
-   "date": "2026-08-02",
-   "until": "",
-   "sources": [
-    "TOn-D1SV7a8:t5",
-    "oEywzBZfAvY:t6"
-   ]
-  },
-  {
-   "text": "The Kings are expected to be one of the worst teams in the league. The hosts predict about 26 or 27 wins, and Vegas has them at about 21.5 to 22.5.",
+   "text": "Lloyd hated the pick and thought he looked bad in Summer League. He does not expect him to be a rotation player.",
    "kind": "verdict",
    "date": "2026-07-31",
    "until": "",
    "sources": [
+    "oEywzBZfAvY:p24"
+   ]
+  },
+  {
+   "text": "Rookie rankings put him below his draft slot.",
+   "kind": "verdict",
+   "date": "2026-06-28",
+   "until": "",
+   "sources": [
+    "RsjGTgJiKyI:p29"
+   ]
+  },
+  {
+   "text": "Experts project the Kings near the bottom of the league.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:t0",
     "oEywzBZfAvY:t7",
-    "0AptxcRW0RE:t8",
-    "lOshTzDA4SA:t4"
+    "0AptxcRW0RE:t8"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He used about 17% of his team's possessions in college.",
+   "text": "He is a low-usage player. His usage was 17% in college and 16.5% in Summer League, where he scored 8 points per game.",
+   "kind": "fact",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p3",
+    "lOshTzDA4SA:p29",
+    "RyzcCGChYgs:p10"
+   ]
+  },
+  {
+   "text": "He entered the NBA at about 23 and a half, old for a rookie.",
    "kind": "fact",
    "date": "2026-06-26",
    "until": "",
@@ -100,18 +92,18 @@
    ]
   },
   {
-   "text": "He is a low-usage shooter who does little else. His best case is a Steve Novak type of player. A less kind comparison is a much worse Duncan Robinson.",
+   "text": "He is a good shooter who does little else. Experts compare him to a much worse Duncan Robinson or see a Steve Novak outcome.",
    "kind": "verdict",
    "date": "2026-07-21",
    "until": "",
    "sources": [
     "RyzcCGChYgs:p10",
-    "CLsUc0Sevos:p3",
-    "lOshTzDA4SA:p29"
+    "lOshTzDA4SA:p29",
+    "CLsUc0Sevos:p3"
    ]
   },
   {
-   "text": "His game translates poorly to fantasy, so he has little fantasy appeal even if he plays.",
+   "text": "His game translates poorly to fantasy. Even as a rotation player he has little fantasy appeal.",
    "kind": "verdict",
    "date": "2026-06-26",
    "until": "",
@@ -124,7 +116,7 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "Pick 29 in 2026. The Kings traded up to take him.",
+   "detail": "Pick 29 in 2026, Kings traded up for him",
    "until": "",
    "sources": [
     "lOshTzDA4SA:p29",
@@ -133,18 +125,30 @@
    "new_meaning": ""
   },
   {
-   "name": "bottom team",
-   "channel": "current",
-   "detail": "Kings projected at about 21.5 to 27 wins.",
+   "name": "spot-up shooter",
+   "channel": "durable",
+   "detail": "Low-usage shooter, about 17% usage in college and Summer League",
    "until": "",
    "sources": [
+    "RyzcCGChYgs:p10",
+    "lOshTzDA4SA:p29",
+    "CLsUc0Sevos:p3"
+   ],
+   "new_meaning": "A low-usage player whose fantasy value comes almost only from made threes."
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "Kings projected near the bottom",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:t0",
     "oEywzBZfAvY:t7",
-    "0AptxcRW0RE:t8",
-    "lOshTzDA4SA:t4"
+    "0AptxcRW0RE:t8"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Karaban is not a draft option in our 12-team auction. Yahoo gives him a value of 0 USD and ranks him 605th. His Yahoo projection is weak: 7.6 points, 41.7% FG and only 1.4 threes. The experts doubt he will even make the Kings rotation behind a set starting five. Leave him on waivers and only look at him if early-season box scores show real minutes as a shooter.",
+ "note": "Do not draft him. Yahoo has him at 608 with a value of 0 USD, ESPN does not price him, and Lloyd does not expect him to make the rotation. Yahoo projects only 7.6 points and 1.4 threes on 41.7% shooting, below the pool average in every category except TO and FT%. Check early whether he gets real minutes on a bad Kings team. Even then he is only a deep-league threes streamer.",
  "rejected": []
 }

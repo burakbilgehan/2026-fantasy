@@ -8,56 +8,32 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "f3a262c3550a",
+ "input_sha": "061925f0b9e9",
  "note_count": 0,
- "built_at": "2026-10-04T17:47:26+00:00",
+ "built_at": "2026-10-11T09:22:42+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.0806622,
-  "duration_ms": 15248
+  "cost_usd_list": 0.0915782,
+  "duration_ms": 13368,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He is not in the projected Phoenix starting lineup of Devin Booker, Jalen Green, Dillon Brooks, Miles Bridges and Mark Williams.",
+   "text": "Ryan Dunn is not in Phoenix's projected starting lineup. That lineup has Dillon Brooks and Miles Bridges at forward. Notes expect Devin Booker, Jalen Green, Bridges and Brooks to take most of the team's minutes and usage.",
    "kind": "fact",
-   "date": "2026-08-23",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "hm5-fiCa5S4:t0"
-   ]
-  },
-  {
-   "text": "The Phoenix perimeter usage is crowded: Booker, Jalen Green, Dillon Brooks, Collin Gillespie and Miles Bridges will all want touches.",
-   "kind": "fact",
-   "date": "2026-09-19",
-   "until": "",
-   "sources": [
+    "hm5-fiCa5S4:t0",
+    "-DN4P92Wp8Y:t7",
     "uarqbNA2dFk:t1"
    ]
-  },
-  {
-   "text": "Both sites rank him outside the 144 players our league drafts, so he is not a draft target for us.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
   }
  ],
- "durable": [
-  {
-   "text": "He is a low-usage role player. He takes few shots and commits few turnovers, and his weak free throw shooting comes on so few attempts that it barely moves a team's FT%.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  }
- ],
+ "durable": [],
  "tags": [],
- "note": "No expert has talked about Dunn. Yahoo ranks him 287 and ESPN ranks him 216, both sites price him at 0 USD, and our league did not draft him last season, so he should go undrafted in our 144-player auction. Both sites project him for about 1.0 3PM, 0.9 STL and 0.5 BLK per game with few turnovers, and his points are weak. He is crowded out of the wing touches behind Booker, Green, Brooks and Bridges, so only check him on waivers if injuries push his minutes clearly above 20 per game early in the season.",
+ "note": "No expert has said anything about Dunn himself. Both sites value him at 0 USD, and his ranks (286 on Yahoo, 217 on ESPN) are far outside the 144 players our auction drafts, so he should not be on anyone's draft list. His projection is a bench forward's line of about 20 to 23 minutes with no strong category (best is low turnovers, 0.8 per game). Only watch him on waivers if a Phoenix forward gets hurt and his minutes clearly go up.",
  "rejected": []
 }

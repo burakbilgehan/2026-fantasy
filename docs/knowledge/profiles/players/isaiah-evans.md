@@ -7,7 +7,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 685 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 709 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,25 +21,25 @@
 | AST | 0.6 | -1.4 | -1.7 | - |
 | STL | 0.3 | -2.0 | -2.1 | league outlier, weak |
 | BLK | 0.3 | -0.7 | -0.5 | - |
-| TO | 0.2 | +1.9 | +2.0 | - |
+| TO | 0.2 | +2.0 | +2.1 | - |
 
 </details>
 
 **Current**
-- He is a rookie from the 2026 NBA draft class. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=382), [06-22](https://youtu.be/HxQjagSTTAM?t=786))
-- He is ranked 31st in a dynasty rookie ranking. His rank did not change after Summer League. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=382))
-- In Summer League he took 10 three-point attempts out of 14 shots but shot 21%. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1384))
-- If he gets a role, he could make about 2.5 threes in 20 minutes and add little else. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1384))
+- Minnesota's bench is thin, with little scoring punch, and the team needs wing depth in case of injuries. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [07-01](https://youtu.be/W3THnI7wWdA?t=828))
+- He is a rookie from the 2026 draft class. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=382), [06-22](https://youtu.be/HxQjagSTTAM?t=786))
+- His dynasty rookie rank is 31. His Summer League play did not change it. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=382))
+- If he gets a role, he could make about 2.5 threes in 20 minutes but add almost nothing in other categories. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1384))
 
 **Durable**
-- Outside of threes he adds little. His projected points, rebounds and steals are far below the top 250 pool. (verdict, 2026-10-05; stats, [07-21](https://youtu.be/RyzcCGChYgs?t=1384))
-- He is a pure volume three-point shooter who takes a very large share of his shots from three. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=382), [07-21](https://youtu.be/RyzcCGChYgs?t=1384), [06-22](https://youtu.be/HxQjagSTTAM?t=786))
-- He is an older prospect who made his threes at a high rate before the draft. (fact, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=786))
+- Outside of threes his projected line is very thin. Points, rebounds and steals are clear weak spots. (fact, 2026-10-11; stats)
+- He is a pure volume three-point shooter. In Summer League, 10 of his 14 shots were threes, and he made 21% of them. (fact, 2026-08-02; [07-21](https://youtu.be/RyzcCGChYgs?t=1384), [08-02](https://youtu.be/TOn-D1SV7a8?t=382))
+- He is an older prospect. Before the draft he took a huge number of threes and made them at a high rate. (fact, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=786))
 
 **Tags**
-- Current: `rookie` (2026 draft class, dynasty rookie rank 31)
+- Current: `rookie` (2026 draft class, dynasty rookie rank 31), `waiver watch` (Only worth adding if he earns about 20 minutes. Then he is a threes-only streamer.)
 - Durable: none
 
-**Note.** Evans is not a draft option in our 144-player auction. Yahoo ranks him 685th at a value of 0 USD, ESPN does not price him, and he was not drafted in our league last season. His projection is only 3.7 points and 0.6 threes, and he would help in threes only. Watch Minnesota's thin bench early in the season. If he ever gets about 20 minutes, he could be a short-term 3PM streamer. Until then he is not worth a roster spot.
+**Note.** Yahoo ranks him 709th with a value of 0 USD, and ESPN gives no price. That puts him far outside the 144 players our league drafts, so do not draft him. His Yahoo projection is only 0.6 threes and 3.7 points per game, and his only possible fantasy use is as a three-point streamer. Early in the season, check whether Minnesota's thin bench gives him about 20 minutes a night. If it does, he can be a short-term pickup for teams that need threes.
 
-<sub>3 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

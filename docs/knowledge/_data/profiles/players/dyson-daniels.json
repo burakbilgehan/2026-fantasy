@@ -8,39 +8,89 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "b13dc9b5a99b",
- "note_count": 25,
- "built_at": "2026-10-05T19:49:44+00:00",
+ "input_sha": "f6725891fa25",
+ "note_count": 28,
+ "built_at": "2026-10-11T09:16:43+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2093582,
-  "duration_ms": 59166,
+  "cost_usd_list": 0.2155142,
+  "duration_ms": 59829,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is a locked-in starter for Atlanta. He is projected to start next to McCollum, Alexander-Walker, Johnson and Okongwu, with each starter playing 30-plus minutes.",
+   "text": "He is a locked-in starter. The projected Atlanta starting five is McCollum, Alexander-Walker, Daniels, Johnson and Okongwu, and each should play 30-plus minutes.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
    "sources": [
     "H9q2FT3LhNw:p8",
-    "4gw4W4RTolY:t1"
+    "4gw4W4RTolY:t1",
+    "H9q2FT3LhNw:t0"
    ]
   },
   {
-   "text": "Lu Dort is the main threat to his minutes. Experts still expect him to keep his starting spot. If Dort starts, it would likely be in place of CJ McCollum, and Dort and Daniels will mostly be staggered for spacing.",
+   "text": "Experts do not expect Lu Dort to take his starting job. If Dort starts, it would likely be in place of CJ McCollum. Dort and Daniels should mostly be staggered for spacing, so Dort is a small threat to his minutes.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "egRrai3Ax38:p30",
-    "egRrai3Ax38:t5",
+    "6DnRWahYrFA:p13",
     "J1Eg3uaAICU:p39",
     "n4KkK-OJjqA:t1",
-    "H9q2FT3LhNw:t5"
+    "H9q2FT3LhNw:t5",
+    "egRrai3Ax38:p30",
+    "egRrai3Ax38:t5",
+    "W-R1dzem32s:p16"
+   ]
+  },
+  {
+   "text": "He shot about 18% from three last season, down from 34% the season before. He shot over 30% from three over the last six weeks of the season.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p11",
+    "H9q2FT3LhNw:p6",
+    "-y6p5PYLf00:p8",
+    "dlo7L8Ru91A:p12",
+    "J1Eg3uaAICU:p39"
+   ]
+  },
+  {
+   "text": "Experts expect a bounce-back. His three-point percentage should rise from 18%, which would help his scoring and FG%, and his steals should not drop below two per game and could climb back toward 2.3 to 3.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p13",
+    "n4KkK-OJjqA:p19",
+    "4gw4W4RTolY:p13",
+    "ahNxsoU8Hx4:p23",
+    "J1Eg3uaAICU:p39",
+    "-y6p5PYLf00:p8",
+    "dlo7L8Ru91A:p12",
+    "W-R1dzem32s:p16"
+   ]
+  },
+  {
+   "text": "Experts agree his market price is too low. Lloyd calls his rank an overreaction to him going too high last season and sees him as a round 3 to 4 player. Others say take him in the 40s or around 50. In an auction mock, 17 USD was called tremendous value, and he was expected to go over 20 USD.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p13",
+    "6DnRWahYrFA:p14",
+    "n4KkK-OJjqA:p20",
+    "Q6YlQDvD-aY:p33",
+    "BiIZsSypx7Y:t0",
+    "4gw4W4RTolY:p12",
+    "_vbAP5y182A:p28",
+    "WXO8MfQfzo0:p23",
+    "KPdD91Oo8-U:p15",
+    "ahNxsoU8Hx4:p23"
    ]
   },
   {
@@ -53,90 +103,39 @@
    ]
   },
   {
-   "text": "Last season his steals fell by a third to about 2 per game and he shot about 18% from three. He shot over 30% from three over the last six weeks of the season.",
+   "text": "Quin Snyder wants Okongwu spaced away from the rim when he plays with Daniels and Johnson.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
    "sources": [
-    "4gw4W4RTolY:p11",
-    "H9q2FT3LhNw:p6",
-    "J1Eg3uaAICU:p39",
-    "-y6p5PYLf00:p8"
-   ]
-  },
-  {
-   "text": "Experts expect a bounce-back. His steals should rise toward 2.3 to 3 per game and his three-point shooting should improve, which would help his points, FG% and threes. They see little downside, because both numbers can hardly get worse.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p19",
-    "4gw4W4RTolY:p13",
-    "ahNxsoU8Hx4:p23",
-    "J1Eg3uaAICU:p39",
-    "-y6p5PYLf00:p8",
-    "dlo7L8Ru91A:p12",
-    "W-R1dzem32s:p16"
-   ]
-  },
-  {
-   "text": "His rebounding rose under a changed scheme after the Trae Young trade. He ranked about 40th after that trade. When he plays next to Daniels and Johnson, Okongwu is spaced away from the rim.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p22",
     "4gw4W4RTolY:t7"
    ]
   },
   {
-   "text": "Experts rank him above his market ADP of about 60. Calls range from the 40s to around pick 52, which is round four or five.",
+   "text": "Atlanta is projected to win about 46 games and finish fourth to eighth in the East. The team was not shutting players down last season, and resting players is not a concern.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-09-25",
    "until": "",
    "sources": [
-    "4gw4W4RTolY:p12",
-    "n4KkK-OJjqA:p20",
-    "_vbAP5y182A:p28",
-    "ahNxsoU8Hx4:p23",
-    "J1Eg3uaAICU:p39",
-    "KPdD91Oo8-U:p15"
+    "H9q2FT3LhNw:t7",
+    "xHRF06_E9HE:t0",
+    "4gw4W4RTolY:t6"
    ]
   },
   {
-   "text": "In auctions he should go for 20 USD or more. Getting him at 17 USD is tremendous value. His Yahoo projected price of 17 USD is far above his average Yahoo cost of about 5 USD.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p33",
-    "XnIWJyBB0EM:p10"
-   ]
-  },
-  {
-   "text": "Atlanta's playoff schedule is 4-4-3 games in weeks 19 to 21. The team has 14 back-to-backs, but resting players is not a concern, and the team did not shut players down last season.",
+   "text": "Atlanta plays 4, 4 and 3 games in our playoff weeks 19 to 21 and has 14 back-to-backs this season.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
    "sources": [
-    "4gw4W4RTolY:t6",
-    "xHRF06_E9HE:t0"
-   ]
-  },
-  {
-   "text": "Atlanta is projected to win about 46 games and finish between fourth and eighth in the East.",
-   "kind": "verdict",
-   "date": "2026-08-25",
-   "until": "",
-   "sources": [
-    "H9q2FT3LhNw:t7"
+    "4gw4W4RTolY:t6"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is an elite steals player and a league outlier in steals. His steal totals vary from year to year.",
-   "kind": "fact",
+   "text": "He is an elite steals player with excellent defensive metrics. His steal totals vary from year to year.",
+   "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
    "sources": [
@@ -144,48 +143,48 @@
     "4gw4W4RTolY:p13",
     "KPdD91Oo8-U:p14",
     "dlo7L8Ru91A:p12",
+    "NYTH7uQsPCM:p18",
     "stats"
    ]
   },
   {
-   "text": "He is an All-Defense player with excellent defensive metrics.",
+   "text": "He is an All-Defense player.",
    "kind": "fact",
-   "date": "2026-09-25",
+   "date": "2026-08-25",
    "until": "",
    "sources": [
-    "H9q2FT3LhNw:p9",
-    "4gw4W4RTolY:p13"
+    "H9q2FT3LhNw:p9"
    ]
   },
   {
-   "text": "He grew up as a point guard and handles the ball. He can give 5 to 6 assists, so he is not only a steals player. At times he plays almost a big man role on offense.",
-   "kind": "fact",
+   "text": "He is not only a steals player. He grew up as a point guard, handles the ball and can give 5 to 6 assists, with good rebounds and FG% for his position.",
+   "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
    "sources": [
+    "n4KkK-OJjqA:p21",
     "H9q2FT3LhNw:p7",
-    "H9q2FT3LhNw:p9",
-    "n4KkK-OJjqA:p21"
+    "stats"
    ]
   },
   {
-   "text": "He is a poor shooter and a poor scorer. His FT% and threes are weak for his position.",
+   "text": "At times he plays almost a big man role on offense.",
    "kind": "fact",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:p9"
+   ]
+  },
+  {
+   "text": "He is a poor shooter and a poor scorer. He makes few threes and shoots a low FT% for his position.",
+   "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
    "sources": [
     "H9q2FT3LhNw:p6",
     "dlo7L8Ru91A:p12",
     "stats"
-   ]
-  },
-  {
-   "text": "Take him when you need steals.",
-   "kind": "verdict",
-   "date": "2026-09-10",
-   "until": "",
-   "sources": [
-    "dlo7L8Ru91A:p12"
    ]
   },
   {
@@ -202,7 +201,7 @@
   {
    "name": "STL specialist",
    "channel": "durable",
-   "detail": "About 2.2 steals per game projected, far above the pool",
+   "detail": "Elite steals, projected about 2.2 per game, far above the pool",
    "until": "",
    "sources": [
     "n4KkK-OJjqA:p21",
@@ -225,7 +224,7 @@
   {
    "name": "punt 3PM fit",
    "channel": "durable",
-   "detail": "About 0.5 threes per game projected",
+   "detail": "About 0.5 threes per game, 18% from three last season",
    "until": "",
    "sources": [
     "stats",
@@ -246,45 +245,47 @@
   {
    "name": "bounce-back",
    "channel": "current",
-   "detail": "Steals and three-point shooting expected to rise after a down year",
+   "detail": "Three-point shooting and steals expected to recover",
    "until": "",
    "sources": [
+    "6DnRWahYrFA:p13",
     "n4KkK-OJjqA:p19",
-    "4gw4W4RTolY:p13",
-    "ahNxsoU8Hx4:p23",
+    "-y6p5PYLf00:p8",
     "J1Eg3uaAICU:p39",
-    "-y6p5PYLf00:p8"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sleeper",
-   "channel": "current",
-   "detail": "ADP around 60, experts say the 40s to around 52",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p20",
-    "ahNxsoU8Hx4:p23",
-    "4gw4W4RTolY:p12"
+    "ahNxsoU8Hx4:p23"
    ],
    "new_meaning": ""
   },
   {
    "name": "expert target",
    "channel": "current",
-   "detail": "Lloyd: top 50; Josh: 20 USD or more",
+   "detail": "Experts rank him top 50 or round 3 to 4 against a market ADP near 60",
    "until": "",
    "sources": [
     "4gw4W4RTolY:p12",
+    "6DnRWahYrFA:p13",
+    "n4KkK-OJjqA:p20",
     "Q6YlQDvD-aY:p33",
-    "_vbAP5y182A:p28"
+    "BiIZsSypx7Y:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "Yahoo rank about 60 and low Yahoo average cost",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p19",
+    "ahNxsoU8Hx4:p23",
+    "XnIWJyBB0EM:p10"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo rank 61 and average cost 4.4 USD; ESPN rank 38 and average cost 9.7 USD",
+   "detail": "Yahoo rank 62 and 4.1 USD average cost, ESPN rank 38 and 10.7 USD",
    "until": "",
    "sources": [
     "stats"
@@ -292,9 +293,21 @@
    "new_meaning": ""
   },
   {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Lu Dort; experts expect Daniels to keep starting",
+   "until": "",
+   "sources": [
+    "egRrai3Ax38:t5",
+    "egRrai3Ax38:p30",
+    "6DnRWahYrFA:p13"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "shared ball handling",
    "channel": "current",
-   "detail": "Shares ball handling with McCollum, Alexander-Walker and Johnson",
+   "detail": "No true point guard in Atlanta",
    "until": "",
    "sources": [
     "H9q2FT3LhNw:t2"
@@ -302,37 +315,27 @@
    "new_meaning": ""
   },
   {
-   "name": "good playoff schedule",
+   "name": "winning team",
    "channel": "current",
-   "detail": "4-4-3 games in weeks 19 to 21",
+   "detail": "About 46 wins projected",
    "until": "",
    "sources": [
-    "4gw4W4RTolY:t6"
+    "H9q2FT3LhNw:t7"
    ],
    "new_meaning": ""
   },
   {
    "name": "low shutdown risk",
    "channel": "current",
-   "detail": "Resting players not a concern; no shutdowns last season",
+   "detail": "",
    "until": "",
    "sources": [
-    "4gw4W4RTolY:t6",
-    "xHRF06_E9HE:t0"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "winning team",
-   "channel": "current",
-   "detail": "About 46 wins projected, fourth to eighth in the East",
-   "until": "",
-   "sources": [
-    "H9q2FT3LhNw:t7"
+    "xHRF06_E9HE:t0",
+    "4gw4W4RTolY:t6"
    ],
    "new_meaning": ""
   }
  ],
- "note": "He is a steals anchor who also adds assists, rebounds and solid FG% from a guard-forward spot. He fits punt FT% and punt 3PM builds. Yahoo values him at 17 USD and ESPN at 19 USD, but average costs are only 4.4 and 9.7 USD. Experts say he is worth 20 USD or more, so a price in the high teens or low 20s is a good buy, well below the 28 USD our league paid last season. Early in the season, check that his steals are back above 2.3 per game, that his three-point shooting stays above 30%, and that Lu Dort is not cutting into his minutes.",
+ "note": "Daniels is a steals outlier (z +3.9) who also gives real assists, rebounds and FG%. That makes him a natural fit for punt FT% and punt 3PM builds. Yahoo values him at 17 USD and ESPN at 19 USD, but his Yahoo average cost is only 4.1 USD, and our league paid 28 USD last season. Experts see him as a round 3 to 4 value and expect him to go over 20 USD, so 18 to 24 USD is a fair range. Early in the season, check whether his three-point shooting gets back above 30%, whether his steals hold above two per game, and whether Lu Dort takes any of his minutes.",
  "rejected": []
 }

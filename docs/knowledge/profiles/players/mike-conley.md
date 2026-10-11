@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 301 | 0 | 0.0 | 305 | not drafted |
+| 2026-27 | 0 | - | 303 | 0 | 0.0 | 305 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -22,28 +22,28 @@
 | 3PM | 0.9 | -0.6 | -1.1 | - |
 | PTS | 4.3 | -1.7 | -1.7 | league outlier, weak |
 | REB | 1.5 | -1.5 | -1.6 | league outlier, weak |
-| AST | 2.6 | -0.3 | -0.6 | - |
-| STL | 0.6 | -1.1 | -1.3 | - |
+| AST | 2.6 | -0.3 | -0.7 | - |
+| STL | 0.6 | -1.2 | -1.3 | - |
 | BLK | 0.2 | -0.9 | -1.0 | - |
-| TO | 0.7 | +1.3 | +1.4 | - |
+| TO | 0.7 | +1.3 | +1.5 | - |
 
 </details>
 
 **Current**
-- He comes off the bench behind Derrick White and Payton Pritchard. Boston is very deep, with at least 12 rotation-level players, so in a 10-man rotation someone misses out most nights. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133), [07-02](https://youtu.be/P6TNP-g0wzY?t=1775))
-- The newest preview has him as the 10th man in the rotation. He can play the backup point guard role, which may cut into Pritchard's work as a bench ball handler. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=265))
+- The newest preview has him as the 10th man in Boston's rotation. He could take the backup point guard role, so Boston might not need Pritchard as a bench ball handler. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=265), [09-25](https://youtu.be/Bi1cEM03k9Y?t=848))
+- Boston is very deep, with at least 12 rotation-level players. In a 10-man rotation someone misses out most nights, which puts his minutes at risk. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133))
 - He signed with Boston on a minimum contract as veteran point guard help. (fact, 2026-07-30; [07-02](https://youtu.be/P6TNP-g0wzY?t=1775), [07-30](https://youtu.be/TiiaNZCJNs8?t=519))
-- Experts do not expect much fantasy production from him this season. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=519))
+- Experts do not expect much fantasy production from him. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=519))
+- He is expected to play about 18 minutes off the bench behind Pritchard and White. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1775))
 
 **Durable**
-- Points and rebounds are his weakest categories. Both are far below the top 250 pool. (fact, 2026-10-04; stats)
-- He shoots about 90% from the line. He gets to the line so rarely that it barely moves a team's FT%. (fact, 2026-10-04; stats)
-- He commits very few turnovers. (fact, 2026-10-04; stats)
+- He scores very few points and gets very few rebounds, far below the top 250 pool. (fact, 2026-10-11; stats)
+- He commits very few turnovers and his free throw percentage is high, but his low volume means neither moves a team's totals much. (fact, 2026-10-11; stats)
 
 **Tags**
-- Current: `new team` (Signed with Boston on a minimum contract), `minutes competition` (10th man on a deep Boston roster. Competes with Pritchard for bench ball-handler minutes.)
-- Durable: `age decline watch` (Veteran. His minutes and output fell in each of the last three seasons.)
+- Current: `new team` (Signed with Boston on a minimum contract), `deep rotation` (Boston has at least 12 rotation-level players, and he is projected as the 10th man), `minutes competition` (Plays behind Pritchard and White at point guard)
+- Durable: none
 
-**Note.** He is not a draft target in our league. Both sites rank him around 300 and value him at 0 USD, far outside the 144 players we draft, and his projections (about 4 points and 2.6 assists in under 18 minutes) give little beyond a small edge in turnovers. Only watch him early in the season if White or Pritchard miss time and his minutes clearly go up.
+**Note.** Both Yahoo and ESPN value him at 0 USD and rank him around 303 to 305, far outside the 144 players drafted in our league. He should not be drafted. He shot 33.5% from the field on 18.4 minutes last season, and both sites project only about 4 to 5 points per game. Only watch him on waivers if White or Pritchard misses time and his backup point guard minutes grow clearly.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

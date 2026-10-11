@@ -11,40 +11,43 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 1.0 | 126 | 2 | 0.8 | 118 | not drafted |
+| 2026-27 | 0 | 1.0 | 134 | 2 | 0.9 | 119 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 44.8% | -0.6 | -0.5 | - |
+| FG% | 44.8% | -0.7 | -0.6 | - |
 | FT% | 80.5% | +0.2 | +0.0 | - |
 | 3PM | 2.2 | +0.8 | +0.7 | - |
 | PTS | 15.2 | +0.2 | +0.2 | - |
 | REB | 4.0 | -0.4 | -0.2 | - |
-| AST | 3.3 | +0.1 | +0.0 | - |
-| STL | 1.0 | +0.3 | +0.1 | - |
+| AST | 3.3 | +0.0 | -0.0 | - |
+| STL | 1.0 | +0.2 | +0.1 | - |
 | BLK | 0.4 | -0.5 | -0.3 | - |
 | TO | 1.9 | -0.4 | -0.4 | - |
 
 </details>
 
 **Current**
-- Experts expect him to start and play about 30 minutes. One expert says the starting role is not confirmed yet. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1969), [09-30](https://youtu.be/BjXP9JODDSg?t=2070), [08-04](https://youtu.be/_WjOjp6Qu8E?t=528), [09-24](https://youtu.be/_vbAP5y182A?t=2370))
-- If a top Lakers player gets hurt, he becomes the number two option with top 80 upside. That makes him some insurance on Luka Doncic, whose health is a known risk. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1969), [09-30](https://youtu.be/BjXP9JODDSg?t=2070), [08-05](https://youtu.be/CI4k8ofUXXk?t=103))
-- Ziaire Williams might also start for the Lakers, which could cut into the open starting spots. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
-- He is a last-round flyer as a likely starter. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
-- The Lakers have two open starting spots. Grimes, LaRavia and Mamukelashvili are the main candidates. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669))
-- Whoever comes off the Lakers bench in that group is expected to still play about 27 minutes. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669))
-- LeBron James left the Lakers for the Sixers and Rui Hachimura appears to be gone. This frees up usage for the players who remain. (fact, 2026-08-04; [07-01](https://youtu.be/W3THnI7wWdA?t=872), [08-04](https://youtu.be/_WjOjp6Qu8E?t=306))
+- He is the projected starter for the Lakers at about 30 minutes a game. The experts are fairly confident about it. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=294), [10-02](https://youtu.be/ZYllcj4o6_A?t=1969), [10-06](https://youtu.be/sFelMKWcqyI?t=1441), [08-04](https://youtu.be/_WjOjp6Qu8E?t=528))
+- He is a high-end late flyer. On his own his best case is about top 110. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1050), [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
+- If Doncic or Reaves misses time, he becomes the second option and could have a top 70 to 80 run. That makes him a handcuff who also has value on his own. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1070), [10-02](https://youtu.be/ZYllcj4o6_A?t=1969), [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
+- The Lakers play 3, 4 and 3 games in our playoff weeks 19 to 21. That is in the bottom half of the league. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2036))
+- The Lakers have the second most back-to-backs in the league. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2119))
+- Doncic's health is seen as a weak point for the Lakers. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=103))
+- Andy expects him to start because he is the team's best point of attack defender and can also score and handle the ball. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=528))
+- LeBron James left the Lakers. Luka Doncic and Austin Reaves are the remaining core. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=306), [07-01](https://youtu.be/W3THnI7wWdA?t=872))
 
 **Durable**
+- No category is a real outlier, strong or weak. Threes are his best category. (fact, 2026-10-11; stats)
+- When he got big usage running point guard on a tanking Philadelphia team, he scored a lot and shot very well. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1014))
 - He is a point of attack defender who can also score and handle the ball. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=528))
 
 **Tags**
-- Current: `flyer` (Last-round pick as a likely starter), `sleeper` (Market rank about 118 to 126 at about 1 USD. Expert sees top 80 upside), `handcuff` (Becomes the number two option if Luka Doncic or another top Laker misses time), `minutes competition` (Two open starting spots with LaRavia, Mamukelashvili and possibly Ziaire Williams)
-- Durable: `fits every build` (No category flagged weak. FG% is his softest category)
+- Current: `handcuff` (Top 70 to 80 upside if Doncic or Reaves misses time), `flyer` (Late flyer, best case about top 110 on his own), `usage competition` (Behind Doncic and Reaves), `usage freed` (LeBron James left), `many back-to-backs` (Second most in the league), `bad playoff schedule` (3-4-3 in weeks 19 to 21, bottom half of the league)
+- Durable: `usage dependent` (Scored big and shot well with point guard usage in Philadelphia), `fits every build`
 
-**Note.** Grimes is priced at about 1 USD on Yahoo and ESPN, with ranks of 126 and 118. That puts him near the bottom of our 144-player draft, so he works as a 1 USD last-round flyer or as an early waiver pickup. His projected line has no weak category, with threes as his best category and FG% his softest, so he fits any build. He gains upside if Luka misses time. In the first weeks, check whether he starts and plays about 30 minutes, since LaRavia, Mamukelashvili and Ziaire Williams are also competing for the open starting spots.
+**Note.** He sits right at the edge of our 144-player pool (Yahoo rank 134 at about 1 USD, ESPN rank 119 at 2 USD, and he was not drafted in our league). That makes him a 1 USD final pick at most, or a waiver add. He has no weak category, so he fits any build. He is most useful to the manager who owns Doncic or Reaves, because he could be a top 70 to 80 player if either one misses time. Early in the season, check that he starts and plays about 30 minutes. Also watch his FG% (about 45% projected). The weak playoff schedule (3-4-3) and many back-to-backs limit his late-season appeal.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>8 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

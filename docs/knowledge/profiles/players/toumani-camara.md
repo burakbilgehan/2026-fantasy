@@ -11,16 +11,16 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 4 | 1.0 | 106 | 0 | 0.2 | 132 | 4 |
+| 2026-27 | 3 | 1.0 | 109 | 0 | 0.4 | 131 | 4 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 44.5% | -0.6 | -0.6 | - |
-| FT% | 71.9% | -0.4 | -0.4 | - |
-| 3PM | 2.0 | +0.6 | +0.7 | - |
-| PTS | 11.5 | -0.4 | -0.4 | - |
+| FT% | 71.9% | -0.5 | -0.4 | - |
+| 3PM | 2.0 | +0.6 | +0.6 | - |
+| PTS | 11.5 | -0.4 | -0.5 | - |
 | REB | 5.2 | +0.0 | +0.0 | - |
 | AST | 2.1 | -0.6 | -0.4 | - |
 | STL | 1.2 | +0.7 | +0.8 | - |
@@ -30,26 +30,27 @@
 </details>
 
 **Current**
-- Portland has a crowd of on-ball guards. Lillard, Morant and Scoot Henderson all return or arrive, next to Avdija. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), [09-10](https://youtu.be/dlo7L8Ru91A?t=767), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194))
+- Portland has many high-usage guards: Lillard, Morant, Holiday and Henderson, plus Avdija. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=370), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825))
 - Portland has a new head coach this season. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1559))
-- His usage will probably drop because of all the guards. That leaves him as mainly a steals contributor. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1174), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2225), [09-10](https://youtu.be/dlo7L8Ru91A?t=1726))
-- Experts rate him below his market. A rank of 101 is called far too high, and he sits in tier seven among small forwards. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1174), [09-10](https://youtu.be/dlo7L8Ru91A?t=1726))
-- His minutes should stay solid. The team likely needs him for about 34 minutes a night, and he must hold 30 or more minutes to keep fantasy value. (verdict, 2026-09-10; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1485), [09-10](https://youtu.be/dlo7L8Ru91A?t=1726))
-- Portland has three back-to-backs in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
-- Portland's season preview projects him to start next to Lillard, Morant, Avdija and Clingan. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=477))
-- Portland is short on forwards. Avdija and Camara are basically the only ones, which protects his minutes. (fact, 2026-08-11; [06-29](https://youtu.be/bHA-JoW3reE?t=227), [08-11](https://youtu.be/YJk7ZFKFqnI?t=204))
-- Minutes and usage are expected to swing from game to game across Portland's rotation. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
+- His usage will probably drop this season because of the crowded guard group. (verdict, 2026-09-19; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2225), [09-10](https://youtu.be/dlo7L8Ru91A?t=1726), [09-19](https://youtu.be/uarqbNA2dFk?t=1174))
+- He shot poorly for most of last season and only shot well in the last six weeks. His steals were also down last season. (fact, 2026-09-19; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2225), [09-10](https://youtu.be/dlo7L8Ru91A?t=1726), [09-19](https://youtu.be/uarqbNA2dFk?t=1174))
+- With Portland's usage, experts see him mainly as a steals contributor. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1174), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2225))
+- Experts put him in tier seven at small forward and call a rank of 101 too high. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1174), [09-10](https://youtu.be/dlo7L8Ru91A?t=1726))
+- Portland likely needs him for about 34 minutes a night, and his minutes should stay solid. (verdict, 2026-09-10; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1485), [09-10](https://youtu.be/dlo7L8Ru91A?t=1726))
+- Portland's projected starting five is Lillard, Morant, Camara, Avdija and Clingan. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=477))
+- Portland is short on forwards. Basically only Avdija and Camara play forward on the roster. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [06-29](https://youtu.be/bHA-JoW3reE?t=227))
+- He needs to lock in at 30 or more minutes to hold fantasy value. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1485))
+- Minutes and usage across Portland's rotation are expected to swing from game to game. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
 
 **Durable**
-- Steals are his main fantasy strength. He adds little in the other categories. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1174), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2225), stats)
-- His shooting runs in peaks and valleys. Last season he shot poorly until the last six weeks. (fact, 2026-09-14; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1558), [09-10](https://youtu.be/dlo7L8Ru91A?t=1726), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2225))
-- He has weak ball handling and is a poor finisher. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1558), [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
-- He is Portland's only real point-of-attack defender. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1485))
+- He is Portland's only real point-of-attack defender. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1485))
+- His shooting runs in peaks and valleys. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1558))
+- He has weak ball handling and is seen as a poor finisher. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1558), [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
 
 **Tags**
-- Current: `role down` (Usage likely drops with Lillard, Morant and Scoot on the roster. Minutes are expected to hold.), `usage competition` (Lillard, Morant, Scoot Henderson and Avdija), `bust candidate` (A rank of 101 is called far too high), `new coach` (Portland), `unsettled rotation` (Minutes and usage are expected to swing from game to game), `bad playoff schedule` (Three back-to-backs in the fantasy playoffs)
-- Durable: `streaky` (Shooting runs in peaks and valleys), `plays every game` (82 and 78 games in the last two seasons), `fits every build` (No weak category flagged, but his value is modest everywhere)
+- Current: `role down` (usage likely drops with Lillard, Morant, Holiday and Henderson; minutes should stay solid), `usage competition` (crowded high-usage guard group plus Avdija), `unsettled rotation` (Portland's minutes and usage expected to swing game to game), `new coach` (Portland)
+- Durable: `streaky` (shooting runs in peaks and valleys), `plays every game` (70, 78 and 82 games in the last three seasons), `fits every build` (no category flagged weak; value is mostly 3PM and STL)
 
-**Note.** He is ranked 106 on Yahoo (value 4 USD, average cost 1 USD) and 132 on ESPN (value 0). Last season he cost 4 USD in our league. With 144 players drafted, he is a 1 USD end-of-draft pick at most, and the experts call even a rank near 101 too high. His projected 1.2 steals and 2.0 threes help, but his 44.5% FG and 11.5 points add little. Early in the season, check whether he stays in the starting five and holds 30 or more minutes under the new coach next to Portland's crowded guard group. If he does not, leave him on waivers.
+**Note.** Camara is a late-round filler. Yahoo values him at 3 USD with an average cost of 1.0 USD (rank 109), ESPN at 0 USD (rank 131), and he went for 4 USD in our league last season. Experts call a rank of 101 too high. His projected line is mostly about 2.0 threes and 1.2 steals, and his 44.5 FG% and 72 FT% cost a little. He hurts no category badly, so he can sit on any build as a 1 to 2 USD pick or a waiver option. Early in the season, check that he starts and plays 30 or more minutes next to Portland's crowded guard group, and whether his late-season shooting holds.
 
-<sub>8 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>8 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

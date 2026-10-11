@@ -42,121 +42,102 @@
  ],
  "proposed": true,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-04T20:22:30+00:00",
+ "built_at": "2026-10-11T09:53:40+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1051608,
-  "duration_ms": 41184
+  "cost_usd_list": 0.1166568,
+  "duration_ms": 46335,
+  "turns": 2,
+  "denied": 0
  },
  "player_slugs": [],
- "summary": "Plan for at least one streaming slot from draft day and use all 6 adds every week. A streaming slot is worth about a top 100 to 110 player, and our waiver pool starts around rank 145. Early on, react to role and minutes changes and ignore shooting slumps. Stream threes and steals and draft assists. In playoff weeks 19 to 21, drop your stashes and stream as much as you can.",
+ "summary": "In our league, a streaming slot is worth about a top 100 to 110 player. Keep one roster spot open for streaming instead of spending auction money on a low-upside 12th man, and use the 6 weekly adds steadily. Be patient in weeks one and two and evaluate roles. Churn the end of the roster in midseason, then drop stashes and stream as hard as you can in playoff weeks 19 to 21, which end 2027-03-28.",
  "sections": [
   {
-   "heading": "Why a streaming slot is worth a top 100 player",
+   "heading": "What a streaming slot is worth",
    "paragraphs": [
     {
-     "text": "Three experts value a streaming slot at about the 100th-ranked player. One puts it at 100 to 110. In our league 144 players are drafted, so the free pool starts around rank 145. Streaming that pool every day still adds up to top 100 production, because you gain games played.",
+     "text": "The notes agree that one streaming slot is worth about a top 100 player. One note puts it at a top 100 to 110 player. Our draft takes 144 players. So the fringe of your roster competes with a slot that is worth more than most players taken after pick 100.",
      "sources": [
       "EGdhmUgPAWY:r6",
       "XnIWJyBB0EM:r2",
-      "skKXe2CRl8Q:r17",
-      "QbdrhJd7LiA:r14"
+      "skKXe2CRl8Q:r17"
      ]
     },
     {
-     "text": "So do not plan your 200 USD for all 12 roster spots. Plan to keep at least one spot for streaming. Put the minimum on your last pick and treat that spot as a streaming slot. If you end up with a low-upside player ranked around 115, drop him and stream the spot or use it on fliers.",
+     "text": "Auction rule: do not budget for all 12 spots out of your 200 USD. Plan for at most 11 real players and leave one bench spot for streaming. If a low-upside player is ranked around 115, drop him and stream that spot or use it for fliers.",
      "sources": [
       "XnIWJyBB0EM:r2",
       "EGdhmUgPAWY:r6"
      ]
     },
     {
-     "text": "Streaming players ranked 170 to 190 for extra games beats holding a 130th-ranked player who sits on your bench. With daily lineups, a bench player who never plays gives you nothing. Experts rank value from the draft, streaming, hot pickups and short-term injury replacements above builds and pairings.",
+     "text": "Games played is the reason. Streaming players ranked 170 to 190 for extra games beats holding a 130th-ranked player who sits on your bench. With daily lineups, a stream only helps when his game fills an empty active slot. Check your schedule before each add.",
      "sources": [
       "skKXe2CRl8Q:r10",
-      "ahNxsoU8Hx4:r0",
-      "QbdrhJd7LiA:r15"
+      "QbdrhJd7LiA:r14"
+     ]
+    },
+    {
+     "text": "Long-term injured players cost you that streaming production if they hold a normal roster spot. We have 4 IL slots, so put them there. If your IL is full, weigh each injured stash against a slot worth about a 100th-ranked player.",
+     "sources": [
+      "skKXe2CRl8Q:r17",
+      "skKXe2CRl8Q:r28"
+     ]
+    },
+    {
+     "text": "The experts frame the value a little differently. One says a streaming slot equals about the 100th player. Another says the 100th to 110th. A third gives the 115 cutoff for dropping low-upside players. The practical range is the same: anyone you would rank worse than about 110 to 115, with no upside, should give way to streaming.",
+     "sources": [
+      "skKXe2CRl8Q:r17",
+      "XnIWJyBB0EM:r2",
+      "EGdhmUgPAWY:r6"
      ]
     }
    ]
   },
   {
-   "heading": "Use all 6 adds and treat FAB as an asset",
+   "heading": "Using FAB and 6 adds per week",
    "paragraphs": [
     {
-     "text": "Know the rules: daily lineups, a limit of 6 acquisitions per week, and FAB processed daily. With limited moves, use every one. Any week you finish with adds left over, you gave away games. The end of your roster should change all the time.",
+     "text": "Know the rules, because they change player value. Our waivers run daily on a FAB budget, with a limit of 6 acquisitions per week. One note says that with unlimited moves the end of a roster should churn all the time, and with only two moves a week you should still use both. With 6, the same logic says to use your adds, not save them.",
      "sources": [
       "skKXe2CRl8Q:r1",
       "skKXe2CRl8Q:r28"
      ]
     },
     {
-     "text": "Count your weekly moves, IL slots, streaming slot and FAB budget as assets, just like players. Use the 4 IL slots for injured players so they do not block an active spot. A long-term injured player sitting in a normal roster spot costs you about the output of the 100th-ranked player.",
+     "text": "The waiver wire matters as much as the draft. Value comes from draft picks that beat their price, streaming, hot pickups who stay hot, and short-term injury replacements. The notes give no FAB bid amounts. Save bigger bids for role changes that will last. Treat short fill-in jobs as cheap streams.",
      "sources": [
-      "skKXe2CRl8Q:r28",
-      "skKXe2CRl8Q:r17"
+      "QbdrhJd7LiA:r14",
+      "QbdrhJd7LiA:r15",
+      "ahNxsoU8Hx4:r0",
+      "CRLSsoGhb2w:r3"
      ]
     },
     {
-     "text": "The notes give no FAB bid amounts. They do say where value comes from. Bid seriously on real role changes, such as a new starter getting 28 minutes. Bid lightly on fill-ins for short injuries. Experts expect a bench player who produces in big minutes during an injury to rank around 150th once the team is healthy.",
+     "text": "Good streaming profiles from the notes: backup centers who start when the starter sits, and bench players on thin teams during heavy schedule stretches when starters rest. A backup center can also pick up minutes when the starter is in foul trouble, hurt or not scoring. Older players back from major injuries will likely sit back-to-backs early, which opens games for their backups.",
      "sources": [
-      "skKXe2CRl8Q:r13",
-      "CRLSsoGhb2w:r3",
-      "hm5-fiCa5S4:r3"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Discovery phase: what to react to early",
-   "paragraphs": [
-    {
-     "text": "The season has three phases: discovery, optimizing and maximizing. In discovery, the first weeks, watch for unexpected minutes, new starters, depth chart changes and players doing more. Coaches do strange things in weeks one and two. Act fast on rotation changes, surprise starters and bigger minutes.",
-     "sources": [
-      "skKXe2CRl8Q:r24",
-      "skKXe2CRl8Q:r12",
-      "skKXe2CRl8Q:r13"
-     ]
-    },
-    {
-     "text": "Do not react to bad shooting nights when role, minutes and usage have not changed. No player matches his averages every game. Do not drop proven players. Do not chase hot streaks that will settle down.",
-     "sources": [
-      "skKXe2CRl8Q:r13",
-      "skKXe2CRl8Q:r14",
-      "skKXe2CRl8Q:r27"
-     ]
-    },
-    {
-     "text": "Treat late fliers as short trials. If nothing happens in the first two weeks, drop him and maybe pick him up again later. A flier named a starter moves up. Do not hold several inefficient rookie fliers at once. Choose which ones to keep and cut the rest quickly.",
-     "sources": [
-      "3UGI05PDvrE:r6",
-      "lOshTzDA4SA:r6",
-      "OBwWCxG9SqM:r9"
-     ]
-    },
-    {
-     "text": "Injuries peak early because training camp and preseason are short. They fall off by mid-December. Older players coming back from major injuries will likely sit back-to-backs early, which opens games for their backups. So the wire should be busiest from October to mid-December.",
-     "sources": [
-      "gf_6GveiAls:r17",
+      "MUbNYdjpUDM:r6",
+      "NmdNvAz08oE:r9",
+      "FEcNjVRlj-U:r1",
       "0AptxcRW0RE:r4"
      ]
     },
     {
-     "text": "The experts disagree on early streaming. Two notes say not to stream or draft for the week one schedule. They say to accept losses in weeks one and two so you can keep fliers with longer-term value, and to use those weeks to evaluate. Another note says to stream for a games-played edge in head-to-head and to grab hot players who stay hot. Our approach: in weeks one and two, use adds on role changes and keep your fliers. Start pure games streaming once your fliers are sorted.",
+     "text": "Do not hold a backup center for the long term. He is not worth a roster spot until the starter in front of him is out. Add him on the nights or weeks he starts, then cut him.",
      "sources": [
-      "ZYllcj4o6_A:r6",
-      "skKXe2CRl8Q:r11",
-      "QbdrhJd7LiA:r14"
+      "W3THnI7wWdA:r3",
+      "MUbNYdjpUDM:r6"
      ]
     }
    ]
   },
   {
-   "heading": "Which categories to stream",
+   "heading": "Which categories are easy to stream",
    "paragraphs": [
     {
-     "text": "Threes are the easiest category to find on waivers, and several experts say so. Do not overpay for three-point specialists in the auction. Non-shooters do not hurt you much in threes, because you can stream threes back.",
+     "text": "Threes are easy to find on waivers. Do not pay up for three-point specialists in the auction. A build with non-shooters loses little in 3PTM, because waivers can cover it.",
      "sources": [
       "_O9pc_u5vH0:r5",
       "C4vlgpJ62NI:r18",
@@ -164,49 +145,113 @@
      ]
     },
     {
-     "text": "Steals are one of the most common categories on the wire too. Assists are very hard to find on waivers and are an important category. Get your assists in the draft and use your streaming slot for threes and steals.",
+     "text": "Steals are one of the most common categories on the wire. They also skew standard 9-cat rankings. So you can pick up steals with streamers and should not pay extra for them at the draft.",
      "sources": [
-      "0geFVzSqOnA:r13",
+      "0geFVzSqOnA:r13"
+     ]
+    },
+    {
+     "text": "Assists are the opposite. They are very hard to find on waivers and the category matters. Get your assists at the draft, then stream for the easy categories.",
+     "sources": [
       "ME-r173X5b0:r8"
      ]
     },
     {
-     "text": "Turnovers will go up when you stream for games. Chasing low turnovers works against the games-played edge. Accept losing TO in many weeks if streaming wins you counting stats.",
+     "text": "Turnovers fight streaming. TO is the only negative counting stat in our 9 categories. More games played means more turnovers. If you stream for volume, you will often give up TO. Do not hold back on streaming just to protect it.",
      "sources": [
       "0geFVzSqOnA:r18"
-     ]
-    },
-    {
-     "text": "Backup centers who start when the starter sits can be elite streamers. They can also get extra minutes when the starter is in foul trouble, injured or not scoring. A backup center is not worth holding until the starter in front of him is out. Bench players on teams with poor depth become targets during heavy schedule stretches, when starters rest.",
-     "sources": [
-      "MUbNYdjpUDM:r6",
-      "FEcNjVRlj-U:r1",
-      "W3THnI7wWdA:r3",
-      "NmdNvAz08oE:r9"
      ]
     }
    ]
   },
   {
-   "heading": "Optimizing and maximizing phases",
+   "heading": "Discovery phase: weeks one and two",
    "paragraphs": [
     {
-     "text": "In the optimizing phase, the middle of the season, keep churning the end of your roster with all 6 adds. Sell your waiver hits through trades. When a player who is not a real starter puts up starter numbers, sell him then, because those numbers will not get better. Do this before the trade deadline on 2027-03-04.",
+     "text": "The season has three phases: discovery, optimizing and maximizing. Discovery is the opening stretch after the 2026-10-18 draft. Its goal is to learn which roles are real.",
      "sources": [
-      "skKXe2CRl8Q:r24",
-      "skKXe2CRl8Q:r1",
-      "4kKINkZhWls:r3"
+      "skKXe2CRl8Q:r24"
      ]
     },
     {
-     "text": "Maximizing comes at the end and in our playoffs, weeks 19 to 21, which finish on 2027-03-28. Drop stashed and injured players and stream as much as you can. Every spot that does not play costs you games in the weeks that decide the title.",
+     "text": "Watch for unexpected minutes, new starters, depth chart changes and players doing more. Coaches do strange things in weeks one and two. Move fast on real role changes, such as a new 28-minute starting job. Do not react to bad shooting nights if role, minutes and usage are unchanged.",
      "sources": [
-      "skKXe2CRl8Q:r24",
-      "skKXe2CRl8Q:r17"
+      "skKXe2CRl8Q:r12",
+      "skKXe2CRl8Q:r13",
+      "skKXe2CRl8Q:r14"
      ]
     },
     {
-     "text": "One expert expects a smaller late-season injury spike this year because there should be fewer fake injuries. Do not count on many surprise openings late. Use your FAB and adds on games played instead.",
+     "text": "Do not stream just to get extra games in week one. Accept losses in weeks one and two so you can keep fliers with longer-term value. Losing week one is fine.",
+     "sources": [
+      "ZYllcj4o6_A:r6",
+      "skKXe2CRl8Q:r11"
+     ]
+    },
+    {
+     "text": "The experts differ on how long to hold fliers. One says to drop a rookie flier if nothing happens in the first two weeks, and maybe pick him up again later. Another says to drop late fliers if things are not working after a few weeks. Both agree you should not hold several inefficient rookie fliers at once. Pick the ones to keep and cut the rest quickly.",
+     "sources": [
+      "lOshTzDA4SA:r6",
+      "3UGI05PDvrE:r6",
+      "OBwWCxG9SqM:r9"
+     ]
+    },
+    {
+     "text": "Injuries peak early in the season because camp and preseason are short. They fall off by mid-December. Expect the most fill-in streaming chances in October and November.",
+     "sources": [
+      "gf_6GveiAls:r17"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Optimizing phase: midseason",
+   "paragraphs": [
+    {
+     "text": "From about mid-season on, churn the end of your roster and use your 6 weekly adds. Do not drop proven players after a cold stretch. Do not chase hot streaks that will settle back to normal. Every player has games above and below his average.",
+     "sources": [
+      "skKXe2CRl8Q:r24",
+      "skKXe2CRl8Q:r27",
+      "skKXe2CRl8Q:r14",
+      "skKXe2CRl8Q:r1"
+     ]
+    },
+    {
+     "text": "Value a fill-in starter by his healthy-team role. A bench player who posts numbers in big minutes during an injury should be expected to rank around 150th unless something changes. That is a stream, not a big FAB bid. Do not boost him much for a short injury that may last a few games or none.",
+     "sources": [
+      "hm5-fiCa5S4:r3",
+      "CRLSsoGhb2w:r3"
+     ]
+    },
+    {
+     "text": "If a player who is not a real starter is putting up starter numbers, sell him then, because the numbers will not improve. Trades are frequent in our league. Make those sales before the trade deadline on 2027-03-04.",
+     "sources": [
+      "4kKINkZhWls:r3",
+      "skKXe2CRl8Q:r28"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Maximizing phase: the playoffs",
+   "paragraphs": [
+    {
+     "text": "Maximizing comes near the end of the season and in the playoffs. Drop stashed and injured players and stream as much as you can. Our playoffs are weeks 19, 20 and 21 and end Sunday 2027-03-28. Plan your games and adds around that date, not the April 4 default.",
+     "sources": [
+      "skKXe2CRl8Q:r24"
+     ]
+    },
+    {
+     "text": "In those weeks, games played is the main edge. Use all 6 adds to fill open daily slots. Look first for backup centers taking over starts and for bench players on thin teams when starters rest. Accept the extra turnovers that come with more games.",
+     "sources": [
+      "QbdrhJd7LiA:r14",
+      "MUbNYdjpUDM:r6",
+      "NmdNvAz08oE:r9",
+      "0geFVzSqOnA:r18"
+     ]
+    },
+    {
+     "text": "Expect a smaller late-season injury spike than usual. One note says there should be fewer fake injuries this year. Do not count on rest days alone to create streamers. Check daily who is actually starting.",
      "sources": [
       "gf_6GveiAls:r17"
      ]

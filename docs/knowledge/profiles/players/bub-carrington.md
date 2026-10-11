@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 241 | 0 | 0.0 | 217 | not drafted |
+| 2026-27 | 0 | - | 241 | 0 | 0.1 | 218 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,31 +19,34 @@
 | FG% | 42.3% | -0.8 | -0.5 | - |
 | FT% | 77.0% | -0.1 | -0.6 | - |
 | 3PM | 1.7 | +0.2 | -0.2 | - |
-| PTS | 9.1 | -0.8 | -0.9 | - |
+| PTS | 9.1 | -0.9 | -0.9 | - |
 | REB | 3.0 | -0.9 | -0.6 | - |
 | AST | 3.7 | +0.3 | -0.1 | - |
 | STL | 0.6 | -1.1 | -1.3 | - |
 | BLK | 0.2 | -0.8 | -0.8 | - |
-| TO | 1.8 | -0.2 | +0.0 | - |
+| TO | 1.8 | -0.1 | +0.0 | - |
 
 </details>
 
 **Current**
-- Washington added Trae Young, Anthony Davis and AJ Dybantsa. (fact, 2026-09-17; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [09-17](https://youtu.be/DubdKKhMWHo?t=1436))
-- The arrival of Young, Davis and Dybantsa cuts into the roles of Washington's young players. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192))
-- Washington has a crowded group of guards and wings, and many wings are competing for the fifth starter spot. (fact, 2026-09-07; [07-23](https://youtu.be/LUTYUdXBG1M?t=248), [09-07](https://youtu.be/gJUBAJaHzlU?t=1586))
-- The projected Washington starters are Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr. Carrington is not among them. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
-- Washington is expected to use a 10 or 11 man rotation, with 12 or 13 players who could justify minutes. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2098))
-- Trae Young will start at point guard ahead of him. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=973))
-- He should not be handling point guard duties. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=973))
+- Young, Davis and Dybantsa will share most of the usage, which cuts into the roles of the young players. (verdict, 2026-10-06; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [10-06](https://youtu.be/eTsjuVu1trk?t=2539), [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
+- Washington added Trae Young, Anthony Davis and AJ Dybantsa. (fact, 2026-09-17; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [09-17](https://youtu.be/DubdKKhMWHo?t=1436), [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
+- The fifth starter spot is unclear, with many wings competing for it. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1586))
+- He should not be handling point guard duties. (verdict, 2026-07-23; [07-20](https://youtu.be/-KS_AZjZnw4?t=973), [07-23](https://youtu.be/UTE0dNIv8nY?t=1411))
+- He is not among the projected Washington starters: Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
+- Washington has a crowded group of wings and guards. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=248), [07-23](https://youtu.be/UTE0dNIv8nY?t=2098))
+- A 10 or 11 man rotation is expected, with 12 or 13 players who could justify minutes. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2098))
+- Washington is trying to compete for the play-in, so late-season resting and minutes cuts should not be a problem. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802))
+- Head coach Brian Keefe is under the most pressure to win games this season. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1605))
+- Trae Young will start at point guard over him. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=973))
 
 **Durable**
-- He ran point guard early in 2025-26, and it did not work out well. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1411))
+- His run as point guard early in the 2025-26 season did not work out well. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1411))
 
 **Tags**
-- Current: `role down` (Trae Young starts at point guard. Young, Davis and Dybantsa take usage. Not in the projected starting five.), `minutes competition` (Crowded group of Washington guards and wings in a deep rotation)
-- Durable: none
+- Current: `role down` (Trae Young takes the point guard job; projections cut his minutes and usage), `minutes competition` (Crowded wing and guard group; fifth starter spot open), `usage competition` (Trae Young, Anthony Davis and AJ Dybantsa), `concentrated usage` (Young, Davis and Dybantsa take most touches), `deep rotation` (10 or 11 man rotation expected), `coach hot seat` (Brian Keefe), `low shutdown risk` (Washington is pushing for the play-in)
+- Durable: `plays every game` (82 games in each of the last two seasons)
 
-**Note.** He is not a draft target in our league. Yahoo ranks him 241 and ESPN 217, both value him at 0 USD, and only 144 players get drafted. ESPN projects 25.1 minutes behind Trae Young, and no category stands out: his assists and threes are only near the pool average, and he is weak in steals, points and FG%. Leave him on waivers and check early in the season whether an injury to Young or one of the wings gives him more minutes.
+**Note.** Carrington is not a draft target for us. He ranks 241 on Yahoo and 218 on ESPN, both sites value him at 0 USD, and only 144 players get drafted. His projected line (about 9 points, 3.7 assists and 1.7 threes in 25 minutes) has no strong category, and he loses the point guard job and usage to Trae Young, Anthony Davis and AJ Dybantsa. Early in the season, check whether he wins the open fifth starter spot or gets more minutes after an injury to Young. Leave him on waivers until then.
 
-<sub>2 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

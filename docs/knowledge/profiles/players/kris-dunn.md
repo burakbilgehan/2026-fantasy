@@ -11,40 +11,39 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 191 | 0 | 0.0 | 184 | not drafted |
+| 2026-27 | 0 | - | 189 | 0 | 0.1 | 187 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 46.2% | -0.2 | +0.4 | - |
-| FT% | 73.6% | -0.1 | -0.6 | - |
+| FT% | 73.6% | -0.1 | -0.7 | - |
 | 3PM | 0.9 | -0.7 | -1.2 | - |
-| PTS | 6.2 | -1.3 | -1.4 | - |
+| PTS | 6.2 | -1.4 | -1.4 | - |
 | REB | 3.0 | -0.9 | -0.6 | - |
 | AST | 3.1 | -0.0 | -0.4 | - |
-| STL | 1.4 | +1.6 | +1.2 | - |
+| STL | 1.4 | +1.5 | +1.2 | - |
 | BLK | 0.3 | -0.7 | -0.4 | - |
-| TO | 1.1 | +0.7 | +0.8 | - |
+| TO | 1.1 | +0.7 | +0.9 | - |
 
 </details>
 
 **Current**
-- The newest Clippers preview projects Dunn as the sixth man, first off the bench. He could also start, and coach Ty Lue likes him. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1032), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268))
-- He has fantasy value only if he starts and plays about 28 minutes. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1089))
-- The Clippers rotation is not settled. The expert expects a trial season with long rotations and many players tested. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=360))
-- The Clippers have many injuries now. Ingram, Beal, Jordan Miller and Konan Niederhauser are all out. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018))
-- The Clippers play 4, 3 and 4 games in our fantasy playoff weeks. They have 13 back-to-backs, one of the lowest totals in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
+- He projects as the Clippers' sixth man, behind a projected starting backcourt of Darius Garland and Max Strus. He could also start. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1032), [10-04](https://youtu.be/tnzmsYUA4yQ?t=360), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268))
+- Coach Ty Lue is reported to love him. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1032))
+- He is useful for fantasy only if he starts and plays about 28 minutes. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1089))
+- His role is hard to predict. The expert expects a trial season with long rotations and many players tested, and Ty Lue often changes his rotation choices. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
+- The Clippers play 4, 3 and 4 games in our fantasy playoff weeks 19 to 21. They have 13 back-to-backs, one of the lowest totals in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
 
 **Durable**
-- Dunn is a stable, elite defender. He gets many steals and gives a few assists. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1089), stats)
-- He scores very little. Last season he scored 7 points in 27 minutes on 13% usage. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1089))
-- Coach Ty Lue makes odd rotation choices and then changes them, so bench roles on this team are hard to predict. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
+- He is a stable, elite defender and a high-steals player who adds a few assists. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1089))
+- He scores little and plays a low-usage role: 13% usage last season. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1089))
 
 **Tags**
-- Current: `minutes competition` (Projected sixth man, could start), `unsettled rotation` (Ty Lue changes rotations often. The expert expects a trial season.), `deep rotation` (Long rotations expected, with many players tested), `waiver watch` (Add only if he starts and plays about 28 minutes), `good playoff schedule` (4-3-4 games in weeks 19 to 21), `few back-to-backs` (13 back-to-backs)
-- Durable: none
+- Current: `minutes competition` (Projected sixth man behind Garland and Strus, but could win a starting spot), `unsettled rotation` (Ty Lue changes rotation choices often; trial season expected), `deep rotation` (Long rotations with many players tested expected), `good playoff schedule` (4-3-4 games in weeks 19 to 21), `few back-to-backs` (13 back-to-backs, one of the lowest totals), `waiver watch` (Add if he starts and plays about 28 minutes)
+- Durable: `elite defender` (Stable, elite NBA defender with high steals)
 
-**Note.** Dunn is priced at 0 USD on both Yahoo and ESPN. His ranks (191 Yahoo, 184 ESPN) put him outside the 144 players our league drafts, and he was not drafted here last season, so he is not a draft target. Steals are his only real asset (1.4 per game projected, z +1.6 against the pool). His 6.2 projected points and 0.9 threes leave little else, so he is at most a short-term steals streamer. In the first weeks, check whether he moves into the starting five and plays about 28 minutes. The Clippers have many injuries and good playoff weeks (4-3-4), so a starting role would make him a useful waiver add.
+**Note.** Both Yahoo (rank 189) and ESPN (rank 187) value him at 0 USD, and he went undrafted in our league last season. Only 144 players get drafted, so he is not an auction target. His fantasy value is about 1.4 to 1.5 steals with few turnovers. His 6 points per game hurt, so he works best as a streamer or a steals filler. Early in the season, check whether he starts and gets about 28 minutes. If he does, the 4-3-4 playoff schedule makes him a reasonable waiver add.
 
-<sub>3 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

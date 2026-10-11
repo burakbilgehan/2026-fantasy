@@ -8,7 +8,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 210 | 0 | 0.1 | 208 | not drafted |
+| 2026-27 | 0 | 0.0 | 203 | 0 | 0.2 | 207 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,33 +19,34 @@
 | 3PM | 1.1 | -0.5 | -0.9 | - |
 | PTS | 12.7 | -0.2 | -0.3 | - |
 | REB | 3.2 | -0.8 | -0.4 | - |
-| AST | 4.0 | +0.4 | +0.1 | - |
+| AST | 4.0 | +0.4 | +0.0 | - |
 | STL | 0.9 | -0.0 | -0.3 | - |
 | BLK | 0.2 | -0.9 | -0.8 | - |
-| TO | 2.0 | -0.5 | -0.3 | - |
+| TO | 2.0 | -0.4 | -0.3 | - |
 
 </details>
 
 **Current**
-- Wagler is a rookie. The Clippers took him with the number five overall pick. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1424), [08-22](https://youtu.be/KLogvUwv_d8?t=775))
-- He is projected as the backup point guard behind Darius Garland, ninth in the Clippers' bench order. He plays the same position as Garland. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1424), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268), [08-22](https://youtu.be/KLogvUwv_d8?t=775))
-- Experts say a market ADP around 117 to 124 is far too high. He is more likely to finish outside the top 250 than inside the top 100, and he should not be drafted in standard formats. At most he is a stash around pick 170 in 16-team leagues. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1424), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1459), [09-03](https://youtu.be/OBwWCxG9SqM?t=1730), [07-21](https://youtu.be/RyzcCGChYgs?t=1922))
-- The Clippers are expected to run a trial season with long rotations and many players tested. Coach Ty Lue often changes his rotation choices. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
-- The Clippers play 4-3-4 games in our fantasy playoff weeks, which end March 28. They have 13 back-to-backs, one of the lowest totals in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
-- The Clippers' roster is not set up to hand the offense to rookies. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=807))
-- Experts do not expect him to start or play 30 minutes. One expects about 25 minutes. Garland, Beal, Dunn, Sanders and Strus all compete for guard minutes. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1730), [07-21](https://youtu.be/RyzcCGChYgs?t=1922), [08-22](https://youtu.be/KLogvUwv_d8?t=775))
-- He played better defense than expected at Summer League. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1514))
+- Most experts expect the Clippers to be one of the weaker teams in the league. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=177), [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018), [07-13](https://youtu.be/Rqb5GdrSweY?t=1764), [07-27](https://youtu.be/0AptxcRW0RE?t=2069))
+- Wagler is a rookie. The Clippers took him with the number 5 overall pick. (fact, 2026-10-04; [08-22](https://youtu.be/KLogvUwv_d8?t=775), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1424))
+- He is projected as the backup point guard behind Darius Garland, ninth in the Clippers rotation. He is not expected to start on opening night or play 30 minutes. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1424), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268), [08-22](https://youtu.be/KLogvUwv_d8?t=775), [07-21](https://youtu.be/RyzcCGChYgs?t=1922))
+- Experts say he should not be drafted in standard formats. They say a Yahoo ADP of 117 to 124 is too high and that he is more likely to finish outside the top 250 than inside the top 100. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1424), [09-03](https://youtu.be/OBwWCxG9SqM?t=1730))
+- At most he is a late stash. One expert puts him around pick 170 in 16-team leagues, which is deeper than our 144-player draft. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1459), [07-21](https://youtu.be/RyzcCGChYgs?t=1922))
+- The Clippers rotation is not settled. Ty Lue makes unusual rotation choices and then changes them. One expert expects a trial season with long rotations. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239), [10-04](https://youtu.be/tnzmsYUA4yQ?t=360))
+- The Clippers have a good fantasy playoff schedule with 4, 3 and 4 games in weeks 19 to 21. They have only 13 back-to-backs, one of the lowest totals in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
+- The guard group is crowded: Garland, Bradley Beal, Kris Dunn, Max Strus and Kobe Sanders. One expert projects him for about 25 minutes. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1730), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268))
+- His rookie season is expected to be rocky. The best hope one expert gives is that he averages double-figure points. (verdict, 2026-08-22; [07-21](https://youtu.be/RyzcCGChYgs?t=1922), [08-22](https://youtu.be/KLogvUwv_d8?t=1560))
 
 **Durable**
-- He has limited athleticism. He did not dunk once at Illinois. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1444), [08-22](https://youtu.be/KLogvUwv_d8?t=1514), [06-22](https://youtu.be/HxQjagSTTAM?t=277))
-- The newest expert expects him to shoot very poorly and to have efficiency problems. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1444))
-- He is a skilled, high-IQ guard. He can pull up off screens and catch and shoot. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1514), [06-22](https://youtu.be/HxQjagSTTAM?t=277))
-- His play swings a lot. He looked terrible at times but had some high-level scoring games. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1326), [07-21](https://youtu.be/RyzcCGChYgs?t=1922))
+- Athleticism is a concern. He did not dunk once at Illinois. (fact, 2026-10-04; [08-22](https://youtu.be/KLogvUwv_d8?t=1514), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1444), [06-22](https://youtu.be/HxQjagSTTAM?t=277))
+- The newest expert view expects him to shoot very poorly and to have efficiency problems. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1444))
+- He is a skilled, high-IQ guard. He can pull up off screens and catch and shoot. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1514))
+- His play swings a lot. He looked terrible at times but also had some high-level scoring games. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1326))
 
 **Tags**
-- Current: `rookie` (Number five overall pick), `minutes competition` (Backup PG behind Garland. Dunn, Beal, Strus and Sanders also compete for guard minutes), `usage competition` (The roster is not set up to hand the offense to rookies), `bust candidate` (Market ADP around 117 to 124. Experts rank him near or outside the top 250), `waiver watch` (Not a draft target. Watch his minutes early in the season), `deep rotation` (Trial season with long rotations expected), `unsettled rotation` (Ty Lue often changes rotation choices), `good playoff schedule` (4-3-4 games in weeks 19 to 21), `few back-to-backs` (13 back-to-backs)
-- Durable: none
+- Current: `rookie` (No. 5 overall pick in 2026), `minutes competition` (Backup PG behind Garland; Dunn, Beal, Strus and Sanders also compete for guard minutes), `unsettled rotation` (Ty Lue changes rotations often; expected trial season with long rotations), `bust candidate` (Yahoo ADP 117 to 124 called too high; expected outside the top 250), `good playoff schedule` (4-3-4 games in weeks 19 to 21), `few back-to-backs` (13 back-to-backs, one of the lowest totals), `bottom team` (Clippers seen as one of the worst rosters), `waiver watch` (Not draftable in standard leagues; a stash only in deeper formats)
+- Durable: `streaky` (Terrible at times, with some high-level scoring games)
 
-**Note.** Yahoo ranks him 210 and ESPN 208, with values of 0 USD on both and no auction history in our league. The experts agree he should not be drafted in a 12-team league where 144 players go, even if other markets take him around ADP 117. Leave him on waivers and watch his minutes behind Garland early in the season, mainly while Beal is out. His projections show no clear category edge (4.0 assists, 45.9% FG), so only a clearly bigger role would make him worth a pickup.
+**Note.** Skip Wagler in our auction. He is valued at 0 USD on both Yahoo and ESPN, ranks around 203 to 207, and the experts see him as a backup point guard with likely efficiency problems. His projected line of about 46% FG, 1.1 threes and 4 assists has no strong category to build around. Watch the Clippers guard minutes early in the season: if Garland rests or the crowded guard group thins out, he could become a short-term waiver add, helped by a good 4-3-4 playoff schedule.
 
-<sub>11 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>11 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

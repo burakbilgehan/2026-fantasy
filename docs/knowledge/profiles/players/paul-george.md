@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 12 | 2.4 | 79 | 3 | 2.7 | 91 | 9 |
+| 2026-27 | 13 | 1.8 | 76 | 3 | 3.3 | 91 | 9 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,46 +20,43 @@
 | FG% | 45.0% | -0.7 | -0.8 | - |
 | FT% | 85.7% | +0.7 | +0.8 | - |
 | 3PM | 2.6 | +1.3 | +1.5 | - |
-| PTS | 17.4 | +0.6 | +0.7 | - |
+| PTS | 17.4 | +0.6 | +0.6 | - |
 | REB | 4.9 | -0.1 | -0.1 | - |
 | AST | 3.5 | +0.2 | +0.6 | - |
-| STL | 1.6 | +2.0 | +2.1 | - |
+| STL | 1.6 | +1.9 | +2.1 | - |
 | BLK | 0.4 | -0.3 | -0.3 | - |
 | TO | 1.9 | -0.4 | -0.6 | - |
 
 </details>
 
 **Current**
-- In an auction mock he went for 15 USD, which Josh called very good value. Josh would have paid up to 20 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3693))
-- He is the clear number two option in Boston behind Jayson Tatum, after being the third option in Philadelphia. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=384), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1578), [09-10](https://youtu.be/dlo7L8Ru91A?t=1173), [08-30](https://youtu.be/Alwse2uXzD4?t=1671), [08-19](https://youtu.be/J1Eg3uaAICU?t=1755), [07-13](https://youtu.be/Rqb5GdrSweY?t=1420), [07-16](https://youtu.be/-y6p5PYLf00?t=1192))
-- Experts expect more usage and minutes in Boston, with usage near 26 after 23 last season and about 32 minutes. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1860), [09-17](https://youtu.be/ahNxsoU8Hx4?t=618), [09-10](https://youtu.be/dlo7L8Ru91A?t=1173), [07-13](https://youtu.be/Rqb5GdrSweY?t=1420), [07-02](https://youtu.be/P6TNP-g0wzY?t=488))
-- He enters the season healthy, with no surgery this offseason and fully rested. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1860), [09-25](https://youtu.be/Bi1cEM03k9Y?t=894), [09-17](https://youtu.be/ahNxsoU8Hx4?t=618))
-- Experts project him as a top 40 per game player with top 30 upside, and some see an outside shot at the top 25 or top 20. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=384), [09-25](https://youtu.be/Bi1cEM03k9Y?t=962), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1611), [09-17](https://youtu.be/ahNxsoU8Hx4?t=618), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1578), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1162), [08-30](https://youtu.be/Alwse2uXzD4?t=1676), [08-11](https://youtu.be/OdDkXFhoKsc?t=1153))
-- Experts call his ADP of about 75 to 80 too low and would happily draft him in the 60s or rounds 6 to 7. There is little risk at his price. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=384), [10-04](https://youtu.be/n4KkK-OJjqA?t=976), [09-25](https://youtu.be/Bi1cEM03k9Y?t=962), [09-25](https://youtu.be/Bi1cEM03k9Y?t=982), [09-10](https://youtu.be/dlo7L8Ru91A?t=1173), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1162), [09-21](https://youtu.be/egRrai3Ax38?t=1875))
-- Boston has 16 back-to-backs, tied for the most in the league, and three of them fall in our playoff window. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1837), [08-16](https://youtu.be/gf_6GveiAls?t=901))
-- He is a projected starter at forward next to Derrick White and Jayson Tatum. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [07-30](https://youtu.be/TiiaNZCJNs8?t=472))
-- Last season he came in off knee surgery, and 25 of his missed games came from a PED suspension. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=894), [08-19](https://youtu.be/J1Eg3uaAICU?t=1762), [08-09](https://youtu.be/8d--aL_xxwE?t=1781))
+- Experts expect him to miss some time. They also call the availability fears overdone and expect far more games than last season, possibly double. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1561), [08-09](https://youtu.be/8d--aL_xxwE?t=1781), [09-17](https://youtu.be/ahNxsoU8Hx4?t=610))
+- Experts say his ADP of about 75 to 80 is too low and carries little risk. They would gladly draft him in the 60s and see room for him to beat his rank by up to 50 spots. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1561), [10-04](https://youtu.be/n4KkK-OJjqA?t=384), [10-04](https://youtu.be/n4KkK-OJjqA?t=976), [09-25](https://youtu.be/Bi1cEM03k9Y?t=982), [09-10](https://youtu.be/dlo7L8Ru91A?t=1173), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1162))
+- In an auction mock he went for 15 USD. The expert would have paid up to 20 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3693))
+- He is the clear number two option in Boston behind Jayson Tatum. Projected starting lineups include him. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=384), [08-30](https://youtu.be/Alwse2uXzD4?t=1671), [08-19](https://youtu.be/J1Eg3uaAICU?t=1755), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1578), [09-25](https://youtu.be/Bi1cEM03k9Y?t=962), [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [07-30](https://youtu.be/TiiaNZCJNs8?t=472))
+- Experts expect his usage to rise from about 23 last season to about 26, in about 32 minutes. (verdict, 2026-10-04; [09-17](https://youtu.be/ahNxsoU8Hx4?t=618), [09-10](https://youtu.be/dlo7L8Ru91A?t=1173), [07-13](https://youtu.be/Rqb5GdrSweY?t=1420), [10-04](https://youtu.be/n4KkK-OJjqA?t=1860), [07-02](https://youtu.be/P6TNP-g0wzY?t=488))
+- He is healthy. He had no surgery this offseason and comes in fully rested. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1860), [09-25](https://youtu.be/Bi1cEM03k9Y?t=894), [09-17](https://youtu.be/ahNxsoU8Hx4?t=618))
+- Experts project him as a top 40 per game player with top 30 upside. Top 20 is possible with about 34 minutes and 23 points. Over a full season, they put him in the top 40 if he plays about 60 to 65 games. (verdict, 2026-10-04; [09-25](https://youtu.be/Bi1cEM03k9Y?t=962), [09-25](https://youtu.be/Bi1cEM03k9Y?t=982), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1611), [09-17](https://youtu.be/ahNxsoU8Hx4?t=618), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1578), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1162), [08-30](https://youtu.be/Alwse2uXzD4?t=1676), [08-19](https://youtu.be/J1Eg3uaAICU?t=1762), [08-11](https://youtu.be/OdDkXFhoKsc?t=1153))
+- Boston has 16 back-to-backs, the most in the league, with three of them in our playoff weeks. Its playoff schedule is 4-3-4 games, one short of the maximum. (fact, 2026-09-26; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1816), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1837), [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=901))
+- Last season he played 37 games. He served a 25-game PED suspension and was coming back from knee surgery. He still finished about 54th per game in category leagues. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=882), [09-25](https://youtu.be/Bi1cEM03k9Y?t=894), [08-19](https://youtu.be/J1Eg3uaAICU?t=1762), [08-09](https://youtu.be/8d--aL_xxwE?t=1781), [07-13](https://youtu.be/Rqb5GdrSweY?t=1420), stats)
 - He is expected to sit some back-to-backs, maybe 8 to 10, but not all of them. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1855), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1837))
-- Boston plays 4-3-4 games in weeks 19 to 21 with a March 28 end, one game short of the maximum. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1816))
-- His ceiling depends on games and efficiency: top 40 to top 30 if he reaches about 60 to 65 games, and top 40 if his rim finishing bounces back from 57% toward 63% with one or two more shots per game. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=982), [08-19](https://youtu.be/J1Eg3uaAICU?t=1762), [07-16](https://youtu.be/-y6p5PYLf00?t=1192))
-- Experts think availability fears are overdone and see a high chance he plays clearly more games than last season, though missed games remain a risk. (verdict, 2026-09-21; [08-09](https://youtu.be/8d--aL_xxwE?t=1781), [09-17](https://youtu.be/ahNxsoU8Hx4?t=610), [09-21](https://youtu.be/egRrai3Ax38?t=1875))
-- Avoid stacking him with too many other older, injury-prone players. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1044))
-- He joined Boston in the Jaylen Brown trade. (fact, 2026-07-30; [07-02](https://youtu.be/P6TNP-g0wzY?t=488), [07-30](https://youtu.be/TiiaNZCJNs8?t=305))
-- One expert thinks he will probably not stay in Boston long, and this may be his only season there. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=2262))
+- Boston got him in the Jaylen Brown trade. (fact, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=305), [07-02](https://youtu.be/P6TNP-g0wzY?t=488))
+- One expert thinks this may be his only season in Boston. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=2262))
+- Last season his rim finishing fell from 68 to 57 percent, after three straight seasons above 60. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1192))
+- A recovery to about 63 percent at the rim plus one or two more shots per game would make him a top 40 player. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1192))
 
 **Durable**
-- He is worth more in category leagues than in points leagues. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1836), [08-30](https://youtu.be/Alwse2uXzD4?t=1693))
-- He has a long injury history, with recurring knee problems for years plus UCL and shoulder issues. (fact, 2026-09-30; [09-25](https://youtu.be/Bi1cEM03k9Y?t=936), [09-10](https://youtu.be/dlo7L8Ru91A?t=1181), [07-13](https://youtu.be/Rqb5GdrSweY?t=1393), [07-02](https://youtu.be/P6TNP-g0wzY?t=460), [09-30](https://youtu.be/BjXP9JODDSg?t=1032))
-- His game is fantasy friendly and broad. He adds scoring, threes, rebounds, assists and steals and is more than a 3-and-D player. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1633), [08-30](https://youtu.be/Alwse2uXzD4?t=1693), [09-15](https://youtu.be/KPdD91Oo8-U?t=1125), [07-16](https://youtu.be/-y6p5PYLf00?t=1192))
-- He served a 25-game PED suspension in 2025-26. (fact, 2026-09-25; [07-02](https://youtu.be/P6TNP-g0wzY?t=460), [09-17](https://youtu.be/ahNxsoU8Hx4?t=610), [09-25](https://youtu.be/Bi1cEM03k9Y?t=894))
-- Steals are his best category. He also makes threes in volume and shoots free throws well. (fact, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=1125), [07-13](https://youtu.be/Rqb5GdrSweY?t=1393), [08-30](https://youtu.be/Alwse2uXzD4?t=1693), stats)
-- His FG% is a weak spot, a mild drag on a team's FG%. (fact, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=1393), stats)
-- He is an adaptable player who can scale his usage up or down. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=460))
+- He is worth more in category leagues than in points leagues. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1964), [10-04](https://youtu.be/n4KkK-OJjqA?t=1836), [08-30](https://youtu.be/Alwse2uXzD4?t=1693))
+- He has had knee problems for years. He has also had UCL and shoulder problems. (fact, 2026-09-30; [09-25](https://youtu.be/Bi1cEM03k9Y?t=936), [09-10](https://youtu.be/dlo7L8Ru91A?t=1181), [07-13](https://youtu.be/Rqb5GdrSweY?t=1393), [07-02](https://youtu.be/P6TNP-g0wzY?t=460), [09-30](https://youtu.be/BjXP9JODDSg?t=1032))
+- He served a 25-game PED suspension last season. (fact, 2026-09-25; [07-02](https://youtu.be/P6TNP-g0wzY?t=460), [09-17](https://youtu.be/ahNxsoU8Hx4?t=610), [09-25](https://youtu.be/Bi1cEM03k9Y?t=894))
+- Experts see his game as very fantasy friendly. He adds a little in many categories, he is not just a 3-and-D player, and he can scale his usage up or down. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1633), [09-15](https://youtu.be/KPdD91Oo8-U?t=1125), [08-30](https://youtu.be/Alwse2uXzD4?t=1693), [07-16](https://youtu.be/-y6p5PYLf00?t=1192), [07-02](https://youtu.be/P6TNP-g0wzY?t=460))
+- His best categories are steals and threes. He is also a strong free throw shooter. (fact, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=1125), [07-13](https://youtu.be/Rqb5GdrSweY?t=1393), [08-30](https://youtu.be/Alwse2uXzD4?t=1693), stats)
+- FG% is his weak category. (fact, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=1393), stats)
 
 **Tags**
-- Current: `new team` (Traded from Philadelphia to Boston in the Jaylen Brown deal), `role up` (Second option behind Tatum, projected usage near 26 after 23), `expert target` (Experts would draft him in the 60s, ahead of ADP 75 to 80), `sleeper` (Priced around rank 80 with a top 40 per game projection), `injury last season` (Knee surgery recovery plus a 25-game suspension), `back-to-back risk` (Expected to sit maybe 8 to 10 of Boston's 16 back-to-backs), `many back-to-backs` (Boston has 16, tied for most in the league, three in the playoff window), `sites disagree on price` (Yahoo value 12 USD vs ESPN value 3 USD)
-- Durable: `injury prone` (Recurring knee problems, plus UCL and shoulder issues), `off-court risk` (25-game PED suspension in 2025-26), `category league player`, `3PM from a big` (About 2.6 threes per game as a forward)
+- Current: `new team` (Traded from Philadelphia to Boston in the Jaylen Brown deal), `role up` (Moves from third option to clear second option behind Tatum. Usage projected at about 26, up from 23), `injury last season` (37 games, with 25 lost to the suspension, after knee surgery), `sleeper` (ADP about 75 to 80. Experts would take him in the 60s), `expert target` (Projected top 40 per game with top 30 upside), `back-to-back risk` (Expected to sit maybe 8 to 10 of Boston's 16 back-to-backs), `many back-to-backs` (Boston has 16, tied for the most in the league), `sites disagree on price` (Yahoo value 13 USD and rank 76. ESPN value 3 USD and rank 91), `winning team` (Boston projected at about 48 wins)
+- Durable: `injury prone` (Years of knee problems, plus UCL and shoulder issues), `off-court risk` (25-game PED suspension last season), `category league player`
 
-**Note.** Experts agree he is underpriced. Yahoo values him at 12 USD but his average cost is only 2.4 USD (ESPN 3 USD), he went for 9 USD in our league last season, and a recent auction mock sold him for 15 USD with Josh willing to go to 20 USD. Paying in the low to mid teens fits builds that want steals, threes and FT% from a forward and can absorb a small FG% drag. Early in the season, check how many of Boston's 16 back-to-backs he sits, whether his usage really rises as the number two option, and whether his knees hold up.
+**Note.** Experts expect a top 40 per game return, but the market prices him as a late flyer: Yahoo average cost is 1.8 USD, ESPN value is 3 USD, and he went for 9 USD in our league last season. Bidding up to Yahoo's 13 USD value, or 15 to 20 USD as in the expert mock, still looks fine. He fits builds that want steals, threes and FT% and can absorb a slightly weak FG%. Early in the season, check his usage as the number two option, how many back-to-backs he sits, and whether his knees hold up.
 
-<sub>37 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>42 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

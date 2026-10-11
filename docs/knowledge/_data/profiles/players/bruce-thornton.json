@@ -8,29 +8,31 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "52f6a6e1209d",
+ "input_sha": "9df1f80ef554",
  "note_count": 5,
- "built_at": "2026-10-04T17:25:20+00:00",
+ "built_at": "2026-10-11T09:13:42+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1080502,
-  "duration_ms": 24298
+  "cost_usd_list": 0.1240742,
+  "duration_ms": 24869,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He is a rookie. The Rockets took him in the second round after four years of college.",
+   "text": "He is a rookie guard. The Rockets took him 31st, the first pick of the second round, after four years of college.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
    "sources": [
-    "aLP080hxizA:p32",
+    "CLsUc0Sevos:p12",
     "yoCTTlJ_tPQ:p7",
-    "CLsUc0Sevos:p12"
+    "aLP080hxizA:p32"
    ]
   },
   {
-   "text": "In Summer League he averaged 16 points, 4 assists and over 2.5 steals, and shot 41% from three.",
+   "text": "In Summer League he averaged 16 points, more than 2.5 steals and 4 assists, and shot 41% from three.",
    "kind": "fact",
    "date": "2026-07-21",
    "until": "",
@@ -39,7 +41,26 @@
    ]
   },
   {
-   "text": "The Houston guard rotation is crowded. Fred VanVleet is back, and Marcus Smart and Bogdan Bogdanovic joined Amen Thompson and Reed Sheppard.",
+   "text": "He could make some impact from opening night as extra guard depth.",
+   "kind": "verdict",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:p7",
+    "TOn-D1SV7a8:p5"
+   ]
+  },
+  {
+   "text": "Lloyd thinks he might become a real NBA player.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p32"
+   ]
+  },
+  {
+   "text": "The Houston guard rotation is crowded with Fred VanVleet, Amen Thompson, Marcus Smart, Bogdan Bogdanovic and Reed Sheppard. That limits his path to minutes.",
    "kind": "fact",
    "date": "2026-09-15",
    "until": "",
@@ -50,54 +71,43 @@
    ]
   },
   {
-   "text": "Coach Ime Udoka is defense-first, gives little room for error to weak defenders and plays his starters heavy minutes.",
+   "text": "Coach Ime Udoka plays his starters very heavy minutes and gives little room for error to players who struggle on defense. This caps the role of a bench rookie.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
    "sources": [
     "aLP080hxizA:t0",
-    "yoCTTlJ_tPQ:t2",
-    "7BllEsdNLoM:t9"
+    "7BllEsdNLoM:t9",
+    "yoCTTlJ_tPQ:t2"
    ]
   },
   {
-   "text": "Lloyd thinks he might become a player. Another expert says he could make some impact from opening night as guard depth, and Summer League made Josh more confident he will find a rotation role.",
+   "text": "Dynasty rookie rank 32.",
    "kind": "verdict",
-   "date": "2026-10-01",
+   "date": "2026-08-02",
    "until": "",
    "sources": [
-    "aLP080hxizA:p32",
-    "yoCTTlJ_tPQ:p7",
     "TOn-D1SV7a8:p5"
-   ]
-  },
-  {
-   "text": "With a March 28 end, the Rockets have a weak 3-3-4 fantasy playoff schedule, 10 games over the three weeks.",
-   "kind": "fact",
-   "date": "2026-10-01",
-   "until": "",
-   "sources": [
-    "aLP080hxizA:t4"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is an undersized guard.",
+   "text": "His shooting numbers are elite across the board.",
+   "kind": "verdict",
+   "date": "2026-06-26",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p12"
+   ]
+  },
+  {
+   "text": "He is undersized for an NBA guard.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
    "sources": [
     "aLP080hxizA:p32"
-   ]
-  },
-  {
-   "text": "He came into the NBA with elite shooting numbers across the board.",
-   "kind": "fact",
-   "date": "2026-06-26",
-   "until": "",
-   "sources": [
-    "CLsUc0Sevos:p12"
    ]
   }
  ],
@@ -105,51 +115,51 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "Second-round pick (31st) of the Rockets after four college seasons",
+   "detail": "Second-round pick (31st overall), four years of college",
    "until": "",
    "sources": [
     "CLsUc0Sevos:p12",
-    "aLP080hxizA:p32",
-    "yoCTTlJ_tPQ:p7"
+    "yoCTTlJ_tPQ:p7",
+    "aLP080hxizA:p32"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Guard depth chart has VanVleet, Smart, Sheppard, Bogdanovic and Thompson ahead of him",
+   "detail": "Crowded guard rotation: VanVleet, Thompson, Smart, Bogdanovic, Sheppard",
    "until": "",
    "sources": [
     "gJUBAJaHzlU:t2",
     "KPdD91Oo8-U:t0",
-    "xHRF06_E9HE:t5"
+    "xHRF06_E9HE:t5",
+    "yoCTTlJ_tPQ:p7"
    ],
    "new_meaning": ""
   },
   {
-   "name": "waiver watch",
-   "channel": "current",
-   "detail": "Yahoo rank 634, but experts see a possible rotation role",
+   "name": "heavy starter minutes",
+   "channel": "durable",
+   "detail": "Udoka plays starters very heavy minutes, which shrinks bench roles",
    "until": "",
    "sources": [
-    "aLP080hxizA:p32",
-    "yoCTTlJ_tPQ:p7",
-    "TOn-D1SV7a8:p5",
-    "stats"
+    "aLP080hxizA:t0",
+    "7BllEsdNLoM:t9"
    ],
    "new_meaning": ""
   },
   {
-   "name": "bad playoff schedule",
-   "channel": "current",
-   "detail": "3-3-4, 10 games in weeks 19 to 21 with the March 28 end",
+   "name": "defense-first",
+   "channel": "durable",
+   "detail": "Udoka gives little room for error to players who struggle on defense",
    "until": "",
    "sources": [
-    "aLP080hxizA:t4"
+    "yoCTTlJ_tPQ:t2",
+    "aLP080hxizA:t0"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Yahoo values him at 0 USD with a rank of 634, and ESPN does not list him, so he is not a pick in our 144-player auction. He is a waiver name to watch. Early in the season, check whether Udoka gives this undersized rookie real minutes behind VanVleet, Smart and Sheppard. If he plays, his Summer League threes and steals suggest he could help in 3PM and ST.",
+ "note": "Thornton is not a draft target in our 12-team auction. Yahoo values him at 0 USD and ranks him 643, ESPN does not rank him, and he was not drafted in our league last season. He is a bench rookie behind a crowded Houston guard group under a coach who plays his starters heavy minutes. Early in the season, check whether he gets real minutes or whether a guard injury opens a role. His Summer League steals and three-point shooting would only matter if that happens.",
  "rejected": []
 }

@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "dfd7a556a49f",
- "note_count": 4,
- "built_at": "2026-10-04T17:24:20+00:00",
+ "input_sha": "92632e29e975",
+ "note_count": 8,
+ "built_at": "2026-10-11T09:13:20+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1032422,
-  "duration_ms": 22450
+  "cost_usd_list": 0.1529142,
+  "duration_ms": 34529,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Miami acquired him in the Giannis Antetokounmpo trade. He is a backup big behind Bam Adebayo and Giannis.",
+   "text": "He plays for Miami after the Giannis Antetokounmpo trade. He is the backup big behind Bam Adebayo and Giannis.",
    "kind": "fact",
    "date": "2026-09-14",
    "until": "",
@@ -30,25 +32,26 @@
    ]
   },
   {
-   "text": "He is part of Miami's main nine-man rotation, with Larsson, Fontecchio and Jovic off the bench.",
+   "text": "Miami's other backup centers are Nick Richards and Vlad Goldin, so the depth behind Bam and Giannis is weak.",
    "kind": "fact",
-   "date": "2026-06-23",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
-    "nnWX_ObljOE:t6"
+    "cvhcheoKdbo:t4",
+    "cvhcheoKdbo:p37"
    ]
   },
   {
-   "text": "He shot 46% from three last season after 37% the year before.",
-   "kind": "fact",
-   "date": "2026-07-16",
+   "text": "If Giannis or Bam misses time, he should play around 27 minutes.",
+   "kind": "verdict",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
-    "-y6p5PYLf00:p4"
+    "cvhcheoKdbo:p37"
    ]
   },
   {
-   "text": "Expect his three-point shooting to fall back to about 39%, in about 21 minutes per game. His fantasy value comes only from rebounds and scoring.",
+   "text": "In his backup role he projects to about 21 minutes, and his value comes only from rebounds and scoring.",
    "kind": "verdict",
    "date": "2026-07-16",
    "until": "",
@@ -57,37 +60,27 @@
    ]
   },
   {
-   "text": "Miami's big man depth is weak. Be careful with Miami players on the margins.",
+   "text": "He shot 46% from three last season, well above his 37% to 41% in earlier years.",
+   "kind": "fact",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:p36",
+    "-y6p5PYLf00:p4"
+   ]
+  },
+  {
+   "text": "His three-point percentage is expected to fall back toward about 39%.",
    "kind": "verdict",
-   "date": "2026-07-23",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
-    "LUTYUdXBG1M:t1"
+    "cvhcheoKdbo:p36",
+    "-y6p5PYLf00:p4"
    ]
   },
   {
-   "text": "Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs. It plays only 10 games in the playoff weeks.",
-   "kind": "fact",
-   "date": "2026-08-16",
-   "until": "",
-   "sources": [
-    "gf_6GveiAls:t7"
-   ]
-  }
- ],
- "durable": [
-  {
-   "text": "He rarely blocks shots. His block conversion is 4.8%, against a league average of 13%.",
-   "kind": "fact",
-   "date": "2026-07-17",
-   "until": "",
-   "sources": [
-    "NYTH7uQsPCM:p12",
-    "stats"
-   ]
-  },
-  {
-   "text": "His FT% drop to 71% last season had no clear cause. As a good shooter, he should shoot free throws better than that.",
+   "text": "His FT% should come back above last season's 71% because he is a good shooter.",
    "kind": "verdict",
    "date": "2026-07-16",
    "until": "",
@@ -96,11 +89,64 @@
    ]
   },
   {
-   "text": "For a big, he adds threes and rebounds with few turnovers. His blocks are weak for his position.",
-   "kind": "fact",
-   "date": "2026-10-04",
+   "text": "He is the best stash on Miami for deep or stashable formats, and the market is sleeping on him.",
+   "kind": "verdict",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
+    "cvhcheoKdbo:p38"
+   ]
+  },
+  {
+   "text": "Miami has a weak 4-3-3 schedule in our playoff weeks, 10 games in total. It has no back-to-backs in those weeks.",
+   "kind": "fact",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:t5",
+    "gf_6GveiAls:t7"
+   ]
+  },
+  {
+   "text": "Miami has the league-minimum 13 back-to-backs this season.",
+   "kind": "fact",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:t6",
+    "gf_6GveiAls:t7"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is a stretch big who makes about 2 threes per game, which is a lot for a forward or center.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats",
+    "cvhcheoKdbo:p36"
+   ]
+  },
+  {
+   "text": "He gets almost no defensive stats. His block rate is very low for a big.",
+   "kind": "fact",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:p35",
+    "NYTH7uQsPCM:p12",
+    "stats"
+   ]
+  },
+  {
+   "text": "He takes only about 1 free throw per game, so his FT% barely moves a team ratio.",
+   "kind": "fact",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:p35",
     "stats"
    ]
   }
@@ -109,7 +155,7 @@
   {
    "name": "new team",
    "channel": "current",
-   "detail": "Traded to Miami in the Giannis deal",
+   "detail": "Traded to Miami in the Giannis Antetokounmpo deal",
    "until": "",
    "sources": [
     "nnWX_ObljOE:p21"
@@ -117,38 +163,83 @@
    "new_meaning": ""
   },
   {
-   "name": "role down",
+   "name": "handcuff",
    "channel": "current",
-   "detail": "Backup behind Adebayo and Giannis, projected for about 21 minutes",
+   "detail": "About 27 minutes if Giannis or Bam Adebayo misses time",
    "until": "",
    "sources": [
-    "-y6p5PYLf00:p4",
-    "nnWX_ObljOE:p21"
+    "cvhcheoKdbo:p37",
+    "cvhcheoKdbo:t4"
    ],
    "new_meaning": ""
   },
   {
-   "name": "punt BLK fit",
+   "name": "regression risk",
+   "channel": "current",
+   "detail": "46% from three last season, expected back near 39%",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:p36",
+    "-y6p5PYLf00:p4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "Best stash on Miami, slept on by the market",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:p38"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Ranked 172 on both sites, outside the 144 drafted players. Add if Giannis or Bam gets hurt",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:p37",
+    "cvhcheoKdbo:p38",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "3PM from a big",
    "channel": "durable",
-   "detail": "0.3 blocks per game projected, 4.8% block conversion",
+   "detail": "About 2 threes per game as an F,C",
    "until": "",
    "sources": [
     "stats",
-    "NYTH7uQsPCM:p12"
+    "cvhcheoKdbo:p36"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "Miami plays 4-3-3, 10 games in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:t5",
+    "gf_6GveiAls:t7"
    ],
    "new_meaning": ""
   },
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "Miami has 13 back-to-backs, the fewest in the league, and none in the playoff weeks",
+   "detail": "Miami has a league-low 13, none in the fantasy playoffs",
    "until": "",
    "sources": [
+    "cvhcheoKdbo:t6",
     "gf_6GveiAls:t7"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both Yahoo and ESPN price him at 0 USD, at ranks 161 and 170. That puts him just outside our 144-player draft, and he went for 2 USD in our league last season. Expect him to go undrafted or for 1 USD as a bench big who adds rebounds, a few threes and few turnovers, mainly for punt BLK builds. Early in the season, check his minutes behind Adebayo and Giannis, whether his three-point shooting falls from 46%, and whether his FT% recovers above 71%.",
+ "note": "Both sites rank him 172 and value him at 0 USD, and he went for 2 USD in our auction last year. As a 13.6-point, 6.9-rebound bench big he is unlikely to be one of our 144 drafted players. He helps a little in threes, rebounds and turnovers but gives nothing in steals or blocks. Watch him on waivers and add him fast if Giannis or Bam Adebayo misses time, because the minutes behind them are his. Early in the season, check his minutes (about 21 projected) and whether his three-point percentage drops toward 39%.",
  "rejected": []
 }

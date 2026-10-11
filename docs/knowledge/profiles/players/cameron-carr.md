@@ -7,7 +7,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 653 | - | 0.0 | - | not drafted |
+| 2026-27 | 0 | - | 666 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -17,29 +17,29 @@
 | FT% | 83.5% | +0.4 | -0.0 | - |
 | 3PM | 1.1 | -0.5 | -0.9 | - |
 | PTS | 9.2 | -0.8 | -0.9 | - |
-| REB | 3.5 | -0.7 | -0.3 | - |
+| REB | 3.5 | -0.7 | -0.2 | - |
 | AST | 1.5 | -0.9 | -1.2 | - |
-| STL | 0.6 | -0.9 | -1.1 | - |
+| STL | 0.6 | -1.0 | -1.2 | - |
 | BLK | 0.2 | -0.8 | -0.8 | - |
 | TO | 0.9 | +1.0 | +1.1 | - |
 
 </details>
 
 **Current**
-- The two open Lakers starting spots are mainly between Grimes, LaRavia and Mamukelashvili. Ziaire Williams might also start. (fact, 2026-09-30; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669), [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
-- In summer league he took almost 7 threes a game. He shot 42% FG, 29% on threes and 73% FT, and added little else. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1795))
-- Experts expect him to play 12 to 16 minutes and not to do much at first. He should not impact most leagues this season. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1795), [06-26](https://youtu.be/CLsUc0Sevos?t=1548))
-- He is a rookie. The Lakers traded up one spot in the 2026 draft to select him. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1548))
-- One expert likes how he fits next to Luka Doncic and Austin Reaves. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1548))
+- His Yahoo status is questionable with an undisclosed issue. (fact, 2026-10-11; stats)
+- He is not in the projected Lakers starting lineup of Doncic, Reaves, Grimes, Thybulle and Kessler. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1441))
+- In summer league he took almost 7 threes a game but shot 42% from the field, 29% from three and 73% from the line, and added little else. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1795))
+- Experts expect a bench role of 12 to 16 minutes and little production early. He should not impact most fantasy leagues this season. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1795), [06-26](https://youtu.be/CLsUc0Sevos?t=1548))
+- He is a rookie. The Lakers traded up one spot in the draft to get him. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1548))
 
 **Durable**
 - He is a very long guard. In summer league he showed he can block shots, including jump shots. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1267))
-- Experts like his outlier athleticism and defensive skills. They see a guard who can hit threes, block shots and get steals, with upside as a shooter, passer and scorer. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1548), [06-23](https://youtu.be/-rgXhs5BHiw?t=389))
+- Experts like his outlier athleticism, defense and shooting upside. They see a guard who can hit threes, block shots and get steals, with some assist and scoring potential, and a good fit next to Doncic and Reaves. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1548), [06-23](https://youtu.be/-rgXhs5BHiw?t=389))
 
 **Tags**
-- Current: `rookie` (2026 first-round pick, Lakers traded up one spot for him)
+- Current: `rookie` (2026 first round pick, Lakers traded up one spot), `questionable` (Yahoo status Q, undisclosed), `deep rotation` (Lakers have about nine players suited to be 8th to 11th men; expected 12 to 16 minutes off the bench)
 - Durable: none
 
-**Note.** Yahoo ranks him 653rd with a value of 0 USD, and ESPN gives him no rank. Our auction drafts 144 players, so he is not a draft target. His Yahoo projection of 9.2 points, 0.6 steals and 0.2 blocks fits the expected bench role of 12 to 16 minutes. Early in the season, check whether his minutes go above that range and whether the blocks and steals he showed in summer league carry over. Only then is he worth a waiver look.
+**Note.** Carr is not a draft option in our league. His Yahoo value is 0 USD at rank 666, ESPN does not price him, and only 144 players get drafted. Projections give him 9.2 points with no strong category, and experts expect 12 to 16 minutes as a rookie. Leave him on waivers. Early in the season, check whether he clears his questionable status and whether his minutes grow. A bigger role could bring out the blocks and steals that experts like in his game.
 
-<sub>5 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

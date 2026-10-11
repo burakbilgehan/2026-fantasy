@@ -8,89 +8,134 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "7180e4e82548",
- "note_count": 21,
- "built_at": "2026-10-04T17:43:00+00:00",
+ "input_sha": "59af4064c2bc",
+ "note_count": 22,
+ "built_at": "2026-10-11T09:21:35+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.19482619999999998,
-  "duration_ms": 56701
+  "cost_usd_list": 0.2305102,
+  "duration_ms": 68726,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Brooklyn is projected to start him at forward next to Mikel Brown Jr., Egor Demin, Julius Randle and Day'Ron Sharpe.",
+   "text": "Julius Randle joined Brooklyn. Randle is ball-dominant and plays the same position, so Porter will play more at small forward.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "9tb1ARBEmQU:p3",
+    "uarqbNA2dFk:p38",
+    "LM0cRCGoAUQ:p35",
+    "3UGI05PDvrE:p1"
+   ]
+  },
+  {
+   "text": "Brooklyn's projected starters are Mikel Brown Jr., Egor Demin, Porter, Julius Randle and Day'Ron Sharpe.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
    "sources": [
     "3UGI05PDvrE:t1",
-    "uRsfijpBPok:t1",
-    "lOshTzDA4SA:t6"
+    "uRsfijpBPok:t1"
    ]
   },
   {
-   "text": "Julius Randle joined Brooklyn. He is a ball-dominant player at Porter's position, so Porter will play more at small forward.",
-   "kind": "fact",
-   "date": "2026-09-26",
-   "until": "",
-   "sources": [
-    "9tb1ARBEmQU:p3",
-    "3UGI05PDvrE:p1",
-    "LM0cRCGoAUQ:p35"
-   ]
-  },
-  {
-   "text": "Experts expect his usage to drop from last season's 32% because Randle, Brown and Demin will handle the ball more. He may also lose three-point volume. He should still be good.",
+   "text": "His usage was about 32% last season. Experts expect it to drop because Randle, Brown and Demin will all take more of the ball.",
    "kind": "verdict",
    "date": "2026-09-26",
    "until": "",
    "sources": [
-    "3UGI05PDvrE:p1",
-    "LM0cRCGoAUQ:p35",
     "sTtFUy7IoJI:p45",
     "uRsfijpBPok:p9",
-    "9tb1ARBEmQU:p3",
-    "ME-r173X5b0:p12",
+    "3UGI05PDvrE:p1",
+    "LM0cRCGoAUQ:p35",
+    "9tb1ARBEmQU:p3"
+   ]
+  },
+  {
+   "text": "Josh Minott and Noah Clowney may also take some of his minutes.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p35",
+    "3UGI05PDvrE:t3"
+   ]
+  },
+  {
+   "text": "He is an unrestricted free agent next summer and has no extension.",
+   "kind": "fact",
+   "date": "2026-08-21",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:p10"
+   ]
+  },
+  {
+   "text": "A trade is still very possible this season, mainly if he and the Nets do not agree on an extension. The Nets do not seem to see him as a long-term piece. Slater expects a trade within about six months.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:p10",
+    "3UGI05PDvrE:p1",
+    "3UGI05PDvrE:p7",
+    "LM0cRCGoAUQ:t7"
+   ]
+  },
+  {
+   "text": "Josh ranks him better than pick 60 if he stays in Brooklyn, and not far behind that even if he is traded.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "BiIZsSypx7Y:p32"
+   ]
+  },
+  {
+   "text": "Experts expect him to produce less than he did last season.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "BiIZsSypx7Y:p32",
     "OdDkXFhoKsc:p45"
    ]
   },
   {
-   "text": "Josh Minott and Noah Clowney may take some of his minutes.",
-   "kind": "verdict",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:p35"
-   ]
-  },
-  {
-   "text": "He becomes an unrestricted free agent next summer and has no contract extension.",
-   "kind": "fact",
-   "date": "2026-09-26",
-   "until": "",
-   "sources": [
-    "uRsfijpBPok:p10",
-    "3UGI05PDvrE:p7"
-   ]
-  },
-  {
-   "text": "A trade during the season is very possible, especially if he and the Nets do not agree on an extension. Slater expects one, possibly within six months. A trade to a team where he gets less usage could drop him to around the 90th best player.",
+   "text": "Josh ranks him 45 to 60 in category leagues. He calls him a fair mid-round price, and a round 6 pick is good value.",
    "kind": "verdict",
    "date": "2026-09-26",
    "until": "",
    "sources": [
-    "3UGI05PDvrE:p1",
-    "3UGI05PDvrE:p7",
-    "3UGI05PDvrE:t3",
-    "uRsfijpBPok:p10",
-    "LM0cRCGoAUQ:p35",
-    "LM0cRCGoAUQ:t7",
-    "dlo7L8Ru91A:p18"
+    "3UGI05PDvrE:p3",
+    "3UGI05PDvrE:p5",
+    "_vbAP5y182A:p16"
    ]
   },
   {
-   "text": "He ended last season with a hamstring injury. Josh sees no major concern going into this season.",
+   "text": "One expert says ESPN's rank of 42 is too high because Randle makes a repeat of last season hard to believe.",
+   "kind": "verdict",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p38"
+   ]
+  },
+  {
+   "text": "Another expert calls him undervalued on Yahoo and puts his worst case at around 75th.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p28"
+   ]
+  },
+  {
+   "text": "The hamstring injury that ended his last season is not seen as a major concern for this season.",
    "kind": "verdict",
    "date": "2026-09-26",
    "until": "",
@@ -99,31 +144,40 @@
    ]
   },
   {
-   "text": "Houston owns Brooklyn's pick, so the Nets have no reason to tank. Experts expect little planned rest and maybe more games played than last season.",
-   "kind": "fact",
+   "text": "Houston controls Brooklyn's draft pick, so the Nets have no reason to tank. Experts say he may play more games than last season, when he sat out March.",
+   "kind": "verdict",
    "date": "2026-09-26",
    "until": "",
    "sources": [
-    "3UGI05PDvrE:t0",
-    "dlo7L8Ru91A:p18",
-    "dlo7L8Ru91A:t3",
     "sTtFUy7IoJI:p45",
-    "Rqb5GdrSweY:t1"
+    "dlo7L8Ru91A:p18",
+    "ahNxsoU8Hx4:p28",
+    "3UGI05PDvrE:p0",
+    "3UGI05PDvrE:t0"
    ]
   },
   {
-   "text": "The Nets also have little reason to win, so his March minutes are uncertain. Young players may get more minutes in the second half of the season.",
+   "text": "March minutes are still uncertain. Brooklyn also has no team reason to win and may give second-half minutes to its young players.",
    "kind": "verdict",
    "date": "2026-09-26",
    "until": "",
    "sources": [
     "3UGI05PDvrE:t0",
     "3UGI05PDvrE:t3",
-    "Rqb5GdrSweY:t1"
+    "sTtFUy7IoJI:t4"
    ]
   },
   {
-   "text": "Brooklyn plays 3-4-3 games in our fantasy playoff weeks, with one playoff back-to-back. The Nets have 16 back-to-backs this season, tied for the most in the league.",
+   "text": "He made 3.4 threes per game on 36.2%. That was the lowest percentage among the top six three-point makers, and his three-point volume may drop.",
+   "kind": "verdict",
+   "date": "2026-07-07",
+   "until": "",
+   "sources": [
+    "ME-r173X5b0:p12"
+   ]
+  },
+  {
+   "text": "Brooklyn has 16 back-to-backs, tied for the most in the league. Its playoff schedule with a March 28 end is 3-4-3 games, with only one back-to-back.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
@@ -133,31 +187,19 @@
    ]
   },
   {
-   "text": "Josh ranks him 45 to 60 in category leagues. He likes him in the mid rounds and thinks the market has priced in his new situation well. Round 6 is good value.",
+   "text": "Brooklyn is projected to win about 28 games, with a range of roughly 22 to 30.",
    "kind": "verdict",
-   "date": "2026-09-26",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "3UGI05PDvrE:p3",
-    "3UGI05PDvrE:p5",
-    "_vbAP5y182A:p16",
-    "OdDkXFhoKsc:p45"
-   ]
-  },
-  {
-   "text": "His ESPN rank of 42 is too high because Randle's arrival makes a repeat of last season unlikely. His worst case without a trade is around 75th.",
-   "kind": "verdict",
-   "date": "2026-09-19",
-   "until": "",
-   "sources": [
-    "uarqbNA2dFk:p38",
-    "ahNxsoU8Hx4:p28"
+    "uRsfijpBPok:t4",
+    "sDzeYdUhJDI:t8"
    ]
   }
  ],
  "durable": [
   {
-   "text": "His fantasy value comes from points, many threes and good rebounds. Efficiency and usage drive it. He does not get to the rim much.",
+   "text": "He gives points, many threes and good rebounds. His value comes from efficiency and usage.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
@@ -167,8 +209,8 @@
    ]
   },
   {
-   "text": "Experts say he will never be a real source of assists, steals or blocks.",
-   "kind": "verdict",
+   "text": "He gives little in assists, steals and blocks, and he does not get to the rim much.",
+   "kind": "fact",
    "date": "2026-09-26",
    "until": "",
    "sources": [
@@ -176,16 +218,7 @@
    ]
   },
   {
-   "text": "Threes are his best category, with points next. Both are clearly above the top 250 pool and above other forwards.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He has a long injury history, including a hamstring injury late last season and other injury concerns earlier in his career.",
+   "text": "He has a long injury history, including a hamstring injury late last season.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
@@ -197,110 +230,190 @@
  ],
  "tags": [
   {
+   "name": "3PM from a big",
+   "channel": "durable",
+   "detail": "About 3.2 threes per game projected as a forward",
+   "sources": [
+    "stats",
+    "3UGI05PDvrE:p4"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "No category flagged weak. Blocks and turnovers are only mildly below average.",
-   "until": "",
+   "detail": "No category flagged weak. BLK and TO are mild minuses",
    "sources": [
     "stats"
    ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "usage dependent",
+   "channel": "durable",
+   "detail": "Value driven by usage. A trade or smaller role cuts it",
+   "sources": [
+    "3UGI05PDvrE:p4",
+    "LM0cRCGoAUQ:p35"
+   ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "injury prone",
    "channel": "durable",
-   "detail": "Long injury history, most recently a hamstring injury late last season",
-   "until": "",
+   "detail": "Long injury history. Hamstring injury late last season",
    "sources": [
     "3UGI05PDvrE:p2",
     "uRsfijpBPok:p11"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
-   "name": "injury last season",
+   "name": "usage competition",
    "channel": "current",
-   "detail": "Ended the season with a hamstring injury and did not play in March while the Nets tanked",
-   "until": "",
+   "detail": "Randle, Mikel Brown Jr. and Egor Demin take more of the ball",
    "sources": [
-    "3UGI05PDvrE:p0",
-    "3UGI05PDvrE:p6",
-    "uRsfijpBPok:p11"
+    "uRsfijpBPok:p9",
+    "sTtFUy7IoJI:p45",
+    "9tb1ARBEmQU:p3"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "role down",
    "channel": "current",
-   "detail": "Usage expected to fall from 32% with Randle, Brown and Demin handling the ball",
-   "until": "",
+   "detail": "Usage expected to fall from about 32%",
    "sources": [
-    "3UGI05PDvrE:p1",
-    "LM0cRCGoAUQ:p35",
     "sTtFUy7IoJI:p45",
     "uRsfijpBPok:p9",
-    "9tb1ARBEmQU:p3"
+    "LM0cRCGoAUQ:p35"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Josh Minott and Noah Clowney may take minutes",
-   "until": "",
+   "detail": "Josh Minott and Noah Clowney",
    "sources": [
     "LM0cRCGoAUQ:p35"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "trade risk",
    "channel": "current",
-   "detail": "Unrestricted free agent next summer with no extension. A trade could cut his usage further.",
-   "until": "",
+   "detail": "No extension. Trade possible within about six months",
    "sources": [
+    "uRsfijpBPok:p10",
     "3UGI05PDvrE:p1",
     "3UGI05PDvrE:p7",
-    "uRsfijpBPok:p10",
-    "LM0cRCGoAUQ:p35",
-    "dlo7L8Ru91A:p18"
+    "LM0cRCGoAUQ:t7"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
-   "name": "shutdown risk",
+   "name": "contract year",
    "channel": "current",
-   "detail": "Nets have no reason to tank but also little reason to win, so March minutes are uncertain",
-   "until": "",
+   "detail": "Unrestricted free agent next summer",
    "sources": [
-    "3UGI05PDvrE:t0",
-    "3UGI05PDvrE:t3",
-    "Rqb5GdrSweY:t1"
+    "uRsfijpBPok:p10"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
-   "name": "sites disagree on price",
+   "name": "injury last season",
    "channel": "current",
-   "detail": "ESPN rank 42 and average cost 10.2 USD vs Yahoo rank 60 and average cost 4.2 USD",
-   "until": "",
+   "detail": "Played 52 games. A hamstring injury and team tanking ended his season",
    "sources": [
     "stats",
-    "3UGI05PDvrE:p3"
+    "3UGI05PDvrE:p0",
+    "3UGI05PDvrE:p6"
    ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo status Q (wrist)",
+   "sources": [
+    "stats"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "injured now",
+   "channel": "current",
+   "detail": "Wrist, Yahoo status Q",
+   "sources": [
+    "stats"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "On Yahoo (rank 71, ADP 68 at the time)",
+   "sources": [
+    "ahNxsoU8Hx4:p28"
+   ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
    "detail": "At ESPN rank 42",
-   "until": "",
    "sources": [
     "uarqbNA2dFk:p38"
    ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo average cost 3.5 USD vs ESPN 10.8 USD; rank 61 vs 43",
+   "sources": [
+    "stats"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "16, tied for most in the league",
+   "sources": [
+    "3UGI05PDvrE:t4",
+    "gf_6GveiAls:t1"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "About 28 wins projected. Brooklyn does not own its pick",
+   "sources": [
+    "uRsfijpBPok:t4",
+    "sDzeYdUhJDI:t8"
+   ],
+   "until": "",
    "new_meaning": ""
   }
  ],
- "note": "He finished about 30th in category leagues last season, but experts now rank him 45 to 60 because Randle cuts his usage. That fits a 10 to 17 USD price, between our league's 10 USD last season and Yahoo's 17 USD value, and he is good value in round 6. He has no flagged weak category, so he fits any build that needs threes and points. Early in the season, check his usage share next to Randle, any extension or trade news, and whether the hamstring is behind him.",
+ "note": "He brings points, threes and rebounds from a forward spot, with no weak category, so he fits most builds. Expert ranks of 45 to 60 match his Yahoo value of 17 USD and ESPN value of 14 USD much more than the 3.5 USD Yahoo average cost, so paying around our league's 10 USD from last season looks fair. Early in the season, check his Yahoo questionable tag (wrist), how much usage Randle takes from him, and any trade or extension news.",
  "rejected": []
 }

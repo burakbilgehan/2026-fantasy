@@ -8,24 +8,26 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "572d4af0d2ad",
+ "input_sha": "d90418e2412f",
  "note_count": 3,
- "built_at": "2026-10-04T17:37:23+00:00",
+ "built_at": "2026-10-11T09:19:03+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1425018,
-  "duration_ms": 30227
+  "cost_usd_list": 0.17803799999999997,
+  "duration_ms": 35702,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He changed teams this offseason in a trade. His current team is Utah.",
+   "text": "Josh Green plays for Utah. The summer notes about his trade to Minnesota and a possible starting role there no longer apply to his current team.",
    "kind": "fact",
-   "date": "2026-07-01",
+   "date": "2026-08-19",
    "until": "",
    "sources": [
     "W3THnI7wWdA:p6",
-    "ya2VYRJ1BN0:p10"
+    "2mxpEpGU3H8:p14"
    ]
   },
   {
@@ -38,41 +40,54 @@
    ]
   },
   {
-   "text": "Utah has a crowded rotation with George, Peterson, Sensabaugh, Bailey, Markkanen and Jackson, and the team plans to win this season. That leaves little room for a reserve wing.",
-   "kind": "verdict",
+   "text": "Utah has a crowded and deeper roster at guard and wing, with George, Peterson, Sensabaugh, Bailey and Markkanen, plus new wing Josh Okogie.",
+   "kind": "fact",
    "date": "2026-08-26",
    "until": "",
    "sources": [
     "-y6p5PYLf00:t4",
+    "xHRF06_E9HE:t4",
     "sTtFUy7IoJI:t6",
-    "CI4k8ofUXXk:t2"
+    "CI4k8ofUXXk:t1"
+   ]
+  },
+  {
+   "text": "Experts expect Utah to try to win this season, so a tanking team's late-season minutes for bench players will not be there.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:t4",
+    "J1Eg3uaAICU:t3",
+    "ahNxsoU8Hx4:t2",
+    "dlo7L8Ru91A:t2"
+   ]
+  },
+  {
+   "text": "He is not a draft target in our 12-team league. Both sites value him at 0 USD and rank him far outside the 144 players drafted.",
+   "kind": "verdict",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is a connective wing who adds size. He is not a scorer or creator.",
-   "kind": "fact",
+   "text": "Experts see him as a connective wing who adds size, not a strong player.",
+   "kind": "verdict",
    "date": "2026-08-19",
    "until": "",
    "sources": [
-    "2mxpEpGU3H8:p14",
-    "ya2VYRJ1BN0:p10"
+    "ya2VYRJ1BN0:p10",
+    "2mxpEpGU3H8:p14"
    ]
   },
   {
-   "text": "Experts rate him as not a good player.",
-   "kind": "verdict",
-   "date": "2026-06-25",
-   "until": "",
-   "sources": [
-    "ya2VYRJ1BN0:p10"
-   ]
-  },
-  {
-   "text": "His points are a league outlier on the weak side. He is a low-usage player who adds little in any counting category.",
+   "text": "He scores very little. His projected points are far below the top 250 pool.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
@@ -83,26 +98,38 @@
   {
    "name": "new team",
    "channel": "current",
-   "detail": "Traded in the offseason. Now with Utah.",
+   "detail": "Now on Utah after a summer trade to Minnesota",
    "until": "",
    "sources": [
     "W3THnI7wWdA:p6",
-    "ya2VYRJ1BN0:p10"
+    "stats"
    ],
    "new_meaning": ""
   },
   {
-   "name": "role down",
+   "name": "deep rotation",
    "channel": "current",
-   "detail": "Not in Utah's projected starting five, and the rotation is crowded",
+   "detail": "Crowded Utah guard and wing group. He is not in the projected starting five.",
    "until": "",
    "sources": [
-    "CI4k8ofUXXk:t0",
-    "-y6p5PYLf00:t4"
+    "-y6p5PYLf00:t4",
+    "xHRF06_E9HE:t4",
+    "CI4k8ofUXXk:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Competes with George, Peterson, Sensabaugh, Bailey and Okogie for guard and wing minutes",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:t4",
+    "CI4k8ofUXXk:t1"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both Yahoo and ESPN value him at 0 USD. His ranks are 333 and 318, far outside the 144 players drafted in our league, so do not draft him. He projects around 4.6 PTS with few turnovers and no category that helps a build. Only watch him on waivers if Utah's crowded rotation thins out and he gets clearly more than his recent 15.6 minutes.",
+ "note": "Green is priced at 0 USD on both sites, ranks 333 on Yahoo and 319 on ESPN, and was not drafted in our league last season. Do not draft him. He projects about 4 to 5 points in under 20 minutes, and none of his categories is strong enough for a punt build. Only check waivers if injuries hit Utah's wings and he moves into a starting role.",
  "rejected": []
 }

@@ -8,83 +8,93 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "4446f7385d27",
+ "input_sha": "23bb8037762f",
  "note_count": 11,
- "built_at": "2026-10-05T19:55:41+00:00",
+ "built_at": "2026-10-11T09:19:55+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1626302,
-  "duration_ms": 37076,
-  "turns": 2,
+  "cost_usd_list": 0.2604904,
+  "duration_ms": 59129,
+  "turns": 3,
   "denied": 0
  },
  "current": [
   {
-   "text": "Wagler is a rookie. The Clippers took him with the number five overall pick.",
+   "text": "Wagler is a rookie. The Clippers took him with the number 5 overall pick.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
    "sources": [
-    "tnzmsYUA4yQ:p29",
-    "KLogvUwv_d8:p8"
+    "KLogvUwv_d8:p8",
+    "tnzmsYUA4yQ:p29"
    ]
   },
   {
-   "text": "He is projected as the backup point guard behind Darius Garland, ninth in the Clippers' bench order. He plays the same position as Garland.",
-   "kind": "fact",
+   "text": "He is projected as the backup point guard behind Darius Garland, ninth in the Clippers rotation. He is not expected to start on opening night or play 30 minutes.",
+   "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:p29",
     "tnzmsYUA4yQ:t4",
-    "KLogvUwv_d8:p8"
+    "KLogvUwv_d8:p8",
+    "RyzcCGChYgs:p24"
    ]
   },
   {
-   "text": "Experts do not expect him to start or play 30 minutes. One expects about 25 minutes. Garland, Beal, Dunn, Sanders and Strus all compete for guard minutes.",
+   "text": "The guard group is crowded: Garland, Bradley Beal, Kris Dunn, Max Strus and Kobe Sanders. One expert projects him for about 25 minutes.",
    "kind": "verdict",
    "date": "2026-09-03",
    "until": "",
    "sources": [
     "OBwWCxG9SqM:p21",
-    "RyzcCGChYgs:p24",
-    "KLogvUwv_d8:p8"
+    "tnzmsYUA4yQ:t4"
    ]
   },
   {
-   "text": "Experts say a market ADP around 117 to 124 is far too high. He is more likely to finish outside the top 250 than inside the top 100, and he should not be drafted in standard formats. At most he is a stash around pick 170 in 16-team leagues.",
+   "text": "Experts say he should not be drafted in standard formats. They say a Yahoo ADP of 117 to 124 is too high and that he is more likely to finish outside the top 250 than inside the top 100.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:p29",
+    "OBwWCxG9SqM:p21"
+   ]
+  },
+  {
+   "text": "At most he is a late stash. One expert puts him around pick 170 in 16-team leagues, which is deeper than our 144-player draft.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
     "tnzmsYUA4yQ:p31",
-    "OBwWCxG9SqM:p21",
     "RyzcCGChYgs:p24"
    ]
   },
   {
-   "text": "The Clippers' roster is not set up to hand the offense to rookies.",
+   "text": "His rookie season is expected to be rocky. The best hope one expert gives is that he averages double-figure points.",
    "kind": "verdict",
-   "date": "2026-09-17",
+   "date": "2026-08-22",
    "until": "",
    "sources": [
-    "ahNxsoU8Hx4:t0"
+    "RyzcCGChYgs:p24",
+    "KLogvUwv_d8:p10"
    ]
   },
   {
-   "text": "The Clippers are expected to run a trial season with long rotations and many players tested. Coach Ty Lue often changes his rotation choices.",
+   "text": "The Clippers rotation is not settled. Ty Lue makes unusual rotation choices and then changes them. One expert expects a trial season with long rotations.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:t1",
-    "tnzmsYUA4yQ:t2"
+    "tnzmsYUA4yQ:t2",
+    "tnzmsYUA4yQ:t3"
    ]
   },
   {
-   "text": "The Clippers play 4-3-4 games in our fantasy playoff weeks, which end March 28. They have 13 back-to-backs, one of the lowest totals in the league.",
+   "text": "The Clippers have a good fantasy playoff schedule with 4, 3 and 4 games in weeks 19 to 21. They have only 13 back-to-backs, one of the lowest totals in the league.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
@@ -93,12 +103,15 @@
    ]
   },
   {
-   "text": "He played better defense than expected at Summer League.",
-   "kind": "fact",
-   "date": "2026-08-22",
+   "text": "Most experts expect the Clippers to be one of the weaker teams in the league.",
+   "kind": "verdict",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "KLogvUwv_d8:p9"
+    "sDzeYdUhJDI:t9",
+    "tnzmsYUA4yQ:t5",
+    "Rqb5GdrSweY:t3",
+    "0AptxcRW0RE:t9"
    ]
   }
  ],
@@ -109,23 +122,22 @@
    "date": "2026-08-22",
    "until": "",
    "sources": [
-    "KLogvUwv_d8:p9",
-    "HxQjagSTTAM:p3"
+    "KLogvUwv_d8:p9"
    ]
   },
   {
-   "text": "He has limited athleticism. He did not dunk once at Illinois.",
+   "text": "Athleticism is a concern. He did not dunk once at Illinois.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
    "sources": [
-    "tnzmsYUA4yQ:p30",
     "KLogvUwv_d8:p9",
+    "tnzmsYUA4yQ:p30",
     "HxQjagSTTAM:p3"
    ]
   },
   {
-   "text": "The newest expert expects him to shoot very poorly and to have efficiency problems.",
+   "text": "The newest expert view expects him to shoot very poorly and to have efficiency problems.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
@@ -134,13 +146,12 @@
    ]
   },
   {
-   "text": "His play swings a lot. He looked terrible at times but had some high-level scoring games.",
-   "kind": "fact",
+   "text": "His play swings a lot. He looked terrible at times but also had some high-level scoring games.",
+   "kind": "verdict",
    "date": "2026-08-02",
    "until": "",
    "sources": [
-    "TOn-D1SV7a8:p27",
-    "RyzcCGChYgs:p24"
+    "TOn-D1SV7a8:p27"
    ]
   }
  ],
@@ -148,18 +159,18 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "Number five overall pick",
+   "detail": "No. 5 overall pick in 2026",
    "until": "",
    "sources": [
-    "tnzmsYUA4yQ:p29",
-    "KLogvUwv_d8:p8"
+    "KLogvUwv_d8:p8",
+    "tnzmsYUA4yQ:p29"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Backup PG behind Garland. Dunn, Beal, Strus and Sanders also compete for guard minutes",
+   "detail": "Backup PG behind Garland; Dunn, Beal, Strus and Sanders also compete for guard minutes",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:p29",
@@ -169,19 +180,21 @@
    "new_meaning": ""
   },
   {
-   "name": "usage competition",
+   "name": "unsettled rotation",
    "channel": "current",
-   "detail": "The roster is not set up to hand the offense to rookies",
+   "detail": "Ty Lue changes rotations often; expected trial season with long rotations",
    "until": "",
    "sources": [
-    "ahNxsoU8Hx4:t0"
+    "tnzmsYUA4yQ:t1",
+    "tnzmsYUA4yQ:t2",
+    "tnzmsYUA4yQ:t3"
    ],
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "Market ADP around 117 to 124. Experts rank him near or outside the top 250",
+   "detail": "Yahoo ADP 117 to 124 called too high; expected outside the top 250",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:p29",
@@ -190,35 +203,13 @@
    "new_meaning": ""
   },
   {
-   "name": "waiver watch",
-   "channel": "current",
-   "detail": "Not a draft target. Watch his minutes early in the season",
+   "name": "streaky",
+   "channel": "durable",
+   "detail": "Terrible at times, with some high-level scoring games",
    "until": "",
    "sources": [
-    "tnzmsYUA4yQ:p31",
-    "OBwWCxG9SqM:p21",
+    "TOn-D1SV7a8:p27",
     "RyzcCGChYgs:p24"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "deep rotation",
-   "channel": "current",
-   "detail": "Trial season with long rotations expected",
-   "until": "",
-   "sources": [
-    "tnzmsYUA4yQ:t1"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "unsettled rotation",
-   "channel": "current",
-   "detail": "Ty Lue often changes rotation choices",
-   "until": "",
-   "sources": [
-    "tnzmsYUA4yQ:t2",
-    "tnzmsYUA4yQ:t3"
    ],
    "new_meaning": ""
   },
@@ -235,14 +226,37 @@
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "13 back-to-backs",
+   "detail": "13 back-to-backs, one of the lowest totals",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:t6"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "Clippers seen as one of the worst rosters",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t9",
+    "tnzmsYUA4yQ:t5",
+    "Rqb5GdrSweY:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Not draftable in standard leagues; a stash only in deeper formats",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p31",
+    "OBwWCxG9SqM:p21"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Yahoo ranks him 210 and ESPN 208, with values of 0 USD on both and no auction history in our league. The experts agree he should not be drafted in a 12-team league where 144 players go, even if other markets take him around ADP 117. Leave him on waivers and watch his minutes behind Garland early in the season, mainly while Beal is out. His projections show no clear category edge (4.0 assists, 45.9% FG), so only a clearly bigger role would make him worth a pickup.",
+ "note": "Skip Wagler in our auction. He is valued at 0 USD on both Yahoo and ESPN, ranks around 203 to 207, and the experts see him as a backup point guard with likely efficiency problems. His projected line of about 46% FG, 1.1 threes and 4 assists has no strong category to build around. Watch the Clippers guard minutes early in the season: if Garland rests or the crowded guard group thins out, he could become a short-term waiver add, helped by a good 4-3-4 playoff schedule.",
  "rejected": []
 }

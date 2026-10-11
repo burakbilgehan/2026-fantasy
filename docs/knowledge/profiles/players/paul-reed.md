@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 165 | 0 | 0.0 | 241 | not drafted |
+| 2026-27 | 0 | 0.0 | 181 | 0 | 0.0 | 242 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -22,33 +22,31 @@
 | 3PM | 0.2 | -1.4 | -1.3 | weak for his position (punt fit) |
 | PTS | 8.1 | -1.0 | -1.0 | - |
 | REB | 5.0 | -0.0 | -0.6 | - |
-| AST | 1.4 | -0.9 | -0.7 | - |
+| AST | 1.4 | -1.0 | -0.8 | - |
 | STL | 1.0 | +0.2 | +0.5 | - |
-| BLK | 1.0 | +0.8 | +0.4 | - |
+| BLK | 1.0 | +0.8 | +0.3 | - |
 | TO | 1.0 | +0.9 | +0.8 | - |
 
 </details>
 
 **Current**
-- Experts still want him late: a must-draft pick around 120 in 14-team leagues, now taken around round 13 instead of rounds 10 to 11. ESPN's rank of 241 is called way too low. In an auction mock he went for 4 USD and Josh says he likes him a lot. (verdict, 2026-10-05; [10-03](https://youtu.be/_O9pc_u5vH0?t=1510), [10-03](https://youtu.be/_O9pc_u5vH0?t=1846), [09-24](https://youtu.be/_vbAP5y182A?t=2090), [09-30](https://youtu.be/BjXP9JODDSg?t=829), [10-05](https://youtu.be/Q6YlQDvD-aY?t=4978))
-- Jalen Duren has signed with Detroit and is in the projected starting five. Reed is the backup center behind him. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1510), [10-03](https://youtu.be/_O9pc_u5vH0?t=1499), [10-02](https://youtu.be/ZYllcj4o6_A?t=1708), [10-03](https://youtu.be/_O9pc_u5vH0?t=374))
-- Isaiah Stewart is gone from Detroit, so Reed is the primary backup big and there is little other frontcourt depth behind Duren. (fact, 2026-10-03; [07-17](https://youtu.be/NYTH7uQsPCM?t=2039), [07-17](https://youtu.be/NYTH7uQsPCM?t=2039), [06-26](https://youtu.be/CLsUc0Sevos?t=1091), [10-03](https://youtu.be/_O9pc_u5vH0?t=208))
-- Projected bench order: Isaiah Joe as sixth man, then Ron Holland, Paul Reed and Daniss Jenkins. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1420))
-- Expected to play about 20 minutes a night if Duren plays about 28. Duren's signing limits his upside. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1499), [10-02](https://youtu.be/ZYllcj4o6_A?t=1708), [08-11](https://youtu.be/OdDkXFhoKsc?t=2414))
-- If Duren misses time and Reed plays about 28 minutes, experts see him as a top 40 to top 50 player. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1846), [08-11](https://youtu.be/OdDkXFhoKsc?t=1567))
-- Detroit plays 4-3-4 games in our playoff weeks 19 to 21 and has 15 back-to-backs, with no rest risks expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
-- The Pistons view him as better than Isaiah Stewart. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=432))
+- Experts still like him as a late pick. One ranks him around pick 120 to 13th round in 14-team leagues and calls his ESPN rank far too low. In a mock auction Josh said he likes him a lot, and he went for 4 USD. (verdict, 2026-10-05; [10-03](https://youtu.be/_O9pc_u5vH0?t=1510), [10-03](https://youtu.be/_O9pc_u5vH0?t=1846), [10-05](https://youtu.be/Q6YlQDvD-aY?t=4978))
+- Isaiah Stewart is gone from Detroit. Jalen Duren has signed and starts at center. Reed is the backup center in the bench rotation. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1510), [10-02](https://youtu.be/ZYllcj4o6_A?t=1708), [07-17](https://youtu.be/NYTH7uQsPCM?t=2039), [07-17](https://youtu.be/NYTH7uQsPCM?t=2039), [06-26](https://youtu.be/CLsUc0Sevos?t=1091), [10-03](https://youtu.be/_O9pc_u5vH0?t=208), [10-03](https://youtu.be/_O9pc_u5vH0?t=374), [10-03](https://youtu.be/_O9pc_u5vH0?t=1420))
+- Duren's signing caps his upside. He should play about 20 minutes a night if Duren plays about 28. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1499), [10-02](https://youtu.be/ZYllcj4o6_A?t=1708))
+- He is Detroit's stash option behind Duren. If Duren misses time and Reed plays about 28 minutes, he could be a top 40 to top 50 player. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1846), [08-11](https://youtu.be/OdDkXFhoKsc?t=1567))
+- Detroit plays 4-3-4 games in our playoff weeks 19 to 21. The team has 15 back-to-backs, but no rest risks are expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
+- Last season he clearly outplayed Duren and Stewart in the regular season and the playoffs. The Pistons rate him above Stewart. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=432), [06-30](https://youtu.be/4GDfg2n2l8o?t=895))
 
 **Durable**
-- Makes almost no threes, which is weak even for a big. (fact, 2026-10-05; stats)
-- An excellent per-minute producer who projects well whenever he gets minutes. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1524), [08-11](https://youtu.be/OdDkXFhoKsc?t=1556), [06-30](https://youtu.be/4GDfg2n2l8o?t=895))
-- He has always posted high blocks per possession. 29% of his rim contests become blocks. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=713))
-- He cannot carry a 30-minute starter's load. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=895))
+- He makes almost no threes. That is his weakest category, even for a big. (fact, 2026-10-11; stats)
+- He is an excellent per-minute producer. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1524), [08-11](https://youtu.be/OdDkXFhoKsc?t=1556), [06-30](https://youtu.be/4GDfg2n2l8o?t=895))
+- He has always had high block rates per possession. 29% of his rim contests end in blocks. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=713))
+- He is not expected to carry a 30-minute starter's load. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=895))
 
 **Tags**
-- Current: `handcuff` (backup center behind Jalen Duren; top 40 to 50 upside if Duren misses time), `flyer` (late-round pick, around round 13), `role up` (backup center now that Stewart is gone, about 20 minutes), `sleeper` (expert puts him around pick 120; ESPN rank 241), `sites disagree on price` (Yahoo rank 165, ESPN rank 241)
-- Durable: `punt 3PM fit` (about 0.2 threes per game), `no 3PM`
+- Current: `handcuff` (Backup center behind Jalen Duren. Top 40 to 50 upside if Duren misses time.), `flyer` (Late-round pick. Went for 4 USD in a mock auction.), `role up` (Moves up from third-string to backup center now that Stewart is gone. About 20 minutes projected.), `sleeper` (Expert puts him around pick 120. Yahoo ranks him 181 and ESPN 242.), `expert target` (Called a must-draft late pick in 14-team leagues), `sites disagree on price` (Yahoo rank 181 vs ESPN rank 242)
+- Durable: `punt 3PM fit`, `no 3PM` (About 0.2 threes per game)
 
-**Note.** Yahoo ranks him 165 and ESPN ranks him 241, both at 0 USD, and he was not drafted in our league last season. The experts still take him around pick 120 or round 13, and he went for 4 USD in one mock. In our 144-player auction he is a 1 to 2 USD end-of-draft handcuff for Duren. He fits punt 3PM builds that want FG%, blocks and low turnovers from a big. Early in the season, check whether he really gets about 20 minutes behind Duren. Pick him up fast if Duren misses games.
+**Note.** Our league drafts only 144 players, and he ranks 181 on Yahoo and 242 on ESPN. Neither site puts a price on him, so at most he is a 1 USD endgame handcuff for a Duren owner or a punt 3PM build. He gives about 58% FG on low volume, good blocks and steals for his minutes, and few turnovers. Early in the season, check whether he really gets about 20 minutes behind Duren and keep an eye on Duren's health. If he goes undrafted, he is a quick waiver add the moment Duren misses games.
 
-<sub>18 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>18 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

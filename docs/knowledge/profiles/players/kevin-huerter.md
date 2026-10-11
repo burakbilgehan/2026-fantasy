@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 195 | 0 | 0.0 | 183 | not drafted |
+| 2026-27 | 0 | - | 198 | 0 | 0.0 | 185 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -22,26 +22,28 @@
 | 3PM | 1.6 | +0.2 | -0.1 | - |
 | PTS | 10.2 | -0.7 | -0.7 | - |
 | REB | 3.4 | -0.7 | -0.6 | - |
-| AST | 2.5 | -0.3 | -0.4 | - |
+| AST | 2.5 | -0.4 | -0.5 | - |
 | STL | 0.9 | -0.1 | -0.2 | - |
-| BLK | 0.5 | -0.3 | -0.0 | - |
-| TO | 1.0 | +0.8 | +0.8 | - |
+| BLK | 0.5 | -0.3 | -0.1 | - |
+| TO | 1.0 | +0.8 | +0.9 | - |
 
 </details>
 
 **Current**
-- In the projected Detroit rotation he is not a starter. Isaiah Joe is the sixth man, then Ron Holland, Paul Reed and Daniss Jenkins. Huerter or Prince gets the last rotation spot. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1420), [10-03](https://youtu.be/_O9pc_u5vH0?t=374))
-- Detroit used a deep 12 to 13 player rotation last season, which limited everyone's minutes. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1386))
-- He signed with Detroit for 3 years and 27 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1160))
-- One expert does not understand the signing. He thinks Detroit could use Huerter as a shooter next to Isaiah Joe. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1160))
+- Experts say coach J.B. Bickerstaff cannot be trusted on what he says about minutes. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=2544), [10-04](https://youtu.be/n4KkK-OJjqA?t=589), [10-03](https://youtu.be/_O9pc_u5vH0?t=304))
+- He is not in Detroit's projected starting five. In the projected bench order, Isaiah Joe is the sixth man, then Ron Holland, Paul Reed and Daniss Jenkins. Huerter or Prince gets the last rotation spot. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=374), [10-03](https://youtu.be/_O9pc_u5vH0?t=1420))
+- Detroit plays 4, 3 and 4 games in our playoff weeks 19 to 21 and has 15 back-to-backs this season. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
+- Last season Detroit used a deep 12 to 13 player rotation that limited everyone's minutes. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1386))
+- Signed with Detroit for 3 years and 27 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1160))
+- An expert does not understand the deal. He thinks Huerter could be used as a shooter next to Isaiah Joe. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1160))
 
 **Durable**
-- His category line has no strong outlier. Threes and low turnovers are his best categories, and points and rebounds are a bit below the pool. (verdict, 2026-10-05; stats)
+- none
 
 **Tags**
-- Current: `new team` (Signed with Detroit, 3 years and 27 million USD), `minutes competition` (Competes with Prince for the last spot in Detroit's bench rotation), `deep rotation` (Detroit used a 12 to 13 player rotation last season)
+- Current: `minutes competition` (Competes with Prince for the last spot in Detroit's rotation), `deep rotation` (Detroit used a 12 to 13 player rotation last season)
 - Durable: none
 
-**Note.** Yahoo ranks him 195 and ESPN 183, both at 0 USD. That is outside the 144 players drafted in our league, so he is not a draft target. His projected line (10.2 PTS, 1.6 3PM, 44.5 FG%) has no category strong enough to make him a punt-build piece. Early in the season, check whether he wins the last rotation spot over Prince and gets steady shooter minutes next to Isaiah Joe. Only then is he worth a waiver look.
+**Note.** Yahoo ranks him 198 and ESPN ranks him 185. Both sites give him 0 USD. Only 144 players get drafted in our league, so he is not a draft target. His projected line (10.2 PTS, 1.6 3PM, 44.5% FG) has no strong category, and he is fighting Prince for the last spot in a deep Detroit rotation. Leave him on waivers. Early in the season, watch whether he holds a real bench role and gets minutes as a shooter.
 
-<sub>1 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>1 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

@@ -8,14 +8,16 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "537f9a433a83",
+ "input_sha": "e9c565738bfc",
  "note_count": 3,
- "built_at": "2026-10-04T17:36:57+00:00",
+ "built_at": "2026-10-11T09:18:29+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1380478,
-  "duration_ms": 28833
+  "cost_usd_list": 0.1483426,
+  "duration_ms": 26832,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
@@ -29,7 +31,7 @@
    ]
   },
   {
-   "text": "Both experts call the contract a steal or undervalued.",
+   "text": "Experts call the contract a steal and undervalued.",
    "kind": "verdict",
    "date": "2026-08-23",
    "until": "",
@@ -39,7 +41,7 @@
    ]
   },
   {
-   "text": "He is probably in the Phoenix rotation as the fourth or fifth guard.",
+   "text": "He is expected to be in the rotation as the fourth or fifth guard.",
    "kind": "verdict",
    "date": "2026-07-01",
    "until": "",
@@ -48,17 +50,17 @@
    ]
   },
   {
-   "text": "The Phoenix backcourt is crowded. Devin Booker, Jalen Green, Dillon Brooks and Collin Gillespie will all want touches.",
-   "kind": "fact",
-   "date": "2026-09-19",
+   "text": "Booker, Jalen Green, Dillon Brooks and Miles Bridges are expected to take most of the Phoenix minutes and usage, with Collin Gillespie also wanting touches. That leaves little room for a backup guard.",
+   "kind": "verdict",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "uarqbNA2dFk:t1",
-    "LM0cRCGoAUQ:t10"
+    "-DN4P92Wp8Y:t7",
+    "uarqbNA2dFk:t1"
    ]
   },
   {
-   "text": "Tier 9 point guard. He is a 16-team league player who is only possibly worth considering in 12-team leagues.",
+   "text": "He is a Tier 9 point guard. He is clearly a 16-team league player and only possibly worth a look in 12-team leagues.",
    "kind": "verdict",
    "date": "2026-09-09",
    "until": "",
@@ -69,9 +71,9 @@
  ],
  "durable": [
   {
-   "text": "His category value comes mainly from steals and few turnovers. He scores little and his FG% is below average.",
+   "text": "His value comes mostly from steals and few turnovers. He scores little and his FG% is low.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
@@ -80,28 +82,28 @@
  ],
  "tags": [
   {
-   "name": "waiver watch",
+   "name": "minutes competition",
    "channel": "current",
-   "detail": "Tier 9 guard, seen as a 16-team player; worth a look on waivers if Phoenix guards get hurt",
+   "detail": "Fourth or fifth guard behind Booker, Jalen Green, Brooks and Gillespie",
    "until": "",
    "sources": [
-    "7BllEsdNLoM:p55",
-    "stats"
+    "W3THnI7wWdA:p14",
+    "uarqbNA2dFk:t1",
+    "-DN4P92Wp8Y:t7"
    ],
    "new_meaning": ""
   },
   {
-   "name": "minutes competition",
+   "name": "waiver watch",
    "channel": "current",
-   "detail": "fourth or fifth guard behind Booker, Jalen Green, Brooks and Gillespie",
+   "detail": "Tier 9 PG, seen as a 16-team player",
    "until": "",
    "sources": [
-    "W3THnI7wWdA:p14",
-    "uarqbNA2dFk:t1"
+    "7BllEsdNLoM:p55"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Yahoo values him at 0 USD and ranks him 263rd, and ESPN does not price him, so he is not part of our 144-player draft. His appeal is steals (1.5 per game in 22.5 minutes last season) with few turnovers. Watch his minutes early in the season and pick him up for steals if an injury moves him up the Phoenix guard rotation.",
+ "note": "Yahoo values him at 0 USD and ranks him 263, well outside the 144 players our league drafts. He should not be bought at the auction. Last season he played 22.5 minutes and averaged 1.5 steals with only 1.0 turnover, so he can be a short-term steals pickup from waivers. Early in the season, check whether he holds about 20 minutes in a crowded Phoenix backcourt, and watch for guard injuries that would open more minutes for him.",
  "rejected": []
 }

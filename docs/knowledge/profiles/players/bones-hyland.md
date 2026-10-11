@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 235 | 0 | 0.0 | 283 | not drafted |
+| 2026-27 | 0 | - | 236 | 0 | 0.0 | 283 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,34 +19,34 @@
 |---|---|---|---|---|
 | FG% | 42.5% | -0.6 | -0.3 | - |
 | FT% | 84.1% | +0.2 | -0.2 | - |
-| 3PM | 1.5 | +0.1 | -0.3 | - |
-| PTS | 7.9 | -1.0 | -1.1 | - |
+| 3PM | 1.5 | +0.0 | -0.3 | - |
+| PTS | 7.9 | -1.1 | -1.1 | - |
 | REB | 1.7 | -1.4 | -1.5 | - |
 | AST | 2.6 | -0.3 | -0.7 | - |
 | STL | 0.6 | -1.0 | -1.2 | - |
 | BLK | 0.2 | -0.9 | -0.8 | - |
-| TO | 0.8 | +1.1 | +1.2 | - |
+| TO | 0.8 | +1.1 | +1.3 | - |
 
 </details>
 
 **Current**
-- He is not a draft target in our 144-player auction. He is a waiver option only if his bench role grows. (verdict, 2026-10-05; stats, [08-19](https://youtu.be/2mxpEpGU3H8?t=524))
-- Minnesota's four set starters are LaMelo Ball, Anthony Edwards, Jaden McDaniels and Rudy Gobert. Jonathan Kuminga and Josh Green are the names for the fifth spot. (fact, 2026-10-04; [08-19](https://youtu.be/2mxpEpGU3H8?t=603), [08-26](https://youtu.be/sTtFUy7IoJI?t=576), [10-04](https://youtu.be/n4KkK-OJjqA?t=669))
-- Minnesota's bench is thin, has little scoring punch and has no ball handlers. (fact, 2026-10-02; [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [10-02](https://youtu.be/ZYllcj4o6_A?t=2323))
-- Minnesota has a two-game week in the matchup starting March 15, which is week 20 of our fantasy playoffs. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
-- He is expected to be a bench scoring option, but Ben calls him a roll of the dice. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=524))
-- Minnesota is short on guards: Donte DiVincenzo will miss most of the season and Mike Conley is gone. (fact, 2026-08-19; [06-22](https://youtu.be/HxQjagSTTAM?t=883), [06-23](https://youtu.be/9tb1ARBEmQU?t=263), [08-19](https://youtu.be/2mxpEpGU3H8?t=236))
-- Minnesota should be competitive. Ben predicts 53 wins, so the team should not rest players to tank. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1830), [07-13](https://youtu.be/Rqb5GdrSweY?t=1051))
-- He re-signed with Minnesota on a minimum contract as guard depth. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1421))
-- He was solid enough when he had to start. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1421))
+- He is in Minnesota's 10-man rotation as a bench scoring option at about 15 minutes per game. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1704), [08-19](https://youtu.be/2mxpEpGU3H8?t=524))
+- He is a risky pick. Experts call him a roll of the dice, and a consistent role is hard for him to find. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1704), [08-19](https://youtu.be/2mxpEpGU3H8?t=524))
+- Minnesota plays a smaller, guard-heavy lineup after trading Julius Randle and Naz Reid for LaMelo Ball. (fact, 2026-10-09; [08-19](https://youtu.be/2mxpEpGU3H8?t=236), [10-09](https://youtu.be/cFV24VgxyCY?t=82))
+- With a March 28 end, Minnesota's playoff schedule goes 4, 2, 4 games, so the semifinal week has only two games. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1878), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
+- Minnesota has the league minimum of 13 back-to-backs. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1878))
+- Minnesota's bench is thin, with little scoring punch and no ball handlers in the bench unit. (fact, 2026-10-02; [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [10-02](https://youtu.be/ZYllcj4o6_A?t=2323))
+- Minnesota is expected to be a winning team (Ben predicts 53 wins) and should not rest players to tank. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1830), [07-13](https://youtu.be/Rqb5GdrSweY?t=1051))
+- He re-signed with Minnesota on a minimum contract and adds guard depth. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1421))
+- He was solid enough when he had to start, so he can fill in if a starting guard misses time. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1421))
 
 **Durable**
-- none
+- He is a bench scorer who can put up numbers when he gets minutes. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1704), [08-19](https://youtu.be/2mxpEpGU3H8?t=524))
 
 **Tags**
-- Current: `waiver watch` (Bench guard ranked outside the top 144 on both sites), `bad playoff schedule` (Two-game week in the matchup starting March 15 (week 20)), `thin rotation` (Thin bench with no other ball handlers; DiVincenzo out most of the season), `winning team` (Ben predicts 53 wins), `low shutdown risk` (Competitive team, not tanking)
+- Current: `minutes competition` (Bench guard at about 15 minutes; a consistent role is hard to find), `waiver watch` (Ranked outside the 144 drafted players; watch if a Minnesota starting guard gets hurt), `bad playoff schedule` (4, 2, 4 games in weeks 19 to 21; two-game semifinal week), `few back-to-backs` (League minimum 13 back-to-backs), `winning team` (Ben predicts 53 wins), `low shutdown risk` (Competitive team, not expected to tank), `thin rotation` (Thin bench with no ball handlers and little scoring punch), `small-ball lineups` (Guard-heavy lineups after Randle and Reid left)
 - Durable: none
 
-**Note.** Hyland is not a draft pick for us. Yahoo ranks him 235, ESPN ranks him 283, both sites value him at 0 USD, and he went undrafted in our league last season. His projected line of about 8 points and 1.5 threes in 16 minutes has no strong category apart from a modest turnover edge. Watch him on waivers early in the season, because Minnesota's bench has no ball handlers and DiVincenzo is out, so he only has value if he takes on a bigger role. The two-game week starting March 15 also lowers his value in the fantasy playoffs.
+**Note.** At rank 236 on Yahoo and 283 on ESPN, both with 0 USD value, he falls well outside the 144 players drafted in our league, so do not spend on him in the auction. Projections of about 8 points and 1.5 threes in about 16 minutes give no category edge. He only matters if an injury to a Minnesota guard pushes him into a bigger role. His two-game semifinal week also hurts his playoff use, so treat him as a short-term waiver pickup only.
 
-<sub>2 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

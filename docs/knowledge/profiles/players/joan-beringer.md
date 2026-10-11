@@ -17,35 +17,37 @@
 | FG% | 68.6% | +1.4 | +0.9 | - |
 | FT% | 72.0% | -0.5 | -0.1 | - |
 | 3PM | 0.0 | -1.7 | -1.6 | league outlier, weak |
-| PTS | 6.4 | -1.3 | -1.2 | - |
-| REB | 4.4 | -0.3 | -0.8 | - |
-| AST | 0.7 | -1.3 | -1.2 | - |
+| PTS | 6.4 | -1.3 | -1.3 | - |
+| REB | 4.4 | -0.3 | -0.9 | - |
+| AST | 0.7 | -1.4 | -1.3 | - |
 | STL | 0.7 | -0.9 | -0.7 | - |
 | BLK | 1.0 | +0.9 | +0.4 | - |
-| TO | 0.7 | +1.2 | +1.2 | - |
+| TO | 0.7 | +1.3 | +1.2 | - |
 
 </details>
 
 **Current**
-- A recent team note says he may not be ready for the backup center role. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=669))
-- Minnesota plays only two games in the week starting March 15. That is week 20, in the middle of our fantasy playoffs. (fact, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=2006), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-16](https://youtu.be/gf_6GveiAls?t=1635))
-- Beringer is Minnesota's backup center behind Rudy Gobert. Naz Reid and Julius Randle are gone, and the team has no other backup center. (fact, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1637), [08-26](https://youtu.be/sTtFUy7IoJI?t=475), [07-21](https://youtu.be/RyzcCGChYgs?t=1212), [06-30](https://youtu.be/4GDfg2n2l8o?t=1259), [06-25](https://youtu.be/ya2VYRJ1BN0?t=254), [09-04](https://youtu.be/gerS7ibpaJo?t=1634), [07-21](https://youtu.be/RyzcCGChYgs?t=1214))
-- Experts expect about 18 minutes a night, roughly 10 to 11 more than last season. The projection was lowered after Jonathan Kuminga signed. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1637), [08-26](https://youtu.be/sTtFUy7IoJI?t=475))
-- He can probably average about 1.1 blocks in reserve minutes. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1637))
-- If Gobert misses games, Beringer would start and become a must-roster player who gets picked up everywhere. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1637), [07-21](https://youtu.be/RyzcCGChYgs?t=1212), [06-25](https://youtu.be/ya2VYRJ1BN0?t=254), [08-26](https://youtu.be/sTtFUy7IoJI?t=528))
-- He has no real path to starting while Gobert is healthy. He is not expected to play power forward next to Gobert early in the season, though that could change later in the year. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=528), [08-19](https://youtu.be/2mxpEpGU3H8?t=971), [06-25](https://youtu.be/ya2VYRJ1BN0?t=254))
-- In a reserve role he is a low-end blocks and FG% player. His value is mainly as a stash in deeper leagues in case Gobert gets hurt. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=528), [07-21](https://youtu.be/RyzcCGChYgs?t=1212))
+- He is Minnesota's clear backup center behind Rudy Gobert. Naz Reid and Julius Randle were traded away. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1592), [09-04](https://youtu.be/gerS7ibpaJo?t=1637), [08-26](https://youtu.be/sTtFUy7IoJI?t=475), [07-21](https://youtu.be/RyzcCGChYgs?t=1212), [06-30](https://youtu.be/4GDfg2n2l8o?t=1259), [06-25](https://youtu.be/ya2VYRJ1BN0?t=254))
+- Minnesota has very thin big man depth. The only bigs are Gobert, Beringer, Lyles, Freeman and Rocco Zikarsky, and the team may start three guards. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=82), [10-09](https://youtu.be/cFV24VgxyCY?t=1759))
+- His value depends on a Gobert injury. If Gobert misses games, he would start and be a must-roster player. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1592), [09-04](https://youtu.be/gerS7ibpaJo?t=1637), [08-26](https://youtu.be/sTtFUy7IoJI?t=528), [07-21](https://youtu.be/RyzcCGChYgs?t=1212), [06-25](https://youtu.be/ya2VYRJ1BN0?t=254))
+- Taking him in round 11 of a 12-team standard league is an overdraft. Draft him only as a stash in best ball, weekly, games cap or deep bench formats. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1592), [10-09](https://youtu.be/cFV24VgxyCY?t=1813), [07-21](https://youtu.be/RyzcCGChYgs?t=1212))
+- With a March 28 end, Minnesota plays 4, 2 and 4 games in the fantasy playoffs. That puts a two-game week in the semifinal. The team has the league minimum of 13 back-to-backs. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1878), [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
+- One expert says he may not be ready for the backup center role. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=669))
+- He is projected for about 18 minutes a night off the bench. That is 10 to 11 more minutes than last season, a figure pulled back after the Kuminga signing. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1637), [08-26](https://youtu.be/sTtFUy7IoJI?t=475))
+- In reserve minutes he is a low-end blocks and FG% player. He can probably average about 1.1 blocks. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1637), [08-26](https://youtu.be/sTtFUy7IoJI?t=528))
+- He has no real path to starting. He is not expected to play power forward next to Gobert early in the season, but that could change as the year goes on. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=528), [08-19](https://youtu.be/2mxpEpGU3H8?t=971), [06-25](https://youtu.be/ya2VYRJ1BN0?t=254))
 
 **Durable**
-- He does not stretch the floor and makes almost no threes. He shoots free throws at around 70%. (fact, 2026-10-05; [08-19](https://youtu.be/2mxpEpGU3H8?t=915), stats)
-- He is a strong shot blocker and an instinctive offensive rebounder. His defensive rebounding technique is behind. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=915))
-- Foul trouble is a concern for his minutes. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=915))
-- Lloyd thinks that in 28 minutes he could average about 12 points, 10 rebounds and 2.4 blocks on 60% shooting. He expects at least one top 50 season from him over his career. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1293))
+- His category profile is high FG% on low volume, few turnovers and some blocks. Threes, assists and points are weak, and he projects to poor steals. (verdict, 2026-10-09; stats, [10-09](https://youtu.be/cFV24VgxyCY?t=1628))
+- Experts see him as a future NBA starter and a possible top 50 fantasy player. In 28 minutes he could put up 12 points, 10 rebounds and 2.4 blocks on 60% shooting. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1628), [07-21](https://youtu.be/RyzcCGChYgs?t=1293))
+- He is a great shot blocker and a strong, instinctive offensive rebounder. His defensive rebounding technique is behind. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=915))
+- He does not stretch the floor and makes almost no threes. He shoots free throws around 70%. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=915), stats)
+- Foul trouble is a concern for him. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=915))
 
 **Tags**
-- Current: `handcuff` (Only backup center behind Rudy Gobert. Would start and be a must-roster if Gobert misses games.), `role up` (About 18 minutes a night expected, roughly 10 to 11 more than last season), `waiver watch` (Stash only in deep leagues. Pick him up at once if Gobert gets hurt.), `minutes competition` (His minutes projection was lowered after the Kuminga signing, and a team note says he may not be ready), `thin rotation` (No other backup center behind Gobert, thin frontcourt depth), `bad playoff schedule` (Two-game week starting March 15 (our week 20))
-- Durable: `no 3PM` (Does not stretch the floor, 0.0 threes projected), `foul prone` (Foul trouble is a concern)
+- Current: `handcuff` (backup center to Rudy Gobert; would start and be must-roster if Gobert misses time), `waiver watch` (stash only in deep formats; pick up if Gobert gets hurt), `role up` (about 18 minutes a night as primary backup center, up from 7.9), `bust candidate` (overdrafted at round 11 in 12-team standard leagues), `thin rotation` (only Gobert, Beringer, Lyles, Freeman and Zikarsky as bigs), `small-ball lineups` (guard-heavy starting group; not expected to play next to Gobert early), `bad playoff schedule` (4, 2, 4 games; two-game semifinal week), `few back-to-backs` (league minimum 13 back-to-backs)
+- Durable: `no 3PM` (0.0 3PM projected, does not stretch the floor), `foul prone` (foul trouble is a concern)
 
-**Note.** Yahoo ranks him 182nd with a value of 0 USD, ESPN prices him at 0 USD, and only 144 players get drafted, so he is not an auction target in our 12-team league. Watch Gobert's health from day one. If Gobert misses games, Beringer becomes a quick FAB add for blocks, FG% (68.6% projected) and low turnovers. Minnesota's two-game week in week 20 makes him less useful in our playoffs.
+**Note.** At Yahoo rank 182 and 0 USD on both Yahoo and ESPN, he falls outside our 144-player draft and should not be bought, even for 1 USD. As a backup he adds little beyond FG%, blocks and few turnovers (projected 1.0 BLK in about 18 minutes), and Minnesota has a two-game semifinal week. Leave him on waivers and watch Gobert's health early in the season: if Gobert misses time, Beringer becomes a must add for blocks, rebounds and FG%.
 
-<sub>9 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>12 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

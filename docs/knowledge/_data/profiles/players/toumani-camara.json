@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "a0f2ea4432f4",
+ "input_sha": "b2d1343e153c",
  "note_count": 8,
- "built_at": "2026-10-05T20:03:24+00:00",
+ "built_at": "2026-10-11T09:23:56+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1846582,
-  "duration_ms": 51799,
+  "cost_usd_list": 0.16848219999999997,
+  "duration_ms": 48402,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Portland's season preview projects him to start next to Lillard, Morant, Avdija and Clingan.",
+   "text": "Portland's projected starting five is Lillard, Morant, Camara, Avdija and Clingan.",
    "kind": "fact",
    "date": "2026-08-11",
    "until": "",
@@ -30,7 +30,17 @@
    ]
   },
   {
-   "text": "His minutes should stay solid. The team likely needs him for about 34 minutes a night, and he must hold 30 or more minutes to keep fantasy value.",
+   "text": "Portland is short on forwards. Basically only Avdija and Camara play forward on the roster.",
+   "kind": "fact",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:t0",
+    "bHA-JoW3reE:t0"
+   ]
+  },
+  {
+   "text": "Portland likely needs him for about 34 minutes a night, and his minutes should stay solid.",
    "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
@@ -40,46 +50,44 @@
    ]
   },
   {
-   "text": "Portland has a crowd of on-ball guards. Lillard, Morant and Scoot Henderson all return or arrive, next to Avdija.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:t6",
-    "LM0cRCGoAUQ:t1",
-    "dlo7L8Ru91A:t1",
-    "sTtFUy7IoJI:t9"
-   ]
-  },
-  {
-   "text": "Portland is short on forwards. Avdija and Camara are basically the only ones, which protects his minutes.",
-   "kind": "fact",
+   "text": "He needs to lock in at 30 or more minutes to hold fantasy value.",
+   "kind": "verdict",
    "date": "2026-08-11",
    "until": "",
    "sources": [
-    "bHA-JoW3reE:t0",
-    "YJk7ZFKFqnI:t0"
+    "YJk7ZFKFqnI:p21"
    ]
   },
   {
-   "text": "His usage will probably drop because of all the guards. That leaves him as mainly a steals contributor.",
+   "text": "Portland has many high-usage guards: Lillard, Morant, Holiday and Henderson, plus Avdija.",
+   "kind": "fact",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:t0",
+    "sTtFUy7IoJI:t9",
+    "LM0cRCGoAUQ:t1",
+    "Rqb5GdrSweY:t6"
+   ]
+  },
+  {
+   "text": "His usage will probably drop this season because of the crowded guard group.",
    "kind": "verdict",
    "date": "2026-09-19",
    "until": "",
    "sources": [
-    "uarqbNA2dFk:p24",
     "LM0cRCGoAUQ:p51",
-    "dlo7L8Ru91A:p35"
+    "dlo7L8Ru91A:p35",
+    "uarqbNA2dFk:p24"
    ]
   },
   {
-   "text": "Experts rate him below his market. A rank of 101 is called far too high, and he sits in tier seven among small forwards.",
+   "text": "Minutes and usage across Portland's rotation are expected to swing from game to game.",
    "kind": "verdict",
-   "date": "2026-09-19",
+   "date": "2026-08-11",
    "until": "",
    "sources": [
-    "uarqbNA2dFk:p24",
-    "dlo7L8Ru91A:p35"
+    "YJk7ZFKFqnI:t5"
    ]
   },
   {
@@ -92,49 +100,58 @@
    ]
   },
   {
-   "text": "Minutes and usage are expected to swing from game to game across Portland's rotation.",
-   "kind": "verdict",
-   "date": "2026-08-11",
+   "text": "He shot poorly for most of last season and only shot well in the last six weeks. His steals were also down last season.",
+   "kind": "fact",
+   "date": "2026-09-19",
    "until": "",
    "sources": [
-    "YJk7ZFKFqnI:t5"
+    "LM0cRCGoAUQ:p51",
+    "dlo7L8Ru91A:p35",
+    "uarqbNA2dFk:p24"
    ]
   },
   {
-   "text": "Portland has three back-to-backs in the fantasy playoffs.",
-   "kind": "fact",
-   "date": "2026-08-16",
-   "until": "",
-   "sources": [
-    "gf_6GveiAls:t6"
-   ]
-  }
- ],
- "durable": [
-  {
-   "text": "Steals are his main fantasy strength. He adds little in the other categories.",
+   "text": "With Portland's usage, experts see him mainly as a steals contributor.",
    "kind": "verdict",
    "date": "2026-09-19",
    "until": "",
    "sources": [
     "uarqbNA2dFk:p24",
-    "LM0cRCGoAUQ:p51",
-    "stats"
-   ]
-  },
-  {
-   "text": "His shooting runs in peaks and valleys. Last season he shot poorly until the last six weeks.",
-   "kind": "fact",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "YJk7ZFKFqnI:p22",
-    "dlo7L8Ru91A:p35",
     "LM0cRCGoAUQ:p51"
    ]
   },
   {
-   "text": "He has weak ball handling and is a poor finisher.",
+   "text": "Experts put him in tier seven at small forward and call a rank of 101 too high.",
+   "kind": "verdict",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p24",
+    "dlo7L8Ru91A:p35"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He is Portland's only real point-of-attack defender.",
+   "kind": "verdict",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:p20"
+   ]
+  },
+  {
+   "text": "His shooting runs in peaks and valleys.",
+   "kind": "verdict",
+   "date": "2026-08-11",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:p22"
+   ]
+  },
+  {
+   "text": "He has weak ball handling and is seen as a poor finisher.",
    "kind": "verdict",
    "date": "2026-08-11",
    "until": "",
@@ -142,26 +159,17 @@
     "YJk7ZFKFqnI:p22",
     "NYTH7uQsPCM:t7"
    ]
-  },
-  {
-   "text": "He is Portland's only real point-of-attack defender.",
-   "kind": "fact",
-   "date": "2026-08-11",
-   "until": "",
-   "sources": [
-    "YJk7ZFKFqnI:p20"
-   ]
   }
  ],
  "tags": [
   {
    "name": "role down",
    "channel": "current",
-   "detail": "Usage likely drops with Lillard, Morant and Scoot on the roster. Minutes are expected to hold.",
+   "detail": "usage likely drops with Lillard, Morant, Holiday and Henderson; minutes should stay solid",
    "until": "",
    "sources": [
-    "dlo7L8Ru91A:p35",
     "LM0cRCGoAUQ:p51",
+    "dlo7L8Ru91A:p35",
     "uarqbNA2dFk:p24"
    ],
    "new_meaning": ""
@@ -169,22 +177,23 @@
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Lillard, Morant, Scoot Henderson and Avdija",
+   "detail": "crowded high-usage guard group plus Avdija",
    "until": "",
    "sources": [
     "sTtFUy7IoJI:t9",
-    "dlo7L8Ru91A:t1",
-    "LM0cRCGoAUQ:t1"
+    "-DN4P92Wp8Y:t0",
+    "LM0cRCGoAUQ:t1",
+    "uarqbNA2dFk:p24"
    ],
    "new_meaning": ""
   },
   {
-   "name": "bust candidate",
+   "name": "unsettled rotation",
    "channel": "current",
-   "detail": "A rank of 101 is called far too high",
+   "detail": "Portland's minutes and usage expected to swing game to game",
    "until": "",
    "sources": [
-    "uarqbNA2dFk:p24"
+    "YJk7ZFKFqnI:t5"
    ],
    "new_meaning": ""
   },
@@ -199,40 +208,20 @@
    "new_meaning": ""
   },
   {
-   "name": "unsettled rotation",
-   "channel": "current",
-   "detail": "Minutes and usage are expected to swing from game to game",
-   "until": "",
-   "sources": [
-    "YJk7ZFKFqnI:t5"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "bad playoff schedule",
-   "channel": "current",
-   "detail": "Three back-to-backs in the fantasy playoffs",
-   "until": "",
-   "sources": [
-    "gf_6GveiAls:t6"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "streaky",
    "channel": "durable",
-   "detail": "Shooting runs in peaks and valleys",
+   "detail": "shooting runs in peaks and valleys",
    "until": "",
    "sources": [
     "YJk7ZFKFqnI:p22",
-    "dlo7L8Ru91A:p35"
+    "LM0cRCGoAUQ:p51"
    ],
    "new_meaning": ""
   },
   {
    "name": "plays every game",
    "channel": "durable",
-   "detail": "82 and 78 games in the last two seasons",
+   "detail": "70, 78 and 82 games in the last three seasons",
    "until": "",
    "sources": [
     "stats"
@@ -242,7 +231,7 @@
   {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "No weak category flagged, but his value is modest everywhere",
+   "detail": "no category flagged weak; value is mostly 3PM and STL",
    "until": "",
    "sources": [
     "stats"
@@ -250,6 +239,6 @@
    "new_meaning": ""
   }
  ],
- "note": "He is ranked 106 on Yahoo (value 4 USD, average cost 1 USD) and 132 on ESPN (value 0). Last season he cost 4 USD in our league. With 144 players drafted, he is a 1 USD end-of-draft pick at most, and the experts call even a rank near 101 too high. His projected 1.2 steals and 2.0 threes help, but his 44.5% FG and 11.5 points add little. Early in the season, check whether he stays in the starting five and holds 30 or more minutes under the new coach next to Portland's crowded guard group. If he does not, leave him on waivers.",
+ "note": "Camara is a late-round filler. Yahoo values him at 3 USD with an average cost of 1.0 USD (rank 109), ESPN at 0 USD (rank 131), and he went for 4 USD in our league last season. Experts call a rank of 101 too high. His projected line is mostly about 2.0 threes and 1.2 steals, and his 44.5 FG% and 72 FT% cost a little. He hurts no category badly, so he can sit on any build as a 1 to 2 USD pick or a waiver option. Early in the season, check that he starts and plays 30 or more minutes next to Portland's crowded guard group, and whether his late-season shooting holds.",
  "rejected": []
 }

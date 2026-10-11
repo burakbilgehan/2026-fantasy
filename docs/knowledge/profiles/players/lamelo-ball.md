@@ -3,7 +3,7 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, ESPN | 68 | 31.8 | 40.7 (19.8) | 88.6 (3.1) | 4.2 | 23.1 | 5.4 | 8.0 | 1.3 | 0.3 | 3.2 |
+| 2026-27 proj, ESPN | 68 | 32.9 | 40.7 (20.5) | 88.5 (3.2) | 4.4 | 23.9 | 5.6 | 8.3 | 1.4 | 0.3 | 3.3 |
 | 2026-27 proj, Yahoo | 60 | - | 41.6 (19.2) | 87.4 (3.0) | 3.9 | 22.5 | 5.5 | 7.4 | 1.4 | 0.3 | 3.2 |
 | 2025-26 | 72 | 28.0 | 40.7 (17.3) | 89.9 (2.5) | 3.8 | 20.1 | 4.8 | 7.1 | 1.2 | 0.2 | 2.8 |
 | 2024-25 | 47 | 32.0 | 40.5 (21.3) | 84.3 (4.9) | 3.8 | 25.2 | 5.0 | 7.4 | 1.1 | 0.3 | 3.6 |
@@ -11,54 +11,52 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 31 | 30.2 | 24 | 36 | 27.2 | 22 | 29 |
+| 2026-27 | 32 | 31.2 | 23 | 50 | 32.1 | 12 | 29 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 41.1% | -2.4 | -3.0 | league outlier, weak, weak for his position (punt fit) |
+| FG% | 41.1% | -2.4 | -3.1 | league outlier, weak, weak for his position (punt fit) |
 | FT% | 88.0% | +1.1 | +0.9 | - |
-| 3PM | 4.1 | +2.9 | +2.7 | league outlier, strong |
-| PTS | 22.8 | +1.5 | +1.4 | - |
-| REB | 5.4 | +0.1 | +1.1 | - |
-| AST | 7.7 | +2.4 | +2.0 | league outlier, strong |
-| STL | 1.3 | +1.3 | +0.9 | - |
+| 3PM | 4.1 | +2.9 | +2.8 | league outlier, strong |
+| PTS | 23.2 | +1.6 | +1.4 | - |
+| REB | 5.5 | +0.2 | +1.2 | - |
+| AST | 7.8 | +2.4 | +2.0 | league outlier, strong |
+| STL | 1.4 | +1.4 | +1.0 | - |
 | BLK | 0.3 | -0.7 | -0.4 | - |
-| TO | 3.2 | -2.1 | -1.8 | league outlier, weak, weak for his position (punt fit) |
+| TO | 3.2 | -2.1 | -1.9 | league outlier, weak, weak for his position (punt fit) |
 
 </details>
 
 **Current**
-- Experts see value at his market rank of about 22 to 24, even after an injury discount. One expert values him in the mid-30s USD and paid 30 USD in a mock auction. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2173), [10-04](https://youtu.be/n4KkK-OJjqA?t=131), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2230), [09-16](https://youtu.be/2A2JbUN-kc0?t=786))
-- Minnesota has a two-game week in the matchup starting March 15, which is our playoff week 20. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1485), [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1942), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006), [08-19](https://youtu.be/J1Eg3uaAICU?t=397))
-- Experts expect his minutes to rise to 30 to 32 a night in Minnesota. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2230), [09-16](https://youtu.be/2A2JbUN-kc0?t=786), [09-09](https://youtu.be/7BllEsdNLoM?t=797), [07-13](https://youtu.be/Rqb5GdrSweY?t=1071), [06-25](https://youtu.be/ya2VYRJ1BN0?t=425))
-- Experts expect his usage to drop to about 28% next to Edwards. His assist rate may still rise, and one expert projects his overall production to go up by about 7%. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2230), [09-16](https://youtu.be/2A2JbUN-kc0?t=786), [09-09](https://youtu.be/7BllEsdNLoM?t=797), [07-13](https://youtu.be/Rqb5GdrSweY?t=1071), [07-01](https://youtu.be/W3THnI7wWdA?t=260), [07-17](https://youtu.be/NYTH7uQsPCM?t=1599), [07-17](https://youtu.be/NYTH7uQsPCM?t=1559))
-- The new team and the ankle risk are named as concerns for this season. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=786))
-- He is a tier 3 point guard. If you expect only 28 minutes or about 50 games, move him to tier 4. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=797))
-- LaMelo Ball was traded from Charlotte to Minnesota. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1033), [07-21](https://youtu.be/EB1Z_6n56-o?t=922), [07-01](https://youtu.be/W3THnI7wWdA?t=260), [06-25](https://youtu.be/ya2VYRJ1BN0?t=412), [08-19](https://youtu.be/J1Eg3uaAICU?t=805), [07-07](https://youtu.be/ME-r173X5b0?t=471))
-- He is one of Minnesota's four set starters, with Edwards, McDaniels and Gobert. The fifth starting spot is open. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=603), [07-01](https://youtu.be/W3THnI7wWdA?t=260))
-- He is expected to run the offense, handle the ball much more than Edwards and lead the team in assists. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1033), [06-25](https://youtu.be/ya2VYRJ1BN0?t=377))
-- Minnesota is expected to compete, so he should not be held out for tanking reasons. (verdict, 2026-08-19; [07-13](https://youtu.be/Rqb5GdrSweY?t=1071), [07-13](https://youtu.be/Rqb5GdrSweY?t=1051), [08-19](https://youtu.be/2mxpEpGU3H8?t=1830))
-- Because of the two-game playoff week, move him slightly down your board and pass on him in close calls. (verdict, 2026-08-19; [08-16](https://youtu.be/gf_6GveiAls?t=1485), [08-19](https://youtu.be/2mxpEpGU3H8?t=1942))
-- Minnesota has the minimum 13 back-to-backs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1131))
-- Back-to-back rest is not a real worry for him. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1131))
+- Experts expect his minutes to rise from 28 to about 30 to 32 a night. They expect his usage to fall to about 28%. More minutes should keep his assists steady or push them up. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=593), [10-08](https://youtu.be/6DnRWahYrFA?t=200), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2230), [09-16](https://youtu.be/2A2JbUN-kc0?t=786), [09-09](https://youtu.be/7BllEsdNLoM?t=797), [07-13](https://youtu.be/Rqb5GdrSweY?t=1071), [07-01](https://youtu.be/W3THnI7wWdA?t=260), [06-25](https://youtu.be/ya2VYRJ1BN0?t=425), [07-17](https://youtu.be/NYTH7uQsPCM?t=1599))
+- Minnesota traded Julius Randle and Naz Reid and is very thin on size. It may start three guards. Ball has no other good passer beside him. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=82), [10-09](https://youtu.be/cFV24VgxyCY?t=1143), [08-19](https://youtu.be/2mxpEpGU3H8?t=236), [10-02](https://youtu.be/ZYllcj4o6_A?t=2323))
+- With Randle and Reid gone, he should pick up more rebounds and shots. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=593), [10-09](https://youtu.be/cFV24VgxyCY?t=156))
+- Experts rate him a mid second round player in categories, about top 20. That is a little above his Yahoo rank of 23. They call him a mild target at his price. In a mock auction he was valued in the mid 30s USD and bought for 30 USD. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=523), [10-09](https://youtu.be/cFV24VgxyCY?t=1783), [10-08](https://youtu.be/6DnRWahYrFA?t=200), [10-04](https://youtu.be/n4KkK-OJjqA?t=131), [10-05](https://youtu.be/Q6YlQDvD-aY?t=2173))
+- The newest notes are not worried about his ankles this season. One expert says to drop him a tier if you expect only 28 minutes or about 50 games. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=593), [10-08](https://youtu.be/6DnRWahYrFA?t=200), [09-09](https://youtu.be/7BllEsdNLoM?t=797))
+- Minnesota has a two-game week starting March 15, inside our fantasy playoffs. With a March 28 end the playoff schedule is 4, 2, 4 games. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1878), [08-16](https://youtu.be/gf_6GveiAls?t=1485), [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1942), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
+- Minnesota has the league minimum of 13 back-to-backs. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1878), [08-16](https://youtu.be/gf_6GveiAls?t=1131))
+- He looks good in preseason. Experts think he fits well with Edwards, and their three-point volume can coexist. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=200), [07-07](https://youtu.be/ME-r173X5b0?t=269))
+- Charlotte traded him to Minnesota. He is a starter there next to Anthony Edwards. (fact, 2026-08-19; [06-25](https://youtu.be/ya2VYRJ1BN0?t=412), [07-01](https://youtu.be/W3THnI7wWdA?t=260), [07-21](https://youtu.be/EB1Z_6n56-o?t=922), [07-07](https://youtu.be/ME-r173X5b0?t=471), [08-19](https://youtu.be/J1Eg3uaAICU?t=805), [08-19](https://youtu.be/2mxpEpGU3H8?t=1033))
+- He is expected to run the Minnesota offense and to handle the ball much more than Edwards. Experts expect him to be the team's top assist man. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1033), [06-25](https://youtu.be/ya2VYRJ1BN0?t=377))
+- Because of the playoff two-game week, move him down slightly when two players are close. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1942), [08-16](https://youtu.be/gf_6GveiAls?t=1485))
+- Minnesota should be competitive, so he should not be rested for tanking. One expert predicts 53 wins. (verdict, 2026-08-19; [07-13](https://youtu.be/Rqb5GdrSweY?t=1071), [07-13](https://youtu.be/Rqb5GdrSweY?t=1051), [08-19](https://youtu.be/2mxpEpGU3H8?t=1830))
 
 **Durable**
-- He commits many turnovers, which hurts the TO category. (fact, 2026-10-05; stats)
-- He helps a lot in assists and threes but drags down FG% on high volume. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1458), [06-25](https://youtu.be/ya2VYRJ1BN0?t=637), stats)
-- Experts disagree on his health risk. One calls health the biggest question about him. Others say the ankle fears are overblown because many of his missed games came from Charlotte tanking. (verdict, 2026-09-23; [08-19](https://youtu.be/2mxpEpGU3H8?t=160), [09-23](https://youtu.be/C4vlgpJ62NI?t=1933), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2181), [07-13](https://youtu.be/Rqb5GdrSweY?t=1058))
-- He has a long history of ankle injuries, including impingement. He has also played 70 or more games twice. (fact, 2026-09-17; [07-21](https://youtu.be/EB1Z_6n56-o?t=2001), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2181))
-- He is one of the best passers and transition players in the NBA, and one expert calls him an elite offensive player who is underrated. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1008), [07-21](https://youtu.be/EB1Z_6n56-o?t=1232), [06-25](https://youtu.be/ya2VYRJ1BN0?t=637))
-- In Charlotte he played with a usage rate of about 30% and a high assist rate. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1008), [07-21](https://youtu.be/EB1Z_6n56-o?t=1276))
-- He takes a very high share of his shots from three and has unlimited range. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1008))
-- Finishing at the rim is his biggest weakness, and he does not get to the free throw line much. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=960))
-- He adds rebounds on top of assists and points, which most assist guards do not. (verdict, 2026-07-15; [07-15](https://youtu.be/0geFVzSqOnA?t=1387))
+- He commits many turnovers, a clear weakness in the TO category. (fact, 2026-10-11; stats)
+- Finishing at the rim is his biggest weakness. His FG% is low on high volume and hurts a team's FG%. He gets to the free throw line little. (fact, 2026-10-09; [07-21](https://youtu.be/EB1Z_6n56-o?t=960), [10-09](https://youtu.be/cFV24VgxyCY?t=606), [09-23](https://youtu.be/C4vlgpJ62NI?t=1458), [06-25](https://youtu.be/ya2VYRJ1BN0?t=637), stats)
+- He adds rebounds and steals that assist guards usually do not. He has posted seasons of 6 rebounds, 8 assists and 1.8 steals. (fact, 2026-10-09; [07-15](https://youtu.be/0geFVzSqOnA?t=1387), [10-09](https://youtu.be/cFV24VgxyCY?t=606))
+- Experts disagree on his health risk. Some call it the biggest question about him. Others say the ankle fears are overblown because many of his missed games were tied to Charlotte tanking. (verdict, 2026-09-23; [08-19](https://youtu.be/2mxpEpGU3H8?t=160), [09-23](https://youtu.be/C4vlgpJ62NI?t=1933), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2181), [07-13](https://youtu.be/Rqb5GdrSweY?t=1058))
+- He takes a very high share of his shots from three and has unlimited range. Threes and assists are his strongest categories, far above the pool. (fact, 2026-09-23; [08-19](https://youtu.be/2mxpEpGU3H8?t=1008), [09-23](https://youtu.be/C4vlgpJ62NI?t=1458), stats)
+- He has a long history of ankle injuries, including impingement. He has played 70 or more games twice. (fact, 2026-09-17; [07-21](https://youtu.be/EB1Z_6n56-o?t=2001), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2181))
+- In Charlotte he ran about 30% usage with a high assist rate. (fact, 2026-08-19; [07-21](https://youtu.be/EB1Z_6n56-o?t=1276), [08-19](https://youtu.be/2mxpEpGU3H8?t=1008))
+- He is one of the best passers and transition players in the NBA, and an underrated offensive player. (verdict, 2026-08-19; [07-21](https://youtu.be/EB1Z_6n56-o?t=1232), [08-19](https://youtu.be/2mxpEpGU3H8?t=1008), [06-25](https://youtu.be/ya2VYRJ1BN0?t=637))
 
 **Tags**
-- Current: `new team` (Traded from Charlotte to Minnesota), `role up` (Minutes expected to rise to 30 to 32 a night), `usage competition` (Shares the ball with Anthony Edwards; usage expected to drop to about 28%), `expert target` (Valued in the mid-30s USD; rank 24 called a little low), `bad playoff schedule` (Two-game week starting March 15 (our week 20)), `few back-to-backs` (Minnesota has the minimum 13 back-to-backs), `winning team` (Projected for 53 wins), `low shutdown risk` (Competitive team, no tanking expected), `thin rotation` (Thin bench with no ball handlers in the bench unit)
-- Durable: `3PM specialist` (About 4 threes a game on a very three-heavy shot diet), `AST specialist` (Elite passer, Minnesota's top assist man), `FG% liability` (About 41% FG on about 19 shots a game, weak finisher at the rim), `high TO` (About 3.2 turnovers a game projected), `punt FG fit`, `punt TO fit`, `injury prone` (Long history of ankle injuries, including impingement), `stable starters` (Finch rarely changes starters unless someone is hurt)
+- Current: `new team` (traded from Charlotte to Minnesota), `role up` (minutes expected to rise from 28 to about 32, though usage falls), `usage competition` (shares the ball with Anthony Edwards), `expert target` (mild target, top 20ish in categories vs Yahoo rank 23), `sites disagree on price` (ESPN value 50 USD and rank 12, Yahoo value 32 USD and rank 23), `questionable` (Yahoo Q (Rest)), `bad playoff schedule` (two-game week starting March 15 (4, 2, 4)), `few back-to-backs` (league minimum 13), `low shutdown risk` (Minnesota competitive, no tanking), `winning team` (53 wins predicted), `small-ball lineups` (may start three guards, which opens rebounds for him)
+- Durable: `3PM specialist` (about 4 threes per game, high three-point share), `AST specialist` (about 7.8 assists per game projected), `FG% liability` (about 41% on about 20 attempts, weak finisher at the rim), `high TO` (about 3.2 turnovers per game), `punt FG fit`, `punt TO fit`, `injury prone` (long history of ankle injuries, including impingement)
 
-**Note.** LaMelo Ball is a strong threes and assists source who costs you in FG% and turnovers. He fits best on punt FG% and punt TO teams. Prices are close together: Yahoo has him at 31 USD (average cost 30.2), ESPN at 36 USD (27.2), and he went for 29 USD in our league last year. Experts value him in the mid-30s, so 30 to 33 USD is fair, but the two-game playoff week starting March 15 (our week 20) is a reason not to stretch. Early in the season, check that his minutes really reach 30 or more, how his assists hold up next to Edwards, and how his ankles are doing.
+**Note.** Experts value him in the mid 30s USD, a bit above his Yahoo value (32 USD) and the 29 USD he cost in our league last season. ESPN's 50 USD looks too high, so any price up to the mid 30s is fair. He fits best in punt FG% and punt TO builds, where his elite threes and assists come with no penalty and his FT%, steals and guard rebounds add value. Early in the season, check that his minutes reach about 32, that his assists hold next to Edwards, and how his ankles hold up. Expect a two-game week in our playoffs (week of March 15).
 
-<sub>31 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>36 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

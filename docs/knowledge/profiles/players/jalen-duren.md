@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 27 | 18.2 | 33 | 34 | 24.1 | 23 | 14 |
+| 2026-27 | 28 | 21.3 | 32 | 34 | 24.4 | 23 | 14 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,7 +21,7 @@
 | FT% | 74.5% | -1.1 | -0.3 | - |
 | 3PM | 0.0 | -1.7 | -1.1 | league outlier, weak, weak for his position (punt fit) |
 | PTS | 19.4 | +0.9 | +1.1 | - |
-| REB | 11.4 | +2.7 | +1.7 | league outlier, strong |
+| REB | 11.4 | +2.7 | +1.6 | league outlier, strong |
 | AST | 2.4 | -0.4 | +0.0 | - |
 | STL | 0.9 | -0.2 | +0.3 | - |
 | BLK | 1.0 | +0.9 | -0.1 | - |
@@ -30,30 +30,30 @@
 </details>
 
 **Current**
-- Yahoo lists him as questionable with an undisclosed injury. Josh says he is not injured. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2561), stats)
-- His auction value is about 20 USD. In a mock auction he went for 19 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2561))
-- His holdout is over and he is back with Detroit. He is projected to start at center with Cunningham, Robinson, Thompson and Collins. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=163), [10-03](https://youtu.be/_O9pc_u5vH0?t=374), [10-03](https://youtu.be/_O9pc_u5vH0?t=335))
-- His conditioning is a concern because he did not train hard during the holdout without a contract. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=163))
-- He is a fair third to fourth round player. ESPN's rank of 23 is too high. He is the speaker's biggest fade on Detroit: never in round 2, no chance in the 20s and doubtful in the 30s. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=640), [10-03](https://youtu.be/_O9pc_u5vH0?t=1761))
-- Tobias Harris is gone, so Detroit lost creation and Duren could gain usage (projected near 25%). If his minutes go above 28 and his usage rises, he could reach the third round. (verdict, 2026-10-03; [09-14](https://youtu.be/t4n9MAP2_14?t=851), [10-03](https://youtu.be/_O9pc_u5vH0?t=689), [10-03](https://youtu.be/_O9pc_u5vH0?t=229))
-- Isaiah Stewart is gone. Paul Reed is the only other center and the main backup big, so there is little frontcourt depth behind Duren. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=208), [07-17](https://youtu.be/NYTH7uQsPCM?t=2039), [06-26](https://youtu.be/CLsUc0Sevos?t=1091), [08-11](https://youtu.be/OdDkXFhoKsc?t=2414), [06-30](https://youtu.be/4GDfg2n2l8o?t=989))
-- Detroit plays 4, 3 and 4 games in our playoff weeks 19 to 21. The team has 15 back-to-backs, with no rest risk expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
-- Last season he almost tripled his self-creation volume and was efficient on those plays. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1109))
-- His 2026 NBA playoffs were very bad, and Paul Reed outplayed him. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1971), [06-30](https://youtu.be/4GDfg2n2l8o?t=964))
-- Detroit is projected to win 50 to 51 games and take the third or fourth seed in the East. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1765))
+- He may be out of shape early in the season, with his minutes stuck around 27 to 28. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2096), [09-14](https://youtu.be/t4n9MAP2_14?t=851))
+- Experts call him a fair third to fourth round player and say he is fine around pick 40. ESPN's rank of 23 is too high, he has no chance of returning value in the 20s, and Yahoo's rank in the low 30s is a little high. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2096), [10-03](https://youtu.be/_O9pc_u5vH0?t=640), [10-03](https://youtu.be/_O9pc_u5vH0?t=1761))
+- Yahoo lists him as questionable (Rest). Josh says he is not injured. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2561), stats)
+- In a mock auction he was valued at about 20 USD and went for 19 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2561))
+- He is back with Detroit and projected to start at center next to Cunningham, Robinson, Thompson and Collins. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=374), [10-03](https://youtu.be/_O9pc_u5vH0?t=335))
+- Isaiah Stewart is gone, so Paul Reed is the main backup center and there is less frontcourt depth behind Duren. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=208), [07-17](https://youtu.be/NYTH7uQsPCM?t=2039), [06-26](https://youtu.be/CLsUc0Sevos?t=1091), [08-11](https://youtu.be/OdDkXFhoKsc?t=2414))
+- He did not train hard during his contract holdout, so his conditioning is a concern. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=163))
+- Detroit lost creation with Tobias Harris gone, so his usage could rise toward about 25%. If his minutes go above 28 and his usage rises, he could return third round value. (verdict, 2026-10-03; [09-14](https://youtu.be/t4n9MAP2_14?t=851), [10-03](https://youtu.be/_O9pc_u5vH0?t=689), [10-03](https://youtu.be/_O9pc_u5vH0?t=229))
+- Detroit's playoff schedule is 4-3-4 games for a league ending March 28. The team has 15 back-to-backs, and no rest risks are expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
+- He has shown he can create his own shot on more plays, and he was efficient doing it. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1109))
+- Detroit is projected to win 50 to 51 games and finish as a third or fourth seed in the East. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1765))
 
 **Durable**
-- He is a strong FG% anchor: very high FG% on center volume. (fact, 2026-10-05; stats)
-- Rebounds are a real strength, far above the top 250 pool. (fact, 2026-10-05; stats)
-- He makes no threes, so 3PM is his one clear weak category. (fact, 2026-10-05; stats)
-- He is great in the pick and roll, on the offensive glass and finishing putbacks. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1103))
-- He does not defend well and does not space the floor. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1103))
-- Detroit is built on defense, and the front office wants only enough offense. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1189))
+- He is a strong FG% anchor because he shoots a very high percentage on real volume. (fact, 2026-10-11; stats)
+- He makes no threes. (fact, 2026-10-11; stats)
+- He is an unusual center. He is not a good defender and does not block many shots, so blocks are not a strength for him. (fact, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2064), [08-12](https://youtu.be/p9XE5jFqhvs?t=1103), stats)
+- Rebounds are a clear strength, far above the player pool. (fact, 2026-10-06; stats, [10-06](https://youtu.be/eTsjuVu1trk?t=2064))
+- His free throw shooting is solid for a center and does not hurt like most bigs. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2064), [07-15](https://youtu.be/0geFVzSqOnA?t=1219), stats)
+- He is great in the pick and roll, on the offensive glass and on putbacks. He does not space the floor. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1103))
 
 **Tags**
-- Current: `questionable` (Yahoo Q (undisclosed); Josh says he is not injured), `bust candidate` (ESPN rank 23 too high; biggest Detroit fade), `sites disagree on price` (ESPN rank 23 and value 34 USD vs Yahoo rank 33 and value 27 USD), `usage freed` (Tobias Harris gone; usage projected near 25%), `winning team` (50 to 51 wins projected)
-- Durable: `FG% anchor` (About 65.6% on 11 attempts), `REB specialist` (About 11.4 rebounds projected), `no 3PM`, `punt 3PM fit`, `defense-first`
+- Current: `questionable` (Yahoo Q (Rest); Josh says he is not injured), `slow start` (Conditioning after the holdout; minutes may stay at 27 to 28 early), `bust candidate` (ESPN rank 23 too high; Yahoo rank in the low 30s a little high), `usage freed` (Tobias Harris gone; usage could rise toward 25%), `winning team` (Projected 50 to 51 wins), `low shutdown risk` (No rest risks expected)
+- Durable: `FG% anchor` (About 65.6% on about 11 attempts per game), `REB specialist` (About 11.4 rebounds per game projected), `no 3PM`, `punt 3PM fit`, `defense-first` (Detroit is built on defense)
 
-**Note.** Duren gives a big FG% and rebound boost and costs only threes, so he fits punt 3PM builds best. His FT% (74.5% on 6 attempts) is not a real drag. The experts price him at about 20 USD, near his Yahoo average cost of 18.2 USD and below Yahoo's value of 27 USD and ESPN's 34 USD. Paying in the high teens to about 20 USD is fair, but do not chase him at ESPN's rank-23 price. Early in the season, check his conditioning after the holdout, whether the Yahoo Q tag clears, and whether his minutes go above 28 with more usage. That is the path to third-round value.
+**Note.** He is a FG% and rebounds anchor who makes no threes. He fits punt 3PM builds best, and his FT% does not hurt the way most centers' FT% does. Experts put him around pick 40 and a mock auction gave him 19 USD. That is close to Yahoo's average cost of 21.3 USD and well below ESPN's value of 34 USD, so stop bidding around 20 to 24 USD (he went for 14 USD in our league last season). In the first weeks, check whether his minutes climb above 28 as his conditioning improves, and whether his usage grows now that Tobias Harris is gone.
 
-<sub>17 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>19 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

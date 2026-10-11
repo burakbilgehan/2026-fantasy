@@ -8,57 +8,42 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "e91f38752c11",
- "note_count": 9,
- "built_at": "2026-10-04T17:47:06+00:00",
+ "input_sha": "49ec350f0a43",
+ "note_count": 10,
+ "built_at": "2026-10-11T09:22:38+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1275382,
-  "duration_ms": 33251
+  "cost_usd_list": 0.14695419999999998,
+  "duration_ms": 36043,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Toronto traded Brandon Ingram and added Kawhi Leonard.",
+   "text": "Toronto traded for Kawhi Leonard and lost Brandon Ingram. Barrett is a projected starter next to Quickley, Leonard, Barnes and Poeltl.",
    "kind": "fact",
    "date": "2026-09-10",
    "until": "",
    "sources": [
     "JMSLg6yz-M0:t0",
+    "s28HvC2grAk:t0",
     "dlo7L8Ru91A:t5"
    ]
   },
   {
-   "text": "He is a projected starter next to Quickley, Leonard, Barnes and Poeltl. He is also in the expected closing five.",
-   "kind": "fact",
-   "date": "2026-08-20",
-   "until": "",
-   "sources": [
-    "s28HvC2grAk:t0",
-    "s28HvC2grAk:t1"
-   ]
-  },
-  {
-   "text": "The Raptors have 15 back-to-backs this season and three in the fantasy playoffs.",
-   "kind": "fact",
-   "date": "2026-08-16",
-   "until": "",
-   "sources": [
-    "gf_6GveiAls:t5"
-   ]
-  },
-  {
-   "text": "Experts see him as the biggest loser of the Kawhi trade. Usage moves to Kawhi, so Barrett will have the ball less.",
+   "text": "He is expected to lose usage to Kawhi Leonard. One expert calls him the biggest loser of the trade.",
    "kind": "verdict",
-   "date": "2026-06-30",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
     "JMSLg6yz-M0:p10",
-    "JMSLg6yz-M0:t0"
+    "JMSLg6yz-M0:t0",
+    "WXO8MfQfzo0:p31"
    ]
   },
   {
-   "text": "He should still start and play 30 or more minutes. Kawhi Leonard's load management helps him, and he should step up in the games Kawhi misses.",
+   "text": "He should start and play 30 or more minutes. Kawhi Leonard's load management helps him, and he should step up when Kawhi is out.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -68,7 +53,16 @@
    ]
   },
   {
-   "text": "Sean expects his finishing next to Kawhi and Scottie Barnes to reach impressive levels this season.",
+   "text": "By the numbers, he was Toronto's most impactful offensive player last season.",
+   "kind": "fact",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:p31"
+   ]
+  },
+  {
+   "text": "One expert expects him to finish at an impressive level next to Kawhi Leonard and Scottie Barnes.",
    "kind": "verdict",
    "date": "2026-08-20",
    "until": "",
@@ -77,16 +71,16 @@
    ]
   },
   {
-   "text": "Because of his contract, he could become a trade candidate by the deadline if the season starts badly.",
+   "text": "His contract situation could make him a trade candidate by the deadline if Toronto starts the season badly.",
    "kind": "verdict",
    "date": "2026-08-20",
-   "until": "2027-03-04 trade deadline",
+   "until": "trade deadline",
    "sources": [
     "s28HvC2grAk:p30"
    ]
   },
   {
-   "text": "Experts differ on his category price. One ranks him tier seven among small forwards and outside the top 130 in category leagues, and calls a Yahoo ADP of 107 too high. Josh is very okay drafting him.",
+   "text": "In category leagues, experts rank him outside the top 130 and say a pick around 107 is too early. Around pick 120, one expert is fine with drafting him.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -95,38 +89,66 @@
     "dlo7L8Ru91A:p34",
     "ZYllcj4o6_A:p45"
    ]
+  },
+  {
+   "text": "Toronto is projected to win about 52 games. The team is not deep after its top seven.",
+   "kind": "verdict",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:t4",
+    "s28HvC2grAk:t2"
+   ]
+  },
+  {
+   "text": "Toronto has 15 back-to-backs, with three of them in the playoffs.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t5"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He is mainly a scorer. His defense is limited, his steals and blocks are low, and his efficiency is lower.",
-   "kind": "verdict",
+   "text": "He is mainly a scorer. His steals and blocks are low and his efficiency is modest.",
+   "kind": "fact",
    "date": "2026-08-30",
    "until": "",
    "sources": [
     "Alwse2uXzD4:p5",
-    "s28HvC2grAk:p29",
+    "JMSLg6yz-M0:p10",
     "stats"
    ]
   },
   {
-   "text": "He is worth clearly more in points leagues than in category leagues.",
+   "text": "He is worth much more in points leagues than in category leagues.",
    "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
    "sources": [
     "dlo7L8Ru91A:p34",
-    "Alwse2uXzD4:p4",
-    "Alwse2uXzD4:p5"
+    "Alwse2uXzD4:p5",
+    "Alwse2uXzD4:p4"
    ]
   },
   {
-   "text": "His FT% is a clear weakness. He shoots below 70% on close to 5 attempts per game, which hurts a team's FT%.",
+   "text": "His FT% is low for his volume of free throws, which clearly hurts a team's FT%.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
+   ]
+  },
+  {
+   "text": "He has limitations on defense.",
+   "kind": "verdict",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:p29"
    ]
   }
  ],
@@ -134,7 +156,7 @@
   {
    "name": "FT% liability",
    "channel": "durable",
-   "detail": "About 68.7% projected on about 4.6 FTA per game",
+   "detail": "About 69% FT on 4 to 5 attempts per game",
    "until": "",
    "sources": [
     "stats"
@@ -144,7 +166,7 @@
   {
    "name": "points league player",
    "channel": "durable",
-   "detail": "Tier 5 in points leagues, tier 7 in categories",
+   "detail": "Tier 7 in categories, tier 5 in points leagues",
    "until": "",
    "sources": [
     "dlo7L8Ru91A:p34",
@@ -154,9 +176,21 @@
    "new_meaning": ""
   },
   {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Shares the ball with Kawhi Leonard and Scottie Barnes",
+   "until": "",
+   "sources": [
+    "JMSLg6yz-M0:p10",
+    "JMSLg6yz-M0:t0",
+    "WXO8MfQfzo0:p31"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "role down",
    "channel": "current",
-   "detail": "Less ball handling after Kawhi Leonard's arrival",
+   "detail": "Less usage after the Kawhi Leonard trade",
    "until": "",
    "sources": [
     "JMSLg6yz-M0:p10",
@@ -167,14 +201,35 @@
   {
    "name": "trade risk",
    "channel": "current",
-   "detail": "Contract situation makes him a deadline trade candidate if Toronto starts badly",
-   "until": "2027-03-04 trade deadline",
+   "detail": "Contract situation; possible trade by the deadline if the season starts badly",
+   "until": "trade deadline",
    "sources": [
     "s28HvC2grAk:p30"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "About 52 wins projected",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:t4",
+    "JMSLg6yz-M0:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "thin rotation",
+   "channel": "current",
+   "detail": "Little depth after the top seven",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:t2"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "He is a late-auction player for us: Yahoo and ESPN both price him near 1 USD (ranks 124 and 140), and he went for 1 USD in our league last season. In 9-cat his value comes from points and some rebounds. His FT% around 69% on real volume and his low steals and blocks hold him back, so he only makes sense as a cheap scorer late in the draft. Early in the season, check how much usage he keeps next to Kawhi and whether he produces more in the games Kawhi rests.",
+ "note": "Barrett is a 1 USD player on both Yahoo and ESPN. He also went for 1 USD in our league last season, and his ranks of 132 to 139 put him near the edge of the 144 players drafted. His value is points (18.5 projected) with a few threes and rebounds. His 68.7% FT and weak steals and blocks limit him, so he fits best as a cheap last-dollar scorer on a team punting FT%. Early in the season, check how much usage he keeps next to Kawhi Leonard and whether his minutes rise when Kawhi rests.",
  "rejected": []
 }

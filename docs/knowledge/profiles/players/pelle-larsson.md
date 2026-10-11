@@ -9,16 +9,16 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 147 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 153 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 49.1% | +0.2 | +0.6 | - |
-| FT% | 78.9% | -0.0 | -0.2 | - |
+| FT% | 78.9% | -0.1 | -0.2 | - |
 | 3PM | 1.0 | -0.6 | -0.9 | - |
-| PTS | 11.6 | -0.4 | -0.4 | - |
+| PTS | 11.6 | -0.4 | -0.5 | - |
 | REB | 3.5 | -0.7 | -0.6 | - |
 | AST | 3.3 | +0.1 | +0.0 | - |
 | STL | 0.8 | -0.4 | -0.5 | - |
@@ -28,25 +28,24 @@
 </details>
 
 **Current**
-- Josh would start Larsson, and he may get the starting point guard job. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2144))
-- Draft him if he wins a starting job. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2144))
-- Miami signed Klay Thompson and traded away Jaime Jaquez Jr. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1931))
-- The Klay Thompson signing lowers his minutes upside. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1967))
-- Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs, but only 10 games in the playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153))
-- Davion Mitchell is Miami's current starting point guard. Josh does not think Mitchell is particularly strong. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=318))
-- Miami traded for Giannis Antetokounmpo and lost a lot of depth and ball handlers in the process. (fact, 2026-07-23; [06-23](https://youtu.be/nnWX_ObljOE?t=780), [07-17](https://youtu.be/NYTH7uQsPCM?t=1757), [07-23](https://youtu.be/LUTYUdXBG1M?t=1264), [09-14](https://youtu.be/LM0cRCGoAUQ?t=813))
-- He should have a big role because Miami's bench is so thin. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1761), [06-23](https://youtu.be/nnWX_ObljOE?t=897))
-- His high assist conversion could fall to about 50% and make his line look worse. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1761))
+- Yahoo lists him as questionable with an illness. (fact, 2026-10-11; stats)
+- Miami has not decided whether to start a traditional point guard or let Giannis Antetokounmpo run the offense. Davion Mitchell is the projected starter at point guard, but he may not close games. (fact, 2026-10-09; [10-07](https://youtu.be/cvhcheoKdbo?t=372), [10-07](https://youtu.be/cvhcheoKdbo?t=262), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2309))
+- He is most likely Miami's sixth man and should get the most bench minutes. Tim Hardaway Jr. and Bobby Portis are also candidates for that role. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1373))
+- He could be the backup point guard or even the starter. Josh would start him. If he wins the starting job, draft him. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1432), [10-02](https://youtu.be/ZYllcj4o6_A?t=2144))
+- Hardaway, Klay Thompson, Davion Mitchell and Portis all compete for his minutes. That makes it unlikely he gets enough minutes and usage, and the Thompson signing in particular lowers his minutes upside. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1856), [09-07](https://youtu.be/gJUBAJaHzlU?t=1967))
+- Yahoo's rank feels a little high. ESPN does not rank him, and his Fantrax ADP is 178. He is fine as a last-round flyer or a late swing. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1410), [10-07](https://youtu.be/cvhcheoKdbo?t=1856), [09-07](https://youtu.be/gJUBAJaHzlU?t=1967))
+- With the March 28 end, Miami has a weak 4-3-3 schedule in our playoff weeks, 10 games in total, with no back-to-backs in those weeks. Over the full season Miami has 13 back-to-backs, the league minimum. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2024), [10-07](https://youtu.be/cvhcheoKdbo?t=2037), [08-16](https://youtu.be/gf_6GveiAls?t=1153))
+- His assist conversion rate was high and could fall to about 50%, which would make his numbers look worse. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1761))
 
 **Durable**
-- His category profile is balanced. No category is a strong or weak outlier. (fact, 2026-10-04; stats)
-- He shoots well from the field, about 50% last season, which is above average for his position. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1902), stats)
-- He gets few steals, and his free throw percentage is not a strength. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1902), stats)
+- He has not shown he can shoot threes: 32% on under 3 attempts a game. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1394))
+- He can play as a pseudo point guard. Last season he had stretches in that role with about five assists a game. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1432))
+- His overall shooting is efficient at about 50% from the field. He gets few steals and takes few free throws. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1902), stats)
 
 **Tags**
-- Current: `role up` (Thin Miami bench after the Giannis trade means a big role is expected), `minutes competition` (Klay Thompson signing; Davion Mitchell holds the starting point guard job), `sleeper` (Yahoo rank 147 with 0 USD value; Josh would start him and draft him if he starts), `few back-to-backs` (Miami has the league's fewest back-to-backs (13)), `bad playoff schedule` (Only 10 Miami games in weeks 19 to 21, though no back-to-backs)
-- Durable: `fits every build` (No category flagged weak; balanced low-impact profile)
+- Current: `minutes competition` (Hardaway, Klay Thompson, Davion Mitchell and Portis), `flyer` (last-round flyer; worth drafting if he starts at point guard), `regression risk` (assist conversion rate could fall to about 50%), `questionable` (Yahoo Q (Illness)), `unsettled rotation` (open question whether Miami starts a traditional point guard or lets Giannis run point), `bad playoff schedule` (4-3-3 with the March 28 end, 10 games), `few back-to-backs` (13, the league minimum, and none in the playoff weeks)
+- Durable: none
 
-**Note.** Yahoo ranks him 147th with a 0 USD value, just outside our 144-player draft pool. He went undrafted in our league last season, so he is a 1 USD end-of-draft pick at most. His projected line (11.6 PTS, 3.3 AST, 49% FG on 8 attempts, 1.4 TO) has no weak category, so he fits any build as a filler. In preseason, check whether he starts, maybe at point guard over Davion Mitchell, and how many minutes Klay Thompson takes from him. If he does not start, leave him on waivers and watch his minutes.
+**Note.** Yahoo ranks him 153 with a value of 0 USD and ESPN does not rank him, so he sits just outside our 144 drafted players. At most he is a 1 USD last-round flyer. His projection has no category above the pool except a small plus in FG% (49.1% on 8.2 attempts) and low turnovers, so his value depends on role. Check the preseason starting lineup: if he starts at point guard ahead of Mitchell, take him late or grab him early on waivers. If he comes off the bench behind Hardaway, Thompson and Portis, leave him on waivers, especially since Miami has only 10 games in our playoff weeks.
 
-<sub>5 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>10 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

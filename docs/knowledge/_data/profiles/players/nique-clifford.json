@@ -8,93 +8,72 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "a50701e9b203",
+ "input_sha": "8314092a0d5b",
  "note_count": 1,
- "built_at": "2026-10-05T19:58:58+00:00",
+ "built_at": "2026-10-11T09:21:45+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.10430619999999999,
-  "duration_ms": 16411,
+  "cost_usd_list": 0.1272622,
+  "duration_ms": 26060,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "His summer league play was very average, at age 24.5.",
+   "text": "He is not in Sacramento's projected starting five. The projected starters are Acuff, LaVine, Hunter, Murray and Sabonis.",
    "kind": "fact",
-   "date": "2026-07-21",
+   "date": "2026-07-31",
    "until": "",
    "sources": [
-    "RyzcCGChYgs:p9"
+    "oEywzBZfAvY:t1"
    ]
   },
   {
-   "text": "Lloyd worries he will not make it as an NBA player.",
+   "text": "Sacramento refused to play Malik Monk last season and could give his bench minutes to Clifford.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:t8"
+   ]
+  },
+  {
+   "text": "Lloyd rated his summer league as very mid for a player aged 24.5 and worries he will not make it in the NBA.",
    "kind": "verdict",
    "date": "2026-07-21",
    "until": "",
    "sources": [
     "RyzcCGChYgs:p9"
-   ]
-  },
-  {
-   "text": "He is not in the Kings' projected starting five of Acuff, LaVine, Hunter, Murray and Sabonis. Nobody is pushing that group for a starting spot.",
-   "kind": "fact",
-   "date": "2026-07-31",
-   "until": "",
-   "sources": [
-    "oEywzBZfAvY:t1",
-    "W3THnI7wWdA:t8"
-   ]
-  },
-  {
-   "text": "The Kings are projected to be one of the worst teams. The hosts predict 26 or 27 wins and Vegas has them at about 22.",
-   "kind": "verdict",
-   "date": "2026-07-31",
-   "until": "",
-   "sources": [
-    "oEywzBZfAvY:t7",
-    "0AptxcRW0RE:t8",
-    "lOshTzDA4SA:t4"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is an inefficient scorer. His FG% is low on modest volume.",
-   "kind": "verdict",
+   "text": "He is an inefficient shooter. Kings passers had low assist conversion partly because he could not make shots.",
+   "kind": "fact",
    "date": "2026-07-21",
    "until": "",
    "sources": [
     "RyzcCGChYgs:p9",
+    "NYTH7uQsPCM:t4",
     "stats"
-   ]
-  },
-  {
-   "text": "He is a weak shooter. Experts say Kings passers got fewer assists because teammates like him could not shoot.",
-   "kind": "verdict",
-   "date": "2026-07-17",
-   "until": "",
-   "sources": [
-    "NYTH7uQsPCM:t4"
    ]
   }
  ],
  "tags": [
   {
-   "name": "bottom team",
+   "name": "minutes competition",
    "channel": "current",
-   "detail": "Kings projected at about 22 to 27 wins",
+   "detail": "Bench role, with Malik Monk competing for the same minutes; Sacramento may favor Clifford.",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:t7",
-    "0AptxcRW0RE:t8",
-    "lOshTzDA4SA:t4"
+    "-DN4P92Wp8Y:t8",
+    "oEywzBZfAvY:t1"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both sites value him at 0 USD and rank him 227 (Yahoo) and 234 (ESPN). That is far outside the 144 players our league drafts, so do not draft him. His projected line, 42.8% FG on about 8.6 attempts and 9.6 points, has no category that stands out, so he fits no punt build. Early in the season, check only whether a LaVine or Sabonis trade or an injury moves him into the starting lineup with clearly more minutes.",
+ "note": "Both sites value him at 0 USD and rank him 215 to 219, far outside the 144 players our auction drafts, so do not spend on him. His projected line (about 10 points on 44% FG) has no category above the top 250 pool. Steals, the closest, are only at pool level. Early in the season, check whether Sacramento gives him Monk's bench minutes and whether his shooting improves. Until then he is not worth a waiver claim.",
  "rejected": []
 }

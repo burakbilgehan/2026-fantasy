@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 280 | 0 | 0.0 | 201 | not drafted |
+| 2026-27 | 0 | - | 279 | 0 | 0.0 | 203 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -22,27 +22,27 @@
 | 3PM | 1.7 | +0.2 | +0.0 | - |
 | PTS | 7.6 | -1.1 | -1.2 | - |
 | REB | 2.8 | -1.0 | -1.0 | - |
-| AST | 2.9 | -0.1 | -0.2 | - |
+| AST | 2.9 | -0.2 | -0.2 | - |
 | STL | 0.7 | -0.7 | -0.8 | - |
 | BLK | 0.3 | -0.6 | -0.5 | - |
-| TO | 1.2 | +0.5 | +0.6 | - |
+| TO | 1.2 | +0.6 | +0.6 | - |
 
 </details>
 
 **Current**
-- Portland is crowded at guard. Damian Lillard, Ja Morant, Jrue Holiday, Deni Avdija and Scoot Henderson all handle the ball, and Shaedon Sharpe also comes off the bench. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [09-10](https://youtu.be/dlo7L8Ru91A?t=767), [07-07](https://youtu.be/ME-r173X5b0?t=1091))
+- Portland has a crowded group of on-ball guards: Damian Lillard, Ja Morant, Jrue Holiday, Scoot Henderson and Deni Avdija. Its forward depth is thin. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=370), [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [06-29](https://youtu.be/bHA-JoW3reE?t=227), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [07-07](https://youtu.be/ME-r173X5b0?t=1091))
 - Portland has a new head coach this season. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1559))
-- Portland's projected starting five is Lillard, Morant, Camara, Avdija and Clingan. Krejčí is not in it. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=477))
-- Portland is short on forwards. It lost Jerami Grant, Matisse Thybulle, Kris Murray, Caleb Love and Blake Wesley, and Avdija and Camara are basically its only forwards. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [06-29](https://youtu.be/bHA-JoW3reE?t=227))
-- Minutes and usage across Portland's rotation are expected to swing from game to game. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
+- Portland has three back-to-backs in the fantasy playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
+- He is not in Portland's projected starting five of Lillard, Morant, Camara, Avdija and Clingan. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=477))
+- Minutes and usage in Portland's rotation are expected to swing from game to game. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
 
 **Durable**
 - none
 
 **Tags**
-- Current: `deep rotation` (Portland has a crowded guard group: Lillard, Morant, Holiday, Avdija, Henderson and Sharpe), `unsettled rotation` (Minutes and usage expected to swing from game to game in Portland), `new coach` (Portland has a new head coach)
+- Current: `unsettled rotation` (Portland minutes and usage expected to swing game to game), `new coach` (Portland), `bad playoff schedule` (three playoff back-to-backs)
 - Durable: none
 
-**Note.** No expert note covers Krejčí. Both sites value him at 0 USD (Yahoo rank 280, ESPN rank 201), so he will not be one of the 144 players drafted in our league. The site projections disagree a lot (Yahoo 39.8% FG with 1.4 TO, ESPN 49.6% FG in 25.7 minutes), and he has no category that stands out. Watch on waivers early in the season to see whether Portland's lack of forwards gives him more than his usual 20 to 21 minutes.
+**Note.** No expert talks about Krejčí. Both sites value him at 0 USD and rank him well outside the 144 players our league drafts (Yahoo 279, ESPN 203), so he will not be drafted. He has no strong category, his points and rebounds are low, and the two site projections disagree a lot on his shooting (39.8 vs 49.6 FG%). Watch early in the season to see if Portland's thin forward group gives him more than the 21 minutes he played last season. Without that he is not worth a roster spot.
 
-<sub>0 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>0 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

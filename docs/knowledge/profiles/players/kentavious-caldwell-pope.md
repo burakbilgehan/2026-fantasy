@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 248 | 0 | 0.1 | 246 | not drafted |
+| 2026-27 | 0 | - | 291 | 0 | 0.0 | 247 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -22,7 +22,7 @@
 | 3PM | 1.1 | -0.4 | -0.7 | - |
 | PTS | 7.5 | -1.1 | -1.2 | - |
 | REB | 1.9 | -1.3 | -1.5 | - |
-| AST | 1.7 | -0.8 | -0.9 | - |
+| AST | 1.7 | -0.8 | -1.0 | - |
 | STL | 0.9 | -0.2 | -0.3 | - |
 | BLK | 0.3 | -0.7 | -0.7 | - |
 | TO | 0.9 | +1.1 | +1.1 | - |
@@ -30,19 +30,20 @@
 </details>
 
 **Current**
-- Philadelphia has 13 back-to-backs, and three of them fall in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148))
+- His Yahoo status is questionable (rest). (fact, 2026-10-11; stats)
+- His projections put him outside the 144 players drafted in our league. He is a waiver-level player. (verdict, 2026-10-11; stats)
+- The Philadelphia guard rotation is crowded. Maxey, Embiid, LeBron James and Jaylen Brown take most of the usage. (fact, 2026-08-26; [08-02](https://youtu.be/TOn-D1SV7a8?t=1033), [08-26](https://youtu.be/sTtFUy7IoJI?t=1944))
 - He joined Philadelphia this offseason. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=141))
-- He is not in the projected Philadelphia starting five. He said himself that the young guy should start over him. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=534), [08-06](https://youtu.be/gTsfR5PxAMY?t=412))
-- Experts are not sure he has anything left. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=534))
-- Nick Nurse plays his starters very heavy minutes and the Philadelphia guard rotation is crowded. That leaves little room for a bench guard. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=556), [08-02](https://youtu.be/TOn-D1SV7a8?t=1033))
+- He is not in the projected starting five. VJ Edgecombe is the projected starter next to Maxey, and Caldwell-Pope said himself that the young guy should start over him. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=534), [08-06](https://youtu.be/gTsfR5PxAMY?t=412))
+- The expert is not sure he has anything left. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=534))
 
 **Durable**
 - none
 
 **Tags**
-- Current: `new team` (Joined Philadelphia this offseason), `bad playoff schedule` (Three Philadelphia back-to-backs in the fantasy playoffs)
-- Durable: `age decline watch` (Expert unsure he has anything left; minutes fell in each of the last three seasons)
+- Current: `new team` (Joined Philadelphia this offseason), `usage competition` (Bench guard behind Maxey, Edgecombe, Brown, LeBron and Embiid), `deep rotation` (Crowded Philadelphia guard rotation), `questionable` (Yahoo status Q (Rest))
+- Durable: `age decline watch` (Expert unsure he has anything left)
 
-**Note.** Yahoo ranks him 248 and ESPN 246, both with a value of 0 USD, and our league did not draft him last season. That puts him well outside our 144 drafted players, so do not draft him. He has no category strong enough to carry a punt build: his FT% and low turnovers are mild pluses on very low volume, and he is behind the starters in a crowded Philadelphia rotation. Look at him only if a Philadelphia guard gets hurt and his minutes rise well above the 21.3 he played last season.
+**Note.** Both Yahoo and ESPN value him at 0 USD. He ranks 291 on Yahoo and 247 on ESPN, so do not draft him in a 144-player auction. His projections show only small help in FT% (87.6%) and turnovers (0.9 per game) on low volume, and he projects for about 1 three per game as a bench guard. Early in the season, check whether missed games by Embiid or LeBron give him a real starter's minutes. If not, leave him on waivers.
 
-<sub>1 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>1 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

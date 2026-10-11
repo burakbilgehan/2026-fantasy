@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 1 | 1.5 | 127 | 0 | 0.5 | 154 | 2 |
+| 2026-27 | 1 | 1.3 | 124 | 0 | 0.7 | 156 | 2 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -22,33 +22,31 @@
 | 3PM | 1.5 | +0.0 | +0.5 | - |
 | PTS | 15.6 | +0.3 | +0.4 | - |
 | REB | 5.6 | +0.2 | -0.3 | - |
-| AST | 3.1 | -0.0 | +0.4 | - |
-| STL | 0.6 | -1.2 | -1.0 | weak for his position (punt fit) |
+| AST | 3.1 | -0.1 | +0.4 | - |
+| STL | 0.6 | -1.2 | -1.1 | weak for his position (punt fit) |
 | BLK | 0.3 | -0.6 | -1.0 | weak for his position (punt fit) |
 | TO | 1.3 | +0.5 | +0.3 | - |
 
 </details>
 
 **Current**
-- Gordon is the projected starting power forward next to Nikola Jokic, Jamal Murray, Christian Braun and Cam Johnson. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307))
-- Denver's depth behind Gordon at power forward is abysmal. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=792))
-- Denver is expected to be extra cautious with his minutes. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=799))
-- Gordon finished 146th in categories last season. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=769))
-- Experts disagree on his price. One sees a stable, low-upside pick around round 11. Others rank him tier nine and only worth a look in 14-team leagues, or would avoid him at his Yahoo draft spot of about 112 to 119 because there is no upside there. (verdict, 2026-09-29; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2230), [09-14](https://youtu.be/t4n9MAP2_14?t=2243), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=769))
-- He should be streamable during the season but carries injury risk. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=799))
-- Denver plays 43 games through March 28 and has only 14 back-to-backs, one of the lowest counts in the league. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678))
-- Because he is so often unavailable, he is seen as a possible trade candidate. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=898))
-- His steals are more likely to fall than rise. He converted 77% of deflections into steals, against a 49% average. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1167))
+- Experts see him as a low-upside late pick. One would not draft him in standard leagues at his Yahoo price of about pick 112 to 119, after he finished 146th in categories. Another calls him a stable round 11 option who is better in deeper leagues. (verdict, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=1987), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=769), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2230), [09-14](https://youtu.be/t4n9MAP2_14?t=2243), [09-24](https://youtu.be/_vbAP5y182A?t=2280))
+- He is the projected starting power forward next to Jamal Murray, Christian Braun, Cam Johnson and Nikola Jokic. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307))
+- The depth behind him at power forward is called abysmal. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=792))
+- Denver is expected to be extra cautious with his minutes. He is seen as a streamable player who carries injury risk. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=799))
+- Denver plays 43 games through March 28, one below the most of any team. It has only 14 back-to-backs, one of the lowest counts in the league. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678))
+- His injury record makes him a possible trade candidate. One expert expects at least two of last year's Denver starters to be gone by the deadline. (verdict, 2026-07-31, until trade deadline; [07-31](https://youtu.be/keNupMSHp1Y?t=898), [07-31](https://youtu.be/keNupMSHp1Y?t=903))
+- Last season he turned 77% of his deflections into steals. The league average is 49%. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1167))
+- His steals are more likely to fall than rise. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1167))
 
 **Durable**
-- Steals and blocks are his weak categories for a forward or center. The rest of his line is close to average, with a slight plus in FG%. (fact, 2026-10-04; stats)
+- Steals and blocks are his weak categories for a forward or center. The rest of his line is close to average with no big outlier. (fact, 2026-10-11; stats)
 - He has recurring lower-body soft tissue injuries, including repeated hamstring and calf injuries, two years in a row. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=741), [07-31](https://youtu.be/keNupMSHp1Y?t=1216), [09-24](https://youtu.be/_vbAP5y182A?t=2280), [09-15](https://youtu.be/KPdD91Oo8-U?t=2332))
-- He is a low-upside player. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2280))
 
 **Tags**
-- Current: `injury last season` (36 games played in 2025-26), `few back-to-backs` (Denver has 14 back-to-backs), `bust candidate` (at a Yahoo draft spot around 112 to 119), `trade risk` (seen as a possible trade candidate because of his availability)
-- Durable: `injury prone` (repeated hamstring and calf soft tissue injuries, two years in a row), `punt STL fit`, `punt BLK fit`
+- Current: `injury last season` (Played 36 games in 2025-26), `minutes limit` (Expert expects Denver to be extra cautious with his minutes), `bust candidate` (No upside at a Yahoo ADP of about 112 to 119), `regression risk` (Steals from a very high deflection-to-steal rate), `trade risk` (Possible trade candidate; Denver may move starters by the deadline; until trade deadline), `few back-to-backs` (14 back-to-backs)
+- Durable: `injury prone` (Repeated hamstring and calf soft tissue injuries), `punt STL fit`, `punt BLK fit`
 
-**Note.** Gordon is a borderline draft pick in our league. He is Yahoo rank 127 with a 1 USD value and ESPN rank 154 with a 0 USD value, and he cost 2 USD in our auction last season. So he is worth a 1 to 2 USD bench bid at most, and only if you are punting steals and blocks, where his average-plus line with a slight FG% edge fits. He played 51 and then 36 games in the last two seasons and Denver may limit his minutes, so check his health and minutes early. If he goes undrafted, keep him as a streamer.
+**Note.** Gordon is a 1 to 2 USD end-of-auction pick for us. He is valued at 1 USD on Yahoo and 0 on ESPN (ranks 124 and 156), and he went for 2 USD in our league last season. He fits punt STL and punt BLK builds as a decent FG% forward with some threes and assists, but he has played only 36 and 51 games in the last two seasons, and experts see no upside. Let others take him. If he goes undrafted, check his minutes and hamstring and calf health early, and use him as a streamer, since Denver has few back-to-backs.
 
-<sub>11 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>12 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

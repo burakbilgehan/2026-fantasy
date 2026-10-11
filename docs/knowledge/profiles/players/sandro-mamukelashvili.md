@@ -10,44 +10,43 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 3 | 1.0 | 139 | - | 0.0 | - | not drafted |
+| 2026-27 | 3 | 1.0 | 129 | - | 0.1 | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 47.9% | +0.0 | -0.4 | - |
+| FG% | 47.9% | -0.0 | -0.5 | - |
 | FT% | 74.4% | -0.4 | +0.0 | - |
 | 3PM | 1.9 | +0.5 | +1.0 | - |
 | PTS | 12.2 | -0.3 | -0.2 | - |
-| REB | 5.9 | +0.4 | -0.2 | - |
+| REB | 5.9 | +0.3 | -0.2 | - |
 | AST | 2.2 | -0.5 | -0.2 | - |
 | STL | 0.8 | -0.5 | -0.3 | - |
 | BLK | 0.4 | -0.5 | -1.0 | - |
-| TO | 1.4 | +0.3 | +0.1 | - |
+| TO | 1.4 | +0.3 | +0.2 | - |
 
 </details>
 
 **Current**
-- Josh does not think he will start, and that limits his value. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=5379))
-- He is a late-round flyer whose value depends on whether he starts. One expert loves him in tier nine. He went for 4 USD in an auction mock draft. (verdict, 2026-10-05; [09-14](https://youtu.be/t4n9MAP2_14?t=2340), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2336), [10-05](https://youtu.be/Q6YlQDvD-aY?t=5379))
-- Two Lakers starting spots are open. The main candidates are Grimes, LaRavia and Mamukelashvili. Ziaire Williams might also start. (fact, 2026-09-30; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669), [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
-- Experts see him as the backup center behind Walker Kessler, with some minutes at power forward next to Kessler. His minutes should go up in that role. (verdict, 2026-09-14; [08-04](https://youtu.be/_WjOjp6Qu8E?t=520), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2336), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2316))
-- He joined the Lakers from the Raptors after a breakout season in Toronto. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=413))
-- LeBron James left for the Sixers and Rui Hachimura is gone. That opens forward minutes and usage. The Lakers' core is Luka Doncic, Austin Reaves, Walker Kessler and Mamukelashvili. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=306), [07-01](https://youtu.be/W3THnI7wWdA?t=872), [07-16](https://youtu.be/-y6p5PYLf00?t=644))
-- Even the player who comes off the bench in this group should play about 27 minutes. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669))
-- The Lakers' defense depends on Kessler, and the backup centers are weak. If Kessler is out, they would have to rely on Looney or Mamukelashvili. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1701), [07-13](https://youtu.be/Rqb5GdrSweY?t=778))
+- He projects as the Lakers' sixth man. He would play power forward and backup center behind Walker Kessler. The projected starters are Doncic, Reaves, Grimes, Thybulle and Kessler. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1450), [10-06](https://youtu.be/sFelMKWcqyI?t=1441), [08-04](https://youtu.be/_WjOjp6Qu8E?t=520), [10-05](https://youtu.be/Q6YlQDvD-aY?t=5379))
+- The backup center job is still open, with Kevon Looney the other option. JJ Redick's rotation choices are unclear. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=173), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2316))
+- He is unlikely to play 31 minutes, so a Yahoo ADP of 119 is a little high. At 26 to 27 minutes he is a 14-team league player. Not starting limits his value. He went for 4 USD in an expert mock auction. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1600), [10-05](https://youtu.be/Q6YlQDvD-aY?t=5379))
+- He is worth a late-round flyer or stash. If Kessler gets hurt, he would play 30+ minutes. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1939), [09-14](https://youtu.be/t4n9MAP2_14?t=2340), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2336))
+- The Lakers have the second most back-to-backs in the league. Their playoff schedule is 3-4-3 with a March 28 end, which is in the bottom half of the league. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2036), [10-06](https://youtu.be/sFelMKWcqyI?t=2119))
+- His minutes should go up from last season. Even off the bench, he could play about 27 minutes. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2336), [08-04](https://youtu.be/_WjOjp6Qu8E?t=669))
+- He moved from Toronto to the Lakers this offseason. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=413))
 
 **Durable**
-- He makes clearly more threes than most forwards and centers. (fact, 2026-10-05; stats)
-- He is a bad defender. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2337), [08-20](https://youtu.be/s28HvC2grAk?t=413), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1176), [07-02](https://youtu.be/P6TNP-g0wzY?t=1995))
-- He is a good shooter with strong offense. His value relies on volume and efficient three-point shooting. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2337), [08-20](https://youtu.be/s28HvC2grAk?t=413), [07-02](https://youtu.be/P6TNP-g0wzY?t=1995))
-- 2025-26 was his only season in a regular rotation role. (fact, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1995))
+- Threes are his best category for a forward or center. His blocks are low for a big. (fact, 2026-10-11; stats)
+- Experts call him a bad defender. One calls him very overrated as a player, with basically one skill. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1481), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2337), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1176), [07-02](https://youtu.be/P6TNP-g0wzY?t=1995), [08-20](https://youtu.be/s28HvC2grAk?t=413))
+- He is a good shooter. His offense depends on three-point volume and efficiency. (fact, 2026-09-14; [07-02](https://youtu.be/P6TNP-g0wzY?t=1995), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2337), [08-20](https://youtu.be/s28HvC2grAk?t=413))
+- Last season was his only one in a regular rotation role. He was barely a factor in the playoffs. (fact, 2026-08-20; [07-02](https://youtu.be/P6TNP-g0wzY?t=1995), [08-20](https://youtu.be/s28HvC2grAk?t=413))
 
 **Tags**
-- Current: `new team` (Raptors to Lakers), `role up` (Minutes should rise as the backup center behind Kessler. Even the bench player in the group projects for about 27 minutes.), `minutes competition` (Competes with Grimes, LaRavia and possibly Ziaire Williams for two starting spots), `flyer` (Late-round flyer whose value depends on starting), `handcuff` (Lakers would rely on him or Looney if Walker Kessler is out), `unsettled rotation` (Two open starting spots, and J.J. Redick's rotation choices are unclear), `usage freed` (LeBron James and Rui Hachimura left), `winning team` (Andy predicts 50 wins and a top six finish in the West)
-- Durable: `3PM from a big` (Projects for 1.9 threes per game as a F/C)
+- Current: `new team` (Toronto to Lakers), `role up` (backup center minutes, about 27 minutes off the bench), `minutes competition` (backup center job open, Kevon Looney the other option), `handcuff` (30+ minutes if Walker Kessler goes down), `flyer` (late-round stash, value depends on whether he starts), `unsettled rotation` (Redick's rotation and backup center unclear), `many back-to-backs` (Lakers have the second most in the league), `bad playoff schedule` (3-4-3 with March 28 end, bottom half of league)
+- Durable: `3PM from a big` (1.9 projected threes as a F,C)
 
-**Note.** Yahoo ranks him 139 with a value of 3 USD and an average cost of 1.0 USD, so he sits right at the edge of our 144-player draft. Pay 1 to 2 USD only as a final-round flyer. His projected 1.9 threes and 5.9 rebounds help builds that want threes from the frontcourt, but he adds few blocks for a big. Early in the season, check whether he wins a starting spot over Grimes, LaRavia or Ziaire Williams and whether he plays close to 27 minutes. If he does not, leave him on waivers and grab him if Kessler gets hurt.
+**Note.** Yahoo ranks him 129th, near the edge of our 144-player pool. He is valued at 3 USD on Yahoo and went for 4 USD in an expert mock, so treat him as a 1 to 3 USD final-roster stash, not a target. His threes from the frontcourt make him a mild fit for builds that want 3PM from a big, but his blocks are low for his position and the Lakers have a weak playoff schedule. Early in the season, check whether he plays 26 to 27 minutes and holds the backup center job over Looney, and watch Kessler's health, since an injury to Kessler would push him past 30 minutes.
 
-<sub>8 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>12 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

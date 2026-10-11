@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 19 | 18.8 | 52 | 5 | 14.5 | 75 | 26 |
+| 2026-27 | 20 | 12.8 | 51 | 5 | 15.4 | 76 | 26 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,10 +19,10 @@
 |---|---|---|---|---|
 | FG% | 45.6% | -0.7 | -0.8 | - |
 | FT% | 75.3% | -1.3 | -1.3 | weak for his position (punt fit) |
-| 3PM | 1.5 | -0.0 | -0.1 | - |
+| 3PM | 1.5 | -0.1 | -0.1 | - |
 | PTS | 23.8 | +1.7 | +1.8 | - |
-| REB | 8.1 | +1.3 | +1.4 | - |
-| AST | 5.3 | +1.1 | +1.9 | - |
+| REB | 8.1 | +1.2 | +1.4 | - |
+| AST | 5.3 | +1.1 | +1.8 | - |
 | STL | 0.8 | -0.4 | -0.4 | - |
 | BLK | 0.6 | -0.0 | +0.1 | - |
 | TO | 3.1 | -2.0 | -2.3 | league outlier, weak, weak for his position (punt fit) |
@@ -30,29 +30,34 @@
 </details>
 
 **Current**
-- In an auction mock draft he sold for 19 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3160))
-- Josh wanted to get him for under 20 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3160))
-- He is eligible at F only. He does not have C eligibility. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3160))
-- In category leagues the experts see him as fair value in the 40s to mid 50s. He is not a sleeper in categories, and his market price is a little high for category leagues. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2096), [08-30](https://youtu.be/Alwse2uXzD4?t=1070), [08-30](https://youtu.be/Alwse2uXzD4?t=2160))
-- ESPN's rank of 75 is much too low for him. His Yahoo rank in the low 50s is a value, mainly in points leagues. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2672), [09-14](https://youtu.be/LM0cRCGoAUQ?t=956))
-- He is a projected starter at forward next to Suggs, Bane, Franz Wagner and Carter. The team has a new head coach, Sean Sweeney, so roles may change. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=359), [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
-- Last season he took fewer shots, fewer mid-range shots and had lower usage. His assist rate and his share of assisted makes were career highs. His rim finishing is only around the 50th percentile. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1856))
-- He should be good for about 70 games this season. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=715))
-- Orlando is projected to win 47 or 48 games and finish as the 6th seed, which avoids the play-in. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2156))
+- In category leagues, experts say he is too high in the 30s. Their fair range runs from the mid 40s to about 75. Lloyd would not take him in the top 50 but would take him before 75. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1679), [10-06](https://youtu.be/eTsjuVu1trk?t=2155), [09-19](https://youtu.be/uarqbNA2dFk?t=2096), [10-08](https://youtu.be/WXO8MfQfzo0?t=663))
+- ESPN's category rank of 75 is too low. He is much better than 75th. (verdict, 2026-10-08; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2672), [10-08](https://youtu.be/6DnRWahYrFA?t=1679))
+- He finished 125th in nine-cat last season but 58th in head-to-head. (fact, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1679))
+- Orlando has a new head coach, Sean Sweeney, so player roles may change. (fact, 2026-10-08; [08-01](https://youtu.be/FEcNjVRlj-U?t=359), [10-08](https://youtu.be/6DnRWahYrFA?t=1672), [10-08](https://youtu.be/6DnRWahYrFA?t=1679))
+- Lloyd hopes the new coach brings more creativity for Banchero. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1672))
+- In an expert auction mock, Josh bought him for 19 USD. Josh had wanted him for under 20 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3160))
+- He has no center eligibility. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3160))
+- He is a projected starter next to Suggs, Bane, Franz Wagner and Carter. That group was very good when it played together. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
+- Last season he took fewer shots, with fewer mid-range shots and lower usage. His assist rate and his share of assisted makes were career highs. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1856))
+- His scoring last season was about the same as in his 2024 All-Star season. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1680))
+- Phil predicts Orlando wins 47 or 48 games and takes the 6th seed. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2156))
 
 **Durable**
-- Turnovers are his worst category. At about 3.1 per game, they are a league outlier on the weak side. (fact, 2026-10-05; stats)
-- His assists are very high for a forward, and so are his points and rebounds. (fact, 2026-10-05; stats)
-- His FT% is about 75% on about 8 attempts per game. That is weak for a forward and pulls down a team's FT%. (fact, 2026-10-05; stats)
-- He is a much better points league player than a category league player. His value is highest in Yahoo points. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1397), [09-16](https://youtu.be/2A2JbUN-kc0?t=815), [09-01](https://youtu.be/80kfLVnFQ_s?t=788))
-- Experts say he gets too much hate in category leagues. In their view he does not kill the percentages, his blocks are about average and his steals are bad. His volume of points, rebounds and assists is strong. (verdict, 2026-10-04; [09-14](https://youtu.be/LM0cRCGoAUQ?t=897), [10-04](https://youtu.be/n4KkK-OJjqA?t=1397))
-- Josh says his free throw shooting has improved to a pretty good level. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1526))
-- He played through a groin strain last season. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=715))
+- His assists are far above other forwards. (fact, 2026-10-11; stats)
+- He turns the ball over a lot, about 3 times a game. That is a league outlier. (fact, 2026-10-11; stats)
+- His projected FT% of about 75% on 8 attempts a game is still weak for a forward. (fact, 2026-10-11; stats)
+- He is a much better points league player than category league player. His value is highest in Yahoo points. (verdict, 2026-10-08; [10-04](https://youtu.be/n4KkK-OJjqA?t=1397), [09-16](https://youtu.be/2A2JbUN-kc0?t=815), [09-01](https://youtu.be/80kfLVnFQ_s?t=788), [10-08](https://youtu.be/WXO8MfQfzo0?t=663))
+- He puts up a lot of points, rebounds and assists. Josh calls him a big assists-plus-rebounds player. (fact, 2026-10-05; [09-14](https://youtu.be/LM0cRCGoAUQ?t=897), [10-05](https://youtu.be/BiIZsSypx7Y?t=1811), stats)
+- He gets too much hate in category leagues. He does not kill the percentages. (verdict, 2026-10-04; [09-14](https://youtu.be/LM0cRCGoAUQ?t=897), [10-04](https://youtu.be/n4KkK-OJjqA?t=1397))
+- His steals are weak and his blocks are about average. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=897), stats)
+- Josh says he has improved his free throw shooting to a pretty good level. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1526))
+- He played 72 games last season despite a groin strain. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=715))
+- He should be good for about 70 games. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=715))
 
 **Tags**
-- Current: `sites disagree on price` (Yahoo value 19 USD and rank 52; ESPN value 5 USD and rank 75), `new coach` (Sean Sweeney replaces Jamahl Mosley), `winning team` (Projected 47 to 48 wins)
-- Durable: `high TO` (About 3.1 TO per game), `punt TO fit`, `punt FT fit` (About 75% FT on about 8 attempts), `AST from a big` (About 5.3 AST per game as a forward), `points league player` (Highest value in Yahoo points)
+- Current: `sites disagree on price` (Yahoo value 20 USD and rank 51; ESPN value 5 USD and rank 76), `new coach` (Sean Sweeney replaces Jamahl Mosley), `winning team` (Phil predicts 47 or 48 wins and the 6th seed)
+- Durable: `AST from a big` (About 5.3 assists a game as a forward), `high TO` (About 3.1 turnovers a game), `punt TO fit`, `punt FT fit` (About 75% FT on 8 attempts a game), `points league player` (Value is highest in Yahoo points), `undervalued by 9-cat` (125th in nine-cat but 58th in head-to-head last season)
 
-**Note.** His prices point to about 19 to 20 USD: Yahoo value 19, Yahoo average cost 18.8 and a 19 USD sale in a mock. The 26 USD our league paid last season would be an overpay in a category format, where experts rank him in the 40s to mid 50s. He fits punt TO and punt FT builds best because his strong points, rebounds and forward assists remain. Early in the season, check his shot volume and usage under new coach Sweeney, and whether his FT% holds near 75% or better.
+**Note.** Our league paid 26 USD for him last season. The experts put him around picks 45 to 75 in category leagues, and his Yahoo value is 20 USD. So aim for about 13 to 20 USD (Josh paid 19 USD in a mock) and let someone else pay 26 USD. He fits punt TO and punt FT builds best, because those builds give up little on his weak turnovers and free throws and still get his points, rebounds and forward assists. Early in the season, watch whether new coach Sweeney gives him more shots and usage, and whether his FT% holds near 77%.
 
-<sub>17 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>22 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

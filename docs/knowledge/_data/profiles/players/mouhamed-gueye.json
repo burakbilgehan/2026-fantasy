@@ -8,31 +8,30 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "55a81c49f950",
+ "input_sha": "7997b70c29fb",
  "note_count": 4,
- "built_at": "2026-10-05T19:58:31+00:00",
+ "built_at": "2026-10-11T09:21:21+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1298182,
-  "duration_ms": 25877,
+  "cost_usd_list": 0.1340822,
+  "duration_ms": 26025,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He broke his foot and will likely miss the start of the season. Yahoo lists him as questionable (foot).",
+   "text": "Gueye broke his foot.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
    "sources": [
     "4gw4W4RTolY:p23",
-    "4gw4W4RTolY:t5",
-    "stats"
+    "4gw4W4RTolY:t5"
    ]
   },
   {
-   "text": "He would have been in Atlanta's rotation if healthy.",
+   "text": "He will likely miss the start of the season. He would have been in the Atlanta rotation if healthy.",
    "kind": "verdict",
    "date": "2026-09-25",
    "until": "",
@@ -41,26 +40,16 @@
    ]
   },
   {
-   "text": "Lloyd expects a 10-man rotation. The listed bench is Dort, Wiggins, Landale, Flemings and probably Newell, with Kispert and Finney-Smith also in the mix. Gueye is not in it.",
-   "kind": "fact",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
-    "4gw4W4RTolY:t2"
-   ]
-  },
-  {
-   "text": "He has the only non-guaranteed contract on the Hawks. The roster is two players over the limit.",
+   "text": "He has the only non-guaranteed contract on the Atlanta roster.",
    "kind": "fact",
    "date": "2026-08-25",
    "until": "",
    "sources": [
-    "H9q2FT3LhNw:p28",
-    "H9q2FT3LhNw:t4"
+    "H9q2FT3LhNw:p28"
    ]
   },
   {
-   "text": "He could be cut or traded before opening day. He is one of the named candidates, with Carter, Nembhard, Hield and Kispert.",
+   "text": "Atlanta is two players over the roster limit. He is one of the candidates to be cut or traded before opening day.",
    "kind": "verdict",
    "date": "2026-08-25",
    "until": "opening day",
@@ -70,18 +59,28 @@
    ]
   },
   {
-   "text": "If he plays the three next to Caleb Wilson, he will likely contest fewer shots at the rim, which would cut his blocks.",
+   "text": "He is likely to play the three next to Caleb Wilson, so he should contest fewer shots at the rim and block fewer shots.",
    "kind": "verdict",
    "date": "2026-07-17",
    "until": "",
    "sources": [
     "NYTH7uQsPCM:p9"
    ]
+  },
+  {
+   "text": "Atlanta is deep. Lloyd expects a 10-man rotation that does not include Gueye while he is hurt.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t2",
+    "W3THnI7wWdA:t6"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He is a solid defender, a good rebounder and a good steals generator.",
+   "text": "He is a solid defender, a good rebounder and a good steals generator for his minutes.",
    "kind": "verdict",
    "date": "2026-09-25",
    "until": "",
@@ -108,9 +107,9 @@
    ]
   },
   {
-   "text": "Points are his weakest category and a league outlier on the weak side, because he plays a small bench role with low shot volume.",
+   "text": "He scores very little. Points are his weakest category and far below the top 250 pool.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
@@ -121,7 +120,7 @@
   {
    "name": "injured now",
    "channel": "current",
-   "detail": "Broken foot, likely misses the start of the season",
+   "detail": "Broken foot, likely out at the start of the season",
    "until": "",
    "sources": [
     "4gw4W4RTolY:p23",
@@ -142,7 +141,7 @@
   {
    "name": "cut candidate",
    "channel": "current",
-   "detail": "Only non-guaranteed contract on a roster two players over the limit",
+   "detail": "Only non-guaranteed contract on a roster that is two players over the limit",
    "until": "opening day",
    "sources": [
     "H9q2FT3LhNw:p28",
@@ -153,22 +152,11 @@
   {
    "name": "trade risk",
    "channel": "current",
-   "detail": "Named as a possible piece in a small trade to cut the roster",
+   "detail": "Named as a possible trade piece while Atlanta trims its roster",
    "until": "opening day",
    "sources": [
     "H9q2FT3LhNw:p28",
     "H9q2FT3LhNw:t4"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "deep rotation",
-   "channel": "current",
-   "detail": "Atlanta plans a 10-man rotation that does not include him",
-   "until": "",
-   "sources": [
-    "4gw4W4RTolY:t2",
-    "W3THnI7wWdA:t6"
    ],
    "new_meaning": ""
   },
@@ -181,8 +169,19 @@
     "4gw4W4RTolY:p24"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Atlanta expects a 10-man rotation without him",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t2",
+    "W3THnI7wWdA:t6"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "At 0 USD on both Yahoo and ESPN, with ranks of 291 and 267, he is far outside the 144 players drafted in our league and should not be drafted. Even healthy, he projects at about 15 minutes and 4.8 points, so his defense, rebounds and steals do not add up to standard-league value. Check early whether he survives the cuts before opening day and when his foot heals. He only matters on waivers if injuries in Atlanta's thin power forward or center depth open real minutes.",
+ "note": "Gueye is not a draft target. Yahoo ranks him 290, ESPN 267, both sites value him at 0 USD, and he went undrafted in our league last season. Our draft takes only 144 players. He has a broken foot and a non-guaranteed contract, and he played about 15 minutes a game for 4.4 points last season, so there is no reason to roster him now. Check whether Atlanta keeps him past opening day. Then watch his minutes once he is healthy, since the experts rate his defense, rebounding and steals.",
  "rejected": []
 }

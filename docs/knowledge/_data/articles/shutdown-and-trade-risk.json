@@ -18,12 +18,12 @@
  ],
  "proposed": false,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-05T20:15:19+00:00",
+ "built_at": "2026-10-11T09:46:39+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.25807599999999997,
-  "duration_ms": 68506,
+  "cost_usd_list": 0.2517328,
+  "duration_ms": 71453,
   "turns": 2,
   "denied": 0
  },
@@ -31,7 +31,6 @@
   "aaron-gordon",
   "aj-green",
   "al-horford",
-  "anthony-black",
   "anthony-davis",
   "austin-reaves",
   "cameron-johnson",
@@ -39,167 +38,154 @@
   "daniel-gafford",
   "darius-garland",
   "domantas-sabonis",
-  "draymond-green",
   "jaime-jaquez",
   "jalen-smith",
   "jalen-suggs",
   "jamal-murray",
   "jerami-grant",
-  "jrue-holiday",
+  "jimmy-butler",
   "julius-randle",
   "kasparas-jakucionis",
+  "kristaps-porzingis",
+  "kyle-kuzma",
   "kyrie-irving",
   "luguentz-dort",
   "malik-monk",
   "mark-williams",
   "michael-porter",
   "miles-mcbride",
-  "moritz-wagner",
   "mouhamed-gueye",
   "norman-powell",
   "rj-barrett",
   "rudy-gobert",
   "ryan-rollins",
-  "scoot-henderson",
+  "stephen-curry",
   "trey-murphy",
+  "ty-jerome",
   "tyler-herro",
   "zach-lavine"
  ],
- "summary": "Our season ends on 2027-03-28, so March rest hurts us in the weeks that decide the title. Shutdown risk sits mostly with teams that have no reason to win or lose in March, such as Brooklyn, Milwaukee, the Clippers, New Orleans and Dallas, plus teams that may rest veterans. Pay the low end of a player's range when his March minutes are uncertain, sell those players before the 2027-03-04 deadline, and save FAB for young players whose roles grow after veterans are traded.",
+ "summary": "Our season ends 2027-03-28, so late-season rest days and shutdowns hit our playoff weeks 19 to 21 directly. The trade deadline of 2027-03-04 falls before those weeks, so any deal that changes a role is settled before the playoffs. Discount veterans on teams with no reason to win in March, mostly the five teams without their own pick and any team that starts to tank. Plan FAB for the young players who could inherit minutes when a veteran is moved.",
  "sections": [
   {
-   "heading": "Which teams create March risk",
+   "heading": "Why our March 28 end raises the stakes",
    "paragraphs": [
     {
-     "text": "Once a team decides to tank, it may shut down injured players for the rest of the season, even players who could have returned. In our league that loss lands in weeks 19 to 21, when every game counts.",
+     "text": "Our playoffs are weeks 19, 20 and 21, and the season ends on 2027-03-28. Late-season rest and shutdowns happen in March, so they land on the weeks that decide our title. Once a team decides to tank, an injured player can be shut down for the rest of the season even if he could have come back.",
      "sources": [
       "LcZcvk8s1xQ:r3"
      ]
     },
     {
-     "text": "Teams that do not control their own pick are a separate risk. The notes name the Nets, Bucks, Clippers, Pelicans and Mavericks. They have no reason to tank and no reason to push for wins. So they may rest players, be extra careful with injuries, or give young players minutes late in the season. Brooklyn and Milwaukee are the main examples.",
+     "text": "A team with no reason to lose and no reason to win in March can cut veteran minutes to develop young players. For us, this means a veteran's full-season projection overstates what he gives in playoff weeks. Count a March minutes cut as a real cost, not a small detail.",
      "sources": [
-      "uRsfijpBPok:r1",
-      "Rqb5GdrSweY:r2",
-      "xHRF06_E9HE:r2"
+      "3UGI05PDvrE:r1"
      ]
     },
     {
-     "text": "A team with nothing to play for in March can cut its veterans' minutes to develop young players. The same goes for stars on bad teams. Value them on a range that includes rest and fewer minutes, not just on per-game value. In practice, bid near the bottom of their fair price range, not the top.",
+     "text": "Trades work the other way. The deadline is 2027-03-04, more than a week before week 19 starts. Any deal that changes a player's role is done before our playoffs, so a trade is a role risk for the veteran and a chance for the player behind him.",
      "sources": [
-      "3UGI05PDvrE:r1",
-      "MUbNYdjpUDM:r1"
+      "OBwWCxG9SqM:r7"
      ]
     }
    ]
   },
   {
-   "heading": "Shutdown risk in weeks 19 to 21",
+   "heading": "Which teams to watch",
    "paragraphs": [
     {
-     "text": "Julius Randle matters most here. Brooklyn may rest him in March so young players get time, and that cuts straight into our playoff weeks. Draft him only inside his fair range, and plan to trade him before the 2027-03-04 deadline. After that date you cannot move him in our league.",
+     "text": "Teams that do not control their own pick have no reason to tank and no downside from losing. The notes name the Nets, Bucks, Clippers, Pelicans and Mavericks. Brooklyn and Milwaukee are called the main examples. These teams may rest players, be extra careful with injuries, or give young players developmental minutes late in the season.",
      "sources": [
-      "player:julius-randle",
-      "3UGI05PDvrE:r1",
+      "uRsfijpBPok:r1",
       "Rqb5GdrSweY:r2"
      ]
     },
     {
-     "text": "Michael Porter Jr. and Moritz Wagner are also on Brooklyn, and their March minutes are uncertain. Porter is still worth drafting, but keep your bid in the lower part of his range. Wagner is a waiver name only.",
+     "text": "Even without a pick to protect, these teams may still lean on young players and protect injured ones late in the season. So a veteran on one of these five teams carries March risk even if the team is not tanking.",
      "sources": [
-      "player:michael-porter",
-      "player:moritz-wagner",
-      "uRsfijpBPok:r1"
+      "xHRF06_E9HE:r2"
      ]
     },
     {
-     "text": "Darius Garland carries only a small risk of late-season rest on the Clippers. That small risk does not change his fair price, but check his minutes in February before you decide whether to hold him for the playoffs. Golden State may rest Draymond Green and Al Horford for lottery odds. Both are fringe players, so the risk only matters if you pick them up. Sacramento could pull Zach LaVine's minutes or bench him as it builds for the future.",
+     "text": "The second group is any team that starts to tank. Here the risk is an injury that turns into a season-ending shutdown. Check the standings in February. A bad team with an injured veteran is the clearest shutdown warning.",
      "sources": [
-      "player:darius-garland",
-      "player:draymond-green",
-      "player:al-horford",
-      "player:zach-lavine"
+      "LcZcvk8s1xQ:r3"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "How to price risk at the auction",
+   "paragraphs": [
+    {
+     "text": "For stars on bad teams, a price range should include the risk, not just the per-game value. Bad teams may rest stars and cut their minutes. At our auction on 2026-10-18, bid below a player's per-game value when he plays for a weak team or a team without its own pick. Do not pay full price for March games that may never happen.",
+     "sources": [
+      "MUbNYdjpUDM:r1",
+      "3UGI05PDvrE:r1"
      ]
     },
     {
-     "text": "Dallas is a no-pick team with a playoff schedule of 4, 4 and 4 games. Kyrie Irving could get only 10 of those games if he keeps resting on back-to-backs. Milwaukee is a no-pick team too, so watch the minutes of Ryan Rollins and Tyler Herro in February.",
+     "text": "Projections assume that trade candidates stay all season. So for a veteran with a trade tag, ask two questions before you bid. Would a trade to a contender make him a lesser option? Would a trade free up minutes for a young teammate you can buy for 1 USD or pick up on waivers?",
      "sources": [
-      "player:kyrie-irving",
+      "OBwWCxG9SqM:r7"
+     ]
+    },
+    {
+     "text": "Fill your 10 starter spots with players whose value does not depend on March. Use the 2 bench spots and late dollars for risky veterans at a discount, or for young players who could gain minutes after the deadline.",
+     "sources": [
+      "MUbNYdjpUDM:r1",
+      "OBwWCxG9SqM:r7"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Young players who gain from a trade",
+   "paragraphs": [
+    {
+     "text": "Because projections keep trade candidates on their teams all season, they can understate the rookies and young players behind them. This is where cheap value hides. Before the 2027-03-04 deadline, list the young players who sit behind each veteran trade candidate you face or own.",
+     "sources": [
+      "OBwWCxG9SqM:r7"
+     ]
+    },
+    {
+     "text": "When a trade happens, act fast. Waivers process daily and you get at most 6 acquisitions per week, so keep FAB budget and a free move for deadline week. Teams without their own pick may also give young players developmental minutes in March, which makes their young players worth a look even without a trade.",
+     "sources": [
+      "OBwWCxG9SqM:r7",
       "uRsfijpBPok:r1",
-      "player:ryan-rollins",
-      "player:tyler-herro"
+      "xHRF06_E9HE:r2"
      ]
     }
    ]
   },
   {
-   "heading": "Trade risk: when a move cuts value",
+   "heading": "In-season plan before the deadline",
    "paragraphs": [
     {
-     "text": "Projections assume trade candidates stay all season, so they do not price in a role change. For some players a trade is the main downside. A trade to a good team could cut Domantas Sabonis's role. A deal could lower Porter's usage further and shrink Cameron Johnson's role. A move into a third-option role would sink Norman Powell's value. Do not pay extra for these players because of trade hopes.",
+     "text": "From January, check each veteran on your roster against three things: does his team control its pick, is the team losing, and is he carrying an injury. If two of the three are true, try to trade him before 2027-03-04 for a player on a team that is still pushing for wins. Trades are frequent in our league, so the deal is often there.",
      "sources": [
-      "OBwWCxG9SqM:r7",
-      "player:domantas-sabonis",
-      "player:michael-porter",
-      "player:cameron-johnson",
-      "player:norman-powell"
+      "LcZcvk8s1xQ:r3",
+      "Rqb5GdrSweY:r2",
+      "MUbNYdjpUDM:r1"
      ]
     },
     {
-     "text": "Several early-round guards also carry trade tags: Jamal Murray (salary), Austin Reaves (if the Lakers struggle) and Trey Murphy III (high asking price). The notes do not say a trade would hurt their stats. So pay their normal prices, and check trade news each week from January until 2027-03-04.",
+     "text": "Use the IL slots for injured players on teams that are still competing. An injured veteran on a tanking team may never return before March 28, so he should not hold an IL spot into the playoffs.",
      "sources": [
-      "player:jamal-murray",
-      "player:austin-reaves",
-      "player:trey-murphy"
-     ]
-    },
-    {
-     "text": "Rudy Gobert could be traded if Minnesota's season goes badly. Minnesota also plays only two games in our week 20, so a punt FT team should plan a streaming spot for that week. Mark Williams is expected back only in mid to late March and may be traded at the deadline. At best he is a short playoff pickup.",
-     "sources": [
-      "player:rudy-gobert",
-      "player:mark-williams"
+      "LcZcvk8s1xQ:r3"
      ]
     }
    ]
   },
   {
-   "heading": "Where the experts disagree",
+   "heading": "Where the notes differ",
    "paragraphs": [
     {
-     "text": "The experts split on two veterans. On Kyrie Irving, several experts say a trade is possible, but one heard no trade talk. On Jrue Holiday, one expert said in June that he will likely be moved, but a later team preview doubts a consolidation trade. Anthony Davis is expected to stay in Washington, but the Golden State rumors leave a deadline move possible. For all three, draft on current role and price, and do not pay for a trade that may not come.",
+     "text": "The notes agree on the direction but differ on what drives it. One view is that teams without their own pick have no reason to tank, so the risk is mainly rest and extra caution with injuries. The other view puts more weight on development: these teams may cut veteran minutes to lean on young players in March. In practice, both views lower a veteran's playoff value. The development view also raises the value of the young players on the same team. The player lines below also show expert splits on whether some trades will happen at all.",
      "sources": [
-      "player:kyrie-irving",
-      "player:jrue-holiday",
-      "player:anthony-davis"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Young players who could gain",
-   "paragraphs": [
-    {
-     "text": "Because projections assume veterans stay, they can understate the young players behind them. The clearest case is Orlando. It is near the second apron and likely has to choose between Jalen Suggs and Anthony Black. A Suggs trade or injury is what would make Black startable.",
-     "sources": [
-      "OBwWCxG9SqM:r7",
-      "player:anthony-black",
-      "player:jalen-suggs"
-     ]
-    },
-    {
-     "text": "Other waiver names to track: Scoot Henderson is named as a likely outgoing piece in a rumored Jaylen Brown trade. Malik Monk could be traded into a bigger role. Burries is Milwaukee's long-term shooting guard behind Herro. Kasparas Jakučionis needs real minutes in that crowded backcourt or a trade. In Chicago, Jalen Smith's role is tied to Leonard Miller. Add Smith at once if he starts.",
-     "sources": [
-      "player:scoot-henderson",
-      "player:malik-monk",
-      "player:tyler-herro",
-      "player:kasparas-jakucionis",
-      "player:jalen-smith"
-     ]
-    },
-    {
-     "text": "Plan for it. Keep part of your FAB for the days around 2027-03-04, and keep one roster spot open for a moved or promoted player. We get only 6 acquisitions per week. In weeks 19 to 21, spend them on players who are sure to play.",
-     "sources": [
-      "OBwWCxG9SqM:r7",
+      "uRsfijpBPok:r1",
+      "Rqb5GdrSweY:r2",
+      "xHRF06_E9HE:r2",
       "3UGI05PDvrE:r1"
      ]
     }
@@ -208,184 +194,184 @@
  ],
  "players": [
   {
+   "slug": "stephen-curry",
+   "tier": "Discount for playoff risk",
+   "line": "His per-game line is elite, but a gap-year Warriors team may rest veterans for lottery odds in March, so bid only in the mid to high 20s and accept the missed games."
+  },
+  {
    "slug": "anthony-davis",
-   "tier": "Core targets",
-   "line": "Davis is elite per game, and his risk is games played plus Golden State rumors; the experts expect him to stay."
-  },
-  {
-   "slug": "jamal-murray",
-   "tier": "Core targets",
-   "line": "Murray could be traded to shed salary, but no note says a move would cut his all-category line."
-  },
-  {
-   "slug": "austin-reaves",
-   "tier": "Core targets",
-   "line": "Reaves could be moved only if the Lakers struggle, so check the standings and news before the deadline."
-  },
-  {
-   "slug": "trey-murphy",
-   "tier": "Core targets",
-   "line": "Murphy plays for a no-pick New Orleans team and has a high trade price, so watch both his March minutes and trade news."
-  },
-  {
-   "slug": "domantas-sabonis",
-   "tier": "Value at price",
-   "line": "A trade to a good team could cut Sabonis's role, so do not pay extra on trade hopes."
+   "tier": "Discount for playoff risk",
+   "line": "Experts expect Washington to keep him, but the team could reconsider near the deadline and games played are already the main doubt, so buy only at a discount."
   },
   {
    "slug": "kyrie-irving",
-   "tier": "Value at price",
-   "line": "Kyrie is on a no-pick Dallas team and rests on back-to-backs, which could leave him only 10 playoff games, and experts split on a trade."
-  },
-  {
-   "slug": "darius-garland",
-   "tier": "Value at price",
-   "line": "Garland carries a small late-rest risk on a Clippers team with no strong reason to win or lose."
-  },
-  {
-   "slug": "michael-porter",
-   "tier": "Value at price",
-   "line": "Porter has uncertain March minutes in Brooklyn, and a trade could cut his usage, so keep bids in the lower half of his range."
+   "tier": "Discount for playoff risk",
+   "line": "Dallas has no own pick and a league-high 16 back-to-backs, so if he keeps resting, the 4-4-4 playoff schedule could give him only 10 games, and several experts also see a trade as possible."
   },
   {
    "slug": "julius-randle",
-   "tier": "Sell before deadline",
-   "line": "Brooklyn may rest Randle in March for young players, so plan to trade him before 2027-03-04."
+   "tier": "Discount for playoff risk",
+   "line": "Brooklyn has no own pick and may sit him in March so young players get time, so plan for missed games and a thin 10-game playoff schedule."
+  },
+  {
+   "slug": "darius-garland",
+   "tier": "Discount for playoff risk",
+   "line": "The Clippers have no own pick and might rest him late, but experts call the risk small, so a fair bid still makes sense."
+  },
+  {
+   "slug": "jamal-murray",
+   "tier": "Trade risk, still a target",
+   "line": "He fits every build, and the only flag is a possible salary-shedding trade by the deadline, which you should track through February."
+  },
+  {
+   "slug": "trey-murphy",
+   "tier": "Trade risk, still a target",
+   "line": "His trade value is at its peak and New Orleans has no own pick, but his line helps every category and his role should hold until a deal actually happens."
+  },
+  {
+   "slug": "austin-reaves",
+   "tier": "Trade risk, still a target",
+   "line": "He is a trade risk only if the Lakers are not working, so check the team's record before the deadline."
+  },
+  {
+   "slug": "domantas-sabonis",
+   "tier": "Trade risk, still a target",
+   "line": "Most experts call a trade the main risk, while Lloyd thinks his contract makes it unlikely, so watch trade news but do not discount him heavily."
+  },
+  {
+   "slug": "michael-porter",
+   "tier": "Trade risk, still a target",
+   "line": "He has no extension and Brooklyn has no own pick, so expect trade talk within about six months and possible late rest."
   },
   {
    "slug": "ryan-rollins",
-   "tier": "Value at price",
-   "line": "Rollins is on a no-pick Milwaukee team and is cheap enough that Milwaukee could trade him for picks."
+   "tier": "Trade risk, still a target",
+   "line": "He is one of the best values in the pool, but Milwaukee has no own pick and may cash in his cheap contract, so watch trade news before March 4."
   },
   {
    "slug": "tyler-herro",
-   "tier": "Value at price",
-   "line": "Herro is on an expiring deal with Burries as the long-term shooting guard, so a deadline move is possible."
+   "tier": "Trade risk, still a target",
+   "line": "He could be moved at the deadline because Burries is the long-term shooting guard, and a move would also open guard minutes in Milwaukee."
   },
   {
    "slug": "rudy-gobert",
-   "tier": "Value at price",
-   "line": "Gobert could be traded if Minnesota struggles, and his two-game week 20 needs a streaming plan."
+   "tier": "Trade risk, still a target",
+   "line": "He could be traded only if Minnesota's season goes badly, so his cheap FG%, rebounds and blocks carry little extra risk."
+  },
+  {
+   "slug": "ty-jerome",
+   "tier": "Trade risk, still a target",
+   "line": "At 29 he does not fit Memphis's young core, so a trade is possible, but his 4-4-4 playoff schedule is a plus while he stays."
   },
   {
    "slug": "norman-powell",
+   "tier": "Trade could hurt his role",
+   "line": "His contract is built for a trade, and a move to a contender as a third option would gut his value before our playoffs."
+  },
+  {
+   "slug": "zach-lavine",
+   "tier": "Trade could hurt his role",
+   "line": "Lloyd expects rebuilding Sacramento to trade or sit veterans, and a buyout or benching is also possible, so keep him to a late-dollar price."
+  },
+  {
+   "slug": "cameron-johnson",
+   "tier": "Trade could hurt his role",
+   "line": "Moore expects Denver to trade him to get under the second apron, and a deal could shrink the larger starter role that drives his upside."
+  },
+  {
+   "slug": "kristaps-porzingis",
    "tier": "Late flyers",
-   "line": "Chicago signs veterans to flip them, and a move into a third-option role would sink Powell's value."
+   "line": "Golden State may rest veterans for lottery odds, so keep him to a cheap flyer and drop him if the absences pile up."
   },
   {
    "slug": "jalen-suggs",
    "tier": "Late flyers",
-   "line": "Orlando may trade Suggs to keep Black under the second apron, which adds to his games-played risk."
-  },
-  {
-   "slug": "zach-lavine",
-   "tier": "Late flyers",
-   "line": "LaVine faces both trade and shutdown risk on a rebuilding Sacramento team that could bench him or buy him out."
+   "line": "Orlando is near the second apron and may move him to keep Black, so watch his role and trade talk."
   },
   {
    "slug": "daniel-gafford",
    "tier": "Late flyers",
-   "line": "Dallas has shopped Gafford, so his early starting role may not last."
+   "line": "Dallas has shopped him, so his early starts while others are hurt make him a 1 USD pick, not a playoff piece."
   },
   {
    "slug": "rj-barrett",
    "tier": "Late flyers",
-   "line": "Barrett becomes a deadline trade candidate if Toronto starts badly."
-  },
-  {
-   "slug": "aaron-gordon",
-   "tier": "Late flyers",
-   "line": "Gordon is a possible Denver trade piece with limited availability, so he is only a bench bid or a streamer."
-  },
-  {
-   "slug": "jrue-holiday",
-   "tier": "Late flyers",
-   "line": "Experts disagree on whether Holiday is moved, and his value only rises when Portland's guards miss games."
-  },
-  {
-   "slug": "cameron-johnson",
-   "tier": "Late flyers",
-   "line": "Johnson is expected to be traded so Denver can get under the second apron, and a deal could shrink his role."
-  },
-  {
-   "slug": "draymond-green",
-   "tier": "Late flyers",
-   "line": "Golden State may rest veterans for lottery odds, which threatens Green's March games."
+   "line": "A slow Toronto start could lead to a trade tied to his contract, which keeps him a last-dollar scorer only."
   },
   {
    "slug": "jaime-jaquez",
    "tier": "Late flyers",
-   "line": "Jaquez is seen as a likely trade piece, possibly to Denver, so his role depends on where he lands."
+   "line": "He is seen as a poor fit in Milwaukee with Denver named as a destination, so check whether a trade happens and what role follows."
+  },
+  {
+   "slug": "jimmy-butler",
+   "tier": "Late flyers",
+   "line": "He returns around Christmas or January to a Warriors team in a gap year that may rest veterans before March 28, so take him only with a free IL slot."
   },
   {
    "slug": "jerami-grant",
    "tier": "Late flyers",
-   "line": "Grant is a possible Memphis deadline chip, so check his minutes and trade news."
+   "line": "Memphis holds three 2027 firsts and may use him as a trade chip, and the newest expert call is to skip him in 12-team leagues."
+  },
+  {
+   "slug": "aaron-gordon",
+   "tier": "Avoid at price",
+   "line": "Denver may move starters by the deadline, and his health record already argues for letting others take him."
   },
   {
    "slug": "christian-braun",
-   "tier": "Late flyers",
-   "line": "Braun is named with Cam Johnson as a possible Denver trade piece, and the experts call him overvalued."
-  },
-  {
-   "slug": "anthony-black",
-   "tier": "Waiver watch: could gain",
-   "line": "A Suggs trade or injury is what would make Black startable."
-  },
-  {
-   "slug": "scoot-henderson",
-   "tier": "Waiver watch: could gain",
-   "line": "A rumored Jaylen Brown trade could send Henderson to a new team with more minutes."
-  },
-  {
-   "slug": "malik-monk",
-   "tier": "Waiver watch: could gain",
-   "line": "Monk has continuing trade rumors and could be moved into a bigger role."
-  },
-  {
-   "slug": "jalen-smith",
-   "tier": "Waiver watch: could gain",
-   "line": "Smith's role is tied to Leonard Miller and Claxton, so add him at once if he starts."
-  },
-  {
-   "slug": "mark-williams",
-   "tier": "Waiver watch: could gain",
-   "line": "Williams returns only around mid to late March and may be traded at the deadline, so he is a short playoff pickup at best."
+   "tier": "Avoid at price",
+   "line": "He is named with Cam Johnson as a possible Denver trade piece, and the experts still call him overvalued."
   },
   {
    "slug": "kasparas-jakucionis",
-   "tier": "Waiver watch: could gain",
-   "line": "Jakučionis is valued as a trade chip and needs a trade or real minutes in Milwaukee's crowded backcourt."
+   "tier": "Waiver watch: could gain from a trade",
+   "line": "He could be a trade chip himself, but if Milwaukee moves guards his minutes could grow and make him a waiver add for assists, FT% and low turnovers."
   },
   {
-   "slug": "miles-mcbride",
-   "tier": "Waiver watch: could gain",
-   "line": "McBride has no extension and is a trade candidate, so a move could change his bench role."
+   "slug": "jalen-smith",
+   "tier": "Waiver watch: could gain from a trade",
+   "line": "He could be moved if Leonard Miller works out, and if a change makes him a starter, add him at once."
   },
   {
-   "slug": "aj-green",
-   "tier": "Waiver watch: could gain",
-   "line": "Green does not fit Milwaukee's new direction, and a trade could open threes-only streaming value."
-  },
-  {
-   "slug": "luguentz-dort",
-   "tier": "Waiver watch: could gain",
-   "line": "Dort could be traded again if Daniels makes him expendable, and he is a deep-league option only."
+   "slug": "mark-williams",
+   "tier": "Waiver watch: could gain from a trade",
+   "line": "He is out until about mid to late March and is seen as a trade candidate, so at best he helps in week 21 and is not worth an IL slot."
   },
   {
    "slug": "al-horford",
-   "tier": "Waiver watch: could gain",
-   "line": "Golden State may rest Horford, and he already skips back-to-backs, so he is a short-term waiver option at most."
+   "tier": "Waiver watch: could gain from a trade",
+   "line": "As a veteran on a Warriors team that may rest veterans for lottery odds, he is a streamer only on non-back-to-back days."
+  },
+  {
+   "slug": "malik-monk",
+   "tier": "Waiver watch: could gain from a trade",
+   "line": "Trade rumors continue, and only a trade or coaching change that gives him real minutes would make him worth adding."
+  },
+  {
+   "slug": "luguentz-dort",
+   "tier": "Waiver watch: could gain from a trade",
+   "line": "He could be traded again if Daniels makes him expendable, but he is a deep-league option unless his role grows."
+  },
+  {
+   "slug": "miles-mcbride",
+   "tier": "Waiver watch: could gain from a trade",
+   "line": "He has no extension and is a named trade candidate, so a deal that brings more minutes is his only path to value beyond short-term threes."
+  },
+  {
+   "slug": "kyle-kuzma",
+   "tier": "Waiver watch: could gain from a trade",
+   "line": "He is a poor fit on a Milwaukee team that needs consolidation trades, so leave him on waivers unless a move brings clearly more minutes."
+  },
+  {
+   "slug": "aj-green",
+   "tier": "Waiver watch: could gain from a trade",
+   "line": "He does not fit Milwaukee's new direction, and only a trade into a bigger role would lift him above a short-term threes streamer."
   },
   {
    "slug": "mouhamed-gueye",
-   "tier": "Waiver watch: could gain",
-   "line": "Gueye is a possible piece in a small roster-cutting trade and matters only if injuries open minutes."
-  },
-  {
-   "slug": "moritz-wagner",
-   "tier": "Waiver watch: could gain",
-   "line": "Brooklyn may move March minutes to young players, which works against Wagner in our playoffs."
+   "tier": "Waiver watch: could gain from a trade",
+   "line": "He is a possible trade piece while Atlanta trims its roster, but with a broken foot and a non-guaranteed deal there is no reason to roster him now."
   }
  ],
  "excluded": [],

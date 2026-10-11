@@ -5,7 +5,7 @@ No NBA stats and no projections in our data.
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 659 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 674 | - | - | - | not drafted |
 
 **Current**
 - He has a torn ACL and is out now. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=209), [06-26](https://youtu.be/CLsUc0Sevos?t=1134), [06-22](https://youtu.be/HxQjagSTTAM?t=1087))

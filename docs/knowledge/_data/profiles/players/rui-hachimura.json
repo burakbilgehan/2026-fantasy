@@ -8,47 +8,43 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "d09def7cbf5e",
+ "input_sha": "43732990b125",
  "note_count": 13,
- "built_at": "2026-10-05T20:02:07+00:00",
+ "built_at": "2026-10-11T09:23:19+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1862422,
-  "duration_ms": 49678,
-  "turns": 2,
+  "cost_usd_list": 0.277169,
+  "duration_ms": 60569,
+  "turns": 3,
   "denied": 0
  },
  "current": [
   {
-   "text": "Hachimura joined the Clippers and is projected to start at power forward, in the spot John Collins held.",
+   "text": "Hachimura joined the Clippers this offseason and replaces John Collins as the starting power forward.",
+   "kind": "fact",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "KLogvUwv_d8:p0"
+   ]
+  },
+  {
+   "text": "The latest projected Clippers starting five includes Hachimura with Darius Garland, Max Strus, Derrick Jones Jr. and Isaiah Jackson. The speaker is not confident about this lineup.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
    "sources": [
-    "KLogvUwv_d8:p0",
-    "tnzmsYUA4yQ:t3",
-    "dlo7L8Ru91A:p47"
+    "tnzmsYUA4yQ:t3"
    ]
   },
   {
-   "text": "Experts expect the biggest role of his career, with a usage bump as a starter. One projection has him over 30 minutes and over 18% usage, with 2 or more threes, about 16 points and 7 rebounds a game.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "tnzmsYUA4yQ:p17",
-    "dlo7L8Ru91A:p47",
-    "ZYllcj4o6_A:p27",
-    "E-KmhvyZ2CU:p32"
-   ]
-  },
-  {
-   "text": "Brandon Ingram is injured. Bradley Beal, Jordan Miller and Konan Niederhauser are also out.",
+   "text": "Brandon Ingram is injured, and the Clippers are one of the most injury-hit teams, with Bradley Beal, Jordan Miller and Konan Niederhauser also out.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
    "sources": [
+    "tnzmsYUA4yQ:p18",
     "tnzmsYUA4yQ:t5"
    ]
   },
@@ -62,71 +58,95 @@
    ]
   },
   {
-   "text": "Experts call him draftable as a late upside pick for points and threes, even though they do not like him as a player.",
+   "text": "Experts expect a usage bump and the biggest role of his career. One projects over 30 minutes, over 18% usage, 2 or more threes, about 16 points and 7 rebounds a game.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:p17",
+    "ZYllcj4o6_A:p27",
+    "dlo7L8Ru91A:p47",
     "E-KmhvyZ2CU:p32"
    ]
   },
   {
-   "text": "The Clippers' rotation is not settled. The projected starting five is not certain, Ty Lue often changes rotations, and this may be a trial season with long rotations.",
+   "text": "Experts call him draftable despite disliking him: a Tier 8 small forward and an upside pick around 164 for points and threes.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
    "sources": [
-    "tnzmsYUA4yQ:t1",
-    "tnzmsYUA4yQ:t2",
-    "tnzmsYUA4yQ:t3"
+    "tnzmsYUA4yQ:p17",
+    "dlo7L8Ru91A:p47",
+    "E-KmhvyZ2CU:p32"
    ]
   },
   {
-   "text": "The Clippers play 4, 3 and 4 games in our playoff weeks 19 to 21. With 13 back-to-backs, they have one of the lowest totals in the league.",
+   "text": "Experts disagree on whether he is an offensive upgrade over John Collins: one says he could score a bit more, another calls the swap an offensive downgrade.",
+   "kind": "verdict",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "KLogvUwv_d8:p2",
+    "xHRF06_E9HE:t3"
+   ]
+  },
+  {
+   "text": "The Clippers have a good schedule for our fantasy playoffs (4-3-4 games in weeks 19 to 21) and one of the lowest back-to-back totals in the league with 13.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:t6"
    ]
+  },
+  {
+   "text": "The Clippers are expected to be one of the worst teams. They do not control their own draft pick, so tanking does not help them.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t9",
+    "tnzmsYUA4yQ:t0",
+    "tnzmsYUA4yQ:t5"
+   ]
+  },
+  {
+   "text": "Coach Ty Lue makes odd rotation choices and changes them. This may be a trial season with long rotations and many players tested.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t1",
+    "tnzmsYUA4yQ:t2"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He has shot over 40% from three for three straight years, but his three-point volume and usage have always been low.",
+   "text": "He is a very good three-point shooter, over 40% for three straight seasons, but his three-point volume and usage have always been low.",
    "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "tnzmsYUA4yQ:p14",
-    "KLogvUwv_d8:p1",
-    "4kKINkZhWls:p1"
-   ]
-  },
-  {
-   "text": "Experts rate him a very good to elite three-point shooter who should take more threes.",
-   "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:p14",
     "ZYllcj4o6_A:p27",
-    "dlo7L8Ru91A:p48"
+    "dlo7L8Ru91A:p48",
+    "KLogvUwv_d8:p1",
+    "4kKINkZhWls:p1"
    ]
   },
   {
-   "text": "He shoots a good field goal percentage, around 51% to 54% in recent seasons.",
+   "text": "He shoots a good field goal percentage, around 51% to 54% in recent seasons. He is a consistent shooter with a pull-up midrange game.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:p16",
-    "stats"
+    "KLogvUwv_d8:p2"
    ]
   },
   {
-   "text": "He gives almost nothing in assists, steals and blocks.",
+   "text": "He gives very little in assists, steals and blocks.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
@@ -148,7 +168,7 @@
    ]
   },
   {
-   "text": "He is a consistent shooter with a pull-up midrange game. He is not much of a creator and not a good defender.",
+   "text": "He is not a good defender and not much of a creator.",
    "kind": "verdict",
    "date": "2026-08-22",
    "until": "",
@@ -157,15 +177,14 @@
    ]
   },
   {
-   "text": "Experts do not see him as a good fantasy player. He is compared to Harrison Barnes: threes on low usage and little else.",
+   "text": "Experts see him as a limited fantasy player who shoots threes on low usage and does little else, similar to Harrison Barnes.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-10-02",
    "until": "",
    "sources": [
-    "tnzmsYUA4yQ:p17",
     "ZYllcj4o6_A:p27",
-    "E-KmhvyZ2CU:p32",
-    "4kKINkZhWls:p1"
+    "4kKINkZhWls:p1",
+    "KLogvUwv_d8:p1"
    ]
   }
  ],
@@ -173,7 +192,7 @@
   {
    "name": "new team",
    "channel": "current",
-   "detail": "Joined the Clippers as the starting power forward",
+   "detail": "Joined the Clippers as the starting power forward in place of John Collins.",
    "until": "",
    "sources": [
     "KLogvUwv_d8:p0"
@@ -183,55 +202,32 @@
   {
    "name": "role up",
    "channel": "current",
-   "detail": "Expected to get the biggest role of his career, with more usage as a starter",
+   "detail": "Expected usage bump and the biggest role of his career, with more shots while Ingram is out.",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:p17",
-    "dlo7L8Ru91A:p47",
-    "ZYllcj4o6_A:p27",
-    "E-KmhvyZ2CU:p32"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "usage freed",
-   "channel": "current",
-   "detail": "Ingram is injured and Harden, Kawhi Leonard and Collins are gone, so Hachimura has to take more shots",
-   "until": "Brandon Ingram returns",
-   "sources": [
     "tnzmsYUA4yQ:p18",
-    "KLogvUwv_d8:t0",
-    "tnzmsYUA4yQ:t5"
+    "dlo7L8Ru91A:p47",
+    "E-KmhvyZ2CU:p32",
+    "ZYllcj4o6_A:p27"
    ],
    "new_meaning": ""
   },
   {
    "name": "flyer",
    "channel": "current",
-   "detail": "Late upside pick for points and threes",
+   "detail": "Upside pick around 164 for points and threes.",
    "until": "",
    "sources": [
     "E-KmhvyZ2CU:p32",
-    "tnzmsYUA4yQ:p17"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "unsettled rotation",
-   "channel": "current",
-   "detail": "Ty Lue changes rotations, and the projected starters are not certain",
-   "until": "",
-   "sources": [
-    "tnzmsYUA4yQ:t1",
-    "tnzmsYUA4yQ:t2",
-    "tnzmsYUA4yQ:t3"
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "4-3-4 games in weeks 19 to 21 with a March 28 end",
+   "detail": "4-3-4 games in weeks 19 to 21 with a March 28 end.",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:t6"
@@ -241,7 +237,7 @@
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "13 back-to-backs, one of the lowest totals in the league",
+   "detail": "Clippers have 13 back-to-backs, one of the lowest totals.",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:t6"
@@ -249,16 +245,29 @@
    "new_meaning": ""
   },
   {
-   "name": "sites disagree on price",
+   "name": "bottom team",
    "channel": "current",
-   "detail": "Yahoo rank 121, ESPN rank 197",
+   "detail": "Clippers projected as one of the worst teams.",
    "until": "",
    "sources": [
-    "stats"
+    "sDzeYdUhJDI:t9",
+    "tnzmsYUA4yQ:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Ty Lue changes rotations; projected starters uncertain; possible trial season with long rotations.",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t1",
+    "tnzmsYUA4yQ:t2",
+    "tnzmsYUA4yQ:t3"
    ],
    "new_meaning": ""
   }
  ],
- "note": "He is a 1 USD or end-of-draft pick. Yahoo ranks him 121 and ESPN ranks him 197, which puts him near the edge of our 144-player pool. His projected line (51.7% FG on 8.8 attempts, 1.6 threes, 0.6 turnovers) gives a small lift in FG% and TO. He gives little in AST, STL and BLK, so he suits teams that already get those categories elsewhere. Check his early minutes and three-point attempts while Ingram is out: over 30 minutes and about 2 threes a game would make him a solid starter, and anything less makes him a waiver-level player.",
+ "note": "He is a bubble player for our 144-player draft: Yahoo ranks him 119 at 1 USD, ESPN 154 at 0 USD, and nobody drafted him in our league last season. Take him only as a 1 USD bench flyer. He fits builds that want FG% and threes and has few turnovers (0.7 projected), but he costs you in assists, steals and free throws. Early in the season, check whether he plays over 30 minutes and shoots more while Ingram is out. If he does not, he can go back to waivers.",
  "rejected": []
 }

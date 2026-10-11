@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 298 | 0 | 0.0 | 207 | not drafted |
+| 2026-27 | 0 | - | 298 | 0 | 0.0 | 209 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,7 +19,7 @@
 |---|---|---|---|---|
 | FG% | 49.3% | +0.1 | +0.2 | - |
 | FT% | 74.5% | -0.1 | -0.1 | - |
-| 3PM | 0.7 | -0.8 | -1.1 | - |
+| 3PM | 0.7 | -0.9 | -1.1 | - |
 | PTS | 5.2 | -1.5 | -1.6 | league outlier, weak |
 | REB | 3.9 | -0.5 | -0.6 | - |
 | AST | 0.9 | -1.2 | -1.3 | - |
@@ -30,19 +30,19 @@
 </details>
 
 **Current**
-- A newer team preview projects Walsh as a bench player behind starters White, Scheierman, Tatum, George and Queta, with Pritchard, Hauser, Robinson and Conley also in the bench rotation. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=848))
-- Boston has at least 12 rotation-level players. In a 10-man rotation, Walsh or another player is expected to miss out most nights. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133))
-- Boston plays 4, 3 and 4 games in our fantasy playoff weeks, one game short of the maximum. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1816))
-- One expert says Walsh comes into this season with a more defined role. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=361))
+- Both sites price him at 0 USD and rank him well outside the 144 players drafted in our league. He is not a draft target for us. (verdict, 2026-10-11; stats)
+- One expert projects him as a bench player. In this projection the starters are Derrick White, Baylor Scheierman, Jayson Tatum, Paul George and Neemias Queta, and the bench rotation is Pritchard, Hauser, Robinson, Walsh and Conley. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=848))
+- Boston is very deep, with at least 12 rotation-level players. In a 10-man rotation, Walsh or another player will miss out most nights. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133))
+- He comes into this season with a more defined role in Boston. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=361))
 
 **Durable**
-- His scoring is very low, a clear weakness against the top 250 pool. (fact, 2026-10-04; stats)
-- Walsh has limited offense. Boston gets value from him in other ways. (verdict, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=875))
+- Points are his weakest category and fall far below the top 250 pool. (fact, 2026-10-11; stats)
+- He is a player with limited offense. Boston gets a lot out of players like him. (verdict, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=875))
 
 **Tags**
-- Current: `minutes competition` (Deep Boston bench; may fall out of a 10-man rotation most nights)
+- Current: `minutes competition` (In a 10-man rotation on a deep Boston bench, he or another player will sit most nights), `deep rotation` (Boston has at least 12 rotation-level players), `waiver watch` (Undrafted at 0 USD on both sites. Watch his minutes if Boston's forwards miss games)
 - Durable: none
 
-**Note.** Walsh is worth 0 USD on both Yahoo and ESPN and ranks 298 and 207. That puts him well outside the 144 players we draft, so do not draft him. His projected line (5.2 points, 0.7 turnovers, 0.6 blocks) only helps in turnovers and does not hurt the shooting categories. Early in the season, check whether he holds a spot in Boston's crowded rotation and gets more than his 17.9 minutes from last season before you look at him on waivers.
+**Note.** Jordan Walsh is not a draft pick in our 12-team auction. Yahoo and ESPN both value him at 0 USD, he ranks 298 on Yahoo and 209 on ESPN, and very low scoring (about 5 points per game projected) caps his value. His only small strengths are few turnovers and average FG% and blocks for a forward. Early in the season, check whether he stays in Boston's crowded 10-man rotation and gets close to ESPN's projected 21.5 minutes. Only an injury to Tatum or George would make him worth a waiver claim.
 
-<sub>1 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>1 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

@@ -8,61 +8,50 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "471364b6c301",
- "note_count": 23,
- "built_at": "2026-10-05T20:04:29+00:00",
+ "input_sha": "c96acb7cfe40",
+ "note_count": 30,
+ "built_at": "2026-10-11T09:24:33+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.3244094,
-  "duration_ms": 86283,
-  "turns": 3,
+  "cost_usd_list": 0.22771420000000003,
+  "duration_ms": 65253,
+  "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Philadelphia added Jaylen Brown and LeBron James, and Joel Embiid is healthier. The projected starting five is Maxey, VJ Edgecombe, Jaylen Brown, LeBron James and Joel Embiid.",
+   "text": "Philadelphia added Jaylen Brown and LeBron James. The projected starting five is Maxey, VJ Edgecombe, Jaylen Brown, LeBron James and Joel Embiid.",
    "kind": "fact",
-   "date": "2026-09-09",
+   "date": "2026-08-06",
    "until": "",
    "sources": [
     "gTsfR5PxAMY:t0",
-    "gTsfR5PxAMY:t1",
-    "7BllEsdNLoM:t3",
-    "gerS7ibpaJo:t4"
+    "gTsfR5PxAMY:t1"
    ]
   },
   {
-   "text": "Experts expect his usage to drop from about 30 last season to about 27 because Brown, Embiid and LeBron share the ball with him.",
+   "text": "Experts expect his usage to drop because he shares the ball with Brown, LeBron and Embiid. One projects it under 27, down from 30 last season. New teammates could also take some of his assists and shots.",
    "kind": "verdict",
-   "date": "2026-09-22",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "uarqbNA2dFk:p0",
-    "7BllEsdNLoM:p8",
     "sTtFUy7IoJI:p56",
-    "J1Eg3uaAICU:p5",
+    "7BllEsdNLoM:p8",
+    "uarqbNA2dFk:p0",
     "QbdrhJd7LiA:p0",
-    "KPdD91Oo8-U:p0",
+    "J1Eg3uaAICU:p5",
+    "BiIZsSypx7Y:p1",
     "P6TNP-g0wzY:p4",
+    "7BllEsdNLoM:t3",
     "sTtFUy7IoJI:t10",
-    "Rqb5GdrSweY:t9",
     "8d--aL_xxwE:t0",
-    "7BllEsdNLoM:t3"
+    "Rqb5GdrSweY:t9",
+    "BiIZsSypx7Y:t3"
    ]
   },
   {
-   "text": "He is not expected to stay a top five scorer next to Jaylen Brown.",
-   "kind": "verdict",
-   "date": "2026-07-07",
-   "until": "",
-   "sources": [
-    "ME-r173X5b0:p5",
-    "ME-r173X5b0:t1"
-   ]
-  },
-  {
-   "text": "He is expected to move back toward a shooting guard role, with LeBron James handling more of the playmaking.",
+   "text": "He is expected to move toward a shooting guard role, with LeBron handling more of the playmaking.",
    "kind": "verdict",
    "date": "2026-08-06",
    "until": "",
@@ -71,44 +60,70 @@
    ]
   },
   {
-   "text": "Embiid and Anfernee Simons are expected to cut his minutes, possibly to about 36.5 per game.",
+   "text": "Experts say his big season came while Embiid and Paul George missed a lot of games. They doubt he can repeat that production, or stay a top five scorer next to Brown.",
    "kind": "verdict",
-   "date": "2026-09-16",
+   "date": "2026-10-06",
    "until": "",
    "sources": [
-    "2A2JbUN-kc0:p20",
-    "2A2JbUN-kc0:t1"
+    "eTsjuVu1trk:p3",
+    "eTsjuVu1trk:p4",
+    "E-KmhvyZ2CU:t2",
+    "ME-r173X5b0:p5"
    ]
   },
   {
-   "text": "Experts call his rank of 6 on Yahoo and ESPN too high. They would not take him in the first round or inside the top 10, even with expected injuries to his teammates. One expert would take Kevin Durant ahead of him.",
+   "text": "His minutes may come down. Experts say Nick Nurse could trim them and that the new players, including Anfernee Simons, may cut them to about 36.5 a night.",
    "kind": "verdict",
-   "date": "2026-09-24",
+   "date": "2026-10-06",
    "until": "",
    "sources": [
-    "C4vlgpJ62NI:p14",
-    "QbdrhJd7LiA:p0",
-    "uarqbNA2dFk:p0",
-    "J1Eg3uaAICU:p5",
-    "7BllEsdNLoM:p8",
-    "KPdD91Oo8-U:p0",
-    "E-KmhvyZ2CU:p2",
+    "2A2JbUN-kc0:p20",
+    "2A2JbUN-kc0:t1",
+    "BiIZsSypx7Y:p1",
+    "eTsjuVu1trk:p4"
+   ]
+  },
+  {
+   "text": "Josh doubts Maxey can keep up his high steals rate.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "BiIZsSypx7Y:p1"
+   ]
+  },
+  {
+   "text": "Embiid is expected to miss games and LeBron to sit games, which would hand some usage back to Maxey. Experts still call a top 8 pick too high, even after counting those absences.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:t5",
+    "BiIZsSypx7Y:t3",
+    "E-KmhvyZ2CU:p2"
+   ]
+  },
+  {
+   "text": "In category leagues, experts agree he is overpriced at a top 10 rank and do not want him in round one. They put his fair spot around picks 13 to 15, at the end of round one or the start of round two. Josh ranks Kevin Durant and Cooper Flagg ahead of him, and Maxey ahead of Scottie Barnes and Jalen Johnson.",
+   "kind": "verdict",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "eTsjuVu1trk:p4",
+    "BiIZsSypx7Y:p0",
+    "BiIZsSypx7Y:p2",
+    "BjXP9JODDSg:p4",
     "_vbAP5y182A:p3",
+    "C4vlgpJ62NI:p14",
+    "uarqbNA2dFk:p0",
+    "KPdD91Oo8-U:p0",
+    "7BllEsdNLoM:p8",
+    "J1Eg3uaAICU:p5",
     "2A2JbUN-kc0:p20"
    ]
   },
   {
-   "text": "Experts see a fair draft spot around pick 13 to 14.",
-   "kind": "verdict",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "BjXP9JODDSg:p4",
-    "uarqbNA2dFk:p0"
-   ]
-  },
-  {
-   "text": "In a salary cap mock draft he went for 40 USD.",
+   "text": "In an expert auction mock draft, Josh valued him at about 40 USD and he sold for 40 USD.",
    "kind": "fact",
    "date": "2026-10-05",
    "until": "",
@@ -117,16 +132,7 @@
    ]
   },
   {
-   "text": "Josh values him at about 40 USD in an auction and is a little lower on him than others.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p19"
-   ]
-  },
-  {
-   "text": "Philadelphia has 13 back-to-backs, three of them in the fantasy playoffs.",
+   "text": "The Sixers have 13 back-to-backs this season, and three of them fall in the fantasy playoffs.",
    "kind": "fact",
    "date": "2026-08-16",
    "until": "",
@@ -135,38 +141,36 @@
    ]
   },
   {
-   "text": "Philadelphia is projected to win about 51 to 52 games. Experts expect growing pains in October and November and load management for the stars.",
+   "text": "The Sixers are projected to win about 51 to 52 games. Expect growing pains in October and November and load management for the stars.",
    "kind": "verdict",
    "date": "2026-08-06",
    "until": "",
    "sources": [
     "gTsfR5PxAMY:t4"
    ]
-  },
-  {
-   "text": "Embiid is expected to miss games and LeBron to sit games, which can open usage at times.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "ahNxsoU8Hx4:t5",
-    "W-R1dzem32s:t7",
-    "E-KmhvyZ2CU:p2"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "Steals are a league outlier strength for him. He is also strong in FT% on volume, points and threes.",
+   "text": "Steals are a real league outlier for him.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "His weakest categories are FG% and rebounds. He has no category weak enough to punt.",
+   "text": "He is a high-volume scorer and three-point shooter with a strong FT% on good volume, and he adds solid assists for a guard.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "His weakest categories are FG%, rebounds and blocks.",
    "kind": "verdict",
    "date": "2026-09-23",
    "until": "",
@@ -176,7 +180,7 @@
    ]
   },
   {
-   "text": "He is a very good shooter.",
+   "text": "He is a very good shooter, and the only clearly above-average shooter for his position in the Sixers starting group.",
    "kind": "verdict",
    "date": "2026-08-06",
    "until": "",
@@ -185,17 +189,18 @@
    ]
   },
   {
-   "text": "He has made big improvements on defense.",
+   "text": "Experts disagree on his defense. One says he has improved a lot on defense, while Josh does not think he is a strong defender.",
    "kind": "verdict",
-   "date": "2026-08-06",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "gTsfR5PxAMY:p13"
+    "gTsfR5PxAMY:p13",
+    "BiIZsSypx7Y:p1"
    ]
   },
   {
    "text": "He has missed more games over the last few years than people think.",
-   "kind": "fact",
+   "kind": "verdict",
    "date": "2026-09-19",
    "until": "",
    "sources": [
@@ -203,9 +208,9 @@
    ]
   },
   {
-   "text": "Nick Nurse plays his starters, and his guards most of all, very heavy minutes.",
+   "text": "Nick Nurse gives his starters, and his guards in particular, very heavy minutes.",
    "kind": "fact",
-   "date": "2026-09-09",
+   "date": "2026-09-10",
    "until": "",
    "sources": [
     "7BllEsdNLoM:t2",
@@ -218,109 +223,98 @@
   {
    "name": "STL specialist",
    "channel": "durable",
-   "detail": "about 1.6 steals per game projected",
-   "until": "",
+   "detail": "1.6 steals projected; Josh doubts the rate holds",
    "sources": [
     "stats"
    ],
-   "new_meaning": ""
-  },
-  {
-   "name": "fits every build",
-   "channel": "durable",
-   "detail": "no category flagged weak; FG% and REB are his softest",
    "until": "",
-   "sources": [
-    "stats"
-   ],
    "new_meaning": ""
   },
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "shares the ball with Jaylen Brown, LeBron James and Joel Embiid",
-   "until": "",
+   "detail": "Shares the ball with Jaylen Brown, LeBron James and Joel Embiid",
    "sources": [
-    "7BllEsdNLoM:t3",
-    "sTtFUy7IoJI:t10",
-    "Rqb5GdrSweY:t9",
-    "8d--aL_xxwE:t0",
     "sTtFUy7IoJI:p56",
-    "J1Eg3uaAICU:p5"
+    "7BllEsdNLoM:p8",
+    "BiIZsSypx7Y:p1",
+    "7BllEsdNLoM:t3",
+    "sTtFUy7IoJI:t10"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "role down",
    "channel": "current",
-   "detail": "usage expected to fall from about 30 to about 27; minutes possibly to 36.5",
-   "until": "",
+   "detail": "Usage projected to fall from 30 to under 27; minutes may drop to about 36.5",
    "sources": [
     "uarqbNA2dFk:p0",
     "7BllEsdNLoM:p8",
     "2A2JbUN-kc0:p20",
-    "QbdrhJd7LiA:p0"
+    "BiIZsSypx7Y:p1"
    ],
-   "new_meaning": ""
-  },
-  {
-   "name": "usage dependent",
-   "channel": "durable",
-   "detail": "value built on high scoring usage",
    "until": "",
-   "sources": [
-    "uarqbNA2dFk:p0",
-    "7BllEsdNLoM:p8",
-    "QbdrhJd7LiA:p0"
-   ],
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "rank 6 on Yahoo and ESPN; experts would not take him in the top 10",
-   "until": "",
+   "detail": "At a top 10 rank or first-round price; experts value him around picks 13 to 15",
    "sources": [
+    "eTsjuVu1trk:p4",
     "C4vlgpJ62NI:p14",
-    "QbdrhJd7LiA:p0",
     "uarqbNA2dFk:p0",
     "KPdD91Oo8-U:p0",
-    "7BllEsdNLoM:p8"
+    "BjXP9JODDSg:p4"
    ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "regression risk",
+   "channel": "current",
+   "detail": "Steals rate and top five scoring are not expected to hold",
+   "sources": [
+    "BiIZsSypx7Y:p1",
+    "ME-r173X5b0:p5"
+   ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "heavy starter minutes",
    "channel": "durable",
-   "detail": "Nick Nurse gives his guards very heavy minutes",
-   "until": "",
+   "detail": "Nick Nurse plays his guards very heavy minutes",
    "sources": [
     "7BllEsdNLoM:t2",
-    "gTsfR5PxAMY:t2"
+    "gTsfR5PxAMY:t2",
+    "W-R1dzem32s:t7"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "projected 51 to 52 wins",
-   "until": "",
+   "detail": "Projected 51 to 52 wins",
    "sources": [
     "gTsfR5PxAMY:t4"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "three back-to-backs in the fantasy playoffs",
-   "until": "",
+   "detail": "Three back-to-backs in the fantasy playoffs",
    "sources": [
     "gf_6GveiAls:t8"
    ],
+   "until": "",
    "new_meaning": ""
   }
  ],
- "note": "Yahoo's average cost (57.4 USD) and both sites' top 10 ranks are above what experts will pay. The latest mock priced him at about 40 USD, close to the 37 USD he cost in our league last season, so bid in the low 40s and let others overpay. He fits any build because no category is weak. He helps most in FT%, points, threes and steals, but his FG% and turnovers are soft and his Philadelphia team has three back-to-backs in our playoff weeks. Early on, check his shot attempts and minutes next to Brown, LeBron and Embiid: shot attempts near the 19 per game in the projections, down from 21.4, and minutes under 38 would confirm the expected drop.",
+ "note": "Both sites rank him 8th, and Yahoo's average cost is 55.1 USD. Experts see him as a late first or early second round player, and he sold for about 40 USD in an expert auction mock, which is close to the 37 USD our league paid last season. Bid around 40 to 45 USD, not his market price. He fits builds that want steals, points, threes and FT% from a guard. Early in the season, check how much usage and how many minutes he keeps with Brown, LeBron and Embiid all healthy, and whether his steals stay near 1.9.",
  "rejected": []
 }

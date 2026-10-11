@@ -8,114 +8,155 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "6e0b23f35d33",
- "note_count": 13,
- "built_at": "2026-10-04T17:39:10+00:00",
+ "input_sha": "865b5fac853c",
+ "note_count": 18,
+ "built_at": "2026-10-11T09:20:08+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.23233939999999997,
-  "duration_ms": 55585
+  "cost_usd_list": 0.2417662,
+  "duration_ms": 68242,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He moved from Miami to Milwaukee in the Giannis Antetokounmpo trade.",
+   "text": "He joined the Bucks from Miami as part of the Giannis Antetokounmpo trade.",
    "kind": "fact",
    "date": "2026-08-14",
    "until": "",
    "sources": [
+    "nnWX_ObljOE:p10",
     "nnWX_ObljOE:p11",
-    "Rqb5GdrSweY:p31",
     "owlM6b8oUd0:p11"
    ]
   },
   {
-   "text": "His role under new coach Taylor Jenkins is not set. He may start at power forward next to Myles Turner or back up Turner.",
+   "text": "The newest team preview has him as the backup center behind Myles Turner. The projected starters to open the season are Rollins, Herro, Jaquez, Kuzma and Turner.",
    "kind": "fact",
-   "date": "2026-09-14",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "t4n9MAP2_14:p27",
+    "sDzeYdUhJDI:p27",
+    "sDzeYdUhJDI:t3"
+   ]
+  },
+  {
+   "text": "Taylor Jenkins is the new head coach. It is not clear yet whether he will give Ware a fantasy-friendly role or focus on winning, and he might use a deep rotation.",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
     "t4n9MAP2_14:t1",
-    "Rqb5GdrSweY:p31",
-    "owlM6b8oUd0:p11"
+    "sDzeYdUhJDI:t2"
    ]
   },
   {
-   "text": "Power forward is Milwaukee's weakest position, and the team will likely start a center there.",
-   "kind": "fact",
-   "date": "2026-08-14",
-   "until": "",
-   "sources": [
-    "owlM6b8oUd0:t1",
-    "owlM6b8oUd0:t2"
-   ]
-  },
-  {
-   "text": "Expected to play more than last season's 22 minutes a night. The newest projection is 26 to 30 minutes.",
+   "text": "His role is unclear. If Jenkins names him a starter at center or power forward, he moves up to tier five or higher among centers. Experts expect him to play clearly more than 22 minutes, somewhere around 25 to 30.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
    "sources": [
     "t4n9MAP2_14:p27",
+    "nnWX_ObljOE:p10",
     "gJUBAJaHzlU:p17"
    ]
   },
   {
-   "text": "Experts see him as a top 60 to 80 player and say his draft price is too low.",
+   "text": "Experts rank him around 60 to 80 in his current role. At about 29 to 30 minutes a night he would rank in the top 40s.",
    "kind": "verdict",
-   "date": "2026-09-21",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
+    "sDzeYdUhJDI:p27",
     "gJUBAJaHzlU:p17",
+    "gJUBAJaHzlU:p18",
     "egRrai3Ax38:p43"
    ]
   },
   {
-   "text": "If Jenkins names him a starter and he plays about 30 minutes a night, he can be a top 40 player. Until then one expert has him in tier seven of the centers.",
+   "text": "Experts expect managers to reach for him, possibly in the top 50. They also say he is not better than Turner yet, and his fit next to Turner is uncertain.",
    "kind": "verdict",
-   "date": "2026-09-14",
+   "date": "2026-07-13",
    "until": "",
    "sources": [
-    "gJUBAJaHzlU:p18",
-    "t4n9MAP2_14:p27"
+    "Rqb5GdrSweY:p31",
+    "ME-r173X5b0:p24"
+   ]
+  },
+  {
+   "text": "Of the players Milwaukee got from Miami, he is the least likely to be traded.",
+   "kind": "verdict",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p11"
+   ]
+  },
+  {
+   "text": "The speaker doubts his 40% three-point shooting will last.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:p26"
+   ]
+  },
+  {
+   "text": "His free throw percentage fell under 60% in the second half of last season.",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:p26"
    ]
   }
  ],
  "durable": [
   {
-   "text": "Rebounds and blocks are his best categories, and he adds some threes for a big. His assists are among the lowest in the top 200.",
+   "text": "He is an elite rebounder with a high block rate, and he makes threes for a big.",
    "kind": "fact",
-   "date": "2026-07-07",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
+    "sDzeYdUhJDI:p26",
     "ME-r173X5b0:p24",
     "stats"
    ]
   },
   {
-   "text": "Strong per-minute fantasy numbers but many lapses on offense and defense. He is poor defensively.",
-   "kind": "verdict",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "owlM6b8oUd0:p10",
-    "-KS_AZjZnw4:p15",
-    "t4n9MAP2_14:p28"
-   ]
-  },
-  {
-   "text": "He was benched in Miami for poor shot selection and team play. His minutes there were limited by his play, not by the coach.",
+   "text": "He rarely passes. His assists are among the lowest in the top 200.",
    "kind": "fact",
-   "date": "2026-09-14",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "-KS_AZjZnw4:p15",
-    "t4n9MAP2_14:p28"
+    "sDzeYdUhJDI:p26",
+    "ME-r173X5b0:p24",
+    "stats"
    ]
   },
   {
-   "text": "His 9-cat rank flatters his real worth.",
+   "text": "He is a fantasy beast per minute. He finished roughly 94th to 119th last season in only 22 minutes a night.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:p25",
+    "egRrai3Ax38:p43",
+    "Rqb5GdrSweY:p31"
+   ]
+  },
+  {
+   "text": "He is much better in category leagues than in points leagues.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "WXO8MfQfzo0:p24"
+   ]
+  },
+  {
+   "text": "He is a 9-cat fluff player.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
@@ -124,94 +165,181 @@
    ]
   },
   {
-   "text": "His potential is very high, and he fits best at center.",
+   "text": "He is horrible on defense and has plenty of lapses on both ends. His minutes in Miami were limited because of his play, not because of the coach.",
    "kind": "verdict",
-   "date": "2026-08-14",
+   "date": "2026-09-14",
    "until": "",
    "sources": [
-    "owlM6b8oUd0:p10"
+    "t4n9MAP2_14:p28",
+    "owlM6b8oUd0:p10",
+    "-KS_AZjZnw4:p15"
+   ]
+  },
+  {
+   "text": "Miami benched him for poor shot selection and team play, which caused problems with Erik Spoelstra.",
+   "kind": "fact",
+   "date": "2026-07-20",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p15"
+   ]
+  },
+  {
+   "text": "One speaker says his off-court behavior was a distraction in Miami.",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:p28"
+   ]
+  },
+  {
+   "text": "He is only 22 and his potential is sky high, so he could improve. He fits best at center.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:p28",
+    "owlM6b8oUd0:p10",
+    "nnWX_ObljOE:p12"
    ]
   }
  ],
  "tags": [
   {
-   "name": "new team",
-   "channel": "current",
-   "detail": "Miami to Milwaukee in the Giannis trade",
+   "name": "3PM from a big",
+   "channel": "durable",
+   "detail": "1.3 3PM projected; experts doubt his 40% from three will last",
    "until": "",
    "sources": [
-    "nnWX_ObljOE:p11",
-    "Rqb5GdrSweY:p31"
+    "ME-r173X5b0:p24",
+    "sDzeYdUhJDI:p26",
+    "stats"
    ],
    "new_meaning": ""
   },
   {
-   "name": "role up",
-   "channel": "current",
-   "detail": "projected 26 to 30 minutes after 22 last season",
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "no category flagged weak; assists are low",
    "until": "",
    "sources": [
-    "t4n9MAP2_14:p27",
-    "gJUBAJaHzlU:p17",
-    "nnWX_ObljOE:p10"
+    "stats"
    ],
    "new_meaning": ""
   },
   {
-   "name": "breakout",
-   "channel": "current",
-   "detail": "year three; top 40 upside at 30 minutes",
+   "name": "category league player",
+   "channel": "durable",
+   "detail": "",
    "until": "",
    "sources": [
-    "gJUBAJaHzlU:p17",
-    "gJUBAJaHzlU:p18"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "minutes competition",
-   "channel": "current",
-   "detail": "starter at PF next to Myles Turner or Turner's backup, not decided by Taylor Jenkins",
-   "until": "",
-   "sources": [
-    "t4n9MAP2_14:p27",
-    "Rqb5GdrSweY:p31"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "expert target",
-   "channel": "current",
-   "detail": "experts see top 60 to 80 value",
-   "until": "",
-   "sources": [
-    "gJUBAJaHzlU:p17",
-    "egRrai3Ax38:p43"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sleeper",
-   "channel": "current",
-   "detail": "underpriced at ADP 75",
-   "until": "",
-   "sources": [
-    "gJUBAJaHzlU:p17",
-    "egRrai3Ax38:p43"
+    "WXO8MfQfzo0:p24"
    ],
    "new_meaning": ""
   },
   {
    "name": "9-cat fluff",
    "channel": "durable",
-   "detail": "poor defense and lapses are not shown in his 9-cat line",
+   "detail": "",
    "until": "",
    "sources": [
     "t4n9MAP2_14:p28"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "off-court risk",
+   "channel": "durable",
+   "detail": "off-court behavior called a distraction in Miami",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:p28"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "Miami to Milwaukee in the Giannis trade",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p10",
+    "owlM6b8oUd0:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "projected backup center behind Myles Turner",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:p27",
+    "t4n9MAP2_14:p27",
+    "Rqb5GdrSweY:p31",
+    "ME-r173X5b0:p24"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "expected to play about 25 to 30 minutes, up from 22",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p10",
+    "gJUBAJaHzlU:p17",
+    "t4n9MAP2_14:p27"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "breakout",
+   "channel": "current",
+   "detail": "top 40 upside at 30 minutes a night",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p17",
+    "gJUBAJaHzlU:p18",
+    "egRrai3Ax38:p43"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "regression risk",
+   "channel": "current",
+   "detail": "40% three-point shooting expected to drop",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:p26"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "Taylor Jenkins",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:t1",
+    "sDzeYdUhJDI:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Bucks rotation called the hardest to read; lineup could change by December or March",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t0",
+    "sDzeYdUhJDI:t3",
+    "WXO8MfQfzo0:t0"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Both sites rank him around 70, but average costs are only 4.6 USD on Yahoo and 2.6 USD on ESPN, and he went for 5 USD in our league last season. That makes him a cheap source of rebounds (9.2 projected), blocks and FG% with few turnovers, and experts see top 60 to 80 value with top 40 upside at 30 minutes. His assists are close to zero. Watch preseason and the first weeks to see whether Taylor Jenkins starts him at power forward next to Myles Turner and gives him 26 or more minutes.",
+ "note": "Both sites value him at 13 USD, but average costs are only 3.8 to 4.1 USD and he went for 5 USD in our league last season. He looks like a good value bid up to about his 13 USD value: he helps REB, BLK and FG% at little cost, and no category is flagged weak, so the low assists hurt any build only a little. Early in the season, check whether Jenkins starts him or plays him 26 minutes or more, since that is the gap between a 70s to 80s rank and the top 40s. Also watch whether his three-point and free throw shooting hold up.",
  "rejected": []
 }

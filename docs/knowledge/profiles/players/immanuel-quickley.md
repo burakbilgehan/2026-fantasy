@@ -11,46 +11,46 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 9 | 1.4 | 86 | 3 | 1.7 | 90 | 13 |
+| 2026-27 | 9 | 1.4 | 87 | 3 | 2.1 | 90 | 13 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 43.5% | -1.0 | -0.9 | - |
-| FT% | 83.9% | +0.6 | +0.2 | - |
+| FT% | 83.9% | +0.5 | +0.2 | - |
 | 3PM | 2.6 | +1.2 | +0.9 | - |
 | PTS | 16.2 | +0.4 | +0.3 | - |
 | REB | 3.9 | -0.5 | +0.1 | - |
 | AST | 5.7 | +1.3 | +1.0 | - |
 | STL | 1.1 | +0.5 | +0.2 | - |
 | BLK | 0.1 | -1.1 | -1.3 | weak for his position (punt fit) |
-| TO | 1.5 | +0.2 | +0.3 | - |
+| TO | 1.5 | +0.2 | +0.4 | - |
 
 </details>
 
 **Current**
-- In a points league sleepers video, his ESPN ADP of 114 is called bench range in a standard ESPN league. He was 58th per game last season. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1949))
-- Toronto traded Brandon Ingram away and added Kawhi Leonard. (fact, 2026-09-10; [06-30](https://youtu.be/JMSLg6yz-M0?t=566), [09-10](https://youtu.be/dlo7L8Ru91A?t=473))
-- With Kawhi on the team, Quickley loses usage and should take fewer shots, but he should still have the ball a lot. Without Kawhi he would be a tier higher. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1835), [06-30](https://youtu.be/JMSLg6yz-M0?t=308), [06-30](https://youtu.be/JMSLg6yz-M0?t=566))
-- Tier 7 point guard in both formats: solid, with limited upside. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2098))
-- He is a projected starter and part of the expected closing five, next to Barrett, Kawhi and Barnes. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=496), [08-20](https://youtu.be/s28HvC2grAk?t=1066))
+- Kawhi takes usage away from Quickley. He should take fewer shots but still have the ball a lot. Without Kawhi he would be a tier higher. (verdict, 2026-10-08; [06-30](https://youtu.be/JMSLg6yz-M0?t=308), [09-10](https://youtu.be/W-R1dzem32s?t=1835), [10-08](https://youtu.be/6DnRWahYrFA?t=1875), [06-30](https://youtu.be/JMSLg6yz-M0?t=566))
+- Lloyd thinks he can return about 15 spots of value over his draft position, even with Kawhi there. This call is based on points-league ranks. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1875), [09-21](https://youtu.be/egRrai3Ax38?t=1949))
+- He was 58th per game last season. His ESPN ADP is 114, which is bench range in a standard ESPN league. (fact, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1949))
+- Toronto traded for Kawhi Leonard, and Brandon Ingram left in the deal. (fact, 2026-09-10; [06-30](https://youtu.be/JMSLg6yz-M0?t=566), [09-10](https://youtu.be/dlo7L8Ru91A?t=473))
+- Tier 7 point guard in both formats. Solid, with limited upside. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2098))
+- Quickley is a projected starter. He is also in the expected closing five with Barrett, Kawhi, Barnes and Murray-Boyles. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=496), [08-20](https://youtu.be/s28HvC2grAk?t=1066))
 - Sean expects the highest-volume three-point season of his career, mostly playing off the ball. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=600))
-- His pull-up and transition three-point shooting were poor last season. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=563))
-- That pull-up and transition shooting needs to return to his career averages. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=563))
+- His pull-up and transition three-point shooting was poor last season. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=563))
+- Those pull-up and transition threes need to get back to his career averages. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=563))
 - When Kawhi misses time, he should run more on-ball pick and roll. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=600))
-- He stayed healthier last season than in previous years. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=521))
-- The Raptors have 15 back-to-backs this season and three in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
-- In an early mock draft, Josh regretted taking him with a rushed pick and said Kevin Porter Jr. was the right choice. (verdict, 2026-08-11; [08-11](https://youtu.be/OdDkXFhoKsc?t=1754))
+- He stayed healthier last season than in earlier years. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=521))
+- Sean predicts 52 wins for Toronto, or 56 to 57 if Kawhi plays 75 games. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1792))
 
 **Durable**
-- He blocks almost no shots, even for a guard, so punt BLK builds lose little with him. (fact, 2026-10-04; stats)
-- He is not a classic point guard or a perfect on-ball creator. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=617))
+- He blocks very few shots, even for a guard. A punt BLK team loses little with him. (fact, 2026-10-11; stats)
+- He is not a classic point guard or a perfect on-ball creator. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=617))
 
 **Tags**
-- Current: `role down` (Usage moves to Kawhi Leonard; fewer shots, more off-ball play), `bad playoff schedule` (Raptors have three back-to-backs in the fantasy playoffs)
+- Current: `usage competition` (Kawhi Leonard takes shots and touches from him), `role down` (fewer shots and more off-ball play next to Kawhi), `sleeper` (Lloyd sees about 15 spots of value over his ESPN points rank and ADP), `winning team` (Sean predicts 52 wins)
 - Durable: `punt BLK fit` (0.1 blocks per game, weak even for a guard)
 
-**Note.** Market prices are low: Yahoo value 9 USD and ESPN value 3 USD, with average costs under 2 USD and ranks of 86 to 90. That puts him near the end of our 144-player pool, below the 13 USD our league paid last season. He brings threes, assists and a solid FT% but drags FG% (about 43.5%) and gives no blocks, so he fits punt BLK guard builds best. Early in the season, check his three-point volume off the ball, whether his pull-up shooting recovers, and how much he runs the offense when Kawhi sits.
+**Note.** He goes cheap: 1.4 USD average cost on Yahoo and 2.1 USD on ESPN, with ranks of 87 and 90. Our league paid 13 USD for him last season, so he looks like a value pick at single digits (Yahoo value 9, ESPN 3). He fits punt BLK builds best and helps most in threes (2.6) and assists (5.7), while his 43.5% FG% is a small drag. Early in the season, check his shot volume next to Kawhi, whether his three-point volume rises as Sean expects, and whether his pull-up threes get back to his career level.
 
-<sub>10 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>11 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

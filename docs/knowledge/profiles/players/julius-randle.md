@@ -11,52 +11,53 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 14 | 8.2 | 73 | 3 | 8.6 | 86 | 10 |
+| 2026-27 | 15 | 5.8 | 71 | 4 | 9.3 | 84 | 10 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 47.6% | -0.1 | -0.0 | - |
+| FG% | 47.6% | -0.1 | -0.1 | - |
 | FT% | 79.7% | +0.1 | +0.2 | - |
 | 3PM | 1.5 | +0.0 | -0.0 | - |
-| PTS | 21.1 | +1.2 | +1.4 | - |
+| PTS | 21.1 | +1.2 | +1.3 | - |
 | REB | 7.6 | +1.0 | +1.2 | - |
 | AST | 4.9 | +0.9 | +1.6 | - |
 | STL | 0.8 | -0.4 | -0.4 | - |
-| BLK | 0.2 | -0.8 | -0.9 | - |
+| BLK | 0.2 | -0.8 | -1.0 | - |
 | TO | 3.0 | -1.8 | -2.1 | league outlier, weak, weak for his position (punt fit) |
 
 </details>
 
 **Current**
-- In an expert auction mock, he went for 15 USD. The expert had hoped to pay about 10 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2338))
-- Brooklyn may rest him for some games late in the season, mainly in March, to give the young players time. That overlaps our fantasy playoffs. (verdict, 2026-10-04; [09-26](https://youtu.be/3UGI05PDvrE?t=550), [09-26](https://youtu.be/3UGI05PDvrE?t=1635), [10-04](https://youtu.be/n4KkK-OJjqA?t=1822), [07-13](https://youtu.be/Rqb5GdrSweY?t=1318), [08-26](https://youtu.be/sTtFUy7IoJI?t=1170), [09-26](https://youtu.be/3UGI05PDvrE?t=1628))
-- Experts disagree on his category rank. One projects him 55 to 75, probably 65 to 70, and says to take him a bit later in category leagues than in points leagues. A newer note says he can be top 50 again and is good value at a rank of 73. (verdict, 2026-10-04; [09-26](https://youtu.be/3UGI05PDvrE?t=474), [09-26](https://youtu.be/3UGI05PDvrE?t=566), [10-04](https://youtu.be/n4KkK-OJjqA?t=1822))
-- Randle plays for Brooklyn now. He came over in the Nic Claxton trade. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=460), [08-26](https://youtu.be/sTtFUy7IoJI?t=1162), [06-23](https://youtu.be/9tb1ARBEmQU?t=654), [07-13](https://youtu.be/Rqb5GdrSweY?t=1228))
-- He is projected to start at forward next to Mikel Brown Jr., Egor Demin, Michael Porter Jr. and Day'Ron Sharpe. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=313), [08-21](https://youtu.be/uRsfijpBPok?t=488), [06-25](https://youtu.be/lOshTzDA4SA?t=1160))
+- Brooklyn is projected to be one of the worst teams, at about 28 wins. (verdict, 2026-10-08; [08-21](https://youtu.be/uRsfijpBPok?t=1754), [10-08](https://youtu.be/sDzeYdUhJDI?t=177), [09-10](https://youtu.be/dlo7L8Ru91A?t=1043))
+- In a mock auction, the expert hoped to get him for about 10 USD. He went for 15 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2338))
+- Brooklyn may still rest him or trim his minutes late in the season, mainly in March, to give young players time. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1822), [09-26](https://youtu.be/3UGI05PDvrE?t=550), [09-26](https://youtu.be/3UGI05PDvrE?t=1635), [07-13](https://youtu.be/Rqb5GdrSweY?t=1318), [08-26](https://youtu.be/sTtFUy7IoJI?t=1170))
+- The experts differ a little on his rank. One projects him 55 to 75 in category leagues, probably 65 to 70. Another says he can be top 50 again and calls him a value at 73. (verdict, 2026-10-04; [09-26](https://youtu.be/3UGI05PDvrE?t=474), [10-04](https://youtu.be/n4KkK-OJjqA?t=1822))
+- He joined Brooklyn from Minnesota in the Nic Claxton trade. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=460), [08-26](https://youtu.be/sTtFUy7IoJI?t=1162), [07-13](https://youtu.be/Rqb5GdrSweY?t=1228), [06-23](https://youtu.be/9tb1ARBEmQU?t=654))
+- He is a projected starter for Brooklyn, next to Mikel Brown Jr., Egor Demin, Michael Porter Jr. and Day'Ron Sharpe. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=313), [08-21](https://youtu.be/uRsfijpBPok?t=488), [06-25](https://youtu.be/lOshTzDA4SA?t=1160))
+- His usage should rise from about 27 to about 30, and his assists could go up. His defensive stats probably will not. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=590), [09-21](https://youtu.be/egRrai3Ax38?t=721), [08-26](https://youtu.be/sTtFUy7IoJI?t=1162), [07-13](https://youtu.be/Rqb5GdrSweY?t=1228), [06-23](https://youtu.be/9tb1ARBEmQU?t=654))
+- His minutes are expected to drop to about 32 per game because Brooklyn has little to play for. Blowouts and minutes for Noah Clowney also lower his upside. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=550), [09-26](https://youtu.be/3UGI05PDvrE?t=590), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1859), [08-26](https://youtu.be/sTtFUy7IoJI?t=1162))
+- Houston controls Brooklyn's draft pick, so the Nets have no reason to tank. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [07-13](https://youtu.be/Rqb5GdrSweY?t=622), [08-10](https://youtu.be/sfCe7fS9daM?t=1698), [09-10](https://youtu.be/dlo7L8Ru91A?t=1043))
 - He has several years left on his contract and is expected to stay in Brooklyn. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1635))
-- Experts expect his usage to rise from about 27 to about 30, with more assists, because he shares the ball with Michael Porter Jr. instead of playing behind Anthony Edwards. His defensive stats are not expected to improve. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=590), [09-21](https://youtu.be/egRrai3Ax38?t=721), [08-26](https://youtu.be/sTtFUy7IoJI?t=1162), [07-13](https://youtu.be/Rqb5GdrSweY?t=1228), [06-23](https://youtu.be/9tb1ARBEmQU?t=654))
-- Experts expect his minutes to drop to about 32 from 34 to 35 last season. Blowouts and minutes for young frontcourt players such as Noah Clowney lower his upside. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=550), [09-26](https://youtu.be/3UGI05PDvrE?t=590), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1859), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1642), [08-26](https://youtu.be/sTtFUy7IoJI?t=1162))
-- Brooklyn does not own its draft pick (Houston does), so it has no reason to tank. It also has little reason to win beyond player development. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [07-13](https://youtu.be/Rqb5GdrSweY?t=622), [08-21](https://youtu.be/uRsfijpBPok?t=1014), [08-10](https://youtu.be/sfCe7fS9daM?t=1698))
-- His ESPN rank of 86 is called great value, and his Yahoo ADP around 68 is called fair value. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=566), [09-21](https://youtu.be/egRrai3Ax38?t=721))
-- Brooklyn has 16 back-to-backs, tied with Boston for the most in the league. For a season ending March 28, its playoff schedule is 3-4-3 games, with only one back-to-back in the playoff weeks. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
+- His ESPN rank of 86 is great value and his Yahoo ADP near 68 is fine. In category leagues, take him a bit later than in points leagues. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=566), [09-21](https://youtu.be/egRrai3Ax38?t=721))
+- Brooklyn has 16 back-to-backs, tied for the most in the league. Its playoff schedule for a March 28 end is 3-4-3 games, with one back-to-back. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
 - He is the Nets' most accomplished on-ball creator and is expected to handle the ball a lot. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=1417), [06-25](https://youtu.be/lOshTzDA4SA?t=1160))
-- Brooklyn is projected to win about 28 games, with a range of about 22 to 30. (verdict, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=1754))
-- His block rate of 4.9% last season was well below his 9% career rate. It might recover in Brooklyn now that he does not play next to Gobert. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=874))
+- His block rate could recover in Brooklyn now that he does not play next to Gobert. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=874))
 
 **Durable**
-- He turns the ball over a lot. TO is his clearly weakest category, far worse than the league and his position. (fact, 2026-10-05; [07-13](https://youtu.be/Rqb5GdrSweY?t=1296), stats)
-- Points, rebounds and assists are his strengths, and his assists are high for a forward. (fact, 2026-10-05; stats)
-- He is worth more in points leagues than in 9-cat leagues. One expert still says category leagues underrate him. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1807), [08-26](https://youtu.be/sTtFUy7IoJI?t=1177))
-- On average his FG% and FT% are neutral, not harmful, despite his reputation. But they swing a lot from season to season. (verdict, 2026-09-26; [07-13](https://youtu.be/Rqb5GdrSweY?t=1296), [09-26](https://youtu.be/3UGI05PDvrE?t=599), [06-23](https://youtu.be/9tb1ARBEmQU?t=653), stats)
-- He gives few defensive stats. His steals are about average and his blocks are poor. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1177), [07-13](https://youtu.be/Rqb5GdrSweY?t=1296), stats)
-- He shot 32% from three in Minnesota, and defenses treated him as a non-shooter. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1094))
+- He turns the ball over a lot. Turnovers are his weakest category. (fact, 2026-10-11; [07-13](https://youtu.be/Rqb5GdrSweY?t=1296), stats)
+- His main strengths are points, rebounds and assists. His assists are high for a forward. (fact, 2026-10-11; stats)
+- He is worth more in points leagues than in category leagues. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1807), [08-26](https://youtu.be/sTtFUy7IoJI?t=1177))
+- His shooting percentages swing from season to season and are hard to trust. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=599), [06-23](https://youtu.be/9tb1ARBEmQU?t=653))
+- He gives little on defense. His blocks are poor and his steals are average. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1177), [07-13](https://youtu.be/Rqb5GdrSweY?t=1296), stats)
+- He shot 32% from three in Minnesota and was treated as a non-shooter. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1094))
+- He shoots about 48% from the field and 80% from the line, so his percentages are close to neutral. (fact, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=1296), stats)
 
 **Tags**
-- Current: `new team` (Traded from Minnesota to Brooklyn in the Nic Claxton trade), `role up` (Usage expected to rise from about 27 to about 30, with more assists, but minutes may drop to about 32), `shutdown risk` (May sit some games in March so young players get time), `sleeper` (Featured as a sleeper; ESPN rank 86 called great value, can be top 50 again), `sites disagree on price` (Yahoo value 14 USD vs ESPN value 3 USD; ranks 73 vs 86), `bottom team` (Brooklyn projected around 28 wins), `many back-to-backs` (16 back-to-backs, tied for most in the league), `shared ball handling` (Coach Jordi Fernandez wants multiple ball handlers; Randle handles the ball a lot)
-- Durable: `points league player` (42nd in points leagues vs 48th in category leagues last season), `high TO` (About 3 turnovers per game), `punt TO fit` (TO is his only weak category), `AST from a big` (About 5 assists per game as a forward and the Nets' main on-ball creator), `streaky` (Shooting percentages are volatile)
+- Current: `new team` (Traded from Minnesota to Brooklyn in the Nic Claxton trade), `role up` (Usage expected to rise from about 27 to about 30, but minutes to drop to about 32), `shutdown risk` (May sit some March games so young players get time), `minutes competition` (Noah Clowney and Josh Minott may get frontcourt minutes), `bottom team` (About 28 wins projected), `many back-to-backs` (16 back-to-backs, tied for most in the league), `bad playoff schedule` (Only 10 games in weeks 19 to 21 (3-4-3), one back-to-back), `sleeper` (ESPN rank 86 called great value), `sites disagree on price` (Yahoo value 15 USD, ESPN value 4 USD)
+- Durable: `points league player`, `high TO` (About 3 turnovers per game), `punt TO fit`, `AST from a big` (About 5 assists per game as a forward), `streaky` (Shooting percentages are volatile)
 
-**Note.** Randle is a points, rebounds and assists forward who costs you in turnovers (TO z -1.8). That makes him a natural fit for punt TO builds. He does not hurt you in FG% or FT% on average, but they swing a lot. His market sits around rank 73 to 86, and average costs are about 8 USD on both sites. Our league paid 10 USD last season and an expert mock went to 15 USD, so 10 to 14 USD is a fair range. Early in the season, check whether he really gets about 30% usage in about 32 minutes. Brooklyn may rest him in March, which would cut into our weeks 19 to 21, so consider trading him before the 2027-03-04 deadline.
+**Note.** Randle is a mid-round forward who gives points, rebounds and guard-like assists with neutral percentages. He costs you turnovers and defense, so he fits punt TO builds best. The experts rank him around 55 to 75 in category leagues, which matches his Yahoo rank of 71 and the 10 USD he cost in our league last season. Aim for about 10 to 12 USD and stop near the 15 USD he went for in the mock. Early on, check whether his usage really rises toward 30 and whether his minutes hold near 32. Plan for missed games in March and a thin 10-game playoff schedule.
 
-<sub>23 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>23 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

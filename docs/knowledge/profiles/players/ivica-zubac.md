@@ -3,7 +3,7 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, ESPN | 69 | 30.0 | 62.4 (9.9) | 69.4 (2.8) | 0.0 | 14.3 | 10.9 | 2.1 | 0.5 | 1.1 | 1.5 |
+| 2026-27 proj, ESPN | 69 | 31.1 | 62.3 (10.3) | 69.5 (2.9) | 0.0 | 14.9 | 11.3 | 2.2 | 0.5 | 1.1 | 1.6 |
 | 2026-27 proj, Yahoo | 72 | - | 61.8 (10.2) | 68.8 (2.8) | 0.0 | 14.5 | 11.0 | 2.2 | 0.5 | 1.0 | 1.6 |
 | 2025-26 | 48 | 30.2 | 59.8 (10.0) | 71.1 (3.0) | 0.0 | 14.1 | 10.6 | 2.2 | 0.4 | 0.8 | 1.8 |
 | 2024-25 | 80 | 32.8 | 62.8 (11.8) | 66.1 (3.0) | 0.0 | 16.8 | 12.6 | 2.7 | 0.7 | 1.1 | 1.6 |
@@ -11,51 +11,51 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 18 | 8.2 | 57 | 4 | 3.5 | 81 | 20 |
+| 2026-27 | 18 | 6.7 | 54 | 5 | 4.8 | 75 | 20 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 62.1% | +2.6 | +1.4 | league outlier, strong |
-| FT% | 69.1% | -1.1 | -0.3 | - |
+| FT% | 69.2% | -1.1 | -0.3 | - |
 | 3PM | 0.0 | -1.7 | -1.1 | league outlier, weak, weak for his position (punt fit) |
-| PTS | 14.4 | +0.1 | +0.3 | - |
-| REB | 10.9 | +2.5 | +1.5 | league outlier, strong |
+| PTS | 14.7 | +0.1 | +0.3 | - |
+| REB | 11.2 | +2.5 | +1.5 | league outlier, strong |
 | AST | 2.2 | -0.5 | -0.1 | - |
 | STL | 0.5 | -1.3 | -1.1 | weak for his position (punt fit) |
 | BLK | 1.1 | +1.0 | -0.0 | - |
-| TO | 1.5 | +0.2 | -0.0 | - |
+| TO | 1.6 | +0.1 | -0.1 | - |
 
 </details>
 
 **Current**
-- In an auction mock, Josh would pay 11 or 12 USD for him and 14 USD at most. He went for 16 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1729))
-- Zubac is in Indiana's projected starting five with Haliburton, Nembhard, Nesmith and Siakam. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=238), [08-10](https://youtu.be/sfCe7fS9daM?t=443))
-- Jay Huff is the backup center. The depth behind Huff is weak (Larry Nance Jr. or Kobe Brown). (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1884), [10-01](https://youtu.be/EGdhmUgPAWY?t=233), [09-14](https://youtu.be/t4n9MAP2_14?t=1530), [07-20](https://youtu.be/-KS_AZjZnw4?t=1526), [08-10](https://youtu.be/sfCe7fS9daM?t=1211))
-- Minutes are the main concern. Rick Carlisle has a history of limiting starting center minutes, and Huff is a decent backup, so expect around 30 minutes. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=233), [10-01](https://youtu.be/EGdhmUgPAWY?t=897), [10-01](https://youtu.be/EGdhmUgPAWY?t=170), [09-14](https://youtu.be/t4n9MAP2_14?t=1530), [09-14](https://youtu.be/t4n9MAP2_14?t=1534), [08-10](https://youtu.be/sfCe7fS9daM?t=1211), [08-10](https://youtu.be/sfCe7fS9daM?t=1146))
-- He should be much better after a disappointing season, because he runs pick and roll with Tyrese Haliburton. (verdict, 2026-10-01; [09-21](https://youtu.be/egRrai3Ax38?t=1700), [10-01](https://youtu.be/EGdhmUgPAWY?t=897), [09-14](https://youtu.be/t4n9MAP2_14?t=1530), [07-20](https://youtu.be/-KS_AZjZnw4?t=1484))
-- He missed time last season with a fractured rib and an ankle injury, and played only six games for Indiana after he arrived. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1958), [07-20](https://youtu.be/-KS_AZjZnw4?t=1501))
-- The fractured rib from last season is no concern at all. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1958))
-- Yahoo's rank of 57 is too aggressive for category leagues. His ESPN ADP of 95 is attractive. The expert ranks him 60 to 75 in category leagues. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=842), [10-01](https://youtu.be/EGdhmUgPAWY?t=849))
-- He is the expert's best target on the Pacers, depending on the platform price. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1836))
-- Indiana plays 3-4-3 games in our fantasy playoff weeks (season ending March 28), which is not ideal. The team has 15 back-to-backs. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034))
-- Carlisle likes to keep minutes down and rest players on back-to-backs. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=870), [10-01](https://youtu.be/EGdhmUgPAWY?t=122), [09-22](https://youtu.be/QbdrhJd7LiA?t=264))
-- His fit is a question. He comes from a very slow Clippers team into an uptempo system that needs quicker decisions. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1373))
-- Indiana is projected to win 46 to 48 games. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1611), [08-10](https://youtu.be/sfCe7fS9daM?t=1748), [07-20](https://youtu.be/-KS_AZjZnw4?t=1526))
+- His minutes are the main concern. Carlisle keeps center minutes down and Huff is a capable backup, so the experts expect about 30 minutes, not more. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=2632), [10-01](https://youtu.be/EGdhmUgPAWY?t=233), [10-01](https://youtu.be/EGdhmUgPAWY?t=897), [09-14](https://youtu.be/t4n9MAP2_14?t=1530), [08-10](https://youtu.be/sfCe7fS9daM?t=1211))
+- Experts disagree on a bounce-back. Some expect him to be much better running pick and roll with Haliburton. Josh doubts he returns to his top 30 form because of the minutes cap. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=2632), [09-21](https://youtu.be/egRrai3Ax38?t=1700), [10-01](https://youtu.be/EGdhmUgPAWY?t=897), [09-14](https://youtu.be/t4n9MAP2_14?t=1530))
+- In an auction, Josh would pay 11 or 12 USD, 14 USD at most. He went for 16 USD in that mock. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1729))
+- He is the projected starting center in a lineup of Haliburton, Nembhard, Nesmith, Siakam and Zubac. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=238), [08-10](https://youtu.be/sfCe7fS9daM?t=443))
+- Jay Huff is the backup center. The depth behind Huff is weak (Larry Nance Jr. or Kobe Brown). (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=233), [10-01](https://youtu.be/EGdhmUgPAWY?t=1308), [10-01](https://youtu.be/EGdhmUgPAWY?t=1884), [09-14](https://youtu.be/t4n9MAP2_14?t=1530), [08-10](https://youtu.be/sfCe7fS9daM?t=1211), [07-20](https://youtu.be/-KS_AZjZnw4?t=1526))
+- He missed time last season with a fractured rib and an ankle injury, and played only six games for Indiana. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1958), [07-20](https://youtu.be/-KS_AZjZnw4?t=1501))
+- The fractured rib from last season is no concern for this season. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1958))
+- Ranked 60 to 75 in category leagues. Yahoo's rank is too aggressive for categories, and his ESPN ADP around 95 is good value. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=842), [10-01](https://youtu.be/EGdhmUgPAWY?t=849))
+- He is the best fantasy target on the Pacers, depending on the platform price. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1836))
+- Indiana plays 3, 4 and 3 games in our fantasy playoff weeks, which is not ideal, and has 15 back-to-backs. Carlisle rests players on back-to-backs. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034), [09-16](https://youtu.be/2A2JbUN-kc0?t=870))
+- His fit is a question: he moves from a very slow team into an uptempo system that needs quicker decisions. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1373))
+- Indiana is projected to win 46 to 48 games and finish as a top-six seed in the East. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1611), [08-10](https://youtu.be/sfCe7fS9daM?t=1748), [07-20](https://youtu.be/-KS_AZjZnw4?t=1526), [07-30](https://youtu.be/TiiaNZCJNs8?t=2050))
 
 **Durable**
-- High FG% on solid volume and big rebound numbers are his standout categories. (fact, 2026-10-05; stats, [08-10](https://youtu.be/sfCe7fS9daM?t=1061))
-- His steals are low for a center. (fact, 2026-10-05; stats)
-- His minutes usually sit around 29 to 30. He played 33 minutes only once, and his production exploded that year. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=192))
-- He is an elite rebounder and screener, and a strong post-up player. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1061), [08-10](https://youtu.be/sfCe7fS9daM?t=1114))
-- He almost never shoots threes, so he gives nothing in 3PM. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=524), stats)
-- His high 9-cat rank in his best season overstated his real value. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1598))
+- FG% and rebounds are his big strengths. He clearly lifts a team's FG% on solid volume. (fact, 2026-10-11; stats)
+- Threes and steals are his weak categories. (fact, 2026-10-11; stats)
+- His minutes usually sit around 29 to 30. He played 33 minutes only once, and his production exploded that season. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=192))
+- An elite rebounder and screener, the best rebounder the Pacers have had since Domantas Sabonis. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1061))
+- A strong post-up player, the best the Pacers have had since Sabonis. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1114))
+- He almost never shoots threes. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=524), stats)
+- His 35th place 9-cat rank in 2024-25 overstated his real value. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1598))
 
 **Tags**
-- Current: `minutes limit` (Carlisle limits starting center minutes; around 30 expected), `bounce-back` (pick and roll with Haliburton), `injury last season` (fractured rib and ankle; 48 games), `expert target` (best Pacers target at ESPN price (ADP 95)), `sites disagree on price` (Yahoo value 18 USD, rank 57; ESPN value 4 USD, rank 81), `back-to-back risk` (Carlisle rests players on back-to-backs), `bad playoff schedule` (3-4-3 games for a March 28 end), `winning team` (46 to 48 wins projected)
-- Durable: `FG% anchor` (about 62% on about 10 attempts), `REB specialist` (about 11 rebounds projected), `no 3PM`, `punt 3PM fit`, `punt STL fit`, `9-cat fluff`
+- Current: `minutes limit` (Carlisle keeps center minutes around 30; Huff is the backup), `bounce-back` (experts disagree; Josh doubts a return to top 30 form), `injury last season` (fractured rib and ankle injury; no concern now), `expert target` (best Pacers target; good value at ESPN ADP around 95, Yahoo rank too high), `sites disagree on price` (Yahoo value 18 USD, rank 54; ESPN value 5 USD, rank 75), `winning team` (46 to 48 wins projected), `bad playoff schedule` (3-4-3 games in weeks 19 to 21 with a March 28 end), `back-to-back risk` (Carlisle rests players on back-to-backs; 15 back-to-backs)
+- Durable: `FG% anchor` (62% FG on about 10 attempts), `REB specialist` (about 11 rebounds projected), `no 3PM`, `punt 3PM fit`, `punt STL fit`, `9-cat fluff` (2024-25 rank of 35 overstated his value)
 
-**Note.** Zubac is a FG% and rebounds center with zero threes and few steals. That makes him a natural fit for punt 3PM builds, and his FT% (about 69% on under 3 attempts) does little damage. Yahoo values him at 18 USD and our league paid 20 USD last year, but ESPN has him at 4 USD and the experts rank him 60 to 75 in categories. Josh caps him at 14 USD after he went for 16 USD in a mock, so aim for about 10 to 14 USD. Early in the season, check whether Carlisle gives him more than 30 minutes or splits more time with Jay Huff, since his one 33-minute season was his big one.
+**Note.** Zubac gives you elite FG% and rebounds (z +2.6 and +2.5) with no threes and few steals. That makes him a natural fit for punt 3PM and punt STL builds, and his low FT% volume (2.8 attempts) does little damage. Prices range from 5 USD at ESPN to 18 USD at Yahoo, and our league paid 20 USD last season. The experts cap him at about 14 USD and rank him 60 to 75 in categories, so aim for 10 to 14 USD and let someone else pay 20 USD. Early in the season, watch whether Carlisle gives him more than 30 minutes and how the minutes split with Huff. Also note that Indiana plays only 3, 4 and 3 games in our playoff weeks.
 
-<sub>21 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>22 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

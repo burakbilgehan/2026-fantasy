@@ -2,7 +2,9 @@
 
 Read from the `__NEXT_DATA__` JSON of https://www.nba.com/players (verified
 2026-10-04, 620 players). cdn.nba.com JSON is blocked from this machine (403,
-verified 2026-10-04). stats.nba.com opens only with curl_cffi (see nba_stats.py)
+verified 2026-10-04). Since 2026-10-07 the page also refuses plain httpx (403),
+so it is fetched with curl_cffi and a Chrome TLS fingerprint (verified 2026-10-11,
+622 players). stats.nba.com opens only with curl_cffi too (see nba_stats.py)
 and has no roster list, so this page is the id source.
 Free agents are not on the page. Raw copies in data/raw/nba/.
 """
@@ -10,16 +12,10 @@ Free agents are not on the page. Raw copies in data/raw/nba/.
 import json
 import re
 
-import httpx
-
 from app.sources.players.base import SourcePlayer, save_raw
 from app.sources.teams import canonical
 
 URL = "https://www.nba.com/players"
-USER_AGENT = (
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
-    "(KHTML, like Gecko) Chrome/130.0 Safari/537.36"
-)
 MIN_PLAYERS = 300  # 30 rosters; the page had 620 on 2026-10-04
 _NEXT_DATA = re.compile(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', re.S)
 
@@ -29,9 +25,10 @@ class NbaIndex:
     label = "NBA.com"
     provides = ("ids",)
 
-    def fetch(self, http: httpx.Client | None = None) -> str:
-        http = http or httpx.Client(timeout=30, follow_redirects=True)
-        resp = http.get(URL, headers={"User-Agent": USER_AGENT})
+    def fetch(self) -> str:
+        from curl_cffi import requests
+
+        resp = requests.get(URL, impersonate="chrome", timeout=60)
         resp.raise_for_status()
         save_raw(self.key, resp.text, suffix="html")
         return resp.text

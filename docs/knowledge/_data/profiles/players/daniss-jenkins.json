@@ -8,30 +8,39 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "5a60ac6b2335",
+ "input_sha": "4e5e450248a3",
  "note_count": 3,
- "built_at": "2026-10-05T19:45:43+00:00",
+ "built_at": "2026-10-11T09:14:38+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1711972,
-  "duration_ms": 32119,
-  "turns": 3,
+  "cost_usd_list": 0.1393422,
+  "duration_ms": 33905,
+  "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He comes off the Detroit bench. The projected rotation has Isaiah Joe as sixth man, then Ron Holland, Paul Reed and Jenkins, behind an unchanged starting five led by Cade Cunningham.",
+   "text": "He is not in Detroit's projected starting five. That group is Cunningham, Robinson, Thompson, Collins and Duren.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
     "_O9pc_u5vH0:t0",
+    "gJUBAJaHzlU:p29"
+   ]
+  },
+  {
+   "text": "He is projected as a bench guard. Isaiah Joe is the sixth man, followed by Ron Holland, Paul Reed and Jenkins.",
+   "kind": "fact",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
     "_O9pc_u5vH0:t4"
    ]
   },
   {
-   "text": "When Cunningham was out over the final 16 games of last season, Jenkins played 31 minutes a night.",
+   "text": "Cade Cunningham missed the final 16 games last season, and Jenkins played 31 minutes a game in that stretch.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
@@ -40,8 +49,26 @@
    ]
   },
   {
-   "text": "Detroit lost creation with Tobias Harris and has few creators besides Cunningham, so the team may need Jenkins as a second ball handler.",
-   "kind": "fact",
+   "text": "He has the best category upside on Detroit's bench. The expert says he is draftable in 16-team leagues.",
+   "kind": "verdict",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:p29"
+   ]
+  },
+  {
+   "text": "He is a late-round swing in case he gets a 26-minute role. That needs either Bickerstaff to change the rotation or a Cunningham injury.",
+   "kind": "verdict",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:p30"
+   ]
+  },
+  {
+   "text": "Detroit lost creation when Tobias Harris left and has few creators besides Cunningham. The team may need Jenkins as another ball handler.",
+   "kind": "verdict",
    "date": "2026-10-03",
    "until": "",
    "sources": [
@@ -50,32 +77,42 @@
    ]
   },
   {
-   "text": "He has the best category upside on the Detroit bench. The expert calls him draftable in 16-team leagues and a late-round swing in case he gets a 26-minute role.",
-   "kind": "verdict",
-   "date": "2026-10-03",
+   "text": "Last season Detroit used a deep 12 to 13 player rotation that limited everyone's minutes.",
+   "kind": "fact",
+   "date": "2026-08-12",
    "until": "",
    "sources": [
-    "_O9pc_u5vH0:p29",
-    "_O9pc_u5vH0:p30"
+    "p9XE5jFqhvs:t2"
    ]
   },
   {
-   "text": "A bigger role depends on Bickerstaff changing the rotation or on a Cunningham injury. The experts do not expect him to start.",
-   "kind": "verdict",
+   "text": "Detroit's playoff schedule is 4-3-4 games in weeks 19 to 21 for a March 28 end. The team has 15 back-to-backs, and no rest risks are expected.",
+   "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
-    "_O9pc_u5vH0:p30",
-    "gJUBAJaHzlU:p29"
+    "_O9pc_u5vH0:t6"
    ]
   }
  ],
- "durable": [],
+ "durable": [
+  {
+   "text": "He is a ball handler who can create for others. Assists are his main fantasy category.",
+   "kind": "fact",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:t2",
+    "ME-r173X5b0:t2",
+    "stats"
+   ]
+  }
+ ],
  "tags": [
   {
    "name": "handcuff",
    "channel": "current",
-   "detail": "Backup ball handler behind Cade Cunningham. He played 31 minutes a night when Cunningham was out late last season.",
+   "detail": "Backup to Cade Cunningham; played 31 minutes a game when Cunningham missed the final 16 games last season",
    "until": "",
    "sources": [
     "_O9pc_u5vH0:p29",
@@ -86,7 +123,7 @@
   {
    "name": "flyer",
    "channel": "current",
-   "detail": "Late-round swing if he gets a 26-minute role",
+   "detail": "Late-round swing if he reaches a 26-minute role",
    "until": "",
    "sources": [
     "_O9pc_u5vH0:p30",
@@ -97,7 +134,7 @@
   {
    "name": "waiver watch",
    "channel": "current",
-   "detail": "Called draftable in 16-team leagues. Yahoo rank 167 is outside our 144 drafted players.",
+   "detail": "Expert calls him draftable in 16-team leagues; Yahoo rank 184 is outside our 144 drafted players",
    "until": "",
    "sources": [
     "_O9pc_u5vH0:p29",
@@ -106,36 +143,17 @@
    "new_meaning": ""
   },
   {
-   "name": "minutes competition",
+   "name": "deep rotation",
    "channel": "current",
-   "detail": "Bench guard behind Isaiah Joe and Ron Holland in the projected rotation",
+   "detail": "Detroit used a 12 to 13 player rotation last season; he is fourth off the projected bench",
    "until": "",
    "sources": [
+    "p9XE5jFqhvs:t2",
     "_O9pc_u5vH0:t4"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "winning team",
-   "channel": "current",
-   "detail": "Projected at 50 to 51 wins and a third or fourth seed in the East",
-   "until": "",
-   "sources": [
-    "p9XE5jFqhvs:t3"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "defense-first",
-   "channel": "durable",
-   "detail": "Detroit is built on defense and only wants enough offense",
-   "until": "",
-   "sources": [
-    "p9XE5jFqhvs:t1"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Yahoo ranks him 167th with a value of 0 USD. He was not drafted in our league last season, so he sits outside our 144-player draft and is a waiver name, not an auction target. His 20-minute line last season (40.8 FG% on 7.9 attempts, 3.9 assists) gives little in 9-cat, so his value depends on minutes. Early in the season, check whether Bickerstaff gives him about 26 minutes as a second ball handler, and grab him at once if Cunningham misses time.",
+ "note": "Yahoo values him at 0 USD and ranks him 184th. ESPN has no price, and nobody drafted him in our league last season. He should go undrafted in our 144-player auction, so do not spend on him. Yahoo projects only 0.7 turnovers a game against 1.6 last season, so his strong TO number in the category profile is probably not real, and his 40.8 FG% last season was a drag. Watch him on waivers early. Add him right away if Cunningham gets hurt or if Bickerstaff gives him 26 or more minutes as a second ball handler.",
  "rejected": []
 }

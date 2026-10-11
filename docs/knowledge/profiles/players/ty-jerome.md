@@ -3,7 +3,7 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, ESPN | 64 | 25.8 | 48.9 (14.3) | 87.4 (3.6) | 2.7 | 19.8 | 3.2 | 5.6 | 1.3 | 0.2 | 1.9 |
+| 2026-27 proj, ESPN | 64 | 26.7 | 48.8 (14.8) | 87.3 (3.7) | 2.8 | 20.5 | 3.3 | 5.8 | 1.4 | 0.2 | 2.0 |
 | 2026-27 proj, Yahoo | 67 | - | 49.4 (12.1) | 87.4 (3.1) | 2.6 | 17.2 | 3.5 | 6.2 | 1.3 | 0.1 | 2.0 |
 | 2025-26 | 15 | 22.7 | 47.4 (14.3) | 87.5 (3.7) | 2.8 | 19.7 | 2.8 | 5.7 | 1.1 | 0.3 | 1.8 |
 | 2024-25 | 70 | 19.9 | 51.6 (8.8) | 87.2 (2.1) | 1.6 | 12.5 | 2.5 | 3.4 | 1.1 | 0.0 | 1.3 |
@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 2 | 2.0 | 114 | 5 | 2.7 | 72 | not drafted |
+| 2026-27 | 8 | 1.4 | 88 | 8 | 4.5 | 58 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,37 +19,39 @@
 |---|---|---|---|---|
 | FG% | 49.1% | +0.3 | +1.1 | - |
 | FT% | 87.4% | +1.1 | +0.9 | - |
-| 3PM | 2.6 | +1.3 | +1.0 | - |
-| PTS | 18.5 | +0.8 | +0.7 | - |
-| REB | 3.3 | -0.7 | -0.3 | - |
-| AST | 5.9 | +1.4 | +1.0 | - |
-| STL | 1.3 | +1.1 | +0.7 | - |
+| 3PM | 2.7 | +1.3 | +1.0 | - |
+| PTS | 18.8 | +0.8 | +0.7 | - |
+| REB | 3.4 | -0.7 | -0.3 | - |
+| AST | 6.0 | +1.5 | +1.1 | - |
+| STL | 1.3 | +1.2 | +0.9 | - |
 | BLK | 0.2 | -0.9 | -1.0 | - |
-| TO | 1.9 | -0.4 | -0.2 | - |
+| TO | 2.0 | -0.4 | -0.2 | - |
 
 </details>
 
 **Current**
-- Most experts expect him to start at point guard, and Josh says he will easily win the job. One note says it is not even clear he will play starter minutes. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1457), [09-10](https://youtu.be/W-R1dzem32s?t=1738), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1667), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483), [07-17](https://youtu.be/NYTH7uQsPCM?t=1737), [06-30](https://youtu.be/4GDfg2n2l8o?t=478), [06-29](https://youtu.be/bHA-JoW3reE?t=872), [09-22](https://youtu.be/QbdrhJd7LiA?t=1708))
-- His Yahoo ADP keeps falling because drafters seem to think Scotty Pippen Jr. will start. The expert sees no reason for that. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1457))
-- His 2025-26 line came on a usage rate of about 30 to 33 and about 70% true shooting. He played about two games a week with heavy rest, on a Memphis team that tanked late in the season. (fact, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1708), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1633), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1808), [09-09](https://youtu.be/7BllEsdNLoM?t=2008), [08-17](https://youtu.be/LcZcvk8s1xQ?t=890))
-- Experts do not expect last season's usage or per game line to repeat. His numbers should be scaled back. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1708), [09-10](https://youtu.be/W-R1dzem32s?t=1738), [09-09](https://youtu.be/7BllEsdNLoM?t=2008), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1808), [07-17](https://youtu.be/NYTH7uQsPCM?t=1737), [06-29](https://youtu.be/bHA-JoW3reE?t=872))
-- ESPN's rank of 72 is too high and removes all of his upside. (verdict, 2026-09-22; [09-19](https://youtu.be/uarqbNA2dFk?t=2395), [09-22](https://youtu.be/QbdrhJd7LiA?t=1708))
-- He is a tier 7 point guard in both formats. Josh calls him a solid enough fantasy piece. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2008), [08-17](https://youtu.be/LcZcvk8s1xQ?t=2081))
-- Joe projects about 27 to 28 minutes a game. Coach Iisalo runs an 11-man rotation with short stints and keeps minutes down, so only Cameron Boozer and Cedric Coward are expected to top 30 minutes. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1667), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
-- Experts disagree on his efficiency. Joe thinks it could rise as his usage drops. Others say it is unproven over 30 minutes and that his 70% potential assist conversion (52% in Cleveland) is unlikely to last. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1808), [06-29](https://youtu.be/bHA-JoW3reE?t=872), [07-17](https://youtu.be/NYTH7uQsPCM?t=1737))
-- Memphis traded Ja Morant to Portland. This opened the starting point guard job in Memphis. (fact, 2026-07-17; [06-29](https://youtu.be/bHA-JoW3reE?t=872), [06-30](https://youtu.be/4GDfg2n2l8o?t=478), [06-30](https://youtu.be/4GDfg2n2l8o?t=460), [07-17](https://youtu.be/NYTH7uQsPCM?t=1672))
-- The Memphis guard group is crowded. Javon Small, Scotty Pippen Jr., Campazzo and Cam Spencer also compete for guard minutes. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=557))
+- Experts disagree on his price. Lloyd calls him one of the best sleepers and the best target on Memphis, is happy to take him in the 70s or 80s, and still sees value at Yahoo rank 88. Others say ESPN's price removes the upside and that a top 13 ESPN ranking is far too high even with 30 minutes. (verdict, 2026-10-09; [10-07](https://youtu.be/lp11OAEpq4Y?t=1007), [10-08](https://youtu.be/6DnRWahYrFA?t=1797), [10-09](https://youtu.be/-DN4P92Wp8Y?t=449), [09-19](https://youtu.be/uarqbNA2dFk?t=2395), [09-22](https://youtu.be/QbdrhJd7LiA?t=1708))
+- Ja Morant was traded to Portland. Jerome started both of Memphis's preseason games at point guard. (fact, 2026-10-08; [06-29](https://youtu.be/bHA-JoW3reE?t=872), [07-17](https://youtu.be/NYTH7uQsPCM?t=1737), [10-08](https://youtu.be/6DnRWahYrFA?t=1797), [10-08](https://youtu.be/6DnRWahYrFA?t=1780))
+- In preseason he shot 50% on about 32% usage, but in only about 17 minutes a game. (fact, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1797))
+- Experts expect him to be Memphis's starting point guard. Projected starters are Jerome, Cedric Coward, Jerami Grant, Cameron Boozer and Zach Edey, with Scotty Pippen Jr. on the bench. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=867), [10-07](https://youtu.be/lp11OAEpq4Y?t=1812), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1667), [09-10](https://youtu.be/W-R1dzem32s?t=1738), [06-30](https://youtu.be/4GDfg2n2l8o?t=478), [09-30](https://youtu.be/BjXP9JODDSg?t=1457))
+- He should play more than last season's 23 minutes. One projection is 27 to 28 minutes a game. Coach Tuomas Iisalo uses short stints, keeps minutes down and runs an 11 or 12 man rotation, and only Boozer and Coward are expected to top 30 minutes. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=943), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1667), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159), [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [10-07](https://youtu.be/lp11OAEpq4Y?t=296))
+- Last season's per-game line came with about 30 to 33% usage, about 70% true shooting and heavy rest on a team that was not trying to win. Experts expect his usage to drop clearly and his efficiency to fall. His 70% potential assist conversion is also unlikely to last. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=943), [09-22](https://youtu.be/QbdrhJd7LiA?t=1708), [09-09](https://youtu.be/7BllEsdNLoM?t=2008), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1633), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1808), [07-17](https://youtu.be/NYTH7uQsPCM?t=1737), [06-29](https://youtu.be/bHA-JoW3reE?t=872))
+- He is healthy now. A calf injury cost him about three months last season, and his late-season missed games were tank rest. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1912))
+- His value drops sharply if he comes off the bench for about 20 minutes. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1007))
+- At 29 he does not fit Memphis's young core, and the team could move off him. Memphis has three 2027 first-round picks to use in trades. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=419), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1472))
+- Memphis has a 4-4-4 schedule in weeks 19 to 21 and only 13 back-to-backs, possibly the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1987))
+- Iisalo plays at a very high pace. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033))
 
 **Durable**
-- Injuries ruined two of his last three seasons. (fact, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=2451), stats)
+- He is roughly a 40 to 41% three-point shooter, not a 44% one. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=969))
+- Injuries ruined two of his last three seasons, including about three months lost to a calf injury last season. (fact, 2026-10-07; [09-15](https://youtu.be/KPdD91Oo8-U?t=2451), [10-07](https://youtu.be/lp11OAEpq4Y?t=1912))
 - He is a better category-league player than points-league player. (verdict, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=1682))
 - He is an efficient scorer with an underrated handle and elite feel for angles, despite below-average athleticism. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1728))
 
 **Tags**
-- Current: `minutes competition` (Scotty Pippen Jr., Javon Small, Campazzo and Cam Spencer in a crowded guard group. Some drafters think Pippen Jr. will start.), `role up` (Expected starting point guard after the Morant trade, with about 27 to 28 minutes projected. His usage is expected to drop from last season.), `injury last season` (Played only 15 games in 2025-26), `bust candidate` (At ESPN rank 72), `sites disagree on price` (Yahoo rank 114 and 2 USD, ESPN rank 72 and 5 USD)
-- Durable: `injury prone` (Injuries ruined two of his last three seasons), `fits every build` (No category flagged weak)
+- Current: `injury last season` (Calf injury cost about three months; played 15 games), `role up` (Starting point guard with Morant gone and more minutes, but usage expected to drop), `regression risk` (About 70% true shooting and 30%+ usage last season not expected to repeat), `sleeper` (Lloyd: Yahoo ADP around 115 is far too low; take him in the 70s or 80s), `expert target` (Lloyd calls him the best target on Memphis and still sees value at Yahoo rank 88), `bust candidate` (At ESPN's price; a top 13 ESPN ranking is called far too high), `sites disagree on price` (Yahoo rank 88 and average cost 1.4 USD vs ESPN rank 58 and average cost 4.5 USD), `trade risk` (At 29 he does not fit the young core), `trades likely` (Three 2027 first-round picks give Memphis room to trade), `low starter minutes` (Iisalo keeps minutes down with short stints; only Boozer and Coward expected above 30 minutes), `deep rotation` (11 or 12 man rotation expected), `fast pace` (Iisalo plays at a very high pace), `good playoff schedule` (4-4-4 in weeks 19 to 21), `few back-to-backs` (Only 13 back-to-backs, possibly the fewest in the league)
+- Durable: `fits every build` (No weak category flagged. Projected strengths are AST, 3PM, STL and FT% for a guard.), `category league player`, `injury prone` (Two of his last three seasons ruined by injury, including a calf injury last season)
 
-**Note.** At Yahoo rank 114 and 2 USD he sits inside our 144-player pool. He is a late, cheap guard who helps FT%, 3PM, AST and STL and fits any build. ESPN's rank 72 (5 USD) is too rich given that his 2025-26 usage and 15-game sample will not repeat. Early in the season, check that he starts ahead of Pippen Jr., gets the projected 27 to 28 minutes in Iisalo's 11-man rotation and stays healthy.
+**Note.** Both sites value him at 8 USD. Yahoo drafters pay only 1.4 USD at rank 88, while ESPN has him at rank 58. That is mid-round value in our 144-player pool. He has no weak category and projects to help AST, 3PM, STL and FT%, so he fits any build, and Memphis's 4-4-4 playoff schedule is a bonus. Bid up to about his 8 USD value, not ESPN-level hype. Early in the season, check that he holds the starting job, reaches 27 or more minutes under Iisalo's short stints, and keeps his efficiency as his usage falls from last season's 30% or more.
 
-<sub>15 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>22 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

@@ -10,38 +10,40 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 282 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 281 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 51.5% | +0.4 | -0.4 | - |
+| FG% | 51.5% | +0.4 | -0.5 | - |
 | FT% | 81.6% | +0.1 | +0.8 | - |
 | 3PM | 0.8 | -0.8 | -0.0 | - |
-| PTS | 8.5 | -0.9 | -0.8 | - |
+| PTS | 8.5 | -1.0 | -0.8 | - |
 | REB | 4.7 | -0.2 | -1.2 | - |
 | AST | 1.1 | -1.1 | -0.8 | - |
-| STL | 0.3 | -1.9 | -1.8 | league outlier, weak |
+| STL | 0.3 | -2.0 | -1.9 | league outlier, weak |
 | BLK | 0.2 | -0.9 | -1.6 | - |
-| TO | 0.8 | +1.1 | +1.1 | - |
+| TO | 0.8 | +1.2 | +1.1 | - |
 
 </details>
 
 **Current**
-- He is the backup center behind Onyeka Okongwu and part of a projected 10-man rotation off the bench. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1880), [08-25](https://youtu.be/H9q2FT3LhNw?t=1317), [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
-- Atlanta's center depth is thin. Veesaar is out for the season and Gueye is injured. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1693))
-- If Okongwu got hurt, Landale would start and play 30-plus minutes. That makes him the best stash on the team, but only in deep stash formats. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1880))
+- He is Atlanta's backup center behind Onyeka Okongwu and part of an expected 10-man rotation. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1880), [08-25](https://youtu.be/H9q2FT3LhNw?t=1317), [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
+- Atlanta's center depth is thin: Veesaar is out for the season and Gueye is injured. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1693))
+- If Okongwu got hurt, he would start and play 30-plus minutes. That makes him the best stash on the team, but only in deep leagues. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1880))
+- Atlanta's playoff schedule is 4-4-3 games for a March 28 end. The team has 14 back-to-backs and is not expected to rest players. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739), [07-14](https://youtu.be/xHRF06_E9HE?t=230))
 - He re-signed with Atlanta on a 1-year, 14 million USD deal. (fact, 2026-08-25; [07-01](https://youtu.be/W3THnI7wWdA?t=1289), [08-25](https://youtu.be/H9q2FT3LhNw?t=1317))
+- One expert calls him an okay backup center and questions the price of his contract. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1289))
 
 **Durable**
-- He gets very few steals, well below the top 250 pool. (fact, 2026-10-05; stats)
-- He is a center who can shoot from outside, which fits Quin Snyder's five-out offense. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1317), [08-25](https://youtu.be/H9q2FT3LhNw?t=697))
+- He gets very few steals, even for a center. (fact, 2026-10-11; stats)
+- He is a center who can shoot. With him, Atlanta always has a shooting center on the floor, which fits Quin Snyder's five-out offense. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1317), [08-25](https://youtu.be/H9q2FT3LhNw?t=697))
 
 **Tags**
-- Current: `handcuff` (Starts and plays 30-plus minutes if Onyeka Okongwu is out), `waiver watch` (Stash value in deep leagues only; add if Okongwu misses time), `contract year` (Signed a 1-year, 14 million USD deal), `deep rotation` (Projected 10-man rotation with Landale as a bench big)
-- Durable: `five-out offense` (Snyder wants five-out spacing; Landale gives Atlanta a shooting center)
+- Current: `handcuff` (Would start and play 30-plus minutes if Onyeka Okongwu got hurt), `waiver watch` (Stash value in deep leagues only; pick him up if Okongwu gets hurt), `contract year` (1-year, 14 million USD deal), `deep rotation` (Expected 10-man rotation; he is a bench big), `low shutdown risk` (Atlanta did not shut players down and is not expected to rest players)
+- Durable: `five-out offense` (Snyder wants a shooting center on the floor)
 
-**Note.** Yahoo ranks him 282nd with a 0 USD value, and he was not drafted in our league last season. He is far outside our 144-player auction, so do not draft him. His projection is thin: 0.3 steals, 0.2 blocks and 8.5 points. The 81.6% FT projection also looks generous after he shot 63.5% last season. Treat him as an Okongwu handcuff on waivers. If Okongwu misses time, use FAB on Landale, since thin center depth would give him 30-plus minutes.
+**Note.** Do not draft him in our auction. Yahoo values him at 0 USD and ranks him 281, ESPN gives no value, and his projection (8.5 PTS, 4.7 REB, 0.2 BLK, 0.3 STL) is a bench line that will go well outside the 144 players drafted. His value depends on Okongwu's health: last season he played 22.2 minutes for 10.6 PTS and 5.7 REB, and with Veesaar out and Gueye hurt, an Okongwu injury would make him a 30-minute starter worth a quick FAB bid. Early in the season, check his minutes and when Gueye returns.
 
-<sub>3 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

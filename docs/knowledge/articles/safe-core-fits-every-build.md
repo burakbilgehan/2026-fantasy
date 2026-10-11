@@ -3,139 +3,124 @@
 
 <sub>Proposed by the synthesis, not on the user's list.</sub>
 
-**Summary.** For a balanced build, skip the top-20 players and spend on wide, no-weak-category players in the 10 to 25 USD range: Trey Murphy III, Jalen Williams, Franz Wagner, De'Aaron Fox and Michael Porter Jr. are good examples. Lean toward players whose value comes from points, rebounds and assists. Those categories repeat most reliably week to week. Players whose value rests on steals, blocks or percentages belong in later, cheaper slots.
+**Summary.** For the balanced build, fill your core from players ranked about 25 to 75 who have no weak category. Spend mostly in the 20 to 30 USD and 10 to 20 USD tiers, then add deep values like Ryan Rollins, Nickeil Alexander-Walker and Ty Jerome. When two players cost the same, take the one whose value comes from points, rebounds and assists over the one who relies on steals, blocks and percentages, because those counting stats repeat more reliably from week to week.
 
 ## What the balanced build asks for
 
-A balanced build skips the projected top 20 players. It puts its 11 core players roughly between ranks 25 and 75. The ceiling is lower, but the team is much safer. ([09-29](https://youtu.be/XnIWJyBB0EM?t=1793))
+The balanced build skips the projected top 20. It puts the 11 core players in roughly ranks 25 to 75. Its ceiling is lower, but it is much safer. In our auction, that means not chasing the 60 USD and higher stars. Spread the money over many mid-priced players instead. ([09-29](https://youtu.be/XnIWJyBB0EM?t=1793))
 
-The safety is concrete. If your best player is the 30th best in the league and he gets hurt, a waiver replacement is close. If your best player is a top-five star, no waiver player comes close. With 144 players drafted, a 12-team waiver pool still holds useful mid-ranked players. ([09-29](https://youtu.be/XnIWJyBB0EM?t=1809))
+The safety comes from replacement. If your best player gets hurt, replacing a 30th-ranked player from waivers is much easier than replacing Jokic. With 144 players drafted, a lot of useful players stay on waivers. Keep some FAB for that. ([09-29](https://youtu.be/XnIWJyBB0EM?t=1809))
 
-In auction dollars, the expert notes put rank 35 to 45 in the low to mid 20s USD (Jalen Williams). They put rank 70 to 80 at about 6 to 7 USD (Norman Powell). So the balanced core lives mostly between about 6 and 25 USD per player. One example split of 200 USD: four players at about 22 USD, five at about 14 USD, two at about 7 USD and one 1 USD bench player. That costs about 173 USD and leaves about 27 USD to cover bidding wars. ([09-29](https://youtu.be/XnIWJyBB0EM?t=1793), [Jalen Williams](../profiles/players/jalen-williams.md), [Norman Powell](../profiles/players/norman-powell.md))
+Every player in this article has no weak category, so none of them forces a punt. Within that group, prefer players whose strengths are points, rebounds and assists. These high-volume counting stats are the most stable from game to game. A player who wins on steals, blocks and percentages repeats his value less reliably. ([10-01](https://youtu.be/aLP080hxizA?t=2229), [09-28](https://youtu.be/3Qm5wLjhvTw?t=456))
 
-## Which categories to trust
+## Where to spend in each price range
 
-Points, rebounds and assists are the most stable categories from game to game. A player who wins with those categories is more reliable in head-to-head than one who wins with steals, blocks and percentages. When two players cost the same, take the points, rebounds and assists player. ([10-01](https://youtu.be/aLP080hxizA?t=2229), [09-28](https://youtu.be/3Qm5wLjhvTw?t=456))
+Above the balanced range, at 35 USD and up: Shai Gilgeous-Alexander and Jamal Murray fit every build. But Gilgeous-Alexander is a top-4 pick, and experts project Murray as a top 12 to 14 finish. Buying either one moves you toward a stars build. If you do buy one, keep Gilgeous-Alexander in the high 60s at most and Murray in the mid to high 30s. ([09-29](https://youtu.be/XnIWJyBB0EM?t=1793), [Shai Gilgeous-Alexander](../profiles/players/shai-gilgeous-alexander.md), [Jamal Murray](../profiles/players/jamal-murray.md))
 
-Players who combine categories that do not usually go together carry extra value. Josh Hart projects about 7.8 rebounds, 4.7 assists and 1.2 steals as a guard or forward. Cedric Coward pairs about 17 points with 6.8 rebounds and 84.7% FT. Franz Wagner gives assists for a forward. Chet Holmgren pairs blocks with rebounds and FG%. ([07-15](https://youtu.be/0geFVzSqOnA?t=1382), [Josh Hart](../profiles/players/josh-hart.md), [Cedric Coward](../profiles/players/cedric-coward.md), [Franz Wagner](../profiles/players/franz-wagner.md), [Chet Holmgren](../profiles/players/chet-holmgren.md))
+The 20 to 30 USD tier is the heart of the build. Trey Murphy III (mid-20s), Jalen Williams (20 to 25 USD), Kawhi Leonard (stay near the 24 USD cap) and Chet Holmgren (about 21 to 22 USD) all sit in or near ranks 25 to 50. Their prices hold up only at those limits. Let someone else pay 30 USD for Holmgren or 29 USD for Williams. ([Trey Murphy III](../profiles/players/trey-murphy.md), [Jalen Williams](../profiles/players/jalen-williams.md), [Kawhi Leonard](../profiles/players/kawhi-leonard.md), [Chet Holmgren](../profiles/players/chet-holmgren.md))
 
-Blocks and steals specialists still have a place, but put them in cheaper slots. Alex Sarr and Cason Wallace each get value mainly from one category, so they are left out of this list. Wide players like Matas Buzelis or OG Anunoby do lean on blocks or steals, but they bring threes too and have no weak category. ([09-28](https://youtu.be/3Qm5wLjhvTw?t=456), [Alex Sarr](../profiles/players/alex-sarr.md), [Cason Wallace](../profiles/players/cason-wallace.md), [Matas Buzelis](../profiles/players/matas-buzelis.md), [OG Anunoby](../profiles/players/og-anunoby.md))
+The 10 to 20 USD tier is where most of the 11 core spots get filled. Experts see Alexander-Walker as a top 35 to 50 player, and bids up to about 20 USD are supported. Kyrie Irving is worth high teens. Buzelis runs about 15 to 22 USD, Anunoby 15 to 18 USD and Herro 14 to 16 USD. Naz Reid, Okongwu, Wagner, Porter Jr. and Ware fit at about 10 to 15 USD. ([Nickeil Alexander-Walker](../profiles/players/nickeil-alexander-walker.md), [Kyrie Irving](../profiles/players/kyrie-irving.md), [Matas Buzelis](../profiles/players/matas-buzelis.md), [OG Anunoby](../profiles/players/og-anunoby.md), [Tyler Herro](../profiles/players/tyler-herro.md), [Naz Reid](../profiles/players/naz-reid.md), [Onyeka Okongwu](../profiles/players/onyeka-okongwu.md), [Franz Wagner](../profiles/players/franz-wagner.md), [Michael Porter Jr.](../profiles/players/michael-porter.md), [Kel'el Ware](../profiles/players/kelel-ware.md))
 
-## Price tiers in practice
+Below 10 USD you can still find rank 50 to 80 players. Rollins finished around 51st last season, and his market price is about 2 USD. Jerome, Coward, Fox, Powell, Harper and McDaniels are all fair at about 5 to 8 USD. From 1 to 4 USD, use Podziemski, Hart, Keegan Murray, Wiggins and Collins as late fillers that fit any build. ([Ryan Rollins](../profiles/players/ryan-rollins.md), [Ty Jerome](../profiles/players/ty-jerome.md), [Cedric Coward](../profiles/players/cedric-coward.md), [De'Aaron Fox](../profiles/players/deaaron-fox.md), [Norman Powell](../profiles/players/norman-powell.md), [Dylan Harper](../profiles/players/dylan-harper.md), [Jaden McDaniels](../profiles/players/jaden-mcdaniels.md), [Brandin Podziemski](../profiles/players/brandin-podziemski.md), [Josh Hart](../profiles/players/josh-hart.md), [Keegan Murray](../profiles/players/keegan-murray.md), [Andrew Wiggins](../profiles/players/andrew-wiggins.md), [John Collins](../profiles/players/john-collins.md))
 
-20 to 25 USD core: Trey Murphy III (points, threes, FT%, steals), Jalen Williams (points, assists, steals), Chet Holmgren (rebounds, blocks, FG%) and Kawhi Leonard (points, FT%, steals). Of these, Murphy and Williams have the most stable value because of their points and assists. Stop bidding near 30 USD on Murphy and Holmgren. Stop at about 24 USD on Leonard. ([Trey Murphy III](../profiles/players/trey-murphy.md), [Jalen Williams](../profiles/players/jalen-williams.md), [Chet Holmgren](../profiles/players/chet-holmgren.md), [Kawhi Leonard](../profiles/players/kawhi-leonard.md), [10-01](https://youtu.be/aLP080hxizA?t=2229))
+## Which categories are stable
 
-10 to 18 USD value: Franz Wagner (points, assists, FT%), De'Aaron Fox (assists, points, steals, under about 13 USD), Michael Porter Jr. (points, threes), Desmond Bane (points, FT%, threes), Tyler Herro (points, threes, FT%), Kyrie Irving (points, FT%, threes, high teens at most) and Nickeil Alexander-Walker (points, threes, FT%; 12 to 18 USD is a good price). This band is where the balanced build gets most of its stable points. ([Franz Wagner](../profiles/players/franz-wagner.md), [De'Aaron Fox](../profiles/players/deaaron-fox.md), [Michael Porter Jr.](../profiles/players/michael-porter.md), [Desmond Bane](../profiles/players/desmond-bane.md), [Tyler Herro](../profiles/players/tyler-herro.md), [Kyrie Irving](../profiles/players/kyrie-irving.md), [Nickeil Alexander-Walker](../profiles/players/nickeil-alexander-walker.md))
+Scoring is the most common stable strength in this group. Murphy, Leonard, Alexander-Walker, Irving, Herro, Wagner, Knueppel and Powell all help PTS. Most of them also add threes and FT%. Murray and Jalen Williams add assists to their points. ([10-01](https://youtu.be/aLP080hxizA?t=2229), [Trey Murphy III](../profiles/players/trey-murphy.md), [Kawhi Leonard](../profiles/players/kawhi-leonard.md), [Nickeil Alexander-Walker](../profiles/players/nickeil-alexander-walker.md), [Kyrie Irving](../profiles/players/kyrie-irving.md), [Tyler Herro](../profiles/players/tyler-herro.md), [Franz Wagner](../profiles/players/franz-wagner.md), [Kon Knueppel](../profiles/players/kon-knueppel.md), [Norman Powell](../profiles/players/norman-powell.md), [Jamal Murray](../profiles/players/jamal-murray.md), [Jalen Williams](../profiles/players/jalen-williams.md))
 
-4 to 8 USD fillers and 1 to 3 USD last picks: Norman Powell and CJ McCollum give points and threes. Dylan Harper and Jaden McDaniels are balanced. Josh Hart, John Collins and Cedric Coward add rebounds alongside their other categories. In the final rounds, take players whose minutes are secure over players who only look good on paper. ([Norman Powell](../profiles/players/norman-powell.md), [CJ McCollum](../profiles/players/cj-mccollum.md), [Dylan Harper](../profiles/players/dylan-harper.md), [Jaden McDaniels](../profiles/players/jaden-mcdaniels.md), [Josh Hart](../profiles/players/josh-hart.md), [John Collins](../profiles/players/john-collins.md), [Cedric Coward](../profiles/players/cedric-coward.md))
+For rebounds, Holmgren and Ware are the bigs to target, and both also help BLK and FG%. Porter Jr. adds rebounds from a forward spot. For assists, look at Rollins, Jerome, Fox and Harper at guard. Hart and Podziemski give both rebounds and assists. Those two categories are not usually linked, so combining them carries extra value. ([07-15](https://youtu.be/0geFVzSqOnA?t=1382), [Chet Holmgren](../profiles/players/chet-holmgren.md), [Kel'el Ware](../profiles/players/kelel-ware.md), [Michael Porter Jr.](../profiles/players/michael-porter.md), [Ryan Rollins](../profiles/players/ryan-rollins.md), [Ty Jerome](../profiles/players/ty-jerome.md), [De'Aaron Fox](../profiles/players/deaaron-fox.md), [Dylan Harper](../profiles/players/dylan-harper.md), [Josh Hart](../profiles/players/josh-hart.md), [Brandin Podziemski](../profiles/players/brandin-podziemski.md))
 
-## Where sites and experts disagree
+Some players have no weak category, but their value comes mostly from steals, blocks or percentages. Anunoby (steals and threes), McDaniels (blocks, steals, FG%), Buzelis (blocks and threes), Okongwu (threes and steals) and Naz Reid (threes and blocks) belong here. They still fit, but treat them as the less stable part of your core. Do not overpay for them when a points, rebounds or assists player costs the same. ([09-28](https://youtu.be/3Qm5wLjhvTw?t=456), [OG Anunoby](../profiles/players/og-anunoby.md), [Jaden McDaniels](../profiles/players/jaden-mcdaniels.md), [Matas Buzelis](../profiles/players/matas-buzelis.md), [Onyeka Okongwu](../profiles/players/onyeka-okongwu.md), [Naz Reid](../profiles/players/naz-reid.md))
 
-On several balanced players, the sites and the experts do not agree. ESPN values Mikal Bridges at 28 USD, but experts value him at about 2 USD in head-to-head because his volume is low. Yahoo values Chet Holmgren at 30 USD, while experts would pay 21 to 22 USD. Kon Knueppel costs about 15 to 16 USD on both sites, but Josh would pay no more than 8 USD. In each case, follow the expert price. Let the room overpay. ([Mikal Bridges](../profiles/players/mikal-bridges.md), [Chet Holmgren](../profiles/players/chet-holmgren.md), [Kon Knueppel](../profiles/players/kon-knueppel.md))
+## Where the sources disagree
 
-The disagreement goes the other way for Matas Buzelis, Ryan Rollins and OG Anunoby. Experts see Buzelis and Rollins near top 50 value, well above their site ranks. The latest expert puts Anunoby near 20 USD, while ESPN values him at 6 USD. Expect informed managers to bid these players up. Buzelis is still a buy under 20 USD, and Anunoby is fair at 15 to 18 USD. ([Matas Buzelis](../profiles/players/matas-buzelis.md), [Ryan Rollins](../profiles/players/ryan-rollins.md), [OG Anunoby](../profiles/players/og-anunoby.md))
+The method notes agree on the build. The disagreement is between the experts and the market. Experts say ESPN's 40 USD value for Leonard is too high and cap him at 24 USD. ESPN buyers pay only about 25 USD for Murray, while Yahoo's average cost is 39 USD. Experts put Knueppel in the 60s even though the market ranks him in the 30s and 40s. They see Holmgren in the 40s, not Yahoo's 31. On the other side, experts rank Alexander-Walker, Rollins and Irving well above what the market pays. Use the expert price caps, and treat the low market prices as your chance to buy. ([Kawhi Leonard](../profiles/players/kawhi-leonard.md), [Jamal Murray](../profiles/players/jamal-murray.md), [Kon Knueppel](../profiles/players/kon-knueppel.md), [Chet Holmgren](../profiles/players/chet-holmgren.md), [Nickeil Alexander-Walker](../profiles/players/nickeil-alexander-walker.md), [Ryan Rollins](../profiles/players/ryan-rollins.md), [Kyrie Irving](../profiles/players/kyrie-irving.md))
 
-## What to check after the draft
+## Checks before the draft and in the playoffs
 
-Several core players carry games-played risk. Kawhi Leonard is expected to play 60 to 65 games. Lauri Markkanen played 42 games last season, and Tyler Herro played 42 and 33 in two of the last three. If you own two of them, keep IL slots and some FAB ready. The balanced build only pays off if you replace missing players fast. ([Kawhi Leonard](../profiles/players/kawhi-leonard.md), [Lauri Markkanen](../profiles/players/lauri-markkanen.md), [Tyler Herro](../profiles/players/tyler-herro.md), [09-29](https://youtu.be/XnIWJyBB0EM?t=1809))
+Before 2026-10-18, check the injury tags. Look at Holmgren's quadriceps (Q), Irving's knee (Q), Buzelis's ankle (Q), Porter Jr.'s wrist (Q), Fox's Q tag, and whether Gilgeous-Alexander's Q (Rest) tag is just preseason rest. Strus is listed Out with a foot injury. ([Chet Holmgren](../profiles/players/chet-holmgren.md), [Kyrie Irving](../profiles/players/kyrie-irving.md), [Matas Buzelis](../profiles/players/matas-buzelis.md), [Michael Porter Jr.](../profiles/players/michael-porter.md), [De'Aaron Fox](../profiles/players/deaaron-fox.md), [Shai Gilgeous-Alexander](../profiles/players/shai-gilgeous-alexander.md), [Max Strus](../profiles/players/max-strus.md))
 
-Check the playoff schedule (weeks 19 to 21, ending 2027-03-28) before the trade deadline on 2027-03-04. Tyrese Haliburton and Kyrie Irving may play only 10 games across our playoff weeks: Haliburton because Indiana's schedule is 3-4-3, Irving if he keeps resting on back-to-backs. Minnesota has a two-game week in playoff week 20, which hits Jaden McDaniels and Ayo Dosunmu. ([Tyrese Haliburton](../profiles/players/tyrese-haliburton.md), [Kyrie Irving](../profiles/players/kyrie-irving.md), [Jaden McDaniels](../profiles/players/jaden-mcdaniels.md), [Ayo Dosunmu](../profiles/players/ayo-dosunmu.md))
+A balanced build also needs games played in weeks 19 to 21. Toronto has three back-to-backs in our playoff weeks, which hurts Leonard. Dallas has a league-high 16 back-to-backs, so Irving could play only 10 games in his 4-4-4 playoff schedule if he keeps resting. Memphis's 4-4-4 schedule helps Jerome and Coward. McDaniels has a two-game semifinal week, and Houston has a weak 10-game playoff schedule for Sheppard. ([Kawhi Leonard](../profiles/players/kawhi-leonard.md), [Kyrie Irving](../profiles/players/kyrie-irving.md), [Ty Jerome](../profiles/players/ty-jerome.md), [Cedric Coward](../profiles/players/cedric-coward.md), [Jaden McDaniels](../profiles/players/jaden-mcdaniels.md), [Reed Sheppard](../profiles/players/reed-sheppard.md))
+
+Over the first 30 or so games, the Knicks plan to limit starter minutes. Track Anunoby, Hart and Bridges. Watch trade news before the 2027-03-04 deadline for Murray, Powell, Herro and Rollins. A trade to a contender would gut Powell's value before our playoffs. ([OG Anunoby](../profiles/players/og-anunoby.md), [Josh Hart](../profiles/players/josh-hart.md), [Mikal Bridges](../profiles/players/mikal-bridges.md), [Jamal Murray](../profiles/players/jamal-murray.md), [Norman Powell](../profiles/players/norman-powell.md), [Tyler Herro](../profiles/players/tyler-herro.md), [Ryan Rollins](../profiles/players/ryan-rollins.md))
 
 ## Players
 
 Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
-### Above balanced range (top 20, 35+ USD)
+### Above balanced range (35+ USD)
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Shai Gilgeous-Alexander](../profiles/players/shai-gilgeous-alexander.md) | OKC | G | 4 | 67.0 | 3 | 72.1 | 81 | He has no weak category and fits any build, but as a top 4 player he is exactly the kind of pick a balanced build skips. |
-| [Tyrese Maxey](../profiles/players/tyrese-maxey.md) | PHI | G | 9 | 57.4 | 6 | 48.3 | 37 | He gives points, threes, FT% and steals with no weak category, but top-10 site ranks and soft FG% and turnovers put him outside the balanced plan unless he falls to the low 40s USD. |
-| [Tyrese Haliburton](../profiles/players/tyrese-haliburton.md) | IND | G | 10 | 45.4 | 12 | 39.1 | not drafted | He is an elite assist source with threes and steals, but experts say an early pick leans toward punt points, and only 10 playoff games is a further drawback. |
-| [Jamal Murray](../profiles/players/jamal-murray.md) | DEN | G | 17 | 37.4 | 21 | 24.0 | 27 | His points, assists and threes on volume are the most stable kind of value, but at round-two prices he sits above the balanced range. |
+| [Shai Gilgeous-Alexander](../profiles/players/shai-gilgeous-alexander.md) | OKC | G | 4 | 67.0 | 3 | 72.7 | 81 | He gives outlier PTS plus FG%, FT% and steals on big volume, but as a top-4 pick he takes you out of the balanced build. |
+| [Jamal Murray](../profiles/players/jamal-murray.md) | DEN | G | 17 | 39.2 | 22 | 24.8 | 27 | He provides stable PTS and AST, plus 3PM and FT%, but experts project a top 12 to 14 finish, which is above the balanced range. |
 
-### Core 20 to 25 USD
+### Core 20 to 30 USD
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Trey Murphy III](../profiles/players/trey-murphy.md) | NOP | G,F | 30 | 18.0 | 46 | 7.4 | 20 | A wide category player who scores, makes threes, adds FT% on good volume and gets steals, with no weak category. |
-| [Jalen Williams](../profiles/players/jalen-williams.md) | OKC | F | 34 | 22.0 | 35 | 18.2 | 35 | His points and assists are stable categories, his steals add more, and his projected rank of 35 to 45 sits right in the balanced range. |
-| [Chet Holmgren](../profiles/players/chet-holmgren.md) | OKC | F,C | 28 | 30.6 | 51 | 10.1 | 32 | He combines blocks with rebounds and FG% and has no weak category, but only at a low-20s price, not 30 USD. |
-| [Kawhi Leonard](../profiles/players/kawhi-leonard.md) | TOR | G,F | 37 | 32.6 | 18 | 26.0 | 20 | Per game he brings points, FT% and outlier steals to any build, but plan for 60 to 65 games. |
-| [Lauri Markkanen](../profiles/players/lauri-markkanen.md) | UTA | F | 32 | 18.6 | 34 | 12.0 | 16 | A points, threes and FT% forward with no weak category, but the room will likely push him past 20 USD and his health is the risk. |
-| [Matas Buzelis](../profiles/players/matas-buzelis.md) | CHI | F | 69 | 9.0 | 59 | 4.2 | 12 | He brings blocks and threes from a forward with no weak category, and experts see him as a top 50 player, so he is a buy under 20 USD. |
+| [Trey Murphy III](../profiles/players/trey-murphy.md) | NOP | G,F | 28 | 22.8 | 47 | 9.2 | 20 | He gives stable PTS plus threes, FT% and steals with no weak category, and a mid-20s price is fair. |
+| [Jalen Williams](../profiles/players/jalen-williams.md) | OKC | F | 37 | 22.6 | 35 | 19.1 | 35 | He gives stable AST and PTS, plus steals from a forward spot, and is fairly priced at 20 to 25 USD. |
+| [Kawhi Leonard](../profiles/players/kawhi-leonard.md) | TOR | G,F | 36 | 27.9 | 20 | 26.1 | 20 | Per game he gives stable PTS, steals and FT%, but games played are the risk, so stay near the 24 USD cap. |
+| [Chet Holmgren](../profiles/players/chet-holmgren.md) | OKC | F,C | 31 | 30.3 | 52 | 11.4 | 32 | He gives stable REB plus elite blocks and FG%, but at about 21 to 22 USD, not the 30 USD the market may pay. |
 
-### Value 10 to 18 USD
+### Mid 10 to 20 USD
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Nickeil Alexander-Walker](../profiles/players/nickeil-alexander-walker.md) | ATL | G | 56 | 4.4 | 31 | 10.7 | 1 | His points, threes and FT% fit any build, and experts see mid-20s value, well above what the market pays. |
-| [Franz Wagner](../profiles/players/franz-wagner.md) | ORL | F | 50 | 11.4 | 65 | 7.6 | 26 | He gives points and assists for a forward plus strong FT%, which is an uncommon and stable mix. |
-| [De'Aaron Fox](../profiles/players/deaaron-fox.md) | SAS | G | 74 | 6.2 | 52 | 10.4 | 21 | His assists, points and steals give a guard stable value with no weak category, as long as you stay under about 13 USD. |
-| [Michael Porter Jr.](../profiles/players/michael-porter.md) | BKN | F | 60 | 4.2 | 42 | 10.4 | 10 | A points and threes forward with no flagged weak category, good value in round 6 even with Randle cutting into his usage. |
-| [Desmond Bane](../profiles/players/desmond-bane.md) | ORL | G,F | 47 | 9.8 | 41 | 11.9 | 22 | A strong FT% wing who adds points and threes, fairly priced at 10 to 15 USD. |
-| [Tyler Herro](../profiles/players/tyler-herro.md) | MIL | G | 68 | 5.4 | 63 | 7.4 | 14 | His points, threes and FT% help any build, but his games played need a backup plan. |
-| [Kyrie Irving](../profiles/players/kyrie-irving.md) | DAL | G | 46 | 9.6 | 48 | 10.0 | not drafted | Per game he looks like a top 20 player in points, FT% and threes, but resting on back-to-backs could cost him playoff games. |
-| [OG Anunoby](../profiles/players/og-anunoby.md) | NYK | F | 72 | 4.4 | 68 | 4.1 | 15 | A forward whose steals and threes lead a profile with no weak category, though his value depends on the steals holding. |
-| [Onyeka Okongwu](../profiles/players/onyeka-okongwu.md) | ATL | C | 49 | 7.8 | 44 | 5.4 | 6 | A stretch center who adds threes and steals from the C slot with no weak category, but do not chase him above 15 to 16 USD. |
-| [Naz Reid](../profiles/players/naz-reid.md) | CHA | F,C | 59 | 4.2 | 37 | 7.7 | 2 | A forward or center who adds threes, blocks and steals to any build, though his FG% will not help. |
-| [Ryan Rollins](../profiles/players/ryan-rollins.md) | MIL | G | 62 | 2.6 | 105 | 1.6 | not drafted | His threes, assists and steals on about 32 minutes give near top 50 value, if your build can take his turnovers. |
+| [Nickeil Alexander-Walker](../profiles/players/nickeil-alexander-walker.md) | ATL | G | 58 | 4.0 | 33 | 11.3 | 1 | Experts see a top 35 to 50 player who gives PTS, 3PM and FT%, and bids up to about 20 USD are supported. |
+| [Kyrie Irving](../profiles/players/kyrie-irving.md) | DAL | G | 41 | 9.9 | 50 | 10.6 | not drafted | He gives stable PTS plus FT% and threes, and is worth high teens if his back-to-back rest does not drain his playoff games. |
+| [Matas Buzelis](../profiles/players/matas-buzelis.md) | CHI | F | 64 | 6.0 | 64 | 5.3 | 12 | His value rests on blocks and threes from a forward spot, which is less stable than counting stats, so expect 15 to 22 USD. |
+| [OG Anunoby](../profiles/players/og-anunoby.md) | NYK | F | 69 | 3.7 | 71 | 4.7 | 15 | Steals and threes carry his value, and those are less stable categories, so stay at about 15 to 18 USD. |
+| [Tyler Herro](../profiles/players/tyler-herro.md) | MIL | G | 68 | 3.8 | 65 | 8.0 | 14 | He gives stable PTS plus strong FT% and threes, and is fair at 14 to 16 USD. |
+| [Onyeka Okongwu](../profiles/players/onyeka-okongwu.md) | ATL | C | 49 | 7.7 | 44 | 6.3 | 6 | He gives threes and steals from the center spot, but his FG% and blocks stay at lower levels, so treat him as a mid-priced second center. |
+| [Naz Reid](../profiles/players/naz-reid.md) | CHA | F,C | 65 | 4.1 | 24 | 10.0 | 2 | He gives threes and blocks from a big at 10 to 14 USD, but he will not help FG%. |
+| [Franz Wagner](../profiles/players/franz-wagner.md) | ORL | F | 50 | 10.2 | 68 | 8.3 | 26 | He is a steady across-the-board forward led by PTS and FT%, worth 11 to 15 USD, not 20 USD or more. |
+| [Michael Porter Jr.](../profiles/players/michael-porter.md) | BKN | F | 61 | 3.5 | 43 | 10.8 | 10 | He gives stable PTS and REB plus threes from a forward spot, and about 10 USD is fair. |
+| [Kel'el Ware](../profiles/players/kelel-ware.md) | MIL | C | 74 | 3.8 | 46 | 4.1 | 5 | He gives stable REB plus BLK and FG% at a low market price, so bid up to about 13 USD. |
+| [Kon Knueppel](../profiles/players/kon-knueppel.md) | CHA | G,F | 63 | 9.5 | 40 | 15.4 | not drafted | He gives PTS, threes and FT% but little in stocks, and experts rank him lower than the market, so stay at 8 to 12 USD. |
 
-### Fillers 4 to 8 USD
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [Norman Powell](../profiles/players/norman-powell.md) | CHI | G,F | 87 | 1.8 | 64 | 4.2 | 8 | A cheap source of points, threes and FT% who adds little in rebounds and assists. |
-| [CJ McCollum](../profiles/players/cj-mccollum.md) | ATL | G | 109 | 1.0 | 82 | 2.0 | 2 | His threes and points help most builds as a last guard, and experts call his rank too low. |
-| [Dylan Harper](../profiles/players/dylan-harper.md) | SAS | G | 83 | 5.4 | 101 | 4.0 | not drafted | A balanced bench guard for any build, but his value depends on his minutes rising to about 29. |
-| [Cedric Coward](../profiles/players/cedric-coward.md) | MEM | G,F | 84 | 6.4 | 124 | 1.0 | not drafted | A breakout bet whose projected points, rebounds and FT% combine stable categories, with soft steals and turnovers. |
-| [Jaden McDaniels](../profiles/players/jaden-mcdaniels.md) | MIN | F | 90 | 1.0 | 84 | 2.3 | 1 | A cheap starting forward whose blocks, steals and FG% fit any build. |
-| [Jalen Suggs](../profiles/players/jalen-suggs.md) | ORL | G | 94 | 2.8 | 142 | 0.4 | 1 | His steals, threes and assists help any build, but he needs a plan for missed games. |
-
-### Last dollar 1 to 3 USD
+### Value 5 to 10 USD
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Josh Hart](../profiles/players/josh-hart.md) | NYK | G,F | 97 | 1.8 | 97 | 2.0 | 6 | His rebounds, assists and steals are a rare mix of stable categories for a last-dollar starter. |
-| [John Collins](../profiles/players/john-collins.md) | DET | F,C | 112 | 1.0 | 99 | 1.2 | 7 | A high FG% big with solid points and rebounds who beats his price if he gets 30 minutes. |
-| [Mikal Bridges](../profiles/players/mikal-bridges.md) | NYK | F | 81 | 3.4 | 26 | 11.5 | 9 | A low-volume filler with no weak category whose value comes mostly from playing every game, so bid only low single digits. |
-| [Reed Sheppard](../profiles/players/reed-sheppard.md) | HOU | G | 149 | 1.0 | 58 | 1.9 | 4 | A flyer for threes, steals and guard blocks, with a mild FG% drag and a short-minute role. |
-| [Brandin Podziemski](../profiles/players/brandin-podziemski.md) | GSW | G | 117 | 1.0 | 66 | 2.3 | not drafted | He played 82 games and has no weak category, a safe late starter at Yahoo's price. |
-| [Ty Jerome](../profiles/players/ty-jerome.md) | MEM | G | 114 | 2.0 | 72 | 2.7 | not drafted | A cheap guard who helps FT%, threes, assists and steals if he starts. |
-| [Keegan Murray](../profiles/players/keegan-murray.md) | SAC | F | 116 | 1.0 | 83 | 1.2 | 1 | A forward who adds threes and blocks with few turnovers, and may get more usage in Sacramento. |
-| [Andrew Wiggins](../profiles/players/andrew-wiggins.md) | MIA | G,F | 95 | 1.0 | 87 | 1.3 | 4 | A safe late fill-in with no weak category and good blocks for a wing. |
-| [Zach LaVine](../profiles/players/zach-lavine.md) | SAC | G,F | 99 | 1.0 | 158 | 1.0 | 12 | His threes, FT% and points with a good FG% hurt no build, but his health and role are uncertain. |
-| [Ayo Dosunmu](../profiles/players/ayo-dosunmu.md) | MIN | G | 104 | 1.0 | 108 | 1.1 | not drafted | An end-game guard who fits any build, though his shooting jump may not hold. |
-| [Miles Bridges](../profiles/players/miles-bridges.md) | PHX | F | 100 | 2.4 | 76 | 2.6 | 11 | His line is balanced but carries no category, so he is a bench spot only. |
-| [Tobias Harris](../profiles/players/tobias-harris.md) | SAS | F | 151 | 0.0 | 94 | 1.0 | 1 | A bubble filler with no weak category and mild help in FT% and turnovers. |
-| [Cameron Johnson](../profiles/players/cameron-johnson.md) | DEN | F | 135 | - | 141 | 0.1 | 4 | A cheap source of threes and FT% with few turnovers, with upside if his usage rises. |
-| [Darryn Peterson](../profiles/players/darryn-peterson.md) | UTA | G | 115 | 8.2 | 123 | 1.8 | not drafted | An upside bench stash with no strong category and a weak projected FG%, not worth Yahoo's average cost. |
-| [Toumani Camara](../profiles/players/toumani-camara.md) | POR | F | 106 | 1.0 | 132 | 0.2 | 4 | His steals and threes help a little, but his value is modest everywhere, so pay 1 USD at most. |
-| [Kyshawn George](../profiles/players/kyshawn-george.md) | WAS | G,F | 119 | 1.0 | 126 | 0.6 | 2 | A broad but thin line with soft FG% and turnovers, worth only a 1 USD end-of-draft pick. |
-| [Ace Bailey](../profiles/players/ace-bailey.md) | UTA | F | 159 | 0.0 | 127 | 0.4 | 1 | He is close to average in every category, so he fits any build but wins none. |
-| [Devin Vassell](../profiles/players/devin-vassell.md) | SAS | G,F | 157 | 1.0 | 128 | 0.4 | 5 | An all-around wing with threes and low turnovers who stands out in nothing. |
-| [Jrue Holiday](../profiles/players/jrue-holiday.md) | POR | G | 136 | 0.0 | 131 | 0.6 | 3 | A bench filler with no strong category whose usage is projected to fall. |
+| [Ryan Rollins](../profiles/players/ryan-rollins.md) | MIL | G | 60 | 2.0 | 104 | 2.2 | not drafted | He gives stable AST plus steals and threes, and experts see a top 50 player at a tiny market price, though turnovers are his weak spot. |
+| [Ty Jerome](../profiles/players/ty-jerome.md) | MEM | G | 88 | 1.4 | 58 | 4.5 | not drafted | He gives stable AST plus threes, steals and FT% on a 4-4-4 playoff schedule, so bid up to about 8 USD. |
+| [Cedric Coward](../profiles/players/cedric-coward.md) | MEM | G,F | 75 | 3.7 | 127 | 1.2 | not drafted | He gives REB that is strong for his position plus FT% on a 4-4-4 playoff schedule, and is a good target at 4 to 8 USD. |
+| [De'Aaron Fox](../profiles/players/deaaron-fox.md) | SAS | G | 70 | 4.3 | 53 | 10.2 | 21 | He gives stable AST plus steals with nothing elite, so pay about 5 to 10 USD. |
+| [Norman Powell](../profiles/players/norman-powell.md) | CHI | G,F | 89 | 2.4 | 67 | 4.6 | 8 | He gives stable PTS plus threes, is worth 6 to 7 USD, and carries trade-deadline risk. |
+| [Dylan Harper](../profiles/players/dylan-harper.md) | SAS | G | 85 | 4.6 | 99 | 4.4 | not drafted | He gives AST and good FG% for a guard and is a fair late buy at about 5 USD. |
+| [Jaden McDaniels](../profiles/players/jaden-mcdaniels.md) | MIN | F | 92 | 1.2 | 81 | 2.9 | 1 | His blocks, steals and FG% are less stable categories, and he has a two-game semifinal week, so bid up to about 6 USD. |
 
-### Avoid at price
+### Late 1 to 4 USD
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Kon Knueppel](../profiles/players/kon-knueppel.md) | CHA | G,F | 64 | 15.8 | 39 | 15.0 | not drafted | A threes and points specialist whose low steals and blocks cap his value, and the room will likely pay well above the expert price. |
+| [Brandin Podziemski](../profiles/players/brandin-podziemski.md) | GSW | G | 105 | 1.0 | 69 | 2.5 | not drafted | He combines REB and AST plus steals as a 1 to 4 USD guard while Butler is out. |
+| [Josh Hart](../profiles/players/josh-hart.md) | NYK | G,F | 98 | 1.5 | 97 | 2.4 | 6 | He combines REB and AST plus steals, but expected minutes near 30 keep him at 1 to 3 USD. |
+| [Keegan Murray](../profiles/players/keegan-murray.md) | SAC | F | 99 | 1.0 | 83 | 1.4 | 1 | He gives threes, blocks and few turnovers as a 1 to 4 USD forward, with soft FG% and assists. |
+| [Andrew Wiggins](../profiles/players/andrew-wiggins.md) | MIA | G,F | 91 | 1.1 | 85 | 1.5 | 4 | He is a safe 1 to 4 USD filler with no weak category, but his usage drops next to Giannis. |
+| [John Collins](../profiles/players/john-collins.md) | DET | F,C | 97 | 1.2 | 96 | 1.5 | 7 | He gives high FG%, decent FT% and some threes as a 1 to 5 USD big, but almost no assists. |
+| [Mikal Bridges](../profiles/players/mikal-bridges.md) | NYK | F | 79 | 2.8 | 29 | 12.0 | 9 | He has no weak category but no standout one either, so bid only a few dollars while the Knicks limit his minutes. |
+| [Reed Sheppard](../profiles/players/reed-sheppard.md) | HOU | G | 141 | 1.0 | 62 | 1.9 | 4 | He gives threes and steals as a 1 to 5 USD flier, but his role is shrinking and Houston's playoff schedule is weak. |
+| [Kristaps Porziņģis](../profiles/players/kristaps-porzingis.md) | GSW | C | 154 | 1.0 | 80 | 1.4 | 21 | He gives threes, blocks and good FT% from the center spot as a 1 to 3 USD flier with hamstring risk. |
+| [Toumani Camara](../profiles/players/toumani-camara.md) | POR | F | 109 | 1.0 | 131 | 0.4 | 4 | His value is mostly threes and steals as a 1 to 2 USD pick, and his FG% and FT% cost a little. |
 
-### Waiver watch
+### Last dollar or waivers
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Julian Champagnie](../profiles/players/julian-champagnie.md) | SAS | F | 179 | 1.0 | 111 | 0.4 | not drafted | He gives threes and few turnovers, but his minutes are under threat, so leave him on waivers. |
-| [Pelle Larsson](../profiles/players/pelle-larsson.md) | MIA | G,F | 147 | - | - | - | not drafted | A balanced but low-impact filler just outside the draft pool, so draft him only if he starts. |
-| [Wendell Carter Jr.](../profiles/players/wendell-carter.md) | ORL | C | 123 | 1.3 | 172 | 0.1 | not drafted | His only real plus is rebounds, so he is a 1 USD last center or a waiver pickup. |
-| [Christian Braun](../profiles/players/christian-braun.md) | DEN | G,F | 173 | 0.0 | 212 | 0.0 | 7 | His good wing FG% and low turnovers come with an overvalued tag, so take him only as a last pick or from waivers. |
+| [Tobias Harris](../profiles/players/tobias-harris.md) | SAS | F | 158 | 0.0 | 93 | 0.9 | 1 | He gives good FT% and low turnovers but moves no category much, so take him at 1 USD at most. |
+| [Quentin Grimes](../profiles/players/quentin-grimes.md) | LAL | G,F | 134 | 1.0 | 119 | 0.9 | not drafted | He has no weak category and is mainly insurance for the Doncic or Reaves owner, but his 3-4-3 playoff schedule is weak. |
+| [Kyshawn George](../profiles/players/kyshawn-george.md) | WAS | G,F | 121 | 1.0 | 129 | 0.6 | 2 | He gives threes, some assists and blocks as a last-dollar pick, but 43% FG and 2.3 turnovers are the cost. |
+| [Wendell Carter Jr.](../profiles/players/wendell-carter.md) | ORL | C | 125 | 1.1 | 174 | 0.1 | not drafted | He has no standout category, so pay 1 to 2 USD at most, and he is replaceable from waivers if he stays under 30 minutes. |
+| [Jrue Holiday](../profiles/players/jrue-holiday.md) | POR | G | 139 | 0.0 | 141 | 0.5 | 3 | Projections give him a smaller role that helps no category much, so let him go to waivers. |
+| [Cameron Johnson](../profiles/players/cameron-johnson.md) | DEN | F | 146 | 1.0 | 140 | 0.2 | 4 | He gives cheap threes and FT% with few turnovers at 1 to 2 USD, with upside if his usage rises. |
+| [Christian Braun](../profiles/players/christian-braun.md) | DEN | G,F | 155 | 0.0 | 210 | 0.1 | 7 | He gives FG% and low turnovers with no real outlier, and experts call him overvalued, so take him at 1 USD at most. |
 
 <details><summary>Left out</summary>
 
-- Cason Wallace: His value rests almost entirely on steals. He does not help in most categories, so he does not fit a safe-core article.
-- Alex Sarr: His value comes mainly from blocks as a specialist. That is not the wide, stable profile this article covers.
+- Max Strus: He is ranked 205 to 228, well outside the 144-player pool, and is listed Out with a foot injury, so he is a waiver watch, not a draft target.
 
 </details>
 
-<sub>Built 2026-10-05 with claude-opus-5-5 high.</sub>
+<sub>Built 2026-10-11 with claude-opus-5-5 high.</sub>

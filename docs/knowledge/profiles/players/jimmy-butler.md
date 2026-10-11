@@ -11,17 +11,17 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 154 | 0 | 0.3 | 214 | 22 |
+| 2026-27 | 0 | 0.0 | 145 | 0 | 0.4 | 214 | 22 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 50.7% | +0.6 | +0.7 | - |
-| FT% | 85.5% | +1.6 | +1.9 | - |
+| FT% | 85.5% | +1.6 | +1.8 | - |
 | 3PM | 0.7 | -0.9 | -1.1 | weak for his position (punt fit) |
 | PTS | 17.6 | +0.6 | +0.7 | - |
-| REB | 4.4 | -0.3 | -0.3 | - |
+| REB | 4.4 | -0.3 | -0.4 | - |
 | AST | 4.7 | +0.8 | +1.4 | - |
 | STL | 1.3 | +1.1 | +1.1 | - |
 | BLK | 0.3 | -0.7 | -0.8 | - |
@@ -30,23 +30,24 @@
 </details>
 
 **Current**
-- He is 37 and recovering from a torn ACL. He will not be ready to start the season. Yahoo lists him as out (knee). (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1399), [08-22](https://youtu.be/LXZLrL90crE?t=262), [09-15](https://youtu.be/KPdD91Oo8-U?t=2157), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2221), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487), [07-14](https://youtu.be/xHRF06_E9HE?t=1495), [07-17](https://youtu.be/NYTH7uQsPCM?t=1876), stats)
-- Experts expect him back in January. Christmas is the earliest likely date, and some experts allow for a return as late as February. (verdict, 2026-09-30, until January; [09-30](https://youtu.be/MUbNYdjpUDM?t=1399), [08-22](https://youtu.be/LXZLrL90crE?t=1015), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2221), [08-11](https://youtu.be/OdDkXFhoKsc?t=2770), [09-15](https://youtu.be/KPdD91Oo8-U?t=2157))
-- When he returns, expect limited minutes and no games on back-to-backs. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1399), [08-22](https://youtu.be/LXZLrL90crE?t=1015), [08-16](https://youtu.be/gf_6GveiAls?t=858))
-- Golden State has 15 back-to-backs, tied for second most in the league. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=991), [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
-- The Golden State schedule is good for fantasy playoffs that end March 28. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
-- Golden State may treat this as a gap year. The team is worried about lottery odds and may rest veterans, which puts his games after his return at more risk. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140))
-- Draft him only after round 12, as a last-round IL stash. Keep him only while you have a free IL slot, and drop him once you need that slot. Taking him around round 10 is a bad pick. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1451), [09-15](https://youtu.be/KPdD91Oo8-U?t=2157), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2221), [08-11](https://youtu.be/OdDkXFhoKsc?t=2770))
+- He is 37 and recovering from a torn ACL. He will not be ready for the start of the season. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1399), [08-22](https://youtu.be/LXZLrL90crE?t=262), [09-15](https://youtu.be/KPdD91Oo8-U?t=2157), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2221), [07-17](https://youtu.be/NYTH7uQsPCM?t=1876))
+- Christmas is the earliest realistic return. January is the most likely date, and one expert said it could be as late as February. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1399), [08-22](https://youtu.be/LXZLrL90crE?t=1015), [08-11](https://youtu.be/OdDkXFhoKsc?t=2770), [09-15](https://youtu.be/KPdD91Oo8-U?t=2157), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2221))
+- When he returns, expect a minutes limit and no back-to-back games. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1399), [08-22](https://youtu.be/LXZLrL90crE?t=1015), [08-16](https://youtu.be/gf_6GveiAls?t=858))
+- The Warriors have 15 back-to-backs, tied for second most in the league. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [08-16](https://youtu.be/gf_6GveiAls?t=991))
+- The Warriors schedule is good for fantasy playoffs ending March 28. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
+- Draft him only after round 12 as an IL stash, and only if you have a free IL slot. Drop him once you need that slot. Taking him around round 10 is a bad pick. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1451), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2221), [08-11](https://youtu.be/OdDkXFhoKsc?t=2770), [09-15](https://youtu.be/KPdD91Oo8-U?t=2157))
+- The Warriors are reportedly treating this season as a gap year. They are watching their lottery odds and may rest veterans. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140))
 
 **Durable**
-- His category value comes from FT% on solid volume, plus steals and assists for a forward. He makes few threes for his position. (fact, 2026-10-05; stats)
-- He has a torn ACL in his injury history. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1399), [08-22](https://youtu.be/LXZLrL90crE?t=262))
+- He makes few threes for a forward. That makes threes his weakest category. (fact, 2026-10-11; stats)
+- His best categories are FT% on solid volume, assists for a forward, and steals. (fact, 2026-10-11; stats)
+- He has missed many games in each of the last three seasons. (fact, 2026-10-11; stats)
 - His game relies on IQ, cutting, physicality and drawing free throws, not on explosiveness. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1168))
 
 **Tags**
-- Current: `injured now` (Torn ACL. Yahoo status O (Knee).; until January), `IL stash` (Only after round 12. Drop him when the IL slot is needed.), `minutes limit` (Lower minutes expected after his ACL return), `back-to-back risk` (Not expected to play back-to-backs after his return), `many back-to-backs` (15 back-to-backs, tied for second most), `good playoff schedule` (Good for playoffs ending March 28), `tank risk` (Possible gap year; team may rest veterans), `injury last season` (Played 38 games in 2025-26)
-- Durable: `age decline watch` (Age 37, coming off a torn ACL), `punt 3PM fit` (About 0.7 threes per game)
+- Current: `injured now` (Torn ACL, Yahoo status O (Knee)), `IL stash` (Last-round pick only, and only with a free IL slot. Drop him when you need the slot.), `slow start` (Out until about Christmas to January), `minutes limit` (Limited minutes after his ACL return), `back-to-back risk` (Expected to sit back-to-backs after he returns), `many back-to-backs` (15 back-to-backs, tied for second most), `good playoff schedule` (Good for playoffs ending March 28), `tank risk` (Gap year, worried about lottery odds), `shutdown risk` (The team may rest veterans in a throwaway season), `injury last season` (Played 38 games)
+- Durable: `age decline watch` (37 years old and coming off a torn ACL), `punt 3PM fit` (About 0.7 threes per game)
 
-**Note.** Yahoo (rank 154) and ESPN (rank 214) both value him at 0 USD, and our league paid 22 USD for him last season. In a 144-player draft he is at most a 1 USD final pick to stash on IL. He returns around January with limited minutes and no back-to-backs. If he plays, he fits punt 3PM builds, where his FT%, steals and assists for a forward help. Check his return date in December, then his minutes and how Golden State handles him as the gap-year talk grows.
+**Note.** Both sites value him at 0 USD (Yahoo rank 145, ESPN rank 214). Our league paid 22 USD for him last season, but he is now a 1 USD final pick at most, and only for a team with a free IL slot. When healthy he helps FT%, steals and assists from a forward and fits punt 3PM builds. Check his return date around Christmas or January, his minutes once he is back, and whether a Warriors team in a gap year starts resting veterans before our playoffs end on March 28.
 
-<sub>10 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>10 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 187 | 0 | 0.1 | 157 | not drafted |
+| 2026-27 | 0 | 0.0 | 177 | 0 | 0.1 | 158 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,36 +19,37 @@
 |---|---|---|---|---|
 | FG% | 42.3% | -1.1 | -1.1 | weak for his position (punt fit) |
 | FT% | 85.2% | +0.6 | +0.5 | - |
-| 3PM | 2.7 | +1.4 | +1.4 | - |
-| PTS | 13.9 | -0.0 | -0.0 | - |
+| 3PM | 2.7 | +1.4 | +1.3 | - |
+| PTS | 13.9 | -0.0 | -0.1 | - |
 | REB | 3.1 | -0.9 | -0.8 | - |
 | AST | 3.1 | -0.0 | -0.1 | - |
 | STL | 1.1 | +0.5 | +0.3 | - |
 | BLK | 0.3 | -0.6 | -0.5 | - |
-| TO | 1.4 | +0.3 | +0.4 | - |
+| TO | 1.4 | +0.4 | +0.4 | - |
 
 </details>
 
 **Current**
-- He is projected as Charlotte's sixth man. The projected starters are White, Knueppel, Miller, Reid and Diabaté. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1201), [09-27](https://youtu.be/CRLSsoGhb2w?t=416), [09-15](https://youtu.be/KPdD91Oo8-U?t=2077))
-- He starts while Kon Knueppel is out. (fact, 2026-09-27, until Knueppel returns; [09-27](https://youtu.be/CRLSsoGhb2w?t=1201), [09-27](https://youtu.be/CRLSsoGhb2w?t=416))
-- Experts disagree on his draft value. The newest call says Yahoo ranks him too low at 160. It puts him at 100 to 115 (rounds 10 to 11) as a late-round swing, but says not to boost him much. Other experts see a low ceiling and would not draft him. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1201), [09-15](https://youtu.be/KPdD91Oo8-U?t=2077), [09-10](https://youtu.be/W-R1dzem32s?t=1999), [07-13](https://youtu.be/Rqb5GdrSweY?t=1985))
-- With a March 28 end, Charlotte plays 4, 3 and 4 games in our playoff weeks. It has only 13 back-to-backs, the league minimum. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781))
-- He would also start if Brandon Miller misses games, but the expert is not sure that will happen. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=2077), [09-15](https://youtu.be/KPdD91Oo8-U?t=2077))
-- His role should be smaller than it was in Phoenix. He could still get about 27 minutes off the bench. (verdict, 2026-09-10; [07-01](https://youtu.be/W3THnI7wWdA?t=312), [07-13](https://youtu.be/Rqb5GdrSweY?t=1985), [09-10](https://youtu.be/W-R1dzem32s?t=1999))
-- His shot volume should drop from last season's high level. Experts expect better efficiency, and his FG% could bounce back. He should help as a secondary creator off the bench. (verdict, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=407), [07-07](https://youtu.be/ME-r173X5b0?t=2211))
-- Charlotte got him from Phoenix in a trade, along with Royce O'Neale, for Miles Bridges. (fact, 2026-07-07; [07-01](https://youtu.be/W3THnI7wWdA?t=312), [06-28](https://youtu.be/RsjGTgJiKyI?t=328), [07-07](https://youtu.be/ME-r173X5b0?t=2211))
+- Kon Knueppel is hurt and Coby White is out with a calf injury, so Charlotte is short on healthy players to start the season. (fact, 2026-10-08; [10-05](https://youtu.be/BiIZsSypx7Y?t=1575), [10-08](https://youtu.be/6DnRWahYrFA?t=1269))
+- He is projected as Charlotte's sixth man. He moves into the starting lineup while Kon Knueppel is out. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1201), [09-27](https://youtu.be/CRLSsoGhb2w?t=416), [09-15](https://youtu.be/KPdD91Oo8-U?t=2077))
+- The experts disagree on his draft value. One ranks him around 100 to 115 (rounds 10 to 11) as a late-round swing, but says not to push his price much. Others would not draft him and see a low ceiling unless a starter like Brandon Miller misses games. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1201), [09-15](https://youtu.be/KPdD91Oo8-U?t=2077), [09-10](https://youtu.be/W-R1dzem32s?t=1999))
+- Charlotte plays 4, 3 and 4 games in our playoff weeks 19 to 21. The team has only 13 back-to-backs, the league minimum. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781))
+- Charlotte plans to space the floor and take a lot of threes. Playmaking will be shared across several players. (fact, 2026-09-27; [07-21](https://youtu.be/EB1Z_6n56-o?t=401), [07-21](https://youtu.be/EB1Z_6n56-o?t=1306), [09-27](https://youtu.be/CRLSsoGhb2w?t=282))
+- Charlotte has a deep roster and projects as a play-in team. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1568), [07-21](https://youtu.be/EB1Z_6n56-o?t=2172))
+- His role should be smaller than it was in Phoenix. He could still play about 27 minutes off the bench. (verdict, 2026-09-10; [07-01](https://youtu.be/W3THnI7wWdA?t=312), [07-13](https://youtu.be/Rqb5GdrSweY?t=1985), [09-10](https://youtu.be/W-R1dzem32s?t=1999))
+- His shot volume should drop from last season's unusually high level, but his efficiency should improve. He should help as a secondary creator off the bench. (verdict, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=407), [07-07](https://youtu.be/ME-r173X5b0?t=2211))
+- Phoenix traded him to Charlotte in the Miles Bridges deal. (fact, 2026-07-07; [07-01](https://youtu.be/W3THnI7wWdA?t=312), [06-28](https://youtu.be/RsjGTgJiKyI?t=328), [07-07](https://youtu.be/ME-r173X5b0?t=2211))
 
 **Durable**
-- Most of his value comes from threes, with small help in FT% and steals. His FG% is weak for his position. (fact, 2026-10-04; stats)
-- He is older, has soft tissue problems and carries injury risk. One expert thinks he has peaked and is on the back nine of his career. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1250), [08-23](https://youtu.be/hm5-fiCa5S4?t=392))
-- He can play the two, three and four and can handle the ball. (fact, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1999))
-- He plays bigger than his size and drives downhill, and that has worn his body down. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=392))
+- Threes are his best category. His FG% is weak for his position, so he fits punt FG% builds. (fact, 2026-10-11; stats)
+- He plays bigger than his size and drives downhill. He has had soft tissue problems. (fact, 2026-09-27; [08-23](https://youtu.be/hm5-fiCa5S4?t=392), [09-27](https://youtu.be/CRLSsoGhb2w?t=1250))
+- Age and wear make him an injury risk. He has likely peaked and is entering the late part of his career. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1250), [08-23](https://youtu.be/hm5-fiCa5S4?t=392))
+- He can play shooting guard, small forward and power forward, and he can handle the ball. (fact, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1999))
 
 **Tags**
-- Current: `new team` (traded from Phoenix to Charlotte), `role down` (sixth man in Charlotte, smaller role than in Phoenix), `handcuff` (starts while Knueppel is out, also if Miller misses games; until Knueppel returns), `sleeper` (one expert ranks him 100 to 115, well above Yahoo; others would not draft him), `few back-to-backs` (Charlotte has 13, the league minimum)
-- Durable: `punt FG fit` (projected about 42% FG on about 10.6 attempts), `age decline watch` (body worn down by downhill play, seen as past his peak), `injury prone` (soft tissue problems)
+- Current: `new team` (Traded from Phoenix to Charlotte), `role down` (Bench role in Charlotte, smaller than in Phoenix), `handcuff` (Starts while Kon Knueppel is out, and would start if Brandon Miller misses games), `flyer` (Late-round swing ranked 100 to 115 by one expert), `few back-to-backs` (13 back-to-backs, the league minimum), `three-point heavy`, `shared ball handling`, `deep rotation`
+- Durable: `punt FG fit`, `age decline watch` (Older, body worn down by a downhill style), `injury prone` (Soft tissue problems)
 
-**Note.** Yahoo ranks him 187 and ESPN 157, and both value him at 0 USD. That puts him outside our 144 drafted players, so at most he is a 1 USD late pick in a punt FG% build that wants threes, FT% and some steals. In the first weeks, check how many minutes he gets while Knueppel is out and whether his FG% recovers from last season's 40.3% on lower volume. If he plays about 27 minutes as a starter, pick him up off waivers.
+**Note.** Yahoo ranks him 177 and ESPN 158, and both value him near 0 USD, so in a 144-player draft he is a 1 USD last-round pick at most. Even the most positive expert call (100 to 115) comes with a warning not to push his price. He fits punt FG% builds that want threes, and his projected 2.7 threes per game are the reason to take him. Early in the season, check whether he starts while Knueppel and White are out, and whether his FG% gets back above the 40.3% he shot last season. If neither happens, he is a quick drop.
 
-<sub>10 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>10 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

@@ -8,56 +8,101 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "68e1787ffba1",
- "note_count": 2,
- "built_at": "2026-10-04T17:27:00+00:00",
+ "input_sha": "027b6c18bede",
+ "note_count": 6,
+ "built_at": "2026-10-11T09:14:28+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.0908582,
-  "duration_ms": 19314
+  "cost_usd_list": 0.14978219999999998,
+  "duration_ms": 32909,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Josh does not expect him to start for the Lakers.",
-   "kind": "verdict",
-   "date": "2026-08-04",
-   "until": "",
-   "sources": [
-    "_WjOjp6Qu8E:p19"
-   ]
-  },
-  {
-   "text": "Josh does not expect him to be even a back-end fantasy option this season.",
-   "kind": "verdict",
-   "date": "2026-08-04",
-   "until": "",
-   "sources": [
-    "_WjOjp6Qu8E:p19"
-   ]
-  },
-  {
-   "text": "The Lakers have two open starting spots, mainly contested by Grimes, LaRavia and Mamukelashvili. Sexton is not named among the main candidates.",
+   "text": "Collin Sexton is a bench guard. Luka Doncic and Austin Reaves start ahead of him. The projected starters are Doncic, Reaves, Grimes, Thybulle and Kessler.",
    "kind": "fact",
-   "date": "2026-08-04",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "_WjOjp6Qu8E:t1"
+    "-DN4P92Wp8Y:p42",
+    "sFelMKWcqyI:p33",
+    "sFelMKWcqyI:t4"
+   ]
+  },
+  {
+   "text": "The experts say not to draft him. Josh does not expect him to start or to be even a back-end fantasy option. Another expert calls him a stash in deep formats only and says to avoid him at an ESPN rank of 100.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p42",
+    "sFelMKWcqyI:p33",
+    "_WjOjp6Qu8E:p19"
+   ]
+  },
+  {
+   "text": "He would only be useful with about 26% usage and 30 minutes a game. That would take injuries in the backcourt, with Doncic or Reaves missing a lot of games.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "sFelMKWcqyI:p33",
+    "-DN4P92Wp8Y:p42"
+   ]
+  },
+  {
+   "text": "His Yahoo injury status is questionable (lower leg).",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "The Lakers have the second most back-to-backs in the league. With a March 28 end, their playoff schedule is 3-4-3 games, which is in the bottom half of the league.",
+   "kind": "fact",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "sFelMKWcqyI:t5",
+    "sFelMKWcqyI:t6"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is an undersized guard and not a good passer.",
+   "text": "He is a notoriously bad fantasy player in category leagues.",
    "kind": "verdict",
-   "date": "2026-07-02",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
+    "-DN4P92Wp8Y:p43"
+   ]
+  },
+  {
+   "text": "He is a poor passer and has always been a weak assist player.",
+   "kind": "verdict",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "sFelMKWcqyI:p32",
     "P6TNP-g0wzY:p35"
    ]
   },
   {
-   "text": "Experts call him a poor defender.",
+   "text": "He is usually efficient and a good three-point shooter.",
+   "kind": "verdict",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "sFelMKWcqyI:p32"
+   ]
+  },
+  {
+   "text": "He is an undersized guard and a bad defender.",
    "kind": "verdict",
    "date": "2026-08-04",
    "until": "",
@@ -69,17 +114,89 @@
  ],
  "tags": [
   {
-   "name": "minutes competition",
-   "channel": "current",
-   "detail": "Not expected to start. Grimes is among the guards and wings in the race for the two open Lakers starting spots.",
+   "name": "usage dependent",
+   "channel": "durable",
+   "detail": "Needs about 26% usage and 30 minutes to be useful",
    "until": "",
    "sources": [
-    "_WjOjp6Qu8E:p19",
-    "_WjOjp6Qu8E:t1"
+    "sFelMKWcqyI:p33"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Plays behind Luka Doncic and Austin Reaves",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p42",
+    "sFelMKWcqyI:p33"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "Gains value only if Doncic or Reaves miss a lot of games",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p42",
+    "sFelMKWcqyI:p33"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Deep-format stash only; watch if the Lakers backcourt gets hurt",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p42",
+    "sFelMKWcqyI:p33"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injured now",
+   "channel": "current",
+   "detail": "Yahoo status Q, lower leg",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Lower leg",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "Lakers have the second most back-to-backs in the league",
+   "until": "",
+   "sources": [
+    "sFelMKWcqyI:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "3-4-3 games in weeks 19 to 21, bottom half of the league",
+   "until": "",
+   "sources": [
+    "sFelMKWcqyI:t5"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both sites value him at 0 USD (ESPN average cost 0.6 USD). He ranks 150 on ESPN and 200 on Yahoo, so he is around or below the 144th player and should not be an auction target. His line is a scoring guard with good FT% (about 86% on 4 attempts) and few rebounds, blocks or turnovers saved, and none of it stands out enough to carry value off the bench. Early in the season, check only whether he gets a starting role or about 27 bench minutes in the Lakers rotation.",
+ "note": "Sexton ranks 205 on Yahoo and 150 on ESPN, and both sites give him 0 value. He is outside the 144 players our auction drafts, so do not spend on him. Early in the season, check his lower leg (Yahoo Q) and whether Doncic or Reaves miss games, since that is the only way he gets the 30 minutes and high usage he needs. He brings some points and FT% but hurts REB, BLK and TO, and he played only 23.7 minutes last season, so he is a waiver pickup at most.",
  "rejected": []
 }

@@ -21,29 +21,27 @@
 | 3PM | 0.5 | -1.1 | -1.5 | - |
 | PTS | 6.6 | -1.3 | -1.3 | - |
 | REB | 3.1 | -0.8 | -0.8 | - |
-| AST | 1.4 | -1.0 | -1.1 | - |
+| AST | 1.4 | -1.0 | -1.2 | - |
 | STL | 0.9 | -0.1 | -0.2 | - |
 | BLK | 0.3 | -0.6 | -0.6 | - |
-| TO | 0.8 | +1.2 | +1.2 | - |
+| TO | 0.8 | +1.2 | +1.3 | - |
 
 </details>
 
 **Current**
-- Curry is the only Warrior who creates his own shot, so the offense depends on him. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=551), [09-16](https://youtu.be/2A2JbUN-kc0?t=2222), [09-09](https://youtu.be/7BllEsdNLoM?t=2274))
-- He is not among the projected Warriors starters. Previews list Curry, Podziemski, Lendeborg, Green and Porzingis or Horford. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=270), [09-30](https://youtu.be/MUbNYdjpUDM?t=678))
-- Steve Kerr runs unpredictable rotations and often changes a set lineup a few games in, with lots of mixing among the wings. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=301), [09-30](https://youtu.be/MUbNYdjpUDM?t=237))
-- The Warriors are reportedly treating this season as a gap year. They may care about lottery odds and rest veterans. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=140), [09-30](https://youtu.be/MUbNYdjpUDM?t=166))
-- The Warriors have 15 back-to-backs, tied for second most, but their schedule is good for fantasy playoffs ending March 28. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [08-16](https://youtu.be/gf_6GveiAls?t=991))
-- Experts expect Warriors players to fade as the season goes on. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
-- Golden State's depth is very poor and the team struggles to field a 10-man rotation, so minutes should go up across the rotation. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
+- He is not in the projected Warriors starting lineups. The projected starters are Curry, Podziemski, Lendeborg, Green and Horford or Porzingis. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=678), [08-22](https://youtu.be/LXZLrL90crE?t=270))
+- Steve Kerr runs unpredictable rotations and often changes his starting lineup a few games after announcing it, with lots of mixing among the wings. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=237), [08-22](https://youtu.be/LXZLrL90crE?t=301))
+- The Warriors may treat this season as a gap year. They are worried about lottery odds and may rest veterans. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140))
+- Jimmy Butler and Moses Moody are out early in the season. Butler is out for at least half the season. (fact, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1487), [07-17](https://youtu.be/NYTH7uQsPCM?t=1876))
+- Golden State's depth is very poor. The team struggles to field a 10-man rotation, so minutes should go up across the rotation. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
 
 **Durable**
-- He scores by slipping screens and cutting to the basket off Curry's gravity. He is not a shot creator. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=798))
+- He scores by slipping screens and cutting to the basket off Curry's gravity. He does not create his own shot. (fact, 2026-10-02; [08-22](https://youtu.be/LXZLrL90crE?t=798), [10-02](https://youtu.be/ZYllcj4o6_A?t=551))
 
 **Tags**
-- Current: `thin rotation` (Warriors struggle to field a 10-man rotation; minutes rise across the roster), `unsettled rotation` (Kerr changes lineups often and mixes the wings), `concentrated usage` (Curry is the only self-creator), `tank risk` (Reported gap year; may rest veterans for lottery odds), `many back-to-backs` (15 back-to-backs, tied for second most), `good playoff schedule` (Good schedule for playoffs ending March 28)
-- Durable: `needs playmaker` (Scores off cuts and slipped screens created by Curry's gravity)
+- Current: `thin rotation` (Warriors struggle to field 10 players; Butler and Moody out early), `unsettled rotation` (Kerr changes lineups often and mixes the wings), `tank risk` (possible gap year; team may rest veterans)
+- Durable: `needs playmaker` (scores off cuts and screen slips created by Curry's gravity)
 
-**Note.** Both Yahoo and ESPN value him at 0 USD (rank 266 on Yahoo, 196 on ESPN), so he falls well outside our 144-player draft and is a waiver player. His fantasy value is efficient FG% (58.3% on 5.7 attempts last season) and few turnovers (0.8) in about 15 minutes, with little in points, threes or assists, so he only matters if Golden State's thin depth pushes his minutes up. Early in the season, watch whether his minutes climb clearly above 16 and whether Kerr's lineup changes put him on the floor with Curry.
+**Note.** Both sites value him at 0 USD (Yahoo rank 266, ESPN 196), and nobody drafted him in our league last season. In about 15 to 16 minutes a game he gives an efficient but low-volume FG% (58% on 5 to 6 attempts) and few turnovers, and very little anywhere else, so he is not one of our 144 auction players. Early in the season, check whether the thin Warriors depth and the absences of Butler and Moody push his minutes clearly above 16. Only then is he worth a waiver look.
 
-<sub>1 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>1 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

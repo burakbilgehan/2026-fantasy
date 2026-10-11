@@ -1,0 +1,707 @@
+{
+ "video": {
+  "id": "cFV24VgxyCY",
+  "title": "Minnesota Timberwolves Fantasy Basketball Preview [26/27 NBA Season]",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-10-09",
+  "duration": "34:30",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-11T09:06:44+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.2663838,
+  "duration_ms": 65780,
+  "turns": 2,
+  "denied": 0
+ },
+ "summary": "Josh Lloyd previews the 2026/27 Minnesota Timberwolves for fantasy. His main theme is the team's move away from size after trading Naz Reid and Julius Randle. His projected starting five is LaMelo Ball, Anthony Edwards, Jaden McDaniels, Jonathan Kuminga and Rudy Gobert, but he doubts Kuminga stays a real starter. He thinks Edwards belongs around picks 7 to 8, not 5. He likes Ball in the top 20 for categories and is fine with Gobert and McDaniels at their prices. He thinks Ayo Dosunmu is overvalued at 108 and Terrence Shannon Jr. is overhyped. He sees Joan Beringer only as a stash for formats with deep benches or weekly lineups. Minnesota has a two-game week in the fantasy semifinals (4-2-4 schedule), and he counts that against Edwards and Ball.",
+ "rules": [
+  {
+   "text": "Starters are not all equal. Tell real starters (28 to 32 minutes, closing games) apart from fake starters who play about 21 to 23 minutes and don't close.",
+   "ts": "2:38",
+   "quote": "Are you a fake starter that doesn't close games and plays 21 to 23 minutes?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 186
+  },
+  {
+   "text": "Per game rankings need context. If you would never draft some high per game players (for example injury risks) that early, the players ranked below them move up.",
+   "ts": "7:22",
+   "quote": "So you're just eliminating players ahead of him that sort of do have to push him up.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 442
+  },
+  {
+   "text": "Don't trust 'he never gets hurt' as a draft argument. No player is immune to injury.",
+   "ts": "7:53",
+   "quote": "he never gets hurt and I said well let's wait and see on that because he's not Wolverine",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 482
+  },
+  {
+   "text": "When judging injury history, check why games were missed. Games sat for tanking reasons are different from real injuries.",
+   "ts": "9:28",
+   "quote": "the games that he missed 50% of those games missed were tanking reasons much like yeah Larry Markin",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 582
+  },
+  {
+   "text": "Playing less on drives and more on the perimeter may protect a player's health more than a small cut in minutes.",
+   "ts": "9:58",
+   "quote": "cutting down on the driving and attacking the rim like that is probably more impactful in terms of preserving ankle health",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 618
+  },
+  {
+   "text": "Be skeptical of shooting spikes on low historical baselines. If the shooting falls back, the player's value can drop sharply.",
+   "ts": "22:31",
+   "quote": "he shot 33 the year before that. I don't have any trust in that number whatsoever.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1374
+  },
+  {
+   "text": "In standard leagues, drafting backups who only matter if the starter gets hurt is not a winning strategy.",
+   "ts": "27:43",
+   "quote": "players around the league that you can draft, but that's just not a winning strategy in most formats.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1686
+  },
+  {
+   "text": "Stash-type players only fit certain formats: best ball or draft only, weekly lineups, games caps, or deep benches, where the roster spot doesn't have to be used every day.",
+   "ts": "29:46",
+   "quote": "It's got to be stashable, best draft only, weekly leagues, roto games cap, head-to-head games cap, deep benches.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1813
+  },
+  {
+   "text": "Don't draft worse players just to get more playoff games. Injuries, trades and rescheduling can wreck that plan.",
+   "ts": "30:49",
+   "quote": "I'm not a big this is your big deciding factor to take worse players with more games",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1886
+  },
+  {
+   "text": "A two-game week in the fantasy playoffs is a serious negative and can work as a tiebreaker between similar players.",
+   "ts": "31:21",
+   "quote": "if your player has a twoame week in the playoffs, that is very hard to deal with.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1899
+  },
+  {
+   "text": "If you expect to earn a first round bye, a two-game week in the first playoff round matters less. A weaker team that needs that round should weigh it more.",
+   "ts": "32:24",
+   "quote": "And you get a first round buy. The two game week doesn't matter to you anymore.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1967
+  },
+  {
+   "text": "Back-to-back counts are not a big concern for fantasy.",
+   "ts": "32:54",
+   "quote": "They have league minimum backto-backs, 13 of them. Again, not really too much of a concern",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1996
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Anthony Edwards",
+   "said_as": "Ant",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "He is going in the first round. ESPN ranks him 5th in categories, which the speaker calls wrong. He thinks picks 7 to 8 are reasonable, with Tatum and Giannis clearly ahead.",
+   "ts": "5:15",
+   "quote": "But I think Edwards fitting in 78 is totally reasonable. A couple of spots lower maybe in points.",
+   "value_hint": "Picks 7 to 8; ESPN rank 5 too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 345
+  },
+  {
+   "player": "Anthony Edwards",
+   "said_as": "Anthony Edwoods",
+   "team": "MIN",
+   "horizon": "durable",
+   "text": "He has never been a top 10 fantasy player in any format, even though he is drafted there.",
+   "ts": "4:43",
+   "quote": "It is fair to say that yeah, Anthony Edwoods has never been this top 10 player",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 300
+  },
+  {
+   "player": "Anthony Edwards",
+   "said_as": "Edwards",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "His usage may go up and his assists will probably go down. With the team playing smaller, his rebounds could rise to about 5.",
+   "ts": "5:48",
+   "quote": "Does the usage go up this season? Do the assists go down? Probably.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 359
+  },
+  {
+   "player": "Anthony Edwards",
+   "said_as": "Edwards",
+   "team": "MIN",
+   "horizon": "durable",
+   "text": "He was a pretty good free throw shooter before last season's drop. If his free throws recover to 84 to 85%, he is probably about 11th overall.",
+   "ts": "6:19",
+   "quote": "If that if we can just get his free throws back to 8485 then he's probably 11th.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 394
+  },
+  {
+   "player": "Anthony Edwards",
+   "said_as": "Ant",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "The two-game semifinal week drops him to the bottom of his tier, behind Tatum, Giannis and Cade.",
+   "ts": "31:52",
+   "quote": "if I'm debating between Ant and Tatum Giannis Cade he's at the bottom because I don't want two games",
+   "value_hint": "Bottom of the tier with Tatum, Giannis, Cade",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1935
+  },
+  {
+   "player": "LaMelo Ball",
+   "said_as": "Lamelo B",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "He is a second round player in categories and a third round player in points leagues (picks 20 to 25).",
+   "ts": "8:25",
+   "quote": "why do I look at him as a second round category league player? More third round in points",
+   "value_hint": "Second round in categories, about 20 to 25 in points",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 523
+  },
+  {
+   "player": "LaMelo Ball",
+   "said_as": "Lamelo",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "The speaker is not worried about injuries. He expects Ball's minutes to rise and him to take on more of the rebounding.",
+   "ts": "9:28",
+   "quote": "so I think his minutes go up I think he's going to take on a lot of the rebounding",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 593
+  },
+  {
+   "player": "LaMelo Ball",
+   "said_as": "Lamelo",
+   "team": "MIN",
+   "horizon": "durable",
+   "text": "His field goal percentage will be bad and his free throw attempts are low. He has posted seasons of 6 rebounds and 8 assists and 1.8 steals before.",
+   "ts": "9:58",
+   "quote": "His field goals are going to be bad. We're aware of that. His free throw attempts are never where",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 606
+  },
+  {
+   "player": "LaMelo Ball",
+   "said_as": "LaMelo Ball",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "He is a mild target. People fade him, but the speaker is fine with him at his price.",
+   "ts": "29:46",
+   "quote": "I do like LaMelo Bull. People do fade him quite a bit. I'm okay with him.",
+   "value_hint": "Top 20ish in categories, just outside top 20 in points",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1783
+  },
+  {
+   "player": "Rudy Gobert",
+   "said_as": "Gobear",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "ESPN's 55th category rank looks too high. The speaker would take him around 60 in points leagues and 75 in category leagues. With little depth around him, he may get more rebounds and minutes.",
+   "ts": "15:14",
+   "quote": "I'd be happy to go up to like 60 in a points league for him. 75 maybe in a category league.",
+   "value_hint": "About 75 in categories, about 60 in points; ESPN 55 too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 923
+  },
+  {
+   "player": "Rudy Gobert",
+   "said_as": "Gobear",
+   "team": "MIN",
+   "horizon": "durable",
+   "text": "He is 34. His blocks have been under 2 in three of the last four seasons. His free throws are horrendous. He brings great field goal percentage and rebounds but no assists and low scoring.",
+   "ts": "15:44",
+   "quote": "His free throws are horrendous and they dropped over 10 percentage points last season.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 950
+  },
+  {
+   "player": "Rudy Gobert",
+   "said_as": "goar",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "He is decent value compared with Donovan Clingan. Gobert goes around 90 and Clingan goes in the 40s.",
+   "ts": "16:15",
+   "quote": "you're getting him at like 90 and Klingan goes in the 40s I'm okay with goar",
+   "value_hint": "Around 90 vs Clingan in the 40s",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 977
+  },
+  {
+   "player": "Jaden McDaniels",
+   "said_as": "Jaden McDaniels",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "He is value at his Yahoo rank of 92 in categories. The speaker would take him in the 70s and expects a usage increase now that Reid and Randle are gone.",
+   "ts": "17:19",
+   "quote": "Maybe even considering pushing top 60, but I'm not quite there. In the 70s, I'm pretty good with it.",
+   "value_hint": "70s in categories; Yahoo 92 is value",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1048
+  },
+  {
+   "player": "Jaden McDaniels",
+   "said_as": "McDaniels",
+   "team": "MIN",
+   "horizon": "durable",
+   "text": "He has a steals and blocks profile, averaging a steal and a block a game over the final 20 games last season. His value is weaker in points leagues.",
+   "ts": "17:19",
+   "quote": "over 20 average a steal on a block a game and his efficiency was very good.",
+   "value_hint": "About 90 in points",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1039
+  },
+  {
+   "player": "Jonathan Kuminga",
+   "said_as": "Kaminga",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "He is the projected fifth starter, but the speaker questions whether he will be a real starter by minutes or a fake starter.",
+   "ts": "2:38",
+   "quote": "is Kaminga a starter and for how long? And if he is a starter, is he a starter in a way that matters?",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 172
+  },
+  {
+   "player": "Jonathan Kuminga",
+   "said_as": "Kaminga",
+   "team": "MIN",
+   "horizon": "durable",
+   "text": "His fantasy game has been disappointing overall. His big games come when others are out, then he gets buried. He is bad at free throws and threes and has a negative defensive impact.",
+   "ts": "19:23",
+   "quote": "he's bad at free throws bad at three-pointers his two-point numbers are okay",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1159
+  },
+  {
+   "player": "Jonathan Kuminga",
+   "said_as": "Kaminga",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "He is a late flyer only. Yahoo's 115 is fine, and the speaker would not take him inside the top 100. Drop him quickly if nothing happens. He is shooting 23% in preseason.",
+   "ts": "19:23",
+   "quote": "you can pick him in a category league But as soon as we see absolutely nothing happening, very quick to jettison",
+   "value_hint": "Late flyer, not inside top 100",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1174
+  },
+  {
+   "player": "Ayo Dosunmu",
+   "said_as": "Dumu",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "He is likely the sixth man. The speaker calls him overvalued at 108 (ninth round) and a fade at that price. He is fine grabbing him late.",
+   "ts": "24:06",
+   "quote": "So, I don't mind grabbing Dumu late, but 108 round nine maybe uh that just it just feels too high.",
+   "value_hint": "Overvalued at 108 (round 9)",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1446
+  },
+  {
+   "player": "Ayo Dosunmu",
+   "said_as": "Dumu",
+   "team": "MIN",
+   "horizon": "durable",
+   "text": "The speaker doesn't trust his shooting spike. If he falls back to 49% from the field and 79% from the line, he is roughly a 140 to 180 player. He brings bad steals and blocks.",
+   "ts": "23:04",
+   "quote": "if he goes back to being a 49 and 79 guy, that's like the 180th best player.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1385
+  },
+  {
+   "player": "Ayo Dosunmu",
+   "said_as": "Dumu",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "He might close games in small lineups instead of Kuminga.",
+   "ts": "23:04",
+   "quote": "maybe they go small and close games with Dumu instead of Kaminga because again Kaminga is bad",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1399
+  },
+  {
+   "player": "Terrence Shannon Jr.",
+   "said_as": "Terrence Shannon",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "He is likely the seventh man and is often overhyped. He is a low-usage scorer who contributes little else.",
+   "ts": "24:06",
+   "quote": "I think the seventh man is probably Terrence Shannon. Um again, one of those players that at times gets overfled.",
+   "value_hint": "Overhyped",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1458
+  },
+  {
+   "player": "Terrence Shannon Jr.",
+   "said_as": "Shannon",
+   "team": "MIN",
+   "horizon": "durable",
+   "text": "He is efficient (41% from three, 60% true shooting) but brings almost no rebounds, assists or blocks.",
+   "ts": "25:08",
+   "quote": "He hit 41% of his threes on like okay volume for the minutes that he played.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1511
+  },
+  {
+   "player": "Joan Beringer",
+   "said_as": "Yoan Being",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "He is the clear backup center behind Gobert. Being drafted in round 11 of 12-team standard leagues makes no sense to the speaker. His value depends on a Gobert injury.",
+   "ts": "26:10",
+   "quote": "I've seen him get drafted in 12 team standard leagues in like round 11. I don't really understand why.",
+   "value_hint": "Overdrafted at round 11",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1592
+  },
+  {
+   "player": "Joan Beringer",
+   "said_as": "Baron",
+   "team": "MIN",
+   "horizon": "durable",
+   "text": "The speaker sees him as a future NBA starter and possibly a future top 50 fantasy player. As a backup he projects to poor steals, assists and threes and subpar free throws.",
+   "ts": "26:40",
+   "quote": "Now, I think this is a top 50 fantasy player in the future.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1628
+  },
+  {
+   "player": "Joan Beringer",
+   "said_as": "Baron",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Draft him only as a stash in best ball, weekly, games cap or deep bench formats.",
+   "ts": "29:46",
+   "quote": "It's got to be stashable, best draft only, weekly leagues, roto games cap, head-to-head games cap, deep benches.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1813
+  },
+  {
+   "player": "Bones Hyland",
+   "said_as": "Bones Highland",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "He is in the 10-man rotation at about 15 minutes. He can put up numbers, but a consistent role is hard to find.",
+   "ts": "28:13",
+   "quote": "Highland might be a 15 minute a night guy. And Bones can put up numbers.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1704
+  },
+  {
+   "player": "Trey Lyles",
+   "said_as": "Trey Lyles",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "He is back and in the rotation because of the lack of size, possibly only about 14 minutes a night.",
+   "ts": "28:13",
+   "quote": "yes, Trey Lyles is back. And the reason I've got Trey L is in there because there's just no size",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1693
+  },
+  {
+   "player": "Jaylen Clark",
+   "said_as": "Jaylen Clark",
+   "team": "MIN",
+   "horizon": "durable",
+   "text": "He is a very good defender and steals guy who contributes little else.",
+   "ts": "28:13",
+   "quote": "Jaylen Clark, very good defender, good steals guy, not much else.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1714
+  },
+  {
+   "player": "Donte DiVincenzo",
+   "said_as": "the big Ragu doenzo",
+   "team": "MIN",
+   "horizon": "current",
+   "text": "He tore his Achilles in the playoffs and may return around March on a minutes limit. He will not matter for any fantasy league.",
+   "ts": "28:45",
+   "quote": "Achilles in the playoffs. Maybe he returns at some point in March. It will not matter for any fantasy league.",
+   "value_hint": "Do not draft",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1741
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "MIN",
+   "horizon": "current",
+   "text": "Minnesota has moved away from size after trading Naz Reid and Julius Randle. Big man depth is very thin, and they may start three guards with a poor-rebounding four.",
+   "ts": "1:03",
+   "quote": "They traded away Julius Randle and their like big men depth as we go through the roster is very thin.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 82
+  },
+  {
+   "team": "MIN",
+   "horizon": "current",
+   "text": "The projected starting five is Ball, Edwards, McDaniels, Kuminga and Gobert. The speaker is not convinced they stick with it.",
+   "ts": "3:10",
+   "quote": "Ball, Edwards, McDaniels, Kaminga, Go.",
+   "verified": false,
+   "match_ratio": 0.0,
+   "seconds": 190
+  },
+  {
+   "team": "MIN",
+   "horizon": "current",
+   "text": "With Reid and Randle gone, the rebounds and shots get redistributed. That could boost Ball, Edwards and McDaniels.",
+   "ts": "2:08",
+   "quote": "Is Jaden McDaniels good enough to grab those rebounds? Do they all just go towards LaMelo? Does it bump Ant up?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 156
+  },
+  {
+   "team": "MIN",
+   "horizon": "current",
+   "text": "The team lacks passers. Ball is the only good one.",
+   "ts": "18:50",
+   "quote": "LaMelo Ball really good passer. Who else knows how to pass on this team?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1143
+  },
+  {
+   "team": "MIN",
+   "horizon": "current",
+   "text": "The only bigs are Gobert, Beringer, Lyles, Freeman and Rocco Zikarsky.",
+   "ts": "29:15",
+   "quote": "look at the bigs on this roster or Freeman and Australian legend Roco Zaki like that's it that's their bigs",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1759
+  },
+  {
+   "team": "MIN",
+   "horizon": "current",
+   "text": "With playoffs ending March 28, the schedule goes 4, 2, 4, so there is a two-game semifinal week. They have the league minimum 13 back-to-backs.",
+   "ts": "30:49",
+   "quote": "ending on March the 28th they play four games Then they played two and then they play four.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1878
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Anthony Edwards ranked 18th in 9-cat and 15th in Yahoo points leagues last season.",
+   "ts": "4:43",
+   "quote": "He was 18th last season. He was 15th in Yahoo Points leagues. His Yahoo ADP is eight.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 288
+  },
+  {
+   "text": "Edwards played 35 minutes per game with 32% usage last season.",
+   "ts": "5:48",
+   "quote": "35 minutes last season, 32 usage.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 357
+  },
+  {
+   "text": "Edwards averaged 4.1 rebounds over the final 20 or so games last season.",
+   "ts": "5:48",
+   "quote": "he was averaging 4.1 rebounds over the final 20 games or so of last season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 368
+  },
+  {
+   "text": "Edwards shot 84% and 84% from the line in earlier seasons, then 79.6% last season.",
+   "ts": "6:19",
+   "quote": "8484 and then down to 79.6 that 15th ranking last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 390
+  },
+  {
+   "text": "Edwards missed about 21 games last season.",
+   "ts": "8:25",
+   "quote": "And then he missed 23 games or whatever he missed last season, 21 games.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 498
+  },
+  {
+   "text": "LaMelo Ball ranked 28th in categories and 40th in points leagues last season.",
+   "ts": "8:25",
+   "quote": "Lamelo Ball was only 28th last season in categories. He's 40th in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 518
+  },
+  {
+   "text": "Ball played 72 games at 28 minutes per game last season.",
+   "ts": "8:56",
+   "quote": "He did play 72 games last season. He played 28 minutes a night",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 555
+  },
+  {
+   "text": "Ball averaged 1.2 steals and 2.5 free throw attempts last season.",
+   "ts": "9:58",
+   "quote": "he was only at 1.2 last season, but that could go up.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 605
+  },
+  {
+   "text": "Ball averaged 23 points, 5 rebounds, 8 assists and 5 threes with 91% FT over the last seven games of last season.",
+   "ts": "10:30",
+   "quote": "the last seven games of last season, 23, five and eight with five triples a game, 91% from the line.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 646
+  },
+  {
+   "text": "Rudy Gobert ranked 85th in categories and 71st in points, playing 31 minutes per game.",
+   "ts": "15:14",
+   "quote": "he was 85th last season, 71st in points.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 914
+  },
+  {
+   "text": "Gobert is 34 and has been under 2 blocks per game in three of the last four seasons. He scored 11 points per game.",
+   "ts": "15:44",
+   "quote": "In fact, three of the last four seasons he's been under two blocks a game.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 949
+  },
+  {
+   "text": "Jaden McDaniels ranked 84th in categories and 115th in points last season. His Yahoo rank is 92.",
+   "ts": "16:15",
+   "quote": "Like on Yahoo he's ranked at 92. Last season for category leagues 84th. For points leagues it is a big difference. 115th.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 999
+  },
+  {
+   "text": "Jonathan Kuminga ranked 252nd in categories and 176th in points last season.",
+   "ts": "17:50",
+   "quote": "He was 252nd in categories last season, 176th in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1082
+  },
+  {
+   "text": "Ayo Dosunmu ranked 118th last season, played 27 minutes with 21% usage, and shot 52% FG and 44% from three.",
+   "ts": "22:00",
+   "quote": "He was 118th last season.",
+   "verified": false,
+   "match_ratio": 0.0,
+   "seconds": 1320
+  },
+  {
+   "text": "Dosunmu shot 33% from three the year before, and his FT went from 79% to 88%.",
+   "ts": "22:31",
+   "quote": "His free throws also went from 79 to 88.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1378
+  },
+  {
+   "text": "Terrence Shannon Jr. ranked 497th in categories, played 43 games at under 13 minutes, and recorded zero blocks.",
+   "ts": "24:37",
+   "quote": "497th per game, 474th in points leagues. He had injuries, played only 43 games, but under 13 minutes a game",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1481
+  },
+  {
+   "text": "Joan Beringer ranked 438th as a rookie last season.",
+   "ts": "26:10",
+   "quote": "438th last season because we know that the role is going to be different.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1580
+  },
+  {
+   "text": "Minnesota has 13 back-to-backs, the league minimum.",
+   "ts": "32:54",
+   "quote": "They have league minimum backto-backs, 13 of them.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1996
+  }
+ ]
+}

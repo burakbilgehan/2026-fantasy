@@ -11,40 +11,42 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 260 | 0 | 0.0 | 255 | not drafted |
+| 2026-27 | 0 | - | 260 | 0 | 0.0 | 256 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 47.0% | -0.1 | -0.0 | - |
+| FG% | 47.0% | -0.1 | -0.1 | - |
 | FT% | 81.1% | +0.1 | +0.2 | - |
 | 3PM | 1.3 | -0.2 | -0.3 | - |
 | PTS | 8.1 | -1.0 | -1.1 | - |
 | REB | 2.3 | -1.2 | -1.4 | - |
 | AST | 1.2 | -1.1 | -1.1 | - |
-| STL | 0.5 | -1.2 | -1.2 | - |
+| STL | 0.5 | -1.2 | -1.3 | - |
 | BLK | 0.3 | -0.6 | -0.7 | - |
 | TO | 0.8 | +1.1 | +1.1 | - |
 
 </details>
 
 **Current**
-- He is a 1 USD player in 14-team auction leagues. (verdict, 2026-09-29; [09-29](https://youtu.be/XnIWJyBB0EM?t=1855))
-- The Spurs roster is very deep at forward and on the wing, so minutes are spread. (fact, 2026-09-19; [08-27](https://youtu.be/ZAyie8lKyYc?t=1306), [09-19](https://youtu.be/uarqbNA2dFk?t=1601), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312), [07-05](https://youtu.be/4kKINkZhWls?t=3529))
-- He re-signed with the Spurs on a one-year, 8 million USD deal. (fact, 2026-08-27; [07-01](https://youtu.be/W3THnI7wWdA?t=1192), [08-27](https://youtu.be/ZAyie8lKyYc?t=1469))
-- Tobias Harris takes his starting spot. The projected Spurs starters are Fox, Castle, Vassell, Harris and Wembanyama. (fact, 2026-08-27; [08-24](https://youtu.be/g31YlwRe0XQ?t=1055), [08-27](https://youtu.be/ZAyie8lKyYc?t=524))
+- Tobias Harris has a calf strain. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1619))
+- The Spurs roster is very deep at forward and crowded overall, which limits fringe players. (fact, 2026-10-08; [08-27](https://youtu.be/ZAyie8lKyYc?t=1306), [10-08](https://youtu.be/WXO8MfQfzo0?t=2532), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312))
+- He is a 1 USD player in 14-team leagues. (verdict, 2026-09-29; [09-29](https://youtu.be/XnIWJyBB0EM?t=1855))
+- He re-signed with the Spurs on a one-year deal worth 8 million USD. (fact, 2026-08-27; [07-01](https://youtu.be/W3THnI7wWdA?t=1192), [08-27](https://youtu.be/ZAyie8lKyYc?t=1469))
 - He is likely to be outside the rotation on many nights. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1469))
-- The Spurs are projected to be a top team in the West, with a prediction of 63 wins. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2403), [08-27](https://youtu.be/ZAyie8lKyYc?t=152), [07-26](https://youtu.be/75Sk_4fkgIM?t=370))
+- The Spurs are expected to consolidate their forward depth through trades in the relatively near future. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
+- The Spurs are projected to be a top team in the West, with one prediction of 63 wins. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2403), [07-26](https://youtu.be/75Sk_4fkgIM?t=370))
+- The Spurs signed Tobias Harris, who takes over Barnes's forward role. Barnes is part of a wing group with Champagnie, ahead of Keldon Johnson. (fact, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=1055), [07-05](https://youtu.be/4kKINkZhWls?t=3529))
 
 **Durable**
-- He plays a low-usage role and is rarely involved in the offense. (fact, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=346))
-- He is reliable and available every night. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1325), stats)
+- He is a low-usage player who mostly stands on the court and is rarely involved in the offense. (fact, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=346))
+- He is reliable and available every night. He has played 77 or more games in each of the last three seasons. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1325), stats)
 
 **Tags**
-- Current: `usage competition` (rarely involved in the offense, few shots), `contract year` (one-year, 8 million USD deal with the Spurs), `role down` (Tobias Harris takes his starting spot; likely outside the rotation on many nights), `minutes competition` (crowded Spurs forward and wing group with Harris, Vassell, Champagnie and Keldon Johnson), `deep rotation` (Spurs very deep at forward and guard), `winning team` (63 wins predicted)
+- Current: `role down` (Tobias Harris takes his forward role; likely outside the rotation on many nights), `minutes competition` (Tobias Harris, Champagnie, Vassell and Harper at the wing and forward spots), `contract year` (one-year deal worth 8 million USD), `deep rotation` (very deep at forward and crowded overall), `trades likely` (forward depth consolidation expected), `winning team` (63-win prediction)
 - Durable: `plays every game` (82, 82 and 77 games in the last three seasons)
 
-**Note.** Barnes ranks 260 on Yahoo and 255 on ESPN with a value of 0 USD on both sites, well outside the 144 players our league drafts, so do not draft him. His projections drop to about 20 minutes and 8 points, and the only plus is few turnovers, so he has no clear build fit. Early in the season, check whether he holds rotation minutes. He matters only as waiver depth if injuries hit the Spurs forwards.
+**Note.** Both sites rank him around 260 (Yahoo 260, ESPN 256) and value him at 0 USD. That is well outside the 144 players our league drafts, so do not spend a pick on him. His projections are below the pool in PTS, REB, AST and STL, and he has no category strong enough to carry a build. Early in the season, watch his minutes while Tobias Harris has a calf strain. He is only worth a waiver look if he gets a steady rotation role.
 
-<sub>5 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

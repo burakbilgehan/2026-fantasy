@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 4 | 2.4 | 100 | 5 | 2.6 | 76 | 11 |
+| 2026-27 | 5 | 2.1 | 101 | 4 | 2.9 | 78 | 11 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -25,31 +25,31 @@
 | AST | 3.4 | +0.1 | +0.5 | - |
 | STL | 0.7 | -0.7 | -0.7 | - |
 | BLK | 0.5 | -0.2 | -0.1 | - |
-| TO | 1.8 | -0.2 | -0.3 | - |
+| TO | 1.8 | -0.1 | -0.3 | - |
 
 </details>
 
 **Current**
+- Yahoo lists him as questionable with an ankle injury. (fact, 2026-10-11; stats)
+- He shares the ball with Devin Booker, Jalen Green, Dillon Brooks and Collin Gillespie. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1887), [10-06](https://youtu.be/eTsjuVu1trk?t=2626), [09-22](https://youtu.be/QbdrhJd7LiA?t=1801), [09-19](https://youtu.be/uarqbNA2dFk?t=1004), [09-19](https://youtu.be/uarqbNA2dFk?t=989), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2437))
+- Experts expect Booker, Green and Brooks to be ahead of him in usage, so he should lose value in Phoenix. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1887), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2184), [10-06](https://youtu.be/eTsjuVu1trk?t=2626), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2437))
+- Experts call him a bust at his market price. A rank near 100 is 20 to 30 spots too high, pick 89 is too early, and an ESPN rank near 80 is a wasted pick. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1887), [10-06](https://youtu.be/eTsjuVu1trk?t=2626), [09-22](https://youtu.be/QbdrhJd7LiA?t=1801), [09-19](https://youtu.be/uarqbNA2dFk?t=1004), [09-15](https://youtu.be/KPdD91Oo8-U?t=1562))
 - Charlotte traded him to Phoenix for Grayson Allen and Royce O'Neale. (fact, 2026-09-22; [07-01](https://youtu.be/W3THnI7wWdA?t=305), [09-22](https://youtu.be/QbdrhJd7LiA?t=1801), [07-13](https://youtu.be/Rqb5GdrSweY?t=1937))
-- Phoenix has a crowded usage group. Booker, Jalen Green, Dillon Brooks and Collin Gillespie will all want touches. (fact, 2026-09-22; [09-19](https://youtu.be/uarqbNA2dFk?t=989), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200), [09-22](https://youtu.be/QbdrhJd7LiA?t=1801))
-- Experts say his draft position is too high. ESPN rank 77 is too high, rank 98 is 20 to 30 spots too high, and pick 89 in a mock draft was way too early. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1801), [09-19](https://youtu.be/uarqbNA2dFk?t=1004), [09-15](https://youtu.be/KPdD91Oo8-U?t=1562))
-- Experts expect him to lose value in Phoenix because he will not be the lone offensive option. (verdict, 2026-09-19; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2184), [09-19](https://youtu.be/uarqbNA2dFk?t=1004))
-- He is the projected starting power forward in Phoenix, next to Devin Booker, Jalen Green and Dillon Brooks. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1558), [08-23](https://youtu.be/hm5-fiCa5S4?t=509), [07-01](https://youtu.be/W3THnI7wWdA?t=305))
-- The Suns hope his ball handling, rim pressure and catch-and-shoot threes take pressure off Booker. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1558))
+- He is the projected starting power forward in Phoenix. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1558), [07-01](https://youtu.be/W3THnI7wWdA?t=305))
+- The Suns hope his ball handling, rim pressure and catch-and-shoot threes take pressure off Devin Booker. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1558))
 
 **Durable**
-- His athleticism has declined a lot over the last three years, and his finishing at the rim has dropped as he got older. (fact, 2026-09-19; [08-23](https://youtu.be/hm5-fiCa5S4?t=492), [07-21](https://youtu.be/EB1Z_6n56-o?t=375), [09-19](https://youtu.be/uarqbNA2dFk?t=1004))
-- He only puts up strong numbers when he is the lone offensive option. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2184))
-- His production has mostly come when LaMelo Ball and Brandon Miller were injured and his usage went up. His minutes shrank late last season when he was asked to scale back. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1700))
+- He only puts up strong numbers as the number one option with high usage. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1906), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2184), [08-23](https://youtu.be/hm5-fiCa5S4?t=1700))
+- Experts call him a poor shooter whose three-point shot was only good in one outlier season. (verdict, 2026-10-06; [07-21](https://youtu.be/EB1Z_6n56-o?t=375), [08-23](https://youtu.be/hm5-fiCa5S4?t=1671), [10-06](https://youtu.be/eTsjuVu1trk?t=2626), [09-19](https://youtu.be/uarqbNA2dFk?t=1004))
+- He adds few steals and blocks. (fact, 2026-10-06; [08-23](https://youtu.be/hm5-fiCa5S4?t=1671), [10-06](https://youtu.be/eTsjuVu1trk?t=2626), [09-19](https://youtu.be/uarqbNA2dFk?t=1004), stats)
+- His athleticism and his finishing at the rim have declined over the last three years. (fact, 2026-09-19; [08-23](https://youtu.be/hm5-fiCa5S4?t=492), [07-21](https://youtu.be/EB1Z_6n56-o?t=375), [09-19](https://youtu.be/uarqbNA2dFk?t=1004))
+- His best production came when LaMelo Ball and Brandon Miller were injured and his usage went up. His minutes shrank late last season when he was asked to scale back. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1700))
 - He shot 33% from three last season. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=492))
-- Experts see his three-point shot as unreliable. It was only good in one outlier season. (verdict, 2026-08-23; [07-21](https://youtu.be/EB1Z_6n56-o?t=375), [08-23](https://youtu.be/hm5-fiCa5S4?t=1671))
-- One expert says he does not generate steals or blocks and passes poorly. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1671))
-- He is at best an inconsistent defender. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=2059))
 
 **Tags**
-- Current: `new team` (Traded from Charlotte to Phoenix), `role down` (Shares touches with Booker, Jalen Green, Brooks and Gillespie), `bust candidate` (Experts call ESPN rank 77 and a rank near 89 to 98 too high)
-- Durable: `usage dependent` (Produced mainly when Ball and Miller were out), `age decline watch` (Athleticism and rim finishing have declined over the last three years), `fits every build` (No category flagged weak, but no category stands out either)
+- Current: `new team` (traded from Charlotte to Phoenix), `usage competition` (Booker, Jalen Green, Dillon Brooks and Gillespie), `role down` (expected to fall behind Booker, Green and Brooks in usage), `bust candidate` (rank near 80 to 100 seen as 20 to 30 spots too high), `injured now` (ankle, Yahoo status Q), `questionable` (ankle)
+- Durable: `usage dependent` (only produces as the number one option), `age decline watch` (athleticism and rim finishing declining)
 
-**Note.** Yahoo values him at 4 USD and ESPN at 5 USD, both with a 2.4 USD average cost. He cost 11 USD in our league last season. Experts put his real worth 20 to 30 spots below his rank near 98, so he is around the edge of our 144-player pool and is worth only a 1 to 3 USD bench spot. His line is balanced (PTS, REB, 3PM and FT% slightly positive, FG% and steals below average), so he fits any build without carrying one. Early in the season, check his shot volume next to Booker, Green and Brooks. If his FGA drops toward last season's 13.5 per game, he is replaceable on waivers.
+**Note.** Bridges sits on the edge of our 144-player pool: Yahoo ranks him 101 and ESPN 78, and both price him at only 3 to 5 USD. Our league paid 11 USD for him last season, but every recent expert note calls him a bust behind Booker, Green and Brooks. He projects for about 18 points, 2.1 threes and 84% FT, but he hurts FG% and steals and does not clearly fit any punt build. Do not pay more than a few USD. If you draft him, check his ankle (Yahoo Q) and his shot share in Phoenix in the first two weeks, and drop him if his usage shrinks.
 
-<sub>13 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>16 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

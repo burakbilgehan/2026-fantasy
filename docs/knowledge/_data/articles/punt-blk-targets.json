@@ -15,35 +15,37 @@
  ],
  "proposed": false,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-04T20:14:33+00:00",
+ "built_at": "2026-10-11T09:45:18+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1042528,
-  "duration_ms": 38207
+  "cost_usd_list": 0.10532079999999999,
+  "duration_ms": 35883,
+  "turns": 2,
+  "denied": 0
  },
  "player_slugs": [
   "aaron-gordon",
-  "bobby-portis",
   "immanuel-quickley",
   "jalen-brunson",
   "payton-pritchard",
   "saddiq-bey",
   "tre-jones"
  ],
- "summary": "Punting blocks fits our 9-cat league because blocks are volatile, so a punt team still steals some weeks by surprise. The catch is that blocks travel with rebounds and FG%. Chasing only low-block players can sink those two categories too, so every punt BLK target must be checked for rebounds and FG%, not just for a low block number.",
+ "summary": "Punt BLK suits our 9-cat league because blocks swing a lot from year to year and you will still win the category some weeks without trying. The risk is that blocks move with rebounds and FG%. If you only draft low-block players, you can lose REB and FG% too. Use Brunson at 20 to 25 USD and cheap guards like Pritchard and Quickley for threes and assists. Then protect FG% with efficient pieces like Tre Jones and Gordon, and keep real rebounding bigs on the roster.",
  "sections": [
   {
-   "heading": "Why blocks are a good category to punt",
+   "heading": "Why blocks are a good punt",
    "paragraphs": [
     {
-     "text": "Blocks change a lot from one year to the next. That makes them hard to plan around and easy to give up.",
+     "text": "Blocks are very variable from year to year. That makes them a good category to punt. High-variance categories like steals, blocks, threes and FT% still fall your way some weeks by surprise. Stable, high-volume categories like points and assists are bad to punt. In our weekly H2H format, giving up blocks costs less than giving up points or assists.",
      "sources": [
-      "ME-r173X5b0:r13"
+      "ME-r173X5b0:r13",
+      "ME-r173X5b0:r18"
      ]
     },
     {
-     "text": "The notes rank blocks with steals, threes and FT% as high-variance categories. Those are the better ones to punt, because you still win some weeks by surprise. Points and assists are stable, high-volume categories and are bad to punt. In our 9-cat head-to-head league, that means a punt BLK team can still take the blocks category in a lucky week and should never give up on points or assists.",
+     "text": "In practice, plan to win the other eight categories most weeks. Do not spend auction dollars on blocks. Count any blocks you get from your center and forwards as a bonus.",
      "sources": [
       "ME-r173X5b0:r18"
      ]
@@ -51,72 +53,106 @@
    ]
   },
   {
-   "heading": "The warning: blocks travel with rebounds and FG%",
+   "heading": "The trap: blocks travel with REB and FG%",
    "paragraphs": [
     {
-     "text": "High blocks go with high rebounds and high FG%. The reverse also holds. If you chase low-block players when punting blocks, your rebounds and FG% will suffer too. A punt BLK plan can quietly become a punt of three categories, and that loses most weeks.",
+     "text": "High blocks go with high rebounds and high FG%. If you chase only low-block players, your rebounds and FG% will suffer too. Then a one-category punt quietly becomes a three-category punt, and three lost categories every week is too many to win in 9-cat H2H.",
      "sources": [
       "C4vlgpJ62NI:r8",
       "C4vlgpJ62NI:r9"
      ]
     },
     {
-     "text": "Rebounds, blocks and FG% are the one cluster that moves together. That is why the big man build is hard to run. A punt BLK team is the mirror image: it drifts away from the same cluster, so you have to pull rebounds and FG% back in on purpose.",
+     "text": "So the rule for our draft is simple. Punt blocks by not paying for them. Do not punt them by avoiding every player who blocks shots. Keep at least your C slot and one Util slot for players who bring rebounds and good FG%, even if they also block shots. None of the six player notes below lists rebounds as a strength, so this target list cannot cover REB on its own.",
      "sources": [
-      "0geFVzSqOnA:r4"
-     ]
-    },
-    {
-     "text": "The correlations also hit turnovers. High assists go with high turnovers, and low turnovers go with low points and assists. A punt BLK roster built on assist guards can lose TO as well. Favor guards whose profiles show low turnovers next to their assists.",
-     "sources": [
+      "C4vlgpJ62NI:r9",
       "C4vlgpJ62NI:r8"
      ]
-    }
-   ]
-  },
-  {
-   "heading": "How to run it in our auction",
-   "paragraphs": [
+    },
     {
-     "text": "Rule 1: do not pay for blocks. Any big whose price is built on blocks is someone else's player. Spend the 200 USD on guards and wings who give points, threes, FT% and assists, the stable categories you must not lose.",
+     "text": "The notes pull in two directions here. One view says blocks are among the best categories to punt because they are high variance. Another view warns that the big man side is tightly linked. Only rebounds, blocks and FG% move together, which makes a big man build harder to execute. Read together, punting blocks is sound, but it needs care in the frontcourt. It is not a free pass to load up on guards and wings.",
      "sources": [
       "ME-r173X5b0:r18",
-      "C4vlgpJ62NI:r9"
-     ]
-    },
-    {
-     "text": "Rule 2: check two numbers on every target besides blocks. Look at projected FG% and projected rebounds. A low-block guard with a weak FG% makes the punt worse, because FG% is a team ratio and volume shooters move it most. Prefer low-block players whose FG% is at or above average.",
-     "sources": [
-      "C4vlgpJ62NI:r8",
-      "C4vlgpJ62NI:r9"
-     ]
-    },
-    {
-     "text": "Rule 3: you still need a C and three F slots filled every day. Use your late dollars, around 1 to 2 USD, on low-block forwards and centers who still rebound or shoot efficiently. That keeps REB and FG% alive without paying for blocks.",
-     "sources": [
       "0geFVzSqOnA:r4",
       "C4vlgpJ62NI:r9"
      ]
+    }
+   ]
+  },
+  {
+   "heading": "Guard targets: points, threes, assists, FT%",
+   "paragraphs": [
+    {
+     "text": "Jalen Brunson is the anchor guard for this build, but only at the right price. Category experts see him as a fourth-round player, not a top-30 one. Let others pay 30 USD or more. Bid up to about 20 to 25 USD for his points, FT%, threes and assists. He blocks almost nothing, so he fits the punt cleanly.",
+     "sources": [
+      "player:jalen-brunson"
+     ]
     },
     {
-     "text": "Rule 4: after the draft, use FAB and the 6 weekly adds to stream rebounds and FG% when a matchup is close. Do not stream for blocks. Because blocks are volatile, check in the first weeks whether any of your low-block players suddenly block more shots. That is a bonus, not a reason to change the plan.",
+     "text": "Payton Pritchard and Immanuel Quickley are the cheap guard layer. Pritchard brings threes, solid FT%, assists and low turnovers. Cap him at about 5 USD. Quickley helps in threes and assists and is a value pick in single digits. His 43.5% FG% is a small drag, so do not pair him with other weak FG% shooters.",
      "sources": [
-      "ME-r173X5b0:r13",
+      "player:payton-pritchard",
+      "player:immanuel-quickley"
+     ]
+    },
+    {
+     "text": "Remember that high assists go with high turnovers. If you stack Brunson and Quickley for assists, balance them with low-turnover players like Pritchard or Tre Jones so TO does not slip.",
+     "sources": [
+      "C4vlgpJ62NI:r8",
+      "player:payton-pritchard",
+      "player:tre-jones"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Cheap pieces that protect FG%",
+   "paragraphs": [
+    {
+     "text": "Tre Jones is projected for a 54.5% FG% from a guard, with assists and few turnovers. That is exactly the kind of player who keeps FG% alive in a punt BLK build. He is a 1 USD last pick at most and more likely a waiver add. Add him if his minutes stay around 23 to 25, or if Powell or Giddey miss time or Powell is traded.",
+     "sources": [
+      "player:tre-jones",
+      "C4vlgpJ62NI:r9"
+     ]
+    },
+    {
+     "text": "Aaron Gordon is a decent FG% forward with some threes and assists, and he is eligible at F and C. He played only 36 and 51 games in the last two seasons, and experts see no upside. Let others draft him. If he goes undrafted, check his minutes and his hamstring and calf health early. Use him as a streamer, since Denver has few back-to-backs.",
+     "sources": [
+      "player:aaron-gordon"
+     ]
+    },
+    {
+     "text": "Saddiq Bey brings FT%, threes and few turnovers, but his FG% is below average. He is the kind of low-block player who drags FG% down with blocks. He sits near our 144-player cut. Leave him on waivers unless Mosley starts him or closes games with him.",
+     "sources": [
+      "player:saddiq-bey",
       "C4vlgpJ62NI:r9"
      ]
     }
    ]
   },
   {
-   "heading": "Where the notes pull in different directions",
+   "heading": "Draft day and early season checklist",
    "paragraphs": [
     {
-     "text": "One side says blocks are a smart punt. They are volatile, so you still win some weeks for free and give up little. The other side warns that the punt is not free. Blocks travel with rebounds and FG%, so a careless punt BLK draft also loses those two categories. Both are right. Punt blocks, but guard REB and FG% on every pick.",
+     "text": "On 2026-10-18, set price caps before the draft: Brunson about 20 to 25 USD, Pritchard about 5 USD, Quickley single digits, and Tre Jones 1 USD at most. Do not pay for Gordon or Bey. After each guard you win, check your running FG% picture. If you already have Quickley, the next cheap pick should help FG%, not hurt it.",
      "sources": [
-      "ME-r173X5b0:r18",
-      "ME-r173X5b0:r13",
-      "C4vlgpJ62NI:r8",
-      "C4vlgpJ62NI:r9"
+      "player:jalen-brunson",
+      "player:payton-pritchard",
+      "player:immanuel-quickley",
+      "player:tre-jones",
+      "player:aaron-gordon",
+      "player:saddiq-bey"
+     ]
+    },
+    {
+     "text": "In the first weeks, watch Brunson's minutes, back-to-back rest and wrist. The Knicks plan to be careful with starters for the first 30 or so games. Watch whether Pritchard starts and gets about 30 minutes, whether Quickley's three-point volume rises next to Kawhi, and the Jones, Gordon and Bey triggers above. Use FAB on whichever trigger hits first, within our 6 adds per week.",
+     "sources": [
+      "player:jalen-brunson",
+      "player:payton-pritchard",
+      "player:immanuel-quickley",
+      "player:tre-jones",
+      "player:aaron-gordon",
+      "player:saddiq-bey"
      ]
     }
    ]
@@ -125,38 +161,33 @@
  "players": [
   {
    "slug": "jalen-brunson",
-   "tier": "Core target at fair price",
-   "line": "The strongest punt BLK guard here for points, threes, FT% and assists, but let others pay above his round 4 value and check his minutes plan, wrist and back-to-back rest early."
+   "tier": "Core target at price",
+   "line": "He blocks almost nothing and brings points, FT%, threes and assists, but only at about 20 to 25 USD, not the 30 USD plus markets charge."
   },
   {
    "slug": "payton-pritchard",
    "tier": "Value at price",
-   "line": "Gives threes, FT%, assists and low turnovers and rarely misses games, which suits punt BLK at a single-digit price, though nothing in his profile helps REB or FG%."
+   "line": "He is a cheap bench or Util guard for threes, FT%, assists and low turnovers, worth no more than about 5 USD."
   },
   {
    "slug": "immanuel-quickley",
-   "tier": "Late flyers",
-   "line": "Adds threes, assists and FT% for a punt BLK guard build, but his roughly 43.5% FG% compounds the FG% loss the punt already brings."
-  },
-  {
-   "slug": "aaron-gordon",
-   "tier": "Late flyers",
-   "line": "A 1 to 2 USD bench big with F and C eligibility and a slight FG% edge that helps keep FG% alive, but only if his health and Denver minutes hold up."
-  },
-  {
-   "slug": "bobby-portis",
-   "tier": "Late flyers",
-   "line": "A cheap bench big who adds rebounds, a few threes and few turnovers with few blocks, a good way to keep REB alive, though his FT% and minutes need checking early."
+   "tier": "Value at price",
+   "line": "He is a single-digit source of threes and assists, but his 43.5% FG% means you should pair him with efficient shooters."
   },
   {
    "slug": "tre-jones",
-   "tier": "Waiver watch",
-   "line": "His projected 54.5% FG% is rare for a low-block guard and helps FG%, plus assists with few turnovers, so add him if his minutes grow."
+   "tier": "Late flyer",
+   "line": "His projected 54.5% FG%, assists and few turnovers make him the best FG% protector here, at 1 USD or as a waiver add."
+  },
+  {
+   "slug": "aaron-gordon",
+   "tier": "Waiver streamer",
+   "line": "He is a decent FG% F/C with some threes and assists, but he plays few games, so let others draft him and stream him if he goes undrafted."
   },
   {
    "slug": "saddiq-bey",
    "tier": "Waiver watch",
-   "line": "Fits punt BLK with FT%, threes and very few turnovers, but his FG% hurts a little and his minutes may drop, so leave him on waivers."
+   "line": "He fits the punt with FT%, threes and few turnovers, but his below-average FG% is the trap this article warns about, so leave him on waivers unless he starts and closes games."
   }
  ],
  "excluded": [],

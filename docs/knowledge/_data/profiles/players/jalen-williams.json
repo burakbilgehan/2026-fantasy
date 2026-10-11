@@ -8,48 +8,43 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "d5e62151a948",
- "note_count": 17,
- "built_at": "2026-10-05T19:52:28+00:00",
+ "input_sha": "7b394c9d5a5e",
+ "note_count": 18,
+ "built_at": "2026-10-11T09:17:55+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2413894,
-  "duration_ms": 54939,
-  "turns": 3,
+  "cost_usd_list": 0.17019019999999999,
+  "duration_ms": 42487,
+  "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "His wrist is healthy again.",
-   "kind": "fact",
-   "date": "2026-07-26",
-   "until": "",
-   "sources": [
-    "75Sk_4fkgIM:p3"
-   ]
-  },
-  {
-   "text": "He is expected to be fine coming into the season.",
+   "text": "Experts value him around picks 35 to 50. Pick 24 is too early for him.",
    "kind": "verdict",
-   "date": "2026-08-24",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
+    "BiIZsSypx7Y:p19",
+    "LM0cRCGoAUQ:p29",
+    "dlo7L8Ru91A:p19",
+    "KPdD91Oo8-U:p6",
+    "-KS_AZjZnw4:p55",
     "g31YlwRe0XQ:p16"
    ]
   },
   {
-   "text": "Experts say it is too early to call him injury prone, and that expecting last season's injuries to repeat would be a mistake. He still has to prove he can stay healthy this year.",
+   "text": "In an auction mock draft he went for 29 USD, which Josh called too high.",
    "kind": "verdict",
-   "date": "2026-07-26",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "75Sk_4fkgIM:p0",
-    "-KS_AZjZnw4:p52"
+    "Q6YlQDvD-aY:p10"
    ]
   },
   {
-   "text": "Experts think the market has faded him too far after last season's injuries.",
+   "text": "Several experts think drafters have faded him too hard after last season's injuries and are happy to take him at his lower draft position.",
    "kind": "verdict",
    "date": "2026-09-15",
    "until": "",
@@ -61,34 +56,52 @@
    ]
   },
   {
-   "text": "Experts value him as a pick 35 to 45 player, in rounds 3 to 4. They are happy to draft him around pick 45.",
-   "kind": "verdict",
-   "date": "2026-09-14",
+   "text": "Last season was cut short by wrist surgery and then several hamstring injuries.",
+   "kind": "fact",
+   "date": "2026-09-27",
    "until": "",
    "sources": [
-    "LM0cRCGoAUQ:p29",
-    "dlo7L8Ru91A:p19",
-    "g31YlwRe0XQ:p16",
-    "-KS_AZjZnw4:p55"
+    "CRLSsoGhb2w:p24",
+    "-KS_AZjZnw4:p52",
+    "75Sk_4fkgIM:p1"
    ]
   },
   {
-   "text": "Pick 24 is too early for him. A 29 USD price in an auction mock was called too high.",
-   "kind": "verdict",
-   "date": "2026-10-05",
+   "text": "His wrist is healthy again, and he is expected to be fine coming into the season.",
+   "kind": "fact",
+   "date": "2026-08-24",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p10",
-    "KPdD91Oo8-U:p6"
+    "75Sk_4fkgIM:p3",
+    "g31YlwRe0XQ:p16"
    ]
   },
   {
-   "text": "More minutes plus better shooting and defensive stats should make him a top-50 player again.",
+   "text": "Yahoo lists him as questionable for rest.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Expecting last season's injuries to repeat would be a mistake. He should get back to top 50 value if he gains about four minutes and his shooting and defensive stats improve.",
    "kind": "verdict",
    "date": "2026-07-20",
    "until": "",
    "sources": [
+    "-KS_AZjZnw4:p52",
     "-KS_AZjZnw4:p55"
+   ]
+  },
+  {
+   "text": "It is too early to call him injury prone, but he has to prove he can stay healthy this season.",
+   "kind": "verdict",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p0"
    ]
   },
   {
@@ -102,18 +115,19 @@
    ]
   },
   {
-   "text": "OKC lost Lu Dort, Isaiah Joe and Aaron Wiggins. That opens up usage. He and Alex Caruso are the only wings left who can guard bigger forwards.",
+   "text": "OKC traded away Lu Dort, Isaiah Joe and Aaron Wiggins, which opens up usage. He and Alex Caruso are the only wings left who can guard bigger forwards.",
    "kind": "fact",
-   "date": "2026-07-26",
+   "date": "2026-08-30",
    "until": "",
    "sources": [
-    "-KS_AZjZnw4:t7",
     "75Sk_4fkgIM:t0",
-    "75Sk_4fkgIM:t2"
+    "75Sk_4fkgIM:t2",
+    "-KS_AZjZnw4:t7",
+    "Alwse2uXzD4:t0"
    ]
   },
   {
-   "text": "OKC may lean more on offense with SGA, Ajay Mitchell and Williams together. The team is projected to win about 57 to 62 games.",
+   "text": "OKC may lean more on offense, using Shai Gilgeous-Alexander, Ajay Mitchell and Williams together. The team is projected to win about 57 to 62 games.",
    "kind": "verdict",
    "date": "2026-07-26",
    "until": "",
@@ -125,17 +139,6 @@
  ],
  "durable": [
   {
-   "text": "Last season he missed the start after wrist surgery, then hurt his hamstring several times after returning. Many of his games came at reduced minutes while he recovered.",
-   "kind": "fact",
-   "date": "2026-09-27",
-   "until": "",
-   "sources": [
-    "CRLSsoGhb2w:p24",
-    "75Sk_4fkgIM:p1",
-    "-KS_AZjZnw4:p52"
-   ]
-  },
-  {
    "text": "Elite defender who can guard positions one through five. Experts call him an All-NBA and All-Defense caliber player.",
    "kind": "verdict",
    "date": "2026-07-26",
@@ -145,17 +148,7 @@
    ]
   },
   {
-   "text": "Takes very few threes, a long-standing concern.",
-   "kind": "fact",
-   "date": "2026-07-26",
-   "until": "",
-   "sources": [
-    "-KS_AZjZnw4:p54",
-    "75Sk_4fkgIM:t5"
-   ]
-  },
-  {
-   "text": "His high block, rebound and FG% rates came when he played center. On a healthy team he plays the three.",
+   "text": "His high block, rebound and field goal rates came when he played center. When OKC is healthy, he plays the three.",
    "kind": "fact",
    "date": "2026-07-20",
    "until": "",
@@ -164,12 +157,32 @@
    ]
   },
   {
-   "text": "Strong in steals, points and assists for a forward. He has no weak category.",
+   "text": "He takes very few threes, which has long been a concern.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-07-20",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p54",
+    "75Sk_4fkgIM:t5"
+   ]
+  },
+  {
+   "text": "His assists and steals are his best categories and are strong for a forward. He has no weak category.",
+   "kind": "fact",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
+   ]
+  },
+  {
+   "text": "Injury history: wrist surgery and several hamstring injuries in one season. Many of his games that season came at about 20 minutes, and only about 20 were full-speed games.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p24",
+    "75Sk_4fkgIM:p1"
    ]
   }
  ],
@@ -177,7 +190,7 @@
   {
    "name": "AST from a big",
    "channel": "durable",
-   "detail": "5.3 assists projected as a forward",
+   "detail": "About 5.3 assists projected as a forward",
    "until": "",
    "sources": [
     "stats"
@@ -187,7 +200,7 @@
   {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "",
+   "detail": "No category flagged weak. Best in AST, STL and PTS",
    "until": "",
    "sources": [
     "stats"
@@ -195,21 +208,9 @@
    "new_meaning": ""
   },
   {
-   "name": "injury last season",
-   "channel": "current",
-   "detail": "wrist surgery, then repeated hamstring injuries",
-   "until": "",
-   "sources": [
-    "CRLSsoGhb2w:p24",
-    "75Sk_4fkgIM:p0",
-    "75Sk_4fkgIM:p1"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "bounce-back",
    "channel": "current",
-   "detail": "expected back near a top-50 level",
+   "detail": "Wrist and hamstring injuries derailed last season",
    "until": "",
    "sources": [
     "-KS_AZjZnw4:p52",
@@ -219,12 +220,24 @@
    "new_meaning": ""
   },
   {
-   "name": "winning team",
+   "name": "injury last season",
    "channel": "current",
-   "detail": "OKC projected for 57 to 62 wins",
+   "detail": "Wrist surgery, then repeated hamstring injuries",
    "until": "",
    "sources": [
-    "75Sk_4fkgIM:t3"
+    "CRLSsoGhb2w:p24",
+    "75Sk_4fkgIM:p0",
+    "75Sk_4fkgIM:p1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q (Rest)",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   },
@@ -234,11 +247,22 @@
    "detail": "OKC lost Dort, Joe and Wiggins",
    "until": "",
    "sources": [
-    "-KS_AZjZnw4:t7"
+    "-KS_AZjZnw4:t7",
+    "75Sk_4fkgIM:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "Projected 57 to 62 wins",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:t3"
    ],
    "new_meaning": ""
   }
  ],
- "note": "He cost 35 USD in our last auction. This year Yahoo values him at 26 USD (average cost 22) and ESPN at 20 USD (average cost 18.2). Experts see him as a pick 35 to 45 player and called 29 USD too high, so a bid in the low to mid 20s is fair. He has no weak category, so he fits any build and helps most in steals, assists and points. Early in the season, check that his hamstrings hold up and whether he takes more threes.",
+ "note": "Market ranks (Yahoo 37, ESPN 35) match the experts' pick 35 to 50 range, so he is fairly priced around 20 to 25 USD (Yahoo value 25, ESPN 20). Our league paid 35 USD last season, and Josh called 29 USD in a mock too high. Because he has no weak category, with strong assists and steals for a forward, he fits any build. Early in the season, check whether his hamstrings hold, whether his minutes climb back above 32, and whether OKC really pushes his three-point volume.",
  "rejected": []
 }

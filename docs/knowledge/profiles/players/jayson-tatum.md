@@ -11,50 +11,50 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 54 | 54.6 | 7 | 57 | 54.3 | 8 | not drafted |
+| 2026-27 | 54 | 51.2 | 7 | 58 | 55.5 | 7 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 45.5% | -0.8 | -0.9 | - |
+| FG% | 45.5% | -0.8 | -1.0 | - |
 | FT% | 81.9% | +0.6 | +0.8 | - |
 | 3PM | 3.3 | +2.0 | +2.4 | league outlier, strong |
-| PTS | 25.9 | +2.1 | +2.2 | league outlier, strong |
-| REB | 8.9 | +1.6 | +1.9 | - |
-| AST | 5.6 | +1.3 | +2.1 | - |
-| STL | 1.1 | +0.5 | +0.5 | - |
+| PTS | 25.9 | +2.0 | +2.2 | league outlier, strong |
+| REB | 8.9 | +1.6 | +1.8 | - |
+| AST | 5.6 | +1.2 | +2.0 | - |
+| STL | 1.1 | +0.4 | +0.5 | - |
 | BLK | 0.5 | -0.3 | -0.2 | - |
 | TO | 2.7 | -1.4 | -1.7 | weak for his position (punt fit) |
 
 </details>
 
 **Current**
-- In an auction mock draft he went for 46 USD. Josh would have paid more than 45 USD but did not want to spend over 40 USD on anyone. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=774))
-- Boston has 16 back-to-backs, tied for the most in the league, and three in the fantasy playoff window. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1837), [08-16](https://youtu.be/gf_6GveiAls?t=901))
-- He tore his Achilles and came back much earlier than expected last season. He finished 19th per game in limited minutes and played 35 minutes a night in the playoffs. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=516), [07-30](https://youtu.be/TiiaNZCJNs8?t=1369))
-- He missed playoff Game 7 with knee inflammation from compensating for the Achilles. It is not chronic and needed no surgery. (fact, 2026-09-25; [07-30](https://youtu.be/TiiaNZCJNs8?t=1363), [09-25](https://youtu.be/Bi1cEM03k9Y?t=533), [09-16](https://youtu.be/2A2JbUN-kc0?t=442), [09-10](https://youtu.be/dlo7L8Ru91A?t=174))
-- Experts are not worried about the Achilles. Their only concern is the Game 7 knee issue, rated at about 1% risk. One expert wants to hear at media day that he is fine. He is expected to arrive fully healthy. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=533), [09-16](https://youtu.be/2A2JbUN-kc0?t=442), [09-10](https://youtu.be/dlo7L8Ru91A?t=174), [07-30](https://youtu.be/TiiaNZCJNs8?t=1363), [09-01](https://youtu.be/80kfLVnFQ_s?t=319), [08-11](https://youtu.be/OdDkXFhoKsc?t=366))
-- He is not expected to play limited minutes or sit back-to-backs, including the back-to-backs in the fantasy playoff window. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1487), [09-14](https://youtu.be/LM0cRCGoAUQ?t=356), [08-16](https://youtu.be/gf_6GveiAls?t=906))
-- Experts are comfortable taking him at picks 6 to 8 and call that good value. Some would take him as early as pick 5, and an ESPN ADP of 12 is too late. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=560), [09-14](https://youtu.be/LM0cRCGoAUQ?t=335), [09-23](https://youtu.be/C4vlgpJ62NI?t=2083), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2105), [09-01](https://youtu.be/80kfLVnFQ_s?t=319), [09-10](https://youtu.be/dlo7L8Ru91A?t=143), [08-19](https://youtu.be/J1Eg3uaAICU?t=393))
-- Boston plays 4-3-4 games in our playoff weeks, one game short of the maximum. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1816))
-- Boston is projected to be a better regular season team than last year, with about 48 wins. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=191), [07-30](https://youtu.be/TiiaNZCJNs8?t=2194), [07-02](https://youtu.be/P6TNP-g0wzY?t=272), [07-07](https://youtu.be/ME-r173X5b0?t=2186))
-- Jaylen Brown is gone. Tatum is the top option and Paul George is the clear number two in Boston. (fact, 2026-09-17; [08-19](https://youtu.be/J1Eg3uaAICU?t=1755), [08-30](https://youtu.be/Alwse2uXzD4?t=1671), [09-17](https://youtu.be/DubdKKhMWHo?t=1644))
-- Experts expect a big usage season, with more usage than last season. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=442), [09-10](https://youtu.be/dlo7L8Ru91A?t=174))
-- He said he played at about 80 to 85% after the Achilles return. (fact, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=1369))
-- His rim finishing fell from 69 to 60 after the Achilles return. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1244))
-- His FG% should go up, and he should return to his best. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1244))
+- Jaylen Brown is gone from Boston, and Paul George has joined the team. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1188), [07-02](https://youtu.be/P6TNP-g0wzY?t=272), [10-06](https://youtu.be/eTsjuVu1trk?t=1262))
+- Experts are comfortable taking him in round one, around picks 6 to 8, and call his rank of 7 to 8 about right. One says an ESPN ADP of 12 is too late. The newest view, from early October, is neutral: he is one of many first-round players bunched together. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=553), [09-25](https://youtu.be/Bi1cEM03k9Y?t=560), [09-23](https://youtu.be/C4vlgpJ62NI?t=2083), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2105), [09-14](https://youtu.be/LM0cRCGoAUQ?t=335), [09-10](https://youtu.be/dlo7L8Ru91A?t=143), [09-10](https://youtu.be/dlo7L8Ru91A?t=174), [08-19](https://youtu.be/J1Eg3uaAICU?t=393), [09-01](https://youtu.be/80kfLVnFQ_s?t=319))
+- He went for 46 USD in an expert auction mock draft on 2026-10-05. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=774))
+- Josh would pay more than 45 USD for him. He held off only because he did not want to spend over 40 USD on any one player. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=774))
+- Boston has 16 back-to-backs, tied for the most in the league. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1837), [08-16](https://youtu.be/gf_6GveiAls?t=901))
+- He came back early from a torn Achilles last season. He finished 19th per game in limited minutes and played 35 minutes a night in the playoffs. He said he played at about 80 to 85%. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=516), [07-30](https://youtu.be/TiiaNZCJNs8?t=1369))
+- He missed playoff Game 7 with knee inflammation from compensating for the Achilles. The knee issue is not chronic and needed no surgery. (fact, 2026-09-25; [07-30](https://youtu.be/TiiaNZCJNs8?t=1363), [09-25](https://youtu.be/Bi1cEM03k9Y?t=533))
+- Experts are not worried about the Achilles. The Game 7 knee problem is their only health concern, and one expert rates that risk at about 1%. He is expected to arrive fully healthy. (verdict, 2026-09-25; [07-30](https://youtu.be/TiiaNZCJNs8?t=1363), [09-25](https://youtu.be/Bi1cEM03k9Y?t=533), [09-16](https://youtu.be/2A2JbUN-kc0?t=442), [09-10](https://youtu.be/dlo7L8Ru91A?t=174), [09-01](https://youtu.be/80kfLVnFQ_s?t=319), [08-11](https://youtu.be/OdDkXFhoKsc?t=366))
+- Experts expect no minutes restriction. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1487), [09-14](https://youtu.be/LM0cRCGoAUQ?t=356))
+- He is expected to play back-to-backs, including the three Boston has in our playoff window. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1487), [08-16](https://youtu.be/gf_6GveiAls?t=906))
+- Boston plays 4, 3 and 4 games in our playoff weeks 19 to 21. That is one game short of the maximum, and the window includes three back-to-backs. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1816), [08-16](https://youtu.be/gf_6GveiAls?t=901))
+- Boston is projected to win about 48 games and to be better than last season. (verdict, 2026-09-25; [07-30](https://youtu.be/TiiaNZCJNs8?t=2194), [09-25](https://youtu.be/Bi1cEM03k9Y?t=191), [07-02](https://youtu.be/P6TNP-g0wzY?t=272), [07-07](https://youtu.be/ME-r173X5b0?t=2186))
+- Tatum is the first option, with George clearly second. Experts expect a big usage season, with more usage than last season. (verdict, 2026-09-16; [08-19](https://youtu.be/J1Eg3uaAICU?t=1755), [08-30](https://youtu.be/Alwse2uXzD4?t=1671), [09-16](https://youtu.be/2A2JbUN-kc0?t=442), [09-10](https://youtu.be/dlo7L8Ru91A?t=174))
+- After the Achilles injury, his rim finishing fell from 69% to 60%. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1244))
+- His FG% should go up, and he should return to his best level. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1244))
 
 **Durable**
-- Threes and points are league-level strengths. He also gives strong rebounds and assists for a forward. (fact, 2026-10-05; stats)
-- His turnovers are high for a forward. (fact, 2026-10-05; stats)
+- His threes and points are league outliers. His rebounds and assists are strong for a forward. His turnovers are high for a forward. (fact, 2026-10-11; stats)
+- He was seen as an iron man before he tore his Achilles. Knee inflammation from compensating for the Achilles followed. (fact, 2026-09-25; [08-09](https://youtu.be/8d--aL_xxwE?t=862), [09-25](https://youtu.be/Bi1cEM03k9Y?t=516), [07-30](https://youtu.be/TiiaNZCJNs8?t=1363))
 - Lloyd names blocks, steals and FG% as his weak categories. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=2085))
-- He tore his Achilles, and knee inflammation from compensating for it followed. (fact, 2026-07-30; [09-25](https://youtu.be/Bi1cEM03k9Y?t=516), [07-30](https://youtu.be/TiiaNZCJNs8?t=1363))
 
 **Tags**
-- Current: `role up` (top option after Jaylen Brown left; experts expect more usage), `bounce-back` (FG% and rim finishing expected to recover after the Achilles return), `injury last season` (torn Achilles), `many back-to-backs` (Boston has 16, but he is not expected to sit them), `winning team` (about 48 wins projected)
-- Durable: `3PM specialist`, `PTS specialist`, `3PM from a big` (3.3 threes per game as a forward), `AST from a big` (5.6 assists per game as a forward), `punt TO fit`
+- Current: `injury last season` (Torn Achilles; came back late in the season), `bounce-back` (FG% and rim finishing expected to recover after the Achilles), `role up` (More usage expected with Jaylen Brown gone), `many back-to-backs` (Boston has 16; experts expect Tatum to play them), `good playoff schedule` (4-3-4 games in weeks 19 to 21, one short of the maximum; includes three back-to-backs), `winning team` (About 48 wins projected)
+- Durable: `3PM specialist`, `PTS specialist`, `3PM from a big` (Forward with over 3 threes per game projected), `AST from a big` (About 5.6 assists per game projected as a forward), `punt TO fit`
 
-**Note.** He is a top 8 pick on both sites (Yahoo value 54 USD, ESPN 57 USD), and a recent auction mock had him at 46 USD. That makes 46 to 55 USD a fair range for a round-one forward who gives threes, points, rebounds and assists. He fits punt TO builds best, and his 45.5% FG% on high volume means a team built on him should look for FG% help. Early checks: the knee report from media day, whether his FG% recovers toward the 45 to 47% range, and whether Boston rests him on any of its 16 back-to-backs.
+**Note.** Both sites rank him 7th, at 54 USD on Yahoo and 58 USD on ESPN, but he went for only 46 USD in an expert auction mock. Around 50 USD is a fair price for a first-round forward who brings elite threes and points with strong rebounds and assists. He fits punt TO builds best, and his FG% is the soft spot. Early in the season, check that the knee is fine, that his FG% and rim finishing recover from last season's 41.1%, and that he plays Boston's many back-to-backs.
 
-<sub>22 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>23 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

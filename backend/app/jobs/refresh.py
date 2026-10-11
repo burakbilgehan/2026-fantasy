@@ -136,7 +136,7 @@ def _data_tables():
         "fantasypros": (PlayerMinutesProjection, "fantasypros"), "vegas": (TeamWinTotal, None),
         "game_logs_current": (PlayerGameLog, None), "espn": (PlayerProjection, "espn"),
         "fantrax": (PlayerMarketValue, "fantrax"), "fanscout": (PlayerProjection, "fanscout"),
-        "yahoo": (PlayerProjection, "yahoo"), "fantrax_projections": (PlayerProjection, "fantrax"),
+        "yahoo": (PlayerProjection, "yahoo"), "fantrax_projections": None,  # capture file time, below
         "nba_rosters": None, "projection_base": (PlayerProjection, "own-base"),
     }
 
@@ -154,6 +154,13 @@ def data_times(db) -> dict[str, datetime | None]:
         if src is not None:
             q = q.where(model.source == src)
         out[name] = _utc(db.scalar(q))
+    # The fantrax job re-reads the newest capture file and stamps its rows with the run time,
+    # so the row time hides the capture age. The capture file time is the real age.
+    from app.sources.players.fantrax import PROJECTION_DIR
+
+    files = list(PROJECTION_DIR.glob("*.json")) if PROJECTION_DIR.exists() else []
+    out["fantrax_projections"] = (
+        datetime.fromtimestamp(max(f.stat().st_mtime for f in files), UTC) if files else None)
     return out
 
 

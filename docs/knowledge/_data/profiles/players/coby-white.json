@@ -8,20 +8,33 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "aa9d95cccbd3",
- "note_count": 39,
- "built_at": "2026-10-05T19:45:56+00:00",
+ "input_sha": "bc0b7990c62a",
+ "note_count": 42,
+ "built_at": "2026-10-11T09:15:06+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2411982,
-  "duration_ms": 72431,
+  "cost_usd_list": 0.2550822,
+  "duration_ms": 74152,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "White re-signed with Charlotte for 3 years and 74 million USD.",
+   "text": "He has another calf strain and is out for the preseason. It is the same injury as last season. He will probably miss the start of the regular season. Yahoo lists him as questionable (calf).",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "BiIZsSypx7Y:p16",
+    "eTsjuVu1trk:p24",
+    "6DnRWahYrFA:t6",
+    "BiIZsSypx7Y:t4",
+    "stats"
+   ]
+  },
+  {
+   "text": "He re-signed with Charlotte for 3 years and 74 million.",
    "kind": "fact",
    "date": "2026-07-01",
    "until": "",
@@ -31,95 +44,49 @@
    ]
   },
   {
-   "text": "Charlotte traded LaMelo Ball and Miles Bridges. White is the projected starting point guard, and the projected starters are White, Knueppel, Miller, Reid and Diabaté.",
+   "text": "Charlotte traded away LaMelo Ball and Miles Bridges. White is the projected starting point guard, and the team has no backup point guard it trusts.",
    "kind": "fact",
    "date": "2026-09-27",
    "until": "",
    "sources": [
-    "sTtFUy7IoJI:p0",
+    "CRLSsoGhb2w:p9",
+    "CRLSsoGhb2w:t3",
     "EB1Z_6n56-o:p7",
-    "4GDfg2n2l8o:p1",
-    "CLsUc0Sevos:t5",
-    "CRLSsoGhb2w:t3",
-    "7BllEsdNLoM:p31",
-    "CRLSsoGhb2w:p9"
-   ]
-  },
-  {
-   "text": "Dennis Schroder is on the Charlotte roster and is listed on the bench. Charlotte has no backup point guard the team trusts.",
-   "kind": "fact",
-   "date": "2026-09-27",
-   "until": "",
-   "sources": [
-    "CRLSsoGhb2w:t3",
     "EB1Z_6n56-o:t2",
-    "EB1Z_6n56-o:p7"
+    "sTtFUy7IoJI:p0",
+    "sTtFUy7IoJI:t0",
+    "CLsUc0Sevos:t5",
+    "4GDfg2n2l8o:p1"
    ]
   },
   {
-   "text": "The experts see White as the clear starter over Schroder and are not worried about him. Some in the market think they will share minutes, and that is part of why his ADP is low.",
+   "text": "Experts see him as the starter over Dennis Schroder and do not think Schroder limits his minutes. Some in the market think they could share minutes, and that is one reason his ADP is low.",
    "kind": "verdict",
    "date": "2026-09-21",
    "until": "",
    "sources": [
     "egRrai3Ax38:p18",
+    "egRrai3Ax38:t3",
     "7BllEsdNLoM:p31",
     "sTtFUy7IoJI:p0"
    ]
   },
   {
-   "text": "Last season he played limited minutes, had several calf injuries and became LaMelo Ball's backup after his trade to Charlotte. None of those factors apply now.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p29",
-    "CRLSsoGhb2w:p11",
-    "-KS_AZjZnw4:p1",
-    "7BllEsdNLoM:p31"
-   ]
-  },
-  {
-   "text": "He is projected for about 30 to 32 minutes or more, up from 25 last season.",
+   "text": "When healthy, he is projected for about 30 to 32 minutes or more, up from 25 last season.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-09-27",
    "until": "",
    "sources": [
     "CRLSsoGhb2w:p9",
-    "EB1Z_6n56-o:p7",
-    "-KS_AZjZnw4:p4",
     "7BllEsdNLoM:p31",
+    "-KS_AZjZnw4:p4",
     "sTtFUy7IoJI:p1",
+    "EB1Z_6n56-o:p7",
     "n4KkK-OJjqA:p31"
    ]
   },
   {
-   "text": "His usage should dip a little from last season's very high level but stay good, at about 28. One expert sees him as only the third or fourth usage option behind Kon Knueppel and Brandon Miller.",
-   "kind": "verdict",
-   "date": "2026-09-09",
-   "until": "",
-   "sources": [
-    "sTtFUy7IoJI:p1",
-    "-KS_AZjZnw4:p3",
-    "ME-r173X5b0:p29",
-    "ya2VYRJ1BN0:p12",
-    "7BllEsdNLoM:p31",
-    "W3THnI7wWdA:p24",
-    "EB1Z_6n56-o:p10"
-   ]
-  },
-  {
-   "text": "Charlotte plans to spread the ball handling and playmaking across White, Knueppel and Miller instead of using one primary creator.",
-   "kind": "fact",
-   "date": "2026-09-27",
-   "until": "",
-   "sources": [
-    "CRLSsoGhb2w:t1",
-    "EB1Z_6n56-o:t3"
-   ]
-  },
-  {
-   "text": "Without Ball and Giddey next to him, he should reach 20 or more points and 5 to 6 assists, possibly 6 to 7 assists.",
+   "text": "Experts project 20 or more points and 5 to 7 assists as the starter.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
@@ -131,39 +98,57 @@
    ]
   },
   {
-   "text": "His FT% drop last season had no real cause, and it is expected to bounce back.",
+   "text": "Most experts expect his usage to dip a little from last season's very high level in Charlotte. Ball handling will be shared with Kon Knueppel and Brandon Miller, and one expert sees him as only the third or fourth usage option. Another projects about 28 usage.",
    "kind": "verdict",
-   "date": "2026-07-20",
+   "date": "2026-09-09",
    "until": "",
    "sources": [
-    "-KS_AZjZnw4:p2"
-   ]
-  },
-  {
-   "text": "The experts call him underpriced. They would draft him around rank 55 to 75, in the 60s or in rounds 6 to 7. They see a top 75 floor with top 50 upside, and he is the best target on Charlotte.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "CRLSsoGhb2w:p9",
-    "CRLSsoGhb2w:p11",
-    "n4KkK-OJjqA:p30",
-    "ahNxsoU8Hx4:p20",
-    "sTtFUy7IoJI:p2",
+    "sTtFUy7IoJI:p1",
+    "-KS_AZjZnw4:p3",
+    "ME-r173X5b0:p29",
+    "ya2VYRJ1BN0:p12",
+    "4GDfg2n2l8o:p1",
+    "W3THnI7wWdA:p24",
     "7BllEsdNLoM:p31",
-    "_vbAP5y182A:p39",
-    "W-R1dzem32s:p32",
-    "BjXP9JODDSg:p34",
-    "egRrai3Ax38:p18"
+    "CRLSsoGhb2w:t1",
+    "EB1Z_6n56-o:t3"
    ]
   },
   {
-   "text": "In an auction mock he went for 13 USD, which the expert called really good value.",
+   "text": "Because of the new calf injury, experts now push him down to the 90s. Before the injury they took him in the 55 to 75 range.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "WXO8MfQfzo0:p26",
+    "BiIZsSypx7Y:p16"
+   ]
+  },
+  {
+   "text": "In one auction mock he went for 13 USD, and the expert called that really good value.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
    "sources": [
     "Q6YlQDvD-aY:p79"
+   ]
+  },
+  {
+   "text": "A busts video lists him as a player to avoid because he is injured again. Last season he pushed to return and got hurt again.",
+   "kind": "verdict",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "eTsjuVu1trk:p24"
+   ]
+  },
+  {
+   "text": "One expert expects his FT% to bounce back this season.",
+   "kind": "verdict",
+   "date": "2026-07-20",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p2"
    ]
   },
   {
@@ -176,7 +161,7 @@
    ]
   },
   {
-   "text": "Charlotte has 13 back-to-backs, the league minimum. With a March 28 end, its playoff schedule is 4-3-4 games. It also has a two-game week in the matchup starting March 1.",
+   "text": "Charlotte has only 13 back-to-backs, the league minimum. With our March 28 end date, the playoff weeks have 4, 3 and 4 games. The team has a two-game week in the matchup that starts March 1.",
    "kind": "fact",
    "date": "2026-09-27",
    "until": "",
@@ -188,140 +173,135 @@
  ],
  "durable": [
   {
-   "text": "He is a good scorer and a good three-point shooter, including off the dribble. His FT% is strong.",
+   "text": "He has strained his calf four times in 12 months.",
    "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "WXO8MfQfzo0:p26",
+    "BiIZsSypx7Y:p16",
+    "-KS_AZjZnw4:p1"
+   ]
+  },
+  {
+   "text": "His strengths are scoring, threes and free throws.",
+   "kind": "verdict",
    "date": "2026-09-27",
    "until": "",
    "sources": [
     "CRLSsoGhb2w:p10",
     "KPdD91Oo8-U:p19",
-    "EB1Z_6n56-o:p9",
-    "W3THnI7wWdA:p23"
+    "stats"
    ]
   },
   {
-   "text": "He is a streaky, inconsistent shooter, and his FG% swings up and down.",
-   "kind": "fact",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "ahNxsoU8Hx4:p21",
-    "sTtFUy7IoJI:p3",
-    "-KS_AZjZnw4:p6",
-    "W3THnI7wWdA:p23",
-    "ya2VYRJ1BN0:p13",
-    "W-R1dzem32s:p32"
-   ]
-  },
-  {
-   "text": "His steals and blocks are very poor. His combined stocks are among the worst for a starter.",
-   "kind": "fact",
-   "date": "2026-10-04",
+   "text": "His steals and blocks are very poor. One expert says his combined steals and blocks are among the worst for any starter.",
+   "kind": "verdict",
+   "date": "2026-09-27",
    "until": "",
    "sources": [
     "ME-r173X5b0:p29",
     "CRLSsoGhb2w:p10",
     "sTtFUy7IoJI:p3",
-    "n4KkK-OJjqA:p30",
-    "W3THnI7wWdA:p23"
+    "W3THnI7wWdA:p23",
+    "n4KkK-OJjqA:p30"
    ]
   },
   {
-   "text": "He is a fine passer but not a pass-first point guard. The experts rate his assist output as modest for the role.",
-   "kind": "fact",
+   "text": "He is a streaky, inconsistent shooter. His FG% swings up and down, even though experts count him as a good shooter, including off the dribble.",
+   "kind": "verdict",
    "date": "2026-09-17",
    "until": "",
    "sources": [
-    "EB1Z_6n56-o:p8",
+    "W-R1dzem32s:p32",
+    "sTtFUy7IoJI:p3",
+    "-KS_AZjZnw4:p6",
+    "ahNxsoU8Hx4:p21",
+    "W3THnI7wWdA:p23",
     "ya2VYRJ1BN0:p13",
+    "EB1Z_6n56-o:p9"
+   ]
+  },
+  {
+   "text": "He is not a pass-first point guard. He is a fine passer, but an offense cannot be built around his vision.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ya2VYRJ1BN0:p13",
+    "EB1Z_6n56-o:p8",
     "ahNxsoU8Hx4:p21",
     "sTtFUy7IoJI:p3",
     "W3THnI7wWdA:p23"
    ]
   },
   {
-   "text": "He attacks the paint, finishes at the rim and gets to the free throw line.",
-   "kind": "fact",
+   "text": "He attacks the paint, finishes at the rim and draws free throws.",
+   "kind": "verdict",
    "date": "2026-07-21",
    "until": "",
    "sources": [
     "EB1Z_6n56-o:p6"
    ]
-  },
-  {
-   "text": "Apart from last season's calf injuries, he has been fairly durable over the last four years.",
-   "kind": "fact",
-   "date": "2026-07-21",
-   "until": "",
-   "sources": [
-    "EB1Z_6n56-o:p11"
-   ]
   }
  ],
  "tags": [
   {
-   "name": "role up",
+   "name": "injured now",
    "channel": "current",
-   "detail": "Starting PG after the LaMelo Ball trade, about 30 to 32 minutes, up from 25",
+   "detail": "Calf strain. Out for the preseason and likely to miss the start of the season.",
    "until": "",
    "sources": [
-    "sTtFUy7IoJI:p0",
-    "sTtFUy7IoJI:p1",
-    "CRLSsoGhb2w:p9",
-    "-KS_AZjZnw4:p4",
-    "EB1Z_6n56-o:p7"
+    "BiIZsSypx7Y:p16",
+    "eTsjuVu1trk:p24",
+    "6DnRWahYrFA:t6"
    ],
    "new_meaning": ""
   },
   {
-   "name": "bounce-back",
+   "name": "questionable",
    "channel": "current",
-   "detail": "Calf injuries and a bench role hurt last season. FT% expected to recover",
+   "detail": "Yahoo Q (calf)",
    "until": "",
    "sources": [
-    "-KS_AZjZnw4:p1",
-    "-KS_AZjZnw4:p2",
-    "n4KkK-OJjqA:p29",
-    "CRLSsoGhb2w:p11"
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "Four calf strains in 12 months",
+   "until": "",
+   "sources": [
+    "WXO8MfQfzo0:p26",
+    "BiIZsSypx7Y:p16",
+    "-KS_AZjZnw4:p1"
    ],
    "new_meaning": ""
   },
   {
    "name": "injury last season",
    "channel": "current",
-   "detail": "Repeated calf strains",
+   "detail": "Repeated calf strains and a bench role; 50 games at 25 minutes",
    "until": "",
    "sources": [
     "-KS_AZjZnw4:p1",
-    "n4KkK-OJjqA:p29",
-    "CRLSsoGhb2w:p11"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sleeper",
-   "channel": "current",
-   "detail": "Yahoo ADP in the late 80s, experts see him in the 55 to 75 range",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p29",
-    "ahNxsoU8Hx4:p20",
-    "egRrai3Ax38:p18",
-    "7BllEsdNLoM:p31"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "expert target",
-   "channel": "current",
-   "detail": "Drafted often by the experts. 13 USD in an auction mock called really good value",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p29",
-    "W-R1dzem32s:p32",
-    "_vbAP5y182A:p39",
     "CRLSsoGhb2w:p11",
-    "Q6YlQDvD-aY:p79"
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "Starting point guard after the LaMelo Ball trade; about 30 to 32 minutes, up from 25",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p9",
+    "sTtFUy7IoJI:p0",
+    "-KS_AZjZnw4:p4",
+    "EB1Z_6n56-o:p7"
    ],
    "new_meaning": ""
   },
@@ -332,7 +312,63 @@
    "until": "",
    "sources": [
     "W3THnI7wWdA:p24",
-    "CRLSsoGhb2w:t1"
+    "CRLSsoGhb2w:t1",
+    "EB1Z_6n56-o:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bounce-back",
+   "channel": "current",
+   "detail": "After an injury-hit backup season; FT% expected to recover",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p0",
+    "-KS_AZjZnw4:p2",
+    "-KS_AZjZnw4:p4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "Listed in a busts video because he is injured again",
+   "until": "",
+   "sources": [
+    "eTsjuVu1trk:p24"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "streaky",
+   "channel": "durable",
+   "detail": "Inconsistent shooter; FG% swings",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p32",
+    "sTtFUy7IoJI:p3",
+    "-KS_AZjZnw4:p6",
+    "ahNxsoU8Hx4:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13 back-to-backs, the league minimum",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "three-point heavy",
+   "channel": "current",
+   "detail": "Charlotte plans to space the floor and take many threes",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:t0"
    ],
    "new_meaning": ""
   },
@@ -342,55 +378,35 @@
    "detail": "Playmaking split among White, Knueppel and Miller",
    "until": "",
    "sources": [
-    "CRLSsoGhb2w:t1",
-    "EB1Z_6n56-o:t3"
+    "EB1Z_6n56-o:t3",
+    "CRLSsoGhb2w:t1"
    ],
    "new_meaning": ""
   },
   {
-   "name": "streaky",
-   "channel": "durable",
-   "detail": "Inconsistent shooter with swinging FG%",
-   "until": "",
-   "sources": [
-    "sTtFUy7IoJI:p3",
-    "-KS_AZjZnw4:p6",
-    "W-R1dzem32s:p32",
-    "ahNxsoU8Hx4:p21"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "three-point heavy",
+   "name": "usage freed",
    "channel": "current",
-   "detail": "Charlotte leans into spacing and volume threes",
+   "detail": "LaMelo Ball and Miles Bridges are gone",
    "until": "",
    "sources": [
-    "EB1Z_6n56-o:t0"
+    "7BllEsdNLoM:t1",
+    "Rqb5GdrSweY:t7",
+    "4GDfg2n2l8o:t0"
    ],
    "new_meaning": ""
   },
   {
-   "name": "few back-to-backs",
+   "name": "deep rotation",
    "channel": "current",
-   "detail": "13 back-to-backs, league minimum",
+   "detail": "Deep roster, likely a play-in team",
    "until": "",
    "sources": [
-    "CRLSsoGhb2w:t5"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sites disagree on price",
-   "channel": "current",
-   "detail": "Yahoo value 12 USD, rank 80. ESPN value 2 USD, rank 106",
-   "until": "",
-   "sources": [
-    "stats"
+    "CRLSsoGhb2w:t4",
+    "EB1Z_6n56-o:t6"
    ],
    "new_meaning": ""
   }
  ],
- "note": "The market prices him like a backup: Yahoo value 12 USD, ESPN value 2 USD and Yahoo rank 80. In our league he went for 15 USD last season, and the experts rank him around 55 to 75 now that he starts at point guard. A bid of about 13 to 18 USD looks like good value. He fits builds that want 3PM, FT%, PTS and AST from a guard, but he gives little in steals and blocks, has some turnovers and is slightly below average in FG%, so he pairs well with stocks-heavy bigs. Early in the season, check that he gets 30 or more minutes with Schroder on the bench, gets about 5 to 6 assists while sharing the ball with Knueppel and Miller, and that his FT% returns to the mid 80s or higher.",
+ "note": "When healthy, he gives a guard-friendly line of threes (2.7), FT% (85%), points and assists. The cost is FG%, turnovers and very poor steals and blocks, but no category is flagged as weak enough for a punt fit. Before the new calf strain, experts had him in the 55 to 75 range. They now push him to the 90s, which is close to his Yahoo rank of 86. The markets are cheap (Yahoo average cost 2.5 USD, ESPN 2.6 USD), while our league paid 15 USD last season and one auction mock had him at 13 USD. In a 12-team league where 144 players are drafted, he is a reasonable mid-to-late buy at a single-digit price. Early in the season, check when he returns from the calf strain, whether he gets about 30 minutes ahead of Schroder, and whether his assists reach 5 or more.",
  "rejected": []
 }

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 5 | 1.0 | 101 | 3 | 1.0 | 93 | 20 |
+| 2026-27 | 1 | 1.2 | 118 | 3 | 1.4 | 95 | 20 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,7 +20,7 @@
 | FG% | 45.8% | -0.4 | -1.1 | weak for his position (punt fit) |
 | FT% | 75.2% | -0.4 | +0.3 | - |
 | 3PM | 2.0 | +0.6 | +1.7 | - |
-| PTS | 12.5 | -0.2 | -0.1 | - |
+| PTS | 12.5 | -0.3 | -0.1 | - |
 | REB | 5.6 | +0.2 | -0.8 | - |
 | AST | 1.4 | -0.9 | -0.6 | - |
 | STL | 0.7 | -0.8 | -0.4 | - |
@@ -30,25 +30,29 @@
 </details>
 
 **Current**
-- Experts call him fair value around pick 120 to 128 and too expensive near picks 86 to 100. In an auction mock Josh valued him at 1 to 3 USD, and he went for 6 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3744), [10-02](https://youtu.be/ZYllcj4o6_A?t=2280), [09-30](https://youtu.be/BjXP9JODDSg?t=1426), [09-19](https://youtu.be/uarqbNA2dFk?t=1643))
-- He is a strong bounce-back candidate and should not be written off. His minutes should rise to about 29, with 14 points, 6 rebounds, 2 threes and 2 blocks a reasonable target and top-60 upside. (verdict, 2026-10-02; [07-20](https://youtu.be/-KS_AZjZnw4?t=761), [07-20](https://youtu.be/-KS_AZjZnw4?t=776), [10-02](https://youtu.be/ZYllcj4o6_A?t=2280))
-- Ware may limit his minutes, and his outlook would be better without Ware on the roster. Other experts think Turner and Ware can play together and that Turner is still the better player. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1643), [09-14](https://youtu.be/t4n9MAP2_14?t=2401), [07-20](https://youtu.be/-KS_AZjZnw4?t=704), [06-23](https://youtu.be/nnWX_ObljOE?t=268))
-- Milwaukee traded for Kel'el Ware, another center. Power forward is the team's weakest position, so the team will likely start a center at the four. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2401), [08-14](https://youtu.be/owlM6b8oUd0?t=511))
-- Doc Rivers, who often benched him for Jericho Sims, is no longer the coach. Taylor Jenkins is the new coach. (fact, 2026-09-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1168), [06-23](https://youtu.be/nnWX_ObljOE?t=268), [06-23](https://youtu.be/nnWX_ObljOE?t=179), [09-14](https://youtu.be/t4n9MAP2_14?t=2436), [07-20](https://youtu.be/-KS_AZjZnw4?t=622))
-- He is expected to start at center. Milwaukee's projected starters are Rollins, Herro, Jaquez, Ware and Turner. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=747), [08-14](https://youtu.be/owlM6b8oUd0?t=536))
-- Milwaukee is expected to be a bad team but does not own its draft pick, so it has no reason to tank. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=2216), [08-10](https://youtu.be/sfCe7fS9daM?t=1690), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609))
+- Experts expect Milwaukee to focus more on developing young players as the season goes on, which could cut veteran minutes later in the season. (verdict, 2026-10-09; [10-08](https://youtu.be/sDzeYdUhJDI?t=508), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1423))
+- He is projected to start at center for Milwaukee to open the season. (fact, 2026-10-08; [08-14](https://youtu.be/owlM6b8oUd0?t=747), [08-14](https://youtu.be/owlM6b8oUd0?t=536), [10-08](https://youtu.be/sDzeYdUhJDI?t=901))
+- Experts disagree on a bounce-back. Some call him a bounce-back candidate who should not be written off. Others question his motivation after a miserable season, or ask whether he is simply washed at 30. One expert expects him to be only a little better than last year. (verdict, 2026-10-08; [07-20](https://youtu.be/-KS_AZjZnw4?t=776), [10-02](https://youtu.be/ZYllcj4o6_A?t=2280), [10-05](https://youtu.be/BiIZsSypx7Y?t=3256), [10-08](https://youtu.be/sDzeYdUhJDI?t=1004), [10-08](https://youtu.be/sDzeYdUhJDI?t=932), [09-19](https://youtu.be/uarqbNA2dFk?t=1643), [07-20](https://youtu.be/-KS_AZjZnw4?t=708))
+- If he plays 30 minutes with 2.2 blocks and 2.5 threes per game, he is easily a top 70 player. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1004))
+- Experts say he is overpriced at an ADP near 88 and fine around picks 100 to 128. One expert calls him his biggest fade at 88. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1886), [10-08](https://youtu.be/sDzeYdUhJDI?t=932), [10-05](https://youtu.be/BiIZsSypx7Y?t=3256), [10-02](https://youtu.be/ZYllcj4o6_A?t=2280), [09-30](https://youtu.be/BjXP9JODDSg?t=1426), [09-19](https://youtu.be/uarqbNA2dFk?t=1643), [07-20](https://youtu.be/-KS_AZjZnw4?t=761))
+- Milwaukee's rotation is unclear. The starting lineup could change by December or March, and new coach Jenkins might use a deep rotation. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [10-08](https://youtu.be/sDzeYdUhJDI?t=335), [10-08](https://youtu.be/sDzeYdUhJDI?t=901), [10-08](https://youtu.be/WXO8MfQfzo0?t=1054))
+- Experts expect Milwaukee to be a bad team, with about 33 wins. The Bucks do not own their draft pick. (verdict, 2026-10-08; [08-14](https://youtu.be/owlM6b8oUd0?t=2216), [08-10](https://youtu.be/sfCe7fS9daM?t=1690), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609), [10-08](https://youtu.be/sDzeYdUhJDI?t=167))
+- In auction mocks, one expert values him at 1 to 3 USD. He went for 6 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3744))
+- Milwaukee traded for Kel'el Ware, who competes with him for frontcourt minutes. (fact, 2026-09-19; [09-14](https://youtu.be/t4n9MAP2_14?t=2401), [09-19](https://youtu.be/uarqbNA2dFk?t=1643))
+- Ware may limit his minutes. Without the Ware trade, experts would rank him higher. (verdict, 2026-09-19; [09-14](https://youtu.be/t4n9MAP2_14?t=2401), [09-19](https://youtu.be/uarqbNA2dFk?t=1643))
+- Experts blame much of his poor 2025-26 season on former coach Doc Rivers, who benched him at random and in fourth quarters for Jericho Sims. Rivers is gone, and Taylor Jenkins is the new head coach. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1168), [07-20](https://youtu.be/-KS_AZjZnw4?t=622), [06-23](https://youtu.be/nnWX_ObljOE?t=268), [09-14](https://youtu.be/t4n9MAP2_14?t=2401), [10-08](https://youtu.be/sDzeYdUhJDI?t=335))
 
 **Durable**
-- Blocks are his standout category, clearly above the top 250 pool. (fact, 2026-10-05; stats)
-- He makes about 2 threes per game, many for a center. (fact, 2026-10-05; stats)
-- His FG% is weak for a center, so he fits a punt FG% build. (verdict, 2026-10-05; stats)
+- His FG% is weak for a center. (fact, 2026-10-11; stats)
+- His fantasy value comes from blocks and threes. His blocks are far above the league pool, and he makes many threes for a center. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=946), stats)
+- He is a weak rebounder for a center and gives almost no assists. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=946), stats)
 - He is worth less in points leagues than in category leagues. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1845))
-- He needs good point guard play in the pick and roll. When he is mostly parked in the corner, he is not used well. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1212))
+- He needs good point guard play in the pick and roll. When he is not used properly, he is mostly parked in the corner. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1212))
 
 **Tags**
-- Current: `bounce-back` (worst season of his career under Doc Rivers; top-60 upside with about 29 minutes), `minutes competition` (Kel'el Ware, also projected to start), `new coach` (Taylor Jenkins replaced Doc Rivers), `bottom team` (Milwaukee expected to be bad, about 26.5 to 33 wins), `low shutdown risk` (Milwaukee does not own its pick, so it has no reason to tank)
-- Durable: `BLK specialist` (about 1.7 blocks per game projected), `3PM from a big` (about 2 threes per game as a center), `punt FG fit` (projected FG% near 46%, low for a center), `needs playmaker` (needs good point guard play in the pick and roll), `category league player` (worth less in points leagues)
+- Current: `bounce-back` (experts disagree; poor 2025-26 blamed on Doc Rivers), `bust candidate` (at a draft ADP near 88; fine at picks 110 to 120), `minutes competition` (Kel'el Ware), `new coach` (Taylor Jenkins replaces Doc Rivers), `unsettled rotation` (lineup could change by December or March), `bottom team` (about 33 wins expected)
+- Durable: `BLK specialist` (about 1.7 blocks projected), `3PM from a big` (about 2 threes per game as a center), `punt FG fit` (FG% weak for a center), `needs playmaker` (needs good pick and roll point guard play), `category league player`, `age decline watch` (one expert asks whether he is washed at 30)
 
-**Note.** Turner is a cheap block and three-point center for us. Yahoo values him at 5 USD and ESPN at 3 USD, and a recent mock priced him at 1 to 6 USD, so the 20 USD our league paid last season is far too much. He fits punt FG% builds best, because his projected 45.8% FG% is weak for a center while his 1.7 blocks and 2 threes are strong. Early in the season, check whether Taylor Jenkins gives him about 29 minutes next to Kel'el Ware, and whether his usage climbs back above last season's 18%.
+**Note.** Turner is a cheap source of blocks and threes from the center spot. Yahoo values him at 1 USD (average cost 1.2 USD) and ESPN at 3 USD, while our league paid 20 USD last season before he shot 44.0% from the field. He fits punt FG% builds that need blocks and threes from a big, and experts call him fine around picks 100 to 120 or a few USD in an auction, but not as a top 90 pick. Early in the season, check whether he gets close to 30 minutes next to Kel'el Ware under Taylor Jenkins and whether his FG% recovers from 44%.
 
-<sub>15 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>20 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "8010def9a05e",
- "note_count": 2,
- "built_at": "2026-10-05T19:43:42+00:00",
+ "input_sha": "ef1f264d8a28",
+ "note_count": 3,
+ "built_at": "2026-10-11T09:13:16+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2169086,
-  "duration_ms": 48000,
-  "turns": 3,
+  "cost_usd_list": 0.1441542,
+  "duration_ms": 30853,
+  "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He re-signed with Minnesota on a minimum contract as guard depth.",
+   "text": "He re-signed with Minnesota on a minimum contract and adds guard depth.",
    "kind": "fact",
    "date": "2026-07-01",
    "until": "",
@@ -30,16 +30,27 @@
    ]
   },
   {
-   "text": "He is expected to be a bench scoring option, but Ben calls him a roll of the dice.",
-   "kind": "verdict",
-   "date": "2026-08-19",
+   "text": "He is in Minnesota's 10-man rotation as a bench scoring option at about 15 minutes per game.",
+   "kind": "fact",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
+    "cFV24VgxyCY:p25",
     "2mxpEpGU3H8:p20"
    ]
   },
   {
-   "text": "He was solid enough when he had to start.",
+   "text": "He is a risky pick. Experts call him a roll of the dice, and a consistent role is hard for him to find.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:p25",
+    "2mxpEpGU3H8:p20"
+   ]
+  },
+  {
+   "text": "He was solid enough when he had to start, so he can fill in if a starting guard misses time.",
    "kind": "verdict",
    "date": "2026-07-01",
    "until": "",
@@ -48,29 +59,7 @@
    ]
   },
   {
-   "text": "Minnesota's four set starters are LaMelo Ball, Anthony Edwards, Jaden McDaniels and Rudy Gobert. Jonathan Kuminga and Josh Green are the names for the fifth spot.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "2mxpEpGU3H8:t1",
-    "sTtFUy7IoJI:t1",
-    "n4KkK-OJjqA:t4"
-   ]
-  },
-  {
-   "text": "Minnesota is short on guards: Donte DiVincenzo will miss most of the season and Mike Conley is gone.",
-   "kind": "fact",
-   "date": "2026-08-19",
-   "until": "",
-   "sources": [
-    "HxQjagSTTAM:t0",
-    "9tb1ARBEmQU:t0",
-    "2mxpEpGU3H8:t0"
-   ]
-  },
-  {
-   "text": "Minnesota's bench is thin, has little scoring punch and has no ball handlers.",
+   "text": "Minnesota's bench is thin, with little scoring punch and no ball handlers in the bench unit.",
    "kind": "fact",
    "date": "2026-10-02",
    "until": "",
@@ -80,19 +69,39 @@
    ]
   },
   {
-   "text": "Minnesota has a two-game week in the matchup starting March 15, which is week 20 of our fantasy playoffs.",
+   "text": "Minnesota plays a smaller, guard-heavy lineup after trading Julius Randle and Naz Reid for LaMelo Ball.",
    "kind": "fact",
-   "date": "2026-09-22",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "gf_6GveiAls:t14",
+    "2mxpEpGU3H8:t0",
+    "cFV24VgxyCY:t0"
+   ]
+  },
+  {
+   "text": "With a March 28 end, Minnesota's playoff schedule goes 4, 2, 4 games, so the semifinal week has only two games.",
+   "kind": "fact",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:t5",
     "2mxpEpGU3H8:t4",
+    "gf_6GveiAls:t14",
     "J1Eg3uaAICU:t0",
     "QbdrhJd7LiA:t4"
    ]
   },
   {
-   "text": "Minnesota should be competitive. Ben predicts 53 wins, so the team should not rest players to tank.",
+   "text": "Minnesota has the league minimum of 13 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:t5"
+   ]
+  },
+  {
+   "text": "Minnesota is expected to be a winning team (Ben predicts 53 wins) and should not rest players to tank.",
    "kind": "verdict",
    "date": "2026-08-19",
    "until": "",
@@ -100,53 +109,63 @@
     "2mxpEpGU3H8:t3",
     "Rqb5GdrSweY:t8"
    ]
-  },
+  }
+ ],
+ "durable": [
   {
-   "text": "He is not a draft target in our 144-player auction. He is a waiver option only if his bench role grows.",
+   "text": "He is a bench scorer who can put up numbers when he gets minutes.",
    "kind": "verdict",
-   "date": "2026-10-05",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "stats",
+    "cFV24VgxyCY:p25",
     "2mxpEpGU3H8:p20"
    ]
   }
  ],
- "durable": [],
  "tags": [
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Bench guard at about 15 minutes; a consistent role is hard to find",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:p25",
+    "2mxpEpGU3H8:p20"
+   ],
+   "new_meaning": ""
+  },
   {
    "name": "waiver watch",
    "channel": "current",
-   "detail": "Bench guard ranked outside the top 144 on both sites",
+   "detail": "Ranked outside the 144 drafted players; watch if a Minnesota starting guard gets hurt",
    "until": "",
    "sources": [
-    "stats",
-    "2mxpEpGU3H8:p20"
+    "cFV24VgxyCY:p25",
+    "W3THnI7wWdA:p47",
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "Two-game week in the matchup starting March 15 (week 20)",
+   "detail": "4, 2, 4 games in weeks 19 to 21; two-game semifinal week",
    "until": "",
    "sources": [
-    "gf_6GveiAls:t14",
+    "cFV24VgxyCY:t5",
     "2mxpEpGU3H8:t4",
-    "J1Eg3uaAICU:t0",
-    "QbdrhJd7LiA:t4"
+    "gf_6GveiAls:t14"
    ],
    "new_meaning": ""
   },
   {
-   "name": "thin rotation",
+   "name": "few back-to-backs",
    "channel": "current",
-   "detail": "Thin bench with no other ball handlers; DiVincenzo out most of the season",
+   "detail": "League minimum 13 back-to-backs",
    "until": "",
    "sources": [
-    "2mxpEpGU3H8:t2",
-    "ZYllcj4o6_A:t5",
-    "HxQjagSTTAM:t0"
+    "cFV24VgxyCY:t5"
    ],
    "new_meaning": ""
   },
@@ -163,14 +182,36 @@
   {
    "name": "low shutdown risk",
    "channel": "current",
-   "detail": "Competitive team, not tanking",
+   "detail": "Competitive team, not expected to tank",
    "until": "",
    "sources": [
     "Rqb5GdrSweY:t8"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "thin rotation",
+   "channel": "current",
+   "detail": "Thin bench with no ball handlers and little scoring punch",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:t2",
+    "ZYllcj4o6_A:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "small-ball lineups",
+   "channel": "current",
+   "detail": "Guard-heavy lineups after Randle and Reid left",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:t0",
+    "cFV24VgxyCY:t0"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Hyland is not a draft pick for us. Yahoo ranks him 235, ESPN ranks him 283, both sites value him at 0 USD, and he went undrafted in our league last season. His projected line of about 8 points and 1.5 threes in 16 minutes has no strong category apart from a modest turnover edge. Watch him on waivers early in the season, because Minnesota's bench has no ball handlers and DiVincenzo is out, so he only has value if he takes on a bigger role. The two-game week starting March 15 also lowers his value in the fantasy playoffs.",
+ "note": "At rank 236 on Yahoo and 283 on ESPN, both with 0 USD value, he falls well outside the 144 players drafted in our league, so do not spend on him in the auction. Projections of about 8 points and 1.5 threes in about 16 minutes give no category edge. He only matters if an injury to a Minnesota guard pushes him into a bigger role. His two-game semifinal week also hurts his playoff use, so treat him as a short-term waiver pickup only.",
  "rejected": []
 }

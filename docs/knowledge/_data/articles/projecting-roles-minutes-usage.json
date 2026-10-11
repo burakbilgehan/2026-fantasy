@@ -82,28 +82,30 @@
  ],
  "proposed": true,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-04T20:22:20+00:00",
+ "built_at": "2026-10-11T09:53:49+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1552448,
-  "duration_ms": 55425
+  "cost_usd_list": 0.1721728,
+  "duration_ms": 64891,
+  "turns": 2,
+  "denied": 0
  },
  "player_slugs": [],
- "summary": "Project every player from the top down: minutes first, then role, then usage, then production, with hype last. Test each team's projected minutes against the 240 minutes a game has, and scale usage down on crowded rosters or up where stars have left. Do this team by team before the 2026-10-18 auction so you know which prices are value and which players to fade.",
+ "summary": "Project minutes first, then role, then usage, then production. Leave narrative and hype for last. Before the 2026-10-18 auction, run the 240-minute check on every team you draft from, and cut usage on rosters that added high-usage players. Pay up for players who inherit usage from departed stars or who play for coaches known to lean on starters.",
  "sections": [
   {
    "heading": "The order of evidence",
    "paragraphs": [
     {
-     "text": "Weigh evidence in a fixed order. Minutes come first, then role, then usage and opportunity, then production. Narrative and hype come last. One expert adds detail to the same chain: minutes per game, then usage and role, then shot diet, then category production, then efficiency, then games played. Before you nominate or bid on anyone, write down his projected minutes and his usage share. Then decide whether last season's categories can repeat.",
+     "text": "Rank what you know in this order: minutes, then role, then usage and opportunity, then production. Narrative and hype come last. A second expert gives a more detailed order: minutes per game, then usage and role, then shot diet, then category production, then efficiency, with games played last. The two lists agree on the main point. Minutes come first and buzz counts for very little.",
      "sources": [
       "skKXe2CRl8Q:r4",
       "8d--aL_xxwE:r16"
      ]
     },
     {
-     "text": "Usage and minutes are the two stats most closely tied to fantasy value. Both are sticky from year to year: usage at 0.83 and minutes per game at 0.78. So a breakout usually needs a role change, such as an injury, a trade or a free agency departure that frees up shots. If your view of a player's usage or minutes differs from the consensus, move him up or down your own list to match. Do not just accept the ranking.",
+     "text": "Usage and minutes are the two stats most closely tied to fantasy value. They are also stable from year to year. Usage carries over at about 0.83 and minutes per game at about 0.78. So a big change usually needs a cause, such as an injury, a trade or a free agency departure that frees up shots. If you see a player's minutes or usage differently from the consensus, move him up or down your own list to match. Do not just follow the published rank.",
      "sources": [
       "sTtFUy7IoJI:r0",
       "8d--aL_xxwE:r4",
@@ -112,13 +114,11 @@
      ]
     },
     {
-     "text": "Read last season's rank in context: role, teammates, injuries and minutes. A player on a new team can gain a lot from new usage and minutes. A strong per-game rank earned in limited minutes points to upside if his role grows. Value the current situation, not how much you like the player. Ignore what players say about each other. Beat reporters are useful background. They do not replace the minutes and usage math.",
+     "text": "Read last season's rank in context: role, teammates, injuries and minutes. Base value on the player's current situation, not on how much you like him. Ignore what players say about each other. Players are poor judges of talent.",
      "sources": [
       "tnzmsYUA4yQ:r7",
-      "egRrai3Ax38:r13",
       "DubdKKhMWHo:r6",
-      "ZYllcj4o6_A:r8",
-      "ZAyie8lKyYc:r4"
+      "ZYllcj4o6_A:r8"
      ]
     }
    ]
@@ -127,37 +127,43 @@
    "heading": "The 240-minute check",
    "paragraphs": [
     {
-     "text": "Every game has 240 minutes to split among about 10 players. Add up the minutes you project for a team's rotation. If the total goes well past 240, someone on your list is overprojected. Find him before the auction, not after you have paid for him.",
+     "text": "Every game has 240 minutes to share among about 10 players. Before you trust any projection, add up the minutes projected for that team. If the total goes past 240, someone's number is wrong. Ask whether your target can realistically get the minutes his price assumes.",
      "sources": [
-      "W-R1dzem32s:r9",
-      "aLP080hxizA:r5"
+      "aLP080hxizA:r5",
+      "W-R1dzem32s:r9"
      ]
     },
     {
-     "text": "Use the minutes tiers as your yardstick. Starters play about 29 to 35 minutes. Bench players play 17 to 20. A '.5 starter' plays about 24 to 25. Five starters at 32 minutes use 160 minutes. That leaves 80 minutes, or about four bench players at 20 each. A team cannot have six players at 33 minutes plus a deep bench. Losing even two or three minutes a game caps a player's upside and lowers his draft value.",
+     "text": "Use the minutes tiers as your yardstick. Starters play about 29 to 35 minutes. Bench players play 17 to 20. A '.5 starter' plays about 24 to 25. Five starters at 32 minutes use 160 minutes, which leaves about 80 for the bench. That is roughly four bench players at 20 minutes each. A fifth or sixth bench player who looks good on paper gets very little unless someone is hurt.",
      "sources": [
       "_O9pc_u5vH0:r7",
-      "lOshTzDA4SA:r8"
+      "0AptxcRW0RE:r0"
      ]
     },
     {
-     "text": "Depth moves the numbers in both directions. On a team with poor depth, role players' minutes go up. A 22-minute player may play 26, and a 27-minute player may play 31. Per-minute big men only matter if a lack of depth forces those minutes on them. On an overstocked team, coaches do not play 12 or more players, so some rotation candidates get nothing until injuries open minutes up.",
+     "text": "Small changes matter. Losing even two or three minutes a game limits a player's upside and lowers his draft value. A very deep rotation of 12 to 13 players caps everyone, starters included. In that kind of setup, no Pistons player got much past 35 minutes. Deep rotations with short stints can help the real team but hurt fantasy value.",
+     "sources": [
+      "lOshTzDA4SA:r8",
+      "p9XE5jFqhvs:r1",
+      "LcZcvk8s1xQ:r2"
+     ]
+    },
+    {
+     "text": "The check also works the other way. On a team with poor depth, role players' minutes go up. A 22-minute player may play 26, and a 27-minute player may play 31. Per-minute big men pile up numbers, but they only matter in our league if they get enough minutes. Look for teams where thin depth forces those minutes on them.",
      "sources": [
       "LXZLrL90crE:r0",
-      "4GDfg2n2l8o:r2",
-      "0AptxcRW0RE:r0"
+      "4GDfg2n2l8o:r2"
      ]
     }
    ]
   },
   {
-   "heading": "Usage: crowded rosters, departures and arrivals",
+   "heading": "There is only one ball: crowded rosters and added stars",
    "paragraphs": [
     {
-     "text": "There is only one ball. When high-usage players join the same team, last season's numbers cannot all hold. Do not add up past usage on a stacked roster. Bring every player down, and that is where you find value or players to fade. A player who loses about 25 percent of his usage cannot keep his fantasy output, even if his minutes stay high. What matters is his share of usage next to the other high-usage players, not his own past usage.",
+     "text": "When high-usage players join the same team, last season's numbers cannot all hold. If you add up their past usage without cutting it, the team projection is impossible. Scale every player back. That is where you find value, and where you find players to fade. A player's share of usage next to other high-usage teammates matters more than his own usage number.",
      "sources": [
       "sTtFUy7IoJI:r7",
-      "sTtFUy7IoJI:r8",
       "YJk7ZFKFqnI:r0",
       "YJk7ZFKFqnI:r1",
       "bHA-JoW3reE:r3",
@@ -165,136 +171,144 @@
      ]
     },
     {
-     "text": "Arrivals hurt the players who need the ball. When a team adds new guards or scorers, the existing star's usage and assist upside drop, even with the same minutes. Usage-dependent players lose the most. Players who do not depend on usage hold up better. The notes give Barrett and Quickley as examples of the first type and Barnes as an example of the second. Adding one good player to a team short on talent also cuts the usage of whoever was carrying the load.",
+     "text": "A scorer who moves next to other ball-dominant players loses usage and on-ball role. An existing star whose team adds several guards or scorers loses usage and assist upside, even if his minutes stay the same. A player who loses about 25% of his usage cannot keep his fantasy output, even with high minutes. New teammates who miss games still play more than zero games, so the star still loses some production. His baseline only recovers on nights when those teammates sit.",
      "sources": [
-      "dlo7L8Ru91A:r3",
-      "JMSLg6yz-M0:r1",
       "P6TNP-g0wzY:r0",
-      "9tb1ARBEmQU:r3"
+      "dlo7L8Ru91A:r3",
+      "sTtFUy7IoJI:r8",
+      "dlo7L8Ru91A:r4",
+      "bHA-JoW3reE:r2"
      ]
     },
     {
-     "text": "Departures create targets. When a team loses high-usage players and brings in fewer than it lost, the leftover usage goes to someone. Expect bumps for the secondary options. A bench scorer who moves into a lower-priority role may dip. A player who was third in line for ball handling next to two stars can jump once one star leaves, especially in assists. Check his splits from games when he played next to only one of them. Offensive load also counts assists and potential assists, so losing ball handlers adds load for those who remain.",
+     "text": "Not everyone loses the same amount. Players who rely on usage to produce lose the most when a high-usage player arrives. Players who do not depend on usage are hurt less. A lower offensive load can even bring back defensive stats like blocks, which tend to drop when usage rises. Balanced teams spread scoring across many players, so their individual peaks are lower than on teams built around one player.",
+     "sources": [
+      "JMSLg6yz-M0:r1",
+      "CI4k8ofUXXk:r3",
+      "CI4k8ofUXXk:r4"
+     ]
+    },
+    {
+     "text": "Positional crowding cuts minutes, not just usage. On a roster crowded at one position, some good players will lose playing time. Fewer players on that team are draftable. Project the rotation before you bid on anyone from it. More high-usage stars on a roster means fewer breakout chances for role players, not more.",
+     "sources": [
+      "owlM6b8oUd0:r0",
+      "P6TNP-g0wzY:r4",
+      "TiiaNZCJNs8:r0"
+     ]
+    },
+    {
+     "text": "Lineup choices trickle down. Playing small cuts center minutes and opens wing minutes. Playing big squeezes the forwards. Position labels like point guard are just names. Look at actual on-ball usage and assist rate instead.",
+     "sources": [
+      "XSPJL_mlFXo:r5",
+      "gTsfR5PxAMY:r3"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Departed stars: count usage out and usage in",
+   "paragraphs": [
+    {
+     "text": "When a team loses high-usage players and brings in fewer than it lost, the leftover usage has to go somewhere. That creates targets. Expect bumps for the secondary options. A bench scorer who moves into a lower-priority role may dip. Players whose usage spikes when a frontcourt teammate is out gain when that teammate leaves for good.",
      "sources": [
       "W3THnI7wWdA:r0",
-      "W3THnI7wWdA:r1",
       "ya2VYRJ1BN0:r0",
-      "9tb1ARBEmQU:r0"
+      "ya2VYRJ1BN0:r5"
      ]
     },
     {
-     "text": "Count both sides of every trade. Losing a star does not open value for everyone if the team also gets several players and lottery picks back. In a one-for-one swap at the same position, the incoming player takes over the outgoing player's usage, and teammates move from there. The notes use Michael Porter Jr. in Brooklyn versus Denver as an example of a team change moving usage a lot.",
+     "text": "Do the arithmetic for each trade. Add up the usage each team loses and gains. Losing a star does not open value for everyone if the team also gets several players and lottery picks back. In a one-for-one positional swap, the incoming player takes the outgoing player's usage, and teammates move up or down from there. Offensive load also counts assists and potential assists. When a team loses ball handlers, the players who remain take on more load.",
      "sources": [
       "nnWX_ObljOE:r0",
       "nnWX_ObljOE:r1",
       "JMSLg6yz-M0:r0",
-      "lOshTzDA4SA:r0"
+      "9tb1ARBEmQU:r0"
      ]
     },
     {
-     "text": "Usage changes reach the categories. When offensive usage rises, blocks tend to drop, and less load can bring them back. Balanced teams spread scoring and lower individual peaks compared with teams built around one player. A third option needs big minutes and very efficient shooting to matter. In our league, that efficiency counts in FG% and FT%, so a low-volume third option rarely moves them.",
+     "text": "The best target is often a player who was third in line for the ball next to two stars and is now second. His assist rate can jump. Check his splits from games when he played with only one of those stars. Be careful with a pure third option, though. He needs big minutes and very efficient shooting to matter in fantasy, and that is not a likely high-upside outcome. The reverse also holds: adding a good player to a team that lacked talent cuts the usage of the players who had been carrying it. One expert's example is Michael Porter Jr., whose usage can move a lot between Brooklyn and Denver.",
      "sources": [
-      "CI4k8ofUXXk:r3",
-      "CI4k8ofUXXk:r4",
-      "ya2VYRJ1BN0:r1"
+      "W3THnI7wWdA:r1",
+      "ya2VYRJ1BN0:r1",
+      "9tb1ARBEmQU:r3",
+      "oEywzBZfAvY:r1",
+      "lOshTzDA4SA:r0"
      ]
     }
    ]
   },
   {
-   "heading": "Coaches and rotation depth",
+   "heading": "Coaches, starting jobs and team signals",
    "paragraphs": [
     {
-     "text": "The coach can turn a value into a bust. One expert names Ime Udoka and Nick Nurse as the coaches who lean on their starters the most. Under Rick Carlisle, expect low regular-season minutes for starters, especially starting centers. Very deep rotations of 12 to 13 players cap everyone, even starters. No Pistons player got much past 35 minutes. Short stints spread minutes thin, which hurts fantasy value even when it helps the real team.",
+     "text": "The coach can decide whether a player is a value or a bust. Some coaches play heavy minutes. Others bench players for poor defense. One expert names Ime Udoka and Nick Nurse as the coaches who lean on their starters most. Under Rick Carlisle, expect low regular-season minutes for starters, especially starting centers. A team that needs to win will play its star more than a cautious, rebuilding team did. A coach fighting for his job may lean on veterans instead of developing young players.",
      "sources": [
       "aLP080hxizA:r1",
       "yoCTTlJ_tPQ:r0",
       "sfCe7fS9daM:r5",
-      "p9XE5jFqhvs:r1",
-      "LcZcvk8s1xQ:r2"
-     ]
-    },
-    {
-     "text": "Team goals shape minutes too. A team that needs to win plays its star more than a cautious, rebuilding team. A coach fighting for his job may lean on veterans instead of developing young players. A coaching change can change the style of play, and that affects offensive rebounds, steals and pace. Under a new coach, preseason starting lineups are weaker signals than under a coach whose habits you know. That matters now, two weeks before our auction.",
-     "sources": [
       "ya2VYRJ1BN0:r3",
-      "oEywzBZfAvY:r4",
-      "owlM6b8oUd0:r3",
-      "XSPJL_mlFXo:r8"
+      "oEywzBZfAvY:r4"
      ]
     },
     {
-     "text": "The experts disagree on how much to trust coach talk. One side says to pay attention when a coach publicly talks up a player, because it is a signal. The other side says coaches may mislead about minutes, so be skeptical, especially with coaches who have made role and minutes claims before that did not come true. A middle path: treat praise as a reason to look closer, then check it against the 240-minute total and the team's depth chart. Remember that teams try the option that protects ego, salary, draft pedigree or trade capital first. They make harder rotation changes only after that clearly fails.",
+     "text": "The experts disagree on how much to trust coach talk. One side says to be skeptical of what coaches say about minutes and roles, especially coaches whose past claims did not come true. The other side says that when a coach publicly talks up a player, you should treat it as a signal. A sensible middle path is to weigh praise from a coach with a clean record and discount it from one with a history of misleading statements.",
      "sources": [
-      "0AptxcRW0RE:r3",
       "_O9pc_u5vH0:r8",
       "p9XE5jFqhvs:r0",
-      "hm5-fiCa5S4:r2"
+      "0AptxcRW0RE:r3"
+     ]
+    },
+    {
+     "text": "They also differ a little on starting jobs. One note says starting usually means more minutes, so a starting role helps value. Another warns that the starting spot can matter less than minutes, because a bench player can play about as many minutes as a nominal starter. Follow the minutes, not the label. Under a new coach, preseason starting lineups are weaker signals than under a coach whose habits you know. A new coach can also change the team's style, which affects pace, steals and offensive rebounds.",
+     "sources": [
+      "Bi1cEM03k9Y:r4",
+      "_WjOjp6Qu8E:r2",
+      "XSPJL_mlFXo:r8",
+      "owlM6b8oUd0:r3"
+     ]
+    },
+    {
+     "text": "Front office moves tell you about roles. A big contract shows the team trusts the player, so his role could grow. A strong option or extension decision is a signal of belief. A player who simply picks up his option may not be in the long-term plans. Teams usually try the option that protects ego, salary, draft pedigree or trade capital first. They make harder rotation changes only after that clearly fails. Use beat reporters as background context.",
+     "sources": [
+      "W3THnI7wWdA:r4",
+      "owlM6b8oUd0:r4",
+      "hm5-fiCa5S4:r2",
+      "ZAyie8lKyYc:r4"
      ]
     }
    ]
   },
   {
-   "heading": "Positional fit and starting roles",
+   "heading": "Using this in our auction and on waivers",
    "paragraphs": [
     {
-     "text": "Lineup choices trickle down. Playing small cuts center minutes and opens wing minutes. Playing big squeezes the forwards. On a roster crowded at one position, not every good player gets minutes. Fewer players from that team are worth drafting. Project the rotation before you reach for anyone.",
+     "text": "Before the 2026-10-18 auction, project full rosters first and price players second. Run the 240-minute check on every team you plan to draft from. Discount anyone on a crowded roster whose minutes and usage swing from game to game. Do not pay extra for reliability there. With so much movement this year, every price tier is volatile. Avoid spending on low-ceiling role players on bad, unsettled teams just because they might start.",
      "sources": [
-      "XSPJL_mlFXo:r5",
-      "owlM6b8oUd0:r0",
-      "P6TNP-g0wzY:r4"
-     ]
-    },
-    {
-     "text": "Position labels are semantics. Check on-ball usage and assist rate, not the point guard title. That matters for our G slots and for the AST and TO categories.",
-     "sources": [
-      "gTsfR5PxAMY:r3"
-     ]
-    },
-    {
-     "text": "The experts weigh starting roles differently. One note says starting usually means more minutes, so a starting job helps value. Another says a bench player can play about as many minutes as a nominal starter, so minutes matter more than the label. Both agree that minutes are what count. When drafters fear a player might lose his job or share minutes, his price drops. That is value if you believe he starts. Still, do not spend on low-ceiling role players on bad, unsettled teams just because they might start.",
-     "sources": [
-      "Bi1cEM03k9Y:r4",
-      "_WjOjp6Qu8E:r2",
-      "egRrai3Ax38:r8",
+      "bHA-JoW3reE:r4",
+      "YJk7ZFKFqnI:r2",
+      "Rqb5GdrSweY:r9",
       "JMSLg6yz-M0:r5"
      ]
     },
     {
-     "text": "Contracts are signals. A big contract shows the team trusts the player, and his role could grow. A strong option or extension decision shows belief. A player who simply picks up his option may not be in the long-term plans.",
+     "text": "Look for discounts created by role doubt. When drafters fear a player might lose his starting job or share minutes, his price drops. If your 240-minute math says he starts, that is value. A strong per-game rank earned in limited minutes also points to upside if his minutes or role grow.",
      "sources": [
-      "W3THnI7wWdA:r4",
-      "owlM6b8oUd0:r4"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Applying it at our auction and on waivers",
-   "paragraphs": [
-    {
-     "text": "Before 2026-10-18, project full rosters team by team, then set your bid limits. You need the whole roster before you decide where a player belongs. With so much movement this year, every price tier will be volatile. On crowded rosters where minutes and usage swing from game to game, do not pay extra for reliability. Only 144 players get drafted, so a team with too many players at one position may produce fewer draftable names than its talent suggests.",
-     "sources": [
-      "bHA-JoW3reE:r4",
-      "Rqb5GdrSweY:r9",
-      "YJk7ZFKFqnI:r2",
-      "P6TNP-g0wzY:r4"
+      "egRrai3Ax38:r8",
+      "egRrai3Ax38:r13"
      ]
     },
     {
-     "text": "Injuries change the math in season. A player on a stacked team only gets his value back when his ball-dominant teammates are out. Those absences give the others more shots in those games. Injuries on a deep team can hand real minutes to fringe players, as they did in Dallas the last couple of years. On thin non-playoff teams, an injury to a main player turns weak depth into a problem for those who remain. Use FAB on those openings within our six adds per week.",
+     "text": "Only 144 players are drafted, so most fringe rotation players start on waivers. Keep a list of them by team. Injuries on a deep team can hand real minutes to fringe players, as happened in Dallas the last couple of years. When stars on a crowded team miss games, the others get more scoring chances. On thin non-playoff teams, one injury to a main player shifts value to whoever is left. With daily FAB and up to 6 adds a week, react to these minute changes quickly.",
      "sources": [
-      "bHA-JoW3reE:r2",
-      "gTsfR5PxAMY:r1",
       "0AptxcRW0RE:r1",
+      "gTsfR5PxAMY:r1",
       "FxaSnyk9g90:r0"
      ]
     },
     {
-     "text": "Do not overcorrect for teammate injuries. One note says that injury-prone teammates will miss games and can open usage for a player. Another reminds you that new teammates still play more than zero games, so the player still loses some production compared to last season. Price in part of the bump, not all of it.",
+     "text": "Injury risk works both ways. If a player's injury history worries you, remember that his injury-prone teammates will miss games too. That can give him more usage and make him worth his price.",
      "sources": [
-      "xHRF06_E9HE:r8",
-      "dlo7L8Ru91A:r4"
+      "xHRF06_E9HE:r8"
      ]
     }
    ]

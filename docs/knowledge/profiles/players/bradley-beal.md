@@ -3,7 +3,7 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, ESPN | 62 | 25.3 | 50.2 (10.4) | 80.6 (2.0) | 1.5 | 13.6 | 2.9 | 3.3 | 0.8 | 0.4 | 1.7 |
+| 2026-27 proj, ESPN | 54 | 25.3 | 50.2 (10.4) | 80.6 (2.0) | 1.5 | 13.6 | 2.9 | 3.3 | 0.8 | 0.4 | 1.7 |
 | 2026-27 proj, Yahoo | 50 | - | 49.6 (7.6) | 79.5 (1.5) | 1.1 | 9.8 | 2.0 | 2.3 | 0.6 | 0.3 | 1.2 |
 | 2025-26 | 6 | 20.2 | 37.5 (8.0) | 75.0 (1.3) | 1.2 | 8.2 | 0.8 | 1.7 | 0.5 | 0.0 | 1.5 |
 | 2024-25 | 53 | 32.0 | 49.7 (13.1) | 80.3 (2.6) | 1.9 | 17.0 | 3.3 | 3.7 | 1.1 | 0.5 | 1.9 |
@@ -11,42 +11,41 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 212 | 0 | 0.0 | 205 | 3 |
+| 2026-27 | 0 | - | 239 | 0 | 0.0 | 246 | 3 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 50.0% | +0.3 | +0.8 | - |
+| FG% | 49.9% | +0.3 | +0.8 | - |
 | FT% | 80.1% | +0.1 | -0.1 | - |
 | 3PM | 1.3 | -0.2 | -0.5 | - |
-| PTS | 11.7 | -0.4 | -0.4 | - |
-| REB | 2.5 | -1.1 | -1.1 | - |
+| PTS | 11.7 | -0.4 | -0.5 | - |
+| REB | 2.5 | -1.1 | -1.2 | - |
 | AST | 2.8 | -0.2 | -0.3 | - |
 | STL | 0.7 | -0.7 | -0.8 | - |
 | BLK | 0.3 | -0.6 | -0.4 | - |
-| TO | 1.4 | +0.3 | +0.3 | - |
+| TO | 1.5 | +0.3 | +0.3 | - |
 
 </details>
 
 **Current**
-- Beal will not be available to start the season. He has a hip fracture and knee soreness, and Yahoo lists him as questionable with a knee issue. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1113), stats)
+- Beal will miss the start of the season while he recovers from a hip fracture and has knee soreness. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1113), stats)
 - He is not in the projected starting lineup. He is projected as the seventh man off the bench, behind Kris Dunn. (fact, 2026-10-04; [08-22](https://youtu.be/KLogvUwv_d8?t=558), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268))
-- The expert thinks Beal is probably washed. He still sees some upside because the Clippers need shot creation. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1113))
-- Do not draft Beal. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1148))
+- The expert thinks Beal is probably washed. He sees some upside because the Clippers need shot creation. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1113))
+- Do not draft him. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1148))
 - He could be a streaming option at times if he gets up to 30 minutes. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1951))
-- The expert leans toward the Clippers using this as a trial season, with long rotations and many players tested. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335))
-- The Clippers play 4, 3 and 4 games in our fantasy playoff weeks. They have 13 back-to-backs, one of the lowest totals in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
+- The Clippers expect a trial season with long rotations and many players tested. Coach Ty Lue also tends to make odd rotation choices and then change them. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
+- The Clippers have a good fantasy playoff schedule (4-3-4 games for a March 28 end). They also have one of the lowest back-to-back totals in the league, with 13. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
 - He re-signed with the Clippers after hip surgery. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=558))
 
 **Durable**
-- Knee soreness is a long-running problem for him. He has also had a hip fracture and hip surgery. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1951), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1113), [08-22](https://youtu.be/KLogvUwv_d8?t=558))
-- Clippers coach Ty Lue makes unusual rotation choices and then changes them. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
+- Knee soreness has been a long-running problem for Beal. He has also had hip surgery after a hip fracture. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1951), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1113), [08-22](https://youtu.be/KLogvUwv_d8?t=558))
 
 **Tags**
-- Current: `injured now` (hip fracture and knee soreness, out to start the season, Yahoo Q (Knee)), `injury last season` (played 6 games in 2025-26), `role down` (projected seventh man off the bench, not a starter), `waiver watch` (streaming option if he gets up to 30 minutes), `unsettled rotation` (Ty Lue changes rotations; trial season expected), `deep rotation` (long rotations with many players tested), `good playoff schedule` (4-3-4 in weeks 19 to 21), `few back-to-backs` (13 back-to-backs)
-- Durable: `injury prone` (long-running knee soreness, hip fracture and surgery)
+- Current: `injured now` (Recovering from a hip fracture and has knee soreness. Out to start the season.), `questionable` (Yahoo status Q (Knee)), `injury last season` (Hip fracture and surgery limited him to 6 games), `waiver watch` (Streaming option if he reaches 30 minutes), `deep rotation` (Clippers plan long rotations in a trial season. He is projected seventh man.), `unsettled rotation` (Ty Lue changes rotations often), `good playoff schedule` (4-3-4 games in weeks 19 to 21), `few back-to-backs` (13 back-to-backs, one of the lowest totals in the league)
+- Durable: `injury prone` (Long-running knee soreness, plus hip surgery)
 
-**Note.** Beal is not a draft target. Yahoo and ESPN both value him at 0 USD, his ranks of 212 and 205 are far outside the 144 players drafted, and the expert says do not draft him, so the 3 USD he cost in our league last season should not be repeated. He has no weak category, but he also has no strong one, and he starts the season hurt and in a bench role. Watch him on waivers after he returns. He becomes a short-term streamer only if he reaches about 30 minutes, and the Clippers' 4-3-4 playoff schedule helps if he does.
+**Note.** Beal is not a draft target. Yahoo and ESPN both give him 0 USD value, he ranks 239 and 246, he went for only 3 USD in our last auction, and the expert says do not draft. He is out to start the season with a hip and knee problem and is projected as a bench player, so leave him on waivers. Once he returns, check whether he gets close to 30 minutes, because that would make him a streaming option, helped by the Clippers' 4-3-4 playoff schedule.
 
-<sub>5 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

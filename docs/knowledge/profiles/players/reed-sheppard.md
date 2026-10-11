@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 1 | 1.0 | 149 | 8 | 1.9 | 58 | 4 |
+| 2026-27 | 1 | 1.0 | 141 | 7 | 1.9 | 62 | 4 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -18,39 +18,39 @@
 |---|---|---|---|---|
 | FG% | 43.6% | -0.9 | -0.7 | - |
 | FT% | 80.1% | +0.0 | -0.4 | - |
-| 3PM | 2.7 | +1.3 | +1.1 | - |
+| 3PM | 2.7 | +1.3 | +1.0 | - |
 | PTS | 13.3 | -0.1 | -0.2 | - |
 | REB | 2.9 | -0.9 | -0.6 | - |
 | AST | 3.3 | +0.1 | -0.3 | - |
 | STL | 1.5 | +1.7 | +1.3 | - |
-| BLK | 0.7 | +0.2 | +1.4 | - |
+| BLK | 0.7 | +0.1 | +1.4 | - |
 | TO | 1.5 | +0.2 | +0.4 | - |
 
 </details>
 
 **Current**
-- Draft him only as a cheap upside flyer. Josh values him at 1 USD. Lloyd is fine with him as a round-10 pick around 110 to 120. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3555), [10-01](https://youtu.be/aLP080hxizA?t=1688), [09-24](https://youtu.be/_vbAP5y182A?t=1996), [09-17](https://youtu.be/DubdKKhMWHo?t=1949))
-- Houston brought back Fred VanVleet and added Marcus Smart and Bogdan Bogdanovic, so the guard rotation is crowded. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=205), [09-07](https://youtu.be/gJUBAJaHzlU?t=1671), [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [09-10](https://youtu.be/W-R1dzem32s?t=1952), [09-10](https://youtu.be/W-R1dzem32s?t=1955), [07-16](https://youtu.be/-y6p5PYLf00?t=1301), [07-14](https://youtu.be/xHRF06_E9HE?t=1066), [07-02](https://youtu.be/P6TNP-g0wzY?t=1443))
-- The projected Houston starters are VanVleet, Amen Thompson, Kevin Durant, Jabari Smith Jr. and Alperen Sengun. Sheppard is not among them. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=328), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357))
-- Ime Udoka blames him for defensive mistakes and pulls him quickly for them. Last season Udoka played Josh Okogie ahead of him. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=205), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1144), [07-14](https://youtu.be/xHRF06_E9HE?t=1016))
-- Experts expect a smaller role than last season. Lloyd projects about 26 minutes and doubts he matches last season's minutes. Other experts see almost no path to a starting job without major injuries. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=205), [10-01](https://youtu.be/aLP080hxizA?t=1688), [09-17](https://youtu.be/DubdKKhMWHo?t=1949), [07-14](https://youtu.be/xHRF06_E9HE?t=1016), [09-07](https://youtu.be/gJUBAJaHzlU?t=1671), [07-16](https://youtu.be/-y6p5PYLf00?t=1301), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1331))
-- His ESPN rank of 58 is far too high. Lloyd doubts he breaks the top 100 and calls him his biggest fade on ESPN. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1688), [09-19](https://youtu.be/uarqbNA2dFk?t=2453))
-- Last season he ranked 93rd in head-to-head value. He was 129th before the trade deadline and 45th after it. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1474), [07-14](https://youtu.be/xHRF06_E9HE?t=968))
-- His season-total nine-category rank near 30th last season is misleading. It is high only because he played all 82 games. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1474), [07-14](https://youtu.be/xHRF06_E9HE?t=968))
-- With our March 28 end date, Houston plays 3, 3 and 4 games in fantasy playoff weeks 19 to 21. That is 10 games, a weak schedule. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
-- Several experts think Udoka does not like him and will not change his mind. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1996), [09-10](https://youtu.be/W-R1dzem32s?t=1952), [09-07](https://youtu.be/gJUBAJaHzlU?t=1671))
-- If he starts and plays about 28 to 30 minutes, he could be a top 40 to 50 player. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1996), [09-07](https://youtu.be/gJUBAJaHzlU?t=1679), [09-09](https://youtu.be/7BllEsdNLoM?t=2582))
+- Draft him only as a cheap late upside flier. Josh values him at 1 USD (he went for 5 USD in a mock). Lloyd doubts he breaks the top 100 and sees him as a round-10 swing around pick 110 to 120. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3555), [10-01](https://youtu.be/aLP080hxizA?t=1688), [09-24](https://youtu.be/_vbAP5y182A?t=1996), [09-17](https://youtu.be/DubdKKhMWHo?t=1949))
+- Houston's guard rotation is crowded. Fred VanVleet is back, and the Rockets added Marcus Smart and Bogdan Bogdanovic. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=205), [09-07](https://youtu.be/gJUBAJaHzlU?t=1671), [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [07-14](https://youtu.be/xHRF06_E9HE?t=1066), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [09-10](https://youtu.be/W-R1dzem32s?t=1952), [09-10](https://youtu.be/W-R1dzem32s?t=1955), [07-16](https://youtu.be/-y6p5PYLf00?t=1301), [07-02](https://youtu.be/P6TNP-g0wzY?t=1443))
+- Coach Ime Udoka blamed Sheppard for defensive mistakes and pulls him quickly when he makes them. Udoka has played Josh Okogie ahead of him. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=205), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1144), [07-14](https://youtu.be/xHRF06_E9HE?t=1016))
+- Experts project him off the bench. The projected starters are VanVleet, Amen Thompson, Kevin Durant, Jabari Smith Jr. and Alperen Sengun. Thompson and Smart could take most of the point guard minutes, and he may not even make the top eight of the rotation. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=328), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357), [07-14](https://youtu.be/xHRF06_E9HE?t=1016), [09-17](https://youtu.be/DubdKKhMWHo?t=1949), [09-17](https://youtu.be/DubdKKhMWHo?t=1968), [09-19](https://youtu.be/uarqbNA2dFk?t=2453))
+- Lloyd projects about 26 minutes a night but says Sheppard may struggle to match last season's minutes. Experts expect him to take a step back this season. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=205), [10-01](https://youtu.be/aLP080hxizA?t=1688), [09-07](https://youtu.be/gJUBAJaHzlU?t=1671), [07-16](https://youtu.be/-y6p5PYLf00?t=1301))
+- His 29th to 30th place in season-total nine-category rankings is misleading. It comes from playing 82 games. He was 93rd in head-to-head value, and 129th before the trade deadline against 45th after it. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1474), [07-14](https://youtu.be/xHRF06_E9HE?t=968))
+- His ESPN rank near 58 is far too high. Lloyd calls him his biggest fade on ESPN. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1688), [09-19](https://youtu.be/uarqbNA2dFk?t=2453))
+- With a March 28 end, Houston has a weak 3-3-4 fantasy playoff schedule, 10 games over weeks 19 to 21. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
+- Houston has only 14 back-to-backs this season. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011))
+- Several experts think Udoka dislikes Sheppard and will not change his mind. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1996), [09-10](https://youtu.be/W-R1dzem32s?t=1952), [09-07](https://youtu.be/gJUBAJaHzlU?t=1671))
+- If he got a 28 to 30 minute starting role, he could be a top 40 to top 50 player. The experts do not expect that role without big injuries. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1996), [09-07](https://youtu.be/gJUBAJaHzlU?t=1679), [09-09](https://youtu.be/7BllEsdNLoM?t=2582), [09-17](https://youtu.be/DubdKKhMWHo?t=1949))
+- His minutes should swing from game to game. He will play more when he is hot from three. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1331))
 
 **Durable**
-- His category profile is strong for a guard: many threes, high steals and blocks, and good free throw shooting on low volume. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1510), [08-30](https://youtu.be/Alwse2uXzD4?t=2101), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1082), [07-14](https://youtu.be/xHRF06_E9HE?t=986), stats)
-- He is small and struggles on defense. He picks up his dribble too often and is too soft with the ball. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1510), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1309))
+- He has a strong category profile: many threes on good three-point shooting, high steals and blocks for a guard, solid assists and good free throw shooting on low volume. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1510), [08-30](https://youtu.be/Alwse2uXzD4?t=2101), [07-14](https://youtu.be/xHRF06_E9HE?t=986), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1082), stats)
 - He is worth more in category leagues than in points leagues. (verdict, 2026-10-01; [08-30](https://youtu.be/Alwse2uXzD4?t=2101), [10-01](https://youtu.be/aLP080hxizA?t=1474))
-- Udoka is a defense-first coach. He gives little room for error to poor defenders and plays his starters heavy minutes. (fact, 2026-10-01; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1152), [10-01](https://youtu.be/aLP080hxizA?t=146), [09-09](https://youtu.be/7BllEsdNLoM?t=2451))
+- He is small and struggles on defense. He picks up his dribble too often and is too soft with the ball, so he needs to get stronger. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1510), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1309))
 
 **Tags**
-- Current: `role down` (VanVleet back, Smart and Bogdanovic added; about 26 minutes projected), `minutes competition` (VanVleet, Amen Thompson, Marcus Smart, Bogdan Bogdanovic), `coach distrust` (Udoka pulls him for defensive mistakes; experts say Udoka dislikes him), `flyer` (top 40 to 50 upside only if he starts), `bust candidate` (ESPN rank 58), `sites disagree on price` (Yahoo rank 149 and 1 USD, ESPN rank 58 and 8 USD), `bad playoff schedule` (3-3-4, 10 games in weeks 19 to 21), `few back-to-backs` (14 back-to-backs), `winning team` (54 wins projected)
-- Durable: `9-cat fluff` (season-total rank near 30th came from 82 games; 93rd in H2H), `category league player`, `fits every build` (threes, steals and guard blocks with no weak category), `defense-first` (Udoka gives poor defenders little room for error), `heavy starter minutes` (limits bench minutes for Sheppard)
+- Current: `coach distrust` (Ime Udoka pulls him for defensive mistakes and has played Josh Okogie ahead of him), `minutes competition` (VanVleet, Smart, Bogdanovic and Amen Thompson in the guard rotation), `role down` (expected to lose minutes after Houston added guards), `flyer` (late upside pick, top 40 to 50 if he starts), `bust candidate` (ESPN rank near 58), `sites disagree on price` (Yahoo rank 141 at 1 USD, ESPN rank 62 at 7 USD), `bad playoff schedule` (3-3-4, 10 games in weeks 19 to 21), `few back-to-backs` (14 back-to-backs), `winning team` (predicted 54 wins)
+- Durable: `9-cat fluff` (season-total rank boosted by 82 games played; 93rd in H2H value), `category league player` (threes, steals and blocks from a guard), `fits every build`, `heavy starter minutes` (Udoka plays starters heavily, which shrinks bench minutes), `defense-first` (Udoka gives little room for error to weak defenders)
 
-**Note.** ESPN prices him at 8 USD (rank 58), but Yahoo has him at 1 USD (rank 149), and the experts agree with Yahoo. He went for 4 USD in our league last year, so keep him at 1 to 3 USD as a last-round flyer. He gives threes (+1.1 z vs guards), steals (+1.3) and blocks (+1.4) with no weak category, so he fits any build. His 43.6% FG is a mild drag, though. In the first weeks, check whether he gets 26 or more minutes or moves into the starting lineup after an injury. If he stays a short-minute bench guard behind VanVleet and Smart, drop him, because Houston's 10-game playoff schedule gives little reason to hold him.
+**Note.** Sheppard has a real category profile: 2.7 threes and 1.5 steals projected. But the experts agree his role shrinks behind VanVleet, Smart and Bogdanovic under a coach who distrusts him. In our league he is a 1 to 5 USD late flier. Pay closer to Yahoo's 1 USD (rank 141) than ESPN's 7 USD (rank 62), and below the 4 USD our league paid last season. Early in the season, check whether he stays in the top eight of the rotation and gets 25 or more minutes. Watch for any guard injury that could open a starting role. Note too that Houston's 10-game playoff schedule is weak.
 
-<sub>25 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>25 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

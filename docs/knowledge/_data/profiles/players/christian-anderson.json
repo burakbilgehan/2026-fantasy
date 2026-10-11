@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "81881862305a",
+ "input_sha": "61afc0c82145",
  "note_count": 6,
- "built_at": "2026-10-04T17:26:42+00:00",
+ "built_at": "2026-10-11T09:14:21+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.13891019999999998,
-  "duration_ms": 33931
+  "cost_usd_list": 0.1546822,
+  "duration_ms": 32754,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Charlotte drafted him 18th overall in the 2026 NBA draft. This is his first NBA season.",
+   "text": "He is a rookie. Charlotte drafted him 18th overall in the 2026 NBA Draft.",
    "kind": "fact",
    "date": "2026-07-21",
    "until": "",
@@ -29,26 +31,27 @@
    ]
   },
   {
-   "text": "He is not expected to start or to be part of the main rotation. Coby White starts at guard. The latest Charlotte preview lists White, Knueppel, Miller, Reid and Diabaté as starters, with Allen, Schröder, Steinbach, O'Neale and Grant Williams off the bench.",
-   "kind": "verdict",
-   "date": "2026-09-27",
+   "text": "Coby White is Charlotte's starting guard, so Anderson is not expected to start.",
+   "kind": "fact",
+   "date": "2026-06-26",
    "until": "",
    "sources": [
     "CLsUc0Sevos:p32",
-    "CRLSsoGhb2w:t3"
+    "CLsUc0Sevos:t5"
    ]
   },
   {
-   "text": "Charlotte has no trusted backup point guard on the roster.",
+   "text": "He is not yet trusted as Charlotte's backup point guard. The team has no trusted backup point guard on the roster.",
    "kind": "fact",
    "date": "2026-07-21",
    "until": "",
    "sources": [
+    "EB1Z_6n56-o:p28",
     "EB1Z_6n56-o:t2"
    ]
   },
   {
-   "text": "He is not yet trusted as the backup point guard. Walker calls him a fun archetype rather than a functional one for now.",
+   "text": "Walker calls him a fun archetype rather than a functional player for now.",
    "kind": "verdict",
    "date": "2026-07-21",
    "until": "",
@@ -57,7 +60,7 @@
    ]
   },
   {
-   "text": "He shot badly in Summer League but took a high volume of threes.",
+   "text": "His Summer League was disappointing because of bad shooting, but he took a high volume of threes.",
    "kind": "fact",
    "date": "2026-07-23",
    "until": "",
@@ -66,18 +69,67 @@
    ]
   },
   {
-   "text": "He is not a draft target in a 12-team league. His projected line has no category that helps a fantasy team.",
+   "text": "One dynasty ranker puts him 16th in the rookie class and really likes him, but says he will not start this season.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-06-26",
+   "until": "",
+   "sources": [
+    "CLsUc0Sevos:p32"
+   ]
+  },
+  {
+   "text": "Yahoo lists him as questionable with an ankle injury.",
+   "kind": "fact",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
+   ]
+  },
+  {
+   "text": "Charlotte plans to space the floor and take a lot of threes. Playmaking will be spread across several players instead of one main creator.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:t0",
+    "EB1Z_6n56-o:t3",
+    "CRLSsoGhb2w:t1"
+   ]
+  },
+  {
+   "text": "Charlotte has a deep roster. Schröder and Allen are also on the guard bench.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t3",
+    "CRLSsoGhb2w:t4"
+   ]
+  },
+  {
+   "text": "Coby White is out with a calf injury and will probably miss the start of the season.",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:t6",
+    "BiIZsSypx7Y:t4"
+   ]
+  },
+  {
+   "text": "Charlotte has only 13 back-to-backs, the league minimum. Its playoff schedule for a March 28 end is 4-3-4 games.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t5"
    ]
   }
  ],
  "durable": [
   {
-   "text": "Experts see passing and shooting as his two outlier skills. One calls him the best passer in the 2026 class and possibly the best shooter, and rates him above consensus.",
+   "text": "Experts rate him as possibly the best passer and the best shooter in the 2026 draft class. One speaker says he has two outlier skills and rates him above consensus.",
    "kind": "verdict",
    "date": "2026-07-23",
    "until": "",
@@ -95,12 +147,12 @@
    "until": "",
    "sources": [
     "lOshTzDA4SA:p23",
-    "CLsUc0Sevos:p32",
-    "HxQjagSTTAM:p7"
+    "HxQjagSTTAM:p7",
+    "CLsUc0Sevos:p32"
    ]
   },
   {
-   "text": "His defense is a concern.",
+   "text": "His size and defense are the main concerns about his game.",
    "kind": "verdict",
    "date": "2026-06-22",
    "until": "",
@@ -113,7 +165,7 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "18th overall pick in 2026 by Charlotte",
+   "detail": "18th overall pick in 2026",
    "until": "",
    "sources": [
     "CLsUc0Sevos:p32",
@@ -124,16 +176,90 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Backup point guard role is open; not yet trusted there, with Schröder and Allen projected ahead of him on the bench",
+   "detail": "Coby White starts; Schröder and Allen also on the guard bench; not yet trusted as backup PG",
    "until": "",
    "sources": [
+    "CLsUc0Sevos:p32",
     "EB1Z_6n56-o:p28",
-    "EB1Z_6n56-o:t2",
     "CRLSsoGhb2w:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q (ankle)",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injured now",
+   "channel": "current",
+   "detail": "ankle, Yahoo status Q",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Yahoo rank 698, value 0 USD; watch for backup PG minutes while Coby White is out",
+   "until": "",
+   "sources": [
+    "stats",
+    "EB1Z_6n56-o:p28",
+    "6DnRWahYrFA:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "three-point heavy",
+   "channel": "current",
+   "detail": "Charlotte is leaning fully into spacing and threes",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "shared ball handling",
+   "channel": "current",
+   "detail": "playmaking spread among White, Knueppel and Miller after the LaMelo Ball trade",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:t3",
+    "CRLSsoGhb2w:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "deep Charlotte roster",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t4",
+    "EB1Z_6n56-o:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13 back-to-backs, league minimum",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t5"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Yahoo values him at 0 USD with a rank of 677, so he will not be among the 144 players drafted in our auction. His Yahoo projection (8.3 PTS, 2.9 AST, 1.3 3PM) has no category that helps us. Early in the season, check whether he takes over Charlotte's open backup point guard role. Only then is he worth a look on waivers.",
+ "note": "He is not a draft target in our 144-player auction. Yahoo values him at 0 USD (rank 698), ESPN has no price, and his projected line (8.3 points, 2.9 assists, 1.3 threes) has no strong category. Leave him on waivers. Early in the season, check whether his ankle clears and whether he becomes the backup point guard while Coby White is out with his calf injury. His shooting and passing fit Charlotte's three-heavy plan, but the experts' praise is mostly about his long-term outlook.",
  "rejected": []
 }

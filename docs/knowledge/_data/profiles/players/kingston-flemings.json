@@ -8,33 +8,43 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "d2753c045d6f",
+ "input_sha": "f1e22f255f1d",
  "note_count": 7,
- "built_at": "2026-10-05T19:56:19+00:00",
+ "built_at": "2026-10-11T09:20:09+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1456302,
-  "duration_ms": 34146,
+  "cost_usd_list": 0.1513182,
+  "duration_ms": 34650,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is a rookie, a 19-year-old first-round pick. He is the backup point guard behind CJ McCollum and Nickeil Alexander-Walker and comes off the bench.",
+   "text": "He is a first-round rookie, age 19.",
+   "kind": "fact",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:p24"
+   ]
+  },
+  {
+   "text": "He is the backup point guard behind CJ McCollum and Nickeil Alexander-Walker. Atlanta expects a 10-man rotation with him on the bench.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
    "sources": [
     "4gw4W4RTolY:p20",
-    "H9q2FT3LhNw:p24",
     "TOn-D1SV7a8:p29",
     "LUTYUdXBG1M:p47",
-    "RsjGTgJiKyI:p12"
+    "H9q2FT3LhNw:p24",
+    "RsjGTgJiKyI:p12",
+    "4gw4W4RTolY:t2"
    ]
   },
   {
-   "text": "Lloyd expects him to struggle with usage and efficiency this season but to be a good source of assists and steals.",
+   "text": "Lloyd expects him to struggle with usage and efficiency as a rookie, but to be a good source of assists and steals.",
    "kind": "verdict",
    "date": "2026-09-25",
    "until": "",
@@ -43,7 +53,7 @@
    ]
   },
   {
-   "text": "ESPN's rank of 215 is too high for this season.",
+   "text": "ESPN's rank of 215 is too high for him this season.",
    "kind": "verdict",
    "date": "2026-09-25",
    "until": "",
@@ -52,28 +62,17 @@
    ]
   },
   {
-   "text": "He would likely start if McCollum got hurt, but the path is not clean. Several Atlanta starters handle the ball, so Lu Dort or Andrew Wiggins could take the open spot instead. He is not an automatic handcuff.",
+   "text": "He would likely start if McCollum got hurt, but the path is not clean. Several Atlanta starters handle the ball, and Lu Dort or Andrew Wiggins could replace any of them, so he is not an automatic handcuff.",
    "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "4gw4W4RTolY:p21",
-    "4gw4W4RTolY:t4",
-    "n4KkK-OJjqA:t1"
-   ]
-  },
-  {
-   "text": "Atlanta expects a 10-man rotation with a deep bench. The other bench players are Dort, Wiggins, Landale and probably Newell, and Kispert and Finney-Smith are also in the mix.",
-   "kind": "fact",
    "date": "2026-09-25",
    "until": "",
    "sources": [
-    "4gw4W4RTolY:t2",
-    "W3THnI7wWdA:t6"
+    "4gw4W4RTolY:p21",
+    "4gw4W4RTolY:t4"
    ]
   },
   {
-   "text": "Atlanta has no true point guard. McCollum, Alexander-Walker, Johnson and Daniels share the ball handling.",
+   "text": "Atlanta has no true point guard. McCollum, Alexander-Walker, Jalen Johnson and Dyson Daniels share the ball handling.",
    "kind": "fact",
    "date": "2026-08-25",
    "until": "",
@@ -91,29 +90,18 @@
    ]
   },
   {
-   "text": "McCollum signed an extension, which delays the point where Flemings becomes a starter.",
+   "text": "Atlanta plays 4-4-3 games in our playoff weeks 19 to 21. The team has 14 back-to-backs, and resting players is not a concern.",
    "kind": "fact",
-   "date": "2026-06-28",
-   "until": "",
-   "sources": [
-    "RsjGTgJiKyI:t4"
-   ]
-  },
-  {
-   "text": "In dynasty he should go higher than his Fantrax ADP of 240. He ranks among the top six rookies: fifth in category leagues and sixth in points leagues.",
-   "kind": "verdict",
    "date": "2026-09-25",
    "until": "",
    "sources": [
-    "4gw4W4RTolY:p21",
-    "TOn-D1SV7a8:p29",
-    "RsjGTgJiKyI:p12"
+    "4gw4W4RTolY:t6"
    ]
   }
  ],
  "durable": [
   {
-   "text": "His fantasy appeal comes from a strong assist-to-turnover ratio and a high steal rate. For that reason he ranks ahead of Mikel Brown Jr. for fantasy.",
+   "text": "His fantasy appeal comes from his assist to turnover ratio and his steal rate. Experts rank him ahead of Mikel Brown Jr. for fantasy for those reasons.",
    "kind": "verdict",
    "date": "2026-08-02",
    "until": "",
@@ -122,7 +110,7 @@
    ]
   },
   {
-   "text": "His wingspan is not great.",
+   "text": "One expert says his wingspan is not great.",
    "kind": "verdict",
    "date": "2026-06-22",
    "until": "",
@@ -135,30 +123,28 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "19-year-old first-round pick",
+   "detail": "First-round pick, age 19",
    "until": "",
    "sources": [
-    "H9q2FT3LhNw:p24",
-    "4gw4W4RTolY:p20"
+    "H9q2FT3LhNw:p24"
    ],
    "new_meaning": ""
   },
   {
-   "name": "minutes competition",
+   "name": "waiver watch",
    "channel": "current",
-   "detail": "Backup PG behind McCollum and Alexander-Walker. Dort and Wiggins could also take a starter's spot if one opens.",
+   "detail": "Likely starter if CJ McCollum gets hurt, but Dort or Wiggins could take the role",
    "until": "",
    "sources": [
     "4gw4W4RTolY:p21",
-    "4gw4W4RTolY:t4",
-    "TOn-D1SV7a8:p29"
+    "4gw4W4RTolY:t4"
    ],
    "new_meaning": ""
   },
   {
    "name": "deep rotation",
    "channel": "current",
-   "detail": "10-man rotation with a deep Atlanta bench",
+   "detail": "10-man rotation, backup behind McCollum and Alexander-Walker",
    "until": "",
    "sources": [
     "4gw4W4RTolY:t2",
@@ -169,7 +155,7 @@
   {
    "name": "shared ball handling",
    "channel": "current",
-   "detail": "No true point guard. Four starters share the ball handling.",
+   "detail": "McCollum, Alexander-Walker, Johnson and Daniels share the ball",
    "until": "",
    "sources": [
     "H9q2FT3LhNw:t2"
@@ -177,18 +163,17 @@
    "new_meaning": ""
   },
   {
-   "name": "waiver watch",
+   "name": "low shutdown risk",
    "channel": "current",
-   "detail": "Not a draft target. Watch him if McCollum gets hurt, for assists and steals.",
+   "detail": "Atlanta did not shut players down and does not rest players",
    "until": "",
    "sources": [
-    "4gw4W4RTolY:p21",
-    "4gw4W4RTolY:p20",
-    "stats"
+    "xHRF06_E9HE:t0",
+    "4gw4W4RTolY:t6"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Kingston Flemings is not a draft target for us. Both Yahoo and ESPN value him at 0 USD, and his ranks (Yahoo 243, ESPN 215) are well outside the 144 players our league drafts. Lloyd says even ESPN's 215 is too high. As a bench rookie he projects to only 0.6 threes and 43.4% FG, so his only real help would be assists (3.8) and steals (1.1). Leave him on waivers and check early whether McCollum misses time and whether Flemings, not Dort or Wiggins, gets the starts.",
+ "note": "Both sites value him at 0 USD and rank him 243 (Yahoo) and 215 (ESPN). Our draft takes only 144 players and he was not drafted last season, so do not draft him. His projected line (about 10 points, 3.8 assists, 1.1 steals, few threes) has no strong category, so he fits no particular build. Watch him on waivers. He becomes worth an add only if CJ McCollum misses time and Flemings, not Lu Dort or Andrew Wiggins, takes the starting minutes and turns them into assists and steals.",
  "rejected": []
 }

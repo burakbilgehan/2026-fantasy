@@ -8,73 +8,133 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "d31e0cc844d2",
- "note_count": 1,
- "built_at": "2026-10-04T17:48:10+00:00",
+ "input_sha": "1660935c358f",
+ "note_count": 6,
+ "built_at": "2026-10-11T09:23:17+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.09617420000000002,
-  "duration_ms": 18664
+  "cost_usd_list": 0.1561022,
+  "duration_ms": 34296,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He missed most of last season with a significant injury.",
+   "text": "His toe injury is reportedly healed.",
    "kind": "fact",
-   "date": "2026-08-17",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
+    "lp11OAEpq4Y:p22"
+   ]
+  },
+  {
+   "text": "Ty Jerome is the starting point guard and started both preseason games. Pippen is projected to come off the bench behind him.",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:t5",
+    "lp11OAEpq4Y:t4",
+    "lp11OAEpq4Y:t5",
     "LcZcvk8s1xQ:p23"
    ]
   },
   {
-   "text": "He will compete for point guard minutes behind Ty Jerome, who is expected to start at point guard.",
-   "kind": "fact",
-   "date": "2026-08-17",
+   "text": "He is expected to be the sixth man and competes with Jaylen Wells for minutes.",
+   "kind": "verdict",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
-    "LcZcvk8s1xQ:p23",
-    "LcZcvk8s1xQ:t6",
-    "NYTH7uQsPCM:t9"
+    "lp11OAEpq4Y:p22"
    ]
   },
   {
-   "text": "The Memphis guard group is crowded: Javon Small, Ty Jerome, Pippen, Campazzo and Cam Spencer.",
+   "text": "He has been working at shooting guard.",
    "kind": "fact",
-   "date": "2026-07-16",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
-    "-y6p5PYLf00:t1"
+    "lp11OAEpq4Y:p24"
    ]
   },
   {
-   "text": "Coach Tuomas Iisalo runs an 11-man rotation with short stints and keeps minutes down, which limits a backup guard's minutes.",
-   "kind": "fact",
-   "date": "2026-08-17",
+   "text": "He could start next to Jerome. If Jerome gets hurt and Pippen starts, he would be a must-add in every league.",
+   "kind": "verdict",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
+    "lp11OAEpq4Y:p24"
+   ]
+  },
+  {
+   "text": "The expert says he is ranked too low. He is worth a late pick as a deep-bench stash and is the expert's late-round swing pick on Memphis.",
+   "kind": "verdict",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:p25",
+    "lp11OAEpq4Y:p26"
+   ]
+  },
+  {
+   "text": "Memphis is expected to use an 11 or 12 man rotation. Coach Tuomas Iisalo uses short stints and keeps minutes down, which limits a bench guard's minutes.",
+   "kind": "verdict",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:t0",
+    "lp11OAEpq4Y:t2",
     "LcZcvk8s1xQ:t1",
     "LcZcvk8s1xQ:t2"
+   ]
+  },
+  {
+   "text": "Memphis plays a 4-4-4 schedule in the fantasy playoff weeks with a March 28 end. The team has only 13 back-to-backs, possibly the fewest in the league.",
+   "kind": "fact",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:t7"
    ]
   }
  ],
  "durable": [
   {
-   "text": "Steals are his standout category. He projects for about 1.8 steals per game, far above the top 250 pool.",
+   "text": "His value comes from steals and assists. He is a strong perimeter defender.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:p23"
+   ]
+  },
+  {
+   "text": "Steals are a real outlier: about 1.8 per game projected, far above the top 250 pool.",
+   "kind": "fact",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "His FT% is weak for a guard, at about 74% projected on low volume.",
-   "kind": "fact",
-   "date": "2026-10-04",
+   "text": "His FT% (around 74%) is weak for a guard, so a punt FT% team loses little with him.",
+   "kind": "verdict",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
+   ]
+  },
+  {
+   "text": "He is less useful in points leagues than in category leagues.",
+   "kind": "verdict",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:p25"
    ]
   }
  ],
@@ -85,43 +145,128 @@
    "detail": "about 1.8 steals per game projected",
    "until": "",
    "sources": [
-    "stats"
+    "stats",
+    "lp11OAEpq4Y:p23"
    ],
    "new_meaning": ""
   },
   {
    "name": "punt FT fit",
    "channel": "durable",
-   "detail": "about 74% FT projected",
+   "detail": "about 74% FT, weak for a guard",
    "until": "",
    "sources": [
     "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "category league player",
+   "channel": "durable",
+   "detail": "value is steals and assists, less useful in points leagues",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:p25"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "backup point guard behind Ty Jerome in a crowded guard group",
+   "detail": "sixth man role vs Jaylen Wells; behind Ty Jerome at point guard",
    "until": "",
    "sources": [
-    "LcZcvk8s1xQ:p23",
-    "-y6p5PYLf00:t1"
+    "lp11OAEpq4Y:p22",
+    "LcZcvk8s1xQ:p23"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "must-add if Ty Jerome gets hurt and Pippen starts",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:p24"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "expert says Yahoo rank 183 is too low",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:p25",
+    "lp11OAEpq4Y:p26"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "late-round swing pick and deep-bench stash",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:p25",
+    "lp11OAEpq4Y:p26"
    ],
    "new_meaning": ""
   },
   {
    "name": "injury last season",
    "channel": "current",
-   "detail": "significant injury, played 10 games",
+   "detail": "toe injury, played 10 games; now reportedly healed",
    "until": "",
    "sources": [
     "LcZcvk8s1xQ:p23",
+    "lp11OAEpq4Y:p22",
     "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "11 or 12 man rotation under Iisalo",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:t2",
+    "LcZcvk8s1xQ:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fast pace",
+   "channel": "current",
+   "detail": "Iisalo plays at a very high pace",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "4-4-4 in weeks 19 to 21 with a March 28 end",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13 back-to-backs, possibly the fewest in the league",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:t7"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both Yahoo and ESPN value him at 0 USD (Yahoo rank 183, ESPN rank 144), so he sits on the edge of our 144-player draft pool. At most he is a 1 USD late pick. His value comes almost entirely from steals (about 1.8 per game), with some assists. That helps steals-heavy and punt FT% builds, but his projected 2.5 turnovers per game hurt. Early in the season, check whether he gets the roughly 24 minutes ESPN projects behind Ty Jerome in Iisalo's 11-man rotation. If he does not, leave him on waivers.",
+ "note": "Both sites value him at 0 USD (Yahoo rank 166, ESPN rank 134), and nobody drafted him in our league last season. With 144 players drafted, he is a 1 USD last-bench pick at most. He can also be a waiver pickup. His steals (z +2.6) and assists help a punt FT% build. Early in the season, check whether he wins the sixth man role over Jaylen Wells, how many minutes Iisalo gives him in a deep rotation, and whether Ty Jerome stays healthy, because Pippen starting would make him a must-add.",
  "rejected": []
 }

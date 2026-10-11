@@ -3,44 +3,42 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, ESPN | 72 | 27.4 | 41.9 (8.7) | 72.3 (1.4) | 1.1 | 9.4 | 4.1 | 2.6 | 1.0 | 0.3 | 1.7 |
+| 2026-27 proj, ESPN | 72 | 27.4 | 44.1 (8.7) | 74.3 (1.4) | 1.2 | 9.9 | 4.1 | 2.6 | 1.0 | 0.3 | 1.7 |
 | 2026-27 proj, Yahoo | 75 | - | 43.8 (8.6) | 73.6 (1.4) | 1.1 | 9.7 | 4.1 | 2.5 | 0.9 | 0.4 | 1.6 |
 | 2025-26 | 75 | 25.1 | 41.8 (7.9) | 72.2 (1.3) | 1.0 | 8.6 | 3.8 | 2.4 | 0.9 | 0.3 | 1.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 227 | 0 | 0.0 | 234 | not drafted |
+| 2026-27 | 0 | - | 215 | 0 | 0.1 | 219 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 42.8% | -0.8 | -0.7 | - |
-| FT% | 72.9% | -0.3 | -0.6 | - |
+| FG% | 44.0% | -0.6 | -0.5 | - |
+| FT% | 73.9% | -0.3 | -0.5 | - |
 | 3PM | 1.1 | -0.4 | -0.7 | - |
-| PTS | 9.6 | -0.8 | -0.8 | - |
+| PTS | 9.8 | -0.7 | -0.8 | - |
 | REB | 4.1 | -0.4 | -0.2 | - |
 | AST | 2.6 | -0.3 | -0.4 | - |
 | STL | 1.0 | +0.1 | -0.0 | - |
-| BLK | 0.3 | -0.6 | -0.4 | - |
+| BLK | 0.3 | -0.6 | -0.5 | - |
 | TO | 1.6 | +0.0 | +0.0 | - |
 
 </details>
 
 **Current**
-- He is not in the Kings' projected starting five of Acuff, LaVine, Hunter, Murray and Sabonis. Nobody is pushing that group for a starting spot. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691), [07-01](https://youtu.be/W3THnI7wWdA?t=1324))
-- The Kings are projected to be one of the worst teams. The hosts predict 26 or 27 wins and Vegas has them at about 22. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=2438), [07-27](https://youtu.be/0AptxcRW0RE?t=2060), [06-25](https://youtu.be/lOshTzDA4SA?t=929))
-- His summer league play was very average, at age 24.5. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=766))
-- Lloyd worries he will not make it as an NBA player. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=766))
+- Sacramento refused to play Malik Monk last season and could give his bench minutes to Clifford. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2063))
+- He is not in Sacramento's projected starting five. The projected starters are Acuff, LaVine, Hunter, Murray and Sabonis. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691))
+- Lloyd rated his summer league as very mid for a player aged 24.5 and worries he will not make it in the NBA. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=766))
 
 **Durable**
-- He is an inefficient scorer. His FG% is low on modest volume. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=766), stats)
-- He is a weak shooter. Experts say Kings passers got fewer assists because teammates like him could not shoot. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1820))
+- He is an inefficient shooter. Kings passers had low assist conversion partly because he could not make shots. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=766), [07-17](https://youtu.be/NYTH7uQsPCM?t=1820), stats)
 
 **Tags**
-- Current: `bottom team` (Kings projected at about 22 to 27 wins)
+- Current: `minutes competition` (Bench role, with Malik Monk competing for the same minutes; Sacramento may favor Clifford.)
 - Durable: none
 
-**Note.** Both sites value him at 0 USD and rank him 227 (Yahoo) and 234 (ESPN). That is far outside the 144 players our league drafts, so do not draft him. His projected line, 42.8% FG on about 8.6 attempts and 9.6 points, has no category that stands out, so he fits no punt build. Early in the season, check only whether a LaVine or Sabonis trade or an injury moves him into the starting lineup with clearly more minutes.
+**Note.** Both sites value him at 0 USD and rank him 215 to 219, far outside the 144 players our auction drafts, so do not spend on him. His projected line (about 10 points on 44% FG) has no category above the top 250 pool. Steals, the closest, are only at pool level. Early in the season, check whether Sacramento gives him Monk's bench minutes and whether his shooting improves. Until then he is not worth a waiver claim.
 
-<sub>1 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>1 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

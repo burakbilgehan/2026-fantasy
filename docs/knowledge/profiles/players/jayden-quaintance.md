@@ -7,18 +7,18 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 666 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 681 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 56.0% | +0.4 | +0.6 | - |
+| FG% | 56.0% | +0.4 | +0.5 | - |
 | FT% | 50.6% | -1.5 | -1.5 | - |
 | 3PM | 0.0 | -1.7 | -2.1 | league outlier, weak |
 | PTS | 3.8 | -1.8 | -1.9 | league outlier, weak |
 | REB | 3.6 | -0.6 | -0.7 | - |
-| AST | 0.4 | -1.5 | -1.6 | - |
+| AST | 0.4 | -1.5 | -1.7 | league outlier, weak |
 | STL | 0.4 | -1.7 | -1.8 | league outlier, weak |
 | BLK | 1.0 | +0.8 | +1.1 | - |
 | TO | 0.6 | +1.4 | +1.4 | - |
@@ -26,25 +26,26 @@
 </details>
 
 **Current**
-- He is not a draft target in our league. His projected line has almost no value, even when he plays. (verdict, 2026-10-05; stats)
-- He is a rookie and is out after another knee surgery. Yahoo lists him as out (knee). (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=231), [08-02](https://youtu.be/TOn-D1SV7a8?t=422), stats)
+- He is not a draft target in our 12-team redraft auction. (verdict, 2026-10-11; stats, [08-27](https://youtu.be/ZAyie8lKyYc?t=231))
+- He is a rookie recovering from knee surgery. Yahoo lists him as out with a knee injury. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=231), [08-02](https://youtu.be/TOn-D1SV7a8?t=422), stats)
 - The early recovery timetable was about six months. The Spurs have not ruled him out for the season. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=231))
 - He could play at some point this season, but that is uncertain. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=231))
-- The Spurs are very deep at forward. They drafted three centers and brought in younger backup centers. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=267), [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
-- He sits behind Victor Wembanyama. Becoming a starter will take time. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1423))
+- The Spurs drafted three centers and have a very deep frontcourt, so minutes for a young big are hard to find. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=267), [08-27](https://youtu.be/ZAyie8lKyYc?t=1306), [08-27](https://youtu.be/ZAyie8lKyYc?t=1491))
+- After the latest knee surgery he dropped to rank 27 in tier six of dynasty rookie ranks. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=422))
+- He sits behind Victor Wembanyama, and becoming a starter will take time. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1423))
 
 **Durable**
-- He makes almost no threes. (fact, 2026-10-05; stats)
-- If he stays healthy, he is projected to become a dominant defensive player. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=274))
-- He has had repeated knee surgeries. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=422), [06-26](https://youtu.be/CLsUc0Sevos?t=1415))
-- His knee carries ongoing risk. He may need more surgery. (verdict, 2026-08-02; [06-26](https://youtu.be/CLsUc0Sevos?t=1415), [08-02](https://youtu.be/TOn-D1SV7a8?t=422))
-- He is very young. He is a strong shot blocker who runs the rim. (fact, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=810))
-- His free throw shooting is very poor. (verdict, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=810))
+- He makes almost no threes. (fact, 2026-10-11; stats)
+- If he stays healthy, he projects to become a dominant defensive player, with top 10 upside in his draft class. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=274), [06-26](https://youtu.be/CLsUc0Sevos?t=1415))
+- He has had more than one knee surgery. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=422), [06-26](https://youtu.be/CLsUc0Sevos?t=1415), [06-22](https://youtu.be/HxQjagSTTAM?t=810))
+- Experts see ongoing knee risk and injury concerns. (verdict, 2026-08-02; [06-26](https://youtu.be/CLsUc0Sevos?t=1415), [06-22](https://youtu.be/HxQjagSTTAM?t=810), [08-02](https://youtu.be/TOn-D1SV7a8?t=422))
+- He is very young, a strong shot blocker and a big who runs the rim. (fact, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=810))
+- His free throw shooting is very poor. (fact, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=810), stats)
 
 **Tags**
-- Current: `rookie` (2026 draft pick), `injured now` (Recovering from knee surgery, about a six-month timetable, Yahoo status O), `minutes competition` (Behind Wembanyama in a deep Spurs frontcourt), `deep rotation` (Spurs very deep at forward and added three drafted centers)
-- Durable: `injury prone` (Repeated knee surgeries), `no 3PM` (Rim runner, projected 0.0 threes)
+- Current: `rookie` (2026 draft pick), `injured now` (Recovering from knee surgery, Yahoo status O (Knee), timetable about six months), `minutes competition` (Behind Victor Wembanyama in a deep Spurs frontcourt with other young centers), `deep rotation` (Spurs very deep at forward and center)
+- Durable: `injury prone` (Repeated knee surgeries), `no 3PM` (Projected 0.0 threes per game)
 
-**Note.** Yahoo gives him 0 USD and ranks him 666th. ESPN has no price for him, so he is nowhere near our 144-player auction pool. He is out after another knee surgery and has no clear return date. Even when healthy, his projected line is mostly blocks and empty free throws behind Wembanyama. Do not draft him. Check his status only if news of a return comes during the season.
+**Note.** He is a pass in our auction. Yahoo values him at 0 USD and ranks him 681st, ESPN has no price, and he is out after another knee surgery with no firm return date. Even healthy, he would sit behind Wembanyama in a deep frontcourt, and his tiny projection (3.8 points, 1.0 block, 50.6% FT) gives nothing beyond a few blocks. Check during the season whether the Spurs clear him to play, and only then think about him as a blocks-only waiver add.
 
-<sub>6 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>6 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

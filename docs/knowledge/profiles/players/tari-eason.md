@@ -11,16 +11,16 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 163 | 0 | 0.1 | 176 | 2 |
+| 2026-27 | 0 | 0.0 | 159 | 0 | 0.1 | 178 | 2 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 43.7% | -0.7 | -0.7 | - |
-| FT% | 76.4% | -0.1 | -0.3 | - |
+| FG% | 43.7% | -0.8 | -0.7 | - |
+| FT% | 76.4% | -0.2 | -0.3 | - |
 | 3PM | 1.4 | -0.1 | -0.3 | - |
-| PTS | 11.1 | -0.5 | -0.5 | - |
+| PTS | 11.1 | -0.5 | -0.6 | - |
 | REB | 6.5 | +0.6 | +1.2 | - |
 | AST | 1.5 | -0.9 | -1.1 | weak for his position (punt fit) |
 | STL | 1.3 | +1.3 | +1.1 | - |
@@ -30,26 +30,28 @@
 </details>
 
 **Current**
-- Eason is a bench player. The projected starters are VanVleet, Thompson, Durant, Jabari Smith and Sengun, and his minutes are blocked by Durant and Smith. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1360), [10-01](https://youtu.be/aLP080hxizA?t=328), [07-16](https://youtu.be/-y6p5PYLf00?t=1753), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357))
-- He projects for about 25 minutes. He has no realistic path to 30 minutes unless Durant or Smith gets hurt. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1360))
-- Coach Ime Udoka plays his starters very heavy minutes, which limits bench roles like Eason's. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=146), [09-09](https://youtu.be/7BllEsdNLoM?t=2451))
-- Reports from Rockets media day say Kevin Durant will play fewer minutes. More guard depth may also push Durant and Eason into forward roles, which concentrates the frontcourt minutes. (fact, 2026-10-01; [09-30](https://youtu.be/BjXP9JODDSg?t=357), [10-01](https://youtu.be/aLP080hxizA?t=266))
-- He is fine as a last-round pick. He is Lloyd's stash option where stashing is allowed. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1360), [10-01](https://youtu.be/aLP080hxizA?t=1763))
-- If he gets 32 minutes with Durant or Smith out, he would be about a top-70 player. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1763))
-- His three-point shooting collapsed late last season, and that dragged his FG% down. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1430), [07-16](https://youtu.be/-y6p5PYLf00?t=1753))
-- With a March 28 end, the Rockets have a weak 3-3-4 fantasy playoff schedule: 10 games over weeks 19 to 21. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
-- The Rockets have only 14 back-to-backs this season. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011))
-- His FG% should improve. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1753))
+- The Rockets say they will cut Kevin Durant's minutes significantly. Lloyd does not believe it. (fact, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=524), [09-30](https://youtu.be/BjXP9JODDSg?t=357))
+- He is not in the projected Rockets starting five. The projected starters are VanVleet, Thompson, Durant, Smith and Sengun. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=328), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357))
+- Durant and Jabari Smith block his minutes. He projects for about 25 minutes and has no realistic path to 30 minutes unless Durant or Smith gets hurt. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1360), [07-16](https://youtu.be/-y6p5PYLf00?t=1753))
+- More guard depth may push him into forward minutes only, which concentrates the frontcourt rotation. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=266))
+- He is fine as a last-round pick. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1360))
+- He is Lloyd's stash option in formats that allow it. With 32 minutes while Durant or Smith is out, he would be about a top-70 player. (verdict, 2026-10-01, until Durant or Smith returns; [10-01](https://youtu.be/aLP080hxizA?t=1763))
+- Late last season his three-point shooting collapsed, his blocks were cut in half and his steals dropped. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1430))
+- With the March 28 end date, Houston has a weak 3-3-4 fantasy playoff schedule, 10 games over weeks 19 to 21. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
+- Houston has only 14 back-to-backs this season. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011))
+- Houston is projected to win 54 games and to play its regular season conservatively, without chasing seeding. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780))
+- A bad three-point month dragged down his FG% last season, and it should improve. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1753))
 
 **Durable**
-- He is a strong rebounder for a forward and adds steals. (fact, 2026-10-04; [10-01](https://youtu.be/aLP080hxizA?t=1430), stats)
-- His assists are low for his position. (fact, 2026-10-04; stats)
-- Lloyd has always been lower on Eason than most people. He never believed Eason would become a starter, and says that has been basically correct. (verdict, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=1458))
+- His assists are weak for his position. (fact, 2026-10-11; stats)
+- He is a strong rebounder for a forward, and steals are his best category against the pool. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1430), stats)
+- Coach Ime Udoka is defense-first and plays his starters very heavy minutes, which leaves less room for bench players like Eason. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=146), [09-09](https://youtu.be/7BllEsdNLoM?t=2451), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1152))
+- The speaker has always been lower on him than consensus. He never believed Eason would become a starter, and says that has been basically correct. (verdict, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=1458))
 
 **Tags**
-- Current: `minutes competition` (minutes blocked by Kevin Durant and Jabari Smith), `handcuff` (about top 70 with 32 minutes if Durant or Smith is out), `flyer` (last-round pick or stash), `bad playoff schedule` (HOU 3-3-4, 10 games in weeks 19 to 21), `few back-to-backs` (HOU has 14 back-to-backs)
-- Durable: `punt AST fit` (about 1.5 assists per game)
+- Current: `minutes competition` (Behind Durant and Jabari Smith at forward, about 25 minutes), `handcuff` (About top 70 with 32 minutes if Durant or Smith is out; until Durant or Smith returns), `bad playoff schedule` (3-3-4, 10 games in weeks 19 to 21 with the March 28 end), `few back-to-backs` (14 back-to-backs), `winning team` (Projected 54 wins)
+- Durable: `punt AST fit` (About 1.5 assists per game, weak for a G/F), `heavy starter minutes` (Udoka plays starters heavy minutes), `defense-first` (Udoka cares mainly about defense)
 
-**Note.** Yahoo (rank 163) and ESPN (rank 176) both value him at 0 USD, and our league paid 2 USD last season. That puts him around the edge of the 144 drafted players, so he is a 1 USD last-pick flyer at most. Rebounds and steals are his strengths, and his low assists make him a fit for punt AST builds. Early in the season, check Durant's minutes, any injury to Durant or Smith (32 minutes would make him about a top-70 player), and whether his three-point shot and FG% recover. Houston's weak 10-game playoff schedule cuts into his late value.
+**Note.** Both sites rank him outside the top 144 (Yahoo 159, ESPN 178) at 0 USD, and he cost 2 USD in our auction last season, so he is a 1 USD last-round pick at most. He fits punt AST builds that want rebounds and steals from a wing, and his upside depends on an injury to Durant or Jabari Smith. Early on, check whether his three-point shooting and FG% recover and whether Houston really cuts Durant's minutes. The weak 10-game playoff schedule makes him a weaker hold into March.
 
-<sub>5 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

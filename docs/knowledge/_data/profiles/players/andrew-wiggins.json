@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "22bc3dd0e7da",
- "note_count": 6,
- "built_at": "2026-10-04T17:22:57+00:00",
+ "input_sha": "40c95af56c36",
+ "note_count": 14,
+ "built_at": "2026-10-11T09:11:19+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.10389019999999999,
-  "duration_ms": 22750
+  "cost_usd_list": 0.1691222,
+  "duration_ms": 40182,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He signed a 2-year, 64 million USD extension with Miami plus a player option, on top of 30 million USD this season.",
+   "text": "He signed a 2-year, 64 million extension with Miami plus a player option, on top of 30 million this season.",
    "kind": "fact",
    "date": "2026-07-01",
    "until": "",
@@ -28,73 +30,156 @@
    ]
   },
   {
-   "text": "He is expected to start for Miami on the wing.",
+   "text": "He is a lock to start for Miami, next to Giannis Antetokounmpo and Bam Adebayo.",
    "kind": "fact",
-   "date": "2026-07-01",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
     "W3THnI7wWdA:p32",
-    "nnWX_ObljOE:t5"
+    "cvhcheoKdbo:t2"
    ]
   },
   {
-   "text": "Miami traded for Giannis Antetokounmpo. Miami lacks ball handlers, so Giannis will handle the ball a lot.",
+   "text": "Miami now has Giannis Antetokounmpo, so Wiggins is the third option behind him and Bam Adebayo, after long stretches as the number two option last season.",
    "kind": "fact",
-   "date": "2026-06-23",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "nnWX_ObljOE:t4",
-    "nnWX_ObljOE:t5"
+    "cvhcheoKdbo:p14",
+    "nnWX_ObljOE:p26",
+    "-DN4P92Wp8Y:p36"
    ]
   },
   {
-   "text": "His usage was already under 20 before the Giannis trade.",
+   "text": "His usage was already under 20 and should take a hit next to Giannis. Experts expect him to do a bit less this season.",
+   "kind": "verdict",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p26",
+    "cvhcheoKdbo:p14",
+    "BiIZsSypx7Y:p53"
+   ]
+  },
+  {
+   "text": "His minutes were around 28 to 29 a night over the final couple of months of last season.",
    "kind": "fact",
-   "date": "2026-06-23",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
-    "nnWX_ObljOE:p26"
+    "cvhcheoKdbo:p16"
    ]
   },
   {
-   "text": "His usage will probably take a decent hit next to Giannis, a small hit to his value.",
+   "text": "Last season he shot 41% from three overall and 47% over the last 20 games. The expert does not expect that shooting to repeat.",
    "kind": "verdict",
-   "date": "2026-06-23",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
-    "nnWX_ObljOE:p26"
+    "cvhcheoKdbo:p15"
    ]
   },
   {
-   "text": "He is a safe, solid pick with little upside and little downside. Experts put him in tier 7 at guard and small forward, rank him above Tobias Harris and Aaron Gordon at power forward, and call him fine around pick 109.",
+   "text": "He averaged over a steal and a block last season. The expert does not expect that to repeat, especially next to Giannis.",
    "kind": "verdict",
-   "date": "2026-09-30",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
-    "BjXP9JODDSg:p53",
-    "LM0cRCGoAUQ:p61",
+    "cvhcheoKdbo:p17"
+   ]
+  },
+  {
+   "text": "Experts do not want him in the top 100. They see him as fine around pick 107 to 109 and too high at ESPN rank 78.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p36",
+    "cvhcheoKdbo:p13",
+    "BjXP9JODDSg:p53"
+   ]
+  },
+  {
+   "text": "Around pick 120 the expert would rather take upside flyers than Wiggins.",
+   "kind": "verdict",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:p18"
+   ]
+  },
+  {
+   "text": "Tier rankings put him in tier seven as a safe pick. One ranks him above Tobias Harris and Aaron Gordon.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
     "dlo7L8Ru91A:p40",
-    "W-R1dzem32s:p46"
+    "W-R1dzem32s:p46",
+    "LM0cRCGoAUQ:p61"
    ]
   },
   {
-   "text": "Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs, but only 10 games in the fantasy playoff weeks.",
-   "kind": "fact",
-   "date": "2026-08-16",
+   "text": "With Giannis on the team, Miami should move away from last season's very high pace and few ball screens.",
+   "kind": "verdict",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
+    "cvhcheoKdbo:t0",
+    "cvhcheoKdbo:t1"
+   ]
+  },
+  {
+   "text": "Miami has a weak playoff schedule with a March 28 end: 4-3-3, 10 games in weeks 19 to 21.",
+   "kind": "fact",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:t5",
     "gf_6GveiAls:t7"
+   ]
+  },
+  {
+   "text": "Miami has the league-minimum 13 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:t6",
+    "gf_6GveiAls:t7"
+   ]
+  },
+  {
+   "text": "Yahoo lists him as questionable (rest).",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He has no clearly weak category. His line is a broad mix of threes, points, steals and blocks, and none of his categories is a big outlier.",
+   "text": "Well-rounded and predictable, with no weak category. Threes, steals and blocks are mild pluses, and blocks are good for his position.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
-    "stats"
+    "stats",
+    "BiIZsSypx7Y:p53"
+   ]
+  },
+  {
+   "text": "Boring, low-ceiling profile with little upside and little downside.",
+   "kind": "verdict",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:p18",
+    "dlo7L8Ru91A:p40",
+    "LM0cRCGoAUQ:p61",
+    "BjXP9JODDSg:p53"
    ]
   }
  ],
@@ -102,7 +187,7 @@
   {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "no category flagged weak; blocks are good for a wing",
+   "detail": "No category flagged weak",
    "until": "",
    "sources": [
     "stats"
@@ -112,24 +197,102 @@
   {
    "name": "role down",
    "channel": "current",
-   "detail": "usage expected to drop next to Giannis Antetokounmpo",
+   "detail": "Third option behind Giannis and Bam",
    "until": "",
    "sources": [
+    "cvhcheoKdbo:p14",
+    "nnWX_ObljOE:p26",
+    "BiIZsSypx7Y:p53"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Giannis Antetokounmpo and Bam Adebayo",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:p14",
     "nnWX_ObljOE:p26"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "regression risk",
+   "channel": "current",
+   "detail": "41% from three last season, plus steals and blocks",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:p15",
+    "cvhcheoKdbo:p17"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "ESPN rank 78",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p36"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q (Rest)",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "4-3-3, 10 games with March 28 end",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:t5",
+    "gf_6GveiAls:t7"
    ],
    "new_meaning": ""
   },
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "Miami has the fewest back-to-backs (13), none in the fantasy playoffs",
+   "detail": "League-minimum 13",
    "until": "",
    "sources": [
+    "cvhcheoKdbo:t6",
     "gf_6GveiAls:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "thin rotation",
+   "channel": "current",
+   "detail": "Miami lost depth and ball handlers",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:t6",
+    "LUTYUdXBG1M:t1",
+    "NYTH7uQsPCM:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low shutdown risk",
+   "channel": "current",
+   "detail": "Stacked East, Miami may not coast",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:t7"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Yahoo and ESPN rank him in the high 80s to mid 90s, with values of 5 USD and 3 USD and average costs near 1 USD. That makes him a cheap, safe late fill-in for our 144-player draft, and his 4 USD price in our league last season fits that range. He has no weak category, so he slots into any punt build. Early in the season, check how much his usage and shot volume drop next to Giannis, and whether his FG% stays near last season's 47.5%.",
+ "note": "Yahoo (rank 91, 6 USD value, 1.1 USD average cost) and ESPN (rank 85, 4 USD value, 1.5 USD average cost) put him a bit higher than the experts, who see him around pick 105 to 110 because his usage drops next to Giannis. With 144 players drafted, he is a 1 to 4 USD safe filler who fits any build. Our league paid 4 USD last season. Do not pay more for him, and early in the season check his minutes, his share of shots next to Giannis, and whether his three-point shooting and steals plus blocks hold up.",
  "rejected": []
 }

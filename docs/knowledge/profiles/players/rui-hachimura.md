@@ -3,7 +3,7 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, ESPN | 71 | 27.7 | 51.7 (8.9) | 72.7 (1.4) | 1.6 | 11.8 | 3.7 | 1.0 | 0.6 | 0.3 | 0.6 |
+| 2026-27 proj, ESPN | 71 | 30.6 | 51.7 (9.8) | 72.0 (1.5) | 1.8 | 13.0 | 4.1 | 1.1 | 0.7 | 0.4 | 0.7 |
 | 2026-27 proj, Yahoo | 65 | - | 51.6 (8.6) | 73.0 (1.4) | 1.6 | 11.4 | 3.7 | 1.0 | 0.6 | 0.3 | 0.6 |
 | 2025-26 | 68 | 28.3 | 51.4 (8.8) | 69.4 (1.1) | 1.7 | 11.5 | 3.3 | 0.8 | 0.6 | 0.3 | 0.6 |
 | 2024-25 | 59 | 31.6 | 50.9 (9.8) | 77.0 (1.9) | 1.7 | 13.1 | 5.0 | 1.4 | 0.8 | 0.4 | 0.8 |
@@ -11,46 +11,48 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 1.0 | 121 | 0 | 0.2 | 197 | not drafted |
+| 2026-27 | 1 | 1.0 | 119 | 0 | 0.4 | 154 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 51.7% | +0.6 | +0.8 | - |
-| FT% | 72.9% | -0.3 | -0.3 | - |
-| 3PM | 1.6 | +0.1 | +0.1 | - |
-| PTS | 11.6 | -0.4 | -0.4 | - |
-| REB | 3.7 | -0.6 | -0.7 | - |
-| AST | 1.0 | -1.2 | -1.2 | - |
-| STL | 0.6 | -1.0 | -1.0 | - |
-| BLK | 0.3 | -0.6 | -0.7 | - |
-| TO | 0.6 | +1.4 | +1.3 | - |
+| FT% | 72.5% | -0.4 | -0.3 | - |
+| 3PM | 1.7 | +0.2 | +0.2 | - |
+| PTS | 12.2 | -0.3 | -0.3 | - |
+| REB | 3.9 | -0.5 | -0.6 | - |
+| AST | 1.0 | -1.1 | -1.2 | - |
+| STL | 0.6 | -0.9 | -0.9 | - |
+| BLK | 0.4 | -0.5 | -0.5 | - |
+| TO | 0.7 | +1.3 | +1.3 | - |
 
 </details>
 
 **Current**
-- Hachimura joined the Clippers and is projected to start at power forward, in the spot John Collins held. (fact, 2026-10-04; [08-22](https://youtu.be/KLogvUwv_d8?t=260), [10-04](https://youtu.be/tnzmsYUA4yQ?t=360), [09-10](https://youtu.be/dlo7L8Ru91A?t=1984))
-- Experts expect the biggest role of his career, with a usage bump as a starter. One projection has him over 30 minutes and over 18% usage, with 2 or more threes, about 16 points and 7 rebounds a game. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=892), [09-10](https://youtu.be/dlo7L8Ru91A?t=1984), [10-02](https://youtu.be/ZYllcj4o6_A?t=1866), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2401))
-- Brandon Ingram is injured. Bradley Beal, Jordan Miller and Konan Niederhauser are also out. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018))
+- The Clippers are expected to be one of the worst teams. They do not control their own draft pick, so tanking does not help them. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=177), [10-04](https://youtu.be/tnzmsYUA4yQ?t=165), [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018))
+- The latest projected Clippers starting five includes Hachimura with Darius Garland, Max Strus, Derrick Jones Jr. and Isaiah Jackson. The speaker is not confident about this lineup. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=360))
+- Brandon Ingram is injured, and the Clippers are one of the most injury-hit teams, with Bradley Beal, Jordan Miller and Konan Niederhauser also out. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=924), [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018))
 - With Ingram out, Hachimura will have to take more shots. (verdict, 2026-10-04, until Brandon Ingram returns; [10-04](https://youtu.be/tnzmsYUA4yQ?t=924))
-- Experts call him draftable as a late upside pick for points and threes, even though they do not like him as a player. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=892), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2401))
-- The Clippers' rotation is not settled. The projected starting five is not certain, Ty Lue often changes rotations, and this may be a trial season with long rotations. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239), [10-04](https://youtu.be/tnzmsYUA4yQ?t=360))
-- The Clippers play 4, 3 and 4 games in our playoff weeks 19 to 21. With 13 back-to-backs, they have one of the lowest totals in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
+- Experts expect a usage bump and the biggest role of his career. One projects over 30 minutes, over 18% usage, 2 or more threes, about 16 points and 7 rebounds a game. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=892), [10-02](https://youtu.be/ZYllcj4o6_A?t=1866), [09-10](https://youtu.be/dlo7L8Ru91A?t=1984), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2401))
+- Experts call him draftable despite disliking him: a Tier 8 small forward and an upside pick around 164 for points and threes. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=892), [09-10](https://youtu.be/dlo7L8Ru91A?t=1984), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2401))
+- The Clippers have a good schedule for our fantasy playoffs (4-3-4 games in weeks 19 to 21) and one of the lowest back-to-back totals in the league with 13. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
+- Coach Ty Lue makes odd rotation choices and changes them. This may be a trial season with long rotations and many players tested. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
+- Hachimura joined the Clippers this offseason and replaces John Collins as the starting power forward. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=260))
+- Experts disagree on whether he is an offensive upgrade over John Collins: one says he could score a bit more, another calls the swap an offensive downgrade. (verdict, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=499), [07-14](https://youtu.be/xHRF06_E9HE?t=699))
 
 **Durable**
-- He has shot over 40% from three for three straight years, but his three-point volume and usage have always been low. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=868), [08-22](https://youtu.be/KLogvUwv_d8?t=267), [07-05](https://youtu.be/4kKINkZhWls?t=1794))
-- Experts rate him a very good to elite three-point shooter who should take more threes. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=868), [10-02](https://youtu.be/ZYllcj4o6_A?t=1866), [09-10](https://youtu.be/dlo7L8Ru91A?t=1995))
-- He shoots a good field goal percentage, around 51% to 54% in recent seasons. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=914), stats)
-- He gives almost nothing in assists, steals and blocks. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=900), [09-10](https://youtu.be/dlo7L8Ru91A?t=1995), [08-22](https://youtu.be/KLogvUwv_d8?t=267), [07-05](https://youtu.be/4kKINkZhWls?t=1794), stats)
+- He is a very good three-point shooter, over 40% for three straight seasons, but his three-point volume and usage have always been low. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=868), [10-02](https://youtu.be/ZYllcj4o6_A?t=1866), [09-10](https://youtu.be/dlo7L8Ru91A?t=1995), [08-22](https://youtu.be/KLogvUwv_d8?t=267), [07-05](https://youtu.be/4kKINkZhWls?t=1794))
+- He shoots a good field goal percentage, around 51% to 54% in recent seasons. He is a consistent shooter with a pull-up midrange game. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=914), [08-22](https://youtu.be/KLogvUwv_d8?t=499))
+- He gives very little in assists, steals and blocks. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=900), [09-10](https://youtu.be/dlo7L8Ru91A?t=1995), [08-22](https://youtu.be/KLogvUwv_d8?t=267), [07-05](https://youtu.be/4kKINkZhWls?t=1794), stats)
 - He rarely gets to the free throw line and is not a good free throw shooter. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=900))
-- Experts do not see him as a good fantasy player. He is compared to Harrison Barnes: threes on low usage and little else. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=892), [10-02](https://youtu.be/ZYllcj4o6_A?t=1866), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2401), [07-05](https://youtu.be/4kKINkZhWls?t=1794))
-- He is a consistent shooter with a pull-up midrange game. He is not much of a creator and not a good defender. (verdict, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=499))
+- Experts see him as a limited fantasy player who shoots threes on low usage and does little else, similar to Harrison Barnes. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1866), [07-05](https://youtu.be/4kKINkZhWls?t=1794), [08-22](https://youtu.be/KLogvUwv_d8?t=267))
+- He is not a good defender and not much of a creator. (verdict, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=499))
 
 **Tags**
-- Current: `new team` (Joined the Clippers as the starting power forward), `role up` (Expected to get the biggest role of his career, with more usage as a starter), `usage freed` (Ingram is injured and Harden, Kawhi Leonard and Collins are gone, so Hachimura has to take more shots; until Brandon Ingram returns), `flyer` (Late upside pick for points and threes), `unsettled rotation` (Ty Lue changes rotations, and the projected starters are not certain), `good playoff schedule` (4-3-4 games in weeks 19 to 21 with a March 28 end), `few back-to-backs` (13 back-to-backs, one of the lowest totals in the league), `sites disagree on price` (Yahoo rank 121, ESPN rank 197)
+- Current: `new team` (Joined the Clippers as the starting power forward in place of John Collins.), `role up` (Expected usage bump and the biggest role of his career, with more shots while Ingram is out.), `flyer` (Upside pick around 164 for points and threes.), `good playoff schedule` (4-3-4 games in weeks 19 to 21 with a March 28 end.), `few back-to-backs` (Clippers have 13 back-to-backs, one of the lowest totals.), `bottom team` (Clippers projected as one of the worst teams.), `unsettled rotation` (Ty Lue changes rotations; projected starters uncertain; possible trial season with long rotations.)
 - Durable: none
 
-**Note.** He is a 1 USD or end-of-draft pick. Yahoo ranks him 121 and ESPN ranks him 197, which puts him near the edge of our 144-player pool. His projected line (51.7% FG on 8.8 attempts, 1.6 threes, 0.6 turnovers) gives a small lift in FG% and TO. He gives little in AST, STL and BLK, so he suits teams that already get those categories elsewhere. Check his early minutes and three-point attempts while Ingram is out: over 30 minutes and about 2 threes a game would make him a solid starter, and anything less makes him a waiver-level player.
+**Note.** He is a bubble player for our 144-player draft: Yahoo ranks him 119 at 1 USD, ESPN 154 at 0 USD, and nobody drafted him in our league last season. Take him only as a 1 USD bench flyer. He fits builds that want FG% and threes and has few turnovers (0.7 projected), but he costs you in assists, steals and free throws. Early in the season, check whether he plays over 30 minutes and shoots more while Ingram is out. If he does not, he can go back to waivers.
 
-<sub>13 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>13 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

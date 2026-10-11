@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "ff5ba4dc33c6",
+ "input_sha": "4a2000ac9303",
  "note_count": 2,
- "built_at": "2026-10-05T19:48:47+00:00",
+ "built_at": "2026-10-11T09:16:01+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1235462,
-  "duration_ms": 25277,
+  "cost_usd_list": 0.1264622,
+  "duration_ms": 24760,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is likely an energy player off the bench for about 18 minutes, behind Maxime Raynaud.",
+   "text": "He is likely an energy big off the bench behind Raynaud, at about 18 minutes per game.",
    "kind": "verdict",
    "date": "2026-07-21",
    "until": "",
@@ -30,70 +30,51 @@
    ]
   },
   {
-   "text": "He is not in the Kings' projected starting five. Sabonis is the projected starting center.",
+   "text": "His Yahoo status is questionable (Rest).",
    "kind": "fact",
-   "date": "2026-07-31",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:t1"
-   ]
-  },
-  {
-   "text": "The Kings may trade Sabonis, which would change the frontcourt depth chart.",
-   "kind": "fact",
-   "date": "2026-09-21",
-   "until": "",
-   "sources": [
-    "egRrai3Ax38:t0",
-    "oEywzBZfAvY:t8"
+    "stats"
    ]
   }
  ],
  "durable": [
   {
-   "text": "Coach Ham describes him as a defensive-minded energy player.",
-   "kind": "fact",
+   "text": "He is a defensive-minded energy big. His value comes from rebounds and blocks.",
+   "kind": "verdict",
    "date": "2026-07-31",
-   "until": "",
    "sources": [
-    "oEywzBZfAvY:p27"
-   ]
+    "oEywzBZfAvY:p27",
+    "RyzcCGChYgs:p7"
+   ],
+   "until": ""
   },
   {
-   "text": "He is a rebounds and blocks big. Blocks are his best category.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "RyzcCGChYgs:p7",
-    "stats"
-   ]
-  },
-  {
-   "text": "He is a poor free throw shooter. He shot 40% from the line in Summer League.",
+   "text": "He is a poor free throw shooter. He shot 40% from the line in Summer League. He takes few free throws, so the damage to team FT% is limited.",
    "kind": "fact",
    "date": "2026-07-21",
-   "until": "",
    "sources": [
     "RyzcCGChYgs:p7",
     "stats"
-   ]
+   ],
+   "until": ""
   },
   {
-   "text": "He makes no threes and scores very little, so threes and points are clear weak categories.",
+   "text": "He makes no threes and scores very little. Threes and points are both weak at league level.",
    "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
+   "date": "2026-10-11",
    "sources": [
     "stats"
-   ]
+   ],
+   "until": ""
   }
  ],
  "tags": [
   {
    "name": "no 3PM",
    "channel": "durable",
-   "detail": "0.0 threes per game last season and in projections",
+   "detail": "0.0 threes per game last season and in the projection",
    "until": "",
    "sources": [
     "stats"
@@ -101,41 +82,16 @@
    "new_meaning": ""
   },
   {
-   "name": "minutes competition",
+   "name": "questionable",
    "channel": "current",
-   "detail": "Backup big behind Sabonis and Maxime Raynaud",
+   "detail": "Yahoo status Q (Rest)",
    "until": "",
    "sources": [
-    "RyzcCGChYgs:p7",
-    "oEywzBZfAvY:t1"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "trades likely",
-   "channel": "current",
-   "detail": "Sabonis or LaVine trade or buyout possible",
-   "until": "",
-   "sources": [
-    "egRrai3Ax38:t0",
-    "oEywzBZfAvY:t8",
-    "t4n9MAP2_14:t5"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "bottom team",
-   "channel": "current",
-   "detail": "Projected about 22 to 27 wins",
-   "until": "",
-   "sources": [
-    "oEywzBZfAvY:t7",
-    "0AptxcRW0RE:t8",
-    "lOshTzDA4SA:t4"
+    "stats"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Yahoo ranks him 197 with a 0 USD value, and ESPN gives no price. Our league drafts only 144 players, so he is not a draft target. With 1.3 blocks, 6.7 rebounds, good FG% on low volume and few turnovers, he is at most a short-term waiver stream for blocks. Early in the season, watch whether Sabonis gets traded or Cardwell's minutes rise above the expected 18 or so.",
+ "note": "Yahoo values him at 0 USD and ranks him 202. ESPN gives no price, and he was not drafted in our league last season. That puts him well outside our 144-player draft. In about 18 to 20 bench minutes, his useful categories are blocks, rebounds, FG% and low turnovers. He gives nothing in threes or points. Leave him on waivers, and only look at him early in the season if the Kings' frontcourt minutes open up.",
  "rejected": []
 }

@@ -8,7 +8,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 656 | 0 | 0.0 | 250 | not drafted |
+| 2026-27 | 0 | - | 669 | 0 | 0.0 | 250 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -17,35 +17,33 @@
 | FG% | 47.6% | -0.0 | +0.0 | - |
 | FT% | 76.0% | -0.2 | -0.1 | - |
 | 3PM | 0.3 | -1.4 | -1.7 | - |
-| PTS | 7.7 | -1.1 | -1.1 | - |
+| PTS | 7.7 | -1.1 | -1.2 | - |
 | REB | 4.7 | -0.2 | -0.2 | - |
 | AST | 1.0 | -1.1 | -1.2 | - |
 | STL | 0.6 | -1.1 | -1.1 | - |
 | BLK | 0.9 | +0.5 | +0.8 | - |
-| TO | 1.0 | +0.9 | +0.9 | - |
+| TO | 1.0 | +1.0 | +0.9 | - |
 
 </details>
 
 **Current**
-- He is a rookie. Charlotte took him with the 14th pick of the 2026 draft. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1650), [07-21](https://youtu.be/EB1Z_6n56-o?t=476))
-- The latest Charlotte preview lists him on the bench. The projected starters are White, Knueppel, Miller, Reid and Diabaté. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=416))
-- The center plan in Charlotte is unclear. He competes with Moussa Diabaté and Ryan Kalkbrenner for center minutes, and Naz Reid plays the four. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=315), [06-25](https://youtu.be/ya2VYRJ1BN0?t=854), [06-28](https://youtu.be/RsjGTgJiKyI?t=355), [06-28](https://youtu.be/RsjGTgJiKyI?t=328), [07-21](https://youtu.be/EB1Z_6n56-o?t=1170))
-- Draft advice: he is a stash only in deep leagues, such as 16-team leagues. Draft him in all leagues if Charlotte names him a starter. (verdict, 2026-09-27, until Charlotte names him a starter; [09-27](https://youtu.be/CRLSsoGhb2w?t=1650))
-- Charlotte has only 13 back-to-backs this season, the league minimum. With a March 28 end, it plays 4, 3 and 4 games in our playoff weeks. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781))
-- Charlotte did not let him shoot threes in Summer League. The team also kept big man Ryan Kalkbrenner from shooting threes last season. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1138), [08-02](https://youtu.be/TOn-D1SV7a8?t=1112))
-- One expert sees a path for him to start soon. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1138))
-- He can play next to Diabaté in four-out lineups, and some people have talked about starting him. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=1170))
-- Experts expect him to play well short of 30 minutes in a three-center rotation that also uses Grant Williams as a small-ball five. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1076), [06-25](https://youtu.be/lOshTzDA4SA?t=1097))
+- Charlotte took him 14th overall in the 2026 draft. This is his rookie season. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1650), [07-21](https://youtu.be/EB1Z_6n56-o?t=476))
+- He is projected to come off the bench. Reid and Diabaté are the projected frontcourt starters, and he is next in line behind them. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=416), [07-21](https://youtu.be/EB1Z_6n56-o?t=1170), [06-25](https://youtu.be/ya2VYRJ1BN0?t=854))
+- He competes with Diabaté and Kalkbrenner for center minutes. Charlotte's center plan is not settled. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=315), [06-28](https://youtu.be/RsjGTgJiKyI?t=355), [06-28](https://youtu.be/RsjGTgJiKyI?t=328), [06-25](https://youtu.be/ya2VYRJ1BN0?t=854))
+- Draft value: a stash in deep leagues only. He becomes a pick in all leagues if he is named a starter. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1650), [06-25](https://youtu.be/lOshTzDA4SA?t=1076))
+- Some people are talking about starting him, and one expert sees a path to a starting role soon. (verdict, 2026-08-02; [07-21](https://youtu.be/EB1Z_6n56-o?t=1170), [08-02](https://youtu.be/TOn-D1SV7a8?t=1138))
+- Charlotte did not let him shoot threes in Summer League. Last season the team also did not let Kalkbrenner shoot threes. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1138), [08-02](https://youtu.be/TOn-D1SV7a8?t=1112))
+- Charlotte is expected to use a three-center rotation and to play Grant Williams as a small-ball five. He probably will not get close to 30 minutes. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1076), [06-25](https://youtu.be/lOshTzDA4SA?t=1097))
 
 **Durable**
-- Experts call him a hyper-competitive, monster rebounder who can block shots and score. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1673), [08-02](https://youtu.be/TOn-D1SV7a8?t=1138), [06-25](https://youtu.be/lOshTzDA4SA?t=1041))
-- Experts say he can shoot a little, including some threes, and makes some free throws. One sees good usage with good FG% and FT%. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1673), [07-21](https://youtu.be/EB1Z_6n56-o?t=476), [06-25](https://youtu.be/lOshTzDA4SA?t=1041))
+- Experts call him a monster, hyper-competitive rebounder who can also block shots. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1673), [08-02](https://youtu.be/TOn-D1SV7a8?t=1138), [06-25](https://youtu.be/lOshTzDA4SA?t=1041))
+- He is a capable scorer with good FG% and FT% and some three-point range. Experts disagree on how far his shooting goes: one says he can shoot threes, another says he can shoot only a little. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1673), [06-25](https://youtu.be/lOshTzDA4SA?t=1041), [07-21](https://youtu.be/EB1Z_6n56-o?t=476), [08-02](https://youtu.be/TOn-D1SV7a8?t=1138))
 - He was the best rebounder in college basketball, and his rebounding carried over to Summer League. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=476))
 
 **Tags**
-- Current: `rookie` (14th pick in 2026), `minutes competition` (Shares center minutes with Diabaté and Kalkbrenner. Reid plays the four.), `waiver watch` (Deep-league stash only. Add him if Charlotte names him a starter.; until Charlotte names him a starter), `few back-to-backs` (Charlotte has 13 back-to-backs, the league minimum)
+- Current: `rookie` (14th pick in 2026), `minutes competition` (Competes with Diabaté and Kalkbrenner for center minutes behind Reid and Diabaté), `deep rotation` (Deep roster with a three-center rotation plus Grant Williams at small-ball five), `waiver watch` (Deep-league stash only. Add him if he is named a starter.)
 - Durable: none
 
-**Note.** He is not a draft target in our 12-team auction. Both sites value him at 0 USD, with a Yahoo rank of 656 and an ESPN rank of 250, and our league drafts only 144 players. His projected line is about 18 minutes with 7.7 points and 4.7 rebounds. It has small pluses in blocks and turnovers, but few threes, assists or steals. Watch the preseason and opening-week lineups: if Charlotte starts him over Diabaté, the expert advice is to draft or pick him up as a rebounds and blocks big who does not hurt FG%.
+**Note.** Both sites value him at 0 USD (Yahoo rank 669, ESPN rank 250). The projections give him about 18 minutes, with only 7.7 points and 4.7 rebounds. In our 12-team league he is not a pick in a 144-player draft unless Charlotte names him a starter before the 2026-10-18 auction. If you do take him, he is a 1 USD flyer. Early in the season, watch whether he takes Diabaté's starting spot or gets a center role after an injury, and whether Charlotte lets him shoot threes. With big minutes his rebounds and blocks could make him a waiver add.
 
-<sub>9 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>9 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

@@ -11,13 +11,13 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 5 | 1.3 | 123 | 0 | 0.1 | 172 | not drafted |
+| 2026-27 | 5 | 1.1 | 125 | 0 | 0.1 | 174 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 50.2% | +0.3 | -0.5 | - |
+| FG% | 50.2% | +0.3 | -0.6 | - |
 | FT% | 75.6% | -0.4 | +0.3 | - |
 | 3PM | 0.8 | -0.7 | +0.1 | - |
 | PTS | 10.5 | -0.6 | -0.4 | - |
@@ -25,23 +25,22 @@
 | AST | 1.9 | -0.7 | -0.3 | - |
 | STL | 0.7 | -0.6 | -0.2 | - |
 | BLK | 0.6 | -0.1 | -0.9 | - |
-| TO | 1.2 | +0.6 | +0.5 | - |
+| TO | 1.2 | +0.7 | +0.5 | - |
 
 </details>
 
 **Current**
-- Carter is Orlando's starting center. Vucevic is his backup, and Goga Bitadze will still get some minutes. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1307), [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
-- Experts expect him to stay under 30 minutes a game. Vucevic should take about 21 to 22 minutes, so Carter probably cannot play 32 minutes a night. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=537), [07-02](https://youtu.be/P6TNP-g0wzY?t=1801))
-- Orlando has a new head coach, Sean Sweeney, who replaces Jamahl Mosley. Player roles may change. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
+- Orlando has a new head coach, Sean Sweeney, who replaces Jamahl Mosley, so player roles may change. (fact, 2026-10-08; [08-01](https://youtu.be/FEcNjVRlj-U?t=359), [10-08](https://youtu.be/6DnRWahYrFA?t=1672))
+- He is Orlando's projected starting center. Vucevic is the backup and Goga Bitadze will still get some minutes. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1307), [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
+- Vucevic is expected to take 21 to 22 minutes a night, so experts expect Carter to stay under 30 minutes. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=537), [07-02](https://youtu.be/P6TNP-g0wzY?t=1801))
 
 **Durable**
-- He has no strong category and no weak one. Rebounds are his best category, but they are not a league outlier. (fact, 2026-10-04; stats)
-- His value comes from defense that does not show up on the stat sheet. The expert says he does not help fantasy teams and needs to become a more reliable shooter. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=489))
+- His value is defense that does not show up on the stat sheet. He does not help fantasy teams much and needs to become a more reliable shooter. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=489))
 
 **Tags**
-- Current: `role down` (Vucevic takes about 21 to 22 minutes as the backup center, so Carter is expected to stay under 30 minutes), `sites disagree on price` (Yahoo rank 123 and value 5 USD; ESPN rank 172 and value 0 USD)
-- Durable: `fits every build` (No category is flagged weak, but none is strong either)
+- Current: `minutes competition` (Vucevic expected to take 21 to 22 minutes as backup center; Bitadze also gets some minutes), `new coach` (Sean Sweeney replaces Jamahl Mosley), `winning team` (Phil predicts 47 or 48 wins and the 6th seed)
+- Durable: `fits every build` (No weak category flagged, but no category stands out either)
 
-**Note.** Carter is a fringe pick. Yahoo ranks him 123 but his average cost there is 1.3 USD. ESPN ranks him 172 at 0 USD, which is outside the 144 players we draft. His projected line has no category outlier and his best is rebounds (+0.8 z), so he fits any build only as a 1 USD last center or as a waiver pickup. Early in the season, check how Sweeney splits the center minutes between him and Vucevic. If Carter stays near 25 minutes, he is easy to drop.
+**Note.** He is priced at the very end of the draft: Yahoo values him at 5 USD with an average cost of 1.1 USD and rank 125, ESPN at 0 USD and rank 174, and nobody in our league drafted him last season. He has no weak category, so he fits any build as a late center or Util filler, but his projected line (10.5 PTS, 7.1 REB, 0.6 BLK) has no standout category and the experts say he does not help fantasy teams. Do not pay more than 1 or 2 USD. Early in the season, check how Sweeney splits the center minutes between him and Vucevic. If he stays under 30 minutes, he is replaceable from waivers.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

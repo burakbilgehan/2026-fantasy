@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 194 | 0 | 0.0 | 223 | not drafted |
+| 2026-27 | 0 | 0.0 | 196 | 0 | 0.1 | 224 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,30 +20,32 @@
 | FG% | 46.5% | -0.3 | -0.3 | - |
 | FT% | 74.9% | -0.5 | -0.4 | - |
 | 3PM | 1.4 | -0.1 | -0.2 | - |
-| PTS | 13.9 | -0.0 | +0.0 | - |
+| PTS | 13.9 | -0.0 | -0.0 | - |
 | REB | 4.9 | -0.1 | -0.1 | - |
 | AST | 2.6 | -0.3 | -0.1 | - |
-| STL | 0.8 | -0.3 | -0.2 | - |
+| STL | 0.8 | -0.3 | -0.3 | - |
 | BLK | 0.3 | -0.6 | -0.6 | - |
 | TO | 1.5 | +0.2 | +0.0 | - |
 
 </details>
 
 **Current**
-- Ranked around 194 on Yahoo and 223 on ESPN with no auction value, he is outside the 144 players drafted in our league. (verdict, 2026-10-04; stats)
-- Power forward is Milwaukee's weakest position, and he is one of the weak options there. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=553), [08-14](https://youtu.be/owlM6b8oUd0?t=511))
-- He could start at the four, but the expert's projected starters are Rollins, Herro, Jaquez, Ware and Turner, and the team will likely start a center at power forward. His starting role is not settled. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=553), [08-14](https://youtu.be/owlM6b8oUd0?t=511), [08-14](https://youtu.be/owlM6b8oUd0?t=536))
-- Milwaukee lost two frontcourt players, Giannis Antetokounmpo (traded to Miami) and Bobby Portis. (fact, 2026-06-30; [06-23](https://youtu.be/nnWX_ObljOE?t=346), [06-30](https://youtu.be/4GDfg2n2l8o?t=330))
-- The frontcourt departures should give him more minutes. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=346))
+- Milwaukee's starting lineup could change by December or March. The team is expected to focus more on young players as the season goes on, which would cut veteran minutes. (verdict, 2026-10-09; [10-08](https://youtu.be/sDzeYdUhJDI?t=901), [10-08](https://youtu.be/sDzeYdUhJDI?t=508), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1423))
+- He is projected to start at power forward for Milwaukee to open the season. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1168), [08-14](https://youtu.be/owlM6b8oUd0?t=553), [10-08](https://youtu.be/sDzeYdUhJDI?t=901))
+- Do not draft him inside the top 200, even as a projected starter. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1168))
+- Milwaukee needs trades to consolidate its roster, and he is named as one of the players who do not fit well. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1845))
+- Taylor Jenkins is Milwaukee's new head coach and might use a deep rotation. Experts have low confidence in how the Bucks will split minutes. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [10-08](https://youtu.be/sDzeYdUhJDI?t=335), [10-08](https://youtu.be/WXO8MfQfzo0?t=1054))
+- Milwaukee lost Giannis Antetokounmpo and Bobby Portis from the frontcourt, which should give him more minutes. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=346))
 
 **Durable**
-- His category profile has no strong category. Blocks are his weakest category, but they are not a real outlier. (fact, 2026-10-04; stats)
-- He was hyped early in his career but became a mediocre role player. (verdict, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=2159))
+- His projected category line is close to the pool average everywhere and has no strong category. Blocks and FT% are his weakest. (fact, 2026-10-11; stats)
+- He is a poor free throw shooter with poor steals and blocks. He does not make threes at high volume or a high percentage. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1174))
+- He is a mediocre role player. (verdict, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=2159))
 
 **Tags**
-- Current: `role up` (Giannis and Portis left, which should open frontcourt minutes), `minutes competition` (Could start at power forward, but Milwaukee will likely start a center there (Ware and Turner)), `waiver watch` (Undrafted range in a 12-team league; pick him up if he wins the starting power forward job)
+- Current: `role up` (More frontcourt minutes after Giannis and Portis left), `early-season value` (Opens as a starter, but the youth focus and lineup changes by December or March could cut his minutes), `trade risk` (Named as a poor roster fit on a team that needs consolidation trades), `unsettled rotation` (Experts call it the hardest Bucks rotation to read), `new coach` (Taylor Jenkins)
 - Durable: none
 
-**Note.** Kuzma is not a draft target for us. Yahoo ranks him 194 and ESPN 223, both give him 0 USD of value, and none of his categories stands out. His projections are close to average everywhere (about 14 points, 5 rebounds and 1.4 threes), so he fills a slot without fitting any particular build. Watch early on whether coach Taylor Jenkins starts him at power forward in place of a two-center lineup. If he starts and gets more than the 26 minutes he played last season, he is a cheap waiver pickup for bulk points and rebounds.
+**Note.** At Yahoo rank 196 and ESPN rank 224, with 0 USD values on both sites, he is well outside the 144 players we draft, and the expert would not take him inside the top 200. Yahoo's projection is kinder than ESPN's: 1.1 steals and 1.2 TO against 0.6 and 1.8. ESPN's line matches last season's 0.7 steals and 1.7 TO in 26.2 minutes. Leave him on waivers and check early whether he keeps the starting power forward job and plays clearly more than 26 minutes.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

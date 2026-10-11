@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 343 | 0 | 0.0 | 219 | not drafted |
+| 2026-27 | 0 | - | 343 | 0 | 0.1 | 220 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,30 +20,37 @@
 | FG% | 42.7% | -0.5 | -0.3 | - |
 | FT% | 76.5% | -0.1 | -0.3 | - |
 | 3PM | 1.3 | -0.3 | -0.5 | - |
-| PTS | 5.9 | -1.4 | -1.4 | weak for his position (punt fit) |
+| PTS | 5.9 | -1.4 | -1.5 | weak for his position (punt fit) |
 | REB | 2.2 | -1.2 | -1.3 | weak for his position (punt fit) |
-| AST | 1.2 | -1.0 | -1.2 | - |
+| AST | 1.2 | -1.1 | -1.2 | - |
 | STL | 1.9 | +3.0 | +2.9 | league outlier, strong |
-| BLK | 0.6 | +0.0 | +0.5 | - |
+| BLK | 0.6 | +0.0 | +0.4 | - |
 | TO | 0.8 | +1.1 | +1.2 | - |
 
 </details>
 
 **Current**
-- The Lakers' two open starting spots are mainly contested by Grimes, LaRavia and Mamukelashvili, and Ziaire Williams might also start. Thybulle is not named in that group. (fact, 2026-09-30; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669), [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
+- He is a projected Lakers starter, next to Doncic, Reaves, Grimes and Kessler. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=312), [10-06](https://youtu.be/sFelMKWcqyI?t=1441))
+- His starting spot is not secure. LaRavia could start instead, and Ziaire Williams might also start. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1441), [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
+- He may be the perfect fit next to Doncic and Reaves. His size is a concern, and the spot may rotate. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=312))
+- He may not handle more than 22 minutes a game. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1189))
+- He is mostly a pick for 16 to 20 team leagues. He has big value for teams that punt points. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1189))
+- The Lakers have the second most back-to-backs in the league. Experts warn that soft tissue injuries could become a problem. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2119))
+- The Lakers play 3, 4 and 3 games in our playoff weeks with the March 28 end. That puts them in the bottom half of the league. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2036))
 
 **Durable**
-- Steals are his one real outlier category, far above the top 250 pool. (fact, 2026-10-04; stats)
-- He gives very little in points and rebounds, even for a wing. (fact, 2026-10-04; stats)
-- He has very high deflection and steal rates. His steal rate is higher than Dyson Daniels'. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2020), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1348), [07-07](https://youtu.be/ME-r173X5b0?t=1589))
-- Experts call him an elite steals and blocks wing who would lead the league in steals if he played 30 minutes. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2020), [07-07](https://youtu.be/ME-r173X5b0?t=1589))
-- He has a history of knee and ankle injury concerns. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2020))
-- He does not bring shooting upside. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1348))
+- Almost all his value is in steals. He scores and rebounds very little for his position. (fact, 2026-10-11; stats)
+- He has very high steal and deflection rates. His steal rate is higher than Dyson Daniels'. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1175), [10-02](https://youtu.be/ZYllcj4o6_A?t=2020), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1348), [07-07](https://youtu.be/ME-r173X5b0?t=1589), stats)
+- Experts say he has blocked shots well for a wing in the past. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1175), [10-02](https://youtu.be/ZYllcj4o6_A?t=2020))
+- He keeps having knee injuries and has also had ankle problems. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1158), [10-02](https://youtu.be/ZYllcj4o6_A?t=2020))
+- He has improved his corner three. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=312))
+- Josh says he does not bring shooting upside. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1348))
+- He would lead the league in steals if he played 30 minutes a game. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=1589))
 
 **Tags**
-- Current: `minutes competition` (Grimes, LaRavia, Mamukelashvili and Ziaire Williams are the names for the open Lakers starting spots)
-- Durable: `STL specialist` (about 1.9 steals per game in under 20 minutes; elite deflection and steal rates), `punt PTS fit` (about 6 points per game), `punt REB fit` (about 2 rebounds per game), `injury prone` (knee and ankle concerns)
+- Current: `injury last season` (30 games in 2025-26), `minutes competition` (LaRavia or Ziaire Williams could take his starting spot), `many back-to-backs` (Lakers have the second most back-to-backs in the league), `bad playoff schedule` (3-4-3 with the March 28 end, bottom half of the league), `waiver watch` (experts see him as a pick for 16 to 20 team leagues)
+- Durable: `STL specialist` (elite steal and deflection rates), `punt PTS fit` (about 6 points per game; experts say big value when punting points), `punt REB fit` (about 2 rebounds per game), `injury prone` (repeated knee injuries, also ankle problems)
 
-**Note.** Both sites price him at 0 USD (Yahoo rank 343, ESPN rank 219), and nobody drafted him in our league last season. So he is outside our 144-player draft pool. He is a one-category steals specialist who fits punt PTS and punt REB builds. Early in the season, check whether his minutes rise above the 16 per game he played last season and whether he stays healthy; if both happen, he is a waiver pickup for steals. One note calls him probably a top 50 player at Yahoo rank 83, but his real Yahoo rank is 343, so that note is likely about another player and is left out.
+**Note.** Both sites value him at 0 USD (Yahoo rank 343, ESPN rank 220), and he was not drafted in our league last season. With only 144 players drafted, he is not a target in our 12-team league. He fits teams that punt points or rebounds and want a cheap source of steals (1.9 projected per game), so watch him on waivers. Early in the season, check whether he keeps the starting job over LaRavia and Ziaire Williams, whether his minutes go above 22, and how his knees hold up on the Lakers' many back-to-backs.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>8 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 160 | 2 | 0.2 | 112 | not drafted |
+| 2026-27 | 0 | 0.0 | 171 | 2 | 0.2 | 113 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -23,33 +23,34 @@
 | PTS | 9.5 | -0.8 | -0.6 | - |
 | REB | 3.7 | -0.6 | -1.6 | - |
 | AST | 1.3 | -1.0 | -0.7 | - |
-| STL | 0.5 | -1.3 | -1.0 | weak for his position (punt fit) |
+| STL | 0.5 | -1.3 | -1.1 | weak for his position (punt fit) |
 | BLK | 1.4 | +1.7 | +0.6 | - |
 | TO | 0.8 | +1.2 | +1.1 | - |
 
 </details>
 
 **Current**
-- Lopez is 38 and in the final year of his contract. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1336))
-- Konan Niederhauser, the other Clippers center, is injured and out. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018), [06-30](https://youtu.be/JMSLg6yz-M0?t=758))
-- He projects as the backup center in a mentoring role, behind Isaiah Jackson in the projected lineup. (verdict, 2026-10-04, until Konan Niederhauser returns; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1336), [10-04](https://youtu.be/tnzmsYUA4yQ?t=360), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268))
-- Do not take him inside the top 200. His ESPN rank of 112 and ADP of 109 are too high. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1298))
-- Coach Ty Lue makes odd rotation choices and then changes them. The Clippers also expect a trial season with long rotations, so Lopez's minutes are hard to predict. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
-- The Clippers have a good fantasy playoff schedule: 4, 3 and 4 games in weeks 19 to 21. They have one of the lowest back-to-back totals in the league with 13. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
-- Isaiah Jackson is starting over Lopez at center in Clippers preseason scrimmages. This is not guaranteed to continue. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=883), [10-01](https://youtu.be/EGdhmUgPAWY?t=867))
-- He played only 23 minutes a night last season, partly because Ivica Zubac was there. Zubac has since been traded. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=883), [06-30](https://youtu.be/4GDfg2n2l8o?t=1059))
+- The Clippers project as one of the worst teams and lean toward a trial season with long rotations and many players tested. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=177), [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018))
+- The Clippers coach never gives his centers heavy minutes, which caps Lopez even if he wins back the starting job. (fact, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=2628))
+- Isaiah Jackson is starting over Lopez at center in Clippers preseason scrimmages. This is not guaranteed to continue. (fact, 2026-10-04; [10-01](https://youtu.be/EGdhmUgPAWY?t=883), [10-01](https://youtu.be/EGdhmUgPAWY?t=867), [10-04](https://youtu.be/tnzmsYUA4yQ?t=360))
+- He projects as the Clippers' backup center in a mentoring role until Konan Niederhauser returns. (verdict, 2026-10-04, until Konan Niederhauser returns; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1336), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268))
+- He is 38 and in the final year of his contract. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1336))
+- Konan Niederhauser, the other Clippers center option, is injured. Ivica Zubac has been traded. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018), [06-30](https://youtu.be/4GDfg2n2l8o?t=1059))
+- Do not draft him inside the top 200. His ESPN rank of 112 and ADP of 109 are too high. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1298))
+- The Clippers play 4, 3 and 4 games in our playoff weeks and have only 13 back-to-backs, one of the lowest totals in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
 - At 30 minutes a night he would be a late-round draftable player. If his minutes are split down to about 22, he has no fantasy value. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=1069))
 
 **Durable**
-- For a center he makes many threes and commits few turnovers. Blocks are his best category. Rebounds and steals are weak for a center. (fact, 2026-10-05; stats)
-- His free throw shooting fell sharply last season. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1325))
-- He still contests shots at the rim but struggles defending the pick and roll. (verdict, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=739))
-- He is past his peak and his production dropped off badly last season. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=1069))
+- His fantasy value comes from blocks and threes for a center, with few turnovers. He is weak in steals and rebounds for a center. (fact, 2026-10-11; stats)
+- His free throw shooting fell off badly last season. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1325))
+- Clippers coach Ty Lue makes odd rotation choices and then changes them. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
+- He still contests shots at the rim but is weak defending the pick and roll. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=739))
+- He is in age decline and his production dropped off badly last season. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=1069))
 
 **Tags**
-- Current: `contract year` (Final year of his contract), `minutes competition` (Isaiah Jackson starts over him in preseason scrimmages), `bust candidate` (ESPN rank 112 and ADP 109; expert says avoid inside top 200), `sites disagree on price` (ESPN rank 112, Yahoo rank 160), `waiver watch` (Worth adding only if he gets close to 30 minutes), `unsettled rotation` (Ty Lue changes rotations; trial season with long rotations), `good playoff schedule` (4-3-4 games in weeks 19 to 21), `few back-to-backs` (13 back-to-backs, among the lowest in the league)
-- Durable: `age decline watch` (Age 38; production dropped off badly last season), `3PM from a big` (About 1.5 threes per game as a center), `punt STL fit` (About 0.5 steals per game)
+- Current: `minutes competition` (Isaiah Jackson starts over him in preseason, Konan Niederhauser returns later), `contract year` (Final year of his contract), `bust candidate` (ESPN rank 112 and ADP 109, expert says avoid inside the top 200), `bottom team`, `unsettled rotation` (Ty Lue changes rotations; trial season with long rotations), `deep rotation` (Long rotations with many players tested), `good playoff schedule` (4-3-4 games in weeks 19 to 21), `few back-to-backs` (13 back-to-backs)
+- Durable: `3PM from a big` (About 1.5 threes per game projected as a center), `punt STL fit` (About 0.5 steals per game projected), `age decline watch` (38 years old, production fell off badly last season)
 
-**Note.** Lopez is priced at 0 USD on Yahoo and 2 USD on ESPN, and nobody drafted him in our league last season. He finished 250th last season and the newest expert call is to avoid him inside the top 200, so he should not be one of the 144 players drafted in our auction. In the first weeks, check whether Isaiah Jackson keeps the starting job and whether Lopez gets near 30 minutes. If he does, his threes and blocks from the center spot make him a short-term add for builds that punt steals.
+**Note.** Lopez is not a draft target for us. Yahoo ranks him 171 and values him at 0 USD, ESPN has him at 113 for 2 USD, and the expert says to avoid him inside the top 200. Only 144 players get drafted, so he should go to waivers. His blocks and threes as a center could still help a punt STL build if he ever gets about 30 minutes. Early in the season, check whether Isaiah Jackson holds the starting job, and check his minutes before Konan Niederhauser returns.
 
-<sub>7 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>7 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

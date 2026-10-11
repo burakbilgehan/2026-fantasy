@@ -8,62 +8,79 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "3519b399ce46",
- "note_count": 11,
- "built_at": "2026-10-05T20:03:13+00:00",
+ "input_sha": "339a4b3876a8",
+ "note_count": 12,
+ "built_at": "2026-10-11T09:24:04+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1638742,
-  "duration_ms": 41692,
+  "cost_usd_list": 0.1837222,
+  "duration_ms": 58157,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He signed with the Spurs this offseason and takes the Harrison Barnes role at forward.",
+   "text": "He signed with the Spurs in free agency and replaces Harrison Barnes in the forward rotation.",
    "kind": "fact",
-   "date": "2026-09-19",
+   "date": "2026-08-24",
    "until": "",
    "sources": [
     "P6TNP-g0wzY:p39",
     "g31YlwRe0XQ:p48",
-    "uarqbNA2dFk:p49"
+    "4kKINkZhWls:t0",
+    "g31YlwRe0XQ:t0"
    ]
   },
   {
-   "text": "The Spurs signed him to help on the defensive boards at power forward.",
+   "text": "He has a calf strain. Yahoo lists him as questionable.",
    "kind": "fact",
-   "date": "2026-08-27",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:p2"
+    "-DN4P92Wp8Y:p44",
+    "-DN4P92Wp8Y:t5",
+    "stats"
    ]
   },
   {
-   "text": "He is projected to start at power forward next to Fox, Castle, Vassell and Wembanyama.",
+   "text": "His starting spot is not secure. Notes see him as the likely starting power forward, but San Antonio may start Harper, Castle, Vassell and Fox instead.",
    "kind": "verdict",
-   "date": "2026-08-27",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
+    "-DN4P92Wp8Y:p44",
+    "-DN4P92Wp8Y:t5",
+    "eTsjuVu1trk:t4",
     "ZAyie8lKyYc:p5",
     "ZAyie8lKyYc:t2"
    ]
   },
   {
-   "text": "The Spurs are very deep at forward and on the wing, so many players compete for the minutes around him.",
+   "text": "The Spurs are very deep at guard and forward. The team plans more three-guard lineups.",
    "kind": "fact",
-   "date": "2026-09-19",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
     "uarqbNA2dFk:t3",
+    "ZAyie8lKyYc:t3",
     "ZAyie8lKyYc:t4",
-    "ZAyie8lKyYc:t5",
-    "P6TNP-g0wzY:t6"
+    "P6TNP-g0wzY:t6",
+    "WXO8MfQfzo0:t3"
    ]
   },
   {
-   "text": "The Spurs are expected to trade some of their forward depth at some point, but not right away.",
+   "text": "The Spurs' depth caps his minutes and his fantasy value.",
+   "kind": "verdict",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:p39",
+    "uarqbNA2dFk:p49"
+   ]
+  },
+  {
+   "text": "The Spurs are expected to consolidate the roster through trades, but not right away.",
    "kind": "verdict",
    "date": "2026-08-27",
    "until": "",
@@ -72,18 +89,17 @@
    ]
   },
   {
-   "text": "The Spurs are trying to win now and are projected near the top of the West, with one expert predicting 63 wins.",
+   "text": "The Spurs are projected to be one of the best teams in the West. One expert predicts 63 wins.",
    "kind": "verdict",
    "date": "2026-08-27",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:t0",
     "ZAyie8lKyYc:t7",
     "75Sk_4fkgIM:t6"
    ]
   },
   {
-   "text": "His finishing at the rim dropped from 68 percent to 58 percent last season.",
+   "text": "His rim finishing fell from 68 percent to 58 percent last season.",
    "kind": "fact",
    "date": "2026-07-16",
    "until": "",
@@ -101,7 +117,7 @@
    ]
   },
   {
-   "text": "He has limited upside and is not a flyer. Draft him late only if you need a steady scorer and rebounder.",
+   "text": "He has limited upside and is not a flyer. Take him late only if you need a steady scorer and rebounder.",
    "kind": "verdict",
    "date": "2026-09-24",
    "until": "",
@@ -111,13 +127,23 @@
    ]
   },
   {
-   "text": "He is fair value around pick 140 to 150 and should not go earlier. His ESPN rank of 94 is too high.",
+   "text": "He is fair value as a late pick, around pick 142 to 164. Round 14 is the best spot.",
    "kind": "verdict",
    "date": "2026-09-24",
    "until": "",
    "sources": [
     "_vbAP5y182A:p56",
     "KPdD91Oo8-U:p37",
+    "g31YlwRe0XQ:p48"
+   ]
+  },
+  {
+   "text": "His ESPN rank of about 94 and a round 9 or 10 pick are too high. Avoid him at that price.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p44",
     "uarqbNA2dFk:p49",
     "g31YlwRe0XQ:p48"
    ]
@@ -125,8 +151,8 @@
  ],
  "durable": [
   {
-   "text": "He is a very good defensive rebounder for a power forward.",
-   "kind": "verdict",
+   "text": "He is a very good defensive rebounder for a forward.",
+   "kind": "fact",
    "date": "2026-08-27",
    "until": "",
    "sources": [
@@ -134,8 +160,8 @@
    ]
   },
   {
-   "text": "He is a strong isolation and post scorer. His team can give him the ball when the offense stalls.",
-   "kind": "verdict",
+   "text": "He is a strong isolation and post scorer whom the team can hand the ball to when the offense stalls.",
+   "kind": "fact",
    "date": "2026-08-27",
    "until": "",
    "sources": [
@@ -143,21 +169,12 @@
    ]
   },
   {
-   "text": "He is a streaky three-point shooter, but defenses still have to guard his shot.",
-   "kind": "verdict",
+   "text": "He is streaky from three, but defenses still have to respect his shot.",
+   "kind": "fact",
    "date": "2026-08-27",
    "until": "",
    "sources": [
     "ZAyie8lKyYc:p4"
-   ]
-  },
-  {
-   "text": "His projected line has no weak category. FT% and low turnovers are his best categories, but neither is a league outlier.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "stats"
    ]
   }
  ],
@@ -169,40 +186,71 @@
    "until": "",
    "sources": [
     "P6TNP-g0wzY:p39",
-    "g31YlwRe0XQ:p48",
-    "uarqbNA2dFk:p49"
+    "g31YlwRe0XQ:p48"
    ],
    "new_meaning": ""
   },
   {
-   "name": "deep rotation",
+   "name": "injured now",
    "channel": "current",
-   "detail": "Spurs very deep at forward and wing",
+   "detail": "Calf strain",
    "until": "",
    "sources": [
-    "uarqbNA2dFk:t3",
-    "ZAyie8lKyYc:t4",
-    "ZAyie8lKyYc:t5",
-    "P6TNP-g0wzY:t6"
+    "-DN4P92Wp8Y:p44",
+    "-DN4P92Wp8Y:t5",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q (calf)",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Projected starting PF, but with a lot of forward depth behind him",
+   "detail": "May lose the starting spot to a Harper, Castle, Vassell and Fox lineup",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p44",
+    "eTsjuVu1trk:t4",
+    "P6TNP-g0wzY:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Spurs very deep at guard and forward",
    "until": "",
    "sources": [
     "uarqbNA2dFk:t3",
-    "P6TNP-g0wzY:t6",
-    "ZAyie8lKyYc:p5"
+    "ZAyie8lKyYc:t4",
+    "ZAyie8lKyYc:t5",
+    "WXO8MfQfzo0:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "small-ball lineups",
+   "channel": "current",
+   "detail": "More three-guard lineups planned",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:t3"
    ],
    "new_meaning": ""
   },
   {
    "name": "trades likely",
    "channel": "current",
-   "detail": "Spurs expected to consolidate forward depth, but not right away",
+   "detail": "Roster consolidation expected, not right away",
    "until": "",
    "sources": [
     "ZAyie8lKyYc:t4"
@@ -212,7 +260,7 @@
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "Projected at 63 wins, contender for the West top seed",
+   "detail": "One expert projects 63 wins",
    "until": "",
    "sources": [
     "ZAyie8lKyYc:t7",
@@ -221,12 +269,23 @@
    "new_meaning": ""
   },
   {
-   "name": "low shutdown risk",
+   "name": "bust candidate",
    "channel": "current",
-   "detail": "Spurs are trying to win now",
+   "detail": "ESPN rank 94 and a round 9 pick are too high",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:t0"
+    "-DN4P92Wp8Y:p44",
+    "uarqbNA2dFk:p49"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "ESPN rank 93, Yahoo rank 158",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   },
@@ -243,35 +302,14 @@
   {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "No weak category; mild help in FT% and TO",
+   "detail": "No weak category, but no strong one either",
    "until": "",
    "sources": [
     "stats"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "sites disagree on price",
-   "channel": "current",
-   "detail": "ESPN rank 94 (3 USD) vs Yahoo rank 151 (0 USD)",
-   "until": "",
-   "sources": [
-    "stats",
-    "uarqbNA2dFk:p49"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "bust candidate",
-   "channel": "current",
-   "detail": "At his ESPN rank of 94",
-   "until": "",
-   "sources": [
-    "uarqbNA2dFk:p49"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "Harris is a bubble player in a 12-team league. Yahoo ranks him 151 at 0 USD, ESPN ranks him 94 at 3 USD, and he went for 1 USD in our auction last season. The experts value him around picks 140 to 150, so bid 1 to 2 USD at most at the end of the draft. He fits any build as a filler with no weak category, but his upside is limited. Early in the season, check that he keeps the starting power forward job and gets about 30 minutes on a deep Spurs roster, and whether his rim finishing comes back.",
+ "note": "Harris is a 1 USD end-of-draft pick or a waiver player for us. Yahoo values him at 0 USD and ranks him 158, ESPN values him at 3 USD, and he went for 1 USD in our league last season. With 144 players drafted, expert calls of pick 142 to 164 put him right on the cutoff. He has no weak category, and his good FT% and low turnovers (z +0.7 and +0.9) let him fill a spot in any build, but nothing in his line moves a category much. Early in the season, check that the calf strain has healed and that he starts at power forward over a three-guard lineup with Harper.",
  "rejected": []
 }

@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "72517426c998",
- "note_count": 2,
- "built_at": "2026-10-05T20:00:47+00:00",
+ "input_sha": "1fc5cab5a40e",
+ "note_count": 3,
+ "built_at": "2026-10-11T09:22:30+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.17302459999999997,
-  "duration_ms": 33257,
+  "cost_usd_list": 0.1741922,
+  "duration_ms": 32095,
   "turns": 3,
   "denied": 0
  },
  "current": [
   {
-   "text": "He re-signed with Sacramento for 2 years and 11.5 million.",
+   "text": "He re-signed with Sacramento on a 2-year, 11.5 million deal.",
    "kind": "fact",
    "date": "2026-07-01",
    "until": "",
@@ -30,7 +30,18 @@
    ]
   },
   {
-   "text": "The projected Kings starters are Acuff, LaVine, Hunter, Murray and Sabonis. He is not in that group.",
+   "text": "His strong run late last season, including a rank of 73rd after the trade deadline, came while Domantas Sabonis, Keegan Murray, DeAndre Hunter and Cardwell were out. All of them are back.",
+   "kind": "fact",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p46",
+    "xHRF06_E9HE:p39",
+    "W3THnI7wWdA:p44"
+   ]
+  },
+  {
+   "text": "The projected Kings starters are Acuff, LaVine, Hunter, Murray and Sabonis, with nobody pushing that group for a spot.",
    "kind": "fact",
    "date": "2026-07-31",
    "until": "",
@@ -40,7 +51,7 @@
    ]
   },
   {
-   "text": "He is expected to be a reserve big this season.",
+   "text": "He is expected to be a reserve big with a smaller role than his late-season starting run.",
    "kind": "verdict",
    "date": "2026-07-01",
    "until": "",
@@ -49,74 +60,53 @@
    ]
   },
   {
-   "text": "His late-season run, including a 73rd rank after the deadline, came only because Murray, Hunter and Sabonis were out. The experts say it is not real and you should not draft him off it.",
+   "text": "The experts say his late-season production was not real. Do not draft him off that run. His ESPN categories rank of 111 is too high.",
    "kind": "verdict",
-   "date": "2026-07-14",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
+    "-DN4P92Wp8Y:p46",
     "xHRF06_E9HE:p39",
     "W3THnI7wWdA:p44"
    ]
   }
  ],
- "durable": [
-  {
-   "text": "He makes almost no threes and shoots under 62% from the line. He takes fewer than 2 free throws per game, so the FT% damage is limited.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  }
- ],
+ "durable": [],
  "tags": [
   {
    "name": "role down",
    "channel": "current",
-   "detail": "Reserve big behind Sabonis, Murray and Hunter after starting during their injuries late last season",
+   "detail": "Expected to go back to a reserve big role now that Sabonis, Murray and Hunter are healthy",
    "until": "",
    "sources": [
     "W3THnI7wWdA:p44",
-    "xHRF06_E9HE:p39",
-    "oEywzBZfAvY:t1"
+    "-DN4P92Wp8Y:p46"
    ],
    "new_meaning": ""
   },
   {
    "name": "handcuff",
    "channel": "current",
-   "detail": "Ranked 73rd after the deadline while Murray, Hunter and Sabonis were out",
+   "detail": "Produced as a starter late last season when Sabonis, Murray and Hunter were out",
    "until": "",
    "sources": [
     "xHRF06_E9HE:p39",
+    "-DN4P92Wp8Y:p46",
     "W3THnI7wWdA:p44"
    ],
    "new_meaning": ""
   },
   {
-   "name": "waiver watch",
+   "name": "bust candidate",
    "channel": "current",
-   "detail": "Do not draft. Watch if Sabonis, Murray or Hunter miss time",
+   "detail": "At the ESPN categories rank of 111",
    "until": "",
    "sources": [
-    "W3THnI7wWdA:p44",
-    "xHRF06_E9HE:p39",
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "no 3PM",
-   "channel": "durable",
-   "detail": "0.2 to 0.4 threes per game in each of the last three seasons",
-   "until": "",
-   "sources": [
-    "stats"
+    "-DN4P92Wp8Y:p46"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both sites value him at 0 USD and rank him 204 (Yahoo) and 153 (ESPN), so he falls outside the 144 players drafted in our league. Leave him on waivers. His only value comes when Sabonis, Murray or Hunter miss games, or if a trade opens up the Kings frontcourt. In those cases he adds rebounds, a decent FG% and few turnovers, at a small cost in FT% and threes.",
+ "note": "Do not draft him in our league. Yahoo ranks him 210th, ESPN ranks him 153rd and both sites value him at 0 USD, which puts him outside the 144 players we draft. The experts say his late-season numbers only came because the Kings starters were hurt. His profile is modest anyway: about 9 to 10 points and 6.6 rebounds, with weak FT%, threes and assists. Keep him on the waiver radar in case Sabonis, Murray or Hunter misses time or gets traded, because that is when he got starter minutes.",
  "rejected": []
 }

@@ -1,0 +1,120 @@
+{
+ "player": {
+  "name": "Kevon Looney",
+  "slug": "kevon-looney",
+  "pk": 337,
+  "team": "LAL",
+  "position": "F,C"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "814c453e6311",
+ "note_count": 3,
+ "built_at": "2026-10-11T09:19:37+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.11335820000000002,
+  "duration_ms": 19116,
+  "turns": 2,
+  "denied": 0
+ },
+ "current": [
+  {
+   "text": "He is a backup center for the Lakers behind Walker Kessler and is not expected to start.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "_WjOjp6Qu8E:p20",
+    "Rqb5GdrSweY:p7",
+    "LM0cRCGoAUQ:t11"
+   ]
+  },
+  {
+   "text": "Experts call him a weak backup and say he is washed. If he plays in meaningful games, the Lakers are in trouble.",
+   "kind": "verdict",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "sFelMKWcqyI:p27",
+    "Rqb5GdrSweY:p7"
+   ]
+  },
+  {
+   "text": "The backup center job is an open question. Mamukelashvili should get those minutes ahead of him.",
+   "kind": "verdict",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:t11",
+    "sFelMKWcqyI:t2"
+   ]
+  },
+  {
+   "text": "The Lakers' defense depends heavily on Kessler. If Kessler is out, they would have to rely on Looney or Mamukelashvili.",
+   "kind": "fact",
+   "date": "2026-08-04",
+   "until": "",
+   "sources": [
+    "_WjOjp6Qu8E:t5",
+    "Rqb5GdrSweY:t4"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He makes almost no threes and scores very little.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He is not a pick-and-roll threat on offense.",
+   "kind": "verdict",
+   "date": "2026-07-13",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:p7"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "about 0.1 threes per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Mamukelashvili is expected to win the backup center minutes behind Kessler",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:t11",
+    "sFelMKWcqyI:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "now a backup center for the Lakers",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:p7"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Looney is not a draft option for us. Yahoo ranks him 396 and ESPN ranks him 291, both value him at 0 USD, and our league drafts only 144 players. His projected line of about 4.5 points and 6 rebounds in roughly 15 minutes gives almost nothing outside a decent TO number. Watch him only if Kessler gets hurt, and even then Mamukelashvili is the first Lakers center to look at on waivers.",
+ "rejected": []
+}

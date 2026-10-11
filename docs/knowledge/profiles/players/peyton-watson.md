@@ -11,17 +11,17 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 4 | 1.0 | 107 | 2 | 0.9 | 104 | not drafted |
+| 2026-27 | 1 | 1.0 | 120 | 2 | 1.1 | 105 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 48.3% | +0.1 | +0.2 | - |
+| FG% | 48.3% | +0.1 | +0.1 | - |
 | FT% | 72.3% | -0.8 | -0.8 | - |
 | 3PM | 1.4 | -0.1 | -0.2 | - |
 | PTS | 13.4 | -0.1 | -0.1 | - |
-| REB | 4.8 | -0.1 | -0.1 | - |
+| REB | 4.8 | -0.1 | -0.2 | - |
 | AST | 2.1 | -0.6 | -0.4 | - |
 | STL | 0.9 | -0.2 | -0.1 | - |
 | BLK | 1.3 | +1.5 | +2.0 | - |
@@ -30,30 +30,32 @@
 </details>
 
 **Current**
-- Cleveland acquired Watson from Denver for a first-round pick and money. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=178))
-- He is projected to start at forward next to James Harden, Donovan Mitchell, Evan Mobley and Jarrett Allen. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=397), [08-24](https://youtu.be/rnq3118kfhY?t=510), [09-10](https://youtu.be/dlo7L8Ru91A?t=1822))
-- Experts expect a locked-in starting role at 30 or more minutes. His minutes floor and stability should be better than in Denver. (verdict, 2026-09-29; [08-24](https://youtu.be/rnq3118kfhY?t=949), [09-10](https://youtu.be/dlo7L8Ru91A?t=1822), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2402), [09-29](https://youtu.be/NmdNvAz08oE?t=1130))
-- His usage was 21% last season and rose to 24% when Nikola Jokic, Christian Braun and Cam Johnson were off the court. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1060))
-- His usage is expected to fall to about 19 or 20% next to Mitchell, Harden and Mobley. (verdict, 2026-09-29; [08-24](https://youtu.be/rnq3118kfhY?t=949), [09-29](https://youtu.be/NmdNvAz08oE?t=1130), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2402), [09-10](https://youtu.be/dlo7L8Ru91A?t=1822))
-- His upside depends mostly on injuries to others. He could take a high-usage role on nights when Mitchell or other starters sit. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1130), [08-24](https://youtu.be/rnq3118kfhY?t=919))
-- A significant hamstring injury cost him the end of last season. Yahoo lists him as P (hamstring) now, while the Cleveland preview reports no current injury concerns. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1045), [07-31](https://youtu.be/keNupMSHp1Y?t=126), [09-29](https://youtu.be/NmdNvAz08oE?t=1808))
-- His market rank of about 104 on ESPN and 108 on Yahoo is reasonable. He is the expert's best target on Cleveland, picked reluctantly, because of his price. At 23% usage he would beat his draft spot. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1045), [09-29](https://youtu.be/NmdNvAz08oE?t=1564))
-- Cleveland plays 4, 3 and then 2 games in our playoff weeks 19 to 21. That is 9 games, with a two-game finals week. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [08-16](https://youtu.be/gf_6GveiAls?t=1536))
+- Cleveland acquired Watson from Denver and gave up a first-round pick and money for him. (fact, 2026-10-09; [09-29](https://youtu.be/NmdNvAz08oE?t=178), [10-09](https://youtu.be/-DN4P92Wp8Y?t=608))
+- His upside depends mostly on injuries to others. His usage would rise if Harden, Mobley or Mitchell missed games, and his blocks would rise if Allen missed games. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=2011), [09-29](https://youtu.be/NmdNvAz08oE?t=1130), [08-24](https://youtu.be/rnq3118kfhY?t=919))
+- At his Yahoo rank of 120 he is a safe pick with upside. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=2011))
+- He is the projected starting forward next to James Harden, Donovan Mitchell, Evan Mobley and Jarrett Allen. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=397), [08-24](https://youtu.be/rnq3118kfhY?t=510), [09-10](https://youtu.be/dlo7L8Ru91A?t=1822))
+- He should be a locked-in starter at 30 or more minutes. His minutes floor and role look more stable than in Denver. (verdict, 2026-09-29; [08-24](https://youtu.be/rnq3118kfhY?t=949), [09-29](https://youtu.be/NmdNvAz08oE?t=1130), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2402), [09-10](https://youtu.be/dlo7L8Ru91A?t=1822))
+- His usage should fall from 21% last season to about 19 or 20 next to Mitchell, Harden and Mobley. (verdict, 2026-09-29; [08-24](https://youtu.be/rnq3118kfhY?t=949), [09-29](https://youtu.be/NmdNvAz08oE?t=1130), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2402), [09-10](https://youtu.be/dlo7L8Ru91A?t=1822), [09-22](https://youtu.be/QbdrhJd7LiA?t=408))
+- He is one expert's best target on Cleveland because of his draft price. If he reaches 23% usage, he beats his draft spot. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1564))
+- He has no injury concerns now. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1808))
+- Cleveland plays 4, 3 and 2 games in our playoff weeks 19 to 21, so the finals week has only two games. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [08-16](https://youtu.be/gf_6GveiAls?t=1536))
 - Cleveland has the most back-to-backs in the league. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1907), [08-16](https://youtu.be/gf_6GveiAls?t=930))
-- He should block fewer shots with Mobley and Allen on the floor. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1822))
+- Cleveland may close games with Mobley at center after adding Watson. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1684))
+- He should block fewer shots with Mobley and Allen around him. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1822))
 
 **Durable**
-- He blocks a lot of shots for a forward. His steals are okay and he is not a great rebounder. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1099), stats)
-- He handled a bigger usage role well when Jokic and others were out. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=293))
-- Experts disagree on his shooting. Some call him a very good spot-up and corner three-point shooter. Another is not convinced the three-point shooting is real. (verdict, 2026-09-29; [08-24](https://youtu.be/rnq3118kfhY?t=885), [07-31](https://youtu.be/keNupMSHp1Y?t=395), [09-29](https://youtu.be/NmdNvAz08oE?t=1099))
-- His 3P% has risen every year, from just under 30% to 35% to 41%. His FT% has also climbed every year. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=885))
+- Blocks are his best category. His steals are okay and he is not a great rebounder. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1099), stats)
+- The newest expert view is not convinced that his strong three-point shooting is real. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1099))
+- He handled a bigger role well in Denver when Nikola Jokic and others were out. His usage rose from 21% to 24% with Jokic, Christian Braun and Cam Johnson off the court. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=293), [09-29](https://youtu.be/NmdNvAz08oE?t=1060))
+- A significant hamstring injury ended his 2025-26 season early. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1045), [07-31](https://youtu.be/keNupMSHp1Y?t=126))
+- He is a good spot-up three-point shooter, especially from the corners. His 3P% rose every year, from just under 30% to 35% to 41%, and his FT% also rose every year. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=885), [07-31](https://youtu.be/keNupMSHp1Y?t=395))
 - He is rated a good defender. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=885))
 - He has only one really good season so far. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=126))
 
 **Tags**
-- Current: `new team` (Traded from Denver to Cleveland for a first-round pick and money.), `role down` (Usage expected to fall from 21% to about 19 or 20%, but he has a starting job and a steadier minutes floor.), `injury last season` (A significant hamstring injury ended his season early.), `injured now` (Yahoo status P (hamstring). The team preview reports no current injury concerns.), `bad playoff schedule` (4, 3 and 2 games in weeks 19 to 21, with a two-game finals week. Cleveland also has the most back-to-backs in the league.)
+- Current: `new team` (Traded from Denver to Cleveland for a first-round pick and money), `usage competition` (Usage expected to drop to about 19 or 20 next to Harden, Mitchell and Mobley), `injury last season` (Hamstring injury ended his season; 54 games played), `regression risk` (3P% jumped to 41%; expert not convinced it is real), `many back-to-backs` (Cleveland has the most back-to-backs in the league), `bad playoff schedule` (4, 3, 2 games in weeks 19 to 21; two-game finals week), `winning team` (Projected at about 51 to 53 wins), `thin rotation` (Lost Strus, Schroder, Ellis and Wade; thin frontcourt behind Mobley and Allen)
 - Durable: none
 
-**Note.** Watson is a late pick at about 1 to 4 USD, with ranks of 104 to 107. His real draw is blocks for a forward: his BLK z-score is +2.0 against forwards, and the rest of his line is close to neutral. That makes him a cheap BLK and minutes-floor piece for any build, but the 9-game playoff schedule with a two-game finals week cuts his value late. Early in the season, check three things: his Yahoo hamstring status, whether his usage stays near 20% or reaches the 23% the expert says he needs to beat his price, and whether his blocks hold up next to Mobley and Allen.
+**Note.** Watson costs only 1 to 2 USD (Yahoo rank 120, ESPN 105) and was not drafted in our league last season. That puts him near the end of a 144-player draft as a cheap starter with a minutes floor of 30 or more and blocks well above the pool (z +1.5). FT% (z -0.8) and assists are his weakest categories, but neither is flagged. A two-game finals week and the league's most back-to-backs cut into his playoff value. Early in the season, check whether his usage gets near 23%, whether his 41% three-point shooting holds, and whether his blocks drop next to Mobley and Allen.
 
-<sub>17 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>18 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

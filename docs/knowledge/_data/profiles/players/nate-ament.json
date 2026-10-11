@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "ae7596f4e701",
- "note_count": 7,
- "built_at": "2026-10-04T17:44:20+00:00",
+ "input_sha": "498f1ea5f20e",
+ "note_count": 8,
+ "built_at": "2026-10-11T09:21:53+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.19366879999999997,
-  "duration_ms": 48352
+  "cost_usd_list": 0.1897622,
+  "duration_ms": 51950,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He is a rookie. The Bucks drafted him 13th overall in 2026.",
+   "text": "Rookie. The Bucks took him with the 13th pick of the 2026 draft.",
    "kind": "fact",
    "date": "2026-06-28",
    "until": "",
@@ -30,7 +32,28 @@
    ]
   },
   {
-   "text": "He had a bad summer league: about 10 points and 5 rebounds per game, only 0.4 blocks, and he missed his free throws.",
+   "text": "Experts think the Bucks reached at 13. They say he was not worth that pick and might just be a bad player.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:p35",
+    "LUTYUdXBG1M:p18",
+    "lOshTzDA4SA:p26",
+    "-rgXhs5BHiw:p6"
+   ]
+  },
+  {
+   "text": "Yahoo lists him as questionable with an ankle injury.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He had a bad summer league: 10 points and 5 rebounds per game, only 0.4 blocks, and missed free throws.",
    "kind": "fact",
    "date": "2026-07-23",
    "until": "",
@@ -39,8 +62,8 @@
    ]
   },
   {
-   "text": "He had a back injury over the summer.",
-   "kind": "fact",
+   "text": "His path to NBA minutes is weak right now.",
+   "kind": "verdict",
    "date": "2026-08-02",
    "until": "",
    "sources": [
@@ -48,40 +71,74 @@
    ]
   },
   {
-   "text": "He is not among the projected Bucks starters. The projected starters are Rollins, Herro, Jaquez, Ware and Turner.",
+   "text": "He is not in the Bucks' projected opening lineup of Rollins, Herro, Jaquez, Kuzma and Turner.",
    "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t3"
+   ]
+  },
+  {
+   "text": "New coach Taylor Jenkins might use a deep rotation, and experts call the Bucks rotation one of the hardest to read.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t0",
+    "sDzeYdUhJDI:t2",
+    "WXO8MfQfzo0:t0",
+    "OdDkXFhoKsc:t1"
+   ]
+  },
+  {
+   "text": "The Bucks are expected to focus more on young players as the season goes on, which could open minutes for him later.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t4",
+    "-DN4P92Wp8Y:t4"
+   ]
+  },
+  {
+   "text": "Experts expect the Bucks to be a bad team. They do not own their pick, so they have no reason to tank.",
+   "kind": "verdict",
    "date": "2026-08-14",
    "until": "",
    "sources": [
-    "owlM6b8oUd0:t2"
+    "owlM6b8oUd0:t4",
+    "sfCe7fS9daM:t8",
+    "Rqb5GdrSweY:t0"
    ]
   },
   {
-   "text": "His path to NBA minutes looks weak right now.",
+   "text": "He is not a draft target in a 12-team league.",
    "kind": "verdict",
-   "date": "2026-08-02",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
-    "TOn-D1SV7a8:p14"
-   ]
-  },
-  {
-   "text": "Experts rank him below his draft slot. Several think he was not worth the 13th pick and that he might just be a bad player.",
-   "kind": "verdict",
-   "date": "2026-07-23",
-   "until": "",
-   "sources": [
-    "lOshTzDA4SA:p26",
-    "CLsUc0Sevos:p29",
-    "LUTYUdXBG1M:p18",
-    "RsjGTgJiKyI:p24",
-    "-rgXhs5BHiw:p6"
+    "stats",
+    "TOn-D1SV7a8:p14",
+    "sDzeYdUhJDI:p35"
    ]
   }
  ],
  "durable": [
   {
-   "text": "Experts say his shooting and efficiency numbers are horrific and doubt his shooting and scoring.",
+   "text": "Experts call his shooting and efficiency poor and doubt his scoring.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:p35",
+    "CLsUc0Sevos:p29",
+    "-rgXhs5BHiw:p6",
+    "HxQjagSTTAM:p13"
+   ]
+  },
+  {
+   "text": "He has size, an interesting frame and scoring upside. He scored a lot and rebounded well before the NBA.",
    "kind": "verdict",
    "date": "2026-06-26",
    "until": "",
@@ -92,33 +149,41 @@
    ]
   },
   {
-   "text": "Before the NBA he scored in high volume and rebounded well.",
-   "kind": "fact",
-   "date": "2026-06-22",
+   "text": "He could be a decent rebounder.",
+   "kind": "verdict",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "HxQjagSTTAM:p13"
+    "sDzeYdUhJDI:p35"
    ]
   },
   {
-   "text": "He has size, an interesting frame and scoring upside.",
+   "text": "Experts doubt his steals, blocks, passing and usage. His block numbers are low for his size.",
    "kind": "verdict",
-   "date": "2026-06-26",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "CLsUc0Sevos:p29",
+    "sDzeYdUhJDI:p35",
+    "HxQjagSTTAM:p13",
+    "LUTYUdXBG1M:p18"
+   ]
+  },
+  {
+   "text": "He might be an okay defender.",
+   "kind": "verdict",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
     "-rgXhs5BHiw:p6"
    ]
   },
   {
-   "text": "He might be an okay defender, but experts want more blocks from him than he has shown.",
-   "kind": "verdict",
-   "date": "2026-07-23",
+   "text": "He had a back injury during summer league.",
+   "kind": "fact",
+   "date": "2026-08-02",
    "until": "",
    "sources": [
-    "-rgXhs5BHiw:p6",
-    "HxQjagSTTAM:p13",
-    "LUTYUdXBG1M:p18"
+    "TOn-D1SV7a8:p14"
    ]
   }
  ],
@@ -126,7 +191,7 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "13th overall pick by the Bucks in 2026",
+   "detail": "13th pick of the 2026 draft",
    "until": "",
    "sources": [
     "CLsUc0Sevos:p29",
@@ -135,17 +200,71 @@
    "new_meaning": ""
   },
   {
-   "name": "minutes competition",
+   "name": "injured now",
    "channel": "current",
-   "detail": "Not in the projected starting five; experts see a weak path to minutes",
+   "detail": "Yahoo status Q (ankle)",
    "until": "",
    "sources": [
-    "TOn-D1SV7a8:p14",
-    "owlM6b8oUd0:t2"
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "ankle",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "Taylor Jenkins",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t2",
+    "-KS_AZjZnw4:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Jenkins might use a deep rotation",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "experts cannot read the Bucks rotation",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t0",
+    "WXO8MfQfzo0:t0",
+    "OdDkXFhoKsc:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "win total 26.5, about 33 wins expected",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:t4",
+    "sfCe7fS9daM:t8",
+    "Rqb5GdrSweY:t0"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both sites price him at 0 USD and rank him 689 (Yahoo) and 294 (ESPN). That is far outside the 144 players our league drafts, so do not draft him. His projected line is weak: 8 points on 42.6% FG and no category with a real edge (blocks are only about average). Early in the season, check whether Taylor Jenkins gives him minutes at power forward, which a team note calls Milwaukee's weakest position. If he gets those minutes, keep an eye on him as a waiver option.",
+ "note": "Ament is not a pick in our league. Yahoo ranks him 713 and ESPN 293, both value him at 0 USD, and his projected line is below the pool in almost every category. Yahoo projects about 10 points on 8.7 shots and ESPN about 6 points in under 18 minutes, but the experts doubt his shooting and his path to minutes. Leave him on waivers and check later in the season whether the Bucks' turn toward young players gives him a real role.",
  "rejected": []
 }

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 257 | 0 | 0.0 | 193 | not drafted |
+| 2026-27 | 0 | - | 257 | 0 | 0.0 | 195 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,31 +20,31 @@
 | FG% | 44.9% | -0.3 | -0.0 | - |
 | FT% | 75.9% | -0.1 | -0.3 | - |
 | 3PM | 1.3 | -0.2 | -0.5 | - |
-| PTS | 6.5 | -1.3 | -1.3 | - |
+| PTS | 6.5 | -1.3 | -1.4 | - |
 | REB | 2.0 | -1.3 | -1.4 | - |
 | AST | 1.1 | -1.1 | -1.3 | - |
-| STL | 1.1 | +0.7 | +0.5 | - |
+| STL | 1.1 | +0.6 | +0.5 | - |
 | BLK | 0.6 | +0.1 | +0.6 | - |
-| TO | 0.6 | +1.4 | +1.4 | - |
+| TO | 0.6 | +1.4 | +1.5 | - |
 
 </details>
 
 **Current**
-- He is projected as Brooklyn's sixth man, the first name in a bench rotation with Noah Clowney, Mo Wagner, Danny Wolf and Nolan Traore. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1117), [09-26](https://youtu.be/3UGI05PDvrE?t=1156))
-- He needs about 27 minutes a game to matter in 12-team category leagues. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1117), [07-02](https://youtu.be/P6TNP-g0wzY?t=1332))
-- Treat him as a stash, not a must-roster player. Do not target him aggressively. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1117))
-- Brooklyn does not own its pick and has young players with a case for minutes. Minutes may shift to Minott, Clowney, Brown and Demin in the second half, so his role around the fantasy playoffs is uncertain. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [08-21](https://youtu.be/uRsfijpBPok?t=276))
-- Brooklyn plays 3-4-3 games in our playoff weeks (season ending March 28) and has 16 back-to-backs, tied for the most in the league. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
-- He signed with Brooklyn for 2 years and 18 million as veteran depth. One note describes it as a mutual option deal. (fact, 2026-08-21; [07-02](https://youtu.be/P6TNP-g0wzY?t=1332), [08-21](https://youtu.be/uRsfijpBPok?t=217))
+- Brooklyn is projected to be one of the worst teams. Slater predicts about 28 wins. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=177), [08-21](https://youtu.be/uRsfijpBPok?t=1754))
+- He is projected as Brooklyn's sixth man, in a bench rotation with Noah Clowney, Mo Wagner, Danny Wolf and Nolan Traore. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1117), [09-26](https://youtu.be/3UGI05PDvrE?t=1156))
+- He needs about 27 minutes a game to matter in 12-team category leagues. Treat him as a stash or a late flyer, not a must-roster player, and do not target him aggressively. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1117), [07-02](https://youtu.be/P6TNP-g0wzY?t=1332))
+- Houston controls Brooklyn's pick, so the Nets have no reason to tank. They are also running a development season, so second-half minutes could shift to young players like Minott, Clowney, Brown and Demin. That makes March minutes uncertain for veteran depth. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [08-21](https://youtu.be/uRsfijpBPok?t=1014), [08-21](https://youtu.be/uRsfijpBPok?t=276), [08-26](https://youtu.be/sTtFUy7IoJI?t=1170))
+- Brooklyn has 16 back-to-backs, tied with Boston for the most in the league. With a March 28 end, its playoff schedule is 3-4-3 (10 games) with only one back-to-back in the playoff weeks. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
+- He signed with Brooklyn for 2 years and 18 million as veteran depth. The deal includes a mutual option. (fact, 2026-08-21; [07-02](https://youtu.be/P6TNP-g0wzY?t=1332), [08-21](https://youtu.be/uRsfijpBPok?t=217))
 - He can give capable minutes if Brooklyn asks him to start. (verdict, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=217))
 
 **Durable**
-- He is a low-usage wing. His fantasy value comes from steals and few turnovers. He adds little in points, rebounds and assists. (fact, 2026-10-04; stats)
+- He is a low-usage wing. He brings few turnovers and solid steals, but low points, rebounds and assists. (fact, 2026-10-11; stats)
 
 **Tags**
-- Current: `new team` (Signed with Brooklyn, 2 years and 18 million), `waiver watch` (Stash type. Worth adding only if he reaches about 27 minutes off the bench), `minutes competition` (Young Nets (Minott, Clowney, Brown, Demin) may take minutes in the second half)
+- Current: `new team` (Signed with Brooklyn in free agency, 2 years and 18 million), `waiver watch` (Projected sixth man. Worth adding only if he reaches about 27 minutes a game), `deep rotation` (Many young Nets players have a case for second-unit minutes), `bottom team` (About 28 projected wins), `many back-to-backs` (16 back-to-backs, tied for the most in the league)
 - Durable: none
 
-**Note.** He ranks 257th on Yahoo and 193rd on ESPN, both sites value him at 0 USD, and he went undrafted in our league. That puts him outside the 144 players we draft, so leave him for waivers. Early in the season, check whether he gets close to the 27 minutes the experts set as his threshold. In 24.4 minutes in 2024-25 he averaged 1.5 steals and only 0.9 turnovers, so a bigger role would make him a useful steals and low-TO streamer.
+**Note.** Both sites value him at 0 USD (Yahoo rank 257, ESPN rank 195), so he is well outside the 144 players our league drafts. Leave him on waivers. ESPN projects him for 21 minutes, well short of the roughly 27 he needs to matter. Early in the season, check whether he moves into a starting role or close to 27 minutes. If he does, his steals and low turnovers make him a useful filler for any build.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

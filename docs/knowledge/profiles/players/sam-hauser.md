@@ -11,40 +11,41 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 181 | 0 | 0.0 | 167 | not drafted |
+| 2026-27 | 0 | - | 192 | 0 | 0.0 | 169 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 43.0% | -0.7 | -0.7 | - |
+| FG% | 43.0% | -0.7 | -0.8 | - |
 | FT% | 87.5% | +0.1 | +0.2 | - |
 | 3PM | 2.6 | +1.2 | +1.4 | - |
 | PTS | 9.4 | -0.8 | -0.8 | - |
-| REB | 3.8 | -0.6 | -0.6 | - |
+| REB | 3.8 | -0.6 | -0.7 | - |
 | AST | 1.4 | -0.9 | -0.9 | - |
-| STL | 0.6 | -1.1 | -1.2 | - |
-| BLK | 0.3 | -0.6 | -0.6 | - |
+| STL | 0.6 | -1.2 | -1.2 | - |
+| BLK | 0.3 | -0.6 | -0.7 | - |
 | TO | 0.4 | +1.6 | +1.6 | - |
 
 </details>
 
 **Current**
-- The newest Boston preview projects him in the bench rotation, with Baylor Scheierman starting. The same expert says he still has a chance to start. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1288), [09-25](https://youtu.be/Bi1cEM03k9Y?t=848))
-- Boston is very deep, with at least 12 rotation-level players. In a 10-man rotation some of them will miss out most nights. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133))
-- He finished 282nd in category leagues last season. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1288))
-- His Yahoo ADP of 102 is far too high. He is a deep-league option only. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1288))
+- The newest Boston preview projects him as a bench rotation player behind starter Baylor Scheierman, but says he has a chance to start. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1288), [09-25](https://youtu.be/Bi1cEM03k9Y?t=848))
+- Boston is very deep, with at least 12 rotation-level players, so bench minutes are crowded. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133))
+- His Yahoo ADP of about 102 is far too high. He is a deep-league player only. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1288))
+- Boston plays 4, 3 and 4 games in our playoff weeks 19 to 21, one game short of the maximum. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1816))
+- If he starts, his role is catch-and-shoot next to Derrick White. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=534))
+- Boston is expected to keep a high three-point volume, with four shooters around a big in the dunker spot. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=1149))
 
 **Durable**
-- Threes and low turnovers are his only categories clearly above the pool. Steals, assists, points and FG% are below it, and he takes so few free throws that his FT% barely matters. (fact, 2026-10-04; stats)
-- He is a deep-league rotation player who hits a lot of threes and offers little else. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1317))
-- He is a veteran catch-and-shoot player who shoots about 40% from three and does not try to do too much. (fact, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=542))
-- His three-point shooting is streaky. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=542))
+- His value comes from threes and very few turnovers. He is below average in points, rebounds, assists, steals and blocks, and his FG% is a little low. (fact, 2026-10-11; stats)
+- He is a rotation player who makes a lot of threes and offers little else. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1317))
+- He is a veteran catch-and-shoot player who shoots about 40% from three but is streaky, and he does not try to do too much. (fact, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=542))
 
 **Tags**
-- Current: `minutes competition` (Competes with Baylor Scheierman for the starting wing spot next to Derrick White on a deep roster), `bust candidate` (Yahoo ADP 102 called ridiculous)
-- Durable: `needs playmaker` (Catch-and-shoot role, not a self-creator), `plays every game` (71 to 79 games in each of the last three seasons)
+- Current: `minutes competition` (Competes with Baylor Scheierman for the starting wing spot), `deep rotation` (At least 12 rotation-level players in Boston), `three-point heavy` (Four shooters around a big), `waiver watch` (Deep-league player only; watch whether he wins the starting job)
+- Durable: `3PM from a big` (About 2.6 threes per game as a forward), `streaky` (Three-point shooting runs hot and cold), `needs playmaker` (Catch-and-shoot role), `plays every game` (71 to 79 games in each of the last three seasons)
 
-**Note.** Yahoo and ESPN both value him at 0 USD and rank him 181 and 167, outside the 144 players our league drafts, and the expert calls him a deep-league player only. He is not a draft target. His only uses are threes and very few turnovers, and his FG% (43.0% projected) and empty steals, assists and points cost a 12-team roster. Early in the season, check whether he starts over Baylor Scheierman. Even then he is at most a short-term 3PM streamer from waivers.
+**Note.** At Yahoo rank 192 and ESPN rank 169, with a 0 USD value on both sites, he falls outside the 144 players drafted in our league and should not cost an auction dollar. He gives you threes and almost no turnovers, but he does not help in steals, assists or points, so treat him only as a waiver option when a team needs threes. Early in the season, check whether he or Scheierman starts and whether his minutes go above the 24.8 he played last season.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 21 | 11.4 | 50 | 7 | 7.6 | 65 | 26 |
+| 2026-27 | 21 | 10.2 | 50 | 6 | 8.3 | 68 | 26 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,7 +20,7 @@
 | FG% | 47.9% | +0.0 | +0.1 | - |
 | FT% | 84.8% | +1.3 | +1.5 | - |
 | 3PM | 1.6 | +0.1 | +0.1 | - |
-| PTS | 23.4 | +1.6 | +1.8 | - |
+| PTS | 23.4 | +1.6 | +1.7 | - |
 | REB | 5.7 | +0.3 | +0.3 | - |
 | AST | 4.2 | +0.5 | +1.1 | - |
 | STL | 1.2 | +0.8 | +0.8 | - |
@@ -30,26 +30,26 @@
 </details>
 
 **Current**
-- In an auction mock, Josh valued Wagner at 11 to 15 USD. He went for 15 USD, which Josh called about right. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3630))
-- In snake drafts he goes around picks 54 to 60. Experts took him in round 6 and called picks 47 and 49 a bit early. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1176), [09-15](https://youtu.be/KPdD91Oo8-U?t=1004), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767), [08-24](https://youtu.be/g31YlwRe0XQ?t=926))
-- His draft price has fallen because of his injury history. (fact, 2026-09-14; [08-11](https://youtu.be/OdDkXFhoKsc?t=1241), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767))
-- Last season was hurt by an ankle injury and lower minutes. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767), [08-01](https://youtu.be/FEcNjVRlj-U?t=1179))
-- His upside this season is about top 40, not top 30. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767))
+- Orlando has a new head coach, Sean Sweeney, so roles may change. (fact, 2026-10-08; [08-01](https://youtu.be/FEcNjVRlj-U?t=359), [10-08](https://youtu.be/6DnRWahYrFA?t=1672))
+- Experts see him as a top 35 to 60 player this season. His upside is about top 40. He only reaches top 30 if Paolo Banchero gets hurt. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=2133), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767))
+- His main downside this season is his own injury risk. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=2133))
+- In auction terms he is worth about 11 to 15 USD. 15 USD is about right. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3630))
+- His draft slot is about round 6. Picks 47 to 49 are a bit early for him. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1176), [09-15](https://youtu.be/KPdD91Oo8-U?t=1004), [08-24](https://youtu.be/g31YlwRe0XQ?t=926))
+- He is going around picks 54 to 60 in drafts. He has fallen because of injury. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767), [08-11](https://youtu.be/OdDkXFhoKsc?t=1241))
+- A high ankle sprain and lower minutes hurt his last season. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767), [08-01](https://youtu.be/FEcNjVRlj-U?t=1179))
 - He is a projected starter next to Suggs, Bane, Banchero and Carter. That group was very good when it played together. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
-- Orlando has a new head coach, Sean Sweeney, so roles may change. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
-- Phil projects Orlando for 47 or 48 wins and the 6th seed. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2156))
+- Orlando is projected to win 47 or 48 games and finish as the 6th seed. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2156))
 
 **Durable**
-- He has no single standout category but is good across the board. FT%, points and assists for a forward are his best areas. (verdict, 2026-10-05; [09-10](https://youtu.be/dlo7L8Ru91A?t=1328), stats)
-- He has had two seasons badly shortened by injury, each after a poor shooting season. In 2025-26 he missed about 47 to 51 games with a high ankle sprain from a contact injury. (fact, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1328), [08-01](https://youtu.be/FEcNjVRlj-U?t=1179))
+- He has no single standout strength but is good across the board. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1328))
+- He has had two seasons badly hurt by injury. Last season he missed about 47 to 51 games with a high ankle sprain from a contact injury. Before those seasons he was usually reliable and played through ankle rolls. (fact, 2026-09-10; [08-01](https://youtu.be/FEcNjVRlj-U?t=1179), [09-10](https://youtu.be/dlo7L8Ru91A?t=1328))
 - He is probably better in category leagues than in points leagues. (verdict, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=926))
-- Before those two seasons he was usually reliable and played through ankle rolls. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1179))
-- Phil sees the injuries of the last two years as random, not chronic. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1179))
+- Phil sees the injuries of the last two years as random, not a chronic problem. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1179))
 
 **Tags**
-- Current: `injury last season` (high ankle sprain, about 47 to 51 games missed), `sites disagree on price` (Yahoo value 21 USD, ESPN value 7 USD), `new coach` (Sean Sweeney replaces Jamahl Mosley), `winning team` (Phil projects 47 or 48 wins, 6th seed)
+- Current: `injury last season` (high ankle sprain, missed about 47 to 51 games), `usage competition` (shares the ball with Paolo Banchero), `new coach` (Sean Sweeney replaces Jamahl Mosley), `winning team` (projected 47 or 48 wins, 6th seed), `sites disagree on price` (Yahoo value 21 USD, ESPN value 6 USD)
 - Durable: `fits every build` (no weak category; good across the board), `category league player`
 
-**Note.** The sites disagree on his price: Yahoo values him at 21 USD (11.4 USD average cost) and ESPN at 7 USD. He went for 26 USD in our league last season, and Josh's 11 to 15 USD range fits his current rank of about 50 to 65. He has no weak category, so he fits any build. His best areas are FT% (z +1.3), points and assists for a forward, which makes him a solid mid-tier piece in the 15 USD range rather than a reach at last season's price. Early in the season, check how his ankle holds up and whether new coach Sweeney gives him his old 33 to 34 minutes, not the 30.0 he played last season.
+**Note.** Wagner went for 26 USD in our league last season. The market now sits near 8 to 10 USD (Yahoo average cost 10.2 USD, ESPN 8.3 USD), and experts put his value at 11 to 15 USD, so spending above 20 USD means paying for top 30 upside that the experts do not see. He has no weak category (his best are points and FT%, with a projected 84.8% on about 6 attempts), so he fits any build as a steady across-the-board forward. Early in the season, check his ankle and whether his usage holds next to Banchero under new coach Sweeney.
 
-<sub>8 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>9 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

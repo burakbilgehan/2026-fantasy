@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "29a10a5b0ea0",
+ "input_sha": "d96331eb615c",
  "note_count": 3,
- "built_at": "2026-10-04T17:43:29+00:00",
+ "built_at": "2026-10-11T09:21:20+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1487596,
-  "duration_ms": 28180
+  "cost_usd_list": 0.1432822,
+  "duration_ms": 31834,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He signed with Brooklyn on a mutual option deal as veteran depth.",
+   "text": "Brooklyn signed him on a mutual option deal as veteran depth.",
    "kind": "fact",
    "date": "2026-08-21",
    "until": "",
@@ -29,35 +31,25 @@
    ]
   },
   {
-   "text": "He is projected as Brooklyn's backup center, behind starter Day'Ron Sharpe.",
+   "text": "He is projected as the backup center behind Day'Ron Sharpe. The projected bench rotation includes three big men: Wagner, Noah Clowney and Danny Wolf.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
    "sources": [
     "3UGI05PDvrE:p31",
     "3UGI05PDvrE:t1",
-    "3UGI05PDvrE:t2"
+    "3UGI05PDvrE:t2",
+    "uRsfijpBPok:t1"
    ]
   },
   {
-   "text": "Experts expect a messy split of center minutes with Sharpe and Danny Wolf.",
+   "text": "Brooklyn's center minutes are expected to be split, mainly with Sharpe and possibly in a messy three-way split that includes Danny Wolf.",
    "kind": "verdict",
    "date": "2026-08-21",
    "until": "",
    "sources": [
     "uRsfijpBPok:p13",
     "P6TNP-g0wzY:t7"
-   ]
-  },
-  {
-   "text": "Brooklyn does not own its pick and may give second-half minutes to young players like Clowney and Minott. That puts a veteran backup's March minutes at risk.",
-   "kind": "verdict",
-   "date": "2026-09-26",
-   "until": "",
-   "sources": [
-    "3UGI05PDvrE:t0",
-    "3UGI05PDvrE:t3",
-    "LM0cRCGoAUQ:t7"
    ]
   },
   {
@@ -68,20 +60,45 @@
    "sources": [
     "P6TNP-g0wzY:p31"
    ]
+  },
+  {
+   "text": "Brooklyn may give more frontcourt minutes to young players like Clowney and Josh Minott in the second half of the season, which makes March minutes for veterans uncertain.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t0",
+    "3UGI05PDvrE:t3",
+    "uRsfijpBPok:t2",
+    "sTtFUy7IoJI:t4"
+   ]
+  },
+  {
+   "text": "Brooklyn is projected to be one of the worst teams, at about 28 wins. It does not own its pick, so it has no reason to tank.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t8",
+    "uRsfijpBPok:t4",
+    "3UGI05PDvrE:t0",
+    "dlo7L8Ru91A:t3"
+   ]
+  },
+  {
+   "text": "Brooklyn has 16 back-to-backs, tied for the most in the league. With a March 28 end, its playoff schedule is 3-4-3, so 10 games over weeks 19 to 21, with one playoff back-to-back.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t4",
+    "gf_6GveiAls:t1"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He is an efficient, high-usage backup big.",
-   "kind": "verdict",
-   "date": "2026-07-02",
-   "until": "",
-   "sources": [
-    "P6TNP-g0wzY:p31"
-   ]
-  },
-  {
-   "text": "He cannot handle a role of 20 or more minutes a night.",
+   "text": "He is an efficient, high-usage backup big who cannot handle 20-plus minutes a game.",
    "kind": "verdict",
    "date": "2026-07-02",
    "until": "",
@@ -94,18 +111,19 @@
   {
    "name": "new team",
    "channel": "current",
-   "detail": "Signed with Brooklyn on a mutual option deal",
+   "detail": "Signed with Brooklyn in free agency on a mutual option deal",
    "until": "",
    "sources": [
     "uRsfijpBPok:p13",
-    "P6TNP-g0wzY:t7"
+    "P6TNP-g0wzY:t7",
+    "4GDfg2n2l8o:t4"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Splits center minutes with Day'Ron Sharpe and Danny Wolf",
+   "detail": "Backs up Day'Ron Sharpe and shares center minutes with Sharpe and Danny Wolf",
    "until": "",
    "sources": [
     "uRsfijpBPok:p13",
@@ -115,17 +133,50 @@
    "new_meaning": ""
   },
   {
-   "name": "shutdown risk",
+   "name": "deep rotation",
    "channel": "current",
-   "detail": "Brooklyn may move March minutes to young players",
+   "detail": "Many young Brooklyn players compete for frontcourt and bench minutes",
    "until": "",
    "sources": [
-    "3UGI05PDvrE:t0",
-    "3UGI05PDvrE:t3"
+    "uRsfijpBPok:t2",
+    "3UGI05PDvrE:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "About 28 projected wins",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t8",
+    "uRsfijpBPok:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "16 back-to-backs, tied for most in the league",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t4",
+    "gf_6GveiAls:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "3-4-3, only 10 games in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t4",
+    "gf_6GveiAls:t1"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both sites price him at 0 USD (Yahoo rank 406, ESPN rank 303). That is far outside the 144 players our league drafts, so do not spend a pick on him. He only matters if he wins a bigger share of the Sharpe and Wolf center split. Early in the season, watch whether Sharpe actually starts and whether Wagner gets close to 20 minutes.",
+ "note": "Wagner is outside the top 144 on both sites (Yahoo rank 406, ESPN rank 304, 0 USD everywhere). Projections give him only about 9 points and 4 rebounds in roughly 13 minutes, and the experts call him not draftable, so skip him in our auction. Early in the season, check whether Sharpe really starts and how Brooklyn splits center minutes. He only matters as a short-term pickup if Sharpe misses time.",
  "rejected": []
 }

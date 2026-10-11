@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "5db9403a874b",
+ "input_sha": "4590d1071dd9",
  "note_count": 10,
- "built_at": "2026-10-04T17:32:29+00:00",
+ "built_at": "2026-10-11T09:17:11+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.255415,
-  "duration_ms": 60042
+  "cost_usd_list": 0.2836972,
+  "duration_ms": 65052,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Charlotte got him from Phoenix in a trade, along with Royce O'Neale, for Miles Bridges.",
+   "text": "Phoenix traded him to Charlotte in the Miles Bridges deal.",
    "kind": "fact",
    "date": "2026-07-07",
    "until": "",
@@ -30,38 +32,28 @@
    ]
   },
   {
-   "text": "He is projected as Charlotte's sixth man. The projected starters are White, Knueppel, Miller, Reid and Diabaté.",
+   "text": "He is projected as Charlotte's sixth man. He moves into the starting lineup while Kon Knueppel is out.",
    "kind": "fact",
    "date": "2026-09-27",
    "until": "",
    "sources": [
     "CRLSsoGhb2w:p19",
     "CRLSsoGhb2w:t3",
-    "KPdD91Oo8-U:p28"
-   ]
-  },
-  {
-   "text": "He starts while Kon Knueppel is out.",
-   "kind": "fact",
-   "date": "2026-09-27",
-   "until": "Knueppel returns",
-   "sources": [
-    "CRLSsoGhb2w:p19",
-    "CRLSsoGhb2w:t3"
-   ]
-  },
-  {
-   "text": "He would also start if Brandon Miller misses games, but the expert is not sure that will happen.",
-   "kind": "verdict",
-   "date": "2026-09-15",
-   "until": "",
-   "sources": [
-    "KPdD91Oo8-U:p28",
     "KPdD91Oo8-U:t3"
    ]
   },
   {
-   "text": "His role should be smaller than it was in Phoenix. He could still get about 27 minutes off the bench.",
+   "text": "Kon Knueppel is hurt and Coby White is out with a calf injury, so Charlotte is short on healthy players to start the season.",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "BiIZsSypx7Y:t4",
+    "6DnRWahYrFA:t6"
+   ]
+  },
+  {
+   "text": "His role should be smaller than it was in Phoenix. He could still play about 27 minutes off the bench.",
    "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
@@ -72,7 +64,7 @@
    ]
   },
   {
-   "text": "His shot volume should drop from last season's high level. Experts expect better efficiency, and his FG% could bounce back. He should help as a secondary creator off the bench.",
+   "text": "His shot volume should drop from last season's unusually high level, but his efficiency should improve. He should help as a secondary creator off the bench.",
    "kind": "verdict",
    "date": "2026-07-21",
    "until": "",
@@ -82,30 +74,50 @@
    ]
   },
   {
-   "text": "Experts disagree on his draft value. The newest call says Yahoo ranks him too low at 160. It puts him at 100 to 115 (rounds 10 to 11) as a late-round swing, but says not to boost him much. Other experts see a low ceiling and would not draft him.",
+   "text": "The experts disagree on his draft value. One ranks him around 100 to 115 (rounds 10 to 11) as a late-round swing, but says not to push his price much. Others would not draft him and see a low ceiling unless a starter like Brandon Miller misses games.",
    "kind": "verdict",
    "date": "2026-09-27",
    "until": "",
    "sources": [
     "CRLSsoGhb2w:p19",
     "KPdD91Oo8-U:p28",
-    "W-R1dzem32s:p54",
-    "Rqb5GdrSweY:p36"
+    "W-R1dzem32s:p54"
    ]
   },
   {
-   "text": "With a March 28 end, Charlotte plays 4, 3 and 4 games in our playoff weeks. It has only 13 back-to-backs, the league minimum.",
+   "text": "Charlotte plays 4, 3 and 4 games in our playoff weeks 19 to 21. The team has only 13 back-to-backs, the league minimum.",
    "kind": "fact",
    "date": "2026-09-27",
    "until": "",
    "sources": [
     "CRLSsoGhb2w:t5"
    ]
+  },
+  {
+   "text": "Charlotte plans to space the floor and take a lot of threes. Playmaking will be shared across several players.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:t0",
+    "EB1Z_6n56-o:t3",
+    "CRLSsoGhb2w:t1"
+   ]
+  },
+  {
+   "text": "Charlotte has a deep roster and projects as a play-in team.",
+   "kind": "verdict",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t4",
+    "EB1Z_6n56-o:t6"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He can play the two, three and four and can handle the ball.",
+   "text": "He can play shooting guard, small forward and power forward, and he can handle the ball.",
    "kind": "fact",
    "date": "2026-09-10",
    "until": "",
@@ -114,16 +126,17 @@
    ]
   },
   {
-   "text": "He plays bigger than his size and drives downhill, and that has worn his body down.",
+   "text": "He plays bigger than his size and drives downhill. He has had soft tissue problems.",
    "kind": "fact",
-   "date": "2026-08-23",
+   "date": "2026-09-27",
    "until": "",
    "sources": [
-    "hm5-fiCa5S4:p27"
+    "hm5-fiCa5S4:p27",
+    "CRLSsoGhb2w:p20"
    ]
   },
   {
-   "text": "He is older, has soft tissue problems and carries injury risk. One expert thinks he has peaked and is on the back nine of his career.",
+   "text": "Age and wear make him an injury risk. He has likely peaked and is entering the late part of his career.",
    "kind": "verdict",
    "date": "2026-09-27",
    "until": "",
@@ -133,9 +146,9 @@
    ]
   },
   {
-   "text": "Most of his value comes from threes, with small help in FT% and steals. His FG% is weak for his position.",
+   "text": "Threes are his best category. His FG% is weak for his position, so he fits punt FG% builds.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
@@ -146,7 +159,7 @@
   {
    "name": "new team",
    "channel": "current",
-   "detail": "traded from Phoenix to Charlotte",
+   "detail": "Traded from Phoenix to Charlotte",
    "until": "",
    "sources": [
     "W3THnI7wWdA:p10",
@@ -157,7 +170,7 @@
   {
    "name": "role down",
    "channel": "current",
-   "detail": "sixth man in Charlotte, smaller role than in Phoenix",
+   "detail": "Bench role in Charlotte, smaller than in Phoenix",
    "until": "",
    "sources": [
     "W3THnI7wWdA:p10",
@@ -169,19 +182,19 @@
   {
    "name": "handcuff",
    "channel": "current",
-   "detail": "starts while Knueppel is out, also if Miller misses games",
-   "until": "Knueppel returns",
+   "detail": "Starts while Kon Knueppel is out, and would start if Brandon Miller misses games",
+   "until": "",
    "sources": [
     "CRLSsoGhb2w:p19",
-    "CRLSsoGhb2w:t3",
-    "KPdD91Oo8-U:p28"
+    "KPdD91Oo8-U:p28",
+    "KPdD91Oo8-U:t3"
    ],
    "new_meaning": ""
   },
   {
-   "name": "sleeper",
+   "name": "flyer",
    "channel": "current",
-   "detail": "one expert ranks him 100 to 115, well above Yahoo; others would not draft him",
+   "detail": "Late-round swing ranked 100 to 115 by one expert",
    "until": "",
    "sources": [
     "CRLSsoGhb2w:p19"
@@ -191,7 +204,7 @@
   {
    "name": "punt FG fit",
    "channel": "durable",
-   "detail": "projected about 42% FG on about 10.6 attempts",
+   "detail": "",
    "until": "",
    "sources": [
     "stats"
@@ -201,18 +214,18 @@
   {
    "name": "age decline watch",
    "channel": "durable",
-   "detail": "body worn down by downhill play, seen as past his peak",
+   "detail": "Older, body worn down by a downhill style",
    "until": "",
    "sources": [
-    "hm5-fiCa5S4:p27",
-    "CRLSsoGhb2w:p20"
+    "CRLSsoGhb2w:p20",
+    "hm5-fiCa5S4:p27"
    ],
    "new_meaning": ""
   },
   {
    "name": "injury prone",
    "channel": "durable",
-   "detail": "soft tissue problems",
+   "detail": "Soft tissue problems",
    "until": "",
    "sources": [
     "CRLSsoGhb2w:p20"
@@ -222,14 +235,46 @@
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "Charlotte has 13, the league minimum",
+   "detail": "13 back-to-backs, the league minimum",
    "until": "",
    "sources": [
     "CRLSsoGhb2w:t5"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "three-point heavy",
+   "channel": "current",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "shared ball handling",
+   "channel": "current",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:t3",
+    "CRLSsoGhb2w:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t4",
+    "EB1Z_6n56-o:t6"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Yahoo ranks him 187 and ESPN 157, and both value him at 0 USD. That puts him outside our 144 drafted players, so at most he is a 1 USD late pick in a punt FG% build that wants threes, FT% and some steals. In the first weeks, check how many minutes he gets while Knueppel is out and whether his FG% recovers from last season's 40.3% on lower volume. If he plays about 27 minutes as a starter, pick him up off waivers.",
+ "note": "Yahoo ranks him 177 and ESPN 158, and both value him near 0 USD, so in a 144-player draft he is a 1 USD last-round pick at most. Even the most positive expert call (100 to 115) comes with a warning not to push his price. He fits punt FG% builds that want threes, and his projected 2.7 threes per game are the reason to take him. Early in the season, check whether he starts while Knueppel and White are out, and whether his FG% gets back above the 40.3% he shot last season. If neither happens, he is a quick drop.",
  "rejected": []
 }

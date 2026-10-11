@@ -11,45 +11,46 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 26 | 10.2 | 36 | 43 | 18.8 | 17 | 30 |
+| 2026-27 | 25 | 14.9 | 39 | 42 | 19.8 | 18 | 30 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 41.2% | -1.7 | -1.9 | league outlier, weak, weak for his position (punt fit) |
+| FG% | 41.2% | -1.7 | -2.0 | league outlier, weak, weak for his position (punt fit) |
 | FT% | 89.0% | +0.9 | +0.7 | - |
 | 3PM | 2.9 | +1.6 | +1.3 | - |
-| PTS | 16.6 | +0.5 | +0.4 | - |
+| PTS | 16.6 | +0.4 | +0.3 | - |
 | REB | 4.4 | -0.3 | +0.4 | - |
 | AST | 5.3 | +1.1 | +0.7 | - |
 | STL | 1.1 | +0.4 | +0.1 | - |
 | BLK | 1.2 | +1.2 | +3.7 | - |
-| TO | 1.7 | -0.1 | +0.0 | - |
+| TO | 1.7 | -0.1 | +0.1 | - |
 
 </details>
 
 **Current**
-- In auctions, Josh values him in the mid 20s USD. He calls a 14 USD price an unbelievable steal. His average auction cost sits well below his projected value. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3389), [09-29](https://youtu.be/XnIWJyBB0EM?t=2110))
-- Experts value him around 40 to 50 in category leagues, roughly a round 4 player. They call picks 31 to 35 a little early. They call ESPN's rank of 16 to 17 absurd and see him as a bust at that price. (verdict, 2026-09-30; [09-25](https://youtu.be/Bi1cEM03k9Y?t=657), [09-30](https://youtu.be/BjXP9JODDSg?t=583), [09-19](https://youtu.be/uarqbNA2dFk?t=1472), [08-11](https://youtu.be/OdDkXFhoKsc?t=749), [09-09](https://youtu.be/7BllEsdNLoM?t=1713), [09-22](https://youtu.be/QbdrhJd7LiA?t=560), [09-22](https://youtu.be/QbdrhJd7LiA?t=1548))
-- Boston has 16 back-to-backs, tied for the most in the league, with three in our playoff window. Experts say this mainly affects Paul George and Mitchell Robinson. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1837), [08-16](https://youtu.be/gf_6GveiAls?t=901))
-- Derrick White is projected to start at guard for Boston next to Jayson Tatum and Paul George. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [07-30](https://youtu.be/TiiaNZCJNs8?t=472))
-- Jaylen Brown has left Boston. Paul George is the clear number two option behind Tatum, so White is the third option. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=643), [08-19](https://youtu.be/J1Eg3uaAICU?t=1755), [08-30](https://youtu.be/Alwse2uXzD4?t=1671), [09-17](https://youtu.be/DubdKKhMWHo?t=1644))
-- Experts expect his usage and time on the ball to drop as the third option. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=643), [09-22](https://youtu.be/QbdrhJd7LiA?t=560), [09-22](https://youtu.be/QbdrhJd7LiA?t=1548), [09-09](https://youtu.be/7BllEsdNLoM?t=1713))
-- Experts expect his FG% to improve. He should get more catch-and-shoot looks, and Tatum and George share the ball more than Brown did. (verdict, 2026-09-25; [07-30](https://youtu.be/TiiaNZCJNs8?t=1615), [07-07](https://youtu.be/ME-r173X5b0?t=2139), [09-19](https://youtu.be/uarqbNA2dFk?t=1472), [09-25](https://youtu.be/Bi1cEM03k9Y?t=625), [09-09](https://youtu.be/7BllEsdNLoM?t=1713), [07-16](https://youtu.be/-y6p5PYLf00?t=1544))
-- Boston plays 4, 3 and 4 games in our playoff weeks 19 to 21. That is one game short of the maximum. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1816))
-- Experts see Boston as a better regular-season team than last year. Karalis predicts 48 wins. (verdict, 2026-09-25; [07-30](https://youtu.be/TiiaNZCJNs8?t=2194), [09-25](https://youtu.be/Bi1cEM03k9Y?t=191), [07-07](https://youtu.be/ME-r173X5b0?t=2186), [07-02](https://youtu.be/P6TNP-g0wzY?t=272))
-- Josh thinks lower usage and age will cancel out the better shooting, so he does not expect much overall improvement. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=560), [09-22](https://youtu.be/QbdrhJd7LiA?t=1548))
+- Jaylen Brown is gone from Boston. Jayson Tatum and Paul George are on the team, and George is the clear number two option behind Tatum. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1181), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1188), [10-06](https://youtu.be/eTsjuVu1trk?t=1262), [09-22](https://youtu.be/QbdrhJd7LiA?t=560), [08-30](https://youtu.be/Alwse2uXzD4?t=1671), [08-19](https://youtu.be/J1Eg3uaAICU?t=1755))
+- He has played in the preseason. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1181))
+- Experts expect his usage and time on the ball to drop because he moves from second option to third option behind Tatum and George. (verdict, 2026-10-06; [09-25](https://youtu.be/Bi1cEM03k9Y?t=643), [10-06](https://youtu.be/eTsjuVu1trk?t=784), [10-06](https://youtu.be/eTsjuVu1trk?t=1262), [09-22](https://youtu.be/QbdrhJd7LiA?t=1548), [09-09](https://youtu.be/7BllEsdNLoM?t=1713))
+- One expert expects him to play under 34 minutes per game. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=784))
+- In auctions, Josh values him in the mid 20s. He calls a 14 USD price an unbelievable steal. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3389), [09-29](https://youtu.be/XnIWJyBB0EM?t=2110))
+- In category leagues, experts value him around rank 40 to 50 or round 4. They call picks in the low 30s a little early and ESPN's top 20 rank absurd. They see him as more likely to fall short of a Fantrax ADP of 34 than to reach it. (verdict, 2026-09-30; [09-25](https://youtu.be/Bi1cEM03k9Y?t=657), [09-19](https://youtu.be/uarqbNA2dFk?t=1472), [09-30](https://youtu.be/BjXP9JODDSg?t=583), [08-11](https://youtu.be/OdDkXFhoKsc?t=749), [09-09](https://youtu.be/7BllEsdNLoM?t=1713))
+- Boston has 16 back-to-backs, tied for the most in the league. Experts say this mainly affects Paul George and Mitchell Robinson. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1837), [08-16](https://youtu.be/gf_6GveiAls?t=901))
+- Both Boston previews project him as a starting guard. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [07-30](https://youtu.be/TiiaNZCJNs8?t=472))
+- Experts expect his FG% to improve this season, with more catch-and-shoot looks next to Tatum and George, who share the ball more than Brown did. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=625), [07-30](https://youtu.be/TiiaNZCJNs8?t=1615), [07-07](https://youtu.be/ME-r173X5b0?t=2139), [09-19](https://youtu.be/uarqbNA2dFk?t=1472), [09-22](https://youtu.be/QbdrhJd7LiA?t=1548), [09-09](https://youtu.be/7BllEsdNLoM?t=1713), [07-16](https://youtu.be/-y6p5PYLf00?t=1544))
+- Boston plays 4, 3 and 4 games in fantasy playoff weeks 19 to 21. That is one game short of the maximum, with three back-to-backs in that window. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1816), [08-16](https://youtu.be/gf_6GveiAls?t=901))
+- Experts project Boston to be better than last season, with about 48 wins. (verdict, 2026-09-25; [07-30](https://youtu.be/TiiaNZCJNs8?t=2194), [09-25](https://youtu.be/Bi1cEM03k9Y?t=191), [07-07](https://youtu.be/ME-r173X5b0?t=2186), [07-02](https://youtu.be/P6TNP-g0wzY?t=272))
 
 **Durable**
-- FG% is his clear weak category. He is a low-percentage shooter on real volume. (fact, 2026-10-05; stats)
-- Experts call him an excellent steals and blocks player. His blocks are far above normal for a guard. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=625), stats)
-- He is worth much more in category leagues than in points leagues. He finished 39th in categories and 50th in points last season. (verdict, 2026-09-25; [08-24](https://youtu.be/g31YlwRe0XQ?t=880), [09-25](https://youtu.be/Bi1cEM03k9Y?t=593))
+- FG% is his weak category. He shoots a low percentage on real volume, so he drags down a team's FG%. (fact, 2026-10-11; stats)
+- Experts call him an excellent steals and blocks player. His blocks are far above other guards. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=625), [07-07](https://youtu.be/ME-r173X5b0?t=2139), stats)
+- He is worth much more in category leagues than in points leagues. (verdict, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=880))
 
 **Tags**
-- Current: `role down` (third option behind Tatum and George, so usage should drop), `usage competition` (Tatum and George ahead of him), `bounce-back` (FG% expected to rise from 39.4% with more catch-and-shoot looks), `bust candidate` (at ESPN rank 16 to 17 and Fantrax ADP 34 to 35), `sites disagree on price` (ESPN rank 17 and value 43 USD vs Yahoo rank 36 and value 26 USD), `many back-to-backs` (Boston has 16, tied for the most, with three in the playoff window), `winning team` (Karalis predicts 48 wins)
-- Durable: `FG% liability` (39.4% last season on 14.4 attempts; projected about 41%), `punt FG fit` (FG% is his only flagged weak category), `category league player` (39th in categories, 50th in points last season), `age decline watch` (Josh lists age among the factors that offset better shooting), `plays every game` (73 to 77 games in each of the last three seasons)
+- Current: `role down` (moves from second to third option, likely under 34 minutes), `usage competition` (Jayson Tatum and Paul George), `bounce-back` (FG% expected to recover from 39.4%), `bust candidate` (at Fantrax ADP 34 to 35 and ESPN rank 16 to 18, not at a mid-teens auction price), `sites disagree on price` (Yahoo value 25 and rank 39, ESPN value 42 and rank 18), `many back-to-backs` (Boston has 16, tied for the league high), `winning team` (about 48 wins projected)
+- Durable: `FG% liability` (projected about 41% on about 14 attempts), `punt FG fit` (FG% is his only weak category), `BLK from a guard` (about 1.2 blocks per game, far above other guards), `category league player`, `plays every game` (73 to 77 games in each of the last three seasons), `age decline watch` (age cited as a factor that offsets better shooting)
 
-**Note.** Experts value White around 40 to 50 in category leagues, or mid 20s USD at auction. Yahoo's 26 USD fits that, but ESPN's 43 USD and the 30 USD he cost in our league last season are too much. Below 25 USD he is good value, especially for a punt FG% build, because his threes, assists, blocks and FT% all help. Early in the season, check whether his FG% climbs back above 42% to 44% as the third option behind Tatum and George, and how much his usage drops.
+**Note.** Experts put his 9-cat value around rank 40 to 50 and his auction value in the mid 20s. That matches Yahoo's 25 USD, not ESPN's 42 USD or the 30 USD he cost in our league last season. A price in the mid teens, close to Yahoo's 14.9 USD average cost, is a bargain. He fits punt FG% builds best because his threes, FT%, assists and guard-level blocks all help. Early in the season, check whether his FG% climbs back above 40% and whether his minutes and usage hold up next to Tatum and George.
 
-<sub>15 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>18 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

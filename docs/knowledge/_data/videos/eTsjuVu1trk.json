@@ -1,0 +1,1010 @@
+{
+ "video": {
+  "id": "eTsjuVu1trk",
+  "title": "The Fantasy Basketball BUSTS You Need To Avoid | The Suckiest Bunch of Sucks That Ever Sucked",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-10-06",
+  "duration": "48:00",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-11T09:04:31+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.37547980000000003,
+  "duration_ms": 96393,
+  "turns": 2,
+  "denied": 0
+ },
+ "summary": "Josh Lloyd lists players he thinks are overvalued (\"busts\") in Yahoo rankings and ADP as of October 6, first for points leagues and then for 9-category leagues. He stresses that Yahoo's single ranking is not tied to any format, so you need to adjust for your own scoring. His points league busts include Tyrese Maxey, Kevin Durant, Tyrese Haliburton, Trae Young, Donovan Mitchell, Steph Curry, Chet Holmgren, Payton Pritchard and AJ Dybantsa. His category busts include Cade Cunningham at pick 5, Maxey, Jalen Johnson, Trae Young, Chet Holmgren, Jalen Brunson, Donovan Clingan, Walker Kessler, Stephon Castle, Alex Sarr and Miles Bridges. His recurring reason is less usage available because teammates are coming back or have been added. He also opens with injury news: Ariel Hukporti tore his Achilles, which weakens Philadelphia's backup center spot.",
+ "rules": [
+  {
+   "text": "A bust here does not mean a player you should never draft. It means his current draft spot is too high. The margin depends on the round: a few spots matters in round one, about 20 spots in round six.",
+   "ts": "1:03",
+   "quote": "Four, five spots might be too high in round one. 20 spots is probably too high",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 90
+  },
+  {
+   "text": "Yahoo rankings are not tied to a league format. The same player can be very different in value in points leagues and category leagues, so adjust for your format.",
+   "ts": "3:39",
+   "quote": "Always remember Yahoo ranks are nondescript. They don't mean anything because they're not specific to a league format.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 219
+  },
+  {
+   "text": "Players returning from an Achilles tear can have an efficiency dip and lose minutes early in the season.",
+   "ts": "4:45",
+   "quote": "plus returning from an Achilles you can see a dip in efficiency look at Deonte look at Jason Tatum",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 289
+  },
+  {
+   "text": "Players who rush back for opening night from calf or hamstring injuries risk a minutes restriction and getting hurt again.",
+   "ts": "13:29",
+   "quote": "if they push to get back for opening night and White did this last season, you'd be on a minutes restriction",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 837
+  },
+  {
+   "text": "Look at usage trends across the season, not just full-season averages, especially when a player's usage was boosted by teammates being out.",
+   "ts": "18:47",
+   "quote": "This is where all the trends and all that sort of stuff are important to note.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1146
+  },
+  {
+   "text": "Price in a 'finals tax'. Players coming off a championship run may get extra rest or slightly regress.",
+   "ts": "21:54",
+   "quote": "We can just throw the the finals tax onto this as well if you want.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1316
+  },
+  {
+   "text": "Near the top of a draft, a pick's quality can come down to two or three spots. Later in the draft the gaps are much wider and small differences matter less.",
+   "ts": "27:06",
+   "quote": "the difference between like whether it's a good or a bad pick might only be two or three spots.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1626
+  },
+  {
+   "text": "When drafting Giannis, it still probably makes sense to punt free throws, even if your team ends up with decent free throw percentage.",
+   "ts": "28:38",
+   "quote": "That is not to say that you shouldn't punt free throws with Giannis. By the way, it still probably makes sense",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1723
+  },
+  {
+   "text": "In head-to-head he does not value low turnovers. Blocks are heavily right-skewed, so z-score rankings overstate shot blockers.",
+   "ts": "32:44",
+   "quote": "I don't care about low turnovers. blocks are so heavily right skewed that their zed score equivalent on them gives you false ideas",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1984
+  },
+  {
+   "text": "Standard 9-cat rankings fail to show a player's real value in head-to-head. He prefers his own head-to-head per game ranks.",
+   "ts": "35:22",
+   "quote": "if you want an illustration of how that that ranking system doesn't illustrate the value of a player",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2126
+  },
+  {
+   "text": "An ADP that sits between points league and category league value is wrong for both formats.",
+   "ts": "35:55",
+   "quote": "this ADP is sort of just splitting the middle. It's not a points league ADP. It's not a category league ADP.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2163
+  },
+  {
+   "text": "Low-scoring bigs taken early hurt you, because after rounds three or four it is hard to find enough scoring to make up for them.",
+   "ts": "38:04",
+   "quote": "when you can't really get big scoring players after round three or four. You get his 12 points per game",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2292
+  },
+  {
+   "text": "Usage is limited: one ball, one shot per possession. Projections for teammates have to balance against each other.",
+   "ts": "41:16",
+   "quote": "There's one ball. There's one shot attempt per possession. There's one guy who can dribble at a time.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2476
+  },
+  {
+   "text": "If a player like Miles Bridges is the number one option on a team, that team is bad.",
+   "ts": "43:24",
+   "quote": "If Miles Bridges is the number one option, your team sucks.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2618
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Ariel Hukporti",
+   "said_as": "Ariel Hakporti",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Torn Achilles, the second of his career. His season is over.",
+   "ts": "1:34",
+   "quote": "Ariel Hakporti, the Little Mermaid. Torn Achilles, that's the second time in his career for that.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 115
+  },
+  {
+   "player": "Adem Bona",
+   "said_as": "Adm Boner",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Also injured. Still a possible stash as an Embiid injury replacement since the 76ers backup center group is thin.",
+   "ts": "2:05",
+   "quote": "if you are looking to take a stand on an Embiid injury replacement, maybe you need to just jump on Boner.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 136
+  },
+  {
+   "player": "Dominick Barlow",
+   "said_as": "Barlow",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Another option for an Embiid injury replacement, since Bona is injured.",
+   "ts": "2:05",
+   "quote": "You could also consider Barlow, I guess, considering Boner is injured.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 148
+  },
+  {
+   "player": "Tyrese Maxey",
+   "said_as": "Taurus Maxi",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Points league bust at rank 9. His big season came with Paul George and Embiid missing a lot of games. LeBron, Jaylen Brown and more Embiid will cut into his production. He would not take him in round one or before about 15 in points leagues.",
+   "ts": "3:08",
+   "quote": "I would not take him in round one. I would not take him in the top. I'll be kind and say 15",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 209
+  },
+  {
+   "player": "Tyrese Maxey",
+   "said_as": "Tyres Maxi",
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Also a category league bust at pick 9. He doubts Maxey keeps top 9 production, playing 70 games or 38 minutes a night with more teammates around him. He would not take him in round one.",
+   "ts": "29:08",
+   "quote": "Tyres Maxi another bust for me at pick number nine.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1752
+  },
+  {
+   "player": "Kevin Durant",
+   "said_as": "Kevin Durant",
+   "team": "HOU",
+   "horizon": "current",
+   "text": "ADP 16, rank 14. About right or slight value in category leagues, but dreadful in points leagues. He is older and may play a minute less, and Fred VanVleet is added.",
+   "ts": "3:39",
+   "quote": "Kevin Durant, whose ADP is 16, his rank is 14, which in a category league, I think it's about right",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 232
+  },
+  {
+   "player": "Tyrese Haliburton",
+   "said_as": "Tres Hallebertton",
+   "team": "IND",
+   "horizon": "current",
+   "text": "Missed all of last season with a torn Achilles. Rank 10 and ADP 14 is too early even in category leagues. He worries about early-season minutes limits and lower usage and efficiency. Do not draft him there.",
+   "ts": "4:13",
+   "quote": "Tres Hallebertton. I actually think it's a 10. It's a little early for him even in a category",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 278
+  },
+  {
+   "player": "Trae Young",
+   "said_as": "Trey Young",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Points league bust at 18. He doubts Trae plays 36 minutes again or stays a 31 usage player with AJ Dybantsa and Anthony Davis taking usage.",
+   "ts": "5:49",
+   "quote": "I don't think Trey Young is a 31 usage player this season. 18 is too high.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 369
+  },
+  {
+   "player": "Trae Young",
+   "said_as": "Trey Young",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Category league bust at rank 18, ADP 25. He expects strong assists, and taking him around 24 is okay but not for him. He doesn't think Trae reaches 36 minutes.",
+   "ts": "31:13",
+   "quote": "Trey Young with a rank of 18 and an ADP of 25. I just don't think that Trey is going to",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1877
+  },
+  {
+   "player": "Austin Reaves",
+   "said_as": "Austin Reeves",
+   "team": "LAL",
+   "horizon": "current",
+   "text": "Rank 21, ADP 23 is really good value in category leagues. In points leagues he is more of a third round player.",
+   "ts": "6:19",
+   "quote": "Austin Reeves at a rank of 21 with an ADP of 23 is actually really good value in a category league.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 383
+  },
+  {
+   "player": "Jalen Brunson",
+   "said_as": "Jaylen Brunson",
+   "team": "NYK",
+   "horizon": "durable",
+   "text": "He would draft Brunson ahead of Reaves in every points league but never in category leagues. Brunson is a very good scorer with pretty good assists. His field goal percentage is below average, and he gets no defensive stats and no rebounds.",
+   "ts": "36:28",
+   "quote": "His free throws are pretty good, but even the volume's not elite and the field goals are below average",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2205
+  },
+  {
+   "player": "Jalen Brunson",
+   "said_as": "Bronson",
+   "team": "NYK",
+   "horizon": "current",
+   "text": "Rank 29, ADP 21. Taking him at 21 is a league-losing pick in category leagues, a little better in points leagues. Some worry about extra rest after the championship run.",
+   "ts": "37:00",
+   "quote": "Him at 21 is a league losing pick in a category. In a points league, it's it's not bad.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2223
+  },
+  {
+   "player": "Donovan Mitchell",
+   "said_as": "Don Mitchell",
+   "team": "CLE",
+   "horizon": "current",
+   "text": "Points league bust. His FP average dropped after James Harden arrived. He also may not sustain 1.5 steals, so his current spot is too soon.",
+   "ts": "7:20",
+   "quote": "James Harden came across and he averaged like 41 fantasy points instead of 44 and a half.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 440
+  },
+  {
+   "player": "Stephen Curry",
+   "said_as": "Steph Curry",
+   "team": "GSW",
+   "horizon": "current",
+   "text": "Rank 25 is pretty okay in category leagues if his knee is fine. In points leagues he is not close to that spot, maybe not even top 40. The Warriors are not good.",
+   "ts": "7:50",
+   "quote": "I don't know that I'd even be keen on Steph in the top 40 in a points league",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 508
+  },
+  {
+   "player": "Lauri Markkanen",
+   "said_as": "Larry Markin",
+   "team": "UTA",
+   "horizon": "current",
+   "text": "Rank 32 is about right in category leagues. In points leagues he is a fourth round player. He projects 36 to 37 FP, which fits a pick around 40 to 50.",
+   "ts": "8:52",
+   "quote": "this to me is a fourth round sort of a points league player. He's ranked at 32",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 535
+  },
+  {
+   "player": "Chet Holmgren",
+   "said_as": "Chad Homegrren",
+   "team": "OKC",
+   "horizon": "current",
+   "text": "Rank 28 in points leagues is still 30 spots too high.",
+   "ts": "9:53",
+   "quote": "Now they have bumped him down to 28. still 30 spots too high. Just don't do it",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 609
+  },
+  {
+   "player": "Chet Holmgren",
+   "said_as": "Chad Hongren",
+   "team": "OKC",
+   "horizon": "current",
+   "text": "Category league bust at rank 23. He doesn't expect huge minutes. Reasonable in the 40s, not in the 20s. His blocks make him look better in z-score rankings than he really is.",
+   "ts": "33:15",
+   "quote": "I think in the 40s he's reasonable. In the 20s he's not.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2003
+  },
+  {
+   "player": "Donovan Clingan",
+   "said_as": "Donovan Klingan",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Too high at rank 38 in points leagues. Probably not a top 50 points player.",
+   "ts": "10:24",
+   "quote": "Donovan Klingan is too high at number 38. It's too high in category leagues as you'll see later on",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 642
+  },
+  {
+   "player": "Donovan Clingan",
+   "said_as": "Don Klingan",
+   "team": "POR",
+   "horizon": "durable",
+   "text": "Good rebounder and shot blocker, nothing else. Low scoring (about 12 points), no steals or assists, bad free throws, subpar field goal percentage for his archetype. He hit about a three a game. Reasonable in the 60s to 70s.",
+   "ts": "37:31",
+   "quote": "Klingan is a good rebounder. He's a good shot blocker. That's it. That's the end of the sentence.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2256
+  },
+  {
+   "player": "Trey Murphy III",
+   "said_as": "Ken Murphy the third",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Rank 30 is too high. Probably not top 50 in points leagues. Last season's role was boosted by Dejounte Murray, Jordan Poole and Herb Jones being out.",
+   "ts": "10:54",
+   "quote": "Trey is sitting with a rank of 30th. Is he even a top 50 player for this coming season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 670
+  },
+  {
+   "player": "Walker Kessler",
+   "said_as": "Walker Kesler",
+   "team": "",
+   "horizon": "current",
+   "text": "On a new team with a skewed sample from last year. Rank 41 and ADP 40 is a strong no in points leagues.",
+   "ts": "11:55",
+   "quote": "Yet his rank is 41 with an ADP of 40. Last season he he was really good",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 720
+  },
+  {
+   "player": "Walker Kessler",
+   "said_as": "Walker Kesler",
+   "team": "",
+   "horizon": "durable",
+   "text": "If his steals, threes and assists from the five-game sample don't hold up, he is a bad steals, bad assists, no threes, bad free throw player and not top 70 in category leagues.",
+   "ts": "38:35",
+   "quote": "if he's back to being a bad steals guy and a bad assist guy and a no threes guy with bad free",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2340
+  },
+  {
+   "player": "Derrick White",
+   "said_as": "Derek White",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Points league bust at rank 36, ADP 46. Less usage is available this season and he likely plays under 34 minutes. Not top 50 for him.",
+   "ts": "12:57",
+   "quote": "he has to deal with the fact that there is less usage available this season than there was last season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 784
+  },
+  {
+   "player": "Kristaps Porzingis",
+   "said_as": "Coniple",
+   "team": "",
+   "horizon": "current",
+   "text": "ADP 47 with a hamstring injury that might cost the start of the season. Even healthy, he has him outside the top 60 in points leagues.",
+   "ts": "13:29",
+   "quote": "Coniple. He's ADAPS 47. He's got a hamstring injury. Maybe he misses the beginning of the season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 816
+  },
+  {
+   "player": "Coby White",
+   "said_as": "Kobe White",
+   "team": "",
+   "horizon": "current",
+   "text": "Has a calf issue. Last season he pushed to return and got hurt again. Was pretty good as a starter but is injured again.",
+   "ts": "13:29",
+   "quote": "someone like even a Kobe White with their calf issues",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 830
+  },
+  {
+   "player": "Onyeka Okongwu",
+   "said_as": "Kongwu",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Rank 49, ADP 55 is too high in points leagues and a little high in category leagues. His 19.5 usage came with Trae Young out. It fell to 17 and 16 late in the season.",
+   "ts": "18:47",
+   "quote": "Last 24 games 17 usage. Last 15 games 16 usage. So is he going to be a 20 usage player",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1136
+  },
+  {
+   "player": "Desmond Bane",
+   "said_as": "Dez Bane",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Points league bust at rank 47, ADP 53. He benefited from Franz Wagner being out last season.",
+   "ts": "19:19",
+   "quote": "Bane also benefited from having no Fran Vagner around all last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1159
+  },
+  {
+   "player": "OG Anunoby",
+   "said_as": "OG Anobi",
+   "team": "NYK",
+   "horizon": "current",
+   "text": "Overrated in points leagues at ADP 68, rank 72. Possible minutes limits and some regression after the championship.",
+   "ts": "19:49",
+   "quote": "he's overrated in points leagues because we're not doing this 68 AP, 72 rank. Absolutely not.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1195
+  },
+  {
+   "player": "Payton Pritchard",
+   "said_as": "Pton Pritchard",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Bust at rank 75, ADP 81. Jaylen Brown is replaced by Paul George and Jayson Tatum, so there are fewer opportunities. He will be the third usage option at best.",
+   "ts": "20:52",
+   "quote": "There are less opportunities this season. Sorry, fewer opportunities this season. He played 32 minutes a night last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1252
+  },
+  {
+   "player": "Payton Pritchard",
+   "said_as": "Pritchard",
+   "team": "BOS",
+   "horizon": "current",
+   "text": "His splits without Jaylen Brown don't matter now. He turns 29 soon and is the third usage guy at best, maybe fourth.",
+   "ts": "45:26",
+   "quote": "He's got to be the third usage guy at best, maybe fourth.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2742
+  },
+  {
+   "player": "Josh Hart",
+   "said_as": "Josh the Hitman hard",
+   "team": "NYK",
+   "horizon": "current",
+   "text": "Points league bust at rank 81, ADP 97. A finals tax applies. Taking him at 81 would kill your team.",
+   "ts": "21:54",
+   "quote": "He's ranked at 81 with an ADP of 97. We can just throw the the finals tax onto this",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1314
+  },
+  {
+   "player": "Mikal Bridges",
+   "said_as": "Macall",
+   "team": "NYK",
+   "horizon": "current",
+   "text": "Rank 81 is a pointless pick in points leagues. He was benched at times and not rosterable late last season.",
+   "ts": "22:24",
+   "quote": "He was benched at times. His rank is 81. It is a pointless selection in a points league",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1356
+  },
+  {
+   "player": "AJ Dybantsa",
+   "said_as": "AJ Debansa",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Rookie ranked 92 with ADP 79. Would need over 30 FP to justify that, which is a lot for a rookie with shared shots. He bets against Dybantsa beating ADP 79 in category leagues.",
+   "ts": "23:27",
+   "quote": "It just seems a lot for a rookie on a team with other guys who are going to get shots",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1416
+  },
+  {
+   "player": "Cade Cunningham",
+   "said_as": "Kade",
+   "team": "DET",
+   "horizon": "current",
+   "text": "Mild category league bust at pick 5 (ADP 6). He has Cade 10th per game in head-to-head and would take Giannis and maybe Jayson Tatum ahead. Okay around 7, and taking him at 5 is still fine.",
+   "ts": "27:37",
+   "quote": "I would take Giannis ahead of him. I honestly would probably take Jason Tatum ahead of Kate Cunningham.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1660
+  },
+  {
+   "player": "Kawhi Leonard",
+   "said_as": "Kawhai",
+   "team": "LAC",
+   "horizon": "durable",
+   "text": "Ahead of Cade in his per game ranks, but he would not draft him there because of knee concerns.",
+   "ts": "27:06",
+   "quote": "that is Kawhi Leonard because, you know, it's Kawhai and his knees.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1617
+  },
+  {
+   "player": "Giannis Antetokounmpo",
+   "said_as": "Giannis",
+   "team": "",
+   "horizon": "durable",
+   "text": "Punting free throws with Giannis still probably makes sense.",
+   "ts": "28:38",
+   "quote": "That is not to say that you shouldn't punt free throws with Giannis.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1723
+  },
+  {
+   "player": "Jalen Johnson",
+   "said_as": "Jaylen Johnson",
+   "team": "ATL",
+   "horizon": "current",
+   "text": "Bust at 11. He liked him in round two last season but not in round one. Trae Young and CJ McCollum are back, his defensive stats disappeared, and his 49% FG and 8 assists may drop.",
+   "ts": "30:10",
+   "quote": "I was massively into drafting Jaylen Johnson last season in round two. I'm just not doing it in round one.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1815
+  },
+  {
+   "player": "Devin Booker",
+   "said_as": "Deon Booker",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Rank 23, ADP 26 is foolish. He expects something similar to last season's 43rd. Last year his assists fell to 6 and his FT% dropped to 87.",
+   "ts": "32:44",
+   "quote": "I actually think he does something sort of similar this season, but ranked 23 AP 26 is foolishness.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1961
+  },
+  {
+   "player": "Jalen Duren",
+   "said_as": "Jaylen Duran",
+   "team": "",
+   "horizon": "durable",
+   "text": "Unusual big: doesn't block shots and is not a great defender. Good rebounder, pretty solid free throw shooter.",
+   "ts": "34:17",
+   "quote": "he just doesn't block shots and he's not a great defender, but he probably will see some pretty good usage.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2064
+  },
+  {
+   "player": "Jalen Duren",
+   "said_as": "Duran",
+   "team": "",
+   "horizon": "current",
+   "text": "Rank 33, ADP 36 is a little high. He might be out of shape early with minutes stuck at 27 to 28. Okay around pick 40.",
+   "ts": "34:50",
+   "quote": "I could see him at pick 40 being okay. 33 though is just it's going a little it's going a little early.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2096
+  },
+  {
+   "player": "Paolo Banchero",
+   "said_as": "Paulo",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Too high at 35 in category leagues. Fine at 45 to 50 there. Go for it top 20 in points leagues.",
+   "ts": "35:55",
+   "quote": "Paulo at 50, 45 in a category league. Fine. Top 20 in a points league. Go for it.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2155
+  },
+  {
+   "player": "Stephon Castle",
+   "said_as": "Stefon Castle",
+   "team": "SAS",
+   "horizon": "current",
+   "text": "Rank 54 is pretty good for points leagues but not for category leagues. Unclear what more he does with Dylan Harper and De'Aaron Fox around.",
+   "ts": "40:43",
+   "quote": "So 54 just is a it's actually pretty good for a points league for a category league. No.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2461
+  },
+  {
+   "player": "Dylan Harper",
+   "said_as": "Dylan Harper",
+   "team": "SAS",
+   "horizon": "current",
+   "text": "Arguably the Spurs' second best player. It is unclear whether he starts. He could take on-ball time from Fox and Castle.",
+   "ts": "39:07",
+   "quote": "you could argue Dylan Harper is their second best player.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2372
+  },
+  {
+   "player": "De'Aaron Fox",
+   "said_as": "Darren Fox",
+   "team": "SAS",
+   "horizon": "current",
+   "text": "Current spot may be about right, but he is not sure Fox repeats 19, 4 and 6. He could lose on-ball time to Harper. He would not draft him at this spot.",
+   "ts": "41:47",
+   "quote": "I just don't want to do it at this spot",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2510
+  },
+  {
+   "player": "Alex Sarr",
+   "said_as": "S",
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Rank 63 is too high. Playing next to Anthony Davis likely means fewer rim contests, and usage is limited with Trae Young, AD and Dybantsa. He has him around 90th.",
+   "ts": "42:19",
+   "quote": "he was 70th last season and he's ranked at 63. I know it's year three.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2548
+  },
+  {
+   "player": "Miles Bridges",
+   "said_as": "Miles Bridges",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "ADP 99, rank 100 is a bust. Not a great shooter, no defensive stats anymore, doesn't pass, shares the ball with Booker, Brooks, Jalen Green and Collin Gillespie. His situation is not better.",
+   "ts": "43:55",
+   "quote": "he's not a great shooter. Doesn't get defensive stats anymore. He doesn't really pass the ball.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2626
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "PHI",
+   "horizon": "current",
+   "text": "Backup center depth is thin: Hukporti is out for the season, and Adem Bona and Tacko Fall are injured.",
+   "ts": "1:34",
+   "quote": "So, the Sixers backup big men down to Adm Boner, who by the way, also injured.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 121
+  },
+  {
+   "team": "GSW",
+   "horizon": "current",
+   "text": "He says the Warriors are not good this season.",
+   "ts": "7:50",
+   "quote": "If we knew that the Warriors were good, and they're not.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 481
+  },
+  {
+   "team": "UTA",
+   "horizon": "current",
+   "text": "Jazz expected to be bad on defense but pretty good overall.",
+   "ts": "8:52",
+   "quote": "I think the Jazz are going to have be bad on defense, but I think they're going to be pretty good overall",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 529
+  },
+  {
+   "team": "BOS",
+   "horizon": "current",
+   "text": "Paul George and Jayson Tatum replace Jaylen Brown, so there is less usage for the guards.",
+   "ts": "20:52",
+   "quote": "And Jaylen Brown isn't there. But he is replaced by Paul George and Jason Tatum.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1262
+  },
+  {
+   "team": "SAS",
+   "horizon": "current",
+   "text": "Starting lineup is unclear: Harper, Fox, Castle and the forward spot (likely Tobias Harris) are all in the mix.",
+   "ts": "39:07",
+   "quote": "Is Harper going to start? Would it be over Fox? Would it be over Castle?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2377
+  },
+  {
+   "team": "WAS",
+   "horizon": "current",
+   "text": "Trae Young, Anthony Davis and AJ Dybantsa will share usage, which squeezes Alex Sarr and others.",
+   "ts": "42:19",
+   "quote": "is he going to get more shots and higher usage with Trey Young and Anthony Davis and AJ Debants there",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2539
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Maxey was 6th in fantasy points last season, averaging 49.",
+   "ts": "3:08",
+   "quote": "He was sixth in fantasy points averaging 49 last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 197
+  },
+  {
+   "text": "Durant was 22nd in points leagues last season, averaging 42 FP.",
+   "ts": "3:39",
+   "quote": "Last season, in a million minutes, he was 22nd, averaging 42 fantasy points.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 243
+  },
+  {
+   "text": "Haliburton was 27th in points leagues in his last season and 16th the year before.",
+   "ts": "4:45",
+   "quote": "The last time we saw Hallebertton, he was 27th in points leagues. He was 16th the year before that.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 310
+  },
+  {
+   "text": "Trae Young played 26 minutes a game last season. In his last full season he played 36 minutes, ranked 13th and averaged 45 FP.",
+   "ts": "5:49",
+   "quote": "that was 36 minutes a night and he was 13th averaging 45 fantasy points.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 351
+  },
+  {
+   "text": "Curry played 31 minutes a night last season and was 34th in points leagues, 29th the year before.",
+   "ts": "7:50",
+   "quote": "last season 31 minutes a night 34th in points leagues the year before 29th",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 496
+  },
+  {
+   "text": "Markkanen was 24th in points leagues last season, averaging 41 FP.",
+   "ts": "8:52",
+   "quote": "last season in an unbelievable year for him, he was 24th.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 543
+  },
+  {
+   "text": "Holmgren was 46th, 66th and 52nd in points leagues over the last three seasons.",
+   "ts": "9:53",
+   "quote": "Bro was 46 last season, 66 the year before that, 52 the year before that.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 604
+  },
+  {
+   "text": "Clingan was 54th in points leagues last season.",
+   "ts": "10:54",
+   "quote": "Maybe he was 54th last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 657
+  },
+  {
+   "text": "Trey Murphy was 43rd in points leagues last season.",
+   "ts": "11:24",
+   "quote": "43rd last season in a year where DeJonte",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 680
+  },
+  {
+   "text": "Kessler was 41st last season and 59th the year before in points leagues.",
+   "ts": "11:55",
+   "quote": "He was 41st. He was 59th the year before that in 30 minutes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 728
+  },
+  {
+   "text": "Derrick White was 50th in points leagues last season and shot 39% while playing 34 minutes.",
+   "ts": "12:57",
+   "quote": "last season he was 50th. Yeah, he probably shoots better than 39%.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 790
+  },
+  {
+   "text": "Okongwu was 62nd last season with 19.5 usage, dropping to 17 over the last 24 games and 16 over the last 15.",
+   "ts": "18:14",
+   "quote": "He was 62nd last season. So 49 is just too high.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1108
+  },
+  {
+   "text": "Bane was 64th in points leagues last season.",
+   "ts": "19:19",
+   "quote": "But even with all of that, Bo was 64th.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1167
+  },
+  {
+   "text": "Anunoby was 85th in points leagues last season.",
+   "ts": "19:49",
+   "quote": "He was 85th last season and maybe there's minutes limits.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1203
+  },
+  {
+   "text": "Pritchard was 91st in points leagues last season and played 32 minutes a night.",
+   "ts": "21:23",
+   "quote": "and he was only 91st last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1299
+  },
+  {
+   "text": "Josh Hart was 97th in points leagues last season.",
+   "ts": "21:54",
+   "quote": "But he was 97th last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1320
+  },
+  {
+   "text": "Mikal Bridges was 103rd per game in points leagues last season and 177th over the last two months.",
+   "ts": "22:24",
+   "quote": "per game he was 103rd. He was 177th over the last two months.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1351
+  },
+  {
+   "text": "Maxey played 52 games the year before last season, and 70 and 60 the two years before that. He was 4th in head-to-head per game ranks last season.",
+   "ts": "29:39",
+   "quote": "He played 52 the year before that. 70 and 60 the two years prior.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1790
+  },
+  {
+   "text": "Jalen Johnson was 14th in head-to-head last season, shot 49% from the field, and averaged 7.5 assists over the last 13 games.",
+   "ts": "30:10",
+   "quote": "He was 14th in Durant headto-head last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1826
+  },
+  {
+   "text": "Trae Young was 23rd and 24th in head-to-head in the two seasons before last.",
+   "ts": "31:43",
+   "quote": "His two seasons in prior to the last one, he was 23rd and 24th in Durant headto-head.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1897
+  },
+  {
+   "text": "Booker averaged 6 assists last season after 7 the two years before. His FT% dropped from 89 to 87. He ranked 43rd.",
+   "ts": "32:13",
+   "quote": "Deon Book is an 89% free throw shooter because he was 89 and 89 the last two years",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1938
+  },
+  {
+   "text": "Holmgren was 45th in category leagues last season.",
+   "ts": "33:15",
+   "quote": "Last season he was 45th. I don't think he's pushing huge minutes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1997
+  },
+  {
+   "text": "Duren was 40th last season and played 27 to 28 minutes.",
+   "ts": "34:50",
+   "quote": "33 with an ADP 36 is just it's a little high. He was 40th last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2076
+  },
+  {
+   "text": "Banchero ranked 125th, 140th, 162nd and 221st in 9-cat over the last four years.",
+   "ts": "35:22",
+   "quote": "125th, 140th, 162, 221 the last four years",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2122
+  },
+  {
+   "text": "Brunson was 50th in 9-cat rankings and 57th in head-to-head last season.",
+   "ts": "36:28",
+   "quote": "He was 50th in nine cat rankings last season. He was 57th in Durant.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2197
+  },
+  {
+   "text": "Clingan ranked 77th last season in category leagues and hit about one three per game.",
+   "ts": "38:04",
+   "quote": "I had him 77th last season. I think 6070s is reasonable. He hit a three a game",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2277
+  },
+  {
+   "text": "Kessler was 19th in head-to-head last season.",
+   "ts": "38:35",
+   "quote": "He was 19th in Durant last season. So, I guess you could make an argument.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2333
+  },
+  {
+   "text": "Castle was 169th in 9-cat and 87th in head-to-head last season.",
+   "ts": "40:43",
+   "quote": "he was 169th. In Durant, he was 87th.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2438
+  },
+  {
+   "text": "Fox was 74th last season, averaging about 19 points, 4 rebounds and 6 assists.",
+   "ts": "41:16",
+   "quote": "he was 74th. So maybe this one is just bang on, but I'm not I'm not certain that he averages 19 and four and six again.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2488
+  },
+  {
+   "text": "Sarr was 70th last season, shot 48% from the field, and led the league in rim contests.",
+   "ts": "42:19",
+   "quote": "he was 70th last season and he's ranked at 63.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2548
+  },
+  {
+   "text": "Miles Bridges was 107th last season.",
+   "ts": "43:55",
+   "quote": "He was 107th last season. And I don't think that his situation is better.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2642
+  },
+  {
+   "text": "Pritchard had 21 usage last season. He was 101st in head-to-head and 676th in 9-cat rankings.",
+   "ts": "45:26",
+   "quote": "Last season, he was 101st in Durant. He was 676th if you just want to use Ncat rankings.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2748
+  }
+ ]
+}

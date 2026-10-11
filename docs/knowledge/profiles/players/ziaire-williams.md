@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 271 | 0 | 0.0 | 222 | not drafted |
+| 2026-27 | 0 | - | 271 | 0 | 0.0 | 223 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,30 +20,37 @@
 | FG% | 41.9% | -0.6 | -0.5 | - |
 | FT% | 84.5% | +0.3 | +0.2 | - |
 | 3PM | 1.1 | -0.4 | -0.7 | - |
-| PTS | 7.4 | -1.1 | -1.2 | - |
+| PTS | 7.4 | -1.2 | -1.2 | - |
 | REB | 2.2 | -1.2 | -1.3 | - |
-| AST | 0.8 | -1.2 | -1.4 | - |
-| STL | 0.9 | -0.0 | -0.2 | - |
+| AST | 0.8 | -1.2 | -1.5 | - |
+| STL | 0.9 | -0.1 | -0.2 | - |
 | BLK | 0.3 | -0.7 | -0.6 | - |
-| TO | 0.8 | +1.1 | +1.2 | - |
+| TO | 0.8 | +1.2 | +1.2 | - |
 
 </details>
 
 **Current**
-- The newest note says he might start for the Lakers. Rotation choices under J.J. Redick are still unclear. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=2070), [09-30](https://youtu.be/BjXP9JODDSg?t=2070), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2316))
-- He left the Nets and plays for the Lakers this season. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=257))
-- The Nets preview says his offense did not develop enough to earn him a long-term rotation spot in Brooklyn. (verdict, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=257))
-- The Lakers have two open starting spots. Grimes, LaRavia and Mamukelashvili are the main names in the race, and the bench player is expected to still play about 27 minutes. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669))
-- LeBron James left for the Sixers and Rui Hachimura appears to be gone. That opens forward minutes and usage on the Lakers. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=306), [07-01](https://youtu.be/W3THnI7wWdA?t=872), [06-30](https://youtu.be/4GDfg2n2l8o?t=1388))
-- Josh says his shooting upside could help him do well next to Luka Doncic. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1356))
+- Yahoo lists him as questionable with a foot injury. (fact, 2026-10-11; stats)
+- He reportedly bulked up to play power forward. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1707))
+- The Lakers preview projects Doncic, Reaves, Grimes, Thybulle and Kessler as starters, with LaRavia as another option. Williams is not in that group. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1441))
+- Experts disagree on his role. One mock draft said he might start for the Lakers. The Lakers preview a week later does not project him to start. (verdict, 2026-10-06; [09-30](https://youtu.be/BjXP9JODDSg?t=2070), [09-30](https://youtu.be/BjXP9JODDSg?t=2070), [10-06](https://youtu.be/sFelMKWcqyI?t=1441))
+- He is worth monitoring if he gets 30 minutes, but that seems unlikely. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1707))
+- The Lakers have the second most back-to-backs in the league. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2119))
+- The expert warns that soft tissue injuries could become a problem for the Lakers with this many back-to-backs. That matters for a player with his hamstring history. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2119), [10-06](https://youtu.be/sFelMKWcqyI?t=1662))
+- The Lakers play 3-4-3 games in our playoff weeks with the March 28 end date. That is in the bottom half of the league. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2036))
+- He left the Nets and is now with the Lakers. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=257), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1356))
+- Josh thinks his shooting upside could help him thrive next to Luka Doncic. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1356))
 
 **Durable**
-- He is a disruptive defender with high deflection and steal rates. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1356))
+- He has had many hamstring injuries. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1662))
+- He is a solid, disruptive perimeter defender with high deflection and steal rates. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1662), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1356))
+- His production is very inconsistent. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1662))
+- His offense has not developed enough to earn him a secure long-term rotation spot. (verdict, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=257))
 
 **Tags**
-- Current: `new team` (Nets to Lakers), `minutes competition` (Open Lakers starting spots with Grimes, LaRavia and Mamukelashvili), `waiver watch` (0 USD on both sites, outside the drafted pool, but might start for the Lakers)
-- Durable: none
+- Current: `new team` (Nets to Lakers), `questionable` (Yahoo Q (Foot)), `injured now` (foot, Yahoo status Q), `minutes competition` (Grimes, Thybulle and LaRavia compete for the open forward and wing starting spots), `waiver watch` (worth monitoring only if he reaches 30 minutes), `many back-to-backs` (Lakers have the second most in the league), `bad playoff schedule` (3-4-3 with the March 28 end, bottom half of the league)
+- Durable: `injury prone` (many hamstring injuries), `streaky` (very inconsistent)
 
-**Note.** Both Yahoo and ESPN value him at 0 USD, at rank 271 on Yahoo and 222 on ESPN, so he should go undrafted in our 144-player auction. Even with ESPN's full-role projection of 65 games, 1.3 steals and low turnovers, he is below the pool in points, rebounds and assists, so his only use is as a steals and low-turnover streamer. In the first weeks, check whether he wins a starting spot and gets more than his 22.9 minutes from last season before you spend FAB on him.
+**Note.** Do not draft him. Yahoo and ESPN both value him at 0 USD (ranks 271 and 223), well outside the 144 players our league drafts. His projected line is weak in PTS, REB and AST, and his steals (0.9) and low turnovers are not outliers. In the first weeks, check his foot (Yahoo Q), whether he starts over Grimes, Thybulle or LaRavia, and whether his minutes reach 30. Only then is he a waiver pickup for steals and threes.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

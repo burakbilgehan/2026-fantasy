@@ -8,17 +8,17 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 221 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 224 | - | 0.0 | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 48.3% | +0.1 | +0.1 | - |
+| FG% | 48.3% | +0.0 | +0.1 | - |
 | FT% | 79.3% | +0.0 | +0.1 | - |
 | 3PM | 1.0 | -0.5 | -0.7 | - |
-| PTS | 8.5 | -0.9 | -1.0 | - |
-| REB | 2.4 | -1.2 | -1.3 | - |
+| PTS | 8.5 | -1.0 | -1.0 | - |
+| REB | 2.4 | -1.2 | -1.4 | - |
 | AST | 1.2 | -1.0 | -1.0 | - |
 | STL | 0.3 | -2.0 | -2.1 | league outlier, weak |
 | BLK | 0.1 | -1.0 | -1.1 | - |
@@ -27,22 +27,22 @@
 </details>
 
 **Current**
-- Washington has a crowded group of young wings and guards, and Riley is one of them. (fact, 2026-09-07; [07-23](https://youtu.be/UTE0dNIv8nY?t=901), [07-23](https://youtu.be/LUTYUdXBG1M?t=192), [07-23](https://youtu.be/LUTYUdXBG1M?t=248), [09-07](https://youtu.be/gJUBAJaHzlU?t=1586))
-- Washington added Anthony Davis, Trae Young and AJ Dybantsa. Notes say this cuts into the roles of the team's young players. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
-- The fifth starter spot is unclear, and many wings are competing for it. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1586))
-- Riley is not in the projected starting five of Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
-- Ben expects a 10 or 11 man rotation, with 12 or 13 players who could justify minutes. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2098))
-- Washington is trying to compete and push for the play-in. It is no longer rebuilding. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
+- Experts expect Young, Davis and Dybantsa to take most of the usage. That leaves little for the young players and cuts into their roles. (verdict, 2026-10-06; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [06-23](https://youtu.be/-rgXhs5BHiw?t=112), [10-06](https://youtu.be/eTsjuVu1trk?t=2539))
+- Washington added Trae Young, Anthony Davis and AJ Dybantsa, and all three missed last season. (fact, 2026-09-17; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [09-17](https://youtu.be/DubdKKhMWHo?t=1436))
+- He is not in the projected starting five: Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr. The fifth starter spot is unclear, and many wings are competing for it. (fact, 2026-09-07; [07-23](https://youtu.be/UTE0dNIv8nY?t=379), [09-07](https://youtu.be/gJUBAJaHzlU?t=1586))
+- Riley is one of many young wings and guards on a crowded Washington roster. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=901), [07-23](https://youtu.be/LUTYUdXBG1M?t=192), [07-23](https://youtu.be/LUTYUdXBG1M?t=248))
+- Washington's roster is deep and flexible. A 10 or 11 man rotation is expected, with 12 or 13 players who could justify minutes. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2098))
 - He averaged 22.5 points in two Summer League games and shot well. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=192))
-- The expert does not expect his late-season fantasy value to return, because Washington has too many wings and guards. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=192))
+- The expert does not expect his late-season value from last season to return, because Washington has too many wings and guards. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=192))
+- Washington is trying to compete for the play-in, so the late-season resting and minutes shifts of past years should not happen this season. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802))
 
 **Durable**
-- Steals are a clear weakness. His projected steals are far below the top 250 pool. (fact, 2026-10-04; stats)
+- Projections give him very few steals, a clear weakness against the player pool. (verdict, 2026-10-11; stats)
 
 **Tags**
-- Current: `minutes competition` (Crowded young wing and guard group in Washington. The fifth starter spot is open.), `role down` (Davis, Young and Dybantsa were added. The expert does not expect his late-season role to return.), `waiver watch` (Outside the drafted pool. Watch him if he wins rotation minutes in the open wing battle.)
+- Current: `minutes competition` (crowded group of young wings and guards; fifth starter spot unclear), `role down` (late-season role from last season not expected to return), `usage competition` (Trae Young, Anthony Davis and AJ Dybantsa take most of the usage), `deep rotation` (10 or 11 man rotation expected, with 12 or 13 players who could justify minutes), `low shutdown risk` (Washington is aiming for the play-in, not resting players late in the season)
 - Durable: none
 
-**Note.** Yahoo ranks him 221 with a value of 0 USD, and our league drafts only 144 players, so he is not a draft target. Yahoo projects 6.1 FGA, down from 8.4 last season, and his line is thin everywhere except a low TO count. Steals are a real hole. Early in the season, check whether he wins rotation minutes or the open fifth starter spot in Washington's crowded wing group before you spend FAB on him.
+**Note.** Riley is not a draft target in our league. Yahoo ranks him 224 with a value of 0 USD, ESPN prices him at 0 USD, and only 144 players get drafted. His projected line is thin across the board, with very few steals, and Washington's new stars plus a crowded group of wings leave him no clear role. Early in the season, watch whether he wins the open fifth starter spot or gains minutes from a wing injury or an Anthony Davis trade. Only then is he worth a waiver claim.
 
-<sub>2 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 176 | 0 | 0.0 | 171 | 3 |
+| 2026-27 | 0 | - | 234 | 0 | 0.0 | 173 | 3 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,7 +20,7 @@
 | FG% | 46.9% | -0.2 | -0.1 | - |
 | FT% | 66.5% | -0.8 | -0.8 | - |
 | 3PM | 1.5 | +0.0 | -0.0 | - |
-| PTS | 11.0 | -0.5 | -0.5 | - |
+| PTS | 11.0 | -0.5 | -0.6 | - |
 | REB | 5.5 | +0.2 | +0.2 | - |
 | AST | 2.4 | -0.4 | -0.2 | - |
 | STL | 0.7 | -0.7 | -0.7 | - |

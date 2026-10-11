@@ -3,7 +3,7 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, ESPN | 67 | 36.6 | 48.4 (15.4) | 87.2 (6.9) | 2.5 | 23.4 | 4.9 | 5.9 | 1.1 | 0.4 | 3.0 |
+| 2026-27 proj, ESPN | 67 | 36.6 | 48.4 (16.7) | 87.1 (7.4) | 2.7 | 25.4 | 4.9 | 5.9 | 1.1 | 0.4 | 3.0 |
 | 2026-27 proj, Yahoo | 70 | - | 47.7 (15.5) | 87.0 (7.6) | 2.4 | 23.9 | 5.4 | 5.7 | 1.1 | 0.3 | 2.6 |
 | 2025-26 | 51 | 34.6 | 49.0 (14.9) | 87.1 (7.3) | 2.3 | 23.3 | 4.7 | 5.5 | 1.1 | 0.4 | 3.0 |
 | 2024-25 | 73 | 34.9 | 46.0 (14.2) | 87.7 (5.0) | 2.7 | 20.2 | 4.5 | 5.8 | 1.1 | 0.3 | 2.4 |
@@ -11,50 +11,52 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 33 | 28.8 | 21 | 11 | 18.9 | 50 | 25 |
+| 2026-27 | 33 | 31.7 | 21 | 15 | 21.1 | 42 | 25 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 48.0% | +0.0 | +0.4 | - |
-| FT% | 87.1% | +2.2 | +2.4 | league outlier, strong |
-| 3PM | 2.5 | +1.1 | +1.0 | - |
-| PTS | 23.6 | +1.7 | +1.7 | - |
+| FG% | 48.1% | +0.1 | +0.4 | - |
+| FT% | 87.1% | +2.3 | +2.5 | league outlier, strong |
+| 3PM | 2.6 | +1.2 | +1.1 | - |
+| PTS | 24.6 | +1.8 | +1.8 | - |
 | REB | 5.1 | +0.0 | +0.4 | - |
 | AST | 5.8 | +1.4 | +1.5 | - |
-| STL | 1.1 | +0.5 | +0.4 | - |
+| STL | 1.1 | +0.5 | +0.3 | - |
 | BLK | 0.4 | -0.5 | -0.3 | - |
 | TO | 2.8 | -1.6 | -1.6 | league outlier, weak, weak for his position (punt fit) |
 
 </details>
 
 **Current**
-- In an auction mock, Josh valued him at about 36 USD and called the 40 USD winning bid an overpay. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=454))
-- Experts rate him a second-round pick with first-round upside. Most see a finish around top 10 to 15, and Josh ranks him above Donovan Mitchell. Lloyd thinks he could finish above Tyrese Maxey. They call his Yahoo rank near 20 too low. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=458), [09-23](https://youtu.be/C4vlgpJ62NI?t=1721), [09-23](https://youtu.be/C4vlgpJ62NI?t=2276), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1541), [09-16](https://youtu.be/2A2JbUN-kc0?t=1317), [09-15](https://youtu.be/KPdD91Oo8-U?t=518), [09-10](https://youtu.be/dlo7L8Ru91A?t=592), [09-10](https://youtu.be/W-R1dzem32s?t=507), [09-09](https://youtu.be/7BllEsdNLoM?t=1047), [09-07](https://youtu.be/E-KmhvyZ2CU?t=511), [08-11](https://youtu.be/OdDkXFhoKsc?t=538))
-- If Luka Doncic misses time, experts expect Reaves to run about 32% usage and play like a first-round player. (verdict, 2026-09-23; [09-10](https://youtu.be/dlo7L8Ru91A?t=592), [09-23](https://youtu.be/C4vlgpJ62NI?t=1721), [09-09](https://youtu.be/7BllEsdNLoM?t=1047), [08-05](https://youtu.be/CI4k8ofUXXk?t=103))
-- With LeBron gone, experts expect his usage to rise, with assists rising most. Projections put him near 28% usage and 36 minutes. They expect a step forward from last season. (verdict, 2026-09-21; [07-01](https://youtu.be/W3THnI7wWdA?t=884), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1541), [09-10](https://youtu.be/W-R1dzem32s?t=507), [09-16](https://youtu.be/2A2JbUN-kc0?t=1317), [09-21](https://youtu.be/egRrai3Ax38?t=1181))
-- Experts call his ESPN rank near 50 far too low. (verdict, 2026-09-21; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2244), [09-21](https://youtu.be/egRrai3Ax38?t=1181))
-- The Lakers added Collin Sexton. (fact, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=507))
-- LeBron James left the Lakers for the Sixers and Rui Hachimura appears gone too. Luka Doncic and Reaves are the remaining core of a roster that turned over more than half its players. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=306), [07-01](https://youtu.be/W3THnI7wWdA?t=872), [07-01](https://youtu.be/W3THnI7wWdA?t=884))
-- He re-signed with the Lakers for 4 years and 185 million. His salary tripled. (fact, 2026-08-04; [07-01](https://youtu.be/W3THnI7wWdA?t=884), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1821))
-- Andy thinks the Lakers could trade him if the team is not working, even if he plays well. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1882))
-- Experts disagree on the Lakers. Andy predicts 50 wins and a top six finish in the West. Lloyd thinks the roster lacks defenders and does not expect it to go well. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1925), [07-02](https://youtu.be/P6TNP-g0wzY?t=2090))
+- His ESPN rank (50, later 64) is far too low. He is the best target on the Lakers, especially on ESPN. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=116), [10-06](https://youtu.be/sFelMKWcqyI?t=529), [10-06](https://youtu.be/sFelMKWcqyI?t=1879), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2244), [09-21](https://youtu.be/egRrai3Ax38?t=1181), [10-08](https://youtu.be/6DnRWahYrFA?t=1222))
+- LeBron James left the Lakers for the Sixers. Reaves re-signed with the Lakers for 4 years and 185 million. He and Luka Doncic are the remaining core. (fact, 2026-10-08; [07-01](https://youtu.be/W3THnI7wWdA?t=884), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1821), [08-04](https://youtu.be/_WjOjp6Qu8E?t=306), [10-08](https://youtu.be/6DnRWahYrFA?t=1225))
+- With LeBron gone, experts expect his usage to rise, his assist rate most of all. They project about 28% usage and 36 minutes. (verdict, 2026-10-08; [10-06](https://youtu.be/sFelMKWcqyI?t=561), [07-01](https://youtu.be/W3THnI7wWdA?t=884), [09-10](https://youtu.be/W-R1dzem32s?t=507), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1541), [09-16](https://youtu.be/2A2JbUN-kc0?t=1317), [09-21](https://youtu.be/egRrai3Ax38?t=1181), [10-08](https://youtu.be/6DnRWahYrFA?t=1222))
+- He is a projected starter next to Doncic, Grimes, Thybulle and Kessler. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1441))
+- Experts see a floor around picks 15 to 18 and first-round upside. With 30% usage and 7.5 assists he could be a first-round player. The newest advice is to take him at the end of round 2, not in round 1. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=582), [10-06](https://youtu.be/sFelMKWcqyI?t=1879), [09-10](https://youtu.be/dlo7L8Ru91A?t=592), [09-15](https://youtu.be/KPdD91Oo8-U?t=518), [09-09](https://youtu.be/7BllEsdNLoM?t=1047), [09-23](https://youtu.be/C4vlgpJ62NI?t=2276), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1541), [09-10](https://youtu.be/W-R1dzem32s?t=507), [09-07](https://youtu.be/E-KmhvyZ2CU?t=511), [09-16](https://youtu.be/2A2JbUN-kc0?t=1317), [09-24](https://youtu.be/_vbAP5y182A?t=458))
+- His Yahoo rank of about 20 is good value in category leagues. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=383), [08-19](https://youtu.be/J1Eg3uaAICU?t=1421))
+- His efficiency could fall this season. It already dipped toward the end of last season. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=619))
+- The Lakers have the second most back-to-backs in the league. Their playoff schedule with a March 28 end is 3-4-3, in the bottom half of the league. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2036), [10-06](https://youtu.be/sFelMKWcqyI?t=2119))
+- Experts disagree on a top-12 finish. Dan picks Reaves over Jamal Murray and Donovan Mitchell as most likely to finish top 12. Josh says it is probably Murray. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=845))
+- In an auction mock Josh valued him at about 36 USD and called his 40 USD price an overpay. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=454))
+- If Doncic misses time, Reaves would run around 32% usage and works as a first-round replacement. (verdict, 2026-09-23; [09-10](https://youtu.be/dlo7L8Ru91A?t=592), [09-23](https://youtu.be/C4vlgpJ62NI?t=1721), [09-09](https://youtu.be/7BllEsdNLoM?t=1047))
+- Andy expects heavy scrutiny after his new contract. If the team is not working, Reaves could be the player the Lakers trade, even if he is playing well. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1821), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1882))
+- Josh says he could have been an All-Star last season if he had not been injured. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=896))
 
 **Durable**
-- His turnovers are high, near 3 per game, and hurt the TO category. (fact, 2026-10-05; stats)
-- He takes many free throws at a great percentage, which clearly lifts a team's FT%. (fact, 2026-09-23; stats, [09-10](https://youtu.be/W-R1dzem32s?t=553), [09-09](https://youtu.be/7BllEsdNLoM?t=1068), [09-23](https://youtu.be/C4vlgpJ62NI?t=1721))
-- He is a better category league player than points league player. (verdict, 2026-09-22; [09-21](https://youtu.be/egRrai3Ax38?t=1157), [09-22](https://youtu.be/QbdrhJd7LiA?t=312))
-- He helps in points, assists and threes. (fact, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=553), [09-09](https://youtu.be/7BllEsdNLoM?t=1068), stats)
-- He is weak in defensive stats, with few blocks. (fact, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=553), [09-09](https://youtu.be/7BllEsdNLoM?t=1068), stats)
-- Experts disagree on his FG%. One calls his efficiency excellent, another says it can be a problem. Projections put it near league average. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=553), [09-09](https://youtu.be/7BllEsdNLoM?t=1068), stats)
-- Andy sees him as very similar to Luka Doncic and thinks he brings little that Luka does not. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1857))
-- He played like a second-round player when he shared the floor with only one of LeBron or Luka. He fell to third option when he played with both. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=898))
+- He takes many free throws at a great percentage and adds points, assists and threes. (fact, 2026-10-11; [09-10](https://youtu.be/W-R1dzem32s?t=553), [09-09](https://youtu.be/7BllEsdNLoM?t=1068), [09-23](https://youtu.be/C4vlgpJ62NI?t=1721), stats)
+- Turnovers are his weak category, and experts say he lacks defensive stats. (fact, 2026-10-11; [10-05](https://youtu.be/BiIZsSypx7Y?t=862), [09-10](https://youtu.be/W-R1dzem32s?t=553), [09-09](https://youtu.be/7BllEsdNLoM?t=1068), stats)
+- He has had groin problems, so soft tissue injuries are a risk. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2130))
+- He is a better category league player than points league player. (verdict, 2026-10-06; [09-21](https://youtu.be/egRrai3Ax38?t=1157), [09-22](https://youtu.be/QbdrhJd7LiA?t=312), [10-06](https://youtu.be/eTsjuVu1trk?t=383))
+- Experts disagree on his field goal efficiency. One calls it excellent. Another says it can be a problem, and Josh expects a worse FG% than Jamal Murray's. (verdict, 2026-10-05; [09-10](https://youtu.be/W-R1dzem32s?t=553), [09-09](https://youtu.be/7BllEsdNLoM?t=1068), [10-05](https://youtu.be/BiIZsSypx7Y?t=862))
+- Andy sees his game as very similar to Doncic's and thinks he brings little that Doncic does not. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1857))
+- He played like a second-round player when he shared the floor with only one of LeBron or Doncic. He fell to third option when he played with both. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=898))
 
 **Tags**
-- Current: `role up` (More usage and assists with LeBron gone), `usage freed` (LeBron James and Rui Hachimura left), `breakout` (Experts expect a step forward and first-round upside), `expert target` (Experts see top 10 to 15 upside vs Yahoo rank about 20), `sleeper` (ESPN rank about 50), `sites disagree on price` (Yahoo value 33 USD and rank 21, ESPN value 11 USD and rank 50), `injury last season` (51 games in 2025-26), `trade risk` (Could be moved if the Lakers struggle)
-- Durable: `FT% anchor` (About 87% on about 7 FTA per game), `high TO` (About 2.8 TO per game projected), `punt TO fit`, `category league player`, `usage dependent` (Second-round level as a top two option, falls off as third option)
+- Current: `role up` (More usage and assists with LeBron gone), `breakout` (First-round upside), `usage competition` (Shares the ball with Luka Doncic), `expert target` (Most of all on ESPN), `sites disagree on price` (Yahoo value 33 USD, ESPN value 15 USD), `regression risk` (Efficiency dipped late last season), `trade risk` (If the Lakers are not working), `injury last season`, `many back-to-backs` (Second most in the league), `bad playoff schedule` (3-4-3, bottom half of the league)
+- Durable: `FT% anchor` (About 87% on 7.4 FTA projected), `high TO` (About 2.8 TO per game projected), `punt TO fit`, `category league player`, `usage dependent` (Second-round level as second option, third option next to two stars), `injury prone` (Groin problems, soft tissue risk)
 
-**Note.** Experts treat Reaves as a second-round pick with first-round upside now that LeBron is gone. Josh's newest auction mock prices him at about 36 USD, above Yahoo (33 USD value, 28.8 USD average cost) and well above ESPN (11 USD) and his 25 USD price in our league last season, so expect to pay in the mid 30s and stop near 40. He fits builds that want FT%, points, assists and threes, and best of all punt TO builds, since his near 3 turnovers per game are his one clear weakness. Early in the season, check that his usage and assists really rise next to Luka, and keep an eye on Luka's health, which would push his value higher.
+**Note.** Yahoo values him at 33 USD (average cost 31.7 USD) and ESPN at only 15 USD. He went for 25 USD in our league last season, and Josh puts him at about 36 USD, so 30 to 36 USD is a fair price. Paying 40 USD is an overpay. He is a strong FT%, points, assists and threes piece that fits punt TO builds best. Early in the season, check that his usage climbs toward 28% without LeBron and whether his FG% holds near last season's 49%.
 
-<sub>25 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>36 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

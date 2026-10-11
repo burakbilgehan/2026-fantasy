@@ -8,15 +8,15 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "98f75cb8ed5e",
- "note_count": 12,
- "built_at": "2026-10-05T19:58:34+00:00",
+ "input_sha": "65af182700fe",
+ "note_count": 15,
+ "built_at": "2026-10-11T09:21:42+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.16987419999999998,
-  "duration_ms": 47568,
-  "turns": 2,
+  "cost_usd_list": 0.2537282,
+  "duration_ms": 61355,
+  "turns": 3,
   "denied": 0
  },
  "current": [
@@ -30,19 +30,30 @@
    ]
   },
   {
-   "text": "Over the last third of last season he played under 30 minutes a game, took about one free throw a game and had a usage rate around 16 percent. Experts rated him around 130th per game, close to droppable, for the last two to three months of the season.",
+   "text": "Over the last third of last season he played under 30 minutes, took about one free throw per game and had a usage rate around 16 percent. He was benched at times.",
    "kind": "fact",
-   "date": "2026-09-19",
+   "date": "2026-10-06",
    "until": "",
    "sources": [
     "okN3fbHJtlA:p4",
-    "uarqbNA2dFk:p17",
-    "LM0cRCGoAUQ:p49",
-    "dlo7L8Ru91A:p29"
+    "eTsjuVu1trk:p31"
    ]
   },
   {
-   "text": "Gavin expects the same role this season but calls for his best season as a Knick. Mike Brown may cut his role if he struggles.",
+   "text": "Several experts say he was not worth a roster spot in standard category leagues for the final two to three months of last season. He ranked around 130th per game.",
+   "kind": "fact",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p15",
+    "uarqbNA2dFk:p17",
+    "LM0cRCGoAUQ:p49",
+    "dlo7L8Ru91A:p29",
+    "eTsjuVu1trk:p31"
+   ]
+  },
+  {
+   "text": "Gavin expects the same limited role this season but still his best season as a Knick. Mike Brown may cut his role if he struggles.",
    "kind": "verdict",
    "date": "2026-08-13",
    "until": "",
@@ -51,44 +62,37 @@
    ]
   },
   {
-   "text": "Experts agree he is overpriced. They call a pick around Yahoo ADP 73 to 78 pointless and ESPN's rank of 26 insane. Josh values him at about 2 USD in a head-to-head auction and does not like him in that format.",
+   "text": "Experts agree he is overdrafted. Do not take him at ESPN category rank 29 or around Yahoo rank and ADP 73 to 79.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p15",
+    "uarqbNA2dFk:p17",
+    "LM0cRCGoAUQ:p49",
+    "dlo7L8Ru91A:p29",
+    "QbdrhJd7LiA:p27",
+    "J1Eg3uaAICU:p41"
+   ]
+  },
+  {
+   "text": "Experts value him far below his ranks: Josh sees him as about a 2 USD auction player, and other experts place him in the 90s or outside the top 100.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
    "sources": [
     "Q6YlQDvD-aY:p80",
-    "QbdrhJd7LiA:p27",
-    "QbdrhJd7LiA:p28",
-    "uarqbNA2dFk:p17",
-    "LM0cRCGoAUQ:p49",
-    "dlo7L8Ru91A:p29"
-   ]
-  },
-  {
-   "text": "Experts rank him around the 90s or outside the top 100.",
-   "kind": "verdict",
-   "date": "2026-08-24",
-   "until": "",
-   "sources": [
     "J1Eg3uaAICU:p41",
     "g31YlwRe0XQ:p32"
    ]
   },
   {
-   "text": "The Knicks are expected to be conservative over the first 30 or so games. Starters' minutes would be trimmed, with more rest on back-to-backs.",
-   "kind": "verdict",
-   "date": "2026-08-13",
-   "until": "first 30 or so games of the season",
-   "sources": [
-    "okN3fbHJtlA:t1"
-   ]
-  },
-  {
-   "text": "After two extra months of play in the title run, experts expect the Knicks to be cautious with their players' minutes. They also see some risk of a championship hangover, meaning a minute or two less and slightly higher injury risk.",
+   "text": "The Knicks are expected to be cautious after their title run: trimmed starter minutes and more rest on back-to-backs over the first 30 or so games.",
    "kind": "verdict",
    "date": "2026-09-22",
-   "until": "",
+   "until": "first 30 or so games",
    "sources": [
+    "okN3fbHJtlA:t1",
     "QbdrhJd7LiA:t3",
     "LM0cRCGoAUQ:t6",
     "W-R1dzem32s:t5",
@@ -97,46 +101,17 @@
    ]
   },
   {
-   "text": "The Knicks are the reigning champions.",
+   "text": "The Knicks are the defending champions and are projected for about 50 to 54 wins.",
    "kind": "fact",
-   "date": "2026-09-14",
+   "date": "2026-08-27",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:t8",
-    "LM0cRCGoAUQ:t6"
-   ]
-  },
-  {
-   "text": "Gavin predicts 54 wins for the Knicks and Josh about 50.",
-   "kind": "verdict",
-   "date": "2026-08-13",
-   "until": "",
-   "sources": [
-    "okN3fbHJtlA:t1"
+    "okN3fbHJtlA:t1",
+    "ZAyie8lKyYc:t8"
    ]
   }
  ],
  "durable": [
-  {
-   "text": "He rarely misses games. He played all 82 games in each of the last three seasons.",
-   "kind": "fact",
-   "date": "2026-08-13",
-   "until": "",
-   "sources": [
-    "okN3fbHJtlA:p5",
-    "8d--aL_xxwE:p19",
-    "stats"
-   ]
-  },
-  {
-   "text": "He can be projected to play more games than a typical player. Josh warns that he will still get hurt at some point.",
-   "kind": "verdict",
-   "date": "2026-08-09",
-   "until": "",
-   "sources": [
-    "8d--aL_xxwE:p19"
-   ]
-  },
   {
    "text": "He is an elite off-ball defender.",
    "kind": "fact",
@@ -147,9 +122,29 @@
    ]
   },
   {
-   "text": "His category profile is low volume and high percentage, with some steals and few free throw attempts. He has no category that is far above or below the league.",
+   "text": "He is very durable and rarely misses games.",
    "kind": "fact",
-   "date": "2026-08-30",
+   "date": "2026-08-13",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:p5",
+    "8d--aL_xxwE:p19",
+    "stats"
+   ]
+  },
+  {
+   "text": "He can be projected for more games than the usual player, though Josh warns that any player can still get hurt and miss a large part of a season.",
+   "kind": "verdict",
+   "date": "2026-08-13",
+   "until": "",
+   "sources": [
+    "8d--aL_xxwE:p19"
+   ]
+  },
+  {
+   "text": "He is a low-volume player with good percentages and some steals. No category is a real outlier, and none is clearly weak.",
+   "kind": "fact",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "Alwse2uXzD4:p25",
@@ -157,19 +152,44 @@
    ]
   },
   {
-   "text": "Nine-cat season totals flatter him because he plays every game. Experts rate his per game worth in head-to-head lower than those totals suggest.",
+   "text": "His rankings rest on games played and season totals. Per game he is not that good, so nine-cat totals flatter him.",
    "kind": "verdict",
-   "date": "2026-10-05",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
+    "-DN4P92Wp8Y:p16",
     "LM0cRCGoAUQ:p49",
-    "Alwse2uXzD4:p25",
-    "Q6YlQDvD-aY:p80",
-    "dlo7L8Ru91A:p29"
+    "dlo7L8Ru91A:p29",
+    "Alwse2uXzD4:p25"
    ]
   }
  ],
  "tags": [
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "Overdrafted at ESPN cats rank 29 and Yahoo rank 74 to 79",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p15",
+    "uarqbNA2dFk:p17",
+    "LM0cRCGoAUQ:p49",
+    "dlo7L8Ru91A:p29",
+    "QbdrhJd7LiA:p27"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "9-cat fluff",
+   "channel": "durable",
+   "detail": "Season totals from playing every game flatter a modest per-game line",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p49",
+    "-DN4P92Wp8Y:p16"
+   ],
+   "new_meaning": ""
+  },
   {
    "name": "plays every game",
    "channel": "durable",
@@ -183,47 +203,9 @@
    "new_meaning": ""
   },
   {
-   "name": "9-cat fluff",
-   "channel": "durable",
-   "detail": "Value comes from games played; per game line is ordinary",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:p49",
-    "Alwse2uXzD4:p25",
-    "Q6YlQDvD-aY:p80"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "bust candidate",
-   "channel": "current",
-   "detail": "Overpriced at Yahoo ADP 73 to 78 and ESPN rank 26; Josh values him at about 2 USD",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p80",
-    "QbdrhJd7LiA:p27",
-    "QbdrhJd7LiA:p28",
-    "uarqbNA2dFk:p17",
-    "LM0cRCGoAUQ:p49",
-    "dlo7L8Ru91A:p29"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sites disagree on price",
-   "channel": "current",
-   "detail": "ESPN rank 26 and value 28 USD vs Yahoo rank 81 and value 12 USD",
-   "until": "",
-   "sources": [
-    "stats",
-    "uarqbNA2dFk:p17"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "No weak category flagged",
+   "detail": "No weak category, but also no standout one",
    "until": "",
    "sources": [
     "stats"
@@ -231,37 +213,48 @@
    "new_meaning": ""
   },
   {
-   "name": "minutes limit",
+   "name": "low starter minutes",
    "channel": "current",
-   "detail": "Knicks plan to trim starters' minutes early in the season",
-   "until": "first 30 or so games of the season",
+   "detail": "Knicks plan to trim starter minutes after the title run",
+   "until": "first 30 or so games",
    "sources": [
-    "okN3fbHJtlA:t1"
+    "okN3fbHJtlA:t1",
+    "LM0cRCGoAUQ:t6",
+    "W-R1dzem32s:t5"
    ],
    "new_meaning": ""
   },
   {
    "name": "back-to-back risk",
    "channel": "current",
-   "detail": "Knicks plan more rest on back-to-backs early in the season",
-   "until": "first 30 or so games of the season",
+   "detail": "Knicks plan more rest on back-to-backs",
+   "until": "first 30 or so games",
    "sources": [
     "okN3fbHJtlA:t1"
    ],
    "new_meaning": ""
   },
   {
-   "name": "winning team",
+   "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Reigning champions; 50 to 54 wins predicted",
+   "detail": "ESPN rank 29 and 26 USD value vs Yahoo rank 79 and 12 USD value",
    "until": "",
    "sources": [
-    "okN3fbHJtlA:t1",
-    "ZAyie8lKyYc:t8"
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "Defending champions, projected 50 to 54 wins",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:t1"
    ],
    "new_meaning": ""
   }
  ],
- "note": "He has no weak category, so he fits any build as a filler. His per game line is low volume (about 12 shots and 1.3 free throws a game), and most of his value comes from playing all 82 games. Every expert says he is overpriced. Yahoo values him at 12 USD with an average cost of 3.4 USD, while ESPN values him at 28 USD (rank 26). He went for 9 USD in our league last season, and Josh values him at about 2 USD in head-to-head. Bid only in the low single digits. Early in the season, check whether he stays under 30 minutes with about 16 percent usage while the Knicks limit starters over the first 30 or so games.",
+ "note": "ESPN values him at 26 USD (12 USD average cost) and Yahoo at 12 USD (2.8 USD average cost). He went for 9 USD in our league last season. Experts put him near 2 USD, because his per-game line was waiver level late last season (under 30 minutes, about 16 percent usage). He has no weak category, so he can fill a forward spot in any build, but only bid a few dollars and let others pay for his games played. Early in the season, check his minutes and shot volume while the Knicks trim starter minutes over the first 30 or so games.",
  "rejected": []
 }

@@ -22,30 +22,32 @@
 | PTS | 4.0 | -1.7 | -1.6 | league outlier, weak |
 | REB | 5.8 | +0.3 | -0.7 | - |
 | AST | 1.5 | -0.9 | -0.6 | - |
-| STL | 0.5 | -1.3 | -1.1 | - |
+| STL | 0.5 | -1.4 | -1.1 | - |
 | BLK | 0.4 | -0.4 | -1.2 | - |
 | TO | 0.9 | +1.0 | +0.9 | - |
 
 </details>
 
 **Current**
-- Adams is Houston's backup center and comes off the bench. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1462), [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
-- Lloyd sees him only as a rebound streamer for certain matchups. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1462))
+- Adams is Houston's backup center behind Alperen Sengun. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1462), [10-01](https://youtu.be/aLP080hxizA?t=328), [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
+- In fantasy he is only a rebound streamer for certain matchups. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1462))
 - He is healthy now. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1894))
-- Lloyd expects him to sit back-to-backs, definitely at the start of the season. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1894))
-- The Rockets have only 14 back-to-backs, so he should lose fewer games to rest. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011))
-- With our March 28 end, Houston plays 3-3-4 in the fantasy playoff weeks, 10 games over three weeks. That is a weak schedule. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
-- Houston is expected to use double-big lineups with Adams and Sengun at times. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1015))
+- Lloyd expects him to sit back-to-backs, and definitely at the start of the season. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1894))
+- Houston has only 14 back-to-backs this season, so resting on back-to-backs costs him fewer games. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011))
+- Udoka plays his starters very heavy minutes, which limits the minutes left for bench players like Adams. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=146), [09-09](https://youtu.be/7BllEsdNLoM?t=2451))
+- With our March 28 end date, Houston has a weak 3-3-4 fantasy playoff schedule, 10 games over weeks 19 to 21. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
+- Coach Ime Udoka focuses on defense and sometimes plays other bigs over Sengun, which limits Sengun's minutes. (fact, 2026-09-16; [09-07](https://youtu.be/E-KmhvyZ2CU?t=667), [09-16](https://youtu.be/2A2JbUN-kc0?t=2262))
+- Houston is expected to use double-big lineups with Adams and Sengun at times. With Adams back, Jabari Smith Jr. plays more power forward than center. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1015), [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
 
 **Durable**
-- He makes no threes and scores very few points. (fact, 2026-10-04; stats)
-- He has persistent knee problems. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1894))
-- He is arguably the greatest offensive rebounder in NBA history. Teams often need two or three players to keep him off the glass. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=962))
+- He makes no threes and scores very few points. Both are clear weaknesses against the league pool. (fact, 2026-10-11; stats)
+- Adams has persistent knee problems. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1894))
+- He is arguably the greatest offensive rebounder in NBA history. Opponents often need two or three bodies to keep him off the glass. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=962))
 
 **Tags**
-- Current: `back-to-back risk` (expected to sit back-to-backs, definitely early in the season), `injury last season` (missed a huge chunk of 2025-26), `waiver watch` (rebound streamer for certain matchups), `few back-to-backs` (Rockets have 14 back-to-backs), `bad playoff schedule` (3-3-4, 10 games in weeks 19 to 21)
-- Durable: `no 3PM` (0.0 threes per game), `injury prone` (persistent knee problems)
+- Current: `back-to-back risk` (Lloyd expects him to sit back-to-backs, definitely to start the year), `few back-to-backs` (Houston has only 14 back-to-backs), `injury last season` (missed a huge chunk of last season), `waiver watch` (rebound streamer for certain matchups only), `bad playoff schedule` (3-3-4, 10 games in weeks 19 to 21 with the March 28 end)
+- Durable: `injury prone` (persistent knee problems), `no 3PM` (0.0 threes per game), `heavy starter minutes` (Udoka plays starters heavy minutes, so his bench role stays small)
 
-**Note.** Adams is not a draft target in our league. Yahoo ranks him 397 and ESPN 329, both value him at 0 USD, and he was not drafted last season. He belongs on waivers as a matchup rebound streamer, but he gives nothing in 3PM or PTS and his FT% is weak. Early in the season, check whether Udoka really plays Adams and Sengun together and how many games he sits on back-to-backs. The projections disagree on his games (42 on Yahoo, 63 on ESPN).
+**Note.** Adams is not a draft target in our 144-player auction. Both sites value him at 0 USD (Yahoo rank 397, ESPN rank 329), and he projects about 4 points and no threes per game. His use is as a waiver streamer for rebounds in good matchups. Last season he averaged 8.6 rebounds in 22.8 minutes. Early in the season, check whether Houston really plays him next to Sengun in double-big lineups and whether he sits back-to-backs.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

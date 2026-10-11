@@ -8,84 +8,84 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "3bd2704fe5db",
- "note_count": 14,
- "built_at": "2026-10-05T19:49:35+00:00",
+ "input_sha": "b4df18bed021",
+ "note_count": 17,
+ "built_at": "2026-10-11T09:16:26+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.23976019999999998,
-  "duration_ms": 59249,
-  "turns": 3,
+  "cost_usd_list": 0.1781622,
+  "duration_ms": 48385,
+  "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "The Spurs' projected starters are Fox, Castle, Vassell, Harris and Wembanyama.",
+   "text": "The Spurs starting lineup is not set. Harper, Fox, Castle and the forward spot (likely Tobias Harris) are all in the mix.",
    "kind": "fact",
-   "date": "2026-08-27",
+   "date": "2026-10-06",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:t2"
+    "eTsjuVu1trk:t4",
+    "eTsjuVu1trk:p42"
    ]
   },
   {
-   "text": "The Spurs stagger Fox, Castle and Harper so that at least two of them are always on the court. More three-guard lineups are expected this season.",
+   "text": "Tobias Harris has a calf strain.",
    "kind": "fact",
-   "date": "2026-08-27",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:t3"
+    "-DN4P92Wp8Y:t5"
    ]
   },
   {
-   "text": "Most experts expect him to come off the bench to start the year and to have to earn a starting spot. One expert notes the Spurs' point guard depth is poor and that they may start Harper, Castle and Fox together.",
+   "text": "The newest view is that Harper may start next to Castle and Fox. One expert is more and more convinced he will start and be the Spurs' second best player by the end of the season.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:p6",
-    "BjXP9JODDSg:p37",
-    "BjXP9JODDSg:t2",
+    "-DN4P92Wp8Y:p28",
+    "-DN4P92Wp8Y:t5",
+    "eTsjuVu1trk:p42",
     "n4KkK-OJjqA:t7"
    ]
   },
   {
-   "text": "Experts disagree on his minutes. One expects him to push toward 30 minutes even off the bench. Others say a crowded backcourt limits him, because the Spurs will not bench Fox or Castle and a healthier Fox takes minutes.",
-   "kind": "verdict",
-   "date": "2026-10-04",
+   "text": "He shares a crowded backcourt with Fox and Castle. The team staggers its three guards so that at least two are always on the court, and more three-guard lineups are expected.",
+   "kind": "fact",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:p7",
-    "gerS7ibpaJo:p14",
-    "gerS7ibpaJo:t2",
-    "OdDkXFhoKsc:p44",
+    "ZAyie8lKyYc:t3",
     "P6TNP-g0wzY:p42",
     "g31YlwRe0XQ:t0",
-    "n4KkK-OJjqA:t7"
+    "WXO8MfQfzo0:t3",
+    "gerS7ibpaJo:t2"
    ]
   },
   {
-   "text": "Experts expect his strong late-season shooting from last season not to last.",
+   "text": "He could take on-ball time from Fox and Castle.",
    "kind": "verdict",
-   "date": "2026-09-04",
+   "date": "2026-10-06",
    "until": "",
    "sources": [
-    "gerS7ibpaJo:p14",
-    "ZAyie8lKyYc:p9"
+    "eTsjuVu1trk:p42"
    ]
   },
   {
-   "text": "If his late-season shooting holds, one expert sees him as a top five player in the league.",
+   "text": "Experts expect about 28 to 29 minutes. Josh moved his line to 29, while Dan takes the under on 28.5.",
    "kind": "verdict",
-   "date": "2026-08-27",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:p9"
+    "BiIZsSypx7Y:p43",
+    "ZAyie8lKyYc:p7",
+    "OdDkXFhoKsc:p44"
    ]
   },
   {
-   "text": "Experts call him over drafted at an ADP of about 70 to 84. They see his fair value closer to rank 100 and say he leaves no value inside the top 80.",
+   "text": "Experts call his mock draft price of about 70 to 84 too high. One says he leaves no value at rank 79 and fits closer to 100, because the backcourt that limited his minutes is still there.",
    "kind": "verdict",
    "date": "2026-09-30",
    "until": "",
@@ -99,53 +99,36 @@
    ]
   },
   {
-   "text": "Drafters take him mainly for assists.",
-   "kind": "fact",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "BjXP9JODDSg:p38"
-   ]
-  },
-  {
-   "text": "Experts call him a poor points-league pick. That is no direct guide for our category league.",
+   "text": "Experts doubt that his strong late-season shooting from last season will last. One host says he would be a top five player if it holds.",
    "kind": "verdict",
-   "date": "2026-08-24",
+   "date": "2026-09-04",
    "until": "",
    "sources": [
-    "g31YlwRe0XQ:p29"
+    "gerS7ibpaJo:p14",
+    "ZAyie8lKyYc:p9"
    ]
   },
   {
-   "text": "The Spurs are projected as a top team in the West. One host predicts 63 wins.",
+   "text": "The Spurs want to win now and are projected near the top of the West, with one prediction of 63 wins. The roster is deep, so Coach Mitch Johnson has to balance a deep rotation.",
    "kind": "verdict",
    "date": "2026-08-27",
    "until": "",
    "sources": [
+    "ZAyie8lKyYc:t0",
+    "ZAyie8lKyYc:t5",
     "ZAyie8lKyYc:t7",
     "75Sk_4fkgIM:t6"
-   ]
-  },
-  {
-   "text": "The Spurs have a very deep rotation that coach Mitch Johnson must balance.",
-   "kind": "fact",
-   "date": "2026-08-27",
-   "until": "",
-   "sources": [
-    "ZAyie8lKyYc:t5",
-    "P6TNP-g0wzY:t6"
    ]
   }
  ],
  "durable": [
   {
    "text": "The Spurs see him as a future superstar and part of their long-term backcourt with Castle.",
-   "kind": "verdict",
-   "date": "2026-09-09",
+   "kind": "fact",
+   "date": "2026-08-27",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:p8",
-    "7BllEsdNLoM:t4"
+    "ZAyie8lKyYc:p8"
    ]
   },
   {
@@ -158,9 +141,9 @@
    ]
   },
   {
-   "text": "No category in his projected line is weak enough to flag, so he fits any build without filling one category in a big way.",
-   "kind": "fact",
-   "date": "2026-10-05",
+   "text": "His category profile is balanced with no weak category. His best areas are FG% for a guard and assists.",
+   "kind": "verdict",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
@@ -171,21 +154,32 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Shares the backcourt with Fox and Castle and is likely to come off the bench",
+   "detail": "Shares guard minutes with Fox and Castle. His starting role is not set.",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:p6",
-    "gerS7ibpaJo:t2",
+    "eTsjuVu1trk:p42",
+    "eTsjuVu1trk:t4",
     "P6TNP-g0wzY:p42",
-    "g31YlwRe0XQ:t0",
-    "n4KkK-OJjqA:t7"
+    "g31YlwRe0XQ:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "Projected near 29 minutes after 22.6 last season.",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p7",
+    "BiIZsSypx7Y:p43",
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "regression risk",
    "channel": "current",
-   "detail": "Experts expect his late-season shooting from last season to fade",
+   "detail": "His late-season shooting from last season is not expected to last.",
    "until": "",
    "sources": [
     "gerS7ibpaJo:p14",
@@ -196,21 +190,20 @@
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "Experts say an ADP of about 70 to 84 is too high and put his value closer to rank 100",
+   "detail": "At his mock draft price of about 70 to 84.",
    "until": "",
    "sources": [
-    "gerS7ibpaJo:p14",
-    "7BllEsdNLoM:p42",
     "W-R1dzem32s:p37",
-    "BjXP9JODDSg:p38",
-    "_vbAP5y182A:p43"
+    "7BllEsdNLoM:p42",
+    "gerS7ibpaJo:p14",
+    "BjXP9JODDSg:p38"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo value 11 USD and rank 83, ESPN value 2 USD and rank 101",
+   "detail": "Yahoo value 10 USD, ESPN value 2 USD.",
    "until": "",
    "sources": [
     "stats"
@@ -230,18 +223,18 @@
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "Spurs projected near the top of the West",
+   "detail": "One prediction of 63 wins.",
    "until": "",
    "sources": [
     "ZAyie8lKyYc:t7",
-    "75Sk_4fkgIM:t6"
+    "ZAyie8lKyYc:t0"
    ],
    "new_meaning": ""
   },
   {
    "name": "deep rotation",
    "channel": "current",
-   "detail": "Deep at guard and forward",
+   "detail": "Deep at guard and forward.",
    "until": "",
    "sources": [
     "ZAyie8lKyYc:t5",
@@ -251,6 +244,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Yahoo values him at 11 USD but drafters pay about 5.4 USD. ESPN has him at 2 USD and rank 101, which matches the experts' view that he is worth about rank 100, not top 80. In a 144-player draft he is a balanced, all-build bench guard worth about 4 to 6 USD. His projections assume a jump from 22.6 to about 29 minutes. Early in the season, check whether he starts or gets close to 30 minutes next to Fox and Castle, and whether his 50% FG holds.",
+ "note": "Yahoo and ESPN both put his average cost near 4.5 USD (ranks 85 and 99), and he was not drafted in our league last season. Experts say his mock draft spot of about 70 to 84 is too high, but at about 5 USD he is a fair late buy. With no weak category and good FG% for a guard plus assists, he fits any build. Early in the season, check whether he starts while Tobias Harris has a calf strain, whether he gets close to 29 minutes, and whether last season's late shooting holds.",
  "rejected": []
 }

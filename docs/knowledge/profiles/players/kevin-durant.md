@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 42 | 43.0 | 14 | 26 | 34.0 | 28 | 44 |
+| 2026-27 | 42 | 49.6 | 14 | 26 | 34.0 | 28 | 44 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,39 +20,37 @@
 | FG% | 52.4% | +1.4 | +2.2 | - |
 | FT% | 85.9% | +1.4 | +1.5 | - |
 | 3PM | 2.2 | +0.8 | +0.7 | - |
-| PTS | 24.7 | +1.9 | +1.9 | - |
+| PTS | 24.7 | +1.8 | +1.8 | - |
 | REB | 5.4 | +0.1 | +0.5 | - |
 | AST | 4.3 | +0.6 | +0.6 | - |
 | STL | 0.8 | -0.5 | -0.6 | - |
 | BLK | 1.0 | +0.8 | +1.7 | - |
-| TO | 2.9 | -1.8 | -1.8 | league outlier, weak, weak for his position (punt fit) |
+| TO | 2.9 | -1.7 | -1.7 | league outlier, weak, weak for his position (punt fit) |
 
 </details>
 
 **Current**
-- In an auction mock he went for 40 USD. Josh would pay into the 30s and called 40 USD too rich. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1622))
-- Lloyd expects about 36 minutes a game, maybe 35, because coach Ime Udoka plays his starters heavy minutes. If his minutes fall to 33, his value changes materially. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=299), [09-14](https://youtu.be/LM0cRCGoAUQ?t=451), [09-10](https://youtu.be/dlo7L8Ru91A?t=265))
-- He hurt his ankle in last season's playoffs and is fine now. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1924))
-- He is a projected starter for Houston. More guard depth pushes him into a forward role, and he should play almost no shooting guard. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=328), [10-01](https://youtu.be/aLP080hxizA?t=266), [09-10](https://youtu.be/W-R1dzem32s?t=384), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357))
-- Most experts see him as a first-round player in category leagues and call him a value at his Yahoo rank of 14 to 15 and ADP of 16 to 17. In mock drafts he went at picks 12 and 17, and the speakers preferred him over Maxey, Jalen Johnson, Steph Curry and Scottie Barnes. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=387), [09-23](https://youtu.be/C4vlgpJ62NI?t=2109), [09-17](https://youtu.be/ahNxsoU8Hx4?t=372), [09-17](https://youtu.be/DubdKKhMWHo?t=446), [09-07](https://youtu.be/E-KmhvyZ2CU?t=434), [09-10](https://youtu.be/dlo7L8Ru91A?t=265), [09-10](https://youtu.be/W-R1dzem32s?t=384), [09-14](https://youtu.be/LM0cRCGoAUQ?t=451), [09-24](https://youtu.be/_vbAP5y182A?t=428), [09-15](https://youtu.be/KPdD91Oo8-U?t=448), [09-30](https://youtu.be/BjXP9JODDSg?t=357), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=151), [08-19](https://youtu.be/J1Eg3uaAICU?t=660))
-- Experts call his ESPN rank of 28 far too low. Lloyd names him the best Rockets target in category leagues at that price. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1680), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2120))
-- With our March 28 end date, Houston has a weak 3-3-4 fantasy playoff schedule, 10 games over weeks 19 to 21. The Rockets have only 14 back-to-backs. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970), [10-01](https://youtu.be/aLP080hxizA?t=2011))
-- Reports from Rockets media day say Durant will play fewer minutes this season. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=357), [09-30](https://youtu.be/BjXP9JODDSg?t=357))
-- He has the narrowest outcome range among round-two players: best case 6th, worst case 24th, not counting injury. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=446))
-- One expert expects a decline at age 37 and doubts he stays as healthy after last season's heavy minutes. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=1917))
-- Houston is projected to win 54 games and is expected to stay conservative in the regular season rather than chase seeding. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780))
+- Reports from Rockets media day say Durant will play fewer minutes this season. The Rockets claim the cut will be significant. (fact, 2026-10-08; [09-30](https://youtu.be/BjXP9JODDSg?t=357), [09-30](https://youtu.be/BjXP9JODDSg?t=357), [10-08](https://youtu.be/6DnRWahYrFA?t=524))
+- Lloyd does not believe the Rockets will cut his minutes as much as they claim. He expects about 36 minutes, maybe 35, because Ime Udoka plays his starters heavy minutes. If his minutes fall to 33, his value changes materially. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=512), [10-08](https://youtu.be/6DnRWahYrFA?t=524), [10-01](https://youtu.be/aLP080hxizA?t=299), [10-06](https://youtu.be/eTsjuVu1trk?t=232), [09-14](https://youtu.be/LM0cRCGoAUQ?t=451), [09-10](https://youtu.be/dlo7L8Ru91A?t=265), [09-09](https://youtu.be/7BllEsdNLoM?t=2451))
+- In category leagues the experts see him as a late first-round player. Yahoo's rank of 14 to 15 is about right or slight value. His ESPN rank of 28 is far too low, and Lloyd calls him his best Rockets target at that price. (verdict, 2026-10-08; [10-06](https://youtu.be/eTsjuVu1trk?t=232), [09-23](https://youtu.be/C4vlgpJ62NI?t=2109), [09-17](https://youtu.be/ahNxsoU8Hx4?t=372), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2120), [10-08](https://youtu.be/6DnRWahYrFA?t=512), [10-01](https://youtu.be/aLP080hxizA?t=387), [10-01](https://youtu.be/aLP080hxizA?t=1680), [09-07](https://youtu.be/E-KmhvyZ2CU?t=434), [09-10](https://youtu.be/dlo7L8Ru91A?t=265), [08-19](https://youtu.be/J1Eg3uaAICU?t=660), [09-30](https://youtu.be/BjXP9JODDSg?t=357), [09-24](https://youtu.be/_vbAP5y182A?t=428), [09-15](https://youtu.be/KPdD91Oo8-U?t=448))
+- In an auction mock, Josh would bid into the 30s for Durant. He called the 40 USD winning price too rich. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1622))
+- He hurt his ankle in the playoffs but is fine now. His Yahoo status is questionable, marked not injury related. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1924))
+- Fred VanVleet is back. The projected starters are VanVleet, Amen Thompson, Durant, Jabari Smith Jr. and Alperen Sengun. Durant plays forward and will play almost no shooting guard. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=328), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357), [10-06](https://youtu.be/eTsjuVu1trk?t=232), [09-10](https://youtu.be/W-R1dzem32s?t=384))
+- With a March 28 end, the Rockets play 3, 3 and 4 games in our fantasy playoff weeks, 10 games in total, which is weak. They have only 14 back-to-backs this season. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970), [10-01](https://youtu.be/aLP080hxizA?t=2011))
+- He has the narrowest outcome range in round two: best case 6th, worst case 24th, not counting injury. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=446))
+- At 37 he will probably decline, and he may not stay as healthy after his heavy minutes. One expert expects the Rockets to manage his workload more this season. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=1917), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1802))
+- The Rockets are projected to win 54 games. They are expected to be conservative in the regular season and not chase seeding. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780))
 
 **Durable**
-- Turnovers are his one weak category, at about 3 a game, which is a league outlier. (fact, 2026-10-05; stats)
-- He is an efficient scorer who shoots well from the field and the line. His steals are low. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=440))
-- He is worth much more in 9-cat category leagues than in points leagues. (verdict, 2026-10-01; [09-10](https://youtu.be/dlo7L8Ru91A?t=289), [08-24](https://youtu.be/g31YlwRe0XQ?t=443), [10-01](https://youtu.be/aLP080hxizA?t=387), [09-22](https://youtu.be/QbdrhJd7LiA?t=228), [09-01](https://youtu.be/80kfLVnFQ_s?t=460))
-- At 37, the main worry is whether his body holds up. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=440), [09-16](https://youtu.be/2A2JbUN-kc0?t=1917))
-- Coach Ime Udoka is defense-first and plays his starters very heavy minutes. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=146), [09-09](https://youtu.be/7BllEsdNLoM?t=2451), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1152))
+- Turnovers are his one weak category. At about 3 per game, he is a clear outlier against the pool. (fact, 2026-10-11; stats)
+- Durant is an efficient high-volume scorer who shoots well from the field and the line. His points, FG% and FT% are all clearly above the pool, and his blocks are strong for his position. His steals are low. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=440), stats)
+- The main long-term worry is whether his body holds up, given his age. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=440), [09-16](https://youtu.be/2A2JbUN-kc0?t=1917))
+- He is worth much more in category leagues than in points leagues. Points-league rankings undervalue him for our format. (verdict, 2026-10-01; [09-10](https://youtu.be/dlo7L8Ru91A?t=289), [08-24](https://youtu.be/g31YlwRe0XQ?t=443), [10-01](https://youtu.be/aLP080hxizA?t=387), [09-22](https://youtu.be/QbdrhJd7LiA?t=228), [10-06](https://youtu.be/eTsjuVu1trk?t=232))
 
 **Tags**
-- Current: `role down` (Media day reports of fewer minutes; Lloyd expects 35 to 36), `expert target` (Experts see a late first-rounder; market has him in round two, ESPN rank 28), `sites disagree on price` (Yahoo rank 14 and 42 USD vs ESPN rank 28 and 26 USD), `winning team` (Projected 54 wins), `bad playoff schedule` (3-3-4, 10 games in weeks 19 to 21), `few back-to-backs` (14 back-to-backs)
-- Durable: `category league player` (Tier two in categories, tier three or four in points), `high TO` (About 3 turnovers a game), `punt TO fit` (Turnovers are his only weak category), `age decline watch` (Age 37 after heavy minutes last season), `heavy starter minutes` (Ime Udoka), `defense-first` (Ime Udoka)
+- Current: `minutes limit` (Rockets say they will cut his minutes. Lloyd doubts it and expects 35 to 36.), `questionable` (Yahoo Q, not injury related), `expert target` (Experts call ESPN rank 28 far too low and see him as a late first-rounder), `sites disagree on price` (Yahoo rank 14 and value 42 USD, ESPN rank 28 and value 26 USD), `bad playoff schedule` (3-3-4, 10 games over weeks 19 to 21 with a March 28 end), `few back-to-backs` (14 back-to-backs), `winning team` (Projected 54 wins)
+- Durable: `high TO` (About 3 turnovers per game), `punt TO fit` (TO is his only weak category), `category league player` (Tier 2 in categories, tier 3 to 4 in points), `age decline watch` (Age 37, coming off heavy minutes), `heavy starter minutes` (Ime Udoka plays his starters big minutes)
 
-**Note.** Durant helps in every category except turnovers (about 3 a game), which makes him a natural fit for punt TO builds. Prices: Yahoo value 42 USD (average cost 43), ESPN value 26 USD (average cost 34), and he went for 44 USD in our league last season. In an expert mock he went for 40 USD, which Josh called too rich, so the low to high 30s looks like the sensible range. Watch his minutes early: the media day reports point to fewer, and Lloyd says his value changes materially if he drops to about 33 minutes. Houston's weak 10-game schedule in our playoff weeks is a small extra minus.
+**Note.** The category-league experts agree that Durant is a late first-round value. His only real hole is turnovers (z -1.7), so he fits punt TO builds best, and his volume shooting helps both FG% and FT%. Prices vary: Yahoo values him at 42 USD with an average cost of 49.6 USD, ESPN at 26 USD, and he went for 44 USD in our league last season. In Josh's mock, 40 USD was already too rich, so a price in the low 40s is fair and the 50 USD range is a stretch. In the first weeks, check whether he plays 35 to 36 minutes or nearer 33, the level where Lloyd says his value changes materially. Also remember the Rockets play only 10 games in our playoff weeks.
 
-<sub>25 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>28 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

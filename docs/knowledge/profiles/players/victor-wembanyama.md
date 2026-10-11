@@ -3,7 +3,7 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, ESPN | 67 | 31.9 | 50.2 (18.3) | 82.3 (7.0) | 2.2 | 26.3 | 12.2 | 3.5 | 1.1 | 3.5 | 2.9 |
+| 2026-27 proj, ESPN | 67 | 32.5 | 50.2 (18.7) | 82.4 (7.1) | 2.2 | 26.9 | 12.4 | 3.6 | 1.2 | 3.5 | 2.9 |
 | 2026-27 proj, Yahoo | 68 | - | 51.9 (17.4) | 82.2 (7.1) | 1.9 | 25.7 | 11.4 | 3.4 | 1.0 | 3.4 | 2.8 |
 | 2025-26 | 64 | 29.2 | 51.2 (16.9) | 82.7 (7.0) | 1.9 | 25.0 | 11.5 | 3.1 | 1.0 | 3.1 | 2.4 |
 | 2024-25 | 46 | 33.2 | 47.6 (18.6) | 83.6 (4.1) | 3.1 | 24.3 | 11.0 | 3.7 | 1.1 | 3.8 | 3.2 |
@@ -11,49 +11,48 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 60 | 70.0 | 2 | 65 | 80.5 | 2 | 85 |
+| 2026-27 | 60 | 79.3 | 2 | 65 | 80.0 | 2 | 85 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 51.0% | +1.0 | +0.1 | - |
-| FT% | 82.2% | +0.8 | +1.4 | - |
-| 3PM | 2.0 | +0.6 | +1.8 | - |
-| PTS | 26.0 | +2.1 | +2.3 | league outlier, strong |
-| REB | 11.8 | +2.8 | +1.8 | league outlier, strong |
-| AST | 3.4 | +0.1 | +0.7 | - |
-| STL | 1.1 | +0.4 | +1.1 | - |
+| FG% | 51.0% | +1.0 | +0.0 | - |
+| FT% | 82.3% | +0.8 | +1.4 | - |
+| 3PM | 2.1 | +0.6 | +1.8 | - |
+| PTS | 26.3 | +2.1 | +2.3 | league outlier, strong |
+| REB | 11.9 | +2.9 | +1.8 | league outlier, strong |
+| AST | 3.5 | +0.1 | +0.7 | - |
+| STL | 1.1 | +0.5 | +1.2 | - |
 | BLK | 3.4 | +6.0 | +4.1 | league outlier, strong |
 | TO | 2.8 | -1.6 | -2.0 | league outlier, weak, weak for his position (punt fit) |
 
 </details>
 
 **Current**
-- Experts value him at about 70 USD in auctions. In a recent mock he went for 80 USD, which Josh called a little high but not outrageous. If he goes for 85 USD, the extra money has to come out of other players' prices. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=366), [09-29](https://youtu.be/XnIWJyBB0EM?t=963), [09-29](https://youtu.be/XnIWJyBB0EM?t=1960))
-- Experts see him as a top 2 or 3 pick, with Jokic as the other choice for first overall. His best case is first and his downside is about fifth, so he is a safe pick at the top. (verdict, 2026-09-23; [09-17](https://youtu.be/DubdKKhMWHo?t=313), [09-07](https://youtu.be/gJUBAJaHzlU?t=663), [08-19](https://youtu.be/J1Eg3uaAICU?t=304), [08-11](https://youtu.be/OdDkXFhoKsc?t=280), [09-23](https://youtu.be/C4vlgpJ62NI?t=1335))
-- His minutes are low for a star. (fact, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=269))
-- His minutes are expected to be managed somewhat, so he will not play 35 minutes a night. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=222))
-- Fears about his durability are overblown, because his shortened season came from a blood clot, which is not a repeatable injury. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=222))
-- Opponents avoid shooting near the rim against him, which cut his blocks and contests to a career low. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1707), [07-17](https://youtu.be/NYTH7uQsPCM?t=574), [07-07](https://youtu.be/ME-r173X5b0?t=1814))
-- Tynen expects teams to keep avoiding shots at the rim against him in the regular season. His blocks could stay around 3 a game rather than return to 3.5 or more. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1916), [07-07](https://youtu.be/ME-r173X5b0?t=1814))
-- The Spurs are projected to be a top team in the West. Tynen predicts 63 wins, and they could take the top seed. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2403), [07-26](https://youtu.be/75Sk_4fkgIM?t=370))
+- Experts value him at about 70 USD in auctions. A price of 80 USD is a little high but not outrageous. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=366), [09-29](https://youtu.be/XnIWJyBB0EM?t=963))
+- Experts see him as a safe top pick. His best case is 1st overall and his downside is around 5th. Nearly every draft takes him or Jokic first. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=313), [09-07](https://youtu.be/gJUBAJaHzlU?t=663), [08-19](https://youtu.be/J1Eg3uaAICU?t=304), [08-11](https://youtu.be/OdDkXFhoKsc?t=280))
+- His minutes are expected to be managed somewhat, so he will not play 35 a night. (verdict, 2026-09-16; [09-14](https://youtu.be/t4n9MAP2_14?t=222), [09-16](https://youtu.be/2A2JbUN-kc0?t=269))
+- Fears about his durability are overblown, because the blood clot that shortened one season is not a repeatable injury. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=222))
+- Last season his blocks fell to a career low, but he still led the league. Opponents stopped challenging him at the rim, so he defended fewer shots there. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1707), [07-17](https://youtu.be/NYTH7uQsPCM?t=574), [07-07](https://youtu.be/ME-r173X5b0?t=1814))
+- Teams are expected to keep avoiding shots at the rim against him in the regular season. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1916))
 
 **Durable**
-- Blocks, rebounds and points are far above the top 250 pool. Blocks are his biggest outlier. (fact, 2026-10-05; stats)
-- Turnovers are his weak category, even compared with other centers. (fact, 2026-10-05; stats)
-- He makes about two threes a game and shoots about 82% from the line on about 7 attempts. Both are well above other centers. He is one of the Spurs' best free throw shooters. (fact, 2026-10-05; stats, [08-27](https://youtu.be/ZAyie8lKyYc?t=1160))
-- He helps in points, rebounds, blocks, threes and both percentages. Assists, threes and steals are his weakest positive categories. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1339))
-- He does not win blocks on his own. A team built around him still needs at least one other shot blocker. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1416))
-- He has played about 65 or more games in two of his three seasons. His short season came from a blood clot. (fact, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=269))
-- He is still learning to score one on one when given the ball. That is not yet a strength. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=472))
-- About half of his rim contests turn into blocks. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=549))
-- He is the best defender in the league. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=549))
+- Blocks are his biggest outlier, far above the top 250 pool. Points and rebounds are also league outliers. (fact, 2026-10-11; stats)
+- Turnovers are his one weak category. He commits many more than the pool and more than other centers. (fact, 2026-10-11; stats)
+- He makes many threes for a center. (fact, 2026-10-11; stats)
+- He helps in almost every category: points, rebounds, blocks, threes, both percentages and assists. Assists, threes and steals are his weakest positive categories. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1339), stats)
+- He does not win blocks by himself. A team still needs at least one other shot blocker. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1416))
+- He played about 65 games in two of the last three seasons. A blood clot caused the one shortened season. (fact, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=269), [09-14](https://youtu.be/t4n9MAP2_14?t=222))
+- He is one of the Spurs' best free throw shooters, though he missed many in the Finals. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1160))
+- He is still learning to score one-on-one when given the ball. It is not yet a strength. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=472))
+- Half of his rim contests turn into blocks. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=549))
+- He is called the best defender in the league. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=549))
 
 **Tags**
-- Current: `minutes limit` (minutes managed somewhat, no 35 a night), `winning team` (Tynen predicts 63 wins; could take the West top seed)
-- Durable: `BLK specialist` (about 3.4 blocks per game, the biggest outlier in the pool), `REB specialist` (about 11.8 rebounds per game), `PTS specialist` (about 26 points per game), `high TO` (about 2.8 turnovers per game), `punt TO fit` (turnovers are his only weak category), `3PM from a big` (about 2 threes per game as a center), `elite per game` (top 2 or 3 pick; best case 1st, downside about 5th)
+- Current: `minutes limit` (Minutes managed somewhat, no 35 a night), `winning team` (Spurs projected for 63 wins and a shot at the West's top seed)
+- Durable: `BLK specialist` (Blocks far above the top 250 pool, his biggest outlier), `REB specialist`, `PTS specialist`, `3PM from a big` (About 2 threes per game, well above other centers), `high TO` (About 2.8 turnovers per game), `punt TO fit` (Turnovers are his only weak category), `elite per game` (Consensus top 2 pick, best case 1st overall)
 
-**Note.** He is a top 2 pick on both sites. Yahoo values him at 60 USD and ESPN at 65 USD, but average costs run 70 to 80.5 USD, experts price him around 70 USD, and our league paid 85 USD last season. That 85 USD was more than his value, so plan for 70 to 80 USD and let someone else go past that. He fits any build that can absorb turnovers, and punt TO is a natural fit. You still want a second shot blocker. Early in the season, check his minutes, since they are expected to stay under 35, and whether opponents keep avoiding the rim, which would hold his blocks near 3 a game.
+**Note.** Expect him to cost about 80 USD, close to the Yahoo and ESPN average costs. Our league paid 85 USD last season. The site values are only 60 to 65 USD and the experts' value is about 70 USD, so anything near 80 USD is a little high but defensible for a top 2 player who stands out in blocks, rebounds and points. He fits any build, especially punt TO, but you still need a second shot blocker to lock up blocks. Early in the season, check whether his minutes stay near 30 and whether his blocks climb back above last season's career low of 3.1.
 
-<sub>21 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>21 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

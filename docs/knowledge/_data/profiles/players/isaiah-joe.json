@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "59fdff523a9d",
+ "input_sha": "03ba854ce0f0",
  "note_count": 6,
- "built_at": "2026-10-05T19:50:49+00:00",
+ "built_at": "2026-10-11T09:17:18+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.14157419999999998,
-  "duration_ms": 31726,
-  "turns": 2,
+  "cost_usd_list": 0.1936892,
+  "duration_ms": 40874,
+  "turns": 3,
   "denied": 0
  },
  "current": [
   {
-   "text": "He joined Detroit in an offseason trade.",
+   "text": "Detroit traded for him in the offseason.",
    "kind": "fact",
    "date": "2026-07-01",
    "until": "",
@@ -30,7 +30,7 @@
    ]
   },
   {
-   "text": "He is projected as Detroit's sixth man and backup shooter, the first player off the bench ahead of Ron Holland, Paul Reed and Daniss Jenkins.",
+   "text": "He is projected as Detroit's sixth man and backup shooter. Ron Holland, Paul Reed and Daniss Jenkins are behind him in the bench rotation.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
@@ -41,16 +41,17 @@
    ]
   },
   {
-   "text": "Duncan Robinson is projected to keep his starting spot.",
+   "text": "Duncan Robinson is in the projected starting five.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
+    "p9XE5jFqhvs:t0",
     "_O9pc_u5vH0:t0"
    ]
   },
   {
-   "text": "He is the most likely player to challenge Duncan Robinson for the starting spot.",
+   "text": "Joe is seen as the most likely player to take Robinson's starting spot.",
    "kind": "verdict",
    "date": "2026-08-12",
    "until": "",
@@ -68,7 +69,16 @@
    ]
   },
   {
-   "text": "He ranks around 250 for fantasy, outside the top 250. He is a three-point streamer, not a draft target.",
+   "text": "Experts do not trust coach JB Bickerstaff's comments about minutes.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "BiIZsSypx7Y:t1"
+   ]
+  },
+  {
+   "text": "He is ranked outside the top 250 for fantasy. His value is as a three-point streamer, not as a draft pick.",
    "kind": "verdict",
    "date": "2026-10-03",
    "until": "",
@@ -78,17 +88,17 @@
    ]
   },
   {
-   "text": "Detroit is projected to win 50 to 51 games and finish third or fourth in the East.",
-   "kind": "verdict",
-   "date": "2026-08-12",
+   "text": "For a season ending March 28, Detroit plays 4, 3 and 4 games in the fantasy playoff weeks. The team has 15 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-03",
    "until": "",
    "sources": [
-    "p9XE5jFqhvs:t3"
+    "_O9pc_u5vH0:t6"
    ]
   },
   {
-   "text": "Detroit plays 4, 3 and 4 games in our playoff weeks. The team has 15 back-to-backs, with no rest risk expected.",
-   "kind": "fact",
+   "text": "No rest risks are expected for Detroit players on back-to-backs.",
+   "kind": "verdict",
    "date": "2026-10-03",
    "until": "",
    "sources": [
@@ -107,21 +117,30 @@
    ]
   },
   {
-   "text": "His defense kept him off the floor in OKC's last two playoff runs, and he fell out of their playoff rotation.",
+   "text": "His value comes from threes, few turnovers and a good FT% on low volume. His rebounds, assists, steals and blocks are below the top 250 pool.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He can get hot from three in the regular season. His shooting fell off in the second half of last season.",
+   "kind": "fact",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p18"
+   ]
+  },
+  {
+   "text": "He creates some turnovers on defense. His overall defense kept him out of OKC's rotation in the last two playoff runs.",
    "kind": "fact",
    "date": "2026-08-12",
    "until": "",
    "sources": [
     "p9XE5jFqhvs:p23",
-    "75Sk_4fkgIM:p18"
-   ]
-  },
-  {
-   "text": "He is a strong regular-season shooter who can get hot from three. His shooting fell off in the second half of last season.",
-   "kind": "verdict",
-   "date": "2026-07-26",
-   "until": "",
-   "sources": [
     "75Sk_4fkgIM:p18"
    ]
   }
@@ -130,7 +149,7 @@
   {
    "name": "new team",
    "channel": "current",
-   "detail": "traded from OKC to Detroit",
+   "detail": "Traded from OKC to Detroit in the offseason",
    "until": "",
    "sources": [
     "W3THnI7wWdA:p8"
@@ -140,19 +159,28 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "sixth man behind starter Duncan Robinson; most likely challenger for that spot",
+   "detail": "Sixth man, competes with Duncan Robinson for the starting spot",
    "until": "",
    "sources": [
     "p9XE5jFqhvs:p24",
-    "_O9pc_u5vH0:t0",
     "_O9pc_u5vH0:p27"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Detroit used a 12 to 13 player rotation last season",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:t2"
    ],
    "new_meaning": ""
   },
   {
    "name": "waiver watch",
    "channel": "current",
-   "detail": "three-point streamer, ranked around 250",
+   "detail": "Three-point streamer, ranked outside the top 250",
    "until": "",
    "sources": [
     "_O9pc_u5vH0:p27",
@@ -163,7 +191,7 @@
   {
    "name": "streaky",
    "channel": "durable",
-   "detail": "hot and cold three-point stretches; shooting fell off in the second half of last season",
+   "detail": "Can get hot from three, but his shooting fell off in the second half of last season",
    "until": "",
    "sources": [
     "75Sk_4fkgIM:p18"
@@ -171,38 +199,17 @@
    "new_meaning": ""
   },
   {
-   "name": "deep rotation",
-   "channel": "current",
-   "detail": "Detroit used a 12 to 13 player rotation last season",
-   "until": "",
-   "sources": [
-    "p9XE5jFqhvs:t2",
-    "_O9pc_u5vH0:t4"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "defense-first",
    "channel": "durable",
-   "detail": "Detroit is built on defense; his own defense limits his minutes",
+   "detail": "Detroit is built on defense, and his defense has cost him playoff minutes",
    "until": "",
    "sources": [
     "p9XE5jFqhvs:t1",
     "p9XE5jFqhvs:p23"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "winning team",
-   "channel": "current",
-   "detail": "projected 50 to 51 wins",
-   "until": "",
-   "sources": [
-    "p9XE5jFqhvs:t3"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "Both sites value him at 0 USD (Yahoo rank 255, ESPN rank 188), and he went undrafted in our league. That puts him outside our 144-player draft pool, so leave him on waivers. As a streamer he gives about 2.5 threes and very few turnovers (TO z +1.4, 3PM z +1.2), and his FT% is good but on low volume. He gives almost nothing in REB, AST, STL or BLK. Early in the season, check whether he takes Duncan Robinson's starting spot or plays clearly more than his usual 21 minutes. Either change would make him worth a FAB bid for teams that need threes.",
+ "note": "Both sites value him at 0 USD (Yahoo rank 255, ESPN rank 190), and only 144 players get drafted, so do not draft him. He is a waiver streamer for threes. He projects about 2.5 3PM with very few turnovers on roughly 21 minutes, but he gives little in REB, AST, STL and BLK. Early in the season, check whether he takes Duncan Robinson's starting spot or gets more than 21 minutes, since that would make him worth holding in 3PM-heavy builds.",
  "rejected": []
 }

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 29 | 19.4 | 31 | 29 | 28.0 | 25 | 42 |
+| 2026-27 | 27 | 23.8 | 33 | 28 | 27.6 | 26 | 42 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,44 +19,41 @@
 |---|---|---|---|---|
 | FG% | 42.4% | -1.4 | -1.5 | weak for his position (punt fit) |
 | FT% | 88.1% | +2.1 | +2.2 | league outlier, strong |
-| 3PM | 2.7 | +1.3 | +1.1 | - |
+| 3PM | 2.7 | +1.3 | +1.0 | - |
 | PTS | 19.7 | +1.0 | +0.9 | - |
 | REB | 4.9 | -0.1 | +0.7 | - |
 | AST | 7.8 | +2.4 | +2.0 | league outlier, strong |
 | STL | 1.2 | +0.7 | +0.4 | - |
-| BLK | 0.6 | -0.1 | +0.9 | - |
+| BLK | 0.6 | -0.1 | +0.8 | - |
 | TO | 3.3 | -2.3 | -2.0 | league outlier, weak, weak for his position (punt fit) |
 
 </details>
 
 **Current**
-- He went for 24 USD in an auction mock draft. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2750))
-- His auction value is all over the place. The expected price is in the low to mid 20s USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2750))
-- He is no longer a round two pick. Fair value is about picks 28 to 40 in category leagues, the end of round three in a 12-team league. Pick 35 feels about right. (verdict, 2026-09-30; [09-29](https://youtu.be/NmdNvAz08oE?t=805), [09-29](https://youtu.be/NmdNvAz08oE?t=839), [09-30](https://youtu.be/BjXP9JODDSg?t=657), [09-09](https://youtu.be/7BllEsdNLoM?t=1228), [09-10](https://youtu.be/W-R1dzem32s?t=914), [08-11](https://youtu.be/OdDkXFhoKsc?t=730))
-- He is a projected starter for Cleveland next to Donovan Mitchell, Peyton Watson, Evan Mobley and Jarrett Allen. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=397), [08-24](https://youtu.be/rnq3118kfhY?t=510))
-- His usage, shot attempts, free throw attempts and scoring dropped after he joined Cleveland. He averaged under 20 points there and plays more as a distributor next to Mitchell, Mobley and Watson. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=767), [09-09](https://youtu.be/7BllEsdNLoM?t=1228), [09-10](https://youtu.be/W-R1dzem32s?t=914), [09-19](https://youtu.be/uarqbNA2dFk?t=1977), [09-22](https://youtu.be/QbdrhJd7LiA?t=390), [09-22](https://youtu.be/QbdrhJd7LiA?t=1359), [08-24](https://youtu.be/rnq3118kfhY?t=533), [09-24](https://youtu.be/_vbAP5y182A?t=613), [09-22](https://youtu.be/QbdrhJd7LiA?t=408), [08-11](https://youtu.be/OdDkXFhoKsc?t=730))
-- Over his last six games in Cleveland he played about 33 minutes with a usage of about 24 to 25. His assists and FG% dropped in that stretch. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=805))
-- Experts do not expect the usage drop to reverse. He probably will not repeat 35 minutes a night or last season's finish. (verdict, 2026-09-29; [09-09](https://youtu.be/7BllEsdNLoM?t=1228), [09-29](https://youtu.be/NmdNvAz08oE?t=805), [09-29](https://youtu.be/NmdNvAz08oE?t=839))
-- ESPN's rank of 23 to 25 and his round two ADP are too high. A Yahoo rank of about 30 is fine for category leagues. (verdict, 2026-09-29; [09-19](https://youtu.be/uarqbNA2dFk?t=1977), [09-22](https://youtu.be/QbdrhJd7LiA?t=390), [09-22](https://youtu.be/QbdrhJd7LiA?t=1359), [09-29](https://youtu.be/NmdNvAz08oE?t=747), [09-24](https://youtu.be/_vbAP5y182A?t=613))
-- Cleveland's second unit has no clear point guard, so Harden and Mitchell may stagger their minutes. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=250))
+- His Yahoo status is questionable with an ankle injury. (fact, 2026-10-11; stats)
+- Harden is back with Cleveland for a full season. He is in the projected starting lineup with Donovan Mitchell, Peyton Watson, Evan Mobley and Jarrett Allen. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=608), [09-29](https://youtu.be/NmdNvAz08oE?t=397), [08-24](https://youtu.be/rnq3118kfhY?t=510), [09-22](https://youtu.be/QbdrhJd7LiA?t=408))
+- Auction value is in the low to mid 20s USD. He went for 24 USD in an expert mock auction. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2750))
+- He is no longer a first or second round player. The experts' fair range in category leagues is about picks 28 to 40, or the end of round three in 12 teams. Pick 35 feels about right. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=657), [09-29](https://youtu.be/NmdNvAz08oE?t=805), [09-29](https://youtu.be/NmdNvAz08oE?t=839), [09-09](https://youtu.be/7BllEsdNLoM?t=1228), [09-10](https://youtu.be/W-R1dzem32s?t=914), [09-19](https://youtu.be/uarqbNA2dFk?t=1977), [09-24](https://youtu.be/_vbAP5y182A?t=613), [09-22](https://youtu.be/QbdrhJd7LiA?t=1359), [08-11](https://youtu.be/OdDkXFhoKsc?t=730))
+- In Cleveland his usage, shot attempts and free throw attempts are lower. He plays more as a distributor next to Mitchell, Mobley and Watson. With Cleveland he scored under 20 points a game and his field goal percentage became a problem. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=767), [08-24](https://youtu.be/rnq3118kfhY?t=533), [09-22](https://youtu.be/QbdrhJd7LiA?t=390), [09-19](https://youtu.be/uarqbNA2dFk?t=1977), [09-10](https://youtu.be/W-R1dzem32s?t=914), [09-09](https://youtu.be/7BllEsdNLoM?t=1228), [09-24](https://youtu.be/_vbAP5y182A?t=613))
+- Over his last six games in Cleveland he played about 33 minutes with a usage rate of about 24 to 25, and his assists and FG% dropped. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=805))
+- Experts do not expect his usage to recover. They doubt he repeats last season or plays 35 minutes a night again. Josh thinks his end-of-career decline is starting. (verdict, 2026-09-29; [09-09](https://youtu.be/7BllEsdNLoM?t=1228), [09-29](https://youtu.be/NmdNvAz08oE?t=805), [09-29](https://youtu.be/NmdNvAz08oE?t=839), [09-22](https://youtu.be/QbdrhJd7LiA?t=390))
+- Cleveland's bench lost Schroder, Ellis and Strus and has no clear backup point guard. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=250), [09-29](https://youtu.be/NmdNvAz08oE?t=1376))
+- Harden and Mitchell may stagger their minutes. How much they share the floor is an open question. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=250))
+- He is worth less in points leagues (picks 35 to 50, or the 40s) than in category leagues. His Yahoo rank is fine for categories but too high for points. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=839), [09-22](https://youtu.be/QbdrhJd7LiA?t=390), [09-01](https://youtu.be/80kfLVnFQ_s?t=588), [08-24](https://youtu.be/g31YlwRe0XQ?t=595))
+- With a March 28 end, Cleveland plays 4, 3 and then 2 games in the fantasy playoff weeks. Finals week, starting March 22, is a two-game week. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [08-16](https://youtu.be/gf_6GveiAls?t=1536), [08-16](https://youtu.be/gf_6GveiAls?t=1555))
 - Cleveland has the most back-to-backs in the league. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1907), [08-16](https://youtu.be/gf_6GveiAls?t=930))
-- With a March 28 end, Cleveland plays 4, 3 and 2 games in fantasy playoff weeks 19 to 21. Finals week, starting March 22, has only two games. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [08-16](https://youtu.be/gf_6GveiAls?t=1536), [08-16](https://youtu.be/gf_6GveiAls?t=1555))
-- Cleveland has no current injury concerns. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1808))
-- The two-game finals week lowers his value. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1555))
+- Cleveland is projected to win about 51 to 53 games. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1832))
 
 **Durable**
-- Assists and high-volume FT% are his league-outlier strengths. Turnovers are a league-outlier weakness, and his FG% is weak for a guard. (fact, 2026-10-05; stats)
-- He is still an elite assist source, and his assists keep their value. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=785), [09-09](https://youtu.be/7BllEsdNLoM?t=1228), [09-10](https://youtu.be/W-R1dzem32s?t=914), stats)
-- He gets to the free throw line less than he used to. His FG% and two-point percentage have fallen, and he no longer adds much in steals and blocks. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=785), [09-10](https://youtu.be/W-R1dzem32s?t=914), [09-19](https://youtu.be/uarqbNA2dFk?t=1977))
-- He is 37. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=747), [08-24](https://youtu.be/rnq3118kfhY?t=533))
-- He is worth more in category leagues than in points leagues. He finished 13th in categories and 19th in points last season. The expert range is picks 28 to 40 in categories and 35 to 50 in points. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=747), [09-29](https://youtu.be/NmdNvAz08oE?t=839), [09-22](https://youtu.be/QbdrhJd7LiA?t=390))
-- He is starting the end-of-career decline and showed his age last season. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=390), [09-19](https://youtu.be/uarqbNA2dFk?t=1977))
-- He is considered a durable player. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=533))
+- He is a strong FT% shooter on volume and a heavy turnover source. His FG% is weak for a guard. (fact, 2026-10-11; stats)
+- He is still an elite source of assists, and assists are the core of his value. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=785), [09-09](https://youtu.be/7BllEsdNLoM?t=1228), [09-10](https://youtu.be/W-R1dzem32s?t=914), stats)
+- He gets to the free throw line less than he used to, his shooting has declined, and he adds little in steals and blocks. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=785))
+- He is 37 years old and is considered durable. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=747), [08-24](https://youtu.be/rnq3118kfhY?t=533))
 
 **Tags**
-- Current: `usage competition` (shares the ball with Mitchell, Mobley and Watson), `role down` (lower usage and likely fewer than 35 minutes), `bust candidate` (ESPN rank 23 to 25 and round two ADP are too high), `sites disagree on price` (Yahoo average cost 19.4 USD vs ESPN 28.0 USD), `many back-to-backs` (Cleveland has the most back-to-backs in the league), `bad playoff schedule` (4, 3 and 2 games in weeks 19 to 21, only two in finals week), `winning team` (about 51 to 53 wins predicted)
-- Durable: `AST specialist` (elite assist source even with lower usage), `FT% anchor` (about 88% FT), `high TO` (about 3.3 TO per game projected), `punt FG fit` (about 42% FG, weak for a guard), `punt TO fit`, `category league player` (13th in categories vs 19th in points last season), `age decline watch` (37, end-of-career drop-off starting)
+- Current: `role down` (lower usage and fewer minutes than his 35 a game last season), `usage competition` (Mitchell, Mobley and Watson), `bust candidate` (if drafted in round two or at his ESPN rank in the mid 20s), `many back-to-backs` (Cleveland has the most in the league), `bad playoff schedule` (4, 3, 2 games; two-game finals week starting March 22), `questionable` (ankle), `injured now` (ankle, Yahoo Q), `winning team` (projected 51-53 wins)
+- Durable: `AST specialist`, `FT% anchor`, `high TO`, `punt FG fit`, `punt TO fit`, `age decline watch` (age 37; experts see an end-of-career drop-off), `category league player` (ranges of picks 28-40 in categories vs 35-50 in points)
 
-**Note.** He cost 42 USD in our league last season, but experts now price him in the low to mid 20s USD (a mock went for 24). The market is split: Yahoo's average cost is 19.4 USD and ESPN's is 28.0, against a 29 USD value on both. He suits punt FG% and punt TO builds that want elite assists and FT%. The two-game finals week hurts him. Early in the season, check whether he plays more than 33 minutes and how much he staggers with Mitchell.
+**Note.** Our league paid 42 USD for him last season. This year Yahoo and ESPN value him at 27 to 28 USD (Yahoo average cost 23.8 USD), and the experts put him in the low to mid 20s USD, so do not go far past 25 USD. He fits punt FG% and punt TO builds best, since he gives elite assists and strong FT% on volume with weak FG% and heavy turnovers. Early in the season, check his ankle, whether his minutes stay near 33 and his usage near 24 to 25, and how he shares the floor with Mitchell. His two-game finals week also lowers his value late in the season.
 
-<sub>20 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>20 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

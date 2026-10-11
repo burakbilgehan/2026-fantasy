@@ -8,43 +8,44 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "e1301d05b495",
+ "input_sha": "22d0ebfa0ede",
  "note_count": 10,
- "built_at": "2026-10-05T19:50:44+00:00",
+ "built_at": "2026-10-11T09:17:18+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2983712,
-  "duration_ms": 74642,
+  "cost_usd_list": 0.2721198,
+  "duration_ms": 65747,
   "turns": 3,
   "denied": 0
  },
  "current": [
   {
-   "text": "The Warriors' projected starters are Curry, Podziemski, Lendeborg, Green and Horford. Santos is projected to come off the bench.",
+   "text": "He competes with Yaxel Lendeborg for the same starting forward minutes. Recent preseason projections start Lendeborg and have Santos coming off the bench.",
    "kind": "fact",
    "date": "2026-09-30",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:t3",
     "LXZLrL90crE:p20",
-    "LXZLrL90crE:t1"
+    "LXZLrL90crE:t1",
+    "g31YlwRe0XQ:p46",
+    "dlo7L8Ru91A:p38"
    ]
   },
   {
-   "text": "He competes with Yaxel Lendeborg for the same starting job. Podziemski and Melton are also in the mix on the wing.",
+   "text": "Kerr often changes his announced starting lineup a few games in. The starting wing and guard spots among Podziemski, Melton, Lendeborg and Santos are not settled.",
    "kind": "fact",
    "date": "2026-09-30",
    "until": "",
    "sources": [
-    "dlo7L8Ru91A:p38",
-    "g31YlwRe0XQ:p46",
     "W-R1dzem32s:t3",
-    "MUbNYdjpUDM:t3"
+    "LXZLrL90crE:t2",
+    "MUbNYdjpUDM:t2"
    ]
   },
   {
-   "text": "He might still start, and rest days for Golden State's veterans should give him enough minutes. Josh still prefers Podziemski and Lendeborg.",
+   "text": "He might still start, and rest days for Golden State veterans should give him enough minutes either way. Josh still prefers Podziemski and Lendeborg.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -62,28 +63,18 @@
    ]
   },
   {
-   "text": "Draft him as a late flyer in rounds 11 to 13. He could be a top 70 player after the trade deadline, and with Porzingis out his usage could go above 20 percent.",
-   "kind": "verdict",
-   "date": "2026-09-30",
-   "until": "",
+   "text": "Jimmy Butler is out for at least half the season. His return could reshuffle the wing rotation and cut into Santos's role.",
+   "kind": "fact",
+   "date": "2026-07-17",
+   "until": "Jimmy Butler returns",
    "sources": [
-    "MUbNYdjpUDM:p22",
-    "dlo7L8Ru91A:p38",
-    "g31YlwRe0XQ:p46"
+    "NYTH7uQsPCM:t6",
+    "OBwWCxG9SqM:t4",
+    "xHRF06_E9HE:p33"
    ]
   },
   {
-   "text": "Pair him with Lendeborg as a hedge and keep whichever of the two wins the role.",
-   "kind": "verdict",
-   "date": "2026-09-10",
-   "until": "",
-   "sources": [
-    "dlo7L8Ru91A:p38",
-    "g31YlwRe0XQ:p46"
-   ]
-  },
-  {
-   "text": "After the trade deadline last season he played 31 minutes a game and ranked 72nd, with 15 points, 6 rebounds, 4 assists and 1.5 steals per game.",
+   "text": "After last season's trade deadline he played 31 minutes a game, averaged 15 points, 6 rebounds, 4 assists and 1.5 steals, and ranked 72nd. Before the deadline he ranked 302nd.",
    "kind": "fact",
    "date": "2026-09-10",
    "until": "",
@@ -93,7 +84,27 @@
    ]
   },
   {
-   "text": "Some of his shooting last season was fluky and may not hold.",
+   "text": "Draft him in rounds 11 to 13 as a late flyer. He could be top 70 after the trade deadline, and a usage rate above 20 is possible with Porzingis out.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p22",
+    "dlo7L8Ru91A:p38"
+   ]
+  },
+  {
+   "text": "Draft him late together with Lendeborg as a hedge, and keep whichever one wins the role.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "g31YlwRe0XQ:p46",
+    "dlo7L8Ru91A:p38"
+   ]
+  },
+  {
+   "text": "Some of his shooting last season was fluky.",
    "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
@@ -102,48 +113,26 @@
    ]
   },
   {
-   "text": "Jimmy Butler is out for at least half the season.",
-   "kind": "fact",
-   "date": "2026-09-03",
-   "until": "",
-   "sources": [
-    "NYTH7uQsPCM:t6",
-    "OBwWCxG9SqM:t4"
-   ]
-  },
-  {
-   "text": "Butler's return should shake up the wing rotation again and can cut into Santos's role.",
-   "kind": "verdict",
-   "date": "2026-07-17",
-   "until": "",
-   "sources": [
-    "xHRF06_E9HE:t8",
-    "xHRF06_E9HE:p33"
-   ]
-  },
-  {
-   "text": "Golden State is reportedly treating this as a gap year. The team is worried about lottery odds and may rest veterans.",
+   "text": "Golden State may treat this season as a gap year. The team is worried about lottery odds and may rest veterans, which opens minutes for younger players.",
    "kind": "fact",
    "date": "2026-09-30",
    "until": "",
    "sources": [
-    "LXZLrL90crE:t0",
-    "MUbNYdjpUDM:t0"
+    "MUbNYdjpUDM:t0",
+    "LXZLrL90crE:t0"
    ]
   },
   {
-   "text": "Golden State's depth is very poor, so minutes should go up across the rotation. Steve Kerr's rotations are hard to predict, with a lot of mixing on the wing.",
-   "kind": "verdict",
-   "date": "2026-09-30",
+   "text": "Golden State's depth is very poor. The team struggles to field a 10-man rotation, so minutes should go up across the rotation.",
+   "kind": "fact",
+   "date": "2026-08-22",
    "until": "",
    "sources": [
-    "LXZLrL90crE:t4",
-    "LXZLrL90crE:t2",
-    "MUbNYdjpUDM:t2"
+    "LXZLrL90crE:t4"
    ]
   },
   {
-   "text": "Golden State's schedule is good for playoffs that end March 28. It has 15 back-to-backs, tied for second most in the league.",
+   "text": "Golden State has 15 back-to-backs, tied for second most. Its schedule is good for fantasy playoffs that end March 28.",
    "kind": "fact",
    "date": "2026-09-30",
    "until": "",
@@ -155,7 +144,7 @@
  ],
  "durable": [
   {
-   "text": "He can create his own shot and has size. Outside of Curry, almost nobody else on the Warriors can create for himself.",
+   "text": "He can create his own shot and has size. Outside of Steph Curry, almost nobody else on Golden State can do that.",
    "kind": "fact",
    "date": "2026-10-02",
    "until": "",
@@ -166,7 +155,7 @@
    ]
   },
   {
-   "text": "He scores much more when Curry is out than when he plays next to him.",
+   "text": "He scored big when Curry was out last season and did much less when he played alongside Curry.",
    "kind": "fact",
    "date": "2026-08-22",
    "until": "",
@@ -179,20 +168,20 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Starting job contested with Yaxel Lendeborg. Podziemski and Melton also compete on the wing.",
+   "detail": "Competes with Yaxel Lendeborg for the starting forward job. Podziemski and Melton are also in the wing mix.",
    "until": "",
    "sources": [
-    "dlo7L8Ru91A:p38",
+    "MUbNYdjpUDM:t3",
     "g31YlwRe0XQ:p46",
-    "W-R1dzem32s:t3",
-    "ZYllcj4o6_A:p13"
+    "dlo7L8Ru91A:p38",
+    "W-R1dzem32s:t3"
    ],
    "new_meaning": ""
   },
   {
    "name": "flyer",
    "channel": "current",
-   "detail": "Rounds 11 to 13. Could be top 70 after the deadline.",
+   "detail": "Late flyer in rounds 11 to 13. Hedge him with Lendeborg.",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:p22",
@@ -204,7 +193,7 @@
   {
    "name": "sleeper",
    "channel": "current",
-   "detail": "Ranked near the end of the drafted pool. Experts like him as a late pick.",
+   "detail": "Yahoo rank 149, ESPN rank 249. Experts like him late.",
    "until": "",
    "sources": [
     "dlo7L8Ru91A:p38",
@@ -214,9 +203,20 @@
    "new_meaning": ""
   },
   {
+   "name": "slow start",
+   "channel": "current",
+   "detail": "Could be top 70 after the trade deadline, when Golden State may rest veterans",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p22",
+    "MUbNYdjpUDM:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "regression risk",
    "channel": "current",
-   "detail": "Some of last season's shooting was fluky.",
+   "detail": "Some of his shooting last season was fluky",
    "until": "",
    "sources": [
     "dlo7L8Ru91A:p38"
@@ -226,7 +226,7 @@
   {
    "name": "usage dependent",
    "channel": "durable",
-   "detail": "Scores big without Curry, much less next to him.",
+   "detail": "Scored big with Curry out, much less next to him",
    "until": "",
    "sources": [
     "LXZLrL90crE:p21"
@@ -234,61 +234,71 @@
    "new_meaning": ""
   },
   {
-   "name": "tank risk",
+   "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Gap year. Rest days for veterans could add minutes for Santos.",
+   "detail": "Yahoo rank 149, ESPN rank 249",
    "until": "",
    "sources": [
-    "LXZLrL90crE:t0",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "tank risk",
+   "channel": "current",
+   "detail": "Gap year talk and worries about lottery odds, so veterans may rest",
+   "until": "",
+   "sources": [
     "MUbNYdjpUDM:t0",
-    "ZYllcj4o6_A:p13"
+    "LXZLrL90crE:t0"
    ],
    "new_meaning": ""
   },
   {
    "name": "thin rotation",
    "channel": "current",
-   "detail": "Warriors struggle to field a 10-man rotation.",
+   "detail": "Struggles to field a 10-man rotation",
    "until": "",
    "sources": [
-    "LXZLrL90crE:t4"
+    "LXZLrL90crE:t4",
+    "xHRF06_E9HE:t8"
    ],
    "new_meaning": ""
   },
   {
    "name": "unsettled rotation",
    "channel": "current",
-   "detail": "Kerr changes starters often and mixes the wings.",
+   "detail": "Kerr changes starting lineups often. Butler's return will shake up the wings.",
    "until": "",
    "sources": [
     "LXZLrL90crE:t2",
     "MUbNYdjpUDM:t2",
-    "W-R1dzem32s:t3"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "good playoff schedule",
-   "channel": "current",
-   "detail": "Good for playoffs ending March 28.",
-   "until": "",
-   "sources": [
-    "MUbNYdjpUDM:t4"
+    "xHRF06_E9HE:t8"
    ],
    "new_meaning": ""
   },
   {
    "name": "many back-to-backs",
    "channel": "current",
-   "detail": "15 back-to-backs, tied for second most.",
+   "detail": "15 back-to-backs, tied for second most",
    "until": "",
    "sources": [
-    "MUbNYdjpUDM:t4",
-    "gf_6GveiAls:t4"
+    "gf_6GveiAls:t4",
+    "MUbNYdjpUDM:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "Good for playoffs ending March 28",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t4"
    ],
    "new_meaning": ""
   }
  ],
- "note": "He sits right at the edge of our 144-player pool. Yahoo ranks him 141 and ESPN 248, and both value him at 0 USD, so take him for 1 USD as a last-round flyer and draft Lendeborg as a hedge. He has no category outlier and his scoring is weak at 7.4 projected points, so his value rests on the role. In the first weeks, check who starts, whether he plays 25 minutes or more, and how many shots he gets with Porzingis and Butler out. Drop him quickly if Lendeborg and Podziemski take the minutes.",
+ "note": "Yahoo and ESPN both value him at 0 USD (ranks 149 and 249), and experts put him in rounds 11 to 13. That is near the end of our 144-player pool, so he is a 1 USD bench flyer at most, ideally paired with Lendeborg as a role hedge. His projected line has no strong category and no punt flag, so his value comes from minutes, like the 31-minute, rank-72 stretch after last year's deadline. Early on, check whether he starts over Lendeborg, how often Draymond plays center and how his minutes hold up before Butler returns.",
  "rejected": []
 }

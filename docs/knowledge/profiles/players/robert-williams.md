@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 202 | 0 | 0.0 | 165 | not drafted |
+| 2026-27 | 0 | - | 195 | 0 | 0.0 | 166 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -23,32 +23,34 @@
 | PTS | 7.1 | -1.2 | -1.0 | weak for his position (punt fit) |
 | REB | 7.3 | +0.9 | -0.1 | - |
 | AST | 1.1 | -1.1 | -0.8 | - |
-| STL | 0.7 | -0.8 | -0.5 | - |
+| STL | 0.7 | -0.9 | -0.5 | - |
 | BLK | 1.6 | +2.1 | +0.9 | league outlier, strong |
 | TO | 0.9 | +1.0 | +0.9 | - |
 
 </details>
 
 **Current**
-- Portland has a new head coach, and minutes and usage are expected to swing from game to game across the rotation. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
-- Portland has three back-to-backs in the fantasy playoffs. If he sits back-to-backs, he loses games in weeks 19 to 21. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1354))
-- He re-signed with Portland for 3 years and 44 million USD. (fact, 2026-08-11; [07-01](https://youtu.be/W3THnI7wWdA?t=1245), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1354))
-- He is the backup center behind Donovan Clingan. Clingan is in the projected starting five. (fact, 2026-08-11; [07-16](https://youtu.be/-y6p5PYLf00?t=1351), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477))
-- He is expected to be capped at 17 to 18 minutes a night and to sit about 16 back-to-backs. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1354))
-- A local Blazers analyst does not expect Clingan to play over 28 minutes, which leaves backup center minutes for him. (verdict, 2026-08-11; [08-11](https://youtu.be/OdDkXFhoKsc?t=912))
-- Most of his FG% value comes from twos. His 2P% jumped from 65 to 74, and the expert expects it to fall back to about 68. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1351))
-- He outplayed Clingan in the playoffs. The contract shows the team trusts him, but he is not expected to start over Clingan. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1245))
-- At about 23 minutes a night he would be a draftable category-league player. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1250))
+- Portland has three back-to-backs in our fantasy playoff weeks. Since he is expected to sit back-to-backs, this hurts him in the playoffs. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1354))
+- He re-signed with Portland on a 3-year, 44 million USD contract. (fact, 2026-08-11; [07-01](https://youtu.be/W3THnI7wWdA?t=1245), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1354))
+- He is the backup center behind Donovan Clingan, who is in Portland's projected starting five. (fact, 2026-08-11; [07-16](https://youtu.be/-y6p5PYLf00?t=1351), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477))
+- He is expected to be capped at 17 to 18 minutes and to sit about 16 back-to-backs. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1354))
+- A Portland beat writer does not expect Clingan to play over 28 minutes. (verdict, 2026-08-11; [08-11](https://youtu.be/OdDkXFhoKsc?t=912))
+- Minutes and usage are expected to swing from game to game across Portland's rotation. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
+- His 2P% jumped from 65 to 74 last season. The expert expects it to drop to about 68, which would cut into his FG% value. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1351))
+- He outplayed Clingan in the playoffs. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1245))
+- The contract shows the team trusts him, but the expert does not expect him to start over Clingan. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1245))
+- At 23 minutes a night he would be a draftable category-league player. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1250))
 
 **Durable**
-- His blocks are a league outlier for his minutes. He adds a high FG% on low volume, few turnovers and solid rebounds. (fact, 2026-10-05; stats)
-- He makes almost no threes and scores few points, even for a center. (fact, 2026-10-05; stats)
+- Blocks are his standout category, far above the top 250 pool. (fact, 2026-10-11; stats)
+- He makes almost no threes and scores little, even for a center. (fact, 2026-10-11; stats)
+- He is a very efficient finisher on low volume. Twos drive most of his FG% value. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1351), stats)
 - His minutes and health are hard to trust. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1250))
 
 **Tags**
-- Current: `minutes limit` (expected cap of 17 to 18 minutes), `back-to-back risk` (expected to sit about 16 back-to-backs), `bad playoff schedule` (Portland has three back-to-backs in the fantasy playoffs, and he is expected to sit back-to-backs), `regression risk` (2P% expected to drop from 74 to about 68), `new coach`, `unsettled rotation` (minutes expected to swing game to game)
-- Durable: `BLK specialist` (about 1.6 blocks in under 20 minutes), `no 3PM`, `punt PTS fit` (about 7 points a game), `category league player` (blocks, FG% and low turnovers on small minutes)
+- Current: `minutes limit` (Expected cap of 17 to 18 minutes), `back-to-back risk` (Expected to sit about 16 back-to-backs), `bad playoff schedule` (Three Portland back-to-backs in the fantasy playoffs, and he is expected to sit back-to-backs), `regression risk` (2P% expected to fall from 74 to about 68), `handcuff` (Backup to Donovan Clingan. Draftable at about 23 minutes a night), `waiver watch` (Ranked outside the 144 drafted players on both sites), `unsettled rotation` (Portland minutes expected to swing game to game)
+- Durable: `BLK specialist` (About 1.6 blocks per game in under 20 minutes), `no 3PM`, `punt PTS fit` (About 7 points per game), `category league player` (Value comes from blocks, FG% and low turnovers), `injury prone` (Expert says his health is hard to trust. He played 6 and 20 games in 2023-24 and 2024-25)
 
-**Note.** He is ranked 202 on Yahoo and 165 on ESPN, both sites value him at 0 USD, and he was not drafted in our league last season. That puts him outside the 144 players we draft. His value is blocks (z +2.1 vs the pool), FG% and low turnovers on about 17 minutes, so he only fits a punt PTS build that needs blocks, and his 59.6 FT% last season is a small drag. Leave him on waivers at the draft. Pick him up if his minutes rise toward 23 or Clingan misses time, and watch whether his FG% holds near 70.
+**Note.** Both sites value him at 0 USD (Yahoo rank 195, ESPN rank 166), so he will not be among our 144 drafted players and is a waiver name, not an auction target. His blocks (z +2.1 vs the pool), FG% and low turnovers fit punt PTS builds that want blocks, but a 17 to 18 minute cap, about 16 back-to-back rests and three Portland back-to-backs in our playoff weeks limit his weekly totals. Early in the season, watch Clingan's health and minutes: if Williams gets close to 23 minutes a night, he is worth adding.
 
-<sub>4 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

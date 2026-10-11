@@ -8,51 +8,70 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "518e2a2f7130",
+ "input_sha": "402529b002cb",
  "note_count": 2,
- "built_at": "2026-10-04T17:23:27+00:00",
+ "built_at": "2026-10-11T09:11:27+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.19298320000000002,
-  "duration_ms": 45561
+  "cost_usd_list": 0.1504622,
+  "duration_ms": 36603,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Simons joined Philadelphia this offseason.",
-   "kind": "fact",
-   "date": "2026-08-06",
-   "until": "",
-   "sources": [
-    "gTsfR5PxAMY:t1",
-    "gTsfR5PxAMY:p21"
-   ]
-  },
-  {
-   "text": "He is set to come off the bench as Philadelphia's sixth man.",
+   "text": "He is new in Philadelphia this season and is set to be the sixth man.",
    "kind": "fact",
    "date": "2026-08-06",
    "until": "",
    "sources": [
     "gTsfR5PxAMY:p21",
+    "gTsfR5PxAMY:t1"
+   ]
+  },
+  {
+   "text": "Projected starting five: Maxey, Edgecombe, Jaylen Brown, LeBron James and Embiid. Simons comes off the bench behind them.",
+   "kind": "fact",
+   "date": "2026-08-06",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t0",
+    "gTsfR5PxAMY:p21"
+   ]
+  },
+  {
+   "text": "Last season his rim finishing jumped from 58 to 70 percent (88th percentile). Before that he was in the lower half of the league.",
+   "kind": "fact",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
     "-y6p5PYLf00:p15"
    ]
   },
   {
-   "text": "The projected starters are Tyrese Maxey, VJ Edgecombe, Jaylen Brown, LeBron James and Joel Embiid, so usage on this team is crowded.",
-   "kind": "fact",
+   "text": "As a backup in Philadelphia, his numbers should come down, and his rim finishing is not expected to hold.",
+   "kind": "verdict",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p15"
+   ]
+  },
+  {
+   "text": "Philadelphia's usage is crowded with Maxey, Embiid, LeBron James and Jaylen Brown. That leaves few shots for a bench guard.",
+   "kind": "verdict",
    "date": "2026-09-09",
    "until": "",
    "sources": [
-    "gTsfR5PxAMY:t0",
     "sTtFUy7IoJI:t10",
     "7BllEsdNLoM:t3",
     "8d--aL_xxwE:t0"
    ]
   },
   {
-   "text": "Nick Nurse plays his starters very heavy minutes, and the guard rotation is crowded. That leaves limited minutes for bench guards.",
-   "kind": "fact",
+   "text": "Nick Nurse plays his starters, guards in particular, very heavy minutes. That caps the minutes left for a sixth man.",
+   "kind": "verdict",
    "date": "2026-09-09",
    "until": "",
    "sources": [
@@ -62,16 +81,7 @@
    ]
   },
   {
-   "text": "His numbers should come down in a backup role, and his rim finishing is not expected to hold at last season's level.",
-   "kind": "verdict",
-   "date": "2026-07-16",
-   "until": "",
-   "sources": [
-    "-y6p5PYLf00:p15"
-   ]
-  },
-  {
-   "text": "One expert expects new arrivals, Simons among them, to cut into Maxey's minutes.",
+   "text": "New arrivals, Simons among them, are expected to cut into Maxey's minutes.",
    "kind": "verdict",
    "date": "2026-09-16",
    "until": "",
@@ -80,33 +90,42 @@
    ]
   },
   {
-   "text": "Experts expect Embiid to miss games and the stars, LeBron included, to be load managed. That could open extra minutes for bench players.",
-   "kind": "verdict",
-   "date": "2026-09-17",
+   "text": "Yahoo lists him as questionable with an undisclosed issue.",
+   "kind": "fact",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
-    "ahNxsoU8Hx4:t5",
-    "gTsfR5PxAMY:t4"
+    "stats"
    ]
   },
   {
-   "text": "Philadelphia has 13 back-to-backs this season, and three of them fall in the fantasy playoffs.",
+   "text": "The 76ers have 13 back-to-backs, and three of them fall in the fantasy playoffs.",
    "kind": "fact",
    "date": "2026-08-16",
    "until": "",
    "sources": [
     "gf_6GveiAls:t8"
    ]
+  },
+  {
+   "text": "He is not a draft target in a 144-player league. He is worth watching on waivers when Embiid misses games or LeBron James sits.",
+   "kind": "verdict",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats",
+    "ahNxsoU8Hx4:t5"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "Last season he finished 70 percent at the rim (88th percentile), up from 58 percent. Before that he was in the lower half of the league at the rim.",
+   "text": "He is a shooter. His value comes from threes and a high FT% on low volume, and he gives little in rebounds, steals and blocks.",
    "kind": "fact",
-   "date": "2026-07-16",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
-    "-y6p5PYLf00:p15"
+    "stats"
    ]
   }
  ],
@@ -114,7 +133,7 @@
   {
    "name": "new team",
    "channel": "current",
-   "detail": "Joined Philadelphia this offseason",
+   "detail": "joined Philadelphia",
    "until": "",
    "sources": [
     "gTsfR5PxAMY:t1",
@@ -125,27 +144,79 @@
   {
    "name": "role down",
    "channel": "current",
-   "detail": "Sixth man behind Maxey, Edgecombe, Brown, LeBron and Embiid; numbers expected to come down",
+   "detail": "sixth man behind a starting five of stars",
    "until": "",
    "sources": [
-    "gTsfR5PxAMY:p21",
+    "-y6p5PYLf00:p15",
+    "gTsfR5PxAMY:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "regression risk",
+   "channel": "current",
+   "detail": "rim finishing jumped from 58 to 70 percent",
+   "until": "",
+   "sources": [
     "-y6p5PYLf00:p15"
    ],
    "new_meaning": ""
   },
   {
-   "name": "minutes competition",
+   "name": "usage competition",
    "channel": "current",
-   "detail": "Crowded Philadelphia guard rotation, and Nurse plays his starters heavy minutes",
+   "detail": "Maxey, Embiid, LeBron James and Jaylen Brown",
    "until": "",
    "sources": [
-    "TOn-D1SV7a8:t3",
+    "sTtFUy7IoJI:t10",
+    "7BllEsdNLoM:t3",
+    "8d--aL_xxwE:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "heavy starter minutes",
+   "channel": "durable",
+   "detail": "Nick Nurse leans on his starters, which caps bench minutes",
+   "until": "",
+   "sources": [
     "gTsfR5PxAMY:t2",
     "7BllEsdNLoM:t2"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q, undisclosed",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "three back-to-backs in the fantasy playoffs",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "minutes can open when Embiid or LeBron James miss games",
+   "until": "",
+   "sources": [
+    "stats",
+    "ahNxsoU8Hx4:t5"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Yahoo ranks him 199 and ESPN ranks him 221. Both sites give him 0 USD of value, so he sits well outside the 144 players drafted in our league. He went for 7 USD in our auction last season, and he should not cost that this time. His projected line is about 2.5 threes and 90 percent free throws on low volume, with weak FG%, rebounds, steals and blocks. Early in the season, check whether missed games from Embiid or rest days for LeBron push his minutes clearly above 25. If they do, he becomes a waiver pickup for threes.",
+ "note": "Yahoo ranks him 201 and ESPN ranks him 222, with both sites at 0 USD. Do not repeat the 7 USD our league paid last season: as the sixth man behind four high-usage stars under a coach who rides his starters, he is outside the 144 players worth drafting. His threes (2.5 per game) and 90% FT% can help a 3PM build off waivers, but 43% on about 12 shots, low steals and three playoff back-to-backs limit him. Early on, check his Q status, his bench minutes and whether he gets more of them when Embiid or LeBron James sit.",
  "rejected": []
 }

@@ -16,12 +16,14 @@
  ],
  "proposed": false,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-04T20:14:31+00:00",
+ "built_at": "2026-10-11T09:44:59+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.19022,
-  "duration_ms": 61579
+  "cost_usd_list": 0.15670399999999998,
+  "duration_ms": 44265,
+  "turns": 2,
+  "denied": 0
  },
  "player_slugs": [
   "bam-adebayo",
@@ -29,7 +31,6 @@
   "damian-lillard",
   "deanthony-melton",
   "derrick-white",
-  "egor-demin",
   "fred-vanvleet",
   "grayson-allen",
   "herbert-jones",
@@ -41,123 +42,142 @@
   "myles-turner",
   "trae-young"
  ],
- "summary": "FG% swings more from week to week than any other category, so in our 9-cat head-to-head league it is the cheapest category to give up. A punt FG% team gives up FG% every week and builds to win at least 5 of the other 8 categories. Target high-volume guards and forwards who bring threes, points, assists and FT% but shoot poorly, and buy them at the discount their FG% creates.",
+ "summary": "Punting FG% suits our 9-cat head-to-head league, because FG% is the category that swings most from game to game and week to week, and chasing both percentages leaves you short elsewhere. Build around high-volume guards and forwards who give points, threes and assists on poor shooting: LaMelo Ball, Trae Young, James Harden, Brandon Miller and Bam Adebayo at the top. Then add cheap value like Derrick White and Damian Lillard, and 1 to 3 USD late picks for threes, blocks and steals.",
  "sections": [
   {
    "heading": "Why FG% swings week to week",
    "paragraphs": [
     {
-     "text": "FG% changes a lot from game to game. One note says it is the percentage category that varies most from game to game and week to week. FT% is different: it varies most from one year to the next.",
+     "text": "FG% is a team ratio: total makes divided by total attempts. Of all the categories, it varies most from game to game and from week to week. FT% varies most from year to year. In a low-volume week each miss moves the ratio more, so the result is close to a coin flip.",
      "sources": [
       "aLP080hxizA:r11",
       "C4vlgpJ62NI:r17"
      ]
     },
     {
-     "text": "Low-volume weeks make this worse. With fewer attempts, each miss moves the percentage more. A week with few games, or with stars resting, can flip FG% no matter how your roster was built.",
-     "sources": [
-      "aLP080hxizA:r11"
-     ]
-    },
-    {
-     "text": "In head-to-head, efficiency is the category that changes most from week to week. One expert prefers steady volume to a small efficiency edge for that reason. Good efficiency on low volume does not matter much either, because FG% in our league is total makes over total attempts.",
+     "text": "In head-to-head, efficiency is the most variable category over a week. One expert prefers steady volume to a small efficiency edge. Good efficiency on low volume barely moves a team ratio. Players with outlier FG% also tend to regress, and a small drop can erase most of their edge. So paying a premium for FG% buys a category you may lose anyway.",
      "sources": [
       "2A2JbUN-kc0:r7",
-      "W-R1dzem32s:r7"
+      "W-R1dzem32s:r7",
+      "ME-r173X5b0:r14"
      ]
     }
    ]
   },
   {
-   "heading": "Why punting one percentage works in H2H",
+   "heading": "Why punting one percentage works in head-to-head",
    "paragraphs": [
     {
-     "text": "Each week you win or lose 9 categories against one opponent, so 5 wins take the week. Punting FG% means you give up FG% every week and aim for at least 5 of the other 8. Because FG% swings so much week to week, a category you could only win some weeks costs little to give up.",
+     "text": "Being strong in both FG% and FT% is very hard. Barely winning both is fragile, and the money spent on it leaves you short in other categories. Each week you play one opponent across 9 categories. If you give up FG% on purpose, you aim to win a majority of the other eight.",
      "sources": [
-      "C4vlgpJ62NI:r17",
-      "aLP080hxizA:r11"
+      "0geFVzSqOnA:r10",
+      "C4vlgpJ62NI:r17"
      ]
     },
     {
-     "text": "Being strong in both FG% and FT% is very hard. If you barely win both, that lead is fragile, and paying for it leaves you short in other categories. Pick one percentage to chase. In a punt FG% build that means FT%, along with threes, points, assists and steals.",
+     "text": "Because FG% is so swingy, a punt FG% team will still steal the category in some weeks. Meanwhile the players it buys give steady volume in PTS, 3PTM and AST. Many of them also help FT%, so you keep one percentage category instead of punting both.",
      "sources": [
-      "0geFVzSqOnA:r10"
-     ]
-    },
-    {
-     "text": "Players with outlier FG% tend to regress, and a small drop can wipe out most of their edge. A punt FG% team does not need those players at all. Leave them to balanced managers and spend that money on volume.",
-     "sources": [
-      "ME-r173X5b0:r14",
-      "2A2JbUN-kc0:r7"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "How to run it in our auction",
-   "paragraphs": [
-    {
-     "text": "On 2026-10-18, spend your main money on the core tier. These are high-usage guards and forwards whose only real flaw is FG%, sometimes with turnovers. Many of them also fit a punt TO build, so you can give up both categories and still aim for 5 of the remaining 7. Do not repeat last season's prices for players our league overpaid. Several of them now cost much less on Yahoo.",
-     "sources": [
-      "player:trae-young",
+      "aLP080hxizA:r11",
+      "2A2JbUN-kc0:r7",
       "player:lamelo-ball",
+      "player:trae-young",
       "player:james-harden",
       "player:brandon-miller",
-      "player:derrick-white",
-      "C4vlgpJ62NI:r17"
+      "player:derrick-white"
      ]
     },
     {
-     "text": "Save money for the end of the draft. Many poor-shooting players who add threes, assists, steals or blocks are ranked near the edge of our 144-player pool. They are 1 to 2 USD picks at the end, not mid-round buys. Others sit outside the 144 and belong on your FAB watch list instead.",
+     "text": "Several of the core targets also fit a punt TO build: Ball, Young, Harden and Miller. Jalen Green costs little there too. If you lock in two of these early in the auction, think about punting turnovers as well rather than spending to protect them.",
      "sources": [
-      "player:fred-vanvleet",
-      "player:egor-demin",
-      "player:jerami-grant",
-      "player:herbert-jones",
-      "player:grayson-allen",
-      "player:deanthony-melton"
-     ]
-    },
-    {
-     "text": "Do not take FT% for granted. FT% varies most from year to year, so a player's FT% last season does not guarantee the same this season. Check your team FT% in the first two weeks. If it is slipping, use trades or FAB to fix it before the 2027-03-04 deadline.",
-     "sources": [
-      "aLP080hxizA:r11",
-      "0geFVzSqOnA:r10"
-     ]
-    },
-    {
-     "text": "The notes do not disagree on this strategy. They all favour steady volume over a small efficiency edge. One caution remains. The same note that makes FG% the best category to punt also says FT% is the least stable from year to year. So a punt FG% team relies on its least stable category from year to year.",
-     "sources": [
-      "aLP080hxizA:r11",
-      "2A2JbUN-kc0:r7",
-      "W-R1dzem32s:r7"
+      "player:lamelo-ball",
+      "player:trae-young",
+      "player:james-harden",
+      "player:brandon-miller",
+      "player:jalen-green"
      ]
     }
    ]
   },
   {
-   "heading": "Playoff weeks and in-season checks",
+   "heading": "Auction plan for our 144-player draft",
    "paragraphs": [
     {
-     "text": "Our playoffs are weeks 19 to 21 and end 2027-03-28. Short weeks make percentages more random, but that hurts a punt FG% team less, because FG% is already given up. What matters more is games played for counting stats. Some targets play only 10 games in our playoff weeks, some have a 2-game week, and some have back-to-backs they may sit.",
+     "text": "Spend most of your early budget on the volume guards. Ball is fair up to the mid 30s USD, since his threes and assists come with no FG% penalty in this build. Young is a round-3 value, and about 33 USD is close to fair. Harden belongs in the low to mid 20s USD, so do not go far past 25 USD. The 42 USD our league paid for him last season is not a guide.",
      "sources": [
-      "aLP080hxizA:r11",
-      "player:bam-adebayo",
-      "player:fred-vanvleet",
-      "player:jabari-smith",
-      "player:james-harden",
       "player:lamelo-ball",
+      "player:trae-young",
+      "player:james-harden"
+     ]
+    },
+    {
+     "text": "For the frontcourt, Adebayo in the mid 20s USD is the anchor. His 44.6% FG on about 16 attempts is his only weak category. Miller is a third-round value with top-30 upside, and a price between 20 and 26 USD fits. He brings about 3.4 threes, strong FT% and points, but shoots 43% on 16 to 18 shots.",
+     "sources": [
+      "player:bam-adebayo",
+      "player:brandon-miller"
+     ]
+    },
+    {
+     "text": "In the middle rounds, Derrick White is the best bargain. Experts value him in the mid 20s USD, so any price near the mid teens is a win. Lillard is a strong value bid at 5 to 10 USD for FT%, threes and assists, because experts value his per-game line at about 20 USD.",
+     "sources": [
+      "player:derrick-white",
       "player:damian-lillard"
      ]
     },
     {
-     "text": "In the first weeks, check minutes and usage before checking shooting. Several targets need about 30 minutes or a starting role to give the volume this build needs. If a waiver-watch guard wins a starting role at about 27 to 28 minutes, put in a FAB bid at once.",
+     "text": "Fill the last roster spots at 1 to 3 USD. Myles Turner gives blocks and threes from the center spot and Jabari Smith Jr. gives threes, rebounds and blocks. Jalen Green is cheap for 3PM and PTS, and VanVleet adds threes, assists, steals and low turnovers. Grant, Allen, Herbert Jones and Melton are 1 USD at most, and most of them are better treated as waiver adds.",
      "sources": [
-      "2A2JbUN-kc0:r7",
+      "player:myles-turner",
+      "player:jabari-smith",
+      "player:jalen-green",
+      "player:fred-vanvleet",
+      "player:jerami-grant",
+      "player:grayson-allen",
+      "player:herbert-jones",
+      "player:deanthony-melton"
+     ]
+    },
+    {
+     "text": "The experts split on Jerami Grant. The newest expert call says to skip him in 12-team leagues. His profile still allows a 1 USD bid for a punt FG% team that needs about 2.4 threes, 17 points and an 82% FT%, and his 4-4-4 playoff schedule helps. Take him only as your last pick, and only if your build is short on threes.",
+     "sources": [
+      "player:jerami-grant"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What to check early and before the playoffs",
+   "paragraphs": [
+    {
+     "text": "In the first weeks, check minutes and usage before anything else, because this build lives on volume. Ball should reach about 32 minutes. Young needs 33 or more minutes and double-digit assists. Harden should stay near 33 minutes. Lillard needs 30 or more minutes, and Green needs 30 or more minutes while really running the point. If a late flyer like Allen or Melton does not win a starting spot, drop him quickly.",
+     "sources": [
+      "player:lamelo-ball",
       "player:trae-young",
+      "player:james-harden",
+      "player:damian-lillard",
       "player:jalen-green",
       "player:grayson-allen",
       "player:deanthony-melton"
+     ]
+    },
+    {
+     "text": "Also watch for FG% recovering. White back above 40% and Turner recovering from 44% would make them better all-round players and raise their trade value. Young falling back to about 42% does not matter to you, but it may lower his value to other managers.",
+     "sources": [
+      "player:derrick-white",
+      "player:myles-turner",
+      "player:trae-young",
+      "ME-r173X5b0:r14"
+     ]
+    },
+    {
+     "text": "Plan for weeks 19 to 21 before the 2027-03-04 trade deadline. Miami has only 10 games in those weeks, and so does VanVleet's Houston. Houston's schedule there is 3-3-4, which also hurts Jabari Smith Jr. Ball has a two-game week (week of March 15) and Harden has a two-game finals week. Portland has three back-to-backs, so check whether Lillard plays them. Grant's 4-4-4 is the best schedule in this group. Trade the short-schedule players for volume on stronger schedules if you can.",
+     "sources": [
+      "player:bam-adebayo",
+      "player:fred-vanvleet",
+      "player:jabari-smith",
+      "player:lamelo-ball",
+      "player:james-harden",
+      "player:damian-lillard",
+      "player:jerami-grant"
      ]
     }
    ]
@@ -165,84 +185,79 @@
  ],
  "players": [
   {
-   "slug": "trae-young",
-   "tier": "Core targets",
-   "line": "Elite assists and FT%, and his only costs are FG% and turnovers, so he is ideal for punt FG% plus punt TO if he keeps 33+ minutes and his usage next to Davis and Dybantsa."
-  },
-  {
    "slug": "lamelo-ball",
    "tier": "Core targets",
-   "line": "His threes, assists, points and steals all count fully when you punt FG%, but his ankle and the playoff two-game week are reasons to stop at the low end of his range."
+   "line": "Elite threes and assists plus FT%, steals and guard rebounds, with his weak shooting costing nothing in this build."
   },
   {
-   "slug": "bam-adebayo",
+   "slug": "trae-young",
    "tier": "Core targets",
-   "line": "FG% (44.6% on nearly 16 attempts) is his only weak category, so a punt build loses nothing with him, but watch whether Giannis cuts his rebounds and note Miami's 10 playoff-week games."
-  },
-  {
-   "slug": "brandon-miller",
-   "tier": "Core targets",
-   "line": "Threes, points and FT% on high volume at about 43% FG fit punt FG% well, and his usage could grow with LaMelo Ball gone, but check his shoulder in camp before the auction."
+   "line": "Assists, FT%, points and threes all count fully once FG% is punted, and he also fits punt TO."
   },
   {
    "slug": "james-harden",
    "tier": "Core targets",
-   "line": "Elite assists and FT% at about 42% FG make him a natural punt FG% guard, but do not pay last season's price, and keep the 2-game finals week and his minutes alongside Mitchell in mind."
+   "line": "Elite assists and strong FT% on volume, with weak FG% and heavy turnovers that a punt FG% and TO team can absorb."
+  },
+  {
+   "slug": "brandon-miller",
+   "tier": "Core targets",
+   "line": "About 3.4 threes with strong FT% and points, but 43% on 16 to 18 shots, and he has top-30 upside."
+  },
+  {
+   "slug": "bam-adebayo",
+   "tier": "Core targets",
+   "line": "A big who adds rebounds, points, steals and threes, and his 44.6% FG on about 16 attempts is his only weak category."
   },
   {
    "slug": "derrick-white",
    "tier": "Value at price",
-   "line": "FG% is his only weak category, and he adds threes, assists, FT% and blocks that lead guards, but the market has overpaid him, so bid near his Yahoo cost and not last season's price."
+   "line": "Threes, FT%, assists and guard-level blocks all help, and FG% is his only weak category."
   },
   {
    "slug": "damian-lillard",
    "tier": "Value at price",
-   "line": "A cheap source of FT%, threes and assists at about 43.7% FG, with games played as the main risk because of his Achilles and three playoff back-to-backs."
+   "line": "The market prices him far below his per-game value for FT%, threes and assists."
   },
   {
    "slug": "myles-turner",
    "tier": "Late flyers",
-   "line": "Blocks and threes from a center with FG% that is low for his position, worth a late buy if he gets about 29 minutes next to Ware."
+   "line": "A cheap source of blocks and threes from the center spot, and his weak FG% does not hurt this build."
   },
   {
    "slug": "jabari-smith",
    "tier": "Late flyers",
-   "line": "Gives threes and rebounds from a F/C slot with few turnovers at about 44.8% FG, though his 10-game playoff schedule is a minus."
-  },
-  {
-   "slug": "fred-vanvleet",
-   "tier": "Late flyers",
-   "line": "His threes, assists, steals and low turnovers count while his 39% shooting does not, but his knee, rest on back-to-backs and 10 playoff-week games limit him to a late guard pick."
-  },
-  {
-   "slug": "egor-demin",
-   "tier": "Late flyers",
-   "line": "Projected for about 3 threes a game with some assists at about 40% FG, an end-game pick whose value to hold depends on his starting role and whether his FG% climbs."
+   "line": "A stable heavy-minutes starter whose threes, rebounds and blocks help, and whose 44.8% FG on real volume is his weak spot."
   },
   {
    "slug": "jalen-green",
    "tier": "Late flyers",
-   "line": "Cheap late points and threes for punt FG% and punt TO builds if he gets 30+ minutes and his FT% climbs back toward 80%."
+   "line": "A cheap late scorer for 3PM and PTS who fits punt FG% and costs little in punt TO."
   },
   {
-   "slug": "herbert-jones",
+   "slug": "fred-vanvleet",
    "tier": "Late flyers",
-   "line": "A cheap steals source at about 1.5 a game on low shot volume (about 8 attempts), and a waiver option if nobody drafts him."
+   "line": "Threes, assists, steals, FT% and low turnovers count here, and his 39% shooting does not hurt."
   },
   {
    "slug": "jerami-grant",
-   "tier": "Late flyers",
-   "line": "Gives about 2.4 threes plus points at about 43.5% FG as a final pick, if he starts and his minutes stay near 29."
+   "tier": "1 USD or waivers",
+   "line": "Only a last-pick option for about 2.4 threes, 17 points and 82% FT%, and the newest expert call says skip him."
   },
   {
    "slug": "grayson-allen",
-   "tier": "Waiver watch",
-   "line": "Threes, FT% and some steals at about 42% FG, but he ranks outside our 144, so add him through FAB if he starts at about 27 minutes while Knueppel is out."
+   "tier": "1 USD or waivers",
+   "line": "His projected 2.7 threes are the only reason to take him, and he is a quick drop if he does not start."
+  },
+  {
+   "slug": "herbert-jones",
+   "tier": "1 USD or waivers",
+   "line": "A steals add whose projected 41% FG only works in a punt FG% build, best picked up if he wins the starting spot."
   },
   {
    "slug": "deanthony-melton",
-   "tier": "Waiver watch",
-   "line": "Steals (about 1.6) are his one standout category at about 41% FG, so do not draft him, but add him right away if he wins the starting job at about 28 minutes."
+   "tier": "1 USD or waivers",
+   "line": "Steals are his value, and his roughly 41% FG on 11 attempts only fits a punt FG% team, so he is more likely a waiver add."
   }
  ],
  "excluded": [],

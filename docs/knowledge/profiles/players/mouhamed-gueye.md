@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 291 | 0 | 0.0 | 267 | not drafted |
+| 2026-27 | 0 | - | 290 | 0 | 0.0 | 267 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -23,30 +23,30 @@
 | PTS | 4.8 | -1.6 | -1.6 | league outlier, weak |
 | REB | 3.7 | -0.6 | -1.2 | - |
 | AST | 1.2 | -1.0 | -0.9 | - |
-| STL | 0.7 | -0.8 | -0.7 | - |
+| STL | 0.7 | -0.9 | -0.7 | - |
 | BLK | 0.4 | -0.4 | -0.9 | - |
 | TO | 0.7 | +1.3 | +1.3 | - |
 
 </details>
 
 **Current**
-- He broke his foot and will likely miss the start of the season. Yahoo lists him as questionable (foot). (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1637), [09-25](https://youtu.be/4gw4W4RTolY?t=1693), stats)
-- He would have been in Atlanta's rotation if healthy. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1637))
-- Lloyd expects a 10-man rotation. The listed bench is Dort, Wiggins, Landale, Flemings and probably Newell, with Kispert and Finney-Smith also in the mix. Gueye is not in it. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
-- He has the only non-guaranteed contract on the Hawks. The roster is two players over the limit. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=929), [08-25](https://youtu.be/H9q2FT3LhNw?t=834))
-- He could be cut or traded before opening day. He is one of the named candidates, with Carter, Nembhard, Hield and Kispert. (verdict, 2026-08-25, until opening day; [08-25](https://youtu.be/H9q2FT3LhNw?t=929), [08-25](https://youtu.be/H9q2FT3LhNw?t=834))
-- If he plays the three next to Caleb Wilson, he will likely contest fewer shots at the rim, which would cut his blocks. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=744))
+- Gueye broke his foot. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1637), [09-25](https://youtu.be/4gw4W4RTolY?t=1693))
+- He will likely miss the start of the season. He would have been in the Atlanta rotation if healthy. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1637))
+- Atlanta is deep. Lloyd expects a 10-man rotation that does not include Gueye while he is hurt. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1289), [07-01](https://youtu.be/W3THnI7wWdA?t=779))
+- He has the only non-guaranteed contract on the Atlanta roster. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=929))
+- Atlanta is two players over the roster limit. He is one of the candidates to be cut or traded before opening day. (verdict, 2026-08-25, until opening day; [08-25](https://youtu.be/H9q2FT3LhNw?t=929), [08-25](https://youtu.be/H9q2FT3LhNw?t=834))
+- He is likely to play the three next to Caleb Wilson, so he should contest fewer shots at the rim and block fewer shots. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=744))
 
 **Durable**
-- Points are his weakest category and a league outlier on the weak side, because he plays a small bench role with low shot volume. (fact, 2026-10-05; stats)
-- He is a solid defender, a good rebounder and a good steals generator. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1644))
+- He scores very little. Points are his weakest category and far below the top 250 pool. (fact, 2026-10-11; stats)
+- He is a solid defender, a good rebounder and a good steals generator for his minutes. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1644))
 - His shooting is up and down. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1644))
 - He converted 24.5% of his rim contests into blocks. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=744))
 
 **Tags**
-- Current: `injured now` (Broken foot, likely misses the start of the season), `questionable` (Yahoo status Q (Foot)), `cut candidate` (Only non-guaranteed contract on a roster two players over the limit; until opening day), `trade risk` (Named as a possible piece in a small trade to cut the roster; until opening day), `deep rotation` (Atlanta plans a 10-man rotation that does not include him)
+- Current: `injured now` (Broken foot, likely out at the start of the season), `questionable` (Yahoo status Q (Foot)), `cut candidate` (Only non-guaranteed contract on a roster that is two players over the limit; until opening day), `trade risk` (Named as a possible trade piece while Atlanta trims its roster; until opening day), `deep rotation` (Atlanta expects a 10-man rotation without him)
 - Durable: `streaky` (Shooting is up and down)
 
-**Note.** At 0 USD on both Yahoo and ESPN, with ranks of 291 and 267, he is far outside the 144 players drafted in our league and should not be drafted. Even healthy, he projects at about 15 minutes and 4.8 points, so his defense, rebounds and steals do not add up to standard-league value. Check early whether he survives the cuts before opening day and when his foot heals. He only matters on waivers if injuries in Atlanta's thin power forward or center depth open real minutes.
+**Note.** Gueye is not a draft target. Yahoo ranks him 290, ESPN 267, both sites value him at 0 USD, and he went undrafted in our league last season. Our draft takes only 144 players. He has a broken foot and a non-guaranteed contract, and he played about 15 minutes a game for 4.4 points last season, so there is no reason to roster him now. Check whether Atlanta keeps him past opening day. Then watch his minutes once he is healthy, since the experts rate his defense, rebounding and steals.
 
-<sub>4 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

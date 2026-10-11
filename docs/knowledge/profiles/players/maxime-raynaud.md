@@ -8,7 +8,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 1.0 | 162 | - | 0.0 | - | not drafted |
+| 2026-27 | 0 | 1.0 | 161 | - | 0.0 | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -27,26 +27,28 @@
 </details>
 
 **Current**
-- He is the backup center behind Domantas Sabonis, who is a projected starter. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=2113), [09-24](https://youtu.be/_vbAP5y182A?t=2232), [09-15](https://youtu.be/KPdD91Oo8-U?t=2282), [09-04](https://youtu.be/gerS7ibpaJo?t=1679), [08-11](https://youtu.be/OdDkXFhoKsc?t=2478), [07-14](https://youtu.be/xHRF06_E9HE?t=1346), [07-31](https://youtu.be/oEywzBZfAvY?t=691))
-- Do not draft him in a 12-team league. At most he is a late bench stash to drop early if no Sabonis trade comes. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=2113), [09-24](https://youtu.be/_vbAP5y182A?t=2232), [09-15](https://youtu.be/KPdD91Oo8-U?t=2282), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2236), [07-14](https://youtu.be/xHRF06_E9HE?t=1346))
-- His upside depends on Sabonis being traded or hurt. Without that, he is likely to have little value early in the season. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2232), [09-15](https://youtu.be/KPdD91Oo8-U?t=2282), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2236), [09-04](https://youtu.be/gerS7ibpaJo?t=1679), [08-11](https://youtu.be/OdDkXFhoKsc?t=2478))
-- Experts rate Paul Reed as clearly better per minute. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2232), [08-11](https://youtu.be/OdDkXFhoKsc?t=2478))
-- A Sabonis trade is possible, but experts do not expect one. The Kings want to stay out of the relegation zone, so they are not expected to bench Sabonis for Raynaud. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=392), [09-14](https://youtu.be/t4n9MAP2_14?t=976), [08-11](https://youtu.be/OdDkXFhoKsc?t=2478), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1936), [10-04](https://youtu.be/n4KkK-OJjqA?t=1291))
-- Experts expect about 19 to 20 minutes a night in a backup role. He cannot do much in those minutes. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=2282), [08-11](https://youtu.be/OdDkXFhoKsc?t=2478), [09-04](https://youtu.be/gerS7ibpaJo?t=1679))
-- His strong finish last season (62nd after the deadline, 70th over the final two months) came while the Kings had many injuries. (fact, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=976), [07-14](https://youtu.be/xHRF06_E9HE?t=1258))
-- He is unlikely to get the same chance this season unless the Kings trade players and commit to him at center. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=976), [09-04](https://youtu.be/gerS7ibpaJo?t=1679))
-- One July preview thought he could be better than Sabonis in two to three years, and that the Kings should try to show he is a starter this season. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1365))
-- In Summer League, 39% of his shots were threes and he blocked no shots. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=602))
-- If his three-point rate keeps rising, his FG% would drop while his points and threes go up. This is worth watching. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=602))
+- Yahoo lists him as questionable with a knee injury. (fact, 2026-10-11; stats)
+- Lloyd expects the Kings to trade or sit their veterans and finish near the bottom, which is the main path to a bigger role for him. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=407))
+- He is the backup center behind Domantas Sabonis, who is the projected starter. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=2113), [09-24](https://youtu.be/_vbAP5y182A?t=2232), [07-14](https://youtu.be/xHRF06_E9HE?t=1346), [07-31](https://youtu.be/oEywzBZfAvY?t=691))
+- Experts advise against drafting him in a 12-team league. The newest call sees no point in drafting a backup center who is not that good. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=2113), [09-24](https://youtu.be/_vbAP5y182A?t=2232), [07-14](https://youtu.be/xHRF06_E9HE?t=1346))
+- His upside depends on Sabonis being traded or hurt. Experts say he cannot do much in limited minutes and will have little value early. (verdict, 2026-09-24, until Sabonis trade or injury; [09-24](https://youtu.be/_vbAP5y182A?t=2232), [09-15](https://youtu.be/KPdD91Oo8-U?t=2282), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2236), [09-04](https://youtu.be/gerS7ibpaJo?t=1679), [08-11](https://youtu.be/OdDkXFhoKsc?t=2478), [09-03](https://youtu.be/OBwWCxG9SqM?t=976))
+- Some experts think the Kings may trade or dump Sabonis, but Josh does not expect a trade, and experts do not expect the Kings to bench Sabonis for him while the team needs wins to stay out of the relegation zone. (verdict, 2026-09-24; [09-21](https://youtu.be/egRrai3Ax38?t=392), [09-14](https://youtu.be/t4n9MAP2_14?t=976), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1936), [08-11](https://youtu.be/OdDkXFhoKsc?t=2478))
+- Josh says he is not the best per-minute producer among backup centers, and that Paul Reed is far better per minute. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2232), [08-11](https://youtu.be/OdDkXFhoKsc?t=2478))
+- Experts expect him to play about 19 to 20 minutes a night in that role. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=2282), [08-11](https://youtu.be/OdDkXFhoKsc?t=2478))
+- He produced top-70 value over the last two months of last season, when many Kings injuries opened a big role for him. (fact, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=976), [07-14](https://youtu.be/xHRF06_E9HE?t=1258))
+- Ham thinks he could be better than Sabonis in two to three years and says the Kings should try to show he is a starter this season. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1365))
+- In Summer League he took 39% of his shots from three and blocked no shots. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=602))
+- A rising three-point rate would lower his FG% but add points and threes. Experts say to keep an eye on it. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=602))
 
 **Durable**
-- He is an efficient shooter: high FG% and a good FT% for a center. He makes some threes at a good rate (37%). (fact, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1297), stats)
-- He gets few steals and blocks for a center. He is not a blocks guy. (fact, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1297), stats)
+- Steals are his weakest category, low even for a center. (fact, 2026-10-11; stats)
+- He shoots efficiently from the field and the line for a center and makes some threes at a good rate. (fact, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1297), stats)
+- He is not a shot blocker. His blocks are low for a center. (fact, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1297), stats)
 
 **Tags**
-- Current: `role down` (Backup behind Sabonis at about 19 to 20 minutes, after 26.6 last season), `handcuff` (Value only if Domantas Sabonis is traded or hurt), `waiver watch` (Watch for Sabonis trade or injury news), `trades likely` (Sabonis or LaVine trade possible; a Sabonis deal would open the starting center job), `bottom team` (About 22 to 27 wins projected), `low shutdown risk` (Kings must avoid relegation, so Sabonis keeps playing over Raynaud)
-- Durable: `punt STL fit` (0.5 steals per game, weak for a center)
+- Current: `handcuff` (Backup to Domantas Sabonis. Value depends on a Sabonis trade or injury.; until Sabonis trade or injury), `waiver watch` (Not worth drafting in 12-team leagues. Pick him up if Sabonis is traded or hurt.), `injured now` (Knee, Yahoo status Q), `questionable` (Knee), `bottom team` (Kings projected near the bottom of the West), `trades likely` (A Sabonis trade would open the starting center job)
+- Durable: `punt STL fit`
 
-**Note.** Yahoo ranks him 162nd with a 1 USD average cost and ESPN does not rank him, so he falls outside the 144 players our league drafts. Every expert says to leave him to waivers. As Sabonis's backup at about 19 to 20 minutes, he only gives modest FG%, rebounds and low turnovers. Early in the season, watch for Sabonis trade or injury news and check whether his three-point rate is rising. If he becomes the starter, he is a quick FAB add for FG% and rebounds, and he fits punt STL builds.
+**Note.** Yahoo ranks him 161st with a 1.0 USD average cost, and he went undrafted in our league last season. With only 144 players drafted, he belongs on waivers, not on draft day. His efficient FG% and low turnovers would help a punt STL build if he got starter minutes, as he did over the last two months of last season. Early in the season, watch his knee (Yahoo Q), any Sabonis trade or injury news, and whether his three-point rate is rising.
 
-<sub>12 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>12 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

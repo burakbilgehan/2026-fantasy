@@ -8,35 +8,44 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "75c8f1f4e5ad",
- "note_count": 13,
- "built_at": "2026-10-05T19:47:35+00:00",
+ "input_sha": "4fa5e8c103dd",
+ "note_count": 14,
+ "built_at": "2026-10-11T09:15:44+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.19090619999999997,
-  "duration_ms": 54106,
+  "cost_usd_list": 0.1881182,
+  "duration_ms": 48832,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Yves Missi looks set to start at center for New Orleans. Queen is expected to come off the bench.",
+   "text": "A Pelicans beat reporter expects Yves Missi to start at center over Queen.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-09-30",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p92",
-    "ZYllcj4o6_A:p19",
-    "BjXP9JODDSg:p32",
-    "_vbAP5y182A:p33",
-    "BjXP9JODDSg:t1",
     "_vbAP5y182A:t0",
+    "BjXP9JODDSg:t1",
     "ZYllcj4o6_A:t1"
    ]
   },
   {
-   "text": "Experts agree that Queen and Zion Williamson do not fit together on the floor, which limits how long they can play together.",
+   "text": "Experts expect Queen to come off the bench and share the second unit. They call this bad for his value.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "WXO8MfQfzo0:p36",
+    "Q6YlQDvD-aY:p92",
+    "ZYllcj4o6_A:p19",
+    "BjXP9JODDSg:p32",
+    "_vbAP5y182A:p33"
+   ]
+  },
+  {
+   "text": "Experts agree that Queen and Zion Williamson fit poorly together, which limits how long they can share the floor.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -46,46 +55,36 @@
     "ahNxsoU8Hx4:p24",
     "t4n9MAP2_14:p38",
     "LM0cRCGoAUQ:p39",
-    "ahNxsoU8Hx4:t1",
     "LM0cRCGoAUQ:t8",
-    "_vbAP5y182A:t0"
+    "ahNxsoU8Hx4:t1"
    ]
   },
   {
-   "text": "The Pelicans have a crowded frontcourt and wing rotation. Saddiq Bey may close games in lineups with Zion at center.",
+   "text": "New Orleans has more rotation players than minutes. Murray, Murphy, Jones, Zion, Missi, Fears, Bey, Mathurin and Queen all want playing time.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:t1",
+    "WXO8MfQfzo0:t1",
     "NYTH7uQsPCM:t0",
-    "gerS7ibpaJo:t1"
+    "gerS7ibpaJo:t1",
+    "-DN4P92Wp8Y:t2"
    ]
   },
   {
-   "text": "New coach Jamahl Mosley decides his minutes, and how Mosley will handle the Queen and Zion pairing is unknown.",
+   "text": "Jamahl Mosley is the new head coach, and Queen's minutes depend on how he handles the Queen and Zion frontcourt.",
    "kind": "fact",
-   "date": "2026-09-14",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
     "LM0cRCGoAUQ:p39",
-    "LM0cRCGoAUQ:t8",
     "gerS7ibpaJo:t0",
-    "5QU-jta-lWM:t4"
+    "5QU-jta-lWM:t4",
+    "-DN4P92Wp8Y:t2"
    ]
   },
   {
-   "text": "As a likely bench player he is worth about 6 USD in an auction. Josh calls that price reasonable and has moved him down his rankings.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p92",
-    "_vbAP5y182A:p33"
-   ]
-  },
-  {
-   "text": "He has top 50 upside and would be very good value if he wins the starting center job or Zion misses games. Josh expects the Pelicans to rest Zion often.",
+   "text": "Experts see real upside if Queen wins the starting center job or Zion misses time. One expert put his ceiling at top 50 in that case. Josh thinks the Pelicans will rest Zion often.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -96,44 +95,64 @@
    ]
   },
   {
-   "text": "He is an acceptable flyer at his current price.",
+   "text": "Josh moved Queen down his board and calls his draft spot a little early if he comes off the bench. In an auction mock, Josh called a 6 USD price for Queen reasonable.",
    "kind": "verdict",
-   "date": "2026-09-14",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "LM0cRCGoAUQ:p39"
+    "_vbAP5y182A:p33",
+    "Q6YlQDvD-aY:p92"
    ]
   },
   {
-   "text": "Experts see the Pelicans as a weak team near the bottom of the West. One projection is about 34 wins and no playoffs.",
+   "text": "Queen is a risky pick. He is fine as a flyer but not as a sure starter.",
    "kind": "verdict",
-   "date": "2026-09-17",
+   "date": "2026-09-15",
    "until": "",
    "sources": [
-    "ahNxsoU8Hx4:t1",
-    "5QU-jta-lWM:t6",
-    "0AptxcRW0RE:t7"
+    "LM0cRCGoAUQ:p39",
+    "KPdD91Oo8-U:p21"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is a hub big who works from the elbows and the free throw line. He is not a three-point spacer and makes almost no threes.",
+   "text": "Queen is a hub big who works from the elbows and the free throw line. He is not a three-point spacer and makes very few threes.",
    "kind": "fact",
-   "date": "2026-08-03",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "5QU-jta-lWM:p6",
+    "gerS7ibpaJo:p12",
     "stats"
    ]
   },
   {
-   "text": "He fills the box score for a big. His rebounds, assists, steals and blocks all help.",
-   "kind": "verdict",
-   "date": "2026-09-04",
+   "text": "He gives a broad counting line for a big: rebounds, assists well above his position, steals and blocks.",
+   "kind": "fact",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "gerS7ibpaJo:p12",
+    "stats"
+   ]
+  },
+  {
+   "text": "His turnovers are high for a forward or center.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He does not give the field goal percentage boost managers usually want from a center.",
+   "kind": "verdict",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "KPdD91Oo8-U:p21",
     "stats"
    ]
   },
@@ -148,26 +167,7 @@
    ]
   },
   {
-   "text": "He does not give the FG% boost that fantasy managers usually want from a center.",
-   "kind": "verdict",
-   "date": "2026-09-15",
-   "until": "",
-   "sources": [
-    "KPdD91Oo8-U:p21",
-    "stats"
-   ]
-  },
-  {
-   "text": "He commits many turnovers for a forward or center.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "His production comes unevenly within games. He often has weak first halves and then big runs in fourth quarters.",
+   "text": "His production comes in bursts. He has had poor first halves and big fourth-quarter runs.",
    "kind": "fact",
    "date": "2026-08-03",
    "until": "",
@@ -180,7 +180,7 @@
   {
    "name": "punt 3PM fit",
    "channel": "durable",
-   "detail": "About 0.4 threes per game. He plays as an elbow hub, not a spacer.",
+   "detail": "About 0.4 threes per game, weak even for a F/C",
    "until": "",
    "sources": [
     "stats",
@@ -191,7 +191,7 @@
   {
    "name": "punt TO fit",
    "channel": "durable",
-   "detail": "About 2.5 turnovers per game, which is high for his position",
+   "detail": "About 2.5 turnovers per game, high for his position",
    "until": "",
    "sources": [
     "stats"
@@ -201,7 +201,7 @@
   {
    "name": "no 3PM",
    "channel": "durable",
-   "detail": "",
+   "detail": "Hub big from the elbows, not a spacer",
    "until": "",
    "sources": [
     "stats",
@@ -212,48 +212,60 @@
   {
    "name": "AST from a big",
    "channel": "durable",
-   "detail": "About 4 assists per game as a hub big",
+   "detail": "About 4 assists per game as a F/C",
    "until": "",
    "sources": [
     "stats",
-    "gerS7ibpaJo:p12",
-    "5QU-jta-lWM:p6"
+    "gerS7ibpaJo:p12"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Yves Missi looks set to start at center. Fit issues with Zion Williamson.",
+   "detail": "Yves Missi expected to start at center; poor fit next to Zion",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p92",
-    "ZYllcj4o6_A:p19",
+    "_vbAP5y182A:t0",
     "BjXP9JODDSg:p32",
-    "_vbAP5y182A:p33"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "handcuff",
-   "channel": "current",
-   "detail": "More minutes when Zion Williamson rests or Missi loses the starting job",
-   "until": "",
-   "sources": [
-    "gerS7ibpaJo:p13",
-    "t4n9MAP2_14:p38",
-    "ZYllcj4o6_A:t1"
+    "ZYllcj4o6_A:p19",
+    "WXO8MfQfzo0:p36"
    ],
    "new_meaning": ""
   },
   {
    "name": "flyer",
    "channel": "current",
-   "detail": "About 6 USD in an auction mock",
+   "detail": "Upside if he starts or Zion misses time",
    "until": "",
    "sources": [
     "LM0cRCGoAUQ:p39",
-    "Q6YlQDvD-aY:p92"
+    "t4n9MAP2_14:p38",
+    "gerS7ibpaJo:p13"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Too many Pelicans for 240 minutes",
+   "until": "",
+   "sources": [
+    "WXO8MfQfzo0:t1",
+    "NYTH7uQsPCM:t0",
+    "gerS7ibpaJo:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Frontcourt starters unclear between Queen, Zion and Missi",
+   "until": "",
+   "sources": [
+    "gerS7ibpaJo:t0",
+    "WXO8MfQfzo0:t1",
+    "OdDkXFhoKsc:t0"
    ],
    "new_meaning": ""
   },
@@ -265,46 +277,11 @@
    "sources": [
     "gerS7ibpaJo:t0",
     "5QU-jta-lWM:t4",
-    "LM0cRCGoAUQ:p39"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "deep rotation",
-   "channel": "current",
-   "detail": "About eight Pelicans who could start",
-   "until": "",
-   "sources": [
-    "NYTH7uQsPCM:t0",
-    "gerS7ibpaJo:t1"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "unsettled rotation",
-   "channel": "current",
-   "detail": "Frontcourt split between Zion, Missi, Queen and Bey",
-   "until": "",
-   "sources": [
-    "gerS7ibpaJo:t0",
-    "Q6YlQDvD-aY:t1",
-    "LM0cRCGoAUQ:t8"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "bottom team",
-   "channel": "current",
-   "detail": "",
-   "until": "",
-   "sources": [
-    "0AptxcRW0RE:t7",
-    "5QU-jta-lWM:t6",
-    "ahNxsoU8Hx4:t1"
+    "-DN4P92Wp8Y:t2"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Queen is priced as a late flyer: 5 USD on Yahoo, 1.8 USD average cost on ESPN, a rank around 95, and 6 USD in a recent auction mock. As a bench big he gives rebounds, assists, steals and blocks, so he fits punt 3PM and punt TO builds, though his FG% is only neutral for a center. Early in the season, check his minutes against Missi under Mosley and how he produces in games Zion sits, because starting is what would give him top 50 upside.",
+ "note": "Queen's market price is 3 to 4 USD (Yahoo rank 100, ESPN rank 89). Josh called 6 USD reasonable in a mock auction. He was not drafted in our league last season. As a bench big he is a cheap late buy for punt TO or punt 3PM builds, since he still adds rebounds, assists, steals and blocks from a F/C slot. Early in the season, check whether Missi keeps the starting job, how Mosley splits minutes between Queen and Zion, and whether Queen gets above his 25 minutes of last season.",
  "rejected": []
 }

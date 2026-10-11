@@ -8,7 +8,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 197 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 202 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,7 +19,7 @@
 | 3PM | 0.0 | -1.7 | -1.6 | league outlier, weak |
 | PTS | 4.7 | -1.6 | -1.6 | league outlier, weak |
 | REB | 6.7 | +0.7 | +0.2 | - |
-| AST | 1.2 | -1.0 | -0.8 | - |
+| AST | 1.2 | -1.0 | -0.9 | - |
 | STL | 0.6 | -1.0 | -0.9 | - |
 | BLK | 1.3 | +1.6 | +1.1 | - |
 | TO | 0.8 | +1.2 | +1.1 | - |
@@ -27,20 +27,18 @@
 </details>
 
 **Current**
-- The Kings may trade Sabonis, which would change the frontcourt depth chart. (fact, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=392), [07-31](https://youtu.be/oEywzBZfAvY?t=2547))
-- He is not in the Kings' projected starting five. Sabonis is the projected starting center. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691))
-- He is likely an energy player off the bench for about 18 minutes, behind Maxime Raynaud. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=576))
+- His Yahoo status is questionable (Rest). (fact, 2026-10-11; stats)
+- He is likely an energy big off the bench behind Raynaud, at about 18 minutes per game. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=576))
 
 **Durable**
-- He is a rebounds and blocks big. Blocks are his best category. (fact, 2026-10-05; [07-21](https://youtu.be/RyzcCGChYgs?t=576), stats)
-- He makes no threes and scores very little, so threes and points are clear weak categories. (fact, 2026-10-05; stats)
-- Coach Ham describes him as a defensive-minded energy player. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1354))
-- He is a poor free throw shooter. He shot 40% from the line in Summer League. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=576), stats)
+- He makes no threes and scores very little. Threes and points are both weak at league level. (fact, 2026-10-11; stats)
+- He is a defensive-minded energy big. His value comes from rebounds and blocks. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1354), [07-21](https://youtu.be/RyzcCGChYgs?t=576))
+- He is a poor free throw shooter. He shot 40% from the line in Summer League. He takes few free throws, so the damage to team FT% is limited. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=576), stats)
 
 **Tags**
-- Current: `minutes competition` (Backup big behind Sabonis and Maxime Raynaud), `trades likely` (Sabonis or LaVine trade or buyout possible), `bottom team` (Projected about 22 to 27 wins)
-- Durable: `no 3PM` (0.0 threes per game last season and in projections)
+- Current: `questionable` (Yahoo status Q (Rest))
+- Durable: `no 3PM` (0.0 threes per game last season and in the projection)
 
-**Note.** Yahoo ranks him 197 with a 0 USD value, and ESPN gives no price. Our league drafts only 144 players, so he is not a draft target. With 1.3 blocks, 6.7 rebounds, good FG% on low volume and few turnovers, he is at most a short-term waiver stream for blocks. Early in the season, watch whether Sabonis gets traded or Cardwell's minutes rise above the expected 18 or so.
+**Note.** Yahoo values him at 0 USD and ranks him 202. ESPN gives no price, and he was not drafted in our league last season. That puts him well outside our 144-player draft. In about 18 to 20 bench minutes, his useful categories are blocks, rebounds, FG% and low turnovers. He gives nothing in threes or points. Leave him on waivers, and only look at him early in the season if the Kings' frontcourt minutes open up.
 
-<sub>2 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

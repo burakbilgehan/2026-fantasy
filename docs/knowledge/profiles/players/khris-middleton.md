@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 247 | 0 | 0.0 | 286 | 1 |
+| 2026-27 | 0 | - | 247 | 0 | 0.0 | 285 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -25,24 +25,26 @@
 | AST | 2.1 | -0.6 | -0.4 | - |
 | STL | 0.7 | -0.9 | -0.9 | - |
 | BLK | 0.2 | -0.9 | -1.0 | - |
-| TO | 1.2 | +0.5 | +0.4 | - |
+| TO | 1.2 | +0.6 | +0.4 | - |
 
 </details>
 
 **Current**
-- Washington has a crowded group of wings and guards. The fifth starter spot is open, with many wings competing for it. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1586), [07-23](https://youtu.be/LUTYUdXBG1M?t=248), [07-23](https://youtu.be/UTE0dNIv8nY?t=2098))
-- He re-signed with Washington on a cheap three-year deal. Part of the reason is the mentoring he gives young players. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=313))
-- He is not in the projected starting five. The projected starters are Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
-- It is unclear how much he will play. One expert expects a 10 or 11 man rotation, with 12 or 13 players who could justify minutes. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=313), [07-23](https://youtu.be/UTE0dNIv8nY?t=2098))
-- Washington is trying to compete this season. The late-season rest and minutes cuts of past years should not come back. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185))
+- Yahoo lists him as questionable (rest). (fact, 2026-10-11; stats)
+- Trae Young, Anthony Davis and AJ Dybantsa are expected to take most of the usage, which leaves little for the rest of the roster. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2539), [09-19](https://youtu.be/uarqbNA2dFk?t=894), [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
+- He is not in the projected starting five of Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr. The fifth starter spot is open, with many wings competing, and a 10 or 11 man rotation is expected. (verdict, 2026-09-07; [07-23](https://youtu.be/UTE0dNIv8nY?t=379), [07-23](https://youtu.be/UTE0dNIv8nY?t=2098), [09-07](https://youtu.be/gJUBAJaHzlU?t=1586))
+- Washington re-signed him on a cheap three-year deal, partly for the mentoring he gives young players. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=313))
+- It is unclear how much he will play this season. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=313))
+- Washington has a deep, crowded group of wings and guards. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2098), [07-23](https://youtu.be/LUTYUdXBG1M?t=248))
+- Washington is trying to compete for the play-in, so late-season rest and minutes cuts for veterans should be less likely than in past years. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802))
 
 **Durable**
-- His projected line has no strong category. His best categories are FT% and turnovers, and both come on low volume. (fact, 2026-10-04; stats)
+- none
 
 **Tags**
-- Current: `minutes competition` (Many Washington wings compete for minutes and the fifth starter spot. He is not in the projected starting five.)
+- Current: `minutes competition` (Crowded wing group. The fifth starter spot is open, and he is not in the projected starting five.), `usage competition` (Trae Young, Anthony Davis and AJ Dybantsa take most of the usage.), `deep rotation` (10 or 11 man rotation expected, with 12 or 13 players who could justify minutes.), `unsettled rotation` (Fifth starter spot is unclear.), `low shutdown risk` (Washington is pushing for the play-in, not rebuilding.), `questionable` (Yahoo status Q (Rest).)
 - Durable: none
 
-**Note.** Yahoo ranks him 247th and ESPN ranks him 286th. Both sites value him at 0 USD, and he went for 1 USD in our auction last season. That puts him well outside the 144 players we draft, so do not draft him. Last season he scored 10.2 points on 42.0% shooting in 22.8 minutes, and his role on a deep Washington wing rotation is unclear. Leave him on waivers and pick him up only if early-season box scores show him getting starter minutes.
+**Note.** He is not a draft target for us. He is ranked 247 on Yahoo and 285 on ESPN, both sites value him at 0 USD, and he went for 1 USD in our league last season. That puts him well outside the 144 players we draft. Both sites project about 10 points in about 20 minutes, and no category stands out, so he fits no build in particular. His FT% and low turnovers are mild plus categories only. In the first weeks, check whether he wins minutes in Washington's crowded wing group or picks some up after injuries. If he does not, leave him on waivers.
 
-<sub>1 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>1 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

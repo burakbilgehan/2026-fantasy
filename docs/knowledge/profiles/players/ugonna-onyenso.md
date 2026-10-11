@@ -5,27 +5,26 @@ No NBA stats and no projections in our data.
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 680 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 701 | - | - | - | not drafted |
 
 **Current**
-- He is on a two-way contract with Detroit. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1713), [08-02](https://youtu.be/TOn-D1SV7a8?t=156))
-- He is Detroit's third-string center, behind Jalen Duren and Paul Reed. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1713), [10-03](https://youtu.be/_O9pc_u5vH0?t=374), [10-03](https://youtu.be/_O9pc_u5vH0?t=1420))
+- He is the third-string center for Detroit, behind Jalen Duren and Paul Reed. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1713), [10-03](https://youtu.be/_O9pc_u5vH0?t=374), [10-03](https://youtu.be/_O9pc_u5vH0?t=1420))
+- He is on a two-way contract. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1713), [08-02](https://youtu.be/TOn-D1SV7a8?t=156))
 - Isaiah Stewart is gone, so Detroit has less frontcourt depth behind Duren. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=208))
 - He is a rookie from the 2026 draft class. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=156), [06-23](https://youtu.be/-rgXhs5BHiw?t=1033))
-- He played as a backup big in Summer League and averaged 2 blocks a game. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1459))
-- He is a name to watch. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1459))
+- An expert calls him a name to watch. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1459))
 
 **Durable**
-- He has a very high block rate. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1713), [06-23](https://youtu.be/-rgXhs5BHiw?t=1033), [07-23](https://youtu.be/LUTYUdXBG1M?t=1459))
+- He has a very high block rate. He averaged 2 blocks a game in Summer League as a backup big. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1713), [06-23](https://youtu.be/-rgXhs5BHiw?t=1033), [07-23](https://youtu.be/LUTYUdXBG1M?t=1459))
 - Josh says his fantasy potential is through the roof. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=156))
-- His translated fantasy stats were among the top three in his draft class. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1459), [06-23](https://youtu.be/-rgXhs5BHiw?t=1033))
-- He began taking threes in his last season before the NBA. (fact, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1033))
-- He could build fantasy value from blocks, rebounds and FG%, like Walker Kessler. (verdict, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1033))
+- His translated fantasy stats rank among the top three in his draft class. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1459), [06-23](https://youtu.be/-rgXhs5BHiw?t=1033))
+- He started taking threes in his last season before the NBA. (fact, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1033))
+- He could build fantasy value from blocks, rebounds and FG%, in a profile like Walker Kessler's. (verdict, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1033))
 
 **Tags**
-- Current: `two-way contract` (Two-way deal with Detroit), `rookie` (2026 draft class), `waiver watch` (Third-string center with a very high block rate; watch for minutes if Duren or Reed miss time)
+- Current: `two-way contract` (two-way deal with Detroit), `rookie` (2026 draft class), `waiver watch` (third-string center with a very high block rate; watch for injuries to Duren or Reed)
 - Durable: none
 
-**Note.** Do not draft him in our auction. He has no projections, his Yahoo value is 0 USD at rank 680, and he is a third-string center on a two-way deal, so he is far outside the 144 players who get drafted. His very high block rate and Kessler-like profile (blocks, rebounds, FG%) make him a waiver name to watch if he gets a standard contract or if Duren or Paul Reed miss time, since Detroit's frontcourt depth is thin without Isaiah Stewart.
+**Note.** Yahoo values him at 0 USD with a rank of 701, and ESPN has no price, so he should not be drafted in our 144-player auction. He is a third-string center on a two-way deal, and Detroit has thin depth behind Duren now that Stewart is gone. Keep him on the waiver watch list early in the season, and move fast if Duren or Reed misses time, because his blocks, rebounds and FG% upside could make him a cheap source of blocks.
 
-<sub>4 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

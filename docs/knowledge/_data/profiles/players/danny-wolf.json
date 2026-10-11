@@ -8,14 +8,16 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "3645615cf096",
+ "input_sha": "8b3195da74ea",
  "note_count": 4,
- "built_at": "2026-10-04T17:27:57+00:00",
+ "built_at": "2026-10-11T09:14:54+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1619244,
-  "duration_ms": 34281
+  "cost_usd_list": 0.2229224,
+  "duration_ms": 48840,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
@@ -39,19 +41,18 @@
    ]
   },
   {
-   "text": "Brooklyn's center minutes will probably be a messy three-way split between Sharpe, Wagner and Wolf. One expert said he could end up as the starting center instead of Sharpe, but newer previews project Sharpe to start.",
+   "text": "Brooklyn's center minutes will probably be a messy split between Sharpe, Wagner and Wolf. Wolf could still end up as the starting center instead of Sharpe, so check who starts early in the season.",
    "kind": "verdict",
-   "date": "2026-09-26",
+   "date": "2026-09-01",
    "until": "",
    "sources": [
     "P6TNP-g0wzY:t7",
     "4GDfg2n2l8o:p10",
-    "3UGI05PDvrE:t1",
     "skKXe2CRl8Q:t0"
    ]
   },
   {
-   "text": "The expert sees no clear breakout for him this season.",
+   "text": "No clear breakout is expected this season.",
    "kind": "verdict",
    "date": "2026-07-23",
    "until": "",
@@ -60,18 +61,30 @@
    ]
   },
   {
-   "text": "Brooklyn does not own its pick and has little to play for. Second-half and March minutes are uncertain, and the team may hand minutes to young players such as Clowney and Minott.",
+   "text": "Many young Nets players have a case for frontcourt and second-unit minutes, and Brooklyn could give more minutes to Josh Minott and Noah Clowney in the second half. Minutes will be hard to find for all of them.",
    "kind": "verdict",
    "date": "2026-09-26",
    "until": "",
    "sources": [
-    "3UGI05PDvrE:t0",
+    "uRsfijpBPok:t2",
     "3UGI05PDvrE:t3",
     "LM0cRCGoAUQ:t7"
    ]
   },
   {
-   "text": "Brooklyn plays 3-4-3 games in our playoff weeks with one playoff back-to-back. The team has 16 back-to-backs this season, tied for the most in the league.",
+   "text": "Brooklyn is projected as one of the worst teams, at about 28 wins. Houston owns its pick, so the Nets have no reason to tank, but March minutes are uncertain.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t8",
+    "uRsfijpBPok:t4",
+    "3UGI05PDvrE:t0",
+    "dlo7L8Ru91A:t3"
+   ]
+  },
+  {
+   "text": "Brooklyn has 16 back-to-backs, tied with Boston for the most in the league. In our playoff weeks they play 3-4-3 games, with one back-to-back.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
@@ -92,13 +105,23 @@
    ]
   },
   {
-   "text": "He is a poor efficiency player across the board. One expert doubts he is an NBA-level player because of his efficiency and defense.",
+   "text": "He is a poor efficiency player across the board. Experts doubt he is a real NBA player because of his efficiency and his defense.",
    "kind": "verdict",
    "date": "2026-07-23",
    "until": "",
    "sources": [
     "4GDfg2n2l8o:p10",
-    "LUTYUdXBG1M:p39"
+    "LUTYUdXBG1M:p39",
+    "9tb1ARBEmQU:p7"
+   ]
+  },
+  {
+   "text": "His projected category line has no strong category. FG%, steals and blocks are low for a forward or center.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
    ]
   }
  ],
@@ -106,17 +129,71 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Center minutes split with Day'Ron Sharpe and Mo Wagner, plus Noah Clowney; Julius Randle blocks him at power forward",
+   "detail": "Center minutes are split between Sharpe, Wagner and Wolf. Randle starts at power forward, and Clowney and Minott also want frontcourt minutes.",
    "until": "",
    "sources": [
     "P6TNP-g0wzY:t7",
     "3UGI05PDvrE:t2",
-    "9tb1ARBEmQU:p7",
+    "uRsfijpBPok:t2",
     "4GDfg2n2l8o:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "The Randle trade kills his value at power forward.",
+   "until": "",
+   "sources": [
+    "9tb1ARBEmQU:p7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Messy center split. The second half is uncertain because of development minutes and a possible Porter trade.",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:t7",
+    "3UGI05PDvrE:t3",
+    "9tb1ARBEmQU:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "Projected at about 28 wins and does not own its pick.",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t8",
+    "uRsfijpBPok:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "16 back-to-backs, tied for the most in the league.",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t4",
+    "gf_6GveiAls:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "ESPN ranks him 164 and Yahoo ranks him 331. Both value him at 0 USD.",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Wolf is not a draft target in our 144-player auction. Both sites value him at 0 USD (Yahoo rank 331, ESPN rank 196), and his projected 41.5% FG with no strong category gives little 9-cat value. Watch only whether Sharpe really starts at center early in the season. If Wolf wins a starting or big center role, he becomes a cheap FAB look for a team that can absorb his FG%.",
+ "note": "Wolf is not a draft target in our league. Yahoo ranks him 331 and ESPN ranks him 164, both at 0 USD, so he sits well outside the 144 players we draft. He shot 40.5% on 7.7 attempts last season, and the experts see poor efficiency and no breakout. Early in the season, watch whether he takes the starting center job from Sharpe. Only then would ESPN's projection of 24 minutes and 11.5 points make him worth a waiver claim.",
  "rejected": []
 }

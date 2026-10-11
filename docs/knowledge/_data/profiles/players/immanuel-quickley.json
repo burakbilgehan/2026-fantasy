@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "4b434eb96a72",
- "note_count": 10,
- "built_at": "2026-10-04T17:32:48+00:00",
+ "input_sha": "13ee70cdf1ec",
+ "note_count": 11,
+ "built_at": "2026-10-11T09:17:02+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.12275420000000001,
-  "duration_ms": 30645
+  "cost_usd_list": 0.15093419999999996,
+  "duration_ms": 37820,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Toronto traded Brandon Ingram away and added Kawhi Leonard.",
+   "text": "Toronto traded for Kawhi Leonard, and Brandon Ingram left in the deal.",
    "kind": "fact",
    "date": "2026-09-10",
    "until": "",
@@ -29,24 +31,25 @@
    ]
   },
   {
-   "text": "With Kawhi on the team, Quickley loses usage and should take fewer shots, but he should still have the ball a lot. Without Kawhi he would be a tier higher.",
-   "kind": "verdict",
-   "date": "2026-09-10",
-   "until": "",
-   "sources": [
-    "W-R1dzem32s:p44",
-    "JMSLg6yz-M0:p11",
-    "JMSLg6yz-M0:t0"
-   ]
-  },
-  {
-   "text": "He is a projected starter and part of the expected closing five, next to Barrett, Kawhi and Barnes.",
+   "text": "Quickley is a projected starter. He is also in the expected closing five with Barrett, Kawhi, Barnes and Murray-Boyles.",
    "kind": "fact",
    "date": "2026-08-20",
    "until": "",
    "sources": [
     "s28HvC2grAk:t0",
     "s28HvC2grAk:t1"
+   ]
+  },
+  {
+   "text": "Kawhi takes usage away from Quickley. He should take fewer shots but still have the ball a lot. Without Kawhi he would be a tier higher.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "JMSLg6yz-M0:p11",
+    "W-R1dzem32s:p44",
+    "6DnRWahYrFA:p32",
+    "JMSLg6yz-M0:t0"
    ]
   },
   {
@@ -59,7 +62,7 @@
    ]
   },
   {
-   "text": "His pull-up and transition three-point shooting were poor last season.",
+   "text": "His pull-up and transition three-point shooting was poor last season.",
    "kind": "fact",
    "date": "2026-08-20",
    "until": "",
@@ -68,7 +71,7 @@
    ]
   },
   {
-   "text": "That pull-up and transition shooting needs to return to his career averages.",
+   "text": "Those pull-up and transition threes need to get back to his career averages.",
    "kind": "verdict",
    "date": "2026-08-20",
    "until": "",
@@ -86,7 +89,7 @@
    ]
   },
   {
-   "text": "He stayed healthier last season than in previous years.",
+   "text": "He stayed healthier last season than in earlier years.",
    "kind": "fact",
    "date": "2026-08-20",
    "until": "",
@@ -95,7 +98,7 @@
    ]
   },
   {
-   "text": "Tier 7 point guard in both formats: solid, with limited upside.",
+   "text": "Tier 7 point guard in both formats. Solid, with limited upside.",
    "kind": "verdict",
    "date": "2026-09-09",
    "until": "",
@@ -104,8 +107,8 @@
    ]
   },
   {
-   "text": "In a points league sleepers video, his ESPN ADP of 114 is called bench range in a standard ESPN league. He was 58th per game last season.",
-   "kind": "verdict",
+   "text": "He was 58th per game last season. His ESPN ADP is 114, which is bench range in a standard ESPN league.",
+   "kind": "fact",
    "date": "2026-09-21",
    "until": "",
    "sources": [
@@ -113,28 +116,29 @@
    ]
   },
   {
-   "text": "In an early mock draft, Josh regretted taking him with a rushed pick and said Kevin Porter Jr. was the right choice.",
+   "text": "Lloyd thinks he can return about 15 spots of value over his draft position, even with Kawhi there. This call is based on points-league ranks.",
    "kind": "verdict",
-   "date": "2026-08-11",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "OdDkXFhoKsc:p51"
+    "6DnRWahYrFA:p32",
+    "egRrai3Ax38:p47"
    ]
   },
   {
-   "text": "The Raptors have 15 back-to-backs this season and three in the fantasy playoffs.",
-   "kind": "fact",
-   "date": "2026-08-16",
+   "text": "Sean predicts 52 wins for Toronto, or 56 to 57 if Kawhi plays 75 games.",
+   "kind": "verdict",
+   "date": "2026-08-20",
    "until": "",
    "sources": [
-    "gf_6GveiAls:t5"
+    "s28HvC2grAk:t4"
    ]
   }
  ],
  "durable": [
   {
    "text": "He is not a classic point guard or a perfect on-ball creator.",
-   "kind": "fact",
+   "kind": "verdict",
    "date": "2026-08-20",
    "until": "",
    "sources": [
@@ -142,9 +146,9 @@
    ]
   },
   {
-   "text": "He blocks almost no shots, even for a guard, so punt BLK builds lose little with him.",
+   "text": "He blocks very few shots, even for a guard. A punt BLK team loses little with him.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
@@ -163,29 +167,52 @@
    "new_meaning": ""
   },
   {
-   "name": "role down",
+   "name": "usage competition",
    "channel": "current",
-   "detail": "Usage moves to Kawhi Leonard; fewer shots, more off-ball play",
+   "detail": "Kawhi Leonard takes shots and touches from him",
    "until": "",
    "sources": [
-    "W-R1dzem32s:p44",
     "JMSLg6yz-M0:p11",
-    "JMSLg6yz-M0:t0",
+    "W-R1dzem32s:p44",
+    "6DnRWahYrFA:p32",
+    "JMSLg6yz-M0:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "fewer shots and more off-ball play next to Kawhi",
+   "until": "",
+   "sources": [
+    "JMSLg6yz-M0:p11",
+    "W-R1dzem32s:p44",
     "s28HvC2grAk:p11"
    ],
    "new_meaning": ""
   },
   {
-   "name": "bad playoff schedule",
+   "name": "sleeper",
    "channel": "current",
-   "detail": "Raptors have three back-to-backs in the fantasy playoffs",
+   "detail": "Lloyd sees about 15 spots of value over his ESPN points rank and ADP",
    "until": "",
    "sources": [
-    "gf_6GveiAls:t5"
+    "6DnRWahYrFA:p32",
+    "egRrai3Ax38:p47"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "Sean predicts 52 wins",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:t4"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Market prices are low: Yahoo value 9 USD and ESPN value 3 USD, with average costs under 2 USD and ranks of 86 to 90. That puts him near the end of our 144-player pool, below the 13 USD our league paid last season. He brings threes, assists and a solid FT% but drags FG% (about 43.5%) and gives no blocks, so he fits punt BLK guard builds best. Early in the season, check his three-point volume off the ball, whether his pull-up shooting recovers, and how much he runs the offense when Kawhi sits.",
+ "note": "He goes cheap: 1.4 USD average cost on Yahoo and 2.1 USD on ESPN, with ranks of 87 and 90. Our league paid 13 USD for him last season, so he looks like a value pick at single digits (Yahoo value 9, ESPN 3). He fits punt BLK builds best and helps most in threes (2.6) and assists (5.7), while his 43.5% FG% is a small drag. Early in the season, check his shot volume next to Kawhi, whether his three-point volume rises as Sean expects, and whether his pull-up threes get back to his career level.",
  "rejected": []
 }

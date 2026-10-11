@@ -3,43 +3,39 @@
 
 <sub>Proposed by the synthesis, not on the user's list.</sub>
 
-**Summary.** In our 12-team daily league, only a few backups have value on their own: guards and forwards who give real categories while the starter plays. Draft those late and cheap. Most pure handcuffs, especially backup centers, belong on waivers. We have only 2 bench spots and daily FAB, so the right move is to add a backup the day his starter goes down, not to stash him in the auction.
+**Summary.** In our daily 12-team league, a handcuff is only worth a draft pick if he helps you while the starter is healthy and would start for 30-plus minutes if the starter went down. Most backups in our data rank outside the 144 players we draft. Leave them on waivers, keep FAB ready and add them the day the starter gets hurt, instead of using one of our two bench spots on them.
 
-## What a handcuff means in 9-cat
+## What makes a handcuff worth anything
 
-A basketball handcuff is not a football handcuff. He must give you something while the starter is healthy, and then have big upside if the starter gets hurt. A backup who gives nothing until an injury is not a handcuff for us. He is a waiver name. ([08-24](https://youtu.be/g31YlwRe0XQ?t=2700))
+A handcuff in fantasy basketball is not the same as one in fantasy football. He must have value on his own, plus big upside if the starter gets hurt. A backup who only pays off after an injury is not a handcuff we want to draft. ([08-24](https://youtu.be/g31YlwRe0XQ?t=2700))
 
-The best case is a clear one-for-one backup. If the starter goes down, he would start and play 30 or more minutes. Check this before you value any backup. Being listed as the backup point guard is not enough. When a team has several ball handlers, wings can take the minutes instead. ([09-25](https://youtu.be/4gw4W4RTolY?t=1892), [09-25](https://youtu.be/4gw4W4RTolY?t=1593))
+The best case is a clear one-for-one backup who would start and play 30-plus minutes if the starter got hurt. The fewer players ahead of him in the rotation, the fewer injuries it takes to raise his minutes. A deep bench player who needs several teammates hurt is not a must-draft player. ([09-25](https://youtu.be/4gw4W4RTolY?t=1892), [07-01](https://youtu.be/W3THnI7wWdA?t=716), [07-01](https://youtu.be/W3THnI7wWdA?t=1142))
 
-Count how many players sit ahead of him in the rotation. With one player in front, one injury gives him minutes. If he needs several teammates hurt before he matters, he is not a draft pick, however good his upside looks. ([07-01](https://youtu.be/W3THnI7wWdA?t=716), [07-01](https://youtu.be/W3THnI7wWdA?t=1142))
-
-Some role players also gain when a teammate misses time, even if they are not the direct backup. Their usage goes up. The notes give McDaniels as an example. These players already have a role, so their upside comes on top of real value. ([09-30](https://youtu.be/BjXP9JODDSg?t=1277))
+Backup point guards are a common trap. If the team has several ball handlers, wings can take over the role and the backup gains little. Role players with upside can still get a usage spike when a teammate sits, so look at who actually takes the shots and assists. Do not just go by who is listed second at the position. ([09-25](https://youtu.be/4gw4W4RTolY?t=1593), [09-30](https://youtu.be/BjXP9JODDSg?t=1277))
 
 ## Why most handcuffs are waiver pickups here
 
-Our roster has only 2 bench spots and daily lineups. A stash that gives you nothing ties up one of your two flexible spots for weeks. That spot is worth more for streaming games and for a waiver add when news breaks. Each week allows up to 6 acquisitions, and FAB runs every day, so you can react to an injury within a day. ([07-01](https://youtu.be/W3THnI7wWdA?t=1149), [09-24](https://youtu.be/_vbAP5y182A?t=2338))
+We draft 12 players: 10 starters and only 2 bench spots, and we set lineups daily. A backup playing 15 to 20 minutes a night takes up one of those two bench spots and gives you almost nothing until someone gets hurt. Most handcuffs in our data rank well outside the 144 drafted players, so they will still be on waivers when the injury comes. A backup center in particular is not worth rostering until the starter ahead of him is out. ([07-01](https://youtu.be/W3THnI7wWdA?t=1149), [09-24](https://youtu.be/_vbAP5y182A?t=2338))
 
-Several notes warn against paying for injury upside. A late pick should have a realistic path to a role. Waiting for someone else to get hurt is not a plan, and players who only pay off after an injury make poor late picks. With 144 players drafted, the backups ranked outside the pool will still be on waivers when the injury comes. ([10-01](https://youtu.be/aLP080hxizA?t=1390), [09-29](https://youtu.be/NmdNvAz08oE?t=1141), [09-24](https://youtu.be/_vbAP5y182A?t=2338))
+Waivers run on FAB and process daily, with up to 6 adds per week. That means you can react to injury news within a day. Do not pay for a stash at the auction. Save FAB for the week a starter goes down, and bid hard when the backup is a clear one-for-one starter. Upside that depends on other players getting hurt is not something to build a roster around. ([09-29](https://youtu.be/NmdNvAz08oE?t=1141), [10-01](https://youtu.be/aLP080hxizA?t=1390))
 
-What to do: in the auction, spend real money only on backups who are worth rostering while the starter is healthy. Pay 1 USD for pure handcuffs, and only in the last rounds. For everyone else, keep a watch list of backup and starter pairs. When a starter is ruled out for more than a few games, put in a FAB bid for his backup. If you own the injured starter, move him to one of your 4 IL spots first so you keep both players. ([08-24](https://youtu.be/g31YlwRe0XQ?t=2700), [09-25](https://youtu.be/4gw4W4RTolY?t=1892), [07-01](https://youtu.be/W3THnI7wWdA?t=1149))
+The experts do not fully agree. One side says backups one injury away from starting are valid late fliers. They also say a late pick on a teammate who should start can insure your own star, and a strong per-minute backup big is worth drafting. The other side says late upside picks need a realistic path to a role, and that players who only pay off if someone else gets hurt are poor late picks. For us, the second view wins in most cases because of the 2 bench spots. The first view applies only to the last 1 USD of your roster, and only for a backup who already plays real minutes. ([10-02](https://youtu.be/ZYllcj4o6_A?t=2512), [09-30](https://youtu.be/BjXP9JODDSg?t=2070), [08-11](https://youtu.be/OdDkXFhoKsc?t=1567), [10-01](https://youtu.be/aLP080hxizA?t=1390), [09-24](https://youtu.be/_vbAP5y182A?t=2338))
 
-## Where the experts disagree
+## Backup centers: stream them, rarely stash them
 
-The experts split on late stashes. One side says backups who are one injury from starting are fine late flyers, and that a late pick can insure a star if you take the teammate who would start in his place. The other side says upside that needs someone else's injury should not be relied on, and that such players are poor late picks. For our league, both views point to the same rule. Use one of your last 1 USD picks on a backup only if he is a clear one-for-one starter in waiting and gives some value now. Leave the others on waivers. ([10-02](https://youtu.be/ZYllcj4o6_A?t=2512), [09-30](https://youtu.be/BjXP9JODDSg?t=2070), [09-29](https://youtu.be/NmdNvAz08oE?t=1141), [09-24](https://youtu.be/_vbAP5y182A?t=2338), [09-25](https://youtu.be/4gw4W4RTolY?t=1892))
+Drafting a backup center and waiting for the starter to be traded is usually a waste. That is even more true if he is not a strong per-minute producer. Leave these players on waivers on draft day. ([09-24](https://youtu.be/_vbAP5y182A?t=2226), [07-01](https://youtu.be/W3THnI7wWdA?t=1149))
 
-## Backup centers
+There is one exception. A backup big with strong per-minute production behind an injury-prone starter can be worth a last pick, because he becomes valuable once the starter misses time. Watch backup center battles behind injury-prone starters in the first weeks, since whoever wins those starts has fantasy value. ([08-11](https://youtu.be/OdDkXFhoKsc?t=1567), [07-02](https://youtu.be/P6TNP-g0wzY?t=1853))
 
-The experts also disagree on backup centers. One note says a backup center is not worth rostering until the starter in front of him is out. Another says a backup big with strong per-minute production is worth drafting, because he becomes valuable the moment the starter misses time. The middle ground: draft a backup big only if his per-minute numbers are strong. Do not draft one just to wait for a trade. That is usually a waste, especially if he is not a strong per-minute producer. ([07-01](https://youtu.be/W3THnI7wWdA?t=1149), [08-11](https://youtu.be/OdDkXFhoKsc?t=1567), [09-24](https://youtu.be/_vbAP5y182A?t=2226))
+Once a backup center starts, he can be an elite streamer. He also picks up extra minutes on nights when the starter is in foul trouble or not scoring. Prefer a backup big who can play back-to-backs over an injury-limited one, because his minutes are steadier. In practice, use one of your 6 weekly adds on him for his spot starts, then drop him when the starter returns. ([09-30](https://youtu.be/MUbNYdjpUDM?t=1508), [08-01](https://youtu.be/FEcNjVRlj-U?t=513), [08-13](https://youtu.be/okN3fbHJtlA?t=268))
 
-Backup centers are still very useful during the season. When they start in place of a resting starter, they can be elite streamers for FG%, rebounds and blocks. They also pick up extra minutes when the starter is in foul trouble, hurt or not scoring. With daily lineups, use one of your bench spots to stream these spot starts. ([09-30](https://youtu.be/MUbNYdjpUDM?t=1508), [08-01](https://youtu.be/FEcNjVRlj-U?t=513))
+## Draft-day and early-season checklist
 
-Watch the backup center battles behind injury-prone starters. Whoever wins those starts will have fantasy value. Prefer a backup who can play back-to-backs and whose minutes can be pushed. He gives a steadier line than a big who has his own injury limits. ([07-02](https://youtu.be/P6TNP-g0wzY?t=1853), [08-13](https://youtu.be/okN3fbHJtlA?t=268))
+At the auction on 2026-10-18, only buy a backup who helps a build already, and only with your final 1 to 3 USD. If you own a star, a late pick on a teammate who should start is fair insurance. A pure backup with no standalone role is not. ([08-24](https://youtu.be/g31YlwRe0XQ?t=2700), [09-30](https://youtu.be/BjXP9JODDSg?t=2070), [10-02](https://youtu.be/ZYllcj4o6_A?t=2512))
 
-## Early-season checklist
+In the first two weeks, check three things for every backup on your watch list. Is he a one-for-one backup, or are there several players who could take the role? Does he reach about 30 minutes on nights the starter sits? How healthy is the starter? If the answers are no, no and healthy, he stays on waivers. ([09-25](https://youtu.be/4gw4W4RTolY?t=1892), [09-25](https://youtu.be/4gw4W4RTolY?t=1593), [07-01](https://youtu.be/W3THnI7wWdA?t=716))
 
-For each backup on your watch list, check four things in the first two weeks. Who starts on opening night. His minutes compared with the 30-minute bar for a true handcuff. Whether other players are also competing for the role. The health and rest pattern of the starter ahead of him. When the answer to the last one changes, bid that day. Do not wait for the weekly reset. ([09-25](https://youtu.be/4gw4W4RTolY?t=1892), [09-25](https://youtu.be/4gw4W4RTolY?t=1593), [07-01](https://youtu.be/W3THnI7wWdA?t=716))
-
-Before a handcuff add, also check the schedule for weeks 19 to 21. A backup on a team with few playoff games, or one who sits back-to-backs, is worth less to hold into March. Use him as a short-term fill-in and drop him when the starter returns. ([08-13](https://youtu.be/okN3fbHJtlA?t=268), [09-30](https://youtu.be/MUbNYdjpUDM?t=1508))
+If you drafted a backup as a flier and he has no role after the first weeks, drop him and use the bench spot for streaming. A player who needs several injuries to matter is not worth a roster spot in a league with only 2 bench slots. ([10-01](https://youtu.be/aLP080hxizA?t=1390), [07-01](https://youtu.be/W3THnI7wWdA?t=1142))
 
 ## Players
 
@@ -49,58 +45,60 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Payton Pritchard](../profiles/players/payton-pritchard.md) | BOS | G | 75 | 6.0 | 98 | 2.1 | 16 | Gives threes, FT%, assists and low turnovers even off the bench, rarely misses games, and gets a bigger role if Paul George misses time. |
-| [Derik Queen](../profiles/players/derik-queen.md) | NOP | F,C | 96 | 5.0 | 95 | 1.8 | not drafted | Late flyer whose rebounds, assists, steals and blocks help punt 3PM or punt TO builds now, with top 50 upside if Missi loses the job or Zion sits. |
-| [DeMar DeRozan](../profiles/players/demar-derozan.md) | DEN | F | 102 | 1.5 | 102 | 2.0 | 10 | Gives points, FT% and low turnovers in about 29 bench minutes, and moves to a starter's role if Braun or Cam Johnson is out or traded. |
-| [Daniel Gafford](../profiles/players/daniel-gafford.md) | DAL | C | 120 | 1.0 | 114 | 0.5 | not drafted | Can start early while Lively and other Dallas bigs are hurt, giving FG% and blocks to a punt 3PM build; check opening night and Lively's return date. |
-| [Quentin Grimes](../profiles/players/quentin-grimes.md) | LAL | G,F | 126 | 1.0 | 118 | 0.8 | not drafted | Has no weak category and fits any build; he becomes the number two option if Luka misses time, but must first win a starting spot. |
+| [Payton Pritchard](../profiles/players/payton-pritchard.md) | BOS | G | 80 | 3.6 | 98 | 2.3 | 16 | His threes, FT% and low turnovers make him a useful bench or Util guard even while Paul George is healthy, and his role grows if George misses games. |
+| [Collin Gillespie](../profiles/players/collin-gillespie.md) | PHX | G | 116 | 1.0 | 100 | 0.8 | not drafted | His threes and steals give him some value off the bench, and he would start for about 30 minutes if Booker, Jalen Green or Dillon Brooks got hurt. |
+| [DeMar DeRozan](../profiles/players/demar-derozan.md) | DEN | F | 142 | 1.3 | 101 | 2.1 | 10 | He is a bench scorer who helps punt 3PM or punt REB builds with FT%, points and few turnovers, and an injury to Braun or Johnson could give him about 32 minutes. |
+| [Daniel Gafford](../profiles/players/daniel-gafford.md) | DAL | C | 130 | 1.0 | 115 | 0.6 | not drafted | He can start early while Lively is out, which gives a punt 3PM build FG% and blocks right away. |
+| [Quentin Grimes](../profiles/players/quentin-grimes.md) | LAL | G,F | 134 | 1.0 | 119 | 0.9 | not drafted | He has no weak category and could be a top 70 to 80 player if Doncic or Reaves misses time, though the Lakers' weak playoff schedule limits his late value. |
+| [Jeremiah Fears](../profiles/players/jeremiah-fears.md) | NOP | G | 185 | 1.0 | 120 | 0.8 | not drafted | He is a natural Dejounte Murray handcuff with top 70 upside, and he only has value on his own if he beats Herb Jones for a starting spot. |
 
-### Last-pick flyer or waiver
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [Collin Gillespie](../profiles/players/collin-gillespie.md) | PHX | G | 125 | 1.0 | 100 | 0.8 | not drafted | One injury to Green, Booker or Brooks puts him near 30 minutes for threes and steals, so leaving him on waivers and adding him then is fine. |
-| [Jeremiah Fears](../profiles/players/jeremiah-fears.md) | NOP | G | 168 | 1.0 | 129 | 0.7 | not drafted | A broad guard line led by steals, with top 70 upside if Dejounte Murray is hurt or traded; check whether he beats Herb Jones for the start. |
-| [Jrue Holiday](../profiles/players/jrue-holiday.md) | POR | G | 136 | 0.0 | 131 | 0.6 | 3 | No weak category but lower usage now, so he only matters if he starts when Morant or Lillard miss games. |
-| [Andrew Nembhard](../profiles/players/andrew-nembhard.md) | IND | G | 108 | 1.0 | 149 | 0.8 | 10 | Assists are his only plus while Haliburton plays, so he is better added from waivers when Haliburton is out. |
-| [Nikola Vučević](../profiles/players/nikola-vucevic.md) | ORL | C | 177 | 0.0 | 103 | 1.1 | 17 | Gives a center's rebounds with good FT% and few turnovers, but his route back to top 100 value is a Wendell Carter Jr. injury. |
-| [Sandro Mamukelashvili](../profiles/players/sandro-mamukelashvili.md) | LAL | F,C | 139 | 1.0 | - | 0.0 | not drafted | A big who adds threes and fits any build, but he needs to start or keep about 27 bench minutes behind Kessler to matter. |
-| [Paul Reed](../profiles/players/paul-reed.md) | DET | F,C | 165 | 0.0 | 241 | 0.0 | not drafted | Strong per-minute FG%, blocks, steals and low turnovers behind Duren; he becomes a must-add with top 50 upside if Duren misses time. |
-| [Isaiah Stewart](../profiles/players/isaiah-stewart.md) | MEM | F,C | 174 | 0.0 | 146 | 0.1 | not drafted | Blocks and FG% on low volume; his starts while Edey's foot heals are what make him worth a claim. |
-| [Mitchell Robinson](../profiles/players/mitchell-robinson.md) | BOS | C | 178 | 0.0 | 115 | 0.3 | not drafted | Only for punt FT% builds that want FG%, rebounds and blocks, and he sits back-to-backs, including three in Boston's playoff weeks. |
-| [Anthony Black](../profiles/players/anthony-black.md) | ORL | G,F | 146 | 0.0 | 125 | 0.4 | not drafted | Mostly steals for now; a Suggs injury or trade is what would make him startable. |
-| [Ajay Mitchell](../profiles/players/ajay-mitchell.md) | OKC | G | 145 | 0.0 | 243 | 0.2 | not drafted | Experts call his value overblown with Cason Wallace ahead of him, but an SGA injury would make him a must-add. |
-| [Tre Jones](../profiles/players/tre-jones.md) | CHI | G | 148 | 1.0 | 179 | 0.0 | not drafted | Assists, a guard's FG% and few turnovers for punt 3PM or punt BLK builds; add him if Powell or Giddey miss time or Powell is traded. |
-| [Tari Eason](../profiles/players/tari-eason.md) | HOU | G,F | 163 | 0.0 | 176 | 0.1 | 2 | Rebounds and steals with near top 70 upside at 32 minutes if Durant or Smith is out, but Houston's weak playoff schedule cuts his late value. |
-
-### Priority waiver adds
+### Late flyers
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Daniss Jenkins](../profiles/players/daniss-jenkins.md) | DET | G | 167 | - | - | - | not drafted | He played 31 minutes when Cunningham was out last season, so a Cunningham absence makes him a quick add for assists. |
-| [Jock Landale](../profiles/players/jock-landale.md) | ATL | C | 282 | - | - | - | not drafted | Gives little off the bench, but an Okongwu injury would make him a 30-minute starter worth a FAB bid. |
-| [Deandre Ayton](../profiles/players/deandre-ayton.md) | WAS | C | 169 | 0.0 | 192 | 0.0 | 9 | FG% and low turnovers in a bench role, with 30-minute nights possible when Anthony Davis misses games. |
-| [Andre Drummond](../profiles/players/andre-drummond.md) | NYK | C | 211 | 0.0 | 251 | 0.0 | not drafted | His role could grow to about 29 minutes if Towns misses time; watch for Wiseman or Eubanks taking backup minutes. |
-| [Joan Beringer](../profiles/players/joan-beringer.md) | MIN | F,C | 182 | - | - | 0.0 | not drafted | Gobert's main backup who starts and becomes a must-roster if Gobert sits, but Minnesota's two-game week starting March 15 hurts his playoff use. |
-| [Jalen Smith](../profiles/players/jalen-smith.md) | CHI | F,C | 228 | - | 200 | 0.0 | not drafted | A minutes-driven streamer behind Claxton who should be added at once if he starts. |
-| [Jay Huff](../profiles/players/jay-huff.md) | IND | C | 189 | - | - | - | 1 | Blocks only, but he would start if Zubac misses time because the depth behind him is weak. |
+| [Nikola Vučević](../profiles/players/nikola-vucevic.md) | ORL | C | 167 | 0.0 | 102 | 1.2 | 17 | He is a bench center behind Wendell Carter Jr. who could be top 100 if Carter gets hurt, so take him only as a last-dollar Carter handcuff. |
+| [Andrew Nembhard](../profiles/players/andrew-nembhard.md) | IND | G | 111 | 1.0 | 151 | 0.8 | 10 | Assists are his only plus, and his upside exists only when Haliburton is out, so he is better added from waivers at that point. |
+| [Sandro Mamukelashvili](../profiles/players/sandro-mamukelashvili.md) | LAL | F,C | 129 | 1.0 | - | 0.1 | not drafted | He gives threes from the frontcourt, and he would pass 30 minutes if Walker Kessler went down. |
+| [Ajay Mitchell](../profiles/players/ajay-mitchell.md) | OKC | G | 126 | 1.0 | 243 | 0.3 | not drafted | Experts call his value overblown with Cason Wallace likely ahead of him, but an SGA injury would make him a must-add. |
+| [Anthony Black](../profiles/players/anthony-black.md) | ORL | G,F | 148 | 0.0 | 128 | 0.3 | not drafted | Steals are his only clear plus, and he gains a starting role only if Jalen Suggs goes down. |
+| [Mitchell Robinson](../profiles/players/mitchell-robinson.md) | BOS | C | 176 | 0.0 | 116 | 0.4 | not drafted | He suits a punt FT% team that wants FG%, rebounds and blocks, but streaming him from waivers on non-back-to-back days is the better plan. |
+| [Paul Reed](../profiles/players/paul-reed.md) | DET | F,C | 181 | 0.0 | 242 | 0.0 | not drafted | He is efficient with good blocks and steals for his minutes, and he has top 40 to 50 upside if Jalen Duren misses time, so a Duren owner can take him last. |
+| [Scotty Pippen Jr.](../profiles/players/scotty-pippen.md) | MEM | G | 166 | 0.0 | 134 | 0.3 | not drafted | His steals and assists fit a punt FT% build, and he becomes a must-add if Ty Jerome gets hurt and Pippen starts. |
+| [Tre Jones](../profiles/players/tre-jones.md) | CHI | G | 138 | - | 179 | 0.1 | not drafted | He offers assists, a guard's FG% and few turnovers, and gains value if Powell or Giddey miss time or Powell is traded. |
+| [Grayson Allen](../profiles/players/grayson-allen.md) | CHA | G,F | 177 | 0.0 | 158 | 0.1 | not drafted | His threes are the reason to take him, but he is a quick drop if he does not start while Knueppel and White are out. |
+| [Tari Eason](../profiles/players/tari-eason.md) | HOU | G,F | 159 | 0.0 | 178 | 0.1 | 2 | He gives rebounds and steals from a wing and could be about top 70 with 32 minutes if Durant or Jabari Smith is out, but his weak playoff schedule hurts. |
 
-### Deep waiver watch
+### Waiver watch: guards and wings
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Thomas Bryant](../profiles/players/thomas-bryant.md) | CLE | C | 305 | - | 296 | 0.0 | not drafted | Only jumps if Allen or Mobley miss time, and Cleveland's 2-game finals week rules him out as a playoff plan. |
-| [Marvin Bagley III](../profiles/players/marvin-bagley.md) | DEN | F,C | 244 | - | 256 | 0.0 | not drafted | Points, rebounds and FG% only when Jokic misses time, with no steals, threes or assists. |
-| [Precious Achiuwa](../profiles/players/precious-achiuwa.md) | SAC | F,C | 204 | - | 153 | 0.0 | not drafted | His late-season run came as an injury fill-in, so add him only if Sabonis, Murray or Hunter misses real time. |
-| [Maxime Raynaud](../profiles/players/maxime-raynaud.md) | SAC | C | 162 | 1.0 | - | 0.0 | not drafted | Efficient but too few minutes to hold value unless Sabonis is traded or hurt. |
-| [Kelly Oubre Jr.](../profiles/players/kelly-oubre.md) | IND | F | 164 | 0.0 | 182 | 0.1 | not drafted | A deeper-league player who only helps if an Indiana wing injury pushes him past 30 minutes. |
-| [Grayson Allen](../profiles/players/grayson-allen.md) | CHA | G,F | 187 | 0.0 | 157 | 0.1 | not drafted | Threes and FT% for punt FG% builds, worth an add only if he starts at about 27 minutes while Knueppel is out. |
-| [Jaylon Tyson](../profiles/players/jaylon-tyson.md) | CLE | G,F | 226 | - | 189 | 0.0 | not drafted | A little help everywhere but no punt fit; an injury to Harden, Mitchell or Watson would open a starting role. |
-| [Dennis Schröder](../profiles/players/dennis-schroder.md) | CHA | G | 171 | - | 210 | 0.0 | 1 | No strong category off the bench, so he matters only if Coby White gets hurt. |
-| [Marcus Smart](../profiles/players/marcus-smart.md) | HOU | G | 218 | - | 247 | 0.0 | not drafted | A hurtful FG% and a weak playoff schedule leave him as a spot streamer on nights VanVleet sits. |
-| [Jaylin Williams](../profiles/players/jaylin-williams.md) | OKC | F,C | 223 | - | 232 | 0.0 | not drafted | Low turnovers are his only edge, so watch him only if Hartenstein or Holmgren misses time. |
-| [Obi Toppin](../profiles/players/obi-toppin.md) | IND | F | 330 | - | 239 | 0.0 | not drafted | Helps FG% a little but has no standard-league value unless Siakam is out or he wins small-ball center minutes. |
-| [Leonard Miller](../profiles/players/leonard-miller.md) | CHI | F | 363 | - | 309 | 0.0 | not drafted | Would play about 25 minutes only if Buzelis or Caleb Wilson got hurt. |
-| [Sergio de Larrea](../profiles/players/sergio-de-larrea.md) | DAL | G | 615 | - | - | 0.0 | not drafted | A tiny projection whose only case is assists on nights Kyrie sits, so check those games before spending FAB. |
+| [Jrue Holiday](../profiles/players/jrue-holiday.md) | POR | G | 139 | 0.0 | 141 | 0.5 | 3 | He helps no category much in a smaller role, so let him go to waivers and add him if he starts when Morant or Lillard sit. |
+| [Collin Sexton](../profiles/players/collin-sexton.md) | LAL | G | 205 | 0.0 | 150 | 0.6 | not drafted | He gains value only if Doncic or Reaves miss a lot of games, and he hurts REB, BLK and TO. |
+| [Kelly Oubre Jr.](../profiles/players/kelly-oubre.md) | IND | F | 179 | 0.0 | 184 | 0.0 | not drafted | He has a history of heavy minutes after injuries to others, but only steals and low turnovers help. |
+| [Daniss Jenkins](../profiles/players/daniss-jenkins.md) | DET | G | 184 | - | - | - | not drafted | He played 31 minutes a game when Cunningham was out last season, so add him at once if Cunningham gets hurt. |
+| [Jaylon Tyson](../profiles/players/jaylon-tyson.md) | CLE | G,F | 231 | - | 191 | 0.0 | not drafted | His value jumps when Harden, Mitchell or Watson miss time, but his two-game finals week makes him a weak hold. |
+| [Aaron Wiggins](../profiles/players/aaron-wiggins.md) | ATL | G,F | 249 | - | 227 | 0.0 | not drafted | He can replace any Atlanta ball-handling starter after an injury, and his value depends on whether his FG% recovers. |
+| [Obi Toppin](../profiles/players/obi-toppin.md) | IND | F | 330 | - | 240 | 0.0 | not drafted | He would probably start if Pascal Siakam is out, but he has no standard-league value in his bench role. |
+| [Leonard Miller](../profiles/players/leonard-miller.md) | CHI | F | 362 | - | 308 | 0.0 | not drafted | He would likely start for about 25 minutes only if Buzelis or Caleb Wilson got hurt. |
+| [Sergio de Larrea](../profiles/players/sergio-de-larrea.md) | DAL | G | 619 | - | - | 0.0 | not drafted | His only case is assists as Kyrie Irving's backup, so check his nights without Kyrie before spending FAB. |
 
-<sub>Built 2026-10-04 with claude-opus-5-5 high.</sub>
+### Waiver watch: centers
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Isaiah Stewart](../profiles/players/isaiah-stewart.md) | MEM | F,C | 174 | 0.0 | 147 | 0.2 | not drafted | He is out with an ankle sprain now, but his blocks and FG% as a starter, plus a 4-4-4 playoff schedule, make him a FAB target if Zach Edey misses time. |
+| [Maxime Raynaud](../profiles/players/maxime-raynaud.md) | SAC | C | 161 | 1.0 | - | 0.0 | not drafted | He is efficient with low turnovers and his value depends on a Sabonis trade or injury, so he belongs on waivers. |
+| [Jalen Smith](../profiles/players/jalen-smith.md) | CHI | F,C | 165 | - | 201 | 0.0 | not drafted | He is a fringe streamer behind Nick Claxton who becomes a must-roster if he starts. |
+| [Robert Williams III](../profiles/players/robert-williams.md) | POR | C | 195 | - | 166 | 0.0 | not drafted | His blocks and FG% are real, but a minutes cap and back-to-back rests keep him on waivers unless he nears 23 minutes a night. |
+| [Bobby Portis Jr.](../profiles/players/bobby-portis.md) | MIA | F,C | 172 | 0.0 | 172 | 0.1 | 2 | The minutes behind Giannis and Bam Adebayo are his, so add him fast if either one misses time. |
+| [Joan Beringer](../profiles/players/joan-beringer.md) | MIN | F,C | 182 | - | - | 0.0 | not drafted | He becomes a must-add for blocks, rebounds and FG% if Rudy Gobert misses time. |
+| [Deandre Ayton](../profiles/players/deandre-ayton.md) | WAS | C | 187 | 0.0 | 194 | 0.1 | 9 | A Davis absence could push him toward 30 minutes, and in that role he helps punt 3PM builds. |
+| [Jay Huff](../profiles/players/jay-huff.md) | IND | C | 207 | - | - | 0.0 | 1 | He adds blocks and little else, and he would start if Ivica Zubac misses time. |
+| [Andre Drummond](../profiles/players/andre-drummond.md) | NYK | C | 216 | 0.0 | 252 | 0.0 | not drafted | His backup role behind Towns could grow to about 29 minutes if Towns misses time. |
+| [Jaylin Williams](../profiles/players/jaylin-williams.md) | OKC | F,C | 229 | - | 231 | 0.1 | not drafted | He has no strong category and is worth watching only if Hartenstein or Holmgren misses time. |
+| [Jock Landale](../profiles/players/jock-landale.md) | ATL | C | 281 | - | - | - | not drafted | With thin depth behind Okongwu, an Okongwu injury would make him a 30-minute starter worth a quick FAB bid. |
+| [Thomas Bryant](../profiles/players/thomas-bryant.md) | CLE | C | 305 | - | 296 | 0.0 | not drafted | He is Cleveland's only backup big, and he has top 50 to 60 upside only if both Allen and Mobley are out. |
+| [Marvin Bagley III](../profiles/players/marvin-bagley.md) | DEN | F,C | 245 | - | 257 | 0.0 | not drafted | He gives points, rebounds and a strong FG% when Jokic misses time, but no steals, threes or assists. |
+| [Precious Achiuwa](../profiles/players/precious-achiuwa.md) | SAC | F,C | 210 | - | 153 | 0.1 | not drafted | His starter numbers came only when Kings starters were hurt, so add him only if Sabonis, Murray or Hunter misses time. |
+
+<sub>Built 2026-10-11 with claude-opus-5-5 high.</sub>

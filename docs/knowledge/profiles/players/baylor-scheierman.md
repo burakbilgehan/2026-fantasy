@@ -18,31 +18,33 @@
 |---|---|---|---|---|
 | FG% | 44.0% | -0.4 | -0.2 | - |
 | FT% | 88.7% | +0.2 | +0.1 | - |
-| 3PM | 1.6 | +0.2 | -0.1 | - |
+| 3PM | 1.6 | +0.1 | -0.1 | - |
 | PTS | 7.2 | -1.2 | -1.2 | - |
-| REB | 4.5 | -0.3 | +0.0 | - |
+| REB | 4.5 | -0.3 | -0.0 | - |
 | AST | 1.9 | -0.7 | -0.8 | - |
 | STL | 0.8 | -0.5 | -0.6 | - |
-| BLK | 0.2 | -0.9 | -1.0 | - |
-| TO | 0.8 | +1.1 | +1.2 | - |
+| BLK | 0.2 | -0.9 | -1.1 | - |
+| TO | 0.8 | +1.2 | +1.2 | - |
 
 </details>
 
 **Current**
-- He is expected to start for Boston ahead of Payton Pritchard. The newest projected starting five is Derrick White, Scheierman, Jayson Tatum, Paul George and Neemias Queta. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1502), [09-25](https://youtu.be/Bi1cEM03k9Y?t=464), [09-25](https://youtu.be/Bi1cEM03k9Y?t=848))
-- Experts see him as a late flier or swing pick for deeper leagues and a name to watch in his third year. One expert has him barely inside the top 300. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1502), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1684), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1712))
-- The starting call is not firm. One expert is only about 45% sure he starts and expects only about 20 to 22 minutes a night. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=464))
-- Boston is very deep, with at least 12 rotation-level players, so minutes are spread thin. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133))
-- In his last 8 games as a starter last season he played 23 minutes a night and averaged 10 points, 2.5 threes, 3 rebounds and 2.5 assists. He shot 47% from the field and did not miss a free throw. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1712))
-- He could reach double-digit scoring if he gets more catch-and-shoot looks. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=357))
+- Jayson Tatum and Paul George replace Jaylen Brown. Experts say this leaves less usage for Boston's guards. (fact, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=1262), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1188))
+- Experts project him to start in Boston over Payton Pritchard. One expert is only about 45% sure of it. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1502), [09-25](https://youtu.be/Bi1cEM03k9Y?t=464), [09-25](https://youtu.be/Bi1cEM03k9Y?t=848))
+- He is an interesting late flier and a late swing pick for deeper leagues. One expert has him barely inside the top 300. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1502), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1684))
+- Even as a starter, he is expected to play only about 20 to 22 minutes. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=464))
+- Boston is very deep, with at least 12 rotation-level players. Pritchard, Hauser, Robinson, Walsh and Conley are projected off the bench. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133))
+- In his last 8 games as a starter last season, he played 23 minutes a night and averaged 10 points, 2.5 threes, 3 rebounds and 2.5 assists. He shot 47% from the field and did not miss a free throw. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1712))
+- He is a name to watch in his third season. He could reach double-digit scoring with more catch-and-shoot looks. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1712), [07-30](https://youtu.be/TiiaNZCJNs8?t=357))
+- Boston plays 4, 3 and 4 games in our playoff weeks 19 to 21. That is one game short of the maximum. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1816))
 
 **Durable**
-- He can shoot and pass, is not a terrible defender and has more size than Pritchard. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=469))
+- He can shoot and pass, is not a bad defender, and is bigger than Pritchard. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=469))
 
 **Tags**
-- Current: `role up` (Projected to start, at about 20 to 22 minutes), `minutes competition` (Starting spot not settled against Pritchard on a deep roster), `flyer` (Late flier for deeper leagues), `waiver watch` (Ranked outside our 144-player draft pool; watch his minutes as a starter)
+- Current: `flyer` (late swing pick if he wins the starting job), `waiver watch` (ranked near the top 300, outside our 144 drafted players; watch his starting role), `role up` (projected to start over Pritchard), `minutes competition` (Pritchard and Hauser compete for the starting wing spot; one expert is only 45% sure he starts), `deep rotation` (at least 12 rotation-level players in Boston), `usage competition` (Tatum, George and Derrick White take most of the touches)
 - Durable: none
 
-**Note.** Yahoo ranks him 296 and ESPN 213, and both sites give him a value of 0 USD. In a league where only 144 players are drafted, he should go undrafted. His projected line has no real category strength, though he adds threes, a good FT% on low volume and few turnovers. Check early whether he keeps the starting job and plays 23 or more minutes, as he did in his late-season starter stretch (10 points, 2.5 threes). If he does, he is a cheap waiver add.
+**Note.** Both sites give him 0 USD (rank 213 on ESPN, 296 on Yahoo), so he falls outside the 144 players drafted in our league. Do not draft him. Put him on the waiver watch list for the first weeks. Even ESPN's projection of 25 minutes only gets him to 7.5 points with few blocks. His 89% FT% comes on under 1 attempt a game, so it barely moves the team ratio. Check early whether he starts over Pritchard and plays 23 or more minutes, like in his 8-game starting stretch (10 points, 2.5 threes). If he does, he becomes a cheap add for 3PM and low turnovers.
 
-<sub>6 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>6 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

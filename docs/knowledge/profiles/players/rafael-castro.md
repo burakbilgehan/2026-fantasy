@@ -5,7 +5,7 @@ No NBA stats and no projections in our data.
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 658 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 672 | - | - | - | not drafted |
 
 **Current**
 - Our data lists him as a free agent with no NBA team now. A June note reported that the Bucks signed him to a two-way deal after he went undrafted, so check his roster status. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=861), stats)

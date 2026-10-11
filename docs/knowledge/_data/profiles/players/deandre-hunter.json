@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "c9ea8e28bccd",
+ "input_sha": "6326c5b8ad37",
  "note_count": 3,
- "built_at": "2026-10-05T19:46:48+00:00",
+ "built_at": "2026-10-11T09:15:07+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.21744679999999997,
-  "duration_ms": 51295,
-  "turns": 3,
+  "cost_usd_list": 0.15570620000000002,
+  "duration_ms": 36590,
+  "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is a projected starter at forward for the Kings, next to Acuff, LaVine, Murray and Sabonis. No one is pushing that group for a starting spot.",
+   "text": "He is in Sacramento's projected starting lineup at forward, with Acuff, LaVine, Murray and Sabonis.",
    "kind": "fact",
    "date": "2026-07-31",
    "until": "",
@@ -32,17 +32,16 @@
    ]
   },
   {
-   "text": "He sits low in the Kings' offensive pecking order. LaVine and Sabonis lead it, and the hosts say Keegan Murray should be ahead of him too.",
+   "text": "Keegan Murray should rank ahead of him in Sacramento's offensive pecking order.",
    "kind": "verdict",
    "date": "2026-07-31",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:p23",
-    "-KS_AZjZnw4:t4"
+    "oEywzBZfAvY:p23"
    ]
   },
   {
-   "text": "He shot 31% from three last season.",
+   "text": "He shot 31% from three last season, down from 41% the season before.",
    "kind": "fact",
    "date": "2026-07-16",
    "until": "",
@@ -51,7 +50,7 @@
    ]
   },
   {
-   "text": "His value depends on playing 30 minutes with elite shooting. He is only interesting if he shoots around 40% from three again.",
+   "text": "He is interesting in Sacramento only if he gets about 30 minutes and shoots around 40% from three.",
    "kind": "verdict",
    "date": "2026-07-16",
    "until": "",
@@ -60,7 +59,7 @@
    ]
   },
   {
-   "text": "One expert says he is not a good fantasy player but could play 30 to 33 minutes. He is worth a last-round pick for that minutes upside.",
+   "text": "He could play 30 to 33 minutes. In a 14-team mock he was worth only a last-round pick, taken for that minutes upside.",
    "kind": "verdict",
    "date": "2026-09-15",
    "until": "",
@@ -69,38 +68,59 @@
    ]
   },
   {
-   "text": "The Kings are projected to be one of the worst teams, at about 21 to 27 wins. They are still expected to try to win games to stay out of the relegation zone, and the coach may lean on veterans.",
+   "text": "Sacramento is projected to finish near the bottom of the league, at about 21 to 27 wins.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
+    "6DnRWahYrFA:t0",
     "oEywzBZfAvY:t7",
-    "oEywzBZfAvY:t6",
-    "lOshTzDA4SA:t4",
     "0AptxcRW0RE:t8",
-    "n4KkK-OJjqA:t5",
-    "-KS_AZjZnw4:t5"
+    "lOshTzDA4SA:t4"
    ]
   },
   {
-   "text": "A trade or buyout of LaVine or Sabonis is still possible, and that could change the Kings' shot share.",
+   "text": "Experts disagree on how Sacramento will handle its veterans. Lloyd expects the team to trade or sit them. Others expect the Kings to keep trying to win so they stay out of the relegation zone.",
    "kind": "verdict",
-   "date": "2026-09-21",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:t8",
-    "W-R1dzem32s:t2",
-    "7BllEsdNLoM:t5",
-    "egRrai3Ax38:t0"
+    "6DnRWahYrFA:t0",
+    "n4KkK-OJjqA:t5",
+    "-KS_AZjZnw4:t5",
+    "oEywzBZfAvY:t7"
    ]
   }
  ],
- "durable": [],
+ "durable": [
+  {
+   "text": "He is not a strong fantasy player. His value depends on heavy minutes and elite shooting.",
+   "kind": "verdict",
+   "date": "2026-09-15",
+   "until": "",
+   "sources": [
+    "KPdD91Oo8-U:p44",
+    "-y6p5PYLf00:p10"
+   ]
+  }
+ ],
  "tags": [
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Ranked around 191 to 204, outside the 144 players drafted in our league. Watch his minutes and his three-point percentage.",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p10",
+    "KPdD91Oo8-U:p44",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Behind LaVine, Sabonis and Keegan Murray in the shot pecking order",
+   "detail": "LaVine, Sabonis and Keegan Murray are ahead of him in the offense.",
    "until": "",
    "sources": [
     "oEywzBZfAvY:p23",
@@ -109,65 +129,41 @@
    "new_meaning": ""
   },
   {
-   "name": "bottom team",
+   "name": "injury last season",
    "channel": "current",
-   "detail": "Kings projected at about 21 to 27 wins",
+   "detail": "Played 45 games in 2025-26.",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:t7",
-    "lOshTzDA4SA:t4",
-    "0AptxcRW0RE:t8"
+    "stats"
    ],
    "new_meaning": ""
   },
   {
-   "name": "low shutdown risk",
+   "name": "bottom team",
    "channel": "current",
-   "detail": "Kings need to win games to avoid the relegation zone",
+   "detail": "Kings projected at about 21 to 27 wins.",
    "until": "",
    "sources": [
+    "6DnRWahYrFA:t0",
     "oEywzBZfAvY:t7",
+    "0AptxcRW0RE:t8",
+    "lOshTzDA4SA:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "tank risk",
+   "channel": "current",
+   "detail": "Lloyd expects the Kings to trade or sit veterans. Other experts think they will push to win to avoid relegation.",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:t0",
     "n4KkK-OJjqA:t5",
     "-KS_AZjZnw4:t5"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "trades likely",
-   "channel": "current",
-   "detail": "LaVine or Sabonis could be traded or bought out",
-   "until": "",
-   "sources": [
-    "oEywzBZfAvY:t8",
-    "W-R1dzem32s:t2",
-    "7BllEsdNLoM:t5",
-    "egRrai3Ax38:t0"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "flyer",
-   "channel": "current",
-   "detail": "Last-round pick for 30 to 33 minutes upside",
-   "until": "",
-   "sources": [
-    "KPdD91Oo8-U:p44"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "waiver watch",
-   "channel": "current",
-   "detail": "Ranked outside our 144 drafted players. Watch his minutes and three-point percentage",
-   "until": "",
-   "sources": [
-    "stats",
-    "KPdD91Oo8-U:p44",
-    "-y6p5PYLf00:p10"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "Yahoo ranks him 172 and ESPN ranks him 203, both with a value of 0 USD, and he went for 1 USD in our last auction. In a 144-player league he should go undrafted. His projected line helps only in FT% (85.3%) and threes (2.0) and gives little in blocks, steals and assists. Early in the season, check whether he plays close to 30 minutes and gets his three-point percentage back near 40%. If both happen, he is a waiver pickup for builds that want shooting from a forward.",
+ "note": "Hunter is ranked 191 on Yahoo and 204 on ESPN, and both sites value him at about 0 USD. He went for 1 USD in our league last year. That puts him outside our 144 drafted players, so do not plan to draft him. No category is weak enough to make him a fit for a punt build. His projected FT% and threes help a little, and his FG% and defensive stats hurt a little. Early in the season, watch whether he plays about 30 minutes as a starter and whether his three-point shooting gets back near 40%. If both happen, he becomes a waiver pickup.",
  "rejected": []
 }

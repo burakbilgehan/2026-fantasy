@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 213 | 0 | 0.1 | 159 | 2 |
+| 2026-27 | 0 | - | 217 | 0 | 0.1 | 161 | 2 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,30 +20,36 @@
 | FG% | 44.1% | -0.7 | -0.5 | - |
 | FT% | 85.8% | +0.5 | +0.2 | - |
 | 3PM | 1.9 | +0.4 | +0.1 | - |
-| PTS | 13.2 | -0.1 | -0.2 | - |
+| PTS | 13.2 | -0.2 | -0.2 | - |
 | REB | 2.5 | -1.1 | -0.9 | - |
 | AST | 3.9 | +0.4 | +0.0 | - |
 | STL | 0.6 | -0.9 | -1.1 | - |
 | BLK | 0.4 | -0.3 | +0.3 | - |
-| TO | 1.8 | -0.2 | +0.0 | - |
+| TO | 1.8 | -0.1 | +0.0 | - |
 
 </details>
 
 **Current**
-- Experts do not trust Sacramento's rotation with him. The coach and front office seem to dislike him. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1936), [09-15](https://youtu.be/KPdD91Oo8-U?t=2693), [09-15](https://youtu.be/KPdD91Oo8-U?t=2693), [07-20](https://youtu.be/-KS_AZjZnw4?t=1268))
-- He is Sacramento's backup point guard. There is no third point guard on the roster. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1659), [07-31](https://youtu.be/oEywzBZfAvY?t=1661))
-- The projected Kings starters are Acuff, LaVine, Hunter, Murray and Sabonis, so he comes off the bench. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691))
-- Trade rumors around him continue. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1659))
-- He has 2 years left on his contract, including a player option. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1659))
-- He is not expected to get back to a 29-minute role. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1268))
+- Sacramento gave him DNPs and low minutes last season and at times kept him out of the rotation. (fact, 2026-10-09; [07-31](https://youtu.be/oEywzBZfAvY?t=1476), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2053), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2063))
+- Experts do not trust Sacramento to give him a large bench role, and they do not expect him to get back to a 29-minute role. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2053), [09-15](https://youtu.be/KPdD91Oo8-U?t=2693), [09-15](https://youtu.be/KPdD91Oo8-U?t=2693), [07-20](https://youtu.be/-KS_AZjZnw4?t=1268))
+- Sacramento could give bench minutes to Nique Clifford instead of him. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2063))
+- The expert calls him a really good player but says to avoid him at his ESPN rank of 94. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2053))
+- Experts expect Sacramento to finish near the bottom of the league. Lloyd thinks the team will likely trade or sit its veterans. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=407), [07-31](https://youtu.be/oEywzBZfAvY?t=2438), [07-27](https://youtu.be/0AptxcRW0RE?t=2060))
+- Coach Doug Christie and the front office are reported to dislike him. (fact, 2026-09-17; [07-20](https://youtu.be/-KS_AZjZnw4?t=1268), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1936))
+- He is Sacramento's backup point guard. The roster has no third point guard. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1659), [07-31](https://youtu.be/oEywzBZfAvY?t=1661))
+- Trade rumors about him continue. He has 2 years left on his contract, including a player option. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1659))
+- Coach Doug Christie is on a cheap contract and is under the most pressure in the organization. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=2025))
 
 **Durable**
-- He does not play defense and cannot hold up defensively in heavy minutes. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1623))
+- He has no flagged weak category. His profile is a mild plus in FT%, threes and assists, with low rebounds and steals. (fact, 2026-10-11; stats)
+- He does not play defense and cannot hold up defensively for heavy minutes. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1623))
 
 **Tags**
-- Current: `trade risk` (trade rumors continue), `unsettled rotation` (experts do not trust Sacramento's rotation with him)
+- Current: `coach distrust` (Coach Doug Christie and the front office reportedly dislike him. He got DNPs last season.), `minutes competition` (Nique Clifford could take bench minutes), `trade risk` (Trade rumors continue), `bottom team` (Sacramento projected near the bottom), `trades likely` (Kings may trade veterans such as Sabonis or LaVine), `coach hot seat` (Doug Christie is under the most pressure), `questionable` (Yahoo status Q (Rest)), `waiver watch` (Ranked outside the 144 drafted players on both sites. Watch for a bigger role or a trade.)
 - Durable: none
 
-**Note.** Both sites value him at 0 USD (Yahoo rank 213, ESPN rank 159), and our league paid only 2 USD for him last season, so he should go undrafted in a 144-player auction. The two sites disagree on his role. Yahoo projects 11.5 points on 9.3 shots, while ESPN projects about 26 minutes and 14.9 points. Treat him as a waiver option to watch early in the season: check whether he holds the backup point guard minutes or gets traded into a bigger role.
+**Note.** Yahoo and ESPN both value him at 0 USD (ranks 217 and 161), and he went for 2 USD in our auction last year. That puts him outside the 144 players we draft, and the experts say to avoid him because Sacramento does not trust him with minutes. Leave him on waivers. Early in the season, check whether he holds the backup point guard minutes and whether a trade or a coaching change gives him a role near the 31 minutes he played in 2024-25.
 
-<sub>5 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>Tags removed by the category check: fits every build (weak in STL).</sub>
+
+<sub>6 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

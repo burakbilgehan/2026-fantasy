@@ -8,94 +8,82 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "98d69429e562",
- "note_count": 26,
- "built_at": "2026-10-05T19:52:16+00:00",
+ "input_sha": "a8776d964519",
+ "note_count": 28,
+ "built_at": "2026-10-11T09:18:26+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.22221020000000002,
-  "duration_ms": 67300,
+  "cost_usd_list": 0.2560702,
+  "duration_ms": 78689,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He played about two-thirds of last season without Trae Young or CJ McCollum. After McCollum arrived, his assists fell by about one per game, his time on the ball, steals, blocks and shooting efficiency dropped, and he was not a top 30 player.",
+   "text": "He is a projected starter with CJ McCollum, Nickeil Alexander-Walker, Dyson Daniels and Onyeka Okongwu. Each starter should play 30-plus minutes.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t1",
+    "H9q2FT3LhNw:t0"
+   ]
+  },
+  {
+   "text": "Atlanta has no true point guard. McCollum, Alexander-Walker, Johnson and Daniels share the ball handling.",
+   "kind": "fact",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:t2"
+   ]
+  },
+  {
+   "text": "McCollum is on the roster for the full season. In the part of last season he played with McCollum, Johnson's assists fell by about one per game. His time on ball, steals, blocks and shooting also dropped, and he was not a top 30 player.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
    "sources": [
     "4gw4W4RTolY:p0",
     "4gw4W4RTolY:p1",
-    "uarqbNA2dFk:p28",
     "J1Eg3uaAICU:p11",
-    "OdDkXFhoKsc:p5",
+    "uarqbNA2dFk:p28",
+    "2A2JbUN-kc0:p11"
+   ]
+  },
+  {
+   "text": "His steals, blocks and shooting efficiency dropped late last season, after a big jump in minutes. His shooting also dropped in the playoffs.",
+   "kind": "fact",
+   "date": "2026-09-23",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p9",
+    "H9q2FT3LhNw:p10",
     "dlo7L8Ru91A:p7",
-    "2A2JbUN-kc0:p11",
+    "C4vlgpJ62NI:p22"
+   ]
+  },
+  {
+   "text": "Experts expect sharing the ball with McCollum to cut his assists, usage, steals and shooting a little. They think last season's numbers and first-round value will be hard to keep.",
+   "kind": "verdict",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p2",
+    "dlo7L8Ru91A:p7",
+    "eTsjuVu1trk:p36",
     "LM0cRCGoAUQ:p8"
    ]
   },
   {
-   "text": "His shooting efficiency and defensive stats dropped late last season and in the playoffs.",
-   "kind": "fact",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "H9q2FT3LhNw:p10",
-    "LM0cRCGoAUQ:p9",
-    "uarqbNA2dFk:p28"
-   ]
-  },
-  {
-   "text": "Experts think he wore down late last season after a big jump in minutes and a heavier offensive load.",
+   "text": "Experts do not see him as a first-round pick in category leagues. Lloyd would take him in the middle of round two. Others call him a bust at pick 11 and too high at picks 9 or 10.",
    "kind": "verdict",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "H9q2FT3LhNw:p10",
-    "LM0cRCGoAUQ:p9",
-    "dlo7L8Ru91A:p7"
-   ]
-  },
-  {
-   "text": "He is a projected starter at power forward next to McCollum, Alexander-Walker, Daniels and Okongwu, with 30-plus minutes expected. Atlanta has no true point guard, and ball handling is shared among McCollum, Alexander-Walker, Johnson and Daniels.",
-   "kind": "fact",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
-    "4gw4W4RTolY:t1",
-    "H9q2FT3LhNw:t0",
-    "H9q2FT3LhNw:t2"
-   ]
-  },
-  {
-   "text": "Power forward depth behind him is bad to start the season.",
-   "kind": "fact",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
-    "4gw4W4RTolY:t3"
-   ]
-  },
-  {
-   "text": "Sharing creation with McCollum for a full season should cut his assists, usage, steals and shooting a bit. Experts expect it to be hard for him to repeat last season's numbers.",
-   "kind": "verdict",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
-    "4gw4W4RTolY:p2",
-    "LM0cRCGoAUQ:p8",
-    "dlo7L8Ru91A:p7"
-   ]
-  },
-  {
-   "text": "Experts say he is not a first-round player in category leagues and that ranks and ADPs around picks 6 to 10 are too high. Lloyd would take him in the middle of round two.",
-   "kind": "verdict",
-   "date": "2026-09-25",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
     "4gw4W4RTolY:p3",
+    "eTsjuVu1trk:p36",
     "_vbAP5y182A:p1",
     "C4vlgpJ62NI:p22",
     "uarqbNA2dFk:p28",
@@ -103,24 +91,11 @@
     "LM0cRCGoAUQ:p8",
     "J1Eg3uaAICU:p10",
     "OdDkXFhoKsc:p5",
-    "dlo7L8Ru91A:p7"
+    "WXO8MfQfzo0:p2"
    ]
   },
   {
-   "text": "In points leagues, experts consider him a fair pick around picks 8 to 12 and a first-round player.",
-   "kind": "verdict",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
-    "4gw4W4RTolY:p3",
-    "LM0cRCGoAUQ:p8",
-    "egRrai3Ax38:p23",
-    "80kfLVnFQ_s:p5",
-    "QbdrhJd7LiA:p31"
-   ]
-  },
-  {
-   "text": "In a 2026-10-05 auction mock draft he went for 33 USD, less than Josh expected.",
+   "text": "He went for 33 USD in an expert auction mock draft.",
    "kind": "fact",
    "date": "2026-10-05",
    "until": "",
@@ -129,7 +104,7 @@
    ]
   },
   {
-   "text": "Atlanta's fantasy playoff schedule is 4-4-3 games in weeks 19 to 21. The team has 14 back-to-backs, and resting players is not expected to be a concern.",
+   "text": "Atlanta plays 4-4-3 games in our playoff weeks (March 28 end). The team has 14 back-to-backs, but experts do not expect it to rest players, and it did not shut players down last season.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
@@ -137,32 +112,32 @@
     "4gw4W4RTolY:t6",
     "xHRF06_E9HE:t0"
    ]
-  },
-  {
-   "text": "Atlanta is projected to win about 46 games and finish between fourth and eighth in the East.",
-   "kind": "verdict",
-   "date": "2026-08-25",
-   "until": "",
-   "sources": [
-    "H9q2FT3LhNw:t7"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is excellent in points, rebounds and assists, and he is a strong playmaker for a forward. His rebounds and assists are league outliers.",
+   "text": "He is a strong playmaker and rebounder for a forward. His rebounds and assists are league outliers, and his assists are far above other forwards. He also scores a lot.",
    "kind": "fact",
    "date": "2026-09-23",
    "until": "",
    "sources": [
-    "C4vlgpJ62NI:p23",
-    "2A2JbUN-kc0:p12",
+    "stats",
     "H9q2FT3LhNw:p12",
+    "2A2JbUN-kc0:p12",
+    "C4vlgpJ62NI:p23"
+   ]
+  },
+  {
+   "text": "He commits many turnovers. This is his clear weak category.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
     "stats"
    ]
   },
   {
-   "text": "Experts call his percentages and his three-point shooting iffy.",
+   "text": "Experts call his percentages and three-point shooting iffy.",
    "kind": "verdict",
    "date": "2026-09-23",
    "until": "",
@@ -172,27 +147,19 @@
    ]
   },
   {
-   "text": "He commits many turnovers, a clear weakness against the league.",
+   "text": "He was injured in every season before 2025-26, which was his first healthy season. His past injuries include wrist and shoulder injuries.",
    "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He was injured in every season before last season. Last season was his first healthy year.",
-   "kind": "fact",
-   "date": "2026-09-19",
+   "date": "2026-09-25",
    "until": "",
    "sources": [
     "H9q2FT3LhNw:p11",
+    "4gw4W4RTolY:p4",
     "dlo7L8Ru91A:p7",
     "uarqbNA2dFk:p28"
    ]
   },
   {
-   "text": "Experts disagree on his injury risk. Lloyd calls his past wrist and shoulder injuries fluky and is not concerned. Others call his medical history checkered and say calling him reliable after one healthy season is premature.",
+   "text": "Experts disagree on his injury risk. Lloyd calls the past injuries fluky and is not concerned. Others say he has a checkered medical history and that one healthy season does not make him reliable.",
    "kind": "verdict",
    "date": "2026-09-25",
    "until": "",
@@ -201,13 +168,25 @@
     "2A2JbUN-kc0:p12",
     "J1Eg3uaAICU:p12"
    ]
+  },
+  {
+   "text": "Experts rate him clearly higher in points leagues than in category leagues.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "WXO8MfQfzo0:p2",
+    "4gw4W4RTolY:p3",
+    "LM0cRCGoAUQ:p8",
+    "egRrai3Ax38:p23"
+   ]
   }
  ],
  "tags": [
   {
    "name": "REB specialist",
    "channel": "durable",
-   "detail": "about 10 rebounds per game as a forward",
+   "detail": "about 10 rebounds per game",
    "until": "",
    "sources": [
     "stats",
@@ -232,8 +211,8 @@
    "detail": "forward with about 8 assists per game",
    "until": "",
    "sources": [
-    "H9q2FT3LhNw:p12",
-    "stats"
+    "stats",
+    "H9q2FT3LhNw:p12"
    ],
    "new_meaning": ""
   },
@@ -260,56 +239,65 @@
   {
    "name": "points league player",
    "channel": "durable",
-   "detail": "experts rate him first round in points leagues but mid round two in category leagues",
+   "detail": "experts value him around picks 8 to 12 in points leagues but mid round two in category leagues",
    "until": "",
    "sources": [
+    "WXO8MfQfzo0:p2",
     "4gw4W4RTolY:p3",
-    "LM0cRCGoAUQ:p8",
-    "egRrai3Ax38:p23"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "usage competition",
-   "channel": "current",
-   "detail": "shares creation with CJ McCollum for a full season",
-   "until": "",
-   "sources": [
-    "4gw4W4RTolY:p2",
-    "J1Eg3uaAICU:p11",
     "LM0cRCGoAUQ:p8"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "role down",
-   "channel": "current",
-   "detail": "assists, usage and steals expected to dip next to McCollum",
-   "until": "",
-   "sources": [
-    "4gw4W4RTolY:p2",
-    "dlo7L8Ru91A:p7"
    ],
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "first-round prices in category leagues (Yahoo rank 11, ESPN rank 9); experts value him mid round two",
+   "detail": "first-round price on Yahoo and ESPN; experts value him mid round two in 9-cat",
    "until": "",
    "sources": [
+    "eTsjuVu1trk:p36",
     "4gw4W4RTolY:p3",
     "_vbAP5y182A:p1",
-    "uarqbNA2dFk:p28",
-    "2A2JbUN-kc0:p11",
-    "LM0cRCGoAUQ:p8"
+    "2A2JbUN-kc0:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "shares creation with CJ McCollum and Nickeil Alexander-Walker",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p2",
+    "J1Eg3uaAICU:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "less usage and time on ball with McCollum there all season",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p1",
+    "4gw4W4RTolY:p2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "regression risk",
+   "channel": "current",
+   "detail": "8 assists, 49% FG and steals expected to drop",
+   "until": "",
+   "sources": [
+    "eTsjuVu1trk:p36",
+    "4gw4W4RTolY:p2"
    ],
    "new_meaning": ""
   },
   {
    "name": "shared ball handling",
    "channel": "current",
-   "detail": "McCollum, Alexander-Walker, Johnson and Daniels share ball handling",
+   "detail": "no true point guard in Atlanta",
    "until": "",
    "sources": [
     "H9q2FT3LhNw:t2"
@@ -326,18 +314,8 @@
     "xHRF06_E9HE:t0"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "winning team",
-   "channel": "current",
-   "detail": "about 46 wins projected",
-   "until": "",
-   "sources": [
-    "H9q2FT3LhNw:t7"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "Experts agree that his market price (Yahoo average cost 51.4 USD, ESPN 53.9 USD, ranks 11 and 9) is too high for category leagues. He went for 34 USD in our league last season and for 33 USD in a recent mock, so aim for the mid 30s to low 40s USD rather than first-round money. His rebounds and assists are elite for a forward, but he averages about 3.3 turnovers, so he fits punt TO builds best. Early in the season, check his assists, steals and FG% with McCollum on the floor, since they fell after McCollum arrived last season.",
+ "note": "Yahoo (46 USD, rank 12) and ESPN (56 USD, rank 9) both price him as a first-rounder. Experts see him as a mid second-rounder in 9-cat, and he went for 34 USD in our league last season and 33 USD in an expert mock, so 35 to 40 USD looks like a fair ceiling for us. He fits a punt TO build best, where his elite rebounds and assists from a forward slot count fully. Early in the season, check whether his assists, steals and FG% hold up with McCollum on the floor.",
  "rejected": []
 }

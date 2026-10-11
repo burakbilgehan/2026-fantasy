@@ -3,7 +3,7 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, ESPN | 69 | 9.2 | 42.1 (3.1) | 76.2 (0.3) | 0.7 | 3.5 | 1.4 | 0.8 | 0.2 | 0.1 | 0.4 |
+| 2026-27 proj, ESPN | 69 | 9.2 | 43.9 (3.1) | 76.2 (0.3) | 0.7 | 3.6 | 1.4 | 0.8 | 0.2 | 0.1 | 0.4 |
 | 2025-26 | 69 | 9.2 | 42.3 (3.1) | 75.0 (0.3) | 0.7 | 3.6 | 1.4 | 0.8 | 0.2 | 0.1 | 0.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
@@ -14,13 +14,13 @@
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 42.1% | -0.3 | -0.3 | - |
+| FG% | 43.9% | -0.2 | -0.2 | - |
 | FT% | 76.2% | -0.0 | +0.0 | - |
-| 3PM | 0.7 | -0.9 | -1.1 | - |
-| PTS | 3.5 | -1.8 | -1.9 | league outlier, weak |
+| 3PM | 0.7 | -0.9 | -1.2 | - |
+| PTS | 3.6 | -1.8 | -1.9 | league outlier, weak |
 | REB | 1.4 | -1.6 | -1.8 | league outlier, weak |
 | AST | 0.8 | -1.3 | -1.3 | - |
-| STL | 0.2 | -2.2 | -2.3 | league outlier, weak |
+| STL | 0.2 | -2.3 | -2.3 | league outlier, weak |
 | BLK | 0.1 | -1.1 | -1.3 | - |
 | TO | 0.4 | +1.7 | +1.7 | - |
 

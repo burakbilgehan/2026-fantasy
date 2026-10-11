@@ -8,52 +8,43 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "1b4983fb24a4",
- "note_count": 18,
- "built_at": "2026-10-05T20:00:13+00:00",
+ "input_sha": "1c4574a5beac",
+ "note_count": 21,
+ "built_at": "2026-10-11T09:22:27+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1982502,
-  "duration_ms": 54313,
+  "cost_usd_list": 0.20089419999999997,
+  "duration_ms": 54638,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Okongwu is Atlanta's clear starting center. The projected starters are McCollum, Alexander-Walker, Daniels, Johnson and Okongwu.",
+   "text": "He is Atlanta's clear starting center, with little competition for his role. Veesaar is out for the season, Gueye is injured, and Jock Landale is the main backup.",
    "kind": "fact",
-   "date": "2026-09-25",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
     "H9q2FT3LhNw:p13",
-    "4gw4W4RTolY:t1",
-    "H9q2FT3LhNw:t0"
-   ]
-  },
-  {
-   "text": "No established backup threatens his job. Center depth is thin: Veesaar is out for the season and Gueye is injured, which leaves Landale as the main backup.",
-   "kind": "fact",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
     "t4n9MAP2_14:p25",
+    "WXO8MfQfzo0:p25",
+    "4gw4W4RTolY:p7",
     "4gw4W4RTolY:t5",
     "CLsUc0Sevos:t2"
    ]
   },
   {
-   "text": "Lloyd says the team is very cautious with his minutes. Lloyd also expects every Atlanta starter to play 30-plus minutes.",
+   "text": "Atlanta is reported to be very cautious with his minutes.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
    "sources": [
-    "4gw4W4RTolY:p7",
-    "4gw4W4RTolY:t1"
+    "4gw4W4RTolY:p7"
    ]
   },
   {
-   "text": "Quin Snyder wants Okongwu spaced away from the rim when he plays alongside Daniels and Johnson.",
+   "text": "Quin Snyder wants him spaced away from the rim when he plays with Dyson Daniels and Jalen Johnson.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
@@ -62,57 +53,60 @@
    ]
   },
   {
-   "text": "Lloyd expects his FG% and block rate to stay at their current lower levels under Quin Snyder. Another expert also doubts an FG% bounce back because Trae Young is still gone.",
+   "text": "Experts do not expect his FG% or his block rate to bounce back under Quin Snyder, because his role away from the rim and the defensive scheme stay the same.",
    "kind": "verdict",
    "date": "2026-09-25",
    "until": "",
    "sources": [
     "4gw4W4RTolY:p6",
-    "-y6p5PYLf00:p27"
+    "-y6p5PYLf00:p27",
+    "t4n9MAP2_14:p25"
    ]
   },
   {
-   "text": "If his inside finishing gets back to his old level, he could score 18 to 19 points per game with efficiency that helps in fantasy.",
-   "kind": "verdict",
-   "date": "2026-08-25",
+   "text": "His usage was 19.5 with Trae Young out and fell to 17 and then 16 late last season. His usage and scoring dropped when he shared the floor with CJ McCollum.",
+   "kind": "fact",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "H9q2FT3LhNw:p15"
+    "eTsjuVu1trk:p25",
+    "-DN4P92Wp8Y:p23"
    ]
   },
   {
-   "text": "Lloyd says nine-cat rankings inflate him. He calls a round-four pick a disappointment and says he borders on overvalued in category leagues.",
+   "text": "The idea that Porzingis leaving boosts his role is overstated.",
    "kind": "verdict",
-   "date": "2026-09-25",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "4gw4W4RTolY:p5"
+    "-DN4P92Wp8Y:p23"
    ]
   },
   {
-   "text": "Experts price him at about 15 to 16 USD in auction, or a pick in the 50s or 60s. Round three or four is too high. In one mock, pick 57 was called a little early and mostly a positional pick. In another, Josh regretted taking him in round 5 over LeBron.",
+   "text": "Experts call his rank of 49 a little too high for category leagues. They say nine-cat rankings inflate him, a round 4 pick would disappoint, and a pick in the 50s or 60s is fair, mostly as a positional pick at center.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "eTsjuVu1trk:p25",
+    "4gw4W4RTolY:p5",
+    "BjXP9JODDSg:p25",
+    "ahNxsoU8Hx4:p61",
+    "_vbAP5y182A:p29",
+    "-DN4P92Wp8Y:p23"
+   ]
+  },
+  {
+   "text": "In an auction mock, Josh targeted him at 15 to 16 USD and bought him for 16 USD.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p64",
-    "BjXP9JODDSg:p25",
-    "ahNxsoU8Hx4:p61",
-    "_vbAP5y182A:p29",
-    "4gw4W4RTolY:p5"
+    "Q6YlQDvD-aY:p64"
    ]
   },
   {
-   "text": "In points leagues, experts see him as a pick in the 80s, so he goes later there than in category leagues.",
-   "kind": "verdict",
-   "date": "2026-08-24",
-   "until": "",
-   "sources": [
-    "g31YlwRe0XQ:p24"
-   ]
-  },
-  {
-   "text": "Atlanta's playoff schedule is 4-4-3 games in weeks 19 to 21 for a March 28 end. The team has 14 back-to-backs, and the experts do not expect it to rest or shut down players.",
+   "text": "Atlanta plays 4, 4 and 3 games in our playoff weeks 19 to 21. The team has 14 back-to-backs and is not expected to rest or shut down players.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
@@ -120,39 +114,30 @@
     "4gw4W4RTolY:t6",
     "xHRF06_E9HE:t0"
    ]
-  },
-  {
-   "text": "Atlanta has no true point guard. Ball handling is shared among McCollum, Alexander-Walker, Johnson and Daniels.",
-   "kind": "fact",
-   "date": "2026-08-25",
-   "until": "",
-   "sources": [
-    "H9q2FT3LhNw:t2"
-   ]
-  },
-  {
-   "text": "Atlanta is projected to win about 46 games and finish between fourth and eighth in the East.",
-   "kind": "verdict",
-   "date": "2026-08-25",
-   "until": "",
-   "sources": [
-    "H9q2FT3LhNw:t7"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is a stretch center who makes threes on real volume. His three-point volume is real even if his percentage dips.",
+   "text": "He is a stretch center who takes many threes. He shot 38% from three on real volume, and the volume should hold even if the percentage dips.",
    "kind": "fact",
    "date": "2026-08-25",
    "until": "",
    "sources": [
-    "H9q2FT3LhNw:p14",
-    "stats"
+    "H9q2FT3LhNw:p14"
    ]
   },
   {
-   "text": "He plays more on the perimeter than most centers. That means less rim finishing, fewer offensive rebounds, and more assists and three-point attempts.",
+   "text": "For a center, his threes and steals are clearly above average. His blocks and rebounds are only average for the position.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats",
+    "BjXP9JODDSg:p24"
+   ]
+  },
+  {
+   "text": "Since moving to the perimeter, his rim finishing and offensive rebound rate are lower, and his assist rate and three-point rate are higher.",
    "kind": "fact",
    "date": "2026-08-25",
    "until": "",
@@ -161,18 +146,7 @@
    ]
   },
   {
-   "text": "On defense he gives up blocks to cut fouls and guard the perimeter. As a result he gets more steals than most centers. Atlanta's switching and blitzing scheme puts its center in different spots.",
-   "kind": "fact",
-   "date": "2026-08-25",
-   "until": "",
-   "sources": [
-    "H9q2FT3LhNw:p17",
-    "H9q2FT3LhNw:t6",
-    "stats"
-   ]
-  },
-  {
-   "text": "Experts expect this defensive profile to last, with maybe a few more blocks.",
+   "text": "He gave up blocks to cut fouls and defend on the perimeter, so his block rate is lower and his steal rate is higher. Expect this profile to continue, maybe with a few more blocks.",
    "kind": "verdict",
    "date": "2026-08-25",
    "until": "",
@@ -181,7 +155,7 @@
    ]
   },
   {
-   "text": "He has very good hands and good feel, and he handles the ball better than most centers.",
+   "text": "He has very good hands and feel, and he handles the ball better than most centers.",
    "kind": "fact",
    "date": "2026-08-25",
    "until": "",
@@ -190,17 +164,7 @@
    ]
   },
   {
-   "text": "He has no weak category. His threes and steals are well above other centers, and his rebounds and blocks are above the pool.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "stats",
-    "Alwse2uXzD4:p12"
-   ]
-  },
-  {
-   "text": "He is not a huge rebounder, but he is a usable second center.",
+   "text": "He is not a big rebounder, but he is a usable second center.",
    "kind": "verdict",
    "date": "2026-09-30",
    "until": "",
@@ -209,7 +173,17 @@
    ]
   },
   {
-   "text": "Quin Snyder runs an egalitarian, high-movement offense that wants many threes and five-out spacing.",
+   "text": "His broad profile of threes, steals and blocks makes him worth more in category leagues than in points leagues.",
+   "kind": "verdict",
+   "date": "2026-08-30",
+   "until": "",
+   "sources": [
+    "Alwse2uXzD4:p12",
+    "eTsjuVu1trk:p25"
+   ]
+  },
+  {
+   "text": "Quin Snyder runs a high-movement, five-out offense that wants many threes.",
    "kind": "fact",
    "date": "2026-08-25",
    "until": "",
@@ -222,21 +196,32 @@
   {
    "name": "3PM from a big",
    "channel": "durable",
-   "detail": "About 1.9 threes per game as a center",
+   "detail": "About 1.9 threes per game projected; stretch center who shot 38% from three",
    "until": "",
    "sources": [
-    "H9q2FT3LhNw:p14",
-    "stats"
+    "stats",
+    "H9q2FT3LhNw:p14"
    ],
    "new_meaning": ""
   },
   {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "No category flagged weak",
+   "detail": "No weak category; threes and steals are strong for a center",
    "until": "",
    "sources": [
     "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "category league player",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "Alwse2uXzD4:p12",
+    "eTsjuVu1trk:p25"
    ],
    "new_meaning": ""
   },
@@ -251,31 +236,32 @@
    "new_meaning": ""
   },
   {
-   "name": "category league player",
-   "channel": "durable",
-   "detail": "Seen as a pick in the 80s in points leagues, versus the 50s or 60s in category leagues",
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "At Yahoo rank 49; experts see a fair price in the 50s or 60s",
    "until": "",
    "sources": [
-    "g31YlwRe0XQ:p24",
-    "Alwse2uXzD4:p12",
-    "ahNxsoU8Hx4:p61"
+    "-DN4P92Wp8Y:p23",
+    "eTsjuVu1trk:p25",
+    "4gw4W4RTolY:p5"
    ],
    "new_meaning": ""
   },
   {
-   "name": "minutes limit",
+   "name": "usage competition",
    "channel": "current",
-   "detail": "Lloyd says Atlanta is very cautious with his minutes",
+   "detail": "His usage and scoring dropped next to CJ McCollum",
    "until": "",
    "sources": [
-    "4gw4W4RTolY:p7"
+    "-DN4P92Wp8Y:p23",
+    "eTsjuVu1trk:p25"
    ],
    "new_meaning": ""
   },
   {
    "name": "five-out offense",
    "channel": "durable",
-   "detail": "Snyder spaces him away from the rim next to Daniels and Johnson",
+   "detail": "Snyder spaces him away from the rim",
    "until": "",
    "sources": [
     "H9q2FT3LhNw:t3",
@@ -284,37 +270,17 @@
    "new_meaning": ""
   },
   {
-   "name": "shared ball handling",
-   "channel": "current",
-   "detail": "No true point guard in Atlanta",
-   "until": "",
-   "sources": [
-    "H9q2FT3LhNw:t2"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "low shutdown risk",
    "channel": "current",
-   "detail": "Atlanta did not shut players down last season, and resting players is not a concern",
+   "detail": "",
    "until": "",
    "sources": [
-    "xHRF06_E9HE:t0",
-    "4gw4W4RTolY:t6"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "winning team",
-   "channel": "current",
-   "detail": "About 46 wins projected, fourth to eighth in the East",
-   "until": "",
-   "sources": [
-    "H9q2FT3LhNw:t7"
+    "4gw4W4RTolY:t6",
+    "xHRF06_E9HE:t0"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Okongwu is a stretch center with no weak category, so he fits any build. His threes and steals help most in builds that want them from the center spot. Yahoo values him at 22 USD, but managers pay about 8 USD (ESPN 14 USD value, 5 USD cost), and he went for 6 USD in our league last season. Experts price him at about 15 to 16 USD and warn that nine-cat ranks of 44 to 49 inflate him, so do not chase him above that. Early in the season, check his minutes, given Atlanta's caution with them, and whether his FG% (48.5% projected) and blocks recover.",
+ "note": "He went for 6 USD in our league last season. Yahoo values him at 22 USD and ESPN at 14 USD, but average costs are only 7.7 and 6.3 USD, and an expert auction mock paid 16 USD. For a center he helps every build with threes and steals and has no weak category, but experts expect his FG% (48%, down from 57%) and his blocks to stay at last season's lower level. Treat him as a mid-priced second center, not a round 4 value. Early in the season, check his minutes, his usage next to McCollum, and whether Snyder gives him more shots at the rim.",
  "rejected": []
 }

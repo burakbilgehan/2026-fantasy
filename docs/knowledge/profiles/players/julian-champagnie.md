@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 1.0 | 179 | 2 | 0.4 | 111 | not drafted |
+| 2026-27 | 0 | 1.0 | 173 | 2 | 0.4 | 112 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,23 +30,25 @@
 </details>
 
 **Current**
-- Dylan Harper and Tobias Harris compete with him for minutes on a very deep Spurs roster. Only two of Vassell, Champagnie, Harris and Harper can start next to Wembanyama, Castle and Fox. (fact, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=2316), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312), [07-01](https://youtu.be/W3THnI7wWdA?t=1136), [08-24](https://youtu.be/g31YlwRe0XQ?t=1055), [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
-- The experts say his minutes are hard to find. He is not a must-draft and needs a couple of injuries ahead of him to become one. They expect some managers to reach for him anyway. (verdict, 2026-09-07; [07-01](https://youtu.be/W3THnI7wWdA?t=1142), [07-02](https://youtu.be/P6TNP-g0wzY?t=2357), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2316))
-- He became the starting power forward around the middle of last season. The Spurs then signed Tobias Harris, and the projected starters are now Fox, Castle, Vassell, Harris and Wembanyama. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1420), [08-27](https://youtu.be/ZAyie8lKyYc?t=524), [07-05](https://youtu.be/4kKINkZhWls?t=3529))
-- The Spurs plan to win now and are projected for about 63 wins. Trades to thin out the deep forward group are expected at some point, but not right away. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=152), [08-27](https://youtu.be/ZAyie8lKyYc?t=1306), [08-27](https://youtu.be/ZAyie8lKyYc?t=2403))
-- His rim finishing last season was 71%, which is unusually high for a perimeter player. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1069))
-- The expert does not expect his rim finishing to hold, which puts his FG% at risk. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1069))
-- He signed a 3-year, 45 million deal with the Spurs. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1142))
+- The Spurs signed Tobias Harris to replace Harrison Barnes. Harris is the likely starter at forward and has a calf strain. (fact, 2026-10-09; [07-05](https://youtu.be/4kKINkZhWls?t=3529), [08-24](https://youtu.be/g31YlwRe0XQ?t=1055), [10-06](https://youtu.be/eTsjuVu1trk?t=2377), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1619))
+- Experts expect more three-guard lineups, and Dylan Harper may start next to Castle and Fox. That leaves fewer forward minutes. (verdict, 2026-10-09; [08-27](https://youtu.be/ZAyie8lKyYc?t=666), [09-30](https://youtu.be/BjXP9JODDSg?t=1311), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1619))
+- The roster is very deep at forward, and experts cannot see where his minutes come from with Harris, Harper and Vassell around. They advise against reaching for him. (verdict, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=2532), [10-08](https://youtu.be/WXO8MfQfzo0?t=2532), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2316), [07-02](https://youtu.be/P6TNP-g0wzY?t=2357), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312), [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
+- The Spurs' starting lineup is not set. Harper, Fox, Castle and the forward spot are all in the mix. (fact, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2377))
+- Projected Spurs starters are Fox, Castle, Vassell, Harris and Wembanyama. Champagnie is not among them. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=524))
+- The Spurs are expected to consolidate their forward depth through trades in the near future, but not right away. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
+- One expert predicts 63 wins for the Spurs, and they could take the top seed in the West. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2403), [07-26](https://youtu.be/75Sk_4fkgIM?t=370))
+- His rim finishing of 71% last season is unusually high for a perimeter player. The expert does not expect it to hold. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1069))
+- Champagnie signed a 3-year, 45 million deal with the Spurs. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1142))
+- He is not a must-draft unless a couple of injuries open minutes ahead of him. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1142))
 
 **Durable**
-- His category value comes from threes and few turnovers. His weakest spots are FG%, assists, steals and points, but no category is a league outlier either way. (fact, 2026-10-05; stats)
-- He has missed very few games over the last three seasons. (fact, 2026-10-05; stats)
-- He is an undersized power forward, so teams with a big frontcourt can hurt him on the glass. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=349))
+- His fantasy value comes from threes, FT% and few turnovers. He adds little in points, assists and steals, and his FG% is below average. (fact, 2026-10-11; stats)
+- He is an undersized four, so teams with frontcourt size can hurt him on the glass. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=349))
 
 **Tags**
-- Current: `minutes competition` (Dylan Harper and Tobias Harris compete for his forward and fifth starter minutes), `role down` (Started at power forward last season; Harris is now the projected starter), `regression risk` (Rim finishing of 71% not expected to hold), `waiver watch` (Needs injuries ahead of him to become a must-draft), `deep rotation` (Spurs are very deep at forward and guard), `winning team` (Projected for about 63 wins), `trades likely` (Forward consolidation expected, not right away), `sites disagree on price` (Yahoo rank 179, ESPN rank 111)
-- Durable: `3PM from a big` (About 2.3 threes per game as a forward), `fits every build` (No category flagged weak, but value is low overall), `plays every game` (82 games in each of the last two seasons)
+- Current: `minutes competition` (Tobias Harris, Dylan Harper and Devin Vassell compete for the forward and wing starting spots), `role down` (not among the projected starters after the Harris signing, and Harper needs minutes), `waiver watch` (worth watching if Harris's calf strain or other injuries open minutes), `regression risk` (71% rim finishing last season not expected to hold), `deep rotation` (very deep at forward and guard), `trades likely` (forward depth consolidation expected, not right away), `winning team` (63 wins predicted)
+- Durable: `3PM from a big` (about 2.3 threes per game as a forward)
 
-**Note.** Yahoo ranks him 179 with a value of 0 USD and ESPN ranks him 111 with a value of 2 USD, so at best he is a 1 USD last pick in our 144-player draft. He gives threes and few turnovers without hurting any build, but Harris and Harper threaten his minutes and the experts expect his FG% to drop. Leave him on waivers and watch his minutes in the first weeks, especially if Harris, Vassell or another Spurs forward gets hurt.
+**Note.** Yahoo ranks him 173 and ESPN 112, with average costs of 1.0 USD and 0.4 USD. In a league that drafts 144 players he is a 1 USD bench flyer at most and is better left on waivers. His appeal is threes, FT% and low turnovers from a forward, but his FG% hurts and he has no clear minutes on a deep Spurs roster. Early in the season, check the Spurs' starting lineup, how long Tobias Harris's calf strain lasts, and whether a forward trade frees up minutes.
 
-<sub>6 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>7 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

@@ -40,84 +40,122 @@
  ],
  "proposed": false,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-04T20:17:22+00:00",
+ "built_at": "2026-10-11T09:47:50+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1182408,
-  "duration_ms": 45681
+  "cost_usd_list": 0.1029728,
+  "duration_ms": 38514,
+  "turns": 2,
+  "denied": 0
  },
  "player_slugs": [],
- "summary": "Game count changes our weekly result mostly through volume. A two-game week makes FG% and FT% swing and costs us counting stats. Use all 6 adds to stream for extra games once the season settles, and pay no attention to back-to-back counts except for players coming back from injury. Treat the merged NBA Cup weeks as one 14-day matchup, and move players with two-game weeks in fantasy playoff weeks 19 to 21 down the board.",
+ "summary": "Games played is the schedule factor that matters in our 9-cat H2H league. A two-game week in the fantasy playoffs (weeks 19 to 21) is the one to plan around, so check it before the 2027-03-04 trade deadline. In low-volume weeks, treat FG% and FT% as coin flips and expect to win turnovers. In heavy weeks, use all 6 adds to stream for games. Back-to-back counts barely matter, except for players coming back from injury.",
  "sections": [
   {
-   "heading": "Why low-volume weeks swing FG% and FT%",
+   "heading": "Why game count matters most in the playoffs",
    "paragraphs": [
     {
-     "text": "FG% and FT% are team ratios. Fewer games means fewer attempts, so each miss moves the percentage more. Percentage categories are not safe in a low-volume week. FT% varies most from year to year. FG% varies most from game to game and week to week.",
+     "text": "In head-to-head, the number of games your players log is a real edge. A player who plays only about two games in a week can cost you that week, even when his per-game numbers are good. He also holds a roster spot that could be used for streaming.",
+     "sources": [
+      "7BllEsdNLoM:r6",
+      "MUbNYdjpUDM:r4",
+      "QbdrhJd7LiA:r14"
+     ]
+    },
+    {
+     "text": "The schedule factor that actually matters is a two-game week in the fantasy playoffs. Our playoffs are weeks 19, 20 and 21, and the season ends 2027-03-28. If a player's team has a two-game week in that window, drop him down your board. Use the March 28 schedule, not Yahoo's April 4 default.",
+     "sources": [
+      "gf_6GveiAls:r10",
+      "gf_6GveiAls:r13",
+      "QbdrhJd7LiA:r12"
+     ]
+    },
+    {
+     "text": "What to do: before the 2027-03-04 trade deadline, count each starter's games in weeks 19 to 21. Trade away a player with a two-game playoff week if you can get an equal player with a fuller schedule. After the deadline, the only fix is streaming.",
+     "sources": [
+      "gf_6GveiAls:r13",
+      "QbdrhJd7LiA:r12"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Percentages and turnovers in light and heavy weeks",
+   "paragraphs": [
+    {
+     "text": "FG% and FT% are not safe in low-volume weeks. Fewer attempts means each miss moves the ratio more, so results swing more. FG% varies most from game to game and week to week. FT% varies most from year to year.",
      "sources": [
       "aLP080hxizA:r11"
      ]
     },
     {
-     "text": "Shooting categories have no floor. A bad shooter can keep pulling your team down, and you can lose a lead in the category on the last day of the matchup. When our roster has few games in a week, a lead in FG% or FT% is not a safe win. Set your daily lineup with that in mind until the final day.",
+     "text": "Shooting categories have no floor. One bad shooter can keep dragging the ratio down, and a lead can flip on the last day of the matchup. In a two-game week, do not count FG% or FT% as banked wins. Check both ratios on the final day before you set your lineup.",
      "sources": [
       "-y6p5PYLf00:r1",
       "aLP080hxizA:r11"
      ]
     },
     {
-     "text": "Any build with low volume has the same problem. Heavy punting leaves fewer counting stats and more variance, and in some formats that can cost you a playoff spot. If you punt and also face a two-game week, expect more coin-flip results in the percentages.",
-     "sources": [
-      "E-KmhvyZ2CU:r4"
-     ]
-    },
-    {
-     "text": "A short week does help in one category. Injuries and schedule gaps lower your turnovers on their own, so you often win TO in weeks when you have fewer games. Streaming to get the most games raises turnovers. In a short week, count TO as a likely win and do not chase it in other weeks.",
+     "text": "Turnovers work the other way. Being short on games, through injuries or a light schedule, lowers your turnovers on its own. So you often win TO in weeks when you have fewer games. In a heavy week where you stream for volume, turnovers will rise. Accept that. Chasing low turnovers fights the head-to-head game.",
      "sources": [
       "0geFVzSqOnA:r19",
       "0geFVzSqOnA:r18"
+     ]
+    },
+    {
+     "text": "Heavy punt builds already run low volume and high variance. A two-game playoff week adds to that swing and can cost you. If you punt, be even stricter about avoiding two-game playoff weeks.",
+     "sources": [
+      "E-KmhvyZ2CU:r4",
+      "gf_6GveiAls:r10"
      ]
     }
    ]
   },
   {
-   "heading": "Daily lineups and the 6 weekly adds",
+   "heading": "Daily lineups and the 6-add weekly cap",
    "paragraphs": [
     {
-     "text": "Our league allows 6 acquisitions per week. Know that rule and plan around it. With a limited number of adds, use all of them. The end of the roster should keep turning over. The waiver wire matters as much as the draft. Stream to get more games played than your opponent in head-to-head.",
+     "text": "We set lineups daily and get 6 acquisitions per week, processed daily with FAB. Use all of them when you are chasing games. The end of the roster should keep turning over rather than sit still.",
      "sources": [
       "skKXe2CRl8Q:r1",
       "QbdrhJd7LiA:r14"
      ]
     },
     {
-     "text": "Only 144 players are drafted in our league. Streaming players ranked about 170 to 190 for extra games beats holding a player ranked around 130 who sits on your bench all season. If your last two roster spots never start, use those spots to stream players with more games that week.",
+     "text": "With 144 players drafted, players ranked around 170 to 190 are on waivers. Streaming them for extra games beats holding a player ranked around 130 who sits on your bench. Your 2 bench spots are the ones to churn. Drop a bench player whose team has a light week for a waiver player whose team plays more.",
      "sources": [
       "skKXe2CRl8Q:r10"
      ]
     },
     {
-     "text": "A player who plays only about two games in a week can cost you in head-to-head, even when his per-game numbers are good. In a standard format like ours, a roster spot that plays two games a week also gets in the way of streaming. When one of your players has a two-game week, consider using that spot for a streamer with more games.",
-     "sources": [
-      "7BllEsdNLoM:r6",
-      "MUbNYdjpUDM:r4"
-     ]
-    },
-    {
-     "text": "Good streaming targets are backup centers who start when the starters sit. During heavy stretches of the schedule, when starters rest, look at bench players on teams with poor depth. Check the box scores and team rest news before you spend an add.",
+     "text": "Good targets: backup centers who start when the starter sits, and bench players on teams with poor depth during heavy stretches when starters rest.",
      "sources": [
       "MUbNYdjpUDM:r6",
       "NmdNvAz08oE:r9"
+     ]
+    },
+    {
+     "text": "Time your adds for quality games. These are games on days with few NBA games, set at about 10 or 11 games or fewer, not Basketball Monster's default of 5. On those days you can start everyone without start/sit choices. A streamer whose games land on busy days may just sit on your bench.",
+     "sources": [
+      "gf_6GveiAls:r14",
+      "Bi1cEM03k9Y:r3"
+     ]
+    },
+    {
+     "text": "Quality games are for in-season streaming, not for drafting. Season totals differ by only about six games between teams, which is too small to change auction prices on 2026-10-18.",
+     "sources": [
+      "gf_6GveiAls:r15",
+      "Bi1cEM03k9Y:r3"
      ]
     }
    ]
   },
   {
-   "heading": "Back-to-backs and quality games barely matter",
+   "heading": "Back-to-backs: small, except for returning players",
    "paragraphs": [
     {
-     "text": "Several experts agree that back-to-back counts only range from 13 to 16 across teams. One puts the gap at about one game every two months. Another puts it at about three back-to-backs over a 25-week season. Do not change draft prices or weekly plans because of a team's back-to-back total.",
+     "text": "Teams range from 13 to 16 back-to-backs across the season. That gap works out to about one game every two months, or about three over a 25-week season. Do not adjust draft prices or weekly plans for it.",
      "sources": [
       "gf_6GveiAls:r7",
       "aLP080hxizA:r10",
@@ -128,7 +166,7 @@
      ]
     },
     {
-     "text": "The exception is players returning from injury. Most back-to-back problems come from players returning from in-season injuries, and nobody can predict those. Such players may sit one game of a back-to-back, so a team with many back-to-backs hurts them more. When a returning player's team has a back-to-back that week, count him for fewer games and plan a streamer if needed.",
+     "text": "The exception is a player coming back from an in-season injury. He may sit one game of a back-to-back, so a team with many back-to-backs hurts him more. Injury-prone players carry the same risk. Nobody can predict those injuries in advance. Check the schedule when the player returns: if his week has back-to-backs, count him for fewer games and stream around him.",
      "sources": [
       "gf_6GveiAls:r9",
       "XSPJL_mlFXo:r10",
@@ -136,15 +174,7 @@
      ]
     },
     {
-     "text": "A quality game is one played on a day with few games, so you don't face start/sit decisions. The experts set the cutoff at 10 or 11 games on a day, not Basketball Monster's default of 5. Quality game totals vary too little between teams to affect the draft. The gap over a season is only about six games. For daily lineups, light days are still useful because you can start everyone.",
-     "sources": [
-      "gf_6GveiAls:r14",
-      "Bi1cEM03k9Y:r3",
-      "gf_6GveiAls:r15"
-     ]
-    },
-    {
-     "text": "One expert also points to long road trips with no back-to-back home or road games. That kind of stretch can wear a team down and is worth noting. Treat it as background, not as a reason to make a move on its own.",
+     "text": "One related flag: a long stretch of travel with no consecutive home or road games can wear a team down. That stretch is worth noting when you plan streams.",
      "sources": [
       "rnq3118kfhY:r2"
      ]
@@ -152,51 +182,17 @@
    ]
   },
   {
-   "heading": "Merged NBA Cup and All-Star weeks",
+   "heading": "Merged NBA Cup weeks and early-season patience",
    "paragraphs": [
     {
-     "text": "This season Yahoo combines weeks seven and eight into one matchup for the NBA Cup. The two Cup half weeks, November 30 to December 13, count as one 14-day matchup. Do not judge a team by its game count in each half week. Count its games over the full 14 days, and compare that with your opponent's total.",
+     "text": "The two NBA Cup half weeks, November 30 to December 13, merge into one 14-day matchup. Yahoo combines weeks seven and eight correctly this season. The All-Star weeks also merge. Count games across the full 14 days, not per half week. A team that is light in one half may be fine over the whole matchup. Your 6-add limit is a weekly cap, so check in Yahoo how it applies across the two-week matchup before you plan streams.",
      "sources": [
-      "J1Eg3uaAICU:r4",
-      "gf_6GveiAls:r6"
+      "gf_6GveiAls:r6",
+      "J1Eg3uaAICU:r4"
      ]
     },
     {
-     "text": "Over 14 days, more games and more attempts mean the percentage categories should swing less than in a short week. One week with few games for a player matters less inside a merged matchup. The notes do not say whether our 6-add cap applies per calendar week or per matchup in that period. Check the Yahoo league settings before the matchup starts, so you know how many streams you can make.",
-     "sources": [
-      "aLP080hxizA:r11",
-      "gf_6GveiAls:r6"
-     ]
-    },
-    {
-     "text": "One expert also merges the All-Star weeks into one matchup. Check our league schedule in Yahoo to confirm how those weeks are set up, and count games over the whole merged period.",
-     "sources": [
-      "gf_6GveiAls:r6"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Playoff weeks 19 to 21 and early-season patience",
-   "paragraphs": [
-    {
-     "text": "The schedule factor that actually matters is a two-game week during the fantasy playoffs. In head-to-head leagues, a player with a two-game playoff week should drop down your board. Our playoffs are weeks 19, 20 and 21, and the season ends Sunday 2027-03-28. Before the trade deadline on 2027-03-04, check each roster player's game counts for those three weeks. Consider trading players with two-game playoff weeks.",
-     "sources": [
-      "gf_6GveiAls:r10",
-      "gf_6GveiAls:r13",
-      "QbdrhJd7LiA:r12"
-     ]
-    },
-    {
-     "text": "Later in the season, playoff schedules matter through smart streaming and avoiding two-game weeks. In playoff weeks, use all 6 adds to get more games than your opponent. Expect wider swings in FG% and FT% when your active players have few games.",
-     "sources": [
-      "QbdrhJd7LiA:r12",
-      "skKXe2CRl8Q:r1",
-      "aLP080hxizA:r11"
-     ]
-    },
-    {
-     "text": "The experts pull in different directions on early-season streaming. One side says the waiver wire matters as much as the draft and that you should stream to get a games-played edge in head-to-head. The other side says do not draft for the week-one schedule and do not stream just to get extra games early. They would accept losses in weeks one and two and use that time to evaluate. That keeps roster spots for late fliers who may have value later. For our 2026-10-18 auction, do not pay extra for a good week-one schedule. Start chasing games once your fliers have been judged.",
+     "text": "The experts disagree on how hard to chase games early in the season. One view says to stream for a games-played edge in head-to-head, since the waiver wire matters as much as the draft. The other says do not draft for the week one schedule and do not stream just for extra early games. In that view, losing weeks one and two is fine if it lets you hold fliers with longer-term value. For us: do not pay up in the auction for a good week one schedule. In weeks one and two, spend adds on evaluating players, not on streaming for games.",
      "sources": [
       "QbdrhJd7LiA:r14",
       "skKXe2CRl8Q:r11",

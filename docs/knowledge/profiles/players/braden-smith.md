@@ -5,7 +5,7 @@ No NBA stats and no projections in our data.
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 602 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 605 | - | - | - | not drafted |
 
 **Current**
 - He is behind T.J. McConnell at backup guard. He is not in the projected bench rotation of Oubre, Toppin, Huff, McConnell and Jarace Walker. (fact, 2026-10-01; [06-26](https://youtu.be/CLsUc0Sevos?t=981), [10-01](https://youtu.be/EGdhmUgPAWY?t=1308))

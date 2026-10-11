@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 254 | 0 | 0.0 | 156 | not drafted |
+| 2026-27 | 0 | - | 193 | 0 | 0.1 | 155 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,7 +20,7 @@
 | FG% | 43.2% | -0.8 | -0.8 | - |
 | FT% | 82.8% | +0.3 | +0.2 | - |
 | 3PM | 2.5 | +1.2 | +1.1 | - |
-| PTS | 12.6 | -0.2 | -0.3 | - |
+| PTS | 12.6 | -0.3 | -0.3 | - |
 | REB | 2.5 | -1.1 | -1.1 | - |
 | AST | 1.4 | -0.9 | -1.1 | - |
 | STL | 0.5 | -1.3 | -1.4 | - |
@@ -30,22 +30,25 @@
 </details>
 
 **Current**
-- Miami has many guards and wings for the same minutes. Klay Thompson signed there, and one expert expects Ryan Rollins to start next to Tyler Herro, ahead of Kevin Porter Jr., Brandon Boston and Gary Trent Jr. (fact, 2026-09-21; [09-07](https://youtu.be/gJUBAJaHzlU?t=1931), [09-21](https://youtu.be/egRrai3Ax38?t=1767))
-- Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs, but only 10 games in the playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153))
-- Miami lacks ball handlers, so the team has few playmakers to set up a shooter who relies on passes. (fact, 2026-07-23; [07-17](https://youtu.be/NYTH7uQsPCM?t=1757), [06-23](https://youtu.be/nnWX_ObljOE?t=780), [07-23](https://youtu.be/LUTYUdXBG1M?t=1264))
+- Miami's projected starting five is Mitchell, Thompson, Wiggins, Giannis and Bam, so Klay Thompson holds the wing spot Hardaway competes for. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=372))
+- The expert rates him better than Klay Thompson this season, but expects Klay may still get ceremonial minutes, which cuts into Hardaway's role. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1480))
+- The expert is not very interested in him and calls ESPN's rank of 156 too high. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1496))
+- With the March 28 end date, Miami plays a weak 4-3-3 schedule in our fantasy playoff weeks, 10 games in total, and has no back-to-backs in those weeks. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2024), [08-16](https://youtu.be/gf_6GveiAls?t=1153))
+- Miami has the league-minimum 13 back-to-backs this season. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2037), [08-16](https://youtu.be/gf_6GveiAls?t=1153))
 - He signed with Miami as the replacement for Norman Powell. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1499))
-- He could be Miami's fifth starter. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1499))
 
 **Durable**
-- His fantasy value comes from threes and few turnovers. He gives little in steals, rebounds, blocks and assists, and his FG% is below average. (fact, 2026-10-04; stats)
-- He has missed very few games in recent seasons. (fact, 2026-10-04; stats)
-- He is a volume three-point shooter who shoots right away off passes. (fact, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=400))
-- His defense is bad, but he gives good effort. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=400))
+- He is a threes-only player. He makes close to three threes a game but adds almost no steals or assists and little rebounding. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1507), stats)
+- His free throw shooting is good, but his field goal percentage is bad. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1507), stats)
+- He is a volume three-point shooter who fires right away off passes. (fact, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=400))
+- His defense is bad, though he gives good effort. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=400))
 
 **Tags**
-- Current: `new team` (Signed with Miami as the Norman Powell replacement), `minutes competition` (Rollins, Herro, Porter Jr., Trent Jr., Boston and Klay Thompson in the Miami backcourt and wing group), `few back-to-backs` (Miami has 13, the fewest, and none in the fantasy playoffs), `sites disagree on price` (ESPN rank 156, Yahoo rank 254; both value him at 0 USD)
-- Durable: `plays every game` (77 to 80 games in each of the last three seasons), `needs playmaker` (Catch-and-shoot shooter who fires off passes)
+- Current: `new team` (Signed with Miami as the Norman Powell replacement), `minutes competition` (Klay Thompson is the projected starter on the wing), `bad playoff schedule` (Miami 4-3-3, 10 games in weeks 19 to 21), `few back-to-backs` (League-minimum 13, none in the fantasy playoffs)
+- Durable: none
 
-**Note.** Both Yahoo and ESPN value him at 0 USD (ranks 254 and 156), and he was not drafted in our league last season. He is not a draft target in a 144-player auction. He is a threes and low-turnover streamer who can help a punt FG% team that needs 3PM, and Miami's light back-to-back schedule makes him easy to stream. Early in the season, check whether he wins a starting job, since Rollins, Herro, Trent Jr. and Klay Thompson are competing for the same minutes.
+**Note.** Both sites put his value at 0 USD (Yahoo rank 193, ESPN rank 155). The expert says even ESPN's rank is too high, and 144 players get drafted in our league, so he is not a draft target. He is a possible waiver add for threes. He makes about 2.5 threes a game, and his low turnovers and good FT% help a little, but his FG% hurts and he adds little else. Early in the season, check whether he takes starter minutes from Klay Thompson. Also note that Miami has only 10 games in our playoff weeks.
 
-<sub>2 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>Tags removed by the category check: 3PM specialist (3PM z +1.2 vs pool, needs +2.0).</sub>
+
+<sub>5 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

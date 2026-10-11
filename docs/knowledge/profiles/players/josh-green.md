@@ -11,13 +11,13 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 333 | 0 | 0.0 | 318 | not drafted |
+| 2026-27 | 0 | - | 333 | 0 | 0.0 | 319 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 45.9% | -0.1 | +0.2 | - |
+| FG% | 45.9% | -0.1 | +0.1 | - |
 | FT% | 73.7% | -0.1 | -0.3 | - |
 | 3PM | 0.9 | -0.6 | -1.0 | - |
 | PTS | 4.6 | -1.6 | -1.7 | league outlier, weak |
@@ -30,19 +30,20 @@
 </details>
 
 **Current**
-- Utah has a crowded rotation with George, Peterson, Sensabaugh, Bailey, Markkanen and Jackson, and the team plans to win this season. That leaves little room for a reserve wing. (verdict, 2026-08-26; [07-16](https://youtu.be/-y6p5PYLf00?t=1689), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [08-05](https://youtu.be/CI4k8ofUXXk?t=141))
+- He is not a draft target in our 12-team league. Both sites value him at 0 USD and rank him far outside the 144 players drafted. (verdict, 2026-10-11; stats)
+- Experts expect Utah to try to win this season, so a tanking team's late-season minutes for bench players will not be there. (verdict, 2026-09-17; [07-14](https://youtu.be/xHRF06_E9HE?t=872), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [09-10](https://youtu.be/dlo7L8Ru91A?t=973))
+- Utah has a crowded and deeper roster at guard and wing, with George, Peterson, Sensabaugh, Bailey and Markkanen, plus new wing Josh Okogie. (fact, 2026-08-26; [07-16](https://youtu.be/-y6p5PYLf00?t=1689), [07-14](https://youtu.be/xHRF06_E9HE?t=872), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [08-05](https://youtu.be/CI4k8ofUXXk?t=196))
+- Josh Green plays for Utah. The summer notes about his trade to Minnesota and a possible starting role there no longer apply to his current team. (fact, 2026-08-19; [07-01](https://youtu.be/W3THnI7wWdA?t=264), [08-19](https://youtu.be/2mxpEpGU3H8?t=638))
 - Utah's projected starting lineup is Keyonte George, Darryn Peterson, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic. Green is not in it. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=349))
-- He changed teams this offseason in a trade. His current team is Utah. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=264), [06-25](https://youtu.be/ya2VYRJ1BN0?t=296))
 
 **Durable**
-- His points are a league outlier on the weak side. He is a low-usage player who adds little in any counting category. (fact, 2026-10-04; stats)
-- He is a connective wing who adds size. He is not a scorer or creator. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=638), [06-25](https://youtu.be/ya2VYRJ1BN0?t=296))
-- Experts rate him as not a good player. (verdict, 2026-06-25; [06-25](https://youtu.be/ya2VYRJ1BN0?t=296))
+- He scores very little. His projected points are far below the top 250 pool. (fact, 2026-10-11; stats)
+- Experts see him as a connective wing who adds size, not a strong player. (verdict, 2026-08-19; [06-25](https://youtu.be/ya2VYRJ1BN0?t=296), [08-19](https://youtu.be/2mxpEpGU3H8?t=638))
 
 **Tags**
-- Current: `new team` (Traded in the offseason. Now with Utah.), `role down` (Not in Utah's projected starting five, and the rotation is crowded)
+- Current: `new team` (Now on Utah after a summer trade to Minnesota), `deep rotation` (Crowded Utah guard and wing group. He is not in the projected starting five.), `minutes competition` (Competes with George, Peterson, Sensabaugh, Bailey and Okogie for guard and wing minutes)
 - Durable: none
 
-**Note.** Both Yahoo and ESPN value him at 0 USD. His ranks are 333 and 318, far outside the 144 players drafted in our league, so do not draft him. He projects around 4.6 PTS with few turnovers and no category that helps a build. Only watch him on waivers if Utah's crowded rotation thins out and he gets clearly more than his recent 15.6 minutes.
+**Note.** Green is priced at 0 USD on both sites, ranks 333 on Yahoo and 319 on ESPN, and was not drafted in our league last season. Do not draft him. He projects about 4 to 5 points in under 20 minutes, and none of his categories is strong enough for a punt build. Only check waivers if injuries hit Utah's wings and he moves into a starting role.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

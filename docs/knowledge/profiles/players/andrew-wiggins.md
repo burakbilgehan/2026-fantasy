@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 5 | 1.0 | 95 | 3 | 1.3 | 87 | 4 |
+| 2026-27 | 6 | 1.1 | 91 | 4 | 1.5 | 85 | 4 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -24,27 +24,35 @@
 | REB | 4.8 | -0.1 | +0.2 | - |
 | AST | 2.6 | -0.3 | -0.4 | - |
 | STL | 1.1 | +0.4 | +0.3 | - |
-| BLK | 1.0 | +0.8 | +1.6 | - |
+| BLK | 1.0 | +0.7 | +1.6 | - |
 | TO | 1.5 | +0.2 | +0.2 | - |
 
 </details>
 
 **Current**
-- He is a safe, solid pick with little upside and little downside. Experts put him in tier 7 at guard and small forward, rank him above Tobias Harris and Aaron Gordon at power forward, and call him fine around pick 109. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1747), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2412), [09-10](https://youtu.be/dlo7L8Ru91A?t=1846), [09-10](https://youtu.be/W-R1dzem32s?t=1852))
-- Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs, but only 10 games in the fantasy playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153))
-- He signed a 2-year, 64 million USD extension with Miami plus a player option, on top of 30 million USD this season. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1067))
-- He is expected to start for Miami on the wing. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1067), [06-23](https://youtu.be/nnWX_ObljOE?t=870))
-- Miami traded for Giannis Antetokounmpo. Miami lacks ball handlers, so Giannis will handle the ball a lot. (fact, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=780), [06-23](https://youtu.be/nnWX_ObljOE?t=870))
-- His usage was already under 20 before the Giannis trade. (fact, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=881))
-- His usage will probably take a decent hit next to Giannis, a small hit to his value. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=881))
+- Yahoo lists him as questionable (rest). (fact, 2026-10-11; stats)
+- Miami now has Giannis Antetokounmpo, so Wiggins is the third option behind him and Bam Adebayo, after long stretches as the number two option last season. (fact, 2026-10-09; [10-07](https://youtu.be/cvhcheoKdbo?t=986), [06-23](https://youtu.be/nnWX_ObljOE?t=881), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1872))
+- Experts do not want him in the top 100. They see him as fine around pick 107 to 109 and too high at ESPN rank 78. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1872), [10-07](https://youtu.be/cvhcheoKdbo?t=978), [09-30](https://youtu.be/BjXP9JODDSg?t=1747))
+- He is a lock to start for Miami, next to Giannis Antetokounmpo and Bam Adebayo. (fact, 2026-10-07; [07-01](https://youtu.be/W3THnI7wWdA?t=1067), [10-07](https://youtu.be/cvhcheoKdbo?t=372))
+- His usage was already under 20 and should take a hit next to Giannis. Experts expect him to do a bit less this season. (verdict, 2026-10-07; [06-23](https://youtu.be/nnWX_ObljOE?t=881), [10-07](https://youtu.be/cvhcheoKdbo?t=986), [10-05](https://youtu.be/BiIZsSypx7Y?t=3410))
+- His minutes were around 28 to 29 a night over the final couple of months of last season. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1009))
+- Last season he shot 41% from three overall and 47% over the last 20 games. The expert does not expect that shooting to repeat. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1021))
+- He averaged over a steal and a block last season. The expert does not expect that to repeat, especially next to Giannis. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1032))
+- Around pick 120 the expert would rather take upside flyers than Wiggins. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1072))
+- With Giannis on the team, Miami should move away from last season's very high pace and few ball screens. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=115), [10-07](https://youtu.be/cvhcheoKdbo?t=158))
+- Miami has a weak playoff schedule with a March 28 end: 4-3-3, 10 games in weeks 19 to 21. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2024), [08-16](https://youtu.be/gf_6GveiAls?t=1153))
+- Miami has the league-minimum 13 back-to-backs. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2037), [08-16](https://youtu.be/gf_6GveiAls?t=1153))
+- Tier rankings put him in tier seven as a safe pick. One ranks him above Tobias Harris and Aaron Gordon. (verdict, 2026-09-14; [09-10](https://youtu.be/dlo7L8Ru91A?t=1846), [09-10](https://youtu.be/W-R1dzem32s?t=1852), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2412))
+- He signed a 2-year, 64 million extension with Miami plus a player option, on top of 30 million this season. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1067))
 
 **Durable**
-- He has no clearly weak category. His line is a broad mix of threes, points, steals and blocks, and none of his categories is a big outlier. (fact, 2026-10-04; stats)
+- Well-rounded and predictable, with no weak category. Threes, steals and blocks are mild pluses, and blocks are good for his position. (fact, 2026-10-11; stats, [10-05](https://youtu.be/BiIZsSypx7Y?t=3410))
+- Boring, low-ceiling profile with little upside and little downside. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1072), [09-10](https://youtu.be/dlo7L8Ru91A?t=1846), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2412), [09-30](https://youtu.be/BjXP9JODDSg?t=1747))
 
 **Tags**
-- Current: `role down` (usage expected to drop next to Giannis Antetokounmpo), `few back-to-backs` (Miami has the fewest back-to-backs (13), none in the fantasy playoffs)
-- Durable: `fits every build` (no category flagged weak; blocks are good for a wing)
+- Current: `role down` (Third option behind Giannis and Bam), `usage competition` (Giannis Antetokounmpo and Bam Adebayo), `regression risk` (41% from three last season, plus steals and blocks), `bust candidate` (ESPN rank 78), `questionable` (Yahoo Q (Rest)), `bad playoff schedule` (4-3-3, 10 games with March 28 end), `few back-to-backs` (League-minimum 13), `thin rotation` (Miami lost depth and ball handlers), `low shutdown risk` (Stacked East, Miami may not coast)
+- Durable: `fits every build` (No category flagged weak)
 
-**Note.** Yahoo and ESPN rank him in the high 80s to mid 90s, with values of 5 USD and 3 USD and average costs near 1 USD. That makes him a cheap, safe late fill-in for our 144-player draft, and his 4 USD price in our league last season fits that range. He has no weak category, so he slots into any punt build. Early in the season, check how much his usage and shot volume drop next to Giannis, and whether his FG% stays near last season's 47.5%.
+**Note.** Yahoo (rank 91, 6 USD value, 1.1 USD average cost) and ESPN (rank 85, 4 USD value, 1.5 USD average cost) put him a bit higher than the experts, who see him around pick 105 to 110 because his usage drops next to Giannis. With 144 players drafted, he is a 1 to 4 USD safe filler who fits any build. Our league paid 4 USD last season. Do not pay more for him, and early in the season check his minutes, his share of shots next to Giannis, and whether his three-point shooting and steals plus blocks hold up.
 
-<sub>6 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>14 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

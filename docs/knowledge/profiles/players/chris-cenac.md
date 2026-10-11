@@ -7,7 +7,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 661 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 676 | - | 0.0 | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -17,7 +17,7 @@
 | FT% | 65.1% | -0.8 | -0.8 | - |
 | 3PM | 0.3 | -1.4 | -1.7 | - |
 | PTS | 5.8 | -1.4 | -1.5 | - |
-| REB | 4.0 | -0.5 | -0.5 | - |
+| REB | 4.0 | -0.5 | -0.6 | - |
 | AST | 0.8 | -1.3 | -1.3 | - |
 | STL | 0.5 | -1.4 | -1.4 | - |
 | BLK | 0.3 | -0.6 | -0.7 | - |
@@ -26,19 +26,22 @@
 </details>
 
 **Current**
-- Boston is very deep, with at least 12 rotation-level players. He is not in the projected starting five or the projected bench rotation. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133))
-- He is a rookie from the 2026 NBA draft class. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=731), [06-22](https://youtu.be/HxQjagSTTAM?t=624))
-- He probably will not contribute in fantasy this season. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=731))
+- Boston is very deep, with at least 12 rotation-level players. Its projected starting five and five-man bench rotation do not include Cenac. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133))
+- Chris Cenac Jr. is a rookie from the 2026 draft class. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=731), [06-22](https://youtu.be/HxQjagSTTAM?t=624))
+- He is probably not going to contribute in fantasy this season. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=731))
+- In a dynasty re-rank of the 2026 rookie class, he was ranked 22nd. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=731))
+- He is not a draft target in our 144-player auction. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=731), stats)
 
 **Durable**
 - He is very athletic. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=731))
-- He rarely blocked shots in college, with a low block rate for his size and athleticism. He averaged 2.8 blocks per game in Summer League. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=731), [07-23](https://youtu.be/LUTYUdXBG1M?t=2253), [06-22](https://youtu.be/HxQjagSTTAM?t=624))
-- His shot blocking may improve in the NBA, and he has some offensive upside. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2253), [06-22](https://youtu.be/HxQjagSTTAM?t=624))
+- He rarely blocked shots in college. His block rate there was low for his size and athleticism. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=731), [06-22](https://youtu.be/HxQjagSTTAM?t=624))
+- He averaged 2.8 blocks per game in Summer League. That answered some of the concerns about his shot blocking. (fact, 2026-08-02; [07-23](https://youtu.be/LUTYUdXBG1M?t=2253), [08-02](https://youtu.be/TOn-D1SV7a8?t=731))
+- He has some offensive upside. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2253))
 
 **Tags**
-- Current: `rookie` (2026 draft class)
+- Current: `rookie` (2026 draft class, dynasty rookie rank 22), `deep rotation` (Boston has at least 12 rotation-level players, and Cenac is not in the projected 10-man rotation), `minutes competition` (Behind a deep Boston frontcourt and bench)
 - Durable: none
 
-**Note.** Do not draft him. His Yahoo value is 0 USD and his Yahoo rank is 661, far outside the 144 players our league drafts. His Yahoo projection is only 5.8 points, 4.0 rebounds and 0.3 blocks in 60 games, and Boston's deep rotation leaves him no clear minutes. Check him only if injuries open frontcourt minutes in Boston and his Summer League shot blocking carries over to NBA games.
+**Note.** Cenac has a Yahoo value of 0 USD and a Yahoo rank of 676. He was not drafted in our league last season. Yahoo projects 5.8 points and 0.3 blocks per game. With no real role on a 12-deep Boston roster, he should not be drafted in a 144-player auction. Early in the season, only check whether his Summer League shot blocking (2.8 per game) earns him NBA minutes. Otherwise ignore him on waivers.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

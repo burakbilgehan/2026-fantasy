@@ -20,7 +20,7 @@
 | FG% | 46.6% | -0.1 | -0.9 | - |
 | FT% | 84.2% | +0.2 | +0.9 | - |
 | 3PM | 0.7 | -0.9 | -0.1 | - |
-| PTS | 5.9 | -1.4 | -1.2 | - |
+| PTS | 5.9 | -1.4 | -1.3 | - |
 | REB | 3.6 | -0.7 | -1.7 | - |
 | AST | 0.7 | -1.3 | -1.1 | - |
 | STL | 0.4 | -1.7 | -1.5 | league outlier, weak |
@@ -30,20 +30,21 @@
 </details>
 
 **Current**
-- Bryant is Cleveland's only backup big behind Evan Mobley and Jarrett Allen. Behind him on the depth chart are only Ernest Udeh Jr. and Khalifa Diop. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1500), [08-24](https://youtu.be/rnq3118kfhY?t=1342), [07-01](https://youtu.be/W3THnI7wWdA?t=1078), [09-29](https://youtu.be/NmdNvAz08oE?t=1534), [08-24](https://youtu.be/rnq3118kfhY?t=1222))
-- He is projected as the 10th man in the rotation. Center depth is so poor that he should play most nights. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1500), [09-29](https://youtu.be/NmdNvAz08oE?t=1774))
-- He is a stash in deep leagues only. If both Allen and Mobley were out, he could be a top 50 to 60 player. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1774))
-- With a March 28 end, Cleveland plays 4, 3 and then 2 games in the fantasy playoff weeks, so the finals week has only two games. Cleveland also has the most back-to-backs in the league. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [09-29](https://youtu.be/NmdNvAz08oE?t=1907), [08-16](https://youtu.be/gf_6GveiAls?t=930), [08-16](https://youtu.be/gf_6GveiAls?t=1536))
-- Cleveland lost Dean Wade, so the team no longer has a small-ball five option behind its two starting bigs. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1222), [08-24](https://youtu.be/rnq3118kfhY?t=329))
+- Bryant is back in Cleveland as the backup center behind Jarrett Allen and Evan Mobley. He is the only backup big. Ernest Udeh Jr. and Khalifa Diop are behind him. (fact, 2026-09-29; [07-01](https://youtu.be/W3THnI7wWdA?t=1078), [08-24](https://youtu.be/rnq3118kfhY?t=1342), [09-29](https://youtu.be/NmdNvAz08oE?t=1500), [09-29](https://youtu.be/NmdNvAz08oE?t=1534), [08-24](https://youtu.be/rnq3118kfhY?t=1222))
+- The expert projects him as the 10th man in the rotation. He expects him to play most nights because Cleveland's center depth is so poor. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1500), [09-29](https://youtu.be/NmdNvAz08oE?t=1774))
+- He is only a stash in roto, weekly, deep bench and games-cap leagues. If both Allen and Mobley were out, he could be a top 50 to 60 player. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1774))
+- Cleveland has the most back-to-backs in the league. With a March 28 end, they play 4, 3 and 2 games in the fantasy playoff weeks, so the finals week has only two games. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [09-29](https://youtu.be/NmdNvAz08oE?t=1907), [08-16](https://youtu.be/gf_6GveiAls?t=930), [08-16](https://youtu.be/gf_6GveiAls?t=1536))
+- Cleveland lost Dean Wade, which removes its small-ball center option. The team may still close games with Mobley at center. (fact, 2026-09-14; [08-24](https://youtu.be/rnq3118kfhY?t=1222), [09-14](https://youtu.be/t4n9MAP2_14?t=1684))
+- One expert projects Cleveland for about 51 to 53 wins. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1832))
 
 **Durable**
-- His steals are very low, even for his small role. (fact, 2026-10-04; stats)
-- Experts call him a bad player in real life. He is inconsistent, his shooting is bad and his defense is weak at times. He still puts up fantasy value when he gets minutes. (verdict, 2026-09-29; [08-24](https://youtu.be/rnq3118kfhY?t=1342), [07-01](https://youtu.be/W3THnI7wWdA?t=1078), [09-29](https://youtu.be/NmdNvAz08oE?t=1500), [09-29](https://youtu.be/NmdNvAz08oE?t=1774))
+- Steals are a clear weakness. He gets about 0.4 per game in his small role. (fact, 2026-10-11; stats)
+- Experts call him a bad real-life player: inconsistent, with bad shooting and weak defense at times. Even so, he puts up fantasy value when he plays. (verdict, 2026-09-29; [08-24](https://youtu.be/rnq3118kfhY?t=1342), [07-01](https://youtu.be/W3THnI7wWdA?t=1078), [09-29](https://youtu.be/NmdNvAz08oE?t=1500), [09-29](https://youtu.be/NmdNvAz08oE?t=1774))
 
 **Tags**
-- Current: `handcuff` (Only backup big behind Allen and Mobley. Could be a top 50 to 60 player if both are out.), `waiver watch` (Pick up if Allen or Mobley misses time.), `bad playoff schedule` (4, 3 and 2 games in weeks 19 to 21. Two-game finals week.)
+- Current: `handcuff` (Top 50 to 60 upside if both Jarrett Allen and Evan Mobley are out), `waiver watch` (Only a stash in deep or weekly formats. In our league, a pickup if Allen or Mobley gets hurt), `thin rotation` (Only backup big behind Mobley and Allen), `many back-to-backs` (Cleveland has the most back-to-backs in the league), `bad playoff schedule` (4, 3, 2 games with a March 28 end; two-game finals week), `winning team` (Projected for about 51 to 53 wins)
 - Durable: none
 
-**Note.** Both sites value him at 0 USD and rank him around 300, so he will not be drafted in our 144-player auction. In 12 teams he is a waiver handcuff for Allen and Mobley, and his value jumps only if one or both of them miss time. Check how many minutes he gets each night early in the season. Do not plan on him for the playoffs, because Cleveland plays only 2 games in the finals week.
+**Note.** Both Yahoo and ESPN value him at 0 USD and rank him around 300. With 144 players drafted, he is not a pick in our 12-team auction. Leave him on waivers and watch Allen's and Mobley's health. He is the only backup big, so an injury to either would give him real minutes, and the expert sees top 50 to 60 upside if both are out.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

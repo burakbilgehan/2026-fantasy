@@ -8,14 +8,14 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "80d455d58763",
- "note_count": 37,
- "built_at": "2026-10-05T19:50:18+00:00",
+ "input_sha": "ea7fbc4580ad",
+ "note_count": 48,
+ "built_at": "2026-10-11T09:17:40+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.23847020000000002,
-  "duration_ms": 69955,
+  "cost_usd_list": 0.32545419999999997,
+  "duration_ms": 102292,
   "turns": 2,
   "denied": 0
  },
@@ -32,55 +32,124 @@
    ]
   },
   {
-   "text": "He played basically as a point guard in Miami's first preseason game.",
+   "text": "Miami lacks other ball handlers. He played basically as a point guard in Miami's first preseason game.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
    "sources": [
+    "nnWX_ObljOE:t4",
+    "NYTH7uQsPCM:t5",
     "n4KkK-OJjqA:p0"
    ]
   },
   {
-   "text": "Miami lost a lot of depth and ball handlers in its trades.",
+   "text": "It is still open whether Miami starts a traditional point guard or lets him run point. Davion Mitchell may not close games.",
    "kind": "fact",
-   "date": "2026-07-23",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "NYTH7uQsPCM:t5",
-    "nnWX_ObljOE:t4",
-    "nnWX_ObljOE:t6",
-    "LUTYUdXBG1M:t1"
+    "cvhcheoKdbo:t3",
+    "-DN4P92Wp8Y:t9"
    ]
   },
   {
-   "text": "With few other creators in Miami, he should handle the ball a lot, keep high usage and raise his assist rate.",
+   "text": "Experts expect 32 to 33 minutes a game and high usage as Miami's main creator.",
    "kind": "verdict",
-   "date": "2026-07-13",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
-    "nnWX_ObljOE:p4",
-    "nnWX_ObljOE:t4",
-    "Rqb5GdrSweY:p3"
-   ]
-  },
-  {
-   "text": "He is expected to play 32 to 33 minutes in Miami, up from 29, unless he gets hurt again.",
-   "kind": "verdict",
-   "date": "2026-07-13",
-   "until": "",
-   "sources": [
+    "cvhcheoKdbo:p0",
     "nnWX_ObljOE:p3",
     "Rqb5GdrSweY:p3"
    ]
   },
   {
-   "text": "His fantasy value is safe and probably rises after the trade. The extra minutes may offset the usual first-year adjustment after a team change.",
+   "text": "His assist rate should rise because no one else on Miami handles the ball.",
    "kind": "verdict",
    "date": "2026-06-23",
    "until": "",
    "sources": [
-    "nnWX_ObljOE:p5",
-    "nnWX_ObljOE:p6"
+    "nnWX_ObljOE:p4"
+   ]
+  },
+  {
+   "text": "Experts expect over 60 games, but not 70.",
+   "kind": "verdict",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:p0",
+    "LM0cRCGoAUQ:p2"
+   ]
+  },
+  {
+   "text": "Experts are not very worried about last season's calf injuries and missed games, since some came while the Bucks were tanking. A new calf issue would be a concern.",
+   "kind": "verdict",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:p6",
+    "t4n9MAP2_14:p3",
+    "n4KkK-OJjqA:p0"
+   ]
+  },
+  {
+   "text": "Yahoo lists him as questionable (rest).",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Experts call him the clear 5th pick in category leagues and say he should not fall past pick 5.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p2",
+    "cvhcheoKdbo:p1",
+    "cvhcheoKdbo:p2",
+    "n4KkK-OJjqA:p0",
+    "BjXP9JODDSg:p2",
+    "ahNxsoU8Hx4:p0",
+    "t4n9MAP2_14:p3",
+    "LM0cRCGoAUQ:p1",
+    "E-KmhvyZ2CU:p0",
+    "J1Eg3uaAICU:p8",
+    "Rqb5GdrSweY:p4",
+    "2A2JbUN-kc0:p5"
+   ]
+  },
+  {
+   "text": "Getting him at pick 6 to 8 is strong value.",
+   "kind": "verdict",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:p5",
+    "OdDkXFhoKsc:p4"
+   ]
+  },
+  {
+   "text": "Experts call his ESPN rank of about 20 egregious. At worst he is a top 9 player.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p2",
+    "cvhcheoKdbo:p2",
+    "ahNxsoU8Hx4:p2"
+   ]
+  },
+  {
+   "text": "An expert prices him at about 60 USD in auctions. He went for 58 USD in a mock, about where he should sit.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p15"
    ]
   },
   {
@@ -93,120 +162,83 @@
    ]
   },
   {
-   "text": "Experts see him as about the 5th pick in category leagues and say the market still undervalues him.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p0",
-    "BjXP9JODDSg:p2",
-    "ahNxsoU8Hx4:p0",
-    "2A2JbUN-kc0:p5",
-    "t4n9MAP2_14:p3",
-    "LM0cRCGoAUQ:p1",
-    "E-KmhvyZ2CU:p0",
-    "J1Eg3uaAICU:p8",
-    "J1Eg3uaAICU:p9",
-    "Rqb5GdrSweY:p4",
-    "OdDkXFhoKsc:p4"
-   ]
-  },
-  {
-   "text": "ESPN's category rank of 20 makes no sense to one expert. He says Giannis is at worst 9th.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "ahNxsoU8Hx4:p2"
-   ]
-  },
-  {
-   "text": "In an auction mock draft he went for 58 USD, about where the expert thinks he should sit. The expert expected about 60 USD.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p15"
-   ]
-  },
-  {
-   "text": "At least 15 of the games he missed last season came while the Bucks were tanking.",
+   "text": "Miami has the league-fewest 13 back-to-backs and none in the fantasy playoffs.",
    "kind": "fact",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "t4n9MAP2_14:p3"
-   ]
-  },
-  {
-   "text": "Experts disagree on his health risk this season. One does not expect 70 games. Others have only mild injury worry.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:p2",
-    "t4n9MAP2_14:p3",
-    "n4KkK-OJjqA:p0",
-    "2A2JbUN-kc0:p5"
-   ]
-  },
-  {
-   "text": "Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs, but only 10 games in the playoff weeks.",
-   "kind": "fact",
-   "date": "2026-08-16",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
     "gf_6GveiAls:p20",
+    "cvhcheoKdbo:t6",
     "gf_6GveiAls:t7"
    ]
   },
   {
-   "text": "Miami's depth is poor, so a Giannis injury would end their season.",
+   "text": "Nothing points to him sitting back-to-backs. He may sit one or two.",
    "kind": "verdict",
-   "date": "2026-06-23",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
-    "nnWX_ObljOE:t6",
-    "nnWX_ObljOE:t7"
+    "cvhcheoKdbo:p7"
+   ]
+  },
+  {
+   "text": "With the March 28 end, Miami plays 4, 3 and 3 games in weeks 19 to 21, 10 games in total.",
+   "kind": "fact",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:t5",
+    "gf_6GveiAls:t7"
+   ]
+  },
+  {
+   "text": "The expert calls Miami's playoff schedule weak.",
+   "kind": "verdict",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:t5"
+   ]
+  },
+  {
+   "text": "The East is very stacked, so Miami may not be able to coast and rest players for long stretches.",
+   "kind": "verdict",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:t7"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He has elite FG% on high volume and leads the league in FG% impact.",
+   "text": "He is an elite FG% source on high volume, around 61 to 62% on 18 to 19 attempts a game.",
    "kind": "fact",
    "date": "2026-07-07",
    "until": "",
    "sources": [
+    "stats",
     "ME-r173X5b0:p36",
-    "nnWX_ObljOE:p2",
-    "stats"
+    "nnWX_ObljOE:p2"
    ]
   },
   {
-   "text": "He is a strong scorer and rebounder, with guard-like assists for a forward.",
+   "text": "He shoots about 65% from the line on high volume, the worst FT impact in the league.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He is a bad free throw shooter on high volume, with the worst FT impact in the league.",
-   "kind": "fact",
-   "date": "2026-07-16",
-   "until": "",
-   "sources": [
+    "stats",
     "ME-r173X5b0:p36",
     "nnWX_ObljOE:p2",
-    "C4vlgpJ62NI:p20",
     "-y6p5PYLf00:p2",
-    "stats"
+    "cvhcheoKdbo:p4",
+    "6DnRWahYrFA:p3",
+    "C4vlgpJ62NI:p20"
    ]
   },
   {
-   "text": "His FT% will probably stay bad, though a random 70% season would not be crazy.",
+   "text": "He will probably stay a bad free throw shooter, though a random 70% season would not be crazy.",
    "kind": "verdict",
    "date": "2026-08-09",
    "until": "",
@@ -216,36 +248,71 @@
    ]
   },
   {
-   "text": "He makes few threes. He shot 33% from three last season on low volume.",
+   "text": "Drafting him points to a punt FT% build. Do not chase free throws around him.",
+   "kind": "verdict",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "E-KmhvyZ2CU:p1",
+    "eTsjuVu1trk:p35",
+    "cvhcheoKdbo:p4",
+    "n4KkK-OJjqA:p1"
+   ]
+  },
+  {
+   "text": "He makes very few threes and is not a good shooter from deep.",
    "kind": "fact",
    "date": "2026-09-23",
    "until": "",
    "sources": [
-    "-y6p5PYLf00:p2",
+    "stats",
+    "nnWX_ObljOE:p2",
     "C4vlgpJ62NI:p20",
-    "nnWX_ObljOE:p2"
-   ]
-  },
-  {
-   "text": "Experts do not see him as a good shooter from three.",
-   "kind": "verdict",
-   "date": "2026-07-16",
-   "until": "",
-   "sources": [
     "-y6p5PYLf00:p2"
    ]
   },
   {
-   "text": "He turns the ball over a lot.",
-   "kind": "fact",
-   "date": "2026-10-05",
+   "text": "Threes are easy to recover elsewhere, so drafting him does not mean punting three categories.",
+   "kind": "verdict",
+   "date": "2026-09-23",
    "until": "",
    "sources": [
-    "stats"
+    "C4vlgpJ62NI:p20",
+    "ahNxsoU8Hx4:p1"
    ]
   },
   {
-   "text": "His steals and blocks have been declining steadily, and they may not come back.",
+   "text": "He commits many turnovers, a negative in our TO category.",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "stats",
+    "6DnRWahYrFA:p3"
+   ]
+  },
+  {
+   "text": "He is a top scorer and double-digit rebounder with guard-like assists for a forward.",
+   "kind": "fact",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "stats",
+    "cvhcheoKdbo:p3"
+   ]
+  },
+  {
+   "text": "His steals and blocks have declined steadily from his peak.",
+   "kind": "fact",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "nnWX_ObljOE:p1",
+    "cvhcheoKdbo:p3"
+   ]
+  },
+  {
+   "text": "Experts are not sure his steals and blocks will come back.",
    "kind": "verdict",
    "date": "2026-06-23",
    "until": "",
@@ -254,19 +321,18 @@
    ]
   },
   {
-   "text": "Drafting him means building a punt FT% team. It does not mean punting threes too, because threes are easy to make up elsewhere.",
-   "kind": "verdict",
-   "date": "2026-10-04",
+   "text": "He has a long injury history, with persistent knee problems and calf injuries last season.",
+   "kind": "fact",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
-    "E-KmhvyZ2CU:p1",
-    "ahNxsoU8Hx4:p1",
-    "C4vlgpJ62NI:p20",
-    "n4KkK-OJjqA:p1"
+    "LM0cRCGoAUQ:p2",
+    "t4n9MAP2_14:p3",
+    "cvhcheoKdbo:p0"
    ]
   },
   {
-   "text": "Plain nine-cat rankings rate him too low because of his free throws. His real H2H impact is huge once you punt FT%.",
+   "text": "Plain 9-cat rankings undervalue him because of his free throws. His real H2H impact is huge, and punting a category is viable.",
    "kind": "verdict",
    "date": "2026-09-16",
    "until": "",
@@ -276,23 +342,13 @@
    ]
   },
   {
-   "text": "He has a long injury history, with persistent knee problems and a calf injury last season.",
-   "kind": "fact",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:p2",
-    "t4n9MAP2_14:p3"
-   ]
-  },
-  {
-   "text": "His age is a concern for his health and games played.",
+   "text": "Experts list his age as a concern.",
    "kind": "verdict",
    "date": "2026-09-16",
    "until": "",
    "sources": [
-    "2A2JbUN-kc0:p5",
-    "t4n9MAP2_14:p3"
+    "t4n9MAP2_14:p3",
+    "2A2JbUN-kc0:p5"
    ]
   }
  ],
@@ -300,77 +356,94 @@
   {
    "name": "FG% anchor",
    "channel": "durable",
-   "detail": "About 62% on 18 to 19 attempts per game",
-   "until": "",
-   "sources": [
-    "ME-r173X5b0:p36",
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "PTS specialist",
-   "channel": "durable",
-   "detail": "About 31 points per game projected",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "REB specialist",
-   "channel": "durable",
-   "detail": "About 11 rebounds per game projected",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "AST from a big",
-   "channel": "durable",
-   "detail": "About 6.3 assists, used as a point guard in Miami",
+   "detail": "about 62% on 18 to 19 attempts",
    "until": "",
    "sources": [
     "stats",
-    "n4KkK-OJjqA:p0",
-    "nnWX_ObljOE:p4"
+    "ME-r173X5b0:p36",
+    "nnWX_ObljOE:p2"
    ],
    "new_meaning": ""
   },
   {
    "name": "FT% liability",
    "channel": "durable",
-   "detail": "About 64% on 10 to 11 attempts per game, worst FT impact in the league",
+   "detail": "about 64% on 10 to 11 attempts, worst FT impact",
    "until": "",
    "sources": [
+    "stats",
     "ME-r173X5b0:p36",
-    "8d--aL_xxwE:p12",
-    "stats"
+    "nnWX_ObljOE:p2"
    ],
    "new_meaning": ""
   },
   {
    "name": "high TO",
    "channel": "durable",
-   "detail": "About 3.5 turnovers per game",
+   "detail": "3.3 to 3.7 a game projected",
    "until": "",
    "sources": [
-    "stats"
+    "stats",
+    "6DnRWahYrFA:p3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "PTS specialist",
+   "channel": "durable",
+   "detail": "about 30 points a game",
+   "until": "",
+   "sources": [
+    "stats",
+    "cvhcheoKdbo:p3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "REB specialist",
+   "channel": "durable",
+   "detail": "double-digit rebounder",
+   "until": "",
+   "sources": [
+    "stats",
+    "cvhcheoKdbo:p3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "AST from a big",
+   "channel": "durable",
+   "detail": "about 6 to 7 assists, may run point in Miami",
+   "until": "",
+   "sources": [
+    "stats",
+    "nnWX_ObljOE:p4",
+    "n4KkK-OJjqA:p0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "about 0.4 threes a game",
+   "until": "",
+   "sources": [
+    "stats",
+    "nnWX_ObljOE:p2",
+    "C4vlgpJ62NI:p20"
    ],
    "new_meaning": ""
   },
   {
    "name": "punt FT fit",
    "channel": "durable",
-   "detail": "The anchor of a punt FT% build",
+   "detail": "the anchor of punt FT% builds",
    "until": "",
    "sources": [
+    "stats",
     "E-KmhvyZ2CU:p1",
-    "n4KkK-OJjqA:p1",
-    "stats"
+    "eTsjuVu1trk:p35",
+    "cvhcheoKdbo:p4"
    ],
    "new_meaning": ""
   },
@@ -380,49 +453,27 @@
    "detail": "",
    "until": "",
    "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "no 3PM",
-   "channel": "durable",
-   "detail": "About 0.4 threes per game",
-   "until": "",
-   "sources": [
-    "C4vlgpJ62NI:p20",
-    "-y6p5PYLf00:p2",
-    "stats"
+    "stats",
+    "6DnRWahYrFA:p3"
    ],
    "new_meaning": ""
   },
   {
    "name": "elite per game",
    "channel": "durable",
-   "detail": "Top 5 category value per game; games played is the question",
+   "detail": "clear pick 5 in category leagues; games played is the question",
    "until": "",
    "sources": [
-    "n4KkK-OJjqA:p0",
-    "LM0cRCGoAUQ:p2",
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "undervalued by 9-cat",
-   "channel": "durable",
-   "detail": "Plain 9-cat ranks drag him down for FT%",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:p0",
-    "2A2JbUN-kc0:p6"
+    "cvhcheoKdbo:p1",
+    "LM0cRCGoAUQ:p1",
+    "LM0cRCGoAUQ:p2"
    ],
    "new_meaning": ""
   },
   {
    "name": "injury prone",
    "channel": "durable",
-   "detail": "Persistent knee problems, calf injury last season",
+   "detail": "persistent knee problems, calf injuries last season",
    "until": "",
    "sources": [
     "LM0cRCGoAUQ:p2",
@@ -433,31 +484,54 @@
   {
    "name": "age decline watch",
    "channel": "durable",
-   "detail": "Experts list age as a concern",
+   "detail": "experts name age as a concern",
    "until": "",
    "sources": [
-    "2A2JbUN-kc0:p5",
-    "t4n9MAP2_14:p3"
+    "t4n9MAP2_14:p3",
+    "2A2JbUN-kc0:p5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "undervalued by 9-cat",
+   "channel": "durable",
+   "detail": "FT% drag lowers 9-cat and roto ranks",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p0",
+    "2A2JbUN-kc0:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "36 games, under 29 minutes, calf injuries",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:p0",
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "new team",
    "channel": "current",
-   "detail": "Traded from Milwaukee to Miami",
+   "detail": "traded from Milwaukee to Miami",
    "until": "",
    "sources": [
     "nnWX_ObljOE:p0",
-    "J1Eg3uaAICU:p8"
+    "TiiaNZCJNs8:p24"
    ],
    "new_meaning": ""
   },
   {
    "name": "role up",
    "channel": "current",
-   "detail": "32 to 33 minutes expected, up from 29; main ball handler",
+   "detail": "32 to 33 minutes expected, more ball handling and assists",
    "until": "",
    "sources": [
+    "cvhcheoKdbo:p0",
     "nnWX_ObljOE:p3",
     "nnWX_ObljOE:p4",
     "Rqb5GdrSweY:p3"
@@ -465,13 +539,11 @@
    "new_meaning": ""
   },
   {
-   "name": "injury last season",
+   "name": "questionable",
    "channel": "current",
-   "detail": "36 games, calf injury, some games missed during the Bucks tank",
+   "detail": "Yahoo status Q (Rest)",
    "until": "",
    "sources": [
-    "LM0cRCGoAUQ:p2",
-    "t4n9MAP2_14:p3",
     "stats"
    ],
    "new_meaning": ""
@@ -479,62 +551,59 @@
   {
    "name": "expert target",
    "channel": "current",
-   "detail": "Experts call him the 5th pick in categories; ESPN ranks him 20th",
+   "detail": "experts take him at pick 5; ESPN ranks him about 20",
    "until": "",
    "sources": [
-    "n4KkK-OJjqA:p0",
-    "ahNxsoU8Hx4:p2",
-    "E-KmhvyZ2CU:p0"
+    "6DnRWahYrFA:p2",
+    "cvhcheoKdbo:p2",
+    "ahNxsoU8Hx4:p2"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo value 55 USD and rank 6, ESPN value 40 USD and rank 20",
+   "detail": "Yahoo rank 6 and value 55 USD vs ESPN rank 19 and value 41 USD",
    "until": "",
    "sources": [
     "stats",
-    "ahNxsoU8Hx4:p2"
+    "cvhcheoKdbo:p2"
    ],
    "new_meaning": ""
   },
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "Miami has the fewest in the league (13)",
+   "detail": "Miami has the league-fewest 13",
    "until": "",
    "sources": [
     "gf_6GveiAls:p20",
+    "cvhcheoKdbo:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "4-3-3, 10 games in weeks 19 to 21, but no back-to-backs",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:t5",
     "gf_6GveiAls:t7"
    ],
    "new_meaning": ""
   },
   {
-   "name": "good playoff schedule",
+   "name": "low shutdown risk",
    "channel": "current",
-   "detail": "No back-to-backs in the fantasy playoffs, but only 10 games",
+   "detail": "stacked East, Miami may not be able to coast",
    "until": "",
    "sources": [
-    "gf_6GveiAls:p20",
-    "gf_6GveiAls:t7"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "thin rotation",
-   "channel": "current",
-   "detail": "Miami lost depth and ball handlers",
-   "until": "",
-   "sources": [
-    "nnWX_ObljOE:t6",
-    "nnWX_ObljOE:t7",
-    "NYTH7uQsPCM:t5",
-    "LUTYUdXBG1M:t1"
+    "cvhcheoKdbo:t7"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Giannis is a top-5 category asset if you punt FT%. His FG%, points, rebounds and big-man assists carry a build that gives up FT% and turnovers. Expect to pay about 58 to 62 USD: he went for 58 USD in an expert auction mock, Yahoo's average cost is 58.8 USD and he went for 62 USD in our league last season. Ignore ESPN's 40 USD value and rank of 20, which experts call wrong. Early in the season, check that he plays 32 or more minutes as Miami's main ball handler, and watch his knee and calf, because Miami's thin roster gives no cover if he misses games.",
+ "note": "Experts call him a clear top 5 pick in category leagues. Yahoo values him at 55 USD with an average cost of 60.8 USD, he went for 62 USD in our auction last season, and an expert puts him at about 60 USD, so plan to spend around 60 to 62 USD. ESPN's rank of 19 is widely called too low. If you buy him, build around punting FT% and accept the turnovers. In return you get elite FG%, points, rebounds and assists from a forward. Early in the season, check that he gets the 32 to 33 minutes experts expect, that he handles the ball, and that his calf stays healthy. Miami's weak 4-3-3 playoff schedule (10 games) is a small minus, but the team has no back-to-backs in those weeks.",
  "rejected": []
 }

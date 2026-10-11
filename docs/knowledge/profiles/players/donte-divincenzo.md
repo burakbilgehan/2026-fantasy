@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 251 | 0 | 0.0 | 348 | 1 |
+| 2026-27 | 0 | - | 252 | 0 | 0.0 | 348 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,7 +19,7 @@
 |---|---|---|---|---|
 | FG% | 42.2% | -0.8 | -0.8 | - |
 | FT% | 75.0% | -0.2 | -0.4 | - |
-| 3PM | 2.4 | +1.0 | +1.0 | - |
+| 3PM | 2.4 | +1.0 | +0.9 | - |
 | PTS | 10.1 | -0.7 | -0.7 | - |
 | REB | 3.1 | -0.8 | -0.8 | - |
 | AST | 2.9 | -0.2 | -0.2 | - |
@@ -30,18 +30,19 @@
 </details>
 
 **Current**
-- He has an Achilles injury and is out until at least about March 2027, so he will miss most of the season. Yahoo lists him as out. (fact, 2026-10-05, until about March 2027; [08-19](https://youtu.be/2mxpEpGU3H8?t=517), [06-22](https://youtu.be/HxQjagSTTAM?t=883), stats)
-- Minnesota has a two-game week in the matchup that starts March 15. That is week 20 of our fantasy playoffs, which is also around when he could return. (fact, 2026-09-22; [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
+- He is out with a torn Achilles until at least about March, so he will miss most of the season. (fact, 2026-10-09, until about March 2027; [10-09](https://youtu.be/cFV24VgxyCY?t=1741), [08-19](https://youtu.be/2mxpEpGU3H8?t=517), [06-23](https://youtu.be/9tb1ARBEmQU?t=753), [06-22](https://youtu.be/HxQjagSTTAM?t=883))
+- He is expected to return around March on a minutes limit. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1741))
+- Do not draft him. He will not matter in any fantasy league this season. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1741))
+- With a March 28 end, Minnesota plays 4, 2 and 4 games in the fantasy playoff weeks, so the semifinal week has only two games. This falls in the only part of the season he may play. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1878), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-16](https://youtu.be/gf_6GveiAls?t=1635))
 
 **Durable**
-- Experts see him as a fairly consistent shooter. Threes are his best category. (verdict, 2026-10-05; [07-01](https://youtu.be/W3THnI7wWdA?t=859), stats)
-- Injury history: an Achilles injury in 2026 that costs him most of the 2026-27 season. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=517), [06-23](https://youtu.be/9tb1ARBEmQU?t=753))
-- His fantasy value depends on getting minutes and decent usage. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=859))
+- He tore his Achilles in the 2026 NBA playoffs. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1741), [06-23](https://youtu.be/9tb1ARBEmQU?t=753))
+- His fantasy value depends on getting minutes and decent usage. He shoots well fairly consistently. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=859))
 
 **Tags**
-- Current: `injured now` (Achilles, out until at least about March 2027; until about March 2027), `bad playoff schedule` (Minnesota plays only two games in the week starting March 15 (our week 20))
-- Durable: `usage dependent` (value needs minutes and decent usage)
+- Current: `injured now` (Torn Achilles, Yahoo status O; until about March 2027), `minutes limit` (Expected on his return from the Achilles tear around March), `bad playoff schedule` (Minnesota plays 4, 2, 4 in weeks 19 to 21, with a two-game semifinal week)
+- Durable: `usage dependent` (Needs minutes and decent usage to hold value)
 
-**Note.** Both Yahoo and ESPN value him at 0 USD (ranks 251 and 348), and he cost 1 USD in our league's last auction. The Achilles injury keeps him out until about March. Even when healthy, his projected line is mostly threes with below-average FG%, points, rebounds and blocks. Do not draft him in our 144-player auction. Watch for news on his return date in the second half of the season. A two-game week in our week 20 limits how much he could help in the playoffs.
+**Note.** Do not spend a pick or a dollar on him in our 144-player auction. Both sites value him at 0 USD (Yahoo rank 252, ESPN rank 348), and he went for 1 USD in our league last season. Watch the news around March: if he comes back, it will be on a minutes limit and right before a two-game semifinal week, so at most he is a late waiver pickup for 3PM and steals in deep weeks.
 
-<sub>4 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

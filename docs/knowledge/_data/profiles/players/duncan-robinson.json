@@ -8,30 +8,31 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "731d7dd00375",
+ "input_sha": "cf97e8b22f6c",
  "note_count": 6,
- "built_at": "2026-10-05T19:48:46+00:00",
+ "built_at": "2026-10-11T09:16:05+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1957356,
-  "duration_ms": 40665,
+  "cost_usd_list": 0.1743344,
+  "duration_ms": 33291,
   "turns": 3,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is projected to start at shooting guard, in the same starting five as last season: Cunningham, Robinson, Thompson, Collins and Duren.",
+   "text": "He is projected to start at shooting guard in the same starting five as last season, with Cunningham, Thompson, Collins and Duren.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
+    "_O9pc_u5vH0:t0",
     "p9XE5jFqhvs:p20",
-    "_O9pc_u5vH0:t0"
+    "p9XE5jFqhvs:t0"
    ]
   },
   {
-   "text": "He is likely safe as a starter, but the expert expects a part-time starter's load of about 24 to 25 minutes.",
+   "text": "His starting spot looks safe, but he may be a half starter who plays only about 24 to 25 minutes.",
    "kind": "verdict",
    "date": "2026-10-03",
    "until": "",
@@ -40,7 +41,7 @@
    ]
   },
   {
-   "text": "Detroit used a deep 12 to 13 player rotation last season that limited everyone's minutes.",
+   "text": "Detroit used a deep 12 to 13 player rotation last season, which limited everyone's minutes.",
    "kind": "fact",
    "date": "2026-08-12",
    "until": "",
@@ -49,65 +50,48 @@
    ]
   },
   {
-   "text": "The expert says he is only worth drafting in 20-team leagues and puts his fair ADP around 239. Site ranks are too high.",
+   "text": "He is not a draft target. The expert calls him a streaming option for threes, worth drafting only in 20-team leagues, with an ADP around 239 about right.",
    "kind": "verdict",
    "date": "2026-10-03",
    "until": "",
    "sources": [
-    "_O9pc_u5vH0:p20"
-   ]
-  },
-  {
-   "text": "He is a streaming option for threes, not a draft target.",
-   "kind": "verdict",
-   "date": "2026-10-03",
-   "until": "",
-   "sources": [
+    "_O9pc_u5vH0:p20",
     "_O9pc_u5vH0:p22"
    ]
   },
   {
-   "text": "Detroit's playoff schedule is 4-3-4 games in weeks 19 to 21. The team has 15 back-to-backs, and no rest risks are expected.",
+   "text": "Detroit plays 4-3-4 games in our playoff weeks (season ending March 28). It has 15 back-to-backs, and no rest risks are expected.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
     "_O9pc_u5vH0:t6"
    ]
-  },
-  {
-   "text": "Detroit is projected to win 50 to 51 games and finish as the third or fourth seed in the East.",
-   "kind": "verdict",
-   "date": "2026-08-12",
-   "until": "",
-   "sources": [
-    "p9XE5jFqhvs:t3"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is an elite three-point shooter. Threes are his clear best category.",
-   "kind": "verdict",
-   "date": "2026-10-05",
+   "text": "He is an elite three-point shooter.",
+   "kind": "fact",
+   "date": "2026-08-12",
    "until": "",
    "sources": [
-    "p9XE5jFqhvs:p21",
+    "p9XE5jFqhvs:p21"
+   ]
+  },
+  {
+   "text": "His usage is low, and he adds little besides threes.",
+   "kind": "verdict",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:p21",
     "stats"
    ]
   },
   {
-   "text": "His usage is low and he gives little besides threes.",
-   "kind": "verdict",
-   "date": "2026-10-03",
-   "until": "",
-   "sources": [
-    "_O9pc_u5vH0:p21"
-   ]
-  },
-  {
    "text": "His defense and passing have improved a lot.",
-   "kind": "verdict",
+   "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
@@ -115,9 +99,9 @@
    ]
   },
   {
-   "text": "He takes very few free throws, so his FT% barely moves a team's FT%.",
+   "text": "He takes very few free throws, so his FT% swings from year to year but barely moves a team's FT%.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-08-12",
    "until": "",
    "sources": [
     "p9XE5jFqhvs:p21",
@@ -129,7 +113,7 @@
   {
    "name": "waiver watch",
    "channel": "current",
-   "detail": "streaming option for threes, not a draft target in 12-team leagues",
+   "detail": "Streaming option for threes, not a draft target in 12-team leagues",
    "until": "",
    "sources": [
     "_O9pc_u5vH0:p20",
@@ -140,35 +124,15 @@
   {
    "name": "deep rotation",
    "channel": "current",
-   "detail": "Detroit used a 12 to 13 player rotation last season; he projects for about 24 to 25 minutes",
+   "detail": "Detroit used a 12 to 13 player rotation last season; he may play only 24 to 25 minutes as a starter",
    "until": "",
    "sources": [
     "p9XE5jFqhvs:t2",
     "_O9pc_u5vH0:p19"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "winning team",
-   "channel": "current",
-   "detail": "projected 50 to 51 wins",
-   "until": "",
-   "sources": [
-    "p9XE5jFqhvs:t3"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "defense-first",
-   "channel": "durable",
-   "detail": "Detroit is built on defense and only wants enough offense",
-   "until": "",
-   "sources": [
-    "p9XE5jFqhvs:t1"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "Yahoo ranks him 215th and ESPN 169th, both sites value him at 0 USD, and nobody drafted him in our league last season. In a 12-team league that drafts 144 players, he belongs on waivers, and the expert agrees he is a 20-team player only. He is a streaming pickup for threes (about 2.6 a game) with low turnovers. Early in the season, check whether he plays more than the expected 24 to 25 minutes as Detroit's starting shooting guard.",
+ "note": "Leave him out of the auction. Yahoo ranks him 219 and ESPN 168, both value him at 0 USD, and the expert says he is a 20-team player. His only real category is threes (about 2.6 per game, z +1.2), and he is below average in REB, STL, BLK and PTS. Early in the season, watch whether he keeps the starting job at around 25 minutes. If he does, he is a short-term waiver pickup for threes in weeks when you need 3PM.",
  "rejected": []
 }

@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "4d7cece3f93b",
+ "input_sha": "9754fcb8820b",
  "note_count": 25,
- "built_at": "2026-10-05T20:01:54+00:00",
+ "built_at": "2026-10-11T09:23:26+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.341201,
-  "duration_ms": 86675,
+  "cost_usd_list": 0.33974499999999996,
+  "duration_ms": 84913,
   "turns": 3,
   "denied": 0
  },
  "current": [
   {
-   "text": "Houston brought back Fred VanVleet and added Marcus Smart and Bogdan Bogdanovic, so the guard rotation is crowded.",
+   "text": "Houston's guard rotation is crowded. Fred VanVleet is back, and the Rockets added Marcus Smart and Bogdan Bogdanovic.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -29,27 +29,17 @@
     "aLP080hxizA:p27",
     "gJUBAJaHzlU:p20",
     "gJUBAJaHzlU:t2",
+    "xHRF06_E9HE:p24",
     "KPdD91Oo8-U:p29",
     "KPdD91Oo8-U:t0",
     "W-R1dzem32s:p51",
     "W-R1dzem32s:t8",
     "-y6p5PYLf00:p22",
-    "xHRF06_E9HE:p24",
     "P6TNP-g0wzY:p21"
    ]
   },
   {
-   "text": "The projected Houston starters are VanVleet, Amen Thompson, Kevin Durant, Jabari Smith Jr. and Alperen Sengun. Sheppard is not among them.",
-   "kind": "fact",
-   "date": "2026-10-01",
-   "until": "",
-   "sources": [
-    "aLP080hxizA:t1",
-    "yoCTTlJ_tPQ:t0"
-   ]
-  },
-  {
-   "text": "Ime Udoka blames him for defensive mistakes and pulls him quickly for them. Last season Udoka played Josh Okogie ahead of him.",
+   "text": "Coach Ime Udoka blamed Sheppard for defensive mistakes and pulls him quickly when he makes them. Udoka has played Josh Okogie ahead of him.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -60,7 +50,7 @@
    ]
   },
   {
-   "text": "Several experts think Udoka does not like him and will not change his mind.",
+   "text": "Several experts think Udoka dislikes Sheppard and will not change his mind.",
    "kind": "verdict",
    "date": "2026-09-24",
    "until": "",
@@ -71,43 +61,64 @@
    ]
   },
   {
-   "text": "Experts expect a smaller role than last season. Lloyd projects about 26 minutes and doubts he matches last season's minutes. Other experts see almost no path to a starting job without major injuries.",
+   "text": "Experts project him off the bench. The projected starters are VanVleet, Amen Thompson, Kevin Durant, Jabari Smith Jr. and Alperen Sengun. Thompson and Smart could take most of the point guard minutes, and he may not even make the top eight of the rotation.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t1",
+    "yoCTTlJ_tPQ:t0",
+    "xHRF06_E9HE:p23",
+    "DubdKKhMWHo:p24",
+    "DubdKKhMWHo:t4",
+    "uarqbNA2dFk:p47"
+   ]
+  },
+  {
+   "text": "Lloyd projects about 26 minutes a night but says Sheppard may struggle to match last season's minutes. Experts expect him to take a step back this season.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
    "sources": [
     "aLP080hxizA:p27",
     "aLP080hxizA:p30",
-    "DubdKKhMWHo:p24",
-    "xHRF06_E9HE:p23",
     "gJUBAJaHzlU:p20",
-    "-y6p5PYLf00:p22",
+    "-y6p5PYLf00:p22"
+   ]
+  },
+  {
+   "text": "His minutes should swing from game to game. He will play more when he is hot from three.",
+   "kind": "verdict",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
     "yoCTTlJ_tPQ:p25"
    ]
   },
   {
-   "text": "If he starts and plays about 28 to 30 minutes, he could be a top 40 to 50 player.",
+   "text": "If he got a 28 to 30 minute starting role, he could be a top 40 to top 50 player. The experts do not expect that role without big injuries.",
    "kind": "verdict",
    "date": "2026-09-24",
    "until": "",
    "sources": [
     "_vbAP5y182A:p52",
     "gJUBAJaHzlU:p21",
-    "7BllEsdNLoM:p59"
+    "7BllEsdNLoM:p59",
+    "DubdKKhMWHo:p24"
    ]
   },
   {
-   "text": "His ESPN rank of 58 is far too high. Lloyd doubts he breaks the top 100 and calls him his biggest fade on ESPN.",
+   "text": "His 29th to 30th place in season-total nine-category rankings is misleading. It comes from playing 82 games. He was 93rd in head-to-head value, and 129th before the trade deadline against 45th after it.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
    "sources": [
-    "aLP080hxizA:p30",
-    "uarqbNA2dFk:p47"
+    "aLP080hxizA:p29",
+    "xHRF06_E9HE:p21"
    ]
   },
   {
-   "text": "Draft him only as a cheap upside flyer. Josh values him at 1 USD. Lloyd is fine with him as a round-10 pick around 110 to 120.",
+   "text": "Draft him only as a cheap late upside flier. Josh values him at 1 USD (he went for 5 USD in a mock). Lloyd doubts he breaks the top 100 and sees him as a round-10 swing around pick 110 to 120.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
@@ -119,57 +130,46 @@
    ]
   },
   {
-   "text": "Last season he ranked 93rd in head-to-head value. He was 129th before the trade deadline and 45th after it.",
-   "kind": "fact",
-   "date": "2026-10-01",
-   "until": "",
-   "sources": [
-    "aLP080hxizA:p29",
-    "xHRF06_E9HE:p21"
-   ]
-  },
-  {
-   "text": "His season-total nine-category rank near 30th last season is misleading. It is high only because he played all 82 games.",
+   "text": "His ESPN rank near 58 is far too high. Lloyd calls him his biggest fade on ESPN.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
    "sources": [
-    "aLP080hxizA:p29",
-    "xHRF06_E9HE:p21"
+    "aLP080hxizA:p30",
+    "uarqbNA2dFk:p47"
    ]
   },
   {
-   "text": "With our March 28 end date, Houston plays 3, 3 and 4 games in fantasy playoff weeks 19 to 21. That is 10 games, a weak schedule.",
+   "text": "With a March 28 end, Houston has a weak 3-3-4 fantasy playoff schedule, 10 games over weeks 19 to 21.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
    "sources": [
     "aLP080hxizA:t4"
    ]
+  },
+  {
+   "text": "Houston has only 14 back-to-backs this season.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t5"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "His category profile is strong for a guard: many threes, high steals and blocks, and good free throw shooting on low volume.",
+   "text": "He has a strong category profile: many threes on good three-point shooting, high steals and blocks for a guard, solid assists and good free throw shooting on low volume.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
    "sources": [
     "aLP080hxizA:p28",
     "Alwse2uXzD4:p26",
-    "yoCTTlJ_tPQ:p22",
     "xHRF06_E9HE:p22",
+    "yoCTTlJ_tPQ:p22",
     "stats"
-   ]
-  },
-  {
-   "text": "He is small and struggles on defense. He picks up his dribble too often and is too soft with the ball.",
-   "kind": "fact",
-   "date": "2026-10-01",
-   "until": "",
-   "sources": [
-    "aLP080hxizA:p28",
-    "yoCTTlJ_tPQ:p24"
    ]
   },
   {
@@ -183,22 +183,48 @@
    ]
   },
   {
-   "text": "Udoka is a defense-first coach. He gives little room for error to poor defenders and plays his starters heavy minutes.",
+   "text": "He is small and struggles on defense. He picks up his dribble too often and is too soft with the ball, so he needs to get stronger.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
    "sources": [
-    "yoCTTlJ_tPQ:t2",
-    "aLP080hxizA:t0",
-    "7BllEsdNLoM:t9"
+    "aLP080hxizA:p28",
+    "yoCTTlJ_tPQ:p24"
    ]
   }
  ],
  "tags": [
   {
+   "name": "coach distrust",
+   "channel": "current",
+   "detail": "Ime Udoka pulls him for defensive mistakes and has played Josh Okogie ahead of him",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p27",
+    "yoCTTlJ_tPQ:p23",
+    "_vbAP5y182A:p52",
+    "xHRF06_E9HE:p23",
+    "gJUBAJaHzlU:p20"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "VanVleet, Smart, Bogdanovic and Amen Thompson in the guard rotation",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t2",
+    "KPdD91Oo8-U:t0",
+    "DubdKKhMWHo:t4",
+    "xHRF06_E9HE:p24"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "role down",
    "channel": "current",
-   "detail": "VanVleet back, Smart and Bogdanovic added; about 26 minutes projected",
+   "detail": "expected to lose minutes after Houston added guards",
    "until": "",
    "sources": [
     "aLP080hxizA:p27",
@@ -209,47 +235,22 @@
    "new_meaning": ""
   },
   {
-   "name": "minutes competition",
-   "channel": "current",
-   "detail": "VanVleet, Amen Thompson, Marcus Smart, Bogdan Bogdanovic",
-   "until": "",
-   "sources": [
-    "KPdD91Oo8-U:t0",
-    "gJUBAJaHzlU:t2",
-    "DubdKKhMWHo:t4",
-    "W-R1dzem32s:p51"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "coach distrust",
-   "channel": "current",
-   "detail": "Udoka pulls him for defensive mistakes; experts say Udoka dislikes him",
-   "until": "",
-   "sources": [
-    "aLP080hxizA:p27",
-    "yoCTTlJ_tPQ:p23",
-    "_vbAP5y182A:p52",
-    "gJUBAJaHzlU:p20"
-   ],
-   "new_meaning": "The head coach is reported to distrust or dislike the player, which caps his minutes and role."
-  },
-  {
    "name": "flyer",
    "channel": "current",
-   "detail": "top 40 to 50 upside only if he starts",
+   "detail": "late upside pick, top 40 to 50 if he starts",
    "until": "",
    "sources": [
     "_vbAP5y182A:p52",
     "DubdKKhMWHo:p24",
-    "aLP080hxizA:p30"
+    "aLP080hxizA:p30",
+    "Q6YlQDvD-aY:p67"
    ],
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "ESPN rank 58",
+   "detail": "ESPN rank near 58",
    "until": "",
    "sources": [
     "aLP080hxizA:p30",
@@ -260,7 +261,7 @@
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo rank 149 and 1 USD, ESPN rank 58 and 8 USD",
+   "detail": "Yahoo rank 141 at 1 USD, ESPN rank 62 at 7 USD",
    "until": "",
    "sources": [
     "stats"
@@ -270,7 +271,7 @@
   {
    "name": "9-cat fluff",
    "channel": "durable",
-   "detail": "season-total rank near 30th came from 82 games; 93rd in H2H",
+   "detail": "season-total rank boosted by 82 games played; 93rd in H2H value",
    "until": "",
    "sources": [
     "aLP080hxizA:p29",
@@ -281,7 +282,7 @@
   {
    "name": "category league player",
    "channel": "durable",
-   "detail": "",
+   "detail": "threes, steals and blocks from a guard",
    "until": "",
    "sources": [
     "Alwse2uXzD4:p26",
@@ -292,32 +293,10 @@
   {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "threes, steals and guard blocks with no weak category",
+   "detail": "",
    "until": "",
    "sources": [
     "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "defense-first",
-   "channel": "durable",
-   "detail": "Udoka gives poor defenders little room for error",
-   "until": "",
-   "sources": [
-    "yoCTTlJ_tPQ:t2",
-    "aLP080hxizA:t0"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "heavy starter minutes",
-   "channel": "durable",
-   "detail": "limits bench minutes for Sheppard",
-   "until": "",
-   "sources": [
-    "aLP080hxizA:t0",
-    "7BllEsdNLoM:t9"
    ],
    "new_meaning": ""
   },
@@ -342,9 +321,31 @@
    "new_meaning": ""
   },
   {
+   "name": "heavy starter minutes",
+   "channel": "durable",
+   "detail": "Udoka plays starters heavily, which shrinks bench minutes",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t0",
+    "7BllEsdNLoM:t9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "defense-first",
+   "channel": "durable",
+   "detail": "Udoka gives little room for error to weak defenders",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:t2",
+    "aLP080hxizA:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "winning team",
    "channel": "current",
-   "detail": "54 wins projected",
+   "detail": "predicted 54 wins",
    "until": "",
    "sources": [
     "yoCTTlJ_tPQ:t3"
@@ -352,6 +353,6 @@
    "new_meaning": ""
   }
  ],
- "note": "ESPN prices him at 8 USD (rank 58), but Yahoo has him at 1 USD (rank 149), and the experts agree with Yahoo. He went for 4 USD in our league last year, so keep him at 1 to 3 USD as a last-round flyer. He gives threes (+1.1 z vs guards), steals (+1.3) and blocks (+1.4) with no weak category, so he fits any build. His 43.6% FG is a mild drag, though. In the first weeks, check whether he gets 26 or more minutes or moves into the starting lineup after an injury. If he stays a short-minute bench guard behind VanVleet and Smart, drop him, because Houston's 10-game playoff schedule gives little reason to hold him.",
+ "note": "Sheppard has a real category profile: 2.7 threes and 1.5 steals projected. But the experts agree his role shrinks behind VanVleet, Smart and Bogdanovic under a coach who distrusts him. In our league he is a 1 to 5 USD late flier. Pay closer to Yahoo's 1 USD (rank 141) than ESPN's 7 USD (rank 62), and below the 4 USD our league paid last season. Early in the season, check whether he stays in the top eight of the rotation and gets 25 or more minutes. Watch for any guard injury that could open a starting role. Note too that Houston's 10-game playoff schedule is weak.",
  "rejected": []
 }

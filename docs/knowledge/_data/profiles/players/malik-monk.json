@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "18d920eb61e1",
- "note_count": 5,
- "built_at": "2026-10-05T19:57:56+00:00",
+ "input_sha": "83ddd942b5bb",
+ "note_count": 6,
+ "built_at": "2026-10-11T09:21:01+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1780172,
-  "duration_ms": 34700,
+  "cost_usd_list": 0.23783419999999997,
+  "duration_ms": 50584,
   "turns": 3,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is Sacramento's backup point guard. There is no third point guard on the roster.",
+   "text": "He is Sacramento's backup point guard. The roster has no third point guard.",
    "kind": "fact",
    "date": "2026-07-31",
    "until": "",
@@ -31,70 +31,134 @@
    ]
   },
   {
-   "text": "The projected Kings starters are Acuff, LaVine, Hunter, Murray and Sabonis, so he comes off the bench.",
+   "text": "Sacramento gave him DNPs and low minutes last season and at times kept him out of the rotation.",
    "kind": "fact",
-   "date": "2026-07-31",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:t1"
+    "oEywzBZfAvY:p15",
+    "-DN4P92Wp8Y:p40",
+    "-DN4P92Wp8Y:t8"
    ]
   },
   {
-   "text": "Trade rumors around him continue.",
+   "text": "Coach Doug Christie and the front office are reported to dislike him.",
    "kind": "fact",
-   "date": "2026-07-31",
-   "until": "",
-   "sources": [
-    "oEywzBZfAvY:p16"
-   ]
-  },
-  {
-   "text": "He has 2 years left on his contract, including a player option.",
-   "kind": "fact",
-   "date": "2026-07-31",
-   "until": "",
-   "sources": [
-    "oEywzBZfAvY:p16"
-   ]
-  },
-  {
-   "text": "Experts do not trust Sacramento's rotation with him. The coach and front office seem to dislike him.",
-   "kind": "verdict",
    "date": "2026-09-17",
    "until": "",
    "sources": [
-    "ahNxsoU8Hx4:t4",
+    "-KS_AZjZnw4:p38",
+    "ahNxsoU8Hx4:t4"
+   ]
+  },
+  {
+   "text": "Experts do not trust Sacramento to give him a large bench role, and they do not expect him to get back to a 29-minute role.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p40",
     "KPdD91Oo8-U:p40",
     "KPdD91Oo8-U:t2",
     "-KS_AZjZnw4:p38"
    ]
   },
   {
-   "text": "He is not expected to get back to a 29-minute role.",
+   "text": "Sacramento could give bench minutes to Nique Clifford instead of him.",
    "kind": "verdict",
-   "date": "2026-07-20",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "-KS_AZjZnw4:p38"
+    "-DN4P92Wp8Y:t8"
+   ]
+  },
+  {
+   "text": "Trade rumors about him continue. He has 2 years left on his contract, including a player option.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p16"
+   ]
+  },
+  {
+   "text": "The expert calls him a really good player but says to avoid him at his ESPN rank of 94.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p40"
+   ]
+  },
+  {
+   "text": "Experts expect Sacramento to finish near the bottom of the league. Lloyd thinks the team will likely trade or sit its veterans.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:t0",
+    "oEywzBZfAvY:t7",
+    "0AptxcRW0RE:t8"
+   ]
+  },
+  {
+   "text": "Coach Doug Christie is on a cheap contract and is under the most pressure in the organization.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:t6"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He does not play defense and cannot hold up defensively in heavy minutes.",
+   "text": "He does not play defense and cannot hold up defensively for heavy minutes.",
    "kind": "verdict",
    "date": "2026-07-31",
    "until": "",
    "sources": [
     "oEywzBZfAvY:p17"
    ]
+  },
+  {
+   "text": "He has no flagged weak category. His profile is a mild plus in FT%, threes and assists, with low rebounds and steals.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
   }
  ],
  "tags": [
   {
+   "name": "coach distrust",
+   "channel": "current",
+   "detail": "Coach Doug Christie and the front office reportedly dislike him. He got DNPs last season.",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p38",
+    "ahNxsoU8Hx4:t4",
+    "-DN4P92Wp8Y:p40",
+    "oEywzBZfAvY:p15"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Nique Clifford could take bench minutes",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:t8"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "trade risk",
    "channel": "current",
-   "detail": "trade rumors continue",
+   "detail": "Trade rumors continue",
    "until": "",
    "sources": [
     "oEywzBZfAvY:p16"
@@ -102,18 +166,70 @@
    "new_meaning": ""
   },
   {
-   "name": "unsettled rotation",
+   "name": "bottom team",
    "channel": "current",
-   "detail": "experts do not trust Sacramento's rotation with him",
+   "detail": "Sacramento projected near the bottom",
    "until": "",
    "sources": [
-    "KPdD91Oo8-U:t2",
-    "KPdD91Oo8-U:p40",
-    "ahNxsoU8Hx4:t4"
+    "6DnRWahYrFA:t0",
+    "oEywzBZfAvY:t7",
+    "0AptxcRW0RE:t8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "Kings may trade veterans such as Sabonis or LaVine",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:t0",
+    "oEywzBZfAvY:t8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "coach hot seat",
+   "channel": "current",
+   "detail": "Doug Christie is under the most pressure",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo status Q (Rest)",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Ranked outside the 144 drafted players on both sites. Watch for a bigger role or a trade.",
+   "until": "",
+   "sources": [
+    "stats",
+    "-DN4P92Wp8Y:p40"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "No category flagged weak, but his overall value is low",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both sites value him at 0 USD (Yahoo rank 213, ESPN rank 159), and our league paid only 2 USD for him last season, so he should go undrafted in a 144-player auction. The two sites disagree on his role. Yahoo projects 11.5 points on 9.3 shots, while ESPN projects about 26 minutes and 14.9 points. Treat him as a waiver option to watch early in the season: check whether he holds the backup point guard minutes or gets traded into a bigger role.",
+ "note": "Yahoo and ESPN both value him at 0 USD (ranks 217 and 161), and he went for 2 USD in our auction last year. That puts him outside the 144 players we draft, and the experts say to avoid him because Sacramento does not trust him with minutes. Leave him on waivers. Early in the season, check whether he holds the backup point guard minutes and whether a trade or a coaching change gives him a role near the 31 minutes he played in 2024-25.",
  "rejected": []
 }

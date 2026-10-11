@@ -7,7 +7,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 614 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 618 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -16,33 +16,33 @@
 | FG% | 44.1% | -0.3 | +0.2 | - |
 | FT% | 69.8% | -0.4 | -1.0 | - |
 | 3PM | 0.7 | -0.9 | -1.3 | - |
-| PTS | 5.6 | -1.4 | -1.5 | - |
-| REB | 1.9 | -1.4 | -1.4 | - |
+| PTS | 5.6 | -1.5 | -1.5 | - |
+| REB | 1.9 | -1.4 | -1.3 | - |
 | AST | 0.7 | -1.3 | -1.6 | - |
 | STL | 0.9 | -0.1 | -0.4 | - |
-| BLK | 0.1 | -1.0 | -1.1 | - |
-| TO | 0.4 | +1.7 | +1.8 | - |
+| BLK | 0.1 | -1.0 | -1.2 | - |
+| TO | 0.4 | +1.8 | +1.9 | - |
 
 </details>
 
 **Current**
-- He has no clear role right now. James Harden and Donovan Mitchell fill the backcourt. He is not in the projected starting lineup or the projected bench of Tyson, Merrill, Bryant, Tomlin and Porter. (fact, 2026-09-29; [08-02](https://youtu.be/TOn-D1SV7a8?t=702), [08-02](https://youtu.be/TOn-D1SV7a8?t=677), [09-29](https://youtu.be/NmdNvAz08oE?t=397), [09-29](https://youtu.be/NmdNvAz08oE?t=1376))
-- Experts are unsure how he fits in the rotation at first. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1504), [08-02](https://youtu.be/TOn-D1SV7a8?t=702))
-- Meleek Thomas is a 20-year-old rookie. Cleveland took him 34th in the second round after trading back from pick 29. (fact, 2026-08-24; [06-26](https://youtu.be/CLsUc0Sevos?t=1471), [08-02](https://youtu.be/TOn-D1SV7a8?t=702), [06-28](https://youtu.be/RsjGTgJiKyI?t=1505), [08-24](https://youtu.be/rnq3118kfhY?t=1293))
-- His body still needs physical development. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1293))
-- Several experts rate him well above his draft slot. One called him one of the biggest risers versus his slot, and one called the pick a swindle for Cleveland. (verdict, 2026-08-02; [06-23](https://youtu.be/-rgXhs5BHiw?t=353), [08-02](https://youtu.be/TOn-D1SV7a8?t=702), [06-26](https://youtu.be/CLsUc0Sevos?t=1471), [06-28](https://youtu.be/RsjGTgJiKyI?t=1505), [06-22](https://youtu.be/HxQjagSTTAM?t=597))
-- He was the top-ranked fantasy player of summer league. He averaged 26 points, 4 assists and 2 steals, shooting 50% from the field and 44% from three. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1499))
-- One expert expects him to be a 27-minute third guard within two years. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1499))
+- Cleveland's projected starters are James Harden, Donovan Mitchell, Peyton Watson, Evan Mobley and Jarrett Allen. The projected bench is Tyson, Merrill, Bryant, Tomlin and Porter. Thomas is in neither group. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=397), [09-29](https://youtu.be/NmdNvAz08oE?t=1376))
+- Experts see no immediate role for him behind James Harden and Donovan Mitchell. It is unclear how he fits at first. (verdict, 2026-09-29; [08-02](https://youtu.be/TOn-D1SV7a8?t=702), [08-02](https://youtu.be/TOn-D1SV7a8?t=677), [09-29](https://youtu.be/NmdNvAz08oE?t=1504))
+- Meleek Thomas is a 20-year-old rookie guard. Cleveland took him with the 34th pick in the 2026 draft, in the second round, after trading back from 29. (fact, 2026-08-24; [06-26](https://youtu.be/CLsUc0Sevos?t=1471), [08-02](https://youtu.be/TOn-D1SV7a8?t=702), [06-28](https://youtu.be/RsjGTgJiKyI?t=1505), [08-24](https://youtu.be/rnq3118kfhY?t=1293))
+- He has a high ceiling, but his body needs work. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1293))
+- Experts rate him well above his draft slot and above consensus. He is called one of the biggest risers versus his draft slot. One expert would rank him around 14 to 16 among rookies on a team with a clearer role. (verdict, 2026-08-02; [06-28](https://youtu.be/RsjGTgJiKyI?t=1505), [08-02](https://youtu.be/TOn-D1SV7a8?t=702), [06-26](https://youtu.be/CLsUc0Sevos?t=1471), [06-23](https://youtu.be/-rgXhs5BHiw?t=353))
+- He was the top-ranked fantasy player of summer league. He averaged 26 points, 4 assists and 2 steals and shot 50% from the field and 44% from three. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1499))
+- One expert expects him to be a 27-minute third guard within two years. Another calls him a long-term hold because the futures of Harden and Mitchell in Cleveland are uncertain. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1499), [06-26](https://youtu.be/CLsUc0Sevos?t=1471))
 
 **Durable**
-- Experts project him as a starting-caliber NBA player in the long term. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1504))
-- He is a guard from Arkansas with good size. In college he shot 42% on threes with good two-point and free-throw percentages. (fact, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=353))
-- Experts expect him to pass more and defend solidly in the NBA. They also say playing next to high-usage Darius Acuff held his college numbers down. (verdict, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=353))
+- Experts expect him to become a starting-caliber NBA player. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1504))
+- He is a guard from Arkansas with good size. At Arkansas he shot 42% from three, made his twos at a good rate and had a good free throw percentage. (fact, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=353))
+- One expert thinks his college numbers were held down by playing next to high-usage Darius Acuff. He also thinks Thomas can pass more and defend solidly. (verdict, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=353))
 
 **Tags**
-- Current: `rookie` (Second-round pick, 34th overall in 2026), `minutes competition` (Blocked by James Harden and Donovan Mitchell. He is not in the projected rotation)
+- Current: `rookie` (2026 second-round pick, 34th overall), `minutes competition` (Blocked by James Harden and Donovan Mitchell in the backcourt. He is not in the projected starting group or the projected bench.)
 - Durable: none
 
-**Note.** Yahoo values him at 0 USD and ranks him 614th. It projects 5.6 points in 47 games, so he is nowhere near the 144 players drafted in our league and should not be drafted. His strong summer league line shows upside, but experts see his value as long-term. Early in the season, check whether an injury to Harden or Mitchell or Cleveland's thin bench gives him real minutes before you look at him on waivers.
+**Note.** Thomas is not an auction target for us. Yahoo ranks him 618th with a value of 0 USD, ESPN does not rank him, and his Yahoo projection is only 5.6 points in a part-time role. Experts like his shooting and his summer league line, but they see no role for him this season behind Harden and Mitchell. Check his minutes early in the season and if a Cleveland guard gets hurt. Until his role grows, he does not need a roster spot in a 12-team league.
 
-<sub>8 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>8 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

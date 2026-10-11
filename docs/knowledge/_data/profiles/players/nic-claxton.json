@@ -8,31 +8,40 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "5f4f01a872e2",
- "note_count": 16,
- "built_at": "2026-10-05T19:59:21+00:00",
+ "input_sha": "c09a2c3d934c",
+ "note_count": 18,
+ "built_at": "2026-10-11T09:22:00+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1909622,
-  "duration_ms": 48863,
+  "cost_usd_list": 0.1975462,
+  "duration_ms": 50486,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He was traded from Brooklyn to Chicago.",
+   "text": "Claxton was traded from Brooklyn to the Bulls.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
    "sources": [
-    "3UGI05PDvrE:p37",
-    "9tb1ARBEmQU:p14"
+    "9tb1ARBEmQU:p13",
+    "3UGI05PDvrE:p37"
    ]
   },
   {
-   "text": "He is on a two-year deal and is projected to start at center for the Bulls. His starting job over Jalen Smith is about 90% sure.",
+   "text": "He is on a two-year deal with Chicago.",
    "kind": "fact",
+   "date": "2026-08-18",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:p18"
+   ]
+  },
+  {
+   "text": "He is projected to start at center for the Bulls. One expert puts it at about 90% that he starts over Jalen Smith.",
+   "kind": "verdict",
    "date": "2026-09-28",
    "until": "",
    "sources": [
@@ -41,7 +50,27 @@
    ]
   },
   {
-   "text": "He may not reach 30 minutes if the Bulls rotate centers and use Jalen Smith for spacing or Zach Collins.",
+   "text": "He hurt his hamstring on 2026-10-05. Yahoo lists him as questionable with a hamstring injury.",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "BiIZsSypx7Y:p27",
+    "WXO8MfQfzo0:p32",
+    "stats"
+   ]
+  },
+  {
+   "text": "Because of the hamstring injury, one expert would move him down the draft board.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "WXO8MfQfzo0:p32"
+   ]
+  },
+  {
+   "text": "He may not reach 30 minutes if the Bulls rotate their centers and use Jalen Smith for spacing or Zach Collins.",
    "kind": "verdict",
    "date": "2026-09-28",
    "until": "",
@@ -50,26 +79,7 @@
    ]
   },
   {
-   "text": "Experts have low hopes for him. He has looked disinterested and has struggled, and one expert is not sure whether he is washed.",
-   "kind": "verdict",
-   "date": "2026-08-18",
-   "until": "",
-   "sources": [
-    "FxaSnyk9g90:p19",
-    "9tb1ARBEmQU:p13"
-   ]
-  },
-  {
-   "text": "Do not pay more than about 3 USD for him in an auction.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p82"
-   ]
-  },
-  {
-   "text": "He is fine to target around rank 100 to 120, which matches his ESPN rank and ADP. Do not take him in the 80s. At his Yahoo price around rank 80 he is the biggest fade on the Bulls.",
+   "text": "Experts call him fair value around rank 100 to 120 but too expensive in the 80s.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -82,29 +92,56 @@
    ]
   },
   {
-   "text": "A frontcourt of Claxton, Caleb Wilson and Josh Giddey is expected to have terrible spacing. The team lacks shooting.",
+   "text": "In an auction, Josh would pay no more than about 3 USD for him.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p82"
+   ]
+  },
+  {
+   "text": "Josh has low hopes for him because he has looked disinterested and has struggled.",
    "kind": "verdict",
    "date": "2026-08-18",
    "until": "",
    "sources": [
-    "lOshTzDA4SA:t3",
-    "FxaSnyk9g90:t3"
+    "FxaSnyk9g90:p19"
    ]
   },
   {
-   "text": "The Bulls have a new coach, Tiago Splitter, and are projected to be a bad team that plays at a fast pace.",
-   "kind": "fact",
+   "text": "The Bulls are projected to be a bad team. One expert predicts 32 wins and another calls them a bottom-10 team.",
+   "kind": "verdict",
    "date": "2026-09-28",
    "until": "",
    "sources": [
     "3Qm5wLjhvTw:t0",
-    "3Qm5wLjhvTw:t1",
-    "FxaSnyk9g90:t5",
+    "FxaSnyk9g90:t4",
     "P6TNP-g0wzY:t5"
    ]
   },
   {
-   "text": "The Bulls play 10 games in our fantasy playoff weeks (3-3-4) and have 15 back-to-backs, one below the maximum.",
+   "text": "Tiago Splitter is the new Bulls head coach. Nikola Vucevic is gone, which leaves the starting center job to Claxton.",
+   "kind": "fact",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t1",
+    "3Qm5wLjhvTw:t2",
+    "FxaSnyk9g90:t2"
+   ]
+  },
+  {
+   "text": "The Bulls should play a fast, up-tempo transition style.",
+   "kind": "verdict",
+   "date": "2026-08-18",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t5"
+   ]
+  },
+  {
+   "text": "The Bulls have 15 back-to-backs, one below the maximum. They play 10 games in our fantasy playoff weeks (3-3-4).",
    "kind": "fact",
    "date": "2026-09-28",
    "until": "",
@@ -112,47 +149,48 @@
     "3Qm5wLjhvTw:t7",
     "3Qm5wLjhvTw:t8"
    ]
+  },
+  {
+   "text": "The Bulls front office signs veterans to short deals and hopes to trade them, so trades are possible this season.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t4",
+    "FxaSnyk9g90:t1"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "His play has declined over the last two to three seasons, with falling blocks and rim protection.",
+   "text": "His blocks and rim protection have fallen for three straight seasons.",
    "kind": "fact",
-   "date": "2026-09-28",
+   "date": "2026-09-19",
    "until": "",
    "sources": [
     "FxaSnyk9g90:p16",
     "9tb1ARBEmQU:p13",
-    "uarqbNA2dFk:p18",
     "Alwse2uXzD4:p9",
-    "3Qm5wLjhvTw:p16",
-    "t4n9MAP2_14:p31"
+    "uarqbNA2dFk:p18",
+    "stats"
    ]
   },
   {
-   "text": "He has had back problems, which may explain part of the decline.",
-   "kind": "fact",
+   "text": "His play has dropped off over the last two to three seasons. Experts suggest back problems, decline or frustration in Brooklyn as reasons, and are not sure whether he is washed.",
+   "kind": "verdict",
    "date": "2026-09-28",
    "until": "",
    "sources": [
-    "FxaSnyk9g90:p16",
     "3Qm5wLjhvTw:p16",
+    "FxaSnyk9g90:p16",
+    "9tb1ARBEmQU:p13",
     "t4n9MAP2_14:p31"
    ]
   },
   {
-   "text": "He fits a switching, blitzing defensive scheme. Brooklyn had pushed him out to the perimeter.",
-   "kind": "verdict",
-   "date": "2026-08-18",
-   "until": "",
-   "sources": [
-    "FxaSnyk9g90:p17"
-   ]
-  },
-  {
-   "text": "He is a very poor free throw shooter and hurts FT%.",
+   "text": "He is a very poor free throw shooter, and his FT% clearly hurts a team.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-08-30",
    "until": "",
    "sources": [
     "Alwse2uXzD4:p9",
@@ -162,19 +200,19 @@
   {
    "text": "He makes almost no threes.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "His category value comes from FG%, blocks and rebounds.",
-   "kind": "fact",
-   "date": "2026-10-05",
+   "text": "He fits a switching, blitzing defensive scheme. Brooklyn had pushed him out to the perimeter.",
+   "kind": "verdict",
+   "date": "2026-08-18",
    "until": "",
    "sources": [
-    "stats"
+    "FxaSnyk9g90:p17"
    ]
   },
   {
@@ -192,11 +230,33 @@
   {
    "name": "new team",
    "channel": "current",
-   "detail": "traded from Brooklyn to Chicago",
+   "detail": "Traded from Brooklyn to Chicago",
    "until": "",
    "sources": [
-    "3UGI05PDvrE:p37",
-    "9tb1ARBEmQU:p14"
+    "9tb1ARBEmQU:p13",
+    "3UGI05PDvrE:p37"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injured now",
+   "channel": "current",
+   "detail": "Hamstring injury from 2026-10-05",
+   "until": "",
+   "sources": [
+    "BiIZsSypx7Y:p27",
+    "WXO8MfQfzo0:p32",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q (Hamstring)",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   },
@@ -214,20 +274,10 @@
   {
    "name": "FT% liability",
    "channel": "durable",
-   "detail": "about 59% FT projected",
+   "detail": "About 59% FT on about 3 attempts per game",
    "until": "",
    "sources": [
     "Alwse2uXzD4:p9",
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "punt FT fit",
-   "channel": "durable",
-   "detail": "",
-   "until": "",
-   "sources": [
     "stats"
    ],
    "new_meaning": ""
@@ -238,6 +288,17 @@
    "detail": "",
    "until": "",
    "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt FT fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "Alwse2uXzD4:p9",
     "stats"
    ],
    "new_meaning": ""
@@ -255,7 +316,7 @@
   {
    "name": "points league player",
    "channel": "durable",
-   "detail": "slightly better in points leagues",
+   "detail": "Experts call him slightly better in points leagues",
    "until": "",
    "sources": [
     "Alwse2uXzD4:p9",
@@ -264,48 +325,14 @@
    "new_meaning": ""
   },
   {
-   "name": "bust candidate",
-   "channel": "current",
-   "detail": "at Yahoo rank around 80 to 89",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:p17",
-    "3Qm5wLjhvTw:p19",
-    "ZYllcj4o6_A:p22"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "flyer",
-   "channel": "current",
-   "detail": "fine around ESPN rank 119 or up to about 3 USD",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:p22",
-    "Q6YlQDvD-aY:p82"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sites disagree on price",
-   "channel": "current",
-   "detail": "Yahoo rank 89 and 7 USD value, ESPN rank 119 and 2 USD value",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:p17",
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "bottom team",
    "channel": "current",
-   "detail": "",
+   "detail": "About 32 wins projected",
    "until": "",
    "sources": [
     "3Qm5wLjhvTw:t0",
-    "P6TNP-g0wzY:t5",
-    "FxaSnyk9g90:t4"
+    "FxaSnyk9g90:t4",
+    "P6TNP-g0wzY:t5"
    ],
    "new_meaning": ""
   },
@@ -339,8 +366,19 @@
     "3Qm5wLjhvTw:t8"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "Front office signs veterans on short deals to trade them",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t4",
+    "FxaSnyk9g90:t1"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Claxton is a late flyer for us. Pay up to about 3 USD, close to his Yahoo average cost of 2.6 USD and the 4 USD he went for in our league last season. Do not pay anything near his Yahoo value of 7 USD or take him at his Yahoo rank of 89. He fits punt FT% builds that also give up threes, and his value comes from FG% (59% projected), blocks and rebounds. Early in the season, check that he starts and plays close to 30 minutes ahead of Jalen Smith and Zach Collins, and whether his blocks recover toward the 2023-24 level of 2.1.",
+ "note": "He is a late-auction center. Yahoo values him at 3 USD, ESPN at 1 USD, and he went for 4 USD in our league last season. His Yahoo rank of 110 and ESPN rank of 121 fall in the range experts call fair (100 to 120), so do not pay more than about 3 to 4 USD. He fits punt FT% builds best: his projected FG% (59%) and blocks (1.3) help, while his FT% and threes hurt. Early in the season, check whether the hamstring injury costs games, whether he holds the starting job and close to 30 minutes ahead of Jalen Smith and Zach Collins, and whether his blocks recover in Chicago.",
  "rejected": []
 }

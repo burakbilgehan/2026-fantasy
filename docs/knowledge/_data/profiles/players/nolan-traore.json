@@ -8,29 +8,21 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "bd79ee0bdc4a",
+ "input_sha": "19edc6b7a080",
  "note_count": 3,
- "built_at": "2026-10-04T17:45:00+00:00",
+ "built_at": "2026-10-11T09:22:05+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1477928,
-  "duration_ms": 30457
+  "cost_usd_list": 0.20633859999999998,
+  "duration_ms": 43436,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Brooklyn drafted a point guard with the 6th pick and added Julius Randle in a trade.",
+   "text": "Brooklyn's projected depth chart has him in the bench rotation. Mikel Brown Jr. and Egor Demin are the projected starting guards.",
    "kind": "fact",
-   "date": "2026-06-25",
-   "until": "",
-   "sources": [
-    "lOshTzDA4SA:p17",
-    "9tb1ARBEmQU:p10"
-   ]
-  },
-  {
-   "text": "Experts project him as a bench rotation player, not a starter. The projected starting guards are Mikel Brown Jr. and Egor Demin.",
-   "kind": "verdict",
    "date": "2026-09-26",
    "until": "",
    "sources": [
@@ -41,23 +33,66 @@
    ]
   },
   {
-   "text": "He is expected to handle the ball less because Randle will handle it a lot. He will have to fight for bench ball-handling minutes.",
-   "kind": "verdict",
+   "text": "Brooklyn drafted a point guard at pick 6 and added Julius Randle, who is expected to handle the ball a lot.",
+   "kind": "fact",
    "date": "2026-06-25",
    "until": "",
    "sources": [
-    "9tb1ARBEmQU:p10",
     "lOshTzDA4SA:p17",
+    "9tb1ARBEmQU:p10",
     "lOshTzDA4SA:t6"
    ]
   },
   {
-   "text": "Experts call him a draft loser with no real shot at fantasy value this season.",
+   "text": "He will handle the ball less and has to fight for bench ball-handling minutes. The expert sees no real shot at fantasy value.",
    "kind": "verdict",
    "date": "2026-06-25",
    "until": "",
    "sources": [
-    "lOshTzDA4SA:p17"
+    "lOshTzDA4SA:p17",
+    "9tb1ARBEmQU:p10"
+   ]
+  },
+  {
+   "text": "Coach Jordi Fernandez wants several ball handlers and connective playmakers instead of one traditional point guard.",
+   "kind": "fact",
+   "date": "2026-08-21",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:t3"
+   ]
+  },
+  {
+   "text": "Brooklyn is projected as one of the worst teams, at about 28 wins. Houston controls its pick, so the Nets have no reason to tank.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t8",
+    "uRsfijpBPok:t4",
+    "3UGI05PDvrE:t0",
+    "dlo7L8Ru91A:t3",
+    "Rqb5GdrSweY:t1"
+   ]
+  },
+  {
+   "text": "Second-half minutes are uncertain. The young players the expert expects to gain minutes are Brown, Demin, Clowney and Minott, not Traore.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t3",
+    "LM0cRCGoAUQ:t7"
+   ]
+  },
+  {
+   "text": "Brooklyn has 16 back-to-backs, tied for the most in the league. With a March 28 end, it plays 3-4-3 games in our playoff weeks, which is 10 games with one back-to-back.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t4",
+    "gf_6GveiAls:t1"
    ]
   }
  ],
@@ -66,27 +101,81 @@
   {
    "name": "role down",
    "channel": "current",
-   "detail": "Projected bench player after starting much of last season. He will handle the ball less with Randle and a pick-6 point guard on the roster.",
+   "detail": "started a big chunk of last season, now projected for the bench",
    "until": "",
    "sources": [
     "3UGI05PDvrE:p33",
-    "lOshTzDA4SA:p17",
-    "9tb1ARBEmQU:p10"
+    "lOshTzDA4SA:p17"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "He competes for bench ball-handling minutes after Brooklyn drafted a point guard at pick 6.",
+   "detail": "fights for bench ball-handling minutes behind Brown Jr. and Demin",
    "until": "",
    "sources": [
     "lOshTzDA4SA:p17",
     "3UGI05PDvrE:t2"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Randle handles the ball a lot",
+   "until": "",
+   "sources": [
+    "9tb1ARBEmQU:p10",
+    "lOshTzDA4SA:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "shared ball handling",
+   "channel": "current",
+   "detail": "Fernandez wants multiple ball handlers",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "about 28 wins projected",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t8",
+    "uRsfijpBPok:t4",
+    "dlo7L8Ru91A:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "16 back-to-backs, tied for most in the league",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t4",
+    "gf_6GveiAls:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "3-4-3, only 10 games in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t4",
+    "gf_6GveiAls:t1"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Both sites value him at 0 USD (Yahoo rank 380, ESPN rank 259), and he was not drafted in our league last season. With only 144 players drafted, he should not be on any auction list. His projected line of about 39% FG on 9 shots and 2.3 turnovers, with only 4.0 assists, hurts more than it helps in 9-cat. Early in the season, only check whether a guard injury moves him back into real ball-handling minutes. Otherwise leave him on waivers.",
+ "note": "Do not draft him in our league. He is ranked 380 on Yahoo and 244 on ESPN, both sites value him at 0 USD, and that is far outside our 144-player pool. His projected line (about 41% FG on 9 shots, 2.3 TO, 4.0 AST) helps no build, and as a bench guard behind Brown Jr. and Demin he will see less of the ball. Only look at him on waivers if Brown Jr. or Demin misses time early in the season.",
  "rejected": []
 }

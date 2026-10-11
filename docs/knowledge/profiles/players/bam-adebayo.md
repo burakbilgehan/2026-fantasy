@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 31 | 25.4 | 26 | 45 | 25.5 | 15 | 26 |
+| 2026-27 | 31 | 25.3 | 26 | 43 | 27.1 | 17 | 26 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,31 +21,39 @@
 | FT% | 77.4% | -0.4 | +0.0 | - |
 | 3PM | 1.9 | +0.4 | +1.0 | - |
 | PTS | 20.2 | +1.1 | +1.2 | - |
-| REB | 9.3 | +1.8 | +1.4 | - |
+| REB | 9.3 | +1.8 | +1.3 | - |
 | AST | 3.4 | +0.1 | +0.6 | - |
 | STL | 1.2 | +0.8 | +1.2 | - |
-| BLK | 0.7 | +0.2 | -0.2 | - |
+| BLK | 0.7 | +0.2 | -0.3 | - |
 | TO | 1.7 | -0.1 | -0.3 | - |
 
 </details>
 
 **Current**
-- His fair auction price is in the mid 20s USD. In a mock auction he went for 24 USD, which the expert called too cheap. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3257))
-- Miami traded for Giannis Antetokounmpo, so Bam now plays next to him. (fact, 2026-09-19; [06-23](https://youtu.be/nnWX_ObljOE?t=975), [09-19](https://youtu.be/uarqbNA2dFk?t=1935))
-- A rank in the 30s is fair for him. ESPN's rank of 15 is too high, because he has never played near that level. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1935), [09-14](https://youtu.be/LM0cRCGoAUQ?t=807), [09-14](https://youtu.be/t4n9MAP2_14?t=747))
-- Experts expect a small value hit with Giannis on the team. He may lose some rebounds and take more threes, but no big drop is expected. (verdict, 2026-09-14; [06-23](https://youtu.be/nnWX_ObljOE?t=975), [09-14](https://youtu.be/t4n9MAP2_14?t=747), [09-14](https://youtu.be/LM0cRCGoAUQ?t=807))
-- Miami's depth is poor, including at big man. Bobby Portis is his backup. (fact, 2026-09-14; [06-23](https://youtu.be/nnWX_ObljOE?t=918), [07-23](https://youtu.be/LUTYUdXBG1M?t=1264), [09-14](https://youtu.be/LM0cRCGoAUQ?t=813))
-- Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs. It plays only 10 games in the fantasy playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153))
-- Miami lacks point guards and ball handlers, so Giannis is expected to handle the ball a lot. (fact, 2026-07-17; [06-23](https://youtu.be/nnWX_ObljOE?t=780), [07-17](https://youtu.be/NYTH7uQsPCM?t=1757))
+- Experts agree his ESPN rank is too high. One says not to draft him at ESPN's rank of 7th, and he has never played near that level. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=397), [10-07](https://youtu.be/cvhcheoKdbo?t=693), [09-19](https://youtu.be/uarqbNA2dFk?t=1935))
+- His fair value is about a Yahoo rank of 26, a round 3 pick in category leagues. A Fantrax ADP of 34 to 36 is fair to good value. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=693), [10-07](https://youtu.be/cvhcheoKdbo?t=753), [09-14](https://youtu.be/t4n9MAP2_14?t=747), [09-14](https://youtu.be/LM0cRCGoAUQ?t=807))
+- In one expert's drafts he often goes later than his ADP. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=753))
+- Giannis Antetokounmpo joined Miami in a trade. Bam, Giannis and Andrew Wiggins are locks to start. (fact, 2026-10-07; [06-23](https://youtu.be/nnWX_ObljOE?t=975), [10-07](https://youtu.be/cvhcheoKdbo?t=372))
+- He shot poorly last season, including about 29% from three over the final 25 games. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=730))
+- His shooting is expected to improve this season. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=730))
+- His assists rose to about 4.5 per game over the final 15 to 20 games of last season. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=710))
+- He has not been blocking shots. Next to Giannis he may do more rim protection. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=716))
+- Miami's backup center depth is poor, with Nick Richards and Vlad Goldin behind him. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1628), [07-23](https://youtu.be/LUTYUdXBG1M?t=1264))
+- With the March 28 end, Miami has a weak 4-3-3 schedule in our playoff weeks, 10 games in total. Miami also has the league-minimum 13 back-to-backs. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2024), [10-07](https://youtu.be/cvhcheoKdbo?t=2037), [08-16](https://youtu.be/gf_6GveiAls?t=1153))
+- The East is very stacked, so Miami may not be able to rest players for long stretches. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2106))
+- He ranks 20th in Yahoo points leagues and is a late round 2 pick there, compared with round 3 in category leagues. (verdict, 2026-10-07; [09-16](https://youtu.be/2A2JbUN-kc0?t=822), [10-07](https://youtu.be/cvhcheoKdbo?t=753))
+- In an auction mock he went for 24 USD. The expert expected the mid 20s and called 24 USD too cheap. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3257))
+- The experts are split on how much to like him. One is not a big fan this year, and another regrets not bidding at 24 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=930), [10-05](https://youtu.be/Q6YlQDvD-aY?t=3257))
+- Giannis should cost him a small amount of value, mostly some rebounds, and may push him to take more threes. Experts expect no big drop because Miami lost a lot of other talent. (verdict, 2026-09-14; [06-23](https://youtu.be/nnWX_ObljOE?t=975), [09-14](https://youtu.be/t4n9MAP2_14?t=747), [09-14](https://youtu.be/LM0cRCGoAUQ?t=807))
 
 **Durable**
-- His FG% is low for a big on 15 to 16 attempts per game. It fell in each of the last three seasons as he took more threes. (fact, 2026-10-05; stats)
-- He now shoots threes. Both sites project about 2 made threes per game, which is high for a center. (fact, 2026-10-05; stats)
+- His FG% is weak for a big on real volume, at about 44.6% on about 16 attempts per game. This is his clear weak category. (fact, 2026-10-11; stats)
+- He makes about 2 threes per game, which is a lot for a big. (fact, 2026-10-11; stats)
 
 **Tags**
-- Current: `usage competition` (Giannis Antetokounmpo arrived and is expected to handle the ball a lot), `thin rotation` (poor depth, including at big man), `few back-to-backs` (13 back-to-backs, fewest in the league), `bad playoff schedule` (only 10 games in the fantasy playoffs, though no back-to-backs), `sites disagree on price` (ESPN value 45 USD and rank 15, Yahoo value 31 USD and rank 26)
-- Durable: `punt FG fit` (44.6% projected FG% on about 16 attempts), `3PM from a big` (about 2 threes per game projected)
+- Current: `bust candidate` (At ESPN's rank (7th to 15th). Fair value is around Yahoo's 26 or later), `sites disagree on price` (ESPN ranks him well above Yahoo. Experts side with Yahoo), `usage competition` (Giannis Antetokounmpo joined and will handle the ball a lot. Small value hit expected), `bounce-back` (His shooting is expected to improve after a poor 2025-26), `bad playoff schedule` (4-3-3 in weeks 19 to 21, 10 games), `few back-to-backs` (League-minimum 13 back-to-backs), `low shutdown risk` (The East is stacked, so Miami may not be able to rest players), `thin rotation` (Poor backup center depth (Nick Richards, Vlad Goldin)), `questionable` (Yahoo status Q (Rest))
+- Durable: `punt FG fit` (About 44.6% FG on about 16 attempts, weak for a big), `3PM from a big` (About 1.9 threes per game projected. Giannis may push him to more threes), `points league player` (Late round 2 in points leagues, round 3 in category leagues)
 
-**Note.** Average costs are about 25 USD on both Yahoo and ESPN, and he went for 26 USD in our league last season. That matches the experts' fair price in the mid 20s, so do not chase ESPN's 45 USD value or its rank of 15. He fits best in punt FG% builds, where his rebounds, points, steals and threes from the center spot count fully. Early in the season, check how much rebounding and shot volume he loses next to Giannis, and whether more threes push his FG% even lower.
+**Note.** The experts think ESPN's value of 43 USD is far too high. Yahoo's average cost of 25.3 USD, ESPN's 27.1 and our league's 26 USD last season fit their view better: one expert called 24 USD too cheap and set his price in the mid 20s. He is best in punt FG% builds, since his 44.6% on about 16 attempts is his only weak category. He adds rebounds, points, steals and threes from a big. Early in the season, check whether his three-point shooting recovers and how many rebounds and assists he keeps next to Giannis. Also remember that Miami has only 10 games in our playoff weeks.
 
-<sub>6 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>13 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

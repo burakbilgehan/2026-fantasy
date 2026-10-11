@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 4 | 1.8 | 97 | 3 | 2.0 | 97 | 6 |
+| 2026-27 | 4 | 1.5 | 98 | 3 | 2.4 | 97 | 6 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,36 +20,37 @@
 | FG% | 50.4% | +0.4 | +0.9 | - |
 | FT% | 74.7% | -0.4 | -0.6 | - |
 | 3PM | 1.5 | -0.0 | -0.3 | - |
-| PTS | 12.0 | -0.3 | -0.4 | - |
+| PTS | 12.0 | -0.4 | -0.4 | - |
 | REB | 7.8 | +1.1 | +1.9 | - |
 | AST | 4.7 | +0.8 | +0.8 | - |
-| STL | 1.2 | +0.8 | +0.7 | - |
+| STL | 1.2 | +0.8 | +0.6 | - |
 | BLK | 0.3 | -0.7 | -0.6 | - |
 | TO | 1.9 | -0.3 | -0.3 | - |
 
 </details>
 
 **Current**
-- Experts see no upside at his market price. Pay no more than 2 USD; a mock auction took him at 8 USD, and ESPN draft spots of 61 to 83 are called too high. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3890), [09-22](https://youtu.be/QbdrhJd7LiA?t=1808), [09-19](https://youtu.be/uarqbNA2dFk?t=2477), [09-01](https://youtu.be/80kfLVnFQ_s?t=1357))
-- The Knicks are expected to be conservative over the first 30 or so games, with starters' minutes trimmed and more rest on back-to-backs. Some experts also fear a small championship hangover with slightly fewer minutes and more injury risk. (verdict, 2026-09-22, until first 30 or so games; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [09-22](https://youtu.be/QbdrhJd7LiA?t=914), [09-10](https://youtu.be/dlo7L8Ru91A?t=1127), [09-09](https://youtu.be/7BllEsdNLoM?t=1565))
-- Experts expect him to stay at about 30 minutes a game. They see no return to 36 or 37 minute roles because the Knicks will be careful with his workload. (verdict, 2026-09-19; [08-13](https://youtu.be/okN3fbHJtlA?t=452), [09-10](https://youtu.be/dlo7L8Ru91A?t=1748), [09-10](https://youtu.be/W-R1dzem32s?t=1715), [09-19](https://youtu.be/uarqbNA2dFk?t=2477))
-- He is named the Knicks starter most at risk of decline because of past wear and tear, and he showed signs of decline last season. (verdict, 2026-09-19; [08-13](https://youtu.be/okN3fbHJtlA?t=452), [09-19](https://youtu.be/uarqbNA2dFk?t=2477))
-- The Knicks are the reigning champions. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [08-27](https://youtu.be/ZAyie8lKyYc?t=334))
-- He is a projected starter for the Knicks, next to Brunson, Bridges, Anunoby and Towns. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=317))
+- Experts see him as overpriced. In an auction mock the expert would pay no more than 2 USD for him (he went for 8 USD), and his ESPN and points-league draft spots are called too high. (verdict, 2026-10-06; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3890), [10-06](https://youtu.be/eTsjuVu1trk?t=1314), [09-22](https://youtu.be/QbdrhJd7LiA?t=1808), [09-19](https://youtu.be/uarqbNA2dFk?t=2477), [09-01](https://youtu.be/80kfLVnFQ_s?t=1357))
+- Experts expect his minutes to stay around 30 per game. They see no return to 36 to 38 minute roles because the Knicks will be careful with workloads. (verdict, 2026-09-22; [08-13](https://youtu.be/okN3fbHJtlA?t=452), [09-10](https://youtu.be/dlo7L8Ru91A?t=1748), [09-10](https://youtu.be/W-R1dzem32s?t=1715), [09-19](https://youtu.be/uarqbNA2dFk?t=2477), [09-22](https://youtu.be/QbdrhJd7LiA?t=914))
+- He is called the Knicks starter most at risk of decline because of past wear and tear, and he showed signs of decline last season. (verdict, 2026-09-19; [08-13](https://youtu.be/okN3fbHJtlA?t=452), [09-19](https://youtu.be/uarqbNA2dFk?t=2477))
+- The Knicks won the championship and beat the Spurs in the Finals. (fact, 2026-09-14; [08-27](https://youtu.be/ZAyie8lKyYc?t=334), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515))
+- The Knicks are expected to be conservative early, with starters' minutes trimmed and more rest on back-to-backs. (verdict, 2026-09-14, until first 30 or so games; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515))
+- Experts worry about a championship hangover for the Knicks: a minute or two less per game and a small rise in injury risk. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1127), [09-09](https://youtu.be/7BllEsdNLoM?t=1565))
+- He is a projected starter next to Brunson, Bridges, Anunoby and Towns. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=317))
+- He played through hand injuries last season. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=452))
 - The Knicks are projected to win about 50 to 54 games. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=752))
-- His block rate fell last season and could move back up a little. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=891))
+- His block rate fell last season and could move back up. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=891))
+- He re-signed with the Knicks for 2 years and 9 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1049))
 
 **Durable**
-- Rebounds are his best category and are strong for a guard or forward. He also helps in assists and steals, with a solid FG%. (fact, 2026-10-05; stats)
-- He is a strong perimeter defender. He slowed Castle in the Finals by shading him toward his left hand. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2207))
-- He is a stat stuffer whose game relies on motor and athleticism. (verdict, 2026-08-13; [07-01](https://youtu.be/W3THnI7wWdA?t=1038), [08-13](https://youtu.be/okN3fbHJtlA?t=437))
+- Rebounds are his strongest category, clearly above other guards and forwards. Assists and steals are also above the pool. No category is a real outlier either way. (fact, 2026-10-11; stats)
+- He is a fantasy stat stuffer whose game relies on motor and athleticism. (verdict, 2026-08-13; [07-01](https://youtu.be/W3THnI7wWdA?t=1038), [08-13](https://youtu.be/okN3fbHJtlA?t=437))
 - He is historically a 31 to 33 percent three-point shooter. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=437))
-- He played through hand injuries last season. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=452))
 
 **Tags**
-- Current: `minutes limit` (Expected to stay around 30 minutes as the Knicks manage his workload), `back-to-back risk` (Knicks plan more rest on back-to-backs early in the season; until first 30 or so games), `bust candidate` (Expert cap 2 USD; ESPN draft spots of 61 to 83 and an 8 USD mock price called too high), `winning team` (Reigning champions, projected about 50 to 54 wins)
-- Durable: `age decline watch` (Past wear and tear, signs of decline last season), `fits every build` (No weak category flagged; helps in rebounds, assists and steals)
+- Current: `minutes limit` (expected around 30 minutes; Knicks careful with workloads), `low starter minutes` (Knicks trimming starters' minutes early; until first 30 or so games), `back-to-back risk` (more rest on back-to-backs early in the season; until first 30 or so games), `bust candidate` (called too high at ESPN and points-league ADP; mock auction value 2 USD, went for 8 USD), `winning team` (defending champions, projected 50 to 54 wins)
+- Durable: `fits every build` (no weak category flagged; best in REB, AST, STL), `age decline watch` (wear and tear, signs of decline last season)
 
-**Note.** Hart is a cheap all-category filler. Yahoo and ESPN both rank him 97th, at about 2 to 4 USD. He went for 6 USD in our league last season, and the experts would not pay more than 2 USD. With no weak category flagged and about 7.8 rebounds, 4.7 assists and 1.2 steals projected, he fits any build as a last-dollar starter or bench piece. Do not chase him if the price climbs. Early on, check whether his minutes stay near 30 or drop further while the Knicks are cautious over the first 30 or so games.
+**Note.** Hart ranks about 97 to 98 on both sites, with values of 4 USD (Yahoo) and 3 USD (ESPN). He sold for 6 USD in our league last season, and experts would pay no more than about 2 USD. He fits any build as a late filler for rebounds, assists and steals (REB z +1.9 vs his position), but his minutes are expected to stay near 30. Pay 1 to 3 USD at most, and check early whether the Knicks hold him under 30 minutes and rest him on back-to-backs over the first 30 or so games.
 
-<sub>12 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>13 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

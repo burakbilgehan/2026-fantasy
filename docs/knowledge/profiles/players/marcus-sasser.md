@@ -20,12 +20,12 @@
 | FG% | 40.9% | -0.6 | -0.2 | - |
 | FT% | 81.7% | +0.1 | -0.4 | - |
 | 3PM | 1.0 | -0.6 | -1.0 | - |
-| PTS | 5.1 | -1.5 | -1.6 | league outlier, weak |
+| PTS | 5.1 | -1.6 | -1.6 | league outlier, weak |
 | REB | 1.0 | -1.7 | -1.9 | league outlier, weak |
 | AST | 1.9 | -0.7 | -1.0 | - |
-| STL | 0.4 | -1.5 | -1.7 | league outlier, weak |
-| BLK | 0.1 | -1.1 | -1.4 | - |
-| TO | 0.9 | +1.0 | +1.2 | - |
+| STL | 0.4 | -1.6 | -1.7 | league outlier, weak |
+| BLK | 0.1 | -1.1 | -1.5 | - |
+| TO | 0.9 | +1.1 | +1.2 | - |
 
 </details>
 

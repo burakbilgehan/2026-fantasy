@@ -8,7 +8,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 329 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 329 | - | 0.0 | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -17,34 +17,32 @@
 | FG% | 44.2% | -0.4 | -0.2 | - |
 | FT% | 81.7% | +0.1 | -0.1 | - |
 | 3PM | 1.1 | -0.5 | -0.8 | - |
-| PTS | 7.1 | -1.2 | -1.2 | - |
+| PTS | 7.1 | -1.2 | -1.3 | - |
 | REB | 2.3 | -1.2 | -1.2 | - |
-| AST | 3.0 | -0.1 | -0.1 | - |
+| AST | 3.0 | -0.1 | -0.2 | - |
 | STL | 0.8 | -0.5 | -0.6 | - |
 | BLK | 0.2 | -0.9 | -1.1 | - |
-| TO | 1.2 | +0.5 | +0.6 | - |
+| TO | 1.2 | +0.6 | +0.6 | - |
 
 </details>
 
 **Current**
-- Yahoo lists him as questionable with a hip injury. (fact, 2026-10-05; stats)
-- He is projected as the Clippers' tenth man, behind Kris Dunn, Bradley Beal, Brook Lopez and Keaton Wagler off the bench. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1547), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268), [07-21](https://youtu.be/RyzcCGChYgs?t=1816))
-- Ingram, Beal, Jordan Miller and Konan Niederhauser are all out for the Clippers now. That could open some minutes behind the starters. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018))
-- The Clippers are expected to use long rotations and test many players this season. Coach Ty Lue often changes his rotation choices. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
-- He is not a draft target. The expert is not interested in him. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1547))
-- The Clippers have a good fantasy playoff schedule: 4, 3 and 4 games in weeks 19 to 21. They also have one of the lowest back-to-back totals in the league, with 13. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
-- Bradley Beal re-signed with the Clippers. That makes Sanders' minutes uncertain. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1334))
+- Yahoo lists him as questionable with a hip injury. (fact, 2026-10-11; stats)
+- The latest Clippers preview projects him as the tenth man, behind Kris Dunn, Bradley Beal, Brook Lopez and Keaton Wagler on the bench. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1547), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268), [07-21](https://youtu.be/RyzcCGChYgs?t=1816))
+- The expert in the latest Clippers preview is not interested in him for fantasy. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1547))
+- The Clippers have many injuries (Ingram, Beal, Jordan Miller and Konan Niederhauser are out), and the expert leans toward a trial season with long rotations and many players tested. Coach Ty Lue often changes his rotation choices. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239), [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018))
+- The Clippers have a good fantasy playoff schedule (4-3-4 games for a March 28 end) and one of the lowest back-to-back totals in the league with 13. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
+- His minutes are uncertain because Beal re-signed. He needs big minutes and a couple of usage players out of the way to matter for fantasy. (verdict, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1334), [07-01](https://youtu.be/W3THnI7wWdA?t=1464))
 - He re-signed with the Clippers. He has no starting spot. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1464))
-- He needs big minutes and a couple of high-usage teammates out of the way to have fantasy value. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1464))
 
 **Durable**
-- He has no standout category. Points and rebounds are low even for his position, and his only plus is few turnovers. (fact, 2026-10-05; stats)
-- He gave almost nothing for fantasy even when he started. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1547))
+- He is a low-volume role player. He has no strong category, and his points, rebounds and blocks are well below the top 250 pool. (fact, 2026-10-11; stats)
+- When he started as a rookie, he gave nothing for fantasy. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1547))
 
 **Tags**
-- Current: `minutes competition` (Projected tenth man; Beal re-signed and Dunn, Wagler and Lopez are ahead of him on the bench), `questionable` (Yahoo Q (hip)), `injured now` (Hip, Yahoo status Q), `deep rotation` (Clippers expected to use long rotations in a trial season), `unsettled rotation` (Ty Lue changes rotations often; projected lineup not confident), `good playoff schedule` (4-3-4 in weeks 19 to 21), `few back-to-backs` (13 back-to-backs)
+- Current: `minutes competition` (Projected tenth man behind Dunn, Beal, Lopez and Wagler; Beal re-signing clouds his minutes), `role down` (Projected as tenth man after Beal re-signed; no starting spot), `questionable` (Yahoo status Q (hip)), `injured now` (Hip, Yahoo status Q), `unsettled rotation` (Ty Lue changes rotations; Clippers expected to test many players), `good playoff schedule` (4-3-4 games in weeks 19 to 21 for a March 28 end), `few back-to-backs` (13 back-to-backs, one of the lowest totals)
 - Durable: none
 
-**Note.** Sanders is a waiver player in our league, not a draft target. Yahoo values him at 0 USD and ranks him 329th, far outside the 144 players we draft. He projects for 7.1 points and 2.3 rebounds in a tenth-man role, so he adds nothing to any build beyond few turnovers. Early in the season, check his hip and whether the Clippers' injuries (Ingram, Beal, Miller) give him starter-level minutes. That is the only way he becomes worth a waiver add.
+**Note.** Do not draft him. Yahoo ranks him 329th with a 0 USD value, ESPN prices him at 0 USD, and our league only drafts 144 players. He projects as the Clippers' tenth man with no category outlier (7.1 PTS, 2.3 REB in projections). Early in the season, check his hip and whether injuries to Beal or the guards ahead of him open real minutes. Only then is he worth a look on waivers.
 
-<sub>4 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

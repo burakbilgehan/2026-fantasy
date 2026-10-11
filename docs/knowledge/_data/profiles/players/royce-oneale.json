@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "dfc885700875",
+ "input_sha": "e95d86f7e4d2",
  "note_count": 4,
- "built_at": "2026-10-04T17:47:10+00:00",
+ "built_at": "2026-10-11T09:22:47+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.11945820000000001,
-  "duration_ms": 26225
+  "cost_usd_list": 0.19451639999999998,
+  "duration_ms": 40597,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Charlotte got him from Phoenix in the Miles Bridges trade, together with Grayson Allen.",
+   "text": "Charlotte got him from Phoenix in the Miles Bridges trade, along with Grayson Allen.",
    "kind": "fact",
    "date": "2026-07-01",
    "until": "",
@@ -29,29 +31,56 @@
    ]
   },
   {
-   "text": "He is a bench player in Charlotte, in a small role. The projected bench is Allen, Schröder, Steinbach, O'Neale and Grant Williams.",
+   "text": "He is a bench player in Charlotte. The projected bench is Allen, Schröder, Steinbach, O'Neale and Grant Williams.",
    "kind": "fact",
    "date": "2026-09-27",
    "until": "",
    "sources": [
-    "CRLSsoGhb2w:p23",
     "CRLSsoGhb2w:t3",
+    "CRLSsoGhb2w:p23",
     "W3THnI7wWdA:p11"
    ]
   },
   {
-   "text": "He may pick up more power forward minutes, but the expert says he is not worth drafting.",
+   "text": "He may get more power forward minutes, but he is not worth drafting.",
    "kind": "verdict",
    "date": "2026-09-27",
    "until": "",
    "sources": [
     "CRLSsoGhb2w:p23"
    ]
+  },
+  {
+   "text": "Charlotte has a deep roster and projects as a play-in team. That spreads the bench minutes.",
+   "kind": "verdict",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t4"
+   ]
+  },
+  {
+   "text": "Charlotte plans to space the floor and take a lot of threes.",
+   "kind": "fact",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:t0"
+   ]
+  },
+  {
+   "text": "With the March 28 end date, Charlotte plays 4, 3 and 4 games in our playoff weeks. It has 13 back-to-backs, the league minimum.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t5"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He hits corner threes reliably.",
+   "text": "He made corner threes all season long.",
    "kind": "fact",
    "date": "2026-07-21",
    "until": "",
@@ -60,16 +89,16 @@
    ]
   },
   {
-   "text": "His best categories are threes and low turnovers. His weakest are points and FG%. None of them is a league outlier.",
+   "text": "Threes are his only clear fantasy strength. He scores little and his FG% is below average.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He has shown signs of decline, and teams around the league saw him as a negative asset.",
+   "text": "He showed signs of decline, and teams around the league saw his contract as a negative asset.",
    "kind": "verdict",
    "date": "2026-08-23",
    "until": "",
@@ -82,7 +111,7 @@
   {
    "name": "new team",
    "channel": "current",
-   "detail": "Traded from Phoenix to Charlotte in the Miles Bridges deal",
+   "detail": "Traded from Phoenix to Charlotte in the Bridges deal",
    "until": "",
    "sources": [
     "W3THnI7wWdA:p11",
@@ -93,12 +122,21 @@
   {
    "name": "role down",
    "channel": "current",
-   "detail": "Small bench role in Charlotte. Projected at about 24.5 minutes, down from 28.4 last season",
+   "detail": "Small bench role in Charlotte",
    "until": "",
    "sources": [
     "W3THnI7wWdA:p11",
-    "CRLSsoGhb2w:p23",
-    "CRLSsoGhb2w:t3",
+    "CRLSsoGhb2w:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "3PM from a big",
+   "channel": "durable",
+   "detail": "Corner three shooter at forward",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:p25",
     "stats"
    ],
    "new_meaning": ""
@@ -106,7 +144,7 @@
   {
    "name": "age decline watch",
    "channel": "durable",
-   "detail": "Expert sees signs of decline",
+   "detail": "Showed signs of decline",
    "until": "",
    "sources": [
     "hm5-fiCa5S4:p28"
@@ -114,16 +152,37 @@
    "new_meaning": ""
   },
   {
-   "name": "waiver watch",
-   "channel": "durable",
-   "detail": "Not worth drafting. Worth watching if he gets more power forward minutes",
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Deep Charlotte bench",
    "until": "",
    "sources": [
-    "CRLSsoGhb2w:p23"
+    "CRLSsoGhb2w:t4",
+    "CRLSsoGhb2w:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "three-point heavy",
+   "channel": "current",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13 back-to-backs, league minimum",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t5"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Do not draft him. Yahoo and ESPN both value him at 0 USD and rank him 216 and 155, while our auction only fills 144 roster spots. If you need threes, he is a low-turnover option on waivers (about 2.3 threes and 1.1 TO projected), but his 8.4 points and 41.8 FG% give little else. Early in the season, check whether his power forward minutes grow beyond his bench role.",
+ "note": "Both Yahoo (rank 209) and ESPN (rank 157) value him at 0 USD. The only expert call says he is undraftable, so leave him out of our 144-player auction. His one real category is threes (about 2.3 per game as a forward), and he gives back FG% and points, so he is at most a short-term waiver add for a team that needs threes. Early on, check whether the absences of Coby White and Kon Knueppel or the open power forward minutes push him clearly above his projected 24.5 minutes.",
  "rejected": []
 }

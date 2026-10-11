@@ -11,48 +11,49 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 3 | 1.0 | 109 | 4 | 2.0 | 82 | 2 |
+| 2026-27 | 4 | 1.0 | 106 | 4 | 2.1 | 82 | 2 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 45.3% | -0.7 | -0.4 | - |
-| FT% | 76.7% | -0.3 | -0.8 | - |
+| FT% | 76.7% | -0.3 | -0.9 | - |
 | 3PM | 2.6 | +1.2 | +0.9 | - |
 | PTS | 18.3 | +0.7 | +0.6 | - |
 | REB | 3.3 | -0.8 | -0.4 | - |
-| AST | 3.8 | +0.3 | -0.0 | - |
+| AST | 3.8 | +0.3 | -0.1 | - |
 | STL | 0.8 | -0.3 | -0.6 | - |
 | BLK | 0.5 | -0.3 | +0.4 | - |
-| TO | 1.7 | -0.1 | +0.1 | - |
+| TO | 1.7 | -0.0 | +0.1 | - |
 
 </details>
 
 **Current**
-- The experts call his market price too low. His ADP sits around 100 to 117 across sites. Lloyd targets him around picks 80 to 90. Others like him as a last starter or bench pick. Josh paid 8 USD for him in an auction mock. (verdict, 2026-10-05; [09-25](https://youtu.be/4gw4W4RTolY?t=1170), [09-09](https://youtu.be/7BllEsdNLoM?t=2085), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2012), [09-30](https://youtu.be/BjXP9JODDSg?t=1568), [10-04](https://youtu.be/n4KkK-OJjqA?t=1978), [09-21](https://youtu.be/egRrai3Ax38?t=880), [10-05](https://youtu.be/Q6YlQDvD-aY?t=4612))
-- Lu Dort is the main threat to his starting spot. If Dort starts, it would most likely be in place of McCollum. (fact, 2026-10-04; [08-25](https://youtu.be/H9q2FT3LhNw?t=478), [08-25](https://youtu.be/H9q2FT3LhNw?t=428), [10-04](https://youtu.be/n4KkK-OJjqA?t=445), [09-21](https://youtu.be/egRrai3Ax38?t=1750), [09-21](https://youtu.be/egRrai3Ax38?t=880))
-- The experts disagree on his starting job. Lloyd and one other expert expect him to start over Dort. The newest note says he could come off the bench. (verdict, 2026-10-04; [09-25](https://youtu.be/4gw4W4RTolY?t=1170), [09-21](https://youtu.be/egRrai3Ax38?t=1750), [10-04](https://youtu.be/n4KkK-OJjqA?t=1978))
-- After joining Atlanta he ranked 63rd for the rest of last season. Over the last two months he was top 70 while playing under 30 minutes. (fact, 2026-10-04; [07-14](https://youtu.be/xHRF06_E9HE?t=1607), [10-04](https://youtu.be/n4KkK-OJjqA?t=1978), [08-11](https://youtu.be/OdDkXFhoKsc?t=2354), [09-21](https://youtu.be/egRrai3Ax38?t=880))
-- He is a projected starter next to Nickeil Alexander-Walker, Dyson Daniels, Jalen Johnson and Onyeka Okongwu. Lloyd projects each starter for 30-plus minutes. (fact, 2026-09-25; [07-01](https://youtu.be/W3THnI7wWdA?t=757), [08-25](https://youtu.be/H9q2FT3LhNw?t=355), [08-25](https://youtu.be/H9q2FT3LhNw?t=428), [09-25](https://youtu.be/4gw4W4RTolY?t=328))
-- In Atlanta he has the ball more than anyone else on the team and has played point guard. The team has no true point guard. He shares ball handling with Alexander-Walker, Johnson and Daniels. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=300), [08-25](https://youtu.be/H9q2FT3LhNw?t=355), [09-09](https://youtu.be/7BllEsdNLoM?t=2085), [08-25](https://youtu.be/H9q2FT3LhNw?t=364))
-- Lloyd expects him to be better this season as a locked-in starter on a team pushing for the playoffs. Josh is also high on him. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1170), [09-10](https://youtu.be/W-R1dzem32s?t=1778), [08-11](https://youtu.be/OdDkXFhoKsc?t=2354))
-- Atlanta plays 4, 4 and 3 games in our playoff weeks. The team has 14 back-to-backs. Resting healthy players is not a concern, and the team did not shut players down last season. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739), [07-14](https://youtu.be/xHRF06_E9HE?t=230))
-- Draft him to add points, threes and assists at guard. One expert has no worries about him being traded. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1569))
-- Atlanta's strong finish last season was helped by an easy schedule. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=116))
-- Atlanta is projected for about 46 wins, somewhere between fourth and eighth in the East. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1902))
-- One expert would not draft him as high as his post-deadline rank because of his age. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1607))
-- He re-signed with Atlanta on a 1-year, 21 million USD deal. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=757), [06-28](https://youtu.be/RsjGTgJiKyI?t=553))
+- Experts call him undervalued. They say he is worth about 20 to 30 spots above his ADP of about 110 to 118 and target him around picks 80 to 90. He should be better as a locked-in starter on a team pushing for the playoffs. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1941), [09-25](https://youtu.be/4gw4W4RTolY?t=1170), [10-05](https://youtu.be/BiIZsSypx7Y?t=1726), [10-05](https://youtu.be/BiIZsSypx7Y?t=1716), [09-09](https://youtu.be/7BllEsdNLoM?t=2085), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2012), [10-04](https://youtu.be/n4KkK-OJjqA?t=1978), [09-30](https://youtu.be/BjXP9JODDSg?t=1568), [09-10](https://youtu.be/W-R1dzem32s?t=1778))
+- He goes for about 1 USD in auctions. Josh calls that too low and paid 8 USD for him in a mock auction. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=1726), [10-05](https://youtu.be/Q6YlQDvD-aY?t=4612))
+- Lu Dort is the main threat to his starting spot. If Dort starts, McCollum is the starter most likely to move to the bench. (fact, 2026-10-04; [08-25](https://youtu.be/H9q2FT3LhNw?t=478), [08-25](https://youtu.be/H9q2FT3LhNw?t=428), [10-04](https://youtu.be/n4KkK-OJjqA?t=445), [10-04](https://youtu.be/n4KkK-OJjqA?t=1978), [09-21](https://youtu.be/egRrai3Ax38?t=880))
+- Experts disagree on the Dort risk. One does not expect Dort to start over him, while another says he could come off the bench. (verdict, 2026-10-04; [09-21](https://youtu.be/egRrai3Ax38?t=1750), [10-04](https://youtu.be/n4KkK-OJjqA?t=1978))
+- After the trade deadline last season he ranked 63rd. Over the last two months he was top 70 while playing under 30 minutes. For the full season he finished around 93 to 100. (fact, 2026-10-04; [07-14](https://youtu.be/xHRF06_E9HE?t=1607), [10-04](https://youtu.be/n4KkK-OJjqA?t=1978), [09-25](https://youtu.be/4gw4W4RTolY?t=1170), [08-11](https://youtu.be/OdDkXFhoKsc?t=2354))
+- He is the projected starting guard next to Nickeil Alexander-Walker, Dyson Daniels, Jalen Johnson and Onyeka Okongwu. Each starter is expected to play 30-plus minutes. (fact, 2026-09-25; [07-01](https://youtu.be/W3THnI7wWdA?t=757), [08-25](https://youtu.be/H9q2FT3LhNw?t=355), [08-25](https://youtu.be/H9q2FT3LhNw?t=428), [09-25](https://youtu.be/4gw4W4RTolY?t=328))
+- Atlanta has no true point guard, and he handles the ball more than anyone else on the team. He played point guard after he arrived. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=300), [08-25](https://youtu.be/H9q2FT3LhNw?t=355), [08-25](https://youtu.be/H9q2FT3LhNw?t=364), [09-09](https://youtu.be/7BllEsdNLoM?t=2085))
+- Atlanta's fantasy playoff schedule is 4-4-3 games for a March 28 season end. The team has 14 back-to-backs, and resting players is not a concern. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739), [07-14](https://youtu.be/xHRF06_E9HE?t=230))
+- He is a good pick to boost points, threes and assists at a guard spot. There is no worry about him being traded. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1569))
+- An easy schedule helped Atlanta's strong late-season run last year. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=116))
+- Atlanta is projected for 46 wins and a finish between fourth and eighth in the East. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1902))
+- One expert would not draft him at his post-deadline level of 63rd because of his age. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1607))
+- He re-signed with the Hawks on a 1-year, 21 million deal. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=757), [06-28](https://youtu.be/RsjGTgJiKyI?t=553))
 
 **Durable**
-- He is an inconsistent free throw shooter and does not add much in steals or blocks. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1976))
+- Most of his value comes from threes and points. His FG% and rebounds are below the pool. (fact, 2026-10-11; stats)
+- His free throw percentage changes a lot from season to season, and his steals and blocks are low. (fact, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=1742), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1976), stats)
 - He is a score-first guard, not a pure point guard. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=355))
-- Quin Snyder runs an egalitarian, high-movement offense that wants many threes and five-out spacing. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=697))
+- Quin Snyder runs a high-movement offense that wants many threes and five-out spacing. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=697))
 
 **Tags**
-- Current: `sleeper` (ADP around 100 to 117; experts call that too low), `expert target` (Lloyd targets picks 80 to 90; Josh paid 8 USD in an auction mock), `minutes competition` (Lu Dort is the most likely player to take his starting spot), `contract year` (1-year, 21 million USD deal), `shared ball handling` (no true point guard; he shares handling with Alexander-Walker, Johnson and Daniels), `three-point heavy` (Snyder's offense wants many threes), `winning team` (about 46 wins projected), `low shutdown risk`, `deep rotation` (10-man rotation expected, with Dort and Wiggins able to replace ball-handling starters)
-- Durable: `age decline watch` (expert would not draft him at his post-deadline rank because of his age), `fits every build` (no category flagged weak; FT%, rebounds and steals are modest)
+- Current: `sleeper` (ADP around 110 to 118; experts see 20 to 30 spots of value), `expert target` (Lloyd targets picks 80 to 90; Josh paid 8 USD in a mock auction), `minutes competition` (Lu Dort could start in his place), `contract year` (1-year, 21 million deal), `shared ball handling` (no true point guard; he handles the ball most), `three-point heavy`, `low shutdown risk`, `winning team` (46 projected wins), `deep rotation` (10-man rotation expected; Dort and Wiggins can take guard minutes)
+- Durable: `age decline watch` (one expert cites his age as a reason to cap his draft price), `five-out offense` (Quin Snyder)
 
-**Note.** McCollum is a cheap guard: Yahoo values him at 3 USD and ESPN at 4 USD, and he went for 2 USD in our auction last season. The experts call his rank of about 100 to 117 too low after he finished last season at a top-70 pace in Atlanta, so plan to bid 3 to 6 USD for a last guard or bench spot and stop around 8 USD. His threes (about 2.5 per game) and points help most builds, but he adds little in FT%, rebounds and steals. In the first weeks, check that he starts over Lu Dort and keeps about 30 minutes.
+**Note.** He costs almost nothing. Yahoo values him at 4 USD with an average cost of 1.0, ESPN at 4 USD with an average cost of 2.1, and he went for 2 USD in our league last season, but experts rank him 20 to 30 spots above his rank of 82 to 106. A bid of up to about 8 USD for a guard who adds threes, points and some assists is reasonable, especially in builds that can absorb his below-average FG%, rebounds and steals. Check early whether he keeps his starting job over Lu Dort and stays near 30 minutes.
 
-<sub>16 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>19 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

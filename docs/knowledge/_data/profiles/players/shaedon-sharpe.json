@@ -8,42 +8,43 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "d88ea4f48cba",
+ "input_sha": "d8645a5bc7cc",
  "note_count": 9,
- "built_at": "2026-10-05T20:02:34+00:00",
+ "built_at": "2026-10-11T09:23:26+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1546542,
-  "duration_ms": 38425,
+  "cost_usd_list": 0.16143419999999997,
+  "duration_ms": 39450,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He has a meniscus injury in his knee and is expected to miss basically the whole season. Yahoo lists him as out with a knee injury.",
+   "text": "He has a meniscus injury in his knee and is expected to be out for basically the whole season. Yahoo lists him as out with a knee injury.",
    "kind": "fact",
    "date": "2026-08-26",
-   "until": "",
+   "until": "most of the 2026-27 season",
    "sources": [
     "sTtFUy7IoJI:p52",
     "stats"
    ]
   },
   {
-   "text": "Portland's backcourt is crowded with Damian Lillard, Ja Morant, Jrue Holiday, Scoot Henderson and Deni Avdija. Sharpe is listed off the bench, and the projected starters are Lillard, Morant, Camara, Avdija and Clingan.",
+   "text": "Portland's backcourt is crowded. Damian Lillard, Ja Morant, Jrue Holiday, Scoot Henderson and Deni Avdija all compete for on-ball minutes, and Sharpe is listed off the bench.",
    "kind": "fact",
-   "date": "2026-08-26",
-   "until": "",
+   "date": "2026-10-09",
    "sources": [
     "Rqb5GdrSweY:t6",
     "YJk7ZFKFqnI:t1",
-    "sTtFUy7IoJI:t9",
-    "bHA-JoW3reE:t0"
-   ]
+    "-DN4P92Wp8Y:t0",
+    "n4KkK-OJjqA:t6",
+    "sTtFUy7IoJI:t9"
+   ],
+   "until": ""
   },
   {
-   "text": "There is almost no chance he starts.",
+   "text": "Josh says there is almost no chance he starts.",
    "kind": "verdict",
    "date": "2026-08-11",
    "until": "",
@@ -52,17 +53,16 @@
    ]
   },
   {
-   "text": "His value has cratered in the crowded Portland backcourt, and with the knee injury he is not a draft pick for our league.",
+   "text": "His value has cratered in the crowded Portland backcourt, and he cannot be drafted as the roster stands.",
    "kind": "verdict",
-   "date": "2026-08-26",
+   "date": "2026-06-29",
    "until": "",
    "sources": [
-    "bHA-JoW3reE:p8",
-    "sTtFUy7IoJI:p52"
+    "bHA-JoW3reE:p8"
    ]
   },
   {
-   "text": "Last season he scored about 20 points a game in a high-volume bench role. It is unclear whether those points were empty or whether he can keep that volume.",
+   "text": "It is unclear whether his scoring from last season, which came in a high-volume bench role, was empty or whether he can keep that volume.",
    "kind": "verdict",
    "date": "2026-08-11",
    "until": "",
@@ -71,7 +71,7 @@
    ]
   },
   {
-   "text": "His jump to 1.5 steals came from a 71% deflection-to-steal conversion, which the expert calls luck. Expect his steals to come down.",
+   "text": "His jump in steals came from a 71% deflection-to-steal conversion. The speaker calls this luck, so his steals should come back down.",
    "kind": "verdict",
    "date": "2026-07-17",
    "until": "",
@@ -80,7 +80,7 @@
    ]
   },
   {
-   "text": "Only 47.2% of his potential assists became assists. The likely cause is teammates who finish poorly (Camara, Clingan, Avdija), not luck alone.",
+   "text": "His potential assists converted at only 47.2%. The speaker blames teammates who finish poorly (Camara, Clingan, Avdija) more than luck.",
    "kind": "verdict",
    "date": "2026-07-17",
    "until": "",
@@ -102,12 +102,12 @@
  ],
  "durable": [
   {
-   "text": "His fantasy value rests on scoring volume. He adds few assists and almost no blocks for a guard.",
+   "text": "His injury history includes a knee meniscus injury that is expected to cost most of the 2026-27 season.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-08-26",
    "until": "",
    "sources": [
-    "stats"
+    "sTtFUy7IoJI:p52"
    ]
   }
  ],
@@ -115,8 +115,8 @@
   {
    "name": "injured now",
    "channel": "current",
-   "detail": "knee meniscus injury, expected to miss basically the whole season; Yahoo status O (Knee)",
-   "until": "",
+   "detail": "Knee meniscus injury, Yahoo status O, expected out for basically the whole season",
+   "until": "most of the 2026-27 season",
    "sources": [
     "sTtFUy7IoJI:p52",
     "stats"
@@ -124,32 +124,43 @@
    "new_meaning": ""
   },
   {
-   "name": "role down",
+   "name": "usage competition",
    "channel": "current",
-   "detail": "value cratered after Portland added Morant and got Lillard, Holiday and Scoot back",
+   "detail": "Shares the ball with Lillard, Morant, Holiday, Henderson and Avdija",
    "until": "",
    "sources": [
-    "bHA-JoW3reE:p8",
+    "Rqb5GdrSweY:t6",
+    "sTtFUy7IoJI:t9",
+    "ME-r173X5b0:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Crowded guard group, listed off the bench",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:t6",
     "YJk7ZFKFqnI:p23"
    ],
    "new_meaning": ""
   },
   {
-   "name": "usage competition",
+   "name": "role down",
    "channel": "current",
-   "detail": "Lillard, Morant, Scoot, Holiday and Avdija all need the ball",
+   "detail": "Almost no chance to start after Portland added Morant, Lillard and Holiday",
    "until": "",
    "sources": [
-    "sTtFUy7IoJI:t9",
-    "Rqb5GdrSweY:t6",
-    "ME-r173X5b0:t3"
+    "YJk7ZFKFqnI:p23",
+    "bHA-JoW3reE:p8"
    ],
    "new_meaning": ""
   },
   {
    "name": "regression risk",
    "channel": "current",
-   "detail": "steals jump came from a lucky 71% deflection-to-steal conversion",
+   "detail": "Steals rose on a lucky 71% deflection-to-steal conversion",
    "until": "",
    "sources": [
     "NYTH7uQsPCM:p20"
@@ -169,7 +180,7 @@
   {
    "name": "unsettled rotation",
    "channel": "current",
-   "detail": "minutes and usage expected to swing from game to game",
+   "detail": "Minutes and usage expected to swing from game to game",
    "until": "",
    "sources": [
     "YJk7ZFKFqnI:t5"
@@ -177,6 +188,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Do not draft him: he is out with a knee meniscus injury, both sites value him at 0 USD (Yahoo rank 214, ESPN rank 330), and even healthy he faces a crowded Portland backcourt. He went for 4 USD in our league last season, but that price does not apply now. Two September notes call him a starter and a round-nine flyer without mentioning the injury, and they name teammates and a rank that do not match Portland or the tables, so they were left out. Projections of 27 to 30 games suggest a late-season return, so watch for return news before the playoffs and treat him as a possible free IL stash from waivers, not an auction target.",
+ "note": "Both sites give him a value of 0 USD (Yahoo rank 218, ESPN rank 331). Projections cover only 27 to 30 games, which fits a meniscus injury that is expected to cost most of the season. Do not spend a draft pick on him, not even the 4 USD he cost in our league last season. Even when healthy he is a bench scorer in a crowded backcourt, and his categories show no strength. Watch for a return timeline and leave him on waivers until then. Two September notes call him a starter and a round-nine flyer, but they do not fit the facts we have. One says he played 19 minutes last season, while the table shows 29.4. The other names Danny Wolf and Mo Wagner as his minutes rivals. Neither mentions the injury, so they were not used.",
  "rejected": []
 }

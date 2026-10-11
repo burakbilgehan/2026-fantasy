@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 174 | 0 | 0.1 | 146 | not drafted |
+| 2026-27 | 0 | 0.0 | 174 | 0 | 0.2 | 147 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -24,28 +24,30 @@
 | REB | 6.1 | +0.4 | -0.1 | - |
 | AST | 1.5 | -0.9 | -0.7 | - |
 | STL | 0.3 | -1.8 | -1.8 | league outlier, weak, weak for his position (punt fit) |
-| BLK | 1.6 | +2.2 | +1.7 | league outlier, strong |
-| TO | 1.2 | +0.5 | +0.4 | - |
+| BLK | 1.6 | +2.1 | +1.7 | league outlier, strong |
+| TO | 1.2 | +0.6 | +0.4 | - |
 
 </details>
 
 **Current**
-- Zach Edey had a broken foot in June. In mid-September an expert said he might be out for longer. (fact, 2026-09-15; [06-23](https://youtu.be/-rgXhs5BHiw?t=1008), [09-15](https://youtu.be/KPdD91Oo8-U?t=2730))
-- Experts say Stewart can start or make spot starts while Edey is out. That makes him a good late pick if Edey's absence runs long. (verdict, 2026-09-15, until Zach Edey returns; [09-15](https://youtu.be/KPdD91Oo8-U?t=2730), [08-17](https://youtu.be/LcZcvk8s1xQ?t=403), [07-01](https://youtu.be/W3THnI7wWdA?t=249), [06-30](https://youtu.be/4GDfg2n2l8o?t=853))
-- Stewart was traded to Memphis, where he is the backup center behind Zach Edey. (fact, 2026-08-17; [07-01](https://youtu.be/W3THnI7wWdA?t=249), [06-30](https://youtu.be/4GDfg2n2l8o?t=853), [08-12](https://youtu.be/p9XE5jFqhvs?t=416), [08-17](https://youtu.be/LcZcvk8s1xQ?t=403))
-- Coach Tuomas Iisalo runs an 11-man rotation with short stints and keeps minutes down. Only Boozer and Coward are expected to top 30 minutes, which caps a backup center's minutes. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- Stewart was traded to Memphis. He is the backup center behind Zach Edey and is projected to come off the bench. (fact, 2026-10-07; [07-01](https://youtu.be/W3THnI7wWdA?t=249), [06-30](https://youtu.be/4GDfg2n2l8o?t=853), [08-17](https://youtu.be/LcZcvk8s1xQ?t=403), [08-12](https://youtu.be/p9XE5jFqhvs?t=416), [10-07](https://youtu.be/lp11OAEpq4Y?t=1780), [10-07](https://youtu.be/lp11OAEpq4Y?t=1812))
+- He could start or make spot starts if Zach Edey misses time. He would have fantasy value as a starter. (verdict, 2026-10-07; [07-01](https://youtu.be/W3THnI7wWdA?t=249), [06-30](https://youtu.be/4GDfg2n2l8o?t=853), [08-17](https://youtu.be/LcZcvk8s1xQ?t=403), [09-15](https://youtu.be/KPdD91Oo8-U?t=2730), [10-07](https://youtu.be/lp11OAEpq4Y?t=1748))
+- The expert treats him as a stash pick and insurance for Edey. He calls the Yahoo rank of 174 fair and the ESPN rank of about 146 aggressive. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1780))
+- He sprained his ankle two minutes into a preseason game. The severity is unknown. Yahoo lists him as out (ankle). (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1917), stats)
+- Memphis coach Tuomas Iisalo plays at a very high pace, uses short stints and keeps minutes down. The team runs an 11-man rotation, possibly 12. (fact, 2026-10-07; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159), [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [10-07](https://youtu.be/lp11OAEpq4Y?t=296))
+- Memphis plays the maximum 4-4-4 schedule in our playoff weeks through March 28. It has only 13 back-to-backs, possibly the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1987))
 - He wants a bigger role and more three-point attempts. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=416))
-- The Memphis frontcourt is crowded with Prosper, Hendricks, Edey and Stewart, and Cameron Boozer will start. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1680))
 
 **Durable**
-- Blocks are his standout category. He projects to about 1.6 per game, which is far above the top 250 pool. (fact, 2026-10-04; stats)
-- Steals are a clear weakness, at about 0.3 per game. That is low even for a big man. (fact, 2026-10-04; stats)
-- He has not finished a season healthy in the last three or four years. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=375))
+- Blocks are his standout category, well above the top 250 pool. (fact, 2026-10-11; stats)
+- Steals are a clear weakness, far below both the pool and his position. (fact, 2026-10-11; stats)
+- He is a good rim protector and a solid rebounder who can hit some threes. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1748))
+- He has not finished a season healthy in the last three or four years and had many ankle injuries last season. (fact, 2026-10-07; [08-12](https://youtu.be/p9XE5jFqhvs?t=375), [10-07](https://youtu.be/lp11OAEpq4Y?t=1917))
 
 **Tags**
-- Current: `new team` (traded from Detroit to Memphis), `handcuff` (backup center to Zach Edey, who had a broken foot; until Zach Edey returns), `minutes competition` (crowded frontcourt with Edey, Boozer, Prosper and Hendricks in an 11-man rotation), `flyer` (late pick whose upside depends on how long Edey is out; until Zach Edey returns)
-- Durable: `injury prone` (has not finished a season healthy in three or four years), `BLK specialist` (about 1.6 blocks per game projected), `punt STL fit` (about 0.3 steals per game)
+- Current: `injured now` (Preseason ankle sprain, severity unknown. Yahoo status O.), `new team` (Traded from Detroit to Memphis), `handcuff` (Backup center behind Zach Edey), `waiver watch` (Ranked outside the 144 drafted players. Add if Edey misses time.), `deep rotation` (Iisalo runs an 11 or 12 man rotation), `low starter minutes` (Iisalo uses short stints and keeps minutes down), `fast pace` (Iisalo plays at a very high pace), `good playoff schedule` (4-4-4 in weeks 19 to 21 through March 28), `few back-to-backs` (Only 13 back-to-backs)
+- Durable: `BLK specialist` (About 1.6 blocks projected per game), `punt STL fit` (About 0.3 steals per game), `injury prone` (Repeated ankle injuries. Has not finished a season healthy in three or four years.)
 
-**Note.** Both sites value Stewart at 0 USD (Yahoo rank 174, ESPN rank 146), so he sits at the edge of our 144-player draft. At most he is a 1 USD final-round pick. His value is blocks (about 1.6 per game) plus a helpful FG% on low volume, and he fits punt STL builds. Before the draft and in the first weeks, check Zach Edey's foot. If Edey stays out, Stewart's starts make him worth a pick or an early waiver claim. If Edey is healthy, Iisalo's low-minute rotation leaves him as a waiver player.
+**Note.** Both Yahoo and ESPN value him at 0 USD. His ranks (Yahoo 174, ESPN 147) put him outside the 144 players drafted in our league, and he is out now with an ankle sprain, so leave him for waivers. His value depends on Zach Edey missing time. As a starter, his blocks (about 1.6 per game) and solid FG% would help punt STL builds, and Memphis has a full 4-4-4 playoff schedule. Early in the season, check how bad the ankle is and whether Edey is healthy, and be ready to spend FAB if Stewart moves into the starting lineup.
 
-<sub>6 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>9 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

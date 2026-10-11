@@ -3,7 +3,7 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, ESPN | 67 | 35.3 | 48.0 (17.6) | 81.4 (4.8) | 1.7 | 22.6 | 5.7 | 4.8 | 0.8 | 0.7 | 2.8 |
+| 2026-27 proj, ESPN | 55 | 35.3 | 48.0 (17.6) | 81.4 (4.8) | 1.7 | 22.6 | 5.7 | 4.8 | 0.8 | 0.7 | 2.8 |
 | 2026-27 proj, Yahoo | 68 | - | 47.8 (17.1) | 81.9 (4.6) | 1.8 | 21.9 | 5.6 | 4.3 | 0.8 | 0.7 | 2.6 |
 | 2025-26 | 77 | 33.8 | 47.7 (16.7) | 82.0 (4.6) | 1.8 | 21.5 | 5.6 | 3.7 | 0.8 | 0.7 | 2.4 |
 | 2024-25 | 18 | 33.0 | 46.5 (18.5) | 85.5 (3.1) | 2.4 | 22.2 | 5.6 | 5.2 | 0.9 | 0.6 | 3.8 |
@@ -11,47 +11,48 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 16 | 3.2 | 66 | 4 | 4.4 | 79 | 16 |
+| 2026-27 | 11 | 2.5 | 83 | 0 | 3.6 | 142 | 16 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 47.9% | +0.0 | +0.3 | - |
-| FT% | 81.6% | +0.4 | +0.3 | - |
+| FT% | 81.7% | +0.4 | +0.3 | - |
 | 3PM | 1.8 | +0.3 | +0.1 | - |
 | PTS | 22.2 | +1.4 | +1.4 | - |
 | REB | 5.6 | +0.2 | +0.7 | - |
 | AST | 4.6 | +0.7 | +0.8 | - |
-| STL | 0.8 | -0.4 | -0.5 | - |
+| STL | 0.8 | -0.4 | -0.6 | - |
 | BLK | 0.7 | +0.2 | +0.8 | - |
-| TO | 2.7 | -1.5 | -1.5 | weak for his position (punt fit) |
+| TO | 2.7 | -1.4 | -1.4 | weak for his position (punt fit) |
 
 </details>
 
 **Current**
-- Experts disagree on his return date. One expects him back in November, another around Christmas. No one knows what restrictions he will have when he returns. (verdict, 2026-10-05; [09-29](https://youtu.be/XnIWJyBB0EM?t=2143), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1937), [10-05](https://youtu.be/Q6YlQDvD-aY?t=4723))
-- Experts now fade him. He is not a top 100 pick and is fine only around picks 100 to 110 in stash-friendly formats. One expert calls him the biggest fade on the Clippers, and others will not draft him. (verdict, 2026-10-05; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1646), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1842), [09-29](https://youtu.be/XnIWJyBB0EM?t=2143), [09-30](https://youtu.be/BjXP9JODDSg?t=1426), [10-05](https://youtu.be/Q6YlQDvD-aY?t=4723))
+- He has a partially torn Achilles, found during surgery in May. He is out now. (fact, 2026-10-09, until Thanksgiving to Christmas; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1937), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1818), [09-29](https://youtu.be/XnIWJyBB0EM?t=2143), [10-08](https://youtu.be/WXO8MfQfzo0?t=1714))
+- The newest expert view expects him back around Thanksgiving to Christmas, followed by minutes limits and rest. Other experts say no one knows when he returns or what restrictions he will have. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1818), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1937), [10-05](https://youtu.be/Q6YlQDvD-aY?t=4723), [10-08](https://youtu.be/WXO8MfQfzo0?t=1714))
+- Since the injury news, experts say to fade him. The newest call is not to draft him at his Yahoo rank of 83 or anywhere inside the top 120. Another expert says he is not a top 100 pick but is fine around 100 to 110 in stash-friendly formats. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1818), [10-08](https://youtu.be/WXO8MfQfzo0?t=1714), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1646), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1842), [09-30](https://youtu.be/BjXP9JODDSg?t=1426), [09-29](https://youtu.be/XnIWJyBB0EM?t=2143), [10-05](https://youtu.be/Q6YlQDvD-aY?t=4723))
+- Experts expect the Clippers to be one of the worst teams in the league. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=177), [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018), [07-13](https://youtu.be/Rqb5GdrSweY?t=1782), [10-08](https://youtu.be/WXO8MfQfzo0?t=1714))
 - He went for 6 USD in an expert auction mock draft. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4723))
-- He has a partially torn Achilles, found during surgery in May. He is out now. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1937), [09-29](https://youtu.be/XnIWJyBB0EM?t=2143), stats)
-- The Clippers do not control their own draft pick, so tanking does not help them. Their motivation this season is unclear, and it may be a trial season with long rotations. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=165), [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/n4KkK-OJjqA?t=360))
-- The Clippers play 4-3-4 games in our playoff weeks (season ending March 28). With 13 back-to-backs, they have one of the lowest totals in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
-- Once healthy, he is expected to be the Clippers' top option next to Darius Garland. His usage should rise from 26.7% and may get close to 30%. (verdict, 2026-09-17; [08-22](https://youtu.be/KLogvUwv_d8?t=714), [08-26](https://youtu.be/sTtFUy7IoJI?t=904), [08-26](https://youtu.be/sTtFUy7IoJI?t=889), [09-17](https://youtu.be/ahNxsoU8Hx4?t=797), [09-17](https://youtu.be/ahNxsoU8Hx4?t=807))
-- He was traded from Toronto to the Clippers in the Kawhi Leonard trade. (fact, 2026-08-20; [06-30](https://youtu.be/JMSLg6yz-M0?t=850), [07-14](https://youtu.be/xHRF06_E9HE?t=616), [08-20](https://youtu.be/s28HvC2grAk?t=1243))
-- His assists may not rise because Garland runs the offense. (verdict, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=850))
+- The Clippers do not control their own draft pick, so tanking does not help them. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=165), [08-22](https://youtu.be/KLogvUwv_d8?t=1267))
+- The Clippers play 4, 3 and 4 games in our fantasy playoff weeks 19 to 21. They have 13 back-to-backs, one of the lowest totals in the league. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
+- When healthy, experts see him as a starter and likely the Clippers' number one option. He and Garland should do nearly everything on offense, so his usage should rise, maybe toward 30%. (verdict, 2026-09-17; [08-22](https://youtu.be/KLogvUwv_d8?t=714), [09-17](https://youtu.be/ahNxsoU8Hx4?t=797), [09-17](https://youtu.be/ahNxsoU8Hx4?t=807), [08-26](https://youtu.be/sTtFUy7IoJI?t=904), [08-26](https://youtu.be/sTtFUy7IoJI?t=889))
+- The Clippers got him in the Kawhi Leonard trade with Toronto. He takes Kawhi's spot. (fact, 2026-09-03; [06-30](https://youtu.be/JMSLg6yz-M0?t=850), [07-14](https://youtu.be/xHRF06_E9HE?t=616), [08-20](https://youtu.be/s28HvC2grAk?t=1243), [09-03](https://youtu.be/OBwWCxG9SqM?t=144))
+- His assists may not rise because Garland is on the team. (verdict, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=850))
 
 **Durable**
-- Turnovers are his weak category. At about 2.7 per game, he is weak for his position. (fact, 2026-10-05; stats)
-- He is injury-prone and a notoriously slow healer, so his games played are hard to project. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1568), [08-09](https://youtu.be/8d--aL_xxwE?t=951), [06-30](https://youtu.be/JMSLg6yz-M0?t=502), [08-26](https://youtu.be/sTtFUy7IoJI?t=929), [09-17](https://youtu.be/ahNxsoU8Hx4?t=797))
-- He is one of the better midrange scorers in the league. He needs a lot of the ball and is useless playing off the ball. (verdict, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=697), [06-30](https://youtu.be/JMSLg6yz-M0?t=262))
-- He rarely takes threes and has struggled with three-point volume and percentage. (verdict, 2026-08-22; [08-20](https://youtu.be/s28HvC2grAk?t=1243), [06-30](https://youtu.be/JMSLg6yz-M0?t=262), [08-22](https://youtu.be/KLogvUwv_d8?t=697))
-- He is an average defender at best, with poor defensive stats. (verdict, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=697), [06-30](https://youtu.be/JMSLg6yz-M0?t=838))
-- Over five seasons he played 55, 45, 64, 18 and 77 games. His minutes stayed between 32.9 and 34.2. (fact, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=951))
+- Points are his best category. Turnovers are his weakest category for his position. (fact, 2026-10-11; stats)
+- He is injury prone and a notoriously slow healer, so his games played are hard to project. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1824), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1568), [08-09](https://youtu.be/8d--aL_xxwE?t=951), [09-17](https://youtu.be/ahNxsoU8Hx4?t=797), [08-26](https://youtu.be/sTtFUy7IoJI?t=929), [06-30](https://youtu.be/JMSLg6yz-M0?t=502))
+- He is one of the better midrange scorers in the league. He rarely takes threes and has struggled with three-point volume and percentage. (verdict, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=697), [08-20](https://youtu.be/s28HvC2grAk?t=1243), [06-30](https://youtu.be/JMSLg6yz-M0?t=262))
+- He is an average defender at best and gives poor defensive stats. (verdict, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=697), [06-30](https://youtu.be/JMSLg6yz-M0?t=838))
+- Over his last five seasons he played 55, 45, 64, 18 and 77 games. His minutes stayed between 32.9 and 34.2 in every one of them. (fact, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=951))
+- He needs a lot of the ball and does little playing off the ball. (verdict, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=262))
 
 **Tags**
-- Current: `injured now` (Partially torn Achilles found during surgery in May. Yahoo status O.), `IL stash` (Rated around picks 100 to 110 in stash-friendly formats. Return expected between November and Christmas.), `bust candidate` (Experts fade him because of the Achilles. He went 6 USD in an expert mock.), `new team` (Traded from Toronto to the Clippers in the Kawhi Leonard trade.), `role up` (Usage expected to rise from 26.7% toward 30% as a top option with Garland once healthy.), `good playoff schedule` (Clippers play 4-3-4 in weeks 19 to 21.), `few back-to-backs` (Clippers have 13 back-to-backs, one of the lowest totals.), `sites disagree on price` (Yahoo value 16 USD against ESPN value 4 USD.)
-- Durable: `injury prone` (Wide swings in games played (18 to 77). Slow healer.), `usage dependent` (Needs a lot of the ball and is useless off the ball.), `punt TO fit` (About 2.7 turnovers per game.)
+- Current: `new team` (Traded from Toronto to the Clippers in the Kawhi Leonard deal), `injured now` (Partially torn Achilles, Yahoo status O; until Thanksgiving to Christmas), `IL stash` (One expert says he is fine around picks 100 to 110 in stash-friendly formats), `slow start` (Expected back around Thanksgiving to Christmas with minutes limits and rest), `minutes limit` (Expected after his return from the Achilles injury), `bust candidate` (Yahoo rank 83; expert would not take him inside the top 120), `role up` (Likely the Clippers' top option when healthy; usage could rise toward 30%), `bottom team` (Clippers projected among the worst teams), `good playoff schedule` (4-3-4 games in weeks 19 to 21), `few back-to-backs` (13 back-to-backs, one of the lowest totals), `sites disagree on price` (Yahoo rank 83 and value 11 USD; ESPN rank 142 and value 0 USD)
+- Durable: `injury prone` (Notoriously slow healer; games played swing widely season to season), `usage dependent` (Needs a lot of the ball and does little off the ball), `punt TO fit` (Turnovers are his weakest category for his position)
 
-**Note.** He cost 16 USD in our league last season. With a partially torn Achilles and a return date that experts place anywhere from November to Christmas, they now rank him outside the top 100. The Yahoo average cost of 3.2 USD and ESPN's 4 USD fit that view better than Yahoo's 16 USD value. With 4 IL slots, he is a fair late stash at a few dollars as a points scorer for a punt TO build, but do not pay near 16 USD. In November and December, check his return date and any minutes limit. If he is back by then, the Clippers' 4-3-4 playoff schedule helps.
+**Note.** He went for 16 USD in our league last season. Now he is out with a partially torn Achilles, and the newest expert view is to skip him inside the top 120. Yahoo still values him at 11 USD (rank 83), but the market is far lower: average costs are 2.5 USD on Yahoo and 3.6 USD on ESPN, and he went for 6 USD in an expert mock. We have 4 IL slots and a good 4-3-4 Clippers schedule in weeks 19 to 21, so he only makes sense as a 1 to 3 USD late stash in a build that can punt TO. Early in the season, watch for his return date (expected around Thanksgiving to Christmas) and for how long his minutes limit lasts.
 
-<sub>30 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>33 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

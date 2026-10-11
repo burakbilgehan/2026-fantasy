@@ -47,87 +47,56 @@
  ],
  "proposed": true,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-04T20:23:10+00:00",
+ "built_at": "2026-10-11T09:54:23+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.12073279999999999,
-  "duration_ms": 49053
+  "cost_usd_list": 0.1184768,
+  "duration_ms": 45970,
+  "turns": 2,
+  "denied": 0
  },
  "player_slugs": [],
- "summary": "The experts expect the lottery reform to cut tanking, so March games, including our playoff weeks 19 to 21, should be more competitive than last season. Rest and shutdown risk does not disappear. It moves to teams with nothing to play for, teams locked into a seed, the few teams that still tank, and possibly teams that do not own their pick. Do not build auction values or trade targets on last season's March numbers from tanking teams, and do not pay for a late-season rookie surge.",
+ "summary": "The experts agree that the new lottery rules should mean fewer tanking teams and fewer March rest days. That is good for our playoffs, which run weeks 19 to 21 and end 2027-03-28. They disagree about teams that do not own their pick. Some say these teams will keep trying to win, others that they may rest veterans or play young players. Expect less late-season chaos than last year, but check every team's pick ownership, seed and roster before the 2027-03-04 trade deadline, and do not draft or bid on March numbers from tanking teams.",
  "sections": [
   {
    "heading": "What the lottery reform changes",
    "paragraphs": [
     {
-     "text": "Most experts expect the anti-tanking lottery reform to make March basketball more competitive across the league. Fewer teams should tank because the incentives changed. One expert adds that the 2027 draft looks weak, which should mean even less extreme tanking.",
+     "text": "The experts broadly agree that the new anti-tanking lottery rules will make March more competitive. Fewer teams are expected to tank. One expert counted about eight or nine teams tanking or resting players last season and expects this season's fantasy playoffs to be less extreme. A weak 2027 draft adds to that view. One expert says that under the new rules teams gain nothing real by sitting players late in the season.",
      "sources": [
       "3UGI05PDvrE:r0",
       "uRsfijpBPok:r0",
       "ZAyie8lKyYc:r1",
-      "Rqb5GdrSweY:r1"
+      "xHRF06_E9HE:r1",
+      "Rqb5GdrSweY:r1",
+      "-KS_AZjZnw4:r6"
      ]
     },
     {
-     "text": "The key mechanism is a relegation zone. Being one of the three worst teams is now a penalty, so bottom teams have a reason to win games. With top-protected picks, finishing bottom three can even give a worse chance at a top two pick than finishing 4th to 10th. Dallas is named as a team that may push harder to win for this reason.",
+     "text": "The main mechanism is a relegation zone at the bottom. Finishing in the bottom three is now a penalty. With top-protected picks, a bottom-three finish can even give a worse chance at a top-two pick than finishing 4th to 10th. So the worst teams have a reason to win games. One expert names Dallas as a team that may push harder to win for this reason.",
      "sources": [
       "oEywzBZfAvY:r2",
       "Rqb5GdrSweY:r3"
      ]
     },
     {
-     "text": "Last season about eight or nine teams were tanking or resting players during the fantasy playoffs. The experts expect this season to be less extreme. Bad teams that used to win about 17 games may now win about 24 because they keep playing their regular players late. Good teams should win fewer games, and there will be fewer cheap wins against tanking teams.",
+     "text": "Expect win totals to bunch together. Bad teams that used to win about 17 games may now win about 24 because they keep playing their regulars late. Good teams will win fewer games, because there are fewer cheap wins against tanking teams in March. One expert expects every team to keep trying in March and April in this parity era.",
      "sources": [
-      "xHRF06_E9HE:r1",
       "EB1Z_6n56-o:r1",
       "EB1Z_6n56-o:r2",
       "sfCe7fS9daM:r3",
       "TiiaNZCJNs8:r4",
-      "2mxpEpGU3H8:r2"
-     ]
-    },
-    {
-     "text": "This supports our March 28 end date. One expert now suggests ending head-to-head playoffs on March 28 instead of March 21, because late March games should be more competitive. Another says leagues can end a week later than before. A third expects a smaller late-season injury spike because there should be fewer fake injuries.",
-     "sources": [
-      "egRrai3Ax38:r11",
-      "gf_6GveiAls:r4",
-      "gf_6GveiAls:r17"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Which teams may still rest players or shut them down",
-   "paragraphs": [
-    {
-     "text": "Teams with no reason to lose and no reason to win in March can cut veteran minutes to develop young players. Discount the veterans on these middle teams for our playoff weeks. Teams locked into a seed have no reason to rush injured players back, so an injured player on a seed-locked team is a weak bet for weeks 19 to 21.",
-     "sources": [
-      "3UGI05PDvrE:r1",
-      "LXZLrL90crE:r3"
-     ]
-    },
-    {
-     "text": "Some teams will still play for a seed or for better lottery odds late in the season, which can change how hard they play. A team that does decide to tank may shut injured players down for the rest of the season even when they could have returned. In practice, an injured player on a tanking team in March is a drop or bench candidate, not a hold.",
-     "sources": [
-      "ZAyie8lKyYc:r2",
-      "LcZcvk8s1xQ:r3"
-     ]
-    },
-    {
-     "text": "Rebuilding teams that are not playoff threats give young players more chances because they want to see what they have. Those young players are fairly safe from random rest days, though injuries can still change their roles. On thin non-playoff teams, one injury to a main player makes the depth a problem and changes the value of the players left.",
-     "sources": [
-      "FxaSnyk9g90:r2",
-      "LcZcvk8s1xQ:r5",
-      "FxaSnyk9g90:r0"
-     ]
-    },
-    {
-     "text": "The experts disagree on how much conference depth matters. One view is that a deep conference lowers the incentive to chase a top seed, so teams may rest players more. The same source also notes that a deeper conference removes easy wins against tanking teams and makes resting riskier. A separate expert expects every team to keep trying in March and April in the current parity era. Treat conference depth as a weak signal and check standings before the trade deadline.",
-     "sources": [
-      "okN3fbHJtlA:r1",
-      "okN3fbHJtlA:r4",
+      "2mxpEpGU3H8:r2",
       "s28HvC2grAk:r4"
+     ]
+    },
+    {
+     "text": "This fits our calendar. Two experts say leagues can now end a week later than before, and one suggests a March 28 end for head-to-head playoffs. That is exactly our end date. The late-season injury spike should also be smaller because there should be fewer fake injuries.",
+     "sources": [
+      "gf_6GveiAls:r4",
+      "egRrai3Ax38:r11",
+      "gf_6GveiAls:r17"
      ]
     }
    ]
@@ -136,36 +105,72 @@
    "heading": "Teams that do not own their pick: the experts disagree",
    "paragraphs": [
     {
-     "text": "The notes name the Nets, Bucks, Clippers, Pelicans and Mavericks as teams that do not control their own pick. Brooklyn and Milwaukee are called the main examples. Everyone agrees these teams have no reason to tank. They disagree on what that means for March.",
-     "sources": [
-      "uRsfijpBPok:r1",
-      "Rqb5GdrSweY:r2"
-     ]
-    },
-    {
-     "text": "One side says these teams have no reason to win either. They may rest players, be extra careful with injuries, or give developmental minutes late in the season. Watch them for late rest days. They have less reason to fake injuries, but may still give young players minutes to see what they have.",
+     "text": "The experts split on this. One side says these teams have no reason to tank and no downside to losing either. They may rest players, be extra careful with injuries, or give young players development minutes late in the season. The examples named are the Nets, Bucks, Clippers, Pelicans and Mavericks, with Brooklyn and Milwaukee called the main ones to watch. Another note adds that these teams may still lean on young players and protect injured ones. The other side says teams without their own pick have no reason to sit players and will keep pushing to win. They have no reason to finish bottom three, and staying competitive can limit development minutes for their young players. A middle view says they have less reason to fake injuries but may still give young players minutes to see what they have.",
      "sources": [
       "uRsfijpBPok:r1",
       "Rqb5GdrSweY:r2",
       "xHRF06_E9HE:r2",
+      "sfCe7fS9daM:r4",
+      "-KS_AZjZnw4:r7",
+      "KLogvUwv_d8:r0",
       "LM0cRCGoAUQ:r9"
      ]
     },
     {
-     "text": "The other side says these teams have no reason to sit players and will keep pushing to win, because finishing bottom three gains them nothing. Under this view, the team stays competitive, and that limits development minutes for its young players. Under the new rules, one expert says, no team gets a real benefit from sitting players late.",
+     "text": "For us, the safe reading is that pick ownership alone does not tell you what a team will do. In the auction, do not discount a good player only because his team gave away its pick. Before the 2027-03-04 trade deadline, check where that team sits. A team in the race behaves like a contender. A team clearly out of it, with nothing to gain from winning or losing, is the one that may rest veterans in weeks 19 to 21.",
      "sources": [
-      "sfCe7fS9daM:r4",
+      "uRsfijpBPok:r1",
       "-KS_AZjZnw4:r7",
-      "KLogvUwv_d8:r0",
-      "-KS_AZjZnw4:r6"
+      "3UGI05PDvrE:r1"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Other teams that may rest or shut down players",
+   "paragraphs": [
+    {
+     "text": "Reform does not remove every reason to sit players. Teams locked into a seed have no reason to rush injured players back. A deep conference lowers the reward for chasing a top seed, so teams there may rest players more. But one expert notes that a deep conference also removes easy wins against tanking teams, which makes resting riskier. Late in the season, some teams may try to win or lose to land a certain seed or better lottery odds.",
+     "sources": [
+      "LXZLrL90crE:r3",
+      "okN3fbHJtlA:r1",
+      "okN3fbHJtlA:r4",
+      "ZAyie8lKyYc:r2"
      ]
     },
     {
-     "text": "For our league, the safe reading is this. Veterans on these five teams carry some March rest risk, so do not overpay for them at the auction expecting full playoff weeks. Young players on these teams should not be bought for a late-season minutes jump, because the team may play its regulars instead. Recheck each team's March behavior before the March 4 trade deadline.",
+     "text": "A team with no reason to win or lose in March can cut veteran minutes to develop young players. Factor that into what its veterans are worth to you in the playoffs. If a team does decide to tank, injured players may be shut down for the season even when they could have returned. On thin non-playoff teams, an injury to a main player also changes the value of the players left.",
      "sources": [
-      "uRsfijpBPok:r1",
-      "KLogvUwv_d8:r0",
-      "Rqb5GdrSweY:r2"
+      "3UGI05PDvrE:r1",
+      "LcZcvk8s1xQ:r3",
+      "FxaSnyk9g90:r0"
+     ]
+    },
+    {
+     "text": "Two experts weigh stars on bad teams differently. One says not to worry about tanking when drafting a good player from that team. The other says ranges for stars on bad teams should include the risk of rest and cut minutes, not just per-game value. At the 2026-10-18 auction, a fair middle ground is this. Pay for the star's per-game value, but when two stars are close in price, take the one on a team likely to compete in March. If you own a star on a team that falls out of the race, think about trading him before 2027-03-04.",
+     "sources": [
+      "_vbAP5y182A:r1",
+      "MUbNYdjpUDM:r1"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Young players and rookies in March",
+   "paragraphs": [
+    {
+     "text": "Rebuilding teams that are not playoff threats give young players more chances because they want to see what they have. Young players on those teams are also fairly safe from random rest days, though injuries can still change things.",
+     "sources": [
+      "FxaSnyk9g90:r2",
+      "LcZcvk8s1xQ:r5"
+     ]
+    },
+    {
+     "text": "Do not plan your playoff roster around a March rookie boom. Two experts say the late-season jump in rookie value may be smaller than usual. Fewer shutdowns by tanking teams means fewer big March minutes for rookies. For our league, that means do not hold a weak rookie on your 2 bench spots all season hoping he breaks out in March. Also, do not spend a large share of your FAB on a rookie just because a team sat a veteran for a few games. Check first that the team is truly out of the race.",
+     "sources": [
+      "lOshTzDA4SA:r4",
+      "OBwWCxG9SqM:r3",
+      "KLogvUwv_d8:r0"
      ]
     }
    ]
@@ -174,25 +179,18 @@
    "heading": "Why late-season numbers from tanking teams mislead",
    "paragraphs": [
     {
-     "text": "Tanking teams pull players after three quarters and sit them for much of March. That makes March stats from rebuilding teams hard to trust. Late-season games are also skewed in the other direction: good teams pile up easy wins against tanking opponents. Players on teams trying to win are easier to trust.",
+     "text": "Players on teams trying to win are easier to trust than players on tanking teams. Tanking teams pull players after three quarters and sit them for much of March. One expert says plainly that March stats from rebuilding teams are hard to trust. Late-season games in general are skewed by tanking.",
      "sources": [
       "UTE0dNIv8nY:r0",
       "UTE0dNIv8nY:r1",
-      "TiiaNZCJNs8:r4",
-      "okN3fbHJtlA:r4"
+      "TiiaNZCJNs8:r4"
      ]
     },
     {
-     "text": "This matters for auction prep. Last season had eight or nine teams tanking or resting players in the fantasy playoffs. A young player's big March on one of those teams may come from shutdowns of others, not from a lasting role. Do not price him off his last-month line on October 18. Use full-season role and minutes instead.",
+     "text": "This matters for draft prep. Last season about eight or nine teams were tanking or resting players. So a young player's big March line from a tanking team was earned with minutes he may not get this year, when fewer teams are expected to tank. A veteran's weak March may simply reflect rest and early benches. Before 2026-10-18, base your prices on full-season or pre-March numbers for players on last year's tanking teams. Do not bid up a young player on the strength of his March line alone.",
      "sources": [
       "xHRF06_E9HE:r1",
       "UTE0dNIv8nY:r1",
-      "LcZcvk8s1xQ:r3"
-     ]
-    },
-    {
-     "text": "Do not expect the same rookie surge this March. With less tanking, the late-season jump in rookie relevance may be smaller than usual, and shutdowns that hand rookies big minutes may not happen much anymore. Do not add auction value to a rookie or late flyer for a March bump. Keep FAB for real role changes you can confirm.",
-     "sources": [
       "lOshTzDA4SA:r4",
       "OBwWCxG9SqM:r3"
      ]
@@ -200,33 +198,18 @@
    ]
   },
   {
-   "heading": "What to do in our league",
+   "heading": "Checklist for our league",
    "paragraphs": [
     {
-     "text": "The experts disagree on stars from bad teams. One says a star's value range on a bad team should include the risk of rest and cut minutes, not just per-game value. Another says not to worry about tanking when drafting a good player from that team. With the reform, the second view has more support in the notes. A fair approach at the auction is a small discount for a star on a clearly bad team, not a large one.",
+     "text": "At the auction, do not discount good players for tank risk alone. Use team context only to break ties between similar stars. Do not pay for March breakouts from last season. Before the trade deadline on 2027-03-04, check four things for each team where you own key players: does it own its pick, is it locked into a seed, is it in a deep conference, and is it clearly out of the race? Players on teams that answer yes to the last three are the most likely to sit during weeks 19 to 21. Trade them to contenders' managers while their value holds. In March, use your 6 weekly acquisitions to stream players from teams still fighting for a seed or trying to escape the bottom three, since those teams have a reason to play their regulars.",
      "sources": [
-      "MUbNYdjpUDM:r1",
       "_vbAP5y182A:r1",
-      "oEywzBZfAvY:r2",
-      "EB1Z_6n56-o:r2"
-     ]
-    },
-    {
-     "text": "Before the March 4 trade deadline, check three things for every key player: is his team locked into a seed, does it own its pick, and is it out of both the race and the bottom three. Sell veterans on seed-locked or no-incentive teams if you need full weeks 19 to 21. Hold or buy players on teams still fighting for seeds or out of the relegation zone.",
-     "sources": [
+      "MUbNYdjpUDM:r1",
       "LXZLrL90crE:r3",
+      "okN3fbHJtlA:r1",
       "3UGI05PDvrE:r1",
-      "ZAyie8lKyYc:r2",
-      "Rqb5GdrSweY:r3"
-     ]
-    },
-    {
-     "text": "In March, use the six weekly acquisitions on players whose minutes come from a stable role. If a tanking team shuts down an injured starter, his backup can help, but treat that as short-term streaming. Rebuilding-team youngsters are fairly safe from random rest, so they are better streams than veterans on teams with nothing to play for.",
-     "sources": [
-      "LcZcvk8s1xQ:r3",
-      "LcZcvk8s1xQ:r5",
-      "FxaSnyk9g90:r0",
-      "UTE0dNIv8nY:r1"
+      "oEywzBZfAvY:r2",
+      "UTE0dNIv8nY:r0"
      ]
     }
    ]

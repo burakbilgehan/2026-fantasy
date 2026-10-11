@@ -8,35 +8,35 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "6beb786bb708",
+ "input_sha": "448e2211f1b4",
  "note_count": 19,
- "built_at": "2026-10-05T19:42:02+00:00",
+ "built_at": "2026-10-11T09:11:24+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.201988,
-  "duration_ms": 51464,
+  "cost_usd_list": 0.2050982,
+  "duration_ms": 57588,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Fred VanVleet is back, so Thompson moves off point guard and plays closer to the rim.",
+   "text": "Fred VanVleet is back, so Thompson moves off point guard and plays less of the lead ball handler role.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
    "sources": [
     "aLP080hxizA:p6",
-    "J1Eg3uaAICU:p35",
-    "2A2JbUN-kc0:p32",
-    "7BllEsdNLoM:p17",
-    "gJUBAJaHzlU:p2",
     "J1Eg3uaAICU:t2",
-    "2A2JbUN-kc0:t4"
+    "2A2JbUN-kc0:t4",
+    "2A2JbUN-kc0:p32",
+    "J1Eg3uaAICU:p35",
+    "gJUBAJaHzlU:p2",
+    "7BllEsdNLoM:p17"
    ]
   },
   {
-   "text": "He is a projected starter next to VanVleet, Durant, Jabari Smith and Sengun.",
+   "text": "He is a projected starter next to VanVleet, Durant, Jabari Smith Jr. and Sengun.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -46,40 +46,36 @@
    ]
   },
   {
-   "text": "With less time at point guard, his assists may drop by about one per game.",
+   "text": "Experts expect the role change to cost him about one assist per game. They expect his blocks to come back toward 0.9, his steals to rise a little and his FG% to reach 55 or 56%.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
    "sources": [
     "aLP080hxizA:p6",
-    "7BllEsdNLoM:p17",
-    "gJUBAJaHzlU:p2"
-   ]
-  },
-  {
-   "text": "Off the ball, his blocks and steals should come back. Lloyd hopes for about 0.9 blocks and a FG% of 55 to 56%.",
-   "kind": "verdict",
-   "date": "2026-10-01",
-   "until": "",
-   "sources": [
-    "aLP080hxizA:p6",
-    "2A2JbUN-kc0:p32",
-    "7BllEsdNLoM:p17",
     "gJUBAJaHzlU:p2",
+    "7BllEsdNLoM:p17",
+    "2A2JbUN-kc0:p32",
     "J1Eg3uaAICU:p35"
    ]
   },
   {
-   "text": "Lloyd ranks him mid-to-late second round in category leagues if his blocks and FG% improve. If they do not, he is a third-round pick, around 28 to 30. Lloyd calls his ESPN rank of 13 slightly aggressive.",
+   "text": "Most experts call him a second-round player in category leagues. Lloyd's newest call: mid-to-late second round if his blocks and FG% improve, otherwise a third-round pick around 28 to 30. He calls ESPN's rank of 13 slightly aggressive.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
    "sources": [
-    "aLP080hxizA:p8"
+    "aLP080hxizA:p8",
+    "C4vlgpJ62NI:p31",
+    "ahNxsoU8Hx4:p5",
+    "W-R1dzem32s:p12",
+    "gJUBAJaHzlU:p1",
+    "J1Eg3uaAICU:p35",
+    "80kfLVnFQ_s:p14",
+    "2A2JbUN-kc0:p32"
    ]
   },
   {
-   "text": "Josh values him close to 40 USD in an auction. He went for 35 USD in a mock auction, which Josh did not see as an overpay.",
+   "text": "In an auction mock, Josh valued him at about 40 USD. He went for 35 USD, which Josh did not call an overpay.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
@@ -88,7 +84,17 @@
    ]
   },
   {
-   "text": "With a March 28 end, the Rockets play only 10 games in our playoff weeks (3-3-4).",
+   "text": "Ime Udoka plays his starters very heavy minutes.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t0",
+    "7BllEsdNLoM:t9"
+   ]
+  },
+  {
+   "text": "With our March 28 end, Houston has a weak 3-3-4 fantasy playoff schedule: 10 games over weeks 19 to 21.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -97,27 +103,18 @@
    ]
   },
   {
-   "text": "The Rockets have only 14 back-to-backs.",
+   "text": "Houston has only 14 back-to-backs this season.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
    "sources": [
     "aLP080hxizA:t5"
    ]
-  },
-  {
-   "text": "Houston is predicted to win 54 games.",
-   "kind": "verdict",
-   "date": "2026-08-12",
-   "until": "",
-   "sources": [
-    "yoCTTlJ_tPQ:t3"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is an elite athlete who adds rim deterrence on defense. He does not make threes and has no reliable outside shot.",
+   "text": "Thompson is an elite athlete who does not make threes.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -125,13 +122,14 @@
     "aLP080hxizA:p7",
     "yoCTTlJ_tPQ:p14",
     "7BllEsdNLoM:p18",
-    "ME-r173X5b0:p15"
+    "ME-r173X5b0:p15",
+    "stats"
    ]
   },
   {
-   "text": "He shoots a high FG% on solid volume without making threes.",
+   "text": "He is an efficient inside scorer, and his FG% is high for a guard.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "7BllEsdNLoM:p18",
@@ -149,28 +147,20 @@
    ]
   },
   {
-   "text": "His blocks fall when he plays point guard.",
-   "kind": "fact",
+   "text": "Blocks drive his value. He gives rim deterrence on defense, and he gets fewer blocks when he plays point guard.",
+   "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
    "sources": [
     "J1Eg3uaAICU:p36",
-    "aLP080hxizA:p5"
+    "aLP080hxizA:p5",
+    "yoCTTlJ_tPQ:p14"
    ]
   },
   {
-   "text": "Blocks are the key driver of his fantasy value.",
-   "kind": "verdict",
-   "date": "2026-08-19",
-   "until": "",
-   "sources": [
-    "J1Eg3uaAICU:p36"
-   ]
-  },
-  {
-   "text": "For a guard he gives rare rebounds, blocks and FG%. Steals are his best category against the whole pool. Threes are his clear weak spot.",
+   "text": "His rebounds, steals and blocks are strong for a guard. Threes are his only clearly weak category.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
@@ -186,17 +176,6 @@
     "W-R1dzem32s:p12",
     "2A2JbUN-kc0:p32"
    ]
-  },
-  {
-   "text": "Coach Ime Udoka is defense-first and plays his starters very heavy minutes.",
-   "kind": "fact",
-   "date": "2026-10-01",
-   "until": "",
-   "sources": [
-    "aLP080hxizA:t0",
-    "7BllEsdNLoM:t9",
-    "yoCTTlJ_tPQ:t2"
-   ]
   }
  ],
  "tags": [
@@ -204,111 +183,127 @@
    "name": "no 3PM",
    "channel": "durable",
    "detail": "About 0.3 threes per game",
+   "until": "",
    "sources": [
     "aLP080hxizA:p7",
+    "yoCTTlJ_tPQ:p14",
     "ME-r173X5b0:p15",
     "stats"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "punt 3PM fit",
    "channel": "durable",
-   "detail": "",
-   "sources": [
-    "stats"
-   ],
+   "detail": "Threes are his only weak category",
    "until": "",
+   "sources": [
+    "stats",
+    "aLP080hxizA:p7"
+   ],
    "new_meaning": ""
   },
   {
    "name": "category league player",
    "channel": "durable",
-   "detail": "Second or third round in 9-cat, mid third round or tier five in points",
+   "detail": "Second round in cats, mid third or tier five in points",
+   "until": "",
    "sources": [
     "aLP080hxizA:p8",
     "W-R1dzem32s:p12",
     "2A2JbUN-kc0:p32"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
-   "name": "sites disagree on price",
+   "name": "position change",
    "channel": "current",
-   "detail": "Yahoo rank 20 and 24 USD average cost, ESPN rank 13 and 37 USD average cost",
-   "sources": [
-    "stats"
-   ],
+   "detail": "Moves off point guard with VanVleet back: fewer assists, more blocks expected",
    "until": "",
-   "new_meaning": ""
+   "sources": [
+    "aLP080hxizA:p6",
+    "J1Eg3uaAICU:t2",
+    "2A2JbUN-kc0:t4",
+    "gJUBAJaHzlU:p2",
+    "7BllEsdNLoM:p17"
+   ],
+   "new_meaning": "Moves to a different on-court role or position this season, which shifts his category mix."
   },
   {
    "name": "expert target",
    "channel": "current",
-   "detail": "Josh values him near 40 USD, above the Yahoo average cost",
+   "detail": "Experts rank him above his Yahoo price; Josh values him at about 40 USD",
+   "until": "",
    "sources": [
     "Q6YlQDvD-aY:p25",
     "ahNxsoU8Hx4:p5",
     "J1Eg3uaAICU:p35"
    ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo average cost 29.8 USD vs ESPN 37.4 USD",
    "until": "",
+   "sources": [
+    "stats"
+   ],
    "new_meaning": ""
   },
   {
    "name": "heavy starter minutes",
    "channel": "durable",
-   "detail": "Udoka",
+   "detail": "Udoka plays starters heavy minutes",
+   "until": "",
    "sources": [
     "aLP080hxizA:t0",
     "7BllEsdNLoM:t9"
    ],
-   "until": "",
-   "new_meaning": ""
-  },
-  {
-   "name": "defense-first",
-   "channel": "durable",
-   "detail": "Udoka",
-   "sources": [
-    "yoCTTlJ_tPQ:t2",
-    "aLP080hxizA:t0"
-   ],
-   "until": "",
-   "new_meaning": ""
-  },
-  {
-   "name": "winning team",
-   "channel": "current",
-   "detail": "Predicted 54 wins",
-   "sources": [
-    "yoCTTlJ_tPQ:t3"
-   ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "3-3-4, 10 games in weeks 19 to 21",
+   "detail": "3-3-4, 10 games in weeks 19 to 21 with the March 28 end",
+   "until": "",
    "sources": [
     "aLP080hxizA:t4"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "few back-to-backs",
    "channel": "current",
    "detail": "14 back-to-backs",
+   "until": "",
    "sources": [
     "aLP080hxizA:t5"
    ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "Predicted 54 wins",
    "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "defense-first",
+   "channel": "durable",
+   "detail": "Ime Udoka",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:t2",
+    "aLP080hxizA:t0"
+   ],
    "new_meaning": ""
   }
  ],
- "note": "Thompson went for 38 USD in our league last season. The experts put him near 40 USD, between Yahoo's 35 USD value (24 USD average cost) and ESPN's 48 USD. A price of 35 to 40 USD is fair, but going higher assumes his blocks and FG% come back. He fits punt 3PM builds best: he gives guard-rare rebounds, blocks and FG% plus strong steals, and his only flagged weakness is threes. In the first weeks, check whether his move off point guard raises his blocks toward 0.9 and his FG% toward 55%, and how far his assists drop. Also remember that Houston's 10-game playoff schedule is weak.",
+ "note": "The experts value him at 35 to 40 USD. That is between Yahoo's average cost of 29.8 USD and ESPN's 37.4 USD, and close to the 38 USD he went for in our league last season. Bidding up to the high 30s is fair, but Lloyd says he is a third-round pick (about 28 to 30) if his blocks and FG% do not come back. He fits punt 3PM builds best. He helps in FG%, REB, STL and BLK for a guard, but Houston's 10-game playoff schedule is a drawback. In the first weeks, check whether his blocks get back near 0.9 and his FG% gets near 55% now that he is off point guard. Also check how much his 5 assists drop.",
  "rejected": []
 }

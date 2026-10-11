@@ -82,23 +82,23 @@
  ],
  "proposed": false,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-05T20:16:29+00:00",
+ "built_at": "2026-10-11T09:47:23+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2066808,
-  "duration_ms": 81076,
+  "cost_usd_list": 0.1513768,
+  "duration_ms": 55884,
   "turns": 2,
   "denied": 0
  },
  "player_slugs": [],
- "summary": "Spend the early part of the auction on proven players who bring points and assists, because a mistake there costs the most and those categories are hard to find later. Look for value among roughly players 51 to 100, buy assists there, and start checking G, F and C slots only once you have about 7 or 8 players. Use your last three or four roster spots on upside flyers, because a safe player at the end of a 144-player draft is no better than what waivers will offer.",
+ "summary": "Spend the big money on players who bring points and assists, because those categories get scarce later and a big miss costs the most there. Look for most of your value in the middle of the board, roughly ranks 51 to 100. From your 9th or 10th roster spot on, buy upside flyers rather than safe veterans, since a player who only matches his price can be replaced off waivers.",
  "sections": [
   {
-   "heading": "Why mistakes cost less further down the board",
+   "heading": "Mistakes cost less further down the board",
    "paragraphs": [
     {
-     "text": "The gaps between draft slots shrink as you go down the board. The gap between player 1 and player 20 is huge. The gap between 50 and 70 is small. In a 12-team league a round is 12 players, so round 3 is roughly players 25 to 36 and round 6 is roughly 61 to 72. Reaching 20 spots in round 3 is bad. Reaching 15 spots in round 6 hardly matters. In auction terms, overpaying for a top-36 player hurts far more than overpaying a little for a player ranked near 70.",
+     "text": "How much an overpay hurts depends on where the player sits on the board. The gap between ranks 1 and 20 is huge. The gap between ranks 50 and 70 is small. A reach of 20 spots in round 3 is bad. A reach of 15 spots in round 6 hardly matters. In our 12-team league, round N covers board ranks 12N-11 to 12N. Round 3 is ranks 25 to 36, and round 6 is ranks 61 to 72.",
      "sources": [
       "J1Eg3uaAICU:r7",
       "g31YlwRe0XQ:r2",
@@ -106,16 +106,17 @@
      ]
     },
     {
-     "text": "Be clear about what counts as a mistake. Buying a player valued around 10th who finishes 15th or 17th is fine. A big miss, like 11th to 30th, does matter. A swing is fine. Paying for a result the player has almost no chance to reach is the mistake to avoid.",
+     "text": "Small misses do not matter at any stage. Paying for a rank-10 player who finishes 15th or 17th is fine. A big miss, like 11th to 30th, does hurt. Lower down, ranks are packed tightly. A small drop in one stat can cost a player 10 or more spots. So a player needs a wider gap between his price rank and his expected finish before he counts as real value.",
      "sources": [
       "sf6Ga9k-r-Q:r1",
       "4gw4W4RTolY:r3",
       "gerS7ibpaJo:r7",
-      "_vbAP5y182A:r7"
+      "DubdKKhMWHo:r4",
+      "ahNxsoU8Hx4:r1"
      ]
     },
     {
-     "text": "Top players are also the most reliable. Over five seasons, about 16 of the 9-cat top 25 repeated the next year. 75% of top 10 players stayed inside the top 25. Every top 25 player who stayed eligible but dropped out still finished top 50. The exact order inside the first round rarely decides a league. Injuries do.",
+     "text": "The top end is safer than it looks. Over five seasons, about 16 of the 9-cat top 25 repeated the next year. 75% of top-10 players stayed inside the top 25. Every top-25 player who stayed eligible but fell out of the top 25 still finished top 50. The order within round one rarely decides a league. Unexpected injuries do. So the early risk is not a wrong order among stars. It is paying star money for the wrong kind of player.",
      "sources": [
       "2A2JbUN-kc0:r3",
       "2A2JbUN-kc0:r4",
@@ -123,53 +124,41 @@
       "2A2JbUN-kc0:r0",
       "_O9pc_u5vH0:r2"
      ]
-    },
-    {
-     "text": "Lower down, ranks are packed tightly. A small drop in one stat can cost a player 10 or more spots. So the gap between rank and expected finish needed to count as value gets wider late. Late in the draft, a small edge is not enough. You need real upside.",
-     "sources": [
-      "DubdKKhMWHo:r4",
-      "ahNxsoU8Hx4:r1"
-     ]
     }
    ]
   },
   {
-   "heading": "Early stage: buy points and assists from proven players",
+   "heading": "Early stage: buy points and assists",
    "paragraphs": [
     {
-     "text": "Points is the most stable and predictable category. A low-scoring, low-usage player at the top nearly commits you to punting points. Points, assists and FT% are the scarcest categories later in drafts. Big assist players are rare late. So your biggest early bids should go to players with real volume in points and assists. Check each early target: does he add to both, or does he leave you chasing one of them later?",
+     "text": "Points, assists and FT% are the scarcest categories later in drafts. Points is also the most stable and predictable category. Your most expensive players should give you volume in points and assists. If your first big buy is a low-scoring, low-usage player, you are nearly committed to punting points. A low-assist player early can leave you behind in assists, and big assist players are rare late.",
      "sources": [
-      "EGdhmUgPAWY:r0",
       "C4vlgpJ62NI:r19",
       "E-KmhvyZ2CU:r2",
+      "EGdhmUgPAWY:r0",
       "ME-r173X5b0:r10"
      ]
     },
     {
-     "text": "Points alone is not enough. This is 9-cat, so do not pay early for players whose value is mostly scoring. Two-category players leave holes you then have to fix. Players who are elite only in blocks, FG% and rebounds get overdrafted. Do not take them as early as round 3, roughly players 25 to 36. A defense-only, poor-shooting player bought early can leave you far behind in points and threes. The notes do not name rebounds as an early priority. They suggest adding a big man for rebounds later, when your category check shows you need one.",
+     "text": "The notes do not make rebounds an early priority. Players who are elite only in blocks, FG% and rebounds get overdrafted in category leagues. Do not pay for them at a round-3 price, which means ranks 25 to 36. Two-category players and defense-only, poor-shooting players bought early leave holes in points and threes. You can add a big man for rebounds later to fill a need.",
      "sources": [
-      "_vbAP5y182A:r5",
-      "gJUBAJaHzlU:r8",
       "P6TNP-g0wzY:r1",
+      "gJUBAJaHzlU:r8",
       "_O9pc_u5vH0:r4",
       "BjXP9JODDSg:r6"
      ]
     },
     {
-     "text": "Do not lock into a punt or a planned pair of players. Early, focus on value, and lean into a punt later if one shows up. If a player goes well below his value, take him and adjust the build afterward. Treat the best players available as a group of roughly equal options. If someone else wins your target, move to the next one. Your first four players, and then your first eight, should make sense together. Your 7 or 8 man core matters more than any pair.",
+     "text": "Scorers still need to bring more than points. Do not pay early for a player whose value comes mostly from points, because this is not a points league. Check each early target's category shape. Points should come with assists, threes or good percentages. Your first four players, and then your first eight, must make sense together. The pairing of your first two does not matter much.",
      "sources": [
-      "OdDkXFhoKsc:r7",
-      "skKXe2CRl8Q:r25",
-      "KPdD91Oo8-U:r6",
-      "C4vlgpJ62NI:r16",
-      "C4vlgpJ62NI:r21",
+      "_vbAP5y182A:r5",
       "C4vlgpJ62NI:r23",
-      "C4vlgpJ62NI:r15",
-      "C4vlgpJ62NI:r14"
+      "C4vlgpJ62NI:r14",
+      "C4vlgpJ62NI:r15"
      ]
     },
     {
-     "text": "Schedule only matters for your top players, roughly your first three rounds. For those players, check games in our playoff weeks 19, 20 and 21, ending 2027-03-28. Avoid having your best player play only two games in a semifinal or final week. Do not worry much about schedule for mid and late players.",
+     "text": "Check the playoff schedule only for your top three-round players, about board ranks 1 to 36. For those players, look at weeks 19 to 21 on the March 28 calendar. Avoid a best player with a two-game week in the semifinal or final. Schedule matters less for middle and late buys.",
      "sources": [
       "gf_6GveiAls:r16",
       "NmdNvAz08oE:r2",
@@ -179,56 +168,54 @@
    ]
   },
   {
-   "heading": "Budget across the stages: where the experts differ",
+   "heading": "Experts disagree: commit early or stay flexible",
    "paragraphs": [
     {
-     "text": "The experts differ on how hard to pay for the top tier. One side says first-round players among the big names are generally safe, and the data shows top players rarely collapse when healthy. The other side, writing about auctions, says that in a hot room you should wait for bargains and target mid-round value rather than pay full price at the top. To do well in an auction you must be comfortable not owning a first-round player. A workable rule: pay for top players when their prices are fair, and switch to mid-tier value when the room pushes them past it.",
+     "text": "One side says to lock in points and assists early. If you miss them, just punt them. The other side says people overindex on punting. Focus on value early, and lean into a punt only if one appears later. If a player falls well below his value, take him and adjust the build afterward. Auction experts add a third view. In a hot room, you must be comfortable not owning a first-round player. Wait for bargains and target mid-round value instead of paying full price at the top. A practical middle path: set a price ceiling on star scorers and passers. If the room goes past it, move the money to mid-tier assist and points sources rather than chasing.",
      "sources": [
-      "_O9pc_u5vH0:r2",
-      "2A2JbUN-kc0:r6",
+      "C4vlgpJ62NI:r19",
+      "E-KmhvyZ2CU:r2",
+      "OdDkXFhoKsc:r7",
+      "skKXe2CRl8Q:r25",
       "Q6YlQDvD-aY:r5",
       "Q6YlQDvD-aY:r8"
      ]
     },
     {
-     "text": "Either way, keep some money for the end. If you spend everything early, you cannot compete for late bargains. In the endgame, a team with a few extra dollars can take your 1 USD nominations. Keep long, flexible lists with large groups of late targets so losing one does not matter.",
+     "text": "The experts also differ on reaching for needs. One says you sometimes have to reach a bit, for example to get assists. Others say do not lock onto must-have players. Buy the best value available and treat each tier as a group of roughly equal options. Both sides agree on one limit. A swing is fine, but paying for a player who has almost no chance to beat his price is a mistake.",
      "sources": [
-      "XnIWJyBB0EM:r5",
-      "XnIWJyBB0EM:r13"
+      "BjXP9JODDSg:r7",
+      "KPdD91Oo8-U:r6",
+      "C4vlgpJ62NI:r16",
+      "C4vlgpJ62NI:r21",
+      "_vbAP5y182A:r7"
      ]
     }
    ]
   },
   {
-   "heading": "Middle stage: value, assists and positions",
+   "heading": "Middle stage: where value lives",
    "paragraphs": [
     {
-     "text": "The best value is usually found between players 51 and 100. There, players can beat their ADP by 10 to 40 spots. In a 12-team league, average is roughly the 75th ranked player. A player close to average in every category can end up around 100th. So in this tier, look for players with a clear strength, not just a flat line.",
+     "text": "The best value usually sits between board ranks 51 and 100. That is roughly rounds 5 to 9 in our league. Players there can beat their ADP by 10 to 40 spots. In a 12-team league, average is roughly the 75th-ranked player. A player who is close to average in every category can end up around 100th. So in this tier, pay for players who are clearly above average somewhere, not merely average everywhere.",
      "sources": [
       "ahNxsoU8Hx4:r8",
       "XSPJL_mlFXo:r4"
      ]
     },
     {
-     "text": "Assists are scarce in the middle tier. Hybrid guards who give 4 to 6 assists are worth targeting there. Check your category strengths and weaknesses as players come off the board. If you are short, it is fine to pay a little extra to get assists, or to add a big man for rebounds.",
+     "text": "Assists are scarce in the middle rounds. Hybrid guards who average 4 to 6 assists are worth targeting here, especially if your early buys were light on assists. Boring veterans are bad buys in the early and middle stages. Take them only when they fall well past their value and come cheap. Do not buy safe, low-upside veterans just to win the projected standings in the draft room.",
      "sources": [
       "n4KkK-OJjqA:r4",
-      "BjXP9JODDSg:r6",
-      "BjXP9JODDSg:r7"
+      "g31YlwRe0XQ:r5",
+      "_vbAP5y182A:r10"
      ]
     },
     {
-     "text": "Draft for stats and statistical shapes, not positions, until about round 8 or 9. In our league that means about players 85 to 108, when you hold about 7 or 8 players. From then on, check your G, G, G, F, F, F, C slots. Make sure the remaining budget and spots can still fill them, with the three Util slots taking any position.",
+     "text": "Positions start to matter around rounds 8 and 9, which means your 8th and 9th players. Before that, buy statistics and category shapes, not positions. At that point, check which of the G, G, G, F, F, F and C slots are still empty. Also check your category strengths and weaknesses, and fill needs such as a big man for rebounds.",
      "sources": [
       "7BllEsdNLoM:r1",
-      "C4vlgpJ62NI:r15"
-     ]
-    },
-    {
-     "text": "Do not buy safe, low-upside veterans in the early or middle stages just to win the projected standings. Take them only when they fall well past their value.",
-     "sources": [
-      "_vbAP5y182A:r10",
-      "g31YlwRe0XQ:r5"
+      "BjXP9JODDSg:r6"
      ]
     }
    ]
@@ -237,45 +224,46 @@
    "heading": "Late stage: upside flyers",
    "paragraphs": [
     {
-     "text": "Our draft is 144 players, 12 per team, so it is effectively 12 rounds. Several experts say round 10 is already flyer territory, and rounds 10 to 13 are where flyers belong. For us that means roster spots 10 to 12, roughly players 109 to 144. Use at least three of your last four spots on upside flyers. Your last few players should all be flyers. A safe player who only finishes at his slot means nothing.",
+     "text": "Our rosters have 12 players: 10 starters and 2 bench. Use at least three of your last four buys on upside flyers who could beat their draft spot by 40 to 50 places. Round 10, or ranks 109 to 120, can already be flyer territory. Once your starting slots are filled, bench buys should be flyers. Your last buy should always be a flyer. Leagues are won by players who beat their draft slot by a lot. A safe player who finishes at his draft slot means nothing.",
      "sources": [
-      "ZYllcj4o6_A:r0",
-      "ZYllcj4o6_A:r2",
-      "3UGI05PDvrE:r4",
       "C4vlgpJ62NI:r25",
-      "3Qm5wLjhvTw:r6",
+      "ZYllcj4o6_A:r0",
       "OdDkXFhoKsc:r8",
-      "OdDkXFhoKsc:r9"
+      "OdDkXFhoKsc:r9",
+      "3Qm5wLjhvTw:r6",
+      "3UGI05PDvrE:r4"
      ]
     },
     {
-     "text": "Define a flyer by his ceiling. Late players should have at least top 70 upside, and ideally top 50. Targets with top-30 upside are worth it even with injury risk. If they miss long stretches, move on. A good flyer could beat his draft spot by 40 to 50 places. Prefer an unproven player with upside over a proven player with a known, limited ceiling. Young players and rookies fit here. Another option is insurance on your star: a teammate who should start if the star misses time.",
+     "text": "Set a ceiling test for every late buy. It should have at least top-70 upside, and ideally a path to the top 50. Late targets with top-30 upside are worth it even with injury risk. If they miss long stretches, cut them. Prefer an unproven young player or rookie with upside over a proven player with a known, limited ceiling. Have a rationale for each buy: what the upside is, and how likely it is to beat the alternatives.",
      "sources": [
       "EGdhmUgPAWY:r5",
       "DubdKKhMWHo:r5",
       "t4n9MAP2_14:r6",
       "ahNxsoU8Hx4:r7",
-      "C4vlgpJ62NI:r25",
       "XSPJL_mlFXo:r6",
       "sf6Ga9k-r-Q:r2",
-      "BjXP9JODDSg:r11"
+      "sf6Ga9k-r-Q:r3"
      ]
     },
     {
-     "text": "Safe late players do not help you. Do not take a player at 110 who projects to finish 110th, because that value sits on the waiver wire. A streaming slot is worth about a top 100 player. Late, the downside of most players is just being useless, and most picks from rounds 10 to 13 get dropped and streamed anyway. With daily FAB waivers and 6 adds a week, plan to replace failed flyers quickly.",
+     "text": "Do not buy a player at rank 110 who projects to finish 110th. A streaming slot is worth about a top-100 player. We are a 12-team league with daily FAB waivers and up to 6 adds per week, so that kind of player is on waivers. You will usually drop and stream your round 10 to 13 picks anyway. The 12-team view is explicit: low-upside players are fine late in 14 or 16-team leagues, but in 12-team leagues prefer upside. A useful late flyer is a teammate who should start if your star gets hurt.",
      "sources": [
       "ZYllcj4o6_A:r1",
+      "ZYllcj4o6_A:r2",
       "EGdhmUgPAWY:r6",
-      "DubdKKhMWHo:r5",
-      "ZYllcj4o6_A:r2"
+      "XSPJL_mlFXo:r2",
+      "LM0cRCGoAUQ:r11",
+      "BjXP9JODDSg:r11",
+      "KPdD91Oo8-U:r10"
      ]
     },
     {
-     "text": "Once you reach flyer territory, just buy your flyers. Do not try to wait for their ADP. Skip low-ceiling backups when better options are left. For every late player, know the reason: what the upside is, and how likely he is to beat the alternatives.",
+     "text": "The auction endgame needs money. Keep some dollars back. If you spend everything early, you cannot compete for late bargains. A team with a few extra dollars can snipe your 1 USD nominations. Keep flexible lists with large groups of flyer targets. Once you reach flyer territory, just buy them. Do not try to game ADP by waiting.",
      "sources": [
-      "BjXP9JODDSg:r5",
-      "BjXP9JODDSg:r4",
-      "sf6Ga9k-r-Q:r3"
+      "XnIWJyBB0EM:r5",
+      "XnIWJyBB0EM:r13",
+      "BjXP9JODDSg:r5"
      ]
     }
    ]
@@ -284,24 +272,14 @@
    "heading": "Safe or upside: read your own roster",
    "paragraphs": [
     {
-     "text": "The choice between safety and upside depends on the team you already have. Players can share a tier on median outcome but have very different ceilings. If you took no risks early, take a flyer later. If you already took several risky swings or injury risks, lean toward steady players with a narrower range.",
+     "text": "Players with the same median outcome can have very different ceilings. Pick the floor or the ceiling based on your build. If you took no risks early, take flyers late. If you already bought several injury risks or flyers, lean toward players with a narrower range of outcomes. Before each middle or late buy, count how many risky players you already own. The upside-first rule is strongest in your last three or four spots, where the downside is just a droppable player.",
      "sources": [
-      "DubdKKhMWHo:r7",
-      "DubdKKhMWHo:r2",
       "7BllEsdNLoM:r11",
       "7BllEsdNLoM:r13",
-      "W-R1dzem32s:r12"
-     ]
-    },
-    {
-     "text": "The experts differ on boring veterans late. One view: they are fine late when they fall past their value, and outside the top 150 they become value picks. The other view: skip low-upside veterans in late rounds, because stable players are worth more only in deeper leagues. Strategy should change with league depth. In a 12-team league, prefer upside for the later picks. For us, everything outside the 144 drafted players is on waivers, so the boring veteran can usually be found there.",
-     "sources": [
-      "g31YlwRe0XQ:r5",
-      "g31YlwRe0XQ:r4",
-      "sf6Ga9k-r-Q:r2",
-      "LM0cRCGoAUQ:r11",
-      "XSPJL_mlFXo:r2",
-      "KPdD91Oo8-U:r10"
+      "DubdKKhMWHo:r2",
+      "DubdKKhMWHo:r7",
+      "W-R1dzem32s:r12",
+      "DubdKKhMWHo:r5"
      ]
     }
    ]

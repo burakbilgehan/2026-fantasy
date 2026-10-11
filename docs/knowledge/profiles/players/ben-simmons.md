@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 232 | 0 | 0.2 | 321 | not drafted |
+| 2026-27 | 0 | - | 227 | 0 | 0.2 | 322 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -22,25 +22,24 @@
 | PTS | 3.5 | -1.8 | -1.8 | league outlier, weak |
 | REB | 3.5 | -0.7 | -0.2 | - |
 | AST | 2.9 | -0.2 | -0.5 | - |
-| STL | 0.5 | -1.3 | -1.4 | - |
-| BLK | 0.4 | -0.4 | +0.1 | - |
+| STL | 0.5 | -1.3 | -1.5 | - |
+| BLK | 0.4 | -0.5 | +0.0 | - |
 | TO | 1.2 | +0.6 | +0.8 | - |
 
 </details>
 
 **Current**
-- Josh does not think Simmons is worth even a late pick. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2521))
-- He should be a streaming option at times this season, with a line of around 5 points, 5 rebounds and 5 assists. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1986))
-- He is not in the projected Kings starting five of Acuff, LaVine, Hunter, Murray and Sabonis. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691))
+- He is not worth a late draft pick. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2521))
+- He will be streamable at times this season, with a line of about 5 points, 5 rebounds and 5 assists. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1986))
+- He is not among the Kings' projected starters. The projected starting five is Acuff, LaVine, Hunter, Murray and Sabonis. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691))
 
 **Durable**
-- He makes no threes, so he gives nothing in 3PM. (fact, 2026-10-05; stats)
-- He scores very little. Points are a weak league outlier for him, and his value comes from rebounds and assists. (fact, 2026-10-05; stats)
+- He makes no threes and scores very little. Both are clear weak outliers against the league. (fact, 2026-10-11; stats)
 
 **Tags**
-- Current: `waiver watch` (streamable at times for rebounds and assists, around 5/5/5)
-- Durable: `no 3PM` (0.0 threes per game in every recent season and projection)
+- Current: `waiver watch` (not worth a late pick, but streamable at times for rebounds and assists)
+- Durable: `no 3PM` (0.0 threes per game in every season and projection)
 
-**Note.** Simmons is not a draft target. Yahoo ranks him 232 and ESPN ranks him 321, with a value of 0 USD on both sites. Only 144 players get drafted in our league, so leave him on waivers. Early in the season, check whether he gets real rotation minutes in Sacramento, since he is outside the projected starting five. If he does, he can be a short-term stream for assists and rebounds. He costs you in PTS and 3PM.
+**Note.** Yahoo and ESPN both value him at 0 USD. His ranks (Yahoo 227, ESPN 322) are far outside the 144 players we draft, so he should not be bought in our auction. Leave him on waivers. He is a short-term stream for teams that need assists and rebounds and can take 0 threes and about 5 points a game (ESPN projects 5.0 points, 5.0 rebounds and 5.3 assists). Early in the season, check whether he gets real minutes off the bench behind Sacramento's projected starters.
 
-<sub>2 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

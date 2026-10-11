@@ -7,17 +7,17 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 623 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 629 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 50.2% | +0.2 | -0.6 | - |
+| FG% | 50.2% | +0.2 | -0.7 | - |
 | FT% | 65.0% | -0.7 | +0.0 | - |
-| 3PM | 0.6 | -1.0 | -0.3 | - |
+| 3PM | 0.6 | -1.1 | -0.3 | - |
 | PTS | 5.8 | -1.4 | -1.3 | - |
-| REB | 3.4 | -0.7 | -1.7 | - |
+| REB | 3.4 | -0.7 | -1.8 | - |
 | AST | 0.8 | -1.3 | -1.0 | - |
 | STL | 0.3 | -1.8 | -1.7 | league outlier, weak |
 | BLK | 0.7 | +0.3 | -0.6 | - |
@@ -26,18 +26,18 @@
 </details>
 
 **Current**
-- He tore his ACL and will miss the whole 2026-27 season. Yahoo lists him as out with a knee injury. (fact, 2026-09-25, until end of the 2026-27 season; [09-25](https://youtu.be/4gw4W4RTolY?t=1673), [09-25](https://youtu.be/4gw4W4RTolY?t=1693))
-- Experts called him one of the biggest steals of the 2026 draft. They think he should have gone in the first round. (verdict, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=393), [06-26](https://youtu.be/CLsUc0Sevos?t=1099))
-- He is a rookie. The Hawks picked him 52nd in the 2026 NBA draft. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1099))
+- He tore his ACL and will miss the whole 2026-27 season. (fact, 2026-09-25, until end of the 2026-27 season; [09-25](https://youtu.be/4gw4W4RTolY?t=1673), [09-25](https://youtu.be/4gw4W4RTolY?t=1693))
+- Experts thought he was drafted too low and should have gone in the first round. One called him one of the two biggest risers versus his draft slot. (verdict, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=393), [06-26](https://youtu.be/CLsUc0Sevos?t=1099))
+- He is a rookie. Atlanta drafted him 52nd overall in 2026. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1099))
 
 **Durable**
 - He is a 7'0 center. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1099))
-- One expert projects him as a career backup big man. (verdict, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=845))
+- He projects as a career backup big man. (verdict, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=845))
 
 **Tags**
-- Current: `rookie` (52nd pick of the 2026 draft), `injured now` (Torn ACL, out for the whole season; until end of the 2026-27 season)
+- Current: `rookie` (2026 second-round pick, 52nd overall), `injured now` (Torn ACL, out for the whole season. Yahoo status O (Knee).; until end of the 2026-27 season)
 - Durable: none
 
-**Note.** He has no value in our league this season. He tore his ACL and is out for the whole year, Yahoo ranks him 623rd with a value of 0 USD, and even his healthy projection was only 5.8 points and 3.4 rebounds per game as a backup. Do not draft him and do not stash him on IL, because there is no return date inside our season.
+**Note.** He is out for the whole season with a torn ACL. He has a Yahoo value of 0 USD and a Yahoo rank of 629, so do not draft or stash him in our 12-team redraft league. Even before the injury his outlook was a backup center behind Okongwu and Landale, so he only matters for dynasty formats.
 
-<sub>4 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

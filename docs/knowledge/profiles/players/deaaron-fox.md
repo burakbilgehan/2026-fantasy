@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 13 | 6.2 | 74 | 10 | 10.4 | 52 | 21 |
+| 2026-27 | 15 | 4.3 | 70 | 10 | 10.2 | 53 | 21 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -25,28 +25,30 @@
 | AST | 5.6 | +1.3 | +0.9 | - |
 | STL | 1.4 | +1.3 | +1.0 | - |
 | BLK | 0.3 | -0.6 | -0.4 | - |
-| TO | 2.3 | -0.9 | -0.7 | - |
+| TO | 2.3 | -0.9 | -0.6 | - |
 
 </details>
 
 **Current**
-- The Spurs guard rotation is crowded. Dylan Harper is expected to play more, and Castle, Harper and Fox cannot all get bigger roles. (verdict, 2026-10-04; [09-22](https://youtu.be/QbdrhJd7LiA?t=1573), [08-24](https://youtu.be/g31YlwRe0XQ?t=1055), [10-04](https://youtu.be/n4KkK-OJjqA?t=1767), [09-09](https://youtu.be/7BllEsdNLoM?t=1991))
-- He should be healthier this season. A healthy Fox, with his downhill burst back, is the key ceiling raiser for an offense that relies on guard penetration. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1767), [08-27](https://youtu.be/ZAyie8lKyYc?t=2074), [08-27](https://youtu.be/ZAyie8lKyYc?t=2249))
-- The Spurs stagger their three guards so at least two are always on the court, and more three-guard lineups are expected. One expert says Harper, Castle and Fox may start together. (verdict, 2026-09-30; [08-27](https://youtu.be/ZAyie8lKyYc?t=666), [09-30](https://youtu.be/BjXP9JODDSg?t=1311))
-- Experts disagree on his price. Some doubt a big bounce back and call an ESPN ADP around 42 too high and too risky, and say he is not a top 50 player. Others say drafters penalize him too much and the hate has gone too far. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1573), [09-19](https://youtu.be/uarqbNA2dFk?t=2338), [08-11](https://youtu.be/OdDkXFhoKsc?t=1337), [07-02](https://youtu.be/P6TNP-g0wzY?t=2349), [09-09](https://youtu.be/7BllEsdNLoM?t=1994), [09-01](https://youtu.be/80kfLVnFQ_s?t=1418))
-- He is projected to start for the Spurs in the backcourt next to Stephon Castle. The team still has a lot of faith in him. (fact, 2026-09-09; [08-27](https://youtu.be/ZAyie8lKyYc?t=648), [08-27](https://youtu.be/ZAyie8lKyYc?t=524), [09-09](https://youtu.be/7BllEsdNLoM?t=1991), [09-09](https://youtu.be/7BllEsdNLoM?t=1994), [09-04](https://youtu.be/gerS7ibpaJo?t=1249))
-- Castle initiates the offense. Fox often starts possessions off the ball and is used as a secondary option. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1096))
-- The Spurs are expected to win a lot. One expert predicts 63 wins, and they could take the top seed in the West. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2403), [07-26](https://youtu.be/75Sk_4fkgIM?t=370))
+- His Yahoo status is questionable (undisclosed). (fact, 2026-10-11; stats)
+- Fox is projected to start in the backcourt with Stephon Castle. Reports say the team still has a lot of faith in him. (fact, 2026-10-09; [08-27](https://youtu.be/ZAyie8lKyYc?t=648), [08-27](https://youtu.be/ZAyie8lKyYc?t=524), [09-09](https://youtu.be/7BllEsdNLoM?t=1994), [09-04](https://youtu.be/gerS7ibpaJo?t=1249), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1619))
+- The rest of the starting lineup is unclear. Dylan Harper may start next to Castle and Fox, which would make it a three-guard lineup. (fact, 2026-10-09; [10-06](https://youtu.be/eTsjuVu1trk?t=2377), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1619), [09-30](https://youtu.be/BjXP9JODDSg?t=1311))
+- Experts expect Harper to play more, and Fox could lose on-ball time to him. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1634), [10-06](https://youtu.be/eTsjuVu1trk?t=2510), [09-22](https://youtu.be/QbdrhJd7LiA?t=1573))
+- Experts doubt he improves on last season or repeats 19 points, 4 rebounds and 6 assists. They do not see a top 50 player. One expert would not rule out a finish around rank 43 to 45 but will not take that risk. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1634), [10-06](https://youtu.be/eTsjuVu1trk?t=2510), [09-19](https://youtu.be/uarqbNA2dFk?t=2338), [08-11](https://youtu.be/OdDkXFhoKsc?t=1337), [09-22](https://youtu.be/QbdrhJd7LiA?t=1573), [07-02](https://youtu.be/P6TNP-g0wzY?t=2349))
+- The newest calls say he costs too much at his current draft spot. He is too high at rank 70, early at 61, and experts would not draft him there. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1634), [10-08](https://youtu.be/WXO8MfQfzo0?t=1133), [10-06](https://youtu.be/eTsjuVu1trk?t=2510))
+- He should be healthier this season. A healthy Fox is called the key ceiling raiser for the Spurs. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1767), [08-27](https://youtu.be/ZAyie8lKyYc?t=2074))
+- He often starts possessions off the ball. Castle runs the offense and Fox is used as a second option. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1096))
+- The Spurs stagger their three guards so that at least two are always on the floor. Castle, Harper and Fox cannot all get bigger roles. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=666), [08-24](https://youtu.be/g31YlwRe0XQ?t=1055))
+- He came back from a serious high ankle sprain in the Minnesota series after about 10 days and was clearly not himself. He lost his downhill burst, and the Spurs offense relies on downhill guard penetration. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=574), [08-27](https://youtu.be/ZAyie8lKyYc?t=2074), [08-27](https://youtu.be/ZAyie8lKyYc?t=2249))
+- The Spurs are projected to be a top team in the West. One expert predicts 63 wins. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2403), [07-26](https://youtu.be/75Sk_4fkgIM?t=370))
 
 **Durable**
-- He has no clearly weak category. His best categories are assists, steals and points, but none of them is a league outlier. (fact, 2026-10-05; stats)
-- He had hamstring problems in 2025-26. He also suffered a serious high ankle sprain in the playoff series against Minnesota and came back in about 10 days, which is far sooner than the normal four to six weeks. (fact, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1573), [08-27](https://youtu.be/ZAyie8lKyYc?t=574))
-- His game is built on downhill burst. After the ankle injury he lost it and was clearly not himself. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=574), [08-27](https://youtu.be/ZAyie8lKyYc?t=2074))
+- He had hamstring problems in 2025-26 and a serious high ankle sprain in that season's playoffs. (fact, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1573), [08-27](https://youtu.be/ZAyie8lKyYc?t=574))
 
 **Tags**
-- Current: `minutes competition` (Dylan Harper is expected to play more in a crowded guard group with Castle), `usage competition` (Castle initiates the offense and Fox is often a secondary option off the ball), `deep rotation` (Very deep at guard and forward), `bust candidate` (Some experts call ESPN ADP around 42 too high; others say he is undervalued), `sites disagree on price` (Yahoo rank 74 and avg cost 6.2 USD vs ESPN rank 52 and avg cost 10.4 USD), `winning team` (One expert predicts 63 wins)
-- Durable: `fits every build` (No category flagged weak. Best are AST, STL and PTS.)
+- Current: `usage competition` (Castle runs the offense, and Harper could take on-ball time), `role down` (may lose on-ball time to Dylan Harper), `bust candidate` (too high at draft ranks 61 to 70), `questionable` (Yahoo Q, undisclosed), `injured now` (Yahoo Q, undisclosed), `sites disagree on price` (Yahoo average cost 4.3 USD, ESPN 10.2 USD), `winning team` (63 wins predicted), `deep rotation` (deep at guard and forward)
+- Durable: `fits every build`
 
-**Note.** Our league paid 21 USD for him last season, but the market has fallen hard: Yahoo average cost 6.2 USD (rank 74), ESPN 10.4 USD (rank 52), Yahoo value 13 USD. He has no weak category and gives solid assists and steals, so he fits any build at a price under about 13 USD. Do not pay last season's price. Early in the season, check whether his downhill burst is back after the ankle sprain and how many minutes Dylan Harper takes from him.
+**Note.** Fox is a balanced guard with no weak category. Assists (5.6) and steals (1.4) are his best categories, so he fits any build, but nothing about him is elite. The newest expert calls say his rank of 53 to 70 assumes the best case. Our league paid 21 USD for him last season. Yahoo's average cost of 4.3 USD and ESPN's of 10.2 USD point to a fair price of about 5 to 10 USD, so let others pay more. Early in the season, check his Yahoo questionable status, whether Harper starts next to him and Castle, and whether his downhill burst is back.
 
-<sub>11 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>14 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

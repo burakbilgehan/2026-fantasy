@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 239 | 0 | 0.1 | 211 | not drafted |
+| 2026-27 | 0 | - | 240 | 0 | 0.1 | 211 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,27 +21,27 @@
 | FT% | 86.8% | +0.6 | +0.5 | - |
 | 3PM | 1.5 | -0.0 | -0.3 | - |
 | PTS | 10.3 | -0.6 | -0.7 | - |
-| REB | 3.0 | -0.9 | -0.8 | - |
+| REB | 3.0 | -0.9 | -0.9 | - |
 | AST | 1.3 | -1.0 | -1.2 | - |
-| STL | 0.9 | -0.2 | -0.3 | - |
-| BLK | 0.2 | -0.9 | -0.9 | - |
+| STL | 0.9 | -0.2 | -0.4 | - |
+| BLK | 0.2 | -0.9 | -1.0 | - |
 | TO | 1.4 | +0.3 | +0.3 | - |
 
 </details>
 
 **Current**
-- He has no clear path to minutes. He is not in the Clippers' projected top ten of the rotation. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1795), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268))
-- Do not draft him. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1795), [06-30](https://youtu.be/JMSLg6yz-M0?t=813))
-- The Clippers may use long rotations and test many players this season, and Ty Lue often changes his rotations. That could open some minutes for him, but no note expects it. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
-- Toronto traded him to the Clippers, where he is set for a bench role. (fact, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=813))
+- He is not in the projected Clippers starting five or the projected first ten of the bench order. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=360), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268))
+- He has no clear path to minutes and is expected to play a bench role at most. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1795), [06-30](https://youtu.be/JMSLg6yz-M0?t=813))
+- Do not draft him. The experts call him not draftable. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1795), [06-30](https://youtu.be/JMSLg6yz-M0?t=813))
+- He joined the Clippers from Toronto in the June 2026 Kawhi Leonard trade. (fact, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=813))
 
 **Durable**
-- His game is not fantasy friendly. He is a shooter who adds little in the other categories. (verdict, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=813), stats)
+- His game is not fantasy friendly. (verdict, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=813))
 
 **Tags**
-- Current: `new team` (Traded from Toronto to the Clippers), `minutes competition` (Not in the projected Clippers top ten, no clear path to minutes), `unsettled rotation` (Clippers expected to test many players. Ty Lue changes rotations often)
+- Current: `new team` (Traded from Toronto to the Clippers in the Kawhi Leonard deal), `minutes competition` (Outside the projected top ten of the Clippers rotation, with no clear path to minutes)
 - Durable: none
 
-**Note.** Leave him out of our auction. Yahoo ranks him 239 and ESPN 211, both value him at 0 USD, and only 144 players get drafted. His projected line is weak almost everywhere: a 41% FG and only about 10 points, 1.5 threes and 1.3 assists, so he fits no punt build. The one thing to check early is whether the Clippers' long, changing rotation gives him real minutes. If it doesn't, he is not worth a waiver look.
+**Note.** Both sites price him at 0 USD (Yahoo rank 240, ESPN rank 211), so he will not be among our 144 drafted players. Leave him on waivers. The site projections of 8 to 9.5 shots per game look too high for a player the experts leave out of the rotation, after he played 14.0 minutes a game last season. Early in the season, check whether the Clippers' many injuries or Ty Lue's rotation changes give him real minutes. Even then he offers little beyond FT% on low volume.
 
-<sub>2 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

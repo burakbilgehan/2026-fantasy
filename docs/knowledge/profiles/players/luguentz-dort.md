@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 224 | 0 | 0.0 | 162 | not drafted |
+| 2026-27 | 0 | - | 230 | 0 | 0.1 | 162 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,32 +21,32 @@
 | FT% | 77.5% | -0.1 | -0.3 | - |
 | 3PM | 2.1 | +0.7 | +0.5 | - |
 | PTS | 9.5 | -0.8 | -0.8 | - |
-| REB | 3.8 | -0.5 | -0.4 | - |
-| AST | 1.4 | -0.9 | -1.1 | - |
+| REB | 3.8 | -0.6 | -0.4 | - |
+| AST | 1.4 | -1.0 | -1.1 | - |
 | STL | 1.0 | +0.2 | +0.0 | - |
-| BLK | 0.5 | -0.2 | +0.1 | - |
-| TO | 0.8 | +1.1 | +1.2 | - |
+| BLK | 0.5 | -0.2 | +0.0 | - |
+| TO | 0.8 | +1.2 | +1.2 | - |
 
 </details>
 
 **Current**
-- If he starts, it would most likely be in place of CJ McCollum. One expert does not expect him to start over McCollum, and starting him over Daniels would be a bad decision because he is the worse defender and offensive player. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=445), [09-21](https://youtu.be/egRrai3Ax38?t=1750), [08-25](https://youtu.be/H9q2FT3LhNw?t=428), [09-25](https://youtu.be/4gw4W4RTolY?t=415))
-- Atlanta's projected starters are McCollum, Alexander-Walker, Daniels, Johnson and Okongwu. Dort is part of a bench that also includes Wiggins, Landale and Flemings. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=328), [09-25](https://youtu.be/4gw4W4RTolY?t=1289), [08-25](https://youtu.be/H9q2FT3LhNw?t=428))
-- He is expected to come off the bench as the sixth man and get the most bench minutes. He will mostly be staggered with Dyson Daniels. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=415), [08-25](https://youtu.be/H9q2FT3LhNw?t=1818), [08-25](https://youtu.be/H9q2FT3LhNw?t=1376))
-- Several Atlanta starters handle the ball, so Dort or Wiggins can step in for any of them when one is out. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1580))
-- He is only worth considering in leagues with 16 or more teams. Lloyd calls him a late swing pick but does not believe in it. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1467))
-- He is expected to play more minutes than Aaron Wiggins, partly on reputation. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1818))
-- He could lose minutes or be traded again if Daniels makes him expendable. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1862))
-- OKC traded him away this offseason, along with Isaiah Joe and Aaron Wiggins. The moves were mostly financial. He now plays for Atlanta. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=198))
+- If he starts, it would most likely be in place of CJ McCollum, not Nickeil Alexander-Walker. The experts do not expect him to start over McCollum. Lloyd says starting him over Daniels would be a mistake because Dort is the worse defender and the worse offensive player. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=445), [09-21](https://youtu.be/egRrai3Ax38?t=1750), [08-25](https://youtu.be/H9q2FT3LhNw?t=428), [09-25](https://youtu.be/4gw4W4RTolY?t=415))
+- He is expected to come off the bench as Atlanta's sixth man and get the most bench minutes. He should mostly be staggered with Dyson Daniels for spacing, and should play more than Aaron Wiggins. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=415), [09-25](https://youtu.be/4gw4W4RTolY?t=1289), [08-25](https://youtu.be/H9q2FT3LhNw?t=1818), [08-25](https://youtu.be/H9q2FT3LhNw?t=1376))
+- He was not a top 280 player last season. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1467))
+- He is only worth considering in leagues with 16 or more teams. Lloyd mentions him as a late swing pick but does not believe in it. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1467))
+- Lloyd expects Atlanta to use a 10-man rotation with a deep bench. That limits the minutes available to reserves. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1289), [07-01](https://youtu.be/W3THnI7wWdA?t=779))
+- Atlanta's playoff schedule is 4-4-3 games for a season ending March 28. The team has 14 back-to-backs, and resting players is not a concern. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739))
+- He could lose minutes, or be traded again, if Daniels makes him expendable. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1862))
+- OKC traded him to Atlanta this offseason, along with Isaiah Joe and Aaron Wiggins. The moves were mostly financial. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=198))
 
 **Durable**
-- Inconsistent three-point shooter: 39 to 40% from three in two seasons, then 34% last season. He is not afraid to shoot. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1353))
-- Wing defender who is very good at switching onto bigger forwards. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=394))
+- His three-point shooting swings from season to season, but he is not afraid to shoot. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1353))
+- He is a wing defender who is very good at switching onto bigger forwards. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=394))
 
 **Tags**
-- Current: `new team` (Traded from OKC to Atlanta this offseason), `minutes competition` (Bench role behind McCollum, Alexander-Walker and Daniels; competes with Wiggins), `trade risk` (Could be traded again if Daniels makes him expendable), `deep rotation` (Atlanta expected to use a 10-man rotation with Kispert and Finney-Smith also in the mix)
-- Durable: `streaky` (Three-point percentage swings from season to season)
+- Current: `new team` (Traded from OKC to Atlanta this offseason), `minutes competition` (Bench wing behind McCollum, Alexander-Walker and Daniels; would most likely start only in place of McCollum), `trade risk` (Could be traded again if Daniels makes him expendable), `deep rotation` (Atlanta is expected to run a 10-man rotation with a deep bench)
+- Durable: `streaky` (His three-point percentage swings from season to season)
 
-**Note.** Yahoo (rank 224) and ESPN (rank 162) both value him at 0 USD. Only 144 players are drafted in our league, so he is not a draft target, and the experts see him as a deep-league option only. Early in the season, check whether he takes CJ McCollum's starting spot or gets spot starts when a guard is hurt. His few turnovers and about 2 threes per game help a little, but a projected 41.6% FG% and low points and assists keep him a waiver option.
+**Note.** Dort is not a draft target in our 12-team league. Yahoo ranks him 230 and ESPN 162, both sites value him at 0 USD, and the experts call him a deep-league option only. He projects for about 2.1 threes with few turnovers, but a 41.6% FG and low points and assists cost too much as a sixth man. Early in the season, check whether he starts in place of McCollum or gets heavy minutes after a guard injury. Only then is he worth a waiver look.
 
-<sub>7 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>7 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

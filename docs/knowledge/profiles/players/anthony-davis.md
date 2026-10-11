@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 23 | 21.8 | 45 | 46 | 24.6 | 14 | 54 |
+| 2026-27 | 23 | 19.1 | 45 | 45 | 26.1 | 15 | 54 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -25,42 +25,41 @@
 | AST | 3.2 | -0.0 | +0.4 | - |
 | STL | 1.1 | +0.5 | +0.8 | - |
 | BLK | 2.0 | +3.0 | +2.5 | league outlier, strong |
-| TO | 2.0 | -0.5 | -0.7 | - |
+| TO | 2.0 | -0.4 | -0.7 | - |
 
 </details>
 
 **Current**
-- In an auction, one expert values him at 30 USD per game but would buy him only at a discount. He went for 26 USD in that mock auction. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1045))
-- He is not injured now. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=180))
-- He missed many games last season. Some of the absences in Washington were partly not real injuries. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=180), stats)
-- Do not expect 75 games. If he plays about 60 games, a pick in the mid 20s is a good one. At 62 games he would be a tier three or four center. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=180), [09-01](https://youtu.be/80kfLVnFQ_s?t=613), [09-14](https://youtu.be/t4n9MAP2_14?t=758))
-- Experts value him around picks 21 to 26. They call his slide to Yahoo rank 45 and ADP near 43 an overreaction and would take him in round 3. One expert would still call him an easy pick in round 4 of a 12 team league. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=180), [09-30](https://youtu.be/BjXP9JODDSg?t=485), [09-24](https://youtu.be/_vbAP5y182A?t=579), [09-23](https://youtu.be/C4vlgpJ62NI?t=1516), [09-21](https://youtu.be/egRrai3Ax38?t=420), [09-17](https://youtu.be/ahNxsoU8Hx4?t=478), [09-15](https://youtu.be/KPdD91Oo8-U?t=719), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1055), [08-24](https://youtu.be/g31YlwRe0XQ?t=538), [08-11](https://youtu.be/OdDkXFhoKsc?t=592), [08-19](https://youtu.be/J1Eg3uaAICU?t=801), [09-16](https://youtu.be/2A2JbUN-kc0?t=1324))
-- If you pair him with Wembanyama, blocks and rebounds are strong, but you then need guard stats. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1516))
-- Per game he could rank about 14th and has top 10 upside. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1905), [08-19](https://youtu.be/J1Eg3uaAICU?t=801))
-- He is a value at his Yahoo rank. Do not draft him at his ESPN rank of 14. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1905))
-- He is the starting center on offense in Washington. Alex Sarr starts next to him and plays more power forward. (fact, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1436), [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
-- Experts expect Washington to keep him and push for the playoffs. One puts it at about 80%. A trade, with Golden State rumored, cannot be ruled out, and the team could reconsider around the trade deadline. (verdict, 2026-09-16; [07-23](https://youtu.be/UTE0dNIv8nY?t=669), [09-16](https://youtu.be/2A2JbUN-kc0?t=2276), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1055), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1083))
-- He projects to play about 32 minutes a game. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1055))
-- He and Trae Young are expected to get Washington's preferred offensive touches. (verdict, 2026-09-03; [06-25](https://youtu.be/lOshTzDA4SA?t=355), [09-03](https://youtu.be/OBwWCxG9SqM?t=1271))
+- He is healthy now and not injured. (fact, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=990), [10-04](https://youtu.be/n4KkK-OJjqA?t=180))
+- He is angling for a max contract. (fact, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=990))
+- Experts call his Yahoo rank of about 45 far too late. They value him around picks 23 to 26 and see an early third round pick as an easy call. They see his slide in drafts as an overreaction. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=990), [10-04](https://youtu.be/n4KkK-OJjqA?t=180), [10-08](https://youtu.be/WXO8MfQfzo0?t=613), [09-30](https://youtu.be/BjXP9JODDSg?t=485), [09-24](https://youtu.be/_vbAP5y182A?t=579), [09-17](https://youtu.be/ahNxsoU8Hx4?t=478), [09-21](https://youtu.be/egRrai3Ax38?t=420), [09-19](https://youtu.be/uarqbNA2dFk?t=1905), [08-24](https://youtu.be/g31YlwRe0XQ?t=538), [08-11](https://youtu.be/OdDkXFhoKsc?t=592), [09-15](https://youtu.be/KPdD91Oo8-U?t=719), [09-23](https://youtu.be/C4vlgpJ62NI?t=1516))
+- He projects as a top 20 player per game, possibly about 14th. At Yahoo pick 45, that removes most of the injury risk. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=990), [09-19](https://youtu.be/uarqbNA2dFk?t=1905))
+- Davis and Trae Young are expected to get the preferred offensive touches in Washington, ahead of rookie AJ Dybantsa and Alex Sarr. (verdict, 2026-10-06; [06-25](https://youtu.be/lOshTzDA4SA?t=355), [09-03](https://youtu.be/OBwWCxG9SqM?t=1271), [06-23](https://youtu.be/-rgXhs5BHiw?t=112), [10-06](https://youtu.be/eTsjuVu1trk?t=2539), [09-19](https://youtu.be/uarqbNA2dFk?t=894))
+- In auctions, one expert values him at 30 USD on a per-game basis but would only buy him at a discount. He went for 26 USD in that mock auction. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1045))
+- Do not expect 75 games. If he plays about 60 games, a pick in the mid 20s is a really good one. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=180), [09-01](https://youtu.be/80kfLVnFQ_s?t=613))
+- Pairing him with Victor Wembanyama makes blocks and rebounds strong, but the team then needs guard stats. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1516))
+- ESPN's rank of about 14 is too high to draft him there. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1905))
+- He is a projected starter for Washington. He plays center on offense, and Alex Sarr moves to power forward. (fact, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1436), [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
+- Experts expect Washington to keep him and push for the playoffs. One is about 80% sure of that. A trade cannot be ruled out, and the team could reconsider around the trade deadline. Golden State has come up in trade rumors. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=2276), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1055), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1083), [07-23](https://youtu.be/UTE0dNIv8nY?t=669))
+- He is projected for about 32 minutes per game. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1055))
 - Washington has only 14 back-to-backs this season and one in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1096))
-- Washington is trying to compete, with a projection of about 40 wins and a play-in spot. Late-season resting and minutes cuts are not expected. His health is a key factor for the team. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802))
+- Washington's rebuild is over. The team is trying to compete, with a projection of about 40 wins and a play-in spot, so late-season rest and minutes cuts are not expected. His health is a key factor for the team. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802))
 
 **Durable**
-- Rebounds and blocks are league outliers, and they carry his category value. (fact, 2026-10-05; stats)
-- He has repeated lower-body injuries of several different kinds. In Dallas he never played five games in a row before getting hurt. (fact, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=1324), [09-14](https://youtu.be/t4n9MAP2_14?t=758), [07-23](https://youtu.be/UTE0dNIv8nY?t=731))
-- Expect missed games every season. Experts have low confidence in his lower body. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=1324), [09-14](https://youtu.be/t4n9MAP2_14?t=758), [07-23](https://youtu.be/UTE0dNIv8nY?t=731))
-- He is worth more in category leagues than in points leagues. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=1324))
-- His outside shooting and perimeter game decline every year. He now rarely shoots anything except at the rim. (fact, 2026-09-14; [07-23](https://youtu.be/UTE0dNIv8nY?t=870), [09-14](https://youtu.be/t4n9MAP2_14?t=2096))
-- One expert rates his rim protection below Alex Sarr's. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2096))
-- As an often-injured player, he can go a bit earlier in roto than in head-to-head. (verdict, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=230))
-- He is 33. He can still produce when he is on the floor. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=731))
+- Blocks and rebounds are his standout categories. Both are far above the top 250 pool. (fact, 2026-10-11; stats)
+- He gets many different injuries, such as shoulder and groin issues and lower body problems. In Dallas he never played five games in a row before getting hurt. There is no single recurring injury like multiple knee surgeries. (fact, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=914), [09-16](https://youtu.be/2A2JbUN-kc0?t=1324), [09-14](https://youtu.be/t4n9MAP2_14?t=758), [07-23](https://youtu.be/UTE0dNIv8nY?t=731))
+- He is better in category leagues than in points leagues. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=1324))
+- Experts have low confidence in his lower body. If he played 62 games, he would be in tier three or four among centers. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=758))
+- One expert says he can no longer shoot and is now a worse rim protector than Alex Sarr. Another says he can still be productive when he is on the floor. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2096), [07-23](https://youtu.be/UTE0dNIv8nY?t=731))
+- As an often-injured player, he is worth a bit less in head-to-head than in roto. (verdict, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=230))
+- He is 33. His outside shooting and perimeter game decline every year, and he now rarely shoots anything except at the rim. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=731), [07-23](https://youtu.be/UTE0dNIv8nY?t=870))
 
 **Tags**
-- Current: `injury last season` (20 games in 2025-26), `sleeper` (Yahoo rank 45, experts value him around picks 21 to 26), `expert target` (around picks 23 to 26; 30 USD per game value), `sites disagree on price` (Yahoo rank 45, ESPN rank 14; avoid at ESPN rank), `trade risk` (Golden State rumors; expected to stay, deadline possible), `few back-to-backs` (14 back-to-backs), `good playoff schedule` (one back-to-back in the fantasy playoffs), `low shutdown risk` (Washington is pushing for the play-in)
-- Durable: `REB specialist` (about 11 rebounds per game), `BLK specialist` (about 2 blocks per game), `elite per game` (about 14th per game, top 10 upside), `injury prone` (repeated lower-body injuries), `age decline watch` (33, shooting and rim protection declining), `category league player`
+- Current: `injury last season` (20 games in 2025-26), `contract year` (Angling for a max contract), `trade risk` (Experts expect Washington to keep him; Golden State has come up in rumors; the team could reconsider near the deadline), `expert target` (Experts value him around picks 23 to 26 vs a Yahoo rank of about 45), `sleeper` (On Yahoo at rank about 44 to 45), `bust candidate` (At ESPN rank about 14), `sites disagree on price` (Yahoo rank 45 and value 23 USD vs ESPN rank 15 and value 45 USD), `few back-to-backs` (14 back-to-backs), `good playoff schedule` (One back-to-back in the fantasy playoffs), `low shutdown risk` (Washington is trying to compete and push for the play-in)
+- Durable: `BLK specialist` (About 2.0 blocks projected), `REB specialist` (About 11 rebounds projected), `elite per game` (Top 20 per game, possibly about 14th; games played is the question), `injury prone` (Many different injuries, mostly lower body plus shoulder and groin; no single recurring injury), `age decline watch` (Age 33; shooting and perimeter game decline each year), `category league player`
 
-**Note.** Per game he is an elite rebounds and blocks source with strong FG% and points, so his only real question is games played. Sites project 58 to 61 games. Experts value him at 30 USD per game but want a discount. Yahoo's value of 23 USD and the 26 USD mock price are a fair target range, well below the 54 USD he cost in our league last season and the ESPN value of 46 USD. He fits big-man builds, for example with Wembanyama, as long as you add guard stats and threes. Early in the season, check how many games in a row he plays and whether the trade rumors with Golden State return.
+**Note.** Experts say Davis is a top 20 player per game with elite blocks and rebounds and a plus FG%. Their only doubt is how many games he plays, and they set the bar at about 60. Yahoo prices him at 23 USD (average cost 19.1 USD). ESPN prices him at 45 USD, but experts call ESPN's rank too high. One expert gives him 30 USD of per-game value but would only buy at a discount. Our league paid 54 USD last season, so bid into the mid 20s USD and let him go if the room chases him. He fits builds that are strong in BLK, REB and FG%, such as next to Wembanyama, but those builds then need guard stats and threes. Early in the season, check his games played, whether his minutes stay near 32, and any trade talk before the 2027-03-04 deadline.
 
 <sub>Tags removed by the category check: no 3PM (3PM 0.5 per game).</sub>
 
-<sub>24 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>27 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

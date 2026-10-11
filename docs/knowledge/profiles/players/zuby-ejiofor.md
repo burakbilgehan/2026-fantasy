@@ -7,7 +7,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 700 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 724 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -16,33 +16,33 @@
 | FG% | 56.8% | +0.6 | +0.8 | - |
 | FT% | 71.2% | -0.4 | -0.3 | - |
 | 3PM | 0.1 | -1.5 | -1.9 | league outlier, weak |
-| PTS | 5.0 | -1.5 | -1.6 | league outlier, weak |
+| PTS | 5.0 | -1.6 | -1.7 | league outlier, weak |
 | REB | 4.1 | -0.4 | -0.5 | - |
 | AST | 1.0 | -1.2 | -1.2 | - |
 | STL | 0.4 | -1.8 | -1.8 | league outlier, weak |
 | BLK | 0.6 | +0.1 | +0.2 | - |
-| TO | 0.8 | +1.1 | +1.1 | - |
+| TO | 0.8 | +1.2 | +1.1 | - |
 
 </details>
 
 **Current**
-- He is a backup big man. Onyeka Okongwu is the projected starting center and Jock Landale is also on the center depth chart. (fact, 2026-09-25; [06-26](https://youtu.be/CLsUc0Sevos?t=1444), [06-26](https://youtu.be/CLsUc0Sevos?t=1102), [06-25](https://youtu.be/lOshTzDA4SA?t=2227), [09-25](https://youtu.be/4gw4W4RTolY?t=328))
-- Lloyd expects a 10-man Hawks rotation, and Ejiofor is not in his list of bench players. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
-- Atlanta's frontcourt depth is thin. Veesaar is out for the season, Gueye is injured, and power forward depth is bad to start the season. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=478), [09-25](https://youtu.be/4gw4W4RTolY?t=1693))
-- He could turn into a stretch big if his Summer League three-point shooting holds up. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2310))
-- He is a rookie. Atlanta drafted him 23rd in the 2026 NBA draft after his college career at St. John's. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1444), [06-25](https://youtu.be/lOshTzDA4SA?t=2251))
-- His big college numbers as an upperclassman may not carry over to the NBA. One expert sees them as a red flag. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1444), [06-25](https://youtu.be/lOshTzDA4SA?t=2251))
-- In dynasty rookie rankings he is rank 25, tier 5. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1444))
+- He is a backup. Onyeka Okongwu is the projected starting center and Jock Landale is in the bench rotation. (fact, 2026-09-25; [06-26](https://youtu.be/CLsUc0Sevos?t=1444), [09-25](https://youtu.be/4gw4W4RTolY?t=328), [09-25](https://youtu.be/4gw4W4RTolY?t=1289), [06-26](https://youtu.be/CLsUc0Sevos?t=1102))
+- Lloyd expects a 10-man rotation and does not name him in it. The bench he lists is Dort, Wiggins, Landale, Flemings and probably Newell, with Kispert and Finney-Smith also in the mix. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1289))
+- Atlanta's big man depth is thin. Veesaar is out for the season, Gueye is injured, and power forward depth is bad to start the season. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=478), [09-25](https://youtu.be/4gw4W4RTolY?t=1693))
+- Rookie. The Hawks picked him 23rd in the 2026 NBA draft. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1444), [06-25](https://youtu.be/lOshTzDA4SA?t=2251))
+- Dynasty rookie rank 25, tier 5. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1444))
 
 **Durable**
-- Projections give him very few threes, points and steals. His good FG% and low turnovers come on very small volume. (fact, 2026-10-05; stats)
-- He barely shot threes in college. In 2026 Summer League he took 52% of his shots from three and made 35% of them. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2310))
-- He is an undersized, switchy, high-energy big man. (fact, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=2251))
+- Projections make him clearly weak in points, steals and threes compared with the pool. (verdict, 2026-10-11; stats)
+- In Summer League he took 52% of his shots from three and made 35%, after barely shooting threes in college. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2310))
+- Could become a stretch big. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2310))
+- He put up big numbers at St. John's as an upperclassman. Experts see that as a red flag and say the numbers may not translate. (verdict, 2026-06-26; [06-25](https://youtu.be/lOshTzDA4SA?t=2251), [06-26](https://youtu.be/CLsUc0Sevos?t=1444))
+- Undersized, switchy, energy big man. (fact, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=2251))
 
 **Tags**
-- Current: `rookie` (2026 pick 23 by Atlanta), `minutes competition` (backup big behind Okongwu, with Landale also at center), `deep rotation` (Hawks expect a 10-man rotation that does not include him)
-- Durable: `five-out offense` (Quin Snyder wants lots of threes and five-out spacing, which suits his new three-point shot)
+- Current: `rookie` (2026 pick 23 by Atlanta), `deep rotation` (10-man rotation expected. He is not named in it.), `shared ball handling` (No true point guard in Atlanta)
+- Durable: `five-out offense` (Quin Snyder wants threes and five-out spacing, which fits his Summer League three-point volume)
 
-**Note.** Ejiofor is not a draft option in our 144-player auction. Yahoo values him at 0 USD (rank 700), ESPN gives no price, and his Yahoo projection is only 5.0 points and 4.1 rebounds as a backup. Early in the season, watch two things. First, whether his Summer League three-point shooting carries into real minutes. Second, whether an injury to Okongwu or Jalen Johnson opens a role in Atlanta's thin frontcourt. Only then is he worth a waiver claim.
+**Note.** He is not a draft target in a 144-player auction. Yahoo values him at 0 USD and ranks him 724th, ESPN has no price, and his projection of 5.0 points with almost no threes or steals gives a team little to use. Watch him early on waivers only if Atlanta's thin big man depth (Veesaar out, Gueye hurt) gives him minutes, and check whether his Summer League three-point volume carries over in Snyder's five-out offense.
 
-<sub>3 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

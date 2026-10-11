@@ -11,45 +11,46 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 5 | 1.2 | 103 | 0 | 0.6 | 135 | 11 |
+| 2026-27 | 5 | 1.1 | 104 | 0 | 0.8 | 132 | 11 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 61.0% | +1.5 | +0.5 | - |
-| FT% | 64.0% | -1.3 | -0.5 | - |
+| FT% | 64.0% | -1.3 | -0.4 | - |
 | 3PM | 0.0 | -1.7 | -1.1 | league outlier, weak, weak for his position (punt fit) |
 | PTS | 9.3 | -0.8 | -0.6 | - |
 | REB | 9.4 | +1.8 | +0.8 | - |
 | AST | 3.4 | +0.1 | +0.6 | - |
 | STL | 1.0 | +0.1 | +0.7 | - |
 | BLK | 0.9 | +0.5 | -0.4 | - |
-| TO | 1.6 | +0.0 | -0.2 | - |
+| TO | 1.6 | +0.1 | -0.1 | - |
 
 </details>
 
 **Current**
-- Experts like him around round 8 in 9-cat mock drafts and call him a useful starting center for the late rounds. (verdict, 2026-10-04; [09-24](https://youtu.be/_vbAP5y182A?t=1568), [09-30](https://youtu.be/BjXP9JODDSg?t=1330), [10-04](https://youtu.be/n4KkK-OJjqA?t=1148))
-- Experts see him as value. He should go inside the top 100, but he keeps going too late, and on ESPN he sits outside the top 130. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2392), [09-17](https://youtu.be/DubdKKhMWHo?t=1707), [09-14](https://youtu.be/t4n9MAP2_14?t=1311), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1761))
-- His role as OKC's full-time starting center looks secure. (verdict, 2026-09-17; [07-01](https://youtu.be/W3THnI7wWdA?t=969), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1246), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1274))
-- OKC's center rotation is Hartenstein, Chet Holmgren and Jaylin Williams. Williams barely played unless the centers were out. (fact, 2026-09-17; [07-21](https://youtu.be/RyzcCGChYgs?t=1024), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1274))
-- He was banged up a lot last season after playing very well early on. (fact, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1246), [09-17](https://youtu.be/DubdKKhMWHo?t=1707))
-- If he stays healthy and plays 28 to 29 minutes, he can be a top 60 player. One expert gives a best case of 40th and a worst case of 93rd. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1246), [09-14](https://youtu.be/t4n9MAP2_14?t=1311), [09-17](https://youtu.be/DubdKKhMWHo?t=1707))
-- OKC projects to win about 57 to 62 games and should be a top two seed in the West. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2232))
-- He re-signed with the Thunder for 3 years and 75 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=969))
+- Yahoo lists him as questionable with an ankle injury. (fact, 2026-10-11; stats)
+- He missed many games with injuries last season. Early last season, while Chet Holmgren was out, he played at a top 40 level. (fact, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1908), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1246), [09-17](https://youtu.be/DubdKKhMWHo?t=1707))
+- Experts expect him to be a full-time starter with a secure role. A teammate's strong preseason does not change that. (verdict, 2026-10-08; [07-01](https://youtu.be/W3THnI7wWdA?t=969), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1246), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1274), [10-08](https://youtu.be/6DnRWahYrFA?t=1908))
+- Lloyd ranks him 104 in Yahoo categories. Other experts say he should go inside the top 100, keep going too late, and sit outside the top 130 on ESPN. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1908), [10-02](https://youtu.be/ZYllcj4o6_A?t=2392), [09-17](https://youtu.be/DubdKKhMWHo?t=1707), [09-14](https://youtu.be/t4n9MAP2_14?t=1311), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1761))
+- Experts call him a useful late-round center and a value pick around round 8 in 10-team mock drafts, mostly for his defensive stats. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1148), [09-30](https://youtu.be/BjXP9JODDSg?t=1330), [09-24](https://youtu.be/_vbAP5y182A?t=1568), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1761))
+- OKC's center rotation is Hartenstein, Chet Holmgren and Jaylin Williams. Jaylin Williams barely played unless one of the centers was out. (fact, 2026-09-17; [07-21](https://youtu.be/RyzcCGChYgs?t=1024), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1274))
+- If he stays healthy and plays 28 to 29 minutes, experts see him as a top 60 player. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1246), [09-14](https://youtu.be/t4n9MAP2_14?t=1311))
+- One expert gives a best case of 40th and a worst case of 93rd. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1707))
+- OKC is projected to win about 62 games and to be a top two seed in the West. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2232))
+- He re-signed with the Thunder on a 3-year, 75 million dollar contract. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=969))
 
 **Durable**
-- His FT% is low, but on only about 2 attempts per game, so it hurts a team's FT% only a little. (fact, 2026-10-05; stats)
-- He is a center with unusual assist numbers for his position. He no longer shoots threes. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1319), stats)
-- He gives rebounds, high FG%, assists and steals, with some blocks. His blocks are below average for a center. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1319), stats)
+- He is a very low scorer. He does not fit every fantasy team, but he can help plenty of them. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1931), stats)
+- He is an unusual center who gets assists and no longer shoots threes. He adds rebounds, steals, blocks and a high FG%. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1319), stats)
 
 **Tags**
-- Current: `sleeper` (ADP around 98 to 103 on Yahoo, outside 130 on ESPN), `expert target` (experts take him around round 8 and say he should go inside the top 100), `sites disagree on price` (Yahoo rank 103 and value 5 USD, ESPN rank 135 and value 0 USD), `injury last season` (banged up a lot last season, 47 games), `winning team` (projected 57 to 62 wins)
-- Durable: `no 3PM` (0.0 threes per game), `punt 3PM fit`
+- Current: `questionable` (Yahoo status Q (ankle)), `injured now` (ankle, Yahoo status Q), `injury last season` (played 47 games, banged up a lot), `sleeper` (experts say he goes too late, ESPN rank outside 130), `expert target` (experts say he should go inside the top 100), `sites disagree on price` (Yahoo rank 104, ESPN rank 132), `winning team` (OKC projected about 62 wins)
+- Durable: `no 3PM` (0.0 threes per game in recent seasons), `punt 3PM fit`
 
-**Note.** The market is cheap on him (Yahoo average cost 1.2 USD, ESPN 0.6 USD, rank 103 on Yahoo and 135 on ESPN), while our league paid 11 USD last season and experts say he should go inside the top 100. At 1 to 5 USD he is a good late center: strong rebounds and FG%, rare assists for a big, and no threes, so he fits punt 3PM builds best. Early in the season, check whether he gets 28 or more minutes and stays healthy, because that is what lifts him toward top 60 value.
+**Note.** Hartenstein is a late-auction center: Yahoo values him at 5 USD and ESPN at 0 USD, with average costs around 1 USD. Our league paid 11 USD for him last season, which is too much for a rank near 104 to 132. He fits punt 3PM builds and teams that need rebounds, FG% and assists from the center spot, and he costs little in turnovers. Early in the season, check his ankle (Yahoo Q) and whether he gets the 28 or more minutes that experts say would make him a top 60 player.
 
 <sub>Tags removed by the category check: AST from a big (not a F/C with AST z >= +1.5 vs position).</sub>
 
-<sub>10 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>12 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

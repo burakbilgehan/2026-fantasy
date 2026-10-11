@@ -11,13 +11,13 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 6 | 5.6 | 91 | 0 | 0.3 | 136 | not drafted |
+| 2026-27 | 6 | 4.0 | 90 | 0 | 0.7 | 135 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 54.4% | +1.0 | +0.0 | - |
+| FG% | 54.4% | +1.0 | -0.0 | - |
 | FT% | 67.6% | -1.2 | -0.4 | - |
 | 3PM | 0.2 | -1.4 | -0.8 | - |
 | PTS | 10.8 | -0.6 | -0.4 | - |
@@ -25,37 +25,35 @@
 | AST | 2.7 | -0.3 | +0.2 | - |
 | STL | 1.2 | +0.9 | +1.7 | - |
 | BLK | 0.8 | +0.3 | -0.6 | - |
-| TO | 1.8 | -0.3 | -0.5 | - |
+| TO | 1.8 | -0.2 | -0.5 | - |
 
 </details>
 
 **Current**
-- In a mock auction he went for 10 USD as a starting center, which the buyer still called below his value. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3966))
-- Sharpe is expected to start at center for Brooklyn now that Nic Claxton has been traded. Projected starters are Mikel Brown Jr., Egor Demin, Michael Porter Jr., Julius Randle and Sharpe. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=688), [09-26](https://youtu.be/3UGI05PDvrE?t=234), [09-14](https://youtu.be/t4n9MAP2_14?t=2120), [09-01](https://youtu.be/skKXe2CRl8Q?t=1001), [08-21](https://youtu.be/uRsfijpBPok?t=594), [06-30](https://youtu.be/4GDfg2n2l8o?t=734), [09-26](https://youtu.be/3UGI05PDvrE?t=313), [08-21](https://youtu.be/uRsfijpBPok?t=488), [09-01](https://youtu.be/skKXe2CRl8Q?t=1001))
-- The experts project about 24 minutes a night. The team aims for the mid or high 20s. Getting to 28 minutes is doubtful, and 30 minutes is almost certainly not happening. (verdict, 2026-10-04; [09-26](https://youtu.be/3UGI05PDvrE?t=234), [09-26](https://youtu.be/3UGI05PDvrE?t=876), [09-14](https://youtu.be/t4n9MAP2_14?t=2120), [10-04](https://youtu.be/n4KkK-OJjqA?t=688), [08-21](https://youtu.be/uRsfijpBPok?t=1289))
-- At about 24 minutes he projects as a top 100 category league player, around 80 to 100. At 27 minutes the estimates range from top 50 to 60 up to top 70. If he loses minutes, a pick near Yahoo's rank becomes a bad one. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=688), [09-26](https://youtu.be/3UGI05PDvrE?t=876), [06-30](https://youtu.be/4GDfg2n2l8o?t=734))
-- He is Josh's best category league target. He is underpriced on ESPN. His Yahoo rank is about right for category leagues, and an ADP near 101 is called free real estate. He does not need many minutes to be useful. (verdict, 2026-10-04; [09-26](https://youtu.be/3UGI05PDvrE?t=818), [09-26](https://youtu.be/3UGI05PDvrE?t=1406), [10-04](https://youtu.be/n4KkK-OJjqA?t=1109))
-- Brooklyn signed Mo Wagner. The projected bench has three big men: Wagner, Danny Wolf and Noah Clowney. (fact, 2026-09-26; [07-02](https://youtu.be/P6TNP-g0wzY?t=1894), [08-21](https://youtu.be/uRsfijpBPok?t=594), [09-26](https://youtu.be/3UGI05PDvrE?t=1156), [07-02](https://youtu.be/P6TNP-g0wzY?t=1914))
-- Brooklyn has 16 back-to-backs, tied for the most in the league. With a season that ends March 28, its playoff weeks have 3, 4 and 3 games, with only one back-to-back. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
-- Brooklyn does not own its pick, so it has no reason to tank. It may still give young bigs like Clowney more minutes in the second half, which makes March minutes uncertain. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [08-21](https://youtu.be/uRsfijpBPok?t=276), [08-26](https://youtu.be/sTtFUy7IoJI?t=1170))
-- If he does not start early in the season, react right away. (verdict, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=1001), [09-01](https://youtu.be/skKXe2CRl8Q?t=1001))
-- Wagner lowers Sharpe's upside, and the experts see a possible messy center split with Wagner and Wolf. (verdict, 2026-08-21; [07-02](https://youtu.be/P6TNP-g0wzY?t=1894), [07-02](https://youtu.be/P6TNP-g0wzY?t=1914), [08-21](https://youtu.be/uRsfijpBPok?t=594))
-- When Claxton was out in the past, Sharpe sometimes played very few minutes. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=1289))
-- He is on a short two-year contract. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=1289))
-- Nine-cat rankings will make him look like a top 20 player, and he will not be that. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=734))
+- Yahoo lists him as questionable with a shoulder injury. (fact, 2026-10-11; stats)
+- Brooklyn is projected to be one of the worst teams, at about 28 wins. Houston owns its pick, so it has no reason to tank. March minutes are uncertain because the team may shift minutes to young players such as Clowney and Minott. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=177), [08-21](https://youtu.be/uRsfijpBPok?t=1754), [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1642), [07-13](https://youtu.be/Rqb5GdrSweY?t=622), [08-26](https://youtu.be/sTtFUy7IoJI?t=1170))
+- He said he wants to double his minutes. In past Claxton absences he sometimes played very few minutes. (fact, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=3304), [08-21](https://youtu.be/uRsfijpBPok?t=1289))
+- At about 24 minutes he projects as a top 100 category league player. At 27 to 28 minutes he would be about top 70. If he loses minutes, a pick near his Yahoo rank becomes a bad one. (verdict, 2026-10-05; [10-04](https://youtu.be/n4KkK-OJjqA?t=688), [10-05](https://youtu.be/BiIZsSypx7Y?t=3304), [09-26](https://youtu.be/3UGI05PDvrE?t=876), [06-30](https://youtu.be/4GDfg2n2l8o?t=734))
+- In a mock auction he went for 10 USD as a starting center, which was still under the buyer's value. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3966))
+- He is projected as Brooklyn's starting center after Nic Claxton was traded. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=688), [09-26](https://youtu.be/3UGI05PDvrE?t=234), [09-14](https://youtu.be/t4n9MAP2_14?t=2120), [09-01](https://youtu.be/skKXe2CRl8Q?t=1001), [08-21](https://youtu.be/uRsfijpBPok?t=594), [06-30](https://youtu.be/4GDfg2n2l8o?t=734), [09-26](https://youtu.be/3UGI05PDvrE?t=313), [08-21](https://youtu.be/uRsfijpBPok?t=488))
+- He is Josh's best category league target. He is underpriced on ESPN, his Yahoo rank is about right for category leagues, and a Fantrax ADP near 101 is called free real estate. (verdict, 2026-10-04; [09-26](https://youtu.be/3UGI05PDvrE?t=818), [09-26](https://youtu.be/3UGI05PDvrE?t=1406), [10-04](https://youtu.be/n4KkK-OJjqA?t=1109))
+- Brooklyn signed Mo Wagner. Wagner, Danny Wolf and Noah Clowney are bench big men who compete for center minutes. (fact, 2026-09-26; [07-02](https://youtu.be/P6TNP-g0wzY?t=1894), [07-02](https://youtu.be/P6TNP-g0wzY?t=1914), [08-21](https://youtu.be/uRsfijpBPok?t=594), [09-26](https://youtu.be/3UGI05PDvrE?t=1156))
+- His minutes are the open question. The experts expect about 24 minutes a night and say 30 is almost certainly not happening. The Wagner signing lowers his upside and may create a messy split at center. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=234), [09-26](https://youtu.be/3UGI05PDvrE?t=876), [09-14](https://youtu.be/t4n9MAP2_14?t=2120), [07-02](https://youtu.be/P6TNP-g0wzY?t=1894), [08-21](https://youtu.be/uRsfijpBPok?t=594))
+- Brooklyn has 16 back-to-backs, tied for the most in the league. For a March 28 end its playoff schedule is 3-4-3, 10 games, with one back-to-back. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
+- Watch early in the season whether he actually starts. If he does not, react right away. (verdict, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=1001), [09-01](https://youtu.be/skKXe2CRl8Q?t=1001))
+- He is on a short two-year deal. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=1289))
+- Nine-cat rankings may make him look like a top 20 player, which he will not be. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=734))
 
 **Durable**
-- He makes almost no threes. (fact, 2026-10-05; stats)
-- He used to be a shot blocker, but his blocks have been poor lately for unclear reasons. (fact, 2026-10-04; [09-26](https://youtu.be/3UGI05PDvrE?t=850), [06-30](https://youtu.be/4GDfg2n2l8o?t=701), [10-04](https://youtu.be/n4KkK-OJjqA?t=1109))
-- By the numbers he is one of the best offensive rebounders in the league. (fact, 2026-09-26; [08-21](https://youtu.be/uRsfijpBPok?t=532), [09-26](https://youtu.be/3UGI05PDvrE?t=850))
-- He passes more than most centers and has shown flashes of playmaking. His steals have risen and are high for a center. He has become a versatile defender. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=850), [08-21](https://youtu.be/uRsfijpBPok?t=532), stats)
-- He has improved as a finisher and helps in FG%. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=532), [06-30](https://youtu.be/4GDfg2n2l8o?t=701), stats)
-- He is a per-minute monster who has rarely had the chance to start. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=701))
+- His value is category specific: he rates clearly better in category leagues than in points leagues. (verdict, 2026-10-08; [09-26](https://youtu.be/3UGI05PDvrE?t=810), [09-26](https://youtu.be/3UGI05PDvrE?t=1406), [10-04](https://youtu.be/n4KkK-OJjqA?t=688), [10-08](https://youtu.be/WXO8MfQfzo0?t=1413))
+- He used to be a shot blocker, but his blocks have dropped for unclear reasons. His passing and steals have gone up, and he has improved as a finisher and become a versatile defender. (fact, 2026-10-05; [09-26](https://youtu.be/3UGI05PDvrE?t=850), [08-21](https://youtu.be/uRsfijpBPok?t=532), [06-30](https://youtu.be/4GDfg2n2l8o?t=701), [10-04](https://youtu.be/n4KkK-OJjqA?t=1109), [10-05](https://youtu.be/BiIZsSypx7Y?t=3304))
+- He is one of the best offensive rebounders in the league by the numbers. (fact, 2026-09-26; [08-21](https://youtu.be/uRsfijpBPok?t=532), [09-26](https://youtu.be/3UGI05PDvrE?t=850))
+- He is a strong per-minute producer who has rarely had the chance to start. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=701))
 
 **Tags**
-- Current: `role up` (Expected starting center after the Claxton trade, up from about 19 minutes as a backup), `minutes competition` (Mo Wagner and Danny Wolf at center), `sleeper` (ESPN rank 136, Fantrax ADP 101), `expert target` (Josh's best category league target), `sites disagree on price` (Yahoo rank 91 and 6 USD, ESPN rank 136 and 0 USD), `many back-to-backs` (Brooklyn has 16, tied for most in the league)
-- Durable: `category league player` (148th in category leagues and 181st in points leagues last season), `9-cat fluff` (Nine-cat rankings make him look like a top 20 player), `no 3PM`
+- Current: `role up` (Moves from backup to projected starting center after the Claxton trade), `minutes competition` (Mo Wagner and Danny Wolf share center minutes), `expert target` (Josh's best category league target, top 100 at 24 minutes), `sleeper` (ESPN rank near 135 and Fantrax ADP 101 called free real estate), `sites disagree on price` (Yahoo rank 90 and 6 USD, ESPN rank 135 and 0 USD), `questionable` (Yahoo Q, shoulder), `injured now` (Shoulder, Yahoo status Q), `bottom team` (About 28 projected wins), `low shutdown risk` (Houston owns Brooklyn's pick, but March minutes still uncertain), `deep rotation` (Many young frontcourt players compete for minutes), `many back-to-backs` (16 back-to-backs, tied for most in the league), `bad playoff schedule` (3-4-3, only 10 games for a March 28 end, one back-to-back)
+- Durable: `category league player` (148th in category leagues vs 181st in points leagues last season), `9-cat fluff` (Per-minute nine-cat rankings may show him near top 20)
 
-**Note.** Sharpe is priced like a fringe pick. Yahoo has him at 6 USD (rank 91) and ESPN at 0 USD (rank 136), and nobody drafted him in our league last season. The experts see him as a top 100 category player at 24 minutes, and one mock auction paid 10 USD, so anything up to about 10 USD is a fair bid for a starting center. He helps in REB, STL and FG% and gives nothing in 3PM, with weak FT%. Early in the season, check that he starts and gets at least 24 minutes ahead of Mo Wagner and Danny Wolf.
+**Note.** Sharpe is a cheap center target for us. Yahoo values him at 6 USD (average cost 4.0, rank 90) and ESPN has him near 0 USD, but one expert mock auction paid 10 USD and still called that under value. Projections have him at about 9 to 10 rebounds, 1.2 steals and a 54% FG% on modest volume, which fits builds that want boards, steals and FG% from the center spot, while his roughly 68% FT% and near-zero threes cost a little. Check right away whether he starts and gets 24 or more minutes ahead of Mo Wagner and Danny Wolf, and watch his shoulder (Yahoo Q). Note that Brooklyn has only 10 games in our playoff weeks.
 
-<sub>17 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>19 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

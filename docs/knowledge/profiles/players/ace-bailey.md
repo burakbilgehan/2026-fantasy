@@ -3,22 +3,22 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, ESPN | 72 | 28.2 | 44.3 (12.7) | 74.5 (1.3) | 2.0 | 14.2 | 4.3 | 1.9 | 0.9 | 0.7 | 1.5 |
+| 2026-27 proj, ESPN | 72 | 28.2 | 45.5 (12.7) | 75.5 (1.3) | 2.1 | 14.6 | 4.3 | 1.9 | 0.9 | 0.7 | 1.5 |
 | 2026-27 proj, Yahoo | 72 | - | 45.1 (12.0) | 77.1 (1.5) | 1.8 | 13.8 | 4.7 | 2.0 | 0.9 | 0.7 | 1.6 |
 | 2025-26 | 72 | 27.6 | 44.3 (12.4) | 75.0 (1.2) | 1.9 | 13.8 | 4.2 | 1.8 | 0.8 | 0.7 | 1.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 159 | 1 | 0.4 | 127 | 1 |
+| 2026-27 | 0 | 0.0 | 147 | 1 | 0.6 | 124 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 44.7% | -0.7 | -0.8 | - |
-| FT% | 75.9% | -0.2 | -0.1 | - |
-| 3PM | 1.9 | +0.4 | +0.5 | - |
-| PTS | 14.0 | +0.0 | +0.0 | - |
+| FG% | 45.3% | -0.6 | -0.6 | - |
+| FT% | 76.4% | -0.2 | -0.1 | - |
+| 3PM | 1.9 | +0.5 | +0.5 | - |
+| PTS | 14.2 | +0.0 | +0.0 | - |
 | REB | 4.5 | -0.3 | -0.3 | - |
 | AST | 1.9 | -0.7 | -0.5 | - |
 | STL | 0.9 | -0.1 | -0.1 | - |
@@ -28,25 +28,25 @@
 </details>
 
 **Current**
-- Most experts expect him to come off the bench. Utah is healthy again with Jaren Jackson Jr., Lauri Markkanen and Keyonte George, and Jusuf Nurkic is expected to start at center. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2802), [10-02](https://youtu.be/ZYllcj4o6_A?t=204), [09-19](https://youtu.be/uarqbNA2dFk?t=1214), [09-19](https://youtu.be/uarqbNA2dFk?t=1203), [09-10](https://youtu.be/dlo7L8Ru91A?t=1874), [09-04](https://youtu.be/gerS7ibpaJo?t=1581), [08-05](https://youtu.be/CI4k8ofUXXk?t=421), [07-14](https://youtu.be/xHRF06_E9HE?t=1629))
-- His best production last season came late, when Utah sat its veterans. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2802), [09-19](https://youtu.be/uarqbNA2dFk?t=1214), [09-03](https://youtu.be/OBwWCxG9SqM?t=642), [09-04](https://youtu.be/gerS7ibpaJo?t=1581), [09-10](https://youtu.be/dlo7L8Ru91A?t=1874), [07-14](https://youtu.be/xHRF06_E9HE?t=1629))
-- Experts say those late-season numbers will not carry over. Utah is trying to win this season, so the late-year minutes from tanking should not open up. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2802), [09-19](https://youtu.be/uarqbNA2dFk?t=1214), [09-10](https://youtu.be/dlo7L8Ru91A?t=1874), [09-04](https://youtu.be/gerS7ibpaJo?t=1581), [07-14](https://youtu.be/xHRF06_E9HE?t=1629), [07-14](https://youtu.be/xHRF06_E9HE?t=872), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [09-10](https://youtu.be/dlo7L8Ru91A?t=973))
-- One expert still names him as a possible starter at the fifth spot next to Nurkic. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=859), [07-02](https://youtu.be/P6TNP-g0wzY?t=945))
-- He is only a last-round flyer outside the top 120 (tier 8 in category leagues). He is overdrafted at a 3 USD auction price, while similar players go for 0 USD. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1214), [09-04](https://youtu.be/gerS7ibpaJo?t=1581), [09-10](https://youtu.be/dlo7L8Ru91A?t=1874))
-- Utah has a crowded frontcourt and usage group: Markkanen, Jackson Jr., George and Peterson all take touches. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [07-16](https://youtu.be/-y6p5PYLf00?t=1689), [06-25](https://youtu.be/lOshTzDA4SA?t=541), [06-23](https://youtu.be/-rgXhs5BHiw?t=122))
-- Walker Kessler has left Utah, and the Jazz added Darryn Peterson. (fact, 2026-08-19; [10-02](https://youtu.be/ZYllcj4o6_A?t=204), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1176), [07-14](https://youtu.be/xHRF06_E9HE?t=872), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [08-05](https://youtu.be/CI4k8ofUXXk?t=196))
-- Expected bench role is close to 30 minutes a game, and he is expected to be part of the closing lineup. (verdict, 2026-08-05; [07-21](https://youtu.be/RyzcCGChYgs?t=321), [08-05](https://youtu.be/CI4k8ofUXXk?t=464))
-- When Peterson and Markkanen sit, the offense is expected to run through him, so his stats could rise in those games. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=421))
-- He is the number two prospect in the Utah organization and could take Keyonte George's spot as the secondary scorer within a year. (verdict, 2026-08-05, until within a year; [08-05](https://youtu.be/CI4k8ofUXXk?t=775))
-- If Jaren Jackson Jr. moves to center, Bailey starts and does more. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1202))
+- Experts expect him to come off the bench this season, even with Jusuf Nurkic hurt. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=456), [10-08](https://youtu.be/WXO8MfQfzo0?t=2134), [10-02](https://youtu.be/ZYllcj4o6_A?t=2802), [09-19](https://youtu.be/uarqbNA2dFk?t=1214), [09-10](https://youtu.be/dlo7L8Ru91A?t=1874), [09-04](https://youtu.be/gerS7ibpaJo?t=1581), [07-14](https://youtu.be/xHRF06_E9HE?t=1629), [07-21](https://youtu.be/RyzcCGChYgs?t=321), [08-05](https://youtu.be/CI4k8ofUXXk?t=421))
+- Jusuf Nurkic is hurt. In the preseason Jaxson Hayes started at center, because Utah does not want Jaren Jackson Jr. playing much center. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=456), [10-08](https://youtu.be/sDzeYdUhJDI?t=446))
+- He is expected to play about 30 minutes a game as a bench player. He has looked good in the preseason. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=456), [07-21](https://youtu.be/RyzcCGChYgs?t=321))
+- Experts see him only as a last-round flyer outside the top 120. He is tier 8 in category leagues and is overdrafted at a 3 USD auction price. (verdict, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=2134), [09-19](https://youtu.be/uarqbNA2dFk?t=1214), [09-04](https://youtu.be/gerS7ibpaJo?t=1581), [09-10](https://youtu.be/dlo7L8Ru91A?t=1874))
+- Most of his good production last season came late in the year, when Utah sat its veterans. (fact, 2026-10-02; [09-03](https://youtu.be/OBwWCxG9SqM?t=642), [10-02](https://youtu.be/ZYllcj4o6_A?t=2802), [09-19](https://youtu.be/uarqbNA2dFk?t=1214), [07-14](https://youtu.be/xHRF06_E9HE?t=1629))
+- Experts say his late-season numbers will not repeat. Utah is healthy, is trying to win and is not expected to tank, so those minutes will not be there. (verdict, 2026-09-19; [07-14](https://youtu.be/xHRF06_E9HE?t=1629), [09-10](https://youtu.be/dlo7L8Ru91A?t=1874), [09-04](https://youtu.be/gerS7ibpaJo?t=1581), [09-19](https://youtu.be/uarqbNA2dFk?t=1214), [07-14](https://youtu.be/xHRF06_E9HE?t=872), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677))
+- Utah has a crowded roster. Lauri Markkanen, Jaren Jackson Jr., Keyonte George and Darryn Peterson all take usage. (fact, 2026-08-26; [06-25](https://youtu.be/lOshTzDA4SA?t=541), [07-16](https://youtu.be/-y6p5PYLf00?t=1689), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803))
+- He is expected to be part of the closing lineup. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=464))
+- When Darryn Peterson and Lauri Markkanen sit, the offense should run through him and his stats could rise. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=421))
+- He is the number two prospect in the organization and could take Keyonte George's place as the secondary scorer within a year. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=775))
 
 **Durable**
-- He is worth more in points leagues (tier 6) than in category leagues (tier 8). (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1874))
+- His category line has no real outlier. Threes are his best category. FG% and assists are his weakest, but only mildly. (fact, 2026-10-11; stats)
+- He is worth more in points leagues than in category leagues. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1874))
 
 **Tags**
-- Current: `minutes competition` (Competes with Jusuf Nurkic for the fifth starter spot in a crowded frontcourt with Markkanen and Jackson Jr.), `flyer` (Last-round flyer outside the top 120), `bust candidate` (Overdrafted at a 3 USD auction price; late-season numbers were inflated)
-- Durable: `points league player` (Tier 6 in points leagues, tier 8 in category leagues), `fits every build` (No weak category, but also no strong one; all categories close to average)
+- Current: `flyer` (last-round flyer outside the top 120), `minutes competition` (expected to come off the bench behind Utah's healthy frontcourt, even with Nurkic out), `usage competition` (Markkanen, Jackson Jr., George and Peterson take the usage), `regression risk` (his late-season numbers came while Utah sat its veterans), `deep rotation` (crowded Utah frontcourt and wings)
+- Durable: `points league player` (tier 6 in points leagues, tier 8 in category leagues)
 
-**Note.** He sits right at our 144-player cutoff (Yahoo rank 159, ESPN 127, Yahoo value 0, ESPN 1 USD), and we paid 1 USD for him last season. Pay 1 USD at most, only as the last pick. His projected line is close to average in every category, so he fits any build but does not win any category. Early in the season, check whether he or Nurkic starts and whether his minutes reach about 30. If he stays a bench player behind Markkanen and Jackson Jr., he is easy to drop.
+**Note.** He sits right at the edge of our 144-player draft. Yahoo ranks him 147th (0 USD) and ESPN 124th (1 USD), and he went for 1 USD in our last auction. Experts expect a bench role behind Utah's healthy core, and his line has no standout category, so he is a 1 USD last-round flyer at most, or a waiver name. Early in the season, check whether he gets about 30 minutes while Nurkic is out and whether he gets into the starting lineup.
 
-<sub>12 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>14 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

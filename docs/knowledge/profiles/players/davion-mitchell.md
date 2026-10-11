@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 3 | 1.0 | 110 | 0 | 0.1 | 175 | not drafted |
+| 2026-27 | 3 | 1.0 | 112 | 0 | 0.2 | 176 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,7 +20,7 @@
 | FG% | 47.4% | -0.1 | +0.5 | - |
 | FT% | 66.2% | -0.5 | -1.1 | - |
 | 3PM | 1.3 | -0.3 | -0.7 | - |
-| PTS | 9.1 | -0.8 | -0.9 | - |
+| PTS | 9.1 | -0.9 | -0.9 | - |
 | REB | 2.6 | -1.1 | -0.9 | - |
 | AST | 6.6 | +1.8 | +1.4 | - |
 | STL | 1.1 | +0.4 | +0.1 | - |
@@ -30,25 +30,25 @@
 </details>
 
 **Current**
-- Experts are lukewarm on him. One lists him among overhyped draft values to avoid, and another does not think he is a particularly strong player. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1290), [08-02](https://youtu.be/TOn-D1SV7a8?t=318))
-- Miami traded for Giannis Antetokounmpo and lost much of its depth and ball handling. Giannis is expected to handle the ball a lot. (fact, 2026-09-14; [06-23](https://youtu.be/nnWX_ObljOE?t=780), [09-14](https://youtu.be/LM0cRCGoAUQ?t=813), [07-17](https://youtu.be/NYTH7uQsPCM?t=1757))
-- He is Miami's starting point guard, and one expert calls his role locked in. (fact, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2561), [06-23](https://youtu.be/nnWX_ObljOE?t=888), [08-02](https://youtu.be/TOn-D1SV7a8?t=318))
-- Ranked as a tier 9 point guard with an ADP of 114. The expert does not trust his shooting at higher volume. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2561))
-- Miami has the fewest back-to-backs in the league (13) and none in the fantasy playoffs, but only 10 games in the playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1153))
-- His usage is already low and will probably drop further next to Giannis. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=888), [06-23](https://youtu.be/nnWX_ObljOE?t=780))
+- Yahoo lists him as questionable (rest). (fact, 2026-10-11; stats)
+- Miami acquired Giannis Antetokounmpo. Miami lacks other point guards and ball handlers, so Giannis is expected to handle the ball a lot and may run point. (fact, 2026-10-09; [06-23](https://youtu.be/nnWX_ObljOE?t=780), [07-17](https://youtu.be/NYTH7uQsPCM?t=1757), [10-07](https://youtu.be/cvhcheoKdbo?t=262), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2309))
+- With Giannis handling the ball, his assists and his already low usage should drop. He may not start, may not close games, and could be a 27-minute player even as a starter. (verdict, 2026-10-09; [10-07](https://youtu.be/cvhcheoKdbo?t=1150), [06-23](https://youtu.be/nnWX_ObljOE?t=888), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2290), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2309))
+- Experts fade him at his market price. Do not take him around 110 to 118. He is a last-round pick at most, around round 15. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2290), [10-07](https://youtu.be/cvhcheoKdbo?t=1827))
+- He is Miami's current starting point guard. He is in the projected starting five, which one expert gives about a 75% chance. (fact, 2026-10-07; [08-02](https://youtu.be/TOn-D1SV7a8?t=318), [06-23](https://youtu.be/nnWX_ObljOE?t=870), [06-23](https://youtu.be/nnWX_ObljOE?t=888), [09-09](https://youtu.be/7BllEsdNLoM?t=2561), [10-07](https://youtu.be/cvhcheoKdbo?t=372))
+- Miami has a weak 4-3-3 schedule in our fantasy playoff weeks, which is 10 games. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2024))
+- Miami has 13 back-to-backs, the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2037), [08-16](https://youtu.be/gf_6GveiAls?t=1153))
 
 **Durable**
-- He plays a very low usage role and is not a high scorer. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2161), [09-19](https://youtu.be/uarqbNA2dFk?t=1290), [08-30](https://youtu.be/Alwse2uXzD4?t=2056))
-- Assists are his main fantasy value, with upside to about seven per game. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2161), [09-19](https://youtu.be/uarqbNA2dFk?t=1290), [08-30](https://youtu.be/Alwse2uXzD4?t=2056), stats)
-- Experts disagree on his steals. Some call them good or okay, and one says he does not get as many as you would want. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2161), [09-19](https://youtu.be/uarqbNA2dFk?t=1290), [09-09](https://youtu.be/7BllEsdNLoM?t=2561), [08-30](https://youtu.be/Alwse2uXzD4?t=2056))
-- Experts are split on his shooting. One says his efficiency has improved, and another does not trust it at higher volume. (verdict, 2026-09-09; [08-30](https://youtu.be/Alwse2uXzD4?t=2056), [09-09](https://youtu.be/7BllEsdNLoM?t=2561))
+- He is a very low-usage player and not a scorer. His value in categories comes almost only from assists. (verdict, 2026-10-09; [10-02](https://youtu.be/ZYllcj4o6_A?t=2161), [09-19](https://youtu.be/uarqbNA2dFk?t=1290), [10-07](https://youtu.be/cvhcheoKdbo?t=1168), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2290), [08-30](https://youtu.be/Alwse2uXzD4?t=2056))
+- He is weak in free throws, rebounds and blocks, and he makes few threes. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1168), stats)
+- Experts disagree on his steals. Some call them good, others say he does not get enough or gets none. (verdict, 2026-10-07; [10-02](https://youtu.be/ZYllcj4o6_A?t=2161), [09-09](https://youtu.be/7BllEsdNLoM?t=2561), [08-30](https://youtu.be/Alwse2uXzD4?t=2056), [09-19](https://youtu.be/uarqbNA2dFk?t=1290), [10-07](https://youtu.be/cvhcheoKdbo?t=1168))
+- He has shot about 40% from three in each of the last two seasons, but on very low volume. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1124))
+- His efficiency has improved, but one expert does not trust his shooting at higher volume. (verdict, 2026-09-09; [08-30](https://youtu.be/Alwse2uXzD4?t=2056), [09-09](https://youtu.be/7BllEsdNLoM?t=2561))
 
 **Tags**
-- Current: `role down` (usage expected to drop further with Giannis handling the ball), `sites disagree on price` (Yahoo rank 110 and 3 USD, ESPN rank 175 and 0 USD), `few back-to-backs` (Miami has the fewest back-to-backs (13)), `bad playoff schedule` (only 10 games in weeks 19 to 21, though no back-to-backs)
+- Current: `role down` (Giannis takes over ball handling. Fewer assists and less usage, may not start or close games.), `usage competition` (Giannis may run point in Miami.), `bust candidate` (Fade at Yahoo rank 110 to 112 and ADP 118. Round 15 at most.), `bad playoff schedule` (Miami plays 4-3-3 in weeks 19 to 21, 10 games.), `few back-to-backs` (Miami has 13, the fewest in the league.), `questionable` (Yahoo status Q (Rest).)
 - Durable: none
 
-**Note.** He sits right on the edge of our 144-player draft: Yahoo ranks him 110 (3 USD), ESPN ranks him 175 (0 USD), and nobody drafted him in our league last season. At most he is a 1 USD late pick for a team that needs assists and can afford weak points, rebounds and threes. Last season he averaged 6.5 assists at 49.0% FG on low volume, but he adds little else. In the first weeks, check whether his assists hold near 6 to 7 now that Giannis handles the ball. If they slip, he is a waiver player.
+**Note.** He is a fringe player for us. Yahoo values him at 3 USD (rank 112) and ESPN at 0 USD (rank 176), and the experts say to fade him at that price because Giannis should cut into his assists, his only strong category (6.6 projected per game). He is at best a 1 USD last-round pick for an assist-hungry build, and he hurts FT%, rebounds and points. In the first weeks, check whether he starts and closes games next to Giannis and whether his assists hold near 6 per game.
 
-<sub>Tags removed by the category check: punt PTS fit (PTS z -0.9 vs position, needs -1.0).</sub>
-
-<sub>5 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>10 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

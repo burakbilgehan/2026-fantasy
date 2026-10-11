@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "f0b75939c71c",
+ "input_sha": "ec2720d23efe",
  "note_count": 1,
- "built_at": "2026-10-05T19:55:50+00:00",
+ "built_at": "2026-10-11T09:19:39+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.14193,
-  "duration_ms": 25251,
+  "cost_usd_list": 0.1508488,
+  "duration_ms": 26220,
   "turns": 3,
   "denied": 0
  },
  "current": [
   {
-   "text": "He signed with Detroit for 3 years and 27 million USD.",
+   "text": "Signed with Detroit for 3 years and 27 million USD.",
    "kind": "fact",
    "date": "2026-07-01",
    "until": "",
@@ -30,7 +30,7 @@
    ]
   },
   {
-   "text": "One expert does not understand the signing. He thinks Detroit could use Huerter as a shooter next to Isaiah Joe.",
+   "text": "An expert does not understand the deal. He thinks Huerter could be used as a shooter next to Isaiah Joe.",
    "kind": "verdict",
    "date": "2026-07-01",
    "until": "",
@@ -39,51 +39,51 @@
    ]
   },
   {
-   "text": "In the projected Detroit rotation he is not a starter. Isaiah Joe is the sixth man, then Ron Holland, Paul Reed and Daniss Jenkins. Huerter or Prince gets the last rotation spot.",
-   "kind": "verdict",
+   "text": "He is not in Detroit's projected starting five. In the projected bench order, Isaiah Joe is the sixth man, then Ron Holland, Paul Reed and Daniss Jenkins. Huerter or Prince gets the last rotation spot.",
+   "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
-    "_O9pc_u5vH0:t4",
-    "_O9pc_u5vH0:t0"
+    "_O9pc_u5vH0:t0",
+    "_O9pc_u5vH0:t4"
    ]
   },
   {
-   "text": "Detroit used a deep 12 to 13 player rotation last season, which limited everyone's minutes.",
+   "text": "Last season Detroit used a deep 12 to 13 player rotation that limited everyone's minutes.",
    "kind": "fact",
    "date": "2026-08-12",
    "until": "",
    "sources": [
     "p9XE5jFqhvs:t2"
    ]
-  }
- ],
- "durable": [
+  },
   {
-   "text": "His category line has no strong outlier. Threes and low turnovers are his best categories, and points and rebounds are a bit below the pool.",
+   "text": "Experts say coach J.B. Bickerstaff cannot be trusted on what he says about minutes.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
    "sources": [
-    "stats"
+    "BiIZsSypx7Y:t1",
+    "n4KkK-OJjqA:t3",
+    "_O9pc_u5vH0:t5"
+   ]
+  },
+  {
+   "text": "Detroit plays 4, 3 and 4 games in our playoff weeks 19 to 21 and has 15 back-to-backs this season.",
+   "kind": "fact",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:t6"
    ]
   }
  ],
+ "durable": [],
  "tags": [
-  {
-   "name": "new team",
-   "channel": "current",
-   "detail": "Signed with Detroit, 3 years and 27 million USD",
-   "until": "",
-   "sources": [
-    "W3THnI7wWdA:p37"
-   ],
-   "new_meaning": ""
-  },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Competes with Prince for the last spot in Detroit's bench rotation",
+   "detail": "Competes with Prince for the last spot in Detroit's rotation",
    "until": "",
    "sources": [
     "_O9pc_u5vH0:t4"
@@ -102,6 +102,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Yahoo ranks him 195 and ESPN 183, both at 0 USD. That is outside the 144 players drafted in our league, so he is not a draft target. His projected line (10.2 PTS, 1.6 3PM, 44.5 FG%) has no category strong enough to make him a punt-build piece. Early in the season, check whether he wins the last rotation spot over Prince and gets steady shooter minutes next to Isaiah Joe. Only then is he worth a waiver look.",
+ "note": "Yahoo ranks him 198 and ESPN ranks him 185. Both sites give him 0 USD. Only 144 players get drafted in our league, so he is not a draft target. His projected line (10.2 PTS, 1.6 3PM, 44.5% FG) has no strong category, and he is fighting Prince for the last spot in a deep Detroit rotation. Leave him on waivers. Early in the season, watch whether he holds a real bench role and gets minutes as a shooter.",
  "rejected": []
 }

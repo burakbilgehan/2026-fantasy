@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 49 | 45.4 | 10 | 50 | 39.1 | 12 | not drafted |
+| 2026-27 | 49 | 48.6 | 10 | 46 | 40.1 | 14 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,44 +19,42 @@
 | FG% | 46.9% | -0.2 | +0.3 | - |
 | FT% | 85.1% | +0.7 | +0.4 | - |
 | 3PM | 2.8 | +1.5 | +1.2 | - |
-| PTS | 18.4 | +0.8 | +0.6 | - |
+| PTS | 18.4 | +0.7 | +0.6 | - |
 | REB | 3.6 | -0.6 | -0.2 | - |
 | AST | 9.4 | +3.3 | +2.8 | league outlier, strong |
 | STL | 1.3 | +1.1 | +0.8 | - |
 | BLK | 0.7 | +0.1 | +1.3 | - |
-| TO | 1.8 | -0.2 | -0.1 | - |
+| TO | 1.8 | -0.2 | -0.0 | - |
 
 </details>
 
 **Current**
-- In an auction, Josh would not pay more than 35 USD. In a mock auction he went for 36 USD, which Josh called a little high. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=728))
-- He is coming back from a torn Achilles, more than 12 months after the injury. The GM expects him ready for opening night. He says he has no restrictions. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=77), [10-01](https://youtu.be/EGdhmUgPAWY?t=1938), [08-10](https://youtu.be/sfCe7fS9daM?t=862))
-- Experts expect a slow start: rust, a ramp-up period, some missed games and short minutes limits early. Coach Rick Carlisle is expected to manage his minutes, and McConnell and Nembhard can handle the role. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=77), [10-01](https://youtu.be/EGdhmUgPAWY?t=1938), [09-23](https://youtu.be/C4vlgpJ62NI?t=2289), [09-23](https://youtu.be/C4vlgpJ62NI?t=2289), [09-22](https://youtu.be/QbdrhJd7LiA?t=260), [09-16](https://youtu.be/2A2JbUN-kc0?t=2178), [09-15](https://youtu.be/KPdD91Oo8-U?t=469), [09-10](https://youtu.be/W-R1dzem32s?t=400), [09-09](https://youtu.be/7BllEsdNLoM?t=854), [09-07](https://youtu.be/E-KmhvyZ2CU?t=494), [08-19](https://youtu.be/J1Eg3uaAICU?t=650), [08-11](https://youtu.be/OdDkXFhoKsc?t=415), [08-10](https://youtu.be/sfCe7fS9daM?t=1791))
-- Experts expect rust on his percentages and a small dip in usage and efficiency early. One worry is that his two-point percentage drops from about 59 to 57. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=404), [08-11](https://youtu.be/OdDkXFhoKsc?t=415), [09-09](https://youtu.be/7BllEsdNLoM?t=854), [09-17](https://youtu.be/DubdKKhMWHo?t=350), [08-10](https://youtu.be/sfCe7fS9daM?t=1791))
-- He should be close to his best later in the season: after Christmas or by January, and fine by the fantasy playoffs. The speaker does not expect 34 minutes per game over the full season, but that might come by the fantasy playoffs. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=381), [08-10](https://youtu.be/sfCe7fS9daM?t=1791), [09-09](https://youtu.be/7BllEsdNLoM?t=854), [09-10](https://youtu.be/W-R1dzem32s?t=400), [09-07](https://youtu.be/E-KmhvyZ2CU?t=494), [09-23](https://youtu.be/C4vlgpJ62NI?t=2289))
-- In category leagues, experts rank him in the 14 to 20 range. They call the Yahoo rank of 10 too aggressive and picks 10 to 13 a little early. The middle of round 2 is fine and the end of round 1 is acceptable. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=318), [10-01](https://youtu.be/EGdhmUgPAWY?t=411), [09-30](https://youtu.be/BjXP9JODDSg?t=299), [09-24](https://youtu.be/_vbAP5y182A?t=513), [09-15](https://youtu.be/KPdD91Oo8-U?t=469), [09-23](https://youtu.be/C4vlgpJ62NI?t=2289), [09-16](https://youtu.be/2A2JbUN-kc0?t=2178), [08-11](https://youtu.be/OdDkXFhoKsc?t=415), [08-10](https://youtu.be/sfCe7fS9daM?t=1799))
-- Indiana projects him as a starter next to Nembhard, Nesmith, Siakam and Zubac. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=238), [08-10](https://youtu.be/sfCe7fS9daM?t=443))
-- Indiana plays 3, 4 and 3 games in our fantasy playoff weeks, which is not ideal. The team has 15 back-to-backs. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034))
+- He has played in preseason and is reported healthy. He says he has no minutes restriction. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=508), [10-01](https://youtu.be/EGdhmUgPAWY?t=1938), [08-10](https://youtu.be/sfCe7fS9daM?t=862))
+- Experts expect early-season minutes limits from coach Rick Carlisle, plus some missed games and a ramp-up period. One note says this could last a month or two. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=508), [10-06](https://youtu.be/eTsjuVu1trk?t=278), [10-01](https://youtu.be/EGdhmUgPAWY?t=77), [10-01](https://youtu.be/EGdhmUgPAWY?t=1938), [09-23](https://youtu.be/C4vlgpJ62NI?t=2289), [09-23](https://youtu.be/C4vlgpJ62NI?t=2289), [09-22](https://youtu.be/QbdrhJd7LiA?t=260), [09-16](https://youtu.be/2A2JbUN-kc0?t=2178), [09-15](https://youtu.be/KPdD91Oo8-U?t=469), [09-10](https://youtu.be/W-R1dzem32s?t=400), [08-19](https://youtu.be/J1Eg3uaAICU?t=650), [08-10](https://youtu.be/sfCe7fS9daM?t=1791), [09-07](https://youtu.be/E-KmhvyZ2CU?t=494))
+- He is expected to sit some back-to-backs early, or play only one game of each. Tony expects about 30 minutes in games that are not part of a back-to-back. (verdict, 2026-10-09, until Thanksgiving or Christmas; [08-10](https://youtu.be/sfCe7fS9daM?t=905), [10-09](https://youtu.be/-DN4P92Wp8Y?t=508), [09-10](https://youtu.be/W-R1dzem32s?t=400), [09-09](https://youtu.be/7BllEsdNLoM?t=854), [08-16](https://youtu.be/gf_6GveiAls?t=845), [09-16](https://youtu.be/2A2JbUN-kc0?t=2178))
+- Experts say rank 10 on Yahoo is too early, even in category leagues. They put his fair range at 14 to 20: the middle of round 2 is fine, and the end of round 1 is acceptable. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=508), [10-06](https://youtu.be/eTsjuVu1trk?t=278), [10-01](https://youtu.be/EGdhmUgPAWY?t=318), [10-01](https://youtu.be/EGdhmUgPAWY?t=411), [09-30](https://youtu.be/BjXP9JODDSg?t=299), [09-24](https://youtu.be/_vbAP5y182A?t=513))
+- Experts expect rust to lower his usage and efficiency early in the season. One speaker worries that his two-point percentage could drop from about 59 to 57 after the Achilles injury. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=278), [09-17](https://youtu.be/DubdKKhMWHo?t=350), [08-11](https://youtu.be/OdDkXFhoKsc?t=415), [08-10](https://youtu.be/sfCe7fS9daM?t=1791), [09-09](https://youtu.be/7BllEsdNLoM?t=854), [09-10](https://youtu.be/W-R1dzem32s?t=400), [10-01](https://youtu.be/EGdhmUgPAWY?t=404))
+- In an auction mock, Josh would not pay more than 35 USD for him. He sold for 36 USD, which Josh called a little high. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=728))
+- Experts expect him to reach full minutes and his best level later in the season. The estimates range from January to February, and all of them put it before the fantasy playoffs. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=381), [09-10](https://youtu.be/W-R1dzem32s?t=400), [09-09](https://youtu.be/7BllEsdNLoM?t=854), [09-07](https://youtu.be/E-KmhvyZ2CU?t=494), [08-10](https://youtu.be/sfCe7fS9daM?t=1791), [09-23](https://youtu.be/C4vlgpJ62NI?t=2289))
+- With a season ending March 28, Indiana plays 3, 4 and 3 games in the fantasy playoff weeks. The note calls that not ideal. The team has 15 back-to-backs. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034))
 - Some experts worry about compensation injuries after the Achilles tear. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=513), [09-09](https://youtu.be/7BllEsdNLoM?t=854))
-- He has the widest range of outcomes among round-one ADP players. Best case 8th, worst case 55th. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=350))
-- Tony expects about 30 minutes in games without a back-to-back. Back-to-backs may be monitored or limited to one game. (verdict, 2026-08-10, until around Thanksgiving or Christmas; [08-10](https://youtu.be/sfCe7fS9daM?t=905), [08-16](https://youtu.be/gf_6GveiAls?t=845), [09-10](https://youtu.be/W-R1dzem32s?t=400))
-- Experts expect Indiana to be good. They project 46 to 48 wins and a top-six seed in the East. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1611), [08-10](https://youtu.be/sfCe7fS9daM?t=1748), [07-20](https://youtu.be/-KS_AZjZnw4?t=1526))
+- Indiana is projected as a playoff team, with about 46 to 48 wins. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1611), [08-10](https://youtu.be/sfCe7fS9daM?t=1748))
 
 **Durable**
-- He is an elite assist source and always a threat to lead the league in assists. Draft him early if you want assists. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=362), [09-23](https://youtu.be/C4vlgpJ62NI?t=2459), stats)
-- He is not a high scorer or a high usage player. Taking him in round one pushes a team toward punting points. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=326), [09-23](https://youtu.be/C4vlgpJ62NI?t=2459))
+- Experts say he is not a top 10 player in Yahoo points leagues, even at his best. Points rankings underrate him for category leagues like ours. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=547), [09-16](https://youtu.be/2A2JbUN-kc0?t=859), [09-22](https://youtu.be/QbdrhJd7LiA?t=266), [10-01](https://youtu.be/EGdhmUgPAWY?t=428))
+- He tore his Achilles in the June 2025 NBA Finals and missed all of the 2025-26 season. He also had a case of shingles. (fact, 2026-10-06; [08-10](https://youtu.be/sfCe7fS9daM?t=793), [10-06](https://youtu.be/eTsjuVu1trk?t=278))
+- His assists are elite, and he is always a threat to lead the league in assists. Draft him early if you want assists. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=362), [09-23](https://youtu.be/C4vlgpJ62NI?t=2459), stats)
+- He is not a high scorer or a high-usage player. He is an assist source more than a points source, so drafting him early leans a team toward punting points. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=326), [09-23](https://youtu.be/C4vlgpJ62NI?t=2459))
 - His steals and FG% have been good, and two-point finishing is a strength. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=404))
 - How he plays shapes the fantasy value of every other Pacer. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=145))
 - Coach Rick Carlisle keeps players' minutes low even when they are healthy, and he rests players on back-to-backs. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=122), [09-22](https://youtu.be/QbdrhJd7LiA?t=264), [09-16](https://youtu.be/2A2JbUN-kc0?t=870))
-- Experts say he is not a top player in Yahoo points leagues even when healthy, because that scoring does not suit his game. They rate him higher in category leagues. (verdict, 2026-10-01; [09-22](https://youtu.be/QbdrhJd7LiA?t=266), [09-16](https://youtu.be/2A2JbUN-kc0?t=859), [10-01](https://youtu.be/EGdhmUgPAWY?t=428), [08-24](https://youtu.be/g31YlwRe0XQ?t=457))
-- He tore his Achilles in the June 2025 NBA Finals and missed the whole next season. He also had a case of shingles. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=793))
-- He is a great shooter. He made just under 40% of his threes in his last full season. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=524))
-- He is very good at picking apart confused defenses, and he does it with very few turnovers. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1130))
+- He is a great shooter. In his last full season he made just under 40% of his threes. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=524))
+- He picks apart confused defenses and commits very few turnovers for his playmaking load. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1130))
 
 **Tags**
-- Current: `injury last season` (Missed the whole season with a torn Achilles), `slow start` (Achilles return; expected near full strength after Christmas or by January), `minutes limit` (About 30 minutes expected early; Carlisle cuts minutes), `back-to-back risk` (Back-to-backs may be monitored or limited to one game; until around Thanksgiving or Christmas), `bust candidate` (At Yahoo rank 10 and around 45 USD; experts rank him 14 to 20 and would pay at most 35 USD), `bad playoff schedule` (3-4-3 games in weeks 19 to 21 with a March 28 end), `winning team` (46 to 48 wins projected)
-- Durable: `AST specialist` (About 9.4 assists projected; a threat to lead the league), `fits every build` (No weak category flagged; experts say an early pick leans toward punt points), `category league player` (Poor fit for Yahoo points scoring)
+- Current: `injury last season` (Torn Achilles, missed all of 2025-26), `questionable` (Yahoo status Q (Ankle)), `minutes limit` (Early-season limits expected from Carlisle after the Achilles tear), `back-to-back risk` (Back-to-backs may be monitored or limited to one game; until Thanksgiving or Christmas), `slow start` (Ramp-up and rust early, near his best from January to February), `bust candidate` (At Yahoo rank 10 (average cost 48.6 USD); experts cap him near 35 USD and rank him 14 to 20), `low starter minutes` (Carlisle trims healthy players' minutes), `winning team` (Projected 46 to 48 wins), `bad playoff schedule` (3-4-3 games in weeks 19 to 21 with a March 28 end)
+- Durable: `AST specialist` (About 9.4 assists projected, z +3.3 vs the pool), `category league player` (Not top 10 in Yahoo points even at his best)
 
-**Note.** Yahoo values him at 49 USD with a 45.4 USD average cost, and ESPN's average cost is 39.1 USD. The newest expert cap is 35 USD, and experts rank him 14 to 20 rather than 10th, so let him go at Yahoo prices and buy in the high 30s at most. He fits any build as an elite assist source with useful threes and steals. Early in the season, check his minutes, how he handles back-to-backs and his two-point efficiency. Our playoff weeks give him only 10 games (3-4-3).
+**Note.** His average cost is 48.6 USD on Yahoo and 40.1 USD on ESPN, and our league did not draft him last season. Experts cap him near 35 USD and rank him 14 to 20, so let others pay the Yahoo price. He fits assist-heavy builds that can give up some points (about 9.4 AST, 2.8 3PM, 1.3 STL projected). Early in the season, check his minutes, how he handles back-to-backs, his efficiency and the Q (Ankle) status. Remember that his playoff schedule is only 3-4-3 games.
 
-<sub>40 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>44 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

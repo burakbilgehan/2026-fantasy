@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 5 | 1.5 | 102 | 2 | 2.0 | 102 | 10 |
+| 2026-27 | 5 | 1.3 | 142 | 2 | 2.1 | 101 | 10 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,7 +19,7 @@
 |---|---|---|---|---|
 | FG% | 48.5% | +0.1 | +0.2 | - |
 | FT% | 86.0% | +1.2 | +1.4 | - |
-| 3PM | 0.6 | -0.9 | -1.2 | weak for his position (punt fit) |
+| 3PM | 0.6 | -1.0 | -1.2 | weak for his position (punt fit) |
 | PTS | 15.9 | +0.3 | +0.4 | - |
 | REB | 2.7 | -1.0 | -1.2 | weak for his position (punt fit) |
 | AST | 3.4 | +0.1 | +0.5 | - |
@@ -30,26 +30,26 @@
 </details>
 
 **Current**
-- Experts agree he should not be drafted inside the top 100. They put his fair value around rank 135 to 140. In auction terms, the newest call values him at 1 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3834), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1257), [09-22](https://youtu.be/QbdrhJd7LiA?t=1831), [09-19](https://youtu.be/uarqbNA2dFk?t=2648), [07-13](https://youtu.be/Rqb5GdrSweY?t=1875))
-- He went for 3 USD in an expert mock auction. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3834))
-- DeRozan joined the Denver Nuggets this offseason. Peyton Watson left the team. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=170))
-- He is projected to come off the bench and to play the most bench minutes, in a lower-minute role. The projected starters are Jamal Murray, Christian Braun, Cam Johnson, Aaron Gordon and Nikola Jokic. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1134), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307), [09-10](https://youtu.be/dlo7L8Ru91A?t=1912), [09-19](https://youtu.be/uarqbNA2dFk?t=2648), [09-22](https://youtu.be/QbdrhJd7LiA?t=1831))
-- Experts worry about how his minutes fit with Jokic's. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1134))
+- Denver's projected starters are Jamal Murray, Christian Braun, Cam Johnson, Aaron Gordon and Nikola Jokic. DeRozan is projected to come off the bench. (fact, 2026-10-09; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1392))
+- Experts expect him to lead the bench in minutes but in a lower-minute role. They also worry about how his minutes fit with Jokic's. On a more talented team he should produce less than he did in Sacramento. (verdict, 2026-10-09; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1134), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2083), [10-08](https://youtu.be/WXO8MfQfzo0?t=2180), [09-22](https://youtu.be/QbdrhJd7LiA?t=1831), [09-19](https://youtu.be/uarqbNA2dFk?t=2648))
+- Experts say not to draft him as a top 100 player. Fair value is around rank 135 to 140. Yahoo's rank of 251 was too low and ESPN's top 100 rank and ADP are too high. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1392), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1257), [09-19](https://youtu.be/uarqbNA2dFk?t=2648), [07-13](https://youtu.be/Rqb5GdrSweY?t=1875))
+- In an auction mock, Josh valued him at 1 USD. He went for 3 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3834))
+- He joined Denver this offseason, arriving as Peyton Watson left. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=170))
 - His upside case: one injury to Braun or Johnson could push him to about 32 minutes, with about 19 points and five assists. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1314))
-- Denver plays 43 games through March 28 and has only 14 back-to-backs, one of the lowest counts in the league. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678))
-- Even off the bench, he should still score and help FT%. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1912))
-- Denver may trade starters during the season. One expert expects at least two of last year's starters, including Cam Johnson, to be gone by the deadline. That could open minutes for him. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=903), [08-02](https://youtu.be/TOn-D1SV7a8?t=226))
-- Denver is projected to win about 50 games. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1746))
+- Denver has 43 games through March 28 (one below the max) and only 14 back-to-backs, one of the lowest counts in the league. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678))
+- Even off the bench he should still score and give good FT%. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1912))
+- Denver's roster is unsettled. Cam Johnson or Christian Braun could be traded, and Moore expects at least two of last year's starters, including Johnson, to be gone by the deadline. A trade like that would open the starter minutes his upside depends on. (verdict, 2026-08-02, until 2027-03-04; [08-02](https://youtu.be/TOn-D1SV7a8?t=226), [07-31](https://youtu.be/keNupMSHp1Y?t=903))
 
 **Durable**
-- For a forward, he makes few threes and grabs few rebounds. (fact, 2026-10-05; stats)
-- He is a great scorer. His team must make accommodations for him on offense and defense because of his spacing and defensive limitations. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=205))
+- FT% is his best category: a high percentage on moderate volume. He also keeps turnovers low. (fact, 2026-10-11; stats)
+- For a forward he is weak in threes and rebounds. (fact, 2026-10-11; stats)
+- He is a great scorer, but teams must make room for him on offense and defense. He has spacing and defensive limitations. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=205))
 - He is 37 years old. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2648))
 
 **Tags**
-- Current: `new team` (joined Denver), `role down` (projected bench role with lower minutes behind Braun and Johnson), `handcuff` (an injury to Braun or Johnson could give him about 32 minutes), `bust candidate` (at an ESPN rank or ADP inside the top 100), `few back-to-backs` (14 back-to-backs for Denver), `trades likely` (Cam Johnson or Christian Braun could be traded), `winning team` (projected for about 50 wins)
-- Durable: `age decline watch` (37 years old), `plays every game` (77 or more games in each of the last three seasons), `punt 3PM fit` (0.6 threes per game), `punt REB fit` (2.7 rebounds per game projected)
+- Current: `new team` (Joined Denver), `role down` (Bench role in Denver after starting with high usage in Sacramento), `usage competition` (Shares minutes and touches with Jokic and Murray), `handcuff` (An injury to Braun or Johnson could mean about 32 minutes for him), `bust candidate` (At ESPN's top 100 rank and ADP), `sites disagree on price` (ESPN ranks him far higher than Yahoo), `few back-to-backs` (Denver has 14 back-to-backs), `trades likely` (Cam Johnson or Christian Braun could be moved, which would open minutes; until 2027-03-04)
+- Durable: `usage dependent` (Value came from high usage in Sacramento), `age decline watch` (37 years old), `plays every game` (77 or more games in each of the last three seasons), `punt 3PM fit`, `punt REB fit`
 
-**Note.** Our league paid 10 USD for him last season. Yahoo now values him at 5 USD with an average cost of 1.5 USD, and ESPN at 2 USD. The experts put him around rank 135 to 140, which makes him a 1 USD end-of-draft pick or a waiver option in a 144-player draft. He fits punt 3PM or punt REB builds that want points, FT% and low turnovers. Early in the season, check his bench minutes and whether Braun or Johnson gets hurt or traded, because either would open a bigger role.
+**Note.** DeRozan is a bench scorer in Denver now. Experts put his fair value around rank 135 to 140, which is the edge of our 144-player draft. Pay 1 to 3 USD at most, not the 10 USD he cost in our league last season or the 5 USD Yahoo value. He fits punt 3PM or punt REB builds that want FT%, points and few turnovers. Early in the season, check his bench minutes and watch for injuries to Braun or Johnson or a trade of either one, since those would open the 30-plus minutes his upside needs.
 
-<sub>9 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>12 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

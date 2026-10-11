@@ -3,23 +3,23 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, ESPN | 65 | 23.0 | 53.1 (5.9) | 70.3 (1.7) | 0.3 | 7.8 | 7.5 | 0.3 | 0.3 | 1.9 | 1.4 |
+| 2026-27 proj, ESPN | 65 | 23.0 | 52.1 (5.9) | 72.1 (1.7) | 0.4 | 7.8 | 7.5 | 0.3 | 0.3 | 1.9 | 1.4 |
 | 2026-27 proj, Yahoo | 68 | - | 56.7 (7.3) | 74.1 (2.2) | 0.5 | 10.4 | 9.3 | 0.9 | 0.5 | 2.1 | 1.3 |
 | 2025-26 | 46 | 8.9 | 53.3 (2.3) | 71.0 (0.7) | 0.1 | 3.0 | 2.9 | 0.1 | 0.1 | 0.7 | 0.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 1 | 1.5 | 118 | 0 | 0.1 | 202 | not drafted |
+| 2026-27 | 2 | 1.2 | 113 | 0 | 0.2 | 202 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 55.1% | +0.9 | -0.1 | - |
-| FT% | 72.4% | -0.5 | +0.2 | - |
-| 3PM | 0.4 | -1.2 | -0.6 | - |
-| PTS | 9.1 | -0.8 | -0.7 | - |
-| REB | 8.4 | +1.4 | +0.4 | - |
+| FG% | 54.7% | +0.8 | -0.1 | - |
+| FT% | 73.2% | -0.5 | +0.3 | - |
+| 3PM | 0.4 | -1.2 | -0.5 | - |
+| PTS | 9.1 | -0.9 | -0.7 | - |
+| REB | 8.4 | +1.4 | +0.3 | - |
 | AST | 0.6 | -1.4 | -1.1 | weak for his position (punt fit) |
 | STL | 0.4 | -1.6 | -1.4 | league outlier, weak, weak for his position (punt fit) |
 | BLK | 2.0 | +2.9 | +1.6 | league outlier, strong |
@@ -28,23 +28,24 @@
 </details>
 
 **Current**
-- Experts expect Maluach to start over Ighodaro. He seems almost locked in as the starter, and Phoenix wants its top 10 pick in that spot. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1102), [09-30](https://youtu.be/BjXP9JODDSg?t=1747), [09-30](https://youtu.be/BjXP9JODDSg?t=1747), [09-14](https://youtu.be/t4n9MAP2_14?t=2190))
-- Draft him as a flyer around round 10, not later. Do not take him inside the top 100. He has top 75 upside. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1102), [09-14](https://youtu.be/t4n9MAP2_14?t=2287))
-- The Suns starting center job is not officially settled. Oso Ighodaro is his competition for the starting spot and the minutes. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1747), [09-30](https://youtu.be/BjXP9JODDSg?t=1747), [09-14](https://youtu.be/t4n9MAP2_14?t=2190))
-- Mark Williams is out long term with a torn labrum, expected to miss 5 to 6 months. This opens the starting center spot in Phoenix. (fact, 2026-09-14, until Mark Williams returns; [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200))
-- He is projected for about 24 to 25 minutes per game. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2287), [08-26](https://youtu.be/sTtFUy7IoJI?t=411))
-- He averaged 18 points, 13 rebounds, 2 blocks and 2 threes in summer league and was a top 10 fantasy player there. (fact, 2026-08-26; [07-21](https://youtu.be/RyzcCGChYgs?t=918), [08-26](https://youtu.be/sTtFUy7IoJI?t=395), [07-17](https://youtu.be/NYTH7uQsPCM?t=695))
+- Oso Ighodaro has started the last two games at center ahead of Maluach. Their minutes are similar. (fact, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=2012), [10-08](https://youtu.be/WXO8MfQfzo0?t=1999))
+- Experts expect him to split center minutes with Ighodaro. (verdict, 2026-10-08; [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [10-05](https://youtu.be/BiIZsSypx7Y?t=3636), [10-08](https://youtu.be/WXO8MfQfzo0?t=2012))
+- The newest call is that he is more of a stash and will struggle to reach 24 minutes a game. (verdict, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=2012))
+- He is a late flyer worth a pick around 120 to 125. Do not take him inside the top 100. (verdict, 2026-10-08; [09-14](https://youtu.be/t4n9MAP2_14?t=2287), [10-02](https://youtu.be/ZYllcj4o6_A?t=1102), [10-08](https://youtu.be/WXO8MfQfzo0?t=2012))
+- If he wins the starting job, he has top 75 upside. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1102))
+- Mark Williams is out long term with a torn labrum, with an expected absence of 5 to 6 months. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200), [09-14](https://youtu.be/t4n9MAP2_14?t=2287))
+- He averaged 18 points, 13 rebounds, 2 blocks and 2 threes in summer league and was a top 10 fantasy player there. (fact, 2026-08-26; [07-21](https://youtu.be/RyzcCGChYgs?t=918), [08-26](https://youtu.be/sTtFUy7IoJI?t=395))
 
 **Durable**
-- Blocks are his standout category, far above the player pool. Rebounds and FG% also help. (fact, 2026-10-04; stats)
-- He gives almost nothing in steals and assists, even for a center. (fact, 2026-10-04; stats)
-- He is a big man who adds rebounding, shot blocking and FG%, and he can shoot some threes. He should be an okay free throw shooter. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2298))
-- He is a strong rim protector. He turned 31.5% of his rim contests into blocks. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=695))
+- Blocks are his standout category. They are far above the top 250 pool. (fact, 2026-10-11; stats)
+- His steals are very low, even for a center, and his assists are low for his position. (fact, 2026-10-11; stats)
+- He is a big man who brings rebounds, shot blocking and a good FG%, and he can stretch the floor. Experts call him a strong defender and expect him to be an okay free throw shooter. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2298), [08-23](https://youtu.be/hm5-fiCa5S4?t=1231))
+- He turned 31.5% of his rim contests into blocks. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=695))
 
 **Tags**
-- Current: `role up` (projected 24 to 25 minutes as likely starter while Mark Williams is out), `breakout` (top 75 upside as a starter), `minutes competition` (Oso Ighodaro for the starting center job), `flyer` (round 9 to 10 flyer, not inside top 100), `sleeper`, `sites disagree on price` (Yahoo rank 118, ESPN rank 202)
-- Durable: `BLK specialist` (about 2 blocks per game projected), `punt AST fit`, `punt STL fit`
+- Current: `minutes competition` (Oso Ighodaro has started the last two games at center), `role up` (Mark Williams is out long term, and he is projected at about 23 to 25 minutes), `flyer` (Late pick around 120 to 125), `sites disagree on price` (Yahoo rank 113, ESPN rank 202)
+- Durable: `BLK specialist` (About 2 blocks per game projected), `punt STL fit`, `punt AST fit`
 
-**Note.** Yahoo ranks him 118 with a 1.5 USD average cost, and ESPN ranks him 202 at 0 USD. That puts him close to our 144-player cutoff, so he should cost only 1 to 3 USD at the end of the auction. Experts say his ceiling is the top 75. His value comes from blocks, with help in rebounds and FG%. He fits punt AST and punt STL builds best. Early in the season, check that he starts over Oso Ighodaro and plays 24 or more minutes while Mark Williams is out.
+**Note.** Yahoo values him at 2 USD (rank 113) and ESPN at 0 USD (rank 202), so in our 144-player draft he is a 1 to 2 USD last-round flyer for blocks. He fits punt STL and punt AST builds that need blocks and rebounds. In the first weeks, check whether he or Ighodaro starts at center and whether his minutes reach the mid 20s. If Ighodaro keeps the job, Maluach is a cut or waiver-level stash.
 
-<sub>10 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>12 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

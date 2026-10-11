@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "31ac5af5cb53",
+ "input_sha": "91c943b0ff44",
  "note_count": 8,
- "built_at": "2026-10-04T17:23:33+00:00",
+ "built_at": "2026-10-11T09:11:34+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1818492,
-  "duration_ms": 41952
+  "cost_usd_list": 0.1984536,
+  "duration_ms": 42277,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He is not in Orlando's projected starting five. He projects as the sixth man and the main creator for the bench units.",
+   "text": "Orlando's projected starters are Suggs, Bane, Franz Wagner, Banchero and Carter. Black is expected to be the sixth man and the main creator for the bench units.",
    "kind": "fact",
    "date": "2026-08-01",
    "until": "",
@@ -29,16 +31,26 @@
    ]
   },
   {
-   "text": "He is third in FanDuel's Sixth Man of the Year odds.",
-   "kind": "fact",
-   "date": "2026-08-01",
+   "text": "Experts call him overrated. In a 9-cat mock draft he went way too early in round 9.",
+   "kind": "verdict",
+   "date": "2026-10-02",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:p5"
+    "ZYllcj4o6_A:p41",
+    "_vbAP5y182A:p48"
    ]
   },
   {
-   "text": "After December last season he settled in as a 12 to 13 point per night player, below his 15 point season average.",
+   "text": "He would start and be worth rostering if Jalen Suggs gets hurt.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p41"
+   ]
+  },
+  {
+   "text": "Last season he scored 15 points per game, but after December he settled in at 12 to 13 points per game.",
    "kind": "fact",
    "date": "2026-08-01",
    "until": "",
@@ -49,34 +61,14 @@
   {
    "text": "Yahoo lists him as questionable with an ankle injury.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "Experts call him overrated and say round 9 is way too early. His projections look fine, and he is a reasonable late pick, mainly in deeper leagues.",
-   "kind": "verdict",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:p41",
-    "_vbAP5y182A:p48",
-    "dlo7L8Ru91A:p42"
-   ]
-  },
-  {
-   "text": "If Suggs goes down, he would start and be worth rostering.",
-   "kind": "verdict",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:p41"
-   ]
-  },
-  {
-   "text": "He is due a new contract. Orlando is 2.5 million USD under the second apron.",
+   "text": "He is due a new contract. Orlando is 2.5 million USD under the second apron and will likely have to choose between keeping Suggs and keeping Black.",
    "kind": "fact",
    "date": "2026-08-01",
    "until": "",
@@ -86,19 +78,28 @@
    ]
   },
   {
-   "text": "Phil expects his new deal to be at least 23 million USD per year, and Orlando will likely have to choose between keeping Suggs and keeping Black.",
+   "text": "Phil expects his new contract to be worth at least 23 million USD per year.",
    "kind": "verdict",
    "date": "2026-08-01",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:p9",
-    "FEcNjVRlj-U:t3"
+    "FEcNjVRlj-U:p9"
+   ]
+  },
+  {
+   "text": "Orlando has a new head coach, Sean Sweeney, who replaces Jamahl Mosley. Player roles may change.",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "FEcNjVRlj-U:t0",
+    "6DnRWahYrFA:t3"
    ]
   }
  ],
  "durable": [
   {
-   "text": "His usage is above 20%, but he passes little for that usage, with about 3.5 to 3.7 assists per game.",
+   "text": "His usage is above 20%, but he does not pass much for a ball handler. He averaged only about 3.5 to 3.7 assists last season.",
    "kind": "fact",
    "date": "2026-08-01",
    "until": "",
@@ -107,21 +108,12 @@
    ]
   },
   {
-   "text": "He is a good on-ball defender but gets eaten up on screens and is not at Suggs's level defensively.",
+   "text": "He is a good on-ball defender, but screens give him trouble and he is not at Suggs's level on defense.",
    "kind": "verdict",
    "date": "2026-08-01",
    "until": "",
    "sources": [
     "FEcNjVRlj-U:p8"
-   ]
-  },
-  {
-   "text": "Steals are his only clearly above-average category. His other categories sit near or slightly below the pool average, with no strong outlier.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "stats"
    ]
   }
  ],
@@ -129,7 +121,7 @@
   {
    "name": "handcuff",
    "channel": "current",
-   "detail": "Would start and be worth rostering if Jalen Suggs goes down",
+   "detail": "Starts and has value if Jalen Suggs goes down",
    "until": "",
    "sources": [
     "ZYllcj4o6_A:p41"
@@ -137,9 +129,20 @@
    "new_meaning": ""
   },
   {
-   "name": "trade risk",
+   "name": "waiver watch",
    "channel": "current",
-   "detail": "Due a new contract. Orlando is near the second apron and likely has to choose between Suggs and Black",
+   "detail": "Ranked near the end of the 144-player pool. Pick him up if Suggs gets hurt.",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p41",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "contract year",
+   "channel": "current",
+   "detail": "Due a new contract. Orlando near the second apron, may have to choose between him and Suggs.",
    "until": "",
    "sources": [
     "FEcNjVRlj-U:p9",
@@ -150,7 +153,7 @@
   {
    "name": "questionable",
    "channel": "current",
-   "detail": "Yahoo status Q (ankle)",
+   "detail": "Yahoo Q (Ankle)",
    "until": "",
    "sources": [
     "stats"
@@ -168,18 +171,27 @@
    "new_meaning": ""
   },
   {
-   "name": "waiver watch",
+   "name": "new coach",
    "channel": "current",
-   "detail": "Yahoo rank 146 and ESPN rank 125, near the edge of our 144-player draft. Worth watching if Suggs gets hurt",
+   "detail": "Sean Sweeney replaces Jamahl Mosley",
    "until": "",
    "sources": [
-    "ZYllcj4o6_A:p41",
-    "dlo7L8Ru91A:p42",
-    "stats"
+    "FEcNjVRlj-U:t0",
+    "6DnRWahYrFA:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "Phil predicts 47 or 48 wins and the 6th seed",
+   "until": "",
+   "sources": [
+    "FEcNjVRlj-U:t4"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Yahoo values him at 0 USD (rank 146) and ESPN at 1 USD (rank 125), so in our 144-player auction he is a 1 USD last pick at most, and he will often go undrafted. His value is mostly steals (+1.3 z) with slightly weak FG%, FT%, rebounds and turnovers, so he adds little to any build unless his role grows. Early in the season, check his ankle, his bench minutes as sixth man under new coach Sweeney, and Suggs's health, since a Suggs injury or a contract-driven trade is what would make him startable.",
+ "note": "He is priced as a last-round or waiver player: Yahoo ranks him 148 at 0 USD, ESPN ranks him 128 at 1 USD, and nobody drafted him in our league last season. Steals are his only clear plus (1.4 per game, z +1.3). His FG%, FT%, rebounds and turnovers all sit a little below average, and no category is weak enough to make him a punt fit. Since the experts call him overrated as a bench sixth man, don't spend more than 1 USD on him. Early in the season, check his ankle, how many bench minutes Sweeney gives him, and whether Suggs stays healthy, because a Suggs injury makes him a waiver add.",
  "rejected": []
 }

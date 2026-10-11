@@ -3,22 +3,22 @@
 
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2026-27 proj, ESPN | 77 | 26.4 | 43.4 (12.6) | 78.7 (3.1) | 1.3 | 14.6 | 3.8 | 3.5 | 1.2 | 0.4 | 2.2 |
+| 2026-27 proj, ESPN | 77 | 26.4 | 44.5 (12.6) | 81.2 (3.1) | 1.4 | 15.1 | 3.8 | 3.5 | 1.2 | 0.4 | 2.2 |
 | 2026-27 proj, Yahoo | 75 | - | 43.1 (12.7) | 80.0 (3.3) | 1.4 | 15.0 | 4.1 | 3.8 | 1.3 | 0.4 | 2.4 |
 | 2025-26 | 82 | 25.7 | 43.4 (12.3) | 78.9 (3.0) | 1.2 | 14.3 | 3.7 | 3.4 | 1.2 | 0.4 | 2.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 1.0 | 168 | 1 | 0.7 | 129 | not drafted |
+| 2026-27 | 0 | 1.0 | 185 | 2 | 0.8 | 120 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 43.2% | -1.1 | -1.0 | - |
-| FT% | 79.4% | +0.0 | -0.5 | - |
-| 3PM | 1.3 | -0.2 | -0.6 | - |
-| PTS | 14.8 | +0.1 | +0.1 | - |
+| FG% | 43.8% | -0.9 | -0.8 | - |
+| FT% | 80.6% | +0.2 | -0.3 | - |
+| 3PM | 1.4 | -0.2 | -0.6 | - |
+| PTS | 15.0 | +0.2 | +0.1 | - |
 | REB | 3.9 | -0.5 | +0.1 | - |
 | AST | 3.6 | +0.2 | -0.1 | - |
 | STL | 1.3 | +1.0 | +0.7 | - |
@@ -28,24 +28,27 @@
 </details>
 
 **Current**
-- Dejounte Murray is locked into the starting lineup at guard, which limits Fears' lead guard role. (fact, 2026-10-04; [08-03](https://youtu.be/5QU-jta-lWM?t=1149), [10-04](https://youtu.be/n4KkK-OJjqA?t=530))
-- Fears and Herb Jones compete for the last starting spot next to Murray, Trey Murphy, Zion Williamson and likely Yves Missi. Reporting says Joe Dumars wants Fears in the lineup, and a Pelicans beat reporter thinks Fears will start over Jones. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=426), [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [09-24](https://youtu.be/_vbAP5y182A?t=1141), [09-24](https://youtu.be/_vbAP5y182A?t=1141))
-- Josh gives Fears at least a 50/50 chance to start and is moving him up his rankings. He would draft Fears only if Fears starts. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=426), [09-24](https://youtu.be/_vbAP5y182A?t=1141))
-- Experts treat him as a late flyer with upside, taken from round 11 on in mock drafts. He would be clearly better with 30 or more minutes. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1537), [09-04](https://youtu.be/gerS7ibpaJo?t=1489), [09-04](https://youtu.be/gerS7ibpaJo?t=1498), [09-01](https://youtu.be/80kfLVnFQ_s?t=1960), [08-24](https://youtu.be/g31YlwRe0XQ?t=2086), [08-11](https://youtu.be/OdDkXFhoKsc?t=2739))
-- He is a tier 8 point guard, and lasting to round 13 means he is badly under drafted. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2154))
-- The Pelicans have a crowded rotation, with about eight players who could start. Fears has no clear 30-minute role yet. (fact, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1489), [09-04](https://youtu.be/gerS7ibpaJo?t=1477), [07-17](https://youtu.be/NYTH7uQsPCM?t=636))
-- He is a handcuff to Dejounte Murray. If Murray is hurt or traded, Fears could give top 70 numbers. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1498), [08-24](https://youtu.be/g31YlwRe0XQ?t=2086), [08-11](https://youtu.be/OdDkXFhoKsc?t=2739))
-- New coach Jamahl Mosley brings a defense-first identity. (fact, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1459))
-- The Pelicans project as a weak team near the bottom of the West, at about 34 wins. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1765), [07-27](https://youtu.be/0AptxcRW0RE?t=2060))
+- New coach Jamahl Mosley brings a defense-first identity to New Orleans. (fact, 2026-10-09; [08-03](https://youtu.be/5QU-jta-lWM?t=1459), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1054), [09-04](https://youtu.be/gerS7ibpaJo?t=1168))
+- The Pelicans have more players than 240 minutes can hold. About eight players could start, so minutes will be tight. (fact, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=1733), [09-04](https://youtu.be/gerS7ibpaJo?t=1477), [07-17](https://youtu.be/NYTH7uQsPCM?t=636))
+- Dejounte Murray is locked into the starting lineup and starts over Fears, which limits Fears's lead guard role. (fact, 2026-10-04; [08-03](https://youtu.be/5QU-jta-lWM?t=1149), [10-04](https://youtu.be/n4KkK-OJjqA?t=530))
+- The last starting spot is between Fears and Herb Jones. A Pelicans beat reporter thinks Fears will start over Jones, and reporting says Joe Dumars wants Fears in the lineup. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [10-02](https://youtu.be/ZYllcj4o6_A?t=426), [09-24](https://youtu.be/_vbAP5y182A?t=1141), [09-24](https://youtu.be/_vbAP5y182A?t=1141))
+- Josh gives Fears at least a 50/50 chance to start over Herb Jones. He would draft Fears only if he starts. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=426))
+- Experts treat him as a late flyer with upside. His ADP is between 118 and 136, and he went around pick 104 and in round 11 in mock drafts. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1537), [09-04](https://youtu.be/gerS7ibpaJo?t=1489), [09-04](https://youtu.be/gerS7ibpaJo?t=1498), [09-01](https://youtu.be/80kfLVnFQ_s?t=1960), [08-24](https://youtu.be/g31YlwRe0XQ?t=2086), [08-11](https://youtu.be/OdDkXFhoKsc?t=2739))
+- The Pelicans are expected to be a weak team, around 34 wins and near the bottom of the West. One expert still does not expect them to give up on the season and start Fears over Murray. (verdict, 2026-09-21; [07-27](https://youtu.be/0AptxcRW0RE?t=2060), [08-03](https://youtu.be/5QU-jta-lWM?t=1765), [09-21](https://youtu.be/egRrai3Ax38?t=545))
+- Point guard tier 8. Letting him last to round 13 is a big underdraft. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2154))
+- He is a handcuff to Dejounte Murray. If Murray gets hurt or is traded, Fears could put up top 70 numbers. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1498), [08-11](https://youtu.be/OdDkXFhoKsc?t=2739), [08-24](https://youtu.be/g31YlwRe0XQ?t=2086))
+- Without 30 or more minutes he projects outside the top 105. He would be clearly better with a 30-minute role. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1960))
 
 **Durable**
-- He is a downhill lead guard who is dynamic with the ball. He keeps attacking the rim even when he is not scoring there, and he contributes across categories. (fact, 2026-10-02; [08-03](https://youtu.be/5QU-jta-lWM?t=484), [10-02](https://youtu.be/ZYllcj4o6_A?t=458))
-- He is not a good enough three-point shooter to play off the ball as a two guard. He is slightly undersized and struggles on defense. (verdict, 2026-10-02; [08-03](https://youtu.be/5QU-jta-lWM?t=1220), [10-02](https://youtu.be/ZYllcj4o6_A?t=458))
+- He is a downhill lead guard who is dynamic with the ball. He keeps attacking the rim even when he is not scoring there. (fact, 2026-10-02; [08-03](https://youtu.be/5QU-jta-lWM?t=484), [10-02](https://youtu.be/ZYllcj4o6_A?t=458))
+- He contributes across several categories. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=458))
+- He is slightly undersized and struggles on defense. (verdict, 2026-10-02; [08-03](https://youtu.be/5QU-jta-lWM?t=1220), [10-02](https://youtu.be/ZYllcj4o6_A?t=458))
+- His three-point shot is not good enough to play off the ball as a two guard. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1220))
 
 **Tags**
-- Current: `minutes competition` (Competes with Herb Jones for the last starting spot), `usage competition` (Dejounte Murray starts and runs the point), `flyer` (Late-round upside guard, better with 30+ minutes), `handcuff` (Behind Dejounte Murray; top 70 upside if Murray is out or traded), `sleeper` (Called badly under drafted; Josh moving him up), `new coach` (Jamahl Mosley), `deep rotation` (About eight possible starters), `unsettled rotation` (Last starting spot and center spot not settled), `bottom team` (About 34 wins projected)
-- Durable: `defense-first` (Mosley's identity)
+- Current: `flyer` (Late-round upside guard, ADP 118 to 136), `handcuff` (Behind Dejounte Murray; top 70 upside if Murray is hurt or traded), `sleeper` (Called badly underdrafted at round 13), `minutes competition` (Competes with Herb Jones for the last starting spot), `usage competition` (Dejounte Murray starts as the lead guard), `sites disagree on price` (Yahoo rank 185, ESPN rank 120), `bottom team` (About 34 wins, near the bottom of the West), `new coach` (Jamahl Mosley), `deep rotation` (About eight players who could start), `unsettled rotation` (Guard roles and the last starting spot are unclear)
+- Durable: `usage dependent` (Needs an on-ball lead guard role; his shooting does not suit an off-ball role), `defense-first` (Mosley brings a defense-first identity)
 
-**Note.** Fears is a 1 USD player on both sites (Yahoo rank 168, ESPN rank 129). He went undrafted in our league last season, so he sits right at the edge of our 144-player draft. That makes him a fine last-dollar flyer, especially for a manager who already has Dejounte Murray. His best category is steals and he adds some assists, but his FG% (43%) and turnovers hurt. He fits a build that already tolerates low FG% better than one that relies on FG%. Early on, check whether he starts over Herb Jones, whether he reaches 30 minutes and how healthy Murray is. If none of these break his way, he is waiver material.
+**Note.** Fears is priced as a 1 USD end-of-draft flyer (Yahoo rank 185, ESPN rank 120, nobody drafted him in our league), so he sits right at the edge of our 144-player pool. That price fits the upside: he ranked 117th after last season's trade deadline, and he is a natural handcuff if you take Dejounte Murray. Steals are his best category, while his 43.8 FG% and 2.3 turnovers cost a little. Before you bid, check whether he beats out Herb Jones for a starting spot and reaches about 30 minutes early in the season. If he does not, he is a waiver player until Murray misses time.
 
-<sub>14 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>14 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

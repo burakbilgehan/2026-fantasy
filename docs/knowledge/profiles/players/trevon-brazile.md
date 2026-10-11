@@ -5,7 +5,7 @@ No NBA stats and no projections in our data.
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 664 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 679 | - | - | - | not drafted |
 
 **Current**
 - Yahoo lists him as questionable with an undisclosed issue. (fact, 2026-10-04; stats)
@@ -23,9 +23,11 @@ No NBA stats and no projections in our data.
 - His best fantasy use is as a streamer for defensive stats, in the way Ryan Dunn helps. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1018))
 
 **Tags**
-- Current: `rookie` (35th pick of the 2026 draft), `questionable` (Yahoo status Q, undisclosed), `injured now` (Yahoo status Q, undisclosed issue), `minutes competition` (Backup forward minutes behind Aaron Gordon, with Spencer Jones, Bagley, Diallo, Hopkins and Nnaji also in the mix), `waiver watch` (Watch for backup power forward minutes now that Peyton Watson is gone)
+- Current: `rookie` (35th pick of the 2026 draft), `questionable` (Yahoo status Q, undisclosed), `minutes competition` (Backup forward minutes behind Aaron Gordon, with Spencer Jones, Bagley, Diallo, Hopkins and Nnaji also in the mix), `waiver watch` (Watch for backup power forward minutes now that Peyton Watson is gone)
 - Durable: none
 
 **Note.** Yahoo ranks him 664th with a value of 0 USD, ESPN does not price him, and experts only see him as a dynasty stash, so leave him out of our 144-player auction. Early in the season, check whether he wins the backup power forward minutes behind Aaron Gordon and whether his Q status clears. If he gets real minutes, his blocks, steals and rebounds could make him a streaming option.
+
+<sub>Tags removed by the category check: injured now (no injury status and no note).</sub>
 
 <sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>

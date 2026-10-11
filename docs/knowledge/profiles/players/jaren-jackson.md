@@ -11,16 +11,16 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 24 | 13.4 | 42 | 5 | 5.0 | 71 | 29 |
+| 2026-27 | 25 | 15.3 | 40 | 5 | 6.3 | 72 | 29 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 47.1% | -0.2 | -0.6 | - |
+| FG% | 47.1% | -0.2 | -0.7 | - |
 | FT% | 80.3% | +0.2 | +0.6 | - |
 | 3PM | 1.8 | +0.3 | +0.8 | - |
-| PTS | 20.4 | +1.1 | +1.3 | - |
+| PTS | 20.4 | +1.1 | +1.2 | - |
 | REB | 6.1 | +0.4 | -0.1 | - |
 | AST | 2.1 | -0.6 | -0.3 | - |
 | STL | 1.2 | +0.8 | +1.2 | - |
@@ -30,29 +30,32 @@
 </details>
 
 **Current**
-- He is projected to start at power forward next to Jusuf Nurkic and to close games at center. (fact, 2026-10-02; [08-05](https://youtu.be/CI4k8ofUXXk?t=374), [08-05](https://youtu.be/CI4k8ofUXXk?t=349), [10-02](https://youtu.be/ZYllcj4o6_A?t=204), [09-21](https://youtu.be/egRrai3Ax38?t=859))
-- Walker Kessler is no longer with Utah. (fact, 2026-10-02; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1176), [10-02](https://youtu.be/ZYllcj4o6_A?t=204), [07-14](https://youtu.be/xHRF06_E9HE?t=872))
-- In a 9-cat mock draft he went in round 4 to a team building around blocks with poor assists. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=855))
-- Experts expect him to play more minutes in Utah and to be better than last season. Kessler's exit may help his blocks. (verdict, 2026-09-21; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1167), [09-21](https://youtu.be/egRrai3Ax38?t=1686), [09-14](https://youtu.be/t4n9MAP2_14?t=903))
-- His usage will likely drop because Utah's usage is crowded with Lauri Markkanen, Keyonte George and Darryn Peterson. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1686), [06-25](https://youtu.be/lOshTzDA4SA?t=541), [06-23](https://youtu.be/-rgXhs5BHiw?t=122))
-- Experts say his ADP is too low for category leagues. He is drafted around 54 to 55 on Yahoo and 74 to 82 on ESPN, while one expert ranks him 36th in categories and calls him a target about two rounds after his ADP. They reject the idea that he is a waiver player. (verdict, 2026-09-21; [08-30](https://youtu.be/Alwse2uXzD4?t=1660), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1103), [09-14](https://youtu.be/t4n9MAP2_14?t=903), [09-21](https://youtu.be/egRrai3Ax38?t=1686), [09-01](https://youtu.be/80kfLVnFQ_s?t=1017), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1167), [09-01](https://youtu.be/skKXe2CRl8Q?t=395))
-- Experts expect Utah to try to win this season. They think fears of tanking and late-season shutdowns are misplaced. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [09-10](https://youtu.be/dlo7L8Ru91A?t=973), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1176))
-- He played only three games for Utah last season. A full season of him is a big addition for the Jazz. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=261))
-- He is not expected to reach his Memphis career highs. Josh does not expect 3 blocks per game, but thinks 2 per game is possible with less offensive usage. Leaf is more bullish and projects a double-double with easy baskets from slipping screens, but Josh says 10 rebounds per game would be a huge outcome. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=1438), [08-05](https://youtu.be/CI4k8ofUXXk?t=1460), [08-05](https://youtu.be/CI4k8ofUXXk?t=1485), [08-05](https://youtu.be/CI4k8ofUXXk?t=982))
+- Jaxson Hayes started at center in the preseason because Utah does not want Jackson playing much center. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=446))
+- Walker Kessler is gone from Utah. (fact, 2026-10-02; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1167), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1176), [10-02](https://youtu.be/ZYllcj4o6_A?t=204))
+- In a 9-cat mock draft he went in round 4 to a team built around blocks with poor assists. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=855))
+- Experts expect more minutes in Utah and a better season than last year. They say his new opportunity matters more than last season's production. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1686), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1167), [09-14](https://youtu.be/t4n9MAP2_14?t=903), [09-01](https://youtu.be/skKXe2CRl8Q?t=395))
+- His usage will likely drop, because he shares the ball with Lauri Markkanen, Keyonte George and Darryn Peterson. He is not expected to reach his Memphis career-high numbers. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1686), [06-25](https://youtu.be/lOshTzDA4SA?t=541), [06-23](https://youtu.be/-rgXhs5BHiw?t=122), [08-05](https://youtu.be/CI4k8ofUXXk?t=982))
+- Experts call him undervalued. He is good value at Yahoo ADP 55, too low at ESPN 82, and ranks about 36th in category leagues, so he is a target about two rounds after his ADP. (verdict, 2026-09-21; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1103), [09-21](https://youtu.be/egRrai3Ax38?t=1686), [09-14](https://youtu.be/t4n9MAP2_14?t=903), [09-01](https://youtu.be/80kfLVnFQ_s?t=1017), [08-30](https://youtu.be/Alwse2uXzD4?t=1660))
+- Utah is trying to win this season and is not expected to tank or shut players down. (fact, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [09-10](https://youtu.be/dlo7L8Ru91A?t=973), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [10-06](https://youtu.be/eTsjuVu1trk?t=529))
+- Kessler's exit may help his blocks. Josh does not expect 3 blocks per game, but thinks 2 per game is possible with less offensive usage. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1167), [08-05](https://youtu.be/CI4k8ofUXXk?t=1485))
+- He is projected to start at power forward for Utah and to close some games at center. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=374), [08-05](https://youtu.be/CI4k8ofUXXk?t=349))
+- Leaf expects his easiest baskets in years, slipping screens while defenses chase Markkanen. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=1438))
+- The experts disagree on his rebounding upside. Leaf projects a double-double, while Josh says 10 rebounds per game would be a huge outcome. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=1460))
 
 **Durable**
-- Turnovers are his weakest category for his position. (fact, 2026-10-04; stats)
-- Blocks are his outlier category. He is one of very few bigs who can block two shots and score 20 points per game. (fact, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1097), stats)
+- Blocks are his clear outlier category, far above the top 250 pool. (fact, 2026-10-11; stats)
+- Turnovers are high for a forward or center, so the TO category is his weak spot. (fact, 2026-10-11; stats)
+- He is one of very few bigs who can block two shots and score 20 points per game. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1097))
 - He is a poor rebounder for a big man. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1097), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1189), [08-05](https://youtu.be/CI4k8ofUXXk?t=536))
-- He is not a passer. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226))
+- He is not a good passer. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226))
 - His blocks have been declining over recent seasons. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1189))
 - He is usually worth more in category leagues than in points leagues. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1189), [08-30](https://youtu.be/Alwse2uXzD4?t=1660))
-- He plays best next to a big, physical center. Lloyd says he has not been able to play center over the last 4 to 5 years. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=536), [07-02](https://youtu.be/P6TNP-g0wzY?t=927))
+- He has not been able to play center over the last 4 to 5 years and plays best next to a big, physical center. (verdict, 2026-08-05; [07-02](https://youtu.be/P6TNP-g0wzY?t=927), [08-05](https://youtu.be/CI4k8ofUXXk?t=536))
 
 **Tags**
-- Current: `expert target` (Ranked 36th in categories vs Yahoo ADP around 55), `sleeper` (ESPN ADP 74 to 82 called too low), `role up` (More minutes expected, though usage may drop), `sites disagree on price` (Yahoo value 24 USD and rank 42; ESPN value 5 USD and rank 71), `injury last season` (48 games in 2025-26, only 3 for Utah)
-- Durable: `BLK specialist` (About 1.6 blocks per game projected; 2 per game possible in Utah), `punt TO fit` (About 2.2 turnovers per game, high for a big), `category league player` (Points-league ADP undervalues his blocks and steals)
+- Current: `role up` (more minutes expected in Utah, Kessler gone), `usage competition` (Markkanen, Keyonte George and Darryn Peterson), `sleeper` (Yahoo ADP 55, ESPN ADP 74 to 82), `expert target` (target in category leagues about two rounds after ADP), `sites disagree on price` (Yahoo value 25 USD (rank 40), ESPN value 5 USD (rank 72)), `injury last season` (48 games played in 2025-26), `low shutdown risk` (Utah is trying to win, not tank)
+- Durable: `BLK specialist` (about 1.6 blocks per game projected), `punt TO fit` (about 2.2 turnovers per game, high for a big), `category league player` (ranked about 36th in categories, outside top 50 in points)
 
-**Note.** He went for 29 USD in our league last season. Yahoo values him at 24 USD (rank 42) but drafters pay only 13.4 USD, and ESPN prices him at 5 USD, so he could be a bargain anywhere under about 25 USD while experts rank him near 36th in categories. He fits blocks builds and punt TO builds, and he can carry blocks next to low-assist bigs. Early in the season, check his minutes at power forward next to Nurkic, whether his blocks get close to 2 per game, and how much his usage drops behind Markkanen, George and Peterson.
+**Note.** He went for 29 USD in our league last season. Yahoo values him at 25 USD but his average cost is only 15.3 USD, and ESPN prices him near 6 USD. Experts rank him about 36th in categories, so anything in the high teens is a strong buy, and up to the mid 20s is fair. He fits blocks-first and punt TO builds, while his weak rebounding and poor passing lean toward punt AST teams. Early in the season, check whether he gets more than 30 minutes, how often he plays center next to Hayes or Nurkic, and whether his blocks climb toward 2 per game.
 
-<sub>18 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>19 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

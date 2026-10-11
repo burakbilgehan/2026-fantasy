@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 25 | 32.6 | 37 | 42 | 26.0 | 18 | 20 |
+| 2026-27 | 26 | 27.9 | 36 | 40 | 26.1 | 20 | 20 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -24,38 +24,37 @@
 | REB | 6.1 | +0.4 | +1.0 | - |
 | AST | 3.4 | +0.1 | +0.1 | - |
 | STL | 1.7 | +2.3 | +2.2 | league outlier, strong |
-| BLK | 0.5 | -0.1 | +0.3 | - |
+| BLK | 0.5 | -0.1 | +0.2 | - |
 | TO | 1.9 | -0.3 | -0.3 | - |
 
 </details>
 
 **Current**
-- In an auction, Josh would pay no more than 24 USD for him. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=298))
-- He went for 20 USD in a recent auction mock draft. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=298))
-- Experts will not take him inside the top 40 in head-to-head and call an ADP of around 20 to 29 too high. They see round 4 or 5 as the right range and call him risky there. His ESPN ADP of 51 is value. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=633), [09-24](https://youtu.be/_vbAP5y182A?t=643), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2398), [09-17](https://youtu.be/DubdKKhMWHo?t=734), [09-16](https://youtu.be/2A2JbUN-kc0?t=2442), [09-15](https://youtu.be/KPdD91Oo8-U?t=687), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1200), [09-10](https://youtu.be/dlo7L8Ru91A?t=933), [09-10](https://youtu.be/W-R1dzem32s?t=1224), [09-07](https://youtu.be/E-KmhvyZ2CU?t=444), [08-24](https://youtu.be/g31YlwRe0XQ?t=536), [08-19](https://youtu.be/J1Eg3uaAICU?t=684), [08-11](https://youtu.be/OdDkXFhoKsc?t=692), [07-13](https://youtu.be/Rqb5GdrSweY?t=417), [06-30](https://youtu.be/JMSLg6yz-M0?t=528))
-- Experts see him as a top 10 per-game player with a tight range: best case 4th, worst case 21st. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=751), [08-19](https://youtu.be/J1Eg3uaAICU?t=684), [07-13](https://youtu.be/Rqb5GdrSweY?t=417))
-- He should play some back-to-backs but not all of them, and load management in Toronto is likely. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1224), [08-19](https://youtu.be/J1Eg3uaAICU?t=684), [08-16](https://youtu.be/gf_6GveiAls?t=839), [08-16](https://youtu.be/gf_6GveiAls?t=1044), [06-30](https://youtu.be/JMSLg6yz-M0?t=407))
-- He was traded to Toronto and takes Brandon Ingram's spot. He faces no punishment from the league ruling, and the trade is expected to go through. (fact, 2026-09-03; [06-30](https://youtu.be/JMSLg6yz-M0?t=347), [08-20](https://youtu.be/s28HvC2grAk?t=77), [07-13](https://youtu.be/Rqb5GdrSweY?t=363), [09-03](https://youtu.be/OBwWCxG9SqM?t=142))
-- He is expected to miss time and play about 60 to 65 games. (verdict, 2026-08-26; [08-20](https://youtu.be/s28HvC2grAk?t=1800), [08-26](https://youtu.be/sTtFUy7IoJI?t=1035))
-- He is a projected starter for Toronto next to Quickley, Barrett, Barnes and Poeltl, and he is in the expected closing five. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=496), [08-20](https://youtu.be/s28HvC2grAk?t=1066))
-- Much of the Toronto offense is expected to run through him. Usage should move to him and away from Barrett and Quickley. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=532), [06-30](https://youtu.be/JMSLg6yz-M0?t=566))
+- Do not draft him inside the top 40 in head-to-head because of his knee. He becomes a fair pick around 41 to 45, or in round 4 or 5. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=497), [09-24](https://youtu.be/_vbAP5y182A?t=643), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2398), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1200), [09-10](https://youtu.be/dlo7L8Ru91A?t=933), [09-17](https://youtu.be/DubdKKhMWHo?t=734), [09-16](https://youtu.be/2A2JbUN-kc0?t=2442), [08-24](https://youtu.be/g31YlwRe0XQ?t=536), [09-30](https://youtu.be/BjXP9JODDSg?t=633), [08-11](https://youtu.be/OdDkXFhoKsc?t=692), [09-10](https://youtu.be/W-R1dzem32s?t=1224), [10-06](https://youtu.be/eTsjuVu1trk?t=1617))
+- In an auction, one expert would pay no more than 24 USD for him. He went for 20 USD in that mock. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=298))
+- Experts project him as a top 10 per-game player. His per-game range is tight: best case 4th, worst case 21st. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=751), [08-19](https://youtu.be/J1Eg3uaAICU?t=684), [07-13](https://youtu.be/Rqb5GdrSweY?t=417))
+- Experts say his market price is too high when he goes around picks 20 to 29. (verdict, 2026-09-17; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1200), [09-10](https://youtu.be/dlo7L8Ru91A?t=933), [09-15](https://youtu.be/KPdD91Oo8-U?t=687), [09-07](https://youtu.be/E-KmhvyZ2CU?t=444), [08-19](https://youtu.be/J1Eg3uaAICU?t=684))
+- Experts disagree on back-to-backs. Some expect him to play some but not all, one expects him to play most unless he gets hurt, and one expects load management in Toronto. (verdict, 2026-09-10; [08-16](https://youtu.be/gf_6GveiAls?t=839), [08-16](https://youtu.be/gf_6GveiAls?t=1044), [06-30](https://youtu.be/JMSLg6yz-M0?t=407), [09-10](https://youtu.be/W-R1dzem32s?t=1224))
+- He has been traded to Toronto, where he takes Brandon Ingram's spot. (fact, 2026-09-03; [06-30](https://youtu.be/JMSLg6yz-M0?t=347), [08-20](https://youtu.be/s28HvC2grAk?t=77), [09-03](https://youtu.be/OBwWCxG9SqM?t=142))
+- He faces no punishment from the league ruling. (fact, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=142), [08-20](https://youtu.be/s28HvC2grAk?t=77))
+- He is expected to miss time. One expert projects about 60 to 65 games. (verdict, 2026-08-26; [08-20](https://youtu.be/s28HvC2grAk?t=1800), [08-26](https://youtu.be/sTtFUy7IoJI?t=1035))
+- He is a projected starter next to Quickley, Barrett, Barnes and Poeltl, and he is in the expected closing five. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=496), [08-20](https://youtu.be/s28HvC2grAk?t=1066))
+- Plenty of Toronto's offense is expected to run through him, with usage moving to him and away from Barrett and Quickley. His numbers should stay similar to his Clippers numbers apart from normal age decline. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=532), [06-30](https://youtu.be/JMSLg6yz-M0?t=566), [06-30](https://youtu.be/JMSLg6yz-M0?t=347))
 - He is coming off one of his best and healthiest seasons in years. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1429))
-- The Raptors have 15 back-to-backs this season, three of them in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037), [08-16](https://youtu.be/gf_6GveiAls?t=1044))
-- His numbers should stay close to last season's, apart from normal age decline. (verdict, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=347))
+- The Raptors have 15 back-to-backs, three of them in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037), [08-16](https://youtu.be/gf_6GveiAls?t=1044))
 
 **Durable**
-- Steals are his standout category and a league outlier. He has no weak category for his position. (fact, 2026-10-05; stats)
-- He has a degenerative knee condition with repeated surgeries in the same knee: meniscus, ACL and quad tendinopathy. He also carries ankle sprain risk. (fact, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=734), [06-30](https://youtu.be/JMSLg6yz-M0?t=395), [08-09](https://youtu.be/8d--aL_xxwE?t=914))
-- As an often-injured player, he is worth a bit more in roto than in head-to-head. (verdict, 2026-09-16; [09-01](https://youtu.be/skKXe2CRl8Q?t=230), [09-16](https://youtu.be/2A2JbUN-kc0?t=2442))
-- Experts do not trust his knee to hold up. Injuries and load management are the main worries about him. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=2004), [07-13](https://youtu.be/Rqb5GdrSweY?t=405), [06-30](https://youtu.be/JMSLg6yz-M0?t=395), [08-09](https://youtu.be/8d--aL_xxwE?t=914))
-- He is a good and willing three-point shooter who makes decisions quickly. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1236))
-- He is a high-usage scorer, with usage over 30 percent last season. (fact, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=240))
-- He is one of the best free throw shooters in recent memory. (verdict, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=268))
+- Steals are his standout category, far above the pool. Points and FT% are also clearly strong, and no category is weak. (fact, 2026-10-11; stats)
+- He has a degenerative knee condition with repeated surgeries in the same knee (meniscus, ACL, quad tendinopathy). He also carries ankle sprain risk. (fact, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=734), [06-30](https://youtu.be/JMSLg6yz-M0?t=395), [08-09](https://youtu.be/8d--aL_xxwE?t=914))
+- Because he misses games, he is worth a bit more in roto than in head-to-head. (verdict, 2026-09-16; [09-01](https://youtu.be/skKXe2CRl8Q?t=230), [09-16](https://youtu.be/2A2JbUN-kc0?t=2442))
+- Experts do not trust his knee to hold up. Their main worry is injuries and load management. (verdict, 2026-08-20; [07-13](https://youtu.be/Rqb5GdrSweY?t=405), [06-30](https://youtu.be/JMSLg6yz-M0?t=395), [08-20](https://youtu.be/s28HvC2grAk?t=2004), [08-09](https://youtu.be/8d--aL_xxwE?t=914))
+- He is a good and willing three-point shooter and one of the best free throw shooters in recent memory. He makes decisions quickly. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1236), [06-30](https://youtu.be/JMSLg6yz-M0?t=268))
+- He is a high-usage player, with over 30 percent usage last season. (fact, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=240))
 
 **Tags**
-- Current: `back-to-back risk` (should play some back-to-backs but not all; Raptors have 15, three in the fantasy playoffs), `new team` (traded to Toronto, takes Ingram's spot), `questionable` (Yahoo status Q, not injury related), `sites disagree on price` (Yahoo rank 37 and value 25 USD vs ESPN rank 18 and value 42 USD), `bust candidate` (at an ADP of around 20 to 29; experts will not take him inside the top 40 in H2H), `winning team` (Sean predicts 52 wins for Toronto)
-- Durable: `STL specialist` (about 1.7 steals per game projected), `fits every build` (no weak category for his position), `elite per game` (top 10 per game; the question is games played), `injury prone` (degenerative knee, repeated meniscus, ACL and quad tendinopathy surgeries in the same knee), `load management` (load management likely in Toronto), `age decline watch` (normal age decline expected)
+- Current: `back-to-back risk` (15 Raptors back-to-backs; expected to play some, not all), `bad playoff schedule` (three Raptors back-to-backs in the fantasy playoffs), `new team` (traded from the Clippers to Toronto), `bust candidate` (ADP around 20 to 29 is too high; experts take him only after pick 40), `questionable` (Yahoo status Q, not injury related), `sites disagree on price` (Yahoo value 26 USD and rank 36; ESPN value 40 USD and rank 20), `winning team` (52 wins projected), `thin rotation` (solid top seven, little depth after that), `small-ball lineups` (small, switchable closing five)
+- Durable: `STL specialist` (1.7 steals projected), `fits every build` (no weak category), `elite per game` (top 10 per game; value depends on games played), `injury prone` (degenerative knee, repeated meniscus, ACL and quad tendinopathy issues in the same knee), `load management` (expected to sit some back-to-backs), `age decline watch` (normal age decline expected)
 
-**Note.** Per game he fits every build, with outlier steals and strong FT% and points. Experts still will not take him inside the top 40 in H2H because of his knee, likely load management and an expected 60 to 65 games. Josh caps him at 24 USD and he went for 20 USD in a mock, which matches the 20 USD he cost in our league last season. That is far below Yahoo's 32.6 USD average cost and ESPN's 42 USD value, so bid around 20 to 24 USD and let him go above that. Early in the season, check how many back-to-backs he plays and his Yahoo Q status. The Raptors have three back-to-backs in our playoff weeks.
+**Note.** Per game he fits any build: 1.7 steals, 24.7 points, 88 percent FT on 5 attempts and no weak category. His knee and expected rest days make games the real question, and the Raptors have three back-to-backs in our playoff weeks. The ESPN value of 40 USD is too high. Stay near the expert cap of 24 USD, which fits his 20 USD price in our league last season and his 27.9 USD Yahoo average cost. Early in the season, check how many back-to-backs he plays and whether he gets any new knee news.
 
-<sub>36 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>38 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

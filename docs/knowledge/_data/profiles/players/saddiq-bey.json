@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "8367865a4428",
+ "input_sha": "8f0bf9b639de",
  "note_count": 2,
- "built_at": "2026-10-05T20:01:54+00:00",
+ "built_at": "2026-10-11T09:23:04+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1354422,
-  "duration_ms": 31169,
+  "cost_usd_list": 0.1393622,
+  "duration_ms": 32437,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Some people expect Bey to start for the Pelicans and maybe close games in lineups with Zion Williamson at center.",
+   "text": "There is talk that Bey could start for the Pelicans and close games in lineups with Zion Williamson at center.",
    "kind": "fact",
    "date": "2026-10-05",
    "until": "",
@@ -31,27 +31,7 @@
    ]
   },
   {
-   "text": "The latest expert lineup projections do not include Bey. Zion Williamson, Trey Murphy and Dejounte Murray are seen as locked in, Yves Missi as the likely center, and the last spot goes to Jeremiah Fears or Herb Jones.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:t1",
-    "n4KkK-OJjqA:t2"
-   ]
-  },
-  {
-   "text": "The Pelicans have a crowded rotation of about eight players who could all start, including Bey, so minutes will be tight.",
-   "kind": "fact",
-   "date": "2026-09-04",
-   "until": "",
-   "sources": [
-    "NYTH7uQsPCM:t0",
-    "gerS7ibpaJo:t1"
-   ]
-  },
-  {
-   "text": "The experts think Bey gets far too much hype. He might only be the seventh or eighth man in New Orleans, and taking him at pick 119 is a bad pick.",
+   "text": "Josh thinks there is far too much hype around Bey. He went for 1 USD in an expert auction mock draft. An earlier mock called him a bad pick at 119 because he might be only the seventh or eighth man on the Pelicans.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
@@ -61,26 +41,40 @@
    ]
   },
   {
-   "text": "Bey went for 1 USD in an expert auction mock draft.",
+   "text": "New Orleans has a crowded rotation of about eight players who could all start, including Bey. Bennedict Mathurin has also been added. There are too many players for 240 minutes, so roles are hard to project.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p94"
+    "NYTH7uQsPCM:t0",
+    "WXO8MfQfzo0:t1",
+    "-DN4P92Wp8Y:t2",
+    "gerS7ibpaJo:t1"
    ]
   },
   {
-   "text": "New Orleans has a new coach, Jamahl Mosley, who brings a defense-first identity.",
+   "text": "The latest expert lineup projection has Zion Williamson, Trey Murphy, Dejounte Murray and probably Yves Missi starting. The last spot goes to Jeremiah Fears or Herb Jones, not Bey.",
    "kind": "fact",
-   "date": "2026-09-04",
+   "date": "2026-10-02",
    "until": "",
    "sources": [
+    "ZYllcj4o6_A:t1",
+    "n4KkK-OJjqA:t2"
+   ]
+  },
+  {
+   "text": "The Pelicans have a new head coach, Jamahl Mosley, who brings a defense-first identity.",
+   "kind": "fact",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:t4",
     "gerS7ibpaJo:t0",
-    "5QU-jta-lWM:t4"
+    "-DN4P92Wp8Y:t2"
    ]
   },
   {
-   "text": "The experts see the Pelicans as a weak team near the bottom of the West, at about 34 wins and out of the playoffs.",
+   "text": "Experts see the Pelicans as a weak team near the bottom of the West. One projection is about 34 wins, which would not make the playoffs.",
    "kind": "verdict",
    "date": "2026-08-03",
    "until": "",
@@ -92,9 +86,9 @@
  ],
  "durable": [
   {
-   "text": "Bey blocks almost no shots, even for a forward.",
+   "text": "He blocks almost no shots, even for a forward, so a punt BLK build loses little with him.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
@@ -105,7 +99,7 @@
   {
    "name": "punt BLK fit",
    "channel": "durable",
-   "detail": "about 0.1 blocks per game",
+   "detail": "About 0.1 blocks per game, weak for a forward",
    "until": "",
    "sources": [
     "stats"
@@ -115,22 +109,23 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "about eight Pelicans could start; latest projections leave him out of the starting five",
+   "detail": "One of about eight Pelicans who could start. Recent lineup projections leave him out of the starting five.",
    "until": "",
    "sources": [
     "NYTH7uQsPCM:t0",
     "ZYllcj4o6_A:t1",
-    "n4KkK-OJjqA:t2",
-    "E-KmhvyZ2CU:p23"
+    "E-KmhvyZ2CU:p23",
+    "Q6YlQDvD-aY:p94"
    ],
    "new_meaning": ""
   },
   {
    "name": "deep rotation",
    "channel": "current",
-   "detail": "Murray, Murphy, Jones, Zion, Queen, Missi, Fears, Bey and Mathurin",
+   "detail": "Too many Pelicans for 240 minutes, and Mathurin has been added",
    "until": "",
    "sources": [
+    "WXO8MfQfzo0:t1",
     "NYTH7uQsPCM:t0",
     "gerS7ibpaJo:t1"
    ],
@@ -139,12 +134,11 @@
   {
    "name": "unsettled rotation",
    "channel": "current",
-   "detail": "the frontcourt and guard starters are still unclear",
+   "detail": "Pelicans roles and starters are hard to project",
    "until": "",
    "sources": [
-    "gerS7ibpaJo:t0",
-    "OdDkXFhoKsc:t0",
-    "ZYllcj4o6_A:t1"
+    "WXO8MfQfzo0:t1",
+    "OdDkXFhoKsc:t0"
    ],
    "new_meaning": ""
   },
@@ -155,24 +149,15 @@
    "until": "",
    "sources": [
     "gerS7ibpaJo:t0",
-    "5QU-jta-lWM:t4"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "defense-first",
-   "channel": "durable",
-   "detail": "Mosley's defense-first identity",
-   "until": "",
-   "sources": [
-    "5QU-jta-lWM:t4"
+    "5QU-jta-lWM:t4",
+    "-DN4P92Wp8Y:t2"
    ],
    "new_meaning": ""
   },
   {
    "name": "bottom team",
    "channel": "current",
-   "detail": "about 34 wins projected",
+   "detail": "About 34 wins projected, near the bottom of the West",
    "until": "",
    "sources": [
     "0AptxcRW0RE:t7",
@@ -181,6 +166,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Bey sits at the edge of our 144-man draft: Yahoo ranks him 132 and ESPN 134, with average costs of 1.0 USD and 0.2 USD. At 1 USD his projected 84% FT on solid volume, about 2 threes and few turnovers fit a punt BLK build. The experts think he is overhyped and could be a seventh or eighth man, though. Do not pay more than 1 USD. In the first weeks, check whether he starts or closes games next to Zion at center, and whether his minutes hold near last season's 31.",
+ "note": "Bey sits right at our 144-player cut (Yahoo rank 151, ESPN rank 133), with 0 USD values and average costs of 1.0 USD on Yahoo and 0.2 USD on ESPN, so at most he is a 1 USD last pick. His projected line gives solid FT% and threes with few turnovers, but almost no blocks and a below-average FG%, so he fits punt BLK builds best. Experts doubt the starter hype, so leave him on waivers and watch early in the season whether Mosley starts him or closes games with him.",
  "rejected": []
 }

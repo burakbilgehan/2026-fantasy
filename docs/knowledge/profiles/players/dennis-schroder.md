@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 171 | 0 | 0.0 | 210 | 1 |
+| 2026-27 | 0 | - | 188 | 0 | 0.0 | 212 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,30 +19,31 @@
 |---|---|---|---|---|
 | FG% | 44.1% | -0.5 | -0.2 | - |
 | FT% | 81.5% | +0.2 | -0.2 | - |
-| 3PM | 1.1 | -0.4 | -0.9 | - |
+| 3PM | 1.1 | -0.5 | -0.9 | - |
 | PTS | 9.8 | -0.7 | -0.8 | - |
 | REB | 2.2 | -1.2 | -1.1 | - |
 | AST | 3.7 | +0.3 | -0.1 | - |
 | STL | 0.6 | -1.0 | -1.2 | - |
 | BLK | 0.4 | -0.4 | +0.2 | - |
-| TO | 1.3 | +0.4 | +0.6 | - |
+| TO | 1.3 | +0.5 | +0.6 | - |
 
 </details>
 
 **Current**
-- Charlotte projects him as a bench guard. The projected starters are White, Knueppel, Miller, Reid and Diabaté. Allen, Schröder, Steinbach, O'Neale and Grant Williams make up the bench. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=416), [09-21](https://youtu.be/egRrai3Ax38?t=818))
-- He will not take Coby White's starting spot unless White is injured. One expert is sure Charlotte will not start him. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1309), [08-26](https://youtu.be/sTtFUy7IoJI?t=188))
-- Grayson Allen is first in line to start when a Charlotte wing misses games. He starts while Knueppel is out. (fact, 2026-09-27, until Knueppel returns; [09-27](https://youtu.be/CRLSsoGhb2w?t=416), [09-15](https://youtu.be/KPdD91Oo8-U?t=2077))
-- Do not take him inside the top 200. His Yahoo ADP of 128 is too high. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1309))
-- Charlotte plays 4-3-4 games in our playoff weeks (March 28 end). It has only 13 back-to-backs, the league minimum. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781))
+- Coby White is out with a calf injury and will probably miss the start of the season. Kon Knueppel is also hurt. (fact, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1269), [10-05](https://youtu.be/BiIZsSypx7Y?t=1575))
+- Do not take him inside the top 200. His Yahoo ADP of 128 is too high. One expert would take him only with the last pick of a draft. (verdict, 2026-10-05; [09-27](https://youtu.be/CRLSsoGhb2w?t=1309), [10-05](https://youtu.be/BiIZsSypx7Y?t=1635))
+- He is projected to come off the bench. The projected starters are White, Knueppel, Miller, Reid and Diabaté, with Grayson Allen starting while Knueppel is out. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=416))
+- Experts expect Charlotte not to start him. He should not take Coby White's starting spot unless White gets hurt. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1309), [08-26](https://youtu.be/sTtFUy7IoJI?t=188), [09-21](https://youtu.be/egRrai3Ax38?t=818))
+- Charlotte has a deep roster, so bench minutes are spread across many players. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1568))
+- Charlotte plays 4, 3 and 4 games in our playoff weeks 19 to 21. It has only 13 back-to-backs, the league minimum. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781))
 
 **Durable**
-- none
+- Experts say his hot scoring streaks never turn into fantasy value. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=1635))
 
 **Tags**
-- Current: `minutes competition` (Behind Coby White at guard. Grayson Allen is first in line for spot starts.), `handcuff` (Needs a Coby White injury to start), `bust candidate` (Yahoo ADP 128 is too high. Do not take him inside the top 200.), `few back-to-backs` (13 back-to-backs, the league minimum)
-- Durable: none
+- Current: `minutes competition` (Backup guard behind Coby White, with Grayson Allen also ahead of him), `deep rotation` (Charlotte has a deep roster), `few back-to-backs` (13 back-to-backs, the league minimum)
+- Durable: `streaky` (Hot streaks do not carry over to fantasy value)
 
-**Note.** Both Yahoo (rank 171) and ESPN (rank 210) give him a value of 0 USD, and our league paid 1 USD for him last season. He sits outside the 144 players we draft, so leave him undrafted. As a bench guard behind Coby White, his projected line (about 1.1 threes and 3.7 assists) has no strong category. Watch him on waivers only if White gets hurt early in the season.
+**Note.** Both Yahoo and ESPN value him at 0 USD (ranks 188 and 212). He went for 1 USD in our league last season. That puts him well outside the 144 players we draft, so do not spend on him. In the first weeks, check whether Coby White's calf injury moves him into real backup point guard minutes. Even then, no category stands out in his profile, so he would only be a short-term waiver fill-in.
 
-<sub>2 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

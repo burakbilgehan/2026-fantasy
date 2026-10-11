@@ -3,52 +3,66 @@
 
 <sub>Proposed by the synthesis, not on the user's list.</sub>
 
-**Summary.** Plan for at least one streaming slot from draft day and use all 6 adds every week. A streaming slot is worth about a top 100 to 110 player, and our waiver pool starts around rank 145. Early on, react to role and minutes changes and ignore shooting slumps. Stream threes and steals and draft assists. In playoff weeks 19 to 21, drop your stashes and stream as much as you can.
+**Summary.** In our league, a streaming slot is worth about a top 100 to 110 player. Keep one roster spot open for streaming instead of spending auction money on a low-upside 12th man, and use the 6 weekly adds steadily. Be patient in weeks one and two and evaluate roles. Churn the end of the roster in midseason, then drop stashes and stream as hard as you can in playoff weeks 19 to 21, which end 2027-03-28.
 
-## Why a streaming slot is worth a top 100 player
+## What a streaming slot is worth
 
-Three experts value a streaming slot at about the 100th-ranked player. One puts it at 100 to 110. In our league 144 players are drafted, so the free pool starts around rank 145. Streaming that pool every day still adds up to top 100 production, because you gain games played. ([10-01](https://youtu.be/EGdhmUgPAWY?t=1147), [09-29](https://youtu.be/XnIWJyBB0EM?t=408), [09-01](https://youtu.be/skKXe2CRl8Q?t=1198), [09-22](https://youtu.be/QbdrhJd7LiA?t=2068))
+The notes agree that one streaming slot is worth about a top 100 player. One note puts it at a top 100 to 110 player. Our draft takes 144 players. So the fringe of your roster competes with a slot that is worth more than most players taken after pick 100. ([10-01](https://youtu.be/EGdhmUgPAWY?t=1147), [09-29](https://youtu.be/XnIWJyBB0EM?t=408), [09-01](https://youtu.be/skKXe2CRl8Q?t=1198))
 
-So do not plan your 200 USD for all 12 roster spots. Plan to keep at least one spot for streaming. Put the minimum on your last pick and treat that spot as a streaming slot. If you end up with a low-upside player ranked around 115, drop him and stream the spot or use it on fliers. ([09-29](https://youtu.be/XnIWJyBB0EM?t=408), [10-01](https://youtu.be/EGdhmUgPAWY?t=1147))
+Auction rule: do not budget for all 12 spots out of your 200 USD. Plan for at most 11 real players and leave one bench spot for streaming. If a low-upside player is ranked around 115, drop him and stream that spot or use it for fliers. ([09-29](https://youtu.be/XnIWJyBB0EM?t=408), [10-01](https://youtu.be/EGdhmUgPAWY?t=1147))
 
-Streaming players ranked 170 to 190 for extra games beats holding a 130th-ranked player who sits on your bench. With daily lineups, a bench player who never plays gives you nothing. Experts rank value from the draft, streaming, hot pickups and short-term injury replacements above builds and pairings. ([09-01](https://youtu.be/skKXe2CRl8Q?t=680), [09-17](https://youtu.be/ahNxsoU8Hx4?t=110), [09-22](https://youtu.be/QbdrhJd7LiA?t=2077))
+Games played is the reason. Streaming players ranked 170 to 190 for extra games beats holding a 130th-ranked player who sits on your bench. With daily lineups, a stream only helps when his game fills an empty active slot. Check your schedule before each add. ([09-01](https://youtu.be/skKXe2CRl8Q?t=680), [09-22](https://youtu.be/QbdrhJd7LiA?t=2068))
 
-## Use all 6 adds and treat FAB as an asset
+Long-term injured players cost you that streaming production if they hold a normal roster spot. We have 4 IL slots, so put them there. If your IL is full, weigh each injured stash against a slot worth about a 100th-ranked player. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1198), [09-01](https://youtu.be/skKXe2CRl8Q?t=1935))
 
-Know the rules: daily lineups, a limit of 6 acquisitions per week, and FAB processed daily. With limited moves, use every one. Any week you finish with adds left over, you gave away games. The end of your roster should change all the time. ([09-01](https://youtu.be/skKXe2CRl8Q?t=205), [09-01](https://youtu.be/skKXe2CRl8Q?t=1935))
+The experts frame the value a little differently. One says a streaming slot equals about the 100th player. Another says the 100th to 110th. A third gives the 115 cutoff for dropping low-upside players. The practical range is the same: anyone you would rank worse than about 110 to 115, with no upside, should give way to streaming. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1198), [09-29](https://youtu.be/XnIWJyBB0EM?t=408), [10-01](https://youtu.be/EGdhmUgPAWY?t=1147))
 
-Count your weekly moves, IL slots, streaming slot and FAB budget as assets, just like players. Use the 4 IL slots for injured players so they do not block an active spot. A long-term injured player sitting in a normal roster spot costs you about the output of the 100th-ranked player. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1935), [09-01](https://youtu.be/skKXe2CRl8Q?t=1198))
+## Using FAB and 6 adds per week
 
-The notes give no FAB bid amounts. They do say where value comes from. Bid seriously on real role changes, such as a new starter getting 28 minutes. Bid lightly on fill-ins for short injuries. Experts expect a bench player who produces in big minutes during an injury to rank around 150th once the team is healthy. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1020), [09-27](https://youtu.be/CRLSsoGhb2w?t=1216), [08-23](https://youtu.be/hm5-fiCa5S4?t=2216))
+Know the rules, because they change player value. Our waivers run daily on a FAB budget, with a limit of 6 acquisitions per week. One note says that with unlimited moves the end of a roster should churn all the time, and with only two moves a week you should still use both. With 6, the same logic says to use your adds, not save them. ([09-01](https://youtu.be/skKXe2CRl8Q?t=205), [09-01](https://youtu.be/skKXe2CRl8Q?t=1935))
 
-## Discovery phase: what to react to early
+The waiver wire matters as much as the draft. Value comes from draft picks that beat their price, streaming, hot pickups who stay hot, and short-term injury replacements. The notes give no FAB bid amounts. Save bigger bids for role changes that will last. Treat short fill-in jobs as cheap streams. ([09-22](https://youtu.be/QbdrhJd7LiA?t=2068), [09-22](https://youtu.be/QbdrhJd7LiA?t=2077), [09-17](https://youtu.be/ahNxsoU8Hx4?t=110), [09-27](https://youtu.be/CRLSsoGhb2w?t=1216))
 
-The season has three phases: discovery, optimizing and maximizing. In discovery, the first weeks, watch for unexpected minutes, new starters, depth chart changes and players doing more. Coaches do strange things in weeks one and two. Act fast on rotation changes, surprise starters and bigger minutes. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1712), [09-01](https://youtu.be/skKXe2CRl8Q?t=899), [09-01](https://youtu.be/skKXe2CRl8Q?t=1020))
+Good streaming profiles from the notes: backup centers who start when the starter sits, and bench players on thin teams during heavy schedule stretches when starters rest. A backup center can also pick up minutes when the starter is in foul trouble, hurt or not scoring. Older players back from major injuries will likely sit back-to-backs early, which opens games for their backups. ([09-30](https://youtu.be/MUbNYdjpUDM?t=1508), [09-29](https://youtu.be/NmdNvAz08oE?t=1403), [08-01](https://youtu.be/FEcNjVRlj-U?t=513), [07-27](https://youtu.be/0AptxcRW0RE?t=1484))
 
-Do not react to bad shooting nights when role, minutes and usage have not changed. No player matches his averages every game. Do not drop proven players. Do not chase hot streaks that will settle down. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1020), [09-01](https://youtu.be/skKXe2CRl8Q?t=1052), [09-01](https://youtu.be/skKXe2CRl8Q?t=1847))
+Do not hold a backup center for the long term. He is not worth a roster spot until the starter in front of him is out. Add him on the nights or weeks he starts, then cut him. ([07-01](https://youtu.be/W3THnI7wWdA?t=1149), [09-30](https://youtu.be/MUbNYdjpUDM?t=1508))
 
-Treat late fliers as short trials. If nothing happens in the first two weeks, drop him and maybe pick him up again later. A flier named a starter moves up. Do not hold several inefficient rookie fliers at once. Choose which ones to keep and cut the rest quickly. ([09-26](https://youtu.be/3UGI05PDvrE?t=1431), [06-25](https://youtu.be/lOshTzDA4SA?t=1204), [09-03](https://youtu.be/OBwWCxG9SqM?t=1681))
+## Which categories are easy to stream
 
-Injuries peak early because training camp and preseason are short. They fall off by mid-December. Older players coming back from major injuries will likely sit back-to-backs early, which opens games for their backups. So the wire should be busiest from October to mid-December. ([08-16](https://youtu.be/gf_6GveiAls?t=1889), [07-27](https://youtu.be/0AptxcRW0RE?t=1484))
+Threes are easy to find on waivers. Do not pay up for three-point specialists in the auction. A build with non-shooters loses little in 3PTM, because waivers can cover it. ([10-03](https://youtu.be/_O9pc_u5vH0?t=1214), [09-23](https://youtu.be/C4vlgpJ62NI?t=1512), [07-07](https://youtu.be/ME-r173X5b0?t=636))
 
-The experts disagree on early streaming. Two notes say not to stream or draft for the week one schedule. They say to accept losses in weeks one and two so you can keep fliers with longer-term value, and to use those weeks to evaluate. Another note says to stream for a games-played edge in head-to-head and to grab hot players who stay hot. Our approach: in weeks one and two, use adds on role changes and keep your fliers. Start pure games streaming once your fliers are sorted. ([10-02](https://youtu.be/ZYllcj4o6_A?t=2547), [09-01](https://youtu.be/skKXe2CRl8Q?t=825), [09-22](https://youtu.be/QbdrhJd7LiA?t=2068))
+Steals are one of the most common categories on the wire. They also skew standard 9-cat rankings. So you can pick up steals with streamers and should not pay extra for them at the draft. ([07-15](https://youtu.be/0geFVzSqOnA?t=1557))
 
-## Which categories to stream
+Assists are the opposite. They are very hard to find on waivers and the category matters. Get your assists at the draft, then stream for the easy categories. ([07-07](https://youtu.be/ME-r173X5b0?t=1073))
 
-Threes are the easiest category to find on waivers, and several experts say so. Do not overpay for three-point specialists in the auction. Non-shooters do not hurt you much in threes, because you can stream threes back. ([10-03](https://youtu.be/_O9pc_u5vH0?t=1214), [09-23](https://youtu.be/C4vlgpJ62NI?t=1512), [07-07](https://youtu.be/ME-r173X5b0?t=636))
+Turnovers fight streaming. TO is the only negative counting stat in our 9 categories. More games played means more turnovers. If you stream for volume, you will often give up TO. Do not hold back on streaming just to protect it. ([07-15](https://youtu.be/0geFVzSqOnA?t=2119))
 
-Steals are one of the most common categories on the wire too. Assists are very hard to find on waivers and are an important category. Get your assists in the draft and use your streaming slot for threes and steals. ([07-15](https://youtu.be/0geFVzSqOnA?t=1557), [07-07](https://youtu.be/ME-r173X5b0?t=1073))
+## Discovery phase: weeks one and two
 
-Turnovers will go up when you stream for games. Chasing low turnovers works against the games-played edge. Accept losing TO in many weeks if streaming wins you counting stats. ([07-15](https://youtu.be/0geFVzSqOnA?t=2119))
+The season has three phases: discovery, optimizing and maximizing. Discovery is the opening stretch after the 2026-10-18 draft. Its goal is to learn which roles are real. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1712))
 
-Backup centers who start when the starter sits can be elite streamers. They can also get extra minutes when the starter is in foul trouble, injured or not scoring. A backup center is not worth holding until the starter in front of him is out. Bench players on teams with poor depth become targets during heavy schedule stretches, when starters rest. ([09-30](https://youtu.be/MUbNYdjpUDM?t=1508), [08-01](https://youtu.be/FEcNjVRlj-U?t=513), [07-01](https://youtu.be/W3THnI7wWdA?t=1149), [09-29](https://youtu.be/NmdNvAz08oE?t=1403))
+Watch for unexpected minutes, new starters, depth chart changes and players doing more. Coaches do strange things in weeks one and two. Move fast on real role changes, such as a new 28-minute starting job. Do not react to bad shooting nights if role, minutes and usage are unchanged. ([09-01](https://youtu.be/skKXe2CRl8Q?t=899), [09-01](https://youtu.be/skKXe2CRl8Q?t=1020), [09-01](https://youtu.be/skKXe2CRl8Q?t=1052))
 
-## Optimizing and maximizing phases
+Do not stream just to get extra games in week one. Accept losses in weeks one and two so you can keep fliers with longer-term value. Losing week one is fine. ([10-02](https://youtu.be/ZYllcj4o6_A?t=2547), [09-01](https://youtu.be/skKXe2CRl8Q?t=825))
 
-In the optimizing phase, the middle of the season, keep churning the end of your roster with all 6 adds. Sell your waiver hits through trades. When a player who is not a real starter puts up starter numbers, sell him then, because those numbers will not get better. Do this before the trade deadline on 2027-03-04. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1712), [09-01](https://youtu.be/skKXe2CRl8Q?t=205), [07-05](https://youtu.be/4kKINkZhWls?t=3517))
+The experts differ on how long to hold fliers. One says to drop a rookie flier if nothing happens in the first two weeks, and maybe pick him up again later. Another says to drop late fliers if things are not working after a few weeks. Both agree you should not hold several inefficient rookie fliers at once. Pick the ones to keep and cut the rest quickly. ([06-25](https://youtu.be/lOshTzDA4SA?t=1204), [09-26](https://youtu.be/3UGI05PDvrE?t=1431), [09-03](https://youtu.be/OBwWCxG9SqM?t=1681))
 
-Maximizing comes at the end and in our playoffs, weeks 19 to 21, which finish on 2027-03-28. Drop stashed and injured players and stream as much as you can. Every spot that does not play costs you games in the weeks that decide the title. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1712), [09-01](https://youtu.be/skKXe2CRl8Q?t=1198))
+Injuries peak early in the season because camp and preseason are short. They fall off by mid-December. Expect the most fill-in streaming chances in October and November. ([08-16](https://youtu.be/gf_6GveiAls?t=1889))
 
-One expert expects a smaller late-season injury spike this year because there should be fewer fake injuries. Do not count on many surprise openings late. Use your FAB and adds on games played instead. ([08-16](https://youtu.be/gf_6GveiAls?t=1889))
+## Optimizing phase: midseason
 
-<sub>Built 2026-10-04 with claude-opus-5-5 high.</sub>
+From about mid-season on, churn the end of your roster and use your 6 weekly adds. Do not drop proven players after a cold stretch. Do not chase hot streaks that will settle back to normal. Every player has games above and below his average. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1712), [09-01](https://youtu.be/skKXe2CRl8Q?t=1847), [09-01](https://youtu.be/skKXe2CRl8Q?t=1052), [09-01](https://youtu.be/skKXe2CRl8Q?t=205))
+
+Value a fill-in starter by his healthy-team role. A bench player who posts numbers in big minutes during an injury should be expected to rank around 150th unless something changes. That is a stream, not a big FAB bid. Do not boost him much for a short injury that may last a few games or none. ([08-23](https://youtu.be/hm5-fiCa5S4?t=2216), [09-27](https://youtu.be/CRLSsoGhb2w?t=1216))
+
+If a player who is not a real starter is putting up starter numbers, sell him then, because the numbers will not improve. Trades are frequent in our league. Make those sales before the trade deadline on 2027-03-04. ([07-05](https://youtu.be/4kKINkZhWls?t=3517), [09-01](https://youtu.be/skKXe2CRl8Q?t=1935))
+
+## Maximizing phase: the playoffs
+
+Maximizing comes near the end of the season and in the playoffs. Drop stashed and injured players and stream as much as you can. Our playoffs are weeks 19, 20 and 21 and end Sunday 2027-03-28. Plan your games and adds around that date, not the April 4 default. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1712))
+
+In those weeks, games played is the main edge. Use all 6 adds to fill open daily slots. Look first for backup centers taking over starts and for bench players on thin teams when starters rest. Accept the extra turnovers that come with more games. ([09-22](https://youtu.be/QbdrhJd7LiA?t=2068), [09-30](https://youtu.be/MUbNYdjpUDM?t=1508), [09-29](https://youtu.be/NmdNvAz08oE?t=1403), [07-15](https://youtu.be/0geFVzSqOnA?t=2119))
+
+Expect a smaller late-season injury spike than usual. One note says there should be fewer fake injuries this year. Do not count on rest days alone to create streamers. Check daily who is actually starting. ([08-16](https://youtu.be/gf_6GveiAls?t=1889))
+
+<sub>Built 2026-10-11 with claude-opus-5-5 high.</sub>

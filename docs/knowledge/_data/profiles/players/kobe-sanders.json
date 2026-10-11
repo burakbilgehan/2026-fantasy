@@ -8,15 +8,15 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "5aa46cc379a1",
+ "input_sha": "a39f8176a6e2",
  "note_count": 4,
- "built_at": "2026-10-05T19:56:20+00:00",
+ "built_at": "2026-10-11T09:20:19+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1406462,
-  "duration_ms": 29781,
-  "turns": 2,
+  "cost_usd_list": 0.209769,
+  "duration_ms": 42469,
+  "turns": 3,
   "denied": 0
  },
  "current": [
@@ -30,8 +30,8 @@
    ]
   },
   {
-   "text": "He is projected as the Clippers' tenth man, behind Kris Dunn, Bradley Beal, Brook Lopez and Keaton Wagler off the bench.",
-   "kind": "verdict",
+   "text": "The latest Clippers preview projects him as the tenth man, behind Kris Dunn, Bradley Beal, Brook Lopez and Keaton Wagler on the bench.",
+   "kind": "fact",
    "date": "2026-10-04",
    "until": "",
    "sources": [
@@ -41,53 +41,17 @@
    ]
   },
   {
-   "text": "Bradley Beal re-signed with the Clippers. That makes Sanders' minutes uncertain.",
-   "kind": "fact",
+   "text": "His minutes are uncertain because Beal re-signed. He needs big minutes and a couple of usage players out of the way to matter for fantasy.",
+   "kind": "verdict",
    "date": "2026-08-22",
    "until": "",
    "sources": [
-    "KLogvUwv_d8:p16"
-   ]
-  },
-  {
-   "text": "He needs big minutes and a couple of high-usage teammates out of the way to have fantasy value.",
-   "kind": "verdict",
-   "date": "2026-07-01",
-   "until": "",
-   "sources": [
+    "KLogvUwv_d8:p16",
     "W3THnI7wWdA:p48"
    ]
   },
   {
-   "text": "Ingram, Beal, Jordan Miller and Konan Niederhauser are all out for the Clippers now. That could open some minutes behind the starters.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "tnzmsYUA4yQ:t5"
-   ]
-  },
-  {
-   "text": "The Clippers are expected to use long rotations and test many players this season. Coach Ty Lue often changes his rotation choices.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "tnzmsYUA4yQ:t1",
-    "tnzmsYUA4yQ:t2"
-   ]
-  },
-  {
-   "text": "Yahoo lists him as questionable with a hip injury.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He is not a draft target. The expert is not interested in him.",
+   "text": "The expert in the latest Clippers preview is not interested in him for fantasy.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
@@ -96,7 +60,27 @@
    ]
   },
   {
-   "text": "The Clippers have a good fantasy playoff schedule: 4, 3 and 4 games in weeks 19 to 21. They also have one of the lowest back-to-back totals in the league, with 13.",
+   "text": "Yahoo lists him as questionable with a hip injury.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "The Clippers have many injuries (Ingram, Beal, Jordan Miller and Konan Niederhauser are out), and the expert leans toward a trial season with long rotations and many players tested. Coach Ty Lue often changes his rotation choices.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t1",
+    "tnzmsYUA4yQ:t2",
+    "tnzmsYUA4yQ:t5"
+   ]
+  },
+  {
+   "text": "The Clippers have a good fantasy playoff schedule (4-3-4 games for a March 28 end) and one of the lowest back-to-back totals in the league with 13.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
@@ -107,7 +91,7 @@
  ],
  "durable": [
   {
-   "text": "He gave almost nothing for fantasy even when he started.",
+   "text": "When he started as a rookie, he gave nothing for fantasy.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
@@ -116,9 +100,9 @@
    ]
   },
   {
-   "text": "He has no standout category. Points and rebounds are low even for his position, and his only plus is few turnovers.",
+   "text": "He is a low-volume role player. He has no strong category, and his points, rebounds and blocks are well below the top 250 pool.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
@@ -129,19 +113,31 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Projected tenth man; Beal re-signed and Dunn, Wagler and Lopez are ahead of him on the bench",
+   "detail": "Projected tenth man behind Dunn, Beal, Lopez and Wagler; Beal re-signing clouds his minutes",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p32",
+    "tnzmsYUA4yQ:t4",
+    "KLogvUwv_d8:p16"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Projected as tenth man after Beal re-signed; no starting spot",
    "until": "",
    "sources": [
     "KLogvUwv_d8:p16",
-    "tnzmsYUA4yQ:t4",
-    "W3THnI7wWdA:p48"
+    "W3THnI7wWdA:p48",
+    "tnzmsYUA4yQ:p32"
    ],
    "new_meaning": ""
   },
   {
    "name": "questionable",
    "channel": "current",
-   "detail": "Yahoo Q (hip)",
+   "detail": "Yahoo status Q (hip)",
    "until": "",
    "sources": [
     "stats"
@@ -159,30 +155,20 @@
    "new_meaning": ""
   },
   {
-   "name": "deep rotation",
-   "channel": "current",
-   "detail": "Clippers expected to use long rotations in a trial season",
-   "until": "",
-   "sources": [
-    "tnzmsYUA4yQ:t1"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "unsettled rotation",
    "channel": "current",
-   "detail": "Ty Lue changes rotations often; projected lineup not confident",
+   "detail": "Ty Lue changes rotations; Clippers expected to test many players",
    "until": "",
    "sources": [
-    "tnzmsYUA4yQ:t2",
-    "tnzmsYUA4yQ:t3"
+    "tnzmsYUA4yQ:t1",
+    "tnzmsYUA4yQ:t2"
    ],
    "new_meaning": ""
   },
   {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "4-3-4 in weeks 19 to 21",
+   "detail": "4-3-4 games in weeks 19 to 21 for a March 28 end",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:t6"
@@ -192,7 +178,7 @@
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "13 back-to-backs",
+   "detail": "13 back-to-backs, one of the lowest totals",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:t6"
@@ -200,6 +186,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Sanders is a waiver player in our league, not a draft target. Yahoo values him at 0 USD and ranks him 329th, far outside the 144 players we draft. He projects for 7.1 points and 2.3 rebounds in a tenth-man role, so he adds nothing to any build beyond few turnovers. Early in the season, check his hip and whether the Clippers' injuries (Ingram, Beal, Miller) give him starter-level minutes. That is the only way he becomes worth a waiver add.",
+ "note": "Do not draft him. Yahoo ranks him 329th with a 0 USD value, ESPN prices him at 0 USD, and our league only drafts 144 players. He projects as the Clippers' tenth man with no category outlier (7.1 PTS, 2.3 REB in projections). Early in the season, check his hip and whether injuries to Beal or the guards ahead of him open real minutes. Only then is he worth a look on waivers.",
  "rejected": []
 }

@@ -8,61 +8,88 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "02201966e910",
- "note_count": 30,
- "built_at": "2026-10-05T19:44:48+00:00",
+ "input_sha": "af0bfa9bcea0",
+ "note_count": 33,
+ "built_at": "2026-10-11T09:13:56+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.3579488,
-  "duration_ms": 90767,
-  "turns": 3,
+  "cost_usd_list": 0.25065020000000005,
+  "duration_ms": 70482,
+  "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He was traded from Toronto to the Clippers in the Kawhi Leonard trade.",
+   "text": "The Clippers got him in the Kawhi Leonard trade with Toronto. He takes Kawhi's spot.",
    "kind": "fact",
-   "date": "2026-08-20",
+   "date": "2026-09-03",
    "until": "",
    "sources": [
     "JMSLg6yz-M0:p6",
     "xHRF06_E9HE:p14",
-    "s28HvC2grAk:p38"
+    "s28HvC2grAk:p38",
+    "OBwWCxG9SqM:p1"
    ]
   },
   {
    "text": "He has a partially torn Achilles, found during surgery in May. He is out now.",
    "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
+   "date": "2026-10-09",
+   "until": "Thanksgiving to Christmas",
    "sources": [
     "tnzmsYUA4yQ:p34",
+    "-DN4P92Wp8Y:p34",
     "XnIWJyBB0EM:p12",
-    "stats"
+    "WXO8MfQfzo0:p35"
    ]
   },
   {
-   "text": "Experts disagree on his return date. One expects him back in November, another around Christmas. No one knows what restrictions he will have when he returns.",
+   "text": "The newest expert view expects him back around Thanksgiving to Christmas, followed by minutes limits and rest. Other experts say no one knows when he returns or what restrictions he will have.",
    "kind": "verdict",
-   "date": "2026-10-05",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "XnIWJyBB0EM:p12",
+    "-DN4P92Wp8Y:p34",
     "tnzmsYUA4yQ:p34",
-    "Q6YlQDvD-aY:p89"
+    "Q6YlQDvD-aY:p89",
+    "WXO8MfQfzo0:p35"
    ]
   },
   {
-   "text": "Experts now fade him. He is not a top 100 pick and is fine only around picks 100 to 110 in stash-friendly formats. One expert calls him the biggest fade on the Clippers, and others will not draft him.",
+   "text": "When healthy, experts see him as a starter and likely the Clippers' number one option. He and Garland should do nearly everything on offense, so his usage should rise, maybe toward 30%.",
    "kind": "verdict",
-   "date": "2026-10-05",
+   "date": "2026-09-17",
    "until": "",
    "sources": [
+    "KLogvUwv_d8:p6",
+    "ahNxsoU8Hx4:p18",
+    "ahNxsoU8Hx4:t0",
+    "sTtFUy7IoJI:p19",
+    "sTtFUy7IoJI:t5"
+   ]
+  },
+  {
+   "text": "His assists may not rise because Garland is on the team.",
+   "kind": "verdict",
+   "date": "2026-06-30",
+   "until": "",
+   "sources": [
+    "JMSLg6yz-M0:p6"
+   ]
+  },
+  {
+   "text": "Since the injury news, experts say to fade him. The newest call is not to draft him at his Yahoo rank of 83 or anywhere inside the top 120. Another expert says he is not a top 100 pick but is fine around 100 to 110 in stash-friendly formats.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p34",
+    "WXO8MfQfzo0:p35",
     "tnzmsYUA4yQ:p35",
     "tnzmsYUA4yQ:p36",
-    "XnIWJyBB0EM:p12",
     "BjXP9JODDSg:p43",
+    "XnIWJyBB0EM:p12",
     "Q6YlQDvD-aY:p89"
    ]
   },
@@ -76,40 +103,29 @@
    ]
   },
   {
-   "text": "Once healthy, he is expected to be the Clippers' top option next to Darius Garland. His usage should rise from 26.7% and may get close to 30%.",
+   "text": "Experts expect the Clippers to be one of the worst teams in the league.",
    "kind": "verdict",
-   "date": "2026-09-17",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "KLogvUwv_d8:p6",
-    "sTtFUy7IoJI:p19",
-    "sTtFUy7IoJI:t5",
-    "ahNxsoU8Hx4:p18",
-    "ahNxsoU8Hx4:t0"
+    "sDzeYdUhJDI:t9",
+    "tnzmsYUA4yQ:t5",
+    "Rqb5GdrSweY:p24",
+    "WXO8MfQfzo0:p35"
    ]
   },
   {
-   "text": "His assists may not rise because Garland runs the offense.",
-   "kind": "verdict",
-   "date": "2026-06-30",
-   "until": "",
-   "sources": [
-    "JMSLg6yz-M0:p6"
-   ]
-  },
-  {
-   "text": "The Clippers do not control their own draft pick, so tanking does not help them. Their motivation this season is unclear, and it may be a trial season with long rotations.",
+   "text": "The Clippers do not control their own draft pick, so tanking does not help them.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:t0",
-    "tnzmsYUA4yQ:t1",
-    "n4KkK-OJjqA:t0"
+    "KLogvUwv_d8:t1"
    ]
   },
   {
-   "text": "The Clippers play 4-3-4 games in our playoff weeks (season ending March 28). With 13 back-to-backs, they have one of the lowest totals in the league.",
+   "text": "The Clippers play 4, 3 and 4 games in our fantasy playoff weeks 19 to 21. They have 13 back-to-backs, one of the lowest totals in the league.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
@@ -120,7 +136,7 @@
  ],
  "durable": [
   {
-   "text": "Over five seasons he played 55, 45, 64, 18 and 77 games. His minutes stayed between 32.9 and 34.2.",
+   "text": "Over his last five seasons he played 55, 45, 64, 18 and 77 games. His minutes stayed between 32.9 and 34.2 in every one of them.",
    "kind": "fact",
    "date": "2026-08-09",
    "until": "",
@@ -129,41 +145,41 @@
    ]
   },
   {
-   "text": "He is injury-prone and a notoriously slow healer, so his games played are hard to project.",
+   "text": "He is injury prone and a notoriously slow healer, so his games played are hard to project.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
+    "-DN4P92Wp8Y:p35",
     "tnzmsYUA4yQ:p33",
     "8d--aL_xxwE:p5",
-    "JMSLg6yz-M0:p9",
+    "ahNxsoU8Hx4:p19",
     "sTtFUy7IoJI:p20",
-    "ahNxsoU8Hx4:p19"
+    "JMSLg6yz-M0:p9"
    ]
   },
   {
-   "text": "He is one of the better midrange scorers in the league. He needs a lot of the ball and is useless playing off the ball.",
+   "text": "He is one of the better midrange scorers in the league. He rarely takes threes and has struggled with three-point volume and percentage.",
    "kind": "verdict",
    "date": "2026-08-22",
    "until": "",
    "sources": [
     "KLogvUwv_d8:p5",
+    "s28HvC2grAk:p38",
     "JMSLg6yz-M0:p8"
    ]
   },
   {
-   "text": "He rarely takes threes and has struggled with three-point volume and percentage.",
+   "text": "He needs a lot of the ball and does little playing off the ball.",
    "kind": "verdict",
-   "date": "2026-08-22",
+   "date": "2026-06-30",
    "until": "",
    "sources": [
-    "s28HvC2grAk:p38",
-    "JMSLg6yz-M0:p8",
-    "KLogvUwv_d8:p5"
+    "JMSLg6yz-M0:p8"
    ]
   },
   {
-   "text": "He is an average defender at best, with poor defensive stats.",
+   "text": "He is an average defender at best and gives poor defensive stats.",
    "kind": "verdict",
    "date": "2026-08-22",
    "until": "",
@@ -173,9 +189,9 @@
    ]
   },
   {
-   "text": "Turnovers are his weak category. At about 2.7 per game, he is weak for his position.",
+   "text": "Points are his best category. Turnovers are his weakest category for his position.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
@@ -184,56 +200,74 @@
  ],
  "tags": [
   {
-   "name": "injured now",
+   "name": "new team",
    "channel": "current",
-   "detail": "Partially torn Achilles found during surgery in May. Yahoo status O.",
+   "detail": "Traded from Toronto to the Clippers in the Kawhi Leonard deal",
    "until": "",
    "sources": [
+    "JMSLg6yz-M0:p6",
+    "xHRF06_E9HE:p14",
+    "s28HvC2grAk:p38"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injured now",
+   "channel": "current",
+   "detail": "Partially torn Achilles, Yahoo status O",
+   "until": "Thanksgiving to Christmas",
+   "sources": [
     "tnzmsYUA4yQ:p34",
-    "XnIWJyBB0EM:p12",
-    "stats"
+    "-DN4P92Wp8Y:p34",
+    "XnIWJyBB0EM:p12"
    ],
    "new_meaning": ""
   },
   {
    "name": "IL stash",
    "channel": "current",
-   "detail": "Rated around picks 100 to 110 in stash-friendly formats. Return expected between November and Christmas.",
+   "detail": "One expert says he is fine around picks 100 to 110 in stash-friendly formats",
    "until": "",
    "sources": [
-    "tnzmsYUA4yQ:p35",
-    "tnzmsYUA4yQ:p34",
-    "XnIWJyBB0EM:p12"
+    "tnzmsYUA4yQ:p35"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "slow start",
+   "channel": "current",
+   "detail": "Expected back around Thanksgiving to Christmas with minutes limits and rest",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p34",
+    "tnzmsYUA4yQ:p34"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes limit",
+   "channel": "current",
+   "detail": "Expected after his return from the Achilles injury",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p34"
    ],
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "Experts fade him because of the Achilles. He went 6 USD in an expert mock.",
+   "detail": "Yahoo rank 83; expert would not take him inside the top 120",
    "until": "",
    "sources": [
-    "tnzmsYUA4yQ:p36",
-    "Q6YlQDvD-aY:p89",
-    "BjXP9JODDSg:p43"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "new team",
-   "channel": "current",
-   "detail": "Traded from Toronto to the Clippers in the Kawhi Leonard trade.",
-   "until": "",
-   "sources": [
-    "JMSLg6yz-M0:p6",
-    "xHRF06_E9HE:p14"
+    "-DN4P92Wp8Y:p34"
    ],
    "new_meaning": ""
   },
   {
    "name": "role up",
    "channel": "current",
-   "detail": "Usage expected to rise from 26.7% toward 30% as a top option with Garland once healthy.",
+   "detail": "Likely the Clippers' top option when healthy; usage could rise toward 30%",
    "until": "",
    "sources": [
     "sTtFUy7IoJI:p19",
@@ -245,20 +279,20 @@
   {
    "name": "injury prone",
    "channel": "durable",
-   "detail": "Wide swings in games played (18 to 77). Slow healer.",
+   "detail": "Notoriously slow healer; games played swing widely season to season",
    "until": "",
    "sources": [
+    "-DN4P92Wp8Y:p35",
     "tnzmsYUA4yQ:p33",
     "8d--aL_xxwE:p5",
-    "JMSLg6yz-M0:p9",
-    "sTtFUy7IoJI:p20"
+    "JMSLg6yz-M0:p9"
    ],
    "new_meaning": ""
   },
   {
    "name": "usage dependent",
    "channel": "durable",
-   "detail": "Needs a lot of the ball and is useless off the ball.",
+   "detail": "Needs a lot of the ball and does little off the ball",
    "until": "",
    "sources": [
     "JMSLg6yz-M0:p8"
@@ -268,7 +302,7 @@
   {
    "name": "punt TO fit",
    "channel": "durable",
-   "detail": "About 2.7 turnovers per game.",
+   "detail": "Turnovers are his weakest category for his position",
    "until": "",
    "sources": [
     "stats"
@@ -276,9 +310,21 @@
    "new_meaning": ""
   },
   {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "Clippers projected among the worst teams",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t9",
+    "tnzmsYUA4yQ:t5",
+    "Rqb5GdrSweY:p24"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "Clippers play 4-3-4 in weeks 19 to 21.",
+   "detail": "4-3-4 games in weeks 19 to 21",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:t6"
@@ -288,7 +334,7 @@
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "Clippers have 13 back-to-backs, one of the lowest totals.",
+   "detail": "13 back-to-backs, one of the lowest totals",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:t6"
@@ -298,7 +344,7 @@
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo value 16 USD against ESPN value 4 USD.",
+   "detail": "Yahoo rank 83 and value 11 USD; ESPN rank 142 and value 0 USD",
    "until": "",
    "sources": [
     "stats"
@@ -306,6 +352,6 @@
    "new_meaning": ""
   }
  ],
- "note": "He cost 16 USD in our league last season. With a partially torn Achilles and a return date that experts place anywhere from November to Christmas, they now rank him outside the top 100. The Yahoo average cost of 3.2 USD and ESPN's 4 USD fit that view better than Yahoo's 16 USD value. With 4 IL slots, he is a fair late stash at a few dollars as a points scorer for a punt TO build, but do not pay near 16 USD. In November and December, check his return date and any minutes limit. If he is back by then, the Clippers' 4-3-4 playoff schedule helps.",
+ "note": "He went for 16 USD in our league last season. Now he is out with a partially torn Achilles, and the newest expert view is to skip him inside the top 120. Yahoo still values him at 11 USD (rank 83), but the market is far lower: average costs are 2.5 USD on Yahoo and 3.6 USD on ESPN, and he went for 6 USD in an expert mock. We have 4 IL slots and a good 4-3-4 Clippers schedule in weeks 19 to 21, so he only makes sense as a 1 to 3 USD late stash in a build that can punt TO. Early in the season, watch for his return date (expected around Thanksgiving to Christmas) and for how long his minutes limit lasts.",
  "rejected": []
 }

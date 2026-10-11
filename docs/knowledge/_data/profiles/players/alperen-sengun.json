@@ -8,30 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "605dcd75fe95",
+ "input_sha": "ea694834af07",
  "note_count": 18,
- "built_at": "2026-10-05T19:42:03+00:00",
+ "built_at": "2026-10-11T09:11:25+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.206536,
-  "duration_ms": 53040,
+  "cost_usd_list": 0.21526220000000001,
+  "duration_ms": 62495,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Sengun is a projected starter for Houston, with VanVleet, Thompson, Durant and Smith.",
-   "kind": "fact",
-   "date": "2026-10-01",
-   "until": "",
-   "sources": [
-    "aLP080hxizA:t1",
-    "yoCTTlJ_tPQ:t0"
-   ]
-  },
-  {
-   "text": "Coach Ime Udoka has blamed Sengun's defense for years and limits his minutes. Other bigs sometimes play over him.",
+   "text": "Coach Ime Udoka has blamed Sengun's defense for years and tends to limit his minutes. Other bigs sometimes play over him.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -44,7 +34,7 @@
    ]
   },
   {
-   "text": "With more guard depth, his minutes could drop from about 33 to 31 or 32.",
+   "text": "Houston has more guard depth now, so his minutes could drop from about 33 to 31 or 32.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
@@ -53,18 +43,18 @@
    ]
   },
   {
-   "text": "Fred VanVleet is back from injury. Sengun's assists were boosted while VanVleet was out.",
+   "text": "Fred VanVleet is back as the projected starting point guard. The Rockets also added Marcus Smart and Bogdan Bogdanovic to the guard rotation.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
    "sources": [
-    "aLP080hxizA:p11",
     "J1Eg3uaAICU:t2",
-    "gJUBAJaHzlU:t2"
+    "gJUBAJaHzlU:t2",
+    "aLP080hxizA:t1"
    ]
   },
   {
-   "text": "His assists should fall to about 5 to 5.5 per game. Last season was already his best shot-blocking year, so there is no blocks upside to make up for it.",
+   "text": "With VanVleet back, his assists will likely fall to 5 to 5.5 per game. Last season was already his best shot-blocking year, so blocks will not make up for the lost assists.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
@@ -73,17 +63,35 @@
    ]
   },
   {
-   "text": "Experts value him at about 30 USD in auctions and rank him around 24 to 30 in category leagues. They call his ADP reasonable.",
-   "kind": "verdict",
-   "date": "2026-10-05",
+   "text": "He is the projected starting center next to VanVleet, Amen Thompson, Kevin Durant and Jabari Smith Jr.",
+   "kind": "fact",
+   "date": "2026-10-01",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p28",
+    "aLP080hxizA:t1",
+    "yoCTTlJ_tPQ:t0"
+   ]
+  },
+  {
+   "text": "Lloyd ranks him 24 to 30 in category leagues and a little higher in points leagues. He calls the ADPs reasonable.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
     "aLP080hxizA:p12"
    ]
   },
   {
-   "text": "With a March 28 end, Houston plays a weak 3-3-4 schedule in our fantasy playoff weeks, 10 games over three weeks.",
+   "text": "Josh thinks he is worth about 30 USD in an auction. He went for 29 USD in a mock auction.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p28"
+   ]
+  },
+  {
+   "text": "With our March 28 end date, the Rockets play 3, 3 and 4 games in weeks 19 to 21, which is 10 games in total.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -92,7 +100,16 @@
    ]
   },
   {
-   "text": "Houston has only 14 back-to-backs this season.",
+   "text": "That is a weak fantasy playoff schedule.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t4"
+   ]
+  },
+  {
+   "text": "The Rockets have only 14 back-to-backs this season.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -101,7 +118,7 @@
    ]
   },
   {
-   "text": "Houston is projected to win about 54 games and is expected to stay conservative in the regular season rather than chase seeding.",
+   "text": "Houston is predicted to win 54 games.",
    "kind": "verdict",
    "date": "2026-08-12",
    "until": "",
@@ -112,17 +129,8 @@
  ],
  "durable": [
   {
-   "text": "Sengun is a two-time All-Star who can put up about 20 points, 10 rebounds and 5 assists.",
+   "text": "He has an unusual line for a center: over six assists plus steals and blocks. His assists are far above his position.",
    "kind": "fact",
-   "date": "2026-08-12",
-   "until": "",
-   "sources": [
-    "yoCTTlJ_tPQ:p17"
-   ]
-  },
-  {
-   "text": "He has an unusual stat line for a big: a strong assist boost plus steals and blocks, with good FG%.",
-   "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
    "sources": [
@@ -132,8 +140,17 @@
    ]
   },
   {
-   "text": "He is a poor free throw shooter, and on his volume it clearly hurts a team's FT%.",
-   "kind": "verdict",
+   "text": "He is a two-time All-Star who can put up about 20 points, 10 rebounds and 5 assists.",
+   "kind": "fact",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:p17"
+   ]
+  },
+  {
+   "text": "He is a poor free throw shooter, and on his volume that clearly hurts a team's FT%.",
+   "kind": "fact",
    "date": "2026-10-01",
    "until": "",
    "sources": [
@@ -144,26 +161,26 @@
    ]
   },
   {
-   "text": "He makes almost no threes, and his three-point shot will probably never come around.",
-   "kind": "verdict",
-   "date": "2026-09-23",
-   "until": "",
-   "sources": [
-    "2A2JbUN-kc0:p18",
-    "C4vlgpJ62NI:p6"
-   ]
-  },
-  {
-   "text": "He commits about 3 turnovers per game, which is a weak outlier in the league and for his position.",
+   "text": "His turnovers are high for the league and for his position.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He is not a big shot blocker.",
+   "text": "He makes very few threes, and his three-point shot will probably never come around.",
+   "kind": "verdict",
+   "date": "2026-09-23",
+   "until": "",
+   "sources": [
+    "C4vlgpJ62NI:p6",
+    "2A2JbUN-kc0:p18"
+   ]
+  },
+  {
+   "text": "He is not a big shot blocker for a center.",
    "kind": "verdict",
    "date": "2026-09-16",
    "until": "",
@@ -172,13 +189,31 @@
    ]
   },
   {
-   "text": "His defense is a concern. Other weaknesses are finishing at the rim, overall efficiency, too many low-percentage mid-range shots and complaining to officials.",
+   "text": "He gives good FG% and decent steals.",
+   "kind": "verdict",
+   "date": "2026-09-23",
+   "until": "",
+   "sources": [
+    "C4vlgpJ62NI:p6"
+   ]
+  },
+  {
+   "text": "His weaknesses are defense, finishing at the rim, overall efficiency, too many low-percentage mid-range shots, and complaining to officials.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
    "sources": [
     "aLP080hxizA:p10",
     "yoCTTlJ_tPQ:p18"
+   ]
+  },
+  {
+   "text": "Last season he missed time with back tightness and then an ankle injury. He wore down in the middle of the season after playing EuroBasket.",
+   "kind": "fact",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "yoCTTlJ_tPQ:p16"
    ]
   },
   {
@@ -189,17 +224,7 @@
    "sources": [
     "LM0cRCGoAUQ:p10",
     "J1Eg3uaAICU:p25",
-    "aLP080hxizA:p12",
-    "2A2JbUN-kc0:p18"
-   ]
-  },
-  {
-   "text": "Last season he missed time with back tightness and then an ankle injury. He wore down in mid-season after playing EuroBasket.",
-   "kind": "fact",
-   "date": "2026-08-12",
-   "until": "",
-   "sources": [
-    "yoCTTlJ_tPQ:p16"
+    "aLP080hxizA:p12"
    ]
   }
  ],
@@ -208,148 +233,145 @@
    "name": "AST from a big",
    "channel": "durable",
    "detail": "About 6 assists per game as a center",
+   "until": "",
    "sources": [
     "aLP080hxizA:p10",
     "C4vlgpJ62NI:p6",
     "stats"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "FT% liability",
    "channel": "durable",
    "detail": "About 69% FT on more than 5 attempts per game",
+   "until": "",
    "sources": [
     "aLP080hxizA:p13",
-    "C4vlgpJ62NI:p6",
+    "2A2JbUN-kc0:p18",
     "stats"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "high TO",
    "channel": "durable",
    "detail": "About 3 turnovers per game",
+   "until": "",
    "sources": [
     "stats"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "punt FT fit",
    "channel": "durable",
    "detail": "",
-   "sources": [
-    "stats",
-    "aLP080hxizA:p13"
-   ],
    "until": "",
+   "sources": [
+    "aLP080hxizA:p13",
+    "stats"
+   ],
    "new_meaning": ""
   },
   {
    "name": "punt TO fit",
    "channel": "durable",
    "detail": "",
+   "until": "",
    "sources": [
     "stats"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "no 3PM",
    "channel": "durable",
-   "detail": "About 0.5 threes per game; shot will probably never come around",
-   "sources": [
-    "2A2JbUN-kc0:p18",
-    "C4vlgpJ62NI:p6"
-   ],
+   "detail": "About 0.5 threes per game, shot not expected to improve",
    "until": "",
+   "sources": [
+    "C4vlgpJ62NI:p6",
+    "2A2JbUN-kc0:p18"
+   ],
    "new_meaning": ""
   },
   {
    "name": "points league player",
    "channel": "durable",
-   "detail": "Experts rank him higher in points leagues than in 9-cat",
+   "detail": "",
+   "until": "",
    "sources": [
     "LM0cRCGoAUQ:p10",
     "J1Eg3uaAICU:p25",
-    "aLP080hxizA:p12",
-    "2A2JbUN-kc0:p18"
+    "aLP080hxizA:p12"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
-   "name": "minutes limit",
+   "name": "coach distrust",
    "channel": "current",
-   "detail": "Udoka limits his minutes over defense; could fall to 31 or 32",
+   "detail": "Udoka blames his defense and limits his minutes",
+   "until": "",
    "sources": [
     "aLP080hxizA:p9",
-    "2A2JbUN-kc0:p18",
     "2A2JbUN-kc0:t4",
     "E-KmhvyZ2CU:t0"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "role down",
    "channel": "current",
-   "detail": "Assists expected to fall to 5 to 5.5 with VanVleet back; minutes may dip",
+   "detail": "Minutes may drop to 31 or 32 and assists to 5 to 5.5 with VanVleet back",
+   "until": "",
    "sources": [
     "aLP080hxizA:p9",
     "aLP080hxizA:p11"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
-   "name": "defense-first",
-   "channel": "durable",
-   "detail": "Udoka gives little room to poor defenders and has blamed Sengun's defense",
-   "sources": [
-    "yoCTTlJ_tPQ:t2",
-    "aLP080hxizA:t0",
-    "aLP080hxizA:p9"
-   ],
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "VanVleet's return cuts his playmaking role",
    "until": "",
+   "sources": [
+    "aLP080hxizA:p11",
+    "J1Eg3uaAICU:t2"
+   ],
    "new_meaning": ""
   },
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "3-3-4, 10 games in weeks 19 to 21 with a March 28 end",
+   "detail": "3-3-4, 10 games in weeks 19 to 21",
+   "until": "",
    "sources": [
     "aLP080hxizA:t4"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "few back-to-backs",
    "channel": "current",
    "detail": "14 back-to-backs",
+   "until": "",
    "sources": [
     "aLP080hxizA:t5"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "Projected 54 wins",
+   "detail": "Predicted 54 wins",
+   "until": "",
    "sources": [
     "yoCTTlJ_tPQ:t3"
    ],
-   "until": "",
    "new_meaning": ""
   }
  ],
- "note": "Sengun went for 36 USD in our league last season. Yahoo values him at 32 USD and ESPN at 26 USD, while both sites' average costs sit near 32 USD and experts put him near 30 USD, so paying more than about 30 USD means paying points-league prices for a 9-cat player. He fits punt FT% and punt TO builds best: his FT% (69% on about 5.5 attempts) and about 3 turnovers per game are the drags, and assists from the C spot, rebounds and good FG% are the gains. Early in the season, check whether his minutes stay near 33 or slip to 31 under Udoka, and whether his assists drop toward 5 with VanVleet back. Also keep in mind that Houston has only 10 games across our playoff weeks.",
+ "note": "Yahoo and ESPN average costs are both about 33 USD and our league paid 36 USD last season. Josh puts him near 30 USD and Lloyd ranks him 24 to 30 in category leagues, so do not chase him above about 30 USD. His FT% (z -2.2) and turnovers (z -1.7) drag him down, but he fits punt FT% and punt TO builds well because his assists from the center spot (z +2.3 vs position), rebounds and points stay strong. Early in the season, check whether Udoka keeps him near 33 minutes or cuts him to 31 to 32, and whether his assists hold up with VanVleet back. Also plan around Houston's weak 10-game playoff schedule.",
  "rejected": []
 }

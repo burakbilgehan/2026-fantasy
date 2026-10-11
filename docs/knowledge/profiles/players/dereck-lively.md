@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 166 | 0 | 0.1 | 143 | 3 |
+| 2026-27 | 0 | - | 183 | 0 | 0.1 | 144 | 3 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -23,7 +23,7 @@
 | PTS | 8.7 | -0.9 | -0.7 | - |
 | REB | 7.3 | +0.9 | -0.1 | - |
 | AST | 1.8 | -0.8 | -0.4 | - |
-| STL | 0.6 | -0.9 | -0.6 | - |
+| STL | 0.6 | -1.0 | -0.6 | - |
 | BLK | 1.6 | +2.0 | +0.8 | league outlier, strong |
 | TO | 1.1 | +0.8 | +0.7 | - |
 

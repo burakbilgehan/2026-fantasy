@@ -7,13 +7,13 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 670 | - | 0.1 | - | not drafted |
+| 2026-27 | 0 | - | 689 | - | 0.0 | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 43.6% | -0.4 | -0.0 | - |
+| FG% | 43.6% | -0.5 | -0.0 | - |
 | FT% | 78.7% | -0.0 | -0.5 | - |
 | 3PM | 0.7 | -0.8 | -1.3 | - |
 | PTS | 6.9 | -1.2 | -1.3 | - |
@@ -26,22 +26,20 @@
 </details>
 
 **Current**
-- The 76ers also added Anfernee Simons and Kentavious Caldwell-Pope, and their guard rotation is crowded. (fact, 2026-09-16; [08-06](https://youtu.be/gTsfR5PxAMY?t=141), [08-02](https://youtu.be/TOn-D1SV7a8?t=1033), [09-16](https://youtu.be/2A2JbUN-kc0?t=760))
-- He comes off the bench behind the starting guards Tyrese Maxey and VJ Edgecombe. (fact, 2026-08-06; [06-26](https://youtu.be/CLsUc0Sevos?t=1740), [06-25](https://youtu.be/lOshTzDA4SA?t=1616), [06-26](https://youtu.be/CLsUc0Sevos?t=1747), [08-06](https://youtu.be/gTsfR5PxAMY?t=412))
-- Experts see almost no path to real minutes for him this season. The crowded guard rotation and Nick Nurse's heavy minutes for starters limit his rookie value. (verdict, 2026-08-06; [08-02](https://youtu.be/TOn-D1SV7a8?t=1033), [07-23](https://youtu.be/LUTYUdXBG1M?t=513), [08-02](https://youtu.be/TOn-D1SV7a8?t=1033), [08-06](https://youtu.be/gTsfR5PxAMY?t=556))
-- He is not a draft target in our 12-team league. (verdict, 2026-08-02; stats, [08-02](https://youtu.be/TOn-D1SV7a8?t=1033))
+- Nick Nurse gives his starters and guards very heavy minutes, so few minutes are left for a rookie guard. (fact, 2026-09-09; [08-02](https://youtu.be/TOn-D1SV7a8?t=1033), [09-09](https://youtu.be/7BllEsdNLoM?t=1956), [08-06](https://youtu.be/gTsfR5PxAMY?t=556))
+- He comes off the bench behind Tyrese Maxey and VJ Edgecombe in a crowded Philadelphia guard rotation. (fact, 2026-08-02; [06-26](https://youtu.be/CLsUc0Sevos?t=1740), [06-25](https://youtu.be/lOshTzDA4SA?t=1616), [06-26](https://youtu.be/CLsUc0Sevos?t=1747), [08-02](https://youtu.be/TOn-D1SV7a8?t=1033))
+- Experts see no big role for him in Philadelphia this season. One calls his path to minutes almost impossible. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1033), [07-23](https://youtu.be/LUTYUdXBG1M?t=513))
 - In Summer League he played with restraint on 28% usage. He averaged 6 assists and 1.5 steals but shot 26% from three and 63% from the line. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=513))
-- He is a rookie. Philadelphia drafted him 22nd overall in the 2026 draft. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1740), [06-25](https://youtu.be/lOshTzDA4SA?t=1616))
-- He could grow into a 27-minute player in two years, or a trade could put him in a starting role. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1740))
+- He is a rookie. The 76ers drafted him 22nd overall in the 2026 NBA Draft. (fact, 2026-06-26; [06-25](https://youtu.be/lOshTzDA4SA?t=1616), [06-26](https://youtu.be/CLsUc0Sevos?t=1740))
+- Over the long term he could become a 27-minute player in about two years or be traded into a starting role. This is a dynasty view and does not help this season. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1740))
 
 **Durable**
-- Experts expect him to become a good shooter and a better player than Jared McCain. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=513), [06-25](https://youtu.be/lOshTzDA4SA?t=1616))
-- Experts rated him a top 10 prospect in the 2026 draft class. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1740), [06-25](https://youtu.be/lOshTzDA4SA?t=1616))
+- Experts rated him a top 10 prospect before the draft. They expect him to become a good shooter and possibly a better player than Jared McCain. (verdict, 2026-07-23; [06-25](https://youtu.be/lOshTzDA4SA?t=1616), [06-26](https://youtu.be/CLsUc0Sevos?t=1740), [07-23](https://youtu.be/LUTYUdXBG1M?t=513))
 
 **Tags**
-- Current: `rookie` (22nd pick in 2026 by Philadelphia), `minutes competition` (Backs up Maxey and Edgecombe in a crowded guard rotation that also has Simons and Caldwell-Pope)
-- Durable: none
+- Current: `rookie` (22nd pick in the 2026 draft), `minutes competition` (behind Maxey and Edgecombe in a crowded guard rotation)
+- Durable: `heavy starter minutes` (Nick Nurse plays his starters and guards heavy minutes, which shrinks bench roles)
 
-**Note.** Yahoo ranks him 670th with a value of 0 USD, and ESPN's average cost is 0.1 USD. His Yahoo projection of 6.9 points, 2.0 assists and 0.5 steals in a bench role leaves him well outside the 144 players we draft. He is not a fit for any build. Early in the season, check only whether a trade or a guard injury in Philadelphia gives him a real role and minutes.
+**Note.** He is not a draft option in our 12-team league. Yahoo ranks him 689th at 0 USD, ESPN prices him at 0 USD, and his Yahoo projection of 6.9 points, 2.0 assists and 0.5 steals is below average in every category except turnovers. Do not spend a pick on him. Early in the season, only check whether Nick Nurse gives him real rotation minutes.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

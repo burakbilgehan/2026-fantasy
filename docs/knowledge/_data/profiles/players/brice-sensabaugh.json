@@ -8,32 +8,25 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "59cc4ce8f053",
+ "input_sha": "1c03536c6f63",
  "note_count": 2,
- "built_at": "2026-10-04T17:25:10+00:00",
+ "built_at": "2026-10-11T09:13:47+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1587734,
-  "duration_ms": 34508
+  "cost_usd_list": 0.1767828,
+  "duration_ms": 34290,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Utah's projected starting lineup is Keyonte George, Darryn Peterson, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic. He is not in it.",
+   "text": "Yahoo lists him as questionable with a hip injury.",
    "kind": "fact",
-   "date": "2026-08-05",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
-    "CI4k8ofUXXk:t0"
-   ]
-  },
-  {
-   "text": "The Utah wing and guard rotation is crowded with George, Peterson, Ace Bailey, Markkanen and Jackson Jr. next to him.",
-   "kind": "fact",
-   "date": "2026-07-16",
-   "until": "",
-   "sources": [
-    "-y6p5PYLf00:t4"
+    "stats"
    ]
   },
   {
@@ -46,43 +39,63 @@
    ]
   },
   {
-   "text": "He ranked 95th after last season's trade deadline, during Utah's tank stretch.",
-   "kind": "fact",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "xHRF06_E9HE:p41",
-    "ahNxsoU8Hx4:t2"
-   ]
-  },
-  {
-   "text": "Utah is expected to play to win this season, so the late-season minutes he got last year will not be there.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "xHRF06_E9HE:t4",
-    "J1Eg3uaAICU:t3",
-    "sTtFUy7IoJI:t6",
-    "ahNxsoU8Hx4:t2"
-   ]
-  },
-  {
-   "text": "His fantasy value is finished after Utah's draft.",
+   "text": "His fantasy value is finished after Utah drafted Darryn Peterson.",
    "kind": "verdict",
    "date": "2026-06-25",
    "until": "",
    "sources": [
     "lOshTzDA4SA:p20"
    ]
+  },
+  {
+   "text": "Utah has a crowded group of guards and wings: George, Peterson, Sensabaugh, Bailey, Markkanen and Jackson Jr.",
+   "kind": "fact",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:t4"
+   ]
+  },
+  {
+   "text": "Markkanen, Keyonte George, Jaren Jackson Jr. and Peterson take most of the usage, and everyone else will lose touches.",
+   "kind": "verdict",
+   "date": "2026-06-25",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:t2",
+    "-rgXhs5BHiw:t1"
+   ]
+  },
+  {
+   "text": "Utah plans to win this season and is not tanking. Experts expect a playoff team, so the late-season minutes he got last season will not be there.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:t4",
+    "CI4k8ofUXXk:t2",
+    "J1Eg3uaAICU:t3",
+    "ahNxsoU8Hx4:t2",
+    "dlo7L8Ru91A:t2"
+   ]
   }
  ],
  "durable": [],
  "tags": [
   {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo status Q (hip)",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "role down",
    "channel": "current",
-   "detail": "likely bench role behind George, Peterson and Markkanen; no tank minutes late in the season",
+   "detail": "likely bench role after Utah drafted Peterson and got deeper",
    "until": "",
    "sources": [
     "xHRF06_E9HE:p41",
@@ -94,15 +107,49 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "crowded rotation with George, Peterson, Bailey, Markkanen and Jackson Jr.",
+   "detail": "crowded with George, Peterson, Bailey, Markkanen and Jackson Jr.",
    "until": "",
    "sources": [
-    "-y6p5PYLf00:t4",
-    "CI4k8ofUXXk:t0"
+    "-y6p5PYLf00:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Markkanen, George, Jackson Jr. and Peterson take the usage",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:t2",
+    "-rgXhs5BHiw:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Utah got deeper this offseason",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:t4",
+    "-y6p5PYLf00:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "Leaf projects 43 wins and a 7th or 8th seed",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:t2",
+    "J1Eg3uaAICU:t3",
+    "LM0cRCGoAUQ:t4",
+    "xHRF06_E9HE:t4"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both sites price him at 0 USD (Yahoo rank 236, ESPN rank 226). That is far outside the 144 players drafted in our league, so do not draft him. His 14.9 points in 23.5 minutes last season came with Utah tanking, and the experts expect a bench role on a team that plays to win. Early in the season, check his bench minutes and any injury to George, Peterson or Markkanen that could give him a bigger role.",
+ "note": "Both Yahoo and ESPN value him at 0 USD and rank him 228 to 237. That is far outside the 144 players we draft, and the experts say his value is gone now that he will likely come off the bench. Do not draft him. His projected line has no strong category, so he does not fit a particular build. Check his hip status, and look at him on waivers only if injuries to Utah's guards and wings open real minutes.",
  "rejected": []
 }

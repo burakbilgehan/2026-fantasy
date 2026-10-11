@@ -8,35 +8,23 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "72054064e972",
+ "input_sha": "def1ce4311aa",
  "note_count": 10,
- "built_at": "2026-10-05T20:04:42+00:00",
+ "built_at": "2026-10-11T09:24:36+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1781742,
-  "duration_ms": 46830,
+  "cost_usd_list": 0.1740062,
+  "duration_ms": 42181,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is out with a broken foot. Yahoo lists him as out (foot). He is out of the boot.",
+   "text": "He is out with a broken foot. Experts expect him back between Thanksgiving and Christmas, and one beat writer says possibly 2027.",
    "kind": "fact",
    "date": "2026-10-04",
-   "until": "return expected between Thanksgiving and Christmas",
-   "sources": [
-    "tnzmsYUA4yQ:p43",
-    "KLogvUwv_d8:p11",
-    "gerS7ibpaJo:p26",
-    "stats"
-   ]
-  },
-  {
-   "text": "He is expected back between Thanksgiving and Christmas and should be eased back slowly. One beat writer says his return could slip to 2027.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
+   "until": "between Thanksgiving and Christmas",
    "sources": [
     "tnzmsYUA4yQ:p43",
     "KLogvUwv_d8:p11",
@@ -44,27 +32,17 @@
    ]
   },
   {
-   "text": "Once back, he should become the Clippers' starting center by February and March at 24 or more minutes, which would be enough to matter for fantasy.",
+   "text": "The Clippers are expected to ease him back slowly after he returns.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-08-22",
    "until": "",
    "sources": [
-    "tnzmsYUA4yQ:p44",
-    "KLogvUwv_d8:p12"
+    "4GDfg2n2l8o:p17",
+    "KLogvUwv_d8:p11"
    ]
   },
   {
-   "text": "He is an IL stash with upside for a top 70 run late in the season.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:p28",
-    "tnzmsYUA4yQ:p44"
-   ]
-  },
-  {
-   "text": "Experts would have called him draftable and the likely starting center if he had started the season healthy.",
+   "text": "An expert thinks he would have been the starting center if he had been healthy to start the season, and another would have called him draftable.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
@@ -74,7 +52,7 @@
    ]
   },
   {
-   "text": "Isaiah Jackson starts over Brook Lopez in preseason scrimmages and is the projected starting center, with Lopez as the backup center.",
+   "text": "Isaiah Jackson starts at center in preseason scrimmages, with Brook Lopez projected as the backup center. The Clippers say this is not guaranteed to continue.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
@@ -85,7 +63,27 @@
    ]
   },
   {
-   "text": "In an expert mock auction he was nominated first and went for 3 USD.",
+   "text": "Once healthy, he should take the starting center job by February and March at 24 or more minutes, which should be enough to matter for fantasy.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p44",
+    "KLogvUwv_d8:p12"
+   ]
+  },
+  {
+   "text": "He is an IL stash with the upside of a top 70 run late in the season.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p28",
+    "tnzmsYUA4yQ:p44"
+   ]
+  },
+  {
+   "text": "In an auction mock draft he went for 3 USD as the first nomination, while most managers would expect to get him for 1 USD later.",
    "kind": "fact",
    "date": "2026-10-05",
    "until": "",
@@ -94,37 +92,18 @@
    ]
   },
   {
-   "text": "His normal auction price is about 1 USD, and most managers expect to get him for that late in the draft.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p0"
-   ]
-  },
-  {
-   "text": "The Clippers have a good fantasy playoff schedule: 4, 3 and 4 games in weeks 19 to 21. They have only 13 back-to-backs, one of the lowest totals in the league.",
+   "text": "The Clippers have a good fantasy playoff schedule (4-3-4 games for a March 28 end) and one of the lowest back-to-back totals in the league with 13.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:t6"
    ]
-  },
-  {
-   "text": "The Clippers do not control their own pick, so tanking does not help them. The expert leans toward a trial season with long rotations and many players tested.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "tnzmsYUA4yQ:t0",
-    "tnzmsYUA4yQ:t1"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is a long, athletic big man and shot blocker with some ball handling. He has added about 20 pounds of muscle.",
+   "text": "Long, athletic big man and shot blocker with some ball handling and a natural-looking shot form. He has added about 20 pounds of muscle.",
    "kind": "fact",
    "date": "2026-08-22",
    "until": "",
@@ -142,22 +121,32 @@
    ]
   },
   {
-   "text": "He makes no threes and gets very few steals, even for a center.",
+   "text": "He broke his foot late in the 2025-26 season.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "4GDfg2n2l8o:p17",
+    "tnzmsYUA4yQ:p43"
+   ]
+  },
+  {
+   "text": "He makes no threes and gets very few steals, both far below the league pool.",
+   "kind": "fact",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He broke his foot around March of last season.",
-   "kind": "fact",
-   "date": "2026-08-22",
+   "text": "Clippers coach Ty Lue never plays his centers heavy minutes and often changes his rotation choices, which caps his ceiling.",
+   "kind": "verdict",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "4GDfg2n2l8o:p17",
-    "KLogvUwv_d8:p11"
+    "BiIZsSypx7Y:t2",
+    "tnzmsYUA4yQ:t2"
    ]
   }
  ],
@@ -165,8 +154,8 @@
   {
    "name": "injured now",
    "channel": "current",
-   "detail": "broken foot, Yahoo status O",
-   "until": "return expected between Thanksgiving and Christmas",
+   "detail": "broken foot, Yahoo status O (Foot)",
+   "until": "between Thanksgiving and Christmas",
    "sources": [
     "tnzmsYUA4yQ:p43",
     "KLogvUwv_d8:p11",
@@ -178,7 +167,7 @@
    "name": "IL stash",
    "channel": "current",
    "detail": "top 70 run upside late in the season",
-   "until": "",
+   "until": "between Thanksgiving and Christmas",
    "sources": [
     "ZYllcj4o6_A:p28",
     "tnzmsYUA4yQ:p44"
@@ -188,10 +177,11 @@
   {
    "name": "slow start",
    "channel": "current",
-   "detail": "out until about Thanksgiving to Christmas, projected starter by February and March",
+   "detail": "out until about Christmas, eased back, expected to start by February and March",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:p44",
+    "4GDfg2n2l8o:p17",
     "ZYllcj4o6_A:p28"
    ],
    "new_meaning": ""
@@ -199,7 +189,7 @@
   {
    "name": "role up",
    "channel": "current",
-   "detail": "projected starting center at 24 or more minutes by February and March",
+   "detail": "projected starting center at 24 or more minutes by February",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:p44",
@@ -210,7 +200,7 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Isaiah Jackson and Brook Lopez at center",
+   "detail": "Isaiah Jackson and Brook Lopez",
    "until": "",
    "sources": [
     "EGdhmUgPAWY:t6",
@@ -220,23 +210,34 @@
    "new_meaning": ""
   },
   {
-   "name": "unsettled rotation",
+   "name": "injury last season",
    "channel": "current",
-   "detail": "Ty Lue changes rotations; projected starters uncertain",
+   "detail": "broken foot late in 2025-26",
    "until": "",
    "sources": [
-    "tnzmsYUA4yQ:t2",
-    "tnzmsYUA4yQ:t3"
+    "4GDfg2n2l8o:p17"
    ],
    "new_meaning": ""
   },
   {
-   "name": "no 3PM",
-   "channel": "durable",
-   "detail": "",
+   "name": "flyer",
+   "channel": "current",
+   "detail": "1 to 3 USD stash with late-season upside",
    "until": "",
    "sources": [
-    "stats"
+    "Q6YlQDvD-aY:p0",
+    "ZYllcj4o6_A:p28"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Lue changes rotations; center starter not settled",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t2",
+    "EGdhmUgPAWY:t6"
    ],
    "new_meaning": ""
   },
@@ -259,8 +260,18 @@
     "tnzmsYUA4yQ:t6"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Yahoo values him at 0 USD (rank 425), so he is at most a 1 USD final pick in our 144-player draft. Spending 3 USD, as happened in one mock, is too much when he will likely be on waivers. His upside is real for the fantasy playoffs: 7 points, 5 rebounds and 1.6 blocks in 17 minutes over his last seven games, plus good FG% and low turnovers. He fits builds that want blocks and FG% from a center and do not need threes or steals. One of our 4 IL slots can hold him for free, or you can wait to pick him up from waivers. Before he returns, check his timeline in late November and whether Isaiah Jackson keeps the starting job.",
+ "note": "Yahoo ranks him 425 with a 0 USD value, ESPN does not rank him, and he went undrafted in our league last season. In a 144-player draft he is at most a 1 USD final pick to hold in an IL slot. Do not chase him to the 3 USD he got in a mock. His last seven games of 2025-26 (7 points, 5 rebounds, 1.6 blocks in 17 minutes) and a good 4-3-4 playoff schedule show the late-season upside for builds that want blocks and FG% from a center. If he goes undrafted, watch his return date around Christmas and whether he takes the starting job from Isaiah Jackson and Brook Lopez by February.",
  "rejected": []
 }

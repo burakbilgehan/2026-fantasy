@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 204 | 0 | 0.0 | 153 | not drafted |
+| 2026-27 | 0 | - | 210 | 0 | 0.1 | 153 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -23,27 +23,26 @@
 | PTS | 9.4 | -0.8 | -0.7 | - |
 | REB | 6.6 | +0.6 | +0.1 | - |
 | AST | 1.3 | -1.0 | -0.8 | - |
-| STL | 1.0 | +0.1 | +0.4 | - |
+| STL | 1.0 | +0.0 | +0.3 | - |
 | BLK | 0.7 | +0.2 | -0.3 | - |
 | TO | 0.9 | +1.0 | +0.9 | - |
 
 </details>
 
 **Current**
-- The projected Kings starters are Acuff, LaVine, Hunter, Murray and Sabonis. He is not in that group. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691), [07-01](https://youtu.be/W3THnI7wWdA?t=1324))
-- His late-season run, including a 73rd rank after the deadline, came only because Murray, Hunter and Sabonis were out. The experts say it is not real and you should not draft him off it. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1622), [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
-- He re-signed with Sacramento for 2 years and 11.5 million. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
-- He is expected to be a reserve big this season. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
+- His strong run late last season, including a rank of 73rd after the trade deadline, came while Domantas Sabonis, Keegan Murray, DeAndre Hunter and Cardwell were out. All of them are back. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2342), [07-14](https://youtu.be/xHRF06_E9HE?t=1622), [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
+- The experts say his late-season production was not real. Do not draft him off that run. His ESPN categories rank of 111 is too high. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2342), [07-14](https://youtu.be/xHRF06_E9HE?t=1622), [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
+- The projected Kings starters are Acuff, LaVine, Hunter, Murray and Sabonis, with nobody pushing that group for a spot. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691), [07-01](https://youtu.be/W3THnI7wWdA?t=1324))
+- He re-signed with Sacramento on a 2-year, 11.5 million deal. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
+- He is expected to be a reserve big with a smaller role than his late-season starting run. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
 
 **Durable**
-- He makes almost no threes and shoots under 62% from the line. He takes fewer than 2 free throws per game, so the FT% damage is limited. (fact, 2026-10-05; stats)
+- none
 
 **Tags**
-- Current: `role down` (Reserve big behind Sabonis, Murray and Hunter after starting during their injuries late last season), `handcuff` (Ranked 73rd after the deadline while Murray, Hunter and Sabonis were out), `waiver watch` (Do not draft. Watch if Sabonis, Murray or Hunter miss time)
+- Current: `role down` (Expected to go back to a reserve big role now that Sabonis, Murray and Hunter are healthy), `handcuff` (Produced as a starter late last season when Sabonis, Murray and Hunter were out), `bust candidate` (At the ESPN categories rank of 111)
 - Durable: none
 
-**Note.** Both sites value him at 0 USD and rank him 204 (Yahoo) and 153 (ESPN), so he falls outside the 144 players drafted in our league. Leave him on waivers. His only value comes when Sabonis, Murray or Hunter miss games, or if a trade opens up the Kings frontcourt. In those cases he adds rebounds, a decent FG% and few turnovers, at a small cost in FT% and threes.
+**Note.** Do not draft him in our league. Yahoo ranks him 210th, ESPN ranks him 153rd and both sites value him at 0 USD, which puts him outside the 144 players we draft. The experts say his late-season numbers only came because the Kings starters were hurt. His profile is modest anyway: about 9 to 10 points and 6.6 rebounds, with weak FT%, threes and assists. Keep him on the waiver radar in case Sabonis, Murray or Hunter misses time or gets traded, because that is when he got starter minutes.
 
-<sub>Tags removed by the category check: no 3PM (3PM 0.3 per game).</sub>
-
-<sub>2 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

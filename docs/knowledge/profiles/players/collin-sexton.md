@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 200 | 0 | 0.6 | 150 | not drafted |
+| 2026-27 | 0 | 0.0 | 205 | 0 | 0.6 | 150 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,29 +19,33 @@
 |---|---|---|---|---|
 | FG% | 48.3% | +0.1 | +0.8 | - |
 | FT% | 85.9% | +1.1 | +0.9 | - |
-| 3PM | 1.8 | +0.3 | -0.0 | - |
+| 3PM | 1.8 | +0.3 | -0.1 | - |
 | PTS | 17.5 | +0.6 | +0.5 | - |
 | REB | 2.6 | -1.0 | -0.8 | - |
-| AST | 4.1 | +0.5 | +0.1 | - |
-| STL | 1.0 | +0.2 | -0.1 | - |
+| AST | 4.1 | +0.4 | +0.1 | - |
+| STL | 1.0 | +0.1 | -0.1 | - |
 | BLK | 0.2 | -0.9 | -0.9 | - |
 | TO | 2.4 | -0.9 | -0.7 | - |
 
 </details>
 
 **Current**
-- Josh does not expect him to start for the Lakers. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=2042))
-- Josh does not expect him to be even a back-end fantasy option this season. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=2042))
-- The Lakers have two open starting spots, mainly contested by Grimes, LaRavia and Mamukelashvili. Sexton is not named among the main candidates. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669))
+- His Yahoo injury status is questionable (lower leg). (fact, 2026-10-11; stats)
+- Collin Sexton is a bench guard. Luka Doncic and Austin Reaves start ahead of him. The projected starters are Doncic, Reaves, Grimes, Thybulle and Kessler. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2208), [10-06](https://youtu.be/sFelMKWcqyI?t=1533), [10-06](https://youtu.be/sFelMKWcqyI?t=1441))
+- The experts say not to draft him. Josh does not expect him to start or to be even a back-end fantasy option. Another expert calls him a stash in deep formats only and says to avoid him at an ESPN rank of 100. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2208), [10-06](https://youtu.be/sFelMKWcqyI?t=1533), [08-04](https://youtu.be/_WjOjp6Qu8E?t=2042))
+- He would only be useful with about 26% usage and 30 minutes a game. That would take injuries in the backcourt, with Doncic or Reaves missing a lot of games. (verdict, 2026-10-09; [10-06](https://youtu.be/sFelMKWcqyI?t=1533), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2208))
+- The Lakers have the second most back-to-backs in the league. With a March 28 end, their playoff schedule is 3-4-3 games, which is in the bottom half of the league. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2036), [10-06](https://youtu.be/sFelMKWcqyI?t=2119))
 
 **Durable**
-- Experts call him a poor defender. (verdict, 2026-08-04; [07-02](https://youtu.be/P6TNP-g0wzY?t=2108), [08-04](https://youtu.be/_WjOjp6Qu8E?t=2042))
-- He is an undersized guard and not a good passer. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=2108))
+- He is a notoriously bad fantasy player in category leagues. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2211))
+- He is a poor passer and has always been a weak assist player. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1524), [07-02](https://youtu.be/P6TNP-g0wzY?t=2108))
+- He is usually efficient and a good three-point shooter. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1524))
+- He is an undersized guard and a bad defender. (verdict, 2026-08-04; [07-02](https://youtu.be/P6TNP-g0wzY?t=2108), [08-04](https://youtu.be/_WjOjp6Qu8E?t=2042))
 
 **Tags**
-- Current: `minutes competition` (Not expected to start. Grimes is among the guards and wings in the race for the two open Lakers starting spots.)
-- Durable: none
+- Current: `usage competition` (Plays behind Luka Doncic and Austin Reaves), `handcuff` (Gains value only if Doncic or Reaves miss a lot of games), `waiver watch` (Deep-format stash only; watch if the Lakers backcourt gets hurt), `injured now` (Yahoo status Q, lower leg), `questionable` (Lower leg), `many back-to-backs` (Lakers have the second most back-to-backs in the league), `bad playoff schedule` (3-4-3 games in weeks 19 to 21, bottom half of the league)
+- Durable: `usage dependent` (Needs about 26% usage and 30 minutes to be useful)
 
-**Note.** Both sites value him at 0 USD (ESPN average cost 0.6 USD). He ranks 150 on ESPN and 200 on Yahoo, so he is around or below the 144th player and should not be an auction target. His line is a scoring guard with good FT% (about 86% on 4 attempts) and few rebounds, blocks or turnovers saved, and none of it stands out enough to carry value off the bench. Early in the season, check only whether he gets a starting role or about 27 bench minutes in the Lakers rotation.
+**Note.** Sexton ranks 205 on Yahoo and 150 on ESPN, and both sites give him 0 value. He is outside the 144 players our auction drafts, so do not spend on him. Early in the season, check his lower leg (Yahoo Q) and whether Doncic or Reaves miss games, since that is the only way he gets the 30 minutes and high usage he needs. He brings some points and FT% but hurts REB, BLK and TO, and he played only 23.7 minutes last season, so he is a waiver pickup at most.
 
-<sub>2 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>6 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

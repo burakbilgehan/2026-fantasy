@@ -8,208 +8,236 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "cc423876b25d",
- "note_count": 25,
- "built_at": "2026-10-05T20:04:43+00:00",
+ "input_sha": "4a4d7141e1fc",
+ "note_count": 36,
+ "built_at": "2026-10-11T09:24:46+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.21837020000000001,
-  "duration_ms": 66514,
+  "cost_usd_list": 0.2351102,
+  "duration_ms": 63890,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He joined the Lakers from Utah and is locked in as their starting center. The Lakers' defense depends heavily on him.",
+   "text": "He moved from Utah to the Lakers and is locked in as their starting center.",
    "kind": "fact",
-   "date": "2026-08-05",
+   "date": "2026-10-06",
    "until": "",
    "sources": [
     "_WjOjp6Qu8E:p0",
-    "Rqb5GdrSweY:p5",
     "CI4k8ofUXXk:p29",
-    "_WjOjp6Qu8E:t5",
-    "Rqb5GdrSweY:t4"
+    "Rqb5GdrSweY:p5",
+    "sFelMKWcqyI:t4"
    ]
   },
   {
-   "text": "His backups at center are weak. Kevon Looney is the listed backup, and Mamukelashvili may take those minutes.",
+   "text": "The Lakers' backup centers are Kevon Looney and Mamukelashvili, and the team defense depends heavily on Kessler.",
    "kind": "fact",
-   "date": "2026-09-14",
+   "date": "2026-10-06",
    "until": "",
    "sources": [
-    "Rqb5GdrSweY:t4",
     "LM0cRCGoAUQ:t11",
-    "Rqb5GdrSweY:p5"
+    "_WjOjp6Qu8E:t5",
+    "Rqb5GdrSweY:t4",
+    "sFelMKWcqyI:t2"
    ]
   },
   {
-   "text": "With weak backups behind him, he is expected to play heavy minutes.",
+   "text": "The backups behind him are weak, so he should play heavy minutes.",
    "kind": "verdict",
    "date": "2026-07-13",
    "until": "",
    "sources": [
-    "Rqb5GdrSweY:p5"
+    "Rqb5GdrSweY:p5",
+    "Rqb5GdrSweY:t4"
    ]
   },
   {
-   "text": "Expected line this season: about 12 to 15 points, with around six from offensive rebounds, double-digit rebounds, 2+ blocks and bad free throws.",
+   "text": "Playing with Luka Doncic should give him plenty of rebounds, pick and roll chances and easy finishes.",
    "kind": "verdict",
-   "date": "2026-09-14",
+   "date": "2026-10-06",
    "until": "",
    "sources": [
-    "_WjOjp6Qu8E:p2",
-    "t4n9MAP2_14:p24"
-   ]
-  },
-  {
-   "text": "Andy expects Luka Doncic to make him look very good as a roller and dunking threat.",
-   "kind": "verdict",
-   "date": "2026-08-04",
-   "until": "",
-   "sources": [
+    "sFelMKWcqyI:p15",
     "_WjOjp6Qu8E:p3"
    ]
   },
   {
-   "text": "His threes and high steal rate came from a five-game sample, and the experts expect both to drop this season. That also lowers his FG% and scoring a little.",
+   "text": "Experts expect double-digit rebounds, 12 to 15 points and 2 or more blocks a game, with about six points coming off offensive rebounds.",
    "kind": "verdict",
-   "date": "2026-10-05",
+   "date": "2026-09-14",
    "until": "",
    "sources": [
+    "t4n9MAP2_14:p24",
+    "_WjOjp6Qu8E:p2"
+   ]
+  },
+  {
+   "text": "Experts agree that his jumps in threes, steals, assists and free throw shooting last season came from about five games and will not carry over.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p19",
+    "sFelMKWcqyI:p14",
     "Q6YlQDvD-aY:p37",
     "QbdrhJd7LiA:p14",
     "uarqbNA2dFk:p11",
     "t4n9MAP2_14:p24",
     "Rqb5GdrSweY:p6",
     "P6TNP-g0wzY:p15",
-    "_WjOjp6Qu8E:p4"
+    "_WjOjp6Qu8E:p4",
+    "eTsjuVu1trk:p20"
    ]
   },
   {
-   "text": "Josh says managers should not avoid him because he missed most of last season. He thinks Kessler might play 80 games.",
+   "text": "If those gains do not hold, he is not a top 70 player in category leagues.",
    "kind": "verdict",
-   "date": "2026-08-09",
+   "date": "2026-10-06",
    "until": "",
    "sources": [
-    "8d--aL_xxwE:p16"
+    "eTsjuVu1trk:p21"
    ]
   },
   {
-   "text": "His Yahoo price is too high. The experts call a rank in the 20s or 30s, a top 30 pick or round 3 an overdraft and fade him there. Pick 42 is better but still not loved.",
+   "text": "Experts call him overpriced at a Yahoo rank near 38 and a round 3 cost. Fair value is around rank 60, not in round 3 or 4, and one expert would pay no more than 15 USD for him.",
    "kind": "verdict",
-   "date": "2026-09-30",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
+    "-DN4P92Wp8Y:p19",
+    "sFelMKWcqyI:p17",
+    "sFelMKWcqyI:p18",
+    "Q6YlQDvD-aY:p38",
+    "eTsjuVu1trk:p20",
     "BjXP9JODDSg:p16",
-    "QbdrhJd7LiA:p14",
-    "uarqbNA2dFk:p11",
-    "t4n9MAP2_14:p24",
     "E-KmhvyZ2CU:p10",
     "J1Eg3uaAICU:p26",
+    "QbdrhJd7LiA:p14",
+    "t4n9MAP2_14:p24",
     "P6TNP-g0wzY:p14"
    ]
   },
   {
-   "text": "At an ESPN ADP around 80 he is a fair, easy pick.",
-   "kind": "verdict",
-   "date": "2026-09-21",
-   "until": "",
-   "sources": [
-    "egRrai3Ax38:p36",
-    "uarqbNA2dFk:p11"
-   ]
-  },
-  {
-   "text": "Josh would not pay more than 15 USD in an auction. Others value him more, and he went for 26 USD in an auction mock.",
-   "kind": "verdict",
+   "text": "His draft cost in mocks varies a lot, from early round 3 to late round 4. In one auction mock he went for 26 USD.",
+   "kind": "fact",
    "date": "2026-10-05",
    "until": "",
    "sources": [
+    "_vbAP5y182A:p24",
     "Q6YlQDvD-aY:p38"
    ]
   },
   {
-   "text": "His draft spot in mocks varies a lot, from early round 3 to late round 4.",
-   "kind": "fact",
-   "date": "2026-09-24",
+   "text": "At an ESPN ADP around 80 he is a fine pick.",
+   "kind": "verdict",
+   "date": "2026-09-21",
    "until": "",
    "sources": [
-    "_vbAP5y182A:p24"
+    "uarqbNA2dFk:p11",
+    "egRrai3Ax38:p36"
    ]
   },
   {
-   "text": "He is a very good pick for a team that is low on rebounds.",
+   "text": "He is a good pick for a team that is low on rebounds.",
    "kind": "verdict",
    "date": "2026-08-04",
    "until": "",
    "sources": [
     "_WjOjp6Qu8E:p1"
    ]
+  },
+  {
+   "text": "Last season's shoulder surgery is not a concern now. One expert says he could play 80 games.",
+   "kind": "verdict",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "sFelMKWcqyI:p13",
+    "8d--aL_xxwE:p16"
+   ]
+  },
+  {
+   "text": "The Lakers have the second most back-to-backs in the league. Their playoff schedule is 3-4-3 games with a March 28 end, in the bottom half of the league.",
+   "kind": "fact",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "sFelMKWcqyI:t5",
+    "sFelMKWcqyI:t6"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He is a three-category center: rebounds, FG% and blocks. His free throws are poor, and his assists, steals, threes and points give little.",
+   "text": "A rebounds, blocks and FG% center. Nothing else in his profile is strong.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "P6TNP-g0wzY:p13",
+    "-DN4P92Wp8Y:p18",
+    "sFelMKWcqyI:p16",
     "uarqbNA2dFk:p12",
+    "P6TNP-g0wzY:p13",
+    "Q6YlQDvD-aY:p37",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is a poor free throw shooter, which hurts a team's FT%.",
+   "kind": "fact",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "sFelMKWcqyI:p16",
+    "P6TNP-g0wzY:p13",
+    "t4n9MAP2_14:p24",
     "Rqb5GdrSweY:p6",
     "stats"
    ]
   },
   {
-   "text": "The experts see him as a very one-dimensional player. Nothing outside his three strong categories is good, and much of it is bad.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p37",
-    "uarqbNA2dFk:p12",
-    "P6TNP-g0wzY:p13"
-   ]
-  },
-  {
-   "text": "An elite rim protector and defensive rebounder.",
-   "kind": "verdict",
-   "date": "2026-08-04",
-   "until": "",
-   "sources": [
-    "_WjOjp6Qu8E:p6"
-   ]
-  },
-  {
-   "text": "His career three-point percentage is 20 to 25%. His steal rate was very low before last season's five games.",
+   "text": "He is below average in points, threes, assists and steals.",
    "kind": "fact",
-   "date": "2026-08-04",
+   "date": "2026-10-06",
    "until": "",
    "sources": [
-    "P6TNP-g0wzY:p15",
-    "_WjOjp6Qu8E:p4"
+    "sFelMKWcqyI:p16",
+    "P6TNP-g0wzY:p13",
+    "eTsjuVu1trk:p21"
    ]
   },
   {
-   "text": "He has had arm or shoulder problems in two of the last three seasons, including shoulder surgery last season.",
+   "text": "His career three-point percentage is 20 to 25%.",
    "kind": "fact",
-   "date": "2026-08-05",
+   "date": "2026-07-02",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:p15"
+   ]
+  },
+  {
+   "text": "An elite rim protector and defensive rebounder, though he may not be able to carry a whole defense on his own.",
+   "kind": "verdict",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "_WjOjp6Qu8E:p6",
+    "sFelMKWcqyI:p12"
+   ]
+  },
+  {
+   "text": "He had arm or shoulder problems in two of the last three seasons, including shoulder surgery after five games last season.",
+   "kind": "fact",
+   "date": "2026-10-06",
    "until": "",
    "sources": [
     "P6TNP-g0wzY:p15",
     "_WjOjp6Qu8E:p5",
-    "CI4k8ofUXXk:p29"
-   ]
-  },
-  {
-   "text": "Because of these arm and shoulder injuries, it is unclear how many minutes his body can handle.",
-   "kind": "verdict",
-   "date": "2026-08-04",
-   "until": "",
-   "sources": [
-    "_WjOjp6Qu8E:p5"
+    "CI4k8ofUXXk:p29",
+    "sFelMKWcqyI:p13"
    ]
   }
  ],
@@ -217,33 +245,35 @@
   {
    "name": "BLK specialist",
    "channel": "durable",
-   "detail": "about 2.6 blocks projected",
+   "detail": "",
    "until": "",
    "sources": [
     "stats",
-    "Rqb5GdrSweY:p6",
-    "_WjOjp6Qu8E:p6"
+    "-DN4P92Wp8Y:p18",
+    "sFelMKWcqyI:p16"
    ],
    "new_meaning": ""
   },
   {
    "name": "REB specialist",
    "channel": "durable",
-   "detail": "about 12 rebounds projected",
+   "detail": "",
    "until": "",
    "sources": [
     "stats",
-    "_WjOjp6Qu8E:p1"
+    "-DN4P92Wp8Y:p18",
+    "sFelMKWcqyI:p16"
    ],
    "new_meaning": ""
   },
   {
    "name": "FG% anchor",
    "channel": "durable",
-   "detail": "about 65% on 7 to 8 attempts",
+   "detail": "",
    "until": "",
    "sources": [
     "stats",
+    "-DN4P92Wp8Y:p18",
     "Rqb5GdrSweY:p6"
    ],
    "new_meaning": ""
@@ -251,12 +281,12 @@
   {
    "name": "FT% liability",
    "channel": "durable",
-   "detail": "projected about 59%",
+   "detail": "",
    "until": "",
    "sources": [
     "stats",
-    "t4n9MAP2_14:p24",
-    "Rqb5GdrSweY:p6"
+    "P6TNP-g0wzY:p13",
+    "t4n9MAP2_14:p24"
    ],
    "new_meaning": ""
   },
@@ -266,19 +296,18 @@
    "detail": "",
    "until": "",
    "sources": [
-    "stats",
-    "P6TNP-g0wzY:p13"
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "no 3PM",
    "channel": "durable",
-   "detail": "career 20 to 25% from three; last season's threes not trusted",
+   "detail": "Career 20 to 25% from three. Experts do not trust last season's five-game threes.",
    "until": "",
    "sources": [
     "P6TNP-g0wzY:p15",
-    "Q6YlQDvD-aY:p37",
+    "eTsjuVu1trk:p21",
     "stats"
    ],
    "new_meaning": ""
@@ -289,29 +318,19 @@
    "detail": "Utah to Lakers",
    "until": "",
    "sources": [
-    "Rqb5GdrSweY:p5",
-    "CI4k8ofUXXk:p29"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "injury last season",
-   "channel": "current",
-   "detail": "five games before shoulder surgery",
-   "until": "",
-   "sources": [
     "CI4k8ofUXXk:p29",
-    "8d--aL_xxwE:p16"
+    "Rqb5GdrSweY:p5"
    ],
    "new_meaning": ""
   },
   {
    "name": "regression risk",
    "channel": "current",
-   "detail": "threes and steals from a five-game sample",
+   "detail": "Gains in threes, steals, assists and FT% came from a five-game sample",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p37",
+    "-DN4P92Wp8Y:p19",
+    "sFelMKWcqyI:p14",
     "QbdrhJd7LiA:p14",
     "uarqbNA2dFk:p11",
     "t4n9MAP2_14:p24"
@@ -321,12 +340,12 @@
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "at Yahoo rank and ADP in the 30s or a 26 USD auction price",
+   "detail": "At Yahoo rank near 38 or a round 3 cost. Experts' fair value is around rank 60.",
    "until": "",
    "sources": [
-    "QbdrhJd7LiA:p14",
-    "uarqbNA2dFk:p11",
-    "J1Eg3uaAICU:p26",
+    "-DN4P92Wp8Y:p19",
+    "sFelMKWcqyI:p17",
+    "sFelMKWcqyI:p18",
     "Q6YlQDvD-aY:p38"
    ],
    "new_meaning": ""
@@ -334,27 +353,55 @@
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo value 24 USD vs ESPN 13 USD; draft spot varies from round 3 to 4",
+   "detail": "Yahoo value 25 USD, ESPN value 12 USD",
    "until": "",
    "sources": [
-    "stats",
-    "_vbAP5y182A:p24"
+    "stats"
    ],
    "new_meaning": ""
   },
   {
-   "name": "thin rotation",
+   "name": "questionable",
    "channel": "current",
-   "detail": "weak backup centers behind him",
+   "detail": "Yahoo Q (finger)",
    "until": "",
    "sources": [
-    "Rqb5GdrSweY:t4",
-    "LM0cRCGoAUQ:t11",
-    "_WjOjp6Qu8E:t5"
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "Five games before shoulder surgery",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:p29",
+    "sFelMKWcqyI:p13"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "Lakers have the second most in the league",
+   "until": "",
+   "sources": [
+    "sFelMKWcqyI:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "3-4-3 games, bottom half of the league",
+   "until": "",
+   "sources": [
+    "sFelMKWcqyI:t5"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Kessler is a strong three-category center: blocks (z +4.3), rebounds (+3.0) and FG% (+2.5). His FT% is a clear liability (-2.8), so he fits punt FT builds best. Yahoo values him at 24 USD (average cost 18.8) and ESPN at 13 USD (8.4). He went for 15 USD in our league last season. The experts say about 15 USD is his ceiling, and a 26 USD price like the one in an auction mock is an overpay. Early in the season, check whether his three-point attempts and steals hold up, and whether his shoulder lets him play full starter minutes.",
+ "note": "Kessler is a true three-category center: elite blocks and rebounds plus a strong FG%, with a FT% that hurts. That makes him a natural fit for punt FT builds. Yahoo values him at 25 USD (average cost 18.2), while ESPN has 12 USD and he went for 15 USD in our league last season. Experts see his five-game 2025-26 gains in threes, steals and assists as noise, so aim for about 12 to 15 USD and let others pay a round 3 price. Early in the season, check his finger (Yahoo Q), whether he keeps taking threes, and whether his steals stay above his old rate of about 0.5 a game.",
  "rejected": []
 }

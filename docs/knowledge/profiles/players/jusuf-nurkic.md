@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 4 | 1.0 | 105 | 0 | 0.2 | 168 | not drafted |
+| 2026-27 | 2 | 1.0 | 115 | 0 | 0.2 | 170 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,41 +20,38 @@
 | FG% | 50.2% | +0.3 | -0.5 | - |
 | FT% | 61.4% | -2.0 | -1.1 | league outlier, weak, weak for his position (punt fit) |
 | 3PM | 0.5 | -1.1 | -0.4 | - |
-| PTS | 10.3 | -0.6 | -0.5 | - |
-| REB | 9.8 | +2.0 | +1.0 | - |
-| AST | 3.7 | +0.3 | +0.9 | - |
+| PTS | 10.3 | -0.7 | -0.5 | - |
+| REB | 9.8 | +2.0 | +0.9 | - |
+| AST | 3.7 | +0.3 | +0.8 | - |
 | STL | 1.1 | +0.4 | +1.1 | - |
 | BLK | 0.7 | +0.3 | -0.6 | - |
-| TO | 2.2 | -0.8 | -1.0 | - |
+| TO | 2.2 | -0.7 | -1.0 | - |
 
 </details>
 
 **Current**
-- In a mock auction he sold for 9 USD. Josh, who is big on him, bid up to 8 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2232))
-- Experts say his market price in the 120s treats him like a backup. They call him a free pick and a strong late-round value who should beat his ADP comfortably. One expert would take him over Collins or Claxton. (verdict, 2026-10-04; [09-14](https://youtu.be/t4n9MAP2_14?t=1992), [09-21](https://youtu.be/egRrai3Ax38?t=862), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1214), [09-15](https://youtu.be/KPdD91Oo8-U?t=1780), [09-30](https://youtu.be/BjXP9JODDSg?t=1951), [10-04](https://youtu.be/n4KkK-OJjqA?t=1148))
-- Walker Kessler is no longer with Utah, which leaves the starting center job open. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=217), [07-02](https://youtu.be/P6TNP-g0wzY?t=963), [07-13](https://youtu.be/Rqb5GdrSweY?t=841), [07-05](https://youtu.be/4kKINkZhWls?t=3919), [10-02](https://youtu.be/ZYllcj4o6_A?t=204), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1176), [07-14](https://youtu.be/xHRF06_E9HE?t=872))
-- Experts expect him to start at center for Utah, ahead of Ace Bailey and Kyle Filipowski. One expert says he is not 100% sure. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=217), [10-02](https://youtu.be/ZYllcj4o6_A?t=204), [09-21](https://youtu.be/egRrai3Ax38?t=862), [09-21](https://youtu.be/egRrai3Ax38?t=859), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1214), [09-15](https://youtu.be/KPdD91Oo8-U?t=1780), [08-05](https://youtu.be/CI4k8ofUXXk?t=473), [08-05](https://youtu.be/CI4k8ofUXXk?t=349), [07-14](https://youtu.be/xHRF06_E9HE?t=779), [07-13](https://youtu.be/Rqb5GdrSweY?t=847), [07-02](https://youtu.be/P6TNP-g0wzY?t=945), [09-19](https://youtu.be/uarqbNA2dFk?t=1203))
-- If he starts, he should return at least top 80 numbers. One expert projects him at 27 minutes. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=217), [09-14](https://youtu.be/t4n9MAP2_14?t=1992))
-- Josh called him a risky pick when he took him in round 10 of a mock draft. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1916))
-- He ranked about 68th as a top-70 player when he started last season, after the Kessler injury. (fact, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1214), [09-15](https://youtu.be/KPdD91Oo8-U?t=1780), [09-14](https://youtu.be/t4n9MAP2_14?t=1992), [08-05](https://youtu.be/CI4k8ofUXXk?t=473))
-- His passing should matter more next to Jaren Jackson Jr. and Kyle Lowry, who do not pass much. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1214), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226))
-- Utah is trying to win this season. Experts say tanking and shutdown fears are misplaced. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [09-10](https://youtu.be/dlo7L8Ru91A?t=973), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [07-14](https://youtu.be/xHRF06_E9HE?t=872))
-- Utah has a crowded frontcourt and added Jaxson Hayes and Mo Bamba. Markkanen, Keyonte George, Jaren Jackson Jr. and Darryn Peterson take much of the usage. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [08-05](https://youtu.be/CI4k8ofUXXk?t=196), [06-25](https://youtu.be/lOshTzDA4SA?t=541))
-- He re-signed with Utah for 2 years and 22 million. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1146))
+- He is out with plantar fasciitis and a toe issue in his foot. The injury is expected to keep him out at least four weeks. (fact, 2026-10-08, until at least four weeks from 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=430), [10-08](https://youtu.be/WXO8MfQfzo0?t=1779))
+- Because of the foot injury, experts no longer want him as a late-round pick or a starter-level flyer. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=430), [10-08](https://youtu.be/WXO8MfQfzo0?t=1779))
+- Jaxson Hayes started at center in the preseason because Utah does not want Jaren Jackson Jr. playing much center. Kyle Filipowski is back in the rotation. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=446))
+- He re-signed with Utah for 2 years and 22 million USD. Walker Kessler is no longer on the team, which leaves the starting center job open. (fact, 2026-10-02; [07-01](https://youtu.be/W3THnI7wWdA?t=1146), [10-02](https://youtu.be/ZYllcj4o6_A?t=204), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1176))
+- When healthy, experts expect him to be Utah's starting center, though not all are sure he wins the job over Ace Bailey. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=217), [09-21](https://youtu.be/egRrai3Ax38?t=862), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1214), [08-05](https://youtu.be/CI4k8ofUXXk?t=473), [07-14](https://youtu.be/xHRF06_E9HE?t=779), [07-13](https://youtu.be/Rqb5GdrSweY?t=841))
+- If he starts, one expert expects at least top 80 numbers. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=217))
+- He was about a top 70 player last season and played very well as a starter after Kessler got hurt. (fact, 2026-09-17; [09-14](https://youtu.be/t4n9MAP2_14?t=1992), [09-15](https://youtu.be/KPdD91Oo8-U?t=1780), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1214), [08-05](https://youtu.be/CI4k8ofUXXk?t=473))
+- His passing should matter more in Utah because Jaren Jackson Jr. and Kyle Lowry are not good passers. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1214), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226))
+- Utah plans to win this season, not tank, so experts see little risk of late-season shutdowns or cut minutes. (verdict, 2026-09-17; [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [09-10](https://youtu.be/dlo7L8Ru91A?t=973), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [09-21](https://youtu.be/egRrai3Ax38?t=859))
 
 **Durable**
-- His FT% is far below the league and hurts a team's FT%. (fact, 2026-10-05; stats, [07-02](https://youtu.be/P6TNP-g0wzY?t=955))
-- He is not a high-usage player. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=191))
-- He has a long history of knee, leg and other lower-body injuries. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=467), [07-14](https://youtu.be/xHRF06_E9HE?t=781), [07-02](https://youtu.be/P6TNP-g0wzY?t=955))
-- Experts say his health record makes him hard to trust. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=467), [07-14](https://youtu.be/xHRF06_E9HE?t=781))
-- He rebounds well and is a good passer for a center. (fact, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=955), stats)
+- His FT% is a clear weakness, even for a center, so he fits punt FT% builds. (fact, 2026-10-11; stats)
+- He is not a high-usage player. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=191))
+- He has a long history of knee, leg and other lower-body injuries. Experts do not see him as a reliable or healthy player. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=467), [07-14](https://youtu.be/xHRF06_E9HE?t=781), [07-02](https://youtu.be/P6TNP-g0wzY?t=955))
+- He rebounds well, passes well for a center and protects the rim. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=955))
 
 **Tags**
-- Current: `role up` (projected starting center after Kessler left), `minutes competition` (Ace Bailey for the fifth starter spot; Hayes and Bamba in a crowded frontcourt), `usage competition` (Markkanen, George, Jackson Jr. and Peterson take most touches), `sleeper` (market prices him like a backup in the 120s), `expert target` (Josh is big on him; top 80 upside if he starts), `sites disagree on price` (Yahoo rank 105, ESPN rank 168), `low shutdown risk` (Utah is trying to win, not tanking)
-- Durable: `FT% liability` (about 61% projected FT), `punt FT fit` (FT% is his only weak category), `injury prone` (knee, leg and other lower-body injuries)
+- Current: `injured now` (plantar fasciitis and toe issue in his foot, Yahoo status O; until at least four weeks from 2026-10-08), `minutes competition` (Jaxson Hayes started at center in the preseason; Ace Bailey and Kyle Filipowski are also options), `low shutdown risk` (Utah is trying to win this season)
+- Durable: `injury prone` (repeated knee, leg and other lower-body injuries), `FT% liability` (about 61% projected), `punt FT fit`
 
-**Note.** Yahoo ranks him 105 (4 USD value, 1.0 USD average cost) and ESPN ranks him 168, so he sits near the end of our 144-player pool. Experts see top 70 to 80 upside as Utah's starter, and one mock auction went to 9 USD. He is a cheap center for punt FT% builds, giving rebounds, assists and steals for a big, but his injury history makes a few dollars above Yahoo's value the sensible limit. Early in the season, check that he starts over Ace Bailey, plays close to the projected 27 minutes and stays healthy.
+**Note.** Before his foot injury he was a popular late-round value pick. Now he is ranked 115 on Yahoo (2 USD) and 170 on ESPN (0 USD), and he went undrafted in our league last season. He is out at least four weeks, and experts have dropped him as a late-round target, so let him go undrafted in our 144-player auction. Watch two things early on waivers: when he gets back, and whether Jaxson Hayes keeps the starting center job. As a starter he can return about top 80 value for punt FT% builds that want rebounds and passing from a center.
 
 <sub>Tags removed by the category check: AST from a big (not a F/C with AST z >= +1.5 vs position).</sub>
 
-<sub>19 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>21 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

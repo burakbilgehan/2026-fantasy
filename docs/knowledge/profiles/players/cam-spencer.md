@@ -9,7 +9,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 233 | 0 | 0.0 | 143 | not drafted |
+| 2026-27 | 0 | - | 226 | 0 | 0.1 | 143 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -17,31 +17,32 @@
 |---|---|---|---|---|
 | FG% | 45.2% | -0.4 | +0.1 | - |
 | FT% | 91.7% | +0.9 | +0.6 | - |
-| 3PM | 1.8 | +0.4 | +0.0 | - |
-| PTS | 10.2 | -0.6 | -0.7 | - |
+| 3PM | 1.8 | +0.4 | -0.0 | - |
+| PTS | 10.2 | -0.7 | -0.7 | - |
 | REB | 2.5 | -1.1 | -0.9 | - |
 | AST | 5.2 | +1.0 | +0.7 | - |
 | STL | 0.7 | -0.7 | -0.9 | - |
-| BLK | 0.1 | -1.0 | -1.0 | - |
+| BLK | 0.1 | -1.0 | -1.1 | - |
 | TO | 1.3 | +0.5 | +0.7 | - |
 
 </details>
 
 **Current**
-- He is not a draft target in a 144-player league. At most he is a 1 USD late pick. He is more of a waiver watch if he wins steady backup guard minutes. (verdict, 2026-10-04; stats, [07-16](https://youtu.be/-y6p5PYLf00?t=564))
-- Memphis has a crowded guard group: Javon Small, Ty Jerome, Scotty Pippen Jr., Facundo Campazzo and Spencer. Ty Jerome is expected to start at point guard, and Joe's projected starting five does not include Spencer. (fact, 2026-08-17; [07-16](https://youtu.be/-y6p5PYLf00?t=564), [07-16](https://youtu.be/-y6p5PYLf00?t=557), [07-17](https://youtu.be/NYTH7uQsPCM?t=1672), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483))
-- Coach Tuomas Iisalo runs an 11-man rotation with short stints and keeps minutes down. Joe expects only Cameron Boozer and Cedric Coward to top 30 minutes. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
-- Last season he shot under 36% from three and 64% at the rim. Both were down from his rookie season (45% and 73%). (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=564))
-- His minutes are uncertain. Last season he gained from absences in Memphis, and the guard group is now crowded. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=564))
+- Ty Jerome has started both preseason games at point guard. (fact, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1780), [10-07](https://youtu.be/lp11OAEpq4Y?t=867))
+- Spencer is projected to come off the bench. The projected bench is Pippen, Wells, Stewart, GG Jackson and Spencer. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1812))
+- Memphis is expected to use an 11 or 12 man rotation with short stints, which limits bench minutes. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=296), [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- He needs many players out of the way to matter in fantasy. Part of his value last season came from absences in Memphis. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1540), [07-16](https://youtu.be/-y6p5PYLf00?t=564))
+- Memphis has 4 games in each of our playoff weeks through March 28 and only 13 back-to-backs, possibly the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1987))
+- The Memphis guard group is crowded with Javon Small, Ty Jerome, Scotty Pippen Jr. and Campazzo, so his minutes are uncertain. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=564), [07-16](https://youtu.be/-y6p5PYLf00?t=557))
 
 **Durable**
-- His category profile leans on FT% and assists, with few turnovers for his role. He is weak in rebounds, steals and blocks, but none of these is a league outlier. (fact, 2026-10-04; stats)
-- Joe calls him one of the most efficient mid-range and three-point shooters among NBA wings. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1147))
+- He is a low-usage passer who adds assists and threes without many shots. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1540))
+- Experts rate him as a very efficient mid-range and three-point shooter, but on low volume. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1540), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1147))
 
 **Tags**
-- Current: `minutes competition` (Crowded Memphis guard group: Javon Small, Ty Jerome, Scotty Pippen Jr., Campazzo; Jerome expected to start at PG), `waiver watch` (Ranked outside the 144 drafted players on Yahoo; watch for steady backup guard minutes), `sites disagree on price` (Yahoo rank 233, ESPN rank 143)
+- Current: `minutes competition` (Crowded guard group with Jerome, Small, Pippen Jr. and Campazzo; projected bench role), `deep rotation` (Iisalo runs an 11 or 12 man rotation with short stints), `waiver watch` (Matters only if injuries clear the Memphis guard group), `good playoff schedule` (4-4-4 in weeks 19 to 21 with a March 28 end), `few back-to-backs` (Memphis has 13 back-to-backs)
 - Durable: none
 
-**Note.** Both sites put his value at 0 USD (Yahoo rank 233, ESPN rank 143), and nobody drafted him in our league last season. Skip him in the auction or spend at most 1 USD on him as a final bench spot. His 94% FT on low volume, 5.6 assists and 1.3 turnovers in 23.8 minutes last season could help a guard-heavy build, but only if he gets the minutes. In the first weeks, check whether Iisalo's 11-man rotation gives him steady backup guard minutes behind Ty Jerome, and whether his three-point shooting recovers.
+**Note.** Both Yahoo and ESPN put his value at 0 USD (Yahoo rank 226, ESPN rank 143). With 144 players drafted, he is not a draft target in our league. Last season he played 23.8 minutes and averaged 5.6 assists and 2.0 threes at 94% FT, but he projects as a bench guard behind Jerome in a deep, short-stint rotation. Leave him on waivers and watch Memphis guard injuries early. If he gets starter minutes, his assists, threes, FT% and low turnovers fit guard-heavy builds, and Memphis has a full 4-4-4 playoff schedule.
 
-<sub>2 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

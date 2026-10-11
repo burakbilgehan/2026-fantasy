@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 178 | 2 | 0.3 | 115 | not drafted |
+| 2026-27 | 0 | 0.0 | 176 | 2 | 0.4 | 116 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,7 +21,7 @@
 | FT% | 42.5% | -2.8 | -1.8 | league outlier, weak, weak for his position (punt fit) |
 | 3PM | 0.0 | -1.7 | -1.1 | league outlier, weak |
 | PTS | 6.5 | -1.3 | -1.1 | weak for his position (punt fit) |
-| REB | 9.7 | +2.0 | +0.9 | - |
+| REB | 9.7 | +1.9 | +0.9 | - |
 | AST | 1.0 | -1.2 | -0.9 | - |
 | STL | 1.1 | +0.5 | +1.2 | - |
 | BLK | 1.3 | +1.5 | +0.4 | - |
@@ -30,28 +30,26 @@
 </details>
 
 **Current**
-- Boston has 16 back-to-backs, tied for the most in the league. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1837), [08-16](https://youtu.be/gf_6GveiAls?t=901))
-- Experts expect Neemias Queta to start at center and Robinson to come off the bench. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [07-30](https://youtu.be/TiiaNZCJNs8?t=1798), [07-07](https://youtu.be/ME-r173X5b0?t=410), [07-16](https://youtu.be/-y6p5PYLf00?t=2070))
-- He is projected to play only 55 to 60 games at about 22 minutes. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1769))
-- He is expected to sit every back-to-back, and the heavy Boston back-to-back schedule hits him harder than most players. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1853), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1837))
-- Boston plays 4, 3 and 4 games in fantasy playoff weeks 19 to 21, one game short of the maximum, and has three back-to-backs in that window. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1816), [08-16](https://youtu.be/gf_6GveiAls?t=901))
-- Do not spend a draft pick on him at his Yahoo ADP of 108. He is a category-league streamer, but check his back-to-backs before streaming him. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1249))
-- He is a good stash in formats that allow it, because he might win the starting job or Queta might get hurt. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1769))
-- One expert projects about 30% from the free throw line and about 6 points per game this season. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=2313))
-- He joined Boston this offseason. (fact, 2026-07-30; [07-02](https://youtu.be/P6TNP-g0wzY?t=272), [07-30](https://youtu.be/TiiaNZCJNs8?t=342))
+- Boston has 16 back-to-backs, tied for the most in the league. (fact, 2026-09-26; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1837), [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=901))
+- Most experts expect Neemias Queta to start at center and Robinson to come off the bench. Karalis picked Robinson to start but admitted Queta will probably start. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [07-30](https://youtu.be/TiiaNZCJNs8?t=1798), [07-16](https://youtu.be/-y6p5PYLf00?t=2070), [07-07](https://youtu.be/ME-r173X5b0?t=410))
+- He is projected for only 55 to 60 games at about 22 minutes per game. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1769))
+- He is expected to sit every back-to-back, so Boston's heavy back-to-back schedule hits him harder than most players. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1853), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1837))
+- Boston plays 4, 3 and 4 games in our playoff weeks 19 to 21, one game short of the maximum, with three back-to-backs in that window. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1816), [08-16](https://youtu.be/gf_6GveiAls?t=901))
+- Boston's rotation is very deep, with at least 12 rotation-level players, so bench minutes are spread thin. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133))
+- Do not spend a draft pick on him at his Yahoo ADP of 108. Treat him as a category-league streamer and check his back-to-backs first. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1249))
+- He is a good stash where stashing is easy, because he might win the starting job or Queta might get hurt. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1769))
 
 **Durable**
-- His value comes from FG%, rebounds and blocks. His blocks have dropped off. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1240), [09-15](https://youtu.be/KPdD91Oo8-U?t=2313), [07-02](https://youtu.be/P6TNP-g0wzY?t=1955), stats)
-- He has a history of ankle problems and missed games. His minutes are limited by his ankles and by foul trouble. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=386), [07-30](https://youtu.be/TiiaNZCJNs8?t=1054), [07-02](https://youtu.be/P6TNP-g0wzY?t=1955))
-- He does not play back-to-backs. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=386))
-- He has no shooting range, makes no threes and scores very little. (fact, 2026-09-15; [07-30](https://youtu.be/TiiaNZCJNs8?t=1054), [09-15](https://youtu.be/KPdD91Oo8-U?t=2313), stats)
-- He is a very poor free throw shooter and one of the worst FT% impact players in the league. (fact, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=1054), [07-07](https://youtu.be/ME-r173X5b0?t=2750), stats)
-- He gives vertical spacing as a pick-and-roll lob threat and a dunker-spot big. (fact, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=1103))
+- His value comes from FG%, rebounds and blocks only, in limited minutes. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1240), [09-15](https://youtu.be/KPdD91Oo8-U?t=2313), [07-02](https://youtu.be/P6TNP-g0wzY?t=1955), stats)
+- Ankle problems and foul trouble limit his minutes, and he has a history of missed games. He cannot play back-to-backs. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=386), [07-30](https://youtu.be/TiiaNZCJNs8?t=1054), [07-02](https://youtu.be/P6TNP-g0wzY?t=1955))
+- He has no shooting range, makes no threes and scores only about 6 points per game. (fact, 2026-09-15; [07-30](https://youtu.be/TiiaNZCJNs8?t=1054), [09-15](https://youtu.be/KPdD91Oo8-U?t=2313), stats)
+- He plays as a pick-and-roll lob threat and dunker-spot big who gives vertical spacing. (fact, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=1103))
+- He is one of the worst free throw shooters in the league. His 40.8% last season was the worst among top 200 players and one of the worst FT impacts. (fact, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=2750), [07-30](https://youtu.be/TiiaNZCJNs8?t=1054), [09-15](https://youtu.be/KPdD91Oo8-U?t=2313), stats)
 
 **Tags**
-- Current: `back-to-back risk` (expected to sit all of Boston's 16 back-to-backs), `minutes competition` (Neemias Queta expected to start at center), `handcuff` (backup to Neemias Queta), `new team` (joined Boston this offseason), `waiver watch` (category-league streamer, check back-to-backs), `bad playoff schedule` (4-3-4 games but three back-to-backs in weeks 19 to 21, which he is expected to sit), `sites disagree on price` (Yahoo rank 178 and 0 USD, ESPN rank 115 and 2 USD)
-- Durable: `FT% liability` (about 42% FT projected, among the worst FT impact players), `no 3PM` (no shooting range), `punt FT fit`, `punt PTS fit` (about 6 points per game), `injury prone` (chronic ankle problems), `load management` (does not play back-to-backs)
+- Current: `back-to-back risk` (Expected to sit every back-to-back), `many back-to-backs` (Boston has 16, tied for the most), `bad playoff schedule` (Three back-to-backs in weeks 19 to 21, and he sits them), `minutes competition` (Neemias Queta for the starting center job), `handcuff` (Behind Neemias Queta), `waiver watch` (Category-league streamer on days without back-to-backs), `deep rotation`, `new team` (Joined Boston), `sites disagree on price` (Yahoo rank 176, ESPN rank 116)
+- Durable: `FT% liability` (About 41% projected on about 2 attempts per game), `punt FT fit`, `punt PTS fit` (About 6 points per game), `no 3PM`, `injury prone` (Recurring ankle problems), `foul prone`, `load management` (Cannot play back-to-backs)
 
-**Note.** Robinson is a fringe pick for us. Yahoo values him at 0 USD (rank 178) and ESPN at 2 USD (rank 115), our league did not draft him last season, and with Queta likely starting and every back-to-back expected off, he is closer to a stream or a stash than a draft target. He only fits punt FT% builds, where his projected 70.5% FG%, 9.7 rebounds and 1.3 blocks help and his 42.5% FT% costs nothing. Early in the season, check who starts at center in Boston, his minutes (ESPN projects 25.4) and whether he really sits every back-to-back, because Boston has three of them in our playoff weeks.
+**Note.** Yahoo ranks him 176th with a value of 0 USD. ESPN has him 116th at 2 USD. Both sit near or past our 144-player draft pool, so he is at most a 1 USD final pick for a punt FT% team that wants FG%, rebounds and blocks. A better plan is to leave him on waivers and stream him on days when Boston does not play a back-to-back. Early in the season, check whether he or Queta starts and whether his minutes rise above about 22. A Queta injury would make him a quick pickup.
 
-<sub>14 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>14 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

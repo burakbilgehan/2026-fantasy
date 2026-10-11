@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "d500e6faf3b9",
- "note_count": 9,
- "built_at": "2026-10-05T19:55:16+00:00",
+ "input_sha": "142ea8c421d9",
+ "note_count": 10,
+ "built_at": "2026-10-11T09:19:41+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.16300219999999999,
-  "duration_ms": 43552,
+  "cost_usd_list": 0.1880102,
+  "duration_ms": 55297,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Mitchell Robinson is gone and Andre Drummond replaces him. The projected starters are Brunson, Bridges, Hart, Anunoby and Towns, and little double-big use is expected.",
+   "text": "Andre Drummond has replaced Mitchell Robinson in New York. Towns is a projected starter next to Brunson, Bridges, Hart and Anunoby, and little double-big use is expected.",
    "kind": "fact",
    "date": "2026-08-13",
    "until": "",
@@ -31,7 +31,7 @@
    ]
   },
   {
-   "text": "Experts expect Robinson's absence to help his rebounds and possibly his FG%. His rebounds dropped when he played next to Robinson.",
+   "text": "Without Mitchell Robinson next to him, his rebounds and FG% may go up. His rebounds fell last season while he played next to Robinson.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
@@ -42,57 +42,54 @@
    ]
   },
   {
-   "text": "The Knicks won the championship. Towns is 30 and comes off a long Finals run.",
-   "kind": "fact",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "t4n9MAP2_14:p5",
-    "LM0cRCGoAUQ:t6",
-    "ZAyie8lKyYc:t8"
-   ]
-  },
-  {
-   "text": "Under coach Mike Brown, Towns plays fewer minutes than he did under Thibodeau, and the bench gets more minutes.",
+   "text": "Coach Mike Brown gives Towns fewer minutes than Thibodeau did, and he plays his bench more instead of overworking the starters.",
    "kind": "fact",
    "date": "2026-07-07",
    "until": "",
    "sources": [
     "ME-r173X5b0:t5",
-    "ME-r173X5b0:p18",
     "HxQjagSTTAM:t5"
    ]
   },
   {
-   "text": "Experts expect the Knicks to be careful with his minutes after the Finals run. That means trimmed starter minutes, more rest on back-to-backs and about 31 minutes per game. They also see a small rise in injury risk from a championship hangover.",
+   "text": "After the long Finals run, the Knicks are expected to protect his minutes. Over about the first 30 games, they should trim starters' minutes and rest them more on back-to-backs.",
    "kind": "verdict",
    "date": "2026-09-22",
    "until": "about the first 30 games",
    "sources": [
     "okN3fbHJtlA:t1",
-    "LM0cRCGoAUQ:t6",
-    "LM0cRCGoAUQ:p11",
     "E-KmhvyZ2CU:p8",
-    "t4n9MAP2_14:p5",
-    "QbdrhJd7LiA:t3",
+    "LM0cRCGoAUQ:p11",
+    "LM0cRCGoAUQ:t6",
     "W-R1dzem32s:t5",
+    "QbdrhJd7LiA:t3"
+   ]
+  },
+  {
+   "text": "One projection has him at only 31 minutes. Experts warn of a championship hangover: a minute or two less per game and a small rise in injury risk.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p5",
     "dlo7L8Ru91A:t4",
     "7BllEsdNLoM:t8"
    ]
   },
   {
-   "text": "Experts think he may take a step back from last season. They rank him about 19th in 9-cat, call his pick 15 to 17 price too high and would not take him in the first round.",
+   "text": "Experts think his market price is too high. He may take a step back from last season. He is ranked 19th in 9-cat and is not seen as a first-round player. One expert said picks 15 to 17 are too early, and an auction expert valued him at 30-plus USD.",
    "kind": "verdict",
-   "date": "2026-09-16",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
+    "Q6YlQDvD-aY:p22",
     "2A2JbUN-kc0:p19",
     "t4n9MAP2_14:p5",
     "LM0cRCGoAUQ:p11"
    ]
   },
   {
-   "text": "In an expert auction mock, Josh valued him at 30 USD or more. He sold for 36 USD.",
+   "text": "In a recent auction mock draft he went for 36 USD.",
    "kind": "fact",
    "date": "2026-10-05",
    "until": "",
@@ -112,7 +109,34 @@
  ],
  "durable": [
   {
-   "text": "He has a history of lower body problems, including knee issues.",
+   "text": "Rebounds are his clear outlier category, far above the top 250 pool.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He commits many turnovers for a big, which makes TO his weakest category.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He makes more threes than most bigs.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He has a history of lower-body problems, including knee issues.",
    "kind": "fact",
    "date": "2026-09-14",
    "until": "",
@@ -123,39 +147,13 @@
    ]
   },
   {
-   "text": "He showed some signs of declining athleticism in the regular season but looked good in the playoffs.",
+   "text": "At age 30 he showed some signs of declining athleticism in the regular season, though he looked good in the playoffs.",
    "kind": "verdict",
-   "date": "2026-08-13",
+   "date": "2026-09-14",
    "until": "",
    "sources": [
-    "okN3fbHJtlA:p8"
-   ]
-  },
-  {
-   "text": "Rebounds are his standout category, far above the top 250 pool.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He gives a strong FT% on good volume and real threes for a big.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "His turnovers are high for his position, so the TO category is his weak spot.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "stats"
+    "okN3fbHJtlA:p8",
+    "t4n9MAP2_14:p5"
    ]
   }
  ],
@@ -163,114 +161,126 @@
   {
    "name": "REB specialist",
    "channel": "durable",
-   "detail": "About 11 to 12 rebounds per game",
+   "detail": "about 11.3 rebounds per game projected",
+   "until": "",
    "sources": [
     "stats"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "punt TO fit",
    "channel": "durable",
-   "detail": "About 2.5 turnovers per game, high for a big",
+   "detail": "about 2.5 turnovers per game, high for a big",
+   "until": "",
    "sources": [
     "stats"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "3PM from a big",
    "channel": "durable",
-   "detail": "About 1.5 to 2 threes per game as a F,C",
+   "detail": "1.5 to 2.2 threes per game in recent seasons",
+   "until": "",
    "sources": [
     "stats"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "injury prone",
    "channel": "durable",
-   "detail": "Repeated lower body and knee issues",
+   "detail": "repeated lower-body issues, including knees",
+   "until": "",
    "sources": [
     "okN3fbHJtlA:p8",
     "LM0cRCGoAUQ:p11",
     "E-KmhvyZ2CU:p8"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "age decline watch",
    "channel": "durable",
-   "detail": "Age 30, some signs of declining athleticism",
+   "detail": "age 30, some signs of declining athleticism",
+   "until": "",
    "sources": [
     "okN3fbHJtlA:p8",
     "t4n9MAP2_14:p5"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "minutes limit",
    "channel": "current",
-   "detail": "Projected at about 31 minutes, with trimmed starter minutes after the Finals run",
+   "detail": "minutes expected to be trimmed after the long Finals run, projected around 31",
+   "until": "about the first 30 games",
    "sources": [
     "okN3fbHJtlA:t1",
     "t4n9MAP2_14:p5",
     "LM0cRCGoAUQ:p11",
-    "LM0cRCGoAUQ:t6"
+    "E-KmhvyZ2CU:p8"
    ],
-   "until": "about the first 30 games",
    "new_meaning": ""
   },
   {
    "name": "slow start",
    "channel": "current",
-   "detail": "The Knicks are expected to be conservative early after the Finals run",
+   "detail": "Knicks expected to be conservative early after the Finals run",
+   "until": "about the first 30 games",
    "sources": [
     "okN3fbHJtlA:t1",
     "E-KmhvyZ2CU:p8"
    ],
-   "until": "about the first 30 games",
    "new_meaning": ""
   },
   {
    "name": "back-to-back risk",
    "channel": "current",
-   "detail": "More rest on back-to-backs expected early",
+   "detail": "more rest on back-to-backs expected early in the season",
+   "until": "about the first 30 games",
    "sources": [
     "okN3fbHJtlA:t1"
    ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low starter minutes",
+   "channel": "current",
+   "detail": "Knicks expected to trim starters' minutes after the Finals run",
    "until": "about the first 30 games",
+   "sources": [
+    "okN3fbHJtlA:t1",
+    "LM0cRCGoAUQ:t6",
+    "W-R1dzem32s:t5",
+    "QbdrhJd7LiA:t3"
+   ],
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "Experts call his pick 15 to 17 price too high",
+   "detail": "experts say picks 15 to 17 or a first-round price is too high",
+   "until": "",
    "sources": [
     "t4n9MAP2_14:p5",
     "LM0cRCGoAUQ:p11",
     "2A2JbUN-kc0:p19"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "Defending champions, projected at 50 to 54 wins",
-   "sources": [
-    "okN3fbHJtlA:t1",
-    "ZAyie8lKyYc:t8"
-   ],
+   "detail": "Knicks are the defending champions, projected at 50 to 54 wins",
    "until": "",
+   "sources": [
+    "okN3fbHJtlA:t1"
+   ],
    "new_meaning": ""
   }
  ],
- "note": "Yahoo values him at 41 USD and ESPN drafters pay about 34.5 USD. Our league paid 46 USD for him last season. The experts put him at 30 USD or more and a mock auction sold him for 36 USD, so stop bidding in the mid 30s. His rebounds, FT% from a big and threes fit most builds, and they fit punt TO best. In the first 30 or so games, check his minutes (about 31 projected), his rest on back-to-backs, and whether his rebounds rise now that Robinson is gone.",
+ "note": "Our league paid 46 USD for him last season. Yahoo puts his value at 41 USD and ESPN at 37, but the experts value him at 30-plus USD, and in a recent mock he went for 36. Aim for the mid-30s and do not chase him into the 40s. His elite rebounds, good FT% for a big and threes make him a strong fit for punt TO builds. Early in the season, check his minutes during the cautious first 30 or so games and whether his rebounds go up without Mitchell Robinson.",
  "rejected": []
 }

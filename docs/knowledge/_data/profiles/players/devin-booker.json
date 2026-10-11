@@ -8,20 +8,29 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "32b633777503",
- "note_count": 11,
- "built_at": "2026-10-05T19:48:05+00:00",
+ "input_sha": "db4761ba333f",
+ "note_count": 14,
+ "built_at": "2026-10-11T09:15:51+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.20273759999999996,
-  "duration_ms": 43166,
-  "turns": 3,
+  "cost_usd_list": 0.17137819999999998,
+  "duration_ms": 42491,
+  "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Phoenix calls Jalen Green its point guard and wants to lower Booker's ballhandling load and make spacing easier for him.",
+   "text": "Yahoo lists him as questionable for rest.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Phoenix says Jalen Green is the point guard. The team wants to reduce Booker's ballhandling load and make spacing easier for him.",
    "kind": "fact",
    "date": "2026-09-10",
    "until": "",
@@ -31,7 +40,7 @@
    ]
   },
   {
-   "text": "Josh expects Booker to stay the de facto point guard anyway, with about 32% usage and good assists.",
+   "text": "Josh still expects Booker to be the de facto point guard with about 32% usage. That should keep his assists good.",
    "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
@@ -41,8 +50,19 @@
    ]
   },
   {
-   "text": "Jalen Green, Miles Bridges, Dillon Brooks and Collin Gillespie will all want touches, so Booker shares the ball.",
+   "text": "He starts next to Jalen Green, Dillon Brooks and Miles Bridges. These four are expected to take most of Phoenix's minutes and usage.",
    "kind": "fact",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "hm5-fiCa5S4:t0",
+    "-DN4P92Wp8Y:t7",
+    "uarqbNA2dFk:t1"
+   ]
+  },
+  {
+   "text": "Experts expect Jalen Green and Miles Bridges to take touches from him.",
+   "kind": "verdict",
    "date": "2026-09-19",
    "until": "",
    "sources": [
@@ -51,40 +71,45 @@
    ]
   },
   {
-   "text": "Experts see him as about round 4 value, or low 20s USD in an auction. His site ranks (Yahoo about 24, ESPN about 18) are too high. They do not expect a full bounce back or a jump into the top 20.",
+   "text": "Experts do not expect a big bounce back. They project a season close to last year's finish, around 40th in categories, and doubt he is still a top 20 player.",
    "kind": "verdict",
-   "date": "2026-10-05",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p44",
-    "uarqbNA2dFk:p4",
+    "-DN4P92Wp8Y:p3",
+    "-DN4P92Wp8Y:p4",
+    "eTsjuVu1trk:p37",
     "QbdrhJd7LiA:p34",
     "7BllEsdNLoM:p22"
    ]
   },
   {
-   "text": "In a 2026-10-05 auction mock he went for 22 USD. Josh called that a good price but is not very interested in him.",
-   "kind": "fact",
-   "date": "2026-10-05",
+   "text": "Experts say his rank around 23 is too high and that he should not go in round one. They value him at about a round four pick. In an auction mock he went for 22 USD, and Josh called that a good price.",
+   "kind": "verdict",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p44"
+    "-DN4P92Wp8Y:p3",
+    "eTsjuVu1trk:p37",
+    "Q6YlQDvD-aY:p44",
+    "uarqbNA2dFk:p4"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is an elite free throw shooter on high volume, so he lifts a team's FT% clearly.",
+   "text": "He is an elite free throw shooter on high volume, about 7 to 8 attempts per game, so he lifts a team's FT% clearly.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-09-10",
    "until": "",
    "sources": [
     "stats",
-    "W-R1dzem32s:p23"
+    "W-R1dzem32s:p23",
+    "8d--aL_xxwE:p13"
    ]
   },
   {
-   "text": "Josh warns that a random drop in his FT% to about 81% in any season would not be crazy.",
+   "text": "Josh notes that even a shooter at about 89% from the line could have a random drop to around 81% in a season.",
    "kind": "verdict",
    "date": "2026-08-09",
    "until": "",
@@ -93,30 +118,39 @@
    ]
   },
   {
-   "text": "His scoring is a league outlier.",
+   "text": "Points are a league outlier strength, and he also gives good assists for a guard.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He commits many turnovers, which hurts the TO category.",
+   "text": "Turnovers are his weak category, at about 3 per game. That is high even for a guard.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "His field goal percentage is weak, and he does not give enough threes, steals or blocks.",
+   "text": "Josh calls his FG% weak and says he does not give enough threes, steals or blocks.",
    "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
    "sources": [
     "W-R1dzem32s:p23"
+   ]
+  },
+  {
+   "text": "Ben calls him an average defender. He is not a net negative, but he is not a good defender either.",
+   "kind": "verdict",
+   "date": "2026-08-23",
+   "until": "",
+   "sources": [
+    "hm5-fiCa5S4:p2"
    ]
   }
  ],
@@ -124,18 +158,19 @@
   {
    "name": "FT% anchor",
    "channel": "durable",
-   "detail": "About 88% on about 7 to 8 attempts per game",
+   "detail": "about 88% on 7 to 8 attempts per game",
    "until": "",
    "sources": [
     "stats",
-    "W-R1dzem32s:p23"
+    "W-R1dzem32s:p23",
+    "8d--aL_xxwE:p13"
    ],
    "new_meaning": ""
   },
   {
    "name": "PTS specialist",
    "channel": "durable",
-   "detail": "About 27 points per game projected",
+   "detail": "about 26 to 27 points per game",
    "until": "",
    "sources": [
     "stats"
@@ -145,7 +180,7 @@
   {
    "name": "high TO",
    "channel": "durable",
-   "detail": "About 3 turnovers per game",
+   "detail": "about 3 turnovers per game",
    "until": "",
    "sources": [
     "stats"
@@ -155,7 +190,7 @@
   {
    "name": "punt TO fit",
    "channel": "durable",
-   "detail": "",
+   "detail": "turnovers are his weakest category",
    "until": "",
    "sources": [
     "stats"
@@ -165,29 +200,42 @@
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Jalen Green, Miles Bridges, Dillon Brooks and Collin Gillespie",
+   "detail": "Jalen Green, Miles Bridges and Dillon Brooks take touches",
    "until": "",
    "sources": [
     "uarqbNA2dFk:p4",
-    "uarqbNA2dFk:t1"
+    "uarqbNA2dFk:t1",
+    "-DN4P92Wp8Y:t7"
    ],
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "Experts see round 4 value against Yahoo rank 24 and ESPN rank 18",
+   "detail": "experts call a rank around 23 and an ESPN category rank of 8 too high; they value him around round 4 or the low 20s USD",
    "until": "",
    "sources": [
+    "-DN4P92Wp8Y:p3",
+    "eTsjuVu1trk:p37",
     "uarqbNA2dFk:p4",
-    "QbdrhJd7LiA:p34"
+    "Q6YlQDvD-aY:p44"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q (Rest)",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo value 32 USD, ESPN value 16 USD",
+   "detail": "Yahoo value 31 USD, ESPN value 17 USD",
    "until": "",
    "sources": [
     "stats"
@@ -195,6 +243,6 @@
    "new_meaning": ""
   }
  ],
- "note": "He went for 45 USD in our league last season. Yahoo values him at 32 USD and ESPN at 16 USD, while the experts put him at about round 4 value, or low 20s USD (22 USD in a mock). Do not pay much above 25 USD. He fits best in a punt TO build, where his elite FT% on volume and his points help the most. Early in the season, check whether he or Jalen Green runs the offense, because his assists depend on it.",
+ "note": "He cost 45 USD in our league last season. The Yahoo value is 31 USD and the ESPN value is 17 USD, and the experts set his price around the low 20s USD (a mock went for 22 USD), so do not pay anything near last year's price. He is best in a punt TO build, where his points, FT% and assists count fully and his roughly 3 turnovers a game matter little. Early in the season, check whether he or Jalen Green runs the offense, since that drives his assists, and watch his rest status (Yahoo Q).",
  "rejected": []
 }

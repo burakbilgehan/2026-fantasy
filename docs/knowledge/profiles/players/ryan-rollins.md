@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 17 | 2.6 | 62 | 2 | 1.6 | 105 | not drafted |
+| 2026-27 | 17 | 2.0 | 60 | 2 | 2.2 | 104 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -25,31 +25,33 @@
 | AST | 5.2 | +1.0 | +0.7 | - |
 | STL | 1.4 | +1.3 | +1.0 | - |
 | BLK | 0.4 | -0.4 | +0.2 | - |
-| TO | 2.5 | -1.2 | -0.9 | - |
+| TO | 2.5 | -1.1 | -0.9 | - |
 
 </details>
 
 **Current**
-- Milwaukee's backcourt is crowded. Tyler Herro, Kevin Porter Jr., Kasparas Jakucionis, Braden Burries, Gary Trent Jr. and Green all compete with Rollins for guard minutes. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418), [06-23](https://youtu.be/nnWX_ObljOE?t=243))
-- Most experts expect Rollins to start next to Herro, ahead of Porter, Boston and Trent. They do not expect Burries to take the job from him. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1766), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1128), [09-09](https://youtu.be/7BllEsdNLoM?t=1763), [08-24](https://youtu.be/g31YlwRe0XQ?t=1394), [08-14](https://youtu.be/owlM6b8oUd0?t=536))
-- He is probably close to top 50 value but is going in the 70s, which makes him undervalued. He is a reasonable pick at his price. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1128), [08-24](https://youtu.be/g31YlwRe0XQ?t=1394))
-- The experts disagree on how safe his minutes are. One tier list calls his role fairly set. Josh is unsure and sees the minutes shared with Herro, Kuzma and Porter as a concern. (verdict, 2026-09-10; [09-09](https://youtu.be/7BllEsdNLoM?t=1763), [09-10](https://youtu.be/W-R1dzem32s?t=1243))
-- Tier rankings put him in tier 6 among point guards and tier 5 among shooting guards. (verdict, 2026-09-10; [09-09](https://youtu.be/7BllEsdNLoM?t=1763), [09-10](https://youtu.be/W-R1dzem32s?t=1243))
-- Justin expects him to score about 20 points per game. He thinks Rollins could even lead the team in scoring under new coach Taylor Jenkins. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1765))
-- He is 24 years old and on a cheap value contract. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1705), [06-30](https://youtu.be/4GDfg2n2l8o?t=398), [06-23](https://youtu.be/nnWX_ObljOE?t=395))
-- Some experts think Milwaukee could trade him to cash in on the contract, possibly for one or two first-round picks. The team does not see this season as a long-term rebuild. (verdict, 2026-08-14; [06-23](https://youtu.be/nnWX_ObljOE?t=395), [06-30](https://youtu.be/4GDfg2n2l8o?t=398), [08-14](https://youtu.be/owlM6b8oUd0?t=2216))
-- Giannis Antetokounmpo was traded to Miami, so his 33% usage is gone from Milwaukee. Herro, Rollins and Porter will compete for the shot creation. (fact, 2026-06-30; [06-23](https://youtu.be/nnWX_ObljOE?t=395), [06-30](https://youtu.be/4GDfg2n2l8o?t=330))
-- He finished last season as a top 50 fantasy player. Giannis was out for most of that season. (fact, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=398))
+- Experts expect him to open the season as a starter next to Tyler Herro, ahead of Kevin Porter Jr. One expert sees him as at worst the second-best guard on the Bucks. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1446), [10-08](https://youtu.be/sDzeYdUhJDI?t=901), [09-21](https://youtu.be/egRrai3Ax38?t=1766), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1128), [08-24](https://youtu.be/g31YlwRe0XQ?t=1394), [08-14](https://youtu.be/owlM6b8oUd0?t=536), [09-09](https://youtu.be/7BllEsdNLoM?t=1763))
+- The Milwaukee backcourt is crowded. Tyler Herro, Kevin Porter Jr., Gary Trent Jr., Braden Burries, Jakucionis, Green and Brandon Boston all compete for guard minutes. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [10-05](https://youtu.be/BiIZsSypx7Y?t=2384), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418), [09-21](https://youtu.be/egRrai3Ax38?t=1766))
+- Experts disagree on how safe his role is. Some worry about his minutes next to Herro, Porter and Kuzma and have low confidence in any Bucks player. Others trust new coach Taylor Jenkins to use him well and see his role as fairly set. (verdict, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=1054), [10-08](https://youtu.be/sDzeYdUhJDI?t=706), [10-05](https://youtu.be/BiIZsSypx7Y?t=2384), [09-10](https://youtu.be/W-R1dzem32s?t=1243), [09-09](https://youtu.be/7BllEsdNLoM?t=1763), [07-13](https://youtu.be/Rqb5GdrSweY?t=1669), [06-30](https://youtu.be/4GDfg2n2l8o?t=398))
+- He finished around 51st in fantasy last season. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=606), [06-30](https://youtu.be/4GDfg2n2l8o?t=398))
+- Experts say the ESPN rank around 105 is far too low. He is probably close to top 50 value, and drafting him in the 60s, or as high as pick 50, is fine. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=606), [10-08](https://youtu.be/sDzeYdUhJDI?t=665), [10-08](https://youtu.be/6DnRWahYrFA?t=1948), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1128))
+- He has top 40 upside, but that depends on how Milwaukee uses him. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=706))
+- One expert calls him probably the best Bucks player to target in drafts, though team uncertainty limits his confidence. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1864), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1446))
+- He is 24 and on a very cheap contract. He will be an unrestricted free agent after this season. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=580), [08-14](https://youtu.be/owlM6b8oUd0?t=1705), [06-23](https://youtu.be/nnWX_ObljOE?t=395))
+- Milwaukee may not re-sign him, so experts see him as a trade candidate. A trade could bring back one or two first-round picks. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=580), [06-30](https://youtu.be/4GDfg2n2l8o?t=398), [06-23](https://youtu.be/nnWX_ObljOE?t=395))
+- Taylor Jenkins is the new Bucks coach. He is expected to push a pressure defense that forces turnovers and a faster transition game, and he may use a deep rotation. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=335), [08-14](https://youtu.be/owlM6b8oUd0?t=2132), [06-23](https://youtu.be/nnWX_ObljOE?t=179))
+- Experts expect the Bucks to be a bad team and to make more trades to fix a roster that does not fit together. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1845), [08-14](https://youtu.be/owlM6b8oUd0?t=2216), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609), [08-10](https://youtu.be/sfCe7fS9daM?t=1690), [06-23](https://youtu.be/nnWX_ObljOE?t=94))
+- One expert expects him to score about 20 points per game under Taylor Jenkins and says he could lead the team in scoring. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1765))
 
 **Durable**
-- He has a broad guard profile with no weak category. Threes, assists and steals are above the pool, and turnovers are the main cost. (fact, 2026-10-04; stats)
-- He is best used as a combo guard but is good enough to play primary point guard. His floor is a low-end NBA starter. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1879))
-- He is a strong defender and a good passer, and he is known for his steals. Steals are his best category. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1705), [07-05](https://youtu.be/4kKINkZhWls?t=2116), stats)
+- Strong shooter, solid defender and good passer. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=595), [08-14](https://youtu.be/owlM6b8oUd0?t=1705))
+- Steals are his best category. He averages about 1.5 per game, well above the top 250 pool. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=595), [07-05](https://youtu.be/4kKINkZhWls?t=2116), stats)
+- Best suited as a combo guard but good enough to be a primary point guard. His floor is a low-end NBA starter. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1879))
 
 **Tags**
-- Current: `minutes competition` (Herro, Porter, Jakucionis, Burries, Trent and Green in the backcourt. Porter is the main threat to his starting spot.), `sleeper` (Expert sees him near top 50 while he goes in the 70s. ESPN ranks him 105.), `expert target` (Ranked near top 50 by the expert, against an ADP in the 70s on Yahoo and 120 on ESPN.), `trade risk` (Cheap contract. Experts think Milwaukee could trade him for picks.), `sites disagree on price` (Yahoo value 17 USD and rank 62. ESPN value 2 USD and rank 105.)
-- Durable: `fits every build` (No category flagged weak. Turnovers are the soft spot.)
+- Current: `contract year` (cheap deal, unrestricted free agent after the season), `trade risk` (Bucks may cash in his cheap contract for first-round picks), `minutes competition` (Porter, Trent, Burries, Jakucionis and others in a crowded backcourt), `usage competition` (shares creation with Tyler Herro and Kevin Porter Jr.), `sleeper` (ESPN rank around 105 vs expert view near top 50), `expert target` (best Bucks player to target; fine at pick 50 to 60s), `sites disagree on price` (Yahoo value 17 USD and rank 60 vs ESPN value 2 USD and rank 104), `new coach` (Taylor Jenkins), `unsettled rotation` (experts call it the hardest NBA rotation to read; lineup could change by December or March), `deep rotation` (Jenkins might use a deep rotation), `trades likely` (roster needs consolidation trades), `bottom team` (win total 26.5), `fast pace` (Jenkins expected to push a faster transition game)
+- Durable: `fits every build` (no weak category flagged; best in STL, AST and 3PM)
 
-**Note.** The sites disagree on his price. Yahoo values him at 17 USD (rank 62), but ESPN has him at only 2 USD (rank 105), and the experts see him near top 50 value. He went undrafted in our league last season, so he could be a cheap mid-round buy for any build. Last season he played 32.1 minutes with 2.5 threes, 5.6 assists and 1.5 steals. He fits any build that can take 2.5 to 2.7 turnovers. Early in the season, check that he starts over Kevin Porter Jr. and keeps about 30 minutes, and watch for trade news.
+**Note.** Rollins is one of the best value plays in the pool. He finished around 51st last season and experts see a top 50 player with top 40 upside, but auction averages are only 2.0 USD on Yahoo and 2.2 USD on ESPN, while Yahoo values him at 17 USD. No category is flagged weak, so he fits any build. He adds steals (1.4), assists (5.2) and threes (2.3), but at 2.5 per game turnovers are his weakest spot. Early in the season, check that he starts next to Herro ahead of Porter and plays about 30 minutes, and watch for trade news before the 2027-03-04 deadline.
 
-<sub>12 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>22 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

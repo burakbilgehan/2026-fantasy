@@ -8,53 +8,52 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "5b22abea1609",
+ "input_sha": "6112ae382fba",
  "note_count": 21,
- "built_at": "2026-10-05T20:04:14+00:00",
+ "built_at": "2026-10-11T09:24:24+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.20335419999999998,
-  "duration_ms": 60412,
+  "cost_usd_list": 0.1877862,
+  "duration_ms": 50196,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Experts value him at about 70 USD in auctions. In a recent mock he went for 80 USD, which Josh called a little high but not outrageous. If he goes for 85 USD, the extra money has to come out of other players' prices.",
+   "text": "Experts value him at about 70 USD in auctions. A price of 80 USD is a little high but not outrageous.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
    "sources": [
     "Q6YlQDvD-aY:p3",
-    "XnIWJyBB0EM:p0",
-    "XnIWJyBB0EM:p1"
+    "XnIWJyBB0EM:p0"
    ]
   },
   {
-   "text": "Experts see him as a top 2 or 3 pick, with Jokic as the other choice for first overall. His best case is first and his downside is about fifth, so he is a safe pick at the top.",
+   "text": "Experts see him as a safe top pick. His best case is 1st overall and his downside is around 5th. Nearly every draft takes him or Jokic first.",
    "kind": "verdict",
-   "date": "2026-09-23",
+   "date": "2026-09-17",
    "until": "",
    "sources": [
     "DubdKKhMWHo:p1",
     "gJUBAJaHzlU:p0",
     "J1Eg3uaAICU:p0",
-    "OdDkXFhoKsc:p0",
-    "C4vlgpJ62NI:p2"
+    "OdDkXFhoKsc:p0"
    ]
   },
   {
-   "text": "His minutes are low for a star.",
-   "kind": "fact",
+   "text": "His minutes are expected to be managed somewhat, so he will not play 35 a night.",
+   "kind": "verdict",
    "date": "2026-09-16",
    "until": "",
    "sources": [
+    "t4n9MAP2_14:p2",
     "2A2JbUN-kc0:p1"
    ]
   },
   {
-   "text": "His minutes are expected to be managed somewhat, so he will not play 35 minutes a night.",
+   "text": "Fears about his durability are overblown, because the blood clot that shortened one season is not a repeatable injury.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
@@ -63,16 +62,7 @@
    ]
   },
   {
-   "text": "Fears about his durability are overblown, because his shortened season came from a blood clot, which is not a repeatable injury.",
-   "kind": "verdict",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "t4n9MAP2_14:p2"
-   ]
-  },
-  {
-   "text": "Opponents avoid shooting near the rim against him, which cut his blocks and contests to a career low.",
+   "text": "Last season his blocks fell to a career low, but he still led the league. Opponents stopped challenging him at the rim, so he defended fewer shots there.",
    "kind": "fact",
    "date": "2026-08-27",
    "until": "",
@@ -83,84 +73,55 @@
    ]
   },
   {
-   "text": "Tynen expects teams to keep avoiding shots at the rim against him in the regular season. His blocks could stay around 3 a game rather than return to 3.5 or more.",
+   "text": "Teams are expected to keep avoiding shots at the rim against him in the regular season.",
    "kind": "verdict",
    "date": "2026-08-27",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:p29",
-    "ME-r173X5b0:p30"
-   ]
-  },
-  {
-   "text": "The Spurs are projected to be a top team in the West. Tynen predicts 63 wins, and they could take the top seed.",
-   "kind": "verdict",
-   "date": "2026-08-27",
-   "until": "",
-   "sources": [
-    "ZAyie8lKyYc:t7",
-    "75Sk_4fkgIM:t6"
+    "ZAyie8lKyYc:p29"
    ]
   }
  ],
  "durable": [
   {
-   "text": "About half of his rim contests turn into blocks.",
+   "text": "Blocks are his biggest outlier, far above the top 250 pool. Points and rebounds are also league outliers.",
    "kind": "fact",
-   "date": "2026-07-17",
-   "until": "",
-   "sources": [
-    "NYTH7uQsPCM:p0"
-   ]
-  },
-  {
-   "text": "He is the best defender in the league.",
-   "kind": "verdict",
-   "date": "2026-07-17",
-   "until": "",
-   "sources": [
-    "NYTH7uQsPCM:p0"
-   ]
-  },
-  {
-   "text": "Blocks, rebounds and points are far above the top 250 pool. Blocks are his biggest outlier.",
-   "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "Turnovers are his weak category, even compared with other centers.",
+   "text": "Turnovers are his one weak category. He commits many more than the pool and more than other centers.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He makes about two threes a game and shoots about 82% from the line on about 7 attempts. Both are well above other centers. He is one of the Spurs' best free throw shooters.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "stats",
-    "ZAyie8lKyYc:p27"
-   ]
-  },
-  {
-   "text": "He helps in points, rebounds, blocks, threes and both percentages. Assists, threes and steals are his weakest positive categories.",
+   "text": "He helps in almost every category: points, rebounds, blocks, threes, both percentages and assists. Assists, threes and steals are his weakest positive categories.",
    "kind": "verdict",
    "date": "2026-09-23",
    "until": "",
    "sources": [
-    "C4vlgpJ62NI:p0"
+    "C4vlgpJ62NI:p0",
+    "stats"
    ]
   },
   {
-   "text": "He does not win blocks on his own. A team built around him still needs at least one other shot blocker.",
+   "text": "He makes many threes for a center.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He does not win blocks by himself. A team still needs at least one other shot blocker.",
    "kind": "verdict",
    "date": "2026-09-23",
    "until": "",
@@ -169,7 +130,34 @@
    ]
   },
   {
-   "text": "He is still learning to score one on one when given the ball. That is not yet a strength.",
+   "text": "Half of his rim contests turn into blocks.",
+   "kind": "fact",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p0"
+   ]
+  },
+  {
+   "text": "He is called the best defender in the league.",
+   "kind": "verdict",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p0"
+   ]
+  },
+  {
+   "text": "He is one of the Spurs' best free throw shooters, though he missed many in the Finals.",
+   "kind": "fact",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p27"
+   ]
+  },
+  {
+   "text": "He is still learning to score one-on-one when given the ball. It is not yet a strength.",
    "kind": "verdict",
    "date": "2026-08-27",
    "until": "",
@@ -178,12 +166,13 @@
    ]
   },
   {
-   "text": "He has played about 65 or more games in two of his three seasons. His short season came from a blood clot.",
+   "text": "He played about 65 games in two of the last three seasons. A blood clot caused the one shortened season.",
    "kind": "fact",
    "date": "2026-09-16",
    "until": "",
    "sources": [
-    "2A2JbUN-kc0:p1"
+    "2A2JbUN-kc0:p1",
+    "t4n9MAP2_14:p2"
    ]
   }
  ],
@@ -191,7 +180,7 @@
   {
    "name": "BLK specialist",
    "channel": "durable",
-   "detail": "about 3.4 blocks per game, the biggest outlier in the pool",
+   "detail": "Blocks far above the top 250 pool, his biggest outlier",
    "until": "",
    "sources": [
     "stats",
@@ -202,7 +191,7 @@
   {
    "name": "REB specialist",
    "channel": "durable",
-   "detail": "about 11.8 rebounds per game",
+   "detail": "",
    "until": "",
    "sources": [
     "stats"
@@ -212,27 +201,7 @@
   {
    "name": "PTS specialist",
    "channel": "durable",
-   "detail": "about 26 points per game",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "high TO",
-   "channel": "durable",
-   "detail": "about 2.8 turnovers per game",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "punt TO fit",
-   "channel": "durable",
-   "detail": "turnovers are his only weak category",
+   "detail": "",
    "until": "",
    "sources": [
     "stats"
@@ -242,7 +211,27 @@
   {
    "name": "3PM from a big",
    "channel": "durable",
-   "detail": "about 2 threes per game as a center",
+   "detail": "About 2 threes per game, well above other centers",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "high TO",
+   "channel": "durable",
+   "detail": "About 2.8 turnovers per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "Turnovers are his only weak category",
    "until": "",
    "sources": [
     "stats"
@@ -252,19 +241,19 @@
   {
    "name": "elite per game",
    "channel": "durable",
-   "detail": "top 2 or 3 pick; best case 1st, downside about 5th",
+   "detail": "Consensus top 2 pick, best case 1st overall",
    "until": "",
    "sources": [
+    "stats",
     "DubdKKhMWHo:p1",
-    "J1Eg3uaAICU:p0",
-    "gJUBAJaHzlU:p0"
+    "J1Eg3uaAICU:p0"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes limit",
    "channel": "current",
-   "detail": "minutes managed somewhat, no 35 a night",
+   "detail": "Minutes managed somewhat, no 35 a night",
    "until": "",
    "sources": [
     "t4n9MAP2_14:p2",
@@ -275,7 +264,7 @@
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "Tynen predicts 63 wins; could take the West top seed",
+   "detail": "Spurs projected for 63 wins and a shot at the West's top seed",
    "until": "",
    "sources": [
     "ZAyie8lKyYc:t7",
@@ -284,6 +273,6 @@
    "new_meaning": ""
   }
  ],
- "note": "He is a top 2 pick on both sites. Yahoo values him at 60 USD and ESPN at 65 USD, but average costs run 70 to 80.5 USD, experts price him around 70 USD, and our league paid 85 USD last season. That 85 USD was more than his value, so plan for 70 to 80 USD and let someone else go past that. He fits any build that can absorb turnovers, and punt TO is a natural fit. You still want a second shot blocker. Early in the season, check his minutes, since they are expected to stay under 35, and whether opponents keep avoiding the rim, which would hold his blocks near 3 a game.",
+ "note": "Expect him to cost about 80 USD, close to the Yahoo and ESPN average costs. Our league paid 85 USD last season. The site values are only 60 to 65 USD and the experts' value is about 70 USD, so anything near 80 USD is a little high but defensible for a top 2 player who stands out in blocks, rebounds and points. He fits any build, especially punt TO, but you still need a second shot blocker to lock up blocks. Early in the season, check whether his minutes stay near 30 and whether his blocks climb back above last season's career low of 3.1.",
  "rejected": []
 }

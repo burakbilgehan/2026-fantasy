@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 237 | 0 | 0.0 | 229 | not drafted |
+| 2026-27 | 0 | - | 238 | 0 | 0.0 | 229 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,24 +21,24 @@
 | 3PM | 1.5 | +0.0 | -0.0 | - |
 | PTS | 9.2 | -0.8 | -0.9 | - |
 | REB | 3.5 | -0.7 | -0.8 | - |
-| AST | 1.4 | -0.9 | -0.9 | - |
+| AST | 1.4 | -1.0 | -0.9 | - |
 | STL | 0.7 | -0.7 | -0.7 | - |
 | BLK | 0.3 | -0.5 | -0.6 | - |
-| TO | 1.0 | +0.9 | +0.9 | - |
+| TO | 1.0 | +1.0 | +0.9 | - |
 
 </details>
 
 **Current**
-- Orlando's projected starting five is Suggs, Bane, Franz Wagner, Banchero and Carter, so da Silva projects as a bench forward. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
-- Sean Sweeney is Orlando's new head coach, replacing Jamahl Mosley, so bench roles may change. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
+- Orlando has a new head coach, Sean Sweeney, who replaces Jamahl Mosley. Player roles on the team may change. (fact, 2026-10-08; [08-01](https://youtu.be/FEcNjVRlj-U?t=359), [10-08](https://youtu.be/6DnRWahYrFA?t=1672))
+- Da Silva is not in Orlando's projected starting five of Suggs, Bane, Franz Wagner, Banchero and Carter. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
 
 **Durable**
 - none
 
 **Tags**
-- Current: none
-- Durable: `plays every game` (74 and 77 games in his first two seasons)
+- Current: `new coach` (Sean Sweeney replaces Jamahl Mosley; roles may change)
+- Durable: none
 
-**Note.** Both sites rank him outside the top 225 (Yahoo 237, ESPN 229) and value him at 0 USD. He was not drafted in our league last season, so he is not a pick in a 144-player auction. His projected line is below average in most categories with no clear strength. The Yahoo 75% FT projection does not fit his 87 to 88% record, so his FT% should be fine. Watch him on waivers only if Sweeney gives him more than his usual 22 to 25 minutes or an Orlando starter gets hurt.
+**Note.** Both sites value him at 0 USD and rank him well outside our 144 drafted players (Yahoo 238, ESPN 229), so he is a waiver-level player and not an auction target. His projected line is below the pool in most categories, and turnovers are his best category (z +1.0). Yahoo projects 75% FT%, but he has shot over 87% in both NBA seasons. Early in the season, check whether the new coach gives him a bigger role than his bench spot behind Orlando's projected starters.
 
-<sub>0 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>0 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

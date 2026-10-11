@@ -8,40 +8,42 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "42be1aadf69f",
- "note_count": 15,
- "built_at": "2026-10-05T19:43:55+00:00",
+ "input_sha": "fadcf09fe041",
+ "note_count": 17,
+ "built_at": "2026-10-11T09:14:08+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1929302,
-  "duration_ms": 54358,
-  "turns": 2,
+  "cost_usd_list": 0.3186284,
+  "duration_ms": 83254,
+  "turns": 3,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is projected to start for Golden State next to Curry, Lendeborg, Green and a center.",
-   "kind": "fact",
-   "date": "2026-09-30",
+   "text": "He is expected to start for Golden State. Steve Kerr likes him.",
+   "kind": "verdict",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
+    "-DN4P92Wp8Y:p31",
+    "ZYllcj4o6_A:p6",
     "MUbNYdjpUDM:t3",
+    "LXZLrL90crE:p5",
     "LXZLrL90crE:t1",
-    "OBwWCxG9SqM:t4"
+    "OBwWCxG9SqM:t4",
+    "7BllEsdNLoM:p47"
    ]
   },
   {
-   "text": "The experts expect him to start and to play over 30 minutes per game. Steve Kerr likes him.",
+   "text": "His minutes are expected to rise to 30 or more per game, with about 20% usage.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
    "sources": [
     "ZYllcj4o6_A:p6",
     "LXZLrL90crE:p4",
-    "LXZLrL90crE:p5",
-    "W-R1dzem32s:p43",
-    "7BllEsdNLoM:p47"
+    "W-R1dzem32s:p43"
    ]
   },
   {
@@ -51,35 +53,13 @@
    "until": "",
    "sources": [
     "NYTH7uQsPCM:t6",
-    "OBwWCxG9SqM:t4",
     "uarqbNA2dFk:p45",
-    "QbdrhJd7LiA:p40"
+    "QbdrhJd7LiA:p40",
+    "OBwWCxG9SqM:t4"
    ]
   },
   {
-   "text": "Golden State has very poor depth and no shot creator besides Curry, so his role is secure on a thin team.",
-   "kind": "fact",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "LXZLrL90crE:t4",
-    "ZYllcj4o6_A:t2",
-    "7BllEsdNLoM:t6",
-    "g31YlwRe0XQ:p39"
-   ]
-  },
-  {
-   "text": "He finished 136th last season. Late in the season he played 32 minutes and ranked 61st after the All-Star break.",
-   "kind": "fact",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "MUbNYdjpUDM:p4",
-    "xHRF06_E9HE:p36"
-   ]
-  },
-  {
-   "text": "Josh expects a likely top 100 season, with about 20% usage and gains in threes, rebounds, steals, assists and points.",
+   "text": "Experts expect a step up and a likely top 100 season, with gains in threes, rebounds, steals, assists and points.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -90,12 +70,67 @@
    ]
   },
   {
-   "text": "With Butler out he could handle the ball more and have a strong early run of assists. His potential assist conversion is only 47%.",
+   "text": "With Butler out, he could handle the ball more and have a strong early run of assists. His potential assist conversion was only 47%.",
    "kind": "verdict",
    "date": "2026-07-17",
    "until": "Jimmy Butler returns",
    "sources": [
     "NYTH7uQsPCM:p34"
+   ]
+  },
+  {
+   "text": "He finished 136th last season in limited minutes, but ranked 61st after the All-Star break, when he played about 32 minutes per game.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p4",
+    "xHRF06_E9HE:p36"
+   ]
+  },
+  {
+   "text": "His role looks secure on a thin roster that struggles to field a 10-man rotation. He does not have to adjust to a new team.",
+   "kind": "verdict",
+   "date": "2026-08-24",
+   "until": "",
+   "sources": [
+    "g31YlwRe0XQ:p39",
+    "LXZLrL90crE:t4"
+   ]
+  },
+  {
+   "text": "His ESPN rank (66 to 74) is too high. Around pick 90 to 100 is fine.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p31",
+    "ZYllcj4o6_A:p6",
+    "MUbNYdjpUDM:p5",
+    "QbdrhJd7LiA:p40",
+    "uarqbNA2dFk:p45"
+   ]
+  },
+  {
+   "text": "At his Yahoo and Fantrax price (around 116 to 120) he is good value, more so in category leagues. He is called the best Warriors target and a bit underrated, a good last round pick.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p5",
+    "MUbNYdjpUDM:p6",
+    "7BllEsdNLoM:p47",
+    "ZYllcj4o6_A:p6"
+   ]
+  },
+  {
+   "text": "He should start the season well, but Warriors players are expected to fade as the season goes on.",
+   "kind": "verdict",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "E-KmhvyZ2CU:p22",
+    "E-KmhvyZ2CU:t1"
    ]
   },
   {
@@ -108,49 +143,7 @@
    ]
   },
   {
-   "text": "The ESPN rank of 66 is too high. His Yahoo rank around 116 to 120 is good value, more so in category leagues, and he is fine around pick 100.",
-   "kind": "verdict",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:p6",
-    "MUbNYdjpUDM:p5",
-    "uarqbNA2dFk:p45",
-    "QbdrhJd7LiA:p40",
-    "7BllEsdNLoM:p47"
-   ]
-  },
-  {
-   "text": "He is the best Warriors target for the speaker in the team preview.",
-   "kind": "verdict",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "MUbNYdjpUDM:p6"
-   ]
-  },
-  {
-   "text": "Golden State may treat this as a gap year and is worried about lottery odds.",
-   "kind": "fact",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "MUbNYdjpUDM:t0",
-    "LXZLrL90crE:t0"
-   ]
-  },
-  {
-   "text": "He should start the season well, but one expert expects Warriors players to fade as the season goes on.",
-   "kind": "verdict",
-   "date": "2026-09-07",
-   "until": "",
-   "sources": [
-    "E-KmhvyZ2CU:p22",
-    "E-KmhvyZ2CU:t1"
-   ]
-  },
-  {
-   "text": "The Warriors schedule is good for fantasy playoffs ending March 28 but has 15 back-to-backs.",
+   "text": "The Warriors' schedule is good for a playoff ending March 28, but they have 15 back-to-backs, tied for second most.",
    "kind": "fact",
    "date": "2026-09-30",
    "until": "",
@@ -162,6 +155,15 @@
  ],
  "durable": [
   {
+   "text": "He sometimes has efficiency problems and lacks defense.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p32"
+   ]
+  },
+  {
    "text": "He tends to start seasons slowly and has struggled in the playoffs.",
    "kind": "fact",
    "date": "2026-08-22",
@@ -171,112 +173,60 @@
    ]
   },
   {
-   "text": "His category profile is balanced with no weak category. Rebounding is his best category compared with other guards.",
+   "text": "He rebounds well for a guard. No category is a league outlier and none is weak for his position.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "stats"
-   ]
-  },
-  {
-   "text": "Steve Kerr runs unpredictable rotations and often changes a set starting lineup after a few games.",
-   "kind": "fact",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "MUbNYdjpUDM:t2",
-    "LXZLrL90crE:t2"
    ]
   }
  ],
  "tags": [
   {
-   "name": "fits every build",
-   "channel": "durable",
-   "detail": "no category flagged weak",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "category league player",
-   "channel": "durable",
-   "detail": "value is better in category leagues",
-   "until": "",
-   "sources": [
-    "MUbNYdjpUDM:p5"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "role up",
    "channel": "current",
-   "detail": "projected starter, over 30 minutes, Butler and Moody out early",
+   "detail": "Minutes expected to rise to 30 or more with Butler and Moody out",
    "until": "",
    "sources": [
-    "LXZLrL90crE:p4",
-    "LXZLrL90crE:p5",
     "ZYllcj4o6_A:p6",
-    "W-R1dzem32s:p43"
+    "LXZLrL90crE:p4",
+    "W-R1dzem32s:p43",
+    "uarqbNA2dFk:p45"
    ],
    "new_meaning": ""
   },
   {
    "name": "breakout",
    "channel": "current",
-   "detail": "likely top 100 after finishing 136th",
+   "detail": "Year four step up, likely top 100",
    "until": "",
    "sources": [
     "ZYllcj4o6_A:p6",
-    "W-R1dzem32s:p43",
-    "MUbNYdjpUDM:p4"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "expert target",
-   "channel": "current",
-   "detail": "best Warriors target at Yahoo rank around 117",
-   "until": "",
-   "sources": [
-    "MUbNYdjpUDM:p5",
-    "MUbNYdjpUDM:p6",
-    "ZYllcj4o6_A:p6"
+    "LXZLrL90crE:p5",
+    "QbdrhJd7LiA:p40"
    ],
    "new_meaning": ""
   },
   {
    "name": "sleeper",
    "channel": "current",
-   "detail": "Yahoo rank 117, underrated",
+   "detail": "Good value at Yahoo rank around 116",
    "until": "",
    "sources": [
-    "7BllEsdNLoM:p47",
-    "MUbNYdjpUDM:p5"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sites disagree on price",
-   "channel": "current",
-   "detail": "ESPN rank 66 vs Yahoo rank 117",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:p6",
     "MUbNYdjpUDM:p5",
-    "stats"
+    "MUbNYdjpUDM:p6",
+    "7BllEsdNLoM:p47"
    ],
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "only at the ESPN rank of 66",
+   "detail": "At ESPN rank 66 to 74",
    "until": "",
    "sources": [
+    "-DN4P92Wp8Y:p31",
     "ZYllcj4o6_A:p6",
     "uarqbNA2dFk:p45",
     "QbdrhJd7LiA:p40"
@@ -284,13 +234,44 @@
    "new_meaning": ""
   },
   {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "ESPN ranks him far higher than Yahoo",
+   "until": "",
+   "sources": [
+    "stats",
+    "MUbNYdjpUDM:p5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "category league player",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p5"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "early-season value",
    "channel": "current",
-   "detail": "more ball handling while Butler is out; Warriors expected to fade",
-   "until": "Jimmy Butler returns",
+   "detail": "Ball handling up while Butler is out; Warriors expected to fade",
+   "until": "",
    "sources": [
-    "NYTH7uQsPCM:p34",
-    "E-KmhvyZ2CU:p22"
+    "E-KmhvyZ2CU:p22",
+    "NYTH7uQsPCM:p34"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   },
@@ -306,20 +287,9 @@
    "new_meaning": ""
   },
   {
-   "name": "tank risk",
-   "channel": "current",
-   "detail": "possible gap year, lottery odds",
-   "until": "",
-   "sources": [
-    "MUbNYdjpUDM:t0",
-    "LXZLrL90crE:t0"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "for a March 28 end",
+   "detail": "Good for a March 28 end",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:t4"
@@ -338,6 +308,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Yahoo values him at 1 USD with rank 117, ESPN at 7 USD with rank 66, and nobody drafted him in our league last season. The experts like him near Yahoo's price as a late, low-cost starter and warn against paying ESPN prices. He played 82 games last season, ranked 61st after the All-Star break, and has no weak category, so he fits any build. Early in the season, check that he starts and plays 30 or more minutes, and watch his assists while Butler is out.",
+ "note": "He is a cheap late auction pick: Yahoo values him at 4 USD (average cost 1.0, rank 105) and ESPN at 6 USD (rank 69). The experts like him at the Yahoo price and call ESPN's top 70 rank too high. His balanced line (5.5 rebounds, 3.9 assists, 1.1 steals, no weak category) fits any build as a 1 to 4 USD guard. Early on, check that he starts and plays 30 or more minutes while Butler is out, and think about selling before Butler returns and the Warriors fade.",
  "rejected": []
 }

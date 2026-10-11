@@ -8,72 +8,54 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "b9c35972b408",
+ "input_sha": "bb20827540de",
  "note_count": 3,
- "built_at": "2026-10-04T17:38:03+00:00",
+ "built_at": "2026-10-11T09:19:11+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1131342,
-  "duration_ms": 26699
+  "cost_usd_list": 0.1365582,
+  "duration_ms": 29041,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He is a rookie. Memphis drafted him with the 21st pick in 2026.",
+   "text": "He is a rookie. He is not listed among the projected Memphis starters (Jerome, Coward, Grant, Boozer, Edey) or the projected bench (Pippen, Wells, Stewart, GG Jackson, Spencer).",
    "kind": "fact",
-   "date": "2026-06-26",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
-    "CLsUc0Sevos:p28"
+    "lp11OAEpq4Y:t4",
+    "lp11OAEpq4Y:t5",
+    "LcZcvk8s1xQ:t6"
    ]
   },
   {
-   "text": "Yahoo lists him as questionable with an undisclosed issue.",
+   "text": "The Memphis forward group is crowded, with Boozer starting and Prosper, Hendricks, Edey, Stewart and Grant also in the mix. The roster still needs cuts.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
-    "stats"
+    "RyzcCGChYgs:t2",
+    "bHA-JoW3reE:t4",
+    "lp11OAEpq4Y:t6"
    ]
   },
   {
-   "text": "The Memphis forward group is crowded with Prosper, Hendricks, Edey and Stewart. Cameron Boozer will start.",
+   "text": "Coach Tuomas Iisalo runs an 11 or 12 man rotation with short stints and keeps minutes down.",
    "kind": "fact",
-   "date": "2026-07-21",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
-    "RyzcCGChYgs:t2"
-   ]
-  },
-  {
-   "text": "Coach Tuomas Iisalo runs an 11-man rotation. Joe expects only Cameron Boozer and Cedric Coward to top 30 minutes.",
-   "kind": "verdict",
-   "date": "2026-08-17",
-   "until": "",
-   "sources": [
+    "lp11OAEpq4Y:t0",
+    "lp11OAEpq4Y:t2",
+    "LcZcvk8s1xQ:t1",
     "LcZcvk8s1xQ:t2"
    ]
   },
   {
-   "text": "Memphis has too many players, especially forwards, so more trades or cuts must happen.",
-   "kind": "verdict",
-   "date": "2026-06-29",
-   "until": "",
-   "sources": [
-    "bHA-JoW3reE:t4"
-   ]
-  },
-  {
-   "text": "One expert says he probably cannot play alongside Cameron Boozer.",
-   "kind": "verdict",
-   "date": "2026-06-25",
-   "until": "",
-   "sources": [
-    "lOshTzDA4SA:p28"
-   ]
-  },
-  {
-   "text": "His Summer League was very good but overrated. Josh thinks Cameron Carr should probably rank ahead of him among rookies.",
+   "text": "His Summer League was very good, but an expert thinks it overrated him. In dynasty rookie ranks he sits around 20th, and Cameron Carr should probably rank ahead of him.",
    "kind": "verdict",
    "date": "2026-08-02",
    "until": "",
@@ -82,18 +64,27 @@
    ]
   },
   {
-   "text": "With a Yahoo value of 0 USD and a projection of 6.7 points per game, he is not a draft target in a 12-team league.",
+   "text": "An expert thinks he probably cannot play alongside Cameron Boozer.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-06-25",
    "until": "",
    "sources": [
-    "stats"
+    "lOshTzDA4SA:p28"
+   ]
+  },
+  {
+   "text": "Memphis has a maxed 4-4-4 schedule in our playoff weeks through March 28 and only 13 back-to-backs, possibly the fewest in the league.",
+   "kind": "fact",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:t7"
    ]
   }
  ],
  "durable": [
   {
-   "text": "Memphis got him at pick 21, along with Isaiah Stewart, in a trade for pick 17.",
+   "text": "He was the 21st pick of the 2026 draft. He went to Memphis with Isaiah Stewart in exchange for pick 17.",
    "kind": "fact",
    "date": "2026-06-26",
    "until": "",
@@ -111,7 +102,7 @@
    ]
   },
   {
-   "text": "One expert does not see a clear skill. He says Lopez cannot really shoot, defend or pass.",
+   "text": "He has no clear standout skill. One expert says he cannot really shoot, defend or pass.",
    "kind": "verdict",
    "date": "2026-06-25",
    "until": "",
@@ -124,7 +115,7 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "2026 pick 21",
+   "detail": "21st pick of the 2026 draft",
    "until": "",
    "sources": [
     "CLsUc0Sevos:p28"
@@ -134,25 +125,47 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Crowded Memphis forward group: Boozer starts, plus Prosper, Hendricks, Edey and Stewart, in an 11-man rotation",
+   "detail": "Crowded forward group behind Boozer and Grant, with Prosper, Hendricks, Stewart and GG Jackson",
    "until": "",
    "sources": [
     "RyzcCGChYgs:t2",
+    "bHA-JoW3reE:t4",
+    "lp11OAEpq4Y:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Iisalo uses 11 or 12 players with short stints",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:t2",
     "LcZcvk8s1xQ:t2"
    ],
    "new_meaning": ""
   },
   {
-   "name": "questionable",
+   "name": "good playoff schedule",
    "channel": "current",
-   "detail": "Yahoo Q, undisclosed",
+   "detail": "4-4-4 in weeks 19 to 21",
    "until": "",
    "sources": [
-    "stats"
+    "lp11OAEpq4Y:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13 back-to-backs",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:t7"
    ],
    "new_meaning": ""
   }
  ],
- "note": "He is not draftable in our league. Yahoo has him at rank 688 with a value of 0 USD, ESPN has no price, and he projects for only 6.7 points, 3.2 rebounds and 1.1 assists, with no category that stands out. Memphis has a deep forward group and its coach runs an 11-man rotation, so his minutes look small, and the experts see little upside. Early in the season, check his Q status and whether a trade or cut among the Memphis forwards opens real minutes. Only then is he worth a waiver look.",
+ "note": "Yahoo ranks him 712th with a value of 0 USD, ESPN gives him no price, and he projects for only 6.7 points with no strong category. He is not a pick in our 144-player auction. Early in the season, check only whether he gets regular minutes in Iisalo's 11 or 12 man rotation. Until then he is not worth a roster spot.",
  "rejected": []
 }

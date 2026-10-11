@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 175 | 2 | 0.2 | 120 | not drafted |
+| 2026-27 | 0 | - | 164 | 1 | 0.2 | 123 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,31 +20,31 @@
 | FG% | 46.0% | -0.3 | -0.2 | - |
 | FT% | 77.1% | -0.2 | -0.1 | - |
 | 3PM | 1.2 | -0.4 | -0.5 | - |
-| PTS | 9.7 | -0.7 | -0.8 | - |
+| PTS | 9.7 | -0.8 | -0.8 | - |
 | REB | 4.7 | -0.2 | -0.2 | - |
 | AST | 2.3 | -0.5 | -0.3 | - |
-| STL | 1.4 | +1.4 | +1.5 | - |
+| STL | 1.4 | +1.4 | +1.4 | - |
 | BLK | 0.5 | -0.2 | -0.1 | - |
-| TO | 0.9 | +1.0 | +1.0 | - |
+| TO | 0.9 | +1.1 | +1.0 | - |
 
 </details>
 
 **Current**
-- He is one of the main candidates for the two open Lakers starting spots, along with Grimes and Mamukelashvili. Ziaire Williams might also start. (fact, 2026-09-30; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669), [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
-- He is a Tier 8 small forward and a deep league or streaming option. Ranking him is a hedge. If he does not start, the speaker will move off him. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=2036), [07-16](https://youtu.be/-y6p5PYLf00?t=655))
-- LeBron James left for the Sixers and Rui Hachimura appears to be gone too, which opens a lot of forward minutes on the Lakers. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=306), [07-01](https://youtu.be/W3THnI7wWdA?t=872), [06-30](https://youtu.be/4GDfg2n2l8o?t=1388))
-- Andy projects him as the starting power forward because he is the best option available. Andy expects only about 20 minutes a night, like A.C. Green. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=599))
-- The experts disagree on his minutes. One preview says whoever loses the starting battle still plays about 27 minutes. Other notes expect only 20-plus minutes. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=669), [08-04](https://youtu.be/_WjOjp6Qu8E?t=599), [07-16](https://youtu.be/-y6p5PYLf00?t=655))
-- Josh says he played well last season, especially when many teammates were out. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=438))
-- His 3P% dropped to 32 last season, from 42 the season before. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=655))
+- He is competing for a starting forward spot. The newest preview projects Doncic, Reaves, Grimes, Thybulle and Kessler as starters, with LaRavia as a possible starter instead. Ziaire Williams has also been named as a possible starter. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1441), [08-04](https://youtu.be/_WjOjp6Qu8E?t=669), [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
+- ESPN's rank of about 120 is too aggressive. He is a deeper-league or streaming player. He becomes more interesting if he wins a starting spot, and one expert will move off him if he does not start. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1769), [09-10](https://youtu.be/dlo7L8Ru91A?t=2036), [07-16](https://youtu.be/-y6p5PYLf00?t=655))
+- The Lakers' rotation choices under J.J. Redick are unclear, and the roster has many players who fit best as 8th to 11th men. (fact, 2026-10-06; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2316), [10-06](https://youtu.be/sFelMKWcqyI?t=137))
+- The Lakers play 3-4-3 games in our playoff weeks (March 28 end), which is in the bottom half of the league. They have the second most back-to-backs in the league. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2036), [10-06](https://youtu.be/sFelMKWcqyI?t=2119))
+- He should play 20-plus minutes either way. One expert expects the bench forward to still get about 27 minutes, while another compares a starting role to A.C. Green's, at about 20 minutes a night. (verdict, 2026-08-04; [07-16](https://youtu.be/-y6p5PYLf00?t=655), [08-04](https://youtu.be/_WjOjp6Qu8E?t=669), [08-04](https://youtu.be/_WjOjp6Qu8E?t=599))
+- LeBron James left for the Sixers and Rui Hachimura appears gone, so forward minutes and usage are open on the Lakers. (fact, 2026-07-01; [08-04](https://youtu.be/_WjOjp6Qu8E?t=306), [07-01](https://youtu.be/W3THnI7wWdA?t=872), [06-30](https://youtu.be/4GDfg2n2l8o?t=1388))
 
 **Durable**
-- He is a category-only player. Steals are his standout category. He adds little in points and threes. (verdict, 2026-10-04; [09-10](https://youtu.be/dlo7L8Ru91A?t=2036), stats)
+- He is a category-only player. Steals are his best category, and he commits few turnovers for his minutes. Points are his weakest category. (verdict, 2026-10-11; [09-10](https://youtu.be/dlo7L8Ru91A?t=2036), stats)
+- He has an odd fantasy game. His shooting percentages swing a lot, and he adds useful steals and assists. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1721))
 
 **Tags**
-- Current: `minutes competition` (Fights for one of two open starting spots with Grimes and Mamukelashvili. Ziaire Williams might also start.), `waiver watch` (Deep league and streaming value. Worth adding if he wins the starting power forward job.)
-- Durable: none
+- Current: `minutes competition` (Starting forward spot between him, Thybulle, Grimes and Ziaire Williams), `unsettled rotation` (Redick's rotation choices unclear after big roster turnover), `waiver watch` (Deeper-league or streaming player unless he starts), `bad playoff schedule` (3-4-3 games in weeks 19 to 21, bottom half of the league), `many back-to-backs` (Lakers have the second most back-to-backs in the league)
+- Durable: `streaky` (Swingy FG% and FT% and 3P% from season to season), `category league player` (Category-only value from steals and low turnovers)
 
-**Note.** At 0 USD on Yahoo (rank 175) and 2 USD on ESPN (rank 120), he is at best a 1 USD last-round pick in our 144-player draft. Usually he is a waiver option. His value is steals (projected 1.4 per game) and some help in turnovers, but Yahoo's 0.5 TO projection looks too low next to his usual 1.1 to 1.3. Early in the season, check whether he starts and plays closer to 27 minutes than 20. Add him only if he does.
+**Note.** Yahoo ranks him 164 at a value of 0 USD, outside our 144 drafted players. ESPN ranks him 123 at 1 USD, and the experts call that too high. Do not spend more than 1 USD on him. He is mainly a waiver option. His only real edges are steals (z +1.4) and few turnovers, so he fits builds that chase STL and TO and can absorb low points. Early in the season, check whether he starts over Thybulle and whether he gets close to the 29 minutes ESPN projects. If he does, pick him up.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>6 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

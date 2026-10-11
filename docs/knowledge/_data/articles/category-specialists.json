@@ -25,12 +25,14 @@
  ],
  "proposed": true,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-04T20:19:46+00:00",
+ "built_at": "2026-10-11T09:50:54+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.3680328,
-  "duration_ms": 103980
+  "cost_usd_list": 0.3584368,
+  "duration_ms": 96885,
+  "turns": 2,
+  "denied": 0
  },
  "player_slugs": [
   "alex-sarr",
@@ -87,91 +89,105 @@
   "yves-missi",
   "zach-edey"
  ],
- "summary": "A category specialist can fix a category you are close in. He cannot fix one you have already lost. Punt rankings make one-category players look like top 100 picks, but our league counts all 9 categories every week. So treat specialists as late or in-season fillers, and check your category standings before every late bid or FAB claim.",
+ "summary": "A one-category specialist helps only when the category is still winnable and his weak categories match the ones you already plan to punt. Punt rankings make these players look like top 100 options, but our league counts all nine categories every week. Never spend auction dollars or FAB on a specialist to rescue a category you have already lost.",
  "sections": [
   {
    "heading": "Punt rankings flatter specialists",
    "paragraphs": [
     {
-     "text": "Many rankings remove a player's weak categories before they rank him. Measured that way, a one-category specialist can look like a top 100 player. That does not make him a top 100 player in a standard league like ours. Every week we play all 9 categories, so his weak ones still count against you.",
+     "text": "A player who is elite in one category can look like a top 100 player in a ranking that punts his weak categories. That does not make him draftable in a standard league. Our league scores all nine categories every week. His holes count against you unless you have really given up those categories.",
      "sources": [
       "EGdhmUgPAWY:r7"
      ]
     },
     {
-     "text": "Big men who are elite only in blocks, FG% and rebounds get overdrafted in category leagues. Do not pay a third-round price for that profile. Remember that FG% and FT% are team ratios in our league. A big man with a bad FT% on real volume can drag your whole team's FT% down.",
+     "text": "The same trap catches big men who are elite only in blocks, FG% and rebounds. Experts say these players get overdrafted in category leagues. Do not take them as early as round three, which is picks 25 to 36 in our 12-team league. In our auction, that means do not pay a third-round price for a three-category big.",
      "sources": [
       "P6TNP-g0wzY:r1"
      ]
     },
     {
-     "text": "The same warning applies to guards and wings. High steals alone should not raise what you pay for a player. A shooting guard who only makes threes, with no rebounds or assists, is a bad fantasy profile unless he is elite at threes.",
+     "text": "Two more warnings. Do not let strong steals alone raise a player's value. A shooting guard who only makes threes and does not rebound or assist is a bad fantasy profile unless he is elite at threes.",
      "sources": [
       "7BllEsdNLoM:r12",
       "4kKINkZhWls:r0"
+     ]
+    },
+    {
+     "text": "Before you bid, read the player's full nine-category line, not his punt rank. List his weak categories. Then ask which of them your team already plans to give up. If the answer is none, he will cost you more than his ranking shows.",
+     "sources": [
+      "EGdhmUgPAWY:r7"
      ]
     }
    ]
   },
   {
-   "heading": "Fill a need, not a lost cause",
+   "heading": "Do not buy back a lost category",
    "paragraphs": [
     {
-     "text": "Track your category strengths and weaknesses during the auction itself. Then bid to fill a need, for example a big man for rebounds or a guard for assists. After each player you win, note where you stand in PTS, REB, AST, ST, BLK and 3PTM.",
-     "sources": [
-      "BjXP9JODDSg:r6"
-     ]
-    },
-    {
-     "text": "Do not buy a one-category specialist to rescue a category that is already too weak to recover. Say you have filled most of your 12 spots and sit far behind in a category. One cheap specialist will not win it for you in a weekly matchup. Spend those late dollars on a category where one player can swing the result.",
+     "text": "Do not draft a one-category specialist to fix a category that is already too weak to recover. If your core buys leave you far behind in a category, treat it as a punt. Spend the dollars you have left on categories you can still win.",
      "sources": [
       "KPdD91Oo8-U:r7"
      ]
     },
     {
-     "text": "Buying a specialist early has its own cost. A player who helps in only two categories leaves holes elsewhere, and you then have to fill them with your remaining budget. In a 200 USD auction, save the clear one-category buys for the late stage, after your core is set.",
+     "text": "Many holes start early. Taking a two-category player early leaves holes in your team that you then have to fix. Before you pay a big price for a narrow player, count which categories he will leave empty and whether your later budget can cover them.",
      "sources": [
       "gJUBAJaHzlU:r8"
      ]
-    }
-   ]
-  },
-  {
-   "heading": "When to reach: the experts disagree",
-   "paragraphs": [
+    },
     {
-     "text": "The experts disagree on reaching. One side says you sometimes have to pay a bit early to fill a need, such as assists, and that a reach is fine if it fits your build, so you need not be rigid about value. The other side says that when you are weak in a category like assists, you should not chase it too hard. For our league, the middle path is this: reach a few dollars for a need that fits your planned build, and stop if you are bidding only to patch a weakness.",
+     "text": "The same rule holds in season. We get at most 6 acquisitions per week and a limited FAB budget. Use them on a category you can swing in this week's matchup. Do not use them on a category you lose every week.",
      "sources": [
-      "BjXP9JODDSg:r7",
-      "uarqbNA2dFk:r1",
+      "KPdD91Oo8-U:r7",
       "_vbAP5y182A:r3"
      ]
     }
    ]
   },
   {
-   "heading": "How to use specialists in our league",
+   "heading": "When filling a need is the right move",
    "paragraphs": [
     {
-     "text": "Before the 2026-10-18 auction, choose the build you want and the categories you plan to give up. During the auction, check that build after each win. Once your first 9 or 10 players are set, use the final roster spots on specialists for categories you are close in. Do not use them on a category you already plan to punt.",
+     "text": "Track your category strengths and weaknesses during the draft. After each of your buys, note which of the nine categories you lead and which you lag. Pick to fill needs, for example a big man for rebounds or an early buy for assists.",
+     "sources": [
+      "BjXP9JODDSg:r6"
+     ]
+    },
+    {
+     "text": "Specialists fit best in the last of our 12 roster spots, after the 144-player pool has thinned. The right target is close to average in a category you are only a little behind in, and his weak categories are ones you already punt. A specialist whose weak spots hit categories you are trying to win is the wrong buy, even when he is cheap.",
      "sources": [
       "BjXP9JODDSg:r6",
-      "KPdD91Oo8-U:r7"
+      "EGdhmUgPAWY:r7"
      ]
     },
     {
-     "text": "Only 144 players are drafted, so many specialists will go undrafted and sit on waivers. Pay 1 USD for a specialist ranked near the edge of the pool only when he fills a real need for your build. Otherwise let him go and claim him later.",
+     "text": "The experts disagree on how hard to chase a need. One side says you sometimes have to reach, taking a player a bit early just to get assists, and that a reach is fine if it fits your build because you need not be rigid about value. The other side says not to overindex on chasing a weak category like assists, and warns that buying narrow players early creates new holes. A workable middle ground: reach a little for a category that is still in play, and never reach for one already lost.",
      "sources": [
-      "EGdhmUgPAWY:r7",
-      "KPdD91Oo8-U:r7"
-     ]
-    },
-    {
-     "text": "The same rule applies in season. Waivers process daily, and you get at most 6 acquisitions per week. Spend FAB and adds on a specialist when a category is close against this week's opponent. Do not spend them on a category that is already gone. If a category stays weak all season, trade for a better all-around player before the 2027-03-04 deadline instead of collecting specialists for our playoff weeks 19 to 21.",
-     "sources": [
-      "KPdD91Oo8-U:r7",
+      "BjXP9JODDSg:r7",
+      "uarqbNA2dFk:r1",
       "_vbAP5y182A:r3",
       "gJUBAJaHzlU:r8"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Checks before you bid or claim",
+   "paragraphs": [
+    {
+     "text": "Run four checks before every specialist bid on 2026-10-18 and every FAB claim after it. First, is the category still winnable? Second, do his weak categories match your punts? Third, is he elite in his one category, not just good? Fourth, would the price buy a third-round player? If it would, stop bidding.",
+     "sources": [
+      "KPdD91Oo8-U:r7",
+      "EGdhmUgPAWY:r7",
+      "4kKINkZhWls:r0",
+      "P6TNP-g0wzY:r1"
+     ]
+    },
+    {
+     "text": "Steals deserve one extra check. A player who brings steals and nothing else should not climb your list because of steals alone. Look for a second category he helps, or a punt that hides his weak spots.",
+     "sources": [
+      "7BllEsdNLoM:r12"
      ]
     }
    ]
@@ -179,260 +195,254 @@
  ],
  "players": [
   {
-   "slug": "tyrese-haliburton",
-   "tier": "Mid-auction category buys",
-   "line": "Elite assists plus useful threes, steals and FT%, but managed minutes and rested back-to-backs keep experts below his Yahoo rank."
-  },
-  {
-   "slug": "karl-anthony-towns",
-   "tier": "Mid-auction category buys",
-   "line": "Big rebound numbers and a FT% that helps for a big, with turnovers as his only weak category, though experts warn he is going too high."
-  },
-  {
-   "slug": "trae-young",
-   "tier": "Mid-auction category buys",
-   "line": "A top-five passer with elite FT% who costs you FG% and turnovers, so he fits punt FG% or punt TO builds."
-  },
-  {
-   "slug": "kawhi-leonard",
-   "tier": "Mid-auction category buys",
-   "line": "Standout steals with strong points and FT% per game, but knee and load management cut his games, and three Toronto back-to-backs fall in our playoffs."
-  },
-  {
-   "slug": "josh-giddey",
-   "tier": "Mid-auction category buys",
-   "line": "Elite assists and strong rebounds that work best on punt TO, with his FT% and his usage next to Powell and Buzelis as early checks."
-  },
-  {
-   "slug": "lamelo-ball",
-   "tier": "Mid-auction category buys",
-   "line": "A threes and assists source for punt FG% and punt TO builds, with ankle risk and a two-game playoff week as reasons to stay at the low end."
-  },
-  {
-   "slug": "devin-booker",
-   "tier": "Mid-auction category buys",
-   "line": "A points source with elite FT% whose value depends on whether he still runs the offense next to Jalen Green."
-  },
-  {
-   "slug": "stephen-curry",
-   "tier": "Mid-auction category buys",
-   "line": "Elite threes and points per game, but his knee, his age and 43 games played last season mean you should not pay a premium."
-  },
-  {
-   "slug": "jalen-brunson",
-   "tier": "Mid-auction category buys",
-   "line": "Points on high usage plus threes, FT% and assists, but the Knicks' careful minutes plan and his wrist surgery make him a round 4 player for experts."
-  },
-  {
-   "slug": "james-harden",
-   "tier": "Mid-auction category buys",
-   "line": "An elite assist source for punt FG% and punt TO builds, and experts say not round two, so last season's price would be an overpay."
-  },
-  {
-   "slug": "domantas-sabonis",
-   "tier": "Mid-auction category buys",
-   "line": "About 13.7 projected rebounds plus FG% and assists from the C spot, a punt TO fit that experts place in rounds 3 to 4."
-  },
-  {
    "slug": "anthony-davis",
-   "tier": "Mid-auction category buys",
-   "line": "Elite blocks and rebounds with no weak category, but projected 58 to 61 games keep him a round 3 buy."
-  },
-  {
-   "slug": "evan-mobley",
-   "tier": "Mid-auction category buys",
-   "line": "Blocks, rebounds and FG% count fully in punt FT% builds, and he finished 41st in categories last season, so do not repeat last year's price."
+   "tier": "Mid-auction fills",
+   "line": "Blocks and rebounds with a plus FG%, but games played are the doubt and a build around him still needs guard stats and threes."
   },
   {
    "slug": "jalen-duren",
-   "tier": "Mid-auction category buys",
-   "line": "A FG% and rebounds anchor who makes no threes, a punt 3PM fit whom experts see in rounds 3 to 4."
+   "tier": "Mid-auction fills",
+   "line": "Rebounds and FG% anchor with no threes, best in punt 3PM, and his FT% does less damage than most centers'."
   },
   {
-   "slug": "brandon-miller",
-   "tier": "Mid-auction category buys",
-   "line": "Threes, points and FT% for punt FG% and punt TO builds, and a third-round player if his shoulder checks out before the auction."
+   "slug": "james-harden",
+   "tier": "Mid-auction fills",
+   "line": "Elite assists and FT% on volume, but weak FG% and heavy turnovers make him a punt FG% and punt TO piece with a two-game finals week."
   },
   {
-   "slug": "dyson-daniels",
-   "tier": "Value at price",
-   "line": "Projected 2.2 steals plus assists, rebounds and FG%, so he gives punt FT% and punt 3PM builds more than steals alone."
+   "slug": "devin-booker",
+   "tier": "Mid-auction fills",
+   "line": "Points, FT% and assists for punt TO builds, but check whether he or Jalen Green runs the offense before counting on the assists."
   },
   {
-   "slug": "ausar-thompson",
-   "tier": "Value at price",
-   "line": "Elite steals with good FG%, rebounds and blocks, and experts say he should go clearly above his site ranks."
+   "slug": "stephen-curry",
+   "tier": "Mid-auction fills",
+   "line": "A true outlier in threes, points and FT%, but his knee, his age and expected missed games are the price of the discount."
   },
   {
-   "slug": "darius-garland",
-   "tier": "Value at price",
-   "line": "Assists, threes and FT% from a likely top 50 guard who goes cheap on Yahoo, with his toe health as the main check."
+   "slug": "evan-mobley",
+   "tier": "Mid-auction fills",
+   "line": "Blocks, rebounds and FG% with FT% as the only real hole, so he belongs on a punt FT% team."
   },
   {
-   "slug": "jaren-jackson",
-   "tier": "Value at price",
-   "line": "A blocks source that experts rank near 36th, well above his market cost, who can carry blocks next to low-assist bigs."
-  },
-  {
-   "slug": "matas-buzelis",
-   "tier": "Value at price",
-   "line": "Real blocks with no weak category, and experts agree he is a top 50 breakout pick."
-  },
-  {
-   "slug": "kon-knueppel",
-   "tier": "Value at price",
-   "line": "About 3.7 projected threes with solid FT%, but weak steals and blocks mean he only fits builds that can carry those."
-  },
-  {
-   "slug": "walker-kessler",
-   "tier": "Value at price",
-   "line": "A three-category center (BLK, REB, FG%) with a bad FT%, the type that gets overdrafted, so keep him near his ESPN level and on punt FT builds."
-  },
-  {
-   "slug": "donovan-clingan",
-   "tier": "Value at price",
-   "line": "Rebounds and blocks with a weak FT% and little else, so he is a big-man specialist only at a low price."
-  },
-  {
-   "slug": "rudy-gobert",
-   "tier": "Value at price",
-   "line": "A punt FT% center with rebounds, blocks and about 67% FG, but his FT% is a big drag in any other build."
-  },
-  {
-   "slug": "ivica-zubac",
-   "tier": "Value at price",
-   "line": "A FG% and rebounds anchor for punt 3PM and punt STL builds, fair at his Yahoo average cost, not his Yahoo value."
-  },
-  {
-   "slug": "alex-sarr",
-   "tier": "Value at price",
-   "line": "About 1.9 projected blocks even if Davis takes his spot at the rim, so he is worth buying as a blocks specialist, not at the price his rank suggests."
-  },
-  {
-   "slug": "zach-edey",
-   "tier": "Value at price",
-   "line": "FG%, rebounds and blocks for big-man builds that punt TO, if you accept the ankle risk."
-  },
-  {
-   "slug": "joel-embiid",
-   "tier": "Value at price",
-   "line": "Elite per-game points and FT% from a center, but 49 to 54 projected games make him a mid-round buy only."
+   "slug": "jalen-brunson",
+   "tier": "Mid-auction fills",
+   "line": "Points, FT%, threes and assists from a guard fit a punt BLK build, but category experts rate him well below his market."
   },
   {
    "slug": "chet-holmgren",
-   "tier": "Avoid at price",
-   "line": "Elite blocks with no weak category, but experts say Yahoo's round-two price is too high, so target him only well below it."
+   "tier": "Mid-auction fills",
+   "line": "Elite shot blocker who helps rebounds and FG% without hurting other categories; check the quadriceps before the draft."
   },
   {
-   "slug": "stephon-castle",
-   "tier": "Avoid at price",
-   "line": "About 7.3 projected assists for punt FT% and punt TO builds, but experts fade him at his Yahoo ADP."
+   "slug": "domantas-sabonis",
+   "tier": "Mid-auction fills",
+   "line": "Rebounds, FG% and frontcourt assists, but he gives back turnovers, threes and blocks, so he fits punt TO."
+  },
+  {
+   "slug": "brandon-miller",
+   "tier": "Mid-auction fills",
+   "line": "Threes, FT% and points, but low FG% on volume and turnovers push him to punt FG% or punt TO builds."
+  },
+  {
+   "slug": "jaren-jackson",
+   "tier": "Mid-auction fills",
+   "line": "Blocks-first forward whose weak rebounding and passing lean toward punt AST teams."
+  },
+  {
+   "slug": "dyson-daniels",
+   "tier": "Mid-auction fills",
+   "line": "Steals outlier who also adds assists, rebounds and FG%, so he is more than a one-category player for punt FT% or punt 3PM."
+  },
+  {
+   "slug": "darius-garland",
+   "tier": "Mid-auction fills",
+   "line": "Assists, threes and FT% from a guard for punt TO builds, with a toe to watch."
+  },
+  {
+   "slug": "matas-buzelis",
+   "tier": "Mid-auction fills",
+   "line": "Blocks and threes from a forward with no weak category flagged, though his blocks may dip next to Caleb Wilson."
+  },
+  {
+   "slug": "ausar-thompson",
+   "tier": "Mid-auction fills",
+   "line": "Steals anchor with blocks and FG%, but poor FT% and near-zero threes make him a punt FT% and punt 3PM fit only."
+  },
+  {
+   "slug": "walker-kessler",
+   "tier": "Late-auction fills",
+   "line": "Blocks, rebounds and FG% center whose FT% hurts, a natural punt FT% fill; experts treat his small-sample gains as noise."
+  },
+  {
+   "slug": "kon-knueppel",
+   "tier": "Late-auction fills",
+   "line": "Threes with good FT% and points and no weak category, but little steals or blocks, and experts call his market rank too high."
+  },
+  {
+   "slug": "donovan-clingan",
+   "tier": "Late-auction fills",
+   "line": "Rebounds and blocks only, with FT% given back and below-average steals, assists and points, so he fills out a build rather than anchoring one."
+  },
+  {
+   "slug": "ivica-zubac",
+   "tier": "Late-auction fills",
+   "line": "Elite FG% and rebounds for punt 3PM and punt STL builds, but Indiana has a light playoff schedule."
+  },
+  {
+   "slug": "rudy-gobert",
+   "tier": "Late-auction fills",
+   "line": "Cheap FG%, rebounds and blocks for punt FT% or punt 3PM, with a two-game semifinal week to plan around."
+  },
+  {
+   "slug": "zach-edey",
+   "tier": "Late-auction fills",
+   "line": "FG%, rebounds and blocks anchor for punt TO builds, with foot and ankle risk."
   },
   {
    "slug": "myles-turner",
-   "tier": "Late flyers",
-   "line": "Blocks and threes from a center for punt FG% builds, fine late but not worth a top-100 price."
+   "tier": "Late-auction fills",
+   "line": "Blocks and threes from a center for punt FG% builds, fine only near the end of the auction."
+  },
+  {
+   "slug": "alex-sarr",
+   "tier": "Avoid at market price",
+   "line": "A real blocks source, but Young, Davis and Dybantsa cut his role, so buy him only at end-of-auction prices."
+  },
+  {
+   "slug": "stephon-castle",
+   "tier": "Avoid at market price",
+   "line": "Assist source who costs you FT% and TO, and his category value sits far below his points-league hype."
+  },
+  {
+   "slug": "joel-embiid",
+   "tier": "Avoid at market price",
+   "line": "Points and FT% per game, but turnovers and a limited games total leave empty head-to-head weeks, including playoff back-to-backs."
   },
   {
    "slug": "jalen-suggs",
-   "tier": "Late flyers",
-   "line": "Steals for builds that can absorb his weak FG% and turnovers, with about 20 missed games to plan for."
+   "tier": "End-of-auction flyers",
+   "line": "Elite steals plus threes and assists, if you can live with weak FG%, turnovers and missed games."
   },
   {
    "slug": "kevin-porter",
-   "tier": "Late flyers",
-   "line": "Steals and assists for punt 3PM builds, and easy to drop if he does not start or reach 27 minutes."
+   "tier": "End-of-auction flyers",
+   "line": "Steals, assists and FT% for punt 3PM builds, and an easy cut if he ends up a bench guard."
   },
   {
    "slug": "cason-wallace",
-   "tier": "Late flyers",
-   "line": "Steals with low turnovers but little scoring, rebounding or passing, so he only suits builds chasing steals."
+   "tier": "End-of-auction flyers",
+   "line": "A textbook one-category player: steals and little else, so he is worth only a last-dollar bid."
   },
   {
    "slug": "khaman-maluach",
-   "tier": "Late flyers",
-   "line": "Blocks plus some rebounds and FG% near our 144-player cutoff, for punt AST and punt STL builds, if he starts while Mark Williams is out."
+   "tier": "End-of-auction flyers",
+   "line": "Blocks flyer for punt STL or punt AST builds, and a cut if Ighodaro keeps the center job."
   },
   {
    "slug": "yves-missi",
-   "tier": "Late flyers",
-   "line": "Blocks with FG% on low volume and few turnovers, and back to waivers if he does not start over Derik Queen."
+   "tier": "End-of-auction flyers",
+   "line": "Blocks and good FG% for punt 3PM or punt STL; check his FT% and that he starts over Derik Queen."
   },
   {
    "slug": "scotty-pippen",
-   "tier": "Late flyers",
-   "line": "His value is almost all steals and his projected 2.5 turnovers hurt, so he is a last pick or a waiver option only."
-  },
-  {
-   "slug": "isaiah-stewart",
-   "tier": "Late flyers",
-   "line": "Blocks plus FG% on low volume, worth a pick or an early claim only if Edey stays out."
+   "tier": "Waiver watch",
+   "line": "Steals and assists for a punt FT% build, mainly a waiver name unless he wins a bigger role."
   },
   {
    "slug": "dereck-lively",
    "tier": "Waiver watch",
-   "line": "A broken foot keeps him out until around Thanksgiving, so watch waivers for his blocks and FG% if he later wins the starting job."
+   "line": "Do not spend at the auction; if he wins the job after his broken foot, his blocks and FG% fit punt 3PM."
+  },
+  {
+   "slug": "isaiah-stewart",
+   "tier": "Waiver watch",
+   "line": "Hurt now and outside the drafted pool, but a FAB target for blocks if he starts while Edey is out."
   },
   {
    "slug": "robert-williams",
    "tier": "Waiver watch",
-   "line": "Blocks and FG% in under 20 minutes, a waiver add if his minutes climb or Clingan misses time, though back-to-back rest hurts in weeks 19 to 21."
+   "line": "Blocks, FG% and low turnovers in capped minutes; add him if his minutes rise toward 23."
   },
   {
    "slug": "deanthony-melton",
    "tier": "Waiver watch",
-   "line": "Steals with a low FG%, outside our draft pool, so add him only if he starts and plays about 28 minutes."
+   "line": "Steals for steals-chasing or punt FG% builds, worth an add if he wins the open starting spot."
   },
   {
    "slug": "matisse-thybulle",
    "tier": "Waiver watch",
-   "line": "A pure steals specialist in under 20 minutes, worth a waiver pickup only if his minutes rise above 16 and he stays healthy."
+   "line": "Steals source for punt PTS or punt REB teams, to watch on waivers rather than draft."
   }
  ],
  "excluded": [
   {
    "slug": "nikola-jokic",
-   "reason": "Consensus first pick and all-category anchor, not a late or in-season category filler."
+   "reason": "Multi-category first-round anchor, not a late or in-season category fill."
   },
   {
    "slug": "victor-wembanyama",
-   "reason": "Top-2 anchor priced near 70 USD or more, not a late category filler."
+   "reason": "Top-two pick across blocks, rebounds and points, not a late category fill."
   },
   {
    "slug": "luka-doncic",
-   "reason": "Top-4 anchor strong in many categories, priced over 70 USD."
+   "reason": "Four-category star priced at the top of the auction, not a specialist fill."
   },
   {
    "slug": "shai-gilgeous-alexander",
-   "reason": "First-round anchor with no weak category, priced at 70 to 80 USD."
+   "reason": "Top-four pick who helps nearly every category, not a late fill."
   },
   {
    "slug": "anthony-edwards",
-   "reason": "First-round scorer priced near 60 USD, not a filler."
+   "reason": "Early-round core player priced far above a late category fill."
   },
   {
    "slug": "cade-cunningham",
-   "reason": "Top-10 multi-category guard priced in the mid 50s, not a late filler."
-  },
-  {
-   "slug": "giannis-antetokounmpo",
-   "reason": "Build anchor priced near 60 USD, not a category filler."
-  },
-  {
-   "slug": "tyrese-maxey",
-   "reason": "Multi-category guard priced near the top 12, not a late specialist."
-  },
-  {
-   "slug": "jayson-tatum",
-   "reason": "Top-8 multi-category forward priced near 55 USD."
+   "reason": "Early-round assist anchor priced as a core buy, not a late fill."
   },
   {
    "slug": "donovan-mitchell",
-   "reason": "Multi-category guard priced at 40 to 45 USD, not a late filler."
+   "reason": "Multi-category guard in the 30 to 40 USD range, not a late specialist."
+  },
+  {
+   "slug": "giannis-antetokounmpo",
+   "reason": "Top-five core player who shapes a build rather than filling a hole."
+  },
+  {
+   "slug": "jayson-tatum",
+   "reason": "First-round forward with broad production, not a category fill."
+  },
+  {
+   "slug": "tyrese-maxey",
+   "reason": "Late first or early second round guard priced as a core buy."
   },
   {
    "slug": "jalen-johnson",
-   "reason": "Rebounds and assists anchor priced as an early pick, not a late filler."
+   "reason": "Second-round two-category star priced well above a late fill."
+  },
+  {
+   "slug": "tyrese-haliburton",
+   "reason": "Assist anchor priced as an early core buy, not a late fill."
+  },
+  {
+   "slug": "lamelo-ball",
+   "reason": "Mid-30s USD core guard, not a late or in-season fill."
+  },
+  {
+   "slug": "karl-anthony-towns",
+   "reason": "Mid-30s USD multi-category big, priced as a core buy."
+  },
+  {
+   "slug": "trae-young",
+   "reason": "Round-three assist anchor priced as a core buy, not a late fill."
+  },
+  {
+   "slug": "josh-giddey",
+   "reason": "Priced as a pick in the 20s for category leagues, above late-fill range."
+  },
+  {
+   "slug": "kawhi-leonard",
+   "reason": "Per-game all-around player with no weak category, so his question is games played, not a category need."
   }
  ],
  "rejected": []

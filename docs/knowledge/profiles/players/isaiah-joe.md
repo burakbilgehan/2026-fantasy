@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 255 | 0 | 0.0 | 188 | not drafted |
+| 2026-27 | 0 | - | 255 | 0 | 0.0 | 190 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -25,29 +25,31 @@
 | AST | 1.4 | -0.9 | -1.1 | - |
 | STL | 0.7 | -0.7 | -0.8 | - |
 | BLK | 0.2 | -0.9 | -1.0 | - |
-| TO | 0.6 | +1.4 | +1.4 | - |
+| TO | 0.6 | +1.4 | +1.5 | - |
 
 </details>
 
 **Current**
-- He is projected as Detroit's sixth man and backup shooter, the first player off the bench ahead of Ron Holland, Paul Reed and Daniss Jenkins. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1544), [10-03](https://youtu.be/_O9pc_u5vH0?t=1420), [07-01](https://youtu.be/W3THnI7wWdA?t=284))
-- Duncan Robinson is projected to keep his starting spot. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=374))
-- He ranks around 250 for fantasy, outside the top 250. He is a three-point streamer, not a draft target. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1544), [10-03](https://youtu.be/_O9pc_u5vH0?t=1602))
-- Detroit plays 4, 3 and 4 games in our playoff weeks. The team has 15 back-to-backs, with no rest risk expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
-- He is the most likely player to challenge Duncan Robinson for the starting spot. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=643))
+- Experts do not trust coach JB Bickerstaff's comments about minutes. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=2544))
+- He is projected as Detroit's sixth man and backup shooter. Ron Holland, Paul Reed and Daniss Jenkins are behind him in the bench rotation. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1544), [10-03](https://youtu.be/_O9pc_u5vH0?t=1420), [07-01](https://youtu.be/W3THnI7wWdA?t=284))
+- Duncan Robinson is in the projected starting five. (fact, 2026-10-03; [08-12](https://youtu.be/p9XE5jFqhvs?t=526), [10-03](https://youtu.be/_O9pc_u5vH0?t=374))
+- He is ranked outside the top 250 for fantasy. His value is as a three-point streamer, not as a draft pick. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1544), [10-03](https://youtu.be/_O9pc_u5vH0?t=1602))
+- For a season ending March 28, Detroit plays 4, 3 and 4 games in the fantasy playoff weeks. The team has 15 back-to-backs. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
+- No rest risks are expected for Detroit players on back-to-backs. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
+- Joe is seen as the most likely player to take Robinson's starting spot. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=643))
 - Detroit used a deep 12 to 13 player rotation last season, which limited everyone's minutes. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1386))
-- Detroit is projected to win 50 to 51 games and finish third or fourth in the East. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1765))
-- He joined Detroit in an offseason trade. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=284))
+- Detroit traded for him in the offseason. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=284))
 
 **Durable**
+- His value comes from threes, few turnovers and a good FT% on low volume. His rebounds, assists, steals and blocks are below the top 250 pool. (fact, 2026-10-11; stats)
 - He is an elite three-point shooter with low usage who adds little else. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1602))
-- His defense kept him off the floor in OKC's last two playoff runs, and he fell out of their playoff rotation. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=643), [07-26](https://youtu.be/75Sk_4fkgIM?t=296))
-- He is a strong regular-season shooter who can get hot from three. His shooting fell off in the second half of last season. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=296))
+- He creates some turnovers on defense. His overall defense kept him out of OKC's rotation in the last two playoff runs. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=643), [07-26](https://youtu.be/75Sk_4fkgIM?t=296))
+- He can get hot from three in the regular season. His shooting fell off in the second half of last season. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=296))
 
 **Tags**
-- Current: `new team` (traded from OKC to Detroit), `minutes competition` (sixth man behind starter Duncan Robinson; most likely challenger for that spot), `waiver watch` (three-point streamer, ranked around 250), `deep rotation` (Detroit used a 12 to 13 player rotation last season), `winning team` (projected 50 to 51 wins)
-- Durable: `streaky` (hot and cold three-point stretches; shooting fell off in the second half of last season), `defense-first` (Detroit is built on defense; his own defense limits his minutes)
+- Current: `new team` (Traded from OKC to Detroit in the offseason), `minutes competition` (Sixth man, competes with Duncan Robinson for the starting spot), `deep rotation` (Detroit used a 12 to 13 player rotation last season), `waiver watch` (Three-point streamer, ranked outside the top 250)
+- Durable: `streaky` (Can get hot from three, but his shooting fell off in the second half of last season), `defense-first` (Detroit is built on defense, and his defense has cost him playoff minutes)
 
-**Note.** Both sites value him at 0 USD (Yahoo rank 255, ESPN rank 188), and he went undrafted in our league. That puts him outside our 144-player draft pool, so leave him on waivers. As a streamer he gives about 2.5 threes and very few turnovers (TO z +1.4, 3PM z +1.2), and his FT% is good but on low volume. He gives almost nothing in REB, AST, STL or BLK. Early in the season, check whether he takes Duncan Robinson's starting spot or plays clearly more than his usual 21 minutes. Either change would make him worth a FAB bid for teams that need threes.
+**Note.** Both sites value him at 0 USD (Yahoo rank 255, ESPN rank 190), and only 144 players get drafted, so do not draft him. He is a waiver streamer for threes. He projects about 2.5 3PM with very few turnovers on roughly 21 minutes, but he gives little in REB, AST, STL and BLK. Early in the season, check whether he takes Duncan Robinson's starting spot or gets more than 21 minutes, since that would make him worth holding in 3PM-heavy builds.
 
-<sub>6 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>6 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 215 | 0 | 0.0 | 169 | not drafted |
+| 2026-27 | 0 | - | 219 | 0 | 0.0 | 168 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,35 +19,33 @@
 |---|---|---|---|---|
 | FG% | 44.1% | -0.6 | -0.5 | - |
 | FT% | 78.6% | -0.0 | -0.2 | - |
-| 3PM | 2.6 | +1.2 | +1.2 | - |
+| 3PM | 2.6 | +1.2 | +1.1 | - |
 | PTS | 11.0 | -0.5 | -0.6 | - |
 | REB | 2.4 | -1.1 | -1.2 | - |
 | AST | 2.4 | -0.4 | -0.5 | - |
 | STL | 0.5 | -1.2 | -1.3 | - |
-| BLK | 0.2 | -0.7 | -0.8 | - |
-| TO | 1.1 | +0.7 | +0.7 | - |
+| BLK | 0.2 | -0.8 | -0.8 | - |
+| TO | 1.1 | +0.7 | +0.8 | - |
 
 </details>
 
 **Current**
-- He is projected to start at shooting guard, in the same starting five as last season: Cunningham, Robinson, Thompson, Collins and Duren. (fact, 2026-10-03; [08-12](https://youtu.be/p9XE5jFqhvs?t=562), [10-03](https://youtu.be/_O9pc_u5vH0?t=374))
-- He is likely safe as a starter, but the expert expects a part-time starter's load of about 24 to 25 minutes. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=229))
-- The expert says he is only worth drafting in 20-team leagues and puts his fair ADP around 239. Site ranks are too high. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1160))
-- He is a streaming option for threes, not a draft target. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1214))
-- Detroit's playoff schedule is 4-3-4 games in weeks 19 to 21. The team has 15 back-to-backs, and no rest risks are expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
-- Detroit used a deep 12 to 13 player rotation last season that limited everyone's minutes. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1386))
-- Detroit is projected to win 50 to 51 games and finish as the third or fourth seed in the East. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1765))
+- He is projected to start at shooting guard in the same starting five as last season, with Cunningham, Thompson, Collins and Duren. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=374), [08-12](https://youtu.be/p9XE5jFqhvs?t=562), [08-12](https://youtu.be/p9XE5jFqhvs?t=526))
+- His starting spot looks safe, but he may be a half starter who plays only about 24 to 25 minutes. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=229))
+- He is not a draft target. The expert calls him a streaming option for threes, worth drafting only in 20-team leagues, with an ADP around 239 about right. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1160), [10-03](https://youtu.be/_O9pc_u5vH0?t=1214))
+- Detroit plays 4-3-4 games in our playoff weeks (season ending March 28). It has 15 back-to-backs, and no rest risks are expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
+- Detroit used a deep 12 to 13 player rotation last season, which limited everyone's minutes. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1386))
 
 **Durable**
-- He is an elite three-point shooter. Threes are his clear best category. (verdict, 2026-10-05; [08-12](https://youtu.be/p9XE5jFqhvs?t=684), stats)
-- He takes very few free throws, so his FT% barely moves a team's FT%. (fact, 2026-10-05; [08-12](https://youtu.be/p9XE5jFqhvs?t=684), stats)
-- His usage is low and he gives little besides threes. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1167))
-- His defense and passing have improved a lot. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1167))
+- His usage is low, and he adds little besides threes. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1167), stats)
+- His defense and passing have improved a lot. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1167))
+- He is an elite three-point shooter. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=684))
+- He takes very few free throws, so his FT% swings from year to year but barely moves a team's FT%. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=684), stats)
 
 **Tags**
-- Current: `waiver watch` (streaming option for threes, not a draft target in 12-team leagues), `deep rotation` (Detroit used a 12 to 13 player rotation last season; he projects for about 24 to 25 minutes), `winning team` (projected 50 to 51 wins)
-- Durable: `defense-first` (Detroit is built on defense and only wants enough offense)
+- Current: `waiver watch` (Streaming option for threes, not a draft target in 12-team leagues), `deep rotation` (Detroit used a 12 to 13 player rotation last season; he may play only 24 to 25 minutes as a starter)
+- Durable: none
 
-**Note.** Yahoo ranks him 215th and ESPN 169th, both sites value him at 0 USD, and nobody drafted him in our league last season. In a 12-team league that drafts 144 players, he belongs on waivers, and the expert agrees he is a 20-team player only. He is a streaming pickup for threes (about 2.6 a game) with low turnovers. Early in the season, check whether he plays more than the expected 24 to 25 minutes as Detroit's starting shooting guard.
+**Note.** Leave him out of the auction. Yahoo ranks him 219 and ESPN 168, both value him at 0 USD, and the expert says he is a 20-team player. His only real category is threes (about 2.6 per game, z +1.2), and he is below average in REB, STL, BLK and PTS. Early in the season, watch whether he keeps the starting job at around 25 minutes. If he does, he is a short-term waiver pickup for threes in weeks when you need 3PM.
 
-<sub>6 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>6 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

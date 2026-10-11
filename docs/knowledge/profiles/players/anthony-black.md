@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 146 | 1 | 0.4 | 125 | not drafted |
+| 2026-27 | 0 | 0.0 | 148 | 1 | 0.3 | 128 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,8 +20,8 @@
 | FG% | 45.3% | -0.5 | -0.4 | - |
 | FT% | 74.6% | -0.6 | -0.9 | - |
 | 3PM | 1.4 | -0.1 | -0.3 | - |
-| PTS | 14.2 | +0.0 | +0.0 | - |
-| REB | 3.7 | -0.6 | -0.4 | - |
+| PTS | 14.2 | +0.0 | -0.0 | - |
+| REB | 3.7 | -0.6 | -0.5 | - |
 | AST | 3.5 | +0.2 | +0.1 | - |
 | STL | 1.4 | +1.3 | +1.2 | - |
 | BLK | 0.7 | +0.2 | +0.8 | - |
@@ -30,24 +30,23 @@
 </details>
 
 **Current**
-- Yahoo lists him as questionable with an ankle injury. (fact, 2026-10-04; stats)
-- Experts call him overrated and say round 9 is way too early. His projections look fine, and he is a reasonable late pick, mainly in deeper leagues. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2465), [09-24](https://youtu.be/_vbAP5y182A?t=1764), [09-10](https://youtu.be/dlo7L8Ru91A?t=1888))
-- If Suggs goes down, he would start and be worth rostering. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2465))
-- He is not in Orlando's projected starting five. He projects as the sixth man and the main creator for the bench units. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=990), [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
-- He is third in FanDuel's Sixth Man of the Year odds. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=990))
-- After December last season he settled in as a 12 to 13 point per night player, below his 15 point season average. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=887))
-- He is due a new contract. Orlando is 2.5 million USD under the second apron. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2032), [08-01](https://youtu.be/FEcNjVRlj-U?t=1259))
-- Phil expects his new deal to be at least 23 million USD per year, and Orlando will likely have to choose between keeping Suggs and keeping Black. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2032), [08-01](https://youtu.be/FEcNjVRlj-U?t=1259))
+- Yahoo lists him as questionable with an ankle injury. (fact, 2026-10-11; stats)
+- Orlando has a new head coach, Sean Sweeney, who replaces Jamahl Mosley. Player roles may change. (fact, 2026-10-08; [08-01](https://youtu.be/FEcNjVRlj-U?t=359), [10-08](https://youtu.be/6DnRWahYrFA?t=1672))
+- Experts call him overrated. In a 9-cat mock draft he went way too early in round 9. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2465), [09-24](https://youtu.be/_vbAP5y182A?t=1764))
+- He would start and be worth rostering if Jalen Suggs gets hurt. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2465))
+- Orlando's projected starters are Suggs, Bane, Franz Wagner, Banchero and Carter. Black is expected to be the sixth man and the main creator for the bench units. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=990), [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
+- Last season he scored 15 points per game, but after December he settled in at 12 to 13 points per game. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=887))
+- He is due a new contract. Orlando is 2.5 million USD under the second apron and will likely have to choose between keeping Suggs and keeping Black. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2032), [08-01](https://youtu.be/FEcNjVRlj-U?t=1259))
+- Phil expects his new contract to be worth at least 23 million USD per year. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2032))
 
 **Durable**
-- Steals are his only clearly above-average category. His other categories sit near or slightly below the pool average, with no strong outlier. (fact, 2026-10-04; stats)
-- His usage is above 20%, but he passes little for that usage, with about 3.5 to 3.7 assists per game. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=653))
-- He is a good on-ball defender but gets eaten up on screens and is not at Suggs's level defensively. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=962))
+- His usage is above 20%, but he does not pass much for a ball handler. He averaged only about 3.5 to 3.7 assists last season. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=653))
+- He is a good on-ball defender, but screens give him trouble and he is not at Suggs's level on defense. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=962))
 
 **Tags**
-- Current: `handcuff` (Would start and be worth rostering if Jalen Suggs goes down), `trade risk` (Due a new contract. Orlando is near the second apron and likely has to choose between Suggs and Black), `questionable` (Yahoo status Q (ankle)), `injured now` (Ankle, Yahoo status Q), `waiver watch` (Yahoo rank 146 and ESPN rank 125, near the edge of our 144-player draft. Worth watching if Suggs gets hurt)
+- Current: `handcuff` (Starts and has value if Jalen Suggs goes down), `waiver watch` (Ranked near the end of the 144-player pool. Pick him up if Suggs gets hurt.), `contract year` (Due a new contract. Orlando near the second apron, may have to choose between him and Suggs.), `questionable` (Yahoo Q (Ankle)), `injured now` (Ankle, Yahoo status Q), `new coach` (Sean Sweeney replaces Jamahl Mosley), `winning team` (Phil predicts 47 or 48 wins and the 6th seed)
 - Durable: none
 
-**Note.** Yahoo values him at 0 USD (rank 146) and ESPN at 1 USD (rank 125), so in our 144-player auction he is a 1 USD last pick at most, and he will often go undrafted. His value is mostly steals (+1.3 z) with slightly weak FG%, FT%, rebounds and turnovers, so he adds little to any build unless his role grows. Early in the season, check his ankle, his bench minutes as sixth man under new coach Sweeney, and Suggs's health, since a Suggs injury or a contract-driven trade is what would make him startable.
+**Note.** He is priced as a last-round or waiver player: Yahoo ranks him 148 at 0 USD, ESPN ranks him 128 at 1 USD, and nobody drafted him in our league last season. Steals are his only clear plus (1.4 per game, z +1.3). His FG%, FT%, rebounds and turnovers all sit a little below average, and no category is weak enough to make him a punt fit. Since the experts call him overrated as a bench sixth man, don't spend more than 1 USD on him. Early in the season, check his ankle, how many bench minutes Sweeney gives him, and whether Suggs stays healthy, because a Suggs injury makes him a waiver add.
 
-<sub>8 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>8 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
