@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 55 | 60.8 | 6 | 41 | 64.1 | 19 | 62 |
+| 2026-27 | 55 | 60.8 | 6 | 41 | 65.5 | 19 | 62 |
 
 <details><summary>Category profile (code)</summary>
 

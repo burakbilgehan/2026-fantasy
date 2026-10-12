@@ -359,11 +359,15 @@ def cmd_run() -> None:
           f"Sources per player {dict(sorted(nsrc.items()))}. Stat model rates from {counts}.")
 
 
-def cmd_context(teams: list[str], only_stale: bool = False) -> None:
+def cmd_context(teams: list[str], only_stale: bool = False, parallel: int = 1) -> None:
     """Context layer for the given teams (or all 30), then `run` again. Prints progress.
     only_stale: only the teams whose expert notes or roster changed, whose prompt version is
-    old, or whose last run is a week old (see context.why_stale)."""
+    old, or whose last run is a week old (see context.why_stale).
+    parallel: teams at once. Each team is saved when it finishes, so a stopped run continues."""
     import time
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+
+    from app.experts import llm
 
     from app.analytics.projection import context
     from app.sources.teams import canonical
@@ -394,23 +398,45 @@ def cmd_context(teams: list[str], only_stale: bool = False) -> None:
             return
     with SessionLocal() as db:
         context.write_inputs(db)
-    total = 0.0
-    for i, team in enumerate(todo, 1):
+    total, done, stopped = 0.0, 0, False
+
+    def one(team: str) -> dict:
         with SessionLocal() as db:
             text, ids = context.team_input(db, team)
-        print(f"[{i}/{len(todo)}] {team}: started {datetime.now():%H:%M:%S}, {len(ids)} players, "
-              f"{len(text.split())} words. One LLM call, usually 3 to 8 minutes...", flush=True)
+        print(f"{team}: started {datetime.now():%H:%M:%S}, {len(ids)} players, {len(text.split())} words. "
+              "One LLM call, usually 3 to 8 minutes...", flush=True)
         t0 = time.time()
-        with SessionLocal.begin() as db:
+        with SessionLocal.begin() as db:  # own session per thread; SQLite waits up to 30 s for the write lock
             doc = context.run_team(db, team)
-        changed = sum(1 for x in doc["players"] if x.get("mpg") is not None or x.get("games_out")
-                      or x.get("late_games_out") or x.get("multipliers"))
-        cost = (doc.get("llm") or {}).get("cost_usd_list") or 0.0
-        total += cost
-        print(f"[{i}/{len(todo)}] {team}: done in {time.time() - t0:.0f} s. {changed} of {len(doc['players'])} "
-              f"players changed. Minutes total {doc.get('minutes_total')}. Missing {doc['missing'] or 'none'}. "
-              f"Cost {cost:.2f} USD list (total {total:.2f}). File reads {(doc.get('llm') or {}).get('turns')} turns, "
-              f"{(doc.get('llm') or {}).get('denied')} denied.", flush=True)
+        doc["_secs"] = time.time() - t0
+        return doc
+
+    print(f"Running {len(todo)} teams, {min(parallel, len(todo))} at once.", flush=True)
+    with ThreadPoolExecutor(max_workers=max(1, parallel)) as pool:
+        futs = {pool.submit(one, t): t for t in todo}
+        for f in as_completed(futs):
+            team = futs[f]
+            try:
+                doc = f.result()
+            except llm.UsageLimit as e:
+                if not stopped:
+                    print(f"Usage limit: {e}. Stopping; run again later (done teams are kept).", flush=True)
+                    llm.kill_all()
+                    stopped = True
+                continue
+            except Exception as e:
+                if not stopped:
+                    print(f"  FAILED {team}: {e}", flush=True)
+                continue
+            done += 1
+            changed = sum(1 for x in doc["players"] if x.get("mpg") is not None or x.get("games_out")
+                          or x.get("late_games_out") or x.get("multipliers"))
+            cost = (doc.get("llm") or {}).get("cost_usd_list") or 0.0
+            total += cost
+            print(f"[{done}/{len(todo)}] {team}: done in {doc['_secs']:.0f} s. {changed} of {len(doc['players'])} "
+                  f"players changed. Minutes total {doc.get('minutes_total')}. Missing {doc['missing'] or 'none'}. "
+                  f"Cost {cost:.2f} USD list (total {total:.2f}). File reads {(doc.get('llm') or {}).get('turns')} turns, "
+                  f"{(doc.get('llm') or {}).get('denied')} denied.", flush=True)
     print("Applying adjustments...", flush=True)
     cmd_run()
     print("Review: make projection-review TEAM=" + todo[0])
@@ -628,7 +654,8 @@ if __name__ == "__main__":
     args = sys.argv[1:] or ["fit"]
     cmd, rest = args[0], args[1:]
     if cmd == "context":
-        cmd_context([t for t in rest if not t.startswith("--")], only_stale="--stale" in rest)
+        par = next((int(a.split("=", 1)[1]) for a in rest if a.startswith("--parallel=")), 1)
+        cmd_context([t for t in rest if not t.startswith("--")], only_stale="--stale" in rest, parallel=par)
     elif cmd == "prompt":
         cmd_prompt(rest[0])
     elif cmd == "review" and rest and rest[0].lower() == "all":

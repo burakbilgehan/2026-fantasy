@@ -128,8 +128,9 @@ knowledge-run:
 
 # Own projection (T-025): redo the LLM context layer only for teams whose expert notes or roster
 # changed, whose prompt version is old, or whose last run is 7+ days old. Runs after knowledge-run.
+# Teams run in parallel (PARALLEL, default 6; knowledge-run passes its own). A stopped run continues.
 projection-update:
-	cd backend && uv run python -m app.jobs.projection context --stale
+	cd backend && uv run python -m app.jobs.projection context --stale --parallel=$(or $(PARALLEL),6)
 
 # T-022 articles (after knowledge-run): make knowledge-articles, ARGS="--replan" or ARGS="--only slug --force"
 knowledge-articles:
