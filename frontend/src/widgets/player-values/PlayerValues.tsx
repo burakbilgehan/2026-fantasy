@@ -56,6 +56,27 @@ function usageScale(players: ValuedPlayer[]): UsageScale | null {
 
 // Opportunity (static price minus market price) at which the cell reaches full color.
 const OPP_FULL = 15
+// Cat vs Pts (points-league rank minus model rank) at which the cell reaches full color.
+const FLUFF_FULL = 60
+
+// Yahoo points-league formula (docs/modules/valuation.md, Cat vs Pts column). A volume measure for the format gap.
+function fantasyPointsTotal(p: ValuedPlayer): number | null {
+  const s = p.stats
+  if (s.pts == null) return null
+  return s.pts + 1.2 * (s.reb ?? 0) + 1.5 * (s.ast ?? 0) + 3 * (s.stl ?? 0) + 3 * (s.blk ?? 0) - (s.tov ?? 0)
+}
+
+/** Rank of every player by fantasy points on the table's basis (totals, or per game). */
+function fptsRanks(players: ValuedPlayer[], basis: string): Map<number, number> {
+  const xs: [number, number][] = []
+  for (const p of players) {
+    const t = fantasyPointsTotal(p)
+    if (t == null) continue
+    if (basis === 'per_game') { if (p.stats.gp) xs.push([p.player_id, t / p.stats.gp]) } else xs.push([p.player_id, t])
+  }
+  xs.sort((a, b) => b[1] - a[1])
+  return new Map(xs.map(([id], i) => [id, i + 1]))
+}
 
 // Prices (docs/modules/pricing.md): two references, nothing moves during a draft (user, 2026-10-06).
 // Static price = our model's dollars. Market price = Yahoo avg x2, ESPN avg, Fantrax ADP on Yahoo's scale.
@@ -66,7 +87,11 @@ function opportunity(p: ValuedPlayer): number | null {
 }
 
 function columns(cats: string[], view: 'stats' | 'z', usageSeason?: string, usage?: UsageScale | null,
-  sold?: Map<number, string>): Column[] {
+  sold?: Map<number, string>, fpts?: Map<number, number> | null): Column[] {
+  const fluff = (p: ValuedPlayer): number | null => {
+    const r = fpts?.get(p.player_id)
+    return p.rank == null || r == null ? null : r - p.rank
+  }
   const base: Column[] = [
     { key: 'rank', label: '#', group: 'Player', num: true, className: 'rank', value: (p) => p.rank },
     { key: 'name', label: 'Player', group: 'Player', className: 'name sticky', value: (p) => p.name },
@@ -77,6 +102,12 @@ function columns(cats: string[], view: 'stats' | 'z', usageSeason?: string, usag
     { key: 'total', label: 'Value', title: 'Model value: sum of the category z values the model counts', group: 'Value',
       num: true, value: (p) => p.total, fmt: (v) => v.toFixed(2),
       heat: (p) => (p.total == null ? null : { z: p.total, full: TOTAL_FULL }) },
+    { key: 'fpts', label: 'FPts', title: 'Fantasy points per game, Yahoo points-league formula: PTS + 1.2 REB + 1.5 AST + 3 STL + 3 BLK - TO. A volume measure, not a 9-cat value.',
+      group: 'Value', num: true, value: (p) => { const t = fantasyPointsTotal(p); return t == null || !p.stats.gp ? null : t / p.stats.gp }, fmt: one },
+    { key: 'fluff', label: 'Cat vs Pts', group: 'Value', num: true,
+      title: 'Points-league rank minus this model\'s rank. Green, positive: worth more in categories than in points leagues; a room that follows Yahoo ranks tends to underpay him. Red, negative: worth more in points leagues than in categories; the room tends to overpay him. The column changes with the model.',
+      value: (p) => fluff(p), fmt: (v) => (v > 0 ? `+${v.toFixed(0)}` : v.toFixed(0)),
+      heat: (p) => { const f = fluff(p); return f == null ? null : { z: f, full: FLUFF_FULL } } },
     { key: 'room_exp', label: 'Market price', group: 'Room', num: true, className: 'group-start',
       title: 'What the market pays: Yahoo avg x2, ESPN avg, Fantrax ADP on Yahoo\'s dollar scale. During a live draft: the price paid and the buyer for sold players.',
       value: (p) => p.market.market_price, fmt: money,
@@ -100,6 +131,8 @@ function columns(cats: string[], view: 'stats' | 'z', usageSeason?: string, usag
       value: (p) => p.stats.gp, fmt: (v) => v.toFixed(0) },
     { key: 'min', label: 'MIN', title: 'Minutes per game', group: 'Playing time', num: true,
       value: (p) => (p.stats.min != null && p.stats.gp ? p.stats.min / p.stats.gp : null), fmt: one },
+    { key: 'age', label: 'Age', title: 'Age on October 1 of the base season (players.birth_date)', group: 'Playing time', num: true,
+      value: (p) => p.age, fmt: one },
     { key: 'usg', label: 'USG%', title: `Usage rate, ${usageSeason ?? 'last season'} (NBA.com)`, group: 'Playing time',
       num: true, value: (p) => (p.usg_pct == null ? null : p.usg_pct * 100), fmt: one,
       // Higher usage = green: more shots and counting stats. Tint vs the valued pool.
@@ -166,7 +199,7 @@ function Cell({ col, p, rowSpan, extra }: { col: Column; p: ValuedPlayer; rowSpa
 // Wide table, two lines per player (user, 2026-10-05: see everything without side scroll).
 // Left: pairs of columns stacked (top / bottom). Right: the categories, one tall cell each.
 const PAIRS: [string, string | null][] = [
-  ['team', 'pos'], ['gp', 'min'], ['usg', null], ['dollars', 'total'], ['room_exp', null],
+  ['team', 'pos'], ['gp', 'min'], ['usg', 'age'], ['dollars', 'total'], ['fpts', 'fluff'], ['room_exp', null],
   ['room_opp', null], ['y_cost', 'y_av'], ['e_cost', 'f_adp'],
 ]
 
@@ -388,8 +421,8 @@ export function PlayerValues({ mode = 'draft' }: { mode?: View }) {
   const cats = useMemo(() => options?.categories ?? [], [options])
   const byId = useMemo(() => new Map((data?.players ?? []).map((p) => [p.player_id, p])), [data])
   const teams = useMemo(() => (board ? buildTeams(board, byId) : []), [board, byId])
-  const cols = useMemo(() => columns(cats, view, data?.settings.usage_season, data && usageScale(data.players), sold),
-    [cats, view, data, sold])
+  const cols = useMemo(() => columns(cats, view, data?.settings.usage_season, data && usageScale(data.players), sold,
+    data && fptsRanks(data.players, data.settings.basis)), [cats, view, data, sold])
 
   const rows = useMemo(() => {
     if (!data) return []
@@ -437,7 +470,7 @@ export function PlayerValues({ mode = 'draft' }: { mode?: View }) {
       )}
       {mode !== 'league' && <>
       {board && (focusPk != null || board.nomination) && (
-        <FocusPanel row={focusRow} name={board.nomination?.name ?? board.nomination?.yahoo_id ?? ''}
+        <FocusPanel row={focusRow} query={query} name={board.nomination?.name ?? board.nomination?.yahoo_id ?? ''}
           bid={nominatedFocus && board.nomination ? { amount: board.nomination.high_bid,
             team: teams.find((t) => t.team_id === board.nomination!.high_team_id)?.label ?? '' } : null}
           nominated={nominatedFocus} teams={teams}

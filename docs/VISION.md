@@ -29,6 +29,7 @@ Product topics need research and a refinement session with the user before any c
 - Own sessions, no parallel work. Deep research: existing systems, expert methods, our league's history. Time is not the constraint (user, 2026-10-03).
 - User examples: per-game vs season totals (injury-prone stars like Kawhi Leonard, Anthony Davis); projections vs actual stats so far; real-world context (a rookie whose role grows, like Cooper Flagg in 2025-26: about $20 at the draft, worth about $40 to $50 later); expert systems that drop a player's weakest category and TO and weight scarce categories (Josh Lloyd, Basketball Monster; details not verified); league psychology (early-season hype changes how managers price a player).
 - The tool should offer more than one model. The user picks one (for example from a dropdown) or compares them.
+- 2026-10-13 research session: `docs/modules/valuation-models-research.md` (empirical H2H value from game logs, model comparison, published DURANT H2H formula, progression base rates). Decisions pending, section 7 of the note.
 - Decisions from the refinement session of 2026-10-04 (user):
   - No paid sources. Not Basketball Monster, not Hashtag.
   - A value has four independent pickers: projection source (Yahoo, ESPN, own, average of sources), basis (per game, totals = per game x projected GP, last season actual), model, dollar conversion (plain or SAVOR).

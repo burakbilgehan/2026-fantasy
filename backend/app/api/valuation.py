@@ -3,14 +3,18 @@
 Values are computed on every request from the base rows (fast: under 0.1 s). Nothing is stored.
 """
 
+from collections import Counter, defaultdict
+from datetime import date, timedelta
 from functools import lru_cache
 
 from fastapi import APIRouter, HTTPException
 from sqlalchemy import func, select
 
 from app.analytics.valuation import BASES, CATEGORIES, MODELS, Settings, g_weights, run
+from app.analytics.valuation.models import DURANT_H2H_WEIGHTS
+from app.analytics.valuation.simulate import SimInputs
 from app.db import SessionLocal
-from app.models import League, Player, PlayerAdvancedStats, PlayerExternalId, PlayerGameLog, PlayerMarketValue, PlayerProjection, PlayerSeasonStats
+from app.models import League, NbaGame, Player, PlayerAdvancedStats, PlayerExternalId, PlayerGameLog, PlayerMarketValue, PlayerProjection, PlayerSeasonStats
 from app.seasons import CURRENT_SEASON, previous
 from app.sources.players.base import STAT_FIELDS
 
@@ -21,9 +25,10 @@ DOLLARS = {
     "plain": "Value above replacement level. All drafted players share the league budget.",
     "savor": "Like plain, but cheap players are worth less because waivers replace them. Stars get more.",
 }
-# User decisions: default model Minus-1, pool 200 (2026-10-04); base Yahoo 2026-27 projection (2026-10-05).
+# User decisions: default model G-score (2026-10-13; Minus-1 from 2026-10-04 until then), pool 200
+# (2026-10-04); base Yahoo 2026-27 projection (2026-10-05).
 DEFAULTS = {"kind": "projection", "source": "yahoo", "season": CURRENT_SEASON, "basis": "totals",
-            "model": "minus1", "dollars": "plain", "pool": 200, "spread": 10.0}
+            "model": "gscore", "dollars": "plain", "pool": 200, "spread": 10.0}
 NON_DRAFT_SLOTS = {"IL", "IL+", "NA"}
 # Display names of the bases, in picker order (T-025 own projection first).
 SOURCE_LABELS = {
@@ -35,16 +40,64 @@ SOURCE_LABELS = {
 
 def _league_draft() -> tuple[int, float]:
     """(players drafted, total budget) from the league settings. Fallback: 12 x 12, 12 x 200."""
+    teams, slots, budget = _league_shape()
+    return teams * slots, float(teams * budget)
+
+
+def _league_shape() -> tuple[int, int, int]:
+    """(teams, non-IL slots per team, budget per team) from the league settings. Fallback 12, 12, 200."""
     with SessionLocal() as db:
         lg = db.scalar(select(League).order_by(League.synced_at.desc()))
     if not lg:
-        return 144, 2400.0
+        return 12, 12, 200
     slots = sum(1 for p in lg.roster_positions if p not in NON_DRAFT_SLOTS)
-    return lg.num_teams * slots, float(lg.num_teams * (lg.draft_budget or 200))
+    return lg.num_teams, slots, lg.draft_budget or 200
+
+
+def _fantasy_weeks(dates: list[date], season: str) -> tuple[date, ...]:
+    """Mondays of the fantasy weeks: from the first game's week to the week of the last Sunday of March
+    (our playoffs end there, RULES.md). Assumed Monday-to-Sunday weeks; the Yahoo calendar is not in the DB."""
+    first = min(dates)
+    monday = first - timedelta(days=first.weekday())
+    end = date(int(season[:4]) + 1, 3, 31)
+    last_sunday = end - timedelta(days=(end.weekday() - 6) % 7)
+    out = []
+    while monday + timedelta(days=6) <= last_sunday:
+        out.append(monday)
+        monday += timedelta(days=7)
+    return tuple(out)
 
 
 @lru_cache(maxsize=8)
-def _g_weights(season: str) -> tuple[tuple[str, ...], dict[str, float]]:
+def _sim_inputs(season: str) -> SimInputs:
+    """Schedule and teams for the simulated model. The NBA schedule for the season when we have it
+    (current season), else the game logs (past seasons: a team's game dates and each player's most
+    frequent team)."""
+    with SessionLocal() as db:
+        games = db.execute(select(NbaGame.home, NbaGame.away, NbaGame.game_date_et).where(NbaGame.season == season)).all()
+        if games:
+            team_dates = defaultdict(set)
+            for home, away, d in games:
+                team_dates[home].add(d)
+                team_dates[away].add(d)
+            team_of = dict(db.execute(select(Player.id, Player.team).where(Player.team.is_not(None))).all())
+        else:
+            team_dates = defaultdict(set)
+            seen: dict[int, Counter] = defaultdict(Counter)
+            for pk, team, d in db.execute(select(PlayerGameLog.player_pk, PlayerGameLog.team, PlayerGameLog.game_date)
+                                          .where(PlayerGameLog.season == season, PlayerGameLog.season_type == "regular")):
+                team_dates[team].add(d)
+                seen[pk][team] += 1
+            team_of = {pk: c.most_common(1)[0][0] for pk, c in seen.items()}
+    if not team_dates:
+        raise HTTPException(404, f"no schedule or game logs for {season}: the simulated model cannot run")
+    weeks = _fantasy_weeks([d for ds in team_dates.values() for d in ds], season)
+    team_games = {t: tuple(sum(1 for d in ds if w <= d <= w + timedelta(days=6)) for w in weeks) for t, ds in team_dates.items()}
+    return SimInputs(weeks=weeks, team_games=team_games, team_of=team_of, team_size=_league_shape()[1])
+
+
+@lru_cache(maxsize=8)
+def _g_weights(season: str, roster_size: int = 12) -> tuple[tuple[str, ...], dict[str, float]]:
     """Weights from the two regular seasons before `season`. No earlier logs: the two oldest seasons."""
     with SessionLocal() as db:
         have = sorted(db.scalars(select(PlayerGameLog.season).where(PlayerGameLog.season_type == "regular").distinct()))
@@ -54,7 +107,7 @@ def _g_weights(season: str) -> tuple[tuple[str, ...], dict[str, float]]:
                                  *(getattr(PlayerGameLog, c) for c in cols))
                           .where(PlayerGameLog.season_type == "regular", PlayerGameLog.season.in_(use)))
         logs = [dict(zip(("player", "season", "game_date", *cols), r)) for r in rows]
-    return use, g_weights(logs)
+    return use, g_weights(logs, roster_size=roster_size)
 
 
 @router.get("/options")
@@ -165,6 +218,13 @@ def nba_ids(pks) -> dict[int, str]:
             PlayerExternalId.source == "nba", PlayerExternalId.player_pk.in_(list(pks)))).all())
 
 
+def _age(player: Player, season: str) -> float | None:
+    """Age on October 1 of the season's first year, one decimal. None without a birth date."""
+    if not player.birth_date:
+        return None
+    return round((date(int(season[:4]), 10, 1) - player.birth_date).days / 365.25, 1)
+
+
 def _usage(pks, season: str) -> dict[int, float]:
     with SessionLocal() as db:
         return dict(db.execute(select(PlayerAdvancedStats.player_pk, PlayerAdvancedStats.usg_pct).where(
@@ -175,21 +235,37 @@ def _usage(pks, season: str) -> dict[int, float]:
 def _run(base: dict, model: str, season: str, basis: str, punts: frozenset[str], dollars: str, pool: int,
          spread: float) -> tuple[dict, tuple[str, ...], dict]:
     """Values of the whole base pool with one model: (result per player, g-score seasons, g-score weights)."""
-    g_from, gw = _g_weights(season) if model == "gscore" else ((), {})
-    settings = Settings(basis=basis, pool=pool or None, punt=punts, g_weights=gw)
+    m = MODELS[model]
+    teams, slots, _ = _league_shape()
+    g_from, gw = _g_weights(season, slots) if "g_weights" in m.needs else ((), {})
+    sim = _sim_inputs(season) if m.simulation else None
+    settings = Settings(basis=basis, pool=pool or None, punt=punts, g_weights=gw, sim=sim)
     n_drafted, budget = _league_draft()
     rows = {pk: {f: getattr(r, f) for f in STAT_FIELDS} for pk, r in base.items()}
+    if m.simulation:
+        # About 3 s per run; the same base and settings give the same answer, so cache on the rows.
+        frozen = tuple(sorted((pk, tuple(r[f] or 0 for f in STAT_FIELDS)) for pk, r in rows.items()))
+        return _sim_run(frozen, model, season, basis, pool or None, n_drafted, budget, dollars, spread), g_from, gw
     return run(rows, model, settings, n_drafted=n_drafted, budget=budget, dollars=dollars, spread=spread), g_from, gw
+
+
+@lru_cache(maxsize=32)
+def _sim_run(frozen: tuple, model: str, season: str, basis: str, pool: int | None, n_drafted: int, budget: float,
+             dollars: str, spread: float) -> dict:
+    rows = {pk: dict(zip(STAT_FIELDS, vals)) for pk, vals in frozen}
+    settings = Settings(basis=basis, pool=pool, sim=_sim_inputs(season))
+    return run(rows, model, settings, n_drafted=n_drafted, budget=budget, dollars=dollars, spread=spread)
 
 
 def off_categories(model: str, z: dict[str, float], punts: frozenset[str]) -> list[str]:
     """Categories the model does not count for this player (punted, or the player's dropped worst one)."""
     if model == "punt":
         return [c for c in CATEGORIES if c in punts]
-    if model in ("minus1", "durant"):
-        pool = [c for c in CATEGORIES if model == "minus1" or c != "tov"]
-        worst = min(pool, key=lambda c: z[c])
-        return [worst] if model == "minus1" else sorted({"tov", worst}, key=CATEGORIES.index)
+    if model == "minus1":
+        return [min(CATEGORIES, key=lambda c: z[c])]
+    if model == "durant":  # no turnovers; the worst weighted category of the other eight is dropped
+        worst = min(DURANT_H2H_WEIGHTS, key=lambda c: DURANT_H2H_WEIGHTS[c] * z[c])
+        return sorted({"tov", worst}, key=CATEGORIES.index)
     return []
 
 
@@ -225,6 +301,7 @@ def values(
             "injury": yn.injury if yn else None,
             "stats": {f: getattr(r, f) for f in (*STAT_FIELDS, "min")},
             "usg_pct": usage.get(pk),
+            "age": _age(p, season),
             "z": v["z"] if v else None,
             "total": v["total"] if v else None,
             "rank": v["rank"] if v else None,

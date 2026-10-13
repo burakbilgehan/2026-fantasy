@@ -1,13 +1,14 @@
 import { useEffect, useState } from 'react'
 import { STATIC } from './api/client'
 import { widgets } from './layout/registry'
+import { DraftSim } from './widgets/draft-sim/DraftSim'
 import { PlayerValues, type View } from './widgets/player-values/PlayerValues'
 
 // Views as tabs (user, 2026-10-06). Each has its own address, so two or three can sit side by side in
 // separate browser tabs; every tab polls the backend itself and the selected player is shared.
-type Page = View | 'info'
+type Page = View | 'info' | 'sim'
 const PAGES: { key: Page; label: string }[] = [
-  { key: 'draft', label: 'Draft' }, { key: 'league', label: 'League' }, { key: 'player', label: 'Player' }, { key: 'info', label: 'Info' },
+  { key: 'draft', label: 'Draft' }, { key: 'league', label: 'League' }, { key: 'player', label: 'Player' }, { key: 'sim', label: 'Sim' }, { key: 'info', label: 'Info' },
 ]
 const pageOf = (): Page => (PAGES.find((p) => `#${p.key}` === window.location.hash)?.key ?? 'draft')
 
@@ -72,7 +73,14 @@ export default function App() {
         </nav>
         <ThemeSwitch />
       </header>
-      {page === 'info' ? (
+      {page === 'sim' ? (
+        <main className="fill">
+          <section className="panel fill scroll" aria-label="Sim">
+            <h2>Draft room simulation</h2>
+            <DraftSim />
+          </section>
+        </main>
+      ) : page === 'info' ? (
         <main className="grid scroll">
           {widgets.filter((w) => w.id !== 'player-values').map(({ id, title, component: Widget, wide }) => (
             <section key={id} className={wide ? 'panel wide' : 'panel'} aria-labelledby={`${id}-title`}>

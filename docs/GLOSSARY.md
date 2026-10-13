@@ -37,6 +37,7 @@ Add a term when you meet it in a note, a source or a session. Tags used on playe
 - **Balanced**: auction plan that spreads the budget over many mid-price players.
 - **Streaming**: using one or more roster spots for short-term pickups to play more games per week.
 - **Nine-cat fluff** (Lloyd): a player whose 9-cat rank is higher than his real worth, because the z-score sum rewards low turnovers, steals or one extreme category.
+- **Cat vs Pts** (our table column, 2026-10-13; user reading): points-league rank minus the model's rank. Points-league rank = Yahoo fantasy points (PTS + 1.2 REB + 1.5 AST + 3 STL + 3 BLK - TO). Green, positive = worth more in categories than in points leagues (Cason Wallace); a room that follows Yahoo ranks underpays him. Red, negative = worth more in points leagues (Banchero, Morant); the room overpays him. Not the same as Lloyd's nine-cat fluff, which says the opposite about the straight z-score: the z sum flatters low-volume specialists. With G-score or the simulated value as the model that bias is already corrected, so the column reads as a price signal.
 - **Quality game** (Lloyd): a game on a day with few NBA games, so the player surely fits in the lineup.
 
 ## Market and auction
@@ -49,12 +50,16 @@ Add a term when you meet it in a note, a source or a session. Tags used on playe
 ## Valuation models
 - **Z-score**: (player stat minus pool average) / pool standard deviation, per category, then the sum. The classic method (Basketball Monster, Hashtag).
 - **Minus-1**: z-score sum without the player's own worst category (Basketball Monster definition).
-- **DURANT**: Josh Lloyd's ranking for H2H at Basketball Monster. Per game, no turnovers, corrects fluff. Exact formula is not public.
+- **DURANT**: Josh Lloyd's rankings (joshlloydfantasy.com, article read 2026-10-13). Yeo-Johnson transform per category on the full NBA sample, then z. DURANT: all categories 1.00, turnovers 0.50. DURANT H2H (the rank he quotes): points 1.00, rebounds 0.94, assists 0.75, the other six 0.60, no turnovers, Minus 1. Per game.
+- **DURANT v2**: our earlier guess at DURANT (per game, no turnovers, square root on blocks and steals, Minus 1; Spearman 0.984 with 41 quoted ranks). Superseded by the published formula above (0.987 to 0.991).
 - **G-score**: z-score with week-to-week variance added to the denominator. Noisy categories (steals, percentages, turnovers) weigh less. Source: arXiv 2307.02188.
 - **H-score**: value of a player given my current team and the draft state. Finds punts by itself. Source: arXiv 2409.09884.
 - **SAVOR**: streaming-adjusted value over replacement. Dollar conversion that lowers cheap players, because they are replaced during the season.
+- **Simulated H2H value (MWV, marginal win value)**: a player's mean share of category matchups won when he is added to many 11-player teams that play 11 opponents week by week on the real game logs. No z, no SD. Hindsight on a real season; on a projection only with simulated weekly lines. Team-conditional version = the H-score idea. Source: `docs/modules/valuation-models-research.md`.
 
 ## Our own terms
+- **Weekly sim** (draft panel, 2026-10-13): the candidate's effect on my team against the rosters drafted so far, on expected weekly lines; shown as the category share before and after, weekly wins, and adds and costs per category.
+- **Room simulation** (Sim tab, 2026-10-13): an auction among 12 simulated managers with different valuations (market followers, z-score, Minus-1, DURANT, points league, stars first, bargain hunter, me), then a season with week-to-week noise. Shows rosters, the auction log, standings, playoff and title odds. Numbers center on 50%, unlike the random-room test in the research note.
 - **Durable**: note or tag that stays true for a long time (skills, category profile, injury history).
 - **Current**: note or tag that can change soon (role, form, health, expert calls).
 - **Fact**: something that happened or is the case (a trade, an injury). Stays until a newer fact replaces it.

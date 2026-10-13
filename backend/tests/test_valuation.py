@@ -1,3 +1,4 @@
+import math
 from datetime import date, timedelta
 from itertools import combinations
 
@@ -55,15 +56,12 @@ def test_per_game_basis_ignores_games_played():
     assert pg["half"] == pytest.approx(pg["star"])
 
 
-def test_minus1_and_durant_drop_the_worst_category():
+def test_minus1_drops_the_worst_category():
     s = Settings(pool=None)
     z, ztot = value(POOL, MODELS["zscore"].total, s)
     _, m1 = value(POOL, MODELS["minus1"].total, s)
-    _, du = value(POOL, MODELS["durant"].total, s)
     for p, zp in z.items():
         assert m1[p] == pytest.approx(ztot[p] - min(zp.values()))
-        eight = [zp[c] for c in CATEGORIES if c != "tov"]
-        assert du[p] == pytest.approx(sum(eight) - min(eight))
     # the big man's FT% is his worst category; Minus-1 removes it
     assert min(z["big"], key=z["big"].get) == "ft_pct"
 
@@ -159,3 +157,130 @@ def test_matchup_and_all_play():
     tw = team_weeks(["x"], {"x": {"w1": better}}, weeks)
     ow = team_weeks(["y"], {"y": {"w1": base}}, weeks)
     assert all_play(tw, [ow], weeks) == (pytest.approx(5.5 / 9), 1.0)
+
+
+# --- 2026-10-13: Yeo-Johnson, DURANT H2H (published formula), kappa, simulation ---
+
+def test_yeo_johnson_matches_scipy_reference():
+    from app.analytics.valuation.transform import fit_lambda, yeo_johnson
+
+    # scipy.stats.yeojohnson on this sample (checked 2026-10-13): lambda 0.1800 on a gamma(4, 4) draw
+    # is not reproducible without the draw, so use closed-form cases instead.
+    assert yeo_johnson([0.0, 3.0], 1.0) == pytest.approx([0.0, 3.0])  # lambda 1 = identity
+    assert yeo_johnson([3.0], 0.0) == pytest.approx([math.log(4.0)])
+    assert yeo_johnson([-3.0], 2.0) == pytest.approx([-math.log(4.0)])
+    assert yeo_johnson([-3.0], 1.0) == pytest.approx([-3.0])
+    # a right-skewed sample gets lambda below 1 (compressing the tail); a symmetric one stays near 1
+    skewed = [0.1, 0.2, 0.2, 0.3, 0.4, 0.5, 0.6, 0.9, 1.5, 2.5, 4.0, 7.0]
+    assert fit_lambda(skewed) < 0.6
+    symmetric = [-3, -2, -1, -0.5, 0, 0.5, 1, 2, 3]
+    assert 0.8 < fit_lambda(symmetric) < 1.2
+
+
+def test_transform_setting_reduces_an_outlier_category():
+    # with the transform, the big man's blocks z shrinks relative to the plain z
+    _, _ = value(POOL, MODELS["zscore"].total, Settings(pool=None))
+    z_plain, _ = value(POOL, MODELS["zscore"].total, Settings(pool=None))
+    z_yj, _ = value(POOL, MODELS["zscore"].total, Settings(pool=None, transform="yeo_johnson"))
+    assert z_yj["big"]["blk"] < z_plain["big"]["blk"]
+    assert z_yj["guard"]["tov"] < 0  # turnovers still count negative
+
+
+def test_durant_h2h_weights_no_turnovers_minus_one():
+    from app.analytics.valuation.models import DURANT_H2H_WEIGHTS
+
+    z = {c: 1.0 for c in CATEGORIES}
+    z["ft_pct"], z["tov"] = -2.0, -5.0
+    # weighted sum of the 8 non-TO categories, minus the worst weighted one (FT%: 0.6 x -2 = -1.2)
+    expect = sum(DURANT_H2H_WEIGHTS[c] * z[c] for c in CATEGORIES if c != "tov") + 1.2
+    assert MODELS["durant"].total(z, Settings()) == pytest.approx(expect)
+    assert MODELS["durant"].transform == "yeo_johnson"
+    # the broad DURANT: all eight at 1.0, turnovers at 0.5, nothing removed
+    assert MODELS["durant_all"].total(z, Settings()) == pytest.approx(7 * 1.0 - 2.0 + 0.5 * -5.0)
+
+
+def test_g_weights_kappa_uses_roster_size():
+    noisy = _logs("a", "2024-25", [10, 50]) + _logs("b", "2024-25", [0, 20]) + _logs("c", "2024-25", [5, 35])
+    w12 = g_weights(noisy, pool_size=3, roster_size=12)["pts"]
+    w13 = g_weights(noisy, pool_size=3, roster_size=13)["pts"]
+    assert w12 < w13 < 1.0  # a smaller roster: larger kappa, more shrinkage
+
+
+def test_simulation_prefers_the_better_player_and_counts_games():
+    from datetime import date as _date
+
+    from app.analytics.valuation.simulate import SimInputs, simulate
+
+    weeks = tuple(_date(2026, 10, 19) + timedelta(weeks=i) for i in range(4))
+    inputs = SimInputs(weeks=weeks, team_games={"A": (3, 4, 3, 4), "B": (4, 4, 4, 4)},
+                       team_of={p: "A" for p in POOL} | {"wing": "B", "half": "A"}, contexts=40, opponents=2, seed=1)
+    rows = dict(POOL)
+    rows["half"] = dict(POOL["star"], gp=35, **{k: v / 2 for k, v in POOL["star"].items() if k != "gp"})
+    share = simulate(rows, Settings(basis="totals"), inputs, pool_size=6, team_size=2)
+    assert share["star"] > share["bench"]
+    assert share["star"] > share["half"]  # same per-game line, half the games: fewer weekly wins
+    assert "dnp" not in share
+    # per game ignores availability: the same per-game line gives the same expected weekly lines
+    from app.analytics.valuation.simulate import expected_lines
+
+    players, e = expected_lines(rows, "per_game", inputs)
+    assert e[players.index("half")] == pytest.approx(e[players.index("star")])
+    players, e = expected_lines(rows, "totals", inputs)
+    assert e[players.index("half")].sum() == pytest.approx(e[players.index("star")].sum() / 2)
+    assert e[players.index("wing")].sum() > 0  # team B: 4 games every week
+
+
+def test_whatif_reports_gains_and_losses_by_category():
+    from datetime import date as _date
+
+    from app.analytics.valuation.simulate import SimInputs, whatif
+
+    weeks = tuple(_date(2026, 10, 19) + timedelta(weeks=i) for i in range(3))
+    inputs = SimInputs(weeks=weeks, team_games={"A": (3, 4, 3)}, team_of={p: "A" for p in POOL}, team_size=2)
+    # my team: the guard. Opponents: the wing alone, and the bench player alone. Candidate: the big.
+    r = whatif(POOL, "totals", inputs, my=["guard"], opponents=[["wing"], ["bench"]], candidate="big")
+    assert r["weeks"] == 3 and len(r["before"]["per_opp"]) == 2
+    assert r["after"]["cat_share"] >= r["before"]["cat_share"]
+    i_ft, i_blk = CATEGORIES.index("ft_pct"), CATEGORIES.index("blk")
+    assert r["delta"]["per_cat"][i_blk] >= 0  # the big adds blocks
+    assert r["delta"]["per_cat"][i_ft] <= 0  # and drags the free-throw rate down
+    empty = whatif(POOL, "totals", inputs, my=[], opponents=[], candidate="big")
+    assert empty["delta"]["cat_share"] == 0
+    with pytest.raises(ValueError):
+        whatif(POOL, "totals", inputs, my=["guard"], opponents=[["wing"]], candidate="dnp")
+
+
+def test_room_auction_respects_money_slots_and_second_price():
+    import numpy as np
+
+    from app.analytics.draftsim import Manager, auction
+
+    rng = np.random.default_rng(1)
+    pool = {f"p{i}": 60 - i for i in range(30)}  # 30 players, values 60 .. 31
+    managers = [Manager("a", "x", dict(pool), money=100, slots=5, noise=0.0),
+                Manager("b", "x", {p: v * 0.5 for p, v in pool.items()}, money=100, slots=5, noise=0.0)]
+    log = auction(managers, list(pool), rng)
+    assert all(m.slots == 0 and len(m.roster) == 5 for m in managers)
+    assert all(m.money >= 0 for m in managers) and len(log) == 10
+    first = log[0]
+    assert first["price"] == first["second"] + 1 or first["price"] == 1  # pays the second bid plus one
+    assert all(r["price"] >= 1 for r in log)
+
+
+def test_room_season_rewards_the_stronger_roster():
+    from datetime import date as _date
+
+    import numpy as np
+
+    from app.analytics.draftsim import play, round_robin
+    from app.analytics.valuation.simulate import SimInputs
+
+    assert all(len(r) == 6 for r in round_robin(12)) and len(round_robin(12)) == 11
+    weeks = tuple(_date(2026, 10, 19) + timedelta(weeks=i) for i in range(6))
+    inputs = SimInputs(weeks=weeks, team_games={"A": (3, 4, 3, 4, 3, 4)}, team_of={p: "A" for p in POOL}, team_size=2)
+    rosters = [["star", "big"], ["guard", "wing"], ["bench"], []]
+    out = play(rosters, POOL, "totals", inputs, np.random.default_rng(2), seasons=50, playoff_weeks=2, playoff_teams=4)
+    assert out["weeks"] == 6 and out["games"] == 4
+    assert out["cat_share"][0] > out["cat_share"][1] > out["cat_share"][3]
+    assert abs(sum(out["titles"]) - 100) < 1e-6 and out["titles"][0] > out["titles"][3]
+    assert abs(sum(out["wins"]) - 4 * 2) < 1e-6  # 4 regular weeks, 2 matchups per week

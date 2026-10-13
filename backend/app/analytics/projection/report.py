@@ -13,7 +13,7 @@ from pathlib import Path
 from sqlalchemy import func, select
 
 from app.analytics.projection import context, context_data as cd
-from app.analytics.valuation import CATEGORIES, Settings, run as value_run
+from app.analytics.valuation import CATEGORIES
 from app.db import SessionLocal
 from app.models import (Player, PlayerAdvancedStats, PlayerGameLog, PlayerProjection, PlayerSeasonStats,
                         ProjectionAdjustment)
@@ -71,14 +71,16 @@ def heat(text: str, z: float | None, full: float = Z_FULL) -> str:
 
 
 def values() -> dict[int, dict]:
-    """Minus-1 on the whole own projection, the site's default settings."""
-    from app.api.valuation import _league_draft
+    """The site's default model (app/api/valuation DEFAULTS, G-score since 2026-10-13) on the whole own
+    projection, with the table's default settings, so the report's dollars match the value table."""
+    from app.api.valuation import DEFAULTS, _run
 
     with SessionLocal() as db:
-        rows = {r.player_pk: {f: getattr(r, f) for f in STAT_FIELDS} for r in db.scalars(select(PlayerProjection).where(
+        base = {r.player_pk: r for r in db.scalars(select(PlayerProjection).where(
             PlayerProjection.source == "own", PlayerProjection.season == SEASON)) if r.gp}
-    n, budget = _league_draft()
-    return value_run(rows, "minus1", Settings(basis="totals", pool=200), n_drafted=n, budget=budget, dollars="plain")
+    res, _, _ = _run(base, DEFAULTS["model"], SEASON, DEFAULTS["basis"], frozenset(), DEFAULTS["dollars"],
+                     DEFAULTS["pool"], DEFAULTS["spread"])
+    return res
 
 
 def cat_cells(r, z: dict | None) -> str:

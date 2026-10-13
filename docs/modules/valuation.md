@@ -27,9 +27,17 @@ Extra inputs, not bases: G-score needs week-to-week variance (`player_game_logs`
 - No paid sources.
 - Stats views always show all 9 categories plus GP and minutes, also when a model ignores a category.
 
+## Decisions (user, 2026-10-13), from `valuation-models-research.md`
+- Default model: G-score (was Minus-1). It tracks the empirical weekly H2H value best (Spearman 0.98 over 4 seasons) and wins the hindsight draft tournament every season.
+- DURANT: the approximation is replaced by Josh Lloyd's published formulas (joshlloydfantasy.com/research/durant-fantasy-basketball, read 2026-10-13): Yeo-Johnson transform per category, then z; DURANT H2H = weights PTS 1.00, REB 0.94, AST 0.75, the rest 0.60, no turnovers, Minus 1; broad DURANT = all 1.00, turnovers 0.50. Per game, pool all, as he uses them. Reproduces 41 of his quoted 2025-26 ranks at Spearman 0.99.
+- New own model "Simulated H2H" (`simulate.py`): expected weekly lines (per game x the team's games that week x availability) for hundreds of random teams drawn from the top 144, all-play per fantasy week. Value = category wins above 50% per 100 matchups. Runs on any base: the NBA schedule for the current season, the game logs for past seasons. About 1.5 s, cached per base.
+- Format gap built as two table columns: FPts (Yahoo points-league formula per game) and Cat vs Pts = points-league rank minus the model's rank; green = worth more in categories than in points (the room underpays), red = the reverse (user reading, 2026-10-13). See GLOSSARY "Cat vs Pts".
+- Not added: Minus-2, percentile z, robust z (research candidates, weak in the tests); percentage volume scaling (no evidence: Spearman change under 0.001).
+- G-score kappa now uses the roster size (12), as in the paper; weights moved by about 1%.
+
 ## Open
 - Reference pool: decided 2026-10-04 (user): default top 200 by the model's own value. Stays a setting. Backtest: 144, 200, 250 and all are within noise.
-- Default model: decided 2026-10-04 (user): Minus-1. The value table and the draft board start with it. All models stay in the dropdown.
+- Default model: decided 2026-10-04 (user): Minus-1; changed 2026-10-13 (user): G-score. The value table and the draft board start with it. All models stay in the dropdown.
 - (Old note) Reference pool for the category average and standard deviation. Not the top 156, not a minutes cut alone (user): low-minute players who play every game and handcuffs (example: Paul Reed) are part of the real pool. Make the pool a setting and compare candidates in the backtest (for example: top N by the model's own value with N = 144, 200, 250; all players with a projection).
 - Exact formulas for balance score, fluff indicator and reliability score.
 - H-score: read the paper and the open source tool first (license not checked).
@@ -39,12 +47,14 @@ Extra inputs, not bases: G-score needs week-to-week variance (`player_game_logs`
 |---|---|---|
 | Z-score 9-cat | Classic. Each category: distance from the pool average in standard deviations. Sum of 9. | FG% and FT% as volume-weighted impact. TO negative. Method of Basketball Monster and Hashtag. |
 | Punt z-score | Classic, with the categories you turn off removed. | Category toggles. |
-| Minus-1 | Classic, without each player's own worst category. | Basketball Monster definition (verified, their help text). Fixes stars with one terrible category (Antetokounmpo, Williamson). |
-| DURANT approximation | Minus-1 without turnovers. Our guess at Josh Lloyd's H2H ranking. | The real formula is closed. Lloyd's rank quotes in `docs/knowledge/claims.md` can check how close we are. |
-| G-score | Classic, but noisy categories (steals, percentages, turnovers) weigh less, because weekly results in them are closer to luck. | arXiv 2307.02188. Needs week-to-week variance from `player_game_logs`. Paper weights vs z-score: STL 44%, FG% 56%, FT% 58%, TO 62%, PTS 65%, BLK 68%, REB 69%, 3PM 72%, AST 75%. Compute our own from the logs. |
+| Minus-1 | Classic, without each player's own worst category. The value for a team that punts that category. | Basketball Monster definition (verified, their help text). Fixes stars with one terrible category (Antetokounmpo, Williamson). Research 2026-10-13: a punt-optimistic view; weaker than G-score for an average team. |
+| DURANT H2H (Lloyd) | Josh Lloyd's head-to-head list as he published it: skew-corrected categories (Yeo-Johnson), points weigh most, no turnovers, the player's worst category dropped. Per game, pool all. | Published formula (verified 2026-10-13). Replaced the "DURANT approximation" (Minus-1 without TO). |
+| DURANT (Lloyd, all categories) | Lloyd's broad DURANT for roto and H2H: skew-corrected categories, all equal, turnovers at half weight. | Same source. |
+| Simulated H2H | Our own model: the player joins hundreds of random teams that play every fantasy week on expected weekly lines; value = category wins above 50% per 100 matchups. | `simulate.py`, numpy. Research note 2026-10-13. Deterministic lines (no week-to-week noise yet). The team-conditional version for the draft assistant is the next step. |
+| G-score | Classic, but noisy categories (steals, percentages, turnovers) weigh less, because weekly results in them are closer to luck. Default since 2026-10-13. | arXiv 2307.02188. Needs week-to-week variance from `player_game_logs`. Paper weights vs z-score: STL 44%, FG% 56%, FT% 58%, TO 62%, PTS 65%, BLK 68%, REB 69%, 3PM 72%, AST 75%. Compute our own from the logs. |
 | H-score | Value of a player for my team right now. Changes after every pick. Finds punts by itself. | arXiv 2409.09884, tool: zer2.github.io/fantasy-basketball-optimizer. Needs draft state. Build after the static models. |
 | Balance score | How evenly the value is spread over categories. Not a value; a second number. | Formula open. |
-| Fluff indicator | Gap between 9-cat rank and fantasy-points rank. Large gap = the 9-cat rank flatters or hides the player. | Own idea, from Lloyd's "nine-cat fluff". Formula open. |
+| Cat vs Pts (fluff indicator) | Gap between the model's rank and the points-league rank. Green = category value above points value. | Built 2026-10-13 as table columns FPts and Cat vs Pts (points-league rank minus model rank; Yahoo formula PTS + 1.2 REB + 1.5 AST + 3 STL + 3 BLK - TO). |
 | Reliability score | Share of games played in the last 3 seasons. A second number. | Lloyd: GP cannot be predicted (r about 0.3), except repeated lower-body injuries. |
 | Market | Not a model: Yahoo average cost, ESPN average auction price, our league's 2025-26 prices. | `player_market_values`, `draft_picks`. Signal = model dollars minus market dollars. |
 

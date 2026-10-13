@@ -13,6 +13,8 @@ from collections.abc import Callable, Iterable
 from dataclasses import dataclass, field
 from statistics import fmean, pstdev
 
+from app.analytics.valuation.transform import fit_lambda, yeo_johnson
+
 CATEGORIES = ("fg_pct", "ft_pct", "tpm", "pts", "reb", "ast", "stl", "blk", "tov")
 COUNTING = ("tpm", "pts", "reb", "ast", "stl", "blk", "tov")
 PERCENT = {"fg_pct": ("fgm", "fga"), "ft_pct": ("ftm", "fta")}
@@ -26,6 +28,10 @@ class Settings:
     punt: frozenset[str] = frozenset()  # categories the punt model leaves out
     g_weights: dict[str, float] = field(default_factory=dict)  # G-score: weight per category
     iterations: int = 3  # pool refinement rounds
+    # Power transform of every category before standardising: None or "yeo_johnson" (DURANT models).
+    transform: str | None = None
+    # Inputs of the simulated H2H model (app.analytics.valuation.simulate.SimInputs); None for the others.
+    sim: object | None = None
 
 
 def basis_stats(row: dict, basis: str) -> dict[str, float]:
@@ -39,9 +45,14 @@ def basis_stats(row: dict, basis: str) -> dict[str, float]:
 
 
 def category_z(
-    stats: dict[object, dict[str, float]], pool: Iterable[object],
+    stats: dict[object, dict[str, float]], pool: Iterable[object], transform: str | None = None,
 ) -> dict[object, dict[str, float]]:
-    """Z per category for every player. Mean, SD and shooting rates come from `pool`."""
+    """Z per category for every player. Mean, SD and shooting rates come from `pool`.
+
+    `transform="yeo_johnson"`: each category's raw values go through a Yeo-Johnson power
+    transform (lambda fitted on the pool) before standardising, so skewed categories such as
+    blocks and steals stop dominating (Lloyd's DURANT). The pool's rates and moments stay the reference.
+    """
     pool = list(pool)
     rates = {
         c: sum(stats[p][m] for p in pool) / (sum(stats[p][a] for p in pool) or 1.0)
@@ -54,13 +65,24 @@ def category_z(
             return s[m] - rates[c] * s[a]
         return s[c]
 
+    players = list(stats)
+    index = {p: i for i, p in enumerate(players)}
+    in_pool = [index[p] for p in pool]
+    cols = {c: [raw(stats[p], c) for p in players] for c in CATEGORIES}
+    if transform == "yeo_johnson":
+        for c in CATEGORIES:
+            sample = [cols[c][i] for i in in_pool]
+            if len(set(sample)) > 1:
+                cols[c] = yeo_johnson(cols[c], fit_lambda(sample))
+    elif transform is not None:
+        raise ValueError(f"unknown transform {transform}")
     moments = {}
     for c in CATEGORIES:
-        xs = [raw(stats[p], c) for p in pool]
+        xs = [cols[c][i] for i in in_pool]
         moments[c] = (fmean(xs), pstdev(xs) or 1.0)
     out = {}
-    for p, s in stats.items():
-        z = {c: (raw(s, c) - moments[c][0]) / moments[c][1] for c in CATEGORIES}
+    for p, i in index.items():
+        z = {c: (cols[c][i] - moments[c][0]) / moments[c][1] for c in CATEGORIES}
         z["tov"] = -z["tov"]
         out[p] = z
     return out
@@ -79,7 +101,7 @@ def value(
     stats = {p: basis_stats(r, settings.basis) for p, r in rows.items() if r["gp"] > 0}
     pool = list(stats)
     for _ in range(max(1, settings.iterations)):
-        z = category_z(stats, pool)
+        z = category_z(stats, pool, settings.transform)
         totals = {p: total(zp, settings) for p, zp in z.items()}
         if settings.pool is None or settings.pool >= len(stats):
             break

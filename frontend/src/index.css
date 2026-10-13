@@ -624,3 +624,16 @@ table.teams td.players small { color: var(--muted); font-size: 0.78em; }
 /* FG% and FT% volume under the rate in the value table. */
 td.heat .vol { display: block; font-size: 0.72em; font-weight: 400; color: var(--muted); line-height: 1.1; }
 td.heat .vol { font-size: 0.82em; color: color-mix(in oklab, var(--text) 70%, transparent); }
+
+/* Sim page (draft room simulation) */
+.draft-sim { display: flex; flex-direction: column; gap: 12px; padding: 0 4px 16px; }
+.draft-sim .controls { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+.draft-sim .controls label { display: flex; gap: 6px; align-items: center; font-size: 0.9rem; }
+.draft-sim .controls input { width: 5em; }
+.draft-sim table.sim td.roster { white-space: normal; max-width: 42em; font-size: 0.8rem; color: var(--muted); }
+.draft-sim table.sim tr.mine td { background: color-mix(in oklab, var(--accent) 12%, transparent); }
+.draft-sim table.sim tr.mine td.name { color: var(--accent); font-weight: 700; }
+.draft-sim .roster-detail { font-size: 0.8rem; }
+.draft-sim .roster-detail th, .draft-sim .roster-detail td { padding: 1px 6px; }
+.draft-sim .auction-log summary { cursor: pointer; margin: 8px 0; }
+.draft-sim .error { color: var(--bad); }

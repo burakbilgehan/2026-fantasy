@@ -9,13 +9,18 @@ import time
 from datetime import UTC, datetime
 
 from fastapi import APIRouter, HTTPException
+from pydantic import BaseModel
 from sqlalchemy import select
 from sqlalchemy.exc import OperationalError
 
+from app.analytics.valuation import CATEGORIES
+from app.analytics.valuation.simulate import whatif
 from app.config import get_settings
 from app.db import SessionLocal
 from app.draft import live, money
 from app.models import Player, PlayerExternalId
+from app.seasons import CURRENT_SEASON
+from app.sources.players.base import STAT_FIELDS
 
 router = APIRouter(prefix="/api/draft")
 
@@ -205,3 +210,40 @@ def live_board(league_id: str) -> dict:
                 if n else None
             ),
         }
+
+
+class WhatIf(BaseModel):
+    """Rosters so far (our player ids) and a candidate; the base is the value table's base."""
+
+    kind: str = "projection"
+    source: str = "yahoo"
+    season: str = CURRENT_SEASON
+    basis: str = "totals"
+    my: list[int]
+    opponents: list[list[int]]
+    candidate: int
+
+
+@router.post("/whatif")
+def what_if(body: WhatIf) -> dict:
+    """What the candidate does to my team against every other team, week by week, on expected
+    weekly lines (per game x the team's games that week x availability). Milliseconds: the draft
+    panel calls it on every focus change. Shares in percent; `delta` = after minus before."""
+    from app.api.valuation import KINDS, _sim_inputs
+
+    table = KINDS.get(body.kind)
+    if table is None:
+        raise HTTPException(400, f"kind must be one of {list(KINDS)}")
+    pks = set(body.my) | {p for o in body.opponents for p in o} | {body.candidate}
+    with SessionLocal() as db:
+        rows = {r.player_pk: {f: getattr(r, f) or 0 for f in STAT_FIELDS}
+                for r in db.scalars(select(table).where(table.source == body.source, table.season == body.season,
+                                                        table.player_pk.in_(pks)))}
+    if body.candidate not in rows:
+        raise HTTPException(404, "the candidate is not in this base")
+    try:
+        out = whatif(rows, body.basis, _sim_inputs(body.season), body.my, body.opponents, body.candidate)
+    except ValueError as exc:
+        raise HTTPException(400, str(exc)) from exc
+    out["categories"] = list(CATEGORIES)
+    return out

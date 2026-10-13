@@ -129,6 +129,7 @@ export type ValuedPlayer = {
   injury: string | null
   stats: Record<string, number | null>
   usg_pct: number | null // usage rate, fraction; season in settings.usage_season
+  age: number | null // age on October 1 of the base season's first year
   z: Record<string, number> | null
   total: number | null
   rank: number | null
@@ -272,13 +273,21 @@ async function staticValuation(q: ValuationQuery): Promise<Valuation> {
   return { settings: v.settings, players }
 }
 
+// Lloyd's published DURANT H2H weights (app/analytics/valuation/models.py DURANT_H2H_WEIGHTS).
+const DURANT_H2H_WEIGHTS: Record<string, number> = { fg_pct: 0.6, ft_pct: 0.6, tpm: 0.6, pts: 1, reb: 0.94, ast: 0.75, stl: 0.6, blk: 0.6 }
+
 // Same rule as app/api/valuation.py off_categories.
 function offCategories(model: string, z: Record<string, number>, cats: string[], punt: string[]): string[] {
   if (model === 'punt') return cats.filter((c) => punt.includes(c))
-  if (model !== 'minus1' && model !== 'durant') return []
-  const pool = cats.filter((c) => model === 'minus1' || c !== 'tov')
-  const worst = pool.reduce((a, b) => (z[b] < z[a] ? b : a))
-  return model === 'minus1' ? [worst] : cats.filter((c) => c === 'tov' || c === worst)
+  if (model === 'minus1') return [cats.reduce((a, b) => (z[b] < z[a] ? b : a))]
+  if (model === 'durant') {
+    // no turnovers; the worst weighted category of the other eight is dropped
+    const pool = cats.filter((c) => c !== 'tov')
+    const w = (c: string) => (DURANT_H2H_WEIGHTS[c] ?? 1) * z[c]
+    const worst = pool.reduce((a, b) => (w(b) < w(a) ? b : a))
+    return cats.filter((c) => c === 'tov' || c === worst)
+  }
+  return []
 }
 
 async function staticPlayerModels(id: number, q: ValuationQuery): Promise<PlayerModels> {
@@ -299,7 +308,27 @@ async function staticPlayerModels(id: number, q: ValuationQuery): Promise<Player
   return { in_base: inBase, stats, models: inBase ? models : [] }
 }
 
+export type SimScore = { cat_share: number; match_share: number; per_cat: number[]; per_opp: number[] }
+/** Draft what-if (app/api/draft.py /whatif): my team with and without the candidate, week by week. Shares in percent. */
+export type WhatIf = { before: SimScore; after: SimScore; delta: SimScore; weeks: number; categories: string[] }
+export type WhatIfBody = { kind: string; source: string; season: string; basis: string; my: number[]; opponents: number[][]; candidate: number }
+
+export type RoomPlayer = { player_id: number; name: string; price: number; gscore_dollars: number; market_price: number }
+export type RoomTeam = { team: number; name: string; style: string; mine: boolean; spent: number; left: number; roster: RoomPlayer[]
+  cat_share: number; wins: number; losses: number; playoffs: number; titles: number; per_cat: number[] }
+export type RoomLog = { pick: number; player_id: number; name: string; nominator: string; winner: string; price: number; second: number; bidders: number }
+/** Sim page (app/api/sim.py): one simulated auction room and season. */
+export type RoomResult = {
+  settings: { kind: string; source: string; season: string; basis: string; plan: string; seed: number; seasons: number; weeks: number; games: number; teams: number; market_is_model: boolean }
+  categories: string[]
+  teams: RoomTeam[]
+  log: RoomLog[]
+}
+
 export const api = {
+  simRoom: (body: { plan: string; seed: number; seasons: number; kind?: string; source?: string; season?: string; basis?: string }) =>
+    request<RoomResult>('/api/sim/room', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) }),
+  whatIf: (body: WhatIfBody) => request<WhatIf>('/api/draft/whatif', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) }),
   league: () => request<League>('/api/league'),
   syncLeague: () => request<League>('/api/league/sync', { method: 'POST' }),
   liveDrafts: () => request<LiveDraftSummary[]>('/api/draft/live'),

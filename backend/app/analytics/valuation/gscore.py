@@ -1,6 +1,8 @@
 """G-score category weights from game logs (pure).
 
-arXiv 2307.02188v5: G = (mu(q) - mu) / sqrt(sigma^2 + kappa * tau^2), kappa = 2N / (2N - 1).
+arXiv 2307.02188v5: G = (mu(q) - mu) / sqrt(sigma^2 + kappa * tau^2), kappa = 2N / (2N - 1), where N is
+the number of players per team (the paper: "N per team"; 12 in our league, so kappa = 1.04). Until
+2026-10-13 the code used the pool size here (kappa 1.0035); the weights moved by about 1%.
 sigma = SD of the players' mean weekly values over the pool, tau = a player's week-to-week
 SD (pooled over the pool). Z-score is the case tau = 0. Here G = w_c * z_c with
 w_c = sigma_c / sqrt(sigma_c^2 + kappa * tau_c^2), so the model can run on any basis.
@@ -33,10 +35,11 @@ def weekly_sums(logs: Iterable[dict]) -> dict[tuple, dict[tuple, dict[str, float
     return out
 
 
-def g_weights(logs: Iterable[dict], pool_size: int = 144, min_weeks: int = 4) -> dict[str, float]:
+def g_weights(logs: Iterable[dict], pool_size: int = 144, min_weeks: int = 4, roster_size: int = 12) -> dict[str, float]:
     """Weight per category. Each season is measured on its own, then sigma^2 and tau^2 are averaged.
 
     Pool per season: the `pool_size` players with the most minutes and at least `min_weeks` weeks.
+    `roster_size`: players per fantasy team (kappa).
     """
     weekly = weekly_sums(logs)
     by_season: dict[str, list[tuple]] = defaultdict(list)
@@ -45,10 +48,8 @@ def g_weights(logs: Iterable[dict], pool_size: int = 144, min_weeks: int = 4) ->
             by_season[key[1]].append(key)
     sig2: dict[str, list[float]] = defaultdict(list)
     tau2: dict[str, list[float]] = defaultdict(list)
-    n_pool = pool_size
     for season, keys in by_season.items():
         pool = sorted(keys, key=lambda k: sum(w["min"] for w in weekly[k].values()), reverse=True)[:pool_size]
-        n_pool = len(pool)
         rates = {
             c: sum(w[m] for k in pool for w in weekly[k].values())
             / (sum(w[a] for k in pool for w in weekly[k].values()) or 1.0)
@@ -66,7 +67,7 @@ def g_weights(logs: Iterable[dict], pool_size: int = 144, min_weeks: int = 4) ->
                 variances.append(pvariance(xs))
             sig2[c].append(pstdev(means) ** 2)
             tau2[c].append(fmean(variances))
-    kappa = 2 * n_pool / (2 * n_pool - 1)
+    kappa = 2 * roster_size / (2 * roster_size - 1)
     out = {}
     for c in CATEGORIES:
         s2, t2 = fmean(sig2[c]), fmean(tau2[c])

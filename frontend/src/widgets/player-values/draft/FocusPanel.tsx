@@ -2,7 +2,7 @@
 // the user clicked in the table. Numbers, our analysis (profile, tags) and fit facts for my team.
 // Fit lines are facts (counts, money, H2H before and after), not verdicts (user, 2026-10-05).
 import { useEffect, useState, type CSSProperties } from 'react'
-import { api, type PlayerCard, type PlayerTag, type ValuedPlayer } from '../../../api/client'
+import { api, type PlayerCard, type PlayerTag, type ValuationQuery, type ValuedPlayer, type WhatIf } from '../../../api/client'
 import { Headshot } from '../../../components/Headshot'
 import { TagChip } from '../../../components/TagChip'
 import { CAT_LABEL } from '../../../lib/categories'
@@ -33,8 +33,32 @@ function useCard(pk: number | null) {
   return card && card.pk === pk ? card : null
 }
 
-export function FocusPanel({ row, name, bid, nominated, teams, onOpen, onClear }: {
+/** Weekly simulation of the candidate on my team against the rosters so far (POST /api/draft/whatif, ms).
+ *  Refetches when the focus player, the base or any roster changes, so it follows the draft live. */
+function useWhatIf(query: ValuationQuery | null, teams: DraftTeam[], row: ValuedPlayer | null) {
+  const [res, setRes] = useState<{ key: string; data: WhatIf } | null>(null)
+  const me = teams.find((t) => t.mine)
+  const ids = (t: DraftTeam) => t.players.map((p) => p.pk).filter((x): x is number => x != null)
+  const my = me ? ids(me) : []
+  const opponents = me ? teams.filter((t) => t.team_id !== me.team_id).map(ids) : []
+  const key = query && row && me
+    ? `${row.player_id}|${query.kind}|${query.source}|${query.season}|${query.basis}|${my.join(',')}|${opponents.map((o) => o.join(',')).join(';')}`
+    : null
+  useEffect(() => {
+    if (!key || !query || !row) return
+    let alive = true
+    api.whatIf({ kind: query.kind, source: query.source, season: query.season, basis: query.basis, my, opponents, candidate: row.player_id })
+      .then((d) => { if (alive) setRes({ key, data: d }) })
+      .catch(() => { if (alive) setRes(null) })
+    return () => { alive = false }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [key])
+  return res && res.key === key ? res.data : null
+}
+
+export function FocusPanel({ row, name, bid, nominated, teams, query, onOpen, onClear }: {
   row: ValuedPlayer | null
+  query: ValuationQuery | null
   name: string
   bid: { amount: number; team: string } | null
   nominated: boolean
@@ -43,6 +67,7 @@ export function FocusPanel({ row, name, bid, nominated, teams, onOpen, onClear }
   onClear?: () => void
 }) {
   const info = useCard(row?.player_id ?? null)
+  const sim = useWhatIf(query, teams, row)
   const me = teams.find((t) => t.mine)
   const summary = info?.card?.summary
   const tags = info?.tags ?? []
@@ -74,6 +99,19 @@ export function FocusPanel({ row, name, bid, nominated, teams, onOpen, onClear }
     fit.push({ label: 'H2H', tone: ha.wins > hb.wins ? 'good' : ha.wins < hb.wins ? 'bad' : undefined,
       text: `${hb.wins} → ${ha.wins} of ${hb.games} category wins` })
     if (moved.length) fit.push({ label: 'My ranks', text: moved.map((c) => `${CAT_LABEL[c]} ${rb[c]} → ${ra[c]}`).join(' · ') })
+    if (sim) {
+      // Expected weekly lines (per game x games that week x availability) against every roster so far.
+      const d = sim.delta
+      const sign = (v: number, digits = 1) => `${v >= 0 ? '+' : ''}${v.toFixed(digits)}`
+      const cats = sim.categories.map((c, i) => ({ c, v: d.per_cat[i] })).filter((x) => Math.abs(x.v) >= 3).sort((a, b) => b.v - a.v)
+      const adds = cats.filter((x) => x.v > 0).map((x) => `${CAT_LABEL[x.c]} ${sign(x.v, 0)}`).join(' · ')
+      const costs = cats.filter((x) => x.v < 0).map((x) => `${CAT_LABEL[x.c]} ${sign(x.v, 0)}`).join(' · ')
+      const up = d.per_opp.filter((x) => x > 0).length, down = d.per_opp.filter((x) => x < 0).length
+      fit.push({ label: 'Weekly sim', tone: d.cat_share > 0 ? 'good' : d.cat_share < 0 ? 'bad' : undefined,
+        text: `${sim.before.cat_share.toFixed(1)}% → ${sim.after.cat_share.toFixed(1)}% of category matchups (${sign(d.cat_share)})`
+          + ` · weekly wins ${sign(d.match_share)} points · better vs ${up} teams, worse vs ${down}` })
+      if (adds || costs) fit.push({ label: 'Adds · costs', text: [adds && `adds ${adds}`, costs && `costs ${costs}`].filter(Boolean).join(' | ') })
+    }
   }
   const risks = tags.filter((t) => RISK.test(t.tag))
   if (risks.length) fit.push({ label: 'Risk', tone: 'bad', text: risks.map((t) => t.tag + (t.detail ? ` (${t.detail})` : '')).join(' · ') })

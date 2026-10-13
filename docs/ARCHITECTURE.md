@@ -112,8 +112,10 @@ How to add a source (example: Hashtag Basketball):
 7. Names are matched at render time (`app/experts/match.py`): user alias, exact name, learned nickname, then last name and first initial. The note's team decides between players with the same name. Learned nicknames are written to `docs/knowledge/aliases.json` (`learned_players`) and never go into the prompt. Fix a wrong match with a user alias (`players`), then `make expert-render` (no LLM call).
 
 ## Valuation (T-017, T-010)
-- `app/analytics/valuation/`: pure functions. `run(rows, model, Settings)` gives per player category z, total, rank and dollars. Model registry with the dropdown descriptions: `models.py`. G-score weights from game logs: `gscore.py`. Dollars (plain, SAVOR): `dollars.py`.
+- `app/analytics/valuation/`: pure functions. `run(rows, model, Settings)` gives per player category z, total, rank and dollars. Model registry with the dropdown descriptions: `models.py`. G-score weights from game logs: `gscore.py`. Dollars (plain, SAVOR): `dollars.py`. Yeo-Johnson transform for the DURANT models (stdlib): `transform.py`, switched on by `Settings.transform`. Simulated H2H model: `simulate.py` (numpy; `SimInputs` = fantasy weeks, games per team per week, player teams; the API builds them from `nba_schedule` for the current season and from the game logs for past seasons, and caches the result per base).
 - API: `GET /api/valuation/options`, `GET /api/valuation` (`app/api/valuation.py`). Computed per request; no DB table. Widget: `frontend/src/widgets/player-values/`.
+- Draft what-if: `POST /api/draft/whatif` (`app/api/draft.py`) runs `simulate.whatif` for the focus panel: my roster with and without the candidate against the other rosters, expected weekly lines.
+- Sim page: `app/analytics/draftsim.py` (pure numpy: second-price auction among managers with their own valuations, round-robin season with week-to-week noise, fixed 8-team playoff bracket) and `app/api/sim.py` (`GET /api/sim/plans`, `POST /api/sim/room`; the room mix and my plans live there; cached per request). Frontend `frontend/src/widgets/draft-sim/DraftSim.tsx`, tab `#sim`. Not in the static copy (needs POST).
 - Backtest: `make valuation-backtest` (`app/jobs/valuation_backtest.py`, helpers `app/analytics/h2h_backtest.py`). Writes `docs/modules/valuation-backtest.md`.
 
 ## Player drawer (T-028)
